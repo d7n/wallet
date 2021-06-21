@@ -1,1 +1,1 @@
-var mnemonic = "chuckle despair rocket cost limb document mango sight giggle ticket pottery move";
+var mnemonic = "kind range kid ten husband ugly photo glide vivid work recall crime";

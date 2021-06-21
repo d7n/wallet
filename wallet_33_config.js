@@ -1,1 +1,1 @@
-var mnemonic = "never weather never analyst unfold million machine garlic oil frozen auto wolf";
+var mnemonic = "keep absurd chapter outside turtle scatter step draw afraid trim tunnel morning";

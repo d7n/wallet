@@ -1,1 +1,1 @@
-var mnemonic = "talent hotel cloud fatigue duty amateur poem leg casual aerobic electric agent";
+var mnemonic = "alley tunnel fruit credit salute gauge pride tip pelican menu plunge equal";

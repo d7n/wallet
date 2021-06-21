@@ -1,1 +1,1 @@
-var mnemonic = "miss web hat venue grant toilet wish sting noble march crash dad";
+var mnemonic = "thumb analyst diesel afraid example nuclear repeat upon treat gadget chase rifle";

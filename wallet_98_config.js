@@ -1,1 +1,1 @@
-var mnemonic = "hat swing local shop throw cream number peace income false enlist basic";
+var mnemonic = "mandate filter maximum stomach brand city soldier fiber fashion that volcano exile";

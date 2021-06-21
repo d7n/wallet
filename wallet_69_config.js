@@ -1,1 +1,1 @@
-var mnemonic = "rabbit letter fringe together exclude trade whale flee goat fold curtain delay";
+var mnemonic = "deer topic mouse milk shove hammer dog steel usage sense stand couple";

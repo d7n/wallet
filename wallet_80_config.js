@@ -1,1 +1,1 @@
-var mnemonic = "unique title avocado patch want pencil orbit castle snap spy nerve grunt";
+var mnemonic = "grant current snake top gossip address super bird firm paper gallery pluck";

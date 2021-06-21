@@ -1,1 +1,1 @@
-var mnemonic = "exclude rebuild stay note above deny ostrich oxygen dentist stem member mail";
+var mnemonic = "basic tree rubber timber swear pumpkin rally dress muffin round field zoo";

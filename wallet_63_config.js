@@ -1,1 +1,1 @@
-var mnemonic = "promote dance evoke ticket sock sunny federal that win garden limb move";
+var mnemonic = "oval defy novel before nerve maple super bridge novel bullet nuclear upper";

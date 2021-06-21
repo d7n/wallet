@@ -1,1 +1,1 @@
-var mnemonic = "hair that soul violin vintage draw local sleep suggest web top grit";
+var mnemonic = "license desert true bounce mask monitor rare obtain slide final jungle erode";

@@ -1,1 +1,1 @@
-var mnemonic = "wrong perfect zoo siege someone pluck talent boil alpha barely appear inner";
+var mnemonic = "cause burger joke text settle until pudding vacant truth opinion odor keep";

@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin solve arrest girl chronic staff happy benefit hotel metal fuel fish";
+var mnemonic = "trash sleep render cute lady talk night novel ready increase rent belt";

@@ -1,1 +1,1 @@
-var mnemonic = "there feature auction pyramid tooth agent toy believe code illness invite mail";
+var mnemonic = "desert eagle over jar science warm pizza allow primary approve produce idle";

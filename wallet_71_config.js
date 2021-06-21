@@ -1,1 +1,1 @@
-var mnemonic = "cause skirt speed inflict shy forget mercy jump around engine coconut educate";
+var mnemonic = "verb behave cake this mosquito book weapon six window velvet female host";

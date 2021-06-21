@@ -1,1 +1,1 @@
-var mnemonic = "point order arrive awesome dance forget loan doctor action pipe exercise industry";
+var mnemonic = "grace erosion ship arctic document borrow deputy what company bind grit inform";

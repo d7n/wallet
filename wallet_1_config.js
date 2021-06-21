@@ -1,1 +1,1 @@
-var mnemonic = "letter miracle wheat ship unable upper title spawn weapon season bachelor video";
+var mnemonic = "shoot squirrel ready section enroll until mansion flower kingdom eye enforce space";

@@ -1,1 +1,1 @@
-var mnemonic = "fringe wasp seminar canyon wolf damp thumb busy auction damp hurt forum";
+var mnemonic = "forget moment believe truck black mutual tackle vapor utility scheme chalk bicycle";

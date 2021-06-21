@@ -1,1 +1,1 @@
-var mnemonic = "oyster opera cash monster stick more horn ten cradle loud hawk quarter";
+var mnemonic = "april profit recall label volcano lab leopard evolve gossip embrace metal goddess";

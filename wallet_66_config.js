@@ -1,1 +1,1 @@
-var mnemonic = "upgrade gravity approve coach draw hello super hood way crucial liquid analyst";
+var mnemonic = "area life forward polar evil arm dry soul veteran shy assault dinosaur";

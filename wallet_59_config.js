@@ -1,1 +1,1 @@
-var mnemonic = "mule immense hobby predict helmet wine either say ability shadow photo rebel";
+var mnemonic = "second evolve lady orbit giant narrow reject health salad aerobic sport message";

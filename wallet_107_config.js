@@ -1,1 +1,1 @@
-var mnemonic = "call siren adapt grass short author patch spoon exotic knock arrive pride";
+var mnemonic = "life method sudden feel tiger distance then offer shallow open beef same";

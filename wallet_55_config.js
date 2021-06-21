@@ -1,1 +1,1 @@
-var mnemonic = "zebra dirt wheel final use glory short amazing dose cool appear grit";
+var mnemonic = "praise gap trophy cinnamon share vehicle ready innocent pizza woman tape say";

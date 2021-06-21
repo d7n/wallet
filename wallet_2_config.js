@@ -1,1 +1,1 @@
-var mnemonic = "upgrade bid funny often disagree name brown jeans also lamp merit sunset";
+var mnemonic = "spell very crater lazy pitch elbow autumn theme sniff track afraid scheme";

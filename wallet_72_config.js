@@ -1,1 +1,1 @@
-var mnemonic = "cigar flash smoke olympic brick ecology antenna pledge chalk lyrics ivory caught";
+var mnemonic = "two boring leg topic damp bubble tribe festival gauge vibrant ski resource";

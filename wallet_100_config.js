@@ -1,1 +1,1 @@
-var mnemonic = "filter doll slam exclude beach tuition parent fade art strike stage street";
+var mnemonic = "tray release never say under mandate marriage train slide body north divide";

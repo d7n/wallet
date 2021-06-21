@@ -1,1 +1,1 @@
-var mnemonic = "what lucky person sheriff tonight goat casino razor bunker artefact palace three";
+var mnemonic = "hazard ostrich shop reveal reduce layer horror behave wreck maze craft memory";

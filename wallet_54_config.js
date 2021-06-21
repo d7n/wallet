@@ -1,1 +1,1 @@
-var mnemonic = "tent leader easily special check firm erosion tray void rug over female";
+var mnemonic = "slab crack job sadness caught true urban creek satisfy fit prefer will";

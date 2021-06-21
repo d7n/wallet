@@ -1,1 +1,1 @@
-var mnemonic = "explain sketch harvest announce seed comfort pulse blame rely prevent grain nominee";
+var mnemonic = "kiss smooth equip maximum slab bind fragile dad soap column parade prepare";

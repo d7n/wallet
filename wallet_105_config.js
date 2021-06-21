@@ -1,1 +1,1 @@
-var mnemonic = "twin area census water frost riot simple library badge oxygen scrap summer";
+var mnemonic = "mandate endorse party verb shine true frog ill turn zone chimney catch";

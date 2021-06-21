@@ -1,1 +1,1 @@
-var mnemonic = "sleep quality easily flash car bottom shiver design tail wide luggage stand";
+var mnemonic = "grocery illegal retreat season bomb vast warm bitter rule axis change acquire";

@@ -1,1 +1,1 @@
-var mnemonic = "uphold grass settle ship penalty useless orange system fog live leisure coast";
+var mnemonic = "skirt raven tool pistol fun divorce jungle motion cycle okay dove time";

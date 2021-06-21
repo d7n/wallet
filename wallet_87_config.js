@@ -1,1 +1,1 @@
-var mnemonic = "burger know inmate zone cube hamster episode snap nation apple present harsh";
+var mnemonic = "churn phrase symptom long then crunch gentle daughter doll fiction tag march";

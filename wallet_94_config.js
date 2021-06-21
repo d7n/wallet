@@ -1,1 +1,1 @@
-var mnemonic = "orphan wife heavy noise urge health chapter artwork ethics soldier creek august";
+var mnemonic = "usage ridge exhaust service shoe veteran expire student science alert chat common";

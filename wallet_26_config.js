@@ -1,1 +1,1 @@
-var mnemonic = "mouse tide field vicious bar rug oven release annual hope sign ahead";
+var mnemonic = "yard volcano bag hello soap invite lumber urban shrimp flavor volume organ";

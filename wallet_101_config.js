@@ -1,1 +1,1 @@
-var mnemonic = "matrix laptop salmon expose advice proof runway health fancy cost lazy tunnel";
+var mnemonic = "observe other badge rare impact aisle there merry act athlete spot resemble";

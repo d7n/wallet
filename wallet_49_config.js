@@ -1,1 +1,1 @@
-var mnemonic = "enough stamp day useless burger cute material laundry dignity tuna suit broccoli";
+var mnemonic = "ketchup bullet unaware demand butter purse cave wing undo omit you fall";

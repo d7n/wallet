@@ -1,1 +1,1 @@
-var mnemonic = "congress misery ski hundred suffer human drill clip remember ginger actor jealous";
+var mnemonic = "upon mandate degree process actor south cheap razor rely connect task grass";

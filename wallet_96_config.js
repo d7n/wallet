@@ -1,1 +1,1 @@
-var mnemonic = "give charge style clever holiday crumble scrub pledge twelve oven antenna woman";
+var mnemonic = "divert midnight brisk verb trash setup silly canoe curious extend say potato";

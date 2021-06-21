@@ -1,1 +1,1 @@
-var mnemonic = "gadget buzz diet solar swap cube wild surround jazz neither stay trip";
+var mnemonic = "use cook pole measure game civil update cry legal bundle nurse jaguar";

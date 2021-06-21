@@ -1,1 +1,1 @@
-var mnemonic = "copy crazy fringe absent safe bar exhaust repeat treat title dutch cream";
+var mnemonic = "erode detect tide ability smile donate science filter violin wagon club unknown";

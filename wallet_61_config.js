@@ -1,1 +1,1 @@
-var mnemonic = "cotton method quick jazz thank desert account rubber bag strong true economy";
+var mnemonic = "remember test stick certain upper genre note vintage shock armor ball biology";

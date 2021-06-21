@@ -1,1 +1,1 @@
-var mnemonic = "cargo dragon exile mention half orange calm magnet gym sheriff around spice";
+var mnemonic = "pottery link bachelor pause hunt survey ride panic dentist country script canyon";

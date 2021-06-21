@@ -1,1 +1,1 @@
-var mnemonic = "glow piano chimney vague orange payment meadow ten elder train camera note";
+var mnemonic = "crunch need confirm involve six two diesel auction payment custom draft swim";

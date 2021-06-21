@@ -1,1 +1,1 @@
-var mnemonic = "bus fee tube size buddy birth thing open boat metal inner during";
+var mnemonic = "exotic motor humor plunge shallow home elephant tiger letter wink bargain cry";

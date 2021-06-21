@@ -1,1 +1,1 @@
-var mnemonic = "fold filter rival quiz age sun genuine federal leg stuff carpet scissors";
+var mnemonic = "design code useless shy negative attack injury develop napkin remain cigar imitate";

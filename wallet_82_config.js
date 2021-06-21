@@ -1,1 +1,1 @@
-var mnemonic = "tone tissue main blanket actor amateur punch slush trouble glove dizzy unknown";
+var mnemonic = "type buzz welcome manage diet rescue steak boat grant doll warfare vessel";

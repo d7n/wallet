@@ -1,1 +1,1 @@
-var mnemonic = "reopen dial notable comfort glow fire lock punch price salon prize barrel";
+var mnemonic = "prepare feature approve ginger wave loan rent hawk mercy forest side dash";

@@ -1,1 +1,1 @@
-var mnemonic = "office news admit sing destroy grid gate surprise scatter canal chapter general";
+var mnemonic = "push icon omit reform neither drip involve giant miracle picture believe frog";

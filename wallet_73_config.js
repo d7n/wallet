@@ -1,1 +1,1 @@
-var mnemonic = "quiz pact panda mother gym valid mandate hobby scheme oak pen jelly";
+var mnemonic = "usual month office will silver later quit people first globe message damp";

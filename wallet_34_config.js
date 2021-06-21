@@ -1,1 +1,1 @@
-var mnemonic = "shoot water ceiling exhaust labor weather field average wheel cliff candy life";
+var mnemonic = "betray rather banana input mansion poverty garbage pudding hunt stone seed offer";

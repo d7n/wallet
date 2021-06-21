@@ -1,1 +1,1 @@
-var mnemonic = "want eight spawn seek file acoustic cash leg add sail history battle";
+var mnemonic = "palace asthma found awesome float oven ocean border sport hungry disorder idle";

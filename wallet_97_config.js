@@ -1,1 +1,1 @@
-var mnemonic = "rescue salmon true attend normal erupt salt gym finish grow hold proof";
+var mnemonic = "reject math sugar sweet dwarf later fiscal fever inside rib doll start";

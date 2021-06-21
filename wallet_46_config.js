@@ -1,1 +1,1 @@
-var mnemonic = "wagon sugar style congress robust nominee choose wasp add few battle scale";
+var mnemonic = "one cherry finish illness derive connect noodle stick roast easily relief army";

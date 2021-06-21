@@ -1,1 +1,1 @@
-var mnemonic = "bring copy tenant chest eternal gauge orbit anxiety camp vehicle during baby";
+var mnemonic = "busy chimney unit entry arctic palace scan trash damage lava mushroom police";

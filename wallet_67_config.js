@@ -1,1 +1,1 @@
-var mnemonic = "beyond misery swift rural split hotel trust blast risk mouse execute modify";
+var mnemonic = "puzzle aspect whale claw check dust learn screen oppose custom try engine";

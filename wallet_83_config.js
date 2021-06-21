@@ -1,1 +1,1 @@
-var mnemonic = "rebel faint donate knife range grab grid laugh remind warm hybrid patch";
+var mnemonic = "kangaroo unaware ritual cousin stadium garden fatigue monkey style ugly welcome cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "analyst normal travel strong sausage fee fence bag expand negative question eyebrow";
+var mnemonic = "crystal art stage assault dizzy swarm wood mom cover rack double ordinary";

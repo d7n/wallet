@@ -1,1 +1,1 @@
-var mnemonic = "one other into biology pig lawsuit vivid pluck sweet tragic rescue loyal";
+var mnemonic = "exchange flush volume neck crop casual milk cool heavy snack denial speak";

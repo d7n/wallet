@@ -1,1 +1,1 @@
-var mnemonic = "electric diesel error stomach buzz moon art cry blade tape spoon brain";
+var mnemonic = "scan weather strike melt right wrap orchard matrix head way twenty midnight";

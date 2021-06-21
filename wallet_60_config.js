@@ -1,1 +1,1 @@
-var mnemonic = "upgrade seed adapt bone misery stable what abstract clutch test tag gown";
+var mnemonic = "worth expand wreck spell blanket frozen clarify climb swamp bean insane ten";

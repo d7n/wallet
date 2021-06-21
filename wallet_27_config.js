@@ -1,1 +1,1 @@
-var mnemonic = "adjust dad kingdom easy rather glare leaf cluster bunker fox put place";
+var mnemonic = "junior blur exhaust sea random patient world try winner auction amused often";

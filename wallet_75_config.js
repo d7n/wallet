@@ -1,1 +1,1 @@
-var mnemonic = "seek add topple soup brand drop dawn noble rebuild window emerge chief";
+var mnemonic = "spend shiver interest ostrich change damp venture shoot gate clarify agree option";

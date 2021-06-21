@@ -1,1 +1,1 @@
-var mnemonic = "useful cereal craft hour involve kidney bean ski search friend brave monster";
+var mnemonic = "scan episode mom retire asthma better wave tiny hand badge peace version";

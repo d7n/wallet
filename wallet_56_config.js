@@ -1,1 +1,1 @@
-var mnemonic = "fox detect provide swift magic heart drink imitate inner immense goddess live";
+var mnemonic = "speak nation cart salmon year tortoise buzz then cost slab upon burger";

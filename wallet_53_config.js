@@ -1,1 +1,1 @@
-var mnemonic = "neck above idle notice endorse word dash cotton fence kitten extend pepper";
+var mnemonic = "zoo sibling evidence surge extra wild visit focus fun size spirit broom";

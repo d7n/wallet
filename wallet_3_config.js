@@ -1,1 +1,1 @@
-var mnemonic = "stove pizza appear steak sight hawk trip summer hip better clock furnace";
+var mnemonic = "gun auction gorilla length icon prize embark game struggle offer parade pupil";

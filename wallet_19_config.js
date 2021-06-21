@@ -1,1 +1,1 @@
-var mnemonic = "yard toss cushion clever worth rotate guard employ creek swarm trade turn";
+var mnemonic = "strike fine retreat second lunch rookie trust echo pause monster about swift";

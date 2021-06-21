@@ -1,1 +1,1 @@
-var mnemonic = "frame coil horn grunt trick method include win creek issue cactus dress";
+var mnemonic = "double actor deer plate deny couch proof ripple bitter broccoli ugly sphere";

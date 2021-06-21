@@ -1,1 +1,1 @@
-var mnemonic = "dentist erase fiscal pole banner tunnel lady feature lawn together wife zero";
+var mnemonic = "cry wine host leaf need water swap fat quote wonder cycle any";

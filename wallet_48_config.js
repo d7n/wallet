@@ -1,1 +1,1 @@
-var mnemonic = "shell illegal way rabbit boring neutral mouse rough stove pet brisk end";
+var mnemonic = "apple render else super frequent bring drive artist liquid pizza proud cart";

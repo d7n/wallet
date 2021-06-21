@@ -1,1 +1,1 @@
-var mnemonic = "style defense hire burst sleep wink paper such hope nose salt fluid";
+var mnemonic = "scene kitchen supreme wave resemble timber frog begin vocal clap donate glad";

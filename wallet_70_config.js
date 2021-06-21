@@ -1,1 +1,1 @@
-var mnemonic = "fish chest general wife anxiety situate flee edit ski fox teach govern";
+var mnemonic = "hurdle drastic window lizard resemble home clarify ready record antique proof region";

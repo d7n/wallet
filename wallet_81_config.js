@@ -1,1 +1,1 @@
-var mnemonic = "pave distance dawn when april roast mobile unhappy scrub festival feature middle";
+var mnemonic = "away review cloud guess behave sea immense absurd pattern clerk total enemy";

@@ -1,1 +1,1 @@
-var mnemonic = "shock pepper marble scrap void energy wreck entire citizen devote safe pyramid";
+var mnemonic = "small fury mixture guitar flush chronic snap client people device cave change";

@@ -1,1 +1,1 @@
-var mnemonic = "master cream blossom snack hard core sphere ridge crush detail uncle broccoli";
+var mnemonic = "predict grief invite power quote into letter rate high category ice dutch";

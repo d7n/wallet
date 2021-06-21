@@ -1,1 +1,1 @@
-var mnemonic = "nurse load fault miss unable sting reveal large door collect rose protect";
+var mnemonic = "hammer banana hill minimum layer champion harvest science question brother engage believe";

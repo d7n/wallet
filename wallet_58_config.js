@@ -1,1 +1,1 @@
-var mnemonic = "wreck powder lazy wine body kick lake abuse together select work ahead";
+var mnemonic = "duty witness upper uphold mail scare clay can gym relax tip exchange";

@@ -1,1 +1,1 @@
-var mnemonic = "happy rubber congress unfold damp very advance prize hello tray lonely dream";
+var mnemonic = "oven average muscle road bring puppy hub era thing clever train hub";

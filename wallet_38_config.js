@@ -1,1 +1,1 @@
-var mnemonic = "hurry shift latin crowd unit unhappy plunge category melt sight bus neither";
+var mnemonic = "resemble figure resource same cake hero sand planet local wall fish heavy";

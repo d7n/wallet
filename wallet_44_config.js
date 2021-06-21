@@ -1,1 +1,1 @@
-var mnemonic = "ginger kind orient early depth wealth budget wool fine jar faculty urban";
+var mnemonic = "agree neglect release result more accuse behave coin year exhaust kingdom hunt";
