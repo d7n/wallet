@@ -1,1 +1,1 @@
-var mnemonic = "else garment absent world mind upon stadium film candy vanish cycle limb";
+var mnemonic = "shrug veteran rabbit bean hole crisp lunch symptom beyond club attack very";

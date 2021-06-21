@@ -1,1 +1,1 @@
-var mnemonic = "eye verify spirit pepper borrow report siege dumb woman toe turn entry";
+var mnemonic = "culture give acquire ghost client elder spirit laptop leave alter ozone emerge";

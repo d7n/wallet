@@ -1,1 +1,1 @@
-var mnemonic = "soul seat obtain orchard list improve mask income dwarf page race abstract";
+var mnemonic = "you oxygen toast thunder glove ribbon moral pepper ceiling cheap blush holiday";

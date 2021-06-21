@@ -1,1 +1,1 @@
-var mnemonic = "mesh great profit random nation rose sorry bronze audit crisp photo poem";
+var mnemonic = "question extra perfect exit void beef slight patrol palm hundred trophy clump";

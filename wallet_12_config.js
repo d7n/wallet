@@ -1,1 +1,1 @@
-var mnemonic = "benefit large cart unit used cat exercise boss crunch ability maid pluck";
+var mnemonic = "kiss liquid guess cake robust silly decorate wolf entry artwork lawsuit maple";

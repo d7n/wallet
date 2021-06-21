@@ -1,1 +1,1 @@
-var mnemonic = "universe syrup crew gift chalk limit shell soda grain citizen rent task";
+var mnemonic = "render travel cruise amused inch news vessel supreme relief envelope fun crater";

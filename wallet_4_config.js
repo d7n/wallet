@@ -1,1 +1,1 @@
-var mnemonic = "wrestle brown mountain final man expand bread maid mobile liberty hint season";
+var mnemonic = "canoe average shy cute shrimp vibrant review original owner term mask favorite";

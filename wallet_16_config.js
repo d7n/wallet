@@ -1,1 +1,1 @@
-var mnemonic = "void lottery cabbage find enjoy lucky people chair craft diary stuff boy";
+var mnemonic = "piano airport humble ignore degree exotic behave artefact ability asthma neck caught";

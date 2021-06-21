@@ -1,1 +1,1 @@
-var mnemonic = "steak leave unaware skate meat gentle trap armor sibling arrive useless west";
+var mnemonic = "carry extra gather venue mobile remind mix track dirt basic destroy mix";

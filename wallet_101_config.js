@@ -1,1 +1,1 @@
-var mnemonic = "wool zoo wrap celery medal dream expose absent ozone sense mandate select";
+var mnemonic = "wrist insane ticket wrist distance enough equal secret clock guilt limit select";

@@ -1,1 +1,1 @@
-var mnemonic = "bomb cattle venue palm cushion board bird captain describe rent false few";
+var mnemonic = "pave fire tornado legal uniform toast aware dumb stadium clever allow horn";

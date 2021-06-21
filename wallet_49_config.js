@@ -1,1 +1,1 @@
-var mnemonic = "gospel lab resist extra chest eye chaos melt icon green tourist left";
+var mnemonic = "frozen crash pear tunnel target tattoo stool inherit slam lawn jazz vendor";

@@ -1,1 +1,1 @@
-var mnemonic = "educate purchase rack book jar thrive sand owner prison over web slice";
+var mnemonic = "taxi attract jacket ancient theory bid bicycle high pencil snow dish subject";

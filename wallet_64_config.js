@@ -1,1 +1,1 @@
-var mnemonic = "gain onion actress similar noise sentence latin art ensure festival vital pottery";
+var mnemonic = "urban motor endorse pencil heavy garden fog rack volume path layer target";

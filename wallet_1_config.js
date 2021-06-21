@@ -1,1 +1,1 @@
-var mnemonic = "pioneer genius frog leg special summer amount silent attitude luxury race also";
+var mnemonic = "cousin blush auction garment deal tomato return away fiber clock doctor scale";

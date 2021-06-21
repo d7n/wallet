@@ -1,1 +1,1 @@
-var mnemonic = "marriage inner turn need blanket tray nominee sniff jelly high city waste";
+var mnemonic = "cream weird interest typical chest edge hip young defy journey into style";

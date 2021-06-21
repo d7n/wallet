@@ -1,1 +1,1 @@
-var mnemonic = "roast ability raccoon undo erode popular arrive math proud garlic daughter candy";
+var mnemonic = "badge jealous start race machine south lens base buddy inner organ lens";

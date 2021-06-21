@@ -1,1 +1,1 @@
-var mnemonic = "neutral primary cigar clean spawn scheme mountain uncover work chest market scale";
+var mnemonic = "drill gun spirit hockey visa explain awkward path gadget cream keep giggle";

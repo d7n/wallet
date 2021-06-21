@@ -1,1 +1,1 @@
-var mnemonic = "federal muscle silver robot pool slim park song want mind cactus ritual";
+var mnemonic = "cram infant abuse long caught ancient item bless survey course atom into";

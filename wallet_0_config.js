@@ -1,1 +1,1 @@
-var mnemonic = "what attitude project ability sphere announce steak key praise market surface asthma";
+var mnemonic = "desk engage maze derive drastic victory code lesson width crucial later woman";

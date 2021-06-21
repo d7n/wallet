@@ -1,1 +1,1 @@
-var mnemonic = "must pipe divorce champion border swap theme ahead present cube cricket raw";
+var mnemonic = "foot surface relief staff park chimney nuclear auction tape nut isolate ranch";

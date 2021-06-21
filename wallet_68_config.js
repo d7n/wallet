@@ -1,1 +1,1 @@
-var mnemonic = "lobster sentence share veteran tattoo file box bacon smile pumpkin notable liquid";
+var mnemonic = "defense yellow object unhappy rookie drip base broom recipe sample success mirror";

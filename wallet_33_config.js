@@ -1,1 +1,1 @@
-var mnemonic = "luxury own priority purse improve clever reflect ethics dry reopen hungry chaos";
+var mnemonic = "slab net strong laptop friend puppy hurry second milk tomorrow tunnel almost";

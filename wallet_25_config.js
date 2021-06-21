@@ -1,1 +1,1 @@
-var mnemonic = "parrot garden pulp must win flavor tent make panther shock list autumn";
+var mnemonic = "lion maple inject mule insane thunder oval alley absurd thought express discover";

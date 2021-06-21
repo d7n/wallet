@@ -1,1 +1,1 @@
-var mnemonic = "panel today action monitor melt comfort auction chaos tuition protect rubber panther";
+var mnemonic = "bronze venture bullet kid aisle tape assault dolphin aerobic toss cereal few";

@@ -1,1 +1,1 @@
-var mnemonic = "anchor enforce puzzle book glad net glance clutch dice rubber stuff island";
+var mnemonic = "enter either cigar bar junior wasp wrong giraffe perfect desert naive remind";

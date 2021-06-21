@@ -1,1 +1,1 @@
-var mnemonic = "warrior label number vicious apple ice can survey report pottery grab wood";
+var mnemonic = "total rescue melody sample nasty win kitten purity bomb novel benefit service";

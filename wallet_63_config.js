@@ -1,1 +1,1 @@
-var mnemonic = "menu luggage settle anchor vessel amount else top budget path shoot install";
+var mnemonic = "hammer valid smooth pledge review mix flee clump index notice frown occur";

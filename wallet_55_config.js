@@ -1,1 +1,1 @@
-var mnemonic = "cancel stamp behave blanket hold use sentence again like idle spirit aim";
+var mnemonic = "retreat lecture ahead hamster ketchup potato iron budget flush else veteran alter";

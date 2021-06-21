@@ -1,1 +1,1 @@
-var mnemonic = "copy ability cherry fold combine because moral patch sunny explain edit canyon";
+var mnemonic = "enforce cinnamon expand ankle sketch one bundle sausage topple tomorrow try grace";

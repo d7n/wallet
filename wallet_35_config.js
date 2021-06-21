@@ -1,1 +1,1 @@
-var mnemonic = "maze knee perfect average frost regret pigeon cactus symbol random wedding hospital";
+var mnemonic = "recycle snake ten extra essence engine cousin detail salute pony myth cereal";

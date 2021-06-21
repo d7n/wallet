@@ -1,1 +1,1 @@
-var mnemonic = "north trick sleep copy blouse include always giggle polar magic shaft doll";
+var mnemonic = "avocado notable inch monkey square mom muscle zebra budget poverty cheese hire";

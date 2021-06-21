@@ -1,1 +1,1 @@
-var mnemonic = "note stadium conduct soda attitude pulse rough rent inner cousin modify penalty";
+var mnemonic = "dose cinnamon timber doll someone task gravity hidden toe speed gospel help";

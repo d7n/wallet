@@ -1,1 +1,1 @@
-var mnemonic = "trumpet rely grid nurse adjust goddess transfer skate actress plate prison abuse";
+var mnemonic = "finger whip eye asthma damage net despair magnet little point dad summer";

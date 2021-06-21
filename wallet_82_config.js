@@ -1,1 +1,1 @@
-var mnemonic = "dance tray mountain grab water subway will beyond involve present buyer stem";
+var mnemonic = "device garment supreme gun apart gown correct riot saddle slam movie repair";

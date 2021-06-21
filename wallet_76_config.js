@@ -1,1 +1,1 @@
-var mnemonic = "best hazard between churn crawl divide exhibit drum antique split slogan anxiety";
+var mnemonic = "garage erase pole bronze into program mushroom coast horse camera ketchup seek";

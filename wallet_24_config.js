@@ -1,1 +1,1 @@
-var mnemonic = "chest reduce expire like rain demise achieve parent traffic security keep hollow";
+var mnemonic = "nature world vanish harbor today glimpse trade salute loud evolve sister ridge";

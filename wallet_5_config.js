@@ -1,1 +1,1 @@
-var mnemonic = "wine wonder economy rescue expect reduce scrap warfare kid give very gift";
+var mnemonic = "kitchen absurd note pitch butter industry romance hidden demise apple what vivid";

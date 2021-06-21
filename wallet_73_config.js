@@ -1,1 +1,1 @@
-var mnemonic = "decrease common refuse sing critic hollow blanket rail crush lottery add undo";
+var mnemonic = "age exist turtle expand crane erase amazing bright wave illegal blossom priority";

@@ -1,1 +1,1 @@
-var mnemonic = "surround reflect food tortoise crumble spare base crush priority undo sausage dune";
+var mnemonic = "poet off owner brief vote arena kind purse meadow retire gravity vague";

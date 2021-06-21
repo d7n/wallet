@@ -1,1 +1,1 @@
-var mnemonic = "void mechanic october priority valley canoe throw that reunion open avoid conduct";
+var mnemonic = "measure boat embrace essence scout play merit snap forum essence enemy predict";

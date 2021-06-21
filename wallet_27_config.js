@@ -1,1 +1,1 @@
-var mnemonic = "like baby oval wrestle field captain regular mountain tide unfold dial firm";
+var mnemonic = "nerve absorb little gather swim dream disorder merge bulb gown adjust tattoo";

@@ -1,1 +1,1 @@
-var mnemonic = "apple empty slight worry hockey dizzy sniff park media nothing usage depend";
+var mnemonic = "muscle wet jump recipe copy film file prosper hotel melody depend fashion";

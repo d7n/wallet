@@ -1,1 +1,1 @@
-var mnemonic = "play kid wait cinnamon blush wrestle noble iron document cricket organ patient";
+var mnemonic = "fossil token goddess diet lift focus fuel sick then brick rebuild mesh";

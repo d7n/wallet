@@ -1,1 +1,1 @@
-var mnemonic = "priority rug bench captain marble proud airport donkey guide behind list bag";
+var mnemonic = "brother lyrics purpose dress disagree bullet nose dutch can recall lobster adapt";

@@ -1,1 +1,1 @@
-var mnemonic = "bulb battle much foot green control rail narrow pass host fat false";
+var mnemonic = "lunar clerk radar feature clog satisfy tired chicken session tent rug chuckle";

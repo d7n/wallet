@@ -1,1 +1,1 @@
-var mnemonic = "donkey remember shine life shuffle humble quit warrior cloud either derive oven";
+var mnemonic = "trap payment text curtain swallow embrace certain faith network hedgehog soda local";

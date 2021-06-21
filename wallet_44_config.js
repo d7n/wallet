@@ -1,1 +1,1 @@
-var mnemonic = "wood paddle slice cement chef smile then kiwi cactus boss puppy street";
+var mnemonic = "nice galaxy diamond sibling exile rare violin future vocal what concert humor";

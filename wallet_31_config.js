@@ -1,1 +1,1 @@
-var mnemonic = "payment culture stumble hip hybrid kangaroo hat harsh click mention garage duty";
+var mnemonic = "scatter decade kick clip apology rabbit shrimp butter useful long reunion other";

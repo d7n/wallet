@@ -1,1 +1,1 @@
-var mnemonic = "public faint tuition gadget card dad village grow child hurt deny oxygen";
+var mnemonic = "music usage tortoise boil tiger small ahead evidence describe carpet shoulder useless";

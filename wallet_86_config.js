@@ -1,1 +1,1 @@
-var mnemonic = "large shoulder crane bean penalty giraffe fiber kitchen elegant learn twice illegal";
+var mnemonic = "require ecology stool clock access same essence wisdom light gauge review payment";

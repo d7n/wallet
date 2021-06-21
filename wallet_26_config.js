@@ -1,1 +1,1 @@
-var mnemonic = "enroll swarm hover cupboard bulk civil deposit bird next alien rib east";
+var mnemonic = "ripple say foil insect stand solid toss offer document family kite category";

@@ -1,1 +1,1 @@
-var mnemonic = "upset retreat betray degree manage hollow enemy neck accuse exotic square fruit";
+var mnemonic = "actual drink bright beef garbage year reduce icon change pony paper genuine";

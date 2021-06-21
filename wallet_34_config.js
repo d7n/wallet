@@ -1,1 +1,1 @@
-var mnemonic = "utility guess dial trophy suffer rubber judge copy spring bean sea quick";
+var mnemonic = "fall bean tragic strong patient flock salad rebel cattle clutch melody cross";

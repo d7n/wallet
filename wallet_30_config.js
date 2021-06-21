@@ -1,1 +1,1 @@
-var mnemonic = "clinic security engage length cradle student nature verb tornado fault client diagram";
+var mnemonic = "bridge process fetch hungry cage this express tourist worth umbrella wasp image";

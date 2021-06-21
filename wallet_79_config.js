@@ -1,1 +1,1 @@
-var mnemonic = "believe slender quit bleak regret sight copy powder image depart verify truth";
+var mnemonic = "what urge call bacon fog thunder brother ethics object prison include hurdle";

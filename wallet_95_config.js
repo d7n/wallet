@@ -1,1 +1,1 @@
-var mnemonic = "chair lamp champion win unhappy eternal egg inside thought license adapt immune";
+var mnemonic = "wall economy often bundle hero absent silent sphere adapt hedgehog duty cream";

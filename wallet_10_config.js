@@ -1,1 +1,1 @@
-var mnemonic = "sport rescue army mechanic loud engine online second wheel walk fun cabbage";
+var mnemonic = "spatial occur noise similar gossip wonder zoo garden mechanic always view pact";

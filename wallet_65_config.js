@@ -1,1 +1,1 @@
-var mnemonic = "upset hover age stable increase diamond brush endless shiver street dirt prize";
+var mnemonic = "unaware talk panel syrup build canoe case runway wealth aware lawsuit dog";

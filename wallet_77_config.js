@@ -1,1 +1,1 @@
-var mnemonic = "waste crater subway bacon month vintage scrub choice evidence milk will sibling";
+var mnemonic = "minor various table diamond notice absorb assist remember nasty forget awesome net";

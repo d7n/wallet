@@ -1,1 +1,1 @@
-var mnemonic = "vocal magic oyster autumn lemon much easy fossil smile dirt refuse mask";
+var mnemonic = "pact boost reunion grief long together impact trigger regular robust tape enjoy";

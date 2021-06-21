@@ -1,1 +1,1 @@
-var mnemonic = "liberty churn old uncle peace plug test evidence crane economy twin advance";
+var mnemonic = "hawk flavor steel chaos spare olympic awful crazy amount pole undo test";

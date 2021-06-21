@@ -1,1 +1,1 @@
-var mnemonic = "thought december syrup pulp diagram universe perfect equip shrimp inquiry act cross";
+var mnemonic = "pizza diagram fringe eagle elite long razor vital various inspire tiger vault";

@@ -1,1 +1,1 @@
-var mnemonic = "scrap toilet then chief hood sound cool sheriff number dynamic garlic despair";
+var mnemonic = "evolve shed noodle engage wife siege surge toe width short obscure nuclear";

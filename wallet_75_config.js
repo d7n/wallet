@@ -1,1 +1,1 @@
-var mnemonic = "ladder raise blue capable sight clinic double random cotton rate gaze street";
+var mnemonic = "powder tomorrow slam reform robot typical walk lava wink master gallery distance";

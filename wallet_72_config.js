@@ -1,1 +1,1 @@
-var mnemonic = "snap timber dignity stove siege guard appear edit whip reform slow enough";
+var mnemonic = "glory vault bottom knee blade orphan indicate daring burger boring all midnight";

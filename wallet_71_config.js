@@ -1,1 +1,1 @@
-var mnemonic = "tape process measure library drift industry tiny atom river judge analyst deer";
+var mnemonic = "code naive fan net merit suggest guess valley visa zoo trouble cabin";

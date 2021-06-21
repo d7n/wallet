@@ -1,1 +1,1 @@
-var mnemonic = "cotton onion cinnamon solution brief help dolphin razor crystal front flag fiber";
+var mnemonic = "mystery breeze acoustic visa accuse section inside hospital sting scale ability correct";

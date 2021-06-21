@@ -1,1 +1,1 @@
-var mnemonic = "average twin dirt pumpkin hobby help token someone there style skirt antenna";
+var mnemonic = "iron glance little spell silly scheme lunar found tornado detect oxygen zoo";

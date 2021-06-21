@@ -1,1 +1,1 @@
-var mnemonic = "lounge wrap float neglect blade horn among obscure elephant vault mad deposit";
+var mnemonic = "expect long crush journey social stomach gravity own garlic relief box skill";

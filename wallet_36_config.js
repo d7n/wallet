@@ -1,1 +1,1 @@
-var mnemonic = "uniform uncle decade beyond shoot drum spot argue round pencil normal split";
+var mnemonic = "season play drive raise edge embrace parrot enough agent scan trip size";

@@ -1,1 +1,1 @@
-var mnemonic = "surge obvious barely anger night mountain resist artist pause chimney coil road";
+var mnemonic = "volume worry world cactus company lazy law dance thrive wrist author weekend";

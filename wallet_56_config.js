@@ -1,1 +1,1 @@
-var mnemonic = "drink concert echo merit path sure predict dice situate borrow quick proof";
+var mnemonic = "spread immune derive lyrics company elephant merit switch lottery alcohol absent power";

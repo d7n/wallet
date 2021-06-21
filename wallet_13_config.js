@@ -1,1 +1,1 @@
-var mnemonic = "roast visit nice whisper evidence okay fall rally theory produce need neglect";
+var mnemonic = "damage same piano current increase marriage just strong carbon submit primary design";

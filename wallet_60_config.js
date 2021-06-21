@@ -1,1 +1,1 @@
-var mnemonic = "end tongue place wheat bulb edit margin ring awkward fire orphan miss";
+var mnemonic = "record educate comfort inform era pupil outer flush object repair bag front";

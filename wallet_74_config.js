@@ -1,1 +1,1 @@
-var mnemonic = "steel electric basket dutch reunion injury debris fantasy cabin coyote claw favorite";
+var mnemonic = "neither drill comic frost glow ski normal utility vital lucky glad foot";

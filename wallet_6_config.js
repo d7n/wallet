@@ -1,1 +1,1 @@
-var mnemonic = "legend volcano spider cabin goddess save verb push name mail eight lonely";
+var mnemonic = "daughter tired method script exhaust top six pony urge regular stereo sight";

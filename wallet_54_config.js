@@ -1,1 +1,1 @@
-var mnemonic = "remember cry prize page shoe any zoo come bar base camp lobster";
+var mnemonic = "beef renew session apart aware engine denial weird project cost pole mammal";

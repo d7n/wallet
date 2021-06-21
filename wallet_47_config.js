@@ -1,1 +1,1 @@
-var mnemonic = "verb hire total potato galaxy nasty trade useful goose use belt member";
+var mnemonic = "bleak board canoe consider village join foam grant half air swap morning";

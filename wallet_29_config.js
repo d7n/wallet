@@ -1,1 +1,1 @@
-var mnemonic = "slight accident link erupt trust live sweet seminar long super crunch slide";
+var mnemonic = "addict stable point knock smart fan rich juice impulse legal garden travel";

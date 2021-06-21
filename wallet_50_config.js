@@ -1,1 +1,1 @@
-var mnemonic = "pond install blush payment scare initial noble lumber inject base yellow shrug";
+var mnemonic = "once happy unfold exotic audit else merry cheap depend develop match step";

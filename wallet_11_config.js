@@ -1,1 +1,1 @@
-var mnemonic = "glow corn six column blanket assist cheap stand machine off flip grab";
+var mnemonic = "session genre winter bright riot slide any elite skirt ocean then borrow";

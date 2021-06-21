@@ -1,1 +1,1 @@
-var mnemonic = "often park into slot happy wool amateur used speak shed volume tired";
+var mnemonic = "wrong cable arrive essay toddler minimum tell radar laundry neutral wood ignore";

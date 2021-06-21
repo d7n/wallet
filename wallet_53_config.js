@@ -1,1 +1,1 @@
-var mnemonic = "hollow tide staff absent escape need clinic own pole swim near buyer";
+var mnemonic = "siege journey treat output great fiber garlic coach maximum canal rude exercise";

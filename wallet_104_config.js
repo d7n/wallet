@@ -1,1 +1,1 @@
-var mnemonic = "icon frog nice traffic pact office dilemma express glass vessel camp monkey";
+var mnemonic = "outside spray afford surface fringe change alien tennis beauty path umbrella result";

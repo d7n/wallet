@@ -1,1 +1,1 @@
-var mnemonic = "ball scale liquid student cliff office avoid brush sand autumn daughter sphere";
+var mnemonic = "grief law isolate tube rough mention alarm drama race scout entry suspect";

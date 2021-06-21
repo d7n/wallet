@@ -1,1 +1,1 @@
-var mnemonic = "invest local champion satisfy enable kangaroo slush street random talk finish sand";
+var mnemonic = "regular angle two moon visual matrix cactus kid over motion remember priority";

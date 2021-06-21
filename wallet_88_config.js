@@ -1,1 +1,1 @@
-var mnemonic = "company unveil room rely right segment cool name faith where butter ball";
+var mnemonic = "magnet capital ill ecology speak depend second very fog sign jump fence";

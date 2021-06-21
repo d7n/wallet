@@ -1,1 +1,1 @@
-var mnemonic = "fabric lab control uphold arctic unveil gospel breeze soldier tower cinnamon join";
+var mnemonic = "around unaware hidden silly model spawn auto pony quote salute addict useful";

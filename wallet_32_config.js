@@ -1,1 +1,1 @@
-var mnemonic = "bamboo taxi crisp legal already update insane drop coyote fine deputy joy";
+var mnemonic = "sphere endorse best winter adult busy emotion coin prison estate treat defy";
