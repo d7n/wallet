@@ -1,1 +1,1 @@
-var mnemonic = "purchase denial blouse into wash stick laugh balcony dream gentle orphan family";
+var mnemonic = "canyon primary century guitar piece food burger mixed twin warm price learn";

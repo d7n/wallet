@@ -1,1 +1,1 @@
-var mnemonic = "acoustic robot smoke provide myself sun kitchen cliff planet taste pink sign";
+var mnemonic = "ramp join allow scene library knock already treat recipe blossom basic eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe tattoo crowd category resist lonely quantum rough time elephant worth chest";
+var mnemonic = "danger island friend invite congress stone thunder poverty napkin romance absent quarter";

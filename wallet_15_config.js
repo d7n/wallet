@@ -1,1 +1,1 @@
-var mnemonic = "ensure citizen large exchange base expire milk friend people object proud cactus";
+var mnemonic = "agent pretty cricket scrap insane scrub hollow reduce false version few submit";

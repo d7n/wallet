@@ -1,1 +1,1 @@
-var mnemonic = "twist intact thunder toilet car debris fiscal dress faint discover lumber disease";
+var mnemonic = "start level spring lamp input wisdom unaware explain slush connect task blind";

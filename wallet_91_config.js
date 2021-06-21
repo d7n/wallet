@@ -1,1 +1,1 @@
-var mnemonic = "lemon risk guitar erase debris crunch benefit machine critic cigar gold chest";
+var mnemonic = "future home chair seat battle copy topple security lady certain bitter produce";

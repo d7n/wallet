@@ -1,1 +1,1 @@
-var mnemonic = "conduct fan fragile unlock emotion hero lucky seven vocal letter life box";
+var mnemonic = "simple arena inflict orphan box device bid basket leader announce buyer crowd";

@@ -1,1 +1,1 @@
-var mnemonic = "figure cute shrimp father ordinary fitness nothing cream symptom split giggle pole";
+var mnemonic = "recycle glance photo mango purity vanish again divert nest valid youth program";

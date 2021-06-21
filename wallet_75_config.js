@@ -1,1 +1,1 @@
-var mnemonic = "blood bottom fever badge river neck taxi jump damage sport grief current";
+var mnemonic = "glove hedgehog hard blast before vacuum aisle employ claim build minor scheme";

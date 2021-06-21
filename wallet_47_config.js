@@ -1,1 +1,1 @@
-var mnemonic = "ozone hedgehog vote planet timber marriage upper design village soup column flight";
+var mnemonic = "cancel vapor shove impulse celery reward illegal stem easy forget glimpse grid";

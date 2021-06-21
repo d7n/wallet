@@ -1,1 +1,1 @@
-var mnemonic = "ill text unlock hood grief urge increase still slow plate skull promote";
+var mnemonic = "sleep plastic jaguar lizard hire stand thought sound mercy roof tower vibrant";

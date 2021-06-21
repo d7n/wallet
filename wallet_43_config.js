@@ -1,1 +1,1 @@
-var mnemonic = "eagle someone cradle avoid nominee ritual quick eager female pottery hospital eyebrow";
+var mnemonic = "promote obscure program fiber audit reveal pony attack funny bubble exist illegal";

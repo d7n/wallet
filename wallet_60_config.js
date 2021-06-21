@@ -1,1 +1,1 @@
-var mnemonic = "ice bunker unique sword ridge like road immense truly often divide sell";
+var mnemonic = "jungle all icon wet tiger spawn kiwi device cement friend umbrella vault";

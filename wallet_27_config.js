@@ -1,1 +1,1 @@
-var mnemonic = "ketchup affair muffin custom leave asset advance protect hill first wood science";
+var mnemonic = "cruise note someone old laptop okay fruit story wasp rubber wrong reject";

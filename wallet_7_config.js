@@ -1,1 +1,1 @@
-var mnemonic = "way carry height danger water team sea march sight slide edit huge";
+var mnemonic = "stage faith club arrest blood then recall file runway bonus narrow case";

@@ -1,1 +1,1 @@
-var mnemonic = "poem gorilla sudden prison lobster syrup hour destroy soup curious coil enforce";
+var mnemonic = "resource horror forget ribbon grape marble poem leaf critic useful choice hold";

@@ -1,1 +1,1 @@
-var mnemonic = "romance walk key zone size panther voice puppy saddle they one erode";
+var mnemonic = "blame tuna small peasant use fatal furnace joke access dirt kid tenant";

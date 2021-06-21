@@ -1,1 +1,1 @@
-var mnemonic = "kite mother pony lady glove shoot into concert steel dumb chimney attract";
+var mnemonic = "jump search night lesson glory slam you forest guide august develop orphan";

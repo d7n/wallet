@@ -1,1 +1,1 @@
-var mnemonic = "blind peanut joke hundred treat possible enhance bachelor assume loud fiction enough";
+var mnemonic = "few walk lava badge attend chronic desert chimney dish fall neutral glide";

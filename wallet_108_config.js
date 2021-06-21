@@ -1,1 +1,1 @@
-var mnemonic = "party robot spell dentist post keen ripple toe evolve gate inflict talk";
+var mnemonic = "sad attitude print early tackle water fluid ensure spawn meadow throw fitness";

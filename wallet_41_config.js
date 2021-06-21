@@ -1,1 +1,1 @@
-var mnemonic = "cave sugar action special need prefer cheap wagon pole raise toy tongue";
+var mnemonic = "tone myth early illegal remind athlete poem uncle hamster never hair ski";

@@ -1,1 +1,1 @@
-var mnemonic = "pencil grow inside property caught agree input blossom vintage unusual manage shed";
+var mnemonic = "item anger kite basic purity uphold crowd tomato grass blush faith vocal";

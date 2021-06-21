@@ -1,1 +1,1 @@
-var mnemonic = "leg useful genuine small affair merit globe snap ask rotate gaze purse";
+var mnemonic = "bright clay oval furnace language tone indicate expand convince gloom sound bright";

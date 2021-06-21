@@ -1,1 +1,1 @@
-var mnemonic = "recall sweet remove cash cotton flush exclude plunge multiply solid subway apart";
+var mnemonic = "ginger garlic area powder brown misery fog cause basket lawsuit abandon three";

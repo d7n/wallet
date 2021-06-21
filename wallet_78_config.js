@@ -1,1 +1,1 @@
-var mnemonic = "earn chapter ankle blush unusual balance deal toward explain affair increase wife";
+var mnemonic = "ensure unique envelope buyer very velvet same protect give area poet govern";

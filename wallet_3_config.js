@@ -1,1 +1,1 @@
-var mnemonic = "mind tobacco produce coffee legend average soldier retire income inflict coil spoil";
+var mnemonic = "half own bundle december lamp achieve yard south nominee stomach gap strong";

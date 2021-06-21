@@ -1,1 +1,1 @@
-var mnemonic = "silly summer acquire legend latin valid vivid bubble kitchen rug coffee wedding";
+var mnemonic = "next cupboard beach congress busy outer spare dust endorse design sunset rate";

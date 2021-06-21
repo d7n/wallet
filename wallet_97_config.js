@@ -1,1 +1,1 @@
-var mnemonic = "change movie slender north minimum pipe novel world nut route basket draft";
+var mnemonic = "injury basic need swing six boil buddy expire capital account observe habit";

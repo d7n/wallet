@@ -1,1 +1,1 @@
-var mnemonic = "sleep office stable alert menu engine garlic sick vibrant file also enjoy";
+var mnemonic = "around spirit disorder business swear this link force enrich slogan explain symptom";

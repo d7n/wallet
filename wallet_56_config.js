@@ -1,1 +1,1 @@
-var mnemonic = "extra ill tuition army guitar maze truck open animal enhance dust junk";
+var mnemonic = "token bullet hybrid inspire chat loud human outside quick buyer obtain train";

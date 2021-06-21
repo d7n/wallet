@@ -1,1 +1,1 @@
-var mnemonic = "fold bunker banana jungle cloud device armed atom clean slice afford rhythm";
+var mnemonic = "saddle myself again soldier plate oil cruise require reveal charge letter book";

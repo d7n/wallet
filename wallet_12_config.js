@@ -1,1 +1,1 @@
-var mnemonic = "rent horse average sea swallow tilt maze abstract grace tumble cat van";
+var mnemonic = "hole suspect grit ankle lab pattern honey muffin angle require yellow valve";

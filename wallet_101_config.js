@@ -1,1 +1,1 @@
-var mnemonic = "treat ramp position enable cruise toilet consider reform panda super spoon dog";
+var mnemonic = "animal roast error truly gun moral drum try sport decide excuse real";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe sponsor predict math drill secret inquiry height meadow salute broken virus";
+var mnemonic = "famous then fiber fruit nasty tissue jump puzzle across lift vapor harvest";

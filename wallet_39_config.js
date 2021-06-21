@@ -1,1 +1,1 @@
-var mnemonic = "ride attitude unknown clerk clever boss dress canvas amateur success alert reflect";
+var mnemonic = "aisle wage page oak enable issue sort mesh electric reason target orchard";

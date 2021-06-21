@@ -1,1 +1,1 @@
-var mnemonic = "obtain citizen quality error husband embody scout mesh purpose know camera sea";
+var mnemonic = "critic ice parrot bag fold super shrimp share paddle zero coffee honey";

@@ -1,1 +1,1 @@
-var mnemonic = "online ride blade sheriff cram rule camp fury dress august spoil fatal";
+var mnemonic = "ocean bid odor ordinary random subway swamp use reject recipe seminar toward";

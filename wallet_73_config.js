@@ -1,1 +1,1 @@
-var mnemonic = "hint magic vacuum dose awful vault armed trophy wool possible post gaze";
+var mnemonic = "obey drill provide leisure drift chat disagree crucial bread crime soup trust";

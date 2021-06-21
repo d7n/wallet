@@ -1,1 +1,1 @@
-var mnemonic = "ball focus profit stumble mom beach meat child region okay chief derive";
+var mnemonic = "furnace antique tape calm reunion shoe penalty kit green fold roof you";

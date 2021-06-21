@@ -1,1 +1,1 @@
-var mnemonic = "dignity shove dolphin cost outside flat popular delay tone future advice image";
+var mnemonic = "trigger play employ crack clog nation already item radar jewel purity search";

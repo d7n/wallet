@@ -1,1 +1,1 @@
-var mnemonic = "casino caution genuine sword affair infant asthma oven act trim achieve ozone";
+var mnemonic = "purchase drift school flat rebel possible daughter marine focus crew mammal match";

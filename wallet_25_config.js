@@ -1,1 +1,1 @@
-var mnemonic = "pelican flee hurt bone write gift hand lounge rail way domain ordinary";
+var mnemonic = "blind kitten produce august biology reason seat title shadow will debris clock";

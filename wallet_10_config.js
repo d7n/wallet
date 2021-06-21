@@ -1,1 +1,1 @@
-var mnemonic = "argue doctor tent daughter gym eagle avocado live find improve drama document";
+var mnemonic = "unfair spray grace cook task crime manage swing december spider alter assist";

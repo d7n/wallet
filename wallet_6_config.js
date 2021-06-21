@@ -1,1 +1,1 @@
-var mnemonic = "reflect spray chair fossil differ gorilla meadow pupil siege work horse mechanic";
+var mnemonic = "lab fluid eager blue evidence parent assist scrub aunt grocery cross excuse";

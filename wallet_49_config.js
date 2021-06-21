@@ -1,1 +1,1 @@
-var mnemonic = "danger spray trial club genuine sketch fruit window chef clinic churn prepare";
+var mnemonic = "rack citizen pottery industry witness cube uphold flat knife wear bounce hood";

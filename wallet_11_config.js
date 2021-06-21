@@ -1,1 +1,1 @@
-var mnemonic = "dog tower garage excite energy remove sunset sword long picnic modify gasp";
+var mnemonic = "skill parade joy tip region aisle same kit champion vivid voyage surface";

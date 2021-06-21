@@ -1,1 +1,1 @@
-var mnemonic = "gown weather stuff peasant dizzy slide fantasy cube deal core eagle paper";
+var mnemonic = "shaft brother cousin peanut luxury enact worry nice naive tribe exhaust powder";

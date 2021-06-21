@@ -1,1 +1,1 @@
-var mnemonic = "catch receive swim spice nephew fat hand afford flash style upper ability";
+var mnemonic = "comic style flock anger poem huge exact shadow room tiny miracle derive";

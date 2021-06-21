@@ -1,1 +1,1 @@
-var mnemonic = "visa tube lonely nice approve inflict goat afraid sleep dove brass inherit";
+var mnemonic = "long nasty salad dragon before lunar portion chase capital airport sing soup";

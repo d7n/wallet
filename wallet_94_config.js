@@ -1,1 +1,1 @@
-var mnemonic = "keep tragic achieve vote travel develop salute come plastic mad world genius";
+var mnemonic = "team gallery improve draw useless luxury cross floor onion obvious feel ugly";

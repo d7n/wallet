@@ -1,1 +1,1 @@
-var mnemonic = "pear quantum main cup actual seat into frame resist family crawl kitchen";
+var mnemonic = "tired gossip giant awful grocery visit expect absorb page swallow north all";

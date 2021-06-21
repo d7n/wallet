@@ -1,1 +1,1 @@
-var mnemonic = "salad mention grit room evil ridge use silk butter cricket ladder until";
+var mnemonic = "over soda noodle soldier cool despair style hold edge already diet dress";

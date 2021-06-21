@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon kiss clog supply rival stand horn slice snack hobby sleep guard";
+var mnemonic = "flavor bulk find apart cable between bleak achieve town frog ordinary bar";

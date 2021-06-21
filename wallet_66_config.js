@@ -1,1 +1,1 @@
-var mnemonic = "salmon list rapid bullet west forget cute follow frog plate fit lemon";
+var mnemonic = "piano system behind grief mixed idea casual pair degree response hotel office";

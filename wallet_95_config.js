@@ -1,1 +1,1 @@
-var mnemonic = "push silver region afraid spread donor upset drop useless finger coil asthma";
+var mnemonic = "cloth minor game dad rebel cherry adult question fall pattern horror flip";

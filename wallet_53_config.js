@@ -1,1 +1,1 @@
-var mnemonic = "sand grain anger cage vendor loyal october cat olympic elder trick craft";
+var mnemonic = "health together ethics glory desk width market whip analyst weather multiply bubble";

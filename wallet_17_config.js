@@ -1,1 +1,1 @@
-var mnemonic = "virus elder genuine verb wonder property zone speed dove rare magic weather";
+var mnemonic = "solve dust post pottery whisper unveil tongue tired dismiss various gravity rural";

@@ -1,1 +1,1 @@
-var mnemonic = "idea inflict champion reward milk position rather sketch giraffe major describe begin";
+var mnemonic = "survey trade attract lamp valve magnet during social destroy solar unlock carry";

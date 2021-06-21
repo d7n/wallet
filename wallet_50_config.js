@@ -1,1 +1,1 @@
-var mnemonic = "ready salon message flower rude iron act hard general antique remember vacant";
+var mnemonic = "imitate accuse quote tooth atom search trial great peace notice upper early";

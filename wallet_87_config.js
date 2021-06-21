@@ -1,1 +1,1 @@
-var mnemonic = "park antique talk pen utility effort east father pledge truly squeeze sketch";
+var mnemonic = "soccer tired bean hole tiger outside frost swing brave enact basic habit";

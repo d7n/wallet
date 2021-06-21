@@ -1,1 +1,1 @@
-var mnemonic = "face gloom super glue capital plug input artwork already battle marble bicycle";
+var mnemonic = "citizen hope hurry art pipe tiger position phrase trigger innocent adapt begin";

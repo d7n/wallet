@@ -1,1 +1,1 @@
-var mnemonic = "ability weird early receive ensure decline sound pair fuel student dial behind";
+var mnemonic = "royal venue stamp false hurt popular oil custom law hotel van today";

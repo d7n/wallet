@@ -1,1 +1,1 @@
-var mnemonic = "flame lonely merit access access trumpet before visual cheap harvest roof win";
+var mnemonic = "random top seat utility sibling lemon dry riot depth file rice bench";

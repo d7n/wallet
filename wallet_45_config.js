@@ -1,1 +1,1 @@
-var mnemonic = "tattoo sleep tiger whip lion wage swear unveil grape skull design already";
+var mnemonic = "bar stairs require hire suggest cup verb credit room lottery neutral bunker";

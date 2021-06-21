@@ -1,1 +1,1 @@
-var mnemonic = "dog cup crucial dry solve fiscal maple meadow flame pig trend unfair";
+var mnemonic = "clump axis foil tomorrow horn guilt burden behave hold please shrug session";

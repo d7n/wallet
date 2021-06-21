@@ -1,1 +1,1 @@
-var mnemonic = "sock spare history barely silly sadness word disease negative witness soda host";
+var mnemonic = "roof fitness twin finish spoon jar casual december chaos situate bronze knee";

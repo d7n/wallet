@@ -1,1 +1,1 @@
-var mnemonic = "grace stuff follow jeans unfold disorder lens rebel crisp pepper daring beauty";
+var mnemonic = "sunny dawn delay wolf idle behave bunker until fold wet law proud";

@@ -1,1 +1,1 @@
-var mnemonic = "segment wheel hen fire before roof false inside same current claw defense";
+var mnemonic = "feature card access camera swear rose horn stuff silver process inherit human";

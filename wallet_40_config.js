@@ -1,1 +1,1 @@
-var mnemonic = "short practice hour pride scene title zebra arrive yard forward indoor cricket";
+var mnemonic = "cigar plate token fortune second action parent issue hair usual push ramp";

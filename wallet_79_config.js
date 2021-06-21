@@ -1,1 +1,1 @@
-var mnemonic = "common boat menu alter video plate require enforce search veteran razor raw";
+var mnemonic = "swear elite idea fetch drift iron general fashion apology merit arctic guess";

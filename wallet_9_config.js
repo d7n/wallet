@@ -1,1 +1,1 @@
-var mnemonic = "build shoe lawn between hint lawsuit when omit cigar eager erode cube";
+var mnemonic = "chapter walnut left arrive cup increase lonely peanut purchase wealth message identify";

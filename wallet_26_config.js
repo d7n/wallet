@@ -1,1 +1,1 @@
-var mnemonic = "punch pride bundle damp camera paper actual cup pudding basket solid boring";
+var mnemonic = "carry cruise dust tomorrow planet derive link dragon fury prefer belt title";

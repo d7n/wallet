@@ -1,1 +1,1 @@
-var mnemonic = "divide dinner obey armed rotate craft fat news tonight donate drink enrich";
+var mnemonic = "good photo swift recycle ocean dumb cute arch nurse select abandon miss";

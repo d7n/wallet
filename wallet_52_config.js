@@ -1,1 +1,1 @@
-var mnemonic = "gasp inflict siren airport popular tone nest balance menu walk uncle near";
+var mnemonic = "include spot spice flip turkey sadness lucky mango hub risk height thumb";

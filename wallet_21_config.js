@@ -1,1 +1,1 @@
-var mnemonic = "decorate voyage rigid close april ship list run behind october you perfect";
+var mnemonic = "decide fiber roast weapon property hope shine fish liquid marine palace skate";

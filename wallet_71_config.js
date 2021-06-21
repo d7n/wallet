@@ -1,1 +1,1 @@
-var mnemonic = "acquire soldier cherry fancy write spice skirt novel aim maid plate rival";
+var mnemonic = "indicate bean sort bar sniff elder live seek stumble toddler tonight file";

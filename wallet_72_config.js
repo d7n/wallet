@@ -1,1 +1,1 @@
-var mnemonic = "glass derive cattle horn panda cup ancient project test general bonus flavor";
+var mnemonic = "peanut soon same notice ethics draft rain dumb recycle limit hub elbow";

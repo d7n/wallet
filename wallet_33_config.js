@@ -1,1 +1,1 @@
-var mnemonic = "tumble civil inquiry universe coin embrace thrive wonder summer news similar crawl";
+var mnemonic = "matrix neutral lumber grain muscle lens stay great apart glance animal topic";

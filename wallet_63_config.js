@@ -1,1 +1,1 @@
-var mnemonic = "crush cactus bundle salute paddle enrich defense example position human corn network";
+var mnemonic = "kitten assault eternal noble effort steel tool stool patch dice oil hamster";

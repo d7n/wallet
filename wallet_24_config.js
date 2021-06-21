@@ -1,1 +1,1 @@
-var mnemonic = "project lazy spring uncover rubber canal burst regret material aerobic tribe embody";
+var mnemonic = "recycle fabric either fox will bar across utility setup weather shrug certain";

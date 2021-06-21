@@ -1,1 +1,1 @@
-var mnemonic = "borrow lunar warm magic supply brick doll leaf uphold about laptop receive";
+var mnemonic = "grunt vanish flavor pretty poem friend print ready cloth embrace secret announce";

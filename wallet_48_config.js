@@ -1,1 +1,1 @@
-var mnemonic = "chat novel issue custom frozen power quote dizzy neither sibling swap permit";
+var mnemonic = "bind believe express few outer pulse tone gain element stem orphan future";

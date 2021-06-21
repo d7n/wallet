@@ -1,1 +1,1 @@
-var mnemonic = "bind decide radio penalty artist turn wave immune admit exotic material outer";
+var mnemonic = "patrol purity arrange vault typical swap sleep syrup curve crew rocket remove";

@@ -1,1 +1,1 @@
-var mnemonic = "picture gas avocado bridge scale onion dune alien recall wrong anxiety young";
+var mnemonic = "grape mail praise abstract paper umbrella auto front stand frequent chef hollow";

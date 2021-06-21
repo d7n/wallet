@@ -1,1 +1,1 @@
-var mnemonic = "code caution satoshi toe hover caution elder text immune cricket gloom hedgehog";
+var mnemonic = "reopen service call access attract danger huge trust ghost symptom awkward divide";

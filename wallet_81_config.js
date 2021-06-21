@@ -1,1 +1,1 @@
-var mnemonic = "census wild report wrist alley distance polar coin century awful favorite festival";
+var mnemonic = "account wire fitness course return menu wish fire canal off dune giggle";

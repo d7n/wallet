@@ -1,1 +1,1 @@
-var mnemonic = "picnic pride switch work essay gather catalog sadness ice sure jewel choose";
+var mnemonic = "word fit project security easy powder mail acid knock open alpha discover";

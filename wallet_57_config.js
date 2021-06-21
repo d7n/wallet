@@ -1,1 +1,1 @@
-var mnemonic = "antique ski swarm rent banana purity indoor heavy cabbage puppy bundle betray";
+var mnemonic = "chalk inquiry patient cruise ritual solid acid input holiday pattern shallow vital";

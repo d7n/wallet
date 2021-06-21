@@ -1,1 +1,1 @@
-var mnemonic = "play human firm siege imitate city tent lucky jealous apple estate neglect";
+var mnemonic = "brave inch define foster wish glue weekend course glance trouble version thing";

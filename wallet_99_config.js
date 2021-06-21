@@ -1,1 +1,1 @@
-var mnemonic = "holiday slice cement vacuum number helmet midnight blur decide you shine damage";
+var mnemonic = "coin truth replace novel green execute stove gate alone oil grace bulk";

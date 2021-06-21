@@ -1,1 +1,1 @@
-var mnemonic = "foot relax success critic couch sight begin wise captain easy rifle laundry";
+var mnemonic = "science interest rather entire cheese illness guess session dutch corn total office";

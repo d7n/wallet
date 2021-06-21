@@ -1,1 +1,1 @@
-var mnemonic = "bundle economy noise denial erosion school harsh method sight approve day grief";
+var mnemonic = "bonus menu replace above guide relief swallow stereo dash kitchen glove boring";

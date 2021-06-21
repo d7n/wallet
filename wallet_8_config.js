@@ -1,1 +1,1 @@
-var mnemonic = "claw decrease keep alert color life alien course account any cabbage bonus";
+var mnemonic = "fetch sight solid crunch trend barely write clump dizzy carbon tackle key";

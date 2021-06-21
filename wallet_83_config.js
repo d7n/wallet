@@ -1,1 +1,1 @@
-var mnemonic = "today evoke master book setup kidney quantum bunker orbit swarm child walk";
+var mnemonic = "safe twist mammal carbon bless brown want top embody myth unlock alert";
