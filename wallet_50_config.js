@@ -1,1 +1,1 @@
-var mnemonic = "mean side swear angry salad time autumn punch genius gain poet park";
+var mnemonic = "food breeze lesson uncle inch aisle thumb army phrase trigger food decide";

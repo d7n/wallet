@@ -1,1 +1,1 @@
-var mnemonic = "acid wet garden tree leopard flip bicycle trim grid twice together deliver";
+var mnemonic = "popular space tiny essence swarm ready age peanut erosion arena large nut";

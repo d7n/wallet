@@ -1,1 +1,1 @@
-var mnemonic = "walnut satoshi control raven cannon curve insane filter pulse remove weird visit";
+var mnemonic = "potato miracle prize today rebuild result silly stamp length list dial window";

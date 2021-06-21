@@ -1,1 +1,1 @@
-var mnemonic = "ridge learn frame curve vessel bracket host pledge crucial tank often hospital";
+var mnemonic = "critic convince ability visa spot speak ankle entire silk shadow welcome group";

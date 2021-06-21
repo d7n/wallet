@@ -1,1 +1,1 @@
-var mnemonic = "return neither tuition mistake post social middle february render strike capable scare";
+var mnemonic = "poverty hurt mutual diary dumb tattoo skull expire lion delay lounge dash";

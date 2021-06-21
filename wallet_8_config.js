@@ -1,1 +1,1 @@
-var mnemonic = "claw exchange lawsuit kit endless talent idea excess core emotion fine curve";
+var mnemonic = "spot light pair laptop differ leg between peanut involve company normal claim";

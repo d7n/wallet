@@ -1,1 +1,1 @@
-var mnemonic = "discover few burden priority total welcome essay oyster document shuffle emotion monster";
+var mnemonic = "acquire opinion share trim mean vote give tattoo weekend feel fever air";

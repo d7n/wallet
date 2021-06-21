@@ -1,1 +1,1 @@
-var mnemonic = "witness palm guard salmon winner spoil guard coyote gossip beef feed system";
+var mnemonic = "only injury jacket engage grab blush blood fat season rare stage picnic";

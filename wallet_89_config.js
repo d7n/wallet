@@ -1,1 +1,1 @@
-var mnemonic = "clutch ribbon rebel neglect upon guilt whisper grit decide correct mention tissue";
+var mnemonic = "evidence margin beauty feel orbit orbit depart bracket track enable dry double";

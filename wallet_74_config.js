@@ -1,1 +1,1 @@
-var mnemonic = "latin gold silly over toe cigar fence twice soon master upgrade tree";
+var mnemonic = "exchange shrug raven dwarf moment visit curious kiwi young ensure crazy unable";

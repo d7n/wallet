@@ -1,1 +1,1 @@
-var mnemonic = "collect odor feature live arctic often curious cabbage rug marble nerve truck";
+var mnemonic = "ketchup relax enable pipe alert decrease soft aerobic nominee oblige manage clerk";

@@ -1,1 +1,1 @@
-var mnemonic = "spice top stove pottery extend popular problem rocket puzzle cross trigger empower";
+var mnemonic = "just walnut rack title across fee barely shift hawk enter hockey abandon";

@@ -1,1 +1,1 @@
-var mnemonic = "index spice rebel cart north cancel subject ordinary flee fire tornado payment";
+var mnemonic = "above climb stock decline diagram piano sniff raccoon enact steel visit prosper";

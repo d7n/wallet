@@ -1,1 +1,1 @@
-var mnemonic = "scheme fiction decrease own purchase chaos learn cliff snake sugar pet ivory";
+var mnemonic = "slab donkey lab waste uniform pair panel traffic assault polar reflect submit";

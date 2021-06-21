@@ -1,1 +1,1 @@
-var mnemonic = "flash resource obtain defense second style have brass plunge patrol flash differ";
+var mnemonic = "okay cloud option hamster burden fruit laptop what receive flee stove rifle";

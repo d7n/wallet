@@ -1,1 +1,1 @@
-var mnemonic = "history blue peace vacant card shoot adjust stuff hip hub test scare";
+var mnemonic = "simple fortune during bicycle canvas rather great mandate bitter vacuum loop battle";

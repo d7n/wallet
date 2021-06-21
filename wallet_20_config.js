@@ -1,1 +1,1 @@
-var mnemonic = "crush blind humor village wait kitchen audit turn man story undo universe";
+var mnemonic = "reduce ranch canyon pretty stage drama west cat distance laugh bracket sort";

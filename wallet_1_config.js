@@ -1,1 +1,1 @@
-var mnemonic = "casual check chicken pelican race net satoshi zero lesson rookie glow bread";
+var mnemonic = "owner type reveal label dish switch engage dress endorse execute useless bind";

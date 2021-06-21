@@ -1,1 +1,1 @@
-var mnemonic = "giraffe doctor object case vicious place garage festival room whisper spell clog";
+var mnemonic = "pig capital patient tube tornado please update devote grape start silent load";

@@ -1,1 +1,1 @@
-var mnemonic = "nose catch beauty trial scene pioneer noble lava finger axis brother journey";
+var mnemonic = "depend jeans confirm vacant fruit begin script page armed digital human foil";

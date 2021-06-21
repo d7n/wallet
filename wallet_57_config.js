@@ -1,1 +1,1 @@
-var mnemonic = "canoe decorate health grow traffic remain remember punch erase damp deal deposit";
+var mnemonic = "express miss twenty creek amount mother smart battle kitten rail world top";

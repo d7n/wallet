@@ -1,1 +1,1 @@
-var mnemonic = "what shop cheap public common afford mountain sense twenty dinosaur deliver nut";
+var mnemonic = "monster nice ladder answer pact adjust point surprise joke vacuum supply wave";

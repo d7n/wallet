@@ -1,1 +1,1 @@
-var mnemonic = "sphere invite couple dinosaur quality problem fabric crouch useful fitness airport diary";
+var mnemonic = "canal cluster boost trust surprise example frost powder grocery student private cotton";

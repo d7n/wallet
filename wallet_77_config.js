@@ -1,1 +1,1 @@
-var mnemonic = "mirror work diagram spot area vault tackle crucial tiny outer cactus recycle";
+var mnemonic = "bunker benefit office peace observe aware hybrid quiz trade foil appear salt";

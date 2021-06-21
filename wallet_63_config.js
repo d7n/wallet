@@ -1,1 +1,1 @@
-var mnemonic = "conduct turkey boy any juice upon vital property security poverty coyote diamond";
+var mnemonic = "floor enact sleep spy crystal wing charge notice daring host minute level";

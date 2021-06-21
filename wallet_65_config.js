@@ -1,1 +1,1 @@
-var mnemonic = "planet asthma slogan audit prize shy globe bridge consider nature describe grain";
+var mnemonic = "census evidence pipe hip roof trouble bid render skate orient talent shop";

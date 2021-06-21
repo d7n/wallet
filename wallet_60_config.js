@@ -1,1 +1,1 @@
-var mnemonic = "ill ribbon ring taxi collect cool denial manage pull leg simple clog";
+var mnemonic = "sun kidney limit style guard rule remind mountain logic artwork gaze dose";

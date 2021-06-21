@@ -1,1 +1,1 @@
-var mnemonic = "mosquito ancient world carry wedding pact cube vibrant fee horn card garlic";
+var mnemonic = "wheel sort chat birth increase envelope foster enrich stadium script delay beyond";

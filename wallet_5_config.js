@@ -1,1 +1,1 @@
-var mnemonic = "expect replace artist print novel awful cup strong debris champion obvious rare";
+var mnemonic = "peasant cushion usual shallow country all virus garden usual cliff hundred champion";

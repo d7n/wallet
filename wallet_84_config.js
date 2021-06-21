@@ -1,1 +1,1 @@
-var mnemonic = "remove coil piece choice lumber pitch tuition pledge acoustic win disorder coral";
+var mnemonic = "pilot repair ordinary tape survey luxury warfare salon hat host friend debate";

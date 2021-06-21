@@ -1,1 +1,1 @@
-var mnemonic = "emotion move rhythm reward canoe wood affair clinic permit rotate bone sugar";
+var mnemonic = "leaf garlic dilemma cash salt fly sausage hurt resist rocket catch aware";

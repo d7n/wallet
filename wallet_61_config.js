@@ -1,1 +1,1 @@
-var mnemonic = "struggle dirt ask boy caution offer document afford visa zebra empty forget";
+var mnemonic = "position notice become gasp brain crazy assume clock chat noble strong stone";

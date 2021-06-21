@@ -1,1 +1,1 @@
-var mnemonic = "erase fringe option humor describe benefit just orchard police visa certain eye";
+var mnemonic = "small circle menu thank sun close reduce broccoli noise sorry pull thank";

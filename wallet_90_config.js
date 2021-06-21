@@ -1,1 +1,1 @@
-var mnemonic = "foam phone insane ahead decrease submit crouch erupt draw stock federal chaos";
+var mnemonic = "pride image fancy arrest figure add news satoshi clog another execute indicate";

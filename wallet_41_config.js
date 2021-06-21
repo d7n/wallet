@@ -1,1 +1,1 @@
-var mnemonic = "canal canal slab mechanic stomach sense silver basket pulp liar bless wonder";
+var mnemonic = "artist program popular kite truly wine soda fetch spirit twin clog useless";

@@ -1,1 +1,1 @@
-var mnemonic = "pair wonder habit van once mixture alpha sauce canvas belt foam romance";
+var mnemonic = "fashion lion rail agree bronze nuclear dial mail boil renew broom mango";

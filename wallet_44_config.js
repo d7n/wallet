@@ -1,1 +1,1 @@
-var mnemonic = "jump blind hip excess critic comfort fuel satisfy device cinnamon note speak";
+var mnemonic = "nature bleak similar shock service public gospel film slight speak brain cover";

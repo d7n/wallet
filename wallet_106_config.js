@@ -1,1 +1,1 @@
-var mnemonic = "crush fade reform belt rookie future afford spend magnet unveil fluid drum";
+var mnemonic = "ride lab cherry lend kind hunt dress balcony humble vague small husband";

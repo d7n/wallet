@@ -1,1 +1,1 @@
-var mnemonic = "confirm tray provide cigar clerk river width version right timber trust meadow";
+var mnemonic = "palace romance cereal teach length work rapid admit proof matrix whale blur";

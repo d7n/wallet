@@ -1,1 +1,1 @@
-var mnemonic = "solar this stem allow steak twice large culture slim ill rapid economy";
+var mnemonic = "join penalty secret snap sign ensure cousin grid filter enter kit valve";

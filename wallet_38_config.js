@@ -1,1 +1,1 @@
-var mnemonic = "marriage rent room bamboo author balcony arch write kangaroo swap weasel whip";
+var mnemonic = "party banana school fragile glove bar blanket view range pigeon mixed gloom";

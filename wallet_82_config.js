@@ -1,1 +1,1 @@
-var mnemonic = "garden fortune swap profit lunch anchor jazz very enact wing supreme plate";
+var mnemonic = "purchase truck cube one caution hill language fan goddess upgrade enforce sibling";

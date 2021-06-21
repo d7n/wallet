@@ -1,1 +1,1 @@
-var mnemonic = "twin base lobster turn term primary castle host nasty news animal then";
+var mnemonic = "tiger fortune damage syrup stem merry spike poverty acquire glory puppy vital";

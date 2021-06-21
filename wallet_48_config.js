@@ -1,1 +1,1 @@
-var mnemonic = "mass myth search orange bargain salmon bean cage museum upon spike parent";
+var mnemonic = "mystery apple observe cousin grunt student okay stool helmet pipe detail soft";

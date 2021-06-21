@@ -1,1 +1,1 @@
-var mnemonic = "penalty caution toward flash reform impose silk swing evidence dune harbor hobby";
+var mnemonic = "require gas fiber slender lunch picture orient wealth close frequent belt actual";

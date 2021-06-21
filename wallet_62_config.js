@@ -1,1 +1,1 @@
-var mnemonic = "kind dash gasp floor flavor shed view orange clarify hole version speed";
+var mnemonic = "chuckle jar else negative huge aisle bomb reflect board meat render pottery";

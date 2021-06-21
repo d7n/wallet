@@ -1,1 +1,1 @@
-var mnemonic = "much exercise deliver stay anger mystery easily front enrich craft chimney identify";
+var mnemonic = "reward isolate toe immense sausage sight luggage obtain film start stereo mouse";

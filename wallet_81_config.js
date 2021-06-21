@@ -1,1 +1,1 @@
-var mnemonic = "various double daring beach neither bachelor claim obey carpet meat brown wait";
+var mnemonic = "achieve input alert present warm twice tank camp topic fall crack true";

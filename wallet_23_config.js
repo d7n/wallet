@@ -1,1 +1,1 @@
-var mnemonic = "swear beef grief fiction acid globe observe romance attack century armor athlete";
+var mnemonic = "miracle prison wear search mutual regular joy liberty carry draft camera maze";

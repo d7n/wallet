@@ -1,1 +1,1 @@
-var mnemonic = "skull barely eager process tomorrow reduce nominee hover mercy ordinary found valve";
+var mnemonic = "retreat satisfy piece heart fury gym liquid climb daring ceiling increase bomb";

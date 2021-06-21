@@ -1,1 +1,1 @@
-var mnemonic = "toddler canal truth index turkey submit forest draw march sorry galaxy inherit";
+var mnemonic = "abandon frown recipe model upgrade galaxy visa pelican chuckle island pause mystery";

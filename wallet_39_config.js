@@ -1,1 +1,1 @@
-var mnemonic = "guilt run dismiss candy rally beach pupil meat age dice december announce";
+var mnemonic = "mask wine ketchup sail barely infant viable weekend rather clean old health";

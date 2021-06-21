@@ -1,1 +1,1 @@
-var mnemonic = "nose sing snap surge favorite pink please measure return route lazy suit";
+var mnemonic = "idea little monkey protect street decline illness fiction differ put curious speed";

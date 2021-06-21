@@ -1,1 +1,1 @@
-var mnemonic = "ahead aerobic guard result spice giant muffin crime miracle any donor clutch";
+var mnemonic = "zero zero seminar blade auction matrix notice public street tourist grain evidence";

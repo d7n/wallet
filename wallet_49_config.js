@@ -1,1 +1,1 @@
-var mnemonic = "tobacco three horse load trophy message depend crash brain frown net leopard";
+var mnemonic = "roof smart wall radio stairs pig craft squeeze bundle quality innocent flight";

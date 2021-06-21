@@ -1,1 +1,1 @@
-var mnemonic = "file destroy try warrior zebra throw cheap matrix pretty electric rocket sad";
+var mnemonic = "notice letter write bind mammal under link table bacon gasp nurse million";

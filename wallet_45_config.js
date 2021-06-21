@@ -1,1 +1,1 @@
-var mnemonic = "expose pause soap twelve spoon ghost need ready taxi snow harvest protect";
+var mnemonic = "rural flag dinosaur write carry history riot record enlist fall tray better";

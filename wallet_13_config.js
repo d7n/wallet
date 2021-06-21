@@ -1,1 +1,1 @@
-var mnemonic = "woman then kite kiss pattern weapon phrase pair chief session topple senior";
+var mnemonic = "enhance bounce arrow math mosquito indicate flock turkey impact mosquito illegal dance";

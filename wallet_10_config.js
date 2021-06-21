@@ -1,1 +1,1 @@
-var mnemonic = "payment sad theory bike upset post honey figure domain pipe purchase large";
+var mnemonic = "floor path dignity phrase defy worth artefact chunk loan excuse sort gun";

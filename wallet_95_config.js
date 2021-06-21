@@ -1,1 +1,1 @@
-var mnemonic = "cat arrange mirror mutual case worry design pear jewel song old wonder";
+var mnemonic = "vehicle able village little length number table cruel captain secret wood weasel";

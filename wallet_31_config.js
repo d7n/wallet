@@ -1,1 +1,1 @@
-var mnemonic = "neither beef fall story nephew ozone cover crunch metal bus pupil family";
+var mnemonic = "faculty glory follow thought march movie then gap used certain lesson proof";

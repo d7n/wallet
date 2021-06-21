@@ -1,1 +1,1 @@
-var mnemonic = "submit rib identify blush process exist goddess oblige crouch slam onion bomb";
+var mnemonic = "joy problem tornado round during sort book mutual action upon actual please";

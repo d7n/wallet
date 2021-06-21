@@ -1,1 +1,1 @@
-var mnemonic = "boy same enhance process tube umbrella wrap hungry elevator seed humor venture";
+var mnemonic = "clean sort always velvet joy kingdom punch jar blood merry crunch gift";

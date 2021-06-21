@@ -1,1 +1,1 @@
-var mnemonic = "general boat flavor dial midnight husband mouse action ecology educate utility depart";
+var mnemonic = "shoe lawsuit prefer draw local title resource accuse symptom game bulb bomb";

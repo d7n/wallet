@@ -1,1 +1,1 @@
-var mnemonic = "guitar heavy glass exist vanish reunion wool view sudden warrior actress glue";
+var mnemonic = "demise menu inform mind kidney atom saddle remind fiber canyon engage tribe";

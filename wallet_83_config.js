@@ -1,1 +1,1 @@
-var mnemonic = "client peasant put approve edge crane economy skate theory that sport can";
+var mnemonic = "sentence oblige skull coin extend stereo know afford tiny escape trophy sauce";

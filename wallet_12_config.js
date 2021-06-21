@@ -1,1 +1,1 @@
-var mnemonic = "like visual soup bounce deposit enough insane scan faith depend rack seek";
+var mnemonic = "such update canvas kidney sorry original eternal north barrel hub salmon metal";

@@ -1,1 +1,1 @@
-var mnemonic = "climb sheriff park execute raccoon stable blood scan citizen more grief february";
+var mnemonic = "warrior tilt simple vault unusual language enlist okay chat practice ketchup happy";

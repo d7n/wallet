@@ -1,1 +1,1 @@
-var mnemonic = "surprise artefact vote focus real monster notice crumble journey joy general enable";
+var mnemonic = "ostrich release novel fat large chunk video expire wreck limit fetch angry";

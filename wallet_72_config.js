@@ -1,1 +1,1 @@
-var mnemonic = "head nominee profit lake sauce damp doctor inspire echo dash key creek";
+var mnemonic = "liberty throw define filter brain air situate sugar gas attack fiber depth";

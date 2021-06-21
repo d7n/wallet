@@ -1,1 +1,1 @@
-var mnemonic = "crew office goddess danger drop atom bottom purpose elegant coil author buddy";
+var mnemonic = "bar lumber spend region citizen garden glare blossom trick fuel hamster party";

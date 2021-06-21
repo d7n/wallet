@@ -1,1 +1,1 @@
-var mnemonic = "rice task leaf artist say lion scrub discover romance dwarf soon glide";
+var mnemonic = "cook come dial amused actor brief slim trial radar arm concert legal";

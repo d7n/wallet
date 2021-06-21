@@ -1,1 +1,1 @@
-var mnemonic = "quiz accident minute sniff seminar swear sight act old leaf bulb pledge";
+var mnemonic = "pistol garlic auction joy mouse fashion simple struggle buffalo trap such scorpion";

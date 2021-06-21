@@ -1,1 +1,1 @@
-var mnemonic = "toe mystery quote relax history simple witness same song taxi size fashion";
+var mnemonic = "happy grain guitar decide canyon chapter into abuse deer artefact prefer face";

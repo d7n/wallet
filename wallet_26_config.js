@@ -1,1 +1,1 @@
-var mnemonic = "please super social horror grant vast mean over envelope typical grape era";
+var mnemonic = "body kite net fatigue speed under summer young honey ranch pledge identify";

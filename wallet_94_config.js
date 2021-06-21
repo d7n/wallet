@@ -1,1 +1,1 @@
-var mnemonic = "viable add spirit father talent mistake weather surprise spell supreme weasel alone";
+var mnemonic = "term second always swift mechanic razor leader island culture famous monster result";

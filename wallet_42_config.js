@@ -1,1 +1,1 @@
-var mnemonic = "armed drama fence foot start settle spatial budget amount benefit select cancel";
+var mnemonic = "cement immune patient swear desk polar coyote shield marine warrior document list";

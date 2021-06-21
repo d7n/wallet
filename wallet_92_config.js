@@ -1,1 +1,1 @@
-var mnemonic = "gossip anchor mouse weapon about tank original venue advice critic exist scrub";
+var mnemonic = "boil egg card work divert author setup prepare always suit battle return";

@@ -1,1 +1,1 @@
-var mnemonic = "brush more hotel frame course tide prison analyst live icon number curious";
+var mnemonic = "assist large wreck tube minute today uncle corn inside deer project arctic";

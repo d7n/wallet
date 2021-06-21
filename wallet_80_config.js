@@ -1,1 +1,1 @@
-var mnemonic = "choose cruel region egg wear memory velvet arena cup kiwi jazz clerk";
+var mnemonic = "pear slender novel use enough tent call youth help chapter sting crouch";

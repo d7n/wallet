@@ -1,1 +1,1 @@
-var mnemonic = "wait tide dog mistake trial public twist actor evidence shuffle thank token";
+var mnemonic = "give deliver define pattern base able aisle robust blouse solid thought aisle";

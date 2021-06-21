@@ -1,1 +1,1 @@
-var mnemonic = "reform ignore place sibling bronze lonely team fly puppy rigid exact neither";
+var mnemonic = "clay room slab magic shoulder ketchup neither opinion walk slot climb exile";

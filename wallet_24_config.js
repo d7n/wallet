@@ -1,1 +1,1 @@
-var mnemonic = "float lucky comic combine push media lion mixed zero nice glow dry";
+var mnemonic = "clump siege voice plastic spice regular dolphin october toddler nephew debate suit";

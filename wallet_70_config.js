@@ -1,1 +1,1 @@
-var mnemonic = "short puppy odor fortune good thumb sock ordinary taxi melody donkey pelican";
+var mnemonic = "infant rose photo van kangaroo discover leaf remind clump sweet defense silk";

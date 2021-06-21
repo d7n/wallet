@@ -1,1 +1,1 @@
-var mnemonic = "poet giggle myth carpet goat organ easy soccer elite solid rebel attract";
+var mnemonic = "escape twist short come certain talent cloth unit any gorilla nasty extra";

@@ -1,1 +1,1 @@
-var mnemonic = "garlic fresh mango between avocado smoke doctor library vague finger adult forward";
+var mnemonic = "hungry occur path arrive must artist such creek old future mom peace";

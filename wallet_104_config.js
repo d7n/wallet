@@ -1,1 +1,1 @@
-var mnemonic = "scrub game middle odor toddler summer culture lion lawn clever rely fame";
+var mnemonic = "auction kite whale choice ski rely asset orchard weird sheriff fury auto";

@@ -1,1 +1,1 @@
-var mnemonic = "lumber verify hockey follow female trigger endless bicycle fall idea result judge";
+var mnemonic = "ghost curtain kiss fringe option gasp syrup tray ribbon bleak cook either";

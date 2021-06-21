@@ -1,1 +1,1 @@
-var mnemonic = "blur hamster winter enact produce sound clip stool impulse stove candy civil";
+var mnemonic = "message father grace pudding brown bar panda glory sleep cycle teach still";

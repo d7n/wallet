@@ -1,1 +1,1 @@
-var mnemonic = "very slight service wing sphere scene thrive execute wait kick curve method";
+var mnemonic = "source barely book moral forward dinosaur crush security crack soda winner hurdle";

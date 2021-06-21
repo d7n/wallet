@@ -1,1 +1,1 @@
-var mnemonic = "access action warm dad blast hawk beef dose tourist skirt enough spawn";
+var mnemonic = "choice element hello thrive upgrade long such theme assume try pig donate";

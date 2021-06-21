@@ -1,1 +1,1 @@
-var mnemonic = "initial betray census system faith pencil skill cover cook grunt upper lunch";
+var mnemonic = "trumpet shrug merge farm nature claw worry review junk sail rebuild blur";

@@ -1,1 +1,1 @@
-var mnemonic = "side grape puzzle basket response cost piece orphan bus rhythm turkey recipe";
+var mnemonic = "accident wild solve reunion twelve diary endorse shop fun hint town chuckle";

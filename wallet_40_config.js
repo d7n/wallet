@@ -1,1 +1,1 @@
-var mnemonic = "adjust slow weird water shield neck catalog pepper eternal day fashion crater";
+var mnemonic = "coil drink category dish crunch chaos beyond clean stable lumber essence before";

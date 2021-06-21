@@ -1,1 +1,1 @@
-var mnemonic = "coach announce odor country include circle conduct mix atom impact destroy orient";
+var mnemonic = "place culture economy skirt tornado detail proud tiny type leisure rose machine";

@@ -1,1 +1,1 @@
-var mnemonic = "mountain indoor wear heart action thunder conduct tunnel sentence soldier oxygen stage";
+var mnemonic = "rather leave sort gentle cheese bread knife double scatter salute myself leg";

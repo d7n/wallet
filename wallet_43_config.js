@@ -1,1 +1,1 @@
-var mnemonic = "book outside arrive sauce process come knock obtain athlete spread small detail";
+var mnemonic = "this deer bachelor inspire turtle ticket pilot rescue disagree general sentence garbage";
