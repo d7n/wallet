@@ -1,1 +1,1 @@
-var mnemonic = "rival output element bag salute solution almost decline mention meadow almost dinosaur";
+var mnemonic = "bus frost guitar super doctor remove awake eyebrow already blue balance harbor";

@@ -1,1 +1,1 @@
-var mnemonic = "produce foot rare quantum first popular dawn fancy chronic sail pride party";
+var mnemonic = "word west mammal off soon magic connect dress swamp bone around volume";

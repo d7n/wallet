@@ -1,1 +1,1 @@
-var mnemonic = "little brick knife ceiling smile famous clock ten this rent drip wish";
+var mnemonic = "south elegant hollow play enforce secret start federal flavor boost defense cost";

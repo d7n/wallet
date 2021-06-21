@@ -1,1 +1,1 @@
-var mnemonic = "stove retire gold thing assume fancy powder guess pull leopard family orient";
+var mnemonic = "expect gap park taxi liar agent move where useless venture left foil";

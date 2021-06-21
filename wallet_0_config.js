@@ -1,1 +1,1 @@
-var mnemonic = "hammer obscure panda domain beauty soldier biology truth sadness service penalty middle";
+var mnemonic = "render execute leaf elder toilet pistol typical position siege section south eyebrow";

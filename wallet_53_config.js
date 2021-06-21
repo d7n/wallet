@@ -1,1 +1,1 @@
-var mnemonic = "dirt phone sail inflict fork fan resemble either churn sense spirit ugly";
+var mnemonic = "rival ankle extra use display excuse oppose escape rain sketch similar razor";

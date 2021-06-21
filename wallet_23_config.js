@@ -1,1 +1,1 @@
-var mnemonic = "stage able lady trial concert cover blind embrace code vault social make";
+var mnemonic = "robust focus alpha lunar borrow jazz priority round grace scare damage pizza";

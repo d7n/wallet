@@ -1,1 +1,1 @@
-var mnemonic = "agent corn echo leisure surprise foam empty police used doctor meadow neutral";
+var mnemonic = "library humor laundry bargain ignore sentence purse tide token arena speak panda";

@@ -1,1 +1,1 @@
-var mnemonic = "coach settle style observe teach jealous lemon duty inside apart diary minimum";
+var mnemonic = "loyal wet fatal help banana minute host faint night confirm sorry wash";

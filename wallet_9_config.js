@@ -1,1 +1,1 @@
-var mnemonic = "sand auction sail velvet guilt dumb man sugar pen ready legal patch";
+var mnemonic = "soft secret bind analyst bulb improve pizza desk razor tilt inject execute";

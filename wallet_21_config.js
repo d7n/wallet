@@ -1,1 +1,1 @@
-var mnemonic = "key lab apple excuse enjoy ill news current veteran song blind rough";
+var mnemonic = "crash correct sheriff weekend meat mechanic half ethics base case away advice";

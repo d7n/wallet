@@ -1,1 +1,1 @@
-var mnemonic = "deliver penalty reflect edge disorder say guilt online current helmet digital absent";
+var mnemonic = "often crater boost already lava rule brass interest success puppy bag hat";

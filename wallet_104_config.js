@@ -1,1 +1,1 @@
-var mnemonic = "what canyon love super saddle mushroom nephew venue mountain pumpkin mother father";
+var mnemonic = "teach crazy cruel range income roast vague language shove auction dune oval";

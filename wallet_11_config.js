@@ -1,1 +1,1 @@
-var mnemonic = "boss charge olive manual enact brave bomb flat install web track roast";
+var mnemonic = "talent expire flush trumpet ring silver juice primary embody today thumb labor";

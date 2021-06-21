@@ -1,1 +1,1 @@
-var mnemonic = "focus engine figure slogan noble alone thing venture pig toe all chicken";
+var mnemonic = "wisdom parrot dad front dose put eye alarm worth snake muscle repair";

@@ -1,1 +1,1 @@
-var mnemonic = "barrel media lab sound skill clock choose divert film wet wreck decrease";
+var mnemonic = "emerge milk hire song scorpion badge marble birth planet giraffe fox spell";

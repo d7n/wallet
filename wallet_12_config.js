@@ -1,1 +1,1 @@
-var mnemonic = "strike borrow student assist brother brand giggle mass accident work fancy biology";
+var mnemonic = "hover polar sail one hill innocent sustain chef valve match razor fantasy";

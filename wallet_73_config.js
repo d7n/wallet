@@ -1,1 +1,1 @@
-var mnemonic = "fiscal tower want forward spice orange shove pluck cash waste erosion name";
+var mnemonic = "choose mammal garlic write fade crucial glue announce capital cliff taxi whip";

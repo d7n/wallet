@@ -1,1 +1,1 @@
-var mnemonic = "long gap buyer skull fine step job style clock swallow cheese series";
+var mnemonic = "hawk fire aware pottery denial property rebel expect furnace couple child whisper";

@@ -1,1 +1,1 @@
-var mnemonic = "require mansion draw civil pride into chronic movie this rifle matrix lottery";
+var mnemonic = "plate blast stadium pulse phrase jewel ribbon shove dutch globe home doll";

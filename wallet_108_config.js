@@ -1,1 +1,1 @@
-var mnemonic = "scare system digital another slam once kind box ahead spice become stuff";
+var mnemonic = "exist sport coyote traffic modify private delay cup initial bench swing forget";

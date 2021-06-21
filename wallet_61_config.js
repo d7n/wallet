@@ -1,1 +1,1 @@
-var mnemonic = "lottery flavor innocent tenant hedgehog earn void arch crater lottery toilet divert";
+var mnemonic = "pioneer noise hunt shallow pulp stuff twin grape arch false dust void";

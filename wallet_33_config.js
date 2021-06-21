@@ -1,1 +1,1 @@
-var mnemonic = "melt patch news gate forward fragile turn satisfy captain hamster oval patrol";
+var mnemonic = "reduce aunt transfer middle tiny father curve glow special crash sample myself";

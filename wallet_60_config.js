@@ -1,1 +1,1 @@
-var mnemonic = "whisper expose eight okay bundle profit maze assist initial pipe medal update";
+var mnemonic = "extend earn elephant finger nuclear wage analyst dinner zero milk wool economy";

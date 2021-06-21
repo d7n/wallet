@@ -1,1 +1,1 @@
-var mnemonic = "toe include wine initial outside poet minor dry wish ritual bargain ribbon";
+var mnemonic = "project latin electric file empty beef ocean bargain color crime trouble decade";

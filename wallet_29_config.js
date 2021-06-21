@@ -1,1 +1,1 @@
-var mnemonic = "much cream grain monitor jazz modify fit demise lens primary voyage soon";
+var mnemonic = "save dust view disorder surge beauty often sunset pony pride person stumble";

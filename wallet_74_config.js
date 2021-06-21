@@ -1,1 +1,1 @@
-var mnemonic = "deer hotel chronic identify few virus captain decrease smart call hurt raccoon";
+var mnemonic = "federal nation you style swing ozone begin double poem soft later digital";

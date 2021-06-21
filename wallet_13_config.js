@@ -1,1 +1,1 @@
-var mnemonic = "key result column thumb level manage rotate acid cake blue bubble imitate";
+var mnemonic = "chunk keep giggle wheat style siege aim suffer car mystery option gasp";

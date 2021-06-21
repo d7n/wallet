@@ -1,1 +1,1 @@
-var mnemonic = "ribbon sell wrap cat measure toy wire mango fame priority exhibit gym";
+var mnemonic = "picnic timber improve essence violin file glance express jacket web develop head";

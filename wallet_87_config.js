@@ -1,1 +1,1 @@
-var mnemonic = "talent dwarf confirm weekend reflect slab bean slush siege will pair book";
+var mnemonic = "job embark bicycle round surprise guilt winner tenant shrug vibrant image solid";

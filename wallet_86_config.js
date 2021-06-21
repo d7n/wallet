@@ -1,1 +1,1 @@
-var mnemonic = "depend kitten come head senior veteran inject abstract funny ill lecture pole";
+var mnemonic = "this method hello medal lens goat hidden observe hawk next bless galaxy";

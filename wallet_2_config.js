@@ -1,1 +1,1 @@
-var mnemonic = "elevator mansion mutual vocal earth weather brown border mosquito scissors bounce regret";
+var mnemonic = "puzzle breeze snack fatal barrel luxury rare erosion enjoy ozone modify novel";

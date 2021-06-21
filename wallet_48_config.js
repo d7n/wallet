@@ -1,1 +1,1 @@
-var mnemonic = "unfair meat awake dice bread crystal spend abuse page sheriff slice exclude";
+var mnemonic = "stairs fence urban heart there artefact winner brick scout taxi feed hungry";

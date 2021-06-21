@@ -1,1 +1,1 @@
-var mnemonic = "afraid item version oil royal summer weapon review degree eternal loud plastic";
+var mnemonic = "split priority music found order search possible copper result cry exile canoe";

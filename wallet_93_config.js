@@ -1,1 +1,1 @@
-var mnemonic = "remember safe shadow buddy tide account dad present spy priority high finger";
+var mnemonic = "weasel join material online bone ecology pledge host hire stereo already castle";

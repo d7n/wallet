@@ -1,1 +1,1 @@
-var mnemonic = "trust invite odor calm exercise slam basic truck magic avocado notice jump";
+var mnemonic = "gather pear camp trade thumb enjoy bachelor wing ten update box side";

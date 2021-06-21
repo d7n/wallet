@@ -1,1 +1,1 @@
-var mnemonic = "erase multiply worth series loop swift melody blush right uncle post bronze";
+var mnemonic = "mad able advance random crash plunge brown forward shove master entry crack";

@@ -1,1 +1,1 @@
-var mnemonic = "fashion same lady captain service where message twist ten tone piano picnic";
+var mnemonic = "harsh bullet hope almost roof regret awake hospital dose escape join wedding";

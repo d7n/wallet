@@ -1,1 +1,1 @@
-var mnemonic = "armor bicycle oyster hint alter muffin adapt salute bless escape glance life";
+var mnemonic = "erupt prepare cruel category comfort wine put meat together old eagle reflect";

@@ -1,1 +1,1 @@
-var mnemonic = "finish vast joy joy joy toward income young fold spike direct figure";
+var mnemonic = "deputy lesson chest universe gain blood motor boy toilet brick boil core";

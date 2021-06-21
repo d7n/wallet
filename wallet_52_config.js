@@ -1,1 +1,1 @@
-var mnemonic = "caution siege kingdom blade ensure three actual gold pencil engine tooth squirrel";
+var mnemonic = "silver actual hybrid account prison pulse tool dutch cream imitate dry because";

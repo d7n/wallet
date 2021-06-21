@@ -1,1 +1,1 @@
-var mnemonic = "today sick install expire speak border train minor music girl tuition tongue";
+var mnemonic = "ask okay describe inch vacant company undo giant hungry enforce stick source";

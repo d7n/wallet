@@ -1,1 +1,1 @@
-var mnemonic = "inmate climb recipe forget junk yellow spread type unusual pistol chase weekend";
+var mnemonic = "ill seek accident west medal turn wrist circle now verb hole wonder";

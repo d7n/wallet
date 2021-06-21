@@ -1,1 +1,1 @@
-var mnemonic = "own glance level random goose mosquito baby alcohol design have garage focus";
+var mnemonic = "damage ginger puzzle zoo salmon more slush rifle cart sentence aunt author";

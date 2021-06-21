@@ -1,1 +1,1 @@
-var mnemonic = "coin release leg style turkey foot dolphin mistake burst mixture tape away";
+var mnemonic = "insane whip learn three loop sponsor negative grain outside test bag vintage";

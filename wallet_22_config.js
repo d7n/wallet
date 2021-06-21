@@ -1,1 +1,1 @@
-var mnemonic = "protect vote range inhale brand grant prize victory cupboard primary shell ready";
+var mnemonic = "diamond among sample tell slender rebuild rib kitten rebuild goddess cousin lizard";

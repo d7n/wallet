@@ -1,1 +1,1 @@
-var mnemonic = "uncle asset draw danger throw note measure doll witness cancel surprise phone";
+var mnemonic = "middle december ribbon library coach inside room okay mercy ahead monkey creek";

@@ -1,1 +1,1 @@
-var mnemonic = "arena apple fade drink focus unique rude upper rack detail lab faculty";
+var mnemonic = "track gloom parrot option ostrich huge arrive crash what grant ill milk";

@@ -1,1 +1,1 @@
-var mnemonic = "scout miss famous flame salon garment animal coil broken hospital domain total";
+var mnemonic = "cherry size tiger cover roast wrist leg outside neck balcony chimney guard";

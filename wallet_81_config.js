@@ -1,1 +1,1 @@
-var mnemonic = "double finish finish question obtain police puppy excess elder disorder increase table";
+var mnemonic = "spin business yard angry female retreat future festival cup refuse must logic";

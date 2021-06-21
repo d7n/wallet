@@ -1,1 +1,1 @@
-var mnemonic = "pilot awful remain weapon cloud divorce glare clean swap oval toss evidence";
+var mnemonic = "estate scout canvas decade satoshi crumble inch snow west explain elephant easy";

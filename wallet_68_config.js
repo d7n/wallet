@@ -1,1 +1,1 @@
-var mnemonic = "merit receive maze mad sun once sport castle summer leave exotic mosquito";
+var mnemonic = "program coach just service riot inspire eagle size good process gauge talent";

@@ -1,1 +1,1 @@
-var mnemonic = "mean amused antique dog view daring chaos camera custom kit calm grain";
+var mnemonic = "curious winner evil wreck feed clog donor estate odor joke debate crater";

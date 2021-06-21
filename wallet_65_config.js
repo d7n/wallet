@@ -1,1 +1,1 @@
-var mnemonic = "pelican refuse polar reunion rug art peasant viable dizzy adjust situate kick";
+var mnemonic = "gasp give radar village trade excite oven system ketchup spirit slot menu";

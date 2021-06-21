@@ -1,1 +1,1 @@
-var mnemonic = "begin brand reveal pupil oxygen mystery bounce giraffe stock valid anger joke";
+var mnemonic = "between salmon evoke course decide vehicle deliver join special dice drip example";

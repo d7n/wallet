@@ -1,1 +1,1 @@
-var mnemonic = "typical cry hospital clump hair weird surprise mad route exchange swap style";
+var mnemonic = "attitude index buyer rib crop edge problem tent make fork fancy sample";

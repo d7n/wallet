@@ -1,1 +1,1 @@
-var mnemonic = "tennis swing dial arrest angry need rough afraid dish menu come tilt";
+var mnemonic = "angry worry width master urban heavy auction another simple lady cereal limit";

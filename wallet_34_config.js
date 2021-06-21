@@ -1,1 +1,1 @@
-var mnemonic = "rent soda paddle empower game extend melody minimum come shop park theory";
+var mnemonic = "input stick pattern kit canoe monkey accident purity bunker eight news ring";

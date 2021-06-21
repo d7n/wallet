@@ -1,1 +1,1 @@
-var mnemonic = "organ deal what focus armed slot acid marriage bicycle celery assault hybrid";
+var mnemonic = "rival swallow cat survey peasant patch father job divert sadness garbage entire";

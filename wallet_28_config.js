@@ -1,1 +1,1 @@
-var mnemonic = "nuclear describe lab rural cream bind until lonely orient such talent radar";
+var mnemonic = "alley never upper half banana barely thought hurry horn lamp phone duty";

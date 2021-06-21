@@ -1,1 +1,1 @@
-var mnemonic = "monster game soldier salmon stomach faint switch place inform wasp episode spatial";
+var mnemonic = "safe rural assault web core mesh motion make chat present believe argue";

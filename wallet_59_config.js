@@ -1,1 +1,1 @@
-var mnemonic = "canvas all cactus want twin cause rug join amazing total rich disagree";
+var mnemonic = "sunny myth margin offer lunch plunge indicate hour believe best train cage";

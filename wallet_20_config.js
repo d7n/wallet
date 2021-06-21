@@ -1,1 +1,1 @@
-var mnemonic = "lens civil engine cliff payment travel thought razor please file cube exhaust";
+var mnemonic = "ridge blur field story amount warrior bulb enter hill ask suggest defense";

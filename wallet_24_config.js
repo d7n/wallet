@@ -1,1 +1,1 @@
-var mnemonic = "skill discover toast angry kidney clock divert cherry network neutral movie smile";
+var mnemonic = "season inherit sibling kitten forest argue fun vehicle ethics sorry play road";

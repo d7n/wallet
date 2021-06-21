@@ -1,1 +1,1 @@
-var mnemonic = "will traffic chapter stumble strike clump cool link super pause style trade";
+var mnemonic = "kick happy ramp raven monitor track volcano quality impact either acid kiwi";

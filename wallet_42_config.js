@@ -1,1 +1,1 @@
-var mnemonic = "lumber build comfort debate wall good because uncover trick impact super fade";
+var mnemonic = "assume similar orphan method dilemma help hour faint loan expand deputy envelope";

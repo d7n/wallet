@@ -1,1 +1,1 @@
-var mnemonic = "dial used lesson hammer glide orient blue fan bike barrel carry icon";
+var mnemonic = "awake cliff injury snow blade earn mixed congress transfer noodle hurry time";

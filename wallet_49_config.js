@@ -1,1 +1,1 @@
-var mnemonic = "final hip improve cup uncover picnic leisure reveal inquiry daring cancel wet";
+var mnemonic = "joy leisure pupil all million industry pencil innocent sad goddess broccoli frozen";

@@ -1,1 +1,1 @@
-var mnemonic = "outer until shallow visual carry foil victory connect lumber guitar puppy captain";
+var mnemonic = "team wheel faith column valve orbit where elite opinion sentence valve exchange";

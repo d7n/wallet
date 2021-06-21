@@ -1,1 +1,1 @@
-var mnemonic = "body injury rival retreat glow such annual emotion jealous infant face curve";
+var mnemonic = "sea dash detect acid mosquito embark crouch tube private cake floor tiny";

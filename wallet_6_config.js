@@ -1,1 +1,1 @@
-var mnemonic = "test biology hurdle deny enlist win argue luggage coast pair bright scorpion";
+var mnemonic = "seven dynamic good know discover daring pen image diet orient clutch tube";

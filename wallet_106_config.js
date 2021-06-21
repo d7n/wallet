@@ -1,1 +1,1 @@
-var mnemonic = "fiction captain science time afford denial gun shrimp problem elbow upper fossil";
+var mnemonic = "replace peace blue trip hole private dog load find evolve prepare truth";

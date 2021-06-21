@@ -1,1 +1,1 @@
-var mnemonic = "cruise offer foot agent hammer pigeon camera kit raw hidden ladder gloom";
+var mnemonic = "auction august improve boat water never crucial remain jazz midnight issue evolve";

@@ -1,1 +1,1 @@
-var mnemonic = "crop bean south yellow traffic million tired kidney remove flat nothing crumble";
+var mnemonic = "cruel friend maze double foster spice urban own news say feel reward";

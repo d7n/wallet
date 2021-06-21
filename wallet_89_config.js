@@ -1,1 +1,1 @@
-var mnemonic = "syrup any curtain loop category exhaust vocal emerge jazz goose safe nominee";
+var mnemonic = "avoid this submit spike shrug mad junk dilemma pave vocal fire pattern";

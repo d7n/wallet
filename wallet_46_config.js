@@ -1,1 +1,1 @@
-var mnemonic = "true zero ill garlic table force rich forum add quick fish gasp";
+var mnemonic = "desk room enough route junk submit fetch practice lake hole rigid reward";

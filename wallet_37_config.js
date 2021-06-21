@@ -1,1 +1,1 @@
-var mnemonic = "matter practice waste adapt adult monkey deal pupil bracket piece half extend";
+var mnemonic = "train entire grant bag wagon bunker hub meadow ostrich reduce pen broken";

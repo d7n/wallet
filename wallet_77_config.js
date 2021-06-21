@@ -1,1 +1,1 @@
-var mnemonic = "space glow insane plug horse marine file initial attack nothing utility card";
+var mnemonic = "gospel reopen stuff angle candy tank bounce ring lawn pig uniform trap";

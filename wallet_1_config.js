@@ -1,1 +1,1 @@
-var mnemonic = "false allow vast step case acoustic budget iron guilt mesh wide spring";
+var mnemonic = "cherry morning visa evidence collect critic escape abandon sunset tone car banana";

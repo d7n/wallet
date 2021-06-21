@@ -1,1 +1,1 @@
-var mnemonic = "misery blade dolphin void bench core dignity wave mass street retire cherry";
+var mnemonic = "panic spell photo enable neck odor swamp eye fiber word crack check";

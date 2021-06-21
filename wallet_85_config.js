@@ -1,1 +1,1 @@
-var mnemonic = "noble twin matter woman seek hand swim rural busy state apology radio";
+var mnemonic = "denial frame zero feel slight clinic lonely bargain minute include happy bird";

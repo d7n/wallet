@@ -1,1 +1,1 @@
-var mnemonic = "window awesome derive inform mandate behave quiz mouse render veteran promote oval";
+var mnemonic = "catch version torch fiscal staff six video soap verify hawk receive relax";

@@ -1,1 +1,1 @@
-var mnemonic = "found happy cycle dance sentence gym brand huge rug drastic whale orange";
+var mnemonic = "depth next nasty observe flock kind wreck armed win clog alter abstract";

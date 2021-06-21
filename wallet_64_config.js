@@ -1,1 +1,1 @@
-var mnemonic = "vague assist promote demise cabin ketchup flavor left have broccoli drama wasp";
+var mnemonic = "leave cactus crystal globe elegant garbage rapid slide sand resource amazing any";

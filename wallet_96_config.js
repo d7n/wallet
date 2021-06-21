@@ -1,1 +1,1 @@
-var mnemonic = "armor dwarf process miracle lunch mix setup tongue flame orient audit frost";
+var mnemonic = "cement guard route track admit upon service fever other group absurd exile";

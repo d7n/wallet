@@ -1,1 +1,1 @@
-var mnemonic = "yellow depth step twice equip rug cargo spirit debate van quit resist";
+var mnemonic = "broccoli liar trick crunch few punch science feed copy increase tackle term";

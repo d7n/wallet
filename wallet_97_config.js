@@ -1,1 +1,1 @@
-var mnemonic = "gorilla analyst manual toy raccoon attract arrive inhale collect chuckle kid spend";
+var mnemonic = "awesome best machine poverty sniff west gown whale fantasy empower drama decide";

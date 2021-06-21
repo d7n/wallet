@@ -1,1 +1,1 @@
-var mnemonic = "stable shift walk only art summer obey rack traffic armed pumpkin place";
+var mnemonic = "lady obtain round frequent machine winter gas jeans solid sail spare amazing";

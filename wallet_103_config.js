@@ -1,1 +1,1 @@
-var mnemonic = "join taxi wise cat forward uniform chaos hello clerk tenant fold aspect";
+var mnemonic = "census market quit diesel defense parent method cousin december kidney skirt chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "cotton antique flee outside border cargo scatter stomach embark decline cricket machine";
+var mnemonic = "churn early cart treat emerge grace gaze elbow myself record submit laundry";

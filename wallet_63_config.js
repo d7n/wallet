@@ -1,1 +1,1 @@
-var mnemonic = "lumber yard figure salute size develop spring surround artwork beauty civil rate";
+var mnemonic = "distance basic coffee coin nut pencil ugly sign stone exit razor must";
