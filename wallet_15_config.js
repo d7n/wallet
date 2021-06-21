@@ -1,1 +1,1 @@
-var mnemonic = "boat captain payment lab cave slot enjoy gap example defense mushroom joy";
+var mnemonic = "diary turkey unhappy math rough air latin adjust step drop employ cart";

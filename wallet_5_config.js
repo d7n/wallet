@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit thunder autumn mule crime remove oppose snow allow owner essay track";
+var mnemonic = "crash crater tribe crush antenna suspect spot alone limit viable avocado evil";

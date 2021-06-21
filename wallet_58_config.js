@@ -1,1 +1,1 @@
-var mnemonic = "case tongue plate monitor since empty jewel fossil false install uncle service";
+var mnemonic = "gather symptom lunar toward this metal exile fluid odor tragic cricket apart";

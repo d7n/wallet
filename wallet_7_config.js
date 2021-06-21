@@ -1,1 +1,1 @@
-var mnemonic = "sketch slight flat light image scissors indicate rescue brick wolf female joke";
+var mnemonic = "cradle differ taste follow manage conduct camera inside skate side cigar come";

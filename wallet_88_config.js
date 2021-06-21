@@ -1,1 +1,1 @@
-var mnemonic = "album artwork appear wrong kitchen impact subway soccer oil maple erode million";
+var mnemonic = "setup tumble task oak patient cost distance strike pupil unveil because jazz";

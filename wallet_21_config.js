@@ -1,1 +1,1 @@
-var mnemonic = "kid grant wink swear unfold enrich version erode lucky atom sail distance";
+var mnemonic = "monitor divorce cattle place few next resist payment office candy okay pact";

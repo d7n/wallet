@@ -1,1 +1,1 @@
-var mnemonic = "fortune select music obtain soap label skate educate armor govern need scorpion";
+var mnemonic = "artefact fabric negative glance asset canvas during found damp ridge buffalo order";

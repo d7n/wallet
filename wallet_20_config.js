@@ -1,1 +1,1 @@
-var mnemonic = "cute raise lunch license together stomach junk alpha balcony length federal thumb";
+var mnemonic = "glare lava spread manage super art myself heavy depth color fatal ankle";

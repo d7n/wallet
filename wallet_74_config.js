@@ -1,1 +1,1 @@
-var mnemonic = "walk equip allow link kitten sadness mom enjoy just arm border loan";
+var mnemonic = "alpha turn pizza one dizzy spice kid answer control say humor dawn";

@@ -1,1 +1,1 @@
-var mnemonic = "razor enrich satoshi address farm erosion begin normal kick orange nation office";
+var mnemonic = "regular gown guilt other better pledge paper excuse stairs liberty fatigue near";

@@ -1,1 +1,1 @@
-var mnemonic = "usage twelve harsh fold camp enlist never find stone fatal spatial fire";
+var mnemonic = "estate imitate cause raw broken fury where nerve pet lesson local boost";

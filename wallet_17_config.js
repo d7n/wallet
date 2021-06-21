@@ -1,1 +1,1 @@
-var mnemonic = "movie myself attack hover narrow gun burst digital brother october behave nice";
+var mnemonic = "notable manual economy orient catch panda disorder twelve sting onion crowd employ";

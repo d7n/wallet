@@ -1,1 +1,1 @@
-var mnemonic = "heavy dutch chalk right garbage stuff warrior situate salt cube spot shock";
+var mnemonic = "liberty veteran gloom recipe news sorry give correct inject dignity jelly hood";

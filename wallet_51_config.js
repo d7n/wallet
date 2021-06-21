@@ -1,1 +1,1 @@
-var mnemonic = "pluck race diesel marriage vocal teach poem axis raccoon veteran economy ride";
+var mnemonic = "sister damage zoo parent violin coral paddle autumn ecology item grain diesel";

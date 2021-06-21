@@ -1,1 +1,1 @@
-var mnemonic = "argue clip nurse card hill comfort peasant season dune feel sustain hand";
+var mnemonic = "shield canyon grape prevent more mercy vote lens brave fancy tortoise dress";

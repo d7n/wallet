@@ -1,1 +1,1 @@
-var mnemonic = "obvious setup tortoise cube swim remain rice bacon orphan phrase start couch";
+var mnemonic = "young during surge museum hospital acid brisk when inject arrange coyote click";

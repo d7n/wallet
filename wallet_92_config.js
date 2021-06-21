@@ -1,1 +1,1 @@
-var mnemonic = "van current jeans poverty wild grunt hero pave alien month feel hurdle";
+var mnemonic = "lesson cup frozen arrow bitter snap flash dirt track viable mercy wait";

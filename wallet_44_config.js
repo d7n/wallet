@@ -1,1 +1,1 @@
-var mnemonic = "bonus mirror device squirrel emotion trap evil shoulder bargain twin math spray";
+var mnemonic = "wage discover address gym escape diamond seven virus guard fall father certain";

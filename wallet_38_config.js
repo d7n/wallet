@@ -1,1 +1,1 @@
-var mnemonic = "evolve milk pizza address snack frozen write ritual mystery equal riot favorite";
+var mnemonic = "slab silly resist metal canyon sense trust happy trumpet enroll casual spot";

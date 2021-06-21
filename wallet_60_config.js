@@ -1,1 +1,1 @@
-var mnemonic = "clean expect repair pulse muscle crystal front drink illness rapid repair two";
+var mnemonic = "right shrimp fence alone child angry verify doll pumpkin tooth venture bone";

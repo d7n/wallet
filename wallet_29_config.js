@@ -1,1 +1,1 @@
-var mnemonic = "syrup logic prefer during agree couple service dutch maze void drive critic";
+var mnemonic = "music borrow damp nuclear boss then gown farm today illness forward race";

@@ -1,1 +1,1 @@
-var mnemonic = "lake cruel pulp review job sense typical illegal check position lab menu";
+var mnemonic = "recall knee fiscal hand detail shrug ship light only recipe noodle under";

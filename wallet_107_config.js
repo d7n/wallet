@@ -1,1 +1,1 @@
-var mnemonic = "pact second speak message ridge asset dune bench sister promote squeeze final";
+var mnemonic = "census modify million mercy couple blind jungle warfare track buffalo pottery alter";

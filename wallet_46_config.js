@@ -1,1 +1,1 @@
-var mnemonic = "prison again very close leave violin dinosaur inhale twenty horse human scale";
+var mnemonic = "gravity viable tunnel intact appear dirt toddler try hold allow excuse elegant";

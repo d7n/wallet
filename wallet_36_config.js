@@ -1,1 +1,1 @@
-var mnemonic = "purity kangaroo casino exit acid oxygen gesture fox slam sunny diet primary";
+var mnemonic = "stem gesture goose danger eight window ignore rich goose seed youth pyramid";

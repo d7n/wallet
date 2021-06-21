@@ -1,1 +1,1 @@
-var mnemonic = "bacon pass machine income wealth erase luxury calm journey clip picnic audit";
+var mnemonic = "ladder click process reunion clean ripple mammal grit away salute error nuclear";

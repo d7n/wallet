@@ -1,1 +1,1 @@
-var mnemonic = "arena bid latin reflect hurt ghost arch sphere parrot pen bonus run";
+var mnemonic = "wisdom remove table change answer fire stumble subject rich match swamp begin";

@@ -1,1 +1,1 @@
-var mnemonic = "credit practice spin infant acoustic vast pulse impulse canyon range often imitate";
+var mnemonic = "social coffee visual cigar sea happy know dial flush domain quantum chimney";

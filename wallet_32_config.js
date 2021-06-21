@@ -1,1 +1,1 @@
-var mnemonic = "gorilla brand either minor bright profit nephew bracket wood venue genius such";
+var mnemonic = "guilt winter pair grunt fan copper fall toilet slush forest solid humble";

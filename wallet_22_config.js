@@ -1,1 +1,1 @@
-var mnemonic = "library hurdle link earth robust inform beyond devote best oxygen govern merry";
+var mnemonic = "grass polar strong square balcony noble giraffe subway belt carbon biology october";

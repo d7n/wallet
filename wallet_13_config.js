@@ -1,1 +1,1 @@
-var mnemonic = "assume hire position sound cross spin crouch basic oxygen lemon artwork control";
+var mnemonic = "bachelor truck sun mad vocal bench tongue office oppose account course round";

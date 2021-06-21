@@ -1,1 +1,1 @@
-var mnemonic = "cancel purpose million this join position payment access beyond excess item special";
+var mnemonic = "feature rose upset spray buzz range language pattern ship border repair hammer";

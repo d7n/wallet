@@ -1,1 +1,1 @@
-var mnemonic = "exhibit critic wolf point elevator very doctor suspect scrap size pet summer";
+var mnemonic = "bullet junior omit snap allow ridge october pole piano fun surprise custom";

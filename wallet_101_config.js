@@ -1,1 +1,1 @@
-var mnemonic = "voice cloth omit sign ability wear insane cube ice woman skull start";
+var mnemonic = "tourist inherit habit marble top cash very empower hockey million cousin twice";

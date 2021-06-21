@@ -1,1 +1,1 @@
-var mnemonic = "retreat spare option now slush join various wait exotic bubble burger property";
+var mnemonic = "region blood engage toward peace actress deliver wrap piece rabbit gas leader";

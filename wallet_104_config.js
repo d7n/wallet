@@ -1,1 +1,1 @@
-var mnemonic = "myself labor infant scout depart insect tobacco frost argue offer thrive noise";
+var mnemonic = "rifle uncle razor spare tobacco party vague legal behave car impose coast";

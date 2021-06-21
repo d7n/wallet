@@ -1,1 +1,1 @@
-var mnemonic = "consider green burger fork knock alpha have trim young witness zoo asset";
+var mnemonic = "salute rookie faith exhaust visit escape pull forward trumpet wise verb tonight";

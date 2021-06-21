@@ -1,1 +1,1 @@
-var mnemonic = "drama betray ice farm squirrel chimney topic pitch veteran pink ivory cliff";
+var mnemonic = "smoke segment impulse number hammer accuse diagram basic talk outer swear arm";

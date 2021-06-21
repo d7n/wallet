@@ -1,1 +1,1 @@
-var mnemonic = "between decorate siren busy sorry powder where crush badge quit disagree dice";
+var mnemonic = "panic poet flame cart also pitch magnet gorilla guess forest believe celery";

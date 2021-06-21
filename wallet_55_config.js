@@ -1,1 +1,1 @@
-var mnemonic = "wish tattoo slot lobster bind solar life vintage jaguar ivory blast food";
+var mnemonic = "ugly arrest opinion ability cart myself fitness famous space luggage soldier village";

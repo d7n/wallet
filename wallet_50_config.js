@@ -1,1 +1,1 @@
-var mnemonic = "talent door erosion daring furnace credit day bottom stumble harsh drastic claim";
+var mnemonic = "half spider sleep nut ranch poem photo current priority rally bag rent";

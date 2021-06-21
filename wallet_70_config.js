@@ -1,1 +1,1 @@
-var mnemonic = "kitchen use wagon torch pride replace hen salmon festival super sausage remain";
+var mnemonic = "tumble elite search antique pair transfer nasty among guess drop thought theory";

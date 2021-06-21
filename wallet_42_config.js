@@ -1,1 +1,1 @@
-var mnemonic = "wrap giraffe tornado struggle scout narrow insect attend keen access leave process";
+var mnemonic = "process upper comic stick office doctor gadget heart twelve finger equal tooth";

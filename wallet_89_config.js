@@ -1,1 +1,1 @@
-var mnemonic = "hurdle bind mystery legend cream sphere code dish obey attend offer mom";
+var mnemonic = "enemy myth delay winter bag chief person behind air original rough jealous";

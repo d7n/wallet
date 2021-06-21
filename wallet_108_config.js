@@ -1,1 +1,1 @@
-var mnemonic = "reunion talent ceiling repeat shrug supreme humor push stable bamboo build draw";
+var mnemonic = "during word travel learn cloth canvas used divert deputy rude naive doctor";

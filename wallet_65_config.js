@@ -1,1 +1,1 @@
-var mnemonic = "morning elder civil heart segment deal fortune robust achieve process barely solution";
+var mnemonic = "spread mention bread sadness uncle faith link brisk clock fabric much online";

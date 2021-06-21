@@ -1,1 +1,1 @@
-var mnemonic = "inflict door shuffle fan vote tell brick wish utility fragile gospel flush";
+var mnemonic = "exact way flight blossom rule toast miss shove decrease angry mobile wheel";

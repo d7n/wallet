@@ -1,1 +1,1 @@
-var mnemonic = "across wealth boost female safe inch jungle protect approve chalk depart parent";
+var mnemonic = "mixture sun insect come error lab jealous empty faculty leave party door";

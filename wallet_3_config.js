@@ -1,1 +1,1 @@
-var mnemonic = "photo chair seminar snap monster mammal tonight tool spy candy power inch";
+var mnemonic = "daring father coach grant eyebrow wise shuffle balcony hen flower near lake";

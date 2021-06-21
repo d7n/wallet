@@ -1,1 +1,1 @@
-var mnemonic = "tide merge rally drip rebuild carbon swallow physical soft ecology glare heart";
+var mnemonic = "dust fee stamp theme comic order bike reopen wreck desk design kick";

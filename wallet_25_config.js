@@ -1,1 +1,1 @@
-var mnemonic = "cream beauty market apart prison dune forward bottom coyote track dilemma call";
+var mnemonic = "embark segment dad gorilla assault stage service patrol alone among comic apple";

@@ -1,1 +1,1 @@
-var mnemonic = "apart clap law marine uphold carpet room smile nature melt uncover wage";
+var mnemonic = "try moon siren old reunion winter already other crash gossip vendor multiply";

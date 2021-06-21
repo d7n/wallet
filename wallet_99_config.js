@@ -1,1 +1,1 @@
-var mnemonic = "potato flat rapid dice lab license grit pelican castle verb quarter derive";
+var mnemonic = "inner roof rival health erode mom record observe observe rug shallow ozone";

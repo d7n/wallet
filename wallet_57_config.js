@@ -1,1 +1,1 @@
-var mnemonic = "cart kick silk slide today satoshi tree carpet route never intact benefit";
+var mnemonic = "impact shop problem tower aspect planet fish weird adjust dish decline destroy";

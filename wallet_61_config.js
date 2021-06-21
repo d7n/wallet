@@ -1,1 +1,1 @@
-var mnemonic = "orphan saddle gesture essence color enforce crush middle mobile second tuna slow";
+var mnemonic = "immune reopen outer juice letter tribe hope glance dawn deputy spy drift";

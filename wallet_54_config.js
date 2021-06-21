@@ -1,1 +1,1 @@
-var mnemonic = "extra fame put minor smart fiction honey garden primary angle learn input";
+var mnemonic = "deer mother remember patch scene club style dial give attend stable oppose";

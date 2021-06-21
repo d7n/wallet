@@ -1,1 +1,1 @@
-var mnemonic = "pottery fringe away crunch elite mention fork cable axis remove empty place";
+var mnemonic = "goddess rule shove memory subway below this puzzle pride cram beach victory";

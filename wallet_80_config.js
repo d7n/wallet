@@ -1,1 +1,1 @@
-var mnemonic = "immense meat mention enforce expand snap misery noise love subject shoe blossom";
+var mnemonic = "judge slice embody easy follow pigeon offer crash goat section govern ladder";

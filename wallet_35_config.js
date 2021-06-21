@@ -1,1 +1,1 @@
-var mnemonic = "lobster glory elevator swap poem rigid uncover balcony prepare any brush eye";
+var mnemonic = "tide way offer cereal pizza stadium swift chuckle depth produce palace hour";

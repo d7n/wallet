@@ -1,1 +1,1 @@
-var mnemonic = "race dish nothing match face rail vibrant just urge blast exclude seek";
+var mnemonic = "must cage useful shine length knock mean shoe grief emotion budget result";

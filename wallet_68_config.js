@@ -1,1 +1,1 @@
-var mnemonic = "pretty artwork evidence source duty cigar puppy nothing enjoy pause order pig";
+var mnemonic = "orchard suspect rookie panic lyrics thumb inherit own old easily account mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar special casual ginger smooth claw property suggest toward cheese space gossip";
+var mnemonic = "bulk neutral ceiling recycle twice expose swear mobile credit lounge math input";

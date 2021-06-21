@@ -1,1 +1,1 @@
-var mnemonic = "item clown oyster slogan orchard already lumber title recycle melody female worry";
+var mnemonic = "color margin faith belt breeze ethics daughter suffer disagree rabbit same silk";

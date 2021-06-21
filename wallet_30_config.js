@@ -1,1 +1,1 @@
-var mnemonic = "food version fortune direct reform hint risk art woman enact unveil mom";
+var mnemonic = "cousin bomb onion shadow glue dumb chronic young prosper solve ankle diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "hobby second media away athlete glass size broom cram nuclear permit tent";
+var mnemonic = "sad enrich pool charge cotton uniform dad know chief inspire someone notice";

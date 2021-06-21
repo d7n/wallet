@@ -1,1 +1,1 @@
-var mnemonic = "stadium slide script call economy must exact essence fish tape margin place";
+var mnemonic = "agree slush drum horror poet prevent belt leader task unfair obscure man";

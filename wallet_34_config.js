@@ -1,1 +1,1 @@
-var mnemonic = "escape buzz animal evidence engine antenna embrace jump hobby income endless sting";
+var mnemonic = "club close song buyer surface ball danger swamp stove wire glass omit";

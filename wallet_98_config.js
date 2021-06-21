@@ -1,1 +1,1 @@
-var mnemonic = "control hill photo amazing dilemma copy orchard mercy match dumb bleak bulk";
+var mnemonic = "filter neutral repair drum mango lawsuit roof runway awkward address dress monitor";

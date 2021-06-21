@@ -1,1 +1,1 @@
-var mnemonic = "narrow orbit wage hundred ski major yard december estate ripple dinosaur ketchup";
+var mnemonic = "foam trumpet injury example edge all fun decline media lens dumb great";

@@ -1,1 +1,1 @@
-var mnemonic = "turn help soon name wealth select vendor lesson tuna shoot that entire";
+var mnemonic = "fetch keep amateur shrug bright picnic struggle upon alien diet month cheap";

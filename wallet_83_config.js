@@ -1,1 +1,1 @@
-var mnemonic = "guard lift bachelor armed gadget wreck foil guess tissue kick lucky dash";
+var mnemonic = "bleak liquid print present logic practice injury index primary curtain that direct";

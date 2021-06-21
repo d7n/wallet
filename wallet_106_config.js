@@ -1,1 +1,1 @@
-var mnemonic = "decline key because organ royal couple raven axis demand sniff forest recipe";
+var mnemonic = "bachelor combine six purchase scheme remember element option salon blossom faculty violin";

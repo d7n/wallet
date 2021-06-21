@@ -1,1 +1,1 @@
-var mnemonic = "sphere matter middle spy tattoo caution two melody champion era toss sheriff";
+var mnemonic = "cream sausage upgrade general forget educate weasel absurd session hockey impulse need";

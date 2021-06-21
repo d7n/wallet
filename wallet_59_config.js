@@ -1,1 +1,1 @@
-var mnemonic = "family resemble prosper dish cousin since office neither crystal twice mom ribbon";
+var mnemonic = "pear add rack short stove road march electric judge captain business cheap";

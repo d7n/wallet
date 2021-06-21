@@ -1,1 +1,1 @@
-var mnemonic = "floor all jump foot zone gold perfect door axis valve style glow";
+var mnemonic = "narrow tuna run debate exercise involve lawn health arch genre room letter";

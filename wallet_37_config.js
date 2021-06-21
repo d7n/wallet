@@ -1,1 +1,1 @@
-var mnemonic = "canoe matrix supreme movie yellow orient deliver accuse fly tobacco rain song";
+var mnemonic = "media autumn gift put decide leisure child visa enemy pudding captain spoil";

@@ -1,1 +1,1 @@
-var mnemonic = "reform spice swap crane match fame soon hybrid aware weapon shallow soft";
+var mnemonic = "hat spend party scissors matrix various trap robust profit minor pond year";

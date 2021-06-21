@@ -1,1 +1,1 @@
-var mnemonic = "car just monitor valley suspect holiday blind calm bicycle ball bulk ship";
+var mnemonic = "mutual thunder broom paper work soon announce document consider dune various tower";

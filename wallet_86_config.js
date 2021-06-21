@@ -1,1 +1,1 @@
-var mnemonic = "access easy lend sketch easy response angle bottom rocket tortoise exchange month";
+var mnemonic = "volume dismiss source purpose spell local kitten never also jewel develop clerk";

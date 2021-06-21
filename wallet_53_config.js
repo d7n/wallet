@@ -1,1 +1,1 @@
-var mnemonic = "off jealous ready learn garden toe october uncle lemon truck inspire column";
+var mnemonic = "parade motion throw mercy thought dilemma suggest wear eye hero suit catalog";

@@ -1,1 +1,1 @@
-var mnemonic = "when tree route east crazy crucial empty few push chronic artist item";
+var mnemonic = "quality mesh era digital genre buzz entry dune craft smart field confirm";

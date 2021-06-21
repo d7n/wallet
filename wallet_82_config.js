@@ -1,1 +1,1 @@
-var mnemonic = "ethics atom average hand peasant gauge mother clay grit claim escape patient";
+var mnemonic = "dog safe core pen foam pluck crime clever wasp click three useless";

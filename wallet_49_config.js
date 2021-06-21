@@ -1,1 +1,1 @@
-var mnemonic = "rally palm shallow hazard dismiss uniform reopen cloth skirt gauge mobile chapter";
+var mnemonic = "orbit skate member dinner achieve raven upper robust squeeze document coyote carpet";

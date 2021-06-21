@@ -1,1 +1,1 @@
-var mnemonic = "erupt mom try decorate misery swear keep guess shoulder disease know library";
+var mnemonic = "course rally alert install own green mango jazz barrel number agree machine";

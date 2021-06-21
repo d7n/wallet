@@ -1,1 +1,1 @@
-var mnemonic = "cross vintage photo explain assume entire rocket demand egg idle gaze tail";
+var mnemonic = "rhythm casino neck uncle approve virus flock grid indicate you possible tunnel";

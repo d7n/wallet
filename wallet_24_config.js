@@ -1,1 +1,1 @@
-var mnemonic = "essay among bacon woman cherry quick bar penalty siege private total panther";
+var mnemonic = "season sunny glance elite toward coconut pistol gadget mom marine direct fossil";

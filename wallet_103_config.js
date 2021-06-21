@@ -1,1 +1,1 @@
-var mnemonic = "exact swim ghost weather omit melt observe great identify noise increase horn";
+var mnemonic = "toe civil uncle teach notable pause honey cigar gate post bring ride";
