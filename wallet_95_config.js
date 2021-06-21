@@ -1,1 +1,1 @@
-var mnemonic = "question food sell age mystery wealth tiny hat rail pond man gallery";
+var mnemonic = "quick wood find wagon view pen loyal tray three marriage venture donate";

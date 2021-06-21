@@ -1,1 +1,1 @@
-var mnemonic = "option fee consider network veteran common problem chapter layer adjust slogan radio";
+var mnemonic = "repeat gain jelly retire tell cake dice mass nasty little check isolate";

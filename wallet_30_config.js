@@ -1,1 +1,1 @@
-var mnemonic = "enjoy horn deal flower other pizza chimney tone fetch sauce pledge smoke";
+var mnemonic = "canvas film milk another swamp gun diagram exhaust fish olympic logic kitchen";

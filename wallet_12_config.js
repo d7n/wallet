@@ -1,1 +1,1 @@
-var mnemonic = "ozone close tell canvas entire blame step patrol local immense pioneer problem";
+var mnemonic = "clock cannon oyster tag expand easily maid nasty paper kit empower lend";

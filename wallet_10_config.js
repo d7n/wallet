@@ -1,1 +1,1 @@
-var mnemonic = "pudding speed favorite rebel bright lab orange tunnel cause advance genre educate";
+var mnemonic = "green lyrics author north record crowd light symbol wink that machine vivid";

@@ -1,1 +1,1 @@
-var mnemonic = "blossom verify stamp side glimpse valley perfect before floor nerve erupt owner";
+var mnemonic = "own enter cost affair neither void ability mutual fan twice orient pistol";

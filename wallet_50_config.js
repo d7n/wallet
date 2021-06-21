@@ -1,1 +1,1 @@
-var mnemonic = "release quality minute exercise amount enlist evolve vicious supply possible horror dilemma";
+var mnemonic = "rebuild spot trade attitude melt bonus night about oblige uncle position waste";

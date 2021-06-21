@@ -1,1 +1,1 @@
-var mnemonic = "coffee slab chest shrimp toe index melody horse lounge song also pioneer";
+var mnemonic = "fitness equip orient fetch pluck phone supreme gate uncover lava donor goddess";

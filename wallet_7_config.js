@@ -1,1 +1,1 @@
-var mnemonic = "family sweet stool box tray invite virus east random reason pull input";
+var mnemonic = "bachelor minute valve panic casual capable smile friend cherry blanket patch hole";

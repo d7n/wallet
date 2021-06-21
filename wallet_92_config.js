@@ -1,1 +1,1 @@
-var mnemonic = "trust tragic fiber depth mesh enemy world tortoise funny badge material away";
+var mnemonic = "disagree suspect settle master friend ability fish cost delay mass decrease coach";

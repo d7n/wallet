@@ -1,1 +1,1 @@
-var mnemonic = "engine tiger distance coil case brown social together limb buzz ripple worry";
+var mnemonic = "virtual click universe together mule add trend diamond health defense air column";

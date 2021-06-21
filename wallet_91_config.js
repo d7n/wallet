@@ -1,1 +1,1 @@
-var mnemonic = "grass correct unaware dial economy unveil rookie dilemma armed december inmate sock";
+var mnemonic = "reject curtain eight poem law cup obvious over cable unhappy across harbor";

@@ -1,1 +1,1 @@
-var mnemonic = "judge young ecology scheme vacant kidney garlic tree potato pilot tiger lend";
+var mnemonic = "conduct extra useless nature draft little creek want company soccer girl coyote";

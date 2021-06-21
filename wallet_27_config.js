@@ -1,1 +1,1 @@
-var mnemonic = "usual point rug yard puppy umbrella energy gold wire render borrow album";
+var mnemonic = "trend erosion inside reduce wire bar nephew awesome maze lend juice fox";

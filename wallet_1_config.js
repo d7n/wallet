@@ -1,1 +1,1 @@
-var mnemonic = "alpha humble sunset undo size input caution height initial glance talk lend";
+var mnemonic = "fine slim minor chat crater spider ten hurry taxi remember trap swamp";

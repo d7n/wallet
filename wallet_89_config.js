@@ -1,1 +1,1 @@
-var mnemonic = "eight industry drive muscle lens patient pluck wreck celery pilot best boat";
+var mnemonic = "have dinosaur glad despair model phone combine charge crucial initial orchard poverty";

@@ -1,1 +1,1 @@
-var mnemonic = "hotel merry autumn dentist taste arch tent garage act tobacco ticket pole";
+var mnemonic = "song fuel mule drastic city salad oil satisfy lobster focus face harsh";

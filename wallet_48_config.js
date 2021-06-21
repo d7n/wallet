@@ -1,1 +1,1 @@
-var mnemonic = "design shoe six income stone bachelor scan already mule produce cool brief";
+var mnemonic = "pigeon damage lend give banana wheel subway lounge exact share aisle ask";

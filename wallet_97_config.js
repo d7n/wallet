@@ -1,1 +1,1 @@
-var mnemonic = "book search hurdle funny where hungry chunk icon cash tortoise night amused";
+var mnemonic = "path athlete retreat nice ask goddess shop limb improve record joy cake";

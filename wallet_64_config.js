@@ -1,1 +1,1 @@
-var mnemonic = "whip hip camera empty giant denial unlock cinnamon usage bunker forget six";
+var mnemonic = "meat return soda reason quit lion flush arrive dry pigeon sponsor quantum";

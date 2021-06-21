@@ -1,1 +1,1 @@
-var mnemonic = "year save castle blossom curious order grape orchard eyebrow lady kitchen fragile";
+var mnemonic = "fiber balcony jeans soldier hobby ginger spray math blouse blast embody height";

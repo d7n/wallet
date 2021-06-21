@@ -1,1 +1,1 @@
-var mnemonic = "kingdom snack trash engage small emerge city between half cradle motion sign";
+var mnemonic = "scissors outdoor budget still lyrics all grace output exclude draw arctic later";

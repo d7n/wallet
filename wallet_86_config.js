@@ -1,1 +1,1 @@
-var mnemonic = "absurd frame chef uniform true credit nasty away horror sleep omit blossom";
+var mnemonic = "cry saddle safe oak year plate replace domain exchange ice arrange orange";

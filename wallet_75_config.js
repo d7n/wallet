@@ -1,1 +1,1 @@
-var mnemonic = "found talent only educate round test lab notice once tourist whisper gloom";
+var mnemonic = "improve grass surprise panda impact rare sibling hundred ritual work fuel net";

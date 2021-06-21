@@ -1,1 +1,1 @@
-var mnemonic = "help reveal shaft nothing island bleak smart gate talk fix degree where";
+var mnemonic = "route improve have direct vote decorate seed bargain upon hen street paddle";

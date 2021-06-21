@@ -1,1 +1,1 @@
-var mnemonic = "gesture start snack focus napkin antenna nuclear crisp junior juice ranch poem";
+var mnemonic = "conduct exercise rare identify cake staff behave motor alarm demise company equip";

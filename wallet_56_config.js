@@ -1,1 +1,1 @@
-var mnemonic = "satoshi exist puzzle silver stock obtain immune someone valve mouse alter hello";
+var mnemonic = "hazard true lazy spatial raise raven educate brain salmon frog bachelor topple";

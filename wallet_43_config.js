@@ -1,1 +1,1 @@
-var mnemonic = "embrace waste worth all evidence lift guard hungry surge cable sting soccer";
+var mnemonic = "nasty suit news prison orchard negative size silly fuel friend about fog";

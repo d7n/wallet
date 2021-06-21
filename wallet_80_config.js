@@ -1,1 +1,1 @@
-var mnemonic = "letter worth already tackle gesture hold tomato thunder valve monster solar attract";
+var mnemonic = "secret mixture peasant couch replace indicate legend govern noise common borrow wide";

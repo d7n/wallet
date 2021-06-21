@@ -1,1 +1,1 @@
-var mnemonic = "pretty shoulder supply zebra rabbit riot salute only clarify connect notable opinion";
+var mnemonic = "month foster devote physical liberty grain year salt sample mix when shoulder";

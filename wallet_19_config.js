@@ -1,1 +1,1 @@
-var mnemonic = "add claim exit large enable moral apart insect never flower today two";
+var mnemonic = "digital gauge outdoor time mother drama evoke rabbit smooth sort guess junk";

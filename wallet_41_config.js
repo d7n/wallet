@@ -1,1 +1,1 @@
-var mnemonic = "fiber rival alien nerve funny swift file million group mule chimney spring";
+var mnemonic = "guess mirror betray color zoo kite absent avoid use speed three later";

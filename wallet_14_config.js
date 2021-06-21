@@ -1,1 +1,1 @@
-var mnemonic = "thunder blossom oil frozen spatial steak cart cricket lizard virtual total siege";
+var mnemonic = "vivid enhance accident popular blood tourist vague wisdom fossil van ritual world";

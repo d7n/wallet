@@ -1,1 +1,1 @@
-var mnemonic = "hello library twenty knife whale laptop certain uphold digital clip fiscal script";
+var mnemonic = "slam hazard cost damp mandate remove federal lobster dance aisle announce model";

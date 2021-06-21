@@ -1,1 +1,1 @@
-var mnemonic = "black service board labor fury ginger ahead example face maple mention drill";
+var mnemonic = "trophy rally reunion model tilt unusual setup sheriff stamp method truck hockey";

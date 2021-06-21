@@ -1,1 +1,1 @@
-var mnemonic = "napkin country crane crouch emerge wish chalk tonight spread track mobile guide";
+var mnemonic = "drink remind episode pigeon ripple spin wish chaos flock issue garage view";

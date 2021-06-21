@@ -1,1 +1,1 @@
-var mnemonic = "turn budget wrist jar water degree million one latin middle resource rally";
+var mnemonic = "trumpet behave wood property approve naive salt define tower duck enable fortune";

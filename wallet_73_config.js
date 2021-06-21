@@ -1,1 +1,1 @@
-var mnemonic = "rice useless extend mean fringe wet myself couple diamond expire fever radar";
+var mnemonic = "close practice lawn conduct twelve distance evil tourist skirt step habit snap";

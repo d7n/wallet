@@ -1,1 +1,1 @@
-var mnemonic = "dolphin figure casino power bean tongue leg easily hero axis syrup curve";
+var mnemonic = "ready spike warfare idea since just make hundred equal stereo net truck";

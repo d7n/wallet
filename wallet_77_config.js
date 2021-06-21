@@ -1,1 +1,1 @@
-var mnemonic = "glass end image wet upper praise way vanish kidney dice gun small";
+var mnemonic = "search embrace rate review blame nuclear engine damage artwork typical prefer tenant";

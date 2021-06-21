@@ -1,1 +1,1 @@
-var mnemonic = "visit daughter marine scrap elevator solar deposit rigid tag sunset wire stumble";
+var mnemonic = "social crew clog slight lesson average between essence course lottery theme bulb";

@@ -1,1 +1,1 @@
-var mnemonic = "horn they kiss enforce nuclear tackle shoe usage spend foam someone room";
+var mnemonic = "alley swear elder achieve display mouse life quiz endorse sponsor museum time";

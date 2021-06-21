@@ -1,1 +1,1 @@
-var mnemonic = "ginger anchor van kitten north pelican kick moon play motor notable trend";
+var mnemonic = "prison voice there series original essence salute wrap upset noble scorpion august";

@@ -1,1 +1,1 @@
-var mnemonic = "other extend pride portion scrub item enjoy image east owner result guess";
+var mnemonic = "small farm document usual armed alter middle brand insane staff either furnace";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade candy excuse couch obscure access fault spatial rare expose random shove";
+var mnemonic = "hurry cart marble illegal soup congress around silly head current sustain wrist";

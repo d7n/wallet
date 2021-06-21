@@ -1,1 +1,1 @@
-var mnemonic = "false talent lion expose snap goddess wall now vote broom whale build";
+var mnemonic = "net machine sketch laugh caution faith cliff rule harbor much jaguar basic";

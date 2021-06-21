@@ -1,1 +1,1 @@
-var mnemonic = "educate concert transfer climb image cloth wait tell pool nerve remain biology";
+var mnemonic = "horn eyebrow cream violin brief smart poet minimum lobster gorilla stuff photo";

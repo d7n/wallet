@@ -1,1 +1,1 @@
-var mnemonic = "limb fault rotate plunge search side process movie pact spare match orchard";
+var mnemonic = "easy involve swamp rural youth whisper movie apology energy grass trial eight";

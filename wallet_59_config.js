@@ -1,1 +1,1 @@
-var mnemonic = "hidden direct glimpse brother planet upper lyrics profit defy clock off elegant";
+var mnemonic = "vast dinosaur grit salt act plastic stable also void model salon pilot";

@@ -1,1 +1,1 @@
-var mnemonic = "undo wash canoe home funny random lucky coin thank next legal enlist";
+var mnemonic = "nasty add dentist perfect already innocent rely mad liberty force icon innocent";

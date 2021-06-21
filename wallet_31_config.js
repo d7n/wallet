@@ -1,1 +1,1 @@
-var mnemonic = "half lend bachelor entire grape large flavor fresh welcome balance disease topic";
+var mnemonic = "boil betray topple envelope recipe length cup position offer audit seat embody";

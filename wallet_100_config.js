@@ -1,1 +1,1 @@
-var mnemonic = "blue dolphin art melt fox art meadow cupboard keen sunny napkin depend";
+var mnemonic = "cargo sand manual truth hand zoo flee turkey mean version language spell";

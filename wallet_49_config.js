@@ -1,1 +1,1 @@
-var mnemonic = "select lucky salt universe adjust shrimp model fiber admit charge cannon trial";
+var mnemonic = "govern bless aisle apple tenant connect way tortoise robot announce dress car";

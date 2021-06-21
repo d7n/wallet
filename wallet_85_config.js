@@ -1,1 +1,1 @@
-var mnemonic = "lemon excuse fabric online unfair fossil crowd confirm jar know offer magic";
+var mnemonic = "recycle disagree rule asset exit armor target hollow pond correct limit shoe";

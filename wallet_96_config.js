@@ -1,1 +1,1 @@
-var mnemonic = "eye whale under only zebra trade permit year success arctic sorry paddle";
+var mnemonic = "elevator album long swim chat trap unfold token debate bar eternal detail";

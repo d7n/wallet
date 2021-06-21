@@ -1,1 +1,1 @@
-var mnemonic = "ozone glow book destroy movie faith diary quantum fabric bring nasty element";
+var mnemonic = "chat celery pink ice general scan struggle obtain relax inmate symptom nothing";

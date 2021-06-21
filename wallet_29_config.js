@@ -1,1 +1,1 @@
-var mnemonic = "side music music soul scout flock wisdom fashion staff route shallow melt";
+var mnemonic = "list mandate lock coffee hair drop scout crunch attitude bag omit elite";

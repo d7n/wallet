@@ -1,1 +1,1 @@
-var mnemonic = "rocket relax warrior bind yard demand find size example indoor camera essay";
+var mnemonic = "verb noble spawn acid general another shoe supply other tape certain border";

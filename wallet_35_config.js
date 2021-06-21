@@ -1,1 +1,1 @@
-var mnemonic = "horror view believe reform rubber trash economy laptop fault unusual dirt furnace";
+var mnemonic = "chunk vital gloom question rate promote best material lamp blind faint narrow";

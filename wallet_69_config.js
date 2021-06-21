@@ -1,1 +1,1 @@
-var mnemonic = "umbrella pepper puzzle month giggle alley kitchen liberty wrong wild sadness uniform";
+var mnemonic = "drum awesome side change wagon nuclear stadium actor main phrase this pipe";

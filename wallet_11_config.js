@@ -1,1 +1,1 @@
-var mnemonic = "fashion ahead move ask filter mad guard license captain turn guard rubber";
+var mnemonic = "mountain leisure purchase child input random canyon body know wheat tag clock";

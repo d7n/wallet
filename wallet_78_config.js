@@ -1,1 +1,1 @@
-var mnemonic = "ensure side champion day spike vast torch merry enlist siren want crucial";
+var mnemonic = "gift remain anxiety arena congress note only truly joke loyal box panel";

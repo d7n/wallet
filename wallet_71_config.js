@@ -1,1 +1,1 @@
-var mnemonic = "shop laugh expose mushroom shell fee script fruit local about gadget wrong";
+var mnemonic = "network crew skull cloud someone result jar hazard minimum type region top";

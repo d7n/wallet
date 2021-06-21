@@ -1,1 +1,1 @@
-var mnemonic = "excite ginger together inhale describe priority panther emerge impose system stand name";
+var mnemonic = "taste judge surge symptom rotate certain tumble acquire peasant soon roast trash";

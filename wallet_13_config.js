@@ -1,1 +1,1 @@
-var mnemonic = "scissors great energy gap flat peasant depart nice category prize decline total";
+var mnemonic = "wear auction demand collect farm bless frequent cannon couch mail uncle sand";

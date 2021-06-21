@@ -1,1 +1,1 @@
-var mnemonic = "giggle six blouse retire ticket piano someone donkey radio pull salad magnet";
+var mnemonic = "scheme can nothing acid balcony park chat replace during holiday poet merry";

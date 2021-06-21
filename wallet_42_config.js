@@ -1,1 +1,1 @@
-var mnemonic = "member junior glide wool scout place limit throw auction melody vocal album";
+var mnemonic = "all blossom category choose supply dance grass clarify slot crucial globe excess";

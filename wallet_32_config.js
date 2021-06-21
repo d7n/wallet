@@ -1,1 +1,1 @@
-var mnemonic = "upgrade faint used solve table tonight wine girl torch width debris sea";
+var mnemonic = "inside choice float assume clarify surround person season thunder visit during disagree";

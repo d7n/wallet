@@ -1,1 +1,1 @@
-var mnemonic = "opinion sting recipe deliver garlic survey sun click come spider vanish wife";
+var mnemonic = "village cat swarm advance glass river ship pole boil beauty that unusual";

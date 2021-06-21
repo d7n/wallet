@@ -1,1 +1,1 @@
-var mnemonic = "tribe annual film affair combine budget stock mystery ghost purchase alarm differ";
+var mnemonic = "ecology tuna pet stage blame wine vote will disagree omit loan company";

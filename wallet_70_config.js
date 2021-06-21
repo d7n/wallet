@@ -1,1 +1,1 @@
-var mnemonic = "sample unusual glory naive dress gaze rural rough machine frequent cool elder";
+var mnemonic = "crowd fire announce cotton walnut correct stereo glue river wrong simple mango";

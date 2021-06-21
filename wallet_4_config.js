@@ -1,1 +1,1 @@
-var mnemonic = "muscle chuckle inmate final chief ticket wire eagle south point rebuild search";
+var mnemonic = "laugh damage ramp transfer empty obtain east service grape hen upon spell";

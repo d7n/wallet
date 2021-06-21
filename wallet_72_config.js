@@ -1,1 +1,1 @@
-var mnemonic = "boat depart benefit tissue jeans table okay enrich custom source weekend catalog";
+var mnemonic = "soup section wolf lunch there pelican index traffic subway junior screen moment";

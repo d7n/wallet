@@ -1,1 +1,1 @@
-var mnemonic = "extra walnut oven merit depart cradle gas polar bone stomach volcano combine";
+var mnemonic = "toss exchange piano box vanish knife bullet pretty bag rabbit convince uncle";

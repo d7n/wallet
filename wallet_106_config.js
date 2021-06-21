@@ -1,1 +1,1 @@
-var mnemonic = "require spend crime sell switch opera force wheel sniff cradle fit web";
+var mnemonic = "total together arm crane pact term coconut wool donor weather kid feed";

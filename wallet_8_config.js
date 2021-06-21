@@ -1,1 +1,1 @@
-var mnemonic = "narrow blood someone diary project subway cute giraffe insect melody belt coin";
+var mnemonic = "enhance sting toe film fatal obtain hen bachelor buffalo train hybrid verb";

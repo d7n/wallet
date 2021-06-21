@@ -1,1 +1,1 @@
-var mnemonic = "chef announce visa soul game bird pink festival spray flat desk decline";
+var mnemonic = "warm ready slab neck labor jacket deny churn type wine cargo hello";

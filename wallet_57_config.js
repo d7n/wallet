@@ -1,1 +1,1 @@
-var mnemonic = "improve glue coast spin alpha upgrade hood engage ladder they corn faculty";
+var mnemonic = "habit jealous shadow ordinary obvious industry fish notice you earth fat flight";

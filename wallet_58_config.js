@@ -1,1 +1,1 @@
-var mnemonic = "acoustic swarm creek idea this bitter window yellow harsh vast trick concert";
+var mnemonic = "tag voyage rain capable captain lonely rather armor scout chaos rent leisure";

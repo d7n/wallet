@@ -1,1 +1,1 @@
-var mnemonic = "tornado hill upper cluster method rain draft creek catch unfair increase lyrics";
+var mnemonic = "behave girl ship people wish royal peace beyond retire reopen bring category";

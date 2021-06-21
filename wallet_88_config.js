@@ -1,1 +1,1 @@
-var mnemonic = "airport narrow piece main arrange donor engine record fancy practice tomato device";
+var mnemonic = "file reflect culture drift stairs special fun smoke involve mercy leaf rude";

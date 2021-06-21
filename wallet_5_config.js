@@ -1,1 +1,1 @@
-var mnemonic = "decline buffalo awkward denial wash vault peanut gorilla end limb alone collect";
+var mnemonic = "install parent negative good magnet thumb exact fame upper broom proof multiply";

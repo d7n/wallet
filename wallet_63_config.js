@@ -1,1 +1,1 @@
-var mnemonic = "dust round upper media dose assist explain trust breeze arrow cereal foot";
+var mnemonic = "rain february enable busy pair dismiss unaware host bid notice system mammal";

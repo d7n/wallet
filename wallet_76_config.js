@@ -1,1 +1,1 @@
-var mnemonic = "pelican height ugly eyebrow index capital film human nerve own evoke elegant";
+var mnemonic = "lawn cave conduct weird work wreck limit safe smoke athlete wheel coin";

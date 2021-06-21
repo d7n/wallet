@@ -1,1 +1,1 @@
-var mnemonic = "eye enforce audit dolphin various spawn extend blind camera crane riot heavy";
+var mnemonic = "grocery wait afford crack scale annual silk gap sick mix mask list";

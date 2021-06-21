@@ -1,1 +1,1 @@
-var mnemonic = "width resist library orbit thumb federal toward true outdoor social month truck";
+var mnemonic = "room stay normal decade blush buddy neglect before pudding balance diagram since";

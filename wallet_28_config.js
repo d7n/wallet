@@ -1,1 +1,1 @@
-var mnemonic = "suit public update garment glove merge dance rubber offer dynamic welcome milk";
+var mnemonic = "enable circle elephant shy umbrella grass hope split depart candy gossip rail";

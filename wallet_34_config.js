@@ -1,1 +1,1 @@
-var mnemonic = "ignore crystal oven gain poverty enrich list scan kiss spare above final";
+var mnemonic = "raw board deal sibling express pet valve name next liquid behind check";

@@ -1,1 +1,1 @@
-var mnemonic = "diet trash unveil candy civil scan sort joke hospital canal cream powder";
+var mnemonic = "sphere argue library proud van thumb lock typical fit decade south useful";

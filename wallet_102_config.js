@@ -1,1 +1,1 @@
-var mnemonic = "salon adult result area rather bench frozen seat zero focus melody pink";
+var mnemonic = "rapid borrow arrow dog talent lonely achieve faculty match globe submit clog";

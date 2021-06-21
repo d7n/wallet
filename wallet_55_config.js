@@ -1,1 +1,1 @@
-var mnemonic = "rose present jaguar eye nose laundry luggage sauce history entry like wide";
+var mnemonic = "minor tooth music stamp robust caught case giraffe faith rebuild radar cream";

@@ -1,1 +1,1 @@
-var mnemonic = "rich phrase fuel segment connect seminar simple ask alien occur afraid guitar";
+var mnemonic = "pill achieve shadow final flush reunion mail coin acoustic execute vicious real";
