@@ -1,1 +1,1 @@
-var mnemonic = "daughter stumble pistol omit world almost small forest gaze parade radio eternal";
+var mnemonic = "slender notice morning exist pluck script shell senior cliff craft fiscal transfer";

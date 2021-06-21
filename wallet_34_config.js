@@ -1,1 +1,1 @@
-var mnemonic = "toilet shop blossom version element attack suspect banana they theme venue various";
+var mnemonic = "what repair blanket vehicle street priority control cart soda lunar observe correct";

@@ -1,1 +1,1 @@
-var mnemonic = "season sauce truck simple album vibrant panda okay disease devote enroll small";
+var mnemonic = "wing skull turtle song glance burden hint mask blame card female depart";

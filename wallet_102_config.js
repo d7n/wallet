@@ -1,1 +1,1 @@
-var mnemonic = "tail can level bind enlist seven giggle monkey message student sick slogan";
+var mnemonic = "pencil owner burger reopen suggest love topple core pyramid scale radar pink";

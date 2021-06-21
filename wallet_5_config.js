@@ -1,1 +1,1 @@
-var mnemonic = "lamp action cable pen holiday garlic crater error rack ahead dilemma wild";
+var mnemonic = "glare metal coffee pet ship fault delay great upgrade later wait help";

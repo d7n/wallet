@@ -1,1 +1,1 @@
-var mnemonic = "heart inject pyramid move reform crumble scan trend copper mandate hour parent";
+var mnemonic = "business between enable half call fire abuse sight place example mansion cabin";

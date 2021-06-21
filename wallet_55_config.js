@@ -1,1 +1,1 @@
-var mnemonic = "bag matter win summer toss improve whale fly tooth pluck hire inner";
+var mnemonic = "twist piece manual disease emotion aspect cheap object width soul chronic promote";

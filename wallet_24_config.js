@@ -1,1 +1,1 @@
-var mnemonic = "weather blouse play viable butter couch ball squirrel bag believe caution pole";
+var mnemonic = "ivory toilet core ritual cushion orphan demise side banner doctor orbit spatial";

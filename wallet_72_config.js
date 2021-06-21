@@ -1,1 +1,1 @@
-var mnemonic = "group excess power indoor insane sleep neck post amazing ability below fetch";
+var mnemonic = "october orange drum race helmet kit plunge later weather sing duck dish";

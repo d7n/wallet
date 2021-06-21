@@ -1,1 +1,1 @@
-var mnemonic = "blade monkey seminar math attend talk family coin index picnic novel found";
+var mnemonic = "slab organ group impact lottery sausage change camera city amateur correct drastic";

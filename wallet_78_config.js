@@ -1,1 +1,1 @@
-var mnemonic = "blanket almost corn garden certain thing ecology arrange include home father sell";
+var mnemonic = "solid question adapt guitar pride accident fox glass card swift syrup warrior";

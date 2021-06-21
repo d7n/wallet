@@ -1,1 +1,1 @@
-var mnemonic = "crash size exhibit square pupil prosper silly front install desert negative jar";
+var mnemonic = "correct holiday boy update fault admit organ critic token corn devote law";

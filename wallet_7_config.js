@@ -1,1 +1,1 @@
-var mnemonic = "tiger embrace portion credit wolf math invest tray mutual fluid harbor own";
+var mnemonic = "license wine green since feel yellow swift crunch tooth spell tribe alter";

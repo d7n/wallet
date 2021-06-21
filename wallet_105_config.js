@@ -1,1 +1,1 @@
-var mnemonic = "oxygen cover make bird humble bid airport maid ship deliver sadness inject";
+var mnemonic = "lamp afraid join recipe canal jelly enhance wrong frequent need feature sock";

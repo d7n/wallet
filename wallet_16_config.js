@@ -1,1 +1,1 @@
-var mnemonic = "ribbon segment allow dad upgrade edge caution boy silent interest merry bacon";
+var mnemonic = "traffic hip donate slush theme clinic equal discover congress test rifle prepare";

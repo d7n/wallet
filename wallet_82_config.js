@@ -1,1 +1,1 @@
-var mnemonic = "ankle cheap spy bag nose fringe design iron benefit travel cost liberty";
+var mnemonic = "burden board valid hollow draft spike skill hollow clean large fault camp";

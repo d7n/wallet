@@ -1,1 +1,1 @@
-var mnemonic = "tunnel car notable custom immune hammer rubber electric gap okay fault defy";
+var mnemonic = "gift never crop butter duck sunset suspect zone length decline harvest debate";

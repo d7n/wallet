@@ -1,1 +1,1 @@
-var mnemonic = "what faculty tank trumpet desert obtain define advice slam reward regret entire";
+var mnemonic = "convince silver elbow deposit title diesel festival modify creek lion slight cluster";

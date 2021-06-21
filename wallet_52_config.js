@@ -1,1 +1,1 @@
-var mnemonic = "roof chuckle mechanic danger old squeeze coil elegant time truck figure liquid";
+var mnemonic = "utility control submit ankle polar course cushion rapid middle bronze truly taxi";

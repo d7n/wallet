@@ -1,1 +1,1 @@
-var mnemonic = "imitate crucial wild drip price slogan mountain report admit color message address";
+var mnemonic = "hero repeat kidney despair amazing capital jungle dress balance stock gate diary";

@@ -1,1 +1,1 @@
-var mnemonic = "distance pigeon key mom obtain bean duck rubber isolate champion host adapt";
+var mnemonic = "gossip grass lab toward result minor bounce hour urge seek jelly blouse";

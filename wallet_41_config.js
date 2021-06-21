@@ -1,1 +1,1 @@
-var mnemonic = "force average more file parade club mercy accuse twin great slam blue";
+var mnemonic = "media stock mass night enforce warm pause catalog grab crop wedding accuse";

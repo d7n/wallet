@@ -1,1 +1,1 @@
-var mnemonic = "magnet park come shuffle leave dolphin click dice ignore enjoy outer fatal";
+var mnemonic = "across orange annual winner fabric asthma mix gas side item warfare eight";

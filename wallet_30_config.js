@@ -1,1 +1,1 @@
-var mnemonic = "during essay student work shine push dash garlic feature liquid save seven";
+var mnemonic = "breeze capable grass there warfare tunnel fox mechanic together mention park evoke";

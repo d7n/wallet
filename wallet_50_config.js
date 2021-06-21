@@ -1,1 +1,1 @@
-var mnemonic = "suggest scrub midnight vibrant length dose soda melt inherit shallow arrest provide";
+var mnemonic = "energy fantasy stage produce army company boss deer agree urban armed goat";

@@ -1,1 +1,1 @@
-var mnemonic = "park feature benefit party length bean tag wire gift wet volume logic";
+var mnemonic = "bring annual dizzy pretty lucky gesture marriage scare rack exact enact carry";

@@ -1,1 +1,1 @@
-var mnemonic = "adult sad hub joy eager sail merry ask stage door people spawn";
+var mnemonic = "draft cook obtain baby cancel custom garden correct together submit party sea";

@@ -1,1 +1,1 @@
-var mnemonic = "outer section attack treat supply fancy camp identify process say robust ranch";
+var mnemonic = "juice account alarm scout topple manage ecology plunge pumpkin destroy have wine";

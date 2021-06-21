@@ -1,1 +1,1 @@
-var mnemonic = "skull toward anchor heavy zero rug actor among snow beauty hotel word";
+var mnemonic = "laugh gadget pause robot tired civil much modify buzz empty enhance cement";

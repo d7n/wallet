@@ -1,1 +1,1 @@
-var mnemonic = "churn stay resemble receive camp face plate near donor buffalo kitchen quality";
+var mnemonic = "humor vicious wage shield gadget pottery urge mosquito festival elder heavy runway";

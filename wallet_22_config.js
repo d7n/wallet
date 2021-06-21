@@ -1,1 +1,1 @@
-var mnemonic = "clap tiger syrup brain club panther sick guard ramp photo regular scare";
+var mnemonic = "copper run indicate spirit enact joy notable game solution dynamic wasp flavor";

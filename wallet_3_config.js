@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon slim ride spice october book border harsh rude cliff snow excess";
+var mnemonic = "trade column focus pill eight match breeze pet portion diamond enrich lonely";

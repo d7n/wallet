@@ -1,1 +1,1 @@
-var mnemonic = "much ancient scale inherit tuition orange vicious science cinnamon virus hobby valid";
+var mnemonic = "target weather sort multiply warfare man inch kiss ritual beauty youth ivory";

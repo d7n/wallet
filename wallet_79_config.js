@@ -1,1 +1,1 @@
-var mnemonic = "blame rotate trouble erase exchange nothing sad unfold super kind pencil nation";
+var mnemonic = "pudding punch height size shuffle menu twist brisk weasel few armed bonus";

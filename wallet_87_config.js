@@ -1,1 +1,1 @@
-var mnemonic = "split drastic chase gap valid clip change object clip blue payment wish";
+var mnemonic = "object festival doctor cake tooth shaft drum deposit hungry awkward borrow antenna";

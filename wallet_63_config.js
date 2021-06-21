@@ -1,1 +1,1 @@
-var mnemonic = "summer keep banner basic where wink expose middle nose abuse thing hobby";
+var mnemonic = "bind ceiling wink energy pigeon hungry curtain dog village jealous kite caution";

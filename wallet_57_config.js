@@ -1,1 +1,1 @@
-var mnemonic = "slow forum moon garage that fury winner thumb tattoo scare shrimp system";
+var mnemonic = "normal joy ugly board payment angry lava silent scan alcohol empty joy";

@@ -1,1 +1,1 @@
-var mnemonic = "series forum arrest ketchup sketch mean daring large upon gossip unusual put";
+var mnemonic = "seven matrix satisfy siege run veteran shrug top tortoise direct actor misery";

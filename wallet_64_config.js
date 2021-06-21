@@ -1,1 +1,1 @@
-var mnemonic = "mass similar live always level puzzle hole reduce useful attract check walnut";
+var mnemonic = "easy grow decade account bargain skill excite vanish broken trust flavor broken";

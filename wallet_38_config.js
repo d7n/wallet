@@ -1,1 +1,1 @@
-var mnemonic = "deliver strike essence core network tired hockey reason live space word trumpet";
+var mnemonic = "sick rebel inside carry motion visa ill flock betray master news split";

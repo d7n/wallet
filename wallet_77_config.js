@@ -1,1 +1,1 @@
-var mnemonic = "penalty army attract bleak brother salute rain absurd vehicle furnace guilt frozen";
+var mnemonic = "glance solve shoulder win sponsor glass life cluster tribe helmet early owner";

@@ -1,1 +1,1 @@
-var mnemonic = "current uncle gap cargo wash tenant fan luxury offer absorb mimic mule";
+var mnemonic = "state entry employ sword pepper rose must ring health other present deny";

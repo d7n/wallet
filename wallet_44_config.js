@@ -1,1 +1,1 @@
-var mnemonic = "gun settle wine acid birth anger unfold junk depend industry smooth average";
+var mnemonic = "promote prefer virtual number debris elbow produce extend side swift cable force";

@@ -1,1 +1,1 @@
-var mnemonic = "prosper machine jazz excite exercise ketchup furnace please curve high pistol truth";
+var mnemonic = "flag recipe sphere venue grief large glance shoe accuse ship cook seminar";

@@ -1,1 +1,1 @@
-var mnemonic = "mind swift light retreat benefit oven reduce custom crane casino task kite";
+var mnemonic = "ancient install scan silver supply soft burden wheel blast between dad fruit";

@@ -1,1 +1,1 @@
-var mnemonic = "finger clerk potato disorder badge injury blossom forum vacant culture melt chase";
+var mnemonic = "just galaxy chicken omit forward clock divert endorse screen casino update first";

@@ -1,1 +1,1 @@
-var mnemonic = "enjoy road october lab fee crystal around family limit obscure sample saddle";
+var mnemonic = "else absurd leaf kite basic submit abandon impulse vanish weekend fiber visit";

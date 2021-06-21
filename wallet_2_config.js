@@ -1,1 +1,1 @@
-var mnemonic = "piece clog flag heavy item foam erosion decide baby vibrant sweet candy";
+var mnemonic = "indicate employ little ready elite sorry daring giraffe universe survey major calm";

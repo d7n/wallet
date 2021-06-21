@@ -1,1 +1,1 @@
-var mnemonic = "negative lion number card valley enough enjoy wool satisfy program network nerve";
+var mnemonic = "estate credit auction chronic smooth flush tongue swap energy craft practice solar";

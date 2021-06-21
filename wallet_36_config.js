@@ -1,1 +1,1 @@
-var mnemonic = "master few planet predict mention off crater copper gown tomato phrase medal";
+var mnemonic = "picnic extra hold learn level enter suffer culture bid model clinic long";

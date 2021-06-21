@@ -1,1 +1,1 @@
-var mnemonic = "onion patch home logic pool common clock sketch sample regret atom diet";
+var mnemonic = "arctic spring jewel home motor gain open frost spell insect certain pen";

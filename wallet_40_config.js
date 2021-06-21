@@ -1,1 +1,1 @@
-var mnemonic = "inspire cross cry chase pink silk giant ostrich vibrant unknown uniform bar";
+var mnemonic = "garage own put session vapor cushion explain jar decorate swear lawsuit also";

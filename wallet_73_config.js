@@ -1,1 +1,1 @@
-var mnemonic = "primary slot enlist business mistake monster champion athlete fancy gap hotel force";
+var mnemonic = "female embrace arch method fit axis parade avocado embark gate arch physical";

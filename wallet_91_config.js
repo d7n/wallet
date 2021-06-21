@@ -1,1 +1,1 @@
-var mnemonic = "lift parade carpet skull cloth congress race good toddler bus tornado humor";
+var mnemonic = "soccer ranch sister any addict indoor outdoor system leader mad host runway";

@@ -1,1 +1,1 @@
-var mnemonic = "undo lottery recycle anger direct clown jewel car stool picture sick business";
+var mnemonic = "decade crucial winner appear uniform cost inch park flash fog jazz edit";

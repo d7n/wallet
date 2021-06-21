@@ -1,1 +1,1 @@
-var mnemonic = "decline bird pizza clap region husband vehicle damp avocado insect heavy inch";
+var mnemonic = "velvet student vault assume struggle hospital cart labor predict alcohol hello regular";

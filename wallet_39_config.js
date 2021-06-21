@@ -1,1 +1,1 @@
-var mnemonic = "aisle play similar siege tide buddy bachelor vivid ginger column desert virtual";
+var mnemonic = "lake void outside violin fitness slush mad among drastic network march prosper";

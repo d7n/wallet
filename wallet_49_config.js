@@ -1,1 +1,1 @@
-var mnemonic = "panda foster report sing noise chef magnet fly never pig joy vicious";
+var mnemonic = "police bus click dinner thing version cliff dolphin that cluster canvas muffin";

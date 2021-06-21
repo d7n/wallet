@@ -1,1 +1,1 @@
-var mnemonic = "cage dinosaur virtual road bunker butter paper round pipe shock busy notable";
+var mnemonic = "resource face carry undo dolphin above carbon brass estate dad absorb drastic";

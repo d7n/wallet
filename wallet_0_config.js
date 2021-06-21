@@ -1,1 +1,1 @@
-var mnemonic = "aim rug shock such sudden oppose burst hungry phone rural jeans awkward";
+var mnemonic = "chalk fragile hour agent sport illegal stem leg milk giraffe derive private";

@@ -1,1 +1,1 @@
-var mnemonic = "define long cattle antenna base broom special air source wish subject chef";
+var mnemonic = "gift loyal shaft fork bomb trust ripple orbit card diagram caught reward";

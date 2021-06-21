@@ -1,1 +1,1 @@
-var mnemonic = "matrix term garden coconut betray used that mobile garden side cover steak";
+var mnemonic = "monster truck explain calm leave finish book camera bulk render girl phone";

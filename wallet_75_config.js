@@ -1,1 +1,1 @@
-var mnemonic = "become bridge diesel like wave whip upset smile educate spin usual captain";
+var mnemonic = "wasp hand rate waste alone blame gift then master noble idle shove";

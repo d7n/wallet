@@ -1,1 +1,1 @@
-var mnemonic = "game nut patrol park skirt coyote impose satisfy thing guitar help leaf";
+var mnemonic = "wire volcano social because fresh orange vacuum symbol ask wine scan scheme";

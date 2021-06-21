@@ -1,1 +1,1 @@
-var mnemonic = "pink buzz artefact index into educate exclude nephew abandon great ask another";
+var mnemonic = "suggest animal marble coral stage property risk vacuum fault hint rally frozen";

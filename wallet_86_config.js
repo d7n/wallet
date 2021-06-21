@@ -1,1 +1,1 @@
-var mnemonic = "repair metal curtain chuckle mention famous learn crime possible habit main desk";
+var mnemonic = "lazy butter pair soda object citizen giant express swamp ancient first enter";

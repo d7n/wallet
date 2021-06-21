@@ -1,1 +1,1 @@
-var mnemonic = "logic caught assault palm sweet tool copper treat chapter average example dentist";
+var mnemonic = "fashion six night nothing member ship capable history lake height area clean";

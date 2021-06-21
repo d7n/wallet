@@ -1,1 +1,1 @@
-var mnemonic = "person sorry drum illegal spawn rude immune own enter topple correct devote";
+var mnemonic = "earth aunt verb carbon leisure various settle lottery parade dress anchor silver";

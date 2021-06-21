@@ -1,1 +1,1 @@
-var mnemonic = "disagree aerobic hobby uniform purchase plastic lesson tuition manage forget core lazy";
+var mnemonic = "earth post verb first poet spell blanket response auto token can liberty";

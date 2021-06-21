@@ -1,1 +1,1 @@
-var mnemonic = "bronze forum huge float bundle right exit favorite index legend color kingdom";
+var mnemonic = "sibling then satisfy sock obscure media space panther december depth biology address";

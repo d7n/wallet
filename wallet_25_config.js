@@ -1,1 +1,1 @@
-var mnemonic = "cloud drop step stage analyst mammal pistol bread sound popular carry ladder";
+var mnemonic = "bundle enter alarm horror slab copy steel trim lecture project strike auto";

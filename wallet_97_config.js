@@ -1,1 +1,1 @@
-var mnemonic = "aware toy defy south arrow base initial measure satisfy acquire banner unique";
+var mnemonic = "trend tattoo fatigue garage boil kite skill annual trip glad major dish";

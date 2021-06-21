@@ -1,1 +1,1 @@
-var mnemonic = "napkin put oyster hunt error buzz supreme rose wisdom upper raven suspect";
+var mnemonic = "mutual end police pull decade science know impact kid hello metal wet";

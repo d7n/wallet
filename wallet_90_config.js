@@ -1,1 +1,1 @@
-var mnemonic = "wolf venture script swift stumble chat length ability scene scout round tomorrow";
+var mnemonic = "ridge select crumble rib guess scare inflict tribe bridge ticket culture potato";

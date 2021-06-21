@@ -1,1 +1,1 @@
-var mnemonic = "put awake elevator lunar stuff enough marine column drastic what glory scissors";
+var mnemonic = "impulse today play guess female attack wise kidney addict rice rookie skill";

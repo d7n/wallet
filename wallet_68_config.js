@@ -1,1 +1,1 @@
-var mnemonic = "rough wisdom twenty tower swear name volcano raw column thank energy cage";
+var mnemonic = "riot roof when pelican upper moon dinosaur curve program need sentence judge";

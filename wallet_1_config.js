@@ -1,1 +1,1 @@
-var mnemonic = "wave benefit inherit slow tooth blue anger hint round rich cradle security";
+var mnemonic = "baby mosquito wrist special toward define apology plastic item crisp quit witness";

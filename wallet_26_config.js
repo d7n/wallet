@@ -1,1 +1,1 @@
-var mnemonic = "arch siege peace toilet entry code bullet useless situate immense luxury fork";
+var mnemonic = "member live gentle scout resource diet bulk identify shy describe truly phrase";

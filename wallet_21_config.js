@@ -1,1 +1,1 @@
-var mnemonic = "north tube recycle material attend usage file inspire glass doctor usual ribbon";
+var mnemonic = "doctor permit subject cement earn estate father aisle rifle dawn improve sing";

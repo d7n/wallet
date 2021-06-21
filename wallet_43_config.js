@@ -1,1 +1,1 @@
-var mnemonic = "message genuine grain flip doctor reveal drift shove bless visit flash dutch";
+var mnemonic = "endless expand anger kiss wool defense appear hundred describe chat strategy glory";

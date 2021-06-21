@@ -1,1 +1,1 @@
-var mnemonic = "matter double finger ginger october wave glimpse warm this ancient title tortoise";
+var mnemonic = "wrap final gossip poverty soon toddler crystal mobile cross patient deer cook";

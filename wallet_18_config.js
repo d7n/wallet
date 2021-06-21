@@ -1,1 +1,1 @@
-var mnemonic = "lecture net forum fragile addict battle rocket clerk brain cricket clog autumn";
+var mnemonic = "hamster pottery pupil oyster sponsor road six more resist express predict indoor";

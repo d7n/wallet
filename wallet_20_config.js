@@ -1,1 +1,1 @@
-var mnemonic = "wasp castle mean display jungle frown trap impulse news find web type";
+var mnemonic = "cross denial mango situate glimpse smoke nose jealous lion derive tool allow";

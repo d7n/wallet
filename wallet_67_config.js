@@ -1,1 +1,1 @@
-var mnemonic = "treat burst sniff undo narrow ostrich soda glad topic solution popular welcome";
+var mnemonic = "wave fortune worry recycle gate prefer daring very evidence humor girl open";

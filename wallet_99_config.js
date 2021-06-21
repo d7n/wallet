@@ -1,1 +1,1 @@
-var mnemonic = "plug more because sponsor radio half endorse drift great unaware lumber tent";
+var mnemonic = "just divert lunch call pond public kitchen clean fat pen tongue mimic";

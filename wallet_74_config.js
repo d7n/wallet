@@ -1,1 +1,1 @@
-var mnemonic = "phone favorite match able fresh floor feature call donate ranch claw history";
+var mnemonic = "neither swap seminar noble fiction quantum lesson stone peasant clarify pudding example";
