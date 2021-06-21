@@ -1,1 +1,1 @@
-var mnemonic = "bunker fault calm body ginger axis dumb bonus crowd use gravity diagram";
+var mnemonic = "between decorate siren busy sorry powder where crush badge quit disagree dice";

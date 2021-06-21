@@ -1,1 +1,1 @@
-var mnemonic = "copper vacant ugly gate famous abuse apple two radar staff battle egg";
+var mnemonic = "melody wild flat neither owner castle flag art tail kitchen blame learn";

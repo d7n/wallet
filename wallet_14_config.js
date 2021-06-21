@@ -1,1 +1,1 @@
-var mnemonic = "cube unaware crane junior snow vicious blouse cup mercy unique observe deny";
+var mnemonic = "heavy dutch chalk right garbage stuff warrior situate salt cube spot shock";

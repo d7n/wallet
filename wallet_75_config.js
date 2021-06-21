@@ -1,1 +1,1 @@
-var mnemonic = "pulse tilt depend deer unit mango point leopard draft credit luggage demand";
+var mnemonic = "hobby second media away athlete glass size broom cram nuclear permit tent";

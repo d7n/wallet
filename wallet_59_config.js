@@ -1,1 +1,1 @@
-var mnemonic = "sauce glow depth ostrich pond inquiry dog census later length egg timber";
+var mnemonic = "family resemble prosper dish cousin since office neither crystal twice mom ribbon";

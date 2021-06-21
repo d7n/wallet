@@ -1,1 +1,1 @@
-var mnemonic = "remove gather move exact angry have jar practice stock text bomb grape";
+var mnemonic = "movie myself attack hover narrow gun burst digital brother october behave nice";

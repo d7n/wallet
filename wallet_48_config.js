@@ -1,1 +1,1 @@
-var mnemonic = "pact habit board reopen trade receive ensure square piece flush van hand";
+var mnemonic = "narrow orbit wage hundred ski major yard december estate ripple dinosaur ketchup";

@@ -1,1 +1,1 @@
-var mnemonic = "typical rent ice lemon antenna assault sport bright uncle convince alarm school";
+var mnemonic = "rally palm shallow hazard dismiss uniform reopen cloth skirt gauge mobile chapter";

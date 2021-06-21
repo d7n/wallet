@@ -1,1 +1,1 @@
-var mnemonic = "ring neutral govern foil soda finish company unfair tiger silk canyon present";
+var mnemonic = "advance health energy foster public supply special major tilt victory dice current";

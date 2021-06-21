@@ -1,1 +1,1 @@
-var mnemonic = "shop memory add address better coffee busy east one spice harvest fly";
+var mnemonic = "myself labor infant scout depart insect tobacco frost argue offer thrive noise";

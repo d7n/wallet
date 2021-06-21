@@ -1,1 +1,1 @@
-var mnemonic = "auto wrong math habit year weather unable saddle ripple spray pole crystal";
+var mnemonic = "case tongue plate monitor since empty jewel fossil false install uncle service";

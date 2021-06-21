@@ -1,1 +1,1 @@
-var mnemonic = "youth dignity gate dismiss luggage depend frequent impact tree point sustain dignity";
+var mnemonic = "across wealth boost female safe inch jungle protect approve chalk depart parent";

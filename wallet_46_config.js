@@ -1,1 +1,1 @@
-var mnemonic = "twist later expire local slice leader eternal cancel deer vague vessel vivid";
+var mnemonic = "prison again very close leave violin dinosaur inhale twenty horse human scale";

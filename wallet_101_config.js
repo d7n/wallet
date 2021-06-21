@@ -1,1 +1,1 @@
-var mnemonic = "chunk flush kiwi worth debris acoustic math bicycle soccer keep situate cabbage";
+var mnemonic = "voice cloth omit sign ability wear insane cube ice woman skull start";

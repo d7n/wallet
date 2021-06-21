@@ -1,1 +1,1 @@
-var mnemonic = "average fuel police mushroom laugh hidden clarify stock knife upgrade opinion end";
+var mnemonic = "sphere matter middle spy tattoo caution two melody champion era toss sheriff";

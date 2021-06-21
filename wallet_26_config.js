@@ -1,1 +1,1 @@
-var mnemonic = "shock uphold volcano cluster history west chase lake limb lawn amused chuckle";
+var mnemonic = "credit practice spin infant acoustic vast pulse impulse canyon range often imitate";

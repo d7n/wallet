@@ -1,1 +1,1 @@
-var mnemonic = "glimpse dawn private cereal before relax giraffe term wise market ivory veteran";
+var mnemonic = "extra fame put minor smart fiction honey garden primary angle learn input";

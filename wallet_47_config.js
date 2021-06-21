@@ -1,1 +1,1 @@
-var mnemonic = "beef subject safe rice fix source truly wonder fantasy coffee fragile dress";
+var mnemonic = "inflict door shuffle fan vote tell brick wish utility fragile gospel flush";

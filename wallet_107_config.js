@@ -1,1 +1,1 @@
-var mnemonic = "tool extra journey boring such speak divorce stamp elbow parade day cigar";
+var mnemonic = "pact second speak message ridge asset dune bench sister promote squeeze final";

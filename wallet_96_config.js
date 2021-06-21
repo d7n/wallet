@@ -1,1 +1,1 @@
-var mnemonic = "battle client cloud fruit figure inflict echo evolve actual mistake job wealth";
+var mnemonic = "consider green burger fork knock alpha have trim young witness zoo asset";

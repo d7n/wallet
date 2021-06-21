@@ -1,1 +1,1 @@
-var mnemonic = "frown lucky wealth art advice tomato tribe twin faith torch latin situate";
+var mnemonic = "loud calm olympic rough repair kitten armed toward chef shuffle outdoor camera";

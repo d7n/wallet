@@ -1,1 +1,1 @@
-var mnemonic = "liar birth bread more deny jaguar bike green curve laugh park average";
+var mnemonic = "pretty artwork evidence source duty cigar puppy nothing enjoy pause order pig";

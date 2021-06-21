@@ -1,1 +1,1 @@
-var mnemonic = "raise dish artwork must must puzzle economy skate omit clump subway moon";
+var mnemonic = "lake cruel pulp review job sense typical illegal check position lab menu";

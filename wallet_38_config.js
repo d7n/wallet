@@ -1,1 +1,1 @@
-var mnemonic = "matter salad panther derive lyrics west barely still tree diary razor clerk";
+var mnemonic = "evolve milk pizza address snack frozen write ritual mystery equal riot favorite";

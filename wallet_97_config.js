@@ -1,1 +1,1 @@
-var mnemonic = "clip option breeze theory hard camp purchase funny cradle upon sweet describe";
+var mnemonic = "attract elbow match dolphin tube base equal radio banner sunset slice resource";

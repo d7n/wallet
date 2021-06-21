@@ -1,1 +1,1 @@
-var mnemonic = "resource cable idea prosper floor behave scene during start pioneer dash link";
+var mnemonic = "loud warfare series brother over cinnamon tent pumpkin ugly faint warrior impulse";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor six frog lift apology accuse employ robust surprise dolphin dream hair";
+var mnemonic = "stadium slide script call economy must exact essence fish tape margin place";

@@ -1,1 +1,1 @@
-var mnemonic = "velvet eagle vapor timber travel unlock useful swamp cat margin cat thrive";
+var mnemonic = "immense meat mention enforce expand snap misery noise love subject shoe blossom";

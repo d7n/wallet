@@ -1,1 +1,1 @@
-var mnemonic = "cat intact rabbit fly idea price nature side ginger bacon worth glory";
+var mnemonic = "become barrel replace jazz affair regular palace waste volcano clap move struggle";

@@ -1,1 +1,1 @@
-var mnemonic = "ready monkey canoe correct stairs state metal ignore crunch pulse empower ozone";
+var mnemonic = "apart clap law marine uphold carpet room smile nature melt uncover wage";

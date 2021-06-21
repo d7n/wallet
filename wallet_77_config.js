@@ -1,1 +1,1 @@
-var mnemonic = "word trash stem advice soda assist jacket goose point laundry gun rubber";
+var mnemonic = "turn help soon name wealth select vendor lesson tuna shoot that entire";

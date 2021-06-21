@@ -1,1 +1,1 @@
-var mnemonic = "salad capable symbol only gorilla belt artwork dignity suggest shadow time file";
+var mnemonic = "lobster glory elevator swap poem rigid uncover balcony prepare any brush eye";

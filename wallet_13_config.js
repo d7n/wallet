@@ -1,1 +1,1 @@
-var mnemonic = "position disagree neutral hawk angry pattern diesel monkey metal effort valley vendor";
+var mnemonic = "assume hire position sound cross spin crouch basic oxygen lemon artwork control";

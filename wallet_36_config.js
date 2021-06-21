@@ -1,1 +1,1 @@
-var mnemonic = "usage floor invite people require civil million hard million teach frequent solution";
+var mnemonic = "purity kangaroo casino exit acid oxygen gesture fox slam sunny diet primary";

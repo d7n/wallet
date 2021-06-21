@@ -1,1 +1,1 @@
-var mnemonic = "water hire early flock salt approve chalk art need bright shuffle fade";
+var mnemonic = "spice boil access taste stamp demise bargain ramp average page toast inquiry";

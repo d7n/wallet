@@ -1,1 +1,1 @@
-var mnemonic = "throw board august piece lock under shrimp account best note own worry";
+var mnemonic = "embrace coach neck seek bag earth gentle shell blouse hour media humor";

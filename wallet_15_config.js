@@ -1,1 +1,1 @@
-var mnemonic = "resemble bulk oblige kiwi puzzle buddy rug detail roof fatigue bicycle swift";
+var mnemonic = "boat captain payment lab cave slot enjoy gap example defense mushroom joy";

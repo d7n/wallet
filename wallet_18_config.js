@@ -1,1 +1,1 @@
-var mnemonic = "real spoil dune educate soup skull hazard swing anxiety dial garment thrive";
+var mnemonic = "apart invite solution angle truth escape electric wonder wasp post cruel deal";

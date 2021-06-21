@@ -1,1 +1,1 @@
-var mnemonic = "coin matter mystery room enact slim enhance mask script picnic vessel jeans";
+var mnemonic = "kid grant wink swear unfold enrich version erode lucky atom sail distance";

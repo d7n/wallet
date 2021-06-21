@@ -1,1 +1,1 @@
-var mnemonic = "sponsor profit kiwi ancient regular purse feed weekend risk tribe dose this";
+var mnemonic = "item clown oyster slogan orchard already lumber title recycle melody female worry";

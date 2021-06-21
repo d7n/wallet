@@ -1,1 +1,1 @@
-var mnemonic = "elder uphold coin jealous virus stomach width engine track arm wild athlete";
+var mnemonic = "clean expect repair pulse muscle crystal front drink illness rapid repair two";

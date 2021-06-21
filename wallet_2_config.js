@@ -1,1 +1,1 @@
-var mnemonic = "echo equip metal erase direct you foster deer accuse midnight wonder short";
+var mnemonic = "arena bid latin reflect hurt ghost arch sphere parrot pen bonus run";

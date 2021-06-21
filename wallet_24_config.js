@@ -1,1 +1,1 @@
-var mnemonic = "gain drive accuse base analyst tool rebuild juice hedgehog desk client grid";
+var mnemonic = "essay among bacon woman cherry quick bar penalty siege private total panther";

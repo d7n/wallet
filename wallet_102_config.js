@@ -1,1 +1,1 @@
-var mnemonic = "climb strategy main addict grain custom annual report transfer opinion hazard sibling";
+var mnemonic = "when tree route east crazy crucial empty few push chronic artist item";

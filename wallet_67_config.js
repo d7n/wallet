@@ -1,1 +1,1 @@
-var mnemonic = "giraffe wine midnight answer trigger turn remain grace chef jaguar young park";
+var mnemonic = "razor enrich satoshi address farm erosion begin normal kick orange nation office";

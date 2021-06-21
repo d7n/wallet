@@ -1,1 +1,1 @@
-var mnemonic = "regret cannon armed patrol benefit melody loan weasel jealous egg decide thumb";
+var mnemonic = "control hill photo amazing dilemma copy orchard mercy match dumb bleak bulk";

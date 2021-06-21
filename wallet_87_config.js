@@ -1,1 +1,1 @@
-var mnemonic = "bid list cattle initial panel expect keen wrong cash resemble dolphin soft";
+var mnemonic = "heart light crime wash venue push napkin august thing sun educate multiply";

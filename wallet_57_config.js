@@ -1,1 +1,1 @@
-var mnemonic = "audit clarify wool shoe cherry adult simple love absorb pizza cream spoon";
+var mnemonic = "cart kick silk slide today satoshi tree carpet route never intact benefit";

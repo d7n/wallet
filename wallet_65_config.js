@@ -1,1 +1,1 @@
-var mnemonic = "vibrant grocery mind glass because dawn evil hurt climb dynamic tent goose";
+var mnemonic = "morning elder civil heart segment deal fortune robust achieve process barely solution";

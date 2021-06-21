@@ -1,1 +1,1 @@
-var mnemonic = "gown electric basic congress wink slender guitar initial give laugh custom inherit";
+var mnemonic = "canoe matrix supreme movie yellow orient deliver accuse fly tobacco rain song";

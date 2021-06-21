@@ -1,1 +1,1 @@
-var mnemonic = "chapter area about live below actress dial identify begin boil mad image";
+var mnemonic = "car just monitor valley suspect holiday blind calm bicycle ball bulk ship";

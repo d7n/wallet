@@ -1,1 +1,1 @@
-var mnemonic = "day attack unveil render bird exhibit winner execute entry liberty erosion matter";
+var mnemonic = "cute raise lunch license together stomach junk alpha balcony length federal thumb";

@@ -1,1 +1,1 @@
-var mnemonic = "vehicle small cake allow ordinary remember tongue session rain elephant spring steel";
+var mnemonic = "kitchen use wagon torch pride replace hen salmon festival super sausage remain";

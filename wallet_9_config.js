@@ -1,1 +1,1 @@
-var mnemonic = "pilot shell alley exhibit lava dilemma survey normal grant eternal erosion pulp";
+var mnemonic = "argue clip nurse card hill comfort peasant season dune feel sustain hand";

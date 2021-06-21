@@ -1,1 +1,1 @@
-var mnemonic = "merry jewel crater install forward seek logic isolate grace nature shiver kidney";
+var mnemonic = "bacon pass machine income wealth erase luxury calm journey clip picnic audit";

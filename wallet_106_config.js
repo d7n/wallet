@@ -1,1 +1,1 @@
-var mnemonic = "obey wall bacon worth boss menu grant virus winner gorilla pulp coral";
+var mnemonic = "decline key because organ royal couple raven axis demand sniff forest recipe";

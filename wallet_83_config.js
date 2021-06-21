@@ -1,1 +1,1 @@
-var mnemonic = "adult clay carpet toe civil milk wreck brand begin destroy sudden fortune";
+var mnemonic = "guard lift bachelor armed gadget wreck foil guess tissue kick lucky dash";

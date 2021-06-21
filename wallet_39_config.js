@@ -1,1 +1,1 @@
-var mnemonic = "library photo forget common soldier minimum tank gauge vault glow donor control";
+var mnemonic = "century spike sniff cricket prefer infant team science giraffe depart balcony achieve";

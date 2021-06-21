@@ -1,1 +1,1 @@
-var mnemonic = "also almost deer buffalo diary harsh ecology monkey patient timber where safe";
+var mnemonic = "myth result trade primary alcohol section main laundry suggest gauge diagram away";

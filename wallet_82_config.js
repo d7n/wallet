@@ -1,1 +1,1 @@
-var mnemonic = "genuine silk awful blade ecology choice spread rabbit find forum endless firm";
+var mnemonic = "ethics atom average hand peasant gauge mother clay grit claim escape patient";

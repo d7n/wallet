@@ -1,1 +1,1 @@
-var mnemonic = "athlete cupboard actress ostrich leisure alert praise gun typical soul carry crush";
+var mnemonic = "syrup logic prefer during agree couple service dutch maze void drive critic";

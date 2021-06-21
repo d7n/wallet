@@ -1,1 +1,1 @@
-var mnemonic = "mistake still wait supreme curve ramp cushion fly destroy describe caution gloom";
+var mnemonic = "joke excuse clever leader again tilt kangaroo danger index effort seed congress";

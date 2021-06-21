@@ -1,1 +1,1 @@
-var mnemonic = "trophy retreat scare cradle episode coin warm garbage keep evoke height party";
+var mnemonic = "erupt mom try decorate misery swear keep guess shoulder disease know library";

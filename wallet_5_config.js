@@ -1,1 +1,1 @@
-var mnemonic = "tennis grain connect move category until siege another depend veteran music anxiety";
+var mnemonic = "lawsuit thunder autumn mule crime remove oppose snow allow owner essay track";

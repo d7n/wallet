@@ -1,1 +1,1 @@
-var mnemonic = "useless pelican version ordinary state design cruel chunk liar prefer twist flip";
+var mnemonic = "orphan saddle gesture essence color enforce crush middle mobile second tuna slow";

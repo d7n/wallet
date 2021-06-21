@@ -1,1 +1,1 @@
-var mnemonic = "chunk festival girl grant vault junior affair decide grab silly better envelope";
+var mnemonic = "escape buzz animal evidence engine antenna embrace jump hobby income endless sting";

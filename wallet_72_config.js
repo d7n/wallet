@@ -1,1 +1,1 @@
-var mnemonic = "monkey satoshi review case brain sheriff during creek rocket remember engine mistake";
+var mnemonic = "pottery fringe away crunch elite mention fork cable axis remove empty place";

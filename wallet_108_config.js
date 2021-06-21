@@ -1,1 +1,1 @@
-var mnemonic = "organ system acquire alert depart title dice ring satisfy man peace spring";
+var mnemonic = "reunion talent ceiling repeat shrug supreme humor push stable bamboo build draw";

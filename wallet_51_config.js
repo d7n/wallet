@@ -1,1 +1,1 @@
-var mnemonic = "neck wire extra industry thumb arrest draft hurry post lunch hazard index";
+var mnemonic = "pluck race diesel marriage vocal teach poem axis raccoon veteran economy ride";

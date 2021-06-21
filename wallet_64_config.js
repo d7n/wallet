@@ -1,1 +1,1 @@
-var mnemonic = "huge mix assume odor rate student artwork post twelve eye balance tunnel";
+var mnemonic = "panel best arm soft cloud describe afford heavy punch lend hen essence";

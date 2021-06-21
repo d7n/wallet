@@ -1,1 +1,1 @@
-var mnemonic = "chronic earth pepper pledge term museum soft fit soul arrest volcano fox";
+var mnemonic = "wish tattoo slot lobster bind solar life vintage jaguar ivory blast food";

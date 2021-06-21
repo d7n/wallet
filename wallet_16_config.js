@@ -1,1 +1,1 @@
-var mnemonic = "lemon cute evidence horror pulse dirt team cluster half jelly slender deny";
+var mnemonic = "usage twelve harsh fold camp enlist never find stone fatal spatial fire";

@@ -1,1 +1,1 @@
-var mnemonic = "fashion moment father iron frame social provide buddy dune myth skill advance";
+var mnemonic = "talent door erosion daring furnace credit day bottom stumble harsh drastic claim";

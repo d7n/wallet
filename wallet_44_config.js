@@ -1,1 +1,1 @@
-var mnemonic = "consider bachelor bomb virus cement endless amazing acquire april invite true casual";
+var mnemonic = "bonus mirror device squirrel emotion trap evil shoulder bargain twin math spray";

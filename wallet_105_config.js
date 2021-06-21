@@ -1,1 +1,1 @@
-var mnemonic = "dog drum together bone arm dress crazy mystery dress pepper axis hour";
+var mnemonic = "seminar special casual ginger smooth claw property suggest toward cheese space gossip";

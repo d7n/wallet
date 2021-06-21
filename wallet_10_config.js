@@ -1,1 +1,1 @@
-var mnemonic = "stool dry rebel purpose section muscle farm truck party travel regret use";
+var mnemonic = "visa rice miracle stable kangaroo repeat cement pill wool skin obtain weasel";

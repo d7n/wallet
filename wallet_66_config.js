@@ -1,1 +1,1 @@
-var mnemonic = "secret limit comic electric rescue brass sleep physical edit miracle vapor become";
+var mnemonic = "only soldier bridge eyebrow gravity agree trouble garlic biology envelope inflict rebuild";

@@ -1,1 +1,1 @@
-var mnemonic = "high sweet finish elbow life clever home enrich draw either parade snow";
+var mnemonic = "album artwork appear wrong kitchen impact subway soccer oil maple erode million";

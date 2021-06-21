@@ -1,1 +1,1 @@
-var mnemonic = "sudden clean quote custom story apart weather february social square coil imitate";
+var mnemonic = "drama betray ice farm squirrel chimney topic pitch veteran pink ivory cliff";

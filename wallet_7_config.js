@@ -1,1 +1,1 @@
-var mnemonic = "ocean indoor tiny any post circle license angle joy glare park rapid";
+var mnemonic = "sketch slight flat light image scissors indicate rescue brick wolf female joke";

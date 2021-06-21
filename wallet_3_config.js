@@ -1,1 +1,1 @@
-var mnemonic = "unfold theme twice hill thunder nose clump crane violin spy base day";
+var mnemonic = "photo chair seminar snap monster mammal tonight tool spy candy power inch";

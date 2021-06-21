@@ -1,1 +1,1 @@
-var mnemonic = "doctor view gate cake rebuild sunny lumber toward ketchup image fluid fuel";
+var mnemonic = "tide merge rally drip rebuild carbon swallow physical soft ecology glare heart";

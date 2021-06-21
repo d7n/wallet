@@ -1,1 +1,1 @@
-var mnemonic = "remind feed option bleak innocent phrase identify scorpion cube warm random model";
+var mnemonic = "wrap giraffe tornado struggle scout narrow insect attend keen access leave process";

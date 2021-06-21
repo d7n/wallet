@@ -1,1 +1,1 @@
-var mnemonic = "forget exclude nose cliff basket indoor quote reduce educate phrase vessel detect";
+var mnemonic = "gorilla brand either minor bright profit nephew bracket wood venue genius such";

@@ -1,1 +1,1 @@
-var mnemonic = "fog amused neither invite middle orient juice fitness praise bag mobile august";
+var mnemonic = "floor all jump foot zone gold perfect door axis valve style glow";

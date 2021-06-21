@@ -1,1 +1,1 @@
-var mnemonic = "aware defense equip style tumble monster similar display limit noble tonight pink";
+var mnemonic = "hurdle bind mystery legend cream sphere code dish obey attend offer mom";

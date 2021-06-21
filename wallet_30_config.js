@@ -1,1 +1,1 @@
-var mnemonic = "prevent love tank danger panel measure dinner plug silk control neck devote";
+var mnemonic = "food version fortune direct reform hint risk art woman enact unveil mom";

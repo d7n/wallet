@@ -1,1 +1,1 @@
-var mnemonic = "sort depth stuff gadget ostrich swear galaxy taste silk assault miss kid";
+var mnemonic = "thunder wire spin oxygen state pass toast aspect media monitor choose salute";

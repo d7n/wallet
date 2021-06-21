@@ -1,1 +1,1 @@
-var mnemonic = "atom mixed fuel giggle pipe smooth clay parade brief term sweet empty";
+var mnemonic = "potato flat rapid dice lab license grit pelican castle verb quarter derive";

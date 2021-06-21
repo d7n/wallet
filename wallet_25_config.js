@@ -1,1 +1,1 @@
-var mnemonic = "modify click what bacon deny purse answer result process life labor depth";
+var mnemonic = "cream beauty market apart prison dune forward bottom coyote track dilemma call";

@@ -1,1 +1,1 @@
-var mnemonic = "emerge surprise engine identify spin album bench sweet naive embody risk ordinary";
+var mnemonic = "fortune select music obtain soap label skate educate armor govern need scorpion";

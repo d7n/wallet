@@ -1,1 +1,1 @@
-var mnemonic = "sheriff hat cat outdoor bulb view october between height smoke timber heavy";
+var mnemonic = "off jealous ready learn garden toe october uncle lemon truck inspire column";

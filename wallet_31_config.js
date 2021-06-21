@@ -1,1 +1,1 @@
-var mnemonic = "mule bring track road basket ability prevent inside ignore shine torch reason";
+var mnemonic = "cancel purpose million this join position payment access beyond excess item special";

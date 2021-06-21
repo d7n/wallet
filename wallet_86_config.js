@@ -1,1 +1,1 @@
-var mnemonic = "size club affair amount prize main rifle arena unit scan crystal crane";
+var mnemonic = "access easy lend sketch easy response angle bottom rocket tortoise exchange month";

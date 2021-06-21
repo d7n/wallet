@@ -1,1 +1,1 @@
-var mnemonic = "artist penalty thing kiss photo today six enact scissors protect tone camera";
+var mnemonic = "retreat spare option now slush join various wait exotic bubble burger property";
