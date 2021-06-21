@@ -1,1 +1,1 @@
-var mnemonic = "garage own put session vapor cushion explain jar decorate swear lawsuit also";
+var mnemonic = "hungry wasp swamp online exile any fade develop tide clap window switch";

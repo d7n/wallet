@@ -1,1 +1,1 @@
-var mnemonic = "chalk fragile hour agent sport illegal stem leg milk giraffe derive private";
+var mnemonic = "retreat distance impose learn steel inflict tragic inquiry short candy half monster";

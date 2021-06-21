@@ -1,1 +1,1 @@
-var mnemonic = "gift never crop butter duck sunset suspect zone length decline harvest debate";
+var mnemonic = "ill vapor runway doctor surface once shift tennis rocket island chair pupil";

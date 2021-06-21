@@ -1,1 +1,1 @@
-var mnemonic = "ocean switch return menu tool wasp denial country purchase prize basic enough";
+var mnemonic = "youth machine normal fragile holiday cushion mimic gospel chaos gift dirt question";

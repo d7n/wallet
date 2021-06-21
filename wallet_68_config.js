@@ -1,1 +1,1 @@
-var mnemonic = "riot roof when pelican upper moon dinosaur curve program need sentence judge";
+var mnemonic = "raven talent poet stairs divorce order fabric gas local together crime mushroom";

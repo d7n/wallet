@@ -1,1 +1,1 @@
-var mnemonic = "promote prefer virtual number debris elbow produce extend side swift cable force";
+var mnemonic = "review remain cherry brick enable symptom render clog adjust digital yard praise";

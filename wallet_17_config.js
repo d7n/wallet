@@ -1,1 +1,1 @@
-var mnemonic = "life lunch guess three boss speak short river secret climb scheme photo";
+var mnemonic = "unaware stem asthma monster key grief museum strike answer tennis menu rate";

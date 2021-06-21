@@ -1,1 +1,1 @@
-var mnemonic = "fossil evoke lounge area above glue when execute hidden minimum move current";
+var mnemonic = "soldier fork female knock language divorce involve lemon purse cruel broccoli predict";

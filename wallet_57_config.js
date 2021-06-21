@@ -1,1 +1,1 @@
-var mnemonic = "normal joy ugly board payment angry lava silent scan alcohol empty joy";
+var mnemonic = "pride drink alarm coyote later stove artefact decade flag embrace wash nominee";

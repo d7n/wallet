@@ -1,1 +1,1 @@
-var mnemonic = "what repair blanket vehicle street priority control cart soda lunar observe correct";
+var mnemonic = "swear desert silent holiday execute erode month ozone inmate twin off add";

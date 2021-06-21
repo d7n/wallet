@@ -1,1 +1,1 @@
-var mnemonic = "solid question adapt guitar pride accident fox glass card swift syrup warrior";
+var mnemonic = "tobacco remind gift chair umbrella setup sheriff coil head enable bubble year";

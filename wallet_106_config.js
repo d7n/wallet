@@ -1,1 +1,1 @@
-var mnemonic = "target weather sort multiply warfare man inch kiss ritual beauty youth ivory";
+var mnemonic = "ozone carpet peasant spin mimic typical hawk meadow wing wait almost envelope";

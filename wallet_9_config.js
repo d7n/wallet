@@ -1,1 +1,1 @@
-var mnemonic = "session today local enter morning rough humor orange flee obscure north extra";
+var mnemonic = "mountain fence earth obey during physical baby rigid ship catalog film latin";

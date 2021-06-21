@@ -1,1 +1,1 @@
-var mnemonic = "ancient install scan silver supply soft burden wheel blast between dad fruit";
+var mnemonic = "evoke chef athlete target sphere album scrub memory innocent rose feel loud";

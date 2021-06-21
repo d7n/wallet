@@ -1,1 +1,1 @@
-var mnemonic = "baby mosquito wrist special toward define apology plastic item crisp quit witness";
+var mnemonic = "front spoon odor tortoise coral wing bus together kit fork own measure";

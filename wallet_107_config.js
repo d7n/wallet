@@ -1,1 +1,1 @@
-var mnemonic = "humor vicious wage shield gadget pottery urge mosquito festival elder heavy runway";
+var mnemonic = "fan sponsor jeans tank total flame degree disorder loyal napkin brick congress";

@@ -1,1 +1,1 @@
-var mnemonic = "across orange annual winner fabric asthma mix gas side item warfare eight";
+var mnemonic = "cycle come know brown whisper drop frown betray armor milk chuckle moon";

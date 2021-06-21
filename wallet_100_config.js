@@ -1,1 +1,1 @@
-var mnemonic = "impulse today play guess female attack wise kidney addict rice rookie skill";
+var mnemonic = "agent predict gown silly day reason snake until visa wheat swim wolf";

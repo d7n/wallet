@@ -1,1 +1,1 @@
-var mnemonic = "police bus click dinner thing version cliff dolphin that cluster canvas muffin";
+var mnemonic = "suit wife group profit together web beyond cat reopen phone clap moon";

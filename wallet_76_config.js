@@ -1,1 +1,1 @@
-var mnemonic = "laugh gadget pause robot tired civil much modify buzz empty enhance cement";
+var mnemonic = "save route august reform exist toast recall coil grief estate poet hamster";

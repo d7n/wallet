@@ -1,1 +1,1 @@
-var mnemonic = "question budget safe alert gallery camp that foot private orphan height bicycle";
+var mnemonic = "renew upset mind bullet menu silk gossip effort yellow author budget outdoor";

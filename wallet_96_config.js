@@ -1,1 +1,1 @@
-var mnemonic = "else absurd leaf kite basic submit abandon impulse vanish weekend fiber visit";
+var mnemonic = "medal express couch panther sauce often index select call garden curious used";

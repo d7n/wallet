@@ -1,1 +1,1 @@
-var mnemonic = "sibling then satisfy sock obscure media space panther december depth biology address";
+var mnemonic = "main hockey only summer axis laundry outer middle web family stuff shed";

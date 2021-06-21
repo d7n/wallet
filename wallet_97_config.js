@@ -1,1 +1,1 @@
-var mnemonic = "trend tattoo fatigue garage boil kite skill annual trip glad major dish";
+var mnemonic = "unaware recipe drop trap strong tonight select album prize gold comfort insane";

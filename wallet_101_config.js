@@ -1,1 +1,1 @@
-var mnemonic = "wrap final gossip poverty soon toddler crystal mobile cross patient deer cook";
+var mnemonic = "myth area catch venture oppose glad peace cry travel brown visual explain";

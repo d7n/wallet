@@ -1,1 +1,1 @@
-var mnemonic = "opera brave bleak artefact maze wall wreck market solar between spatial naive";
+var mnemonic = "pause bridge slow special slam cost bird arrow ginger gap turn voyage";

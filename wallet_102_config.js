@@ -1,1 +1,1 @@
-var mnemonic = "pencil owner burger reopen suggest love topple core pyramid scale radar pink";
+var mnemonic = "dinosaur differ fruit tuna tell gesture crystal mountain tobacco review focus evil";

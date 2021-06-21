@@ -1,1 +1,1 @@
-var mnemonic = "mutual end police pull decade science know impact kid hello metal wet";
+var mnemonic = "between scrap distance nice banner shift wing tobacco kitten afford oblige achieve";

@@ -1,1 +1,1 @@
-var mnemonic = "ramp add journey turn always poverty harvest ski mountain that ribbon congress";
+var mnemonic = "tide pen congress suspect system absurd math vote endless athlete photo glance";

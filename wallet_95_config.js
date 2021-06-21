@@ -1,1 +1,1 @@
-var mnemonic = "bring annual dizzy pretty lucky gesture marriage scare rack exact enact carry";
+var mnemonic = "resemble gasp language pistol keen cinnamon school tornado wisdom return decrease smart";

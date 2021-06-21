@@ -1,1 +1,1 @@
-var mnemonic = "neither swap seminar noble fiction quantum lesson stone peasant clarify pudding example";
+var mnemonic = "bulk comfort time rubber brief page episode creek wire angle cabbage basic";

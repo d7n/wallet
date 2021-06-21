@@ -1,1 +1,1 @@
-var mnemonic = "energy fantasy stage produce army company boss deer agree urban armed goat";
+var mnemonic = "three limb then blue reduce devote ankle amused frozen shine start control";

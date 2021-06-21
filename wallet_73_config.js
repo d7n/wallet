@@ -1,1 +1,1 @@
-var mnemonic = "female embrace arch method fit axis parade avocado embark gate arch physical";
+var mnemonic = "trim awake above time flip hurt simple robot express arrow caution also";

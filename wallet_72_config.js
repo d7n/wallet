@@ -1,1 +1,1 @@
-var mnemonic = "october orange drum race helmet kit plunge later weather sing duck dish";
+var mnemonic = "crowd soup entire stamp finger fury parade miracle village enable pitch miss";

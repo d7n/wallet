@@ -1,1 +1,1 @@
-var mnemonic = "hero repeat kidney despair amazing capital jungle dress balance stock gate diary";
+var mnemonic = "sauce chunk begin device boil account spider delay issue dolphin identify certain";

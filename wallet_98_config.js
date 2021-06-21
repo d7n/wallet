@@ -1,1 +1,1 @@
-var mnemonic = "earth post verb first poet spell blanket response auto token can liberty";
+var mnemonic = "method cinnamon field multiply pledge milk evil hair found illegal goddess attend";

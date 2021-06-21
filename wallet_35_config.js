@@ -1,1 +1,1 @@
-var mnemonic = "juice account alarm scout topple manage ecology plunge pumpkin destroy have wine";
+var mnemonic = "render matrix evoke tongue monster another fatigue embark stable rough fun symptom";

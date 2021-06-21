@@ -1,1 +1,1 @@
-var mnemonic = "hope budget replace garlic mercy ask clever spoil discover grace private include";
+var mnemonic = "betray behave illness body wine predict record tiny leopard accuse flush average";

@@ -1,1 +1,1 @@
-var mnemonic = "seven matrix satisfy siege run veteran shrug top tortoise direct actor misery";
+var mnemonic = "leopard average gap item victory horn sign empower carry slim remember minute";

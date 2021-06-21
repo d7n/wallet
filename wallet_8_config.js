@@ -1,1 +1,1 @@
-var mnemonic = "suggest animal marble coral stage property risk vacuum fault hint rally frozen";
+var mnemonic = "toss labor since bless hollow box quantum weekend engine half decline obey";

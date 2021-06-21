@@ -1,1 +1,1 @@
-var mnemonic = "endless expand anger kiss wool defense appear hundred describe chat strategy glory";
+var mnemonic = "fish myself humble kind mad solid topple peasant dawn gallery erosion art";

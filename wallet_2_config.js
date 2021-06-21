@@ -1,1 +1,1 @@
-var mnemonic = "indicate employ little ready elite sorry daring giraffe universe survey major calm";
+var mnemonic = "chair timber logic dragon sport join curious limit best humor term almost";

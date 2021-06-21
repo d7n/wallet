@@ -1,1 +1,1 @@
-var mnemonic = "media stock mass night enforce warm pause catalog grab crop wedding accuse";
+var mnemonic = "pudding boring round sick mosquito become reduce uniform dragon doll best accident";

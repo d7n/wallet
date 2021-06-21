@@ -1,1 +1,1 @@
-var mnemonic = "burden board valid hollow draft spike skill hollow clean large fault camp";
+var mnemonic = "broken lucky present diet version north praise marble buzz govern warm minimum";

@@ -1,1 +1,1 @@
-var mnemonic = "wage twelve jacket say alert label uphold velvet soup business include bench";
+var mnemonic = "wing axis furnace outdoor scrap artist dance fuel toy churn payment wasp";

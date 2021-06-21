@@ -1,1 +1,1 @@
-var mnemonic = "pulse island beyond clever spray indicate humor early city oblige occur move";
+var mnemonic = "cup retire stone casual plastic harsh athlete uphold rubber canoe marble stomach";

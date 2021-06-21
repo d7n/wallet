@@ -1,1 +1,1 @@
-var mnemonic = "wave fortune worry recycle gate prefer daring very evidence humor girl open";
+var mnemonic = "lottery lucky concert mixed exclude reform radar uniform candy seed enlist call";

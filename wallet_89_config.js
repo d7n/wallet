@@ -1,1 +1,1 @@
-var mnemonic = "payment floor hunt device someone cover canyon thought such already puzzle nature";
+var mnemonic = "friend history pencil letter sound remain gate benefit border romance bean account";

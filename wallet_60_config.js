@@ -1,1 +1,1 @@
-var mnemonic = "talk venue clock filter gain wash vocal gold law awful chunk absorb";
+var mnemonic = "country cluster eight raccoon chuckle estate juice erase favorite tuna margin blood";

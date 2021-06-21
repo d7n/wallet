@@ -1,1 +1,1 @@
-var mnemonic = "wire volcano social because fresh orange vacuum symbol ask wine scan scheme";
+var mnemonic = "salt march subject lift shallow reveal maximum winter pyramid snack crazy invite";

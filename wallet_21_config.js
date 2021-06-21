@@ -1,1 +1,1 @@
-var mnemonic = "doctor permit subject cement earn estate father aisle rifle dawn improve sing";
+var mnemonic = "balance injury foster gravity museum bottom host salon finish horn trial object";

@@ -1,1 +1,1 @@
-var mnemonic = "hurdle rain sheriff arrange olympic imitate wrap link aunt pistol noble sing";
+var mnemonic = "mutual mystery primary enough fix develop sunny never thunder trip knock paddle";

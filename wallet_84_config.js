@@ -1,1 +1,1 @@
-var mnemonic = "woman material shoulder resource need ring spike release patient pitch flash pilot";
+var mnemonic = "shove genius board august raven diary grace risk armed adult gate educate";

@@ -1,1 +1,1 @@
-var mnemonic = "wasp hand rate waste alone blame gift then master noble idle shove";
+var mnemonic = "strike middle feed sting either gadget dial neglect direct flag useful pigeon";

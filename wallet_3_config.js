@@ -1,1 +1,1 @@
-var mnemonic = "trade column focus pill eight match breeze pet portion diamond enrich lonely";
+var mnemonic = "give present zero craft member sight next item chair rookie mansion auction";

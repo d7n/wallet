@@ -1,1 +1,1 @@
-var mnemonic = "convince silver elbow deposit title diesel festival modify creek lion slight cluster";
+var mnemonic = "scrub correct chapter scale ill rubber nephew option verb legend brave crater";

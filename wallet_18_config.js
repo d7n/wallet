@@ -1,1 +1,1 @@
-var mnemonic = "hamster pottery pupil oyster sponsor road six more resist express predict indoor";
+var mnemonic = "figure student gentle icon negative tomato switch degree ticket expose betray label";

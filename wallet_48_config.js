@@ -1,1 +1,1 @@
-var mnemonic = "pupil soft holiday position drastic diet license task code shrimp about bunker";
+var mnemonic = "notice lady monster virus inmate spawn toast animal disease luggage business jazz";

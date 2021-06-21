@@ -1,1 +1,1 @@
-var mnemonic = "resource face carry undo dolphin above carbon brass estate dad absorb drastic";
+var mnemonic = "mirror response syrup side kick monkey school galaxy beef hollow gym type";

@@ -1,1 +1,1 @@
-var mnemonic = "twist piece manual disease emotion aspect cheap object width soul chronic promote";
+var mnemonic = "torch number actual alien pair black arrive cupboard cruel fox camera arrive";

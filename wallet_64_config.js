@@ -1,1 +1,1 @@
-var mnemonic = "easy grow decade account bargain skill excite vanish broken trust flavor broken";
+var mnemonic = "very anger common scatter obvious student ceiling worth rug regular aim nose";

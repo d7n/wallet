@@ -1,1 +1,1 @@
-var mnemonic = "arctic spring jewel home motor gain open frost spell insect certain pen";
+var mnemonic = "announce like protect unaware soup force industry harvest harbor scatter luxury dad";

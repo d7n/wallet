@@ -1,1 +1,1 @@
-var mnemonic = "monster truck explain calm leave finish book camera bulk render girl phone";
+var mnemonic = "author better sense feature figure husband fork uncle quantum duck robust good";

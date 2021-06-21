@@ -1,1 +1,1 @@
-var mnemonic = "sheriff lab diet focus basket decade traffic home bread air predict opera";
+var mnemonic = "sell tower wisdom board crime pyramid change bright penalty coast protect cave";

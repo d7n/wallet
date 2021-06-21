@@ -1,1 +1,1 @@
-var mnemonic = "earth aunt verb carbon leisure various settle lottery parade dress anchor silver";
+var mnemonic = "add mean busy pluck liar alpha clean pepper gesture moon scan face";

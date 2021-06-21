@@ -1,1 +1,1 @@
-var mnemonic = "distance twin real brief ring tail usual few edit truth equip bonus";
+var mnemonic = "midnight number make kitten truck document recall this when romance erase trigger";

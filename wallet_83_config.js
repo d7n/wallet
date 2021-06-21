@@ -1,1 +1,1 @@
-var mnemonic = "resist mammal inhale soccer need dirt stamp eager angle clarify excuse legal";
+var mnemonic = "project bamboo gadget start urban slim soul awful protect frozen main field";

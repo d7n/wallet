@@ -1,1 +1,1 @@
-var mnemonic = "cross denial mango situate glimpse smoke nose jealous lion derive tool allow";
+var mnemonic = "unable barrel grace file silver because friend transfer brick execute cart embark";

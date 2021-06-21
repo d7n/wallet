@@ -1,1 +1,1 @@
-var mnemonic = "utility control submit ankle polar course cushion rapid middle bronze truly taxi";
+var mnemonic = "rain buffalo curve notice over term summer kit all grace swear brass";

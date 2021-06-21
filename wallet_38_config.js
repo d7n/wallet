@@ -1,1 +1,1 @@
-var mnemonic = "sick rebel inside carry motion visa ill flock betray master news split";
+var mnemonic = "achieve place perfect bulk typical reunion release metal prepare heart spell inherit";

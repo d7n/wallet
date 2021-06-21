@@ -1,1 +1,1 @@
-var mnemonic = "object festival doctor cake tooth shaft drum deposit hungry awkward borrow antenna";
+var mnemonic = "hover fence intact hollow chuckle search eight baby adult collect heavy blind";

@@ -1,1 +1,1 @@
-var mnemonic = "slab organ group impact lottery sausage change camera city amateur correct drastic";
+var mnemonic = "year lounge resemble panel lesson nominee scale foster wool swing loyal visual";

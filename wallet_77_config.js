@@ -1,1 +1,1 @@
-var mnemonic = "glance solve shoulder win sponsor glass life cluster tribe helmet early owner";
+var mnemonic = "vibrant clerk brisk off south gather fury win vapor figure liquid start";

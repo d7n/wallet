@@ -1,1 +1,1 @@
-var mnemonic = "glare metal coffee pet ship fault delay great upgrade later wait help";
+var mnemonic = "guilt misery rug glory digital clown plunge pool acoustic atom drama inch";

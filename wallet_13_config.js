@@ -1,1 +1,1 @@
-var mnemonic = "fashion six night nothing member ship capable history lake height area clean";
+var mnemonic = "valid catalog rail window cupboard number finger frog lava immune nice girl";

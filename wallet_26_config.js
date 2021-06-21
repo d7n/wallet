@@ -1,1 +1,1 @@
-var mnemonic = "member live gentle scout resource diet bulk identify shy describe truly phrase";
+var mnemonic = "virtual baby point claw sustain indicate jaguar ranch glass all pond praise";

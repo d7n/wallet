@@ -1,1 +1,1 @@
-var mnemonic = "lake void outside violin fitness slush mad among drastic network march prosper";
+var mnemonic = "coach ramp april arrest expand glove entry ahead wheat twin opinion human";

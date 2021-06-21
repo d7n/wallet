@@ -1,1 +1,1 @@
-var mnemonic = "gift loyal shaft fork bomb trust ripple orbit card diagram caught reward";
+var mnemonic = "indicate pair mixture silver sail pizza spare peanut smart claim marriage because";

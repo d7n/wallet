@@ -1,1 +1,1 @@
-var mnemonic = "bundle enter alarm horror slab copy steel trim lecture project strike auto";
+var mnemonic = "feel nature suffer total often regular option second noodle crime ill snow";

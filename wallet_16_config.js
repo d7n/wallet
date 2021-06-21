@@ -1,1 +1,1 @@
-var mnemonic = "traffic hip donate slush theme clinic equal discover congress test rifle prepare";
+var mnemonic = "thrive soon document arena valve three science jar already follow split book";

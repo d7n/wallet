@@ -1,1 +1,1 @@
-var mnemonic = "ridge select crumble rib guess scare inflict tribe bridge ticket culture potato";
+var mnemonic = "idle hover creek caution pair size lawsuit october silly found dolphin winter";

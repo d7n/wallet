@@ -1,1 +1,1 @@
-var mnemonic = "huge soon sustain dove bubble legal culture tower shiver humor ghost clock";
+var mnemonic = "flame relax lounge neck still flush grid damage magic peace affair unusual";

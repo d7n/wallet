@@ -1,1 +1,1 @@
-var mnemonic = "slender notice morning exist pluck script shell senior cliff craft fiscal transfer";
+var mnemonic = "spider volume normal setup detect satisfy method lemon globe system what cry";

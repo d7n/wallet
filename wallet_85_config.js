@@ -1,1 +1,1 @@
-var mnemonic = "state entry employ sword pepper rose must ring health other present deny";
+var mnemonic = "dignity exhaust team brain beach resist bridge material hole bird slam coach";

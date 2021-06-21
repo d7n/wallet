@@ -1,1 +1,1 @@
-var mnemonic = "soccer ranch sister any addict indoor outdoor system leader mad host runway";
+var mnemonic = "sock then parrot track silly crisp vehicle taste praise hello team erupt";

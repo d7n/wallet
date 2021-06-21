@@ -1,1 +1,1 @@
-var mnemonic = "ivory toilet core ritual cushion orphan demise side banner doctor orbit spatial";
+var mnemonic = "drift fatal pond skate hover below coyote offer trust damage symptom viable";

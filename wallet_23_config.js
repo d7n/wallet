@@ -1,1 +1,1 @@
-var mnemonic = "draft cook obtain baby cancel custom garden correct together submit party sea";
+var mnemonic = "dry know purchase mind live track narrow spirit they kind feel item";

@@ -1,1 +1,1 @@
-var mnemonic = "bind ceiling wink energy pigeon hungry curtain dog village jealous kite caution";
+var mnemonic = "legend bring dice dad milk rain hill hungry flag deliver flower mosquito";

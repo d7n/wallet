@@ -1,1 +1,1 @@
-var mnemonic = "just divert lunch call pond public kitchen clean fat pen tongue mimic";
+var mnemonic = "fever glad hire tomato come coin degree movie state text cousin record";

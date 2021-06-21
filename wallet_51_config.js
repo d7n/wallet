@@ -1,1 +1,1 @@
-var mnemonic = "wing skull turtle song glance burden hint mask blame card female depart";
+var mnemonic = "trade wet canyon era demise damp banner dry remember witness extra side";

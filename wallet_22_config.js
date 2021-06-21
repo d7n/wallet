@@ -1,1 +1,1 @@
-var mnemonic = "copper run indicate spirit enact joy notable game solution dynamic wasp flavor";
+var mnemonic = "earth gold chuckle mixture ranch scorpion auction top fee insane talent aunt";

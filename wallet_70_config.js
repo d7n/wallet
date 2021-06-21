@@ -1,1 +1,1 @@
-var mnemonic = "gossip grass lab toward result minor bounce hour urge seek jelly blouse";
+var mnemonic = "man oven million broken expire idle other prepare order race stay rally";
