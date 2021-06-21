@@ -1,1 +1,1 @@
-var mnemonic = "wisdom caution aspect rural stable farm ethics butter labor awake wire become";
+var mnemonic = "pencil spirit banner tourist exclude shrimp royal universe valid turkey bleak muscle";

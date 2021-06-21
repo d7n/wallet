@@ -1,1 +1,1 @@
-var mnemonic = "nest target sphere summer park weather burst sister useful beyond exhibit extra";
+var mnemonic = "mushroom staff correct pulp civil lion keep hen ability aware soccer pumpkin";

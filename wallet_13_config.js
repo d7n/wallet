@@ -1,1 +1,1 @@
-var mnemonic = "weather advance steak avocado ridge rare message blast six wash now total";
+var mnemonic = "poverty observe state dutch blouse ketchup strategy reduce bean dirt alter cloud";

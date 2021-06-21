@@ -1,1 +1,1 @@
-var mnemonic = "pet shine vicious source inside mix volume miss switch topic decline unfold";
+var mnemonic = "order conduct buddy glue craft pet wrestle tilt all gospel direct genuine";

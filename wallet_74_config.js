@@ -1,1 +1,1 @@
-var mnemonic = "brand giant hamster roast keen demand shoot rate industry trade elbow guilt";
+var mnemonic = "mimic balance clutch again source gown lady enrich fantasy hub sing gravity";

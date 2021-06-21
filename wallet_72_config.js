@@ -1,1 +1,1 @@
-var mnemonic = "ride pipe steel never advice stairs plug follow guide evil police scene";
+var mnemonic = "voice alien verify coyote loyal coconut mushroom thumb river office museum false";

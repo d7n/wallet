@@ -1,1 +1,1 @@
-var mnemonic = "clock live library vault merge winner seed slender seminar common robust holiday";
+var mnemonic = "caution together furnace digital under custom cost anchor record path cross already";

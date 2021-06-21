@@ -1,1 +1,1 @@
-var mnemonic = "syrup mean develop spatial conduct thrive thumb rebuild leaf level hazard cruel";
+var mnemonic = "rude lizard grow sleep brisk share approve abandon dawn payment figure when";

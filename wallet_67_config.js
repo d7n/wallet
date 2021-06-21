@@ -1,1 +1,1 @@
-var mnemonic = "oval train volcano dilemma memory ball drip ladder ancient mad where bunker";
+var mnemonic = "strategy input usual ketchup loan enrich disease emerge upon view delay source";

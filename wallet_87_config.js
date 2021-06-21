@@ -1,1 +1,1 @@
-var mnemonic = "brief panther couch achieve alpha wheel bonus foster close tube illegal carbon";
+var mnemonic = "initial game scale trophy play hospital stamp weird insect recipe dice tank";

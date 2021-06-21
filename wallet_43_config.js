@@ -1,1 +1,1 @@
-var mnemonic = "glance wealth crop split vibrant bleak ecology wasp force adult team trumpet";
+var mnemonic = "size almost stairs ramp loud tongue measure type push canal record index";

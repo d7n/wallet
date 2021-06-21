@@ -1,1 +1,1 @@
-var mnemonic = "bracket wrestle snap finish always dance keep bone exhibit dance neutral expand";
+var mnemonic = "toy elder tip clever anxiety thought crystal blast hobby topple eager grit";

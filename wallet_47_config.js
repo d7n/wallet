@@ -1,1 +1,1 @@
-var mnemonic = "hidden junior faith owner exist entry hole pizza universe ritual crack spirit";
+var mnemonic = "brave industry brass mechanic hazard spread shed rally scan grunt shallow antique";

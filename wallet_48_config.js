@@ -1,1 +1,1 @@
-var mnemonic = "fragile thing risk split corn shuffle exit foil summer yellow door carbon";
+var mnemonic = "rice resist adapt cage pet income again jaguar cause chicken useless neither";

@@ -1,1 +1,1 @@
-var mnemonic = "enforce elegant bachelor goat view mask wrist obtain apple adult glimpse awful";
+var mnemonic = "forum embrace plastic farm basket must vicious grass midnight mobile bonus salad";

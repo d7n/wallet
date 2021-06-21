@@ -1,1 +1,1 @@
-var mnemonic = "thrive leisure way current fine scorpion latin toss dance middle tag silly";
+var mnemonic = "client sun liar pool render hill inhale escape hawk review define army";

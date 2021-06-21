@@ -1,1 +1,1 @@
-var mnemonic = "ethics palace swim hat spread clip slide valid power thumb list sound";
+var mnemonic = "pumpkin capable maze sadness cabbage skull snack course hub north virtual mimic";

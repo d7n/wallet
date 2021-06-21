@@ -1,1 +1,1 @@
-var mnemonic = "scrap memory glove knock wing guilt truly result sail march elite away";
+var mnemonic = "little soccer frequent focus sort december crew frozen slight click boring media";

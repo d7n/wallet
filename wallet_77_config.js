@@ -1,1 +1,1 @@
-var mnemonic = "pair avoid alcohol squeeze setup denial cool ignore twist toy post genius";
+var mnemonic = "echo urge left icon torch shoulder steel august adapt sell proud artist";

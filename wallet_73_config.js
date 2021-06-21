@@ -1,1 +1,1 @@
-var mnemonic = "calm soda flip canoe amateur shoe away aware inform position sad script";
+var mnemonic = "giraffe column certain million glow maximum neutral swap special oil local test";

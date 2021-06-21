@@ -1,1 +1,1 @@
-var mnemonic = "wedding people mimic paddle tank claim agree into maze blast repair bundle";
+var mnemonic = "bonus divide castle aim purpose peasant forest truly grit off awesome citizen";

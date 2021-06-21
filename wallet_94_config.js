@@ -1,1 +1,1 @@
-var mnemonic = "carpet lesson lawn cannon dry mushroom strong border genuine arm buyer pencil";
+var mnemonic = "mimic glove cute tobacco human absurd wave grief august shadow mouse lift";

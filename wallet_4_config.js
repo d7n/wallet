@@ -1,1 +1,1 @@
-var mnemonic = "forget chunk victory bomb witness nurse special replace divorce detect news typical";
+var mnemonic = "pause reopen clinic exist news eye want witness uphold method element boy";

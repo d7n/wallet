@@ -1,1 +1,1 @@
-var mnemonic = "lend index very coral pull resist talk unveil crunch sure meat wage";
+var mnemonic = "please damage upon fruit farm myself rigid village arch design purity eight";

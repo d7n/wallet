@@ -1,1 +1,1 @@
-var mnemonic = "fade crush thrive siege bronze hawk ocean drama employ afraid sure stand";
+var mnemonic = "thing effort annual denial snap garden gaze brave history general roast ghost";

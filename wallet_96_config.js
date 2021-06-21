@@ -1,1 +1,1 @@
-var mnemonic = "park gift upper drama jump marine fog sorry empty cup palace armor";
+var mnemonic = "post turkey mistake upset find popular glare essence topple poverty gaze loop";

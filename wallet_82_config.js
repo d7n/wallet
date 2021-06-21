@@ -1,1 +1,1 @@
-var mnemonic = "state chase betray margin soon year arrest pitch page rifle kiwi pet";
+var mnemonic = "brick outer toss leisure stumble garbage spray describe flock battle skull erase";

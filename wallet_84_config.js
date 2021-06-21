@@ -1,1 +1,1 @@
-var mnemonic = "taste follow skill hybrid venture auto jelly improve orbit hurt document shallow";
+var mnemonic = "gas mechanic dawn spirit upgrade crazy filter bomb off tuna deny hockey";

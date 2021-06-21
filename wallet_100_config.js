@@ -1,1 +1,1 @@
-var mnemonic = "twin soup depend process invest face vault click tail vocal habit entire";
+var mnemonic = "elder crater jealous fortune motor world dizzy razor voice three funny few";

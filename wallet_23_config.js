@@ -1,1 +1,1 @@
-var mnemonic = "limb beef hair case trigger mixed tray humble female shed rule spread";
+var mnemonic = "employ liar pen strategy woman shaft nice erosion notice vicious arm wish";

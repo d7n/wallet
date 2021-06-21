@@ -1,1 +1,1 @@
-var mnemonic = "tube dirt artwork race kitchen drop crawl aerobic someone license vicious parrot";
+var mnemonic = "lens expect range trial cigar liberty evoke until rally mutual soon rifle";

@@ -1,1 +1,1 @@
-var mnemonic = "initial indoor antenna wisdom assault shop outdoor novel close hold funny vessel";
+var mnemonic = "assume sort jaguar donkey episode fury mind advance peanut exchange fragile coach";

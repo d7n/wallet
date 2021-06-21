@@ -1,1 +1,1 @@
-var mnemonic = "box broom inside identify float turtle social olympic ocean install oval hero";
+var mnemonic = "equal measure armor cloth useless machine surge couch arrow code time win";

@@ -1,1 +1,1 @@
-var mnemonic = "ozone useful winner choice loud enhance maid figure bulk nominee warm gorilla";
+var mnemonic = "shift sun proud region raise parent dismiss dance unknown alpha town urban";

@@ -1,1 +1,1 @@
-var mnemonic = "ranch tunnel pulse boil produce object topic advance pave figure mesh glove";
+var mnemonic = "forward absent excess quiz torch flat brain wolf blind excite unique confirm";

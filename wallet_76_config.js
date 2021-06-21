@@ -1,1 +1,1 @@
-var mnemonic = "body rate during empower bundle robot small choice alter physical armor frozen";
+var mnemonic = "length nephew eagle globe save addict alcohol traffic satisfy hurdle clinic next";

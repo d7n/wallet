@@ -1,1 +1,1 @@
-var mnemonic = "pole open draw first bind casino vote shoulder number gather capable treat";
+var mnemonic = "patrol kitten lemon hello audit know medal mail shove solid hello skill";

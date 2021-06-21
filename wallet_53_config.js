@@ -1,1 +1,1 @@
-var mnemonic = "bone tuition crumble ball find depth select bag wear author grace wrist";
+var mnemonic = "select palace minimum cupboard normal enough old extra saddle security action cattle";

@@ -1,1 +1,1 @@
-var mnemonic = "affair cat culture master move move venue mushroom habit stand aim visa";
+var mnemonic = "still mind blue awake cargo notice success verify develop disorder system cruel";

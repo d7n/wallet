@@ -1,1 +1,1 @@
-var mnemonic = "either hunt hat pen camp advance perfect curve grocery damp lawn improve";
+var mnemonic = "poem rotate deal diary short twin audit term virtual idle rubber owner";

@@ -1,1 +1,1 @@
-var mnemonic = "dust session sugar business switch kick vast together boost icon submit poem";
+var mnemonic = "enemy story glance shallow grain identify kick text elevator ordinary innocent force";

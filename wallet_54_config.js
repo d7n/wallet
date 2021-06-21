@@ -1,1 +1,1 @@
-var mnemonic = "chat alpha fence wolf cupboard mix voyage demise media near witness drift";
+var mnemonic = "curious surprise column search soap tail noise science anxiety oil surge identify";

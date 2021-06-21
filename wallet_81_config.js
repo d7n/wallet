@@ -1,1 +1,1 @@
-var mnemonic = "puzzle vivid crumble citizen pencil enact render script cat alley paper pistol";
+var mnemonic = "forum crater worry attack recipe imitate frog swallow half glide drip top";

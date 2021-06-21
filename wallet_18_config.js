@@ -1,1 +1,1 @@
-var mnemonic = "typical trumpet climb journey half annual piano enact noodle zoo supply icon";
+var mnemonic = "yellow salt pretty jump diary chat game battle cloud build track scale";

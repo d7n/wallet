@@ -1,1 +1,1 @@
-var mnemonic = "hidden shrimp length head bright few park rose update grain believe review";
+var mnemonic = "seed way rural throw melody water target off physical play frame decrease";

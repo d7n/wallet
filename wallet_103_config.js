@@ -1,1 +1,1 @@
-var mnemonic = "arena rather supreme gentle fire next tree picnic enforce party wage unfair";
+var mnemonic = "calm absent useful swallow supreme royal author crew cloth genre two tank";

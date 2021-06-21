@@ -1,1 +1,1 @@
-var mnemonic = "sponsor then market stairs knife under tuition weasel charge depart royal pony";
+var mnemonic = "sign glimpse satoshi sauce clever differ code name safe crisp milk walnut";

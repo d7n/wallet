@@ -1,1 +1,1 @@
-var mnemonic = "sustain visual genius pond first jacket robot deposit another icon hover panel";
+var mnemonic = "bring size climb chair silk ability dash broccoli purity similar into beyond";

@@ -1,1 +1,1 @@
-var mnemonic = "screen drama phrase speak casual tail weapon erupt pride either release shock";
+var mnemonic = "opera pen pill biology media razor toe burger solar anchor mass illness";

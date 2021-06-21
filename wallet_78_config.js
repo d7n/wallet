@@ -1,1 +1,1 @@
-var mnemonic = "boat theme charge idea empower light flip nation cabbage car soccer leaf";
+var mnemonic = "lake split post cage ball trim layer wire dish honey endorse film";

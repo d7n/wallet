@@ -1,1 +1,1 @@
-var mnemonic = "flash bus simple enforce mirror ordinary blind same milk picnic jacket slot";
+var mnemonic = "horror grass dish right key eight film dad scheme disease crucial thumb";

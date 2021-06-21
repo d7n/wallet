@@ -1,1 +1,1 @@
-var mnemonic = "owner cube melody hamster army absorb impulse drop hole miracle prefer identify";
+var mnemonic = "amount leave polar game manual gather buffalo budget swear flavor arctic move";

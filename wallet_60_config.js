@@ -1,1 +1,1 @@
-var mnemonic = "tenant badge cruise apology taste direct range clip junk high hedgehog top";
+var mnemonic = "vicious notable purchase spice witness potato medal gown green atom motion tower";

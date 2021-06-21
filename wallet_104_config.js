@@ -1,1 +1,1 @@
-var mnemonic = "crumble warfare catch camp february lonely inhale dry armed air space nurse";
+var mnemonic = "stuff target slim ship release grass girl blame income alert trip life";

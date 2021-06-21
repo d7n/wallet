@@ -1,1 +1,1 @@
-var mnemonic = "tiger witness drift wise must shallow dove discover blade humble bone alarm";
+var mnemonic = "dash spring middle erase chapter trim when message warfare ten kid lonely";

@@ -1,1 +1,1 @@
-var mnemonic = "same illegal express canvas case eagle animal time black crystal key head";
+var mnemonic = "twenty buyer stamp atom mistake sudden imitate cover arm girl bounce invest";

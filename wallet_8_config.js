@@ -1,1 +1,1 @@
-var mnemonic = "diet final coconut shine excess radar priority parrot ignore volcano explain candy";
+var mnemonic = "mosquito clarify fiscal before scorpion moral dose spot nuclear vivid inform error";

@@ -1,1 +1,1 @@
-var mnemonic = "cargo embark defy make orange such absurd alpha tunnel fluid isolate choose";
+var mnemonic = "library capable banner veteran diamond order notable romance onion mother cabbage bachelor";

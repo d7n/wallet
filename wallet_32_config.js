@@ -1,1 +1,1 @@
-var mnemonic = "save alert tuna wrestle flag neck craft clay ordinary company degree scrub";
+var mnemonic = "tone window sound there laugh father drastic frown orient canvas assume power";

@@ -1,1 +1,1 @@
-var mnemonic = "earn burst grant total tail obtain kingdom master exile copy floor match";
+var mnemonic = "shift view deposit answer horse radar settle antique slush youth spray hill";

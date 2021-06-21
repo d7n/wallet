@@ -1,1 +1,1 @@
-var mnemonic = "emotion solve scorpion marine margin situate coconut stool saddle pact outside nation";
+var mnemonic = "woman canyon sweet where boy ramp forum jar host gloom equip hole";

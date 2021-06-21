@@ -1,1 +1,1 @@
-var mnemonic = "layer shed truck february basket pride mutual airport diet kiwi absurd around";
+var mnemonic = "husband inch salon blade bag fold cry age model hard shove cash";

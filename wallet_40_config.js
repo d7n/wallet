@@ -1,1 +1,1 @@
-var mnemonic = "maximum web trophy aisle later drama sing phone helmet observe average jar";
+var mnemonic = "gather green document knife magic wasp elegant goose sentence foster high gorilla";

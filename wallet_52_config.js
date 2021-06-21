@@ -1,1 +1,1 @@
-var mnemonic = "erosion brave nephew link electric embark decline oil butter permit idea luggage";
+var mnemonic = "trust half awkward crush frequent all bike kiss art fantasy filter armor";

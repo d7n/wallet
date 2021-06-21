@@ -1,1 +1,1 @@
-var mnemonic = "picnic life legend call split you bind number object flee close mystery";
+var mnemonic = "enable tag acoustic wool able jacket index fury sun step alarm job";

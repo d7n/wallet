@@ -1,1 +1,1 @@
-var mnemonic = "loop book matrix maze bounce sample movie act episode diary culture sun";
+var mnemonic = "regular endorse elevator issue news garment begin core borrow sun vibrant mechanic";

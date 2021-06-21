@@ -1,1 +1,1 @@
-var mnemonic = "raise burst actual panel elephant depart liberty flee marble giggle where divert";
+var mnemonic = "clever escape result custom purse stock unfair season spider female cabin loan";

@@ -1,1 +1,1 @@
-var mnemonic = "abandon pottery artist arch toilet inherit swift focus ramp acoustic victory tube";
+var mnemonic = "awkward inherit sniff stone initial enrich piano kitten critic lawsuit result garment";

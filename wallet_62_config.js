@@ -1,1 +1,1 @@
-var mnemonic = "winter same always kid myself cruise gadget brain march quiz ribbon snow";
+var mnemonic = "moment trust space vibrant ocean brain object foot scatter public library close";

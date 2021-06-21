@@ -1,1 +1,1 @@
-var mnemonic = "easily creek kite recycle happy course sponsor push equal indicate moral ski";
+var mnemonic = "cereal easily model enlist tortoise absent anchor bulk other assist same payment";

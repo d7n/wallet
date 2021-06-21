@@ -1,1 +1,1 @@
-var mnemonic = "entry dance know rate satisfy initial denial sell quarter project visa vehicle";
+var mnemonic = "direct torch human despair toy vacant camera rice true cup sketch reduce";

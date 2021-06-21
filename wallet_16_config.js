@@ -1,1 +1,1 @@
-var mnemonic = "chase visa desert crumble salon behind cannon dune reduce caught protect dilemma";
+var mnemonic = "funny upon process fee prepare inspire hire all object waste plastic lazy";

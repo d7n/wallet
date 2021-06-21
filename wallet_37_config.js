@@ -1,1 +1,1 @@
-var mnemonic = "enact swamp sail hammer elevator estate snow mother regular depend solar will";
+var mnemonic = "member inmate shrimp napkin lab trend glance traffic rhythm remember lumber act";

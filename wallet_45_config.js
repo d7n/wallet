@@ -1,1 +1,1 @@
-var mnemonic = "unveil mouse behind umbrella exhibit fatal violin citizen flame catalog kingdom hire";
+var mnemonic = "cruise today flame tragic artwork negative brand trumpet peanut what seven inmate";

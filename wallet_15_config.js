@@ -1,1 +1,1 @@
-var mnemonic = "buffalo action mention resist shy umbrella mail asset display violin boat omit";
+var mnemonic = "key unveil beef jar congress random match crane source want sun make";

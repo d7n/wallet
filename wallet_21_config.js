@@ -1,1 +1,1 @@
-var mnemonic = "rival bag evolve forest same burden room wine bird salon hungry increase";
+var mnemonic = "window web put gas same ribbon fish around promote winter grain hawk";

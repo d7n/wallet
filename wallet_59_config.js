@@ -1,1 +1,1 @@
-var mnemonic = "kiwi upset large polar tray execute cigar shoot luxury long print doctor";
+var mnemonic = "will midnight drink time movie spare toe shift identify jaguar soldier couch";

@@ -1,1 +1,1 @@
-var mnemonic = "engage employ team bomb hood survey bronze thank decide web chief parrot";
+var mnemonic = "use buzz submit album reflect indoor night harbor stuff equal gentle error";

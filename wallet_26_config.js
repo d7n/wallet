@@ -1,1 +1,1 @@
-var mnemonic = "daring palm dice husband inmate code love card segment behind ankle install";
+var mnemonic = "glow small melody timber result rich true whale moral tunnel skirt damp";

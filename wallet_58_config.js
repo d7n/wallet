@@ -1,1 +1,1 @@
-var mnemonic = "mean fence lion snow venue similar potato quit wrist joy drastic electric";
+var mnemonic = "recipe favorite dizzy matrix regular forum protect barrel churn author air guide";

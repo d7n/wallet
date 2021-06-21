@@ -1,1 +1,1 @@
-var mnemonic = "frost engage clip feature later top dish art sustain gym century impulse";
+var mnemonic = "truck uncle shine virtual south bonus guitar sustain winner describe merge harsh";

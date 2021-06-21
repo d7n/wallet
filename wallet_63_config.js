@@ -1,1 +1,1 @@
-var mnemonic = "snap child bubble unique differ caught setup doll across arctic warm heavy";
+var mnemonic = "this train twin surface involve myself assault airport voice describe toast basic";

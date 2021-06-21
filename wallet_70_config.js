@@ -1,1 +1,1 @@
-var mnemonic = "crop bless certain possible memory initial quality inside supreme bleak document royal";
+var mnemonic = "grass basic once work distance toy february utility lens suggest chef trick";

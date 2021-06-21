@@ -1,1 +1,1 @@
-var mnemonic = "edge require other speak trim adjust short logic guess talk various noodle";
+var mnemonic = "balcony spawn fetch noble clog extra relax hockey example corn spider skate";

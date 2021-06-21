@@ -1,1 +1,1 @@
-var mnemonic = "film among legend floor scissors uniform injury broccoli disease market cargo reflect";
+var mnemonic = "apple torch avocado athlete future relax six brown manage drink pulp faculty";

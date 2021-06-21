@@ -1,1 +1,1 @@
-var mnemonic = "possible ketchup lonely medal loan farm goat seminar charge track flavor sting";
+var mnemonic = "coconut female phrase payment raven moon smart gown apology multiply tape cactus";

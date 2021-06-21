@@ -1,1 +1,1 @@
-var mnemonic = "humor pretty detect swift another burden item hammer slide tent library slim";
+var mnemonic = "envelope book rail possible lecture car tiger click provide crouch relief oil";

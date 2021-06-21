@@ -1,1 +1,1 @@
-var mnemonic = "height strike cinnamon crush woman hollow orient blood horror ancient step clip";
+var mnemonic = "brisk gap burden test hurdle lottery brisk never anxiety cruel label impulse";

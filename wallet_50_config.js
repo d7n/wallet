@@ -1,1 +1,1 @@
-var mnemonic = "much antique tube burger sadness bind clump access swap cross twelve rare";
+var mnemonic = "fresh company size moral roof crucial exhaust bind cradle stick office wolf";

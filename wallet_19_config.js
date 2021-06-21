@@ -1,1 +1,1 @@
-var mnemonic = "solution bench original autumn figure discover hire apart subject hidden current clean";
+var mnemonic = "steak erupt open goat equip suit wait cheese company together canyon palace";

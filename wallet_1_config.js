@@ -1,1 +1,1 @@
-var mnemonic = "risk scale stamp world critic defense spice someone sort sponsor supreme never";
+var mnemonic = "market two margin belt beauty damp enhance improve alcohol vicious man guess";

@@ -1,1 +1,1 @@
-var mnemonic = "grief question neutral unusual anxiety gas rose orbit manual affair share way";
+var mnemonic = "first marble orphan bag search nominee album very ivory iron meat chat";

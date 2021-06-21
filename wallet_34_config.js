@@ -1,1 +1,1 @@
-var mnemonic = "insane jump sponsor upgrade dirt solar actress topple dad depend high alert";
+var mnemonic = "mercy naive fold walk spare give admit erode path lunar route cradle";

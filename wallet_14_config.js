@@ -1,1 +1,1 @@
-var mnemonic = "rebel during canoe squirrel flush drip click bind monster clock blur number";
+var mnemonic = "lonely polar goat sadness orchard census squeeze undo edge jaguar catalog habit";

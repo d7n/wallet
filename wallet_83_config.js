@@ -1,1 +1,1 @@
-var mnemonic = "panic average blame insane dream require parrot horror seed universe ugly prepare";
+var mnemonic = "snack visa mosquito patrol mirror match parade push fossil congress obscure bachelor";
