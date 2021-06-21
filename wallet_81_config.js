@@ -1,1 +1,1 @@
-var mnemonic = "company topic absent inch common tomorrow old regular fluid enroll curious skirt";
+var mnemonic = "adjust knee have genre upset stumble struggle course inside fuel day group";

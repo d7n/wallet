@@ -1,1 +1,1 @@
-var mnemonic = "hunt obscure body dream ski come liberty logic proud orbit hair demise";
+var mnemonic = "hold comic acquire clock move cement primary easily survey fabric novel cluster";

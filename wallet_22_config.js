@@ -1,1 +1,1 @@
-var mnemonic = "supreme trash caution peasant confirm own initial famous vintage what swim humor";
+var mnemonic = "pull maid canoe cable script wealth scare tray dance vault pill lemon";

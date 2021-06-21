@@ -1,1 +1,1 @@
-var mnemonic = "ugly bonus jacket scatter quarter image there noble dinosaur delay broom clay";
+var mnemonic = "practice pool laugh glance pipe suggest chase bright defense matrix craft final";

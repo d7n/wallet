@@ -1,1 +1,1 @@
-var mnemonic = "laptop bridge rely gasp loop slide youth monitor regret cup hub since";
+var mnemonic = "file edge income become gather bacon husband oven dizzy detail music trap";

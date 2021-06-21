@@ -1,1 +1,1 @@
-var mnemonic = "column episode news salt nephew chimney elegant umbrella interest left clip couple";
+var mnemonic = "always tail trick dress sign below assist warfare nest analyst expose page";

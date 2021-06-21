@@ -1,1 +1,1 @@
-var mnemonic = "avoid toss album axis cook limb distance pig boss grow puppy dial";
+var mnemonic = "excuse autumn remember parade horn girl hair story chat round fork borrow";

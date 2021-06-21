@@ -1,1 +1,1 @@
-var mnemonic = "equip humor clever assault crowd solve learn crash become adjust magic gym";
+var mnemonic = "hole game snap ticket skull session battle simple arch kingdom guess brand";

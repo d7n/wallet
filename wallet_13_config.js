@@ -1,1 +1,1 @@
-var mnemonic = "flag trade satisfy rescue hungry extra expect attitude wolf flip analyst cherry";
+var mnemonic = "truck staff assist clump group ridge pistol satoshi okay volume garage clarify";

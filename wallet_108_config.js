@@ -1,1 +1,1 @@
-var mnemonic = "memory ladder property acquire bonus fit drift liberty current fury circle weather";
+var mnemonic = "pencil put cluster file tell make blind ski erode skin taste expire";

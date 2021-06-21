@@ -1,1 +1,1 @@
-var mnemonic = "brush route sport hand feed teach cigar rice page rate school lens";
+var mnemonic = "secret unable meat evil share throw eyebrow trumpet base draft onion stairs";

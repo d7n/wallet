@@ -1,1 +1,1 @@
-var mnemonic = "swim health tunnel wrap travel public boy urban slow aware sell ginger";
+var mnemonic = "bar ride paddle hamster couch supply unaware follow excess column good knife";

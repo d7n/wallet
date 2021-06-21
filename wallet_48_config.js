@@ -1,1 +1,1 @@
-var mnemonic = "possible era penalty equal slot away hurdle place sheriff inmate sustain derive";
+var mnemonic = "danger hip position shrimp consider fun legal ostrich people ostrich true bid";

@@ -1,1 +1,1 @@
-var mnemonic = "desk demand quality glare festival mushroom father mango setup hurry neck truck";
+var mnemonic = "inmate spoon tenant play focus rubber more rail pact town artwork auction";

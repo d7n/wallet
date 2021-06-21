@@ -1,1 +1,1 @@
-var mnemonic = "coach casual general explain insane favorite kick jelly multiply enroll twin siege";
+var mnemonic = "stereo tower camera pulse climb swift outdoor diary exit rich various reason";

@@ -1,1 +1,1 @@
-var mnemonic = "antenna dream valve piece invite mix work smoke wheat enrich soon runway";
+var mnemonic = "dolphin peace vibrant biology legend shaft sure uniform train note orange burger";

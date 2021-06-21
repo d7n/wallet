@@ -1,1 +1,1 @@
-var mnemonic = "capital iron later crane sponsor core focus slice escape tiny mosquito else";
+var mnemonic = "enemy cave cluster mirror eyebrow salon element key analyst recycle crystal symbol";

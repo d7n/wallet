@@ -1,1 +1,1 @@
-var mnemonic = "tobacco embody artefact final candy toward combine tumble work error december wait";
+var mnemonic = "forget stock since era abuse timber mixed salmon host section spy blade";

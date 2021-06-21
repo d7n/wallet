@@ -1,1 +1,1 @@
-var mnemonic = "obscure nature rotate frown exhaust access grab shock squirrel bridge night crack";
+var mnemonic = "aspect staff allow pitch usual guard stone maple benefit monkey neck secret";

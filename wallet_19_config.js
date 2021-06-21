@@ -1,1 +1,1 @@
-var mnemonic = "much plate rib crisp table replace pencil dish chapter middle excess artwork";
+var mnemonic = "march boring salon tonight embrace jazz tumble grass hungry rude venue verb";

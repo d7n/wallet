@@ -1,1 +1,1 @@
-var mnemonic = "fantasy lens inner pause they awful predict door forward april slush main";
+var mnemonic = "summer attack grain myself history hand traffic segment just height wear rent";

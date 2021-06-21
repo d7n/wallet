@@ -1,1 +1,1 @@
-var mnemonic = "eight arena open vast song cattle body despair around boss story title";
+var mnemonic = "tray kit airport dash harbor oblige merry often find public version grid";

@@ -1,1 +1,1 @@
-var mnemonic = "zoo rubber spice elegant source pond display slender autumn cargo walnut vibrant";
+var mnemonic = "finish final state slender pupil soul strong number pave easy glad favorite";

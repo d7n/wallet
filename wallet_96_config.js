@@ -1,1 +1,1 @@
-var mnemonic = "purse valve exile click repeat indicate hero grape issue dragon source oxygen";
+var mnemonic = "keep control suffer world practice primary horn dust father ski mule fatigue";

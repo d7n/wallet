@@ -1,1 +1,1 @@
-var mnemonic = "involve just hair pupil spice fruit stage slush monkey such grit hungry";
+var mnemonic = "scale biology swap metal habit there pyramid kind solution combine satisfy own";

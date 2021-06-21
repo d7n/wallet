@@ -1,1 +1,1 @@
-var mnemonic = "curious argue expose diesel cement snow rose rare enough useless such acid";
+var mnemonic = "quit purchase casual nice figure disorder ritual trade mammal half chronic ozone";

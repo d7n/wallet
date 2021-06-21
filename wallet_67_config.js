@@ -1,1 +1,1 @@
-var mnemonic = "security nasty sand inflict spring crack giraffe useful badge lens lens duty";
+var mnemonic = "victory interest slow end cave lounge adapt action act happy fatigue dose";

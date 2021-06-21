@@ -1,1 +1,1 @@
-var mnemonic = "exotic lottery detail attitude flush excess fragile insane spring pig later differ";
+var mnemonic = "disease laugh episode axis rubber vanish include junior tunnel harsh mushroom struggle";

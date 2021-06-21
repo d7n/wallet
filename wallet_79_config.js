@@ -1,1 +1,1 @@
-var mnemonic = "live school dad benefit result know normal tail equip flee clip action";
+var mnemonic = "divide stairs sun little scheme shove good paddle luxury panel pulp sense";

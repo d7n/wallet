@@ -1,1 +1,1 @@
-var mnemonic = "parade wolf shoulder economy exercise kitten plunge midnight century okay oak exit";
+var mnemonic = "sauce rubber donkey floor bargain pipe idle addict impose nerve seed acquire";

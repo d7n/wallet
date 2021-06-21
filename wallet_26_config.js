@@ -1,1 +1,1 @@
-var mnemonic = "flower fossil electric flip gallery kitten slide finish soon bag diet unhappy";
+var mnemonic = "nephew spirit mammal plate throw violin sand hurt usual peanut arm settle";

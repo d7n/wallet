@@ -1,1 +1,1 @@
-var mnemonic = "margin gun drive crowd harvest idle slide inquiry cement outside dizzy illegal";
+var mnemonic = "budget taste icon blast junior bag lemon someone another boss episode tide";

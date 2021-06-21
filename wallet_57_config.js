@@ -1,1 +1,1 @@
-var mnemonic = "bring horn quiz firm donate rapid sketch art travel conduct nominee supply";
+var mnemonic = "duty scare grit absent involve empower live clutch bullet express range digital";

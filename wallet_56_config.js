@@ -1,1 +1,1 @@
-var mnemonic = "layer rookie link walnut sign student balcony upper rug absorb dry cluster";
+var mnemonic = "calm casino asset medal feature rate ocean clock violin mystery leader slice";

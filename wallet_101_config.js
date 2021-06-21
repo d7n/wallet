@@ -1,1 +1,1 @@
-var mnemonic = "mobile plunge title lonely viable upgrade involve measure cattle tower tunnel produce";
+var mnemonic = "habit fetch appear collect weasel vote wing wrap minor nurse method unfair";

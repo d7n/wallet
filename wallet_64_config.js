@@ -1,1 +1,1 @@
-var mnemonic = "language bonus defy course present gun banner have life puzzle cheese leopard";
+var mnemonic = "hurry earth cloud swap alcohol artist modify sun material dial ball unveil";

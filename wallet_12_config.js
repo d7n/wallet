@@ -1,1 +1,1 @@
-var mnemonic = "amused dolphin tourist defense trap rocket evidence cargo festival sunny kitten crucial";
+var mnemonic = "maximum crazy fantasy couch repeat express powder hard neglect room absent shift";

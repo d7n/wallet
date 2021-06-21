@@ -1,1 +1,1 @@
-var mnemonic = "word shoot token second dog sense achieve express over rule half cereal";
+var mnemonic = "outer entry film sound round cement poverty animal swing vast merge envelope";

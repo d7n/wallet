@@ -1,1 +1,1 @@
-var mnemonic = "penalty oyster stadium damage eight together across van envelope fiscal juice pear";
+var mnemonic = "chair arena melody evolve egg remember bachelor drum coin submit beyond pudding";

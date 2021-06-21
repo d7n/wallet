@@ -1,1 +1,1 @@
-var mnemonic = "auto shield renew trial produce around renew feature dream web betray east";
+var mnemonic = "oppose weird across message response sense strong motion shift alien woman announce";

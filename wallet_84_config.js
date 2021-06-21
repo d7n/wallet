@@ -1,1 +1,1 @@
-var mnemonic = "road broom pink happy filter stool robot silk actress trade evoke love";
+var mnemonic = "win trouble bonus oak negative stay fit drip genre tortoise invest risk";

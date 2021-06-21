@@ -1,1 +1,1 @@
-var mnemonic = "maze lonely middle cruel accident coach goddess home dizzy victory card reform";
+var mnemonic = "minute mechanic leg flat decorate torch picture will include monitor obtain switch";

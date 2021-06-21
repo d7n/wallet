@@ -1,1 +1,1 @@
-var mnemonic = "pyramid hour memory better east hint mimic trial snap hunt isolate elevator";
+var mnemonic = "wish dismiss now swing suit limit body husband angle dumb equal drive";

@@ -1,1 +1,1 @@
-var mnemonic = "domain eye team husband lesson car auction dress rich pave fruit wave";
+var mnemonic = "destroy box reflect write wool guitar broccoli waste clip scare wild ahead";

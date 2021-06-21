@@ -1,1 +1,1 @@
-var mnemonic = "interest team picnic someone promote rude famous coyote spoon gold elegant hair";
+var mnemonic = "green want much siege special chief expose fiber opinion rich weapon embrace";

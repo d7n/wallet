@@ -1,1 +1,1 @@
-var mnemonic = "just remind fiscal culture advice merry planet stumble strategy wasp avocado universe";
+var mnemonic = "pen world youth adjust photo loud shield produce stock enable danger state";

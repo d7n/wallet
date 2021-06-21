@@ -1,1 +1,1 @@
-var mnemonic = "carry unable device urban soccer lock december fringe stick ice urge couple";
+var mnemonic = "boil radar poem syrup decade trap lend oval year drill oppose include";

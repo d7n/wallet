@@ -1,1 +1,1 @@
-var mnemonic = "stuff tell net kiwi inhale glance blur member govern prison jazz unknown";
+var mnemonic = "casino ready favorite vintage tower flush pet evidence galaxy link shrimp valve";

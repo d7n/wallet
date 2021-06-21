@@ -1,1 +1,1 @@
-var mnemonic = "fancy slim charge runway moral panel vicious struggle judge doll rubber cruise";
+var mnemonic = "dress fury detail need depend venue alert marine divert hidden pave used";

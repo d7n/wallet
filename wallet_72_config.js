@@ -1,1 +1,1 @@
-var mnemonic = "gallery analyst enforce forget prevent praise party tennis pause march liar luxury";
+var mnemonic = "gadget baby talk orchard rough service render rail cargo ignore dust settle";

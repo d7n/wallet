@@ -1,1 +1,1 @@
-var mnemonic = "cook during moment adapt ginger tomato desert seven message horse awkward crop";
+var mnemonic = "erase invite stadium witness deer brass embody pony buyer tobacco remember catalog";

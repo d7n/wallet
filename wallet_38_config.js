@@ -1,1 +1,1 @@
-var mnemonic = "onion hunt armed finger neither cupboard science approve cart stumble trophy armor";
+var mnemonic = "boy margin silly room guess digital river steak omit grow three again";

@@ -1,1 +1,1 @@
-var mnemonic = "uniform theory flush people combine enemy device between exile wedding sausage uniform";
+var mnemonic = "surprise song entry pepper furnace make age turtle any gift inspire problem";

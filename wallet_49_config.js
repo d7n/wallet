@@ -1,1 +1,1 @@
-var mnemonic = "unaware galaxy piano decrease beef advice tonight purpose crouch repeat camera response";
+var mnemonic = "arrange sting vault key refuse music lab pretty present turn symptom vivid";

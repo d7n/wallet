@@ -1,1 +1,1 @@
-var mnemonic = "swallow firm display hybrid useless survey update evil used entry snack cabin";
+var mnemonic = "stuff pond buzz clarify arena affair side dash tiny wet copper reward";

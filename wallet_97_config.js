@@ -1,1 +1,1 @@
-var mnemonic = "unusual pyramid around crowd ramp rice tube oyster road dumb stick pear";
+var mnemonic = "detail artist pluck cave ripple token spice casino can early clown cargo";

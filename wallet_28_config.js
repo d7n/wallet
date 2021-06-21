@@ -1,1 +1,1 @@
-var mnemonic = "need rally gravity peace across resist insect salon claim endless speak artist";
+var mnemonic = "woman omit valve bench evil only kitten tonight eight helmet leave bulb";

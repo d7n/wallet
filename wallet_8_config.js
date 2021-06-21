@@ -1,1 +1,1 @@
-var mnemonic = "amused weasel blue stairs gain glory leave slice alpha problem sugar excess";
+var mnemonic = "lesson wet federal taste until bracket melt hello amazing panic stove weird";

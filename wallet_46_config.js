@@ -1,1 +1,1 @@
-var mnemonic = "congress salmon moral program hamster clinic trip worry near nothing laundry heart";
+var mnemonic = "power copy sport toe smile final salmon science spawn notice rhythm still";

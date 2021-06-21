@@ -1,1 +1,1 @@
-var mnemonic = "fox attend artwork pond aerobic disease entire detail biology person pride story";
+var mnemonic = "tired distance rice fabric edit submit empower loyal coast buyer gown empower";

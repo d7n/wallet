@@ -1,1 +1,1 @@
-var mnemonic = "letter ecology minor lizard orange insane leisure fresh range notice give bright";
+var mnemonic = "copy tongue expire myself street airport pipe october copper speed vacant vocal";

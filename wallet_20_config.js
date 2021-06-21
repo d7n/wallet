@@ -1,1 +1,1 @@
-var mnemonic = "lady rent curve trim describe enforce crowd gate ball impose banana prison";
+var mnemonic = "rule tomato wealth unable ball girl lounge point midnight hidden enjoy sock";

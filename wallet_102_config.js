@@ -1,1 +1,1 @@
-var mnemonic = "beyond meat frost awful edge adult inject source swap credit margin hill";
+var mnemonic = "rural retreat clog wish tiger afraid attract jewel addict emerge east delay";

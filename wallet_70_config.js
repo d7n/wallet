@@ -1,1 +1,1 @@
-var mnemonic = "glad actual control price wedding saddle aisle siege analyst will rug midnight";
+var mnemonic = "sick ridge talent select original forward brush canyon someone potato credit stem";

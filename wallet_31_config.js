@@ -1,1 +1,1 @@
-var mnemonic = "panel artwork tail awful thing swarm draft elevator dinner leg person number";
+var mnemonic = "cluster future ability above monkey patch exotic leader talk rival search click";

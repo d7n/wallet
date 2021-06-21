@@ -1,1 +1,1 @@
-var mnemonic = "dumb reason supreme have giraffe also gift fun finish nut grass accuse";
+var mnemonic = "win kind wolf slide distance impulse dirt good liberty penalty genius hunt";

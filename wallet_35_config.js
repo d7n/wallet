@@ -1,1 +1,1 @@
-var mnemonic = "loud essay cattle explain canal junior auction essence endorse slogan daughter science";
+var mnemonic = "else wish boy cross work sorry recall mobile candy tomorrow swing buyer";

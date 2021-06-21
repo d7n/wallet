@@ -1,1 +1,1 @@
-var mnemonic = "evil busy obtain bench worth shove level faith antique agent calm nerve";
+var mnemonic = "shoe age tilt route message path amount custom issue deer swallow treat";

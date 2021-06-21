@@ -1,1 +1,1 @@
-var mnemonic = "misery thrive drum pause fade cram profit tree buyer gate same report";
+var mnemonic = "excite quarter suit lucky spring tortoise zoo naive project unable catch remind";

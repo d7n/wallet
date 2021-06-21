@@ -1,1 +1,1 @@
-var mnemonic = "card genius people mango hand suggest ceiling valley level govern gown then";
+var mnemonic = "stick banana spread fatigue want city bench truth coffee copper body drama";

@@ -1,1 +1,1 @@
-var mnemonic = "genuine over test horn elbow judge silk swamp trim hawk lobster intact";
+var mnemonic = "wife winter barrel unfair section laptop keep clarify recipe volume exchange worry";

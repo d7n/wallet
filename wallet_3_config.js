@@ -1,1 +1,1 @@
-var mnemonic = "nasty couple road submit oak surface pen stadium feature destroy share critic";
+var mnemonic = "glare stuff tide mosquito detect flight truth matter label van pond idle";

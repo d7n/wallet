@@ -1,1 +1,1 @@
-var mnemonic = "shell garden mother outdoor auction gaze female blood deny range brain never";
+var mnemonic = "eagle option suit nominee decrease record hand liar joke leopard ensure brick";

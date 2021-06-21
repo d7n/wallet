@@ -1,1 +1,1 @@
-var mnemonic = "cherry joy fever brother bench easily trick bottom power advance rack address";
+var mnemonic = "regular border valve popular mesh sell very pencil note inch wave drill";

@@ -1,1 +1,1 @@
-var mnemonic = "parade insane board beauty erode salad right razor uncle swim dinosaur seed";
+var mnemonic = "jewel kitchen swift crouch snake token today home eager spy hazard bounce";

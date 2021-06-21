@@ -1,1 +1,1 @@
-var mnemonic = "guitar denial catch upset sad open uniform wagon fatigue drop ceiling nominee";
+var mnemonic = "bird athlete entire fox sick absurd park door melody wire veteran bamboo";

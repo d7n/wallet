@@ -1,1 +1,1 @@
-var mnemonic = "fog student spatial daughter uncle piece kit ethics still zoo bid army";
+var mnemonic = "nest swallow rather awful bulb six yard find tool core random whisper";

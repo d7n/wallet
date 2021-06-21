@@ -1,1 +1,1 @@
-var mnemonic = "oyster senior curve grit purity nerve buddy clip olympic girl tunnel deer";
+var mnemonic = "frozen arm grit pyramid genius judge pass honey brother track lyrics aim";

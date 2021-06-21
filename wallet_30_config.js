@@ -1,1 +1,1 @@
-var mnemonic = "neglect siege cannon industry enemy muffin powder dignity crowd away language bike";
+var mnemonic = "shop release quick place scrap shrug skate tank stick alcohol during nothing";

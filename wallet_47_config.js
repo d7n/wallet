@@ -1,1 +1,1 @@
-var mnemonic = "small leave license burden fresh rubber chapter bike middle steak build cool";
+var mnemonic = "recycle fiscal length wink pear cricket avocado mixed shove naive wear inflict";

@@ -1,1 +1,1 @@
-var mnemonic = "version decrease cabbage peanut measure defense scout rice problem elegant shadow buddy";
+var mnemonic = "rather cry turtle error vanish strategy little analyst mimic frost flat relief";

@@ -1,1 +1,1 @@
-var mnemonic = "there hockey horror left hurry anchor virus glory doll captain repair soup";
+var mnemonic = "merry together soft dice hip miss joke short wet warfare peasant polar";

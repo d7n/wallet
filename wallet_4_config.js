@@ -1,1 +1,1 @@
-var mnemonic = "chaos victory orange style once wild carbon summer gun sting renew group";
+var mnemonic = "solar finish certain valve repair shoulder spawn gas ankle hair present strong";

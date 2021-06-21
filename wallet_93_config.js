@@ -1,1 +1,1 @@
-var mnemonic = "rose exclude clock travel obtain oven length shoot second foam innocent trick";
+var mnemonic = "sleep glance barely upset use finish reunion imitate slide course treat certain";

@@ -1,1 +1,1 @@
-var mnemonic = "iron pass term lucky power echo concert snake ozone jealous kitchen frozen";
+var mnemonic = "section cattle remind cram net prosper lava dinosaur dash boat dragon broken";

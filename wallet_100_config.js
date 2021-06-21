@@ -1,1 +1,1 @@
-var mnemonic = "vote oyster pupil update total cave switch toilet position push govern cabbage";
+var mnemonic = "ill sense enlist almost armed breeze december similar acoustic friend talk fee";

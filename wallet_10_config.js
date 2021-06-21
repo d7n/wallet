@@ -1,1 +1,1 @@
-var mnemonic = "damp lunch tail try movie excuse lumber crop wear disorder idea enrich";
+var mnemonic = "bulb legal fiber forget doll bargain hockey banana fade category when cable";

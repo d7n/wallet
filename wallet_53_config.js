@@ -1,1 +1,1 @@
-var mnemonic = "once fee adapt collect oak social verify glimpse need craft fade model";
+var mnemonic = "main sea train exclude chef wrist fame gather priority inject siege embody";

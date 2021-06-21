@@ -1,1 +1,1 @@
-var mnemonic = "copy file report notice luxury tongue decrease into urge nuclear quick path";
+var mnemonic = "mask hidden tenant unknown know bird survey category gaze hospital clinic bunker";

@@ -1,1 +1,1 @@
-var mnemonic = "castle element unknown galaxy myth dilemma snap basic gift loop asset grunt";
+var mnemonic = "pulse romance vacuum loan civil mind eight problem axis summer acoustic lion";

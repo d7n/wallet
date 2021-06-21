@@ -1,1 +1,1 @@
-var mnemonic = "into buyer file erosion grit eight entire shuffle illness puzzle spike size";
+var mnemonic = "expose syrup aisle convince mandate gossip sauce kingdom voyage route absorb junk";
