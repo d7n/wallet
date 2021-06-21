@@ -1,1 +1,1 @@
-var mnemonic = "spawn raw elevator pride found trend pyramid daring middle doctor note surface";
+var mnemonic = "tuition grocery truly finger twice fold jewel mutual pony arrive swarm good";

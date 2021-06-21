@@ -1,1 +1,1 @@
-var mnemonic = "orange battle letter glance horse keep orange multiply syrup act jacket else";
+var mnemonic = "dose lyrics mansion fit interest ranch leader hybrid similar guilt husband kangaroo";

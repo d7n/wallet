@@ -1,1 +1,1 @@
-var mnemonic = "since obscure pull where still elegant love kind immune move lazy toilet";
+var mnemonic = "warm wood april early jealous wife hybrid toilet dune frost poverty pledge";

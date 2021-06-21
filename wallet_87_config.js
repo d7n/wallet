@@ -1,1 +1,1 @@
-var mnemonic = "sock proud silk engine claim quiz police piano all employ series escape";
+var mnemonic = "company tourist impose submit gorilla crop sport fresh gate satisfy blue time";

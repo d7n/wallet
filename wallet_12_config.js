@@ -1,1 +1,1 @@
-var mnemonic = "assume success submit exclude slim doctor jelly snake mutual boy chapter normal";
+var mnemonic = "possible pull mass exile couple brush innocent original plate clean one jelly";

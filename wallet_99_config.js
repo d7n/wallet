@@ -1,1 +1,1 @@
-var mnemonic = "black leg vital attract survey garage civil metal begin learn grocery develop";
+var mnemonic = "brain mansion gorilla vote hockey pencil guard wine opinion lyrics nurse run";

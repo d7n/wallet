@@ -1,1 +1,1 @@
-var mnemonic = "state curtain coil borrow fancy endless february describe lucky choose board normal";
+var mnemonic = "vessel economy appear bonus cousin course lobster inform caution join manage host";

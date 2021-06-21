@@ -1,1 +1,1 @@
-var mnemonic = "stand choose combine army recipe trick acid myself copy attitude frozen glide";
+var mnemonic = "gorilla february live eyebrow symbol step copy bird supply media shallow confirm";

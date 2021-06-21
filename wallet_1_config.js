@@ -1,1 +1,1 @@
-var mnemonic = "palm gospel amount slice sheriff mass swear banana slogan artwork zone mail";
+var mnemonic = "avocado oxygen puppy pen ginger screen season salad midnight mass fabric hedgehog";

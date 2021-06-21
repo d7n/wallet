@@ -1,1 +1,1 @@
-var mnemonic = "credit multiply onion garage own client acoustic weasel prefer cattle muffin buddy";
+var mnemonic = "fantasy minor annual human isolate behave soldier surround beach upset fit liquid";

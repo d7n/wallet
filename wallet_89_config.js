@@ -1,1 +1,1 @@
-var mnemonic = "replace trap example hood crush discover benefit nasty april wife route whale";
+var mnemonic = "busy scare snap round endorse eagle hour hotel fossil cage rare grunt";

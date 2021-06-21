@@ -1,1 +1,1 @@
-var mnemonic = "heart benefit attitude giant layer liberty drift next word typical venue elegant";
+var mnemonic = "what royal time remain choose shoot rate february dice curve dumb permit";

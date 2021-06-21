@@ -1,1 +1,1 @@
-var mnemonic = "balance immune two split eight nerve pony family bundle topic faint offer";
+var mnemonic = "nominee outside body photo genuine mammal fire flavor trick capable pulse casino";

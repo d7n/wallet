@@ -1,1 +1,1 @@
-var mnemonic = "aisle dog sniff science indoor crash miss prepare beef trophy normal normal";
+var mnemonic = "alter knife green stamp brain spot foam choose across clean chef box";

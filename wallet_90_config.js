@@ -1,1 +1,1 @@
-var mnemonic = "hunt anger famous wrestle sweet spy earn captain hospital table muscle symptom";
+var mnemonic = "limit antenna athlete real hold poet brand kidney pave alley split decrease";

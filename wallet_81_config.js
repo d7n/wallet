@@ -1,1 +1,1 @@
-var mnemonic = "hill crowd fog seed trick pulse mountain wage west curtain test bag";
+var mnemonic = "artwork sudden scrub exile pattern square another aware average tuition fox square";

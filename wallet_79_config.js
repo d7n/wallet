@@ -1,1 +1,1 @@
-var mnemonic = "crew fish scrub dirt bracket goose rigid cupboard disease retreat maple present";
+var mnemonic = "lumber merge genre hour casual toy father open attend flavor ladder expect";

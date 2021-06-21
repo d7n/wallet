@@ -1,1 +1,1 @@
-var mnemonic = "slab rocket rapid off surround loan tissue squirrel law almost then boring";
+var mnemonic = "muffin major always modify glance slush hurdle control nice vote timber common";

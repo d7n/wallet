@@ -1,1 +1,1 @@
-var mnemonic = "artefact weather sorry milk expire fun clarify behave aerobic struggle garlic grace";
+var mnemonic = "wire lunch stick border zero risk action shuffle private reunion snow cactus";

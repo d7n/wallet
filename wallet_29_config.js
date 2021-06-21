@@ -1,1 +1,1 @@
-var mnemonic = "item snake gospel castle remain impulse fat fan share miss angle reduce";
+var mnemonic = "major daring seed love bone wrong real item receive soul way axis";

@@ -1,1 +1,1 @@
-var mnemonic = "saddle favorite dad certain super method creek hire fence seminar people fun";
+var mnemonic = "initial any intact village filter pilot visa fire mule deal peanut planet";

@@ -1,1 +1,1 @@
-var mnemonic = "fold setup math nuclear betray essence puppy venture version soup lounge dirt";
+var mnemonic = "canvas age test surge always define goat measure aisle autumn people bulk";

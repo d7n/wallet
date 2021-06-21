@@ -1,1 +1,1 @@
-var mnemonic = "merge warrior mix speed piano earn bulb toy build recall barely cotton";
+var mnemonic = "jewel polar diet cost stumble warm income cheap fitness finish then stage";

@@ -1,1 +1,1 @@
-var mnemonic = "include primary sad drift cheap hidden amazing advice wild sphere drastic misery";
+var mnemonic = "joke planet barely boy ignore seed crash position absent spirit exchange skirt";

@@ -1,1 +1,1 @@
-var mnemonic = "fancy pet drift sock smooth exclude question movie trouble movie pen dinosaur";
+var mnemonic = "glimpse swing public suit zero worth hire patient wolf beauty connect axis";

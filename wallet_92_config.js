@@ -1,1 +1,1 @@
-var mnemonic = "hood victory tunnel spike mass best innocent chronic problem park radar expire";
+var mnemonic = "seven trip dwarf shock shrug educate series climb general liar oil spice";

@@ -1,1 +1,1 @@
-var mnemonic = "brass junk able vivid coffee sausage demise nature grief upset city bind";
+var mnemonic = "nation proof dune tape provide hammer broom skirt remind equal turn color";

@@ -1,1 +1,1 @@
-var mnemonic = "find barrel federal type river slogan woman sail very salt praise you";
+var mnemonic = "arrest destroy liquid dilemma follow come buyer visual coral quiz father dismiss";

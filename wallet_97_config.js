@@ -1,1 +1,1 @@
-var mnemonic = "ribbon defense motion calm near adapt noise trip unable glow hover keen";
+var mnemonic = "vicious search pear slim gap enlist crucial absent chapter april ghost good";

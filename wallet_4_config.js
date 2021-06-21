@@ -1,1 +1,1 @@
-var mnemonic = "chat essay little venue best relax pottery seek punch model debris shrimp";
+var mnemonic = "cattle width pride between skirt biology tattoo success melody dance quit picnic";

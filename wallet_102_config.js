@@ -1,1 +1,1 @@
-var mnemonic = "kid hole include have vague rain crew super defy minimum avocado boring";
+var mnemonic = "future buzz bind skill evoke rail account wash theme wash matter match";

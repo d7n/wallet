@@ -1,1 +1,1 @@
-var mnemonic = "tail vehicle gather juice exhaust sign punch spawn great mixed tag stool";
+var mnemonic = "split above say erase snack veteran shoe goddess dream alpha nephew bread";

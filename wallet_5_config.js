@@ -1,1 +1,1 @@
-var mnemonic = "grocery wrestle dial blouse ordinary decorate skate floor around person ability wing";
+var mnemonic = "hard cruel dolphin course window science scheme goose festival garment month miracle";

@@ -1,1 +1,1 @@
-var mnemonic = "void deputy taste opera cruise token wagon hair tray snake grass slam";
+var mnemonic = "stool quality palm grass require dream taxi toe win item waste credit";

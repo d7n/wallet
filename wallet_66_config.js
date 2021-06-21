@@ -1,1 +1,1 @@
-var mnemonic = "wash kid bounce where room gather luggage kite survey nice south alter";
+var mnemonic = "voice meadow under tackle fossil clog slide ceiling speak artefact aim gravity";

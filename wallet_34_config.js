@@ -1,1 +1,1 @@
-var mnemonic = "relief spot favorite gain question lens kit oblige reason aspect loan hello";
+var mnemonic = "fiction job ticket memory doll blue grid degree tattoo online patch sure";

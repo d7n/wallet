@@ -1,1 +1,1 @@
-var mnemonic = "timber calm bounce crystal cereal give confirm tone burger decrease lawsuit risk";
+var mnemonic = "script fold rare sudden still castle give neck honey skill useful used";

@@ -1,1 +1,1 @@
-var mnemonic = "fabric pudding lottery gaze cube asset eight success prosper sure exhibit uphold";
+var mnemonic = "option evil elder youth fit drama load moral voice floor abstract tone";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry steel symptom gift glow legend margin physical alarm hood wear reform";
+var mnemonic = "over style clinic payment boil talk usual help oil crew youth best";

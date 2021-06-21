@@ -1,1 +1,1 @@
-var mnemonic = "river normal cabin enter junk vault walk belt quote hospital bunker vanish";
+var mnemonic = "wreck song total observe scrub zebra wrong insect eager sunny fiscal license";

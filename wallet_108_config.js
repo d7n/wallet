@@ -1,1 +1,1 @@
-var mnemonic = "mirror drastic receive excuse edit battle public child strategy arctic autumn usage";
+var mnemonic = "final eagle before trigger doll raw tool nut rescue river destroy oak";

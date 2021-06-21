@@ -1,1 +1,1 @@
-var mnemonic = "shuffle song much bachelor arrow victory shield great health ketchup horse shoot";
+var mnemonic = "develop shrimp poverty change prevent error decline minimum jungle erupt borrow sail";

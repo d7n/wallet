@@ -1,1 +1,1 @@
-var mnemonic = "kit lottery wall sphere code expose dinner river emerge steak asset fire";
+var mnemonic = "emotion squirrel record nation push disease price tape easily utility cause accuse";

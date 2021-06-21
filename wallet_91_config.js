@@ -1,1 +1,1 @@
-var mnemonic = "true combine wet tennis ugly kite champion clever jungle this morning title";
+var mnemonic = "vehicle embody chimney cupboard six social drift era century forum unaware timber";

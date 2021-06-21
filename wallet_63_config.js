@@ -1,1 +1,1 @@
-var mnemonic = "swarm outdoor whisper vintage tone super fence glass flat dwarf thumb dawn";
+var mnemonic = "olympic age cause deposit between much dove unknown payment forum fall insect";

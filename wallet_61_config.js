@@ -1,1 +1,1 @@
-var mnemonic = "village away rubber time current rebel excess crisp economy hobby mule umbrella";
+var mnemonic = "solar spot fatigue work cute together sauce curtain ancient enhance fabric arrange";

@@ -1,1 +1,1 @@
-var mnemonic = "denial harbor jelly bitter pyramid truth powder silent hockey female enrich bid";
+var mnemonic = "banana symbol pet bottom squirrel lumber junior emotion draft hand inside maple";

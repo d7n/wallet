@@ -1,1 +1,1 @@
-var mnemonic = "secret detail movie again cup bone resemble pizza cement venture word fresh";
+var mnemonic = "sing song clog elite property luxury dismiss reform rhythm popular tell tray";

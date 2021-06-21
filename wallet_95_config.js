@@ -1,1 +1,1 @@
-var mnemonic = "legal uncle party junk dumb gain wise example yellow brother host bring";
+var mnemonic = "aspect arrow harsh twice spice raw borrow involve segment glove seed bird";

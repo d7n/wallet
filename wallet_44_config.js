@@ -1,1 +1,1 @@
-var mnemonic = "fiscal blush pretty pupil dinosaur obey push captain wood metal canoe guide";
+var mnemonic = "portion deliver scissors foil conduct charge oppose play quote will bone sun";

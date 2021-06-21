@@ -1,1 +1,1 @@
-var mnemonic = "credit route menu athlete myth gown general tissue emotion zoo stable weird";
+var mnemonic = "finger dinner swarm kitten ribbon sadness scheme antique bird point custom tomato";

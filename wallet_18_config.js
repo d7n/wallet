@@ -1,1 +1,1 @@
-var mnemonic = "family perfect entry borrow rug liberty heart harbor game upper bone wedding";
+var mnemonic = "perfect rapid surround level creek fog puzzle capable network cry pudding spell";

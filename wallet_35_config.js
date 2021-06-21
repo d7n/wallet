@@ -1,1 +1,1 @@
-var mnemonic = "horn base chimney loop glove play husband east bag defense trend shrimp";
+var mnemonic = "indoor giggle violin toast scare scatter cannon wage forum reveal cloth moral";

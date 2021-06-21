@@ -1,1 +1,1 @@
-var mnemonic = "receive rally egg exotic pulp angry aisle mango tornado wheel pink swing";
+var mnemonic = "leg warm sadness rice reform cargo cradle east armor weasel comic ball";

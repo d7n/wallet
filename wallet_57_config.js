@@ -1,1 +1,1 @@
-var mnemonic = "fatigue simple rich spray wheel animal burden catalog endorse omit submit aim";
+var mnemonic = "essay spawn captain perfect common artwork street special garage often strategy letter";

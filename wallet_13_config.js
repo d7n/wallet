@@ -1,1 +1,1 @@
-var mnemonic = "border cruel rack indicate fine bar dignity enforce frequent bunker endorse lazy";
+var mnemonic = "dentist tilt dress bounce kangaroo rail scene father pyramid observe setup armed";

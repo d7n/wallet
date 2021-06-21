@@ -1,1 +1,1 @@
-var mnemonic = "piano version abandon duty parent wisdom measure funny minute survey catch useful";
+var mnemonic = "group track nasty ability lunar board youth night dust tide effort crunch";

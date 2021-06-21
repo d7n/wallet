@@ -1,1 +1,1 @@
-var mnemonic = "people cotton garage unhappy melt engage smile disease ramp candy razor spawn";
+var mnemonic = "retire brief reduce rule gain elephant liar dry person fabric morning problem";

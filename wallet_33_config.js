@@ -1,1 +1,1 @@
-var mnemonic = "april deputy embark exile hold trash tuna join mansion crane grant excess";
+var mnemonic = "couple canoe chalk october bacon amused express bonus arctic base town remember";

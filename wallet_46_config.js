@@ -1,1 +1,1 @@
-var mnemonic = "thank orbit visa narrow slogan code lyrics rather glance top pulse forum";
+var mnemonic = "brisk warfare vacuum taxi there analyst razor mystery ready mutual stereo mercy";

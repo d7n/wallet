@@ -1,1 +1,1 @@
-var mnemonic = "device blur mixed pool rebel person you call blame detect essay decrease";
+var mnemonic = "volume fever end measure dirt empower wisdom close author strategy doll delay";

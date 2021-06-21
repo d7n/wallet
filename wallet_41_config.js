@@ -1,1 +1,1 @@
-var mnemonic = "toss radio satoshi three october end arctic annual proof plug unknown visa";
+var mnemonic = "armor oblige guilt state burst hammer retire romance animal filter ball victory";

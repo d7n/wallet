@@ -1,1 +1,1 @@
-var mnemonic = "carpet smart kitten fancy siren census half original develop move skin garment";
+var mnemonic = "village jump unveil dress achieve zoo emerge bone page awful over grunt";

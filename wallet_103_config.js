@@ -1,1 +1,1 @@
-var mnemonic = "under hamster window jelly judge cram man oblige tumble sausage youth brass";
+var mnemonic = "maximum winter dwarf maid possible raw exchange arrow rack capable panic cart";

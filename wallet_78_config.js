@@ -1,1 +1,1 @@
-var mnemonic = "hen work hello text blush frost ripple bachelor donor demise detect exhibit";
+var mnemonic = "rally heavy occur allow dinosaur later tone critic idea like learn kite";

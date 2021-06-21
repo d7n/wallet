@@ -1,1 +1,1 @@
-var mnemonic = "tomato head praise dilemma consider surge essence weather update day climb obvious";
+var mnemonic = "cushion bless safe crack next beef hour tank left inquiry about music";

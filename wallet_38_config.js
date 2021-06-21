@@ -1,1 +1,1 @@
-var mnemonic = "turtle tattoo offer mail robust buzz blanket rapid lumber drink pony book";
+var mnemonic = "gap shop paddle upgrade kitten weapon word lucky business nature strong sausage";

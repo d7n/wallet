@@ -1,1 +1,1 @@
-var mnemonic = "warm famous develop finger round faith blood liar crack umbrella hill achieve";
+var mnemonic = "toast seminar train game depend hundred prevent animal market welcome sample response";

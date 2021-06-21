@@ -1,1 +1,1 @@
-var mnemonic = "gain swarm sure pioneer convince want base trouble crush science anchor stairs";
+var mnemonic = "fancy into whisper gaze key sight deny matter army audit virus brother";

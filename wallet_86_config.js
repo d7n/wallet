@@ -1,1 +1,1 @@
-var mnemonic = "release aerobic snack spoil chef attack mango vote sorry river useful primary";
+var mnemonic = "lens federal transfer about rent enroll voice find brother minute page tip";

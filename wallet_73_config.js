@@ -1,1 +1,1 @@
-var mnemonic = "consider sail decorate vault bench action mix mass narrow ready web flip";
+var mnemonic = "wise engine survey tuna fit shoe rely depend else wolf will ceiling";

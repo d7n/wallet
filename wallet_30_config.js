@@ -1,1 +1,1 @@
-var mnemonic = "know today debate plate announce glove false camp increase quantum absorb make";
+var mnemonic = "anger deposit ahead toast cheese charge arrow ready voyage wasp great surge";

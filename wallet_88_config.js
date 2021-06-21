@@ -1,1 +1,1 @@
-var mnemonic = "exclude plunge flip tone dad congress grass nerve make throw update mosquito";
+var mnemonic = "worry sentence dolphin pistol chunk unlock wing adapt emerge model leopard castle";

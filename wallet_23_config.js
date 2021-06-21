@@ -1,1 +1,1 @@
-var mnemonic = "domain embody disorder cabin state dirt phrase same crouch upon travel sample";
+var mnemonic = "retreat truck tired lawsuit question tone manual cram silent disorder enrich side";

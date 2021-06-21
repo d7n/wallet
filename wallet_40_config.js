@@ -1,1 +1,1 @@
-var mnemonic = "elephant mouse demand amused drop grief key feature food method acquire motion";
+var mnemonic = "drop away gravity leaf neither know move lottery garbage spot truth praise";

@@ -1,1 +1,1 @@
-var mnemonic = "apart way banana lady vehicle fragile entry first diesel knife cliff favorite";
+var mnemonic = "possible grace vote sheriff under you pill spider female response chief brown";

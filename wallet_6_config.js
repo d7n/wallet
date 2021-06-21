@@ -1,1 +1,1 @@
-var mnemonic = "boss illegal enemy strike fold fever morning cook expire hurry exercise eager";
+var mnemonic = "crane exotic visual enough broccoli abuse toss decline alley negative sense silver";

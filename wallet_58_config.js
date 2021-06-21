@@ -1,1 +1,1 @@
-var mnemonic = "topple find hidden visual inflict lazy acquire lab crucial unhappy baby inch";
+var mnemonic = "frequent come civil age genius divorce alpha despair fancy puzzle report mask";

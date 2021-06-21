@@ -1,1 +1,1 @@
-var mnemonic = "impose raise sister employ feed funny whip near people asthma deliver pipe";
+var mnemonic = "flee okay wrist miss praise general vault dash nominee reveal since second";

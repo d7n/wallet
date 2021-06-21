@@ -1,1 +1,1 @@
-var mnemonic = "spatial gap illness ozone route basic ten divide rude ginger universe shop";
+var mnemonic = "equal vapor illness myself green excite ceiling smart adapt shrimp jungle animal";

@@ -1,1 +1,1 @@
-var mnemonic = "mutual uniform memory solid shove unlock enhance neutral sorry click retire decline";
+var mnemonic = "ivory practice stamp eager main merge dumb menu twenty absurd cigar trade";

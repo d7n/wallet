@@ -1,1 +1,1 @@
-var mnemonic = "assume notice carry month song entire pitch wool canyon spike analyst age";
+var mnemonic = "mean squirrel emotion say road silver palace emotion energy hurdle license advice";

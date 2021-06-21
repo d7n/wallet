@@ -1,1 +1,1 @@
-var mnemonic = "second narrow camera muffin appear whale bottom coyote elder gold zoo gospel";
+var mnemonic = "autumn music weird couch country exchange hurt royal shell write tent fat";

@@ -1,1 +1,1 @@
-var mnemonic = "surface blade book violin dynamic force bring float alarm upgrade accident secret";
+var mnemonic = "degree invite acid sail camera amateur title rhythm armed amateur merge expect";

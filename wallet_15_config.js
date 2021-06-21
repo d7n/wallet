@@ -1,1 +1,1 @@
-var mnemonic = "crew connect foam gold boil glance uphold boring notable swamp spell angle";
+var mnemonic = "diagram mixed unusual obtain jungle dream desert cluster song junior donkey brave";

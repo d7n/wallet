@@ -1,1 +1,1 @@
-var mnemonic = "repeat lake dune bachelor ostrich evil glance finish once cereal need predict";
+var mnemonic = "rhythm grit six bread affair differ future arrest bundle must state latin";
