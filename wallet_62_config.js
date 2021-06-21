@@ -1,1 +1,1 @@
-var mnemonic = "inner level picnic taxi ripple switch tree one faint asset confirm wire";
+var mnemonic = "winter same always kid myself cruise gadget brain march quiz ribbon snow";

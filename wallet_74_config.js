@@ -1,1 +1,1 @@
-var mnemonic = "dragon cart chef patrol blanket wrap health invest draft expand ginger inspire";
+var mnemonic = "brand giant hamster roast keen demand shoot rate industry trade elbow guilt";

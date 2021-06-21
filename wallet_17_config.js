@@ -1,1 +1,1 @@
-var mnemonic = "small two curtain frequent able energy toe urban chimney hundred enroll brush";
+var mnemonic = "syrup mean develop spatial conduct thrive thumb rebuild leaf level hazard cruel";

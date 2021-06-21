@@ -1,1 +1,1 @@
-var mnemonic = "public document bullet fiction alarm deny brisk practice sport bargain airport present";
+var mnemonic = "weather advance steak avocado ridge rare message blast six wash now total";

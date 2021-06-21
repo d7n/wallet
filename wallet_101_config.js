@@ -1,1 +1,1 @@
-var mnemonic = "resource edit offer gasp orbit verify attract scissors gasp produce discover vapor";
+var mnemonic = "grief question neutral unusual anxiety gas rose orbit manual affair share way";

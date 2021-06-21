@@ -1,1 +1,1 @@
-var mnemonic = "turtle zero hold mass melody infant dust math casino immune device number";
+var mnemonic = "diet final coconut shine excess radar priority parrot ignore volcano explain candy";

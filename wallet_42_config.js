@@ -1,1 +1,1 @@
-var mnemonic = "alarm mention guilt all expect income issue heart draw life glad type";
+var mnemonic = "nest target sphere summer park weather burst sister useful beyond exhibit extra";

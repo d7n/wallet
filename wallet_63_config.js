@@ -1,1 +1,1 @@
-var mnemonic = "vote satoshi hammer genius decline legal pact net together pottery hollow coach";
+var mnemonic = "snap child bubble unique differ caught setup doll across arctic warm heavy";

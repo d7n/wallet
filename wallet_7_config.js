@@ -1,1 +1,1 @@
-var mnemonic = "mad kitten rare sentence drift basket economy cruel mammal tomato idea person";
+var mnemonic = "enforce elegant bachelor goat view mask wrist obtain apple adult glimpse awful";

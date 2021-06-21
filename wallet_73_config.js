@@ -1,1 +1,1 @@
-var mnemonic = "frog trial inspire direct bullet nasty energy bridge solar bag cement mistake";
+var mnemonic = "calm soda flip canoe amateur shoe away aware inform position sad script";

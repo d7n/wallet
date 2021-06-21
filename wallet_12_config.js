@@ -1,1 +1,1 @@
-var mnemonic = "disorder occur chicken flee original anchor fluid crazy twenty gap cruel below";
+var mnemonic = "ethics palace swim hat spread clip slide valid power thumb list sound";

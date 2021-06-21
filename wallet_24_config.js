@@ -1,1 +1,1 @@
-var mnemonic = "dirt ridge jeans nuclear photo off capable garlic cycle bulb cause rural";
+var mnemonic = "wedding people mimic paddle tank claim agree into maze blast repair bundle";

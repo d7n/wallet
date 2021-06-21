@@ -1,1 +1,1 @@
-var mnemonic = "cement voice laugh remain detail obvious banana quick later saddle wool trend";
+var mnemonic = "silent bomb debris basket sell mule bitter pistol radar toddler maximum find";

@@ -1,1 +1,1 @@
-var mnemonic = "hen glance ticket base hold recall elegant genuine valid maple tourist food";
+var mnemonic = "chase visa desert crumble salon behind cannon dune reduce caught protect dilemma";

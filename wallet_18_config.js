@@ -1,1 +1,1 @@
-var mnemonic = "car vast green anger alley foam lesson rare brown slow globe target";
+var mnemonic = "typical trumpet climb journey half annual piano enact noodle zoo supply icon";

@@ -1,1 +1,1 @@
-var mnemonic = "marble verify spell sign fantasy garden letter duty ball proof stamp pulse";
+var mnemonic = "forget chunk victory bomb witness nurse special replace divorce detect news typical";

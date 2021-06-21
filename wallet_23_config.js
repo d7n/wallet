@@ -1,1 +1,1 @@
-var mnemonic = "bus elite whisper visa stumble library corn elite palace soft orbit easy";
+var mnemonic = "limb beef hair case trigger mixed tray humble female shed rule spread";

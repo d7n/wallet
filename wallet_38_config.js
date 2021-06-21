@@ -1,1 +1,1 @@
-var mnemonic = "box staff salute air twenty beyond label ship mother rent sock fatigue";
+var mnemonic = "dragon advice more grief rally tide series topic pool owner faith cliff";

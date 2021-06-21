@@ -1,1 +1,1 @@
-var mnemonic = "inherit piece vicious galaxy merit puzzle eternal switch code calm venture trigger";
+var mnemonic = "picnic life legend call split you bind number object flee close mystery";

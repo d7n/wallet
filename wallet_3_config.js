@@ -1,1 +1,1 @@
-var mnemonic = "response appear tuna more wrong already will famous dismiss miss unit cabbage";
+var mnemonic = "entry dance know rate satisfy initial denial sell quarter project visa vehicle";

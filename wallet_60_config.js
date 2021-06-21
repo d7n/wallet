@@ -1,1 +1,1 @@
-var mnemonic = "coil muffin hen destroy buddy exotic desert system shallow thank wide detail";
+var mnemonic = "tenant badge cruise apology taste direct range clip junk high hedgehog top";

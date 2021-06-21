@@ -1,1 +1,1 @@
-var mnemonic = "creek tube wild swing motor skull harsh adult strike short good lawn";
+var mnemonic = "earn burst grant total tail obtain kingdom master exile copy floor match";

@@ -1,1 +1,1 @@
-var mnemonic = "web door report hero measure step excite choice absurd prevent slam turtle";
+var mnemonic = "bone tuition crumble ball find depth select bag wear author grace wrist";

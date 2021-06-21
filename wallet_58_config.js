@@ -1,1 +1,1 @@
-var mnemonic = "shallow turtle inmate ask perfect funny glove control squirrel orient casual organ";
+var mnemonic = "mean fence lion snow venue similar potato quit wrist joy drastic electric";

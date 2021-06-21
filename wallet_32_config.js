@@ -1,1 +1,1 @@
-var mnemonic = "shove foam now fork faculty armor sibling quote civil push portion survey";
+var mnemonic = "save alert tuna wrestle flag neck craft clay ordinary company degree scrub";

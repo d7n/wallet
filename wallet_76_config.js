@@ -1,1 +1,1 @@
-var mnemonic = "crowd inspire report pact city stomach above what view radio school brain";
+var mnemonic = "body rate during empower bundle robot small choice alter physical armor frozen";

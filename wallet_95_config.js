@@ -1,1 +1,1 @@
-var mnemonic = "execute creek taste round put east teach edit garbage emotion chef slot";
+var mnemonic = "thrive leisure way current fine scorpion latin toss dance middle tag silly";

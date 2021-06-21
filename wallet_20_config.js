@@ -1,1 +1,1 @@
-var mnemonic = "bag solve faculty mammal buddy bubble jacket group cave depend diamond olive";
+var mnemonic = "cargo embark defy make orange such absurd alpha tunnel fluid isolate choose";

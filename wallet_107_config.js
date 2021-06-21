@@ -1,1 +1,1 @@
-var mnemonic = "insect wasp afford gas giraffe fold because master broccoli differ hurry crew";
+var mnemonic = "sphere ceiling give hen draft blue order cable glad bird siren pizza";

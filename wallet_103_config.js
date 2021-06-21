@@ -1,1 +1,1 @@
-var mnemonic = "pink wrong finger swim explain youth meadow satoshi antique rate thing hockey";
+var mnemonic = "arena rather supreme gentle fire next tree picnic enforce party wage unfair";

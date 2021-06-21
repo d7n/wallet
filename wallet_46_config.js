@@ -1,1 +1,1 @@
-var mnemonic = "wreck useless almost pause train wear science sauce post welcome plastic glue";
+var mnemonic = "either hunt hat pen camp advance perfect curve grocery damp lawn improve";

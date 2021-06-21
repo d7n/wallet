@@ -1,1 +1,1 @@
-var mnemonic = "sock marriage lottery task chat blood label banner recycle devote omit street";
+var mnemonic = "ranch tunnel pulse boil produce object topic advance pave figure mesh glove";

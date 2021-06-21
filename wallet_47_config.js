@@ -1,1 +1,1 @@
-var mnemonic = "this minimum equip drama chest slide unveil tooth polar position west bleak";
+var mnemonic = "hidden junior faith owner exist entry hole pizza universe ritual crack spirit";

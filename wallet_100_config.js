@@ -1,1 +1,1 @@
-var mnemonic = "album fold cricket auction gorilla weapon awkward valid twist coach mother drama";
+var mnemonic = "twin soup depend process invest face vault click tail vocal habit entire";

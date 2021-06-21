@@ -1,1 +1,1 @@
-var mnemonic = "pulse wear claw embody layer once emotion shoot glimpse network account horn";
+var mnemonic = "abandon pottery artist arch toilet inherit swift focus ramp acoustic victory tube";

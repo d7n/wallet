@@ -1,1 +1,1 @@
-var mnemonic = "describe beyond dish ticket impose summer join talent stay wheel inquiry better";
+var mnemonic = "fade crush thrive siege bronze hawk ocean drama employ afraid sure stand";

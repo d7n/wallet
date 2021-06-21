@@ -1,1 +1,1 @@
-var mnemonic = "sad raw rate power embark alarm small color culture gather business whisper";
+var mnemonic = "hidden shrimp length head bright few park rose update grain believe review";

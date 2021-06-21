@@ -1,1 +1,1 @@
-var mnemonic = "achieve hat ceiling napkin pony august romance coin hybrid bunker worth orient";
+var mnemonic = "crop bless certain possible memory initial quality inside supreme bleak document royal";

@@ -1,1 +1,1 @@
-var mnemonic = "define acid actor host disease sense bulk junk dove expand benefit owner";
+var mnemonic = "sponsor then market stairs knife under tuition weasel charge depart royal pony";

@@ -1,1 +1,1 @@
-var mnemonic = "soul cigar sudden female soap giggle orbit social tornado sponsor fold future";
+var mnemonic = "enact swamp sail hammer elevator estate snow mother regular depend solar will";

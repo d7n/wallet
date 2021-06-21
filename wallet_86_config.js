@@ -1,1 +1,1 @@
-var mnemonic = "labor ready shop angry remind mouse mobile trial bounce pelican border noodle";
+var mnemonic = "tiger witness drift wise must shallow dove discover blade humble bone alarm";

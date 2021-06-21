@@ -1,1 +1,1 @@
-var mnemonic = "vintage exit pink torch purchase into legend regret soap mercy truth another";
+var mnemonic = "flash bus simple enforce mirror ordinary blind same milk picnic jacket slot";

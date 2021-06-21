@@ -1,1 +1,1 @@
-var mnemonic = "scrap noble large return adjust change cluster rubber parade credit van kiwi";
+var mnemonic = "kiwi upset large polar tray execute cigar shoot luxury long print doctor";

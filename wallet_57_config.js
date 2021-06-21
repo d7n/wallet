@@ -1,1 +1,1 @@
-var mnemonic = "change wink blush tackle glue insane train mammal toe trade regular involve";
+var mnemonic = "owner cube melody hamster army absorb impulse drop hole miracle prefer identify";

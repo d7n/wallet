@@ -1,1 +1,1 @@
-var mnemonic = "elephant snake can estate vintage minute crew tide away memory happy mango";
+var mnemonic = "layer shed truck february basket pride mutual airport diet kiwi absurd around";

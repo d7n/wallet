@@ -1,1 +1,1 @@
-var mnemonic = "hello country neglect asset draw recipe misery degree hire lonely broccoli truly";
+var mnemonic = "analyst assault crumble goose quit firm awake bachelor cruise praise genuine cabbage";

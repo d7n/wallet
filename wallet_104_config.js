@@ -1,1 +1,1 @@
-var mnemonic = "creek pretty ten twist ginger modify viable response donkey wrong lamp salute";
+var mnemonic = "crumble warfare catch camp february lonely inhale dry armed air space nurse";

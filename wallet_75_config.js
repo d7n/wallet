@@ -1,1 +1,1 @@
-var mnemonic = "fit sword spy oppose park test soft bracket gravity eagle release tongue";
+var mnemonic = "humor pretty detect swift another burden item hammer slide tent library slim";

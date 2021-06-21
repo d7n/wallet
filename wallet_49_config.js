@@ -1,1 +1,1 @@
-var mnemonic = "security clock emerge nose obscure vicious machine crane weather swift mind spatial";
+var mnemonic = "loop book matrix maze bounce sample movie act episode diary culture sun";

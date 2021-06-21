@@ -1,1 +1,1 @@
-var mnemonic = "voice defy aerobic amateur trade essence alter mutual eternal drink exercise mobile";
+var mnemonic = "height strike cinnamon crush woman hollow orient blood horror ancient step clip";

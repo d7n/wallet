@@ -1,1 +1,1 @@
-var mnemonic = "absorb vendor zone glimpse order address nice review surprise odor hint decrease";
+var mnemonic = "panic average blame insane dream require parrot horror seed universe ugly prepare";

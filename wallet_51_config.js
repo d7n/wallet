@@ -1,1 +1,1 @@
-var mnemonic = "change neither become mansion play one mix wall foot appear raise clock";
+var mnemonic = "castle captain knee border outside kingdom abandon birth under swap history zone";

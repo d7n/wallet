@@ -1,1 +1,1 @@
-var mnemonic = "buzz jeans beef recipe execute wave annual toilet proof forum parade glance";
+var mnemonic = "boat theme charge idea empower light flip nation cabbage car soccer leaf";

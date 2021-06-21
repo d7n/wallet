@@ -1,1 +1,1 @@
-var mnemonic = "sell pony what defense veteran lobster boat uphold axis ancient veteran smooth";
+var mnemonic = "few bike benefit cake clog thumb indicate erase gospel essence language urge";

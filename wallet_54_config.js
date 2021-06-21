@@ -1,1 +1,1 @@
-var mnemonic = "fox grocery horse wine south require tribe void nose arrange usual squirrel";
+var mnemonic = "chat alpha fence wolf cupboard mix voyage demise media near witness drift";

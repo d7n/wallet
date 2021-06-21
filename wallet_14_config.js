@@ -1,1 +1,1 @@
-var mnemonic = "reform hold result attract decline enemy hidden enter marble blade ramp loan";
+var mnemonic = "rebel during canoe squirrel flush drip click bind monster clock blur number";

@@ -1,1 +1,1 @@
-var mnemonic = "opera attack couch raven bus leaf pistol actor shine region small spider";
+var mnemonic = "puzzle vivid crumble citizen pencil enact render script cat alley paper pistol";

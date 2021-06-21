@@ -1,1 +1,1 @@
-var mnemonic = "sausage health cinnamon interest weasel total orphan kiwi blade vanish reflect tooth";
+var mnemonic = "risk scale stamp world critic defense spice someone sort sponsor supreme never";

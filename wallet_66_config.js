@@ -1,1 +1,1 @@
-var mnemonic = "floor giant follow margin rigid memory minimum guitar exhaust movie smooth glory";
+var mnemonic = "easily creek kite recycle happy course sponsor push equal indicate moral ski";

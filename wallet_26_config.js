@@ -1,1 +1,1 @@
-var mnemonic = "section there moral conduct avocado pottery apology sand impact flavor submit tilt";
+var mnemonic = "daring palm dice husband inmate code love card segment behind ankle install";

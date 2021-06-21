@@ -1,1 +1,1 @@
-var mnemonic = "stay inch uncle loyal problem document place unfold cushion fossil pigeon engage";
+var mnemonic = "solution bench original autumn figure discover hire apart subject hidden current clean";

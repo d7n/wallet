@@ -1,1 +1,1 @@
-var mnemonic = "found minor endless fluid pulse test tunnel trash idle snow shell word";
+var mnemonic = "pole open draw first bind casino vote shoulder number gather capable treat";

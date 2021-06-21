@@ -1,1 +1,1 @@
-var mnemonic = "salon spin service glance hurry host cruel display tide kiwi velvet earn";
+var mnemonic = "initial indoor antenna wisdom assault shop outdoor novel close hold funny vessel";

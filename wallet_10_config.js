@@ -1,1 +1,1 @@
-var mnemonic = "noodle cream gas consider earth caution human alien right syrup timber detail";
+var mnemonic = "affair cat culture master move move venue mushroom habit stand aim visa";

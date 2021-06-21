@@ -1,1 +1,1 @@
-var mnemonic = "great vault labor glimpse scene dry dinosaur super parrot young switch ridge";
+var mnemonic = "pet shine vicious source inside mix volume miss switch topic decline unfold";

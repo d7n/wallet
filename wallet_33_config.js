@@ -1,1 +1,1 @@
-var mnemonic = "input marriage stereo ship museum polar update absent december point gospel camp";
+var mnemonic = "emotion solve scorpion marine margin situate coconut stool saddle pact outside nation";

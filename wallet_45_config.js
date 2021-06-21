@@ -1,1 +1,1 @@
-var mnemonic = "sugar pink awful burger wagon snack pool level approve soon govern ride";
+var mnemonic = "unveil mouse behind umbrella exhibit fatal violin citizen flame catalog kingdom hire";

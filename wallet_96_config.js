@@ -1,1 +1,1 @@
-var mnemonic = "bean tornado glimpse ugly glare surprise tortoise shoot annual margin deliver view";
+var mnemonic = "park gift upper drama jump marine fog sorry empty cup palace armor";

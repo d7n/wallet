@@ -1,1 +1,1 @@
-var mnemonic = "dirt rent resist dizzy orange dinosaur rack merge olive detail snack chalk";
+var mnemonic = "buffalo action mention resist shy umbrella mail asset display violin boat omit";

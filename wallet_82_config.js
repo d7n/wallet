@@ -1,1 +1,1 @@
-var mnemonic = "grain large govern awesome swear tone body gym vacant replace father caught";
+var mnemonic = "state chase betray margin soon year arrest pitch page rifle kiwi pet";

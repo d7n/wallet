@@ -1,1 +1,1 @@
-var mnemonic = "spread abandon valve build perfect mountain height blade visit cricket hamster belt";
+var mnemonic = "sustain visual genius pond first jacket robot deposit another icon hover panel";

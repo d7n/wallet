@@ -1,1 +1,1 @@
-var mnemonic = "action divide govern glue reunion admit crunch bird dinner road shoulder apart";
+var mnemonic = "wisdom caution aspect rural stable farm ethics butter labor awake wire become";

@@ -1,1 +1,1 @@
-var mnemonic = "find similar acid era copy dad fence tool traffic noble seat fog";
+var mnemonic = "lend index very coral pull resist talk unveil crunch sure meat wage";

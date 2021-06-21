@@ -1,1 +1,1 @@
-var mnemonic = "wage mask season catch monster like spread taste shift shuffle bone coconut";
+var mnemonic = "rival bag evolve forest same burden room wine bird salon hungry increase";

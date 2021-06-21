@@ -1,1 +1,1 @@
-var mnemonic = "record entire swamp gift plate corn review gift urban during kitten assist";
+var mnemonic = "scrap memory glove knock wing guilt truly result sail march elite away";

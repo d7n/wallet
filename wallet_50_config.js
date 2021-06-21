@@ -1,1 +1,1 @@
-var mnemonic = "naive witness april place beach when brave anchor crystal voice acid brick";
+var mnemonic = "much antique tube burger sadness bind clump access swap cross twelve rare";

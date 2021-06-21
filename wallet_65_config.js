@@ -1,1 +1,1 @@
-var mnemonic = "salmon debris march point vivid simple meadow enter real squirrel gather silk";
+var mnemonic = "clock live library vault merge winner seed slender seminar common robust holiday";

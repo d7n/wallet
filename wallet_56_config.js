@@ -1,1 +1,1 @@
-var mnemonic = "hour prepare cattle multiply region bind address apple blouse token style zebra";
+var mnemonic = "end grace permit budget fashion allow mansion crime west horse pool school";

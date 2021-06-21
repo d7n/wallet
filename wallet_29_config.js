@@ -1,1 +1,1 @@
-var mnemonic = "shoe certain tank sniff reveal shrug diesel twist fabric outdoor illegal region";
+var mnemonic = "raise burst actual panel elephant depart liberty flee marble giggle where divert";

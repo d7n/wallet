@@ -1,1 +1,1 @@
-var mnemonic = "best van fit basic uncover note common essay offer remove phrase welcome";
+var mnemonic = "maximum web trophy aisle later drama sing phone helmet observe average jar";

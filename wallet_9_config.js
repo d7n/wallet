@@ -1,1 +1,1 @@
-var mnemonic = "spring dog liar host coffee nut typical drink pen surface melody message";
+var mnemonic = "deny autumn indoor shield stereo project thing tongue ring impact kangaroo sponsor";

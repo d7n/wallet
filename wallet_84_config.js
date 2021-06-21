@@ -1,1 +1,1 @@
-var mnemonic = "damage ethics hat pet priority anxiety fat latin awkward diet lava capable";
+var mnemonic = "taste follow skill hybrid venture auto jelly improve orbit hurt document shallow";

@@ -1,1 +1,1 @@
-var mnemonic = "start blur odor crash welcome large roast cloth slender occur dish brass";
+var mnemonic = "possible ketchup lonely medal loan farm goat seminar charge track flavor sting";

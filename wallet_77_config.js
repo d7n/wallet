@@ -1,1 +1,1 @@
-var mnemonic = "license direct service answer canoe grain thumb uncover tuna situate sunset ginger";
+var mnemonic = "pair avoid alcohol squeeze setup denial cool ignore twist toy post genius";

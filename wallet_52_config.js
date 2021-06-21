@@ -1,1 +1,1 @@
-var mnemonic = "pen frequent school snack mechanic target immense whip exhaust afford utility vicious";
+var mnemonic = "erosion brave nephew link electric embark decline oil butter permit idea luggage";

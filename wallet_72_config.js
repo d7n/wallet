@@ -1,1 +1,1 @@
-var mnemonic = "dolphin depend tornado skin tent ill brass connect noble injury bonus indicate";
+var mnemonic = "ride pipe steel never advice stairs plug follow guide evil police scene";

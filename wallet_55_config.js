@@ -1,1 +1,1 @@
-var mnemonic = "depart young forget arrow skull pair april inch bright option skirt fish";
+var mnemonic = "frost engage clip feature later top dish art sustain gym century impulse";

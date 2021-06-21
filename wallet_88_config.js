@@ -1,1 +1,1 @@
-var mnemonic = "slight unveil mirror second machine inform area grit useless aware milk dilemma";
+var mnemonic = "edge require other speak trim adjust short logic guess talk various noodle";

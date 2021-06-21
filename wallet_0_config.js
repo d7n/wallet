@@ -1,1 +1,1 @@
-var mnemonic = "nephew uniform hill clay pill parent venue happy tiny glad arrow lion";
+var mnemonic = "anchor enjoy flip hurdle auto enable surface rich anger snake interest foil";

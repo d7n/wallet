@@ -1,1 +1,1 @@
-var mnemonic = "decide dish liquid hunt affair define better female attend grid gown basic";
+var mnemonic = "film among legend floor scissors uniform injury broccoli disease market cargo reflect";

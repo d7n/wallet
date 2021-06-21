@@ -1,1 +1,1 @@
-var mnemonic = "kiwi camp shaft able net burger sock battle real session link random";
+var mnemonic = "genre drive coconut series panda amount swing riot member moral apple donate";
