@@ -1,1 +1,1 @@
-var mnemonic = "ramp join allow scene library knock already treat recipe blossom basic eternal";
+var mnemonic = "space arrow gravity slam case tissue present used clap fat brush easy";

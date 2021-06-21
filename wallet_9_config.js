@@ -1,1 +1,1 @@
-var mnemonic = "chapter walnut left arrive cup increase lonely peanut purchase wealth message identify";
+var mnemonic = "rotate giggle sunny fee category reunion nut lucky bullet prison laugh canvas";

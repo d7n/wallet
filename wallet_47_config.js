@@ -1,1 +1,1 @@
-var mnemonic = "cancel vapor shove impulse celery reward illegal stem easy forget glimpse grid";
+var mnemonic = "often grit deny absurd affair elevator castle wet quality amazing actor worry";

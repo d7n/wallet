@@ -1,1 +1,1 @@
-var mnemonic = "agent pretty cricket scrap insane scrub hollow reduce false version few submit";
+var mnemonic = "video depend winner congress wheat next near segment spend toy flock legal";

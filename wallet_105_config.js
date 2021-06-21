@@ -1,1 +1,1 @@
-var mnemonic = "critic ice parrot bag fold super shrimp share paddle zero coffee honey";
+var mnemonic = "pizza cage bright stomach shallow steel arctic gallery canal collect beauty elephant";

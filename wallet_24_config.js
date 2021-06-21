@@ -1,1 +1,1 @@
-var mnemonic = "recycle fabric either fox will bar across utility setup weather shrug certain";
+var mnemonic = "female name alert axis survey people veteran funny worth decline flight upset";

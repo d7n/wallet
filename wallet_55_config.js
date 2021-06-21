@@ -1,1 +1,1 @@
-var mnemonic = "glide shoot urban health trust card soup foot keep marriage gentle toe";
+var mnemonic = "move nuclear unaware logic carbon present bubble myth edge cover silly youth";

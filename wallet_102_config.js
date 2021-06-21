@@ -1,1 +1,1 @@
-var mnemonic = "blame tuna small peasant use fatal furnace joke access dirt kid tenant";
+var mnemonic = "rabbit wait bring weapon write govern cube jar mandate weird turkey dynamic";

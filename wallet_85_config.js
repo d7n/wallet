@@ -1,1 +1,1 @@
-var mnemonic = "feature card access camera swear rose horn stuff silver process inherit human";
+var mnemonic = "normal car own devote toy kidney oval window observe frequent body lemon";

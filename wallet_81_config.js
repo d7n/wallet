@@ -1,1 +1,1 @@
-var mnemonic = "account wire fitness course return menu wish fire canal off dune giggle";
+var mnemonic = "cover window copper moon option owner omit bike wine moment salad exercise";

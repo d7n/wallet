@@ -1,1 +1,1 @@
-var mnemonic = "blind kitten produce august biology reason seat title shadow will debris clock";
+var mnemonic = "month grid matrix survey pencil offer eager toy rug beauty patch hand";

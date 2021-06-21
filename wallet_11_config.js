@@ -1,1 +1,1 @@
-var mnemonic = "skill parade joy tip region aisle same kit champion vivid voyage surface";
+var mnemonic = "bid ivory stool flash move helmet royal indicate there sibling fragile blur";

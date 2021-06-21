@@ -1,1 +1,1 @@
-var mnemonic = "sad attitude print early tackle water fluid ensure spawn meadow throw fitness";
+var mnemonic = "biology sudden switch require hat day minor news uncle notable never burst";

@@ -1,1 +1,1 @@
-var mnemonic = "over soda noodle soldier cool despair style hold edge already diet dress";
+var mnemonic = "fire exile key thumb oven raw wise day typical kid pizza toe";

@@ -1,1 +1,1 @@
-var mnemonic = "purchase drift school flat rebel possible daughter marine focus crew mammal match";
+var mnemonic = "depth certain cousin mouse engine fever ordinary pull organ quantum pact round";

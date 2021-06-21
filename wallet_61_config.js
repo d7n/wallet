@@ -1,1 +1,1 @@
-var mnemonic = "danger island friend invite congress stone thunder poverty napkin romance absent quarter";
+var mnemonic = "crash raise motion ramp enlist clay napkin garden dolphin empty pencil whisper";

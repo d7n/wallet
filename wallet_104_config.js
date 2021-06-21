@@ -1,1 +1,1 @@
-var mnemonic = "primary also bread inside pottery good pair gesture camp canal either now";
+var mnemonic = "price elevator dust front express salon upon romance dice better panda alien";

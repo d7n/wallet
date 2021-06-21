@@ -1,1 +1,1 @@
-var mnemonic = "kitten assault eternal noble effort steel tool stool patch dice oil hamster";
+var mnemonic = "guard life noise devote emerge opinion boy system sense zoo tortoise olympic";

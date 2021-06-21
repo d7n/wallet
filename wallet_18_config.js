@@ -1,1 +1,1 @@
-var mnemonic = "citizen hope hurry art pipe tiger position phrase trigger innocent adapt begin";
+var mnemonic = "nasty evoke fashion grid hybrid tobacco law hand ostrich twist damage cake";

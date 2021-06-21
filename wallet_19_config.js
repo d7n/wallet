@@ -1,1 +1,1 @@
-var mnemonic = "around spirit disorder business swear this link force enrich slogan explain symptom";
+var mnemonic = "city feature expand absurd repair process economy arm perfect solar prize slot";

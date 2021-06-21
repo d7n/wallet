@@ -1,1 +1,1 @@
-var mnemonic = "survey trade attract lamp valve magnet during social destroy solar unlock carry";
+var mnemonic = "scatter mango response brass clock load vacant frost exist lucky journey make";

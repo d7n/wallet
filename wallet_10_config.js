@@ -1,1 +1,1 @@
-var mnemonic = "unfair spray grace cook task crime manage swing december spider alter assist";
+var mnemonic = "wage vapor bonus blade orange august salt engage genuine coral plate wine";

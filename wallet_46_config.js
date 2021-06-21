@@ -1,1 +1,1 @@
-var mnemonic = "canyon primary century guitar piece food burger mixed twin warm price learn";
+var mnemonic = "finish move only figure popular used correct same coral zoo motor render";

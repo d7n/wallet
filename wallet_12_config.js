@@ -1,1 +1,1 @@
-var mnemonic = "hole suspect grit ankle lab pattern honey muffin angle require yellow valve";
+var mnemonic = "sense door nerve fiscal brave feature urban extend stand prepare inflict pencil";

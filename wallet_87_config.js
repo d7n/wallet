@@ -1,1 +1,1 @@
-var mnemonic = "soccer tired bean hole tiger outside frost swing brave enact basic habit";
+var mnemonic = "clarify celery never light diamond bag salon degree eight melody obscure casino";

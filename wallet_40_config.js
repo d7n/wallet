@@ -1,1 +1,1 @@
-var mnemonic = "cigar plate token fortune second action parent issue hair usual push ramp";
+var mnemonic = "nose once march bacon cancel treat dragon olive shallow baby elder gather";

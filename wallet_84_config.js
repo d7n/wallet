@@ -1,1 +1,1 @@
-var mnemonic = "next cupboard beach congress busy outer spare dust endorse design sunset rate";
+var mnemonic = "pledge echo swap small electric cliff aunt suspect design open ivory portion";

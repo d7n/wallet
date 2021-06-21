@@ -1,1 +1,1 @@
-var mnemonic = "chalk inquiry patient cruise ritual solid acid input holiday pattern shallow vital";
+var mnemonic = "slogan embark lens window suffer design slam hero else various window crime";

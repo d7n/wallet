@@ -1,1 +1,1 @@
-var mnemonic = "safe twist mammal carbon bless brown want top embody myth unlock alert";
+var mnemonic = "method morning dragon teach busy cube neither stock virtual degree easily three";

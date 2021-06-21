@@ -1,1 +1,1 @@
-var mnemonic = "health together ethics glory desk width market whip analyst weather multiply bubble";
+var mnemonic = "cliff devote good antique ranch night more journey play limb swarm surround";

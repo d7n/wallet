@@ -1,1 +1,1 @@
-var mnemonic = "injury basic need swing six boil buddy expire capital account observe habit";
+var mnemonic = "early path gas sock vault chair addict snap aisle stadium bamboo clown";

@@ -1,1 +1,1 @@
-var mnemonic = "cabin when suggest coral slice coconut glance surprise middle tray betray shine";
+var mnemonic = "spoon flight liberty chalk during trial claim alert fence month crane rapid";

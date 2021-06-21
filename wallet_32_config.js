@@ -1,1 +1,1 @@
-var mnemonic = "sleep plastic jaguar lizard hire stand thought sound mercy roof tower vibrant";
+var mnemonic = "join nose audit pelican mobile copy able proud cycle road slender open";

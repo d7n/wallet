@@ -1,1 +1,1 @@
-var mnemonic = "long nasty salad dragon before lunar portion chase capital airport sing soup";
+var mnemonic = "actor spare ice reunion table enough comfort beyond toy amazing chalk hold";

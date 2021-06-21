@@ -1,1 +1,1 @@
-var mnemonic = "ensure unique envelope buyer very velvet same protect give area poet govern";
+var mnemonic = "rose garbage waste milk scrap bullet elegant gallery romance scare cake dignity";

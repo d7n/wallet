@@ -1,1 +1,1 @@
-var mnemonic = "matrix neutral lumber grain muscle lens stay great apart glance animal topic";
+var mnemonic = "glimpse unaware captain rule wisdom dizzy outer setup album amazing kite route";

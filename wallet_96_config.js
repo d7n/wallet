@@ -1,1 +1,1 @@
-var mnemonic = "trigger play employ crack clog nation already item radar jewel purity search";
+var mnemonic = "ready world tattoo bonus crystal main obscure maximum average cook velvet chunk";

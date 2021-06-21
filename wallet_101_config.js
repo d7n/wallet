@@ -1,1 +1,1 @@
-var mnemonic = "animal roast error truly gun moral drum try sport decide excuse real";
+var mnemonic = "night spider few design brand awful hire siege trick spring turn lady";

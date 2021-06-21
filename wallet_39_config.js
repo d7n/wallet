@@ -1,1 +1,1 @@
-var mnemonic = "aisle wage page oak enable issue sort mesh electric reason target orchard";
+var mnemonic = "act stand pluck tonight maze blush manage thing chaos pudding auto reward";

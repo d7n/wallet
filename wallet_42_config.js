@@ -1,1 +1,1 @@
-var mnemonic = "crumble hobby grain frog segment dust accident crew bulk spot puppy human";
+var mnemonic = "battle page hill basic cause couple reason injury owner equal rough cliff";

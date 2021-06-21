@@ -1,1 +1,1 @@
-var mnemonic = "bonus menu replace above guide relief swallow stereo dash kitchen glove boring";
+var mnemonic = "move arrange december post catalog marriage creek fee flame curve squirrel chef";

@@ -1,1 +1,1 @@
-var mnemonic = "furnace antique tape calm reunion shoe penalty kit green fold roof you";
+var mnemonic = "wolf hole gift motion march puzzle panel river primary regular cable rabbit";

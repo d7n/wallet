@@ -1,1 +1,1 @@
-var mnemonic = "future home chair seat battle copy topple security lady certain bitter produce";
+var mnemonic = "earn palm flower glad alarm faculty funny impulse stick turn alley stand";

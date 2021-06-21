@@ -1,1 +1,1 @@
-var mnemonic = "half own bundle december lamp achieve yard south nominee stomach gap strong";
+var mnemonic = "cargo lyrics mobile health dune smart garbage length because leaf can daughter";

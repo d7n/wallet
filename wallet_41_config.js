@@ -1,1 +1,1 @@
-var mnemonic = "tone myth early illegal remind athlete poem uncle hamster never hair ski";
+var mnemonic = "grain public pumpkin industry giggle write health provide tourist poem robot eyebrow";

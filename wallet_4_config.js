@@ -1,1 +1,1 @@
-var mnemonic = "grunt vanish flavor pretty poem friend print ready cloth embrace secret announce";
+var mnemonic = "ceiling hood clay solution gauge slow erupt industry harsh venue resource shrimp";

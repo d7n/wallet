@@ -1,1 +1,1 @@
-var mnemonic = "rack citizen pottery industry witness cube uphold flat knife wear bounce hood";
+var mnemonic = "attend wedding casual next milk recall they cry album try human snap";

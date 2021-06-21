@@ -1,1 +1,1 @@
-var mnemonic = "lava balcony sunny invest increase pumpkin bullet chest vintage fiscal joke close";
+var mnemonic = "baby asset tube tag beyond immense actual foot together human million narrow";

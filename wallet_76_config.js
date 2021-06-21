@@ -1,1 +1,1 @@
-var mnemonic = "saddle myself again soldier plate oil cruise require reveal charge letter book";
+var mnemonic = "firm improve print make oak apart sail tail cruel minimum initial thumb";

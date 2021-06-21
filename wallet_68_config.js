@@ -1,1 +1,1 @@
-var mnemonic = "bright clay oval furnace language tone indicate expand convince gloom sound bright";
+var mnemonic = "suit that amazing oblige butter help fold tooth fork case gesture home";

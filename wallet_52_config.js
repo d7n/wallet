@@ -1,1 +1,1 @@
-var mnemonic = "include spot spice flip turkey sadness lucky mango hub risk height thumb";
+var mnemonic = "toss dizzy number shine wrist gown second flag review title outer toddler";

@@ -1,1 +1,1 @@
-var mnemonic = "clump axis foil tomorrow horn guilt burden behave hold please shrug session";
+var mnemonic = "cart grab minor dust order bring slow acid run bubble because elbow";

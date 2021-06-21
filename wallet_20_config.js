@@ -1,1 +1,1 @@
-var mnemonic = "toss sad quick soon party shuffle attract enroll mammal party luggage blood";
+var mnemonic = "invite social garage foster cactus enemy struggle now fish depth agent replace";

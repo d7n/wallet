@@ -1,1 +1,1 @@
-var mnemonic = "laptop afford enjoy demand arena anchor myth dad index unveil history fish";
+var mnemonic = "fiscal unlock where baby task snake senior nothing segment sail floor goat";

@@ -1,1 +1,1 @@
-var mnemonic = "jump search night lesson glory slam you forest guide august develop orphan";
+var mnemonic = "snake omit pistol opera ramp nothing joy mango sting lounge review hotel";

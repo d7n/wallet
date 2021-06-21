@@ -1,1 +1,1 @@
-var mnemonic = "carry cruise dust tomorrow planet derive link dragon fury prefer belt title";
+var mnemonic = "radar wage omit sad identify sniff bitter interest goose urge page offer";

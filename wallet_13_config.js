@@ -1,1 +1,1 @@
-var mnemonic = "sunny dawn delay wolf idle behave bunker until fold wet law proud";
+var mnemonic = "pencil lecture almost major bachelor habit cruise ceiling silk because suspect drop";

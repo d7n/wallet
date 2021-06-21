@@ -1,1 +1,1 @@
-var mnemonic = "grape mail praise abstract paper umbrella auto front stand frequent chef hollow";
+var mnemonic = "predict nerve barrel silent frequent idea ladder exhibit lift retire dutch test";

@@ -1,1 +1,1 @@
-var mnemonic = "obey drill provide leisure drift chat disagree crucial bread crime soup trust";
+var mnemonic = "youth earn jeans bachelor grunt elder basic poverty polar prevent law coach";

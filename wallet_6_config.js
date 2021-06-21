@@ -1,1 +1,1 @@
-var mnemonic = "lab fluid eager blue evidence parent assist scrub aunt grocery cross excuse";
+var mnemonic = "uncle picnic still witness motor logic admit box finish rescue weapon heavy";

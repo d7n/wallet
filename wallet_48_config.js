@@ -1,1 +1,1 @@
-var mnemonic = "bind believe express few outer pulse tone gain element stem orphan future";
+var mnemonic = "cheese parent laptop discover card involve unlock bean chief siren mountain raw";

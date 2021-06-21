@@ -1,1 +1,1 @@
-var mnemonic = "glove hedgehog hard blast before vacuum aisle employ claim build minor scheme";
+var mnemonic = "swear utility purity reopen suggest dumb math leopard mule liquid notable coast";

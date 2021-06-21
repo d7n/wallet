@@ -1,1 +1,1 @@
-var mnemonic = "brave inch define foster wish glue weekend course glance trouble version thing";
+var mnemonic = "sting fiber rule garment impose skin marble announce crucial success plunge they";

@@ -1,1 +1,1 @@
-var mnemonic = "few walk lava badge attend chronic desert chimney dish fall neutral glide";
+var mnemonic = "much then push boil attend pulse pottery float bleak seek motor method";

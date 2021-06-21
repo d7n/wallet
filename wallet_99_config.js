@@ -1,1 +1,1 @@
-var mnemonic = "coin truth replace novel green execute stove gate alone oil grace bulk";
+var mnemonic = "neutral clown caught gather sentence jacket under model legend jewel embody pact";

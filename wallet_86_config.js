@@ -1,1 +1,1 @@
-var mnemonic = "flavor bulk find apart cable between bleak achieve town frog ordinary bar";
+var mnemonic = "close either equip dismiss relief year smile current level deposit island process";

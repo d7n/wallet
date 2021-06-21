@@ -1,1 +1,1 @@
-var mnemonic = "jungle all icon wet tiger spawn kiwi device cement friend umbrella vault";
+var mnemonic = "split jelly tree horn silver insect ankle artist timber wear slow hood";

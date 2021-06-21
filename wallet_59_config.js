@@ -1,1 +1,1 @@
-var mnemonic = "start level spring lamp input wisdom unaware explain slush connect task blind";
+var mnemonic = "mask ticket observe order marriage once entire city elevator stuff inch citizen";

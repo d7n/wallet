@@ -1,1 +1,1 @@
-var mnemonic = "shaft brother cousin peanut luxury enact worry nice naive tribe exhaust powder";
+var mnemonic = "profit return link border bargain dad nut taxi squeeze quick icon confirm";

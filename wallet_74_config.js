@@ -1,1 +1,1 @@
-var mnemonic = "art fancy brain craft hobby trend vote belt wish cabin idea convince";
+var mnemonic = "nasty race gold banner rescue spike unknown case price learn foil mushroom";

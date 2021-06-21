@@ -1,1 +1,1 @@
-var mnemonic = "patrol purity arrange vault typical swap sleep syrup curve crew rocket remove";
+var mnemonic = "royal wild ten alert cause february sun useful middle barely mountain flag";

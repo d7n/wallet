@@ -1,1 +1,1 @@
-var mnemonic = "reopen service call access attract danger huge trust ghost symptom awkward divide";
+var mnemonic = "dolphin chapter stumble ride cause adjust hurt vanish bind crack view ask";

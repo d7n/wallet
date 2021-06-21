@@ -1,1 +1,1 @@
-var mnemonic = "violin coin elite medal insane material soccer online brand recall square chef";
+var mnemonic = "together clown predict account nest fee silly tide labor zero talk bargain";

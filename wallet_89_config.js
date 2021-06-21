@@ -1,1 +1,1 @@
-var mnemonic = "ginger garlic area powder brown misery fog cause basket lawsuit abandon three";
+var mnemonic = "ahead fiscal click because prize topple switch crack suggest furnace sibling order";

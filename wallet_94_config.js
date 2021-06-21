@@ -1,1 +1,1 @@
-var mnemonic = "team gallery improve draw useless luxury cross floor onion obvious feel ugly";
+var mnemonic = "ethics mutual joke age vendor scan soldier blouse rhythm simple lake client";

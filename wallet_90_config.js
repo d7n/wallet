@@ -1,1 +1,1 @@
-var mnemonic = "resource horror forget ribbon grape marble poem leaf critic useful choice hold";
+var mnemonic = "soda tornado attract rib bunker tissue foster scout smile romance avoid net";

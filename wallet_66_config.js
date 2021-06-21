@@ -1,1 +1,1 @@
-var mnemonic = "piano system behind grief mixed idea casual pair degree response hotel office";
+var mnemonic = "valve purity finish call appear business print always critic crew exchange story";

@@ -1,1 +1,1 @@
-var mnemonic = "famous then fiber fruit nasty tissue jump puzzle across lift vapor harvest";
+var mnemonic = "bubble promote patrol pitch style doll abandon clever reform person gesture raise";

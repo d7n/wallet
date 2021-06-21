@@ -1,1 +1,1 @@
-var mnemonic = "royal venue stamp false hurt popular oil custom law hotel van today";
+var mnemonic = "over vague hedgehog entire scrub cinnamon engage radio unhappy bulb length grain";

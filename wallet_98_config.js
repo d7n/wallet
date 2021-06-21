@@ -1,1 +1,1 @@
-var mnemonic = "belt fix snap combine inform urge warfare panic myth opinion evidence skin";
+var mnemonic = "bacon piano cool sugar nation give flame pepper refuse rapid author host";

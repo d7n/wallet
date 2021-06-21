@@ -1,1 +1,1 @@
-var mnemonic = "item anger kite basic purity uphold crowd tomato grass blush faith vocal";
+var mnemonic = "flash rare wild pigeon matrix label glimpse stadium cable riot unknown seed";

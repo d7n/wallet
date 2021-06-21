@@ -1,1 +1,1 @@
-var mnemonic = "decide fiber roast weapon property hope shine fish liquid marine palace skate";
+var mnemonic = "stone motor music start rely access flight talent trip chief fiscal sustain";

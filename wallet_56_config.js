@@ -1,1 +1,1 @@
-var mnemonic = "token bullet hybrid inspire chat loud human outside quick buyer obtain train";
+var mnemonic = "face page effort year letter vapor library cat into fork noble fox";

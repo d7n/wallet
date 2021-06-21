@@ -1,1 +1,1 @@
-var mnemonic = "science interest rather entire cheese illness guess session dutch corn total office";
+var mnemonic = "inspire virus north tree stage monitor correct welcome scissors chief fresh orchard";

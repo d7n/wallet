@@ -1,1 +1,1 @@
-var mnemonic = "stage faith club arrest blood then recall file runway bonus narrow case";
+var mnemonic = "physical attend course gesture problem giggle manual cycle chronic immune action chimney";

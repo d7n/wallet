@@ -1,1 +1,1 @@
-var mnemonic = "tattoo indoor change entry reunion leave learn opinion frown arrive motor powder";
+var mnemonic = "supreme usage bonus scatter identify clean voice begin weapon public float attract";

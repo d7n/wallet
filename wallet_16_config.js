@@ -1,1 +1,1 @@
-var mnemonic = "random top seat utility sibling lemon dry riot depth file rice bench";
+var mnemonic = "grant meadow fever flock meat olive dial kit cruel rule able police";

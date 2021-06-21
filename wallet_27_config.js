@@ -1,1 +1,1 @@
-var mnemonic = "cruise note someone old laptop okay fruit story wasp rubber wrong reject";
+var mnemonic = "candy ensure verb absent neck mountain demand script sense copper glory ivory";

@@ -1,1 +1,1 @@
-var mnemonic = "cloth minor game dad rebel cherry adult question fall pattern horror flip";
+var mnemonic = "paddle sound pull wasp glare fossil truck bid bullet rate autumn snow";

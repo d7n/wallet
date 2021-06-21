@@ -1,1 +1,1 @@
-var mnemonic = "comic style flock anger poem huge exact shadow room tiny miracle derive";
+var mnemonic = "broccoli cheap fine pepper observe believe lyrics zoo coconut shift anger glory";

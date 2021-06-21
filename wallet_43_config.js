@@ -1,1 +1,1 @@
-var mnemonic = "promote obscure program fiber audit reveal pony attack funny bubble exist illegal";
+var mnemonic = "slow fun host impose fabric swallow burst glance census trick luxury analyst";

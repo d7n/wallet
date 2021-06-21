@@ -1,1 +1,1 @@
-var mnemonic = "indicate bean sort bar sniff elder live seek stumble toddler tonight file";
+var mnemonic = "tool exact robot force six nasty wheat age sense twelve roof skill";

@@ -1,1 +1,1 @@
-var mnemonic = "simple arena inflict orphan box device bid basket leader announce buyer crowd";
+var mnemonic = "exile another burger result giraffe seven motor tail route black grunt remain";
