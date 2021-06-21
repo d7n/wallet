@@ -1,1 +1,1 @@
-var mnemonic = "poverty course unknown now distance morning planet define siren surface horror suit";
+var mnemonic = "bean tornado glimpse ugly glare surprise tortoise shoot annual margin deliver view";

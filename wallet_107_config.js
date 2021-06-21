@@ -1,1 +1,1 @@
-var mnemonic = "gaze garbage subway short grant census rally sister lottery toss pudding pink";
+var mnemonic = "insect wasp afford gas giraffe fold because master broccoli differ hurry crew";

@@ -1,1 +1,1 @@
-var mnemonic = "legend document nature mad inform layer hurdle peace exile soldier tiny convince";
+var mnemonic = "response appear tuna more wrong already will famous dismiss miss unit cabbage";

@@ -1,1 +1,1 @@
-var mnemonic = "mind earn bargain cruel online loyal over sense essence turtle erupt accuse";
+var mnemonic = "pink wrong finger swim explain youth meadow satoshi antique rate thing hockey";

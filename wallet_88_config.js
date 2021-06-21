@@ -1,1 +1,1 @@
-var mnemonic = "pear bulk lend wheat fabric model local walk risk essay library roast";
+var mnemonic = "slight unveil mirror second machine inform area grit useless aware milk dilemma";

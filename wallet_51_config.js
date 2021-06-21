@@ -1,1 +1,1 @@
-var mnemonic = "urban trouble safe spray earth load elbow account payment spike replace fog";
+var mnemonic = "change neither become mansion play one mix wall foot appear raise clock";

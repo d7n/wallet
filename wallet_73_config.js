@@ -1,1 +1,1 @@
-var mnemonic = "party rapid seven stereo glad adult quiz uphold tuition yellow cool rifle";
+var mnemonic = "frog trial inspire direct bullet nasty energy bridge solar bag cement mistake";

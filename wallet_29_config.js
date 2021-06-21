@@ -1,1 +1,1 @@
-var mnemonic = "phone surround debris motor scale cruise guilt grape veteran final trade magnet";
+var mnemonic = "shoe certain tank sniff reveal shrug diesel twist fabric outdoor illegal region";

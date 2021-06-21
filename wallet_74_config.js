@@ -1,1 +1,1 @@
-var mnemonic = "advance during census snow mom desert opera curtain little lawsuit gossip math";
+var mnemonic = "dragon cart chef patrol blanket wrap health invest draft expand ginger inspire";

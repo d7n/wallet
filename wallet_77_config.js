@@ -1,1 +1,1 @@
-var mnemonic = "blouse zero heart present atom fox collect priority soap valley chat feel";
+var mnemonic = "license direct service answer canoe grain thumb uncover tuna situate sunset ginger";

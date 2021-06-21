@@ -1,1 +1,1 @@
-var mnemonic = "ranch cheese feed floor lunar bring gap similar spirit thought velvet silver";
+var mnemonic = "grain large govern awesome swear tone body gym vacant replace father caught";

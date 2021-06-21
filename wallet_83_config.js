@@ -1,1 +1,1 @@
-var mnemonic = "mom vendor riot solar pair manage system envelope wait few judge keep";
+var mnemonic = "absorb vendor zone glimpse order address nice review surprise odor hint decrease";

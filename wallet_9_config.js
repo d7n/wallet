@@ -1,1 +1,1 @@
-var mnemonic = "wide accident danger tip ask mind payment young whale sign goose forum";
+var mnemonic = "spring dog liar host coffee nut typical drink pen surface melody message";

@@ -1,1 +1,1 @@
-var mnemonic = "share prevent pride master language liar play flock caught lunar scrap embark";
+var mnemonic = "describe beyond dish ticket impose summer join talent stay wheel inquiry better";

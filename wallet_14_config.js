@@ -1,1 +1,1 @@
-var mnemonic = "burst author minor dismiss rabbit dune toward document broccoli salt lyrics eight";
+var mnemonic = "reform hold result attract decline enemy hidden enter marble blade ramp loan";

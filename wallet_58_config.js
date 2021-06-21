@@ -1,1 +1,1 @@
-var mnemonic = "cabin glance file borrow there elite nut mail mercy bulb shine exclude";
+var mnemonic = "shallow turtle inmate ask perfect funny glove control squirrel orient casual organ";

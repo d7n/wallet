@@ -1,1 +1,1 @@
-var mnemonic = "craft crucial hungry between danger olympic mansion blossom glory capital pear remove";
+var mnemonic = "unknown vehicle fire loyal chunk skirt rice initial rough own soon tonight";

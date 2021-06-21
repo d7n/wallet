@@ -1,1 +1,1 @@
-var mnemonic = "tide memory draft alter position myth modify require sure found gospel track";
+var mnemonic = "south garden sausage delay radio news athlete garment fury vast iron rally";

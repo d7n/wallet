@@ -1,1 +1,1 @@
-var mnemonic = "wish summer know misery guide stone merit catalog mention bar rally stand";
+var mnemonic = "change wink blush tackle glue insane train mammal toe trade regular involve";

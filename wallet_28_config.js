@@ -1,1 +1,1 @@
-var mnemonic = "upon trouble antenna project expose abstract off crouch either credit father false";
+var mnemonic = "creek tube wild swing motor skull harsh adult strike short good lawn";

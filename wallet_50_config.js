@@ -1,1 +1,1 @@
-var mnemonic = "collect approve moral ribbon scrub destroy bean limb matrix alter badge blossom";
+var mnemonic = "naive witness april place beach when brave anchor crystal voice acid brick";

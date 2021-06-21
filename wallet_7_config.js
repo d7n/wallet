@@ -1,1 +1,1 @@
-var mnemonic = "zebra radio debris husband swallow length wise guard frequent measure clay rather";
+var mnemonic = "mad kitten rare sentence drift basket economy cruel mammal tomato idea person";

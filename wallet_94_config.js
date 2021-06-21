@@ -1,1 +1,1 @@
-var mnemonic = "picnic child size project mammal slam loyal until scorpion make gallery example";
+var mnemonic = "certain clog arrange speed opera verify engine gesture apology olympic winner banner";

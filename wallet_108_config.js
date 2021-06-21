@@ -1,1 +1,1 @@
-var mnemonic = "case concert setup solid will access stem uphold royal leaf slot where";
+var mnemonic = "certain crowd tilt rival staff tent merit cool occur holiday evil square";

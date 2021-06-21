@@ -1,1 +1,1 @@
-var mnemonic = "industry genre ensure rare across solar board throw faculty trend decade inch";
+var mnemonic = "dirt rent resist dizzy orange dinosaur rack merge olive detail snack chalk";

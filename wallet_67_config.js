@@ -1,1 +1,1 @@
-var mnemonic = "need oval front explain behave virus icon cotton harvest subway course slush";
+var mnemonic = "essay quick liquid media furnace coffee question bracket cruise end inside syrup";

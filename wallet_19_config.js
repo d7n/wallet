@@ -1,1 +1,1 @@
-var mnemonic = "amused segment render audit improve crawl certain excess upset output jacket slogan";
+var mnemonic = "stay inch uncle loyal problem document place unfold cushion fossil pigeon engage";

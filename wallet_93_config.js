@@ -1,1 +1,1 @@
-var mnemonic = "frequent glove unveil august kitchen only setup forest quiz milk erupt canal";
+var mnemonic = "decide dish liquid hunt affair define better female attend grid gown basic";

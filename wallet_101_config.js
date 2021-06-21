@@ -1,1 +1,1 @@
-var mnemonic = "destroy isolate error antenna east celery pumpkin nurse cement grape digital they";
+var mnemonic = "resource edit offer gasp orbit verify attract scissors gasp produce discover vapor";

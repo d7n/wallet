@@ -1,1 +1,1 @@
-var mnemonic = "chase state draw coast bike rib museum friend target buffalo brief sport";
+var mnemonic = "best van fit basic uncover note common essay offer remove phrase welcome";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise law upgrade young reopen brain crane meat chest lazy scissors blur";
+var mnemonic = "bag solve faculty mammal buddy bubble jacket group cave depend diamond olive";

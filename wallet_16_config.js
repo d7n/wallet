@@ -1,1 +1,1 @@
-var mnemonic = "doctor industry core pill symptom major utility nerve smart lift story door";
+var mnemonic = "hen glance ticket base hold recall elegant genuine valid maple tourist food";

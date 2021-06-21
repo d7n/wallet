@@ -1,1 +1,1 @@
-var mnemonic = "cement keen twice praise enforce combine mention harsh remain evolve wire confirm";
+var mnemonic = "public document bullet fiction alarm deny brisk practice sport bargain airport present";

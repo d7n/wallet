@@ -1,1 +1,1 @@
-var mnemonic = "barrel fresh cinnamon design charge salute inform hello draw laugh stage casual";
+var mnemonic = "vintage exit pink torch purchase into legend regret soap mercy truth another";

@@ -1,1 +1,1 @@
-var mnemonic = "exact rail section maple logic worth trade menu employ survey column loan";
+var mnemonic = "hour prepare cattle multiply region bind address apple blouse token style zebra";

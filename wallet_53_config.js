@@ -1,1 +1,1 @@
-var mnemonic = "toss inch afford across youth fossil harvest glory floor length year faint";
+var mnemonic = "web door report hero measure step excite choice absurd prevent slam turtle";

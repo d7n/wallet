@@ -1,1 +1,1 @@
-var mnemonic = "sport unit reopen stamp soul motion media giggle copy resist fabric ice";
+var mnemonic = "alarm mention guilt all expect income issue heart draw life glad type";

@@ -1,1 +1,1 @@
-var mnemonic = "budget fire goddess feature hockey lecture business rescue chair valve audit melt";
+var mnemonic = "salon spin service glance hurry host cruel display tide kiwi velvet earn";

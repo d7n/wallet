@@ -1,1 +1,1 @@
-var mnemonic = "sudden fringe rifle bargain until farm flat fiction stove pole orphan liberty";
+var mnemonic = "wage mask season catch monster like spread taste shift shuffle bone coconut";

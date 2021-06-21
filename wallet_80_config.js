@@ -1,1 +1,1 @@
-var mnemonic = "liquid media wait yellow day manage front soul maze post poverty bachelor";
+var mnemonic = "sell popular wrestle opinion fresh learn real stereo sugar update pizza roast";

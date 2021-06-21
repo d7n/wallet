@@ -1,1 +1,1 @@
-var mnemonic = "profit divorce penalty payment bless spy hammer unfair success laptop direct thank";
+var mnemonic = "bus elite whisper visa stumble library corn elite palace soft orbit easy";

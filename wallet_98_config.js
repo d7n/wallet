@@ -1,1 +1,1 @@
-var mnemonic = "grab exit volume mosquito stock dash lawsuit path poverty awake mammal invest";
+var mnemonic = "neglect trap cover develop tent viable reopen slender need duty attack bag";

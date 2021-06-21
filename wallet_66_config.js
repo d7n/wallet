@@ -1,1 +1,1 @@
-var mnemonic = "attack nuclear detect mutual remove siege slow have tourist priority pattern behave";
+var mnemonic = "floor giant follow margin rigid memory minimum guitar exhaust movie smooth glory";

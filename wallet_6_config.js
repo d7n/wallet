@@ -1,1 +1,1 @@
-var mnemonic = "inflict inspire manage sponsor eight vibrant liquid exile sudden cancel pattern forum";
+var mnemonic = "voice defy aerobic amateur trade essence alter mutual eternal drink exercise mobile";

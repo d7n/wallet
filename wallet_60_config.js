@@ -1,1 +1,1 @@
-var mnemonic = "census carpet oblige drive east arm destroy front mesh glow situate child";
+var mnemonic = "coil muffin hen destroy buddy exotic desert system shallow thank wide detail";

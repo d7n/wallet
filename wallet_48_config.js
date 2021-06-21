@@ -1,1 +1,1 @@
-var mnemonic = "vessel joke hand zero object invite vibrant wall toddler game pill finish";
+var mnemonic = "payment hill swap thumb off pluck injury estate tumble glimpse glimpse feel";

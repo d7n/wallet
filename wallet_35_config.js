@@ -1,1 +1,1 @@
-var mnemonic = "destroy dignity tunnel fetch rocket rich title actual myself beauty wife coast";
+var mnemonic = "found minor endless fluid pulse test tunnel trash idle snow shell word";

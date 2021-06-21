@@ -1,1 +1,1 @@
-var mnemonic = "common sunset suffer wise execute attack dish chimney tuition army mercy call";
+var mnemonic = "vanish ethics force clarify ring learn vague trap news stage office exhaust";

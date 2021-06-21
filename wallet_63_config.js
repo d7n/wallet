@@ -1,1 +1,1 @@
-var mnemonic = "champion poet category frozen ship sister enlist female kitten pave reopen speed";
+var mnemonic = "vote satoshi hammer genius decline legal pact net together pottery hollow coach";

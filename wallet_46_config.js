@@ -1,1 +1,1 @@
-var mnemonic = "size artist robot reject choice harsh bomb pigeon cruise try devote dune";
+var mnemonic = "wreck useless almost pause train wear science sauce post welcome plastic glue";

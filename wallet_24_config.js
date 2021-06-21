@@ -1,1 +1,1 @@
-var mnemonic = "close ranch able silly property grace steak orphan soda market pudding anchor";
+var mnemonic = "dirt ridge jeans nuclear photo off capable garlic cycle bulb cause rural";

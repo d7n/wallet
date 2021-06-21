@@ -1,1 +1,1 @@
-var mnemonic = "armed group proud bread gloom color spring brick siege venture bean unable";
+var mnemonic = "small two curtain frequent able energy toe urban chimney hundred enroll brush";

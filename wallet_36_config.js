@@ -1,1 +1,1 @@
-var mnemonic = "hamster citizen dish chuckle sponsor million avocado air chicken smooth diet cereal";
+var mnemonic = "pulse wear claw embody layer once emotion shoot glimpse network account horn";

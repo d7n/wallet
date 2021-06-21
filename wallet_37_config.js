@@ -1,1 +1,1 @@
-var mnemonic = "grab choose glide label afraid occur record palm media forum clutch shock";
+var mnemonic = "soul cigar sudden female soap giggle orbit social tornado sponsor fold future";

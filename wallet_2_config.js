@@ -1,1 +1,1 @@
-var mnemonic = "render mind blur regular one foster help oval loan expire dirt nice";
+var mnemonic = "action divide govern glue reunion admit crunch bird dinner road shoulder apart";

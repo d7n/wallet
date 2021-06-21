@@ -1,1 +1,1 @@
-var mnemonic = "napkin parade govern doctor hold slogan lonely wild solve paddle guess win";
+var mnemonic = "define acid actor host disease sense bulk junk dove expand benefit owner";

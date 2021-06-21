@@ -1,1 +1,1 @@
-var mnemonic = "hip kitten feed swift prepare ball ketchup shop combine input erosion because";
+var mnemonic = "topic number trip mosquito dentist top hair cash moon lottery coyote verify";

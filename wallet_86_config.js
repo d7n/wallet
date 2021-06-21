@@ -1,1 +1,1 @@
-var mnemonic = "alien deputy dawn regular jungle cave guitar maximum sadness plastic tribe clutch";
+var mnemonic = "labor ready shop angry remind mouse mobile trial bounce pelican border noodle";

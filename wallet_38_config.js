@@ -1,1 +1,1 @@
-var mnemonic = "service head tool spirit someone insane jaguar wide popular task rose shed";
+var mnemonic = "box staff salute air twenty beyond label ship mother rent sock fatigue";

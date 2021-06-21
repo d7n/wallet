@@ -1,1 +1,1 @@
-var mnemonic = "loud space they winter modify gauge icon ability possible lunch sun soda";
+var mnemonic = "album fold cricket auction gorilla weapon awkward valid twist coach mother drama";

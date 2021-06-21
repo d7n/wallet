@@ -1,1 +1,1 @@
-var mnemonic = "deal food deposit chase moral hover notable glow harbor such cable year";
+var mnemonic = "execute creek taste round put east teach edit garbage emotion chef slot";

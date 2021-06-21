@@ -1,1 +1,1 @@
-var mnemonic = "child sudden flower gown coil moral above advance erupt energy hazard off";
+var mnemonic = "kiwi camp shaft able net burger sock battle real session link random";

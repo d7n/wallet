@@ -1,1 +1,1 @@
-var mnemonic = "carpet bracket ugly smooth cheese crucial typical word danger myself bar tunnel";
+var mnemonic = "dolphin depend tornado skin tent ill brass connect noble injury bonus indicate";

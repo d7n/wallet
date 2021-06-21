@@ -1,1 +1,1 @@
-var mnemonic = "machine infant sentence motion salmon check quick lucky also same coffee proud";
+var mnemonic = "great vault labor glimpse scene dry dinosaur super parrot young switch ridge";

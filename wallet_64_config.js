@@ -1,1 +1,1 @@
-var mnemonic = "bulk target away hard tool reduce display actual talent exist allow grid";
+var mnemonic = "cement voice laugh remain detail obvious banana quick later saddle wool trend";

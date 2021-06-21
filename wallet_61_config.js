@@ -1,1 +1,1 @@
-var mnemonic = "exhaust drip supply blush obey raven wing ritual found pet eye sick";
+var mnemonic = "find similar acid era copy dad fence tool traffic noble seat fog";

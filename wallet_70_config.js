@@ -1,1 +1,1 @@
-var mnemonic = "one coral junk prison aerobic sauce online inject inhale burden palm trend";
+var mnemonic = "achieve hat ceiling napkin pony august romance coin hybrid bunker worth orient";

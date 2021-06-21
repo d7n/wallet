@@ -1,1 +1,1 @@
-var mnemonic = "improve arrive shrug ritual stamp until actual slow dog pole universe praise";
+var mnemonic = "buzz jeans beef recipe execute wave annual toilet proof forum parade glance";

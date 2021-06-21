@@ -1,1 +1,1 @@
-var mnemonic = "jaguar picture mass faint capable village seven rabbit release reform creek game";
+var mnemonic = "fit sword spy oppose park test soft bracket gravity eagle release tongue";

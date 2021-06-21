@@ -1,1 +1,1 @@
-var mnemonic = "label merge fuel skill powder horse spare blouse fitness oxygen junior elevator";
+var mnemonic = "section there moral conduct avocado pottery apology sand impact flavor submit tilt";

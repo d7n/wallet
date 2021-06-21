@@ -1,1 +1,1 @@
-var mnemonic = "abstract dwarf business slight cross frame inform fancy month absorb only rely";
+var mnemonic = "record entire swamp gift plate corn review gift urban during kitten assist";

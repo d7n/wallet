@@ -1,1 +1,1 @@
-var mnemonic = "blush prepare cruel tennis arrest first crazy dream juice power drama mosquito";
+var mnemonic = "replace latin insane company hat dawn plate matter exhaust symbol item impulse";

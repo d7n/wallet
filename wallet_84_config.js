@@ -1,1 +1,1 @@
-var mnemonic = "mind advice team sail ring logic box jazz hold inflict sustain sock";
+var mnemonic = "damage ethics hat pet priority anxiety fat latin awkward diet lava capable";

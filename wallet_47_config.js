@@ -1,1 +1,1 @@
-var mnemonic = "surround assist top sustain success word notable together urge moment bike front";
+var mnemonic = "this minimum equip drama chest slide unveil tooth polar position west bleak";

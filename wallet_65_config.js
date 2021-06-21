@@ -1,1 +1,1 @@
-var mnemonic = "pride electric robot usage abandon average setup team problem edit blame present";
+var mnemonic = "salmon debris march point vivid simple meadow enter real squirrel gather silk";

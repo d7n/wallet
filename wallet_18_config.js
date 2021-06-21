@@ -1,1 +1,1 @@
-var mnemonic = "jewel piano surface clown awesome purpose winner artist iron siege surprise barely";
+var mnemonic = "car vast green anger alley foam lesson rare brown slow globe target";

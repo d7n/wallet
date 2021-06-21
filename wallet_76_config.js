@@ -1,1 +1,1 @@
-var mnemonic = "enable figure cross gain mushroom harsh faith pen spirit rice squeeze panel";
+var mnemonic = "crowd inspire report pact city stomach above what view radio school brain";

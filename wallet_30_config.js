@@ -1,1 +1,1 @@
-var mnemonic = "despair say nominee glass manage ticket avoid struggle forest blossom sorry mom";
+var mnemonic = "sock marriage lottery task chat blood label banner recycle devote omit street";

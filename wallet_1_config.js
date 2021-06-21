@@ -1,1 +1,1 @@
-var mnemonic = "bar churn mirror joke game someone vehicle situate agent target prevent reject";
+var mnemonic = "sausage health cinnamon interest weasel total orphan kiwi blade vanish reflect tooth";

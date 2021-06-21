@@ -1,1 +1,1 @@
-var mnemonic = "drill bag cat magic harvest gate potato bracket police web cloth buyer";
+var mnemonic = "turtle zero hold mass melody infant dust math casino immune device number";

@@ -1,1 +1,1 @@
-var mnemonic = "improve glance protect vacuum hobby art lobster bike jeans abuse absent syrup";
+var mnemonic = "fox grocery horse wine south require tribe void nose arrange usual squirrel";

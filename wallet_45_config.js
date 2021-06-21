@@ -1,1 +1,1 @@
-var mnemonic = "monkey flight mushroom correct run once draft exhaust stadium genre core turkey";
+var mnemonic = "sugar pink awful burger wagon snack pool level approve soon govern ride";

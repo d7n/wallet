@@ -1,1 +1,1 @@
-var mnemonic = "awful patch body will ordinary thank puzzle target visit polar giggle car";
+var mnemonic = "velvet plug tag uphold laundry collect bench raccoon end unfold adjust welcome";

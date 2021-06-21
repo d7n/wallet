@@ -1,1 +1,1 @@
-var mnemonic = "hybrid mouse addict ice warm famous talk relax alley hard perfect shiver";
+var mnemonic = "security clock emerge nose obscure vicious machine crane weather swift mind spatial";

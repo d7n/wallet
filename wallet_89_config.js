@@ -1,1 +1,1 @@
-var mnemonic = "oxygen right shoe divert kiwi defy close pair velvet target damage prevent";
+var mnemonic = "start blur odor crash welcome large roast cloth slender occur dish brass";

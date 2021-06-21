@@ -1,1 +1,1 @@
-var mnemonic = "brand happy robot bread elephant beach kangaroo miracle color divide license top";
+var mnemonic = "input marriage stereo ship museum polar update absent december point gospel camp";

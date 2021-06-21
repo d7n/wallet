@@ -1,1 +1,1 @@
-var mnemonic = "jump assist crop wreck main mind tiger online episode various hybrid inmate";
+var mnemonic = "noodle cream gas consider earth caution human alien right syrup timber detail";

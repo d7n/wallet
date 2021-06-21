@@ -1,1 +1,1 @@
-var mnemonic = "mutual slender second deal addict black boy exercise trip flash traffic tourist";
+var mnemonic = "sell pony what defense veteran lobster boat uphold axis ancient veteran smooth";

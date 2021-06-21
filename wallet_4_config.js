@@ -1,1 +1,1 @@
-var mnemonic = "concert flip clog width cloth obscure scan wolf enough mercy skin theme";
+var mnemonic = "marble verify spell sign fantasy garden letter duty ball proof stamp pulse";

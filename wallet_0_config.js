@@ -1,1 +1,1 @@
-var mnemonic = "crane pull staff try brand three face floor popular spoil conduct must";
+var mnemonic = "nephew uniform hill clay pill parent venue happy tiny glad arrow lion";

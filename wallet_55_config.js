@@ -1,1 +1,1 @@
-var mnemonic = "category chat pledge innocent oil bamboo subway monster leopard dizzy soda present";
+var mnemonic = "depart young forget arrow skull pair april inch bright option skirt fish";

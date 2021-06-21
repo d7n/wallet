@@ -1,1 +1,1 @@
-var mnemonic = "adult lobster forward occur private bachelor soap fun bleak member galaxy mesh";
+var mnemonic = "sad raw rate power embark alarm small color culture gather business whisper";

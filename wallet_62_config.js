@@ -1,1 +1,1 @@
-var mnemonic = "kit fog turkey ribbon fancy tourist main hard chat piece prefer earn";
+var mnemonic = "inner level picnic taxi ripple switch tree one faint asset confirm wire";

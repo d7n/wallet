@@ -1,1 +1,1 @@
-var mnemonic = "grass tunnel alert judge essay buyer mountain now bacon market right robust";
+var mnemonic = "spray forum produce swarm rail someone gospel trumpet word follow anxiety success";
