@@ -1,1 +1,1 @@
-var mnemonic = "bottom echo frog cement local private erosion able eternal add cricket family";
+var mnemonic = "play human firm siege imitate city tent lucky jealous apple estate neglect";

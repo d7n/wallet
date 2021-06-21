@@ -1,1 +1,1 @@
-var mnemonic = "hand never basket filter pool orange height news around guide buddy mention";
+var mnemonic = "face gloom super glue capital plug input artwork already battle marble bicycle";

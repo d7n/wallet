@@ -1,1 +1,1 @@
-var mnemonic = "ice erupt assist symbol either dove impose custom sketch decide sun tool";
+var mnemonic = "ill text unlock hood grief urge increase still slow plate skull promote";

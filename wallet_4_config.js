@@ -1,1 +1,1 @@
-var mnemonic = "west pigeon heart caution together capable pledge mango arch solve program foster";
+var mnemonic = "borrow lunar warm magic supply brick doll leaf uphold about laptop receive";

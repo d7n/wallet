@@ -1,1 +1,1 @@
-var mnemonic = "journey mule law apology clown mammal sauce twin enemy auto mammal tourist";
+var mnemonic = "code caution satoshi toe hover caution elder text immune cricket gloom hedgehog";

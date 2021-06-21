@@ -1,1 +1,1 @@
-var mnemonic = "smoke donate know fruit humor carbon danger pitch security excess liar there";
+var mnemonic = "fish galaxy flavor sibling nasty speak maid genre peace era cry cube";

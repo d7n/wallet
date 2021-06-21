@@ -1,1 +1,1 @@
-var mnemonic = "simple design magnet cousin mechanic sniff thank myth ramp page now tired";
+var mnemonic = "sock spare history barely silly sadness word disease negative witness soda host";

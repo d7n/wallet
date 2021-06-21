@@ -1,1 +1,1 @@
-var mnemonic = "select mention expose gather interest curve room crop circle room orange excite";
+var mnemonic = "ready salon message flower rude iron act hard general antique remember vacant";

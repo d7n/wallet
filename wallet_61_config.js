@@ -1,1 +1,1 @@
-var mnemonic = "birth used carpet robot tool setup book coral damage camera grief vacant";
+var mnemonic = "canoe tattoo crowd category resist lonely quantum rough time elephant worth chest";

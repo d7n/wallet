@@ -1,1 +1,1 @@
-var mnemonic = "shallow tape gasp fox since grace become style wrap found knife fury";
+var mnemonic = "divide dinner obey armed rotate craft fat news tonight donate drink enrich";

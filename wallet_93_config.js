@@ -1,1 +1,1 @@
-var mnemonic = "skin inch donor sand yard turkey law venue history chief govern stamp";
+var mnemonic = "kite mother pony lady glove shoot into concert steel dumb chimney attract";

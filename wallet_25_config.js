@@ -1,1 +1,1 @@
-var mnemonic = "just congress spare transfer soft blouse story sock nasty poverty trial label";
+var mnemonic = "pelican flee hurt bone write gift hand lounge rail way domain ordinary";

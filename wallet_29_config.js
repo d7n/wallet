@@ -1,1 +1,1 @@
-var mnemonic = "token venture this vote glare tunnel diary credit visa course excuse laptop";
+var mnemonic = "dog cup crucial dry solve fiscal maple meadow flame pig trend unfair";

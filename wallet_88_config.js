@@ -1,1 +1,1 @@
-var mnemonic = "brand dose leaf intact turn predict tell charge wool slow team stem";
+var mnemonic = "foot relax success critic couch sight begin wise captain easy rifle laundry";

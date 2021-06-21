@@ -1,1 +1,1 @@
-var mnemonic = "hen index mother gift eagle trap check parrot tongue cancel model liar";
+var mnemonic = "picture gas avocado bridge scale onion dune alien recall wrong anxiety young";

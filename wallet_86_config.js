@@ -1,1 +1,1 @@
-var mnemonic = "balance waste blossom model toilet north ready web cake box rate shock";
+var mnemonic = "cinnamon kiss clog supply rival stand horn slice snack hobby sleep guard";

@@ -1,1 +1,1 @@
-var mnemonic = "choice install diesel example wise shiver dash buffalo kingdom pave midnight gas";
+var mnemonic = "duty vendor charge fossil hood nasty clutch tomorrow expect repeat elegant cool";

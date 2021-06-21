@@ -1,1 +1,1 @@
-var mnemonic = "opinion avocado mystery gain remember demand upset fatal banana bean manual pioneer";
+var mnemonic = "aspect enforce shock owner panel autumn long morning steak soccer bean salmon";

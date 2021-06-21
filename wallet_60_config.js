@@ -1,1 +1,1 @@
-var mnemonic = "bag worry crew expand labor time track earth reward second change public";
+var mnemonic = "ice bunker unique sword ridge like road immense truly often divide sell";

@@ -1,1 +1,1 @@
-var mnemonic = "nephew trap toilet beauty give shock chalk morning gain episode best sell";
+var mnemonic = "census wild report wrist alley distance polar coin century awful favorite festival";

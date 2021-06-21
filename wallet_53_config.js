@@ -1,1 +1,1 @@
-var mnemonic = "cheap uncover focus stumble virtual panther soon taxi library anchor leave minimum";
+var mnemonic = "sand grain anger cage vendor loyal october cat olympic elder trick craft";

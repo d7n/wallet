@@ -1,1 +1,1 @@
-var mnemonic = "mushroom burger pitch atom cupboard slogan knife destroy trash village slim asthma";
+var mnemonic = "tumble civil inquiry universe coin embrace thrive wonder summer news similar crawl";

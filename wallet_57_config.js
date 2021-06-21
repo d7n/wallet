@@ -1,1 +1,1 @@
-var mnemonic = "reflect decade boring occur rhythm claw basic pass fragile garbage priority airport";
+var mnemonic = "antique ski swarm rent banana purity indoor heavy cabbage puppy bundle betray";

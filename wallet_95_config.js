@@ -1,1 +1,1 @@
-var mnemonic = "error brand obvious runway term shaft hawk rose capable wife curious visit";
+var mnemonic = "push silver region afraid spread donor upset drop useless finger coil asthma";

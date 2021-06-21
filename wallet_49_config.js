@@ -1,1 +1,1 @@
-var mnemonic = "slow act cattle finger fuel pass nature diagram grocery license sentence comic";
+var mnemonic = "danger spray trial club genuine sketch fruit window chef clinic churn prepare";

@@ -1,1 +1,1 @@
-var mnemonic = "maximum typical stable task ask aunt human visual genuine capable scrub panda";
+var mnemonic = "short practice hour pride scene title zebra arrive yard forward indoor cricket";

@@ -1,1 +1,1 @@
-var mnemonic = "switch notice swap surprise verb humor alpha business sugar sort scene warm";
+var mnemonic = "mind tobacco produce coffee legend average soldier retire income inflict coil spoil";

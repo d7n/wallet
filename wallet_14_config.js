@@ -1,1 +1,1 @@
-var mnemonic = "wait melt alley awake catch praise mimic cruel excess airport century device";
+var mnemonic = "visa tube lonely nice approve inflict goat afraid sleep dove brass inherit";

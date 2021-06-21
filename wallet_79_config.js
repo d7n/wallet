@@ -1,1 +1,1 @@
-var mnemonic = "actual combine embody gate basket collect truly orbit picture lawsuit during flush";
+var mnemonic = "common boat menu alter video plate require enforce search veteran razor raw";

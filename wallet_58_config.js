@@ -1,1 +1,1 @@
-var mnemonic = "budget method pupil steak fish crash sport install police above defy record";
+var mnemonic = "casino caution genuine sword affair infant asthma oven act trim achieve ozone";

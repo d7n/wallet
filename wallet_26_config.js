@@ -1,1 +1,1 @@
-var mnemonic = "census exhaust safe fruit judge thunder gorilla clog sail alpha audit museum";
+var mnemonic = "punch pride bundle damp camera paper actual cup pudding basket solid boring";

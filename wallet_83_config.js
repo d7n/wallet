@@ -1,1 +1,1 @@
-var mnemonic = "scheme merry domain hub miracle armed finger planet shiver electric patient salt";
+var mnemonic = "today evoke master book setup kidney quantum bunker orbit swarm child walk";

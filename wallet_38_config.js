@@ -1,1 +1,1 @@
-var mnemonic = "device love shiver river vital bubble survey about animal window multiply thumb";
+var mnemonic = "spot brown slam label same enrich identify vocal supply dad minor dice";

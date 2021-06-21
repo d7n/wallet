@@ -1,1 +1,1 @@
-var mnemonic = "guide duck smoke raw private since view permit trade ginger expose country";
+var mnemonic = "tattoo sleep tiger whip lion wage swear unveil grape skull design already";

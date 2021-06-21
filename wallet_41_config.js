@@ -1,1 +1,1 @@
-var mnemonic = "field bread need wife veteran scheme increase excess verify interest scorpion cream";
+var mnemonic = "cave sugar action special need prefer cheap wagon pole raise toy tongue";

@@ -1,1 +1,1 @@
-var mnemonic = "sleep bicycle quick arch supreme dismiss brush absorb boy grab critic code";
+var mnemonic = "romance walk key zone size panther voice puppy saddle they one erode";

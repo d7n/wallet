@@ -1,1 +1,1 @@
-var mnemonic = "art carpet dinner together tooth spread crumble axis captain electric panda fish";
+var mnemonic = "salmon list rapid bullet west forget cute follow frog plate fit lemon";

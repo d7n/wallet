@@ -1,1 +1,1 @@
-var mnemonic = "before damp era wonder symbol lamp noble outdoor junk tragic green trigger";
+var mnemonic = "bundle economy noise denial erosion school harsh method sight approve day grief";

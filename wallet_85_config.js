@@ -1,1 +1,1 @@
-var mnemonic = "hammer degree nut strategy derive achieve bulb crumble income grant manual cave";
+var mnemonic = "segment wheel hen fire before roof false inside same current claw defense";

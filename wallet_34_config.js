@@ -1,1 +1,1 @@
-var mnemonic = "crop lunar lecture garment theme cotton disease apple advance cry spoil immense";
+var mnemonic = "pencil grow inside property caught agree input blossom vintage unusual manage shed";

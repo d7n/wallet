@@ -1,1 +1,1 @@
-var mnemonic = "plate tragic donate replace include wise scatter neither draw region hair review";
+var mnemonic = "gown weather stuff peasant dizzy slide fantasy cube deal core eagle paper";

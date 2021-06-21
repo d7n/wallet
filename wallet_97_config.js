@@ -1,1 +1,1 @@
-var mnemonic = "receive alpha crystal marble suit bleak radio iron media open devote camera";
+var mnemonic = "change movie slender north minimum pipe novel world nut route basket draft";

@@ -1,1 +1,1 @@
-var mnemonic = "galaxy number fortune embody smooth hurdle wreck doll segment transfer tourist violin";
+var mnemonic = "canoe sponsor predict math drill secret inquiry height meadow salute broken virus";

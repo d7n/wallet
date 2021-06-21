@@ -1,1 +1,1 @@
-var mnemonic = "bind rival panel merit obscure exclude grit daring expand wife outer bless";
+var mnemonic = "gasp inflict siren airport popular tone nest balance menu walk uncle near";

@@ -1,1 +1,1 @@
-var mnemonic = "general live wild egg silver inflict blouse glance inmate safe winter liar";
+var mnemonic = "project lazy spring uncover rubber canal burst regret material aerobic tribe embody";

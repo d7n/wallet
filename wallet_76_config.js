@@ -1,1 +1,1 @@
-var mnemonic = "monkey bitter real when pelican actual input rain inner pen yellow cycle";
+var mnemonic = "fold bunker banana jungle cloud device armed atom clean slice afford rhythm";

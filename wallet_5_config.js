@@ -1,1 +1,1 @@
-var mnemonic = "loop sting cube parrot album junk festival file relax pave provide dinner";
+var mnemonic = "acoustic robot smoke provide myself sun kitchen cliff planet taste pink sign";

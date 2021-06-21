@@ -1,1 +1,1 @@
-var mnemonic = "math salad chest wire silk issue hollow remind theory blue napkin idea";
+var mnemonic = "mandate orphan diesel loan riot rookie liberty fiction divorce chimney brief stadium";

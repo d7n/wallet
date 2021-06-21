@@ -1,1 +1,1 @@
-var mnemonic = "planet toast zone manual stomach document off midnight clarify candy journey library";
+var mnemonic = "idea inflict champion reward milk position rather sketch giraffe major describe begin";

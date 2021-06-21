@@ -1,1 +1,1 @@
-var mnemonic = "tide dog easy inherit sorry sleep crush found subway zebra tornado inside";
+var mnemonic = "build shoe lawn between hint lawsuit when omit cigar eager erode cube";

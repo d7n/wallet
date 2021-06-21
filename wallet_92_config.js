@@ -1,1 +1,1 @@
-var mnemonic = "water guitar void chair bachelor hint hawk risk beyond rack curtain neither";
+var mnemonic = "conduct fan fragile unlock emotion hero lucky seven vocal letter life box";

@@ -1,1 +1,1 @@
-var mnemonic = "north spread earth flip local spin panda debate more today near phrase";
+var mnemonic = "glass derive cattle horn panda cup ancient project test general bonus flavor";

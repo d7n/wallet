@@ -1,1 +1,1 @@
-var mnemonic = "nose sister devote auction outer story sniff behave maple room noble pause";
+var mnemonic = "holiday slice cement vacuum number helmet midnight blur decide you shine damage";

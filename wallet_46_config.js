@@ -1,1 +1,1 @@
-var mnemonic = "pyramid spider gossip curtain donate oven focus follow type blossom fragile core";
+var mnemonic = "purchase denial blouse into wash stick laugh balcony dream gentle orphan family";

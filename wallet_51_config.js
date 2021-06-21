@@ -1,1 +1,1 @@
-var mnemonic = "relief discover cup grid become catch elephant tobacco ocean cycle powder surge";
+var mnemonic = "ball focus profit stumble mom beach meat child region okay chief derive";

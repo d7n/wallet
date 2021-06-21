@@ -1,1 +1,1 @@
-var mnemonic = "tone forget lobster attack child various river today much east tragic donate";
+var mnemonic = "park antique talk pen utility effort east father pledge truly squeeze sketch";

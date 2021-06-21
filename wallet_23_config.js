@@ -1,1 +1,1 @@
-var mnemonic = "obey wagon summer fresh business doll afford organ visa demise number pumpkin";
+var mnemonic = "blind peanut joke hundred treat possible enhance bachelor assume loud fiction enough";

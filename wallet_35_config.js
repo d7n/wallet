@@ -1,1 +1,1 @@
-var mnemonic = "gather apple swap defense gun baby evolve globe oven sample differ throw";
+var mnemonic = "color flash defy dove tank donor best online crack please mammal candy";

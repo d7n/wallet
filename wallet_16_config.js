@@ -1,1 +1,1 @@
-var mnemonic = "since hold grief lift echo scheme sauce rabbit similar obtain pet spy";
+var mnemonic = "flame lonely merit access access trumpet before visual cheap harvest roof win";

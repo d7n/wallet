@@ -1,1 +1,1 @@
-var mnemonic = "shop awake chief guilt hole table office together sure smile february split";
+var mnemonic = "grace stuff follow jeans unfold disorder lens rebel crisp pepper daring beauty";

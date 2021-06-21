@@ -1,1 +1,1 @@
-var mnemonic = "job undo struggle novel cool bless ticket since grain hole top prevent";
+var mnemonic = "aerobic exhaust fruit put bomb guide proud suggest swarm fatal globe educate";

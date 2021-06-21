@@ -1,1 +1,1 @@
-var mnemonic = "arena pond fold pudding become lobster south earth ankle vacuum aisle bar";
+var mnemonic = "silly summer acquire legend latin valid vivid bubble kitchen rug coffee wedding";

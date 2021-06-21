@@ -1,1 +1,1 @@
-var mnemonic = "decade van museum wine manage certain tennis knee puzzle remind firm plunge";
+var mnemonic = "online ride blade sheriff cram rule camp fury dress august spoil fatal";

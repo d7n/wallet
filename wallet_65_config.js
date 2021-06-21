@@ -1,1 +1,1 @@
-var mnemonic = "normal brick nurse empower that chapter mixture slight brave error leopard vapor";
+var mnemonic = "ability weird early receive ensure decline sound pair fuel student dial behind";

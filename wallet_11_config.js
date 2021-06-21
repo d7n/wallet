@@ -1,1 +1,1 @@
-var mnemonic = "crack annual erupt mango water tiger pumpkin cage weird eye educate shrug";
+var mnemonic = "dog tower garage excite energy remove sunset sword long picnic modify gasp";

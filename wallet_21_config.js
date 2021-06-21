@@ -1,1 +1,1 @@
-var mnemonic = "shine speed exclude empty moment carbon ensure dune jealous long ship ozone";
+var mnemonic = "decorate voyage rigid close april ship list run behind october you perfect";

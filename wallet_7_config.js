@@ -1,1 +1,1 @@
-var mnemonic = "drink fit rabbit genuine argue talent unable journey cause sleep priority helmet";
+var mnemonic = "way carry height danger water team sea march sight slide edit huge";

@@ -1,1 +1,1 @@
-var mnemonic = "undo surround fame series outer before grass eternal circle security tomato voice";
+var mnemonic = "poem gorilla sudden prison lobster syrup hour destroy soup curious coil enforce";

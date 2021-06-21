@@ -1,1 +1,1 @@
-var mnemonic = "city amount orbit inch adult poet dad regret jealous able guitar wall";
+var mnemonic = "cover hurry episode pave trend away great brief attitude bronze witness lock";

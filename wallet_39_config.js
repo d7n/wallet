@@ -1,1 +1,1 @@
-var mnemonic = "stairs usual title key apart crowd define near rabbit uphold maid plunge";
+var mnemonic = "ride attitude unknown clerk clever boss dress canvas amateur success alert reflect";

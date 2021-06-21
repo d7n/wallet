@@ -1,1 +1,1 @@
-var mnemonic = "list aisle fall tide hold kingdom entire poem shoot bar turn also";
+var mnemonic = "rent horse average sea swallow tilt maze abstract grace tumble cat van";

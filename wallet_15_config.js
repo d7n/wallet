@@ -1,1 +1,1 @@
-var mnemonic = "eager angry arrest habit undo yard hamster error ocean snow shoot dawn";
+var mnemonic = "ensure citizen large exchange base expire milk friend people object proud cactus";

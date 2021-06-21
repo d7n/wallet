@@ -1,1 +1,1 @@
-var mnemonic = "half fiscal video health march drama spell abandon floor track select balance";
+var mnemonic = "hint magic vacuum dose awful vault armed trophy wool possible post gaze";

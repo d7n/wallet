@@ -1,1 +1,1 @@
-var mnemonic = "glide humor little liberty motion solid barely dad price boss detail tennis";
+var mnemonic = "ozone hedgehog vote planet timber marriage upper design village soup column flight";

@@ -1,1 +1,1 @@
-var mnemonic = "behave tattoo mixed join dwarf urge clarify middle large crew model horse";
+var mnemonic = "party robot spell dentist post keen ripple toe evolve gate inflict talk";

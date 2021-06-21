@@ -1,1 +1,1 @@
-var mnemonic = "manage chunk salmon sweet leisure shell soft logic day canyon inner distance";
+var mnemonic = "steak blame ancient cage output cousin whale journey top toe woman concert";

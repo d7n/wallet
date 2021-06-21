@@ -1,1 +1,1 @@
-var mnemonic = "prosper erupt help assume run shock ship diet material note acid public";
+var mnemonic = "catch receive swim spice nephew fat hand afford flash style upper ability";

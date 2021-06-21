@@ -1,1 +1,1 @@
-var mnemonic = "tell plunge cause stairs thunder lift veteran trash smooth nation piano series";
+var mnemonic = "keep tragic achieve vote travel develop salute come plastic mad world genius";

@@ -1,1 +1,1 @@
-var mnemonic = "economy erupt elegant meat other edge trumpet pause regular pull grid parade";
+var mnemonic = "obtain citizen quality error husband embody scout mesh purpose know camera sea";

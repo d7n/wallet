@@ -1,1 +1,1 @@
-var mnemonic = "prevent aerobic anchor evidence mix upgrade noble opera stone cover angry six";
+var mnemonic = "picnic pride switch work essay gather catalog sadness ice sure jewel choose";

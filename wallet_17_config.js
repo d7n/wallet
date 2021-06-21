@@ -1,1 +1,1 @@
-var mnemonic = "total cable before elder safe sense cement opinion rescue prosper spend pigeon";
+var mnemonic = "virus elder genuine verb wonder property zone speed dove rare magic weather";

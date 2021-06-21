@@ -1,1 +1,1 @@
-var mnemonic = "box half concert soft distance echo deliver multiply soccer drive nuclear stock";
+var mnemonic = "pear quantum main cup actual seat into frame resist family crawl kitchen";

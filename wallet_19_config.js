@@ -1,1 +1,1 @@
-var mnemonic = "prepare rich mule miss rebel dad state inch bitter record fresh chase";
+var mnemonic = "sleep office stable alert menu engine garlic sick vibrant file also enjoy";

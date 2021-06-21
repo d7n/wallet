@@ -1,1 +1,1 @@
-var mnemonic = "win siege mobile mimic glimpse reward asset swamp afraid museum clog witness";
+var mnemonic = "salad mention grit room evil ridge use silk butter cricket ladder until";

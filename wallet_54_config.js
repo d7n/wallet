@@ -1,1 +1,1 @@
-var mnemonic = "quality swing oyster badge average easy field click gold autumn media rabbit";
+var mnemonic = "december prize level sail cupboard crime mix ritual birth spell person jazz";

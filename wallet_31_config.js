@@ -1,1 +1,1 @@
-var mnemonic = "path session hard ride can couch recipe surface disagree please rebel carbon";
+var mnemonic = "figure cute shrimp father ordinary fitness nothing cream symptom split giggle pole";

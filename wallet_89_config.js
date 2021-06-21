@@ -1,1 +1,1 @@
-var mnemonic = "ladder deputy gauge squirrel devote trial scene gallery bar shed anchor vicious";
+var mnemonic = "recall sweet remove cash cotton flush exclude plunge multiply solid subway apart";

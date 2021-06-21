@@ -1,1 +1,1 @@
-var mnemonic = "diet inform ranch reason stem bless elegant repeat rapid cheap box scare";
+var mnemonic = "acquire soldier cherry fancy write spice skirt novel aim maid plate rival";

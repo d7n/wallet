@@ -1,1 +1,1 @@
-var mnemonic = "arena viable barely govern fall token scheme echo assault index flag way";
+var mnemonic = "clay budget boat ordinary repair hospital satisfy victory relax fetch derive toddler";
