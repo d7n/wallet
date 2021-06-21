@@ -1,1 +1,1 @@
-var mnemonic = "hour funny mango more lawn tourist alien kidney damage gadget remind pupil";
+var mnemonic = "soft private flock ceiling shallow answer orchard shuffle angry public screen city";

@@ -1,1 +1,1 @@
-var mnemonic = "dismiss reward key deliver quit course forget regret zebra harsh lecture scan";
+var mnemonic = "move citizen blue entire tube rubber okay purchase culture eye hour battle";

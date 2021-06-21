@@ -1,1 +1,1 @@
-var mnemonic = "ahead buffalo mom vehicle length spider diet loud bright demise ramp same";
+var mnemonic = "jar skin green dolphin pride guilt trap praise mule mixed defy soldier";

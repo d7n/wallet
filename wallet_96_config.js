@@ -1,1 +1,1 @@
-var mnemonic = "occur fresh dumb cactus creek clip nuclear laptop verb fluid dice pepper";
+var mnemonic = "garment struggle penalty room sugar raccoon copper promote stay twice stay solid";

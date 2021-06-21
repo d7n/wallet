@@ -1,1 +1,1 @@
-var mnemonic = "jar dilemma aerobic obscure school panel embrace artwork six rate trend situate";
+var mnemonic = "fluid club possible please expire blouse tackle income broom chuckle advance capable";

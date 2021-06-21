@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon message this wrong pet spoon inch select warm hair fork speak";
+var mnemonic = "skate multiply write juice deliver uncle super this uncover huge response snack";

@@ -1,1 +1,1 @@
-var mnemonic = "gloom arrange disorder blast person gap crane upper idea stove velvet hour";
+var mnemonic = "monster moral keep best diamond keep coconut pioneer figure learn sleep ranch";

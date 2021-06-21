@@ -1,1 +1,1 @@
-var mnemonic = "knife sweet issue spot deposit mass inhale clinic front abstract aunt clock";
+var mnemonic = "crime witness supply tiger bag recall scan pottery lobster cake color final";

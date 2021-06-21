@@ -1,1 +1,1 @@
-var mnemonic = "swamp pride dilemma tiny lamp salmon spoil father acid hazard neither cheese";
+var mnemonic = "width chicken panel print among mind social very suggest reduce proof burst";

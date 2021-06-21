@@ -1,1 +1,1 @@
-var mnemonic = "bronze truck helmet fire bitter exclude can ostrich toddler lumber pyramid female";
+var mnemonic = "excuse gentle turn green ask inflict morning bulk brown broken dolphin ticket";

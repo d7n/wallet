@@ -1,1 +1,1 @@
-var mnemonic = "obtain sugar stumble fat stumble baby fame warrior friend couch title oven";
+var mnemonic = "spray toe alone elephant solar utility regret remove omit cross punch possible";

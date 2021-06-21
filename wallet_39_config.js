@@ -1,1 +1,1 @@
-var mnemonic = "inhale wedding length gap glance memory found urban basket erase muffin cruel";
+var mnemonic = "tumble box include amateur wedding inhale ribbon company toward phrase brass various";

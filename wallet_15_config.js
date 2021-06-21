@@ -1,1 +1,1 @@
-var mnemonic = "music once green tennis steak cave earth wife volume filter filter labor";
+var mnemonic = "scheme boost sausage october champion actual arrange drop barrel swing finger victory";

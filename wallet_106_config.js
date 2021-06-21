@@ -1,1 +1,1 @@
-var mnemonic = "figure aim senior clinic chalk click measure supply drama ketchup drift endless";
+var mnemonic = "trash gain donate strike entire void square famous kitten faith copy tool";

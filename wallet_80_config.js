@@ -1,1 +1,1 @@
-var mnemonic = "tooth bacon clip spider giggle lawn few globe naive bargain people concert";
+var mnemonic = "clump indicate erupt stick welcome monster teach sadness unusual worry brand dumb";

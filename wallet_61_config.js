@@ -1,1 +1,1 @@
-var mnemonic = "disorder machine donor neutral arch wheel off roof exercise actress fiber square";
+var mnemonic = "trophy dune sudden dynamic predict onion category hard three cruel cloth month";

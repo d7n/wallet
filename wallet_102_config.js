@@ -1,1 +1,1 @@
-var mnemonic = "lumber vivid execute keep across cheap way immense talent auction juice kitten";
+var mnemonic = "priority apart accuse radar include truck sign warfare element edge legend dismiss";

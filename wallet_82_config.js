@@ -1,1 +1,1 @@
-var mnemonic = "clarify hotel fire method visit idea path smile grief athlete giant coin";
+var mnemonic = "peasant park try sniff era top inspire pulp organ project fox faculty";

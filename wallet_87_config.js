@@ -1,1 +1,1 @@
-var mnemonic = "pioneer apple neutral scene click vehicle echo nephew common winner load feature";
+var mnemonic = "depart urban soul dash chef height object inner october blur hood sadness";

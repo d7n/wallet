@@ -1,1 +1,1 @@
-var mnemonic = "erode aware inside final disagree sustain float true purity caution force language";
+var mnemonic = "bean away token situate cram infant region very swift achieve fragile elephant";

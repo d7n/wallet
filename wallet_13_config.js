@@ -1,1 +1,1 @@
-var mnemonic = "imitate early plastic position stadium bring despair ridge census fortune midnight outer";
+var mnemonic = "tail ginger pattern result gravity hobby desert secret tiny universe link coffee";

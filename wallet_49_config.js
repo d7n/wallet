@@ -1,1 +1,1 @@
-var mnemonic = "cage uncle idea bargain drip embark video alone excess trouble young ordinary";
+var mnemonic = "scissors paper pen permit trick mistake tank want pave outer squeeze segment";

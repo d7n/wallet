@@ -1,1 +1,1 @@
-var mnemonic = "tortoise have private armed cloud mammal theme wrap noodle place black tiger";
+var mnemonic = "coffee visit goddess vault position symptom table sample oppose spoil mammal steel";

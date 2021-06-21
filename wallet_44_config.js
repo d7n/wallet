@@ -1,1 +1,1 @@
-var mnemonic = "drip mesh sugar wool robust area review custom client parent object foil";
+var mnemonic = "exercise soap divorce share volume drink run exclude foot blood breeze maze";

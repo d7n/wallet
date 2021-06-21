@@ -1,1 +1,1 @@
-var mnemonic = "copper bright casino razor patrol ugly garment afford boss april casino true";
+var mnemonic = "resemble flip since valley detail left mango element sphere corn undo surge";

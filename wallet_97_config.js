@@ -1,1 +1,1 @@
-var mnemonic = "nothing vacant farm lumber impulse area pledge situate indoor catch chaos include";
+var mnemonic = "chronic ship hope fringe pony memory half amused room bar congress write";

@@ -1,1 +1,1 @@
-var mnemonic = "scorpion same bid clerk coral couple yellow menu cushion shoulder verify entry";
+var mnemonic = "strike filter virtual peanut goose census aspect few climb south cube spray";

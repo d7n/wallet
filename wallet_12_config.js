@@ -1,1 +1,1 @@
-var mnemonic = "verb rapid door nut oil morning bonus quiz race echo exist left";
+var mnemonic = "decline logic kiss hill rubber muscle frequent cart message jaguar truck camp";

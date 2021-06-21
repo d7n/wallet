@@ -1,1 +1,1 @@
-var mnemonic = "cabbage excess away only deer short beef cash submit visit provide divorce";
+var mnemonic = "fruit because napkin ginger major off test weather wave tower pave peasant";

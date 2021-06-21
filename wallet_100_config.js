@@ -1,1 +1,1 @@
-var mnemonic = "shift together eyebrow pond shoot advance assault master course budget approve blast";
+var mnemonic = "nest suffer chuckle civil discover blouse gather magnet addict keen decade wing";

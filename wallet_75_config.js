@@ -1,1 +1,1 @@
-var mnemonic = "inflict play oil enlist sound ten small pulp minute soft baby artwork";
+var mnemonic = "velvet foster afford exhaust cause verify sick beauty street creek taste mean";

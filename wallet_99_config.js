@@ -1,1 +1,1 @@
-var mnemonic = "quit slogan arrow fitness phrase coast stone option shell song throw amateur";
+var mnemonic = "spot execute buddy pitch frown churn smile rude ceiling fine swing fee";

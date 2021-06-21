@@ -1,1 +1,1 @@
-var mnemonic = "glove much melody frozen deputy shine close cable sight left cry come";
+var mnemonic = "broccoli scorpion core boy matter drum guitar major own rail exhaust love";

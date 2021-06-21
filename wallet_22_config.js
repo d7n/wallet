@@ -1,1 +1,1 @@
-var mnemonic = "burger runway guard bottom tragic behave furnace truth cross suit brisk woman";
+var mnemonic = "media differ pool defense material ecology traffic desert cave team cry project";

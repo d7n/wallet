@@ -1,1 +1,1 @@
-var mnemonic = "balcony victory avoid drift tape model venue trial game jungle hobby tonight";
+var mnemonic = "vanish confirm must ankle bomb another mail point used green brain certain";

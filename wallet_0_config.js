@@ -1,1 +1,1 @@
-var mnemonic = "surround sand mention napkin detail amount option one syrup like axis rare";
+var mnemonic = "odor yellow gospel size glory cloud stairs van oval jump merit bronze";

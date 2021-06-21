@@ -1,1 +1,1 @@
-var mnemonic = "forward enact reduce tiny monster hedgehog main flight blood capital nut slide";
+var mnemonic = "umbrella vicious bike come start hill valid spider elegant girl east shallow";

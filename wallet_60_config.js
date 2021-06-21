@@ -1,1 +1,1 @@
-var mnemonic = "language glow guitar provide timber agree guide spread lunar around drum slide";
+var mnemonic = "extra giggle accident rubber spice edit tourist sun point expect they behind";

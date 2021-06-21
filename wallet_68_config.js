@@ -1,1 +1,1 @@
-var mnemonic = "length talent deny rich flock elephant weather vital daring belt bomb kind";
+var mnemonic = "pyramid fish unaware magnet base syrup base debris tide aware good lion";

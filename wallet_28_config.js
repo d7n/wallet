@@ -1,1 +1,1 @@
-var mnemonic = "arrest situate cross viable joy genius segment fatal merit object syrup flip";
+var mnemonic = "recycle act shield until right trap mystery museum raccoon hurt indicate achieve";

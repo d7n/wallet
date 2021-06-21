@@ -1,1 +1,1 @@
-var mnemonic = "fitness praise light rug engage royal marble team girl write faith old";
+var mnemonic = "time caught orange cheap mountain original rack admit sound reward next arch";

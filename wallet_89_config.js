@@ -1,1 +1,1 @@
-var mnemonic = "anchor sing fossil brass choice shield opinion goose spend rigid tree client";
+var mnemonic = "bird suggest siege outer seminar giant mushroom endorse eyebrow frame person toddler";

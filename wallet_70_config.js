@@ -1,1 +1,1 @@
-var mnemonic = "apart cactus elite cube satisfy atom forest armor naive grace item increase";
+var mnemonic = "raccoon ancient apple truly lend unusual spatial sign design bachelor buzz erupt";

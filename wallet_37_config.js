@@ -1,1 +1,1 @@
-var mnemonic = "category across jungle reflect february volume vendor work cannon tower unfair snap";
+var mnemonic = "awesome inner hero skin cushion shrimp water ceiling answer current tuition country";

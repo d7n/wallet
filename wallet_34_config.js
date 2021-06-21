@@ -1,1 +1,1 @@
-var mnemonic = "surprise follow apple relief regret tortoise dust beach choice agree argue improve";
+var mnemonic = "end answer kite collect venture cram shiver rose casual basket east magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "extra city couple spice pole puppy chaos bitter scatter soup tool foot";
+var mnemonic = "spider label system pause sniff symptom raw lamp scatter impact daring foil";

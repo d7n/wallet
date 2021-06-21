@@ -1,1 +1,1 @@
-var mnemonic = "rose cabin junk neck tube suffer rack obtain robot give frown gown";
+var mnemonic = "settle bind list cancel spread hurdle donate practice october hole lawn process";

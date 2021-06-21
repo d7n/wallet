@@ -1,1 +1,1 @@
-var mnemonic = "leaf term tilt ethics praise remind vintage mountain person boring gasp weather";
+var mnemonic = "seat feel casual pyramid gown spoon common symptom slogan level skirt scene";

@@ -1,1 +1,1 @@
-var mnemonic = "bargain swarm vacant orphan lottery exercise sand gate diet puzzle knee oak";
+var mnemonic = "crane village feel gaze anchor lobster luggage trap hunt crisp olympic young";

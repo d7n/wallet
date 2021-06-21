@@ -1,1 +1,1 @@
-var mnemonic = "lonely common decide sentence social divert merge battle virtual patch hidden bullet";
+var mnemonic = "universe dynamic advice rescue guess lens common anger enable drip day invite";

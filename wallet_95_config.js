@@ -1,1 +1,1 @@
-var mnemonic = "robust pilot depend female easy alert hamster term sea ranch furnace cart";
+var mnemonic = "twenty cancel ethics oak ankle position cry arrive carry blouse verify winner";

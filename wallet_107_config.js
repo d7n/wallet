@@ -1,1 +1,1 @@
-var mnemonic = "resemble ripple affair hour topic lava must siren gap mixed latin tumble";
+var mnemonic = "tip neck manage pilot staff powder explain gaze solve media where slogan";

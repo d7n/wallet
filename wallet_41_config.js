@@ -1,1 +1,1 @@
-var mnemonic = "report spoon feel brave naive innocent similar bottom fitness jump sunset host";
+var mnemonic = "accuse future penalty insect ocean retire salt first sport mango hour result";

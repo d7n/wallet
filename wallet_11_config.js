@@ -1,1 +1,1 @@
-var mnemonic = "resemble lucky tool polar various sign marble horse amount away gauge load";
+var mnemonic = "mule lucky vote grief confirm silent master champion tree board thunder promote";

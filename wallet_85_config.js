@@ -1,1 +1,1 @@
-var mnemonic = "march maximum desk hidden zone aware spider require reveal reject cargo crush";
+var mnemonic = "habit bus offer save film fog double spoil any fan gold galaxy";

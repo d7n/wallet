@@ -1,1 +1,1 @@
-var mnemonic = "thank endorse social resist friend ranch crouch kangaroo lemon vicious shiver valve";
+var mnemonic = "elephant satisfy neither earth vacant moral grid lazy original kangaroo knife need";

@@ -1,1 +1,1 @@
-var mnemonic = "lab imitate crunch spirit zoo obscure mind glue shrimp frown address angle";
+var mnemonic = "client hospital cluster shove riot baby spirit crisp chimney cube fluid interest";

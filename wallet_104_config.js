@@ -1,1 +1,1 @@
-var mnemonic = "where sport grid fold usage field glass shop live clown join crane";
+var mnemonic = "trade seven pill treat vehicle today quality island promote invite whip pen";

@@ -1,1 +1,1 @@
-var mnemonic = "fluid rib floor huge mistake issue word window parade tumble shaft leisure";
+var mnemonic = "elder stereo virus long offer valley fit front undo basic roast park";

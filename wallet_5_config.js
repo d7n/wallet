@@ -1,1 +1,1 @@
-var mnemonic = "device fence forget fiscal exile control rifle cinnamon kitten aisle inner gown";
+var mnemonic = "brother eagle spread favorite music can dog quality pigeon chapter maid thrive";

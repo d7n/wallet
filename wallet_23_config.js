@@ -1,1 +1,1 @@
-var mnemonic = "choose whale antenna omit assault fruit fan session question ranch erupt blame";
+var mnemonic = "office glove rebel choice wall bicycle obey derive volcano observe ignore filter";

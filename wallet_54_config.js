@@ -1,1 +1,1 @@
-var mnemonic = "sting era logic ghost hold beef spoil blast fade cactus stock couple";
+var mnemonic = "item blue dial tiny winner since noise search hunt swim only bright";

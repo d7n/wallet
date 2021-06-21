@@ -1,1 +1,1 @@
-var mnemonic = "hidden dwarf cotton immune oppose exercise sadness chalk song noble present luxury";
+var mnemonic = "fiction loyal goddess ancient nothing sustain layer release sponsor soldier column despair";

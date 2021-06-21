@@ -1,1 +1,1 @@
-var mnemonic = "panel extend alarm belt wrong cricket erupt chest script bitter atom soup";
+var mnemonic = "snow rapid brand critic core split honey drum hobby image letter solution";

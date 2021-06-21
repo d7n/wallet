@@ -1,1 +1,1 @@
-var mnemonic = "clump talk silver monkey vote network direct paper over glow deer program";
+var mnemonic = "destroy benefit caught spice clump trouble salon february bridge critic marine gorilla";

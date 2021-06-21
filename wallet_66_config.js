@@ -1,1 +1,1 @@
-var mnemonic = "endless risk tired table trade museum jungle loop whip note uncover hollow";
+var mnemonic = "kidney leave across enable one flame bless birth plunge digital column canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "gift top ridge perfect bone soldier waste shove govern cushion surge buzz";
+var mnemonic = "total hedgehog curtain reason wise slot moon cup drift immense cram cupboard";

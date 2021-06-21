@@ -1,1 +1,1 @@
-var mnemonic = "crime panther attend rubber method intact zebra state athlete wave myth train";
+var mnemonic = "wedding brown ensure cliff north farm film dolphin wink battle story system";

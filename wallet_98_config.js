@@ -1,1 +1,1 @@
-var mnemonic = "trim knife mushroom curtain mesh govern live snap nominee short field quantum";
+var mnemonic = "win address elite dignity tray game noise east globe comic glimpse skate";

@@ -1,1 +1,1 @@
-var mnemonic = "mimic flag gold luggage narrow copper grain dirt glue clap idle vicious";
+var mnemonic = "dynamic cigar blossom orient taxi want virus jewel blouse actual require hungry";

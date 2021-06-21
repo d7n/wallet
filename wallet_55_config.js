@@ -1,1 +1,1 @@
-var mnemonic = "dwarf cousin speak hour tell soccer agree dwarf advice obtain extend ancient";
+var mnemonic = "smile syrup eight chase seminar demand explain churn country benefit cute state";

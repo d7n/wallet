@@ -1,1 +1,1 @@
-var mnemonic = "multiply shallow aware blade dismiss case sad explain session cry pyramid juice";
+var mnemonic = "tape tackle outdoor island snack birth dial purse day plug blood sorry";

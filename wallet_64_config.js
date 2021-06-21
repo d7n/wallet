@@ -1,1 +1,1 @@
-var mnemonic = "spatial bachelor gym visual depth borrow gallery balance flash basket multiply eyebrow";
+var mnemonic = "web allow layer correct fabric soccer run camp sting rug deal moon";

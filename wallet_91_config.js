@@ -1,1 +1,1 @@
-var mnemonic = "grief relax error apology soldier unfair join describe gadget fashion element picture";
+var mnemonic = "story festival ancient fragile hurry coin try cream ripple bargain find route";

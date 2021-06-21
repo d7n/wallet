@@ -1,1 +1,1 @@
-var mnemonic = "focus slide slam law assume length slight ghost mountain moon group pioneer";
+var mnemonic = "top earth morning achieve until violin poem annual gather level pioneer save";

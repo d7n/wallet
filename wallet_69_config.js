@@ -1,1 +1,1 @@
-var mnemonic = "afraid wonder solution bronze scene large tribe alert utility shield tip load";
+var mnemonic = "love pistol normal song notice column blanket stone mountain grace busy bring";

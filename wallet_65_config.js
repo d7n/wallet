@@ -1,1 +1,1 @@
-var mnemonic = "pear enter tortoise extend label nominee typical vocal unaware barrel mutual tuna";
+var mnemonic = "please donate base odor pudding author hire outer rabbit recycle urge dignity";

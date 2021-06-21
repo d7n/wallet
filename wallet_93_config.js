@@ -1,1 +1,1 @@
-var mnemonic = "move curve alter relief pond verb gentle soup boil note when boat";
+var mnemonic = "nominee sort firm section imitate matrix train car pilot hen fever donate";

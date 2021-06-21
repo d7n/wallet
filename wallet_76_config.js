@@ -1,1 +1,1 @@
-var mnemonic = "alley often balance floor oblige grief flavor usage young any plate lobster";
+var mnemonic = "decorate exit dice valley claw foam slab patient glimpse addict tired portion";

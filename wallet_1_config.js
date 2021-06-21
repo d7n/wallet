@@ -1,1 +1,1 @@
-var mnemonic = "note shell castle lyrics cattle acquire pause come neck correct occur soldier";
+var mnemonic = "team genius solution sample any toddler jump deliver cinnamon kingdom crane uniform";

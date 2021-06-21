@@ -1,1 +1,1 @@
-var mnemonic = "inform fringe parrot potato author airport betray fluid gorilla laptop budget man";
+var mnemonic = "bulb bulb bird frog planet keen catch relief border night drip dirt";

@@ -1,1 +1,1 @@
-var mnemonic = "fat own matrix metal age pride quit motion message maple gravity engage";
+var mnemonic = "love glory area address equip vague absurd ensure ensure exist you diagram";

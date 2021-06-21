@@ -1,1 +1,1 @@
-var mnemonic = "language top arrest defense task useful upset negative animal become sister bitter";
+var mnemonic = "jacket suffer blouse fence future onion shoe plate chronic please bicycle away";

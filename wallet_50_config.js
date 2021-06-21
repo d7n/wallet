@@ -1,1 +1,1 @@
-var mnemonic = "document broccoli tired lamp bike cause victory scale affair super escape buddy";
+var mnemonic = "zoo adult nephew strike phone slogan insane key silent income inmate material";

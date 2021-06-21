@@ -1,1 +1,1 @@
-var mnemonic = "market blade minimum caution response gap behave dice figure regular poem sea";
+var mnemonic = "correct nerve above robust mammal right same slight unit engine april buffalo";

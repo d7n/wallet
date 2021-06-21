@@ -1,1 +1,1 @@
-var mnemonic = "payment retreat length measure weasel spin armor coil derive ancient saddle brand";
+var mnemonic = "cousin scissors sting hire negative maximum crouch board session domain keen eight";

@@ -1,1 +1,1 @@
-var mnemonic = "dry strong home swear gallery hotel brave hungry network direct obscure smoke";
+var mnemonic = "patient rebuild unfold group food share jump panic enter dice joy daring";
