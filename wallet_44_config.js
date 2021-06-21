@@ -1,1 +1,1 @@
-var mnemonic = "banner gather treat pudding tongue crack parent mushroom hard improve unusual dinner";
+var mnemonic = "reward item fashion benefit easy include brief engage emotion proud crouch two";

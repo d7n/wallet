@@ -1,1 +1,1 @@
-var mnemonic = "trash foot during morning arrive gossip roast combine wall snow rival beyond";
+var mnemonic = "cost wish salon minor coast regular double visual proud flight plastic general";

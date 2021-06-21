@@ -1,1 +1,1 @@
-var mnemonic = "two bulb olympic disorder chef fiber butter impose upset mobile tumble sail";
+var mnemonic = "sight brave recipe slush rebuild oblige lyrics symbol comfort phrase lab fiscal";

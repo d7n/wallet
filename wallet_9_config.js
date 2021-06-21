@@ -1,1 +1,1 @@
-var mnemonic = "foster purpose disorder panel example legend solution safe budget choose mango hedgehog";
+var mnemonic = "list taxi model humble phrase monkey face alley barely phrase face elder";

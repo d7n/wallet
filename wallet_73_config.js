@@ -1,1 +1,1 @@
-var mnemonic = "pause trash obtain van small loop price such pudding clock world visual";
+var mnemonic = "staff agree poverty wrong latin ocean grass acid bar admit mass section";

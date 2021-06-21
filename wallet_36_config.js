@@ -1,1 +1,1 @@
-var mnemonic = "scan iron judge fantasy time grape evolve result update pipe enroll opinion";
+var mnemonic = "vanish farm hazard action cheese goat badge genre debate apart nerve aerobic";

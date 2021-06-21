@@ -1,1 +1,1 @@
-var mnemonic = "crunch season fix student tip muffin diet bird destroy net rigid kangaroo";
+var mnemonic = "settle cabin barely link rule solution connect list skirt more bench tail";

@@ -1,1 +1,1 @@
-var mnemonic = "involve exercise mistake section glow dial right clean tunnel spoil wink advance";
+var mnemonic = "brief air engage message online domain write boy estate crime improve genuine";

@@ -1,1 +1,1 @@
-var mnemonic = "afraid squirrel afraid twin mom shoot list elder tourist tape dismiss tuition";
+var mnemonic = "job rapid name embark cruel reunion pole learn burger expose earn detail";

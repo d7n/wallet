@@ -1,1 +1,1 @@
-var mnemonic = "steel survey receive vicious neutral input garlic stable pottery horse song month";
+var mnemonic = "city service effort bar negative glance tourist dream want blur among used";

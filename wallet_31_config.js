@@ -1,1 +1,1 @@
-var mnemonic = "ensure rug crime affair shrimp elevator cute jungle menu frown fiscal attitude";
+var mnemonic = "subway connect dragon fiscal scrub deny monkey since puppy motor ritual invest";

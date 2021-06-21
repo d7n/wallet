@@ -1,1 +1,1 @@
-var mnemonic = "wrap trigger buddy say vast forget pool certain minute market disorder close";
+var mnemonic = "card regret eye biology violin vibrant wise duck bar crush scatter start";

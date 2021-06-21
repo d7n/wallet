@@ -1,1 +1,1 @@
-var mnemonic = "search never ramp stand legal very energy scale frost social legend music";
+var mnemonic = "piece bleak front used grace flavor morning nest matrix across fantasy elevator";

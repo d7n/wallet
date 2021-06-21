@@ -1,1 +1,1 @@
-var mnemonic = "place organ cabin pride special emerge garbage recall daring trade angle lawsuit";
+var mnemonic = "gown into tuition metal empower road meadow inner bright harbor blade over";

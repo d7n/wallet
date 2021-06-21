@@ -1,1 +1,1 @@
-var mnemonic = "smile scout fiction auto provide helmet carbon scheme junk couple narrow year";
+var mnemonic = "step vast critic bind vivid menu tool evoke barely broom loan coral";

@@ -1,1 +1,1 @@
-var mnemonic = "violin suffer know found degree faint black impulse spoil parade merit motor";
+var mnemonic = "market crouch angry lens load depend dragon sniff train rural device arctic";

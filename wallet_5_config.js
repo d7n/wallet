@@ -1,1 +1,1 @@
-var mnemonic = "frost tumble invest accident deliver day camera squirrel favorite annual fire noise";
+var mnemonic = "label brick human what march motor refuse hospital phrase ready sweet bicycle";

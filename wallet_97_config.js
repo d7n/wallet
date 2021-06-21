@@ -1,1 +1,1 @@
-var mnemonic = "supply amazing possible minute enlist tail yard cannon gun gain extend situate";
+var mnemonic = "champion engage oppose kit wrist limb wire crisp used lake retreat champion";

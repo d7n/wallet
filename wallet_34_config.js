@@ -1,1 +1,1 @@
-var mnemonic = "aware gain lawsuit black multiply lake genre empower file cargo winner rude";
+var mnemonic = "solar shoe couch cycle salon dynamic action motion ketchup network script travel";

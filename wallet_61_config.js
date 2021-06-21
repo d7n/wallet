@@ -1,1 +1,1 @@
-var mnemonic = "rail debris planet season barely mutual judge apology join reunion fortune entry";
+var mnemonic = "crawl dove tide float orphan wet rally uncover minimum mean dirt denial";

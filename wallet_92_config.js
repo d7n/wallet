@@ -1,1 +1,1 @@
-var mnemonic = "dutch high quote save birth rice blouse flip saddle risk clap direct";
+var mnemonic = "treat lunar misery vendor series today tone mushroom trial letter figure pumpkin";

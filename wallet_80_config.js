@@ -1,1 +1,1 @@
-var mnemonic = "juice measure oxygen lake blast art mechanic lend vendor erode approve knee";
+var mnemonic = "ball pull room noble drama tool enemy multiply dismiss monitor unaware diet";

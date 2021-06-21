@@ -1,1 +1,1 @@
-var mnemonic = "uniform file vehicle before impact long harbor choose toddler find upper echo";
+var mnemonic = "unfair sphere relief whale senior need lawn chicken novel cliff area ripple";

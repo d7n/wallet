@@ -1,1 +1,1 @@
-var mnemonic = "culture run spy nerve easy lock pistol thunder praise boss access illness";
+var mnemonic = "fancy sketch humble door drastic gallery fork behave story fame prize giggle";

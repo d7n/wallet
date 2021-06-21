@@ -1,1 +1,1 @@
-var mnemonic = "duty swear survey yellow impulse column desk tower olive harvest ticket ozone";
+var mnemonic = "dry found lawn select million salute devote door tuition debris flag puppy";

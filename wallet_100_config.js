@@ -1,1 +1,1 @@
-var mnemonic = "argue envelope emerge cake away truly example diamond banana denial royal today";
+var mnemonic = "sibling output machine decide bitter refuse river track topple mean banana miracle";

@@ -1,1 +1,1 @@
-var mnemonic = "sweet wrap link bamboo index rice still walk broken mom embody anxiety";
+var mnemonic = "truck wing erosion almost cabbage devote gravity fun winter roast bright mango";

@@ -1,1 +1,1 @@
-var mnemonic = "film junk else moral custom mistake matrix venture shadow prize spirit mother";
+var mnemonic = "famous soap sorry dentist naive flash express gravity insane number thumb talk";

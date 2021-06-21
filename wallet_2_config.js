@@ -1,1 +1,1 @@
-var mnemonic = "wise short decorate gun output dutch pistol rigid problem common garment stone";
+var mnemonic = "ice zoo icon shove antique credit disagree light lonely talent scrub disorder";

@@ -1,1 +1,1 @@
-var mnemonic = "vehicle envelope siren prosper awkward wolf swift organ method duty field prefer";
+var mnemonic = "focus wine hero call fashion solve naive response lift capable used predict";

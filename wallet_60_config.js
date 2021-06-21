@@ -1,1 +1,1 @@
-var mnemonic = "occur sniff kid only road april clutch rib warm play cake access";
+var mnemonic = "involve wire menu bridge apology advice twice lava divide animal trumpet license";

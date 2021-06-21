@@ -1,1 +1,1 @@
-var mnemonic = "raven silent wagon build stock victory garden myth taste whisper race course";
+var mnemonic = "sword cause pepper eagle divert solution liberty seminar banner aim science moment";

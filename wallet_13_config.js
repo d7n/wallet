@@ -1,1 +1,1 @@
-var mnemonic = "clinic shaft robot fantasy shallow flee leg output wedding tent basic excess";
+var mnemonic = "item craft dilemma author noodle leader trick very visa couple morning update";

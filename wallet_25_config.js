@@ -1,1 +1,1 @@
-var mnemonic = "boat holiday what life link fragile figure screen sniff code trip coach";
+var mnemonic = "eagle ticket chat lava book verify lonely same zoo board impose summer";

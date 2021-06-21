@@ -1,1 +1,1 @@
-var mnemonic = "salt faith pond throw home color hat tuition argue decide network unusual";
+var mnemonic = "stool dolphin eternal pencil long luxury near foot toy empty combine ahead";

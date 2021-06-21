@@ -1,1 +1,1 @@
-var mnemonic = "change sleep few vanish walnut devote clown organ armor myth time dress";
+var mnemonic = "silver curtain mixture tank skull mirror veteran sword afraid ship return stay";

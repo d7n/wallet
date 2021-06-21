@@ -1,1 +1,1 @@
-var mnemonic = "violin unhappy delay other social general float guitar wet panda sport collect";
+var mnemonic = "kidney legal trade mule antenna ecology tissue pottery lobster kidney require alpha";

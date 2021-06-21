@@ -1,1 +1,1 @@
-var mnemonic = "transfer pioneer bread argue reunion mammal property expose hidden inner car kit";
+var mnemonic = "switch slide limb garage anchor hill garbage predict panic loan pig recall";

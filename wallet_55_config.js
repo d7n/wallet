@@ -1,1 +1,1 @@
-var mnemonic = "caution traffic taste drum can brush enemy recipe margin humble agent october";
+var mnemonic = "immune come hamster flush praise dove route token depend access express bone";

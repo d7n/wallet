@@ -1,1 +1,1 @@
-var mnemonic = "essence parent runway fetch initial claw orbit torch dove tent escape spirit";
+var mnemonic = "minute shell weapon box win pitch token bench puzzle razor pumpkin size";

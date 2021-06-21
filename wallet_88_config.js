@@ -1,1 +1,1 @@
-var mnemonic = "series junk cannon convince syrup edge great tissue news cross also enact";
+var mnemonic = "click join clog vessel output saddle cliff tube height tobacco whip table";

@@ -1,1 +1,1 @@
-var mnemonic = "cricket science joke decline piano stock today orchard bird shoulder pioneer device";
+var mnemonic = "retire pattern six hard pudding genre choose shell economy merry section hundred";

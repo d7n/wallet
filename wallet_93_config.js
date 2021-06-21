@@ -1,1 +1,1 @@
-var mnemonic = "myself name erode leave eye ski include twice main hint issue keep";
+var mnemonic = "mixture zero shop usual ranch sentence video census steak dinner scatter fade";

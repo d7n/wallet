@@ -1,1 +1,1 @@
-var mnemonic = "garment tourist view stove another useless insane shock tongue cube turkey index";
+var mnemonic = "okay cement recipe picnic train shoulder fog advance hospital manual rather unfair";

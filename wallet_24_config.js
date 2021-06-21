@@ -1,1 +1,1 @@
-var mnemonic = "life ribbon armed damage model parade case lamp thank suggest stamp lizard";
+var mnemonic = "casual width express brother surface lecture arena install panel door oxygen head";

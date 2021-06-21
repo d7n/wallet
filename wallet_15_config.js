@@ -1,1 +1,1 @@
-var mnemonic = "scissors team defy century tornado resource kitten flame risk attract group usual";
+var mnemonic = "pear turkey method goddess author become style genius token ticket grow easy";

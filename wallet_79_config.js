@@ -1,1 +1,1 @@
-var mnemonic = "salt buzz blue twelve father demand false bullet ecology gloom series advance";
+var mnemonic = "swarm afford pole ranch flame sunset profit frost endorse silent slogan rent";

@@ -1,1 +1,1 @@
-var mnemonic = "poverty video cheese drama below shoe cost mind please orchard badge boss";
+var mnemonic = "trash reflect reveal never viable world system virus twice prosper gain input";

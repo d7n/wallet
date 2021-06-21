@@ -1,1 +1,1 @@
-var mnemonic = "prevent tortoise evil appear category fresh soft segment pair airport term burst";
+var mnemonic = "shift among crane pilot path state negative bid corn usual board amused";

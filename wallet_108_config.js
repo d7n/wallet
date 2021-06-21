@@ -1,1 +1,1 @@
-var mnemonic = "lion tortoise march woman sister half face endless hole evolve charge magic";
+var mnemonic = "gaze dumb ignore amazing liquid safe illness canyon asthma accuse novel amateur";

@@ -1,1 +1,1 @@
-var mnemonic = "castle dentist glory solution drip portion abuse mechanic enjoy ripple extra polar";
+var mnemonic = "tank gasp clump seed drama panther afford scrub cheap drum rhythm mountain";

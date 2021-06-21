@@ -1,1 +1,1 @@
-var mnemonic = "title author exist flavor enough pioneer rifle genuine scissors proof depth bacon";
+var mnemonic = "exit boss bulb diesel skate shallow pond treat dog option toy leg";

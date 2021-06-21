@@ -1,1 +1,1 @@
-var mnemonic = "juice nut quit answer attract impose clinic doll enter deliver inner light";
+var mnemonic = "know fork zone broom grape gravity episode you genuine arrest arrange biology";

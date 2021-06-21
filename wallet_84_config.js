@@ -1,1 +1,1 @@
-var mnemonic = "opinion panther wear churn worth arrive purpose mesh grass property suspect arrow";
+var mnemonic = "custom napkin veteran accident render toddler century little vocal hawk kiss tent";

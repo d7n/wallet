@@ -1,1 +1,1 @@
-var mnemonic = "lift stumble brief daring sweet social focus cloud girl absurd stuff mutual";
+var mnemonic = "between ladder verb air expand menu elegant cargo once differ cube inherit";

@@ -1,1 +1,1 @@
-var mnemonic = "final also fiction joy engage sunset surface post depart baby exit project";
+var mnemonic = "pizza detail tone cost goose mail polar wage extend slab hockey stuff";

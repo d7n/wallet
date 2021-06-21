@@ -1,1 +1,1 @@
-var mnemonic = "fluid employ onion crush layer brave mule work foam race broom wall";
+var mnemonic = "walk poet input knock basket design differ impose voice guess dragon like";

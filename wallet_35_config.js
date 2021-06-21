@@ -1,1 +1,1 @@
-var mnemonic = "pet indicate paper cargo arctic gather frog walnut once wink orchard permit";
+var mnemonic = "connect banana velvet uncover gentle very rain member praise super stool pilot";

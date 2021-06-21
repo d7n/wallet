@@ -1,1 +1,1 @@
-var mnemonic = "quote spawn congress purpose miracle frequent glove fat tilt exhaust detail power";
+var mnemonic = "globe section taste blast tattoo ski rebuild draft similar arrange argue mix";

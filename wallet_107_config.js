@@ -1,1 +1,1 @@
-var mnemonic = "hire draw grape bind observe cancel robot income wisdom elder twin rubber";
+var mnemonic = "camp beach burden south screen series input cycle february valve deer wild";

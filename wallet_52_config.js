@@ -1,1 +1,1 @@
-var mnemonic = "track jungle emotion start jazz fabric employ yard exile alert echo rebel";
+var mnemonic = "ghost possible exhibit trouble romance powder talent theory art squirrel sight buzz";

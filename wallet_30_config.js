@@ -1,1 +1,1 @@
-var mnemonic = "wasp ivory east wool shallow nest between lonely evidence regret group effort";
+var mnemonic = "mirror tackle east vintage negative cannon pause level liberty dry sadness side";

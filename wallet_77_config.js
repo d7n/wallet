@@ -1,1 +1,1 @@
-var mnemonic = "review sound yellow cat legal upgrade stable season false sail scout glass";
+var mnemonic = "sound dove symbol more nose cute rocket child final aunt finish cage";

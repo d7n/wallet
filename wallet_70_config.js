@@ -1,1 +1,1 @@
-var mnemonic = "save answer decade now popular maid assume garage credit another electric endless";
+var mnemonic = "capable thank define tell jeans castle like input finger brisk struggle first";

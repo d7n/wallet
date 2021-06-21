@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon join bag roast rack build marine private vivid army control unfair";
+var mnemonic = "carbon art legal odor believe flash ugly summer bulb dawn year wait";

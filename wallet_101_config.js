@@ -1,1 +1,1 @@
-var mnemonic = "strike tiny camp project slab letter auto cram gorilla cereal accuse during";
+var mnemonic = "keen frost stand fish worry around desert round pride snack jungle opinion";

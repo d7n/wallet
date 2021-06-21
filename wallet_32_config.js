@@ -1,1 +1,1 @@
-var mnemonic = "loud scan luxury attitude rescue grief common bracket pole broccoli divide safe";
+var mnemonic = "honey use chat sample senior reward become vessel obey olive hollow question";

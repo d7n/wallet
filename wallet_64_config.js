@@ -1,1 +1,1 @@
-var mnemonic = "ready month loop story enjoy poet uniform regular vacuum steak title grace";
+var mnemonic = "risk canvas maze render glance hospital describe again appear globe awake omit";

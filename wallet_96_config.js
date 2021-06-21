@@ -1,1 +1,1 @@
-var mnemonic = "huge gravity okay traffic month champion meat easily super sentence tennis escape";
+var mnemonic = "gallery weekend hammer there speak cage lottery huge energy venue kick chunk";

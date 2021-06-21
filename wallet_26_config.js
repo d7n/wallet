@@ -1,1 +1,1 @@
-var mnemonic = "absent useful axis skill cradle crystal south doctor alley provide defy fame";
+var mnemonic = "video vault bright decade follow cupboard mercy head gravity pizza panel ladder";

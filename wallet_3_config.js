@@ -1,1 +1,1 @@
-var mnemonic = "echo assume achieve blossom lab grape basic during hope romance type confirm";
+var mnemonic = "pause glare leg wrestle yard hard crime warrior proof purse credit worry";

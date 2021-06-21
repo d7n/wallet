@@ -1,1 +1,1 @@
-var mnemonic = "board ankle undo guilt pact decorate nuclear purity shift hint potato lesson";
+var mnemonic = "keen remove almost away strike awful caution brisk fence marble film unfold";

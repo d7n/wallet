@@ -1,1 +1,1 @@
-var mnemonic = "lake squeeze kit length chase print corn cabbage myth desk reward river";
+var mnemonic = "refuse loyal usual stock weird improve embrace melt romance genre acid various";

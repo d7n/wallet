@@ -1,1 +1,1 @@
-var mnemonic = "supreme layer kitchen judge sniff meadow donate river dance sunset account census";
+var mnemonic = "finger involve spare body grant mix whip luxury mercy river alien flush";

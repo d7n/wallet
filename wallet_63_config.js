@@ -1,1 +1,1 @@
-var mnemonic = "gap senior powder toss six post save carry next soul custom race";
+var mnemonic = "mosquito have hotel siege express sing shallow life present pelican tone math";

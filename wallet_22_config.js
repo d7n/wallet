@@ -1,1 +1,1 @@
-var mnemonic = "roof check spice tragic symptom protect wise mountain pulse sell toast engage";
+var mnemonic = "skirt tonight manage endorse eager amateur cat flush leaf ill advice use";

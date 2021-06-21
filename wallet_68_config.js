@@ -1,1 +1,1 @@
-var mnemonic = "trip review hollow gaze crazy city basic sort autumn crucial mountain glance";
+var mnemonic = "zoo raccoon gloom ahead enrich cradle exercise injury indoor mind mushroom aware";

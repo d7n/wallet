@@ -1,1 +1,1 @@
-var mnemonic = "electric tongue woman submit swarm beyond clap radar liar multiply become core";
+var mnemonic = "history planet chef lobster seed fame impact fitness appear quarter plug year";

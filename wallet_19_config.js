@@ -1,1 +1,1 @@
-var mnemonic = "apple turkey secret misery erupt evolve tomato decline tent upset elephant monster";
+var mnemonic = "roof document dragon olive happy scrub video ahead artist frown mother velvet";

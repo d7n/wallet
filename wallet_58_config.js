@@ -1,1 +1,1 @@
-var mnemonic = "blast myself clerk hungry elevator clown twist happy flat method bomb river";
+var mnemonic = "section blast film screen tomato fossil quality glove evil book pen panda";

@@ -1,1 +1,1 @@
-var mnemonic = "dismiss dutch merit refuse source lamp hockey shadow diagram vintage hole absurd";
+var mnemonic = "twenty cereal jeans ensure tilt artefact burger boring spring swear candy include";

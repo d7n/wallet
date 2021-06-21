@@ -1,1 +1,1 @@
-var mnemonic = "mixed coffee lizard east drill cheese clay feed devote barrel web exile";
+var mnemonic = "route sign kiss rifle screen forget engine ecology assist vital forget say";
