@@ -1,1 +1,1 @@
-var mnemonic = "regular angle two moon visual matrix cactus kid over motion remember priority";
+var mnemonic = "render stable wine receive rigid aunt rotate follow surge physical spin cruise";

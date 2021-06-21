@@ -1,1 +1,1 @@
-var mnemonic = "wrong cable arrive essay toddler minimum tell radar laundry neutral wood ignore";
+var mnemonic = "mind swift light retreat benefit oven reduce custom crane casino task kite";

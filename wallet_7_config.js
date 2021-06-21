@@ -1,1 +1,1 @@
-var mnemonic = "brother lyrics purpose dress disagree bullet nose dutch can recall lobster adapt";
+var mnemonic = "tiger embrace portion credit wolf math invest tray mutual fluid harbor own";

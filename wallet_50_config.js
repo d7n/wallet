@@ -1,1 +1,1 @@
-var mnemonic = "once happy unfold exotic audit else merry cheap depend develop match step";
+var mnemonic = "suggest scrub midnight vibrant length dose soda melt inherit shallow arrest provide";

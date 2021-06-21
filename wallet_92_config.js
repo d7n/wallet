@@ -1,1 +1,1 @@
-var mnemonic = "dose cinnamon timber doll someone task gravity hidden toe speed gospel help";
+var mnemonic = "seek action fox already motor cloth runway replace festival solution brand various";

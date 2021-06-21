@@ -1,1 +1,1 @@
-var mnemonic = "record educate comfort inform era pupil outer flush object repair bag front";
+var mnemonic = "nut upper army category reunion time boss ribbon sibling flush peace tide";

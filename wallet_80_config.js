@@ -1,1 +1,1 @@
-var mnemonic = "crazy say bleak miss alien split sponsor razor client concert quote hope";
+var mnemonic = "canoe advance bread report merit senior law wrist shoulder wide own burst";

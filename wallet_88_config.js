@@ -1,1 +1,1 @@
-var mnemonic = "magnet capital ill ecology speak depend second very fog sign jump fence";
+var mnemonic = "river steel orphan copy dry fan tip shaft confirm echo practice tomorrow";

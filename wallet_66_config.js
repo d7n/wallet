@@ -1,1 +1,1 @@
-var mnemonic = "avocado notable inch monkey square mom muscle zebra budget poverty cheese hire";
+var mnemonic = "onion patch home logic pool common clock sketch sample regret atom diet";

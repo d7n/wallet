@@ -1,1 +1,1 @@
-var mnemonic = "desk engage maze derive drastic victory code lesson width crucial later woman";
+var mnemonic = "aim rug shock such sudden oppose burst hungry phone rural jeans awkward";

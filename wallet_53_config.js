@@ -1,1 +1,1 @@
-var mnemonic = "siege journey treat output great fiber garlic coach maximum canal rude exercise";
+var mnemonic = "person sorry drum illegal spawn rude immune own enter topple correct devote";

@@ -1,1 +1,1 @@
-var mnemonic = "finger whip eye asthma damage net despair magnet little point dad summer";
+var mnemonic = "aisle play similar siege tide buddy bachelor vivid ginger column desert virtual";

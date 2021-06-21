@@ -1,1 +1,1 @@
-var mnemonic = "volume worry world cactus company lazy law dance thrive wrist author weekend";
+var mnemonic = "mammal all robot current capable goddess nurse girl quantum report assist insect";

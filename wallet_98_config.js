@@ -1,1 +1,1 @@
-var mnemonic = "profit scrap margin rough note apple charge deputy muscle link sudden olive";
+var mnemonic = "disagree aerobic hobby uniform purchase plastic lesson tuition manage forget core lazy";

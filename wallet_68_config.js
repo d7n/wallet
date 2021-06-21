@@ -1,1 +1,1 @@
-var mnemonic = "defense yellow object unhappy rookie drip base broom recipe sample success mirror";
+var mnemonic = "rough wisdom twenty tower swear name volcano raw column thank energy cage";

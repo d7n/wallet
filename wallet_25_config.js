@@ -1,1 +1,1 @@
-var mnemonic = "lion maple inject mule insane thunder oval alley absurd thought express discover";
+var mnemonic = "cloud drop step stage analyst mammal pistol bread sound popular carry ladder";

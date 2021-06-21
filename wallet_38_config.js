@@ -1,1 +1,1 @@
-var mnemonic = "grief law isolate tube rough mention alarm drama race scout entry suspect";
+var mnemonic = "deliver strike essence core network tired hockey reason live space word trumpet";

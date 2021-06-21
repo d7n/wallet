@@ -1,1 +1,1 @@
-var mnemonic = "inflict brief chase motion cool grow jealous turtle loud exclude crunch because";
+var mnemonic = "matrix term garden coconut betray used that mobile garden side cover steak";

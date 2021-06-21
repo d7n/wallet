@@ -1,1 +1,1 @@
-var mnemonic = "beef renew session apart aware engine denial weird project cost pole mammal";
+var mnemonic = "cage dinosaur virtual road bunker butter paper round pipe shock busy notable";

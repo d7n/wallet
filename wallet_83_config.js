@@ -1,1 +1,1 @@
-var mnemonic = "fossil token goddess diet lift focus fuel sick then brick rebuild mesh";
+var mnemonic = "pull prevent vicious must keep extend fiction metal left sadness effort task";

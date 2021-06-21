@@ -1,1 +1,1 @@
-var mnemonic = "you oxygen toast thunder glove ribbon moral pepper ceiling cheap blush holiday";
+var mnemonic = "lift parade carpet skull cloth congress race good toddler bus tornado humor";

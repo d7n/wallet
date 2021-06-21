@@ -1,1 +1,1 @@
-var mnemonic = "render travel cruise amused inch news vessel supreme relief envelope fun crater";
+var mnemonic = "tunnel car notable custom immune hammer rubber electric gap okay fault defy";

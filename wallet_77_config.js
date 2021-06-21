@@ -1,1 +1,1 @@
-var mnemonic = "minor various table diamond notice absorb assist remember nasty forget awesome net";
+var mnemonic = "penalty army attract bleak brother salute rain absurd vehicle furnace guilt frozen";

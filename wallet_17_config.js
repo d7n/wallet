@@ -1,1 +1,1 @@
-var mnemonic = "certain short slot dwarf pact minute analyst scare fun eight snow symptom";
+var mnemonic = "bargain fly lobster order dynamic bid hockey thumb speak tongue upgrade cry";

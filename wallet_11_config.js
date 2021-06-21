@@ -1,1 +1,1 @@
-var mnemonic = "session genre winter bright riot slide any elite skirt ocean then borrow";
+var mnemonic = "across elder pet chunk suffer broom result idea become wire cover stand";

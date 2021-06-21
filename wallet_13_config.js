@@ -1,1 +1,1 @@
-var mnemonic = "damage same piano current increase marriage just strong carbon submit primary design";
+var mnemonic = "logic caught assault palm sweet tool copper treat chapter average example dentist";

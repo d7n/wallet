@@ -1,1 +1,1 @@
-var mnemonic = "slab net strong laptop friend puppy hurry second milk tomorrow tunnel almost";
+var mnemonic = "piano okay autumn teach extend wise prize gauge half denial scatter wage";

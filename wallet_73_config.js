@@ -1,1 +1,1 @@
-var mnemonic = "age exist turtle expand crane erase amazing bright wave illegal blossom priority";
+var mnemonic = "primary slot enlist business mistake monster champion athlete fancy gap hotel force";

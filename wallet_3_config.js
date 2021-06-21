@@ -1,1 +1,1 @@
-var mnemonic = "pizza diagram fringe eagle elite long razor vital various inspire tiger vault";
+var mnemonic = "cinnamon slim ride spice october book border harsh rude cliff snow excess";

@@ -1,1 +1,1 @@
-var mnemonic = "ripple say foil insect stand solid toss offer document family kite category";
+var mnemonic = "arch siege peace toilet entry code bullet useless situate immense luxury fork";

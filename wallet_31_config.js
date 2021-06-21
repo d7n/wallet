@@ -1,1 +1,1 @@
-var mnemonic = "scatter decade kick clip apology rabbit shrimp butter useful long reunion other";
+var mnemonic = "imitate crucial wild drip price slogan mountain report admit color message address";

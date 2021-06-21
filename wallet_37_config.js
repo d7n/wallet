@@ -1,1 +1,1 @@
-var mnemonic = "question extra perfect exit void beef slight patrol palm hundred trophy clump";
+var mnemonic = "rib surge setup body fly infant day you dog heavy gaze hungry";

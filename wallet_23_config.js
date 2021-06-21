@@ -1,1 +1,1 @@
-var mnemonic = "culture give acquire ghost client elder spirit laptop leave alter ozone emerge";
+var mnemonic = "adult sad hub joy eager sail merry ask stage door people spawn";

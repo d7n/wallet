@@ -1,1 +1,1 @@
-var mnemonic = "poet off owner brief vote arena kind purse meadow retire gravity vague";
+var mnemonic = "napkin put oyster hunt error buzz supreme rose wisdom upper raven suspect";

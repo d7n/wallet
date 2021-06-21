@@ -1,1 +1,1 @@
-var mnemonic = "hammer valid smooth pledge review mix flee clump index notice frown occur";
+var mnemonic = "summer keep banner basic where wink expose middle nose abuse thing hobby";

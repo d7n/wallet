@@ -1,1 +1,1 @@
-var mnemonic = "code naive fan net merit suggest guess valley visa zoo trouble cabin";
+var mnemonic = "heart inject pyramid move reform crumble scan trend copper mandate hour parent";

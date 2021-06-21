@@ -1,1 +1,1 @@
-var mnemonic = "recycle snake ten extra essence engine cousin detail salute pony myth cereal";
+var mnemonic = "outer section attack treat supply fancy camp identify process say robust ranch";

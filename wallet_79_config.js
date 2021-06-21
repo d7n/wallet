@@ -1,1 +1,1 @@
-var mnemonic = "what urge call bacon fog thunder brother ethics object prison include hurdle";
+var mnemonic = "blame rotate trouble erase exchange nothing sad unfold super kind pencil nation";

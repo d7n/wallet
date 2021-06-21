@@ -1,1 +1,1 @@
-var mnemonic = "spatial occur noise similar gossip wonder zoo garden mechanic always view pact";
+var mnemonic = "input bird eyebrow else offer belt picnic seat mountain weapon demise lend";

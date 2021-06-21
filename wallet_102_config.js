@@ -1,1 +1,1 @@
-var mnemonic = "poem unique lady life sadness ridge grow similar scene chalk issue sunny";
+var mnemonic = "tail can level bind enlist seven giggle monkey message student sick slogan";

@@ -1,1 +1,1 @@
-var mnemonic = "carry extra gather venue mobile remind mix track dirt basic destroy mix";
+var mnemonic = "aware toy defy south arrow base initial measure satisfy acquire banner unique";

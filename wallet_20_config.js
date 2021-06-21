@@ -1,1 +1,1 @@
-var mnemonic = "mystery breeze acoustic visa accuse section inside hospital sting scale ability correct";
+var mnemonic = "wasp castle mean display jungle frown trap impulse news find web type";

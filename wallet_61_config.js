@@ -1,1 +1,1 @@
-var mnemonic = "pave fire tornado legal uniform toast aware dumb stadium clever allow horn";
+var mnemonic = "cross gasp possible awake boat pistol sell figure gentle rhythm lock slide";

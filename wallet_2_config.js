@@ -1,1 +1,1 @@
-var mnemonic = "enforce cinnamon expand ankle sketch one bundle sausage topple tomorrow try grace";
+var mnemonic = "piece clog flag heavy item foam erosion decide baby vibrant sweet candy";

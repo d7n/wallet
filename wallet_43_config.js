@@ -1,1 +1,1 @@
-var mnemonic = "region giggle kitchen aisle crack true reduce hazard hire galaxy defense prepare";
+var mnemonic = "message genuine grain flip doctor reveal drift shove bless visit flash dutch";

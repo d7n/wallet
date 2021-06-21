@@ -1,1 +1,1 @@
-var mnemonic = "expect long crush journey social stomach gravity own garlic relief box skill";
+var mnemonic = "inspire cross cry chase pink silk giant ostrich vibrant unknown uniform bar";

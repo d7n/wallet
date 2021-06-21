@@ -1,1 +1,1 @@
-var mnemonic = "device garment supreme gun apart gown correct riot saddle slam movie repair";
+var mnemonic = "ankle cheap spy bag nose fringe design iron benefit travel cost liberty";

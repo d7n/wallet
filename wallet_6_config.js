@@ -1,1 +1,1 @@
-var mnemonic = "daughter tired method script exhaust top six pony urge regular stereo sight";
+var mnemonic = "bronze forum huge float bundle right exit favorite index legend color kingdom";

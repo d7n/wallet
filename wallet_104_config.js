@@ -1,1 +1,1 @@
-var mnemonic = "outside spray afford surface fringe change alien tennis beauty path umbrella result";
+var mnemonic = "define long cattle antenna base broom special air source wish subject chef";

@@ -1,1 +1,1 @@
-var mnemonic = "bronze venture bullet kid aisle tape assault dolphin aerobic toss cereal few";
+var mnemonic = "daughter stumble pistol omit world almost small forest gaze parade radio eternal";

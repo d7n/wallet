@@ -1,1 +1,1 @@
-var mnemonic = "easy man drift half wrestle image roast food over move december joke";
+var mnemonic = "wolf venture script swift stumble chat length ability scene scout round tomorrow";

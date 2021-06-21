@@ -1,1 +1,1 @@
-var mnemonic = "glory vault bottom knee blade orphan indicate daring burger boring all midnight";
+var mnemonic = "group excess power indoor insane sleep neck post amazing ability below fetch";

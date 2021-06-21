@@ -1,1 +1,1 @@
-var mnemonic = "kiss liquid guess cake robust silly decorate wolf entry artwork lawsuit maple";
+var mnemonic = "game nut patrol park skirt coyote impose satisfy thing guitar help leaf";

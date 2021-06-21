@@ -1,1 +1,1 @@
-var mnemonic = "urban motor endorse pencil heavy garden fog rack volume path layer target";
+var mnemonic = "mass similar live always level puzzle hole reduce useful attract check walnut";

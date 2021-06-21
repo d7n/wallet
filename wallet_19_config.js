@@ -1,1 +1,1 @@
-var mnemonic = "around unaware hidden silly model spawn auto pony quote salute addict useful";
+var mnemonic = "series forum arrest ketchup sketch mean daring large upon gossip unusual put";

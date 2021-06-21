@@ -1,1 +1,1 @@
-var mnemonic = "marriage narrow october company lonely legal truck combine bounce blind super ice";
+var mnemonic = "roof chuckle mechanic danger old squeeze coil elegant time truck figure liquid";

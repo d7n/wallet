@@ -1,1 +1,1 @@
-var mnemonic = "actual drink bright beef garbage year reduce icon change pony paper genuine";
+var mnemonic = "else surround room marine early calm have wood sport crunch subway crack";

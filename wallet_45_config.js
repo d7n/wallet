@@ -1,1 +1,1 @@
-var mnemonic = "gas young oak vehicle indicate mammal picture erupt obtain machine reward young";
+var mnemonic = "dwarf parade mail pulse gas invite patient hockey bind opinion harbor dog";

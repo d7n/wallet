@@ -1,1 +1,1 @@
-var mnemonic = "nerve absorb little gather swim dream disorder merge bulb gown adjust tattoo";
+var mnemonic = "what faculty tank trumpet desert obtain define advice slam reward regret entire";

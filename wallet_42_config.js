@@ -1,1 +1,1 @@
-var mnemonic = "iron glance little spell silly scheme lunar found tornado detect oxygen zoo";
+var mnemonic = "prosper machine jazz excite exercise ketchup furnace please curve high pistol truth";

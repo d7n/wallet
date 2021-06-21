@@ -1,1 +1,1 @@
-var mnemonic = "shrug veteran rabbit bean hole crisp lunch symptom beyond club attack very";
+var mnemonic = "current uncle gap cargo wash tenant fan luxury offer absorb mimic mule";

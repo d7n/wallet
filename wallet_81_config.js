@@ -1,1 +1,1 @@
-var mnemonic = "kiwi rude kiwi velvet item fog daring drop maid skin rely area";
+var mnemonic = "crash size exhibit square pupil prosper silly front install desert negative jar";

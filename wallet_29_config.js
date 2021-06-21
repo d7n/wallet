@@ -1,1 +1,1 @@
-var mnemonic = "addict stable point knock smart fan rich juice impulse legal garden travel";
+var mnemonic = "undo lottery recycle anger direct clown jewel car stool picture sick business";

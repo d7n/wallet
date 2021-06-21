@@ -1,1 +1,1 @@
-var mnemonic = "total rescue melody sample nasty win kitten purity bomb novel benefit service";
+var mnemonic = "magnet park come shuffle leave dolphin click dice ignore enjoy outer fatal";

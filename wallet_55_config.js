@@ -1,1 +1,1 @@
-var mnemonic = "retreat lecture ahead hamster ketchup potato iron budget flush else veteran alter";
+var mnemonic = "bag matter win summer toss improve whale fly tooth pluck hire inner";

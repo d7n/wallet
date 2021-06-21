@@ -1,1 +1,1 @@
-var mnemonic = "situate female space panic peasant heart equal hammer bar essay machine stage";
+var mnemonic = "force average more file parade club mercy accuse twin great slam blue";

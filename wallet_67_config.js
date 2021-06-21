@@ -1,1 +1,1 @@
-var mnemonic = "congress what evoke claw raven brown region bundle open decrease mind shine";
+var mnemonic = "treat burst sniff undo narrow ostrich soda glad topic solution popular welcome";

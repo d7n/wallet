@@ -1,1 +1,1 @@
-var mnemonic = "neither drill comic frost glow ski normal utility vital lucky glad foot";
+var mnemonic = "phone favorite match able fresh floor feature call donate ranch claw history";

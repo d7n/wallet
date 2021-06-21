@@ -1,1 +1,1 @@
-var mnemonic = "heart spare sugar candy sail file follow raise door post scare school";
+var mnemonic = "enjoy road october lab fee crystal around family limit obscure sample saddle";

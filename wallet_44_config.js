@@ -1,1 +1,1 @@
-var mnemonic = "nice galaxy diamond sibling exile rare violin future vocal what concert humor";
+var mnemonic = "gun settle wine acid birth anger unfold junk depend industry smooth average";

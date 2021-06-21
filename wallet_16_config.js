@@ -1,1 +1,1 @@
-var mnemonic = "piano airport humble ignore degree exotic behave artefact ability asthma neck caught";
+var mnemonic = "ribbon segment allow dad upgrade edge caution boy silent interest merry bacon";

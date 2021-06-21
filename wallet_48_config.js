@@ -1,1 +1,1 @@
-var mnemonic = "response canoe matrix enroll amazing make entry wealth defense indicate firm april";
+var mnemonic = "vicious fork photo seat portion mention north risk supreme buddy trade unhappy";

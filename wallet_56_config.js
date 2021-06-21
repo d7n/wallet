@@ -1,1 +1,1 @@
-var mnemonic = "spread immune derive lyrics company elephant merit switch lottery alcohol absent power";
+var mnemonic = "garage tumble believe right burger hurt rough twenty warm found fat crazy";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle wet jump recipe copy film file prosper hotel melody depend fashion";
+var mnemonic = "audit melt possible bulk about cancel inner relax flat feature stumble call";

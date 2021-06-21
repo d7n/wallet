@@ -1,1 +1,1 @@
-var mnemonic = "fall bean tragic strong patient flock salad rebel cattle clutch melody cross";
+var mnemonic = "toilet shop blossom version element attack suspect banana they theme venue various";

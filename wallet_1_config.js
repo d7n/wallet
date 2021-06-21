@@ -1,1 +1,1 @@
-var mnemonic = "cousin blush auction garment deal tomato return away fiber clock doctor scale";
+var mnemonic = "wave benefit inherit slow tooth blue anger hint round rich cradle security";

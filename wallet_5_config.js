@@ -1,1 +1,1 @@
-var mnemonic = "kitchen absurd note pitch butter industry romance hidden demise apple what vivid";
+var mnemonic = "lamp action cable pen holiday garlic crater error rack ahead dilemma wild";

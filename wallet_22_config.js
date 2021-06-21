@@ -1,1 +1,1 @@
-var mnemonic = "taxi attract jacket ancient theory bid bicycle high pencil snow dish subject";
+var mnemonic = "clap tiger syrup brain club panther sick guard ramp photo regular scare";

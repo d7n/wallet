@@ -1,1 +1,1 @@
-var mnemonic = "wall economy often bundle hero absent silent sphere adapt hedgehog duty cream";
+var mnemonic = "park feature benefit party length bean tag wire gift wet volume logic";

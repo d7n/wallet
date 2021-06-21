@@ -1,1 +1,1 @@
-var mnemonic = "canoe average shy cute shrimp vibrant review original owner term mask favorite";
+var mnemonic = "decline bird pizza clap region husband vehicle damp avocado insect heavy inch";

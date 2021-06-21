@@ -1,1 +1,1 @@
-var mnemonic = "frozen crash pear tunnel target tattoo stool inherit slam lawn jazz vendor";
+var mnemonic = "panda foster report sing noise chef magnet fly never pig joy vicious";

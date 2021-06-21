@@ -1,1 +1,1 @@
-var mnemonic = "measure boat embrace essence scout play merit snap forum essence enemy predict";
+var mnemonic = "plug more because sponsor radio half endorse drift great unaware lumber tent";

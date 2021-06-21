@@ -1,1 +1,1 @@
-var mnemonic = "require ecology stool clock access same essence wisdom light gauge review payment";
+var mnemonic = "repair metal curtain chuckle mention famous learn crime possible habit main desk";

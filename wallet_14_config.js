@@ -1,1 +1,1 @@
-var mnemonic = "donor when child fiber turkey pulp silver slight trouble win champion stereo";
+var mnemonic = "load inflict behind salmon end veteran cinnamon cry initial oil antenna mosquito";

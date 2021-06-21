@@ -1,1 +1,1 @@
-var mnemonic = "lunar clerk radar feature clog satisfy tired chicken session tent rug chuckle";
+var mnemonic = "slow forum moon garage that fury winner thumb tattoo scare shrimp system";
