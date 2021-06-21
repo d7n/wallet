@@ -1,1 +1,1 @@
-var mnemonic = "banana label alone write grow tilt wife track wrong only topic often";
+var mnemonic = "reward cook fuel vapor employ industry segment ancient find train decline broken";

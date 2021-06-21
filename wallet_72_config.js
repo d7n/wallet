@@ -1,1 +1,1 @@
-var mnemonic = "about lift rug process choice senior lunch seek tattoo picture style cinnamon";
+var mnemonic = "north spread earth flip local spin panda debate more today near phrase";

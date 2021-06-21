@@ -1,1 +1,1 @@
-var mnemonic = "tell crash say hello man innocent hungry region witness exhibit stereo talent";
+var mnemonic = "planet toast zone manual stomach document off midnight clarify candy journey library";

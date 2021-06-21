@@ -1,1 +1,1 @@
-var mnemonic = "rose ride focus popular whip side film huge silly unusual clerk side";
+var mnemonic = "since hold grief lift echo scheme sauce rabbit similar obtain pet spy";

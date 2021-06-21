@@ -1,1 +1,1 @@
-var mnemonic = "taxi bar oval any soup place remain fatal load senior nasty advance";
+var mnemonic = "city amount orbit inch adult poet dad regret jealous able guitar wall";

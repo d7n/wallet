@@ -1,1 +1,1 @@
-var mnemonic = "fever huge ice hamster over oval jungle any toy guitar scan gate";
+var mnemonic = "galaxy number fortune embody smooth hurdle wreck doll segment transfer tourist violin";

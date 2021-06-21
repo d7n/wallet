@@ -1,1 +1,1 @@
-var mnemonic = "seed utility judge doctor filter come throw confirm mouse certain fee kiwi";
+var mnemonic = "field bread need wife veteran scheme increase excess verify interest scorpion cream";

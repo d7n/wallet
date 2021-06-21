@@ -1,1 +1,1 @@
-var mnemonic = "battle sport woman announce arch resist wedding install entry where crane actress";
+var mnemonic = "brand dose leaf intact turn predict tell charge wool slow team stem";

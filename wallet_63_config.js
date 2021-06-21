@@ -1,1 +1,1 @@
-var mnemonic = "patient stem junior toilet refuse cube say goat step water vault enter";
+var mnemonic = "blind stay auto twist scale floor please praise panel insect slush hello";

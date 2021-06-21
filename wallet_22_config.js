@@ -1,1 +1,1 @@
-var mnemonic = "sun title patrol rough remember confirm put alien vehicle fatigue electric mistake";
+var mnemonic = "prosper erupt help assume run shock ship diet material note acid public";

@@ -1,1 +1,1 @@
-var mnemonic = "protect nice program edge clip toward what scheme snake hospital acid nephew";
+var mnemonic = "just congress spare transfer soft blouse story sock nasty poverty trial label";

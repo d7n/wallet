@@ -1,1 +1,1 @@
-var mnemonic = "actress shine income resist error apple input document coral frown unknown eyebrow";
+var mnemonic = "maximum typical stable task ask aunt human visual genuine capable scrub panda";

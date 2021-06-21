@@ -1,1 +1,1 @@
-var mnemonic = "squeeze exclude hungry grape crawl observe fence science brain casual glance lottery";
+var mnemonic = "art carpet dinner together tooth spread crumble axis captain electric panda fish";

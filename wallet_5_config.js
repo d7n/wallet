@@ -1,1 +1,1 @@
-var mnemonic = "scrub useless patrol conduct saddle pigeon bullet picnic next emerge silver found";
+var mnemonic = "loop sting cube parrot album junk festival file relax pave provide dinner";

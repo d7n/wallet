@@ -1,1 +1,1 @@
-var mnemonic = "old choice worry barely outer visa anxiety bike verify camp motor grief";
+var mnemonic = "labor wedding image dawn supreme work survey maid scan token amateur credit";

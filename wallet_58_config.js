@@ -1,1 +1,1 @@
-var mnemonic = "ten aerobic aerobic remind power melody hotel slot bind good attitude aim";
+var mnemonic = "budget method pupil steak fish crash sport install police above defy record";

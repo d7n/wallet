@@ -1,1 +1,1 @@
-var mnemonic = "promote planet demise prize exchange jar flee start price quantum address miracle";
+var mnemonic = "drink fit rabbit genuine argue talent unable journey cause sleep priority helmet";

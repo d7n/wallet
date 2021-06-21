@@ -1,1 +1,1 @@
-var mnemonic = "purity orange fork model quantum ceiling range labor dad uncover bacon setup";
+var mnemonic = "bag worry crew expand labor time track earth reward second change public";

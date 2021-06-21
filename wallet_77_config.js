@@ -1,1 +1,1 @@
-var mnemonic = "gasp convince riot island merit depart exit torch length fork explain smile";
+var mnemonic = "hen index mother gift eagle trap check parrot tongue cancel model liar";

@@ -1,1 +1,1 @@
-var mnemonic = "trust coil vivid effort insect waste chapter people crack brand heavy switch";
+var mnemonic = "balance waste blossom model toilet north ready web cake box rate shock";

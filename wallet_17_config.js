@@ -1,1 +1,1 @@
-var mnemonic = "clip good leopard husband crazy habit unveil area purchase snack motor will";
+var mnemonic = "total cable before elder safe sense cement opinion rescue prosper spend pigeon";

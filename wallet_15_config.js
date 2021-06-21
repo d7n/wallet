@@ -1,1 +1,1 @@
-var mnemonic = "because tired animal swap inquiry wheat obtain online armor usage thing ordinary";
+var mnemonic = "eager angry arrest habit undo yard hamster error ocean snow shoot dawn";

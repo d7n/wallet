@@ -1,1 +1,1 @@
-var mnemonic = "size proud comic inherit obey swarm cotton loyal dish delay blind aunt";
+var mnemonic = "chase coil prefer lottery alarm choose desk update anger bitter save track";

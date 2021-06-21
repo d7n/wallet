@@ -1,1 +1,1 @@
-var mnemonic = "amazing stuff way they spike cart aim indicate robot sausage adapt friend";
+var mnemonic = "govern jacket make leg grape outer ready book abuse unveil toward drop";

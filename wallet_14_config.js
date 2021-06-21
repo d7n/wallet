@@ -1,1 +1,1 @@
-var mnemonic = "empty salad stadium replace candy oyster rose abuse flag cloud october aisle";
+var mnemonic = "wait melt alley awake catch praise mimic cruel excess airport century device";

@@ -1,1 +1,1 @@
-var mnemonic = "monitor churn nuclear fork patch heart payment olympic swing metal pepper evil";
+var mnemonic = "actual combine embody gate basket collect truly orbit picture lawsuit during flush";

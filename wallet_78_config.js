@@ -1,1 +1,1 @@
-var mnemonic = "frame fan actual desk athlete door sponsor sing flee track image cannon";
+var mnemonic = "sibling feel noble also universe gospel pluck despair example sphere myth tell";

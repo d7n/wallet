@@ -1,1 +1,1 @@
-var mnemonic = "praise prison stamp lucky ripple access exhaust naive mechanic print arm glue";
+var mnemonic = "quality swing oyster badge average easy field click gold autumn media rabbit";

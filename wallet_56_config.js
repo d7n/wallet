@@ -1,1 +1,1 @@
-var mnemonic = "festival cricket print circle eyebrow deal early zero motion boost upon rival";
+var mnemonic = "foot topic company actor victory draft glove trophy often car bacon garden";

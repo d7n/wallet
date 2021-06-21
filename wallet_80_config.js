@@ -1,1 +1,1 @@
-var mnemonic = "couch define fire camera jungle midnight box weather month carry between gorilla";
+var mnemonic = "simple design magnet cousin mechanic sniff thank myth ramp page now tired";

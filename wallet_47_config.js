@@ -1,1 +1,1 @@
-var mnemonic = "plate isolate people another churn mix galaxy odor hammer sun era interest";
+var mnemonic = "glide humor little liberty motion solid barely dad price boss detail tennis";

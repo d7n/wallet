@@ -1,1 +1,1 @@
-var mnemonic = "puppy avocado hunt sweet coyote siren tuna note bonus sniff point ankle";
+var mnemonic = "nose sister devote auction outer story sniff behave maple room noble pause";

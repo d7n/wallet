@@ -1,1 +1,1 @@
-var mnemonic = "hidden laugh choose weather civil twist decrease girl truly throw motor fatal";
+var mnemonic = "box half concert soft distance echo deliver multiply soccer drive nuclear stock";

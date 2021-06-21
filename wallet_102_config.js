@@ -1,1 +1,1 @@
-var mnemonic = "solve expect you cloth mutual often few veteran hazard ugly fire corn";
+var mnemonic = "sleep bicycle quick arch supreme dismiss brush absorb boy grab critic code";

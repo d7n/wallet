@@ -1,1 +1,1 @@
-var mnemonic = "balance ecology adapt salmon economy security rough jar tomorrow half assist boring";
+var mnemonic = "clinic radio other silent silly music upon patient resemble orange place public";

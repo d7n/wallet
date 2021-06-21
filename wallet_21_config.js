@@ -1,1 +1,1 @@
-var mnemonic = "damage heart text demand work ahead slab brush lamp pull stereo space";
+var mnemonic = "shine speed exclude empty moment carbon ensure dune jealous long ship ozone";

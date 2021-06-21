@@ -1,1 +1,1 @@
-var mnemonic = "addict day invite butter wheat rent elite pipe amount ride fashion great";
+var mnemonic = "crack annual erupt mango water tiger pumpkin cage weird eye educate shrug";

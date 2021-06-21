@@ -1,1 +1,1 @@
-var mnemonic = "mixed catalog bonus inspire enable forward merit vote pattern spare moral sing";
+var mnemonic = "opinion avocado mystery gain remember demand upset fatal banana bean manual pioneer";

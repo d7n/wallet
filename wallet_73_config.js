@@ -1,1 +1,1 @@
-var mnemonic = "drill ugly end race person tired riot goose gorilla broom upset lock";
+var mnemonic = "half fiscal video health march drama spell abandon floor track select balance";

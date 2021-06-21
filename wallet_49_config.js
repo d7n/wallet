@@ -1,1 +1,1 @@
-var mnemonic = "before crash hub topic ordinary year tip burden arch draw worry door";
+var mnemonic = "slow act cattle finger fuel pass nature diagram grocery license sentence comic";

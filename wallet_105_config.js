@@ -1,1 +1,1 @@
-var mnemonic = "execute east next design bar move possible until repair hidden town crime";
+var mnemonic = "economy erupt elegant meat other edge trumpet pause regular pull grid parade";

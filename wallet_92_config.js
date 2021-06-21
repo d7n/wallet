@@ -1,1 +1,1 @@
-var mnemonic = "future wedding place cave depart gown live gravity private cost tongue gift";
+var mnemonic = "water guitar void chair bachelor hint hawk risk beyond rack curtain neither";

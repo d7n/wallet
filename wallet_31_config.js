@@ -1,1 +1,1 @@
-var mnemonic = "topple ability monitor seed maze ice face code popular stamp mushroom car";
+var mnemonic = "path session hard ride can couch recipe surface disagree please rebel carbon";

@@ -1,1 +1,1 @@
-var mnemonic = "length exotic mean reduce tree double april sketch material above pen direct";
+var mnemonic = "nephew trap toilet beauty give shock chalk morning gain episode best sell";

@@ -1,1 +1,1 @@
-var mnemonic = "large rebuild circle account permit scene ski list canvas blanket breeze treat";
+var mnemonic = "diet inform ranch reason stem bless elegant repeat rapid cheap box scare";

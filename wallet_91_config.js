@@ -1,1 +1,1 @@
-var mnemonic = "brief left cotton derive ankle south duck fun approve whip sort oil";
+var mnemonic = "remember wet employ inquiry churn chief hope strategy strike ranch alone resource";

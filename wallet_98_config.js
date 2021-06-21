@@ -1,1 +1,1 @@
-var mnemonic = "diet clinic divert orchard level meat spider abuse talent clutch lake frown";
+var mnemonic = "job undo struggle novel cool bless ticket since grain hole top prevent";

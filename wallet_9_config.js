@@ -1,1 +1,1 @@
-var mnemonic = "wild include hunt liar list window now rude blast saddle toast rocket";
+var mnemonic = "tide dog easy inherit sorry sleep crush found subway zebra tornado inside";

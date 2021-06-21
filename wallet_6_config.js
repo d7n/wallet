@@ -1,1 +1,1 @@
-var mnemonic = "amazing machine sentence also verify actual curve shrimp produce now response identify";
+var mnemonic = "bone art casual butter drama donkey book tag spy pattern chronic anxiety";

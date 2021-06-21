@@ -1,1 +1,1 @@
-var mnemonic = "defy country else left sample step champion depart dumb frame slush coast";
+var mnemonic = "device love shiver river vital bubble survey about animal window multiply thumb";

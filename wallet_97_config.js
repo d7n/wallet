@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo error zone stumble danger bus sorry soldier result gold glory cake";
+var mnemonic = "receive alpha crystal marble suit bleak radio iron media open devote camera";

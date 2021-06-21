@@ -1,1 +1,1 @@
-var mnemonic = "wear member palm trash keep yard defense spot burst wife certain spirit";
+var mnemonic = "decade van museum wine manage certain tennis knee puzzle remind firm plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "chunk deer barrel they funny lemon banana pond congress result exclude reopen";
+var mnemonic = "legend topple educate earth chicken pony pave provide destroy face license claw";

@@ -1,1 +1,1 @@
-var mnemonic = "explain loan such frozen chat warm divert slight inmate vapor grocery put";
+var mnemonic = "such sadness gift wage thing hospital perfect panda soon range trigger peasant";

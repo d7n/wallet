@@ -1,1 +1,1 @@
-var mnemonic = "asthma scissors total december pole cloud figure lumber law frequent bring rubber";
+var mnemonic = "gather apple swap defense gun baby evolve globe oven sample differ throw";

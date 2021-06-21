@@ -1,1 +1,1 @@
-var mnemonic = "obey sad total lock moral bulb reopen gadget modify illness ahead post";
+var mnemonic = "obey wagon summer fresh business doll afford organ visa demise number pumpkin";

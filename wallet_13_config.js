@@ -1,1 +1,1 @@
-var mnemonic = "eternal brother student public accuse enact wrap poet coast pride twenty couple";
+var mnemonic = "shop awake chief guilt hole table office together sure smile february split";

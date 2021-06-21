@@ -1,1 +1,1 @@
-var mnemonic = "level enable deal merit dress wool decline south swing uniform eagle cruel";
+var mnemonic = "ladder deputy gauge squirrel devote trial scene gallery bar shed anchor vicious";

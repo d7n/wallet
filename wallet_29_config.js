@@ -1,1 +1,1 @@
-var mnemonic = "tonight east disease eyebrow door hover champion toward disease network gate direct";
+var mnemonic = "token venture this vote glare tunnel diary credit visa course excuse laptop";

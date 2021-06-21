@@ -1,1 +1,1 @@
-var mnemonic = "orchard theme payment grass chief license almost recycle fame pear royal miss";
+var mnemonic = "list aisle fall tide hold kingdom entire poem shoot bar turn also";

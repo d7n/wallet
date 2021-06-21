@@ -1,1 +1,1 @@
-var mnemonic = "canyon dawn amused rule hungry kidney crop craft wonder express erupt border";
+var mnemonic = "bottom echo frog cement local private erosion able eternal add cricket family";

@@ -1,1 +1,1 @@
-var mnemonic = "analyst retire trigger whip oblige want broccoli digital priority rent panic blanket";
+var mnemonic = "shallow tape gasp fox since grace become style wrap found knife fury";

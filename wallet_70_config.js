@@ -1,1 +1,1 @@
-var mnemonic = "hungry agree agree myth brown expect lecture muffin mention raw skin silk";
+var mnemonic = "gasp warfare various whale laundry noodle fiscal tobacco oil dismiss measure permit";

@@ -1,1 +1,1 @@
-var mnemonic = "have approve deposit face own custom maid audit salmon suggest demand brisk";
+var mnemonic = "error brand obvious runway term shaft hawk rose capable wife curious visit";

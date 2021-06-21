@@ -1,1 +1,1 @@
-var mnemonic = "guide toast caught twin slight flush replace owner shell flock list horror";
+var mnemonic = "pyramid spider gossip curtain donate oven focus follow type blossom fragile core";

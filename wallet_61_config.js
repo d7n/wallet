@@ -1,1 +1,1 @@
-var mnemonic = "either learn crystal badge address tiger bracket exhibit ancient battle dad fiber";
+var mnemonic = "birth used carpet robot tool setup book coral damage camera grief vacant";

@@ -1,1 +1,1 @@
-var mnemonic = "clerk music awake crouch object useless call crime later stone dismiss cute";
+var mnemonic = "reflect decade boring occur rhythm claw basic pass fragile garbage priority airport";

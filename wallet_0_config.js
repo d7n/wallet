@@ -1,1 +1,1 @@
-var mnemonic = "goat silver accuse scrap increase stick wrap cost deposit duty supreme giraffe";
+var mnemonic = "choice install diesel example wise shiver dash buffalo kingdom pave midnight gas";

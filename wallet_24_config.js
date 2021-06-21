@@ -1,1 +1,1 @@
-var mnemonic = "ticket social end flight spy hurdle throw train verb struggle lazy lawn";
+var mnemonic = "general live wild egg silver inflict blouse glance inmate safe winter liar";

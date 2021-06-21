@@ -1,1 +1,1 @@
-var mnemonic = "future weekend flat champion include stem fresh pause wave wing night someone";
+var mnemonic = "guide duck smoke raw private since view permit trade ginger expose country";

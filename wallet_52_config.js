@@ -1,1 +1,1 @@
-var mnemonic = "announce sail intact father slim can lab food divorce spider blast embark";
+var mnemonic = "bind rival panel merit obscure exclude grit daring expand wife outer bless";

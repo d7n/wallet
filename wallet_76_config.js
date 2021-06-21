@@ -1,1 +1,1 @@
-var mnemonic = "bamboo town huge phrase throw deny shrimp captain gospel aerobic learn demise";
+var mnemonic = "monkey bitter real when pelican actual input rain inner pen yellow cycle";

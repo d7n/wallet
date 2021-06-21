@@ -1,1 +1,1 @@
-var mnemonic = "power size abstract option argue enter evidence goddess gun message hint early";
+var mnemonic = "plate tragic donate replace include wise scatter neither draw region hair review";

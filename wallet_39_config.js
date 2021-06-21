@@ -1,1 +1,1 @@
-var mnemonic = "trap unit soon favorite excite feature science settle believe frost impose endless";
+var mnemonic = "stairs usual title key apart crowd define near rabbit uphold maid plunge";

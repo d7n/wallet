@@ -1,1 +1,1 @@
-var mnemonic = "evoke legal blossom enter combine shaft mandate tube lecture welcome obvious inhale";
+var mnemonic = "wonder heavy problem laugh prize bread swarm regular naive near select alter";

@@ -1,1 +1,1 @@
-var mnemonic = "cart odor spice pattern chaos tray quiz shoe rough rival speed window";
+var mnemonic = "journey mule law apology clown mammal sauce twin enemy auto mammal tourist";

@@ -1,1 +1,1 @@
-var mnemonic = "hard coral weird patch salon solid control staff soap foam seat air";
+var mnemonic = "select mention expose gather interest curve room crop circle room orange excite";

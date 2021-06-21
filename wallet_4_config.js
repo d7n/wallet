@@ -1,1 +1,1 @@
-var mnemonic = "all toward husband dust chimney quality deer three panel squirrel clerk spoil";
+var mnemonic = "west pigeon heart caution together capable pledge mango arch solve program foster";

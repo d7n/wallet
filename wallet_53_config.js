@@ -1,1 +1,1 @@
-var mnemonic = "thunder muffin marriage future element bright awake all supreme airport place security";
+var mnemonic = "cheap uncover focus stumble virtual panther soon taxi library anchor leave minimum";

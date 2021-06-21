@@ -1,1 +1,1 @@
-var mnemonic = "law chase noise daughter pluck wise shadow hurt certain border brisk slide";
+var mnemonic = "ice erupt assist symbol either dove impose custom sketch decide sun tool";

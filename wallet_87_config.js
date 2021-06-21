@@ -1,1 +1,1 @@
-var mnemonic = "task razor fat tube bitter pig turn crush heavy kidney kitten soccer";
+var mnemonic = "tone forget lobster attack child various river today much east tragic donate";

@@ -1,1 +1,1 @@
-var mnemonic = "churn matrix opinion symptom message garbage alcohol uniform claw cotton charge humble";
+var mnemonic = "arena viable barely govern fall token scheme echo assault index flag way";

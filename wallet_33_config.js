@@ -1,1 +1,1 @@
-var mnemonic = "response rookie spatial melody attitude auto message buzz because comic hub forest";
+var mnemonic = "mushroom burger pitch atom cupboard slogan knife destroy trash village slim asthma";

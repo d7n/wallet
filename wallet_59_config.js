@@ -1,1 +1,1 @@
-var mnemonic = "oxygen exit bamboo junk person lumber this luxury permit device valley mutual";
+var mnemonic = "lemon program mansion power group clown enter twelve pen tent ensure derive";

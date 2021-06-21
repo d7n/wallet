@@ -1,1 +1,1 @@
-var mnemonic = "thumb motion climb fork thumb annual reward sphere addict shed need coral";
+var mnemonic = "manage chunk salmon sweet leisure shell soft logic day canyon inner distance";

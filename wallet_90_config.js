@@ -1,1 +1,1 @@
-var mnemonic = "mail copy pear word general arrange journey arctic gift spring galaxy rail";
+var mnemonic = "undo surround fame series outer before grass eternal circle security tomato voice";

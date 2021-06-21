@@ -1,1 +1,1 @@
-var mnemonic = "phrase diamond occur reopen trophy clock diagram mystery essence dismiss output shy";
+var mnemonic = "switch notice swap surprise verb humor alpha business sugar sort scene warm";
