@@ -1,1 +1,1 @@
-var mnemonic = "faith canyon enough frequent ecology echo grit panic initial behind judge trial";
+var mnemonic = "fever huge ice hamster over oval jungle any toy guitar scan gate";

@@ -1,1 +1,1 @@
-var mnemonic = "crush reflect model foil camp mango visual wave mouse all palace copy";
+var mnemonic = "clerk music awake crouch object useless call crime later stone dismiss cute";

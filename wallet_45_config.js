@@ -1,1 +1,1 @@
-var mnemonic = "language second bulk expect march uncle patch monitor carry slice limb enrich";
+var mnemonic = "future weekend flat champion include stem fresh pause wave wing night someone";

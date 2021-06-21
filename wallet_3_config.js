@@ -1,1 +1,1 @@
-var mnemonic = "genuine retire assume letter erase boil round cup hip enter tell choice";
+var mnemonic = "phrase diamond occur reopen trophy clock diagram mystery essence dismiss output shy";

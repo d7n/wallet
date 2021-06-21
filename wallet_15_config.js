@@ -1,1 +1,1 @@
-var mnemonic = "gas female pattern sudden panda hole world leave smart wool copper north";
+var mnemonic = "because tired animal swap inquiry wheat obtain online armor usage thing ordinary";

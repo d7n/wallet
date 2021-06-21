@@ -1,1 +1,1 @@
-var mnemonic = "cable guide romance chronic valve verb secret zero surround drum essay good";
+var mnemonic = "couch define fire camera jungle midnight box weather month carry between gorilla";

@@ -1,1 +1,1 @@
-var mnemonic = "history damage script supreme attend decorate cause index neck veteran major weird";
+var mnemonic = "seed utility judge doctor filter come throw confirm mouse certain fee kiwi";

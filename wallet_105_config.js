@@ -1,1 +1,1 @@
-var mnemonic = "prepare used thing crystal echo orient mountain forward blind during social enlist";
+var mnemonic = "execute east next design bar move possible until repair hidden town crime";

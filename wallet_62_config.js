@@ -1,1 +1,1 @@
-var mnemonic = "employ uncover write pen ignore bachelor genuine seminar moment excite uniform speed";
+var mnemonic = "analyst retire trigger whip oblige want broccoli digital priority rent panic blanket";

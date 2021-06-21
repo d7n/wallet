@@ -1,1 +1,1 @@
-var mnemonic = "raise gloom glove strong require nasty leader grid zoo drip abandon fruit";
+var mnemonic = "brush staff army slim apart soda apple anxiety surround trigger unable volume";

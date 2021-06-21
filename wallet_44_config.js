@@ -1,1 +1,1 @@
-var mnemonic = "review short holiday swim cinnamon length spend response crop forest puzzle vocal";
+var mnemonic = "tell crash say hello man innocent hungry region witness exhibit stereo talent";

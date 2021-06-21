@@ -1,1 +1,1 @@
-var mnemonic = "walk sting divide race brief together scatter hen cannon dwarf hole cliff";
+var mnemonic = "frame fan actual desk athlete door sponsor sing flee track image cannon";

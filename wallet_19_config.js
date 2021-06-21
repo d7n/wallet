@@ -1,1 +1,1 @@
-var mnemonic = "young swim universe churn unhappy sign panel that humor worry fashion mouse";
+var mnemonic = "sock indicate theory unfair enlist suspect behind come flush match fury answer";

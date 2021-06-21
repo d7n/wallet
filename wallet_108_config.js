@@ -1,1 +1,1 @@
-var mnemonic = "coin melt glove begin own rug normal reform inhale bargain home hand";
+var mnemonic = "riot puppy magnet chest list romance push dragon supreme antique afraid stumble";

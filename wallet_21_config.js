@@ -1,1 +1,1 @@
-var mnemonic = "unknown sword grain skull display uncle future speed world east early disorder";
+var mnemonic = "damage heart text demand work ahead slab brush lamp pull stereo space";

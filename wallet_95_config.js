@@ -1,1 +1,1 @@
-var mnemonic = "weekend chapter icon upset priority song split indoor arch better cereal coral";
+var mnemonic = "have approve deposit face own custom maid audit salmon suggest demand brisk";

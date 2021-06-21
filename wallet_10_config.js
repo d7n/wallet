@@ -1,1 +1,1 @@
-var mnemonic = "wife prize march laundry rapid sure nose debate seek spring inside dice";
+var mnemonic = "chunk deer barrel they funny lemon banana pond congress result exclude reopen";

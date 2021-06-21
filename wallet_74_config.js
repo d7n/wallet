@@ -1,1 +1,1 @@
-var mnemonic = "neck broken crouch cry wine pause taxi immense toilet fiscal volcano blossom";
+var mnemonic = "second utility horse input author essence victory snow guard chicken wise predict";

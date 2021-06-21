@@ -1,1 +1,1 @@
-var mnemonic = "client broom negative someone few purchase glory giraffe usage hover human soldier";
+var mnemonic = "joke sketch deputy ribbon silent receive nurse stumble hybrid hurdle crop invest";

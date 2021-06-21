@@ -1,1 +1,1 @@
-var mnemonic = "indoor diamond laundry leaf love guide spike biology spatial peace feature mom";
+var mnemonic = "table rather tray book fabric avocado embody swarm cradle envelope crack habit";

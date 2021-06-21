@@ -1,1 +1,1 @@
-var mnemonic = "mystery vivid ramp shoe bar mind frozen raw bone attitude topple rebuild";
+var mnemonic = "luggage nuclear music boat evoke maid vast minute stomach cream era pig";

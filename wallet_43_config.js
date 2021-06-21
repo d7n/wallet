@@ -1,1 +1,1 @@
-var mnemonic = "fancy upgrade cricket begin forum expect brick iron apple shine swing eternal";
+var mnemonic = "banana label alone write grow tilt wife track wrong only topic often";

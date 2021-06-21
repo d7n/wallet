@@ -1,1 +1,1 @@
-var mnemonic = "place jewel idea oxygen neglect train fade unknown note address runway clown";
+var mnemonic = "either learn crystal badge address tiger bracket exhibit ancient battle dad fiber";

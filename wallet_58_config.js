@@ -1,1 +1,1 @@
-var mnemonic = "hood job dizzy dynamic write ten brisk response gasp repeat stool garden";
+var mnemonic = "ten aerobic aerobic remind power melody hotel slot bind good attitude aim";

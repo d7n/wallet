@@ -1,1 +1,1 @@
-var mnemonic = "mention tip brass catch life whale shine bubble fresh engage wool life";
+var mnemonic = "amazing stuff way they spike cart aim indicate robot sausage adapt friend";

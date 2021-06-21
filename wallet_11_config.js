@@ -1,1 +1,1 @@
-var mnemonic = "elephant cheap practice festival enable maze upon used flush air strategy water";
+var mnemonic = "addict day invite butter wheat rent elite pipe amount ride fashion great";

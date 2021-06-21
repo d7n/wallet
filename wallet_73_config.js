@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo rural impulse rich figure mirror lunch afraid average beyond scrap waste";
+var mnemonic = "drill ugly end race person tired riot goose gorilla broom upset lock";

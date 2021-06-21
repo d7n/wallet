@@ -1,1 +1,1 @@
-var mnemonic = "gospel sentence wool diamond world stand brand measure home glare guess climb";
+var mnemonic = "hungry agree agree myth brown expect lecture muffin mention raw skin silk";

@@ -1,1 +1,1 @@
-var mnemonic = "slot swarm episode hand fresh wait strong plate yard priority link trophy";
+var mnemonic = "canyon dawn amused rule hungry kidney crop craft wonder express erupt border";

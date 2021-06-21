@@ -1,1 +1,1 @@
-var mnemonic = "spray order wonder club sleep tongue pole disagree urban gesture avoid scout";
+var mnemonic = "firm remember people benefit purse fresh raw fury bonus smile raven senior";

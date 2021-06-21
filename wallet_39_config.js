@@ -1,1 +1,1 @@
-var mnemonic = "brave more wet trim surround path dad banana lounge feed rely notice";
+var mnemonic = "trap unit soon favorite excite feature science settle believe frost impose endless";

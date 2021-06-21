@@ -1,1 +1,1 @@
-var mnemonic = "antenna fade salt idle boost entry slam hurry hen hello type wrap";
+var mnemonic = "mail copy pear word general arrange journey arctic gift spring galaxy rail";

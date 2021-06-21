@@ -1,1 +1,1 @@
-var mnemonic = "marble space spy patient candy travel sight room awful metal eagle vault";
+var mnemonic = "reopen reflect butter reopen pool rug affair forum liquid gain reject friend";

@@ -1,1 +1,1 @@
-var mnemonic = "good make phrase spawn oven moon wrap ski slow beyond supreme weird";
+var mnemonic = "sun title patrol rough remember confirm put alien vehicle fatigue electric mistake";

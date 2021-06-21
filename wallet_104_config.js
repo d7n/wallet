@@ -1,1 +1,1 @@
-var mnemonic = "brass tragic chunk winner mixed puzzle reform ten lava increase erupt stereo";
+var mnemonic = "review raven proof scheme attract grass modify round useless lamp bundle hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "carry use hobby little hard stairs minor track year before copper bus";
+var mnemonic = "actress shine income resist error apple input document coral frown unknown eyebrow";

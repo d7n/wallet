@@ -1,1 +1,1 @@
-var mnemonic = "good access skull fee visit useless tree dismiss frequent reopen inch series";
+var mnemonic = "kit public assist account garbage laugh panther talent peace badge crouch safe";

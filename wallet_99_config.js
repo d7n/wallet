@@ -1,1 +1,1 @@
-var mnemonic = "wait lazy hard basic ignore design chase endless blouse art author injury";
+var mnemonic = "puppy avocado hunt sweet coyote siren tuna note bonus sniff point ankle";

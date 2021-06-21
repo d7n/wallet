@@ -1,1 +1,1 @@
-var mnemonic = "regret matrix robot intact room gain lava relax path rent absent sail";
+var mnemonic = "wild include hunt liar list window now rude blast saddle toast rocket";

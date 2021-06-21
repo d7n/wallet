@@ -1,1 +1,1 @@
-var mnemonic = "denial unhappy travel actress cup leader shallow olive shield vault script radar";
+var mnemonic = "mixed catalog bonus inspire enable forward merit vote pattern spare moral sing";

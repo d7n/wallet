@@ -1,1 +1,1 @@
-var mnemonic = "strategy boring pass mix renew remember duck tiny hat border air vehicle";
+var mnemonic = "oxygen exit bamboo junk person lumber this luxury permit device valley mutual";

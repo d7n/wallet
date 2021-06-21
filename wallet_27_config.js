@@ -1,1 +1,1 @@
-var mnemonic = "network dash assume chaos donate sound deliver flush athlete cook list jelly";
+var mnemonic = "balance ecology adapt salmon economy security rough jar tomorrow half assist boring";

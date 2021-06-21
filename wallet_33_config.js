@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin note panda decade attack silk hub slice nation census very wish";
+var mnemonic = "response rookie spatial melody attitude auto message buzz because comic hub forest";

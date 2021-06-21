@@ -1,1 +1,1 @@
-var mnemonic = "annual silk recycle evidence media bleak disease such badge rare bachelor pipe";
+var mnemonic = "violin traffic warfare survey differ weather quit rocket duty brain swear kick";

@@ -1,1 +1,1 @@
-var mnemonic = "student hungry slam dice salad volcano negative creek scale list stuff loop";
+var mnemonic = "rose ride focus popular whip side film huge silly unusual clerk side";

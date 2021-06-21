@@ -1,1 +1,1 @@
-var mnemonic = "beach cup way someone laptop beyond record rich index gaze bachelor betray";
+var mnemonic = "gasp convince riot island merit depart exit torch length fork explain smile";

@@ -1,1 +1,1 @@
-var mnemonic = "mesh thank infant yellow lawsuit rapid track congress spread diesel rude party";
+var mnemonic = "trust coil vivid effort insect waste chapter people crack brand heavy switch";

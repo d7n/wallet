@@ -1,1 +1,1 @@
-var mnemonic = "slide bronze bridge basic recall orange latin scrub just hospital deliver lens";
+var mnemonic = "task razor fat tube bitter pig turn crush heavy kidney kitten soccer";

@@ -1,1 +1,1 @@
-var mnemonic = "immense mad venue behind rare youth fork globe music three tornado nerve";
+var mnemonic = "thunder muffin marriage future element bright awake all supreme airport place security";

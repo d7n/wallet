@@ -1,1 +1,1 @@
-var mnemonic = "napkin conduct tube vanish history spoil swarm sweet patch off stick debate";
+var mnemonic = "cart odor spice pattern chaos tray quiz shoe rough rival speed window";

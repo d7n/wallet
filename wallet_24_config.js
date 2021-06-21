@@ -1,1 +1,1 @@
-var mnemonic = "filter artist grief tell polar drop opinion position common curve entry disagree";
+var mnemonic = "ticket social end flight spy hurdle throw train verb struggle lazy lawn";

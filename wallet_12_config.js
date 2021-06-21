@@ -1,1 +1,1 @@
-var mnemonic = "run blame act intact pelican actor pulp edit notice voice minimum make";
+var mnemonic = "orchard theme payment grass chief license almost recycle fame pear royal miss";

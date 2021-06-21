@@ -1,1 +1,1 @@
-var mnemonic = "moon latin bench differ stay critic ancient absorb sort pair scan shuffle";
+var mnemonic = "law chase noise daughter pluck wise shadow hurt certain border brisk slide";

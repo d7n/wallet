@@ -1,1 +1,1 @@
-var mnemonic = "concert belt auction town climb refuse drink pledge burst trend napkin disagree";
+var mnemonic = "patient stem junior toilet refuse cube say goat step water vault enter";

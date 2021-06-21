@@ -1,1 +1,1 @@
-var mnemonic = "fuel rather pizza cushion urban sorry blur bomb assist pear hundred general";
+var mnemonic = "promote planet demise prize exchange jar flee start price quantum address miracle";

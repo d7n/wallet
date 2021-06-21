@@ -1,1 +1,1 @@
-var mnemonic = "edit ensure jungle oval coral diamond board fog humor earn wrist glare";
+var mnemonic = "bamboo town huge phrase throw deny shrimp captain gospel aerobic learn demise";

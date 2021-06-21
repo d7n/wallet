@@ -1,1 +1,1 @@
-var mnemonic = "leg divorce mansion million since destroy coin tornado damp lava decrease about";
+var mnemonic = "evoke legal blossom enter combine shaft mandate tube lecture welcome obvious inhale";

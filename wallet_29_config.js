@@ -1,1 +1,1 @@
-var mnemonic = "leaf mad gather genre grace seed slab canyon arrest buyer net code";
+var mnemonic = "tonight east disease eyebrow door hover champion toward disease network gate direct";

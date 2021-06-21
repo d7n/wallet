@@ -1,1 +1,1 @@
-var mnemonic = "same human infant crash quote engine pink tiger march chef engine bridge";
+var mnemonic = "guide toast caught twin slight flush replace owner shell flock list horror";

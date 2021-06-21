@@ -1,1 +1,1 @@
-var mnemonic = "brand wife ginger daughter hero large fitness absurd transfer razor express false";
+var mnemonic = "obey sad total lock moral bulb reopen gadget modify illness ahead post";

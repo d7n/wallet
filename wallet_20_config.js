@@ -1,1 +1,1 @@
-var mnemonic = "resource that inflict eager lizard execute win action submit castle owner hub";
+var mnemonic = "churn matrix opinion symptom message garbage alcohol uniform claw cotton charge humble";

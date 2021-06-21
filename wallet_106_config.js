@@ -1,1 +1,1 @@
-var mnemonic = "okay proof sudden never romance burger balance jar worth bleak noodle menu";
+var mnemonic = "size proud comic inherit obey swarm cotton loyal dish delay blind aunt";

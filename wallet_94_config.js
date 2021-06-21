@@ -1,1 +1,1 @@
-var mnemonic = "mother rib match toward myth clay auction discover tent glare drip filter";
+var mnemonic = "exchange bullet tag glance glow unfold shine about raccoon pact pitch repeat";

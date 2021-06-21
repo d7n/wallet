@@ -1,1 +1,1 @@
-var mnemonic = "protect kingdom copper oak tent enough mystery cactus fortune dune nominee dream";
+var mnemonic = "vacant very boss spell mesh bamboo apple defy jelly urge syrup wrestle";

@@ -1,1 +1,1 @@
-var mnemonic = "giant dismiss dry dish sand reform turn magic soda mad twist unit";
+var mnemonic = "about lift rug process choice senior lunch seek tattoo picture style cinnamon";

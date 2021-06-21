@@ -1,1 +1,1 @@
-var mnemonic = "shoot girl slogan earn inherit hello palm discover scare find soul aspect";
+var mnemonic = "monitor churn nuclear fork patch heart payment olympic swing metal pepper evil";

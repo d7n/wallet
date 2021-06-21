@@ -1,1 +1,1 @@
-var mnemonic = "nothing heavy hip ill alert scheme long recipe sense lend ranch cabbage";
+var mnemonic = "protect nice program edge clip toward what scheme snake hospital acid nephew";

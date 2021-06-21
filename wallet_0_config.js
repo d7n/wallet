@@ -1,1 +1,1 @@
-var mnemonic = "baby brick youth magic slight swallow stock truck collect sting vicious insect";
+var mnemonic = "goat silver accuse scrap increase stick wrap cost deposit duty supreme giraffe";

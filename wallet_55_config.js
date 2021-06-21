@@ -1,1 +1,1 @@
-var mnemonic = "top jar accident trash frost visa recipe wing hammer one timber lizard";
+var mnemonic = "thumb motion climb fork thumb annual reward sphere addict shed need coral";

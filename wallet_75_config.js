@@ -1,1 +1,1 @@
-var mnemonic = "gauge south achieve science push agree use wool warm retire spike slight";
+var mnemonic = "explain loan such frozen chat warm divert slight inmate vapor grocery put";

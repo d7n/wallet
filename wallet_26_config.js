@@ -1,1 +1,1 @@
-var mnemonic = "avocado maximum exhibit zone tiny mobile bundle moment jaguar town mirror edit";
+var mnemonic = "interest soda wine secret canyon soon physical video oven flash witness demise";

@@ -1,1 +1,1 @@
-var mnemonic = "short assist salt column fabric merge soon path maximum double memory little";
+var mnemonic = "squeeze exclude hungry grape crawl observe fence science brain casual glance lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "drill napkin elite cart strong mouse salute maple kit improve budget success";
+var mnemonic = "kangaroo error zone stumble danger bus sorry soldier result gold glory cake";

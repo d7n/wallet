@@ -1,1 +1,1 @@
-var mnemonic = "snap once remove apology soda sun busy talent torch cute usual diagram";
+var mnemonic = "festival cricket print circle eyebrow deal early zero motion boost upon rival";

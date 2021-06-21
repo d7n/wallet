@@ -1,1 +1,1 @@
-var mnemonic = "view surround action grow slice junior undo hobby sting candy file garbage";
+var mnemonic = "river runway film love copy useless bread domain hundred game display entry";

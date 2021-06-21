@@ -1,1 +1,1 @@
-var mnemonic = "april youth monkey weapon panic poem fault noble come maze jeans ritual";
+var mnemonic = "scrub useless patrol conduct saddle pigeon bullet picnic next emerge silver found";

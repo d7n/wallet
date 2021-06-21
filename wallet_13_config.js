@@ -1,1 +1,1 @@
-var mnemonic = "misery chronic banana please mind kind peanut salon fine follow fiber gospel";
+var mnemonic = "eternal brother student public accuse enact wrap poet coast pride twenty couple";

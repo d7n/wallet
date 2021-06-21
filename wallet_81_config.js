@@ -1,1 +1,1 @@
-var mnemonic = "bind estate few chief museum cargo slice liquid sail rough glove bamboo";
+var mnemonic = "length exotic mean reduce tree double april sketch material above pen direct";

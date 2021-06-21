@@ -1,1 +1,1 @@
-var mnemonic = "misery call skate pencil canyon subject regular absurd woman wink leopard friend";
+var mnemonic = "topple ability monitor seed maze ice face code popular stamp mushroom car";

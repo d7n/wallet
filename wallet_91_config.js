@@ -1,1 +1,1 @@
-var mnemonic = "negative coast wheat trap morning plastic box need capital eight sound miracle";
+var mnemonic = "brief left cotton derive ankle south duck fun approve whip sort oil";

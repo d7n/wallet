@@ -1,1 +1,1 @@
-var mnemonic = "expand oppose chalk scrap faculty pitch reject solution profit worth rebel embody";
+var mnemonic = "empty salad stadium replace candy oyster rose abuse flag cloud october aisle";

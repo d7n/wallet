@@ -1,1 +1,1 @@
-var mnemonic = "once jar shoulder element oil limb pottery universe praise reopen plastic cereal";
+var mnemonic = "all toward husband dust chimney quality deer three panel squirrel clerk spoil";

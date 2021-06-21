@@ -1,1 +1,1 @@
-var mnemonic = "trash nest trim jungle okay spin couple this file lock away effort";
+var mnemonic = "diet clinic divert orchard level meat spider abuse talent clutch lake frown";

@@ -1,1 +1,1 @@
-var mnemonic = "else usage layer guard raise vacant about emerge invite scare feel agent";
+var mnemonic = "hidden laugh choose weather civil twist decrease girl truly throw motor fatal";

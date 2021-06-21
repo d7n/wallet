@@ -1,1 +1,1 @@
-var mnemonic = "fashion citizen black few chase quality illegal pattern lazy advice near december";
+var mnemonic = "cinnamon silver million pizza cactus view ripple cement tired earn obvious home";

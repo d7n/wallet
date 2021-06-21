@@ -1,1 +1,1 @@
-var mnemonic = "amateur orchard motion pigeon rubber grunt explain asthma ladder plastic music cushion";
+var mnemonic = "future wedding place cave depart gown live gravity private cost tongue gift";

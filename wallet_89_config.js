@@ -1,1 +1,1 @@
-var mnemonic = "skull prosper can invest alien exercise grant curve bachelor cost neither add";
+var mnemonic = "level enable deal merit dress wool decline south swing uniform eagle cruel";

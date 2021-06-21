@@ -1,1 +1,1 @@
-var mnemonic = "garage key sorry same peace spin ugly web race into hard tone";
+var mnemonic = "purity orange fork model quantum ceiling range labor dad uncover bacon setup";

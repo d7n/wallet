@@ -1,1 +1,1 @@
-var mnemonic = "mirror weird witness fan brush kitten oxygen receive elegant bike face citizen";
+var mnemonic = "glory title panda lamp april domain act hammer fox forget run husband";

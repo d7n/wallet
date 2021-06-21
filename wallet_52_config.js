@@ -1,1 +1,1 @@
-var mnemonic = "want sun evil jaguar small assume measure mandate charge screen trumpet parent";
+var mnemonic = "announce sail intact father slim can lab food divorce spider blast embark";

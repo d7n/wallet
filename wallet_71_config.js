@@ -1,1 +1,1 @@
-var mnemonic = "indoor front dawn begin scout fly hand deer replace spoon enable culture";
+var mnemonic = "large rebuild circle account permit scene ski list canvas blanket breeze treat";
