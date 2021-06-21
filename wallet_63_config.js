@@ -1,1 +1,1 @@
-var mnemonic = "soccer trick ordinary path piece illness forward away frown junior brisk member";
+var mnemonic = "ice concert desert inquiry icon one carbon orphan face burst taxi warrior";

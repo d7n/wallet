@@ -1,1 +1,1 @@
-var mnemonic = "decide quiz episode reward multiply claw creek satisfy grape best fitness learn";
+var mnemonic = "basic accident uncle arrange idle dragon stove develop enable crush dolphin scrub";

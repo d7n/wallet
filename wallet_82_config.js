@@ -1,1 +1,1 @@
-var mnemonic = "uphold vivid energy crane nominee left vintage element session help shaft grocery";
+var mnemonic = "pudding penalty luxury unknown media print decide hire nerve plate exile lucky";

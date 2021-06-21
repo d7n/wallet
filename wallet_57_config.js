@@ -1,1 +1,1 @@
-var mnemonic = "into group churn glove swing regular home defense pluck sketch mandate lemon";
+var mnemonic = "ensure luxury river shine material during hip hunt island bid wreck decide";

@@ -1,1 +1,1 @@
-var mnemonic = "man denial chair gas merit onion crucial arrest spell picture puzzle fortune";
+var mnemonic = "leader grace equal same market tube supply item allow agent print slot";

@@ -1,1 +1,1 @@
-var mnemonic = "clever slam elbow lamp bike task empty shadow confirm old sport craft";
+var mnemonic = "friend enact execute crater outside three slide claim trash hawk burger upper";

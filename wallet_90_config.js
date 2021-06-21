@@ -1,1 +1,1 @@
-var mnemonic = "maze phrase close trend hedgehog zebra fever crew must acoustic review teach";
+var mnemonic = "artwork unveil hen little soon garage funny comic boss garlic advance that";

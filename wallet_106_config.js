@@ -1,1 +1,1 @@
-var mnemonic = "bid step push wasp heart remain task mesh melt genuine evoke reduce";
+var mnemonic = "echo absent original blush category buyer turn seat fall public south rival";

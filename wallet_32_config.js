@@ -1,1 +1,1 @@
-var mnemonic = "order donate spawn naive destroy remind labor dilemma essay swamp direct yard";
+var mnemonic = "cat exist repeat another make slab follow tower time connect road remember";

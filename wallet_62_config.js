@@ -1,1 +1,1 @@
-var mnemonic = "bright pretty science marble axis brain depth diesel stand valid name multiply";
+var mnemonic = "snack wise broccoli web coral hedgehog ability nephew soap coast hawk bless";

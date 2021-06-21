@@ -1,1 +1,1 @@
-var mnemonic = "month crumble faint real prefer destroy medal company culture merry glide reject";
+var mnemonic = "ready gasp smooth valley device lend wrestle unique chat gold attend summer";

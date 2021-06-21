@@ -1,1 +1,1 @@
-var mnemonic = "bind neutral puzzle alert add dry cheese aisle multiply theme faint blame";
+var mnemonic = "ship release topple image midnight grunt funny regret point genius okay creek";

@@ -1,1 +1,1 @@
-var mnemonic = "exhibit beef monster mail expose balance social culture genuine holiday travel orbit";
+var mnemonic = "later pattern clog only weather merit estate section order trick provide cabbage";

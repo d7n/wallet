@@ -1,1 +1,1 @@
-var mnemonic = "image egg feature filter skin arrange betray until pumpkin loyal any shell";
+var mnemonic = "turkey dry try boil angle notice fruit learn domain weekend normal state";

@@ -1,1 +1,1 @@
-var mnemonic = "such bulk later monster genius unable suit upset fade oven mean head";
+var mnemonic = "song because first hood fix tail cover panic example slice nest whale";

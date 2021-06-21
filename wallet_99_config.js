@@ -1,1 +1,1 @@
-var mnemonic = "capital flash damp news mosquito walk nut govern remain flush project unique";
+var mnemonic = "never punch frame comic load pave arrange clean can glimpse six settle";

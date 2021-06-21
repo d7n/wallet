@@ -1,1 +1,1 @@
-var mnemonic = "puzzle leopard bunker father churn life symbol exotic tank coffee file fun";
+var mnemonic = "beef gun satoshi proof family scan saddle stairs long ski rule club";

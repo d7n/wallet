@@ -1,1 +1,1 @@
-var mnemonic = "almost hamster arctic type grunt review exhibit smooth same female drive turtle";
+var mnemonic = "squirrel child apology accident slow stem liquid dignity artwork urban roof clown";

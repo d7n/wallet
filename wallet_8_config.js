@@ -1,1 +1,1 @@
-var mnemonic = "purpose blush warrior allow valid motor wrap hybrid drastic duck rescue tiny";
+var mnemonic = "debate find amused okay across visa curtain cycle success fame bench melody";

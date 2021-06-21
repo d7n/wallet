@@ -1,1 +1,1 @@
-var mnemonic = "world ten exile design conduct lift person figure basic crime song sibling";
+var mnemonic = "shoulder bird survey sample spend siren cost winter better lab build tray";

@@ -1,1 +1,1 @@
-var mnemonic = "vital arch neck real wheat frame unlock divorce edge opera hurry place";
+var mnemonic = "garage lift glove ginger veteran legal beach around symptom olive shaft cost";

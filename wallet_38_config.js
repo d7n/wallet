@@ -1,1 +1,1 @@
-var mnemonic = "yard crop noble cart goddess photo toilet soon horror good idle scissors";
+var mnemonic = "lake scorpion leader noise frost wrong critic sick among punch deny frost";

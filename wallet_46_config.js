@@ -1,1 +1,1 @@
-var mnemonic = "warrior critic butter section shove chief limit ozone stamp cruel rotate split";
+var mnemonic = "stone style must donate magic invite recycle crowd end nothing top butter";

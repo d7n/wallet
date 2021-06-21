@@ -1,1 +1,1 @@
-var mnemonic = "affair glare fame fitness sport disorder forget teach common liquid enlist cloud";
+var mnemonic = "sleep sketch sadness treat cruise today panic emotion rescue claw asset below";

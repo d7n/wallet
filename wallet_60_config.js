@@ -1,1 +1,1 @@
-var mnemonic = "settle couch angry action battle sense until grape gasp purity theme live";
+var mnemonic = "empower bless climb shell winner danger harsh label penalty public worth because";

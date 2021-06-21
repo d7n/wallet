@@ -1,1 +1,1 @@
-var mnemonic = "annual obvious dismiss across add canyon vendor recall isolate canvas dignity replace";
+var mnemonic = "shed blood cinnamon lock avoid unhappy royal child meadow obtain labor video";

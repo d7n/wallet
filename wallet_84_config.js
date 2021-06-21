@@ -1,1 +1,1 @@
-var mnemonic = "world relax economy romance luggage sibling laugh derive rival north feed maze";
+var mnemonic = "upset crawl clown curious mix strike dune still push romance receive essay";

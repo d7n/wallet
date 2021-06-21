@@ -1,1 +1,1 @@
-var mnemonic = "little duty wreck afraid essay all output destroy husband sentence begin narrow";
+var mnemonic = "spatial walnut knife capital wall pledge come relax company wire sniff gorilla";

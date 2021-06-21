@@ -1,1 +1,1 @@
-var mnemonic = "helmet march hero bracket banana wrist pass remember glimpse silent click music";
+var mnemonic = "palace exist cycle chuckle will denial staff angry nothing talk caught chalk";

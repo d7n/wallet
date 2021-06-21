@@ -1,1 +1,1 @@
-var mnemonic = "feel hundred tomorrow pattern cram shove best regret expand people mesh rebuild";
+var mnemonic = "deputy insane mango shock drip start usual predict weapon force dignity key";

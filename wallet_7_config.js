@@ -1,1 +1,1 @@
-var mnemonic = "strong address fever service rough bird differ work hundred bargain vendor hurdle";
+var mnemonic = "love kitten plug secret swamp crawl pause help spy desert enough sweet";

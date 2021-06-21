@@ -1,1 +1,1 @@
-var mnemonic = "alert fatigue sweet coffee process portion stable age fragile diesel flame quantum";
+var mnemonic = "vacant equip pen fringe license reason shock snow frown raccoon speak wonder";

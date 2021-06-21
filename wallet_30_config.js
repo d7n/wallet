@@ -1,1 +1,1 @@
-var mnemonic = "loyal nature review enrich spirit jazz orchard sauce bicycle curtain pledge noise";
+var mnemonic = "deny lunar clip plastic firm aware dress visa december run pelican cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "then assault reunion inflict destroy oil quote retreat coffee sheriff wisdom tilt";
+var mnemonic = "betray sport tool blame distance minute timber differ drive simple between nut";

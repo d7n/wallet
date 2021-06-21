@@ -1,1 +1,1 @@
-var mnemonic = "blame impose pave cancel sun slogan welcome journey tape enjoy like pride";
+var mnemonic = "claw night damage cycle senior copper convince cool manual moon friend link";

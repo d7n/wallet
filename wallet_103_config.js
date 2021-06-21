@@ -1,1 +1,1 @@
-var mnemonic = "imitate have east digital material easy record tennis gain clinic soon connect";
+var mnemonic = "dentist paper easily agent useful movie census carpet orient hole decide infant";

@@ -1,1 +1,1 @@
-var mnemonic = "birth glow category describe puppy right orient final claim foot have stock";
+var mnemonic = "rather pizza faint guitar arrive plunge inform matter shed famous hole edit";

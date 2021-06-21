@@ -1,1 +1,1 @@
-var mnemonic = "two spoon later giant swap raise bamboo farm daughter morning wait recall";
+var mnemonic = "inner marble question honey thing evoke gym nose trap radio innocent broccoli";

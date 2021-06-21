@@ -1,1 +1,1 @@
-var mnemonic = "brass canyon comic tool pave jeans tube chronic weekend sound differ above";
+var mnemonic = "dad enough security relief limb hunt hard glory slow winner online egg";

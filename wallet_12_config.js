@@ -1,1 +1,1 @@
-var mnemonic = "leisure spatial tornado project proud denial soldier attend casual moment pride tomorrow";
+var mnemonic = "area couch upon winner stove peasant canal casino kid ripple open slot";

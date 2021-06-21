@@ -1,1 +1,1 @@
-var mnemonic = "portion inside west swift idle antique art perfect glory horn usual few";
+var mnemonic = "real earn derive snap marriage climb ramp reveal bronze edit carpet fame";

@@ -1,1 +1,1 @@
-var mnemonic = "taste absurd order spike draft arrest boat boring person solar solar satisfy";
+var mnemonic = "height dial one tooth blush debris giant seven curious junior call wolf";

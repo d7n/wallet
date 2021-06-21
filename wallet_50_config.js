@@ -1,1 +1,1 @@
-var mnemonic = "draft police horror solar prevent author lava clap ghost addict square deputy";
+var mnemonic = "cage alert come mango cricket swamp update differ audit option habit flight";

@@ -1,1 +1,1 @@
-var mnemonic = "effort benefit uncle wrong apart consider small receive medal media puppy mosquito";
+var mnemonic = "gesture car warm stamp indoor track meat rigid release essence license remember";

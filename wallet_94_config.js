@@ -1,1 +1,1 @@
-var mnemonic = "body crystal adapt leisure trigger smoke gain much inquiry assist mimic net";
+var mnemonic = "control neither right rigid champion notable critic youth endless episode inside random";

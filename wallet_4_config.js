@@ -1,1 +1,1 @@
-var mnemonic = "together sorry advice eyebrow inner earth child unusual bleak cool horn mechanic";
+var mnemonic = "aunt talk saddle sunny obey voice diet bottom stumble tilt popular vacuum";

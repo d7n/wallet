@@ -1,1 +1,1 @@
-var mnemonic = "mystery omit page sun glimpse team genre chimney series member canvas all";
+var mnemonic = "protect foam become stamp diamond road female coffee globe print swap night";

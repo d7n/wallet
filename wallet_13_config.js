@@ -1,1 +1,1 @@
-var mnemonic = "top novel fancy rotate ivory sugar message edit rigid main trap agent";
+var mnemonic = "critic world moment entire liquid tackle acquire swift high desk since step";

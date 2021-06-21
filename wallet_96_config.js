@@ -1,1 +1,1 @@
-var mnemonic = "media dad cube anger observe hobby jazz fragile receive general off problem";
+var mnemonic = "gold reopen chalk know only spell silent horror weekend deny release region";

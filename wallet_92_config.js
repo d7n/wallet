@@ -1,1 +1,1 @@
-var mnemonic = "bundle science deputy chief slide start gun chapter execute later false inquiry";
+var mnemonic = "screen since decade boat bullet sudden elephant anxiety salmon gorilla attend minimum";

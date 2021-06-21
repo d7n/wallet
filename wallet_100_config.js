@@ -1,1 +1,1 @@
-var mnemonic = "night top badge token beef attract thought silver grab hub purchase lounge";
+var mnemonic = "blast token anxiety blame brother inspire soft chair exotic gauge aunt alcohol";

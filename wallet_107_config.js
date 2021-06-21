@@ -1,1 +1,1 @@
-var mnemonic = "cruise person kiwi post clinic casino design merit hammer plunge oblige spoil";
+var mnemonic = "neutral evoke comfort alert cloth palm rookie genre veteran skill unable vacant";

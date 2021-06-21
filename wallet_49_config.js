@@ -1,1 +1,1 @@
-var mnemonic = "bar boil tongue tobacco involve gasp verb sound better angry round bullet";
+var mnemonic = "ketchup mansion naive rough wink easy foot permit veteran emotion stamp post";

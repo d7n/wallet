@@ -1,1 +1,1 @@
-var mnemonic = "shaft waste abandon deliver allow sand clown cricket tunnel bunker movie drill";
+var mnemonic = "agent organ affair dizzy away father edit faculty token favorite wild embody";

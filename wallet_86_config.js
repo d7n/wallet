@@ -1,1 +1,1 @@
-var mnemonic = "apple wall glad anxiety warm color drum diagram annual flight illness inquiry";
+var mnemonic = "whip rotate since rib census arena ensure police pool what type picnic";

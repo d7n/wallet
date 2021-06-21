@@ -1,1 +1,1 @@
-var mnemonic = "ensure success globe mention woman pulse skill antenna actual pluck genre balance";
+var mnemonic = "flag valid puzzle manual nice maze prize one boost online salon fancy";

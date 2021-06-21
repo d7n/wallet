@@ -1,1 +1,1 @@
-var mnemonic = "pepper fitness army project high envelope blind polar pupil organ forum night";
+var mnemonic = "toy bonus body doll shine mind erase artwork random time train pet";

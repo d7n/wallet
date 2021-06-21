@@ -1,1 +1,1 @@
-var mnemonic = "giggle remain cube hello limit boat vessel absurd lab blouse vessel crystal";
+var mnemonic = "first rather dance antenna simple oak wreck under safe carpet region sad";

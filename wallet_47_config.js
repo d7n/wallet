@@ -1,1 +1,1 @@
-var mnemonic = "endorse steel weasel hint airport tenant price cable couch rhythm anchor faculty";
+var mnemonic = "high business girl risk congress quick robot width service over elder time";

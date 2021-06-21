@@ -1,1 +1,1 @@
-var mnemonic = "silk brown enter fish divide warfare energy height legend amount excite void";
+var mnemonic = "cabin age edit quantum distance rival off grocery trophy worth barely history";

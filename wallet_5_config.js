@@ -1,1 +1,1 @@
-var mnemonic = "grain violin earn term about timber october home reveal solution fatigue action";
+var mnemonic = "fold fresh skirt balance mango isolate junk champion cover purity cram black";

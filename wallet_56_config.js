@@ -1,1 +1,1 @@
-var mnemonic = "goat moral build west winter offer decade gallery nephew clay curve paper";
+var mnemonic = "wrap else faith belt husband squirrel earth tomato actual gesture mother around";

@@ -1,1 +1,1 @@
-var mnemonic = "prefer salmon mosquito dutch cereal ensure keep shoot shield claw useless prosper";
+var mnemonic = "female congress swallow upgrade romance stable ostrich occur rate february sniff code";

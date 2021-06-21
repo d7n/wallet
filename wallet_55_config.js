@@ -1,1 +1,1 @@
-var mnemonic = "adjust dirt velvet legend fence lazy retreat century spin much edit scan";
+var mnemonic = "dwarf device ramp decide cupboard scatter owner priority gasp winner flame buyer";

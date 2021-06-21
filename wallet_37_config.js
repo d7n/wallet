@@ -1,1 +1,1 @@
-var mnemonic = "off attack dentist differ weird glimpse change hint tag offer feel good";
+var mnemonic = "rural brave dream robot brown melt mushroom baby offer theme grace time";

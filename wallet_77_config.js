@@ -1,1 +1,1 @@
-var mnemonic = "hat foam exhibit hotel coconut arctic chimney wife select glare board stamp";
+var mnemonic = "easy firm frequent very tomorrow quality trigger crucial whisper extend scorpion heart";

@@ -1,1 +1,1 @@
-var mnemonic = "warm hamster excite adjust wild gospel apple calm this fan lecture cross";
+var mnemonic = "slogan attend toddler ladder casual accuse noise salad column jungle clever echo";

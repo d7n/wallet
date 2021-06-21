@@ -1,1 +1,1 @@
-var mnemonic = "shrug slight save canal employ captain cup idle total fitness muscle cave";
+var mnemonic = "sound common trophy broom scorpion lock seed visa torch produce echo foam";

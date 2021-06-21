@@ -1,1 +1,1 @@
-var mnemonic = "long wheat giraffe energy grunt art vehicle month object guide gossip attract";
+var mnemonic = "metal inject artwork basic spread airport skirt dune sugar someone hip air";

@@ -1,1 +1,1 @@
-var mnemonic = "giggle file draft display subject pull whip speed rely curve zoo candy";
+var mnemonic = "chunk shift street whisper drama tiger reunion army slow stadium tongue belt";

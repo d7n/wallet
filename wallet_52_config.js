@@ -1,1 +1,1 @@
-var mnemonic = "section leave capital benefit crater grid deny frost convince add input much";
+var mnemonic = "decline rapid pepper decrease spatial still front unfold limit gap excess spatial";

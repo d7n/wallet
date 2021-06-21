@@ -1,1 +1,1 @@
-var mnemonic = "rail observe film dutch dash now tribe raven fan what better scrub";
+var mnemonic = "hover mango this habit name wolf tackle session fury speak thought inside";

@@ -1,1 +1,1 @@
-var mnemonic = "simple plunge tribe pattern timber elbow finish reunion absurd below team myth";
+var mnemonic = "early near have together student beyond ask beef vacant provide brick device";

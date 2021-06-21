@@ -1,1 +1,1 @@
-var mnemonic = "marriage speed hungry canal tank vague beach abuse stumble believe cradle alley";
+var mnemonic = "perfect wear income salmon hotel whip stuff only obvious coconut decade receive";

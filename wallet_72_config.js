@@ -1,1 +1,1 @@
-var mnemonic = "that armor require result flame giraffe pill truth task agree coffee boy";
+var mnemonic = "visa parade mistake sure shy praise vessel rival frame gun lunar alley";

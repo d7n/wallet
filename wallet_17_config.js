@@ -1,1 +1,1 @@
-var mnemonic = "vehicle final illness issue bottom jaguar express frequent setup syrup grow travel";
+var mnemonic = "wonder clown misery write regular grocery proud snack cluster sister scare useful";

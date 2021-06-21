@@ -1,1 +1,1 @@
-var mnemonic = "example pen dog annual hello toast multiply evil vintage shuffle pass patrol";
+var mnemonic = "quick boil legal nasty robot spread master exhaust liar hospital toilet bright";

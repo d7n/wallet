@@ -1,1 +1,1 @@
-var mnemonic = "planet bless crater problem exercise call unfair wrist stage pluck load strategy";
+var mnemonic = "limit crane castle write foam panel style reward alter tissue tube mercy";

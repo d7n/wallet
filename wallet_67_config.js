@@ -1,1 +1,1 @@
-var mnemonic = "place absent bid best shine album depend chat maid into pool sand";
+var mnemonic = "habit inhale gap language leg opera input grain vacuum wrap shadow junior";

@@ -1,1 +1,1 @@
-var mnemonic = "salmon faculty easily record theory dignity around slide stay vocal great hunt";
+var mnemonic = "firm then same maze yellow order flock connect cabbage script hurdle notice";

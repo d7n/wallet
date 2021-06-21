@@ -1,1 +1,1 @@
-var mnemonic = "shaft airport make next leisure math indicate brand room deposit tilt coral";
+var mnemonic = "time deal boss during dad fiber wine various rookie unaware tribe either";

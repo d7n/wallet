@@ -1,1 +1,1 @@
-var mnemonic = "leg person bronze monkey nice below flower gossip peanut future network stock";
+var mnemonic = "window forest absurd liar denial nurse street erupt naive wash wait surface";

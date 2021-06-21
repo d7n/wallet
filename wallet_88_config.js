@@ -1,1 +1,1 @@
-var mnemonic = "fun build wise tenant start squeeze wealth truly until elegant three sphere";
+var mnemonic = "click cushion slow movie civil velvet hundred runway deal owner tell jaguar";

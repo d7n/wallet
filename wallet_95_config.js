@@ -1,1 +1,1 @@
-var mnemonic = "arrange effort soon supply depth glimpse shoot alert quote permit beyond swap";
+var mnemonic = "split false income where enact caught clump develop inherit essence rib trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "trigger climb finger drip arm cotton desk spirit right diary attitude symbol";
+var mnemonic = "digital light lion reveal lock laugh mule false abandon noble vehicle regular";

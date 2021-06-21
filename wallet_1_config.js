@@ -1,1 +1,1 @@
-var mnemonic = "hat reflect answer address space gain crunch side shock rocket bag skirt";
+var mnemonic = "blind nominee axis ripple ramp frog february collect face glimpse aerobic early";

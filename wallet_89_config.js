@@ -1,1 +1,1 @@
-var mnemonic = "boost bike gauge south leader table spice attitude enhance glove topple green";
+var mnemonic = "suspect goose shiver bacon adult inmate globe upgrade spend trial script two";

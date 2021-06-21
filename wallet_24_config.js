@@ -1,1 +1,1 @@
-var mnemonic = "advice expand any nut area surface egg orange mask jelly royal slight";
+var mnemonic = "plastic swear impulse good clip food start reform morning token ketchup breeze";
