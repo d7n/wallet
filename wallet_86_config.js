@@ -1,1 +1,1 @@
-var mnemonic = "swear giant chunk penalty evidence build gasp tube impulse pact sight good";
+var mnemonic = "logic pony trumpet rack ordinary discover best always place kick balance voice";

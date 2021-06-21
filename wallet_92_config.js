@@ -1,1 +1,1 @@
-var mnemonic = "angle bottom heart hope coyote output bless casino spare ghost flight chicken";
+var mnemonic = "can thrive aerobic scene museum green winner fall dignity marble town gift";

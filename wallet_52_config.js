@@ -1,1 +1,1 @@
-var mnemonic = "average tribe toy earn delay usage speed enlist round boost glimpse crane";
+var mnemonic = "body stadium genuine behave sample time asthma list office occur acquire sail";

@@ -1,1 +1,1 @@
-var mnemonic = "repeat drama pear cost security average web olympic spike distance hobby inch";
+var mnemonic = "lab skull yellow recall ensure physical clip charge treat bar capable pole";

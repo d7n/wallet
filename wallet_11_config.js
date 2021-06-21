@@ -1,1 +1,1 @@
-var mnemonic = "unlock short renew left federal web gold dwarf live switch giant hollow";
+var mnemonic = "cram large drink skill gas quote salute grief off swift salmon enough";

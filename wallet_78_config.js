@@ -1,1 +1,1 @@
-var mnemonic = "blossom meadow cruel barely forum joy polar essay sponsor perfect trial absurd";
+var mnemonic = "debris museum caution match decorate sweet view ginger ivory doll prefer suspect";

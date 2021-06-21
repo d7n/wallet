@@ -1,1 +1,1 @@
-var mnemonic = "piano library curious bean famous grain dilemma twice rookie upper talk oven";
+var mnemonic = "practice hammer trip empty bitter hair cereal skin ripple ranch clean sun";

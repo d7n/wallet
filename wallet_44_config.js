@@ -1,1 +1,1 @@
-var mnemonic = "pact ripple social busy promote vacuum safe paper image remind oxygen exhibit";
+var mnemonic = "pencil solution wine casino cereal burger winner bread escape protect describe gorilla";

@@ -1,1 +1,1 @@
-var mnemonic = "loop cost aunt shoe stairs host census twist vault gesture brisk vanish";
+var mnemonic = "razor enable patch cigar buyer wash ride cover entry scene science chief";

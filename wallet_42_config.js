@@ -1,1 +1,1 @@
-var mnemonic = "share smoke torch moon century auction method taxi luxury cloth order purchase";
+var mnemonic = "patient mad work trial prepare vacuum cook gain into winner argue enlist";

@@ -1,1 +1,1 @@
-var mnemonic = "runway arm original guilt top detect crumble alarm rice call strong clap";
+var mnemonic = "guess aspect lunar lesson paddle runway sweet stool visa two huge ripple";

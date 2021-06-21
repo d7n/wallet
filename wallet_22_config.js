@@ -1,1 +1,1 @@
-var mnemonic = "grunt jazz remind innocent leaf radar sport mesh lion inquiry hollow lazy";
+var mnemonic = "train scout prevent donor erase jewel donor damp soft cabin violin expand";

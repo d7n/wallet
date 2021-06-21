@@ -1,1 +1,1 @@
-var mnemonic = "system tissue hybrid gas arrange priority pool rescue elite benefit limit spray";
+var mnemonic = "lunch opinion bulb tilt actor use hood forum tobacco smooth approve potato";

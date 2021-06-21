@@ -1,1 +1,1 @@
-var mnemonic = "before merge minimum burger cause side safe depth mesh stage fish swap";
+var mnemonic = "blur trade truck notable sand load minute guard hedgehog surface parrot fiber";

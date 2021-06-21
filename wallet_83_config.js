@@ -1,1 +1,1 @@
-var mnemonic = "abstract thumb give chair remind awkward push fitness finish device ask dose";
+var mnemonic = "romance airport fun soup regular actual useless economy tribe sell soul awesome";

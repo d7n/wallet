@@ -1,1 +1,1 @@
-var mnemonic = "mail black sad violin pill amateur tenant shallow zone yard note tilt";
+var mnemonic = "whale sign enable depart giraffe friend end useless buddy apart item analyst";

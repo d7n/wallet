@@ -1,1 +1,1 @@
-var mnemonic = "retire puppy swarm art matrix cup mesh dice deliver believe board inflict";
+var mnemonic = "tunnel spawn over smoke silent mom prize flame acquire tray day mango";

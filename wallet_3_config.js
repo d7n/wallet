@@ -1,1 +1,1 @@
-var mnemonic = "thumb pen slide rhythm relax cupboard door select peanut urban churn mimic";
+var mnemonic = "item puppy since usage display occur airport original insane monkey salt dizzy";

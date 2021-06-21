@@ -1,1 +1,1 @@
-var mnemonic = "swim soon title gauge move patch ostrich capital trial route web pledge";
+var mnemonic = "evolve outside regret weasel air dinner wash dish butter bonus mammal canal";

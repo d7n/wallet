@@ -1,1 +1,1 @@
-var mnemonic = "neck improve victory canoe wine route armor strategy news flee then rail";
+var mnemonic = "host dress soul duck travel oyster develop skin alarm churn taxi elder";

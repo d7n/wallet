@@ -1,1 +1,1 @@
-var mnemonic = "flush share stand tiger tennis tape click plate swallow fuel exhaust shell";
+var mnemonic = "damp exhaust clever draft early hub service gravity dynamic sugar tissue casual";

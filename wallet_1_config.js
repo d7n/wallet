@@ -1,1 +1,1 @@
-var mnemonic = "grant street element west engage absent raccoon unaware lounge walk luggage learn";
+var mnemonic = "bind chest announce scene license milk wing mass sadness crowd amused pistol";

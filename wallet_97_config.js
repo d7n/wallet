@@ -1,1 +1,1 @@
-var mnemonic = "voice model parent rate sport unique dice spoon check fiction danger ostrich";
+var mnemonic = "dust oblige spray member resemble december charge fall guess supreme cream joke";

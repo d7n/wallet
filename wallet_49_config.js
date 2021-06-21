@@ -1,1 +1,1 @@
-var mnemonic = "pond assist open aspect twist horror ten harvest science coral maze below";
+var mnemonic = "weekend refuse rebel legend average club often ugly rail bean vocal faculty";

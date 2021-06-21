@@ -1,1 +1,1 @@
-var mnemonic = "ten suspect pitch market shell palace hand paddle lazy venture video best";
+var mnemonic = "peace foil expect uphold arm fiction crash rough usual hard donate aisle";

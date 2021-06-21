@@ -1,1 +1,1 @@
-var mnemonic = "code poet dance dial comfort magic swamp subject merge rigid brass pill";
+var mnemonic = "tongue harbor anchor scrap tilt equip reflect illegal march pluck drip skate";

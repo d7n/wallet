@@ -1,1 +1,1 @@
-var mnemonic = "genius aunt escape helmet width trial captain first pepper nominee confirm deputy";
+var mnemonic = "trend shop private recipe stadium vehicle famous horror spy team naive speak";

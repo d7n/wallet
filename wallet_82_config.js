@@ -1,1 +1,1 @@
-var mnemonic = "mango true correct debris coral viable deny tumble please mechanic genuine joke";
+var mnemonic = "day wreck ahead animal blame game hunt speak upper swamp host trouble";

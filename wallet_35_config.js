@@ -1,1 +1,1 @@
-var mnemonic = "inquiry oblige express favorite middle predict ankle concert crucial gossip provide coast";
+var mnemonic = "follow march correct drop trap toast during cage unusual mosquito rough invite";

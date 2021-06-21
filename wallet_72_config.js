@@ -1,1 +1,1 @@
-var mnemonic = "fever wink dose evoke stage talk swallow obey exist time acoustic catalog";
+var mnemonic = "label reveal body lobster dial smile bar travel ordinary furnace cute quarter";

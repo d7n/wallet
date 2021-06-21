@@ -1,1 +1,1 @@
-var mnemonic = "ride office warrior leg play resist cancel wave drum forget road tourist";
+var mnemonic = "hire mixture obtain loan planet viable sketch idle office network search tell";

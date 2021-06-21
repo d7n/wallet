@@ -1,1 +1,1 @@
-var mnemonic = "romance smart liberty mail language inherit depth rude session occur senior addict";
+var mnemonic = "beauty couch repeat diagram power final kiwi nominee sheriff evolve mail top";

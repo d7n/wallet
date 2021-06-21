@@ -1,1 +1,1 @@
-var mnemonic = "sauce milk kingdom pulp level rapid immune clerk obey resource senior gesture";
+var mnemonic = "arctic ramp scrub busy real steel blind illness rich repair joke fault";

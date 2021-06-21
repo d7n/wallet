@@ -1,1 +1,1 @@
-var mnemonic = "addict mammal pelican myself will size argue still stick kit pigeon unusual";
+var mnemonic = "deny legend gaze region plunge fever public tourist soap air kidney beauty";

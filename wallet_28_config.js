@@ -1,1 +1,1 @@
-var mnemonic = "roast clutch food monster keen follow victory popular eye gloom fire rally";
+var mnemonic = "bomb goddess congress fun output harvest wet hood opera spike loop aunt";

@@ -1,1 +1,1 @@
-var mnemonic = "nurse deny error double please reward sibling air unit ramp discover zoo";
+var mnemonic = "side blouse clock smile bracket jewel custom emerge omit kingdom crazy quiz";

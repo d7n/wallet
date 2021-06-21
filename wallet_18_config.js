@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon income tribe arctic tomorrow begin neither burger scorpion blind toe right";
+var mnemonic = "stairs track luxury mother coconut february latin dream truth monitor obvious work";

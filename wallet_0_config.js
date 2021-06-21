@@ -1,1 +1,1 @@
-var mnemonic = "pilot teach wash dry detail chest airport wing ranch know shaft tiny";
+var mnemonic = "cereal actor perfect collect glide boil calm exact globe similar turtle bridge";

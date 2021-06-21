@@ -1,1 +1,1 @@
-var mnemonic = "outside dirt maximum point nurse party couch tent labor tide surface prosper";
+var mnemonic = "outdoor dish poet eternal work brass venture atom adjust estate illness discover";

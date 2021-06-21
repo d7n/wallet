@@ -1,1 +1,1 @@
-var mnemonic = "planet direct saddle audit bleak autumn cinnamon tape shop obtain spirit robust";
+var mnemonic = "coach kid vendor door rich badge skill vapor word soccer hazard airport";

@@ -1,1 +1,1 @@
-var mnemonic = "knee chef ask advice robust snack multiply fly install inject wasp napkin";
+var mnemonic = "baby soda reopen obvious lake square scene clap subway differ imitate shock";

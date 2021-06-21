@@ -1,1 +1,1 @@
-var mnemonic = "thing torch lucky physical limit sort injury zone spice hold endless rug";
+var mnemonic = "sphere label confirm vessel ahead useful episode raise convince aunt celery vocal";

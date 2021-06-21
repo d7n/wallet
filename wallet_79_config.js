@@ -1,1 +1,1 @@
-var mnemonic = "scene educate slot scheme plastic lunch slide assault noise broccoli charge piece";
+var mnemonic = "joke stereo foster wolf angry just fantasy awake always crowd fiscal outside";

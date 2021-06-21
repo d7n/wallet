@@ -1,1 +1,1 @@
-var mnemonic = "funny health chef december sort demise base crush sport jewel dash neglect";
+var mnemonic = "swing airport lonely please decrease unfold erode company number margin shine umbrella";

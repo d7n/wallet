@@ -1,1 +1,1 @@
-var mnemonic = "same often duck umbrella ghost bitter patient cloud endorse smooth prize oppose";
+var mnemonic = "flush cart transfer devote lottery only swing wise carry client three south";

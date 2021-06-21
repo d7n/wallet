@@ -1,1 +1,1 @@
-var mnemonic = "kick laugh robust lizard insect flavor slot text delay company category lottery";
+var mnemonic = "brush replace music cost bundle town glide warfare case asset invite left";

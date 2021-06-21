@@ -1,1 +1,1 @@
-var mnemonic = "nut genre scene vital sign number flock ladder machine embrace become person";
+var mnemonic = "eight electric lottery trial there mail actress image spring right cannon skirt";

@@ -1,1 +1,1 @@
-var mnemonic = "honey cream aunt refuse circle slow velvet wine hunt slender confirm client";
+var mnemonic = "true color payment prize begin wish dust amazing notice cage daring hurt";

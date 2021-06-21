@@ -1,1 +1,1 @@
-var mnemonic = "suffer crew syrup attack violin cupboard rely erosion talk alley cake connect";
+var mnemonic = "enlist corn bean into machine until body thing melody hurry miss lonely";

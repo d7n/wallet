@@ -1,1 +1,1 @@
-var mnemonic = "lucky boring cupboard flash soldier green industry pretty pioneer future hidden bacon";
+var mnemonic = "nice until merge shadow author fence draft fade record flock seat deny";

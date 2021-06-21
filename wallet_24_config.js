@@ -1,1 +1,1 @@
-var mnemonic = "motor laptop utility motor cheese behave panic save split two stumble street";
+var mnemonic = "autumn umbrella bomb resist grain review visit wall mobile similar skull eye";

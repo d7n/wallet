@@ -1,1 +1,1 @@
-var mnemonic = "pond garden slow pulp parrot swift peanut faculty sound give street humble";
+var mnemonic = "develop napkin surprise admit add erosion stock quick crunch dutch color field";

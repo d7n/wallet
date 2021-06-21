@@ -1,1 +1,1 @@
-var mnemonic = "ski physical fee foam pioneer that move resource idle arrest sauce gate";
+var mnemonic = "refuse resist hobby maze cruise ice hole rack ritual column tilt weird";

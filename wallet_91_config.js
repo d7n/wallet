@@ -1,1 +1,1 @@
-var mnemonic = "river when sight car fitness movie april blind spice pelican behind garlic";
+var mnemonic = "arrange inner pattern radio asset interest desk option whisper skull girl rely";

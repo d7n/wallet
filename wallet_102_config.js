@@ -1,1 +1,1 @@
-var mnemonic = "sugar repair genuine culture female crater lobster lunch piece design monster latin";
+var mnemonic = "toe code roast learn pottery keen output cement shell divert found acquire";

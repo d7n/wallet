@@ -1,1 +1,1 @@
-var mnemonic = "solve gold grit club divert shiver weekend warrior use coil income quick";
+var mnemonic = "leave swap amused hen pioneer pen purpose forum return faculty lucky lock";

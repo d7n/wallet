@@ -1,1 +1,1 @@
-var mnemonic = "update case fall wise lady desert identify vintage bounce weasel door frame";
+var mnemonic = "logic coin use evolve confirm home net film unlock hood unaware example";

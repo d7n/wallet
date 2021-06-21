@@ -1,1 +1,1 @@
-var mnemonic = "capable hurry lady blast lazy maple discover naive olympic pipe salt door";
+var mnemonic = "explain quick soap connect volcano clerk usage magnet essence hurry doll visit";

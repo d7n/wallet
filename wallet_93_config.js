@@ -1,1 +1,1 @@
-var mnemonic = "intact column chuckle path empower tissue virtual erupt harsh mixed have stumble";
+var mnemonic = "mountain season family document robot sting slogan fat fence brother exclude section";

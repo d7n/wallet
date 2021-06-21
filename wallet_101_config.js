@@ -1,1 +1,1 @@
-var mnemonic = "area inhale jump census album cruise elevator forest someone slide engage crime";
+var mnemonic = "bid major soda gloom improve doctor measure cash net chase find region";

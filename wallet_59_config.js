@@ -1,1 +1,1 @@
-var mnemonic = "damp gossip skirt sing leave bubble kangaroo build employ guitar quote typical";
+var mnemonic = "timber museum elegant tiger coffee limit buddy panic tattoo alcohol hurdle document";

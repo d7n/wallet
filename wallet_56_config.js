@@ -1,1 +1,1 @@
-var mnemonic = "thunder legend toast hawk burden vast never camp strong vital risk six";
+var mnemonic = "knock poem guitar talent depend save credit empty alarm avoid seven burst";

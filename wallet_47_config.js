@@ -1,1 +1,1 @@
-var mnemonic = "error auction laugh repair female pipe stairs service flee heart average winter";
+var mnemonic = "section keen sustain pass describe actress flush absorb latin learn taste engage";

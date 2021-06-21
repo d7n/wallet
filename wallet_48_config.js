@@ -1,1 +1,1 @@
-var mnemonic = "envelope eight main rare boy render surface fine clip win tornado absorb";
+var mnemonic = "fat rate target city tone stove judge mad monitor entry budget cry";

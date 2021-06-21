@@ -1,1 +1,1 @@
-var mnemonic = "patient street produce used behave produce tribe harvest kick only better relax";
+var mnemonic = "castle hand skill frog market true ribbon crazy exhibit moral balance pause";

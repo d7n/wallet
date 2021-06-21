@@ -1,1 +1,1 @@
-var mnemonic = "sauce seek educate royal weapon thank message february south battle bread follow";
+var mnemonic = "stereo student during elbow useless street oval segment tortoise lady dirt tobacco";

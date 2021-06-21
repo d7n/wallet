@@ -1,1 +1,1 @@
-var mnemonic = "stumble exchange gravity era hungry glass quality canvas expect comic smooth advance";
+var mnemonic = "despair crawl position close melody digital stomach tuition rack bundle diet boat";

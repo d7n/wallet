@@ -1,1 +1,1 @@
-var mnemonic = "heart hope body trumpet device ill flame friend ozone daring wash mobile";
+var mnemonic = "travel egg firm turtle decorate census barrel chief bulk grab ethics text";

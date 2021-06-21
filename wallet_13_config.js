@@ -1,1 +1,1 @@
-var mnemonic = "invite sunset output alcohol wire picture bag iron bonus season hair nephew";
+var mnemonic = "hungry torch entry screen milk chronic ball income foil security fruit eight";

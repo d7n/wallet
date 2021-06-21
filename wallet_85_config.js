@@ -1,1 +1,1 @@
-var mnemonic = "very reunion spider slender tail street purpose visa utility plate cotton ice";
+var mnemonic = "forget input ball history public essence spice blouse minor rare total valley";

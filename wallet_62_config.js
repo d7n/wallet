@@ -1,1 +1,1 @@
-var mnemonic = "juice river position lawsuit build rare pretty general uncover calm atom stomach";
+var mnemonic = "post dream object unknown inmate peasant have machine unusual again able dignity";

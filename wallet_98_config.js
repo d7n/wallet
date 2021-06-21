@@ -1,1 +1,1 @@
-var mnemonic = "reunion very praise august area amount oyster dumb winner ill receive shop";
+var mnemonic = "put girl check abandon episode gain wire detect mobile gorilla february notice";

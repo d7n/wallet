@@ -1,1 +1,1 @@
-var mnemonic = "easily midnight upper canyon winter stereo endless tape submit baby topic suspect";
+var mnemonic = "display champion educate equal solve lend ahead raw post year catalog survey";

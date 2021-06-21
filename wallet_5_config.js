@@ -1,1 +1,1 @@
-var mnemonic = "exchange family tail now rain fix damp stay property autumn nasty rough";
+var mnemonic = "stay brisk trust tree avocado rookie charge indicate easy simple flag sick";

@@ -1,1 +1,1 @@
-var mnemonic = "slender someone avoid young amateur balcony join advice accuse awkward cloth spider";
+var mnemonic = "daughter spin head long street scheme yellow palm arctic call upon buzz";

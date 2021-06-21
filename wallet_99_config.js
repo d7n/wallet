@@ -1,1 +1,1 @@
-var mnemonic = "coach fresh attack offer any luxury state come smooth blade neglect indicate";
+var mnemonic = "exchange carpet resemble object zero hedgehog comic humor sheriff hotel buyer sunny";

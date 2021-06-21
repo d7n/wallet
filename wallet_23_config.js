@@ -1,1 +1,1 @@
-var mnemonic = "already shrug truck moon boil search airport boring fold dwarf below clay";
+var mnemonic = "galaxy plastic fame boss person vibrant indoor creek come learn social cat";

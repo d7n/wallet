@@ -1,1 +1,1 @@
-var mnemonic = "copper body link metal strong maze raven clump era envelope cool hood";
+var mnemonic = "route always rely hello cloud gift hamster awake warm uncover aunt color";

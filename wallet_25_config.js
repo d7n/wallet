@@ -1,1 +1,1 @@
-var mnemonic = "sand float dove swallow update town general immense fuel camp fall spell";
+var mnemonic = "hope focus flat cradle report copy crumble member junk chicken height remember";

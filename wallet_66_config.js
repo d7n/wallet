@@ -1,1 +1,1 @@
-var mnemonic = "cute grunt can era flame lecture bullet toilet puppy avoid near fox";
+var mnemonic = "net wrist ribbon predict invite gossip bring fetch polar purse cry curtain";

@@ -1,1 +1,1 @@
-var mnemonic = "level weapon fortune danger potato exhibit sustain below symptom harsh dutch network";
+var mnemonic = "inmate excite much retire person captain farm lesson exile athlete brush tuna";

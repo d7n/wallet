@@ -1,1 +1,1 @@
-var mnemonic = "century december alley setup sail wife guitar room left video slogan more";
+var mnemonic = "remove neglect sound version output impose peanut spatial coffee duck exile corn";

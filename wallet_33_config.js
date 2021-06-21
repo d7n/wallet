@@ -1,1 +1,1 @@
-var mnemonic = "rent execute bar lift unusual welcome program engine organ minor foam world";
+var mnemonic = "genuine power rebel success forget stay napkin kind tonight double auto shrimp";

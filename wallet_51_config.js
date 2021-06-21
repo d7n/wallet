@@ -1,1 +1,1 @@
-var mnemonic = "wall hip sketch glow emotion radio twelve trash ankle miracle milk because";
+var mnemonic = "spend asthma drill time proud opinion sell avoid place must shine paper";

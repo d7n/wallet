@@ -1,1 +1,1 @@
-var mnemonic = "gesture draw appear device envelope know celery manage right exchange knock first";
+var mnemonic = "engine crew safe emerge style canoe course cinnamon cupboard post cherry wife";

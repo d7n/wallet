@@ -1,1 +1,1 @@
-var mnemonic = "student lamp offer soul route sea slight virtual shy fork office tuition";
+var mnemonic = "banana cliff scrub food puzzle toward lock boss forward uncover relief clock";

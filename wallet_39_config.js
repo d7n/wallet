@@ -1,1 +1,1 @@
-var mnemonic = "science pelican casino surface solution soft undo welcome elbow vintage fat sphere";
+var mnemonic = "parade blind jar essence dust roof scrub nest roof focus globe air";

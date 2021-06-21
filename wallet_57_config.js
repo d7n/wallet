@@ -1,1 +1,1 @@
-var mnemonic = "chat market stadium enough among spread arena cupboard avoid educate slender tenant";
+var mnemonic = "dinner regular cereal bus fancy wild water able room spider nature faint";

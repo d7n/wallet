@@ -1,1 +1,1 @@
-var mnemonic = "action world car evoke model enjoy oppose patient slice crouch kiwi right";
+var mnemonic = "canyon stick clerk earth tissue exit priority peace chronic mind nest exchange";

@@ -1,1 +1,1 @@
-var mnemonic = "run grain stool pause key faint eight only object indicate honey marine";
+var mnemonic = "hire job indicate nuclear trade battle ankle force gasp radio large cake";

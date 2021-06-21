@@ -1,1 +1,1 @@
-var mnemonic = "hollow bone fancy mind evolve coach vicious destroy actual ski brief interest";
+var mnemonic = "cousin clip federal network trophy actual twice task someone chaos brown coconut";
