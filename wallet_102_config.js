@@ -1,1 +1,1 @@
-var mnemonic = "tip time leave oblige rebuild disease south industry wing chef oblige paper";
+var mnemonic = "uniform file vehicle before impact long harbor choose toddler find upper echo";

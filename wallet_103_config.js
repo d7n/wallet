@@ -1,1 +1,1 @@
-var mnemonic = "surface spy inflict lady plastic version pluck crew breeze surface trade cherry";
+var mnemonic = "afraid squirrel afraid twin mom shoot list elder tourist tape dismiss tuition";

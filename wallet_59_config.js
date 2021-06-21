@@ -1,1 +1,1 @@
-var mnemonic = "reunion list minor cross dutch ahead tennis absorb pigeon kitchen gloom erase";
+var mnemonic = "castle dentist glory solution drip portion abuse mechanic enjoy ripple extra polar";

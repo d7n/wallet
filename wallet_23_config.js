@@ -1,1 +1,1 @@
-var mnemonic = "music total crane cancel emotion panic fitness basket satoshi actual almost slam";
+var mnemonic = "reduce grief together actor term liar setup strike rapid vicious vibrant electric";

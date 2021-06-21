@@ -1,1 +1,1 @@
-var mnemonic = "woman enough birth later noble great wasp casino patch solve recall depart";
+var mnemonic = "mimic stamp jaguar add review teach travel private object renew miracle thrive";

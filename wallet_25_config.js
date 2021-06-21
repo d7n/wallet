@@ -1,1 +1,1 @@
-var mnemonic = "secret south join rubber west shy uniform where impose there matter popular";
+var mnemonic = "boat holiday what life link fragile figure screen sniff code trip coach";

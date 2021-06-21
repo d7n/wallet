@@ -1,1 +1,1 @@
-var mnemonic = "amateur current shrimp upgrade retreat access smile drum insane nephew survey eagle";
+var mnemonic = "argue envelope emerge cake away truly example diamond banana denial royal today";

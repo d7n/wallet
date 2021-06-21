@@ -1,1 +1,1 @@
-var mnemonic = "ceiling answer trophy empty prepare mind color wild biology portion before stand";
+var mnemonic = "scissors team defy century tornado resource kitten flame risk attract group usual";

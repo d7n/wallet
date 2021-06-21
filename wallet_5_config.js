@@ -1,1 +1,1 @@
-var mnemonic = "profit doctor differ blame daughter wagon better equal punch mechanic connect consider";
+var mnemonic = "frost tumble invest accident deliver day camera squirrel favorite annual fire noise";

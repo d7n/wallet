@@ -1,1 +1,1 @@
-var mnemonic = "mail wood lazy park correct soap now betray jacket image ginger lunar";
+var mnemonic = "juice measure oxygen lake blast art mechanic lend vendor erode approve knee";

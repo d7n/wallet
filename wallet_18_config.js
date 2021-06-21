@@ -1,1 +1,1 @@
-var mnemonic = "deposit fit hub grow speed wall under differ unfold mouse ritual sleep";
+var mnemonic = "violin suffer know found degree faint black impulse spoil parade merit motor";

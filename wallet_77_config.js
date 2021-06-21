@@ -1,1 +1,1 @@
-var mnemonic = "cancel wild curious lonely traffic brush inside pretty midnight chicken globe square";
+var mnemonic = "review sound yellow cat legal upgrade stable season false sail scout glass";

@@ -1,1 +1,1 @@
-var mnemonic = "copy smoke mercy village ethics game spend type remember action name romance";
+var mnemonic = "film junk else moral custom mistake matrix venture shadow prize spirit mother";

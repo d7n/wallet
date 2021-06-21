@@ -1,1 +1,1 @@
-var mnemonic = "flip scheme energy vivid switch phone enforce tourist mechanic mobile dash radio";
+var mnemonic = "grid virtual liquid catalog submit negative hunt easy swap solar snap rebel";

@@ -1,1 +1,1 @@
-var mnemonic = "family design layer section purpose ghost spin onion tumble bone wave seek";
+var mnemonic = "steel survey receive vicious neutral input garlic stable pottery horse song month";

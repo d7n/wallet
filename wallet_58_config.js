@@ -1,1 +1,1 @@
-var mnemonic = "post roof fresh audit own birth ribbon screen rough bulb such noodle";
+var mnemonic = "blast myself clerk hungry elevator clown twist happy flat method bomb river";

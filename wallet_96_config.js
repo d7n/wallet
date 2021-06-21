@@ -1,1 +1,1 @@
-var mnemonic = "mom because boat deer apology rigid trip involve sausage shuffle usage firm";
+var mnemonic = "huge gravity okay traffic month champion meat easily super sentence tennis escape";

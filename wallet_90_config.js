@@ -1,1 +1,1 @@
-var mnemonic = "illness metal flavor open axis resource initial virtual couch craft cinnamon extra";
+var mnemonic = "crunch season fix student tip muffin diet bird destroy net rigid kangaroo";

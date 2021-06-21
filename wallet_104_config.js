@@ -1,1 +1,1 @@
-var mnemonic = "stem galaxy disorder blanket prefer pause spirit control slim image equip mail";
+var mnemonic = "pet pet photo desk diary tilt oak later crane steak cradle hard";

@@ -1,1 +1,1 @@
-var mnemonic = "magnet twist fragile often spider choice wood goose stem moment elevator universe";
+var mnemonic = "patch tide artwork only animal exact found series change reform achieve charge";

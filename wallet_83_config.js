@@ -1,1 +1,1 @@
-var mnemonic = "giant fine swim person athlete sort deny height argue bracket affair march";
+var mnemonic = "dismiss dutch merit refuse source lamp hockey shadow diagram vintage hole absurd";

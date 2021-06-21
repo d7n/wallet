@@ -1,1 +1,1 @@
-var mnemonic = "mesh hint culture notice kid broccoli spot already exclude empower meadow bundle";
+var mnemonic = "smile scout fiction auto provide helmet carbon scheme junk couple narrow year";

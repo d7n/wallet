@@ -1,1 +1,1 @@
-var mnemonic = "such eager pizza erode oyster suspect object grab oppose sad salt virtual";
+var mnemonic = "toast story carbon imitate orient parent coil off balance despair tooth purpose";

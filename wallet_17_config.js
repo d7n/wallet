@@ -1,1 +1,1 @@
-var mnemonic = "seat mixture coffee estate capable refuse hazard lab hospital convince oyster february";
+var mnemonic = "final also fiction joy engage sunset surface post depart baby exit project";

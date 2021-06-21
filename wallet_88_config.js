@@ -1,1 +1,1 @@
-var mnemonic = "prepare grocery word win morning crucial scheme giraffe crumble frame garden avocado";
+var mnemonic = "series junk cannon convince syrup edge great tissue news cross also enact";

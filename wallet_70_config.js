@@ -1,1 +1,1 @@
-var mnemonic = "essay scissors always actor surface federal waste pen front annual soldier pear";
+var mnemonic = "save answer decade now popular maid assume garage credit another electric endless";

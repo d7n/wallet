@@ -1,1 +1,1 @@
-var mnemonic = "shallow pause clog home save theme vacant tip syrup pulp stay feel";
+var mnemonic = "caution traffic taste drum can brush enemy recipe margin humble agent october";

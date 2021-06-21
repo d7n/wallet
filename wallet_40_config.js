@@ -1,1 +1,1 @@
-var mnemonic = "install hero bounce note sustain october lyrics airport safe weather shield salon";
+var mnemonic = "prevent tortoise evil appear category fresh soft segment pair airport term burst";

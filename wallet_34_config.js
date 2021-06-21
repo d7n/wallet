@@ -1,1 +1,1 @@
-var mnemonic = "chef lazy knee lazy palm pass insect first wear bag easily name";
+var mnemonic = "aware gain lawsuit black multiply lake genre empower file cargo winner rude";

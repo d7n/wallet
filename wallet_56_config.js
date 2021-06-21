@@ -1,1 +1,1 @@
-var mnemonic = "slogan shrug good rare cereal nature occur base elder magnet bench day";
+var mnemonic = "grit edge poverty recycle dragon head obvious focus ranch walk nice must";

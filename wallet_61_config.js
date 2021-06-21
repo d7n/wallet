@@ -1,1 +1,1 @@
-var mnemonic = "head advance cattle innocent body alert female between bracket upper vocal body";
+var mnemonic = "rail debris planet season barely mutual judge apology join reunion fortune entry";

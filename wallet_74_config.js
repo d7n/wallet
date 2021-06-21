@@ -1,1 +1,1 @@
-var mnemonic = "confirm already riot crime mimic fiction cement lonely wink bar market twenty";
+var mnemonic = "lift stumble brief daring sweet social focus cloud girl absurd stuff mutual";

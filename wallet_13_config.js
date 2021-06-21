@@ -1,1 +1,1 @@
-var mnemonic = "wasp door wood rocket tourist ring anchor tissue fantasy zero catalog funny";
+var mnemonic = "clinic shaft robot fantasy shallow flee leg output wedding tent basic excess";

@@ -1,1 +1,1 @@
-var mnemonic = "poverty tag name entry engage lounge behave multiply potato off code cement";
+var mnemonic = "roof check spice tragic symptom protect wise mountain pulse sell toast engage";

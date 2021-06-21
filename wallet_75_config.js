@@ -1,1 +1,1 @@
-var mnemonic = "cigar extra mixture medal social alien nothing music silly invite engine meat";
+var mnemonic = "tenant pipe private swear jealous choose myth icon victory normal aware flame";

@@ -1,1 +1,1 @@
-var mnemonic = "appear dawn broom seven torch term decrease shiver swim wedding inherit oval";
+var mnemonic = "mule parade fetch market similar street apart soon hip favorite endorse street";

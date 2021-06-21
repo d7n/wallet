@@ -1,1 +1,1 @@
-var mnemonic = "style series electric charge dinner stamp release sister gap penalty bonus federal";
+var mnemonic = "tunnel pave other drift during mutual castle smart region mercy paddle ugly";

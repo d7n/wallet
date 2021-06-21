@@ -1,1 +1,1 @@
-var mnemonic = "breeze repair again number exact exotic cost bone earth neglect wage excuse";
+var mnemonic = "wheat blossom demise price drastic strike raccoon tape hamster van federal record";

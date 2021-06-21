@@ -1,1 +1,1 @@
-var mnemonic = "clog color home recall burger alien situate salt obvious ritual design enact";
+var mnemonic = "slim remove mercy cruise one ship spray lizard lady make satoshi unusual";

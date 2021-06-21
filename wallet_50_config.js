@@ -1,1 +1,1 @@
-var mnemonic = "bless gather put twelve tobacco pony depart stomach twelve fit able achieve";
+var mnemonic = "electric tongue woman submit swarm beyond clap radar liar multiply become core";

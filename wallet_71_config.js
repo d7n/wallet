@@ -1,1 +1,1 @@
-var mnemonic = "flight loan creek eye juice identify pottery sponsor meat permit book romance";
+var mnemonic = "neck repair gown judge cargo globe laugh judge person they stairs huge";

@@ -1,1 +1,1 @@
-var mnemonic = "pigeon champion assume episode west remember nose ten load kiss mountain patrol";
+var mnemonic = "miracle drama earth spike fix daring cause search snow weather code estate";

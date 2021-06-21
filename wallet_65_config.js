@@ -1,1 +1,1 @@
-var mnemonic = "wise then describe protect island solution trial south cereal repeat age height";
+var mnemonic = "length language receive cross tiger siren plate pilot warrior more vessel roast";

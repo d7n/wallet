@@ -1,1 +1,1 @@
-var mnemonic = "series cherry cup unusual maze satisfy hello search goddess barely amateur crystal";
+var mnemonic = "say song useless provide weapon odor dignity pave faculty coral drive raccoon";

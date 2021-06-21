@@ -1,1 +1,1 @@
-var mnemonic = "token artist audit prevent source long robot boy cash debris maple boat";
+var mnemonic = "title author exist flavor enough pioneer rifle genuine scissors proof depth bacon";

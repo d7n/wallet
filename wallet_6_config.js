@@ -1,1 +1,1 @@
-var mnemonic = "forget laugh escape tackle slam edit random scrap win jaguar scan matter";
+var mnemonic = "alcohol coast enroll virtual cement detail muscle speak cherry street already trim";

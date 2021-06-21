@@ -1,1 +1,1 @@
-var mnemonic = "gauge fever across river art armed erode sibling solar code harvest side";
+var mnemonic = "only often lunar cost noise wrestle route ceiling child maid elbow border";

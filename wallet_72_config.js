@@ -1,1 +1,1 @@
-var mnemonic = "ski snake always drink concert escape amount measure position antique ostrich spatial";
+var mnemonic = "cinnamon join bag roast rack build marine private vivid army control unfair";

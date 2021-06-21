@@ -1,1 +1,1 @@
-var mnemonic = "almost poem away hour meadow capable smile rack garbage oil mix shine";
+var mnemonic = "myself name erode leave eye ski include twice main hint issue keep";

@@ -1,1 +1,1 @@
-var mnemonic = "click large soap book sketch unveil science smooth seek daughter alpha dance";
+var mnemonic = "trash foot during morning arrive gossip roast combine wall snow rival beyond";

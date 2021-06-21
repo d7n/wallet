@@ -1,1 +1,1 @@
-var mnemonic = "deputy shadow region struggle battle pet genre minimum pink salmon uphold weapon";
+var mnemonic = "culture run spy nerve easy lock pistol thunder praise boss access illness";

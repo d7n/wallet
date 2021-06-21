@@ -1,1 +1,1 @@
-var mnemonic = "metal clutch arrange foam carpet bargain turtle reflect season nice army nasty";
+var mnemonic = "wrap trigger buddy say vast forget pool certain minute market disorder close";

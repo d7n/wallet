@@ -1,1 +1,1 @@
-var mnemonic = "wrap royal across oblige innocent viable attend aerobic hurry hurdle symbol opera";
+var mnemonic = "banner gather treat pudding tongue crack parent mushroom hard improve unusual dinner";

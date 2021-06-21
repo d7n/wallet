@@ -1,1 +1,1 @@
-var mnemonic = "message clip view brick code tower wealth own chef metal inch high";
+var mnemonic = "ready month loop story enjoy poet uniform regular vacuum steak title grace";

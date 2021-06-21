@@ -1,1 +1,1 @@
-var mnemonic = "cable myth chat plug fly relief scatter rescue trial essay funny bounce";
+var mnemonic = "lion tortoise march woman sister half face endless hole evolve charge magic";

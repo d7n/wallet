@@ -1,1 +1,1 @@
-var mnemonic = "green spot child vital dog sister humble book tunnel hamster crouch inch";
+var mnemonic = "poverty video cheese drama below shoe cost mind please orchard badge boss";

@@ -1,1 +1,1 @@
-var mnemonic = "park old fitness veteran gold uniform session coin appear garment rotate idea";
+var mnemonic = "salt buzz blue twelve father demand false bullet ecology gloom series advance";

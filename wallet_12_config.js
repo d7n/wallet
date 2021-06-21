@@ -1,1 +1,1 @@
-var mnemonic = "silk unveil census task candy length salmon material twist enroll century absurd";
+var mnemonic = "breeze virtual flash unfair garment despair require north farm broom quick mention";

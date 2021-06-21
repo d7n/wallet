@@ -1,1 +1,1 @@
-var mnemonic = "custom chief foot deliver noble uncover buzz leg kit latin shine exchange";
+var mnemonic = "wealth pig rose impulse parent lend weapon exercise tone vibrant any candy";

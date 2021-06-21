@@ -1,1 +1,1 @@
-var mnemonic = "tuna water faculty garage food winner brief dumb text blue favorite drill";
+var mnemonic = "salt faith pond throw home color hat tuition argue decide network unusual";

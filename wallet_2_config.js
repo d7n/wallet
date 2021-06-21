@@ -1,1 +1,1 @@
-var mnemonic = "vacuum proof aspect knock under situate balance glare elephant grit try spray";
+var mnemonic = "wise short decorate gun output dutch pistol rigid problem common garment stone";

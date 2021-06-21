@@ -1,1 +1,1 @@
-var mnemonic = "december genius number knee guess toy leave prefer pottery charge spider proud";
+var mnemonic = "dutch high quote save birth rice blouse flip saddle risk clap direct";

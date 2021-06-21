@@ -1,1 +1,1 @@
-var mnemonic = "finish miss side recipe input note poet casino trap moment pair squeeze";
+var mnemonic = "gap senior powder toss six post save carry next soul custom race";

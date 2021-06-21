@@ -1,1 +1,1 @@
-var mnemonic = "bean give evil humble century stuff base elite duty swap cheap decade";
+var mnemonic = "echo assume achieve blossom lab grape basic during hope romance type confirm";

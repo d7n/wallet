@@ -1,1 +1,1 @@
-var mnemonic = "normal fan anxiety vacuum trust neutral barrel infant document elevator raven anger";
+var mnemonic = "juice nut quit answer attract impose clinic doll enter deliver inner light";

@@ -1,1 +1,1 @@
-var mnemonic = "boss auto air anchor horse grab width quiz noble three injury pear";
+var mnemonic = "quote spawn congress purpose miracle frequent glove fat tilt exhaust detail power";

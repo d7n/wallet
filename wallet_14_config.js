@@ -1,1 +1,1 @@
-var mnemonic = "muffin hammer fruit crater toilet judge tuition enough elegant multiply august decline";
+var mnemonic = "vehicle envelope siren prosper awkward wolf swift organ method duty field prefer";

@@ -1,1 +1,1 @@
-var mnemonic = "give cause abstract fiscal document calm correct damage review crouch coach copper";
+var mnemonic = "attend regular uncover language govern nominee jaguar catalog agent aspect monitor wet";

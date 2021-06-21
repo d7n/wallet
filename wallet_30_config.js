@@ -1,1 +1,1 @@
-var mnemonic = "used trick vintage honey draw record island artefact muscle raven else rare";
+var mnemonic = "wasp ivory east wool shallow nest between lonely evidence regret group effort";

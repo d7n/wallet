@@ -1,1 +1,1 @@
-var mnemonic = "mercy member leave pear east castle rapid someone fresh turn wasp spring";
+var mnemonic = "ensure rug crime affair shrimp elevator cute jungle menu frown fiscal attitude";

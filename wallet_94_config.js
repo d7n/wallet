@@ -1,1 +1,1 @@
-var mnemonic = "model keen venture group eagle hurdle practice follow leisure expand degree tobacco";
+var mnemonic = "garment tourist view stove another useless insane shock tongue cube turkey index";

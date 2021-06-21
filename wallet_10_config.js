@@ -1,1 +1,1 @@
-var mnemonic = "situate myself check pipe speak jaguar unusual pizza height initial push bunker";
+var mnemonic = "cricket science joke decline piano stock today orchard bird shoulder pioneer device";

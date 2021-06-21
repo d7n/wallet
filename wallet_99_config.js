@@ -1,1 +1,1 @@
-var mnemonic = "quality festival blur spray shuffle achieve enough tree hood rain rescue blame";
+var mnemonic = "involve exercise mistake section glow dial right clean tunnel spoil wink advance";

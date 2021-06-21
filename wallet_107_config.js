@@ -1,1 +1,1 @@
-var mnemonic = "globe can position leopard stomach soda radio ecology inhale early cradle toy";
+var mnemonic = "hire draw grape bind observe cancel robot income wisdom elder twin rubber";

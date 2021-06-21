@@ -1,1 +1,1 @@
-var mnemonic = "spawn estate olive strong pattern soccer original always soup biology lab midnight";
+var mnemonic = "lake squeeze kit length chase print corn cabbage myth desk reward river";

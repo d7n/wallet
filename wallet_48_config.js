@@ -1,1 +1,1 @@
-var mnemonic = "range filter sort carbon sleep between oak advice vote wrist almost degree";
+var mnemonic = "click depart visual green teach topple over fantasy lemon tent supply blast";

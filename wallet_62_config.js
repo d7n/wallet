@@ -1,1 +1,1 @@
-var mnemonic = "boy cement sorry change wall special excite predict suffer inmate deny order";
+var mnemonic = "fluid employ onion crush layer brave mule work foam race broom wall";

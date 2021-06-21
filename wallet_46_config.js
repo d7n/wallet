@@ -1,1 +1,1 @@
-var mnemonic = "number mask tornado very olympic edit zebra lecture jazz never defy hair";
+var mnemonic = "board ankle undo guilt pact decorate nuclear purity shift hint potato lesson";

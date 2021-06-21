@@ -1,1 +1,1 @@
-var mnemonic = "crater hold rain champion blur electric grab figure enter shadow brother south";
+var mnemonic = "artefact absorb swear trick aisle pudding logic pelican fiscal grit area surge";

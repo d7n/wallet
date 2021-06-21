@@ -1,1 +1,1 @@
-var mnemonic = "february charge hundred miracle uncle script theory toddler save milk mansion field";
+var mnemonic = "supply amazing possible minute enlist tail yard cannon gun gain extend situate";

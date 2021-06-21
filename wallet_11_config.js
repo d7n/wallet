@@ -1,1 +1,1 @@
-var mnemonic = "planet rose grow exact embrace tube south history story expand fashion sausage";
+var mnemonic = "sweet wrap link bamboo index rice still walk broken mom embody anxiety";

@@ -1,1 +1,1 @@
-var mnemonic = "stable wheat whale ignore tornado ring dose bottom hollow cactus critic picture";
+var mnemonic = "inside install dress hamster swear stove opera chalk gospel oppose ranch digital";

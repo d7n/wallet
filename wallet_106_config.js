@@ -1,1 +1,1 @@
-var mnemonic = "wild venue scorpion debris post afraid surge wrestle dial saddle pioneer clutch";
+var mnemonic = "mixed coffee lizard east drill cheese clay feed devote barrel web exile";

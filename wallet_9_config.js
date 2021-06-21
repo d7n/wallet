@@ -1,1 +1,1 @@
-var mnemonic = "asthma certain outside visual usage wheat refuse group mind guard gauge lab";
+var mnemonic = "foster purpose disorder panel example legend solution safe budget choose mango hedgehog";

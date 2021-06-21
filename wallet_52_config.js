@@ -1,1 +1,1 @@
-var mnemonic = "grape penalty vote brush autumn actual amazing surprise attract rocket door solve";
+var mnemonic = "track jungle emotion start jazz fabric employ yard exile alert echo rebel";

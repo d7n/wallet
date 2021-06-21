@@ -1,1 +1,1 @@
-var mnemonic = "define bar kangaroo uncle filter scan weather novel lady draw uncle uncle";
+var mnemonic = "essence parent runway fetch initial claw orbit torch dove tent escape spirit";

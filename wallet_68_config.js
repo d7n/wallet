@@ -1,1 +1,1 @@
-var mnemonic = "write birth kidney noise amateur team judge air future approve combine steel";
+var mnemonic = "trip review hollow gaze crazy city basic sort autumn crucial mountain glance";

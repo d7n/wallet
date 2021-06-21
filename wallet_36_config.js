@@ -1,1 +1,1 @@
-var mnemonic = "match benefit spring reduce butter goat crime rack extra program topple double";
+var mnemonic = "scan iron judge fantasy time grape evolve result update pipe enroll opinion";

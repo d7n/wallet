@@ -1,1 +1,1 @@
-var mnemonic = "digital document purpose glove edit tissue abstract blanket sudden rifle stereo zoo";
+var mnemonic = "duty swear survey yellow impulse column desk tower olive harvest ticket ozone";

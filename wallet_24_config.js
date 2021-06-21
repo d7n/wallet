@@ -1,1 +1,1 @@
-var mnemonic = "ship toilet swallow notice dwarf crew tattoo rose tissue typical recall fan";
+var mnemonic = "life ribbon armed damage model parade case lamp thank suggest stamp lizard";

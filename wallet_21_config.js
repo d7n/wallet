@@ -1,1 +1,1 @@
-var mnemonic = "faculty tackle culture father photo hole limit daring salute return double minimum";
+var mnemonic = "change sleep few vanish walnut devote clown organ armor myth time dress";
