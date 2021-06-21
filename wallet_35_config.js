@@ -1,1 +1,1 @@
-var mnemonic = "volcano fiber profit brown biology limb pulp initial stomach actual extend impose";
+var mnemonic = "erase multiply worth series loop swift melody blush right uncle post bronze";

@@ -1,1 +1,1 @@
-var mnemonic = "pride token insect machine afraid violin coral equip person easy dutch cave";
+var mnemonic = "will traffic chapter stumble strike clump cool link super pause style trade";

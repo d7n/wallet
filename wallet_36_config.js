@@ -1,1 +1,1 @@
-var mnemonic = "decrease drink leopard pelican genuine cause cattle erase dream safe machine exile";
+var mnemonic = "cotton antique flee outside border cargo scatter stomach embark decline cricket machine";

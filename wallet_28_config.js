@@ -1,1 +1,1 @@
-var mnemonic = "valley miracle lazy suit radio decline retire rain bleak butter cable pluck";
+var mnemonic = "nuclear describe lab rural cream bind until lonely orient such talent radar";

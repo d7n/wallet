@@ -1,1 +1,1 @@
-var mnemonic = "grid copy faith cliff zero antique love unfold creek girl episode will";
+var mnemonic = "lens civil engine cliff payment travel thought razor please file cube exhaust";

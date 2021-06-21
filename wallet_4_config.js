@@ -1,1 +1,1 @@
-var mnemonic = "notice unfold unusual crash wear quit resist bulb word album jazz load";
+var mnemonic = "focus engine figure slogan noble alone thing venture pig toe all chicken";

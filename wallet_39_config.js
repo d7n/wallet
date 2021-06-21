@@ -1,1 +1,1 @@
-var mnemonic = "spike flight rural basket rough measure game achieve pigeon embody coral fame";
+var mnemonic = "today sick install expire speak border train minor music girl tuition tongue";

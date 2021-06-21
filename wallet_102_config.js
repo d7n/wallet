@@ -1,1 +1,1 @@
-var mnemonic = "cargo climb orchard violin erase reward chat noodle obscure tool sort change";
+var mnemonic = "bike east enough kangaroo candy jump jewel jump garlic almost smart weird";

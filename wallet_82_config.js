@@ -1,1 +1,1 @@
-var mnemonic = "ripple journey van install explain jeans crazy gate shaft student aspect draw";
+var mnemonic = "found happy cycle dance sentence gym brand huge rug drastic whale orange";

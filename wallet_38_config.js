@@ -1,1 +1,1 @@
-var mnemonic = "real deny anchor note fence doll night eternal prison salad cannon zero";
+var mnemonic = "mean amused antique dog view daring chaos camera custom kit calm grain";

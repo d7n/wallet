@@ -1,1 +1,1 @@
-var mnemonic = "cliff soda margin seat stable scare baby rotate unaware useful cotton jeans";
+var mnemonic = "misery blade dolphin void bench core dignity wave mass street retire cherry";

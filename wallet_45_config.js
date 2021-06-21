@@ -1,1 +1,1 @@
-var mnemonic = "diet need idle fetch prevent chunk awake amateur wine media loan front";
+var mnemonic = "crime rather meat mandate pen upset yard glide wolf travel someone usual";

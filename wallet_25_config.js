@@ -1,1 +1,1 @@
-var mnemonic = "damage student borrow kingdom brief mushroom brand outdoor method panic ahead virus";
+var mnemonic = "fashion same lady captain service where message twist ten tone piano picnic";

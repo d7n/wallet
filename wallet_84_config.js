@@ -1,1 +1,1 @@
-var mnemonic = "drastic promote whale forest double involve come rookie flock vehicle damage mix";
+var mnemonic = "exclude okay endorse betray awake equip judge fame rabbit betray rigid metal";

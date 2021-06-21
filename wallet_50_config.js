@@ -1,1 +1,1 @@
-var mnemonic = "few road scare trim estate hawk brave blush crowd point wise version";
+var mnemonic = "coach settle style observe teach jealous lemon duty inside apart diary minimum";

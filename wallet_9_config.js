@@ -1,1 +1,1 @@
-var mnemonic = "hub dirt move misery junior disease enough view mouse deal correct library";
+var mnemonic = "sand auction sail velvet guilt dumb man sugar pen ready legal patch";

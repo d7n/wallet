@@ -1,1 +1,1 @@
-var mnemonic = "grocery yard jungle melody exist behind cheap arrest six slight park blouse";
+var mnemonic = "little brick knife ceiling smile famous clock ten this rent drip wish";

@@ -1,1 +1,1 @@
-var mnemonic = "action cigar fee stand eye faculty beyond cup sausage cement monkey mutual";
+var mnemonic = "test biology hurdle deny enlist win argue luggage coast pair bright scorpion";

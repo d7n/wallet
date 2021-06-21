@@ -1,1 +1,1 @@
-var mnemonic = "denial enemy install narrow nice hill satisfy shoulder position charge horse funny";
+var mnemonic = "protect vote range inhale brand grant prize victory cupboard primary shell ready";

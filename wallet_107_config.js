@@ -1,1 +1,1 @@
-var mnemonic = "hawk spread vintage soul rally one calm grain orange gadget mansion valid";
+var mnemonic = "panel skate office deer fan canyon capable humble cactus august start approve";

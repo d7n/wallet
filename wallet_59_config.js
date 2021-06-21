@@ -1,1 +1,1 @@
-var mnemonic = "baby innocent attitude educate style crumble later roast book engage original labor";
+var mnemonic = "canvas all cactus want twin cause rug join amazing total rich disagree";

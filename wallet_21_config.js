@@ -1,1 +1,1 @@
-var mnemonic = "upgrade tube buddy forest express bracket soda cage illness name traffic shrimp";
+var mnemonic = "key lab apple excuse enjoy ill news current veteran song blind rough";

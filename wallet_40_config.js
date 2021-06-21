@@ -1,1 +1,1 @@
-var mnemonic = "sell shallow siege outdoor brown couch evidence dog tonight absent symbol echo";
+var mnemonic = "toe include wine initial outside poet minor dry wish ritual bargain ribbon";

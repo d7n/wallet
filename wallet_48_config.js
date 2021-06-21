@@ -1,1 +1,1 @@
-var mnemonic = "book inform because believe layer fly correct inherit frozen romance table car";
+var mnemonic = "unfair meat awake dice bread crystal spend abuse page sheriff slice exclude";

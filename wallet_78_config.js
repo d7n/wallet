@@ -1,1 +1,1 @@
-var mnemonic = "sphere tomato magnet camp mixture awful drill because brown item above suspect";
+var mnemonic = "simple crouch right aspect twelve dirt topic between easily busy network account";

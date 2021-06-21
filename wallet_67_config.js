@@ -1,1 +1,1 @@
-var mnemonic = "scorpion funny sort uniform tackle bless jelly reward alley pet lunar bottom";
+var mnemonic = "tennis swing dial arrest angry need rough afraid dish menu come tilt";

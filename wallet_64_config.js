@@ -1,1 +1,1 @@
-var mnemonic = "brush peace laundry era knee code gown better fabric artefact insane sight";
+var mnemonic = "vague assist promote demise cabin ketchup flavor left have broccoli drama wasp";

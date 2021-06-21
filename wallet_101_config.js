@@ -1,1 +1,1 @@
-var mnemonic = "quick report horse spoon notable orange floor lazy walk city drum divorce";
+var mnemonic = "finish vast joy joy joy toward income young fold spike direct figure";

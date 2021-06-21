@@ -1,1 +1,1 @@
-var mnemonic = "print long culture between emerge appear juice history chat vanish suit knee";
+var mnemonic = "pelican refuse polar reunion rug art peasant viable dizzy adjust situate kick";

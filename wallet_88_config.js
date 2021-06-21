@@ -1,1 +1,1 @@
-var mnemonic = "brain enter rich equal wolf catch unveil stem stool mercy assault indicate";
+var mnemonic = "crop bean south yellow traffic million tired kidney remove flat nothing crumble";

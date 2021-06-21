@@ -1,1 +1,1 @@
-var mnemonic = "stone ensure must awake grape hour pupil three tuition manual embody burst";
+var mnemonic = "final hip improve cup uncover picnic leisure reveal inquiry daring cancel wet";

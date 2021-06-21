@@ -1,1 +1,1 @@
-var mnemonic = "unusual birth hurdle melody danger inner sense build license pistol borrow combine";
+var mnemonic = "deer hotel chronic identify few virus captain decrease smart call hurt raccoon";

@@ -1,1 +1,1 @@
-var mnemonic = "glass zebra produce typical mom bronze sick range joke shadow priority stove";
+var mnemonic = "caution siege kingdom blade ensure three actual gold pencil engine tooth squirrel";

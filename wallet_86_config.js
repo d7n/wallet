@@ -1,1 +1,1 @@
-var mnemonic = "wood beyond barely glad run mansion range bronze wait submit capable inquiry";
+var mnemonic = "depend kitten come head senior veteran inject abstract funny ill lecture pole";

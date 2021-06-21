@@ -1,1 +1,1 @@
-var mnemonic = "leader submit silk apology quarter wool scene observe forget dry family urge";
+var mnemonic = "deliver penalty reflect edge disorder say guilt online current helmet digital absent";

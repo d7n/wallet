@@ -1,1 +1,1 @@
-var mnemonic = "column unveil where exclude adjust gasp live donor video run keep ecology";
+var mnemonic = "fun front insect warfare vault cherry summer floor reflect mother walnut success";

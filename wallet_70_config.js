@@ -1,1 +1,1 @@
-var mnemonic = "toast island fabric spatial always harvest they gap breeze cat depth harbor";
+var mnemonic = "barrel media lab sound skill clock choose divert film wet wreck decrease";

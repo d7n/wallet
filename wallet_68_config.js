@@ -1,1 +1,1 @@
-var mnemonic = "leaf announce question film never gold stone two naive lyrics rural fragile";
+var mnemonic = "merit receive maze mad sun once sport castle summer leave exotic mosquito";

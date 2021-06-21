@@ -1,1 +1,1 @@
-var mnemonic = "effort learn gas depart olive boil egg leg cram radio act ask";
+var mnemonic = "gorilla analyst manual toy raccoon attract arrive inhale collect chuckle kid spend";

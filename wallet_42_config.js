@@ -1,1 +1,1 @@
-var mnemonic = "flip excite reason mesh office main sustain island keen refuse family cost";
+var mnemonic = "lumber build comfort debate wall good because uncover trick impact super fade";

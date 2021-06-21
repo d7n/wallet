@@ -1,1 +1,1 @@
-var mnemonic = "appear regret release domain cannon blood motion naive crack lift empower fiber";
+var mnemonic = "key flame floor treat patrol jacket away wave reason arrest element family";

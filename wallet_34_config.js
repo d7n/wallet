@@ -1,1 +1,1 @@
-var mnemonic = "catch hybrid capable bacon note fix mouse kiss menu weasel access upgrade";
+var mnemonic = "rent soda paddle empower game extend melody minimum come shop park theory";

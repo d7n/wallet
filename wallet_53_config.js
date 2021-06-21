@@ -1,1 +1,1 @@
-var mnemonic = "reject cause demise service sustain alpha ribbon comfort biology glory garment absurd";
+var mnemonic = "dirt phone sail inflict fork fan resemble either churn sense spirit ugly";

@@ -1,1 +1,1 @@
-var mnemonic = "fringe laundry pond hen lend vote nature boost person hurdle hawk tooth";
+var mnemonic = "fall intact correct false drastic indoor scheme tower humor cannon scissors balcony";

@@ -1,1 +1,1 @@
-var mnemonic = "iron hold zoo dentist obscure eternal same two donate keen glow guess";
+var mnemonic = "strike borrow student assist brother brand giggle mass accident work fancy biology";

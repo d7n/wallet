@@ -1,1 +1,1 @@
-var mnemonic = "tobacco patient neck gift someone bean hole stone absent daring bless hamster";
+var mnemonic = "melt patch news gate forward fragile turn satisfy captain hamster oval patrol";

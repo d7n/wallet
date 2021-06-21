@@ -1,1 +1,1 @@
-var mnemonic = "sibling check duty waste matter expect doll mistake fetch birth spike general";
+var mnemonic = "ribbon sell wrap cat measure toy wire mango fame priority exhibit gym";

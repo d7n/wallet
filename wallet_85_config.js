@@ -1,1 +1,1 @@
-var mnemonic = "clock maze west turkey foster horse cause snake eyebrow evil wreck clerk";
+var mnemonic = "noble twin matter woman seek hand swim rural busy state apology radio";

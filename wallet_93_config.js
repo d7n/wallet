@@ -1,1 +1,1 @@
-var mnemonic = "main history knife fortune hungry electric nest boost bind someone warrior shed";
+var mnemonic = "remember safe shadow buddy tide account dad present spy priority high finger";

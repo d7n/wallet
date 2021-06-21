@@ -1,1 +1,1 @@
-var mnemonic = "easy test plastic fame unaware glance prefer nothing atom critic siren reflect";
+var mnemonic = "cruise offer foot agent hammer pigeon camera kit raw hidden ladder gloom";

@@ -1,1 +1,1 @@
-var mnemonic = "rent permit sibling away lazy relief blast remain ship science response disorder";
+var mnemonic = "yellow depth step twice equip rug cargo spirit debate van quit resist";

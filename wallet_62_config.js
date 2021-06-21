@@ -1,1 +1,1 @@
-var mnemonic = "leg emotion harsh brass shield very absurd october anxiety solve benefit boy";
+var mnemonic = "scout miss famous flame salon garment animal coil broken hospital domain total";

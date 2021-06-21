@@ -1,1 +1,1 @@
-var mnemonic = "exhibit list family paddle mansion cluster defense cause laundry impose actor estate";
+var mnemonic = "matter practice waste adapt adult monkey deal pupil bracket piece half extend";

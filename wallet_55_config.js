@@ -1,1 +1,1 @@
-var mnemonic = "broccoli police lunar index destroy acoustic dilemma category mercy almost script sudden";
+var mnemonic = "pilot awful remain weapon cloud divorce glare clean swap oval toss evidence";

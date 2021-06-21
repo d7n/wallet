@@ -1,1 +1,1 @@
-var mnemonic = "level motion region problem flat catalog slogan sunny marine federal bacon burden";
+var mnemonic = "true zero ill garlic table force rich forum add quick fish gasp";

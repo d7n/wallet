@@ -1,1 +1,1 @@
-var mnemonic = "vast mad grunt honey ramp eager phone artist stereo material spike heavy";
+var mnemonic = "whisper expose eight okay bundle profit maze assist initial pipe medal update";

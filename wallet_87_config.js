@@ -1,1 +1,1 @@
-var mnemonic = "little gadget sun annual wise advance uncover sign prevent devote chicken safe";
+var mnemonic = "talent dwarf confirm weekend reflect slab bean slush siege will pair book";

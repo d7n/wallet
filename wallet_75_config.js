@@ -1,1 +1,1 @@
-var mnemonic = "marine soda victory salute vital midnight found path sponsor output world relief";
+var mnemonic = "typical cry hospital clump hair weird surprise mad route exchange swap style";

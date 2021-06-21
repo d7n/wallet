@@ -1,1 +1,1 @@
-var mnemonic = "december useful alien ritual sniff judge wrap finish spawn wolf castle mention";
+var mnemonic = "hurdle forward soon check scissors motor congress alter reward pelican arch sport";

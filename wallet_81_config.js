@@ -1,1 +1,1 @@
-var mnemonic = "stock eager end kitten season ugly camp swap rhythm frame excess radar";
+var mnemonic = "double finish finish question obtain police puppy excess elder disorder increase table";

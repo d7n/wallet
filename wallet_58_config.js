@@ -1,1 +1,1 @@
-var mnemonic = "drip task mind plug ghost range ribbon display obscure prison ride result";
+var mnemonic = "kind like since matrix grape crush west book kiss actress boost yellow";

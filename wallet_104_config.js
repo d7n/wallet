@@ -1,1 +1,1 @@
-var mnemonic = "practice much dizzy harvest scene meat verify nation finish magnet captain inmate";
+var mnemonic = "what canyon love super saddle mushroom nephew venue mountain pumpkin mother father";

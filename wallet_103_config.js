@@ -1,1 +1,1 @@
-var mnemonic = "pioneer melody slice staff spring local image have assume weather tragic acid";
+var mnemonic = "join taxi wise cat forward uniform chaos hello clerk tenant fold aspect";

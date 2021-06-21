@@ -1,1 +1,1 @@
-var mnemonic = "unusual credit sort kid deposit tumble virus salmon neutral record dance item";
+var mnemonic = "filter client barrel nephew upon pattern essence else fit cargo crack lens";

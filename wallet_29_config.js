@@ -1,1 +1,1 @@
-var mnemonic = "almost track cloud head exact farm slogan mosquito glare bundle list hen";
+var mnemonic = "much cream grain monitor jazz modify fit demise lens primary voyage soon";

@@ -1,1 +1,1 @@
-var mnemonic = "velvet trim kick ladder silk gloom farm better skull cave mutual slender";
+var mnemonic = "coin release leg style turkey foot dolphin mistake burst mixture tape away";

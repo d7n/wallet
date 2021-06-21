@@ -1,1 +1,1 @@
-var mnemonic = "license junk certain arrest gravity discover thank hint winner inflict need robot";
+var mnemonic = "hammer obscure panda domain beauty soldier biology truth sadness service penalty middle";

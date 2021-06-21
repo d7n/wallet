@@ -1,1 +1,1 @@
-var mnemonic = "input coconut glimpse rib collect nasty copper length marble select icon bless";
+var mnemonic = "key result column thumb level manage rotate acid cake blue bubble imitate";

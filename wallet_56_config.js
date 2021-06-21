@@ -1,1 +1,1 @@
-var mnemonic = "exotic tank ready endorse equal monkey bar south rival sign display grow";
+var mnemonic = "armor bicycle oyster hint alter muffin adapt salute bless escape glance life";

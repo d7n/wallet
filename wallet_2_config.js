@@ -1,1 +1,1 @@
-var mnemonic = "screen allow muffin else owner trumpet hurdle useful client prison two click";
+var mnemonic = "elevator mansion mutual vocal earth weather brown border mosquito scissors bounce regret";

@@ -1,1 +1,1 @@
-var mnemonic = "tuition glad uncover bone cabin day desk syrup coast liquid symbol obey";
+var mnemonic = "boss charge olive manual enact brave bomb flat install web track roast";

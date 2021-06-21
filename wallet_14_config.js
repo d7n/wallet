@@ -1,1 +1,1 @@
-var mnemonic = "tag torch impulse loop hundred spirit cruise click mechanic amateur degree razor";
+var mnemonic = "trust invite odor calm exercise slam basic truck magic avocado notice jump";

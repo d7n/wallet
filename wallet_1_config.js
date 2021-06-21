@@ -1,1 +1,1 @@
-var mnemonic = "obtain catch profit baby attitude poverty learn nest disagree sorry nasty loud";
+var mnemonic = "false allow vast step case acoustic budget iron guilt mesh wide spring";

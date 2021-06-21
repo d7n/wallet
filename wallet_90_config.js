@@ -1,1 +1,1 @@
-var mnemonic = "sunny arena sell fiscal wealth silk act horse lecture drama mail arrow";
+var mnemonic = "require mansion draw civil pride into chronic movie this rifle matrix lottery";

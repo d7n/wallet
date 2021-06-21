@@ -1,1 +1,1 @@
-var mnemonic = "cram diamond honey pilot gadget box tobacco ranch tape patrol december cute";
+var mnemonic = "agent corn echo leisure surprise foam empty police used doctor meadow neutral";

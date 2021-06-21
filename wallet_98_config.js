@@ -1,1 +1,1 @@
-var mnemonic = "relax sauce fly document light include film job hour income unable catch";
+var mnemonic = "dial used lesson hammer glide orient blue fan bike barrel carry icon";

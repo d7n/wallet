@@ -1,1 +1,1 @@
-var mnemonic = "cloud hood quit trade vital vicious observe leg figure talent festival winter";
+var mnemonic = "abstract empower farm embark trap blind tiny sphere canvas divert thrive scorpion";

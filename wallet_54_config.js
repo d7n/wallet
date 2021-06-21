@@ -1,1 +1,1 @@
-var mnemonic = "stick sound iron crunch isolate neck insect cannon hedgehog venture trend artist";
+var mnemonic = "own glance level random goose mosquito baby alcohol design have garage focus";

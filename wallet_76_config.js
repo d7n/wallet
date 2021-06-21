@@ -1,1 +1,1 @@
-var mnemonic = "gentle win either panel odor clerk divorce theme judge town phrase under";
+var mnemonic = "love large orchard fiscal fiction riot habit turtle useless wagon turtle armed";

@@ -1,1 +1,1 @@
-var mnemonic = "output design mercy reward finger affair increase main basic rotate mixture inquiry";
+var mnemonic = "stove retire gold thing assume fancy powder guess pull leopard family orient";

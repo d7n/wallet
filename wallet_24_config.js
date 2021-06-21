@@ -1,1 +1,1 @@
-var mnemonic = "subject view curtain snack crucial wine common credit item defense model flavor";
+var mnemonic = "skill discover toast angry kidney clock divert cherry network neutral movie smile";

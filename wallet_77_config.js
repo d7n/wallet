@@ -1,1 +1,1 @@
-var mnemonic = "jazz uphold rather unaware lab dice sausage mask matrix venture staff eagle";
+var mnemonic = "space glow insane plug horse marine file initial attack nothing utility card";

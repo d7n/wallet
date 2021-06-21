@@ -1,1 +1,1 @@
-var mnemonic = "practice express dose once wet crush embrace hungry torch scrap thought mosquito";
+var mnemonic = "spice width aspect mule claw blue supply patrol arrive drama forget heart";

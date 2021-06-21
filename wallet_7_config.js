@@ -1,1 +1,1 @@
-var mnemonic = "one bunker amateur usage pencil tackle inhale hammer spirit kite picture dad";
+var mnemonic = "produce foot rare quantum first popular dawn fancy chronic sail pride party";

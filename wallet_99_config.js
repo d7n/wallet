@@ -1,1 +1,1 @@
-var mnemonic = "card inner category economy bullet risk spawn warfare puzzle menu stay neglect";
+var mnemonic = "arena apple fade drink focus unique rude upper rack detail lab faculty";

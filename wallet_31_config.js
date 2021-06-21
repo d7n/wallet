@@ -1,1 +1,1 @@
-var mnemonic = "rich advice blanket leaf fiber minimum must mandate fluid vapor gentle hurdle";
+var mnemonic = "afraid item version oil royal summer weapon review degree eternal loud plastic";

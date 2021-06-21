@@ -1,1 +1,1 @@
-var mnemonic = "wear art install lock first corn dwarf canyon common forward crunch calm";
+var mnemonic = "seat pull quit pizza pumpkin plastic wait debate cotton announce frown forum";
