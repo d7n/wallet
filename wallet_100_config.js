@@ -1,1 +1,1 @@
-var mnemonic = "web cushion zero mouse target canal wreck awful captain adjust survey shove";
+var mnemonic = "grunt attend forum drift update tower empower install runway child fossil lunch";

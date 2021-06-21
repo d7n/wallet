@@ -1,1 +1,1 @@
-var mnemonic = "tip fiction kitten rib tissue card spend topple movie cycle shoot shadow";
+var mnemonic = "fashion citizen black few chase quality illegal pattern lazy advice near december";

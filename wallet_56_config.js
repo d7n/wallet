@@ -1,1 +1,1 @@
-var mnemonic = "fossil mammal common assist lens sea obvious know lonely woman absorb left";
+var mnemonic = "snap once remove apology soda sun busy talent torch cute usual diagram";

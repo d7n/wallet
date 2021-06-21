@@ -1,1 +1,1 @@
-var mnemonic = "elephant snack mother anger entire require rather three dial staff muffin into";
+var mnemonic = "brass tragic chunk winner mixed puzzle reform ten lava increase erupt stereo";

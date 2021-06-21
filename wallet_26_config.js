@@ -1,1 +1,1 @@
-var mnemonic = "wheat february auction involve lounge design asthma forum water border cave impulse";
+var mnemonic = "avocado maximum exhibit zone tiny mobile bundle moment jaguar town mirror edit";

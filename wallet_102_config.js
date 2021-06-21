@@ -1,1 +1,1 @@
-var mnemonic = "accuse setup wire math library orange robust sudden when another happy sentence";
+var mnemonic = "gate game wall shallow hurt either social chaos inquiry below scare swap";

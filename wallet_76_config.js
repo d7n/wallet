@@ -1,1 +1,1 @@
-var mnemonic = "chest asset idea approve around term manage glance tunnel orchard tail recipe";
+var mnemonic = "edit ensure jungle oval coral diamond board fog humor earn wrist glare";

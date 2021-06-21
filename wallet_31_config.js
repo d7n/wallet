@@ -1,1 +1,1 @@
-var mnemonic = "unfold pepper legend person lady armed despair fresh jaguar above gun crazy";
+var mnemonic = "misery call skate pencil canyon subject regular absurd woman wink leopard friend";

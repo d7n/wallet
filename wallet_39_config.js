@@ -1,1 +1,1 @@
-var mnemonic = "ramp slender coral decade expire credit solid nice aim deliver three wish";
+var mnemonic = "brave more wet trim surround path dad banana lounge feed rely notice";

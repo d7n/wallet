@@ -1,1 +1,1 @@
-var mnemonic = "crawl loan afraid clever inflict rice aerobic script under dance love margin";
+var mnemonic = "neck broken crouch cry wine pause taxi immense toilet fiscal volcano blossom";

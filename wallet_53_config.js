@@ -1,1 +1,1 @@
-var mnemonic = "voyage define later problem worth glow polar short post bless country wasp";
+var mnemonic = "immense mad venue behind rare youth fork globe music three tornado nerve";

@@ -1,1 +1,1 @@
-var mnemonic = "theory banana city example olive page eagle magnet depth company spirit canvas";
+var mnemonic = "pumpkin note panda decade attack silk hub slice nation census very wish";

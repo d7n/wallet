@@ -1,1 +1,1 @@
-var mnemonic = "soldier hold attend dinosaur super clever ring violin income ceiling lucky grain";
+var mnemonic = "annual silk recycle evidence media bleak disease such badge rare bachelor pipe";

@@ -1,1 +1,1 @@
-var mnemonic = "student cram frozen two indicate ordinary love audit melody track dinosaur buzz";
+var mnemonic = "run blame act intact pelican actor pulp edit notice voice minimum make";

@@ -1,1 +1,1 @@
-var mnemonic = "sight naive plunge rib move online quarter dignity armor muffin idle pioneer";
+var mnemonic = "negative coast wheat trap morning plastic box need capital eight sound miracle";

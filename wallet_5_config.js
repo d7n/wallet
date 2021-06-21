@@ -1,1 +1,1 @@
-var mnemonic = "mind strategy siege betray surface crumble curve host rug always oppose ride";
+var mnemonic = "april youth monkey weapon panic poem fault noble come maze jeans ritual";

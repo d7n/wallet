@@ -1,1 +1,1 @@
-var mnemonic = "quote argue quiz vicious shadow arrive oven keep govern humble deal step";
+var mnemonic = "language second bulk expect march uncle patch monitor carry slice limb enrich";

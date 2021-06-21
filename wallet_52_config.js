@@ -1,1 +1,1 @@
-var mnemonic = "artist arena buyer maze raw risk view behind subject digital proud sustain";
+var mnemonic = "want sun evil jaguar small assume measure mandate charge screen trumpet parent";

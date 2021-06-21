@@ -1,1 +1,1 @@
-var mnemonic = "spy mix confirm rubber unfair toe someone trim turtle puppy shrug decorate";
+var mnemonic = "review short holiday swim cinnamon length spend response crop forest puzzle vocal";

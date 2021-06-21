@@ -1,1 +1,1 @@
-var mnemonic = "soda found already rival slim spy salute year denial nephew below bronze";
+var mnemonic = "what convince circle pioneer jealous lyrics protect field increase guard almost urge";

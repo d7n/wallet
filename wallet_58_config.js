@@ -1,1 +1,1 @@
-var mnemonic = "cat proud throw flock series puzzle control begin walk wild three join";
+var mnemonic = "hood job dizzy dynamic write ten brisk response gasp repeat stool garden";

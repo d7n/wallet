@@ -1,1 +1,1 @@
-var mnemonic = "daring runway source word author tenant alcohol option coast system leopard half";
+var mnemonic = "case club sponsor deer casual mansion sight mule bulb select topic laptop";

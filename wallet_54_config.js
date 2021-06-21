@@ -1,1 +1,1 @@
-var mnemonic = "corn valid crawl three deer lock stamp snap grab design earth normal";
+var mnemonic = "interest coffee disease viable myself there park west wolf student frost father";

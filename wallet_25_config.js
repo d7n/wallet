@@ -1,1 +1,1 @@
-var mnemonic = "violin thunder gesture wonder cool false alarm acid swim second damp material";
+var mnemonic = "nothing heavy hip ill alert scheme long recipe sense lend ranch cabbage";

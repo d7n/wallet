@@ -1,1 +1,1 @@
-var mnemonic = "expose magnet donkey transfer auction wood crime ivory hollow cycle onion private";
+var mnemonic = "marble space spy patient candy travel sight room awful metal eagle vault";

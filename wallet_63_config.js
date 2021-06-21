@@ -1,1 +1,1 @@
-var mnemonic = "renew odor future invite jewel vibrant lyrics antique suspect neck outdoor reunion";
+var mnemonic = "concert belt auction town climb refuse drink pledge burst trend napkin disagree";

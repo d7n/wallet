@@ -1,1 +1,1 @@
-var mnemonic = "siren sibling reform goat crew unique kite olympic term seven journey diamond";
+var mnemonic = "mystery vivid ramp shoe bar mind frozen raw bone attitude topple rebuild";

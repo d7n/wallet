@@ -1,1 +1,1 @@
-var mnemonic = "suggest feel weather breeze excuse rate border final learn detail dad young";
+var mnemonic = "mother rib match toward myth clay auction discover tent glare drip filter";

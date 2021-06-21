@@ -1,1 +1,1 @@
-var mnemonic = "valid turn entry gain spray cage word jelly affair ecology dolphin guard";
+var mnemonic = "elephant cheap practice festival enable maze upon used flush air strategy water";

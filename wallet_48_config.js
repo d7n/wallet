@@ -1,1 +1,1 @@
-var mnemonic = "border target eight hotel morning shift token sustain asthma car tired globe";
+var mnemonic = "leg divorce mansion million since destroy coin tornado damp lava decrease about";

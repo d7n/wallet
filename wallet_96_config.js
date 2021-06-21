@@ -1,1 +1,1 @@
-var mnemonic = "replace squirrel energy label practice cake wine barely render addict adult skill";
+var mnemonic = "spray order wonder club sleep tongue pole disagree urban gesture avoid scout";

@@ -1,1 +1,1 @@
-var mnemonic = "weather sibling fringe army code swear category consider tobacco shoe sorry another";
+var mnemonic = "good make phrase spawn oven moon wrap ski slow beyond supreme weird";

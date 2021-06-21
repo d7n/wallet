@@ -1,1 +1,1 @@
-var mnemonic = "parrot urban term pony subway surround buyer arrest kidney wheel place bean";
+var mnemonic = "same human infant crash quote engine pink tiger march chef engine bridge";

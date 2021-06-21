@@ -1,1 +1,1 @@
-var mnemonic = "blame twice jungle pioneer garbage heavy tumble man history range message cart";
+var mnemonic = "student hungry slam dice salad volcano negative creek scale list stuff loop";

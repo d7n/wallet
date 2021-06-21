@@ -1,1 +1,1 @@
-var mnemonic = "claw then drive dream vessel cigar book emerge illegal crowd syrup alien";
+var mnemonic = "brand wife ginger daughter hero large fitness absurd transfer razor express false";

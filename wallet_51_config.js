@@ -1,1 +1,1 @@
-var mnemonic = "lonely finish elevator hundred ankle bottom ahead genius great run odor bleak";
+var mnemonic = "call require daring naive panda hurt elephant unable weird judge tell blush";

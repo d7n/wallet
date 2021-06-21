@@ -1,1 +1,1 @@
-var mnemonic = "rain also unhappy gasp remind expect sadness eternal kiss buddy observe slice";
+var mnemonic = "alone dust pupil typical nominee spare energy tree hip cruel frog bike";

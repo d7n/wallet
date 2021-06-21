@@ -1,1 +1,1 @@
-var mnemonic = "machine wine dust gold flame brick vibrant excuse people ginger only hospital";
+var mnemonic = "taste route crack frozen spend buyer hurt kidney have festival measure deposit";

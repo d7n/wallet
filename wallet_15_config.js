@@ -1,1 +1,1 @@
-var mnemonic = "illness mirror census prefer key glance long jazz absent various tuna army";
+var mnemonic = "gas female pattern sudden panda hole world leave smart wool copper north";

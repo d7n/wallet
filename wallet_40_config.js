@@ -1,1 +1,1 @@
-var mnemonic = "cruise annual west laugh middle snack census above tribe earn sea jazz";
+var mnemonic = "carry use hobby little hard stairs minor track year before copper bus";

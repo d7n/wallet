@@ -1,1 +1,1 @@
-var mnemonic = "theory wonder bless ten hotel gospel whale crash quiz trumpet cream peace";
+var mnemonic = "bind estate few chief museum cargo slice liquid sail rough glove bamboo";

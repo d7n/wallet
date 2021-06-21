@@ -1,1 +1,1 @@
-var mnemonic = "various second power review extra wealth boat panel twin develop copper ignore";
+var mnemonic = "client broom negative someone few purchase glory giraffe usage hover human soldier";

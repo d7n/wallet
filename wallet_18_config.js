@@ -1,1 +1,1 @@
-var mnemonic = "mind relax again debris exhaust present right silk boy sound glass brave";
+var mnemonic = "shoot neglect card yard shaft cart design toast phrase rely ecology present";

@@ -1,1 +1,1 @@
-var mnemonic = "latin dragon demand matter air neither sing sand debris slim high bench";
+var mnemonic = "three window duty thunder doll banner around suspect struggle taxi appear stable";

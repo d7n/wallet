@@ -1,1 +1,1 @@
-var mnemonic = "swamp nephew poverty joke finish sphere index now arrange problem bulk type";
+var mnemonic = "quiz before lesson catalog menu amateur clay exercise similar stable valley barrel";

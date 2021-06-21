@@ -1,1 +1,1 @@
-var mnemonic = "online replace token rude doll rough add cover hip barely glory sustain";
+var mnemonic = "prepare used thing crystal echo orient mountain forward blind during social enlist";

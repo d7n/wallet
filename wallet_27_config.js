@@ -1,1 +1,1 @@
-var mnemonic = "consider deal hole history harvest column betray aim short fade trumpet timber";
+var mnemonic = "network dash assume chaos donate sound deliver flush athlete cook list jelly";

@@ -1,1 +1,1 @@
-var mnemonic = "aisle various recycle plastic dumb shove gesture clog wash sing drive bar";
+var mnemonic = "skull prosper can invest alien exercise grant curve bachelor cost neither add";

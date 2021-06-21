@@ -1,1 +1,1 @@
-var mnemonic = "wreck rug pact jazz skirt family spice lucky best circle hole embrace";
+var mnemonic = "wait lazy hard basic ignore design chase endless blouse art author injury";

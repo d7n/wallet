@@ -1,1 +1,1 @@
-var mnemonic = "open page february inform moon roast ritual that vacuum usage cricket play";
+var mnemonic = "history damage script supreme attend decorate cause index neck veteran major weird";

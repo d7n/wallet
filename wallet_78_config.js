@@ -1,1 +1,1 @@
-var mnemonic = "hope post canoe fence rice stomach fan match wait opinion attract harbor";
+var mnemonic = "walk sting divide race brief together scatter hen cannon dwarf hole cliff";

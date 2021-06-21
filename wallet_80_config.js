@@ -1,1 +1,1 @@
-var mnemonic = "bench quantum april quantum crime spoil fork trial monitor angle all remain";
+var mnemonic = "cable guide romance chronic valve verb secret zero surround drum essay good";

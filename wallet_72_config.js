@@ -1,1 +1,1 @@
-var mnemonic = "area shiver stem just hazard witness stamp when math skate duck viable";
+var mnemonic = "giant dismiss dry dish sand reform turn magic soda mad twist unit";

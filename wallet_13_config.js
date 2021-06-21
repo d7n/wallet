@@ -1,1 +1,1 @@
-var mnemonic = "yard rigid same photo nominee paper prefer fantasy about crop final leave";
+var mnemonic = "misery chronic banana please mind kind peanut salon fine follow fiber gospel";

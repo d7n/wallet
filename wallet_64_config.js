@@ -1,1 +1,1 @@
-var mnemonic = "bike actress grace wine once law grain loan suit build clock jazz";
+var mnemonic = "morning stem enrich method swear group misery hotel annual company nuclear pupil";

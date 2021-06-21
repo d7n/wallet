@@ -1,1 +1,1 @@
-var mnemonic = "reunion exercise rabbit mystery insane idle sight clerk win test leg since";
+var mnemonic = "employ uncover write pen ignore bachelor genuine seminar moment excite uniform speed";

@@ -1,1 +1,1 @@
-var mnemonic = "expand celery evidence drive embark actress cereal category drastic pact good argue";
+var mnemonic = "filter artist grief tell polar drop opinion position common curve entry disagree";

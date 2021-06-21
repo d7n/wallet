@@ -1,1 +1,1 @@
-var mnemonic = "border knock copper afraid suffer title trap solution assault stove slab detail";
+var mnemonic = "weekend chapter icon upset priority song split indoor arch better cereal coral";

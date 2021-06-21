@@ -1,1 +1,1 @@
-var mnemonic = "force sun nose language aunt dirt junior transfer thing immune length monitor";
+var mnemonic = "expand oppose chalk scrap faculty pitch reject solution profit worth rebel embody";

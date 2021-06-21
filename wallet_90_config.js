@@ -1,1 +1,1 @@
-var mnemonic = "blue other faculty ignore neither current mechanic amused half copper motor dawn";
+var mnemonic = "antenna fade salt idle boost entry slam hurry hen hello type wrap";

@@ -1,1 +1,1 @@
-var mnemonic = "just wealth power common beef quantum forum crazy asset ready potato hill";
+var mnemonic = "exercise monkey obvious audit robot vapor device reveal party soon liberty else";

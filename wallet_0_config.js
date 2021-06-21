@@ -1,1 +1,1 @@
-var mnemonic = "initial dress fence feed basket click egg fox goddess pulp quantum disagree";
+var mnemonic = "baby brick youth magic slight swallow stock truck collect sting vicious insect";

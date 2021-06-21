@@ -1,1 +1,1 @@
-var mnemonic = "curious brave grid galaxy stable often ethics orchard wealth exotic object hunt";
+var mnemonic = "top jar accident trash frost visa recipe wing hammer one timber lizard";

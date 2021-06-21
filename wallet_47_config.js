@@ -1,1 +1,1 @@
-var mnemonic = "popular cycle clarify comfort loan nice orphan joy general allow enlist find";
+var mnemonic = "galaxy ranch novel rare recycle spring evidence gold unfold expose eight credit";

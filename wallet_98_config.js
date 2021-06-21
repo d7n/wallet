@@ -1,1 +1,1 @@
-var mnemonic = "rally cross slab parade various proof meat brisk someone industry good pet";
+var mnemonic = "trash nest trim jungle okay spin couple this file lock away effort";

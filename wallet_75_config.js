@@ -1,1 +1,1 @@
-var mnemonic = "small define path provide lyrics dismiss casino home what file clutch vague";
+var mnemonic = "gauge south achieve science push agree use wool warm retire spike slight";

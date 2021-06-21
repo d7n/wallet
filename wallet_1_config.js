@@ -1,1 +1,1 @@
-var mnemonic = "there icon matter peanut dance wolf view stock kidney crystal solve mention";
+var mnemonic = "void treat egg suggest sentence reduce upgrade coral above toy alcohol ticket";

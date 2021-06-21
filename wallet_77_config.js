@@ -1,1 +1,1 @@
-var mnemonic = "aerobic either curious desk jealous frozen abandon enter pattern fox fever misery";
+var mnemonic = "beach cup way someone laptop beyond record rich index gaze bachelor betray";

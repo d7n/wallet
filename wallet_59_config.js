@@ -1,1 +1,1 @@
-var mnemonic = "trophy timber true group picnic spin guess same correct pave observe december";
+var mnemonic = "strategy boring pass mix renew remember duck tiny hat border air vehicle";

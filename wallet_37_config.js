@@ -1,1 +1,1 @@
-var mnemonic = "finish flag hour tomato answer script lawsuit metal cereal saddle involve poverty";
+var mnemonic = "else usage layer guard raise vacant about emerge invite scare feel agent";

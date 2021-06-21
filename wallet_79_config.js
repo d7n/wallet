@@ -1,1 +1,1 @@
-var mnemonic = "deposit crucial blush sauce square enemy stick gravity flock act frozen snow";
+var mnemonic = "shoot girl slogan earn inherit hello palm discover scare find soul aspect";

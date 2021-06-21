@@ -1,1 +1,1 @@
-var mnemonic = "vote glance afford virtual gentle parent icon session home rhythm giraffe subject";
+var mnemonic = "fuel rather pizza cushion urban sorry blur bomb assist pear hundred general";

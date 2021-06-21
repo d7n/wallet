@@ -1,1 +1,1 @@
-var mnemonic = "faculty frozen frozen tortoise purchase gift fame hour like elite fire kiss";
+var mnemonic = "crush reflect model foil camp mango visual wave mouse all palace copy";

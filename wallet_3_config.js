@@ -1,1 +1,1 @@
-var mnemonic = "bus music host someone foam pond ankle charge impose smile lizard yard";
+var mnemonic = "genuine retire assume letter erase boil round cup hip enter tell choice";

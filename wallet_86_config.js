@@ -1,1 +1,1 @@
-var mnemonic = "north inhale hollow purpose use human chapter suit engage involve enjoy frown";
+var mnemonic = "mesh thank infant yellow lawsuit rapid track congress spread diesel rude party";

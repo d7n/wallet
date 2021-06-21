@@ -1,1 +1,1 @@
-var mnemonic = "control will mass unit put nuclear wall sun mistake tilt old arrive";
+var mnemonic = "indoor front dawn begin scout fly hand deer replace spoon enable culture";

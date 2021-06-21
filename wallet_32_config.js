@@ -1,1 +1,1 @@
-var mnemonic = "improve exhibit wheat coast joke canvas swamp source athlete report invite rug";
+var mnemonic = "moon latin bench differ stay critic ancient absorb sort pair scan shuffle";

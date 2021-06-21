@@ -1,1 +1,1 @@
-var mnemonic = "permit tenant convince debate truth state sword urban trade earth always follow";
+var mnemonic = "unknown sword grain skull display uncle future speed world east early disorder";

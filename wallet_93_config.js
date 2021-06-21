@@ -1,1 +1,1 @@
-var mnemonic = "chimney put original kidney lunch wagon pony weekend work address rigid dynamic";
+var mnemonic = "protect kingdom copper oak tent enough mystery cactus fortune dune nominee dream";

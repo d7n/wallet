@@ -1,1 +1,1 @@
-var mnemonic = "reject jelly pelican tell truly sing guess lava penalty tell drink confirm";
+var mnemonic = "young swim universe churn unhappy sign panel that humor worry fashion mouse";

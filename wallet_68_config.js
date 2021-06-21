@@ -1,1 +1,1 @@
-var mnemonic = "sadness try sentence common game buffalo lizard crew symbol cargo kitten twist";
+var mnemonic = "mention tip brass catch life whale shine bubble fresh engage wool life";

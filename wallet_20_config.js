@@ -1,1 +1,1 @@
-var mnemonic = "cook legal jump occur project despair rigid route admit gym update expire";
+var mnemonic = "resource that inflict eager lizard execute win action submit castle owner hub";

@@ -1,1 +1,1 @@
-var mnemonic = "ecology wave apology obvious horse evoke swap control unfair endless soft cage";
+var mnemonic = "stumble report shaft addict report transfer electric tobacco melt chuckle destroy tooth";

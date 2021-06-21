@@ -1,1 +1,1 @@
-var mnemonic = "river promote strike inspire indoor assault patrol vast above library behind wash";
+var mnemonic = "unusual six foil inherit crane struggle retire regular adapt match wise type";

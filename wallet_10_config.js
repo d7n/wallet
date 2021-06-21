@@ -1,1 +1,1 @@
-var mnemonic = "crowd stairs age fly easy tumble clump battle whale cluster much mix";
+var mnemonic = "wife prize march laundry rapid sure nose debate seek spring inside dice";

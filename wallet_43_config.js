@@ -1,1 +1,1 @@
-var mnemonic = "island concert castle food green gesture fame explain maze measure pottery excess";
+var mnemonic = "fancy upgrade cricket begin forum expect brick iron apple shine swing eternal";
