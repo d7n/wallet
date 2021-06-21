@@ -1,1 +1,1 @@
-var mnemonic = "stomach raven thing crop number embark velvet scare jewel shallow rib arch";
+var mnemonic = "steel electric basket dutch reunion injury debris fantasy cabin coyote claw favorite";

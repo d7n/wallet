@@ -1,1 +1,1 @@
-var mnemonic = "nest awake muscle process brave scan call lawsuit jeans business joy dignity";
+var mnemonic = "luxury own priority purse improve clever reflect ethics dry reopen hungry chaos";

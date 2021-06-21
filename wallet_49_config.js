@@ -1,1 +1,1 @@
-var mnemonic = "portion brown tell valve degree cruise mean force dynamic arrive fat large";
+var mnemonic = "gospel lab resist extra chest eye chaos melt icon green tourist left";

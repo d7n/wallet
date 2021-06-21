@@ -1,1 +1,1 @@
-var mnemonic = "resist river purse tornado wide menu nurse pool start bag chronic keep";
+var mnemonic = "like baby oval wrestle field captain regular mountain tide unfold dial firm";

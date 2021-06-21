@@ -1,1 +1,1 @@
-var mnemonic = "meat source tiger average nerve mechanic sausage deposit chicken vault genre scare";
+var mnemonic = "icon frog nice traffic pact office dilemma express glass vessel camp monkey";

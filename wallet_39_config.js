@@ -1,1 +1,1 @@
-var mnemonic = "forum error result staff wool scale find mosquito board fiscal poem hero";
+var mnemonic = "trumpet rely grid nurse adjust goddess transfer skate actress plate prison abuse";

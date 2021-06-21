@@ -1,1 +1,1 @@
-var mnemonic = "weird repair civil regret video rent nose gadget undo crew develop envelope";
+var mnemonic = "roast ability raccoon undo erode popular arrive math proud garlic daughter candy";

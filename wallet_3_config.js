@@ -1,1 +1,1 @@
-var mnemonic = "fix minute deal magnet umbrella wheat smile predict brand square book spike";
+var mnemonic = "thought december syrup pulp diagram universe perfect equip shrimp inquiry act cross";

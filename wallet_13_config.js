@@ -1,1 +1,1 @@
-var mnemonic = "jealous cover motor foot split cupboard foot clever allow exclude embody range";
+var mnemonic = "roast visit nice whisper evidence okay fall rally theory produce need neglect";

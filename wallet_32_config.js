@@ -1,1 +1,1 @@
-var mnemonic = "upper endless long before bonus birth pretty actual number axis ostrich bachelor";
+var mnemonic = "bamboo taxi crisp legal already update insane drop coyote fine deputy joy";

@@ -1,1 +1,1 @@
-var mnemonic = "angle youth pink start kid river crane actor essence student usage betray";
+var mnemonic = "steak leave unaware skate meat gentle trap armor sibling arrive useless west";

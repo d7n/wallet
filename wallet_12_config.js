@@ -1,1 +1,1 @@
-var mnemonic = "minute pioneer danger toddler satoshi cricket patrol diagram crisp rent dawn turkey";
+var mnemonic = "benefit large cart unit used cat exercise boss crunch ability maid pluck";

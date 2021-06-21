@@ -1,1 +1,1 @@
-var mnemonic = "wood spell owner disease brain cook excess consider amazing toward adjust example";
+var mnemonic = "parrot garden pulp must win flavor tent make panther shock list autumn";

@@ -1,1 +1,1 @@
-var mnemonic = "dress flee prosper drip owner thrive develop cook marine bulk wall moment";
+var mnemonic = "mesh great profit random nation rose sorry bronze audit crisp photo poem";

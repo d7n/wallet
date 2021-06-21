@@ -1,1 +1,1 @@
-var mnemonic = "sign world core ready abandon post tackle topple certain top shoe banana";
+var mnemonic = "exotic admit brief genre few harbor squirrel chat when purpose risk decade";

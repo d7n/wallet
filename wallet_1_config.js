@@ -1,1 +1,1 @@
-var mnemonic = "yard today shiver health reform pair today flush domain people now kingdom";
+var mnemonic = "pioneer genius frog leg special summer amount silent attitude luxury race also";

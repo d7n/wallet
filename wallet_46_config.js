@@ -1,1 +1,1 @@
-var mnemonic = "snake enforce force decorate faint void cactus intact rack negative toward minimum";
+var mnemonic = "apple empty slight worry hockey dizzy sniff park media nothing usage depend";

@@ -1,1 +1,1 @@
-var mnemonic = "cradle brief monitor supreme volcano amused degree sight curve fork sea hazard";
+var mnemonic = "company unveil room rely right segment cool name faith where butter ball";

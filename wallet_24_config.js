@@ -1,1 +1,1 @@
-var mnemonic = "public shock few prize dice pledge crisp peasant remove shield message friend";
+var mnemonic = "chest reduce expire like rain demise achieve parent traffic security keep hollow";

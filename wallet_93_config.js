@@ -1,1 +1,1 @@
-var mnemonic = "response knee logic dawn area kidney off people grow inherit drip possible";
+var mnemonic = "surround reflect food tortoise crumble spare base crush priority undo sausage dune";

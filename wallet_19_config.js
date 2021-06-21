@@ -1,1 +1,1 @@
-var mnemonic = "denial elite address fix say dash frequent because inch fat exile staff";
+var mnemonic = "fabric lab control uphold arctic unveil gospel breeze soldier tower cinnamon join";

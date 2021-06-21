@@ -1,1 +1,1 @@
-var mnemonic = "farm render tackle trigger among pottery glance subject capital solution broken time";
+var mnemonic = "federal muscle silver robot pool slim park song want mind cactus ritual";

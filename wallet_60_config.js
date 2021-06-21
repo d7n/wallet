@@ -1,1 +1,1 @@
-var mnemonic = "clean theme sugar romance lesson increase ancient vapor profit clarify hood quarter";
+var mnemonic = "end tongue place wheat bulb edit margin ring awkward fire orphan miss";

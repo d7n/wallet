@@ -1,1 +1,1 @@
-var mnemonic = "symbol drill hip warfare mixed miracle motion demand enhance pipe giggle warfare";
+var mnemonic = "wrestle brown mountain final man expand bread maid mobile liberty hint season";

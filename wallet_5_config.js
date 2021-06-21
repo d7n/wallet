@@ -1,1 +1,1 @@
-var mnemonic = "attack garbage valley diamond later cash behave cage derive method solve force";
+var mnemonic = "wine wonder economy rescue expect reduce scrap warfare kid give very gift";

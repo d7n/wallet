@@ -1,1 +1,1 @@
-var mnemonic = "remove round whip live gospel trash object any ostrich orient rough damage";
+var mnemonic = "maze knee perfect average frost regret pigeon cactus symbol random wedding hospital";

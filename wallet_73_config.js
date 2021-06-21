@@ -1,1 +1,1 @@
-var mnemonic = "number choice donate puzzle south pitch boss income eternal blood opinion rebel";
+var mnemonic = "decrease common refuse sing critic hollow blanket rail crush lottery add undo";

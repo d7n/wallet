@@ -1,1 +1,1 @@
-var mnemonic = "devote estate ship fold manage energy original people machine note elegant kitchen";
+var mnemonic = "fan electric gain tackle scene basket then devote priority scorpion kid melt";

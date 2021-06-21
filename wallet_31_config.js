@@ -1,1 +1,1 @@
-var mnemonic = "owner repeat parade spoil bind surround swing pretty disorder dune company give";
+var mnemonic = "payment culture stumble hip hybrid kangaroo hat harsh click mention garage duty";

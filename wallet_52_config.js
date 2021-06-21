@@ -1,1 +1,1 @@
-var mnemonic = "person fork upon matter marble sugar educate meadow helmet replace jazz stool";
+var mnemonic = "book symbol scan style happy jungle tip fee rifle sausage tone produce";

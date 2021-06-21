@@ -1,1 +1,1 @@
-var mnemonic = "better observe execute person distance scorpion void oil also shadow prevent snow";
+var mnemonic = "face museum bounce cruel torch front nasty easy drive oppose expand siren";

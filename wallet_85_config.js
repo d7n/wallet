@@ -1,1 +1,1 @@
-var mnemonic = "also say train teach thunder meat album blanket jacket lemon view tag";
+var mnemonic = "else garment absent world mind upon stadium film candy vanish cycle limb";

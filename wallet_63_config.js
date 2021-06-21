@@ -1,1 +1,1 @@
-var mnemonic = "wheel pyramid own cart tackle profit patient stairs approve element auction yellow";
+var mnemonic = "menu luggage settle anchor vessel amount else top budget path shoot install";

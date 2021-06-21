@@ -1,1 +1,1 @@
-var mnemonic = "palm asthma few camera alarm mother diagram mean cook student patch light";
+var mnemonic = "attack diamond behave uncover silent column install cradle bicycle envelope rookie spin";

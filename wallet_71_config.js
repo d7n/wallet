@@ -1,1 +1,1 @@
-var mnemonic = "crush hope vehicle wife dress enough leg project long face amount poem";
+var mnemonic = "tape process measure library drift industry tiny atom river judge analyst deer";

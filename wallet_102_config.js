@@ -1,1 +1,1 @@
-var mnemonic = "buyer grab brown vague bone girl uphold champion honey miracle aerobic kiwi";
+var mnemonic = "soap giant weather giggle surface own grant egg turkey fun moment huge";

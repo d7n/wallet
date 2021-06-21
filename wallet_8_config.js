@@ -1,1 +1,1 @@
-var mnemonic = "federal song view learn leisure snow job cinnamon festival marine enlist minor";
+var mnemonic = "liberty churn old uncle peace plug test evidence crane economy twin advance";

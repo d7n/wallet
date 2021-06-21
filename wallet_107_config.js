@@ -1,1 +1,1 @@
-var mnemonic = "follow scare slide gesture claim tuition normal finger various coffee tomato they";
+var mnemonic = "must pipe divorce champion border swap theme ahead present cube cricket raw";

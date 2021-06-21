@@ -1,1 +1,1 @@
-var mnemonic = "dismiss message quantum little warm hole label enroll immense denial gospel battle";
+var mnemonic = "snap timber dignity stove siege guard appear edit whip reform slow enough";

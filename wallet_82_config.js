@@ -1,1 +1,1 @@
-var mnemonic = "happy hand chase amused solid coin pony network release regular make hammer";
+var mnemonic = "dance tray mountain grab water subway will beyond involve present buyer stem";

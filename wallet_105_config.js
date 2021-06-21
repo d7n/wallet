@@ -1,1 +1,1 @@
-var mnemonic = "clap regret powder valid cushion valid bracket jar doll note canoe property";
+var mnemonic = "anchor enforce puzzle book glad net glance clutch dice rubber stuff island";

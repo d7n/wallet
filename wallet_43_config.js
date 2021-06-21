@@ -1,1 +1,1 @@
-var mnemonic = "hire polar more educate divide miss humor soup unfair garbage ribbon hire";
+var mnemonic = "place way flash disorder ginger goddess chuckle early card twelve split before";

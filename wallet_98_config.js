@@ -1,1 +1,1 @@
-var mnemonic = "glimpse shaft humble cable tongue neglect ticket drum razor uphold merry desert";
+var mnemonic = "theory follow fold forest spell fan shoulder meat near toilet tooth resource";

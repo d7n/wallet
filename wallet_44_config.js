@@ -1,1 +1,1 @@
-var mnemonic = "escape tuition boring spawn joke laptop spike estate save expose enable trick";
+var mnemonic = "wood paddle slice cement chef smile then kiwi cactus boss puppy street";

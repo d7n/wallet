@@ -1,1 +1,1 @@
-var mnemonic = "crime consider hero lunar bleak invite atom weasel grab prepare cycle couch";
+var mnemonic = "universe syrup crew gift chalk limit shell soda grain citizen rent task";

@@ -1,1 +1,1 @@
-var mnemonic = "cost way seat panda tray common soap raw year rule then stuff";
+var mnemonic = "lobster sentence share veteran tattoo file box bacon smile pumpkin notable liquid";

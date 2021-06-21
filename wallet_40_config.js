@@ -1,1 +1,1 @@
-var mnemonic = "aware depart eager bar dilemma novel sword fury poverty choice praise pyramid";
+var mnemonic = "lounge wrap float neglect blade horn among obscure elephant vault mad deposit";

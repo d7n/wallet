@@ -1,1 +1,1 @@
-var mnemonic = "save delay process mirror poet able margin series ceiling claim lunar bind";
+var mnemonic = "what attitude project ability sphere announce steak key praise market surface asthma";

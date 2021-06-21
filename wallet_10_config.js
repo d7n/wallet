@@ -1,1 +1,1 @@
-var mnemonic = "abandon exercise omit visit funny boring explain federal style cause phone coffee";
+var mnemonic = "sport rescue army mechanic loud engine online second wheel walk fun cabbage";

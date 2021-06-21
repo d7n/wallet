@@ -1,1 +1,1 @@
-var mnemonic = "maze long rally cram picture rather marriage plate oxygen eagle shift stumble";
+var mnemonic = "soul seat obtain orchard list improve mask income dwarf page race abstract";

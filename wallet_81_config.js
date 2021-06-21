@@ -1,1 +1,1 @@
-var mnemonic = "coyote liquid uniform shy gallery grocery rib blossom river badge stone mesh";
+var mnemonic = "over light sadness task click high squirrel media great model table alien";

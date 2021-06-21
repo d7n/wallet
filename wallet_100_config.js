@@ -1,1 +1,1 @@
-var mnemonic = "attract vote result carpet radar cereal guess become type napkin coin welcome";
+var mnemonic = "seat judge romance between pretty swarm taste behind grid actual goose remind";

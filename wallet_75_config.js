@@ -1,1 +1,1 @@
-var mnemonic = "imitate clean clinic submit hard lunar double veteran cost version undo midnight";
+var mnemonic = "ladder raise blue capable sight clinic double random cotton rate gaze street";

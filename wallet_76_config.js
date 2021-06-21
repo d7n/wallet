@@ -1,1 +1,1 @@
-var mnemonic = "birth remove audit fatal elite expose supreme giant vague skill upgrade soccer";
+var mnemonic = "best hazard between churn crawl divide exhibit drum antique split slogan anxiety";

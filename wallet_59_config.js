@@ -1,1 +1,1 @@
-var mnemonic = "mean admit client inside unhappy bitter kidney buffalo album regret desert want";
+var mnemonic = "invest local champion satisfy enable kangaroo slush street random talk finish sand";

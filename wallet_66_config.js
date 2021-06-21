@@ -1,1 +1,1 @@
-var mnemonic = "size moment unknown mango write enhance citizen spawn cement pistol link control";
+var mnemonic = "north trick sleep copy blouse include always giggle polar magic shaft doll";

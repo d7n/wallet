@@ -1,1 +1,1 @@
-var mnemonic = "liar teach sense inform quiz violin mansion area street pistol spare bulk";
+var mnemonic = "horror proof horse taxi journey energy dilemma toy recall hundred wrap rubber";

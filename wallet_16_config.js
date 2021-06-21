@@ -1,1 +1,1 @@
-var mnemonic = "vote elevator peasant vintage road youth audit erase olive old lazy improve";
+var mnemonic = "void lottery cabbage find enjoy lucky people chair craft diary stuff boy";

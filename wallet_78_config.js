@@ -1,1 +1,1 @@
-var mnemonic = "success know display gun biology pair fun palace harvest reward select sun";
+var mnemonic = "neutral primary cigar clean spawn scheme mountain uncover work chest market scale";

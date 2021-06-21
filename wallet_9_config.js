@@ -1,1 +1,1 @@
-var mnemonic = "journey page sell modify glow front approve neck upset admit wage true";
+var mnemonic = "surge obvious barely anger night mountain resist artist pause chimney coil road";

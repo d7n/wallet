@@ -1,1 +1,1 @@
-var mnemonic = "alarm february analyst empower rebuild uncle crouch perfect empty lazy idle under";
+var mnemonic = "eye verify spirit pepper borrow report siege dumb woman toe turn entry";

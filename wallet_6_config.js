@@ -1,1 +1,1 @@
-var mnemonic = "catch maid ceiling two boss girl wash diary foil robust proud job";
+var mnemonic = "legend volcano spider cabin goddess save verb push name mail eight lonely";

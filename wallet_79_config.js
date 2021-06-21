@@ -1,1 +1,1 @@
-var mnemonic = "subway trouble daughter beach addict produce puppy tilt escape master wide decade";
+var mnemonic = "believe slender quit bleak regret sight copy powder image depart verify truth";

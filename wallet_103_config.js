@@ -1,1 +1,1 @@
-var mnemonic = "idle avocado debate track brain baby punch shiver embark middle drum involve";
+var mnemonic = "donkey remember shine life shuffle humble quit warrior cloud either derive oven";

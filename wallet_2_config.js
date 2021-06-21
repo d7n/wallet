@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow asset conduct powder mean sudden any twist trap surge vapor miracle";
+var mnemonic = "copy ability cherry fold combine because moral patch sunny explain edit canyon";

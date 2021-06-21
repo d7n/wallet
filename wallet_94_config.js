@@ -1,1 +1,1 @@
-var mnemonic = "adjust offer maximum oil will truly make uphold express pattern page monitor";
+var mnemonic = "often park into slot happy wool amateur used speak shed volume tired";

@@ -1,1 +1,1 @@
-var mnemonic = "afraid vendor like develop assault repair fantasy better practice fiscal purse resource";
+var mnemonic = "play kid wait cinnamon blush wrestle noble iron document cricket organ patient";

@@ -1,1 +1,1 @@
-var mnemonic = "panther repair dirt occur away similar put dizzy risk model one crop";
+var mnemonic = "average twin dirt pumpkin hobby help token someone there style skirt antenna";

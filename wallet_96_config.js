@@ -1,1 +1,1 @@
-var mnemonic = "torch enjoy slush duty math price donkey heavy sock immense creek sand";
+var mnemonic = "assume card animal pattern split buddy wet kingdom actress target today chronic";

@@ -1,1 +1,1 @@
-var mnemonic = "poem garment jazz modify enjoy wonder draft faculty burst crash express escape";
+var mnemonic = "upset hover age stable increase diamond brush endless shiver street dirt prize";

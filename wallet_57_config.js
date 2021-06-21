@@ -1,1 +1,1 @@
-var mnemonic = "link find dress check stay essence decrease focus ancient upset physical alarm";
+var mnemonic = "bulb battle much foot green control rail narrow pass host fat false";

@@ -1,1 +1,1 @@
-var mnemonic = "various taste permit syrup dove loyal ugly home electric wild odor stool";
+var mnemonic = "verb hire total potato galaxy nasty trade useful goose use belt member";

@@ -1,1 +1,1 @@
-var mnemonic = "minute rug long busy worry shed upper art erode couch walk sport";
+var mnemonic = "uniform uncle decade beyond shoot drum spot argue round pencil normal split";

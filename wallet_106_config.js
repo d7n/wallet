@@ -1,1 +1,1 @@
-var mnemonic = "above hidden castle ginger celery element pole glare innocent genius change cradle";
+var mnemonic = "animal steak august stable hold toast faith bounce mention pulp rally emerge";

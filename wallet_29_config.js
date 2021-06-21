@@ -1,1 +1,1 @@
-var mnemonic = "loyal cool make acquire erode fabric soda decline notice model place gentle";
+var mnemonic = "slight accident link erupt trust live sweet seminar long super crunch slide";

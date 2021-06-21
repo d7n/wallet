@@ -1,1 +1,1 @@
-var mnemonic = "common behind degree occur panther legend toddler wash width same thumb pulp";
+var mnemonic = "upset retreat betray degree manage hollow enemy neck accuse exotic square fruit";

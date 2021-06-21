@@ -1,1 +1,1 @@
-var mnemonic = "hover home seven grunt horn athlete thing seminar frame material special stool";
+var mnemonic = "enroll swarm hover cupboard bulk civil deposit bird next alien rib east";

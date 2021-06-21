@@ -1,1 +1,1 @@
-var mnemonic = "excite kit convince danger buddy prepare face ancient candy girl bag badge";
+var mnemonic = "priority rug bench captain marble proud airport donkey guide behind list bag";

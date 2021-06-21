@@ -1,1 +1,1 @@
-var mnemonic = "arm two ocean visa wreck cycle calm volume satoshi penalty riot oppose";
+var mnemonic = "scrap toilet then chief hood sound cool sheriff number dynamic garlic despair";

@@ -1,1 +1,1 @@
-var mnemonic = "warm seminar helmet ladder jewel lake deputy next glory clinic teach multiply";
+var mnemonic = "public faint tuition gadget card dad village grow child hurt deny oxygen";

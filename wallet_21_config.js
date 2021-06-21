@@ -1,1 +1,1 @@
-var mnemonic = "jungle trial horror retire pave grunt swap donor engage guilt hard require";
+var mnemonic = "never weird exhaust slight foster ice fetch devote word noodle husband begin";

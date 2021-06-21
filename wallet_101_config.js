@@ -1,1 +1,1 @@
-var mnemonic = "work social spray blame affair social thunder fire happy modify second loan";
+var mnemonic = "wool zoo wrap celery medal dream expose absent ozone sense mandate select";

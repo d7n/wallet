@@ -1,1 +1,1 @@
-var mnemonic = "extend hamster foot mother raw elbow move very lawsuit atom smart limit";
+var mnemonic = "remember cry prize page shoe any zoo come bar base camp lobster";

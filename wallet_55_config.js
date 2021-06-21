@@ -1,1 +1,1 @@
-var mnemonic = "broccoli clown clean equip attitude gauge gold peace fun walnut high swallow";
+var mnemonic = "cancel stamp behave blanket hold use sentence again like idle spirit aim";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup cook truth sea belt upper wood census comfort priority cage file";
+var mnemonic = "glow corn six column blanket assist cheap stand machine off flip grab";

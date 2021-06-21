@@ -1,1 +1,1 @@
-var mnemonic = "click naive rubber electric often flip tonight doll error setup hole curve";
+var mnemonic = "gain onion actress similar noise sentence latin art ensure festival vital pottery";

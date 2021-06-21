@@ -1,1 +1,1 @@
-var mnemonic = "rough later welcome base case element unknown trip fork silly hungry buyer";
+var mnemonic = "void mechanic october priority valley canoe throw that reunion open avoid conduct";

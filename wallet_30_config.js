@@ -1,1 +1,1 @@
-var mnemonic = "enjoy above garbage else obey crisp frown rug patch chimney power destroy";
+var mnemonic = "clinic security engage length cradle student nature verb tornado fault client diagram";

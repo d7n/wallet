@@ -1,1 +1,1 @@
-var mnemonic = "column fish afraid midnight skate foot food reason elite item rather retire";
+var mnemonic = "pond install blush payment scare initial noble lumber inject base yellow shrug";

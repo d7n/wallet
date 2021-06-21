@@ -1,1 +1,1 @@
-var mnemonic = "expand mosquito weasel satoshi exotic lawsuit involve spy excess push police bless";
+var mnemonic = "warrior label number vicious apple ice can survey report pottery grab wood";

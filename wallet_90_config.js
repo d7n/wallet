@@ -1,1 +1,1 @@
-var mnemonic = "cruel arm ocean miracle cherry another fiscal deer pattern talk raccoon girl";
+var mnemonic = "calm region visa artwork wave city weapon still mean used trophy guess";

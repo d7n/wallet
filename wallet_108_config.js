@@ -1,1 +1,1 @@
-var mnemonic = "title tobacco aim obvious control dirt length skirt beauty galaxy drastic end";
+var mnemonic = "scale medal long friend end toddler camp tube oil early day tent";

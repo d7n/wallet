@@ -1,1 +1,1 @@
-var mnemonic = "chief knee super swift scan easy daring clever pride swallow ugly tide";
+var mnemonic = "bomb cattle venue palm cushion board bird captain describe rent false few";
