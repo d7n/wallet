@@ -1,1 +1,1 @@
-var mnemonic = "toast seminar train game depend hundred prevent animal market welcome sample response";
+var mnemonic = "define dad juice eternal scrub view benefit amount hour across welcome wise";

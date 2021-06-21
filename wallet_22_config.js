@@ -1,1 +1,1 @@
-var mnemonic = "fresh hour hole coin stand acquire knife critic water cotton just monster";
+var mnemonic = "erosion penalty sing start glance source mixture reform civil crime spot avocado";

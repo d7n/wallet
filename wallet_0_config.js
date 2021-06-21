@@ -1,1 +1,1 @@
-var mnemonic = "novel glory butter only tide profit plug cousin typical summer cradle brick";
+var mnemonic = "myth best inch coil immune actress then cattle raw assault fold rose";

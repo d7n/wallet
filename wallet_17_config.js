@@ -1,1 +1,1 @@
-var mnemonic = "repair control copper mass verify range remind one accuse impose invite scale";
+var mnemonic = "talent sick asset task collect client travel cousin page suit anger moral";

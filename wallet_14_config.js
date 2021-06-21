@@ -1,1 +1,1 @@
-var mnemonic = "shadow relax napkin matter rely eager plate couch tooth entire nice accident";
+var mnemonic = "voyage flavor creek visual coffee problem session dance sausage unaware shove plunge";

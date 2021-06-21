@@ -1,1 +1,1 @@
-var mnemonic = "firm lobster reform solar pistol toy craft proud fetch cake output dynamic";
+var mnemonic = "wheel eagle lemon refuse such lumber assist flock urge fuel estate army";

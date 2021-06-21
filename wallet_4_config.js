@@ -1,1 +1,1 @@
-var mnemonic = "cattle width pride between skirt biology tattoo success melody dance quit picnic";
+var mnemonic = "vault kingdom vivid frozen push certain piano atom man injury height finger";

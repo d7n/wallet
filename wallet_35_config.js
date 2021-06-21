@@ -1,1 +1,1 @@
-var mnemonic = "indoor giggle violin toast scare scatter cannon wage forum reveal cloth moral";
+var mnemonic = "door wrap mystery leopard visual buzz angry clarify dignity used surprise merit";

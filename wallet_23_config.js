@@ -1,1 +1,1 @@
-var mnemonic = "retreat truck tired lawsuit question tone manual cram silent disorder enrich side";
+var mnemonic = "among patch style turtle warfare wreck excess typical they smoke steak noise";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest destroy liquid dilemma follow come buyer visual coral quiz father dismiss";
+var mnemonic = "rain trophy educate ozone work dish bronze hammer review ahead suspect initial";

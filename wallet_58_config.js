@@ -1,1 +1,1 @@
-var mnemonic = "frequent come civil age genius divorce alpha despair fancy puzzle report mask";
+var mnemonic = "method much wrestle glass project aisle process december day know early become";

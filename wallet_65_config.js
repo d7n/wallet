@@ -1,1 +1,1 @@
-var mnemonic = "enough coast main myself outside sword quarter fish south rail empower viable";
+var mnemonic = "mixed dove deer model chat opera secret resist tunnel soda agree victory";

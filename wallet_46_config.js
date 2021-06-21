@@ -1,1 +1,1 @@
-var mnemonic = "brisk warfare vacuum taxi there analyst razor mystery ready mutual stereo mercy";
+var mnemonic = "doctor cliff finish twice bread cinnamon mistake believe spatial transfer latin bar";

@@ -1,1 +1,1 @@
-var mnemonic = "artwork sudden scrub exile pattern square another aware average tuition fox square";
+var mnemonic = "paper chalk boil system employ hockey labor panic type wagon town venture";

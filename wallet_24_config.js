@@ -1,1 +1,1 @@
-var mnemonic = "village jump unveil dress achieve zoo emerge bone page awful over grunt";
+var mnemonic = "arm what gadget stick desert frown robot wisdom split film illegal fence";

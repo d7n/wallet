@@ -1,1 +1,1 @@
-var mnemonic = "sing song clog elite property luxury dismiss reform rhythm popular tell tray";
+var mnemonic = "guard race exclude salon carry brown case used wife auction tip news";

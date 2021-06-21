@@ -1,1 +1,1 @@
-var mnemonic = "rebel night desk include choose label harbor govern trophy often luggage edit";
+var mnemonic = "pause jungle young until awake feel bitter account intact better manage plug";

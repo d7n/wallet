@@ -1,1 +1,1 @@
-var mnemonic = "rally heavy occur allow dinosaur later tone critic idea like learn kite";
+var mnemonic = "brave concert nice pear act furnace matrix canvas teach female lecture filter";

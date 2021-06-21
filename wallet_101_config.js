@@ -1,1 +1,1 @@
-var mnemonic = "flee okay wrist miss praise general vault dash nominee reveal since second";
+var mnemonic = "hint post caught limit twelve shop differ tissue fiber next air frog";

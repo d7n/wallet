@@ -1,1 +1,1 @@
-var mnemonic = "warm wood april early jealous wife hybrid toilet dune frost poverty pledge";
+var mnemonic = "chest aware idle immense timber boat boss clarify tomato angry distance other";

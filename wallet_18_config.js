@@ -1,1 +1,1 @@
-var mnemonic = "perfect rapid surround level creek fog puzzle capable network cry pudding spell";
+var mnemonic = "subject buddy round unlock melt only laptop garment decade reform kidney mule";

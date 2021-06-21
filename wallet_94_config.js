@@ -1,1 +1,1 @@
-var mnemonic = "bind process firm mimic alcohol eternal deliver vivid client okay video ocean";
+var mnemonic = "sock address few jump grab bid car sail photo critic flight boy";

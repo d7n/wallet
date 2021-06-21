@@ -1,1 +1,1 @@
-var mnemonic = "equal vapor illness myself green excite ceiling smart adapt shrimp jungle animal";
+var mnemonic = "coconut version melody talk glance portion boat pumpkin emotion concert scorpion farm";

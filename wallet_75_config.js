@@ -1,1 +1,1 @@
-var mnemonic = "unfair ship salute walk used final broken swear wood clay spatial absent";
+var mnemonic = "world govern mouse save unusual tag useful glow accuse clinic solar wolf";

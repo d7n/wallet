@@ -1,1 +1,1 @@
-var mnemonic = "option evil elder youth fit drama load moral voice floor abstract tone";
+var mnemonic = "village purchase silly angry cool chief valve enrich shoot rich north poet";

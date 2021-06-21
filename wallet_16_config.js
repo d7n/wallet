@@ -1,1 +1,1 @@
-var mnemonic = "dose lyrics mansion fit interest ranch leader hybrid similar guilt husband kangaroo";
+var mnemonic = "happy wonder next dish ability confirm crop laptop assume salmon mango inner";

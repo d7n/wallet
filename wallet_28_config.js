@@ -1,1 +1,1 @@
-var mnemonic = "fade gesture burger funny rifle jeans siege ticket soft plug usage awful";
+var mnemonic = "grain domain this goat boring travel rebuild daring raise piano level nephew";

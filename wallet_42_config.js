@@ -1,1 +1,1 @@
-var mnemonic = "degree invite acid sail camera amateur title rhythm armed amateur merge expect";
+var mnemonic = "agent flight much hungry force remember dash west marine thank drill easily";

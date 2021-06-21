@@ -1,1 +1,1 @@
-var mnemonic = "finger dinner swarm kitten ribbon sadness scheme antique bird point custom tomato";
+var mnemonic = "burst develop agree clock shop flight clap crash silent lemon poverty episode";

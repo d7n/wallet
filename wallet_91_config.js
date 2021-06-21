@@ -1,1 +1,1 @@
-var mnemonic = "vehicle embody chimney cupboard six social drift era century forum unaware timber";
+var mnemonic = "advice forum employ timber own myth provide acquire gift section decrease melody";

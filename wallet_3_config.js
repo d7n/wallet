@@ -1,1 +1,1 @@
-var mnemonic = "retire brief reduce rule gain elephant liar dry person fabric morning problem";
+var mnemonic = "evil champion utility surge slide foster town film bulk cousin total echo";

@@ -1,1 +1,1 @@
-var mnemonic = "note material half pool panic bonus fruit trash animal twice reform harvest";
+var mnemonic = "file term thought enter family joke vibrant school suggest code outdoor negative";

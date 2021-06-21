@@ -1,1 +1,1 @@
-var mnemonic = "voice meadow under tackle fossil clog slide ceiling speak artefact aim gravity";
+var mnemonic = "warrior galaxy citizen ability profit weekend acid zoo festival mutual disorder mail";

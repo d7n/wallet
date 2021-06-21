@@ -1,1 +1,1 @@
-var mnemonic = "script fold rare sudden still castle give neck honey skill useful used";
+var mnemonic = "example couch bird era aunt summer lunch olympic device reduce shiver nerve";

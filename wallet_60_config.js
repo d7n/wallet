@@ -1,1 +1,1 @@
-var mnemonic = "initial any intact village filter pilot visa fire mule deal peanut planet";
+var mnemonic = "soldier mobile couch color danger lucky spread sweet elbow era nice wealth";

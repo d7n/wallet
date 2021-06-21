@@ -1,1 +1,1 @@
-var mnemonic = "company tourist impose submit gorilla crop sport fresh gate satisfy blue time";
+var mnemonic = "punch absorb south hint deposit coyote glory approve salmon position fun trap";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn oppose dinner live accuse hurdle oxygen raccoon exercise tumble feature wisdom";
+var mnemonic = "trophy tuna rebuild cloth sphere frequent govern calm spike dune dirt violin";

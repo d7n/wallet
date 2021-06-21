@@ -1,1 +1,1 @@
-var mnemonic = "drop prevent heavy sand web glass health toy seek craft order fit";
+var mnemonic = "donkey panther witness ride artist captain spell road apple melt paddle item";

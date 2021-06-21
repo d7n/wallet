@@ -1,1 +1,1 @@
-var mnemonic = "avocado oxygen puppy pen ginger screen season salad midnight mass fabric hedgehog";
+var mnemonic = "inside reflect letter flock rural define shell pluck blush grace decade scrub";

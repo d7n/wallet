@@ -1,1 +1,1 @@
-var mnemonic = "fancy into whisper gaze key sight deny matter army audit virus brother";
+var mnemonic = "clap attend cinnamon sea dizzy debate hair leg change ridge egg thing";

@@ -1,1 +1,1 @@
-var mnemonic = "group track nasty ability lunar board youth night dust tide effort crunch";
+var mnemonic = "anger oval field file canoe dentist twist replace carpet opinion fault skill";

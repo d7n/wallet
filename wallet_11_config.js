@@ -1,1 +1,1 @@
-var mnemonic = "vessel economy appear bonus cousin course lobster inform caution join manage host";
+var mnemonic = "day state potato base vast tag drift surround stereo flat magnet forum";

@@ -1,1 +1,1 @@
-var mnemonic = "split above say erase snack veteran shoe goddess dream alpha nephew bread";
+var mnemonic = "surge blur clock dizzy acid invest simple thunder payment embark label nurse";

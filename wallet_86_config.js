@@ -1,1 +1,1 @@
-var mnemonic = "lens federal transfer about rent enroll voice find brother minute page tip";
+var mnemonic = "evil artist spawn actor voice once faith produce fuel response path depart";

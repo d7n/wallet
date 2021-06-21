@@ -1,1 +1,1 @@
-var mnemonic = "armor oblige guilt state burst hammer retire romance animal filter ball victory";
+var mnemonic = "trip open cloth rough join crazy retire faculty marriage example clarify merge";

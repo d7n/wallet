@@ -1,1 +1,1 @@
-var mnemonic = "stool quality palm grass require dream taxi toe win item waste credit";
+var mnemonic = "gauge design runway borrow credit solution feature sibling window stamp train melt";

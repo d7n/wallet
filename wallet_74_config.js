@@ -1,1 +1,1 @@
-var mnemonic = "alter knife green stamp brain spot foam choose across clean chef box";
+var mnemonic = "print round hour chicken six arctic canoe glad foil enjoy farm novel";

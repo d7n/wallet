@@ -1,1 +1,1 @@
-var mnemonic = "maid speak risk monitor dose tube fly pill lizard slim jaguar display";
+var mnemonic = "illness material animal meat soon diamond field globe buzz three chief arctic";

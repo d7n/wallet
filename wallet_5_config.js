@@ -1,1 +1,1 @@
-var mnemonic = "hard cruel dolphin course window science scheme goose festival garment month miracle";
+var mnemonic = "useless burst hope draft borrow supply boost clay crawl urge employ van";

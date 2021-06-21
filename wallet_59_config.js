@@ -1,1 +1,1 @@
-var mnemonic = "leg warm sadness rice reform cargo cradle east armor weasel comic ball";
+var mnemonic = "original creek banana mirror useful glad hurdle sheriff turtle beauty near angry";

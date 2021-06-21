@@ -1,1 +1,1 @@
-var mnemonic = "nation proof dune tape provide hammer broom skirt remind equal turn color";
+var mnemonic = "gain jazz chimney clean settle typical unable zoo swarm return bacon capital";

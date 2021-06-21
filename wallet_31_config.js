@@ -1,1 +1,1 @@
-var mnemonic = "angle ice rhythm soul feel tank twice repeat medal develop piano attend";
+var mnemonic = "wall model stereo curious teach gold melt spend hamster toast dismiss surface";

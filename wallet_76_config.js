@@ -1,1 +1,1 @@
-var mnemonic = "emotion squirrel record nation push disease price tape easily utility cause accuse";
+var mnemonic = "trick ribbon nature utility warm expire reject seat version thing west proof";

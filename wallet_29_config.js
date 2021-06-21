@@ -1,1 +1,1 @@
-var mnemonic = "major daring seed love bone wrong real item receive soul way axis";
+var mnemonic = "olympic any hunt palm dilemma unknown agree zebra print spread corn sort";

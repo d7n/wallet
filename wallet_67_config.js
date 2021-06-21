@@ -1,1 +1,1 @@
-var mnemonic = "swarm expose plate skirt beach truck sight margin will trust candy crush";
+var mnemonic = "model small bundle vendor west egg gadget earn crush sail distance spike";

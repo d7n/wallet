@@ -1,1 +1,1 @@
-var mnemonic = "enemy source trumpet zebra hybrid file narrow drama paper fossil jazz they";
+var mnemonic = "dust laptop save find absorb sibling twice scorpion dolphin battle love glove";

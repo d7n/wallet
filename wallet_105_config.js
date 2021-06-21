@@ -1,1 +1,1 @@
-var mnemonic = "lyrics carbon melody render marine claim choose goose friend floor sell prize";
+var mnemonic = "bone bulb bike valley erase hello tragic nasty toss eternal million found";

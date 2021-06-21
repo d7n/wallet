@@ -1,1 +1,1 @@
-var mnemonic = "gorilla february live eyebrow symbol step copy bird supply media shallow confirm";
+var mnemonic = "urban away torch atom since sponsor system opera switch route wolf muffin";

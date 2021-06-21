@@ -1,1 +1,1 @@
-var mnemonic = "worry sentence dolphin pistol chunk unlock wing adapt emerge model leopard castle";
+var mnemonic = "use vault fly doll mom control tree spring subway behave quick plastic";

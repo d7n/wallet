@@ -1,1 +1,1 @@
-var mnemonic = "banana symbol pet bottom squirrel lumber junior emotion draft hand inside maple";
+var mnemonic = "easily trend slot action renew mosquito topic soccer giggle window prize dignity";

@@ -1,1 +1,1 @@
-var mnemonic = "develop shrimp poverty change prevent error decline minimum jungle erupt borrow sail";
+var mnemonic = "task hunt sunny monster suspect hold proud know anxiety twin glide raise";

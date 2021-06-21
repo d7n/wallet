@@ -1,1 +1,1 @@
-var mnemonic = "brain mansion gorilla vote hockey pencil guard wine opinion lyrics nurse run";
+var mnemonic = "heavy guilt fog reason zero type dinosaur album attend trial equip empower";

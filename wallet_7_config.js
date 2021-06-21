@@ -1,1 +1,1 @@
-var mnemonic = "rhythm grit six bread affair differ future arrest bundle must state latin";
+var mnemonic = "valve discover disease sick lunar traffic jeans squeeze amazing arena buyer crouch";

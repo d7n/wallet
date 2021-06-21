@@ -1,1 +1,1 @@
-var mnemonic = "crane exotic visual enough broccoli abuse toss decline alley negative sense silver";
+var mnemonic = "thought meat vibrant tell slender wisdom trial promote dress about interest potato";

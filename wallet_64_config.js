@@ -1,1 +1,1 @@
-var mnemonic = "wire lunch stick border zero risk action shuffle private reunion snow cactus";
+var mnemonic = "wolf various minimum habit since void enrich upper quiz seven enter bargain";

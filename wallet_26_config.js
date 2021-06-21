@@ -1,1 +1,1 @@
-var mnemonic = "nominee outside body photo genuine mammal fire flavor trick capable pulse casino";
+var mnemonic = "rare drive tongue invest army foster carbon enter tiny artwork shift claim";

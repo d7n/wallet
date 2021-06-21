@@ -1,1 +1,1 @@
-var mnemonic = "aspect arrow harsh twice spice raw borrow involve segment glove seed bird";
+var mnemonic = "they embrace immune guilt visual success cart sorry whale nothing furnace intact";

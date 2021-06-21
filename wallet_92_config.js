@@ -1,1 +1,1 @@
-var mnemonic = "seven trip dwarf shock shrug educate series climb general liar oil spice";
+var mnemonic = "lumber margin pumpkin depart clerk shadow satisfy depth hurdle approve leg faint";

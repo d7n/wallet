@@ -1,1 +1,1 @@
-var mnemonic = "autumn music weird couch country exchange hurt royal shell write tent fat";
+var mnemonic = "coil surge health original author assume hen cancel sausage pupil planet vote";

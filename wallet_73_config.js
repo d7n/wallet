@@ -1,1 +1,1 @@
-var mnemonic = "wise engine survey tuna fit shoe rely depend else wolf will ceiling";
+var mnemonic = "comic final turn unique square hamster master brain congress margin gym swing";

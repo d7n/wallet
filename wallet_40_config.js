@@ -1,1 +1,1 @@
-var mnemonic = "drop away gravity leaf neither know move lottery garbage spot truth praise";
+var mnemonic = "open smile engage jazz person crane fall above chef explain area opera";

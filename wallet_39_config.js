@@ -1,1 +1,1 @@
-var mnemonic = "tuition grocery truly finger twice fold jewel mutual pony arrive swarm good";
+var mnemonic = "version hazard art analyst either alone build among liberty need huge rate";

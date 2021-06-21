@@ -1,1 +1,1 @@
-var mnemonic = "glimpse swing public suit zero worth hire patient wolf beauty connect axis";
+var mnemonic = "butter burger desert access ability climb rhythm employ phone fat cabbage knife";

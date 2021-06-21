@@ -1,1 +1,1 @@
-var mnemonic = "volume fever end measure dirt empower wisdom close author strategy doll delay";
+var mnemonic = "loyal win stone random mixture birth dynamic ignore shop crystal wing lesson";

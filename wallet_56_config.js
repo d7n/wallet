@@ -1,1 +1,1 @@
-var mnemonic = "wreck song total observe scrub zebra wrong insect eager sunny fiscal license";
+var mnemonic = "sauce buzz gallery neutral track immense ride gate need maze firm mountain";

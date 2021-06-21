@@ -1,1 +1,1 @@
-var mnemonic = "busy scare snap round endorse eagle hour hotel fossil cage rare grunt";
+var mnemonic = "waste web garlic city whip physical water deal pear forget depart virtual";

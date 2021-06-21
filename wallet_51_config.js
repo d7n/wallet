@@ -1,1 +1,1 @@
-var mnemonic = "muffin major always modify glance slush hurdle control nice vote timber common";
+var mnemonic = "property favorite orphan else fly club lizard aisle wrist rapid payment nothing";

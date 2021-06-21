@@ -1,1 +1,1 @@
-var mnemonic = "limit antenna athlete real hold poet brand kidney pave alley split decrease";
+var mnemonic = "pull series puppy one taxi crunch firm scout future bachelor old tourist";

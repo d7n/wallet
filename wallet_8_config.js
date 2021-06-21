@@ -1,1 +1,1 @@
-var mnemonic = "cushion bless safe crack next beef hour tank left inquiry about music";
+var mnemonic = "raccoon street army person draw payment retire sugar inhale system discover page";

@@ -1,1 +1,1 @@
-var mnemonic = "couple canoe chalk october bacon amused express bonus arctic base town remember";
+var mnemonic = "exchange rail advance poet rescue save inject vibrant quiz note denial apple";

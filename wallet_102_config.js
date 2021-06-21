@@ -1,1 +1,1 @@
-var mnemonic = "future buzz bind skill evoke rail account wash theme wash matter match";
+var mnemonic = "eight neutral fence they wool wait slight alpha service simple drip affair";

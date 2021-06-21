@@ -1,1 +1,1 @@
-var mnemonic = "lumber merge genre hour casual toy father open attend flavor ladder expect";
+var mnemonic = "enhance broken loyal ancient project soul humor monster join rose kite illegal";

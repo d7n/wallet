@@ -1,1 +1,1 @@
-var mnemonic = "over style clinic payment boil talk usual help oil crew youth best";
+var mnemonic = "broken arctic frog soft zero wrist satoshi boring off wolf tube toward";

@@ -1,1 +1,1 @@
-var mnemonic = "possible pull mass exile couple brush innocent original plate clean one jelly";
+var mnemonic = "smooth diesel myth rare increase twin dance travel stay spell another glory";

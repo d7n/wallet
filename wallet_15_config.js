@@ -1,1 +1,1 @@
-var mnemonic = "diagram mixed unusual obtain jungle dream desert cluster song junior donkey brave";
+var mnemonic = "catch silver favorite uncover cloud appear fly box know scissors earth obtain";

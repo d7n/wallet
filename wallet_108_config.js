@@ -1,1 +1,1 @@
-var mnemonic = "final eagle before trigger doll raw tool nut rescue river destroy oak";
+var mnemonic = "task digital treat cube license stay risk begin puppy nose table group";

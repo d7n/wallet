@@ -1,1 +1,1 @@
-var mnemonic = "canvas age test surge always define goat measure aisle autumn people bulk";
+var mnemonic = "uncle round sell relax length jelly result away decrease argue climb tunnel";
