@@ -1,1 +1,1 @@
-var mnemonic = "spoon flight liberty chalk during trial claim alert fence month crane rapid";
+var mnemonic = "world ten exile design conduct lift person figure basic crime song sibling";

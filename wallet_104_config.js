@@ -1,1 +1,1 @@
-var mnemonic = "price elevator dust front express salon upon romance dice better panda alien";
+var mnemonic = "taste absurd order spike draft arrest boat boring person solar solar satisfy";

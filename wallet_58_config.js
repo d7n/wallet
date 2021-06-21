@@ -1,1 +1,1 @@
-var mnemonic = "depth certain cousin mouse engine fever ordinary pull organ quantum pact round";
+var mnemonic = "suggest gold obvious exclude cliff chef uphold blossom idle symptom direct acquire";

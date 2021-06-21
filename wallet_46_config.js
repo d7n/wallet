@@ -1,1 +1,1 @@
-var mnemonic = "finish move only figure popular used correct same coral zoo motor render";
+var mnemonic = "warrior critic butter section shove chief limit ozone stamp cruel rotate split";

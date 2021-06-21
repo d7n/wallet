@@ -1,1 +1,1 @@
-var mnemonic = "biology sudden switch require hat day minor news uncle notable never burst";
+var mnemonic = "effort benefit uncle wrong apart consider small receive medal media puppy mosquito";

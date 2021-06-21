@@ -1,1 +1,1 @@
-var mnemonic = "normal car own devote toy kidney oval window observe frequent body lemon";
+var mnemonic = "marriage speed hungry canal tank vague beach abuse stumble believe cradle alley";

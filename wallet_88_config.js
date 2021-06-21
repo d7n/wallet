@@ -1,1 +1,1 @@
-var mnemonic = "inspire virus north tree stage monitor correct welcome scissors chief fresh orchard";
+var mnemonic = "fun build wise tenant start squeeze wealth truly until elegant three sphere";

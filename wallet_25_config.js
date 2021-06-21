@@ -1,1 +1,1 @@
-var mnemonic = "month grid matrix survey pencil offer eager toy rug beauty patch hand";
+var mnemonic = "vital arch neck real wheat frame unlock divorce edge opera hurry place";

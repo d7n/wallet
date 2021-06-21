@@ -1,1 +1,1 @@
-var mnemonic = "much then push boil attend pulse pottery float bleak seek motor method";
+var mnemonic = "salmon faculty easily record theory dignity around slide stay vocal great hunt";

@@ -1,1 +1,1 @@
-var mnemonic = "soda tornado attract rib bunker tissue foster scout smile romance avoid net";
+var mnemonic = "maze phrase close trend hedgehog zebra fever crew must acoustic review teach";

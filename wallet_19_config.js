@@ -1,1 +1,1 @@
-var mnemonic = "city feature expand absurd repair process economy arm perfect solar prize slot";
+var mnemonic = "limit response floor dog tooth control ahead narrow hub armed next shy";

@@ -1,1 +1,1 @@
-var mnemonic = "shuffle mammal learn glad frame verb gaze favorite small harbor spread paddle";
+var mnemonic = "vehicle final illness issue bottom jaguar express frequent setup syrup grow travel";

@@ -1,1 +1,1 @@
-var mnemonic = "wolf hole gift motion march puzzle panel river primary regular cable rabbit";
+var mnemonic = "prefer salmon mosquito dutch cereal ensure keep shoot shield claw useless prosper";

@@ -1,1 +1,1 @@
-var mnemonic = "ceiling hood clay solution gauge slow erupt industry harsh venue resource shrimp";
+var mnemonic = "together sorry advice eyebrow inner earth child unusual bleak cool horn mechanic";

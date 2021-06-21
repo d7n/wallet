@@ -1,1 +1,1 @@
-var mnemonic = "behave ill local prefer have diagram truth away seven initial mistake inner";
+var mnemonic = "series myth ivory remain bulb onion street century stage charge hello abandon";

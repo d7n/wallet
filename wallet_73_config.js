@@ -1,1 +1,1 @@
-var mnemonic = "youth earn jeans bachelor grunt elder basic poverty polar prevent law coach";
+var mnemonic = "nephew giraffe fashion language bounce wide dwarf inner rose cave come armor";

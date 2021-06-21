@@ -1,1 +1,1 @@
-var mnemonic = "act stand pluck tonight maze blush manage thing chaos pudding auto reward";
+var mnemonic = "taste climb thought vibrant raccoon gadget tragic fantasy wood one brush reward";

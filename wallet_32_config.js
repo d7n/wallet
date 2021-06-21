@@ -1,1 +1,1 @@
-var mnemonic = "join nose audit pelican mobile copy able proud cycle road slender open";
+var mnemonic = "order donate spawn naive destroy remind labor dilemma essay swamp direct yard";

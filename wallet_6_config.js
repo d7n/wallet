@@ -1,1 +1,1 @@
-var mnemonic = "uncle picnic still witness motor logic admit box finish rescue weapon heavy";
+var mnemonic = "bind neutral puzzle alert add dry cheese aisle multiply theme faint blame";

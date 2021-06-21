@@ -1,1 +1,1 @@
-var mnemonic = "pledge echo swap small electric cliff aunt suspect design open ivory portion";
+var mnemonic = "world relax economy romance luggage sibling laugh derive rival north feed maze";

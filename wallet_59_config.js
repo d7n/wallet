@@ -1,1 +1,1 @@
-var mnemonic = "mask ticket observe order marriage once entire city elevator stuff inch citizen";
+var mnemonic = "silk brown enter fish divide warfare energy height legend amount excite void";

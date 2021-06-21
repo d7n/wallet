@@ -1,1 +1,1 @@
-var mnemonic = "toss dizzy number shine wrist gown second flag review title outer toddler";
+var mnemonic = "section leave capital benefit crater grid deny frost convince add input much";

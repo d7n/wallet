@@ -1,1 +1,1 @@
-var mnemonic = "radar wage omit sad identify sniff bitter interest goose urge page offer";
+var mnemonic = "planet bless crater problem exercise call unfair wrist stage pluck load strategy";

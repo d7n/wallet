@@ -1,1 +1,1 @@
-var mnemonic = "wage vapor bonus blade orange august salt engage genuine coral plate wine";
+var mnemonic = "shaft waste abandon deliver allow sand clown cricket tunnel bunker movie drill";

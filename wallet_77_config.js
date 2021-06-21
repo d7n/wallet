@@ -1,1 +1,1 @@
-var mnemonic = "predict nerve barrel silent frequent idea ladder exhibit lift retire dutch test";
+var mnemonic = "hat foam exhibit hotel coconut arctic chimney wife select glare board stamp";

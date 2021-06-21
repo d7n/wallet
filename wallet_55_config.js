@@ -1,1 +1,1 @@
-var mnemonic = "move nuclear unaware logic carbon present bubble myth edge cover silly youth";
+var mnemonic = "adjust dirt velvet legend fence lazy retreat century spin much edit scan";

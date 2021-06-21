@@ -1,1 +1,1 @@
-var mnemonic = "cover window copper moon option owner omit bike wine moment salad exercise";
+var mnemonic = "ensure success globe mention woman pulse skill antenna actual pluck genre balance";

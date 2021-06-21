@@ -1,1 +1,1 @@
-var mnemonic = "pizza cage bright stomach shallow steel arctic gallery canal collect beauty elephant";
+var mnemonic = "portion inside west swift idle antique art perfect glory horn usual few";

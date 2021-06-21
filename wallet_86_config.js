@@ -1,1 +1,1 @@
-var mnemonic = "close either equip dismiss relief year smile current level deposit island process";
+var mnemonic = "apple wall glad anxiety warm color drum diagram annual flight illness inquiry";

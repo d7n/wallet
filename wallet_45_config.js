@@ -1,1 +1,1 @@
-var mnemonic = "nose accident depend barrel glass budget mask bottom broom cram wolf near";
+var mnemonic = "puzzle leopard bunker father churn life symbol exotic tank coffee file fun";

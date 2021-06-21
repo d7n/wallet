@@ -1,1 +1,1 @@
-var mnemonic = "rotate giggle sunny fee category reunion nut lucky bullet prison laugh canvas";
+var mnemonic = "shrug slight save canal employ captain cup idle total fitness muscle cave";

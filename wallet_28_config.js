@@ -1,1 +1,1 @@
-var mnemonic = "royal wild ten alert cause february sun useful middle barely mountain flag";
+var mnemonic = "uncle beyond hour sample solve sleep stable oval eager huge divide foam";

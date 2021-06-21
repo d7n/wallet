@@ -1,1 +1,1 @@
-var mnemonic = "rose garbage waste milk scrap bullet elegant gallery romance scare cake dignity";
+var mnemonic = "month crumble faint real prefer destroy medal company culture merry glide reject";

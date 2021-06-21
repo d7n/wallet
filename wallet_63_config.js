@@ -1,1 +1,1 @@
-var mnemonic = "guard life noise devote emerge opinion boy system sense zoo tortoise olympic";
+var mnemonic = "soccer trick ordinary path piece illness forward away frown junior brisk member";

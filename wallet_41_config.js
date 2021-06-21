@@ -1,1 +1,1 @@
-var mnemonic = "grain public pumpkin industry giggle write health provide tourist poem robot eyebrow";
+var mnemonic = "clever slam elbow lamp bike task empty shadow confirm old sport craft";

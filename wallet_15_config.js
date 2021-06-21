@@ -1,1 +1,1 @@
-var mnemonic = "video depend winner congress wheat next near segment spend toy flock legal";
+var mnemonic = "mystery omit page sun glimpse team genre chimney series member canvas all";

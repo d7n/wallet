@@ -1,1 +1,1 @@
-var mnemonic = "dolphin chapter stumble ride cause adjust hurt vanish bind crack view ask";
+var mnemonic = "place absent bid best shine album depend chat maid into pool sand";

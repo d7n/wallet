@@ -1,1 +1,1 @@
-var mnemonic = "promote gossip chalk check resource author ahead rent extra inner song switch";
+var mnemonic = "yard crop noble cart goddess photo toilet soon horror good idle scissors";

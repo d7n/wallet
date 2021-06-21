@@ -1,1 +1,1 @@
-var mnemonic = "cart grab minor dust order bring slow acid run bubble because elbow";
+var mnemonic = "hungry hair blind coral young kitten figure actress drive blame taste siege";

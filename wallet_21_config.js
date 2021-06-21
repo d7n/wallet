@@ -1,1 +1,1 @@
-var mnemonic = "stone motor music start rely access flight talent trip chief fiscal sustain";
+var mnemonic = "anxiety crumble lens pretty hungry chicken double ribbon gravity hidden tape logic";

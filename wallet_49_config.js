@@ -1,1 +1,1 @@
-var mnemonic = "attend wedding casual next milk recall they cry album try human snap";
+var mnemonic = "bar boil tongue tobacco involve gasp verb sound better angry round bullet";

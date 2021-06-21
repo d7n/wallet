@@ -1,1 +1,1 @@
-var mnemonic = "ready world tattoo bonus crystal main obscure maximum average cook velvet chunk";
+var mnemonic = "media dad cube anger observe hobby jazz fragile receive general off problem";

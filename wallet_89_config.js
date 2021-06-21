@@ -1,1 +1,1 @@
-var mnemonic = "ahead fiscal click because prize topple switch crack suggest furnace sibling order";
+var mnemonic = "boost bike gauge south leader table spice attitude enhance glove topple green";

@@ -1,1 +1,1 @@
-var mnemonic = "tool exact robot force six nasty wheat age sense twelve roof skill";
+var mnemonic = "feel hundred tomorrow pattern cram shove best regret expand people mesh rebuild";

@@ -1,1 +1,1 @@
-var mnemonic = "method morning dragon teach busy cube neither stock virtual degree easily three";
+var mnemonic = "such bulk later monster genius unable suit upset fade oven mean head";

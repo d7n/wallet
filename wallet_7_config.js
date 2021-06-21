@@ -1,1 +1,1 @@
-var mnemonic = "physical attend course gesture problem giggle manual cycle chronic immune action chimney";
+var mnemonic = "strong address fever service rough bird differ work hundred bargain vendor hurdle";

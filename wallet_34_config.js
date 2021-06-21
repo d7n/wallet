@@ -1,1 +1,1 @@
-var mnemonic = "flash rare wild pigeon matrix label glimpse stadium cable riot unknown seed";
+var mnemonic = "alert fatigue sweet coffee process portion stable age fragile diesel flame quantum";

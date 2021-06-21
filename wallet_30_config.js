@@ -1,1 +1,1 @@
-var mnemonic = "supreme usage bonus scatter identify clean voice begin weapon public float attract";
+var mnemonic = "loyal nature review enrich spirit jazz orchard sauce bicycle curtain pledge noise";

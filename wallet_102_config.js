@@ -1,1 +1,1 @@
-var mnemonic = "rabbit wait bring weapon write govern cube jar mandate weird turkey dynamic";
+var mnemonic = "clog such spider drink code worry galaxy recall fence price wood unlock";

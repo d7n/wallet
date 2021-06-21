@@ -1,1 +1,1 @@
-var mnemonic = "clarify celery never light diamond bag salon degree eight melody obscure casino";
+var mnemonic = "cause certain adult connect exercise escape around pear soap afraid furnace hip";

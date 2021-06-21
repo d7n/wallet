@@ -1,1 +1,1 @@
-var mnemonic = "move arrange december post catalog marriage creek fee flame curve squirrel chef";
+var mnemonic = "surface relief female slight damage baby earth author force female leave please";

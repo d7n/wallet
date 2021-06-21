@@ -1,1 +1,1 @@
-var mnemonic = "paddle sound pull wasp glare fossil truck bid bullet rate autumn snow";
+var mnemonic = "arrange effort soon supply depth glimpse shoot alert quote permit beyond swap";

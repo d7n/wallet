@@ -1,1 +1,1 @@
-var mnemonic = "cargo lyrics mobile health dune smart garbage length because leaf can daughter";
+var mnemonic = "know bag vessel prefer push work praise tank artist dish rocket myself";

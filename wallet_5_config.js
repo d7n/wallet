@@ -1,1 +1,1 @@
-var mnemonic = "space arrow gravity slam case tissue present used clap fat brush easy";
+var mnemonic = "grain violin earn term about timber october home reveal solution fatigue action";

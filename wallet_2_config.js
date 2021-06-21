@@ -1,1 +1,1 @@
-var mnemonic = "sting fiber rule garment impose skin marble announce crucial success plunge they";
+var mnemonic = "shaft airport make next leisure math indicate brand room deposit tilt coral";

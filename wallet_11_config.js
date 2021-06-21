@@ -1,1 +1,1 @@
-var mnemonic = "bid ivory stool flash move helmet royal indicate there sibling fragile blur";
+var mnemonic = "woman lounge appear trophy notice sugar neglect speed correct chuckle control duty";

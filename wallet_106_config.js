@@ -1,1 +1,1 @@
-var mnemonic = "cement turkey mass improve knife april animal grit gown trigger guilt market";
+var mnemonic = "bid step push wasp heart remain task mesh melt genuine evoke reduce";

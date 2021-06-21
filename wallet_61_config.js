@@ -1,1 +1,1 @@
-var mnemonic = "crash raise motion ramp enlist clay napkin garden dolphin empty pencil whisper";
+var mnemonic = "pepper fitness army project high envelope blind polar pupil organ forum night";

@@ -1,1 +1,1 @@
-var mnemonic = "baby second tornado file load gesture seminar suit seek spread fit panda";
+var mnemonic = "purpose blush warrior allow valid motor wrap hybrid drastic duck rescue tiny";

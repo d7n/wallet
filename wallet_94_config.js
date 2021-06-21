@@ -1,1 +1,1 @@
-var mnemonic = "ethics mutual joke age vendor scan soldier blouse rhythm simple lake client";
+var mnemonic = "body crystal adapt leisure trigger smoke gain much inquiry assist mimic net";

@@ -1,1 +1,1 @@
-var mnemonic = "exile another burger result giraffe seven motor tail route black grunt remain";
+var mnemonic = "bundle science deputy chief slide start gun chapter execute later false inquiry";

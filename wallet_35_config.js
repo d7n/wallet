@@ -1,1 +1,1 @@
-var mnemonic = "together clown predict account nest fee silly tide labor zero talk bargain";
+var mnemonic = "little duty wreck afraid essay all output destroy husband sentence begin narrow";

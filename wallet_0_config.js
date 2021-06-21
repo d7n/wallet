@@ -1,1 +1,1 @@
-var mnemonic = "fiscal unlock where baby task snake senior nothing segment sail floor goat";
+var mnemonic = "example pen dog annual hello toast multiply evil vintage shuffle pass patrol";

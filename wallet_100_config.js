@@ -1,1 +1,1 @@
-var mnemonic = "baby asset tube tag beyond immense actual foot together human million narrow";
+var mnemonic = "night top badge token beef attract thought silver grab hub purchase lounge";

@@ -1,1 +1,1 @@
-var mnemonic = "install nominee dutch gloom bulb onion daring spring debris day hockey fun";
+var mnemonic = "leg person bronze monkey nice below flower gossip peanut future network stock";

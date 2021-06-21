@@ -1,1 +1,1 @@
-var mnemonic = "early path gas sock vault chair addict snap aisle stadium bamboo clown";
+var mnemonic = "anger slender rocket detail damage access will buddy mesh electric illegal luggage";

@@ -1,1 +1,1 @@
-var mnemonic = "actor spare ice reunion table enough comfort beyond toy amazing chalk hold";
+var mnemonic = "then assault reunion inflict destroy oil quote retreat coffee sheriff wisdom tilt";

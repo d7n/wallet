@@ -1,1 +1,1 @@
-var mnemonic = "night spider few design brand awful hire siege trick spring turn lady";
+var mnemonic = "birth glow category describe puppy right orient final claim foot have stock";

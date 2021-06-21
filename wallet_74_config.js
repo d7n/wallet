@@ -1,1 +1,1 @@
-var mnemonic = "nasty race gold banner rescue spike unknown case price learn foil mushroom";
+var mnemonic = "blame impose pave cancel sun slogan welcome journey tape enjoy like pride";

@@ -1,1 +1,1 @@
-var mnemonic = "profit return link border bargain dad nut taxi squeeze quick icon confirm";
+var mnemonic = "imitate have east digital material easy record tennis gain clinic soon connect";

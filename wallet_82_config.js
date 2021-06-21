@@ -1,1 +1,1 @@
-var mnemonic = "quick find roast leopard wet purity spike hidden retreat media fragile myself";
+var mnemonic = "uphold vivid energy crane nominee left vintage element session help shaft grocery";

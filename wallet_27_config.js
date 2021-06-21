@@ -1,1 +1,1 @@
-var mnemonic = "candy ensure verb absent neck mountain demand script sense copper glory ivory";
+var mnemonic = "obvious attack frown favorite noble bacon tissue title any struggle color confirm";

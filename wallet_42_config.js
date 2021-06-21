@@ -1,1 +1,1 @@
-var mnemonic = "battle page hill basic cause couple reason injury owner equal rough cliff";
+var mnemonic = "annual obvious dismiss across add canyon vendor recall isolate canvas dignity replace";

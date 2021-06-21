@@ -1,1 +1,1 @@
-var mnemonic = "fire exile key thumb oven raw wise day typical kid pizza toe";
+var mnemonic = "cruise person kiwi post clinic casino design merit hammer plunge oblige spoil";

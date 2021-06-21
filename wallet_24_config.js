@@ -1,1 +1,1 @@
-var mnemonic = "female name alert axis survey people veteran funny worth decline flight upset";
+var mnemonic = "advice expand any nut area surface egg orange mask jelly royal slight";

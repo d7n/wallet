@@ -1,1 +1,1 @@
-var mnemonic = "earn palm flower glad alarm faculty funny impulse stick turn alley stand";
+var mnemonic = "long wheat giraffe energy grunt art vehicle month object guide gossip attract";

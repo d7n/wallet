@@ -1,1 +1,1 @@
-var mnemonic = "side attitude garden zoo ordinary goddess holiday praise scene write spider public";
+var mnemonic = "off attack dentist differ weird glimpse change hint tag offer feel good";

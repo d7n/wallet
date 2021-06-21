@@ -1,1 +1,1 @@
-var mnemonic = "sense door nerve fiscal brave feature urban extend stand prepare inflict pencil";
+var mnemonic = "leisure spatial tornado project proud denial soldier attend casual moment pride tomorrow";

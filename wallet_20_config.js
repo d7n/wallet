@@ -1,1 +1,1 @@
-var mnemonic = "invite social garage foster cactus enemy struggle now fish depth agent replace";
+var mnemonic = "man denial chair gas merit onion crucial arrest spell picture puzzle fortune";

@@ -1,1 +1,1 @@
-var mnemonic = "bubble promote patrol pitch style doll abandon clever reform person gesture raise";
+var mnemonic = "usage claw sniff doctor dance cart bar symptom jazz work screen skin";

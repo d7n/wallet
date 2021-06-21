@@ -1,1 +1,1 @@
-var mnemonic = "pencil lecture almost major bachelor habit cruise ceiling silk because suspect drop";
+var mnemonic = "top novel fancy rotate ivory sugar message edit rigid main trap agent";

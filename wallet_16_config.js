@@ -1,1 +1,1 @@
-var mnemonic = "grant meadow fever flock meat olive dial kit cruel rule able police";
+var mnemonic = "giggle file draft display subject pull whip speed rely curve zoo candy";

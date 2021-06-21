@@ -1,1 +1,1 @@
-var mnemonic = "group chest grunt search hamster nasty uncover kiwi language about inspire ten";
+var mnemonic = "that armor require result flame giraffe pill truth task agree coffee boy";

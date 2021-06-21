@@ -1,1 +1,1 @@
-var mnemonic = "suit that amazing oblige butter help fold tooth fork case gesture home";
+var mnemonic = "brass canyon comic tool pave jeans tube chronic weekend sound differ above";

@@ -1,1 +1,1 @@
-var mnemonic = "nose once march bacon cancel treat dragon olive shallow baby elder gather";
+var mnemonic = "almost hamster arctic type grunt review exhibit smooth same female drive turtle";

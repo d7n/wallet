@@ -1,1 +1,1 @@
-var mnemonic = "slogan embark lens window suffer design slam hero else various window crime";
+var mnemonic = "into group churn glove swing regular home defense pluck sketch mandate lemon";

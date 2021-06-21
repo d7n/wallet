@@ -1,1 +1,1 @@
-var mnemonic = "split jelly tree horn silver insect ankle artist timber wear slow hood";
+var mnemonic = "settle couch angry action battle sense until grape gasp purity theme live";

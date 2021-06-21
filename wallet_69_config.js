@@ -1,1 +1,1 @@
-var mnemonic = "skirt album alien horror army copy echo depth involve faculty shoot pond";
+var mnemonic = "simple plunge tribe pattern timber elbow finish reunion absurd below team myth";

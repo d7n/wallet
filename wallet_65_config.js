@@ -1,1 +1,1 @@
-var mnemonic = "over vague hedgehog entire scrub cinnamon engage radio unhappy bulb length grain";
+var mnemonic = "helmet march hero bracket banana wrist pass remember glimpse silent click music";

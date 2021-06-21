@@ -1,1 +1,1 @@
-var mnemonic = "often grit deny absurd affair elevator castle wet quality amazing actor worry";
+var mnemonic = "endorse steel weasel hint airport tenant price cable couch rhythm anchor faculty";

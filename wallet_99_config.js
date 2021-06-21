@@ -1,1 +1,1 @@
-var mnemonic = "neutral clown caught gather sentence jacket under model legend jewel embody pact";
+var mnemonic = "capital flash damp news mosquito walk nut govern remain flush project unique";

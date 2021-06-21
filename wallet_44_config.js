@@ -1,1 +1,1 @@
-var mnemonic = "scatter mango response brass clock load vacant frost exist lucky journey make";
+var mnemonic = "essay negative envelope portion wet air dutch speak float thumb fork since";

@@ -1,1 +1,1 @@
-var mnemonic = "glimpse unaware captain rule wisdom dizzy outer setup album amazing kite route";
+var mnemonic = "trigger climb finger drip arm cotton desk spirit right diary attitude symbol";

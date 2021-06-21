@@ -1,1 +1,1 @@
-var mnemonic = "bacon piano cool sugar nation give flame pepper refuse rapid author host";
+var mnemonic = "blood dry gasp easily clean turn island airport near excite chaos trend";

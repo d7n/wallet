@@ -1,1 +1,1 @@
-var mnemonic = "snake omit pistol opera ramp nothing joy mango sting lounge review hotel";
+var mnemonic = "atom elegant exclude disease say blouse uniform lizard net virtual wish exchange";

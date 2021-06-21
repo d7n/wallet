@@ -1,1 +1,1 @@
-var mnemonic = "talent twelve swap cheese turtle forum drip false dinner find later critic";
+var mnemonic = "draft police horror solar prevent author lava clap ghost addict square deputy";
