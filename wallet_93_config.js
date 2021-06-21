@@ -1,1 +1,1 @@
-var mnemonic = "day skill fork oyster lens hold stamp rural autumn pause foil general";
+var mnemonic = "dentist erase fiscal pole banner tunnel lady feature lawn together wife zero";

@@ -1,1 +1,1 @@
-var mnemonic = "woman remind legend brick reform small enforce wonder comfort shield lecture crystal";
+var mnemonic = "rotate future exact invite piano segment gaze melody arctic drip february hood";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar rice hover elbow online sure rabbit arctic twice humor garment frame";
+var mnemonic = "want eight spawn seek file acoustic cash leg add sail history battle";

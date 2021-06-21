@@ -1,1 +1,1 @@
-var mnemonic = "educate loan bone glide fame split scatter habit explain hamster nuclear bus";
+var mnemonic = "analyst normal travel strong sausage fee fence bag expand negative question eyebrow";

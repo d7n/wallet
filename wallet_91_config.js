@@ -1,1 +1,1 @@
-var mnemonic = "mechanic cabbage chief kingdom material stomach marble cotton clean lion erode ordinary";
+var mnemonic = "office news admit sing destroy grid gate surprise scatter canal chapter general";

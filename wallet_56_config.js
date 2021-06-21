@@ -1,1 +1,1 @@
-var mnemonic = "lottery puppy manual coyote path artefact exotic coffee peasant angry liar obey";
+var mnemonic = "fox detect provide swift magic heart drink imitate inner immense goddess live";

@@ -1,1 +1,1 @@
-var mnemonic = "napkin route excite south antenna health lumber patient admit boat fog slush";
+var mnemonic = "shell illegal way rabbit boring neutral mouse rough stove pet brisk end";

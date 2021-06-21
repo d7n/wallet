@@ -1,1 +1,1 @@
-var mnemonic = "advance inspire accident lock flip travel fiber urge magnet slot strategy drill";
+var mnemonic = "there feature auction pyramid tooth agent toy believe code illness invite mail";

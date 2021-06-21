@@ -1,1 +1,1 @@
-var mnemonic = "color magic outdoor whisper always pattern lawsuit unlock sight artefact common month";
+var mnemonic = "point order arrive awesome dance forget loan doctor action pipe exercise industry";

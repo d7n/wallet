@@ -1,1 +1,1 @@
-var mnemonic = "rubber liquid endorse oyster cover route lock banana forget force chair cream";
+var mnemonic = "rabbit letter fringe together exclude trade whale flee goat fold curtain delay";

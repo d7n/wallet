@@ -1,1 +1,1 @@
-var mnemonic = "wrap caution odor raw crystal payment fossil tray bulk turkey giraffe provide";
+var mnemonic = "fish chest general wife anxiety situate flee edit ski fox teach govern";

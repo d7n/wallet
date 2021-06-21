@@ -1,1 +1,1 @@
-var mnemonic = "like bacon latin finger fatal capable fault earn poet mail release bomb";
+var mnemonic = "sleep quality easily flash car bottom shiver design tail wide luggage stand";

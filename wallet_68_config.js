@@ -1,1 +1,1 @@
-var mnemonic = "immune rather lab frown myth inch trick man lion car text jewel";
+var mnemonic = "oyster opera cash monster stick more horn ten cradle loud hawk quarter";

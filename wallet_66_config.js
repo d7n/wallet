@@ -1,1 +1,1 @@
-var mnemonic = "firm marble spot near laugh behave mesh garage galaxy brother utility silk";
+var mnemonic = "upgrade gravity approve coach draw hello super hood way crucial liquid analyst";

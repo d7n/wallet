@@ -1,1 +1,1 @@
-var mnemonic = "assume member recycle small language lunar armed okay uncle giant zone lady";
+var mnemonic = "reopen dial notable comfort glow fire lock punch price salon prize barrel";

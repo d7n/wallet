@@ -1,1 +1,1 @@
-var mnemonic = "magic leisure skill few vehicle rich birth crowd atom offer forum illness";
+var mnemonic = "frame coil horn grunt trick method include win creek issue cactus dress";

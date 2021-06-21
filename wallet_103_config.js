@@ -1,1 +1,1 @@
-var mnemonic = "nasty expose weather crater giraffe prevent lunar burden code sunset edge cage";
+var mnemonic = "useful cereal craft hour involve kidney bean ski search friend brave monster";

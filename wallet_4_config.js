@@ -1,1 +1,1 @@
-var mnemonic = "thing hill child frozen mountain custom surge taxi actual girl upper interest";
+var mnemonic = "exclude rebuild stay note above deny ostrich oxygen dentist stem member mail";

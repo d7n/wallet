@@ -1,1 +1,1 @@
-var mnemonic = "bicycle hope gauge false frog liquid ride tackle limit priority witness radio";
+var mnemonic = "cargo dragon exile mention half orange calm magnet gym sheriff around spice";

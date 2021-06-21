@@ -1,1 +1,1 @@
-var mnemonic = "catch century ring lunar session butter hub emerge parent left picture charge";
+var mnemonic = "wrong perfect zoo siege someone pluck talent boil alpha barely appear inner";

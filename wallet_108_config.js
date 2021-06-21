@@ -1,1 +1,1 @@
-var mnemonic = "census news kind wine enforce local pelican federal marriage trial lion hill";
+var mnemonic = "copy crazy fringe absent safe bar exhaust repeat treat title dutch cream";

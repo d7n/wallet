@@ -1,1 +1,1 @@
-var mnemonic = "arrive eager hammer sight spread chuckle ozone wolf renew demise wonder mouse";
+var mnemonic = "zebra dirt wheel final use glory short amazing dose cool appear grit";

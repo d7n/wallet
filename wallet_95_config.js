@@ -1,1 +1,1 @@
-var mnemonic = "orange doll actual credit section dinner blood merge inside vapor yard fire";
+var mnemonic = "chuckle despair rocket cost limb document mango sight giggle ticket pottery move";

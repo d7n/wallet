@@ -1,1 +1,1 @@
-var mnemonic = "topple toe head ignore sun medal great image setup nurse follow sketch";
+var mnemonic = "rescue salmon true attend normal erupt salt gym finish grow hold proof";

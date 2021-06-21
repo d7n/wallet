@@ -1,1 +1,1 @@
-var mnemonic = "such portion consider column minor treat utility gaze enjoy cube youth ten";
+var mnemonic = "shop ridge mercy brave frog book scissors escape diamond medal violin patch";

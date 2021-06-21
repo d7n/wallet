@@ -1,1 +1,1 @@
-var mnemonic = "awful learn cloud such indoor drop tornado accident equal rail evolve swift";
+var mnemonic = "absorb twist away special culture device tonight eager visit library decline bird";

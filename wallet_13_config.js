@@ -1,1 +1,1 @@
-var mnemonic = "hurt salmon kitchen swap shaft pioneer armor base water rabbit pyramid mistake";
+var mnemonic = "happy wide cook inject short artefact document puppy girl unique lucky salute";

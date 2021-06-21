@@ -1,1 +1,1 @@
-var mnemonic = "stuff spice choice skull traffic rent child clutch giraffe bargain punch bulk";
+var mnemonic = "glow piano chimney vague orange payment meadow ten elder train camera note";

@@ -1,1 +1,1 @@
-var mnemonic = "ankle doctor cash breeze slim parrot order awkward inch satoshi present embrace";
+var mnemonic = "style defense hire burst sleep wink paper such hope nose salt fluid";

@@ -1,1 +1,1 @@
-var mnemonic = "hunt giant another aware alpha baby resource south adult perfect powder neither";
+var mnemonic = "pave distance dawn when april roast mobile unhappy scrub festival feature middle";

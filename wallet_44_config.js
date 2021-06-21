@@ -1,1 +1,1 @@
-var mnemonic = "weird middle festival odor hour camera unfair name arrive muffin bless there";
+var mnemonic = "ginger kind orient early depth wealth budget wool fine jar faculty urban";

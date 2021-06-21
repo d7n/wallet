@@ -1,1 +1,1 @@
-var mnemonic = "note surge hurt barrel polar grunt wonder math crowd cup enemy depart";
+var mnemonic = "convince layer deposit habit bulb come avoid tip kit artwork situate calm";

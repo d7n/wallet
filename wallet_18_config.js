@@ -1,1 +1,1 @@
-var mnemonic = "name matrix board grocery sketch slight depend soft gospel pulp subway two";
+var mnemonic = "spring acoustic unveil acoustic lucky hire envelope person catch rotate inform verb";

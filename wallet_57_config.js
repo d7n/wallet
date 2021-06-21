@@ -1,1 +1,1 @@
-var mnemonic = "amazing impose lumber foot copper guilt insane relief trust settle frozen capable";
+var mnemonic = "nothing digital mechanic estate raw champion tiny recipe fossil genuine isolate table";

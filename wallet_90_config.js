@@ -1,1 +1,1 @@
-var mnemonic = "giggle cheese pink acoustic distance chaos taxi glad elbow hub praise label";
+var mnemonic = "fold filter rival quiz age sun genuine federal leg stuff carpet scissors";

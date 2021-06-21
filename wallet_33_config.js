@@ -1,1 +1,1 @@
-var mnemonic = "sketch disease portion book toilet win gorilla uncle idle butter damp wall";
+var mnemonic = "never weather never analyst unfold million machine garlic oil frozen auto wolf";

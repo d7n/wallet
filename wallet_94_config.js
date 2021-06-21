@@ -1,1 +1,1 @@
-var mnemonic = "glide decline hurdle frozen subway hint bulb reject bonus squirrel enhance bounce";
+var mnemonic = "orphan wife heavy noise urge health chapter artwork ethics soldier creek august";

@@ -1,1 +1,1 @@
-var mnemonic = "cotton honey verb clay hammer glad urge surprise index enhance slogan have";
+var mnemonic = "promote dance evoke ticket sock sunny federal that win garden limb move";

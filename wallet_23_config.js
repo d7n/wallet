@@ -1,1 +1,1 @@
-var mnemonic = "damp barely term vague chapter march zone rebuild more lemon dizzy casino";
+var mnemonic = "talent hotel cloud fatigue duty amateur poem leg casual aerobic electric agent";

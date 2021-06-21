@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit crawl kiwi blood erode vehicle educate trick fall decorate cram cup";
+var mnemonic = "rose busy year liar vessel student infant cherry recipe stand purity staff";

@@ -1,1 +1,1 @@
-var mnemonic = "aunt sunny crawl purse violin window melody mechanic april wild coast amateur";
+var mnemonic = "cotton method quick jazz thank desert account rubber bag strong true economy";

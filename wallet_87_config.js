@@ -1,1 +1,1 @@
-var mnemonic = "tonight special march flower puzzle foam science pen frame remove come buddy";
+var mnemonic = "burger know inmate zone cube hamster episode snap nation apple present harsh";

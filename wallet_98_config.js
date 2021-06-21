@@ -1,1 +1,1 @@
-var mnemonic = "fan digital leopard artist genre alley orchard feed twice win merit blossom";
+var mnemonic = "hat swing local shop throw cream number peace income false enlist basic";

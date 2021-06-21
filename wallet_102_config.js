@@ -1,1 +1,1 @@
-var mnemonic = "they atom ice coyote wait uncle avoid surprise symbol abandon guard alley";
+var mnemonic = "now impose hedgehog forest rib usage drip amount digital era swing deer";

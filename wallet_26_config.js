@@ -1,1 +1,1 @@
-var mnemonic = "world planet tent false horse frame chase alarm grace essay border stumble";
+var mnemonic = "mouse tide field vicious bar rug oven release annual hope sign ahead";

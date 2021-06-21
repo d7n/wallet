@@ -1,1 +1,1 @@
-var mnemonic = "armor enable together program hawk hand strike fun bamboo dial caution poet";
+var mnemonic = "twelve caution tide century ketchup crater second finger essence hub menu what";

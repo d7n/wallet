@@ -1,1 +1,1 @@
-var mnemonic = "border virtual jelly maple soccer over eternal snack virtual tragic must few";
+var mnemonic = "fringe wasp seminar canyon wolf damp thumb busy auction damp hurt forum";

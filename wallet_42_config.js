@@ -1,1 +1,1 @@
-var mnemonic = "seed thunder ecology afford oxygen valid usage junior suspect knock bus beach";
+var mnemonic = "sheriff cram two dog marriage churn pull exit wave erupt divorce clog";

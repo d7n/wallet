@@ -1,1 +1,1 @@
-var mnemonic = "athlete midnight era trap little net coin glue member elbow harvest sea";
+var mnemonic = "upgrade seed adapt bone misery stable what abstract clutch test tag gown";

@@ -1,1 +1,1 @@
-var mnemonic = "dilemma such cool cancel eyebrow canyon pear payment tail perfect six labor";
+var mnemonic = "shoot water ceiling exhaust labor weather field average wheel cliff candy life";

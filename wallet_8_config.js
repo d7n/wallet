@@ -1,1 +1,1 @@
-var mnemonic = "guess abandon sure scan garment hole swift season exhibit head slogan wreck";
+var mnemonic = "bring copy tenant chest eternal gauge orbit anxiety camp vehicle during baby";

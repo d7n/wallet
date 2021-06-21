@@ -1,1 +1,1 @@
-var mnemonic = "pipe wrap woman asthma arrange permit alert adjust skate blur liquid loyal";
+var mnemonic = "happy rubber congress unfold damp very advance prize hello tray lonely dream";

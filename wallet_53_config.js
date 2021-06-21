@@ -1,1 +1,1 @@
-var mnemonic = "mobile concert sea mandate shoe normal morning disorder coin maid arrest mix";
+var mnemonic = "neck above idle notice endorse word dash cotton fence kitten extend pepper";

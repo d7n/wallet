@@ -1,1 +1,1 @@
-var mnemonic = "attend lunch seed media charge oblige lend moon metal crucial speak avocado";
+var mnemonic = "one other into biology pig lawsuit vivid pluck sweet tragic rescue loyal";

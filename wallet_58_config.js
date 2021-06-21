@@ -1,1 +1,1 @@
-var mnemonic = "young rare divide sudden they horn real novel submit balcony power genius";
+var mnemonic = "wreck powder lazy wine body kick lake abuse together select work ahead";

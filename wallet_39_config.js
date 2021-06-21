@@ -1,1 +1,1 @@
-var mnemonic = "artist impose catalog deny believe arm peanut bicycle puppy there quiz match";
+var mnemonic = "uphold grass settle ship penalty useless orange system fog live leisure coast";

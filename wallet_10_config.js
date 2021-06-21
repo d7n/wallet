@@ -1,1 +1,1 @@
-var mnemonic = "add between truth situate abuse rapid spot hip ribbon leader strategy illegal";
+var mnemonic = "runway coffee ensure ivory stage whisper tuna emerge parrot predict miss pistol";

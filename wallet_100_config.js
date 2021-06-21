@@ -1,1 +1,1 @@
-var mnemonic = "fortune exit real census verify champion fruit talk excite armed elephant matter";
+var mnemonic = "filter doll slam exclude beach tuition parent fade art strike stage street";

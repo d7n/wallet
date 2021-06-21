@@ -1,1 +1,1 @@
-var mnemonic = "cat margin tip pool close pumpkin penalty acid subway admit boss hand";
+var mnemonic = "tobacco orient joy box area chase explain weekend general equal need exclude";

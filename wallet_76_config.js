@@ -1,1 +1,1 @@
-var mnemonic = "forward marble kitchen electric decorate cable tourist glue gasp review hold say";
+var mnemonic = "gadget buzz diet solar swap cube wild surround jazz neither stay trip";

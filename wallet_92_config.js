@@ -1,1 +1,1 @@
-var mnemonic = "elevator metal squirrel cram sell ordinary drink sport fuel large attack horn";
+var mnemonic = "bus fee tube size buddy birth thing open boat metal inner during";

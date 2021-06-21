@@ -1,1 +1,1 @@
-var mnemonic = "net gesture reduce system wagon measure actress ecology magnet exercise slim general";
+var mnemonic = "pumpkin solve arrest girl chronic staff happy benefit hotel metal fuel fish";

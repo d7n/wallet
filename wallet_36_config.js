@@ -1,1 +1,1 @@
-var mnemonic = "pistol nurse enter must elder smooth feature idea obscure tree organ salad";
+var mnemonic = "master cream blossom snack hard core sphere ridge crush detail uncle broccoli";

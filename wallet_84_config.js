@@ -1,1 +1,1 @@
-var mnemonic = "town clever situate spoil flight supply okay head agree stem crawl brief";
+var mnemonic = "menu embark rail best velvet flush group journey spawn gold ticket find";

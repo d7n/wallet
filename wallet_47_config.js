@@ -1,1 +1,1 @@
-var mnemonic = "hidden suspect rural glue employ broken bacon toast source drop employ wage";
+var mnemonic = "electric diesel error stomach buzz moon art cry blade tape spoon brain";

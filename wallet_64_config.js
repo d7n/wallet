@@ -1,1 +1,1 @@
-var mnemonic = "chalk tree praise leader egg rifle recipe few decline still crash purchase";
+var mnemonic = "miss web hat venue grant toilet wish sting noble march crash dad";

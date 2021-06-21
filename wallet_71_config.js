@@ -1,1 +1,1 @@
-var mnemonic = "giggle south grass mind alarm involve pool clutch lava moral observe add";
+var mnemonic = "cause skirt speed inflict shy forget mercy jump around engine coconut educate";

@@ -1,1 +1,1 @@
-var mnemonic = "daughter inch avoid wide battle monster armor expect bone rule undo lock";
+var mnemonic = "hair that soul violin vintage draw local sleep suggest web top grit";

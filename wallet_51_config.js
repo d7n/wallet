@@ -1,1 +1,1 @@
-var mnemonic = "distance short favorite resource leisure unknown never before rural trial lyrics photo";
+var mnemonic = "chase walk nominee gauge void wood way labor vacuum turkey saddle clog";

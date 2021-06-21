@@ -1,1 +1,1 @@
-var mnemonic = "cabbage chapter imitate prepare fatal naive visual purpose girl there carry hedgehog";
+var mnemonic = "puzzle remember tennis voyage excite pool badge dry emotion again nation draw";

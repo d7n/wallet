@@ -1,1 +1,1 @@
-var mnemonic = "arrive chest danger faint neither vehicle control fashion grocery wisdom danger fan";
+var mnemonic = "nurse load fault miss unable sting reveal large door collect rose protect";

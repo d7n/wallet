@@ -1,1 +1,1 @@
-var mnemonic = "tail tower undo lobster include unique stomach uncover apple point century fly";
+var mnemonic = "rebel faint donate knife range grab grid laugh remind warm hybrid patch";

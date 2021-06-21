@@ -1,1 +1,1 @@
-var mnemonic = "couple surround curve man come soap supply near very crew slow faith";
+var mnemonic = "shock pepper marble scrap void energy wreck entire citizen devote safe pyramid";

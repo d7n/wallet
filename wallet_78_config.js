@@ -1,1 +1,1 @@
-var mnemonic = "entry legend intact host anger expand cherry slight cargo trash unfold exit";
+var mnemonic = "real lake digital blade quality brother mind model rabbit assume avoid shoe";

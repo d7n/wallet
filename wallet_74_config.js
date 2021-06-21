@@ -1,1 +1,1 @@
-var mnemonic = "vacant quit video adjust junk desert debate great coach unfair box asthma";
+var mnemonic = "unhappy service seminar tool depart later virus clean alley memory obscure lock";

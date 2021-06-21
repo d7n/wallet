@@ -1,1 +1,1 @@
-var mnemonic = "brick reduce double project erupt silk beyond hungry album unique defense bachelor";
+var mnemonic = "tent leader easily special check firm erosion tray void rug over female";

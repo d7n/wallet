@@ -1,1 +1,1 @@
-var mnemonic = "tide ten glass struggle category exclude away alpha gloom provide mention move";
+var mnemonic = "quiz pact panda mother gym valid mandate hobby scheme oak pen jelly";

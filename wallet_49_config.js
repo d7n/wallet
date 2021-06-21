@@ -1,1 +1,1 @@
-var mnemonic = "soda foam save usage success truck art nerve alone attract keen amateur";
+var mnemonic = "enough stamp day useless burger cute material laundry dignity tuna suit broccoli";

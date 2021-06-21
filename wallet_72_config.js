@@ -1,1 +1,1 @@
-var mnemonic = "install accuse debris pistol lizard humor capital first defy awake faith notice";
+var mnemonic = "cigar flash smoke olympic brick ecology antenna pledge chalk lyrics ivory caught";

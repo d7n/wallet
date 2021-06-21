@@ -1,1 +1,1 @@
-var mnemonic = "unit grit zero stove input love brick clap dutch match private situate";
+var mnemonic = "wagon sugar style congress robust nominee choose wasp add few battle scale";

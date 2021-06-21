@@ -1,1 +1,1 @@
-var mnemonic = "fall enrich illness topic radio swamp steel seek business proof shrug impact";
+var mnemonic = "advice good remove spring portion wood spin wealth idea essence tree lucky";

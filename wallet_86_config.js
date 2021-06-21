@@ -1,1 +1,1 @@
-var mnemonic = "shift antique want express situate case buffalo wild spoon original suggest matter";
+var mnemonic = "explain sketch harvest announce seed comfort pulse blame rely prevent grain nominee";

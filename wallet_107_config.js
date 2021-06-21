@@ -1,1 +1,1 @@
-var mnemonic = "decline plug marble profit devote sword cousin problem quantum vintage main annual";
+var mnemonic = "call siren adapt grass short author patch spoon exotic knock arrive pride";

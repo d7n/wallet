@@ -1,1 +1,1 @@
-var mnemonic = "upper meadow leader supreme pink enforce immune mixed hobby penalty picnic that";
+var mnemonic = "pizza crime cliff crater asthma bar high soccer ignore solid arctic grief";

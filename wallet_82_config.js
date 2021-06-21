@@ -1,1 +1,1 @@
-var mnemonic = "corn spike demand smoke rocket network carbon outside chief fly punch fall";
+var mnemonic = "tone tissue main blanket actor amateur punch slush trouble glove dizzy unknown";

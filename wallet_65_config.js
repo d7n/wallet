@@ -1,1 +1,1 @@
-var mnemonic = "thunder verb stomach recycle depart track issue where claim vibrant language host";
+var mnemonic = "rude frozen sketch never air focus riot decrease sport tide yard sibling";

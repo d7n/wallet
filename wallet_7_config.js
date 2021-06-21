@@ -1,1 +1,1 @@
-var mnemonic = "merit prevent tilt pull recipe learn way tip harbor oblige open multiply";
+var mnemonic = "decline next reject sausage occur float soda orange tourist neither jewel dismiss";

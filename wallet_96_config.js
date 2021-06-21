@@ -1,1 +1,1 @@
-var mnemonic = "quiz surround cement defense giant hotel custom stand grid aisle can inch";
+var mnemonic = "give charge style clever holiday crumble scrub pledge twelve oven antenna woman";
