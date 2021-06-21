@@ -1,1 +1,1 @@
-var mnemonic = "august casual water choice vintage youth habit enough pear razor feel plastic";
+var mnemonic = "turtle tattoo offer mail robust buzz blanket rapid lumber drink pony book";

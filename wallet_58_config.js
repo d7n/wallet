@@ -1,1 +1,1 @@
-var mnemonic = "tape armed throw flavor combine hurdle relief solar often intact return reopen";
+var mnemonic = "topple find hidden visual inflict lazy acquire lab crucial unhappy baby inch";

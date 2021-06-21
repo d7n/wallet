@@ -1,1 +1,1 @@
-var mnemonic = "cash knee visual garment patrol skate cousin action kind yard sick great";
+var mnemonic = "tourist neglect doctor bone goat outer trophy slice favorite list raven chief";

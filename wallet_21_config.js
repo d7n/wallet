@@ -1,1 +1,1 @@
-var mnemonic = "argue source drama drip chuckle decade spread deposit clown they taste pond";
+var mnemonic = "brass junk able vivid coffee sausage demise nature grief upset city bind";

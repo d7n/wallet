@@ -1,1 +1,1 @@
-var mnemonic = "rib clerk say adult exclude front tree film toy illegal vivid blade";
+var mnemonic = "people cotton garage unhappy melt engage smile disease ramp candy razor spawn";

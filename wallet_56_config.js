@@ -1,1 +1,1 @@
-var mnemonic = "number syrup rain surge short rocket tragic hello spring fashion coral grocery";
+var mnemonic = "river normal cabin enter junk vault walk belt quote hospital bunker vanish";

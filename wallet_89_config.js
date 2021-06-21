@@ -1,1 +1,1 @@
-var mnemonic = "pet glimpse never tuition wasp ankle decorate have point heart onion rose";
+var mnemonic = "replace trap example hood crush discover benefit nasty april wife route whale";

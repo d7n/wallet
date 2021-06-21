@@ -1,1 +1,1 @@
-var mnemonic = "cool divide lift finger plate increase credit inherit race mechanic captain happy";
+var mnemonic = "elephant mouse demand amused drop grief key feature food method acquire motion";

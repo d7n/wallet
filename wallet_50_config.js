@@ -1,1 +1,1 @@
-var mnemonic = "poet live vicious quantum horse cattle market claim certain hotel knife join";
+var mnemonic = "curve general sort quote gesture primary very monitor remember expand need spoon";

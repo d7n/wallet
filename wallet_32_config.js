@@ -1,1 +1,1 @@
-var mnemonic = "advance situate hill room fade feed mammal host cause merry other rude";
+var mnemonic = "fold setup math nuclear betray essence puppy venture version soup lounge dirt";

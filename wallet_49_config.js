@@ -1,1 +1,1 @@
-var mnemonic = "verb siren human mango note cruel humble fossil marble hamster deer develop";
+var mnemonic = "biology opinion beef camera health material harsh just warrior extend find jewel";

@@ -1,1 +1,1 @@
-var mnemonic = "peanut cruel little stairs labor yellow fever pond jump answer post index";
+var mnemonic = "assume success submit exclude slim doctor jelly snake mutual boy chapter normal";

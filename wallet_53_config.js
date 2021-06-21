@@ -1,1 +1,1 @@
-var mnemonic = "over salmon girl lonely tide human diamond laundry luggage mixture bullet muffin";
+var mnemonic = "find barrel federal type river slogan woman sail very salt praise you";

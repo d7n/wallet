@@ -1,1 +1,1 @@
-var mnemonic = "flight practice runway host weekend question beyond remove car drama debris harbor";
+var mnemonic = "mutual uniform memory solid shove unlock enhance neutral sorry click retire decline";

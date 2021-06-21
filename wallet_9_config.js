@@ -1,1 +1,1 @@
-var mnemonic = "example oyster stomach base glide shove fork system trumpet focus future demand";
+var mnemonic = "apart way banana lady vehicle fragile entry first diesel knife cliff favorite";

@@ -1,1 +1,1 @@
-var mnemonic = "omit betray judge quote deer expand fall deer impose service heavy buzz";
+var mnemonic = "shuffle song much bachelor arrow victory shield great health ketchup horse shoot";

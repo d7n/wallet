@@ -1,1 +1,1 @@
-var mnemonic = "chief wire hood pattern wide unable grit way extend skull forget office";
+var mnemonic = "swarm outdoor whisper vintage tone super fence glass flat dwarf thumb dawn";

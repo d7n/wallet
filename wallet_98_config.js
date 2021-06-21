@@ -1,1 +1,1 @@
-var mnemonic = "october police motor frog suspect update vivid broken member action road chest";
+var mnemonic = "assume notice carry month song entire pitch wool canyon spike analyst age";

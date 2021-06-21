@@ -1,1 +1,1 @@
-var mnemonic = "east hidden pact actor buffalo carbon crouch client bottom garment tribe dry";
+var mnemonic = "aisle dog sniff science indoor crash miss prepare beef trophy normal normal";

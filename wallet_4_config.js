@@ -1,1 +1,1 @@
-var mnemonic = "left gallery bicycle glue child expect exercise eyebrow nice fold auction become";
+var mnemonic = "chat essay little venue best relax pottery seek punch model debris shrimp";

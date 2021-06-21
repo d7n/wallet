@@ -1,1 +1,1 @@
-var mnemonic = "amount lunar easy hat goddess clay admit carry guess shift prison universe";
+var mnemonic = "surface blade book violin dynamic force bring float alarm upgrade accident secret";

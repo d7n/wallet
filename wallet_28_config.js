@@ -1,1 +1,1 @@
-var mnemonic = "junk boost either pool student sound valid cabbage surround dial spot include";
+var mnemonic = "walnut repair escape ship sustain civil praise trigger obscure country thought roof";

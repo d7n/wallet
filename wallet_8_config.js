@@ -1,1 +1,1 @@
-var mnemonic = "manual work spray bid tortoise brass plug danger garment father despair relax";
+var mnemonic = "tomato head praise dilemma consider surge essence weather update day climb obvious";

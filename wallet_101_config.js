@@ -1,1 +1,1 @@
-var mnemonic = "one notable anger fan start claw carpet muscle mammal dry ten please";
+var mnemonic = "impose raise sister employ feed funny whip near people asthma deliver pipe";

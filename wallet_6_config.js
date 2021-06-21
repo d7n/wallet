@@ -1,1 +1,1 @@
-var mnemonic = "artist treat whip narrow tower beauty want hybrid slim drum sword arctic";
+var mnemonic = "boss illegal enemy strike fold fever morning cook expire hurry exercise eager";

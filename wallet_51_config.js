@@ -1,1 +1,1 @@
-var mnemonic = "click bamboo token fat canyon join add text room later border true";
+var mnemonic = "slab rocket rapid off surround loan tissue squirrel law almost then boring";

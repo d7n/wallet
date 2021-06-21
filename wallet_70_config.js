@@ -1,1 +1,1 @@
-var mnemonic = "section mechanic silver chaos lend cereal creek door bone permit aware wrestle";
+var mnemonic = "secret detail movie again cup bone resemble pizza cement venture word fresh";

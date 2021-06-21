@@ -1,1 +1,1 @@
-var mnemonic = "decline erupt then surface quarter rib local sunset manage lobster trap keep";
+var mnemonic = "fiscal blush pretty pupil dinosaur obey push captain wood metal canoe guide";

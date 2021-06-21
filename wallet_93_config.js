@@ -1,1 +1,1 @@
-var mnemonic = "atom final illness artist lucky what devote brief oil cancel pattern high";
+var mnemonic = "timber calm bounce crystal cereal give confirm tone burger decrease lawsuit risk";

@@ -1,1 +1,1 @@
-var mnemonic = "coconut chef excuse asthma whisper earth reason smooth broccoli crime dwarf admit";
+var mnemonic = "globe endorse project resist produce visit filter decade add flag prison announce";

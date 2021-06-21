@@ -1,1 +1,1 @@
-var mnemonic = "few give script august empower already profit polar crunch news extra clinic";
+var mnemonic = "spatial gap illness ozone route basic ten divide rude ginger universe shop";

@@ -1,1 +1,1 @@
-var mnemonic = "alpha favorite boat name blossom dwarf letter candy limit dry mansion fault";
+var mnemonic = "fancy pet drift sock smooth exclude question movie trouble movie pen dinosaur";

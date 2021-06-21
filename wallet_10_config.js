@@ -1,1 +1,1 @@
-var mnemonic = "fetch misery return reopen light mimic this patient anchor need clog dove";
+var mnemonic = "denial harbor jelly bitter pyramid truth powder silent hockey female enrich bid";

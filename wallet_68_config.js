@@ -1,1 +1,1 @@
-var mnemonic = "comfort answer foot just prize airport truly high pretty shell usage stick";
+var mnemonic = "second narrow camera muffin appear whale bottom coyote elder gold zoo gospel";

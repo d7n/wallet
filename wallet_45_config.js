@@ -1,1 +1,1 @@
-var mnemonic = "enforce exchange under lawn human wreck sphere chaos ask ethics busy tuition";
+var mnemonic = "device blur mixed pool rebel person you call blame detect essay decrease";

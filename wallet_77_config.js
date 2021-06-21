@@ -1,1 +1,1 @@
-var mnemonic = "cancel hover spatial require wedding flee island foil shuffle fancy reduce moment";
+var mnemonic = "credit route menu athlete myth gown general tissue emotion zoo stable weird";

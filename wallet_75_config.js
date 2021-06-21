@@ -1,1 +1,1 @@
-var mnemonic = "company job device brief narrow bar chicken segment domain mimic math slab";
+var mnemonic = "minor gossip wool blast snake develop legend helmet pig demand ghost sample";

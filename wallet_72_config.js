@@ -1,1 +1,1 @@
-var mnemonic = "cage motor minimum disease man belt fuel useful chicken popular cool riot";
+var mnemonic = "stand choose combine army recipe trick acid myself copy attitude frozen glide";

@@ -1,1 +1,1 @@
-var mnemonic = "carpet host physical shuffle slab flash social execute lend engine arctic steak";
+var mnemonic = "piano version abandon duty parent wisdom measure funny minute survey catch useful";

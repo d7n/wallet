@@ -1,1 +1,1 @@
-var mnemonic = "neither resist betray uniform hurt era lake cook marine use maid garage";
+var mnemonic = "artefact weather sorry milk expire fun clarify behave aerobic struggle garlic grace";

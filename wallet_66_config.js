@@ -1,1 +1,1 @@
-var mnemonic = "round firm adapt loyal young issue genius drift turtle cigar rescue gain";
+var mnemonic = "wash kid bounce where room gather luggage kite survey nice south alter";

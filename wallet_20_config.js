@@ -1,1 +1,1 @@
-var mnemonic = "hungry slow photo alien feature input suspect shock siege tackle mom grit";
+var mnemonic = "include primary sad drift cheap hidden amazing advice wild sphere drastic misery";

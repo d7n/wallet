@@ -1,1 +1,1 @@
-var mnemonic = "few tape front disease ski tuna type addict ribbon motion joke cash";
+var mnemonic = "inquiry steel symptom gift glow legend margin physical alarm hood wear reform";

@@ -1,1 +1,1 @@
-var mnemonic = "isolate joke umbrella runway include decide elevator salmon effort trend ball father";
+var mnemonic = "heart benefit attitude giant layer liberty drift next word typical venue elegant";

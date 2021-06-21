@@ -1,1 +1,1 @@
-var mnemonic = "knife keen pave endorse road toward belt obvious opera offer three salute";
+var mnemonic = "merge warrior mix speed piano earn bulb toy build recall barely cotton";

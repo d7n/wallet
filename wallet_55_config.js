@@ -1,1 +1,1 @@
-var mnemonic = "metal discover visit crazy excite novel rival shop meat amateur region cupboard";
+var mnemonic = "decade alien goat insect thumb mask fly sound glide easy top disorder";

@@ -1,1 +1,1 @@
-var mnemonic = "bar truly holiday lift lounge design major wide web hybrid prosper bubble";
+var mnemonic = "receive rally egg exotic pulp angry aisle mango tornado wheel pink swing";

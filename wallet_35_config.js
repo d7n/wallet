@@ -1,1 +1,1 @@
-var mnemonic = "orbit spray omit mutual banner accuse lobster habit gauge zero wire cross";
+var mnemonic = "horn base chimney loop glove play husband east bag defense trend shrimp";

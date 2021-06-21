@@ -1,1 +1,1 @@
-var mnemonic = "jar sell common run move online actual fly tree antenna island ladder";
+var mnemonic = "sister unfold orbit weapon forward trumpet aunt demise fancy museum target reunion";

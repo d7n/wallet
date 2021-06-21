@@ -1,1 +1,1 @@
-var mnemonic = "floor orient family essence advice depend energy strategy bubble brown sunny country";
+var mnemonic = "brief second horse valley edit depend dose cross transfer great vote trap";

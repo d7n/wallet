@@ -1,1 +1,1 @@
-var mnemonic = "walnut cinnamon vote tag farm rotate seven hockey fine narrow inform skate";
+var mnemonic = "april deputy embark exile hold trash tuna join mansion crane grant excess";

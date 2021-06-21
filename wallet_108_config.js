@@ -1,1 +1,1 @@
-var mnemonic = "fox ice buyer equal happy anger solid dress wish feed two guard";
+var mnemonic = "mirror drastic receive excuse edit battle public child strategy arctic autumn usage";

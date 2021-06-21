@@ -1,1 +1,1 @@
-var mnemonic = "regular surface object sorry system enemy lock fetch cloud secret birth replace";
+var mnemonic = "village away rubber time current rebel excess crisp economy hobby mule umbrella";

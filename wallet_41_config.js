@@ -1,1 +1,1 @@
-var mnemonic = "defense ancient laptop soccer tiger kitchen animal pumpkin worry patient pumpkin tennis";
+var mnemonic = "toss radio satoshi three october end arctic annual proof plug unknown visa";

@@ -1,1 +1,1 @@
-var mnemonic = "walk february begin route truly inform fetch wink find raw tissue wonder";
+var mnemonic = "border cruel rack indicate fine bar dignity enforce frequent bunker endorse lazy";

@@ -1,1 +1,1 @@
-var mnemonic = "joy input dish obscure involve aunt leader fruit raccoon trash apart design";
+var mnemonic = "under hamster window jelly judge cram man oblige tumble sausage youth brass";

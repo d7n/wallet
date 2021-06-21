@@ -1,1 +1,1 @@
-var mnemonic = "pony curious tiger ten blur wage business enter teach giant deer middle";
+var mnemonic = "exclude plunge flip tone dad congress grass nerve make throw update mosquito";

@@ -1,1 +1,1 @@
-var mnemonic = "salad gap electric exotic hard off layer crop axis erode script evil";
+var mnemonic = "palm gospel amount slice sheriff mass swear banana slogan artwork zone mail";

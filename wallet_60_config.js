@@ -1,1 +1,1 @@
-var mnemonic = "train shrimp tomato agree oval dawn dry hair theme ability tomato claw";
+var mnemonic = "saddle favorite dad certain super method creek hire fence seminar people fun";

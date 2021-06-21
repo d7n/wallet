@@ -1,1 +1,1 @@
-var mnemonic = "trophy ankle muscle double foam turtle limb jeans hair invite push fly";
+var mnemonic = "hunt anger famous wrestle sweet spy earn captain hospital table muscle symptom";

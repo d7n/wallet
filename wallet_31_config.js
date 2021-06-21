@@ -1,1 +1,1 @@
-var mnemonic = "blouse weasel air original police lunch carpet belt smooth hand kiss negative";
+var mnemonic = "under tail bonus unaware pact giraffe shift story shiver diary insect tube";

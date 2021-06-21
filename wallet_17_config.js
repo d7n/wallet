@@ -1,1 +1,1 @@
-var mnemonic = "sight supply group upper autumn broken pond attract snake course vague mule";
+var mnemonic = "gaze all enlist coin enhance where vintage puzzle man wait stove visual";

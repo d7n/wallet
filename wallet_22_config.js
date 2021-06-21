@@ -1,1 +1,1 @@
-var mnemonic = "skin drift jungle rug category song way ignore debate feed monkey pledge";
+var mnemonic = "salon immune hamster cancel distance piece craft inhale raw bring hedgehog quick";

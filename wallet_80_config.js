@@ -1,1 +1,1 @@
-var mnemonic = "fold dial surround penalty slush put hen moon myth urban venture pelican";
+var mnemonic = "feed survey oblige snap dentist enhance faith earn train job desk gaze";

@@ -1,1 +1,1 @@
-var mnemonic = "drastic potato end garlic toddler can supreme lend holiday trigger comfort style";
+var mnemonic = "orange battle letter glance horse keep orange multiply syrup act jacket else";

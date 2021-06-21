@@ -1,1 +1,1 @@
-var mnemonic = "sorry path three situate flip add another amateur left ethics enemy call";
+var mnemonic = "consider sail decorate vault bench action mix mass narrow ready web flip";

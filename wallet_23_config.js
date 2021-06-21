@@ -1,1 +1,1 @@
-var mnemonic = "salute reject airport chaos burden scare amateur primary wheat speed elite used";
+var mnemonic = "domain embody disorder cabin state dirt phrase same crouch upon travel sample";

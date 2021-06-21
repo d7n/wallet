@@ -1,1 +1,1 @@
-var mnemonic = "country special rapid deputy bleak call cupboard tank blast fiscal december help";
+var mnemonic = "fabric pudding lottery gaze cube asset eight success prosper sure exhibit uphold";

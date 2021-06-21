@@ -1,1 +1,1 @@
-var mnemonic = "wife festival swift they equal kitchen ready ahead idea predict measure high";
+var mnemonic = "kid hole include have vague rain crew super defy minimum avocado boring";

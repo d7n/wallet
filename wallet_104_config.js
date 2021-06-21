@@ -1,1 +1,1 @@
-var mnemonic = "churn shoe spice truth cute pyramid vibrant rabbit device rabbit armed coyote";
+var mnemonic = "since obscure pull where still elegant love kind immune move lazy toilet";

@@ -1,1 +1,1 @@
-var mnemonic = "member purchase judge neutral climb large afraid must essence useful trim farm";
+var mnemonic = "relief spot favorite gain question lens kit oblige reason aspect loan hello";

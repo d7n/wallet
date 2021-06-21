@@ -1,1 +1,1 @@
-var mnemonic = "donate valve text skin van dolphin rain life pave museum drama evidence";
+var mnemonic = "black leg vital attract survey garage civil metal begin learn grocery develop";

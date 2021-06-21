@@ -1,1 +1,1 @@
-var mnemonic = "pill shuffle school client later author omit moon mercy drama cotton pig";
+var mnemonic = "hen work hello text blush frost ripple bachelor donor demise detect exhibit";

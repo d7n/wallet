@@ -1,1 +1,1 @@
-var mnemonic = "ancient chapter music ripple magnet aware feed shy olive manage effort roast";
+var mnemonic = "curve boost isolate cactus object chaos welcome skull bike ghost elite mistake";

@@ -1,1 +1,1 @@
-var mnemonic = "rough worry catch picture recall enhance together eight fluid unusual able smile";
+var mnemonic = "credit multiply onion garage own client acoustic weasel prefer cattle muffin buddy";

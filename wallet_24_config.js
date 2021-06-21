@@ -1,1 +1,1 @@
-var mnemonic = "harvest smoke hedgehog plug blush then ranch family gossip win employ evolve";
+var mnemonic = "carpet smart kitten fancy siren census half original develop move skin garment";

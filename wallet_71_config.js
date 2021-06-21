@@ -1,1 +1,1 @@
-var mnemonic = "gravity script silk spend ozone engine never physical label choice civil barrel";
+var mnemonic = "task faith empty common episode latin laptop gorilla food nose extend lamp";

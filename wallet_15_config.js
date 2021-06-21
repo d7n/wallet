@@ -1,1 +1,1 @@
-var mnemonic = "island regret enforce picnic desk awkward involve siege flame portion switch celery";
+var mnemonic = "crew connect foam gold boil glance uphold boring notable swamp spell angle";

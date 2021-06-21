@@ -1,1 +1,1 @@
-var mnemonic = "leg fancy unusual rough festival august damp bonus evoke pride engage settle";
+var mnemonic = "item snake gospel castle remain impulse fat fan share miss angle reduce";

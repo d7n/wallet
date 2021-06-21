@@ -1,1 +1,1 @@
-var mnemonic = "diet online achieve marble toilet face powder estate clutch live ill harvest";
+var mnemonic = "hill crowd fog seed trick pulse mountain wage west curtain test bag";

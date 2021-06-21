@@ -1,1 +1,1 @@
-var mnemonic = "junior feature peace injury peace oblige foil dove regular south enemy lamp";
+var mnemonic = "legal uncle party junk dumb gain wise example yellow brother host bring";

@@ -1,1 +1,1 @@
-var mnemonic = "december today duty warm smooth will trigger topple regret blade okay upgrade";
+var mnemonic = "know today debate plate announce glove false camp increase quantum absorb make";
