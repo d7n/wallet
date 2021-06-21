@@ -1,1 +1,1 @@
-var mnemonic = "flower jaguar love slam exile gold slice oxygen water term tip valid";
+var mnemonic = "language top arrest defense task useful upset negative animal become sister bitter";

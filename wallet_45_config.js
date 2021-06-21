@@ -1,1 +1,1 @@
-var mnemonic = "lunar embark wheat ketchup laptop path leg satoshi one oval equip ketchup";
+var mnemonic = "tide heavy grab hill shock tomato engine recipe half scrub provide zero";

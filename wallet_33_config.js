@@ -1,1 +1,1 @@
-var mnemonic = "destroy accident evoke normal topic foam wild crawl ring danger announce outer";
+var mnemonic = "clump talk silver monkey vote network direct paper over glow deer program";

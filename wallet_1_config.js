@@ -1,1 +1,1 @@
-var mnemonic = "pepper host extra armor admit congress palace subway theory deny police royal";
+var mnemonic = "note shell castle lyrics cattle acquire pause come neck correct occur soldier";

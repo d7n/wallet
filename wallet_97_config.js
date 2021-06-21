@@ -1,1 +1,1 @@
-var mnemonic = "theme melody december coach slush amused wild meat chase shuffle stay shell";
+var mnemonic = "nothing vacant farm lumber impulse area pledge situate indoor catch chaos include";

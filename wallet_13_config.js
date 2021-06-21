@@ -1,1 +1,1 @@
-var mnemonic = "explain laundry vital group story horse decade require quarter unlock obey episode";
+var mnemonic = "imitate early plastic position stadium bring despair ridge census fortune midnight outer";

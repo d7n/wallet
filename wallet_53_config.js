@@ -1,1 +1,1 @@
-var mnemonic = "purity lumber puppy smart there pond nut few palm okay play hospital";
+var mnemonic = "panel extend alarm belt wrong cricket erupt chest script bitter atom soup";

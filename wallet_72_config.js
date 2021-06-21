@@ -1,1 +1,1 @@
-var mnemonic = "method profit rail interest verify chest anger orphan seek demise airport radio";
+var mnemonic = "vivid raw lunch angle vacant receive survey blouse fatal crawl opera broom";

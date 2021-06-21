@@ -1,1 +1,1 @@
-var mnemonic = "reform hockey weasel gap now when ecology actual whip lion ride remove";
+var mnemonic = "fat own matrix metal age pride quit motion message maple gravity engage";

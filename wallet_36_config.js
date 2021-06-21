@@ -1,1 +1,1 @@
-var mnemonic = "border shell daughter sand hurt purpose neck absent cherry route hybrid urge";
+var mnemonic = "choose chef tobacco hard coin flip never need wrist tissue tone tattoo";

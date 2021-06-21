@@ -1,1 +1,1 @@
-var mnemonic = "list chalk bullet december vehicle possible cruise gloom random raven asset web";
+var mnemonic = "inflict play oil enlist sound ten small pulp minute soft baby artwork";

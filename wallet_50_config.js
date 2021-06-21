@@ -1,1 +1,1 @@
-var mnemonic = "youth parent link attitude surprise inhale dice then brass soap false task";
+var mnemonic = "document broccoli tired lamp bike cause victory scale affair super escape buddy";

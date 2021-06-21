@@ -1,1 +1,1 @@
-var mnemonic = "type behave crystal token flag engine smile lecture nothing title good erosion";
+var mnemonic = "shift together eyebrow pond shoot advance assault master course budget approve blast";

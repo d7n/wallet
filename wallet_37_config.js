@@ -1,1 +1,1 @@
-var mnemonic = "kind glide pool token flag device write wash rice item person index";
+var mnemonic = "category across jungle reflect february volume vendor work cannon tower unfair snap";

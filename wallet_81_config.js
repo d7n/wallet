@@ -1,1 +1,1 @@
-var mnemonic = "donate camp enroll journey chase height butter congress monkey company radio winter";
+var mnemonic = "pupil second volcano blind corn reform skill impulse present erosion talk below";

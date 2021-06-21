@@ -1,1 +1,1 @@
-var mnemonic = "improve eagle sea genre price punch soup hammer ozone interest fringe crisp";
+var mnemonic = "focus slide slam law assume length slight ghost mountain moon group pioneer";

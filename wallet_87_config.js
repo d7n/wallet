@@ -1,1 +1,1 @@
-var mnemonic = "walnut fame option best fever casino venture phone hedgehog follow gift very";
+var mnemonic = "pioneer apple neutral scene click vehicle echo nephew common winner load feature";

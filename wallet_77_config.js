@@ -1,1 +1,1 @@
-var mnemonic = "forum amused basket tray deal stem improve resemble speed rigid upgrade load";
+var mnemonic = "bronze truck helmet fire bitter exclude can ostrich toddler lumber pyramid female";

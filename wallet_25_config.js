@@ -1,1 +1,1 @@
-var mnemonic = "traffic under cost market gallery slab visa truth check photo gold cattle";
+var mnemonic = "cabbage excess away only deer short beef cash submit visit provide divorce";

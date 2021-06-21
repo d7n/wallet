@@ -1,1 +1,1 @@
-var mnemonic = "math lesson guess enact million force space use amazing viable swap also";
+var mnemonic = "glove much melody frozen deputy shine close cable sight left cry come";

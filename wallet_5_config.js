@@ -1,1 +1,1 @@
-var mnemonic = "update pact very race diamond vessel setup move birth expire neutral front";
+var mnemonic = "device fence forget fiscal exile control rifle cinnamon kitten aisle inner gown";

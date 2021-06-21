@@ -1,1 +1,1 @@
-var mnemonic = "rib divert dry flight spice hold tip muffin organ soldier bomb entire";
+var mnemonic = "burger runway guard bottom tragic behave furnace truth cross suit brisk woman";

@@ -1,1 +1,1 @@
-var mnemonic = "alert satoshi change cupboard craft add sleep eye vague expand grief opera";
+var mnemonic = "arrest situate cross viable joy genius segment fatal merit object syrup flip";

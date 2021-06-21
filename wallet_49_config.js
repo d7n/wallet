@@ -1,1 +1,1 @@
-var mnemonic = "pet later flower traffic act nerve adapt chronic embark scatter prefer whip";
+var mnemonic = "cage uncle idea bargain drip embark video alone excess trouble young ordinary";

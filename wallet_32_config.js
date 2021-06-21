@@ -1,1 +1,1 @@
-var mnemonic = "lake collect upset social parent follow screen still offer produce into spell";
+var mnemonic = "harsh detect peace blade ridge teach file denial tent ahead absurd grocery";

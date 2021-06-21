@@ -1,1 +1,1 @@
-var mnemonic = "chicken current divert acoustic rapid prevent circle toward asthma museum walk slow";
+var mnemonic = "inform fringe parrot potato author airport betray fluid gorilla laptop budget man";

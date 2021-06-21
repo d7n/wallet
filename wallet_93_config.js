@@ -1,1 +1,1 @@
-var mnemonic = "tide hub find cushion tobacco piece enhance jazz senior fall blame shop";
+var mnemonic = "move curve alter relief pond verb gentle soup boil note when boat";

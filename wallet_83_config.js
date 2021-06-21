@@ -1,1 +1,1 @@
-var mnemonic = "one piano repeat rebel symbol swift arch crew glow wire game exist";
+var mnemonic = "rose cabin junk neck tube suffer rack obtain robot give frown gown";

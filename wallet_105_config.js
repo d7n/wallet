@@ -1,1 +1,1 @@
-var mnemonic = "canal oil witness top day universe taste relax nest race vibrant enough";
+var mnemonic = "balcony victory avoid drift tape model venue trial game jungle hobby tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "volume gloom pottery rare visit aerobic genuine opera regular smooth state lecture";
+var mnemonic = "erode aware inside final disagree sustain float true purity caution force language";

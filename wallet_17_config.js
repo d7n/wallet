@@ -1,1 +1,1 @@
-var mnemonic = "rain host bubble canal gossip pen various siege brown lion depart law";
+var mnemonic = "civil help special kitchen list convince present priority start unveil foot genius";

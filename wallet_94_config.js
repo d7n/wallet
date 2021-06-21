@@ -1,1 +1,1 @@
-var mnemonic = "tongue fame sentence beach mobile olive summer hunt juice basket neutral marble";
+var mnemonic = "dry strong home swear gallery hotel brave hungry network direct obscure smoke";

@@ -1,1 +1,1 @@
-var mnemonic = "woman marble skirt raw domain life athlete cup still chef quick exotic";
+var mnemonic = "mimic flag gold luggage narrow copper grain dirt glue clap idle vicious";

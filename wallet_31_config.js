@@ -1,1 +1,1 @@
-var mnemonic = "guilt moon join recycle stuff raccoon correct typical desk digital disorder aisle";
+var mnemonic = "help middle fish sell service mass farm inspire taste wave tilt three";

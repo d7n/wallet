@@ -1,1 +1,1 @@
-var mnemonic = "warfare receive artefact gravity dice average oblige panther trust dilemma anger lunch";
+var mnemonic = "obtain sugar stumble fat stumble baby fame warrior friend couch title oven";

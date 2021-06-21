@@ -1,1 +1,1 @@
-var mnemonic = "scout soft shadow debate blast marble coil gorilla sustain over faculty convince";
+var mnemonic = "butter vague produce copper strike kick offer major destroy country capital powder";

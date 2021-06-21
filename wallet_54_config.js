@@ -1,1 +1,1 @@
-var mnemonic = "secret kit place tank ancient fade goose carpet liberty month rocket ranch";
+var mnemonic = "sting era logic ghost hold beef spoil blast fade cactus stock couple";

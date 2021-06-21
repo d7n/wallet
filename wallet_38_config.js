@@ -1,1 +1,1 @@
-var mnemonic = "clog animal vanish scheme soccer donate pause since avoid side slow tattoo";
+var mnemonic = "copper bright casino razor patrol ugly garment afford boss april casino true";

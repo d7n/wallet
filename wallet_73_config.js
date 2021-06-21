@@ -1,1 +1,1 @@
-var mnemonic = "combine admit keep wrist domain rifle repeat south exile exist wrap basic";
+var mnemonic = "knife sweet issue spot deposit mass inhale clinic front abstract aunt clock";

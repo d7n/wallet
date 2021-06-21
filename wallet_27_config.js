@@ -1,1 +1,1 @@
-var mnemonic = "term charge loop judge stadium wasp clarify local hammer key method gospel";
+var mnemonic = "bargain swarm vacant orphan lottery exercise sand gate diet puzzle knee oak";

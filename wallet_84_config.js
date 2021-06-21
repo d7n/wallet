@@ -1,1 +1,1 @@
-var mnemonic = "myself dirt huge impact orchard myth limit budget cabbage forum enable truth";
+var mnemonic = "forward enact reduce tiny monster hedgehog main flight blood capital nut slide";

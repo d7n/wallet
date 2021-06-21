@@ -1,1 +1,1 @@
-var mnemonic = "drink please future state unlock labor era output oxygen acid art crane";
+var mnemonic = "spatial bachelor gym visual depth borrow gallery balance flash basket multiply eyebrow";

@@ -1,1 +1,1 @@
-var mnemonic = "cannon system arctic spoil document omit wisdom whale define burst injury advice";
+var mnemonic = "scorpion same bid clerk coral couple yellow menu cushion shoulder verify entry";

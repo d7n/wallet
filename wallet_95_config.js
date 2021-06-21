@@ -1,1 +1,1 @@
-var mnemonic = "slab sight produce decorate wine cattle satoshi chalk bounce chef sleep drum";
+var mnemonic = "robust pilot depend female easy alert hamster term sea ranch furnace cart";

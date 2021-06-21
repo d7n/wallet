@@ -1,1 +1,1 @@
-var mnemonic = "margin shine ability donor kiwi traffic squeeze chapter suffer twin fee wild";
+var mnemonic = "lonely common decide sentence social divert merge battle virtual patch hidden bullet";

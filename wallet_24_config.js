@@ -1,1 +1,1 @@
-var mnemonic = "able ready penalty tuna useful neglect butter silly media repeat snow strike";
+var mnemonic = "multiply shallow aware blade dismiss case sad explain session cry pyramid juice";

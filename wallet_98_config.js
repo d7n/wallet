@@ -1,1 +1,1 @@
-var mnemonic = "near dolphin laundry ancient embody source tool jaguar ship cluster uncle west";
+var mnemonic = "trim knife mushroom curtain mesh govern live snap nominee short field quantum";

@@ -1,1 +1,1 @@
-var mnemonic = "uniform web federal drum brain road require motor glue average try grocery";
+var mnemonic = "occur fresh dumb cactus creek clip nuclear laptop verb fluid dice pepper";

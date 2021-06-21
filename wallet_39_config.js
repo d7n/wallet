@@ -1,1 +1,1 @@
-var mnemonic = "leaf dignity notable mother order arrange verify survey loyal provide best pass";
+var mnemonic = "inhale wedding length gap glance memory found urban basket erase muffin cruel";

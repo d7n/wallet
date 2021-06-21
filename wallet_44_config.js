@@ -1,1 +1,1 @@
-var mnemonic = "struggle soon panther canoe away movie what home cry glad pass smoke";
+var mnemonic = "drip mesh sugar wool robust area review custom client parent object foil";

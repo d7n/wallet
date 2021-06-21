@@ -1,1 +1,1 @@
-var mnemonic = "chicken much typical town tongue hub spring bleak awkward adult gift about";
+var mnemonic = "gown hire will wheel gossip swap stove beyond file tongue bullet lobster";

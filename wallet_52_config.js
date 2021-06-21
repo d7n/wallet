@@ -1,1 +1,1 @@
-var mnemonic = "web swallow setup february shy tree blush bird tree skill bus vendor";
+var mnemonic = "boss tide east coast guess cancel dragon clump bracket pluck price dwarf";

@@ -1,1 +1,1 @@
-var mnemonic = "lumber hand vague hand winner asset plug antenna night join april moral";
+var mnemonic = "tortoise have private armed cloud mammal theme wrap noodle place black tiger";

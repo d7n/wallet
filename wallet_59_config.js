@@ -1,1 +1,1 @@
-var mnemonic = "vivid sustain grunt future pretty gift auto service hire erupt depth spatial";
+var mnemonic = "gift top ridge perfect bone soldier waste shove govern cushion surge buzz";

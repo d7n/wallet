@@ -1,1 +1,1 @@
-var mnemonic = "tone clean swing coast rail emotion lock middle brave wait small pudding";
+var mnemonic = "disorder machine donor neutral arch wheel off roof exercise actress fiber square";

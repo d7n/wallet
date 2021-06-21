@@ -1,1 +1,1 @@
-var mnemonic = "happy merge fade employ palm wreck eye clay scene prison thrive access";
+var mnemonic = "clarify hotel fire method visit idea path smile grief athlete giant coin";

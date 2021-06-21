@@ -1,1 +1,1 @@
-var mnemonic = "wolf visit merry pepper shop youth used age lift strong elder cave";
+var mnemonic = "jar dilemma aerobic obscure school panel embrace artwork six rate trend situate";

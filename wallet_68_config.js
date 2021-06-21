@@ -1,1 +1,1 @@
-var mnemonic = "impact elbow elevator topple menu stairs away much easily boil mirror december";
+var mnemonic = "length talent deny rich flock elephant weather vital daring belt bomb kind";

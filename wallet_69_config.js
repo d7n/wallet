@@ -1,1 +1,1 @@
-var mnemonic = "injury demand huge lumber track zone wire scheme phone lawsuit tube sheriff";
+var mnemonic = "afraid wonder solution bronze scene large tribe alert utility shield tip load";

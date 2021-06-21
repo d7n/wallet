@@ -1,1 +1,1 @@
-var mnemonic = "rate nation mixture twenty motor blast news grow chalk riot core leg";
+var mnemonic = "march maximum desk hidden zone aware spider require reveal reject cargo crush";

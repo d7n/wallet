@@ -1,1 +1,1 @@
-var mnemonic = "limb core lonely dry cute pink shrimp scissors figure cover crime excuse";
+var mnemonic = "dismiss reward key deliver quit course forget regret zebra harsh lecture scan";

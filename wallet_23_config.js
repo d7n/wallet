@@ -1,1 +1,1 @@
-var mnemonic = "flower crunch diary waste beef undo task shy drum agent before random";
+var mnemonic = "choose whale antenna omit assault fruit fan session question ranch erupt blame";

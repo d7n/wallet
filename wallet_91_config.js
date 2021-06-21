@@ -1,1 +1,1 @@
-var mnemonic = "program witness level false uniform mule odor science sting child snake skirt";
+var mnemonic = "grief relax error apology soldier unfair join describe gadget fashion element picture";

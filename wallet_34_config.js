@@ -1,1 +1,1 @@
-var mnemonic = "broken frequent tuna pony action unveil lion arm brother usage test stage";
+var mnemonic = "surprise follow apple relief regret tortoise dust beach choice agree argue improve";

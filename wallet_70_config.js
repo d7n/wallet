@@ -1,1 +1,1 @@
-var mnemonic = "wrong post daughter execute rude unfold auto sleep rhythm story announce pulse";
+var mnemonic = "apart cactus elite cube satisfy atom forest armor naive grace item increase";

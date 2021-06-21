@@ -1,1 +1,1 @@
-var mnemonic = "ensure garage cave better bag can budget fence rich zone extend odor";
+var mnemonic = "traffic finger person grid employ dynamic trend okay erupt antique cake task";

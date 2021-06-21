@@ -1,1 +1,1 @@
-var mnemonic = "tumble mobile poem play renew opera near celery vast spoon peasant amazing";
+var mnemonic = "cinnamon message this wrong pet spoon inch select warm hair fork speak";

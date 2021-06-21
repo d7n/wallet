@@ -1,1 +1,1 @@
-var mnemonic = "sense bright valid undo panther urban cover circle unit fine glide next";
+var mnemonic = "extra city couple spice pole puppy chaos bitter scatter soup tool foot";

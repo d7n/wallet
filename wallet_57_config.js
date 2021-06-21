@@ -1,1 +1,1 @@
-var mnemonic = "merit moral amount donor goose open flush dutch elevator someone spy frozen";
+var mnemonic = "lab imitate crunch spirit zoo obscure mind glue shrimp frown address angle";

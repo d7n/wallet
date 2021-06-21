@@ -1,1 +1,1 @@
-var mnemonic = "grain broccoli awful duty defense place clinic can leader blast runway brother";
+var mnemonic = "crime panther attend rubber method intact zebra state athlete wave myth train";

@@ -1,1 +1,1 @@
-var mnemonic = "satisfy erosion innocent beauty twin deal panda cruel harsh plastic sauce spike";
+var mnemonic = "anchor sing fossil brass choice shield opinion goose spend rigid tree client";

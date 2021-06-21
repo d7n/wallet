@@ -1,1 +1,1 @@
-var mnemonic = "time prize drill trial hour analyst way speed come trap kind hospital";
+var mnemonic = "resemble ripple affair hour topic lava must siren gap mixed latin tumble";

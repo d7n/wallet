@@ -1,1 +1,1 @@
-var mnemonic = "spot forget beef cake memory sell north genius weather awesome chunk roast";
+var mnemonic = "atom melody foil ecology illegal false endless one jelly fuel foot shield";

@@ -1,1 +1,1 @@
-var mnemonic = "gasp then relief avocado song thrive script divorce floor bread exchange route";
+var mnemonic = "home tail tell clump oak absorb absorb ask smile attack pen any";

@@ -1,1 +1,1 @@
-var mnemonic = "calm feel they jealous tumble brother leg hen rail student mouse alley";
+var mnemonic = "resemble lucky tool polar various sign marble horse amount away gauge load";

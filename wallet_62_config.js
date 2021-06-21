@@ -1,1 +1,1 @@
-var mnemonic = "embody sell analyst story much point much outside swarm beef reason surprise";
+var mnemonic = "benefit spirit unveil laugh horror drip dish fashion use picture drill sail";

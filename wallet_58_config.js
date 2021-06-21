@@ -1,1 +1,1 @@
-var mnemonic = "tube three exist lunar latin pudding stick core amazing physical market animal";
+var mnemonic = "gloom arrange disorder blast person gap crane upper idea stove velvet hour";

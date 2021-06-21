@@ -1,1 +1,1 @@
-var mnemonic = "useful attract engage garage kangaroo mountain praise obey service salute unique eight";
+var mnemonic = "banana task bird suspect jump boy edit cotton client purpose lend start";

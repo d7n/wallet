@@ -1,1 +1,1 @@
-var mnemonic = "impact inhale wash replace razor uniform roast immense scatter erode depend million";
+var mnemonic = "fitness praise light rug engage royal marble team girl write faith old";

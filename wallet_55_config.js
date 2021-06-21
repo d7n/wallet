@@ -1,1 +1,1 @@
-var mnemonic = "arrest left lake mountain position hero unit idea rail special impact attend";
+var mnemonic = "dwarf cousin speak hour tell soccer agree dwarf advice obtain extend ancient";

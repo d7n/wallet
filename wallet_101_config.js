@@ -1,1 +1,1 @@
-var mnemonic = "nation anxiety acid beef select gossip federal artwork obtain found next isolate";
+var mnemonic = "fluid rib floor huge mistake issue word window parade tumble shaft leisure";

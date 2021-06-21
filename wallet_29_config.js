@@ -1,1 +1,1 @@
-var mnemonic = "assume escape also arrive minute equip media model sugar retire episode dish";
+var mnemonic = "crunch trial smile wild dose chaos gentle ranch company town winter vital";

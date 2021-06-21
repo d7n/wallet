@@ -1,1 +1,1 @@
-var mnemonic = "mix walk adapt praise invest program expect hint file gather enable usual";
+var mnemonic = "verb rapid door nut oil morning bonus quiz race echo exist left";

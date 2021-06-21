@@ -1,1 +1,1 @@
-var mnemonic = "learn keep little silent spend arena various globe fatal maple coral man";
+var mnemonic = "decline hope coin tribe size garlic chicken lazy domain mechanic true rubber";

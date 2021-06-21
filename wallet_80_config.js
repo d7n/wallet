@@ -1,1 +1,1 @@
-var mnemonic = "seed birth expect trophy beef giraffe lecture match glory silver drink adapt";
+var mnemonic = "tooth bacon clip spider giggle lawn few globe naive bargain people concert";

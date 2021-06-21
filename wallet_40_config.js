@@ -1,1 +1,1 @@
-var mnemonic = "alter rack flock thing clog pact enlist north slogan chronic moon pig";
+var mnemonic = "earn cushion stock rebuild wheel ritual innocent note myself brief silk army";

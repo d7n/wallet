@@ -1,1 +1,1 @@
-var mnemonic = "patient ranch two network luxury daughter indoor file transfer uncover hair need";
+var mnemonic = "leaf term tilt ethics praise remind vintage mountain person boring gasp weather";

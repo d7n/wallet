@@ -1,1 +1,1 @@
-var mnemonic = "strike farm retire license lock bridge empty afraid kick injury corn process";
+var mnemonic = "music once green tennis steak cave earth wife volume filter filter labor";

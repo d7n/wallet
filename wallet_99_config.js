@@ -1,1 +1,1 @@
-var mnemonic = "among crime taste scene belt garment debate that call during head obvious";
+var mnemonic = "quit slogan arrow fitness phrase coast stone option shell song throw amateur";

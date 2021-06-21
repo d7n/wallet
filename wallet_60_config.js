@@ -1,1 +1,1 @@
-var mnemonic = "habit engine island weekend sock loud famous boil tongue opinion rapid skull";
+var mnemonic = "language glow guitar provide timber agree guide spread lunar around drum slide";

@@ -1,1 +1,1 @@
-var mnemonic = "prize quiz machine rich salmon nut luggage finger useless amateur volume ladder";
+var mnemonic = "hidden dwarf cotton immune oppose exercise sadness chalk song noble present luxury";
