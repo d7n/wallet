@@ -1,1 +1,1 @@
-var mnemonic = "disease laugh episode axis rubber vanish include junior tunnel harsh mushroom struggle";
+var mnemonic = "student lamp offer soul route sea slight virtual shy fork office tuition";

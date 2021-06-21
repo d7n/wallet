@@ -1,1 +1,1 @@
-var mnemonic = "eagle option suit nominee decrease record hand liar joke leopard ensure brick";
+var mnemonic = "motor laptop utility motor cheese behave panic save split two stumble street";

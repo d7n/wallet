@@ -1,1 +1,1 @@
-var mnemonic = "excuse autumn remember parade horn girl hair story chat round fork borrow";
+var mnemonic = "pond garden slow pulp parrot swift peanut faculty sound give street humble";

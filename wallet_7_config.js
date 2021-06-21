@@ -1,1 +1,1 @@
-var mnemonic = "pen world youth adjust photo loud shield produce stock enable danger state";
+var mnemonic = "easily midnight upper canyon winter stereo endless tape submit baby topic suspect";

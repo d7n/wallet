@@ -1,1 +1,1 @@
-var mnemonic = "gadget baby talk orchard rough service render rail cargo ignore dust settle";
+var mnemonic = "fever wink dose evoke stage talk swallow obey exist time acoustic catalog";

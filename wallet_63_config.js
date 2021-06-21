@@ -1,1 +1,1 @@
-var mnemonic = "excite quarter suit lucky spring tortoise zoo naive project unable catch remind";
+var mnemonic = "pride post winter size lunar vanish tunnel twenty concert used pencil dirt";

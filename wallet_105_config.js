@@ -1,1 +1,1 @@
-var mnemonic = "actress make repair border genre wash slogan obey pen goat spike student";
+var mnemonic = "flush share stand tiger tennis tape click plate swallow fuel exhaust shell";

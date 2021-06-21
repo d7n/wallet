@@ -1,1 +1,1 @@
-var mnemonic = "eye method current banana below number payment output parrot pluck scale ramp";
+var mnemonic = "honey cream aunt refuse circle slow velvet wine hunt slender confirm client";

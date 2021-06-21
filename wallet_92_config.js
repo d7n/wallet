@@ -1,1 +1,1 @@
-var mnemonic = "inmate spoon tenant play focus rubber more rail pact town artwork auction";
+var mnemonic = "angle bottom heart hope coyote output bless casino spare ghost flight chicken";

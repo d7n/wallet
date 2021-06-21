@@ -1,1 +1,1 @@
-var mnemonic = "practice pool laugh glance pipe suggest chase bright defense matrix craft final";
+var mnemonic = "pilot teach wash dry detail chest airport wing ranch know shaft tiny";

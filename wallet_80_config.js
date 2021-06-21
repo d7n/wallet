@@ -1,1 +1,1 @@
-var mnemonic = "finish final state slender pupil soul strong number pave easy glad favorite";
+var mnemonic = "stumble exchange gravity era hungry glass quality canvas expect comic smooth advance";

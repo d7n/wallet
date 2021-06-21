@@ -1,1 +1,1 @@
-var mnemonic = "always tail trick dress sign below assist warfare nest analyst expose page";
+var mnemonic = "mango true correct debris coral viable deny tumble please mechanic genuine joke";

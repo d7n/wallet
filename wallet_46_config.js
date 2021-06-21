@@ -1,1 +1,1 @@
-var mnemonic = "power copy sport toe smile final salmon science spawn notice rhythm still";
+var mnemonic = "code poet dance dial comfort magic swamp subject merge rigid brass pill";

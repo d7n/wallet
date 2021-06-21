@@ -1,1 +1,1 @@
-var mnemonic = "woman omit valve bench evil only kitten tonight eight helmet leave bulb";
+var mnemonic = "roast clutch food monster keen follow victory popular eye gloom fire rally";

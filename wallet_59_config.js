@@ -1,1 +1,1 @@
-var mnemonic = "mandate fame saddle cook quit believe post dish favorite release myth impulse";
+var mnemonic = "damp gossip skirt sing leave bubble kangaroo build employ guitar quote typical";

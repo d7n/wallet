@@ -1,1 +1,1 @@
-var mnemonic = "divide stairs sun little scheme shove good paddle luxury panel pulp sense";
+var mnemonic = "scene educate slot scheme plastic lunch slide assault noise broccoli charge piece";

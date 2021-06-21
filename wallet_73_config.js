@@ -1,1 +1,1 @@
-var mnemonic = "copy tongue expire myself street airport pipe october copper speed vacant vocal";
+var mnemonic = "will pear fringe shiver learn differ mystery middle project side often reflect";

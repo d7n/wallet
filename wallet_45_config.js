@@ -1,1 +1,1 @@
-var mnemonic = "roof approve paper notable pluck vocal addict magic frog taste coffee note";
+var mnemonic = "nurse deny error double please reward sibling air unit ramp discover zoo";

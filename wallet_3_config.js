@@ -1,1 +1,1 @@
-var mnemonic = "glare stuff tide mosquito detect flight truth matter label van pond idle";
+var mnemonic = "thumb pen slide rhythm relax cupboard door select peanut urban churn mimic";

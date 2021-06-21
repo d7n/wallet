@@ -1,1 +1,1 @@
-var mnemonic = "solar finish certain valve repair shoulder spawn gas ankle hair present strong";
+var mnemonic = "ski physical fee foam pioneer that move resource idle arrest sauce gate";

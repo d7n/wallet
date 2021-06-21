@@ -1,1 +1,1 @@
-var mnemonic = "expose syrup aisle convince mandate gossip sauce kingdom voyage route absorb junk";
+var mnemonic = "suffer crew syrup attack violin cupboard rely erosion talk alley cake connect";

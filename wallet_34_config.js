@@ -1,1 +1,1 @@
-var mnemonic = "surprise song entry pepper furnace make age turtle any gift inspire problem";
+var mnemonic = "repeat drama pear cost security average web olympic spike distance hobby inch";

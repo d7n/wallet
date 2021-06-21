@@ -1,1 +1,1 @@
-var mnemonic = "bar ride paddle hamster couch supply unaware follow excess column good knife";
+var mnemonic = "hollow bone fancy mind evolve coach vicious destroy actual ski brief interest";

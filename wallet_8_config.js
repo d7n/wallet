@@ -1,1 +1,1 @@
-var mnemonic = "lesson wet federal taste until bracket melt hello amazing panic stove weird";
+var mnemonic = "knee chef ask advice robust snack multiply fly install inject wasp napkin";

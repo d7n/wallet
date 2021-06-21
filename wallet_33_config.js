@@ -1,1 +1,1 @@
-var mnemonic = "quit purchase casual nice figure disorder ritual trade mammal half chronic ozone";
+var mnemonic = "rent execute bar lift unusual welcome program engine organ minor foam world";

@@ -1,1 +1,1 @@
-var mnemonic = "ill sense enlist almost armed breeze december similar acoustic friend talk fee";
+var mnemonic = "critic tomorrow sock mosquito then ecology want swallow like runway another grain";

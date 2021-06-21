@@ -1,1 +1,1 @@
-var mnemonic = "frozen arm grit pyramid genius judge pass honey brother track lyrics aim";
+var mnemonic = "juice river position lawsuit build rare pretty general uncover calm atom stomach";

@@ -1,1 +1,1 @@
-var mnemonic = "green want much siege special chief expose fiber opinion rich weapon embrace";
+var mnemonic = "cute grunt can era flame lecture bullet toilet puppy avoid near fox";

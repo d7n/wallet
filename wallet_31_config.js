@@ -1,1 +1,1 @@
-var mnemonic = "cluster future ability above monkey patch exotic leader talk rival search click";
+var mnemonic = "thing torch lucky physical limit sort injury zone spice hold endless rug";

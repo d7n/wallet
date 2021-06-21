@@ -1,1 +1,1 @@
-var mnemonic = "win trouble bonus oak negative stay fit drip genre tortoise invest risk";
+var mnemonic = "half nut medal soup joke seminar pitch remain day lend hen grain";

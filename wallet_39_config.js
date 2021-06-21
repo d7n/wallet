@@ -1,1 +1,1 @@
-var mnemonic = "tired distance rice fabric edit submit empower loyal coast buyer gown empower";
+var mnemonic = "science pelican casino surface solution soft undo welcome elbow vintage fat sphere";

@@ -1,1 +1,1 @@
-var mnemonic = "scale biology swap metal habit there pyramid kind solution combine satisfy own";
+var mnemonic = "level weapon fortune danger potato exhibit sustain below symptom harsh dutch network";

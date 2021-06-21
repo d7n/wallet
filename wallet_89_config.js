@@ -1,1 +1,1 @@
-var mnemonic = "erase invite stadium witness deer brass embody pony buyer tobacco remember catalog";
+var mnemonic = "addict mammal pelican myself will size argue still stick kit pigeon unusual";

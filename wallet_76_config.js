@@ -1,1 +1,1 @@
-var mnemonic = "win kind wolf slide distance impulse dirt good liberty penalty genius hunt";
+var mnemonic = "raven normal hold atom below color utility opinion acquire chuckle key boss";

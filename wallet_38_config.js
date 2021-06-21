@@ -1,1 +1,1 @@
-var mnemonic = "boy margin silly room guess digital river steak omit grow three again";
+var mnemonic = "copper body link metal strong maze raven clump era envelope cool hood";

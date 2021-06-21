@@ -1,1 +1,1 @@
-var mnemonic = "rule tomato wealth unable ball girl lounge point midnight hidden enjoy sock";
+var mnemonic = "blue lady rare uniform silver crane cable lounge find labor mercy silent";

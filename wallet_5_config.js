@@ -1,1 +1,1 @@
-var mnemonic = "nest swallow rather awful bulb six yard find tool core random whisper";
+var mnemonic = "exchange family tail now rain fix damp stay property autumn nasty rough";

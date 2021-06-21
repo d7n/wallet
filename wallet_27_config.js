@@ -1,1 +1,1 @@
-var mnemonic = "summer attack grain myself history hand traffic segment just height wear rent";
+var mnemonic = "margin secret start pass trade foot ivory memory pair crater regular lawn";

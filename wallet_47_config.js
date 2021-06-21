@@ -1,1 +1,1 @@
-var mnemonic = "recycle fiscal length wink pear cricket avocado mixed shove naive wear inflict";
+var mnemonic = "error auction laugh repair female pipe stairs service flee heart average winter";

@@ -1,1 +1,1 @@
-var mnemonic = "wish dismiss now swing suit limit body husband angle dumb equal drive";
+var mnemonic = "loop cost aunt shoe stairs host census twist vault gesture brisk vanish";

@@ -1,1 +1,1 @@
-var mnemonic = "bird athlete entire fox sick absurd park door melody wire veteran bamboo";
+var mnemonic = "ten suspect pitch market shell palace hand paddle lazy venture video best";

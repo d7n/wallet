@@ -1,1 +1,1 @@
-var mnemonic = "rural retreat clog wish tiger afraid attract jewel addict emerge east delay";
+var mnemonic = "sugar repair genuine culture female crater lobster lunch piece design monster latin";

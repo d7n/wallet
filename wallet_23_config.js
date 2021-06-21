@@ -1,1 +1,1 @@
-var mnemonic = "assume prepare cross culture short evil chunk sentence sea sea index side";
+var mnemonic = "already shrug truck moon boil search airport boring fold dwarf below clay";

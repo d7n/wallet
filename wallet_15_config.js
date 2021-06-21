@@ -1,1 +1,1 @@
-var mnemonic = "oppose weird across message response sense strong motion shift alien woman announce";
+var mnemonic = "system tissue hybrid gas arrange priority pool rescue elite benefit limit spray";

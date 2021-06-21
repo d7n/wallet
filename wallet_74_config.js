@@ -1,1 +1,1 @@
-var mnemonic = "regular border valve popular mesh sell very pencil note inch wave drill";
+var mnemonic = "gesture draw appear device envelope know celery manage right exchange knock first";

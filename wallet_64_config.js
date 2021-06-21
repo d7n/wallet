@@ -1,1 +1,1 @@
-var mnemonic = "hurry earth cloud swap alcohol artist modify sun material dial ball unveil";
+var mnemonic = "spider craft winner prison they upgrade brand volume shaft goddess sustain pony";

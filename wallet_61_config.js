@@ -1,1 +1,1 @@
-var mnemonic = "boil radar poem syrup decade trap lend oval year drill oppose include";
+var mnemonic = "funny health chef december sort demise base crush sport jewel dash neglect";

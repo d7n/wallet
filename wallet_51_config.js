@@ -1,1 +1,1 @@
-var mnemonic = "captain pelican horror jazz enforce tank empower stay two pupil else general";
+var mnemonic = "wall hip sketch glow emotion radio twelve trash ankle miracle milk because";

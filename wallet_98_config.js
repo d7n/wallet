@@ -1,1 +1,1 @@
-var mnemonic = "pulse romance vacuum loan civil mind eight problem axis summer acoustic lion";
+var mnemonic = "reunion very praise august area amount oyster dumb winner ill receive shop";

@@ -1,1 +1,1 @@
-var mnemonic = "keep control suffer world practice primary horn dust father ski mule fatigue";
+var mnemonic = "romance smart liberty mail language inherit depth rude session occur senior addict";

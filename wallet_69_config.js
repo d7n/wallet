@@ -1,1 +1,1 @@
-var mnemonic = "chair arena melody evolve egg remember bachelor drum coin submit beyond pudding";
+var mnemonic = "excuse bitter often trash cross erupt race dog force raw escape cage";

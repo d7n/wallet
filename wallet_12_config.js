@@ -1,1 +1,1 @@
-var mnemonic = "maximum crazy fantasy couch repeat express powder hard neglect room absent shift";
+var mnemonic = "home twice lesson risk subject balance repair century essence gas west debris";

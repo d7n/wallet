@@ -1,1 +1,1 @@
-var mnemonic = "sauce rubber donkey floor bargain pipe idle addict impose nerve seed acquire";
+var mnemonic = "noise cloud trip canoe body upon oxygen assault amateur divide cross emerge";

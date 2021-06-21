@@ -1,1 +1,1 @@
-var mnemonic = "casino ready favorite vintage tower flush pet evidence galaxy link shrimp valve";
+var mnemonic = "swear giant chunk penalty evidence build gasp tube impulse pact sight good";

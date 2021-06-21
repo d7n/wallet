@@ -1,1 +1,1 @@
-var mnemonic = "dress fury detail need depend venue alert marine divert hidden pave used";
+var mnemonic = "rookie vapor inflict resist silly absurd engage vague charge casual reveal link";

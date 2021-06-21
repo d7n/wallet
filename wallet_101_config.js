@@ -1,1 +1,1 @@
-var mnemonic = "habit fetch appear collect weasel vote wing wrap minor nurse method unfair";
+var mnemonic = "area inhale jump census album cruise elevator forest someone slide engage crime";

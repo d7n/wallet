@@ -1,1 +1,1 @@
-var mnemonic = "clutch giggle demise deposit cycle assault capable turtle capable walnut pilot slot";
+var mnemonic = "average tribe toy earn delay usage speed enlist round boost glimpse crane";

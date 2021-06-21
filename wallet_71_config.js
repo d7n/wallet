@@ -1,1 +1,1 @@
-var mnemonic = "dolphin peace vibrant biology legend shaft sure uniform train note orange burger";
+var mnemonic = "before merge minimum burger cause side safe depth mesh stage fish swap";

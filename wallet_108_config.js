@@ -1,1 +1,1 @@
-var mnemonic = "pencil put cluster file tell make blind ski erode skin taste expire";
+var mnemonic = "slender someone avoid young amateur balcony join advice accuse awkward cloth spider";

@@ -1,1 +1,1 @@
-var mnemonic = "hold comic acquire clock move cement primary easily survey fabric novel cluster";
+var mnemonic = "general cool elder tackle rather multiply salon orient very evoke breeze matter";

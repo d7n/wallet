@@ -1,1 +1,1 @@
-var mnemonic = "rather cry turtle error vanish strategy little analyst mimic frost flat relief";
+var mnemonic = "swim soon title gauge move patch ostrich capital trial route web pledge";

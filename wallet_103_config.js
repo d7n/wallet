@@ -1,1 +1,1 @@
-var mnemonic = "tray kit airport dash harbor oblige merry often find public version grid";
+var mnemonic = "solve gold grit club divert shiver weekend warrior use coil income quick";

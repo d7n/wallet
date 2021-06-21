@@ -1,1 +1,1 @@
-var mnemonic = "arrange sting vault key refuse music lab pretty present turn symptom vivid";
+var mnemonic = "pond assist open aspect twist horror ten harvest science coral maze below";

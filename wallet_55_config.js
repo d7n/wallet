@@ -1,1 +1,1 @@
-var mnemonic = "antenna space limb parade bring copper gown session glimpse demand van breeze";
+var mnemonic = "patient street produce used behave produce tribe harvest kick only better relax";

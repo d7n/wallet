@@ -1,1 +1,1 @@
-var mnemonic = "detail artist pluck cave ripple token spice casino can early clown cargo";
+var mnemonic = "voice model parent rate sport unique dice spoon check fiction danger ostrich";

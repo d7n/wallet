@@ -1,1 +1,1 @@
-var mnemonic = "eager beyond wise zero ridge wisdom forget educate drop van finish ribbon";
+var mnemonic = "grant street element west engage absent raccoon unaware lounge walk luggage learn";

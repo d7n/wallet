@@ -1,1 +1,1 @@
-var mnemonic = "pull maid canoe cable script wealth scare tray dance vault pill lemon";
+var mnemonic = "grunt jazz remind innocent leaf radar sport mesh lion inquiry hollow lazy";

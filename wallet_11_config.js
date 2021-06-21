@@ -1,1 +1,1 @@
-var mnemonic = "stuff pond buzz clarify arena affair side dash tiny wet copper reward";
+var mnemonic = "unlock short renew left federal web gold dwarf live switch giant hollow";

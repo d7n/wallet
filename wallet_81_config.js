@@ -1,1 +1,1 @@
-var mnemonic = "adjust knee have genre upset stumble struggle course inside fuel day group";
+var mnemonic = "lucky boring cupboard flash soldier green industry pretty pioneer future hidden bacon";

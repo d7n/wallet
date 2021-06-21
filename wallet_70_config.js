@@ -1,1 +1,1 @@
-var mnemonic = "sick ridge talent select original forward brush canyon someone potato credit stem";
+var mnemonic = "kick laugh robust lizard insect flavor slot text delay company category lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "bulb legal fiber forget doll bargain hockey banana fade category when cable";
+var mnemonic = "retire puppy swarm art matrix cup mesh dice deliver believe board inflict";

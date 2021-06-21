@@ -1,1 +1,1 @@
-var mnemonic = "jewel kitchen swift crouch snake token today home eager spy hazard bounce";
+var mnemonic = "neck improve victory canoe wine route armor strategy news flee then rail";

@@ -1,1 +1,1 @@
-var mnemonic = "merry together soft dice hip miss joke short wet warfare peasant polar";
+var mnemonic = "river when sight car fitness movie april blind spice pelican behind garlic";

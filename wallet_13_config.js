@@ -1,1 +1,1 @@
-var mnemonic = "truck staff assist clump group ridge pistol satoshi okay volume garage clarify";
+var mnemonic = "invite sunset output alcohol wire picture bag iron bonus season hair nephew";

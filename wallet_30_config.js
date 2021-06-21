@@ -1,1 +1,1 @@
-var mnemonic = "shop release quick place scrap shrug skate tank stick alcohol during nothing";
+var mnemonic = "update case fall wise lady desert identify vintage bounce weasel door frame";

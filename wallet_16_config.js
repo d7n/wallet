@@ -1,1 +1,1 @@
-var mnemonic = "wife winter barrel unfair section laptop keep clarify recipe volume exchange worry";
+var mnemonic = "same often duck umbrella ghost bitter patient cloud endorse smooth prize oppose";

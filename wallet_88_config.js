@@ -1,1 +1,1 @@
-var mnemonic = "survey alarm vendor man august ring legal bird injury winner electric spin";
+var mnemonic = "nut genre scene vital sign number flock ladder machine embrace become person";

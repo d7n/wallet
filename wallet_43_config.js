@@ -1,1 +1,1 @@
-var mnemonic = "aspect staff allow pitch usual guard stone maple benefit monkey neck secret";
+var mnemonic = "focus misery lumber dinosaur okay mix nose stuff spawn client average parrot";

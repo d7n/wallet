@@ -1,1 +1,1 @@
-var mnemonic = "main sea train exclude chef wrist fame gather priority inject siege embody";
+var mnemonic = "heart hope body trumpet device ill flame friend ozone daring wash mobile";

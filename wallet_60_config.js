@@ -1,1 +1,1 @@
-var mnemonic = "stick banana spread fatigue want city bench truth coffee copper body drama";
+var mnemonic = "capable hurry lady blast lazy maple discover naive olympic pipe salt door";

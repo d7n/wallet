@@ -1,1 +1,1 @@
-var mnemonic = "forget stock since era abuse timber mixed salmon host section spy blade";
+var mnemonic = "runway arm original guilt top detect crumble alarm rice call strong clap";

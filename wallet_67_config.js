@@ -1,1 +1,1 @@
-var mnemonic = "victory interest slow end cave lounge adapt action act happy fatigue dose";
+var mnemonic = "document alien insane elite dinner spot relax mountain about order board timber";

@@ -1,1 +1,1 @@
-var mnemonic = "enemy cave cluster mirror eyebrow salon element key analyst recycle crystal symbol";
+var mnemonic = "mail black sad violin pill amateur tenant shallow zone yard note tilt";

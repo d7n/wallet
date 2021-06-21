@@ -1,1 +1,1 @@
-var mnemonic = "calm casino asset medal feature rate ocean clock violin mystery leader slice";
+var mnemonic = "thunder legend toast hawk burden vast never camp strong vital risk six";

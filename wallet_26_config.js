@@ -1,1 +1,1 @@
-var mnemonic = "nephew spirit mammal plate throw violin sand hurt usual peanut arm settle";
+var mnemonic = "sauce seek educate royal weapon thank message february south battle bread follow";

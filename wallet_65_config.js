@@ -1,1 +1,1 @@
-var mnemonic = "destroy box reflect write wool guitar broccoli waste clip scare wild ahead";
+var mnemonic = "action world car evoke model enjoy oppose patient slice crouch kiwi right";

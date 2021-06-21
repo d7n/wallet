@@ -1,1 +1,1 @@
-var mnemonic = "label cube pass shoe fix axis drastic recycle surface sad unhappy manual";
+var mnemonic = "very reunion spider slender tail street purpose visa utility plate cotton ice";

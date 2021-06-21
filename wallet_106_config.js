@@ -1,1 +1,1 @@
-var mnemonic = "budget taste icon blast junior bag lemon someone another boss episode tide";
+var mnemonic = "piano library curious bean famous grain dilemma twice rookie upper talk oven";

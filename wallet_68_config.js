@@ -1,1 +1,1 @@
-var mnemonic = "mask hidden tenant unknown know bird survey category gaze hospital clinic bunker";
+var mnemonic = "ride office warrior leg play resist cancel wave drum forget road tourist";

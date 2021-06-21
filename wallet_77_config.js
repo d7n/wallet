@@ -1,1 +1,1 @@
-var mnemonic = "victory actress frost urban middle cloud say woman invite erode noodle firm";
+var mnemonic = "sauce milk kingdom pulp level rapid immune clerk obey resource senior gesture";
