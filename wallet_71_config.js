@@ -1,1 +1,1 @@
-var mnemonic = "train much catalog almost check spread never quit course owner under rose";
+var mnemonic = "gravity script silk spend ozone engine never physical label choice civil barrel";

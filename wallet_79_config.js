@@ -1,1 +1,1 @@
-var mnemonic = "glove alarm floor force series swap access replace board torch brick transfer";
+var mnemonic = "sample become clay rib virus dawn suffer sentence cheap gorilla robust soup";

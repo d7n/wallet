@@ -1,1 +1,1 @@
-var mnemonic = "derive title mix crucial kitchen sense industry obey marriage system pizza exile";
+var mnemonic = "elbow horn present exhibit sick lady because silent fragile tunnel another alley";

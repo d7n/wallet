@@ -1,1 +1,1 @@
-var mnemonic = "betray behave illness body wine predict record tiny leopard accuse flush average";
+var mnemonic = "number syrup rain surge short rocket tragic hello spring fashion coral grocery";

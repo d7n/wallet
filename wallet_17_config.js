@@ -1,1 +1,1 @@
-var mnemonic = "unaware stem asthma monster key grief museum strike answer tennis menu rate";
+var mnemonic = "sight supply group upper autumn broken pond attract snake course vague mule";

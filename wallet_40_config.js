@@ -1,1 +1,1 @@
-var mnemonic = "hungry wasp swamp online exile any fade develop tide clap window switch";
+var mnemonic = "cool divide lift finger plate increase credit inherit race mechanic captain happy";

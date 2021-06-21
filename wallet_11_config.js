@@ -1,1 +1,1 @@
-var mnemonic = "tide pen congress suspect system absurd math vote endless athlete photo glance";
+var mnemonic = "coast husband grace swear cash elite lift vague erode identify expose elegant";

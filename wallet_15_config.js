@@ -1,1 +1,1 @@
-var mnemonic = "ill vapor runway doctor surface once shift tennis rocket island chair pupil";
+var mnemonic = "island regret enforce picnic desk awkward involve siege flame portion switch celery";

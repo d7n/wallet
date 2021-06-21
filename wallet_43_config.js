@@ -1,1 +1,1 @@
-var mnemonic = "fish myself humble kind mad solid topple peasant dawn gallery erosion art";
+var mnemonic = "few give script august empower already profit polar crunch news extra clinic";

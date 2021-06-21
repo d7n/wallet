@@ -1,1 +1,1 @@
-var mnemonic = "retreat distance impose learn steel inflict tragic inquiry short candy half monster";
+var mnemonic = "coconut chef excuse asthma whisper earth reason smooth broccoli crime dwarf admit";

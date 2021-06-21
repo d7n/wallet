@@ -1,1 +1,1 @@
-var mnemonic = "wing axis furnace outdoor scrap artist dance fuel toy churn payment wasp";
+var mnemonic = "exchange add enlist admit list valid move subway supply awful tackle amateur";

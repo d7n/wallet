@@ -1,1 +1,1 @@
-var mnemonic = "leopard average gap item victory horn sign empower carry slim remember minute";
+var mnemonic = "sort parrot polar beef gospel push reject race minute skull goddess rack";

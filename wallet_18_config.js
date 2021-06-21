@@ -1,1 +1,1 @@
-var mnemonic = "figure student gentle icon negative tomato switch degree ticket expose betray label";
+var mnemonic = "inner pistol supply labor helmet ability pony birth poem derive glow critic";

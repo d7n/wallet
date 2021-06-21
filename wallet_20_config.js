@@ -1,1 +1,1 @@
-var mnemonic = "unable barrel grace file silver because friend transfer brick execute cart embark";
+var mnemonic = "hungry slow photo alien feature input suspect shock siege tackle mom grit";

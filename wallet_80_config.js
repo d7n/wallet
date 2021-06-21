@@ -1,1 +1,1 @@
-var mnemonic = "mutual mystery primary enough fix develop sunny never thunder trip knock paddle";
+var mnemonic = "fold dial surround penalty slush put hen moon myth urban venture pelican";

@@ -1,1 +1,1 @@
-var mnemonic = "tobacco remind gift chair umbrella setup sheriff coil head enable bubble year";
+var mnemonic = "pill shuffle school client later author omit moon mercy drama cotton pig";

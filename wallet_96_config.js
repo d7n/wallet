@@ -1,1 +1,1 @@
-var mnemonic = "medal express couch panther sauce often index select call garden curious used";
+var mnemonic = "omit betray judge quote deer expand fall deer impose service heavy buzz";

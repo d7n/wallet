@@ -1,1 +1,1 @@
-var mnemonic = "artefact crunch junior drill buzz version gauge toy march force replace hill";
+var mnemonic = "left gallery bicycle glue child expect exercise eyebrow nice fold auction become";

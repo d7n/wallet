@@ -1,1 +1,1 @@
-var mnemonic = "fury royal isolate dash sick picture month devote future resist core grocery";
+var mnemonic = "joy input dish obscure involve aunt leader fruit raccoon trash apart design";

@@ -1,1 +1,1 @@
-var mnemonic = "swear desert silent holiday execute erode month ozone inmate twin off add";
+var mnemonic = "member purchase judge neutral climb large afraid must essence useful trim farm";

@@ -1,1 +1,1 @@
-var mnemonic = "indicate pair mixture silver sail pizza spare peanut smart claim marriage because";
+var mnemonic = "churn shoe spice truth cute pyramid vibrant rabbit device rabbit armed coyote";

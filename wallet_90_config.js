@@ -1,1 +1,1 @@
-var mnemonic = "idle hover creek caution pair size lawsuit october silly found dolphin winter";
+var mnemonic = "trophy ankle muscle double foam turtle limb jeans hair invite push fly";

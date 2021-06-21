@@ -1,1 +1,1 @@
-var mnemonic = "welcome faith analyst vintage file auto strike they else consider brief jewel";
+var mnemonic = "fetch misery return reopen light mimic this patient anchor need clog dove";

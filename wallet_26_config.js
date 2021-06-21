@@ -1,1 +1,1 @@
-var mnemonic = "virtual baby point claw sustain indicate jaguar ranch glass all pond praise";
+var mnemonic = "travel modify expire lady hungry lucky dragon spare hunt practice source hat";

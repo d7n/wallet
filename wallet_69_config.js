@@ -1,1 +1,1 @@
-var mnemonic = "spider volume normal setup detect satisfy method lemon globe system what cry";
+var mnemonic = "peanut dinner large rebuild library silver attitude island spy kitchen avoid cake";

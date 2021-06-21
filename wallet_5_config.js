@@ -1,1 +1,1 @@
-var mnemonic = "guilt misery rug glory digital clown plunge pool acoustic atom drama inch";
+var mnemonic = "maze exclude leader metal merit sustain size prevent solve dad sunset rare";

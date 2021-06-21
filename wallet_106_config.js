@@ -1,1 +1,1 @@
-var mnemonic = "ozone carpet peasant spin mimic typical hawk meadow wing wait almost envelope";
+var mnemonic = "ridge ensure negative crew okay narrow excuse exchange illegal silent pattern inspire";

@@ -1,1 +1,1 @@
-var mnemonic = "sock then parrot track silly crisp vehicle taste praise hello team erupt";
+var mnemonic = "plate brain fiction dash helmet excite lamp ski raise polar business insect";

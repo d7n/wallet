@@ -1,1 +1,1 @@
-var mnemonic = "since room weird erase fence enforce wing custom boy act female exhibit";
+var mnemonic = "amount lunar easy hat goddess clay admit carry guess shift prison universe";

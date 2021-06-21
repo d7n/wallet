@@ -1,1 +1,1 @@
-var mnemonic = "review remain cherry brick enable symptom render clog adjust digital yard praise";
+var mnemonic = "decline erupt then surface quarter rib local sunset manage lobster trap keep";

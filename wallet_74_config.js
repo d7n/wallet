@@ -1,1 +1,1 @@
-var mnemonic = "bulk comfort time rubber brief page episode creek wire angle cabbage basic";
+var mnemonic = "east hidden pact actor buffalo carbon crouch client bottom garment tribe dry";

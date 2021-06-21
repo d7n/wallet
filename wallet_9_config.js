@@ -1,1 +1,1 @@
-var mnemonic = "mountain fence earth obey during physical baby rigid ship catalog film latin";
+var mnemonic = "example oyster stomach base glide shove fork system trumpet focus future demand";

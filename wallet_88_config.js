@@ -1,1 +1,1 @@
-var mnemonic = "midnight number make kitten truck document recall this when romance erase trigger";
+var mnemonic = "pony curious tiger ten blur wage business enter teach giant deer middle";

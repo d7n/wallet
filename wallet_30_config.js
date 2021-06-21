@@ -1,1 +1,1 @@
-var mnemonic = "valley cruise conduct oblige crop name dutch marble pill canoe borrow catalog";
+var mnemonic = "december today duty warm smooth will trigger topple regret blade okay upgrade";

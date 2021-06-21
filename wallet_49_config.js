@@ -1,1 +1,1 @@
-var mnemonic = "suit wife group profit together web beyond cat reopen phone clap moon";
+var mnemonic = "verb siren human mango note cruel humble fossil marble hamster deer develop";

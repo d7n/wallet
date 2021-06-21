@@ -1,1 +1,1 @@
-var mnemonic = "broken lucky present diet version north praise marble buzz govern warm minimum";
+var mnemonic = "rough worry catch picture recall enhance together eight fluid unusual able smile";

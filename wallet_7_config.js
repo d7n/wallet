@@ -1,1 +1,1 @@
-var mnemonic = "network beyond response gadget awful produce senior symbol border toss program roof";
+var mnemonic = "hurdle civil control can globe junior praise task tunnel swing actor staff";

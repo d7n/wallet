@@ -1,1 +1,1 @@
-var mnemonic = "friend history pencil letter sound remain gate benefit border romance bean account";
+var mnemonic = "pet glimpse never tuition wasp ankle decorate have point heart onion rose";

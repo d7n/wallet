@@ -1,1 +1,1 @@
-var mnemonic = "country cluster eight raccoon chuckle estate juice erase favorite tuna margin blood";
+var mnemonic = "train shrimp tomato agree oval dawn dry hair theme ability tomato claw";

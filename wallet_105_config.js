@@ -1,1 +1,1 @@
-var mnemonic = "office also before myth subway truly such rule stuff abuse creek absorb";
+var mnemonic = "cash knee visual garment patrol skate cousin action kind yard sick great";

@@ -1,1 +1,1 @@
-var mnemonic = "achieve place perfect bulk typical reunion release metal prepare heart spell inherit";
+var mnemonic = "august casual water choice vintage youth habit enough pear razor feel plastic";

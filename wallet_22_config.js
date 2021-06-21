@@ -1,1 +1,1 @@
-var mnemonic = "earth gold chuckle mixture ranch scorpion auction top fee insane talent aunt";
+var mnemonic = "skin drift jungle rug category song way ignore debate feed monkey pledge";

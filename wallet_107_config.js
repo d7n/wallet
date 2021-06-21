@@ -1,1 +1,1 @@
-var mnemonic = "fan sponsor jeans tank total flame degree disorder loyal napkin brick congress";
+var mnemonic = "few tape front disease ski tuna type addict ribbon motion joke cash";

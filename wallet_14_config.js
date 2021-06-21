@@ -1,1 +1,1 @@
-var mnemonic = "renew upset mind bullet menu silk gossip effort yellow author budget outdoor";
+var mnemonic = "ring certain dress tongue fetch final forward tuna task essay attend doll";

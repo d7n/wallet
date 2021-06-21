@@ -1,1 +1,1 @@
-var mnemonic = "notice lady monster virus inmate spawn toast animal disease luggage business jazz";
+var mnemonic = "ivory silent aim walk culture stage slogan nurse palace only bus vast";

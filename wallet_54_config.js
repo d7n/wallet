@@ -1,1 +1,1 @@
-var mnemonic = "mirror response syrup side kick monkey school galaxy beef hollow gym type";
+var mnemonic = "ancient chapter music ripple magnet aware feed shy olive manage effort roast";

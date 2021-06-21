@@ -1,1 +1,1 @@
-var mnemonic = "unaware recipe drop trap strong tonight select album prize gold comfort insane";
+var mnemonic = "alone warm memory option spend agent tiger dose creek slight fatal another";

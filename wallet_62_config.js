@@ -1,1 +1,1 @@
-var mnemonic = "youth machine normal fragile holiday cushion mimic gospel chaos gift dirt question";
+var mnemonic = "isolate joke umbrella runway include decide elevator salmon effort trend ball father";

@@ -1,1 +1,1 @@
-var mnemonic = "year lounge resemble panel lesson nominee scale foster wool swing loyal visual";
+var mnemonic = "advance situate hill room fade feed mammal host cause merry other rude";

@@ -1,1 +1,1 @@
-var mnemonic = "drift fatal pond skate hover below coyote offer trust damage symptom viable";
+var mnemonic = "harvest smoke hedgehog plug blush then ranch family gossip win employ evolve";

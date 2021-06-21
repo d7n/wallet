@@ -1,1 +1,1 @@
-var mnemonic = "front spoon odor tortoise coral wing bus together kit fork own measure";
+var mnemonic = "salad gap electric exotic hard off layer crop axis erode script evil";

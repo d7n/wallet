@@ -1,1 +1,1 @@
-var mnemonic = "strike middle feed sting either gadget dial neglect direct flag useful pigeon";
+var mnemonic = "company job device brief narrow bar chicken segment domain mimic math slab";

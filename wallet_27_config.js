@@ -1,1 +1,1 @@
-var mnemonic = "scrub correct chapter scale ill rubber nephew option verb legend brave crater";
+var mnemonic = "floor orient family essence advice depend energy strategy bubble brown sunny country";

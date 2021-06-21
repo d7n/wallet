@@ -1,1 +1,1 @@
-var mnemonic = "cup retire stone casual plastic harsh athlete uphold rubber canoe marble stomach";
+var mnemonic = "alpha favorite boat name blossom dwarf letter candy limit dry mansion fault";

@@ -1,1 +1,1 @@
-var mnemonic = "dignity exhaust team brain beach resist bridge material hole bird slam coach";
+var mnemonic = "country special rapid deputy bleak call cupboard tank blast fiscal december help";

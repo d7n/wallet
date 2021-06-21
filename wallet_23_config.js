@@ -1,1 +1,1 @@
-var mnemonic = "dry know purchase mind live track narrow spirit they kind feel item";
+var mnemonic = "salute reject airport chaos burden scare amateur primary wheat speed elite used";

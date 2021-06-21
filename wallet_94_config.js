@@ -1,1 +1,1 @@
-var mnemonic = "evoke chef athlete target sphere album scrub memory innocent rose feel loud";
+var mnemonic = "strong theory tilt kick eager walnut dial snap flock spare judge athlete";

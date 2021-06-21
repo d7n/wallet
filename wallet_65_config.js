@@ -1,1 +1,1 @@
-var mnemonic = "student local rally famous disorder gap sure truly mesh envelope purchase safe";
+var mnemonic = "act harsh shrug mixture sister float slim ceiling mystery subject fame abandon";

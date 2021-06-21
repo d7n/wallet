@@ -1,1 +1,1 @@
-var mnemonic = "rain buffalo curve notice over term summer kit all grace swear brass";
+var mnemonic = "jar sell common run move online actual fly tree antenna island ladder";

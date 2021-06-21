@@ -1,1 +1,1 @@
-var mnemonic = "trim awake above time flip hurt simple robot express arrow caution also";
+var mnemonic = "sorry path three situate flip add another amateur left ethics enemy call";

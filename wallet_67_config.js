@@ -1,1 +1,1 @@
-var mnemonic = "lottery lucky concert mixed exclude reform radar uniform candy seed enlist call";
+var mnemonic = "gas motion ripple point impulse rookie season protect crush remind lesson robust";

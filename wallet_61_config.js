@@ -1,1 +1,1 @@
-var mnemonic = "pause bridge slow special slam cost bird arrow ginger gap turn voyage";
+var mnemonic = "regular surface object sorry system enemy lock fetch cloud secret birth replace";

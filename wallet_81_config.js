@@ -1,1 +1,1 @@
-var mnemonic = "loop order loan flush art live entire come sand trend midnight volcano";
+var mnemonic = "diet online achieve marble toilet face powder estate clutch live ill harvest";

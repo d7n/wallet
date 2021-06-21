@@ -1,1 +1,1 @@
-var mnemonic = "usual razor order shove physical train little slim wrong audit magic comfort";
+var mnemonic = "bar truly holiday lift lounge design major wide web hybrid prosper bubble";

@@ -1,1 +1,1 @@
-var mnemonic = "toss labor since bless hollow box quantum weekend engine half decline obey";
+var mnemonic = "manual work spray bid tortoise brass plug danger garment father despair relax";

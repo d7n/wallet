@@ -1,1 +1,1 @@
-var mnemonic = "method cinnamon field multiply pledge milk evil hair found illegal goddess attend";
+var mnemonic = "october police motor frog suspect update vivid broken member action road chest";

@@ -1,1 +1,1 @@
-var mnemonic = "render matrix evoke tongue monster another fatigue embark stable rough fun symptom";
+var mnemonic = "orbit spray omit mutual banner accuse lobster habit gauge zero wire cross";

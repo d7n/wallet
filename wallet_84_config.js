@@ -1,1 +1,1 @@
-var mnemonic = "shove genius board august raven diary grace risk armed adult gate educate";
+var mnemonic = "knife keen pave endorse road toward belt obvious opera offer three salute";

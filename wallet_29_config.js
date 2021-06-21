@@ -1,1 +1,1 @@
-var mnemonic = "swift decorate hover very age kitten tube trade board neglect outdoor fiber";
+var mnemonic = "leg fancy unusual rough festival august damp bonus evoke pride engage settle";

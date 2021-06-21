@@ -1,1 +1,1 @@
-var mnemonic = "save route august reform exist toast recall coil grief estate poet hamster";
+var mnemonic = "chuckle fade tunnel cover grain mobile quality fiscal business blame bid rally";

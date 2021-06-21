@@ -1,1 +1,1 @@
-var mnemonic = "announce like protect unaware soup force industry harvest harbor scatter luxury dad";
+var mnemonic = "round firm adapt loyal young issue genius drift turtle cigar rescue gain";

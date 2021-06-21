@@ -1,1 +1,1 @@
-var mnemonic = "coach ramp april arrest expand glove entry ahead wheat twin opinion human";
+var mnemonic = "breeze turkey flame stable kit media blouse wrist wink prosper movie fringe";

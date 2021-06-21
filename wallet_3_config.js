@@ -1,1 +1,1 @@
-var mnemonic = "give present zero craft member sight next item chair rookie mansion auction";
+var mnemonic = "rib clerk say adult exclude front tree film toy illegal vivid blade";

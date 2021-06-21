@@ -1,1 +1,1 @@
-var mnemonic = "torch number actual alien pair black arrive cupboard cruel fox camera arrive";
+var mnemonic = "metal discover visit crazy excite novel rival shop meat amateur region cupboard";

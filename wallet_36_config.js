@@ -1,1 +1,1 @@
-var mnemonic = "jacket tag engine pact clump rapid thrive gift nerve spirit exotic waste";
+var mnemonic = "flight practice runway host weekend question beyond remove car drama debris harbor";

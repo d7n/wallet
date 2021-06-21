@@ -1,1 +1,1 @@
-var mnemonic = "soldier fork female knock language divorce involve lemon purse cruel broccoli predict";
+var mnemonic = "enforce exchange under lawn human wreck sphere chaos ask ethics busy tuition";

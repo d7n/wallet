@@ -1,1 +1,1 @@
-var mnemonic = "resemble gasp language pistol keen cinnamon school tornado wisdom return decrease smart";
+var mnemonic = "junior feature peace injury peace oblige foil dove regular south enemy lamp";

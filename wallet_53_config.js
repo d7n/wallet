@@ -1,1 +1,1 @@
-var mnemonic = "add mean busy pluck liar alpha clean pepper gesture moon scan face";
+var mnemonic = "over salmon girl lonely tide human diamond laundry luggage mixture bullet muffin";

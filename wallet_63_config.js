@@ -1,1 +1,1 @@
-var mnemonic = "legend bring dice dad milk rain hill hungry flag deliver flower mosquito";
+var mnemonic = "chief wire hood pattern wide unable grit way extend skull forget office";

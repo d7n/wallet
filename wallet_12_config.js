@@ -1,1 +1,1 @@
-var mnemonic = "salt march subject lift shallow reveal maximum winter pyramid snack crazy invite";
+var mnemonic = "peanut cruel little stairs labor yellow fever pond jump answer post index";

@@ -1,1 +1,1 @@
-var mnemonic = "crowd soup entire stamp finger fury parade miracle village enable pitch miss";
+var mnemonic = "cage motor minimum disease man belt fuel useful chicken popular cool riot";

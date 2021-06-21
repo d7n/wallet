@@ -1,1 +1,1 @@
-var mnemonic = "man oven million broken expire idle other prepare order race stay rally";
+var mnemonic = "section mechanic silver chaos lend cereal creek door bone permit aware wrestle";

@@ -1,1 +1,1 @@
-var mnemonic = "chair timber logic dragon sport join curious limit best humor term almost";
+var mnemonic = "private soldier apple ecology thank hollow scare identify focus correct ship wing";

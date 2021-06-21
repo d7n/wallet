@@ -1,1 +1,1 @@
-var mnemonic = "sell tower wisdom board crime pyramid change bright penalty coast protect cave";
+var mnemonic = "pull decade keen bulk depend say top volume upon stove grid doll";

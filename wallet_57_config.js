@@ -1,1 +1,1 @@
-var mnemonic = "pride drink alarm coyote later stove artefact decade flag embrace wash nominee";
+var mnemonic = "orchard fall company virtual potato choice senior twelve delay valley vault wire";

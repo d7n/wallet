@@ -1,1 +1,1 @@
-var mnemonic = "sea program future curious clever hurry auto slide chicken high left give";
+var mnemonic = "ordinary verify wrist surface cannon junior session dove attract bridge pudding bench";

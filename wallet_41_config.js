@@ -1,1 +1,1 @@
-var mnemonic = "pudding boring round sick mosquito become reduce uniform dragon doll best accident";
+var mnemonic = "defense ancient laptop soccer tiger kitchen animal pumpkin worry patient pumpkin tennis";

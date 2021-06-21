@@ -1,1 +1,1 @@
-var mnemonic = "flame relax lounge neck still flush grid damage magic peace affair unusual";
+var mnemonic = "walnut cinnamon vote tag farm rotate seven hockey fine narrow inform skate";

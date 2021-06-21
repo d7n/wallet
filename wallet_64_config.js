@@ -1,1 +1,1 @@
-var mnemonic = "very anger common scatter obvious student ceiling worth rug regular aim nose";
+var mnemonic = "neither resist betray uniform hurt era lake cook marine use maid garage";

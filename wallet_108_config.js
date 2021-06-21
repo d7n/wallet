@@ -1,1 +1,1 @@
-var mnemonic = "author better sense feature figure husband fork uncle quantum duck robust good";
+var mnemonic = "fox ice buyer equal happy anger solid dress wish feed two guard";

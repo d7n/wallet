@@ -1,1 +1,1 @@
-var mnemonic = "thrive soon document arena valve three science jar already follow split book";
+var mnemonic = "drastic potato end garlic toddler can supreme lend holiday trigger comfort style";

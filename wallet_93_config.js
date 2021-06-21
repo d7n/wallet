@@ -1,1 +1,1 @@
-var mnemonic = "between scrap distance nice banner shift wing tobacco kitten afford oblige achieve";
+var mnemonic = "atom final illness artist lucky what devote brief oil cancel pattern high";

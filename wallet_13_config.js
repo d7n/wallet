@@ -1,1 +1,1 @@
-var mnemonic = "valid catalog rail window cupboard number finger frog lava immune nice girl";
+var mnemonic = "walk february begin route truly inform fetch wink find raw tissue wonder";

@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur differ fruit tuna tell gesture crystal mountain tobacco review focus evil";
+var mnemonic = "wife festival swift they equal kitchen ready ahead idea predict measure high";

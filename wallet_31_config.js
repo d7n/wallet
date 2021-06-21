@@ -1,1 +1,1 @@
-var mnemonic = "sauce chunk begin device boil account spider delay issue dolphin identify certain";
+var mnemonic = "blouse weasel air original police lunch carpet belt smooth hand kiss negative";
