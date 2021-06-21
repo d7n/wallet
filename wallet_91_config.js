@@ -1,1 +1,1 @@
-var mnemonic = "junk forget toilet runway please feed mail lawsuit castle wink tackle lawsuit";
+var mnemonic = "lizard fame grape mirror dog clock piano mixed caution jeans crime velvet";

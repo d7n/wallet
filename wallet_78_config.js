@@ -1,1 +1,1 @@
-var mnemonic = "six muffin image jeans trust helmet rib envelope harvest casino neglect spray";
+var mnemonic = "metal clutch arrange foam carpet bargain turtle reflect season nice army nasty";

@@ -1,1 +1,1 @@
-var mnemonic = "bulb chest target random maple useful work cancel enrich snap sword diamond";
+var mnemonic = "grape penalty vote brush autumn actual amazing surprise attract rocket door solve";

@@ -1,1 +1,1 @@
-var mnemonic = "kitchen photo search advance federal lemon pyramid quit infant inhale parrot eager";
+var mnemonic = "shallow pause clog home save theme vacant tip syrup pulp stay feel";

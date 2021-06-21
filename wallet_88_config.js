@@ -1,1 +1,1 @@
-var mnemonic = "echo captain donkey keep body tomato detail essay error novel knee mom";
+var mnemonic = "prepare grocery word win morning crucial scheme giraffe crumble frame garden avocado";

@@ -1,1 +1,1 @@
-var mnemonic = "adapt path clog option seminar between curve retire hobby work embark flat";
+var mnemonic = "situate chimney mouse garage okay until circle uniform crack shock divert shuffle";

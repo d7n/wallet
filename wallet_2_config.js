@@ -1,1 +1,1 @@
-var mnemonic = "table club decade jeans debris lake pause umbrella rigid rib zoo proud";
+var mnemonic = "vacuum proof aspect knock under situate balance glare elephant grit try spray";

@@ -1,1 +1,1 @@
-var mnemonic = "giant shine scheme list boy swift already spy crew fury guess guitar";
+var mnemonic = "asthma certain outside visual usage wheat refuse group mind guard gauge lab";

@@ -1,1 +1,1 @@
-var mnemonic = "turn click junior garden change jacket supply slow gas radio science leave";
+var mnemonic = "economy yellow trouble ankle review board fringe venue cotton sound lobster aunt";

@@ -1,1 +1,1 @@
-var mnemonic = "liquid employ fire deputy toe caution drive unique click neither multiply convince";
+var mnemonic = "style series electric charge dinner stamp release sister gap penalty bonus federal";

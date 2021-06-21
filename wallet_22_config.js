@@ -1,1 +1,1 @@
-var mnemonic = "blouse cigar endorse upset extra eight fence evil believe hen figure team";
+var mnemonic = "poverty tag name entry engage lounge behave multiply potato off code cement";

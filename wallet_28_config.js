@@ -1,1 +1,1 @@
-var mnemonic = "narrow woman happy sun pottery hood again polar ordinary coast decide agent";
+var mnemonic = "deputy shadow region struggle battle pet genre minimum pink salmon uphold weapon";

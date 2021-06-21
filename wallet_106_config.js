@@ -1,1 +1,1 @@
-var mnemonic = "clutch polar major zebra amazing start cave salt dumb ripple nice dismiss";
+var mnemonic = "wild venue scorpion debris post afraid surge wrestle dial saddle pioneer clutch";

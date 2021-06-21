@@ -1,1 +1,1 @@
-var mnemonic = "harbor duty title there denial dolphin collect barrel great slab east sheriff";
+var mnemonic = "deposit fit hub grow speed wall under differ unfold mouse ritual sleep";

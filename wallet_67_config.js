@@ -1,1 +1,1 @@
-var mnemonic = "throw prevent guilt tree theme code distance pistol produce lamp basket cause";
+var mnemonic = "define bar kangaroo uncle filter scan weather novel lady draw uncle uncle";

@@ -1,1 +1,1 @@
-var mnemonic = "uphold slot then return slow reject humble perfect gate drift trim forest";
+var mnemonic = "reunion list minor cross dutch ahead tennis absorb pigeon kitchen gloom erase";

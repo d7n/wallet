@@ -1,1 +1,1 @@
-var mnemonic = "alone key egg month frog coconut orange post false neck scissors letter";
+var mnemonic = "confirm already riot crime mimic fiction cement lonely wink bar market twenty";

@@ -1,1 +1,1 @@
-var mnemonic = "describe endorse night come album shiver sound emotion machine devote arctic drill";
+var mnemonic = "head advance cattle innocent body alert female between bracket upper vocal body";

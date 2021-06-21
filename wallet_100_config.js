@@ -1,1 +1,1 @@
-var mnemonic = "duty ivory rifle trend waste crouch vocal giggle dilemma rain drama cargo";
+var mnemonic = "amateur current shrimp upgrade retreat access smile drum insane nephew survey eagle";

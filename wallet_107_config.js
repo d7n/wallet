@@ -1,1 +1,1 @@
-var mnemonic = "awful report dash lumber weather front hip phone cushion tonight victory stage";
+var mnemonic = "globe can position leopard stomach soda radio ecology inhale early cradle toy";

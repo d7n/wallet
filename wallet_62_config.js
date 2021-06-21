@@ -1,1 +1,1 @@
-var mnemonic = "ketchup brand dentist wear world dismiss child filter amazing mosquito blouse arena";
+var mnemonic = "boy cement sorry change wall special excite predict suffer inmate deny order";

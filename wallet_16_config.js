@@ -1,1 +1,1 @@
-var mnemonic = "evil acquire mom budget fatal witness pull identify used orange similar hover";
+var mnemonic = "such eager pizza erode oyster suspect object grab oppose sad salt virtual";

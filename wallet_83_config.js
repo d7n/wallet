@@ -1,1 +1,1 @@
-var mnemonic = "benefit base assist issue eagle sketch ceiling miss capital estate deny gun";
+var mnemonic = "giant fine swim person athlete sort deny height argue bracket affair march";

@@ -1,1 +1,1 @@
-var mnemonic = "spread net flag silly brief vague marble column fat increase february genuine";
+var mnemonic = "mail wood lazy park correct soap now betray jacket image ginger lunar";

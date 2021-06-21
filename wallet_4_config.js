@@ -1,1 +1,1 @@
-var mnemonic = "apple silly glare lava diamond canvas barely idle cannon style tourist potato";
+var mnemonic = "digital document purpose glove edit tissue abstract blanket sudden rifle stereo zoo";

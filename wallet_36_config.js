@@ -1,1 +1,1 @@
-var mnemonic = "bitter strategy swap exact cover enjoy arena grace casual pepper win despair";
+var mnemonic = "match benefit spring reduce butter goat crime rack extra program topple double";

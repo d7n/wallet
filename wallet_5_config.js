@@ -1,1 +1,1 @@
-var mnemonic = "jewel essence toward dizzy circle borrow high vapor broom skull stamp two";
+var mnemonic = "profit doctor differ blame daughter wagon better equal punch mechanic connect consider";

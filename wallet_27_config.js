@@ -1,1 +1,1 @@
-var mnemonic = "range myself basket cage sight movie estate wagon skill agent inside device";
+var mnemonic = "woman enough birth later noble great wasp casino patch solve recall depart";

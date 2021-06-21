@@ -1,1 +1,1 @@
-var mnemonic = "anger actor series mushroom silent company prosper heavy lawn cinnamon leisure scheme";
+var mnemonic = "custom chief foot deliver noble uncover buzz leg kit latin shine exchange";

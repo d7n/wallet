@@ -1,1 +1,1 @@
-var mnemonic = "snack casual trim bid biology actual episode tornado render open marine work";
+var mnemonic = "series cherry cup unusual maze satisfy hello search goddess barely amateur crystal";

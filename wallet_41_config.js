@@ -1,1 +1,1 @@
-var mnemonic = "improve spare someone together cancel wheat curve join peanut raven town frog";
+var mnemonic = "token artist audit prevent source long robot boy cash debris maple boat";

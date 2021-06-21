@@ -1,1 +1,1 @@
-var mnemonic = "senior tragic dilemma orphan hire swarm field february music middle census parade";
+var mnemonic = "finish miss side recipe input note poet casino trap moment pair squeeze";

@@ -1,1 +1,1 @@
-var mnemonic = "net glare lottery slab burger fade theory immense love empty visual nut";
+var mnemonic = "crater hold rain champion blur electric grab figure enter shadow brother south";

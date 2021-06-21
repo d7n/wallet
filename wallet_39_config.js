@@ -1,1 +1,1 @@
-var mnemonic = "hundred trick hint cool stool clock coil okay camera abandon excess multiply";
+var mnemonic = "proud emerge van angry sword rent tree carpet okay era kitchen post";

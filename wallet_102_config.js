@@ -1,1 +1,1 @@
-var mnemonic = "grace identify disagree hour light giggle drill eternal proof left liar shadow";
+var mnemonic = "tip time leave oblige rebuild disease south industry wing chef oblige paper";

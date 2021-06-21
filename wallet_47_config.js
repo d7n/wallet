@@ -1,1 +1,1 @@
-var mnemonic = "crouch fire genre forward judge father giggle lounge return install betray era";
+var mnemonic = "click large soap book sketch unveil science smooth seek daughter alpha dance";

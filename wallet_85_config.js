@@ -1,1 +1,1 @@
-var mnemonic = "gas rough acquire traffic club valid forum gown sock habit real disorder";
+var mnemonic = "breeze repair again number exact exotic cost bone earth neglect wage excuse";

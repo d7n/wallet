@@ -1,1 +1,1 @@
-var mnemonic = "merit group egg rail stove trade post increase arch nephew list cruel";
+var mnemonic = "ship toilet swallow notice dwarf crew tattoo rose tissue typical recall fan";

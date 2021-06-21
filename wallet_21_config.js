@@ -1,1 +1,1 @@
-var mnemonic = "south matter work medal mind shrug symptom veteran canal aim ceiling language";
+var mnemonic = "faculty tackle culture father photo hole limit daring salute return double minimum";

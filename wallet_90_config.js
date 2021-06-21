@@ -1,1 +1,1 @@
-var mnemonic = "kingdom upper cancel salmon hover entry embody sweet service analyst cash couch";
+var mnemonic = "illness metal flavor open axis resource initial virtual couch craft cinnamon extra";

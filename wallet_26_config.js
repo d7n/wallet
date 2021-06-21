@@ -1,1 +1,1 @@
-var mnemonic = "trouble laugh flat grief matrix term shoulder pyramid sell winner sock inch";
+var mnemonic = "inform layer sting orbit mention eager essay nurse craft jealous marriage author";

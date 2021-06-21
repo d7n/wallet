@@ -1,1 +1,1 @@
-var mnemonic = "online popular federal analyst van bamboo boring thing business moment old nose";
+var mnemonic = "magnet twist fragile often spider choice wood goose stem moment elevator universe";

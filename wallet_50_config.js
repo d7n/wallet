@@ -1,1 +1,1 @@
-var mnemonic = "frost awful talent science fire voice ivory hand also blind clean sweet";
+var mnemonic = "bless gather put twelve tobacco pony depart stomach twelve fit able achieve";

@@ -1,1 +1,1 @@
-var mnemonic = "sentence list patch furnace crater belt flower fresh net swallow seminar museum";
+var mnemonic = "appear dawn broom seven torch term decrease shiver swim wedding inherit oval";

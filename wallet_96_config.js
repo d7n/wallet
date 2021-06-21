@@ -1,1 +1,1 @@
-var mnemonic = "brass art torch west hurdle patrol choice tonight begin vessel agree balcony";
+var mnemonic = "mom because boat deer apology rigid trip involve sausage shuffle usage firm";

@@ -1,1 +1,1 @@
-var mnemonic = "innocent marriage finger ride estate power empty analyst luxury pigeon place dignity";
+var mnemonic = "normal fan anxiety vacuum trust neutral barrel infant document elevator raven anger";

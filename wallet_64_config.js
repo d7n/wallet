@@ -1,1 +1,1 @@
-var mnemonic = "torch drastic flavor pact fork wash day usual moon odor unique subway";
+var mnemonic = "message clip view brick code tower wealth own chef metal inch high";

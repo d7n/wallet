@@ -1,1 +1,1 @@
-var mnemonic = "affair squeeze slide burst neglect april renew short alpha maple pave chicken";
+var mnemonic = "green spot child vital dog sister humble book tunnel hamster crouch inch";

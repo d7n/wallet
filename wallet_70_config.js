@@ -1,1 +1,1 @@
-var mnemonic = "negative fragile cover valley exercise carpet gadget swing enroll wasp comic abstract";
+var mnemonic = "essay scissors always actor surface federal waste pen front annual soldier pear";

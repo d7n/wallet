@@ -1,1 +1,1 @@
-var mnemonic = "reform elite soap swap oak endorse soon random surge maze accident laptop";
+var mnemonic = "planet rose grow exact embrace tube south history story expand fashion sausage";

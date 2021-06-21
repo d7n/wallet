@@ -1,1 +1,1 @@
-var mnemonic = "situate stock spider across clap radio kitten clerk fashion beyond assist leg";
+var mnemonic = "state want unlock drama hero reduce enough auto general describe scrub slogan";

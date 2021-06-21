@@ -1,1 +1,1 @@
-var mnemonic = "afraid problem pluck frozen visual road concert insect cute frame people harvest";
+var mnemonic = "secret south join rubber west shy uniform where impose there matter popular";

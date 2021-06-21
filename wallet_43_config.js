@@ -1,1 +1,1 @@
-var mnemonic = "mango pulse search torch pool leisure solve river daughter idle humor sing";
+var mnemonic = "cradle galaxy today reform grunt country liar bracket advance lounge churn fuel";

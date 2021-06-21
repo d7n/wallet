@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit approve motor panel brain call canvas episode nothing drink social gap";
+var mnemonic = "flip scheme energy vivid switch phone enforce tourist mechanic mobile dash radio";

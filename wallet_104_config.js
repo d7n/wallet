@@ -1,1 +1,1 @@
-var mnemonic = "lunar announce write canoe hip domain decline blanket toy drink very smooth";
+var mnemonic = "stem galaxy disorder blanket prefer pause spirit control slim image equip mail";

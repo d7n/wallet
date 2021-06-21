@@ -1,1 +1,1 @@
-var mnemonic = "endless quiz solar surface surface reopen lift battle misery public excess lesson";
+var mnemonic = "cigar extra mixture medal social alien nothing music silly invite engine meat";

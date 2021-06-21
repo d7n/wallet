@@ -1,1 +1,1 @@
-var mnemonic = "fluid helmet similar orient law cactus inform arch gentle town clock worry";
+var mnemonic = "february charge hundred miracle uncle script theory toddler save milk mansion field";

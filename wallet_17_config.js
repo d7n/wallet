@@ -1,1 +1,1 @@
-var mnemonic = "salute exile stay flash tag join frown away health appear transfer gain";
+var mnemonic = "seat mixture coffee estate capable refuse hazard lab hospital convince oyster february";

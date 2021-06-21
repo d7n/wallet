@@ -1,1 +1,1 @@
-var mnemonic = "notable avocado nation worth visit emerge aware raccoon dog pluck amount review";
+var mnemonic = "flight loan creek eye juice identify pottery sponsor meat permit book romance";

@@ -1,1 +1,1 @@
-var mnemonic = "claim move goose pelican ice element believe view light relax alley near";
+var mnemonic = "luxury drift accuse negative fiber pumpkin slab style report moon unfair brain";

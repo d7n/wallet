@@ -1,1 +1,1 @@
-var mnemonic = "notable memory maze light target twist grocery attract salt mixed helmet slam";
+var mnemonic = "mesh hint culture notice kid broccoli spot already exclude empower meadow bundle";

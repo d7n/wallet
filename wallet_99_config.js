@@ -1,1 +1,1 @@
-var mnemonic = "skirt grab exit differ balance together fresh earth gesture live magic unable";
+var mnemonic = "quality festival blur spray shuffle achieve enough tree hood rain rescue blame";

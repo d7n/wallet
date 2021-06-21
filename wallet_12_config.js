@@ -1,1 +1,1 @@
-var mnemonic = "uncover bundle leader bone return thank glide awful satisfy year vague cotton";
+var mnemonic = "silk unveil census task candy length salmon material twist enroll century absurd";

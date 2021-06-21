@@ -1,1 +1,1 @@
-var mnemonic = "slab tube report crouch trust flame chief rare slow motor decide fox";
+var mnemonic = "almost poem away hour meadow capable smile rack garbage oil mix shine";

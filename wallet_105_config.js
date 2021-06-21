@@ -1,1 +1,1 @@
-var mnemonic = "call photo guard unit fossil close moon sphere frozen federal injury sail";
+var mnemonic = "shoulder evidence share word faint ridge burst grape rifle obey army liar";

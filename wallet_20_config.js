@@ -1,1 +1,1 @@
-var mnemonic = "neutral carry depend film sister income vendor discover mouse boat close south";
+var mnemonic = "ugly degree choose quit pepper loud rescue gadget later quarter era pulse";

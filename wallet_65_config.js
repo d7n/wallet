@@ -1,1 +1,1 @@
-var mnemonic = "debate camera boat wrist month aspect impose pause cherry envelope when nasty";
+var mnemonic = "wise then describe protect island solution trial south cereal repeat age height";

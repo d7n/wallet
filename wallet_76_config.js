@@ -1,1 +1,1 @@
-var mnemonic = "deputy drama inflict pass term program address mask easy any tide toddler";
+var mnemonic = "hero version shy neglect jeans gold glad dentist daring talk original gas";

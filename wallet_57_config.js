@@ -1,1 +1,1 @@
-var mnemonic = "salad harvest retreat record age satisfy chapter delay tourist second define gym";
+var mnemonic = "gauge fever across river art armed erode sibling solar code harvest side";

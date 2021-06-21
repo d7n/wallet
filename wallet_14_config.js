@@ -1,1 +1,1 @@
-var mnemonic = "acquire embark emotion buyer awake catch onion normal another random during tourist";
+var mnemonic = "muffin hammer fruit crater toilet judge tuition enough elegant multiply august decline";

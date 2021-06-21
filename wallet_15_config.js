@@ -1,1 +1,1 @@
-var mnemonic = "scrap cable fit spare drastic paper patch more spice bean assist recipe";
+var mnemonic = "ceiling answer trophy empty prepare mind color wild biology portion before stand";

@@ -1,1 +1,1 @@
-var mnemonic = "remove essence bottom type wrestle vicious actor recycle view home expand memory";
+var mnemonic = "boss auto air anchor horse grab width quiz noble three injury pear";

@@ -1,1 +1,1 @@
-var mnemonic = "width law click company lady input inflict pledge butter boss innocent candy";
+var mnemonic = "music total crane cancel emotion panic fitness basket satoshi actual almost slam";

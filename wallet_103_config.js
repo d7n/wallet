@@ -1,1 +1,1 @@
-var mnemonic = "phone unique rice gorilla shrug hello trust include win cotton motion viable";
+var mnemonic = "surface spy inflict lady plastic version pluck crew breeze surface trade cherry";

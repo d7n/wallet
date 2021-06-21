@@ -1,1 +1,1 @@
-var mnemonic = "connect perfect wish dinosaur broken plate page artist venue put fork inflict";
+var mnemonic = "mercy member leave pear east castle rapid someone fresh turn wasp spring";

@@ -1,1 +1,1 @@
-var mnemonic = "brand valley upset wire razor skate mirror rapid speak enact nephew quick";
+var mnemonic = "number mask tornado very olympic edit zebra lecture jazz never defy hair";

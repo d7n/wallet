@@ -1,1 +1,1 @@
-var mnemonic = "salon large make apology crawl crumble develop easily small ball shy leopard";
+var mnemonic = "situate myself check pipe speak jaguar unusual pizza height initial push bunker";

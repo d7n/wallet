@@ -1,1 +1,1 @@
-var mnemonic = "tumble enrich until moral square kite chest merry bottom reveal zebra crouch";
+var mnemonic = "clog color home recall burger alien situate salt obvious ritual design enact";

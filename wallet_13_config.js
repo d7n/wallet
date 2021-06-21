@@ -1,1 +1,1 @@
-var mnemonic = "either way enforce pyramid correct cluster fix transfer churn release junior immense";
+var mnemonic = "wasp door wood rocket tourist ring anchor tissue fantasy zero catalog funny";

@@ -1,1 +1,1 @@
-var mnemonic = "never mail dance wish museum route saddle sell ticket nature dawn pole";
+var mnemonic = "wrap royal across oblige innocent viable attend aerobic hurry hurdle symbol opera";

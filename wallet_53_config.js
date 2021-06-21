@@ -1,1 +1,1 @@
-var mnemonic = "unit use school wool mushroom wall foam noble tornado crumble skate calm";
+var mnemonic = "when media post proud prison people hawk vital elegant shed credit silly";

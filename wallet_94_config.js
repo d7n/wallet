@@ -1,1 +1,1 @@
-var mnemonic = "leisure pool gorilla primary clip fashion orange spend spider shrug series gasp";
+var mnemonic = "model keen venture group eagle hurdle practice follow leisure expand degree tobacco";

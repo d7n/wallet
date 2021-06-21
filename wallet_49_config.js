@@ -1,1 +1,1 @@
-var mnemonic = "type funny road veteran eager diamond own lesson miss broom impulse marine";
+var mnemonic = "tuna water faculty garage food winner brief dumb text blue favorite drill";

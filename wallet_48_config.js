@@ -1,1 +1,1 @@
-var mnemonic = "artwork glance income wash town issue agree laptop snap tube paddle hollow";
+var mnemonic = "range filter sort carbon sleep between oak advice vote wrist almost degree";

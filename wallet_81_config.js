@@ -1,1 +1,1 @@
-var mnemonic = "stool flat bean account egg abstract crystal replace recipe bitter panther label";
+var mnemonic = "pigeon champion assume episode west remember nose ten load kiss mountain patrol";

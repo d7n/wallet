@@ -1,1 +1,1 @@
-var mnemonic = "office paddle ozone music company law garage memory silly boat skate cup";
+var mnemonic = "tourist pilot grass plug voice join what club open clutch flavor impulse";

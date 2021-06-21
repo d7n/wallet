@@ -1,1 +1,1 @@
-var mnemonic = "laptop cheap afraid famous bone between other require dirt open culture item";
+var mnemonic = "family design layer section purpose ghost spin onion tumble bone wave seek";

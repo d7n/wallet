@@ -1,1 +1,1 @@
-var mnemonic = "problem wrap hard wood pretty rabbit quantum spot fortune habit among vanish";
+var mnemonic = "cancel wild curious lonely traffic brush inside pretty midnight chicken globe square";

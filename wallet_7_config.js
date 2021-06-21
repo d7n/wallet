@@ -1,1 +1,1 @@
-var mnemonic = "unhappy sweet lend memory basket exact dash real siren super damage total";
+var mnemonic = "spawn estate olive strong pattern soccer original always soup biology lab midnight";

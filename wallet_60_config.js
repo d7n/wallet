@@ -1,1 +1,1 @@
-var mnemonic = "choice plug ancient almost divide image advance curious pond ability shiver upgrade";
+var mnemonic = "oblige earn today luxury bird pudding blast afraid mad antenna about truly";
