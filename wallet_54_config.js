@@ -1,1 +1,1 @@
-var mnemonic = "curious surprise column search soap tail noise science anxiety oil surge identify";
+var mnemonic = "street little clinic patch woman fat buyer box welcome unknown deal misery";

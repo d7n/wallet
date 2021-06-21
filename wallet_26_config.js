@@ -1,1 +1,1 @@
-var mnemonic = "glow small melody timber result rich true whale moral tunnel skirt damp";
+var mnemonic = "empty wall two galaxy bargain file chest insect know crew dinner gap";

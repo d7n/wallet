@@ -1,1 +1,1 @@
-var mnemonic = "giraffe enemy hard unique comfort before any purpose maximum clerk provide better";
+var mnemonic = "vote pulp portion rug danger move record thunder notable genius trouble action";

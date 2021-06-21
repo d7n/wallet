@@ -1,1 +1,1 @@
-var mnemonic = "mimic glove cute tobacco human absurd wave grief august shadow mouse lift";
+var mnemonic = "number rice wagon open sheriff alcohol gloom art uphold account one goose";

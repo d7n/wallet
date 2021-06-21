@@ -1,1 +1,1 @@
-var mnemonic = "funny upon process fee prepare inspire hire all object waste plastic lazy";
+var mnemonic = "want submit sport earn wrist cotton useless behave melody dry art scheme";

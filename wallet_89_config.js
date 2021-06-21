@@ -1,1 +1,1 @@
-var mnemonic = "coconut female phrase payment raven moon smart gown apology multiply tape cactus";
+var mnemonic = "menu during brave whisper degree sunset defy love tired limit check glue";

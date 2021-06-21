@@ -1,1 +1,1 @@
-var mnemonic = "awkward inherit sniff stone initial enrich piano kitten critic lawsuit result garment";
+var mnemonic = "shrimp tape exhibit unusual card just crunch trial annual point visa else";

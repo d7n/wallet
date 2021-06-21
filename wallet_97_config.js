@@ -1,1 +1,1 @@
-var mnemonic = "crush april tone essay possible awful always jungle tuition potato brisk surge";
+var mnemonic = "apology shoe steel field sphere frog disease reflect bunker assume engage sand";

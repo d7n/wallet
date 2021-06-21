@@ -1,1 +1,1 @@
-var mnemonic = "shift sun proud region raise parent dismiss dance unknown alpha town urban";
+var mnemonic = "network firm truly rescue solve planet alley bridge donkey home hint acquire";

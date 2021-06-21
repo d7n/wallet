@@ -1,1 +1,1 @@
-var mnemonic = "forward absent excess quiz torch flat brain wolf blind excite unique confirm";
+var mnemonic = "spray process below danger praise trigger often town add hill thunder ribbon";

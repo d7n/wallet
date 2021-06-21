@@ -1,1 +1,1 @@
-var mnemonic = "elder crater jealous fortune motor world dizzy razor voice three funny few";
+var mnemonic = "target enlist crater perfect shop buddy arch ghost crop tube buzz share";

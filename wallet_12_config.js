@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin capable maze sadness cabbage skull snack course hub north virtual mimic";
+var mnemonic = "salon story possible project lucky swallow solid police toilet again decrease foil";

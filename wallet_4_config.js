@@ -1,1 +1,1 @@
-var mnemonic = "pause reopen clinic exist news eye want witness uphold method element boy";
+var mnemonic = "appear animal eye august brush disagree boat buddy soon weapon color ketchup";

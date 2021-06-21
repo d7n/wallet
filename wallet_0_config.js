@@ -1,1 +1,1 @@
-var mnemonic = "develop elder barely reveal antique rally saddle orchard turn unlock pig clutch";
+var mnemonic = "solar fluid general life search evidence fancy desert couch fortune cluster drastic";

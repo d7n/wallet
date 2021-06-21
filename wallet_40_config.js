@@ -1,1 +1,1 @@
-var mnemonic = "gather green document knife magic wasp elegant goose sentence foster high gorilla";
+var mnemonic = "collect morning just camp shrimp seven west uphold want wrist simple wide";

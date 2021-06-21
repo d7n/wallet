@@ -1,1 +1,1 @@
-var mnemonic = "during budget depth autumn refuse screen funny lizard life wood open library";
+var mnemonic = "final school lawn ancient suspect sauce rare oyster bench seven wonder stadium";

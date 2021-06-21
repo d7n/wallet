@@ -1,1 +1,1 @@
-var mnemonic = "initial game scale trophy play hospital stamp weird insect recipe dice tank";
+var mnemonic = "later share toy reform august swamp can ask soap mushroom science lounge";

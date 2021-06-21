@@ -1,1 +1,1 @@
-var mnemonic = "clever escape result custom purse stock unfair season spider female cabin loan";
+var mnemonic = "rookie wonder decide evolve depart system unusual clay can axis point intact";

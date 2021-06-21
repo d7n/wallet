@@ -1,1 +1,1 @@
-var mnemonic = "mimic balance clutch again source gown lady enrich fantasy hub sing gravity";
+var mnemonic = "cradle risk unknown balance base hockey tennis until false moment this solar";

@@ -1,1 +1,1 @@
-var mnemonic = "please damage upon fruit farm myself rigid village arch design purity eight";
+var mnemonic = "viable keep debate basket admit require fly announce noble film chase decrease";

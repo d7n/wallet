@@ -1,1 +1,1 @@
-var mnemonic = "brick outer toss leisure stumble garbage spray describe flock battle skull erase";
+var mnemonic = "song scrap rug initial warfare warrior humble hurry put begin similar move";

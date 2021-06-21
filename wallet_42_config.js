@@ -1,1 +1,1 @@
-var mnemonic = "mushroom staff correct pulp civil lion keep hen ability aware soccer pumpkin";
+var mnemonic = "fit shed fury law hair napkin giggle wait little salt dove end";

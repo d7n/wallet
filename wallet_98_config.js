@@ -1,1 +1,1 @@
-var mnemonic = "tool fever festival illegal hurt flower senior action profit air decline flash";
+var mnemonic = "paper leg drama science hurry brand cabbage attitude wheat reason shrug whisper";

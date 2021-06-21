@@ -1,1 +1,1 @@
-var mnemonic = "grass basic once work distance toy february utility lens suggest chef trick";
+var mnemonic = "firm salute soup object hedgehog clarify belt oak hero muffin claw chat";

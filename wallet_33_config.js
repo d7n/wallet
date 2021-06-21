@@ -1,1 +1,1 @@
-var mnemonic = "woman canyon sweet where boy ramp forum jar host gloom equip hole";
+var mnemonic = "thank never remember key dance shiver marble thrive sample cat relief salon";

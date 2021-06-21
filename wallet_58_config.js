@@ -1,1 +1,1 @@
-var mnemonic = "recipe favorite dizzy matrix regular forum protect barrel churn author air guide";
+var mnemonic = "giant impose display stairs exhaust rely seven bracket tide grace fragile flag";

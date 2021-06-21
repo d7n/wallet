@@ -1,1 +1,1 @@
-var mnemonic = "patrol kitten lemon hello audit know medal mail shove solid hello skill";
+var mnemonic = "aim ordinary shoe luxury motion express envelope hand monkey whale resemble prefer";

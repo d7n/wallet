@@ -1,1 +1,1 @@
-var mnemonic = "order conduct buddy glue craft pet wrestle tilt all gospel direct genuine";
+var mnemonic = "marriage rich return dumb excuse juice raven wave ladder salt child street";

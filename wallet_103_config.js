@@ -1,1 +1,1 @@
-var mnemonic = "calm absent useful swallow supreme royal author crew cloth genre two tank";
+var mnemonic = "enrich share drill fine fence danger buddy capable music slim analyst step";

@@ -1,1 +1,1 @@
-var mnemonic = "moral cool congress size dice topple ribbon couch mail survey kiss dirt";
+var mnemonic = "brand video oven cover coach inject person purse cousin load obey amazing";

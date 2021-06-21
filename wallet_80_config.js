@@ -1,1 +1,1 @@
-var mnemonic = "equal measure armor cloth useless machine surge couch arrow code time win";
+var mnemonic = "case spirit chief fold intact draw cook athlete giraffe bullet analyst elevator";

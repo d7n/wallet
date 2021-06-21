@@ -1,1 +1,1 @@
-var mnemonic = "horror grass dish right key eight film dad scheme disease crucial thumb";
+var mnemonic = "cargo devote rare mix jar vehicle muscle laundry escape wish abstract plate";

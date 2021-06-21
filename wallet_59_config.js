@@ -1,1 +1,1 @@
-var mnemonic = "will midnight drink time movie spare toe shift identify jaguar soldier couch";
+var mnemonic = "viable spin whip add exhaust limit mansion increase frost slab humor light";

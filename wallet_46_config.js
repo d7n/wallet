@@ -1,1 +1,1 @@
-var mnemonic = "poem rotate deal diary short twin audit term virtual idle rubber owner";
+var mnemonic = "prevent ten record toy quality immune anchor bracket museum ghost rocket distance";

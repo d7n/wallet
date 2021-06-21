@@ -1,1 +1,1 @@
-var mnemonic = "library capable banner veteran diamond order notable romance onion mother cabbage bachelor";
+var mnemonic = "insane first assume prosper train cable unlock fault version call tackle market";

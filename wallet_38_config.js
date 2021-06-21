@@ -1,1 +1,1 @@
-var mnemonic = "scissors beyond barrel toddler genuine lounge walk ranch index rapid census exotic";
+var mnemonic = "salad patrol blade unique wrap destroy oyster panther huge trip online patient";

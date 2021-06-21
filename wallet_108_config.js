@@ -1,1 +1,1 @@
-var mnemonic = "lens expect range trial cigar liberty evoke until rally mutual soon rifle";
+var mnemonic = "boring assume muscle advance display observe utility post drip bus hedgehog issue";

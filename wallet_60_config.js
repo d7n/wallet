@@ -1,1 +1,1 @@
-var mnemonic = "vicious notable purchase spice witness potato medal gown green atom motion tower";
+var mnemonic = "tree put melt rack inquiry window miss afford muscle finger broken desert";

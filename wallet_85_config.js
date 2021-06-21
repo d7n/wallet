@@ -1,1 +1,1 @@
-var mnemonic = "husband inch salon blade bag fold cry age model hard shove cash";
+var mnemonic = "flag patient stay allow athlete hurry shoot drum collect dynamic present sorry";

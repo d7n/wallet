@@ -1,1 +1,1 @@
-var mnemonic = "toy elder tip clever anxiety thought crystal blast hobby topple eager grit";
+var mnemonic = "globe rotate bronze real moment attack cup inch match clever phone token";

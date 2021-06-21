@@ -1,1 +1,1 @@
-var mnemonic = "dust shiver similar parent soldier tide palace vital private focus stuff become";
+var mnemonic = "moon gun pulp below farm scene leisure hip rebel chest above easy";

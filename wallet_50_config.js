@@ -1,1 +1,1 @@
-var mnemonic = "fresh company size moral roof crucial exhaust bind cradle stick office wolf";
+var mnemonic = "session room gate impose adjust stairs arrow thunder dose pen swim mesh";

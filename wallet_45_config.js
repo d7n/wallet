@@ -1,1 +1,1 @@
-var mnemonic = "cruise today flame tragic artwork negative brand trumpet peanut what seven inmate";
+var mnemonic = "float clock law torch crunch ordinary useless help egg hub walk flash";

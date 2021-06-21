@@ -1,1 +1,1 @@
-var mnemonic = "rice resist adapt cage pet income again jaguar cause chicken useless neither";
+var mnemonic = "figure betray repeat cannon office way train pitch inject fashion rabbit metal";

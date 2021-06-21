@@ -1,1 +1,1 @@
-var mnemonic = "enemy story glance shallow grain identify kick text elevator ordinary innocent force";
+var mnemonic = "orphan kidney purity athlete lift between bamboo wide interest regular tuition stool";

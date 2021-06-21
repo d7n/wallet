@@ -1,1 +1,1 @@
-var mnemonic = "post turkey mistake upset find popular glare essence topple poverty gaze loop";
+var mnemonic = "small seven student ten recycle north two december furnace host ensure pull";

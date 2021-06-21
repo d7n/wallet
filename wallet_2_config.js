@@ -1,1 +1,1 @@
-var mnemonic = "pencil spirit banner tourist exclude shrimp royal universe valid turkey bleak muscle";
+var mnemonic = "inch reunion mechanic miss wrestle dice usual plug clown large advance lunar";

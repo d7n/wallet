@@ -1,1 +1,1 @@
-var mnemonic = "twenty buyer stamp atom mistake sudden imitate cover arm girl bounce invest";
+var mnemonic = "denial document winner vehicle broken spin another congress wool soul drive scissors";

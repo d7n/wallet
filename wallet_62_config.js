@@ -1,1 +1,1 @@
-var mnemonic = "moment trust space vibrant ocean brain object foot scatter public library close";
+var mnemonic = "very sphere debate ready staff frog panther effort country head dolphin vital";

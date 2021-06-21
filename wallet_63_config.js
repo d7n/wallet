@@ -1,1 +1,1 @@
-var mnemonic = "this train twin surface involve myself assault airport voice describe toast basic";
+var mnemonic = "giraffe flush bike manage metal scheme original paper metal jungle shed friend";

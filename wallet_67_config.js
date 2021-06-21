@@ -1,1 +1,1 @@
-var mnemonic = "strategy input usual ketchup loan enrich disease emerge upon view delay source";
+var mnemonic = "hip two depart harsh off orange liar help axis slot army until";

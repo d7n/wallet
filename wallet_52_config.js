@@ -1,1 +1,1 @@
-var mnemonic = "trust half awkward crush frequent all bike kiss art fantasy filter armor";
+var mnemonic = "cycle cruise bar negative park master adjust discover chronic two rare warfare";

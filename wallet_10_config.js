@@ -1,1 +1,1 @@
-var mnemonic = "still mind blue awake cargo notice success verify develop disorder system cruel";
+var mnemonic = "ahead network inner bus pattern embrace clutch moment furnace never solid thumb";

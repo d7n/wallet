@@ -1,1 +1,1 @@
-var mnemonic = "lake split post cage ball trim layer wire dish honey endorse film";
+var mnemonic = "erupt fine decrease camera ball wolf margin beyond act cable recall aspect";

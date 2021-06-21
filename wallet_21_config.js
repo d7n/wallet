@@ -1,1 +1,1 @@
-var mnemonic = "window web put gas same ribbon fish around promote winter grain hawk";
+var mnemonic = "post sad tide protect thrive absorb toward tackle six tag sense notable";

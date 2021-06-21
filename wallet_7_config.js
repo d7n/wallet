@@ -1,1 +1,1 @@
-var mnemonic = "forum embrace plastic farm basket must vicious grass midnight mobile bonus salad";
+var mnemonic = "buddy fame pilot reflect regret scout skate nurse cloth fiction famous direct";

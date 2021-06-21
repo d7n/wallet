@@ -1,1 +1,1 @@
-var mnemonic = "envelope book rail possible lecture car tiger click provide crouch relief oil";
+var mnemonic = "fossil joke soda whale supply immense rail ozone sick critic sock avocado";

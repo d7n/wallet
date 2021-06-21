@@ -1,1 +1,1 @@
-var mnemonic = "assume sort jaguar donkey episode fury mind advance peanut exchange fragile coach";
+var mnemonic = "ahead blossom between unable economy wall lazy miracle science flee gift panther";

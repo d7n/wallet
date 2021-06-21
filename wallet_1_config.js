@@ -1,1 +1,1 @@
-var mnemonic = "market two margin belt beauty damp enhance improve alcohol vicious man guess";
+var mnemonic = "bike brother peasant loud all super fortune remain measure tomato decide require";

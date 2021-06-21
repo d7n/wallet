@@ -1,1 +1,1 @@
-var mnemonic = "caution together furnace digital under custom cost anchor record path cross already";
+var mnemonic = "grit mail patch adjust truly choose mango clean toddler mercy genre swear";

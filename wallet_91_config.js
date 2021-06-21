@@ -1,1 +1,1 @@
-var mnemonic = "use buzz submit album reflect indoor night harbor stuff equal gentle error";
+var mnemonic = "wife custom know mosquito once life address blush close noodle essay proof";

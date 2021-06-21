@@ -1,1 +1,1 @@
-var mnemonic = "truck uncle shine virtual south bonus guitar sustain winner describe merge harsh";
+var mnemonic = "powder vague frost dove fly voice cupboard actress donate asset rural hidden";

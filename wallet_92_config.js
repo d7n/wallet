@@ -1,1 +1,1 @@
-var mnemonic = "bring size climb chair silk ability dash broccoli purity similar into beyond";
+var mnemonic = "dismiss neglect quiz shrimp medal rude engine shop lesson mutual turkey fitness";

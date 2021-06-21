@@ -1,1 +1,1 @@
-var mnemonic = "voice alien verify coyote loyal coconut mushroom thumb river office museum false";
+var mnemonic = "reopen skill eye picnic brave canal fox suit pistol pear diesel inch";

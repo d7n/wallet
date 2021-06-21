@@ -1,1 +1,1 @@
-var mnemonic = "shift view deposit answer horse radar settle antique slush youth spray hill";
+var mnemonic = "cloud regular settle lawsuit garden round indoor theory together special gossip what";

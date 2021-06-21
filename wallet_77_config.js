@@ -1,1 +1,1 @@
-var mnemonic = "echo urge left icon torch shoulder steel august adapt sell proud artist";
+var mnemonic = "plate orient alarm bitter practice blind matter hill mouse work company piano";

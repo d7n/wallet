@@ -1,1 +1,1 @@
-var mnemonic = "hope soccer need melt swear spice silly virtual annual craft surround century";
+var mnemonic = "apology antenna seek card armed sentence clean kidney pond prefer affair topic";

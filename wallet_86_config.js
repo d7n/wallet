@@ -1,1 +1,1 @@
-var mnemonic = "dash spring middle erase chapter trim when message warfare ten kid lonely";
+var mnemonic = "pluck ozone stumble swift memory menu bulb duty crack taste doll crush";

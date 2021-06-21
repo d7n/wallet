@@ -1,1 +1,1 @@
-var mnemonic = "seed way rural throw melody water target off physical play frame decrease";
+var mnemonic = "high basket credit lyrics gadget pen hat double cloth melody bounce maple";

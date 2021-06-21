@@ -1,1 +1,1 @@
-var mnemonic = "sign glimpse satoshi sauce clever differ code name safe crisp milk walnut";
+var mnemonic = "nuclear quiz express wrist transfer morning brother swallow yellow mountain small music";

@@ -1,1 +1,1 @@
-var mnemonic = "mosquito clarify fiscal before scorpion moral dose spot nuclear vivid inform error";
+var mnemonic = "rather harbor avocado during host tent concert opinion forest rough detail rent";

@@ -1,1 +1,1 @@
-var mnemonic = "brisk gap burden test hurdle lottery brisk never anxiety cruel label impulse";
+var mnemonic = "frozen pact damp force city brisk ask phrase mixture reform public tray";

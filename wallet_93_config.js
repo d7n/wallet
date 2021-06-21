@@ -1,1 +1,1 @@
-var mnemonic = "apple torch avocado athlete future relax six brown manage drink pulp faculty";
+var mnemonic = "kingdom wisdom lecture glass pizza weapon edit noble wealth release attract juice";

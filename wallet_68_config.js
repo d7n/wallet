@@ -1,1 +1,1 @@
-var mnemonic = "thing effort annual denial snap garden gaze brave history general roast ghost";
+var mnemonic = "thought cost sing true usage cream clarify aware have sail guard achieve";

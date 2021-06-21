@@ -1,1 +1,1 @@
-var mnemonic = "husband around swift absurd wink this broken face crawl half skill infant";
+var mnemonic = "coral squirrel cluster trust honey pyramid trend runway tired calm dolphin portion";

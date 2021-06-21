@@ -1,1 +1,1 @@
-var mnemonic = "direct torch human despair toy vacant camera rice true cup sketch reduce";
+var mnemonic = "flame domain employ over joke agent long panther dry sell wasp easily";

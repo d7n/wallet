@@ -1,1 +1,1 @@
-var mnemonic = "mercy naive fold walk spare give admit erode path lunar route cradle";
+var mnemonic = "lucky great pear fitness arrow wreck picnic merry chair student alone foil";

@@ -1,1 +1,1 @@
-var mnemonic = "flat rain test wave sniff panther jungle stock sand win detect believe";
+var mnemonic = "type close garden coast diagram soda ski book verb face host grit";

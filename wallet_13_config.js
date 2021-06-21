@@ -1,1 +1,1 @@
-var mnemonic = "poverty observe state dutch blouse ketchup strategy reduce bean dirt alter cloud";
+var mnemonic = "flavor income deposit dinosaur evoke toward loyal oil radar remain shine mean";

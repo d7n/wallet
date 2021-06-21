@@ -1,1 +1,1 @@
-var mnemonic = "member inmate shrimp napkin lab trend glance traffic rhythm remember lumber act";
+var mnemonic = "text network divert carbon design creek unhappy segment entry sustain price drum";

@@ -1,1 +1,1 @@
-var mnemonic = "regular endorse elevator issue news garment begin core borrow sun vibrant mechanic";
+var mnemonic = "argue salmon foot art frost leisure kiwi address another intact cousin nominee";

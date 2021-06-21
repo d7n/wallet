@@ -1,1 +1,1 @@
-var mnemonic = "client sun liar pool render hill inhale escape hawk review define army";
+var mnemonic = "learn health cloud lend mad nominee dragon invest tissue olive never hospital";

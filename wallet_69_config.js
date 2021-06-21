@@ -1,1 +1,1 @@
-var mnemonic = "opera pen pill biology media razor toe burger solar anchor mass illness";
+var mnemonic = "attitude account frame lift analyst image good gauge target ranch bar tribe";

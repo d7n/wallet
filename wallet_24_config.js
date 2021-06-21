@@ -1,1 +1,1 @@
-var mnemonic = "bonus divide castle aim purpose peasant forest truly grit off awesome citizen";
+var mnemonic = "laugh broccoli razor mandate uncover inhale goose weapon rebuild license saddle leave";

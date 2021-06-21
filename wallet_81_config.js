@@ -1,1 +1,1 @@
-var mnemonic = "forum crater worry attack recipe imitate frog swallow half glide drip top";
+var mnemonic = "lava hawk thought cushion remind impose clean cycle reunion awkward warrior middle";

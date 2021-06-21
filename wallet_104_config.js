@@ -1,1 +1,1 @@
-var mnemonic = "stuff target slim ship release grass girl blame income alert trip life";
+var mnemonic = "trap pride install large sing yellow scorpion kick electric satisfy pudding main";

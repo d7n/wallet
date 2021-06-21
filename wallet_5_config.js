@@ -1,1 +1,1 @@
-var mnemonic = "inherit glove assault eternal pony hat drip like what surface track travel";
+var mnemonic = "hedgehog priority chaos solid novel prepare moral magnet drive vague stuff zone";

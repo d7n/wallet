@@ -1,1 +1,1 @@
-var mnemonic = "lonely polar goat sadness orchard census squeeze undo edge jaguar catalog habit";
+var mnemonic = "crash galaxy blind flower cart million distance abstract any dismiss eagle bar";

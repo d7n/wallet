@@ -1,1 +1,1 @@
-var mnemonic = "giraffe column certain million glow maximum neutral swap special oil local test";
+var mnemonic = "party fresh private unknown scene uniform echo enough absent day helmet biology";

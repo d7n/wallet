@@ -1,1 +1,1 @@
-var mnemonic = "brave industry brass mechanic hazard spread shed rally scan grunt shallow antique";
+var mnemonic = "print crack people dust usual caught someone dune rebuild moment glance subway";

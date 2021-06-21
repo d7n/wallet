@@ -1,1 +1,1 @@
-var mnemonic = "enable tag acoustic wool able jacket index fury sun step alarm job";
+var mnemonic = "column expand hero negative alley melt submit country clay blue man kid";

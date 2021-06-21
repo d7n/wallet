@@ -1,1 +1,1 @@
-var mnemonic = "size almost stairs ramp loud tongue measure type push canal record index";
+var mnemonic = "night mercy dash dune brief steak idle army uncover unhappy economy famous";

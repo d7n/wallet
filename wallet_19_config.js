@@ -1,1 +1,1 @@
-var mnemonic = "steak erupt open goat equip suit wait cheese company together canyon palace";
+var mnemonic = "hat owner tornado august bring round tide account hint matter shy elephant";

@@ -1,1 +1,1 @@
-var mnemonic = "surge dune reduce help despair walnut scatter saddle deputy twin sight over";
+var mnemonic = "brown open hotel dash dance such boy burst asthma large mother hero";

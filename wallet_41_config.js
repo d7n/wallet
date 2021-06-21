@@ -1,1 +1,1 @@
-var mnemonic = "little soccer frequent focus sort december crew frozen slight click boring media";
+var mnemonic = "unit close zero muffin recycle acoustic monkey mutual code universe metal ugly";
