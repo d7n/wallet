@@ -1,1 +1,1 @@
-var mnemonic = "pass whale buffalo cupboard shiver weather noodle drama alone swing renew fish";
+var mnemonic = "soul pride polar soft identify cry vendor add poet river unique follow";

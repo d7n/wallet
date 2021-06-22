@@ -1,1 +1,1 @@
-var mnemonic = "picture still pull stable fitness type confirm length pole track elite kidney";
+var mnemonic = "genuine roast learn mercy safe life face hood neither viable engine gloom";

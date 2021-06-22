@@ -1,1 +1,1 @@
-var mnemonic = "spot rail fork surprise begin rebel fun ready trouble chuckle wood crime";
+var mnemonic = "heart fossil course barrel exercise supply scout twin dignity normal found lobster";

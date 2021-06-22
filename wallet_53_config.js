@@ -1,1 +1,1 @@
-var mnemonic = "sunny pottery panel various reflect confirm limit fox exist sense dutch predict";
+var mnemonic = "gentle cannon diamond monkey digital grunt solve drastic transfer divide animal pony";

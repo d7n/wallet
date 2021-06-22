@@ -1,1 +1,1 @@
-var mnemonic = "enjoy debate enhance regret engine scale isolate input bicycle sweet apple pink";
+var mnemonic = "unlock scrap talk attend fish bless peasant antenna buddy rabbit tourist jeans";

@@ -1,1 +1,1 @@
-var mnemonic = "uniform tank eyebrow next knee lock luxury path spoil similar fatigue imitate";
+var mnemonic = "option extra novel cement tissue cheap best pyramid deputy flip wrong clock";

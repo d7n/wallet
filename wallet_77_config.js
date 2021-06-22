@@ -1,1 +1,1 @@
-var mnemonic = "number inmate nuclear police cattle nasty final rain motion cattle bright frozen";
+var mnemonic = "woman adjust cream gather grid true awake outer letter moral surge brand";

@@ -1,1 +1,1 @@
-var mnemonic = "network doctor ring shuffle roast victory task shop ostrich tortoise gate mystery";
+var mnemonic = "peasant transfer panic major gauge hip old visa fever midnight lake wagon";

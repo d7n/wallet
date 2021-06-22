@@ -1,1 +1,1 @@
-var mnemonic = "rebel bundle stove approve into swim trade thrive recipe token wonder art";
+var mnemonic = "uncover cabin dust decline sunny fashion alcohol burst genius equal hat place";

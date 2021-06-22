@@ -1,1 +1,1 @@
-var mnemonic = "reopen hobby wrist mechanic fetch spread borrow awkward buddy plastic dutch pulp";
+var mnemonic = "swallow fossil assault color pizza gate drama rival mistake choice paddle inherit";

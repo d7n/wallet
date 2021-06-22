@@ -1,1 +1,1 @@
-var mnemonic = "casual measure satoshi unveil rally trash crew whip ordinary spawn cash sweet";
+var mnemonic = "garlic water hire exhibit narrow heart female dwarf pledge copper tomato call";

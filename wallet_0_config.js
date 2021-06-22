@@ -1,1 +1,1 @@
-var mnemonic = "soon barely forest bunker canyon fitness skill laugh jewel issue plastic away";
+var mnemonic = "sting loud master write ask nerve thunder mutual glad brown area satoshi";

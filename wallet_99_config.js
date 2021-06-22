@@ -1,1 +1,1 @@
-var mnemonic = "hawk settle month globe property rebuild thought turn cabin error junior genre";
+var mnemonic = "keen tunnel soul primary prevent ladder flight vacant crumble quarter emotion soldier";

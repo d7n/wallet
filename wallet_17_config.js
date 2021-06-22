@@ -1,1 +1,1 @@
-var mnemonic = "leave talk truth illegal round perfect bonus chaos damage calm above expire";
+var mnemonic = "street copy unhappy run perfect come mushroom group oval taxi pretty agree";

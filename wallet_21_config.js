@@ -1,1 +1,1 @@
-var mnemonic = "library ozone draw lounge effort noodle anger detect earth broccoli small later";
+var mnemonic = "shy mind topic power swing claw stumble kitchen ticket action vital account";

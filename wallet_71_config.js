@@ -1,1 +1,1 @@
-var mnemonic = "giggle orphan visual meadow useless rubber tragic divide dish atom food ocean";
+var mnemonic = "system museum differ tackle waste belt shrimp ocean punch illegal lawn seminar";

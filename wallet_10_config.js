@@ -1,1 +1,1 @@
-var mnemonic = "leader write mystery sail winter unaware skill predict chat inside someone infant";
+var mnemonic = "afford elite buffalo apart find during profit battle foot way copper skill";

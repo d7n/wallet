@@ -1,1 +1,1 @@
-var mnemonic = "sock debate antique diesel mule motor future often monster wing situate wool";
+var mnemonic = "grape gas category among burst hold jump human steel action carbon hair";

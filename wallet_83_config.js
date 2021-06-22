@@ -1,1 +1,1 @@
-var mnemonic = "fury marine stadium doll corn panda patient move timber pave maze force";
+var mnemonic = "onion buffalo surge couch street fatal random ketchup treat note cream grocery";

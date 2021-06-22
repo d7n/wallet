@@ -1,1 +1,1 @@
-var mnemonic = "voice repair expect mesh injury then win grunt fantasy federal race tiny";
+var mnemonic = "unit minute bottom bar romance awful parade unveil athlete divert acquire engine";

@@ -1,1 +1,1 @@
-var mnemonic = "humble audit same uncle affair step anchor omit rifle slight catch buddy";
+var mnemonic = "motion dismiss error swarm dentist sell lucky arena science draft model hospital";

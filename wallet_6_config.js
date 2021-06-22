@@ -1,1 +1,1 @@
-var mnemonic = "lava banner silly uniform chuckle lounge gain farm enemy laundry sunny first";
+var mnemonic = "owner leaf carbon analyst parent crystal load cart pass write witness fatigue";

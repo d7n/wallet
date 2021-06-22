@@ -1,1 +1,1 @@
-var mnemonic = "bulk laundry foster law what amused hover spread process man shiver pair";
+var mnemonic = "delay unveil clown lady gap ozone sheriff dry wet clean tell bright";

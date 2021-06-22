@@ -1,1 +1,1 @@
-var mnemonic = "magnet gown fiscal torch script pool disease animal market original flag mail";
+var mnemonic = "yellow gesture control bread patrol wash ranch invest snow weird nose bubble";

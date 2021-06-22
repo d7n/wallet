@@ -1,1 +1,1 @@
-var mnemonic = "author brick fatigue merit critic valve viable cotton mandate camera doctor point";
+var mnemonic = "casual excite garlic deer such direct romance sea dynamic reduce ginger physical";

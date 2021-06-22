@@ -1,1 +1,1 @@
-var mnemonic = "general age coin earth code enrich clerk donor next ethics divert urge";
+var mnemonic = "impulse hockey sibling remain honey off fix end syrup nasty garage fish";

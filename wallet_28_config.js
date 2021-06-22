@@ -1,1 +1,1 @@
-var mnemonic = "two verb stereo possible reveal buffalo toilet slice captain tone stuff abuse";
+var mnemonic = "together possible bid disorder spike dune option believe occur pill clog body";

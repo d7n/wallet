@@ -1,1 +1,1 @@
-var mnemonic = "grape thumb opera inform evil pole grass muffin radar move scrub warrior";
+var mnemonic = "holiday control sugar check jacket like angry cable door fury frequent symbol";

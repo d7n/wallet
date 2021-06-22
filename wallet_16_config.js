@@ -1,1 +1,1 @@
-var mnemonic = "inside hammer kangaroo elder moral rigid chunk rose produce twice settle umbrella";
+var mnemonic = "beauty normal nasty inform tunnel size hurry brain cube kitchen ghost forest";

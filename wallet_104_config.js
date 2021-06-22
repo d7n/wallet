@@ -1,1 +1,1 @@
-var mnemonic = "multiply fit bubble warfare shop innocent attract awkward enroll crop jungle bargain";
+var mnemonic = "replace patrol solar radar merry palace target decrease drop cream idea execute";

@@ -1,1 +1,1 @@
-var mnemonic = "maid protect indicate naive vague awkward monster ketchup orchard soup village october";
+var mnemonic = "stand scheme evidence eternal random estate thing zero cactus pact guard primary";

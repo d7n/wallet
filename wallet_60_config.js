@@ -1,1 +1,1 @@
-var mnemonic = "loud large vault forum stay tribe blind spirit denial correct pitch short";
+var mnemonic = "team maple praise possible mouse girl park raise random spawn walnut sight";

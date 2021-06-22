@@ -1,1 +1,1 @@
-var mnemonic = "someone robot skirt brain autumn client task bus exile layer receive defense";
+var mnemonic = "later wash universe soft lab enrich casino innocent daring near kitten mixed";

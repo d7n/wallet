@@ -1,1 +1,1 @@
-var mnemonic = "rural liar cram useless endless cloth used borrow profit country grit mother";
+var mnemonic = "sample guess cave version analyst security image collect skirt provide promote spell";

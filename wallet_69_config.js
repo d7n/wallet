@@ -1,1 +1,1 @@
-var mnemonic = "side extend stereo defense duck chief throw curtain glad winner define badge";
+var mnemonic = "wagon merry gentle blouse air orchard oyster atom rapid rail consider bicycle";

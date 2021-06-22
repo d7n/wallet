@@ -1,1 +1,1 @@
-var mnemonic = "hurt shy smart stumble split copper unhappy want few rural common gown";
+var mnemonic = "ladder what strong endorse main review north humble novel license bottom opera";

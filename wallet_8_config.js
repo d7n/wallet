@@ -1,1 +1,1 @@
-var mnemonic = "agent know lawn bacon dilemma path satisfy drama poverty point brass extra";
+var mnemonic = "follow abandon grace photo salt sniff marine advance salad purse fossil ship";

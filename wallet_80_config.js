@@ -1,1 +1,1 @@
-var mnemonic = "agent want fetch budget print melt resist nose license distance theory uniform";
+var mnemonic = "girl link shell pass donor magnet knock history movie pizza stool amount";

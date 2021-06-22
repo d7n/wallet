@@ -1,1 +1,1 @@
-var mnemonic = "lion milk world agree picnic angry thank aunt aim gentle street candy";
+var mnemonic = "system rhythm roast zoo antique near defy devote resist tape mushroom grow";

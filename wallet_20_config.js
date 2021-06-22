@@ -1,1 +1,1 @@
-var mnemonic = "rival strong lesson awkward throw delay leaf measure oval angry excite sense";
+var mnemonic = "sting pepper first vague loan immune crunch broom winner gain tag genius";

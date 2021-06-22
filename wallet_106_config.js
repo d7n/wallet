@@ -1,1 +1,1 @@
-var mnemonic = "basket supreme trophy slush spell pipe object cannon poverty blame bean brisk";
+var mnemonic = "open sight code shop artefact romance blanket adapt motion light federal hello";

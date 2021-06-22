@@ -1,1 +1,1 @@
-var mnemonic = "clarify mention develop click inch scene surface income mechanic crane crush quick";
+var mnemonic = "seven chicken eight rubber collect buffalo enlist convince will observe another sail";

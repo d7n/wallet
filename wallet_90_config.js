@@ -1,1 +1,1 @@
-var mnemonic = "fox piano desk boring asthma viable visual echo square bright idea delay";
+var mnemonic = "write connect wealth chief grocery build bleak identify immune wrap opera able";

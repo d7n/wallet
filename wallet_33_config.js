@@ -1,1 +1,1 @@
-var mnemonic = "cherry thank select faint armor invest own pet agent display field together";
+var mnemonic = "orient between all decorate abstract truth unit ask element between spice polar";

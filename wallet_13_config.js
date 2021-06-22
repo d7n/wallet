@@ -1,1 +1,1 @@
-var mnemonic = "crunch detect clump reflect cup grow knock globe pulp ill mass topic";
+var mnemonic = "tortoise language dream anxiety manage mail keen sleep suffer farm swim dinosaur";

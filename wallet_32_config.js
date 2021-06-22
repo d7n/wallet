@@ -1,1 +1,1 @@
-var mnemonic = "bench panda prize scale tell source seven tent hidden frog owner smile";
+var mnemonic = "stuff link sand predict champion sausage desert genius alert coach leaf organ";

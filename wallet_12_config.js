@@ -1,1 +1,1 @@
-var mnemonic = "slush air regular pink brush habit job focus biology engine predict oppose";
+var mnemonic = "proof canvas observe patrol common curtain save eagle inject vote library toy";

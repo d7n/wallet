@@ -1,1 +1,1 @@
-var mnemonic = "photo foil observe virus dish vivid clap dwarf rice total fold economy";
+var mnemonic = "pig open pizza avoid soul lake now wool wire base range thrive";

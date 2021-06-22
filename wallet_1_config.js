@@ -1,1 +1,1 @@
-var mnemonic = "jungle assume strike bronze animal neglect trash globe paddle loyal menu mango";
+var mnemonic = "defense else pilot crazy shield alter knock write planet wave girl trigger";

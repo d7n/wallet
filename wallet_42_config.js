@@ -1,1 +1,1 @@
-var mnemonic = "gain better brand advice trouble token ecology shoulder advance uphold hundred use";
+var mnemonic = "weekend young neutral lab hard ticket gallery spy venue swamp female resource";

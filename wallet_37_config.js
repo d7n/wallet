@@ -1,1 +1,1 @@
-var mnemonic = "vibrant mixed six avocado brain assist hat educate sugar road donate together";
+var mnemonic = "fetch coast knife matrix foil into punch brother diary avoid sponsor cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "grant source common occur canvas garage filter train explain split mandate raise";
+var mnemonic = "sudden real security thing mango unaware provide evolve scorpion pig riot day";

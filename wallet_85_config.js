@@ -1,1 +1,1 @@
-var mnemonic = "quick evidence dance general become mango flight remember guide memory panther violin";
+var mnemonic = "rebel earn dinner despair expose topic quit tobacco grass opera model liquid";

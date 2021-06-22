@@ -1,1 +1,1 @@
-var mnemonic = "scorpion spoon keen cream leave safe session grass grape absent palm biology";
+var mnemonic = "sheriff resource custom produce punch crush staff harvest style vital choose vapor";

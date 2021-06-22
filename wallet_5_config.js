@@ -1,1 +1,1 @@
-var mnemonic = "world random bamboo exist pipe space insect denial acquire noise year salmon";
+var mnemonic = "become bulk million execute sport carbon mouse matrix later portion ecology old";

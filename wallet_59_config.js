@@ -1,1 +1,1 @@
-var mnemonic = "cruel inmate obvious race talent review shaft flush length fruit sun hen";
+var mnemonic = "answer display pizza ivory either bounce number glide address school dignity strike";

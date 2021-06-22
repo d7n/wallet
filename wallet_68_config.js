@@ -1,1 +1,1 @@
-var mnemonic = "album priority achieve spread end blast fence comfort top symbol matrix rate";
+var mnemonic = "chef hint aware leg collect session crisp chicken labor media lonely claim";

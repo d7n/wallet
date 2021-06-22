@@ -1,1 +1,1 @@
-var mnemonic = "kiwi danger clarify program marriage twenty insane wheel pill wood toward source";
+var mnemonic = "ticket behind gospel clean agent stumble basket chunk hamster sniff cause type";

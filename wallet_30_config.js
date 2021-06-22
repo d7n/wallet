@@ -1,1 +1,1 @@
-var mnemonic = "grant digital south shell dolphin high over throw inflict infant soap treat";
+var mnemonic = "forest shuffle hard silk bring extend bulb length session solution wise fish";

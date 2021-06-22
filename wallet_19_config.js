@@ -1,1 +1,1 @@
-var mnemonic = "carry result tenant motor camp gallery banner farm lunar agent state spice";
+var mnemonic = "aerobic habit rather bind awesome lens sun series envelope fiber multiply rather";

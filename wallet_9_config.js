@@ -1,1 +1,1 @@
-var mnemonic = "waste evoke arrange nasty wrong say blade rule silly stem atom become";
+var mnemonic = "delay unfair glove agent mask flock hello miss journey bulb design country";

@@ -1,1 +1,1 @@
-var mnemonic = "blame analyst interest brother stereo attend purchase unlock scrap join hammer grace";
+var mnemonic = "seek exchange valve absurd road ski letter online right today float tooth";

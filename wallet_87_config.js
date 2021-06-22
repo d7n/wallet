@@ -1,1 +1,1 @@
-var mnemonic = "predict gift team word frog notable fade tired olympic vintage good pyramid";
+var mnemonic = "secret fresh fix patch assume one tourist sand member hero ignore meadow";

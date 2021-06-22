@@ -1,1 +1,1 @@
-var mnemonic = "glimpse elephant much woman hunt stick damage food toe label trophy shop";
+var mnemonic = "orange region work whip cupboard skull spread deposit term little dish theme";

@@ -1,1 +1,1 @@
-var mnemonic = "myself mule enemy repair maximum minimum able educate slush pride trap design";
+var mnemonic = "column glare bacon shaft funny traffic addict essence sausage push lecture ceiling";

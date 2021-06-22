@@ -1,1 +1,1 @@
-var mnemonic = "barely rate galaxy course mountain between pear wreck helmet timber heavy cinnamon";
+var mnemonic = "galaxy picture ribbon region just fragile van unhappy orient nose paddle ghost";

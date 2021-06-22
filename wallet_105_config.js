@@ -1,1 +1,1 @@
-var mnemonic = "apart uncle test cushion rate crisp craft beach helmet industry patient camera";
+var mnemonic = "bomb fit end evoke select monitor either penalty pony reason inmate lamp";

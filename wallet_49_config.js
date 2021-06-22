@@ -1,1 +1,1 @@
-var mnemonic = "curve cotton verb put rib armed refuse chicken logic spare allow wedding";
+var mnemonic = "ivory frog brick silver sponsor derive arctic digital service target narrow lift";

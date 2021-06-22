@@ -1,1 +1,1 @@
-var mnemonic = "physical december sample reunion town endorse clean apart journey hood cotton pumpkin";
+var mnemonic = "hotel hurry utility someone damp then wheel mosquito boat animal coffee knee";

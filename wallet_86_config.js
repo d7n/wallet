@@ -1,1 +1,1 @@
-var mnemonic = "great runway sport inform surface drift write pact upgrade equal buzz lady";
+var mnemonic = "ocean cash year picnic soft cabbage swift air clown gorilla age nominee";

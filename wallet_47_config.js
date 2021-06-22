@@ -1,1 +1,1 @@
-var mnemonic = "mail order sand isolate horror use sleep soda fuel able equal above";
+var mnemonic = "bullet path example budget sentence spy approve bring vivid equal treat coil";

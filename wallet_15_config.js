@@ -1,1 +1,1 @@
-var mnemonic = "demise arena couple syrup garbage wing dwarf atom cloth water quiz oval";
+var mnemonic = "blush three nuclear frog claim pony ladder exhaust insane source clerk eyebrow";

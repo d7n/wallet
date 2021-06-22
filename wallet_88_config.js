@@ -1,1 +1,1 @@
-var mnemonic = "rice seven erase clump catalog creek faint sentence blood alien wealth amused";
+var mnemonic = "notice alter hill hurt leopard delay attack milk grunt pitch result laundry";

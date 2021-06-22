@@ -1,1 +1,1 @@
-var mnemonic = "trust assault cupboard atom grunt trap love mail sheriff canal blossom empty";
+var mnemonic = "tongue move brief episode young food draw drift caution index table now";

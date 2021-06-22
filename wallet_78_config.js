@@ -1,1 +1,1 @@
-var mnemonic = "govern vibrant knock goat luggage vacuum human farm shy kick roast host";
+var mnemonic = "initial merge blast brisk calm breeze token decade draft enemy pilot rival";

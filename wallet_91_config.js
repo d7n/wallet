@@ -1,1 +1,1 @@
-var mnemonic = "coin text liquid move lamp two bulb ordinary year maze luxury weapon";
+var mnemonic = "market embody alone garbage apology equip stem sand notable fetch oxygen share";

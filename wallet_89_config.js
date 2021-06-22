@@ -1,1 +1,1 @@
-var mnemonic = "grass virtual slogan easily canal choose doctor chuckle burden carpet target engage";
+var mnemonic = "wood mobile curious farm close adjust multiply dash fit kick direct shuffle";

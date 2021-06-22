@@ -1,1 +1,1 @@
-var mnemonic = "produce army tree blush enough divert space clap float dinner steak interest";
+var mnemonic = "immense anxiety language lava write timber swift midnight ship outer legend leave";

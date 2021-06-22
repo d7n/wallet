@@ -1,1 +1,1 @@
-var mnemonic = "hole recall human guide client enhance donkey cheap door chief notable casino";
+var mnemonic = "stem trim any enough meat draft survey devote eagle outside gloom discover";

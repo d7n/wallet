@@ -1,1 +1,1 @@
-var mnemonic = "similar board hamster bomb debate tent expand output scatter fire elegant anxiety";
+var mnemonic = "decline remove minute deposit wrong fiction census video quit distance price rather";

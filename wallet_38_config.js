@@ -1,1 +1,1 @@
-var mnemonic = "unfair unusual wool remind example clock aspect web own unknown monster tunnel";
+var mnemonic = "apart eyebrow aisle creek among wall require parent load elder intact expect";

@@ -1,1 +1,1 @@
-var mnemonic = "evidence useful bacon sock when pulse bounce scale zone fence fork kind";
+var mnemonic = "cannon depend weird business zone vicious weather tattoo pioneer one supply glare";

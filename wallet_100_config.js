@@ -1,1 +1,1 @@
-var mnemonic = "rib season rival okay junk expire long decade radio pact lamp forum";
+var mnemonic = "minute squeeze skirt paddle there female track click moon fatal unique wrap";

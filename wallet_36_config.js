@@ -1,1 +1,1 @@
-var mnemonic = "arch isolate garlic waste embark cook wet that poem decline certain antenna";
+var mnemonic = "once trap actor busy silver sponsor coil daring color coil dumb always";

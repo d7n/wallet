@@ -1,1 +1,1 @@
-var mnemonic = "fan worth elephant resemble anxiety genius educate cherry shadow barrel ridge ugly";
+var mnemonic = "razor clean faith winter claw van turn jealous riot glass dial foot";

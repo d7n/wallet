@@ -1,1 +1,1 @@
-var mnemonic = "spare cabbage wool together idea adjust number hard gun family forward planet";
+var mnemonic = "message dream amazing judge load ridge breeze clever corn clerk offer print";

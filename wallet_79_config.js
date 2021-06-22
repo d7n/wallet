@@ -1,1 +1,1 @@
-var mnemonic = "wave victory motion unveil sick prize express fish water analyst quality fabric";
+var mnemonic = "cattle myself render festival order fiction evolve hood pig razor witness hint";
