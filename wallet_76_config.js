@@ -1,1 +1,1 @@
-var mnemonic = "wedding material wrap tenant bacon term modify convince soup glide venture tourist";
+var mnemonic = "festival focus display globe home elegant paddle later unit wheat moral impact";

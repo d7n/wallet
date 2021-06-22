@@ -1,1 +1,1 @@
-var mnemonic = "imitate flip arrive yard glimpse decade walnut moment front mobile approve convince";
+var mnemonic = "taste aspect travel meat point you catalog cry glad warrior village hazard";

@@ -1,1 +1,1 @@
-var mnemonic = "bulk universe birth broken jealous recall pioneer cruel setup sail teach feel";
+var mnemonic = "always robust brother same girl either rather unit remove milk juice valid";

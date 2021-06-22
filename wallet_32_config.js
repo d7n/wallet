@@ -1,1 +1,1 @@
-var mnemonic = "carbon success brush space report paper that neutral plug army swear cause";
+var mnemonic = "over now bundle section rough rough polar frost gift faint uphold trial";

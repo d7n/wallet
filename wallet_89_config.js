@@ -1,1 +1,1 @@
-var mnemonic = "engine gold improve present detail robust decide merry wall such august dentist";
+var mnemonic = "unlock suit amused adapt useless edit truth column regular such faint air";

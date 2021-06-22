@@ -1,1 +1,1 @@
-var mnemonic = "essay siege garbage deputy crawl maze vote arena robust detail receive pitch";
+var mnemonic = "manual mass add travel proof online tower round client behind fatal warm";

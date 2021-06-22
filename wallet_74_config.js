@@ -1,1 +1,1 @@
-var mnemonic = "space toast oak orphan bottom attack abstract spray color speak jump assume";
+var mnemonic = "wear defy scale borrow infant valley mango afford media crop peanut source";

@@ -1,1 +1,1 @@
-var mnemonic = "drill lens kitchen repeat curious rotate chat maid tongue metal reunion furnace";
+var mnemonic = "flame decorate case siren vivid cargo hard mail soul scrub impulse ladder";

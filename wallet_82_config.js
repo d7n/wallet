@@ -1,1 +1,1 @@
-var mnemonic = "attend high fatal gauge time another choice method better utility crawl poverty";
+var mnemonic = "song tornado master dune receive march mean sustain zoo please warm split";

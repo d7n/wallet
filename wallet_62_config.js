@@ -1,1 +1,1 @@
-var mnemonic = "ordinary pill diamond grass honey gain title orient cat identify sing fury";
+var mnemonic = "index reopen just verb mosquito mixture popular client travel oven identify sphere";

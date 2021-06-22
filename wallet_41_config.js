@@ -1,1 +1,1 @@
-var mnemonic = "mule street gift venue range canvas rude gesture field false fruit fabric";
+var mnemonic = "sister blur jar fashion trick level dentist excuse baby inner noise worry";

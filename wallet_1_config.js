@@ -1,1 +1,1 @@
-var mnemonic = "trial box smile rookie patch already host axis quarter liar marine wood";
+var mnemonic = "goat round acquire mystery artwork reveal february word exercise violin scheme pull";

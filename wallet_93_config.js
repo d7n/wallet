@@ -1,1 +1,1 @@
-var mnemonic = "month fragile fashion rude barely limb sail raise business south fly ahead";
+var mnemonic = "wing rain absent curious lecture tourist chalk celery gap current bubble reunion";

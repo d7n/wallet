@@ -1,1 +1,1 @@
-var mnemonic = "coast salute adult borrow please brass virtual stage lunch decrease picnic size";
+var mnemonic = "pair poem must habit weird health month sea flush dove hole rocket";

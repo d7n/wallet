@@ -1,1 +1,1 @@
-var mnemonic = "crumble great away simple parade tattoo captain solar force rhythm motor code";
+var mnemonic = "speed until tongue become cause spike random submit female ritual axis blue";

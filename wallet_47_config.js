@@ -1,1 +1,1 @@
-var mnemonic = "host satoshi true large slab ozone weapon penalty dash police festival fatigue";
+var mnemonic = "huge broom gravity dutch strategy cheap pilot angry shed grace absorb planet";

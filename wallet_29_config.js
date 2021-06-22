@@ -1,1 +1,1 @@
-var mnemonic = "skill must plunge eager vote ticket vault tilt sure solar kitten future";
+var mnemonic = "mandate win tooth inside stool token boss celery crucial million warfare share";

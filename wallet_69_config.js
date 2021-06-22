@@ -1,1 +1,1 @@
-var mnemonic = "elevator capable away deputy sand biology high canvas pioneer thing witness barely";
+var mnemonic = "creek sadness timber reunion useless north danger panda rebel fetch obey scrub";

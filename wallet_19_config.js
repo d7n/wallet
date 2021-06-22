@@ -1,1 +1,1 @@
-var mnemonic = "index renew evidence universe clap echo merge climb attitude bubble order battle";
+var mnemonic = "grab mule fancy taste plastic evoke sight load fury stove note farm";

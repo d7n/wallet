@@ -1,1 +1,1 @@
-var mnemonic = "what capital solid woman bicycle obvious lion switch until phrase fabric flame";
+var mnemonic = "dentist blast village acoustic rule girl circle crack garlic kiss caution truck";

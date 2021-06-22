@@ -1,1 +1,1 @@
-var mnemonic = "fit disorder surprise expose meadow judge sphere donkey face bench glare grass";
+var mnemonic = "dawn wrong fox wagon divide document ticket manage hope pass erupt ostrich";

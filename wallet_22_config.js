@@ -1,1 +1,1 @@
-var mnemonic = "doctor sheriff whisper cry diesel near road luggage inquiry force belt antique";
+var mnemonic = "expand front leisure gun symptom smooth ugly cat blouse layer hard slogan";

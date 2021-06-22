@@ -1,1 +1,1 @@
-var mnemonic = "keep dilemma sense arrest bread peanut logic stool buffalo flight injury arm";
+var mnemonic = "calm canoe pistol excite puppy this athlete priority remain please spatial frown";

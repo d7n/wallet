@@ -1,1 +1,1 @@
-var mnemonic = "test pass arch crowd purity buffalo betray volcano snap runway tent face";
+var mnemonic = "utility gas observe family ill daughter dinosaur visual initial text opera judge";

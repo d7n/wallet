@@ -1,1 +1,1 @@
-var mnemonic = "myself change just frost number minute sheriff interest mountain tube lift route";
+var mnemonic = "slender identify idea sport chaos hotel puppy treat target cigar blush buddy";

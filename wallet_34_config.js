@@ -1,1 +1,1 @@
-var mnemonic = "left fatigue custom then damage risk scene senior kiss bridge cousin people";
+var mnemonic = "spoon window rack reopen leopard loan illness uphold coin siege corn tent";

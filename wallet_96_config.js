@@ -1,1 +1,1 @@
-var mnemonic = "dignity powder coral trip cinnamon guilt purpose region curious absorb speed swing";
+var mnemonic = "useless disorder barrel bounce food own hold child drink decide exclude sun";

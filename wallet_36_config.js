@@ -1,1 +1,1 @@
-var mnemonic = "fatal burden orange demand resemble spring grid write job sunny wrap picture";
+var mnemonic = "guitar cross local choice shrimp burger believe outside rhythm clinic suspect target";

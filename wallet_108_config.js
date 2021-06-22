@@ -1,1 +1,1 @@
-var mnemonic = "shop crew airport night benefit hazard recall album turn worth soul dumb";
+var mnemonic = "rubber coast diesel rich label believe taxi best check stock glance arrange";

@@ -1,1 +1,1 @@
-var mnemonic = "naive effort route flip cost zone nothing fade paddle warrior agree cinnamon";
+var mnemonic = "solid dynamic believe tunnel exchange control dog such prepare whisper seed used";

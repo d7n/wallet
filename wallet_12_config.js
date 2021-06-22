@@ -1,1 +1,1 @@
-var mnemonic = "boring plate virus label pull unable sample pulp acquire dolphin portion omit";
+var mnemonic = "once dress theme shaft account april burger monitor street shift fossil gorilla";

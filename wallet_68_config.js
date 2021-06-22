@@ -1,1 +1,1 @@
-var mnemonic = "rebel nose rude style hockey mandate glimpse bacon will oval struggle believe";
+var mnemonic = "salute image regular perfect frost diesel safe refuse muffin club cash ladder";

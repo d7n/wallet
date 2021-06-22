@@ -1,1 +1,1 @@
-var mnemonic = "any caution canoe snack dumb rose home garment surprise twelve little worry";
+var mnemonic = "claim detail shield roof dose utility witness jelly account street egg depend";

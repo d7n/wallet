@@ -1,1 +1,1 @@
-var mnemonic = "use sunny wine rotate frozen hill duck there worry sweet chair hawk";
+var mnemonic = "ride guilt coyote fresh three spy season art patient castle crack decide";

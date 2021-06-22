@@ -1,1 +1,1 @@
-var mnemonic = "vacuum use human melt left peanut indicate poverty agree invest onion cannon";
+var mnemonic = "prison canal impact success poverty valley photo dawn issue leisure huge horror";

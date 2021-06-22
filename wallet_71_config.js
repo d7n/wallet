@@ -1,1 +1,1 @@
-var mnemonic = "broccoli recycle connect focus web bitter omit review brief gather off annual";
+var mnemonic = "model alone adult student feed october few damage man olive trash liberty";

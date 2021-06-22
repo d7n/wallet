@@ -1,1 +1,1 @@
-var mnemonic = "unit poverty busy manage slogan muscle swim thank ugly pony rice debate";
+var mnemonic = "palace mystery legal lady price target spin job voice domain know fire";

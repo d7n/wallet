@@ -1,1 +1,1 @@
-var mnemonic = "knock wife close clay tape ice half together cable undo brick excite";
+var mnemonic = "region palace trust imitate alert borrow scatter town have pledge surface select";

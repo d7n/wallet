@@ -1,1 +1,1 @@
-var mnemonic = "later wild addict teach pyramid can glide rent glue gossip unique real";
+var mnemonic = "pause near green soccer pyramid love mandate engage february fire ticket muscle";

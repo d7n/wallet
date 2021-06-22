@@ -1,1 +1,1 @@
-var mnemonic = "warfare side canvas pumpkin voice float shiver evoke shield outer destroy original";
+var mnemonic = "divide iron cost envelope hat coffee hard social pluck pave fury renew";

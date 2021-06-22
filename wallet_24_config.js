@@ -1,1 +1,1 @@
-var mnemonic = "night hawk gap assault powder space teach room shaft pass cave burst";
+var mnemonic = "portion fantasy sort follow soul head other frown birth axis entry dentist";

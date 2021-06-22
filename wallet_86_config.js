@@ -1,1 +1,1 @@
-var mnemonic = "uphold vivid train brave wisdom hobby brief process almost recall flock cinnamon";
+var mnemonic = "advice cake abuse brisk depart rabbit menu latin pizza throw rail enforce";

@@ -1,1 +1,1 @@
-var mnemonic = "box man cool enhance object comic stable fire match trophy near poverty";
+var mnemonic = "enough erupt room entire coin shaft crisp someone column tray like snake";

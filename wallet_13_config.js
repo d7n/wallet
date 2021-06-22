@@ -1,1 +1,1 @@
-var mnemonic = "volume hospital approve divorce bullet fortune rhythm plastic scheme suggest castle tongue";
+var mnemonic = "brand code verb come talk fiction need stool short image cushion panic";

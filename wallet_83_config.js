@@ -1,1 +1,1 @@
-var mnemonic = "swallow round language mango traffic either elbow mistake toast alert deposit business";
+var mnemonic = "bubble pulp camera excuse razor guide forum drive smoke two jeans hammer";

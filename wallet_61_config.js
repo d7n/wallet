@@ -1,1 +1,1 @@
-var mnemonic = "unaware tone hamster health say crater warrior mom census wear else slogan";
+var mnemonic = "dish silly piano scrub april sweet foster upon tourist runway trade candy";

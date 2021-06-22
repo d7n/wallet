@@ -1,1 +1,1 @@
-var mnemonic = "fog swear warfare image purity awesome access worth market congress skate misery";
+var mnemonic = "paddle bean girl start try city much trigger only antique despair boil";

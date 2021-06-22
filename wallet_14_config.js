@@ -1,1 +1,1 @@
-var mnemonic = "stick remember amazing hold path sand melt later loud imitate kid shallow";
+var mnemonic = "upgrade turtle ethics when senior course vibrant scan primary noble arrest chair";

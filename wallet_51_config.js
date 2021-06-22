@@ -1,1 +1,1 @@
-var mnemonic = "dance organ ticket girl load grow pig angle wide advice nasty fine";
+var mnemonic = "until quarter math rotate once mango polar joke round regular nothing electric";

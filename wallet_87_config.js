@@ -1,1 +1,1 @@
-var mnemonic = "across reward believe tumble sand crouch blush speed tape field tribe now";
+var mnemonic = "truly butter cheap advance debate second truth real home avoid resource donor";

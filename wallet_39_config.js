@@ -1,1 +1,1 @@
-var mnemonic = "find eagle abandon amateur bamboo glue civil kangaroo soldier will soldier return";
+var mnemonic = "bring expect gym trash card frown labor carbon art essence leg symbol";

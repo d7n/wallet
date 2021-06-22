@@ -1,1 +1,1 @@
-var mnemonic = "quote riot human exclude print purse view sadness enhance curious burst hood";
+var mnemonic = "pluck skull hero shift extra among warfare cycle soup copy pole recycle";

@@ -1,1 +1,1 @@
-var mnemonic = "any inspire trip crime cheap dizzy siege earn fever clean prison evolve";
+var mnemonic = "junk air ankle barely slot claim physical wine mention area unable budget";

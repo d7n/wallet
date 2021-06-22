@@ -1,1 +1,1 @@
-var mnemonic = "another hawk trial uncover hamster dutch paddle menu turkey ignore glow boring";
+var mnemonic = "debate immense practice embrace fault sponsor salt blue slow spoon sustain public";

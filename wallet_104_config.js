@@ -1,1 +1,1 @@
-var mnemonic = "phone kick recipe tribe topic unaware dolphin find observe stool truck vintage";
+var mnemonic = "end code hard oxygen worry leader neutral fringe away cluster end trumpet";

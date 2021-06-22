@@ -1,1 +1,1 @@
-var mnemonic = "donkey together aware happy engage alien bitter theme monitor hat seat cry";
+var mnemonic = "display exhibit island ghost indoor knife gentle crazy lawsuit crawl skill group";

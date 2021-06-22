@@ -1,1 +1,1 @@
-var mnemonic = "stomach response deliver orchard prosper outdoor access fury you comfort supply brown";
+var mnemonic = "auto slam liquid capable evolve sign gallery mixed panic point surface merry";

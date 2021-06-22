@@ -1,1 +1,1 @@
-var mnemonic = "certain fresh such hidden hip flash merit hand wear program admit soup";
+var mnemonic = "company nothing stone praise chaos scene option vital route mistake engine unaware";

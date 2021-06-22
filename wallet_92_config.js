@@ -1,1 +1,1 @@
-var mnemonic = "gown upper choice remember peasant elbow retreat design thought trim intact turkey";
+var mnemonic = "debris shield card mobile beauty stove ankle apology behind defense kite reduce";

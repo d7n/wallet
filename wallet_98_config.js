@@ -1,1 +1,1 @@
-var mnemonic = "spare crew emotion they machine tree disorder surround dilemma author body mind";
+var mnemonic = "lab garbage deliver defense improve black tobacco machine miss jazz same remind";

@@ -1,1 +1,1 @@
-var mnemonic = "valve wire travel book attend actress run sound catalog robot acid kitchen";
+var mnemonic = "come bottom survey maximum slice learn blush lobster senior sibling tourist impose";

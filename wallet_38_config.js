@@ -1,1 +1,1 @@
-var mnemonic = "zone pass worry crush topple release carry quit talent spread rain dolphin";
+var mnemonic = "weekend excess include capable universe donkey balance address across battle swim obey";

@@ -1,1 +1,1 @@
-var mnemonic = "essay alarm wasp ostrich oak write ritual census voyage face deputy blur";
+var mnemonic = "spider wild success chief draft sick wheat stereo boat concert sustain donate";

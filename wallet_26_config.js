@@ -1,1 +1,1 @@
-var mnemonic = "cross hire ridge dentist quarter ship dinner neutral bracket antenna unlock hollow";
+var mnemonic = "strategy insect fatal mirror pause flight act treat brush rebel juice history";

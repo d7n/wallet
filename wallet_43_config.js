@@ -1,1 +1,1 @@
-var mnemonic = "tiny magic space priority kitten usual runway ahead acoustic denial tragic cupboard";
+var mnemonic = "shaft sphere title space lion horse mention nose circle million little glass";

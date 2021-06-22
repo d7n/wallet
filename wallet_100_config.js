@@ -1,1 +1,1 @@
-var mnemonic = "veteran choice tank churn improve together actual defy carry journey present shoot";
+var mnemonic = "unique tomorrow amount picture drive example noble woman welcome wrestle speed orphan";

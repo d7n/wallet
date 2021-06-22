@@ -1,1 +1,1 @@
-var mnemonic = "gift argue scout movie mansion split power left fresh siren middle emerge";
+var mnemonic = "deal source jazz powder ocean drink eagle transfer blush menu chimney absent";

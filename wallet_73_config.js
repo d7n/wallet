@@ -1,1 +1,1 @@
-var mnemonic = "stock humor movie front carpet include coil opinion eyebrow leader canvas journey";
+var mnemonic = "copper staff diesel tragic divert spring taste thunder enact avocado ring any";

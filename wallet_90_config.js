@@ -1,1 +1,1 @@
-var mnemonic = "quarter kitten rate wool hundred kitten february balance sort mesh amazing raw";
+var mnemonic = "front winter festival denial empty tank believe sun shell ginger suffer target";

@@ -1,1 +1,1 @@
-var mnemonic = "sister cotton animal nuclear spawn sad meadow swear vicious anchor shove boy";
+var mnemonic = "cactus brown crater win wash antique habit choose coral embark yard bag";

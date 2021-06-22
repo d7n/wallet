@@ -1,1 +1,1 @@
-var mnemonic = "always inch barely cart wrap excess legal area frozen hundred flower regret";
+var mnemonic = "noise wrestle leave wage rather duck elder grow snack top predict result";

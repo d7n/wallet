@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur burden step fragile collect prefer muffin home excess utility prefer secret";
+var mnemonic = "party unfair dumb split syrup client silk wise submit square erode left";

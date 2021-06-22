@@ -1,1 +1,1 @@
-var mnemonic = "lava develop style labor income capital relief critic runway armor winner tourist";
+var mnemonic = "vague film code cargo stay erosion protect safe educate army tobacco awful";

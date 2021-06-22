@@ -1,1 +1,1 @@
-var mnemonic = "royal chair vault umbrella claw safe exhaust badge jazz minor brain plate";
+var mnemonic = "crowd badge essence much toss hip come maximum network nephew vehicle cause";

@@ -1,1 +1,1 @@
-var mnemonic = "saddle relief monitor maze range radar spread leaf analyst weapon actor ritual";
+var mnemonic = "try core nut session wheat depth virus usual spin hub wide frown";

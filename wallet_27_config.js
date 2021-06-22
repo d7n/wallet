@@ -1,1 +1,1 @@
-var mnemonic = "asset range brisk volume garment ridge game below reason credit husband length";
+var mnemonic = "empty festival lake charge grit dad float submit gas toy floor actress";

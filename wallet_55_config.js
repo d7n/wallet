@@ -1,1 +1,1 @@
-var mnemonic = "box bronze bike guess frost legal song panel worth frame elbow record";
+var mnemonic = "desk depart spike spirit opinion cluster certain wrong tomorrow agent palace sketch";

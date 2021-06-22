@@ -1,1 +1,1 @@
-var mnemonic = "onion creek outer hen trim argue obvious jeans segment accident drastic tide";
+var mnemonic = "slow loyal maple shed dial issue million exclude section suit speed middle";

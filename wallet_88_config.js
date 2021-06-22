@@ -1,1 +1,1 @@
-var mnemonic = "mother wood vacuum razor sausage target obtain afraid ketchup leopard bulb exchange";
+var mnemonic = "profit green letter chef teach winter demise walnut patrol mosquito motor peace";

@@ -1,1 +1,1 @@
-var mnemonic = "satisfy invest law dune luggage stage motion mountain problem purpose belt cook";
+var mnemonic = "country coral result maximum sea lumber lobster dice powder saddle hair find";

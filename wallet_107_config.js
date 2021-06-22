@@ -1,1 +1,1 @@
-var mnemonic = "sight pool nuclear piece online utility common faculty brain special angle symbol";
+var mnemonic = "useless equip dawn unit artefact gauge hungry burst brother twist envelope nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "wet ocean win chicken demise clay imitate plunge tube observe culture intact";
+var mnemonic = "admit drive foster shed merit crystal party interest auto tumble sure walk";

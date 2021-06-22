@@ -1,1 +1,1 @@
-var mnemonic = "balcony humor warrior oyster rug ranch civil grunt want render trick negative";
+var mnemonic = "skate deny vehicle source system advice nuclear mass believe reject tank kit";

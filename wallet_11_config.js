@@ -1,1 +1,1 @@
-var mnemonic = "calm unusual lemon six vivid jelly whisper energy course insane assume hill";
+var mnemonic = "degree leaf face junior winter isolate hobby devote view lyrics swim give";

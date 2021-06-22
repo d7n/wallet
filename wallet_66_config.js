@@ -1,1 +1,1 @@
-var mnemonic = "solve hawk math reunion razor math sun refuse wasp mystery miracle muscle";
+var mnemonic = "mutual message capital stool decline shrimp gasp penalty because shove drill deliver";

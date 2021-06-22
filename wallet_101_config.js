@@ -1,1 +1,1 @@
-var mnemonic = "just diet involve century few recipe hood december very own tail bleak";
+var mnemonic = "prefer later slogan wrist seminar awake similar nuclear omit put interest beyond";

@@ -1,1 +1,1 @@
-var mnemonic = "melt once million brush away allow syrup story clerk depart chase just";
+var mnemonic = "vote neither talent purse rescue stumble test reveal ice sell plastic fly";
