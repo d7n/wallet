@@ -1,1 +1,1 @@
-var mnemonic = "pass include era struggle miss cushion system ill shy present around true";
+var mnemonic = "film bleak pride relief canal bunker absorb remain walnut acoustic toy bike";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel pipe range three own cattle rival hundred normal chapter give permit";
+var mnemonic = "comic voice animal about stable perfect payment summer lion dumb oxygen ghost";

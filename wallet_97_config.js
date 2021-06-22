@@ -1,1 +1,1 @@
-var mnemonic = "settle float wish today enact draft uncle hunt joy light ensure whisper";
+var mnemonic = "live grace sing will daughter female exclude regret cook tenant eagle tattoo";

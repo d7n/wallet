@@ -1,1 +1,1 @@
-var mnemonic = "family earn canoe damage govern mean concert canyon robot guard moment lizard";
+var mnemonic = "call oil palace second grid ivory umbrella inch sign nut donkey robot";

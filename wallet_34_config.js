@@ -1,1 +1,1 @@
-var mnemonic = "ugly educate apart twelve oblige another debate clump hamster bargain barrel region";
+var mnemonic = "giraffe harvest sentence monkey pledge math mimic inhale ivory agent nothing aunt";

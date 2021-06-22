@@ -1,1 +1,1 @@
-var mnemonic = "mimic exist liar donkey kingdom best sniff ten hurdle there earth neither";
+var mnemonic = "beach salute tobacco jungle cloth puppy divide reunion current jar phone page";

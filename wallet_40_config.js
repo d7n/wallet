@@ -1,1 +1,1 @@
-var mnemonic = "donate august call hurt chuckle uniform panic false student citizen parent dawn";
+var mnemonic = "absurd crash grief job crack brush undo surround nephew behave critic notable";

@@ -1,1 +1,1 @@
-var mnemonic = "game subway crack imitate ask goose throw battle fee vocal need laundry";
+var mnemonic = "dose call develop flock poet ten soft mean off spread course plastic";

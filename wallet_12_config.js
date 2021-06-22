@@ -1,1 +1,1 @@
-var mnemonic = "dog side explain plunge film swamp glare change brush leisure misery oven";
+var mnemonic = "shield west dial equal mention camera analyst broken syrup onion shrug retreat";

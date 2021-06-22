@@ -1,1 +1,1 @@
-var mnemonic = "fox mandate usage shed lake problem area piano blade thumb frog gaze";
+var mnemonic = "soap estate faint execute alcohol mule axis zone loop enter gloom company";

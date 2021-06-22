@@ -1,1 +1,1 @@
-var mnemonic = "obvious siren ridge banner abuse vessel enforce crunch cycle smooth arrive opera";
+var mnemonic = "jeans defy shop cube morning hero mutual coin human casino luxury appear";

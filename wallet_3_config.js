@@ -1,1 +1,1 @@
-var mnemonic = "year recycle spot junk odor kiwi space saddle lava host paddle road";
+var mnemonic = "foot knee market snap later salt autumn road broom brave private supply";

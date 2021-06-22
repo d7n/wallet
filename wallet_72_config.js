@@ -1,1 +1,1 @@
-var mnemonic = "false person twelve patrol draft mushroom warrior safe fiscal crystal bomb festival";
+var mnemonic = "balcony purity meat vivid later spin crisp mixture circle movie name cradle";

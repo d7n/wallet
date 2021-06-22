@@ -1,1 +1,1 @@
-var mnemonic = "sort hurt vault shrug remember custom twice bicycle squirrel rather museum view";
+var mnemonic = "abuse verify harbor make resemble human coral code doll right north advance";

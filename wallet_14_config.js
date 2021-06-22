@@ -1,1 +1,1 @@
-var mnemonic = "snake cause rhythm dilemma zero fever motion upon play fee cabin catch";
+var mnemonic = "seminar story adult still spend borrow maid earth genuine issue lift among";

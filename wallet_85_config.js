@@ -1,1 +1,1 @@
-var mnemonic = "mom amount promote over wedding couch desert engine other light remind midnight";
+var mnemonic = "camera voice proof ozone month hint bid pave chicken screen culture beauty";

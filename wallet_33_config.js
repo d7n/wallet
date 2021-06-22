@@ -1,1 +1,1 @@
-var mnemonic = "athlete afraid youth midnight orange exact youth chunk push steak loud board";
+var mnemonic = "canal small train wave almost blush spin spirit festival wheat lock dilemma";

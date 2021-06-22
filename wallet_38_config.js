@@ -1,1 +1,1 @@
-var mnemonic = "grunt address truly baby produce level final slender hedgehog glad fly cactus";
+var mnemonic = "sorry shy guide chase together acoustic news album write elder rice sign";

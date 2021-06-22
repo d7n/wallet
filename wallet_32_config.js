@@ -1,1 +1,1 @@
-var mnemonic = "net eagle toilet offer soft among industry hair butter column casino ugly";
+var mnemonic = "stand similar nurse private sort vocal chief diesel mass gym grab oval";

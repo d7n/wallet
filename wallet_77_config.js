@@ -1,1 +1,1 @@
-var mnemonic = "scale game blanket liberty follow permit senior chef vacant obtain bid armor";
+var mnemonic = "jelly grain scorpion arrest stuff envelope right direct resist ecology winter absorb";

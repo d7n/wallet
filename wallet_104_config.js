@@ -1,1 +1,1 @@
-var mnemonic = "inspire modify gaze change bean next rhythm invite bulb spice hurdle spin";
+var mnemonic = "coin obey sure summer joy track avoid degree garment voice fine million";

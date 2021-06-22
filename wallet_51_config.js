@@ -1,1 +1,1 @@
-var mnemonic = "before settle thumb width time toss engage defense large narrow prefer narrow";
+var mnemonic = "such renew ride hood broken combine plastic fetch behind appear extend floor";

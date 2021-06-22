@@ -1,1 +1,1 @@
-var mnemonic = "regret chat police tiger item section normal endorse across approve ride throw";
+var mnemonic = "dismiss famous describe artefact arrow security subject logic reason uniform hip notable";

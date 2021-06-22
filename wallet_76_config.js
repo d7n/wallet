@@ -1,1 +1,1 @@
-var mnemonic = "pond under permit sheriff dizzy swarm toe soap ladder turn bright grit";
+var mnemonic = "raw fold rule track glow borrow rain cotton aunt chef humble jar";

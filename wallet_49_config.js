@@ -1,1 +1,1 @@
-var mnemonic = "venture misery stumble try cliff afraid smoke caution drastic stomach slow illegal";
+var mnemonic = "ozone online gallery flavor funny average false economy recycle then midnight attend";

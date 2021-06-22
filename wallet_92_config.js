@@ -1,1 +1,1 @@
-var mnemonic = "credit decide force boy photo old wife thought mushroom since rack hip";
+var mnemonic = "brief weird when same radar try snap awful able gift season liberty";

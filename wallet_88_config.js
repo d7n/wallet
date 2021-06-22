@@ -1,1 +1,1 @@
-var mnemonic = "wasp tortoise garlic captain ten van pipe gym shrimp desk forward beyond";
+var mnemonic = "vote climb purchase invest kite stay vapor evolve filter repeat glance deal";

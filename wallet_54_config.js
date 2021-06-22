@@ -1,1 +1,1 @@
-var mnemonic = "train south aware dawn scrap laptop ketchup vacant audit army such traffic";
+var mnemonic = "water window peanut slender fluid sea offer royal release shift giant oil";

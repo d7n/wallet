@@ -1,1 +1,1 @@
-var mnemonic = "mail rude fade balance situate ethics stick twist spoil judge enroll height";
+var mnemonic = "chronic bargain disorder aim raise cram walk hurt unique eyebrow genius scatter";

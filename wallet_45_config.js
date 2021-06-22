@@ -1,1 +1,1 @@
-var mnemonic = "team trend amused tube rocket cover spray scrub jar rifle plug brave";
+var mnemonic = "lend annual enact hawk access grace region wave captain unfair burger movie";

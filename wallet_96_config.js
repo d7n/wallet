@@ -1,1 +1,1 @@
-var mnemonic = "bottom large lend capable rich affair sure parrot crack used outside calm";
+var mnemonic = "cliff give agent butter guitar spin mail enrich prevent test liar peanut";

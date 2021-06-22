@@ -1,1 +1,1 @@
-var mnemonic = "give lumber fragile siren side axis gift parent search web slender bachelor";
+var mnemonic = "lava style proof upon lizard wonder siren middle glimpse exile opinion trade";

@@ -1,1 +1,1 @@
-var mnemonic = "hurt wedding hole marine once know render wink mushroom movie vibrant concert";
+var mnemonic = "follow power ginger rocket guitar arrest replace video false that pottery wonder";

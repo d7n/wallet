@@ -1,1 +1,1 @@
-var mnemonic = "express crucial slender either salt sand honey jaguar ancient antique orient banana";
+var mnemonic = "globe myth wheel genuine dutch sweet provide auction country layer tape wire";

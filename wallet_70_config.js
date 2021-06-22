@@ -1,1 +1,1 @@
-var mnemonic = "bracket estate loud glance festival defense dish move kind ski endless reject";
+var mnemonic = "fiction warfare bus kangaroo slogan dove nephew spring term clip liberty face";

@@ -1,1 +1,1 @@
-var mnemonic = "radio age visit grit foil copper reward raccoon basket ring token shrimp";
+var mnemonic = "enhance drama leave orient claim cart service parent ripple hollow session cricket";

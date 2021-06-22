@@ -1,1 +1,1 @@
-var mnemonic = "cave peanut face twenty board false shuffle family crush rotate blush fat";
+var mnemonic = "play once rookie deposit grant ankle beauty glance canyon cabin grit gospel";

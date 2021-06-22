@@ -1,1 +1,1 @@
-var mnemonic = "solar cart horse antenna online stool manual mail august shadow pig sail";
+var mnemonic = "position potato symptom route sister silver fever brass print body able hover";

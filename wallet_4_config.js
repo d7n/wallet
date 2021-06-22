@@ -1,1 +1,1 @@
-var mnemonic = "hand popular forum mimic uniform sunset crawl reopen double visual dumb demise";
+var mnemonic = "shallow gap security only elephant borrow scare then action comic cost plate";

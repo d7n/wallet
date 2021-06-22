@@ -1,1 +1,1 @@
-var mnemonic = "fatigue soul close eagle ankle oblige cigar brand desert supply right forum";
+var mnemonic = "impulse demise need pact indicate tent desk myth table fork rocket moment";

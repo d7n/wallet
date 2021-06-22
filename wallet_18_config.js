@@ -1,1 +1,1 @@
-var mnemonic = "similar exchange dial media garbage ketchup relief aerobic laundry nation scene among";
+var mnemonic = "question vote decide family vague gate voyage cancel wonder squirrel electric head";

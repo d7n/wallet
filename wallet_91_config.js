@@ -1,1 +1,1 @@
-var mnemonic = "north estate giant reform own waste fold steel exercise hybrid gasp fold";
+var mnemonic = "critic rotate toe magnet autumn business earth forget crash gossip marble blame";

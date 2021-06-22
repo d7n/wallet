@@ -1,1 +1,1 @@
-var mnemonic = "pony census galaxy acquire cube differ demand life round lawn globe arrow";
+var mnemonic = "huge define camera vacant inherit inflict december faith corn tuition sting dust";

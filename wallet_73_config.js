@@ -1,1 +1,1 @@
-var mnemonic = "liquid system leave jacket glow music rookie wear company decrease coconut used";
+var mnemonic = "ball cradle item kidney obtain cereal rocket axis bottom coyote blossom business";

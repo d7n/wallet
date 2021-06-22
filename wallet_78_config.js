@@ -1,1 +1,1 @@
-var mnemonic = "imitate private firm catch tape print velvet tilt blouse absurd library leisure";
+var mnemonic = "shoe divert usage doll cute panda choice oyster obvious naive fix system";

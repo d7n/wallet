@@ -1,1 +1,1 @@
-var mnemonic = "worry mushroom grant whale unit weekend annual vehicle film obey output pizza";
+var mnemonic = "trip shoot rifle trick lecture maximum sport history lake stomach tide slender";

@@ -1,1 +1,1 @@
-var mnemonic = "magnet churn student dilemma recycle banana abuse expose feature maid myself voice";
+var mnemonic = "six shock battle embark raccoon grace truly clean tag trip teach alert";

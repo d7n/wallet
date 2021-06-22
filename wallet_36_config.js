@@ -1,1 +1,1 @@
-var mnemonic = "coyote actual explain song velvet useless trip bench balcony gentle legend pulse";
+var mnemonic = "flock radar panda symbol acid melody dial please sense unfold sheriff huge";

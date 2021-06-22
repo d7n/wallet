@@ -1,1 +1,1 @@
-var mnemonic = "correct crime utility couch remain ritual pilot prevent tennis side student sadness";
+var mnemonic = "genius castle have coconut wedding repair carbon three range jump hazard soldier";

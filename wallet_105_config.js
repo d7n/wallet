@@ -1,1 +1,1 @@
-var mnemonic = "ranch ceiling frequent relief lottery cave library nose certain foot region palace";
+var mnemonic = "embark please surround region shift exotic pluck spider annual slight color yellow";

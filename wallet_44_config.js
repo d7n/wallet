@@ -1,1 +1,1 @@
-var mnemonic = "toilet debris end hurt license cotton scrap seminar phrase supreme lake cricket";
+var mnemonic = "time obey whale snow ring art brass blanket glow burger close problem";

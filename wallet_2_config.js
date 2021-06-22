@@ -1,1 +1,1 @@
-var mnemonic = "decide evolve kit enrich tiger unique penalty middle nominee pet patient tower";
+var mnemonic = "visual soccer lyrics mandate ahead useful aspect rain fault mad border level";

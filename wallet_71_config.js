@@ -1,1 +1,1 @@
-var mnemonic = "average move soda fever asset scatter light blur across able thrive hundred";
+var mnemonic = "tail return enter switch uncle bleak oak snow clay climb shop junior";

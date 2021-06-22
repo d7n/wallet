@@ -1,1 +1,1 @@
-var mnemonic = "anxiety risk wrap balcony volume abuse segment hurry limb stuff tonight this";
+var mnemonic = "body rice fragile jar defy flee armor split palm account universe page";

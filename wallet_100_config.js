@@ -1,1 +1,1 @@
-var mnemonic = "duty hair oppose potato action inner swift uncle you school sock broccoli";
+var mnemonic = "lift cousin arch emotion will debate cupboard deny arena quality expand basic";

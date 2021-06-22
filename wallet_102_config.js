@@ -1,1 +1,1 @@
-var mnemonic = "flight program brief comic local frog buffalo tide offer acoustic grit list";
+var mnemonic = "scheme stove minute scan negative olympic envelope exit embrace narrow range deal";

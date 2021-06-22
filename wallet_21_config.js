@@ -1,1 +1,1 @@
-var mnemonic = "endless maple hedgehog face question mail stomach beauty index zone stadium claim";
+var mnemonic = "pulse decrease forget top cube code inmate invest amazing trust spin demise";

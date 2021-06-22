@@ -1,1 +1,1 @@
-var mnemonic = "tooth object ability poverty frost saddle two neutral cable shuffle unfold prize";
+var mnemonic = "endorse mask grow replace penalty cage used glimpse eager exist goat bronze";

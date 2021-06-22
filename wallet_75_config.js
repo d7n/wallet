@@ -1,1 +1,1 @@
-var mnemonic = "dish suspect online flash depend powder lava grass across anger rubber dragon";
+var mnemonic = "drip pilot paddle unique reveal simple pride minor rather patient put royal";

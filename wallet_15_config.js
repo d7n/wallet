@@ -1,1 +1,1 @@
-var mnemonic = "human carry useless please fashion fantasy stadium joy dutch usual error turtle";
+var mnemonic = "envelope eight trouble hedgehog define crucial unveil flee moral water elegant wrong";

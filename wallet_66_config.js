@@ -1,1 +1,1 @@
-var mnemonic = "foil shine number add agent inspire goddess case brand sick seek top";
+var mnemonic = "bike dumb sister field ethics miss remove despair ladder matter test drill";

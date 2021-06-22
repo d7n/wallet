@@ -1,1 +1,1 @@
-var mnemonic = "begin gun disagree rocket summer satoshi type they stick skin expire apart";
+var mnemonic = "desk predict rubber tell filter spend become width once coconut mouse spare";

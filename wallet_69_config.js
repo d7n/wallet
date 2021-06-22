@@ -1,1 +1,1 @@
-var mnemonic = "weather royal lunch pattern ketchup apart govern canvas yellow soldier property sound";
+var mnemonic = "wire reason slogan wood omit midnight pioneer wash twist sure confirm black";

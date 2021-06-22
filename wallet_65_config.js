@@ -1,1 +1,1 @@
-var mnemonic = "east tragic myth naive evidence senior situate income beef rail put face";
+var mnemonic = "athlete move prepare urban surround picnic crop brave skin donkey burst view";

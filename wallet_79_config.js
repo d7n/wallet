@@ -1,1 +1,1 @@
-var mnemonic = "ritual area warfare path asthma rookie try enact bus icon candy hero";
+var mnemonic = "owner gaze robot canal inject pizza orbit bacon same loop stand tide";

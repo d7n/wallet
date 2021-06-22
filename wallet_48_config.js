@@ -1,1 +1,1 @@
-var mnemonic = "start empower fruit south snow page fog gate total thumb exile grain";
+var mnemonic = "cherry task canoe final ride share barrel skate deer wise right strong";

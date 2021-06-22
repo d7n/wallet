@@ -1,1 +1,1 @@
-var mnemonic = "hire excess similar rally edge track wink kid eager amateur where try";
+var mnemonic = "regular casino casual spike aisle clever turn eight asthma cost runway roast";

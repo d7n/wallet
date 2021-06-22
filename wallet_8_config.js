@@ -1,1 +1,1 @@
-var mnemonic = "transfer awesome estate giggle coral toe math voyage erode cliff sea clinic";
+var mnemonic = "mail undo siren drift guilt upper dog tent admit logic enlist warrior";

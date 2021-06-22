@@ -1,1 +1,1 @@
-var mnemonic = "column summer vessel abuse enable snow reform slight surround predict utility expire";
+var mnemonic = "mirror guilt agent pupil educate can accuse toy rice knock puppy vibrant";

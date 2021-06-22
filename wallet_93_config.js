@@ -1,1 +1,1 @@
-var mnemonic = "lobster maze shoot misery lyrics sustain tunnel antique before wall cash alone";
+var mnemonic = "carbon midnight cross end south remove obtain unique accident alone noodle stuff";

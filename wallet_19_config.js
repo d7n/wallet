@@ -1,1 +1,1 @@
-var mnemonic = "surprise rare transfer aunt smoke fancy heart rigid mountain affair era lizard";
+var mnemonic = "cluster balance skirt crop gorilla fruit auto wagon crumble owner obey gauge";

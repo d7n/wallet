@@ -1,1 +1,1 @@
-var mnemonic = "wine danger absorb tilt pulp aisle length speak over try public three";
+var mnemonic = "artwork teach conduct pizza zebra topic step tower slush danger category gate";

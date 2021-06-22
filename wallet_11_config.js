@@ -1,1 +1,1 @@
-var mnemonic = "science salute sense upgrade lecture sibling reward fit jacket strategy creek lab";
+var mnemonic = "edit brief winner paper nature ginger garlic track pioneer sort demise oil";

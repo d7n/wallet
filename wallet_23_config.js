@@ -1,1 +1,1 @@
-var mnemonic = "sorry token scatter bullet wrap swallow pact tube eager bread omit crisp";
+var mnemonic = "lizard sad response hospital deputy unveil skate mail paddle jewel tongue phone";

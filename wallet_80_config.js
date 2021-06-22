@@ -1,1 +1,1 @@
-var mnemonic = "powder provide expand car nature cause radio body believe elbow lunch junk";
+var mnemonic = "air gesture curve sunny naive media super window horror walk coral code";

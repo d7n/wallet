@@ -1,1 +1,1 @@
-var mnemonic = "lock version buffalo fiction sight capable guard skill boost spike found upon";
+var mnemonic = "gauge upon shine stand expire blade execute moral clip destroy olympic service";

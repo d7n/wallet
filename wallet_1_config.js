@@ -1,1 +1,1 @@
-var mnemonic = "false word bronze donor twin maze cigar venue muscle shoot forest smooth";
+var mnemonic = "alcohol client eyebrow buzz purchase visit leopard pet step start grid delay";

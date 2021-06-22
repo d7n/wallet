@@ -1,1 +1,1 @@
-var mnemonic = "casino scheme nurse drill purity gain accident scale act course emerge excuse";
+var mnemonic = "record kitchen inmate open rabbit world hour weasel amateur canoe they mule";

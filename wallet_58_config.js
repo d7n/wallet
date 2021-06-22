@@ -1,1 +1,1 @@
-var mnemonic = "garlic vapor oyster person fuel spread teach feed reform neck grant music";
+var mnemonic = "neither skate ready kiwi sting question any mushroom idea table merit chef";

@@ -1,1 +1,1 @@
-var mnemonic = "music system eternal fury hope taxi stomach window transfer narrow awful share";
+var mnemonic = "wrong offer index wish toward benefit cloth cactus refuse daughter fragile toward";

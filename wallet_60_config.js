@@ -1,1 +1,1 @@
-var mnemonic = "idle kiss deer junior glide original walk garden cable rural blossom define";
+var mnemonic = "say student column weasel pride grain fatal need develop wheat blanket canyon";

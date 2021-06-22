@@ -1,1 +1,1 @@
-var mnemonic = "olive clog gather faint banner slab together country boring hover size steak";
+var mnemonic = "vote follow debris truly very history build fall chronic safe dinosaur state";

@@ -1,1 +1,1 @@
-var mnemonic = "degree credit pool pill until buyer arena moral fury extend skill pill";
+var mnemonic = "eight typical quick cat only cheese butter mesh pill prison item fury";

@@ -1,1 +1,1 @@
-var mnemonic = "swear human opinion cushion sick diary congress beef manual bleak bright winner";
+var mnemonic = "poverty rely into dial front shallow negative kid lady clarify antique mouse";

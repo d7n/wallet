@@ -1,1 +1,1 @@
-var mnemonic = "submit bean swear divide turkey remain wreck federal brush stomach victory raccoon";
+var mnemonic = "source fiction pull fantasy uncle copper park medal garden digital govern boss";

@@ -1,1 +1,1 @@
-var mnemonic = "avoid stumble execute cabin scale donor rib fox need whisper verb erase";
+var mnemonic = "remember enroll float banner cross whale oblige moment group review kangaroo main";

@@ -1,1 +1,1 @@
-var mnemonic = "discover hundred day patrol wish fall document myself physical rose cash empty";
+var mnemonic = "quality print tourist treat hazard depart pledge same move jump response purity";

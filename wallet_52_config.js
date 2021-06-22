@@ -1,1 +1,1 @@
-var mnemonic = "couch despair winner jar doctor agree merry once stove obvious cabbage skin";
+var mnemonic = "sun eternal museum fancy fade clay tenant coach young slam renew iron";

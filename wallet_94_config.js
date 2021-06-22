@@ -1,1 +1,1 @@
-var mnemonic = "legal chunk palm zone boring impose approve moon message crazy sun royal";
+var mnemonic = "tank flush magic book warrior common artist copy little crater deputy over";

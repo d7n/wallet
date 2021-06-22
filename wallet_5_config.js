@@ -1,1 +1,1 @@
-var mnemonic = "copy laundry beach fringe recall life venture frog piece vivid sure tortoise";
+var mnemonic = "corn castle tuition april song interest sweet afraid distance swing ask expire";

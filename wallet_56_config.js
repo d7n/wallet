@@ -1,1 +1,1 @@
-var mnemonic = "orbit shuffle guard pass final fitness shield twice farm sight ignore knife";
+var mnemonic = "abandon prize fatigue first love menu spawn opinion inmate grain wrestle hurry";

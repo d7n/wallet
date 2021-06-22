@@ -1,1 +1,1 @@
-var mnemonic = "diesel vivid nation one wrestle shrug relax enact dentist regret clump vocal";
+var mnemonic = "device soup foster high hip lyrics sign coconut flee bitter much file";

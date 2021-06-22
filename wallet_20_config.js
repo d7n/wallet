@@ -1,1 +1,1 @@
-var mnemonic = "fringe essay cannon identify affair alpha sheriff tribe pass drink broken fiscal";
+var mnemonic = "arctic nation muffin congress swear just honey tray mad security rich ankle";

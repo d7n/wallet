@@ -1,1 +1,1 @@
-var mnemonic = "throw base gossip axis decade say early nasty royal test toast genre";
+var mnemonic = "guilt plate catalog blind eternal primary pudding fuel nasty fantasy coach village";

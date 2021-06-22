@@ -1,1 +1,1 @@
-var mnemonic = "enter act fiction walnut asthma roof universe exist movie hollow civil sleep";
+var mnemonic = "pudding romance despair ketchup twelve industry dwarf purse saddle cinnamon admit museum";

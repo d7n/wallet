@@ -1,1 +1,1 @@
-var mnemonic = "decrease frost that desk frequent empty visit hedgehog narrow wave void visa";
+var mnemonic = "share grief bundle fluid moon chef thought expect diet pizza flight enlist";
