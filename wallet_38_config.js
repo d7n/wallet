@@ -1,1 +1,1 @@
-var mnemonic = "vicious poem brick author eyebrow eager dress runway cook kitten fun artist";
+var mnemonic = "expose shoulder atom same purpose major shoot rubber traffic color either theme";

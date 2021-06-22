@@ -1,1 +1,1 @@
-var mnemonic = "van demand short black connect muscle involve excite salad dice dentist coach";
+var mnemonic = "artwork live genius machine custom few liar roof equal only humble denial";

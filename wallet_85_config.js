@@ -1,1 +1,1 @@
-var mnemonic = "blame electric unhappy fall observe sad kind exotic impose print west green";
+var mnemonic = "bike evoke carpet update cabin spring sunset budget empty hospital ethics candy";

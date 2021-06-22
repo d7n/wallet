@@ -1,1 +1,1 @@
-var mnemonic = "gain basic matter bachelor visit cave promote unusual polar tackle borrow initial";
+var mnemonic = "nuclear until pair usage actress dune resemble banner thunder mesh kitchen orient";

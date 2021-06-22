@@ -1,1 +1,1 @@
-var mnemonic = "photo pony afford tomorrow emotion coral maximum output polar humble pet second";
+var mnemonic = "bundle balcony nuclear ahead clever addict lake salt alert wagon sell slight";

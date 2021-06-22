@@ -1,1 +1,1 @@
-var mnemonic = "begin miss sausage frame behave recall gown main surround warm series ladder";
+var mnemonic = "improve monitor light ensure choose business side donate link swing tobacco actual";

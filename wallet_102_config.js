@@ -1,1 +1,1 @@
-var mnemonic = "fury comic under regret slot local pet wagon pave core muscle shaft";
+var mnemonic = "siren movie retire mail ride repair sample pluck season modify distance sound";

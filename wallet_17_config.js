@@ -1,1 +1,1 @@
-var mnemonic = "online match patch merit emotion weather shine garment perfect law defy tone";
+var mnemonic = "dignity earn install proof hobby gift black grow curve face organ cereal";

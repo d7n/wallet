@@ -1,1 +1,1 @@
-var mnemonic = "school wise love middle spoon boss method pumpkin cry inspire someone project";
+var mnemonic = "tuition useless satisfy veteran upgrade stadium minute stay amazing pottery edit acoustic";

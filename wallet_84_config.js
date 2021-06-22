@@ -1,1 +1,1 @@
-var mnemonic = "lizard rule liquid globe parent seed inspire pyramid ten antenna dune payment";
+var mnemonic = "grow night mountain cat common occur visa cube decorate leaf orphan olympic";

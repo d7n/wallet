@@ -1,1 +1,1 @@
-var mnemonic = "subject board just sheriff output protect east lend quick wrong nut country";
+var mnemonic = "whisper property laundry furnace shy december deliver surge matter surge pretty dumb";

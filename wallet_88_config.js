@@ -1,1 +1,1 @@
-var mnemonic = "ability pyramid rib innocent buyer lobster achieve federal fly eagle matter phone";
+var mnemonic = "supreme size educate amateur caution stand text fetch faculty napkin cradle sport";

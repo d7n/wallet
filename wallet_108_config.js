@@ -1,1 +1,1 @@
-var mnemonic = "victory define various rate main about carbon there gospel neither frozen script";
+var mnemonic = "box lamp now sweet muscle lazy clock wheat lens family cable shoe";

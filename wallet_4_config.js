@@ -1,1 +1,1 @@
-var mnemonic = "battle slice nest accident surface solve unit bike foam turkey post tattoo";
+var mnemonic = "plug fragile federal prize venture believe parent volume soon kind shell arctic";

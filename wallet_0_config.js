@@ -1,1 +1,1 @@
-var mnemonic = "memory lift cram famous note blood vault grab dignity sad project finish";
+var mnemonic = "clinic limit fee raven open dentist return hollow raccoon renew media clutch";

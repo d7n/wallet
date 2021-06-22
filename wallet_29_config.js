@@ -1,1 +1,1 @@
-var mnemonic = "indoor remove grow broom buddy method token announce capable regular conduct gesture";
+var mnemonic = "loyal mule since expose answer stamp armor gravity car song brief another";

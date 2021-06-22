@@ -1,1 +1,1 @@
-var mnemonic = "dwarf drill artefact spice joke glance hotel umbrella reflect spatial cube neglect";
+var mnemonic = "defense side know lawsuit mandate that spike recipe cabin toddler top old";

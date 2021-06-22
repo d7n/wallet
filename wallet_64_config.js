@@ -1,1 +1,1 @@
-var mnemonic = "now sleep cliff grit describe involve actress file gym ignore frozen scheme";
+var mnemonic = "clog decide multiply depend axis live unit crew deal attitude female phrase";

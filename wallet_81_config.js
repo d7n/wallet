@@ -1,1 +1,1 @@
-var mnemonic = "solid half muscle swarm visual mosquito copper virtual produce guide magic knock";
+var mnemonic = "harvest number canoe wood cricket language venue odor tool invite foot snow";

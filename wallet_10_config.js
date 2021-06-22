@@ -1,1 +1,1 @@
-var mnemonic = "kidney fabric during cement fabric hunt vibrant car area bind zero square";
+var mnemonic = "cry trigger grief huge jacket web inmate sure appear tortoise twice cliff";

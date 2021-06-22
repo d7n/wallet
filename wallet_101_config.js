@@ -1,1 +1,1 @@
-var mnemonic = "hello guide twice flame oval stamp crunch evil helmet critic whisper rail";
+var mnemonic = "please slush seek flame slot away bird maid section bachelor word monitor";

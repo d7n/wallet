@@ -1,1 +1,1 @@
-var mnemonic = "rocket garbage subject gauge blade patch dignity tag carry inhale alarm robot";
+var mnemonic = "resist goddess stone audit clown trial okay kind dash friend current palm";

@@ -1,1 +1,1 @@
-var mnemonic = "traffic great item index right circle emerge sick zebra hood round embrace";
+var mnemonic = "settle oyster electric train walk bundle flame sugar chest scale stairs wage";

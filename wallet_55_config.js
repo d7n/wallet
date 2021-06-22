@@ -1,1 +1,1 @@
-var mnemonic = "sentence section install drill tragic column garment cigar confirm barely unfair section";
+var mnemonic = "wrap sun recipe admit collect baby wet oak advance divorce major lion";

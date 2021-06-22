@@ -1,1 +1,1 @@
-var mnemonic = "horror salmon else sunset degree car wave evolve east coin traffic salon";
+var mnemonic = "shadow photo security note twin street pair hood virus wall acoustic there";

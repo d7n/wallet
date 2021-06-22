@@ -1,1 +1,1 @@
-var mnemonic = "found weasel obscure bullet tide tobacco taste timber shuffle refuse spray ride";
+var mnemonic = "panda drift magnet monkey assume situate barely hobby economy crisp cupboard friend";

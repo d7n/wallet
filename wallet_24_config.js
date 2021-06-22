@@ -1,1 +1,1 @@
-var mnemonic = "okay provide party joke more alone decline maximum fish describe below field";
+var mnemonic = "impact surge mango reason sugar lunar foil spoil liar expire mechanic runway";

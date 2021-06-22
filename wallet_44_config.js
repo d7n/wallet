@@ -1,1 +1,1 @@
-var mnemonic = "oak pepper easily file impulse fiber rotate wait pull valley impulse crowd";
+var mnemonic = "summer weather rule fantasy path airport betray risk dirt friend witness seat";

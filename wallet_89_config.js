@@ -1,1 +1,1 @@
-var mnemonic = "sign reward army crack dad release senior better trial loyal excess ticket";
+var mnemonic = "burger renew pizza smooth sniff split priority copper economy movie clarify piece";

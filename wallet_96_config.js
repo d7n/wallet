@@ -1,1 +1,1 @@
-var mnemonic = "fetch cigar ribbon mask shy noise industry essence curve awful bulb slab";
+var mnemonic = "resemble ketchup travel edit knee motor run life author crouch nuclear found";

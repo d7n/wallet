@@ -1,1 +1,1 @@
-var mnemonic = "thunder large amused crouch science mansion expand obey delay put autumn valve";
+var mnemonic = "hybrid bonus turn fork rapid timber spray admit treat stage mule bamboo";

@@ -1,1 +1,1 @@
-var mnemonic = "desk exercise episode task chest goat chair analyst notable sock cannon sweet";
+var mnemonic = "denial pull boil people whisper social alley spy journey else under slush";

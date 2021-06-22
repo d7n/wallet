@@ -1,1 +1,1 @@
-var mnemonic = "envelope bundle grain debris kick dry lake vicious wine veteran wink slender";
+var mnemonic = "asset stuff wear betray element position metal glimpse evoke search pair adult";

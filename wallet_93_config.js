@@ -1,1 +1,1 @@
-var mnemonic = "loyal inhale cereal coffee recycle essay coach right frame dentist amazing gate";
+var mnemonic = "mountain stomach exhibit dragon valve luggage hover into now glue gauge topple";

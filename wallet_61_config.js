@@ -1,1 +1,1 @@
-var mnemonic = "clog universe silver peasant cruise interest trigger soup boy tape toward student";
+var mnemonic = "bright young tomorrow duck soldier luxury history forget market cash escape wall";

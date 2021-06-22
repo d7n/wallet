@@ -1,1 +1,1 @@
-var mnemonic = "accuse farm impose orchard warm small orchard live man crew annual combine";
+var mnemonic = "garage museum agent option grant plastic express screen foil oblige elite damage";

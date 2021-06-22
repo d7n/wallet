@@ -1,1 +1,1 @@
-var mnemonic = "unlock clog budget original slice price material wink pond zero pistol away";
+var mnemonic = "adapt dose team sunset amazing ritual victory wrestle woman describe sign hotel";

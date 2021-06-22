@@ -1,1 +1,1 @@
-var mnemonic = "pulse census love amount student public blade result magic weapon panel primary";
+var mnemonic = "kingdom tank into text deputy talent concert moon torch flat chunk divert";

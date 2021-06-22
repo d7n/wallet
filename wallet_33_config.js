@@ -1,1 +1,1 @@
-var mnemonic = "list puppy alone glass kind hedgehog assault exotic cheese trend caught pepper";
+var mnemonic = "sunny cram museum climb thank frame eight alien series spatial inherit scheme";

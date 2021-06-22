@@ -1,1 +1,1 @@
-var mnemonic = "ride segment bonus shine supply sight agent trip demand head kind swallow";
+var mnemonic = "excite trophy sing noodle stamp clip slot tortoise under prison fruit similar";

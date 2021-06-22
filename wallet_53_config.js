@@ -1,1 +1,1 @@
-var mnemonic = "fog spy select connect turtle health category symbol wear plate fold enough";
+var mnemonic = "found wave digital slam pave clip satisfy food resource horror category abstract";

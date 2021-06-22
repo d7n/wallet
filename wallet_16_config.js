@@ -1,1 +1,1 @@
-var mnemonic = "collect vast height wash assist actual harbor tornado budget intact net bird";
+var mnemonic = "talent lift soccer potato sea various this office quiz sock exclude collect";

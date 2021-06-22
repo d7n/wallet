@@ -1,1 +1,1 @@
-var mnemonic = "seek orbit cinnamon mind pill unit sausage cactus that photo power ketchup";
+var mnemonic = "muffin employ pole yellow own attend swallow engage general disorder alone keep";

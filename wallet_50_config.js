@@ -1,1 +1,1 @@
-var mnemonic = "stone dumb away science sunny valley spoil blouse monitor develop nephew devote";
+var mnemonic = "start crime short soup where chest own annual minimum cement danger advance";

@@ -1,1 +1,1 @@
-var mnemonic = "need pull stereo flock vendor gold suspect kit rich live viable fiscal";
+var mnemonic = "edit answer plug joke rule angle produce practice apology discover mad night";

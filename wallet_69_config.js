@@ -1,1 +1,1 @@
-var mnemonic = "recipe across drop plug match pet panel frame spatial version general test";
+var mnemonic = "frog puzzle resemble chief panther walnut strike network puppy siege fox clever";

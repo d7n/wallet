@@ -1,1 +1,1 @@
-var mnemonic = "ancient strike join surround angry believe boring betray crumble lounge prison guide";
+var mnemonic = "close crime strong gospel exchange coach dentist abandon butter rural orange fabric";

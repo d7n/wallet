@@ -1,1 +1,1 @@
-var mnemonic = "success typical output wage boost sketch below clip curtain have height axis";
+var mnemonic = "scene thrive doll hunt easily again mechanic avocado used garage tomato excite";

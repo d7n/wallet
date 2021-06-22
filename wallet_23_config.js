@@ -1,1 +1,1 @@
-var mnemonic = "logic above cool river annual enact expire profit exist noble life accident";
+var mnemonic = "vote scene marble lava deer nature stereo laundry wonder total flavor detect";

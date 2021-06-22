@@ -1,1 +1,1 @@
-var mnemonic = "ginger attack empty blast mom west float short cherry cake company crew";
+var mnemonic = "capable depth blade relax chicken kite leg always drop metal top mixture";

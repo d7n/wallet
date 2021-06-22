@@ -1,1 +1,1 @@
-var mnemonic = "clinic bunker shock cactus good logic absorb skirt island web middle razor";
+var mnemonic = "segment window great thumb all shove cause job robot critic crime raw";

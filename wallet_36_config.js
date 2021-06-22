@@ -1,1 +1,1 @@
-var mnemonic = "exit hub strike manage ridge wheat they vast economy flush unusual unit";
+var mnemonic = "kick awful dash rose build manual poet crouch nut antenna truck slush";

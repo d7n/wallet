@@ -1,1 +1,1 @@
-var mnemonic = "jaguar ostrich bargain famous team cushion people insane nation caution rich faith";
+var mnemonic = "example coyote front paddle tone apology fashion potato crunch talk sentence mention";

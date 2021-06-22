@@ -1,1 +1,1 @@
-var mnemonic = "firm vintage pottery axis demand twin prize require drop police fatigue exit";
+var mnemonic = "stool credit guitar wink marriage loud deal gain group assume security earn";

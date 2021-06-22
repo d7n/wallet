@@ -1,1 +1,1 @@
-var mnemonic = "decade mercy song normal gallery gap glad camera hockey defense phone satoshi";
+var mnemonic = "genre olive cinnamon mammal tiger noise mule stadium okay drop drama strong";

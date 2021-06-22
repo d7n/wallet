@@ -1,1 +1,1 @@
-var mnemonic = "letter life planet cactus vocal battle marble govern match provide cabin silver";
+var mnemonic = "wheel inflict sting approve charge anger enrich blind lion come second lamp";

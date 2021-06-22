@@ -1,1 +1,1 @@
-var mnemonic = "various drama myself material develop race symptom patient party future treat toward";
+var mnemonic = "already skull rescue thank library day behind such reduce danger shift stool";

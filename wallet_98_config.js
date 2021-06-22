@@ -1,1 +1,1 @@
-var mnemonic = "minute saddle dance know interest armor return explain animal pyramid pottery differ";
+var mnemonic = "wrap bacon athlete base link wheel slogan disorder middle spring buzz exhaust";

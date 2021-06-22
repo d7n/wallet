@@ -1,1 +1,1 @@
-var mnemonic = "draft three opinion hotel taste music oven mountain lumber universe marble fit";
+var mnemonic = "effort opera game west brief armed rough neglect hire dolphin welcome utility";

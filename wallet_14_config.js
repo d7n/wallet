@@ -1,1 +1,1 @@
-var mnemonic = "wave parent robust agent genius fat video flag act twelve midnight pool";
+var mnemonic = "orient shield brief under barrel pipe able trial brass street mobile bone";

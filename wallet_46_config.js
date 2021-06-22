@@ -1,1 +1,1 @@
-var mnemonic = "pattern toss glare club access elegant blast verb private device divert primary";
+var mnemonic = "deliver cart silly polar miracle vehicle south cool fatigue worry foster game";

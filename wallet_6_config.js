@@ -1,1 +1,1 @@
-var mnemonic = "ketchup witness pipe distance stairs gospel address learn witness tuna desert charge";
+var mnemonic = "congress chicken usage bronze lunar own sauce gasp ghost wing used girl";

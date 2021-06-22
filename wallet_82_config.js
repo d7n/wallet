@@ -1,1 +1,1 @@
-var mnemonic = "rule immune invest release toddler ten century miracle unhappy balcony frequent appear";
+var mnemonic = "home marble summer slam spirit tongue tomorrow expose tube process actress refuse";

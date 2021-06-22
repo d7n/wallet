@@ -1,1 +1,1 @@
-var mnemonic = "walk frog general unknown pelican pilot phone rail public fluid economy walk";
+var mnemonic = "beach cup match donor describe fossil economy cloud bring immune logic pill";

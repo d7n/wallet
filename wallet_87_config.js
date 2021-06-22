@@ -1,1 +1,1 @@
-var mnemonic = "rebel tool credit one rifle mushroom cereal dust vendor mutual clever distance";
+var mnemonic = "entry disease dish time excite stove fence often duck defy purse violin";

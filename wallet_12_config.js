@@ -1,1 +1,1 @@
-var mnemonic = "about invest baby hour attitude notable pipe finish tuition sausage dizzy copper";
+var mnemonic = "stay aisle soul riot seed virus plate fresh release short lawsuit arrive";

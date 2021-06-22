@@ -1,1 +1,1 @@
-var mnemonic = "major piece anger chef cabin damage tube nuclear ethics sorry pledge bike";
+var mnemonic = "arrow pony attract below siren midnight essay harsh deputy mercy enrich retire";

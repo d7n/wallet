@@ -1,1 +1,1 @@
-var mnemonic = "recipe retire plunge double more bronze cement bone cover humble elegant slush";
+var mnemonic = "claim force hire bone portion machine school maximum hill fence wise chief";

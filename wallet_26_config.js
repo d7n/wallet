@@ -1,1 +1,1 @@
-var mnemonic = "body only soup remember decrease section tribe inform double lawsuit marriage unit";
+var mnemonic = "dial arrange hungry average toddler recycle wood brain output scale manual neck";

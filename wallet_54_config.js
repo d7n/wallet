@@ -1,1 +1,1 @@
-var mnemonic = "boat jealous regret peanut cube asthma rich fan nerve material rough bone";
+var mnemonic = "walk arctic throw resist battle flee spray keen target mixed antenna power";

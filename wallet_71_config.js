@@ -1,1 +1,1 @@
-var mnemonic = "scan leopard erase ocean door laundry evoke dragon arctic scissors element dilemma";
+var mnemonic = "panther faith blast seed exercise topic jaguar food humor select stuff lyrics";

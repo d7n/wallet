@@ -1,1 +1,1 @@
-var mnemonic = "fire indicate achieve custom road draw wagon body anchor despair load laugh";
+var mnemonic = "wrestle suspect feature liberty endorse degree next right bitter acquire prison toward";

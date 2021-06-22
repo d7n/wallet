@@ -1,1 +1,1 @@
-var mnemonic = "shy hope balance history subject color bench name ask primary defense plate";
+var mnemonic = "vendor powder pottery stable poet win seek forum alcohol brave world turtle";

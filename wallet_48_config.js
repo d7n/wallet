@@ -1,1 +1,1 @@
-var mnemonic = "cube range actual gadget arm panic scare fantasy winter bread noodle pudding";
+var mnemonic = "coyote replace cattle adjust weapon feel tattoo south admit member brisk series";

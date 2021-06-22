@@ -1,1 +1,1 @@
-var mnemonic = "animal lady bonus finger damage oxygen robust maple yard intact view maple";
+var mnemonic = "electric jazz replace bone mail repeat utility either mesh soap vast feed";

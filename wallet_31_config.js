@@ -1,1 +1,1 @@
-var mnemonic = "right uphold audit often light tooth service luggage pigeon planet promote ocean";
+var mnemonic = "jewel stable pen start panda high utility decline toy window mandate secret";

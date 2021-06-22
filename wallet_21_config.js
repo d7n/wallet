@@ -1,1 +1,1 @@
-var mnemonic = "reveal sort level embody pony protect junior machine rain course issue soul";
+var mnemonic = "elite friend lazy deliver betray ice dismiss rocket client velvet castle skull";

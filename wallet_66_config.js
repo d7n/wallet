@@ -1,1 +1,1 @@
-var mnemonic = "dove derive sudden mad stay erase doll surge solid know age estate";
+var mnemonic = "fringe empty age convince cloud depth cruise round wear absorb rather estate";

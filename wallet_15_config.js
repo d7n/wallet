@@ -1,1 +1,1 @@
-var mnemonic = "major race antique color retreat park boss wagon entire snake mouse find";
+var mnemonic = "stick toe idea biology animal host priority govern dirt lazy risk riot";

@@ -1,1 +1,1 @@
-var mnemonic = "purchase uncle quiz umbrella movie harbor nice dynamic census december notice flash";
+var mnemonic = "toddler letter alien meadow pilot diamond sunset resist raise exclude injury scout";

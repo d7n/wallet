@@ -1,1 +1,1 @@
-var mnemonic = "box quarter know oxygen sweet scene first rescue rhythm eager acid strike";
+var mnemonic = "into increase delay treat lock fish medal evil detail project copper muscle";

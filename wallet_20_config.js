@@ -1,1 +1,1 @@
-var mnemonic = "various occur sort long symptom drum segment creek swift distance huge luxury";
+var mnemonic = "eternal slim cruel beyond fabric assault chuckle beef race evidence analyst fantasy";

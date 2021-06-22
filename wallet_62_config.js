@@ -1,1 +1,1 @@
-var mnemonic = "aspect tube lecture evidence pride tiny desert upset brisk purity planet glue";
+var mnemonic = "range pelican certain physical eye rule spell tattoo glance furnace phrase body";

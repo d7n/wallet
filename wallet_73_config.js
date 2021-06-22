@@ -1,1 +1,1 @@
-var mnemonic = "unable want payment box orient boost space duck crush margin chair today";
+var mnemonic = "mushroom smile learn obey tired resemble merry rocket erase strategy trim credit";

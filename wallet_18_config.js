@@ -1,1 +1,1 @@
-var mnemonic = "ill diet pistol bomb food cousin soup loan smooth lunch squirrel ripple";
+var mnemonic = "leg else fan guess napkin square point basic avocado amateur fly marriage";
