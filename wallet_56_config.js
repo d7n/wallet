@@ -1,1 +1,1 @@
-var mnemonic = "multiply fashion exact convince arrive fun conduct balcony empower cry argue behind";
+var mnemonic = "enemy museum feed walk grain collect reject antenna carry add punch under";

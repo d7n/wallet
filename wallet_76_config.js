@@ -1,1 +1,1 @@
-var mnemonic = "arrive forest punch stamp sunset right pelican trial royal seek senior galaxy";
+var mnemonic = "scout put derive boring vote excuse satisfy assume fork speak spider satoshi";

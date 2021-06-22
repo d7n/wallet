@@ -1,1 +1,1 @@
-var mnemonic = "code gallery guide spin hurt improve bone civil surprise deposit rapid thumb";
+var mnemonic = "invite kid bike enable session climb dirt glimpse leopard food topple manual";

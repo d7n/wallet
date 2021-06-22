@@ -1,1 +1,1 @@
-var mnemonic = "advice future meadow yard now strong disagree broom capital visual scatter area";
+var mnemonic = "skin unknown expand hover social mesh isolate main inmate price road song";

@@ -1,1 +1,1 @@
-var mnemonic = "garage tongue broken panel buffalo yellow economy faint captain shop lounge put";
+var mnemonic = "know found promote vote ready stone enlist stay ten law buyer build";

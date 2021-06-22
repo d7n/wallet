@@ -1,1 +1,1 @@
-var mnemonic = "wish annual toe flag twice axis exist link meat arctic also fuel";
+var mnemonic = "return arrow hurt select outer sketch collect picnic behave loan album gasp";

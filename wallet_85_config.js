@@ -1,1 +1,1 @@
-var mnemonic = "tiny chest this world strong torch flip tone scrub road tuition gas";
+var mnemonic = "pear pigeon snow man purity finger debris they minute sphere pelican all";

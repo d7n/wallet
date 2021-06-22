@@ -1,1 +1,1 @@
-var mnemonic = "hood insane barely noble asset brave cruise blur noble display private awkward";
+var mnemonic = "cry carpet truth alarm demand tiger stick rely juice brush quick trigger";

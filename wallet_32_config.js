@@ -1,1 +1,1 @@
-var mnemonic = "curve catalog pattern salt wear toddler roast absurd offer width actual budget";
+var mnemonic = "egg wheat follow notable involve fold relief survey length render brisk million";

@@ -1,1 +1,1 @@
-var mnemonic = "blast shadow topic hub often gain bike chef endorse february easy only";
+var mnemonic = "corn shrug word erupt pipe discover adapt slow protect bag include buzz";

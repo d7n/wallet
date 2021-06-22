@@ -1,1 +1,1 @@
-var mnemonic = "cover actual comic dish shoot crisp chicken drama merge season firm bus";
+var mnemonic = "mix upon drive sponsor aim peanut imitate west penalty usage fringe mouse";

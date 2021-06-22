@@ -1,1 +1,1 @@
-var mnemonic = "catalog ostrich south chuckle ring identify believe sense day cradle country ability";
+var mnemonic = "elder cute fabric elbow cool glow regret month when letter pet dose";

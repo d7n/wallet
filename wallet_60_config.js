@@ -1,1 +1,1 @@
-var mnemonic = "quiz extend poem effort first mouse kid soldier foot melody actual quantum";
+var mnemonic = "they require smoke battle front manual trade churn female wide genre myth";

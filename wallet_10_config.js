@@ -1,1 +1,1 @@
-var mnemonic = "apple foster valve cook young silly moral lion mistake vicious drum minute";
+var mnemonic = "exotic misery slab quit lend kick route winter price heart practice seminar";

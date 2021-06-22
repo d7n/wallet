@@ -1,1 +1,1 @@
-var mnemonic = "nuclear electric subject negative upper grace myself display emotion cause tone special";
+var mnemonic = "indicate champion rose spawn post weapon lava north outdoor amused turn april";

@@ -1,1 +1,1 @@
-var mnemonic = "unaware soccer orient key phrase focus current attack this purity upon luxury";
+var mnemonic = "clog grant spice property rhythm empower arch control asset burden hurry limb";

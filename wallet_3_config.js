@@ -1,1 +1,1 @@
-var mnemonic = "pipe please labor dumb panther impact make loop paper menu omit chair";
+var mnemonic = "such expose brick hurt margin lab liquid crime dumb fan promote enjoy";

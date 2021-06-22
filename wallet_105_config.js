@@ -1,1 +1,1 @@
-var mnemonic = "budget adult short scout lizard tiny quick amused solar draft belt wink";
+var mnemonic = "lobster crew truck sample ahead cinnamon wrist expose bomb field dress again";

@@ -1,1 +1,1 @@
-var mnemonic = "horse number smoke say alien chicken mango donate chronic coach idea celery";
+var mnemonic = "prison garbage cake zero friend canal inspire junior view female tumble dove";

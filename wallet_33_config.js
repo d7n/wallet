@@ -1,1 +1,1 @@
-var mnemonic = "pig seed test zebra two surround dove viable happy media core decrease";
+var mnemonic = "special brand audit cradle color already jazz bike sea install pen inflict";

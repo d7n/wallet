@@ -1,1 +1,1 @@
-var mnemonic = "language fever train want rigid primary air name jeans turtle brush regular";
+var mnemonic = "item song roast exit execute gasp minimum prison settle business lobster shock";

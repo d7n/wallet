@@ -1,1 +1,1 @@
-var mnemonic = "target seek knife lion tank brown valve frown paddle minor deer dwarf";
+var mnemonic = "abandon evidence narrow apology leisure soda aerobic brand castle ripple differ service";

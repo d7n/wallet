@@ -1,1 +1,1 @@
-var mnemonic = "cat armed logic obscure make park achieve humor project flower boss nest";
+var mnemonic = "parent romance stadium book tiger purity wool future harsh reflect depart ankle";

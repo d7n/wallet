@@ -1,1 +1,1 @@
-var mnemonic = "fever decrease type burden paddle remove happy stock affair electric minor tail";
+var mnemonic = "runway forward submit pony kick arctic romance idle essence naive fiction truth";

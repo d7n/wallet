@@ -1,1 +1,1 @@
-var mnemonic = "rebuild drip review title slow slow slush among shy pulp resist taxi";
+var mnemonic = "book south immense rally carry invest risk reduce letter turn guilt wet";

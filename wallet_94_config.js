@@ -1,1 +1,1 @@
-var mnemonic = "tone must talent anchor adjust blanket domain praise fee coyote slam twin";
+var mnemonic = "outer choose ankle focus pottery neglect immense truck canvas good tunnel stool";

@@ -1,1 +1,1 @@
-var mnemonic = "scatter tumble price scrub idea chimney debate armor bag another stadium hobby";
+var mnemonic = "bullet earth jelly test wreck fox pink bundle prevent wrap knee spin";

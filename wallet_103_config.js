@@ -1,1 +1,1 @@
-var mnemonic = "vital video infant expand trash rifle armor model chef kiwi cradle aspect";
+var mnemonic = "family mother video diet method imitate use model agree merge frost east";

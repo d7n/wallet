@@ -1,1 +1,1 @@
-var mnemonic = "lake clap combine grunt august trophy copy tail tilt ice sphere sleep";
+var mnemonic = "solution unique forget verify entire love have fade heavy depend comic search";

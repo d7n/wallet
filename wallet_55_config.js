@@ -1,1 +1,1 @@
-var mnemonic = "produce success mansion city alien share this vendor stumble romance decorate imitate";
+var mnemonic = "better rubber snake dilemma wagon fiber sail resist buddy muscle comfort state";

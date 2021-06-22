@@ -1,1 +1,1 @@
-var mnemonic = "spray diagram abstract trophy deliver allow feel cargo concert cancel hybrid ugly";
+var mnemonic = "drink skill route success mixture normal genre text defy rain room model";

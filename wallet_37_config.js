@@ -1,1 +1,1 @@
-var mnemonic = "artefact hen want trick today endless twelve document cheese mother wife blush";
+var mnemonic = "two fiction dice snap stereo peanut air hotel purpose endorse air autumn";

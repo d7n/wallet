@@ -1,1 +1,1 @@
-var mnemonic = "hello retire remind company bread hundred credit erosion trip universe draft scene";
+var mnemonic = "toilet void evoke column item enact ankle curve fold better recycle essence";

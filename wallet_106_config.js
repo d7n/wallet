@@ -1,1 +1,1 @@
-var mnemonic = "cement bone move almost tuna enjoy cattle away attract upon require fog";
+var mnemonic = "able tortoise tuition dignity film spirit grunt negative limb earn often until";

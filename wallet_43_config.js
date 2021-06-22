@@ -1,1 +1,1 @@
-var mnemonic = "job bamboo walk hip need enable inner ignore rule turtle reason asset";
+var mnemonic = "suit try degree eternal copy open sign way soft token steak space";

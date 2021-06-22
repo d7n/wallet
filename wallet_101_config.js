@@ -1,1 +1,1 @@
-var mnemonic = "donor nominee mouse bag canyon risk fit miracle sheriff dream ten island";
+var mnemonic = "sketch width session health juice toy tribe bus position bar skate crew";

@@ -1,1 +1,1 @@
-var mnemonic = "lock large lawsuit adult mirror album stem battle bunker egg casino leave";
+var mnemonic = "prize minimum select proud mule wonder impulse fall theme glove mammal mention";

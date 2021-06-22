@@ -1,1 +1,1 @@
-var mnemonic = "sleep today stuff inch friend pitch stamp holiday depend million helmet knife";
+var mnemonic = "labor isolate dinner able hybrid tenant virtual say unfold large scan arrange";

@@ -1,1 +1,1 @@
-var mnemonic = "impulse pause chimney bracket element lamp account curve shell scare dirt desk";
+var mnemonic = "advance atom spring idle swim hood slam return laugh wear clump effort";

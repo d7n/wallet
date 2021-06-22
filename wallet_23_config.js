@@ -1,1 +1,1 @@
-var mnemonic = "travel enroll pact there license street strong clap smile census october celery";
+var mnemonic = "satoshi first leisure proof erase victory frequent fury cradle guitar rebel crop";

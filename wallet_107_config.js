@@ -1,1 +1,1 @@
-var mnemonic = "exile comic enter rule glad unhappy expose lemon now tower expect scorpion";
+var mnemonic = "subject valve false mystery horse disagree fetch hurdle match spice observe hard";

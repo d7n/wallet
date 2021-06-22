@@ -1,1 +1,1 @@
-var mnemonic = "gorilla depart cloud recall scrap pear popular butter fit crop narrow pretty";
+var mnemonic = "core act uncover play wish useless payment aware magnet royal biology tragic";

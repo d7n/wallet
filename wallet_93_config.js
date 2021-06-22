@@ -1,1 +1,1 @@
-var mnemonic = "jelly possible layer vocal boss tortoise safe fault sea team hub please";
+var mnemonic = "maple monkey miracle bomb art elevator chronic donate foster around fish job";

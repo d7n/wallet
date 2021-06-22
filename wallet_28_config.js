@@ -1,1 +1,1 @@
-var mnemonic = "claw limit smile expand cliff into crater quick blouse lobster what kick";
+var mnemonic = "enjoy property cereal clump proof start ride butter clay soap maid flat";

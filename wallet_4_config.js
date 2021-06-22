@@ -1,1 +1,1 @@
-var mnemonic = "arrest fringe glory entire close there rescue speak jelly earth brother east";
+var mnemonic = "hover diesel royal jelly intact front payment erode affair unit behind spot";

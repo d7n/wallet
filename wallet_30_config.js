@@ -1,1 +1,1 @@
-var mnemonic = "audit matter snake cool soup isolate ice jazz broom hotel fresh twice";
+var mnemonic = "carpet learn era dilemma shoot balcony flame flush merge ivory fly ridge";

@@ -1,1 +1,1 @@
-var mnemonic = "top bone spike goddess various position very avoid fence chief loop island";
+var mnemonic = "behind retire excite panic pluck penalty animal follow cigar gift industry nation";

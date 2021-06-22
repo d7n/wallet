@@ -1,1 +1,1 @@
-var mnemonic = "caught man rotate category grocery arena sea green payment owner sibling master";
+var mnemonic = "ticket journey grief outdoor copy tattoo satisfy aim fantasy surprise hood circle";

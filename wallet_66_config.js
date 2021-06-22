@@ -1,1 +1,1 @@
-var mnemonic = "blue scan type bar analyst disorder sight slab zone little dial scatter";
+var mnemonic = "camera sausage pave kind ride purity balcony that armor dad possible garlic";

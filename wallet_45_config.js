@@ -1,1 +1,1 @@
-var mnemonic = "uncover village pledge average actress juice dog trend choose clump gift mechanic";
+var mnemonic = "chuckle random monitor swap buzz decorate moment dice betray hint chief castle";

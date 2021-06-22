@@ -1,1 +1,1 @@
-var mnemonic = "wreck peace tribe mix mango lyrics current disagree such magic fall boat";
+var mnemonic = "twin loud transfer medal zoo solution stamp arm club oyster bleak coil";

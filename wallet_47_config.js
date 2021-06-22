@@ -1,1 +1,1 @@
-var mnemonic = "misery protect school able wash fury rookie subway display ripple soldier twice";
+var mnemonic = "canal wrestle attend extend decorate love people sponsor ignore memory gentle athlete";

@@ -1,1 +1,1 @@
-var mnemonic = "distance tide dog vacuum mesh size they dice cattle enjoy reason decline";
+var mnemonic = "mistake excess total push edge nature document satoshi poet loan window vast";

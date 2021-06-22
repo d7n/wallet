@@ -1,1 +1,1 @@
-var mnemonic = "scale daughter monkey rebuild online naive cactus music room enrich pull arctic";
+var mnemonic = "erupt tag harbor wise dry wide visit zebra trouble chat must private";

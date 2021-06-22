@@ -1,1 +1,1 @@
-var mnemonic = "subway ensure cloth easy screen liberty canyon cruel opera disorder split cost";
+var mnemonic = "hip genre aware neutral sustain vendor state refuse hub obey orient shield";

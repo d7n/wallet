@@ -1,1 +1,1 @@
-var mnemonic = "cotton arrow bomb gown wisdom stock expire stool provide illegal fresh tube";
+var mnemonic = "nominee flash flee curtain toward awake treat planet crystal perfect police shed";

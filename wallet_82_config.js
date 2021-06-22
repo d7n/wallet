@@ -1,1 +1,1 @@
-var mnemonic = "timber upgrade skirt junk multiply olympic century window language gorilla veteran today";
+var mnemonic = "forward hood relax minor shoot same word sense slide galaxy stamp illegal";

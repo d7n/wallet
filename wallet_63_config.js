@@ -1,1 +1,1 @@
-var mnemonic = "cannon prevent pony portion pass drink cushion wish blast upon once nice";
+var mnemonic = "next ankle light identify lesson demise ivory school dignity banana ship tomato";

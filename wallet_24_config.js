@@ -1,1 +1,1 @@
-var mnemonic = "cook loan weird blood race harbor office among stomach joke effort believe";
+var mnemonic = "chief country december space rail rib sight essence breeze motion novel cross";

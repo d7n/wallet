@@ -1,1 +1,1 @@
-var mnemonic = "popular weekend sugar hover speed link faint scout lend erosion face prevent";
+var mnemonic = "hawk imitate seminar suffer hedgehog drink explain gun expand crisp oxygen away";

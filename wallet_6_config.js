@@ -1,1 +1,1 @@
-var mnemonic = "awesome pole emerge paper save olive sleep have general what label bench";
+var mnemonic = "fall portion vicious fish cable step ridge seminar wage any fashion identify";

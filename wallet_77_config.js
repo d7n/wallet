@@ -1,1 +1,1 @@
-var mnemonic = "hurry wide sadness copy post maximum parade resist female lend crop repair";
+var mnemonic = "involve logic current identify hammer pretty say spy lock usage discover coral";

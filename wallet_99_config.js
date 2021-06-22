@@ -1,1 +1,1 @@
-var mnemonic = "cruel galaxy mango tilt pistol select spin female lazy suspect consider sick";
+var mnemonic = "ordinary state goat holiday empower boost infant twelve office junior castle speed";

@@ -1,1 +1,1 @@
-var mnemonic = "earn marriage praise arrange actual island bounce discover dawn nominee awkward album";
+var mnemonic = "shrug meat pioneer fiber dream enforce visual say style camera panic wild";

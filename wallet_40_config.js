@@ -1,1 +1,1 @@
-var mnemonic = "hub section sick mad grace during stock visa brick emotion kingdom chunk";
+var mnemonic = "awkward hub flat cinnamon apology siege alpha space demand seed pole inherit";

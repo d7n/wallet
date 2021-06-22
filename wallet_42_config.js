@@ -1,1 +1,1 @@
-var mnemonic = "real range latin depart snap arctic spawn tube say guitar night ankle";
+var mnemonic = "amazing manage crystal upset relief forward enable trouble kit ensure divorce stadium";

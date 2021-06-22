@@ -1,1 +1,1 @@
-var mnemonic = "okay pitch bracket route one false invite slogan hope table essence measure";
+var mnemonic = "apart strong kick kite poem attend bless entire initial cinnamon truly dream";

@@ -1,1 +1,1 @@
-var mnemonic = "exact bulk friend crime three jealous point poverty wear album agent idle";
+var mnemonic = "erosion total dentist noble fee squeeze calm acoustic infant then discover guide";

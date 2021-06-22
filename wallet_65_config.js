@@ -1,1 +1,1 @@
-var mnemonic = "dad surround milk oyster praise alpha save tube timber cradle trial twice";
+var mnemonic = "employ clump material fancy capable boil keep fancy bulk venue brother fine";

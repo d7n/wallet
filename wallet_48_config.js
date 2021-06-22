@@ -1,1 +1,1 @@
-var mnemonic = "deposit network defense fetch dwarf north curious chronic dizzy beef stuff upon";
+var mnemonic = "index luggage drum exist trip radar explain mass slow solution square artist";

@@ -1,1 +1,1 @@
-var mnemonic = "lottery chief manual plastic spice strong whip reduce town season agent marble";
+var mnemonic = "calm mechanic cousin endorse crush bone defense churn rookie filter cluster harvest";

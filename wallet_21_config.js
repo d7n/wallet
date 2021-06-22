@@ -1,1 +1,1 @@
-var mnemonic = "require aisle magnet news risk raccoon luxury lecture cliff lawn seat oppose";
+var mnemonic = "try final example easy permit drill demise wheel warrior fit direct setup";

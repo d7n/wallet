@@ -1,1 +1,1 @@
-var mnemonic = "believe tortoise play onion vapor auction assist joy speak impact choose whale";
+var mnemonic = "raccoon rescue glare jewel fee cube powder throw claim warfare border feature";

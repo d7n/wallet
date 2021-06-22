@@ -1,1 +1,1 @@
-var mnemonic = "else require pave next hurdle service lesson foster lion ability shuffle exchange";
+var mnemonic = "change shock stable three wall basic garage trap charge powder midnight code";

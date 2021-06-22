@@ -1,1 +1,1 @@
-var mnemonic = "furnace paper pledge vote spice bless youth shed comic future rib point";
+var mnemonic = "age swarm man feature deposit ranch ensure join actual stable dove tomorrow";

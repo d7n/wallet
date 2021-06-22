@@ -1,1 +1,1 @@
-var mnemonic = "subway unable manual biology box season gloom author pluck illegal bomb ladder";
+var mnemonic = "small install creek fitness street nuclear enjoy inflict appear jaguar easy female";

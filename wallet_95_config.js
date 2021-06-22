@@ -1,1 +1,1 @@
-var mnemonic = "have upper silent version view cram finish then antique giraffe assault easily";
+var mnemonic = "ladder region foster connect increase champion yellow yard hobby demand gloom group";

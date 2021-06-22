@@ -1,1 +1,1 @@
-var mnemonic = "tilt install distance cause slice pink vocal until moon prefer spy cabin";
+var mnemonic = "quarter whip jeans world company tongue exact youth december spirit cactus enact";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn dune various myth eagle test patch grid comfort this slot hair";
+var mnemonic = "turtle cluster winter forget rival shoot special wolf brick hip order dash";

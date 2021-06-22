@@ -1,1 +1,1 @@
-var mnemonic = "whip uniform time dinner street lizard quit soup summer cherry ability bacon";
+var mnemonic = "average gospel width oak fiction exclude kitten mirror stairs slice hello path";

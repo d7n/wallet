@@ -1,1 +1,1 @@
-var mnemonic = "confirm list track peace wedding subject gadget dice present test patient awake";
+var mnemonic = "dress kit virtual arena critic glad need intact fault thing twist talent";

@@ -1,1 +1,1 @@
-var mnemonic = "thought age unlock nose announce fiscal toss maximum surge brown able wealth";
+var mnemonic = "indoor chuckle believe sketch stay arena oven sugar museum until render lonely";

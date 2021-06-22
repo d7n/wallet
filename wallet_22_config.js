@@ -1,1 +1,1 @@
-var mnemonic = "worry sibling dutch february ball clever magic coffee volcano voice clutch control";
+var mnemonic = "duck asset tilt tooth maximum denial similar renew struggle text oven equip";

@@ -1,1 +1,1 @@
-var mnemonic = "tonight tuna such honey dumb put choose maid trash they depth urban";
+var mnemonic = "future moon cereal success slight cement inner distance enforce lawn machine furnace";

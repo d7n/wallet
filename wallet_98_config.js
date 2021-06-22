@@ -1,1 +1,1 @@
-var mnemonic = "earn enforce van harsh debate horse fence total ski pioneer exotic nephew";
+var mnemonic = "border advice reward doctor scare enable shield vacant argue world there hold";

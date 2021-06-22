@@ -1,1 +1,1 @@
-var mnemonic = "write sunny stamp invest toilet bind spread swim lazy balcony enroll dog";
+var mnemonic = "crystal click test invite scrub acid volume glare cluster mistake scout foil";

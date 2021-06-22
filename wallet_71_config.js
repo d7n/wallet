@@ -1,1 +1,1 @@
-var mnemonic = "rebuild suffer amount beef fiscal jungle drill gorilla once pudding rent empty";
+var mnemonic = "express alert example capable town response laptop enact price weekend fancy confirm";

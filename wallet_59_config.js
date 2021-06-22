@@ -1,1 +1,1 @@
-var mnemonic = "cake movie critic lock obscure leopard smile extra suit derive exact giggle";
+var mnemonic = "matrix over disorder vault hand clip area recipe hen fork review exhibit";

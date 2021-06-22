@@ -1,1 +1,1 @@
-var mnemonic = "picture vocal evoke crash suggest rose infant describe meat stuff repair play";
+var mnemonic = "horse alley tuna little creek spell mountain middle margin output clever danger";
