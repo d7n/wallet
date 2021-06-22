@@ -1,1 +1,1 @@
-var mnemonic = "youth razor winner scene rifle entry empower caught diary put glow puzzle";
+var mnemonic = "attend high fatal gauge time another choice method better utility crawl poverty";

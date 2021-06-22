@@ -1,1 +1,1 @@
-var mnemonic = "author mushroom used century thing neutral barely decade mammal royal extend such";
+var mnemonic = "find eagle abandon amateur bamboo glue civil kangaroo soldier will soldier return";

@@ -1,1 +1,1 @@
-var mnemonic = "common cannon maximum sister frown utility predict struggle found dust once bottom";
+var mnemonic = "certain fresh such hidden hip flash merit hand wear program admit soup";

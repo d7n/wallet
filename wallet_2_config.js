@@ -1,1 +1,1 @@
-var mnemonic = "park sibling cause notable cheese hour mask dance simple wedding force actor";
+var mnemonic = "fiction post level element rabbit virtual body mobile disease black useless address";

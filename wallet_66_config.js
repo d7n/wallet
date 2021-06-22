@@ -1,1 +1,1 @@
-var mnemonic = "jazz solution trigger pill topple about steak bulk explain mistake egg panic";
+var mnemonic = "solve hawk math reunion razor math sun refuse wasp mystery miracle muscle";

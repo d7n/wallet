@@ -1,1 +1,1 @@
-var mnemonic = "coffee become jewel prepare intact kitten rabbit ritual uphold slush recall apart";
+var mnemonic = "carbon success brush space report paper that neutral plug army swear cause";

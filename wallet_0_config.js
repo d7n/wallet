@@ -1,1 +1,1 @@
-var mnemonic = "book bunker urban riot yellow emerge build echo evoke vehicle flush potato";
+var mnemonic = "lava develop style labor income capital relief critic runway armor winner tourist";

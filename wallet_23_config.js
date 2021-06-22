@@ -1,1 +1,1 @@
-var mnemonic = "step drama worry hand trigger magic tuition crystal annual stadium smile vault";
+var mnemonic = "royal chair vault umbrella claw safe exhaust badge jazz minor brain plate";

@@ -1,1 +1,1 @@
-var mnemonic = "decide lava saddle void hard supreme treat hold upper spare deny snow";
+var mnemonic = "dance organ ticket girl load grow pig angle wide advice nasty fine";

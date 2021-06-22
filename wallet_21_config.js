@@ -1,1 +1,1 @@
-var mnemonic = "obvious woman novel joke gift pear lake twist hold habit delay leopard";
+var mnemonic = "imitate flip arrive yard glimpse decade walnut moment front mobile approve convince";

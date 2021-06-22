@@ -1,1 +1,1 @@
-var mnemonic = "heart expect element need retreat aware bag atom advance strike deer during";
+var mnemonic = "onion creek outer hen trim argue obvious jeans segment accident drastic tide";

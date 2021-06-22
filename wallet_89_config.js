@@ -1,1 +1,1 @@
-var mnemonic = "blush aisle neither lounge vague reform grief basic onion volume reject breeze";
+var mnemonic = "engine gold improve present detail robust decide merry wall such august dentist";

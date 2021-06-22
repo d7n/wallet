@@ -1,1 +1,1 @@
-var mnemonic = "fire pudding pear pink large bunker disease bomb online memory index miss";
+var mnemonic = "trial box smile rookie patch already host axis quarter liar marine wood";

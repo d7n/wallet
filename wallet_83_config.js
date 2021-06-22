@@ -1,1 +1,1 @@
-var mnemonic = "exotic frost uncle embark often abandon nest battle lawn motor choose ignore";
+var mnemonic = "swallow round language mango traffic either elbow mistake toast alert deposit business";

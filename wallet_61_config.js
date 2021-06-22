@@ -1,1 +1,1 @@
-var mnemonic = "school eagle rose recall puzzle hammer hair surprise mutual claim among such";
+var mnemonic = "unaware tone hamster health say crater warrior mom census wear else slogan";

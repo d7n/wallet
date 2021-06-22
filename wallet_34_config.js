@@ -1,1 +1,1 @@
-var mnemonic = "lock square demise asthma distance village erosion grocery build issue snap kidney";
+var mnemonic = "left fatigue custom then damage risk scene senior kiss bridge cousin people";

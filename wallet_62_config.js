@@ -1,1 +1,1 @@
-var mnemonic = "popular broccoli copy assume amused wagon atom soccer jelly gift wool fury";
+var mnemonic = "ordinary pill diamond grass honey gain title orient cat identify sing fury";

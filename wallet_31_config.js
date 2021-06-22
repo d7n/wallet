@@ -1,1 +1,1 @@
-var mnemonic = "imitate match topple grit grant series silver clip bring symptom average road";
+var mnemonic = "donkey together aware happy engage alien bitter theme monitor hat seat cry";

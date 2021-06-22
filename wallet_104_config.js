@@ -1,1 +1,1 @@
-var mnemonic = "topic borrow post science swap coach there lyrics weasel omit foot melody";
+var mnemonic = "phone kick recipe tribe topic unaware dolphin find observe stool truck vintage";

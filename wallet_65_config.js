@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog practice veteran song book crime rose insect seed hire token wet";
+var mnemonic = "eye trade noodle possible burger bounce pitch possible toe vocal mystery urban";

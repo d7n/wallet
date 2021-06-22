@@ -1,1 +1,1 @@
-var mnemonic = "wear insane hospital sound marine frown anger seat tenant trophy orient rail";
+var mnemonic = "envelope champion solid theory scheme safe unveil nest fine flag police woman";

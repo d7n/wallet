@@ -1,1 +1,1 @@
-var mnemonic = "enable guard evil armed tree camera machine random lab during salt open";
+var mnemonic = "drill lens kitchen repeat curious rotate chat maid tongue metal reunion furnace";

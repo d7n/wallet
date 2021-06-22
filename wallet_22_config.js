@@ -1,1 +1,1 @@
-var mnemonic = "impact awful kid supply mobile soul open two script around dance rhythm";
+var mnemonic = "doctor sheriff whisper cry diesel near road luggage inquiry force belt antique";

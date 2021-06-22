@@ -1,1 +1,1 @@
-var mnemonic = "elbow screen roast mean submit wheel rack ridge nest parent alarm grace";
+var mnemonic = "vacuum use human melt left peanut indicate poverty agree invest onion cannon";

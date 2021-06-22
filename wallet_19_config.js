@@ -1,1 +1,1 @@
-var mnemonic = "winter fury blossom result sadness wall tide gauge silver stomach you tide";
+var mnemonic = "index renew evidence universe clap echo merge climb attitude bubble order battle";

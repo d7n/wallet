@@ -1,1 +1,1 @@
-var mnemonic = "roast view will able clock rug coast hat narrow garden setup virus";
+var mnemonic = "essay siege garbage deputy crawl maze vote arena robust detail receive pitch";

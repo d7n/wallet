@@ -1,1 +1,1 @@
-var mnemonic = "advance frozen twenty draw donate buzz truly garment pizza glad require answer";
+var mnemonic = "cheap pelican pioneer daring series pride violin diagram salad dad vintage patch";

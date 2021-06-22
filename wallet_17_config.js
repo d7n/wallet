@@ -1,1 +1,1 @@
-var mnemonic = "east impact process empower sign cluster glare market rapid state banana lens";
+var mnemonic = "melt once million brush away allow syrup story clerk depart chase just";

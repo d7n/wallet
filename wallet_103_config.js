@@ -1,1 +1,1 @@
-var mnemonic = "pool mule guilt wealth avoid black episode charge segment hood nut typical";
+var mnemonic = "test pass arch crowd purity buffalo betray volcano snap runway tent face";

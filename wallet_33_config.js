@@ -1,1 +1,1 @@
-var mnemonic = "govern eye giraffe profit cloth settle prefer arctic future will mirror identify";
+var mnemonic = "always inch barely cart wrap excess legal area frozen hundred flower regret";

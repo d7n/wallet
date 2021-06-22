@@ -1,1 +1,1 @@
-var mnemonic = "middle enable bone ship enforce shiver subject produce energy strike warfare castle";
+var mnemonic = "later wild addict teach pyramid can glide rent glue gossip unique real";

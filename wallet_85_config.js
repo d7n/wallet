@@ -1,1 +1,1 @@
-var mnemonic = "away actress own child usual proud quiz orphan hurt purpose wait vital";
+var mnemonic = "pride embark divert obey immense sample veteran tuition dragon spike green loan";

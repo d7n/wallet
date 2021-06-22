@@ -1,1 +1,1 @@
-var mnemonic = "again behind demand again napkin stick empty eternal trim tourist defy toward";
+var mnemonic = "cross hire ridge dentist quarter ship dinner neutral bracket antenna unlock hollow";

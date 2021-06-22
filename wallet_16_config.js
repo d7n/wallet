@@ -1,1 +1,1 @@
-var mnemonic = "actual chicken hole surround shine type museum shrug retire door crack piece";
+var mnemonic = "wet cruise better obvious merry canal project shrimp spice destroy language tissue";

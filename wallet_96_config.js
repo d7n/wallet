@@ -1,1 +1,1 @@
-var mnemonic = "rely trouble cook vehicle virus leopard reunion alone immense public this sniff";
+var mnemonic = "dignity powder coral trip cinnamon guilt purpose region curious absorb speed swing";

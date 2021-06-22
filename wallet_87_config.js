@@ -1,1 +1,1 @@
-var mnemonic = "team pizza domain police flat base unable hip vivid grape nuclear tide";
+var mnemonic = "across reward believe tumble sand crouch blush speed tape field tribe now";

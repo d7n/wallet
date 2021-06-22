@@ -1,1 +1,1 @@
-var mnemonic = "tide fish seek oppose old jump quit stairs buffalo marriage couple entire";
+var mnemonic = "broccoli recycle connect focus web bitter omit review brief gather off annual";

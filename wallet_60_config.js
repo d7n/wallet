@@ -1,1 +1,1 @@
-var mnemonic = "mansion pelican army tongue shed vicious vague enact art example awful sure";
+var mnemonic = "payment rough miss park oval squirrel absorb remember strike park shine task";

@@ -1,1 +1,1 @@
-var mnemonic = "broom crush junk tuition result portion curtain acid route glass kangaroo stem";
+var mnemonic = "elevator capable away deputy sand biology high canvas pioneer thing witness barely";

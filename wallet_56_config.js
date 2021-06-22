@@ -1,1 +1,1 @@
-var mnemonic = "pave fever divide stuff arena cargo joke rally acid kit guitar tackle";
+var mnemonic = "warfare side canvas pumpkin voice float shiver evoke shield outer destroy original";

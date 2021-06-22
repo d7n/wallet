@@ -1,1 +1,1 @@
-var mnemonic = "people spy onion table panda frown train city bicycle one finger member";
+var mnemonic = "fatal burden orange demand resemble spring grid write job sunny wrap picture";

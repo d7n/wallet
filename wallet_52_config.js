@@ -1,1 +1,1 @@
-var mnemonic = "swear top zero canyon photo height trap trophy monster circle divide caught";
+var mnemonic = "shield strong what ribbon oil kitten brisk unfold shuffle cube tenant mystery";

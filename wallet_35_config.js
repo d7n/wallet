@@ -1,1 +1,1 @@
-var mnemonic = "initial employ wool life bone ankle source mercy erosion limb employ spot";
+var mnemonic = "any caution canoe snack dumb rose home garment surprise twelve little worry";

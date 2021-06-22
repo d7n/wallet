@@ -1,1 +1,1 @@
-var mnemonic = "prepare document gun eager device deposit broccoli fence glimpse render bundle lesson";
+var mnemonic = "naive effort route flip cost zone nothing fade paddle warrior agree cinnamon";

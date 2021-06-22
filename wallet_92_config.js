@@ -1,1 +1,1 @@
-var mnemonic = "news defy jungle exchange exercise father camera survey mean keen stomach olympic";
+var mnemonic = "gown upper choice remember peasant elbow retreat design thought trim intact turkey";

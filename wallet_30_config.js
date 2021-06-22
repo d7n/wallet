@@ -1,1 +1,1 @@
-var mnemonic = "picnic vehicle lumber december display diesel timber forget what vendor brief pigeon";
+var mnemonic = "quote riot human exclude print purse view sadness enhance curious burst hood";

@@ -1,1 +1,1 @@
-var mnemonic = "vivid bulk stool lens gold budget blue cradle space corn route blanket";
+var mnemonic = "sister cotton animal nuclear spawn sad meadow swear vicious anchor shove boy";

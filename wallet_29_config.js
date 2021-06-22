@@ -1,1 +1,1 @@
-var mnemonic = "blast boost work hire undo woman fix become shift promote boy blue";
+var mnemonic = "skill must plunge eager vote ticket vault tilt sure solar kitten future";

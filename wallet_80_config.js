@@ -1,1 +1,1 @@
-var mnemonic = "country west riot once opera daughter talent annual ordinary palm napkin turkey";
+var mnemonic = "merge cereal place rifle image silent elbow drink rely awake shoot return";

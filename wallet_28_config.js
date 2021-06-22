@@ -1,1 +1,1 @@
-var mnemonic = "sadness time myself win plastic accuse mercy between invite evoke frozen ripple";
+var mnemonic = "what capital solid woman bicycle obvious lion switch until phrase fabric flame";

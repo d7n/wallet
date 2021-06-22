@@ -1,1 +1,1 @@
-var mnemonic = "unit crane surprise unable rule country enter tongue melody crystal edge purity";
+var mnemonic = "boring plate virus label pull unable sample pulp acquire dolphin portion omit";

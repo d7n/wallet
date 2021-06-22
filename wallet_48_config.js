@@ -1,1 +1,1 @@
-var mnemonic = "burger lamp carbon canal drive window family circle fame debris inquiry engage";
+var mnemonic = "wet ocean win chicken demise clay imitate plunge tube observe culture intact";

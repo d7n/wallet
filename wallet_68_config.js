@@ -1,1 +1,1 @@
-var mnemonic = "cereal license candy surprise rack cancel yard someone room rain ability jacket";
+var mnemonic = "rebel nose rude style hockey mandate glimpse bacon will oval struggle believe";

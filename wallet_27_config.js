@@ -1,1 +1,1 @@
-var mnemonic = "pen attack write exit bring adjust melody quality ketchup tackle laptop syrup";
+var mnemonic = "asset range brisk volume garment ridge game below reason credit husband length";

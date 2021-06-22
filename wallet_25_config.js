@@ -1,1 +1,1 @@
-var mnemonic = "recall find injury scare rather resource impose alarm eternal will shed sentence";
+var mnemonic = "unit poverty busy manage slogan muscle swim thank ugly pony rice debate";

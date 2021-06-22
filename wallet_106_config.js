@@ -1,1 +1,1 @@
-var mnemonic = "trip bronze gadget dog talent copy swarm sugar tomato pulse bitter hood";
+var mnemonic = "saddle relief monitor maze range radar spread leaf analyst weapon actor ritual";

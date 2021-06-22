@@ -1,1 +1,1 @@
-var mnemonic = "mom host hair problem pen shell spin oak oil tone gallery day";
+var mnemonic = "mother wood vacuum razor sausage target obtain afraid ketchup leopard bulb exchange";

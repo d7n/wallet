@@ -1,1 +1,1 @@
-var mnemonic = "dragon tornado anxiety possible alley insect verb broken crystal rate door raven";
+var mnemonic = "box man cool enhance object comic stable fire match trophy near poverty";

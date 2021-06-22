@@ -1,1 +1,1 @@
-var mnemonic = "father ocean crunch tired morning involve section slice anxiety canvas siren example";
+var mnemonic = "calm unusual lemon six vivid jelly whisper energy course insane assume hill";

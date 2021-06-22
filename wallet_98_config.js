@@ -1,1 +1,1 @@
-var mnemonic = "senior dolphin limb canal voyage visa bicycle sunny arena coffee horror math";
+var mnemonic = "spare crew emotion they machine tree disorder surround dilemma author body mind";

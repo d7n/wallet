@@ -1,1 +1,1 @@
-var mnemonic = "jelly skate bread cement valley metal family wagon hair prevent firm view";
+var mnemonic = "armor loan upset lounge mind transfer affair frame carry glory dragon wagon";

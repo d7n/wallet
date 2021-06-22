@@ -1,1 +1,1 @@
-var mnemonic = "magnet warfare salmon truth ancient pulp erase close plunge school glue bus";
+var mnemonic = "stomach response deliver orchard prosper outdoor access fury you comfort supply brown";

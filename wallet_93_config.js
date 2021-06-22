@@ -1,1 +1,1 @@
-var mnemonic = "harsh fragile label envelope wish rude fossil pilot soap title pact napkin";
+var mnemonic = "month fragile fashion rude barely limb sail raise business south fly ahead";

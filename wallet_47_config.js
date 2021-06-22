@@ -1,1 +1,1 @@
-var mnemonic = "join increase dry glow civil leader damage crop dawn place venture more";
+var mnemonic = "host satoshi true large slab ozone weapon penalty dash police festival fatigue";

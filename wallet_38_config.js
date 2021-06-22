@@ -1,1 +1,1 @@
-var mnemonic = "roof trust rough quarter stock pulp swim hammer theory agent coil slab";
+var mnemonic = "zone pass worry crush topple release carry quit talent spread rain dolphin";

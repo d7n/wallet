@@ -1,1 +1,1 @@
-var mnemonic = "vintage similar rude this friend tumble strike boat amateur circle copper grape";
+var mnemonic = "crumble great away simple parade tattoo captain solar force rhythm motor code";

@@ -1,1 +1,1 @@
-var mnemonic = "feature jewel family amazing large icon enjoy wing dose spot bus tattoo";
+var mnemonic = "essay alarm wasp ostrich oak write ritual census voyage face deputy blur";

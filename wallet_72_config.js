@@ -1,1 +1,1 @@
-var mnemonic = "remain vague inhale basket alter end wash turn stone royal quality furnace";
+var mnemonic = "myself change just frost number minute sheriff interest mountain tube lift route";

@@ -1,1 +1,1 @@
-var mnemonic = "twin inquiry result act deal meadow verify hair piano sunset cry raw";
+var mnemonic = "library long grief muscle arena story night way gauge clip cake obtain";

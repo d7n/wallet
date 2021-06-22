@@ -1,1 +1,1 @@
-var mnemonic = "vendor capable between puppy zone sketch behind plug grid diagram father annual";
+var mnemonic = "hamster harsh public wife fiscal wish rather raven utility trap brain skin";

@@ -1,1 +1,1 @@
-var mnemonic = "promote bar anxiety prosper dose region cash decline quantum doll fly retire";
+var mnemonic = "athlete lesson chase citizen uphold announce visual enjoy double audit alone abuse";

@@ -1,1 +1,1 @@
-var mnemonic = "mass pact denial radar fatal balance record gallery pony exchange pig fiscal";
+var mnemonic = "virtual return taxi vicious subway puzzle pass nerve east clutch law churn";

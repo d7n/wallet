@@ -1,1 +1,1 @@
-var mnemonic = "sun patient ritual sibling moon demand reveal inside desk tornado notice valid";
+var mnemonic = "uphold vivid train brave wisdom hobby brief process almost recall flock cinnamon";

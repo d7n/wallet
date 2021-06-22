@@ -1,1 +1,1 @@
-var mnemonic = "during cram hour glimpse stadium solar arrow mesh distance thank blur trim";
+var mnemonic = "stock humor movie front carpet include coil opinion eyebrow leader canvas journey";

@@ -1,1 +1,1 @@
-var mnemonic = "right arena waste tissue dentist dress doctor solid all blood plunge enforce";
+var mnemonic = "balcony humor warrior oyster rug ranch civil grunt want render trick negative";

@@ -1,1 +1,1 @@
-var mnemonic = "diet alter glow identify settle regret buzz round hospital cabin latin idea";
+var mnemonic = "satisfy invest law dune luggage stage motion mountain problem purpose belt cook";

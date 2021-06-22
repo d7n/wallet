@@ -1,1 +1,1 @@
-var mnemonic = "learn lawn task business member awake cry prepare twenty fame matrix average";
+var mnemonic = "version what planet industry frequent spread receive shuffle fatal option syrup cruise";

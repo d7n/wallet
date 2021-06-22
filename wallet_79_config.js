@@ -1,1 +1,1 @@
-var mnemonic = "junk capital escape cargo rabbit mom corn endless soldier general chaos shy";
+var mnemonic = "what afford tide ordinary rate ahead excuse sock lab style fee orchard";

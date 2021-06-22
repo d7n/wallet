@@ -1,1 +1,1 @@
-var mnemonic = "birth quality wire stand hero suggest duty advance ice traffic talk review";
+var mnemonic = "coast salute adult borrow please brass virtual stage lunch decrease picnic size";

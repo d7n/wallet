@@ -1,1 +1,1 @@
-var mnemonic = "fee since verify distance giant retire pink dumb blame private absent chase";
+var mnemonic = "space toast oak orphan bottom attack abstract spray color speak jump assume";

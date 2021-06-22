@@ -1,1 +1,1 @@
-var mnemonic = "visa waste foam sight apple despair truth answer joy sorry west ostrich";
+var mnemonic = "quarter kitten rate wool hundred kitten february balance sort mesh amazing raw";

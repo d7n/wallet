@@ -1,1 +1,1 @@
-var mnemonic = "option gym early combine now exist patrol detect treat elite leave reduce";
+var mnemonic = "valve wire travel book attend actress run sound catalog robot acid kitchen";

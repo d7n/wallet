@@ -1,1 +1,1 @@
-var mnemonic = "sight dragon hard small decorate toward smart empower session equal task piano";
+var mnemonic = "another hawk trial uncover hamster dutch paddle menu turkey ignore glow boring";

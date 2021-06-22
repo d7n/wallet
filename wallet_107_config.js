@@ -1,1 +1,1 @@
-var mnemonic = "market know start income egg aisle involve beach welcome tail brand hold";
+var mnemonic = "sight pool nuclear piece online utility common faculty brain special angle symbol";

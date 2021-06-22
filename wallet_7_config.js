@@ -1,1 +1,1 @@
-var mnemonic = "capital salad couch pause eagle debris multiply glory shrug egg next rival";
+var mnemonic = "slide smoke resemble staff blossom open matrix build chimney lava slim improve";

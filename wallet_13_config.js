@@ -1,1 +1,1 @@
-var mnemonic = "explain since identify beach local digital differ south dog breeze beyond motor";
+var mnemonic = "volume hospital approve divorce bullet fortune rhythm plastic scheme suggest castle tongue";

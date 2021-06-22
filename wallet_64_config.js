@@ -1,1 +1,1 @@
-var mnemonic = "engage minor shove merge cable anchor agree wheel evidence park verb maximum";
+var mnemonic = "any inspire trip crime cheap dizzy siege earn fever clean prison evolve";
