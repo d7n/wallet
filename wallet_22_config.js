@@ -1,1 +1,1 @@
-var mnemonic = "empower brush black pause inner fork donate series silk height exchange hammer";
+var mnemonic = "jacket clog alley hill like coral reason friend news want truck flee";

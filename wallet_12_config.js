@@ -1,1 +1,1 @@
-var mnemonic = "divide profit hand cheese ecology rug slogan kitchen change bridge field burden";
+var mnemonic = "polar lend chicken reduce violin width casual page project ribbon pond cargo";

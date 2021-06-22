@@ -1,1 +1,1 @@
-var mnemonic = "film devote exchange reason sunny giant gown life grain blade genius sure";
+var mnemonic = "bonus token border sibling cover grape armed great area search layer wild";

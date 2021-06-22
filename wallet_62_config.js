@@ -1,1 +1,1 @@
-var mnemonic = "thank mimic grow ancient then absent famous network uphold offer roast chronic";
+var mnemonic = "there turn lake grab worth family fork expose glare earn wet clock";

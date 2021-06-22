@@ -1,1 +1,1 @@
-var mnemonic = "section danger kingdom husband okay wire base pledge jungle census pill chapter";
+var mnemonic = "slight lamp mammal egg senior sausage glow innocent drastic wet season message";

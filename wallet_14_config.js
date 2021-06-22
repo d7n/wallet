@@ -1,1 +1,1 @@
-var mnemonic = "plate pumpkin ticket jar uphold jungle post detail myself drip oblige water";
+var mnemonic = "ceiling lunar recycle merry picnic kidney employ embody grief resemble wine ramp";

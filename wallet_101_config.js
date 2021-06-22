@@ -1,1 +1,1 @@
-var mnemonic = "ten risk sound joke tip vanish three zero genuine equal dilemma upper";
+var mnemonic = "remind lobster recall lift finish brisk jazz symbol green hand endless shine";

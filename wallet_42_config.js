@@ -1,1 +1,1 @@
-var mnemonic = "job surround drill dry payment end lock face virus oil priority brief";
+var mnemonic = "law sound cry theory wrestle butter atom poem bomb oak leaf fury";

@@ -1,1 +1,1 @@
-var mnemonic = "stereo permit success shield border praise evidence before latin reduce stand also";
+var mnemonic = "chicken inside reveal number warfare carpet mom meat disease kind fatal obtain";

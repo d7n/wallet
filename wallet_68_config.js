@@ -1,1 +1,1 @@
-var mnemonic = "spend shrimp remind settle input subway plate still cradle same patrol file";
+var mnemonic = "area extra prize clump kitchen inhale rose liberty increase ticket olive impose";

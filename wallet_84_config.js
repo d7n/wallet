@@ -1,1 +1,1 @@
-var mnemonic = "marine toilet common type chest police dawn media bean client spin raccoon";
+var mnemonic = "cliff lab stay original tail negative table puppy settle cricket jaguar skin";

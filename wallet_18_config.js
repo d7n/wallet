@@ -1,1 +1,1 @@
-var mnemonic = "green horror weapon frequent ugly soda heavy offer aspect stay matter drive";
+var mnemonic = "dial raw social liberty kiwi panic fantasy glide rice loan rail weather";

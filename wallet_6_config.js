@@ -1,1 +1,1 @@
-var mnemonic = "east craft absorb riot auto useful echo butter text fix donor torch";
+var mnemonic = "mountain blossom myself such clinic fade wave uncle tiger axis tumble bread";

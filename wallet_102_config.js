@@ -1,1 +1,1 @@
-var mnemonic = "camera vocal source drop slim taste rule bean later master half arctic";
+var mnemonic = "angle race settle happy easy skull junior bean glory drink satisfy planet";

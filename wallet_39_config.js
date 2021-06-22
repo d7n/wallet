@@ -1,1 +1,1 @@
-var mnemonic = "actress weasel like wrist donate figure theme ivory rescue rural pass gate";
+var mnemonic = "monster verb bridge slow prepare tooth disagree nurse advance crumble point school";

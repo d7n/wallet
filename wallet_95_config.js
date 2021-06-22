@@ -1,1 +1,1 @@
-var mnemonic = "vague various trap trim fall quote galaxy idle couple balance copper pear";
+var mnemonic = "deny jewel design mosquito nature relax library throw notable trade dish eight";

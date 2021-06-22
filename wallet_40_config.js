@@ -1,1 +1,1 @@
-var mnemonic = "jaguar act deer robust lunch scare price robust pond payment price when";
+var mnemonic = "miss skirt unlock police office approve school coil left sail cave canvas";

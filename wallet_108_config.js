@@ -1,1 +1,1 @@
-var mnemonic = "width skull taxi forum reduce focus candy talent review tree diesel absent";
+var mnemonic = "blast club advice exotic slice program absent either burst beyond mother salon";

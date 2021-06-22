@@ -1,1 +1,1 @@
-var mnemonic = "vehicle caught sail east pyramid over any bullet federal detect sorry system";
+var mnemonic = "monster stuff wealth deal rain crew coin dinner goddess poverty maple dignity";

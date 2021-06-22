@@ -1,1 +1,1 @@
-var mnemonic = "priority lawsuit enforce undo print satoshi foot employ train pelican divide sphere";
+var mnemonic = "century furnace enforce hamster forum half boil emerge april true field stable";

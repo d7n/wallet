@@ -1,1 +1,1 @@
-var mnemonic = "bid behind sight cart turtle garlic below space spike into prevent brief";
+var mnemonic = "cinnamon endorse party horse valley song wall aunt also nerve initial rabbit";

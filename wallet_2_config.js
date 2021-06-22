@@ -1,1 +1,1 @@
-var mnemonic = "wife average report dash taxi airport nerve autumn typical million someone salute";
+var mnemonic = "hunt blanket web gown school piece possible purity other bridge budget avoid";

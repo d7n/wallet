@@ -1,1 +1,1 @@
-var mnemonic = "hero cross lamp range title journey agent original endless front slice naive";
+var mnemonic = "disease calm depth vehicle whisper april awful during diet raven ozone entire";

@@ -1,1 +1,1 @@
-var mnemonic = "leaf kingdom radar nut later draft dentist tunnel champion valve real humble";
+var mnemonic = "wood debris office wage goose dignity excess lake blast student blouse document";

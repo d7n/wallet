@@ -1,1 +1,1 @@
-var mnemonic = "solve involve tiger party warrior velvet return vital lazy advice mountain town";
+var mnemonic = "route topple spirit advice lunar spice cousin moon adjust jungle element razor";

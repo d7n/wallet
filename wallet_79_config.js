@@ -1,1 +1,1 @@
-var mnemonic = "winner junk sense open nominee heart lunar absorb cruel swear proud bind";
+var mnemonic = "moment nose swamp rice job hour material beef common bounce type friend";

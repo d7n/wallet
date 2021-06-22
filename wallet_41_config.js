@@ -1,1 +1,1 @@
-var mnemonic = "toy sauce kite salt bundle ceiling blast comfort crystal depart crack situate";
+var mnemonic = "eyebrow link record profit inch heavy flee over sign wrong march recipe";

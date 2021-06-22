@@ -1,1 +1,1 @@
-var mnemonic = "course print vast roast rack scrub thought carry auction term pudding spoil";
+var mnemonic = "type next heart alley plug popular pupil taxi thought label mirror begin";

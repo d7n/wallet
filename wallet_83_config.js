@@ -1,1 +1,1 @@
-var mnemonic = "also plate similar physical push early turn patient crew liberty trust govern";
+var mnemonic = "donate depart output bean question globe destroy priority honey express stone guilt";

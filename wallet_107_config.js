@@ -1,1 +1,1 @@
-var mnemonic = "tank clown begin disease ocean giant scheme dinner teach field supply dignity";
+var mnemonic = "coyote casino lunar drill ridge only abstract steel absent bundle sound robust";

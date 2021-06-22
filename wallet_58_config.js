@@ -1,1 +1,1 @@
-var mnemonic = "arrive old pledge task universe tattoo win napkin arrow fame renew foot";
+var mnemonic = "lawn news picture bean used label chair blast photo come monitor forward";

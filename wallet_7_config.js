@@ -1,1 +1,1 @@
-var mnemonic = "scene vital please beyond scorpion blossom pact inspire planet task robot razor";
+var mnemonic = "mosquito syrup nice turtle action taxi original broccoli exhaust banana initial cool";

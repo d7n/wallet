@@ -1,1 +1,1 @@
-var mnemonic = "mountain regular memory taxi picture wood innocent chalk brain sister swift riot";
+var mnemonic = "pause seek ostrich ecology column drastic stomach cricket snap fuel great demand";

@@ -1,1 +1,1 @@
-var mnemonic = "gaze decide solid gather flip process any adapt fetch ski lawn top";
+var mnemonic = "suffer cream harbor mosquito mammal bridge purity short alpha disorder lumber favorite";

@@ -1,1 +1,1 @@
-var mnemonic = "scheme second foam wrist gallery wink loyal purity thing crime program place";
+var mnemonic = "fury damage invest range crowd wheat cable uncover oblige polar ethics flat";

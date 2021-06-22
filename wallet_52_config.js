@@ -1,1 +1,1 @@
-var mnemonic = "card example dune team detect elder verify radar general mixture palace shrimp";
+var mnemonic = "basket bulb unveil capable print beef float immune earn kidney dust fiber";

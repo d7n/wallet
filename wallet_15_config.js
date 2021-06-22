@@ -1,1 +1,1 @@
-var mnemonic = "smoke fitness miracle reform process blast critic soldier monster bulk gate report";
+var mnemonic = "exit they awkward under sail inherit vital basic check harbor total fringe";

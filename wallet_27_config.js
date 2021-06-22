@@ -1,1 +1,1 @@
-var mnemonic = "weekend mail glory wealth marriage drop south embark sauce inflict fiber strong";
+var mnemonic = "program safe surround cancel early ramp orchard rural shoot era quick mountain";

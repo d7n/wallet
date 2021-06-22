@@ -1,1 +1,1 @@
-var mnemonic = "program test squirrel kiss pipe art mesh fringe pass false pretty casino";
+var mnemonic = "slide guard maze nuclear panel marine illegal ball deer just borrow deal";

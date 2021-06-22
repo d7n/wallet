@@ -1,1 +1,1 @@
-var mnemonic = "grass girl crazy picnic mammal match staff love pattern volume level whip";
+var mnemonic = "young hill kite chase program attend weather tooth three youth blouse one";

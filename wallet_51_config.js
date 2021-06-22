@@ -1,1 +1,1 @@
-var mnemonic = "rice inside together apple help cave kitchen fire obey argue broom never";
+var mnemonic = "deny repair bench club bright exact tray link universe pepper tissue arrow";

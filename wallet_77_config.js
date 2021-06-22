@@ -1,1 +1,1 @@
-var mnemonic = "august imitate gesture uniform until boat width capable radio toilet talent engage";
+var mnemonic = "demand fabric maximum have lyrics mandate fiber visual service mention rent army";

@@ -1,1 +1,1 @@
-var mnemonic = "wisdom inmate captain ridge chair surprise pond case dad mule spend text";
+var mnemonic = "that catch sting rate meadow happy other dolphin common practice shoulder robot";

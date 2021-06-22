@@ -1,1 +1,1 @@
-var mnemonic = "repeat harsh thrive soup lift bone century sample peanut under country fame";
+var mnemonic = "man stadium medal recycle absurd expire number broom bamboo renew fuel opera";

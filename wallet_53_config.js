@@ -1,1 +1,1 @@
-var mnemonic = "romance lava minor earth toward heart garage budget minute treat gaze stone";
+var mnemonic = "marine illness fit enhance upper title drift abandon special betray embody involve";

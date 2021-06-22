@@ -1,1 +1,1 @@
-var mnemonic = "future also never object east couch loop convince index grass trade pass";
+var mnemonic = "catch joke roast evidence problem report common defense cotton gift unusual warfare";

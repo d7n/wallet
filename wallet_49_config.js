@@ -1,1 +1,1 @@
-var mnemonic = "fatigue kind verb source praise fork test urban canvas such blossom cruel";
+var mnemonic = "hard school scout fiction dynamic fetch rookie exit market pizza drift roof";

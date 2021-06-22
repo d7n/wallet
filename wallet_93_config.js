@@ -1,1 +1,1 @@
-var mnemonic = "forward you tomorrow second soda midnight already great frog wrap adult soda";
+var mnemonic = "level whale during until trend butter local struggle sign proud course audit";

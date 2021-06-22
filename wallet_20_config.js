@@ -1,1 +1,1 @@
-var mnemonic = "can often faculty valve spray travel upper parent giggle gaze pelican camera";
+var mnemonic = "oxygen field fall search grass repair pelican hip runway puzzle manual symbol";

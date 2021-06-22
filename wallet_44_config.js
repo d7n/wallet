@@ -1,1 +1,1 @@
-var mnemonic = "gauge excite grace budget fabric virtual genre nephew code focus enact know";
+var mnemonic = "pair grid spike summer account category tomorrow venue shove west legend indoor";

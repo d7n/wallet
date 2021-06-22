@@ -1,1 +1,1 @@
-var mnemonic = "vessel smooth build access van symptom traffic verb screen seat plunge nation";
+var mnemonic = "sweet sign fitness velvet stadium mixture echo narrow talk obey virus denial";

@@ -1,1 +1,1 @@
-var mnemonic = "enforce print group sausage tide puzzle rabbit brisk limit tragic mammal client";
+var mnemonic = "utility possible nerve aspect hurdle unit make hawk ethics chicken acid bachelor";

@@ -1,1 +1,1 @@
-var mnemonic = "crush rule angry parent boring expire tell task luggage glass shock rigid";
+var mnemonic = "enroll uncle delay feel label wash like devote banana aisle curious remain";

@@ -1,1 +1,1 @@
-var mnemonic = "tunnel state argue later service mosquito photo verify wave tissue ready describe";
+var mnemonic = "regular undo awful dad rough surround neutral outdoor ethics tree fall draw";

@@ -1,1 +1,1 @@
-var mnemonic = "sail immense web federal hurry inflict kangaroo black peanut visa neither flip";
+var mnemonic = "era visual goose ice twenty trade tennis please clock device steak erupt";

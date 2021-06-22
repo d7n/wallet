@@ -1,1 +1,1 @@
-var mnemonic = "elephant acid burden digital beyond cash west act base crucial thumb nurse";
+var mnemonic = "attract hurry idle people forget pledge glove entire announce tackle bounce expect";

@@ -1,1 +1,1 @@
-var mnemonic = "column liar resource destroy weekend phrase profit office detect school cream lyrics";
+var mnemonic = "hub dice salt vibrant replace poem ancient sort behind topic nurse powder";

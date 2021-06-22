@@ -1,1 +1,1 @@
-var mnemonic = "obscure confirm rule menu huge afraid net access tilt demand tuna fever";
+var mnemonic = "decline adult oval elephant trap cupboard coin venture soldier december midnight crew";

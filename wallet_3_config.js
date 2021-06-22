@@ -1,1 +1,1 @@
-var mnemonic = "mercy win rotate lemon pluck car festival topic pear fluid ball become";
+var mnemonic = "enter dune lens scrub decline tank apology virtual romance charge scene bike";

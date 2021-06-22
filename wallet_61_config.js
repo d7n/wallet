@@ -1,1 +1,1 @@
-var mnemonic = "ten thrive liberty spray damp profit invite cabin absorb foam range fresh";
+var mnemonic = "also uphold car merge tent verify few planet flip peanut awesome unhappy";

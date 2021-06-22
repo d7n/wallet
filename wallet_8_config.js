@@ -1,1 +1,1 @@
-var mnemonic = "busy situate lab liquid logic entry smooth crisp grant direct lounge course";
+var mnemonic = "junior meat camera faint satisfy need spatial arrest about toward two toilet";

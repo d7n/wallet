@@ -1,1 +1,1 @@
-var mnemonic = "stage squeeze prevent umbrella frown soup climb below key term hand luggage";
+var mnemonic = "net world copy between ship voice song arctic uniform zoo pretty know";

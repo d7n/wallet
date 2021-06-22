@@ -1,1 +1,1 @@
-var mnemonic = "doll best buzz spray hollow half put volcano seat list gossip poet";
+var mnemonic = "muffin drill mule toy pioneer shoe shop lesson tragic give denial swap";

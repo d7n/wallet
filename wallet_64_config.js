@@ -1,1 +1,1 @@
-var mnemonic = "tide drum bring energy couch figure seven history kitten arm section tape";
+var mnemonic = "bring glad age dirt imitate peasant risk invest tube athlete ring only";

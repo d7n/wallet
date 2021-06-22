@@ -1,1 +1,1 @@
-var mnemonic = "loud struggle width elevator album warm weekend unaware traffic unable chat genre";
+var mnemonic = "inform enjoy wash off awesome first math still patient maid cute inhale";

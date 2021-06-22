@@ -1,1 +1,1 @@
-var mnemonic = "stove whale nominee hurt ladder fix helmet hamster spin convince balcony pond";
+var mnemonic = "eye vintage joy thank symbol often royal saddle rural trend ride impulse";

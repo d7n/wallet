@@ -1,1 +1,1 @@
-var mnemonic = "rally velvet glove hedgehog mansion unknown adjust razor cactus potato ring resist";
+var mnemonic = "east hedgehog physical bargain hub disorder matrix casual siren limb index tell";

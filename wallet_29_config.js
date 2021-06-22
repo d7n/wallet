@@ -1,1 +1,1 @@
-var mnemonic = "nice canyon olympic proof victory lend click minute cross imitate canal green";
+var mnemonic = "poverty auto term knee rail such venue unfold put struggle inner chronic";

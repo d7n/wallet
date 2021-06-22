@@ -1,1 +1,1 @@
-var mnemonic = "power reform cry oxygen neck pulp drill exotic story smile casual thunder";
+var mnemonic = "assist ring despair agent two unhappy rigid guitar raccoon resource horn abuse";

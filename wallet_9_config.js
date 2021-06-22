@@ -1,1 +1,1 @@
-var mnemonic = "name network equal soda avoid trash warfare auction obey replace reunion response";
+var mnemonic = "enact spider idea icon honey exclude recipe laptop machine nominee choice science";

@@ -1,1 +1,1 @@
-var mnemonic = "pyramid heart tone novel hire high choice loyal mosquito before forward payment";
+var mnemonic = "atom gun vacuum fade urge abstract science doctor topple neglect scatter lottery";

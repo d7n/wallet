@@ -1,1 +1,1 @@
-var mnemonic = "have hello gospel explain top echo eternal kick poem gap scare damp";
+var mnemonic = "genre lava raise knife aunt thrive smoke year bid sample vibrant satisfy";

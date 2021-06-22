@@ -1,1 +1,1 @@
-var mnemonic = "cover ancient dose across gaze prosper decade upgrade thought warrior flame shield";
+var mnemonic = "leopard century weasel image pony weekend blame cream hollow napkin glue exit";

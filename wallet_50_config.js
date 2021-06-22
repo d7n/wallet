@@ -1,1 +1,1 @@
-var mnemonic = "click tourist logic athlete settle depend change view best harbor pledge mountain";
+var mnemonic = "liquid car ceiling faint glimpse crack novel romance organ edge advance armor";

@@ -1,1 +1,1 @@
-var mnemonic = "weapon turn pond duck pepper huge divorce stay emotion comfort supply giggle";
+var mnemonic = "cliff endless goddess effort service miracle skate secret clinic logic swallow next";

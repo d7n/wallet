@@ -1,1 +1,1 @@
-var mnemonic = "riot avoid organ pudding eyebrow curtain accident bulb early effort move cereal";
+var mnemonic = "unable hobby critic camera month tag right learn follow embrace eagle charge";

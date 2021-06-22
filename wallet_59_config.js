@@ -1,1 +1,1 @@
-var mnemonic = "buffalo gun digital mixed soda hint salad grit turkey toy sudden leopard";
+var mnemonic = "gallery expire snack purchase lend myself robust ordinary hazard crack beef rail";

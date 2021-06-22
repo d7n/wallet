@@ -1,1 +1,1 @@
-var mnemonic = "bonus flip identify tonight blame basket twelve current often inside claim copper";
+var mnemonic = "father police garage mix wink cruel mechanic friend remain genius satisfy gun";

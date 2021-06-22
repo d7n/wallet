@@ -1,1 +1,1 @@
-var mnemonic = "tattoo burger allow pact current forward gas rose puppy alpha famous melody";
+var mnemonic = "pattern pole shock slogan end fix middle sponsor right warfare mouse sand";

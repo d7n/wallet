@@ -1,1 +1,1 @@
-var mnemonic = "sell escape split cinnamon wedding master faculty worry actor plunge name else";
+var mnemonic = "orient buddy kick icon better glove turkey gospel guitar ability absorb lift";

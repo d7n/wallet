@@ -1,1 +1,1 @@
-var mnemonic = "fine maximum abstract issue police use fold simple kitten best lottery ticket";
+var mnemonic = "cricket siege coach craft nation rotate huge palm alarm hotel eight enrich";

@@ -1,1 +1,1 @@
-var mnemonic = "duty absorb plastic empty raven news noble genuine album village torch remain";
+var mnemonic = "fix rigid chest rebel live tower icon argue blame legal scale imitate";

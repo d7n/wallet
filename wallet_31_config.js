@@ -1,1 +1,1 @@
-var mnemonic = "monitor minimum affair emotion retreat proud razor skin response buffalo ability boring";
+var mnemonic = "social violin toward immune holiday cliff purse aspect viable school test join";

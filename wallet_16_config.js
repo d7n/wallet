@@ -1,1 +1,1 @@
-var mnemonic = "differ indoor blossom grab abuse negative hat meadow abandon tooth sand cinnamon";
+var mnemonic = "balcony below shoot squeeze captain kiss civil atom vacuum matter little suggest";

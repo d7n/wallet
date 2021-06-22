@@ -1,1 +1,1 @@
-var mnemonic = "picnic grow other shrug toward middle neglect angry immense unable cruel vault";
+var mnemonic = "wage siege mammal common voice zoo worth second toast curious brief dash";

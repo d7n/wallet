@@ -1,1 +1,1 @@
-var mnemonic = "oven tray crouch fatigue crew pave increase obvious lab base dust behave";
+var mnemonic = "dash wool fee affair famous typical will crunch aunt walk person velvet";

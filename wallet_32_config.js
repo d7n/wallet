@@ -1,1 +1,1 @@
-var mnemonic = "holiday couple vital scatter subway edge steel host emerge pioneer lunch diary";
+var mnemonic = "orange garlic museum else best zoo defense fox lamp call position purse";

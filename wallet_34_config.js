@@ -1,1 +1,1 @@
-var mnemonic = "alien glare daughter gospel flame suspect grant cruel senior play burst barrel";
+var mnemonic = "multiply plunge work call discover lens among visa artist major card crater";

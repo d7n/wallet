@@ -1,1 +1,1 @@
-var mnemonic = "genre only brother train juice hat outdoor scrub shift exile ethics alley";
+var mnemonic = "blood slot because life appear tattoo warrior achieve fish prize eye juice";

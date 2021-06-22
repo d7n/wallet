@@ -1,1 +1,1 @@
-var mnemonic = "powder sign type belt wool insect pact six chef relief prevent orbit";
+var mnemonic = "lucky mango sail mad bird grab surprise enrich badge cry doll connect";

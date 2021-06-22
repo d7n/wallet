@@ -1,1 +1,1 @@
-var mnemonic = "gorilla term swing guitar puppy chronic reason electric whisper pony return media";
+var mnemonic = "cage tank limit mercy couple boost vast oven milk ability rail canal";

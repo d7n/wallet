@@ -1,1 +1,1 @@
-var mnemonic = "inside lesson talk praise enable end wage amateur sudden main oppose boil";
+var mnemonic = "same harbor dry say east curious unusual spare have average aunt riot";
