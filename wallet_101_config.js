@@ -1,1 +1,1 @@
-var mnemonic = "artwork teach conduct pizza zebra topic step tower slush danger category gate";
+var mnemonic = "silk wrong sort valve fit sort gaze bundle pigeon ghost evoke tragic";

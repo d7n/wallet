@@ -1,1 +1,1 @@
-var mnemonic = "owner gaze robot canal inject pizza orbit bacon same loop stand tide";
+var mnemonic = "supreme salad spike present chronic cool web snake salon much praise exchange";

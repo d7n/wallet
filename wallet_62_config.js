@@ -1,1 +1,1 @@
-var mnemonic = "position potato symptom route sister silver fever brass print body able hover";
+var mnemonic = "sword portion perfect knock staff curve neither poem anxiety memory zebra expose";

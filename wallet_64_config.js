@@ -1,1 +1,1 @@
-var mnemonic = "beach salute tobacco jungle cloth puppy divide reunion current jar phone page";
+var mnemonic = "sea number addict basic taste slender sword inject nuclear lazy mixture mean";

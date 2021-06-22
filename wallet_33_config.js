@@ -1,1 +1,1 @@
-var mnemonic = "canal small train wave almost blush spin spirit festival wheat lock dilemma";
+var mnemonic = "north two panda habit sentence roast culture tent scissors trigger inject album";

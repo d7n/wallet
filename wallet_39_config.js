@@ -1,1 +1,1 @@
-var mnemonic = "trip shoot rifle trick lecture maximum sport history lake stomach tide slender";
+var mnemonic = "theory aunt approve census slice shuffle wrist beach device morning vapor above";

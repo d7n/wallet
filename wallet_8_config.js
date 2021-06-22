@@ -1,1 +1,1 @@
-var mnemonic = "mail undo siren drift guilt upper dog tent admit logic enlist warrior";
+var mnemonic = "royal elder world goat win latin fork slam elite lounge oven also";

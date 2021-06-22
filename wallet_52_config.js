@@ -1,1 +1,1 @@
-var mnemonic = "sun eternal museum fancy fade clay tenant coach young slam renew iron";
+var mnemonic = "monkey match roof food ask royal taste kick barrel dignity polar harbor";

@@ -1,1 +1,1 @@
-var mnemonic = "shield west dial equal mention camera analyst broken syrup onion shrug retreat";
+var mnemonic = "pledge frequent siren such report fluid arena industry cousin mirror critic employ";

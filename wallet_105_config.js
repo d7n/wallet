@@ -1,1 +1,1 @@
-var mnemonic = "embark please surround region shift exotic pluck spider annual slight color yellow";
+var mnemonic = "just push reward board lake empty future build help catalog powder cross";

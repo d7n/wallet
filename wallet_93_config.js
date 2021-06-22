@@ -1,1 +1,1 @@
-var mnemonic = "carbon midnight cross end south remove obtain unique accident alone noodle stuff";
+var mnemonic = "ribbon panda episode jump ready repeat decide off magnet album cricket memory";

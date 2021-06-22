@@ -1,1 +1,1 @@
-var mnemonic = "water window peanut slender fluid sea offer royal release shift giant oil";
+var mnemonic = "swing wisdom wish leaf aerobic country seminar draw agree casino code found";

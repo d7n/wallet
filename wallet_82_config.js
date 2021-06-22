@@ -1,1 +1,1 @@
-var mnemonic = "dismiss famous describe artefact arrow security subject logic reason uniform hip notable";
+var mnemonic = "auction version ranch excite company indicate angle canoe blade angry sniff drastic";

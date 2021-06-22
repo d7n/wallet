@@ -1,1 +1,1 @@
-var mnemonic = "such renew ride hood broken combine plastic fetch behind appear extend floor";
+var mnemonic = "robot twin oblige can dynamic tide service wonder zebra scale start peasant";

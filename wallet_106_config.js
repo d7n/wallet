@@ -1,1 +1,1 @@
-var mnemonic = "dose call develop flock poet ten soft mean off spread course plastic";
+var mnemonic = "atom private grief puzzle improve erosion onion cloth lens twenty melt palm";

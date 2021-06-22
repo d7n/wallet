@@ -1,1 +1,1 @@
-var mnemonic = "envelope eight trouble hedgehog define crucial unveil flee moral water elegant wrong";
+var mnemonic = "favorite member grant then elephant nation thunder jazz depart puzzle grief crumble";

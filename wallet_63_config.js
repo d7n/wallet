@@ -1,1 +1,1 @@
-var mnemonic = "mirror guilt agent pupil educate can accuse toy rice knock puppy vibrant";
+var mnemonic = "ill unaware library nose hip gasp machine glove slot about subject melody";

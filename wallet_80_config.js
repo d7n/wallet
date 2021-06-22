@@ -1,1 +1,1 @@
-var mnemonic = "air gesture curve sunny naive media super window horror walk coral code";
+var mnemonic = "powder diagram identify develop cook hurry maple today hundred film catch toe";

@@ -1,1 +1,1 @@
-var mnemonic = "awful common pudding figure purpose naive dinner method route double sadness alcohol";
+var mnemonic = "edit hire unhappy relax clutch picnic sting ticket basket put pause deposit";

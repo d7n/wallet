@@ -1,1 +1,1 @@
-var mnemonic = "abandon prize fatigue first love menu spawn opinion inmate grain wrestle hurry";
+var mnemonic = "december enough hint educate stereo release usage defense begin daughter auction recipe";

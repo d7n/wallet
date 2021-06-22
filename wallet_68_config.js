@@ -1,1 +1,1 @@
-var mnemonic = "genius castle have coconut wedding repair carbon three range jump hazard soldier";
+var mnemonic = "comfort kite saddle kid entry issue rebel pair bamboo frog attend fatigue";

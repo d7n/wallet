@@ -1,1 +1,1 @@
-var mnemonic = "sense edit glove annual shock jazz similar praise forest great garage cube";
+var mnemonic = "second attitude entire reflect noise virtual over stairs paddle tired prize deer";

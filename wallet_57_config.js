@@ -1,1 +1,1 @@
-var mnemonic = "bright glad twenty fiber acquire mesh rib soup basic gas logic table";
+var mnemonic = "sting door siege foam canvas vast duck innocent spot solve lumber raise";

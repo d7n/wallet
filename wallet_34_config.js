@@ -1,1 +1,1 @@
-var mnemonic = "giraffe harvest sentence monkey pledge math mimic inhale ivory agent nothing aunt";
+var mnemonic = "glue hotel decade vibrant proof picture dial traffic system trick dentist tray";

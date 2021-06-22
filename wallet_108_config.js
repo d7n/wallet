@@ -1,1 +1,1 @@
-var mnemonic = "six shock battle embark raccoon grace truly clean tag trip teach alert";
+var mnemonic = "seed mansion follow source term debris student valid gadget bone excess network";

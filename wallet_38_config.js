@@ -1,1 +1,1 @@
-var mnemonic = "sorry shy guide chase together acoustic news album write elder rice sign";
+var mnemonic = "cattle tent rent danger predict gold develop middle iron maid proud busy";

@@ -1,1 +1,1 @@
-var mnemonic = "regular casino casual spike aisle clever turn eight asthma cost runway roast";
+var mnemonic = "alert loyal tackle example crazy help wisdom coconut remain account sword inmate";

@@ -1,1 +1,1 @@
-var mnemonic = "lend annual enact hawk access grace region wave captain unfair burger movie";
+var mnemonic = "side void loud limit traffic attack early horror satoshi asset potato upon";

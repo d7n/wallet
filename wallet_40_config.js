@@ -1,1 +1,1 @@
-var mnemonic = "absurd crash grief job crack brush undo surround nephew behave critic notable";
+var mnemonic = "total foam unlock avocado churn daring load truck drastic nut slide desert";

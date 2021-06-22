@@ -1,1 +1,1 @@
-var mnemonic = "vote follow debris truly very history build fall chronic safe dinosaur state";
+var mnemonic = "latin zebra time grow then drive useless balcony host clarify idea result";

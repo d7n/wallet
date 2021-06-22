@@ -1,1 +1,1 @@
-var mnemonic = "edit brief winner paper nature ginger garlic track pioneer sort demise oil";
+var mnemonic = "vast express goddess dog deal pattern physical slam chuckle mail omit odor";

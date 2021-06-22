@@ -1,1 +1,1 @@
-var mnemonic = "comic voice animal about stable perfect payment summer lion dumb oxygen ghost";
+var mnemonic = "minimum picnic laundry rural observe helmet clarify absent weapon plastic lady matter";

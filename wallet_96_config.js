@@ -1,1 +1,1 @@
-var mnemonic = "cliff give agent butter guitar spin mail enrich prevent test liar peanut";
+var mnemonic = "material odor spoon orient clarify talk labor giraffe stamp stairs peasant hobby";

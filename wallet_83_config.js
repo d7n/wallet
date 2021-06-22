@@ -1,1 +1,1 @@
-var mnemonic = "desk predict rubber tell filter spend become width once coconut mouse spare";
+var mnemonic = "board crazy victory remember acoustic aerobic observe pyramid hammer ankle ceiling mind";

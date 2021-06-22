@@ -1,1 +1,1 @@
-var mnemonic = "lava style proof upon lizard wonder siren middle glimpse exile opinion trade";
+var mnemonic = "relief midnight unlock wrap assault mix fun custom hero october essay neutral";

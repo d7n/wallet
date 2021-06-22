@@ -1,1 +1,1 @@
-var mnemonic = "gauge upon shine stand expire blade execute moral clip destroy olympic service";
+var mnemonic = "pole asset myth flock arm rent lamp uncover survey disagree purity absorb";

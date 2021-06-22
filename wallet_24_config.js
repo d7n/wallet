@@ -1,1 +1,1 @@
-var mnemonic = "source fiction pull fantasy uncle copper park medal garden digital govern boss";
+var mnemonic = "antique retreat second organ poet theme day ivory asset nasty thought develop";

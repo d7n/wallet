@@ -1,1 +1,1 @@
-var mnemonic = "record kitchen inmate open rabbit world hour weasel amateur canoe they mule";
+var mnemonic = "person immune innocent horror illness convince leave produce flag weekend twice elbow";

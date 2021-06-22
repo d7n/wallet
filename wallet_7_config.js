@@ -1,1 +1,1 @@
-var mnemonic = "endorse mask grow replace penalty cage used glimpse eager exist goat bronze";
+var mnemonic = "worry nut sun learn whisper vault permit zebra census velvet version inch";

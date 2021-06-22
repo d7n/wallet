@@ -1,1 +1,1 @@
-var mnemonic = "pudding romance despair ketchup twelve industry dwarf purse saddle cinnamon admit museum";
+var mnemonic = "trust business amateur false local dumb rule legend frog scale goose wheel";

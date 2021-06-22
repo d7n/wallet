@@ -1,1 +1,1 @@
-var mnemonic = "soap estate faint execute alcohol mule axis zone loop enter gloom company";
+var mnemonic = "struggle found skirt north deposit advance build one smoke feed luxury body";

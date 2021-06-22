@@ -1,1 +1,1 @@
-var mnemonic = "shoe divert usage doll cute panda choice oyster obvious naive fix system";
+var mnemonic = "arm scan other crouch relax deny fossil thrive stamp exercise whale relief";

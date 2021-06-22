@@ -1,1 +1,1 @@
-var mnemonic = "sorry office army like absorb inject barely ten strike stone shaft fat";
+var mnemonic = "charge early alpha often mouse purchase topic subway regret angle flat dirt";

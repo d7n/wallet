@@ -1,1 +1,1 @@
-var mnemonic = "huge define camera vacant inherit inflict december faith corn tuition sting dust";
+var mnemonic = "woman brisk luxury suspect promote sing method hero switch release economy dog";

@@ -1,1 +1,1 @@
-var mnemonic = "quality print tourist treat hazard depart pledge same move jump response purity";
+var mnemonic = "legend scissors blind idea region emerge space post empty forest feed concert";

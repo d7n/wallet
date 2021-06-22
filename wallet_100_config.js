@@ -1,1 +1,1 @@
-var mnemonic = "lift cousin arch emotion will debate cupboard deny arena quality expand basic";
+var mnemonic = "crash become purpose buzz scrub minor judge sustain tissue better horn shield";

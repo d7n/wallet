@@ -1,1 +1,1 @@
-var mnemonic = "abuse verify harbor make resemble human coral code doll right north advance";
+var mnemonic = "food shallow ethics master palace chat keen goddess gadget holiday keen report";

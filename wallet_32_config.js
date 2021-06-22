@@ -1,1 +1,1 @@
-var mnemonic = "stand similar nurse private sort vocal chief diesel mass gym grab oval";
+var mnemonic = "olive wheat knock legal squeeze timber illness smoke song gas witness divert";

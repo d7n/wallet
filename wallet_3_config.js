@@ -1,1 +1,1 @@
-var mnemonic = "foot knee market snap later salt autumn road broom brave private supply";
+var mnemonic = "drill amateur know monster post silent okay tumble stairs rough envelope tuition";

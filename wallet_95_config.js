@@ -1,1 +1,1 @@
-var mnemonic = "play once rookie deposit grant ankle beauty glance canyon cabin grit gospel";
+var mnemonic = "weird same marble drum subway grain poverty year deer car law reject";

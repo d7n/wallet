@@ -1,1 +1,1 @@
-var mnemonic = "sustain walk creek notable cotton minute dune truck shoe nurse example income";
+var mnemonic = "choose gorilla plate surge lamp whale critic rose ketchup initial abstract bundle";

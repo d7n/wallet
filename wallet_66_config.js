@@ -1,1 +1,1 @@
-var mnemonic = "bike dumb sister field ethics miss remove despair ladder matter test drill";
+var mnemonic = "toilet favorite issue cinnamon satisfy fix aerobic tree upset want garlic victory";

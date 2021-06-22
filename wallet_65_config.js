@@ -1,1 +1,1 @@
-var mnemonic = "athlete move prepare urban surround picnic crop brave skin donkey burst view";
+var mnemonic = "atom slender valid badge oil father cruise confirm then flee remain frown";

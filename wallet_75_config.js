@@ -1,1 +1,1 @@
-var mnemonic = "drip pilot paddle unique reveal simple pride minor rather patient put royal";
+var mnemonic = "globe disorder plastic tray stove trigger toss solution fox much rookie museum";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar story adult still spend borrow maid earth genuine issue lift among";
+var mnemonic = "expose bulb kick dinner canyon faculty omit bachelor one motion rifle rebuild";

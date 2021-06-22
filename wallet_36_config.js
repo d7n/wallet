@@ -1,1 +1,1 @@
-var mnemonic = "flock radar panda symbol acid melody dial please sense unfold sheriff huge";
+var mnemonic = "invite biology pool peace churn test echo remember aisle leopard march field";

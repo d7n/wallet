@@ -1,1 +1,1 @@
-var mnemonic = "alcohol client eyebrow buzz purchase visit leopard pet step start grid delay";
+var mnemonic = "allow inform shed debris boy room goddess powder federal orbit naive tissue";

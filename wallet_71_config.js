@@ -1,1 +1,1 @@
-var mnemonic = "tail return enter switch uncle bleak oak snow clay climb shop junior";
+var mnemonic = "entire crew level answer enjoy trumpet long discover tiger glide border song";

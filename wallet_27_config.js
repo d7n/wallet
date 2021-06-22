@@ -1,1 +1,1 @@
-var mnemonic = "creek old panda sadness reunion okay miss excite next vault aisle urban";
+var mnemonic = "summer genuine rigid stand feel chase cloud museum donate injury retreat please";

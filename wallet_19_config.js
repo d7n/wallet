@@ -1,1 +1,1 @@
-var mnemonic = "cluster balance skirt crop gorilla fruit auto wagon crumble owner obey gauge";
+var mnemonic = "since draw length cash plate miss music atom visual need crystal wage";

@@ -1,1 +1,1 @@
-var mnemonic = "coin obey sure summer joy track avoid degree garment voice fine million";
+var mnemonic = "grit curve program juice culture arrow reason vivid strategy slight trade legend";

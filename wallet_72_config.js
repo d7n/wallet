@@ -1,1 +1,1 @@
-var mnemonic = "balcony purity meat vivid later spin crisp mixture circle movie name cradle";
+var mnemonic = "boy thing betray blame wheel shove obey ship holiday funny cigar witness";

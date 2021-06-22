@@ -1,1 +1,1 @@
-var mnemonic = "globe myth wheel genuine dutch sweet provide auction country layer tape wire";
+var mnemonic = "veteran boat agree daughter round sugar first pilot tip annual various portion";

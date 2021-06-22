@@ -1,1 +1,1 @@
-var mnemonic = "shallow gap security only elephant borrow scare then action comic cost plate";
+var mnemonic = "blouse uniform come shock surround fruit wire into brand bright arctic impact";

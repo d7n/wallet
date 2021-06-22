@@ -1,1 +1,1 @@
-var mnemonic = "arctic nation muffin congress swear just honey tray mad security rich ankle";
+var mnemonic = "expand mammal you swallow make wrestle rug three deposit desert sentence acid";

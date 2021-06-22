@@ -1,1 +1,1 @@
-var mnemonic = "brief weird when same radar try snap awful able gift season liberty";
+var mnemonic = "adjust capable veteran diet luggage settle shrug fun actor galaxy turtle shallow";

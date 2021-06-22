@@ -1,1 +1,1 @@
-var mnemonic = "jeans defy shop cube morning hero mutual coin human casino luxury appear";
+var mnemonic = "squeeze few permit marine remain wool balcony cancel all tired mansion cruise";

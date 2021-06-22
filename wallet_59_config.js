@@ -1,1 +1,1 @@
-var mnemonic = "enhance drama leave orient claim cart service parent ripple hollow session cricket";
+var mnemonic = "pilot dumb loop vehicle learn elbow oval cushion damp diet giggle clip";

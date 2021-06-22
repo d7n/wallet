@@ -1,1 +1,1 @@
-var mnemonic = "chronic bargain disorder aim raise cram walk hurt unique eyebrow genius scatter";
+var mnemonic = "punch employ usage any entry brush panic visual chair drastic ivory escape";

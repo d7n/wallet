@@ -1,1 +1,1 @@
-var mnemonic = "follow power ginger rocket guitar arrest replace video false that pottery wonder";
+var mnemonic = "pink regret modify disease dove width crack grief also kiwi grow brave";

@@ -1,1 +1,1 @@
-var mnemonic = "live grace sing will daughter female exclude regret cook tenant eagle tattoo";
+var mnemonic = "latin dismiss retreat bullet consider lobster become abstract loop thing lonely ribbon";

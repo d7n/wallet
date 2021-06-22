@@ -1,1 +1,1 @@
-var mnemonic = "body rice fragile jar defy flee armor split palm account universe page";
+var mnemonic = "divorce barrel swim upon stock damage bronze away cool tip process acquire";

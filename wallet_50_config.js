@@ -1,1 +1,1 @@
-var mnemonic = "share grief bundle fluid moon chef thought expect diet pizza flight enlist";
+var mnemonic = "magic field tourist online chase kid add green panther lottery mango clog";

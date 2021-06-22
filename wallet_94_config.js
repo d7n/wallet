@@ -1,1 +1,1 @@
-var mnemonic = "tank flush magic book warrior common artist copy little crater deputy over";
+var mnemonic = "brief hat walnut another crash mother wheel prison cycle toilet early excess";

@@ -1,1 +1,1 @@
-var mnemonic = "jelly grain scorpion arrest stuff envelope right direct resist ecology winter absorb";
+var mnemonic = "tower impulse large drastic mean roof pact cash fork slam spot doll";

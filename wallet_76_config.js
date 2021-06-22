@@ -1,1 +1,1 @@
-var mnemonic = "raw fold rule track glow borrow rain cotton aunt chef humble jar";
+var mnemonic = "omit pink pelican reflect stove act sound crime year table problem check";

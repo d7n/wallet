@@ -1,1 +1,1 @@
-var mnemonic = "begin keen trigger suspect fuel wife stick brown gospel mad scare velvet";
+var mnemonic = "file suffer shoe sentence use wild meadow lawn drill hub today erode";

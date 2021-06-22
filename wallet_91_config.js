@@ -1,1 +1,1 @@
-var mnemonic = "critic rotate toe magnet autumn business earth forget crash gossip marble blame";
+var mnemonic = "disagree satoshi remember rural horse crawl protect banana solid tumble vacant world";

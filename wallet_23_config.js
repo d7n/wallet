@@ -1,1 +1,1 @@
-var mnemonic = "lizard sad response hospital deputy unveil skate mail paddle jewel tongue phone";
+var mnemonic = "resemble cupboard meat minimum neither loyal post slush snap abandon zoo fault";

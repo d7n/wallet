@@ -1,1 +1,1 @@
-var mnemonic = "say student column weasel pride grain fatal need develop wheat blanket canyon";
+var mnemonic = "agree provide domain across plunge present short walnut skirt bullet trumpet barely";

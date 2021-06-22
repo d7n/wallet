@@ -1,1 +1,1 @@
-var mnemonic = "poverty rely into dial front shallow negative kid lady clarify antique mouse";
+var mnemonic = "worry various bundle area slice limit mix gadget orphan squeeze unfair trend";

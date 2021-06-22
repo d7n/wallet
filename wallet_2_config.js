@@ -1,1 +1,1 @@
-var mnemonic = "visual soccer lyrics mandate ahead useful aspect rain fault mad border level";
+var mnemonic = "credit faculty gym extra kick weapon artwork okay page mad rapid change";

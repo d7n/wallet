@@ -1,1 +1,1 @@
-var mnemonic = "wire reason slogan wood omit midnight pioneer wash twist sure confirm black";
+var mnemonic = "toy same dragon parent gym fat stadium floor ordinary awful cloud response";

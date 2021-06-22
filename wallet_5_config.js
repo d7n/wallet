@@ -1,1 +1,1 @@
-var mnemonic = "corn castle tuition april song interest sweet afraid distance swing ask expire";
+var mnemonic = "summer error endorse dawn river piece sudden valid best focus palace collect";
