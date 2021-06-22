@@ -1,1 +1,1 @@
-var mnemonic = "turtle oil crater much small fragile belt pair laptop security lizard glory";
+var mnemonic = "ankle uniform patch grain birth mule gesture donate entire aisle ancient leader";

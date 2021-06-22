@@ -1,1 +1,1 @@
-var mnemonic = "quality dust minimum orange length another luggage brown believe memory carbon balance";
+var mnemonic = "copper tattoo swift deal blue father label leaf couch hover sound shine";

@@ -1,1 +1,1 @@
-var mnemonic = "rose lyrics juice burger blush insane fruit post simple below glove retreat";
+var mnemonic = "camp muffin cash brave couch black ability tobacco mule beef hope arm";

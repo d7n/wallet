@@ -1,1 +1,1 @@
-var mnemonic = "laugh rival term oblige spring capable unhappy mandate winter little jaguar bind";
+var mnemonic = "outdoor surround wagon cover surround visual banana drill release exchange cliff shine";

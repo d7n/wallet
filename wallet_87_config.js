@@ -1,1 +1,1 @@
-var mnemonic = "height horse profit dog expose romance soccer reject tiger tonight farm pigeon";
+var mnemonic = "vocal stumble essay rough bring pet pattern appear donate crash stuff garden";

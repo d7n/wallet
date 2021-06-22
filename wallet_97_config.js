@@ -1,1 +1,1 @@
-var mnemonic = "copy amateur theory glory bag naive clay noise cloud school file kind";
+var mnemonic = "throw veteran chronic company memory actress stable inmate prefer blossom laptop suffer";

@@ -1,1 +1,1 @@
-var mnemonic = "else song solution size comic pause patrol element fiscal wrestle width return";
+var mnemonic = "woman cover crouch current neck aim neutral produce jewel anger survey calm";

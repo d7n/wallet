@@ -1,1 +1,1 @@
-var mnemonic = "venue govern surge cup copper attend mystery cage sleep wait they recall";
+var mnemonic = "cluster ripple punch unlock problem alarm coach bundle kangaroo else liquid ordinary";

@@ -1,1 +1,1 @@
-var mnemonic = "act young private bird voice gym virtual rug impose invest gauge calm";
+var mnemonic = "stamp budget size beyond shoot seek street carry banner prize coach core";

@@ -1,1 +1,1 @@
-var mnemonic = "crucial plastic disease remind cancel topic donor three account empower field silk";
+var mnemonic = "misery theory track zoo client purchase coast loyal copy help skill aunt";

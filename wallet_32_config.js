@@ -1,1 +1,1 @@
-var mnemonic = "tape goat pluck dynamic pause assault hint hen there easily struggle minute";
+var mnemonic = "marine replace crane tiger pottery health collect clean ten that vintage dragon";

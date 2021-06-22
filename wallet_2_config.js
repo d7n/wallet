@@ -1,1 +1,1 @@
-var mnemonic = "explain hockey shed icon toe type define salmon topic trumpet table shrimp";
+var mnemonic = "wealth this moral actor high fancy bless galaxy crime egg lyrics unique";

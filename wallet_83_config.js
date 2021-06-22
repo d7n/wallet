@@ -1,1 +1,1 @@
-var mnemonic = "swap rack balcony body stove video exclude slide oblige sketch still puppy";
+var mnemonic = "begin rubber youth dutch slice choose used decline tuition pride acquire tragic";

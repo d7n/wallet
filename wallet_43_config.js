@@ -1,1 +1,1 @@
-var mnemonic = "melody present strong valve dose skin shove fiber middle fix whisper spare";
+var mnemonic = "lend wall marble cabbage segment tree mutual verb doll palm father sibling";

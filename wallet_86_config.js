@@ -1,1 +1,1 @@
-var mnemonic = "ready hole keen post write memory tornado siege reopen swim visual february";
+var mnemonic = "child network test fog eagle room impose title nominee mean float over";

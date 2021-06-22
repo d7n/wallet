@@ -1,1 +1,1 @@
-var mnemonic = "letter copy young sun season sign girl once armor venture valley artwork";
+var mnemonic = "movie scare cave connect fruit learn breeze luggage galaxy impose exit depart";

@@ -1,1 +1,1 @@
-var mnemonic = "basket exercise filter tag grunt caught parade gospel pumpkin anchor inquiry list";
+var mnemonic = "rally dust vicious gaze tag bacon gift regular goddess orphan chalk year";

@@ -1,1 +1,1 @@
-var mnemonic = "call search effort mosquito pull mistake kiwi under dry sadness casino diary";
+var mnemonic = "alter pigeon ensure awake daring method soup december buzz local fork symbol";

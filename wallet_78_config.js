@@ -1,1 +1,1 @@
-var mnemonic = "armor object angry ten suit output unusual crouch mention can lock chunk";
+var mnemonic = "enlist inform spend vehicle future crumble control pulp finger coyote hope bike";

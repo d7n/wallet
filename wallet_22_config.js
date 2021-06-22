@@ -1,1 +1,1 @@
-var mnemonic = "glimpse gift wisdom sadness chapter video cupboard slow fancy awkward essence near";
+var mnemonic = "pelican mansion process road they upon fury shoe mansion soccer rule license";

@@ -1,1 +1,1 @@
-var mnemonic = "glance awkward scissors develop hockey arrest february belt pigeon become rough share";
+var mnemonic = "speed deliver bracket thank spring quick abstract unique route lady rebuild cancel";

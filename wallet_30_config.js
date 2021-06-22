@@ -1,1 +1,1 @@
-var mnemonic = "exhibit tube mirror square cry forest push mosquito praise acquire pledge horse";
+var mnemonic = "rice almost pet sudden struggle retreat wrap away apology virus peanut wheat";

@@ -1,1 +1,1 @@
-var mnemonic = "maple caught risk buzz rain ice guide wash foot comfort morning tired";
+var mnemonic = "nut squeeze tribe scale room recall coconut table embrace metal horn scrub";

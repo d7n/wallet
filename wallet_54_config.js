@@ -1,1 +1,1 @@
-var mnemonic = "ivory lens sister crew culture monster income proud city cover run gather";
+var mnemonic = "burden display goose all person salt narrow wheel flower inherit helmet puppy";

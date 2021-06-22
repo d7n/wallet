@@ -1,1 +1,1 @@
-var mnemonic = "urge hat basket sense reason shine local loud boat grief punch vacant";
+var mnemonic = "resource kit alert silk gossip curve about inside meadow stone neglect blouse";

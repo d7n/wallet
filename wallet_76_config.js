@@ -1,1 +1,1 @@
-var mnemonic = "injury hazard cross delay expect hospital safe garbage swing question toss actress";
+var mnemonic = "wrap anger weekend fiber truth language rabbit quick define soldier mixture remind";

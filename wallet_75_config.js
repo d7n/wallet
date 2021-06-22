@@ -1,1 +1,1 @@
-var mnemonic = "vivid zebra curve brick hill cube snack renew spell noodle wine frog";
+var mnemonic = "jacket hard where defense around cause across lunar confirm flush language surprise";

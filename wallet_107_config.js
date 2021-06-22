@@ -1,1 +1,1 @@
-var mnemonic = "skin indoor milk treat dynamic civil flush draw mind pilot gun alter";
+var mnemonic = "link price sibling current old aunt core pattern alert mosquito scrap cancel";

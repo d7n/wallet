@@ -1,1 +1,1 @@
-var mnemonic = "wise inject exist satoshi field easy tree brief wish fragile around veteran";
+var mnemonic = "extra knife attract tornado harvest ticket behind rib blouse odor hope ask";

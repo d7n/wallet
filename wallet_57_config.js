@@ -1,1 +1,1 @@
-var mnemonic = "shuffle kid aisle safe enroll light cash brass common proof warrior quiz";
+var mnemonic = "ethics curious kitchen depart special husband position piano auto music apology brief";

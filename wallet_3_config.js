@@ -1,1 +1,1 @@
-var mnemonic = "warrior cluster charge roof farm wrestle divorce ridge speak arena reunion found";
+var mnemonic = "betray arrive desert nose crunch honey wear valid tribe aim wonder spider";

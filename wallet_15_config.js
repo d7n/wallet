@@ -1,1 +1,1 @@
-var mnemonic = "hamster impose march undo exact easily direct ladder domain ordinary ugly large";
+var mnemonic = "ankle shaft punch december crew lamp rose unfair hold sudden uniform reunion";

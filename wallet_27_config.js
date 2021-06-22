@@ -1,1 +1,1 @@
-var mnemonic = "glass alien empty ketchup veteran vintage angry ordinary response mountain crash almost";
+var mnemonic = "couple run enroll that moment describe shrimp ladder volcano until economy other";

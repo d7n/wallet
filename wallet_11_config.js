@@ -1,1 +1,1 @@
-var mnemonic = "rally artefact chaos boat ribbon pig island crack able diary warm session";
+var mnemonic = "material firm clock another exhibit cheese ladder film wild clump credit salt";

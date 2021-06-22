@@ -1,1 +1,1 @@
-var mnemonic = "butter ugly chief write castle before twelve combine refuse fall fan father";
+var mnemonic = "awful mystery awful leisure top door sport alcohol level slender detail first";

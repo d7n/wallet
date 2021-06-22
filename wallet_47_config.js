@@ -1,1 +1,1 @@
-var mnemonic = "grunt satisfy math zone scare media rural sausage fat treat student caution";
+var mnemonic = "damage receive trade agent debris wall upon amateur worth drift taste evolve";

@@ -1,1 +1,1 @@
-var mnemonic = "census penalty midnight violin repeat until boring filter total penalty dog over";
+var mnemonic = "prison edge denial lawn appear boil cloth tag misery swap era riot";

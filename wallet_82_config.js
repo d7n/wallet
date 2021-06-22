@@ -1,1 +1,1 @@
-var mnemonic = "first inherit stock champion slam paper comfort pipe upgrade metal skin answer";
+var mnemonic = "pitch apology venture cluster problem typical patrol illness nut kiss token elbow";

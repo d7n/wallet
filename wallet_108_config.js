@@ -1,1 +1,1 @@
-var mnemonic = "kite cradle tooth spawn lake finish rich rose way clever frame end";
+var mnemonic = "couple coil champion rocket away mother behave skate sniff amateur gauge enroll";

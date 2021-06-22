@@ -1,1 +1,1 @@
-var mnemonic = "useful trim bench reform news boil ghost lazy grape curtain foil cliff";
+var mnemonic = "purity tray spread whip name song search tissue blur can cat chalk";

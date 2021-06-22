@@ -1,1 +1,1 @@
-var mnemonic = "top appear staff crucial float promote swamp another resemble genuine above sight";
+var mnemonic = "vote impact borrow slow elite skill company else million next buddy ocean";

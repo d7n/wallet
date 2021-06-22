@@ -1,1 +1,1 @@
-var mnemonic = "all surface hammer spare lake luxury trouble october ranch occur crisp basket";
+var mnemonic = "race depart fatigue recipe weapon weapon apart tone index hotel upgrade april";

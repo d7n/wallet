@@ -1,1 +1,1 @@
-var mnemonic = "void beef step skull sting arrow chicken weekend boat deliver oak token";
+var mnemonic = "dolphin trophy quit regular boil invite mother mutual deny talk bottom clinic";

@@ -1,1 +1,1 @@
-var mnemonic = "silent lizard fit arena valid attitude snow predict drama sword odor member";
+var mnemonic = "canvas length morning whip salute lunch liar other wheat dog blue evil";

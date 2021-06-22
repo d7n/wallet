@@ -1,1 +1,1 @@
-var mnemonic = "crater mimic reason similar move soon sick addict panel cloud swap vintage";
+var mnemonic = "try honey barely shoulder despair common horse abstract sample crisp private achieve";

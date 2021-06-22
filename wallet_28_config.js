@@ -1,1 +1,1 @@
-var mnemonic = "monster airport way ready draw hunt grit rack climb between message churn";
+var mnemonic = "dial simple learn faculty main faith cherry plate volume replace language bitter";

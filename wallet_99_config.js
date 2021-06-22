@@ -1,1 +1,1 @@
-var mnemonic = "elder absurd glove elevator tide must faith venue hill cause pattern girl";
+var mnemonic = "deliver canyon about genre boil catalog salad repair convince cigar daughter pottery";

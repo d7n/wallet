@@ -1,1 +1,1 @@
-var mnemonic = "rhythm canal deliver open stand glue latin anchor delay level cycle capable";
+var mnemonic = "sight despair dynamic point nuclear armed melody sunset bright also pigeon diesel";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber good dial idle citizen story voyage pitch essay clog cargo human";
+var mnemonic = "now pool wage grass guess wrong arm host owner hub time jewel";

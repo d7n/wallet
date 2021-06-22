@@ -1,1 +1,1 @@
-var mnemonic = "innocent turn slam magic hollow damp sustain door pizza surprise beyond penalty";
+var mnemonic = "delay awake use barrel share excess art candy denial ski lyrics type";

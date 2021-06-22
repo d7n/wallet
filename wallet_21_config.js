@@ -1,1 +1,1 @@
-var mnemonic = "alter settle chicken stove pet vacuum nose bulb script quote clip lamp";
+var mnemonic = "shield twist jump ritual effort hidden require weasel admit pyramid thought pole";

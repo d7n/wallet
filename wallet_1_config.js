@@ -1,1 +1,1 @@
-var mnemonic = "crash display dwarf subject animal sauce inform rate mystery other volume genuine";
+var mnemonic = "kick demise delay december trial elite lobster naive couch patient cliff hybrid";

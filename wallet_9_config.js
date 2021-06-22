@@ -1,1 +1,1 @@
-var mnemonic = "pulp metal man improve prison speed lobster vehicle dice merit combine iron";
+var mnemonic = "picnic unaware suspect guitar ankle similar sea dolphin truly device friend marine";

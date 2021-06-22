@@ -1,1 +1,1 @@
-var mnemonic = "collect logic fox prison island decorate wise company scheme impact steel kitten";
+var mnemonic = "slim concert bounce barely whale bring yard butter bachelor credit thumb tower";

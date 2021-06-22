@@ -1,1 +1,1 @@
-var mnemonic = "iron expose alcohol canoe grit roast hotel valve desk trophy awesome blouse";
+var mnemonic = "various carbon mirror auto ghost tomato raven entire fragile blossom repeat mule";

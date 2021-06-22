@@ -1,1 +1,1 @@
-var mnemonic = "drastic weekend attack lesson bullet churn february present steak mobile verify alien";
+var mnemonic = "banner fury birth school dinner mobile state intact industry discover fun drum";

@@ -1,1 +1,1 @@
-var mnemonic = "mechanic gold arrange item cave evoke ability word amazing apology pond speed";
+var mnemonic = "evil artefact direct connect end hour return grief legend dune select mammal";

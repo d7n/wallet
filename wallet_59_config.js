@@ -1,1 +1,1 @@
-var mnemonic = "size life coach task modify other muffin chronic tiny hard deputy tray";
+var mnemonic = "someone crisp sound test love oblige reunion burden burst castle mechanic hello";

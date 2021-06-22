@@ -1,1 +1,1 @@
-var mnemonic = "cradle glass movie series entire multiply history budget escape eyebrow adapt venture";
+var mnemonic = "hour noble slush film resist addict poem waste planet sting always receive";

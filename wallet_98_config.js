@@ -1,1 +1,1 @@
-var mnemonic = "inner glare color certain coffee dice tiger stand lion congress hat scale";
+var mnemonic = "lazy actual side drum correct recipe volcano dizzy power accuse burst chronic";

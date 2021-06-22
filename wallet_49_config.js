@@ -1,1 +1,1 @@
-var mnemonic = "hello balance infant explain seven town admit hurt middle ankle tribe blood";
+var mnemonic = "winter supreme paddle favorite giggle bring view soap jar cabin crazy relax";

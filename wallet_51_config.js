@@ -1,1 +1,1 @@
-var mnemonic = "beyond sand half thank chat like outdoor coast riot monitor ask response";
+var mnemonic = "sketch aim stairs umbrella genuine have hunt genius olive object embark this";

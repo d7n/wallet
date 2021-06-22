@@ -1,1 +1,1 @@
-var mnemonic = "opera danger spoon cradle joy hungry hammer change glory end minor edge";
+var mnemonic = "uniform impact resist oxygen derive before afraid cost hockey dose axis carbon";

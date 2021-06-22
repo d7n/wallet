@@ -1,1 +1,1 @@
-var mnemonic = "they strategy nephew tree year angle amount license control scale must airport";
+var mnemonic = "oven inch vendor myself air evidence shock belt please web crisp pitch";

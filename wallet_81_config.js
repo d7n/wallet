@@ -1,1 +1,1 @@
-var mnemonic = "sail stage hedgehog burger today decorate enlist forum antenna abuse gospel enroll";
+var mnemonic = "dirt decorate gate rural gravity jewel nurse abuse large term sound retreat";

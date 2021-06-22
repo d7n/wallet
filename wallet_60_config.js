@@ -1,1 +1,1 @@
-var mnemonic = "wild online clip bargain solution object begin win voice erosion emerge labor";
+var mnemonic = "tip stable excuse hundred mansion canyon business arrow chest steak again trip";

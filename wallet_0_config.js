@@ -1,1 +1,1 @@
-var mnemonic = "gift vital patrol pulse trust mansion blade excuse crumble polar awkward process";
+var mnemonic = "glad timber knee yard write remind relief girl churn quick almost foster";

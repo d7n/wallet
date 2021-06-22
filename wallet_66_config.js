@@ -1,1 +1,1 @@
-var mnemonic = "issue point energy wait zone promote brave physical exist argue obvious talk";
+var mnemonic = "section economy book output mention pig stereo gas quality dream resemble scorpion";

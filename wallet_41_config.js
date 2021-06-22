@@ -1,1 +1,1 @@
-var mnemonic = "robot shield kidney roast little much model equip wrap logic fringe protect";
+var mnemonic = "price logic hip option spare island horn kind frequent chief category result";

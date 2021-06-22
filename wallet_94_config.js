@@ -1,1 +1,1 @@
-var mnemonic = "sun guitar hamster item account village man topple spy black eight travel";
+var mnemonic = "museum volume license symbol surface planet chaos trouble bone chase trigger produce";

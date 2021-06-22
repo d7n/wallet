@@ -1,1 +1,1 @@
-var mnemonic = "night kit pioneer door render quarter slight taxi pave lend draft fabric";
+var mnemonic = "sustain skate tuition learn cart soft tent already chef judge relief rigid";

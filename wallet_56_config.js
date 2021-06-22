@@ -1,1 +1,1 @@
-var mnemonic = "alarm nephew other welcome green pumpkin faith burden country report possible excuse";
+var mnemonic = "awkward glory pair fiber silent emotion cricket harsh live leader amused marble";

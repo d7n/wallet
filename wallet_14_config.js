@@ -1,1 +1,1 @@
-var mnemonic = "three size wing forget practice merit very bag gain fee remove segment";
+var mnemonic = "absurd sugar crime clog project true friend consider spring pipe describe mule";

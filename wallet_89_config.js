@@ -1,1 +1,1 @@
-var mnemonic = "festival inject soon satisfy excuse oblige lizard thought canvas crew point curve";
+var mnemonic = "joy glory purse multiply hour era cigar close affair entire nuclear habit";

@@ -1,1 +1,1 @@
-var mnemonic = "little ridge please warrior stairs swift cat into heavy aisle labor scout";
+var mnemonic = "document bid immense bulb staff sketch steak supply bronze stadium super salad";

@@ -1,1 +1,1 @@
-var mnemonic = "candy wing phone simple clap pottery assume place cram theme cup fancy";
+var mnemonic = "file general unlock depart sting aisle shallow junior clip plate riot hire";

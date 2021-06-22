@@ -1,1 +1,1 @@
-var mnemonic = "leave recycle combine copy social crew popular scorpion aunt hedgehog orbit spray";
+var mnemonic = "width system shell region scatter immense gun wear busy panic involve few";

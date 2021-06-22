@@ -1,1 +1,1 @@
-var mnemonic = "stool buzz foam rent power awake pear smile claw risk pitch lion";
+var mnemonic = "ostrich renew never mesh dad flee unique run stage awesome produce split";

@@ -1,1 +1,1 @@
-var mnemonic = "feel ensure woman this decide arrange fitness blind mule region smooth extend";
+var mnemonic = "valve refuse need inside december shiver replace inmate industry logic tuna tunnel";

@@ -1,1 +1,1 @@
-var mnemonic = "sibling coil metal category funny lawsuit trip feature celery over embody squirrel";
+var mnemonic = "kidney dizzy glory mesh dragon cloth disagree relief brand rent enrich flee";

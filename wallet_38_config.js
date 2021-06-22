@@ -1,1 +1,1 @@
-var mnemonic = "goat wheat just knee absorb cabin one devote view grit claw wear";
+var mnemonic = "basket boy seminar joy match dutch appear purpose battle simple pupil palm";

@@ -1,1 +1,1 @@
-var mnemonic = "violin base guess steel number comic call just loan goat aware elegant";
+var mnemonic = "menu grief upset wool together car room conduct beauty hen pioneer sentence";

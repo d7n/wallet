@@ -1,1 +1,1 @@
-var mnemonic = "term manage fantasy cook useful olive nurse solve autumn month inject inmate";
+var mnemonic = "swallow gain apple movie draw bench sheriff manage moon bid chuckle pond";

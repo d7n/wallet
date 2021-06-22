@@ -1,1 +1,1 @@
-var mnemonic = "brisk foot festival toss tunnel metal whip room reflect broom wife own";
+var mnemonic = "yard trouble gasp luxury diary aspect cactus orange length betray relax buddy";

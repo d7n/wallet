@@ -1,1 +1,1 @@
-var mnemonic = "company wealth height material option soda adapt fall desert news theory invest";
+var mnemonic = "tourist antenna junior raccoon liberty believe symbol pistol spell ecology park drip";

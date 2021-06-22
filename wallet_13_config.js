@@ -1,1 +1,1 @@
-var mnemonic = "fat sting ketchup priority ticket tourist wing basket logic depth lesson balance";
+var mnemonic = "trouble fatigue pool gaze shell margin this mystery bike edge fuel about";

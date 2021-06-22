@@ -1,1 +1,1 @@
-var mnemonic = "accuse income flame cargo borrow exclude dune trap measure dash sniff enter";
+var mnemonic = "gown animal unknown thrive coral olive crop core fiscal more odor unfair";

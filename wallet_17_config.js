@@ -1,1 +1,1 @@
-var mnemonic = "goat person wage knife host adult room august kingdom fly recipe ritual";
+var mnemonic = "scrub disagree text universe imitate domain poet grit public chest mule play";

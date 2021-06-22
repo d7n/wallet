@@ -1,1 +1,1 @@
-var mnemonic = "mad observe cake input laundry snake design certain rocket open club blossom";
+var mnemonic = "base width pipe maid identify window sauce fatal end index disagree jump";

@@ -1,1 +1,1 @@
-var mnemonic = "section tower entire correct amount vessel sight element mix trend arch lemon";
+var mnemonic = "goat small ten check charge round seek liquid dilemma recall story narrow";

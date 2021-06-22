@@ -1,1 +1,1 @@
-var mnemonic = "plunge garage measure assist amazing exchange curtain random rather risk lobster doctor";
+var mnemonic = "post home casual inspire noise bleak nice south organ shaft ensure gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "there fortune weather negative asthma aspect december large very picture until angle";
+var mnemonic = "venue jaguar zebra mountain road carbon body uniform valve offer laundry luxury";

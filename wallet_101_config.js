@@ -1,1 +1,1 @@
-var mnemonic = "mixed adapt canoe picture stamp submit tonight pluck galaxy blossom enrich link";
+var mnemonic = "already slot wrap dutch eternal emotion outer start pioneer castle electric slim";

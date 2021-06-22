@@ -1,1 +1,1 @@
-var mnemonic = "vital rebel bus scatter okay infant cigar atom easy sunset burger loyal";
+var mnemonic = "item pulp disagree risk neck refuse tray apology love motion auction obscure";

@@ -1,1 +1,1 @@
-var mnemonic = "beach test world man common erase dad green citizen once crazy jewel";
+var mnemonic = "immune claw enemy lens project canal conduct panel bring robot rabbit replace";
