@@ -1,1 +1,1 @@
-var mnemonic = "volcano rice evidence crater total spot pen lazy entire resource balcony galaxy";
+var mnemonic = "shell define envelope soft daughter pipe power fold satoshi adapt latin pear";

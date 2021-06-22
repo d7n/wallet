@@ -1,1 +1,1 @@
-var mnemonic = "imitate liberty grass calm language butter grit dawn cable rural very zone";
+var mnemonic = "taxi useful click harbor other cattle citizen annual search neither seed royal";

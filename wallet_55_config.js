@@ -1,1 +1,1 @@
-var mnemonic = "illegal old wish silk raw zoo equip man sort mistake group acquire";
+var mnemonic = "suspect tumble gown danger sausage desk output artwork chef protect sketch mother";

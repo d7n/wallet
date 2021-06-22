@@ -1,1 +1,1 @@
-var mnemonic = "battle engine ticket word turkey cross equip crouch hen coffee make direct";
+var mnemonic = "drip honey wool fabric remove snack mean park task bridge slight mechanic";

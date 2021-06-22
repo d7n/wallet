@@ -1,1 +1,1 @@
-var mnemonic = "appear honey layer concert manage device swim essence artist soap doctor evolve";
+var mnemonic = "august slot ticket under heavy depend argue jacket success drum despair fit";

@@ -1,1 +1,1 @@
-var mnemonic = "child area collect milk elbow empower sketch family admit mercy absurd miss";
+var mnemonic = "foil wealth strong mad document course cupboard host divert proof spring flame";

@@ -1,1 +1,1 @@
-var mnemonic = "inherit virtual urban mutual mercy excuse device yard prevent top because bleak";
+var mnemonic = "hotel afford outer prosper nature coach affair success length poverty saddle clean";

@@ -1,1 +1,1 @@
-var mnemonic = "similar flush spice citizen legal retreat carpet bomb garden because sport aunt";
+var mnemonic = "club sign soldier park negative claw around skull snow circle enter smart";

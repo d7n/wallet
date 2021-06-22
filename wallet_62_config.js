@@ -1,1 +1,1 @@
-var mnemonic = "mercy hotel current mouse nation slow spray inside feed arrive stand border";
+var mnemonic = "ritual foil maximum save scorpion throw usage essence wave baby deal ocean";

@@ -1,1 +1,1 @@
-var mnemonic = "clock craft renew volume wing rib melt stage tonight learn muffin fatigue";
+var mnemonic = "crop hazard game cousin genius camp age have sleep ask faint breeze";

@@ -1,1 +1,1 @@
-var mnemonic = "indicate extend drive question town size keen service actual gossip wrestle success";
+var mnemonic = "mail innocent doll fiber scrub kitchen slide release wait already tuition economy";

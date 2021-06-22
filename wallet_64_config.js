@@ -1,1 +1,1 @@
-var mnemonic = "sauce worry enrich tragic pride anxiety connect faint frog pride repair come";
+var mnemonic = "theory interest fat over good disease stairs roast mosquito pear scale subject";

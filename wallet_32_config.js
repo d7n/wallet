@@ -1,1 +1,1 @@
-var mnemonic = "erase network ready talk pony cause rail educate olympic top segment sting";
+var mnemonic = "mesh home correct wealth true travel dumb attend protect okay sad nature";

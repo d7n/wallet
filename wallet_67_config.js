@@ -1,1 +1,1 @@
-var mnemonic = "lyrics plunge lesson attitude rack together slice abstract day mad long warfare";
+var mnemonic = "proud cram switch rely hover pony work cat kidney predict bachelor indoor";

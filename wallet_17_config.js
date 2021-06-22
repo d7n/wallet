@@ -1,1 +1,1 @@
-var mnemonic = "gas soap middle phone spice consider humble car habit worth alien ethics";
+var mnemonic = "diagram scene inspire make kiwi machine uncle hard open champion tower wave";

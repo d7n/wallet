@@ -1,1 +1,1 @@
-var mnemonic = "brand echo wave orange mirror lunar same foam time fan woman subway";
+var mnemonic = "believe jump marble evidence creek jungle movie ancient maid identify carbon solve";

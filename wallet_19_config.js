@@ -1,1 +1,1 @@
-var mnemonic = "express forward mind leader alley evoke special tunnel width cycle clutch ugly";
+var mnemonic = "aisle glow apology route connect movie jeans antenna topic cup tool explain";

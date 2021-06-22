@@ -1,1 +1,1 @@
-var mnemonic = "gossip excess prefer safe chase key acquire city income rather anger only";
+var mnemonic = "donor topic defense panther version april twist duck fantasy essence knee slim";

@@ -1,1 +1,1 @@
-var mnemonic = "logic disagree post color ginger rural state bright soul tribe addict space";
+var mnemonic = "robot stumble build vote hammer settle stadium flock before enemy surface acoustic";

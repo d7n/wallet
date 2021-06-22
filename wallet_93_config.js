@@ -1,1 +1,1 @@
-var mnemonic = "together canyon wish engage feature define card floor avocado fence bone ocean";
+var mnemonic = "conduct term odor cloud october crunch buddy intact nephew cactus tornado razor";

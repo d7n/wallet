@@ -1,1 +1,1 @@
-var mnemonic = "tackle arm other tattoo require author blouse guard razor gap secret close";
+var mnemonic = "love fruit bubble duty avoid manage orange pill fancy december prosper mistake";

@@ -1,1 +1,1 @@
-var mnemonic = "hello pledge tunnel chaos purity library velvet snow metal hand sustain target";
+var mnemonic = "eye husband crime flavor cup romance crisp scissors mirror ten game rival";

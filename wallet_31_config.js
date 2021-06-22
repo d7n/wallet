@@ -1,1 +1,1 @@
-var mnemonic = "town alarm garlic board paper offer forget minute rack tank cotton matter";
+var mnemonic = "magnet choose tooth crop machine pride rack curve wealth goddess manual habit";

@@ -1,1 +1,1 @@
-var mnemonic = "document demise audit still mobile gorilla announce hello rural hood dismiss soda";
+var mnemonic = "boring pitch egg force glare kind hurry plug fancy grant spy symptom";

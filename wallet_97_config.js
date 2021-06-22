@@ -1,1 +1,1 @@
-var mnemonic = "juice inmate wave carpet balcony subway laugh neutral struggle often misery evidence";
+var mnemonic = "cart rain bread chuckle marine guard clay cherry upper lunar bronze hurdle";

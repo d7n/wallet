@@ -1,1 +1,1 @@
-var mnemonic = "basket install drama fabric because page develop horror present disagree syrup lucky";
+var mnemonic = "violin artist sense love debris aerobic owner screen kick squeeze heart script";

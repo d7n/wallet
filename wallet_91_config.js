@@ -1,1 +1,1 @@
-var mnemonic = "surface receive timber inform measure bargain skin latin pottery axis whale thank";
+var mnemonic = "unusual below reason subway use change hair almost bench olive kite merit";

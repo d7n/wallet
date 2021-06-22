@@ -1,1 +1,1 @@
-var mnemonic = "mixed simple apology capital quiz click push trust truly rabbit web fatigue";
+var mnemonic = "above bleak witness artwork pole muscle skill fruit pen cycle ecology ramp";

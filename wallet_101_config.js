@@ -1,1 +1,1 @@
-var mnemonic = "cereal coach border pride lawsuit cannon mammal outer account peanut arena assist";
+var mnemonic = "light game erupt nature sudden index depart lumber churn leisure credit solar";

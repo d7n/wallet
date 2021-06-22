@@ -1,1 +1,1 @@
-var mnemonic = "wedding into pistol ritual hotel shift cute cash donor analyst diesel glove";
+var mnemonic = "online onion genius sing march shift learn cool ability salt bundle click";

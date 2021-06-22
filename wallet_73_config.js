@@ -1,1 +1,1 @@
-var mnemonic = "awake kiss please either doll draft physical arm awake idea extend garage";
+var mnemonic = "throw volcano gap rigid behave insect identify clump vast live physical situate";

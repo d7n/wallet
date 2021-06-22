@@ -1,1 +1,1 @@
-var mnemonic = "right reward tilt author adapt initial offer lottery dutch reopen injury mail";
+var mnemonic = "cycle hurdle clinic correct author shock wire dolphin desert real fun century";

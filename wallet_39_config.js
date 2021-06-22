@@ -1,1 +1,1 @@
-var mnemonic = "coach tongue loud arctic pill tomato into pledge average moon fence pear";
+var mnemonic = "wave kick garbage matter receive defy expose horse barrel thumb rude camera";

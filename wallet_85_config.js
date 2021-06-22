@@ -1,1 +1,1 @@
-var mnemonic = "term leader round economy mule soup assault possible high rifle delay link";
+var mnemonic = "clever sure can inner urge usual once hire march someone feed entire";

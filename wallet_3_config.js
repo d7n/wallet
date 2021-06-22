@@ -1,1 +1,1 @@
-var mnemonic = "reason marble inmate develop mad open decade execute popular brick alter eight";
+var mnemonic = "search sunny clutch awkward foster play gap doctor loan spend drive occur";

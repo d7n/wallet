@@ -1,1 +1,1 @@
-var mnemonic = "someone expand include balcony curious speed ride vessel adapt ignore spawn whip";
+var mnemonic = "bomb miracle verify quiz family ostrich aerobic stuff female save ostrich exclude";

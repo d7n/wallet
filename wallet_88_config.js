@@ -1,1 +1,1 @@
-var mnemonic = "exist flower habit large security word mushroom paddle people comfort noodle march";
+var mnemonic = "march margin lumber gesture federal gap outside earth coach six dilemma hole";

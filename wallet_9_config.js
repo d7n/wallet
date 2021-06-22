@@ -1,1 +1,1 @@
-var mnemonic = "time force wrong kiss soda opinion cradle peace penalty call destroy infant";
+var mnemonic = "tunnel grain leg ladder tip ethics blade message violin trap know emerge";

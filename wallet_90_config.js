@@ -1,1 +1,1 @@
-var mnemonic = "pride sustain sight tomorrow gospel edit faculty harbor nut minimum educate zero";
+var mnemonic = "couple jelly aim pudding broccoli pluck craft inmate win ice kidney track";

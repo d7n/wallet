@@ -1,1 +1,1 @@
-var mnemonic = "gather moral safe banana champion sound situate renew ostrich female check short";
+var mnemonic = "round capital chef crazy gospel employ ask scale play vague advance wasp";

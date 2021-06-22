@@ -1,1 +1,1 @@
-var mnemonic = "female energy soul evidence alert old flame puppy artist cost safe aware";
+var mnemonic = "spoon love flip recycle method squeeze vanish pencil blame twin also remind";

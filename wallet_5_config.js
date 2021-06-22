@@ -1,1 +1,1 @@
-var mnemonic = "assume peace era iron wrong picnic hello settle gesture fine alpha fork";
+var mnemonic = "pioneer throw face aware angle fee expect settle rule remind bacon bomb";

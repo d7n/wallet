@@ -1,1 +1,1 @@
-var mnemonic = "idle hair equip success weather now kiss blouse fossil awake napkin result";
+var mnemonic = "crane live dutch copper iron kitten then dad neutral across token tunnel";

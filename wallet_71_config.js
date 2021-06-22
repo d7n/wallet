@@ -1,1 +1,1 @@
-var mnemonic = "escape long hobby erupt foam ball stand heart miracle logic length position";
+var mnemonic = "olympic high large knock inherit deposit indicate despair absurd stereo wear aspect";

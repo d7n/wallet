@@ -1,1 +1,1 @@
-var mnemonic = "define dune wood phone dad lamp enable photo boy quit pony inflict";
+var mnemonic = "delay napkin cup air abandon lens glue into cute view shop garlic";

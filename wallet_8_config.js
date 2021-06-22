@@ -1,1 +1,1 @@
-var mnemonic = "crisp inner renew hundred belt awesome faint tomato remove mouse cannon target";
+var mnemonic = "horse find sort honey hand rabbit guard spot report tuna fringe eager";

@@ -1,1 +1,1 @@
-var mnemonic = "drop hip suit eyebrow ritual teach bracket lab heavy lend worth cradle";
+var mnemonic = "hire water hour quality liberty near gate fork manual sample topic much";

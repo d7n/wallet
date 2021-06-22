@@ -1,1 +1,1 @@
-var mnemonic = "club atom happy aunt cool attack depend major much layer trim run";
+var mnemonic = "bind elite trouble knee net usage minute mouse duck grief dawn side";

@@ -1,1 +1,1 @@
-var mnemonic = "undo intact horse frown movie fatigue wise helmet since liar embark lecture";
+var mnemonic = "pizza wonder diagram unlock blouse reflect fashion almost arrow evil fossil next";

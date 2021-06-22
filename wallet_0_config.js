@@ -1,1 +1,1 @@
-var mnemonic = "side answer enroll push dumb funny fiber subway battle walk island return";
+var mnemonic = "endorse isolate success problem era spice emerge aware drift spot yellow miss";

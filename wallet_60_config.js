@@ -1,1 +1,1 @@
-var mnemonic = "deputy struggle color cheese tray intact apart sing infant yellow weird soon";
+var mnemonic = "unlock praise figure wheel neck boost near federal tortoise index error cave";

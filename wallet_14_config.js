@@ -1,1 +1,1 @@
-var mnemonic = "side record glad model behind essence chaos face maple pupil vicious slight";
+var mnemonic = "admit ridge dignity hockey kidney repair defy gesture define merit cycle lake";

@@ -1,1 +1,1 @@
-var mnemonic = "power angry summer asthma horror begin flame trade busy behave leaf main";
+var mnemonic = "coast act deer buddy essence same situate scare truth whisper best maximum";

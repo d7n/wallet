@@ -1,1 +1,1 @@
-var mnemonic = "rent outer cotton error asthma segment foot whale mother tornado connect member";
+var mnemonic = "toe wire rhythm episode bone exclude bullet fun spice peanut blossom jar";

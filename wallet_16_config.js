@@ -1,1 +1,1 @@
-var mnemonic = "wasp sight often hollow armor hand extra eagle reject vendor exhaust verb";
+var mnemonic = "slow awkward satoshi rural traffic alpha rain note plastic lamp chimney tape";

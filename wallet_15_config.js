@@ -1,1 +1,1 @@
-var mnemonic = "roast taste bonus light planet they welcome wing monkey disease pool swift";
+var mnemonic = "palace satoshi actor buffalo level exit sleep napkin amateur achieve lock example";

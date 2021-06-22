@@ -1,1 +1,1 @@
-var mnemonic = "joke slogan false shallow youth select cancel normal rabbit emerge stable pulse";
+var mnemonic = "use enact armor olympic dice credit whisper despair margin ginger height flat";

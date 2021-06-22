@@ -1,1 +1,1 @@
-var mnemonic = "swamp relief tray stairs secret loyal test regular catch bird ethics shaft";
+var mnemonic = "loan cycle abuse artefact tenant city wasp surface woman worth juice dial";

@@ -1,1 +1,1 @@
-var mnemonic = "track average police book desert snack mule market trigger circle trophy leg";
+var mnemonic = "enforce movie bomb bonus sword enable ride hospital deposit frame jealous chair";

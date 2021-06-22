@@ -1,1 +1,1 @@
-var mnemonic = "maze toast same rotate tone sad relax cactus height relax tower dove";
+var mnemonic = "bullet omit fancy space rally banner token catalog business cook join trumpet";

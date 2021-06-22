@@ -1,1 +1,1 @@
-var mnemonic = "place unable dress bridge gloom deal message razor pilot giggle misery wolf";
+var mnemonic = "broccoli legal tonight say radar stable middle motion foster impact daring carry";

@@ -1,1 +1,1 @@
-var mnemonic = "eye quit pottery bacon catch spot social correct impact nest ability hill";
+var mnemonic = "unknown comic radio salt define museum cheap barely photo twenty cupboard muscle";

@@ -1,1 +1,1 @@
-var mnemonic = "reform whale aerobic auto sure film reduce fan begin virtual reward film";
+var mnemonic = "vehicle total valve syrup depart canal diamond recall angry husband again fruit";

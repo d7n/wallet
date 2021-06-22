@@ -1,1 +1,1 @@
-var mnemonic = "cream add buffalo payment water river curtain project celery forward topple kidney";
+var mnemonic = "label nest assume vast present video lake coconut soul theory vacant stumble";

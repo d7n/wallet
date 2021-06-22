@@ -1,1 +1,1 @@
-var mnemonic = "attack fresh silly cannon bounce airport chimney brain lab frozen manage post";
+var mnemonic = "equal body fish museum quit bachelor abandon pelican skin slot wage direct";

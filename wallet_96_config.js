@@ -1,1 +1,1 @@
-var mnemonic = "blind gesture gather amount chicken crime office accident zone rice honey eager";
+var mnemonic = "method mean oak blur recipe east quit staff allow visa swim claim";

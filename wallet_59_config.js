@@ -1,1 +1,1 @@
-var mnemonic = "catalog ladder claw drink cricket suit critic liquid shrug canyon build vicious";
+var mnemonic = "fiction second switch spike hamster coach trade draw travel crystal dragon deny";

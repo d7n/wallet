@@ -1,1 +1,1 @@
-var mnemonic = "pelican large clarify favorite grain fetch steel scorpion empower foot real desk";
+var mnemonic = "toddler awesome rescue brush budget jeans charge turn cook slab infant castle";

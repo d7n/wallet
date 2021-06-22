@@ -1,1 +1,1 @@
-var mnemonic = "fuel eye energy soccer tenant sausage twist gap sister pistol hand potato";
+var mnemonic = "lab cliff segment basket trash snap property slam guide skin doctor lava";

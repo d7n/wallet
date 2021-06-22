@@ -1,1 +1,1 @@
-var mnemonic = "hundred hope inject ski blossom jungle calm noodle bulb jaguar suffer neither";
+var mnemonic = "tape depth vibrant canvas below venture summer place gold shed loan include";

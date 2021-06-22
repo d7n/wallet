@@ -1,1 +1,1 @@
-var mnemonic = "damage chat lunar glance axis volcano document bring immense multiply ring feature";
+var mnemonic = "truth ranch faith industry basic dad peace universe able replace enroll draw";

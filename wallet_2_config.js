@@ -1,1 +1,1 @@
-var mnemonic = "special sword theory regular core ask snow cereal soap train stay draw";
+var mnemonic = "camera reason devote village trophy fork mystery urge wealth daring wheel catalog";

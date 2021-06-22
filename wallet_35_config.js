@@ -1,1 +1,1 @@
-var mnemonic = "clock bronze trophy hockey bus grace nurse omit original attend ask spike";
+var mnemonic = "sniff tilt timber hello runway father dog method task method deposit firm";

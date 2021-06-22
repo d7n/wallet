@@ -1,1 +1,1 @@
-var mnemonic = "siren curtain tooth empty dragon push super dismiss evoke peasant defense negative";
+var mnemonic = "verb vivid credit ritual rebuild twice ride toy above thunder possible salon";

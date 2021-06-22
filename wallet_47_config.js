@@ -1,1 +1,1 @@
-var mnemonic = "lobster cup sport frequent raw seven trap supreme hill outdoor bachelor found";
+var mnemonic = "sustain ocean address soap gravity banner stadium clip error trumpet entry umbrella";

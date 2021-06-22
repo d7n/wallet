@@ -1,1 +1,1 @@
-var mnemonic = "antenna grow fabric year endorse unlock wrist learn sorry sand bundle payment";
+var mnemonic = "achieve eyebrow funny another random anxiety manual ball lizard blouse off syrup";

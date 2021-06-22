@@ -1,1 +1,1 @@
-var mnemonic = "hospital silk either sadness labor force tree sell annual fuel stamp dose";
+var mnemonic = "bounce senior rule lazy base venue art inhale leisure attitude shed glow";

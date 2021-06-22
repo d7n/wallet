@@ -1,1 +1,1 @@
-var mnemonic = "cricket use kiss renew sheriff thought poem bacon decide doll disease roof";
+var mnemonic = "own vital giant produce swallow chair used rack nice must glow confirm";

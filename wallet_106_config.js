@@ -1,1 +1,1 @@
-var mnemonic = "glove market pencil tool man range limb dismiss ritual main edit grid";
+var mnemonic = "bounce pass brown glass cement pumpkin unhappy stable bid prefer resource decade";

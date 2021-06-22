@@ -1,1 +1,1 @@
-var mnemonic = "you cancel hover sure mouse garden essay broken velvet yellow cement physical";
+var mnemonic = "jewel gasp artist diamond check arena cause boat snack truly human quit";

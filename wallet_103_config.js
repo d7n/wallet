@@ -1,1 +1,1 @@
-var mnemonic = "able valid photo wagon barrel speak invite mountain celery subway loop pupil";
+var mnemonic = "silver talk enact head enable better cigar mirror people hard raccoon dinosaur";

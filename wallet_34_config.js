@@ -1,1 +1,1 @@
-var mnemonic = "dumb valve salon fashion few behave north empower cheap olympic advance honey";
+var mnemonic = "sister stuff amount vacant require blanket ride elephant derive skate wheat note";

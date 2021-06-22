@@ -1,1 +1,1 @@
-var mnemonic = "benefit scan reduce top hero file sphere tumble like math arena turtle";
+var mnemonic = "comfort melt rally tortoise ensure ensure trend fork input blanket congress faint";

@@ -1,1 +1,1 @@
-var mnemonic = "neutral collect huge trouble oven blood jump defy believe federal brother square";
+var mnemonic = "oval total wear cake almost wealth sponsor candy salute solid moon limb";

@@ -1,1 +1,1 @@
-var mnemonic = "clean scout soap kingdom damp genuine boil lab destroy access chunk angle";
+var mnemonic = "shield tragic soldier twice legend violin disease region cause forum float swift";

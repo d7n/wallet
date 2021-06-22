@@ -1,1 +1,1 @@
-var mnemonic = "minimum diesel voyage helmet dash lunch sock betray divorce news smart oil";
+var mnemonic = "marble light attitude torch shock devote sea neck table palm guitar among";
