@@ -1,1 +1,1 @@
-var mnemonic = "senior solid age gloom copper discover slice tomorrow hunt ranch monster option";
+var mnemonic = "wedding into pistol ritual hotel shift cute cash donor analyst diesel glove";

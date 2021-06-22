@@ -1,1 +1,1 @@
-var mnemonic = "matrix farm charge comic defense super evil breeze drive firm tell drum";
+var mnemonic = "benefit scan reduce top hero file sphere tumble like math arena turtle";

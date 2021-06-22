@@ -1,1 +1,1 @@
-var mnemonic = "aware correct soldier give gentle void rubber mass evil armor only filter";
+var mnemonic = "similar flush spice citizen legal retreat carpet bomb garden because sport aunt";

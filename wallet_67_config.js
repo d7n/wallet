@@ -1,1 +1,1 @@
-var mnemonic = "smoke stone copy become wolf extra odor twelve lion involve suggest wall";
+var mnemonic = "lyrics plunge lesson attitude rack together slice abstract day mad long warfare";

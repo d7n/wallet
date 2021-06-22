@@ -1,1 +1,1 @@
-var mnemonic = "then rally blast divorce second east picnic indoor delay nest sphere fragile";
+var mnemonic = "basket install drama fabric because page develop horror present disagree syrup lucky";

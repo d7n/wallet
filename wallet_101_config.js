@@ -1,1 +1,1 @@
-var mnemonic = "chest spice labor grant quantum whisper crucial judge gather luggage keep fame";
+var mnemonic = "cereal coach border pride lawsuit cannon mammal outer account peanut arena assist";

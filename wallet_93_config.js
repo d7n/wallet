@@ -1,1 +1,1 @@
-var mnemonic = "such govern subject earth dynamic author round winter smart glance space hold";
+var mnemonic = "together canyon wish engage feature define card floor avocado fence bone ocean";

@@ -1,1 +1,1 @@
-var mnemonic = "social catalog someone clerk kite zero simple impose blur tomorrow subway pool";
+var mnemonic = "logic disagree post color ginger rural state bright soul tribe addict space";

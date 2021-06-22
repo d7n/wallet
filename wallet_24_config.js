@@ -1,1 +1,1 @@
-var mnemonic = "forum torch flock iron present wisdom proof deputy eye warrior dirt vanish";
+var mnemonic = "hip brave clinic bus calm pave power perfect cancel omit always autumn";

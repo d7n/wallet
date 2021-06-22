@@ -1,1 +1,1 @@
-var mnemonic = "toddler portion blanket illegal caught alter cool hundred library inner point arrow";
+var mnemonic = "brand echo wave orange mirror lunar same foam time fan woman subway";

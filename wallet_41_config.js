@@ -1,1 +1,1 @@
-var mnemonic = "member cave ten dynamic used method almost jaguar between trust season load";
+var mnemonic = "eye quit pottery bacon catch spot social correct impact nest ability hill";

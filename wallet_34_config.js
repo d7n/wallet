@@ -1,1 +1,1 @@
-var mnemonic = "host snack venue inside ankle road direct jump long census game adjust";
+var mnemonic = "dumb valve salon fashion few behave north empower cheap olympic advance honey";

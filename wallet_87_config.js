@@ -1,1 +1,1 @@
-var mnemonic = "vast menu glad razor diary pen federal among tip climb steel toast";
+var mnemonic = "clinic afford raise rough secret hurry address child trash brain ship cousin";

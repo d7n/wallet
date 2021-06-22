@@ -1,1 +1,1 @@
-var mnemonic = "trust stick rural rely rich dumb private treat wood spatial drop depth";
+var mnemonic = "drop hip suit eyebrow ritual teach bracket lab heavy lend worth cradle";

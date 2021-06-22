@@ -1,1 +1,1 @@
-var mnemonic = "crime fatigue frown museum will dream road liquid satoshi already chuckle champion";
+var mnemonic = "resource crime impact razor rice piece easy salmon flush jungle turkey bus";

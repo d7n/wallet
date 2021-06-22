@@ -1,1 +1,1 @@
-var mnemonic = "hockey dune blame quarter essence timber august absorb please tail wash air";
+var mnemonic = "lonely ship pig stem punch rebel champion casino city long grape glimpse";

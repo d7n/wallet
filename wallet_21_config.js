@@ -1,1 +1,1 @@
-var mnemonic = "that race chimney puppy travel pride young conduct drastic attract joy public";
+var mnemonic = "siren curtain tooth empty dragon push super dismiss evoke peasant defense negative";

@@ -1,1 +1,1 @@
-var mnemonic = "office sheriff exotic never funny vintage weasel surround start grain mail path";
+var mnemonic = "gas soap middle phone spice consider humble car habit worth alien ethics";

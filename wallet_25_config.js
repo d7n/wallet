@@ -1,1 +1,1 @@
-var mnemonic = "proud cloth noodle exotic truck fiber intact minute man wait hurt process";
+var mnemonic = "antenna grow fabric year endorse unlock wrist learn sorry sand bundle payment";

@@ -1,1 +1,1 @@
-var mnemonic = "power juice universe heart switch arrest bean cheese dune cabin mean refuse";
+var mnemonic = "chimney satisfy online repeat verb occur liquid source ketchup swear fine sight";

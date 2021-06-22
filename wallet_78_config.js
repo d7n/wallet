@@ -1,1 +1,1 @@
-var mnemonic = "side toilet grape spot drink bread foam stone monitor track siren route";
+var mnemonic = "unlock auction emotion item cover surge man initial opinion bicycle sample identify";

@@ -1,1 +1,1 @@
-var mnemonic = "top crew abandon warm suffer office person farm angry police brain uncle";
+var mnemonic = "track average police book desert snack mule market trigger circle trophy leg";

@@ -1,1 +1,1 @@
-var mnemonic = "enter mom cube boost cave scheme aim hockey athlete during unveil ahead";
+var mnemonic = "term leader round economy mule soup assault possible high rifle delay link";

@@ -1,1 +1,1 @@
-var mnemonic = "exile seek finish tiger switch pepper vibrant cable gesture lock furnace expand";
+var mnemonic = "deputy struggle color cheese tray intact apart sing infant yellow weird soon";

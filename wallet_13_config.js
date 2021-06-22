@@ -1,1 +1,1 @@
-var mnemonic = "ritual float mirror raven coyote remind romance pudding wave trophy mosquito life";
+var mnemonic = "damage chat lunar glance axis volcano document bring immense multiply ring feature";

@@ -1,1 +1,1 @@
-var mnemonic = "attitude kind seed ill left group clever country street fish item front";
+var mnemonic = "attack fresh silly cannon bounce airport chimney brain lab frozen manage post";

@@ -1,1 +1,1 @@
-var mnemonic = "test quarter energy coyote frown dog snake attack major panel chief cupboard";
+var mnemonic = "roast taste bonus light planet they welcome wing monkey disease pool swift";

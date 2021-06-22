@@ -1,1 +1,1 @@
-var mnemonic = "control elevator stairs column outside space october doll hybrid service castle patch";
+var mnemonic = "club atom happy aunt cool attack depend major much layer trim run";

@@ -1,1 +1,1 @@
-var mnemonic = "adjust blanket just remind eagle square opera verify eternal alley gift type";
+var mnemonic = "town alarm garlic board paper offer forget minute rack tank cotton matter";

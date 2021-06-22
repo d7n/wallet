@@ -1,1 +1,1 @@
-var mnemonic = "ankle mother sentence kit tail home hero okay about option adapt start";
+var mnemonic = "place unable dress bridge gloom deal message razor pilot giggle misery wolf";

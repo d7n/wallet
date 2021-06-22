@@ -1,1 +1,1 @@
-var mnemonic = "barrel eight quarter uncle consider bulk organ park shallow heart wedding burst";
+var mnemonic = "earn embark repair chunk you treat peace student plug club thumb team";

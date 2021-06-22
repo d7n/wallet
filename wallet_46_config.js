@@ -1,1 +1,1 @@
-var mnemonic = "hazard gold aerobic cycle pink scatter cream enough during fossil decorate lucky";
+var mnemonic = "primary ready predict hurdle bicycle hollow weather raw hair biology garden cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "shop distance mixture mail unit pride lunar account initial kiss visit hard";
+var mnemonic = "maze toast same rotate tone sad relax cactus height relax tower dove";

@@ -1,1 +1,1 @@
-var mnemonic = "bird album stairs ignore antenna host ozone furnace nut elder axis mobile";
+var mnemonic = "clean scout soap kingdom damp genuine boil lab destroy access chunk angle";

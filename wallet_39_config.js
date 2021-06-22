@@ -1,1 +1,1 @@
-var mnemonic = "eagle pet cargo first hidden minute limit minute brown immense surface arrange";
+var mnemonic = "coach tongue loud arctic pill tomato into pledge average moon fence pear";

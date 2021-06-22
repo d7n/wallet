@@ -1,1 +1,1 @@
-var mnemonic = "mask letter oil exercise body border endorse observe guard tuition give lock";
+var mnemonic = "express forward mind leader alley evoke special tunnel width cycle clutch ugly";

@@ -1,1 +1,1 @@
-var mnemonic = "wrestle iron dinosaur people rare office crane million reason essay best range";
+var mnemonic = "fuel eye energy soccer tenant sausage twist gap sister pistol hand potato";

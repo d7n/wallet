@@ -1,1 +1,1 @@
-var mnemonic = "network grief alert strategy either become typical use update apology best margin";
+var mnemonic = "lobster cup sport frequent raw seven trap supreme hill outdoor bachelor found";

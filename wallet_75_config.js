@@ -1,1 +1,1 @@
-var mnemonic = "lumber water excuse sense truly another crunch absent noise bullet point faculty";
+var mnemonic = "orange luxury tool athlete nothing hockey airport will rose surface repair fetch";

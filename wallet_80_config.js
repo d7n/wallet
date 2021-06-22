@@ -1,1 +1,1 @@
-var mnemonic = "diesel recall jump girl cage oyster neglect fire fluid robot mandate pill";
+var mnemonic = "crazy bitter teach spawn eager lift leopard auction merge water adjust hurt";

@@ -1,1 +1,1 @@
-var mnemonic = "cradle chair lift robust popular giraffe kiwi cushion mad inmate cargo much";
+var mnemonic = "loud large napkin bitter predict retreat slush fix fluid symbol gauge stick";

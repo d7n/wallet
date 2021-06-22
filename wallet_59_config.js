@@ -1,1 +1,1 @@
-var mnemonic = "picnic father fox innocent rebuild pattern session bottom suit provide kiwi uniform";
+var mnemonic = "catalog ladder claw drink cricket suit critic liquid shrug canyon build vicious";

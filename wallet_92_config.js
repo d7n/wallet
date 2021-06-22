@@ -1,1 +1,1 @@
-var mnemonic = "enact laugh lazy dice shrug breeze ensure asthma host extend time turn";
+var mnemonic = "joke slogan false shallow youth select cancel normal rabbit emerge stable pulse";

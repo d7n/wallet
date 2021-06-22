@@ -1,1 +1,1 @@
-var mnemonic = "trouble balance regular wet mouse hard flavor electric blouse slam monitor sight";
+var mnemonic = "rent outer cotton error asthma segment foot whale mother tornado connect member";

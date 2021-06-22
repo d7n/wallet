@@ -1,1 +1,1 @@
-var mnemonic = "dove enact friend bunker shoot pig awake abuse photo luggage mom depend";
+var mnemonic = "minimum diesel voyage helmet dash lunch sock betray divorce news smart oil";

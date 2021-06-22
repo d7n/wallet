@@ -1,1 +1,1 @@
-var mnemonic = "song wood canvas soap trade fall kangaroo trash december canyon awake harvest";
+var mnemonic = "clock craft renew volume wing rib melt stage tonight learn muffin fatigue";

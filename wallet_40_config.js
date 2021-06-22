@@ -1,1 +1,1 @@
-var mnemonic = "scene pet unfold rabbit notable deliver silver faith pistol above dream tourist";
+var mnemonic = "battle engine ticket word turkey cross equip crouch hen coffee make direct";

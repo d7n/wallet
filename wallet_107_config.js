@@ -1,1 +1,1 @@
-var mnemonic = "voice negative decade arrow roof amateur equal captain famous onion section estate";
+var mnemonic = "parrot ball outside squirrel burst dumb pen soul sort suspect high tent";

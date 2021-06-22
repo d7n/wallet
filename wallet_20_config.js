@@ -1,1 +1,1 @@
-var mnemonic = "display scissors lady just badge sadness float galaxy parade roof mammal tribe";
+var mnemonic = "power angry summer asthma horror begin flame trade busy behave leaf main";

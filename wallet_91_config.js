@@ -1,1 +1,1 @@
-var mnemonic = "wedding sea yard donate cruel season describe enjoy snack social umbrella fringe";
+var mnemonic = "surface receive timber inform measure bargain skin latin pottery axis whale thank";

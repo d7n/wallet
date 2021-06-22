@@ -1,1 +1,1 @@
-var mnemonic = "gym jar tenant street addict version engine head genre clinic pulp nurse";
+var mnemonic = "reform whale aerobic auto sure film reduce fan begin virtual reward film";

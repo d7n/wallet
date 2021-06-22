@@ -1,1 +1,1 @@
-var mnemonic = "degree lava wasp multiply coin return very page club vapor possible oven";
+var mnemonic = "actress all yellow kind drama mixed zoo promote alcohol slab unable quarter";

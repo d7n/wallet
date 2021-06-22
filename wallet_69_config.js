@@ -1,1 +1,1 @@
-var mnemonic = "about lyrics reveal way rapid video glow now genuine another brand glare";
+var mnemonic = "tackle arm other tattoo require author blouse guard razor gap secret close";

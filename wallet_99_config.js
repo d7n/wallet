@@ -1,1 +1,1 @@
-var mnemonic = "clay woman shed cruise weasel sell zero two permit harvest adapt spoon";
+var mnemonic = "certain party panel veteran share stomach tonight company fit merry violin final";

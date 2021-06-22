@@ -1,1 +1,1 @@
-var mnemonic = "laptop gorilla bubble below hawk wall project much owner merge uphold key";
+var mnemonic = "illegal old wish silk raw zoo equip man sort mistake group acquire";

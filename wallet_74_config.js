@@ -1,1 +1,1 @@
-var mnemonic = "build scale gaze tip chief face flame trouble border essence trigger pass";
+var mnemonic = "shoulder judge length insect organ before bone aware fly secret yellow again";

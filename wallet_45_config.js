@@ -1,1 +1,1 @@
-var mnemonic = "service excess viable chalk make sunset involve desert history circle cushion shoe";
+var mnemonic = "right reward tilt author adapt initial offer lottery dutch reopen injury mail";

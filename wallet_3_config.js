@@ -1,1 +1,1 @@
-var mnemonic = "lizard history believe trim critic method swing since castle bird trend visa";
+var mnemonic = "reason marble inmate develop mad open decade execute popular brick alter eight";

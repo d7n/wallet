@@ -1,1 +1,1 @@
-var mnemonic = "erupt draw crane flash stay absent client gasp artefact vanish child random";
+var mnemonic = "undo intact horse frown movie fatigue wise helmet since liar embark lecture";

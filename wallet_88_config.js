@@ -1,1 +1,1 @@
-var mnemonic = "prison tail bridge stay catch mouse accident claim drastic tunnel risk pill";
+var mnemonic = "exist flower habit large security word mushroom paddle people comfort noodle march";

@@ -1,1 +1,1 @@
-var mnemonic = "april balance crime box jazz lawsuit ribbon merit ugly cradle cream jump";
+var mnemonic = "define dune wood phone dad lamp enable photo boy quit pony inflict";

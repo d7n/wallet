@@ -1,1 +1,1 @@
-var mnemonic = "tell few bargain brown cannon leaf text inherit twin fix gun hope";
+var mnemonic = "pride sustain sight tomorrow gospel edit faculty harbor nut minimum educate zero";

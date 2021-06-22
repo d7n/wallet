@@ -1,1 +1,1 @@
-var mnemonic = "spoil balance funny blue pair cup episode return around proof accident warm";
+var mnemonic = "wasp sight often hollow armor hand extra eagle reject vendor exhaust verb";

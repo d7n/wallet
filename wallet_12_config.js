@@ -1,1 +1,1 @@
-var mnemonic = "drama suffer unusual comic soccer cook network update length example cry trial";
+var mnemonic = "neutral collect huge trouble oven blood jump defy believe federal brother square";

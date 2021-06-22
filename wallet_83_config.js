@@ -1,1 +1,1 @@
-var mnemonic = "club quality drink palace fade gold offer bike polar gravity relief link";
+var mnemonic = "gather moral safe banana champion sound situate renew ostrich female check short";

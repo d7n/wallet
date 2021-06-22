@@ -1,1 +1,1 @@
-var mnemonic = "total dad fault obscure ensure manage walk charge material perfect erosion broccoli";
+var mnemonic = "inherit virtual urban mutual mercy excuse device yard prevent top because bleak";

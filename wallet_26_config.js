@@ -1,1 +1,1 @@
-var mnemonic = "select sign useful swing pass limb paper bulb hard clerk dizzy arena";
+var mnemonic = "female energy soul evidence alert old flame puppy artist cost safe aware";

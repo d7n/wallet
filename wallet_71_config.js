@@ -1,1 +1,1 @@
-var mnemonic = "puppy cherry neglect noble wrap despair budget inspire soul acid choice electric";
+var mnemonic = "escape long hobby erupt foam ball stand heart miracle logic length position";

@@ -1,1 +1,1 @@
-var mnemonic = "lemon grab polar vocal total miracle brush steak crater evil barely domain";
+var mnemonic = "multiply rebel hood present owner document say resemble flavor giggle unfair cycle";

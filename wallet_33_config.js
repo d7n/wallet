@@ -1,1 +1,1 @@
-var mnemonic = "alien alter soldier relief such pass animal mean security nose crack purpose";
+var mnemonic = "document demise audit still mobile gorilla announce hello rural hood dismiss soda";

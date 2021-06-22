@@ -1,1 +1,1 @@
-var mnemonic = "eight awesome electric gesture secret hero tissue peace icon burden alone fury";
+var mnemonic = "auction image demise crouch fork sample fit enemy unique wasp rebuild return";

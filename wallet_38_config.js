@@ -1,1 +1,1 @@
-var mnemonic = "corn amateur stem shy kid rain coral soldier wire dog silent observe";
+var mnemonic = "child area collect milk elbow empower sketch family admit mercy absurd miss";

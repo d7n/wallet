@@ -1,1 +1,1 @@
-var mnemonic = "catalog flush remain glove stay emotion skill erode awake attract scorpion excite";
+var mnemonic = "collect luggage smoke arrange basic sign lab huge random tent truck episode";

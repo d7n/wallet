@@ -1,1 +1,1 @@
-var mnemonic = "snack oven teach parrot wrestle joke fun coyote retire tuna fold fade";
+var mnemonic = "crisp inner renew hundred belt awesome faint tomato remove mouse cannon target";

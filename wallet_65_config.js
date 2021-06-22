@@ -1,1 +1,1 @@
-var mnemonic = "soda stem point kid inspire cup walnut devote palace property stairs audit";
+var mnemonic = "pelican large clarify favorite grain fetch steel scorpion empower foot real desk";

@@ -1,1 +1,1 @@
-var mnemonic = "bubble drama rely agent casino front repeat dismiss egg minimum aunt way";
+var mnemonic = "you cancel hover sure mouse garden essay broken velvet yellow cement physical";

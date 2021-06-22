@@ -1,1 +1,1 @@
-var mnemonic = "motor ghost denial typical laptop evoke hen tenant sail never flee stairs";
+var mnemonic = "someone expand include balcony curious speed ride vessel adapt ignore spawn whip";

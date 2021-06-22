@@ -1,1 +1,1 @@
-var mnemonic = "snack want pilot bread scene access liberty draw parade hire senior suffer";
+var mnemonic = "cradle pride cloud client tank swarm copper sock zero exhaust wild symbol";

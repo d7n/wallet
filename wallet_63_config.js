@@ -1,1 +1,1 @@
-var mnemonic = "bullet will unveil arrive salt sample bomb window limb whisper animal carpet";
+var mnemonic = "volcano rice evidence crater total spot pen lazy entire resource balcony galaxy";

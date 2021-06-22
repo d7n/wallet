@@ -1,1 +1,1 @@
-var mnemonic = "gold service age pass direct bus uniform maximum mirror stand sleep tiny";
+var mnemonic = "erase network ready talk pony cause rail educate olympic top segment sting";

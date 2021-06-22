@@ -1,1 +1,1 @@
-var mnemonic = "tattoo similar meadow approve track odor wolf clever hold flip deal wait";
+var mnemonic = "swamp relief tray stairs secret loyal test regular catch bird ethics shaft";

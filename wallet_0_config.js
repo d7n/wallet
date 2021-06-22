@@ -1,1 +1,1 @@
-var mnemonic = "toward describe egg spoil other supply carpet world hazard wisdom beauty clap";
+var mnemonic = "side answer enroll push dumb funny fiber subway battle walk island return";

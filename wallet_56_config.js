@@ -1,1 +1,1 @@
-var mnemonic = "vendor green gadget nothing host index flavor execute dress impose letter wolf";
+var mnemonic = "lion basket shy rent begin very fee maid idea modify river muscle";

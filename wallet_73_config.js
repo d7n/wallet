@@ -1,1 +1,1 @@
-var mnemonic = "prosper coral resemble juice latin party rather swim galaxy ripple toilet obscure";
+var mnemonic = "awake kiss please either doll draft physical arm awake idea extend garage";

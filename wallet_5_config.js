@@ -1,1 +1,1 @@
-var mnemonic = "boost glad pair choose waste corn artist claw shoulder spray convince employ";
+var mnemonic = "assume peace era iron wrong picnic hello settle gesture fine alpha fork";

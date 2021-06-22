@@ -1,1 +1,1 @@
-var mnemonic = "wood pumpkin notable gown cable duty confirm pepper drama buffalo guide airport";
+var mnemonic = "imitate liberty grass calm language butter grit dawn cable rural very zone";

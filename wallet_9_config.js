@@ -1,1 +1,1 @@
-var mnemonic = "pave heavy right since blade draft finger maid daughter paddle flock advance";
+var mnemonic = "time force wrong kiss soda opinion cradle peace penalty call destroy infant";

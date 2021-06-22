@@ -1,1 +1,1 @@
-var mnemonic = "column fiscal box girl point egg present thought crunch lottery curtain man";
+var mnemonic = "mercy hotel current mouse nation slow spray inside feed arrive stand border";

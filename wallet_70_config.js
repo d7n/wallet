@@ -1,1 +1,1 @@
-var mnemonic = "mouse fuel panic arch digital owner sea salad end cotton soap day";
+var mnemonic = "mixed simple apology capital quiz click push trust truly rabbit web fatigue";

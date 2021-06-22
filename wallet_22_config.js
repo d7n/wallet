@@ -1,1 +1,1 @@
-var mnemonic = "chat fever grass rocket rigid payment supreme check reason situate note chaos";
+var mnemonic = "hospital silk either sadness labor force tree sell annual fuel stamp dose";

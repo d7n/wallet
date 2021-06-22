@@ -1,1 +1,1 @@
-var mnemonic = "idle ankle body spoil offer control gasp element exchange neglect someone dwarf";
+var mnemonic = "hello pledge tunnel chaos purity library velvet snow metal hand sustain target";

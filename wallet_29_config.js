@@ -1,1 +1,1 @@
-var mnemonic = "vital buffalo fish affair yard neglect today choose ticket long endless bulk";
+var mnemonic = "cream add buffalo payment water river curtain project celery forward topple kidney";
