@@ -1,1 +1,1 @@
-var mnemonic = "tunnel first citizen bronze employ juice prison wool agree jungle chest memory";
+var mnemonic = "voice rapid drip undo need search crash forward jungle crumble simple short";

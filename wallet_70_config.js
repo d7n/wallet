@@ -1,1 +1,1 @@
-var mnemonic = "call similar piano assault aware palace weasel jump economy survey aim ability";
+var mnemonic = "mechanic gold arrange item cave evoke ability word amazing apology pond speed";

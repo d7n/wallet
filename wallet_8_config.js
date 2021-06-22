@@ -1,1 +1,1 @@
-var mnemonic = "ability pluck yellow six snow dress flight increase raccoon used behave ankle";
+var mnemonic = "cradle glass movie series entire multiply history budget escape eyebrow adapt venture";

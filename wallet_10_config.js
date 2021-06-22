@@ -1,1 +1,1 @@
-var mnemonic = "neutral wedding will skirt permit fine sweet album staff install example wood";
+var mnemonic = "true ozone mention bus prize lend pretty lobster tower enroll turtle diesel";

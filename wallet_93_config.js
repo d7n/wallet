@@ -1,1 +1,1 @@
-var mnemonic = "catch shadow spare unusual body magic foam emerge smart slender liquid one";
+var mnemonic = "relief agree accident useless vendor swear park door stadium cube pumpkin laundry";

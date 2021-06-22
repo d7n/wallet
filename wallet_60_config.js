@@ -1,1 +1,1 @@
-var mnemonic = "segment kingdom lounge kidney payment convince weather magnet spawn manage round execute";
+var mnemonic = "wild online clip bargain solution object begin win voice erosion emerge labor";

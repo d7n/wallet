@@ -1,1 +1,1 @@
-var mnemonic = "toe never carpet oxygen owner bubble trap wolf miracle absurd audit warrior";
+var mnemonic = "monster airport way ready draw hunt grit rack climb between message churn";

@@ -1,1 +1,1 @@
-var mnemonic = "language lens umbrella pudding inspire stick dwarf morning animal swing jar wild";
+var mnemonic = "head enemy park avoid trick net caution antenna one gentle silent spice";

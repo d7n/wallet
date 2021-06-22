@@ -1,1 +1,1 @@
-var mnemonic = "plunge carbon bleak transfer mixed ball frog dune limb exercise step word";
+var mnemonic = "vital rebel bus scatter okay infant cigar atom easy sunset burger loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "pact culture develop spell ostrich goddess mutual spice grain hurdle slender identify";
+var mnemonic = "flat float air puzzle brass meat language ripple sauce copper blue trick";

@@ -1,1 +1,1 @@
-var mnemonic = "garage plastic fossil capital bundle essence general ignore include fault company piece";
+var mnemonic = "rhythm canal deliver open stand glue latin anchor delay level cycle capable";

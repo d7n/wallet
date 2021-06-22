@@ -1,1 +1,1 @@
-var mnemonic = "play capital leader alter move oval march vote giraffe verify scheme frost";
+var mnemonic = "first inherit stock champion slam paper comfort pipe upgrade metal skin answer";

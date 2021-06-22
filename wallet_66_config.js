@@ -1,1 +1,1 @@
-var mnemonic = "talent loud private nice special ocean egg raise trap later affair diesel";
+var mnemonic = "issue point energy wait zone promote brave physical exist argue obvious talk";

@@ -1,1 +1,1 @@
-var mnemonic = "grant achieve slim distance purity win supreme fatigue foil ticket good stadium";
+var mnemonic = "candy wing phone simple clap pottery assume place cram theme cup fancy";

@@ -1,1 +1,1 @@
-var mnemonic = "nerve athlete stomach middle paper shove rich nature visit coach skill wolf";
+var mnemonic = "elder absurd glove elevator tide must faith venue hill cause pattern girl";

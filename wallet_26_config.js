@@ -1,1 +1,1 @@
-var mnemonic = "group setup swallow climb magic close guilt forest bean accident when ask";
+var mnemonic = "venue govern surge cup copper attend mystery cage sleep wait they recall";

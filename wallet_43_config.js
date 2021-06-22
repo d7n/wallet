@@ -1,1 +1,1 @@
-var mnemonic = "stick laundry alien bread shop fault clerk toast ridge jump chuckle hamster";
+var mnemonic = "melody present strong valve dose skin shove fiber middle fix whisper spare";

@@ -1,1 +1,1 @@
-var mnemonic = "goat risk pull manual icon tool cotton orbit jealous among debate first";
+var mnemonic = "skin indoor milk treat dynamic civil flush draw mind pilot gun alter";

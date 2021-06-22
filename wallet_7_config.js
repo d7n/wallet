@@ -1,1 +1,1 @@
-var mnemonic = "grid brass banana crumble enjoy vacant injury menu language grow quantum tag";
+var mnemonic = "urge hat basket sense reason shine local loud boat grief punch vacant";

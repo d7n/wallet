@@ -1,1 +1,1 @@
-var mnemonic = "tooth acid arrive empower cream attitude clown place sudden erosion remain quality";
+var mnemonic = "company wealth height material option soda adapt fall desert news theory invest";

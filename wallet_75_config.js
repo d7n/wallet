@@ -1,1 +1,1 @@
-var mnemonic = "discover giant sample night anxiety canal nature unhappy history tip vendor zero";
+var mnemonic = "vivid zebra curve brick hill cube snack renew spell noodle wine frog";

@@ -1,1 +1,1 @@
-var mnemonic = "album zone topple spawn one lecture pause often below slab inquiry budget";
+var mnemonic = "act young private bird voice gym virtual rug impose invest gauge calm";

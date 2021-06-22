@@ -1,1 +1,1 @@
-var mnemonic = "unknown require wear erupt health upset fit leader orbit runway asthma ball";
+var mnemonic = "stereo cash advice point open image cancel return harvest indoor vehicle open";

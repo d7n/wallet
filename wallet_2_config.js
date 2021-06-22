@@ -1,1 +1,1 @@
-var mnemonic = "misery trust essay strong dinner barely east moment focus believe program heavy";
+var mnemonic = "explain hockey shed icon toe type define salmon topic trumpet table shrimp";

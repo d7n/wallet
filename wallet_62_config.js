@@ -1,1 +1,1 @@
-var mnemonic = "stool dutch soda first zone chicken effort plastic traffic stomach must hill";
+var mnemonic = "brisk foot festival toss tunnel metal whip room reflect broom wife own";

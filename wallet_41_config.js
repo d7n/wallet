@@ -1,1 +1,1 @@
-var mnemonic = "carpet thing trust window split device stumble escape mushroom blast all broom";
+var mnemonic = "robot shield kidney roast little much model equip wrap logic fringe protect";

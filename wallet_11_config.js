@@ -1,1 +1,1 @@
-var mnemonic = "reject fix height leaf wasp kit brave trim rely liar wink chef";
+var mnemonic = "rally artefact chaos boat ribbon pig island crack able diary warm session";

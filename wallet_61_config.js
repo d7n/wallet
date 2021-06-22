@@ -1,1 +1,1 @@
-var mnemonic = "dirt laptop expand diagram plate month charge opera brand flush mechanic draft";
+var mnemonic = "turtle oil crater much small fragile belt pair laptop security lizard glory";

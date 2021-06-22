@@ -1,1 +1,1 @@
-var mnemonic = "lamp notice victory avoid chapter ridge produce atom leopard warrior ability just";
+var mnemonic = "size life coach task modify other muffin chronic tiny hard deputy tray";

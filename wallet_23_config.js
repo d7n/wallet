@@ -1,1 +1,1 @@
-var mnemonic = "cheese grab dose sell patrol apart shed thing mutual nephew fancy shrimp";
+var mnemonic = "rose lyrics juice burger blush insane fruit post simple below glove retreat";

@@ -1,1 +1,1 @@
-var mnemonic = "join hill park trophy loan program story furnace glare sound brother canyon";
+var mnemonic = "else song solution size comic pause patrol element fiscal wrestle width return";

@@ -1,1 +1,1 @@
-var mnemonic = "fiction then version lawn bottom love chair slab silk tell floor drop";
+var mnemonic = "blade mosquito chest bind immense debris flip weasel spoil lemon sail enjoy";

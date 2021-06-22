@@ -1,1 +1,1 @@
-var mnemonic = "pond foam electric project three comfort mean busy this profit become nasty";
+var mnemonic = "mother vacant flat seminar gather filter conduct notable eyebrow title unusual train";

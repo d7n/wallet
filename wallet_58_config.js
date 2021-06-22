@@ -1,1 +1,1 @@
-var mnemonic = "shrimp party master injury snake gun voyage motion glow happy smooth build";
+var mnemonic = "little ridge please warrior stairs swift cat into heavy aisle labor scout";

@@ -1,1 +1,1 @@
-var mnemonic = "bird opinion frown donkey idea receive giant budget shaft congress piano quiz";
+var mnemonic = "grunt satisfy math zone scare media rural sausage fat treat student caution";

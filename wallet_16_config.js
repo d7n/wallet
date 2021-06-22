@@ -1,1 +1,1 @@
-var mnemonic = "faint stay key marine chunk poem also plug prefer toward afford kind";
+var mnemonic = "glance awkward scissors develop hockey arrest february belt pigeon become rough share";

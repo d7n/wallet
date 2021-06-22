@@ -1,1 +1,1 @@
-var mnemonic = "history park tilt inch brain wing circle snap scrap endorse regret people";
+var mnemonic = "accuse income flame cargo borrow exclude dune trap measure dash sniff enter";

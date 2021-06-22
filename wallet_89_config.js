@@ -1,1 +1,1 @@
-var mnemonic = "census shock dinosaur attend okay ill fiber switch soft push security position";
+var mnemonic = "festival inject soon satisfy excuse oblige lizard thought canvas crew point curve";

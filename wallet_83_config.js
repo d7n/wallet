@@ -1,1 +1,1 @@
-var mnemonic = "giraffe sadness balcony poem legal baby pond chair verify fiscal leave shine";
+var mnemonic = "swap rack balcony body stove video exclude slide oblige sketch still puppy";

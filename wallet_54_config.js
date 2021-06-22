@@ -1,1 +1,1 @@
-var mnemonic = "ignore argue era nature now grape turkey bird smart own idle only";
+var mnemonic = "ivory lens sister crew culture monster income proud city cover run gather";

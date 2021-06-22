@@ -1,1 +1,1 @@
-var mnemonic = "cradle verb cargo dutch anchor swarm rate jelly soccer anxiety wire leopard";
+var mnemonic = "feel ensure woman this decide arrange fitness blind mule region smooth extend";

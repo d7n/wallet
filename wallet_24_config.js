@@ -1,1 +1,1 @@
-var mnemonic = "slender clarify outside raven extend broom art embody trial either health club";
+var mnemonic = "month cushion height frozen picnic absent position aisle brand twelve sunset firm";

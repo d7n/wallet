@@ -1,1 +1,1 @@
-var mnemonic = "minute ribbon often card grit wealth oil tennis civil crush play flee";
+var mnemonic = "useful trim bench reform news boil ghost lazy grape curtain foil cliff";

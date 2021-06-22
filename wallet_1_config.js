@@ -1,1 +1,1 @@
-var mnemonic = "mind stomach dial eager pencil credit remain burger busy cricket deny range";
+var mnemonic = "crash display dwarf subject animal sauce inform rate mystery other volume genuine";

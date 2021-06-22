@@ -1,1 +1,1 @@
-var mnemonic = "boat monster yellow planet midnight tragic front luggage brother item vicious game";
+var mnemonic = "injury hazard cross delay expect hospital safe garbage swing question toss actress";

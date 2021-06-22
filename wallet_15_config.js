@@ -1,1 +1,1 @@
-var mnemonic = "fix hire jar slice pupil soon just act street warrior pass banner";
+var mnemonic = "hamster impose march undo exact easily direct ladder domain ordinary ugly large";

@@ -1,1 +1,1 @@
-var mnemonic = "home half human hero chapter wave away barely spider glimpse tattoo unusual";
+var mnemonic = "night kit pioneer door render quarter slight taxi pave lend draft fabric";

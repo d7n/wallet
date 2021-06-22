@@ -1,1 +1,1 @@
-var mnemonic = "entire mixed drink tool advice metal faculty brown rotate toddler curtain buddy";
+var mnemonic = "wise inject exist satoshi field easy tree brief wish fragile around veteran";

@@ -1,1 +1,1 @@
-var mnemonic = "rapid cook lottery tent life stem siren snack coast vibrant pave inform";
+var mnemonic = "mad observe cake input laundry snake design certain rocket open club blossom";

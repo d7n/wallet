@@ -1,1 +1,1 @@
-var mnemonic = "smoke clinic way ladder glue essence this priority arrive digital rice bounce";
+var mnemonic = "sail stage hedgehog burger today decorate enlist forum antenna abuse gospel enroll";

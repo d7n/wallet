@@ -1,1 +1,1 @@
-var mnemonic = "lottery sing tell phrase runway visit liquid liar audit keen always walk";
+var mnemonic = "innocent turn slam magic hollow damp sustain door pizza surprise beyond penalty";

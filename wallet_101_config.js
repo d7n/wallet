@@ -1,1 +1,1 @@
-var mnemonic = "move book border educate camera quit arrange will inflict three turn aunt";
+var mnemonic = "mixed adapt canoe picture stamp submit tonight pluck galaxy blossom enrich link";

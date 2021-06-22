@@ -1,1 +1,1 @@
-var mnemonic = "message oven vacuum limit tree good cloth exercise extra resemble during square";
+var mnemonic = "section tower entire correct amount vessel sight element mix trend arch lemon";

@@ -1,1 +1,1 @@
-var mnemonic = "salmon arm guess cross coast salmon special gas equip analyst update attract";
+var mnemonic = "tape goat pluck dynamic pause assault hint hen there easily struggle minute";

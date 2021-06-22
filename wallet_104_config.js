@@ -1,1 +1,1 @@
-var mnemonic = "reduce myself tip ladder deal select good expect city effort morning awake";
+var mnemonic = "system few inhale veteran argue regular coffee expand canoe high supreme invest";

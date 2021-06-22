@@ -1,1 +1,1 @@
-var mnemonic = "boost diesel upset hint enable love tattoo hidden lucky present grass educate";
+var mnemonic = "click remind art cave finger urban market edit flight frequent volcano muscle";

@@ -1,1 +1,1 @@
-var mnemonic = "question proof crash scorpion jealous target dolphin ocean prefer display flower loud";
+var mnemonic = "rubber good dial idle citizen story voyage pitch essay clog cargo human";

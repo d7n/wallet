@@ -1,1 +1,1 @@
-var mnemonic = "harbor render deny remind cement brush favorite moon blood mutual movie soccer";
+var mnemonic = "maple caught risk buzz rain ice guide wash foot comfort morning tired";

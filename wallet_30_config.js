@@ -1,1 +1,1 @@
-var mnemonic = "athlete refuse history bounce champion scan hurt rich govern emotion six winner";
+var mnemonic = "exhibit tube mirror square cry forest push mosquito praise acquire pledge horse";

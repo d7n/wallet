@@ -1,1 +1,1 @@
-var mnemonic = "involve dutch ability laundry idle swear disagree couch margin gap shallow vast";
+var mnemonic = "term manage fantasy cook useful olive nurse solve autumn month inject inmate";

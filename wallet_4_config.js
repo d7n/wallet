@@ -1,1 +1,1 @@
-var mnemonic = "winner soul dash planet damp design soul time ill crack bag gasp";
+var mnemonic = "basket exercise filter tag grunt caught parade gospel pumpkin anchor inquiry list";

@@ -1,1 +1,1 @@
-var mnemonic = "patient marine around husband match dress goddess crawl position luggage lumber medal";
+var mnemonic = "three size wing forget practice merit very bag gain fee remove segment";

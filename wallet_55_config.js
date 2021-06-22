@@ -1,1 +1,1 @@
-var mnemonic = "dress trash catch edit cover primary drive smoke bar pulp curtain settle";
+var mnemonic = "void beef step skull sting arrow chicken weekend boat deliver oak token";

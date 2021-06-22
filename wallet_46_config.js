@@ -1,1 +1,1 @@
-var mnemonic = "visa over cancel three quick like number oxygen jazz wrap crane teach";
+var mnemonic = "quality dust minimum orange length another luggage brown believe memory carbon balance";

@@ -1,1 +1,1 @@
-var mnemonic = "excite until finger movie length mandate leisure become forest debate clarify absorb";
+var mnemonic = "shuffle kid aisle safe enroll light cash brass common proof warrior quiz";

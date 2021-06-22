@@ -1,1 +1,1 @@
-var mnemonic = "base document embody run arena roof clutch immense notable crew buddy matter";
+var mnemonic = "pulp metal man improve prison speed lobster vehicle dice merit combine iron";

@@ -1,1 +1,1 @@
-var mnemonic = "smart increase trade bacon opera front gap romance tragic thought lecture entry";
+var mnemonic = "census penalty midnight violin repeat until boring filter total penalty dog over";

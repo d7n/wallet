@@ -1,1 +1,1 @@
-var mnemonic = "boost oxygen ask mirror place saddle hybrid negative nominee noise water bike";
+var mnemonic = "height horse profit dog expose romance soccer reject tiger tonight farm pigeon";

@@ -1,1 +1,1 @@
-var mnemonic = "interest trumpet rough rotate bicycle still scissors category wrestle faint around try";
+var mnemonic = "stool buzz foam rent power awake pear smile claw risk pitch lion";

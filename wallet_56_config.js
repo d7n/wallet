@@ -1,1 +1,1 @@
-var mnemonic = "admit bomb puppy ketchup canal style multiply flock joy rigid interest soldier";
+var mnemonic = "alarm nephew other welcome green pumpkin faith burden country report possible excuse";

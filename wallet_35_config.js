@@ -1,1 +1,1 @@
-var mnemonic = "visa side enlist torch circle unit nut garden walnut fiscal pair prize";
+var mnemonic = "top appear staff crucial float promote swamp another resemble genuine above sight";

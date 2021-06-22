@@ -1,1 +1,1 @@
-var mnemonic = "seat sugar distance such paper output boss usual atom skull miracle spin";
+var mnemonic = "plunge garage measure assist amazing exchange curtain random rather risk lobster doctor";

@@ -1,1 +1,1 @@
-var mnemonic = "rice lecture gesture early apology shoot acquire hero domain magic lounge lawsuit";
+var mnemonic = "fat sting ketchup priority ticket tourist wing basket logic depth lesson balance";

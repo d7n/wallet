@@ -1,1 +1,1 @@
-var mnemonic = "develop shift position cattle turtle curve license champion chicken enlist unit pizza";
+var mnemonic = "collect logic fox prison island decorate wise company scheme impact steel kitten";

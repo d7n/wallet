@@ -1,1 +1,1 @@
-var mnemonic = "conduct lesson unaware blade nuclear health rural tray dynamic okay hard bomb";
+var mnemonic = "drastic weekend attack lesson bullet churn february present steak mobile verify alien";

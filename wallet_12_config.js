@@ -1,1 +1,1 @@
-var mnemonic = "rookie scheme sleep remain exist hedgehog victory stand toe student coil face";
+var mnemonic = "tennis member reward genre sing team language bag arm trend under ice";

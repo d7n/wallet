@@ -1,1 +1,1 @@
-var mnemonic = "since lawn estate venue middle sea private plunge day exist disease spray";
+var mnemonic = "copy amateur theory glory bag naive clay noise cloud school file kind";

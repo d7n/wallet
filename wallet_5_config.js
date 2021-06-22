@@ -1,1 +1,1 @@
-var mnemonic = "wrestle tiny adapt subject embrace annual pledge oven bar mirror tomorrow exotic";
+var mnemonic = "crucial plastic disease remind cancel topic donor three account empower field silk";

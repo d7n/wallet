@@ -1,1 +1,1 @@
-var mnemonic = "series track theory tuition grass hero tent wish bone daughter frame work";
+var mnemonic = "crater mimic reason similar move soon sick addict panel cloud swap vintage";

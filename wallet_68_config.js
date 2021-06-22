@@ -1,1 +1,1 @@
-var mnemonic = "ketchup huge dream vote mind weird wise grocery decade sausage absorb sell";
+var mnemonic = "letter copy young sun season sign girl once armor venture valley artwork";

@@ -1,1 +1,1 @@
-var mnemonic = "flavor aisle dawn trend garden candy canal vibrant off predict prosper derive";
+var mnemonic = "warrior cluster charge roof farm wrestle divorce ridge speak arena reunion found";

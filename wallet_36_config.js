@@ -1,1 +1,1 @@
-var mnemonic = "bright room suit escape net celery note drip better suffer gift silly";
+var mnemonic = "opera danger spoon cradle joy hungry hammer change glory end minor edge";

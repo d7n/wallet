@@ -1,1 +1,1 @@
-var mnemonic = "rhythm among smile slim tunnel marble kind weapon guitar village proud excite";
+var mnemonic = "glass alien empty ketchup veteran vintage angry ordinary response mountain crash almost";

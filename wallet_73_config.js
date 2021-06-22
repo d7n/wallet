@@ -1,1 +1,1 @@
-var mnemonic = "rude motor exist screen praise actor buyer spice pudding good shed next";
+var mnemonic = "leader spawn series predict farm betray sadness despair bicycle someone combine solid";

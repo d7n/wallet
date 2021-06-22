@@ -1,1 +1,1 @@
-var mnemonic = "mango fragile office shallow benefit eager wish boil woman canal naive pole";
+var mnemonic = "ready hole keen post write memory tornado siege reopen swim visual february";

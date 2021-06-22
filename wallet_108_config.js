@@ -1,1 +1,1 @@
-var mnemonic = "desk office merit jeans elegant hundred cook feed suggest unusual clump advice";
+var mnemonic = "kite cradle tooth spawn lake finish rich rose way clever frame end";

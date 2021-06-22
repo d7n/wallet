@@ -1,1 +1,1 @@
-var mnemonic = "novel mystery grant minimum sick smile name shoulder combine slow cheese pair";
+var mnemonic = "brick fiscal bitter series charge inject grunt time prepare theme juice forest";

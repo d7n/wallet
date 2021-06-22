@@ -1,1 +1,1 @@
-var mnemonic = "one bulb paper dove decide bring someone palace palace zebra sock fiscal";
+var mnemonic = "butter ugly chief write castle before twelve combine refuse fall fan father";

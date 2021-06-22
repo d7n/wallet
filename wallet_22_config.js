@@ -1,1 +1,1 @@
-var mnemonic = "size avocado puzzle true punch tomorrow better collect box acid minute diary";
+var mnemonic = "glimpse gift wisdom sadness chapter video cupboard slow fancy awkward essence near";

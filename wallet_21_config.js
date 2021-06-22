@@ -1,1 +1,1 @@
-var mnemonic = "result hamster address shed provide empty thought balcony impact claw avocado toy";
+var mnemonic = "alter settle chicken stove pet vacuum nose bulb script quote clip lamp";
