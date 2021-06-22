@@ -1,1 +1,1 @@
-var mnemonic = "remind soon lake raccoon ugly force gun mind gown cause trial warrior";
+var mnemonic = "above damage soul wedding test reflect hobby cram love corn turkey flock";

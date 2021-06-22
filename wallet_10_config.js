@@ -1,1 +1,1 @@
-var mnemonic = "differ duty noise boring used acid unable season village thumb confirm subject";
+var mnemonic = "plug sadness tuition horror gas field cotton solve defense glare neutral senior";

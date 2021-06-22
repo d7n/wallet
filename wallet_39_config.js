@@ -1,1 +1,1 @@
-var mnemonic = "unusual people pepper faculty idle mail airport often hobby outdoor outside denial";
+var mnemonic = "dune mistake wet diesel liberty reason derive bring fit pride claim soap";

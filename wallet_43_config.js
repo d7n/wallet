@@ -1,1 +1,1 @@
-var mnemonic = "drill then sing scan answer must apple demand swim must enjoy evidence";
+var mnemonic = "siege around zoo tribe spare spy cliff shoulder install ancient coral protect";

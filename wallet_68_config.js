@@ -1,1 +1,1 @@
-var mnemonic = "joy any universe kiss pole cushion boost obtain much crime early labor";
+var mnemonic = "cost image wasp found document phone pen duty butter tomorrow fun urban";

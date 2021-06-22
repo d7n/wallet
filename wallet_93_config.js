@@ -1,1 +1,1 @@
-var mnemonic = "general stove poverty strong amused pig vehicle north rapid whale logic real";
+var mnemonic = "fever green drum gain claw victory water creek boy chef popular fog";

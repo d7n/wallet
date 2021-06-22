@@ -1,1 +1,1 @@
-var mnemonic = "inhale inside box miss rug obvious merit neither cave target bless embark";
+var mnemonic = "mixed mean regret level give slush wisdom salute bounce denial sure stay";

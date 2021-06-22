@@ -1,1 +1,1 @@
-var mnemonic = "exercise math topple rose life garlic arena october own antique mind fish";
+var mnemonic = "garage song extend luxury typical submit ship defy clean gasp prepare flavor";

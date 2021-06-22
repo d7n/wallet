@@ -1,1 +1,1 @@
-var mnemonic = "bread next rule remind creek unaware donate physical planet pave water banner";
+var mnemonic = "noodle seed round world wrap camera merit road layer turkey prevent orchard";

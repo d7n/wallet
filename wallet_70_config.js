@@ -1,1 +1,1 @@
-var mnemonic = "parade other argue naive stone skirt judge apology hurry predict oil bracket";
+var mnemonic = "photo hand timber dumb jar inflict squirrel debate choice spin tube identify";

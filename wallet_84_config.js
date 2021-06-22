@@ -1,1 +1,1 @@
-var mnemonic = "arm impulse link join credit wrong release pipe riot puzzle kiss neck";
+var mnemonic = "solid lounge yellow deal mention shy identify upon emotion fox hub kitten";

@@ -1,1 +1,1 @@
-var mnemonic = "mango dice mixed original hedgehog surprise swap stumble deer eyebrow else rent";
+var mnemonic = "crouch situate ill engage before nephew smooth birth switch science loan thrive";

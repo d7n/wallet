@@ -1,1 +1,1 @@
-var mnemonic = "toe memory moment security fix trust bunker possible speak once love move";
+var mnemonic = "collect loop material lawn tortoise globe popular crush under track start test";

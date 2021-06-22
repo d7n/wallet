@@ -1,1 +1,1 @@
-var mnemonic = "sugar undo any pill work stuff cabbage patient twice rude green swim";
+var mnemonic = "spike wear urban learn guess fashion choose verb trouble urge reform member";

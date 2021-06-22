@@ -1,1 +1,1 @@
-var mnemonic = "allow item shrimp farm ordinary girl venture health habit bread gospel box";
+var mnemonic = "core property team blue tuition chest major network expect narrow problem grid";

@@ -1,1 +1,1 @@
-var mnemonic = "father spread behind key certain tuna caution left device clerk raw dilemma";
+var mnemonic = "venture vacuum banana north bone water limit skirt water kite hurt salad";

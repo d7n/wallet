@@ -1,1 +1,1 @@
-var mnemonic = "cement argue bubble remove rifle wide blade cram abuse upset scheme park";
+var mnemonic = "slim fall cinnamon stock enact misery salmon hybrid patient gaze crack poet";

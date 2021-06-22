@@ -1,1 +1,1 @@
-var mnemonic = "knock melt elegant hair must black chalk swim chalk trophy height repair";
+var mnemonic = "tooth inject depend perfect park corn private raccoon never dove increase artist";

@@ -1,1 +1,1 @@
-var mnemonic = "pulse fly keep melt mixture shine daughter color abuse plunge sorry mixed";
+var mnemonic = "insect taste air cricket puppy frown prepare security jelly simple soap gap";

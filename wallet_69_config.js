@@ -1,1 +1,1 @@
-var mnemonic = "agent marine when phone truly shrimp lizard kit faith fluid eye abuse";
+var mnemonic = "now clock gaze promote floor domain program inform voyage motor version wish";

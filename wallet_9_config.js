@@ -1,1 +1,1 @@
-var mnemonic = "success pencil wagon hold sad decorate north dilemma viable fade address expect";
+var mnemonic = "force length degree copper stuff require coffee soap east switch calm purse";

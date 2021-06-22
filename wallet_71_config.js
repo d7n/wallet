@@ -1,1 +1,1 @@
-var mnemonic = "typical admit sister copper gallery birth ghost thumb analyst jeans bless shock";
+var mnemonic = "together elevator option release bulk toy vehicle uphold emotion arctic hedgehog wheat";

@@ -1,1 +1,1 @@
-var mnemonic = "sail distance olympic glory couch just staff always fortune lumber bamboo armor";
+var mnemonic = "swarm fatal enemy evolve dish obey notable razor group man aim insect";

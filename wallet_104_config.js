@@ -1,1 +1,1 @@
-var mnemonic = "trip normal thing brisk prosper category daughter desk tape public stand charge";
+var mnemonic = "green cram soccer calm crush organ develop put space staff try hybrid";

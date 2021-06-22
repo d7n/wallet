@@ -1,1 +1,1 @@
-var mnemonic = "uncover place caught inner hood myself awesome science motor height hood win";
+var mnemonic = "limit track scheme enact discover occur artist entry half lesson vintage illegal";

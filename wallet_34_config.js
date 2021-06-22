@@ -1,1 +1,1 @@
-var mnemonic = "monkey owner mad goose property mirror lab eager blood level thumb okay";
+var mnemonic = "mass under off believe bubble card radio era rubber suit two indoor";

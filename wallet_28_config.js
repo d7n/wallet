@@ -1,1 +1,1 @@
-var mnemonic = "attack arrest gorilla mad solid ceiling consider insane warrior wise average obvious";
+var mnemonic = "gorilla pistol urge faith tumble diet still thought afraid spread remove wealth";

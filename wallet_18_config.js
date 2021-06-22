@@ -1,1 +1,1 @@
-var mnemonic = "coconut cycle horror door candy control silk myth drink casual autumn genuine";
+var mnemonic = "seat sell wisdom fiber love excuse ridge engage piece gloom under agent";

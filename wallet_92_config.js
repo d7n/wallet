@@ -1,1 +1,1 @@
-var mnemonic = "trip find bulk doll naive spare leaf creek bus dynamic must approve";
+var mnemonic = "donor attack team doctor adjust blush royal anger shed bubble exchange innocent";

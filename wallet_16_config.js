@@ -1,1 +1,1 @@
-var mnemonic = "hamster lab curve board know enhance balcony essay hybrid clap stereo clever";
+var mnemonic = "slow region can census drama peanut obey powder that exercise equip vendor";

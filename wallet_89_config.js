@@ -1,1 +1,1 @@
-var mnemonic = "ill hair return nurse sell border lonely popular social pool top around";
+var mnemonic = "spatial team weird magnet leader smoke rotate answer physical priority message island";

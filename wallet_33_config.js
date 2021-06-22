@@ -1,1 +1,1 @@
-var mnemonic = "plate copper stock caution news turn stick crunch air unable camera monkey";
+var mnemonic = "glimpse short mask female lawn riot banner glad strike employ around damage";

@@ -1,1 +1,1 @@
-var mnemonic = "vast mango heart dial advance just stove damage demand recall mushroom local";
+var mnemonic = "seat asset faint bean venture blossom average ripple person flight letter until";

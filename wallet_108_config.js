@@ -1,1 +1,1 @@
-var mnemonic = "between grunt carbon tree clutch spring aerobic hungry car youth drum lumber";
+var mnemonic = "short security release dog casual subway bargain holiday wrong forget false upgrade";

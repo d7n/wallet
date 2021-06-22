@@ -1,1 +1,1 @@
-var mnemonic = "close improve habit forward proof wreck energy joke shift latin spare since";
+var mnemonic = "settle lawsuit doctor become song attend retreat lake chalk silly tape swamp";

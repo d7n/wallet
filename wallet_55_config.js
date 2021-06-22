@@ -1,1 +1,1 @@
-var mnemonic = "pet notable portion dinner demand inflict avoid stuff release myth case void";
+var mnemonic = "execute age person humor fall object wreck hundred roast rose busy feel";

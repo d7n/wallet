@@ -1,1 +1,1 @@
-var mnemonic = "giraffe govern banana dog dynamic invest stage avocado teach bread treat water";
+var mnemonic = "disorder camera space shift soda beach fan rookie cake shallow decline seminar";

@@ -1,1 +1,1 @@
-var mnemonic = "axis shaft tiny spider slim useful reunion online produce orphan smart label";
+var mnemonic = "cup six praise estate lazy culture original lonely school nation amazing civil";

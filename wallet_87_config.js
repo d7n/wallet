@@ -1,1 +1,1 @@
-var mnemonic = "wagon bar flash fat lift similar remain slice bread speed flower cave";
+var mnemonic = "urge abuse web empty search clown reveal absurd host wild next kitchen";

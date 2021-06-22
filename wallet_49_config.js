@@ -1,1 +1,1 @@
-var mnemonic = "shoe style gain chicken raven mail pave shaft lonely guard smart quick";
+var mnemonic = "push fuel pass borrow forest nothing father street naive balance vintage genuine";

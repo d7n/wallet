@@ -1,1 +1,1 @@
-var mnemonic = "fabric drama penalty snap lake card knee cluster age party process exercise";
+var mnemonic = "harsh clutch device elephant income cool alley scheme this point merge basic";

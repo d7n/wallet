@@ -1,1 +1,1 @@
-var mnemonic = "milk frequent weather reject donkey early frost bicycle tragic boy juice ghost";
+var mnemonic = "sure adjust guitar kitten brick enforce lottery glove leopard fan sauce again";

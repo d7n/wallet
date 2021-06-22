@@ -1,1 +1,1 @@
-var mnemonic = "era dwarf pluck mixture sniff picnic grape fatal craft unveil lonely clean";
+var mnemonic = "boss nurse dial cube spend soccer coil depart erase off sick normal";

@@ -1,1 +1,1 @@
-var mnemonic = "enjoy jacket illness demise milk envelope pretty quit option whisper ten congress";
+var mnemonic = "champion rent high slab begin sock medal this relief apple effort fabric";

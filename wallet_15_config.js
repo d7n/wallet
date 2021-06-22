@@ -1,1 +1,1 @@
-var mnemonic = "join pool design neither weekend frog cram lock virtual rain spoil smile";
+var mnemonic = "label enemy wash feed leave strong surface diagram define satisfy mixture opera";

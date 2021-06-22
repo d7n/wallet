@@ -1,1 +1,1 @@
-var mnemonic = "gift enforce scrub soldier window exist good buffalo goose draft alter load";
+var mnemonic = "kiss fall discover print end maximum modify scrub ugly clip dad drop";

@@ -1,1 +1,1 @@
-var mnemonic = "giggle heavy bounce cream antenna poverty exile text excuse cost blouse lion";
+var mnemonic = "replace drop used forget farm family guitar client have name spawn gossip";

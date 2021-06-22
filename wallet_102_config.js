@@ -1,1 +1,1 @@
-var mnemonic = "meat elite pill song indicate work riot will jacket fat icon inject";
+var mnemonic = "rule weasel roof ride bench blade tuition timber bomb sell essence chief";

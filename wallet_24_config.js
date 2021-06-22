@@ -1,1 +1,1 @@
-var mnemonic = "until physical surge bubble solution home puzzle panel maximum speed gravity kitten";
+var mnemonic = "imitate argue find long good inner language category response warfare cool giggle";

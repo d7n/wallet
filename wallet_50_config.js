@@ -1,1 +1,1 @@
-var mnemonic = "motor camp space elite palace snow fury inflict anxiety fortune snack zebra";
+var mnemonic = "desk maze myth lucky upset demand sun fancy inhale regular joke picture";

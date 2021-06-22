@@ -1,1 +1,1 @@
-var mnemonic = "chief fringe margin uncover cotton faculty year tuition erupt blame slender buffalo";
+var mnemonic = "humble play mutual relax link high crouch cement dignity pave mixture table";

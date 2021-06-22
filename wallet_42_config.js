@@ -1,1 +1,1 @@
-var mnemonic = "eternal submit caught barrel that sea boil inquiry charge vote ordinary monkey";
+var mnemonic = "ill yard weird clown control achieve fog crime speak vital autumn fatal";

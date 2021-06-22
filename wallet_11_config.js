@@ -1,1 +1,1 @@
-var mnemonic = "payment impulse stock reason ride kiwi latin forget very prevent follow drastic";
+var mnemonic = "lizard pumpkin bench violin fitness patrol prosper void isolate spring tired admit";

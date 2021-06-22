@@ -1,1 +1,1 @@
-var mnemonic = "convince bike sibling ladder uphold okay clock cloud father gadget shaft disorder";
+var mnemonic = "repair crystal umbrella duty future rhythm element become ribbon remind gun egg";

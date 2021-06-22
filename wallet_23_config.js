@@ -1,1 +1,1 @@
-var mnemonic = "earth film proof awful uniform leopard noodle pledge mixture dry size desert";
+var mnemonic = "person puppy tide blur trigger garment panther horn door husband home moral";

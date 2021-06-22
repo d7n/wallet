@@ -1,1 +1,1 @@
-var mnemonic = "diagram come axis teach water flee curve scare wave humble feature suit";
+var mnemonic = "blame unknown behind room card answer enact toast cabin critic token aerobic";

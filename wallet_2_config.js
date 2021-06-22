@@ -1,1 +1,1 @@
-var mnemonic = "certain finger wrestle oven cluster clerk doll bamboo express atom entry bottom";
+var mnemonic = "scan distance spawn shove call nominee inhale adapt cheap fiction tomorrow chef";

@@ -1,1 +1,1 @@
-var mnemonic = "year erupt napkin sleep task march neck bullet chronic walnut insane maid";
+var mnemonic = "spoil destroy victory lottery slab describe language quote tip quantum supply slab";

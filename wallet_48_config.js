@@ -1,1 +1,1 @@
-var mnemonic = "edit dilemma borrow shift vendor code festival robot cube key bind guard";
+var mnemonic = "spare lens marble future loyal blush viable result refuse achieve cereal wheat";

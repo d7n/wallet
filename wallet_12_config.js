@@ -1,1 +1,1 @@
-var mnemonic = "old foam giraffe mouse beauty surge promote employ assume when wisdom dinner";
+var mnemonic = "crack travel north basket milk kite scare admit icon coast side blame";

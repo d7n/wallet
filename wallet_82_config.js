@@ -1,1 +1,1 @@
-var mnemonic = "gate struggle garage lava word first era panic music demise unit small";
+var mnemonic = "noise green already pistol motion lamp stove emerge hurdle bamboo acquire welcome";

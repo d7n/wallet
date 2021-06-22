@@ -1,1 +1,1 @@
-var mnemonic = "apart joy hunt wonder soda eye prefer planet become below buffalo stove";
+var mnemonic = "humor coast oval render rug fork stick tornado minute such language orchard";

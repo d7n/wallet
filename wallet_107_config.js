@@ -1,1 +1,1 @@
-var mnemonic = "holiday claim bread hope inside excess remain this music cotton camera project";
+var mnemonic = "staff wish find minimum smile salad shop filter focus empty soccer negative";

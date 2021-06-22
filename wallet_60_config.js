@@ -1,1 +1,1 @@
-var mnemonic = "wink hazard educate average harsh float physical cotton stomach addict foot chat";
+var mnemonic = "shop cheese cherry face payment render wonder lady emerge survey dog spin";

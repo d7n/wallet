@@ -1,1 +1,1 @@
-var mnemonic = "luxury tortoise rubber ocean cute little spot certain burst credit indoor peace";
+var mnemonic = "error eager attend volume shoulder later fly mosquito amazing play police yard";

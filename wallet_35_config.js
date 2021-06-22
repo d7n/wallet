@@ -1,1 +1,1 @@
-var mnemonic = "hill mistake grocery hair divorce above pink knock cram mother hedgehog life";
+var mnemonic = "eye ramp glimpse inhale mean aunt sand boil renew version ozone depart";

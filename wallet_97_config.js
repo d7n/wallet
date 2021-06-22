@@ -1,1 +1,1 @@
-var mnemonic = "place bring balance prepare raven hawk possible harbor ritual hedgehog tackle gas";
+var mnemonic = "brush size warfare accident sauce index faculty lake swallow crop surprise seven";

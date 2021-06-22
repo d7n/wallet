@@ -1,1 +1,1 @@
-var mnemonic = "resist visit peace before sense quarter room shock cash jaguar win wealth";
+var mnemonic = "swim welcome wolf print repair prepare become voyage script wine flush ghost";

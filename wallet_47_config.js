@@ -1,1 +1,1 @@
-var mnemonic = "possible naive general inherit burger strong cotton rare used crowd outside correct";
+var mnemonic = "labor can mail soldier special doctor team fiscal chalk dilemma clump quarter";

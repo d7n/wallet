@@ -1,1 +1,1 @@
-var mnemonic = "name joy super jewel term remind limb glide destroy elevator sleep wet";
+var mnemonic = "cause orbit creek alcohol deny exercise company pretty pass bone slush remind";

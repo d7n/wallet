@@ -1,1 +1,1 @@
-var mnemonic = "garage frozen real link office slight owner luggage quantum update hand quote";
+var mnemonic = "entry invite prevent indoor palace crew release carry parade better split front";

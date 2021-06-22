@@ -1,1 +1,1 @@
-var mnemonic = "brief cream pool cry galaxy innocent crew dog drift crater work ghost";
+var mnemonic = "diagram expire detail return woman brass exhibit grab brass diamond make purity";

@@ -1,1 +1,1 @@
-var mnemonic = "absurd salon verb filter portion twist found aunt gadget deposit oval entry";
+var mnemonic = "month divert soap invest axis calm rookie build grain pony perfect custom";

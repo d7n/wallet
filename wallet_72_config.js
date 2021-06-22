@@ -1,1 +1,1 @@
-var mnemonic = "loyal exotic soldier mother nothing jelly danger pluck expect behind tail side";
+var mnemonic = "write awake wash person spirit attend lesson bunker floor pull about coil";

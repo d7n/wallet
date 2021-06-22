@@ -1,1 +1,1 @@
-var mnemonic = "arctic mass near pact giraffe simple cinnamon double mystery will project modify";
+var mnemonic = "below goose allow range divide inch oval fame bind media work element";

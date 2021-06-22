@@ -1,1 +1,1 @@
-var mnemonic = "veteran cloth naive code learn tank inform example life path program approve";
+var mnemonic = "about bubble achieve affair sunset sniff rebuild olive bitter cinnamon lottery suspect";

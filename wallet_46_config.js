@@ -1,1 +1,1 @@
-var mnemonic = "decrease receive museum example lunar park pizza vivid vast best vote wish";
+var mnemonic = "almost reason laundry range know one host current repeat actual various law";

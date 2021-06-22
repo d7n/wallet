@@ -1,1 +1,1 @@
-var mnemonic = "over market couple vivid ramp inch month catalog scene enforce burger moral";
+var mnemonic = "alert wise kid display gather sail demise increase shine response orient violin";

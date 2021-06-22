@@ -1,1 +1,1 @@
-var mnemonic = "winter trim suffer loud fiber derive slab wealth obey cable afraid lemon";
+var mnemonic = "rebuild debate wrestle zebra erosion good snow leg cheap lens claw use";

@@ -1,1 +1,1 @@
-var mnemonic = "whisper fun shadow view clean topic basic snack sphere method weird tobacco";
+var mnemonic = "very orphan labor omit setup buzz relief rare news half decrease unveil";

@@ -1,1 +1,1 @@
-var mnemonic = "drastic arrow heart like mercy wave stay best lyrics symptom quit play";
+var mnemonic = "street moon language imitate elbow system sick grocery search era tunnel whisper";

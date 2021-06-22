@@ -1,1 +1,1 @@
-var mnemonic = "draft link rhythm doll bus similar initial trap cry gun coach tonight";
+var mnemonic = "soccer turkey call try laundry surge bacon clump now fiber buddy gather";

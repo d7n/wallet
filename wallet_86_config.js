@@ -1,1 +1,1 @@
-var mnemonic = "net mesh winter pipe travel lecture rare duty page morning area snake";
+var mnemonic = "wrong boil angry opinion mixed accident famous employ smile tail kind trial";

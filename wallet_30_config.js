@@ -1,1 +1,1 @@
-var mnemonic = "friend tilt write demand impact sting oval ensure cost fold truck what";
+var mnemonic = "wealth hurry enroll wrist chaos grief grant edit scan ocean million life";

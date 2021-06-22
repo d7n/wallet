@@ -1,1 +1,1 @@
-var mnemonic = "sleep vital guard boil swim prosper abuse source winner degree remind harbor";
+var mnemonic = "height auction luxury file zebra hobby screen indicate merge summer health dolphin";

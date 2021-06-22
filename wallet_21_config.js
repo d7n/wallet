@@ -1,1 +1,1 @@
-var mnemonic = "volcano prepare gallery crop dose multiply upper rigid arrest play magic shallow";
+var mnemonic = "panic pledge suit west mirror siege mass miracle hungry resist frost unveil";

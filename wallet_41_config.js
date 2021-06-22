@@ -1,1 +1,1 @@
-var mnemonic = "client minor position window spend enable joy thing utility where offer holiday";
+var mnemonic = "weird conduct neglect insect pigeon envelope bamboo warrior empty village sport pencil";
