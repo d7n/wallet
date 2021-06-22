@@ -1,1 +1,1 @@
-var mnemonic = "security mimic during margin hip remove visit undo traffic equal embody traffic";
+var mnemonic = "okay pitch bracket route one false invite slogan hope table essence measure";

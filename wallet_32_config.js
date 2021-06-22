@@ -1,1 +1,1 @@
-var mnemonic = "laptop melody hurry unknown offer riot lend net priority cluster mansion peace";
+var mnemonic = "curve catalog pattern salt wear toddler roast absurd offer width actual budget";

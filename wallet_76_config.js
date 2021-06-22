@@ -1,1 +1,1 @@
-var mnemonic = "innocent hood mixture bulk layer frost short rather absorb home two lamp";
+var mnemonic = "arrive forest punch stamp sunset right pelican trial royal seek senior galaxy";

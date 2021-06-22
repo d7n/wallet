@@ -1,1 +1,1 @@
-var mnemonic = "vague foot shrimp citizen merry mouse huge monster visit apart book dash";
+var mnemonic = "spray diagram abstract trophy deliver allow feel cargo concert cancel hybrid ugly";

@@ -1,1 +1,1 @@
-var mnemonic = "pulse describe left hood pilot theory virus invite festival remember oval spoil";
+var mnemonic = "cover actual comic dish shoot crisp chicken drama merge season firm bus";

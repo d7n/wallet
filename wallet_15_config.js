@@ -1,1 +1,1 @@
-var mnemonic = "student oxygen fancy meadow humble verify century zero provide engage example raw";
+var mnemonic = "hope produce cherry picture glare cliff direct fox vote sibling hip turkey";

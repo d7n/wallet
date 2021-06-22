@@ -1,1 +1,1 @@
-var mnemonic = "harbor grab penalty space duty prison nest ankle metal side injury stuff";
+var mnemonic = "bottom humble female slab razor flee photo grit employ prefer actual drift";

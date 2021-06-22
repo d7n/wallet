@@ -1,1 +1,1 @@
-var mnemonic = "purpose economy hen split citizen emerge domain math guilt mix science junior";
+var mnemonic = "yellow robot output question mobile ski title sword powder crucial sand girl";

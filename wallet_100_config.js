@@ -1,1 +1,1 @@
-var mnemonic = "vicious option deliver perfect journey script awful release core choose squirrel sure";
+var mnemonic = "prevent cup glad grab quantum warrior agent imitate decide social diary sword";

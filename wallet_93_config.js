@@ -1,1 +1,1 @@
-var mnemonic = "cream dolphin gesture accuse ramp carbon holiday rain give author canvas dream";
+var mnemonic = "jelly possible layer vocal boss tortoise safe fault sea team hub please";

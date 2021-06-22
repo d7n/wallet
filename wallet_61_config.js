@@ -1,1 +1,1 @@
-var mnemonic = "moral innocent pottery bridge fee hill ridge arena hole loyal moment law";
+var mnemonic = "exact bulk friend crime three jealous point poverty wear album agent idle";

@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow resist speak december truly park camera eye engage market easily danger";
+var mnemonic = "cement bone move almost tuna enjoy cattle away attract upon require fog";

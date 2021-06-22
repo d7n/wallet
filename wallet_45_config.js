@@ -1,1 +1,1 @@
-var mnemonic = "atom crash spawn spawn inner major clip pluck music token boat donkey";
+var mnemonic = "uncover village pledge average actress juice dog trend choose clump gift mechanic";

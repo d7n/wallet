@@ -1,1 +1,1 @@
-var mnemonic = "diary stuff plate elite input hole labor erupt theme crunch outside lawsuit";
+var mnemonic = "scatter tumble price scrub idea chimney debate armor bag another stadium hobby";

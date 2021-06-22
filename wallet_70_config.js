@@ -1,1 +1,1 @@
-var mnemonic = "extra minor session unknown ritual valve social trial tennis typical spend boat";
+var mnemonic = "arch card upper exist donor mammal limb ill furnace rookie oyster process";

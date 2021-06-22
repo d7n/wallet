@@ -1,1 +1,1 @@
-var mnemonic = "music second pilot stamp alcohol borrow unfold kingdom aisle green track eagle";
+var mnemonic = "fever decrease type burden paddle remove happy stock affair electric minor tail";

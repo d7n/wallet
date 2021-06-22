@@ -1,1 +1,1 @@
-var mnemonic = "antique minimum one fury because debate rain purse open hill upgrade drop";
+var mnemonic = "believe tortoise play onion vapor auction assist joy speak impact choose whale";

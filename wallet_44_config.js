@@ -1,1 +1,1 @@
-var mnemonic = "purchase voyage capable whisper assault dolphin amazing hunt sport mobile lizard attitude";
+var mnemonic = "garage tongue broken panel buffalo yellow economy faint captain shop lounge put";

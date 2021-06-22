@@ -1,1 +1,1 @@
-var mnemonic = "later uncover inform person limb fragile culture novel learn canvas broom offer";
+var mnemonic = "picture vocal evoke crash suggest rose infant describe meat stuff repair play";

@@ -1,1 +1,1 @@
-var mnemonic = "cause alarm skirt coral cost vote unfair develop track gym vacant fringe";
+var mnemonic = "arrest fringe glory entire close there rescue speak jelly earth brother east";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk keen rib cricket sustain wasp exhaust around flame text retire nuclear";
+var mnemonic = "lock large lawsuit adult mirror album stem battle bunker egg casino leave";

@@ -1,1 +1,1 @@
-var mnemonic = "salad erode cash learn shield under toy web layer manual stay favorite";
+var mnemonic = "fog pride fox example hip puzzle fitness bleak fork torch student mosquito";

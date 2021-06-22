@@ -1,1 +1,1 @@
-var mnemonic = "next turkey alert detail multiply source lunch celery crystal wedding exchange conduct";
+var mnemonic = "gorilla depart cloud recall scrap pear popular butter fit crop narrow pretty";

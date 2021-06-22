@@ -1,1 +1,1 @@
-var mnemonic = "damp casino ranch supreme history tray weird soccer demand benefit arrive card";
+var mnemonic = "select walnut wall rebuild detect panic spirit session asthma another suffer give";

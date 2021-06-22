@@ -1,1 +1,1 @@
-var mnemonic = "satoshi spike swallow quality imitate hour fiber apology system damp carry novel";
+var mnemonic = "caught man rotate category grocery arena sea green payment owner sibling master";

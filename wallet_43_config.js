@@ -1,1 +1,1 @@
-var mnemonic = "bacon empower second master van reflect edge copper rural donate choice bullet";
+var mnemonic = "job bamboo walk hip need enable inner ignore rule turtle reason asset";

@@ -1,1 +1,1 @@
-var mnemonic = "scheme news person clap catalog cross wolf merry glance eager grape pill";
+var mnemonic = "whip uniform time dinner street lizard quit soup summer cherry ability bacon";

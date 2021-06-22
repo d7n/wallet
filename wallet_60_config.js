@@ -1,1 +1,1 @@
-var mnemonic = "quote unaware vocal reveal clay patrol stumble solve eight virtual spray fat";
+var mnemonic = "quiz extend poem effort first mouse kid soldier foot melody actual quantum";

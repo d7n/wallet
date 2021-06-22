@@ -1,1 +1,1 @@
-var mnemonic = "step boil artist real stadium parent exotic dust elegant effort camp bronze";
+var mnemonic = "scale daughter monkey rebuild online naive cactus music room enrich pull arctic";

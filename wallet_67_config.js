@@ -1,1 +1,1 @@
-var mnemonic = "face village flush dragon chapter indoor already place odor chat dash near";
+var mnemonic = "hello retire remind company bread hundred credit erosion trip universe draft scene";

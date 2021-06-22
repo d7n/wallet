@@ -1,1 +1,1 @@
-var mnemonic = "pool prize drip false saddle shy win proof rose dune filter primary";
+var mnemonic = "sleep today stuff inch friend pitch stamp holiday depend million helmet knife";

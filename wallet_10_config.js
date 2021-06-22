@@ -1,1 +1,1 @@
-var mnemonic = "enforce wheel concert athlete custom chimney fluid screen opinion defense bulk project";
+var mnemonic = "apple foster valve cook young silly moral lion mistake vicious drum minute";

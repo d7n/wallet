@@ -1,1 +1,1 @@
-var mnemonic = "slogan sudden about depth vicious warm fade hurry apart tumble excite virtual";
+var mnemonic = "tilt install distance cause slice pink vocal until moon prefer spy cabin";

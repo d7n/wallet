@@ -1,1 +1,1 @@
-var mnemonic = "parrot film sword soon hollow cause scene neck nest famous alone furnace";
+var mnemonic = "donor nominee mouse bag canyon risk fit miracle sheriff dream ten island";

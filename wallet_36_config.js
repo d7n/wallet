@@ -1,1 +1,1 @@
-var mnemonic = "nerve sleep this shed void away find nerve defy buddy mushroom lizard";
+var mnemonic = "alley small exit jelly click hole diet bundle reform clock keep viable";

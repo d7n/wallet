@@ -1,1 +1,1 @@
-var mnemonic = "laugh question copy dose vacuum mystery daughter blouse match welcome club hard";
+var mnemonic = "believe upset deliver tell length weapon nice minute pudding clinic panda echo";

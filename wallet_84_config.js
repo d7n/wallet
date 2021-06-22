@@ -1,1 +1,1 @@
-var mnemonic = "typical caution ring pupil rotate result mansion cycle top toast ignore vast";
+var mnemonic = "code gallery guide spin hurt improve bone civil surprise deposit rapid thumb";

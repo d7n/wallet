@@ -1,1 +1,1 @@
-var mnemonic = "lamp drip mass matrix key glance climb federal aware subject board private";
+var mnemonic = "advice future meadow yard now strong disagree broom capital visual scatter area";

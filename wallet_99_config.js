@@ -1,1 +1,1 @@
-var mnemonic = "diet sadness position sheriff express imitate govern husband chalk busy cereal desert";
+var mnemonic = "cruel galaxy mango tilt pistol select spin female lazy suspect consider sick";

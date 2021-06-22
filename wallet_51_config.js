@@ -1,1 +1,1 @@
-var mnemonic = "license talk parrot addict climb weird agree shield one crush board hybrid";
+var mnemonic = "blast shadow topic hub often gain bike chef endorse february easy only";

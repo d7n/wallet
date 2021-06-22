@@ -1,1 +1,1 @@
-var mnemonic = "blind glad column yard rib bottom brown crazy camp cigar deliver buzz";
+var mnemonic = "rebuild suffer amount beef fiscal jungle drill gorilla once pudding rent empty";

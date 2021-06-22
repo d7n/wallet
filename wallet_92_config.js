@@ -1,1 +1,1 @@
-var mnemonic = "exist two appear spatial pistol exchange shrimp hard cash film forest squeeze";
+var mnemonic = "language fever train want rigid primary air name jeans turtle brush regular";

@@ -1,1 +1,1 @@
-var mnemonic = "country school emerge fit uncover nuclear vapor dance invest pond field dial";
+var mnemonic = "popular weekend sugar hover speed link faint scout lend erosion face prevent";

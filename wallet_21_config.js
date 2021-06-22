@@ -1,1 +1,1 @@
-var mnemonic = "example casino royal strong amount grain say night echo helmet glimpse mistake";
+var mnemonic = "require aisle magnet news risk raccoon luxury lecture cliff lawn seat oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "express begin setup card annual avoid plunge between hidden thumb wonder holiday";
+var mnemonic = "bulk accident stool flower banana hockey rotate huge color fold bind grow";

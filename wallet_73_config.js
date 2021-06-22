@@ -1,1 +1,1 @@
-var mnemonic = "neck any know census buddy concert space sniff early model conduct dad";
+var mnemonic = "lake clap combine grunt august trophy copy tail tilt ice sphere sleep";

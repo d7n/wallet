@@ -1,1 +1,1 @@
-var mnemonic = "fix loop original space elite length history moral sand attend enhance dress";
+var mnemonic = "hood insane barely noble asset brave cruise blur noble display private awkward";

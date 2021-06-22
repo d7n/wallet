@@ -1,1 +1,1 @@
-var mnemonic = "spoon suffer stand exclude artist much sustain emerge like kidney mad stem";
+var mnemonic = "target seek knife lion tank brown valve frown paddle minor deer dwarf";

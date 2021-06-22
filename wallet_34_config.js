@@ -1,1 +1,1 @@
-var mnemonic = "grit food hunt grant lamp divide inherit useful cloud crush daughter fringe";
+var mnemonic = "confirm list track peace wedding subject gadget dice present test patient awake";

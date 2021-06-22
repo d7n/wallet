@@ -1,1 +1,1 @@
-var mnemonic = "end try wish flash winter describe unhappy jealous guide object emerge possible";
+var mnemonic = "cotton arrow bomb gown wisdom stock expire stool provide illegal fresh tube";

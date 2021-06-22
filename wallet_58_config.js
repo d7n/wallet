@@ -1,1 +1,1 @@
-var mnemonic = "skate post flash rail cabin hip volume release nasty sudden profit sustain";
+var mnemonic = "write sunny stamp invest toilet bind spread swim lazy balcony enroll dog";

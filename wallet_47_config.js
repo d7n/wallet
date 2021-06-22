@@ -1,1 +1,1 @@
-var mnemonic = "regret torch hover brick actor fall admit theory path curtain hawk price";
+var mnemonic = "misery protect school able wash fury rookie subway display ripple soldier twice";

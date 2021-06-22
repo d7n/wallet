@@ -1,1 +1,1 @@
-var mnemonic = "buffalo bid moral brief patch hockey sadness foot output produce letter duty";
+var mnemonic = "cook loan weird blood race harbor office among stomach joke effort believe";

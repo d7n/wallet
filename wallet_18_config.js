@@ -1,1 +1,1 @@
-var mnemonic = "blush style obvious silly oyster garlic talk slide buyer rebuild step weather";
+var mnemonic = "friend shine antique assume benefit floor spell ostrich sphere leader doll sail";

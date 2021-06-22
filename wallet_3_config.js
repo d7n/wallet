@@ -1,1 +1,1 @@
-var mnemonic = "napkin shallow bounce grace copper demise dizzy oil diary check youth install";
+var mnemonic = "pipe please labor dumb panther impact make loop paper menu omit chair";

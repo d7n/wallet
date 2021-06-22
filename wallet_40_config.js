@@ -1,1 +1,1 @@
-var mnemonic = "amount inject letter rotate rifle unable east faith pull burst soda distance";
+var mnemonic = "hub section sick mad grace during stock visa brick emotion kingdom chunk";

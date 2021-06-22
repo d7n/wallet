@@ -1,1 +1,1 @@
-var mnemonic = "spare oppose cousin thunder rack awesome business merry struggle top cradle autumn";
+var mnemonic = "thought age unlock nose announce fiscal toss maximum surge brown able wealth";

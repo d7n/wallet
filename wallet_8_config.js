@@ -1,1 +1,1 @@
-var mnemonic = "this purpose amused shock feed fame tattoo task draw soccer payment lunch";
+var mnemonic = "wish annual toe flag twice axis exist link meat arctic also fuel";

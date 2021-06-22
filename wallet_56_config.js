@@ -1,1 +1,1 @@
-var mnemonic = "orphan slender humble north cage draft toe ice swift tip void luxury";
+var mnemonic = "multiply fashion exact convince arrive fun conduct balcony empower cry argue behind";

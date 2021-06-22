@@ -1,1 +1,1 @@
-var mnemonic = "carpet youth gorilla news guard slogan shadow sketch that shell evolve staff";
+var mnemonic = "nuclear electric subject negative upper grace myself display emotion cause tone special";

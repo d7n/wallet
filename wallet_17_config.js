@@ -1,1 +1,1 @@
-var mnemonic = "museum hen latin donor citizen word please nation magnet car lazy mask";
+var mnemonic = "that chuckle receive essence canyon chaos cloud major clinic stool cannon carry";

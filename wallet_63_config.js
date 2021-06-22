@@ -1,1 +1,1 @@
-var mnemonic = "copper fit bachelor enroll very lyrics spare attack oval slim beyond exotic";
+var mnemonic = "cannon prevent pony portion pass drink cushion wish blast upon once nice";

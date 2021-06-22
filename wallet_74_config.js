@@ -1,1 +1,1 @@
-var mnemonic = "danger embody leaf volcano test physical invest pattern lend stable water harvest";
+var mnemonic = "furnace paper pledge vote spice bless youth shed comic future rib point";

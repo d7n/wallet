@@ -1,1 +1,1 @@
-var mnemonic = "fluid come scan caution gold jealous chunk issue warrior spot clock rely";
+var mnemonic = "tone must talent anchor adjust blanket domain praise fee coyote slam twin";

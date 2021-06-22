@@ -1,1 +1,1 @@
-var mnemonic = "estate nation movie often crucial empty ridge doll song rack mandate earth";
+var mnemonic = "impulse pause chimney bracket element lamp account curve shell scare dirt desk";

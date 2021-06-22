@@ -1,1 +1,1 @@
-var mnemonic = "host rich chaos wrap despair mention egg raw strategy fee craft curtain";
+var mnemonic = "audit matter snake cool soup isolate ice jazz broom hotel fresh twice";

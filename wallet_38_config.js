@@ -1,1 +1,1 @@
-var mnemonic = "blanket february mad gadget behind current convince gentle feature people net vibrant";
+var mnemonic = "tonight tuna such honey dumb put choose maid trash they depth urban";

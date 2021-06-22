@@ -1,1 +1,1 @@
-var mnemonic = "dust labor open moon only green latin hand history credit option chicken";
+var mnemonic = "horse number smoke say alien chicken mango donate chronic coach idea celery";

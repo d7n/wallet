@@ -1,1 +1,1 @@
-var mnemonic = "explain digital ride attitude room off dawn ghost erosion power invest brave";
+var mnemonic = "vital video infant expand trash rifle armor model chef kiwi cradle aspect";

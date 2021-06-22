@@ -1,1 +1,1 @@
-var mnemonic = "hover cactus stairs height lounge cake limit dumb april mystery game defense";
+var mnemonic = "distance tide dog vacuum mesh size they dice cattle enjoy reason decline";

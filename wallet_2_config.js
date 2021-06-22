@@ -1,1 +1,1 @@
-var mnemonic = "either question search roast short current cake blur describe school donor affair";
+var mnemonic = "rebuild drip review title slow slow slush among shy pulp resist taxi";

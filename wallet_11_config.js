@@ -1,1 +1,1 @@
-var mnemonic = "must abstract silk chef remind lens trust hat alley knife grow suit";
+var mnemonic = "stomach negative ceiling spend erupt exchange script mask drama box tattoo carpet";

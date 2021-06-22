@@ -1,1 +1,1 @@
-var mnemonic = "buyer window brick add grid chef crane nasty verify addict rare awesome";
+var mnemonic = "earn enforce van harsh debate horse fence total ski pioneer exotic nephew";

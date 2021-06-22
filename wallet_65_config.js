@@ -1,1 +1,1 @@
-var mnemonic = "lizard swing exit yellow thunder warm hero horse box poverty sand derive";
+var mnemonic = "dad surround milk oyster praise alpha save tube timber cradle trial twice";

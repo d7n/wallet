@@ -1,1 +1,1 @@
-var mnemonic = "poet decide away bird piano sister apart bind ski grow arrive burst";
+var mnemonic = "produce success mansion city alien share this vendor stumble romance decorate imitate";

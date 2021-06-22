@@ -1,1 +1,1 @@
-var mnemonic = "lawn derive mom turkey gentle kite genre clinic fade keep zone sell";
+var mnemonic = "pig seed test zebra two surround dove viable happy media core decrease";

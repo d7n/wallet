@@ -1,1 +1,1 @@
-var mnemonic = "escape dignity hover step scale dress move fly pass wisdom predict rabbit";
+var mnemonic = "circle dirt cereal setup extra work trap victory plug panic dutch income";

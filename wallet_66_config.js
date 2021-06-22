@@ -1,1 +1,1 @@
-var mnemonic = "story deposit phrase error ball axis kick actor lava sudden glow satisfy";
+var mnemonic = "blue scan type bar analyst disorder sight slab zone little dial scatter";

@@ -1,1 +1,1 @@
-var mnemonic = "link between jelly gun leg simple payment opera tenant meadow rug will";
+var mnemonic = "exile comic enter rule glad unhappy expose lemon now tower expect scorpion";

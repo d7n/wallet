@@ -1,1 +1,1 @@
-var mnemonic = "dirt video opinion client zebra phone crouch slab gossip icon donor crunch";
+var mnemonic = "catalog ostrich south chuckle ring identify believe sense day cradle country ability";

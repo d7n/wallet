@@ -1,1 +1,1 @@
-var mnemonic = "safe hub doll juice area fold craft want gadget toast fat together";
+var mnemonic = "claw limit smile expand cliff into crater quick blouse lobster what kick";

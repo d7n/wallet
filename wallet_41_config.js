@@ -1,1 +1,1 @@
-var mnemonic = "throw winner fox cannon candy inherit pioneer spend forget awesome ask have";
+var mnemonic = "victory retreat sister near loud surprise tank awkward dry resource system cry";

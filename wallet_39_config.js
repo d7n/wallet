@@ -1,1 +1,1 @@
-var mnemonic = "hen try present diagram cute tongue walk language stand cash safe push";
+var mnemonic = "subway unable manual biology box season gloom author pluck illegal bomb ladder";

@@ -1,1 +1,1 @@
-var mnemonic = "middle present raise cheap destroy inspire patch earn head column impulse spring";
+var mnemonic = "hurry wide sadness copy post maximum parade resist female lend crop repair";

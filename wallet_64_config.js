@@ -1,1 +1,1 @@
-var mnemonic = "embrace cube lion hood race foot armor area about decrease recall jump";
+var mnemonic = "earn marriage praise arrange actual island bounce discover dawn nominee awkward album";

@@ -1,1 +1,1 @@
-var mnemonic = "lady endorse vicious rough harsh medal uncle palm moment lake upper hood";
+var mnemonic = "spawn dune various myth eagle test patch grid comfort this slot hair";

@@ -1,1 +1,1 @@
-var mnemonic = "mammal gold below can arena slab magnet weasel scorpion milk fish verb";
+var mnemonic = "lottery chief manual plastic spice strong whip reduce town season agent marble";

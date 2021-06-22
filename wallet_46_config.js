@@ -1,1 +1,1 @@
-var mnemonic = "hen bag rookie over urban obvious gas lens miracle artefact comic express";
+var mnemonic = "entry speak safe bulk chalk unveil balance ancient trick drum answer naive";

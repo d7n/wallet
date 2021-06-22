@@ -1,1 +1,1 @@
-var mnemonic = "stairs deal situate hundred napkin fashion race mandate donor wonder theory usual";
+var mnemonic = "artefact hen want trick today endless twelve document cheese mother wife blush";

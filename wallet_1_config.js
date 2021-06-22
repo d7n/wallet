@@ -1,1 +1,1 @@
-var mnemonic = "saddle october like joke great maximum try across own output inherit unaware";
+var mnemonic = "slight chronic festival rough blood daring world giant help bounce differ rack";

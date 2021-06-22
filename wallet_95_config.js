@@ -1,1 +1,1 @@
-var mnemonic = "plunge danger junk more number odor item spirit grass abandon trap often";
+var mnemonic = "have upper silent version view cram finish then antique giraffe assault easily";

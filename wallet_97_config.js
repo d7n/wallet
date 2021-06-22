@@ -1,1 +1,1 @@
-var mnemonic = "next ripple divorce slice canyon icon bacon occur reason organ call target";
+var mnemonic = "wreck peace tribe mix mango lyrics current disagree such magic fall boat";

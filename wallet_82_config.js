@@ -1,1 +1,1 @@
-var mnemonic = "jealous mix worry neutral length void daring agree catch green merge infant";
+var mnemonic = "timber upgrade skirt junk multiply olympic century window language gorilla veteran today";

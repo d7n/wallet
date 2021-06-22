@@ -1,1 +1,1 @@
-var mnemonic = "salute gloom only fever law click gift half decline reward discover embrace";
+var mnemonic = "real range latin depart snap arctic spawn tube say guitar night ankle";

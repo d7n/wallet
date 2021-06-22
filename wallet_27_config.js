@@ -1,1 +1,1 @@
-var mnemonic = "immense mix cereal antenna story electric earth mixture idea city paper gospel";
+var mnemonic = "cat armed logic obscure make park achieve humor project flower boss nest";

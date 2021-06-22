@@ -1,1 +1,1 @@
-var mnemonic = "fix extend arrow language debris hip salad melody expand stay about mistake";
+var mnemonic = "language giant wear love pyramid fetch indicate cram noble trust venture hint";

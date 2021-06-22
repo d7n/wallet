@@ -1,1 +1,1 @@
-var mnemonic = "embark neither transfer try siren rhythm thunder risk clinic element rubber doll";
+var mnemonic = "tiny chest this world strong torch flip tone scrub road tuition gas";

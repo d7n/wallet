@@ -1,1 +1,1 @@
-var mnemonic = "enable clay wreck improve obey stumble unfold reflect twice pistol hand match";
+var mnemonic = "budget adult short scout lizard tiny quick amused solar draft belt wink";

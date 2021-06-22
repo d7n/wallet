@@ -1,1 +1,1 @@
-var mnemonic = "slab fly hawk peasant major frog retire choice valve virus void smile";
+var mnemonic = "else require pave next hurdle service lesson foster lion ability shuffle exchange";
