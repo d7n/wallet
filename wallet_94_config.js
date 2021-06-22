@@ -1,1 +1,1 @@
-var mnemonic = "sponsor gauge energy bind mask combine thank bubble grass coffee major virus";
+var mnemonic = "special awful cage dizzy pulse deposit aim fish load carry bullet test";

@@ -1,1 +1,1 @@
-var mnemonic = "party unfair dumb split syrup client silk wise submit square erode left";
+var mnemonic = "test sauce wedding curious since fancy true main energy dress problem much";

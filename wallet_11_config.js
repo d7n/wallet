@@ -1,1 +1,1 @@
-var mnemonic = "degree leaf face junior winter isolate hobby devote view lyrics swim give";
+var mnemonic = "loan anger wise outdoor cool hole into cherry much gold quiz quote";

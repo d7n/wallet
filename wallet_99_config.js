@@ -1,1 +1,1 @@
-var mnemonic = "country can orphan human give spin subway text way come ticket total";
+var mnemonic = "ceiling cattle ski where nerve great nice smart dog spare upper answer";

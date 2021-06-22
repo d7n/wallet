@@ -1,1 +1,1 @@
-var mnemonic = "slice cotton true rude jelly lemon chest knee water another during system";
+var mnemonic = "broccoli any silly pitch town buyer siren wall plate dirt misery deny";

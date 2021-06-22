@@ -1,1 +1,1 @@
-var mnemonic = "pair poem must habit weird health month sea flush dove hole rocket";
+var mnemonic = "hidden above recall cushion shoulder slim recipe seven negative gaze until student";

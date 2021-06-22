@@ -1,1 +1,1 @@
-var mnemonic = "current gloom until isolate inside medal garlic alone mixture upper liar globe";
+var mnemonic = "hold daring merge receive frequent axis bid orbit hedgehog trade police deposit";

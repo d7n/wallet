@@ -1,1 +1,1 @@
-var mnemonic = "debris shield card mobile beauty stove ankle apology behind defense kite reduce";
+var mnemonic = "else elevator plate impose dune chaos fade ball grocery plastic caught dirt";

@@ -1,1 +1,1 @@
-var mnemonic = "display exhibit island ghost indoor knife gentle crazy lawsuit crawl skill group";
+var mnemonic = "spell sustain speed alone prevent green wing hawk casino exhaust evidence staff";

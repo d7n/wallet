@@ -1,1 +1,1 @@
-var mnemonic = "taste aspect travel meat point you catalog cry glad warrior village hazard";
+var mnemonic = "door fancy lunar strike turkey carbon ignore shrimp jaguar they cricket maid";

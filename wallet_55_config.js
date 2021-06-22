@@ -1,1 +1,1 @@
-var mnemonic = "desk depart spike spirit opinion cluster certain wrong tomorrow agent palace sketch";
+var mnemonic = "change age decrease mother such mystery level enough kiss disorder hill economy";

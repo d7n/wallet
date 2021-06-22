@@ -1,1 +1,1 @@
-var mnemonic = "portion fantasy sort follow soul head other frown birth axis entry dentist";
+var mnemonic = "impact release puppy cabbage spread hobby lucky bird table tourist group clutch";

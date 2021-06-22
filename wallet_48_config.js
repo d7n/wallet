@@ -1,1 +1,1 @@
-var mnemonic = "admit drive foster shed merit crystal party interest auto tumble sure walk";
+var mnemonic = "worth what gesture thought detail bleak run kitchen shrug primary top art";

@@ -1,1 +1,1 @@
-var mnemonic = "dish silly piano scrub april sweet foster upon tourist runway trade candy";
+var mnemonic = "horror donate army child creek annual sister awesome expand tide way wasp";

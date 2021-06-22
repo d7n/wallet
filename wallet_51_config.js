@@ -1,1 +1,1 @@
-var mnemonic = "until quarter math rotate once mango polar joke round regular nothing electric";
+var mnemonic = "gift segment glue fragile hurdle hero same exchange device shrimp breeze weapon";

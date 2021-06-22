@@ -1,1 +1,1 @@
-var mnemonic = "cable utility license royal frog deputy tomato beach comic march immune mansion";
+var mnemonic = "age ten club letter flush phrase vacuum carpet industry course agree economy";

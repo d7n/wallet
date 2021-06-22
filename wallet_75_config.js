@@ -1,1 +1,1 @@
-var mnemonic = "dawn wrong fox wagon divide document ticket manage hope pass erupt ostrich";
+var mnemonic = "pact dove ball parrot kind blast arrange joy paper suggest sheriff dutch";

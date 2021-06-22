@@ -1,1 +1,1 @@
-var mnemonic = "bring expect gym trash card frown labor carbon art essence leg symbol";
+var mnemonic = "truly exile monster brave decline million mushroom heavy spray purse slim mail";

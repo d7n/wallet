@@ -1,1 +1,1 @@
-var mnemonic = "good strike fatigue lawn earn size summer frame become velvet fatal trumpet";
+var mnemonic = "tent motor antique later version thunder gauge obtain path salmon sing bargain";

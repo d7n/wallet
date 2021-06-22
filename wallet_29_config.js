@@ -1,1 +1,1 @@
-var mnemonic = "mandate win tooth inside stool token boss celery crucial million warfare share";
+var mnemonic = "chase build soon craft guess rapid draft hub again follow despair obscure";

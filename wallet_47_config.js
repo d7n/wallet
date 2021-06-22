@@ -1,1 +1,1 @@
-var mnemonic = "huge broom gravity dutch strategy cheap pilot angry shed grace absorb planet";
+var mnemonic = "cigar empty letter present pelican fantasy ivory brass bullet dilemma gap invest";

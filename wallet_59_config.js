@@ -1,1 +1,1 @@
-var mnemonic = "country coral result maximum sea lumber lobster dice powder saddle hair find";
+var mnemonic = "target crystal code pigeon black inform army visit between dove tree dentist";

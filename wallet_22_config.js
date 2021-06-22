@@ -1,1 +1,1 @@
-var mnemonic = "expand front leisure gun symptom smooth ugly cat blouse layer hard slogan";
+var mnemonic = "question because toss enjoy stuff banana coyote original require wish green trip";

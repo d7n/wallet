@@ -1,1 +1,1 @@
-var mnemonic = "front winter festival denial empty tank believe sun shell ginger suffer target";
+var mnemonic = "call ocean meat grief blame diamond erosion current sword they offer supply";

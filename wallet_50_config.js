@@ -1,1 +1,1 @@
-var mnemonic = "paddle bean girl start try city much trigger only antique despair boil";
+var mnemonic = "alcohol kitchen romance casino alcohol absurd fix balcony glimpse wing tent early";

@@ -1,1 +1,1 @@
-var mnemonic = "skate deny vehicle source system advice nuclear mass believe reject tank kit";
+var mnemonic = "friend cigar safe attend select symbol dune shift price letter liquid involve";

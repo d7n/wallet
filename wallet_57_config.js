@@ -1,1 +1,1 @@
-var mnemonic = "wrist come twelve coyote sleep until throw happy split observe comfort unable";
+var mnemonic = "couch good blood gap polar ahead bracket fine issue clinic submit close";

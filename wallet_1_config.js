@@ -1,1 +1,1 @@
-var mnemonic = "goat round acquire mystery artwork reveal february word exercise violin scheme pull";
+var mnemonic = "mimic afraid razor deputy flavor spot release cause endorse economy stool floor";

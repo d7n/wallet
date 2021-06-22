@@ -1,1 +1,1 @@
-var mnemonic = "useless disorder barrel bounce food own hold child drink decide exclude sun";
+var mnemonic = "oval grid orbit tell shop depend drama wheat vote dust arrow impose";

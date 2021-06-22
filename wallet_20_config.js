@@ -1,1 +1,1 @@
-var mnemonic = "spider wild success chief draft sick wheat stereo boat concert sustain donate";
+var mnemonic = "nest maid broken main hundred venture engine cotton stone diagram tuna echo";

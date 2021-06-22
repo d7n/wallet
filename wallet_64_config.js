@@ -1,1 +1,1 @@
-var mnemonic = "junk air ankle barely slot claim physical wine mention area unable budget";
+var mnemonic = "twist mail high inhale occur token select six dinosaur derive cash arrest";

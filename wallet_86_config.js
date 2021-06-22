@@ -1,1 +1,1 @@
-var mnemonic = "advice cake abuse brisk depart rabbit menu latin pizza throw rail enforce";
+var mnemonic = "story rare erupt chapter model exhibit enact picnic two bone damp pottery";

@@ -1,1 +1,1 @@
-var mnemonic = "song tornado master dune receive march mean sustain zoo please warm split";
+var mnemonic = "peasant flower vague chalk hunt diet tomorrow neither print early clump game";

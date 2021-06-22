@@ -1,1 +1,1 @@
-var mnemonic = "noise wrestle leave wage rather duck elder grow snack top predict result";
+var mnemonic = "creek script example bid wage fire flash course table spoil quit lyrics";

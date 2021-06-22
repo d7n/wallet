@@ -1,1 +1,1 @@
-var mnemonic = "speed until tongue become cause spike random submit female ritual axis blue";
+var mnemonic = "angle else peasant kick pudding bacon arm excuse hybrid garlic family brave";

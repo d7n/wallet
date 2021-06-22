@@ -1,1 +1,1 @@
-var mnemonic = "spoon window rack reopen leopard loan illness uphold coin siege corn tent";
+var mnemonic = "arrange fit universe enhance real goat crumble another flat salute loop swim";

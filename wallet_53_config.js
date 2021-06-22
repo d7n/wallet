@@ -1,1 +1,1 @@
-var mnemonic = "debate immense practice embrace fault sponsor salt blue slow spoon sustain public";
+var mnemonic = "girl actor verb theory fitness gorilla number such pen nominee autumn deal";

@@ -1,1 +1,1 @@
-var mnemonic = "creek sadness timber reunion useless north danger panda rebel fetch obey scrub";
+var mnemonic = "business resist grit fire impact range collect pretty dish pave prepare develop";

@@ -1,1 +1,1 @@
-var mnemonic = "company nothing stone praise chaos scene option vital route mistake engine unaware";
+var mnemonic = "mansion essay hobby suit pair machine charge burst detect atom nasty noble";

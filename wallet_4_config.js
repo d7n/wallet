@@ -1,1 +1,1 @@
-var mnemonic = "rapid pledge biology home raccoon merge shadow shallow rebel drink usage try";
+var mnemonic = "actor force sheriff quantum question daring thumb taxi copper bench sunset crash";

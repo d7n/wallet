@@ -1,1 +1,1 @@
-var mnemonic = "bubble pulp camera excuse razor guide forum drive smoke two jeans hammer";
+var mnemonic = "will note stable motion axis explain unveil town lonely bonus unaware abuse";

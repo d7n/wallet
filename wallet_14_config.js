@@ -1,1 +1,1 @@
-var mnemonic = "upgrade turtle ethics when senior course vibrant scan primary noble arrest chair";
+var mnemonic = "swim chunk giraffe gown lawsuit ranch example ivory then annual old garbage";

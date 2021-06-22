@@ -1,1 +1,1 @@
-var mnemonic = "awkward month caution rhythm easily rate follow survey duty muffin essay unusual";
+var mnemonic = "ecology host alley useless mountain usual sell brother despair home crawl credit";

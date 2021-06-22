@@ -1,1 +1,1 @@
-var mnemonic = "once dress theme shaft account april burger monitor street shift fossil gorilla";
+var mnemonic = "diamond gallery process athlete grunt flame nasty fork cupboard thank shock chair";

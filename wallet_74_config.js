@@ -1,1 +1,1 @@
-var mnemonic = "wear defy scale borrow infant valley mango afford media crop peanut source";
+var mnemonic = "sponsor essence book include kitchen jungle relief cute portion eyebrow enlist vast";

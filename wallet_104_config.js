@@ -1,1 +1,1 @@
-var mnemonic = "end code hard oxygen worry leader neutral fringe away cluster end trumpet";
+var mnemonic = "shield poet exist chat pole mango stomach omit dizzy vehicle hood faint";

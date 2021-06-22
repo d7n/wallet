@@ -1,1 +1,1 @@
-var mnemonic = "index reopen just verb mosquito mixture popular client travel oven identify sphere";
+var mnemonic = "habit wolf citizen tomorrow habit diet response sauce test axis popular shuffle";

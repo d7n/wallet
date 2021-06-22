@@ -1,1 +1,1 @@
-var mnemonic = "region palace trust imitate alert borrow scatter town have pledge surface select";
+var mnemonic = "rookie promote juice shift pistol delay benefit game public also begin rich";

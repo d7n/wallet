@@ -1,1 +1,1 @@
-var mnemonic = "dentist blast village acoustic rule girl circle crack garlic kiss caution truck";
+var mnemonic = "broccoli bitter alcohol crunch age wear fox own common ripple report ice";

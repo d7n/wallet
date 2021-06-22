@@ -1,1 +1,1 @@
-var mnemonic = "slender identify idea sport chaos hotel puppy treat target cigar blush buddy";
+var mnemonic = "isolate wreck token column indoor half ill panda rocket sunset alone search";

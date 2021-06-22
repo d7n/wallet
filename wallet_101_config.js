@@ -1,1 +1,1 @@
-var mnemonic = "prefer later slogan wrist seminar awake similar nuclear omit put interest beyond";
+var mnemonic = "fun domain boss alley media rich letter same sand ethics fortune dawn";

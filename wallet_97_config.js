@@ -1,1 +1,1 @@
-var mnemonic = "deal source jazz powder ocean drink eagle transfer blush menu chimney absent";
+var mnemonic = "ball stumble seminar joy talent main wood movie glass almost miss vibrant";

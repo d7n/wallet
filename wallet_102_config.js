@@ -1,1 +1,1 @@
-var mnemonic = "cactus brown crater win wash antique habit choose coral embark yard bag";
+var mnemonic = "attend electric neck plug mind frozen churn olympic moral quality make panel";

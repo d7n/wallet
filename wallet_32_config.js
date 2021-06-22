@@ -1,1 +1,1 @@
-var mnemonic = "over now bundle section rough rough polar frost gift faint uphold trial";
+var mnemonic = "accuse peace check usage diet eagle endless market have vast current wonder";

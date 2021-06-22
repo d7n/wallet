@@ -1,1 +1,1 @@
-var mnemonic = "copper staff diesel tragic divert spring taste thunder enact avocado ring any";
+var mnemonic = "pave have warrior rich auto little puppy river page appear thumb between";

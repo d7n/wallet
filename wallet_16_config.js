@@ -1,1 +1,1 @@
-var mnemonic = "orient recycle another enrich mimic assume category portion unable merry bag lobster";
+var mnemonic = "powder window gather jazz rack choose amused spawn wet wisdom hobby tribe";

@@ -1,1 +1,1 @@
-var mnemonic = "useless equip dawn unit artefact gauge hungry burst brother twist envelope nominee";
+var mnemonic = "mesh chapter obscure below fantasy diamond sausage seat foil invite smooth soul";

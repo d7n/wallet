@@ -1,1 +1,1 @@
-var mnemonic = "pluck skull hero shift extra among warfare cycle soup copy pole recycle";
+var mnemonic = "mixed grab dinosaur wheat cool baby icon prison mix balcony size cotton";

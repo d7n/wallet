@@ -1,1 +1,1 @@
-var mnemonic = "wing rain absent curious lecture tourist chalk celery gap current bubble reunion";
+var mnemonic = "direct sorry bridge wrong adjust tornado divert dress old beyond opera arrange";

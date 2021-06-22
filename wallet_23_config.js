@@ -1,1 +1,1 @@
-var mnemonic = "crowd badge essence much toss hip come maximum network nephew vehicle cause";
+var mnemonic = "visit key fame tray daring taxi copper improve grocery lobster pilot twelve";

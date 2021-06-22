@@ -1,1 +1,1 @@
-var mnemonic = "calm canoe pistol excite puppy this athlete priority remain please spatial frown";
+var mnemonic = "season duty cactus cable lottery captain access ahead flight caution idle bottom";

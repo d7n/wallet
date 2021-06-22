@@ -1,1 +1,1 @@
-var mnemonic = "brand code verb come talk fiction need stool short image cushion panic";
+var mnemonic = "display device impose orchard lounge humble setup car alert script tortoise gate";

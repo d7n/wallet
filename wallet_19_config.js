@@ -1,1 +1,1 @@
-var mnemonic = "grab mule fancy taste plastic evoke sight load fury stove note farm";
+var mnemonic = "organ nation unfair mirror brick kitten wide weapon install permit broccoli odor";

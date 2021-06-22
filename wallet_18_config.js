@@ -1,1 +1,1 @@
-var mnemonic = "auto slam liquid capable evolve sign gallery mixed panic point surface merry";
+var mnemonic = "bread acid weapon time over fork garment noble baby adapt uncover put";

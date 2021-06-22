@@ -1,1 +1,1 @@
-var mnemonic = "radar ranch hidden credit depart fame toilet water pepper group zero private";
+var mnemonic = "dice tobacco position pencil cause midnight broccoli parent wild poem run soccer";

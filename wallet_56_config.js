@@ -1,1 +1,1 @@
-var mnemonic = "divide iron cost envelope hat coffee hard social pluck pave fury renew";
+var mnemonic = "surprise digital warfare vapor salmon dust family decade blood jelly oxygen crop";

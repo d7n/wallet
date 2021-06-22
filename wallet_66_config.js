@@ -1,1 +1,1 @@
-var mnemonic = "mutual message capital stool decline shrimp gasp penalty because shove drill deliver";
+var mnemonic = "add opera citizen example dad now accident north long voyage lawsuit captain";

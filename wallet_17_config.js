@@ -1,1 +1,1 @@
-var mnemonic = "vote neither talent purse rescue stumble test reveal ice sell plastic fly";
+var mnemonic = "iron success diesel insect unknown border sing dad gun vague fly lucky";

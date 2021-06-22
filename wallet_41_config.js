@@ -1,1 +1,1 @@
-var mnemonic = "sister blur jar fashion trick level dentist excuse baby inner noise worry";
+var mnemonic = "love bulb audit avoid fatal exotic lunch orient silver correct vault man";

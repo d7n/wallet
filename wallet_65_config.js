@@ -1,1 +1,1 @@
-var mnemonic = "coil become print glad square couple layer month attend village essence night";
+var mnemonic = "kit purity trouble salad hidden during film merit peace spot need peanut";

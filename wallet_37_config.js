@@ -1,1 +1,1 @@
-var mnemonic = "slow loyal maple shed dial issue million exclude section suit speed middle";
+var mnemonic = "system glory judge razor tomorrow garment level renew layer piano ready grain";

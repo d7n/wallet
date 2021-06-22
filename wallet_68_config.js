@@ -1,1 +1,1 @@
-var mnemonic = "salute image regular perfect frost diesel safe refuse muffin club cash ladder";
+var mnemonic = "salad life frown myself badge brisk umbrella page heavy odor match marble";

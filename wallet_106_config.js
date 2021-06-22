@@ -1,1 +1,1 @@
-var mnemonic = "try core nut session wheat depth virus usual spin hub wide frown";
+var mnemonic = "sauce mistake girl wall orchard stay soul solution home modify stamp arrow";

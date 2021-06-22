@@ -1,1 +1,1 @@
-var mnemonic = "shaft sphere title space lion horse mention nose circle million little glass";
+var mnemonic = "culture shaft hen online yard abuse degree clog author nature angle hood";

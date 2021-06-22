@@ -1,1 +1,1 @@
-var mnemonic = "model alone adult student feed october few damage man olive trash liberty";
+var mnemonic = "mean lock reopen produce test bless exit lab average fun number swear";

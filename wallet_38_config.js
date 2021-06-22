@@ -1,1 +1,1 @@
-var mnemonic = "weekend excess include capable universe donkey balance address across battle swim obey";
+var mnemonic = "anger estate frown next renew glass myself hedgehog negative genius process six";

@@ -1,1 +1,1 @@
-var mnemonic = "rent captain gym bone utility pluck quiz excuse jealous spatial few oil";
+var mnemonic = "engine glory burger suffer slogan emerge decrease small fatal analyst casino escape";

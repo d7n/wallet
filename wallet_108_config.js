@@ -1,1 +1,1 @@
-var mnemonic = "rubber coast diesel rich label believe taxi best check stock glance arrange";
+var mnemonic = "furnace autumn decorate arctic vacuum license ticket sight grocery fury fault armed";

@@ -1,1 +1,1 @@
-var mnemonic = "enough erupt room entire coin shaft crisp someone column tray like snake";
+var mnemonic = "purchase message business certain depart document weird random manage retreat open hub";

@@ -1,1 +1,1 @@
-var mnemonic = "empty festival lake charge grit dad float submit gas toy floor actress";
+var mnemonic = "slam couple axis stock cheap spike high cupboard hint transfer fit depend";

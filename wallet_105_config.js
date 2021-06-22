@@ -1,1 +1,1 @@
-var mnemonic = "noise weekend main rhythm try lyrics sick blame grab regular congress rocket";
+var mnemonic = "judge mix myth jeans step jaguar deer fade fortune below alien expire";

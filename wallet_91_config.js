@@ -1,1 +1,1 @@
-var mnemonic = "prison canal impact success poverty valley photo dawn issue leisure huge horror";
+var mnemonic = "chronic glad calm evoke differ cup range tongue honey hawk shiver inside";

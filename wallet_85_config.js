@@ -1,1 +1,1 @@
-var mnemonic = "army present load fade assault two bag nurse powder sphere nest vapor";
+var mnemonic = "daughter power trick science frown vote control bone candy allow mammal dust";

@@ -1,1 +1,1 @@
-var mnemonic = "access heavy true village attend rich end rocket pull skull pet cable";
+var mnemonic = "element cheese zone orange attend arm coach demise book link release elephant";
