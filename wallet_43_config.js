@@ -1,1 +1,1 @@
-var mnemonic = "two doctor task auction planet plug deny actual bubble bird kangaroo pair";
+var mnemonic = "drill then sing scan answer must apple demand swim must enjoy evidence";

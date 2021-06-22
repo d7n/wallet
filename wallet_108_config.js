@@ -1,1 +1,1 @@
-var mnemonic = "loan race trash ugly ranch hammer song figure return shy permit clip";
+var mnemonic = "between grunt carbon tree clutch spring aerobic hungry car youth drum lumber";

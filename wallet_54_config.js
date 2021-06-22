@@ -1,1 +1,1 @@
-var mnemonic = "abstract arena air design story dynamic cupboard crush brain sock crunch correct";
+var mnemonic = "draft link rhythm doll bus similar initial trap cry gun coach tonight";

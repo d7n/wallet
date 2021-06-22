@@ -1,1 +1,1 @@
-var mnemonic = "engine wagon lizard avoid juice side trade mother caught high innocent olive";
+var mnemonic = "client minor position window spend enable joy thing utility where offer holiday";

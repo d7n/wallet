@@ -1,1 +1,1 @@
-var mnemonic = "deny private tape vibrant plastic drum open moral permit hip company deal";
+var mnemonic = "loyal carry silk seminar sorry hat cactus pact skirt cluster rural chat";

@@ -1,1 +1,1 @@
-var mnemonic = "tumble indicate liar soap eager deliver intact shuffle brave park oven ostrich";
+var mnemonic = "place bring balance prepare raven hawk possible harbor ritual hedgehog tackle gas";

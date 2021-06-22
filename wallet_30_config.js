@@ -1,1 +1,1 @@
-var mnemonic = "camp venture width brain decide region vital latin hurdle timber kit misery";
+var mnemonic = "friend tilt write demand impact sting oval ensure cost fold truck what";

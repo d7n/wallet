@@ -1,1 +1,1 @@
-var mnemonic = "since hurt balance jazz attitude hand taxi wealth false leopard spike glance";
+var mnemonic = "brave ivory joke session code machine asset blue useless setup property joke";

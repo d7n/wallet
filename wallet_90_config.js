@@ -1,1 +1,1 @@
-var mnemonic = "worry blouse motor nice inner tissue retreat cradle today mistake tower high";
+var mnemonic = "blind uphold dynamic diamond oven zero push expire warrior document ride news";

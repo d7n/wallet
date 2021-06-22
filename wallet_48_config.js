@@ -1,1 +1,1 @@
-var mnemonic = "cloth honey flip slot ecology cook network radar verb black display erupt";
+var mnemonic = "edit dilemma borrow shift vendor code festival robot cube key bind guard";

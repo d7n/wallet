@@ -1,1 +1,1 @@
-var mnemonic = "gym ginger unit receive dog word whisper toss vacant wheat slush nest";
+var mnemonic = "certain finger wrestle oven cluster clerk doll bamboo express atom entry bottom";

@@ -1,1 +1,1 @@
-var mnemonic = "identify tongue decade nephew noodle decade abandon segment assume upper stereo jump";
+var mnemonic = "join pool design neither weekend frog cram lock virtual rain spoil smile";

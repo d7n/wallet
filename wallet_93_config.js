@@ -1,1 +1,1 @@
-var mnemonic = "trigger grain yard turkey core unveil defense argue daughter return shine fiscal";
+var mnemonic = "general stove poverty strong amused pig vehicle north rapid whale logic real";

@@ -1,1 +1,1 @@
-var mnemonic = "say dune raw nerve tape trick entire tiny regular acquire lunar flee";
+var mnemonic = "unable direct income bronze unique focus divorce require error guard enough survey";

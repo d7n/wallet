@@ -1,1 +1,1 @@
-var mnemonic = "biology unit turtle grass youth real maid chuckle stove aerobic energy phone";
+var mnemonic = "decrease receive museum example lunar park pizza vivid vast best vote wish";

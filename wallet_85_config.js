@@ -1,1 +1,1 @@
-var mnemonic = "quit save upgrade exclude smart able apart stool cereal nothing about leaf";
+var mnemonic = "giggle heavy bounce cream antenna poverty exile text excuse cost blouse lion";

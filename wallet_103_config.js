@@ -1,1 +1,1 @@
-var mnemonic = "across tattoo detail present shield toddler pencil afford window must shuffle casino";
+var mnemonic = "father spread behind key certain tuna caution left device clerk raw dilemma";

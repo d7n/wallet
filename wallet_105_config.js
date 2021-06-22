@@ -1,1 +1,1 @@
-var mnemonic = "include reason skill ankle payment hover canal owner disease that lemon liar";
+var mnemonic = "bread next rule remind creek unaware donate physical planet pave water banner";

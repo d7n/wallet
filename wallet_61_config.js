@@ -1,1 +1,1 @@
-var mnemonic = "detect drama banana cinnamon appear globe knock loyal off property demand sign";
+var mnemonic = "enjoy jacket illness demise milk envelope pretty quit option whisper ten congress";

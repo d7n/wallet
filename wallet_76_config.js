@@ -1,1 +1,1 @@
-var mnemonic = "jelly excess imitate seat key elegant despair switch car true sell sell";
+var mnemonic = "apart joy hunt wonder soda eye prefer planet become below buffalo stove";

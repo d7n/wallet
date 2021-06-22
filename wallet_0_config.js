@@ -1,1 +1,1 @@
-var mnemonic = "clarify bulb diesel salmon trick that hidden photo menu save upon relief";
+var mnemonic = "year erupt napkin sleep task march neck bullet chronic walnut insane maid";

@@ -1,1 +1,1 @@
-var mnemonic = "hair despair oyster bleak load forum hint accuse trophy unhappy garden report";
+var mnemonic = "volcano prepare gallery crop dose multiply upper rigid arrest play magic shallow";

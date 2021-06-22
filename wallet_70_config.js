@@ -1,1 +1,1 @@
-var mnemonic = "glory fame gorilla high gloom inhale scissors laundry field bird define explain";
+var mnemonic = "parade other argue naive stone skirt judge apology hurry predict oil bracket";

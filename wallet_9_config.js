@@ -1,1 +1,1 @@
-var mnemonic = "square vehicle supply trouble live robot muscle turtle sign way search where";
+var mnemonic = "success pencil wagon hold sad decorate north dilemma viable fade address expect";

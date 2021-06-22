@@ -1,1 +1,1 @@
-var mnemonic = "mansion flight diary cover accident lion elite cloth warfare excuse property siege";
+var mnemonic = "typical admit sister copper gallery birth ghost thumb analyst jeans bless shock";

@@ -1,1 +1,1 @@
-var mnemonic = "improve century carpet helmet dry trip real enrich afraid priority fence afraid";
+var mnemonic = "sleep vital guard boil swim prosper abuse source winner degree remind harbor";

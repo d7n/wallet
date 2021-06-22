@@ -1,1 +1,1 @@
-var mnemonic = "brush guide agent wasp mosquito music actor skirt drill attitude bullet decorate";
+var mnemonic = "giraffe govern banana dog dynamic invest stage avocado teach bread treat water";

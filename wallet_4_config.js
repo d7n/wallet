@@ -1,1 +1,1 @@
-var mnemonic = "rather shock toddler zone regret steak sort whip tonight bid pole wheel";
+var mnemonic = "diagram come axis teach water flee curve scare wave humble feature suit";

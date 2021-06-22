@@ -1,1 +1,1 @@
-var mnemonic = "soup key brain cruel scale cabbage negative hedgehog betray cinnamon doll manual";
+var mnemonic = "remind soon lake raccoon ugly force gun mind gown cause trial warrior";

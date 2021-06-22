@@ -1,1 +1,1 @@
-var mnemonic = "slide direct merit art board soldier turn trend gentle fetch report size";
+var mnemonic = "coyote input mandate eyebrow volcano couch anchor angle dove bomb dismiss slender";

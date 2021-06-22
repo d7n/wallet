@@ -1,1 +1,1 @@
-var mnemonic = "industry develop leaf upper people attack become trophy cabbage brief cross super";
+var mnemonic = "convince bike sibling ladder uphold okay clock cloud father gadget shaft disorder";

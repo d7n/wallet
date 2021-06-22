@@ -1,1 +1,1 @@
-var mnemonic = "arch stand when student harbor wedding sock usage index fat robust friend";
+var mnemonic = "aware army river rule jeans dog large reject bicycle heavy refuse police";

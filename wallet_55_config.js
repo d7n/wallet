@@ -1,1 +1,1 @@
-var mnemonic = "slush sausage deal card slight worry dash aisle special south wine above";
+var mnemonic = "pet notable portion dinner demand inflict avoid stuff release myth case void";

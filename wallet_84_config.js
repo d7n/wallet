@@ -1,1 +1,1 @@
-var mnemonic = "upper goat story fold pelican whip health advice fortune blame genuine scorpion";
+var mnemonic = "arm impulse link join credit wrong release pipe riot puzzle kiss neck";

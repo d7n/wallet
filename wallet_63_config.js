@@ -1,1 +1,1 @@
-var mnemonic = "rose attack soda snake tray mountain total protect baby oil inhale debate";
+var mnemonic = "brisk wet poverty switch vacant horror quantum ask lottery spring unable boring";

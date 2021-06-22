@@ -1,1 +1,1 @@
-var mnemonic = "obvious next dog cement use obscure deliver reduce judge fossil bind scheme";
+var mnemonic = "toe memory moment security fix trust bunker possible speak once love move";

@@ -1,1 +1,1 @@
-var mnemonic = "wall mom resource mom oppose wedding economy chuckle roast discover total recipe";
+var mnemonic = "meat elite pill song indicate work riot will jacket fat icon inject";

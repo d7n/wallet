@@ -1,1 +1,1 @@
-var mnemonic = "bid trick boil alpha sense rookie prison opinion office ticket era cabin";
+var mnemonic = "payment impulse stock reason ride kiwi latin forget very prevent follow drastic";

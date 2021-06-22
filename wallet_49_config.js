@@ -1,1 +1,1 @@
-var mnemonic = "talk unusual hazard easy drastic album good erode soap enrich logic power";
+var mnemonic = "shoe style gain chicken raven mail pave shaft lonely guard smart quick";

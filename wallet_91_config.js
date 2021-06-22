@@ -1,1 +1,1 @@
-var mnemonic = "axis beyond divorce verify shove pioneer render make bracket layer screen trim";
+var mnemonic = "absurd salon verb filter portion twist found aunt gadget deposit oval entry";

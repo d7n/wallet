@@ -1,1 +1,1 @@
-var mnemonic = "clock police athlete artwork butter language barrel stove ankle inform cute turn";
+var mnemonic = "possible naive general inherit burger strong cotton rare used crowd outside correct";

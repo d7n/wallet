@@ -1,1 +1,1 @@
-var mnemonic = "domain unknown neutral drastic step fashion youth tide marine output fat wolf";
+var mnemonic = "hill mistake grocery hair divorce above pink knock cram mother hedgehog life";

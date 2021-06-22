@@ -1,1 +1,1 @@
-var mnemonic = "harvest west base left color security height bridge lawn join assume toward";
+var mnemonic = "earth film proof awful uniform leopard noodle pledge mixture dry size desert";

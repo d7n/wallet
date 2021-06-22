@@ -1,1 +1,1 @@
-var mnemonic = "sword uniform kid drip prefer dust diagram equip audit hold potato ginger";
+var mnemonic = "sail distance olympic glory couch just staff always fortune lumber bamboo armor";

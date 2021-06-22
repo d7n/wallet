@@ -1,1 +1,1 @@
-var mnemonic = "vintage exit surface castle response ready sunny click juice skull grocery elephant";
+var mnemonic = "gift enforce scrub soldier window exist good buffalo goose draft alter load";

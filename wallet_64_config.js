@@ -1,1 +1,1 @@
-var mnemonic = "used genuine gallery lonely fatal beyond color poverty awful error reject spider";
+var mnemonic = "private refuse trash draft bid wisdom consider wood execute disorder level grit";

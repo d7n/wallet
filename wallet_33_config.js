@@ -1,1 +1,1 @@
-var mnemonic = "yard turn immense shiver bomb scatter light express circle interest almost verify";
+var mnemonic = "plate copper stock caution news turn stick crunch air unable camera monkey";

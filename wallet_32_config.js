@@ -1,1 +1,1 @@
-var mnemonic = "pledge scorpion glove leg amount under limb shadow field main rubber fame";
+var mnemonic = "drastic arrow heart like mercy wave stay best lyrics symptom quit play";

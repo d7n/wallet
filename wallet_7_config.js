@@ -1,1 +1,1 @@
-var mnemonic = "scatter glimpse spend steak comic gesture receive rebel check soup wrestle current";
+var mnemonic = "fabric drama penalty snap lake card knee cluster age party process exercise";

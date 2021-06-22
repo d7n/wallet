@@ -1,1 +1,1 @@
-var mnemonic = "frown surface bomb radar render expand long panther weasel unable circle dust";
+var mnemonic = "much angry angry monster outer skirt rule base reduce twist shoulder panic";

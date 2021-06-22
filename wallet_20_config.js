@@ -1,1 +1,1 @@
-var mnemonic = "total whale gun metal glimpse toss human dose gain truly electric dinosaur";
+var mnemonic = "winter trim suffer loud fiber derive slab wealth obey cable afraid lemon";

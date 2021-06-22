@@ -1,1 +1,1 @@
-var mnemonic = "age carpet news win rival lyrics crawl unique accident nut sketch input";
+var mnemonic = "waste chase faculty emotion olive denial offer cabin record warrior asthma maple";

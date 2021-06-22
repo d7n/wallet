@@ -1,1 +1,1 @@
-var mnemonic = "spy meadow farm smoke dumb win vehicle sell lend eagle empty champion";
+var mnemonic = "trip find bulk doll naive spare leaf creek bus dynamic must approve";

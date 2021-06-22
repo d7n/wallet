@@ -1,1 +1,1 @@
-var mnemonic = "crowd hard beauty hole elite retire flame safe float topic prison alter";
+var mnemonic = "essence parent clap neither bird manual cute rural discover round road alert";

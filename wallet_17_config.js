@@ -1,1 +1,1 @@
-var mnemonic = "oven bus stone merit cousin bind dinner purity auction soul mesh photo";
+var mnemonic = "trend train rude flee illness news zebra paddle shy wash federal mix";

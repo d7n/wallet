@@ -1,1 +1,1 @@
-var mnemonic = "economy father unusual grace power weird robust plunge weapon repair atom ripple";
+var mnemonic = "trip normal thing brisk prosper category daughter desk tape public stand charge";

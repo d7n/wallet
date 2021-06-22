@@ -1,1 +1,1 @@
-var mnemonic = "oppose beauty duty popular control method genius great slow cheese paper unhappy";
+var mnemonic = "burst narrow filter favorite member boring old twice month dove gauge image";

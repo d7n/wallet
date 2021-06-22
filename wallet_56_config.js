@@ -1,1 +1,1 @@
-var mnemonic = "example undo liquid silly later broken unable upon until drama multiply cross";
+var mnemonic = "charge tip survey stool pear muffin cry coconut medal pigeon noodle swift";

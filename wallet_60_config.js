@@ -1,1 +1,1 @@
-var mnemonic = "jaguar execute jeans little satoshi repair bonus chronic olive forest velvet island";
+var mnemonic = "wink hazard educate average harsh float physical cotton stomach addict foot chat";

@@ -1,1 +1,1 @@
-var mnemonic = "sleep minor capital very noodle silk hover close damage fly absent ice";
+var mnemonic = "name joy super jewel term remind limb glide destroy elevator sleep wet";

@@ -1,1 +1,1 @@
-var mnemonic = "captain vault panic host rain again wisdom situate bright melt comfort clarify";
+var mnemonic = "differ duty noise boring used acid unable season village thumb confirm subject";

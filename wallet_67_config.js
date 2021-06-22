@@ -1,1 +1,1 @@
-var mnemonic = "hover scrub genuine balance buzz interest speak news surface any trust cabbage";
+var mnemonic = "purse wool nurse veteran casino theme smooth any antique autumn quote hurry";

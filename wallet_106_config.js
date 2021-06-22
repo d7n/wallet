@@ -1,1 +1,1 @@
-var mnemonic = "song grant clown cart own buyer fox deal switch dash marine equal";
+var mnemonic = "knock melt elegant hair must black chalk swim chalk trophy height repair";

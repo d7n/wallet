@@ -1,1 +1,1 @@
-var mnemonic = "rescue there material dream clean inject hollow easily capable salad final feed";
+var mnemonic = "holiday claim bread hope inside excess remain this music cotton camera project";

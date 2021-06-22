@@ -1,1 +1,1 @@
-var mnemonic = "grocery strong tomato unusual amateur obvious delay unique anchor oxygen view roof";
+var mnemonic = "net mesh winter pipe travel lecture rare duty page morning area snake";

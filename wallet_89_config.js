@@ -1,1 +1,1 @@
-var mnemonic = "yellow palace album beyond century rabbit kingdom guide topple sick obvious inherit";
+var mnemonic = "ill hair return nurse sell border lonely popular social pool top around";

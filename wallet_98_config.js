@@ -1,1 +1,1 @@
-var mnemonic = "control adult armor exchange burden double useful galaxy either address expand smoke";
+var mnemonic = "resist visit peace before sense quarter room shock cash jaguar win wealth";

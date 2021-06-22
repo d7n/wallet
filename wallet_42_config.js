@@ -1,1 +1,1 @@
-var mnemonic = "amazing slush abuse describe arch gallery foam puzzle small make amazing finger";
+var mnemonic = "eternal submit caught barrel that sea boil inquiry charge vote ordinary monkey";

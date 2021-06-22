@@ -1,1 +1,1 @@
-var mnemonic = "oyster file ripple until net oak seed wear short siege cat saddle";
+var mnemonic = "whisper fun shadow view clean topic basic snack sphere method weird tobacco";

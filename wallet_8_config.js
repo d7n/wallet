@@ -1,1 +1,1 @@
-var mnemonic = "escape obtain body session action coral romance exercise gift priority until message";
+var mnemonic = "join assist animal volume favorite inherit draft common lottery wealth stomach later";

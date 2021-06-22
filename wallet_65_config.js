@@ -1,1 +1,1 @@
-var mnemonic = "trumpet salute exhaust family spice fiber custom mansion stuff across skill segment";
+var mnemonic = "luxury tortoise rubber ocean cute little spot certain burst credit indoor peace";

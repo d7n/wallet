@@ -1,1 +1,1 @@
-var mnemonic = "mechanic volcano middle cement season snap connect latin hawk clinic review immense";
+var mnemonic = "era dwarf pluck mixture sniff picnic grape fatal craft unveil lonely clean";

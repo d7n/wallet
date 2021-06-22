@@ -1,1 +1,1 @@
-var mnemonic = "jewel sure mimic critic faculty use category clog rough gauge butter quality";
+var mnemonic = "unusual people pepper faculty idle mail airport often hobby outdoor outside denial";

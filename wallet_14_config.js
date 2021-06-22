@@ -1,1 +1,1 @@
-var mnemonic = "uncle vintage kid faith survey sight found genius fitness vague toward tackle";
+var mnemonic = "hollow thing recipe divorce diesel verify bulb tattoo virus draft tip utility";

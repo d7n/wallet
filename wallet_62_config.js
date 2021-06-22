@@ -1,1 +1,1 @@
-var mnemonic = "peanut render garment stumble hat depart achieve simple betray sphere want proof";
+var mnemonic = "honey side sort evoke blood client wage know ranch borrow volume figure";

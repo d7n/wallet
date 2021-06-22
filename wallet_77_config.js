@@ -1,1 +1,1 @@
-var mnemonic = "spy ozone indicate sweet clean render hollow twice truly lesson casual music";
+var mnemonic = "pistol combine lecture coin athlete nut tag ostrich rival august blush sand";

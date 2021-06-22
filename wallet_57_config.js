@@ -1,1 +1,1 @@
-var mnemonic = "wagon since obey frog please embrace three settle rich advice chapter vapor";
+var mnemonic = "remind avoid vacuum soul twice coil vanish uniform life table hello wheel";

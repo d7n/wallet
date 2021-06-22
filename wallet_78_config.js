@@ -1,1 +1,1 @@
-var mnemonic = "desk road pony air leader dignity advice chat such uphold music category";
+var mnemonic = "brief cream pool cry galaxy innocent crew dog drift crater work ghost";

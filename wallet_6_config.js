@@ -1,1 +1,1 @@
-var mnemonic = "mutual candy dream roast pony stool orient initial hub display stove coral";
+var mnemonic = "inhale inside box miss rug obvious merit neither cave target bless embark";

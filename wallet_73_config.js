@@ -1,1 +1,1 @@
-var mnemonic = "early dawn place auto random enhance title twist candy ginger between verify";
+var mnemonic = "arctic mass near pact giraffe simple cinnamon double mystery will project modify";

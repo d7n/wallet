@@ -1,1 +1,1 @@
-var mnemonic = "float accident collect rally riot zero corn movie total naive federal time";
+var mnemonic = "loyal exotic soldier mother nothing jelly danger pluck expect behind tail side";

@@ -1,1 +1,1 @@
-var mnemonic = "wheat ethics volume vintage asthma sick circle hospital dog crunch jealous pair";
+var mnemonic = "joy any universe kiss pole cushion boost obtain much crime early labor";

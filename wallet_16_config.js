@@ -1,1 +1,1 @@
-var mnemonic = "curtain together soap wage visa gesture kid puppy random script distance silk";
+var mnemonic = "hamster lab curve board know enhance balcony essay hybrid clap stereo clever";

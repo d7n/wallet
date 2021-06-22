@@ -1,1 +1,1 @@
-var mnemonic = "middle because try chalk edit lend coyote fragile transfer else nominee obvious";
+var mnemonic = "old foam giraffe mouse beauty surge promote employ assume when wisdom dinner";

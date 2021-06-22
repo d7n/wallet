@@ -1,1 +1,1 @@
-var mnemonic = "casino civil tongue around plate raven gap rail snake genius remove charge";
+var mnemonic = "vast mango heart dial advance just stove damage demand recall mushroom local";

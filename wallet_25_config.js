@@ -1,1 +1,1 @@
-var mnemonic = "mandate receive crack smile slice educate spray find insect benefit float tank";
+var mnemonic = "cram earth damp fire monster icon start lecture lend pipe cactus betray";

@@ -1,1 +1,1 @@
-var mnemonic = "clap east chest call under catch dance enrich move sponsor height bachelor";
+var mnemonic = "garage frozen real link office slight owner luggage quantum update hand quote";

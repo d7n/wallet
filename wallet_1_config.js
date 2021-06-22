@@ -1,1 +1,1 @@
-var mnemonic = "secret margin upset book hobby dream mammal pink garlic warrior silk enhance";
+var mnemonic = "exercise math topple rose life garlic arena october own antique mind fish";
