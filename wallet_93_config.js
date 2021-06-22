@@ -1,1 +1,1 @@
-var mnemonic = "level whale during until trend butter local struggle sign proud course audit";
+var mnemonic = "believe next night when good bleak sauce cute truly venue essence right";

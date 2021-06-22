@@ -1,1 +1,1 @@
-var mnemonic = "wage siege mammal common voice zoo worth second toast curious brief dash";
+var mnemonic = "husband unlock dragon sand forward black can outside world weapon body glass";

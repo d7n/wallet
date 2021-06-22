@@ -1,1 +1,1 @@
-var mnemonic = "unique velvet salute original sphere speak spin shallow antenna betray train elegant";
+var mnemonic = "absorb attract purse middle veteran beach kick palm spike gas primary boil";

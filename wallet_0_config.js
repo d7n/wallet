@@ -1,1 +1,1 @@
-var mnemonic = "idle edit later pave gasp answer ill inquiry imitate large mind during";
+var mnemonic = "brown whale nose motion cloud barrel student valley jewel few rice over";

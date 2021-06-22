@@ -1,1 +1,1 @@
-var mnemonic = "exit they awkward under sail inherit vital basic check harbor total fringe";
+var mnemonic = "tank imitate kind push maximum lecture above normal recycle unfold bind confirm";

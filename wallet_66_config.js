@@ -1,1 +1,1 @@
-var mnemonic = "cage tank limit mercy couple boost vast oven milk ability rail canal";
+var mnemonic = "unit stool island diamond romance material future garage oblige series safe main";

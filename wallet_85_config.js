@@ -1,1 +1,1 @@
-var mnemonic = "route topple spirit advice lunar spice cousin moon adjust jungle element razor";
+var mnemonic = "open faint hood reunion humble entry endless equal stay title region inmate";

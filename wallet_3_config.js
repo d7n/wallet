@@ -1,1 +1,1 @@
-var mnemonic = "enter dune lens scrub decline tank apology virtual romance charge scene bike";
+var mnemonic = "lamp copy change ice bomb tip ride similar twist popular uncle control";

@@ -1,1 +1,1 @@
-var mnemonic = "mosquito syrup nice turtle action taxi original broccoli exhaust banana initial cool";
+var mnemonic = "stone make list upper wood across camera during hedgehog toward series trumpet";

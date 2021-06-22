@@ -1,1 +1,1 @@
-var mnemonic = "cliff lab stay original tail negative table puppy settle cricket jaguar skin";
+var mnemonic = "glass coconut vivid seat mule donor shove copper butter glide cattle expect";

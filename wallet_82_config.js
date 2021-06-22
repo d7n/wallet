@@ -1,1 +1,1 @@
-var mnemonic = "pause seek ostrich ecology column drastic stomach cricket snap fuel great demand";
+var mnemonic = "habit useless zoo blast travel excess pledge open grace utility prosper aunt";

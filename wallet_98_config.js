@@ -1,1 +1,1 @@
-var mnemonic = "regular undo awful dad rough surround neutral outdoor ethics tree fall draw";
+var mnemonic = "dizzy early uphold aisle mention twice shoot they team sad direct mom";

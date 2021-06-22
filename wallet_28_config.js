@@ -1,1 +1,1 @@
-var mnemonic = "orient buddy kick icon better glove turkey gospel guitar ability absorb lift";
+var mnemonic = "mansion mutual fault hollow ensure absorb illness grunt order pottery endorse melt";

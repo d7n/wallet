@@ -1,1 +1,1 @@
-var mnemonic = "cricket siege coach craft nation rotate huge palm alarm hotel eight enrich";
+var mnemonic = "squirrel journey skin ride inquiry employ assist soup climb cook maximum imitate";

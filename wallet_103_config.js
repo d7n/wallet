@@ -1,1 +1,1 @@
-var mnemonic = "fury damage invest range crowd wheat cable uncover oblige polar ethics flat";
+var mnemonic = "rain enrich human frown trash joke nurse negative theme fluid tip nose";

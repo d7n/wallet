@@ -1,1 +1,1 @@
-var mnemonic = "balcony below shoot squeeze captain kiss civil atom vacuum matter little suggest";
+var mnemonic = "artwork attend business boil banner combine waste fiction baby width dash call";

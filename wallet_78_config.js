@@ -1,1 +1,1 @@
-var mnemonic = "assist ring despair agent two unhappy rigid guitar raccoon resource horn abuse";
+var mnemonic = "maple foam liberty knock fragile sport pepper skill auto predict umbrella fly";

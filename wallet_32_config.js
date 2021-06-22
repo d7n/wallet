@@ -1,1 +1,1 @@
-var mnemonic = "orange garlic museum else best zoo defense fox lamp call position purse";
+var mnemonic = "cliff juice guitar spirit close february flash rent great tragic slot pass";

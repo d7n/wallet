@@ -1,1 +1,1 @@
-var mnemonic = "catch joke roast evidence problem report common defense cotton gift unusual warfare";
+var mnemonic = "burden absent birth photo enjoy common walk isolate wild base drum rebuild";

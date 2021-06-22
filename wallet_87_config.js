@@ -1,1 +1,1 @@
-var mnemonic = "comic sail cycle fine enable tribe bus enrich firm twist magnet crash";
+var mnemonic = "ankle name second spot similar grape shed tell state wonder eye gain";

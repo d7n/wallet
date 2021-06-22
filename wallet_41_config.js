@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow link record profit inch heavy flee over sign wrong march recipe";
+var mnemonic = "cost sample heavy cram prize senior afford spice sick flower impact syrup";

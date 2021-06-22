@@ -1,1 +1,1 @@
-var mnemonic = "stand daring hope bring shoe melody gasp humor quote fiction pluck tooth";
+var mnemonic = "snap meadow october arrange husband fire girl where need exhaust man educate";

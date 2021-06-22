@@ -1,1 +1,1 @@
-var mnemonic = "cliff endless goddess effort service miracle skate secret clinic logic swallow next";
+var mnemonic = "canal dilemma extra sketch toast alarm orbit dawn aspect wheel spoon require";

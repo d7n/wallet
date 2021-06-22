@@ -1,1 +1,1 @@
-var mnemonic = "patch cherry cause lunar shaft target skate stone sudden annual boil wheat";
+var mnemonic = "result lesson symbol dutch arrange present regular farm prosper roast wagon staff";

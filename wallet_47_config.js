@@ -1,1 +1,1 @@
-var mnemonic = "enroll uncle delay feel label wash like devote banana aisle curious remain";
+var mnemonic = "enact orbit miracle toward sunset number index today coral invite enable maximum";

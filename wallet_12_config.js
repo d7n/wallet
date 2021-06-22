@@ -1,1 +1,1 @@
-var mnemonic = "polar lend chicken reduce violin width casual page project ribbon pond cargo";
+var mnemonic = "bitter picnic tiger foster own circle pet busy help poem neglect lava";

@@ -1,1 +1,1 @@
-var mnemonic = "coyote casino lunar drill ridge only abstract steel absent bundle sound robust";
+var mnemonic = "bar save hand jelly airport buffalo because pool van develop argue wide";

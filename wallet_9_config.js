@@ -1,1 +1,1 @@
-var mnemonic = "enact spider idea icon honey exclude recipe laptop machine nominee choice science";
+var mnemonic = "breeze bulb equip lawn behave nephew owner sorry nose mean story sorry";

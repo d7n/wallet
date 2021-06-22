@@ -1,1 +1,1 @@
-var mnemonic = "era visual goose ice twenty trade tennis please clock device steak erupt";
+var mnemonic = "dust library alone swim index victory abstract spread note volume earn pulse";

@@ -1,1 +1,1 @@
-var mnemonic = "marine illness fit enhance upper title drift abandon special betray embody involve";
+var mnemonic = "winner man daughter total grow stand scrap husband coffee scare mammal strike";

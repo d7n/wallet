@@ -1,1 +1,1 @@
-var mnemonic = "attract hurry idle people forget pledge glove entire announce tackle bounce expect";
+var mnemonic = "guitar artefact police phrase fringe teach smooth clay gold chimney feature risk";

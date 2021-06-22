@@ -1,1 +1,1 @@
-var mnemonic = "program safe surround cancel early ramp orchard rural shoot era quick mountain";
+var mnemonic = "sustain meat find maze outside return dial orbit narrow canoe point risk";

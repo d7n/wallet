@@ -1,1 +1,1 @@
-var mnemonic = "fix rigid chest rebel live tower icon argue blame legal scale imitate";
+var mnemonic = "someone umbrella connect truck nuclear wet genre crowd screen junior genre basket";

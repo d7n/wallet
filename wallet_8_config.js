@@ -1,1 +1,1 @@
-var mnemonic = "junior meat camera faint satisfy need spatial arrest about toward two toilet";
+var mnemonic = "replace mix verb steak sing glow fall cycle extend style crop speed";

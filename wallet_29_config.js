@@ -1,1 +1,1 @@
-var mnemonic = "poverty auto term knee rail such venue unfold put struggle inner chronic";
+var mnemonic = "wild apple enough best latin renew media rebuild pill accuse talent list";

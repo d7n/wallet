@@ -1,1 +1,1 @@
-var mnemonic = "east hedgehog physical bargain hub disorder matrix casual siren limb index tell";
+var mnemonic = "swallow job author load under ride canyon consider royal video flush label";

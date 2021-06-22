@@ -1,1 +1,1 @@
-var mnemonic = "bonus token border sibling cover grape armed great area search layer wild";
+var mnemonic = "luggage hub derive decade urge decline must trade slush brick tortoise music";

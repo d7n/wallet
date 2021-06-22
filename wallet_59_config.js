@@ -1,1 +1,1 @@
-var mnemonic = "gallery expire snack purchase lend myself robust ordinary hazard crack beef rail";
+var mnemonic = "digital figure physical intact upset loud zebra loud resist choose season betray";

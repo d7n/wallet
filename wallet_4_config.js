@@ -1,1 +1,1 @@
-var mnemonic = "monster stuff wealth deal rain crew coin dinner goddess poverty maple dignity";
+var mnemonic = "icon orange yellow armor tenant mouse exist cricket excite electric actor poverty";

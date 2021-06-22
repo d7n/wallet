@@ -1,1 +1,1 @@
-var mnemonic = "that catch sting rate meadow happy other dolphin common practice shoulder robot";
+var mnemonic = "pottery slogan legal illegal polar route acoustic manage scissors because retreat explain";

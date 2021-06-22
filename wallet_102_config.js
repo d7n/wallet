@@ -1,1 +1,1 @@
-var mnemonic = "angle race settle happy easy skull junior bean glory drink satisfy planet";
+var mnemonic = "album pistol ceiling hazard such joke almost gloom orchard camp demand defy";

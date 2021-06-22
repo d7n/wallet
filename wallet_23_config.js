@@ -1,1 +1,1 @@
-var mnemonic = "sweet sign fitness velvet stadium mixture echo narrow talk obey virus denial";
+var mnemonic = "forum loop suspect connect rhythm arena priority shrimp flush tape lucky moral";

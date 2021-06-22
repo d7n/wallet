@@ -1,1 +1,1 @@
-var mnemonic = "decline adult oval elephant trap cupboard coin venture soldier december midnight crew";
+var mnemonic = "fox health burst equip infant other ugly mail gather jump annual absurd";

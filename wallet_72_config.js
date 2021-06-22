@@ -1,1 +1,1 @@
-var mnemonic = "net world copy between ship voice song arctic uniform zoo pretty know";
+var mnemonic = "journey mule sniff expand bunker weapon sound sister inject job cross level";

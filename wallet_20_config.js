@@ -1,1 +1,1 @@
-var mnemonic = "oxygen field fall search grass repair pelican hip runway puzzle manual symbol";
+var mnemonic = "old whip maid wood claim win alcohol hurdle icon anger approve youth";

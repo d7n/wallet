@@ -1,1 +1,1 @@
-var mnemonic = "slide guard maze nuclear panel marine illegal ball deer just borrow deal";
+var mnemonic = "rabbit immune swim together seven style pumpkin scrap average century twist poet";

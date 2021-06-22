@@ -1,1 +1,1 @@
-var mnemonic = "eye vintage joy thank symbol often royal saddle rural trend ride impulse";
+var mnemonic = "gesture lens private connect grief soul neglect wealth ecology unhappy wild true";

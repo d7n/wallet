@@ -1,1 +1,1 @@
-var mnemonic = "lawn news picture bean used label chair blast photo come monitor forward";
+var mnemonic = "neck humble north century hen refuse pupil donkey tag truck kingdom judge";

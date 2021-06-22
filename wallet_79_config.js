@@ -1,1 +1,1 @@
-var mnemonic = "moment nose swamp rice job hour material beef common bounce type friend";
+var mnemonic = "forget inside attend south expect vivid obey grow sugar olympic road fix";

@@ -1,1 +1,1 @@
-var mnemonic = "father police garage mix wink cruel mechanic friend remain genius satisfy gun";
+var mnemonic = "unknown people process leg reward valve crucial detect trick obey slim choose";

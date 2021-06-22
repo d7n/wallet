@@ -1,1 +1,1 @@
-var mnemonic = "leopard century weasel image pony weekend blame cream hollow napkin glue exit";
+var mnemonic = "cloth steak forum stadium occur predict when return moon play furnace treat";

@@ -1,1 +1,1 @@
-var mnemonic = "law sound cry theory wrestle butter atom poem bomb oak leaf fury";
+var mnemonic = "trim bounce replace depart prevent layer already absorb ability enjoy flame bicycle";

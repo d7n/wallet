@@ -1,1 +1,1 @@
-var mnemonic = "muffin drill mule toy pioneer shoe shop lesson tragic give denial swap";
+var mnemonic = "client course control fence cloud curve fossil dance cheese flame eight lend";

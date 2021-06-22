@@ -1,1 +1,1 @@
-var mnemonic = "multiply plunge work call discover lens among visa artist major card crater";
+var mnemonic = "hybrid weird brown perfect inside duty wild explain gain fitness ranch energy";

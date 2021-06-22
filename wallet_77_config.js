@@ -1,1 +1,1 @@
-var mnemonic = "demand fabric maximum have lyrics mandate fiber visual service mention rent army";
+var mnemonic = "sheriff ill patch visit drop patrol catalog denial action priority purpose kitten";

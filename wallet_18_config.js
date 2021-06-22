@@ -1,1 +1,1 @@
-var mnemonic = "dial raw social liberty kiwi panic fantasy glide rice loan rail weather";
+var mnemonic = "mandate sketch puppy theory voice track feed attract act sell bike among";

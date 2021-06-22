@@ -1,1 +1,1 @@
-var mnemonic = "inform enjoy wash off awesome first math still patient maid cute inhale";
+var mnemonic = "voice under gospel misery blouse frost blade auto organ mad illness absent";

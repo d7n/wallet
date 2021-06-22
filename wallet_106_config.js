@@ -1,1 +1,1 @@
-var mnemonic = "disease calm depth vehicle whisper april awful during diet raven ozone entire";
+var mnemonic = "cry blade clever dutch roast void slam patch east aspect donkey because";

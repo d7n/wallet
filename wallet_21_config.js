@@ -1,1 +1,1 @@
-var mnemonic = "same harbor dry say east curious unusual spare have average aunt riot";
+var mnemonic = "course injury excuse holiday outdoor either lazy crash poet can despair marriage";

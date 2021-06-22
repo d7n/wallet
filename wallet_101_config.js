@@ -1,1 +1,1 @@
-var mnemonic = "remind lobster recall lift finish brisk jazz symbol green hand endless shine";
+var mnemonic = "easily fantasy tone neck ethics acid shock reject roof neither avocado spend";

@@ -1,1 +1,1 @@
-var mnemonic = "atom gun vacuum fade urge abstract science doctor topple neglect scatter lottery";
+var mnemonic = "weather senior kiss spike aware fiction whisper spin cable color heart quit";

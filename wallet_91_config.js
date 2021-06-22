@@ -1,1 +1,1 @@
-var mnemonic = "century furnace enforce hamster forum half boil emerge april true field stable";
+var mnemonic = "blade embrace achieve lamp hand fall rely before raccoon brush brisk gain";

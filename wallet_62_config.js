@@ -1,1 +1,1 @@
-var mnemonic = "there turn lake grab worth family fork expose glare earn wet clock";
+var mnemonic = "index giggle forest pact busy what shift leisure theme toy fiber tray";

@@ -1,1 +1,1 @@
-var mnemonic = "bring glad age dirt imitate peasant risk invest tube athlete ring only";
+var mnemonic = "area curtain outdoor flame any vehicle ostrich elegant foot erosion helmet brief";

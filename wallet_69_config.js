@@ -1,1 +1,1 @@
-var mnemonic = "dash wool fee affair famous typical will crunch aunt walk person velvet";
+var mnemonic = "ecology mechanic general body conduct space grape craft believe sudden column forward";

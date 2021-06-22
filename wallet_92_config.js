@@ -1,1 +1,1 @@
-var mnemonic = "young hill kite chase program attend weather tooth three youth blouse one";
+var mnemonic = "diesel buyer kitten venture ridge coast pass wheel theory multiply region drum";

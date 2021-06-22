@@ -1,1 +1,1 @@
-var mnemonic = "slight lamp mammal egg senior sausage glow innocent drastic wet season message";
+var mnemonic = "hint valve absent imitate ordinary iron that lecture load ozone youth resource";

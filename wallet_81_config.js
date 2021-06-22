@@ -1,1 +1,1 @@
-var mnemonic = "chicken inside reveal number warfare carpet mom meat disease kind fatal obtain";
+var mnemonic = "zero world spider pear recipe wise magnet oxygen ability cross cat hobby";

@@ -1,1 +1,1 @@
-var mnemonic = "final hint under find museum cinnamon move wrist gallery tilt tip skin";
+var mnemonic = "city slot million elite pill multiply island twenty salmon spice want control";

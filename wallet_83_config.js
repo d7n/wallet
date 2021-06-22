@@ -1,1 +1,1 @@
-var mnemonic = "donate depart output bean question globe destroy priority honey express stone guilt";
+var mnemonic = "artefact word ship case dust output skirt web hungry slice fold ignore";

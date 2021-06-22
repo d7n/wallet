@@ -1,1 +1,1 @@
-var mnemonic = "liquid car ceiling faint glimpse crack novel romance organ edge advance armor";
+var mnemonic = "dream direct awake fetch forum trap wet coffee ceiling shallow room crush";

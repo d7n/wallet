@@ -1,1 +1,1 @@
-var mnemonic = "suffer cream harbor mosquito mammal bridge purity short alpha disorder lumber favorite";
+var mnemonic = "trend purity rabbit laugh process tail roof pear furnace situate equip cook";

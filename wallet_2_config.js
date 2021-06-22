@@ -1,1 +1,1 @@
-var mnemonic = "hunt blanket web gown school piece possible purity other bridge budget avoid";
+var mnemonic = "sword ignore orbit stool adapt scrap heavy garage essay very post cash";

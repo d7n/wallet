@@ -1,1 +1,1 @@
-var mnemonic = "deny jewel design mosquito nature relax library throw notable trade dish eight";
+var mnemonic = "farm equip actor crack tree dream cake october world flat fog dust";

@@ -1,1 +1,1 @@
-var mnemonic = "dizzy anxiety economy very mechanic please lazy stumble strategy answer immense plunge";
+var mnemonic = "balcony scheme save size hidden industry door border ankle tuition visa slam";

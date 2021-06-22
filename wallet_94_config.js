@@ -1,1 +1,1 @@
-var mnemonic = "pattern pole shock slogan end fix middle sponsor right warfare mouse sand";
+var mnemonic = "buyer cable reward spice edit proof bread fire brisk assist control shy";

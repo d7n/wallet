@@ -1,1 +1,1 @@
-var mnemonic = "abuse gain notice thought deputy table clever craft hold entire ladder grief";
+var mnemonic = "prize resemble door room wool bread model jealous bitter assume sell hawk";

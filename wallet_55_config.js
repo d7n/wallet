@@ -1,1 +1,1 @@
-var mnemonic = "teach keen assist price travel custom senior clean tuition deer salad drive";
+var mnemonic = "gas heart liberty base fame hidden early delay mesh tray inside bird";

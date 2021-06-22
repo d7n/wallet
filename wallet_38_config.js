@@ -1,1 +1,1 @@
-var mnemonic = "lucky mango sail mad bird grab surprise enrich badge cry doll connect";
+var mnemonic = "gasp option lecture street morning egg endless cake common enter lion flag";

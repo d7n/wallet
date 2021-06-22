@@ -1,1 +1,1 @@
-var mnemonic = "social violin toward immune holiday cliff purse aspect viable school test join";
+var mnemonic = "trust spoil shop begin yellow detect chunk glass absent upset income empty";

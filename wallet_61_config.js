@@ -1,1 +1,1 @@
-var mnemonic = "also uphold car merge tent verify few planet flip peanut awesome unhappy";
+var mnemonic = "virtual hard aisle eight crime scheme flash scatter job cactus spray picnic";

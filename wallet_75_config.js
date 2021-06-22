@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon endorse party horse valley song wall aunt also nerve initial rabbit";
+var mnemonic = "impose decade artist melt soft post exist dream false media gentle acquire";

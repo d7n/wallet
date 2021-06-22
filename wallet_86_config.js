@@ -1,1 +1,1 @@
-var mnemonic = "fault cry alcohol brass merge dilemma depart program poet off seminar monkey";
+var mnemonic = "mystery real swear twelve area lizard lonely trouble topic hole involve decline";

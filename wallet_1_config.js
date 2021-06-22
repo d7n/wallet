@@ -1,1 +1,1 @@
-var mnemonic = "hub dice salt vibrant replace poem ancient sort behind topic nurse powder";
+var mnemonic = "twin judge prosper venture gravity grab cover divorce town melt exact jar";

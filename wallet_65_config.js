@@ -1,1 +1,1 @@
-var mnemonic = "bulb fall planet mule legal lemon forum law cost opera carry renew";
+var mnemonic = "unique garden polar betray farm city supply machine cliff just coconut indoor";

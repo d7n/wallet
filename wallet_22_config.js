@@ -1,1 +1,1 @@
-var mnemonic = "jacket clog alley hill like coral reason friend news want truck flee";
+var mnemonic = "nephew shoot maximum raise horn pave leaf mad medal coast hard lumber";

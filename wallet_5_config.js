@@ -1,1 +1,1 @@
-var mnemonic = "blood slot because life appear tattoo warrior achieve fish prize eye juice";
+var mnemonic = "cherry extra net galaxy bleak cancel grit feel brain unfold humor bachelor";

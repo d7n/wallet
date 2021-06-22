@@ -1,1 +1,1 @@
-var mnemonic = "mountain blossom myself such clinic fade wave uncle tiger axis tumble bread";
+var mnemonic = "tooth bottom pet fragile sauce current vintage rural awake force switch subject";

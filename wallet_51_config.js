@@ -1,1 +1,1 @@
-var mnemonic = "deny repair bench club bright exact tray link universe pepper tissue arrow";
+var mnemonic = "cannon siege hen genuine autumn adjust again cute mushroom imitate bitter tumble";

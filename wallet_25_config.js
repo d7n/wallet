@@ -1,1 +1,1 @@
-var mnemonic = "man stadium medal recycle absurd expire number broom bamboo renew fuel opera";
+var mnemonic = "wrestle toward quote salad chunk build garment virtual glove wall capital swap";

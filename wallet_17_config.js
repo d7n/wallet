@@ -1,1 +1,1 @@
-var mnemonic = "garage sustain fuel poem prevent verb rail eight pupil direct city ancient";
+var mnemonic = "sound once page soda wasp feel fence rebuild jewel fence slice trick";
