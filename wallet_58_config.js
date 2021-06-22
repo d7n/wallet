@@ -1,1 +1,1 @@
-var mnemonic = "chronic goddess clump sort daughter solid paper exhibit satoshi rack tell smoke";
+var mnemonic = "arrive old pledge task universe tattoo win napkin arrow fame renew foot";

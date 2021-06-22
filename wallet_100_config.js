@@ -1,1 +1,1 @@
-var mnemonic = "excite ribbon car high exhibit rigid ahead seminar slight orphan mother hurdle";
+var mnemonic = "doll best buzz spray hollow half put volcano seat list gossip poet";

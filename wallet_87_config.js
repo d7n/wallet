@@ -1,1 +1,1 @@
-var mnemonic = "crash cash slot shock affair around dinosaur unfair peace roast armor believe";
+var mnemonic = "media wire carbon bike blur joy parade knee lawn trophy brave plate";

@@ -1,1 +1,1 @@
-var mnemonic = "flat spatial dynamic plate bounce mystery chunk front upset shock citizen item";
+var mnemonic = "night advice merge obvious pitch girl soon nation jazz shoulder artwork gate";

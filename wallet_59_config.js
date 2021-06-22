@@ -1,1 +1,1 @@
-var mnemonic = "goat stock picnic neither ill assume soda dog galaxy humble shy galaxy";
+var mnemonic = "buffalo gun digital mixed soda hint salad grit turkey toy sudden leopard";

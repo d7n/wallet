@@ -1,1 +1,1 @@
-var mnemonic = "chronic series spare rocket base echo catalog reflect heavy thumb oblige shop";
+var mnemonic = "rice inside together apple help cave kitchen fire obey argue broom never";

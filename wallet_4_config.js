@@ -1,1 +1,1 @@
-var mnemonic = "approve scorpion tuition social van imitate depend where range fitness nose vote";
+var mnemonic = "vehicle caught sail east pyramid over any bullet federal detect sorry system";

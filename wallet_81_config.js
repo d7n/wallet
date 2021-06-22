@@ -1,1 +1,1 @@
-var mnemonic = "depth meat version never catch fetch wife detect carbon horror return column";
+var mnemonic = "stereo permit success shield border praise evidence before latin reduce stand also";

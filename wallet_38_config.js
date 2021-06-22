@@ -1,1 +1,1 @@
-var mnemonic = "need grocery quit spider cute impose picnic slogan love man rule travel";
+var mnemonic = "powder sign type belt wool insect pact six chef relief prevent orbit";

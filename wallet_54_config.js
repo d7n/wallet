@@ -1,1 +1,1 @@
-var mnemonic = "knock huge rule insane acquire same armor silly bubble senior east promote";
+var mnemonic = "enforce print group sausage tide puzzle rabbit brisk limit tragic mammal client";

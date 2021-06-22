@@ -1,1 +1,1 @@
-var mnemonic = "renew rabbit bulk topic enforce describe delay letter garden talent equip inmate";
+var mnemonic = "marine toilet common type chest police dawn media bean client spin raccoon";

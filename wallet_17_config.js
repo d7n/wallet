@@ -1,1 +1,1 @@
-var mnemonic = "vocal bulb material ceiling clap soldier science kangaroo ten lock also tape";
+var mnemonic = "tongue trust raise accuse nephew bulk flush north obscure exhaust worth basket";

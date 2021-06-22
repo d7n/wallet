@@ -1,1 +1,1 @@
-var mnemonic = "laugh fortune motion enhance resist pulse holiday song spin scout bronze make";
+var mnemonic = "green horror weapon frequent ugly soda heavy offer aspect stay matter drive";

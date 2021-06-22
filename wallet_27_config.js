@@ -1,1 +1,1 @@
-var mnemonic = "despair myth snack ozone cry open start diesel relax flip ketchup female";
+var mnemonic = "weekend mail glory wealth marriage drop south embark sauce inflict fiber strong";

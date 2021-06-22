@@ -1,1 +1,1 @@
-var mnemonic = "client reject truth century admit right minimum piano creek poet slow seek";
+var mnemonic = "smoke fitness miracle reform process blast critic soldier monster bulk gate report";

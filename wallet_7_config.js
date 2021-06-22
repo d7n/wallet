@@ -1,1 +1,1 @@
-var mnemonic = "mesh silly drastic imitate crowd burden velvet patrol east urban shop clip";
+var mnemonic = "scene vital please beyond scorpion blossom pact inspire planet task robot razor";

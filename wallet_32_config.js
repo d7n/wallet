@@ -1,1 +1,1 @@
-var mnemonic = "margin dry liquid slam flush will service busy put praise awful chat";
+var mnemonic = "holiday couple vital scatter subway edge steel host emerge pioneer lunch diary";

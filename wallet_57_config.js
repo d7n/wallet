@@ -1,1 +1,1 @@
-var mnemonic = "genuine load student clerk cherry knock grain violin clock weasel peanut wedding";
+var mnemonic = "dress spend artefact someone hungry alley expand dumb fork present tourist tree";

@@ -1,1 +1,1 @@
-var mnemonic = "ill test shield round woman taxi divert spider castle smooth torch about";
+var mnemonic = "program test squirrel kiss pipe art mesh fringe pass false pretty casino";

@@ -1,1 +1,1 @@
-var mnemonic = "fiscal duty gloom drive luxury order gather fine mad mesh puzzle siege";
+var mnemonic = "tunnel state argue later service mosquito photo verify wave tissue ready describe";

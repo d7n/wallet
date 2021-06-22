@@ -1,1 +1,1 @@
-var mnemonic = "dawn vacant loan adjust wish staff elegant silly peanut eternal cat diet";
+var mnemonic = "winner junk sense open nominee heart lunar absorb cruel swear proud bind";

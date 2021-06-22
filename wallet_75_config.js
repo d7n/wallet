@@ -1,1 +1,1 @@
-var mnemonic = "august shop ginger dad parrot razor wire rich robot grant kind satoshi";
+var mnemonic = "bid behind sight cart turtle garlic below space spike into prevent brief";

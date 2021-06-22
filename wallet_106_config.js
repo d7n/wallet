@@ -1,1 +1,1 @@
-var mnemonic = "flower lonely focus blush sign animal earn purity lab silent stove omit";
+var mnemonic = "hero cross lamp range title journey agent original endless front slice naive";

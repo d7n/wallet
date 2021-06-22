@@ -1,1 +1,1 @@
-var mnemonic = "total habit grunt ring protect label portion surround grain merit garbage october";
+var mnemonic = "genre only brother train juice hat outdoor scrub shift exile ethics alley";

@@ -1,1 +1,1 @@
-var mnemonic = "dynamic chimney erase magnet canal casual rice sweet veteran promote rival retreat";
+var mnemonic = "cover ancient dose across gaze prosper decade upgrade thought warrior flame shield";

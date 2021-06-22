@@ -1,1 +1,1 @@
-var mnemonic = "mixture pear cancel disease exit vote ladder announce crush spoil double face";
+var mnemonic = "card example dune team detect elder verify radar general mixture palace shrimp";

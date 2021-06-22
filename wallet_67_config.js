@@ -1,1 +1,1 @@
-var mnemonic = "decade vibrant snake hybrid able owner crime lion feature add execute require";
+var mnemonic = "have hello gospel explain top echo eternal kick poem gap scare damp";

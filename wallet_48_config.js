@@ -1,1 +1,1 @@
-var mnemonic = "harbor retire crumble goat small soon only copper must cherry enroll estate";
+var mnemonic = "rally velvet glove hedgehog mansion unknown adjust razor cactus potato ring resist";

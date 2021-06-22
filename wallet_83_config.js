@@ -1,1 +1,1 @@
-var mnemonic = "wool early oak bulk inhale entry asthma fall vessel cat maze mimic";
+var mnemonic = "also plate similar physical push early turn patient crew liberty trust govern";

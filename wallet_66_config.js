@@ -1,1 +1,1 @@
-var mnemonic = "spirit trim animal quote pole addict trash common claim tray rose language";
+var mnemonic = "gorilla term swing guitar puppy chronic reason electric whisper pony return media";

@@ -1,1 +1,1 @@
-var mnemonic = "work vote farm denial promote casual come box slot steel there lucky";
+var mnemonic = "day always idea predict curtain bicycle discover cloth hole hobby cancel flock";

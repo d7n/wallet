@@ -1,1 +1,1 @@
-var mnemonic = "essence direct vote pitch cherry bottom hurdle entire climb smooth opinion dial";
+var mnemonic = "can often faculty valve spray travel upper parent giggle gaze pelican camera";

@@ -1,1 +1,1 @@
-var mnemonic = "position off believe sausage best great mystery second message word item ozone";
+var mnemonic = "inside lesson talk praise enable end wage amateur sudden main oppose boil";

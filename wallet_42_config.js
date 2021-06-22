@@ -1,1 +1,1 @@
-var mnemonic = "tissue cluster sun era wagon receive reward bag hurry harsh method milk";
+var mnemonic = "job surround drill dry payment end lock face virus oil priority brief";

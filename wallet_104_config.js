@@ -1,1 +1,1 @@
-var mnemonic = "acquire tragic stand upper angle mystery effort click dizzy stairs awkward bench";
+var mnemonic = "duty absorb plastic empty raven news noble genuine album village torch remain";

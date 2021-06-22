@@ -1,1 +1,1 @@
-var mnemonic = "column blossom indicate urge physical detail winter best genuine order syrup entry";
+var mnemonic = "sail immense web federal hurry inflict kangaroo black peanut visa neither flip";

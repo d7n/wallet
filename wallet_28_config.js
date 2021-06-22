@@ -1,1 +1,1 @@
-var mnemonic = "sponsor august exclude teach faith solution whisper theory expire tonight unusual noise";
+var mnemonic = "sell escape split cinnamon wedding master faculty worry actor plunge name else";

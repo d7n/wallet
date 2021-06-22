@@ -1,1 +1,1 @@
-var mnemonic = "meat permit umbrella elder tray damp segment sister decrease bind moment wing";
+var mnemonic = "elephant acid burden digital beyond cash west act base crucial thumb nurse";

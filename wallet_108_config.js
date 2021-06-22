@@ -1,1 +1,1 @@
-var mnemonic = "kidney saddle fiction nephew chase pelican crack charge way picnic actual wing";
+var mnemonic = "width skull taxi forum reduce focus candy talent review tree diesel absent";

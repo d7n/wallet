@@ -1,1 +1,1 @@
-var mnemonic = "soul skull buddy rice rifle silly detail toilet fee rain eager world";
+var mnemonic = "sing sausage remain engine hood alone hover obscure open wash leave absurd";

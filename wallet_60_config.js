@@ -1,1 +1,1 @@
-var mnemonic = "other movie gallery abuse pledge match close jacket aspect news wrap pretty";
+var mnemonic = "obscure confirm rule menu huge afraid net access tilt demand tuna fever";

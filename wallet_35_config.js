@@ -1,1 +1,1 @@
-var mnemonic = "swarm ridge spot scrap smooth attitude escape stay couple humble topic limit";
+var mnemonic = "film devote exchange reason sunny giant gown life grain blade genius sure";

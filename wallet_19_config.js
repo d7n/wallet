@@ -1,1 +1,1 @@
-var mnemonic = "immense civil veteran brush onion stay bargain master skirt course usual climb";
+var mnemonic = "wisdom inmate captain ridge chair surprise pond case dad mule spend text";

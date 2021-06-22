@@ -1,1 +1,1 @@
-var mnemonic = "punch illegal refuse nephew tent wall that grief warm save oblige echo";
+var mnemonic = "vague various trap trim fall quote galaxy idle couple balance copper pear";

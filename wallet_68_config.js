@@ -1,1 +1,1 @@
-var mnemonic = "shock involve fabric honey dream coyote have wood edge prosper squirrel unknown";
+var mnemonic = "spend shrimp remind settle input subway plate still cradle same patrol file";

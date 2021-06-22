@@ -1,1 +1,1 @@
-var mnemonic = "north armed series adapt intact wheel just brother stool pave only spider";
+var mnemonic = "bird silk twelve gather click omit more weapon child spoon cycle jar";

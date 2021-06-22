@@ -1,1 +1,1 @@
-var mnemonic = "digital south excite pause patient timber foil tired width exist common code";
+var mnemonic = "tide drum bring energy couch figure seven history kitten arm section tape";

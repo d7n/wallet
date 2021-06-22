@@ -1,1 +1,1 @@
-var mnemonic = "alley zoo because reflect nose hurdle genius couch enlist travel deliver play";
+var mnemonic = "divide profit hand cheese ecology rug slogan kitchen change bridge field burden";

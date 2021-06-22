@@ -1,1 +1,1 @@
-var mnemonic = "inject case lounge brass canyon file drum hundred wreck dentist foster mutual";
+var mnemonic = "picnic grow other shrug toward middle neglect angry immense unable cruel vault";

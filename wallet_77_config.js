@@ -1,1 +1,1 @@
-var mnemonic = "despair size bacon rent swarm stable spy bench van climb foster anxiety";
+var mnemonic = "august imitate gesture uniform until boat width capable radio toilet talent engage";

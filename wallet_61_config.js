@@ -1,1 +1,1 @@
-var mnemonic = "security parent space ahead poem beach pride inquiry hint exercise item burden";
+var mnemonic = "ten thrive liberty spray damp profit invite cabin absorb foam range fresh";

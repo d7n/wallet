@@ -1,1 +1,1 @@
-var mnemonic = "spawn inch wet hat cash slim glance insane shop jump flower concert";
+var mnemonic = "bonus flip identify tonight blame basket twelve current often inside claim copper";

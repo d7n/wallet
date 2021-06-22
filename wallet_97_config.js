@@ -1,1 +1,1 @@
-var mnemonic = "comfort wall trade captain palace elegant donkey salmon draft radar easily loyal";
+var mnemonic = "fine maximum abstract issue police use fold simple kitten best lottery ticket";

@@ -1,1 +1,1 @@
-var mnemonic = "fold vessel crawl swarm boy mercy hope sport noble chest super museum";
+var mnemonic = "stove whale nominee hurt ladder fix helmet hamster spin convince balcony pond";

@@ -1,1 +1,1 @@
-var mnemonic = "body jar february notice dove abandon siege lounge resource laundry entry assume";
+var mnemonic = "busy situate lab liquid logic entry smooth crisp grant direct lounge course";

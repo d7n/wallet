@@ -1,1 +1,1 @@
-var mnemonic = "basket unknown choose pencil leg meadow hurdle unhappy dynamic aisle veteran ethics";
+var mnemonic = "ten risk sound joke tip vanish three zero genuine equal dilemma upper";

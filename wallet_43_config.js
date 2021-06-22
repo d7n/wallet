@@ -1,1 +1,1 @@
-var mnemonic = "issue hammer funny proud gospel pole cliff cause usage lobster quiz sell";
+var mnemonic = "riot avoid organ pudding eyebrow curtain accident bulb early effort move cereal";

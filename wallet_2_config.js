@@ -1,1 +1,1 @@
-var mnemonic = "drop raccoon suit symptom welcome attend garbage ski ridge track help hole";
+var mnemonic = "wife average report dash taxi airport nerve autumn typical million someone salute";

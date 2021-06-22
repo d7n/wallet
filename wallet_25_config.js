@@ -1,1 +1,1 @@
-var mnemonic = "error festival symptom never flavor direct deal mystery guilt bag guess evidence";
+var mnemonic = "repeat harsh thrive soup lift bone century sample peanut under country fame";

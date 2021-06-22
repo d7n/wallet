@@ -1,1 +1,1 @@
-var mnemonic = "chicken castle foot velvet addict call smoke sniff crack cruise syrup spend";
+var mnemonic = "stage squeeze prevent umbrella frown soup climb below key term hand luggage";

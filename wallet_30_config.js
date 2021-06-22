@@ -1,1 +1,1 @@
-var mnemonic = "tilt same expand idea ladder reason mistake beauty involve peasant stand tumble";
+var mnemonic = "yellow hammer exchange lesson sphere clever crush doctor wool ghost frown measure";

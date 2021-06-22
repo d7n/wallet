@@ -1,1 +1,1 @@
-var mnemonic = "please short corn holiday squeeze holiday bind trick rice dwarf salute quit";
+var mnemonic = "monitor minimum affair emotion retreat proud razor skin response buffalo ability boring";

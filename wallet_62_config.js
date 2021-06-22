@@ -1,1 +1,1 @@
-var mnemonic = "maple cash funny donor second detect among recycle route guilt wolf that";
+var mnemonic = "thank mimic grow ancient then absent famous network uphold offer roast chronic";

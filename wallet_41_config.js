@@ -1,1 +1,1 @@
-var mnemonic = "under tackle earn upset reduce favorite heart pig wisdom silly frown gorilla";
+var mnemonic = "toy sauce kite salt bundle ceiling blast comfort crystal depart crack situate";

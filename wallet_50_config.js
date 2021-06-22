@@ -1,1 +1,1 @@
-var mnemonic = "industry change impulse cry combine someone happy creek relief increase know blood";
+var mnemonic = "click tourist logic athlete settle depend change view best harbor pledge mountain";

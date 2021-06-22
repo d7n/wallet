@@ -1,1 +1,1 @@
-var mnemonic = "beyond pear ill decline evolve soldier shine noble gym art chaos educate";
+var mnemonic = "gauge excite grace budget fabric virtual genre nephew code focus enact know";

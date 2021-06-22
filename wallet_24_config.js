@@ -1,1 +1,1 @@
-var mnemonic = "region purity awake online explain spoon neither orient desk level clarify nasty";
+var mnemonic = "weapon turn pond duck pepper huge divorce stay emotion comfort supply giggle";

@@ -1,1 +1,1 @@
-var mnemonic = "bargain cash flight frozen digital half guess exit horror faculty pause siren";
+var mnemonic = "jaguar act deer robust lunch scare price robust pond payment price when";

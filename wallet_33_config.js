@@ -1,1 +1,1 @@
-var mnemonic = "leaf cute sentence hollow assist soldier assist lock enjoy direct unusual tree";
+var mnemonic = "bubble ladder seed wish spin advice doll exhibit discover wait party bullet";

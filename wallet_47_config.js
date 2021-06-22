@@ -1,1 +1,1 @@
-var mnemonic = "equip rare alien will donor tragic broken master another oak update luggage";
+var mnemonic = "crush rule angry parent boring expire tell task luggage glass shock rigid";

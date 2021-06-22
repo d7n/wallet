@@ -1,1 +1,1 @@
-var mnemonic = "leaf cash jump cabin route myth pool diagram error elephant alarm source";
+var mnemonic = "oven tray crouch fatigue crew pave increase obvious lab base dust behave";

@@ -1,1 +1,1 @@
-var mnemonic = "uncle ancient embrace bargain ridge circle device mushroom wire mercy club arctic";
+var mnemonic = "piece tragic slush eager grief tomorrow blush local tired artist pepper syrup";

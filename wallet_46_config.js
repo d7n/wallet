@@ -1,1 +1,1 @@
-var mnemonic = "south stage start predict satisfy mail journey produce acid monkey raw orbit";
+var mnemonic = "shell distance naive success copy border knock hedgehog truly report side unfair";

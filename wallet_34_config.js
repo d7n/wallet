@@ -1,1 +1,1 @@
-var mnemonic = "dizzy hockey salute stay raise tobacco animal street chase occur slow learn";
+var mnemonic = "alien glare daughter gospel flame suspect grant cruel senior play burst barrel";

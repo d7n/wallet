@@ -1,1 +1,1 @@
-var mnemonic = "country blush monster panic swarm endorse disagree life absurd erase tide baby";
+var mnemonic = "pull crumble amount text issue genuine march artefact upper youth wealth genre";

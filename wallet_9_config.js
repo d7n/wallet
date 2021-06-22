@@ -1,1 +1,1 @@
-var mnemonic = "wild unhappy atom gap include fat home pigeon snack jacket poem spot";
+var mnemonic = "name network equal soda avoid trash warfare auction obey replace reunion response";

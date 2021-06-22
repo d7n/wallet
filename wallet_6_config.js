@@ -1,1 +1,1 @@
-var mnemonic = "industry stadium empower sure remove author unfold humble barrel use verify calm";
+var mnemonic = "east craft absorb riot auto useful echo butter text fix donor torch";

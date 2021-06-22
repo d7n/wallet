@@ -1,1 +1,1 @@
-var mnemonic = "genre village cabbage creek entire basket unit soda lawn safe expose screen";
+var mnemonic = "actress weasel like wrist donate figure theme ivory rescue rural pass gate";

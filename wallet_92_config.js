@@ -1,1 +1,1 @@
-var mnemonic = "quit domain young combine behave earn rather annual credit bunker fringe apology";
+var mnemonic = "grass girl crazy picnic mammal match staff love pattern volume level whip";

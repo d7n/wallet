@@ -1,1 +1,1 @@
-var mnemonic = "sun want wet pig school method goat enjoy shrimp venue raccoon appear";
+var mnemonic = "section danger kingdom husband okay wire base pledge jungle census pill chapter";

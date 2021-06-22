@@ -1,1 +1,1 @@
-var mnemonic = "stamp model report sausage lucky prison april cheap tone vacant ethics hood";
+var mnemonic = "priority lawsuit enforce undo print satoshi foot employ train pelican divide sphere";

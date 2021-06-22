@@ -1,1 +1,1 @@
-var mnemonic = "flash mule session person grief load honey reduce traffic wet bar unfair";
+var mnemonic = "loud struggle width elevator album warm weekend unaware traffic unable chat genre";

@@ -1,1 +1,1 @@
-var mnemonic = "keen two love uniform gather move estate rate legend cotton dizzy trumpet";
+var mnemonic = "fatigue kind verb source praise fork test urban canvas such blossom cruel";

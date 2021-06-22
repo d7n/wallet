@@ -1,1 +1,1 @@
-var mnemonic = "trip cupboard pretty card egg dizzy language time general lock still spin";
+var mnemonic = "course print vast roast rack scrub thought carry auction term pudding spoil";

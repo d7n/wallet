@@ -1,1 +1,1 @@
-var mnemonic = "faculty shock scout detail success guitar brisk you acoustic fun evoke shell";
+var mnemonic = "plate pumpkin ticket jar uphold jungle post detail myself drip oblige water";

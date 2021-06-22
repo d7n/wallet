@@ -1,1 +1,1 @@
-var mnemonic = "forest flash artist boy pencil strong august squeeze average physical word zebra";
+var mnemonic = "column liar resource destroy weekend phrase profit office detect school cream lyrics";

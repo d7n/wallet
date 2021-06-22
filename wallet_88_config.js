@@ -1,1 +1,1 @@
-var mnemonic = "major sail federal elephant split echo humble squirrel rose police bachelor detect";
+var mnemonic = "gaze decide solid gather flip process any adapt fetch ski lawn top";

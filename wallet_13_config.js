@@ -1,1 +1,1 @@
-var mnemonic = "exhaust bargain dune between grit invite project wheat mercy family entry cement";
+var mnemonic = "praise staff forward slot guilt print critic bind group eternal among stay";

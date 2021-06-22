@@ -1,1 +1,1 @@
-var mnemonic = "saddle pepper damage audit reject illness enforce exchange bonus dry bitter echo";
+var mnemonic = "nice canyon olympic proof victory lend click minute cross imitate canal green";

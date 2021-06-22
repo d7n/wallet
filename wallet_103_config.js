@@ -1,1 +1,1 @@
-var mnemonic = "boil giant velvet few glow poverty fold crumble laundry wagon apart select";
+var mnemonic = "scheme second foam wrist gallery wink loyal purity thing crime program place";

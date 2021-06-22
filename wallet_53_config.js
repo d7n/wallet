@@ -1,1 +1,1 @@
-var mnemonic = "steel glass top empty cross thank current boat news height day chapter";
+var mnemonic = "romance lava minor earth toward heart garage budget minute treat gaze stone";

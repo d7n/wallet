@@ -1,1 +1,1 @@
-var mnemonic = "damage guide assist stand vacuum laugh reward flight run pioneer coach valid";
+var mnemonic = "mercy win rotate lemon pluck car festival topic pear fluid ball become";

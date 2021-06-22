@@ -1,1 +1,1 @@
-var mnemonic = "desk pole shock arctic response ketchup van spot crystal buzz peasant movie";
+var mnemonic = "tattoo burger allow pact current forward gas rose puppy alpha famous melody";

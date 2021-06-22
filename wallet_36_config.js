@@ -1,1 +1,1 @@
-var mnemonic = "false festival fall script olympic artist color census prize dream toss phrase";
+var mnemonic = "slide census play call guitar spare advance recycle organ maid chest toddler";
