@@ -1,1 +1,1 @@
-var mnemonic = "ivory slight transfer bomb sketch spawn want another pet impose spend wheat";
+var mnemonic = "black expand people rare model asset silent lamp siren crash smart captain";

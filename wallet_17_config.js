@@ -1,1 +1,1 @@
-var mnemonic = "iron success diesel insect unknown border sing dad gun vague fly lucky";
+var mnemonic = "brick bid vendor series balance mushroom avocado zero catch goose video increase";

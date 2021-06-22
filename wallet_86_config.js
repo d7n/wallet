@@ -1,1 +1,1 @@
-var mnemonic = "story rare erupt chapter model exhibit enact picnic two bone damp pottery";
+var mnemonic = "trumpet potato hub floor dinosaur hobby beef polar such bind next humble";

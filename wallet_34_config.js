@@ -1,1 +1,1 @@
-var mnemonic = "arrange fit universe enhance real goat crumble another flat salute loop swim";
+var mnemonic = "model mean adjust hold actual bronze shine task canyon lift will fantasy";

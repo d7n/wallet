@@ -1,1 +1,1 @@
-var mnemonic = "chronic glad calm evoke differ cup range tongue honey hawk shiver inside";
+var mnemonic = "hidden abuse gauge can walk payment cruel arena speed buffalo addict drip";

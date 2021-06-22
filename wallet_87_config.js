@@ -1,1 +1,1 @@
-var mnemonic = "version episode kick then else length cute educate gallery cherry include fabric";
+var mnemonic = "buddy know genre predict above exile grass veteran width alley border admit";

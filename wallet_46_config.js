@@ -1,1 +1,1 @@
-var mnemonic = "dice tobacco position pencil cause midnight broccoli parent wild poem run soccer";
+var mnemonic = "choose broccoli gravity setup foot actor mountain fresh gate behave frost outer";

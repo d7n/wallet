@@ -1,1 +1,1 @@
-var mnemonic = "deny use denial wash jungle leopard vote reason stomach fiscal tribe because";
+var mnemonic = "pen wine category where dream try staff coconut creek raise theme message";

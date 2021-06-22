@@ -1,1 +1,1 @@
-var mnemonic = "couch good blood gap polar ahead bracket fine issue clinic submit close";
+var mnemonic = "sad before execute among choose swarm ozone rookie float problem thumb modify";

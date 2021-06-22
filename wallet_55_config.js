@@ -1,1 +1,1 @@
-var mnemonic = "change age decrease mother such mystery level enough kiss disorder hill economy";
+var mnemonic = "museum will cloth basic city wine basket attitude theory session drill material";

@@ -1,1 +1,1 @@
-var mnemonic = "ecology host alley useless mountain usual sell brother despair home crawl credit";
+var mnemonic = "hurdle advice canvas answer rare pepper piano sample addict wall blue boring";

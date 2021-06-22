@@ -1,1 +1,1 @@
-var mnemonic = "pact dove ball parrot kind blast arrange joy paper suggest sheriff dutch";
+var mnemonic = "olympic history trend width ladder type fault trip arch more radio critic";

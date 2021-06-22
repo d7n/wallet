@@ -1,1 +1,1 @@
-var mnemonic = "call ocean meat grief blame diamond erosion current sword they offer supply";
+var mnemonic = "easily spy setup roast vicious rifle journey tribe elbow reopen evolve rose";

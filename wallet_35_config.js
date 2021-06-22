@@ -1,1 +1,1 @@
-var mnemonic = "yellow degree payment unknown group sudden gossip guard below success piano chimney";
+var mnemonic = "garbage tenant finish notice fresh spider list hobby bridge cinnamon grid ice";

@@ -1,1 +1,1 @@
-var mnemonic = "judge mix myth jeans step jaguar deer fade fortune below alien expire";
+var mnemonic = "warfare expose pool nominee mobile want bag diary space bundle annual flower";

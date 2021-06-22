@@ -1,1 +1,1 @@
-var mnemonic = "alcohol kitchen romance casino alcohol absurd fix balcony glimpse wing tent early";
+var mnemonic = "disease idle elephant cause vapor prepare spice swap grunt cotton trouble luxury";

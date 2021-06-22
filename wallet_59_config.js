@@ -1,1 +1,1 @@
-var mnemonic = "target crystal code pigeon black inform army visit between dove tree dentist";
+var mnemonic = "live choose trumpet smooth kangaroo hazard charge bulb van virtual sight tackle";

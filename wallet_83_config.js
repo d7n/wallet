@@ -1,1 +1,1 @@
-var mnemonic = "will note stable motion axis explain unveil town lonely bonus unaware abuse";
+var mnemonic = "shrimp toy unique example evoke left ensure image hundred code arrow abuse";

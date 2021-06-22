@@ -1,1 +1,1 @@
-var mnemonic = "friend cigar safe attend select symbol dune shift price letter liquid involve";
+var mnemonic = "aunt divert mechanic bargain aunt abandon blast army diary crazy ecology toddler";

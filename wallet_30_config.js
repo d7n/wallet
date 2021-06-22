@@ -1,1 +1,1 @@
-var mnemonic = "mixed grab dinosaur wheat cool baby icon prison mix balcony size cotton";
+var mnemonic = "glue junk exact tribe kid casino involve claim urge consider bullet hour";

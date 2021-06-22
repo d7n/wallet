@@ -1,1 +1,1 @@
-var mnemonic = "cover escape uphold once dragon clean coyote dune wrap decade wire exchange";
+var mnemonic = "orbit sure fiscal exotic cloud ring execute globe laptop eager maze minute";

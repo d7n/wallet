@@ -1,1 +1,1 @@
-var mnemonic = "impact release puppy cabbage spread hobby lucky bird table tourist group clutch";
+var mnemonic = "clarify swap nest modify auction observe ripple practice file fatigue family frozen";

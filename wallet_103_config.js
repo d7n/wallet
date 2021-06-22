@@ -1,1 +1,1 @@
-var mnemonic = "front card scene nest pact track marriage happy divide basic rough rabbit";
+var mnemonic = "laugh usual chest latin quote earth exercise donate fox pull camera brush";

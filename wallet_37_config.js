@@ -1,1 +1,1 @@
-var mnemonic = "system glory judge razor tomorrow garment level renew layer piano ready grain";
+var mnemonic = "insect merry pause convince awesome system zero remain rich try renew cattle";

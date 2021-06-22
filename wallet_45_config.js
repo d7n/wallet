@@ -1,1 +1,1 @@
-var mnemonic = "vibrant light glue hawk nice tissue section ring welcome orange swallow detail";
+var mnemonic = "valve drill danger injury ride either involve join dress rescue decorate snap";

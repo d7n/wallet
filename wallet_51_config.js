@@ -1,1 +1,1 @@
-var mnemonic = "gift segment glue fragile hurdle hero same exchange device shrimp breeze weapon";
+var mnemonic = "milk speak hen entry plunge leader fat library brush history inhale two";

@@ -1,1 +1,1 @@
-var mnemonic = "champion swim prefer mail horn pond design print chair cannon few real";
+var mnemonic = "jazz melody corn modify motion finger column pen vicious please banner farm";

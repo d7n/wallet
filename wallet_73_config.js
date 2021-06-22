@@ -1,1 +1,1 @@
-var mnemonic = "pave have warrior rich auto little puppy river page appear thumb between";
+var mnemonic = "staff wave inside cliff length swim appear poverty cost clutch category legal";

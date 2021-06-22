@@ -1,1 +1,1 @@
-var mnemonic = "mean lock reopen produce test bless exit lab average fun number swear";
+var mnemonic = "tower supreme visual fiction thank attract remain dutch supply dry unfold master";

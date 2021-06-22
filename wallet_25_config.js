@@ -1,1 +1,1 @@
-var mnemonic = "congress denial execute slogan ripple initial off arctic breeze large guess acquire";
+var mnemonic = "mango fossil chair very settle coach affair glove brand guide quantum install";

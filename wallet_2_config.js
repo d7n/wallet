@@ -1,1 +1,1 @@
-var mnemonic = "age ten club letter flush phrase vacuum carpet industry course agree economy";
+var mnemonic = "border paper axis industry nerve word plate bacon stove short model orient";

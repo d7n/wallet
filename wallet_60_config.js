@@ -1,1 +1,1 @@
-var mnemonic = "pipe shy symbol embrace critic layer sadness rubber library inherit dash crystal";
+var mnemonic = "survey student element enact merge glove tomorrow weird road disagree sunny duty";

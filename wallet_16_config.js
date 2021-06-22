@@ -1,1 +1,1 @@
-var mnemonic = "powder window gather jazz rack choose amused spawn wet wisdom hobby tribe";
+var mnemonic = "zebra into exhaust finish rose bubble fit margin remove notice proud riot";

@@ -1,1 +1,1 @@
-var mnemonic = "bread acid weapon time over fork garment noble baby adapt uncover put";
+var mnemonic = "rough visual scatter save enter can stick retire raise there decrease flip";

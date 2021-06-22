@@ -1,1 +1,1 @@
-var mnemonic = "else elevator plate impose dune chaos fade ball grocery plastic caught dirt";
+var mnemonic = "close unusual document bulk maid run transfer scan clean jump fury special";

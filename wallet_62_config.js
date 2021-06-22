@@ -1,1 +1,1 @@
-var mnemonic = "habit wolf citizen tomorrow habit diet response sauce test axis popular shuffle";
+var mnemonic = "program cigar slice stand wine design prize cereal citizen secret scorpion cute";

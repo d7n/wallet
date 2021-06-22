@@ -1,1 +1,1 @@
-var mnemonic = "broccoli any silly pitch town buyer siren wall plate dirt misery deny";
+var mnemonic = "control muffin course modify flush tell soup sing salad smile pink genius";

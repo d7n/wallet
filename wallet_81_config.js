@@ -1,1 +1,1 @@
-var mnemonic = "test sauce wedding curious since fancy true main energy dress problem much";
+var mnemonic = "duck hood group dilemma raise element fame hurt pulse claw great runway";

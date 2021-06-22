@@ -1,1 +1,1 @@
-var mnemonic = "hold daring merge receive frequent axis bid orbit hedgehog trade police deposit";
+var mnemonic = "talk caution craft shrug patch soap minimum guilt crash tape endless style";

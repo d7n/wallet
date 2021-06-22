@@ -1,1 +1,1 @@
-var mnemonic = "girl actor verb theory fitness gorilla number such pen nominee autumn deal";
+var mnemonic = "toast two motor brush slam term snap shadow logic kid art inherit";

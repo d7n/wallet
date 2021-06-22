@@ -1,1 +1,1 @@
-var mnemonic = "injury orphan ramp enhance miracle pill country ship treat school acoustic cross";
+var mnemonic = "gospel door woman seminar object gallery sister dirt gentle all increase turkey";

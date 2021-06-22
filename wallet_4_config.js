@@ -1,1 +1,1 @@
-var mnemonic = "actor force sheriff quantum question daring thumb taxi copper bench sunset crash";
+var mnemonic = "neck faith cigar sponsor victory tomorrow also unfold secret myself seek yard";

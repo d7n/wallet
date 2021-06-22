@@ -1,1 +1,1 @@
-var mnemonic = "kit purity trouble salad hidden during film merit peace spot need peanut";
+var mnemonic = "equip afraid beauty coil car clerk visual fold milk wing display entry";

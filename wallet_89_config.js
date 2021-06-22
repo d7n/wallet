@@ -1,1 +1,1 @@
-var mnemonic = "garlic enroll often shadow kiss expect original frost escape moment depart hour";
+var mnemonic = "rate silly depend finger hamster unfair kid depart inhale vehicle inch slide";

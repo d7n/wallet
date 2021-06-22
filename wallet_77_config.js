@@ -1,1 +1,1 @@
-var mnemonic = "check glad drum wonder quote amount ill winter evolve light fire cotton";
+var mnemonic = "keep today section certain medal fruit refuse this afford welcome mention plunge";

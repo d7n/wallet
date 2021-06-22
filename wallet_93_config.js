@@ -1,1 +1,1 @@
-var mnemonic = "direct sorry bridge wrong adjust tornado divert dress old beyond opera arrange";
+var mnemonic = "erosion juice leisure taxi whale unveil mean section defy faculty rival thought";

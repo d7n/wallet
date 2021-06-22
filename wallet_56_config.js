@@ -1,1 +1,1 @@
-var mnemonic = "surprise digital warfare vapor salmon dust family decade blood jelly oxygen crop";
+var mnemonic = "drift slogan roof color come unfair good soccer wing siege convince early";

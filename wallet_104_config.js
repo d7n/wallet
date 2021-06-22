@@ -1,1 +1,1 @@
-var mnemonic = "shield poet exist chat pole mango stomach omit dizzy vehicle hood faint";
+var mnemonic = "cluster found occur crush slab broken foam resource fetch feed age tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "mimic afraid razor deputy flavor spot release cause endorse economy stool floor";
+var mnemonic = "robust odor wolf harbor toy alter leisure twin fly upgrade unit kiss";

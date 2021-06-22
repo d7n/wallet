@@ -1,1 +1,1 @@
-var mnemonic = "angle else peasant kick pudding bacon arm excuse hybrid garlic family brave";
+var mnemonic = "tunnel blossom vague shuffle outer wealth glue wild mask chef salmon inject";

@@ -1,1 +1,1 @@
-var mnemonic = "rookie promote juice shift pistol delay benefit game public also begin rich";
+var mnemonic = "solution roast gadget silly rich transfer timber pizza deposit stool pottery index";

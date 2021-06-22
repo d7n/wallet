@@ -1,1 +1,1 @@
-var mnemonic = "culture shaft hen online yard abuse degree clog author nature angle hood";
+var mnemonic = "citizen kitten pause require lady cry hunt bargain lesson pave number couch";

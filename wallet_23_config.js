@@ -1,1 +1,1 @@
-var mnemonic = "visit key fame tray daring taxi copper improve grocery lobster pilot twelve";
+var mnemonic = "moon general pair choose leg earn success brown north dutch genius announce";

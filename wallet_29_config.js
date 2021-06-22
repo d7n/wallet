@@ -1,1 +1,1 @@
-var mnemonic = "chase build soon craft guess rapid draft hub again follow despair obscure";
+var mnemonic = "caught review step dinner result merge tomato planet strong because traffic nature";

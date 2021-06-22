@@ -1,1 +1,1 @@
-var mnemonic = "question because toss enjoy stuff banana coyote original require wish green trip";
+var mnemonic = "fossil stadium lawsuit pause solution join area answer bridge raccoon fence novel";

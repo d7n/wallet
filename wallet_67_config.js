@@ -1,1 +1,1 @@
-var mnemonic = "purchase message business certain depart document weird random manage retreat open hub";
+var mnemonic = "arctic vote judge round divide first salad wool fence false orange spare";

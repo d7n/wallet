@@ -1,1 +1,1 @@
-var mnemonic = "recipe girl correct rule kingdom any stove sadness foster rude vote glory";
+var mnemonic = "upset practice oil picnic into narrow behind farm north vault capable share";

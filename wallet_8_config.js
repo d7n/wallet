@@ -1,1 +1,1 @@
-var mnemonic = "tent motor antique later version thunder gauge obtain path salmon sing bargain";
+var mnemonic = "connect engage kit ill heavy pond shrimp hour found parrot trash adjust";

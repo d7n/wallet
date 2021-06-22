@@ -1,1 +1,1 @@
-var mnemonic = "organ nation unfair mirror brick kitten wide weapon install permit broccoli odor";
+var mnemonic = "bomb mail adapt left pill page taste material firm urban ring else";

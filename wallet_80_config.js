@@ -1,1 +1,1 @@
-var mnemonic = "soup enjoy mirror burden lake wealth attitude close soft dry image north";
+var mnemonic = "tooth total can melt develop flag suggest forum knee category skate sun";

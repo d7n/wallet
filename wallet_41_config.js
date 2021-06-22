@@ -1,1 +1,1 @@
-var mnemonic = "love bulb audit avoid fatal exotic lunch orient silver correct vault man";
+var mnemonic = "differ live giant pistol subway adapt chaos light summer insect scorpion today";

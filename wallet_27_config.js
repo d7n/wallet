@@ -1,1 +1,1 @@
-var mnemonic = "slam couple axis stock cheap spike high cupboard hint transfer fit depend";
+var mnemonic = "sense market wink online quantum skin exist space baby cheap badge speak";

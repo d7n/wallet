@@ -1,1 +1,1 @@
-var mnemonic = "nest maid broken main hundred venture engine cotton stone diagram tuna echo";
+var mnemonic = "talent catalog spider vapor party major mountain clerk egg island cash profit";

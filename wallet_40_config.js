@@ -1,1 +1,1 @@
-var mnemonic = "option boss innocent dignity gallery naive fancy salad gorilla myth federal force";
+var mnemonic = "tent happy special human oval book battle burst august letter ski volume";

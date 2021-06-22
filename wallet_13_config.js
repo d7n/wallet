@@ -1,1 +1,1 @@
-var mnemonic = "display device impose orchard lounge humble setup car alert script tortoise gate";
+var mnemonic = "pigeon vault safe marine palace lemon seven symbol scan matrix injury bundle";

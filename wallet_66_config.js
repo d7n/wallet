@@ -1,1 +1,1 @@
-var mnemonic = "add opera citizen example dad now accident north long voyage lawsuit captain";
+var mnemonic = "bamboo brick history skirt adult source seminar volcano uniform jaguar warrior transfer";

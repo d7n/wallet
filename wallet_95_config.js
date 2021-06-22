@@ -1,1 +1,1 @@
-var mnemonic = "ill seed joke snake cupboard quality divide speed pool naive scatter raccoon";
+var mnemonic = "duty harsh art thing uphold icon stool unique price panda absorb fox";

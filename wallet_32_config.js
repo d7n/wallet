@@ -1,1 +1,1 @@
-var mnemonic = "accuse peace check usage diet eagle endless market have vast current wonder";
+var mnemonic = "orient economy strike quality have jealous priority apology chronic sword provide mountain";

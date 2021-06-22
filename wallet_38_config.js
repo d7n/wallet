@@ -1,1 +1,1 @@
-var mnemonic = "anger estate frown next renew glass myself hedgehog negative genius process six";
+var mnemonic = "worry slender possible wheat property organ sound solar lecture tell print horn";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar empty letter present pelican fantasy ivory brass bullet dilemma gap invest";
+var mnemonic = "muffin girl census assault unfold submit hobby eye super middle copper off";

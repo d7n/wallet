@@ -1,1 +1,1 @@
-var mnemonic = "way sleep gap enough lift divorce puzzle brush icon gadget income fold";
+var mnemonic = "silk panic face pole salon grape poet flush hen portion flame old";

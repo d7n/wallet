@@ -1,1 +1,1 @@
-var mnemonic = "door fancy lunar strike turkey carbon ignore shrimp jaguar they cricket maid";
+var mnemonic = "nature oblige harsh famous rebuild agent fence what collect sting number wave";

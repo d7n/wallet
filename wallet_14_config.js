@@ -1,1 +1,1 @@
-var mnemonic = "swim chunk giraffe gown lawsuit ranch example ivory then annual old garbage";
+var mnemonic = "more rail student series sort soldier industry mirror cat clean simple curious";

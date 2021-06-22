@@ -1,1 +1,1 @@
-var mnemonic = "spell sustain speed alone prevent green wing hawk casino exhaust evidence staff";
+var mnemonic = "involve crouch machine pretty raccoon muscle tide kitten early income flat proof";

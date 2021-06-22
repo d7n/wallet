@@ -1,1 +1,1 @@
-var mnemonic = "loan anger wise outdoor cool hole into cherry much gold quiz quote";
+var mnemonic = "hawk hurt rough mechanic abuse build original potato pear pink save announce";

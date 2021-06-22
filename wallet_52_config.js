@@ -1,1 +1,1 @@
-var mnemonic = "element cheese zone orange attend arm coach demise book link release elephant";
+var mnemonic = "tattoo twelve merry cart team pond bone detail couple reflect future practice";

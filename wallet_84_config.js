@@ -1,1 +1,1 @@
-var mnemonic = "awful over feature together unusual copper brand strike mosquito swallow fog swallow";
+var mnemonic = "know barely office chaos observe spike ethics dove shock muscle barely badge";

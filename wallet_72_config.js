@@ -1,1 +1,1 @@
-var mnemonic = "isolate wreck token column indoor half ill panda rocket sunset alone search";
+var mnemonic = "author tissue only account clutch math box top assault state law lunch";

@@ -1,1 +1,1 @@
-var mnemonic = "pig escape cigar vapor push nerve grace perfect chalk waste unlock note";
+var mnemonic = "welcome online assume husband palm cousin extra will license advance behave custom";

@@ -1,1 +1,1 @@
-var mnemonic = "remain team master frame bean biology jar business rocket laptop produce check";
+var mnemonic = "tone shock float coin capital firm abstract celery dash finger bleak pupil";

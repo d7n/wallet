@@ -1,1 +1,1 @@
-var mnemonic = "business resist grit fire impact range collect pretty dish pave prepare develop";
+var mnemonic = "action art more phrase trash cause more bamboo among club hybrid manage";

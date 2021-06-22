@@ -1,1 +1,1 @@
-var mnemonic = "sponsor essence book include kitchen jungle relief cute portion eyebrow enlist vast";
+var mnemonic = "number curve book cream salute salmon act alone couch oven siege flash";

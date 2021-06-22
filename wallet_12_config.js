@@ -1,1 +1,1 @@
-var mnemonic = "diamond gallery process athlete grunt flame nasty fork cupboard thank shock chair";
+var mnemonic = "black fatal sting audit nation father salmon copper spawn stamp door ranch";

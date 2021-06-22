@@ -1,1 +1,1 @@
-var mnemonic = "broccoli bitter alcohol crunch age wear fox own common ripple report ice";
+var mnemonic = "legal air century cabbage glue output demise visit strike snake blush develop";

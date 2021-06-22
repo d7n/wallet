@@ -1,1 +1,1 @@
-var mnemonic = "daughter power trick science frown vote control bone candy allow mammal dust";
+var mnemonic = "actress inhale glory razor bus law apple slab outside wish load lecture";

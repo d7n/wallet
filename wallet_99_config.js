@@ -1,1 +1,1 @@
-var mnemonic = "ceiling cattle ski where nerve great nice smart dog spare upper answer";
+var mnemonic = "motion female talent cross uniform skin sausage three raise chuckle female mom";

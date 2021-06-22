@@ -1,1 +1,1 @@
-var mnemonic = "twist mail high inhale occur token select six dinosaur derive cash arrest";
+var mnemonic = "lock park panic sting bright grief fame hammer scatter need kitchen ceiling";

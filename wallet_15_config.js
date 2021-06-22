@@ -1,1 +1,1 @@
-var mnemonic = "hidden above recall cushion shoulder slim recipe seven negative gaze until student";
+var mnemonic = "size gesture enemy magnet super vivid weather pepper goddess machine motor venue";

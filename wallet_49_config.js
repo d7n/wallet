@@ -1,1 +1,1 @@
-var mnemonic = "season duty cactus cable lottery captain access ahead flight caution idle bottom";
+var mnemonic = "guitar endless egg magnet rice anchor blue favorite seminar valve memory number";
