@@ -1,1 +1,1 @@
-var mnemonic = "enforce movie bomb bonus sword enable ride hospital deposit frame jealous chair";
+var mnemonic = "luxury bottom jealous fee morning issue poet betray crater dice cheese cargo";

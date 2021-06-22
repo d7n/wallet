@@ -1,1 +1,1 @@
-var mnemonic = "pause material three punch ceiling liberty member blind move trial jungle electric";
+var mnemonic = "acquire exhaust need similar danger topic search diary cup height climb olive";

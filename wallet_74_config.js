@@ -1,1 +1,1 @@
-var mnemonic = "hero until sing wild already update this ghost outside symbol make bamboo";
+var mnemonic = "task aware obvious endless impact moon close zebra final song fabric knee";

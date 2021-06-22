@@ -1,1 +1,1 @@
-var mnemonic = "sister stuff amount vacant require blanket ride elephant derive skate wheat note";
+var mnemonic = "slush crumble useful air cradle decade great cute online clarify mosquito slice";

@@ -1,1 +1,1 @@
-var mnemonic = "admit ridge dignity hockey kidney repair defy gesture define merit cycle lake";
+var mnemonic = "label settle tower cargo brick mirror require mad april name actress lift";

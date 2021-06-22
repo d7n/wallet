@@ -1,1 +1,1 @@
-var mnemonic = "bullet omit fancy space rally banner token catalog business cook join trumpet";
+var mnemonic = "keep empower world upon angry favorite eager stairs option announce junk return";

@@ -1,1 +1,1 @@
-var mnemonic = "pioneer throw face aware angle fee expect settle rule remind bacon bomb";
+var mnemonic = "mule wet render drip mechanic exhaust patrol boring two record never runway";

@@ -1,1 +1,1 @@
-var mnemonic = "robot stumble build vote hammer settle stadium flock before enemy surface acoustic";
+var mnemonic = "transfer cause decline screen turn joy cupboard return load ribbon belt despair";

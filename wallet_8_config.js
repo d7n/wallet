@@ -1,1 +1,1 @@
-var mnemonic = "horse find sort honey hand rabbit guard spot report tuna fringe eager";
+var mnemonic = "reform guilt hundred ginger consider orange alarm tip various twice behind trim";

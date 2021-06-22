@@ -1,1 +1,1 @@
-var mnemonic = "conduct term odor cloud october crunch buddy intact nephew cactus tornado razor";
+var mnemonic = "famous artist wrestle sausage learn robust differ universe repeat decorate trust deal";

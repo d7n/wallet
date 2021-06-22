@@ -1,1 +1,1 @@
-var mnemonic = "use enact armor olympic dice credit whisper despair margin ginger height flat";
+var mnemonic = "stem fox near sugar oil derive cradle local kick moral festival swim";

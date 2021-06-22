@@ -1,1 +1,1 @@
-var mnemonic = "must since exchange end cream wage female young insane joke photo buddy";
+var mnemonic = "latin poverty horse route talent bulk fat release print vanish craft zone";

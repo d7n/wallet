@@ -1,1 +1,1 @@
-var mnemonic = "unusual below reason subway use change hair almost bench olive kite merit";
+var mnemonic = "book diesel first cycle flag buffalo donkey dilemma pond popular sick small";

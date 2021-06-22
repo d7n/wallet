@@ -1,1 +1,1 @@
-var mnemonic = "truth ranch faith industry basic dad peace universe able replace enroll draw";
+var mnemonic = "slide risk rely truth clap volcano zero wash rifle eagle coil account";

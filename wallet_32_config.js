@@ -1,1 +1,1 @@
-var mnemonic = "mesh home correct wealth true travel dumb attend protect okay sad nature";
+var mnemonic = "use census oval suffer call weather brave note earn reflect bundle fabric";

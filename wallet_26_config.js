@@ -1,1 +1,1 @@
-var mnemonic = "spoon love flip recycle method squeeze vanish pencil blame twin also remind";
+var mnemonic = "nice right weasel frog empower imitate valley problem hobby modify antique pulp";

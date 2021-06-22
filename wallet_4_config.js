@@ -1,1 +1,1 @@
-var mnemonic = "vehicle total valve syrup depart canal diamond recall angry husband again fruit";
+var mnemonic = "real you exhaust champion cannon pledge rubber wife snow between want prize";

@@ -1,1 +1,1 @@
-var mnemonic = "proud cram switch rely hover pony work cat kidney predict bachelor indoor";
+var mnemonic = "armor feature grunt cream swallow august energy obtain embody hammer assault acid";

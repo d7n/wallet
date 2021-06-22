@@ -1,1 +1,1 @@
-var mnemonic = "crop hazard game cousin genius camp age have sleep ask faint breeze";
+var mnemonic = "leave artist spring jealous gadget choose naive claim betray staff index lonely";

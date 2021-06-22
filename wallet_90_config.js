@@ -1,1 +1,1 @@
-var mnemonic = "couple jelly aim pudding broccoli pluck craft inmate win ice kidney track";
+var mnemonic = "physical diagram cabbage curtain alter remember brand average myself drill parade fantasy";

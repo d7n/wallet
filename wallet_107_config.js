@@ -1,1 +1,1 @@
-var mnemonic = "enable mystery polar sail town captain treat myth police orient vast black";
+var mnemonic = "galaxy cupboard dune nasty drop chimney drastic arrest gossip atom energy prize";

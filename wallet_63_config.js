@@ -1,1 +1,1 @@
-var mnemonic = "shell define envelope soft daughter pipe power fold satoshi adapt latin pear";
+var mnemonic = "escape lady high dismiss maze fit post juice sadness insect clap memory";

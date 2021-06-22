@@ -1,1 +1,1 @@
-var mnemonic = "jeans chalk session stove express achieve useless afraid roof scale exact initial";
+var mnemonic = "found erosion book submit sister accuse dizzy bullet maze myself tag tiger";

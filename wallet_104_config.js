@@ -1,1 +1,1 @@
-var mnemonic = "mail innocent doll fiber scrub kitchen slide release wait already tuition economy";
+var mnemonic = "market marriage isolate conduct fly hard need embark scale board car antenna";

@@ -1,1 +1,1 @@
-var mnemonic = "olympic high large knock inherit deposit indicate despair absurd stereo wear aspect";
+var mnemonic = "predict route village dumb mad connect lens inner rebuild travel melody hamster";

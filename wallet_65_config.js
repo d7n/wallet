@@ -1,1 +1,1 @@
-var mnemonic = "toddler awesome rescue brush budget jeans charge turn cook slab infant castle";
+var mnemonic = "syrup slab pill cinnamon design scheme above crush all blanket injury habit";

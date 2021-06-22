@@ -1,1 +1,1 @@
-var mnemonic = "endorse isolate success problem era spice emerge aware drift spot yellow miss";
+var mnemonic = "style three apple one cousin vicious federal color gallery stomach parade clay";

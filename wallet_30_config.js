@@ -1,1 +1,1 @@
-var mnemonic = "pizza wonder diagram unlock blouse reflect fashion almost arrow evil fossil next";
+var mnemonic = "tennis notable soda nation nephew click buzz trade talk delay expose illegal";

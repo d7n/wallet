@@ -1,1 +1,1 @@
-var mnemonic = "believe jump marble evidence creek jungle movie ancient maid identify carbon solve";
+var mnemonic = "theory trim action swing actual issue great age situate deputy top squeeze";

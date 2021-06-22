@@ -1,1 +1,1 @@
-var mnemonic = "hotel afford outer prosper nature coach affair success length poverty saddle clean";
+var mnemonic = "critic path shed february length slow whale copy confirm material wagon spice";

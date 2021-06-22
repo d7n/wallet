@@ -1,1 +1,1 @@
-var mnemonic = "violin artist sense love debris aerobic owner screen kick squeeze heart script";
+var mnemonic = "raccoon rescue race city chuckle purity method congress whisper inherit lazy mutual";

@@ -1,1 +1,1 @@
-var mnemonic = "slow govern forget seek sheriff defy honey asset sadness cradle wool square";
+var mnemonic = "bundle tail price lawn envelope appear audit tag foam club meat ahead";

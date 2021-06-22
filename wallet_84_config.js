@@ -1,1 +1,1 @@
-var mnemonic = "bind elite trouble knee net usage minute mouse duck grief dawn side";
+var mnemonic = "cruise year dry coach lunar swamp sad kind come inquiry evolve alter";

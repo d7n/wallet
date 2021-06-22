@@ -1,1 +1,1 @@
-var mnemonic = "paddle butter grocery prosper drift social oil earth sail enrich above average";
+var mnemonic = "economy noble purity liquid consider meat hurdle oven double oval claim involve";

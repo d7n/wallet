@@ -1,1 +1,1 @@
-var mnemonic = "marble light attitude torch shock devote sea neck table palm guitar among";
+var mnemonic = "hand panther endless genius thumb moment leave tattoo legal sunny wrestle card";

@@ -1,1 +1,1 @@
-var mnemonic = "pudding clip human frost sketch noodle person oval excess elegant eight sense";
+var mnemonic = "jelly parrot match debate virus hat bread exchange odor cluster remember salon";

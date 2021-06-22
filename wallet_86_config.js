@@ -1,1 +1,1 @@
-var mnemonic = "few father ask frequent short bulk monkey car solid heavy broken achieve";
+var mnemonic = "solar drum reopen rare mix neglect cliff cruel rude novel gallery lumber";

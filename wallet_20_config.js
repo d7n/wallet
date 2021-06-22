@@ -1,1 +1,1 @@
-var mnemonic = "coast act deer buddy essence same situate scare truth whisper best maximum";
+var mnemonic = "thumb crucial mystery olive prefer shuffle basic lyrics security mansion exact despair";

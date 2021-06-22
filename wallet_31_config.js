@@ -1,1 +1,1 @@
-var mnemonic = "magnet choose tooth crop machine pride rack curve wealth goddess manual habit";
+var mnemonic = "arctic object icon army morning uphold derive injury raccoon foster cigar neutral";

@@ -1,1 +1,1 @@
-var mnemonic = "wave kick garbage matter receive defy expose horse barrel thumb rude camera";
+var mnemonic = "shoulder kit hero very tomato damage always response achieve vague quick patient";

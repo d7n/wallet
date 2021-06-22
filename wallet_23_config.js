@@ -1,1 +1,1 @@
-var mnemonic = "taxi useful click harbor other cattle citizen annual search neither seed royal";
+var mnemonic = "inject infant theme blue pave across grape heavy muscle sweet hole nurse";

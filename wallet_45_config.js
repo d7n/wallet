@@ -1,1 +1,1 @@
-var mnemonic = "cycle hurdle clinic correct author shock wire dolphin desert real fun century";
+var mnemonic = "clarify priority wire flower escape design credit noodle seven hour impact night";

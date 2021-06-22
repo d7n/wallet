@@ -1,1 +1,1 @@
-var mnemonic = "clever sure can inner urge usual once hire march someone feed entire";
+var mnemonic = "wheel soup author benefit stumble rough layer victory problem glance limb nurse";

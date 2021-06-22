@@ -1,1 +1,1 @@
-var mnemonic = "tank caught scrub receive assist sleep whale forget alien until cash ski";
+var mnemonic = "drip custom favorite vital clerk announce ten pig trigger object cactus stadium";

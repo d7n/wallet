@@ -1,1 +1,1 @@
-var mnemonic = "oval total wear cake almost wealth sponsor candy salute solid moon limb";
+var mnemonic = "cool scrap change disorder open spy maple dial fly cat police romance";

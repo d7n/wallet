@@ -1,1 +1,1 @@
-var mnemonic = "tribe come possible imitate illegal usage erupt lawn vault spoon this neutral";
+var mnemonic = "faculty sign minimum another spice open zoo tackle phone vital direct axis";

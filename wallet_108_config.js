@@ -1,1 +1,1 @@
-var mnemonic = "eye husband crime flavor cup romance crisp scissors mirror ten game rival";
+var mnemonic = "topic grass access payment key lunar cushion fat stamp core parent vicious";

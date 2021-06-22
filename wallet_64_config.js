@@ -1,1 +1,1 @@
-var mnemonic = "theory interest fat over good disease stairs roast mosquito pear scale subject";
+var mnemonic = "bracket feel endless judge wrist stumble crystal frozen milk put giraffe bachelor";

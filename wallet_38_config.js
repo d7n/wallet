@@ -1,1 +1,1 @@
-var mnemonic = "foil wealth strong mad document course cupboard host divert proof spring flame";
+var mnemonic = "remember left satisfy snap antique cheese spatial almost hospital elevator oblige van";

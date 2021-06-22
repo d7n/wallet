@@ -1,1 +1,1 @@
-var mnemonic = "unknown comic radio salt define museum cheap barely photo twenty cupboard muscle";
+var mnemonic = "addict identify judge day risk rubber sleep category used pond receive embrace";

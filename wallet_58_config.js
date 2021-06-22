@@ -1,1 +1,1 @@
-var mnemonic = "bomb miracle verify quiz family ostrich aerobic stuff female save ostrich exclude";
+var mnemonic = "powder february shoulder account silk harsh dolphin bomb weather castle demise wet";

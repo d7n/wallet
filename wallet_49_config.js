@@ -1,1 +1,1 @@
-var mnemonic = "club sign soldier park negative claw around skull snow circle enter smart";
+var mnemonic = "negative mango laundry response medal basic plug obtain legend spy fancy lens";

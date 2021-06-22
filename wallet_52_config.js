@@ -1,1 +1,1 @@
-var mnemonic = "comfort melt rally tortoise ensure ensure trend fork input blanket congress faint";
+var mnemonic = "pink walnut web coast car pledge rhythm cereal eyebrow pair salad action";

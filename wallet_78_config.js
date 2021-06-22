@@ -1,1 +1,1 @@
-var mnemonic = "phrase brother flip traffic gap venue kingdom tag win have debate puzzle";
+var mnemonic = "danger outside secret tackle index include wife love object guilt unable near";

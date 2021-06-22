@@ -1,1 +1,1 @@
-var mnemonic = "fiction second switch spike hamster coach trade draw travel crystal dragon deny";
+var mnemonic = "wreck buddy faculty such census mind screen game air unit become celery";

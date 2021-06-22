@@ -1,1 +1,1 @@
-var mnemonic = "own vital giant produce swallow chair used rack nice must glow confirm";
+var mnemonic = "race adjust today rotate fee cattle inspire thing control same infant polar";

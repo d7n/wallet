@@ -1,1 +1,1 @@
-var mnemonic = "twist avoid kangaroo opinion target afraid second cliff solar engage miss chaos";
+var mnemonic = "friend wave wheat happy expand field butter diagram lobster man kiwi when";

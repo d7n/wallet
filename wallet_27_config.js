@@ -1,1 +1,1 @@
-var mnemonic = "toe wire rhythm episode bone exclude bullet fun spice peanut blossom jar";
+var mnemonic = "ahead hurry eye minute kite other tomorrow design sand curious vehicle country";

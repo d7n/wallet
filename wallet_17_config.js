@@ -1,1 +1,1 @@
-var mnemonic = "diagram scene inspire make kiwi machine uncle hard open champion tower wave";
+var mnemonic = "depart believe float trim crisp swamp afford ride state goat fantasy street";

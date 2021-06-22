@@ -1,1 +1,1 @@
-var mnemonic = "broccoli legal tonight say radar stable middle motion foster impact daring carry";
+var mnemonic = "frozen mobile hero catch burger slow infant arch quality squeeze clerk bless";

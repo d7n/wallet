@@ -1,1 +1,1 @@
-var mnemonic = "delay napkin cup air abandon lens glue into cute view shop garlic";
+var mnemonic = "cement region orient kind trim tiger journey motion auction plunge alcohol sound";

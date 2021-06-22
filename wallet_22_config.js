@@ -1,1 +1,1 @@
-var mnemonic = "bounce senior rule lazy base venue art inhale leisure attitude shed glow";
+var mnemonic = "buffalo huge dice miss tail throw fit mail grocery love slam learn";

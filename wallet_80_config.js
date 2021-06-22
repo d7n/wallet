@@ -1,1 +1,1 @@
-var mnemonic = "energy result repair noodle chaos borrow father symptom raw anchor spirit waste";
+var mnemonic = "advice like draft slice raven text host grow ball spirit under property";

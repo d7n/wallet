@@ -1,1 +1,1 @@
-var mnemonic = "love fruit bubble duty avoid manage orange pill fancy december prosper mistake";
+var mnemonic = "report ceiling update cross fall connect history daring retreat movie soup silver";

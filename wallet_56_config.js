@@ -1,1 +1,1 @@
-var mnemonic = "thunder walnut among slam walk choose proof ill favorite arm jacket drip";
+var mnemonic = "nature elbow rough upgrade neither dose royal lawn purse inform celery sport";

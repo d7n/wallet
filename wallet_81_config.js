@@ -1,1 +1,1 @@
-var mnemonic = "hire water hour quality liberty near gate fork manual sample topic much";
+var mnemonic = "coffee column raven million urge coil arch hawk random universe indoor element";

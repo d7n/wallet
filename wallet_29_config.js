@@ -1,1 +1,1 @@
-var mnemonic = "label nest assume vast present video lake coconut soul theory vacant stumble";
+var mnemonic = "style leader shrug pitch swing tray predict else essay jaguar pond ghost";

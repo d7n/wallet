@@ -1,1 +1,1 @@
-var mnemonic = "crane live dutch copper iron kitten then dad neutral across token tunnel";
+var mnemonic = "measure strategy industry grain desert parade million roast connect order flight lady";

@@ -1,1 +1,1 @@
-var mnemonic = "search sunny clutch awkward foster play gap doctor loan spend drive occur";
+var mnemonic = "chef medal they flash post essay sort actual tide fan remove blanket";

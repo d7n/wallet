@@ -1,1 +1,1 @@
-var mnemonic = "camera reason devote village trophy fork mystery urge wealth daring wheel catalog";
+var mnemonic = "word sure acid skin midnight index saddle convince object thing stairs blur";

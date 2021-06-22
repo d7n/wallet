@@ -1,1 +1,1 @@
-var mnemonic = "above bleak witness artwork pole muscle skill fruit pen cycle ecology ramp";
+var mnemonic = "silk edit know weird bread able arrange twenty slender fatigue quick garden";

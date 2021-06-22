@@ -1,1 +1,1 @@
-var mnemonic = "slow awkward satoshi rural traffic alpha rain note plastic lamp chimney tape";
+var mnemonic = "shiver real bless blue vanish question become alarm you share caught polar";

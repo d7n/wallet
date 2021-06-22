@@ -1,1 +1,1 @@
-var mnemonic = "cart rain bread chuckle marine guard clay cherry upper lunar bronze hurdle";
+var mnemonic = "remember stone turtle method front loop budget region garlic copper metal stock";

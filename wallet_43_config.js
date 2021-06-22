@@ -1,1 +1,1 @@
-var mnemonic = "equal body fish museum quit bachelor abandon pelican skin slot wage direct";
+var mnemonic = "snake imitate disagree verify lobster fog west loyal buyer fashion math purpose";

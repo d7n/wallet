@@ -1,1 +1,1 @@
-var mnemonic = "brain myth cactus client language force picnic unknown seek collect romance siege";
+var mnemonic = "slab antenna range service trip whip client pool melody leisure lake all";

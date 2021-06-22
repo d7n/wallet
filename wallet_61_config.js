@@ -1,1 +1,1 @@
-var mnemonic = "milk file legal knife bone attract extra coin legend goat mixed problem";
+var mnemonic = "mercy grace air canyon bring diesel shine convince energy label rescue flush";

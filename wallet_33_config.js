@@ -1,1 +1,1 @@
-var mnemonic = "boring pitch egg force glare kind hurry plug fancy grant spy symptom";
+var mnemonic = "view patrol erase chimney inch blossom art like valve disagree shield cherry";

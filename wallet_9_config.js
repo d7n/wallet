@@ -1,1 +1,1 @@
-var mnemonic = "tunnel grain leg ladder tip ethics blade message violin trap know emerge";
+var mnemonic = "surface cigar expose silk treat furnace fence ethics mistake cross melody mother";

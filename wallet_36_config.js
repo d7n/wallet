@@ -1,1 +1,1 @@
-var mnemonic = "lab cliff segment basket trash snap property slam guide skin doctor lava";
+var mnemonic = "increase tooth swarm accuse vendor helmet blue because bread wonder inside anger";

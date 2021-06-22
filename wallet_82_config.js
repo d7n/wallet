@@ -1,1 +1,1 @@
-var mnemonic = "tape depth vibrant canvas below venture summer place gold shed loan include";
+var mnemonic = "glove lady slight bar proof act page casual kite buyer swarm blame";

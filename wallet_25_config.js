@@ -1,1 +1,1 @@
-var mnemonic = "achieve eyebrow funny another random anxiety manual ball lizard blouse off syrup";
+var mnemonic = "melody pond sudden oblige drop nerve split gorilla call badge expand tray";

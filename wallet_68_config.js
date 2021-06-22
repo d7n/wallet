@@ -1,1 +1,1 @@
-var mnemonic = "online onion genius sing march shift learn cool ability salt bundle click";
+var mnemonic = "senior abandon tape submit opera sibling frown cloth helmet health exclude problem";

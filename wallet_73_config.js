@@ -1,1 +1,1 @@
-var mnemonic = "throw volcano gap rigid behave insect identify clump vast live physical situate";
+var mnemonic = "weather worry void behind speed ordinary false home dinner party salad transfer";

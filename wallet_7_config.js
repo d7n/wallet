@@ -1,1 +1,1 @@
-var mnemonic = "above news mixture various duty vocal quiz wedding ask erupt physical blanket";
+var mnemonic = "jaguar foster analyst puzzle ugly flush olympic year boring turkey wish pigeon";

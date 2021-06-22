@@ -1,1 +1,1 @@
-var mnemonic = "light game erupt nature sudden index depart lumber churn leisure credit solar";
+var mnemonic = "citizen kite green wise dumb peasant arrive silver inspire acquire syrup shock";

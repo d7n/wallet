@@ -1,1 +1,1 @@
-var mnemonic = "ritual foil maximum save scorpion throw usage essence wave baby deal ocean";
+var mnemonic = "celery useful peasant mouse say rate child furnace fault wet transfer foil";

@@ -1,1 +1,1 @@
-var mnemonic = "method mean oak blur recipe east quit staff allow visa swim claim";
+var mnemonic = "again enemy rail cabin question pink mom absorb foil model urge jungle";

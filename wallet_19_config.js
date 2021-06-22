@@ -1,1 +1,1 @@
-var mnemonic = "aisle glow apology route connect movie jeans antenna topic cup tool explain";
+var mnemonic = "mean bike lazy boy spring exercise cruise host cruel together upper rapid";

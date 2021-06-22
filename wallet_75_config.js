@@ -1,1 +1,1 @@
-var mnemonic = "aware impulse august win crime hunt laptop inner all flock clog resist";
+var mnemonic = "tip task oxygen exotic country olympic charge slight concert ecology minute fiscal";

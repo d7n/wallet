@@ -1,1 +1,1 @@
-var mnemonic = "drip honey wool fabric remove snack mean park task bridge slight mechanic";
+var mnemonic = "sport tiny fiscal traffic athlete shadow tray hamster pattern grace rack bronze";

@@ -1,1 +1,1 @@
-var mnemonic = "palace satoshi actor buffalo level exit sleep napkin amateur achieve lock example";
+var mnemonic = "shell hello mixture plastic blossom hat business village wall pledge palm detail";

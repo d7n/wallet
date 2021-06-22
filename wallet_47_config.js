@@ -1,1 +1,1 @@
-var mnemonic = "sustain ocean address soap gravity banner stadium clip error trumpet entry umbrella";
+var mnemonic = "practice burger fade cigar tuna false merry bike grunt fruit bubble frame";

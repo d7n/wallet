@@ -1,1 +1,1 @@
-var mnemonic = "jewel gasp artist diamond check arena cause boat snack truly human quit";
+var mnemonic = "awful drum transfer fatal flush chuckle case insane what upon elder switch";

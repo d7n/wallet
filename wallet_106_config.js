@@ -1,1 +1,1 @@
-var mnemonic = "bounce pass brown glass cement pumpkin unhappy stable bid prefer resource decade";
+var mnemonic = "west knee matter six renew scene include ritual select stock radio loyal";

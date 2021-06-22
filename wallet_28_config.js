@@ -1,1 +1,1 @@
-var mnemonic = "donor topic defense panther version april twist duck fantasy essence knee slim";
+var mnemonic = "lady diesel page season visa destroy sea hamster snap museum safe click";

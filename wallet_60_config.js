@@ -1,1 +1,1 @@
-var mnemonic = "unlock praise figure wheel neck boost near federal tortoise index error cave";
+var mnemonic = "cloud guide road grab unlock height matter sport merit face throw coral";

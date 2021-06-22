@@ -1,1 +1,1 @@
-var mnemonic = "verb vivid credit ritual rebuild twice ride toy above thunder possible salon";
+var mnemonic = "sun chunk win zero mirror abuse marble plastic odor brass undo laundry";
