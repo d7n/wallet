@@ -1,1 +1,1 @@
-var mnemonic = "industry rigid host promote wait gas blade ethics define fly client attack";
+var mnemonic = "social catalog someone clerk kite zero simple impose blur tomorrow subway pool";

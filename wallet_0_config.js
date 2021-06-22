@@ -1,1 +1,1 @@
-var mnemonic = "inquiry one reason finish desk clip thrive response mushroom property wreck chuckle";
+var mnemonic = "toward describe egg spoil other supply carpet world hazard wisdom beauty clap";

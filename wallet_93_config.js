@@ -1,1 +1,1 @@
-var mnemonic = "adapt corn letter flee shine thought kingdom now notice fat bring town";
+var mnemonic = "such govern subject earth dynamic author round winter smart glance space hold";

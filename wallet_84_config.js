@@ -1,1 +1,1 @@
-var mnemonic = "treat nation bird wagon knife desk foster surge minimum flight crumble lesson";
+var mnemonic = "control elevator stairs column outside space october doll hybrid service castle patch";

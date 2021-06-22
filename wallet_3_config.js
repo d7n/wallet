@@ -1,1 +1,1 @@
-var mnemonic = "twenty frog report else number maple blouse width indicate engine divorce extra";
+var mnemonic = "lizard history believe trim critic method swing since castle bird trend visa";

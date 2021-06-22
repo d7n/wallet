@@ -1,1 +1,1 @@
-var mnemonic = "ceiling child sock vocal window skate horse dream hat erode retire three";
+var mnemonic = "hold bounce scheme gate tomorrow boat clip among sustain category crystal blind";

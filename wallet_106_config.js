@@ -1,1 +1,1 @@
-var mnemonic = "idle two child embark ecology best onion pink change pencil retreat bitter";
+var mnemonic = "awake smile hope level mind manage arrange organ bright faint wine wear";

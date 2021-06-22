@@ -1,1 +1,1 @@
-var mnemonic = "side clown embody raccoon sing nose square below since erode destroy rare";
+var mnemonic = "hockey dune blame quarter essence timber august absorb please tail wash air";

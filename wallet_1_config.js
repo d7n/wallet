@@ -1,1 +1,1 @@
-var mnemonic = "wire cause alarm scorpion tissue often select common enter old output account";
+var mnemonic = "notable head ten coin mansion excuse apology young palace disagree broccoli weekend";

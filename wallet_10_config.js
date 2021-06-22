@@ -1,1 +1,1 @@
-var mnemonic = "danger slogan surprise spider wash sure chunk host category lemon weapon later";
+var mnemonic = "then rally blast divorce second east picnic indoor delay nest sphere fragile";

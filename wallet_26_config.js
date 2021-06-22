@@ -1,1 +1,1 @@
-var mnemonic = "sleep two type boil expose advice arrive divorce measure favorite man coast";
+var mnemonic = "select sign useful swing pass limb paper bulb hard clerk dizzy arena";

@@ -1,1 +1,1 @@
-var mnemonic = "hungry remember stadium erupt vacant virtual breeze tourist fame shine sniff genius";
+var mnemonic = "trouble balance regular wet mouse hard flavor electric blouse slam monitor sight";

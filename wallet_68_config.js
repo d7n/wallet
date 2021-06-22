@@ -1,1 +1,1 @@
-var mnemonic = "adapt dash stadium solid staff tree park crane manual leave silly super";
+var mnemonic = "senior solid age gloom copper discover slice tomorrow hunt ranch monster option";

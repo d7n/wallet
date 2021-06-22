@@ -1,1 +1,1 @@
-var mnemonic = "animal tool timber swamp rug rice wink angle oyster sunny fiction hole";
+var mnemonic = "ritual float mirror raven coyote remind romance pudding wave trophy mosquito life";

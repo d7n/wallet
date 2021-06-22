@@ -1,1 +1,1 @@
-var mnemonic = "wisdom key throw vague paddle bleak abuse limb rocket initial lumber lamp";
+var mnemonic = "motor ghost denial typical laptop evoke hen tenant sail never flee stairs";

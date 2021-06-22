@@ -1,1 +1,1 @@
-var mnemonic = "squirrel breeze uphold twin lawn moral small dash empower wreck wonder square";
+var mnemonic = "soda stem point kid inspire cup walnut devote palace property stairs audit";

@@ -1,1 +1,1 @@
-var mnemonic = "mechanic hockey throw industry duck idle wire force silver winner affair bring";
+var mnemonic = "bird album stairs ignore antenna host ozone furnace nut elder axis mobile";

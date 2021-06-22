@@ -1,1 +1,1 @@
-var mnemonic = "subject ability assist now stuff cable tooth crouch speak home middle venue";
+var mnemonic = "dilemma odor galaxy phone rack uphold snack enrich east vanish suspect exchange";

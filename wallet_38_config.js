@@ -1,1 +1,1 @@
-var mnemonic = "bird tilt soda rural satisfy twice frown jacket retreat please energy mammal";
+var mnemonic = "corn amateur stem shy kid rain coral soldier wire dog silent observe";

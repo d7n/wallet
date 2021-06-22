@@ -1,1 +1,1 @@
-var mnemonic = "night plate vibrant glide army tomato hen cushion inspire foot polar neglect";
+var mnemonic = "lemon grab polar vocal total miracle brush steak crater evil barely domain";

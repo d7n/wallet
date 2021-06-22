@@ -1,1 +1,1 @@
-var mnemonic = "rare eight explain almost job setup alien world fortune fire canyon void";
+var mnemonic = "enter mom cube boost cave scheme aim hockey athlete during unveil ahead";

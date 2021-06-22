@@ -1,1 +1,1 @@
-var mnemonic = "hotel print entry lazy steel agent become subject blood road ridge make";
+var mnemonic = "boost glad pair choose waste corn artist claw shoulder spray convince employ";

@@ -1,1 +1,1 @@
-var mnemonic = "tape awful guard quiz alcohol fiscal alcohol frozen letter tissue pattern quantum";
+var mnemonic = "eight awesome electric gesture secret hero tissue peace icon burden alone fury";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow slide first develop sister quantum keep home guide build burden slight";
+var mnemonic = "pave heavy right since blade draft finger maid daughter paddle flock advance";

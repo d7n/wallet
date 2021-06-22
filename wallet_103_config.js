@@ -1,1 +1,1 @@
-var mnemonic = "filter false swift win announce item reason fog glue ready session soap";
+var mnemonic = "dance figure theme young emotion canyon suggest flat domain desk gym old";

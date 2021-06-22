@@ -1,1 +1,1 @@
-var mnemonic = "toast very beauty nation cigar pulp arm dry syrup title intact ribbon";
+var mnemonic = "matrix farm charge comic defense super evil breeze drive firm tell drum";

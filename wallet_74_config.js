@@ -1,1 +1,1 @@
-var mnemonic = "umbrella van monster return rather provide bonus open human pave spider below";
+var mnemonic = "build scale gaze tip chief face flame trouble border essence trigger pass";

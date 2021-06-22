@@ -1,1 +1,1 @@
-var mnemonic = "upper creek hole monster tiny bar blade holiday mixture boring goddess awake";
+var mnemonic = "vital buffalo fish affair yard neglect today choose ticket long endless bulk";

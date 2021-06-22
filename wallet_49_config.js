@@ -1,1 +1,1 @@
-var mnemonic = "almost ribbon wonder phone impulse tobacco power attract burden impact any patient";
+var mnemonic = "aware correct soldier give gentle void rubber mass evil armor only filter";

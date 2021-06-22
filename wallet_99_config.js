@@ -1,1 +1,1 @@
-var mnemonic = "small tattoo essay fatal nurse come now uphold cherry gain rug siege";
+var mnemonic = "clay woman shed cruise weasel sell zero two permit harvest adapt spoon";

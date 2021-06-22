@@ -1,1 +1,1 @@
-var mnemonic = "ability zebra misery plate become buzz inherit welcome mind profit glimpse knife";
+var mnemonic = "diesel recall jump girl cage oyster neglect fire fluid robot mandate pill";

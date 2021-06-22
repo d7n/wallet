@@ -1,1 +1,1 @@
-var mnemonic = "guilt foil wool city raven churn pitch giggle describe enjoy battle neutral";
+var mnemonic = "prison tail bridge stay catch mouse accident claim drastic tunnel risk pill";

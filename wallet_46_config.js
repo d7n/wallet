@@ -1,1 +1,1 @@
-var mnemonic = "snake surge answer device advice hope olive clip silly canoe film photo";
+var mnemonic = "hazard gold aerobic cycle pink scatter cream enough during fossil decorate lucky";

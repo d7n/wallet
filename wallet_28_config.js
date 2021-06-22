@@ -1,1 +1,1 @@
-var mnemonic = "snap intact rookie rival clown apart destroy slide fence donate wealth snow";
+var mnemonic = "patrol balance pigeon hover room ketchup fury comfort weasel street obvious attend";

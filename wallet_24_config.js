@@ -1,1 +1,1 @@
-var mnemonic = "crack copper ritual home settle carbon oppose crowd adapt oven spot post";
+var mnemonic = "forum torch flock iron present wisdom proof deputy eye warrior dirt vanish";

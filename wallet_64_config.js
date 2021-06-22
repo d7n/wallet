@@ -1,1 +1,1 @@
-var mnemonic = "push renew festival insect become magnet bulb include deny virus napkin bless";
+var mnemonic = "coil camp wealth undo gadget license neck civil senior practice divert version";

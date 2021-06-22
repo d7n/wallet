@@ -1,1 +1,1 @@
-var mnemonic = "public mixed they shield task ocean virtual glass rack milk battle thumb";
+var mnemonic = "bullet will unveil arrive salt sample bomb window limb whisper animal carpet";

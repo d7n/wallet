@@ -1,1 +1,1 @@
-var mnemonic = "jewel bicycle laugh social physical color strike spike index friend path remember";
+var mnemonic = "chest spice labor grant quantum whisper crucial judge gather luggage keep fame";

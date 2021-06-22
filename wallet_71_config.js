@@ -1,1 +1,1 @@
-var mnemonic = "away proof grow worry cause bamboo dream scrap feed cost victory build";
+var mnemonic = "puppy cherry neglect noble wrap despair budget inspire soul acid choice electric";

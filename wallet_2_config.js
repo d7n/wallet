@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog uniform ignore talent vast hope actress sure rocket pony alpha hip";
+var mnemonic = "soul staff moment flash ladder orient rural segment wrong crack reveal rule";

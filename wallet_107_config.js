@@ -1,1 +1,1 @@
-var mnemonic = "social range outer model best old grid catalog skin leisure party slight";
+var mnemonic = "voice negative decade arrow roof amateur equal captain famous onion section estate";

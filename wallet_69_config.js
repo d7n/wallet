@@ -1,1 +1,1 @@
-var mnemonic = "choice toy fame outdoor tide round february ensure awake cheese hawk emerge";
+var mnemonic = "about lyrics reveal way rapid video glow now genuine another brand glare";

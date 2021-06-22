@@ -1,1 +1,1 @@
-var mnemonic = "fence monitor ready inside space gorilla lazy tent dose random bullet cost";
+var mnemonic = "side toilet grape spot drink bread foam stone monitor track siren route";

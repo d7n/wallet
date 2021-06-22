@@ -1,1 +1,1 @@
-var mnemonic = "spirit strike desk lottery space inject case noise print turkey caution assume";
+var mnemonic = "eagle pet cargo first hidden minute limit minute brown immense surface arrange";

@@ -1,1 +1,1 @@
-var mnemonic = "live gentle dad menu silk sudden moon warfare junior else purpose afraid";
+var mnemonic = "smoke stone copy become wolf extra odor twelve lion involve suggest wall";

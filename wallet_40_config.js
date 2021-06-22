@@ -1,1 +1,1 @@
-var mnemonic = "uncle flock poverty middle gossip snake bless diary cereal bridge stool fault";
+var mnemonic = "scene pet unfold rabbit notable deliver silver faith pistol above dream tourist";

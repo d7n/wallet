@@ -1,1 +1,1 @@
-var mnemonic = "wagon fun legend deliver invest foam common ecology bone uncle skull critic";
+var mnemonic = "top crew abandon warm suffer office person farm angry police brain uncle";

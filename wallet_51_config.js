@@ -1,1 +1,1 @@
-var mnemonic = "submit rate engage aisle dilemma cute idle peasant sorry goose summer couch";
+var mnemonic = "toddler portion blanket illegal caught alter cool hundred library inner point arrow";

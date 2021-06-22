@@ -1,1 +1,1 @@
-var mnemonic = "have humble pull hidden cool normal illegal dust entire follow two idea";
+var mnemonic = "test quarter energy coyote frown dog snake attack major panel chief cupboard";

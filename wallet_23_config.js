@@ -1,1 +1,1 @@
-var mnemonic = "code safe learn finger above segment monster guard leaf arm city jaguar";
+var mnemonic = "wood pumpkin notable gown cable duty confirm pepper drama buffalo guide airport";

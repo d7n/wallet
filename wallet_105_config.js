@@ -1,1 +1,1 @@
-var mnemonic = "buzz area peace time wealth face mom gospel unveil chunk dream return";
+var mnemonic = "total dad fault obscure ensure manage walk charge material perfect erosion broccoli";

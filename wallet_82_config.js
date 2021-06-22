@@ -1,1 +1,1 @@
-var mnemonic = "pull rebel table unusual guard air make spike matter rigid spike exercise";
+var mnemonic = "group merry happy arrange night next rent amount street base sudden execute";

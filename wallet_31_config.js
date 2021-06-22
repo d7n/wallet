@@ -1,1 +1,1 @@
-var mnemonic = "coach accuse lottery flower strike balcony stay plunge crucial trigger yard belt";
+var mnemonic = "adjust blanket just remind eagle square opera verify eternal alley gift type";

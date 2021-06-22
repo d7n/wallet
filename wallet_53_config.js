@@ -1,1 +1,1 @@
-var mnemonic = "emotion shy slice thing battle pretty permit advance spice twist lion extra";
+var mnemonic = "regret permit hamster amused double pencil only image rhythm shrimp exact rebuild";

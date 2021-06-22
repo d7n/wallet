@@ -1,1 +1,1 @@
-var mnemonic = "coffee rocket robust error isolate obscure earth muffin once process neither adjust";
+var mnemonic = "song wood canvas soap trade fall kangaroo trash december canyon awake harvest";

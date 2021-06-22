@@ -1,1 +1,1 @@
-var mnemonic = "attitude stuff squeeze version brush issue giraffe twin shoulder either toward mixed";
+var mnemonic = "chat fever grass rocket rigid payment supreme check reason situate note chaos";

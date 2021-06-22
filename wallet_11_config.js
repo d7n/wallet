@@ -1,1 +1,1 @@
-var mnemonic = "pudding festival arrow angry guilt argue web afraid unusual dizzy spray twist";
+var mnemonic = "dove enact friend bunker shoot pig awake abuse photo luggage mom depend";

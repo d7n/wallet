@@ -1,1 +1,1 @@
-var mnemonic = "furnace there drive submit stuff copy worry return loyal trumpet tomato excite";
+var mnemonic = "idle ankle body spoil offer control gasp element exchange neglect someone dwarf";

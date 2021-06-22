@@ -1,1 +1,1 @@
-var mnemonic = "promote marriage napkin twin beef differ flag sorry vast stadium antique prize";
+var mnemonic = "tattoo similar meadow approve track odor wolf clever hold flip deal wait";

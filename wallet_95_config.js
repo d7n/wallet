@@ -1,1 +1,1 @@
-var mnemonic = "runway light accuse skirt rapid fury country gauge report ecology own add";
+var mnemonic = "cradle chair lift robust popular giraffe kiwi cushion mad inmate cargo much";

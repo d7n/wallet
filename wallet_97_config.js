@@ -1,1 +1,1 @@
-var mnemonic = "high crack table gaze hollow solution spin simple seven fox bunker company";
+var mnemonic = "knife fine bring idea hello degree sponsor wrap romance sadness camera stone";

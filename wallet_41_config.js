@@ -1,1 +1,1 @@
-var mnemonic = "frequent risk travel pulse deposit leader lobster piece solar idea define boat";
+var mnemonic = "member cave ten dynamic used method almost jaguar between trust season load";

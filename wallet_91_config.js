@@ -1,1 +1,1 @@
-var mnemonic = "fiction guess lift stand hub warrior collect reopen just load sausage barely";
+var mnemonic = "wedding sea yard donate cruel season describe enjoy snack social umbrella fringe";

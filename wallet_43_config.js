@@ -1,1 +1,1 @@
-var mnemonic = "become rally frown industry foam surprise rabbit fringe announce keen possible man";
+var mnemonic = "attitude kind seed ill left group clever country street fish item front";

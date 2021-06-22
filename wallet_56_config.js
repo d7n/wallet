@@ -1,1 +1,1 @@
-var mnemonic = "debris gap else hip solid brick zero craft judge insane cave inch";
+var mnemonic = "vendor green gadget nothing host index flavor execute dress impose letter wolf";

@@ -1,1 +1,1 @@
-var mnemonic = "summer engine taxi resist bleak van list rabbit congress drink donkey dial";
+var mnemonic = "drama suffer unusual comic soccer cook network update length example cry trial";

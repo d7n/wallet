@@ -1,1 +1,1 @@
-var mnemonic = "float coconut local measure science argue umbrella mixture ordinary clap fault coach";
+var mnemonic = "degree lava wasp multiply coin return very page club vapor possible oven";

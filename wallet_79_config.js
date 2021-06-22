@@ -1,1 +1,1 @@
-var mnemonic = "resemble alcohol clever defense hidden document alcohol deliver keen paddle cruise strategy";
+var mnemonic = "wealth cherry way beach bracket expect guard month apology useful someone brush";

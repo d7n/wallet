@@ -1,1 +1,1 @@
-var mnemonic = "swarm myself once stock expire cannon ostrich sound pilot screen top devote";
+var mnemonic = "trust stick rural rely rich dumb private treat wood spatial drop depth";

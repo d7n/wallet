@@ -1,1 +1,1 @@
-var mnemonic = "claim physical praise weasel item voice basket conduct daughter clarify apart father";
+var mnemonic = "tell few bargain brown cannon leaf text inherit twin fix gun hope";

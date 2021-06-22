@@ -1,1 +1,1 @@
-var mnemonic = "enrich pioneer cannon pluck siren cheese action sustain aisle penalty harsh tower";
+var mnemonic = "display scissors lady just badge sadness float galaxy parade roof mammal tribe";

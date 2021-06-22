@@ -1,1 +1,1 @@
-var mnemonic = "slot bone duck blanket tornado south dove place before over adapt major";
+var mnemonic = "few lamp goat wise tiny coconut brush sock result piece foil pride";

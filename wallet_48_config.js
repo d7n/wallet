@@ -1,1 +1,1 @@
-var mnemonic = "dose wide bleak glass surge near rare diagram rib genius welcome night";
+var mnemonic = "ankle mother sentence kit tail home hero okay about option adapt start";

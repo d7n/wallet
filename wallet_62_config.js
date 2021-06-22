@@ -1,1 +1,1 @@
-var mnemonic = "elder enlist toast cigar sunny tiny drive slab palm amazing twice twice";
+var mnemonic = "column fiscal box girl point egg present thought crunch lottery curtain man";

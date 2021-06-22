@@ -1,1 +1,1 @@
-var mnemonic = "flush into canal style tortoise taste radar audit strong flip try lunar";
+var mnemonic = "crime fatigue frown museum will dream road liquid satoshi already chuckle champion";

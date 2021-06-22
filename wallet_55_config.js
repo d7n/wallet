@@ -1,1 +1,1 @@
-var mnemonic = "screen shift rain history six toy toast emerge tattoo canyon promote topple";
+var mnemonic = "laptop gorilla bubble below hawk wall project much owner merge uphold key";

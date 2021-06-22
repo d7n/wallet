@@ -1,1 +1,1 @@
-var mnemonic = "bright joy quarter profit attitude comfort salt solution wreck near awesome pilot";
+var mnemonic = "shop distance mixture mail unit pride lunar account initial kiss visit hard";

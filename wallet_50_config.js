@@ -1,1 +1,1 @@
-var mnemonic = "unaware fluid kick fatal hunt shoulder reunion east error bunker stadium negative";
+var mnemonic = "catalog flush remain glove stay emotion skill erode awake attract scorpion excite";

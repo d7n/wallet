@@ -1,1 +1,1 @@
-var mnemonic = "assist bench copy era push cram art clever law speed finish sponsor";
+var mnemonic = "enact laugh lazy dice shrug breeze ensure asthma host extend time turn";

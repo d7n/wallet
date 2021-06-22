@@ -1,1 +1,1 @@
-var mnemonic = "actor fine junior theory inmate empty slot fluid repeat cage animal reason";
+var mnemonic = "barrel eight quarter uncle consider bulk organ park shallow heart wedding burst";

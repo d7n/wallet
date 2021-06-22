@@ -1,1 +1,1 @@
-var mnemonic = "scissors grief predict same veteran lunch number drive goose limb hold erode";
+var mnemonic = "mask letter oil exercise body border endorse observe guard tuition give lock";
