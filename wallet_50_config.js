@@ -1,1 +1,1 @@
-var mnemonic = "minimum you cheap spot junior choice toddler fruit craft believe critic reveal";
+var mnemonic = "purpose economy hen split citizen emerge domain math guilt mix science junior";

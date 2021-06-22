@@ -1,1 +1,1 @@
-var mnemonic = "water only cattle energy excess priority royal want degree honey fatal method";
+var mnemonic = "laptop melody hurry unknown offer riot lend net priority cluster mansion peace";

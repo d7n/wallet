@@ -1,1 +1,1 @@
-var mnemonic = "uncle uncle include latin render champion hello shield devote slim luxury orphan";
+var mnemonic = "slab fly hawk peasant major frog retire choice valve virus void smile";

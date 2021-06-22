@@ -1,1 +1,1 @@
-var mnemonic = "present winter kid degree attend engage once twist result door artwork discover";
+var mnemonic = "plunge danger junk more number odor item spirit grass abandon trap often";

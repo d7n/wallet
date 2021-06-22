@@ -1,1 +1,1 @@
-var mnemonic = "purpose tunnel fan rug exhibit argue tumble hat miracle prevent omit tongue";
+var mnemonic = "buyer window brick add grid chef crane nasty verify addict rare awesome";

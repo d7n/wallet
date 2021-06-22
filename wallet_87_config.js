@@ -1,1 +1,1 @@
-var mnemonic = "wet height inspire enlist island danger smoke fold admit pen thrive viable";
+var mnemonic = "dirt video opinion client zebra phone crouch slab gossip icon donor crunch";

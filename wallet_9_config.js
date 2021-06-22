@@ -1,1 +1,1 @@
-var mnemonic = "label dose alert giant favorite night strategy cherry pretty chuckle bright tourist";
+var mnemonic = "later uncover inform person limb fragile culture novel learn canvas broom offer";

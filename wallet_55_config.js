@@ -1,1 +1,1 @@
-var mnemonic = "avoid ostrich physical enough depart have ability cattle resist bulb treat simple";
+var mnemonic = "poet decide away bird piano sister apart bind ski grow arrive burst";

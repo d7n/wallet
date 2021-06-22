@@ -1,1 +1,1 @@
-var mnemonic = "antenna essay gym more truth tell kiss plunge bus wheel review burden";
+var mnemonic = "lizard swing exit yellow thunder warm hero horse box poverty sand derive";

@@ -1,1 +1,1 @@
-var mnemonic = "holiday caution payment layer extend warm better van above section system gravity";
+var mnemonic = "enable clay wreck improve obey stumble unfold reflect twice pistol hand match";

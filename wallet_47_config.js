@@ -1,1 +1,1 @@
-var mnemonic = "toilet fog young salt wheel current cry wait sadness cruel buddy swarm";
+var mnemonic = "regret torch hover brick actor fall admit theory path curtain hawk price";

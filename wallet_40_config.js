@@ -1,1 +1,1 @@
-var mnemonic = "debris pudding betray suspect dad flight wood upon invite emotion rabbit tonight";
+var mnemonic = "amount inject letter rotate rifle unable east faith pull burst soda distance";

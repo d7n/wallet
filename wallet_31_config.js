@@ -1,1 +1,1 @@
-var mnemonic = "pupil box puzzle remember glare vessel lizard payment bone either amused sketch";
+var mnemonic = "lamp drip mass matrix key glance climb federal aware subject board private";

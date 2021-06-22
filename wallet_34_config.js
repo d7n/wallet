@@ -1,1 +1,1 @@
-var mnemonic = "lyrics shift drop lady diesel face company guard series tattoo nation age";
+var mnemonic = "grit food hunt grant lamp divide inherit useful cloud crush daughter fringe";

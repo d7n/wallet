@@ -1,1 +1,1 @@
-var mnemonic = "perfect sudden flip never host multiply neutral accident pudding pull entry salute";
+var mnemonic = "napkin shallow bounce grace copper demise dizzy oil diary check youth install";

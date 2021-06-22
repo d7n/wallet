@@ -1,1 +1,1 @@
-var mnemonic = "fire entire shop box major exhibit bracket affair ridge message skate engine";
+var mnemonic = "scheme news person clap catalog cross wolf merry glance eager grape pill";

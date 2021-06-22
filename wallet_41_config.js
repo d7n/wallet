@@ -1,1 +1,1 @@
-var mnemonic = "soap legal tennis cover game robot upon horse family huge champion skull";
+var mnemonic = "throw winner fox cannon candy inherit pioneer spend forget awesome ask have";

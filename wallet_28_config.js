@@ -1,1 +1,1 @@
-var mnemonic = "jazz panel whisper leave seat alone goat lunar intact elite retreat hawk";
+var mnemonic = "safe hub doll juice area fold craft want gadget toast fat together";

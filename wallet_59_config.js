@@ -1,1 +1,1 @@
-var mnemonic = "crime bean evidence travel decrease alcohol air until more phrase barrel nominee";
+var mnemonic = "weekend demand woman fresh found left proud decide evolve spoil another oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "cry high erase dumb tragic venue outdoor north canoe need ugly flame";
+var mnemonic = "country school emerge fit uncover nuclear vapor dance invest pond field dial";

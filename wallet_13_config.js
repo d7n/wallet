@@ -1,1 +1,1 @@
-var mnemonic = "warfare grunt guide fork salute hip valid van result absent donate usual";
+var mnemonic = "carpet youth gorilla news guard slogan shadow sketch that shell evolve staff";

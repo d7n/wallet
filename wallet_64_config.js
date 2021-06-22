@@ -1,1 +1,1 @@
-var mnemonic = "early spice coconut critic market tortoise gas decade average key force rocket";
+var mnemonic = "embrace cube lion hood race foot armor area about decrease recall jump";

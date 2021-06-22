@@ -1,1 +1,1 @@
-var mnemonic = "improve wagon left deputy income expire develop indicate patrol property spoil emerge";
+var mnemonic = "embark neither transfer try siren rhythm thunder risk clinic element rubber doll";

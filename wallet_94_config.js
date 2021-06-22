@@ -1,1 +1,1 @@
-var mnemonic = "caution then supply cereal barely delay twelve genuine aerobic office scorpion concert";
+var mnemonic = "fluid come scan caution gold jealous chunk issue warrior spot clock rely";

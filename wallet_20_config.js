@@ -1,1 +1,1 @@
-var mnemonic = "universe eagle chief destroy lawsuit crack choose piano device plug mother process";
+var mnemonic = "express begin setup card annual avoid plunge between hidden thumb wonder holiday";

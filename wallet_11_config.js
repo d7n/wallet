@@ -1,1 +1,1 @@
-var mnemonic = "shop toy mimic piece spawn year alley analyst amazing sudden sound select";
+var mnemonic = "must abstract silk chef remind lens trust hat alley knife grow suit";

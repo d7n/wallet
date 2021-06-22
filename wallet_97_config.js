@@ -1,1 +1,1 @@
-var mnemonic = "please bulb food depend vast brown rib cricket culture teach sad all";
+var mnemonic = "next ripple divorce slice canyon icon bacon occur reason organ call target";

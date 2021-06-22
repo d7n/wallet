@@ -1,1 +1,1 @@
-var mnemonic = "useful month march fade pipe can goat ticket scale annual digital auction";
+var mnemonic = "vicious option deliver perfect journey script awful release core choose squirrel sure";

@@ -1,1 +1,1 @@
-var mnemonic = "elder atom guess punch illness neglect muffin guide main struggle bread invest";
+var mnemonic = "copper fit bachelor enroll very lyrics spare attack oval slim beyond exotic";

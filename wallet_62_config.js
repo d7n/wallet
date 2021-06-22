@@ -1,1 +1,1 @@
-var mnemonic = "sad repeat deposit emerge stadium goose disorder fat dice phrase solve priority";
+var mnemonic = "chalk keen rib cricket sustain wasp exhaust around flame text retire nuclear";

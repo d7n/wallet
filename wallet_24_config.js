@@ -1,1 +1,1 @@
-var mnemonic = "nature torch sad chronic shadow useful action carpet grace fox two boring";
+var mnemonic = "buffalo bid moral brief patch hockey sadness foot output produce letter duty";

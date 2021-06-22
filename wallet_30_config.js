@@ -1,1 +1,1 @@
-var mnemonic = "cycle emotion hope raise ginger globe maximum bridge fire weekend acquire buddy";
+var mnemonic = "host rich chaos wrap despair mention egg raw strategy fee craft curtain";

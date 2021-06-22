@@ -1,1 +1,1 @@
-var mnemonic = "bracket race man draw foil cart wedding envelope crawl program crumble below";
+var mnemonic = "music second pilot stamp alcohol borrow unfold kingdom aisle green track eagle";

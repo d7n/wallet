@@ -1,1 +1,1 @@
-var mnemonic = "later habit rebel stem cloud hollow local gravity border hazard train rack";
+var mnemonic = "estate nation movie often crucial empty ridge doll song rack mandate earth";

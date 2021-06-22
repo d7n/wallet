@@ -1,1 +1,1 @@
-var mnemonic = "hurry enact elevator order across arm detect prize chaos aim smoke spend";
+var mnemonic = "diary stuff plate elite input hole labor erupt theme crunch outside lawsuit";

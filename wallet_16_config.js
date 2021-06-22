@@ -1,1 +1,1 @@
-var mnemonic = "tell scorpion anxiety road table never manage oxygen evolve diary pottery horror";
+var mnemonic = "cabin damp dynamic cloth name amazing only often uncover approve want soccer";

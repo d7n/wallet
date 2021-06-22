@@ -1,1 +1,1 @@
-var mnemonic = "amateur hybrid label nephew thank practice patrol powder lawsuit spread spend update";
+var mnemonic = "jealous mix worry neutral length void daring agree catch green merge infant";

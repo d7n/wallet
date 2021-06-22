@@ -1,1 +1,1 @@
-var mnemonic = "candy kit solution merry captain brown build salmon sick wear wink popular";
+var mnemonic = "blush style obvious silly oyster garlic talk slide buyer rebuild step weather";

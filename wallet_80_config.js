@@ -1,1 +1,1 @@
-var mnemonic = "glove scan supreme state borrow output fog ramp fatal jazz find miss";
+var mnemonic = "fix extend arrow language debris hip salad melody expand stay about mistake";

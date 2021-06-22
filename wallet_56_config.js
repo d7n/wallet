@@ -1,1 +1,1 @@
-var mnemonic = "ivory maze obtain host glare shine crucial carbon token dose reunion bicycle";
+var mnemonic = "orphan slender humble north cage draft toe ice swift tip void luxury";

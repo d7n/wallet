@@ -1,1 +1,1 @@
-var mnemonic = "head february impact attitude dawn uncover pluck elevator idle soccer mask idle";
+var mnemonic = "escape dignity hover step scale dress move fly pass wisdom predict rabbit";

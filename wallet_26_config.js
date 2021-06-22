@@ -1,1 +1,1 @@
-var mnemonic = "bunker truck denial faculty fun lunch jungle brush soup concert inspire swim";
+var mnemonic = "pool prize drip false saddle shy win proof rose dune filter primary";

@@ -1,1 +1,1 @@
-var mnemonic = "whip supply fence giggle reopen fork screen garage master rib begin huge";
+var mnemonic = "quote unaware vocal reveal clay patrol stumble solve eight virtual spray fat";

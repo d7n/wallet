@@ -1,1 +1,1 @@
-var mnemonic = "panel region spider armor curious bag melody chimney funny render century accident";
+var mnemonic = "mammal gold below can arena slab magnet weasel scorpion milk fish verb";

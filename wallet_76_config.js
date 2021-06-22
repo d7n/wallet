@@ -1,1 +1,1 @@
-var mnemonic = "illness ritual snap glory diary accuse belt bridge question anchor genuine clock";
+var mnemonic = "innocent hood mixture bulk layer frost short rather absorb home two lamp";

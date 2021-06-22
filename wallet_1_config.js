@@ -1,1 +1,1 @@
-var mnemonic = "hope decorate fatigue surge base first blood rebel credit cereal alarm side";
+var mnemonic = "saddle october like joke great maximum try across own output inherit unaware";

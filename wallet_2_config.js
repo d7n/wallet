@@ -1,1 +1,1 @@
-var mnemonic = "weird mix man maid utility nest robust concert sport flip escape toilet";
+var mnemonic = "either question search roast short current cake blur describe school donor affair";

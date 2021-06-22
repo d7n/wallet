@@ -1,1 +1,1 @@
-var mnemonic = "clinic inhale jewel shine repeat attend cheap lazy attract renew spike slush";
+var mnemonic = "cream dolphin gesture accuse ramp carbon holiday rain give author canvas dream";

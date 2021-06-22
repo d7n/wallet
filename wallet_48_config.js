@@ -1,1 +1,1 @@
-var mnemonic = "end theory erosion aisle renew dizzy warfare fit side ability drift endorse";
+var mnemonic = "dust speed atom intact police average slot mother razor position inflict stick";

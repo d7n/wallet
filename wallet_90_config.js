@@ -1,1 +1,1 @@
-var mnemonic = "friend foil enlist nasty margin glide improve bright safe avocado gauge over";
+var mnemonic = "harbor grab penalty space duty prison nest ankle metal side injury stuff";

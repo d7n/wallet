@@ -1,1 +1,1 @@
-var mnemonic = "primary machine athlete awake chat cradle same farm book fly mule violin";
+var mnemonic = "release bridge deal menu advance urban tuna skull engine credit picture way";

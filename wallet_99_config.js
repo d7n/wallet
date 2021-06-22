@@ -1,1 +1,1 @@
-var mnemonic = "retire chunk praise barely risk dutch adjust voice invest because airport coral";
+var mnemonic = "diet sadness position sheriff express imitate govern husband chalk busy cereal desert";

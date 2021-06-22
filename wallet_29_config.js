@@ -1,1 +1,1 @@
-var mnemonic = "shuffle road oak agent medal onion cannon hedgehog artefact spoon lucky fiscal";
+var mnemonic = "prize myself crash spirit arctic route genius seminar ostrich gather valid quantum";

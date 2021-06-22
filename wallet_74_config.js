@@ -1,1 +1,1 @@
-var mnemonic = "cupboard pink problem jaguar bone exit you choice suggest brass bar merge";
+var mnemonic = "danger embody leaf volcano test physical invest pattern lend stable water harvest";

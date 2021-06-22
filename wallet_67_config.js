@@ -1,1 +1,1 @@
-var mnemonic = "rice subway save cactus work camp physical relax merit address popular general";
+var mnemonic = "face village flush dragon chapter indoor already place odor chat dash near";

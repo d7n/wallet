@@ -1,1 +1,1 @@
-var mnemonic = "wage base raccoon merit annual invite dinner immense gate battle unit never";
+var mnemonic = "cause alarm skirt coral cost vote unfair develop track gym vacant fringe";

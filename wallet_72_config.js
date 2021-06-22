@@ -1,1 +1,1 @@
-var mnemonic = "purse ice kind alcohol rice sing upper squeeze shock welcome dizzy tennis";
+var mnemonic = "spare oppose cousin thunder rack awesome business merry struggle top cradle autumn";

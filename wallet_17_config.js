@@ -1,1 +1,1 @@
-var mnemonic = "picnic layer afraid apart come squeeze stock bracket furnace often proud dinosaur";
+var mnemonic = "museum hen latin donor citizen word please nation magnet car lazy mask";

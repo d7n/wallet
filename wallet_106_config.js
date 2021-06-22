@@ -1,1 +1,1 @@
-var mnemonic = "scale mystery slide derive zero either swallow spring earn whale office rapid";
+var mnemonic = "tomorrow resist speak december truly park camera eye engage market easily danger";

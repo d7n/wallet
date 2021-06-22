@@ -1,1 +1,1 @@
-var mnemonic = "this squirrel acid magic quick unaware delay crop cigar region mimic today";
+var mnemonic = "purchase voyage capable whisper assault dolphin amazing hunt sport mobile lizard attitude";

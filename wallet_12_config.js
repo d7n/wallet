@@ -1,1 +1,1 @@
-var mnemonic = "frown year present popular acid helmet exile weasel rate split ball hole";
+var mnemonic = "security mimic during margin hip remove visit undo traffic equal embody traffic";

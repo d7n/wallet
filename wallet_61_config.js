@@ -1,1 +1,1 @@
-var mnemonic = "cool drastic spider energy illness need category profit earth theory ritual since";
+var mnemonic = "moral innocent pottery bridge fee hill ridge arena hole loyal moment law";

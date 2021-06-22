@@ -1,1 +1,1 @@
-var mnemonic = "cave brass elbow farm wisdom pencil garlic else dumb whale coral proof";
+var mnemonic = "parrot film sword soon hollow cause scene neck nest famous alone furnace";

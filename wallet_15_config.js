@@ -1,1 +1,1 @@
-var mnemonic = "famous resemble sea net cave cattle clump chest middle hazard trumpet sugar";
+var mnemonic = "student oxygen fancy meadow humble verify century zero provide engage example raw";

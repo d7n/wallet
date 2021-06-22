@@ -1,1 +1,1 @@
-var mnemonic = "reveal erosion attract body few rescue image hotel unit inherit post actor";
+var mnemonic = "this purpose amused shock feed fame tattoo task draw soccer payment lunch";

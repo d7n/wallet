@@ -1,1 +1,1 @@
-var mnemonic = "asthma frown spatial fuel issue nest coyote cruise title love step labor";
+var mnemonic = "skate post flash rail cabin hip volume release nasty sudden profit sustain";

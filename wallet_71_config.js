@@ -1,1 +1,1 @@
-var mnemonic = "piece worry total beef that royal dynamic boss soon oblige october assault";
+var mnemonic = "blind glad column yard rib bottom brown crazy camp cigar deliver buzz";

@@ -1,1 +1,1 @@
-var mnemonic = "cloth girl jaguar hurdle analyst library inform define absent great prevent cement";
+var mnemonic = "next turkey alert detail multiply source lunch celery crystal wedding exchange conduct";

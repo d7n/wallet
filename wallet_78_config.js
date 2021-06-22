@@ -1,1 +1,1 @@
-var mnemonic = "rich minimum smart combine inform wife globe tornado puzzle element radio lawn";
+var mnemonic = "dust labor open moon only green latin hand history credit option chicken";

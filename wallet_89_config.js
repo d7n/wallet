@@ -1,1 +1,1 @@
-var mnemonic = "phrase surge reward bean extra foot habit jealous nose fly calm cruel";
+var mnemonic = "laugh question copy dose vacuum mystery daughter blouse match welcome club hard";

@@ -1,1 +1,1 @@
-var mnemonic = "blame bitter depend crazy neither shell tongue legal hover daring arrive weapon";
+var mnemonic = "nerve sleep this shed void away find nerve defy buddy mushroom lizard";

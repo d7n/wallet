@@ -1,1 +1,1 @@
-var mnemonic = "member strategy shiver marine stick prize wait only harsh vital near emerge";
+var mnemonic = "neck any know census buddy concert space sniff early model conduct dad";

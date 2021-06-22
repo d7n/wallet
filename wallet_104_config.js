@@ -1,1 +1,1 @@
-var mnemonic = "chest sibling ability sun hungry extend arena violin pride knife donate good";
+var mnemonic = "fix loop original space elite length history moral sand attend enhance dress";

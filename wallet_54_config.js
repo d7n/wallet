@@ -1,1 +1,1 @@
-var mnemonic = "noble mimic canoe cute nice main quantum fire suspect this chef neglect";
+var mnemonic = "satoshi spike swallow quality imitate hour fiber apology system damp carry novel";

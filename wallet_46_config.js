@@ -1,1 +1,1 @@
-var mnemonic = "dismiss negative awful valley tongue hero art leave winter raccoon merry ecology";
+var mnemonic = "hen bag rookie over urban obvious gas lens miracle artefact comic express";

@@ -1,1 +1,1 @@
-var mnemonic = "source train duck clap damage tackle knock disagree turn license ketchup parent";
+var mnemonic = "link between jelly gun leg simple payment opera tenant meadow rug will";

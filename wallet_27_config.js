@@ -1,1 +1,1 @@
-var mnemonic = "reduce range green diesel vital caution tank orchard disagree game school aspect";
+var mnemonic = "immense mix cereal antenna story electric earth mixture idea city paper gospel";

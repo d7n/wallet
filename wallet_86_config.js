@@ -1,1 +1,1 @@
-var mnemonic = "ski double key dizzy essence creek flee dry arrive decade laptop plastic";
+var mnemonic = "move vicious web resource arrive celery cruise vacuum peace like stumble over";

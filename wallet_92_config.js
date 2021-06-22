@@ -1,1 +1,1 @@
-var mnemonic = "debate fresh second family face canal upper happy episode gauge seven jelly";
+var mnemonic = "exist two appear spatial pistol exchange shrimp hard cash film forest squeeze";

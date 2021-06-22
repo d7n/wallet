@@ -1,1 +1,1 @@
-var mnemonic = "enjoy pioneer play vacant trim weird possible venture midnight filter month couch";
+var mnemonic = "typical caution ring pupil rotate result mansion cycle top toast ignore vast";

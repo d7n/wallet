@@ -1,1 +1,1 @@
-var mnemonic = "visa struggle glass ginger limit road perfect hour tackle option bargain song";
+var mnemonic = "lawn derive mom turkey gentle kite genre clinic fade keep zone sell";

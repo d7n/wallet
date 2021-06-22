@@ -1,1 +1,1 @@
-var mnemonic = "wash grain upper keen apart smile mule impulse police retreat practice catch";
+var mnemonic = "hen try present diagram cute tongue walk language stand cash safe push";

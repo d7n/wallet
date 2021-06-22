@@ -1,1 +1,1 @@
-var mnemonic = "fall thought sample assault year better hand spirit seven violin glide soon";
+var mnemonic = "spoon suffer stand exclude artist much sustain emerge like kidney mad stem";

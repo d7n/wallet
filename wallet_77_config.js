@@ -1,1 +1,1 @@
-var mnemonic = "biology prize buffalo skate wage chat another lava shock flat visual path";
+var mnemonic = "middle present raise cheap destroy inspire patch earn head column impulse spring";

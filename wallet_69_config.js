@@ -1,1 +1,1 @@
-var mnemonic = "hawk acquire public sound collect meat safe truly know record slice need";
+var mnemonic = "lady endorse vicious rough harsh medal uncle palm moment lake upper hood";

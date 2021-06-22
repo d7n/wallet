@@ -1,1 +1,1 @@
-var mnemonic = "horror cereal say soccer smile angle ocean dentist noodle turtle noodle alpha";
+var mnemonic = "vague foot shrimp citizen merry mouse huge monster visit apart book dash";

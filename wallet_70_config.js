@@ -1,1 +1,1 @@
-var mnemonic = "regular video script avoid nest nest sunset total cover taste rule away";
+var mnemonic = "extra minor session unknown ritual valve social trial tennis typical spend boat";

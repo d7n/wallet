@@ -1,1 +1,1 @@
-var mnemonic = "fame since order tornado bar match gorilla bracket list gentle joke winter";
+var mnemonic = "license talk parrot addict climb weird agree shield one crush board hybrid";

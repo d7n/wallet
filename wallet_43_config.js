@@ -1,1 +1,1 @@
-var mnemonic = "remind anchor stay whisper amused near scrub correct siren frown pull carry";
+var mnemonic = "bacon empower second master van reflect edge copper rural donate choice bullet";

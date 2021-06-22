@@ -1,1 +1,1 @@
-var mnemonic = "hold require cute input day home liar arrange indicate sibling refuse pulp";
+var mnemonic = "stairs deal situate hundred napkin fashion race mandate donor wonder theory usual";

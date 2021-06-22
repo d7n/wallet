@@ -1,1 +1,1 @@
-var mnemonic = "movie ship vendor blossom region session guilt dismiss inch left guitar scan";
+var mnemonic = "explain digital ride attitude room off dawn ghost erosion power invest brave";

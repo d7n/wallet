@@ -1,1 +1,1 @@
-var mnemonic = "bench high donkey uniform card jeans mammal license congress limb narrow vast";
+var mnemonic = "enforce wheel concert athlete custom chimney fluid screen opinion defense bulk project";
