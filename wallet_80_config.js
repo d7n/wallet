@@ -1,1 +1,1 @@
-var mnemonic = "ball pull room noble drama tool enemy multiply dismiss monitor unaware diet";
+var mnemonic = "ability zebra misery plate become buzz inherit welcome mind profit glimpse knife";

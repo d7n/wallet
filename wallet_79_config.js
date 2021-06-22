@@ -1,1 +1,1 @@
-var mnemonic = "swarm afford pole ranch flame sunset profit frost endorse silent slogan rent";
+var mnemonic = "resemble alcohol clever defense hidden document alcohol deliver keen paddle cruise strategy";

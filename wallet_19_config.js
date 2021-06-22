@@ -1,1 +1,1 @@
-var mnemonic = "roof document dragon olive happy scrub video ahead artist frown mother velvet";
+var mnemonic = "scissors grief predict same veteran lunch number drive goose limb hold erode";

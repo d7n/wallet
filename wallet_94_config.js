@@ -1,1 +1,1 @@
-var mnemonic = "okay cement recipe picnic train shoulder fog advance hospital manual rather unfair";
+var mnemonic = "west confirm volcano snow order science clean gospel sadness seven body meat";

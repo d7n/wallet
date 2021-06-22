@@ -1,1 +1,1 @@
-var mnemonic = "champion engage oppose kit wrist limb wire crisp used lake retreat champion";
+var mnemonic = "high crack table gaze hollow solution spin simple seven fox bunker company";

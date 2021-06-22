@@ -1,1 +1,1 @@
-var mnemonic = "enough salt night quantum couple valley poet visit outdoor friend crane main";
+var mnemonic = "dose wide bleak glass surge near rare diagram rib genius welcome night";

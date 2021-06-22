@@ -1,1 +1,1 @@
-var mnemonic = "dry found lawn select million salute devote door tuition debris flag puppy";
+var mnemonic = "luxury monkey farm absorb parade tip bright kitchen boat grab agree alone";

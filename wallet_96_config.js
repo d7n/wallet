@@ -1,1 +1,1 @@
-var mnemonic = "gallery weekend hammer there speak cage lottery huge energy venue kick chunk";
+var mnemonic = "ceiling child sock vocal window skate horse dream hat erode retire three";

@@ -1,1 +1,1 @@
-var mnemonic = "globe section taste blast tattoo ski rebuild draft similar arrange argue mix";
+var mnemonic = "pull rebel table unusual guard air make spike matter rigid spike exercise";

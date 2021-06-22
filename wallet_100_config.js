@@ -1,1 +1,1 @@
-var mnemonic = "sibling output machine decide bitter refuse river track topple mean banana miracle";
+var mnemonic = "morning impact lawsuit easy such funny swamp print clock boy increase minute";

@@ -1,1 +1,1 @@
-var mnemonic = "skirt tonight manage endorse eager amateur cat flush leaf ill advice use";
+var mnemonic = "attitude stuff squeeze version brush issue giraffe twin shoulder either toward mixed";

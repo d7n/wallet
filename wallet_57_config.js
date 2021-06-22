@@ -1,1 +1,1 @@
-var mnemonic = "seat story hover doll long survey wave nut wheat scout same virtual";
+var mnemonic = "stage local mechanic nurse minor legal pioneer snap prefer opinion horn junk";

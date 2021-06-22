@@ -1,1 +1,1 @@
-var mnemonic = "exit boss bulb diesel skate shallow pond treat dog option toy leg";
+var mnemonic = "frequent risk travel pulse deposit leader lobster piece solar idea define boat";

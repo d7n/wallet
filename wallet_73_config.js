@@ -1,1 +1,1 @@
-var mnemonic = "staff agree poverty wrong latin ocean grass acid bar admit mass section";
+var mnemonic = "heart twin aunt dwarf behind enemy hammer deposit legend safe dizzy place";

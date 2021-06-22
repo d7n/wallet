@@ -1,1 +1,1 @@
-var mnemonic = "cost wish salon minor coast regular double visual proud flight plastic general";
+var mnemonic = "chase record auto census knock step solution ramp illness panda innocent thunder";

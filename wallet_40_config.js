@@ -1,1 +1,1 @@
-var mnemonic = "shift among crane pilot path state negative bid corn usual board amused";
+var mnemonic = "uncle flock poverty middle gossip snake bless diary cereal bridge stool fault";

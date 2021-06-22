@@ -1,1 +1,1 @@
-var mnemonic = "space risk display gadget popular twenty warm load post involve pond convince";
+var mnemonic = "bright joy quarter profit attitude comfort salt solution wreck near awesome pilot";

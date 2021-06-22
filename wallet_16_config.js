@@ -1,1 +1,1 @@
-var mnemonic = "chat achieve floor muscle swarm surge noise legal tree essence grunt believe";
+var mnemonic = "trouble innocent bronze glory mansion joy afford mix original eager olive ribbon";

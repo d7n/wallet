@@ -1,1 +1,1 @@
-var mnemonic = "keen frost stand fish worry around desert round pride snack jungle opinion";
+var mnemonic = "jewel bicycle laugh social physical color strike spike index friend path remember";

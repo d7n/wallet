@@ -1,1 +1,1 @@
-var mnemonic = "between ladder verb air expand menu elegant cargo once differ cube inherit";
+var mnemonic = "umbrella van monster return rather provide bonus open human pave spider below";

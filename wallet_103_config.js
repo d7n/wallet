@@ -1,1 +1,1 @@
-var mnemonic = "job rapid name embark cruel reunion pole learn burger expose earn detail";
+var mnemonic = "filter false swift win announce item reason fog glue ready session soap";

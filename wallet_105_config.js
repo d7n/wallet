@@ -1,1 +1,1 @@
-var mnemonic = "finger involve spare body grant mix whip luxury mercy river alien flush";
+var mnemonic = "buzz area peace time wealth face mom gospel unveil chunk dream return";

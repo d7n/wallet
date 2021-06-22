@@ -1,1 +1,1 @@
-var mnemonic = "mirror tackle east vintage negative cannon pause level liberty dry sadness side";
+var mnemonic = "myth rely legend adjust source zone victory item jacket culture old notice";

@@ -1,1 +1,1 @@
-var mnemonic = "pizza detail tone cost goose mail polar wage extend slab hockey stuff";
+var mnemonic = "unhappy news layer multiply exercise blanket absorb fox oppose clock airport method";

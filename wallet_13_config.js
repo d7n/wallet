@@ -1,1 +1,1 @@
-var mnemonic = "item craft dilemma author noodle leader trick very visa couple morning update";
+var mnemonic = "animal tool timber swamp rug rice wink angle oyster sunny fiction hole";

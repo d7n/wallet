@@ -1,1 +1,1 @@
-var mnemonic = "great mean either daughter catalog reopen audit ahead raccoon purpose six daughter";
+var mnemonic = "submit rate engage aisle dilemma cute idle peasant sorry goose summer couch";

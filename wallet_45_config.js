@@ -1,1 +1,1 @@
-var mnemonic = "awkward edit coconut poet symptom wide museum remind crucial drama element vault";
+var mnemonic = "letter west ranch ivory guard comic fade edge update hope shell pilot";

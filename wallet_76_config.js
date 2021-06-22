@@ -1,1 +1,1 @@
-var mnemonic = "sword cause pepper eagle divert solution liberty seminar banner aim science moment";
+var mnemonic = "industry rigid host promote wait gas blade ethics define fly client attack";

@@ -1,1 +1,1 @@
-var mnemonic = "pause glare leg wrestle yard hard crime warrior proof purse credit worry";
+var mnemonic = "twenty frog report else number maple blouse width indicate engine divorce extra";

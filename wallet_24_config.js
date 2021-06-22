@@ -1,1 +1,1 @@
-var mnemonic = "casual width express brother surface lecture arena install panel door oxygen head";
+var mnemonic = "crack copper ritual home settle carbon oppose crowd adapt oven spot post";

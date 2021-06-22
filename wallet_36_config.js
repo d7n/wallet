@@ -1,1 +1,1 @@
-var mnemonic = "vanish farm hazard action cheese goat badge genre debate apart nerve aerobic";
+var mnemonic = "cat depend crane hill orange give lawsuit anchor cash celery submit frown";

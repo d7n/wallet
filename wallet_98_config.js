@@ -1,1 +1,1 @@
-var mnemonic = "know fork zone broom grape gravity episode you genuine arrest arrange biology";
+var mnemonic = "float coconut local measure science argue umbrella mixture ordinary clap fault coach";

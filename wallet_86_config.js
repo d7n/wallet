@@ -1,1 +1,1 @@
-var mnemonic = "swear outside town trim biology picture thought round yellow burger settle pass";
+var mnemonic = "flush into canal style tortoise taste radar audit strong flip try lunar";

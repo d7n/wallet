@@ -1,1 +1,1 @@
-var mnemonic = "slide symptom matter hurry treat write chimney biology girl throw style dutch";
+var mnemonic = "away proof grow worry cause bamboo dream scrap feed cost victory build";

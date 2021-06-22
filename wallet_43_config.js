@@ -1,1 +1,1 @@
-var mnemonic = "robust gasp spend hybrid venue nothing favorite mercy devote drive stone result";
+var mnemonic = "become rally frown industry foam surprise rabbit fringe announce keen possible man";

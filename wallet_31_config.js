@@ -1,1 +1,1 @@
-var mnemonic = "subway connect dragon fiscal scrub deny monkey since puppy motor ritual invest";
+var mnemonic = "coach accuse lottery flower strike balcony stay plunge crucial trigger yard belt";

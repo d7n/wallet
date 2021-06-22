@@ -1,1 +1,1 @@
-var mnemonic = "camp beach burden south screen series input cycle february valve deer wild";
+var mnemonic = "social range outer model best old grid catalog skin leisure party slight";

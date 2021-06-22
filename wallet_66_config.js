@@ -1,1 +1,1 @@
-var mnemonic = "piece bleak front used grace flavor morning nest matrix across fantasy elevator";
+var mnemonic = "seat skull announce text dose surprise snow sight planet talent unusual tonight";

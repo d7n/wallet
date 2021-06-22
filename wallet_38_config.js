@@ -1,1 +1,1 @@
-var mnemonic = "step vast critic bind vivid menu tool evoke barely broom loan coral";
+var mnemonic = "bird tilt soda rural satisfy twice frown jacket retreat please energy mammal";

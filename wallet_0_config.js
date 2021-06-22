@@ -1,1 +1,1 @@
-var mnemonic = "silk reject armor engine anger window hundred apple soup vacant proud pipe";
+var mnemonic = "inquiry one reason finish desk clip thrive response mushroom property wreck chuckle";

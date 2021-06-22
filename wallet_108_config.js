@@ -1,1 +1,1 @@
-var mnemonic = "gaze dumb ignore amazing liquid safe illness canyon asthma accuse novel amateur";
+var mnemonic = "furnace there drive submit stuff copy worry return loyal trumpet tomato excite";

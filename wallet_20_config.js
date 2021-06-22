@@ -1,1 +1,1 @@
-var mnemonic = "sight brave recipe slush rebuild oblige lyrics symbol comfort phrase lab fiscal";
+var mnemonic = "enrich pioneer cannon pluck siren cheese action sustain aisle penalty harsh tower";

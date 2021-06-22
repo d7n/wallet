@@ -1,1 +1,1 @@
-var mnemonic = "silver curtain mixture tank skull mirror veteran sword afraid ship return stay";
+var mnemonic = "oil off someone ketchup cushion vocal pig pitch virtual kiwi weasel town";

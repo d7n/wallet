@@ -1,1 +1,1 @@
-var mnemonic = "focus wine hero call fashion solve naive response lift capable used predict";
+var mnemonic = "horse toss like casual since spot help lunch toward side enforce brain";

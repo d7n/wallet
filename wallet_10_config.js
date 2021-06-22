@@ -1,1 +1,1 @@
-var mnemonic = "retire pattern six hard pudding genre choose shell economy merry section hundred";
+var mnemonic = "danger slogan surprise spider wash sure chunk host category lemon weapon later";

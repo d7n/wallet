@@ -1,1 +1,1 @@
-var mnemonic = "gown into tuition metal empower road meadow inner bright harbor blade over";
+var mnemonic = "basic network lecture alcohol army fitness goddess slice profit order roof prevent";

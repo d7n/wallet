@@ -1,1 +1,1 @@
-var mnemonic = "label brick human what march motor refuse hospital phrase ready sweet bicycle";
+var mnemonic = "hotel print entry lazy steel agent become subject blood road ridge make";

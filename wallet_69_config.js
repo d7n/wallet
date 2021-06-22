@@ -1,1 +1,1 @@
-var mnemonic = "laptop verify sweet genre nest inner transfer actress mom coffee squeeze today";
+var mnemonic = "choice toy fame outdoor tide round february ensure awake cheese hawk emerge";

@@ -1,1 +1,1 @@
-var mnemonic = "fancy sketch humble door drastic gallery fork behave story fame prize giggle";
+var mnemonic = "snap intact rookie rival clown apart destroy slide fence donate wealth snow";

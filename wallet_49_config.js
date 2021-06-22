@@ -1,1 +1,1 @@
-var mnemonic = "stool dolphin eternal pencil long luxury near foot toy empty combine ahead";
+var mnemonic = "almost ribbon wonder phone impulse tobacco power attract burden impact any patient";

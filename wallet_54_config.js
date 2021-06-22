@@ -1,1 +1,1 @@
-var mnemonic = "famous soap sorry dentist naive flash express gravity insane number thumb talk";
+var mnemonic = "promote marriage napkin twin beef differ flag sorry vast stadium antique prize";

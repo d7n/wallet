@@ -1,1 +1,1 @@
-var mnemonic = "history planet chef lobster seed fame impact fitness appear quarter plug year";
+var mnemonic = "unaware fluid kick fatal hunt shoulder reunion east error bunker stadium negative";

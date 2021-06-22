@@ -1,1 +1,1 @@
-var mnemonic = "twenty cereal jeans ensure tilt artefact burger boring spring swear candy include";
+var mnemonic = "decrease benefit burst column fat sketch day sunset attitude vast fancy beyond";

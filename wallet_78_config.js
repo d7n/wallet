@@ -1,1 +1,1 @@
-var mnemonic = "card regret eye biology violin vibrant wise duck bar crush scatter start";
+var mnemonic = "fence monitor ready inside space gorilla lazy tent dose random bullet cost";

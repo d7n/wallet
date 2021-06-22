@@ -1,1 +1,1 @@
-var mnemonic = "recipe fruit become vivid dutch struggle dial token manage shiver spirit negative";
+var mnemonic = "runway light accuse skirt rapid fury country gauge report ecology own add";

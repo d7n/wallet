@@ -1,1 +1,1 @@
-var mnemonic = "minute shell weapon box win pitch token bench puzzle razor pumpkin size";
+var mnemonic = "live gentle dad menu silk sudden moon warfare junior else purpose afraid";

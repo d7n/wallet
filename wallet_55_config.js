@@ -1,1 +1,1 @@
-var mnemonic = "immune come hamster flush praise dove route token depend access express bone";
+var mnemonic = "screen shift rain history six toy toast emerge tattoo canyon promote topple";

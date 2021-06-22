@@ -1,1 +1,1 @@
-var mnemonic = "ghost possible exhibit trouble romance powder talent theory art squirrel sight buzz";
+var mnemonic = "toast very beauty nation cigar pulp arm dry syrup title intact ribbon";

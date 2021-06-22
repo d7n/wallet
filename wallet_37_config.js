@@ -1,1 +1,1 @@
-var mnemonic = "city service effort bar negative glance tourist dream want blur among used";
+var mnemonic = "slot bone duck blanket tornado south dove place before over adapt major";

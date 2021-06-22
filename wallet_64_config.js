@@ -1,1 +1,1 @@
-var mnemonic = "risk canvas maze render glance hospital describe again appear globe awake omit";
+var mnemonic = "push renew festival insect become magnet bulb include deny virus napkin bless";

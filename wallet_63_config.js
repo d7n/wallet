@@ -1,1 +1,1 @@
-var mnemonic = "mosquito have hotel siege express sing shallow life present pelican tone math";
+var mnemonic = "public mixed they shield task ocean virtual glass rack milk battle thumb";

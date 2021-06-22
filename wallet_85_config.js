@@ -1,1 +1,1 @@
-var mnemonic = "cruel split donor spirit verb stadium move nurse habit bench mention wrist";
+var mnemonic = "rare eight explain almost job setup alien world fortune fire canyon void";

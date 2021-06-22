@@ -1,1 +1,1 @@
-var mnemonic = "artist wrap require type future drop rotate secret road blame smart bullet";
+var mnemonic = "emotion shy slice thing battle pretty permit advance spice twist lion extra";

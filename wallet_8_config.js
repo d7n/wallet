@@ -1,1 +1,1 @@
-var mnemonic = "tongue leader unhappy piece crisp mule sponsor same apology mystery swap ethics";
+var mnemonic = "spin torch cement child innocent blast banana slide sell hybrid treat glare";

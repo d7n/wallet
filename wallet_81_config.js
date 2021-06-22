@@ -1,1 +1,1 @@
-var mnemonic = "assume shadow engage morning sound stereo hip violin spoil surprise kangaroo theme";
+var mnemonic = "swarm myself once stock expire cannon ostrich sound pilot screen top devote";

@@ -1,1 +1,1 @@
-var mnemonic = "amused pottery category equal demand alone ozone faculty depth raise fade repair";
+var mnemonic = "code safe learn finger above segment monster guard leaf arm city jaguar";

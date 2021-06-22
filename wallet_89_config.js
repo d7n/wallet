@@ -1,1 +1,1 @@
-var mnemonic = "trash reflect reveal never viable world system virus twice prosper gain input";
+var mnemonic = "wagon fun legend deliver invest foam common ecology bone uncle skull critic";

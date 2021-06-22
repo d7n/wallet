@@ -1,1 +1,1 @@
-var mnemonic = "video vault bright decade follow cupboard mercy head gravity pizza panel ladder";
+var mnemonic = "sleep two type boil expose advice arrive divorce measure favorite man coast";

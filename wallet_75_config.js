@@ -1,1 +1,1 @@
-var mnemonic = "pull estate leader egg tobacco cancel slender common supreme barrel perfect tape";
+var mnemonic = "setup woman burden destroy sure shoot pledge claim monkey explain phrase tribe";

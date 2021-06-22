@@ -1,1 +1,1 @@
-var mnemonic = "ghost advance burger endless share game friend liquid tattoo isolate bar demand";
+var mnemonic = "wire cause alarm scorpion tissue often select common enter old output account";

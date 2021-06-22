@@ -1,1 +1,1 @@
-var mnemonic = "solar shoe couch cycle salon dynamic action motion ketchup network script travel";
+var mnemonic = "rhythm brief agree sadness result cabbage bike apple there retire flower ignore";

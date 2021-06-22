@@ -1,1 +1,1 @@
-var mnemonic = "settle cabin barely link rule solution connect list skirt more bench tail";
+var mnemonic = "claim physical praise weasel item voice basket conduct daughter clarify apart father";

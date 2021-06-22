@@ -1,1 +1,1 @@
-var mnemonic = "brief air engage message online domain write boy estate crime improve genuine";
+var mnemonic = "small tattoo essay fatal nurse come now uphold cherry gain rug siege";

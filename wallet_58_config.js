@@ -1,1 +1,1 @@
-var mnemonic = "section blast film screen tomato fossil quality glove evil book pen panda";
+var mnemonic = "wisdom key throw vague paddle bleak abuse limb rocket initial lumber lamp";

@@ -1,1 +1,1 @@
-var mnemonic = "reward item fashion benefit easy include brief engage emotion proud crouch two";
+var mnemonic = "mechanic hockey throw industry duck idle wire force silver winner affair bring";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle ticket chat lava book verify lonely same zoo board impose summer";
+var mnemonic = "legal thrive curtain abstract hair hero wall accident crouch vivid art monster";

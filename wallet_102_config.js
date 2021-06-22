@@ -1,1 +1,1 @@
-var mnemonic = "unfair sphere relief whale senior need lawn chicken novel cliff area ripple";
+var mnemonic = "cotton harvest fade cannon lake brisk nest emotion choose sentence ancient program";

@@ -1,1 +1,1 @@
-var mnemonic = "custom napkin veteran accident render toddler century little vocal hawk kiss tent";
+var mnemonic = "treat nation bird wagon knife desk foster surge minimum flight crumble lesson";

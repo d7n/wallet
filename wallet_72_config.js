@@ -1,1 +1,1 @@
-var mnemonic = "carbon art legal odor believe flash ugly summer bulb dawn year wait";
+var mnemonic = "coffee rocket robust error isolate obscure earth muffin once process neither adjust";

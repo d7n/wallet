@@ -1,1 +1,1 @@
-var mnemonic = "capable thank define tell jeans castle like input finger brisk struggle first";
+var mnemonic = "put copper firm key loud blood timber habit apple slide park embark";

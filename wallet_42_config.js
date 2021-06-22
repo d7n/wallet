@@ -1,1 +1,1 @@
-var mnemonic = "lamp shift relax fitness tenant puzzle rug spend wide often recall false";
+var mnemonic = "tape awful guard quiz alcohol fiscal alcohol frozen letter tissue pattern quantum";

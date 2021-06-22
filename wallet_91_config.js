@@ -1,1 +1,1 @@
-var mnemonic = "switch slide limb garage anchor hill garbage predict panic loan pig recall";
+var mnemonic = "fiction guess lift stand hub warrior collect reopen just load sausage barely";

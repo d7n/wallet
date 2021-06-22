@@ -1,1 +1,1 @@
-var mnemonic = "stamp animal attract captain extend void stamp mention bonus exhibit subject can";
+var mnemonic = "squirrel breeze uphold twin lawn moral small dash empower wreck wonder square";

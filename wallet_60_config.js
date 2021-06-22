@@ -1,1 +1,1 @@
-var mnemonic = "involve wire menu bridge apology advice twice lava divide animal trumpet license";
+var mnemonic = "page abandon problem replace matter clock robot under reward thought stable cram";

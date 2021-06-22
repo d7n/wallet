@@ -1,1 +1,1 @@
-var mnemonic = "refuse loyal usual stock weird improve embrace melt romance genre acid various";
+var mnemonic = "side clown embody raccoon sing nose square below since erode destroy rare";

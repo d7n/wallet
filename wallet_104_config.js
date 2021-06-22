@@ -1,1 +1,1 @@
-var mnemonic = "vital health sauce buffalo glide sunny adjust wall mirror tuition survey coil";
+var mnemonic = "subject ability assist now stuff cable tooth crouch speak home middle venue";

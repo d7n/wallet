@@ -1,1 +1,1 @@
-var mnemonic = "click join clog vessel output saddle cliff tube height tobacco whip table";
+var mnemonic = "guilt foil wool city raven churn pitch giggle describe enjoy battle neutral";

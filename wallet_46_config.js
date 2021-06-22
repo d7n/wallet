@@ -1,1 +1,1 @@
-var mnemonic = "keen remove almost away strike awful caution brisk fence marble film unfold";
+var mnemonic = "snake surge answer device advice hope olive clip silly canoe film photo";

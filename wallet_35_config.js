@@ -1,1 +1,1 @@
-var mnemonic = "connect banana velvet uncover gentle very rain member praise super stool pilot";
+var mnemonic = "fox thunder marble truck before small people source rather ozone oyster pair";

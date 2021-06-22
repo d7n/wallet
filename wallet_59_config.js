@@ -1,1 +1,1 @@
-var mnemonic = "tank gasp clump seed drama panther afford scrub cheap drum rhythm mountain";
+var mnemonic = "offer brisk leisure rain foster local kid opera push card library siren";

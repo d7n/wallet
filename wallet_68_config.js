@@ -1,1 +1,1 @@
-var mnemonic = "zoo raccoon gloom ahead enrich cradle exercise injury indoor mind mushroom aware";
+var mnemonic = "adapt dash stadium solid staff tree park crane manual leave silly super";

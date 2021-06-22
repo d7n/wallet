@@ -1,1 +1,1 @@
-var mnemonic = "sound dove symbol more nose cute rocket child final aunt finish cage";
+var mnemonic = "night plate vibrant glide army tomato hen cushion inspire foot polar neglect";

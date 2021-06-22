@@ -1,1 +1,1 @@
-var mnemonic = "treat lunar misery vendor series today tone mushroom trial letter figure pumpkin";
+var mnemonic = "assist bench copy era push cram art clever law speed finish sponsor";

@@ -1,1 +1,1 @@
-var mnemonic = "crawl dove tide float orphan wet rally uncover minimum mean dirt denial";
+var mnemonic = "actor fine junior theory inmate empty slot fluid repeat cage animal reason";
