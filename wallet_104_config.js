@@ -1,1 +1,1 @@
-var mnemonic = "market marriage isolate conduct fly hard need embark scale board car antenna";
+var mnemonic = "nerve burden nuclear sorry audit stuff galaxy judge oblige clown addict almost";

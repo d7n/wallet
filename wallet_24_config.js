@@ -1,1 +1,1 @@
-var mnemonic = "acquire exhaust need similar danger topic search diary cup height climb olive";
+var mnemonic = "economy prison door round throw veteran device drift round enhance brother team";

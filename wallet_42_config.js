@@ -1,1 +1,1 @@
-var mnemonic = "found erosion book submit sister accuse dizzy bullet maze myself tag tiger";
+var mnemonic = "genre caught fold noise river sheriff theory toy remove enforce sense measure";

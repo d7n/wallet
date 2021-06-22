@@ -1,1 +1,1 @@
-var mnemonic = "luxury bottom jealous fee morning issue poet betray crater dice cheese cargo";
+var mnemonic = "face million repair appear keen crawl pony gloom hunt always artefact click";

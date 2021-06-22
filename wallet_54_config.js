@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit axis acquire grain gasp search say always walk erupt pumpkin river";
+var mnemonic = "toddler pioneer medal crane moral blanket certain addict during media rhythm orchard";

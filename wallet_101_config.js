@@ -1,1 +1,1 @@
-var mnemonic = "citizen kite green wise dumb peasant arrive silver inspire acquire syrup shock";
+var mnemonic = "topic already spread once hen reveal gravity brown reason two inch pig";

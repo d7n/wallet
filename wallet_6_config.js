@@ -1,1 +1,1 @@
-var mnemonic = "keep empower world upon angry favorite eager stairs option announce junk return";
+var mnemonic = "average write twin idea amateur dash credit write time mobile legal wine";

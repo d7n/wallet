@@ -1,1 +1,1 @@
-var mnemonic = "mercy grace air canyon bring diesel shine convince energy label rescue flush";
+var mnemonic = "choice marine laptop farm elevator save install noise naive tail spatial kiss";

@@ -1,1 +1,1 @@
-var mnemonic = "drip custom favorite vital clerk announce ten pig trigger object cactus stadium";
+var mnemonic = "noble spin twice use shove connect erupt tumble fortune much portion soft";

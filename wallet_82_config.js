@@ -1,1 +1,1 @@
-var mnemonic = "glove lady slight bar proof act page casual kite buyer swarm blame";
+var mnemonic = "cousin moment agent attend upon scare thank high roof saddle pear clump";

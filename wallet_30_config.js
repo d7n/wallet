@@ -1,1 +1,1 @@
-var mnemonic = "tennis notable soda nation nephew click buzz trade talk delay expose illegal";
+var mnemonic = "science oxygen finish club snake already sword jealous alter fog clip animal";

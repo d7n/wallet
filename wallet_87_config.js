@@ -1,1 +1,1 @@
-var mnemonic = "slab antenna range service trip whip client pool melody leisure lake all";
+var mnemonic = "pill indicate vicious steak crater credit angle direct arrive lawsuit mass cancel";

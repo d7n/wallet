@@ -1,1 +1,1 @@
-var mnemonic = "sport tiny fiscal traffic athlete shadow tray hamster pattern grace rack bronze";
+var mnemonic = "country pulp gym hole amused fat minimum normal text elevator monitor puzzle";

@@ -1,1 +1,1 @@
-var mnemonic = "bundle tail price lawn envelope appear audit tag foam club meat ahead";
+var mnemonic = "certain chase point blast globe artefact bird ring lady shuffle nasty curious";

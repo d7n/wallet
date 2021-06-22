@@ -1,1 +1,1 @@
-var mnemonic = "theory trim action swing actual issue great age situate deputy top squeeze";
+var mnemonic = "right small print dog write atom until pattern problem column you shallow";

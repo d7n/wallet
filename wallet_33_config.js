@@ -1,1 +1,1 @@
-var mnemonic = "view patrol erase chimney inch blossom art like valve disagree shield cherry";
+var mnemonic = "apple wet weekend enable immense online afraid crazy blanket deputy ticket property";

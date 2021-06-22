@@ -1,1 +1,1 @@
-var mnemonic = "buffalo huge dice miss tail throw fit mail grocery love slam learn";
+var mnemonic = "rude possible lion grocery decade canyon fan gather dice bottom over choice";

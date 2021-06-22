@@ -1,1 +1,1 @@
-var mnemonic = "awful drum transfer fatal flush chuckle case insane what upon elder switch";
+var mnemonic = "oyster roast grocery burst wealth strong link roof arctic voice poet below";

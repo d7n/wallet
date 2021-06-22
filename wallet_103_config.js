@@ -1,1 +1,1 @@
-var mnemonic = "reveal grant strong spice inherit illegal apart energy soldier boost human soup";
+var mnemonic = "favorite candy trick hat genre spoil little priority leaf portion tourist negative";

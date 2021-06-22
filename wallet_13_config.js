@@ -1,1 +1,1 @@
-var mnemonic = "slide risk rely truth clap volcano zero wash rifle eagle coil account";
+var mnemonic = "rich sadness jungle kitten stem faint journey turn icon adult person valley";

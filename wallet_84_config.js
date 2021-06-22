@@ -1,1 +1,1 @@
-var mnemonic = "cruise year dry coach lunar swamp sad kind come inquiry evolve alter";
+var mnemonic = "diamond capital hunt balance field sun various scene mask hat dolphin trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "escape lady high dismiss maze fit post juice sadness insect clap memory";
+var mnemonic = "cluster banner extra behind youth enlist wood insane prevent drastic cook final";

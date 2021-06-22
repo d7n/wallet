@@ -1,1 +1,1 @@
-var mnemonic = "solar drum reopen rare mix neglect cliff cruel rude novel gallery lumber";
+var mnemonic = "consider goose thank ritual course stuff column sorry fuel high lake hurdle";

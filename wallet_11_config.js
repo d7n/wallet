@@ -1,1 +1,1 @@
-var mnemonic = "hand panther endless genius thumb moment leave tattoo legal sunny wrestle card";
+var mnemonic = "vague since april amount crunch lawsuit then final misery fee crater risk";

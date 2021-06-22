@@ -1,1 +1,1 @@
-var mnemonic = "again enemy rail cabin question pink mom absorb foil model urge jungle";
+var mnemonic = "creek protect gym quick try valve practice speak teach nothing menu stone";

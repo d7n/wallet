@@ -1,1 +1,1 @@
-var mnemonic = "weather worry void behind speed ordinary false home dinner party salad transfer";
+var mnemonic = "chuckle extend trade rotate thing habit invest neck act fox bachelor ribbon";

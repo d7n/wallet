@@ -1,1 +1,1 @@
-var mnemonic = "friend wave wheat happy expand field butter diagram lobster man kiwi when";
+var mnemonic = "tone scatter process capital pipe fork size install near cigar festival size";

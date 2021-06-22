@@ -1,1 +1,1 @@
-var mnemonic = "report ceiling update cross fall connect history daring retreat movie soup silver";
+var mnemonic = "mushroom noise slot rail ready maple picnic cover afford diesel defense truth";

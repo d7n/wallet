@@ -1,1 +1,1 @@
-var mnemonic = "cloud guide road grab unlock height matter sport merit face throw coral";
+var mnemonic = "run desk sick slam into maple exhaust kid ozone museum monkey dish";

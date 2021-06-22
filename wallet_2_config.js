@@ -1,1 +1,1 @@
-var mnemonic = "word sure acid skin midnight index saddle convince object thing stairs blur";
+var mnemonic = "divide dinosaur potato sister diet attract hold peasant inherit robot turkey derive";

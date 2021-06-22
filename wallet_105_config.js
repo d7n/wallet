@@ -1,1 +1,1 @@
-var mnemonic = "critic path shed february length slow whale copy confirm material wagon spice";
+var mnemonic = "child reward year useless screen wisdom medal shield scan treat security pull";

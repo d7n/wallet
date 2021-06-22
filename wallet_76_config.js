@@ -1,1 +1,1 @@
-var mnemonic = "transfer cause decline screen turn joy cupboard return load ribbon belt despair";
+var mnemonic = "identify chat scan someone december yellow portion ready ceiling dune sight life";

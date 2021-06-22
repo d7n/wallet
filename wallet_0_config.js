@@ -1,1 +1,1 @@
-var mnemonic = "style three apple one cousin vicious federal color gallery stomach parade clay";
+var mnemonic = "mercy action message camera broccoli stereo taste pride project bonus connect knee";

@@ -1,1 +1,1 @@
-var mnemonic = "mean bike lazy boy spring exercise cruise host cruel together upper rapid";
+var mnemonic = "laugh media tell rabbit catalog leisure stereo true day indicate kite lemon";

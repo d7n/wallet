@@ -1,1 +1,1 @@
-var mnemonic = "remember left satisfy snap antique cheese spatial almost hospital elevator oblige van";
+var mnemonic = "kidney salon right avoid join gas champion embark sadness improve arch mercy";

@@ -1,1 +1,1 @@
-var mnemonic = "predict route village dumb mad connect lens inner rebuild travel melody hamster";
+var mnemonic = "round addict rough feature menu aerobic riot vault universe kiwi dumb wide";

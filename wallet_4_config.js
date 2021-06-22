@@ -1,1 +1,1 @@
-var mnemonic = "real you exhaust champion cannon pledge rubber wife snow between want prize";
+var mnemonic = "please biology sniff spray life hint sing usage jaguar assist goddess follow";

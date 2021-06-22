@@ -1,1 +1,1 @@
-var mnemonic = "where subject split glove rural penalty knee frown shed jungle track uniform";
+var mnemonic = "choice pizza small twice pony pipe infant someone cattle above million level";

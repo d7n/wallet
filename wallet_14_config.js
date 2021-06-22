@@ -1,1 +1,1 @@
-var mnemonic = "label settle tower cargo brick mirror require mad april name actress lift";
+var mnemonic = "page observe hazard course ridge index glimpse demise people setup piece spoon";

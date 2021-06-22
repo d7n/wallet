@@ -1,1 +1,1 @@
-var mnemonic = "shiver real bless blue vanish question become alarm you share caught polar";
+var mnemonic = "nice carry chef chase like welcome raven motion sail vacuum oval alpha";

@@ -1,1 +1,1 @@
-var mnemonic = "armor feature grunt cream swallow august energy obtain embody hammer assault acid";
+var mnemonic = "diary galaxy choice donate mechanic mail express yellow bone chicken confirm chef";

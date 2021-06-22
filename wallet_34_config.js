@@ -1,1 +1,1 @@
-var mnemonic = "slush crumble useful air cradle decade great cute online clarify mosquito slice";
+var mnemonic = "glass drift speed post chair critic sea diamond opinion clever pill screen";

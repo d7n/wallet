@@ -1,1 +1,1 @@
-var mnemonic = "dizzy portion mad brass poverty question palace deer lock power orchard regret";
+var mnemonic = "agree embody repeat loan capital glide soccer treat amount seat frog law";

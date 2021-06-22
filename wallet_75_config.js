@@ -1,1 +1,1 @@
-var mnemonic = "tip task oxygen exotic country olympic charge slight concert ecology minute fiscal";
+var mnemonic = "stereo imitate over obvious edit desk motor tortoise try power choice obvious";

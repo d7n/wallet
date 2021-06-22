@@ -1,1 +1,1 @@
-var mnemonic = "use census oval suffer call weather brave note earn reflect bundle fabric";
+var mnemonic = "clay egg feature similar exist amazing eight liberty rib bitter worry bike";

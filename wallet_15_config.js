@@ -1,1 +1,1 @@
-var mnemonic = "shell hello mixture plastic blossom hat business village wall pledge palm detail";
+var mnemonic = "venue consider feature sunny blush remain master apple humor crystal scissors moment";

@@ -1,1 +1,1 @@
-var mnemonic = "economy noble purity liquid consider meat hurdle oven double oval claim involve";
+var mnemonic = "dizzy kid false salad donate twelve illegal garbage inch liquid void entire";

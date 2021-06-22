@@ -1,1 +1,1 @@
-var mnemonic = "powder february shoulder account silk harsh dolphin bomb weather castle demise wet";
+var mnemonic = "stem silent glide twist subject desk blast quick stereo army glare danger";

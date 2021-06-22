@@ -1,1 +1,1 @@
-var mnemonic = "galaxy cupboard dune nasty drop chimney drastic arrest gossip atom energy prize";
+var mnemonic = "nose test dirt away bonus hole call autumn path cabin sleep twenty";

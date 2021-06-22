@@ -1,1 +1,1 @@
-var mnemonic = "insect short heart dizzy scissors river inhale ghost involve skin chef captain";
+var mnemonic = "arctic finger humor hour actress know repeat fame apart mushroom whisper owner";

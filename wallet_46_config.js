@@ -1,1 +1,1 @@
-var mnemonic = "isolate solution surprise move few debris final impact burden game because define";
+var mnemonic = "involve giant hollow spring plug earn urban dice blush coral series artist";

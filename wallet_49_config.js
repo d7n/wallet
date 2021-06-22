@@ -1,1 +1,1 @@
-var mnemonic = "negative mango laundry response medal basic plug obtain legend spy fancy lens";
+var mnemonic = "exchange awkward fabric weapon inmate tomato page account key author fold history";

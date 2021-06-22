@@ -1,1 +1,1 @@
-var mnemonic = "expect scissors hour rule blanket news taxi limb clog gaze song tribe";
+var mnemonic = "believe cash park rubber hold inquiry fetch live harbor ramp glance caught";

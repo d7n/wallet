@@ -1,1 +1,1 @@
-var mnemonic = "inject infant theme blue pave across grape heavy muscle sweet hole nurse";
+var mnemonic = "action filter swim acoustic cost strategy asthma wrap kidney enroll pond note";

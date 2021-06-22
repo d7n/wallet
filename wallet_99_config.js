@@ -1,1 +1,1 @@
-var mnemonic = "jelly parrot match debate virus hat bread exchange odor cluster remember salon";
+var mnemonic = "jump fatigue health digital genuine congress service walk nominee glimpse nominee pilot";

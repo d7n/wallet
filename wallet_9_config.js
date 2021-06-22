@@ -1,1 +1,1 @@
-var mnemonic = "surface cigar expose silk treat furnace fence ethics mistake cross melody mother";
+var mnemonic = "decade sudden slab satisfy crane math rival october shiver hair lake stereo";

@@ -1,1 +1,1 @@
-var mnemonic = "arctic object icon army morning uphold derive injury raccoon foster cigar neutral";
+var mnemonic = "gloom polar liar runway order monkey trouble matrix repeat brick green region";

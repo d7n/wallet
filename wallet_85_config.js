@@ -1,1 +1,1 @@
-var mnemonic = "wheel soup author benefit stumble rough layer victory problem glance limb nurse";
+var mnemonic = "rigid upon weekend distance noodle merit mistake zero march corn near effort";

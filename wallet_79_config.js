@@ -1,1 +1,1 @@
-var mnemonic = "latin poverty horse route talent bulk fat release print vanish craft zone";
+var mnemonic = "trigger hospital denial idle edit wolf mobile wrap cattle situate drink tag";

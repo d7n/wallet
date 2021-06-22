@@ -1,1 +1,1 @@
-var mnemonic = "ahead hurry eye minute kite other tomorrow design sand curious vehicle country";
+var mnemonic = "reason club earth cargo collect syrup identify flash romance odor woman repair";

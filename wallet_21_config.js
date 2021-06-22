@@ -1,1 +1,1 @@
-var mnemonic = "sun chunk win zero mirror abuse marble plastic odor brass undo laundry";
+var mnemonic = "silent cabin final update oak catch little aunt bubble charge cargo icon";

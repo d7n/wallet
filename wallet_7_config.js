@@ -1,1 +1,1 @@
-var mnemonic = "jaguar foster analyst puzzle ugly flush olympic year boring turkey wish pigeon";
+var mnemonic = "clay beef pride couple rebuild result object modify torch stem suspect degree";

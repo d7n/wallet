@@ -1,1 +1,1 @@
-var mnemonic = "syrup slab pill cinnamon design scheme above crush all blanket injury habit";
+var mnemonic = "guard snap economy retreat artwork uphold attack small card tired artwork puzzle";

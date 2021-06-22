@@ -1,1 +1,1 @@
-var mnemonic = "famous artist wrestle sausage learn robust differ universe repeat decorate trust deal";
+var mnemonic = "memory embody jelly rule secret pipe know save hobby balcony demand minimum";

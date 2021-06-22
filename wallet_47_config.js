@@ -1,1 +1,1 @@
-var mnemonic = "practice burger fade cigar tuna false merry bike grunt fruit bubble frame";
+var mnemonic = "need swarm assume solar kingdom wonder concert urge maze pass globe pet";

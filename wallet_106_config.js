@@ -1,1 +1,1 @@
-var mnemonic = "west knee matter six renew scene include ritual select stock radio loyal";
+var mnemonic = "clarify actual april fan leisure scrap sword turn pony asset capable aware";

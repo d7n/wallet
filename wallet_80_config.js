@@ -1,1 +1,1 @@
-var mnemonic = "advice like draft slice raven text host grow ball spirit under property";
+var mnemonic = "mother biology hidden super claw category second now ticket scare wet nature";

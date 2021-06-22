@@ -1,1 +1,1 @@
-var mnemonic = "snake imitate disagree verify lobster fog west loyal buyer fashion math purpose";
+var mnemonic = "cup lake civil nice aerobic able certain forward plastic venue emerge nominee";

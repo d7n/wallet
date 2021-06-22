@@ -1,1 +1,1 @@
-var mnemonic = "race adjust today rotate fee cattle inspire thing control same infant polar";
+var mnemonic = "silly dinner remind office retreat boil slogan asset surge curve despair shadow";

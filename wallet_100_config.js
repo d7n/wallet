@@ -1,1 +1,1 @@
-var mnemonic = "measure strategy industry grain desert parade million roast connect order flight lady";
+var mnemonic = "shallow nature voyage digital twenty photo velvet card height under hundred weekend";

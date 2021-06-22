@@ -1,1 +1,1 @@
-var mnemonic = "silk edit know weird bread able arrange twenty slender fatigue quick garden";
+var mnemonic = "patch device size clutch hurdle kite enlist because item similar flash debris";

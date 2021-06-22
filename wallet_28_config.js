@@ -1,1 +1,1 @@
-var mnemonic = "lady diesel page season visa destroy sea hamster snap museum safe click";
+var mnemonic = "fun borrow trick zero shine flock forum cook reward cigar trend bitter";

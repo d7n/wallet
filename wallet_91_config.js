@@ -1,1 +1,1 @@
-var mnemonic = "book diesel first cycle flag buffalo donkey dilemma pond popular sick small";
+var mnemonic = "hurdle frown globe gas ivory end foil involve material protect device coast";

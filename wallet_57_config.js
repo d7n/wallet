@@ -1,1 +1,1 @@
-var mnemonic = "cement region orient kind trim tiger journey motion auction plunge alcohol sound";
+var mnemonic = "soda scissors rescue rug antenna abuse strategy tomato blast marriage reopen cactus";

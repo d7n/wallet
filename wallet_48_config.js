@@ -1,1 +1,1 @@
-var mnemonic = "frozen mobile hero catch burger slow infant arch quality squeeze clerk bless";
+var mnemonic = "sail degree green scrub region injury remember bottom record symptom advice perfect";

@@ -1,1 +1,1 @@
-var mnemonic = "thumb crucial mystery olive prefer shuffle basic lyrics security mansion exact despair";
+var mnemonic = "radar visual squeeze produce trade inspire swing rebuild nut gown stand script";

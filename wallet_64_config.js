@@ -1,1 +1,1 @@
-var mnemonic = "bracket feel endless judge wrist stumble crystal frozen milk put giraffe bachelor";
+var mnemonic = "roof wonder tongue caution cotton unfair wolf tuition police elephant fragile latin";

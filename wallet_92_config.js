@@ -1,1 +1,1 @@
-var mnemonic = "stem fox near sugar oil derive cradle local kick moral festival swim";
+var mnemonic = "soccer amount deny dentist brick opinion zone domain sunny monkey text banner";

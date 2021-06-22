@@ -1,1 +1,1 @@
-var mnemonic = "style leader shrug pitch swing tray predict else essay jaguar pond ghost";
+var mnemonic = "anchor online junk rebuild tuition aware pluck sorry win electric strategy organ";

@@ -1,1 +1,1 @@
-var mnemonic = "coffee column raven million urge coil arch hawk random universe indoor element";
+var mnemonic = "aerobic cram pet hair spawn spray ecology caught media chalk ridge annual";

@@ -1,1 +1,1 @@
-var mnemonic = "chef medal they flash post essay sort actual tide fan remove blanket";
+var mnemonic = "tonight layer require approve narrow clutch coyote used dumb witness riot unhappy";

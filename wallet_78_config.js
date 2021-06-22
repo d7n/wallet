@@ -1,1 +1,1 @@
-var mnemonic = "danger outside secret tackle index include wife love object guilt unable near";
+var mnemonic = "hunt useless palm wise dune physical patient chair usage stock simple lens";

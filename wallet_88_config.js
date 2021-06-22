@@ -1,1 +1,1 @@
-var mnemonic = "mention lab weird morning shoot prevent beef rib dentist ship inform peace";
+var mnemonic = "apple safe toe motor drink magnet bridge train relax fancy pause law";

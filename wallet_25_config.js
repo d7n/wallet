@@ -1,1 +1,1 @@
-var mnemonic = "melody pond sudden oblige drop nerve split gorilla call badge expand tray";
+var mnemonic = "success cave visual allow virtual shadow dolphin dismiss purity letter derive crucial";

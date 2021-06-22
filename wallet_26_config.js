@@ -1,1 +1,1 @@
-var mnemonic = "nice right weasel frog empower imitate valley problem hobby modify antique pulp";
+var mnemonic = "powder jeans nut primary high employ coral dove hold middle alter priority";

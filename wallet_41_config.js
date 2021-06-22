@@ -1,1 +1,1 @@
-var mnemonic = "addict identify judge day risk rubber sleep category used pond receive embrace";
+var mnemonic = "man first apart reason height lumber coast quiz again own island drop";

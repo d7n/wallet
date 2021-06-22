@@ -1,1 +1,1 @@
-var mnemonic = "increase tooth swarm accuse vendor helmet blue because bread wonder inside anger";
+var mnemonic = "glance thought horn flash danger raccoon cause idle report nice trouble symbol";

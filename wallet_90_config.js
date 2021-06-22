@@ -1,1 +1,1 @@
-var mnemonic = "physical diagram cabbage curtain alter remember brand average myself drill parade fantasy";
+var mnemonic = "certain autumn club install guide eyebrow front head seminar tobacco strong volume";

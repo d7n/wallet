@@ -1,1 +1,1 @@
-var mnemonic = "hover circle noodle cage excite man world feel loan taste prepare priority";
+var mnemonic = "tube car cash summer lab project rhythm extra grape crystal because custom";

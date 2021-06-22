@@ -1,1 +1,1 @@
-var mnemonic = "faculty sign minimum another spice open zoo tackle phone vital direct axis";
+var mnemonic = "accuse pitch cave clerk hockey twelve green elder shrug tower energy banner";

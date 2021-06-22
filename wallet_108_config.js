@@ -1,1 +1,1 @@
-var mnemonic = "topic grass access payment key lunar cushion fat stamp core parent vicious";
+var mnemonic = "slide drip twin room sphere purpose pottery rather sing identify spoon nephew";

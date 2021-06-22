@@ -1,1 +1,1 @@
-var mnemonic = "reform guilt hundred ginger consider orange alarm tip various twice behind trim";
+var mnemonic = "trial hero chimney together sting axis rice limit diagram strike idea trick";

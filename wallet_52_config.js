@@ -1,1 +1,1 @@
-var mnemonic = "pink walnut web coast car pledge rhythm cereal eyebrow pair salad action";
+var mnemonic = "lecture corn cause rather range have sea rocket drift beef burger tunnel";

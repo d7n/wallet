@@ -1,1 +1,1 @@
-var mnemonic = "raccoon rescue race city chuckle purity method congress whisper inherit lazy mutual";
+var mnemonic = "chief spot average world decrease flat shaft blur have patrol syrup clog";

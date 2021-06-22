@@ -1,1 +1,1 @@
-var mnemonic = "remember stone turtle method front loop budget region garlic copper metal stock";
+var mnemonic = "future mention witness erase spot scout system deer off repeat property kangaroo";
