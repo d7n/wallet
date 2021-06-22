@@ -1,1 +1,1 @@
-var mnemonic = "decade sudden slab satisfy crane math rival october shiver hair lake stereo";
+var mnemonic = "mansion night badge notice diary laundry milk witness little wisdom spatial thing";

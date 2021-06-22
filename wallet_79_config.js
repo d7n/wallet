@@ -1,1 +1,1 @@
-var mnemonic = "trigger hospital denial idle edit wolf mobile wrap cattle situate drink tag";
+var mnemonic = "attack dice inhale acoustic message parent brief guitar cupboard wheat flame pony";

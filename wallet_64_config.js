@@ -1,1 +1,1 @@
-var mnemonic = "roof wonder tongue caution cotton unfair wolf tuition police elephant fragile latin";
+var mnemonic = "defense calm unhappy deer fence force foam early among vault hamster sick";

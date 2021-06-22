@@ -1,1 +1,1 @@
-var mnemonic = "slide drip twin room sphere purpose pottery rather sing identify spoon nephew";
+var mnemonic = "robot about gas trash matter behave minute direct luxury vivid depth merge";

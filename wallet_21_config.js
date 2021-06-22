@@ -1,1 +1,1 @@
-var mnemonic = "silent cabin final update oak catch little aunt bubble charge cargo icon";
+var mnemonic = "elegant whip account turtle plug much various hello stable fresh dutch fiscal";

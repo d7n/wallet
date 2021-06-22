@@ -1,1 +1,1 @@
-var mnemonic = "clay beef pride couple rebuild result object modify torch stem suspect degree";
+var mnemonic = "seven attend truly narrow useful undo battle decade repeat immense silly logic";

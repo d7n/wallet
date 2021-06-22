@@ -1,1 +1,1 @@
-var mnemonic = "economy prison door round throw veteran device drift round enhance brother team";
+var mnemonic = "country inner ivory sniff square donate slim crazy verb know segment turkey";

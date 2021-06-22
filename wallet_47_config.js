@@ -1,1 +1,1 @@
-var mnemonic = "need swarm assume solar kingdom wonder concert urge maze pass globe pet";
+var mnemonic = "process fabric exhibit manual detect empty diamond sustain dinosaur disease tower dog";

@@ -1,1 +1,1 @@
-var mnemonic = "chuckle extend trade rotate thing habit invest neck act fox bachelor ribbon";
+var mnemonic = "original tube capable system giant roast pigeon little crazy expose differ city";

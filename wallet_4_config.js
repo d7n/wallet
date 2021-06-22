@@ -1,1 +1,1 @@
-var mnemonic = "please biology sniff spray life hint sing usage jaguar assist goddess follow";
+var mnemonic = "play write approve truly term grit soon mixture vibrant census sad job";

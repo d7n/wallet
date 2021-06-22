@@ -1,1 +1,1 @@
-var mnemonic = "cousin moment agent attend upon scare thank high roof saddle pear clump";
+var mnemonic = "unfair drama team sock chuckle health valley runway lecture sign flag kind";

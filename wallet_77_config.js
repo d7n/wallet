@@ -1,1 +1,1 @@
-var mnemonic = "tube car cash summer lab project rhythm extra grape crystal because custom";
+var mnemonic = "announce bread trap quality wonder flock extend calm leave relief antique drink";

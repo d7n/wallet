@@ -1,1 +1,1 @@
-var mnemonic = "kidney salon right avoid join gas champion embark sadness improve arch mercy";
+var mnemonic = "forum basic luggage garbage loud crop devote collect tonight yellow arrow amazing";

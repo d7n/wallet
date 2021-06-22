@@ -1,1 +1,1 @@
-var mnemonic = "mercy action message camera broccoli stereo taste pride project bonus connect knee";
+var mnemonic = "helmet science broken awake robust tube task silver identify blanket barely eyebrow";

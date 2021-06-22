@@ -1,1 +1,1 @@
-var mnemonic = "future mention witness erase spot scout system deer off repeat property kangaroo";
+var mnemonic = "team thumb price future curtain vault town present dizzy lucky display faculty";

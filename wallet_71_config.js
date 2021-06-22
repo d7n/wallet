@@ -1,1 +1,1 @@
-var mnemonic = "round addict rough feature menu aerobic riot vault universe kiwi dumb wide";
+var mnemonic = "supply cross kidney rally eight improve seven wait myth buyer frame disagree";

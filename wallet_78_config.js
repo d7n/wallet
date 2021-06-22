@@ -1,1 +1,1 @@
-var mnemonic = "hunt useless palm wise dune physical patient chair usage stock simple lens";
+var mnemonic = "reunion adapt comfort convince mix sponsor cry custom flight hill cement fury";

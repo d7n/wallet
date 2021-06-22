@@ -1,1 +1,1 @@
-var mnemonic = "topic already spread once hen reveal gravity brown reason two inch pig";
+var mnemonic = "lunch inhale end mom hour nuclear media feel security bomb tray tide";

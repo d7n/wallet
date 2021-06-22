@@ -1,1 +1,1 @@
-var mnemonic = "soda scissors rescue rug antenna abuse strategy tomato blast marriage reopen cactus";
+var mnemonic = "point essay step thing engine report weasel monitor ceiling lecture scale west";

@@ -1,1 +1,1 @@
-var mnemonic = "pill indicate vicious steak crater credit angle direct arrive lawsuit mass cancel";
+var mnemonic = "upgrade behave elite lift popular fiber cancel crazy test skin series eye";

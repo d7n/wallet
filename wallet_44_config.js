@@ -1,1 +1,1 @@
-var mnemonic = "choice pizza small twice pony pipe infant someone cattle above million level";
+var mnemonic = "opera gold someone gain sample agree use carry stadium soul involve rocket";

@@ -1,1 +1,1 @@
-var mnemonic = "absent spread member arrow jungle eight fence orange baby wheel type canoe";
+var mnemonic = "country calm mobile over guilt exist rug food airport cabbage mesh cube";

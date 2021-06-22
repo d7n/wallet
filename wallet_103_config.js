@@ -1,1 +1,1 @@
-var mnemonic = "favorite candy trick hat genre spoil little priority leaf portion tourist negative";
+var mnemonic = "because country pattern top protect despair initial ghost access parent try renew";

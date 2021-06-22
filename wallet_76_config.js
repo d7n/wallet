@@ -1,1 +1,1 @@
-var mnemonic = "identify chat scan someone december yellow portion ready ceiling dune sight life";
+var mnemonic = "other crucial when network midnight alter curve enter west trust beef armor";

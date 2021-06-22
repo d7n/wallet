@@ -1,1 +1,1 @@
-var mnemonic = "guard snap economy retreat artwork uphold attack small card tired artwork puzzle";
+var mnemonic = "avocado typical shrimp lift neither trumpet glory pass sweet track sunny pelican";

@@ -1,1 +1,1 @@
-var mnemonic = "radar visual squeeze produce trade inspire swing rebuild nut gown stand script";
+var mnemonic = "gasp liquid pupil bamboo walk fragile delay next verb maximum blind brick";

@@ -1,1 +1,1 @@
-var mnemonic = "mushroom noise slot rail ready maple picnic cover afford diesel defense truth";
+var mnemonic = "toddler gossip flavor endorse census dune hungry scorpion attend crime sand dog";

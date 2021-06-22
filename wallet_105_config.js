@@ -1,1 +1,1 @@
-var mnemonic = "child reward year useless screen wisdom medal shield scan treat security pull";
+var mnemonic = "cereal faculty remain rare gain lift hero puzzle toilet toilet kid agree";

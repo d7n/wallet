@@ -1,1 +1,1 @@
-var mnemonic = "hurdle frown globe gas ivory end foil involve material protect device coast";
+var mnemonic = "solve pact hockey arctic seat because will couch beyond girl fault wink";

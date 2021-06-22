@@ -1,1 +1,1 @@
-var mnemonic = "man first apart reason height lumber coast quiz again own island drop";
+var mnemonic = "job treat powder gossip blossom genuine acquire turtle tool call govern raccoon";

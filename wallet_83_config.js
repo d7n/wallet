@@ -1,1 +1,1 @@
-var mnemonic = "agree embody repeat loan capital glide soccer treat amount seat frog law";
+var mnemonic = "relax fit dice jealous alien else stem walk pupil reduce fork swear";

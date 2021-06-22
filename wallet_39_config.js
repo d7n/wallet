@@ -1,1 +1,1 @@
-var mnemonic = "student height hole lab people sadness people lawn velvet bundle delay biology";
+var mnemonic = "road dune start next edit crisp tomato fold exhaust zoo impulse typical";

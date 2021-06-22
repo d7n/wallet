@@ -1,1 +1,1 @@
-var mnemonic = "choice marine laptop farm elevator save install noise naive tail spatial kiss";
+var mnemonic = "gallery photo fame model quarter blush acid clock tribe pact argue choice";

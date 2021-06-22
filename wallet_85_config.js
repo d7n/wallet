@@ -1,1 +1,1 @@
-var mnemonic = "rigid upon weekend distance noodle merit mistake zero march corn near effort";
+var mnemonic = "essence mango win maid grain copper ranch soda already car kite hard";

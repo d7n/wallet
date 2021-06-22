@@ -1,1 +1,1 @@
-var mnemonic = "glass drift speed post chair critic sea diamond opinion clever pill screen";
+var mnemonic = "trade close oval session weather horror cigar super wire frog rigid stomach";

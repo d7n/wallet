@@ -1,1 +1,1 @@
-var mnemonic = "face million repair appear keen crawl pony gloom hunt always artefact click";
+var mnemonic = "trial scare face moment addict hold mouse desk shiver inch legend spread";

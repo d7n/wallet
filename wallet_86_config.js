@@ -1,1 +1,1 @@
-var mnemonic = "consider goose thank ritual course stuff column sorry fuel high lake hurdle";
+var mnemonic = "summer address reflect latin faculty exact neither grocery hockey gossip comic rule";

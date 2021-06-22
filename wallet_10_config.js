@@ -1,1 +1,1 @@
-var mnemonic = "chief spot average world decrease flat shaft blur have patrol syrup clog";
+var mnemonic = "capable trouble suit goose feel crouch option random calm often edit sorry";

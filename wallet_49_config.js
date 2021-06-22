@@ -1,1 +1,1 @@
-var mnemonic = "exchange awkward fabric weapon inmate tomato page account key author fold history";
+var mnemonic = "cook employ sunny oil swallow century guitar young chimney float anxiety measure";

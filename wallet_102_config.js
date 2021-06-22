@@ -1,1 +1,1 @@
-var mnemonic = "accuse pitch cave clerk hockey twelve green elder shrug tower energy banner";
+var mnemonic = "wrist soda void whip grunt erode legal buddy negative civil undo nothing";

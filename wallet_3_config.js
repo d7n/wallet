@@ -1,1 +1,1 @@
-var mnemonic = "tonight layer require approve narrow clutch coyote used dumb witness riot unhappy";
+var mnemonic = "quantum similar grow noble punch basket clip chair elevator guitar birth caution";

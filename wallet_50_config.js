@@ -1,1 +1,1 @@
-var mnemonic = "dizzy kid false salad donate twelve illegal garbage inch liquid void entire";
+var mnemonic = "claw leaf long life junior wisdom arrow census thing shrimp airport usage";

@@ -1,1 +1,1 @@
-var mnemonic = "merry below chef retreat piece reject intact damage domain fine manual unit";
+var mnemonic = "sand bottom jazz lyrics pipe wild future fog believe ill destroy include";

@@ -1,1 +1,1 @@
-var mnemonic = "reason club earth cargo collect syrup identify flash romance odor woman repair";
+var mnemonic = "minute welcome ankle year what amateur twelve pass coral elephant brave soccer";

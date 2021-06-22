@@ -1,1 +1,1 @@
-var mnemonic = "run desk sick slam into maple exhaust kid ozone museum monkey dish";
+var mnemonic = "nut category other equal road depth hockey collect muffin crack nothing mirror";

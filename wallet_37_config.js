@@ -1,1 +1,1 @@
-var mnemonic = "believe cash park rubber hold inquiry fetch live harbor ramp glance caught";
+var mnemonic = "execute hire saddle wise sheriff gospel angle genre inhale practice slender trip";

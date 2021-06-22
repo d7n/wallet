@@ -1,1 +1,1 @@
-var mnemonic = "vague since april amount crunch lawsuit then final misery fee crater risk";
+var mnemonic = "regular trash genuine purchase ranch road viable summer wheel casino document sauce";

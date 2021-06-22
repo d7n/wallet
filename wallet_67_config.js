@@ -1,1 +1,1 @@
-var mnemonic = "diary galaxy choice donate mechanic mail express yellow bone chicken confirm chef";
+var mnemonic = "ten special jaguar follow crumble task wolf cabin absurd gospel pencil thank";

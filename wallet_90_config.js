@@ -1,1 +1,1 @@
-var mnemonic = "certain autumn club install guide eyebrow front head seminar tobacco strong volume";
+var mnemonic = "pulp pigeon final hurdle define novel diet kid title explain thing reunion";

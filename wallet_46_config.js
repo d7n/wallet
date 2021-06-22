@@ -1,1 +1,1 @@
-var mnemonic = "involve giant hollow spring plug earn urban dice blush coral series artist";
+var mnemonic = "define normal solar letter shoot run rapid rose range afford thing over";

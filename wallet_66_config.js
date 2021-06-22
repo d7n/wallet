@@ -1,1 +1,1 @@
-var mnemonic = "oyster roast grocery burst wealth strong link roof arctic voice poet below";
+var mnemonic = "chief room shy swim neutral chapter inmate canvas garment airport urban rural";

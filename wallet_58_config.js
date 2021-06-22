@@ -1,1 +1,1 @@
-var mnemonic = "stem silent glide twist subject desk blast quick stereo army glare danger";
+var mnemonic = "orchard defy apart bar tide vocal category cart tent pistol chief mushroom";

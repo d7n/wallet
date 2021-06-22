@@ -1,1 +1,1 @@
-var mnemonic = "clarify actual april fan leisure scrap sword turn pony asset capable aware";
+var mnemonic = "silver use spell trigger flash sport scene federal spray reveal stay assist";

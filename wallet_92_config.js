@@ -1,1 +1,1 @@
-var mnemonic = "soccer amount deny dentist brick opinion zone domain sunny monkey text banner";
+var mnemonic = "sight possible absurd penalty squeeze shiver sea gain deal arctic casual exit";

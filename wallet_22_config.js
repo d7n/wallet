@@ -1,1 +1,1 @@
-var mnemonic = "rude possible lion grocery decade canyon fan gather dice bottom over choice";
+var mnemonic = "knee steak reform gap charge about witness legal real damage follow enhance";

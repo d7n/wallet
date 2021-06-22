@@ -1,1 +1,1 @@
-var mnemonic = "page observe hazard course ridge index glimpse demise people setup piece spoon";
+var mnemonic = "pill peace garlic art know stereo wait sorry detail decorate arrange early";

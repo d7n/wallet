@@ -1,1 +1,1 @@
-var mnemonic = "success cave visual allow virtual shadow dolphin dismiss purity letter derive crucial";
+var mnemonic = "glove false come easily tackle cheap sheriff enrich juice exit slice speed";

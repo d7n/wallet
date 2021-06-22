@@ -1,1 +1,1 @@
-var mnemonic = "viable autumn reject only clutch tip upper winter ordinary balance baby aunt";
+var mnemonic = "virus between gallery win beach afraid ribbon logic destroy dragon evidence amount";

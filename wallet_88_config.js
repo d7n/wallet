@@ -1,1 +1,1 @@
-var mnemonic = "apple safe toe motor drink magnet bridge train relax fancy pause law";
+var mnemonic = "famous amused wise cattle match scheme frost brush deny rice brave puzzle";

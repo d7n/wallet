@@ -1,1 +1,1 @@
-var mnemonic = "glance thought horn flash danger raccoon cause idle report nice trouble symbol";
+var mnemonic = "educate cost mandate flight vague upon true abstract grass photo six stairs";

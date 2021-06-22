@@ -1,1 +1,1 @@
-var mnemonic = "toddler pioneer medal crane moral blanket certain addict during media rhythm orchard";
+var mnemonic = "have render beauty quote puppy measure muffin abandon allow jar damp foam";

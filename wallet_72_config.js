@@ -1,1 +1,1 @@
-var mnemonic = "reduce sun brave receive clog type moral cupboard absorb fantasy eye brief";
+var mnemonic = "suspect combine friend diagram normal fragile fame rabbit tower damage dune aim";

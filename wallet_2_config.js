@@ -1,1 +1,1 @@
-var mnemonic = "divide dinosaur potato sister diet attract hold peasant inherit robot turkey derive";
+var mnemonic = "myth lift sleep major hidden crater bundle speed clap message define first";

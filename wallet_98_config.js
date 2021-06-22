@@ -1,1 +1,1 @@
-var mnemonic = "tone scatter process capital pipe fork size install near cigar festival size";
+var mnemonic = "judge need symbol gas wink misery noble cargo mass claim exist room";

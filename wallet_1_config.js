@@ -1,1 +1,1 @@
-var mnemonic = "silly dinner remind office retreat boil slogan asset surge curve despair shadow";
+var mnemonic = "success kit gasp tortoise absurd bind second season isolate range still enough";

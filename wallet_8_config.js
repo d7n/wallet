@@ -1,1 +1,1 @@
-var mnemonic = "trial hero chimney together sting axis rice limit diagram strike idea trick";
+var mnemonic = "drastic worth churn mixed already speed beach confirm hard advance celery noodle";

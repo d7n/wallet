@@ -1,1 +1,1 @@
-var mnemonic = "average write twin idea amateur dash credit write time mobile legal wine";
+var mnemonic = "dumb benefit spike rural add dizzy salt vast become party glass situate";

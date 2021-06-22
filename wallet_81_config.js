@@ -1,1 +1,1 @@
-var mnemonic = "aerobic cram pet hair spawn spray ecology caught media chalk ridge annual";
+var mnemonic = "model true payment indicate initial pumpkin negative ugly friend flee divert list";

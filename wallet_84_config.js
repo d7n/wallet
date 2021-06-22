@@ -1,1 +1,1 @@
-var mnemonic = "diamond capital hunt balance field sun various scene mask hat dolphin trigger";
+var mnemonic = "region mouse round pottery siege hero vocal town forward guilt hood critic";

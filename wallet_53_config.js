@@ -1,1 +1,1 @@
-var mnemonic = "certain chase point blast globe artefact bird ring lady shuffle nasty curious";
+var mnemonic = "risk achieve camp brand unique sport rude cliff excite ocean amount crater";

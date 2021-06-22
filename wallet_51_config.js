@@ -1,1 +1,1 @@
-var mnemonic = "right small print dog write atom until pattern problem column you shallow";
+var mnemonic = "lift nephew panther destroy eager void away fox wealth ticket furnace comfort";

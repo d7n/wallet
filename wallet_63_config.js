@@ -1,1 +1,1 @@
-var mnemonic = "cluster banner extra behind youth enlist wood insane prevent drastic cook final";
+var mnemonic = "rookie thing mad brief rotate feature noodle invite history series opera grow";

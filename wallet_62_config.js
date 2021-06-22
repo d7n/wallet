@@ -1,1 +1,1 @@
-var mnemonic = "dove forum air modify version fan wage attract truck brisk another speak";
+var mnemonic = "spell decide cannon reason rain join cabbage thunder offer wing basic runway";

@@ -1,1 +1,1 @@
-var mnemonic = "patch device size clutch hurdle kite enlist because item similar flash debris";
+var mnemonic = "team toilet consider shell follow tilt lend example vote vehicle regret battle";

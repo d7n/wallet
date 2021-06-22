@@ -1,1 +1,1 @@
-var mnemonic = "lecture corn cause rather range have sea rocket drift beef burger tunnel";
+var mnemonic = "boil mind idle review woman pet educate alert carbon north animal melt";

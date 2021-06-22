@@ -1,1 +1,1 @@
-var mnemonic = "powder jeans nut primary high employ coral dove hold middle alter priority";
+var mnemonic = "multiply palace stumble enact wing put any suit impact guitar pony saddle";

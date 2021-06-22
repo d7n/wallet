@@ -1,1 +1,1 @@
-var mnemonic = "genre caught fold noise river sheriff theory toy remove enforce sense measure";
+var mnemonic = "impulse meadow fly parade outer cost wrong misery pepper narrow they check";

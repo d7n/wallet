@@ -1,1 +1,1 @@
-var mnemonic = "memory embody jelly rule secret pipe know save hobby balcony demand minimum";
+var mnemonic = "deer exist angle helmet visual snap oil prepare cotton resist clump boring";

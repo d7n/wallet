@@ -1,1 +1,1 @@
-var mnemonic = "estate spend culture crisp spawn trash peasant mammal pioneer expire fury fame";
+var mnemonic = "stone pave peace deliver cruise try keen corn glove creek shock expand";

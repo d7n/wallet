@@ -1,1 +1,1 @@
-var mnemonic = "laugh media tell rabbit catalog leisure stereo true day indicate kite lemon";
+var mnemonic = "envelope salon harbor junior gentle seminar close stamp enjoy hobby comfort matrix";

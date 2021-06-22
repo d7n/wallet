@@ -1,1 +1,1 @@
-var mnemonic = "anchor online junk rebuild tuition aware pluck sorry win electric strategy organ";
+var mnemonic = "life puppy odor bronze federal media song deposit bomb holiday coffee sponsor";
