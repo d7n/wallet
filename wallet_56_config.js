@@ -1,1 +1,1 @@
-var mnemonic = "film dog bleak prosper inquiry void nest lesson lizard drink another feed";
+var mnemonic = "push core guitar cook portion lamp siren matter science danger satoshi beach";

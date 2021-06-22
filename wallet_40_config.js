@@ -1,1 +1,1 @@
-var mnemonic = "staff target candy visual scatter ladder police pill barrel know wheel syrup";
+var mnemonic = "depth job high puppy conduct unhappy satisfy buddy erupt punch kid can";

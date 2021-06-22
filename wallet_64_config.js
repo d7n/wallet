@@ -1,1 +1,1 @@
-var mnemonic = "carry census guilt open lecture stuff burden wrap avoid minor exact defy";
+var mnemonic = "edit utility print project spider law then scatter shock off space online";

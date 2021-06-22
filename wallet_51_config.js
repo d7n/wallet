@@ -1,1 +1,1 @@
-var mnemonic = "federal forest toe strike glory churn coil staff creek movie extra move";
+var mnemonic = "celery clump claim acquire shy series erode dress use melt help social";

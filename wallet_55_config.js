@@ -1,1 +1,1 @@
-var mnemonic = "captain sheriff deny iron head lucky stable present author soon sting brave";
+var mnemonic = "boring action coconut burst kitchen canoe swamp salad alone meat split hat";

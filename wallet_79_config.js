@@ -1,1 +1,1 @@
-var mnemonic = "length draft shiver pelican horn kind oven able divert adult gap kingdom";
+var mnemonic = "cat spirit cave half design two avoid ugly culture kitten define aspect";

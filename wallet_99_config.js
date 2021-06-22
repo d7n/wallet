@@ -1,1 +1,1 @@
-var mnemonic = "case menu alpha hotel novel modify six employ upgrade shock lend inflict";
+var mnemonic = "siren retire hurdle price fitness monster ahead brand inspire nut slot super";

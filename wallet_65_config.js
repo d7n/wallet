@@ -1,1 +1,1 @@
-var mnemonic = "alarm place twenty capable electric recipe blast absent law rail sustain service";
+var mnemonic = "scissors mosquito calm jungle spoil chronic enhance scrap boring love toss door";

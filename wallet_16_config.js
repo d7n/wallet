@@ -1,1 +1,1 @@
-var mnemonic = "pilot phone soon infant garbage globe wide remember wife oblige asset empower";
+var mnemonic = "senior field help stuff tourist spirit nature pledge cause culture wheel cliff";

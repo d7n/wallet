@@ -1,1 +1,1 @@
-var mnemonic = "confirm lock beef frequent real peace air science tower neck kiss novel";
+var mnemonic = "hunt argue print talk rifle never install punch clip concert senior alpha";

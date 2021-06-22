@@ -1,1 +1,1 @@
-var mnemonic = "crew world lawsuit green oven debate burst often flag detail pass gas";
+var mnemonic = "village bounce saddle combine throw pelican stick year ball cross squirrel country";

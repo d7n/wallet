@@ -1,1 +1,1 @@
-var mnemonic = "diary keen athlete pattern rally client river damp entire pride dinner fever";
+var mnemonic = "boat drastic churn car spirit orange observe cook confirm dish bubble jeans";

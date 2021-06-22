@@ -1,1 +1,1 @@
-var mnemonic = "chair hundred before eyebrow rapid advice city height mean early pool marriage";
+var mnemonic = "mother domain essay popular extra matter barrel possible vital suggest put congress";

@@ -1,1 +1,1 @@
-var mnemonic = "paper defense blush fee traffic spatial steak bread observe today dial general";
+var mnemonic = "cake duty shrimp crazy pizza expand unknown million bomb member second lyrics";

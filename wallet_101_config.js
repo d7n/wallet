@@ -1,1 +1,1 @@
-var mnemonic = "flee learn glove fly drama usual board trick roof must region minute";
+var mnemonic = "phrase diet hair suffer other prosper purse universe culture ready skill kit";

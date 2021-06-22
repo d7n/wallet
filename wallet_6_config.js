@@ -1,1 +1,1 @@
-var mnemonic = "motion toe easy shoot tortoise mom globe child bread mercy position cross";
+var mnemonic = "day process hello involve party august hammer body paper upgrade clever velvet";

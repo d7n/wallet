@@ -1,1 +1,1 @@
-var mnemonic = "erupt affair control resemble gospel offer frost error syrup pass bench viable";
+var mnemonic = "smart mail title rug oval harbor okay estate drive body civil bone";

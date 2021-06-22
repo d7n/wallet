@@ -1,1 +1,1 @@
-var mnemonic = "butter lady dignity poet width south inner nurse eyebrow often famous attack";
+var mnemonic = "ugly genius multiply dinosaur hamster lab slush sound when book whisper physical";

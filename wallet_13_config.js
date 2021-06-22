@@ -1,1 +1,1 @@
-var mnemonic = "raccoon ice keep picture dog draft address breeze region flag unusual loop";
+var mnemonic = "power identify manual wonder throw pass doctor welcome dial pony orchard input";

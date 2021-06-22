@@ -1,1 +1,1 @@
-var mnemonic = "peasant audit spatial decorate flash one mouse put brother nominee spatial option";
+var mnemonic = "carbon first require powder lonely sea friend noise legal forget size roast";

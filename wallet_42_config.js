@@ -1,1 +1,1 @@
-var mnemonic = "pink twin inmate syrup calm balcony venue manual expand hurry drip govern";
+var mnemonic = "carry coast exit sunny live police morning crew lab honey during siege";

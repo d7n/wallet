@@ -1,1 +1,1 @@
-var mnemonic = "evolve bounce web afford end kite typical say taxi rib able tuition";
+var mnemonic = "satisfy love whale picture embark suffer purse deliver hover squirrel muscle crop";

@@ -1,1 +1,1 @@
-var mnemonic = "subject arctic wrist deal fault priority riot mix cupboard reopen waste naive";
+var mnemonic = "blame police clay solve mixture twice staff ostrich scorpion seven jacket mansion";

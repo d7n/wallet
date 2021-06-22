@@ -1,1 +1,1 @@
-var mnemonic = "misery peanut equal great quiz buzz mix hip please angle joy swamp";
+var mnemonic = "middle surge vital response bullet weapon giraffe iron client miracle gather fold";

@@ -1,1 +1,1 @@
-var mnemonic = "virus airport double runway hazard reunion pen display save orbit august link";
+var mnemonic = "become riot upper boring picture net recycle brother apart exact hen quiz";

@@ -1,1 +1,1 @@
-var mnemonic = "reform snap draft bulk dynamic build join slab stay belt toe top";
+var mnemonic = "pool giraffe end length excite suffer analyst over swarm client require taste";

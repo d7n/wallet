@@ -1,1 +1,1 @@
-var mnemonic = "crouch axis jungle earn brave announce fabric illness fiction scale aunt enemy";
+var mnemonic = "fetch floor shop advice change winter plastic dwarf toilet bronze endless suit";

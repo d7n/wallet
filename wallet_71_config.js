@@ -1,1 +1,1 @@
-var mnemonic = "topic grant wheat dove huge social better hidden throw drill exile suggest";
+var mnemonic = "trial avocado agree salmon club dish fame maximum river bounce artwork gravity";

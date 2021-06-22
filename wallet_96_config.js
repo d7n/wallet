@@ -1,1 +1,1 @@
-var mnemonic = "beach crucial umbrella frog confirm stereo roast dilemma forest room online metal";
+var mnemonic = "bar time resource humble laugh pitch valley stove scheme main claw guard";

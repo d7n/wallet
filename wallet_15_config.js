@@ -1,1 +1,1 @@
-var mnemonic = "million age jewel winner hamster grace ridge base expire bottom valid file";
+var mnemonic = "october stereo marriage guide give tide arena critic waste horse behave response";

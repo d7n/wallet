@@ -1,1 +1,1 @@
-var mnemonic = "priority fame album toy major bamboo tool outside melt series cherry motor";
+var mnemonic = "turtle found expose various require despair history action frown collect afford hurry";

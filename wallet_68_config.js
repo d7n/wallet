@@ -1,1 +1,1 @@
-var mnemonic = "prison distance famous other cloth scare join junk device invest attack honey";
+var mnemonic = "actress east skin blade merry push wide cover garden dignity armed unveil";

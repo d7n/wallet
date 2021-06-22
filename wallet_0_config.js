@@ -1,1 +1,1 @@
-var mnemonic = "razor stomach elegant badge diamond logic avoid endorse save sea buffalo denial";
+var mnemonic = "satoshi receive pen reunion skin mass riot west near bounce vocal owner";

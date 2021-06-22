@@ -1,1 +1,1 @@
-var mnemonic = "feel someone chimney brisk reform protect loyal actor turn clog risk maple";
+var mnemonic = "gentle horror fiscal giraffe ancient female draw person ecology fancy daughter cradle";

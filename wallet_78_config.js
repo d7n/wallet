@@ -1,1 +1,1 @@
-var mnemonic = "picnic extend pact cat beach senior trash axis visa diary merge bubble";
+var mnemonic = "lecture exotic loyal pole grant hollow noodle solid congress nerve rather elite";

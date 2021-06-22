@@ -1,1 +1,1 @@
-var mnemonic = "rug obtain task trade mobile island tennis deposit lyrics van silk dumb";
+var mnemonic = "father urge machine gate swarm apple glove assault crater strike unusual pill";

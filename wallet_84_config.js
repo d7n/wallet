@@ -1,1 +1,1 @@
-var mnemonic = "federal advance weather like year choice tool diary image merry paper rigid";
+var mnemonic = "magic zoo gadget tilt view correct damp increase spring cancel bone antique";

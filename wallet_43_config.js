@@ -1,1 +1,1 @@
-var mnemonic = "vast limit sand syrup wheel spring mimic impact lab faith scissors then";
+var mnemonic = "bright wear casino cabbage vast behave script stadium rocket comfort special limb";

@@ -1,1 +1,1 @@
-var mnemonic = "scale glass wire present pony fury confirm sight tree race before hawk";
+var mnemonic = "aspect blanket abandon school shuffle bridge sleep excess rich foam floor air";

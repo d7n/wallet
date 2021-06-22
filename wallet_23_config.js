@@ -1,1 +1,1 @@
-var mnemonic = "okay load myself museum prefer print awake effort truck sugar basket mansion";
+var mnemonic = "collect run essay fun render figure spray sketch next client tape great";

@@ -1,1 +1,1 @@
-var mnemonic = "mechanic suffer diet govern ability dignity blur slogan voice juice injury six";
+var mnemonic = "faith robot girl lottery visual coyote all know picture kind kit metal";

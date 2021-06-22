@@ -1,1 +1,1 @@
-var mnemonic = "sun bubble sing build vibrant profit race exact ozone evil tag frost";
+var mnemonic = "belt fluid tornado borrow two sauce salmon month conduct choose inspire wire";

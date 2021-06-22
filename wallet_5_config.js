@@ -1,1 +1,1 @@
-var mnemonic = "boil equal rabbit letter project obvious source canyon copy ill jar jungle";
+var mnemonic = "kick shove charge ten cave thunder dad surround second weather mother light";

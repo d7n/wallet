@@ -1,1 +1,1 @@
-var mnemonic = "forget envelope feel inflict panda west plug clean size capable wrist key";
+var mnemonic = "history base fault lumber attract inmate lumber script safe essence tonight lion";

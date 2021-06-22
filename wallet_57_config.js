@@ -1,1 +1,1 @@
-var mnemonic = "found increase alpha prosper pottery joke alone core gossip confirm lady wire";
+var mnemonic = "what faculty undo symptom plate language canvas arrest whip identify enough permit";

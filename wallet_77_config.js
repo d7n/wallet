@@ -1,1 +1,1 @@
-var mnemonic = "claim modify warfare sausage paper sea auction protect shy lesson sting major";
+var mnemonic = "region final sad then way cinnamon where dog ketchup safe expire knife";

@@ -1,1 +1,1 @@
-var mnemonic = "office index able myself trick barely way letter obscure fix faculty witness";
+var mnemonic = "general doll game knock purpose olive stable grant welcome bulb disease detail";

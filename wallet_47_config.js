@@ -1,1 +1,1 @@
-var mnemonic = "document state unknown gift stock oil arena wrap helmet trophy enrich caution";
+var mnemonic = "annual mixed hidden journey day judge warfare alcohol athlete neutral patrol guard";

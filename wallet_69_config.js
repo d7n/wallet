@@ -1,1 +1,1 @@
-var mnemonic = "girl upset boil tumble resource embark diesel shrug donate run token toe";
+var mnemonic = "flavor jeans remain trigger profit wave include height layer tape upper idle";

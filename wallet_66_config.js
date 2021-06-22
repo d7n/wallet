@@ -1,1 +1,1 @@
-var mnemonic = "they wonder stem swamp fiction train upper throw pattern episode slush sadness";
+var mnemonic = "unveil future extra produce surge capable sun message permit snow task enact";

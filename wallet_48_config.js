@@ -1,1 +1,1 @@
-var mnemonic = "common until soda valid hawk now muffin bench hobby there plate slide";
+var mnemonic = "enact clutch purity garment organ jazz quantum achieve tragic rain grocery pigeon";

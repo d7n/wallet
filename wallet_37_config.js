@@ -1,1 +1,1 @@
-var mnemonic = "devote chaos census tissue rival apology spring jacket cherry tail vote space";
+var mnemonic = "burger undo parade busy rely trend filter transfer twice first pole nature";

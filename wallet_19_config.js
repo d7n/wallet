@@ -1,1 +1,1 @@
-var mnemonic = "brief weather drum tomato seat aware speak relief they giant toy that";
+var mnemonic = "gift never solve anger local vintage rule bundle sense shaft nation pretty";

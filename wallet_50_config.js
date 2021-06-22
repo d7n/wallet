@@ -1,1 +1,1 @@
-var mnemonic = "muffin once latin unfair panther warfare suggest crack angle monster potato sustain";
+var mnemonic = "embark medal noise crush priority win claw improve fox crystal federal estate";

@@ -1,1 +1,1 @@
-var mnemonic = "amazing wreck foot coin toast artwork tennis sick until oblige top fruit";
+var mnemonic = "what lawsuit audit noble fantasy zebra swamp defy list large pave portion";

@@ -1,1 +1,1 @@
-var mnemonic = "coffee attend divert vast latin shadow deliver glimpse match soap praise front";
+var mnemonic = "identify upset guitar betray stem upon grid machine slide patient lift lounge";

@@ -1,1 +1,1 @@
-var mnemonic = "loyal team foam lumber today lyrics foam pluck hard dish february busy";
+var mnemonic = "height essay sugar mom obey ugly coffee warm need electric squirrel venue";

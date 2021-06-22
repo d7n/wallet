@@ -1,1 +1,1 @@
-var mnemonic = "eye chalk patch lens torch bring fork circle video mammal broom juice";
+var mnemonic = "chuckle inform unique age jacket depend visa tip flame meat pause cruise";

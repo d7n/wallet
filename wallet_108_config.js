@@ -1,1 +1,1 @@
-var mnemonic = "bunker wife demand garbage stable avoid game iron degree merit hint crop";
+var mnemonic = "ramp push wheat rhythm tiny stock drop ready brief novel together accuse";

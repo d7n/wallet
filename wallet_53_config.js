@@ -1,1 +1,1 @@
-var mnemonic = "unlock impulse rally student prosper chat armor stuff observe finish resource afford";
+var mnemonic = "surface empower uniform village excuse ride sunny borrow trash shiver antique disagree";

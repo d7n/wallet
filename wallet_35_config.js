@@ -1,1 +1,1 @@
-var mnemonic = "phone require lawsuit found uniform accuse elegant auction exercise shift blast space";
+var mnemonic = "anxiety gospel cat syrup naive kite answer one frost minute claw swarm";

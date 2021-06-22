@@ -1,1 +1,1 @@
-var mnemonic = "update online novel matter fringe palace kangaroo inside siren replace spy mobile";
+var mnemonic = "saddle there toilet similar develop grab faculty general speak myself rude forest";

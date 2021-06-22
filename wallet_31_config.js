@@ -1,1 +1,1 @@
-var mnemonic = "lady city earth myself range gate chase turtle twenty olive journey quote";
+var mnemonic = "helmet cotton athlete term list attitude tiger fish anxiety midnight human nation";

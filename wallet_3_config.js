@@ -1,1 +1,1 @@
-var mnemonic = "brisk brother curtain tower orange excite glass dinner decide tiny solve ahead";
+var mnemonic = "dumb word hamster core clump lobster wine increase dirt upper excite casino";

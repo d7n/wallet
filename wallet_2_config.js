@@ -1,1 +1,1 @@
-var mnemonic = "proud train mesh original faith immune crack label start property brief lobster";
+var mnemonic = "anchor olympic poem trim outside truck oil scheme month cigar globe agent";

@@ -1,1 +1,1 @@
-var mnemonic = "donor blue sun spoon antenna tuition soda meat winter stairs trouble title";
+var mnemonic = "diet glue square keen globe grow toss dust cotton almost sibling reason";

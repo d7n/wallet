@@ -1,1 +1,1 @@
-var mnemonic = "tail list boost sock key belt start army nasty siren latin miracle";
+var mnemonic = "bridge junk rice next surprise monster metal endless elder muscle galaxy meadow";

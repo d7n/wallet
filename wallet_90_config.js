@@ -1,1 +1,1 @@
-var mnemonic = "option burden matrix credit eight need addict pony waste fade total page";
+var mnemonic = "fatal wave staff rule lake hurry grit genre area push asset circle";

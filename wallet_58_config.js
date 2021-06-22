@@ -1,1 +1,1 @@
-var mnemonic = "avocado nature oil suffer actor wink nice loan mosquito fox meadow diamond";
+var mnemonic = "drop cube sure business hat mouse jaguar pen normal potato quarter room";

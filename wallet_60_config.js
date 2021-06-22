@@ -1,1 +1,1 @@
-var mnemonic = "donate loan yellow erase effort list tribe crucial bind million eager trick";
+var mnemonic = "item soft they three upgrade fuel expand uncover layer marriage opinion bid";

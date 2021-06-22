@@ -1,1 +1,1 @@
-var mnemonic = "dizzy fame patrol jelly number screen much hood tag repair hole beach";
+var mnemonic = "limit fetch legend avoid fog under surprise lunch nation illness sword blame";

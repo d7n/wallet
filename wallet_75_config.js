@@ -1,1 +1,1 @@
-var mnemonic = "diet video bench extra dumb crisp universe couple fold van battle era";
+var mnemonic = "side left hurt sweet gaze frog slab build pepper leopard horror race";

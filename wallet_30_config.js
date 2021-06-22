@@ -1,1 +1,1 @@
-var mnemonic = "captain picnic aim cup sheriff risk all myth whisper roof pulse deer";
+var mnemonic = "wagon siren glory earn world write hamster arctic thought seven grit enroll";

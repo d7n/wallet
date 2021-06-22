@@ -1,1 +1,1 @@
-var mnemonic = "bridge nice imitate control range document random tray country abstract month creek";
+var mnemonic = "chat advice begin excess capital cupboard figure truck exit alter fetch cargo";

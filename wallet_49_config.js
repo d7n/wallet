@@ -1,1 +1,1 @@
-var mnemonic = "frame latin bulb inch broken long bargain vivid bomb race praise medal";
+var mnemonic = "allow trade above comic anger cattle foster pull spice leopard brief silver";

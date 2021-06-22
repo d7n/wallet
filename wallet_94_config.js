@@ -1,1 +1,1 @@
-var mnemonic = "adjust keep admit south coin whisper alley engage twice spawn question glove";
+var mnemonic = "infant shrug chest buzz shop device negative raccoon arch over borrow vendor";

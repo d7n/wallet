@@ -1,1 +1,1 @@
-var mnemonic = "grant drop fault educate scout scissors prison empower emotion inject despair anchor";
+var mnemonic = "destroy foil desk crime prepare ecology twin team genuine cat include boy";

@@ -1,1 +1,1 @@
-var mnemonic = "boring effort column example attract guilt ski spray illness food kangaroo tortoise";
+var mnemonic = "reason suffer key return damp neither kind stomach proof south feature olive";

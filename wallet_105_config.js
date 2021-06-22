@@ -1,1 +1,1 @@
-var mnemonic = "audit group sweet crazy shell render safe dress code security prevent vital";
+var mnemonic = "evidence broom leave speed rally fog gallery impact sick whale shiver electric";

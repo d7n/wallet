@@ -1,1 +1,1 @@
-var mnemonic = "fury biology also multiply crowd elite honey short memory skill outer dial";
+var mnemonic = "maximum keen primary wear adjust video remove capable patch umbrella account tired";

@@ -1,1 +1,1 @@
-var mnemonic = "cart ivory double spice object similar parade private chronic inherit trick leaf";
+var mnemonic = "pact poem devote profit prosper cream convince spirit asthma wear absent lion";

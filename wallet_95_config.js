@@ -1,1 +1,1 @@
-var mnemonic = "drill december snack reflect raccoon lounge swift broom drip symptom despair hour";
+var mnemonic = "smoke author one adapt route banner mad mansion say avocado stumble citizen";

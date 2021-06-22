@@ -1,1 +1,1 @@
-var mnemonic = "oval tag pottery logic sick host doll hobby foam elbow stable flip";
+var mnemonic = "dirt crop gun moral want spawn viable monster insane advance circle river";

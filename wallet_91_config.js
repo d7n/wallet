@@ -1,1 +1,1 @@
-var mnemonic = "breeze shed ability wing predict claim vintage monkey glance broken dragon sustain";
+var mnemonic = "burger gold cross expand brave orchard egg ramp latin shine cross situate";

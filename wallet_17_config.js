@@ -1,1 +1,1 @@
-var mnemonic = "gallery castle bar wheel boost market outside payment whale wash leave bunker";
+var mnemonic = "interest select moon globe bronze burger energy symbol company unique smoke between";

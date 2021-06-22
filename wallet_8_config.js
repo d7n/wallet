@@ -1,1 +1,1 @@
-var mnemonic = "harbor race thrive glide cash jump offer garbage canyon unit sort female";
+var mnemonic = "supreme fury robust year alone game plastic crystal news wave owner thank";

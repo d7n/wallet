@@ -1,1 +1,1 @@
-var mnemonic = "genius original someone they actress nothing love nominee property secret humor nature";
+var mnemonic = "dolphin false witness inject hidden since warm shine giant donor panther muscle";

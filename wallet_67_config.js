@@ -1,1 +1,1 @@
-var mnemonic = "pony ordinary utility apple farm lab square enjoy energy organ wise visit";
+var mnemonic = "tourist please talent vapor crane weekend inspire about jazz whale exact fix";

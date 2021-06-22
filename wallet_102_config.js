@@ -1,1 +1,1 @@
-var mnemonic = "egg duty false cute piano upset envelope champion average copper toilet want";
+var mnemonic = "cabbage metal genuine gauge walk exotic lonely around exact cover coral tool";

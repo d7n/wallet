@@ -1,1 +1,1 @@
-var mnemonic = "unknown device soda lobster coast address real coach cinnamon reduce boost body";
+var mnemonic = "recall radio west fit pioneer end question rather spin west lemon rent";
