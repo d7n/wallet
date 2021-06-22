@@ -1,1 +1,1 @@
-var mnemonic = "enlist fiction world disorder repair start lock task slogan siren stuff design";
+var mnemonic = "comfort wall trade captain palace elegant donkey salmon draft radar easily loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "this kingdom science shift type toss similar before session oxygen job thunder";
+var mnemonic = "acquire tragic stand upper angle mystery effort click dizzy stairs awkward bench";

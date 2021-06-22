@@ -1,1 +1,1 @@
-var mnemonic = "spell excuse border name can shoe poverty lyrics deputy recall fiscal law";
+var mnemonic = "flat spatial dynamic plate bounce mystery chunk front upset shock citizen item";

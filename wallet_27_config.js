@@ -1,1 +1,1 @@
-var mnemonic = "resemble brass deliver garlic rhythm discover mammal code sausage elephant badge slush";
+var mnemonic = "despair myth snack ozone cry open start diesel relax flip ketchup female";

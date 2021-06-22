@@ -1,1 +1,1 @@
-var mnemonic = "alone guard glide page memory level embark sort fold winter awake deliver";
+var mnemonic = "uncle ancient embrace bargain ridge circle device mushroom wire mercy club arctic";

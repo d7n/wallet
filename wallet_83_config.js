@@ -1,1 +1,1 @@
-var mnemonic = "hurry wife sleep urban blind rabbit bulb puppy dawn mystery cradle stadium";
+var mnemonic = "wool early oak bulk inhale entry asthma fall vessel cat maze mimic";

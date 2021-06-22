@@ -1,1 +1,1 @@
-var mnemonic = "forum picnic clump annual repair split track vendor ship anxiety muscle also";
+var mnemonic = "depth meat version never catch fetch wife detect carbon horror return column";

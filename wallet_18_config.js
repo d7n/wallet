@@ -1,1 +1,1 @@
-var mnemonic = "act comfort quarter space element display lawsuit actual dust wall oppose parade";
+var mnemonic = "laugh fortune motion enhance resist pulse holiday song spin scout bronze make";

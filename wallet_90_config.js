@@ -1,1 +1,1 @@
-var mnemonic = "inform lucky lawn program result bright turtle all sort trouble check fit";
+var mnemonic = "inject case lounge brass canyon file drum hundred wreck dentist foster mutual";

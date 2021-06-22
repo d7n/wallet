@@ -1,1 +1,1 @@
-var mnemonic = "bag chair fall digital spell broken rhythm soul october praise call congress";
+var mnemonic = "boil giant velvet few glow poverty fold crumble laundry wagon apart select";

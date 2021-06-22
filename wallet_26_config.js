@@ -1,1 +1,1 @@
-var mnemonic = "desert pink firm gather cannon bag best uncover burden stand bomb train";
+var mnemonic = "work vote farm denial promote casual come box slot steel there lucky";

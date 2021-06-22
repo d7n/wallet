@@ -1,1 +1,1 @@
-var mnemonic = "regret rail dumb version spoil venue cheap hen believe sudden dumb pause";
+var mnemonic = "fold vessel crawl swarm boy mercy hope sport noble chest super museum";

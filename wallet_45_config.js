@@ -1,1 +1,1 @@
-var mnemonic = "sing lava estate delay parade horror pave finish youth bring dice robot";
+var mnemonic = "meat permit umbrella elder tray damp segment sister decrease bind moment wing";

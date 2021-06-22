@@ -1,1 +1,1 @@
-var mnemonic = "bamboo quantum betray receive make mushroom auto sound predict junk better water";
+var mnemonic = "decade vibrant snake hybrid able owner crime lion feature add execute require";

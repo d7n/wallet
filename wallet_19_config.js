@@ -1,1 +1,1 @@
-var mnemonic = "sample laptop clump elephant service monkey lesson piece panel tunnel agent net";
+var mnemonic = "immense civil veteran brush onion stay bargain master skirt course usual climb";

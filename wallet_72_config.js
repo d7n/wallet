@@ -1,1 +1,1 @@
-var mnemonic = "sentence glare rocket false whip wagon lab rally gesture carry ride come";
+var mnemonic = "chicken castle foot velvet addict call smoke sniff crack cruise syrup spend";

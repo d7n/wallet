@@ -1,1 +1,1 @@
-var mnemonic = "rescue then reward express able connect awkward crime shove pole comic merge";
+var mnemonic = "goat stock picnic neither ill assume soda dog galaxy humble shy galaxy";

@@ -1,1 +1,1 @@
-var mnemonic = "fade that run tree ring toast point kitchen kid reason broccoli useful";
+var mnemonic = "faculty shock scout detail success guitar brisk you acoustic fun evoke shell";

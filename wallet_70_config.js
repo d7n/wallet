@@ -1,1 +1,1 @@
-var mnemonic = "donkey gown student miss reduce human fat knee clay album invite village";
+var mnemonic = "dynamic chimney erase magnet canal casual rice sweet veteran promote rival retreat";

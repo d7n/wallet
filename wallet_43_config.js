@@ -1,1 +1,1 @@
-var mnemonic = "furnace tribe funny theme catch nature judge person scatter poem disagree kidney";
+var mnemonic = "issue hammer funny proud gospel pole cliff cause usage lobster quiz sell";

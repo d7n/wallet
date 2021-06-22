@@ -1,1 +1,1 @@
-var mnemonic = "spatial round chat busy exhaust crystal axis bundle smooth debris vehicle still";
+var mnemonic = "bargain cash flight frozen digital half guess exit horror faculty pause siren";

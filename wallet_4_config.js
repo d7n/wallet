@@ -1,1 +1,1 @@
-var mnemonic = "consider imitate assume then clean anchor muffin inspire monster relax raven degree";
+var mnemonic = "approve scorpion tuition social van imitate depend where range fitness nose vote";

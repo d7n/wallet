@@ -1,1 +1,1 @@
-var mnemonic = "monkey account paper seek merry gain label suspect jewel hero antique badge";
+var mnemonic = "fiscal duty gloom drive luxury order gather fine mad mesh puzzle siege";

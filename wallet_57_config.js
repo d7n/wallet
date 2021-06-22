@@ -1,1 +1,1 @@
-var mnemonic = "raccoon sustain someone glance silly list tunnel hill jeans monster badge trust";
+var mnemonic = "genuine load student clerk cherry knock grain violin clock weasel peanut wedding";

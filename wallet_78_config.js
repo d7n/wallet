@@ -1,1 +1,1 @@
-var mnemonic = "sock globe across ozone copper hold master stock ahead innocent vast cradle";
+var mnemonic = "tray wide grid disorder run orange kit scrub submit kick escape rotate";

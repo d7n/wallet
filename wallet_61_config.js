@@ -1,1 +1,1 @@
-var mnemonic = "verify innocent pioneer train enrich kite album where gravity forum plate image";
+var mnemonic = "security parent space ahead poem beach pride inquiry hint exercise item burden";

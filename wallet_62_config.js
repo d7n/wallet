@@ -1,1 +1,1 @@
-var mnemonic = "trust about water inquiry loud exit gate exhaust segment media pear attract";
+var mnemonic = "maple cash funny donor second detect among recycle route guilt wolf that";

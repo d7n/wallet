@@ -1,1 +1,1 @@
-var mnemonic = "field luggage erupt waste popular void fall reward toddler symbol naive quarter";
+var mnemonic = "under tackle earn upset reduce favorite heart pig wisdom silly frown gorilla";

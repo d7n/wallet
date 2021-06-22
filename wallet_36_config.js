@@ -1,1 +1,1 @@
-var mnemonic = "bread awake food enter base foam maid element thought lend traffic one";
+var mnemonic = "false festival fall script olympic artist color census prize dream toss phrase";

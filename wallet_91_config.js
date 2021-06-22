@@ -1,1 +1,1 @@
-var mnemonic = "surge helmet void tobacco excite produce sail faculty target praise between letter";
+var mnemonic = "stamp model report sausage lucky prison april cheap tone vacant ethics hood";

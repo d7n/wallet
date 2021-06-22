@@ -1,1 +1,1 @@
-var mnemonic = "excess exile frown mushroom appear ritual order virtual farm certain coil net";
+var mnemonic = "void chunk bright ball valve pigeon shiver aunt estate ankle average crazy";

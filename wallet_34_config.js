@@ -1,1 +1,1 @@
-var mnemonic = "snack okay cute saddle mutual minute patch crystal casino infant rice soft";
+var mnemonic = "dizzy hockey salute stay raise tobacco animal street chase occur slow learn";

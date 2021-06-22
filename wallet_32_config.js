@@ -1,1 +1,1 @@
-var mnemonic = "endless gift grape steak capable bitter ripple photo art round baby shrug";
+var mnemonic = "margin dry liquid slam flush will service busy put praise awful chat";

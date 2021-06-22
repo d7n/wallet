@@ -1,1 +1,1 @@
-var mnemonic = "grief basket candy clump solution bargain army park force identify over vanish";
+var mnemonic = "chronic series spare rocket base echo catalog reflect heavy thumb oblige shop";

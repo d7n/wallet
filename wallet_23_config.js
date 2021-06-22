@@ -1,1 +1,1 @@
-var mnemonic = "penalty pink all into match photo indoor fabric fiber garage resist fire";
+var mnemonic = "noble hawk parade scheme friend orchard this venture dream prosper multiply disease";

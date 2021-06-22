@@ -1,1 +1,1 @@
-var mnemonic = "material morning key butter win can chalk neither carry language season bench";
+var mnemonic = "exhaust bargain dune between grit invite project wheat mercy family entry cement";

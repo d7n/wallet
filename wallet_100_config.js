@@ -1,1 +1,1 @@
-var mnemonic = "option drop inmate relief model onion merry draft dune couple fee snap";
+var mnemonic = "excite ribbon car high exhibit rigid ahead seminar slight orphan mother hurdle";

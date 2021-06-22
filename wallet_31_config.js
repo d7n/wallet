@@ -1,1 +1,1 @@
-var mnemonic = "total submit cargo jacket tank strategy garlic phrase edit swamp police drastic";
+var mnemonic = "please short corn holiday squeeze holiday bind trick rice dwarf salute quit";

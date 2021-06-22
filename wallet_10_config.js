@@ -1,1 +1,1 @@
-var mnemonic = "camera gate design fox display palm diet east monitor until notice baby";
+var mnemonic = "flash mule session person grief load honey reduce traffic wet bar unfair";

@@ -1,1 +1,1 @@
-var mnemonic = "law armor salute move two sunset push lift gym noise salmon genre";
+var mnemonic = "region purity awake online explain spoon neither orient desk level clarify nasty";

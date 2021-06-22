@@ -1,1 +1,1 @@
-var mnemonic = "stock express social leisure fashion meat clay attack mistake raw tide thunder";
+var mnemonic = "vocal bulb material ceiling clap soldier science kangaroo ten lock also tape";

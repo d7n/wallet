@@ -1,1 +1,1 @@
-var mnemonic = "salt insect master fury add combine wrap goat hat snow six social";
+var mnemonic = "client reject truth century admit right minimum piano creek poet slow seek";

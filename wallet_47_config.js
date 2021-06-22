@@ -1,1 +1,1 @@
-var mnemonic = "maid hundred science brand pluck calm girl unit nature beyond rule harbor";
+var mnemonic = "equip rare alien will donor tragic broken master another oak update luggage";

@@ -1,1 +1,1 @@
-var mnemonic = "goddess finger aim advice gold view blade symptom hover ocean favorite never";
+var mnemonic = "drip pair enable cycle cat morning athlete nut tattoo gap blouse buffalo";

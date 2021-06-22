@@ -1,1 +1,1 @@
-var mnemonic = "enemy canal squeeze find raw chimney valve twelve solid purpose spoil front";
+var mnemonic = "rotate street honey stable immune short iron then wash mixed dad bargain";

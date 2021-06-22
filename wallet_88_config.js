@@ -1,1 +1,1 @@
-var mnemonic = "please fringe exhaust police between calm fox melt camp skull board lunch";
+var mnemonic = "major sail federal elephant split echo humble squirrel rose police bachelor detect";

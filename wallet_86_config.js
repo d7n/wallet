@@ -1,1 +1,1 @@
-var mnemonic = "direct dog exit brush hard mother run what leopard license slide scissors";
+var mnemonic = "country blush monster panic swarm endorse disagree life absurd erase tide baby";

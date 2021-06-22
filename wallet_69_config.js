@@ -1,1 +1,1 @@
-var mnemonic = "click ability confirm zero coral upper scorpion opera inquiry abuse blast congress";
+var mnemonic = "leaf cash jump cabin route myth pool diagram error elephant alarm source";

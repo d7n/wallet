@@ -1,1 +1,1 @@
-var mnemonic = "club exhibit coach poverty afford light raise venture window frozen dad chase";
+var mnemonic = "renew rabbit bulk topic enforce describe delay letter garden talent equip inmate";

@@ -1,1 +1,1 @@
-var mnemonic = "monster soon feature inner keep chapter pepper dinosaur oak blade convince treat";
+var mnemonic = "sun want wet pig school method goat enjoy shrimp venue raccoon appear";

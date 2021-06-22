@@ -1,1 +1,1 @@
-var mnemonic = "december custom latin exact tuna cross fly chaos dinner inform behave monitor";
+var mnemonic = "keen two love uniform gather move estate rate legend cotton dizzy trumpet";

@@ -1,1 +1,1 @@
-var mnemonic = "stamp time book tag endorse blur remove senior clerk enemy mesh void";
+var mnemonic = "crash cash slot shock affair around dinosaur unfair peace roast armor believe";

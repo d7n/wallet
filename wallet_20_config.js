@@ -1,1 +1,1 @@
-var mnemonic = "range slight bridge kitchen fence extend eager winter debate toward crack depth";
+var mnemonic = "essence direct vote pitch cherry bottom hurdle entire climb smooth opinion dial";

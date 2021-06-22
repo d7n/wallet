@@ -1,1 +1,1 @@
-var mnemonic = "fix garbage main advance festival shy boring initial morning gravity prevent list";
+var mnemonic = "industry change impulse cry combine someone happy creek relief increase know blood";

@@ -1,1 +1,1 @@
-var mnemonic = "bonus undo juice voice enjoy blur comic stamp shadow love dog sea";
+var mnemonic = "column blossom indicate urge physical detail winter best genuine order syrup entry";

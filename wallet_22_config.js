@@ -1,1 +1,1 @@
-var mnemonic = "vote buffalo gown balance topic curious receive pen divorce enrich era burst";
+var mnemonic = "mouse exchange observe dwarf recycle opera essence sorry first message illegal unique";

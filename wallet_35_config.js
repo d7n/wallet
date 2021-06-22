@@ -1,1 +1,1 @@
-var mnemonic = "unaware fox raw parrot ribbon nice hub insane woman cheap genuine system";
+var mnemonic = "swarm ridge spot scrap smooth attitude escape stay couple humble topic limit";

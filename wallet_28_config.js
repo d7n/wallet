@@ -1,1 +1,1 @@
-var mnemonic = "gospel pig roast mom long poverty ready tunnel abuse flower argue real";
+var mnemonic = "sponsor august exclude teach faith solution whisper theory expire tonight unusual noise";

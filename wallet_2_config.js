@@ -1,1 +1,1 @@
-var mnemonic = "genre celery best object inner yellow engage wolf crush umbrella vendor leader";
+var mnemonic = "drop raccoon suit symptom welcome attend garbage ski ridge track help hole";

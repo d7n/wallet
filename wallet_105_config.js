@@ -1,1 +1,1 @@
-var mnemonic = "prefer dynamic segment badge between fresh civil toddler business output seed army";
+var mnemonic = "north armed series adapt intact wheel just brother stool pave only spider";

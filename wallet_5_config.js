@@ -1,1 +1,1 @@
-var mnemonic = "practice photo match city catalog october patient piece liberty garage feel behave";
+var mnemonic = "total habit grunt ring protect label portion surround grain merit garbage october";

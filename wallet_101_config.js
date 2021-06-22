@@ -1,1 +1,1 @@
-var mnemonic = "project field girl random spike cigar physical wheat city maple cliff belt";
+var mnemonic = "basket unknown choose pencil leg meadow hurdle unhappy dynamic aisle veteran ethics";

@@ -1,1 +1,1 @@
-var mnemonic = "truck spy ugly infant market fiction daring three sphere slim debate bean";
+var mnemonic = "tissue cluster sun era wagon receive reward bag hurry harsh method milk";

@@ -1,1 +1,1 @@
-var mnemonic = "ship hedgehog absurd laptop shy frame awake derive glass employ carpet bird";
+var mnemonic = "mesh silly drastic imitate crowd burden velvet patrol east urban shop clip";

@@ -1,1 +1,1 @@
-var mnemonic = "setup edge day kangaroo online feed account rural globe rude smoke reopen";
+var mnemonic = "trip cupboard pretty card egg dizzy language time general lock still spin";

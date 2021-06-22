@@ -1,1 +1,1 @@
-var mnemonic = "field ensure best negative adult radar eternal credit toe reunion tool minute";
+var mnemonic = "saddle pepper damage audit reject illness enforce exchange bonus dry bitter echo";

@@ -1,1 +1,1 @@
-var mnemonic = "banner gas teach paddle diary film essence crawl turn blast swim glue";
+var mnemonic = "genre village cabbage creek entire basket unit soda lawn safe expose screen";

@@ -1,1 +1,1 @@
-var mnemonic = "grape float disorder label sunset other zoo pig taxi need soft mixed";
+var mnemonic = "despair size bacon rent swarm stable spy bench van climb foster anxiety";

@@ -1,1 +1,1 @@
-var mnemonic = "program payment tragic vendor target trend save pulse marble skate lounge liar";
+var mnemonic = "leaf cute sentence hollow assist soldier assist lock enjoy direct unusual tree";

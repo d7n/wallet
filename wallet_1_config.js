@@ -1,1 +1,1 @@
-var mnemonic = "clinic light sell opera impact motion flavor half lunar mesh impulse comic";
+var mnemonic = "forest flash artist boy pencil strong august squeeze average physical word zebra";

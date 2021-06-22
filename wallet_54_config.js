@@ -1,1 +1,1 @@
-var mnemonic = "inch rocket stumble ankle car release profit elbow flavor slow inch victory";
+var mnemonic = "knock huge rule insane acquire same armor silly bubble senior east promote";

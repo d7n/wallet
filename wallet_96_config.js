@@ -1,1 +1,1 @@
-var mnemonic = "horn allow child nurse choose arctic nephew gentle front laugh west outer";
+var mnemonic = "ill test shield round woman taxi divert spider castle smooth torch about";

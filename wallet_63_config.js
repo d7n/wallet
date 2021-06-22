@@ -1,1 +1,1 @@
-var mnemonic = "able rely crucial quiz reason team float zero enjoy analyst speed drift";
+var mnemonic = "spawn inch wet hat cash slim glance insane shop jump flower concert";

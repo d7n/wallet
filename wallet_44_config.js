@@ -1,1 +1,1 @@
-var mnemonic = "jazz mansion verb witness citizen flat turtle sample address private country reflect";
+var mnemonic = "beyond pear ill decline evolve soldier shine noble gym art chaos educate";

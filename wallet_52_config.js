@@ -1,1 +1,1 @@
-var mnemonic = "enough flat harsh cheese mother ridge relief today minor jungle argue clever";
+var mnemonic = "mixture pear cancel disease exit vote ladder announce crush spoil double face";

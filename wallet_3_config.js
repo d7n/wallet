@@ -1,1 +1,1 @@
-var mnemonic = "tortoise gym toast whale rice matrix robust merry trap blade witness hood";
+var mnemonic = "damage guide assist stand vacuum laugh reward flight run pioneer coach valid";

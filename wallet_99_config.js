@@ -1,1 +1,1 @@
-var mnemonic = "spice sauce drink autumn spread basket debate anchor link mobile carpet rocket";
+var mnemonic = "camp crystal fence job equip equip maximum voyage blind acid web accident";

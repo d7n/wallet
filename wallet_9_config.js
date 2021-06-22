@@ -1,1 +1,1 @@
-var mnemonic = "short tattoo swing ticket surface diesel lens certain color olive eight sing";
+var mnemonic = "wild unhappy atom gap include fat home pigeon snack jacket poem spot";

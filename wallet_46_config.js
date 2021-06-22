@@ -1,1 +1,1 @@
-var mnemonic = "strong eye pyramid aspect view pluck snap observe cruise patrol street scrub";
+var mnemonic = "south stage start predict satisfy mail journey produce acid monkey raw orbit";

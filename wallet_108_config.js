@@ -1,1 +1,1 @@
-var mnemonic = "fox toe detail member bronze under then just trick noble silver man";
+var mnemonic = "kidney saddle fiction nephew chase pelican crack charge way picnic actual wing";

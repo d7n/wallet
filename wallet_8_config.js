@@ -1,1 +1,1 @@
-var mnemonic = "ozone wealth stomach random sauce young offer miss gas state country actual";
+var mnemonic = "body jar february notice dove abandon siege lounge resource laundry entry assume";

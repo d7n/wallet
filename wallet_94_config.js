@@ -1,1 +1,1 @@
-var mnemonic = "plunge symbol tomorrow illegal vibrant harbor liquid sketch charge range suit oil";
+var mnemonic = "desk pole shock arctic response ketchup van spot crystal buzz peasant movie";

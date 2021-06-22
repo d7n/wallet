@@ -1,1 +1,1 @@
-var mnemonic = "expire miss stamp lesson whip divorce fee enjoy sand alarm autumn wire";
+var mnemonic = "shock involve fabric honey dream coyote have wood edge prosper squirrel unknown";

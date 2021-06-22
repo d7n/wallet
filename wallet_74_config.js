@@ -1,1 +1,1 @@
-var mnemonic = "already blame damp connect nuclear ceiling bridge diagram enter quiz buyer tiger";
+var mnemonic = "tragic enough chef hint remain firm panel reunion build desert jewel ramp";

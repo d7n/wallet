@@ -1,1 +1,1 @@
-var mnemonic = "expire ability obtain short kitten caution acquire hamster still glide runway expose";
+var mnemonic = "punch illegal refuse nephew tent wall that grief warm save oblige echo";

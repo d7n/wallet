@@ -1,1 +1,1 @@
-var mnemonic = "mammal space scissors start forward boost decade switch settle emerge cattle october";
+var mnemonic = "industry stadium empower sure remove author unfold humble barrel use verify calm";

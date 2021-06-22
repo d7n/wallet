@@ -1,1 +1,1 @@
-var mnemonic = "where roast blood nurse ride decline check siege snake supreme reveal juice";
+var mnemonic = "tilt same expand idea ladder reason mistake beauty involve peasant stand tumble";

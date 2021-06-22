@@ -1,1 +1,1 @@
-var mnemonic = "drive pause today harvest found always bicycle soul often rather amateur fat";
+var mnemonic = "unfair genius resemble echo acoustic climb border will field cover twelve garment";

@@ -1,1 +1,1 @@
-var mnemonic = "upper leave certain cheese amazing practice elephant trip dolphin lizard assume noise";
+var mnemonic = "manage host purpose hair air clog wish property true nominee reopen stomach";

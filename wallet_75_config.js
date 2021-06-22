@@ -1,1 +1,1 @@
-var mnemonic = "pink resist equip clap rotate degree wear pudding produce shadow suffer shoot";
+var mnemonic = "august shop ginger dad parrot razor wire rich robot grant kind satoshi";

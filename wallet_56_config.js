@@ -1,1 +1,1 @@
-var mnemonic = "bus pupil then twice jewel marriage citizen neglect virtual onion toddler choose";
+var mnemonic = "fury globe gauge begin silver solar limb office cinnamon action mixed remember";

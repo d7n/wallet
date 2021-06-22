@@ -1,1 +1,1 @@
-var mnemonic = "indicate pause sunny icon fun under upper dynamic flock path race maze";
+var mnemonic = "error festival symptom never flavor direct deal mystery guilt bag guess evidence";

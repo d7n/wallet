@@ -1,1 +1,1 @@
-var mnemonic = "fatigue penalty purchase found six vivid sock alter shield giggle unique august";
+var mnemonic = "spot nice sadness wood knife similar hobby buffalo between frequent drop topic";

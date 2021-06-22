@@ -1,1 +1,1 @@
-var mnemonic = "fantasy chalk love else net that pulse enemy usage valley library error";
+var mnemonic = "flower lonely focus blush sign animal earn purity lab silent stove omit";

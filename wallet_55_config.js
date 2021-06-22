@@ -1,1 +1,1 @@
-var mnemonic = "accident able pledge miss tilt explain trash olympic exotic patient trap oil";
+var mnemonic = "pepper problem goose genuine slow run tube jaguar fabric share joy main";
