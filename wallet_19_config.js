@@ -1,1 +1,1 @@
-var mnemonic = "depend sudden flavor awkward street pupil face conduct void hidden obey leaf";
+var mnemonic = "sample laptop clump elephant service monkey lesson piece panel tunnel agent net";

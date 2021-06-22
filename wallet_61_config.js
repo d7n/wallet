@@ -1,1 +1,1 @@
-var mnemonic = "cannon work weird hurt concert amazing level snap rug silk protect panda";
+var mnemonic = "verify innocent pioneer train enrich kite album where gravity forum plate image";

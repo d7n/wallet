@@ -1,1 +1,1 @@
-var mnemonic = "tiger frame tonight deliver cloud treat oppose gospel prison sleep pull sunny";
+var mnemonic = "exercise hub finger wrap army execute enforce tunnel distance convince until leaf";

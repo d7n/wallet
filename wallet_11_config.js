@@ -1,1 +1,1 @@
-var mnemonic = "math stick strike question thank rural pattern glow dove hour frost green";
+var mnemonic = "bonus undo juice voice enjoy blur comic stamp shadow love dog sea";

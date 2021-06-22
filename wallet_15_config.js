@@ -1,1 +1,1 @@
-var mnemonic = "wagon captain mind witness walk food dolphin term couple emerge render long";
+var mnemonic = "salt insect master fury add combine wrap goat hat snow six social";

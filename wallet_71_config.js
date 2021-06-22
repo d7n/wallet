@@ -1,1 +1,1 @@
-var mnemonic = "uncle festival witness seek miracle front chaos build agree smart whale wedding";
+var mnemonic = "excess exile frown mushroom appear ritual order virtual farm certain coil net";

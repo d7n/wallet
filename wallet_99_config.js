@@ -1,1 +1,1 @@
-var mnemonic = "humble curve elevator price canoe spike alone ill cover satoshi column neglect";
+var mnemonic = "spice sauce drink autumn spread basket debate anchor link mobile carpet rocket";

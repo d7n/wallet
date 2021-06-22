@@ -1,1 +1,1 @@
-var mnemonic = "science turtle turn hub slush stairs engine antique improve scale stomach awful";
+var mnemonic = "endless gift grape steak capable bitter ripple photo art round baby shrug";

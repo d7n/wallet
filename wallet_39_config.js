@@ -1,1 +1,1 @@
-var mnemonic = "chunk basic void fall until leader harvest mention light track debris master";
+var mnemonic = "banner gas teach paddle diary film essence crawl turn blast swim glue";

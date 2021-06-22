@@ -1,1 +1,1 @@
-var mnemonic = "rather able turn marriage desert bubble light fiber fish direct tape congress";
+var mnemonic = "project field girl random spike cigar physical wheat city maple cliff belt";

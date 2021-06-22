@@ -1,1 +1,1 @@
-var mnemonic = "artwork month bitter lizard mother orphan morning sound inmate tunnel again cable";
+var mnemonic = "horn allow child nurse choose arctic nephew gentle front laugh west outer";

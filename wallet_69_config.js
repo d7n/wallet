@@ -1,1 +1,1 @@
-var mnemonic = "enemy left concert capital scale mercy bomb live plate drum inspire thought";
+var mnemonic = "click ability confirm zero coral upper scorpion opera inquiry abuse blast congress";

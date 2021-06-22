@@ -1,1 +1,1 @@
-var mnemonic = "click vault vibrant myth bracket fuel jewel beyond mango settle cinnamon dinosaur";
+var mnemonic = "true awake brand drop spray traffic dress amused tennis autumn donate property";

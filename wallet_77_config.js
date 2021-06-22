@@ -1,1 +1,1 @@
-var mnemonic = "sell apple feed monster disorder pride bubble magic skirt knock deal solution";
+var mnemonic = "grape float disorder label sunset other zoo pig taxi need soft mixed";

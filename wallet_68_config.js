@@ -1,1 +1,1 @@
-var mnemonic = "bike sense enact focus plate cereal file unveil radar festival public grit";
+var mnemonic = "expire miss stamp lesson whip divorce fee enjoy sand alarm autumn wire";

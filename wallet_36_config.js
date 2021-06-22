@@ -1,1 +1,1 @@
-var mnemonic = "lawn economy flee person soccer valid bulk fall taste guide choice unaware";
+var mnemonic = "bread awake food enter base foam maid element thought lend traffic one";

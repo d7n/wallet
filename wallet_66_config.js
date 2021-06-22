@@ -1,1 +1,1 @@
-var mnemonic = "sniff dismiss because army primary actor neck swap raven syrup lounge output";
+var mnemonic = "sport hire garage usual chair fee isolate success grow veteran blur action";

@@ -1,1 +1,1 @@
-var mnemonic = "monster project mushroom error trend era donkey rail nerve omit blanket uncle";
+var mnemonic = "able rely crucial quiz reason team float zero enjoy analyst speed drift";

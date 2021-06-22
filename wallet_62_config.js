@@ -1,1 +1,1 @@
-var mnemonic = "defy plastic census sorry grant lonely energy often there amused diet result";
+var mnemonic = "trust about water inquiry loud exit gate exhaust segment media pear attract";

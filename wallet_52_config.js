@@ -1,1 +1,1 @@
-var mnemonic = "van mandate future space fade bomb dance wife false zebra carry real";
+var mnemonic = "enough flat harsh cheese mother ridge relief today minor jungle argue clever";

@@ -1,1 +1,1 @@
-var mnemonic = "valley profit unfold pink smile ginger business struggle summer hair fever dress";
+var mnemonic = "indicate pause sunny icon fun under upper dynamic flock path race maze";

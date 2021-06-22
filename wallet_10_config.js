@@ -1,1 +1,1 @@
-var mnemonic = "web uncle element silk claw piano music display helmet easy caught arrange";
+var mnemonic = "camera gate design fox display palm diet east monitor until notice baby";

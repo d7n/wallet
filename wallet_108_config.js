@@ -1,1 +1,1 @@
-var mnemonic = "transfer unusual lock boss leave lift update gas special rather unable crucial";
+var mnemonic = "fox toe detail member bronze under then just trick noble silver man";

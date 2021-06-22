@@ -1,1 +1,1 @@
-var mnemonic = "treat seed foot happy merge exhaust yard survey pause organ perfect armed";
+var mnemonic = "short tattoo swing ticket surface diesel lens certain color olive eight sing";

@@ -1,1 +1,1 @@
-var mnemonic = "visa analyst account cycle surprise shrug shove select arctic gorilla betray wreck";
+var mnemonic = "truck spy ugly infant market fiction daring three sphere slim debate bean";

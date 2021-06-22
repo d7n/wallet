@@ -1,1 +1,1 @@
-var mnemonic = "idle design resist learn settle bridge bid trouble hood face security morning";
+var mnemonic = "stock express social leisure fashion meat clay attack mistake raw tide thunder";

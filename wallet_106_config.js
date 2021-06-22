@@ -1,1 +1,1 @@
-var mnemonic = "myth eagle famous mind sight mansion adapt ask improve timber zero loan";
+var mnemonic = "fantasy chalk love else net that pulse enemy usage valley library error";

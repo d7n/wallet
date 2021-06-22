@@ -1,1 +1,1 @@
-var mnemonic = "transfer clutch monitor message horror kitten sting pluck test change embody party";
+var mnemonic = "athlete west wreck month divorce rookie miracle old spy nuclear among envelope";

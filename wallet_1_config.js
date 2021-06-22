@@ -1,1 +1,1 @@
-var mnemonic = "identify blossom whale siege arena nuclear begin mad rare woman stock wolf";
+var mnemonic = "clinic light sell opera impact motion flavor half lunar mesh impulse comic";

@@ -1,1 +1,1 @@
-var mnemonic = "lottery east you impulse transfer place recycle mechanic bulb maple replace exit";
+var mnemonic = "raccoon sustain someone glance silly list tunnel hill jeans monster badge trust";

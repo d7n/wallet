@@ -1,1 +1,1 @@
-var mnemonic = "salt tiger borrow brother same cabin meat snap certain chief kind ketchup";
+var mnemonic = "pink resist equip clap rotate degree wear pudding produce shadow suffer shoot";

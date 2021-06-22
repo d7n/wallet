@@ -1,1 +1,1 @@
-var mnemonic = "wall dignity merge tank happy logic theory stumble reform annual coconut marble";
+var mnemonic = "drive pause today harvest found always bicycle soul often rather amateur fat";

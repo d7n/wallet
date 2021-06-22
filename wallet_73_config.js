@@ -1,1 +1,1 @@
-var mnemonic = "regret weasel way soup recycle raise library supply size resemble hold venture";
+var mnemonic = "setup edge day kangaroo online feed account rural globe rude smoke reopen";

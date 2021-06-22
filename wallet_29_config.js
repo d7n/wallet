@@ -1,1 +1,1 @@
-var mnemonic = "recall slender media drastic wing father dynamic nut regret fruit boy screen";
+var mnemonic = "field ensure best negative adult radar eternal credit toe reunion tool minute";

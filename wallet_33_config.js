@@ -1,1 +1,1 @@
-var mnemonic = "essay camp debate silver casino screen shallow carry drill entire unfold rack";
+var mnemonic = "program payment tragic vendor target trend save pulse marble skate lounge liar";

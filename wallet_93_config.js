@@ -1,1 +1,1 @@
-var mnemonic = "scale safe artwork hedgehog rent transfer comfort truck evidence service velvet refuse";
+var mnemonic = "goddess finger aim advice gold view blade symptom hover ocean favorite never";

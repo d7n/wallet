@@ -1,1 +1,1 @@
-var mnemonic = "alley trust among dose empower october grant burden physical laundry lounge path";
+var mnemonic = "plunge symbol tomorrow illegal vibrant harbor liquid sketch charge range suit oil";

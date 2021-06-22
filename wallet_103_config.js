@@ -1,1 +1,1 @@
-var mnemonic = "economy else cherry pole frozen pulp put kidney super mango calm bless";
+var mnemonic = "bag chair fall digital spell broken rhythm soul october praise call congress";

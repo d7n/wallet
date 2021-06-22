@@ -1,1 +1,1 @@
-var mnemonic = "pudding word name reduce vanish delay walk crack day state match sell";
+var mnemonic = "spatial round chat busy exhaust crystal axis bundle smooth debris vehicle still";

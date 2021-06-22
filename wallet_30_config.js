@@ -1,1 +1,1 @@
-var mnemonic = "clip town solid talent hungry reward grocery pole pulp avocado cabbage gadget";
+var mnemonic = "where roast blood nurse ride decline check siege snake supreme reveal juice";

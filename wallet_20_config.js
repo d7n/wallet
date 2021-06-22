@@ -1,1 +1,1 @@
-var mnemonic = "sustain buffalo liar pitch mammal attract poverty tennis recall betray alter upper";
+var mnemonic = "range slight bridge kitchen fence extend eager winter debate toward crack depth";

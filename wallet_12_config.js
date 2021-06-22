@@ -1,1 +1,1 @@
-var mnemonic = "lake width ticket guitar feed blossom bronze whip capital access message match";
+var mnemonic = "bonus aisle else wife abstract digital high core unlock luggage income include";

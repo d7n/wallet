@@ -1,1 +1,1 @@
-var mnemonic = "castle melt slush order melody orange knock utility convince foster essay wine";
+var mnemonic = "output flock eagle heart rent length orient glory loud little beauty meat";

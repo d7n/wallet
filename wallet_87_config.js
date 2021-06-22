@@ -1,1 +1,1 @@
-var mnemonic = "decade neutral fatal brick size damp cousin swallow friend divide fit dirt";
+var mnemonic = "stamp time book tag endorse blur remove senior clerk enemy mesh void";

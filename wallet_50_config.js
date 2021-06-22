@@ -1,1 +1,1 @@
-var mnemonic = "apology sniff supply mention lobster main quarter impulse decrease cherry weekend wolf";
+var mnemonic = "fix garbage main advance festival shy boring initial morning gravity prevent list";

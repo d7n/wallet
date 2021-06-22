@@ -1,1 +1,1 @@
-var mnemonic = "relax bamboo crane poet congress address leaf marriage bulk foil bean sure";
+var mnemonic = "prefer dynamic segment badge between fresh civil toddler business output seed army";

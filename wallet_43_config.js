@@ -1,1 +1,1 @@
-var mnemonic = "spirit genre list rail process insane foster gentle crucial aisle office sweet";
+var mnemonic = "furnace tribe funny theme catch nature judge person scatter poem disagree kidney";

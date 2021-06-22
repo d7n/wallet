@@ -1,1 +1,1 @@
-var mnemonic = "solution casino diagram process still admit open magnet cart wood easily art";
+var mnemonic = "unaware fox raw parrot ribbon nice hub insane woman cheap genuine system";

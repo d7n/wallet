@@ -1,1 +1,1 @@
-var mnemonic = "misery science when rocket exit crowd crash dismiss guess summer acquire wide";
+var mnemonic = "monster soon feature inner keep chapter pepper dinosaur oak blade convince treat";

@@ -1,1 +1,1 @@
-var mnemonic = "pyramid visit twice almost sleep alpha penalty purse catch van kind smooth";
+var mnemonic = "model want high column credit limit maximum lounge arrive wealth loud accuse";

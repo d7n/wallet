@@ -1,1 +1,1 @@
-var mnemonic = "deal amount auto hover pluck cost pony shell segment happy stay scissors";
+var mnemonic = "hurry wife sleep urban blind rabbit bulb puppy dawn mystery cradle stadium";

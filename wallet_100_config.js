@@ -1,1 +1,1 @@
-var mnemonic = "rhythm december material attack legal daring despair muffin execute insane avoid glory";
+var mnemonic = "option drop inmate relief model onion merry draft dune couple fee snap";

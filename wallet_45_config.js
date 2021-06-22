@@ -1,1 +1,1 @@
-var mnemonic = "jewel renew cross notable buddy glance huge soup spike decide lumber student";
+var mnemonic = "sing lava estate delay parade horror pave finish youth bring dice robot";

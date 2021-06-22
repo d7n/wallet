@@ -1,1 +1,1 @@
-var mnemonic = "member route mutual lift little sheriff puzzle advice catalog limb oxygen level";
+var mnemonic = "total submit cargo jacket tank strategy garlic phrase edit swamp police drastic";

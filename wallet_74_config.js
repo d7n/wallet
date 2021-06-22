@@ -1,1 +1,1 @@
-var mnemonic = "arm know nuclear economy tiny media fire broom ask tone road interest";
+var mnemonic = "already blame damp connect nuclear ceiling bridge diagram enter quiz buyer tiger";

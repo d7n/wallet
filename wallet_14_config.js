@@ -1,1 +1,1 @@
-var mnemonic = "permit panther coral outside floor thought retreat swim inform soon junior embrace";
+var mnemonic = "fade that run tree ring toast point kitchen kid reason broccoli useful";

@@ -1,1 +1,1 @@
-var mnemonic = "case raw next garden crumble million chat sad casual style what elephant";
+var mnemonic = "grief basket candy clump solution bargain army park force identify over vanish";

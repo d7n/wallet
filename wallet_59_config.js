@@ -1,1 +1,1 @@
-var mnemonic = "topic snake autumn drink winter sorry quote soul jelly cherry humble minute";
+var mnemonic = "rescue then reward express able connect awkward crime shove pole comic merge";

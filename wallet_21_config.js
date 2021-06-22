@@ -1,1 +1,1 @@
-var mnemonic = "basic wealth mom observe flag simple brave awful ugly april trumpet illness";
+var mnemonic = "inject stand toward twin ridge debate pipe mix barrel soap team divide";

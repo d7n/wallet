@@ -1,1 +1,1 @@
-var mnemonic = "trick mosquito dragon water life print grid vehicle february wool margin wash";
+var mnemonic = "bamboo quantum betray receive make mushroom auto sound predict junk better water";

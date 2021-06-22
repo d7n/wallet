@@ -1,1 +1,1 @@
-var mnemonic = "funny skull fog digital job logic picture trial humble term spend limb";
+var mnemonic = "penalty pink all into match photo indoor fabric fiber garage resist fire";

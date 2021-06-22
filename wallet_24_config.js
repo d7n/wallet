@@ -1,1 +1,1 @@
-var mnemonic = "junk aunt roof any museum fish bundle item during town bitter chase";
+var mnemonic = "law armor salute move two sunset push lift gym noise salmon genre";

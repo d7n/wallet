@@ -1,1 +1,1 @@
-var mnemonic = "ankle rescue silver author during stage time chimney provide beyond bargain material";
+var mnemonic = "sentence glare rocket false whip wagon lab rally gesture carry ride come";

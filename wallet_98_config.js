@@ -1,1 +1,1 @@
-var mnemonic = "service slab quarter fiber depth wide unlock account know journey fabric pool";
+var mnemonic = "monkey account paper seek merry gain label suspect jewel hero antique badge";

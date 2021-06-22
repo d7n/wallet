@@ -1,1 +1,1 @@
-var mnemonic = "cereal blind piano enroll denial uncle fee thrive early pigeon demise distance";
+var mnemonic = "accident able pledge miss tilt explain trash olympic exotic patient trap oil";

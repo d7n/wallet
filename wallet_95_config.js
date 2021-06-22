@@ -1,1 +1,1 @@
-var mnemonic = "wheat pool gap desk keep success moment stumble dolphin nurse shrug impose";
+var mnemonic = "expire ability obtain short kitten caution acquire hamster still glide runway expose";

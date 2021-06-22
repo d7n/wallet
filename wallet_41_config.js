@@ -1,1 +1,1 @@
-var mnemonic = "crane foam worry smart garden sauce vintage mixture embark rich day seat";
+var mnemonic = "field luggage erupt waste popular void fall reward toddler symbol naive quarter";

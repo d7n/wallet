@@ -1,1 +1,1 @@
-var mnemonic = "proud trend march liquid sport spy planet neither bachelor human rack they";
+var mnemonic = "alone guard glide page memory level embark sort fold winter awake deliver";

@@ -1,1 +1,1 @@
-var mnemonic = "domain replace zone slim sheriff dose route seven west pride brother shadow";
+var mnemonic = "gospel pig roast mom long poverty ready tunnel abuse flower argue real";

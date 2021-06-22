@@ -1,1 +1,1 @@
-var mnemonic = "lottery fatigue melt lizard ask neck consider proud table boil fatigue digital";
+var mnemonic = "act comfort quarter space element display lawsuit actual dust wall oppose parade";

@@ -1,1 +1,1 @@
-var mnemonic = "rally govern push purpose title subject broccoli issue trap dentist govern bicycle";
+var mnemonic = "snack okay cute saddle mutual minute patch crystal casino infant rice soft";

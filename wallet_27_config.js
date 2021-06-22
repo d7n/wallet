@@ -1,1 +1,1 @@
-var mnemonic = "edge banana hundred music axis enter approve fit lunar team capable tonight";
+var mnemonic = "resemble brass deliver garlic rhythm discover mammal code sausage elephant badge slush";

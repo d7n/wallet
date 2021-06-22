@@ -1,1 +1,1 @@
-var mnemonic = "focus afford rail chimney around check bench genre sweet unhappy pair lucky";
+var mnemonic = "enlist fiction world disorder repair start lock task slogan siren stuff design";

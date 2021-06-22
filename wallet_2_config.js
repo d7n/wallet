@@ -1,1 +1,1 @@
-var mnemonic = "trigger seed flavor slot alert blood note rough use rural near betray";
+var mnemonic = "genre celery best object inner yellow engage wolf crush umbrella vendor leader";

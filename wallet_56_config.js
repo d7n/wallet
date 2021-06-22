@@ -1,1 +1,1 @@
-var mnemonic = "virus ability avoid color share price pass bracket census month oblige attend";
+var mnemonic = "bus pupil then twice jewel marriage citizen neglect virtual onion toddler choose";

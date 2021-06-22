@@ -1,1 +1,1 @@
-var mnemonic = "tone asset tag copper garbage claw carbon math tree diary pass lobster";
+var mnemonic = "become evil common confirm exclude swap betray bachelor change bus issue recipe";

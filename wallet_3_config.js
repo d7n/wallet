@@ -1,1 +1,1 @@
-var mnemonic = "topic sword day labor hungry fashion actress domain endorse strong whale angle";
+var mnemonic = "tortoise gym toast whale rice matrix robust merry trap blade witness hood";

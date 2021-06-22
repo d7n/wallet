@@ -1,1 +1,1 @@
-var mnemonic = "gain vendor write oven cloth delay talk pill sketch crane seminar system";
+var mnemonic = "strong eye pyramid aspect view pluck snap observe cruise patrol street scrub";

@@ -1,1 +1,1 @@
-var mnemonic = "field board hood daring tiger hedgehog carbon helmet will fatigue jeans relief";
+var mnemonic = "december custom latin exact tuna cross fly chaos dinner inform behave monitor";

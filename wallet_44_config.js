@@ -1,1 +1,1 @@
-var mnemonic = "balance link manual vital remind strike caught lumber slender recycle fat rookie";
+var mnemonic = "jazz mansion verb witness citizen flat turtle sample address private country reflect";

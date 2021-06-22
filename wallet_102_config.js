@@ -1,1 +1,1 @@
-var mnemonic = "critic more stuff crystal saddle track extend scene what violin shrimp good";
+var mnemonic = "fatigue penalty purchase found six vivid sock alter shield giggle unique august";

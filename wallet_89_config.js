@@ -1,1 +1,1 @@
-var mnemonic = "feature enjoy monitor inspire child guard upper arrive math snap toward danger";
+var mnemonic = "spell excuse border name can shoe poverty lyrics deputy recall fiscal law";

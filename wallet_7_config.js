@@ -1,1 +1,1 @@
-var mnemonic = "learn achieve solar search frequent aunt elite shoot quarter arm credit quantum";
+var mnemonic = "ship hedgehog absurd laptop shy frame awake derive glass employ carpet bird";

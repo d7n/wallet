@@ -1,1 +1,1 @@
-var mnemonic = "happy finger current blouse crouch cluster carry radio harbor civil identify divorce";
+var mnemonic = "inch rocket stumble ankle car release profit elbow flavor slow inch victory";

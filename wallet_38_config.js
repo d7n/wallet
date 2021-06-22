@@ -1,1 +1,1 @@
-var mnemonic = "know early tube spray flash stamp effort invite degree person mind diet";
+var mnemonic = "combine amazing hurt stable evolve cargo wealth trophy author rely lift battle";

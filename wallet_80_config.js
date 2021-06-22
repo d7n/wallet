@@ -1,1 +1,1 @@
-var mnemonic = "feature farm base sniff bubble identify decline absurd fog task cube artwork";
+var mnemonic = "regret rail dumb version spoil venue cheap hen believe sudden dumb pause";

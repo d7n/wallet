@@ -1,1 +1,1 @@
-var mnemonic = "horse awake clerk usage merry alter index spare used shuffle universe fluid";
+var mnemonic = "donkey gown student miss reduce human fat knee clay album invite village";

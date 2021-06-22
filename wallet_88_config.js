@@ -1,1 +1,1 @@
-var mnemonic = "rich sister robot spare boat desert flush drop cement letter body check";
+var mnemonic = "please fringe exhaust police between calm fox melt camp skull board lunch";

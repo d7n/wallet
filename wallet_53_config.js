@@ -1,1 +1,1 @@
-var mnemonic = "segment high escape produce spell bind dance matter attract narrow brand neutral";
+var mnemonic = "gentle chef echo riot onion walnut home wrist boost depth hidden jeans";
