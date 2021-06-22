@@ -1,1 +1,1 @@
-var mnemonic = "climb awful manage midnight consider leg faint involve luggage prepare immense erupt";
+var mnemonic = "lava banner silly uniform chuckle lounge gain farm enemy laundry sunny first";

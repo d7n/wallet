@@ -1,1 +1,1 @@
-var mnemonic = "clap cupboard vague film idea smoke govern regret timber entry scheme menu";
+var mnemonic = "spare cabbage wool together idea adjust number hard gun family forward planet";

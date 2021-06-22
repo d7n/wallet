@@ -1,1 +1,1 @@
-var mnemonic = "october bounce old dentist talent work chief frame enjoy across praise region";
+var mnemonic = "vibrant mixed six avocado brain assist hat educate sugar road donate together";

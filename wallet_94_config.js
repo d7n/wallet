@@ -1,1 +1,1 @@
-var mnemonic = "virus anger stuff repeat vital neglect opinion suffer horse apart ticket scheme";
+var mnemonic = "voice repair expect mesh injury then win grunt fantasy federal race tiny";

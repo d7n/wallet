@@ -1,1 +1,1 @@
-var mnemonic = "zebra nation print train output over soon artist upper pact now group";
+var mnemonic = "world random bamboo exist pipe space insect denial acquire noise year salmon";

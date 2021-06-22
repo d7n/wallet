@@ -1,1 +1,1 @@
-var mnemonic = "like vacuum clarify drink script crew nice beyond grit know ribbon direct";
+var mnemonic = "soon barely forest bunker canyon fitness skill laugh jewel issue plastic away";

@@ -1,1 +1,1 @@
-var mnemonic = "lake ranch focus direct bike couple wage train logic organ food rifle";
+var mnemonic = "myself mule enemy repair maximum minimum able educate slush pride trap design";

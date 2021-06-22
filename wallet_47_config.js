@@ -1,1 +1,1 @@
-var mnemonic = "balance rich key point upset ready defy rapid dawn wise domain mask";
+var mnemonic = "mail order sand isolate horror use sleep soda fuel able equal above";

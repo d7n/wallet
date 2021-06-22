@@ -1,1 +1,1 @@
-var mnemonic = "yard again style rookie edit hope nose ribbon scissors siege draft leave";
+var mnemonic = "rival strong lesson awkward throw delay leaf measure oval angry excite sense";

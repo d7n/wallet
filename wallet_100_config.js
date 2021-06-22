@@ -1,1 +1,1 @@
-var mnemonic = "avocado cancel shoulder survey all private example become mercy scene resemble interest";
+var mnemonic = "rib season rival okay junk expire long decade radio pact lamp forum";

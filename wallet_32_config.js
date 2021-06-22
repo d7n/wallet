@@ -1,1 +1,1 @@
-var mnemonic = "quick beef music pride glimpse river unhappy feature gesture animal gallery pride";
+var mnemonic = "bench panda prize scale tell source seven tent hidden frog owner smile";

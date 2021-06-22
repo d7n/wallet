@@ -1,1 +1,1 @@
-var mnemonic = "candy absorb wild prefer settle version genuine near oxygen all scrub evoke";
+var mnemonic = "crunch detect clump reflect cup grow knock globe pulp ill mass topic";

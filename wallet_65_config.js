@@ -1,1 +1,1 @@
-var mnemonic = "enhance boy canyon relax mixture glad buffalo bitter robust derive hover seek";
+var mnemonic = "another garbage swim boy enlist mansion vendor tail lizard outer where toast";

@@ -1,1 +1,1 @@
-var mnemonic = "live all dinner snap mosquito ranch plastic bag web inch dignity erase";
+var mnemonic = "inform note only cloud negative stage elegant system punch panel junior either";

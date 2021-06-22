@@ -1,1 +1,1 @@
-var mnemonic = "first gravity blood process bridge hockey february direct holiday use mom blast";
+var mnemonic = "grape thumb opera inform evil pole grass muffin radar move scrub warrior";

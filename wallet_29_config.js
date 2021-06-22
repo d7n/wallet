@@ -1,1 +1,1 @@
-var mnemonic = "atom season chaos pitch city drip figure march genius mobile huge fog";
+var mnemonic = "evidence useful bacon sock when pulse bounce scale zone fence fork kind";

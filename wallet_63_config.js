@@ -1,1 +1,1 @@
-var mnemonic = "undo library vapor text catalog glad whale base squeeze deal use name";
+var mnemonic = "bulk laundry foster law what amused hover spread process man shiver pair";

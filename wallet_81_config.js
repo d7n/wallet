@@ -1,1 +1,1 @@
-var mnemonic = "stuff soul roof change plunge alpha flame eternal raw flat surge melt";
+var mnemonic = "someone robot skirt brain autumn client task bus exile layer receive defense";

@@ -1,1 +1,1 @@
-var mnemonic = "actor dust clean seat move bomb cloth crucial virtual shed infant boy";
+var mnemonic = "misery metal demand monitor road sail appear useful female jacket wife item";

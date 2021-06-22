@@ -1,1 +1,1 @@
-var mnemonic = "coach copy nerve defy crumble dutch frown person amount blade void logic";
+var mnemonic = "arch isolate garlic waste embark cook wet that poem decline certain antenna";

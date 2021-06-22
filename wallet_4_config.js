@@ -1,1 +1,1 @@
-var mnemonic = "access illegal horror hockey net green seminar side gather cupboard wool polar";
+var mnemonic = "maid protect indicate naive vague awkward monster ketchup orchard soup village october";

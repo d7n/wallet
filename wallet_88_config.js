@@ -1,1 +1,1 @@
-var mnemonic = "famous vapor turn female between daring lab want parade leave suspect order";
+var mnemonic = "rice seven erase clump catalog creek faint sentence blood alien wealth amused";

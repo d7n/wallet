@@ -1,1 +1,1 @@
-var mnemonic = "month original garment estate owner divide lawn juice ask degree special rely";
+var mnemonic = "sunny pottery panel various reflect confirm limit fox exist sense dutch predict";

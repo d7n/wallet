@@ -1,1 +1,1 @@
-var mnemonic = "glimpse style level talk column era term blouse motion valley screen invite";
+var mnemonic = "uncle knock camera cross crop melt version fat cave street clump want";

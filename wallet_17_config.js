@@ -1,1 +1,1 @@
-var mnemonic = "embody beyond wire tuna fortune true smart adapt century regular depth shoot";
+var mnemonic = "leave talk truth illegal round perfect bonus chaos damage calm above expire";

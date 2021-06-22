@@ -1,1 +1,1 @@
-var mnemonic = "over verb inch thought best monitor resist kind tissue acid artwork narrow";
+var mnemonic = "produce army tree blush enough divert space clap float dinner steak interest";

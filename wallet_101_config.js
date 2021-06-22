@@ -1,1 +1,1 @@
-var mnemonic = "glare economy yellow material mountain fun verb arm emerge plug crew undo";
+var mnemonic = "trade example drum law such resist dish horn faith found evolve orange";

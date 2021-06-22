@@ -1,1 +1,1 @@
-var mnemonic = "sand pulp board salt mimic nice scrap galaxy rain sugar peanut reform";
+var mnemonic = "pass whale buffalo cupboard shiver weather noodle drama alone swing renew fish";

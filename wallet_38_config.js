@@ -1,1 +1,1 @@
-var mnemonic = "retreat ladder million mountain tomato motor hard caught exhaust ensure review side";
+var mnemonic = "unfair unusual wool remind example clock aspect web own unknown monster tunnel";

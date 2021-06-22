@@ -1,1 +1,1 @@
-var mnemonic = "veteran chronic provide federal wedding grace crew figure follow team bag search";
+var mnemonic = "write mobile sure save common fish clean trim photo region alien soldier";

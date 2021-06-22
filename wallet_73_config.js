@@ -1,1 +1,1 @@
-var mnemonic = "approve demise sudden coach bottom pioneer model girl suffer proof south notice";
+var mnemonic = "large ring cram regular lumber develop spray day favorite response nurse resemble";

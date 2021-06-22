@@ -1,1 +1,1 @@
-var mnemonic = "saddle tank hand letter resemble retreat shy cover mammal judge refuse reward";
+var mnemonic = "similar board hamster bomb debate tent expand output scatter fire elegant anxiety";

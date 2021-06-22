@@ -1,1 +1,1 @@
-var mnemonic = "huge cart olympic cliff flash appear outer obvious cotton risk animal faint";
+var mnemonic = "uniform tank eyebrow next knee lock luxury path spoil similar fatigue imitate";

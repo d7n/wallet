@@ -1,1 +1,1 @@
-var mnemonic = "mountain hurry build topic chicken charge corn unit virtual shaft artwork catalog";
+var mnemonic = "cruel inmate obvious race talent review shaft flush length fruit sun hen";

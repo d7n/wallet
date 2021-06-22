@@ -1,1 +1,1 @@
-var mnemonic = "jungle valid undo divide merge wire cannon pear nurse hover best shove";
+var mnemonic = "fan worth elephant resemble anxiety genius educate cherry shadow barrel ridge ugly";

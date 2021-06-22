@@ -1,1 +1,1 @@
-var mnemonic = "slight tomato cloud exist pair trim base glance chimney dune cereal casino";
+var mnemonic = "predict gift team word frog notable fade tired olympic vintage good pyramid";

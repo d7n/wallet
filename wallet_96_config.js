@@ -1,1 +1,1 @@
-var mnemonic = "behind industry wall neglect news stay axis unfold govern shallow admit airport";
+var mnemonic = "describe antenna dance allow surface hazard tornado distance another actual useful raise";

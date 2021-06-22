@@ -1,1 +1,1 @@
-var mnemonic = "jeans act ball theme stomach follow case travel begin veteran planet high";
+var mnemonic = "reopen hobby wrist mechanic fetch spread borrow awkward buddy plastic dutch pulp";

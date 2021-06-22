@@ -1,1 +1,1 @@
-var mnemonic = "apple army real donor destroy rice cradle swallow home lunar hip patient";
+var mnemonic = "giggle orphan visual meadow useless rubber tragic divide dish atom food ocean";

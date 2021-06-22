@@ -1,1 +1,1 @@
-var mnemonic = "jazz ask scorpion thumb south humble scare bone struggle blur move kiwi";
+var mnemonic = "lion milk world agree picnic angry thank aunt aim gentle street candy";

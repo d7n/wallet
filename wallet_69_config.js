@@ -1,1 +1,1 @@
-var mnemonic = "warfare alien cup have hold reform beach cube axis swift equal resource";
+var mnemonic = "side extend stereo defense duck chief throw curtain glad winner define badge";

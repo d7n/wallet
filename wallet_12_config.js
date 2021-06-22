@@ -1,1 +1,1 @@
-var mnemonic = "scorpion armor predict pigeon glory season defy toward faculty cannon air shell";
+var mnemonic = "slush air regular pink brush habit job focus biology engine predict oppose";

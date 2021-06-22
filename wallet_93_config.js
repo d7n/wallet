@@ -1,1 +1,1 @@
-var mnemonic = "gospel churn awful position wear fit glass question knife involve code flock";
+var mnemonic = "barrel ranch iron win depend absent skill sunset own youth onion talent";

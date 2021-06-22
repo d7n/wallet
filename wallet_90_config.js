@@ -1,1 +1,1 @@
-var mnemonic = "remain planet finger stool buzz someone case hub glance toilet shallow guitar";
+var mnemonic = "fox piano desk boring asthma viable visual echo square bright idea delay";

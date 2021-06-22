@@ -1,1 +1,1 @@
-var mnemonic = "asset father now runway online abuse love medal extend satisfy city ball";
+var mnemonic = "law print wine lottery reward file frequent embrace goddess aspect beyond movie";

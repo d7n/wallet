@@ -1,1 +1,1 @@
-var mnemonic = "digital gaze join myself agent capital before sheriff coach unfair hold exercise";
+var mnemonic = "spot rail fork surprise begin rebel fun ready trouble chuckle wood crime";

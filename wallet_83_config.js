@@ -1,1 +1,1 @@
-var mnemonic = "fossil crop young taste depend shoot grass reform flat caught betray hospital";
+var mnemonic = "fury marine stadium doll corn panda patient move timber pave maze force";

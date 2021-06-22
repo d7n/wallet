@@ -1,1 +1,1 @@
-var mnemonic = "twenty vast maximum reject omit sentence company buyer injury laundry victory stairs";
+var mnemonic = "humble audit same uncle affair step anchor omit rifle slight catch buddy";

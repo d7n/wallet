@@ -1,1 +1,1 @@
-var mnemonic = "patch dry cup merit boost rug perfect scrub gold sentence pride kitchen";
+var mnemonic = "casual measure satoshi unveil rally trash crew whip ordinary spawn cash sweet";

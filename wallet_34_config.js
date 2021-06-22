@@ -1,1 +1,1 @@
-var mnemonic = "elevator decrease come horse business sail lumber purpose gap satisfy stage result";
+var mnemonic = "ecology razor feature desert blanket assault problem armed draft yard during idea";

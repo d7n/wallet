@@ -1,1 +1,1 @@
-var mnemonic = "trend pluck glow sword onion dance envelope roof crouch cigar mystery sheriff";
+var mnemonic = "multiply fit bubble warfare shop innocent attract awkward enroll crop jungle bargain";

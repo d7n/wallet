@@ -1,1 +1,1 @@
-var mnemonic = "random lake before venture pattern setup choose bless siege then park suggest";
+var mnemonic = "kiwi danger clarify program marriage twenty insane wheel pill wood toward source";

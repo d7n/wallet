@@ -1,1 +1,1 @@
-var mnemonic = "spatial sweet steel build soft siege core artist sail exist lion rally";
+var mnemonic = "shine genre bag job truth birth home talk choose rapid unaware space";

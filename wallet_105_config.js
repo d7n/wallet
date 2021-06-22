@@ -1,1 +1,1 @@
-var mnemonic = "slot ripple reunion brother crunch coach donate season must actress ribbon swift";
+var mnemonic = "apart uncle test cushion rate crisp craft beach helmet industry patient camera";

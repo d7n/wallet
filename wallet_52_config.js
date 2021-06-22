@@ -1,1 +1,1 @@
-var mnemonic = "main cushion trumpet ethics opera scare loud left topple spend cabin soul";
+var mnemonic = "behind glove leader problem scout gather illegal popular stand library above picture";

@@ -1,1 +1,1 @@
-var mnemonic = "afford brass error scatter script life chicken ripple cinnamon chapter tragic audit";
+var mnemonic = "great runway sport inform surface drift write pact upgrade equal buzz lady";

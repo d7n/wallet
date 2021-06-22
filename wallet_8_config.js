@@ -1,1 +1,1 @@
-var mnemonic = "shock ship tortoise doll switch solar popular blanket chief lizard electric artefact";
+var mnemonic = "agent know lawn bacon dilemma path satisfy drama poverty point brass extra";

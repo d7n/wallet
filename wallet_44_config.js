@@ -1,1 +1,1 @@
-var mnemonic = "salon laugh stamp radar praise lion valid meadow dream spoil coast inflict";
+var mnemonic = "picture still pull stable fitness type confirm length pole track elite kidney";

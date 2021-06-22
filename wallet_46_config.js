@@ -1,1 +1,1 @@
-var mnemonic = "famous atom shoulder fuel decade now giggle empty organ boss example foot";
+var mnemonic = "network doctor ring shuffle roast victory task shop ostrich tortoise gate mystery";

@@ -1,1 +1,1 @@
-var mnemonic = "soon firm habit guilt grief ladder sunny reject produce change mutual swamp";
+var mnemonic = "hawk settle month globe property rebuild thought turn cabin error junior genre";

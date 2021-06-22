@@ -1,1 +1,1 @@
-var mnemonic = "change nurse equal surge desk one tail near gain yard cross home";
+var mnemonic = "library ozone draw lounge effort noodle anger detect earth broccoli small later";

@@ -1,1 +1,1 @@
-var mnemonic = "side original myself work glide trial peasant merit scare such renew much";
+var mnemonic = "chunk anger maple family charge divorce gain giant frozen gasp plastic humor";

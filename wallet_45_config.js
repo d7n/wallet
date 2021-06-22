@@ -1,1 +1,1 @@
-var mnemonic = "identify cigar spoil expose violin spider mix slow hobby day lobster provide";
+var mnemonic = "glimpse elephant much woman hunt stick damage food toe label trophy shop";

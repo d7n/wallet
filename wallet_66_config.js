@@ -1,1 +1,1 @@
-var mnemonic = "oyster off lazy type high aunt produce ecology imitate cruise coach require";
+var mnemonic = "trust assault cupboard atom grunt trap love mail sheriff canal blossom empty";

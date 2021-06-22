@@ -1,1 +1,1 @@
-var mnemonic = "announce neither galaxy drum entry issue cram bridge grocery ball wait friend";
+var mnemonic = "grant source common occur canvas garage filter train explain split mandate raise";

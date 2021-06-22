@@ -1,1 +1,1 @@
-var mnemonic = "combine hidden one crowd sauce utility mind depend crouch sign amazing vacant";
+var mnemonic = "clarify mention develop click inch scene surface income mechanic crane crush quick";

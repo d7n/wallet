@@ -1,1 +1,1 @@
-var mnemonic = "beach half repeat keen tide crystal move differ rubber tomato tattoo animal";
+var mnemonic = "cart genre since rain have insane chair face jump relief capital price";

@@ -1,1 +1,1 @@
-var mnemonic = "flat same various kiss draft claim fatal track envelope lecture sand audit";
+var mnemonic = "jungle assume strike bronze animal neglect trash globe paddle loyal menu mango";

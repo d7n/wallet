@@ -1,1 +1,1 @@
-var mnemonic = "reject carpet truck whale coconut circle grant viable awful flight immune cabbage";
+var mnemonic = "hurt shy smart stumble split copper unhappy want few rural common gown";

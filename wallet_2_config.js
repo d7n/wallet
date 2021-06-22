@@ -1,1 +1,1 @@
-var mnemonic = "reason lion cradle lumber decide decorate elephant wolf joke tortoise doll purchase";
+var mnemonic = "photo foil observe virus dish vivid clap dwarf rice total fold economy";

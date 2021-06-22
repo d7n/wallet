@@ -1,1 +1,1 @@
-var mnemonic = "smile sure pole unlock female slender volume tobacco echo insane reform vapor";
+var mnemonic = "demise arena couple syrup garbage wing dwarf atom cloth water quiz oval";

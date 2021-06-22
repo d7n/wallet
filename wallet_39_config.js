@@ -1,1 +1,1 @@
-var mnemonic = "diesel orbit rally possible code rare night explain bitter legend diagram clap";
+var mnemonic = "magnet gown fiscal torch script pool disease animal market original flag mail";

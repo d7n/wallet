@@ -1,1 +1,1 @@
-var mnemonic = "awful dream income bracket innocent youth zone robust stay position world acid";
+var mnemonic = "agent want fetch budget print melt resist nose license distance theory uniform";

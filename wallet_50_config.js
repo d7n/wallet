@@ -1,1 +1,1 @@
-var mnemonic = "inform happy lazy rubber timber spot subject cake indoor cube detect mammal";
+var mnemonic = "scorpion spoon keen cream leave safe session grass grape absent palm biology";

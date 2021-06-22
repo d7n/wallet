@@ -1,1 +1,1 @@
-var mnemonic = "fix hello pen civil age anxiety fatigue truck idle fortune mansion hazard";
+var mnemonic = "inside hammer kangaroo elder moral rigid chunk rose produce twice settle umbrella";

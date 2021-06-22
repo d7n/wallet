@@ -1,1 +1,1 @@
-var mnemonic = "actor hybrid evidence remind under music habit trouble priority nuclear rug neutral";
+var mnemonic = "riot ticket seat chimney image awesome axis favorite gossip rebel tunnel ship";

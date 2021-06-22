@@ -1,1 +1,1 @@
-var mnemonic = "broom ethics shallow mobile shallow hard idle have fatigue filter category private";
+var mnemonic = "quick evidence dance general become mango flight remember guide memory panther violin";

@@ -1,1 +1,1 @@
-var mnemonic = "intact lawsuit unusual crucial sadness village knife outer physical cattle arrive teach";
+var mnemonic = "rural liar cram useless endless cloth used borrow profit country grit mother";

@@ -1,1 +1,1 @@
-var mnemonic = "strike whip odor rely arm about manage tilt lecture vapor surround afraid";
+var mnemonic = "wave victory motion unveil sick prize express fish water analyst quality fabric";

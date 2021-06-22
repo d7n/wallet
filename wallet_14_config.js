@@ -1,1 +1,1 @@
-var mnemonic = "old age cute calm era cream atom network snake seed poem chicken";
+var mnemonic = "consider glove situate goddess sheriff network mutual wet describe play relax mesh";

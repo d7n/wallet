@@ -1,1 +1,1 @@
-var mnemonic = "method neither glory entire course wide vivid avocado breeze dragon account palm";
+var mnemonic = "carry result tenant motor camp gallery banner farm lunar agent state spice";

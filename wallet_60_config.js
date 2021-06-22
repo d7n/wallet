@@ -1,1 +1,1 @@
-var mnemonic = "random nature opinion chest arctic abstract motor heart spin post language engage";
+var mnemonic = "loud large vault forum stay tribe blind spirit denial correct pitch short";

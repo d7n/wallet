@@ -1,1 +1,1 @@
-var mnemonic = "domain tomato fame crop island pencil envelope mad price achieve bargain lawsuit";
+var mnemonic = "cherry thank select faint armor invest own pet agent display field together";

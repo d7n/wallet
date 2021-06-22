@@ -1,1 +1,1 @@
-var mnemonic = "shoot green unique leisure pass safe very rescue anger word paper actual";
+var mnemonic = "author brick fatigue merit critic valve viable cotton mandate camera doctor point";

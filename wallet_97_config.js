@@ -1,1 +1,1 @@
-var mnemonic = "donate emerge fury cinnamon now flee normal ostrich deputy road brother peace";
+var mnemonic = "enjoy debate enhance regret engine scale isolate input bicycle sweet apple pink";

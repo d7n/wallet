@@ -1,1 +1,1 @@
-var mnemonic = "sugar also payment trade globe mom major clump provide nice anxiety where";
+var mnemonic = "barely rate galaxy course mountain between pear wreck helmet timber heavy cinnamon";

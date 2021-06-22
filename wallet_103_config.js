@@ -1,1 +1,1 @@
-var mnemonic = "old fine denial tobacco you crime toward april next proud kid shallow";
+var mnemonic = "rebel bundle stove approve into swim trade thrive recipe token wonder art";

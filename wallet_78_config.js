@@ -1,1 +1,1 @@
-var mnemonic = "jacket usual narrow figure unit panther medal sun blame churn fiscal pencil";
+var mnemonic = "govern vibrant knock goat luggage vacuum human farm shy kick roast host";

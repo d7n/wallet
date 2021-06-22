@@ -1,1 +1,1 @@
-var mnemonic = "buzz blood brush elder enact define salmon slight donkey artist deal game";
+var mnemonic = "blame analyst interest brother stereo attend purchase unlock scrap join hammer grace";

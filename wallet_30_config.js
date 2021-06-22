@@ -1,1 +1,1 @@
-var mnemonic = "scheme uniform forest organ suggest number icon access mountain evoke calm cradle";
+var mnemonic = "grant digital south shell dolphin high over throw inflict infant soap treat";

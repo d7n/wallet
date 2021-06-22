@@ -1,1 +1,1 @@
-var mnemonic = "moral target shrimp vapor stumble regular mask excite claw tent mirror alarm";
+var mnemonic = "sauce rebuild erode original there buzz sponsor churn coach test popular screen";
