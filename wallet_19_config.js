@@ -1,1 +1,1 @@
-var mnemonic = "sunset decide ecology cage crane alpha maze rude famous busy captain guilt";
+var mnemonic = "develop shift position cattle turtle curve license champion chicken enlist unit pizza";

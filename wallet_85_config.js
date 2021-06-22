@@ -1,1 +1,1 @@
-var mnemonic = "hobby tree sight fire sausage expect artwork donor urban silly tip pact";
+var mnemonic = "question proof crash scorpion jealous target dolphin ocean prefer display flower loud";

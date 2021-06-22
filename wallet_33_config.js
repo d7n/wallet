@@ -1,1 +1,1 @@
-var mnemonic = "smoke nominee lazy puppy prefer gather bitter luxury oblige book sketch huge";
+var mnemonic = "involve dutch ability laundry idle swear disagree couch margin gap shallow vast";

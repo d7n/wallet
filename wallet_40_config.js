@@ -1,1 +1,1 @@
-var mnemonic = "crystal galaxy bridge globe absorb retire bubble honey car author drift submit";
+var mnemonic = "oven nominee zone wood tell zero pelican aerobic kite member wasp genre";

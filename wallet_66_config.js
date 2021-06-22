@@ -1,1 +1,1 @@
-var mnemonic = "behind write yard debris fluid speed awesome frown equip unknown need question";
+var mnemonic = "talent loud private nice special ocean egg raise trap later affair diesel";

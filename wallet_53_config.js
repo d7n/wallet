@@ -1,1 +1,1 @@
-var mnemonic = "scorpion emotion pact mushroom drill inject purse joke result news blue reflect";
+var mnemonic = "conduct lesson unaware blade nuclear health rural tray dynamic okay hard bomb";

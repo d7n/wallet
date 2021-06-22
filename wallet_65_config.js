@@ -1,1 +1,1 @@
-var mnemonic = "mystery dash video buffalo train cross gentle hint advance title toddler hill";
+var mnemonic = "minute ribbon often card grit wealth oil tennis civil crush play flee";

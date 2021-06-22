@@ -1,1 +1,1 @@
-var mnemonic = "organ result motion require cannon mosquito combine lawn salmon stand swing spoon";
+var mnemonic = "visa side enlist torch circle unit nut garden walnut fiscal pair prize";

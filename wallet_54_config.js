@@ -1,1 +1,1 @@
-var mnemonic = "text reduce oxygen grid boost cycle bracket security height upon labor modify";
+var mnemonic = "ignore argue era nature now grape turkey bird smart own idle only";

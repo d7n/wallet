@@ -1,1 +1,1 @@
-var mnemonic = "unhappy asthma addict dad portion renew slim bargain hint coin gaze figure";
+var mnemonic = "stool dutch soda first zone chicken effort plastic traffic stomach must hill";

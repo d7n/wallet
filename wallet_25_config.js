@@ -1,1 +1,1 @@
-var mnemonic = "cause fatigue butter input fly private reward live badge indoor forward cricket";
+var mnemonic = "entire mixed drink tool advice metal faculty brown rotate toddler curtain buddy";

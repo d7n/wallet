@@ -1,1 +1,1 @@
-var mnemonic = "stove invite impulse tonight twin between shove nature pudding silly actor mention";
+var mnemonic = "wife roast hundred use comfort cup analyst there swamp hospital stuff isolate";

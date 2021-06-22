@@ -1,1 +1,1 @@
-var mnemonic = "mammal plate segment sentence lounge virtual dove flee midnight horror glue champion";
+var mnemonic = "custom gold youth lamp cupboard gas swamp advice wrong brisk alley phrase";

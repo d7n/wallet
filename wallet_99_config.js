@@ -1,1 +1,1 @@
-var mnemonic = "reveal kiss knee secret disease runway sword magnet turtle hurdle basket derive";
+var mnemonic = "nerve athlete stomach middle paper shove rich nature visit coach skill wolf";

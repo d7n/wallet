@@ -1,1 +1,1 @@
-var mnemonic = "small diet alter twenty change number spin under erosion problem famous illness";
+var mnemonic = "cradle verb cargo dutch anchor swarm rate jelly soccer anxiety wire leopard";

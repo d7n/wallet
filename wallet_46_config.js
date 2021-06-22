@@ -1,1 +1,1 @@
-var mnemonic = "champion direct gesture edge hour other warm prize sketch fire pair error";
+var mnemonic = "visa over cancel three quick like number oxygen jazz wrap crane teach";

@@ -1,1 +1,1 @@
-var mnemonic = "rotate vacuum roast flavor tag adjust gate cupboard digital neglect eagle any";
+var mnemonic = "mind stomach dial eager pencil credit remain burger busy cricket deny range";

@@ -1,1 +1,1 @@
-var mnemonic = "joy upgrade frog eternal upon present glory album insane harbor repeat miss";
+var mnemonic = "salmon arm guess cross coast salmon special gas equip analyst update attract";

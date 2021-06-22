@@ -1,1 +1,1 @@
-var mnemonic = "cook pudding gate column shoe vessel useful crater salt science damp swarm";
+var mnemonic = "toe never carpet oxygen owner bubble trap wolf miracle absurd audit warrior";

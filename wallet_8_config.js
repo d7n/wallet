@@ -1,1 +1,1 @@
-var mnemonic = "congress right exit tide rescue carpet satoshi blade oblige oyster father mind";
+var mnemonic = "ability pluck yellow six snow dress flight increase raccoon used behave ankle";

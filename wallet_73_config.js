@@ -1,1 +1,1 @@
-var mnemonic = "dizzy surface symptom famous miss corn ritual column rich whip reform normal";
+var mnemonic = "rude motor exist screen praise actor buyer spice pudding good shed next";

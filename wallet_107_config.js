@@ -1,1 +1,1 @@
-var mnemonic = "bid glow ketchup harbor nothing possible penalty skin betray cloth worry fiscal";
+var mnemonic = "goat risk pull manual icon tool cotton orbit jealous among debate first";

@@ -1,1 +1,1 @@
-var mnemonic = "inside antenna wise cake clock innocent depart project awesome vote vehicle post";
+var mnemonic = "series track theory tuition grass hero tent wish bone daughter frame work";

@@ -1,1 +1,1 @@
-var mnemonic = "excess fog coast shy mask comfort income night bright trumpet oven hobby";
+var mnemonic = "cheese grab dose sell patrol apart shed thing mutual nephew fancy shrimp";

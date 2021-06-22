@@ -1,1 +1,1 @@
-var mnemonic = "hungry warrior fiscal mammal holiday common regret gossip become sport lemon wing";
+var mnemonic = "shoot virus rack sun battle arch shoot innocent mind quarter tragic culture";

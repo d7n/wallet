@@ -1,1 +1,1 @@
-var mnemonic = "soup oyster hockey creek captain brush ritual wrap cause copy goddess hotel";
+var mnemonic = "couch check turn small document adult fetch shine company marine invite kit";

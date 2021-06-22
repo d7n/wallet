@@ -1,1 +1,1 @@
-var mnemonic = "dilemma hole february sniff drastic load coin engine bubble bubble attract mixed";
+var mnemonic = "tooth acid arrive empower cream attitude clown place sudden erosion remain quality";

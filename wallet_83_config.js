@@ -1,1 +1,1 @@
-var mnemonic = "swift cricket few manage tourist action arrange perfect train multiply domain leisure";
+var mnemonic = "giraffe sadness balcony poem legal baby pond chair verify fiscal leave shine";

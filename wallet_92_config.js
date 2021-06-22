@@ -1,1 +1,1 @@
-var mnemonic = "aspect develop pair marriage use medal bacon tackle sample spike mail syrup";
+var mnemonic = "wolf silver lava neutral happy cry earn renew fit unveil chef panel";

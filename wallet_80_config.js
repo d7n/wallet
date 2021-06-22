@@ -1,1 +1,1 @@
-var mnemonic = "corn delay carbon admit list rent race matrix charge say engage purchase";
+var mnemonic = "renew around window movie funny oven meat between deer age drift prosper";

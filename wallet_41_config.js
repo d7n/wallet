@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin shy acid equip swing estate away valley steak mixture mean excuse";
+var mnemonic = "carpet thing trust window split device stumble escape mushroom blast all broom";

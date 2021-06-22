@@ -1,1 +1,1 @@
-var mnemonic = "forward live prefer olive neutral knife finger fence addict camp ordinary museum";
+var mnemonic = "album zone topple spawn one lecture pause often below slab inquiry budget";

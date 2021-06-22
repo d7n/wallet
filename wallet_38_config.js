@@ -1,1 +1,1 @@
-var mnemonic = "ahead indicate sing chicken comic eagle lion ahead multiply myself world squirrel";
+var mnemonic = "cactus fiction crowd gown wide forest attitude dirt subject luxury uniform middle";

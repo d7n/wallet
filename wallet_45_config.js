@@ -1,1 +1,1 @@
-var mnemonic = "march lake buddy plastic fly clock book trumpet breeze when culture eye";
+var mnemonic = "plunge carbon bleak transfer mixed ball frog dune limb exercise step word";

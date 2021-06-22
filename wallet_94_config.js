@@ -1,1 +1,1 @@
-var mnemonic = "slim weapon type art gap tackle critic giraffe again cinnamon torch ozone";
+var mnemonic = "dinosaur pulse comfort spice boring present lamp mention rookie test polar carbon";

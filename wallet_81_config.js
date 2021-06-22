@@ -1,1 +1,1 @@
-var mnemonic = "salt jacket style body horse essence high salt volume shop ghost resemble";
+var mnemonic = "smoke clinic way ladder glue essence this priority arrive digital rice bounce";

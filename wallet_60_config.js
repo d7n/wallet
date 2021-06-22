@@ -1,1 +1,1 @@
-var mnemonic = "tuition misery street journey guitar twelve bike card silent wear buzz kit";
+var mnemonic = "segment kingdom lounge kidney payment convince weather magnet spawn manage round execute";

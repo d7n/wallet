@@ -1,1 +1,1 @@
-var mnemonic = "blouse dragon believe apology oak fatigue purity canoe outside issue kangaroo outside";
+var mnemonic = "pond foam electric project three comfort mean busy this profit become nasty";

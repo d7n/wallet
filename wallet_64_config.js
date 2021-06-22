@@ -1,1 +1,1 @@
-var mnemonic = "reform excuse panda abstract leg road benefit wealth wool mind permit glimpse";
+var mnemonic = "glare note napkin box pattern client crawl cheap various space era print";

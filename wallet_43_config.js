@@ -1,1 +1,1 @@
-var mnemonic = "true forget track auction mixture usage fitness soup dilemma permit satoshi good";
+var mnemonic = "stick laundry alien bread shop fault clerk toast ridge jump chuckle hamster";

@@ -1,1 +1,1 @@
-var mnemonic = "mom elephant appear ensure comic insane frozen ritual skin visa problem deer";
+var mnemonic = "neutral wedding will skirt permit fine sweet album staff install example wood";

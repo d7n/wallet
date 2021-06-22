@@ -1,1 +1,1 @@
-var mnemonic = "spirit wrap interest paper write marriage human session fog frozen barrel dizzy";
+var mnemonic = "move book border educate camera quit arrange will inflict three turn aunt";

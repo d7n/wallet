@@ -1,1 +1,1 @@
-var mnemonic = "awesome ethics cook crack shed pact fall pair crater wonder rare attend";
+var mnemonic = "athlete refuse history bounce champion scan hurt rich govern emotion six winner";

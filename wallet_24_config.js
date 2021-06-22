@@ -1,1 +1,1 @@
-var mnemonic = "grief wild choose cream muffin group gorilla ozone frame state goat vapor";
+var mnemonic = "slender clarify outside raven extend broom art embody trial either health club";

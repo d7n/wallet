@@ -1,1 +1,1 @@
-var mnemonic = "piece hamster baby among fire bean wink fuel feel walk goose brief";
+var mnemonic = "tunnel first citizen bronze employ juice prison wool agree jungle chest memory";

@@ -1,1 +1,1 @@
-var mnemonic = "cannon have figure vital laundry forum gorilla letter margin execute reward coin";
+var mnemonic = "fix hire jar slice pupil soon just act street warrior pass banner";

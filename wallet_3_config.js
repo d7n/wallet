@@ -1,1 +1,1 @@
-var mnemonic = "jungle taxi genius caught advance dinosaur melody gallery leisure chunk begin fold";
+var mnemonic = "flavor aisle dawn trend garden candy canal vibrant off predict prosper derive";

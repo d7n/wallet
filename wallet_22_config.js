@@ -1,1 +1,1 @@
-var mnemonic = "magic know fade suggest supply wash trap same column expect token good";
+var mnemonic = "size avocado puzzle true punch tomorrow better collect box acid minute diary";

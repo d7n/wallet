@@ -1,1 +1,1 @@
-var mnemonic = "where hotel about reform differ curious music gown resource minimum decorate super";
+var mnemonic = "garage plastic fossil capital bundle essence general ignore include fault company piece";

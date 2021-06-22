@@ -1,1 +1,1 @@
-var mnemonic = "unfold attitude inject code grocery grain blood mask super hurry weekend amateur";
+var mnemonic = "boat monster yellow planet midnight tragic front luggage brother item vicious game";

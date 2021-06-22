@@ -1,1 +1,1 @@
-var mnemonic = "evoke welcome host submit rib bean relief jealous approve champion addict orchard";
+var mnemonic = "lottery sing tell phrase runway visit liquid liar audit keen always walk";

@@ -1,1 +1,1 @@
-var mnemonic = "obtain brush distance marine excite spend pass scare share attitude grit friend";
+var mnemonic = "noble staff among ladder sell acquire eager aim asset ability jelly great";

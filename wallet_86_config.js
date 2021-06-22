@@ -1,1 +1,1 @@
-var mnemonic = "wall animal check pair tone yellow deputy prosper job ladder tuition hen";
+var mnemonic = "mango fragile office shallow benefit eager wish boil woman canal naive pole";

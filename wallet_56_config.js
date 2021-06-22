@@ -1,1 +1,1 @@
-var mnemonic = "shrug friend nice drama cloud vehicle path desk chicken clown tool phrase";
+var mnemonic = "admit bomb puppy ketchup canal style multiply flock joy rigid interest soldier";

@@ -1,1 +1,1 @@
-var mnemonic = "federal spice rude truth segment echo patch solid hello hard net course";
+var mnemonic = "reject fix height leaf wasp kit brave trim rely liar wink chef";

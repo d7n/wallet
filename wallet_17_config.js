@@ -1,1 +1,1 @@
-var mnemonic = "marine wing scatter slow clean taxi scan key divide similar seek average";
+var mnemonic = "expose pass person fade away depth pole cake mechanic grit minimum clinic";

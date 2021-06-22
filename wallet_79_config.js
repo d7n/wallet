@@ -1,1 +1,1 @@
-var mnemonic = "you give easy twenty cat loan useless source push divorce alcohol short";
+var mnemonic = "will tongue major spray wise organ kitchen meadow assault worth furnace tag";

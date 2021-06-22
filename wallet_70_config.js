@@ -1,1 +1,1 @@
-var mnemonic = "link clog tribe nephew spend enjoy slim play found eternal audit alter";
+var mnemonic = "call similar piano assault aware palace weasel jump economy survey aim ability";

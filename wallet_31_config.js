@@ -1,1 +1,1 @@
-var mnemonic = "belt switch tip unfold sad prefer puzzle involve current coin field forward";
+var mnemonic = "message oven vacuum limit tree good cloth exercise extra resemble during square";

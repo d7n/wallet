@@ -1,1 +1,1 @@
-var mnemonic = "south cool example scrub loop artefact recycle feature diet piece express term";
+var mnemonic = "initial napkin banana undo mobile remind sing pond bronze subject afraid fantasy";

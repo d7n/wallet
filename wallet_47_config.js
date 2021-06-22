@@ -1,1 +1,1 @@
-var mnemonic = "leisure parade present quantum lonely fashion afraid treat swap inherit better spot";
+var mnemonic = "bird opinion frown donkey idea receive giant budget shaft congress piano quiz";

@@ -1,1 +1,1 @@
-var mnemonic = "like resource churn rude penalty spy rely hybrid vibrant okay canyon shop";
+var mnemonic = "rookie scheme sleep remain exist hedgehog victory stand toe student coil face";

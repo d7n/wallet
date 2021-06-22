@@ -1,1 +1,1 @@
-var mnemonic = "action rent deliver kit turn across alert diesel excuse shaft guess lamp";
+var mnemonic = "harbor render deny remind cement brush favorite moon blood mutual movie soccer";

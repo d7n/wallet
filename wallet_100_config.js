@@ -1,1 +1,1 @@
-var mnemonic = "unable caught fiction mass tourist screen vehicle snap wheel victory front orchard";
+var mnemonic = "pact culture develop spell ostrich goddess mutual spice grain hurdle slender identify";

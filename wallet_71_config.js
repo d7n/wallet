@@ -1,1 +1,1 @@
-var mnemonic = "mammal echo great canvas connect blur black option immense between urge marine";
+var mnemonic = "history park tilt inch brain wing circle snap scrap endorse regret people";

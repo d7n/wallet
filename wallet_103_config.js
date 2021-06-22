@@ -1,1 +1,1 @@
-var mnemonic = "perfect tiger parade frame settle borrow opinion expand husband name medal cancel";
+var mnemonic = "smart increase trade bacon opera front gap romance tragic thought lecture entry";

@@ -1,1 +1,1 @@
-var mnemonic = "eye flee fury issue amazing pen faith captain among will hope organ";
+var mnemonic = "base document embody run arena roof clutch immense notable crew buddy matter";

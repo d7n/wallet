@@ -1,1 +1,1 @@
-var mnemonic = "theme ahead coil approve stuff coin ethics mushroom unveil pig such settle";
+var mnemonic = "dress trash catch edit cover primary drive smoke bar pulp curtain settle";

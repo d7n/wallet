@@ -1,1 +1,1 @@
-var mnemonic = "little garlic cheap teach display lunch pass hidden mix double dry food";
+var mnemonic = "record prize lazy south mango near yellow must casino pistol session night";

@@ -1,1 +1,1 @@
-var mnemonic = "sketch minor private axis hundred sleep voice version arch situate ticket detail";
+var mnemonic = "fiction then version lawn bottom love chair slab silk tell floor drop";

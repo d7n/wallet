@@ -1,1 +1,1 @@
-var mnemonic = "drink puzzle voice wide common rubber wreck okay found oyster thumb similar";
+var mnemonic = "flush pistol change bachelor drink thought benefit volume canyon clown entire refuse";

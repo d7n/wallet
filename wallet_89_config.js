@@ -1,1 +1,1 @@
-var mnemonic = "rain split call guard foster record crazy capital target pet sail width";
+var mnemonic = "census shock dinosaur attend okay ill fiber switch soft push security position";

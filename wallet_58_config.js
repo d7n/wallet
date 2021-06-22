@@ -1,1 +1,1 @@
-var mnemonic = "video explain happy exact grow decade traffic crucial settle wide rapid oyster";
+var mnemonic = "shrimp party master injury snake gun voyage motion glow happy smooth build";

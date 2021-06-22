@@ -1,1 +1,1 @@
-var mnemonic = "embrace noble clog muscle flag crew alone detail giraffe invite crop vanish";
+var mnemonic = "one bulb paper dove decide bring someone palace palace zebra sock fiscal";

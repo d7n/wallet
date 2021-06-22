@@ -1,1 +1,1 @@
-var mnemonic = "situate mother group forget twelve next friend void apple blush man clay";
+var mnemonic = "reduce myself tip ladder deal select good expect city effort morning awake";

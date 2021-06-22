@@ -1,1 +1,1 @@
-var mnemonic = "vast math miracle brown assist fragile struggle evidence wife injury because angry";
+var mnemonic = "grant achieve slim distance purity win supreme fatigue foil ticket good stadium";

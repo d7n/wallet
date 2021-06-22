@@ -1,1 +1,1 @@
-var mnemonic = "various breeze use demise apple crush curious puppy brown satoshi song stairs";
+var mnemonic = "ketchup huge dream vote mind weird wise grocery decade sausage absorb sell";

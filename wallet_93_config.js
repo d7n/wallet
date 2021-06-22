@@ -1,1 +1,1 @@
-var mnemonic = "fashion kingdom buyer fetch illness dream old west select donate idle dust";
+var mnemonic = "catch shadow spare unusual body magic foam emerge smart slender liquid one";

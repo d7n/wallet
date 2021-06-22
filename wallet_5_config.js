@@ -1,1 +1,1 @@
-var mnemonic = "cloth innocent zone zone lizard clinic hub rigid ceiling plug empty erosion";
+var mnemonic = "wrestle tiny adapt subject embrace annual pledge oven bar mirror tomorrow exotic";

@@ -1,1 +1,1 @@
-var mnemonic = "army fade stand only language special reunion tornado mystery exit half hotel";
+var mnemonic = "winner soul dash planet damp design soul time ill crack bag gasp";

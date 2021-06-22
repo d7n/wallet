@@ -1,1 +1,1 @@
-var mnemonic = "tone cup noise pet atom gold erode lunar inch finger witness relief";
+var mnemonic = "boost oxygen ask mirror place saddle hybrid negative nominee noise water bike";

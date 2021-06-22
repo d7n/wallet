@@ -1,1 +1,1 @@
-var mnemonic = "crystal pottery napkin often breeze apart robust know debris dumb neither occur";
+var mnemonic = "rhythm among smile slim tunnel marble kind weapon guitar village proud excite";

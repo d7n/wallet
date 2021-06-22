@@ -1,1 +1,1 @@
-var mnemonic = "humor chief image rocket enlist kick valley name half wisdom dance trophy";
+var mnemonic = "since lawn estate venue middle sea private plunge day exist disease spray";

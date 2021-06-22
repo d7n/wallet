@@ -1,1 +1,1 @@
-var mnemonic = "front sheriff eternal hurdle age soul fuel transfer agree edit catalog asset";
+var mnemonic = "join hill park trophy loan program story furnace glare sound brother canyon";

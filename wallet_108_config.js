@@ -1,1 +1,1 @@
-var mnemonic = "future must model bundle employ drastic milk flash science erupt actual trust";
+var mnemonic = "desk office merit jeans elegant hundred cook feed suggest unusual clump advice";

@@ -1,1 +1,1 @@
-var mnemonic = "peasant salon double mother rally uniform shaft unhappy mom police search unlock";
+var mnemonic = "novel mystery grant minimum sick smile name shoulder combine slow cheese pair";

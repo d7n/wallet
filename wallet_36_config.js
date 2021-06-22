@@ -1,1 +1,1 @@
-var mnemonic = "rent evidence cheese course process clap bounce speak account method mother zone";
+var mnemonic = "bright room suit escape net celery note drip better suffer gift silly";

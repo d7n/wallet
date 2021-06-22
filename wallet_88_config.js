@@ -1,1 +1,1 @@
-var mnemonic = "guitar all weather patient adult mansion casual slush expand favorite empty victory";
+var mnemonic = "home half human hero chapter wave away barely spider glimpse tattoo unusual";

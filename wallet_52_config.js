@@ -1,1 +1,1 @@
-var mnemonic = "acid field result impose doctor goose raw stock broken abandon brick today";
+var mnemonic = "interest trumpet rough rotate bicycle still scissors category wrestle faint around try";

@@ -1,1 +1,1 @@
-var mnemonic = "sea weird remove matter image learn click apology thrive suffer immune local";
+var mnemonic = "unknown require wear erupt health upset fit leader orbit runway asthma ball";

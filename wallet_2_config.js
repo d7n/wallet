@@ -1,1 +1,1 @@
-var mnemonic = "frozen explain cost dry sort electric ivory travel right sport uncle there";
+var mnemonic = "misery trust essay strong dinner barely east moment focus believe program heavy";
