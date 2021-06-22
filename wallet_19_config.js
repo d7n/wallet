@@ -1,1 +1,1 @@
-var mnemonic = "bomb mail adapt left pill page taste material firm urban ring else";
+var mnemonic = "later defense source target glide laptop token sugar bounce direct index confirm";

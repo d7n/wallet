@@ -1,1 +1,1 @@
-var mnemonic = "welcome online assume husband palm cousin extra will license advance behave custom";
+var mnemonic = "remain ask trophy summer sail small foil vote deal sight swim inhale";

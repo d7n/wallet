@@ -1,1 +1,1 @@
-var mnemonic = "more rail student series sort soldier industry mirror cat clean simple curious";
+var mnemonic = "myth gold connect stage brave beyond surface resist add obey focus potato";

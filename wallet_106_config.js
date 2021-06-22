@@ -1,1 +1,1 @@
-var mnemonic = "food salon observe aim onion upper simple remove such coin april short";
+var mnemonic = "useful fitness coffee island symptom roof couple lunch stumble make actress stove";

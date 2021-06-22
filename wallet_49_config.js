@@ -1,1 +1,1 @@
-var mnemonic = "guitar endless egg magnet rice anchor blue favorite seminar valve memory number";
+var mnemonic = "frog knife maximum virus giggle frozen prefer exercise slender radar shift appear";

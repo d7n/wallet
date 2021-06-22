@@ -1,1 +1,1 @@
-var mnemonic = "brick bid vendor series balance mushroom avocado zero catch goose video increase";
+var mnemonic = "onion collect expand try unit hawk vendor lock fragile goose cannon divide";

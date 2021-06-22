@@ -1,1 +1,1 @@
-var mnemonic = "involve crouch machine pretty raccoon muscle tide kitten early income flat proof";
+var mnemonic = "water claw soap gauge honey cancel decline fatal brush wrist eight dream";

@@ -1,1 +1,1 @@
-var mnemonic = "garbage tenant finish notice fresh spider list hobby bridge cinnamon grid ice";
+var mnemonic = "law blanket normal film bleak hover paper able mango creek laugh arrange";

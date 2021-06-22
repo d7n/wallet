@@ -1,1 +1,1 @@
-var mnemonic = "actress inhale glory razor bus law apple slab outside wish load lecture";
+var mnemonic = "predict hunt foster spoon other conduct taxi mail jeans mother crater soon";

@@ -1,1 +1,1 @@
-var mnemonic = "solution roast gadget silly rich transfer timber pizza deposit stool pottery index";
+var mnemonic = "typical earth book rifle crew remind motor catalog erosion work sphere lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "hospital silent ignore normal width hurry correct squirrel spare enable repeat foster";
+var mnemonic = "keep battle clever unique shed order satoshi tribe concert gaze legend six";

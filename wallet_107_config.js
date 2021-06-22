@@ -1,1 +1,1 @@
-var mnemonic = "basic echo legal grace ritual flower voyage annual normal burden menu caught";
+var mnemonic = "drill fly strong slam main nothing wisdom chief drum pitch gain exhibit";

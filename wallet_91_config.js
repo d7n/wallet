@@ -1,1 +1,1 @@
-var mnemonic = "hidden abuse gauge can walk payment cruel arena speed buffalo addict drip";
+var mnemonic = "sustain nominee soup carpet visit number act rug reward drip list spice";

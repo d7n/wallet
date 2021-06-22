@@ -1,1 +1,1 @@
-var mnemonic = "panic belt kite gap sauce evil grant adjust stage top park wool";
+var mnemonic = "oppose private useless blind draft visual wife excite school wink sweet banner";

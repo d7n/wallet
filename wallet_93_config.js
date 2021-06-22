@@ -1,1 +1,1 @@
-var mnemonic = "erosion juice leisure taxi whale unveil mean section defy faculty rival thought";
+var mnemonic = "edit cloth satisfy clay adapt army panel strike rapid assist arch area";

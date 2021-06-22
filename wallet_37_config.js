@@ -1,1 +1,1 @@
-var mnemonic = "insect merry pause convince awesome system zero remain rich try renew cattle";
+var mnemonic = "primary enough trip gym pupil vast vendor vast tone absorb illegal high";

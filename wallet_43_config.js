@@ -1,1 +1,1 @@
-var mnemonic = "citizen kitten pause require lady cry hunt bargain lesson pave number couch";
+var mnemonic = "success aware gain purchase toward lock rabbit bomb drum fortune toddler crush";

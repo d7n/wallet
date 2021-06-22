@@ -1,1 +1,1 @@
-var mnemonic = "shrimp toy unique example evoke left ensure image hundred code arrow abuse";
+var mnemonic = "frost spy tribe cradle fun goddess drip aunt knife hood pilot grid";

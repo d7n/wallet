@@ -1,1 +1,1 @@
-var mnemonic = "tent happy special human oval book battle burst august letter ski volume";
+var mnemonic = "rapid stadium aisle smoke bar cattle box unhappy carbon sad junk viable";

@@ -1,1 +1,1 @@
-var mnemonic = "bar emerge lesson claim clap tortoise claw piece online assault erupt tape";
+var mnemonic = "must expand trust annual crack solve garbage van coin agent lens obvious";

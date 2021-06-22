@@ -1,1 +1,1 @@
-var mnemonic = "rough visual scatter save enter can stick retire raise there decrease flip";
+var mnemonic = "limit fever crumble donate feed call wool model venue cable goddess valid";

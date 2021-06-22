@@ -1,1 +1,1 @@
-var mnemonic = "tree utility outdoor sentence zebra clip you layer record cigar body space";
+var mnemonic = "network supply target spider advice glimpse alien tail document survey hamster lonely";

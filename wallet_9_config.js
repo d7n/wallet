@@ -1,1 +1,1 @@
-var mnemonic = "control muffin course modify flush tell soup sing salad smile pink genius";
+var mnemonic = "gloom affair below law diet toss direct dilemma left extend earth reunion";

@@ -1,1 +1,1 @@
-var mnemonic = "caught economy admit robot daring business problem decline cereal vacuum broom cupboard";
+var mnemonic = "depart truly run bounce ridge athlete slam air display process illness shed";

@@ -1,1 +1,1 @@
-var mnemonic = "tone shock float coin capital firm abstract celery dash finger bleak pupil";
+var mnemonic = "strategy dove found pole gold cause inch grape dose elite distance pipe";

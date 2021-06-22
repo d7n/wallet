@@ -1,1 +1,1 @@
-var mnemonic = "talk caution craft shrug patch soap minimum guilt crash tape endless style";
+var mnemonic = "zone shop action episode surface inject crack rotate immense jump evil vast";

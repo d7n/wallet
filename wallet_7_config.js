@@ -1,1 +1,1 @@
-var mnemonic = "gospel door woman seminar object gallery sister dirt gentle all increase turkey";
+var mnemonic = "predict sense cheap flame want rhythm million sample gospel panic vendor doctor";

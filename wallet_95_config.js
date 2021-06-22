@@ -1,1 +1,1 @@
-var mnemonic = "duty harsh art thing uphold icon stool unique price panda absorb fox";
+var mnemonic = "toe glad sport announce way arm broom two guide patch actor shop";

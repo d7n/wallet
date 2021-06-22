@@ -1,1 +1,1 @@
-var mnemonic = "jazz melody corn modify motion finger column pen vicious please banner farm";
+var mnemonic = "orbit clock expand drive tag stool gate cement minor during lunch finger";

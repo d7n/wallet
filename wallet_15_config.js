@@ -1,1 +1,1 @@
-var mnemonic = "size gesture enemy magnet super vivid weather pepper goddess machine motor venue";
+var mnemonic = "black father castle control item lonely health picnic birth crunch inspire identify";

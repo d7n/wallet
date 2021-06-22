@@ -1,1 +1,1 @@
-var mnemonic = "differ live giant pistol subway adapt chaos light summer insect scorpion today";
+var mnemonic = "cannon victory faculty close culture spare prosper onion forget husband ensure unaware";

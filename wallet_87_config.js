@@ -1,1 +1,1 @@
-var mnemonic = "buddy know genre predict above exile grass veteran width alley border admit";
+var mnemonic = "faith road advice innocent liar extra add mom bag excuse category together";

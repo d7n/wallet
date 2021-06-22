@@ -1,1 +1,1 @@
-var mnemonic = "muffin girl census assault unfold submit hobby eye super middle copper off";
+var mnemonic = "public mother sphere flush discover sleep flight lab narrow radio poem organ";

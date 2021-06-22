@@ -1,1 +1,1 @@
-var mnemonic = "hurdle advice canvas answer rare pepper piano sample addict wall blue boring";
+var mnemonic = "track figure sphere exhaust motion orange already business job history useless demand";

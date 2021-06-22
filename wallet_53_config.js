@@ -1,1 +1,1 @@
-var mnemonic = "toast two motor brush slam term snap shadow logic kid art inherit";
+var mnemonic = "rough pattern erupt retire utility swear exchange couch foster marine festival dwarf";

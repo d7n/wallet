@@ -1,1 +1,1 @@
-var mnemonic = "orbit sure fiscal exotic cloud ring execute globe laptop eager maze minute";
+var mnemonic = "upper praise sponsor ancient cattle gasp make crawl bullet siren whisper copy";

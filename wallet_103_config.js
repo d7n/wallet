@@ -1,1 +1,1 @@
-var mnemonic = "laugh usual chest latin quote earth exercise donate fox pull camera brush";
+var mnemonic = "manual witness moment patrol race excite tree gun burger can bag canoe";

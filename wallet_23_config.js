@@ -1,1 +1,1 @@
-var mnemonic = "moon general pair choose leg earn success brown north dutch genius announce";
+var mnemonic = "matrix test suffer actual parrot rookie scene unit spatial asset middle attract";

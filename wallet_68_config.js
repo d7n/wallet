@@ -1,1 +1,1 @@
-var mnemonic = "skin grant sausage patrol whip copper bind foster tonight lab skirt tornado";
+var mnemonic = "burden ready about museum best dash pattern tourist opera board apology guitar";

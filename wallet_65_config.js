@@ -1,1 +1,1 @@
-var mnemonic = "equip afraid beauty coil car clerk visual fold milk wing display entry";
+var mnemonic = "tenant rocket property satisfy chase silver target base nut dutch base scrap";

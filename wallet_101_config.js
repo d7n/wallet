@@ -1,1 +1,1 @@
-var mnemonic = "describe elite brass network remove frequent antique guilt disorder arrive eye modify";
+var mnemonic = "gasp bench office farm certain miracle museum wife chronic bubble journey embark";

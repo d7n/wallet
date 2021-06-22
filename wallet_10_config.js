@@ -1,1 +1,1 @@
-var mnemonic = "silk panic face pole salon grape poet flush hen portion flame old";
+var mnemonic = "reduce enter between wrap subway follow piece boil fade girl wave fold";

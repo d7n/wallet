@@ -1,1 +1,1 @@
-var mnemonic = "tattoo twelve merry cart team pond bone detail couple reflect future practice";
+var mnemonic = "wine tomato gesture mimic arrow habit slab autumn moment arrange horror ecology";

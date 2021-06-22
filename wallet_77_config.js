@@ -1,1 +1,1 @@
-var mnemonic = "keep today section certain medal fruit refuse this afford welcome mention plunge";
+var mnemonic = "asset dove stove bundle tribe gorilla bridge picture exhibit obey thought stable";

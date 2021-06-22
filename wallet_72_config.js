@@ -1,1 +1,1 @@
-var mnemonic = "author tissue only account clutch math box top assault state law lunch";
+var mnemonic = "side focus uphold upgrade hungry base utility attitude food globe anger win";

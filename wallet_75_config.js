@@ -1,1 +1,1 @@
-var mnemonic = "olympic history trend width ladder type fault trip arch more radio critic";
+var mnemonic = "answer verify believe must violin embody connect indicate reduce lava orbit happy";

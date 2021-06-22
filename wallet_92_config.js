@@ -1,1 +1,1 @@
-var mnemonic = "close unusual document bulk maid run transfer scan clean jump fury special";
+var mnemonic = "shuffle head jacket core eager jungle twice drum cram gasp raven dial";

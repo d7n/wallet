@@ -1,1 +1,1 @@
-var mnemonic = "motion female talent cross uniform skin sausage three raise chuckle female mom";
+var mnemonic = "brand quit deny before brain badge frame alley pear spirit cube foam";

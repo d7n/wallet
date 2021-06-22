@@ -1,1 +1,1 @@
-var mnemonic = "tunnel blossom vague shuffle outer wealth glue wild mask chef salmon inject";
+var mnemonic = "online scissors source giraffe abandon lamp twice first result endless critic tape";

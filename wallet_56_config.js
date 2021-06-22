@@ -1,1 +1,1 @@
-var mnemonic = "drift slogan roof color come unfair good soccer wing siege convince early";
+var mnemonic = "warfare session awesome divide fatigue school update help various almost tube egg";

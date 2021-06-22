@@ -1,1 +1,1 @@
-var mnemonic = "talent catalog spider vapor party major mountain clerk egg island cash profit";
+var mnemonic = "simple biology latin firm liberty seat worry piece harvest client leave success";

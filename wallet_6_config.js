@@ -1,1 +1,1 @@
-var mnemonic = "pen wine category where dream try staff coconut creek raise theme message";
+var mnemonic = "parent avoid display wagon weekend endless kick action this rough theme bamboo";

@@ -1,1 +1,1 @@
-var mnemonic = "disease idle elephant cause vapor prepare spice swap grunt cotton trouble luxury";
+var mnemonic = "bracket spoil ticket deer wide virus kiss attack caution range spring bottom";

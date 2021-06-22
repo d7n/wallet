@@ -1,1 +1,1 @@
-var mnemonic = "arctic vote judge round divide first salad wool fence false orange spare";
+var mnemonic = "later together state clever upset cup segment strategy wrong illness curtain climb";

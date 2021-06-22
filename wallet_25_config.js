@@ -1,1 +1,1 @@
-var mnemonic = "mango fossil chair very settle coach affair glove brand guide quantum install";
+var mnemonic = "water patrol banana unaware exclude custom company inmate narrow payment today clinic";

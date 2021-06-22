@@ -1,1 +1,1 @@
-var mnemonic = "duck hood group dilemma raise element fame hurt pulse claw great runway";
+var mnemonic = "despair champion magic coffee produce worth smoke pride match foster noise dinner";

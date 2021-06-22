@@ -1,1 +1,1 @@
-var mnemonic = "tooth total can melt develop flag suggest forum knee category skate sun";
+var mnemonic = "lawsuit involve gentle dry empty hole mom heavy hazard latin language outer";

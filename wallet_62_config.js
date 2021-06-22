@@ -1,1 +1,1 @@
-var mnemonic = "program cigar slice stand wine design prize cereal citizen secret scorpion cute";
+var mnemonic = "design ahead annual rifle daughter rookie key card project coach universe bright";

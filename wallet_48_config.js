@@ -1,1 +1,1 @@
-var mnemonic = "gather certain canyon pulse skill provide diet couch name steel easy pumpkin";
+var mnemonic = "fine scare visual mad hundred spoon prosper edge dirt sing bench actress";

@@ -1,1 +1,1 @@
-var mnemonic = "milk speak hen entry plunge leader fat library brush history inhale two";
+var mnemonic = "any bike exchange trigger sea next gesture olympic search notice bench give";

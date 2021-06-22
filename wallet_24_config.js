@@ -1,1 +1,1 @@
-var mnemonic = "clarify swap nest modify auction observe ripple practice file fatigue family frozen";
+var mnemonic = "wedding label again patrol romance actual cash grow analyst hockey female pattern";

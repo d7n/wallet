@@ -1,1 +1,1 @@
-var mnemonic = "model mean adjust hold actual bronze shine task canyon lift will fantasy";
+var mnemonic = "pact weapon armor online hope pulp grass salmon venue empty seed present";

@@ -1,1 +1,1 @@
-var mnemonic = "connect engage kit ill heavy pond shrimp hour found parrot trash adjust";
+var mnemonic = "step romance distance bundle embody check sock train become shove evil poem";

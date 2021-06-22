@@ -1,1 +1,1 @@
-var mnemonic = "weapon until liquid federal face spring idle rich stem game amused rather";
+var mnemonic = "chest six bless pelican slogan frozen absent vacant rabbit later exhibit middle";

@@ -1,1 +1,1 @@
-var mnemonic = "essence post dance they office genius avocado raven lens void license forget";
+var mnemonic = "churn muffin author crew canyon left injury antique rival endorse double reject";

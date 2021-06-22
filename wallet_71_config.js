@@ -1,1 +1,1 @@
-var mnemonic = "tower supreme visual fiction thank attract remain dutch supply dry unfold master";
+var mnemonic = "area work seminar camera distance letter what escape jealous decorate music demise";

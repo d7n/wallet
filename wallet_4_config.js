@@ -1,1 +1,1 @@
-var mnemonic = "neck faith cigar sponsor victory tomorrow also unfold secret myself seek yard";
+var mnemonic = "coral place claw churn grunt stamp front concert sibling size pottery panther";

@@ -1,1 +1,1 @@
-var mnemonic = "choose broccoli gravity setup foot actor mountain fresh gate behave frost outer";
+var mnemonic = "sustain panther trumpet seven wrap search plunge friend wait play hat planet";

@@ -1,1 +1,1 @@
-var mnemonic = "afraid bonus ice strong control choice horn file turkey steel please dinosaur";
+var mnemonic = "music marriage worry bulb awesome cigar plunge any famous evil lens ridge";

@@ -1,1 +1,1 @@
-var mnemonic = "pigeon vault safe marine palace lemon seven symbol scan matrix injury bundle";
+var mnemonic = "coast tool wife hundred suspect chef expire hospital emerge fall remind gesture";

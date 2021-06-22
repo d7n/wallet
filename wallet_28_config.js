@@ -1,1 +1,1 @@
-var mnemonic = "legal air century cabbage glue output demise visit strike snake blush develop";
+var mnemonic = "march want wool jar return desk cake blouse crawl aim senior kidney";

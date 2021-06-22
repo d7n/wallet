@@ -1,1 +1,1 @@
-var mnemonic = "nature oblige harsh famous rebuild agent fence what collect sting number wave";
+var mnemonic = "attend march work leave laugh pelican giraffe orchard satoshi source pattern slender";

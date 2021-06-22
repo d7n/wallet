@@ -1,1 +1,1 @@
-var mnemonic = "rate silly depend finger hamster unfair kid depart inhale vehicle inch slide";
+var mnemonic = "notable rice square spoon believe tape marble syrup impulse kitten plastic capable";

@@ -1,1 +1,1 @@
-var mnemonic = "valve drill danger injury ride either involve join dress rescue decorate snap";
+var mnemonic = "pride virtual circle load expect color ribbon faint lady inner meadow artwork";

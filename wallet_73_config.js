@@ -1,1 +1,1 @@
-var mnemonic = "staff wave inside cliff length swim appear poverty cost clutch category legal";
+var mnemonic = "equal evidence host mad planet mix cannon list only clown dinner gossip";

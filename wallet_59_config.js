@@ -1,1 +1,1 @@
-var mnemonic = "live choose trumpet smooth kangaroo hazard charge bulb van virtual sight tackle";
+var mnemonic = "frog harvest become border kitchen stick soul awake atom chief tortoise snap";

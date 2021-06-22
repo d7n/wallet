@@ -1,1 +1,1 @@
-var mnemonic = "unable divide alert dutch vault wagon ritual upon search state sick card";
+var mnemonic = "purpose color network rack worry brave wrestle wing tenant ritual mistake ribbon";

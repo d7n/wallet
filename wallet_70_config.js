@@ -1,1 +1,1 @@
-var mnemonic = "black expand people rare model asset silent lamp siren crash smart captain";
+var mnemonic = "economy walk music soup develop wagon jewel image embody giggle cabbage thank";

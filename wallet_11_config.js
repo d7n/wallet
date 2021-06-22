@@ -1,1 +1,1 @@
-var mnemonic = "hawk hurt rough mechanic abuse build original potato pear pink save announce";
+var mnemonic = "negative skate until jazz dinner outdoor venue silly latin boat bacon print";

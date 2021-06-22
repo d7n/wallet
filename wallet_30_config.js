@@ -1,1 +1,1 @@
-var mnemonic = "glue junk exact tribe kid casino involve claim urge consider bullet hour";
+var mnemonic = "olympic idea fun spin swamp river suggest wedding fox right during zebra";

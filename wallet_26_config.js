@@ -1,1 +1,1 @@
-var mnemonic = "upset practice oil picnic into narrow behind farm north vault capable share";
+var mnemonic = "praise anger victory essay track furnace raise pink view remove brain cat";
