@@ -1,1 +1,1 @@
-var mnemonic = "turkey leisure panther expand parent cement pool paper siege educate drill ski";
+var mnemonic = "gain lift fortune olive until gate vacuum pink hunt coral issue pave";

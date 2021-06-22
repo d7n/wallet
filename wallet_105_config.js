@@ -1,1 +1,1 @@
-var mnemonic = "fold best basket evil ready shrug smile pilot foam hungry giraffe spike";
+var mnemonic = "volcano mention dish govern dawn drink link camera affair sound rice cheese";

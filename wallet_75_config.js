@@ -1,1 +1,1 @@
-var mnemonic = "goat clever donkey rely chief silver ice exchange view rally release near";
+var mnemonic = "mother cannon enemy earth affair prosper rubber loyal sea observe dice misery";

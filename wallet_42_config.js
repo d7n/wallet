@@ -1,1 +1,1 @@
-var mnemonic = "used wisdom climb mammal endorse remind work prefer wrong enemy twist ozone";
+var mnemonic = "regular raw before unusual staff pride judge blouse sell pigeon casino atom";

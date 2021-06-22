@@ -1,1 +1,1 @@
-var mnemonic = "welcome moment ozone clean fever result stairs atom miracle desk blade advance";
+var mnemonic = "room post hazard home warrior siege recycle science traffic turkey solve party";

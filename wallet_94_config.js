@@ -1,1 +1,1 @@
-var mnemonic = "enlist prosper crazy execute interest wish grain stuff frost arrest merry casino";
+var mnemonic = "common solar enemy lend bench fresh pulp enforce burden seat north movie";

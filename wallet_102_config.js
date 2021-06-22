@@ -1,1 +1,1 @@
-var mnemonic = "easy true elder earth quote bargain crisp omit unable unable miracle federal";
+var mnemonic = "raven thrive filter tooth ripple actor member give river long area noise";

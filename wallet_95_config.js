@@ -1,1 +1,1 @@
-var mnemonic = "farm require exotic sound half october home sad sausage evolve image neglect";
+var mnemonic = "useful fuel setup fury damp apple cement over sport burden pelican hidden";

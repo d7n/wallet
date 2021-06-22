@@ -1,1 +1,1 @@
-var mnemonic = "abuse keen frequent duck concert news enhance stairs iron leader exile mother";
+var mnemonic = "climb barrel banana spoil tennis cereal cat scatter bamboo broom scene course";

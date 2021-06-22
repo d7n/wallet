@@ -1,1 +1,1 @@
-var mnemonic = "exhaust angry model devote olympic void custom brick south grow element symptom";
+var mnemonic = "tomorrow isolate faculty travel alien bid outside bid ill thumb stock agent";

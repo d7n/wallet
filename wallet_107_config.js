@@ -1,1 +1,1 @@
-var mnemonic = "old later bar obey lens april again zone picture deliver acquire category";
+var mnemonic = "grace order enforce travel easy deer way swap six roast laundry copper";

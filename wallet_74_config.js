@@ -1,1 +1,1 @@
-var mnemonic = "save isolate tail jungle jeans prize shoot mad thing client welcome help";
+var mnemonic = "yard verify item faculty enjoy crew bottom before orchard embody rare stand";

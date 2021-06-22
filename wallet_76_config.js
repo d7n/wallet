@@ -1,1 +1,1 @@
-var mnemonic = "corn cluster sibling ordinary minor table globe erode sentence ripple issue drama";
+var mnemonic = "urban guide egg ski amused crash approve flavor rug gaze payment rose";

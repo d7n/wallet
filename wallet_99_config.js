@@ -1,1 +1,1 @@
-var mnemonic = "axis judge cruel soon release visit predict opera perfect update supreme boss";
+var mnemonic = "glide net couple pen cart punch differ flee barely screen animal observe";

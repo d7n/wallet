@@ -1,1 +1,1 @@
-var mnemonic = "ankle brain debris charge ceiling skull act range priority swarm issue tape";
+var mnemonic = "flip damp honey civil sport height frown expand state diagram impulse fatigue";

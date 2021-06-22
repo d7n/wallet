@@ -1,1 +1,1 @@
-var mnemonic = "already provide sorry sunny potato arch indoor dog task trial square romance";
+var mnemonic = "jeans zebra dust ivory couple float welcome leaf vibrant floor hungry rent";

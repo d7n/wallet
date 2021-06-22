@@ -1,1 +1,1 @@
-var mnemonic = "unknown retire dice lake city bleak sail faint loan copy burst assist";
+var mnemonic = "penalty arrange error news walnut female swim phone fruit void brand scrap";

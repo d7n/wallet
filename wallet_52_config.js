@@ -1,1 +1,1 @@
-var mnemonic = "curve video stadium swing claw weasel essence black then better original boil";
+var mnemonic = "movie that diet execute other hobby drastic march kitchen book snow elevator";

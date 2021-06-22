@@ -1,1 +1,1 @@
-var mnemonic = "silly snake toe stadium useless manual move snake gallery joy police cloth";
+var mnemonic = "blur document humor can essence party suffer viable own echo buddy direct";

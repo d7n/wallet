@@ -1,1 +1,1 @@
-var mnemonic = "bacon master gossip emotion dad rhythm solve dawn avoid glide robot gadget";
+var mnemonic = "shy veteran session diet mail fiction shrug tomato curve body model burst";

@@ -1,1 +1,1 @@
-var mnemonic = "correct board immune jazz scrub phrase myself sun assume song expect raven";
+var mnemonic = "curtain rose vital ribbon left health wrap three asset kiwi shove pulse";

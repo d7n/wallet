@@ -1,1 +1,1 @@
-var mnemonic = "planet cheap oblige mad caution purity ozone flat latin happy people later";
+var mnemonic = "razor side kiss umbrella hard zebra radar fire enlist fee fashion kit";

@@ -1,1 +1,1 @@
-var mnemonic = "trial modify similar art same orbit gravity trial lawn woman subway symbol";
+var mnemonic = "write phrase giggle attract one kidney mansion message glad cabin talent horn";

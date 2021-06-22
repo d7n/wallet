@@ -1,1 +1,1 @@
-var mnemonic = "culture future flash plate example maid buffalo abandon alcohol fiscal pause pull";
+var mnemonic = "base nurse company vital artist section glue alarm drastic grit romance soon";

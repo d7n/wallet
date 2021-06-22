@@ -1,1 +1,1 @@
-var mnemonic = "pair hazard feel sign chase find water trip culture bench antique predict";
+var mnemonic = "strong sort lyrics biology eyebrow green misery segment enrich correct quantum pilot";

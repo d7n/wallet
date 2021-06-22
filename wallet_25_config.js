@@ -1,1 +1,1 @@
-var mnemonic = "paddle sponsor steak swallow version lemon outside grain before strategy scorpion arm";
+var mnemonic = "earn air trial horn tail buffalo shallow junk venue level page slight";

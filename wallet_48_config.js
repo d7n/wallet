@@ -1,1 +1,1 @@
-var mnemonic = "small ski umbrella parade dry that prison brand garlic right joy train";
+var mnemonic = "library never cushion bird behave vapor trip agree sugar budget illness vicious";

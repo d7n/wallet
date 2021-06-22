@@ -1,1 +1,1 @@
-var mnemonic = "arena exotic entire tag gas hollow room merge then quote trigger quantum";
+var mnemonic = "outside juice atom reopen hockey reopen amount vacuum upgrade trust become minimum";

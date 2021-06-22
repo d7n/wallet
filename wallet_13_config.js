@@ -1,1 +1,1 @@
-var mnemonic = "alien oblige title dwarf innocent hurdle spring purity win hair dad endorse";
+var mnemonic = "mirror bullet price doll repair decrease rent river night radio purchase early";

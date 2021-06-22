@@ -1,1 +1,1 @@
-var mnemonic = "moment sword stone lyrics buffalo elder casual similar labor cage next calm";
+var mnemonic = "opera unfold shove lawn cliff enable juice today plug february material govern";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol loan build curve recycle gun melt suggest aunt true state biology";
+var mnemonic = "town mask biology write smart skin vacant squirrel employ paddle whisper bacon";

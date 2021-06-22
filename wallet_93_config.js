@@ -1,1 +1,1 @@
-var mnemonic = "wing lesson rather energy fold physical worry mail century luxury trade unit";
+var mnemonic = "sister service dynamic boss boring human effort next job library pig robust";

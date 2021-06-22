@@ -1,1 +1,1 @@
-var mnemonic = "blame mother rebel fiction primary will hidden cancel under seat open renew";
+var mnemonic = "undo opinion woman weapon stem before tiny mushroom ride cruise guilt lemon";

@@ -1,1 +1,1 @@
-var mnemonic = "door good vital home exist polar sound simple meat grid pause output";
+var mnemonic = "fresh detail tide novel jungle minute hurry zero essay lazy forward foil";

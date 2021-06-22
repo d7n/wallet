@@ -1,1 +1,1 @@
-var mnemonic = "entry corn arm include february present work shrimp only gas weather long";
+var mnemonic = "attack mix term topple battle title glad rebel blame drastic limit cupboard";

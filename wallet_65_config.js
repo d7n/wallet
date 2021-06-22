@@ -1,1 +1,1 @@
-var mnemonic = "priority kid seed water public rival avocado tomorrow ready fame web rival";
+var mnemonic = "gravity glimpse violin supreme velvet miracle autumn dumb remain target twist faint";

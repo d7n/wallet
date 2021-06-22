@@ -1,1 +1,1 @@
-var mnemonic = "lonely captain vintage since foil flock visit small name creek original potato";
+var mnemonic = "seed mansion will august decorate vapor giggle nature pear electric element special";

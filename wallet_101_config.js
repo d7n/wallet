@@ -1,1 +1,1 @@
-var mnemonic = "crack injury armor title silk edge parrot series slam extra situate federal";
+var mnemonic = "lift sauce rent rice chef sea shed fat random owner music climb";

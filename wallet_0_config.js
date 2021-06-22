@@ -1,1 +1,1 @@
-var mnemonic = "little shed truly cat material million bronze charge picture dismiss inner pupil";
+var mnemonic = "connect sting crane walk together athlete genius divert rubber demand amazing fortune";

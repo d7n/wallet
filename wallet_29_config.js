@@ -1,1 +1,1 @@
-var mnemonic = "corn drive tomorrow wagon law primary flavor soap want today weasel tortoise";
+var mnemonic = "glove soft exotic tenant predict brief distance veteran claim later memory note";

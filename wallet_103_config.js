@@ -1,1 +1,1 @@
-var mnemonic = "relief wrong first oblige sand hollow reason heart belt auto owner clay";
+var mnemonic = "catch monitor recall upgrade slice swift stumble close gravity drastic effort core";

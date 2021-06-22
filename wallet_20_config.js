@@ -1,1 +1,1 @@
-var mnemonic = "glow bar illness brain surprise celery limit dinosaur frog pioneer exercise spray";
+var mnemonic = "entry legal tide diagram slide pony fence position city year universe coast";

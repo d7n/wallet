@@ -1,1 +1,1 @@
-var mnemonic = "timber donate sea exclude vessel time smile knife chalk solve skin topple";
+var mnemonic = "mom arch copper acquire script major hat save public cricket myth elephant";

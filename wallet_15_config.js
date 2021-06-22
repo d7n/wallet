@@ -1,1 +1,1 @@
-var mnemonic = "eye behind firm brain topple siren execute knock horror acquire reward top";
+var mnemonic = "crisp result genre apart obvious raccoon blush mention limb spread paper gift";

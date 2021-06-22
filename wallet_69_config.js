@@ -1,1 +1,1 @@
-var mnemonic = "pass rigid notice fall journey squeeze beef depth turn little color spoil";
+var mnemonic = "believe industry achieve clap basket picture ridge budget wink drift pair health";

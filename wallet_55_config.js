@@ -1,1 +1,1 @@
-var mnemonic = "between rib cage gift key shallow empower merit leaf first divide copy";
+var mnemonic = "neglect weird dumb rely dilemma valve embody arm clinic make mimic cupboard";

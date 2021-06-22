@@ -1,1 +1,1 @@
-var mnemonic = "share romance misery supply lobster must embrace moment foot junior jump zebra";
+var mnemonic = "inch submit concert quiz next silly kick album play year ordinary fog";

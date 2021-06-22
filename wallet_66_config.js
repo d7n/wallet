@@ -1,1 +1,1 @@
-var mnemonic = "exclude hover crowd awkward today gather turtle document exchange egg actress tell";
+var mnemonic = "rival bar elegant benefit subway forest game mercy tortoise plunge rose become";

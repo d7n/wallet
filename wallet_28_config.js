@@ -1,1 +1,1 @@
-var mnemonic = "reward diary album search suggest oppose solve federal glad message patch much";
+var mnemonic = "hour forest news crack cushion decide kid park east sleep junk sword";

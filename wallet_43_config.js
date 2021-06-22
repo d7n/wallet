@@ -1,1 +1,1 @@
-var mnemonic = "version cable endless biology evoke nominee moral aspect month obtain orbit marble";
+var mnemonic = "neither guess allow rough woman company drill exact vocal aerobic endorse tissue";

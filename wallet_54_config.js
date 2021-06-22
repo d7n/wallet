@@ -1,1 +1,1 @@
-var mnemonic = "agree craft weather humble glide fresh pitch tribe denial bunker lawsuit cram";
+var mnemonic = "alone unfair devote wisdom fruit fabric series scheme hat race laugh ahead";

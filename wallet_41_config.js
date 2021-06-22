@@ -1,1 +1,1 @@
-var mnemonic = "dance goddess ginger chair open basic tunnel novel paper denial inject warfare";
+var mnemonic = "magnet outdoor prize member move fit track gospel glass illness wasp movie";

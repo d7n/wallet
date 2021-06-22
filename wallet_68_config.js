@@ -1,1 +1,1 @@
-var mnemonic = "process service little immune brick equal ivory increase organ icon universe try";
+var mnemonic = "parent hedgehog beauty ask pupil laugh jazz stable start refuse wage device";

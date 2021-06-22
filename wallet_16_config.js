@@ -1,1 +1,1 @@
-var mnemonic = "iron super spider barely cheese asset humor fluid summer wash camera fantasy";
+var mnemonic = "unfair creek then creek amazing desk coin roast purity hood cream group";

@@ -1,1 +1,1 @@
-var mnemonic = "clip habit puppy disease myth laundry shine vault lizard unable bicycle artwork";
+var mnemonic = "chimney cinnamon night random small provide core enlist column give tent foot";

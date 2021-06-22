@@ -1,1 +1,1 @@
-var mnemonic = "unit inherit matrix abstract nuclear disorder gossip merge bring ill vote essence";
+var mnemonic = "lonely bone animal paddle famous sun suffer release able route old artwork";

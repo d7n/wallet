@@ -1,1 +1,1 @@
-var mnemonic = "snack loop top special more license burger boil frame piece sunny age";
+var mnemonic = "erase february alien swear control permit inch dawn employ inflict item improve";

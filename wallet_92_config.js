@@ -1,1 +1,1 @@
-var mnemonic = "sadness win calm crisp slender neither girl staff pupil stereo time rubber";
+var mnemonic = "elevator cave cattle own broccoli awake hat relax eternal office little title";

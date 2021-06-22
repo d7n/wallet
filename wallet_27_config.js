@@ -1,1 +1,1 @@
-var mnemonic = "give belt fork world science village code jacket seven twice ride sail";
+var mnemonic = "reunion armed tuition elegant crew fix simple cook glimpse update comfort street";

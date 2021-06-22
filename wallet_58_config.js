@@ -1,1 +1,1 @@
-var mnemonic = "crack always mixture vacant need gauge raccoon protect win caution social north";
+var mnemonic = "march normal filter host fresh noble other whale cup enforce erase join";

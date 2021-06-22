@@ -1,1 +1,1 @@
-var mnemonic = "benefit prevent apple copy peace iron shy vendor achieve belt pool pudding";
+var mnemonic = "paper describe catalog treat route reform joy pool rate mansion bind room";

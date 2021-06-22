@@ -1,1 +1,1 @@
-var mnemonic = "suffer choice mixed tortoise lonely type around sister ankle cube cotton frown";
+var mnemonic = "add company concert rather slender wish universe property ahead tube embrace addict";

@@ -1,1 +1,1 @@
-var mnemonic = "essay pole rabbit supply jazz bus tourist trial notice answer viable spoil";
+var mnemonic = "infant fix mention payment manage expire glad rug mutual label harsh neglect";

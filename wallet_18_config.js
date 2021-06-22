@@ -1,1 +1,1 @@
-var mnemonic = "estate limit during enact question tank palm various artist awkward liquid century";
+var mnemonic = "language try gold kitchen orbit enable man report aim potato anger dragon";

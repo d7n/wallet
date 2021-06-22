@@ -1,1 +1,1 @@
-var mnemonic = "timber firm recall comfort despair antique odor youth cover hen trouble dash";
+var mnemonic = "library bracket flip manage grain cloud topple east firm ramp together kid";

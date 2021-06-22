@@ -1,1 +1,1 @@
-var mnemonic = "begin light script lava brief lobster olympic remember parrot float name pizza";
+var mnemonic = "flash bless leg robot cream spread airport jump west mass outside blanket";

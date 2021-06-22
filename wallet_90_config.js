@@ -1,1 +1,1 @@
-var mnemonic = "inner add begin slice know novel nominee tonight loyal obey primary immune";
+var mnemonic = "beyond motion pet sibling twelve inch edge material trick snack hold lawsuit";

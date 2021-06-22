@@ -1,1 +1,1 @@
-var mnemonic = "fatal sign advice twice legend grass goat kid ordinary canvas disease trade";
+var mnemonic = "filter arrow galaxy coral armed smart convince announce save version talk melt";

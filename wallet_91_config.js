@@ -1,1 +1,1 @@
-var mnemonic = "vital discover transfer merit walnut fiscal venture observe game goat occur word";
+var mnemonic = "warm ring broken yellow caution survey square chief tiger word bundle noble";

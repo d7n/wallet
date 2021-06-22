@@ -1,1 +1,1 @@
-var mnemonic = "way valid bring space woman truly front horn key gaze pulse measure";
+var mnemonic = "wage over cotton shadow zebra onion maid keep diagram delay spread pass";

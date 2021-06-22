@@ -1,1 +1,1 @@
-var mnemonic = "mango arch rice cream spot east syrup asset edge undo vanish street";
+var mnemonic = "lava wolf mom knife silent enrich oblige pluck brisk hood speed used";

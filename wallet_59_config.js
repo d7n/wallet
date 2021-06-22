@@ -1,1 +1,1 @@
-var mnemonic = "bitter because seven vessel chair shop almost river venue shallow tilt book";
+var mnemonic = "easily gain mom pet tomorrow visual grace river slam seek dice world";

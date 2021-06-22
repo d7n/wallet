@@ -1,1 +1,1 @@
-var mnemonic = "usual hidden slow way base search twenty model frequent kingdom pudding stuff";
+var mnemonic = "sphere token tilt park fold square friend month tube drift later reopen";

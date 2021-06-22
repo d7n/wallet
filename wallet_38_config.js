@@ -1,1 +1,1 @@
-var mnemonic = "seat trap success august road relax essence father despair burger pledge lesson";
+var mnemonic = "lemon beauty amazing sugar human salon dumb honey humble eight assault laptop";

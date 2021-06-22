@@ -1,1 +1,1 @@
-var mnemonic = "corn fan region burger buzz reveal girl wait pool regret nothing advice";
+var mnemonic = "into cross language insect brave believe such lab try patient join maid";

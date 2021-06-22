@@ -1,1 +1,1 @@
-var mnemonic = "when slide twenty behind success pool advance face burst barrel media prepare";
+var mnemonic = "stadium company armed spice public vicious code advice envelope walk mind truly";

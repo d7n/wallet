@@ -1,1 +1,1 @@
-var mnemonic = "penalty text pyramid grape resemble dry confirm disorder together rich cube welcome";
+var mnemonic = "mobile mask lucky rose craft curtain bargain jar face expect ranch journey";

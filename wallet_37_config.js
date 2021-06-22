@@ -1,1 +1,1 @@
-var mnemonic = "erode more boil entire ill meat alone hire length galaxy tone pretty";
+var mnemonic = "area size law chimney social boy actual page viable cattle hungry canyon";

@@ -1,1 +1,1 @@
-var mnemonic = "dilemma iron hand crop bundle always buyer mixture flight engage lottery awkward";
+var mnemonic = "exact wide size course bronze light shine smooth depth envelope fever embody";

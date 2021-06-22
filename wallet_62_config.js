@@ -1,1 +1,1 @@
-var mnemonic = "range oven seek cement divorce stable whisper keep spoon sport sunny change";
+var mnemonic = "dignity alone harsh hour snow early gate safe limb stairs pizza human";

@@ -1,1 +1,1 @@
-var mnemonic = "ritual mother base bind inflict wish badge sunset gap forum dog roast";
+var mnemonic = "method inner infant talk sleep slam suspect penalty candy reopen employ almost";

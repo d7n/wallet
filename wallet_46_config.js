@@ -1,1 +1,1 @@
-var mnemonic = "squirrel leader toddler luggage voyage grid scan share square congress talk lend";
+var mnemonic = "scene annual course gas donkey receive corn tenant stadium joke change torch";

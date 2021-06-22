@@ -1,1 +1,1 @@
-var mnemonic = "lesson trip pitch plug strategy glimpse film salute confirm have life draw";
+var mnemonic = "legend shift couch coast pyramid wagon globe beef dress orange permit pause";
