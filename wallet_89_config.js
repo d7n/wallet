@@ -1,1 +1,1 @@
-var mnemonic = "carry notice snap write behave axis benefit august senior tribe material usual";
+var mnemonic = "maximum gossip mystery opinion adjust moment donate small group special coast setup";

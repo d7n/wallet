@@ -1,1 +1,1 @@
-var mnemonic = "carbon head extra toy hollow quantum shuffle fork silver cabin tackle federal";
+var mnemonic = "asset father now runway online abuse love medal extend satisfy city ball";

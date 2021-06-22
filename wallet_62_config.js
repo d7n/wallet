@@ -1,1 +1,1 @@
-var mnemonic = "salon spell bicycle confirm spare maximum target cruise captain water wood interest";
+var mnemonic = "clap cupboard vague film idea smoke govern regret timber entry scheme menu";

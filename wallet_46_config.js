@@ -1,1 +1,1 @@
-var mnemonic = "breeze scrap lawsuit dance siege permit simple service wing cage hurdle arch";
+var mnemonic = "famous atom shoulder fuel decade now giggle empty organ boss example foot";

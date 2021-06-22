@@ -1,1 +1,1 @@
-var mnemonic = "dose material pudding upgrade zone observe half phrase express delay bird monster";
+var mnemonic = "over verb inch thought best monitor resist kind tissue acid artwork narrow";

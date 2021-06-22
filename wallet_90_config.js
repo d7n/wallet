@@ -1,1 +1,1 @@
-var mnemonic = "rocket script color tiger eagle act addict drill loan subject forest faint";
+var mnemonic = "remain planet finger stool buzz someone case hub glance toilet shallow guitar";

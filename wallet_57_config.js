@@ -1,1 +1,1 @@
-var mnemonic = "motion track eye zoo unknown snow lamp ice soft floor orbit earn";
+var mnemonic = "huge cart olympic cliff flash appear outer obvious cotton risk animal faint";

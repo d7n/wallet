@@ -1,1 +1,1 @@
-var mnemonic = "release mammal vessel valley miracle toward fluid bleak inflict sponsor shed multiply";
+var mnemonic = "shock ship tortoise doll switch solar popular blanket chief lizard electric artefact";

@@ -1,1 +1,1 @@
-var mnemonic = "hockey author thrive rabbit unusual bright shift movie virus waste glove shock";
+var mnemonic = "fix hello pen civil age anxiety fatigue truck idle fortune mansion hazard";

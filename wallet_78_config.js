@@ -1,1 +1,1 @@
-var mnemonic = "wonder cricket rigid model run vast honey grocery silver lock vacant puzzle";
+var mnemonic = "jacket usual narrow figure unit panther medal sun blame churn fiscal pencil";

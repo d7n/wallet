@@ -1,1 +1,1 @@
-var mnemonic = "nuclear conduct put ladder phrase phone fruit soldier fossil legend coil creek";
+var mnemonic = "reason lion cradle lumber decide decorate elephant wolf joke tortoise doll purchase";

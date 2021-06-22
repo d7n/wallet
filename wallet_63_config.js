@@ -1,1 +1,1 @@
-var mnemonic = "palace kit tissue rather wolf stand strong letter denial shed coach world";
+var mnemonic = "undo library vapor text catalog glad whale base squeeze deal use name";

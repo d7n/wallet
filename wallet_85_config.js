@@ -1,1 +1,1 @@
-var mnemonic = "victory code kiwi renew donate regular food cute depart there deliver truck";
+var mnemonic = "broom ethics shallow mobile shallow hard idle have fatigue filter category private";

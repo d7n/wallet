@@ -1,1 +1,1 @@
-var mnemonic = "evoke race brick grit shell onion cost bronze maid exercise large leaf";
+var mnemonic = "behind industry wall neglect news stay axis unfold govern shallow admit airport";

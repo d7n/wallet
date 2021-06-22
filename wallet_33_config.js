@@ -1,1 +1,1 @@
-var mnemonic = "vehicle citizen teach limb napkin obey daring deputy animal joke ticket require";
+var mnemonic = "domain tomato fame crop island pencil envelope mad price achieve bargain lawsuit";

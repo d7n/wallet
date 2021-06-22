@@ -1,1 +1,1 @@
-var mnemonic = "wheat firm skin awful duty liquid feature guess mean idea marble eternal";
+var mnemonic = "zebra nation print train output over soon artist upper pact now group";

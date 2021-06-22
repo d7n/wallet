@@ -1,1 +1,1 @@
-var mnemonic = "say apple club box remind picture ignore liquid saddle health lonely allow";
+var mnemonic = "month original garment estate owner divide lawn juice ask degree special rely";

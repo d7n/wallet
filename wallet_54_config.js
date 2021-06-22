@@ -1,1 +1,1 @@
-var mnemonic = "attitude during govern nature vessel actor regular sight mother jazz lumber lonely";
+var mnemonic = "beach half repeat keen tide crystal move differ rubber tomato tattoo animal";

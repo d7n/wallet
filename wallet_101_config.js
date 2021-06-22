@@ -1,1 +1,1 @@
-var mnemonic = "music wisdom sibling predict marble brisk slim race decade arm arctic print";
+var mnemonic = "glare economy yellow material mountain fun verb arm emerge plug crew undo";

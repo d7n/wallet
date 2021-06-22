@@ -1,1 +1,1 @@
-var mnemonic = "gate current grocery mirror flee surround thunder thank habit cake rice motor";
+var mnemonic = "stuff soul roof change plunge alpha flame eternal raw flat surge melt";

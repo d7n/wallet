@@ -1,1 +1,1 @@
-var mnemonic = "grow trouble assault amount drift eagle stage senior problem bottom near valid";
+var mnemonic = "veteran chronic provide federal wedding grace crew figure follow team bag search";

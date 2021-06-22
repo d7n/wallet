@@ -1,1 +1,1 @@
-var mnemonic = "great swift client cash pig hospital post velvet liar suggest curtain copper";
+var mnemonic = "hybrid cricket dress have small sting program sock knife donor join ugly";

@@ -1,1 +1,1 @@
-var mnemonic = "galaxy rare universe torch witness divorce acoustic heavy pet dish sense parent";
+var mnemonic = "quick beef music pride glimpse river unhappy feature gesture animal gallery pride";

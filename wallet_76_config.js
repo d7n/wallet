@@ -1,1 +1,1 @@
-var mnemonic = "cotton paddle face embody because vacant ensure stock behind wave dumb outdoor";
+var mnemonic = "jeans act ball theme stomach follow case travel begin veteran planet high";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket allow metal vintage industry indicate blouse pledge behave caught peanut future";
+var mnemonic = "main cushion trumpet ethics opera scare loud left topple spend cabin soul";

@@ -1,1 +1,1 @@
-var mnemonic = "rack fish hint camp scale museum inherit absurd laugh citizen fitness daring";
+var mnemonic = "police lecture angle brush taste plate asset today box rich scare kingdom";

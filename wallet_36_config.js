@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin boring patch super join bitter naive image sentence caution answer dragon";
+var mnemonic = "coach copy nerve defy crumble dutch frown person amount blade void logic";

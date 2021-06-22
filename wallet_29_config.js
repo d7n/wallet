@@ -1,1 +1,1 @@
-var mnemonic = "shoe seed keen group various cool divide sword fever kingdom trial find";
+var mnemonic = "atom season chaos pitch city drip figure march genius mobile huge fog";

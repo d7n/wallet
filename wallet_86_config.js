@@ -1,1 +1,1 @@
-var mnemonic = "clerk drive sheriff danger humor banana help fatigue asset shoulder tongue pen";
+var mnemonic = "afford brass error scatter script life chicken ripple cinnamon chapter tragic audit";

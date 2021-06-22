@@ -1,1 +1,1 @@
-var mnemonic = "trumpet deposit proud junk alley solar forum bird engine clever end stadium";
+var mnemonic = "fossil crop young taste depend shoot grass reform flat caught betray hospital";

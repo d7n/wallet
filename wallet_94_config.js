@@ -1,1 +1,1 @@
-var mnemonic = "property pass arrange couple food attract seed funny core monster welcome advice";
+var mnemonic = "virus anger stuff repeat vital neglect opinion suffer horse apart ticket scheme";

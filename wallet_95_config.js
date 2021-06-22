@@ -1,1 +1,1 @@
-var mnemonic = "team sound beyond nest luggage large mistake blast gym start purpose cause";
+var mnemonic = "twenty vast maximum reject omit sentence company buyer injury laundry victory stairs";

@@ -1,1 +1,1 @@
-var mnemonic = "moon nice author still drama derive this insane chest round regular enough";
+var mnemonic = "first gravity blood process bridge hockey february direct holiday use mom blast";

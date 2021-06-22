@@ -1,1 +1,1 @@
-var mnemonic = "film cover level skull feel come face upper enact tide gold try";
+var mnemonic = "retreat ladder million mountain tomato motor hard caught exhaust ensure review side";

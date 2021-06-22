@@ -1,1 +1,1 @@
-var mnemonic = "main prize episode gym certain female exotic tag predict next lunar spread";
+var mnemonic = "lake ranch focus direct bike couple wage train logic organ food rifle";

@@ -1,1 +1,1 @@
-var mnemonic = "balcony vivid chicken search word scan ripple fame comic offer oval domain";
+var mnemonic = "random nature opinion chest arctic abstract motor heart spin post language engage";

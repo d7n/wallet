@@ -1,1 +1,1 @@
-var mnemonic = "novel absurd novel frown cancel snap sugar amused dentist aware brave door";
+var mnemonic = "trend pluck glow sword onion dance envelope roof crouch cigar mystery sheriff";

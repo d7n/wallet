@@ -1,1 +1,1 @@
-var mnemonic = "debris air spell surface resource shy remain select power moment shuffle act";
+var mnemonic = "scorpion armor predict pigeon glory season defy toward faculty cannon air shell";

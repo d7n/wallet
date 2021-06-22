@@ -1,1 +1,1 @@
-var mnemonic = "system calm veteran sense sausage balcony bitter fancy hamster ginger illness analyst";
+var mnemonic = "awful dream income bracket innocent youth zone robust stay position world acid";

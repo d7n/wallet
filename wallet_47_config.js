@@ -1,1 +1,1 @@
-var mnemonic = "inherit shiver bulb include genuine venue exist safe obvious tell model amused";
+var mnemonic = "balance rich key point upset ready defy rapid dawn wise domain mask";

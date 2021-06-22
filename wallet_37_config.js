@@ -1,1 +1,1 @@
-var mnemonic = "gravity bacon argue tell meadow ethics prize please corn snow tilt flavor";
+var mnemonic = "october bounce old dentist talent work chief frame enjoy across praise region";

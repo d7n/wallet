@@ -1,1 +1,1 @@
-var mnemonic = "lobster safe exercise strategy same riot eagle upgrade limb disorder solid pig";
+var mnemonic = "gospel churn awful position wear fit glass question knife involve code flock";

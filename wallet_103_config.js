@@ -1,1 +1,1 @@
-var mnemonic = "curious dwarf produce coach bomb staff polar artist tilt bunker venture mansion";
+var mnemonic = "old fine denial tobacco you crime toward april next proud kid shallow";

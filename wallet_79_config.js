@@ -1,1 +1,1 @@
-var mnemonic = "cabbage rural add diamond warm run best label devote kidney interest glide";
+var mnemonic = "strike whip odor rely arm about manage tilt lecture vapor surround afraid";

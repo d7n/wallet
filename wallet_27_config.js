@@ -1,1 +1,1 @@
-var mnemonic = "unfold hurdle hollow tragic try panel employ shoe night quarter pool amused";
+var mnemonic = "live all dinner snap mosquito ranch plastic bag web inch dignity erase";

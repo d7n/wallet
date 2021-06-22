@@ -1,1 +1,1 @@
-var mnemonic = "wrap fix gorilla enable decade chapter battle pigeon call citizen dignity silk";
+var mnemonic = "famous vapor turn female between daring lab want parade leave suspect order";

@@ -1,1 +1,1 @@
-var mnemonic = "repeat hospital slab boy bracket music month relief must derive visual tool";
+var mnemonic = "buzz blood brush elder enact define salmon slight donkey artist deal game";

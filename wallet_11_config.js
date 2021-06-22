@@ -1,1 +1,1 @@
-var mnemonic = "page ready fancy world purchase brick list ensure fit flower web spray";
+var mnemonic = "chest devote happy setup cargo divide trophy custom pair remain gallery gun";

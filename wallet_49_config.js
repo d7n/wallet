@@ -1,1 +1,1 @@
-var mnemonic = "price dust evolve magic ghost gadget whisper length scale bamboo chief ugly";
+var mnemonic = "space possible basic tuna shove bitter voice fence voyage into vibrant lab";

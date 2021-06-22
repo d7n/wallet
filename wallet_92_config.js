@@ -1,1 +1,1 @@
-var mnemonic = "whale mystery gloom picture one act cushion dad jewel clock stage cliff";
+var mnemonic = "cigar invite acoustic ketchup grace path fatigue erase gentle fine good body";

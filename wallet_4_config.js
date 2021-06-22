@@ -1,1 +1,1 @@
-var mnemonic = "learn tool father picture upon inmate cinnamon opera tourist north spoil sand";
+var mnemonic = "access illegal horror hockey net green seminar side gather cupboard wool polar";

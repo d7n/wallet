@@ -1,1 +1,1 @@
-var mnemonic = "select rocket bind thrive throw height swarm click clap item witness noise";
+var mnemonic = "announce neither galaxy drum entry issue cram bridge grocery ball wait friend";

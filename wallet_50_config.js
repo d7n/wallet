@@ -1,1 +1,1 @@
-var mnemonic = "range give hub supreme afford thing unfold state buyer pole result absorb";
+var mnemonic = "inform happy lazy rubber timber spot subject cake indoor cube detect mammal";

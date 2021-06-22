@@ -1,1 +1,1 @@
-var mnemonic = "doctor unfair web almost desert tower call cake circle census upon sport";
+var mnemonic = "scheme uniform forest organ suggest number icon access mountain evoke calm cradle";

@@ -1,1 +1,1 @@
-var mnemonic = "emotion salon pride whale dragon fiscal rifle measure leader misery mad measure";
+var mnemonic = "diesel orbit rally possible code rare night explain bitter legend diagram clap";

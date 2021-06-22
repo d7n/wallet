@@ -1,1 +1,1 @@
-var mnemonic = "kick notable dentist abstract travel mad book avocado custom lamp whisper system";
+var mnemonic = "patch dry cup merit boost rug perfect scrub gold sentence pride kitchen";

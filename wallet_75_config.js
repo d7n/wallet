@@ -1,1 +1,1 @@
-var mnemonic = "raw duty miss blade ostrich lecture pause chest satisfy job host build";
+var mnemonic = "dish exhibit domain change time animal dove front burst elder manage ribbon";

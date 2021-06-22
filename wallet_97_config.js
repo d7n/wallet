@@ -1,1 +1,1 @@
-var mnemonic = "extra tired guess fold artist auto task lobster knee manage punch genuine";
+var mnemonic = "donate emerge fury cinnamon now flee normal ostrich deputy road brother peace";

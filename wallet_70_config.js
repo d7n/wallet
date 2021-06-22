@@ -1,1 +1,1 @@
-var mnemonic = "once sentence notable orange resist jewel glove loyal typical rural evil acquire";
+var mnemonic = "sugar also payment trade globe mom major clump provide nice anxiety where";

@@ -1,1 +1,1 @@
-var mnemonic = "strike gym flag you artist muffin aware normal envelope carry feel motion";
+var mnemonic = "mountain hurry build topic chicken charge corn unit virtual shaft artwork catalog";

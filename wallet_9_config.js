@@ -1,1 +1,1 @@
-var mnemonic = "wave upper skirt invest oven timber initial pyramid once reopen uncover east";
+var mnemonic = "blanket slab snack smoke double pipe trade latin recall apple shy once";

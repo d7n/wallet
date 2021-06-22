@@ -1,1 +1,1 @@
-var mnemonic = "rose deliver doll tomorrow gun winter moment depth pass furnace energy dinosaur";
+var mnemonic = "actor hybrid evidence remind under music habit trouble priority nuclear rug neutral";

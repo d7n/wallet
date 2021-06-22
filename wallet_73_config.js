@@ -1,1 +1,1 @@
-var mnemonic = "tag rent end promote rack move believe click grass dizzy transfer hospital";
+var mnemonic = "approve demise sudden coach bottom pioneer model girl suffer proof south notice";

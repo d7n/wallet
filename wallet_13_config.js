@@ -1,1 +1,1 @@
-var mnemonic = "man potato filter stand rely news visual next coil effort alert couple";
+var mnemonic = "candy absorb wild prefer settle version genuine near oxygen all scrub evoke";

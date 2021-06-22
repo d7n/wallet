@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow quarter layer hope space extra reflect stairs census define siege that";
+var mnemonic = "jungle valid undo divide merge wire cannon pear nurse hover best shove";

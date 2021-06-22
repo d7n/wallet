@@ -1,1 +1,1 @@
-var mnemonic = "accuse opinion item fatal edit battle avoid tenant leg cancel way mammal";
+var mnemonic = "embody beyond wire tuna fortune true smart adapt century regular depth shoot";

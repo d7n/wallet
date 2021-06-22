@@ -1,1 +1,1 @@
-var mnemonic = "shoulder tide wood normal swim slot daughter sleep enter sun friend suffer";
+var mnemonic = "climb awful manage midnight consider leg faint involve luggage prepare immense erupt";

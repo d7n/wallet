@@ -1,1 +1,1 @@
-var mnemonic = "often craft crazy pig sail govern travel message solar pelican leader attitude";
+var mnemonic = "random lake before venture pattern setup choose bless siege then park suggest";

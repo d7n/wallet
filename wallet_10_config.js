@@ -1,1 +1,1 @@
-var mnemonic = "fossil guitar base huge track easily settle daring actress skirt sausage cute";
+var mnemonic = "tone initial cancel alpha fatal circle beach display refuse when estate swallow";

@@ -1,1 +1,1 @@
-var mnemonic = "boil struggle hover there history tumble exist boost unfair increase ghost peace";
+var mnemonic = "warfare alien cup have hold reform beach cube axis swift equal resource";

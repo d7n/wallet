@@ -1,1 +1,1 @@
-var mnemonic = "notice hobby arrow search sort gather wrestle muscle twice salad nominee oil";
+var mnemonic = "bunker glow tiger mail movie asset wheel shaft ladder neutral universe vital";

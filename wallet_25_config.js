@@ -1,1 +1,1 @@
-var mnemonic = "moon cause picnic ten purse quote skill song expand oak gallery donkey";
+var mnemonic = "jazz ask scorpion thumb south humble scare bone struggle blur move kiwi";

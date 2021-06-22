@@ -1,1 +1,1 @@
-var mnemonic = "tobacco chunk fresh parade guitar test adult rapid people flat calm dress";
+var mnemonic = "change nurse equal surge desk one tail near gain yard cross home";

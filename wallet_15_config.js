@@ -1,1 +1,1 @@
-var mnemonic = "boil buzz panic home busy melt equal grow foot cross series inner";
+var mnemonic = "smile sure pole unlock female slender volume tobacco echo insane reform vapor";

@@ -1,1 +1,1 @@
-var mnemonic = "artwork oak retire soldier exotic claim elephant cross cable surround soft jewel";
+var mnemonic = "salon laugh stamp radar praise lion valid meadow dream spoil coast inflict";

@@ -1,1 +1,1 @@
-var mnemonic = "shove gather slogan panther place hybrid ecology tuna capable obey coral wood";
+var mnemonic = "yard again style rookie edit hope nose ribbon scissors siege draft leave";

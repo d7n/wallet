@@ -1,1 +1,1 @@
-var mnemonic = "castle ancient disagree climb piece issue into merit salute dice final mutual";
+var mnemonic = "saddle tank hand letter resemble retreat shy cover mammal judge refuse reward";

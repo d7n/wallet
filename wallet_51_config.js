@@ -1,1 +1,1 @@
-var mnemonic = "budget twelve helmet wish company galaxy around square adult stem stay search";
+var mnemonic = "cruel much scatter true poem tornado social toddler cupboard real same frozen";

@@ -1,1 +1,1 @@
-var mnemonic = "clerk wide pepper sort toast impose street wet illness legal pluck secret";
+var mnemonic = "intact lawsuit unusual crucial sadness village knife outer physical cattle arrive teach";

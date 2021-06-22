@@ -1,1 +1,1 @@
-var mnemonic = "hunt merry valve holiday approve power join scheme harsh market ladder garbage";
+var mnemonic = "shoot green unique leisure pass safe very rescue anger word paper actual";

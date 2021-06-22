@@ -1,1 +1,1 @@
-var mnemonic = "figure knife hair way better bar pyramid amount story pill praise gym";
+var mnemonic = "method neither glory entire course wide vivid avocado breeze dragon account palm";

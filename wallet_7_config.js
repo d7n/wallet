@@ -1,1 +1,1 @@
-var mnemonic = "refuse salt soup balcony ivory spider rubber dial capital lens forum icon";
+var mnemonic = "side original myself work glide trial peasant merit scare such renew much";

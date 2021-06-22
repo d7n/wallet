@@ -1,1 +1,1 @@
-var mnemonic = "drum era garden hover tonight detail beyond reward truth amazing sick reflect";
+var mnemonic = "old age cute calm era cream atom network snake seed poem chicken";

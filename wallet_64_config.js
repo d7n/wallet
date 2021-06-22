@@ -1,1 +1,1 @@
-var mnemonic = "net sunny velvet hurdle spell garden suffer critic power bounce involve siren";
+var mnemonic = "option enter baby six ignore grocery patrol vicious payment craft ivory cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "jungle family name employ rib leisure giant estate photo rent update giggle";
+var mnemonic = "identify cigar spoil expose violin spider mix slow hobby day lobster provide";

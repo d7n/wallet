@@ -1,1 +1,1 @@
-var mnemonic = "usage polar valid cost tattoo crash bounce gasp jungle feel hard select";
+var mnemonic = "enhance boy canyon relax mixture glad buffalo bitter robust derive hover seek";

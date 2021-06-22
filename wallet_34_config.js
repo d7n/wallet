@@ -1,1 +1,1 @@
-var mnemonic = "promote filter street wonder bird youth devote deposit gap wood little tennis";
+var mnemonic = "elevator decrease come horse business sail lumber purpose gap satisfy stage result";

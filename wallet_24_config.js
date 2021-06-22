@@ -1,1 +1,1 @@
-var mnemonic = "derive abuse adapt print urge simple diamond short word hood parent virtual";
+var mnemonic = "glimpse style level talk column era term blouse motion valley screen invite";

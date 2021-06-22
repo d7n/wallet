@@ -1,1 +1,1 @@
-var mnemonic = "office normal few proof pool sauce weapon blossom never sound enrich reduce";
+var mnemonic = "moral target shrimp vapor stumble regular mask excite claw tent mirror alarm";

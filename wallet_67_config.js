@@ -1,1 +1,1 @@
-var mnemonic = "above easy liar warrior couple disagree above pass inflict skill nest lend";
+var mnemonic = "mystery drill cry sing genre wing duty modify liberty aspect rescue title";

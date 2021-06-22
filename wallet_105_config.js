@@ -1,1 +1,1 @@
-var mnemonic = "fall scare pretty fame gravity crucial unlock output pluck practice bonus option";
+var mnemonic = "slot ripple reunion brother crunch coach donate season must actress ribbon swift";
