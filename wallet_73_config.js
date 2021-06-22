@@ -1,1 +1,1 @@
-var mnemonic = "problem toddler saddle kit gentle winter this diamond cactus concert tonight peace";
+var mnemonic = "during cram hour glimpse stadium solar arrow mesh distance thank blur trim";

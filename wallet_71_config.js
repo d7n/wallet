@@ -1,1 +1,1 @@
-var mnemonic = "assault invite marble cram area acoustic steel great type mammal eight need";
+var mnemonic = "tide fish seek oppose old jump quit stairs buffalo marriage couple entire";

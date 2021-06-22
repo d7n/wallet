@@ -1,1 +1,1 @@
-var mnemonic = "weasel genius symptom elbow exact seat tree relief organ gown twice aspect";
+var mnemonic = "mail notable skull inherit mass bronze coyote olive diet buyer anchor car";

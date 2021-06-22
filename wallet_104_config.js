@@ -1,1 +1,1 @@
-var mnemonic = "van quantum afford garment tourist window original treat theory safe tiger sign";
+var mnemonic = "topic borrow post science swap coach there lyrics weasel omit foot melody";

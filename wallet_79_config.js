@@ -1,1 +1,1 @@
-var mnemonic = "pelican noodle base yard float elegant price capable exist fetch mandate license";
+var mnemonic = "junk capital escape cargo rabbit mom corn endless soldier general chaos shy";

@@ -1,1 +1,1 @@
-var mnemonic = "early liquid moral mixture few poverty dynamic jealous beyond display rude range";
+var mnemonic = "trip bronze gadget dog talent copy swarm sugar tomato pulse bitter hood";

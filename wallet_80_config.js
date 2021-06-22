@@ -1,1 +1,1 @@
-var mnemonic = "promote all veteran note arrow then clap choose fun addict public notable";
+var mnemonic = "country west riot once opera daughter talent annual ordinary palm napkin turkey";

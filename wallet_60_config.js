@@ -1,1 +1,1 @@
-var mnemonic = "guitar fiscal dance gauge turn scheme rabbit tone erosion over eyebrow burst";
+var mnemonic = "mansion pelican army tongue shed vicious vague enact art example awful sure";

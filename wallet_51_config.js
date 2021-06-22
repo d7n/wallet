@@ -1,1 +1,1 @@
-var mnemonic = "lion slim vital session conduct meadow eight apple waste mix box protect";
+var mnemonic = "decide lava saddle void hard supreme treat hold upper spare deny snow";

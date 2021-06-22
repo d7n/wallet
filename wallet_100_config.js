@@ -1,1 +1,1 @@
-var mnemonic = "human check tree pulp disagree novel easy metal wrap sheriff elder emerge";
+var mnemonic = "border fiction skirt quantum unaware prepare initial hospital labor print exact undo";

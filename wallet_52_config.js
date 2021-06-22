@@ -1,1 +1,1 @@
-var mnemonic = "cover apple undo spell vapor scene chief diamond track enable cable merit";
+var mnemonic = "swear top zero canyon photo height trap trophy monster circle divide caught";

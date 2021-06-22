@@ -1,1 +1,1 @@
-var mnemonic = "misery spring cat lamp material slab truth slim grape heavy raven core";
+var mnemonic = "pen attack write exit bring adjust melody quality ketchup tackle laptop syrup";

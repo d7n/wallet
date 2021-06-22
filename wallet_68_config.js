@@ -1,1 +1,1 @@
-var mnemonic = "field yard wheel neutral day despair assume edge future critic panther drill";
+var mnemonic = "cereal license candy surprise rack cancel yard someone room rain ability jacket";

@@ -1,1 +1,1 @@
-var mnemonic = "unfold miss pet utility kiwi enter shell noodle giggle motor candy across";
+var mnemonic = "violin supply cube theory ticket swarm sample begin regret legend enlist diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "way gold suffer symbol bounce snow heart undo enemy square there relief";
+var mnemonic = "jelly skate bread cement valley metal family wagon hair prevent firm view";

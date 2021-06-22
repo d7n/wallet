@@ -1,1 +1,1 @@
-var mnemonic = "basket vehicle february weapon husband shoe above relax resource option trap praise";
+var mnemonic = "people spy onion table panda frown train city bicycle one finger member";

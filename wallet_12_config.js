@@ -1,1 +1,1 @@
-var mnemonic = "fork struggle devote crew faith only piano hole west grain wasp inch";
+var mnemonic = "unit crane surprise unable rule country enter tongue melody crystal edge purity";

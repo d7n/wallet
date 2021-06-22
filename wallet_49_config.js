@@ -1,1 +1,1 @@
-var mnemonic = "rally decorate supreme install check magnet stamp chief error phrase orange rural";
+var mnemonic = "banner fetch barely survey old write govern cliff must ozone peasant trophy";

@@ -1,1 +1,1 @@
-var mnemonic = "town salmon roast endorse vast into mom detect wave grant letter blast";
+var mnemonic = "ketchup present display anger spread jewel swallow pony theme learn script laugh";

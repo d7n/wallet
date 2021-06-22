@@ -1,1 +1,1 @@
-var mnemonic = "win episode proud caution giraffe man hurt erupt require idea innocent wrist";
+var mnemonic = "birth quality wire stand hero suggest duty advance ice traffic talk review";

@@ -1,1 +1,1 @@
-var mnemonic = "theory ginger mean install cry chimney copy tunnel fine found inner nurse";
+var mnemonic = "axis virtual humble elevator shove shy desk draw journey suit human trigger";

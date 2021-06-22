@@ -1,1 +1,1 @@
-var mnemonic = "leopard marine trumpet melt ankle trim pioneer coach arctic plunge absurd violin";
+var mnemonic = "author mushroom used century thing neutral barely decade mammal royal extend such";

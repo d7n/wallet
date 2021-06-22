@@ -1,1 +1,1 @@
-var mnemonic = "crater ketchup clock snake once dog stadium orange panther track pave bamboo";
+var mnemonic = "book bunker urban riot yellow emerge build echo evoke vehicle flush potato";

@@ -1,1 +1,1 @@
-var mnemonic = "piece federal width suspect resist toe master badge pluck distance neutral secret";
+var mnemonic = "blast boost work hire undo woman fix become shift promote boy blue";

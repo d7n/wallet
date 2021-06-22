@@ -1,1 +1,1 @@
-var mnemonic = "awful hunt hockey heart female chair hamster rebel because world enable patient";
+var mnemonic = "fire pudding pear pink large bunker disease bomb online memory index miss";

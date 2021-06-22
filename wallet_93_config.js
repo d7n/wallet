@@ -1,1 +1,1 @@
-var mnemonic = "ride dizzy funny comfort identify column estate family critic gadget wire middle";
+var mnemonic = "harsh fragile label envelope wish rude fossil pilot soap title pact napkin";

@@ -1,1 +1,1 @@
-var mnemonic = "manual color hello knee royal gun goddess weapon ice duty plug meat";
+var mnemonic = "enable guard evil armed tree camera machine random lab during salt open";

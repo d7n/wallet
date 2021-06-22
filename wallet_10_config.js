@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo trick slab cream draw weasel onion now purpose wagon human bid";
+var mnemonic = "prepare document gun eager device deposit broccoli fence glimpse render bundle lesson";

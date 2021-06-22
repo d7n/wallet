@@ -1,1 +1,1 @@
-var mnemonic = "mushroom verify wine wealth fame escape whale visa pioneer plug inherit demand";
+var mnemonic = "roast view will able clock rug coast hat narrow garden setup virus";

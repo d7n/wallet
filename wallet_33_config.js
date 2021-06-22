@@ -1,1 +1,1 @@
-var mnemonic = "stomach nation south rule hill stick educate gadget where deputy air crawl";
+var mnemonic = "govern eye giraffe profit cloth settle prefer arctic future will mirror identify";

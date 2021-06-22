@@ -1,1 +1,1 @@
-var mnemonic = "express clinic air chimney soap long eager display drink reflect merit discover";
+var mnemonic = "vivid bulk stool lens gold budget blue cradle space corn route blanket";

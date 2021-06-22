@@ -1,1 +1,1 @@
-var mnemonic = "million science roof pull tragic panic mammal squeeze property enhance banana ready";
+var mnemonic = "away actress own child usual proud quiz orphan hurt purpose wait vital";

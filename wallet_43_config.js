@@ -1,1 +1,1 @@
-var mnemonic = "palm trend program recipe decide inspire version churn solid draw melt embark";
+var mnemonic = "credit owner curious roast dice fault scene regret brisk photo over random";

@@ -1,1 +1,1 @@
-var mnemonic = "black upper clay whip clog insane matrix giant noise vague whisper flame";
+var mnemonic = "recall find injury scare rather resource impose alarm eternal will shed sentence";

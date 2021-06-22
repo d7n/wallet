@@ -1,1 +1,1 @@
-var mnemonic = "struggle lecture prison shrug mouse fortune jar urban equal artwork tail woman";
+var mnemonic = "vendor capable between puppy zone sketch behind plug grid diagram father annual";

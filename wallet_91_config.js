@@ -1,1 +1,1 @@
-var mnemonic = "jungle tobacco trouble blouse prevent gadget inquiry reduce rail trigger broom game";
+var mnemonic = "elbow screen roast mean submit wheel rack ridge nest parent alarm grace";

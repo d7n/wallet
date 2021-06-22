@@ -1,1 +1,1 @@
-var mnemonic = "tilt skirt few behave rebuild dinosaur nerve supreme they brother expose win";
+var mnemonic = "grass reopen trophy dismiss stumble illness live crime auction sting clip inspire";

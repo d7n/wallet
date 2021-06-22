@@ -1,1 +1,1 @@
-var mnemonic = "someone twenty tobacco avocado orient injury spice symbol yellow entire tired talk";
+var mnemonic = "mass pact denial radar fatal balance record gallery pony exchange pig fiscal";

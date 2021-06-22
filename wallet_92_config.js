@@ -1,1 +1,1 @@
-var mnemonic = "glance stadium sister sister expire ladder cliff duck amazing age master street";
+var mnemonic = "news defy jungle exchange exercise father camera survey mean keen stomach olympic";

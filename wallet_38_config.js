@@ -1,1 +1,1 @@
-var mnemonic = "solar first unveil unaware boat used extend exclude maximum direct crime swing";
+var mnemonic = "roof trust rough quarter stock pulp swim hammer theory agent coil slab";

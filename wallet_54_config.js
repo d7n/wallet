@@ -1,1 +1,1 @@
-var mnemonic = "luxury gown skin concert live hamster update area point impose apology feel";
+var mnemonic = "common cannon maximum sister frown utility predict struggle found dust once bottom";

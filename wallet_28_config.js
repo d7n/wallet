@@ -1,1 +1,1 @@
-var mnemonic = "harvest dilemma debris pill stereo owner pelican minor episode notice second copy";
+var mnemonic = "sadness time myself win plastic accuse mercy between invite evoke frozen ripple";

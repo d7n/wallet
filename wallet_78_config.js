@@ -1,1 +1,1 @@
-var mnemonic = "surface attitude run salute castle force copy ethics year limit exotic field";
+var mnemonic = "right arena waste tissue dentist dress doctor solid all blood plunge enforce";

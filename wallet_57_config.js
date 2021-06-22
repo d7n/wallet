@@ -1,1 +1,1 @@
-var mnemonic = "middle able glance oval involve life armed churn narrow ghost glare base";
+var mnemonic = "learn lawn task business member awake cry prepare twenty fame matrix average";

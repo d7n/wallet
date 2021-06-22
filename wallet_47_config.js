@@ -1,1 +1,1 @@
-var mnemonic = "planet brief frame forget hair recipe method delay core april rail collect";
+var mnemonic = "join increase dry glow civil leader damage crop dawn place venture more";

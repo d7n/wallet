@@ -1,1 +1,1 @@
-var mnemonic = "intact near object occur film junk yard sponsor remember tilt junk faint";
+var mnemonic = "bless market party embark grain surge truth journey market dentist rally ball";

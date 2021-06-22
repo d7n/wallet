@@ -1,1 +1,1 @@
-var mnemonic = "future leave current phrase flight room essence obscure kick violin poem uniform";
+var mnemonic = "school eagle rose recall puzzle hammer hair surprise mutual claim among such";

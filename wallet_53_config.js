@@ -1,1 +1,1 @@
-var mnemonic = "west list ball dice roof wealth bulk approve domain enough satisfy metal";
+var mnemonic = "sight dragon hard small decorate toward smart empower session equal task piano";

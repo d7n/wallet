@@ -1,1 +1,1 @@
-var mnemonic = "earth health denial sight enhance icon mixed crumble mandate layer enhance wink";
+var mnemonic = "popular broccoli copy assume amused wagon atom soccer jelly gift wool fury";

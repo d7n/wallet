@@ -1,1 +1,1 @@
-var mnemonic = "profit garlic convince host mutual acquire relax motor eagle bamboo pear service";
+var mnemonic = "burger lamp carbon canal drive window family circle fame debris inquiry engage";

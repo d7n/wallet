@@ -1,1 +1,1 @@
-var mnemonic = "warfare neck secret fluid sweet property first narrow prepare hour until salt";
+var mnemonic = "father ocean crunch tired morning involve section slice anxiety canvas siren example";

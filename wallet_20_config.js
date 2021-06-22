@@ -1,1 +1,1 @@
-var mnemonic = "first naive gap track what spot unveil climb derive symptom clown april";
+var mnemonic = "feature jewel family amazing large icon enjoy wing dose spot bus tattoo";

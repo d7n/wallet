@@ -1,1 +1,1 @@
-var mnemonic = "door angry common mask scene throw fatigue fuel harsh rail beef coyote";
+var mnemonic = "coffee become jewel prepare intact kitten rabbit ritual uphold slush recall apart";

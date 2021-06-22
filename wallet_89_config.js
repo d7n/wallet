@@ -1,1 +1,1 @@
-var mnemonic = "fog sight step cheese double chef flame solar glance fatigue comic chicken";
+var mnemonic = "blush aisle neither lounge vague reform grief basic onion volume reject breeze";

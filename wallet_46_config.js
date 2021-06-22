@@ -1,1 +1,1 @@
-var mnemonic = "borrow quote gas major chaos quick aspect license achieve rely hope oak";
+var mnemonic = "twin inquiry result act deal meadow verify hair piano sunset cry raw";

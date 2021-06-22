@@ -1,1 +1,1 @@
-var mnemonic = "chat always cargo spell run reduce security cereal name business want crazy";
+var mnemonic = "option gym early combine now exist patrol detect treat elite leave reduce";

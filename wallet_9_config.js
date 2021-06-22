@@ -1,1 +1,1 @@
-var mnemonic = "adult series install below science daughter lake drop energy venue swim salt";
+var mnemonic = "divide fossil dinosaur olympic word finger unit remove task stamp intact decorate";

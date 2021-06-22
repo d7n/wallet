@@ -1,1 +1,1 @@
-var mnemonic = "direct spring task balcony stick summer arctic faculty aunt advance almost champion";
+var mnemonic = "mom host hair problem pen shell spin oak oil tone gallery day";

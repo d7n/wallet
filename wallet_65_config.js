@@ -1,1 +1,1 @@
-var mnemonic = "coral wheat dumb sustain say furnace absurd fever charge reject depend girl";
+var mnemonic = "hedgehog practice veteran song book crime rose insect seed hire token wet";

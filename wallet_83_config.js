@@ -1,1 +1,1 @@
-var mnemonic = "index scale annual deer night describe deny ring among artwork achieve latin";
+var mnemonic = "exotic frost uncle embark often abandon nest battle lawn motor choose ignore";

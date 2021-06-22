@@ -1,1 +1,1 @@
-var mnemonic = "reform jaguar middle tag size foot toddler upgrade mom credit girl document";
+var mnemonic = "capital salad couch pause eagle debris multiply glory shrug egg next rival";

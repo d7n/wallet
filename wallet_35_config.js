@@ -1,1 +1,1 @@
-var mnemonic = "toilet rich piece payment invite detect kiwi floor battle struggle find journey";
+var mnemonic = "initial employ wool life bone ankle source mercy erosion limb employ spot";

@@ -1,1 +1,1 @@
-var mnemonic = "smart pill analyst novel armed tool rate used secret question desk viable";
+var mnemonic = "youth razor winner scene rifle entry empower caught diary put glow puzzle";

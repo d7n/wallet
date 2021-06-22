@@ -1,1 +1,1 @@
-var mnemonic = "brass attitude return view expire lyrics race giggle elder leg remain pledge";
+var mnemonic = "senior dolphin limb canal voyage visa bicycle sunny arena coffee horror math";

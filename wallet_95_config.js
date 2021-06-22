@@ -1,1 +1,1 @@
-var mnemonic = "month actor seek turn toss spice shaft stone catalog change usual swear";
+var mnemonic = "margin shove pioneer salad develop tide public raven manage purity chunk donate";

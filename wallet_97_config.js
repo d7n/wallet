@@ -1,1 +1,1 @@
-var mnemonic = "reward ability spread hotel road napkin regret grain aunt about cruel saddle";
+var mnemonic = "winter fly film subject calm tired dawn public leisure polar depth resemble";

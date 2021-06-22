@@ -1,1 +1,1 @@
-var mnemonic = "during cereal comfort squirrel crucial tower spray solar judge jazz search office";
+var mnemonic = "picnic vehicle lumber december display diesel timber forget what vendor brief pigeon";

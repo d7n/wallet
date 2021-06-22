@@ -1,1 +1,1 @@
-var mnemonic = "dynamic spike much betray bracket mistake wild found bless eager various jar";
+var mnemonic = "vintage similar rude this friend tumble strike boat amateur circle copper grape";

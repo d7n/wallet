@@ -1,1 +1,1 @@
-var mnemonic = "venue earth pattern color vibrant wash wrist dice blush inflict alley casual";
+var mnemonic = "pool mule guilt wealth avoid black episode charge segment hood nut typical";

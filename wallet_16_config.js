@@ -1,1 +1,1 @@
-var mnemonic = "matrix report hotel cupboard net barrel obtain wolf green embody emotion scare";
+var mnemonic = "actual chicken hole surround shine type museum shrug retire door crack piece";

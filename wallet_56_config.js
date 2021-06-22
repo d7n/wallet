@@ -1,1 +1,1 @@
-var mnemonic = "depth narrow execute polar rocket brother ticket profit fly thumb spend midnight";
+var mnemonic = "pave fever divide stuff arena cargo joke rally acid kit guitar tackle";

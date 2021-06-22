@@ -1,1 +1,1 @@
-var mnemonic = "green until soldier render anxiety leopard wife image skull post skate air";
+var mnemonic = "wear insane hospital sound marine frown anger seat tenant trophy orient rail";

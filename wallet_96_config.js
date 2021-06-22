@@ -1,1 +1,1 @@
-var mnemonic = "album aerobic festival rubber kit goddess possible state lion burden pink crazy";
+var mnemonic = "rely trouble cook vehicle virus leopard reunion alone immense public this sniff";

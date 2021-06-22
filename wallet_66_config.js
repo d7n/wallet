@@ -1,1 +1,1 @@
-var mnemonic = "clarify economy liberty session code state network apple final dash park burger";
+var mnemonic = "jazz solution trigger pill topple about steak bulk explain mistake egg panic";

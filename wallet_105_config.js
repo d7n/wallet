@@ -1,1 +1,1 @@
-var mnemonic = "aware extend calm cattle door culture oven fatigue group lizard ozone live";
+var mnemonic = "elevator universe thunder predict song midnight solve whale dawn pink rally ignore";

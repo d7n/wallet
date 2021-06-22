@@ -1,1 +1,1 @@
-var mnemonic = "price choose october cargo skull mass dutch vanish era bulb injury raccoon";
+var mnemonic = "team pizza domain police flat base unable hip vivid grape nuclear tide";

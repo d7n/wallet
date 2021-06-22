@@ -1,1 +1,1 @@
-var mnemonic = "option miracle ice general danger popular horn hunt reform between smile thrive";
+var mnemonic = "winter fury blossom result sadness wall tide gauge silver stomach you tide";

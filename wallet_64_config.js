@@ -1,1 +1,1 @@
-var mnemonic = "chronic faint injury demise jacket crowd lounge disorder edit mirror smart fence";
+var mnemonic = "engage minor shove merge cable anchor agree wheel evidence park verb maximum";

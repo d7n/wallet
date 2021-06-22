@@ -1,1 +1,1 @@
-var mnemonic = "busy north amazing fault kidney evolve link web offer oven wife doll";
+var mnemonic = "situate gown patch key report west pretty step chat weasel stem warrior";

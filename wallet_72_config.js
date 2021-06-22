@@ -1,1 +1,1 @@
-var mnemonic = "zero million prison dog upset dentist trumpet isolate bunker save lava gossip";
+var mnemonic = "remain vague inhale basket alter end wash turn stone royal quality furnace";

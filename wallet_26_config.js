@@ -1,1 +1,1 @@
-var mnemonic = "tonight dismiss season device pelican window bus morning zone hotel rain lamp";
+var mnemonic = "again behind demand again napkin stick empty eternal trim tourist defy toward";

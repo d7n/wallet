@@ -1,1 +1,1 @@
-var mnemonic = "member anger candy age dwarf please horse give squeeze tone like artwork";
+var mnemonic = "lock square demise asthma distance village erosion grocery build issue snap kidney";

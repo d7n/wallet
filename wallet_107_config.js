@@ -1,1 +1,1 @@
-var mnemonic = "edit hospital brief unique panda barely fox attack spice ten umbrella cream";
+var mnemonic = "market know start income egg aisle involve beach welcome tail brand hold";

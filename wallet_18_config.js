@@ -1,1 +1,1 @@
-var mnemonic = "advance canyon amount game physical lava hole update garbage hero give glue";
+var mnemonic = "magnet warfare salmon truth ancient pulp erase close plunge school glue bus";

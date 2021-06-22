@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog private impact little later town damage dress absurd reward saddle evidence";
+var mnemonic = "diet alter glow identify settle regret buzz round hospital cabin latin idea";

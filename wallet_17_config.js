@@ -1,1 +1,1 @@
-var mnemonic = "broken poem cricket until hurt glance someone treat dentist like ritual chuckle";
+var mnemonic = "east impact process empower sign cluster glare market rapid state banana lens";

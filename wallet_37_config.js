@@ -1,1 +1,1 @@
-var mnemonic = "brown load soda walk jazz shadow until soda purpose saddle club bronze";
+var mnemonic = "heart expect element need retreat aware bag atom advance strike deer during";

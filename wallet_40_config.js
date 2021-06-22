@@ -1,1 +1,1 @@
-var mnemonic = "always guilt title leopard mad avocado element endless problem carry axis silly";
+var mnemonic = "couple movie butter biology session cherry again hollow trial crime snake deal";
