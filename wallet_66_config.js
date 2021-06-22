@@ -1,1 +1,1 @@
-var mnemonic = "pass arch bone buyer quantum sudden heavy ensure sense police better slush";
+var mnemonic = "exclude hover crowd awkward today gather turtle document exchange egg actress tell";

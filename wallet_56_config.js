@@ -1,1 +1,1 @@
-var mnemonic = "warfare session awesome divide fatigue school update help various almost tube egg";
+var mnemonic = "blame mother rebel fiction primary will hidden cancel under seat open renew";

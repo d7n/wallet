@@ -1,1 +1,1 @@
-var mnemonic = "start afford mango wood inflict soul slight airport swarm settle original usage";
+var mnemonic = "when slide twenty behind success pool advance face burst barrel media prepare";

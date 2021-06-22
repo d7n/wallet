@@ -1,1 +1,1 @@
-var mnemonic = "furnace cactus session kidney gauge focus copper sketch mimic reward tortoise panel";
+var mnemonic = "trial modify similar art same orbit gravity trial lawn woman subway symbol";

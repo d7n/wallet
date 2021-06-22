@@ -1,1 +1,1 @@
-var mnemonic = "despair champion magic coffee produce worth smoke pride match foster noise dinner";
+var mnemonic = "silly snake toe stadium useless manual move snake gallery joy police cloth";

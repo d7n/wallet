@@ -1,1 +1,1 @@
-var mnemonic = "simple biology latin firm liberty seat worry piece harvest client leave success";
+var mnemonic = "glow bar illness brain surprise celery limit dinosaur frog pioneer exercise spray";

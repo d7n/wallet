@@ -1,1 +1,1 @@
-var mnemonic = "area work seminar camera distance letter what escape jealous decorate music demise";
+var mnemonic = "correct board immune jazz scrub phrase myself sun assume song expect raven";

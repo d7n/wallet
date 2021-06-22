@@ -1,1 +1,1 @@
-var mnemonic = "any bike exchange trigger sea next gesture olympic search notice bench give";
+var mnemonic = "snack loop top special more license burger boil frame piece sunny age";

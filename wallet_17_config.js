@@ -1,1 +1,1 @@
-var mnemonic = "onion collect expand try unit hawk vendor lock fragile goose cannon divide";
+var mnemonic = "cry absorb explain lounge host bicycle convince atom poem couple pattern hybrid";

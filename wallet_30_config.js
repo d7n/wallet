@@ -1,1 +1,1 @@
-var mnemonic = "olympic idea fun spin swamp river suggest wedding fox right during zebra";
+var mnemonic = "desk pistol hover abandon sun chaos income stage recipe scan frost frozen";

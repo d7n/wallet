@@ -1,1 +1,1 @@
-var mnemonic = "law blanket normal film bleak hover paper able mango creek laugh arrange";
+var mnemonic = "mango arch rice cream spot east syrup asset edge undo vanish street";

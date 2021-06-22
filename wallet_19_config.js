@@ -1,1 +1,1 @@
-var mnemonic = "later defense source target glide laptop token sugar bounce direct index confirm";
+var mnemonic = "avoid glide leaf remain squirrel glance entry swing album finish dance deal";

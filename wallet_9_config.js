@@ -1,1 +1,1 @@
-var mnemonic = "gloom affair below law diet toss direct dilemma left extend earth reunion";
+var mnemonic = "suffer choice mixed tortoise lonely type around sister ankle cube cotton frown";

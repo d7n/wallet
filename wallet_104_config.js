@@ -1,1 +1,1 @@
-var mnemonic = "civil journey amused aunt length thrive option moment school switch slab there";
+var mnemonic = "door good vital home exist polar sound simple meat grid pause output";

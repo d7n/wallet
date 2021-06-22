@@ -1,1 +1,1 @@
-var mnemonic = "rocket entry child jump feel clog home video bind apology notable broken";
+var mnemonic = "fold best basket evil ready shrug smile pilot foam hungry giraffe spike";

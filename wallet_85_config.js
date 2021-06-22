@@ -1,1 +1,1 @@
-var mnemonic = "predict hunt foster spoon other conduct taxi mail jeans mother crater soon";
+var mnemonic = "ankle brain debris charge ceiling skull act range priority swarm issue tape";

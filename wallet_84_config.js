@@ -1,1 +1,1 @@
-var mnemonic = "insect marble thank glad habit wall grant abuse asset group cricket sunny";
+var mnemonic = "exhaust angry model devote olympic void custom brick south grow element symptom";

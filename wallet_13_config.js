@@ -1,1 +1,1 @@
-var mnemonic = "coast tool wife hundred suspect chef expire hospital emerge fall remind gesture";
+var mnemonic = "alien oblige title dwarf innocent hurdle spring purity win hair dad endorse";

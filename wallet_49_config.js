@@ -1,1 +1,1 @@
-var mnemonic = "frog knife maximum virus giggle frozen prefer exercise slender radar shift appear";
+var mnemonic = "pair rice exit cry castle exit distance inquiry village ritual knife wait";

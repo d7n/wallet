@@ -1,1 +1,1 @@
-var mnemonic = "observe alcohol clip balcony stamp dinosaur sea pill witness island make ship";
+var mnemonic = "owner ocean vibrant lock expect mechanic slide morning lumber slam connect assault";

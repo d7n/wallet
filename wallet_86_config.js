@@ -1,1 +1,1 @@
-var mnemonic = "obvious tunnel naive satisfy undo pigeon shed glove wrap later mention hope";
+var mnemonic = "unit inherit matrix abstract nuclear disorder gossip merge bring ill vote essence";

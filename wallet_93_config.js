@@ -1,1 +1,1 @@
-var mnemonic = "edit cloth satisfy clay adapt army panel strike rapid assist arch area";
+var mnemonic = "wing lesson rather energy fold physical worry mail century luxury trade unit";

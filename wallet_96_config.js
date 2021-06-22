@@ -1,1 +1,1 @@
-var mnemonic = "network supply target spider advice glimpse alien tail document survey hamster lonely";
+var mnemonic = "usual hidden slow way base search twenty model frequent kingdom pudding stuff";

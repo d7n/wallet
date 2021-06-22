@@ -1,1 +1,1 @@
-var mnemonic = "tenant rocket property satisfy chase silver target base nut dutch base scrap";
+var mnemonic = "priority kid seed water public rival avocado tomorrow ready fame web rival";

@@ -1,1 +1,1 @@
-var mnemonic = "west embody duck fun ethics affair panda urge search pyramid royal tissue";
+var mnemonic = "clip habit puppy disease myth laundry shine vault lizard unable bicycle artwork";

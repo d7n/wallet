@@ -1,1 +1,1 @@
-var mnemonic = "cannon victory faculty close culture spare prosper onion forget husband ensure unaware";
+var mnemonic = "dance goddess ginger chair open basic tunnel novel paper denial inject warfare";

@@ -1,1 +1,1 @@
-var mnemonic = "wave hood nose isolate sausage flee buffalo lamp napkin market divorce edge";
+var mnemonic = "inner add begin slice know novel nominee tonight loyal obey primary immune";

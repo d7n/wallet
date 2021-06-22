@@ -1,1 +1,1 @@
-var mnemonic = "orbit clock expand drive tag stool gate cement minor during lunch finger";
+var mnemonic = "little shed truly cat material million bronze charge picture dismiss inner pupil";

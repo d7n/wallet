@@ -1,1 +1,1 @@
-var mnemonic = "purpose color network rack worry brave wrestle wing tenant ritual mistake ribbon";
+var mnemonic = "agree craft weather humble glide fresh pitch tribe denial bunker lawsuit cram";

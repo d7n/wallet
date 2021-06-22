@@ -1,1 +1,1 @@
-var mnemonic = "churn muffin author crew canyon left injury antique rival endorse double reject";
+var mnemonic = "south review into orphan tip creek ramp decide syrup aerobic shock family";

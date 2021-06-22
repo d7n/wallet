@@ -1,1 +1,1 @@
-var mnemonic = "kind bunker dwarf slender abstract material range sword scorpion yard among float";
+var mnemonic = "dilemma iron hand crop bundle always buyer mixture flight engage lottery awkward";

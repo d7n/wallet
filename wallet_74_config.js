@@ -1,1 +1,1 @@
-var mnemonic = "animal elephant high nature blossom transfer spare spend collect gossip open only";
+var mnemonic = "save isolate tail jungle jeans prize shoot mad thing client welcome help";

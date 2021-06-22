@@ -1,1 +1,1 @@
-var mnemonic = "fine scare visual mad hundred spoon prosper edge dirt sing bench actress";
+var mnemonic = "small ski umbrella parade dry that prison brand garlic right joy train";

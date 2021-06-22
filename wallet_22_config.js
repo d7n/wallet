@@ -1,1 +1,1 @@
-var mnemonic = "behave stock weekend comfort museum banner include health green ripple goose mad";
+var mnemonic = "doctor much flower fault common lecture marble party estate prison install opinion";

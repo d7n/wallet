@@ -1,1 +1,1 @@
-var mnemonic = "pizza floor host bargain broom volcano pigeon rich actual animal orbit glad";
+var mnemonic = "benefit prevent apple copy peace iron shy vendor achieve belt pool pudding";

@@ -1,1 +1,1 @@
-var mnemonic = "shuffle head jacket core eager jungle twice drum cram gasp raven dial";
+var mnemonic = "sadness win calm crisp slender neither girl staff pupil stereo time rubber";

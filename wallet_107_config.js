@@ -1,1 +1,1 @@
-var mnemonic = "drill fly strong slam main nothing wisdom chief drum pitch gain exhibit";
+var mnemonic = "old later bar obey lens april again zone picture deliver acquire category";

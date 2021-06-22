@@ -1,1 +1,1 @@
-var mnemonic = "limit fever crumble donate feed call wool model venue cable goddess valid";
+var mnemonic = "estate limit during enact question tank palm various artist awkward liquid century";

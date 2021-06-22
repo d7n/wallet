@@ -1,1 +1,1 @@
-var mnemonic = "toe glad sport announce way arm broom two guide patch actor shop";
+var mnemonic = "farm require exotic sound half october home sad sausage evolve image neglect";

@@ -1,1 +1,1 @@
-var mnemonic = "upper praise sponsor ancient cattle gasp make crawl bullet siren whisper copy";
+var mnemonic = "into victory leg slush jeans spice couch sell vote raven salad birth";

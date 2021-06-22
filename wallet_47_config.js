@@ -1,1 +1,1 @@
-var mnemonic = "public mother sphere flush discover sleep flight lab narrow radio poem organ";
+var mnemonic = "immense bunker neutral slot shoot surround chalk estate latin lemon bean nothing";

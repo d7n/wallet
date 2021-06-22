@@ -1,1 +1,1 @@
-var mnemonic = "faith road advice innocent liar extra add mom bag excuse category together";
+var mnemonic = "timber donate sea exclude vessel time smile knife chalk solve skin topple";

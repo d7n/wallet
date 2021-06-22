@@ -1,1 +1,1 @@
-var mnemonic = "answer verify believe must violin embody connect indicate reduce lava orbit happy";
+var mnemonic = "goat clever donkey rely chief silver ice exchange view rally release near";

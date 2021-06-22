@@ -1,1 +1,1 @@
-var mnemonic = "attend march work leave laugh pelican giraffe orchard satoshi source pattern slender";
+var mnemonic = "run nominee cruel crucial item fee fluid dose bulb trust kind breeze";

@@ -1,1 +1,1 @@
-var mnemonic = "zone shop action episode surface inject crack rotate immense jump evil vast";
+var mnemonic = "moment sword stone lyrics buffalo elder casual similar labor cage next calm";

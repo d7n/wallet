@@ -1,1 +1,1 @@
-var mnemonic = "primary enough trip gym pupil vast vendor vast tone absorb illegal high";
+var mnemonic = "erode more boil entire ill meat alone hire length galaxy tone pretty";

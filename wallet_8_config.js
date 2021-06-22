@@ -1,1 +1,1 @@
-var mnemonic = "step romance distance bundle embody check sock train become shove evil poem";
+var mnemonic = "penalty text pyramid grape resemble dry confirm disorder together rich cube welcome";

@@ -1,1 +1,1 @@
-var mnemonic = "pride chat fame sun volcano mail powder deer setup bomb visual forest";
+var mnemonic = "corn drive tomorrow wagon law primary flavor soap want today weasel tortoise";

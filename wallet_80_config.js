@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit involve gentle dry empty hole mom heavy hazard latin language outer";
+var mnemonic = "secret motor throw admit hat punch cave vehicle coast govern slim weather";

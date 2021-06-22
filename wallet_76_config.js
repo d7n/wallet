@@ -1,1 +1,1 @@
-var mnemonic = "boil fitness carry access visual road kick chest pencil alter century pet";
+var mnemonic = "corn cluster sibling ordinary minor table globe erode sentence ripple issue drama";

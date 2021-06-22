@@ -1,1 +1,1 @@
-var mnemonic = "coil scrub glass lava disagree fever brick first debate gym soft traffic";
+var mnemonic = "manual expose piano expire novel street snake gift apology lion prosper gesture";

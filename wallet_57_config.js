@@ -1,1 +1,1 @@
-var mnemonic = "phone capital modify trick addict split chef virus arm badge random slight";
+var mnemonic = "harvest profit half found initial inner foil fault situate govern wild grass";

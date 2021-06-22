@@ -1,1 +1,1 @@
-var mnemonic = "oppose private useless blind draft visual wife excite school wink sweet banner";
+var mnemonic = "enlist prosper crazy execute interest wish grain stuff frost arrest merry casino";

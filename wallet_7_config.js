@@ -1,1 +1,1 @@
-var mnemonic = "predict sense cheap flame want rhythm million sample gospel panic vendor doctor";
+var mnemonic = "arena exotic entire tag gas hollow room merge then quote trigger quantum";

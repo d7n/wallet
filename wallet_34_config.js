@@ -1,1 +1,1 @@
-var mnemonic = "pact weapon armor online hope pulp grass salmon venue empty seed present";
+var mnemonic = "fitness seminar answer wild almost already later dry swear bench maid flavor";

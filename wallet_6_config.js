@@ -1,1 +1,1 @@
-var mnemonic = "parent avoid display wagon weekend endless kick action this rough theme bamboo";
+var mnemonic = "virus regular announce awkward pond vibrant model make survey welcome during august";

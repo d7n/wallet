@@ -1,1 +1,1 @@
-var mnemonic = "online scissors source giraffe abandon lamp twice first result endless critic tape";
+var mnemonic = "used wisdom climb mammal endorse remind work prefer wrong enemy twist ozone";

@@ -1,1 +1,1 @@
-var mnemonic = "faint bone reject neutral phone buyer bleak quick oil castle electric kick";
+var mnemonic = "give belt fork world science village code jacket seven twice ride sail";

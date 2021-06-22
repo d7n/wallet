@@ -1,1 +1,1 @@
-var mnemonic = "sustain panther trumpet seven wrap search plunge friend wait play hat planet";
+var mnemonic = "squirrel leader toddler luggage voyage grid scan share square congress talk lend";

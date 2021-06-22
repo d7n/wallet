@@ -1,1 +1,1 @@
-var mnemonic = "typical earth book rifle crew remind motor catalog erosion work sphere lottery";
+var mnemonic = "crack always mixture vacant need gauge raccoon protect win caution social north";

@@ -1,1 +1,1 @@
-var mnemonic = "rapid stadium aisle smoke bar cattle box unhappy carbon sad junk viable";
+var mnemonic = "unknown retire dice lake city bleak sail faint loan copy burst assist";

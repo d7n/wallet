@@ -1,1 +1,1 @@
-var mnemonic = "chest six bless pelican slogan frozen absent vacant rabbit later exhibit middle";
+var mnemonic = "easy true elder earth quote bargain crisp omit unable unable miracle federal";

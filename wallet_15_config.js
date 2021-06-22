@@ -1,1 +1,1 @@
-var mnemonic = "black father castle control item lonely health picnic birth crunch inspire identify";
+var mnemonic = "eye behind firm brain topple siren execute knock horror acquire reward top";

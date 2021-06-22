@@ -1,1 +1,1 @@
-var mnemonic = "frost spy tribe cradle fun goddess drip aunt knife hood pilot grid";
+var mnemonic = "pistol loan build curve recycle gun melt suggest aunt true state biology";

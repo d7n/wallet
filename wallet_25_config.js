@@ -1,1 +1,1 @@
-var mnemonic = "water patrol banana unaware exclude custom company inmate narrow payment today clinic";
+var mnemonic = "paddle sponsor steak swallow version lemon outside grain before strategy scorpion arm";

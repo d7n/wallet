@@ -1,1 +1,1 @@
-var mnemonic = "transfer write shrug anger blade verify use whale cigar faith punch decorate";
+var mnemonic = "abuse keen frequent duck concert news enhance stairs iron leader exile mother";

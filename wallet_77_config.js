@@ -1,1 +1,1 @@
-var mnemonic = "asset dove stove bundle tribe gorilla bridge picture exhibit obey thought stable";
+var mnemonic = "dismiss mercy regret runway once slam valid fat yellow funny garden element";

@@ -1,1 +1,1 @@
-var mnemonic = "myth gold connect stage brave beyond surface resist add obey focus potato";
+var mnemonic = "talk essay submit pepper rain blush party luxury sadness february absorb supreme";

@@ -1,1 +1,1 @@
-var mnemonic = "depart truly run bounce ridge athlete slam air display process illness shed";
+var mnemonic = "street tent uncover replace faint mixed traffic wood shield method reject kick";

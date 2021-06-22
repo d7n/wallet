@@ -1,1 +1,1 @@
-var mnemonic = "burden ready about museum best dash pattern tourist opera board apology guitar";
+var mnemonic = "process service little immune brick equal ivory increase organ icon universe try";

@@ -1,1 +1,1 @@
-var mnemonic = "success aware gain purchase toward lock rabbit bomb drum fortune toddler crush";
+var mnemonic = "version cable endless biology evoke nominee moral aspect month obtain orbit marble";

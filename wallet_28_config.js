@@ -1,1 +1,1 @@
-var mnemonic = "march want wool jar return desk cake blouse crawl aim senior kidney";
+var mnemonic = "reward diary album search suggest oppose solve federal glad message patch much";

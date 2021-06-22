@@ -1,1 +1,1 @@
-var mnemonic = "manual witness moment patrol race excite tree gun burger can bag canoe";
+var mnemonic = "relief wrong first oblige sand hollow reason heart belt auto owner clay";

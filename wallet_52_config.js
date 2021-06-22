@@ -1,1 +1,1 @@
-var mnemonic = "wine tomato gesture mimic arrow habit slab autumn moment arrange horror ecology";
+var mnemonic = "curve video stadium swing claw weasel essence black then better original boil";

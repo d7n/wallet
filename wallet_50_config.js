@@ -1,1 +1,1 @@
-var mnemonic = "bracket spoil ticket deer wide virus kiss attack caution range spring bottom";
+var mnemonic = "entry corn arm include february present work shrimp only gas weather long";

@@ -1,1 +1,1 @@
-var mnemonic = "water claw soap gauge honey cancel decline fatal brush wrist eight dream";
+var mnemonic = "corn fan region burger buzz reveal girl wait pool regret nothing advice";

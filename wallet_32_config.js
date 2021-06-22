@@ -1,1 +1,1 @@
-var mnemonic = "finish strong shadow flame pulp nerve shaft lizard negative squeeze bench wisdom";
+var mnemonic = "cage powder myself giraffe vault beef olympic oppose phone pause add basic";

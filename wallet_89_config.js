@@ -1,1 +1,1 @@
-var mnemonic = "notable rice square spoon believe tape marble syrup impulse kitten plastic capable";
+var mnemonic = "trophy area human income gossip world hard drastic hazard column apart fall";

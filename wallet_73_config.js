@@ -1,1 +1,1 @@
-var mnemonic = "equal evidence host mad planet mix cannon list only clown dinner gossip";
+var mnemonic = "fatal sign advice twice legend grass goat kid ordinary canvas disease trade";

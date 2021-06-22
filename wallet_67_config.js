@@ -1,1 +1,1 @@
-var mnemonic = "later together state clever upset cup segment strategy wrong illness curtain climb";
+var mnemonic = "planet cheap oblige mad caution purity ozone flat latin happy people later";

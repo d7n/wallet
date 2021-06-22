@@ -1,1 +1,1 @@
-var mnemonic = "negative skate until jazz dinner outdoor venue silly latin boat bacon print";
+var mnemonic = "way valid bring space woman truly front horn key gaze pulse measure";

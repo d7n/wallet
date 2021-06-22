@@ -1,1 +1,1 @@
-var mnemonic = "remain ask trophy summer sail small foil vote deal sight swim inhale";
+var mnemonic = "turtle reject around decide tiny power hello romance tuition distance absorb into";

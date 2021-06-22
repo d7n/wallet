@@ -1,1 +1,1 @@
-var mnemonic = "design ahead annual rifle daughter rookie key card project coach universe bright";
+var mnemonic = "range oven seek cement divorce stable whisper keep spoon sport sunny change";

@@ -1,1 +1,1 @@
-var mnemonic = "side focus uphold upgrade hungry base utility attitude food globe anger win";
+var mnemonic = "kitchen bread novel judge inhale island grape region silent session split rug";

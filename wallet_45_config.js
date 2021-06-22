@@ -1,1 +1,1 @@
-var mnemonic = "pride virtual circle load expect color ribbon faint lady inner meadow artwork";
+var mnemonic = "deputy eagle surround mule absorb adult board empower aspect erase uncover scatter";

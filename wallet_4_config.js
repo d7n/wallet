@@ -1,1 +1,1 @@
-var mnemonic = "coral place claw churn grunt stamp front concert sibling size pottery panther";
+var mnemonic = "ritual mother base bind inflict wish badge sunset gap forum dog roast";
