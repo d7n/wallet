@@ -1,1 +1,1 @@
-var mnemonic = "envelope salon harbor junior gentle seminar close stamp enjoy hobby comfort matrix";
+var mnemonic = "option miracle ice general danger popular horn hunt reform between smile thrive";

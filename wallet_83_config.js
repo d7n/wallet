@@ -1,1 +1,1 @@
-var mnemonic = "relax fit dice jealous alien else stem walk pupil reduce fork swear";
+var mnemonic = "index scale annual deer night describe deny ring among artwork achieve latin";

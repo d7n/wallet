@@ -1,1 +1,1 @@
-var mnemonic = "attack dice inhale acoustic message parent brief guitar cupboard wheat flame pony";
+var mnemonic = "pelican noodle base yard float elegant price capable exist fetch mandate license";

@@ -1,1 +1,1 @@
-var mnemonic = "spare talk proof trouble best goat toe marine adult pig prosper injury";
+var mnemonic = "matrix report hotel cupboard net barrel obtain wolf green embody emotion scare";

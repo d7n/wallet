@@ -1,1 +1,1 @@
-var mnemonic = "absorb square diary vehicle fly degree solid good success relax live wait";
+var mnemonic = "profit garlic convince host mutual acquire relax motor eagle bamboo pear service";

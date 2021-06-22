@@ -1,1 +1,1 @@
-var mnemonic = "robot about gas trash matter behave minute direct luxury vivid depth merge";
+var mnemonic = "theory ginger mean install cry chimney copy tunnel fine found inner nurse";

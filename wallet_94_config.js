@@ -1,1 +1,1 @@
-var mnemonic = "slight swap twin report fork cluster dose blind wild family action robust";
+var mnemonic = "tape convince express blue elevator culture wash girl shield vintage address normal";

@@ -1,1 +1,1 @@
-var mnemonic = "album raven pear marble under purity submit space patch finish work history";
+var mnemonic = "stomach nation south rule hill stick educate gadget where deputy air crawl";

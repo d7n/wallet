@@ -1,1 +1,1 @@
-var mnemonic = "life puppy odor bronze federal media song deposit bomb holiday coffee sponsor";
+var mnemonic = "piece federal width suspect resist toe master badge pluck distance neutral secret";

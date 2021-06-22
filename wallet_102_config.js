@@ -1,1 +1,1 @@
-var mnemonic = "wrist soda void whip grunt erode legal buddy negative civil undo nothing";
+var mnemonic = "express clinic air chimney soap long eager display drink reflect merit discover";

@@ -1,1 +1,1 @@
-var mnemonic = "virus between gallery win beach afraid ribbon logic destroy dragon evidence amount";
+var mnemonic = "food anchor such diet crater normal skin that harvest okay unusual fantasy";

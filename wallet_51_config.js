@@ -1,1 +1,1 @@
-var mnemonic = "lift nephew panther destroy eager void away fox wealth ticket furnace comfort";
+var mnemonic = "lion slim vital session conduct meadow eight apple waste mix box protect";

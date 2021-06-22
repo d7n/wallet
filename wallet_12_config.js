@@ -1,1 +1,1 @@
-var mnemonic = "country calm mobile over guilt exist rug food airport cabbage mesh cube";
+var mnemonic = "fork struggle devote crew faith only piano hole west grain wasp inch";

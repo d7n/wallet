@@ -1,1 +1,1 @@
-var mnemonic = "chief room shy swim neutral chapter inmate canvas garment airport urban rural";
+var mnemonic = "clarify economy liberty session code state network apple final dash park burger";

@@ -1,1 +1,1 @@
-var mnemonic = "essence mango win maid grain copper ranch soda already car kite hard";
+var mnemonic = "million science roof pull tragic panic mammal squeeze property enhance banana ready";

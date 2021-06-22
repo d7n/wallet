@@ -1,1 +1,1 @@
-var mnemonic = "walnut deer level limb strategy security joke file pupil patch taxi canoe";
+var mnemonic = "way gold suffer symbol bounce snow heart undo enemy square there relief";

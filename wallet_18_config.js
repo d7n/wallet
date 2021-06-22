@@ -1,1 +1,1 @@
-var mnemonic = "mimic proof crop night copper demise dish solid gap phrase tunnel tower";
+var mnemonic = "advance canyon amount game physical lava hole update garbage hero give glue";

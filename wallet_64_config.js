@@ -1,1 +1,1 @@
-var mnemonic = "defense calm unhappy deer fence force foam early among vault hamster sick";
+var mnemonic = "chronic faint injury demise jacket crowd lounge disorder edit mirror smart fence";

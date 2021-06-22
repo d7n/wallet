@@ -1,1 +1,1 @@
-var mnemonic = "quantum similar grow noble punch basket clip chair elevator guitar birth caution";
+var mnemonic = "struggle lecture prison shrug mouse fortune jar urban equal artwork tail woman";

@@ -1,1 +1,1 @@
-var mnemonic = "toddler gossip flavor endorse census dune hungry scorpion attend crime sand dog";
+var mnemonic = "bind empty spot inmate broccoli deal provide feel certain cricket forget nose";

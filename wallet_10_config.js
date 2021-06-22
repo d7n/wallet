@@ -1,1 +1,1 @@
-var mnemonic = "capable trouble suit goose feel crouch option random calm often edit sorry";
+var mnemonic = "kangaroo trick slab cream draw weasel onion now purpose wagon human bid";

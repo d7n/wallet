@@ -1,1 +1,1 @@
-var mnemonic = "silver use spell trigger flash sport scene federal spray reveal stay assist";
+var mnemonic = "early liquid moral mixture few poverty dynamic jealous beyond display rude range";

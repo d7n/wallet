@@ -1,1 +1,1 @@
-var mnemonic = "useful sphere venture you twin loop lecture veteran armed either unable sausage";
+var mnemonic = "impact involve board title solve multiply coconut truck version boil proud peasant";

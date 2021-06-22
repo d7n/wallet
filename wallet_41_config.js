@@ -1,1 +1,1 @@
-var mnemonic = "job treat powder gossip blossom genuine acquire turtle tool call govern raccoon";
+var mnemonic = "wage will diet friend mom help chair ancient glory romance nation rich";

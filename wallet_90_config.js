@@ -1,1 +1,1 @@
-var mnemonic = "pulp pigeon final hurdle define novel diet kid title explain thing reunion";
+var mnemonic = "organ private warrior again ceiling treat dinner vault apart promote prison split";

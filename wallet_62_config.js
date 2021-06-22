@@ -1,1 +1,1 @@
-var mnemonic = "spell decide cannon reason rain join cabbage thunder offer wing basic runway";
+var mnemonic = "earth health denial sight enhance icon mixed crumble mandate layer enhance wink";

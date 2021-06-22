@@ -1,1 +1,1 @@
-var mnemonic = "judge need symbol gas wink misery noble cargo mass claim exist room";
+var mnemonic = "brass attitude return view expire lyrics race giggle elder leg remain pledge";

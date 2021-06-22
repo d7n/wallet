@@ -1,1 +1,1 @@
-var mnemonic = "catalog battle slight extra laundry much thank spot nature achieve secret dove";
+var mnemonic = "human check tree pulp disagree novel easy metal wrap sheriff elder emerge";

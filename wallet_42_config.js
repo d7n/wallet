@@ -1,1 +1,1 @@
-var mnemonic = "impulse meadow fly parade outer cost wrong misery pepper narrow they check";
+var mnemonic = "dynamic spike much betray bracket mistake wild found bless eager various jar";

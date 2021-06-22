@@ -1,1 +1,1 @@
-var mnemonic = "model true payment indicate initial pumpkin negative ugly friend flee divert list";
+var mnemonic = "tilt skirt few behave rebuild dinosaur nerve supreme they brother expose win";

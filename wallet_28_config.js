@@ -1,1 +1,1 @@
-var mnemonic = "park dad blue remind segment diagram prize demise borrow street session hint";
+var mnemonic = "harvest dilemma debris pill stereo owner pelican minor episode notice second copy";

@@ -1,1 +1,1 @@
-var mnemonic = "relief silly link age hamster fuel mystery tired feature add abandon flip";
+var mnemonic = "palm trend program recipe decide inspire version churn solid draw melt embark";

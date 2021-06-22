@@ -1,1 +1,1 @@
-var mnemonic = "dumb benefit spike rural add dizzy salt vast become party glass situate";
+var mnemonic = "manual color hello knee royal gun goddess weapon ice duty plug meat";

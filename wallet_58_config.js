@@ -1,1 +1,1 @@
-var mnemonic = "orchard defy apart bar tide vocal category cart tent pistol chief mushroom";
+var mnemonic = "mix devote under owner oblige divide maple strike advance surround october trial";

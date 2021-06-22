@@ -1,1 +1,1 @@
-var mnemonic = "upgrade behave elite lift popular fiber cancel crazy test skin series eye";
+var mnemonic = "price choose october cargo skull mass dutch vanish era bulb injury raccoon";

@@ -1,1 +1,1 @@
-var mnemonic = "sting ritual lab auction laugh dry party gauge segment slush praise marine";
+var mnemonic = "toilet rich piece payment invite detect kiwi floor battle struggle find journey";

@@ -1,1 +1,1 @@
-var mnemonic = "exile frog venue park coach focus jaguar spring flash spawn plate battle";
+var mnemonic = "van quantum afford garment tourist window original treat theory safe tiger sign";

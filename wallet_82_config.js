@@ -1,1 +1,1 @@
-var mnemonic = "unfair drama team sock chuckle health valley runway lecture sign flag kind";
+var mnemonic = "smart pill analyst novel armed tool rate used secret question desk viable";

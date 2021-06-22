@@ -1,1 +1,1 @@
-var mnemonic = "announce bread trap quality wonder flock extend calm leave relief antique drink";
+var mnemonic = "coconut faint rival digital two various cactus liberty lift mom river exhibit";

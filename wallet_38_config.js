@@ -1,1 +1,1 @@
-var mnemonic = "forum basic luggage garbage loud crop devote collect tonight yellow arrow amazing";
+var mnemonic = "solar first unveil unaware boat used extend exclude maximum direct crime swing";

@@ -1,1 +1,1 @@
-var mnemonic = "dwarf scorpion grocery chimney purchase ankle pill expect proud discover sound rule";
+var mnemonic = "mushroom verify wine wealth fame escape whale visa pioneer plug inherit demand";

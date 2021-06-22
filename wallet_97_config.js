@@ -1,1 +1,1 @@
-var mnemonic = "team thumb price future curtain vault town present dizzy lucky display faculty";
+var mnemonic = "reward ability spread hotel road napkin regret grain aunt about cruel saddle";

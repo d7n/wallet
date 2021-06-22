@@ -1,1 +1,1 @@
-var mnemonic = "execute hire saddle wise sheriff gospel angle genre inhale practice slender trip";
+var mnemonic = "brown load soda walk jazz shadow until soda purpose saddle club bronze";

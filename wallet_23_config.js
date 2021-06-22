@@ -1,1 +1,1 @@
-var mnemonic = "diagram boost office toe hunt fade belt armed minimum sugar banner dizzy";
+var mnemonic = "proud spring snake kingdom hard dad depend then august south vital flash";

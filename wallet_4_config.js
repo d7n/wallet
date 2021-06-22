@@ -1,1 +1,1 @@
-var mnemonic = "play write approve truly term grit soon mixture vibrant census sad job";
+var mnemonic = "weasel genius symptom elbow exact seat tree relief organ gown twice aspect";

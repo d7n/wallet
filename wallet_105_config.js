@@ -1,1 +1,1 @@
-var mnemonic = "cereal faculty remain rare gain lift hero puzzle toilet toilet kid agree";
+var mnemonic = "aware extend calm cattle door culture oven fatigue group lizard ozone live";

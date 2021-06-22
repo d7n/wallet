@@ -1,1 +1,1 @@
-var mnemonic = "helmet science broken awake robust tube task silver identify blanket barely eyebrow";
+var mnemonic = "crater ketchup clock snake once dog stadium orange panther track pave bamboo";

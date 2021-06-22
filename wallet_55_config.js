@@ -1,1 +1,1 @@
-var mnemonic = "festival alley donkey upgrade poet often teach company try embrace jewel until";
+var mnemonic = "unfold miss pet utility kiwi enter shell noodle giggle motor candy across";

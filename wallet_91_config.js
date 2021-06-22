@@ -1,1 +1,1 @@
-var mnemonic = "solve pact hockey arctic seat because will couch beyond girl fault wink";
+var mnemonic = "jungle tobacco trouble blouse prevent gadget inquiry reduce rail trigger broom game";

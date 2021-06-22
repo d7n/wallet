@@ -1,1 +1,1 @@
-var mnemonic = "avocado typical shrimp lift neither trumpet glory pass sweet track sunny pelican";
+var mnemonic = "coral wheat dumb sustain say furnace absurd fever charge reject depend girl";

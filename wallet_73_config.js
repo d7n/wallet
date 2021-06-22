@@ -1,1 +1,1 @@
-var mnemonic = "original tube capable system giant roast pigeon little crazy expose differ city";
+var mnemonic = "problem toddler saddle kit gentle winter this diamond cactus concert tonight peace";

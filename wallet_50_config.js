@@ -1,1 +1,1 @@
-var mnemonic = "claw leaf long life junior wisdom arrow census thing shrimp airport usage";
+var mnemonic = "adult relief abandon ancient property add spring fence again lonely timber bicycle";

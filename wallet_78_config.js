@@ -1,1 +1,1 @@
-var mnemonic = "reunion adapt comfort convince mix sponsor cry custom flight hill cement fury";
+var mnemonic = "surface attitude run salute castle force copy ethics year limit exotic field";

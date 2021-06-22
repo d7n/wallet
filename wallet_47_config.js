@@ -1,1 +1,1 @@
-var mnemonic = "process fabric exhibit manual detect empty diamond sustain dinosaur disease tower dog";
+var mnemonic = "planet brief frame forget hair recipe method delay core april rail collect";

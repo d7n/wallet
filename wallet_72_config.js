@@ -1,1 +1,1 @@
-var mnemonic = "suspect combine friend diagram normal fragile fame rabbit tower damage dune aim";
+var mnemonic = "zero million prison dog upset dentist trumpet isolate bunker save lava gossip";

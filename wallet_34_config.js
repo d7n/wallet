@@ -1,1 +1,1 @@
-var mnemonic = "trade close oval session weather horror cigar super wire frog rigid stomach";
+var mnemonic = "member anger candy age dwarf please horse give squeeze tone like artwork";

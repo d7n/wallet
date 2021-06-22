@@ -1,1 +1,1 @@
-var mnemonic = "nut category other equal road depth hockey collect muffin crack nothing mirror";
+var mnemonic = "guitar fiscal dance gauge turn scheme rabbit tone erosion over eyebrow burst";

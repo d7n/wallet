@@ -1,1 +1,1 @@
-var mnemonic = "gallery photo fame model quarter blush acid clock tribe pact argue choice";
+var mnemonic = "future leave current phrase flight room essence obscure kick violin poem uniform";

@@ -1,1 +1,1 @@
-var mnemonic = "sight possible absurd penalty squeeze shiver sea gain deal arctic casual exit";
+var mnemonic = "glance stadium sister sister expire ladder cliff duck amazing age master street";

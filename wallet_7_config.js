@@ -1,1 +1,1 @@
-var mnemonic = "seven attend truly narrow useful undo battle decade repeat immense silly logic";
+var mnemonic = "reform jaguar middle tag size foot toddler upgrade mom credit girl document";

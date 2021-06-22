@@ -1,1 +1,1 @@
-var mnemonic = "ten special jaguar follow crumble task wolf cabin absurd gospel pencil thank";
+var mnemonic = "social calm cram pill youth visual tragic snake tornado spoil absent actual";

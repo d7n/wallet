@@ -1,1 +1,1 @@
-var mnemonic = "lunch inhale end mom hour nuclear media feel security bomb tray tide";
+var mnemonic = "town salmon roast endorse vast into mom detect wave grant letter blast";

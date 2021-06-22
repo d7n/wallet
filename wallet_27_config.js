@@ -1,1 +1,1 @@
-var mnemonic = "minute welcome ankle year what amateur twelve pass coral elephant brave soccer";
+var mnemonic = "misery spring cat lamp material slab truth slim grape heavy raven core";

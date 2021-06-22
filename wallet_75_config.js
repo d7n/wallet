@@ -1,1 +1,1 @@
-var mnemonic = "border beyond bid fade affair basket acoustic planet valid sniff scout bleak";
+var mnemonic = "busy north amazing fault kidney evolve link web offer oven wife doll";

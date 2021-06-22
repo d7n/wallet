@@ -1,1 +1,1 @@
-var mnemonic = "draft orbit trouble verb tube accident roof vote palm sand sea brand";
+var mnemonic = "always guilt title leopard mad avocado element endless problem carry axis silly";

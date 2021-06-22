@@ -1,1 +1,1 @@
-var mnemonic = "nut round perfect catalog boil pave lunar van float stool train rice";
+var mnemonic = "month actor seek turn toss spice shaft stone catalog change usual swear";

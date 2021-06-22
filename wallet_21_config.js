@@ -1,1 +1,1 @@
-var mnemonic = "elegant whip account turtle plug much various hello stable fresh dutch fiscal";
+var mnemonic = "rally crumble margin sleep item party team original journey need treat kangaroo";

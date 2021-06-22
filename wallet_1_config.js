@@ -1,1 +1,1 @@
-var mnemonic = "success kit gasp tortoise absurd bind second season isolate range still enough";
+var mnemonic = "awful hunt hockey heart female chair hamster rebel because world enable patient";

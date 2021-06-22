@@ -1,1 +1,1 @@
-var mnemonic = "supply cross kidney rally eight improve seven wait myth buyer frame disagree";
+var mnemonic = "assault invite marble cram area acoustic steel great type mammal eight need";

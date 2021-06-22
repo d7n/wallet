@@ -1,1 +1,1 @@
-var mnemonic = "noise menu scan sibling heart agent garbage dawn local service dream dash";
+var mnemonic = "depth narrow execute polar rocket brother ticket profit fly thumb spend midnight";

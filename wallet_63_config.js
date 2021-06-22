@@ -1,1 +1,1 @@
-var mnemonic = "rookie thing mad brief rotate feature noodle invite history series opera grow";
+var mnemonic = "someone twenty tobacco avocado orient injury spice symbol yellow entire tired talk";

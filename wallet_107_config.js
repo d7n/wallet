@@ -1,1 +1,1 @@
-var mnemonic = "fame ice priority address wisdom umbrella abandon weather tilt erode border ozone";
+var mnemonic = "edit hospital brief unique panda barely fox attack spice ten umbrella cream";

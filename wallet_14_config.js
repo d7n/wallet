@@ -1,1 +1,1 @@
-var mnemonic = "pill peace garlic art know stereo wait sorry detail decorate arrange early";
+var mnemonic = "intact near object occur film junk yard sponsor remember tilt junk faint";

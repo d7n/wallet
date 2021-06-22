@@ -1,1 +1,1 @@
-var mnemonic = "glove false come easily tackle cheap sheriff enrich juice exit slice speed";
+var mnemonic = "black upper clay whip clog insane matrix giant noise vague whisper flame";

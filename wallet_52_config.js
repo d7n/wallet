@@ -1,1 +1,1 @@
-var mnemonic = "boil mind idle review woman pet educate alert carbon north animal melt";
+var mnemonic = "cover apple undo spell vapor scene chief diamond track enable cable merit";

@@ -1,1 +1,1 @@
-var mnemonic = "opera gold someone gain sample agree use carry stadium soul involve rocket";
+var mnemonic = "donkey grocery glimpse police pipe artwork bleak owner crash six grace few";

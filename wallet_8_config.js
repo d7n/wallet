@@ -1,1 +1,1 @@
-var mnemonic = "drastic worth churn mixed already speed beach confirm hard advance celery noodle";
+var mnemonic = "amateur bargain elbow dish evidence lunch usage danger cable blanket lucky club";

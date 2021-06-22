@@ -1,1 +1,1 @@
-var mnemonic = "cash language brief square drift rack shed sight design foster question type";
+var mnemonic = "during cereal comfort squirrel crucial tower spray solar judge jazz search office";

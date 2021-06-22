@@ -1,1 +1,1 @@
-var mnemonic = "knee steak reform gap charge about witness legal real damage follow enhance";
+var mnemonic = "oppose gauge rent label cry disease solution upset learn plug slot online";

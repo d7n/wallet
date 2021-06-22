@@ -1,1 +1,1 @@
-var mnemonic = "point essay step thing engine report weasel monitor ceiling lecture scale west";
+var mnemonic = "middle able glance oval involve life armed churn narrow ghost glare base";

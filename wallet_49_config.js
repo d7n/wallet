@@ -1,1 +1,1 @@
-var mnemonic = "cook employ sunny oil swallow century guitar young chimney float anxiety measure";
+var mnemonic = "rally decorate supreme install check magnet stamp chief error phrase orange rural";

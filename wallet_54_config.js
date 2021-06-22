@@ -1,1 +1,1 @@
-var mnemonic = "have render beauty quote puppy measure muffin abandon allow jar damp foam";
+var mnemonic = "luxury gown skin concert live hamster update area point impose apology feel";

@@ -1,1 +1,1 @@
-var mnemonic = "risk achieve camp brand unique sport rude cliff excite ocean amount crater";
+var mnemonic = "west list ball dice roof wealth bulk approve domain enough satisfy metal";

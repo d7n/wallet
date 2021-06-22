@@ -1,1 +1,1 @@
-var mnemonic = "stone pave peace deliver cruise try keen corn glove creek shock expand";
+var mnemonic = "broken poem cricket until hurt glance someone treat dentist like ritual chuckle";

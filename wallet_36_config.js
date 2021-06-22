@@ -1,1 +1,1 @@
-var mnemonic = "educate cost mandate flight vague upon true abstract grass photo six stairs";
+var mnemonic = "basket vehicle february weapon husband shoe above relax resource option trap praise";

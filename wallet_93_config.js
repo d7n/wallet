@@ -1,1 +1,1 @@
-var mnemonic = "deer exist angle helmet visual snap oil prepare cotton resist clump boring";
+var mnemonic = "ride dizzy funny comfort identify column estate family critic gadget wire middle";

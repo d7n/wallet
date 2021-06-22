@@ -1,1 +1,1 @@
-var mnemonic = "multiply palace stumble enact wing put any suit impact guitar pony saddle";
+var mnemonic = "tonight dismiss season device pelican window bus morning zone hotel rain lamp";

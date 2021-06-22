@@ -1,1 +1,1 @@
-var mnemonic = "other crucial when network midnight alter curve enter west trust beef armor";
+var mnemonic = "crew illness segment engage bird fabric curtain fossil soldier curious draft bundle";

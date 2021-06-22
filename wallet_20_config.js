@@ -1,1 +1,1 @@
-var mnemonic = "gasp liquid pupil bamboo walk fragile delay next verb maximum blind brick";
+var mnemonic = "first naive gap track what spot unveil climb derive symptom clown april";

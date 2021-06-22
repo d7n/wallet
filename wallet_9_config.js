@@ -1,1 +1,1 @@
-var mnemonic = "mansion night badge notice diary laundry milk witness little wisdom spatial thing";
+var mnemonic = "adult series install below science daughter lake drop energy venue swim salt";

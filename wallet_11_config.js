@@ -1,1 +1,1 @@
-var mnemonic = "regular trash genuine purchase ranch road viable summer wheel casino document sauce";
+var mnemonic = "warfare neck secret fluid sweet property first narrow prepare hour until salt";

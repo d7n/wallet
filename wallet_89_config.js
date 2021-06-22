@@ -1,1 +1,1 @@
-var mnemonic = "trial scare face moment addict hold mouse desk shiver inch legend spread";
+var mnemonic = "fog sight step cheese double chef flame solar glance fatigue comic chicken";

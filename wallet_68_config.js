@@ -1,1 +1,1 @@
-var mnemonic = "song busy flash apart song olive orbit inner stereo unaware tortoise hidden";
+var mnemonic = "field yard wheel neutral day despair assume edge future critic panther drill";
