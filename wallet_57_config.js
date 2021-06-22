@@ -1,1 +1,1 @@
-var mnemonic = "mechanic boring inject candy category velvet cattle interest merry solar arrow glad";
+var mnemonic = "stone chapter holiday ivory myself rubber hazard lawsuit section tone series month";

@@ -1,1 +1,1 @@
-var mnemonic = "middle exile remove wall simple wear hidden iron provide morning prevent sure";
+var mnemonic = "step captain mention tide oppose bicycle brisk hair ride achieve width pull";

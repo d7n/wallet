@@ -1,1 +1,1 @@
-var mnemonic = "special image dragon horror brisk appear chase peasant view mosquito tip unhappy";
+var mnemonic = "pride pride liquid auction advance travel menu whale matter machine cheese artefact";

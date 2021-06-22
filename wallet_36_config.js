@@ -1,1 +1,1 @@
-var mnemonic = "awful net cradle disorder sniff goose tongue expire congress swim text silver";
+var mnemonic = "cliff assume excess dwarf rack main hollow plunge decline divert miss repeat";

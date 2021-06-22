@@ -1,1 +1,1 @@
-var mnemonic = "special boil marriage assume minute acquire vocal nose garment desert impulse dismiss";
+var mnemonic = "calm fun ridge hint gallery athlete version borrow siege anger afraid night";

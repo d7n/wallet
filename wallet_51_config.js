@@ -1,1 +1,1 @@
-var mnemonic = "parrot vacant supreme left reduce diet recall desk cushion daring hospital image";
+var mnemonic = "obey advice myth gun trip copy expire real lava dinosaur hunt lawn";

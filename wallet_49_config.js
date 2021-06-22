@@ -1,1 +1,1 @@
-var mnemonic = "input crazy clay false shine turkey umbrella curious upset subject hedgehog pioneer";
+var mnemonic = "fork adjust spot ritual grid describe amused camera wait firm powder grape";

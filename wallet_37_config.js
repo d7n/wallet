@@ -1,1 +1,1 @@
-var mnemonic = "race clean caution keen lake robust degree orphan grant run perfect still";
+var mnemonic = "silly maple warrior member health ill tomorrow bind remind hat across illegal";

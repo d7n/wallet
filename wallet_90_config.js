@@ -1,1 +1,1 @@
-var mnemonic = "soda rhythm today double time frog brief model tomorrow position sound portion";
+var mnemonic = "flat joke tube quote load outdoor expire poverty box grant flight catalog";

@@ -1,1 +1,1 @@
-var mnemonic = "tumble tilt just tumble unfold save friend paddle trend dish must throw";
+var mnemonic = "scissors sponsor blanket fork cash eternal siege shoot else fresh theory butter";

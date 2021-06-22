@@ -1,1 +1,1 @@
-var mnemonic = "broom farm nominee casino tail shiver index force ethics win surge scheme";
+var mnemonic = "cube leave cabin jaguar exotic vintage connect brother decrease song crisp bunker";

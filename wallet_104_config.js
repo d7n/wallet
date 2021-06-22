@@ -1,1 +1,1 @@
-var mnemonic = "repair rival worry price make doll mule civil liar zoo coin hero";
+var mnemonic = "twelve wet situate merit melt garage waste melt list good snap mutual";

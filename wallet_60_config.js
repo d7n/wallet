@@ -1,1 +1,1 @@
-var mnemonic = "common truck absorb dog army jealous explain pelican example chef inspire twice";
+var mnemonic = "laundry ridge image make absurd noble gospel bubble easily apart march crush";

@@ -1,1 +1,1 @@
-var mnemonic = "heart various focus autumn emotion eight unknown oblige father way virtual expand";
+var mnemonic = "stock diesel critic fatal cook field can section bus assault useless learn";

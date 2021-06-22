@@ -1,1 +1,1 @@
-var mnemonic = "left live this found shoe spy organ rule stable transfer frequent onion";
+var mnemonic = "steel few puppy defy injury weather armor orange similar warm motion walk";

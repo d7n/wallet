@@ -1,1 +1,1 @@
-var mnemonic = "leisure three duty alcohol average oval impulse supreme anxiety oyster hill squirrel";
+var mnemonic = "blouse era anger lens unlock total nerve beyond pigeon name favorite gift";

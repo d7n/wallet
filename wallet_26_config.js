@@ -1,1 +1,1 @@
-var mnemonic = "doll grit sad animal woman humble carry march crucial gallery crouch enhance";
+var mnemonic = "way toward meadow other kidney word pizza mutual payment tornado dish side";

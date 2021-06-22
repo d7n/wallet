@@ -1,1 +1,1 @@
-var mnemonic = "cup convince motion toddler mouse gown ranch submit harvest math burger immense";
+var mnemonic = "salon ranch unusual patch among duty bid artwork leave below true town";

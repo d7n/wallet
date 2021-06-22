@@ -1,1 +1,1 @@
-var mnemonic = "hire table tuna salmon chimney monkey illness modify grunt want hope cigar";
+var mnemonic = "bike clutch detail slot naive arm tuition pelican witness arctic stumble knee";

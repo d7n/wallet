@@ -1,1 +1,1 @@
-var mnemonic = "total naive purity mean square water light choose electric paper mammal output";
+var mnemonic = "drop sphere govern arena bird tide six domain excite fade lab news";

@@ -1,1 +1,1 @@
-var mnemonic = "gap fold club reward cash antenna life adapt catalog obscure credit saddle";
+var mnemonic = "carpet ask relax solution core aisle medal hungry peasant language track possible";

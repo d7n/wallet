@@ -1,1 +1,1 @@
-var mnemonic = "sketch month churn pen addict bleak cement cherry ready ring live rough";
+var mnemonic = "orchard very erode nation trade toy pottery moon squeeze rubber setup piano";

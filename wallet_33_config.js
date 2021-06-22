@@ -1,1 +1,1 @@
-var mnemonic = "give express teach captain actual candy unhappy surround harvest smooth bamboo pepper";
+var mnemonic = "maze galaxy lecture injury bamboo liquid curve holiday lion chef region wool";

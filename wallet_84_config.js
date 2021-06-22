@@ -1,1 +1,1 @@
-var mnemonic = "file invite pond sustain cycle rifle divide price icon debate fit seven";
+var mnemonic = "crater good veteran weapon planet sort boost aisle alert ugly easily brave";

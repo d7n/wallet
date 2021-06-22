@@ -1,1 +1,1 @@
-var mnemonic = "pass dumb chicken bring network ring swift region enact wreck between practice";
+var mnemonic = "copper infant drink click spell father love inspire split much around table";

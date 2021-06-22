@@ -1,1 +1,1 @@
-var mnemonic = "keen settle either print slice sunny evil point quantum hawk dress once";
+var mnemonic = "bleak convince tank camera suit pitch sting chapter depart pulse stem popular";

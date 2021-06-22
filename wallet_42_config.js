@@ -1,1 +1,1 @@
-var mnemonic = "alien soda shed ring exist horror gather trim smooth piano salad curtain";
+var mnemonic = "fame expect scale sea unit bird original grunt dignity fly head vehicle";

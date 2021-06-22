@@ -1,1 +1,1 @@
-var mnemonic = "country broom pelican switch false desk baby outer possible link spatial index";
+var mnemonic = "split where biology require rocket frozen gentle hair beauty always pen daughter";

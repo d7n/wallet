@@ -1,1 +1,1 @@
-var mnemonic = "cheese mass oyster purpose salad fresh smooth slot feed problem scare pass";
+var mnemonic = "imitate such arrest box need cluster kid spring creek awful moral truck";

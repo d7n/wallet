@@ -1,1 +1,1 @@
-var mnemonic = "flush luxury where fix name shock luxury party combine live metal crisp";
+var mnemonic = "used unlock just wrap eyebrow boring human absurd pull ranch equal sample";

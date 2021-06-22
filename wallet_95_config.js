@@ -1,1 +1,1 @@
-var mnemonic = "snow mass reunion wolf camera dove nothing soap prevent shed illegal rotate";
+var mnemonic = "treat include flight inflict reform wild fabric provide unfair express boat nerve";

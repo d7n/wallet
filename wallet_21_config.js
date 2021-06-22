@@ -1,1 +1,1 @@
-var mnemonic = "impose fever useless capital loyal slush oak feed tower toast raven cluster";
+var mnemonic = "deputy supply april phrase tiny island lock citizen slice view unusual bubble";

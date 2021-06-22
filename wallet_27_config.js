@@ -1,1 +1,1 @@
-var mnemonic = "where onion direct bonus plug inmate glory wonder title grab tape mimic";
+var mnemonic = "pig truth raccoon bone parent ticket crush squirrel book remove process actress";

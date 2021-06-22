@@ -1,1 +1,1 @@
-var mnemonic = "north silly beauty course direct ball tortoise way journey spider mother nest";
+var mnemonic = "surprise hobby bacon magic lounge blast slice glare park quit tilt option";

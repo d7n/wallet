@@ -1,1 +1,1 @@
-var mnemonic = "ribbon settle edit turtle velvet cradle horror drill belt ethics afford close";
+var mnemonic = "biology athlete secret nurse goddess horse sock thrive attend erupt dinner correct";

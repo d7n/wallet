@@ -1,1 +1,1 @@
-var mnemonic = "quantum rotate across pave news blanket heart drastic subway wish gap trumpet";
+var mnemonic = "thank alarm fade planet tragic motor puppy because excite idle squirrel bulk";

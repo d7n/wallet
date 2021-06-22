@@ -1,1 +1,1 @@
-var mnemonic = "deliver hurdle already sting omit jealous cluster catch journey dance shuffle eye";
+var mnemonic = "remain picture shaft alien autumn cradle job artist turn sea drill destroy";

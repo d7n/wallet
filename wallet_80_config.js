@@ -1,1 +1,1 @@
-var mnemonic = "remove grit bone dignity disorder stand door home discover dust milk cannon";
+var mnemonic = "labor hen bridge solar begin keen year swamp you explain mask miracle";

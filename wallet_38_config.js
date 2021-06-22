@@ -1,1 +1,1 @@
-var mnemonic = "loan stool body magnet cash weird jewel resource margin color scheme win";
+var mnemonic = "outside shop cotton mammal glide arm knock blue salt industry scrub spot";

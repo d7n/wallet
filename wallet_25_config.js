@@ -1,1 +1,1 @@
-var mnemonic = "drop expect vacant large ordinary bone fluid wire stove bracket kitten dash";
+var mnemonic = "tunnel couch close still hour grid gadget happy critic milk cricket month";

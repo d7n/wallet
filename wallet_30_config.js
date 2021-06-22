@@ -1,1 +1,1 @@
-var mnemonic = "code mean expand jar neck document frozen orchard month setup pupil kit";
+var mnemonic = "penalty filter conduct broom lift tattoo inflict weasel banana merit canoe left";

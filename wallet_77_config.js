@@ -1,1 +1,1 @@
-var mnemonic = "lizard rich palace shield tackle chalk despair source trumpet box squirrel false";
+var mnemonic = "armor ocean arena game fame idle bacon favorite female arrow medal lobster";

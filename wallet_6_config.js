@@ -1,1 +1,1 @@
-var mnemonic = "process banner arena adapt useful busy father width indicate record polar nurse";
+var mnemonic = "jewel boat quote ability select neutral nurse submit help vicious guilt amazing";

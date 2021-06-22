@@ -1,1 +1,1 @@
-var mnemonic = "brother regret chaos balcony trouble poet year connect retreat undo lawsuit report";
+var mnemonic = "spin egg promote glory fluid today strike tired erupt drastic zone action";

@@ -1,1 +1,1 @@
-var mnemonic = "idea feel kitchen truly smart mesh rose unknown alone bean sure aisle";
+var mnemonic = "auction shock angry vacuum truck abuse glow fault wing auction business anchor";

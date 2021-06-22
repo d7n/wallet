@@ -1,1 +1,1 @@
-var mnemonic = "asset fun cheap gold abuse wing furnace shaft frost gadget disease shy";
+var mnemonic = "depend affair cattle current robust frown bundle urge company pipe kingdom lava";

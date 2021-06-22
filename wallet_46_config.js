@@ -1,1 +1,1 @@
-var mnemonic = "kiwi charge table icon expect mirror acoustic width plastic offer pulp derive";
+var mnemonic = "nasty post energy drama alcohol athlete kick pole boring notice aim ripple";

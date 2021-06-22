@@ -1,1 +1,1 @@
-var mnemonic = "only bench inside fatigue noise easy marine pass clog flavor lounge figure";
+var mnemonic = "crash pink during phrase unit crystal response glimpse barrel rally school foster";

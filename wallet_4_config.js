@@ -1,1 +1,1 @@
-var mnemonic = "clock voyage enhance capital joke weird ghost voyage sustain proud slight boost";
+var mnemonic = "panic question open buddy flee ripple paddle loan end mother version entry";

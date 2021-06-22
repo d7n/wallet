@@ -1,1 +1,1 @@
-var mnemonic = "version flock boost dragon mad car demise abstract slender gather ceiling plastic";
+var mnemonic = "glory replace step unaware planet above open bus keep alien zone toy";

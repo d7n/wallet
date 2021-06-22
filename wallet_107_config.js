@@ -1,1 +1,1 @@
-var mnemonic = "history furnace certain like pet extend sphere enhance copy skin dawn control";
+var mnemonic = "journey repair eyebrow where plate cost burger ill nasty congress attack pretty";

@@ -1,1 +1,1 @@
-var mnemonic = "scan food evidence south wheat deliver oyster loan install text zebra hip";
+var mnemonic = "lab bullet onion grass brain avoid program rural glad fish tiger sort";

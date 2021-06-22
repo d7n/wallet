@@ -1,1 +1,1 @@
-var mnemonic = "harvest head morning suffer hunt extend devote canal twin matrix lens arrest";
+var mnemonic = "deposit grid broccoli order smooth explain buyer fine push pyramid trip group";

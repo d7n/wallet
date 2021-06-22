@@ -1,1 +1,1 @@
-var mnemonic = "wall very talk spot prefer slot marine plate horror myself tissue tent";
+var mnemonic = "dry future digital alarm cradle glad title record emotion inspire symbol ceiling";

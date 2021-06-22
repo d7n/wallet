@@ -1,1 +1,1 @@
-var mnemonic = "effort federal sorry session close joy voyage stay toddler assist wrist suit";
+var mnemonic = "this scatter diesel excess image wish eternal raccoon hockey enemy tonight about";

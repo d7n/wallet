@@ -1,1 +1,1 @@
-var mnemonic = "jazz where cereal dry bomb actress cook ready dilemma slush letter drive";
+var mnemonic = "vague work nest one ribbon artefact obscure expand tennis rare double pumpkin";

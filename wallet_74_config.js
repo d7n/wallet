@@ -1,1 +1,1 @@
-var mnemonic = "praise chaos mix youth entire space mango action pole tunnel move report";
+var mnemonic = "neither blue artist fork slide define nurse sorry wait brief faculty pear";

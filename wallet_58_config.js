@@ -1,1 +1,1 @@
-var mnemonic = "gown awful collect crash drift chaos clock exist butter nice dress material";
+var mnemonic = "census impact lemon exchange travel sorry case peanut estate turkey spin chicken";

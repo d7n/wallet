@@ -1,1 +1,1 @@
-var mnemonic = "umbrella hard leisure riot motor cat treat youth fluid flee grocery salmon";
+var mnemonic = "dawn hawk account rail flower clerk inject extra credit dragon staff despair";

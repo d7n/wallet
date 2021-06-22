@@ -1,1 +1,1 @@
-var mnemonic = "beach stool turn crouch color draft regular phone scissors agent often empty";
+var mnemonic = "salt engine cage ecology inhale chapter hub secret fine spot relief fire";

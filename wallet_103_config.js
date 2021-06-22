@@ -1,1 +1,1 @@
-var mnemonic = "buddy suggest best jelly bench priority start power citizen subject diary select";
+var mnemonic = "pudding steak example typical speak habit fence lunch lock aware few skirt";

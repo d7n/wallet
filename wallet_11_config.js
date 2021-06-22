@@ -1,1 +1,1 @@
-var mnemonic = "armed various like great review eternal two dragon oak legend advance tent";
+var mnemonic = "close arrest mansion used task hollow stumble milk solve verb way verify";

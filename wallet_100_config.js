@@ -1,1 +1,1 @@
-var mnemonic = "card problem game attend oval alarm organ expand federal start identify toe";
+var mnemonic = "congress pencil cargo wall panic agree sweet mixed foil else carry elevator";

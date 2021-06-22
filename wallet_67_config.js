@@ -1,1 +1,1 @@
-var mnemonic = "reject earth shrug jelly prison true corn avocado thought clock learn almost";
+var mnemonic = "grit believe duck decrease couple ethics border shiver impact post squirrel trouble";

@@ -1,1 +1,1 @@
-var mnemonic = "code addict similar test river basic dog plug seminar save hundred march";
+var mnemonic = "virus bracket ivory shiver undo stand long emotion honey bottom autumn tomorrow";

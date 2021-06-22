@@ -1,1 +1,1 @@
-var mnemonic = "mutual curve state slam travel cube then health dinosaur valve peanut sun";
+var mnemonic = "fringe win window cushion venue journey team alpha maid income cool either";

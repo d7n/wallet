@@ -1,1 +1,1 @@
-var mnemonic = "daring used method north rare sketch inflict toilet long visa advice spoil";
+var mnemonic = "lab speak upgrade when ice usual similar immune ghost language advance monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "trial margin often tag strike reduce dust merge tip endorse more pizza";
+var mnemonic = "tool cannon purity worry test expose real peasant access slot tide drip";

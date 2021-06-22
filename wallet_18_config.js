@@ -1,1 +1,1 @@
-var mnemonic = "short twist final divide disorder december correct cook tenant snap bind engage";
+var mnemonic = "waste true friend dirt hub unaware series token life filter forum night";

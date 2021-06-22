@@ -1,1 +1,1 @@
-var mnemonic = "harbor course invest ready milk exotic era foam friend boss excuse wool";
+var mnemonic = "ahead purpose quiz priority sudden swift coach swap ivory essence ahead stairs";

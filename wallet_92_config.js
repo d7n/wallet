@@ -1,1 +1,1 @@
-var mnemonic = "cruel scorpion hub vintage shiver document fly reject frame extra seed employ";
+var mnemonic = "dish forest muffin giraffe door one camp maid load fall mom month";

@@ -1,1 +1,1 @@
-var mnemonic = "poet walnut catalog stage erosion always history earn version slogan aerobic ask";
+var mnemonic = "age course spirit middle action yard soon diary start video silk essay";

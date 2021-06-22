@@ -1,1 +1,1 @@
-var mnemonic = "diet bus cabbage space outer mixture helmet elder damage polar split find";
+var mnemonic = "true anxiety club reward country mechanic license vendor earn salute sunny approve";

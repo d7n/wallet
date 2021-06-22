@@ -1,1 +1,1 @@
-var mnemonic = "point keen already rug gift toe oppose fiber stomach cabbage super turn";
+var mnemonic = "pretty used six empower client summer anxiety ecology dinner board ranch believe";

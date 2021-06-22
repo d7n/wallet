@@ -1,1 +1,1 @@
-var mnemonic = "kitchen buzz mosquito live pet boring share wine mass bless nature shy";
+var mnemonic = "merit leader thrive ball snow venue enroll swim quality toddler minor general";

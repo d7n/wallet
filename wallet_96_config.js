@@ -1,1 +1,1 @@
-var mnemonic = "escape second buddy runway task below radar habit loyal slight lion angry";
+var mnemonic = "armed hero tomorrow cake gossip response middle youth surge aspect school child";

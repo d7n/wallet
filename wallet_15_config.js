@@ -1,1 +1,1 @@
-var mnemonic = "believe dry cool harsh erosion mule couple beyond stay morning lobster world";
+var mnemonic = "salute magic gather onion scrub debate usage turtle knee clock dove shed";

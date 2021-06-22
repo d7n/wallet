@@ -1,1 +1,1 @@
-var mnemonic = "boss purity easy bamboo gate denial dizzy pattern mansion patrol visa rebuild";
+var mnemonic = "hip either isolate panel student lady urban iron half frog shrug service";

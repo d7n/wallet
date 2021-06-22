@@ -1,1 +1,1 @@
-var mnemonic = "kind kiwi anxiety pull sauce message attract join valve water inner certain";
+var mnemonic = "scale double target flip wrist embody chimney cry merit three inner common";

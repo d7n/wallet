@@ -1,1 +1,1 @@
-var mnemonic = "parrot diesel inherit kingdom coconut consider bread ready tennis civil eyebrow enemy";
+var mnemonic = "mention elder whip outdoor arrow top mansion vast execute sun tiger hospital";

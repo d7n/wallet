@@ -1,1 +1,1 @@
-var mnemonic = "gold pigeon virus shy eager join join borrow inhale until wise inmate";
+var mnemonic = "myself shove dune salt awake shrimp type lottery answer leader unusual novel";

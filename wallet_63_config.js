@@ -1,1 +1,1 @@
-var mnemonic = "palace skull genuine disagree penalty poem practice treat reform aim kiwi swing";
+var mnemonic = "just fortune mystery jeans cereal cattle raccoon mercy toy holiday pull weird";

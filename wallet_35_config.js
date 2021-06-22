@@ -1,1 +1,1 @@
-var mnemonic = "test elbow verb sense winter define bag educate receive enter hidden pitch";
+var mnemonic = "shrug tragic force rare oil sell fit merge decide small jeans thumb";

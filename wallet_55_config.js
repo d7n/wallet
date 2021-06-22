@@ -1,1 +1,1 @@
-var mnemonic = "eye false arm dinner shift luxury twelve soup fame either prize setup";
+var mnemonic = "zone story rally daughter all team brain image present country peace spider";

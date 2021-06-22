@@ -1,1 +1,1 @@
-var mnemonic = "elegant empty escape circle across creek cruise monkey viable science view perfect";
+var mnemonic = "jeans art ancient enable ahead keen horror nation mention inhale onion hurt";

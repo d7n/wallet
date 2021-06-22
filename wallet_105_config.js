@@ -1,1 +1,1 @@
-var mnemonic = "mistake office luggage chair below pear ask park color carbon will sauce";
+var mnemonic = "coral midnight unique blossom lens wisdom van example shift mosquito license chronic";

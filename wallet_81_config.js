@@ -1,1 +1,1 @@
-var mnemonic = "economy any cloud only bid pluck silk quality toast snow early elite";
+var mnemonic = "response ranch bulb liar oak rain phone siege fault please before endless";

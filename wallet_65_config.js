@@ -1,1 +1,1 @@
-var mnemonic = "crew rigid reveal talk dinosaur mercy buddy sponsor mom cannon cliff mother";
+var mnemonic = "marine afraid rice lyrics wheel verify lizard ribbon monkey delay neck doctor";

@@ -1,1 +1,1 @@
-var mnemonic = "link pig front rib benefit gloom enemy leopard someone wash decade company";
+var mnemonic = "six exist neither skull tray ticket throw melt diary minor tiger perfect";

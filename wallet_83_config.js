@@ -1,1 +1,1 @@
-var mnemonic = "update congress good census deer learn fitness assist allow cable tone when";
+var mnemonic = "fall art wool tiny decorate nice brown update hockey forest that output";
