@@ -1,1 +1,1 @@
-var mnemonic = "uncover cabin dust decline sunny fashion alcohol burst genius equal hat place";
+var mnemonic = "perfect tiger parade frame settle borrow opinion expand husband name medal cancel";

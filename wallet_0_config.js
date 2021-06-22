@@ -1,1 +1,1 @@
-var mnemonic = "sting loud master write ask nerve thunder mutual glad brown area satoshi";
+var mnemonic = "hungry warrior fiscal mammal holiday common regret gossip become sport lemon wing";

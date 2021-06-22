@@ -1,1 +1,1 @@
-var mnemonic = "decline remove minute deposit wrong fiction census video quit distance price rather";
+var mnemonic = "piece hamster baby among fire bean wink fuel feel walk goose brief";

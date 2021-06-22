@@ -1,1 +1,1 @@
-var mnemonic = "immense anxiety language lava write timber swift midnight ship outer legend leave";
+var mnemonic = "true forget track auction mixture usage fitness soup dilemma permit satoshi good";

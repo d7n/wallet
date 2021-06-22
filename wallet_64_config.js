@@ -1,1 +1,1 @@
-var mnemonic = "list swap cradle world whip hard radar nasty critic health finish tattoo";
+var mnemonic = "reform excuse panda abstract leg road benefit wealth wool mind permit glimpse";

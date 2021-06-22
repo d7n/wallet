@@ -1,1 +1,1 @@
-var mnemonic = "grape gas category among burst hold jump human steel action carbon hair";
+var mnemonic = "bright enter scatter gain fuel biology jeans mom unknown rabbit general blur";

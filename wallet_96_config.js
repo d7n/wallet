@@ -1,1 +1,1 @@
-var mnemonic = "book carbon spread fade need birth leaf alien fall swamp gate cage";
+var mnemonic = "blouse dragon believe apology oak fatigue purity canoe outside issue kangaroo outside";

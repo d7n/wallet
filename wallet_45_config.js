@@ -1,1 +1,1 @@
-var mnemonic = "orange region work whip cupboard skull spread deposit term little dish theme";
+var mnemonic = "march lake buddy plastic fly clock book trumpet breeze when culture eye";

@@ -1,1 +1,1 @@
-var mnemonic = "absurd grape paper assume pupil design biology essence grid scrub slide cricket";
+var mnemonic = "federal spice rude truth segment echo patch solid hello hard net course";

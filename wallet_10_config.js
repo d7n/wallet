@@ -1,1 +1,1 @@
-var mnemonic = "afford elite buffalo apart find during profit battle foot way copper skill";
+var mnemonic = "mom elephant appear ensure comic insane frozen ritual skin visa problem deer";

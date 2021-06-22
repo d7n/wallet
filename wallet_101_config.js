@@ -1,1 +1,1 @@
-var mnemonic = "under blast observe visa elevator april enact stuff project meadow mind spare";
+var mnemonic = "spirit wrap interest paper write marriage human session fog frozen barrel dizzy";

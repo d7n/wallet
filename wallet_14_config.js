@@ -1,1 +1,1 @@
-var mnemonic = "hub loyal what online uniform bomb item foster siren media bar cover";
+var mnemonic = "canyon debris private gauge dentist wide scrub cannon entire verify hockey satoshi";

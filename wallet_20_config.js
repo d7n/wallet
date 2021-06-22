@@ -1,1 +1,1 @@
-var mnemonic = "sting pepper first vague loan immune crunch broom winner gain tag genius";
+var mnemonic = "peasant salon double mother rally uniform shaft unhappy mom police search unlock";

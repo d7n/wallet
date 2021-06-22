@@ -1,1 +1,1 @@
-var mnemonic = "notice alter hill hurt leopard delay attack milk grunt pitch result laundry";
+var mnemonic = "guitar all weather patient adult mansion casual slush expand favorite empty victory";

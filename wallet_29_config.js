@@ -1,1 +1,1 @@
-var mnemonic = "cannon depend weird business zone vicious weather tattoo pioneer one supply glare";
+var mnemonic = "gown live cable rose void artist crouch imitate mother math silk video";

@@ -1,1 +1,1 @@
-var mnemonic = "oak put card make exclude cave kind vibrant pretty demise orbit prize";
+var mnemonic = "fashion kingdom buyer fetch illness dream old west select donate idle dust";

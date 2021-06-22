@@ -1,1 +1,1 @@
-var mnemonic = "team maple praise possible mouse girl park raise random spawn walnut sight";
+var mnemonic = "tuition misery street journey guitar twelve bike card silent wear buzz kit";

@@ -1,1 +1,1 @@
-var mnemonic = "gentle cannon diamond monkey digital grunt solve drastic transfer divide animal pony";
+var mnemonic = "scorpion emotion pact mushroom drill inject purse joke result news blue reflect";

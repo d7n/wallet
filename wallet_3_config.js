@@ -1,1 +1,1 @@
-var mnemonic = "grow foil laptop lake timber arrive peanut code target sorry brain rain";
+var mnemonic = "jungle taxi genius caught advance dinosaur melody gallery leisure chunk begin fold";

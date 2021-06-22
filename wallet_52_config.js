@@ -1,1 +1,1 @@
-var mnemonic = "near safe royal promote swamp find fault bus pave boring brother quiz";
+var mnemonic = "acid field result impose doctor goose raw stock broken abandon brick today";

@@ -1,1 +1,1 @@
-var mnemonic = "owner leaf carbon analyst parent crystal load cart pass write witness fatigue";
+var mnemonic = "little garlic cheap teach display lunch pass hidden mix double dry food";

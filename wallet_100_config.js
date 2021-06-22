@@ -1,1 +1,1 @@
-var mnemonic = "minute squeeze skirt paddle there female track click moon fatal unique wrap";
+var mnemonic = "unable caught fiction mass tourist screen vehicle snap wheel victory front orchard";

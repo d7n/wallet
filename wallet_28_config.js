@@ -1,1 +1,1 @@
-var mnemonic = "together possible bid disorder spike dune option believe occur pill clog body";
+var mnemonic = "cook pudding gate column shoe vessel useful crater salt science damp swarm";

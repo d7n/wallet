@@ -1,1 +1,1 @@
-var mnemonic = "loud frog erupt imitate item update outdoor miss conduct weasel useful virus";
+var mnemonic = "inside antenna wise cake clock innocent depart project awesome vote vehicle post";

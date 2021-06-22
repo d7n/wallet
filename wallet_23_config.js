@@ -1,1 +1,1 @@
-var mnemonic = "crumble guide obvious diesel hotel label parent devote plate dolphin mom inform";
+var mnemonic = "excess fog coast shy mask comfort income night bright trumpet oven hobby";

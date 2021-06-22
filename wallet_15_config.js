@@ -1,1 +1,1 @@
-var mnemonic = "blush three nuclear frog claim pony ladder exhaust insane source clerk eyebrow";
+var mnemonic = "cannon have figure vital laundry forum gorilla letter margin execute reward coin";

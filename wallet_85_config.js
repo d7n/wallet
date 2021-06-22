@@ -1,1 +1,1 @@
-var mnemonic = "rebel earn dinner despair expose topic quit tobacco grass opera model liquid";
+var mnemonic = "hobby tree sight fire sausage expect artwork donor urban silly tip pact";

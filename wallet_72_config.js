@@ -1,1 +1,1 @@
-var mnemonic = "chase bright sorry solution nominee guitar smile stable advice can check race";
+var mnemonic = "sea weird remove matter image learn click apology thrive suffer immune local";

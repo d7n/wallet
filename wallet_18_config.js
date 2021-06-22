@@ -1,1 +1,1 @@
-var mnemonic = "sample guess cave version analyst security image collect skirt provide promote spell";
+var mnemonic = "soup oyster hockey creek captain brush ritual wrap cause copy goddess hotel";

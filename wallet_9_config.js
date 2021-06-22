@@ -1,1 +1,1 @@
-var mnemonic = "delay unfair glove agent mask flock hello miss journey bulb design country";
+var mnemonic = "eye flee fury issue amazing pen faith captain among will hope organ";

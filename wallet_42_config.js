@@ -1,1 +1,1 @@
-var mnemonic = "weekend young neutral lab hard ticket gallery spy venue swamp female resource";
+var mnemonic = "where hotel about reform differ curious music gown resource minimum decorate super";

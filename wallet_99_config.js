@@ -1,1 +1,1 @@
-var mnemonic = "keen tunnel soul primary prevent ladder flight vacant crumble quarter emotion soldier";
+var mnemonic = "reveal kiss knee secret disease runway sword magnet turtle hurdle basket derive";

@@ -1,1 +1,1 @@
-var mnemonic = "wagon merry gentle blouse air orchard oyster atom rapid rail consider bicycle";
+var mnemonic = "south cool example scrub loop artefact recycle feature diet piece express term";

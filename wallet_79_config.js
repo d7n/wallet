@@ -1,1 +1,1 @@
-var mnemonic = "cattle myself render festival order fiction evolve hood pig razor witness hint";
+var mnemonic = "you give easy twenty cat loan useless source push divorce alcohol short";

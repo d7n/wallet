@@ -1,1 +1,1 @@
-var mnemonic = "answer display pizza ivory either bounce number glide address school dignity strike";
+var mnemonic = "silk vendor ribbon loud economy protect return payment warfare finish episode ahead";

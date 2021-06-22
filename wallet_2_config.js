@@ -1,1 +1,1 @@
-var mnemonic = "pig open pizza avoid soul lake now wool wire base range thrive";
+var mnemonic = "frozen explain cost dry sort electric ivory travel right sport uncle there";

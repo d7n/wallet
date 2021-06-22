@@ -1,1 +1,1 @@
-var mnemonic = "chef hint aware leg collect session crisp chicken labor media lonely claim";
+var mnemonic = "various breeze use demise apple crush curious puppy brown satoshi song stairs";

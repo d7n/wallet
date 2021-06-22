@@ -1,1 +1,1 @@
-var mnemonic = "holiday control sugar check jacket like angry cable door fury frequent symbol";
+var mnemonic = "space quality april wrist wire gadget fine drift cable split crowd forum";

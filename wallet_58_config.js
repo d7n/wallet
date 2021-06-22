@@ -1,1 +1,1 @@
-var mnemonic = "seek exchange valve absurd road ski letter online right today float tooth";
+var mnemonic = "video explain happy exact grow decade traffic crucial settle wide rapid oyster";

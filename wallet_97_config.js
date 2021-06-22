@@ -1,1 +1,1 @@
-var mnemonic = "unlock scrap talk attend fish bless peasant antenna buddy rabbit tourist jeans";
+var mnemonic = "humor chief image rocket enlist kick valley name half wisdom dance trophy";

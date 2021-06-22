@@ -1,1 +1,1 @@
-var mnemonic = "minute demise dynamic suggest vivid rely payment sand point myself inside velvet";
+var mnemonic = "mystery dash video buffalo train cross gentle hint advance title toddler hill";

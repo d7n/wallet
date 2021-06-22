@@ -1,1 +1,1 @@
-var mnemonic = "option extra novel cement tissue cheap best pyramid deputy flip wrong clock";
+var mnemonic = "book acoustic account any forward script range onion like evolve bridge provide";

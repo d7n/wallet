@@ -1,1 +1,1 @@
-var mnemonic = "heart fossil course barrel exercise supply scout twin dignity normal found lobster";
+var mnemonic = "crystal galaxy bridge globe absorb retire bubble honey car author drift submit";

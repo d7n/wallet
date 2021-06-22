@@ -1,1 +1,1 @@
-var mnemonic = "judge evidence execute step eternal night phrase medal call tourist ready winter";
+var mnemonic = "shaft slide bulb claw zebra cupboard boss luggage march unit stairs duty";

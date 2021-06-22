@@ -1,1 +1,1 @@
-var mnemonic = "spoil forum warfare disagree text color gun upon eagle mimic embark kiwi";
+var mnemonic = "grief wild choose cream muffin group gorilla ozone frame state goat vapor";

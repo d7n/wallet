@@ -1,1 +1,1 @@
-var mnemonic = "aim wide science share raccoon volcano medal act panda key beauty real";
+var mnemonic = "mammal plate segment sentence lounge virtual dove flee midnight horror glue champion";

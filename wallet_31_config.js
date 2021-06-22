@@ -1,1 +1,1 @@
-var mnemonic = "ticket behind gospel clean agent stumble basket chunk hamster sniff cause type";
+var mnemonic = "belt switch tip unfold sad prefer puzzle involve current coin field forward";

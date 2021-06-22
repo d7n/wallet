@@ -1,1 +1,1 @@
-var mnemonic = "peasant transfer panic major gauge hip old visa fever midnight lake wagon";
+var mnemonic = "champion direct gesture edge hour other warm prize sketch fire pair error";

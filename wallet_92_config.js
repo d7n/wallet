@@ -1,1 +1,1 @@
-var mnemonic = "club road cabbage discover end surround gift rocket place review federal erosion";
+var mnemonic = "aspect develop pair marriage use medal bacon tackle sample spike mail syrup";

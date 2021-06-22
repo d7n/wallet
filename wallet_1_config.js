@@ -1,1 +1,1 @@
-var mnemonic = "defense else pilot crazy shield alter knock write planet wave girl trigger";
+var mnemonic = "rotate vacuum roast flavor tag adjust gate cupboard digital neglect eagle any";

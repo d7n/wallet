@@ -1,1 +1,1 @@
-var mnemonic = "once trap actor busy silver sponsor coil daring color coil dumb always";
+var mnemonic = "rent evidence cheese course process clap bounce speak account method mother zone";

@@ -1,1 +1,1 @@
-var mnemonic = "sudden real security thing mango unaware provide evolve scorpion pig riot day";
+var mnemonic = "tattoo adapt west seminar tilt measure alone divert reunion muffin video market";

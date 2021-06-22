@@ -1,1 +1,1 @@
-var mnemonic = "soul pride polar soft identify cry vendor add poet river unique follow";
+var mnemonic = "run empower major foil stick squeeze avocado marriage core other impact mosquito";

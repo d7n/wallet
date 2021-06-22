@@ -1,1 +1,1 @@
-var mnemonic = "tortoise language dream anxiety manage mail keen sleep suffer farm swim dinosaur";
+var mnemonic = "two actual inch must alter energy lyrics autumn kitchen tail measure domain";

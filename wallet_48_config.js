@@ -1,1 +1,1 @@
-var mnemonic = "ladder what strong endorse main review north humble novel license bottom opera";
+var mnemonic = "stove invite impulse tonight twin between shove nature pudding silly actor mention";

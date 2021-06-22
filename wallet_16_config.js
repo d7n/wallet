@@ -1,1 +1,1 @@
-var mnemonic = "beauty normal nasty inform tunnel size hurry brain cube kitchen ghost forest";
+var mnemonic = "peanut core slice shell sick occur absent reason cereal miss pyramid oval";

@@ -1,1 +1,1 @@
-var mnemonic = "bullet path example budget sentence spy approve bring vivid equal treat coil";
+var mnemonic = "leisure parade present quantum lonely fashion afraid treat swap inherit better spot";

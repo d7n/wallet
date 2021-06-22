@@ -1,1 +1,1 @@
-var mnemonic = "stand scheme evidence eternal random estate thing zero cactus pact guard primary";
+var mnemonic = "army fade stand only language special reunion tornado mystery exit half hotel";

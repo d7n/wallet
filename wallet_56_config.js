@@ -1,1 +1,1 @@
-var mnemonic = "picnic behave simple rare cloud certain rack squeeze furnace pen museum deliver";
+var mnemonic = "shrug friend nice drama cloud vehicle path desk chicken clown tool phrase";

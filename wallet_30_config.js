@@ -1,1 +1,1 @@
-var mnemonic = "forest shuffle hard silk bring extend bulb length session solution wise fish";
+var mnemonic = "awesome ethics cook crack shed pact fall pair crater wonder rare attend";

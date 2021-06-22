@@ -1,1 +1,1 @@
-var mnemonic = "casual excite garlic deer such direct romance sea dynamic reduce ginger physical";
+var mnemonic = "bid glow ketchup harbor nothing possible penalty skin betray cloth worry fiscal";

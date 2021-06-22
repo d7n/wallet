@@ -1,1 +1,1 @@
-var mnemonic = "market embody alone garbage apology equip stem sand notable fetch oxygen share";
+var mnemonic = "price can donkey cover allow trick harsh camera iron silent floor regret";

@@ -1,1 +1,1 @@
-var mnemonic = "shy mind topic power swing claw stumble kitchen ticket action vital account";
+var mnemonic = "there pluck trust tiger misery mad tuition debate ivory confirm uncover dust";

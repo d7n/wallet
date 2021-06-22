@@ -1,1 +1,1 @@
-var mnemonic = "bomb fit end evoke select monitor either penalty pony reason inmate lamp";
+var mnemonic = "dilemma hole february sniff drastic load coin engine bubble bubble attract mixed";

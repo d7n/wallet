@@ -1,1 +1,1 @@
-var mnemonic = "crush flight begin pyramid gesture wool rug move seminar basket truly decorate";
+var mnemonic = "dizzy surface symptom famous miss corn ritual column rich whip reform normal";

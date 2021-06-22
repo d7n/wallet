@@ -1,1 +1,1 @@
-var mnemonic = "wood mobile curious farm close adjust multiply dash fit kick direct shuffle";
+var mnemonic = "rain split call guard foster record crazy capital target pet sail width";

@@ -1,1 +1,1 @@
-var mnemonic = "pony west coast toss demise guard busy move benefit random purse buffalo";
+var mnemonic = "ladder exhaust talent humor acquire clump cherry merge room process grape unique";

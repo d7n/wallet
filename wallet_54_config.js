@@ -1,1 +1,1 @@
-var mnemonic = "brand aspect balance ball service agree blood trust flag state horn crew";
+var mnemonic = "text reduce oxygen grid boost cycle bracket security height upon labor modify";

@@ -1,1 +1,1 @@
-var mnemonic = "system rhythm roast zoo antique near defy devote resist tape mushroom grow";
+var mnemonic = "cause fatigue butter input fly private reward live badge indoor forward cricket";

@@ -1,1 +1,1 @@
-var mnemonic = "proof canvas observe patrol common curtain save eagle inject vote library toy";
+var mnemonic = "like resource churn rude penalty spy rely hybrid vibrant okay canyon shop";

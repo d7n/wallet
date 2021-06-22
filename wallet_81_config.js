@@ -1,1 +1,1 @@
-var mnemonic = "later wash universe soft lab enrich casino innocent daring near kitten mixed";
+var mnemonic = "salt jacket style body horse essence high salt volume shop ghost resemble";

@@ -1,1 +1,1 @@
-var mnemonic = "genuine roast learn mercy safe life face hood neither viable engine gloom";
+var mnemonic = "million mom reason ocean balance poverty staff puppy must fox water cute";

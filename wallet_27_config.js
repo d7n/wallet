@@ -1,1 +1,1 @@
-var mnemonic = "feed casual ranch hill monkey pass final spice dismiss among twin gadget";
+var mnemonic = "crystal pottery napkin often breeze apart robust know debris dumb neither occur";

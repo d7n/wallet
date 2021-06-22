@@ -1,1 +1,1 @@
-var mnemonic = "initial merge blast brisk calm breeze token decade draft enemy pilot rival";
+var mnemonic = "drink puzzle voice wide common rubber wreck okay found oyster thumb similar";

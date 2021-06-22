@@ -1,1 +1,1 @@
-var mnemonic = "secret fresh fix patch assume one tourist sand member hero ignore meadow";
+var mnemonic = "tone cup noise pet atom gold erode lunar inch finger witness relief";

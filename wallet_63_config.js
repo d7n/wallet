@@ -1,1 +1,1 @@
-var mnemonic = "delay unveil clown lady gap ozone sheriff dry wet clean tell bright";
+var mnemonic = "forward live prefer olive neutral knife finger fence addict camp ordinary museum";

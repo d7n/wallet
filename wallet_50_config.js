@@ -1,1 +1,1 @@
-var mnemonic = "sheriff resource custom produce punch crush staff harvest style vital choose vapor";
+var mnemonic = "vast math miracle brown assist fragile struggle evidence wife injury because angry";

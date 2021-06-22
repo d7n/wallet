@@ -1,1 +1,1 @@
-var mnemonic = "yellow gesture control bread patrol wash ranch invest snow weird nose bubble";
+var mnemonic = "action rent deliver kit turn across alert diesel excuse shaft guess lamp";

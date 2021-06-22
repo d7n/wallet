@@ -1,1 +1,1 @@
-var mnemonic = "ivory frog brick silver sponsor derive arctic digital service target narrow lift";
+var mnemonic = "obtain brush distance marine excite spend pass scare share attitude grit friend";

@@ -1,1 +1,1 @@
-var mnemonic = "message dream amazing judge load ridge breeze clever corn clerk offer print";
+var mnemonic = "unhappy asthma addict dad portion renew slim bargain hint coin gaze figure";

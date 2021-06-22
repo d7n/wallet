@@ -1,1 +1,1 @@
-var mnemonic = "street copy unhappy run perfect come mushroom group oval taxi pretty agree";
+var mnemonic = "marine wing scatter slow clean taxi scan key divide similar seek average";

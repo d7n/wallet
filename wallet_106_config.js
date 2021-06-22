@@ -1,1 +1,1 @@
-var mnemonic = "open sight code shop artefact romance blanket adapt motion light federal hello";
+var mnemonic = "embrace noble clog muscle flag crew alone detail giraffe invite crop vanish";

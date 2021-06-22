@@ -1,1 +1,1 @@
-var mnemonic = "hotel hurry utility someone damp then wheel mosquito boat animal coffee knee";
+var mnemonic = "embrace catch pistol chicken annual rubber wear file speak speed trophy guess";

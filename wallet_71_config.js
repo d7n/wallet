@@ -1,1 +1,1 @@
-var mnemonic = "system museum differ tackle waste belt shrimp ocean punch illegal lawn seminar";
+var mnemonic = "mammal echo great canvas connect blur black option immense between urge marine";

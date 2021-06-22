@@ -1,1 +1,1 @@
-var mnemonic = "follow abandon grace photo salt sniff marine advance salad purse fossil ship";
+var mnemonic = "congress right exit tide rescue carpet satoshi blade oblige oyster father mind";

@@ -1,1 +1,1 @@
-var mnemonic = "onion buffalo surge couch street fatal random ketchup treat note cream grocery";
+var mnemonic = "swift cricket few manage tourist action arrange perfect train multiply domain leisure";

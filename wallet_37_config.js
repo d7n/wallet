@@ -1,1 +1,1 @@
-var mnemonic = "fetch coast knife matrix foil into punch brother diary avoid sponsor cigar";
+var mnemonic = "small diet alter twenty change number spin under erosion problem famous illness";
