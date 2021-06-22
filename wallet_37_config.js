@@ -1,1 +1,1 @@
-var mnemonic = "poet ladder trick slight volcano pony prison mammal suggest journey alter citizen";
+var mnemonic = "hold require cute input day home liar arrange indicate sibling refuse pulp";

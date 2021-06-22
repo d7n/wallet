@@ -1,1 +1,1 @@
-var mnemonic = "fan penalty danger evolve borrow wall elegant evidence wrestle pull curtain box";
+var mnemonic = "end theory erosion aisle renew dizzy warfare fit side ability drift endorse";

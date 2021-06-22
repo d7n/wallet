@@ -1,1 +1,1 @@
-var mnemonic = "refuse also require expect flag stove mean radar type onion vessel dinner";
+var mnemonic = "shuffle road oak agent medal onion cannon hedgehog artefact spoon lucky fiscal";

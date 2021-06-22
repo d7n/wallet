@@ -1,1 +1,1 @@
-var mnemonic = "struggle found skirt north deposit advance build one smoke feed luxury body";
+var mnemonic = "warfare grunt guide fork salute hip valid van result absent donate usual";

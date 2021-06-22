@@ -1,1 +1,1 @@
-var mnemonic = "salad picnic cram manage multiply message drip industry trigger version obtain develop";
+var mnemonic = "bulk come skill sponsor electric couple attend beef confirm total indicate inquiry";

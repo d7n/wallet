@@ -1,1 +1,1 @@
-var mnemonic = "crash become purpose buzz scrub minor judge sustain tissue better horn shield";
+var mnemonic = "useful month march fade pipe can goat ticket scale annual digital auction";

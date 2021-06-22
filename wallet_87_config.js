@@ -1,1 +1,1 @@
-var mnemonic = "minimum picnic laundry rural observe helmet clarify absent weapon plastic lady matter";
+var mnemonic = "wet height inspire enlist island danger smoke fold admit pen thrive viable";

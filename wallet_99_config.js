@@ -1,1 +1,1 @@
-var mnemonic = "punch employ usage any entry brush panic visual chair drastic ivory escape";
+var mnemonic = "retire chunk praise barely risk dutch adjust voice invest because airport coral";

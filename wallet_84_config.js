@@ -1,1 +1,1 @@
-var mnemonic = "relief midnight unlock wrap assault mix fun custom hero october essay neutral";
+var mnemonic = "enjoy pioneer play vacant trim weird possible venture midnight filter month couch";

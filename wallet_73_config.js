@@ -1,1 +1,1 @@
-var mnemonic = "glance print high layer speed ceiling moment spend gallery this resist marine";
+var mnemonic = "member strategy shiver marine stick prize wait only harsh vital near emerge";

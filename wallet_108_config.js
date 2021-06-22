@@ -1,1 +1,1 @@
-var mnemonic = "seed mansion follow source term debris student valid gadget bone excess network";
+var mnemonic = "later habit rebel stem cloud hollow local gravity border hazard train rack";

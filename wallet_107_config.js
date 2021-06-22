@@ -1,1 +1,1 @@
-var mnemonic = "pole asset myth flock arm rent lamp uncover survey disagree purity absorb";
+var mnemonic = "source train duck clap damage tackle knock disagree turn license ketchup parent";

@@ -1,1 +1,1 @@
-var mnemonic = "invite biology pool peace churn test echo remember aisle leopard march field";
+var mnemonic = "blame bitter depend crazy neither shell tongue legal hover daring arrive weapon";

@@ -1,1 +1,1 @@
-var mnemonic = "treat soap peace worth wrestle shallow brief under frozen curve antique sketch";
+var mnemonic = "tell scorpion anxiety road table never manage oxygen evolve diary pottery horror";

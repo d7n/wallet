@@ -1,1 +1,1 @@
-var mnemonic = "cattle tent rent danger predict gold develop middle iron maid proud busy";
+var mnemonic = "fruit hair security scan riot sense cat rose zoo acid blouse almost";

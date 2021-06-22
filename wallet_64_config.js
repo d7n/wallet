@@ -1,1 +1,1 @@
-var mnemonic = "sea number addict basic taste slender sword inject nuclear lazy mixture mean";
+var mnemonic = "early spice coconut critic market tortoise gas decade average key force rocket";

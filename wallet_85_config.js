@@ -1,1 +1,1 @@
-var mnemonic = "lava radar rule wheat travel canal fabric year size syrup company basic";
+var mnemonic = "improve wagon left deputy income expire develop indicate patrol property spoil emerge";

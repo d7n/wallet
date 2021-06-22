@@ -1,1 +1,1 @@
-var mnemonic = "glue hotel decade vibrant proof picture dial traffic system trick dentist tray";
+var mnemonic = "lyrics shift drop lady diesel face company guard series tattoo nation age";

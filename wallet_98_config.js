@@ -1,1 +1,1 @@
-var mnemonic = "charge early alpha often mouse purchase topic subway regret angle flat dirt";
+var mnemonic = "purpose tunnel fan rug exhibit argue tumble hat miracle prevent omit tongue";

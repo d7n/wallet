@@ -1,1 +1,1 @@
-var mnemonic = "side void loud limit traffic attack early horror satoshi asset potato upon";
+var mnemonic = "identify tenant pigeon fine indicate print question file truly wonder during venture";

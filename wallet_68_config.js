@@ -1,1 +1,1 @@
-var mnemonic = "comfort kite saddle kid entry issue rebel pair bamboo frog attend fatigue";
+var mnemonic = "cloth girl jaguar hurdle analyst library inform define absent great prevent cement";

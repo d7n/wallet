@@ -1,1 +1,1 @@
-var mnemonic = "worry nut sun learn whisper vault permit zebra census velvet version inch";
+var mnemonic = "essence dress unlock key jungle night oval claw option amount saddle shift";

@@ -1,1 +1,1 @@
-var mnemonic = "divorce barrel swim upon stock damage bronze away cool tip process acquire";
+var mnemonic = "bracket race man draw foil cart wedding envelope crawl program crumble below";

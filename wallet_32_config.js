@@ -1,1 +1,1 @@
-var mnemonic = "olive wheat knock legal squeeze timber illness smoke song gas witness divert";
+var mnemonic = "water only cattle energy excess priority royal want degree honey fatal method";

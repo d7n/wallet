@@ -1,1 +1,1 @@
-var mnemonic = "trust business amateur false local dumb rule legend frog scale goose wheel";
+var mnemonic = "ski double key dizzy essence creek flee dry arrive decade laptop plastic";

@@ -1,1 +1,1 @@
-var mnemonic = "person immune innocent horror illness convince leave produce flag weekend twice elbow";
+var mnemonic = "avoid ostrich physical enough depart have ability cattle resist bulb treat simple";

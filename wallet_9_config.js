@@ -1,1 +1,1 @@
-var mnemonic = "goddess congress famous nuclear spot awake barrel undo cook industry genre scout";
+var mnemonic = "label dose alert giant favorite night strategy cherry pretty chuckle bright tourist";

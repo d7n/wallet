@@ -1,1 +1,1 @@
-var mnemonic = "powder diagram identify develop cook hurry maple today hundred film catch toe";
+var mnemonic = "glove scan supreme state borrow output fog ramp fatal jazz find miss";

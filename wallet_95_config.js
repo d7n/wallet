@@ -1,1 +1,1 @@
-var mnemonic = "weird same marble drum subway grain poverty year deer car law reject";
+var mnemonic = "present winter kid degree attend engage once twist result door artwork discover";

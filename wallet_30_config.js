@@ -1,1 +1,1 @@
-var mnemonic = "veteran boat agree daughter round sugar first pilot tip annual various portion";
+var mnemonic = "cycle emotion hope raise ginger globe maximum bridge fire weekend acquire buddy";

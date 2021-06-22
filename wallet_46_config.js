@@ -1,1 +1,1 @@
-var mnemonic = "benefit donkey grain elevator female siren office inspire vast island analyst catch";
+var mnemonic = "dismiss negative awful valley tongue hero art leave winter raccoon merry ecology";

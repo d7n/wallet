@@ -1,1 +1,1 @@
-var mnemonic = "royal elder world goat win latin fork slam elite lounge oven also";
+var mnemonic = "reveal erosion attract body few rescue image hotel unit inherit post actor";

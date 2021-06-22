@@ -1,1 +1,1 @@
-var mnemonic = "second attitude entire reflect noise virtual over stairs paddle tired prize deer";
+var mnemonic = "jazz panel whisper leave seat alone goat lunar intact elite retreat hawk";

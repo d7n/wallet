@@ -1,1 +1,1 @@
-var mnemonic = "monkey tonight rural cherry suffer fix arch antenna indoor bone help aunt";
+var mnemonic = "idea route toe close course joy tattoo squeeze drill travel improve harbor";

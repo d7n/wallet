@@ -1,1 +1,1 @@
-var mnemonic = "globe disorder plastic tray stove trigger toss solution fox much rookie museum";
+var mnemonic = "fall thought sample assault year better hand spirit seven violin glide soon";

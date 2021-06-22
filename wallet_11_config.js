@@ -1,1 +1,1 @@
-var mnemonic = "vast express goddess dog deal pattern physical slam chuckle mail omit odor";
+var mnemonic = "shop toy mimic piece spawn year alley analyst amazing sudden sound select";

@@ -1,1 +1,1 @@
-var mnemonic = "credit faculty gym extra kick weapon artwork okay page mad rapid change";
+var mnemonic = "weird mix man maid utility nest robust concert sport flip escape toilet";

@@ -1,1 +1,1 @@
-var mnemonic = "blouse uniform come shock surround fruit wire into brand bright arctic impact";
+var mnemonic = "wage base raccoon merit annual invite dinner immense gate battle unit never";

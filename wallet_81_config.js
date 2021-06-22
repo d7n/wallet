@@ -1,1 +1,1 @@
-var mnemonic = "latin zebra time grow then drive useless balcony host clarify idea result";
+var mnemonic = "fragile timber total chaos you when merry art casual weapon mom lemon";

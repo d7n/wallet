@@ -1,1 +1,1 @@
-var mnemonic = "boy thing betray blame wheel shove obey ship holiday funny cigar witness";
+var mnemonic = "purse ice kind alcohol rice sing upper squeeze shock welcome dizzy tennis";

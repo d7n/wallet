@@ -1,1 +1,1 @@
-var mnemonic = "sword portion perfect knock staff curve neither poem anxiety memory zebra expose";
+var mnemonic = "sad repeat deposit emerge stadium goose disorder fat dice phrase solve priority";

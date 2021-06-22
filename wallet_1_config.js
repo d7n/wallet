@@ -1,1 +1,1 @@
-var mnemonic = "allow inform shed debris boy room goddess powder federal orbit naive tissue";
+var mnemonic = "hope decorate fatigue surge base first blood rebel credit cereal alarm side";

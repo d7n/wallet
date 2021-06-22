@@ -1,1 +1,1 @@
-var mnemonic = "unable absent punch sick mercy armor supply picture slot relax huge wash";
+var mnemonic = "soap legal tennis cover game robot upon horse family huge champion skull";

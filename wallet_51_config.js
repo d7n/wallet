@@ -1,1 +1,1 @@
-var mnemonic = "robot twin oblige can dynamic tide service wonder zebra scale start peasant";
+var mnemonic = "fame since order tornado bar match gorilla bracket list gentle joke winter";

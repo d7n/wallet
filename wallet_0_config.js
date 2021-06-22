@@ -1,1 +1,1 @@
-var mnemonic = "share twin water obvious donor switch brown maze tuition vacant goat useless";
+var mnemonic = "sand spread flower pet hero assault fringe image second put silver lesson";

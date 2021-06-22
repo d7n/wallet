@@ -1,1 +1,1 @@
-var mnemonic = "swing wisdom wish leaf aerobic country seminar draw agree casino code found";
+var mnemonic = "noble mimic canoe cute nice main quantum fire suspect this chef neglect";

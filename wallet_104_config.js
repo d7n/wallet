@@ -1,1 +1,1 @@
-var mnemonic = "grit curve program juice culture arrow reason vivid strategy slight trade legend";
+var mnemonic = "chest sibling ability sun hungry extend arena violin pride knife donate good";

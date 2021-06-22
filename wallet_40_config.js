@@ -1,1 +1,1 @@
-var mnemonic = "total foam unlock avocado churn daring load truck drastic nut slide desert";
+var mnemonic = "debris pudding betray suspect dad flight wood upon invite emotion rabbit tonight";

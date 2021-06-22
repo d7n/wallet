@@ -1,1 +1,1 @@
-var mnemonic = "entire crew level answer enjoy trumpet long discover tiger glide border song";
+var mnemonic = "piece worry total beef that royal dynamic boss soon oblige october assault";

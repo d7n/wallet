@@ -1,1 +1,1 @@
-var mnemonic = "edit hire unhappy relax clutch picnic sting ticket basket put pause deposit";
+var mnemonic = "friend foil enlist nasty margin glide improve bright safe avocado gauge over";

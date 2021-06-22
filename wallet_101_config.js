@@ -1,1 +1,1 @@
-var mnemonic = "silk wrong sort valve fit sort gaze bundle pigeon ghost evoke tragic";
+var mnemonic = "cave brass elbow farm wisdom pencil garlic else dumb whale coral proof";

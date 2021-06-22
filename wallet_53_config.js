@@ -1,1 +1,1 @@
-var mnemonic = "alert loyal tackle example crazy help wisdom coconut remain account sword inmate";
+var mnemonic = "horror cereal say soccer smile angle ocean dentist noodle turtle noodle alpha";

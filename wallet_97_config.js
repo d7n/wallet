@@ -1,1 +1,1 @@
-var mnemonic = "latin dismiss retreat bullet consider lobster become abstract loop thing lonely ribbon";
+var mnemonic = "please bulb food depend vast brown rib cricket culture teach sad all";

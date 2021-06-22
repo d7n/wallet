@@ -1,1 +1,1 @@
-var mnemonic = "club auto chunk feed kitchen use gas bird merge nation view spend";
+var mnemonic = "this squirrel acid magic quick unaware delay crop cigar region mimic today";

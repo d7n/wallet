@@ -1,1 +1,1 @@
-var mnemonic = "process deposit reduce skate flavor speak wonder inspire all gain purchase arena";
+var mnemonic = "regular video script avoid nest nest sunset total cover taste rule away";

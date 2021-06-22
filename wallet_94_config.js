@@ -1,1 +1,1 @@
-var mnemonic = "brief hat walnut another crash mother wheel prison cycle toilet early excess";
+var mnemonic = "caution then supply cereal barely delay twelve genuine aerobic office scorpion concert";

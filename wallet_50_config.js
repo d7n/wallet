@@ -1,1 +1,1 @@
-var mnemonic = "magic field tourist online chase kid add green panther lottery mango clog";
+var mnemonic = "minimum you cheap spot junior choice toddler fruit craft believe critic reveal";

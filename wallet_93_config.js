@@ -1,1 +1,1 @@
-var mnemonic = "ribbon panda episode jump ready repeat decide off magnet album cricket memory";
+var mnemonic = "clinic inhale jewel shine repeat attend cheap lazy attract renew spike slush";

@@ -1,1 +1,1 @@
-var mnemonic = "resemble cupboard meat minimum neither loyal post slush snap abandon zoo fault";
+var mnemonic = "job marine high rent resemble orient mirror rule absurd angry people roast";

@@ -1,1 +1,1 @@
-var mnemonic = "lunch body leave month border cigar sand science office goat clarify eager";
+var mnemonic = "bench high donkey uniform card jeans mammal license congress limb narrow vast";

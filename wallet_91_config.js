@@ -1,1 +1,1 @@
-var mnemonic = "disagree satoshi remember rural horse crawl protect banana solid tumble vacant world";
+var mnemonic = "hurry enact elevator order across arm detect prize chaos aim smoke spend";

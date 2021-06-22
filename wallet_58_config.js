@@ -1,1 +1,1 @@
-var mnemonic = "novel net brother love submit fish palace hello giant wink garlic hello";
+var mnemonic = "asthma frown spatial fuel issue nest coyote cruise title love step labor";

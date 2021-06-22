@@ -1,1 +1,1 @@
-var mnemonic = "omit pink pelican reflect stove act sound crime year table problem check";
+var mnemonic = "illness ritual snap glory diary accuse belt bridge question anchor genuine clock";

@@ -1,1 +1,1 @@
-var mnemonic = "pilot dumb loop vehicle learn elbow oval cushion damp diet giggle clip";
+var mnemonic = "crime bean evidence travel decrease alcohol air until more phrase barrel nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "choose gorilla plate surge lamp whale critic rose ketchup initial abstract bundle";
+var mnemonic = "movie ship vendor blossom region session guilt dismiss inch left guitar scan";

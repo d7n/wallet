@@ -1,1 +1,1 @@
-var mnemonic = "atom slender valid badge oil father cruise confirm then flee remain frown";
+var mnemonic = "antenna essay gym more truth tell kiss plunge bus wheel review burden";

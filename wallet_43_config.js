@@ -1,1 +1,1 @@
-var mnemonic = "reward yard holiday radio switch boat pottery island rain broccoli tuition robot";
+var mnemonic = "remind anchor stay whisper amused near scrub correct siren frown pull carry";

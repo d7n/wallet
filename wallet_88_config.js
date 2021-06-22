@@ -1,1 +1,1 @@
-var mnemonic = "unveil bird deny object make skirt enroll open thing buyer attend element";
+var mnemonic = "fire entire shop box major exhibit bracket affair ridge message skate engine";

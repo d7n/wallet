@@ -1,1 +1,1 @@
-var mnemonic = "broccoli urge maid tortoise flash art matter remove heavy electric doll avocado";
+var mnemonic = "candy kit solution merry captain brown build salmon sick wear wink popular";

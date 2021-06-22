@@ -1,1 +1,1 @@
-var mnemonic = "addict loyal wheel tilt jazz kick mixed town mosquito fox nasty grace";
+var mnemonic = "phrase surge reward bean extra foot habit jealous nose fly calm cruel";

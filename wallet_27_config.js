@@ -1,1 +1,1 @@
-var mnemonic = "summer genuine rigid stand feel chase cloud museum donate injury retreat please";
+var mnemonic = "reduce range green diesel vital caution tank orchard disagree game school aspect";

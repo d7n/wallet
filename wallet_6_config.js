@@ -1,1 +1,1 @@
-var mnemonic = "woman brisk luxury suspect promote sing method hero switch release economy dog";
+var mnemonic = "woman license category pluck crush million orchard sibling name shrimp follow silk";

@@ -1,1 +1,1 @@
-var mnemonic = "legend scissors blind idea region emerge space post empty forest feed concert";
+var mnemonic = "cupboard pink problem jaguar bone exit you choice suggest brass bar merge";

@@ -1,1 +1,1 @@
-var mnemonic = "drill amateur know monster post silent okay tumble stairs rough envelope tuition";
+var mnemonic = "perfect sudden flip never host multiply neutral accident pudding pull entry salute";

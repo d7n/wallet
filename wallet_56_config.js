@@ -1,1 +1,1 @@
-var mnemonic = "december enough hint educate stereo release usage defense begin daughter auction recipe";
+var mnemonic = "ivory maze obtain host glare shine crucial carbon token dose reunion bicycle";

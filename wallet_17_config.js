@@ -1,1 +1,1 @@
-var mnemonic = "pink regret modify disease dove width crack grief also kiwi grow brave";
+var mnemonic = "picnic layer afraid apart come squeeze stock bracket furnace often proud dinosaur";

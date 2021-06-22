@@ -1,1 +1,1 @@
-var mnemonic = "food shallow ethics master palace chat keen goddess gadget holiday keen report";
+var mnemonic = "rice subway save cactus work camp physical relax merit address popular general";

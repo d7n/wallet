@@ -1,1 +1,1 @@
-var mnemonic = "tower impulse large drastic mean roof pact cash fork slam spot doll";
+var mnemonic = "biology prize buffalo skate wage chat another lava shock flat visual path";

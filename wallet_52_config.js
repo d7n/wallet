@@ -1,1 +1,1 @@
-var mnemonic = "monkey match roof food ask royal taste kick barrel dignity polar harbor";
+var mnemonic = "fame earn panic grunt puppy mention million nerve thank risk veteran autumn";

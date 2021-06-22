@@ -1,1 +1,1 @@
-var mnemonic = "antique retreat second organ poet theme day ivory asset nasty thought develop";
+var mnemonic = "nature torch sad chronic shadow useful action carpet grace fox two boring";

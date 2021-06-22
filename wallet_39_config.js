@@ -1,1 +1,1 @@
-var mnemonic = "theory aunt approve census slice shuffle wrist beach device morning vapor above";
+var mnemonic = "wash grain upper keen apart smile mule impulse police retreat practice catch";

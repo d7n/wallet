@@ -1,1 +1,1 @@
-var mnemonic = "since draw length cash plate miss music atom visual need crystal wage";
+var mnemonic = "primary machine athlete awake chat cradle same farm book fly mule violin";

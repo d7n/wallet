@@ -1,1 +1,1 @@
-var mnemonic = "just push reward board lake empty future build help catalog powder cross";
+var mnemonic = "holiday caution payment layer extend warm better van above section system gravity";

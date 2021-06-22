@@ -1,1 +1,1 @@
-var mnemonic = "toilet favorite issue cinnamon satisfy fix aerobic tree upset want garlic victory";
+var mnemonic = "thrive crop cancel damage sight online nasty civil announce cry element waste";

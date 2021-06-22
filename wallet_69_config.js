@@ -1,1 +1,1 @@
-var mnemonic = "toy same dragon parent gym fat stadium floor ordinary awful cloud response";
+var mnemonic = "hawk acquire public sound collect meat safe truly know record slice need";

@@ -1,1 +1,1 @@
-var mnemonic = "expose bulb kick dinner canyon faculty omit bachelor one motion rifle rebuild";
+var mnemonic = "head february impact attitude dawn uncover pluck elevator idle soccer mask idle";

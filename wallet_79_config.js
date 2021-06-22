@@ -1,1 +1,1 @@
-var mnemonic = "supreme salad spike present chronic cool web snake salon much praise exchange";
+var mnemonic = "mango blanket hybrid butter divert remove banana visa element guilt execute tonight";

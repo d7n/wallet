@@ -1,1 +1,1 @@
-var mnemonic = "summer error endorse dawn river piece sudden valid best focus palace collect";
+var mnemonic = "quantum later afford detail indicate large jeans field globe bachelor school message";
