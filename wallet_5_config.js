@@ -1,1 +1,1 @@
-var mnemonic = "gain lift fortune olive until gate vacuum pink hunt coral issue pave";
+var mnemonic = "quantum rotate across pave news blanket heart drastic subway wish gap trumpet";

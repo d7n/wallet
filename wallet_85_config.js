@@ -1,1 +1,1 @@
-var mnemonic = "flip damp honey civil sport height frown expand state diagram impulse fatigue";
+var mnemonic = "ancient pig cabbage please inner joy say camera lobster episode embark decide";

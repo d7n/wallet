@@ -1,1 +1,1 @@
-var mnemonic = "blur document humor can essence party suffer viable own echo buddy direct";
+var mnemonic = "economy any cloud only bid pluck silk quality toast snow early elite";

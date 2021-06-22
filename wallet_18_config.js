@@ -1,1 +1,1 @@
-var mnemonic = "language try gold kitchen orbit enable man report aim potato anger dragon";
+var mnemonic = "short twist final divide disorder december correct cook tenant snap bind engage";

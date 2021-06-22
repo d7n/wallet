@@ -1,1 +1,1 @@
-var mnemonic = "scene annual course gas donkey receive corn tenant stadium joke change torch";
+var mnemonic = "kiwi charge table icon expect mirror acoustic width plastic offer pulp derive";

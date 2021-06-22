@@ -1,1 +1,1 @@
-var mnemonic = "magnet outdoor prize member move fit track gospel glass illness wasp movie";
+var mnemonic = "evil foot amateur cruise health hat zoo merit barrel uphold duty fluid";

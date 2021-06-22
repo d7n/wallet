@@ -1,1 +1,1 @@
-var mnemonic = "into cross language insect brave believe such lab try patient join maid";
+var mnemonic = "idea feel kitchen truly smart mesh rose unknown alone bean sure aisle";

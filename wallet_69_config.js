@@ -1,1 +1,1 @@
-var mnemonic = "believe industry achieve clap basket picture ridge budget wink drift pair health";
+var mnemonic = "pass dumb chicken bring network ring swift region enact wreck between practice";

@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow isolate faculty travel alien bid outside bid ill thumb stock agent";
+var mnemonic = "file invite pond sustain cycle rifle divide price icon debate fit seven";

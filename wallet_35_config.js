@@ -1,1 +1,1 @@
-var mnemonic = "lava wolf mom knife silent enrich oblige pluck brisk hood speed used";
+var mnemonic = "test elbow verb sense winter define bag educate receive enter hidden pitch";

@@ -1,1 +1,1 @@
-var mnemonic = "wage over cotton shadow zebra onion maid keep diagram delay spread pass";
+var mnemonic = "armed various like great review eternal two dragon oak legend advance tent";

@@ -1,1 +1,1 @@
-var mnemonic = "odor feed never upper song aunt spare lion novel child crunch vapor";
+var mnemonic = "duck decorate slender enrich lumber quality ahead ghost wild intact almost polar";

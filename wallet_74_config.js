@@ -1,1 +1,1 @@
-var mnemonic = "yard verify item faculty enjoy crew bottom before orchard embody rare stand";
+var mnemonic = "praise chaos mix youth entire space mango action pole tunnel move report";

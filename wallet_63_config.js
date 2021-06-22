@@ -1,1 +1,1 @@
-var mnemonic = "legend shift couch coast pyramid wagon globe beef dress orange permit pause";
+var mnemonic = "palace skull genuine disagree penalty poem practice treat reform aim kiwi swing";

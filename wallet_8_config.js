@@ -1,1 +1,1 @@
-var mnemonic = "mobile mask lucky rose craft curtain bargain jar face expect ranch journey";
+var mnemonic = "sketch month churn pen addict bleak cement cherry ready ring live rough";

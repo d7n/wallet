@@ -1,1 +1,1 @@
-var mnemonic = "arrest actor regret thing pool there camera end scene bachelor mix cycle";
+var mnemonic = "kind kiwi anxiety pull sauce message attract join valve water inner certain";

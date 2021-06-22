@@ -1,1 +1,1 @@
-var mnemonic = "neither guess allow rough woman company drill exact vocal aerobic endorse tissue";
+var mnemonic = "tumble tilt just tumble unfold save friend paddle trend dish must throw";

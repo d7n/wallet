@@ -1,1 +1,1 @@
-var mnemonic = "lonely bone animal paddle famous sun suffer release able route old artwork";
+var mnemonic = "photo hundred solid oval twenty siren ribbon extend blanket alert together renew";

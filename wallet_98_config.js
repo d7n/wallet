@@ -1,1 +1,1 @@
-var mnemonic = "prosper liar hen answer knee end project salute swear what pass limit";
+var mnemonic = "broom farm nominee casino tail shiver index force ethics win surge scheme";

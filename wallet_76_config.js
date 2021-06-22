@@ -1,1 +1,1 @@
-var mnemonic = "urban guide egg ski amused crash approve flavor rug gaze payment rose";
+var mnemonic = "jazz where cereal dry bomb actress cook ready dilemma slush letter drive";

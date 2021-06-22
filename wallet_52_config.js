@@ -1,1 +1,1 @@
-var mnemonic = "movie that diet execute other hobby drastic march kitchen book snow elevator";
+var mnemonic = "heart various focus autumn emotion eight unknown oblige father way virtual expand";

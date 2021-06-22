@@ -1,1 +1,1 @@
-var mnemonic = "hour forest news crack cushion decide kid park east sleep junk sword";
+var mnemonic = "must logic repeat armed vote ice blouse hour gather climb pave maze";

@@ -1,1 +1,1 @@
-var mnemonic = "budget guard text will warm horror lawn camp fatal club road catch";
+var mnemonic = "north silly beauty course direct ball tortoise way journey spider mother nest";

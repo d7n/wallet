@@ -1,1 +1,1 @@
-var mnemonic = "dignity alone harsh hour snow early gate safe limb stairs pizza human";
+var mnemonic = "trial margin often tag strike reduce dust merge tip endorse more pizza";

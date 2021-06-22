@@ -1,1 +1,1 @@
-var mnemonic = "exact wide size course bronze light shine smooth depth envelope fever embody";
+var mnemonic = "common truck absorb dog army jealous explain pelican example chef inspire twice";

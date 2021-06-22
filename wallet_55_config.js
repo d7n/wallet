@@ -1,1 +1,1 @@
-var mnemonic = "neglect weird dumb rely dilemma valve embody arm clinic make mimic cupboard";
+var mnemonic = "eye false arm dinner shift luxury twelve soup fame either prize setup";

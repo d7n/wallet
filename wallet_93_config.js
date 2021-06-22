@@ -1,1 +1,1 @@
-var mnemonic = "sister service dynamic boss boring human effort next job library pig robust";
+var mnemonic = "elegant empty escape circle across creek cruise monkey viable science view perfect";

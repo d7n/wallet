@@ -1,1 +1,1 @@
-var mnemonic = "happy weasel account enlist differ slide mother pond solid vivid alarm dynamic";
+var mnemonic = "brain century boss clinic bridge reform art forward general flock behave volume";

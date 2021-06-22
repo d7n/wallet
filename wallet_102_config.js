@@ -1,1 +1,1 @@
-var mnemonic = "raven thrive filter tooth ripple actor member give river long area noise";
+var mnemonic = "gold pigeon virus shy eager join join borrow inhale until wise inmate";

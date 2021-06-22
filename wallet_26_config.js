@@ -1,1 +1,1 @@
-var mnemonic = "room post hazard home warrior siege recycle science traffic turkey solve party";
+var mnemonic = "doll grit sad animal woman humble carry march crucial gallery crouch enhance";

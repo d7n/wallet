@@ -1,1 +1,1 @@
-var mnemonic = "curtain rose vital ribbon left health wrap three asset kiwi shove pulse";
+var mnemonic = "mutual curve state slam travel cube then health dinosaur valve peanut sun";

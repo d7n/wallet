@@ -1,1 +1,1 @@
-var mnemonic = "spawn draft repeat marriage brain yard huge hotel behind potato busy horse";
+var mnemonic = "process banner arena adapt useful busy father width indicate record polar nurse";

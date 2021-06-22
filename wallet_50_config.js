@@ -1,1 +1,1 @@
-var mnemonic = "attack mix term topple battle title glad rebel blame drastic limit cupboard";
+var mnemonic = "daring used method north rare sketch inflict toilet long visa advice spoil";

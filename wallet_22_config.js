@@ -1,1 +1,1 @@
-var mnemonic = "mouse alien cousin corn exist weather excite joke accuse danger vapor visit";
+var mnemonic = "link pig front rib benefit gloom enemy leopard someone wash decade company";

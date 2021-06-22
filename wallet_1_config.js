@@ -1,1 +1,1 @@
-var mnemonic = "stumble twenty that drop hurry hurry hawk cigar acoustic mention fiction merit";
+var mnemonic = "woman wine cool limit picnic dirt situate holiday vapor uncle minor float";

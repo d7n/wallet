@@ -1,1 +1,1 @@
-var mnemonic = "mirror bullet price doll repair decrease rent river night radio purchase early";
+var mnemonic = "effort federal sorry session close joy voyage stay toddler assist wrist suit";

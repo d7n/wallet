@@ -1,1 +1,1 @@
-var mnemonic = "erase february alien swear control permit inch dawn employ inflict item improve";
+var mnemonic = "parrot vacant supreme left reduce diet recall desk cushion daring hospital image";

@@ -1,1 +1,1 @@
-var mnemonic = "beyond motion pet sibling twelve inch edge material trick snack hold lawsuit";
+var mnemonic = "soda rhythm today double time frog brief model tomorrow position sound portion";

@@ -1,1 +1,1 @@
-var mnemonic = "glove soft exotic tenant predict brief distance veteran claim later memory note";
+var mnemonic = "harbor course invest ready milk exotic era foam friend boss excuse wool";

@@ -1,1 +1,1 @@
-var mnemonic = "connect sting crane walk together athlete genius divert rubber demand amazing fortune";
+var mnemonic = "total naive purity mean square water light choose electric paper mammal output";

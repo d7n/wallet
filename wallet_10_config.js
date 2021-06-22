@@ -1,1 +1,1 @@
-var mnemonic = "oil nasty top cinnamon lab thunder snap prepare vintage abstract glove beyond";
+var mnemonic = "flower black excess cook tower occur weekend glide circle hire lady veteran";

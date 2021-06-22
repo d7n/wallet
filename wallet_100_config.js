@@ -1,1 +1,1 @@
-var mnemonic = "battle term alone behave hidden step lend use impact mistake inspire melody";
+var mnemonic = "card problem game attend oval alarm organ expand federal start identify toe";

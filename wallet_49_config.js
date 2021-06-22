@@ -1,1 +1,1 @@
-var mnemonic = "draft team memory say page wheat language unveil mandate antique upon sort";
+var mnemonic = "input crazy clay false shine turkey umbrella curious upset subject hedgehog pioneer";

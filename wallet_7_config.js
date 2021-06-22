@@ -1,1 +1,1 @@
-var mnemonic = "outside juice atom reopen hockey reopen amount vacuum upgrade trust become minimum";
+var mnemonic = "hire table tuna salmon chimney monkey illness modify grunt want hope cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "rival bar elegant benefit subway forest game mercy tortoise plunge rose become";
+var mnemonic = "kitchen buzz mosquito live pet boring share wine mass bless nature shy";

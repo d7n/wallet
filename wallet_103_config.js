@@ -1,1 +1,1 @@
-var mnemonic = "catch monitor recall upgrade slice swift stumble close gravity drastic effort core";
+var mnemonic = "buddy suggest best jelly bench priority start power citizen subject diary select";

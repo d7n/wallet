@@ -1,1 +1,1 @@
-var mnemonic = "strong sort lyrics biology eyebrow green misery segment enrich correct quantum pilot";
+var mnemonic = "awful net cradle disorder sniff goose tongue expire congress swim text silver";

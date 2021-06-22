@@ -1,1 +1,1 @@
-var mnemonic = "shy veteran session diet mail fiction shrug tomato curve body model burst";
+var mnemonic = "beach stool turn crouch color draft regular phone scissors agent often empty";

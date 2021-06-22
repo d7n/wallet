@@ -1,1 +1,1 @@
-var mnemonic = "volcano mention dish govern dawn drink link camera affair sound rice cheese";
+var mnemonic = "mistake office luggage chair below pear ask park color carbon will sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "elevator cave cattle own broccoli awake hat relax eternal office little title";
+var mnemonic = "cruel scorpion hub vintage shiver document fly reject frame extra seed employ";

@@ -1,1 +1,1 @@
-var mnemonic = "march normal filter host fresh noble other whale cup enforce erase join";
+var mnemonic = "gown awful collect crash drift chaos clock exist butter nice dress material";

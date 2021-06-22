@@ -1,1 +1,1 @@
-var mnemonic = "paper describe catalog treat route reform joy pool rate mansion bind room";
+var mnemonic = "country broom pelican switch false desk baby outer possible link spatial index";

@@ -1,1 +1,1 @@
-var mnemonic = "inch submit concert quiz next silly kick album play year ordinary fog";
+var mnemonic = "brother regret chaos balcony trouble poet year connect retreat undo lawsuit report";

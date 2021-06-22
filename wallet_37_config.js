@@ -1,1 +1,1 @@
-var mnemonic = "area size law chimney social boy actual page viable cattle hungry canyon";
+var mnemonic = "race clean caution keen lake robust degree orphan grant run perfect still";

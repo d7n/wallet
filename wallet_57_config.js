@@ -1,1 +1,1 @@
-var mnemonic = "cigar emerge divide phone ritual fiscal length veteran skull aerobic account dish";
+var mnemonic = "mechanic boring inject candy category velvet cattle interest merry solar arrow glad";

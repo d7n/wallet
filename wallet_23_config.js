@@ -1,1 +1,1 @@
-var mnemonic = "library bracket flip manage grain cloud topple east firm ramp together kid";
+var mnemonic = "practice claim hidden distance turn outer tourist item mixture wrist guide poverty";

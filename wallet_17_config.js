@@ -1,1 +1,1 @@
-var mnemonic = "piece asthma cross boost health cry afraid denial bulk claim ancient welcome";
+var mnemonic = "leisure three duty alcohol average oval impulse supreme anxiety oyster hill squirrel";

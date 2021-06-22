@@ -1,1 +1,1 @@
-var mnemonic = "gravity glimpse violin supreme velvet miracle autumn dumb remain target twist faint";
+var mnemonic = "crew rigid reveal talk dinosaur mercy buddy sponsor mom cannon cliff mother";

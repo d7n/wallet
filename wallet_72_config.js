@@ -1,1 +1,1 @@
-var mnemonic = "owner chase then art unable earn bike lion dumb afraid arena urge";
+var mnemonic = "flush luxury where fix name shock luxury party combine live metal crisp";

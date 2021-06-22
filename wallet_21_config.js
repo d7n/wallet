@@ -1,1 +1,1 @@
-var mnemonic = "express evil govern install school canoe sheriff mammal cross slight prison reduce";
+var mnemonic = "impose fever useless capital loyal slush oak feed tower toast raven cluster";

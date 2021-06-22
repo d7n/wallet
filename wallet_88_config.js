@@ -1,1 +1,1 @@
-var mnemonic = "win mosquito cargo setup visual width asthma moon venture detect cargo unusual";
+var mnemonic = "point keen already rug gift toe oppose fiber stomach cabbage super turn";

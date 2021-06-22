@@ -1,1 +1,1 @@
-var mnemonic = "crisp result genre apart obvious raccoon blush mention limb spread paper gift";
+var mnemonic = "believe dry cool harsh erosion mule couple beyond stay morning lobster world";

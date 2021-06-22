@@ -1,1 +1,1 @@
-var mnemonic = "vacuum easy ring census explain climb farm build tackle million mimic consider";
+var mnemonic = "rain sorry fog need onion monitor near fortune capable fee credit pupil";

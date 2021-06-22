@@ -1,1 +1,1 @@
-var mnemonic = "warm ring broken yellow caution survey square chief tiger word bundle noble";
+var mnemonic = "boss purity easy bamboo gate denial dizzy pattern mansion patrol visa rebuild";

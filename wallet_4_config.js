@@ -1,1 +1,1 @@
-var mnemonic = "method inner infant talk sleep slam suspect penalty candy reopen employ almost";
+var mnemonic = "clock voyage enhance capital joke weird ghost voyage sustain proud slight boost";

@@ -1,1 +1,1 @@
-var mnemonic = "infant fix mention payment manage expire glad rug mutual label harsh neglect";
+var mnemonic = "mansion stuff vault sibling plug feature glory valley poet picture chalk include";

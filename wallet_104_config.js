@@ -1,1 +1,1 @@
-var mnemonic = "fresh detail tide novel jungle minute hurry zero essay lazy forward foil";
+var mnemonic = "repair rival worry price make doll mule civil liar zoo coin hero";

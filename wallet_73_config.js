@@ -1,1 +1,1 @@
-var mnemonic = "filter arrow galaxy coral armed smart convince announce save version talk melt";
+var mnemonic = "ribbon settle edit turtle velvet cradle horror drill belt ethics afford close";

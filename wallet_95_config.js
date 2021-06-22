@@ -1,1 +1,1 @@
-var mnemonic = "useful fuel setup fury damp apple cement over sport burden pelican hidden";
+var mnemonic = "snow mass reunion wolf camera dove nothing soap prevent shed illegal rotate";

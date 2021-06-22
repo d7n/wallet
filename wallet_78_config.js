@@ -1,1 +1,1 @@
-var mnemonic = "stadium company armed spice public vicious code advice envelope walk mind truly";
+var mnemonic = "famous tomorrow improve middle wood armed wife crack amount survey usage labor";

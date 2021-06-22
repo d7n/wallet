@@ -1,1 +1,1 @@
-var mnemonic = "town mask biology write smart skin vacant squirrel employ paddle whisper bacon";
+var mnemonic = "update congress good census deer learn fitness assist allow cable tone when";

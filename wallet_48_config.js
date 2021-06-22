@@ -1,1 +1,1 @@
-var mnemonic = "library never cushion bird behave vapor trip agree sugar budget illness vicious";
+var mnemonic = "decline team grace goose tomorrow shiver between vivid pluck control object spatial";

@@ -1,1 +1,1 @@
-var mnemonic = "cook begin jealous lazy foam quote brown draw solar grant skin champion";
+var mnemonic = "harvest head morning suffer hunt extend devote canal twin matrix lens arrest";

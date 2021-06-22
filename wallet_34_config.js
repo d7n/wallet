@@ -1,1 +1,1 @@
-var mnemonic = "gloom rival shrimp express never detect potato enjoy december private call top";
+var mnemonic = "cup convince motion toddler mouse gown ranch submit harvest math burger immense";

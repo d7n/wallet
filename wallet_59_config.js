@@ -1,1 +1,1 @@
-var mnemonic = "easily gain mom pet tomorrow visual grace river slam seek dice world";
+var mnemonic = "blade woman unknown april quiz race winter public client soup wise bird";

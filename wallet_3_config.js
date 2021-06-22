@@ -1,1 +1,1 @@
-var mnemonic = "seed mansion will august decorate vapor giggle nature pear electric element special";
+var mnemonic = "keen settle either print slice sunny evil point quantum hawk dress once";

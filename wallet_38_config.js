@@ -1,1 +1,1 @@
-var mnemonic = "lemon beauty amazing sugar human salon dumb honey humble eight assault laptop";
+var mnemonic = "loan stool body magnet cash weird jewel resource margin color scheme win";

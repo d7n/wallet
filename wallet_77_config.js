@@ -1,1 +1,1 @@
-var mnemonic = "light feel valve seven rent stereo punch drop ceiling vapor betray quit";
+var mnemonic = "lizard rich palace shield tackle chalk despair source trumpet box squirrel false";

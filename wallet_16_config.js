@@ -1,1 +1,1 @@
-var mnemonic = "unfair creek then creek amazing desk coin roast purity hood cream group";
+var mnemonic = "code addict similar test river basic dog plug seminar save hundred march";

@@ -1,1 +1,1 @@
-var mnemonic = "razor side kiss umbrella hard zebra radar fire enlist fee fashion kit";
+var mnemonic = "reject earth shrug jelly prison true corn avocado thought clock learn almost";

@@ -1,1 +1,1 @@
-var mnemonic = "entry share people valve scare hood only biology bargain raccoon champion abuse";
+var mnemonic = "asset fun cheap gold abuse wing furnace shaft frost gadget disease shy";

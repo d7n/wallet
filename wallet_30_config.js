@@ -1,1 +1,1 @@
-var mnemonic = "spike million quick fiscal keen vital raw dove planet more sustain enlist";
+var mnemonic = "code mean expand jar neck document frozen orchard month setup pupil kit";

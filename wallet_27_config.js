@@ -1,1 +1,1 @@
-var mnemonic = "reunion armed tuition elegant crew fix simple cook glimpse update comfort street";
+var mnemonic = "where onion direct bonus plug inmate glory wonder title grab tape mimic";

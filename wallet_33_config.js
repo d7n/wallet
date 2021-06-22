@@ -1,1 +1,1 @@
-var mnemonic = "write phrase giggle attract one kidney mansion message glad cabin talent horn";
+var mnemonic = "give express teach captain actual candy unhappy surround harvest smooth bamboo pepper";

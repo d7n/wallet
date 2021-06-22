@@ -1,1 +1,1 @@
-var mnemonic = "opera unfold shove lawn cliff enable juice today plug february material govern";
+var mnemonic = "special boil marriage assume minute acquire vocal nose garment desert impulse dismiss";

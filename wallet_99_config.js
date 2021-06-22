@@ -1,1 +1,1 @@
-var mnemonic = "glide net couple pen cart punch differ flee barely screen animal observe";
+var mnemonic = "middle exile remove wall simple wear hidden iron provide morning prevent sure";

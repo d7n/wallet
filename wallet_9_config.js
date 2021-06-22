@@ -1,1 +1,1 @@
-var mnemonic = "add company concert rather slender wish universe property ahead tube embrace addict";
+var mnemonic = "poet walnut catalog stage erosion always history earn version slogan aerobic ask";

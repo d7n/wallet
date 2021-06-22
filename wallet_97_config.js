@@ -1,1 +1,1 @@
-var mnemonic = "phone elevator all message blouse blouse catch virus category belt tumble original";
+var mnemonic = "wall very talk spot prefer slot marine plate horror myself tissue tent";
