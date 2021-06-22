@@ -1,1 +1,1 @@
-var mnemonic = "cousin ivory fringe lunch receive lady ball lawsuit session survey exhibit present";
+var mnemonic = "tip cable remove wagon gun reason camp mesh zone battle dumb obtain";

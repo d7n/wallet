@@ -1,1 +1,1 @@
-var mnemonic = "carpet initial decrease lunch yard sleep tell length odor tray flame response";
+var mnemonic = "balance link manual vital remind strike caught lumber slender recycle fat rookie";

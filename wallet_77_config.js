@@ -1,1 +1,1 @@
-var mnemonic = "turtle because liar grocery remove exhibit desk enlist fury minimum relax energy";
+var mnemonic = "sell apple feed monster disorder pride bubble magic skirt knock deal solution";

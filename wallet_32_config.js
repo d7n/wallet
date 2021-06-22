@@ -1,1 +1,1 @@
-var mnemonic = "elephant clever impulse parrot jaguar size pistol gold permit love flame random";
+var mnemonic = "science turtle turn hub slush stairs engine antique improve scale stomach awful";

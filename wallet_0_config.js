@@ -1,1 +1,1 @@
-var mnemonic = "shaft aisle liberty honey friend jewel notice tunnel cube symptom enforce alpha";
+var mnemonic = "oil major employ ready little monitor test oil desk physical already glance";

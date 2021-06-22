@@ -1,1 +1,1 @@
-var mnemonic = "leg six shove focus sign favorite gun obtain beef cotton cradle rain";
+var mnemonic = "feature farm base sniff bubble identify decline absurd fog task cube artwork";

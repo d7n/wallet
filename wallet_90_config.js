@@ -1,1 +1,1 @@
-var mnemonic = "peasant spatial sweet ice rapid wheat build cycle brush board economy rice";
+var mnemonic = "nurse eagle client moment cover galaxy genuine record travel cage modify relax";

@@ -1,1 +1,1 @@
-var mnemonic = "either push arm fury garage vicious roof charge custom rug conduct juice";
+var mnemonic = "trigger seed flavor slot alert blood note rough use rural near betray";

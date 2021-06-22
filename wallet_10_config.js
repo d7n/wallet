@@ -1,1 +1,1 @@
-var mnemonic = "clip large wage expand pause march theory cook print clock asset kiss";
+var mnemonic = "web uncle element silk claw piano music display helmet easy caught arrange";

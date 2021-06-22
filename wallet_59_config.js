@@ -1,1 +1,1 @@
-var mnemonic = "comfort episode arrest night betray royal boring luggage bronze truly wait become";
+var mnemonic = "topic snake autumn drink winter sorry quote soul jelly cherry humble minute";

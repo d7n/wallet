@@ -1,1 +1,1 @@
-var mnemonic = "author pitch normal fault enough thought rescue matter author solar similar hint";
+var mnemonic = "member route mutual lift little sheriff puzzle advice catalog limb oxygen level";

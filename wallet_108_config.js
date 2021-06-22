@@ -1,1 +1,1 @@
-var mnemonic = "place dream trash staff traffic pipe mutual depend promote travel abstract enlist";
+var mnemonic = "transfer unusual lock boss leave lift update gas special rather unable crucial";

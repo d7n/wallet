@@ -1,1 +1,1 @@
-var mnemonic = "cable icon give secret come useless stamp diagram cat sail isolate topic";
+var mnemonic = "rather able turn marriage desert bubble light fiber fish direct tape congress";

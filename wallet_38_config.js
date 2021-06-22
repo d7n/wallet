@@ -1,1 +1,1 @@
-var mnemonic = "change shock guess immune supreme ugly cable edge cruel eye stage habit";
+var mnemonic = "know early tube spray flash stamp effort invite degree person mind diet";

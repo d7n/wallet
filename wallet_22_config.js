@@ -1,1 +1,1 @@
-var mnemonic = "host finger daring boost avoid hundred barrel canyon catalog grocery net hope";
+var mnemonic = "giant hawk solution crucial arm gravity sail peace badge favorite comic crash";

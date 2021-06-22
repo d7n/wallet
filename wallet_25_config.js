@@ -1,1 +1,1 @@
-var mnemonic = "sorry veteran screen measure diet math awkward dose ribbon stumble kite engine";
+var mnemonic = "valley profit unfold pink smile ginger business struggle summer hair fever dress";

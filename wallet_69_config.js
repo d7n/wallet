@@ -1,1 +1,1 @@
-var mnemonic = "mind keen purity ostrich maple digital purpose load often pluck helmet winner";
+var mnemonic = "enemy left concert capital scale mercy bomb live plate drum inspire thought";

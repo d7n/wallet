@@ -1,1 +1,1 @@
-var mnemonic = "spare stairs shiver imitate glove meat unit volcano age heart mosquito picture";
+var mnemonic = "arrow cabbage cram anchor invite feature problem economy detect egg island same";

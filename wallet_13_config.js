@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow goddess motor whisper success clutch skull define joy much smart across";
+var mnemonic = "strategy crane level impact unlock focus boil legal have fade laundry best";

@@ -1,1 +1,1 @@
-var mnemonic = "minimum attract huge seed episode client scorpion tourist library deal excess cradle";
+var mnemonic = "pyramid visit twice almost sleep alpha penalty purse catch van kind smooth";

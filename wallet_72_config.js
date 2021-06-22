@@ -1,1 +1,1 @@
-var mnemonic = "orient warm index lottery enhance crush action fat feature flat ahead pepper";
+var mnemonic = "ankle rescue silver author during stage time chimney provide beyond bargain material";

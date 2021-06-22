@@ -1,1 +1,1 @@
-var mnemonic = "frozen exotic ginger crucial sail security foster staff coin blouse mammal way";
+var mnemonic = "field board hood daring tiger hedgehog carbon helmet will fatigue jeans relief";

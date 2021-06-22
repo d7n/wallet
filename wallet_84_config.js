@@ -1,1 +1,1 @@
-var mnemonic = "error body view degree brisk address woman legal boss market detect cart";
+var mnemonic = "layer yard guilt evil finger cliff deliver wisdom current sword talk weather";

@@ -1,1 +1,1 @@
-var mnemonic = "knee industry entry invest elevator what caught loyal six media bright foil";
+var mnemonic = "junk aunt roof any museum fish bundle item during town bitter chase";

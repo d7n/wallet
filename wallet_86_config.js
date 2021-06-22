@@ -1,1 +1,1 @@
-var mnemonic = "eye inflict carbon almost video drill purity donkey prepare juice scene then";
+var mnemonic = "regret struggle consider obscure hybrid noble hen work bid scatter baby success";

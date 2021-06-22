@@ -1,1 +1,1 @@
-var mnemonic = "baby jazz upgrade glass obtain toss shrug cradle flip trap sell report";
+var mnemonic = "click vault vibrant myth bracket fuel jewel beyond mango settle cinnamon dinosaur";

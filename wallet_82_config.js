@@ -1,1 +1,1 @@
-var mnemonic = "valley return shock recipe prize tribe stereo witness nuclear notice logic power";
+var mnemonic = "angle trigger salute feature peace convince add frown future casual poverty author";

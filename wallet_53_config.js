@@ -1,1 +1,1 @@
-var mnemonic = "track sister pony vague novel wing wink meat desert idea alcohol build";
+var mnemonic = "segment high escape produce spell bind dance matter attract narrow brand neutral";

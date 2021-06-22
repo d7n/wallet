@@ -1,1 +1,1 @@
-var mnemonic = "deer ripple feature shrimp nurse cave pencil cute adult wage assume aspect";
+var mnemonic = "choose satoshi theme avoid make balcony friend later honey fatal away daughter";

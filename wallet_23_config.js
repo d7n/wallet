@@ -1,1 +1,1 @@
-var mnemonic = "century olympic promote furnace develop denial rude ramp basket jealous vintage screen";
+var mnemonic = "funny skull fog digital job logic picture trial humble term spend limb";

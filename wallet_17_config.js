@@ -1,1 +1,1 @@
-var mnemonic = "observe riot friend pizza candy chronic load outside boil brain apple fiction";
+var mnemonic = "idle design resist learn settle bridge bid trouble hood face security morning";

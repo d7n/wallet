@@ -1,1 +1,1 @@
-var mnemonic = "fault can position balance version shoulder magnet addict thought genre clock action";
+var mnemonic = "maze rude wonder trophy under clutch cement okay bus rare donkey siren";

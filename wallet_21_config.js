@@ -1,1 +1,1 @@
-var mnemonic = "spot appear senior torch abstract unknown dolphin please harsh fame cross unaware";
+var mnemonic = "basic wealth mom observe flag simple brave awful ugly april trumpet illness";

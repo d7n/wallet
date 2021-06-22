@@ -1,1 +1,1 @@
-var mnemonic = "worth bonus episode cradle alley edit garbage submit unique burst kangaroo jump";
+var mnemonic = "pudding word name reduce vanish delay walk crack day state match sell";

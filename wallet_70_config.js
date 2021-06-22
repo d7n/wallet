@@ -1,1 +1,1 @@
-var mnemonic = "lake paddle crawl century manual crystal outdoor zone tape deliver drift naive";
+var mnemonic = "horse awake clerk usage merry alter index spare used shuffle universe fluid";

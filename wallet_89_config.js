@@ -1,1 +1,1 @@
-var mnemonic = "boring student cause episode culture neutral almost leg frozen sunny this copper";
+var mnemonic = "feature enjoy monitor inspire child guard upper arrive math snap toward danger";

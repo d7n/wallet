@@ -1,1 +1,1 @@
-var mnemonic = "fury dragon swift excite cricket repair silk remove night salad easily design";
+var mnemonic = "lawn economy flee person soccer valid bulk fall taste guide choice unaware";

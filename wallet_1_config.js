@@ -1,1 +1,1 @@
-var mnemonic = "broken range wolf impulse section urge foam lift drip motion benefit ordinary";
+var mnemonic = "identify blossom whale siege arena nuclear begin mad rare woman stock wolf";

@@ -1,1 +1,1 @@
-var mnemonic = "copper bind syrup permit gift dinosaur monkey derive gadget knock pelican candy";
+var mnemonic = "permit panther coral outside floor thought retreat swim inform soon junior embrace";

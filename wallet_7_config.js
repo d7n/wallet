@@ -1,1 +1,1 @@
-var mnemonic = "grid spread kidney leader require drastic seven magnet fault tilt bottom saddle";
+var mnemonic = "learn achieve solar search frequent aunt elite shoot quarter arm credit quantum";

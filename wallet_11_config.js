@@ -1,1 +1,1 @@
-var mnemonic = "shoulder piano slam boss chest gallery paper random rule fall medal winner";
+var mnemonic = "math stick strike question thank rural pattern glow dove hour frost green";

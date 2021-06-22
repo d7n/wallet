@@ -1,1 +1,1 @@
-var mnemonic = "one pelican monitor segment asthma abandon good style damp crisp comic number";
+var mnemonic = "edge banana hundred music axis enter approve fit lunar team capable tonight";

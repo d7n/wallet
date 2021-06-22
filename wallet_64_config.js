@@ -1,1 +1,1 @@
-var mnemonic = "wink slab enlist filter pink grief analyst decrease gain decade hair volume";
+var mnemonic = "tiger frame tonight deliver cloud treat oppose gospel prison sleep pull sunny";

@@ -1,1 +1,1 @@
-var mnemonic = "space trouble surround give avoid memory cherry tent idea educate mask giant";
+var mnemonic = "economy else cherry pole frozen pulp put kidney super mango calm bless";

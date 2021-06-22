@@ -1,1 +1,1 @@
-var mnemonic = "sea fish copy fashion april finger media excite sight provide surprise arch";
+var mnemonic = "castle melt slush order melody orange knock utility convince foster essay wine";

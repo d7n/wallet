@@ -1,1 +1,1 @@
-var mnemonic = "approve series level mesh nurse useful loyal engine arrange equal ketchup public";
+var mnemonic = "gain vendor write oven cloth delay talk pill sketch crane seminar system";

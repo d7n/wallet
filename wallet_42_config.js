@@ -1,1 +1,1 @@
-var mnemonic = "sister swing claim crew circle have output axis repeat mercy canal pluck";
+var mnemonic = "visa analyst account cycle surprise shrug shove select arctic gorilla betray wreck";

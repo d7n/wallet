@@ -1,1 +1,1 @@
-var mnemonic = "vital twelve replace output benefit vehicle stock attack laptop force stadium entry";
+var mnemonic = "misery science when rocket exit crowd crash dismiss guess summer acquire wide";

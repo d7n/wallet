@@ -1,1 +1,1 @@
-var mnemonic = "soul cave lecture immune plug voyage cash pull mystery eager crisp fat";
+var mnemonic = "chunk basic void fall until leader harvest mention light track debris master";

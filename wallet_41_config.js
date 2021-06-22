@@ -1,1 +1,1 @@
-var mnemonic = "skirt acquire hole birth hidden quantum economy lock tennis dilemma pipe praise";
+var mnemonic = "crane foam worry smart garden sauce vintage mixture embark rich day seat";

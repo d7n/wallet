@@ -1,1 +1,1 @@
-var mnemonic = "eight rate shrimp draw vibrant ball head risk finish exotic banner guess";
+var mnemonic = "lottery fatigue melt lizard ask neck consider proud table boil fatigue digital";

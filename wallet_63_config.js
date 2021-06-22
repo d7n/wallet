@@ -1,1 +1,1 @@
-var mnemonic = "tornado buddy that abandon winter robust fog cannon nerve hair among wisdom";
+var mnemonic = "monster project mushroom error trend era donkey rail nerve omit blanket uncle";

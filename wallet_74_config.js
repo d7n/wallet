@@ -1,1 +1,1 @@
-var mnemonic = "flat fossil among indoor fog badge gain gospel thumb weapon destroy disagree";
+var mnemonic = "arm know nuclear economy tiny media fire broom ask tone road interest";

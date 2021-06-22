@@ -1,1 +1,1 @@
-var mnemonic = "kidney daring one hybrid ozone differ view ship kitten brief symptom artefact";
+var mnemonic = "myth eagle famous mind sight mansion adapt ask improve timber zero loan";

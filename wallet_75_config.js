@@ -1,1 +1,1 @@
-var mnemonic = "error actress glance sad ball anxiety silent peanut silver garlic more author";
+var mnemonic = "salt tiger borrow brother same cabin meat snap certain chief kind ketchup";

@@ -1,1 +1,1 @@
-var mnemonic = "message delay upgrade abuse light man clerk response mother list exchange edge";
+var mnemonic = "van mandate future space fade bomb dance wife false zebra carry real";

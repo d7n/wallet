@@ -1,1 +1,1 @@
-var mnemonic = "empower gun deny wild gorilla elegant position climb monitor double autumn stairs";
+var mnemonic = "scale safe artwork hedgehog rent transfer comfort truck evidence service velvet refuse";

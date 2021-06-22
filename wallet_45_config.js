@@ -1,1 +1,1 @@
-var mnemonic = "hip ribbon rhythm risk limb syrup across retreat farm horror first web";
+var mnemonic = "jewel renew cross notable buddy glance huge soup spike decide lumber student";

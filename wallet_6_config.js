@@ -1,1 +1,1 @@
-var mnemonic = "tennis wage cinnamon stove explain skate world acquire door fall multiply senior";
+var mnemonic = "pride abstract ship second artist mansion quote tribe favorite rug subway inside";

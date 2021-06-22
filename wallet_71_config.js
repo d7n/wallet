@@ -1,1 +1,1 @@
-var mnemonic = "ridge grace sponsor awkward oven paddle possible have school sauce multiply brass";
+var mnemonic = "uncle festival witness seek miracle front chaos build agree smart whale wedding";

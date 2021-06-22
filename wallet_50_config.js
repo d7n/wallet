@@ -1,1 +1,1 @@
-var mnemonic = "pass heart oxygen grunt coin outdoor garbage dog champion admit arctic song";
+var mnemonic = "apology sniff supply mention lobster main quarter impulse decrease cherry weekend wolf";

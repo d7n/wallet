@@ -1,1 +1,1 @@
-var mnemonic = "trial logic kitten bicycle suit category unable whip glimpse country swim hammer";
+var mnemonic = "relax bamboo crane poet congress address leaf marriage bulk foil bean sure";

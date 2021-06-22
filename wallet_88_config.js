@@ -1,1 +1,1 @@
-var mnemonic = "behind slim crack income logic color duty legal sudden trial trust lumber";
+var mnemonic = "rich sister robot spare boat desert flush drop cement letter body check";

@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo energy siege choose crane umbrella winter mesh behind crisp sudden couch";
+var mnemonic = "tone asset tag copper garbage claw carbon math tree diary pass lobster";

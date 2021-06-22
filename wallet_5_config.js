@@ -1,1 +1,1 @@
-var mnemonic = "rally garlic maple bottom butter calm salt staff keen purpose because gesture";
+var mnemonic = "brother hungry seminar addict shield hat popular volcano affair rescue snack absorb";

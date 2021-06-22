@@ -1,1 +1,1 @@
-var mnemonic = "turtle regular quarter few enemy regret sound receive heart burger mad prevent";
+var mnemonic = "fetch deputy forget kid museum omit calm trumpet bundle width sick actress";

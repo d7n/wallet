@@ -1,1 +1,1 @@
-var mnemonic = "eight neutral tuna light helmet bind mesh toy foam lounge excess garment";
+var mnemonic = "wall dignity merge tank happy logic theory stumble reform annual coconut marble";

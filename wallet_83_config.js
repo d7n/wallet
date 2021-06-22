@@ -1,1 +1,1 @@
-var mnemonic = "ecology scale twin task february marriage entire orphan record lecture stadium trade";
+var mnemonic = "deal amount auto hover pluck cost pony shell segment happy stay scissors";

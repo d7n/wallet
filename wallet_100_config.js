@@ -1,1 +1,1 @@
-var mnemonic = "daring penalty correct prepare sibling tone typical occur ordinary box sand acquire";
+var mnemonic = "rhythm december material attack legal daring despair muffin execute insane avoid glory";

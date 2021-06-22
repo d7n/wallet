@@ -1,1 +1,1 @@
-var mnemonic = "deputy sunny drama smoke assist uncover vapor script velvet story crumble tornado";
+var mnemonic = "sniff dismiss because army primary actor neck swap raven syrup lounge output";

@@ -1,1 +1,1 @@
-var mnemonic = "hospital hope patch love range elevator monitor anger embrace remain submit glad";
+var mnemonic = "trick mosquito dragon water life print grid vehicle february wool margin wash";

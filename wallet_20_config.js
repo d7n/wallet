@@ -1,1 +1,1 @@
-var mnemonic = "siege gym penalty balance stone bar snow physical above license deer boat";
+var mnemonic = "sustain buffalo liar pitch mammal attract poverty tennis recall betray alter upper";

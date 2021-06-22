@@ -1,1 +1,1 @@
-var mnemonic = "laptop they account rather end tennis spider viable advance action solar judge";
+var mnemonic = "solution casino diagram process still admit open magnet cart wood easily art";

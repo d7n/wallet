@@ -1,1 +1,1 @@
-var mnemonic = "indoor allow develop behave angry cushion capable follow daughter tonight fabric pizza";
+var mnemonic = "wheat pool gap desk keep success moment stumble dolphin nurse shrug impose";

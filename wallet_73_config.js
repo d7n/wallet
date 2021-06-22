@@ -1,1 +1,1 @@
-var mnemonic = "fetch service furnace movie avoid real melt melody write wild pipe bicycle";
+var mnemonic = "regret weasel way soup recycle raise library supply size resemble hold venture";

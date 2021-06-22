@@ -1,1 +1,1 @@
-var mnemonic = "amateur illness couch crunch home beef capable bronze act stairs protect scene";
+var mnemonic = "topic sword day labor hungry fashion actress domain endorse strong whale angle";

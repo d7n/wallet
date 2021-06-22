@@ -1,1 +1,1 @@
-var mnemonic = "various skirt antique wash right kick weather coil skill opinion abandon devote";
+var mnemonic = "wagon captain mind witness walk food dolphin term couple emerge render long";

@@ -1,1 +1,1 @@
-var mnemonic = "inner strategy melt wire genre provide street novel wrestle debris whale menu";
+var mnemonic = "cannon work weird hurt concert amazing level snap rug silk protect panda";

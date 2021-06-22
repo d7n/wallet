@@ -1,1 +1,1 @@
-var mnemonic = "potato three drift force blame crew royal trial family city advice burst";
+var mnemonic = "domain replace zone slim sheriff dose route seven west pride brother shadow";

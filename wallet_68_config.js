@@ -1,1 +1,1 @@
-var mnemonic = "drum coast mansion evoke blur gather vivid change dove warm arrow brush";
+var mnemonic = "bike sense enact focus plate cereal file unveil radar festival public grit";

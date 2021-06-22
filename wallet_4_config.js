@@ -1,1 +1,1 @@
-var mnemonic = "royal never small use velvet regular tomato ball pencil order motion focus";
+var mnemonic = "breeze injury arm danger brand fashion web artefact canal demand hamster melody";

@@ -1,1 +1,1 @@
-var mnemonic = "letter often group aim drift twenty pear live require weapon cradle offer";
+var mnemonic = "family wall series mandate trash weasel adapt fancy guard update silent rice";

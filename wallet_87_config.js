@@ -1,1 +1,1 @@
-var mnemonic = "couple between universe allow pitch gym story labor frost crucial test census";
+var mnemonic = "decade neutral fatal brick size damp cousin swallow friend divide fit dirt";

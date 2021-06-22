@@ -1,1 +1,1 @@
-var mnemonic = "vivid fantasy detect corn mass island once same ordinary live envelope flight";
+var mnemonic = "defy plastic census sorry grant lonely energy often there amused diet result";

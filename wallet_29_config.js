@@ -1,1 +1,1 @@
-var mnemonic = "cave famous alert milk baby core cycle start quarter way bounce shoot";
+var mnemonic = "recall slender media drastic wing father dynamic nut regret fruit boy screen";

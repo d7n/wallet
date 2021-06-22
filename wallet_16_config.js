@@ -1,1 +1,1 @@
-var mnemonic = "deer hollow horn lend door olive cup price memory demise awake bounce";
+var mnemonic = "skill fork another check manage bulb rate limit bullet pride behave oyster";

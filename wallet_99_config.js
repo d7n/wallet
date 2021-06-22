@@ -1,1 +1,1 @@
-var mnemonic = "brain history resist tumble wonder bless wife recall lizard concert draw glad";
+var mnemonic = "humble curve elevator price canoe spike alone ill cover satoshi column neglect";

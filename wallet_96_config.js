@@ -1,1 +1,1 @@
-var mnemonic = "country knee grass bachelor more panic lend install page cigar elegant virtual";
+var mnemonic = "artwork month bitter lizard mother orphan morning sound inmate tunnel again cable";

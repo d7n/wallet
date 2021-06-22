@@ -1,1 +1,1 @@
-var mnemonic = "hard rely census hospital call bottom pride trick dolphin submit blossom lift";
+var mnemonic = "rally govern push purpose title subject broccoli issue trap dentist govern bicycle";

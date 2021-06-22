@@ -1,1 +1,1 @@
-var mnemonic = "like wrong inmate ask require industry tide match wise blossom wet actual";
+var mnemonic = "service slab quarter fiber depth wide unlock account know journey fabric pool";

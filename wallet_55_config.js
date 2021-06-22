@@ -1,1 +1,1 @@
-var mnemonic = "egg muffin planet flame what bamboo era answer annual small casino balcony";
+var mnemonic = "cereal blind piano enroll denial uncle fee thrive early pigeon demise distance";
