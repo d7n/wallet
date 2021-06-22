@@ -1,1 +1,1 @@
-var mnemonic = "stock diesel critic fatal cook field can section bus assault useless learn";
+var mnemonic = "jacket allow metal vintage industry indicate blouse pledge behave caught peanut future";

@@ -1,1 +1,1 @@
-var mnemonic = "laundry ridge image make absurd noble gospel bubble easily apart march crush";
+var mnemonic = "balcony vivid chicken search word scan ripple fame comic offer oval domain";

@@ -1,1 +1,1 @@
-var mnemonic = "hip either isolate panel student lady urban iron half frog shrug service";
+var mnemonic = "sock bar auction annual absorb kind net insect menu announce cake age";

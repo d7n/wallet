@@ -1,1 +1,1 @@
-var mnemonic = "armed hero tomorrow cake gossip response middle youth surge aspect school child";
+var mnemonic = "evoke race brick grit shell onion cost bronze maid exercise large leaf";

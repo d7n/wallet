@@ -1,1 +1,1 @@
-var mnemonic = "stairs zoo enforce major occur power simple pig dune siege carbon boy";
+var mnemonic = "carry notice snap write behave axis benefit august senior tribe material usual";

@@ -1,1 +1,1 @@
-var mnemonic = "scissors sponsor blanket fork cash eternal siege shoot else fresh theory butter";
+var mnemonic = "dose material pudding upgrade zone observe half phrase express delay bird monster";

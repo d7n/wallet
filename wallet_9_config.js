@@ -1,1 +1,1 @@
-var mnemonic = "age course spirit middle action yard soon diary start video silk essay";
+var mnemonic = "wave upper skirt invest oven timber initial pyramid once reopen uncover east";

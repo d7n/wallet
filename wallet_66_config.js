@@ -1,1 +1,1 @@
-var mnemonic = "merit leader thrive ball snow venue enroll swim quality toddler minor general";
+var mnemonic = "garage message shadow false near wasp door rose doll stamp buffalo enter";

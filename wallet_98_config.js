@@ -1,1 +1,1 @@
-var mnemonic = "cube leave cabin jaguar exotic vintage connect brother decrease song crisp bunker";
+var mnemonic = "office normal few proof pool sauce weapon blossom never sound enrich reduce";

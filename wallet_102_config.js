@@ -1,1 +1,1 @@
-var mnemonic = "myself shove dune salt awake shrimp type lottery answer leader unusual novel";
+var mnemonic = "tomorrow quarter layer hope space extra reflect stairs census define siege that";

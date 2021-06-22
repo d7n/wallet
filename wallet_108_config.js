@@ -1,1 +1,1 @@
-var mnemonic = "salt engine cage ecology inhale chapter hub secret fine spot relief fire";
+var mnemonic = "sail obvious library absorb advice bracket noise utility oven casual cute sausage";

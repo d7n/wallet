@@ -1,1 +1,1 @@
-var mnemonic = "pig truth raccoon bone parent ticket crush squirrel book remove process actress";
+var mnemonic = "unfold hurdle hollow tragic try panel employ shoe night quarter pool amused";

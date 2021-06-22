@@ -1,1 +1,1 @@
-var mnemonic = "zone story rally daughter all team brain image present country peace spider";
+var mnemonic = "swarm exercise undo monkey hover pyramid hold add sample chuckle office prosper";

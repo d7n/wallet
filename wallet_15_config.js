@@ -1,1 +1,1 @@
-var mnemonic = "salute magic gather onion scrub debate usage turtle knee clock dove shed";
+var mnemonic = "boil buzz panic home busy melt equal grow foot cross series inner";

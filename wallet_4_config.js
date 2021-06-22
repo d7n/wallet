@@ -1,1 +1,1 @@
-var mnemonic = "panic question open buddy flee ripple paddle loan end mother version entry";
+var mnemonic = "learn tool father picture upon inmate cinnamon opera tourist north spoil sand";

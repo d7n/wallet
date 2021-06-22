@@ -1,1 +1,1 @@
-var mnemonic = "spin egg promote glory fluid today strike tired erupt drastic zone action";
+var mnemonic = "derive abuse adapt print urge simple diamond short word hood parent virtual";

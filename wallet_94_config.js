@@ -1,1 +1,1 @@
-var mnemonic = "dawn hawk account rail flower clerk inject extra credit dragon staff despair";
+var mnemonic = "property pass arrange couple food attract seed funny core monster welcome advice";

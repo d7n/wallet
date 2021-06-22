@@ -1,1 +1,1 @@
-var mnemonic = "scale double target flip wrist embody chimney cry merit three inner common";
+var mnemonic = "galaxy rare universe torch witness divorce acoustic heavy pet dish sense parent";

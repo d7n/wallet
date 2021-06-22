@@ -1,1 +1,1 @@
-var mnemonic = "pretty used six empower client summer anxiety ecology dinner board ranch believe";
+var mnemonic = "wrap fix gorilla enable decade chapter battle pigeon call citizen dignity silk";

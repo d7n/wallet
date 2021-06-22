@@ -1,1 +1,1 @@
-var mnemonic = "pudding steak example typical speak habit fence lunch lock aware few skirt";
+var mnemonic = "curious dwarf produce coach bomb staff polar artist tilt bunker venture mansion";

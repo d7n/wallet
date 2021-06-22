@@ -1,1 +1,1 @@
-var mnemonic = "ahead purpose quiz priority sudden swift coach swap ivory essence ahead stairs";
+var mnemonic = "shoe seed keen group various cool divide sword fever kingdom trial find";

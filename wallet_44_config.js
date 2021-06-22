@@ -1,1 +1,1 @@
-var mnemonic = "depend affair cattle current robust frown bundle urge company pipe kingdom lava";
+var mnemonic = "artwork oak retire soldier exotic claim elephant cross cable surround soft jewel";

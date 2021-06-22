@@ -1,1 +1,1 @@
-var mnemonic = "nurse remain give sudden index top drastic spice liberty trick pony debris";
+var mnemonic = "razor upper cancel viable donate act solid smart play romance post stove";

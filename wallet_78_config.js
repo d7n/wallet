@@ -1,1 +1,1 @@
-var mnemonic = "identify palace repeat own exist choice market design aerobic moment senior crucial";
+var mnemonic = "wonder cricket rigid model run vast honey grocery silver lock vacant puzzle";

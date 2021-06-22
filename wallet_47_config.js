@@ -1,1 +1,1 @@
-var mnemonic = "surprise hobby bacon magic lounge blast slice glare park quit tilt option";
+var mnemonic = "inherit shiver bulb include genuine venue exist safe obvious tell model amused";

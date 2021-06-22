@@ -1,1 +1,1 @@
-var mnemonic = "divide assume woman caution mandate error apple anger popular cradle culture license";
+var mnemonic = "tail sea absorb empower add glimpse click wine switch door found business";

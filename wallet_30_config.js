@@ -1,1 +1,1 @@
-var mnemonic = "penalty filter conduct broom lift tattoo inflict weasel banana merit canoe left";
+var mnemonic = "doctor unfair web almost desert tower call cake circle census upon sport";

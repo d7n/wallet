@@ -1,1 +1,1 @@
-var mnemonic = "grit believe duck decrease couple ethics border shiver impact post squirrel trouble";
+var mnemonic = "above easy liar warrior couple disagree above pass inflict skill nest lend";

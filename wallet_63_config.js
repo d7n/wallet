@@ -1,1 +1,1 @@
-var mnemonic = "just fortune mystery jeans cereal cattle raccoon mercy toy holiday pull weird";
+var mnemonic = "palace kit tissue rather wolf stand strong letter denial shed coach world";

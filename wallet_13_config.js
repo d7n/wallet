@@ -1,1 +1,1 @@
-var mnemonic = "this scatter diesel excess image wish eternal raccoon hockey enemy tonight about";
+var mnemonic = "man potato filter stand rely news visual next coil effort alert couple";

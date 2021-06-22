@@ -1,1 +1,1 @@
-var mnemonic = "jewel boat quote ability select neutral nurse submit help vicious guilt amazing";
+var mnemonic = "shoulder tide wood normal swim slot daughter sleep enter sun friend suffer";

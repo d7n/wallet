@@ -1,1 +1,1 @@
-var mnemonic = "nasty post energy drama alcohol athlete kick pole boring notice aim ripple";
+var mnemonic = "breeze scrap lawsuit dance siege permit simple service wing cage hurdle arch";

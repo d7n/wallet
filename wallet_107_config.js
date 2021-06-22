@@ -1,1 +1,1 @@
-var mnemonic = "journey repair eyebrow where plate cost burger ill nasty congress attack pretty";
+var mnemonic = "hunt merry valve holiday approve power join scheme harsh market ladder garbage";

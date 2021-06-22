@@ -1,1 +1,1 @@
-var mnemonic = "stone chapter holiday ivory myself rubber hazard lawsuit section tone series month";
+var mnemonic = "motion track eye zoo unknown snow lamp ice soft floor orbit earn";

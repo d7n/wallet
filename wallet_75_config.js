@@ -1,1 +1,1 @@
-var mnemonic = "crash pink during phrase unit crystal response glimpse barrel rally school foster";
+var mnemonic = "raw duty miss blade ostrich lecture pause chest satisfy job host build";

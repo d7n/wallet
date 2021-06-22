@@ -1,1 +1,1 @@
-var mnemonic = "drop sphere govern arena bird tide six domain excite fade lab news";
+var mnemonic = "middle aerobic all material aim lava tree destroy plunge sheriff agree clip";

@@ -1,1 +1,1 @@
-var mnemonic = "shrug tragic force rare oil sell fit merge decide small jeans thumb";
+var mnemonic = "main prize episode gym certain female exotic tag predict next lunar spread";

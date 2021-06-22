@@ -1,1 +1,1 @@
-var mnemonic = "this toilet tourist fatal mean response dismiss canvas private trumpet artefact that";
+var mnemonic = "emotion salon pride whale dragon fiscal rifle measure leader misery mad measure";

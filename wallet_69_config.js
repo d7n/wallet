@@ -1,1 +1,1 @@
-var mnemonic = "copper infant drink click spell father love inspire split much around table";
+var mnemonic = "boil struggle hover there history tumble exist boost unfair increase ghost peace";

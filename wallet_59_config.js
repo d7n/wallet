@@ -1,1 +1,1 @@
-var mnemonic = "phrase health swamp aware day fit fox volume lyrics duck side legend";
+var mnemonic = "strike gym flag you artist muffin aware normal envelope carry feel motion";

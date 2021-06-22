@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow public client move region family twelve list response laundry exclude cycle";
+var mnemonic = "knife twin solution recipe cream scatter august wall crucial recycle weekend ethics";

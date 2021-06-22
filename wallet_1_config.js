@@ -1,1 +1,1 @@
-var mnemonic = "run certain farm mansion primary suffer sun lesson knife melt document crazy";
+var mnemonic = "blood black smile glove parrot claw reform grace armed traffic rice sudden";

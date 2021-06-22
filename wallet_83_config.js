@@ -1,1 +1,1 @@
-var mnemonic = "fall art wool tiny decorate nice brown update hockey forest that output";
+var mnemonic = "trumpet deposit proud junk alley solar forum bird engine clever end stadium";

@@ -1,1 +1,1 @@
-var mnemonic = "virus bracket ivory shiver undo stand long emotion honey bottom autumn tomorrow";
+var mnemonic = "hockey author thrive rabbit unusual bright shift movie virus waste glove shock";

@@ -1,1 +1,1 @@
-var mnemonic = "obey advice myth gun trip copy expire real lava dinosaur hunt lawn";
+var mnemonic = "budget twelve helmet wish company galaxy around square adult stem stay search";

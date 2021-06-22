@@ -1,1 +1,1 @@
-var mnemonic = "adapt trend style repair recall snack dolphin uncover observe vivid front cruel";
+var mnemonic = "clerk drive sheriff danger humor banana help fatigue asset shoulder tongue pen";

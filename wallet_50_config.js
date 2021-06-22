@@ -1,1 +1,1 @@
-var mnemonic = "lab speak upgrade when ice usual similar immune ghost language advance monitor";
+var mnemonic = "range give hub supreme afford thing unfold state buyer pole result absorb";

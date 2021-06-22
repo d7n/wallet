@@ -1,1 +1,1 @@
-var mnemonic = "neither blue artist fork slide define nurse sorry wait brief faculty pear";
+var mnemonic = "moon nice author still drama derive this insane chest round regular enough";

@@ -1,1 +1,1 @@
-var mnemonic = "search more pigeon try guard gate kitchen culture involve salad fish path";
+var mnemonic = "once sentence notable orange resist jewel glove loyal typical rural evil acquire";

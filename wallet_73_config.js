@@ -1,1 +1,1 @@
-var mnemonic = "biology athlete secret nurse goddess horse sock thrive attend erupt dinner correct";
+var mnemonic = "tag rent end promote rack move believe click grass dizzy transfer hospital";

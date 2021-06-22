@@ -1,1 +1,1 @@
-var mnemonic = "orchard very erode nation trade toy pottery moon squeeze rubber setup piano";
+var mnemonic = "release mammal vessel valley miracle toward fluid bleak inflict sponsor shed multiply";

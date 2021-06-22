@@ -1,1 +1,1 @@
-var mnemonic = "glory replace step unaware planet above open bus keep alien zone toy";
+var mnemonic = "cost consider hair keen emerge width project vicious nose history fortune make";

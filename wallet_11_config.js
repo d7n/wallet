@@ -1,1 +1,1 @@
-var mnemonic = "close arrest mansion used task hollow stumble milk solve verb way verify";
+var mnemonic = "page ready fancy world purchase brick list ensure fit flower web spray";

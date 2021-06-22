@@ -1,1 +1,1 @@
-var mnemonic = "twelve wet situate merit melt garage waste melt list good snap mutual";
+var mnemonic = "novel absurd novel frown cancel snap sugar amused dentist aware brave door";

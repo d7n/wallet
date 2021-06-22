@@ -1,1 +1,1 @@
-var mnemonic = "vague work nest one ribbon artefact obscure expand tennis rare double pumpkin";
+var mnemonic = "cotton paddle face embody because vacant ensure stock behind wave dumb outdoor";

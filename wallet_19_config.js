@@ -1,1 +1,1 @@
-var mnemonic = "carpet ask relax solution core aisle medal hungry peasant language track possible";
+var mnemonic = "figure knife hair way better bar pyramid amount story pill praise gym";

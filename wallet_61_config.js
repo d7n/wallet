@@ -1,1 +1,1 @@
-var mnemonic = "split where biology require rocket frozen gentle hair beauty always pen daughter";
+var mnemonic = "carbon head extra toy hollow quantum shuffle fork silver cabin tackle federal";

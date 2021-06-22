@@ -1,1 +1,1 @@
-var mnemonic = "blouse era anger lens unlock total nerve beyond pigeon name favorite gift";
+var mnemonic = "accuse opinion item fatal edit battle avoid tenant leg cancel way mammal";

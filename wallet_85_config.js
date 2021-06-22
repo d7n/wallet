@@ -1,1 +1,1 @@
-var mnemonic = "fee taste inmate bundle beef scatter lock glimpse oval miracle entry canvas";
+var mnemonic = "victory code kiwi renew donate regular food cute depart there deliver truck";

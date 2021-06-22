@@ -1,1 +1,1 @@
-var mnemonic = "census impact lemon exchange travel sorry case peanut estate turkey spin chicken";
+var mnemonic = "repeat hospital slab boy bracket music month relief must derive visual tool";

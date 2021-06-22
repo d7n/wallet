@@ -1,1 +1,1 @@
-var mnemonic = "fork adjust spot ritual grid describe amused camera wait firm powder grape";
+var mnemonic = "price dust evolve magic ghost gadget whisper length scale bamboo chief ugly";

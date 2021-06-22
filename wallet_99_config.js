@@ -1,1 +1,1 @@
-var mnemonic = "step captain mention tide oppose bicycle brisk hair ride achieve width pull";
+var mnemonic = "warm salmon dove sort area follow ski culture story traffic donor situate";

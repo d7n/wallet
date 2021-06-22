@@ -1,1 +1,1 @@
-var mnemonic = "lab bullet onion grass brain avoid program rural glad fish tiger sort";
+var mnemonic = "jungle family name employ rib leisure giant estate photo rent update giggle";

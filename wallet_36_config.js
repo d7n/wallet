@@ -1,1 +1,1 @@
-var mnemonic = "cliff assume excess dwarf rack main hollow plunge decline divert miss repeat";
+var mnemonic = "pumpkin boring patch super join bitter naive image sentence caution answer dragon";

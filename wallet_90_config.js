@@ -1,1 +1,1 @@
-var mnemonic = "flat joke tube quote load outdoor expire poverty box grant flight catalog";
+var mnemonic = "rocket script color tiger eagle act addict drill loan subject forest faint";

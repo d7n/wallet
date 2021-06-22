@@ -1,1 +1,1 @@
-var mnemonic = "treat include flight inflict reform wild fabric provide unfair express boat nerve";
+var mnemonic = "team sound beyond nest luggage large mistake blast gym start purpose cause";

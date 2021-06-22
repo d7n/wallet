@@ -1,1 +1,1 @@
-var mnemonic = "dish forest muffin giraffe door one camp maid load fall mom month";
+var mnemonic = "whale mystery gloom picture one act cushion dad jewel clock stage cliff";

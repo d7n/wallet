@@ -1,1 +1,1 @@
-var mnemonic = "pride pride liquid auction advance travel menu whale matter machine cheese artefact";
+var mnemonic = "nuclear conduct put ladder phrase phone fruit soldier fossil legend coil creek";

@@ -1,1 +1,1 @@
-var mnemonic = "fringe win window cushion venue journey team alpha maid income cool either";
+var mnemonic = "genuine soft power exact medal gauge shoot entire offer accident install spare";

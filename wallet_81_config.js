@@ -1,1 +1,1 @@
-var mnemonic = "response ranch bulb liar oak rain phone siege fault please before endless";
+var mnemonic = "gate current grocery mirror flee surround thunder thank habit cake rice motor";

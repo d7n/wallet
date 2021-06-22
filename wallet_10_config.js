@@ -1,1 +1,1 @@
-var mnemonic = "zero kite write craft auto forget melody machine consider region gauge verb";
+var mnemonic = "fossil guitar base huge track easily settle daring actress skirt sausage cute";

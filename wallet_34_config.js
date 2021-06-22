@@ -1,1 +1,1 @@
-var mnemonic = "salon ranch unusual patch among duty bid artwork leave below true town";
+var mnemonic = "promote filter street wonder bird youth devote deposit gap wood little tennis";

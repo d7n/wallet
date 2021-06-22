@@ -1,1 +1,1 @@
-var mnemonic = "crater good veteran weapon planet sort boost aisle alert ugly easily brave";
+var mnemonic = "castle ancient disagree climb piece issue into merit salute dice final mutual";

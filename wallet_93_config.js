@@ -1,1 +1,1 @@
-var mnemonic = "jeans art ancient enable ahead keen horror nation mention inhale onion hurt";
+var mnemonic = "lobster safe exercise strategy same riot eagle upgrade limb disorder solid pig";

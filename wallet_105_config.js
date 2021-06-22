@@ -1,1 +1,1 @@
-var mnemonic = "coral midnight unique blossom lens wisdom van example shift mosquito license chronic";
+var mnemonic = "fall scare pretty fame gravity crucial unlock output pluck practice bonus option";

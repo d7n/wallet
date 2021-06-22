@@ -1,1 +1,1 @@
-var mnemonic = "slim foster cause fiber rib library secret now half dial apple truly";
+var mnemonic = "attitude during govern nature vessel actor regular sight mother jazz lumber lonely";

@@ -1,1 +1,1 @@
-var mnemonic = "mention elder whip outdoor arrow top mansion vast execute sun tiger hospital";
+var mnemonic = "say apple club box remind picture ignore liquid saddle health lonely allow";

@@ -1,1 +1,1 @@
-var mnemonic = "tool cannon purity worry test expose real peasant access slot tide drip";
+var mnemonic = "salon spell bicycle confirm spare maximum target cruise captain water wood interest";

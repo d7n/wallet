@@ -1,1 +1,1 @@
-var mnemonic = "bike clutch detail slot naive arm tuition pelican witness arctic stumble knee";
+var mnemonic = "refuse salt soup balcony ivory spider rubber dial capital lens forum icon";

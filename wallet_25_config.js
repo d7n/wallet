@@ -1,1 +1,1 @@
-var mnemonic = "tunnel couch close still hour grid gadget happy critic milk cricket month";
+var mnemonic = "moon cause picnic ten purse quote skill song expand oak gallery donkey";

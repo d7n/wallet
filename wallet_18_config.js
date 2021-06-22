@@ -1,1 +1,1 @@
-var mnemonic = "waste true friend dirt hub unaware series token life filter forum night";
+var mnemonic = "clerk wide pepper sort toast impose street wet illness legal pluck secret";

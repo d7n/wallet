@@ -1,1 +1,1 @@
-var mnemonic = "deputy supply april phrase tiny island lock citizen slice view unusual bubble";
+var mnemonic = "tobacco chunk fresh parade guitar test adult rapid people flat calm dress";

@@ -1,1 +1,1 @@
-var mnemonic = "labor hen bridge solar begin keen year swamp you explain mask miracle";
+var mnemonic = "system calm veteran sense sausage balcony bitter fancy hamster ginger illness analyst";

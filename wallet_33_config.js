@@ -1,1 +1,1 @@
-var mnemonic = "maze galaxy lecture injury bamboo liquid curve holiday lion chef region wool";
+var mnemonic = "vehicle citizen teach limb napkin obey daring deputy animal joke ticket require";

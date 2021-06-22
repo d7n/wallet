@@ -1,1 +1,1 @@
-var mnemonic = "outside shop cotton mammal glide arm knock blue salt industry scrub spot";
+var mnemonic = "film cover level skull feel come face upper enact tide gold try";

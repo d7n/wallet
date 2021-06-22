@@ -1,1 +1,1 @@
-var mnemonic = "imitate such arrest box need cluster kid spring creek awful moral truck";
+var mnemonic = "ill cute absent afford imitate oil pluck miracle toss lecture tenant author";

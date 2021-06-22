@@ -1,1 +1,1 @@
-var mnemonic = "dry future digital alarm cradle glad title record emotion inspire symbol ceiling";
+var mnemonic = "extra tired guess fold artist auto task lobster knee manage punch genuine";
