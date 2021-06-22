@@ -1,1 +1,1 @@
-var mnemonic = "cry blade clever dutch roast void slam patch east aspect donkey because";
+var mnemonic = "game subway crack imitate ask goose throw battle fee vocal need laundry";

@@ -1,1 +1,1 @@
-var mnemonic = "maple foam liberty knock fragile sport pepper skill auto predict umbrella fly";
+var mnemonic = "imitate private firm catch tape print velvet tilt blouse absurd library leisure";

@@ -1,1 +1,1 @@
-var mnemonic = "open faint hood reunion humble entry endless equal stay title region inmate";
+var mnemonic = "mom amount promote over wedding couch desert engine other light remind midnight";

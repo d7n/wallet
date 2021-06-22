@@ -1,1 +1,1 @@
-var mnemonic = "twin judge prosper venture gravity grab cover divorce town melt exact jar";
+var mnemonic = "false word bronze donor twin maze cigar venue muscle shoot forest smooth";

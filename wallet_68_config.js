@@ -1,1 +1,1 @@
-var mnemonic = "toss rescue horse short nerve slight teach upgrade cart omit broom catalog";
+var mnemonic = "correct crime utility couch remain ritual pilot prevent tennis side student sadness";

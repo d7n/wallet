@@ -1,1 +1,1 @@
-var mnemonic = "burden absent birth photo enjoy common walk isolate wild base drum rebuild";
+var mnemonic = "discover hundred day patrol wish fall document myself physical rose cash empty";

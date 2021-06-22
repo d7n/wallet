@@ -1,1 +1,1 @@
-var mnemonic = "poet grace essay put income input alarm key fantasy chuckle huge apple";
+var mnemonic = "toilet debris end hurt license cotton scrap seminar phrase supreme lake cricket";

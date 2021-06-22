@@ -1,1 +1,1 @@
-var mnemonic = "wrestle toward quote salad chunk build garment virtual glove wall capital swap";
+var mnemonic = "anxiety risk wrap balcony volume abuse segment hurry limb stuff tonight this";

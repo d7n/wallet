@@ -1,1 +1,1 @@
-var mnemonic = "city slot million elite pill multiply island twenty salmon spice want control";
+var mnemonic = "diesel vivid nation one wrestle shrug relax enact dentist regret clump vocal";

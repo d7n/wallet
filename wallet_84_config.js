@@ -1,1 +1,1 @@
-var mnemonic = "glass coconut vivid seat mule donor shove copper butter glide cattle expect";
+var mnemonic = "give lumber fragile siren side axis gift parent search web slender bachelor";

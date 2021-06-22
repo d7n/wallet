@@ -1,1 +1,1 @@
-var mnemonic = "rain enrich human frown trash joke nurse negative theme fluid tip nose";
+var mnemonic = "broccoli pitch expire merry dolphin slim base crash trust occur powder element";

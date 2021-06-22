@@ -1,1 +1,1 @@
-var mnemonic = "swallow job author load under ride canyon consider royal video flush label";
+var mnemonic = "start empower fruit south snow page fog gate total thumb exile grain";

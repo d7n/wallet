@@ -1,1 +1,1 @@
-var mnemonic = "dust library alone swim index victory abstract spread note volume earn pulse";
+var mnemonic = "science salute sense upgrade lecture sibling reward fit jacket strategy creek lab";

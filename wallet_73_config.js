@@ -1,1 +1,1 @@
-var mnemonic = "moral science gaze chaos beach put tower smooth say segment undo struggle";
+var mnemonic = "liquid system leave jacket glow music rookie wear company decrease coconut used";

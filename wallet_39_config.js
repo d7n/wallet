@@ -1,1 +1,1 @@
-var mnemonic = "mix priority flight casino wheat abuse sign ginger speak success august toe";
+var mnemonic = "worry mushroom grant whale unit weekend annual vehicle film obey output pizza";

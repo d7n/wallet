@@ -1,1 +1,1 @@
-var mnemonic = "mansion mutual fault hollow ensure absorb illness grunt order pottery endorse melt";
+var mnemonic = "jealous curtain input twelve follow tragic cotton inspire palm birth install cable";

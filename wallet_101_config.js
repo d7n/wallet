@@ -1,1 +1,1 @@
-var mnemonic = "easily fantasy tone neck ethics acid shock reject roof neither avocado spend";
+var mnemonic = "wine danger absorb tilt pulp aisle length speak over try public three";

@@ -1,1 +1,1 @@
-var mnemonic = "forum loop suspect connect rhythm arena priority shrimp flush tape lucky moral";
+var mnemonic = "sorry token scatter bullet wrap swallow pact tube eager bread omit crisp";

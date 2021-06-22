@@ -1,1 +1,1 @@
-var mnemonic = "impose decade artist melt soft post exist dream false media gentle acquire";
+var mnemonic = "dish suspect online flash depend powder lava grass across anger rubber dragon";

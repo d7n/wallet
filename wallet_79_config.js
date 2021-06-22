@@ -1,1 +1,1 @@
-var mnemonic = "forget inside attend south expect vivid obey grow sugar olympic road fix";
+var mnemonic = "ritual area warfare path asthma rookie try enact bus icon candy hero";

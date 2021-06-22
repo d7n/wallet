@@ -1,1 +1,1 @@
-var mnemonic = "replace mix verb steak sing glow fall cycle extend style crop speed";
+var mnemonic = "transfer awesome estate giggle coral toe math voyage erode cliff sea clinic";

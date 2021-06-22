@@ -1,1 +1,1 @@
-var mnemonic = "avocado riot diamond twenty three asthma concert exist country shaft brisk cross";
+var mnemonic = "athlete afraid youth midnight orange exact youth chunk push steak loud board";

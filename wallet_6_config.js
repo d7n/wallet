@@ -1,1 +1,1 @@
-var mnemonic = "tooth bottom pet fragile sauce current vintage rural awake force switch subject";
+var mnemonic = "pony census galaxy acquire cube differ demand life round lawn globe arrow";

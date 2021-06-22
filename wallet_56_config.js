@@ -1,1 +1,1 @@
-var mnemonic = "balcony scheme save size hidden industry door border ankle tuition visa slam";
+var mnemonic = "orbit shuffle guard pass final fitness shield twice farm sight ignore knife";

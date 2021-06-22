@@ -1,1 +1,1 @@
-var mnemonic = "tank imitate kind push maximum lecture above normal recycle unfold bind confirm";
+var mnemonic = "human carry useless please fashion fantasy stadium joy dutch usual error turtle";

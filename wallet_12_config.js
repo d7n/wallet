@@ -1,1 +1,1 @@
-var mnemonic = "bitter picnic tiger foster own circle pet busy help poem neglect lava";
+var mnemonic = "dog side explain plunge film swamp glare change brush leisure misery oven";

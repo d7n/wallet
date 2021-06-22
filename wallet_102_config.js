@@ -1,1 +1,1 @@
-var mnemonic = "album pistol ceiling hazard such joke almost gloom orchard camp demand defy";
+var mnemonic = "flight program brief comic local frog buffalo tide offer acoustic grit list";

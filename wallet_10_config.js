@@ -1,1 +1,1 @@
-var mnemonic = "voice under gospel misery blouse frost blade auto organ mad illness absent";
+var mnemonic = "priority open choose tired hat still promote will pencil panic key job";

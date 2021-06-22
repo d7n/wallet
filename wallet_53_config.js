@@ -1,1 +1,1 @@
-var mnemonic = "winner man daughter total grow stand scrap husband coffee scare mammal strike";
+var mnemonic = "hire excess similar rally edge track wink kid eager amateur where try";

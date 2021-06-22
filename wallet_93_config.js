@@ -1,1 +1,1 @@
-var mnemonic = "believe next night when good bleak sauce cute truly venue essence right";
+var mnemonic = "lobster maze shoot misery lyrics sustain tunnel antique before wall cash alone";

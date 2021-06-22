@@ -1,1 +1,1 @@
-var mnemonic = "icon orange yellow armor tenant mouse exist cricket excite electric actor poverty";
+var mnemonic = "hand popular forum mimic uniform sunset crawl reopen double visual dumb demise";

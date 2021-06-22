@@ -1,1 +1,1 @@
-var mnemonic = "mystery real swear twelve area lizard lonely trouble topic hole involve decline";
+var mnemonic = "enter act fiction walnut asthma roof universe exist movie hollow civil sleep";

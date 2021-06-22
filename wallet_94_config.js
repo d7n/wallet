@@ -1,1 +1,1 @@
-var mnemonic = "buyer cable reward spice edit proof bread fire brisk assist control shy";
+var mnemonic = "legal chunk palm zone boring impose approve moon message crazy sun royal";

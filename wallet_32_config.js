@@ -1,1 +1,1 @@
-var mnemonic = "cliff juice guitar spirit close february flash rent great tragic slot pass";
+var mnemonic = "net eagle toilet offer soft among industry hair butter column casino ugly";

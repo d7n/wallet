@@ -1,1 +1,1 @@
-var mnemonic = "bar save hand jelly airport buffalo because pool van develop argue wide";
+var mnemonic = "lock version buffalo fiction sight capable guard skill boost spike found upon";

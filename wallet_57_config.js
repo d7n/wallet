@@ -1,1 +1,1 @@
-var mnemonic = "slot category logic fury attract stomach joke check room energy utility taxi";
+var mnemonic = "air survey disease mom version stool bunker shrug person actual segment riot";

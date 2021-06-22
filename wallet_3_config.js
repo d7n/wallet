@@ -1,1 +1,1 @@
-var mnemonic = "lamp copy change ice bomb tip ride similar twist popular uncle control";
+var mnemonic = "year recycle spot junk odor kiwi space saddle lava host paddle road";

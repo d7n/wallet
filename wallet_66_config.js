@@ -1,1 +1,1 @@
-var mnemonic = "unit stool island diamond romance material future garage oblige series safe main";
+var mnemonic = "foil shine number add agent inspire goddess case brand sick seek top";

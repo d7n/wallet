@@ -1,1 +1,1 @@
-var mnemonic = "prize resemble door room wool bread model jealous bitter assume sell hawk";
+var mnemonic = "express crucial slender either salt sand honey jaguar ancient antique orient banana";

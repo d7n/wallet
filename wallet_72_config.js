@@ -1,1 +1,1 @@
-var mnemonic = "journey mule sniff expand bunker weapon sound sister inject job cross level";
+var mnemonic = "false person twelve patrol draft mushroom warrior safe fiscal crystal bomb festival";

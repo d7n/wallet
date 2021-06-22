@@ -1,1 +1,1 @@
-var mnemonic = "diesel buyer kitten venture ridge coast pass wheel theory multiply region drum";
+var mnemonic = "credit decide force boy photo old wife thought mushroom since rack hip";

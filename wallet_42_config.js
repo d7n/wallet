@@ -1,1 +1,1 @@
-var mnemonic = "trim bounce replace depart prevent layer already absorb ability enjoy flame bicycle";
+var mnemonic = "lunch swim idle cream aerobic silver disagree unfold pioneer ill tissue silk";

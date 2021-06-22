@@ -1,1 +1,1 @@
-var mnemonic = "weather senior kiss spike aware fiction whisper spin cable color heart quit";
+var mnemonic = "mail rude fade balance situate ethics stick twist spoil judge enroll height";

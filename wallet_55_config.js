@@ -1,1 +1,1 @@
-var mnemonic = "gas heart liberty base fame hidden early delay mesh tray inside bird";
+var mnemonic = "casino scheme nurse drill purity gain accident scale act course emerge excuse";

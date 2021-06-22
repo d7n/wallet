@@ -1,1 +1,1 @@
-var mnemonic = "canal dilemma extra sketch toast alarm orbit dawn aspect wheel spoon require";
+var mnemonic = "submit bean swear divide turkey remain wreck federal brush stomach victory raccoon";

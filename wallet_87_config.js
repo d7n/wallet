@@ -1,1 +1,1 @@
-var mnemonic = "ankle name second spot similar grape shed tell state wonder eye gain";
+var mnemonic = "rebel pipe range three own cattle rival hundred normal chapter give permit";

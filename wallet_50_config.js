@@ -1,1 +1,1 @@
-var mnemonic = "dream direct awake fetch forum trap wet coffee ceiling shallow room crush";
+var mnemonic = "decrease frost that desk frequent empty visit hedgehog narrow wave void visa";

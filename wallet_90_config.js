@@ -1,1 +1,1 @@
-var mnemonic = "husband unlock dragon sand forward black can outside world weapon body glass";
+var mnemonic = "use chase mirror verify decline vocal voyage truly chat forget funny battle";

@@ -1,1 +1,1 @@
-var mnemonic = "ball solid cricket hotel leaf cycle iron shift solve egg drip test";
+var mnemonic = "couch despair winner jar doctor agree merry once stove obvious cabbage skin";

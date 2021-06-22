@@ -1,1 +1,1 @@
-var mnemonic = "digital figure physical intact upset loud zebra loud resist choose season betray";
+var mnemonic = "radio age visit grit foil copper reward raccoon basket ring token shrimp";

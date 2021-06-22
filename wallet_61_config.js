@@ -1,1 +1,1 @@
-var mnemonic = "virtual hard aisle eight crime scheme flash scatter job cactus spray picnic";
+var mnemonic = "avoid stumble execute cabin scale donor rib fox need whisper verb erase";

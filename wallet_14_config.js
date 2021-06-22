@@ -1,1 +1,1 @@
-var mnemonic = "clap disease trade fault sing draft injury tip illness system galaxy robust";
+var mnemonic = "snake cause rhythm dilemma zero fever motion upon play fee cabin catch";

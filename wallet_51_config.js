@@ -1,1 +1,1 @@
-var mnemonic = "cannon siege hen genuine autumn adjust again cute mushroom imitate bitter tumble";
+var mnemonic = "before settle thumb width time toss engage defense large narrow prefer narrow";

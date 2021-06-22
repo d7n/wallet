@@ -1,1 +1,1 @@
-var mnemonic = "cherry extra net galaxy bleak cancel grit feel brain unfold humor bachelor";
+var mnemonic = "copy laundry beach fringe recall life venture frog piece vivid sure tortoise";

@@ -1,1 +1,1 @@
-var mnemonic = "someone umbrella connect truck nuclear wet genre crowd screen junior genre basket";
+var mnemonic = "inspire modify gaze change bean next rhythm invite bulb spice hurdle spin";

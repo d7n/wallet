@@ -1,1 +1,1 @@
-var mnemonic = "rabbit immune swim together seven style pumpkin scrap average century twist poet";
+var mnemonic = "bottom large lend capable rich affair sure parrot crack used outside calm";

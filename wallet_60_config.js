@@ -1,1 +1,1 @@
-var mnemonic = "fox health burst equip infant other ugly mail gather jump annual absurd";
+var mnemonic = "idle kiss deer junior glide original walk garden cable rural blossom define";

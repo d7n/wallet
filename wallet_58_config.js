@@ -1,1 +1,1 @@
-var mnemonic = "neck humble north century hen refuse pupil donkey tag truck kingdom judge";
+var mnemonic = "garlic vapor oyster person fuel spread teach feed reform neck grant music";

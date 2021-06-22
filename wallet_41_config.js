@@ -1,1 +1,1 @@
-var mnemonic = "cost sample heavy cram prize senior afford spice sick flower impact syrup";
+var mnemonic = "pride diet excuse excite balcony spend tower monster toddler gym interest step";

@@ -1,1 +1,1 @@
-var mnemonic = "sound once page soda wasp feel fence rebuild jewel fence slice trick";
+var mnemonic = "hurt wedding hole marine once know render wink mushroom movie vibrant concert";

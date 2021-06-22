@@ -1,1 +1,1 @@
-var mnemonic = "unique garden polar betray farm city supply machine cliff just coconut indoor";
+var mnemonic = "east tragic myth naive evidence senior situate income beef rail put face";

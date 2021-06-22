@@ -1,1 +1,1 @@
-var mnemonic = "embody bracket flock swear toss symptom cross oven grid net miracle ranch";
+var mnemonic = "donate august call hurt chuckle uniform panic false student citizen parent dawn";

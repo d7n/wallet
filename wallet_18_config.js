@@ -1,1 +1,1 @@
-var mnemonic = "mandate sketch puppy theory voice track feed attract act sell bike among";
+var mnemonic = "similar exchange dial media garbage ketchup relief aerobic laundry nation scene among";

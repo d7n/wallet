@@ -1,1 +1,1 @@
-var mnemonic = "blade embrace achieve lamp hand fall rely before raccoon brush brisk gain";
+var mnemonic = "north estate giant reform own waste fold steel exercise hybrid gasp fold";

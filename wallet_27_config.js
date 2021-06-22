@@ -1,1 +1,1 @@
-var mnemonic = "sustain meat find maze outside return dial orbit narrow canoe point risk";
+var mnemonic = "dose vibrant panic sunny mystery today pair patrol math strike city index";

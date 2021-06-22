@@ -1,1 +1,1 @@
-var mnemonic = "bid satisfy bone cool yellow rack release elder cause dust error twice";
+var mnemonic = "ranch ceiling frequent relief lottery cave library nose certain foot region palace";

@@ -1,1 +1,1 @@
-var mnemonic = "hint valve absent imitate ordinary iron that lecture load ozone youth resource";
+var mnemonic = "pond under permit sheriff dizzy swarm toe soap ladder turn bright grit";

@@ -1,1 +1,1 @@
-var mnemonic = "sword ignore orbit stool adapt scrap heavy garage essay very post cash";
+var mnemonic = "decide evolve kit enrich tiger unique penalty middle nominee pet patient tower";

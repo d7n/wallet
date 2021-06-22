@@ -1,1 +1,1 @@
-var mnemonic = "brown whale nose motion cloud barrel student valley jewel few rice over";
+var mnemonic = "diagram switch print roof jaguar edit fix behave often caught answer ceiling";

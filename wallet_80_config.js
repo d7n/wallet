@@ -1,1 +1,1 @@
-var mnemonic = "gesture lens private connect grief soul neglect wealth ecology unhappy wild true";
+var mnemonic = "powder provide expand car nature cause radio body believe elbow lunch junk";

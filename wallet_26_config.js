@@ -1,1 +1,1 @@
-var mnemonic = "absorb attract purse middle veteran beach kick palm spike gas primary boil";
+var mnemonic = "obvious siren ridge banner abuse vessel enforce crunch cycle smooth arrive opera";

@@ -1,1 +1,1 @@
-var mnemonic = "cloth steak forum stadium occur predict when return moon play furnace treat";
+var mnemonic = "bracket estate loud glance festival defense dish move kind ski endless reject";

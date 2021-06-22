@@ -1,1 +1,1 @@
-var mnemonic = "amused educate march million pipe ready height boil endorse adjust duty version";
+var mnemonic = "wood pen child vivid draw fruit wedding despair piece cheap sibling success";

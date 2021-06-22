@@ -1,1 +1,1 @@
-var mnemonic = "sausage twenty reward enhance library slogan orbit soul fiscal leopard hope rifle";
+var mnemonic = "train south aware dawn scrap laptop ketchup vacant audit army such traffic";

@@ -1,1 +1,1 @@
-var mnemonic = "client course control fence cloud curve fossil dance cheese flame eight lend";
+var mnemonic = "duty hair oppose potato action inner swift uncle you school sock broccoli";

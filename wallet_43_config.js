@@ -1,1 +1,1 @@
-var mnemonic = "lava evolve skirt apart basic citizen farm diagram success answer veteran symbol";
+var mnemonic = "fade can rookie butter copper index outdoor pride truly shop still diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "sheriff ill patch visit drop patrol catalog denial action priority purpose kitten";
+var mnemonic = "scale game blanket liberty follow permit senior chef vacant obtain bid armor";

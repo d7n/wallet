@@ -1,1 +1,1 @@
-var mnemonic = "artefact word ship case dust output skirt web hungry slice fold ignore";
+var mnemonic = "begin gun disagree rocket summer satoshi type they stick skin expire apart";

@@ -1,1 +1,1 @@
-var mnemonic = "stone make list upper wood across camera during hedgehog toward series trumpet";
+var mnemonic = "tooth object ability poverty frost saddle two neutral cable shuffle unfold prize";

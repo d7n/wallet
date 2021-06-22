@@ -1,1 +1,1 @@
-var mnemonic = "snap meadow october arrange husband fire girl where need exhaust man educate";
+var mnemonic = "fox mandate usage shed lake problem area piano blade thumb frog gaze";

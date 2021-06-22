@@ -1,1 +1,1 @@
-var mnemonic = "guitar artefact police phrase fringe teach smooth clay gold chimney feature risk";
+var mnemonic = "team trend amused tube rocket cover spray scrub jar rifle plug brave";

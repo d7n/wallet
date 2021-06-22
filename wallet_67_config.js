@@ -1,1 +1,1 @@
-var mnemonic = "emerge lava swim credit mammal fever satisfy jacket napkin what toddler gossip";
+var mnemonic = "sort hurt vault shrug remember custom twice bicycle squirrel rather museum view";

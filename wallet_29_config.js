@@ -1,1 +1,1 @@
-var mnemonic = "wild apple enough best latin renew media rebuild pill accuse talent list";
+var mnemonic = "pass include era struggle miss cushion system ill shy present around true";

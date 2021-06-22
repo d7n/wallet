@@ -1,1 +1,1 @@
-var mnemonic = "habit useless zoo blast travel excess pledge open grace utility prosper aunt";
+var mnemonic = "regret chat police tiger item section normal endorse across approve ride throw";

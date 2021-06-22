@@ -1,1 +1,1 @@
-var mnemonic = "gasp option lecture street morning egg endless cake common enter lion flag";
+var mnemonic = "grunt address truly baby produce level final slender hedgehog glad fly cactus";

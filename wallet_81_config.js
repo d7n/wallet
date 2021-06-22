@@ -1,1 +1,1 @@
-var mnemonic = "zero world spider pear recipe wise magnet oxygen ability cross cat hobby";
+var mnemonic = "olive clog gather faint banner slab together country boring hover size steak";
