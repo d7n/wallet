@@ -1,1 +1,1 @@
-var mnemonic = "vicious dignity device board deny snow another drastic woman cabbage aspect tissue";
+var mnemonic = "debate receive over snow typical sketch match duty wear desk upset umbrella";

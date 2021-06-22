@@ -1,1 +1,1 @@
-var mnemonic = "laptop snap fork elbow clap window link minute region nest negative pipe";
+var mnemonic = "behind slim crack income logic color duty legal sudden trial trust lumber";

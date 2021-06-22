@@ -1,1 +1,1 @@
-var mnemonic = "swarm fatal enemy evolve dish obey notable razor group man aim insect";
+var mnemonic = "tomorrow goddess motor whisper success clutch skull define joy much smart across";

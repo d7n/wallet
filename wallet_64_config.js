@@ -1,1 +1,1 @@
-var mnemonic = "maximum leaf brass morning siren faith firm wait behave scene husband captain";
+var mnemonic = "wink slab enlist filter pink grief analyst decrease gain decade hair volume";

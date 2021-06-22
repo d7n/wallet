@@ -1,1 +1,1 @@
-var mnemonic = "green cram soccer calm crush organ develop put space staff try hybrid";
+var mnemonic = "turtle regular quarter few enemy regret sound receive heart burger mad prevent";

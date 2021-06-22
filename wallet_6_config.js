@@ -1,1 +1,1 @@
-var mnemonic = "mixed mean regret level give slush wisdom salute bounce denial sure stay";
+var mnemonic = "tennis wage cinnamon stove explain skate world acquire door fall multiply senior";

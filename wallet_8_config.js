@@ -1,1 +1,1 @@
-var mnemonic = "fitness fatigue limb under stumble conduct echo define carpet kiwi nature reject";
+var mnemonic = "fault can position balance version shoulder magnet addict thought genre clock action";

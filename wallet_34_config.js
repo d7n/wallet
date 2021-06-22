@@ -1,1 +1,1 @@
-var mnemonic = "mass under off believe bubble card radio era rubber suit two indoor";
+var mnemonic = "hard rely census hospital call bottom pride trick dolphin submit blossom lift";

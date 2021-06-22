@@ -1,1 +1,1 @@
-var mnemonic = "wealth hurry enroll wrist chaos grief grant edit scan ocean million life";
+var mnemonic = "select lock shrimp dance final gate glow magnet entry text venture expand";

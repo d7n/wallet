@@ -1,1 +1,1 @@
-var mnemonic = "photo hand timber dumb jar inflict squirrel debate choice spin tube identify";
+var mnemonic = "lake paddle crawl century manual crystal outdoor zone tape deliver drift naive";

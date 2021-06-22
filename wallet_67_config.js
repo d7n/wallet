@@ -1,1 +1,1 @@
-var mnemonic = "prevent include lounge bounce surprise once item hover great dentist bleak light";
+var mnemonic = "hospital hope patch love range elevator monitor anger embrace remain submit glad";

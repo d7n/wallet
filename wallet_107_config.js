@@ -1,1 +1,1 @@
-var mnemonic = "staff wish find minimum smile salad shop filter focus empty soccer negative";
+var mnemonic = "minimum attract huge seed episode client scorpion tourist library deal excess cradle";

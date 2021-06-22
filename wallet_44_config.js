@@ -1,1 +1,1 @@
-var mnemonic = "entry invite prevent indoor palace crew release carry parade better split front";
+var mnemonic = "carpet initial decrease lunch yard sleep tell length odor tray flame response";

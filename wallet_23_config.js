@@ -1,1 +1,1 @@
-var mnemonic = "person puppy tide blur trigger garment panther horn door husband home moral";
+var mnemonic = "century olympic promote furnace develop denial rude ramp basket jealous vintage screen";

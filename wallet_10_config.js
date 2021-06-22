@@ -1,1 +1,1 @@
-var mnemonic = "plug sadness tuition horror gas field cotton solve defense glare neutral senior";
+var mnemonic = "clip large wage expand pause march theory cook print clock asset kiss";

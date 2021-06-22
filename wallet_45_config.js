@@ -1,1 +1,1 @@
-var mnemonic = "kiss fall discover print end maximum modify scrub ugly clip dad drop";
+var mnemonic = "hip ribbon rhythm risk limb syrup across retreat farm horror first web";

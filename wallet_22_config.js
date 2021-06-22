@@ -1,1 +1,1 @@
-var mnemonic = "trip aware federal extra inspire duty rescue pilot bright clap error gentle";
+var mnemonic = "host finger daring boost avoid hundred barrel canyon catalog grocery net hope";

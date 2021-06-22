@@ -1,1 +1,1 @@
-var mnemonic = "brief swear only able student effort suggest radar salmon damp absorb best";
+var mnemonic = "sorry veteran screen measure diet math awkward dose ribbon stumble kite engine";

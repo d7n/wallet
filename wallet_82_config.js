@@ -1,1 +1,1 @@
-var mnemonic = "noise green already pistol motion lamp stove emerge hurdle bamboo acquire welcome";
+var mnemonic = "valley return shock recipe prize tribe stereo witness nuclear notice logic power";

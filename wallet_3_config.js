@@ -1,1 +1,1 @@
-var mnemonic = "crouch situate ill engage before nephew smooth birth switch science loan thrive";
+var mnemonic = "amateur illness couch crunch home beef capable bronze act stairs protect scene";

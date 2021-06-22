@@ -1,1 +1,1 @@
-var mnemonic = "noodle seed round world wrap camera merit road layer turkey prevent orchard";
+var mnemonic = "trial logic kitten bicycle suit category unable whip glimpse country swim hammer";

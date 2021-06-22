@@ -1,1 +1,1 @@
-var mnemonic = "virus police palm pilot flag rack evoke enemy normal common candy select";
+var mnemonic = "tornado buddy that abandon winter robust fog cannon nerve hair among wisdom";

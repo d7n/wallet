@@ -1,1 +1,1 @@
-var mnemonic = "humble play mutual relax link high crouch cement dignity pave mixture table";
+var mnemonic = "width north opera acoustic gaze chaos amazing short cycle permit usage amount";

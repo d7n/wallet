@@ -1,1 +1,1 @@
-var mnemonic = "below goose allow range divide inch oval fame bind media work element";
+var mnemonic = "fetch service furnace movie avoid real melt melody write wild pipe bicycle";

@@ -1,1 +1,1 @@
-var mnemonic = "lizard pumpkin bench violin fitness patrol prosper void isolate spring tired admit";
+var mnemonic = "shoulder piano slam boss chest gallery paper random rule fall medal winner";

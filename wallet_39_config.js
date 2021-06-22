@@ -1,1 +1,1 @@
-var mnemonic = "dune mistake wet diesel liberty reason derive bring fit pride claim soap";
+var mnemonic = "soul cave lecture immune plug voyage cash pull mystery eager crisp fat";

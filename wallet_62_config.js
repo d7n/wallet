@@ -1,1 +1,1 @@
-var mnemonic = "expose hero gather bag monitor result earth gasp usual seek erase dawn";
+var mnemonic = "vivid fantasy detect corn mass island once same ordinary live envelope flight";

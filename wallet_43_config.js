@@ -1,1 +1,1 @@
-var mnemonic = "siege around zoo tribe spare spy cliff shoulder install ancient coral protect";
+var mnemonic = "priority welcome vacuum wealth estate clock learn venture public blood boost soccer";

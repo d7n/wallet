@@ -1,1 +1,1 @@
-var mnemonic = "cost image wasp found document phone pen duty butter tomorrow fun urban";
+var mnemonic = "drum coast mansion evoke blur gather vivid change dove warm arrow brush";

@@ -1,1 +1,1 @@
-var mnemonic = "scan distance spawn shove call nominee inhale adapt cheap fiction tomorrow chef";
+var mnemonic = "either push arm fury garage vicious roof charge custom rug conduct juice";

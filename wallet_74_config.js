@@ -1,1 +1,1 @@
-var mnemonic = "cause orbit creek alcohol deny exercise company pretty pass bone slush remind";
+var mnemonic = "flat fossil among indoor fog badge gain gospel thumb weapon destroy disagree";

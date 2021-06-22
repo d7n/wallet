@@ -1,1 +1,1 @@
-var mnemonic = "settle lawsuit doctor become song attend retreat lake chalk silly tape swamp";
+var mnemonic = "message delay upgrade abuse light man clerk response mother list exchange edge";

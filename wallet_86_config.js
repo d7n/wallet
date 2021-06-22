@@ -1,1 +1,1 @@
-var mnemonic = "wrong boil angry opinion mixed accident famous employ smile tail kind trial";
+var mnemonic = "eye inflict carbon almost video drill purity donkey prepare juice scene then";

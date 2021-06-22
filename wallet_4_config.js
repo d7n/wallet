@@ -1,1 +1,1 @@
-var mnemonic = "blame unknown behind room card answer enact toast cabin critic token aerobic";
+var mnemonic = "royal never small use velvet regular tomato ball pencil order motion focus";

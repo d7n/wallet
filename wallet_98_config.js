@@ -1,1 +1,1 @@
-var mnemonic = "swim welcome wolf print repair prepare become voyage script wine flush ghost";
+var mnemonic = "like wrong inmate ask require industry tide match wise blossom wet actual";

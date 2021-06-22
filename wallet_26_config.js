@@ -1,1 +1,1 @@
-var mnemonic = "collect loop material lawn tortoise globe popular crush under track start test";
+var mnemonic = "tiger seven dress mirror sad fruit fatal shiver fan behave maximum lizard";

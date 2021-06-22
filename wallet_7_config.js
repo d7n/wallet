@@ -1,1 +1,1 @@
-var mnemonic = "harsh clutch device elephant income cool alley scheme this point merge basic";
+var mnemonic = "grid spread kidney leader require drastic seven magnet fault tilt bottom saddle";

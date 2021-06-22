@@ -1,1 +1,1 @@
-var mnemonic = "imitate argue find long good inner language category response warfare cool giggle";
+var mnemonic = "knee industry entry invest elevator what caught loyal six media bright foil";

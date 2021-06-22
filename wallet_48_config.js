@@ -1,1 +1,1 @@
-var mnemonic = "spare lens marble future loyal blush viable result refuse achieve cereal wheat";
+var mnemonic = "sea fish copy fashion april finger media excite sight provide surprise arch";

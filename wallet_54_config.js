@@ -1,1 +1,1 @@
-var mnemonic = "soccer turkey call try laundry surge bacon clump now fiber buddy gather";
+var mnemonic = "movie task address lizard crystal prevent smoke orphan absent wrist chest east";

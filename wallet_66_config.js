@@ -1,1 +1,1 @@
-var mnemonic = "injury unfair token stick joy tower kit auto stove giant eyebrow gift";
+var mnemonic = "deputy sunny drama smoke assist uncover vapor script velvet story crumble tornado";

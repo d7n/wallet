@@ -1,1 +1,1 @@
-var mnemonic = "replace drop used forget farm family guitar client have name spawn gossip";
+var mnemonic = "spare stairs shiver imitate glove meat unit volcano age heart mosquito picture";

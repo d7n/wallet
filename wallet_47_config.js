@@ -1,1 +1,1 @@
-var mnemonic = "labor can mail soldier special doctor team fiscal chalk dilemma clump quarter";
+var mnemonic = "letter often group aim drift twenty pear live require weapon cradle offer";

@@ -1,1 +1,1 @@
-var mnemonic = "almost reason laundry range know one host current repeat actual various law";
+var mnemonic = "approve series level mesh nurse useful loyal engine arrange equal ketchup public";

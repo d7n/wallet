@@ -1,1 +1,1 @@
-var mnemonic = "repair crystal umbrella duty future rhythm element become ribbon remind gun egg";
+var mnemonic = "minimum spy believe ask flavor nose chef play push can merry monkey";

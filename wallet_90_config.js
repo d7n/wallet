@@ -1,1 +1,1 @@
-var mnemonic = "popular input ceiling road rude sustain velvet baby better room syrup catch";
+var mnemonic = "peasant spatial sweet ice rapid wheat build cycle brush board economy rice";

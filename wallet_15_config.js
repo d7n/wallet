@@ -1,1 +1,1 @@
-var mnemonic = "label enemy wash feed leave strong surface diagram define satisfy mixture opera";
+var mnemonic = "various skirt antique wash right kick weather coil skill opinion abandon devote";

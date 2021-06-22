@@ -1,1 +1,1 @@
-var mnemonic = "chronic tiger key hair drum adapt fix oven win knife sniff code";
+var mnemonic = "eight neutral tuna light helmet bind mesh toy foam lounge excess garment";

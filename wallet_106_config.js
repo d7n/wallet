@@ -1,1 +1,1 @@
-var mnemonic = "tooth inject depend perfect park corn private raccoon never dove increase artist";
+var mnemonic = "kidney daring one hybrid ozone differ view ship kitten brief symptom artefact";

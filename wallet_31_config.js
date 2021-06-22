@@ -1,1 +1,1 @@
-var mnemonic = "size private bus toward sign enough laugh uncle borrow settle act dizzy";
+var mnemonic = "author pitch normal fault enough thought rescue matter author solar similar hint";

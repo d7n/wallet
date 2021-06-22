@@ -1,1 +1,1 @@
-var mnemonic = "ill yard weird clown control achieve fog crime speak vital autumn fatal";
+var mnemonic = "sister swing claim crew circle have output axis repeat mercy canal pluck";

@@ -1,1 +1,1 @@
-var mnemonic = "street moon language imitate elbow system sick grocery search era tunnel whisper";
+var mnemonic = "elephant clever impulse parrot jaguar size pistol gold permit love flame random";

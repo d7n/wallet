@@ -1,1 +1,1 @@
-var mnemonic = "seat asset faint bean venture blossom average ripple person flight letter until";
+var mnemonic = "change shock guess immune supreme ugly cable edge cruel eye stage habit";

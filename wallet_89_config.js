@@ -1,1 +1,1 @@
-var mnemonic = "spatial team weird magnet leader smoke rotate answer physical priority message island";
+var mnemonic = "boring student cause episode culture neutral almost leg frozen sunny this copper";

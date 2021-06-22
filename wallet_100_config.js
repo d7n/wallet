@@ -1,1 +1,1 @@
-var mnemonic = "sure adjust guitar kitten brick enforce lottery glove leopard fan sauce again";
+var mnemonic = "daring penalty correct prepare sibling tone typical occur ordinary box sand acquire";

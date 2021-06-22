@@ -1,1 +1,1 @@
-var mnemonic = "panic pledge suit west mirror siege mass miracle hungry resist frost unveil";
+var mnemonic = "spot appear senior torch abstract unknown dolphin please harsh fame cross unaware";

@@ -1,1 +1,1 @@
-var mnemonic = "now clock gaze promote floor domain program inform voyage motor version wish";
+var mnemonic = "mind keen purity ostrich maple digital purpose load often pluck helmet winner";

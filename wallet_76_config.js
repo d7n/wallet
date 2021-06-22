@@ -1,1 +1,1 @@
-var mnemonic = "humor coast oval render rug fork stick tornado minute such language orchard";
+var mnemonic = "vital twelve replace output benefit vehicle stock attack laptop force stadium entry";

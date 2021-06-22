@@ -1,1 +1,1 @@
-var mnemonic = "front kitchen verb critic cabin rifle curious pottery later slight humor rapid";
+var mnemonic = "faint theme scare plug response adult copper strategy disease wife away weasel";

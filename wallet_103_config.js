@@ -1,1 +1,1 @@
-var mnemonic = "venture vacuum banana north bone water limit skirt water kite hurt salad";
+var mnemonic = "space trouble surround give avoid memory cherry tent idea educate mask giant";

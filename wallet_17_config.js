@@ -1,1 +1,1 @@
-var mnemonic = "search wild flame cry taxi tooth train base define help balance broccoli";
+var mnemonic = "observe riot friend pizza candy chronic load outside boil brain apple fiction";

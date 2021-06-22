@@ -1,1 +1,1 @@
-var mnemonic = "rebuild debate wrestle zebra erosion good snow leg cheap lens claw use";
+var mnemonic = "siege gym penalty balance stone bar snow physical above license deer boat";

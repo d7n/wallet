@@ -1,1 +1,1 @@
-var mnemonic = "cup six praise estate lazy culture original lonely school nation amazing civil";
+var mnemonic = "cable icon give secret come useless stamp diagram cat sail isolate topic";

@@ -1,1 +1,1 @@
-var mnemonic = "disorder camera space shift soda beach fan rookie cake shallow decline seminar";
+var mnemonic = "indoor allow develop behave angry cushion capable follow daughter tonight fabric pizza";

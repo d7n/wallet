@@ -1,1 +1,1 @@
-var mnemonic = "fever green drum gain claw victory water creek boy chef popular fog";
+var mnemonic = "empower gun deny wild gorilla elegant position climb monitor double autumn stairs";

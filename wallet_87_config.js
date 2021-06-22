@@ -1,1 +1,1 @@
-var mnemonic = "urge abuse web empty search clown reveal absurd host wild next kitchen";
+var mnemonic = "couple between universe allow pitch gym story labor frost crucial test census";

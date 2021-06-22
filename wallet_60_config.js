@@ -1,1 +1,1 @@
-var mnemonic = "shop cheese cherry face payment render wonder lady emerge survey dog spin";
+var mnemonic = "original diet rule vague clerk paper valley crash marble exist breeze win";

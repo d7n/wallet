@@ -1,1 +1,1 @@
-var mnemonic = "above damage soul wedding test reflect hobby cram love corn turkey flock";
+var mnemonic = "brain history resist tumble wonder bless wife recall lizard concert draw glad";

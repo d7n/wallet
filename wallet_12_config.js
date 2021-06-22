@@ -1,1 +1,1 @@
-var mnemonic = "crack travel north basket milk kite scare admit icon coast side blame";
+var mnemonic = "quiz just second opera ginger garden option aim kitchen two lock soon";

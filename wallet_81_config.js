@@ -1,1 +1,1 @@
-var mnemonic = "boss nurse dial cube spend soccer coil depart erase off sick normal";
+var mnemonic = "cousin ivory fringe lunch receive lady ball lawsuit session survey exhibit present";

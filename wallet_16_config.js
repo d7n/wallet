@@ -1,1 +1,1 @@
-var mnemonic = "slow region can census drama peanut obey powder that exercise equip vendor";
+var mnemonic = "deer hollow horn lend door olive cup price memory demise awake bounce";

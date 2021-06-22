@@ -1,1 +1,1 @@
-var mnemonic = "spoil destroy victory lottery slab describe language quote tip quantum supply slab";
+var mnemonic = "shaft aisle liberty honey friend jewel notice tunnel cube symptom enforce alpha";

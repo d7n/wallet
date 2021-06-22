@@ -1,1 +1,1 @@
-var mnemonic = "together elevator option release bulk toy vehicle uphold emotion arctic hedgehog wheat";
+var mnemonic = "ridge grace sponsor awkward oven paddle possible have school sauce multiply brass";

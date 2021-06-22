@@ -1,1 +1,1 @@
-var mnemonic = "desk maze myth lucky upset demand sun fancy inhale regular joke picture";
+var mnemonic = "pass heart oxygen grunt coin outdoor garbage dog champion admit arctic song";

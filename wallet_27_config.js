@@ -1,1 +1,1 @@
-var mnemonic = "about bubble achieve affair sunset sniff rebuild olive bitter cinnamon lottery suspect";
+var mnemonic = "one pelican monitor segment asthma abandon good style damp crisp comic number";

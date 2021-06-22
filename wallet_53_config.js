@@ -1,1 +1,1 @@
-var mnemonic = "slim fall cinnamon stock enact misery salmon hybrid patient gaze crack poet";
+var mnemonic = "track sister pony vague novel wing wink meat desert idea alcohol build";

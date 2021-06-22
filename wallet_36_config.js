@@ -1,1 +1,1 @@
-var mnemonic = "height auction luxury file zebra hobby screen indicate merge summer health dolphin";
+var mnemonic = "fury dragon swift excite cricket repair silk remove night salad easily design";

@@ -1,1 +1,1 @@
-var mnemonic = "club thought neither cactus eye catch top shiver source notice text office";
+var mnemonic = "comfort episode arrest night betray royal boring luggage bronze truly wait become";

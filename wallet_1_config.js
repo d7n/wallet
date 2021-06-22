@@ -1,1 +1,1 @@
-var mnemonic = "garage song extend luxury typical submit ship defy clean gasp prepare flavor";
+var mnemonic = "broken range wolf impulse section urge foam lift drip motion benefit ordinary";

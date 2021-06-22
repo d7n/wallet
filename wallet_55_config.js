@@ -1,1 +1,1 @@
-var mnemonic = "execute age person humor fall object wreck hundred roast rose busy feel";
+var mnemonic = "egg muffin planet flame what bamboo era answer annual small casino balcony";

@@ -1,1 +1,1 @@
-var mnemonic = "eye ramp glimpse inhale mean aunt sand boil renew version ozone depart";
+var mnemonic = "laptop they account rather end tennis spider viable advance action solar judge";

@@ -1,1 +1,1 @@
-var mnemonic = "gorilla pistol urge faith tumble diet still thought afraid spread remove wealth";
+var mnemonic = "potato three drift force blame crew royal trial family city advice burst";

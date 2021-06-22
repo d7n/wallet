@@ -1,1 +1,1 @@
-var mnemonic = "brush size warfare accident sauce index faculty lake swallow crop surprise seven";
+var mnemonic = "base neither exit inflict boost sponsor bubble must casual crime develop cliff";

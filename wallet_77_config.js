@@ -1,1 +1,1 @@
-var mnemonic = "scrap gaze long actual about enlist nurse lawn stamp sketch lion uniform";
+var mnemonic = "turtle because liar grocery remove exhibit desk enlist fury minimum relax energy";

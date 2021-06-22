@@ -1,1 +1,1 @@
-var mnemonic = "month divert soap invest axis calm rookie build grain pony perfect custom";
+var mnemonic = "deer ripple feature shrimp nurse cave pencil cute adult wage assume aspect";

@@ -1,1 +1,1 @@
-var mnemonic = "perfect mom parrot major spell cause luggage foil never biology else stamp";
+var mnemonic = "control neutral roof thunder wrong belt eager document anxiety soap pluck oppose";

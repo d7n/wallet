@@ -1,1 +1,1 @@
-var mnemonic = "rule weasel roof ride bench blade tuition timber bomb sell essence chief";
+var mnemonic = "steel taxi shoe road century oven bread dove involve rude material calm";

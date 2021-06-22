@@ -1,1 +1,1 @@
-var mnemonic = "glimpse short mask female lawn riot banner glad strike employ around damage";
+var mnemonic = "vague galaxy pull pupil pride harvest bulk cannon satoshi arch assist patrol";

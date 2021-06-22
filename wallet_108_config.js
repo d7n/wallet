@@ -1,1 +1,1 @@
-var mnemonic = "short security release dog casual subway bargain holiday wrong forget false upgrade";
+var mnemonic = "place dream trash staff traffic pipe mutual depend promote travel abstract enlist";

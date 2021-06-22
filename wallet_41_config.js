@@ -1,1 +1,1 @@
-var mnemonic = "weird conduct neglect insect pigeon envelope bamboo warrior empty village sport pencil";
+var mnemonic = "skirt acquire hole birth hidden quantum economy lock tennis dilemma pipe praise";

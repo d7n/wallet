@@ -1,1 +1,1 @@
-var mnemonic = "insect taste air cricket puppy frown prepare security jelly simple soap gap";
+var mnemonic = "kangaroo energy siege choose crane umbrella winter mesh behind crisp sudden couch";

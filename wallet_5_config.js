@@ -1,1 +1,1 @@
-var mnemonic = "rack outer raccoon dog mention boy fly parent sweet drift twice girl";
+var mnemonic = "rally garlic maple bottom butter calm salt staff keen purpose because gesture";
