@@ -1,1 +1,1 @@
-var mnemonic = "subject valve false mystery horse disagree fetch hurdle match spice observe hard";
+var mnemonic = "gain basic matter bachelor visit cave promote unusual polar tackle borrow initial";

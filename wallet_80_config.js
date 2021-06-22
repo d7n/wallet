@@ -1,1 +1,1 @@
-var mnemonic = "kingdom bulb develop blast penalty link soccer roast casual meadow city narrow";
+var mnemonic = "subway update usual love heavy evolve sugar assist economy obtain owner diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "abandon evidence narrow apology leisure soda aerobic brand castle ripple differ service";
+var mnemonic = "unlock clog budget original slice price material wink pond zero pistol away";

@@ -1,1 +1,1 @@
-var mnemonic = "royal size number found amount isolate dumb hello legend three jacket length";
+var mnemonic = "jaguar ostrich bargain famous team cushion people insane nation caution rich faith";

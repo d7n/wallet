@@ -1,1 +1,1 @@
-var mnemonic = "express alert example capable town response laptop enact price weekend fancy confirm";
+var mnemonic = "scan leopard erase ocean door laundry evoke dragon arctic scissors element dilemma";

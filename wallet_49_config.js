@@ -1,1 +1,1 @@
-var mnemonic = "hawk imitate seminar suffer hedgehog drink explain gun expand crisp oxygen away";
+var mnemonic = "success typical output wage boost sketch below clip curtain have height axis";

@@ -1,1 +1,1 @@
-var mnemonic = "future moon cereal success slight cement inner distance enforce lawn machine furnace";
+var mnemonic = "vicious poem brick author eyebrow eager dress runway cook kitten fun artist";

@@ -1,1 +1,1 @@
-var mnemonic = "return arrow hurt select outer sketch collect picnic behave loan album gasp";
+var mnemonic = "afford puppy drive upon hope motion flat fee put edge blame embody";

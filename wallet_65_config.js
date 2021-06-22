@@ -1,1 +1,1 @@
-var mnemonic = "employ clump material fancy capable boil keep fancy bulk venue brother fine";
+var mnemonic = "walk frog general unknown pelican pilot phone rail public fluid economy walk";

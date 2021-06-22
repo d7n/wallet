@@ -1,1 +1,1 @@
-var mnemonic = "know found promote vote ready stone enlist stay ten law buyer build";
+var mnemonic = "oak pepper easily file impulse fiber rotate wait pull valley impulse crowd";

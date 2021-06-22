@@ -1,1 +1,1 @@
-var mnemonic = "pear pigeon snow man purity finger debris they minute sphere pelican all";
+var mnemonic = "blame electric unhappy fall observe sad kind exotic impose print west green";

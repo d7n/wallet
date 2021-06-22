@@ -1,1 +1,1 @@
-var mnemonic = "fall portion vicious fish cable step ridge seminar wage any fashion identify";
+var mnemonic = "ketchup witness pipe distance stairs gospel address learn witness tuna desert charge";

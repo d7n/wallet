@@ -1,1 +1,1 @@
-var mnemonic = "raccoon rescue glare jewel fee cube powder throw claim warfare border feature";
+var mnemonic = "photo pony afford tomorrow emotion coral maximum output polar humble pet second";

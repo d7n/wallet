@@ -1,1 +1,1 @@
-var mnemonic = "prison garbage cake zero friend canal inspire junior view female tumble dove";
+var mnemonic = "kind again thought hill vote west meat amazing tool scatter flight exhaust";

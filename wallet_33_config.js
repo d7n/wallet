@@ -1,1 +1,1 @@
-var mnemonic = "special brand audit cradle color already jazz bike sea install pen inflict";
+var mnemonic = "list puppy alone glass kind hedgehog assault exotic cheese trend caught pepper";

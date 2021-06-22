@@ -1,1 +1,1 @@
-var mnemonic = "use film coyote come corn lock habit miracle garage nominee warfare hat";
+var mnemonic = "solid half muscle swarm visual mosquito copper virtual produce guide magic knock";

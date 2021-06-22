@@ -1,1 +1,1 @@
-var mnemonic = "outer choose ankle focus pottery neglect immense truck canvas good tunnel stool";
+var mnemonic = "thing alone reveal silk harvest spider exclude receive favorite clog hollow have";

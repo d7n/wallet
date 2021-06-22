@@ -1,1 +1,1 @@
-var mnemonic = "invite kid bike enable session climb dirt glimpse leopard food topple manual";
+var mnemonic = "lizard rule liquid globe parent seed inspire pyramid ten antenna dune payment";

@@ -1,1 +1,1 @@
-var mnemonic = "hip genre aware neutral sustain vendor state refuse hub obey orient shield";
+var mnemonic = "indoor remove grow broom buddy method token announce capable regular conduct gesture";

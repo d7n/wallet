@@ -1,1 +1,1 @@
-var mnemonic = "quarter whip jeans world company tongue exact youth december spirit cactus enact";
+var mnemonic = "ancient strike join surround angry believe boring betray crumble lounge prison guide";

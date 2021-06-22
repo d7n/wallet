@@ -1,1 +1,1 @@
-var mnemonic = "solution unique forget verify entire love have fade heavy depend comic search";
+var mnemonic = "unable want payment box orient boost space duck crush margin chair today";

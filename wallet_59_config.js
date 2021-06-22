@@ -1,1 +1,1 @@
-var mnemonic = "matrix over disorder vault hand clip area recipe hen fork review exhibit";
+var mnemonic = "van demand short black connect muscle involve excite salad dice dentist coach";

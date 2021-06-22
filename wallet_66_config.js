@@ -1,1 +1,1 @@
-var mnemonic = "camera sausage pave kind ride purity balcony that armor dad possible garlic";
+var mnemonic = "dove derive sudden mad stay erase doll surge solid know age estate";

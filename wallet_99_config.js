@@ -1,1 +1,1 @@
-var mnemonic = "ordinary state goat holiday empower boost infant twelve office junior castle speed";
+var mnemonic = "letter life planet cactus vocal battle marble govern match provide cabin silver";

@@ -1,1 +1,1 @@
-var mnemonic = "awkward hub flat cinnamon apology siege alpha space demand seed pole inherit";
+var mnemonic = "seek orbit cinnamon mind pill unit sausage cactus that photo power ketchup";

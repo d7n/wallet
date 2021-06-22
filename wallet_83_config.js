@@ -1,1 +1,1 @@
-var mnemonic = "calm mechanic cousin endorse crush bone defense churn rookie filter cluster harvest";
+var mnemonic = "aerobic since gospel usage client country cattle brand panther hurry report pill";

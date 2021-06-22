@@ -1,1 +1,1 @@
-var mnemonic = "age swarm man feature deposit ranch ensure join actual stable dove tomorrow";
+var mnemonic = "ginger attack empty blast mom west float short cherry cake company crew";

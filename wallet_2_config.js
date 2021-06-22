@@ -1,1 +1,1 @@
-var mnemonic = "book south immense rally carry invest risk reduce letter turn guilt wet";
+var mnemonic = "upon cigar cat reward amused winter frozen term luggage dentist tribe degree";

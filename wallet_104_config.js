@@ -1,1 +1,1 @@
-var mnemonic = "cry carpet truth alarm demand tiger stick rely juice brush quick trigger";
+var mnemonic = "pistol right nothing notable type love flame often script smooth regret dumb";

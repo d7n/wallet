@@ -1,1 +1,1 @@
-var mnemonic = "toilet void evoke column item enact ankle curve fold better recycle essence";
+var mnemonic = "draft three opinion hotel taste music oven mountain lumber universe marble fit";

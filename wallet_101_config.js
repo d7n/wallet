@@ -1,1 +1,1 @@
-var mnemonic = "sketch width session health juice toy tribe bus position bar skate crew";
+var mnemonic = "hello guide twice flame oval stamp crunch evil helmet critic whisper rail";

@@ -1,1 +1,1 @@
-var mnemonic = "horse alley tuna little creek spell mountain middle margin output clever danger";
+var mnemonic = "various drama myself material develop race symptom patient party future treat toward";

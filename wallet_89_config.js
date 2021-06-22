@@ -1,1 +1,1 @@
-var mnemonic = "regular gift lounge cream hazard grape identify girl mistake add wash wage";
+var mnemonic = "sign reward army crack dad release senior better trial loyal excess ticket";

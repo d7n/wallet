@@ -1,1 +1,1 @@
-var mnemonic = "maple monkey miracle bomb art elevator chronic donate foster around fish job";
+var mnemonic = "loyal inhale cereal coffee recycle essay coach right frame dentist amazing gate";

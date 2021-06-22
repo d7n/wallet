@@ -1,1 +1,1 @@
-var mnemonic = "item song roast exit execute gasp minimum prison settle business lobster shock";
+var mnemonic = "beach salad oak absurd busy orchard good song match dune convince basket";

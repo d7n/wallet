@@ -1,1 +1,1 @@
-var mnemonic = "involve logic current identify hammer pretty say spy lock usage discover coral";
+var mnemonic = "firm vintage pottery axis demand twin prize require drop police fatigue exit";

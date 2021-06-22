@@ -1,1 +1,1 @@
-var mnemonic = "shrug meat pioneer fiber dream enforce visual say style camera panic wild";
+var mnemonic = "now sleep cliff grit describe involve actress file gym ignore frozen scheme";

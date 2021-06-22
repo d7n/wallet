@@ -1,1 +1,1 @@
-var mnemonic = "change shock stable three wall basic garage trap charge powder midnight code";
+var mnemonic = "fetch cigar ribbon mask shy noise industry essence curve awful bulb slab";

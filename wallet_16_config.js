@@ -1,1 +1,1 @@
-var mnemonic = "crane witness half twenty lecture meadow super click saddle busy trick deputy";
+var mnemonic = "collect vast height wash assist actual harbor tornado budget intact net bird";

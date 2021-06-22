@@ -1,1 +1,1 @@
-var mnemonic = "core act uncover play wish useless payment aware magnet royal biology tragic";
+var mnemonic = "subject board just sheriff output protect east lend quick wrong nut country";

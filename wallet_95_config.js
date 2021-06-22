@@ -1,1 +1,1 @@
-var mnemonic = "ladder region foster connect increase champion yellow yard hobby demand gloom group";
+var mnemonic = "toe swift habit wedding chaos catalog useful unit style erosion mad recycle";

@@ -1,1 +1,1 @@
-var mnemonic = "apart strong kick kite poem attend bless entire initial cinnamon truly dream";
+var mnemonic = "about invest baby hour attitude notable pipe finish tuition sausage dizzy copper";

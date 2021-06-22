@@ -1,1 +1,1 @@
-var mnemonic = "advance atom spring idle swim hood slam return laugh wear clump effort";
+var mnemonic = "victory define various rate main about carbon there gospel neither frozen script";

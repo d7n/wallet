@@ -1,1 +1,1 @@
-var mnemonic = "runway forward submit pony kick arctic romance idle essence naive fiction truth";
+var mnemonic = "shy hope balance history subject color bench name ask primary defense plate";

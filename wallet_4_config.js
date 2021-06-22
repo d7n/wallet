@@ -1,1 +1,1 @@
-var mnemonic = "hover diesel royal jelly intact front payment erode affair unit behind spot";
+var mnemonic = "battle slice nest accident surface solve unit bike foam turkey post tattoo";

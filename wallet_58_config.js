@@ -1,1 +1,1 @@
-var mnemonic = "crystal click test invite scrub acid volume glare cluster mistake scout foil";
+var mnemonic = "begin miss sausage frame behave recall gown main surround warm series ladder";

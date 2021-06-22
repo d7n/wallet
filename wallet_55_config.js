@@ -1,1 +1,1 @@
-var mnemonic = "better rubber snake dilemma wagon fiber sail resist buddy muscle comfort state";
+var mnemonic = "sentence section install drill tragic column garment cigar confirm barely unfair section";

@@ -1,1 +1,1 @@
-var mnemonic = "nominee flash flee curtain toward awake treat planet crystal perfect police shed";
+var mnemonic = "school wise love middle spoon boss method pumpkin cry inspire someone project";

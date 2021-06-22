@@ -1,1 +1,1 @@
-var mnemonic = "such expose brick hurt margin lab liquid crime dumb fan promote enjoy";
+var mnemonic = "gossip garden power chat tape senior salad social heart staff normal orphan";

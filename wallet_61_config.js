@@ -1,1 +1,1 @@
-var mnemonic = "erosion total dentist noble fee squeeze calm acoustic infant then discover guide";
+var mnemonic = "clog universe silver peasant cruise interest trigger soup boy tape toward student";

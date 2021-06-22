@@ -1,1 +1,1 @@
-var mnemonic = "twin loud transfer medal zoo solution stamp arm club oyster bleak coil";
+var mnemonic = "purchase uncle quiz umbrella movie harbor nice dynamic census december notice flash";

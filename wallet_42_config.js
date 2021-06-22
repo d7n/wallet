@@ -1,1 +1,1 @@
-var mnemonic = "amazing manage crystal upset relief forward enable trouble kit ensure divorce stadium";
+var mnemonic = "airport bag honey argue ride idea box consider fun pizza mouse spirit";

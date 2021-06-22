@@ -1,1 +1,1 @@
-var mnemonic = "utility menu save talk wagon legal local rotate cattle vault slim frown";
+var mnemonic = "need pull stereo flock vendor gold suspect kit rich live viable fiscal";

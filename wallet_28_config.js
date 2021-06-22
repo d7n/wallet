@@ -1,1 +1,1 @@
-var mnemonic = "enjoy property cereal clump proof start ride butter clay soap maid flat";
+var mnemonic = "rack poem gown coil student nation blur unusual truth sheriff person chicken";

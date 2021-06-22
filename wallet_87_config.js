@@ -1,1 +1,1 @@
-var mnemonic = "elder cute fabric elbow cool glow regret month when letter pet dose";
+var mnemonic = "rebel tool credit one rifle mushroom cereal dust vendor mutual clever distance";

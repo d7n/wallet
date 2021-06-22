@@ -1,1 +1,1 @@
-var mnemonic = "able tortoise tuition dignity film spirit grunt negative limb earn often until";
+var mnemonic = "hybrid example east seek muffin current say naive winner differ olympic silk";

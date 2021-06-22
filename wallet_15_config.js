@@ -1,1 +1,1 @@
-var mnemonic = "oven abandon session dolphin deposit answer notable treat frozen hire bargain leaf";
+var mnemonic = "major race antique color retreat park boss wagon entire snake mouse find";

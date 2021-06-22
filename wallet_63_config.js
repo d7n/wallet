@@ -1,1 +1,1 @@
-var mnemonic = "next ankle light identify lesson demise ivory school dignity banana ship tomato";
+var mnemonic = "purpose evil morning month hero slot trophy cupboard tenant domain cool maze";

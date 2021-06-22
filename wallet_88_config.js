@@ -1,1 +1,1 @@
-var mnemonic = "average gospel width oak fiction exclude kitten mirror stairs slice hello path";
+var mnemonic = "ability pyramid rib innocent buyer lobster achieve federal fly eagle matter phone";

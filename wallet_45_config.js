@@ -1,1 +1,1 @@
-var mnemonic = "chuckle random monitor swap buzz decorate moment dice betray hint chief castle";
+var mnemonic = "box quarter know oxygen sweet scene first rescue rhythm eager acid strike";

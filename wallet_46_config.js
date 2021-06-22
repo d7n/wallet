@@ -1,1 +1,1 @@
-var mnemonic = "unfair smoke mercy myself gossip travel together fetch debate sausage gate door";
+var mnemonic = "pattern toss glare club access elegant blast verb private device divert primary";

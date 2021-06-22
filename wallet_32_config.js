@@ -1,1 +1,1 @@
-var mnemonic = "egg wheat follow notable involve fold relief survey length render brisk million";
+var mnemonic = "traffic great item index right circle emerge sick zebra hood round embrace";

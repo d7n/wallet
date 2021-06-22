@@ -1,1 +1,1 @@
-var mnemonic = "they require smoke battle front manual trade churn female wide genre myth";
+var mnemonic = "stone erupt ask bridge pencil fashion that apple purse pig predict bronze";

@@ -1,1 +1,1 @@
-var mnemonic = "lobster crew truck sample ahead cinnamon wrist expose bomb field dress again";
+var mnemonic = "often early fall giraffe legal protect perfect uniform possible neglect basket laugh";

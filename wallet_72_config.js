@@ -1,1 +1,1 @@
-var mnemonic = "indoor chuckle believe sketch stay arena oven sugar museum until render lonely";
+var mnemonic = "major piece anger chef cabin damage tube nuclear ethics sorry pledge bike";

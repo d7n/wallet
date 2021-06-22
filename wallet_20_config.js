@@ -1,1 +1,1 @@
-var mnemonic = "punch abandon shiver typical sick drama crime expect cheap risk hire health";
+var mnemonic = "various occur sort long symptom drum segment creek swift distance huge luxury";

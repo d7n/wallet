@@ -1,1 +1,1 @@
-var mnemonic = "carpet learn era dilemma shoot balcony flame flush merge ivory fly ridge";
+var mnemonic = "fire indicate achieve custom road draw wagon body anchor despair load laugh";

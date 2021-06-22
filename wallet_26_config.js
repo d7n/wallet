@@ -1,1 +1,1 @@
-var mnemonic = "labor isolate dinner able hybrid tenant virtual say unfold large scan arrange";
+var mnemonic = "body only soup remember decrease section tribe inform double lawsuit marriage unit";

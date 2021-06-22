@@ -1,1 +1,1 @@
-var mnemonic = "border advice reward doctor scare enable shield vacant argue world there hold";
+var mnemonic = "minute saddle dance know interest armor return explain animal pyramid pottery differ";

@@ -1,1 +1,1 @@
-var mnemonic = "indicate champion rose spawn post weapon lava north outdoor amused turn april";
+var mnemonic = "thunder large amused crouch science mansion expand obey delay put autumn valve";

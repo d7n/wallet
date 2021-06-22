@@ -1,1 +1,1 @@
-var mnemonic = "enemy museum feed walk grain collect reject antenna carry add punch under";
+var mnemonic = "couch pattern lumber garbage comfort gesture grace spice purchase virtual arrow dream";

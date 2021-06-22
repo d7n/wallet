@@ -1,1 +1,1 @@
-var mnemonic = "behind retire excite panic pluck penalty animal follow cigar gift industry nation";
+var mnemonic = "dwarf drill artefact spice joke glance hotel umbrella reflect spatial cube neglect";

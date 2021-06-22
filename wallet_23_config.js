@@ -1,1 +1,1 @@
-var mnemonic = "satoshi first leisure proof erase victory frequent fury cradle guitar rebel crop";
+var mnemonic = "logic above cool river annual enact expire profit exist noble life accident";

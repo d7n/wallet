@@ -1,1 +1,1 @@
-var mnemonic = "duck asset tilt tooth maximum denial similar renew struggle text oven equip";
+var mnemonic = "film party thank chunk stamp sword reduce midnight other other tribe income";

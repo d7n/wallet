@@ -1,1 +1,1 @@
-var mnemonic = "prepare account social top response false actual tumble ready pair violin bring";
+var mnemonic = "consider melt furnace ribbon ticket imitate evil ginger fame lawsuit display wreck";

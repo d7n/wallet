@@ -1,1 +1,1 @@
-var mnemonic = "canal wrestle attend extend decorate love people sponsor ignore memory gentle athlete";
+var mnemonic = "found weasel obscure bullet tide tobacco taste timber shuffle refuse spray ride";

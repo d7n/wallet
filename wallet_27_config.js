@@ -1,1 +1,1 @@
-var mnemonic = "parent romance stadium book tiger purity wool future harsh reflect depart ankle";
+var mnemonic = "paddle cost fork vacant wage trial help aim will awkward glimpse remain";

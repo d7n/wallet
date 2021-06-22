@@ -1,1 +1,1 @@
-var mnemonic = "various hard amazing slam copy fashion recipe nominee town tattoo solution strategy";
+var mnemonic = "very odor parrot cousin junk prison loop stamp walk glimpse cage captain";

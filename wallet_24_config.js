@@ -1,1 +1,1 @@
-var mnemonic = "chief country december space rail rib sight essence breeze motion novel cross";
+var mnemonic = "okay provide party joke more alone decline maximum fish describe below field";

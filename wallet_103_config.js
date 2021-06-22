@@ -1,1 +1,1 @@
-var mnemonic = "family mother video diet method imitate use model agree merge frost east";
+var mnemonic = "decade mercy song normal gallery gap glad camera hockey defense phone satoshi";

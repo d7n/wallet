@@ -1,1 +1,1 @@
-var mnemonic = "index luggage drum exist trip radar explain mass slow solution square artist";
+var mnemonic = "cube range actual gadget arm panic scare fantasy winter bread noodle pudding";

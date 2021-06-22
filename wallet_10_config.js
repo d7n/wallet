@@ -1,1 +1,1 @@
-var mnemonic = "exotic misery slab quit lend kick route winter price heart practice seminar";
+var mnemonic = "kidney fabric during cement fabric hunt vibrant car area bind zero square";

@@ -1,1 +1,1 @@
-var mnemonic = "erupt tag harbor wise dry wide visit zebra trouble chat must private";
+var mnemonic = "fury comic under regret slot local pet wagon pave core muscle shaft";

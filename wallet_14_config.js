@@ -1,1 +1,1 @@
-var mnemonic = "vanish replace hello there shine exchange range excite drop man spy crowd";
+var mnemonic = "wave parent robust agent genius fat video flag act twelve midnight pool";

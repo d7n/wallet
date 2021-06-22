@@ -1,1 +1,1 @@
-var mnemonic = "clog grant spice property rhythm empower arch control asset burden hurry limb";
+var mnemonic = "rocket garbage subject gauge blade patch dignity tag carry inhale alarm robot";

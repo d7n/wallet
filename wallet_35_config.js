@@ -1,1 +1,1 @@
-var mnemonic = "mistake excess total push edge nature document satoshi poet loan window vast";
+var mnemonic = "pulse census love amount student public blade result magic weapon panel primary";

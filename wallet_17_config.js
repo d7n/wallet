@@ -1,1 +1,1 @@
-var mnemonic = "fit boat stumble live misery parade panic enlist ripple chalk renew bridge";
+var mnemonic = "online match patch merit emotion weather shine garment perfect law defy tone";
