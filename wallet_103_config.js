@@ -1,1 +1,1 @@
-var mnemonic = "prison edge denial lawn appear boil cloth tag misery swap era riot";
+var mnemonic = "foam rookie whale famous valid pioneer melt swift service text bunker dad";

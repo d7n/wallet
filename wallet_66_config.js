@@ -1,1 +1,1 @@
-var mnemonic = "section economy book output mention pig stereo gas quality dream resemble scorpion";
+var mnemonic = "pulp often glare spice occur attend flower lemon host afford cat film";

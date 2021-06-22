@@ -1,1 +1,1 @@
-var mnemonic = "capital walnut gaze remind blue very record circle scatter layer account help";
+var mnemonic = "attend must rubber discover they world infant six friend liar error close";

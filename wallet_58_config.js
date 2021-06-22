@@ -1,1 +1,1 @@
-var mnemonic = "document bid immense bulb staff sketch steak supply bronze stadium super salad";
+var mnemonic = "elbow grid wheel fruit vivid now require ramp tape medal space pattern";

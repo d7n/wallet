@@ -1,1 +1,1 @@
-var mnemonic = "cluster ripple punch unlock problem alarm coach bundle kangaroo else liquid ordinary";
+var mnemonic = "crop junior tragic boost essence badge wheat size slam upper jeans toward";

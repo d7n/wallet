@@ -1,1 +1,1 @@
-var mnemonic = "pelican mansion process road they upon fury shoe mansion soccer rule license";
+var mnemonic = "old shop step dinner crush blast father example vague pioneer toe flower";

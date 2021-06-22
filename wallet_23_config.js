@@ -1,1 +1,1 @@
-var mnemonic = "camp muffin cash brave couch black ability tobacco mule beef hope arm";
+var mnemonic = "cheese soap believe sun edge avocado absurd mother series shallow sudden pole";

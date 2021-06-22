@@ -1,1 +1,1 @@
-var mnemonic = "already slot wrap dutch eternal emotion outer start pioneer castle electric slim";
+var mnemonic = "vanish people heart embody pig young glad imitate execute else urge party";

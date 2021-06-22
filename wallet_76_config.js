@@ -1,1 +1,1 @@
-var mnemonic = "wrap anger weekend fiber truth language rabbit quick define soldier mixture remind";
+var mnemonic = "monkey festival remove concert raise stage taxi motion great gesture bullet spatial";

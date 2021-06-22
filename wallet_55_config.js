@@ -1,1 +1,1 @@
-var mnemonic = "dolphin trophy quit regular boil invite mother mutual deny talk bottom clinic";
+var mnemonic = "pattern barrel behave early lock fiction caught crack disagree owner rhythm grace";

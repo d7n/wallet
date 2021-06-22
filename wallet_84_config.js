@@ -1,1 +1,1 @@
-var mnemonic = "autumn alley venture spot betray escape mind zoo palm sea stairs alert";
+var mnemonic = "shoulder mushroom ramp melody sniff wash identify artefact current bench observe rough";

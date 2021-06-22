@@ -1,1 +1,1 @@
-var mnemonic = "speed deliver bracket thank spring quick abstract unique route lady rebuild cancel";
+var mnemonic = "impact eye gain reduce cannon outside aspect balance large scale hawk diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "item pulp disagree risk neck refuse tray apology love motion auction obscure";
+var mnemonic = "pupil thought kite connect behave person fox pave have bright lesson balcony";

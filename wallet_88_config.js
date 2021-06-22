@@ -1,1 +1,1 @@
-var mnemonic = "sustain skate tuition learn cart soft tent already chef judge relief rigid";
+var mnemonic = "flash laugh require accident lyrics shy brass snow super kiss fatal race";

@@ -1,1 +1,1 @@
-var mnemonic = "canvas length morning whip salute lunch liar other wheat dog blue evil";
+var mnemonic = "try flag boat wrap chair artefact prize diet yellow fossil talk leopard";

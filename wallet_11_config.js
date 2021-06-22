@@ -1,1 +1,1 @@
-var mnemonic = "material firm clock another exhibit cheese ladder film wild clump credit salt";
+var mnemonic = "blind segment extend phone sugar barely man couch gap horror witness hungry";

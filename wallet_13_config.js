@@ -1,1 +1,1 @@
-var mnemonic = "trouble fatigue pool gaze shell margin this mystery bike edge fuel about";
+var mnemonic = "lizard wreck destroy obscure picnic later trick much execute keen width legend";

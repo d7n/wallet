@@ -1,1 +1,1 @@
-var mnemonic = "someone crisp sound test love oblige reunion burden burst castle mechanic hello";
+var mnemonic = "eagle crouch flame antenna load layer chaos resemble upgrade tuna sound once";

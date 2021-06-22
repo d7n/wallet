@@ -1,1 +1,1 @@
-var mnemonic = "misery theory track zoo client purchase coast loyal copy help skill aunt";
+var mnemonic = "buddy junior model quit put type answer venture nephew sound clog point";

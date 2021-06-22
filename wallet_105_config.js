@@ -1,1 +1,1 @@
-var mnemonic = "tourist antenna junior raccoon liberty believe symbol pistol spell ecology park drip";
+var mnemonic = "suit sell detail sustain hamster claim where valve sheriff raise sentence suspect";

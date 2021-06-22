@@ -1,1 +1,1 @@
-var mnemonic = "museum volume license symbol surface planet chaos trouble bone chase trigger produce";
+var mnemonic = "example cradle lab infant club above other own lamp tackle room mosquito";

@@ -1,1 +1,1 @@
-var mnemonic = "south imitate antique tobacco fragile brisk tragic jacket gadget enough hub raven";
+var mnemonic = "ramp accident blush save merit wrist hungry primary metal spider marine list";

@@ -1,1 +1,1 @@
-var mnemonic = "throw veteran chronic company memory actress stable inmate prefer blossom laptop suffer";
+var mnemonic = "supreme bag tuition fire moral wrong nuclear pistol tornado deal choose memory";

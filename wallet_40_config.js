@@ -1,1 +1,1 @@
-var mnemonic = "kidney dizzy glory mesh dragon cloth disagree relief brand rent enrich flee";
+var mnemonic = "element twenty reduce label guilt soldier moon muffin gain supreme nest fee";

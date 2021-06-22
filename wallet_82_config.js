@@ -1,1 +1,1 @@
-var mnemonic = "pitch apology venture cluster problem typical patrol illness nut kiss token elbow";
+var mnemonic = "atom labor actress timber spell normal glue trial parade crack century exit";

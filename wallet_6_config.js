@@ -1,1 +1,1 @@
-var mnemonic = "menu grief upset wool together car room conduct beauty hen pioneer sentence";
+var mnemonic = "mistake domain liar vessel bind shift power hundred excess banner wear gossip";

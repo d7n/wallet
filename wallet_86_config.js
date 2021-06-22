@@ -1,1 +1,1 @@
-var mnemonic = "child network test fog eagle room impose title nominee mean float over";
+var mnemonic = "dragon reveal invest minor hollow lift famous maid math face purpose torch";

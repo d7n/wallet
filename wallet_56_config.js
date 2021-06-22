@@ -1,1 +1,1 @@
-var mnemonic = "awkward glory pair fiber silent emotion cricket harsh live leader amused marble";
+var mnemonic = "nose frozen pioneer click wedding motion fiscal scorpion kit leader include sweet";

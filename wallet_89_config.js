@@ -1,1 +1,1 @@
-var mnemonic = "joy glory purse multiply hour era cigar close affair entire nuclear habit";
+var mnemonic = "blue dial sport brother accuse invite adult about suggest decide border cheap";

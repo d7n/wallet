@@ -1,1 +1,1 @@
-var mnemonic = "mean grace banana major friend gather elegant sort leave nose fruit fox";
+var mnemonic = "excuse split imitate process label rival assist jar blame diamond pudding modify";

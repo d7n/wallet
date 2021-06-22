@@ -1,1 +1,1 @@
-var mnemonic = "nut squeeze tribe scale room recall coconut table embrace metal horn scrub";
+var mnemonic = "artist narrow park jump broccoli badge pen pioneer blue buyer penalty dial";

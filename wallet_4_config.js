@@ -1,1 +1,1 @@
-var mnemonic = "rally dust vicious gaze tag bacon gift regular goddess orphan chalk year";
+var mnemonic = "misery access vivid zebra rain present supply firm kit prefer north board";

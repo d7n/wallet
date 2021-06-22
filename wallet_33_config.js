@@ -1,1 +1,1 @@
-var mnemonic = "swallow gain apple movie draw bench sheriff manage moon bid chuckle pond";
+var mnemonic = "essay evidence flip coyote vicious atom myth weather item fiscal wide garment";

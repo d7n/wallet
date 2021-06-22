@@ -1,1 +1,1 @@
-var mnemonic = "kick demise delay december trial elite lobster naive couch patient cliff hybrid";
+var mnemonic = "shallow wrestle layer citizen magic rich floor half brand correct reform today";

@@ -1,1 +1,1 @@
-var mnemonic = "sketch aim stairs umbrella genuine have hunt genius olive object embark this";
+var mnemonic = "web mention mention siege legal visual thunder prosper lift style photo tenant";

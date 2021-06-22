@@ -1,1 +1,1 @@
-var mnemonic = "yard trouble gasp luxury diary aspect cactus orange length betray relax buddy";
+var mnemonic = "north bottom hover ocean page document domain joke chair elder hub garden";

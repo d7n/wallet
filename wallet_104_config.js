@@ -1,1 +1,1 @@
-var mnemonic = "length bridge floor utility siren ankle annual roast abuse bitter foster tell";
+var mnemonic = "dust denial cattle slot hold panda marriage panda license enroll cabin shallow";

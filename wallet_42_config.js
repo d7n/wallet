@@ -1,1 +1,1 @@
-var mnemonic = "sight despair dynamic point nuclear armed melody sunset bright also pigeon diesel";
+var mnemonic = "bone wood bring grass elite sustain pony gain say dial small guess";

@@ -1,1 +1,1 @@
-var mnemonic = "basket boy seminar joy match dutch appear purpose battle simple pupil palm";
+var mnemonic = "solar left curve around intact claw snap stable more ready awake cotton";

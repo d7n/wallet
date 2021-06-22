@@ -1,1 +1,1 @@
-var mnemonic = "elder refuse measure avocado evoke tool confirm portion steel little subject muscle";
+var mnemonic = "garlic wink crouch maple inside fortune actual affair demise labor slice stone";

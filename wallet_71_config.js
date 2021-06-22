@@ -1,1 +1,1 @@
-var mnemonic = "gown animal unknown thrive coral olive crop core fiscal more odor unfair";
+var mnemonic = "walk garden long staff visual license rhythm receive mean move vault mouse";

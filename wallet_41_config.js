@@ -1,1 +1,1 @@
-var mnemonic = "price logic hip option spare island horn kind frequent chief category result";
+var mnemonic = "mesh solar dawn immune elegant sand genuine inner double scheme muscle draw";

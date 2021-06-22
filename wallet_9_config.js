@@ -1,1 +1,1 @@
-var mnemonic = "picnic unaware suspect guitar ankle similar sea dolphin truly device friend marine";
+var mnemonic = "member report toe system deer blouse next bubble pet appear label penalty";

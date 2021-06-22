@@ -1,1 +1,1 @@
-var mnemonic = "damage receive trade agent debris wall upon amateur worth drift taste evolve";
+var mnemonic = "cry sponsor barrel output team giraffe news injury dial shed cement else";

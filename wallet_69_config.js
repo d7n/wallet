@@ -1,1 +1,1 @@
-var mnemonic = "alter pigeon ensure awake daring method soup december buzz local fork symbol";
+var mnemonic = "foster shrimp hard kingdom vote aisle only story become draft hybrid visual";

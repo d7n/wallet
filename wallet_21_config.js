@@ -1,1 +1,1 @@
-var mnemonic = "shield twist jump ritual effort hidden require weasel admit pyramid thought pole";
+var mnemonic = "monitor since viable screen tip afraid coffee since protect wagon live unknown";

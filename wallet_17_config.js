@@ -1,1 +1,1 @@
-var mnemonic = "scrub disagree text universe imitate domain poet grit public chest mule play";
+var mnemonic = "position pudding clock scatter asthma program talent use degree hurry dance mountain";

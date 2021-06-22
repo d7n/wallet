@@ -1,1 +1,1 @@
-var mnemonic = "purity tray spread whip name song search tissue blur can cat chalk";
+var mnemonic = "huge farm immense quality exist force hole vast achieve boss mammal hub";

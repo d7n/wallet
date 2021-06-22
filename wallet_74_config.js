@@ -1,1 +1,1 @@
-var mnemonic = "outdoor surround wagon cover surround visual banana drill release exchange cliff shine";
+var mnemonic = "spoil series horror discover news join promote juice conduct hawk yellow wheat";

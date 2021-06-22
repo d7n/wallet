@@ -1,1 +1,1 @@
-var mnemonic = "burden display goose all person salt narrow wheel flower inherit helmet puppy";
+var mnemonic = "reduce toe notable exercise viable faint exit fresh forum remove ticket crystal";

@@ -1,1 +1,1 @@
-var mnemonic = "rice almost pet sudden struggle retreat wrap away apology virus peanut wheat";
+var mnemonic = "egg rifle business february thank guard genius party crane day much shift";

@@ -1,1 +1,1 @@
-var mnemonic = "try honey barely shoulder despair common horse abstract sample crisp private achieve";
+var mnemonic = "gorilla cream spin measure sad cotton mystery reunion enough virtual custom wear";

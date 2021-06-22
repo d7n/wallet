@@ -1,1 +1,1 @@
-var mnemonic = "uniform impact resist oxygen derive before afraid cost hockey dose axis carbon";
+var mnemonic = "axis tag embrace ship riot blast mansion prevent guilt quiz later anger";

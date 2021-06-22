@@ -1,1 +1,1 @@
-var mnemonic = "extra knife attract tornado harvest ticket behind rib blouse odor hope ask";
+var mnemonic = "used law giggle network erupt amused then castle dragon supreme dinosaur journey";

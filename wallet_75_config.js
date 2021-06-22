@@ -1,1 +1,1 @@
-var mnemonic = "jacket hard where defense around cause across lunar confirm flush language surprise";
+var mnemonic = "stool squeeze mimic emerge rotate volume monkey valley cause rate sniff fitness";

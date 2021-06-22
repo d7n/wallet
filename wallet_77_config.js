@@ -1,1 +1,1 @@
-var mnemonic = "exist crash error sand buddy round strong vacant kind sense leader prefer";
+var mnemonic = "clutch fly blossom wreck connect build assist actual royal blur boring theme";

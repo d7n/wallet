@@ -1,1 +1,1 @@
-var mnemonic = "delay awake use barrel share excess art candy denial ski lyrics type";
+var mnemonic = "ozone gorilla person nest gasp nothing short destroy lobster spoon ceiling food";

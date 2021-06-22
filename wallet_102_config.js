@@ -1,1 +1,1 @@
-var mnemonic = "woman cover crouch current neck aim neutral produce jewel anger survey calm";
+var mnemonic = "fruit spoil squirrel mammal owner sustain blood magnet dinner spoil pair path";

@@ -1,1 +1,1 @@
-var mnemonic = "begin rubber youth dutch slice choose used decline tuition pride acquire tragic";
+var mnemonic = "dinosaur bacon inquiry slim when fruit follow since again blouse town spread";

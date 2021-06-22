@@ -1,1 +1,1 @@
-var mnemonic = "deliver canyon about genre boil catalog salad repair convince cigar daughter pottery";
+var mnemonic = "army matrix spin exercise pill river seat picnic trade surprise chat file";

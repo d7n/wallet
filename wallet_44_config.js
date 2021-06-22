@@ -1,1 +1,1 @@
-var mnemonic = "base width pipe maid identify window sauce fatal end index disagree jump";
+var mnemonic = "human man parent vessel swing swift height inflict purpose dove fire blame";

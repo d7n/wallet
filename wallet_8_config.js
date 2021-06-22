@@ -1,1 +1,1 @@
-var mnemonic = "hour noble slush film resist addict poem waste planet sting always receive";
+var mnemonic = "laptop tissue glass symbol cliff length way taste mosquito mask diagram predict";

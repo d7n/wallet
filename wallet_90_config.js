@@ -1,1 +1,1 @@
-var mnemonic = "width system shell region scatter immense gun wear busy panic involve few";
+var mnemonic = "toy treat stadium network best rookie tiny glimpse drill car volcano coffee";

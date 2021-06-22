@@ -1,1 +1,1 @@
-var mnemonic = "lend wall marble cabbage segment tree mutual verb doll palm father sibling";
+var mnemonic = "wash suffer price harsh lounge bacon script coconut stumble salt recycle crack";

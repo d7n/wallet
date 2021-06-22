@@ -1,1 +1,1 @@
-var mnemonic = "ethics curious kitchen depart special husband position piano auto music apology brief";
+var mnemonic = "ice police height step notice scout dawn salt flame shield fish monkey";

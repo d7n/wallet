@@ -1,1 +1,1 @@
-var mnemonic = "awful mystery awful leisure top door sport alcohol level slender detail first";
+var mnemonic = "tank link couch glow adapt oil swamp property grab random orange embrace";

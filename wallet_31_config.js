@@ -1,1 +1,1 @@
-var mnemonic = "goat small ten check charge round seek liquid dilemma recall story narrow";
+var mnemonic = "soft fine trouble turn twin salad useful enjoy sunset female mesh nothing";

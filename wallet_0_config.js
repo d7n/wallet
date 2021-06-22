@@ -1,1 +1,1 @@
-var mnemonic = "glad timber knee yard write remind relief girl churn quick almost foster";
+var mnemonic = "hurry chronic pudding scout fit animal ozone style whisper skill keen system";

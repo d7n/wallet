@@ -1,1 +1,1 @@
-var mnemonic = "slim concert bounce barely whale bring yard butter bachelor credit thumb tower";
+var mnemonic = "negative mom jewel achieve outdoor carry law public sail whip art indoor";

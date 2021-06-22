@@ -1,1 +1,1 @@
-var mnemonic = "ostrich renew never mesh dad flee unique run stage awesome produce split";
+var mnemonic = "green ivory trend boss flat already rally hire glide despair bachelor trial";

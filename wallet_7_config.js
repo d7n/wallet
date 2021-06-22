@@ -1,1 +1,1 @@
-var mnemonic = "resource kit alert silk gossip curve about inside meadow stone neglect blouse";
+var mnemonic = "large valve burden glory tube also shoe siren beyond ill knee manual";

@@ -1,1 +1,1 @@
-var mnemonic = "evil artefact direct connect end hour return grief legend dune select mammal";
+var mnemonic = "void page surface lobster drop brief harbor road trip gallery salad farm";

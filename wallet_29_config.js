@@ -1,1 +1,1 @@
-var mnemonic = "post home casual inspire noise bleak nice south organ shaft ensure gravity";
+var mnemonic = "behind depart unaware melody phrase silk fashion region great hamster mirror prepare";

@@ -1,1 +1,1 @@
-var mnemonic = "vocal stumble essay rough bring pet pattern appear donate crash stuff garden";
+var mnemonic = "aisle shove right height blind family pretty warm brown board payment verify";

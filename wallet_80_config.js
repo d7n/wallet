@@ -1,1 +1,1 @@
-var mnemonic = "race depart fatigue recipe weapon weapon apart tone index hotel upgrade april";
+var mnemonic = "icon shuffle party caught trim lecture myth foam beyond blossom fish syrup";

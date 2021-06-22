@@ -1,1 +1,1 @@
-var mnemonic = "banner fury birth school dinner mobile state intact industry discover fun drum";
+var mnemonic = "make coach unveil slice spread oil door close drill party noble slogan";

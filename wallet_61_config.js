@@ -1,1 +1,1 @@
-var mnemonic = "ankle uniform patch grain birth mule gesture donate entire aisle ancient leader";
+var mnemonic = "trouble blouse blur drum across sight sample copy push pony matrix miracle";

@@ -1,1 +1,1 @@
-var mnemonic = "tip stable excuse hundred mansion canyon business arrow chest steak again trip";
+var mnemonic = "fault trust shed next fatal tornado include road float cannon enrich fatal";

@@ -1,1 +1,1 @@
-var mnemonic = "couple coil champion rocket away mother behave skate sniff amateur gauge enroll";
+var mnemonic = "public liberty master segment scale absurd proof leopard sun cushion fame shoot";

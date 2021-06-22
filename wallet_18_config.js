@@ -1,1 +1,1 @@
-var mnemonic = "oven inch vendor myself air evidence shock belt please web crisp pitch";
+var mnemonic = "door century else average tiny alien worry guide verb benefit conduct employ";

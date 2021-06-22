@@ -1,1 +1,1 @@
-var mnemonic = "dial simple learn faculty main faith cherry plate volume replace language bitter";
+var mnemonic = "infant hamster clerk zebra group engage lunar street much caught fun split";

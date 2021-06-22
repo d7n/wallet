@@ -1,1 +1,1 @@
-var mnemonic = "immune claw enemy lens project canal conduct panel bring robot rabbit replace";
+var mnemonic = "alien usual limb flush girl faculty wrong gift refuse melody effort attract";

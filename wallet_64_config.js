@@ -1,1 +1,1 @@
-var mnemonic = "venue jaguar zebra mountain road carbon body uniform valve offer laundry luxury";
+var mnemonic = "pitch damp pigeon happy cupboard unveil bounce seven enjoy expand crowd loyal";

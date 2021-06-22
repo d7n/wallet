@@ -1,1 +1,1 @@
-var mnemonic = "lazy actual side drum correct recipe volcano dizzy power accuse burst chronic";
+var mnemonic = "economy seat sustain maximum explain stomach coach injury comic latin hazard perfect";

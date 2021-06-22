@@ -1,1 +1,1 @@
-var mnemonic = "distance wagon job hazard winter library side leaf device right rifle omit";
+var mnemonic = "kid discover spend sting favorite school ready inside danger three hundred pride";

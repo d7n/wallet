@@ -1,1 +1,1 @@
-var mnemonic = "supreme fade industry youth second alarm census hint produce gallery tell wolf";
+var mnemonic = "weasel spread conduct arrange surge donate chaos cycle scout artist cream carbon";

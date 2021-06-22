@@ -1,1 +1,1 @@
-var mnemonic = "decrease diamond crumble volcano gift gap model grief zoo rival forum luggage";
+var mnemonic = "drive rescue animal luxury settle mountain balance tobacco angry satisfy food mouse";

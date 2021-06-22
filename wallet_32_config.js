@@ -1,1 +1,1 @@
-var mnemonic = "marine replace crane tiger pottery health collect clean ten that vintage dragon";
+var mnemonic = "truly melt believe camp spike bulk subway laptop neutral electric prize first";

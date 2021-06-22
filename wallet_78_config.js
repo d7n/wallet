@@ -1,1 +1,1 @@
-var mnemonic = "enlist inform spend vehicle future crumble control pulp finger coyote hope bike";
+var mnemonic = "outer february soap warfare source wrist display stem remove august garbage sausage";

@@ -1,1 +1,1 @@
-var mnemonic = "valve refuse need inside december shiver replace inmate industry logic tuna tunnel";
+var mnemonic = "bless exhaust announce object tide local fatal large juice day kick shop";

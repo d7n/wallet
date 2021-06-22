@@ -1,1 +1,1 @@
-var mnemonic = "vote impact borrow slow elite skill company else million next buddy ocean";
+var mnemonic = "pencil shrimp crisp bounce kid arm reduce method chest distance blouse clutch";

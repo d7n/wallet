@@ -1,1 +1,1 @@
-var mnemonic = "wealth this moral actor high fancy bless galaxy crime egg lyrics unique";
+var mnemonic = "ocean mutual party judge horn depend arm idea scene same spawn ostrich";

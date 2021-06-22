@@ -1,1 +1,1 @@
-var mnemonic = "betray arrive desert nose crunch honey wear valid tribe aim wonder spider";
+var mnemonic = "host flavor edit forum track key tube purity doctor mistake wear jacket";
