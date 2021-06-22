@@ -1,1 +1,1 @@
-var mnemonic = "wine scissors test alert top neither civil kangaroo cattle artist mimic sick";
+var mnemonic = "cart ivory double spice object similar parade private chronic inherit trick leaf";

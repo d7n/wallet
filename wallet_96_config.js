@@ -1,1 +1,1 @@
-var mnemonic = "garlic wink crouch maple inside fortune actual affair demise labor slice stone";
+var mnemonic = "beach crucial umbrella frog confirm stereo roast dilemma forest room online metal";

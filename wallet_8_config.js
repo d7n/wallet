@@ -1,1 +1,1 @@
-var mnemonic = "laptop tissue glass symbol cliff length way taste mosquito mask diagram predict";
+var mnemonic = "harbor race thrive glide cash jump offer garbage canyon unit sort female";

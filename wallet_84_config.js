@@ -1,1 +1,1 @@
-var mnemonic = "shoulder mushroom ramp melody sniff wash identify artefact current bench observe rough";
+var mnemonic = "federal advance weather like year choice tool diary image merry paper rigid";

@@ -1,1 +1,1 @@
-var mnemonic = "monkey festival remove concert raise stage taxi motion great gesture bullet spatial";
+var mnemonic = "crouch axis jungle earn brave announce fabric illness fiction scale aunt enemy";

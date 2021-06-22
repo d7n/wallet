@@ -1,1 +1,1 @@
-var mnemonic = "crop junior tragic boost essence badge wheat size slam upper jeans toward";
+var mnemonic = "soft color wash cancel bind parrot comfort ripple road undo robust silk";

@@ -1,1 +1,1 @@
-var mnemonic = "stool squeeze mimic emerge rotate volume monkey valley cause rate sniff fitness";
+var mnemonic = "diet video bench extra dumb crisp universe couple fold van battle era";

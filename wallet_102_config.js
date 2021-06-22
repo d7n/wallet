@@ -1,1 +1,1 @@
-var mnemonic = "fruit spoil squirrel mammal owner sustain blood magnet dinner spoil pair path";
+var mnemonic = "egg duty false cute piano upset envelope champion average copper toilet want";

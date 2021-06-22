@@ -1,1 +1,1 @@
-var mnemonic = "state chase oak combine deer obscure impact stand equip wine vote depth";
+var mnemonic = "loyal team foam lumber today lyrics foam pluck hard dish february busy";

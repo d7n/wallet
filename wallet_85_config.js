@@ -1,1 +1,1 @@
-var mnemonic = "brain chest happy predict detail file bar supply script rich soccer load";
+var mnemonic = "assault absurd ecology jazz essence above clog abuse clog tomorrow wet prevent";

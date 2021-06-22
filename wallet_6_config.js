@@ -1,1 +1,1 @@
-var mnemonic = "mistake domain liar vessel bind shift power hundred excess banner wear gossip";
+var mnemonic = "motion toe easy shoot tortoise mom globe child bread mercy position cross";

@@ -1,1 +1,1 @@
-var mnemonic = "blind segment extend phone sugar barely man couch gap horror witness hungry";
+var mnemonic = "chair hundred before eyebrow rapid advice city height mean early pool marriage";

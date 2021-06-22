@@ -1,1 +1,1 @@
-var mnemonic = "explain purpose mask around flee link outer coconut uphold nice face hollow";
+var mnemonic = "drill december snack reflect raccoon lounge swift broom drip symptom despair hour";

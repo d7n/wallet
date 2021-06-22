@@ -1,1 +1,1 @@
-var mnemonic = "huge farm immense quality exist force hole vast achieve boss mammal hub";
+var mnemonic = "alarm place twenty capable electric recipe blast absent law rail sustain service";

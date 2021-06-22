@@ -1,1 +1,1 @@
-var mnemonic = "suit sell detail sustain hamster claim where valve sheriff raise sentence suspect";
+var mnemonic = "audit group sweet crazy shell render safe dress code security prevent vital";

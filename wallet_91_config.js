@@ -1,1 +1,1 @@
-var mnemonic = "kid discover spend sting favorite school ready inside danger three hundred pride";
+var mnemonic = "breeze shed ability wing predict claim vintage monkey glance broken dragon sustain";

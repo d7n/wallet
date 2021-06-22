@@ -1,1 +1,1 @@
-var mnemonic = "eagle crouch flame antenna load layer chaos resemble upgrade tuna sound once";
+var mnemonic = "rather priority radar sentence spin coil barrel love unable eyebrow hobby barrel";

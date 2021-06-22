@@ -1,1 +1,1 @@
-var mnemonic = "flash laugh require accident lyrics shy brass snow super kiss fatal race";
+var mnemonic = "final giraffe dumb bargain fork media shallow edge gold weekend pause rent";

@@ -1,1 +1,1 @@
-var mnemonic = "egg rifle business february thank guard genius party crane day much shift";
+var mnemonic = "captain picnic aim cup sheriff risk all myth whisper roof pulse deer";

@@ -1,1 +1,1 @@
-var mnemonic = "large valve burden glory tube also shoe siren beyond ill knee manual";
+var mnemonic = "update online novel matter fringe palace kangaroo inside siren replace spy mobile";

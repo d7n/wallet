@@ -1,1 +1,1 @@
-var mnemonic = "clutch fly blossom wreck connect build assist actual royal blur boring theme";
+var mnemonic = "claim modify warfare sausage paper sea auction protect shy lesson sting major";

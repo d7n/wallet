@@ -1,1 +1,1 @@
-var mnemonic = "ramp accident blush save merit wrist hungry primary metal spider marine list";
+var mnemonic = "misery peanut equal great quiz buzz mix hip please angle joy swamp";

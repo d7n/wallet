@@ -1,1 +1,1 @@
-var mnemonic = "alien usual limb flush girl faculty wrong gift refuse melody effort attract";
+var mnemonic = "length draft shiver pelican horn kind oven able divert adult gap kingdom";

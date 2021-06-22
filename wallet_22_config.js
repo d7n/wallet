@@ -1,1 +1,1 @@
-var mnemonic = "old shop step dinner crush blast father example vague pioneer toe flower";
+var mnemonic = "virus airport double runway hazard reunion pen display save orbit august link";

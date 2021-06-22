@@ -1,1 +1,1 @@
-var mnemonic = "cheese soap believe sun edge avocado absurd mother series shallow sudden pole";
+var mnemonic = "okay load myself museum prefer print awake effort truck sugar basket mansion";

@@ -1,1 +1,1 @@
-var mnemonic = "ozone gorilla person nest gasp nothing short destroy lobster spoon ceiling food";
+var mnemonic = "pony ordinary utility apple farm lab square enjoy energy organ wise visit";

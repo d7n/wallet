@@ -1,1 +1,1 @@
-var mnemonic = "web mention mention siege legal visual thunder prosper lift style photo tenant";
+var mnemonic = "federal forest toe strike glory churn coil staff creek movie extra move";

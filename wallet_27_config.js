@@ -1,1 +1,1 @@
-var mnemonic = "ugly talent soap entire between clump protect valid fine observe track orphan";
+var mnemonic = "paper defense blush fee traffic spatial steak bread observe today dial general";

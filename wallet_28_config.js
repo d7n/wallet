@@ -1,1 +1,1 @@
-var mnemonic = "infant hamster clerk zebra group engage lunar street much caught fun split";
+var mnemonic = "unknown device soda lobster coast address real coach cinnamon reduce boost body";

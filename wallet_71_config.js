@@ -1,1 +1,1 @@
-var mnemonic = "walk garden long staff visual license rhythm receive mean move vault mouse";
+var mnemonic = "topic grant wheat dove huge social better hidden throw drill exile suggest";

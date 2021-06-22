@@ -1,1 +1,1 @@
-var mnemonic = "foster shrimp hard kingdom vote aisle only story become draft hybrid visual";
+var mnemonic = "girl upset boil tumble resource embark diesel shrug donate run token toe";

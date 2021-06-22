@@ -1,1 +1,1 @@
-var mnemonic = "make coach unveil slice spread oil door close drill party noble slogan";
+var mnemonic = "unlock impulse rally student prosper chat armor stuff observe finish resource afford";

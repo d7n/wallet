@@ -1,1 +1,1 @@
-var mnemonic = "pupil thought kite connect behave person fox pave have bright lesson balcony";
+var mnemonic = "tail list boost sock key belt start army nasty siren latin miracle";

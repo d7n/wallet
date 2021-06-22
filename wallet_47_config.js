@@ -1,1 +1,1 @@
-var mnemonic = "cry sponsor barrel output team giraffe news injury dial shed cement else";
+var mnemonic = "document state unknown gift stock oil arena wrap helmet trophy enrich caution";

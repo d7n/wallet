@@ -1,1 +1,1 @@
-var mnemonic = "attend must rubber discover they world infant six friend liar error close";
+var mnemonic = "feel someone chimney brisk reform protect loyal actor turn clog risk maple";

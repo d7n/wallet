@@ -1,1 +1,1 @@
-var mnemonic = "outer february soap warfare source wrist display stem remove august garbage sausage";
+var mnemonic = "picnic extend pact cat beach senior trash axis visa diary merge bubble";

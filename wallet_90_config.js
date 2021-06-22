@@ -1,1 +1,1 @@
-var mnemonic = "toy treat stadium network best rookie tiny glimpse drill car volcano coffee";
+var mnemonic = "option burden matrix credit eight need addict pony waste fade total page";

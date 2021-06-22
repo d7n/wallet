@@ -1,1 +1,1 @@
-var mnemonic = "police rescue proud tell undo top turkey inquiry unit area fit must";
+var mnemonic = "jacket merry thrive butter coin cube chair amateur divide dizzy metal crunch";

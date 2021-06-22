@@ -1,1 +1,1 @@
-var mnemonic = "blue dial sport brother accuse invite adult about suggest decide border cheap";
+var mnemonic = "crew world lawsuit green oven debate burst often flag detail pass gas";

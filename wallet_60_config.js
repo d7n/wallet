@@ -1,1 +1,1 @@
-var mnemonic = "fault trust shed next fatal tornado include road float cannon enrich fatal";
+var mnemonic = "donate loan yellow erase effort list tribe crucial bind million eager trick";

@@ -1,1 +1,1 @@
-var mnemonic = "human man parent vessel swing swift height inflict purpose dove fire blame";
+var mnemonic = "eye chalk patch lens torch bring fork circle video mammal broom juice";

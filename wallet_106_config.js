@@ -1,1 +1,1 @@
-var mnemonic = "tank link couch glow adapt oil swamp property grab random orange embrace";
+var mnemonic = "oval tag pottery logic sick host doll hobby foam elbow stable flip";

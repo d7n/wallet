@@ -1,1 +1,1 @@
-var mnemonic = "dragon reveal invest minor hollow lift famous maid math face purpose torch";
+var mnemonic = "butter lady dignity poet width south inner nurse eyebrow often famous attack";

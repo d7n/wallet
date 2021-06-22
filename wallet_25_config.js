@@ -1,1 +1,1 @@
-var mnemonic = "used law giggle network erupt amused then castle dragon supreme dinosaur journey";
+var mnemonic = "crumble blossom leave clever voice marble normal axis shield worth cat vocal";

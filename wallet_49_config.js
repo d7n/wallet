@@ -1,1 +1,1 @@
-var mnemonic = "soup sentence pass novel lizard lion loyal liar message hockey thought brick";
+var mnemonic = "frame latin bulb inch broken long bargain vivid bomb race praise medal";

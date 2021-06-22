@@ -1,1 +1,1 @@
-var mnemonic = "excuse split imitate process label rival assist jar blame diamond pudding modify";
+var mnemonic = "sun bubble sing build vibrant profit race exact ozone evil tag frost";

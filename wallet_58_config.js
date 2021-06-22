@@ -1,1 +1,1 @@
-var mnemonic = "elbow grid wheel fruit vivid now require ramp tape medal space pattern";
+var mnemonic = "avocado nature oil suffer actor wink nice loan mosquito fox meadow diamond";

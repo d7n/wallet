@@ -1,1 +1,1 @@
-var mnemonic = "nose frozen pioneer click wedding motion fiscal scorpion kit leader include sweet";
+var mnemonic = "film dog bleak prosper inquiry void nest lesson lizard drink another feed";

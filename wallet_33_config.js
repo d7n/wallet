@@ -1,1 +1,1 @@
-var mnemonic = "essay evidence flip coyote vicious atom myth weather item fiscal wide garment";
+var mnemonic = "leisure sample index grow fine present glance fashion buddy brown genre quality";

@@ -1,1 +1,1 @@
-var mnemonic = "foam rookie whale famous valid pioneer melt swift service text bunker dad";
+var mnemonic = "evolve bounce web afford end kite typical say taxi rib able tuition";

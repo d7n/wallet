@@ -1,1 +1,1 @@
-var mnemonic = "gorilla cream spin measure sad cotton mystery reunion enough virtual custom wear";
+var mnemonic = "subject arctic wrist deal fault priority riot mix cupboard reopen waste naive";

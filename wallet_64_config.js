@@ -1,1 +1,1 @@
-var mnemonic = "pitch damp pigeon happy cupboard unveil bounce seven enjoy expand crowd loyal";
+var mnemonic = "carry census guilt open lecture stuff burden wrap avoid minor exact defy";

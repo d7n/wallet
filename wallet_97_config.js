@@ -1,1 +1,1 @@
-var mnemonic = "supreme bag tuition fire moral wrong nuclear pistol tornado deal choose memory";
+var mnemonic = "dizzy fame patrol jelly number screen much hood tag repair hole beach";

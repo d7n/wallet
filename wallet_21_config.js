@@ -1,1 +1,1 @@
-var mnemonic = "monitor since viable screen tip afraid coffee since protect wagon live unknown";
+var mnemonic = "reform snap draft bulk dynamic build join slab stay belt toe top";

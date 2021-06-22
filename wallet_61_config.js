@@ -1,1 +1,1 @@
-var mnemonic = "trouble blouse blur drum across sight sample copy push pony matrix miracle";
+var mnemonic = "grant drop fault educate scout scissors prison empower emotion inject despair anchor";

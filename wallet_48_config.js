@@ -1,1 +1,1 @@
-var mnemonic = "try flag boat wrap chair artefact prize diet yellow fossil talk leopard";
+var mnemonic = "common until soda valid hawk now muffin bench hobby there plate slide";

@@ -1,1 +1,1 @@
-var mnemonic = "cushion garage palace salad sudden produce wife castle buffalo glare burst banner";
+var mnemonic = "diary keen athlete pattern rally client river damp entire pride dinner fever";

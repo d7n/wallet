@@ -1,1 +1,1 @@
-var mnemonic = "pencil shrimp crisp bounce kid arm reduce method chest distance blouse clutch";
+var mnemonic = "phone require lawsuit found uniform accuse elegant auction exercise shift blast space";

@@ -1,1 +1,1 @@
-var mnemonic = "pulp often glare spice occur attend flower lemon host afford cat film";
+var mnemonic = "they wonder stem swamp fiction train upper throw pattern episode slush sadness";

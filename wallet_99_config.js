@@ -1,1 +1,1 @@
-var mnemonic = "army matrix spin exercise pill river seat picnic trade surprise chat file";
+var mnemonic = "case menu alpha hotel novel modify six employ upgrade shock lend inflict";

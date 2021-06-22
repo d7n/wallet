@@ -1,1 +1,1 @@
-var mnemonic = "reduce toe notable exercise viable faint exit fresh forum remove ticket crystal";
+var mnemonic = "confirm lock beef frequent real peace air science tower neck kiss novel";

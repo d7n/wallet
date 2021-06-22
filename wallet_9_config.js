@@ -1,1 +1,1 @@
-var mnemonic = "member report toe system deer blouse next bubble pet appear label penalty";
+var mnemonic = "sausage cart tenant wise endless possible video scorpion razor head work inmate";

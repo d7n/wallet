@@ -1,1 +1,1 @@
-var mnemonic = "host flavor edit forum track key tube purity doctor mistake wear jacket";
+var mnemonic = "brisk brother curtain tower orange excite glass dinner decide tiny solve ahead";

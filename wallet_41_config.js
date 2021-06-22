@@ -1,1 +1,1 @@
-var mnemonic = "mesh solar dawn immune elegant sand genuine inner double scheme muscle draw";
+var mnemonic = "fury biology also multiply crowd elite honey short memory skill outer dial";

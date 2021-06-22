@@ -1,1 +1,1 @@
-var mnemonic = "kiss gloom marine silk kiss card urge float breeze project pass language";
+var mnemonic = "peasant audit spatial decorate flash one mouse put brother nominee spatial option";

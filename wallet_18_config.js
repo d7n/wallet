@@ -1,1 +1,1 @@
-var mnemonic = "door century else average tiny alien worry guide verb benefit conduct employ";
+var mnemonic = "boring effort column example attract guilt ski spray illness food kangaroo tortoise";

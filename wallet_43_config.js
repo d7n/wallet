@@ -1,1 +1,1 @@
-var mnemonic = "wash suffer price harsh lounge bacon script coconut stumble salt recycle crack";
+var mnemonic = "vast limit sand syrup wheel spring mimic impact lab faith scissors then";

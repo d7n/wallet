@@ -1,1 +1,1 @@
-var mnemonic = "behind depart unaware melody phrase silk fashion region great hamster mirror prepare";
+var mnemonic = "scout true garlic call script coil hedgehog lesson snack tape other once";

@@ -1,1 +1,1 @@
-var mnemonic = "innocent idea poet woman cram disease addict emotion belt update april profit";
+var mnemonic = "donor blue sun spoon antenna tuition soda meat winter stairs trouble title";

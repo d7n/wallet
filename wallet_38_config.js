@@ -1,1 +1,1 @@
-var mnemonic = "solar left curve around intact claw snap stable more ready awake cotton";
+var mnemonic = "waste summer frog method slight raise hamster episode summer badge pulse thank";

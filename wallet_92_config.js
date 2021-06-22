@@ -1,1 +1,1 @@
-var mnemonic = "hero ice year promote assist crush today error possible cupboard toe grass";
+var mnemonic = "treat slender term flush december luxury cupboard giggle soon empty patrol million";

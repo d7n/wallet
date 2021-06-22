@@ -1,1 +1,1 @@
-var mnemonic = "atom labor actress timber spell normal glue trial parade crack century exit";
+var mnemonic = "rare echo observe body wire judge upgrade lamp orchard mention hour metal";

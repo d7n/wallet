@@ -1,1 +1,1 @@
-var mnemonic = "ice police height step notice scout dawn salt flame shield fish monkey";
+var mnemonic = "found increase alpha prosper pottery joke alone core gossip confirm lady wire";

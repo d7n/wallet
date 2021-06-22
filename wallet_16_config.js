@@ -1,1 +1,1 @@
-var mnemonic = "impact eye gain reduce cannon outside aspect balance large scale hawk diamond";
+var mnemonic = "pilot phone soon infant garbage globe wide remember wife oblige asset empower";

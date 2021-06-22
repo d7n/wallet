@@ -1,1 +1,1 @@
-var mnemonic = "weasel spread conduct arrange surge donate chaos cycle scout artist cream carbon";
+var mnemonic = "genius original someone they actress nothing love nominee property secret humor nature";

@@ -1,1 +1,1 @@
-var mnemonic = "element twenty reduce label guilt soldier moon muffin gain supreme nest fee";
+var mnemonic = "staff target candy visual scatter ladder police pill barrel know wheel syrup";

@@ -1,1 +1,1 @@
-var mnemonic = "pattern barrel behave early lock fiction caught crack disagree owner rhythm grace";
+var mnemonic = "captain sheriff deny iron head lucky stable present author soon sting brave";

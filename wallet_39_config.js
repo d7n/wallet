@@ -1,1 +1,1 @@
-var mnemonic = "artist narrow park jump broccoli badge pen pioneer blue buyer penalty dial";
+var mnemonic = "host then update vanish knock execute wolf wasp lobster attack crater wine";

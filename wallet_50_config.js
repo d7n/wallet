@@ -1,1 +1,1 @@
-var mnemonic = "front they tank gown bulk reflect honey lounge unfair add rude number";
+var mnemonic = "muffin once latin unfair panther warfare suggest crack angle monster potato sustain";

@@ -1,1 +1,1 @@
-var mnemonic = "ocean mutual party judge horn depend arm idea scene same spawn ostrich";
+var mnemonic = "proud train mesh original faith immune crack label start property brief lobster";

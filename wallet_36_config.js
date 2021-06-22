@@ -1,1 +1,1 @@
-var mnemonic = "axis tag embrace ship riot blast mansion prevent guilt quiz later anger";
+var mnemonic = "sport fashion fence flag reward various tail soldier mechanic turn step sight";

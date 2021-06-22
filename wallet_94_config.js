@@ -1,1 +1,1 @@
-var mnemonic = "example cradle lab infant club above other own lamp tackle room mosquito";
+var mnemonic = "adjust keep admit south coin whisper alley engage twice spawn question glove";

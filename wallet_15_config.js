@@ -1,1 +1,1 @@
-var mnemonic = "ridge gloom useful pitch ability figure fine old tone forget slim safe";
+var mnemonic = "million age jewel winner hamster grace ridge base expire bottom valid file";

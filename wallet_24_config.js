@@ -1,1 +1,1 @@
-var mnemonic = "list session auction shed hurt light mesh depend flame easily poet tooth";
+var mnemonic = "bridge nice imitate control range document random tray country abstract month creek";
