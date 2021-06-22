@@ -1,1 +1,1 @@
-var mnemonic = "maximum keen primary wear adjust video remove capable patch umbrella account tired";
+var mnemonic = "engine wagon lizard avoid juice side trade mother caught high innocent olive";

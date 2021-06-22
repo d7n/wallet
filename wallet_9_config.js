@@ -1,1 +1,1 @@
-var mnemonic = "gauge win episode advance company dice mutual catalog arrive want market material";
+var mnemonic = "square vehicle supply trouble live robot muscle turtle sign way search where";

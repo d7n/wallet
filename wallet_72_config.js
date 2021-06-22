@@ -1,1 +1,1 @@
-var mnemonic = "belt fluid tornado borrow two sauce salmon month conduct choose inspire wire";
+var mnemonic = "float accident collect rally riot zero corn movie total naive federal time";

@@ -1,1 +1,1 @@
-var mnemonic = "carbon first require powder lonely sea friend noise legal forget size roast";
+var mnemonic = "rescue there material dream clean inject hollow easily capable salad final feed";

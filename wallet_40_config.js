@@ -1,1 +1,1 @@
-var mnemonic = "depth job high puppy conduct unhappy satisfy buddy erupt punch kid can";
+var mnemonic = "friend split knife cousin cash soul flash finger giggle demise express tube";

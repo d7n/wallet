@@ -1,1 +1,1 @@
-var mnemonic = "blame police clay solve mixture twice staff ostrich scorpion seven jacket mansion";
+var mnemonic = "economy into small trust hover tunnel manual bracket warrior spot guide entire";

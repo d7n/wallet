@@ -1,1 +1,1 @@
-var mnemonic = "diet glue square keen globe grow toss dust cotton almost sibling reason";
+var mnemonic = "trigger grain yard turkey core unveil defense argue daughter return shine fiscal";

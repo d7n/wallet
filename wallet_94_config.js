@@ -1,1 +1,1 @@
-var mnemonic = "infant shrug chest buzz shop device negative raccoon arch over borrow vendor";
+var mnemonic = "oyster file ripple until net oak seed wear short siege cat saddle";

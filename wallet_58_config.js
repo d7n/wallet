@@ -1,1 +1,1 @@
-var mnemonic = "drop cube sure business hat mouse jaguar pen normal potato quarter room";
+var mnemonic = "aerobic universe club disease wire gun movie team sick dinosaur cycle traffic";

@@ -1,1 +1,1 @@
-var mnemonic = "wagon siren glory earn world write hamster arctic thought seven grit enroll";
+var mnemonic = "camp venture width brain decide region vital latin hurdle timber kit misery";

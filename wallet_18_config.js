@@ -1,1 +1,1 @@
-var mnemonic = "reason suffer key return damp neither kind stomach proof south feature olive";
+var mnemonic = "sorry evoke nasty milk marriage shaft chase elevator maximum coil label decide";

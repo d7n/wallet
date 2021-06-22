@@ -1,1 +1,1 @@
-var mnemonic = "hunt argue print talk rifle never install punch clip concert senior alpha";
+var mnemonic = "abstract arena air design story dynamic cupboard crush brain sock crunch correct";

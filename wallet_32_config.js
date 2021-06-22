@@ -1,1 +1,1 @@
-var mnemonic = "turtle found expose various require despair history action frown collect afford hurry";
+var mnemonic = "pledge scorpion glove leg amount under limb shadow field main rubber fame";

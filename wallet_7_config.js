@@ -1,1 +1,1 @@
-var mnemonic = "saddle there toilet similar develop grab faculty general speak myself rude forest";
+var mnemonic = "scatter glimpse spend steak comic gesture receive rebel check soup wrestle current";

@@ -1,1 +1,1 @@
-var mnemonic = "anchor olympic poem trim outside truck oil scheme month cigar globe agent";
+var mnemonic = "gym ginger unit receive dog word whisper toss vacant wheat slush nest";

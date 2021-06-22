@@ -1,1 +1,1 @@
-var mnemonic = "supreme fury robust year alone game plastic crystal news wave owner thank";
+var mnemonic = "escape obtain body session action coral romance exercise gift priority until message";

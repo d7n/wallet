@@ -1,1 +1,1 @@
-var mnemonic = "state foster prevent company essence congress chase judge vicious digital clump produce";
+var mnemonic = "space decade morning aerobic replace spy foster guess void have share just";

@@ -1,1 +1,1 @@
-var mnemonic = "aspect blanket abandon school shuffle bridge sleep excess rich foam floor air";
+var mnemonic = "ribbon excite flame exact rotate can season cattle future organ erosion powder";

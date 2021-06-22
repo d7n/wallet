@@ -1,1 +1,1 @@
-var mnemonic = "chat advice begin excess capital cupboard figure truck exit alter fetch cargo";
+var mnemonic = "chaos develop assist loan future damage theme slim convince wasp gas squeeze";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi kind galaxy clip wine sea inspire promote ethics select arrive canyon";
+var mnemonic = "mandate receive crack smile slice educate spray find insect benefit float tank";

@@ -1,1 +1,1 @@
-var mnemonic = "become riot upper boring picture net recycle brother apart exact hen quiz";
+var mnemonic = "dragon sniff muscle tool galaxy life phrase spread void across subject never";

@@ -1,1 +1,1 @@
-var mnemonic = "helmet cotton athlete term list attitude tiger fish anxiety midnight human nation";
+var mnemonic = "slide direct merit art board soldier turn trend gentle fetch report size";

@@ -1,1 +1,1 @@
-var mnemonic = "destroy foil desk crime prepare ecology twin team genuine cat include boy";
+var mnemonic = "detect drama banana cinnamon appear globe knock loyal off property demand sign";

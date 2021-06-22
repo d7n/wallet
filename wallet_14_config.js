@@ -1,1 +1,1 @@
-var mnemonic = "also grief system resource model toy shoulder list vague tag skull sound";
+var mnemonic = "uncle vintage kid faith survey sight found genius fitness vague toward tackle";

@@ -1,1 +1,1 @@
-var mnemonic = "limit fetch legend avoid fog under surprise lunch nation illness sword blame";
+var mnemonic = "tumble indicate liar soap eager deliver intact shuffle brave park oven ostrich";

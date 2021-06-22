@@ -1,1 +1,1 @@
-var mnemonic = "soft autumn cup access army tower mystery hedgehog honey amused whip adjust";
+var mnemonic = "yard turn immense shiver bomb scatter light express circle interest almost verify";

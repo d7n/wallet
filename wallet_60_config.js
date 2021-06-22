@@ -1,1 +1,1 @@
-var mnemonic = "item soft they three upgrade fuel expand uncover layer marriage opinion bid";
+var mnemonic = "jaguar execute jeans little satoshi repair bonus chronic olive forest velvet island";

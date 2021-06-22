@@ -1,1 +1,1 @@
-var mnemonic = "embark medal noise crush priority win claw improve fox crystal federal estate";
+var mnemonic = "gauge endless reunion analyst paddle bounce orange neck tired record screen ranch";

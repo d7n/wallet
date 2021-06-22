@@ -1,1 +1,1 @@
-var mnemonic = "boring action coconut burst kitchen canoe swamp salad alone meat split hat";
+var mnemonic = "slush sausage deal card slight worry dash aisle special south wine above";

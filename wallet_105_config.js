@@ -1,1 +1,1 @@
-var mnemonic = "evidence broom leave speed rally fog gallery impact sick whale shiver electric";
+var mnemonic = "include reason skill ankle payment hover canal owner disease that lemon liar";

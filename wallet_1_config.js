@@ -1,1 +1,1 @@
-var mnemonic = "audit couch noise end unfold tackle dress dutch flame wool inflict unusual";
+var mnemonic = "secret margin upset book hobby dream mammal pink garlic warrior silk enhance";

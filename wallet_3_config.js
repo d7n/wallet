@@ -1,1 +1,1 @@
-var mnemonic = "dumb word hamster core clump lobster wine increase dirt upper excite casino";
+var mnemonic = "arrange wisdom shield mad tuition recipe twist check will tray captain napkin";

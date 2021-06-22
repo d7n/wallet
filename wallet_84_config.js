@@ -1,1 +1,1 @@
-var mnemonic = "magic zoo gadget tilt view correct damp increase spring cancel bone antique";
+var mnemonic = "upper goat story fold pelican whip health advice fortune blame genuine scorpion";

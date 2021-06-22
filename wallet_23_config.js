@@ -1,1 +1,1 @@
-var mnemonic = "collect run essay fun render figure spray sketch next client tape great";
+var mnemonic = "harvest west base left color security height bridge lawn join assume toward";

@@ -1,1 +1,1 @@
-var mnemonic = "day process hello involve party august hammer body paper upgrade clever velvet";
+var mnemonic = "mutual candy dream roast pony stool orient initial hub display stove coral";

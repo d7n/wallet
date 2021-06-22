@@ -1,1 +1,1 @@
-var mnemonic = "satisfy love whale picture embark suffer purse deliver hover squirrel muscle crop";
+var mnemonic = "across tattoo detail present shield toddler pencil afford window must shuffle casino";

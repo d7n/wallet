@@ -1,1 +1,1 @@
-var mnemonic = "cabbage metal genuine gauge walk exotic lonely around exact cover coral tool";
+var mnemonic = "wall mom resource mom oppose wedding economy chuckle roast discover total recipe";

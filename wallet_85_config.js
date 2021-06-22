@@ -1,1 +1,1 @@
-var mnemonic = "royal you mixture heavy enact squirrel whale chicken soon thank squeeze sight";
+var mnemonic = "quit save upgrade exclude smart able apart stool cereal nothing about leaf";

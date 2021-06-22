@@ -1,1 +1,1 @@
-var mnemonic = "edit utility print project spider law then scatter shock off space online";
+var mnemonic = "used genuine gallery lonely fatal beyond color poverty awful error reject spider";

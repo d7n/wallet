@@ -1,1 +1,1 @@
-var mnemonic = "lecture exotic loyal pole grant hollow noodle solid congress nerve rather elite";
+var mnemonic = "desk road pony air leader dignity advice chat such uphold music category";

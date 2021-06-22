@@ -1,1 +1,1 @@
-var mnemonic = "carry coast exit sunny live police morning crew lab honey during siege";
+var mnemonic = "amazing slush abuse describe arch gallery foam puzzle small make amazing finger";

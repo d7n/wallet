@@ -1,1 +1,1 @@
-var mnemonic = "cat spirit cave half design two avoid ugly culture kitten define aspect";
+var mnemonic = "blame clutch fruit pair cradle riot fatal ordinary style develop lyrics hold";

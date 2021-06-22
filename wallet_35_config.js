@@ -1,1 +1,1 @@
-var mnemonic = "anxiety gospel cat syrup naive kite answer one frost minute claw swarm";
+var mnemonic = "domain unknown neutral drastic step fashion youth tide marine output fat wolf";

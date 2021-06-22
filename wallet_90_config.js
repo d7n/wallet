@@ -1,1 +1,1 @@
-var mnemonic = "fatal wave staff rule lake hurry grit genre area push asset circle";
+var mnemonic = "worry blouse motor nice inner tissue retreat cradle today mistake tower high";

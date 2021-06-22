@@ -1,1 +1,1 @@
-var mnemonic = "offer galaxy tongue dawn cube photo favorite tuition shallow fragile bless great";
+var mnemonic = "oppose beauty duty popular control method genius great slow cheese paper unhappy";

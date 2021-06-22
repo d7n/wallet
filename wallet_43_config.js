@@ -1,1 +1,1 @@
-var mnemonic = "bright wear casino cabbage vast behave script stadium rocket comfort special limb";
+var mnemonic = "two doctor task auction planet plug deny actual bubble bird kangaroo pair";

@@ -1,1 +1,1 @@
-var mnemonic = "father urge machine gate swarm apple glove assault crater strike unusual pill";
+var mnemonic = "control adult armor exchange burden double useful galaxy either address expand smoke";

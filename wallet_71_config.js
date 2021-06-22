@@ -1,1 +1,1 @@
-var mnemonic = "trial avocado agree salmon club dish fame maximum river bounce artwork gravity";
+var mnemonic = "mansion flight diary cover accident lion elite cloth warfare excuse property siege";

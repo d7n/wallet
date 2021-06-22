@@ -1,1 +1,1 @@
-var mnemonic = "much devote soldier must peace guilt gossip quit stick nasty curtain tower";
+var mnemonic = "obvious next dog cement use obscure deliver reduce judge fossil bind scheme";

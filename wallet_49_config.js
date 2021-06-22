@@ -1,1 +1,1 @@
-var mnemonic = "allow trade above comic anger cattle foster pull spice leopard brief silver";
+var mnemonic = "talk unusual hazard easy drastic album good erode soap enrich logic power";

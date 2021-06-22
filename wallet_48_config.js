@@ -1,1 +1,1 @@
-var mnemonic = "enact clutch purity garment organ jazz quantum achieve tragic rain grocery pigeon";
+var mnemonic = "cloth honey flip slot ecology cook network radar verb black display erupt";

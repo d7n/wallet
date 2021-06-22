@@ -1,1 +1,1 @@
-var mnemonic = "fox yard desert mirror cave mean guard vacuum brain good remind quick";
+var mnemonic = "ten dice because dry topic turkey either civil slide inform decrease abstract";

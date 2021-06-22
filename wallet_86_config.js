@@ -1,1 +1,1 @@
-var mnemonic = "ugly genius multiply dinosaur hamster lab slush sound when book whisper physical";
+var mnemonic = "grocery strong tomato unusual amateur obvious delay unique anchor oxygen view roof";

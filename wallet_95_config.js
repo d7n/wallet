@@ -1,1 +1,1 @@
-var mnemonic = "smoke author one adapt route banner mad mansion say avocado stumble citizen";
+var mnemonic = "brush guide agent wasp mosquito music actor skirt drill attitude bullet decorate";

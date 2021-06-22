@@ -1,1 +1,1 @@
-var mnemonic = "what lawsuit audit noble fantasy zebra swamp defy list large pave portion";
+var mnemonic = "rather shock toddler zone regret steak sort whip tonight bid pole wheel";

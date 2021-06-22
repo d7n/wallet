@@ -1,1 +1,1 @@
-var mnemonic = "cake duty shrimp crazy pizza expand unknown million bomb member second lyrics";
+var mnemonic = "banner lunch tattoo solve scissors play wedding misery insect rigid clown acid";

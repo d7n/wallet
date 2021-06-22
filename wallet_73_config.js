@@ -1,1 +1,1 @@
-var mnemonic = "middle surge vital response bullet weapon giraffe iron client miracle gather fold";
+var mnemonic = "early dawn place auto random enhance title twist candy ginger between verify";

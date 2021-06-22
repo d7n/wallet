@@ -1,1 +1,1 @@
-var mnemonic = "ramp push wheat rhythm tiny stock drop ready brief novel together accuse";
+var mnemonic = "loan race trash ugly ranch hammer song figure return shy permit clip";

@@ -1,1 +1,1 @@
-var mnemonic = "dirt crop gun moral want spawn viable monster insane advance circle river";
+var mnemonic = "song grant clown cart own buyer fox deal switch dash marine equal";

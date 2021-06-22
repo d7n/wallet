@@ -1,1 +1,1 @@
-var mnemonic = "region final sad then way cinnamon where dog ketchup safe expire knife";
+var mnemonic = "spy ozone indicate sweet clean render hollow twice truly lesson casual music";

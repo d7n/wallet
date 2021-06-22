@@ -1,1 +1,1 @@
-var mnemonic = "burger undo parade busy rely trend filter transfer twice first pole nature";
+var mnemonic = "deny private tape vibrant plastic drum open moral permit hip company deal";

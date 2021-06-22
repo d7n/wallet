@@ -1,1 +1,1 @@
-var mnemonic = "kick shove charge ten cave thunder dad surround second weather mother light";
+var mnemonic = "age carpet news win rival lyrics crawl unique accident nut sketch input";

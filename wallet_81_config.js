@@ -1,1 +1,1 @@
-var mnemonic = "pact poem devote profit prosper cream convince spirit asthma wear absent lion";
+var mnemonic = "mechanic volcano middle cement season snap connect latin hawk clinic review immense";

@@ -1,1 +1,1 @@
-var mnemonic = "height essay sugar mom obey ugly coffee warm need electric squirrel venue";
+var mnemonic = "rose attack soda snake tray mountain total protect baby oil inhale debate";

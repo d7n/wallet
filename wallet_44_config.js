@@ -1,1 +1,1 @@
-var mnemonic = "chuckle inform unique age jacket depend visa tip flame meat pause cruise";
+var mnemonic = "clap east chest call under catch dance enrich move sponsor height bachelor";

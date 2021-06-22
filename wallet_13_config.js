@@ -1,1 +1,1 @@
-var mnemonic = "power identify manual wonder throw pass doctor welcome dial pony orchard input";
+var mnemonic = "sword uniform kid drip prefer dust diagram equip audit hold potato ginger";

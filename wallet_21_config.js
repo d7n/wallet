@@ -1,1 +1,1 @@
-var mnemonic = "pool giraffe end length excite suffer analyst over swarm client require taste";
+var mnemonic = "hair despair oyster bleak load forum hint accuse trophy unhappy garden report";

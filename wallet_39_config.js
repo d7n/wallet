@@ -1,1 +1,1 @@
-var mnemonic = "never fiscal leisure turtle caught narrow drop lemon yard detail solve eight";
+var mnemonic = "jewel sure mimic critic faculty use category clog rough gauge butter quality";

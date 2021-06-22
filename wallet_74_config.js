@@ -1,1 +1,1 @@
-var mnemonic = "faith robot girl lottery visual coyote all know picture kind kit metal";
+var mnemonic = "sleep minor capital very noodle silk hover close damage fly absent ice";

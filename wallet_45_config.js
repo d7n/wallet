@@ -1,1 +1,1 @@
-var mnemonic = "bridge junk rice next surprise monster metal endless elder muscle galaxy meadow";
+var mnemonic = "vintage exit surface castle response ready sunny click juice skull grocery elephant";

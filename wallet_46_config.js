@@ -1,1 +1,1 @@
-var mnemonic = "boat drastic churn car spirit orange observe cook confirm dish bubble jeans";
+var mnemonic = "biology unit turtle grass youth real maid chuckle stove aerobic energy phone";

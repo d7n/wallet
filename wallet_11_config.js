@@ -1,1 +1,1 @@
-var mnemonic = "mother domain essay popular extra matter barrel possible vital suggest put congress";
+var mnemonic = "bid trick boil alpha sense rookie prison opinion office ticket era cabin";

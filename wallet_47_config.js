@@ -1,1 +1,1 @@
-var mnemonic = "annual mixed hidden journey day judge warfare alcohol athlete neutral patrol guard";
+var mnemonic = "clock police athlete artwork butter language barrel stove ankle inform cute turn";

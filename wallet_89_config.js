@@ -1,1 +1,1 @@
-var mnemonic = "village bounce saddle combine throw pelican stick year ball cross squirrel country";
+var mnemonic = "yellow palace album beyond century rabbit kingdom guide topple sick obvious inherit";

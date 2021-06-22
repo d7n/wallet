@@ -1,1 +1,1 @@
-var mnemonic = "push core guitar cook portion lamp siren matter science danger satoshi beach";
+var mnemonic = "example undo liquid silly later broken unable upon until drama multiply cross";

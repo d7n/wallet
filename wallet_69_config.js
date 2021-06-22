@@ -1,1 +1,1 @@
-var mnemonic = "flavor jeans remain trigger profit wave include height layer tape upper idle";
+var mnemonic = "deny gesture crop act coconut notice safe desert coast service eager banana";

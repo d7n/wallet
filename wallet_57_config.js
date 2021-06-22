@@ -1,1 +1,1 @@
-var mnemonic = "what faculty undo symptom plate language canvas arrest whip identify enough permit";
+var mnemonic = "wagon since obey frog please embrace three settle rich advice chapter vapor";

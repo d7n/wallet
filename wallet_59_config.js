@@ -1,1 +1,1 @@
-var mnemonic = "harsh grape forward jewel soap extra million more service call hello across";
+var mnemonic = "say dune raw nerve tape trick entire tiny regular acquire lunar flee";

@@ -1,1 +1,1 @@
-var mnemonic = "setup unlock north lucky usual project humor toy trial onion cross say";
+var mnemonic = "improve century carpet helmet dry trip real enrich afraid priority fence afraid";

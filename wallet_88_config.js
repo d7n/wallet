@@ -1,1 +1,1 @@
-var mnemonic = "combine come pet gloom question relax chief fine pink brain awake year";
+var mnemonic = "crowd hard beauty hole elite retire flame safe float topic prison alter";

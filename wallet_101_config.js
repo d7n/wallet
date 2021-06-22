@@ -1,1 +1,1 @@
-var mnemonic = "phrase diet hair suffer other prosper purse universe culture ready skill kit";
+var mnemonic = "worry thunder reject glass second demand assist figure boy blade border curious";

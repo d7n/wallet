@@ -1,1 +1,1 @@
-var mnemonic = "celery clump claim acquire shy series erode dress use melt help social";
+var mnemonic = "arch stand when student harbor wedding sock usage index fat robust friend";

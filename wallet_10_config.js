@@ -1,1 +1,1 @@
-var mnemonic = "dolphin false witness inject hidden since warm shine giant donor panther muscle";
+var mnemonic = "captain vault panic host rain again wisdom situate bright melt comfort clarify";

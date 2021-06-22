@@ -1,1 +1,1 @@
-var mnemonic = "smart mail title rug oval harbor okay estate drive body civil bone";
+var mnemonic = "economy father unusual grace power weird robust plunge weapon repair atom ripple";

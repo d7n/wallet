@@ -1,1 +1,1 @@
-var mnemonic = "member cigar perfect sure chalk friend bind suffer merry expire very dose";
+var mnemonic = "glory fame gorilla high gloom inhale scissors laundry field bird define explain";

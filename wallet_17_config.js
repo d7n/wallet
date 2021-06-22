@@ -1,1 +1,1 @@
-var mnemonic = "interest select moon globe bronze burger energy symbol company unique smoke between";
+var mnemonic = "oven bus stone merit cousin bind dinner purity auction soul mesh photo";

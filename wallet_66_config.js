@@ -1,1 +1,1 @@
-var mnemonic = "unveil future extra produce surge capable sun message permit snow task enact";
+var mnemonic = "frown surface bomb radar render expand long panther weasel unable circle dust";

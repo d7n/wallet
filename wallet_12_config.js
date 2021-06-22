@@ -1,1 +1,1 @@
-var mnemonic = "identify upset guitar betray stem upon grid machine slide patient lift lounge";
+var mnemonic = "middle because try chalk edit lend coyote fragile transfer else nominee obvious";

@@ -1,1 +1,1 @@
-var mnemonic = "october stereo marriage guide give tide arena critic waste horse behave response";
+var mnemonic = "identify tongue decade nephew noodle decade abandon segment assume upper stereo jump";
