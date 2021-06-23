@@ -1,1 +1,1 @@
-var mnemonic = "false input cage base arctic pride myth gadget decade evil attack promote";
+var mnemonic = "trumpet soul video dwarf crystal circle basket energy way quantum used boil";

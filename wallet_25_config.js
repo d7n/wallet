@@ -1,1 +1,1 @@
-var mnemonic = "clerk asthma doctor century coral fame number salt vacant ladder bone laugh";
+var mnemonic = "dress woman tourist word fix flat rival hour because barely inform urge";

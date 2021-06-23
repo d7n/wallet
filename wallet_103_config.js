@@ -1,1 +1,1 @@
-var mnemonic = "zebra business denial soon around cycle crucial eye bean shop return waste";
+var mnemonic = "medal edge fit pet antique venture equip stay april injury punch retire";

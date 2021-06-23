@@ -1,1 +1,1 @@
-var mnemonic = "stadium retire letter deputy voice pattern tag rail hungry belt giraffe consider";
+var mnemonic = "spread hat pilot mercy someone siege charge emerge captain hurt worth course";

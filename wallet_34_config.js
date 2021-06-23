@@ -1,1 +1,1 @@
-var mnemonic = "paper vague spell cricket tomato vague chaos swamp crash duck enroll almost";
+var mnemonic = "absurd then grocery menu steak ready soap style gloom dress sauce waste";

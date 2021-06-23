@@ -1,1 +1,1 @@
-var mnemonic = "zone despair quarter topple sign final tuna vivid cushion front congress rack";
+var mnemonic = "tennis rough balance blue foam grass apart night pizza switch pull harvest";

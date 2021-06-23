@@ -1,1 +1,1 @@
-var mnemonic = "level speed notable account strong shell gasp loud fire outer auto blame";
+var mnemonic = "double inflict donate crew hire else rival solar maze collect used fine";

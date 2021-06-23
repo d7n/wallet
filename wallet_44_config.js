@@ -1,1 +1,1 @@
-var mnemonic = "infant script ugly pave dinosaur drive coast curtain master arena blast flee";
+var mnemonic = "wave chair license sausage educate session deer armed elevator pave awkward amateur";

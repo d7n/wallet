@@ -1,1 +1,1 @@
-var mnemonic = "idea tag girl arrive outdoor earth birth give select picnic brief immense";
+var mnemonic = "theme hint orient luxury mention picture sight tool pet alien toward custom";

@@ -1,1 +1,1 @@
-var mnemonic = "approve fatal domain enroll fiber exhaust whip loan run obey absent ready";
+var mnemonic = "shop liberty gravity tortoise deny vibrant various circle stadium clever habit uniform";

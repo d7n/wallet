@@ -1,1 +1,1 @@
-var mnemonic = "beef route boy captain quote finger example brass return elephant antique use";
+var mnemonic = "mandate struggle sadness climb guide poet card artefact viable figure harsh bag";

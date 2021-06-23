@@ -1,1 +1,1 @@
-var mnemonic = "token crisp eye merge virtual icon talent result cloth come canyon game";
+var mnemonic = "public gospel cruel emotion wheat print program sword surprise regular nerve amateur";

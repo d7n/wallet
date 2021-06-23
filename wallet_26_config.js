@@ -1,1 +1,1 @@
-var mnemonic = "estate various habit maid arch tiny door shuffle expire source present panic";
+var mnemonic = "try volcano hip april bleak pattern vague sponsor solution drum long sunset";

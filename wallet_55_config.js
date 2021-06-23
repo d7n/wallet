@@ -1,1 +1,1 @@
-var mnemonic = "spell biology icon cheap spray innocent ten thunder depend soup vacuum tool";
+var mnemonic = "search boil screen scrap pyramid certain orphan black forum fault luxury picture";

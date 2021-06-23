@@ -1,1 +1,1 @@
-var mnemonic = "print question major humor reopen sport clever credit silent lawsuit dinner evidence";
+var mnemonic = "traffic tired couple chest blind online addict twist range slide gun seven";

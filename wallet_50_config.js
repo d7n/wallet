@@ -1,1 +1,1 @@
-var mnemonic = "tissue invite surprise best bachelor cherry place decrease machine reward convince black";
+var mnemonic = "vague frown number lend sting celery honey know net roof spin expose";

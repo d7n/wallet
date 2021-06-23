@@ -1,1 +1,1 @@
-var mnemonic = "suggest group drastic endorse proof doctor client mother perfect ten trust obey";
+var mnemonic = "mosquito base frequent lobster neutral helmet blood upper execute quantum tornado net";

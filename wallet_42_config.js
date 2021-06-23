@@ -1,1 +1,1 @@
-var mnemonic = "more crash three enroll pet cat october supply copper canal marriage soup";
+var mnemonic = "trick family poem dirt connect beyond uncover deposit patrol body next spray";

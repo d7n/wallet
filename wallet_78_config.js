@@ -1,1 +1,1 @@
-var mnemonic = "bamboo neutral cinnamon error float praise another tomorrow minimum behave artefact width";
+var mnemonic = "photo panel mail blanket feature cube aunt accuse occur chest fog just";

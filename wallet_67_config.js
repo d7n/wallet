@@ -1,1 +1,1 @@
-var mnemonic = "kite hard camp heavy suggest company fiber once february brown cup supreme";
+var mnemonic = "describe gadget weather select poet meadow enact denial camp inner lock jump";

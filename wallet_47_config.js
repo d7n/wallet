@@ -1,1 +1,1 @@
-var mnemonic = "winter sausage hat grape dolphin modify letter network rain text sadness proof";
+var mnemonic = "arena sight all position develop audit cart forum all lock whip merit";

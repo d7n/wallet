@@ -1,1 +1,1 @@
-var mnemonic = "empower eagle degree alter move steak video nation silver frame ridge drum";
+var mnemonic = "phone arctic roast above valley mango bicycle repair noodle rural change truck";

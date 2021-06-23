@@ -1,1 +1,1 @@
-var mnemonic = "host moon pond immune model shoot clay raw issue cable voice country";
+var mnemonic = "brisk toe jaguar net orbit camera egg absurd scissors bag hotel prepare";

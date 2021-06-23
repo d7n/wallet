@@ -1,1 +1,1 @@
-var mnemonic = "display turkey route urban forget involve major flame palm mandate ankle patient";
+var mnemonic = "wood twelve muscle scissors bubble wrestle method dismiss fuel impose immense mobile";

@@ -1,1 +1,1 @@
-var mnemonic = "brush sheriff immense park obtain tray advance fabric december rule slow actual";
+var mnemonic = "veteran sweet egg say inside dismiss outer brass accident add bus hotel";

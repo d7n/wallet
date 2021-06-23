@@ -1,1 +1,1 @@
-var mnemonic = "random drink mango alcohol special abuse practice zero stool lyrics tornado appear";
+var mnemonic = "clock category inch float crime name pioneer swing almost vault unfold scene";

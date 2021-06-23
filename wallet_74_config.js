@@ -1,1 +1,1 @@
-var mnemonic = "novel road steak cloth drill kid road damage tortoise ball quiz business";
+var mnemonic = "hockey visit ankle wrestle private sail ignore gossip obey ripple bracket arena";

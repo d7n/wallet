@@ -1,1 +1,1 @@
-var mnemonic = "maximum toilet bulb fatigue jelly stone crawl virtual thunder limit pear erosion";
+var mnemonic = "alley assist cloth riot inner choice world embark man stem replace caution";

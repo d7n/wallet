@@ -1,1 +1,1 @@
-var mnemonic = "voice act shield run sail account all ozone organ verify gift garbage";
+var mnemonic = "one lawsuit diet protect assault bleak tube sleep miss supply control end";

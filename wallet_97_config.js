@@ -1,1 +1,1 @@
-var mnemonic = "nice school type token thank fiscal youth web below grape nature gown";
+var mnemonic = "vessel wear gentle final long unaware around sweet capable prison bacon sustain";

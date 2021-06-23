@@ -1,1 +1,1 @@
-var mnemonic = "front bronze exotic devote enrich blame clever mix ginger problem educate expect";
+var mnemonic = "cattle immune village raccoon trial junk suspect mystery spatial warfare tray hurry";

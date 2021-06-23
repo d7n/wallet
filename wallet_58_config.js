@@ -1,1 +1,1 @@
-var mnemonic = "fancy clean puzzle bulk flame ill planet blade language fortune same pig";
+var mnemonic = "leave frame pool galaxy rose earth swamp dignity birth early market beach";

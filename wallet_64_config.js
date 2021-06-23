@@ -1,1 +1,1 @@
-var mnemonic = "reward later biology popular air great illness umbrella kidney upset film memory";
+var mnemonic = "pipe earth tissue prepare pelican excuse trigger fashion sphere cannon until eye";

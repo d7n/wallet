@@ -1,1 +1,1 @@
-var mnemonic = "balcony solve round weapon diet gadget piano cart candy three core soap";
+var mnemonic = "erosion festival random predict wave mad physical park coffee van shaft swap";

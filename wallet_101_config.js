@@ -1,1 +1,1 @@
-var mnemonic = "basket learn animal poem control vibrant crop unfold wink family bench crowd";
+var mnemonic = "same planet child disease home cereal myself rather total cluster news illness";

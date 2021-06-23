@@ -1,1 +1,1 @@
-var mnemonic = "warfare gloom earth glide vacuum hammer clay vintage travel domain correct bar";
+var mnemonic = "use napkin health regret solar music kiwi gravity amateur acquire march valve";

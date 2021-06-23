@@ -1,1 +1,1 @@
-var mnemonic = "eagle moral tunnel kingdom mobile primary negative potato detail wool notable box";
+var mnemonic = "grit weather coil future quarter gown allow train episode gauge pull burger";

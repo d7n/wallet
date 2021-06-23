@@ -1,1 +1,1 @@
-var mnemonic = "tail afraid antenna safe over supply industry giraffe celery solution vapor benefit";
+var mnemonic = "nerve sugar warfare illegal expand rely item save laundry satisfy call calm";

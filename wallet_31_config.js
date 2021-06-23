@@ -1,1 +1,1 @@
-var mnemonic = "family tired warfare boring stuff arch fee claim jazz humble budget soldier";
+var mnemonic = "where chef cotton crater donkey math tennis fold cart amused short express";

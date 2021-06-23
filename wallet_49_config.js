@@ -1,1 +1,1 @@
-var mnemonic = "lazy secret amount auto tree congress march repeat provide tomorrow elevator fresh";
+var mnemonic = "now alley derive speed lava mutual candy couch asthma recipe viable plug";

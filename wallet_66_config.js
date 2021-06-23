@@ -1,1 +1,1 @@
-var mnemonic = "grain mix notice lazy habit great endorse hedgehog brass uphold inner diagram";
+var mnemonic = "theme fox apology ginger gentle reward leg toddler clerk loyal file jump";

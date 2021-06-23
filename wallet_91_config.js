@@ -1,1 +1,1 @@
-var mnemonic = "afford bracket ensure grain lonely few clerk afford picture short odor evolve";
+var mnemonic = "raw sleep matrix mirror find parent bring possible comic actual then seven";

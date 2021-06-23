@@ -1,1 +1,1 @@
-var mnemonic = "wreck focus board leave vicious audit response ticket power carbon flock tongue";
+var mnemonic = "dizzy one home climb diary critic caution lyrics sign labor bright mammal";

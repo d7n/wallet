@@ -1,1 +1,1 @@
-var mnemonic = "day fold wreck salon next exist fossil laundry mammal robot cereal into";
+var mnemonic = "achieve bargain all motor divide potato tiny year maid lounge language injury";

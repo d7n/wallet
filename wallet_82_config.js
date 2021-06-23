@@ -1,1 +1,1 @@
-var mnemonic = "grab captain acid agent ritual ceiling oxygen stadium wolf hand invite heavy";
+var mnemonic = "grace garbage provide arrive shallow casual sand unique peasant company warm avocado";

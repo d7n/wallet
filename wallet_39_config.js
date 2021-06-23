@@ -1,1 +1,1 @@
-var mnemonic = "myself size husband essence bleak month trust quiz treat final anger sheriff";
+var mnemonic = "around bid ocean cloth mammal crunch tree pool source sell problem hunt";

@@ -1,1 +1,1 @@
-var mnemonic = "cute express biology demand hedgehog clinic radio leaf average child light banana";
+var mnemonic = "museum grain ride list ring address purchase seat album have fiscal coast";

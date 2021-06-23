@@ -1,1 +1,1 @@
-var mnemonic = "crew depend common region business cook angle smoke glory skin insect giant";
+var mnemonic = "feel gloom ivory retire intact liquid glue blanket habit popular sustain pigeon";

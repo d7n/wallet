@@ -1,1 +1,1 @@
-var mnemonic = "capable awesome plate language gap journey crop quit cause fly quick hello";
+var mnemonic = "leaf toilet repeat weekend program work praise company dove adult thank warm";

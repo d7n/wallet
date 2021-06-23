@@ -1,1 +1,1 @@
-var mnemonic = "toss viable giant ethics mouse water room ensure athlete gravity pull clown";
+var mnemonic = "diesel tongue indoor knee endorse roof labor punch echo chronic page dragon";

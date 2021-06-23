@@ -1,1 +1,1 @@
-var mnemonic = "lunch scrub army fatigue warfare secret way tonight minute cloth pigeon eternal";
+var mnemonic = "blast verb enemy dwarf jazz chapter express sword notice limb ramp erase";

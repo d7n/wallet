@@ -1,1 +1,1 @@
-var mnemonic = "ranch vintage humor element deer birth trophy stone chapter stamp bitter betray";
+var mnemonic = "neglect diesel upper boring neck visit siege merit spice cushion raw example";

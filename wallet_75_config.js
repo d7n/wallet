@@ -1,1 +1,1 @@
-var mnemonic = "fat verify license inhale identify neither sell verify symbol random bone essay";
+var mnemonic = "twist edge sick honey humor security main confirm priority stadium parent crash";

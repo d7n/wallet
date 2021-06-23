@@ -1,1 +1,1 @@
-var mnemonic = "later chunk accident retire bus civil print recycle team category bomb table";
+var mnemonic = "fish settle banana march fever pact green stadium panda copper media case";

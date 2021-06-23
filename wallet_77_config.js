@@ -1,1 +1,1 @@
-var mnemonic = "extend eyebrow evolve suit brick chunk oblige nephew small eight alley receive";
+var mnemonic = "arctic eager mandate diary pelican energy tourist long cereal icon food pass";

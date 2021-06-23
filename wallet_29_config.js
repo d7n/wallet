@@ -1,1 +1,1 @@
-var mnemonic = "surround duty pumpkin convince remember pistol wise orange decide eye improve lottery";
+var mnemonic = "mesh window oblige onion surprise gate toy mesh help lonely utility echo";

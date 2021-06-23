@@ -1,1 +1,1 @@
-var mnemonic = "bid brisk bachelor bus cycle like time version fury antique future grace";
+var mnemonic = "fold flock february extra way bench cinnamon canal caught sun again wrestle";

@@ -1,1 +1,1 @@
-var mnemonic = "acoustic settle ritual surge weird hobby stamp marine stool silly correct fragile";
+var mnemonic = "verify stock sun casual future cube tenant uncover flower lamp gorilla matter";

@@ -1,1 +1,1 @@
-var mnemonic = "arena dad mansion pretty slush vibrant nuclear comfort oppose host canal veteran";
+var mnemonic = "will hover gaze comic funny yard fee bulb alien sample gallery breeze";

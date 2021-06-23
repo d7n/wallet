@@ -1,1 +1,1 @@
-var mnemonic = "inform easy again comic heavy flame legend erode public refuse tourist drift";
+var mnemonic = "anxiety thought chicken inch program flee liquid try kite either upper large";

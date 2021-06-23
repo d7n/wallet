@@ -1,1 +1,1 @@
-var mnemonic = "auction assist census pink gun economy pill reject shallow harbor insane people";
+var mnemonic = "claw armor cute door transfer abandon now dolphin shrimp suggest fork verify";

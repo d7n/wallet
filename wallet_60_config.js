@@ -1,1 +1,1 @@
-var mnemonic = "lunar shell pilot retire oppose hedgehog farm ahead tumble moral property wisdom";
+var mnemonic = "sustain caution tank useful snap exclude satoshi lumber screen humble oblige foot";

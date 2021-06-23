@@ -1,1 +1,1 @@
-var mnemonic = "whip program health hover weird coffee snap crazy book borrow staff jazz";
+var mnemonic = "stock planet birth city health group settle dish cushion brand price small";

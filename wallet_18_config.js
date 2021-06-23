@@ -1,1 +1,1 @@
-var mnemonic = "lamp million eye chief claim penalty extra west butter party heavy praise";
+var mnemonic = "frequent thought fall honey travel wisdom alter woman expect opera property spider";

@@ -1,1 +1,1 @@
-var mnemonic = "uncle recall unknown shine blade front kiwi fame cruise salt client clog";
+var mnemonic = "cave thing gesture auction couch palace time limb balance also pink excuse";

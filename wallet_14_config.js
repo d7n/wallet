@@ -1,1 +1,1 @@
-var mnemonic = "tilt object tilt rabbit because expire usual course rally sort pen tomato";
+var mnemonic = "clutch welcome obey tissue moment misery punch silver order detail solid protect";

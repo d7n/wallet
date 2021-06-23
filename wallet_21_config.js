@@ -1,1 +1,1 @@
-var mnemonic = "venture trial chief hub because sell giraffe obey cattle owner describe cousin";
+var mnemonic = "way fantasy cube still entire inform identify affair mother cost lens shell";

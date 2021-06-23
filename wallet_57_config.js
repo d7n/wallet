@@ -1,1 +1,1 @@
-var mnemonic = "ordinary chuckle idea sea clog excuse book tomato theory noble hood jewel";
+var mnemonic = "antique enjoy angry globe morning proof arrest notable nurse hockey sand odor";

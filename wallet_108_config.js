@@ -1,1 +1,1 @@
-var mnemonic = "mistake logic used pizza clutch verb figure panic input canal wolf own";
+var mnemonic = "around holiday goat leader siren agree bean effort carry club arrange chunk";

@@ -1,1 +1,1 @@
-var mnemonic = "electric hammer power okay exhibit addict spirit travel when put estate scare";
+var mnemonic = "finish elegant plate iron rebel olympic cloth canoe devote drift blame test";

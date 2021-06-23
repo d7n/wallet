@@ -1,1 +1,1 @@
-var mnemonic = "zero kiwi tool bonus force eager feed season tide rose episode mother";
+var mnemonic = "guess canvas vast version medal early silk month drama focus hunt patch";

@@ -1,1 +1,1 @@
-var mnemonic = "giant afford autumn health path utility worry away term valid liberty lemon";
+var mnemonic = "drip crime tower hire lounge give ancient merit will shadow puppy cave";

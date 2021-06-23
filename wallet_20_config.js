@@ -1,1 +1,1 @@
-var mnemonic = "rabbit gap spare country glass future thought surprise law corn pulp nuclear";
+var mnemonic = "gasp daughter cave talk whip oppose online coyote banner bargain mixture style";

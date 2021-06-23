@@ -1,1 +1,1 @@
-var mnemonic = "skin refuse velvet industry dry love soccer morning balance noise consider shift";
+var mnemonic = "cube two job fold limit change final cover envelope click turn device";

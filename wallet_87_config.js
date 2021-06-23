@@ -1,1 +1,1 @@
-var mnemonic = "pattern era great proof alter example alcohol section legal vital boat secret";
+var mnemonic = "good extend always orient tonight educate toddler turn jaguar luggage lake spirit";

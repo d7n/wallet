@@ -1,1 +1,1 @@
-var mnemonic = "word flavor nuclear angle attend click upgrade actual act train dress liberty";
+var mnemonic = "table bread winter present boost sun captain install series broken brain sign";

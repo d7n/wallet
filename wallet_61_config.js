@@ -1,1 +1,1 @@
-var mnemonic = "surround swear chicken dumb odor desk ten kitchen snack scan soccer december";
+var mnemonic = "chest child orbit setup mercy wrestle pair average claim output narrow plunge";

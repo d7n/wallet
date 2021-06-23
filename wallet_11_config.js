@@ -1,1 +1,1 @@
-var mnemonic = "fly glue hire salt pudding right stamp elevator pluck thing diet fade";
+var mnemonic = "again gorilla possible base utility camp chalk student film october make often";

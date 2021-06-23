@@ -1,1 +1,1 @@
-var mnemonic = "scout dad image tip ill useful choice giggle walk merge pepper year";
+var mnemonic = "grass meat private october grab demand stool job vault pool inmate half";

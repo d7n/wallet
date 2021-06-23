@@ -1,1 +1,1 @@
-var mnemonic = "dawn situate olive vacant summer crumble business any equip stock display august";
+var mnemonic = "inhale pride bubble used grocery dwarf body try gentle enroll express raw";

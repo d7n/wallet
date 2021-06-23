@@ -1,1 +1,1 @@
-var mnemonic = "catch habit pioneer today better team corn fame mix okay electric subject";
+var mnemonic = "dinosaur clean ranch shrug lady wash swing cannon fade portion glad bid";

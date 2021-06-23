@@ -1,1 +1,1 @@
-var mnemonic = "soccer avoid need taste rate catalog essay solution lake angry donkey fatal";
+var mnemonic = "tunnel seven blossom mechanic cargo vault exercise expose hurry asset lunch hidden";

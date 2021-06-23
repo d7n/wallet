@@ -1,1 +1,1 @@
-var mnemonic = "animal dutch hockey open pull cable urban impulse diesel purity police barely";
+var mnemonic = "discover quantum neck victory eager thunder sight friend rural infant require ridge";
