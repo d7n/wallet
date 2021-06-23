@@ -1,1 +1,1 @@
-var mnemonic = "duck dismiss attract luxury gap wish obey glass universe maid fox key";
+var mnemonic = "tennis foster fever dose fault age dress purchase wreck stove load garbage";

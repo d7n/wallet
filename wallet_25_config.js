@@ -1,1 +1,1 @@
-var mnemonic = "feature poet stumble need sense aware error twice unknown leg sister vault";
+var mnemonic = "orbit mention another question inside brisk stumble pact vault online whale delay";

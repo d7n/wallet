@@ -1,1 +1,1 @@
-var mnemonic = "bring high clay select empty material guess float room total abandon lobster";
+var mnemonic = "gas fan bullet treat purity youth blush actual kite surprise now account";

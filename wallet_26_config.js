@@ -1,1 +1,1 @@
-var mnemonic = "medal record almost adapt honey dry during into victory text breeze receive";
+var mnemonic = "consider leisure until scan deal repeat pill stuff refuse element ivory marriage";

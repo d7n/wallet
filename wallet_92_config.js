@@ -1,1 +1,1 @@
-var mnemonic = "bachelor hub confirm soda better edge gun secret stand drift neutral nephew";
+var mnemonic = "move system ship motor spatial govern legend strong either arrow affair marriage";

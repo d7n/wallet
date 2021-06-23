@@ -1,1 +1,1 @@
-var mnemonic = "absent reveal paper pigeon item cousin fresh convince slight response actress beach";
+var mnemonic = "potato arch dance honey account where then address auto this ranch hobby";

@@ -1,1 +1,1 @@
-var mnemonic = "salt language biology voyage prosper job siege between garden exact own exit";
+var mnemonic = "acid jungle cart romance method frozen level ghost shoot sample father trophy";

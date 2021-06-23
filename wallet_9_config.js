@@ -1,1 +1,1 @@
-var mnemonic = "fold fresh trick habit patch burger oak boost pelican swear doctor tattoo";
+var mnemonic = "undo tree witness shell mix photo napkin journey fantasy payment write water";

@@ -1,1 +1,1 @@
-var mnemonic = "boil ocean wave cause boat pet kitchen outer bus ordinary evil peasant";
+var mnemonic = "allow divorce net before funny swamp soap reveal people wood delay idle";

@@ -1,1 +1,1 @@
-var mnemonic = "valve street panther response scare diagram sadness before display element zebra finish";
+var mnemonic = "dismiss asset orbit lava truly tornado gorilla modify attitude neck enact dog";

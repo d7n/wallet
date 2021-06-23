@@ -1,1 +1,1 @@
-var mnemonic = "suggest twin zone tenant decade neutral nephew dismiss drive afford day zero";
+var mnemonic = "trumpet person this seed rural bomb nominee permit present this style kitchen";

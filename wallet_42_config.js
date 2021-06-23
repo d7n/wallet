@@ -1,1 +1,1 @@
-var mnemonic = "liberty guilt peasant cherry property chaos inspire basket cool vendor unfair sleep";
+var mnemonic = "survey hurt time school hidden two piano feature jungle one excuse salon";

@@ -1,1 +1,1 @@
-var mnemonic = "depend sail witness burden velvet injury curve inner nest include donate swift";
+var mnemonic = "square bounce result exact comic produce milk episode voice side opera drum";

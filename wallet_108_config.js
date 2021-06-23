@@ -1,1 +1,1 @@
-var mnemonic = "blast lend music fortune idle salmon pledge car differ puppy gentle census";
+var mnemonic = "lift rug among verb barely crunch tomato assault ripple sing village voice";

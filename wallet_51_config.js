@@ -1,1 +1,1 @@
-var mnemonic = "fall mass claim then patient traffic high hour mule question filter mansion";
+var mnemonic = "senior behave answer carpet water buzz elder ceiling year awake coconut inmate";

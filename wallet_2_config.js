@@ -1,1 +1,1 @@
-var mnemonic = "slush frequent indoor hair public draft clog arrive grief orient cost ugly";
+var mnemonic = "chalk evolve syrup steel tumble inform nuclear jelly dentist traffic sight tomato";

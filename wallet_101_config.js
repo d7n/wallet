@@ -1,1 +1,1 @@
-var mnemonic = "brush payment luxury pave rotate original artist page dumb odor drama unfair";
+var mnemonic = "matter venture time public curious mechanic elevator enrich odor camp festival bomb";

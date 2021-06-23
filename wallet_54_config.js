@@ -1,1 +1,1 @@
-var mnemonic = "drastic short runway claim shock tonight cradle approve once chase correct rather";
+var mnemonic = "crop lock submit cause color lobster audit goddess demise regret aerobic shuffle";

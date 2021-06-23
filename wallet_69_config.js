@@ -1,1 +1,1 @@
-var mnemonic = "spirit believe flame mom liquid thumb chat cricket weird patch audit ritual";
+var mnemonic = "sunset gain blade enact hill motion decide rice badge swap century boy";

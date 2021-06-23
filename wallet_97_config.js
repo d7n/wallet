@@ -1,1 +1,1 @@
-var mnemonic = "romance lounge journey tube brass pretty hand hunt urge mystery senior exact";
+var mnemonic = "cheese tornado spend bounce car father hope blood tooth segment craft custom";

@@ -1,1 +1,1 @@
-var mnemonic = "mistake knee frost shell bless whisper sport hood dry marine myself picture";
+var mnemonic = "leader antique diet audit option warm mechanic answer dynamic balance scare dune";

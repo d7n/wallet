@@ -1,1 +1,1 @@
-var mnemonic = "dial weather zebra arm toast bitter main receive horror border piece useless";
+var mnemonic = "sock casino burger material crack gate canal good kingdom cart pair sock";

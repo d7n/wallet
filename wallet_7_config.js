@@ -1,1 +1,1 @@
-var mnemonic = "view report lumber gentle hedgehog seminar year flush kite wealth virus damage";
+var mnemonic = "below rule rough elder lawsuit receive cruise actress swift roof web extra";

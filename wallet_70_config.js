@@ -1,1 +1,1 @@
-var mnemonic = "turn joy input easy afford wreck fiction muscle impulse tortoise minute umbrella";
+var mnemonic = "range theory style practice feed legal veteran slice lazy keen melt apology";

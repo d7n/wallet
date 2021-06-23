@@ -1,1 +1,1 @@
-var mnemonic = "globe glance hand outdoor plunge index decline screen volume honey upset escape";
+var mnemonic = "illegal obscure speed kiss face fish cupboard hawk poverty onion spice nest";

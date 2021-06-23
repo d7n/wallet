@@ -1,1 +1,1 @@
-var mnemonic = "private better retreat bus foster ozone easily people summer rate conduct invite";
+var mnemonic = "blast spice sorry arrow cable attend boss awesome ghost craft atom reward";

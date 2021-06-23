@@ -1,1 +1,1 @@
-var mnemonic = "walk repair unfold thank affair fork company cinnamon law suspect punch kick";
+var mnemonic = "loan grab flat march grace hockey endorse normal library stuff access robot";

@@ -1,1 +1,1 @@
-var mnemonic = "regret limb tennis issue price boring obey ranch butter orange magnet hero";
+var mnemonic = "logic trash network endless illness result fire enough wave end measure relax";

@@ -1,1 +1,1 @@
-var mnemonic = "control employ genuine bacon also awkward biology buddy winner goose explain popular";
+var mnemonic = "fine diesel beach color palace enrich short author reopen guilt cargo jeans";

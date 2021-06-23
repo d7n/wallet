@@ -1,1 +1,1 @@
-var mnemonic = "prison enemy unusual chest neck junk lyrics job hen label dog ketchup";
+var mnemonic = "tobacco ill slight earth welcome original insane desert coil process spray tent";

@@ -1,1 +1,1 @@
-var mnemonic = "wrap crystal asset merge hazard cinnamon real fortune zebra ride ranch pizza";
+var mnemonic = "ski please mail index raven grape fluid occur across flavor try reject";

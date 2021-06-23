@@ -1,1 +1,1 @@
-var mnemonic = "tribe strategy jelly whisper ski online wage flock note alpha syrup blade";
+var mnemonic = "success morning exhibit way say crime include blast velvet finger belt allow";

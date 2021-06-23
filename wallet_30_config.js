@@ -1,1 +1,1 @@
-var mnemonic = "route green penalty office burst sibling salute wise head fit issue trip";
+var mnemonic = "honey arm trip slogan project wealth adjust stairs oak grape mosquito magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "flock airport blouse rough dry pony prison victory master stick ski twelve";
+var mnemonic = "insect six core course bicycle trip broken skill win wait jump salad";

@@ -1,1 +1,1 @@
-var mnemonic = "viable delay coin ecology original document hammer fuel share appear battle sing";
+var mnemonic = "connect catch scene cherry sample neglect tuition category parade include special group";

@@ -1,1 +1,1 @@
-var mnemonic = "seed purchase auction kitten comfort resemble spawn wave prize shift advance jar";
+var mnemonic = "earth analyst lion balcony luggage enact antenna zoo visit timber forward grow";

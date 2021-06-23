@@ -1,1 +1,1 @@
-var mnemonic = "egg magic solid pair tragic supreme artefact chaos debate gas street dream";
+var mnemonic = "obvious label labor quiz author fiber wink buffalo live journey poverty smooth";

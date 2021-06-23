@@ -1,1 +1,1 @@
-var mnemonic = "fog corn wreck put portion early orient also pigeon fire absurd quit";
+var mnemonic = "reunion wrong song fashion answer cupboard couple secret range document boss grain";

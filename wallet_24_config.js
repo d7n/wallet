@@ -1,1 +1,1 @@
-var mnemonic = "outer box feature tuition art advice virus breeze cattle tide proud arena";
+var mnemonic = "adult invite slice oven chalk adult claim describe normal gadget play pepper";

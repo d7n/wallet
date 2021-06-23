@@ -1,1 +1,1 @@
-var mnemonic = "country tennis wear gentle resist debris reflect weapon small endorse tag pepper";
+var mnemonic = "steel armed celery stay host dentist since rice stock skin crane convince";

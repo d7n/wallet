@@ -1,1 +1,1 @@
-var mnemonic = "below buddy opera confirm secret medal aisle page junior fog crew outdoor";
+var mnemonic = "animal course olive hint proud yellow near drift vague raccoon embrace enlist";

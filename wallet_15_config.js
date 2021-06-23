@@ -1,1 +1,1 @@
-var mnemonic = "cousin iron patient slender matter expand actress icon slice double moment roof";
+var mnemonic = "produce cable wine husband elegant patient ecology tribe use amazing cable clock";

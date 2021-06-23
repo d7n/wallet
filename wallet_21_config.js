@@ -1,1 +1,1 @@
-var mnemonic = "space misery hub method govern ability problem match frame peasant soccer eternal";
+var mnemonic = "voyage caution brown embrace increase gas treat peasant educate kick fan enforce";

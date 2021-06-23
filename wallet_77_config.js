@@ -1,1 +1,1 @@
-var mnemonic = "weapon various plate inch armor estate parrot myth pupil tray aim point";
+var mnemonic = "will raise noble wall shoot giggle crack area retreat surround crop holiday";

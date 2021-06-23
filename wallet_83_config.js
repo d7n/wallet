@@ -1,1 +1,1 @@
-var mnemonic = "kiss remember lab emerge quarter right diary grain derive assume loop burden";
+var mnemonic = "present act brick tell stereo flip initial elephant alcohol march area claw";

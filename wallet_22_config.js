@@ -1,1 +1,1 @@
-var mnemonic = "depend vocal indoor tired excite armor bomb pattern analyst park moment marriage";
+var mnemonic = "tomato secret doll crush divide local like skin view pond naive menu";

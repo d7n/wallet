@@ -1,1 +1,1 @@
-var mnemonic = "evoke pen fury they negative course frown rescue price teach message nice";
+var mnemonic = "cave gorilla trial flame learn tomorrow decide develop saddle merry thumb gesture";

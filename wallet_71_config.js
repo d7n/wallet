@@ -1,1 +1,1 @@
-var mnemonic = "spray scissors air usage dress lend toy worry bottom top ski lava";
+var mnemonic = "rib come sustain salon meat debate maximum warrior impact pipe lottery slab";

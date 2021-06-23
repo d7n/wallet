@@ -1,1 +1,1 @@
-var mnemonic = "other prize collect fee phrase net voyage despair axis ugly sense spice";
+var mnemonic = "only elder very weather cause more impulse hurry begin install hunt wedding";

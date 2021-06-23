@@ -1,1 +1,1 @@
-var mnemonic = "jealous wrist fog sustain address also circle square lift appear license alert";
+var mnemonic = "action pipe theory online light chair subway major puzzle slow brief noise";

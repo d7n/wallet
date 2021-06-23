@@ -1,1 +1,1 @@
-var mnemonic = "exit script gospel that gather winter oak sell wedding stuff tooth onion";
+var mnemonic = "desk slide vehicle clarify anchor close large habit benefit animal twist mechanic";

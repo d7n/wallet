@@ -1,1 +1,1 @@
-var mnemonic = "file reveal uncover mimic term lava position ugly lock protect trouble gap";
+var mnemonic = "glimpse fox idle nest champion resemble universe twelve jar adjust urban galaxy";

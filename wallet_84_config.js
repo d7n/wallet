@@ -1,1 +1,1 @@
-var mnemonic = "uncover luggage until large artefact float young elevator push peasant comic possible";
+var mnemonic = "ivory crystal shuffle under deposit horse divorce they inspire apple assume tube";

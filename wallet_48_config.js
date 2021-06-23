@@ -1,1 +1,1 @@
-var mnemonic = "rack cycle cruel ceiling wolf satisfy bundle injury theme audit bean draw";
+var mnemonic = "scrub code eagle abandon vicious about need void resource gain soon hotel";

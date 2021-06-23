@@ -1,1 +1,1 @@
-var mnemonic = "paper lab ring outdoor define betray improve initial between injury body surge";
+var mnemonic = "flower spin drive clean worth battle frame pig gasp project whisper amazing";

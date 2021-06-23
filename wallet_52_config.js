@@ -1,1 +1,1 @@
-var mnemonic = "future fall grow mention hint enhance maze cloud nothing pyramid vicious enlist";
+var mnemonic = "unique goose squeeze cannon derive drip give burger enter now knife letter";

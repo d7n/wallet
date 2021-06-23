@@ -1,1 +1,1 @@
-var mnemonic = "boy dismiss excuse dignity burden produce forward region rabbit blame bonus jump";
+var mnemonic = "monkey aerobic erupt scout degree castle guard save question undo original cave";

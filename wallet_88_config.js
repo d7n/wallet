@@ -1,1 +1,1 @@
-var mnemonic = "never weird rail balcony face rookie gesture monster length solar borrow tenant";
+var mnemonic = "program become joke thunder spoon jelly cash make drum okay add ball";

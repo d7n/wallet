@@ -1,1 +1,1 @@
-var mnemonic = "enhance famous unlock scene nature final depth food claim ozone wheat tenant";
+var mnemonic = "soul cactus solve help moment devote twist tent seven boy run dignity";

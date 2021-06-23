@@ -1,1 +1,1 @@
-var mnemonic = "critic sister flag grape stamp shrimp battle game twin lyrics solve buddy";
+var mnemonic = "bitter drip hope space pottery armed oppose lecture million summer since ten";

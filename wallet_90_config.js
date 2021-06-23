@@ -1,1 +1,1 @@
-var mnemonic = "bunker write idle valve custom umbrella dawn cute spider grape sting desert";
+var mnemonic = "idea stick unable ten bundle mention any beef harbor afford thank rigid";

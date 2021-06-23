@@ -1,1 +1,1 @@
-var mnemonic = "figure wheat bronze bamboo flavor library column worry mention art loud volcano";
+var mnemonic = "panel staff crater shove lobster section slender junk visual estate little web";

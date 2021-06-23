@@ -1,1 +1,1 @@
-var mnemonic = "ostrich combine finger defy web own column produce sausage brick true error";
+var mnemonic = "sick drip there wrist disease ritual math order gap exit knee conduct";

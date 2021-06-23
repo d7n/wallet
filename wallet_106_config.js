@@ -1,1 +1,1 @@
-var mnemonic = "utility reunion shallow transfer treat design trap blossom green nominee minor rate";
+var mnemonic = "robust denial spider ripple approve embark control lab stairs raccoon surge target";

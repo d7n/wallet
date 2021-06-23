@@ -1,1 +1,1 @@
-var mnemonic = "toward mechanic circle right dinosaur tide jaguar over danger horse unable second";
+var mnemonic = "rocket tumble certain insect life oven infant zoo before hub angle vacant";

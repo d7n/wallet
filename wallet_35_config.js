@@ -1,1 +1,1 @@
-var mnemonic = "eight vibrant goddess twice outside sail task swift smile escape game tiger";
+var mnemonic = "output zone reflect throw list whale door draw athlete winner measure clarify";

@@ -1,1 +1,1 @@
-var mnemonic = "maximum enroll absorb need cat gasp toward idle mimic worth monkey foot";
+var mnemonic = "voice blade menu topple rail cable reopen one point bracket cup yard";

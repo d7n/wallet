@@ -1,1 +1,1 @@
-var mnemonic = "cruise drink demand melody dwarf general square luxury fish measure cereal ridge";
+var mnemonic = "oblige bonus student resemble virtual pool basket entire aunt corn renew employ";

@@ -1,1 +1,1 @@
-var mnemonic = "ginger inhale scout fault expect autumn pet swift feel increase regret fossil";
+var mnemonic = "truth bulk inform tree history about mystery chronic miss vote sound thing";

@@ -1,1 +1,1 @@
-var mnemonic = "bring patrol bachelor beef okay segment stuff erase soup duty crumble waste";
+var mnemonic = "runway city guitar artwork rotate canoe raccoon witness divorce raven property woman";

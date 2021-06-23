@@ -1,1 +1,1 @@
-var mnemonic = "nation predict else panel pipe infant fetch sudden often course group tourist";
+var mnemonic = "penalty cigar wife ten critic emotion brief penalty mix suggest race giant";

@@ -1,1 +1,1 @@
-var mnemonic = "hard emerge slight effort page glance turn soft advance industry street develop";
+var mnemonic = "define you surround tornado electric loyal radio pupil hazard cake finish outer";

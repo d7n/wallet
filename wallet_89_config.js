@@ -1,1 +1,1 @@
-var mnemonic = "yellow surge vague anger train runway enable what monster labor purpose myself";
+var mnemonic = "amateur address frame enlist problem custom diary pulp hurdle october oil morning";

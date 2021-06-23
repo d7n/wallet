@@ -1,1 +1,1 @@
-var mnemonic = "nasty truly net leopard sense obey brain supply float sustain trick rapid";
+var mnemonic = "wrist fancy such budget pluck relief ecology empower unaware sponsor fit devote";

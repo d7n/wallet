@@ -1,1 +1,1 @@
-var mnemonic = "spike blanket secret green rice address speak gasp ketchup journey alien case";
+var mnemonic = "into game kind narrow view squirrel sense afraid melt oppose flip betray";

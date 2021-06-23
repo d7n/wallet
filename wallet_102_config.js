@@ -1,1 +1,1 @@
-var mnemonic = "capable keep dynamic spend pudding alcohol foam collect city evoke base bonus";
+var mnemonic = "jazz scout dismiss voyage truth blossom neglect shoe tag toe ancient owner";

@@ -1,1 +1,1 @@
-var mnemonic = "atom screen kingdom boost car distance stumble junk scan music wait ordinary";
+var mnemonic = "vacant saddle major real move fame rough village secret pottery split border";

@@ -1,1 +1,1 @@
-var mnemonic = "maple window yellow please such cram primary prepare bean prefer devote casual";
+var mnemonic = "select taxi discover danger define tunnel lesson silent admit valid pole wealth";

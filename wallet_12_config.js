@@ -1,1 +1,1 @@
-var mnemonic = "depend absorb sick height pulp boy start system help pistol scorpion cliff";
+var mnemonic = "bachelor wash bring filter perfect evolve bomb grief feature supply situate calm";

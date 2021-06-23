@@ -1,1 +1,1 @@
-var mnemonic = "great frog speak boost scorpion vicious actress dilemma problem nut retreat remember";
+var mnemonic = "chief only habit giraffe sister ginger dilemma extra panic verify orient curtain";

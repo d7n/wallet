@@ -1,1 +1,1 @@
-var mnemonic = "drill liar embrace trumpet nice rapid skirt abandon float business arm list";
+var mnemonic = "enrich rebuild enough atom viable heart purse accident weapon eye protect bronze";

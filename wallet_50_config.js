@@ -1,1 +1,1 @@
-var mnemonic = "whale keen beef tuna shadow route junior brick security ranch obtain latin";
+var mnemonic = "boil jungle rent later able mountain resist era cup tray busy split";

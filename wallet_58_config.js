@@ -1,1 +1,1 @@
-var mnemonic = "focus man super weapon silk cheese denial patch pink hard convince animal";
+var mnemonic = "chat estate discover evidence hurt sign fluid angle ill correct boy fit";

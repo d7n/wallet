@@ -1,1 +1,1 @@
-var mnemonic = "success holiday retire globe fee soup drip afraid retreat fresh type portion";
+var mnemonic = "list planet tired sorry across holiday arena inhale online accident permit catch";

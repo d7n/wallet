@@ -1,1 +1,1 @@
-var mnemonic = "push reveal truck scene nation clutch vessel avocado drip power stuff topple";
+var mnemonic = "page sponsor useful million biology mother ring crane autumn belt slush hold";

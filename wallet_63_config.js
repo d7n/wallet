@@ -1,1 +1,1 @@
-var mnemonic = "capital alter sock photo theory vapor answer fiber sentence general update lobster";
+var mnemonic = "follow clay above street cup polar arctic icon acid fix load library";

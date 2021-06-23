@@ -1,1 +1,1 @@
-var mnemonic = "shaft pistol across concert source range museum pause switch grab profit hub";
+var mnemonic = "lake recall liar unique cruel below desk bomb together then indoor rent";

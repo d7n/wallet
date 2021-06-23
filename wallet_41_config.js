@@ -1,1 +1,1 @@
-var mnemonic = "mother enact twist happy census panel priority essence monster music sell busy";
+var mnemonic = "estate bridge glance end match pear resource infant demand stable human super";

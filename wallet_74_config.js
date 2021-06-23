@@ -1,1 +1,1 @@
-var mnemonic = "hawk exchange priority floor slow assault check weasel pond initial search panic";
+var mnemonic = "aerobic lazy harbor stage direct casual ripple month miss soul weekend impact";

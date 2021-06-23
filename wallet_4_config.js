@@ -1,1 +1,1 @@
-var mnemonic = "limit seminar squeeze eager fan bubble shoulder movie soda blast aerobic become";
+var mnemonic = "coach hello athlete million gravity say orient fox surprise harvest rent enemy";

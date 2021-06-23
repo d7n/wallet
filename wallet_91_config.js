@@ -1,1 +1,1 @@
-var mnemonic = "canoe panel brain improve error game erupt skull marine squeeze mad alter";
+var mnemonic = "library common current lock know forget animal cute left nature jealous day";

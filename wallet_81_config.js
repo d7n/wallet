@@ -1,1 +1,1 @@
-var mnemonic = "ugly floor unfold nation agree burger chuckle manual foam base fun attend";
+var mnemonic = "desk oven ostrich record fit stable list choose surge crater social gadget";

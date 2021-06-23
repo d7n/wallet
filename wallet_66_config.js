@@ -1,1 +1,1 @@
-var mnemonic = "frost lonely effort excess cousin favorite miss polar antique affair pass ankle";
+var mnemonic = "grow long tackle south episode pill physical pond replace can upon caution";

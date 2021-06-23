@@ -1,1 +1,1 @@
-var mnemonic = "scheme imitate heart execute advance almost enroll note base asthma tissue escape";
+var mnemonic = "talent team cotton vital safe grace blast opinion advice rotate anchor day";

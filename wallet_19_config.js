@@ -1,1 +1,1 @@
-var mnemonic = "wedding orange hungry consider behave slogan prison brave frog hurry actress bird";
+var mnemonic = "dinosaur capable try voice hero forum opera head use casual world genuine";

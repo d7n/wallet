@@ -1,1 +1,1 @@
-var mnemonic = "embrace glare outside scale ozone slender person village outside garbage photo food";
+var mnemonic = "obey body stage news sun hotel anchor general vital explain chronic protect";

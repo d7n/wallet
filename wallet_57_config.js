@@ -1,1 +1,1 @@
-var mnemonic = "three tilt relax october cry journey wedding beef lake umbrella oblige inch";
+var mnemonic = "horror bright dutch now library dilemma mammal ahead way put play rotate";
