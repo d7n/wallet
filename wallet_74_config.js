@@ -1,1 +1,1 @@
-var mnemonic = "deer region glide unveil quote museum tell cargo weird media market diary";
+var mnemonic = "oblige define struggle zebra combine beach sock wreck limit item bounce joke";

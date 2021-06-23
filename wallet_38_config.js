@@ -1,1 +1,1 @@
-var mnemonic = "fantasy cluster tomorrow safe shy pony mountain glue require soup apart train";
+var mnemonic = "rabbit when stable lock nurse you panther flight then media mom pitch";

@@ -1,1 +1,1 @@
-var mnemonic = "wrap pen dream gold dignity west amateur cube often box select monster";
+var mnemonic = "impulse impose connect educate divide nephew patient fatal level warrior catalog arrange";

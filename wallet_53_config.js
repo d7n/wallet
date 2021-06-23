@@ -1,1 +1,1 @@
-var mnemonic = "steak post december suspect junior claw proud popular hedgehog risk olympic employ";
+var mnemonic = "outside sauce pledge junior glue square often debris village office device sweet";

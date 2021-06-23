@@ -1,1 +1,1 @@
-var mnemonic = "airport silent beauty win salt radar episode snack heavy drum sausage inquiry";
+var mnemonic = "lake snap void rice tornado source ugly story ozone stem crowd like";

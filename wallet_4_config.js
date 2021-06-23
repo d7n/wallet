@@ -1,1 +1,1 @@
-var mnemonic = "select guard rare goddess blur visual fade soap woman endless spray glue";
+var mnemonic = "cash unable engine audit prefer wagon change sad lazy soccer chunk talent";

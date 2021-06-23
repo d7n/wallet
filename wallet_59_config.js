@@ -1,1 +1,1 @@
-var mnemonic = "portion thumb mass mushroom luggage doll peace large prison rather bless curious";
+var mnemonic = "dress outdoor truck dove match clay erupt wheel daring radio tuition concert";

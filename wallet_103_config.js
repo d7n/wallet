@@ -1,1 +1,1 @@
-var mnemonic = "sound nest wife uniform eternal number glad dune hint river owner amazing";
+var mnemonic = "club horror sleep obvious crouch catalog craft basic dance eight rough napkin";

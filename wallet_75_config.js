@@ -1,1 +1,1 @@
-var mnemonic = "basket lens marine initial consider lock scrap wide tortoise lyrics also turtle";
+var mnemonic = "release corn law title evidence tackle parrot author garden pudding tobacco trip";

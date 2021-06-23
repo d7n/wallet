@@ -1,1 +1,1 @@
-var mnemonic = "tissue myth mail tooth come fence hand first alley outside have tent";
+var mnemonic = "news okay direct trap tattoo debris grant million focus tired model only";

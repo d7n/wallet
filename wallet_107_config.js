@@ -1,1 +1,1 @@
-var mnemonic = "grass lunar clutch else mule feed execute brand camera already blame sight";
+var mnemonic = "source aerobic fringe embrace desert ranch adapt aerobic hundred subject purchase spider";

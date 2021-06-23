@@ -1,1 +1,1 @@
-var mnemonic = "gasp cereal lend network polar snow practice random daughter beauty squirrel shock";
+var mnemonic = "primary swim ribbon arch beach pause shoe bike news pulp check load";

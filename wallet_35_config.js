@@ -1,1 +1,1 @@
-var mnemonic = "crash fitness parrot fiscal tribe faint target assault weasel cream test dizzy";
+var mnemonic = "among lake such chase snap figure salmon perfect major march armor cube";

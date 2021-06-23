@@ -1,1 +1,1 @@
-var mnemonic = "lizard magnet pet net trial pretty pulse doctor screen lens thing home";
+var mnemonic = "heart despair crawl slim cup bonus must bid pause plate bright surround";

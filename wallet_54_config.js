@@ -1,1 +1,1 @@
-var mnemonic = "twist crash horn gown sketch label avocado dad suffer divide sniff index";
+var mnemonic = "spring movie sail chat tortoise begin old process crop diamond road ripple";

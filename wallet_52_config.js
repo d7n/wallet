@@ -1,1 +1,1 @@
-var mnemonic = "catch that sad liberty glad oil elephant whisper useful diamond lobster recall";
+var mnemonic = "drill brave near drum lizard stumble company hawk joy nasty width credit";

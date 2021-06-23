@@ -1,1 +1,1 @@
-var mnemonic = "bargain sudden wreck live lucky sunset wire juice divert life enter join";
+var mnemonic = "sword never hold mutual envelope duty dragon squeeze egg cattle crisp kangaroo";

@@ -1,1 +1,1 @@
-var mnemonic = "kitten blue battle cargo attitude physical nut what clean huge average rigid";
+var mnemonic = "multiply bus object tribe stereo net powder ivory relax meadow silk neck";

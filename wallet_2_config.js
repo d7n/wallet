@@ -1,1 +1,1 @@
-var mnemonic = "express van melody feed vast broken runway alpha gather galaxy vanish combine";
+var mnemonic = "coffee taste cherry clutch easy quit walnut water fan round knee wire";

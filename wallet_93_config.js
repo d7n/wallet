@@ -1,1 +1,1 @@
-var mnemonic = "top edge fragile reunion nerve athlete arctic ready march confirm diary visa";
+var mnemonic = "advice scatter gate gun bitter erode govern fruit impact belt defy hope";

@@ -1,1 +1,1 @@
-var mnemonic = "cancel visit biology caught prosper reduce retreat crater youth park youth world";
+var mnemonic = "rebel anchor toss measure network round cash barrel town north rude depend";

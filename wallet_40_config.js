@@ -1,1 +1,1 @@
-var mnemonic = "earn hunt acid balcony limb injury option search year nose panic master";
+var mnemonic = "stone grit express popular simple damp develop install purse manual huge stone";

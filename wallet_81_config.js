@@ -1,1 +1,1 @@
-var mnemonic = "edge region stomach seminar lizard vote broom segment farm enroll object effort";
+var mnemonic = "sport among tunnel brand sudden addict alcohol focus holiday define priority cram";

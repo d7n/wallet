@@ -1,1 +1,1 @@
-var mnemonic = "travel scene still uphold quality ritual train sing together pool gun calm";
+var mnemonic = "scan ivory pumpkin depth virus velvet drama fitness scrap cloth brain tired";

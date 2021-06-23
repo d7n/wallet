@@ -1,1 +1,1 @@
-var mnemonic = "retire enhance this author exchange coral screen kind offer brisk budget caution";
+var mnemonic = "true crouch speak session pulse barely blouse exclude gesture wait critic whip";

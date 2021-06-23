@@ -1,1 +1,1 @@
-var mnemonic = "reunion spray search off enjoy bulk north repair month subway recall tragic";
+var mnemonic = "clip multiply fruit liberty vote cluster fire despair visual chaos hazard manage";

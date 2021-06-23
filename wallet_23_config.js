@@ -1,1 +1,1 @@
-var mnemonic = "wood pledge quiz reopen team egg fault pyramid ocean noise certain great";
+var mnemonic = "aerobic shallow multiply aunt grass liberty case clump time frozen liberty problem";

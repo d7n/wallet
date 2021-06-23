@@ -1,1 +1,1 @@
-var mnemonic = "tray appear inmate ankle outdoor reform style finish candy bleak front daring";
+var mnemonic = "bacon weird lunch puppy jealous cruise angle tree clarify north bounce light";

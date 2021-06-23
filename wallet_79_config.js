@@ -1,1 +1,1 @@
-var mnemonic = "nation dynamic scale coral argue negative churn fox speed spin pig effort";
+var mnemonic = "disagree diesel season despair primary wrap enhance false earth few begin craft";

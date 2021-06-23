@@ -1,1 +1,1 @@
-var mnemonic = "second match valve field fold rival able pull void brief flame away";
+var mnemonic = "version element during balcony dumb stem matrix bullet alcohol between delay hip";

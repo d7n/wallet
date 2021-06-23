@@ -1,1 +1,1 @@
-var mnemonic = "tackle dress exit mistake match saddle feature vault wife fluid addict success";
+var mnemonic = "mention hobby awake index embark spawn also help embark clip entire skirt";

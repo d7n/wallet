@@ -1,1 +1,1 @@
-var mnemonic = "quality chief decade cluster float fetch argue pioneer apology brush beauty ranch";
+var mnemonic = "orphan clarify unfold hazard bar energy ramp rubber future depth oven castle";

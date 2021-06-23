@@ -1,1 +1,1 @@
-var mnemonic = "angry smart rack capital mountain early submit push risk enhance rich corn";
+var mnemonic = "supply bike crunch behave immune sunny word orphan slush oil analyst crater";

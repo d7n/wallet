@@ -1,1 +1,1 @@
-var mnemonic = "photo divorce solar peasant soda search swing shuffle custom grid able food";
+var mnemonic = "rare eternal wedding when need among keep river worry awful sell large";

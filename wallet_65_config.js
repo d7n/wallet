@@ -1,1 +1,1 @@
-var mnemonic = "hawk tackle ghost asthma flee wash mixed erosion meat leaf junior wine";
+var mnemonic = "tower victory ring place slow twenty iron spread industry pizza over sister";

@@ -1,1 +1,1 @@
-var mnemonic = "emerge order media prosper verb regret impose imitate teach relax work venue";
+var mnemonic = "grass cause napkin race siege one first canal thunder goddess sunny word";

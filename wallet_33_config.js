@@ -1,1 +1,1 @@
-var mnemonic = "will crack tunnel knife celery unusual library spin shallow sight office code";
+var mnemonic = "enlist bulb pink kid food donkey auto educate happy urban push ticket";

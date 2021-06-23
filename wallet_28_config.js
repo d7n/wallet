@@ -1,1 +1,1 @@
-var mnemonic = "degree asthma tooth pencil plunge elder exit hotel reveal spawn brain awesome";
+var mnemonic = "win live weasel cabin gain rate purpose category skate cloud gallery insect";

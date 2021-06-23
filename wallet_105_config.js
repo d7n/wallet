@@ -1,1 +1,1 @@
-var mnemonic = "hobby census nasty buyer season simple write exit recall seven loop equip";
+var mnemonic = "about check element appear cream legal beach evoke turn venture baby romance";

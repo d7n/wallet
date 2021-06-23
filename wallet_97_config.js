@@ -1,1 +1,1 @@
-var mnemonic = "exclude chat rookie session lens poet naive catch advance more capital decline";
+var mnemonic = "embrace mad kit novel exchange cupboard lens shrug flag grape disagree repair";

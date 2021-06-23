@@ -1,1 +1,1 @@
-var mnemonic = "merry wall icon sleep catalog slot equip road hire banner enemy spray";
+var mnemonic = "topple destroy adjust bus dolphin prepare metal erode muscle supreme return invest";

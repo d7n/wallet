@@ -1,1 +1,1 @@
-var mnemonic = "grape track extra palm anchor pottery joy corn breeze squeeze animal snow";
+var mnemonic = "lesson text prepare dose sample topic cash property fame treat speak surprise";

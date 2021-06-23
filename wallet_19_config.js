@@ -1,1 +1,1 @@
-var mnemonic = "system cool news egg move fortune balcony disease brick lounge arena team";
+var mnemonic = "correct language domain render vocal crop trick horse fantasy lounge tired run";

@@ -1,1 +1,1 @@
-var mnemonic = "cloth organ frog job shield science neglect walnut long shaft patch awake";
+var mnemonic = "odor dilemma always blast pudding mind monster cat sniff monster arch ranch";

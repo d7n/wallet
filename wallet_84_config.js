@@ -1,1 +1,1 @@
-var mnemonic = "size speed wave robust climb impact pig sting dwarf deposit next effort";
+var mnemonic = "weather retire always error glow oppose turtle satoshi honey banner type trade";

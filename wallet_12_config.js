@@ -1,1 +1,1 @@
-var mnemonic = "erase yellow zebra assume deer better odor endorse replace cycle vicious clever";
+var mnemonic = "language snow attitude special analyst online soldier seek inside program yellow wrong";

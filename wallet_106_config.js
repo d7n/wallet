@@ -1,1 +1,1 @@
-var mnemonic = "slice company sunset vendor circle fame frequent easily hover sustain title skull";
+var mnemonic = "winter more trap donor grunt tree trap police legal spy globe explain";

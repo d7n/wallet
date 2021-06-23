@@ -1,1 +1,1 @@
-var mnemonic = "grace desk clean staff horse current ill soccer hair crew assume water";
+var mnemonic = "amused because blouse person please social connect transfer double ritual glove mind";

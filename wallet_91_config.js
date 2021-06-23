@@ -1,1 +1,1 @@
-var mnemonic = "prevent betray dose mask dutch topic actor rich curious assault symptom rent";
+var mnemonic = "shadow wise employ cargo people stem unaware rival fitness tool soda pride";

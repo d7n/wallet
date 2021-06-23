@@ -1,1 +1,1 @@
-var mnemonic = "wave faint assume duty town spin tiny now time become poverty august";
+var mnemonic = "issue finish rail lazy fee summer access human gym snake whip disorder";

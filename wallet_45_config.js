@@ -1,1 +1,1 @@
-var mnemonic = "spy live live oblige ankle immense female wire steak write horror harvest";
+var mnemonic = "favorite night answer snow tail label rent march company nurse force vocal";

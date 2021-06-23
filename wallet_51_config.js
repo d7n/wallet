@@ -1,1 +1,1 @@
-var mnemonic = "daughter sand random fruit subway hollow park stove motion inject negative account";
+var mnemonic = "train stage miracle walnut project version still bargain tray angle lens explain";

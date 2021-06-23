@@ -1,1 +1,1 @@
-var mnemonic = "frame soldier stay return monkey chronic family head into differ game sick";
+var mnemonic = "fish orange spin around start pitch glimpse alter burst problem foot seat";

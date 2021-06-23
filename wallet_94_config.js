@@ -1,1 +1,1 @@
-var mnemonic = "throw icon lyrics ridge vote language pioneer april select random enhance course";
+var mnemonic = "people magic novel also immense love permit chair spatial essay joy symptom";

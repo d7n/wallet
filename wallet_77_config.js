@@ -1,1 +1,1 @@
-var mnemonic = "hold muffin trust bread patient robust nose spice bamboo random sketch doctor";
+var mnemonic = "miss arm dilemma hat pioneer destroy opinion history salt keen answer frame";

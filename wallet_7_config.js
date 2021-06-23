@@ -1,1 +1,1 @@
-var mnemonic = "divide veteran fatal seed put draw twist consider leader extra smile void";
+var mnemonic = "awkward crack hockey photo credit all ecology jump achieve fix soul cereal";

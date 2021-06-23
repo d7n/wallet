@@ -1,1 +1,1 @@
-var mnemonic = "total regular what strategy donate budget brave doll diet hundred maze ribbon";
+var mnemonic = "crowd pact birth survey churn all hobby easily economy deer square provide";

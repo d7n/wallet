@@ -1,1 +1,1 @@
-var mnemonic = "cheap beauty arrange resemble crouch tent humor comfort until endorse grant canyon";
+var mnemonic = "opera concert van rude moment tiger total seven message pumpkin cabbage hurdle";

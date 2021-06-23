@@ -1,1 +1,1 @@
-var mnemonic = "course raise test endless laptop genius original foil day cost column hollow";
+var mnemonic = "adapt crash destroy chapter rather tunnel cram shoulder leaf benefit flag toilet";

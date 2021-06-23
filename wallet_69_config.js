@@ -1,1 +1,1 @@
-var mnemonic = "method anger spring grant order settle nest later coyote earn elegant shoot";
+var mnemonic = "provide later normal clarify october dust cherry capital bullet slim toy glue";

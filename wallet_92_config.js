@@ -1,1 +1,1 @@
-var mnemonic = "bind isolate material jaguar menu maze eager rely capable manage guide confirm";
+var mnemonic = "raise bounce region case visual reason actual sleep time accident degree vacuum";

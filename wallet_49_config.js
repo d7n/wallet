@@ -1,1 +1,1 @@
-var mnemonic = "leader alien exclude jewel walnut engage dismiss cannon ethics crisp baby observe";
+var mnemonic = "column roast print satoshi science wool champion use scale science emotion cycle";

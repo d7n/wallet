@@ -1,1 +1,1 @@
-var mnemonic = "cup table glance creek drama control juice idle soup desert jazz protect";
+var mnemonic = "tissue genius tube slide twelve drum tennis service dial phrase dice fantasy";

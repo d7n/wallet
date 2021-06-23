@@ -1,1 +1,1 @@
-var mnemonic = "space curious lazy civil shoe job popular bid tiny scan mimic stool";
+var mnemonic = "knock tank sad trumpet entry misery rabbit convince lesson eye year vehicle";

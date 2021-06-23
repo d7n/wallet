@@ -1,1 +1,1 @@
-var mnemonic = "pulp slab sort course happy chicken warm replace reflect kitten critic improve";
+var mnemonic = "atom swim hurry tank minor census rifle old search rotate they smooth";

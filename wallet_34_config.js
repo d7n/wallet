@@ -1,1 +1,1 @@
-var mnemonic = "wheat very month wear dilemma another analyst exit toss satoshi manage tower";
+var mnemonic = "escape dress fashion medal ancient equip fee ready treat cloud boost impact";

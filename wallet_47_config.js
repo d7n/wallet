@@ -1,1 +1,1 @@
-var mnemonic = "leisure expect brisk vendor rail quit rice fiction small obtain local woman";
+var mnemonic = "supreme cradle flat whisper mimic cause recycle paddle chuckle cactus uncle reform";

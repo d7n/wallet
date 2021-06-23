@@ -1,1 +1,1 @@
-var mnemonic = "auction case fuel champion pear protect already call sheriff social else skin";
+var mnemonic = "catalog feature steel smooth legend kidney gun umbrella speed pluck spawn naive";

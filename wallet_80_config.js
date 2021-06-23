@@ -1,1 +1,1 @@
-var mnemonic = "merge prison gauge goose electric oxygen puppy allow leaf already sustain lumber";
+var mnemonic = "poem kid filter record between eye energy gold reform purity loyal unable";

@@ -1,1 +1,1 @@
-var mnemonic = "age fog thunder riot genius bike marine medal foot tell leisure alarm";
+var mnemonic = "into flush more join hazard alcohol culture maximum stuff fault deal document";

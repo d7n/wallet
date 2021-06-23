@@ -1,1 +1,1 @@
-var mnemonic = "relief secret drop false under again tonight diet vicious submit iron shield";
+var mnemonic = "grant truth foam pulse team clog tired dumb devote journey blossom birth";

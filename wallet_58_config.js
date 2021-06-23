@@ -1,1 +1,1 @@
-var mnemonic = "double disorder away logic perfect bar reunion warrior bring enforce mandate husband";
+var mnemonic = "reward improve crop struggle network burden combine raccoon coast alley frozen jazz";

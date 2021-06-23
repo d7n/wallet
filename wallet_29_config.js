@@ -1,1 +1,1 @@
-var mnemonic = "identify task royal blanket visit seed swallow payment gas wheel guard above";
+var mnemonic = "goddess wall danger figure index phrase winner elder spider wall hold length";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz member chapter tuition prosper aim divorce trade cost pyramid result win";
+var mnemonic = "shuffle road argue today ahead friend chief purse arrest festival skull tiny";

@@ -1,1 +1,1 @@
-var mnemonic = "truck guess meadow spread stadium exact below switch year elephant misery gold";
+var mnemonic = "minute gap odor stable early valley stuff hurdle genuine prize lab pet";

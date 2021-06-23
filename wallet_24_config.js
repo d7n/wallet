@@ -1,1 +1,1 @@
-var mnemonic = "link program cover liar wish fox glue bright design winner replace again";
+var mnemonic = "broccoli twenty siren dignity feel puppy stay river snake frozen fix pumpkin";

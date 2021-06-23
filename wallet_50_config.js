@@ -1,1 +1,1 @@
-var mnemonic = "wreck cheese capable bullet hen seat drop celery donate hair buyer nominee";
+var mnemonic = "oven velvet flush learn fence grief chief leave skirt video autumn monkey";

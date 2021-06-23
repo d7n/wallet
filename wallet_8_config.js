@@ -1,1 +1,1 @@
-var mnemonic = "leg scheme company category keep maze royal leopard pony modify number income";
+var mnemonic = "habit wide library dynamic warm report bitter erupt jacket divide cute live";

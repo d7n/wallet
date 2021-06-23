@@ -1,1 +1,1 @@
-var mnemonic = "mobile crash scrap end letter power brother sense swing search prefer brisk";
+var mnemonic = "wear fish angry spoon program weird lucky deposit require parrot note radar";

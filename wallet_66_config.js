@@ -1,1 +1,1 @@
-var mnemonic = "stumble fatigue fluid rally cereal common payment school organ setup mix melt";
+var mnemonic = "matrix occur uniform pull tooth moral empty bracket carbon kit joke soup";

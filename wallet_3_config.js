@@ -1,1 +1,1 @@
-var mnemonic = "snake judge pull clump patrol cruise silver reduce odor hotel frozen raise";
+var mnemonic = "dolphin letter tone that boil observe know divert harsh shadow carpet mutual";

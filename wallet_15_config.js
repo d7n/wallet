@@ -1,1 +1,1 @@
-var mnemonic = "cost replace demand matter vendor sweet captain thrive saddle pill mouse ten";
+var mnemonic = "skull discover survey unusual hidden banner absurd odor frog pave sibling together";

@@ -1,1 +1,1 @@
-var mnemonic = "swap network ridge horse suit steel shaft jaguar kiss bus dawn they";
+var mnemonic = "axis wine siege wide spray pistol wrestle rule region vocal market yellow";

@@ -1,1 +1,1 @@
-var mnemonic = "retreat cram help empty bright nasty veteran bridge jealous swap again forest";
+var mnemonic = "execute catch spy female trumpet effort before marine monkey collect trash aunt";

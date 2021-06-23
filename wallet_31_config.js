@@ -1,1 +1,1 @@
-var mnemonic = "more antenna deposit cactus puzzle oak solar shift tide purity attend palace";
+var mnemonic = "surround rule stairs antenna enforce slush taxi satisfy brief history fantasy tribe";

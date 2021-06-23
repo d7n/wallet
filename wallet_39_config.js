@@ -1,1 +1,1 @@
-var mnemonic = "truck identify matter favorite impulse joy coral arrange betray pyramid alarm robust";
+var mnemonic = "wrist clever leisure juice submit sweet exercise letter raw squeeze zebra ten";

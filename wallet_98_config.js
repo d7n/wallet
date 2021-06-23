@@ -1,1 +1,1 @@
-var mnemonic = "canyon couple polar usual moral panda favorite edge salad chef fresh cement";
+var mnemonic = "mixed bonus giggle olive whale tattoo coin behind theory vacant elephant tank";

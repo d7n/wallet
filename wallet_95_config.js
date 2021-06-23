@@ -1,1 +1,1 @@
-var mnemonic = "pass soda random use minute embrace raw advice mobile tag enrich hole";
+var mnemonic = "velvet machine taste often stairs radio example exist grit slim moon deal";

@@ -1,1 +1,1 @@
-var mnemonic = "crouch excuse umbrella winter learn meadow screen real husband digital off cliff";
+var mnemonic = "magnet vintage bomb bag witness seek cushion extra entire series congress chaos";

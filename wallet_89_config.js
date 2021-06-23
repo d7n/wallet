@@ -1,1 +1,1 @@
-var mnemonic = "sheriff layer system web bicycle sustain action soon coconut idle arch shift";
+var mnemonic = "burden veteran sand cradle impact enter lonely fiscal pottery sketch soft weather";

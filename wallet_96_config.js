@@ -1,1 +1,1 @@
-var mnemonic = "favorite admit salmon price forget someone sniff luggage knock abandon accident solve";
+var mnemonic = "rough company dragon breeze grow age shift possible chief follow hero grape";

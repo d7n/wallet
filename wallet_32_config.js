@@ -1,1 +1,1 @@
-var mnemonic = "balance retire throw digital carbon uncle fury brown diagram turkey defy hotel";
+var mnemonic = "monkey zoo very twelve hospital jealous hard exotic airport business base render";

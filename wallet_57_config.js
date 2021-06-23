@@ -1,1 +1,1 @@
-var mnemonic = "guard slab equip sponsor crew scorpion pistol upgrade shiver potato impact kick";
+var mnemonic = "snake bitter kitchen dentist team treat fossil hill clog caution rail marine";
