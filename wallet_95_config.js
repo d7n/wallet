@@ -1,1 +1,1 @@
-var mnemonic = "motor lady defy push spring solar under stove leopard topic club same";
+var mnemonic = "metal figure august top library head genre story crack glide wine print";

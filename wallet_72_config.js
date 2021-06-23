@@ -1,1 +1,1 @@
-var mnemonic = "panel ladder truth boat liquid test enough uncover grief venue wear weekend";
+var mnemonic = "cause round boss live nature vendor blame prevent hood spatial praise abstract";

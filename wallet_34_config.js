@@ -1,1 +1,1 @@
-var mnemonic = "unfair critic reward trash fish unlock task witness lift year liberty decrease";
+var mnemonic = "uncle trigger knife pony ordinary net employ rather gasp collect time key";

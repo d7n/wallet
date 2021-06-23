@@ -1,1 +1,1 @@
-var mnemonic = "chat garbage assist orbit joy glide shell fortune private kitchen blossom retire";
+var mnemonic = "busy doll effort baby extra eager nephew loyal aisle height omit interest";

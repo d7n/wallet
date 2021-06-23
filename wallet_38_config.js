@@ -1,1 +1,1 @@
-var mnemonic = "baby abandon concert zoo olive sugar state error sound point comic social";
+var mnemonic = "exercise jelly doctor renew loan left peace switch jump notable clean rate";

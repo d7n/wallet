@@ -1,1 +1,1 @@
-var mnemonic = "crisp casual chunk faith embrace rose bone pattern short knock answer screen";
+var mnemonic = "essence era off various journey absent oil define blanket logic spy soldier";

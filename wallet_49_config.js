@@ -1,1 +1,1 @@
-var mnemonic = "eternal flee mango party margin fault donor page rely twin bullet page";
+var mnemonic = "mixed manual soccer poet dad critic version young beyond farm spawn illness";

@@ -1,1 +1,1 @@
-var mnemonic = "call echo elevator spoil fiscal bulk price wear ankle only ostrich empty";
+var mnemonic = "weird useful also squirrel design owner inner coast stay weapon copy snack";

@@ -1,1 +1,1 @@
-var mnemonic = "dirt nuclear talent all topic donate illness neutral sheriff must small divert";
+var mnemonic = "obscure shock manage brush today outer plate pattern trick subway deliver carpet";

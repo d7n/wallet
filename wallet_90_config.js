@@ -1,1 +1,1 @@
-var mnemonic = "essence side demise exchange effort rose bitter raven educate hard budget mandate";
+var mnemonic = "pioneer chicken inner kitten spot grass save ignore width dismiss portion one";

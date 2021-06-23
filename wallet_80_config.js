@@ -1,1 +1,1 @@
-var mnemonic = "enlist slide erupt family recall unique gaze man barely elite inch dizzy";
+var mnemonic = "awful upper trap pool chimney angle decline goat inform will sand wash";

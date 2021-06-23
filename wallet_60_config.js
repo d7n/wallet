@@ -1,1 +1,1 @@
-var mnemonic = "foam neck input erase erode heart lend garden cross march boost range";
+var mnemonic = "insect argue milk skate ritual wide void math concert access laugh thunder";

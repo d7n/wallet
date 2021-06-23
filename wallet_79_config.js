@@ -1,1 +1,1 @@
-var mnemonic = "book wage art gospel cement ostrich clock artwork boring dish door suffer";
+var mnemonic = "defense sun evil saddle health auto begin snake rifle child click kingdom";

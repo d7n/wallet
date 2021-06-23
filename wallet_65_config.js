@@ -1,1 +1,1 @@
-var mnemonic = "have sign hidden umbrella hero guard tattoo jump barely category fever clip";
+var mnemonic = "mercy milk smile gas expire auction grape hundred north gold dove surface";

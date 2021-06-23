@@ -1,1 +1,1 @@
-var mnemonic = "drip sea permit fade basket breeze claw fine bottom profit occur what";
+var mnemonic = "venture leaf silent scrap frost high proof skull trick bulk soon shift";

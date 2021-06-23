@@ -1,1 +1,1 @@
-var mnemonic = "head glory scrub smoke journey milk reform lottery follow diamond onion month";
+var mnemonic = "battle doctor guide prosper account alert tunnel valid immense field arrow uphold";

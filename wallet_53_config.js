@@ -1,1 +1,1 @@
-var mnemonic = "fantasy figure sure unit orchard mother cruel same drive emotion victory oval";
+var mnemonic = "stamp install file minute magic lunch room glue impulse chimney arm dance";

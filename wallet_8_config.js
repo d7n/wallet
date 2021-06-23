@@ -1,1 +1,1 @@
-var mnemonic = "snack mention funny garment fog bundle bunker surprise gym vacuum until margin";
+var mnemonic = "track brother thing mercy swamp correct universe surge drip chalk cupboard together";

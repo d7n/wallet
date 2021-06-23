@@ -1,1 +1,1 @@
-var mnemonic = "kiwi save walnut atom favorite badge bone syrup reject rug ceiling category";
+var mnemonic = "nation famous mix tube salon fashion tooth banner tool bomb beauty wall";

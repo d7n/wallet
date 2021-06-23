@@ -1,1 +1,1 @@
-var mnemonic = "east aisle denial repeat holiday announce diagram palm endless rice bamboo swift";
+var mnemonic = "banner panther desert borrow excite radar monster people master bunker color interest";

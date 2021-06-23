@@ -1,1 +1,1 @@
-var mnemonic = "build recycle auction brass report hero depth thing stamp dose please buffalo";
+var mnemonic = "anxiety junior butter loan print bonus state crew neck candy purpose divide";

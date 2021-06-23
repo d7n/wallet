@@ -1,1 +1,1 @@
-var mnemonic = "before satoshi they season volume above salute educate bundle idea bid asset";
+var mnemonic = "evidence garage question loan cash camp hunt observe fade unlock crack shoe";

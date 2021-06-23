@@ -1,1 +1,1 @@
-var mnemonic = "cycle casual mouse pulse super case pipe slogan arrest novel lyrics include";
+var mnemonic = "empower detail below coil scale fire menu around helmet title genre repair";

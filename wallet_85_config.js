@@ -1,1 +1,1 @@
-var mnemonic = "absent remember face happy utility elder hint sort alley rent juice oyster";
+var mnemonic = "order topple depend patient laundry sure twenty logic antenna ranch inhale rigid";

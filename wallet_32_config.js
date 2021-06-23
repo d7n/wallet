@@ -1,1 +1,1 @@
-var mnemonic = "upper era kiss exercise dish cash bench census volume lunar permit cross";
+var mnemonic = "reform patient sword carbon vessel feed clock grant eight chuckle brass bag";

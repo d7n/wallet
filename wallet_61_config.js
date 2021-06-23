@@ -1,1 +1,1 @@
-var mnemonic = "border insect rent inquiry pull risk mercy random tool stairs acoustic wolf";
+var mnemonic = "ecology cute flock asset history bargain rent scissors deposit pet famous spatial";

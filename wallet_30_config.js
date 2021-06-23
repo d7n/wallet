@@ -1,1 +1,1 @@
-var mnemonic = "hero expire pencil bitter unusual cave deliver glory size merge grit shop";
+var mnemonic = "win depart joke fetch smoke level that group coil clip spoil street";

@@ -1,1 +1,1 @@
-var mnemonic = "result ribbon wasp wood noodle shoulder select glue vicious truly vivid yellow";
+var mnemonic = "dose fall churn dizzy gossip poet bag candy arm desk absorb helmet";

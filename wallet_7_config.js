@@ -1,1 +1,1 @@
-var mnemonic = "anchor discover sustain render amazing nothing girl cup repair spider filter change";
+var mnemonic = "brief doctor lunch smile wheat unaware gloom noble shop wild finish language";

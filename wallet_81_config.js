@@ -1,1 +1,1 @@
-var mnemonic = "tenant always dinosaur price pulp vocal lottery differ leopard above roast ramp";
+var mnemonic = "lyrics fragile eager subject moment marble wool vacuum horror enlist broken round";

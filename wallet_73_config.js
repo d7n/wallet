@@ -1,1 +1,1 @@
-var mnemonic = "just flag ketchup hire warfare wear zone amused fashion divorce desert expose";
+var mnemonic = "label stamp guide also senior seed tone click purpose notable bring mail";

@@ -1,1 +1,1 @@
-var mnemonic = "laptop erupt penalty tide box load such brand clay roof atom dismiss";
+var mnemonic = "subject spare laugh avocado scale cage replace capital token they assault search";

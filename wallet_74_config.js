@@ -1,1 +1,1 @@
-var mnemonic = "loud scrap galaxy fly receive term inquiry life novel fortune panda clever";
+var mnemonic = "banana crack teach infant market private similar innocent always erupt crop million";

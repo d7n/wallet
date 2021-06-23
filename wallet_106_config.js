@@ -1,1 +1,1 @@
-var mnemonic = "dinner water fruit weather visa enough sweet segment artist bulb prepare decline";
+var mnemonic = "damp gap damage margin ice pulp scan chaos clog tennis dice coin";

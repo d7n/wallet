@@ -1,1 +1,1 @@
-var mnemonic = "primary rocket glass first flip region bring exotic kid slam about save";
+var mnemonic = "airport reopen error float kidney illegal honey above traffic endorse fox oil";

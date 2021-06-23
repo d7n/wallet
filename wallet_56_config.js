@@ -1,1 +1,1 @@
-var mnemonic = "armor share coin august phrase inside basic jaguar museum moment junior struggle";
+var mnemonic = "tree present trumpet payment point luggage fun shrug face element genius pave";

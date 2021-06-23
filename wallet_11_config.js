@@ -1,1 +1,1 @@
-var mnemonic = "wear response oxygen climb lift horror afford bless during amateur cattle fold";
+var mnemonic = "celery head disorder sponsor fold tree purse insect rifle service toilet mandate";

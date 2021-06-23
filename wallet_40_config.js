@@ -1,1 +1,1 @@
-var mnemonic = "stage worry pupil coast ramp pond peasant clerk dust relief mention silent";
+var mnemonic = "later fee bench puppy leopard code list ozone betray insect legal license";

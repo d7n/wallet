@@ -1,1 +1,1 @@
-var mnemonic = "ramp latin glance enact boring scan knee lizard kidney elbow answer vocal";
+var mnemonic = "label forest corn cruise celery drama frequent magic age soap embark few";

@@ -1,1 +1,1 @@
-var mnemonic = "narrow web degree turtle repair family cross story army setup spice expose";
+var mnemonic = "flush season journey immune two suspect buzz kid option faith shoulder author";

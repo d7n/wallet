@@ -1,1 +1,1 @@
-var mnemonic = "boss flame gasp fade company brush fuel photo chief high memory sail";
+var mnemonic = "toast blouse assault echo physical into travel knife woman hill fly bargain";

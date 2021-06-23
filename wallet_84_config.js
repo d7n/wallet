@@ -1,1 +1,1 @@
-var mnemonic = "few chair skin casino lake ribbon sense rebuild roast notice paper innocent";
+var mnemonic = "ancient fruit tired spatial method unfold genuine hawk mixed shrimp rough remember";

@@ -1,1 +1,1 @@
-var mnemonic = "potato caught throw plug phone rifle claw wisdom gravity repeat narrow mechanic";
+var mnemonic = "burger fury practice drop tourist forest visit captain dismiss umbrella hungry hat";

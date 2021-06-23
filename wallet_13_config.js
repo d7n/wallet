@@ -1,1 +1,1 @@
-var mnemonic = "truly robust demand fitness gorilla cave either excuse advance buddy toilet miss";
+var mnemonic = "liberty choose avoid tobacco remind hobby edit step pipe shaft vapor lobster";

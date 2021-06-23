@@ -1,1 +1,1 @@
-var mnemonic = "broken response prize wing spoon cost decorate leave steel discover recall salt";
+var mnemonic = "impact scrap phrase danger daughter say option bulb denial genius logic badge";

@@ -1,1 +1,1 @@
-var mnemonic = "breeze tag dinner can broom human fiber snake follow wink domain laundry";
+var mnemonic = "hub tunnel door dream uphold place stay shop report often firm action";

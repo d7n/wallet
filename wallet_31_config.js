@@ -1,1 +1,1 @@
-var mnemonic = "vivid seat original knife cloud current erode coffee normal north bulk polar";
+var mnemonic = "return rice beach vendor demand toe almost loyal panther window credit ordinary";

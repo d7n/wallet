@@ -1,1 +1,1 @@
-var mnemonic = "large wrong subject soup spirit gorilla deliver inform sock thrive broccoli olympic";
+var mnemonic = "area waste history jeans expire accuse rail visit bleak half steak panel";

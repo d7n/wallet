@@ -1,1 +1,1 @@
-var mnemonic = "regular square decorate lazy hood monitor false shine raven bone satisfy reduce";
+var mnemonic = "capable crunch van when surround later always outer claim develop practice coin";

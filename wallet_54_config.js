@@ -1,1 +1,1 @@
-var mnemonic = "prevent leave grief asthma patrol park table door shiver recipe essence love";
+var mnemonic = "nuclear used harbor trouble useless grid screen eager net present ski script";

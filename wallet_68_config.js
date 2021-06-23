@@ -1,1 +1,1 @@
-var mnemonic = "insane orphan cook smoke organ puppy track vacant can vapor coyote corn";
+var mnemonic = "air inmate mammal bicycle blue gloom ice glance hedgehog frequent must present";

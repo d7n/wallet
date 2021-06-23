@@ -1,1 +1,1 @@
-var mnemonic = "wool uncle must alley velvet dwarf balance vendor tide define flee jar";
+var mnemonic = "ramp west major fine syrup head essay bottom scatter panda bottom level";

@@ -1,1 +1,1 @@
-var mnemonic = "tray input turkey vast ritual grab century outer service own concert casual";
+var mnemonic = "say punch spy frozen release oyster combine utility feed genre giggle wrestle";

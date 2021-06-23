@@ -1,1 +1,1 @@
-var mnemonic = "oxygen repeat dismiss appear lady enrich various company design morning announce rapid";
+var mnemonic = "distance profit bulb hood eight flee stand rare current strategy thought ranch";

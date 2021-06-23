@@ -1,1 +1,1 @@
-var mnemonic = "awkward castle lunar casino injury cupboard anchor neglect suffer perfect ribbon file";
+var mnemonic = "devote useful mail pen spend tortoise stomach top royal auction top oval";

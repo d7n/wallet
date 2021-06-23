@@ -1,1 +1,1 @@
-var mnemonic = "wool remind blast wrap maximum alert avocado bird settle staff twin hotel";
+var mnemonic = "inject various math spin benefit fine grit vast barrel apart eight wedding";

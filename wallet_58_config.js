@@ -1,1 +1,1 @@
-var mnemonic = "faint tomorrow brain produce path regret post slim banner fat tape also";
+var mnemonic = "visa walnut rude cook album tragic bullet shallow youth attract voice feel";

@@ -1,1 +1,1 @@
-var mnemonic = "electric news gesture wheel dash zone crash peasant evidence ahead accident century";
+var mnemonic = "youth gym frog dress file mercy cricket orange evoke lift pyramid can";

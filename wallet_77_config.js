@@ -1,1 +1,1 @@
-var mnemonic = "wage swap crunch chapter desk accuse define suffer ivory stuff story return";
+var mnemonic = "wasp core staff steak fringe acoustic metal gorilla middle agent erupt lava";

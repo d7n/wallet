@@ -1,1 +1,1 @@
-var mnemonic = "cry comic soup cook electric alcohol layer step rifle innocent elite air";
+var mnemonic = "mind road voyage shift smile rely public bargain surge sign west feel";

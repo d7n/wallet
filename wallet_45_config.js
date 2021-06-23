@@ -1,1 +1,1 @@
-var mnemonic = "track gate home bid luggage field punch during rural inch feel erase";
+var mnemonic = "print wear daughter scene cement market reduce island remember fever critic over";

@@ -1,1 +1,1 @@
-var mnemonic = "multiply claim ivory remind crush allow bless enact home aisle six cement";
+var mnemonic = "vessel offer method sick enough nurse banner stick fashion mountain bread offer";

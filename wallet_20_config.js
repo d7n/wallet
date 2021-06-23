@@ -1,1 +1,1 @@
-var mnemonic = "chef police impact relief mask sphere mad enrich shove flock region tongue";
+var mnemonic = "staff permit spring advance win wage ocean stadium another web primary brick";

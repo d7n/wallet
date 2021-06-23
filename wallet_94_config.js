@@ -1,1 +1,1 @@
-var mnemonic = "inquiry tiny ridge cake media solution trend electric hub myth appear else";
+var mnemonic = "airport pair culture pledge strategy pencil quiz seat kiss foster peasant nest";

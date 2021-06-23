@@ -1,1 +1,1 @@
-var mnemonic = "minor wagon wasp rack layer thumb industry eagle stay meadow sentence rural";
+var mnemonic = "stable problem escape churn powder weekend tennis physical another action tent spoil";

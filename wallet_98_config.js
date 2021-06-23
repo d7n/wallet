@@ -1,1 +1,1 @@
-var mnemonic = "wave farm describe method evil biology unhappy property chalk rabbit clutch web";
+var mnemonic = "orange excess track neck lazy essence winter laptop main mobile race steel";

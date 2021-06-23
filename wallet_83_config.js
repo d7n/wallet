@@ -1,1 +1,1 @@
-var mnemonic = "account frog frog dinosaur security cup shove pupil humble anchor moment service";
+var mnemonic = "winner clap soup mouse ankle maple elbow must brush what differ cycle";

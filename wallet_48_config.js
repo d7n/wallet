@@ -1,1 +1,1 @@
-var mnemonic = "imitate connect program memory layer liquid plastic copy elegant stable female twice";
+var mnemonic = "high mouse brief tourist absorb cement end auto tone visa cricket amused";

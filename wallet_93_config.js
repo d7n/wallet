@@ -1,1 +1,1 @@
-var mnemonic = "ankle universe luggage settle panda provide nice trap length blade try throw";
+var mnemonic = "dragon airport sunny slice glove enhance razor multiply proud clown brush oblige";

@@ -1,1 +1,1 @@
-var mnemonic = "boring follow vocal pair author juice artefact version axis steak neutral between";
+var mnemonic = "affair carry collect modify menu pink industry love drastic step emotion pact";

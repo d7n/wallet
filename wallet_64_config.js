@@ -1,1 +1,1 @@
-var mnemonic = "flip close solar lawn real reason draw render penalty patch sentence edit";
+var mnemonic = "apology empower summer one blanket error cheese pipe chair miracle lock exchange";

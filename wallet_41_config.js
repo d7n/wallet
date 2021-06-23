@@ -1,1 +1,1 @@
-var mnemonic = "minimum code adjust horse include left tobacco grow rate circle program lab";
+var mnemonic = "payment pony loud know nothing inner castle abandon metal luggage grape ginger";

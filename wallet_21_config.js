@@ -1,1 +1,1 @@
-var mnemonic = "affair cook face web please glory enhance juice nasty rigid spawn accuse";
+var mnemonic = "sell rug bean broccoli recall parrot section organ bar utility gauge sadness";

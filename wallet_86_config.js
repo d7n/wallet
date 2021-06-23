@@ -1,1 +1,1 @@
-var mnemonic = "fun grace nation agree census abuse version link river release salon spread";
+var mnemonic = "fun swing park argue ill sound become battle daring opinion foil journey";

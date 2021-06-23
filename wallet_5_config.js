@@ -1,1 +1,1 @@
-var mnemonic = "fog elegant coffee square short cash surge senior diamond provide shoulder visa";
+var mnemonic = "drift cat tilt trim pudding broom want decrease visual brain quick cool";

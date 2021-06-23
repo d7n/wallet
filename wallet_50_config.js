@@ -1,1 +1,1 @@
-var mnemonic = "cat lunch expand fiscal amount quit solution sheriff fever spider chest where";
+var mnemonic = "useless road present danger tribe world steak theme prize educate attack author";

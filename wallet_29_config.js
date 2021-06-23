@@ -1,1 +1,1 @@
-var mnemonic = "rain metal reward panda ring dawn head between talk apology office friend";
+var mnemonic = "carry common hurdle ripple apart kitten erase shove dash inner swift head";

@@ -1,1 +1,1 @@
-var mnemonic = "magic soul sand service town illness finger fun define mistake few staff";
+var mnemonic = "embark trophy danger apple buzz start tragic outer old affair west rate";

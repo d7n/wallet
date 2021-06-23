@@ -1,1 +1,1 @@
-var mnemonic = "brief reveal apology approve title celery spawn arrest switch spring arm siren";
+var mnemonic = "mutual dove strong napkin nuclear dream solid night net hole goat math";

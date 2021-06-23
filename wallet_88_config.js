@@ -1,1 +1,1 @@
-var mnemonic = "safe arrive average hobby imitate advance moral coral spice sell once anchor";
+var mnemonic = "gift owner certain urban raw vicious bachelor major record citizen mean toy";

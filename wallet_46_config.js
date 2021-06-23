@@ -1,1 +1,1 @@
-var mnemonic = "certain student onion pepper wild fringe example develop skull fee fringe yellow";
+var mnemonic = "army notable rib fashion similar host joy spoon deny swallow door view";

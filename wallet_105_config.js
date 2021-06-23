@@ -1,1 +1,1 @@
-var mnemonic = "apology say ceiling load people grape churn invest possible right task dash";
+var mnemonic = "group cigar pear random refuse love spoil emerge mango dumb knife course";

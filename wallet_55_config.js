@@ -1,1 +1,1 @@
-var mnemonic = "parrot table fringe diary pole grocery include spot senior motion security upset";
+var mnemonic = "mixture merry shiver game comic lamp spawn scrub flip ostrich lift risk";

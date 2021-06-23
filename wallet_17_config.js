@@ -1,1 +1,1 @@
-var mnemonic = "disease decide lounge wedding gas jacket invite crowd airport bundle fork absent";
+var mnemonic = "guilt source hub either rookie judge deposit select yellow tail sail road";

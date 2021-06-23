@@ -1,1 +1,1 @@
-var mnemonic = "mass pigeon connect easily awkward behind robust black nation very visit monitor";
+var mnemonic = "cram buffalo garlic hedgehog dutch author define hero sustain vast inspire quick";

@@ -1,1 +1,1 @@
-var mnemonic = "couple husband hire noble venture basic neck forward deposit route treat industry";
+var mnemonic = "deer cannon captain furnace disagree upgrade dentist vague outside frame radar faculty";

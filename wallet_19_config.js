@@ -1,1 +1,1 @@
-var mnemonic = "faint earn seven exclude guide trophy alley tip sand output penalty organ";
+var mnemonic = "tube glide expand demise nasty please project model prevent void enroll swift";

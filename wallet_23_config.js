@@ -1,1 +1,1 @@
-var mnemonic = "embrace lend axis immune tribe rain sport keep nice pattern reject dance";
+var mnemonic = "hand trade ugly opinion country wreck ribbon faith leader lens fun add";

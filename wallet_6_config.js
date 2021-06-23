@@ -1,1 +1,1 @@
-var mnemonic = "fever digital remember hockey dolphin menu asset peace light dwarf deliver cotton";
+var mnemonic = "exist pool milk pet unit bonus canal burger modify knife royal alert";

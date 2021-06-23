@@ -1,1 +1,1 @@
-var mnemonic = "jar milk hundred crumble employ duty inmate mistake truck beef tourist wolf";
+var mnemonic = "dinosaur power coyote over differ fresh law fatal fuel lounge emerge valid";

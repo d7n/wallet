@@ -1,1 +1,1 @@
-var mnemonic = "wait mutual must disorder boat stamp pyramid morning woman goat innocent tiny";
+var mnemonic = "fun reduce tell execute rookie theme decorate volume cube offer just mutual";

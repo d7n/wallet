@@ -1,1 +1,1 @@
-var mnemonic = "trick laugh song moral verb switch caution adjust thank enough iron attitude";
+var mnemonic = "tourist draw switch pigeon bonus beach goose firm soul primary zero elephant";
