@@ -1,1 +1,1 @@
-var mnemonic = "priority party matter lawn void license inmate perfect chief ritual rail exotic";
+var mnemonic = "vehicle ski reduce federal cannon need monster ski expand desert illegal lonely";

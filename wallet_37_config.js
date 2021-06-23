@@ -1,1 +1,1 @@
-var mnemonic = "acid vibrant quantum review dumb game hybrid steak bind twin top repair";
+var mnemonic = "private olive argue sea emotion local enjoy marriage flip organ monster cause";

@@ -1,1 +1,1 @@
-var mnemonic = "upper tackle truly loop taxi fox trial power hour gold poet tilt";
+var mnemonic = "ankle bulb giraffe cycle decline bronze olive argue memory flower blame second";

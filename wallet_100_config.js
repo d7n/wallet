@@ -1,1 +1,1 @@
-var mnemonic = "easily private home palace security miss predict disorder siren canyon legal fit";
+var mnemonic = "corn language drastic lion deliver dignity digital address alpha east approve burden";

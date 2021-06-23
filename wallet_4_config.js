@@ -1,1 +1,1 @@
-var mnemonic = "quantum fiscal enable basic novel group symptom slow virus view desk trigger";
+var mnemonic = "foam receive meadow load gas correct noodle pull limb innocent phrase inquiry";

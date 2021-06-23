@@ -1,1 +1,1 @@
-var mnemonic = "arrive parent library surge profit spider circle episode mom guard coral siren";
+var mnemonic = "slide concert current have solution gravity few farm shoulder place culture oval";

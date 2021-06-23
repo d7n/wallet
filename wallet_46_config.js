@@ -1,1 +1,1 @@
-var mnemonic = "bachelor hint advance there cram camp opera bulk unfair index predict deposit";
+var mnemonic = "erode supply ride bleak earn comic pencil found brother risk carry lyrics";

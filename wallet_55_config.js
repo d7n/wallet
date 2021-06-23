@@ -1,1 +1,1 @@
-var mnemonic = "deputy zoo bring mechanic radar apart praise sing nest vocal demise remain";
+var mnemonic = "ripple swarm arrive kitten pelican key blue poem mule story very carbon";

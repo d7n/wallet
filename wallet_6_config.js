@@ -1,1 +1,1 @@
-var mnemonic = "impact man wear reward burst firm horror unfair mouse diamond tobacco announce";
+var mnemonic = "rain leaf ghost lock bridge sting uniform loyal phone display copper there";

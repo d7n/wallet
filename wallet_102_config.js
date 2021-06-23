@@ -1,1 +1,1 @@
-var mnemonic = "citizen dance discover medal topple hip frost stem time human pear keep";
+var mnemonic = "birth chunk produce desk craft hub accuse mixed person delay hard know";

@@ -1,1 +1,1 @@
-var mnemonic = "unit peasant brave ball spend dwarf giggle wire tunnel skirt milk try";
+var mnemonic = "police arena lady easy sustain kitten chimney thumb entire truck vacant color";

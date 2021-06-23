@@ -1,1 +1,1 @@
-var mnemonic = "hurdle promote affair festival else idle bicycle teach visual rotate notable winter";
+var mnemonic = "emotion object drive then keen mouse gauge guard three pear gauge illegal";

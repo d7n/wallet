@@ -1,1 +1,1 @@
-var mnemonic = "express arena enjoy shock double ancient fold enroll net like build girl";
+var mnemonic = "coach odor best primary end thumb chicken unit law deputy weather detect";

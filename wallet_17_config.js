@@ -1,1 +1,1 @@
-var mnemonic = "equal ladder dutch stomach account blast slam escape differ crazy cancel travel";
+var mnemonic = "mom stem letter grace husband position buffalo okay toy mosquito text genuine";

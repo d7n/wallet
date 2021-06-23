@@ -1,1 +1,1 @@
-var mnemonic = "chase detail celery inch parrot ranch multiply retreat urge bind prosper shock";
+var mnemonic = "kiss umbrella govern quality input share orange leader destroy kind axis unveil";

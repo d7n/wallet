@@ -1,1 +1,1 @@
-var mnemonic = "quarter famous seat shed build orchard expire dish tilt mechanic radar calm";
+var mnemonic = "bacon veteran ignore control saddle notable ring state arch honey amount accuse";

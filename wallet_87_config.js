@@ -1,1 +1,1 @@
-var mnemonic = "can puppy pulse swap bike federal jelly width smile require sing sure";
+var mnemonic = "north blush quote cheap burst apple hazard room spend tired pig volcano";

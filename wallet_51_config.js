@@ -1,1 +1,1 @@
-var mnemonic = "squirrel gospel awake patient leopard alien cost weasel hospital all kitchen deposit";
+var mnemonic = "city minimum borrow viable chaos normal much rescue primary panic rug leave";

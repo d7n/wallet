@@ -1,1 +1,1 @@
-var mnemonic = "parrot embrace basic boss guitar future hello drum blue thing dwarf situate";
+var mnemonic = "diet tourist such peasant warfare picture another history place village kind east";

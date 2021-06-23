@@ -1,1 +1,1 @@
-var mnemonic = "nice gold noise female fringe cart fog heavy pool fatigue knife pull";
+var mnemonic = "asset clip bomb laptop decorate crack wing adapt say rather gesture hero";

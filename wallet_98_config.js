@@ -1,1 +1,1 @@
-var mnemonic = "awkward owner damp celery setup remind connect print during story fury rose";
+var mnemonic = "small denial security fork swamp follow phone area merry ship raven grit";

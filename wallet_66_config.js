@@ -1,1 +1,1 @@
-var mnemonic = "rural add sea divide arctic faint hammer success summer render pepper sound";
+var mnemonic = "donkey bargain post spider prepare mobile buddy base flame will hour citizen";

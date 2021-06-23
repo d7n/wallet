@@ -1,1 +1,1 @@
-var mnemonic = "opinion supreme double major around beauty argue auction only topple mirror celery";
+var mnemonic = "cook claw logic machine awesome idea earn hire estate habit exhibit face";

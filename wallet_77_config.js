@@ -1,1 +1,1 @@
-var mnemonic = "mixture educate profit picnic recall bargain flight chair elephant web rhythm below";
+var mnemonic = "power column door hello fantasy awake jump mandate noodle divorce sausage north";

@@ -1,1 +1,1 @@
-var mnemonic = "grant frame eternal glimpse lend live dash chunk release live pen parade";
+var mnemonic = "figure this adapt above click ride hurt medal actual track reform kind";

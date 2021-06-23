@@ -1,1 +1,1 @@
-var mnemonic = "flag fantasy bar very simple crunch fish response clever explain alter source";
+var mnemonic = "wet sphere very seed index enemy echo ghost argue column journey husband";

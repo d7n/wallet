@@ -1,1 +1,1 @@
-var mnemonic = "pill clog kit length uniform crouch define wear puppy over salute blur";
+var mnemonic = "carpet end farm labor order balance pluck can indicate flip quick access";

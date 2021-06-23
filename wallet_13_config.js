@@ -1,1 +1,1 @@
-var mnemonic = "sister long buffalo already bread arrow prize mule maple icon west pudding";
+var mnemonic = "gift edit blind foot rural sock gallery south matrix segment alley basic";

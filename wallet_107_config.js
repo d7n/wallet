@@ -1,1 +1,1 @@
-var mnemonic = "robust point slush stool step ask dash boy myself urge number resource";
+var mnemonic = "defy desert human disorder wrap egg guide gentle april bounce explain unit";

@@ -1,1 +1,1 @@
-var mnemonic = "west awkward change ginger aspect valid test final allow cattle eagle puppy";
+var mnemonic = "cement citizen gauge regret music rain minimum enlist letter clip narrow whip";

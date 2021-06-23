@@ -1,1 +1,1 @@
-var mnemonic = "throw virus neither enrich section mask slam idea enhance because april mountain";
+var mnemonic = "film remain fitness sand food pistol fitness tooth become arrange vocal current";

@@ -1,1 +1,1 @@
-var mnemonic = "move hurt drum chair nothing gun husband annual snack youth antique sphere";
+var mnemonic = "soup copy high theme system property suffer announce glimpse strong gate rookie";

@@ -1,1 +1,1 @@
-var mnemonic = "undo leave grape opera suit install grain lock build book film same";
+var mnemonic = "title final employ consider tornado despair cross sunset term shrimp raccoon tip";

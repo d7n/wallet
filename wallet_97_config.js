@@ -1,1 +1,1 @@
-var mnemonic = "vanish bulk midnight trial shield interest charge bounce game fall grocery food";
+var mnemonic = "junior token online traffic holiday fringe slam witness female emerge fly crew";

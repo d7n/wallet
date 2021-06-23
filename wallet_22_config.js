@@ -1,1 +1,1 @@
-var mnemonic = "circle mimic waste busy demand foster develop mention task renew sand crime";
+var mnemonic = "spy require exotic pupil simple whale health order trouble enact vapor love";

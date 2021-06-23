@@ -1,1 +1,1 @@
-var mnemonic = "globe pretty brain air shallow balance method wing mind above surround ugly";
+var mnemonic = "diet space glory put wave party decrease accuse funny vapor scheme there";

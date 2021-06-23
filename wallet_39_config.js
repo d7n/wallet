@@ -1,1 +1,1 @@
-var mnemonic = "blouse hedgehog guess convince tiger thunder sunset clinic elder surge equal dinosaur";
+var mnemonic = "cube submit edge kangaroo junk panel subway shiver faint outdoor border giggle";

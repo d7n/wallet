@@ -1,1 +1,1 @@
-var mnemonic = "verify tragic install long accident sand finger wealth world bus flock erupt";
+var mnemonic = "among medal dry onion dose muscle skin client busy upgrade term panther";

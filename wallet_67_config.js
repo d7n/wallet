@@ -1,1 +1,1 @@
-var mnemonic = "discover canvas little such release list exist control method punch crawl human";
+var mnemonic = "example rack general drink tomorrow evil post april unable head open minor";

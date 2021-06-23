@@ -1,1 +1,1 @@
-var mnemonic = "wolf few expose borrow seek village sock arrest grit achieve code much";
+var mnemonic = "cannon drill solar pottery cube protect survey foot inform wage rent sport";

@@ -1,1 +1,1 @@
-var mnemonic = "motion angry resource vessel throw slide luxury whip under popular prepare ranch";
+var mnemonic = "bitter play paper abuse spring prison turn scrap cricket helmet safe pill";

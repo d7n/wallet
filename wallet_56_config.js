@@ -1,1 +1,1 @@
-var mnemonic = "minute route oyster daring uniform happy unveil brush business concert wrestle raise";
+var mnemonic = "tone robust pizza cloth record dirt soap coyote job surge night muffin";

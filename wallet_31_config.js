@@ -1,1 +1,1 @@
-var mnemonic = "debris garden jelly arena stool coast honey subway wonder say pizza normal";
+var mnemonic = "unknown fix lawn acquire awkward female strike citizen bubble staff sustain man";

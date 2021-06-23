@@ -1,1 +1,1 @@
-var mnemonic = "select since wrestle achieve industry dust excuse stadium question until avoid giggle";
+var mnemonic = "lamp false dolphin salute trust volume slow burst pencil display lab tuna";

@@ -1,1 +1,1 @@
-var mnemonic = "height update sick song moral tobacco together truly oven cereal tribe trick";
+var mnemonic = "attitude autumn voyage bubble box field race police wall shine ask choose";

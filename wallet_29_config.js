@@ -1,1 +1,1 @@
-var mnemonic = "canyon fortune ask agent frown because guard scorpion suggest cool next main";
+var mnemonic = "fancy judge mention laugh fine segment slight voice razor yellow negative able";

@@ -1,1 +1,1 @@
-var mnemonic = "artefact gate budget curtain enjoy canoe under side nasty alter medal blood";
+var mnemonic = "spice cable castle dawn coin glory wonder high grass happy fantasy arctic";

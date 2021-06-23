@@ -1,1 +1,1 @@
-var mnemonic = "pistol matrix ticket lion expect increase sock struggle size embark wild error";
+var mnemonic = "void pencil element type tower lake scissors reopen bundle among gown poem";

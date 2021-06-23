@@ -1,1 +1,1 @@
-var mnemonic = "treat trash taxi point pride ship crunch oxygen heart glow attract skirt";
+var mnemonic = "leaf vital inflict summer enter better nominee jaguar style lecture finish absurd";

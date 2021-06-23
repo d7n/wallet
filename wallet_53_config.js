@@ -1,1 +1,1 @@
-var mnemonic = "decade thought ribbon wide chimney lunar glide payment phone fragile want weather";
+var mnemonic = "thing price north dinosaur color life judge orphan expire host slot two";

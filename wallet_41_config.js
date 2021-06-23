@@ -1,1 +1,1 @@
-var mnemonic = "torch nose gadget dinner forum twelve better universe market hospital frost replace";
+var mnemonic = "aspect marine myself drill region inmate item return analyst unfair hurry lady";

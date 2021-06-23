@@ -1,1 +1,1 @@
-var mnemonic = "market crash absorb snake history foil warm pistol vendor buddy trick pony";
+var mnemonic = "whip gorilla alarm maple faith doll dream glass woman disease current rack";

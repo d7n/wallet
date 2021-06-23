@@ -1,1 +1,1 @@
-var mnemonic = "melt typical crucial estate harvest force insect relief crazy order detail squeeze";
+var mnemonic = "rotate wear wreck appear theory spice voice run embody dignity essay advice";

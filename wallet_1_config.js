@@ -1,1 +1,1 @@
-var mnemonic = "kind noise truth attract vote short narrow grit post demise candy since";
+var mnemonic = "artwork pistol before drift very ugly spoil dentist notable manual tragic cloth";

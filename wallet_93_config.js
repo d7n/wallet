@@ -1,1 +1,1 @@
-var mnemonic = "section banana object photo mouse tired picnic plastic second multiply open laptop";
+var mnemonic = "that notice recall blood guide motor net document baby firm cross job";

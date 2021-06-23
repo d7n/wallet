@@ -1,1 +1,1 @@
-var mnemonic = "face minute omit number when dash meadow this exclude mule hand bread";
+var mnemonic = "bless atom galaxy list match update ginger rescue someone vault remove flame";

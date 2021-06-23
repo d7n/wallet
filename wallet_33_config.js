@@ -1,1 +1,1 @@
-var mnemonic = "asthma wheat minor very motion actual adapt decline merry distance roast trumpet";
+var mnemonic = "junk garment often step assist topic junk lake tone saddle tide shove";

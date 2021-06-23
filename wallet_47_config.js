@@ -1,1 +1,1 @@
-var mnemonic = "easy photo fruit tunnel swap indicate aware banana scout fatal laptop kite";
+var mnemonic = "satoshi cricket suspect minute social street message guide neither fatigue bitter liberty";

@@ -1,1 +1,1 @@
-var mnemonic = "maid ridge fog few divert wool surprise plug body pencil horror finish";
+var mnemonic = "color black session either draw review drive violin hen document plug bird";

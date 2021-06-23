@@ -1,1 +1,1 @@
-var mnemonic = "library dose pulse today day crop basket special orient when practice motion";
+var mnemonic = "diagram become consider client sugar weasel exhaust reform fabric cannon riot army";

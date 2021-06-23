@@ -1,1 +1,1 @@
-var mnemonic = "canoe play climb dream sunny undo crouch sniff chat rain honey hurdle";
+var mnemonic = "furnace tower hen half alien web mesh seek brother relief comic noodle";

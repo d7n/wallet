@@ -1,1 +1,1 @@
-var mnemonic = "camera oval capital father act sail demand catalog adjust snap second this";
+var mnemonic = "elevator help gesture type lucky latin reform buyer level monkey asthma material";

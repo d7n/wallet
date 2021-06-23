@@ -1,1 +1,1 @@
-var mnemonic = "lamp stage saddle rally dumb tackle angle outer six swarm clutch assist";
+var mnemonic = "silk alien catch humor amateur bracket asset hybrid teach save return demand";

@@ -1,1 +1,1 @@
-var mnemonic = "silk embrace modify buzz worth decrease build fetch better lounge practice system";
+var mnemonic = "access debris usage into wood rude drip frost world identify embrace essence";

@@ -1,1 +1,1 @@
-var mnemonic = "worry wrong judge amount icon faint drift vast upon humble figure grid";
+var mnemonic = "tornado task zebra remain palm transfer faith parent impulse icon spy term";

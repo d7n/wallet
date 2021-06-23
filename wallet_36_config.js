@@ -1,1 +1,1 @@
-var mnemonic = "collect artist human midnight alter domain clerk awake worth metal actual tired";
+var mnemonic = "crane peasant labor turn pipe planet foster canyon orphan peasant three confirm";

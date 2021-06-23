@@ -1,1 +1,1 @@
-var mnemonic = "essence cattle suspect suit like maple crowd welcome enjoy main napkin bar";
+var mnemonic = "mouse gate struggle access current near pact know spoil inflict orchard quantum";

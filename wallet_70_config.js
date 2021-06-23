@@ -1,1 +1,1 @@
-var mnemonic = "civil say twenty ugly put vanish essay cement pride angle waste salon";
+var mnemonic = "core subway door swallow sorry among express junk baby youth become tonight";

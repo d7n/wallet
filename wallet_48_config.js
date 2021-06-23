@@ -1,1 +1,1 @@
-var mnemonic = "enforce cable powder vicious husband dumb verb quote cinnamon eyebrow column quality";
+var mnemonic = "team roof pattern rebuild over spend right torch clip grid cigar nature";

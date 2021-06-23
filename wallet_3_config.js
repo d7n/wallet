@@ -1,1 +1,1 @@
-var mnemonic = "radio ice immune problem audit track pact sadness will yellow ensure finish";
+var mnemonic = "dawn before gospel nation van silent olive problem media modify capable deny";

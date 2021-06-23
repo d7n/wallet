@@ -1,1 +1,1 @@
-var mnemonic = "morning misery mesh owner rent enough draft ahead furnace drip correct chef";
+var mnemonic = "lyrics pig kitchen brief box monitor shoulder pumpkin magnet arctic tag brave";

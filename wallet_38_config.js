@@ -1,1 +1,1 @@
-var mnemonic = "claim job mechanic cradle frozen salt purchase end half produce dice rally";
+var mnemonic = "uncover steel rally wrestle flash trust question rather yellow submit album remember";

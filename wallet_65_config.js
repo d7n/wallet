@@ -1,1 +1,1 @@
-var mnemonic = "next copy candy predict urge grass grief remove run increase length tomato";
+var mnemonic = "seat damage problem screen fitness all super bacon solve huge actor milk";

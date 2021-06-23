@@ -1,1 +1,1 @@
-var mnemonic = "matter spin silver unable crane whisper still cheese episode ancient man belt";
+var mnemonic = "forward juice crouch blur service girl icon dog canyon rally sort uphold";

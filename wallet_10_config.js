@@ -1,1 +1,1 @@
-var mnemonic = "crane garden know sea poverty artist action satisfy piece breeze memory twist";
+var mnemonic = "sadness alpha weasel public scale give involve daughter hollow setup arctic drill";

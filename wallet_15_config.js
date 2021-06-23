@@ -1,1 +1,1 @@
-var mnemonic = "gravity time tornado desert ginger holiday boring parrot disagree great text bulb";
+var mnemonic = "farm either raw example buddy stage adjust acid cricket aim hip hamster";

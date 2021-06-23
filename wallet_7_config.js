@@ -1,1 +1,1 @@
-var mnemonic = "machine ahead unusual pattern file hammer snake exile range trust bike core";
+var mnemonic = "mirror bulb sheriff outside sheriff float cabin announce disease cook token chapter";

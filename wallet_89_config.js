@@ -1,1 +1,1 @@
-var mnemonic = "lazy nasty deposit runway key grace dutch unfair text surface finish again";
+var mnemonic = "sail guitar spot sunset crater tiny virus scorpion little retreat parade weird";

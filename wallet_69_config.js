@@ -1,1 +1,1 @@
-var mnemonic = "crisp peace castle urge attack nominee citizen fossil nephew skirt rain boil";
+var mnemonic = "initial that remove noble cheese season dignity chase truck tiny avocado seek";

@@ -1,1 +1,1 @@
-var mnemonic = "armor wage mystery ozone abstract fine faint lock cliff digital pottery arctic";
+var mnemonic = "canvas bundle speak tooth trend genius target birth fat shield critic relief";

@@ -1,1 +1,1 @@
-var mnemonic = "coral holiday pet hollow twin glad vote spoil cycle prepare able debris";
+var mnemonic = "aim success crumble layer floor december hole arch around open injury lens";

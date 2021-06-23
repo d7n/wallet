@@ -1,1 +1,1 @@
-var mnemonic = "normal gas lounge inhale holiday crumble gift front egg stairs caught anchor";
+var mnemonic = "actress gas chicken mail firm advice drum music legend have gravity path";

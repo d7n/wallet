@@ -1,1 +1,1 @@
-var mnemonic = "artist clever current enjoy name gown cupboard lyrics educate robot wear jacket";
+var mnemonic = "train shine owner pond hint coyote left crack jacket require eye uncle";

@@ -1,1 +1,1 @@
-var mnemonic = "scrub benefit response tube extend task loyal warm settle vessel once task";
+var mnemonic = "unfair actor gorilla nasty joy audit ketchup myself enable surge answer creek";

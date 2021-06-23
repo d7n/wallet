@@ -1,1 +1,1 @@
-var mnemonic = "buffalo arena inner rough pride fat rifle history reward basket aisle water";
+var mnemonic = "garden three robust potato flag split soft roast change order drop kite";

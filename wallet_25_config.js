@@ -1,1 +1,1 @@
-var mnemonic = "shoe safe maple carpet square say never write unique just recipe innocent";
+var mnemonic = "weapon marine water involve truck local infant alone cabin thank horse pencil";
