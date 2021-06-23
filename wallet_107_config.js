@@ -1,1 +1,1 @@
-var mnemonic = "security grace live drop foot syrup square firm firm cage project season";
+var mnemonic = "skate caution novel arm senior age smart inspire aspect absent six movie";

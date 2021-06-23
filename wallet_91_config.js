@@ -1,1 +1,1 @@
-var mnemonic = "track person lamp help weapon two improve shed wedding reveal energy model";
+var mnemonic = "umbrella funny denial ugly gallery pelican bulk wonder choice express begin lawn";

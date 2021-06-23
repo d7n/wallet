@@ -1,1 +1,1 @@
-var mnemonic = "electric run lizard state current flame marine shove rapid idle acoustic common";
+var mnemonic = "fiscal bubble cream chapter session file lobster coil youth arch depend tower";

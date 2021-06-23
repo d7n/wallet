@@ -1,1 +1,1 @@
-var mnemonic = "wheat naive angry change march blossom monitor room atom doctor license decorate";
+var mnemonic = "rally hobby melody burger gorilla estate space enroll home excuse net matrix";

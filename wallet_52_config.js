@@ -1,1 +1,1 @@
-var mnemonic = "potato napkin soda giggle fruit sand purpose involve click broken celery friend";
+var mnemonic = "liberty rebuild snake eyebrow hidden baby motor park clown knock tag attack";

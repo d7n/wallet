@@ -1,1 +1,1 @@
-var mnemonic = "project sail crowd hurt vast know success jacket volume cream hand fox";
+var mnemonic = "gate ritual hood sick rival blade staff defy debate into jar garbage";

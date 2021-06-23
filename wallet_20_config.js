@@ -1,1 +1,1 @@
-var mnemonic = "mystery nature plug ugly reunion space attack setup goddess acoustic raven judge";
+var mnemonic = "region shrimp seminar unit hint clarify health million ship client history vote";

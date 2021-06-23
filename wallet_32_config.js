@@ -1,1 +1,1 @@
-var mnemonic = "sleep argue like horn float assume world veteran calm drop album okay";
+var mnemonic = "forget spray decorate upset spell come learn wasp avocado wrestle decade girl";

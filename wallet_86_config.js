@@ -1,1 +1,1 @@
-var mnemonic = "crisp champion deer icon dilemma alpha vanish cheap merry pony unit bullet";
+var mnemonic = "six benefit sun begin step slot rookie refuse dilemma sad layer autumn";

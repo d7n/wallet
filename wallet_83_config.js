@@ -1,1 +1,1 @@
-var mnemonic = "regret tide blouse curtain mammal turkey immense scale among grit blast frequent";
+var mnemonic = "nice almost arm rubber toss convince art chat around picnic void balcony";

@@ -1,1 +1,1 @@
-var mnemonic = "tribe wheat trim dry defy illegal feature jump tag wave horror sustain";
+var mnemonic = "conduct verify loop mansion suspect magnet surround casual rug width race game";

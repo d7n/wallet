@@ -1,1 +1,1 @@
-var mnemonic = "tribe device must twist jungle excess breeze predict trouble stuff gloom nasty";
+var mnemonic = "process arena strategy fiscal gate orphan name glory hurdle timber school aerobic";

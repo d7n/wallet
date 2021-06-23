@@ -1,1 +1,1 @@
-var mnemonic = "radio shrimp soft fence degree mass wagon any planet power elevator friend";
+var mnemonic = "industry pen before over captain electric wagon salt believe party tourist school";

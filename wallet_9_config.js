@@ -1,1 +1,1 @@
-var mnemonic = "thank stock dinner into fever spy brave supreme quarter trade trash innocent";
+var mnemonic = "female quote loan hollow cry owner found enrich scissors kingdom present night";

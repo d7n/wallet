@@ -1,1 +1,1 @@
-var mnemonic = "throw toward october clock pretty acquire episode receive bonus lava photo worry";
+var mnemonic = "bus pool mind figure guilt impose prize repeat suffer tissue merry rotate";

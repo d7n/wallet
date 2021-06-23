@@ -1,1 +1,1 @@
-var mnemonic = "cancel pony cash type chicken motor margin visual output glory blood cook";
+var mnemonic = "auction wood wrist security casual cushion inhale dream palm moment edge thank";

@@ -1,1 +1,1 @@
-var mnemonic = "area never skin copy side saddle novel access expire month sketch busy";
+var mnemonic = "view beyond begin dash beef indoor slam collect second million math drink";

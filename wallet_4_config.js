@@ -1,1 +1,1 @@
-var mnemonic = "real birth mixed burst lava crew affair inquiry broken record salute ribbon";
+var mnemonic = "muffin trip primary defy welcome inch mesh cabin mechanic siege female load";

@@ -1,1 +1,1 @@
-var mnemonic = "member film afraid crush skin wool exotic snow provide fiction forget clutch";
+var mnemonic = "canvas shiver crumble sound fetch vital clay trim collect butter fire into";

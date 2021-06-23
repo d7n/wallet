@@ -1,1 +1,1 @@
-var mnemonic = "vacuum spatial vivid fog put pill live relax oil mom soda lens";
+var mnemonic = "cream crowd there grit announce security chaos umbrella million lecture polar whale";

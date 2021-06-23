@@ -1,1 +1,1 @@
-var mnemonic = "kitten clock gather team provide fashion disagree people alone unknown eye poem";
+var mnemonic = "thing small cactus soon drill prison giggle accident hen require country quote";

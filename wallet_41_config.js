@@ -1,1 +1,1 @@
-var mnemonic = "float fit gift there hire ignore original orient subway plunge brother mandate";
+var mnemonic = "okay acquire save absurd forget unit vintage tilt unaware loan slim proud";

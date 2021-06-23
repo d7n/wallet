@@ -1,1 +1,1 @@
-var mnemonic = "tower evil tent prevent oven leg twist neutral whip april option ahead";
+var mnemonic = "mask upon team cram sorry upgrade soon voice perfect cloud slow device";

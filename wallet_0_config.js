@@ -1,1 +1,1 @@
-var mnemonic = "axis illegal admit patrol rescue proud seat cost elder theme shell push";
+var mnemonic = "vessel parent boring logic escape ginger online badge text shrimp goat permit";

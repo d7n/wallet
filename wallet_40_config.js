@@ -1,1 +1,1 @@
-var mnemonic = "ancient couch sausage fall govern number gate end pet limit mystery nature";
+var mnemonic = "install point fog scene crouch inch capital cinnamon dish universe mandate now";

@@ -1,1 +1,1 @@
-var mnemonic = "end drop firm perfect cake mention crouch milk feed clever giggle moon";
+var mnemonic = "kick parent act legend cool notice brief winner essay agent embark town";

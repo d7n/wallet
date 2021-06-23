@@ -1,1 +1,1 @@
-var mnemonic = "history junk vital change toward summer stairs vapor betray insane fluid orbit";
+var mnemonic = "humble gold shoot curious upper great churn panther special material bone cry";

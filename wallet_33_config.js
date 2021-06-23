@@ -1,1 +1,1 @@
-var mnemonic = "wedding vital flip final unhappy mansion perfect ethics picnic wrist merit sibling";
+var mnemonic = "switch dignity erode fatal indoor island escape initial garlic gospel arena follow";

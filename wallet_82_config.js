@@ -1,1 +1,1 @@
-var mnemonic = "mom notice merit title evolve loan smoke piece credit ramp across slam";
+var mnemonic = "clean snow width vacant admit frame unit edge rural core demand swamp";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow wasp lyrics spike permit trouble pond coffee work prepare satoshi half";
+var mnemonic = "silly since fringe owner involve token design clown uncle practice chest eight";

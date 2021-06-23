@@ -1,1 +1,1 @@
-var mnemonic = "miss vivid solution wild huge universe spot waste opinion quarter fitness whale";
+var mnemonic = "unable life between monkey cupboard monster soup unable purse blame bamboo decline";

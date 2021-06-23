@@ -1,1 +1,1 @@
-var mnemonic = "episode street vault you bus hill keen fence stone junior muscle spoil";
+var mnemonic = "swear glare price bone recipe deliver visa balcony ski mutual economy strong";

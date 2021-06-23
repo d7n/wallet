@@ -1,1 +1,1 @@
-var mnemonic = "pioneer vocal depend split skirt balance moral cactus elegant physical green funny";
+var mnemonic = "tip cluster dress garbage mutual sock mirror audit wave inflict awful believe";

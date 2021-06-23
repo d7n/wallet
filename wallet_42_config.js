@@ -1,1 +1,1 @@
-var mnemonic = "very local reject season galaxy elegant gorilla route three fancy pulp base";
+var mnemonic = "drink buyer army clever dream skin flower damage tunnel prefer diagram room";

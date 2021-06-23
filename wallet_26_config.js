@@ -1,1 +1,1 @@
-var mnemonic = "best fade sister family duck bulk unfair marine cargo attract adapt slam";
+var mnemonic = "loan note powder struggle impose wine cricket innocent nephew gym what law";

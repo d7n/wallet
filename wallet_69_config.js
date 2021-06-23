@@ -1,1 +1,1 @@
-var mnemonic = "fit same stock easy benefit illegal rabbit sibling collect stage service timber";
+var mnemonic = "clinic language report praise only field shadow entire enjoy trigger wrap render";

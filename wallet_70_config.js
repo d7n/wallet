@@ -1,1 +1,1 @@
-var mnemonic = "quote license tail margin timber tired net kit grass worth blouse toward";
+var mnemonic = "coffee open road scissors buddy swim box fitness swim leg tank detect";

@@ -1,1 +1,1 @@
-var mnemonic = "found diary silly talent demand private pretty bread biology suspect across shuffle";
+var mnemonic = "slight turn cloud train surge pen device pride cover elder spare salute";

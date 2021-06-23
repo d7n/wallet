@@ -1,1 +1,1 @@
-var mnemonic = "escape train below second property route save impose capable hole miracle wonder";
+var mnemonic = "token correct release outer crisp order you clock ridge sing grass erosion";

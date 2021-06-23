@@ -1,1 +1,1 @@
-var mnemonic = "scrub shoulder lonely cart twice eye brother margin spice person artwork speak";
+var mnemonic = "repeat vast possible sense habit super castle black over fade polar answer";

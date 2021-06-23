@@ -1,1 +1,1 @@
-var mnemonic = "outdoor sheriff midnight scrap primary innocent melt brick donkey lumber weird cricket";
+var mnemonic = "myself field range frost dinosaur winter shell monkey crucial believe jaguar panic";

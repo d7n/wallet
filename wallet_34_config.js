@@ -1,1 +1,1 @@
-var mnemonic = "judge faint sibling defy hunt write chase outer soldier hello receive swamp";
+var mnemonic = "paper interest proud rhythm limb middle wrap garden find ecology minute exclude";

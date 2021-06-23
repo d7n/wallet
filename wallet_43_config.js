@@ -1,1 +1,1 @@
-var mnemonic = "gasp consider tent ecology erupt label giant chaos oppose avocado mind casino";
+var mnemonic = "spare luxury health use flower okay bleak dad move move tourist vessel";

@@ -1,1 +1,1 @@
-var mnemonic = "drama draft online gold review scrap stand suspect coffee upset lyrics summer";
+var mnemonic = "script diagram fortune confirm actor glare swamp elephant climb firm absent neutral";

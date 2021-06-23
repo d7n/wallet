@@ -1,1 +1,1 @@
-var mnemonic = "bring neck spot cycle brass bid scheme near stand jeans prefer wrist";
+var mnemonic = "parade mansion adjust toy bind defense goddess peanut deputy text sausage position";

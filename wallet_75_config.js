@@ -1,1 +1,1 @@
-var mnemonic = "catch gossip print brief upgrade sibling wise weapon flavor corn imitate stumble";
+var mnemonic = "express book have use hair seven donor solution best option circle blade";

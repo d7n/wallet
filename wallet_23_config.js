@@ -1,1 +1,1 @@
-var mnemonic = "salad solve trigger silk gauge hammer census case faculty hospital execute year";
+var mnemonic = "genuine goat castle still lawn buzz horse security mercy warfare radar empower";

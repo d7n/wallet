@@ -1,1 +1,1 @@
-var mnemonic = "scissors repeat pigeon hurdle bamboo flame exhibit top ahead fire series case";
+var mnemonic = "sun mother estate decrease drop phone render silver cute tool detail fit";

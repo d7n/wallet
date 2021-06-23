@@ -1,1 +1,1 @@
-var mnemonic = "behind weapon come uphold system same impose response distance reason lottery almost";
+var mnemonic = "arena denial team blind road refuse novel tip fragile wrestle myth fit";

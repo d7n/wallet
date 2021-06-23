@@ -1,1 +1,1 @@
-var mnemonic = "snap surge park able soul security clever walk thing museum immense bounce";
+var mnemonic = "exact champion repair devote chaos frozen dial hammer under lounge junior clown";

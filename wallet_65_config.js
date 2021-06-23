@@ -1,1 +1,1 @@
-var mnemonic = "write busy brave mask immense elbow select problem review emotion slow frozen";
+var mnemonic = "process arrange detail check cluster document job ship attend insect modify invest";

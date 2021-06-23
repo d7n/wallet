@@ -1,1 +1,1 @@
-var mnemonic = "example disease cherry turtle drift relax fashion omit genre stem jar fantasy";
+var mnemonic = "trade click boost trophy absorb describe rubber island decide summer hamster dance";

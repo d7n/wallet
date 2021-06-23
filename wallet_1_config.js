@@ -1,1 +1,1 @@
-var mnemonic = "absorb gaze hotel cause use clerk fan barely diet provide cage mix";
+var mnemonic = "clog sound cactus kidney sister rapid push culture salute guess soldier general";

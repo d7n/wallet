@@ -1,1 +1,1 @@
-var mnemonic = "arena cricket mesh dismiss category reject only trick thought enforce length display";
+var mnemonic = "middle plunge taxi boil junk bargain major replace phrase refuse window kidney";

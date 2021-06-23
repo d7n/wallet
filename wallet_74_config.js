@@ -1,1 +1,1 @@
-var mnemonic = "atom corn fancy april load job female link solar allow inherit banner";
+var mnemonic = "heart hazard zone total this organ monkey patrol they suggest laptop twelve";

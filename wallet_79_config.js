@@ -1,1 +1,1 @@
-var mnemonic = "fiction bottom stuff today swing brand before bind cannon lesson salad industry";
+var mnemonic = "throw source olympic child tattoo range three crisp walk protect victory drive";

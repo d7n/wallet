@@ -1,1 +1,1 @@
-var mnemonic = "opinion have vital problem explain tumble measure unique recycle retreat tuition biology";
+var mnemonic = "type velvet ordinary quick tube over dose suit gesture grace decrease clog";

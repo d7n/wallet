@@ -1,1 +1,1 @@
-var mnemonic = "child oblige size gauge lottery life sight seminar million all trash leisure";
+var mnemonic = "mixture corn swarm lesson fossil correct satisfy twenty cave tiger expect mass";

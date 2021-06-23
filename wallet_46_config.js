@@ -1,1 +1,1 @@
-var mnemonic = "outdoor fine start unfair cotton amused gather valley vague mechanic tongue valve";
+var mnemonic = "girl save sausage provide another real mixed solid lunar toward tragic logic";

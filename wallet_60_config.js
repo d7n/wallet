@@ -1,1 +1,1 @@
-var mnemonic = "unusual blade tray fringe lumber cute various common right tip festival hotel";
+var mnemonic = "found orbit later mimic category this guide border tornado document write learn";

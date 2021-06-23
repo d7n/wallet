@@ -1,1 +1,1 @@
-var mnemonic = "airport bulb cube fog month table wheel sphere rotate infant party coyote";
+var mnemonic = "ice second picture sleep biology never crunch verb wedding duty seed bounce";

@@ -1,1 +1,1 @@
-var mnemonic = "annual depend lunch trophy during nasty fly drama pilot mandate grief husband";
+var mnemonic = "lazy find dilemma fee trash elder glass jealous fetch cost bulb bag";

@@ -1,1 +1,1 @@
-var mnemonic = "prison hundred marine sing chase clean method hazard waste neglect solve bean";
+var mnemonic = "stove lava easy welcome drink matrix hip radio spin conduct dial soon";

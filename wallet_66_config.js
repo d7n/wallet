@@ -1,1 +1,1 @@
-var mnemonic = "divert husband uphold mammal depart strike cash sleep delay install planet crush";
+var mnemonic = "hazard curious scrub stumble sauce canoe elevator quantum away category donor mesh";

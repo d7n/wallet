@@ -1,1 +1,1 @@
-var mnemonic = "table carry rebuild ghost now capital artefact whip club beach dinosaur recall";
+var mnemonic = "system team nose armor absurd plug spread market broken volume pencil scrap";

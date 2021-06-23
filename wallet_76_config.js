@@ -1,1 +1,1 @@
-var mnemonic = "term father monkey flee hat creek lizard ancient wine animal wheel century";
+var mnemonic = "deposit again region rice feed intact decorate destroy behind admit bundle speed";

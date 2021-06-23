@@ -1,1 +1,1 @@
-var mnemonic = "tooth expand cushion exact advance grace surprise cruel bottom narrow rapid bench";
+var mnemonic = "relief quote spoil dune stuff plate zone elbow enjoy hope pride timber";

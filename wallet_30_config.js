@@ -1,1 +1,1 @@
-var mnemonic = "shaft cherry room peasant card pen beyond emotion student trash document topple";
+var mnemonic = "argue scheme cheese rough twin gap depth jungle equal walnut will palm";

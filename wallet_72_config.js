@@ -1,1 +1,1 @@
-var mnemonic = "glad foot hard reopen poet orphan describe own aware tomato truth bomb";
+var mnemonic = "master vivid return buffalo silk chair bind when add march upon donate";

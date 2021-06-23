@@ -1,1 +1,1 @@
-var mnemonic = "valve crawl brief intact wool actual boat crime caution daughter build file";
+var mnemonic = "custom coconut fuel fresh guilt sing gold march mammal bottom hazard cricket";

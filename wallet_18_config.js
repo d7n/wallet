@@ -1,1 +1,1 @@
-var mnemonic = "elegant artist habit slice armed salon confirm frame lend slow promote junk";
+var mnemonic = "friend shell rose valid coffee ginger assist quick spell account confirm drink";

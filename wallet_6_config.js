@@ -1,1 +1,1 @@
-var mnemonic = "soda viable talk struggle suit shrug invite stock menu sibling now crime";
+var mnemonic = "swamp version fat icon october wine ankle cause false cannon bird switch";

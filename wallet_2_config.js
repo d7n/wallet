@@ -1,1 +1,1 @@
-var mnemonic = "indoor include room tuition blood lamp dash click elevator initial spare blame";
+var mnemonic = "casino mass fashion image between picnic until predict must uphold soap jungle";

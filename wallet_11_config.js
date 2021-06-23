@@ -1,1 +1,1 @@
-var mnemonic = "awesome mosquito obtain photo what scrub cluster lizard what damage turtle pond";
+var mnemonic = "yellow cousin boost relax humor mom depend tomorrow spider weekend note brisk";

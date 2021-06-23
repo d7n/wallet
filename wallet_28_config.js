@@ -1,1 +1,1 @@
-var mnemonic = "hammer obvious head nature crumble system sure bachelor blossom cave drive brisk";
+var mnemonic = "involve raccoon dynamic neglect tree essay announce build only fly bottom favorite";

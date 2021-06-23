@@ -1,1 +1,1 @@
-var mnemonic = "address concert hamster regular lady yellow pizza blast ugly sense nasty public";
+var mnemonic = "congress lesson nose absorb wet mushroom evil wolf laugh enable jeans reveal";

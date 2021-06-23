@@ -1,1 +1,1 @@
-var mnemonic = "room allow vintage this subway cheese cabin miracle unfair mask fade pizza";
+var mnemonic = "resource token mushroom people gauge drink position game toast roast shove turn";

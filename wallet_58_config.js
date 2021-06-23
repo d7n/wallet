@@ -1,1 +1,1 @@
-var mnemonic = "trouble bench story shift roast office adjust sleep dose waste evolve topple";
+var mnemonic = "hire south flock emerge ugly path whisper device useless room pupil behave";

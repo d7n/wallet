@@ -1,1 +1,1 @@
-var mnemonic = "interest wrist fall grain fame pride nothing taste advance open collect arrive";
+var mnemonic = "drastic embrace spy view swim plate amount caught indicate food leader return";

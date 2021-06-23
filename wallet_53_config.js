@@ -1,1 +1,1 @@
-var mnemonic = "payment romance betray tissue rebuild omit winner arrange fog virtual trick region";
+var mnemonic = "awesome hood spider hammer close game alley reform tonight actress twenty fashion";

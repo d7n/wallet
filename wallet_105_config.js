@@ -1,1 +1,1 @@
-var mnemonic = "alcohol venue comic one rather nominee print ranch powder hobby acquire advance";
+var mnemonic = "program easily exhibit valley badge huge theme auction field robot economy mystery";

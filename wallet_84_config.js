@@ -1,1 +1,1 @@
-var mnemonic = "grace idle leg tattoo where valid believe unusual oak toe grab wet";
+var mnemonic = "syrup trade divorce choice tackle tank news barely dance zero fine rule";

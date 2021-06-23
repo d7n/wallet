@@ -1,1 +1,1 @@
-var mnemonic = "permit humor affair minor adjust exchange screen vanish until horse clinic object";
+var mnemonic = "sauce sport try traffic motion thank choice sausage govern pitch wheel bag";

@@ -1,1 +1,1 @@
-var mnemonic = "better scare bargain exercise wine issue practice side phone autumn ill spring";
+var mnemonic = "slow oppose stand helmet surface bottom festival derive element bracket open leisure";

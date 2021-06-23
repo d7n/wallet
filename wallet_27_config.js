@@ -1,1 +1,1 @@
-var mnemonic = "aware thunder together borrow swing walnut amused slow frequent kick embrace civil";
+var mnemonic = "heavy section monkey metal enroll stereo beauty bounce settle frozen luggage dutch";

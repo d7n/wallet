@@ -1,1 +1,1 @@
-var mnemonic = "decide pupil undo dash small capital bunker local asthma width animal priority";
+var mnemonic = "category matrix photo south equal consider rack pyramid unable fly pepper pencil";

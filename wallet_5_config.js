@@ -1,1 +1,1 @@
-var mnemonic = "cave hole pact mutual wolf start motion bind expand method quantum inform";
+var mnemonic = "unusual bomb hat river inquiry typical plate bicycle speak mesh stomach trial";

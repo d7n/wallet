@@ -1,1 +1,1 @@
-var mnemonic = "pony helmet already write beauty vibrant polar judge long behave region one";
+var mnemonic = "canal dove build cherry purpose outside avoid expire hybrid coyote tag mad";

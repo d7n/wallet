@@ -1,1 +1,1 @@
-var mnemonic = "frozen misery jealous cart hamster purchase photo hen tip dry shallow output";
+var mnemonic = "elbow tail salmon tube shock thing chronic buddy exclude snack circle stumble";

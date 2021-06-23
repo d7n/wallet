@@ -1,1 +1,1 @@
-var mnemonic = "barrel honey bounce manual toss trap birth force about timber ranch nuclear";
+var mnemonic = "tell raccoon tongue garbage mountain income verify word lottery invite joy rescue";

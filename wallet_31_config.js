@@ -1,1 +1,1 @@
-var mnemonic = "crowd youth brother genre cupboard crawl decide clean leg walk puppy life";
+var mnemonic = "dilemma donate fossil index drift coffee pen song float dress exhibit regret";

@@ -1,1 +1,1 @@
-var mnemonic = "conduct favorite spawn economy strong coral together place angle follow air bike";
+var mnemonic = "solid proud idle foam vocal ability traffic fitness kitchen sadness spray track";
