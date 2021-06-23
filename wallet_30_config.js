@@ -1,1 +1,1 @@
-var mnemonic = "gravity fat thing tooth supply hair flat include finger usual mushroom ribbon";
+var mnemonic = "simple tennis hill athlete rent term sketch skirt sausage bind gauge year";

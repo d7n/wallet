@@ -1,1 +1,1 @@
-var mnemonic = "hundred problem youth mask plastic never twenty fix galaxy action anger oblige";
+var mnemonic = "wet aware wood anxiety day bone grape rent crime soccer decline hello";

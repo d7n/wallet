@@ -1,1 +1,1 @@
-var mnemonic = "marriage design body banner claw warfare six maximum decorate piece million donkey";
+var mnemonic = "license gaze napkin cat panel text wait unusual twenty stone news fat";

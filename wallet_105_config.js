@@ -1,1 +1,1 @@
-var mnemonic = "wire iron coffee code awkward river same reveal segment rose shadow enlist";
+var mnemonic = "crash still sea foster space sentence upgrade viable duty exhibit unhappy damp";

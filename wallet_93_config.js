@@ -1,1 +1,1 @@
-var mnemonic = "quiz install utility donate six message spatial heavy spin arrive anxiety silent";
+var mnemonic = "never either steel control badge mimic once common tooth ankle trim twenty";

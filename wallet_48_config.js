@@ -1,1 +1,1 @@
-var mnemonic = "grass leopard trumpet robust hero lava right reduce regret imitate oak pottery";
+var mnemonic = "various notice spike lunch valley state front robot luxury miracle wealth script";

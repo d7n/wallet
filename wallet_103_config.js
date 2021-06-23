@@ -1,1 +1,1 @@
-var mnemonic = "wasp west trouble belt tumble prefer catch find true twelve elegant renew";
+var mnemonic = "march apart trigger grief behave cover doll exact kite burst gown device";

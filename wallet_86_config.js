@@ -1,1 +1,1 @@
-var mnemonic = "axis carbon choice enforce smile normal learn hockey enlist emerge sketch absorb";
+var mnemonic = "wing column gold strong pact zero giggle rich employ make fly alien";

@@ -1,1 +1,1 @@
-var mnemonic = "purity member street february hip foster always pipe include sport worry help";
+var mnemonic = "equal across have minimum ocean walk quality caution melody example hundred east";

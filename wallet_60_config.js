@@ -1,1 +1,1 @@
-var mnemonic = "ahead alley outside bunker tent wing around sure apart please home segment";
+var mnemonic = "rescue faint notable age assist urban body decrease forest despair love lazy";

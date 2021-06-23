@@ -1,1 +1,1 @@
-var mnemonic = "wine property climb hotel menu raven calm reform lamp puzzle weather defense";
+var mnemonic = "cute badge merit mountain accuse balcony three number security all voyage cattle";

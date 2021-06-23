@@ -1,1 +1,1 @@
-var mnemonic = "tennis type give cook grace brown taste pattern hover used pole job";
+var mnemonic = "write middle tooth increase noble aerobic conduct jar harsh people congress retreat";

@@ -1,1 +1,1 @@
-var mnemonic = "mean define display arena timber math drastic grocery front oil marble return";
+var mnemonic = "usage giant write dutch large whale erosion goose pumpkin void beach display";

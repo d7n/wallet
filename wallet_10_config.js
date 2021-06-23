@@ -1,1 +1,1 @@
-var mnemonic = "follow hungry shine hedgehog heavy stock copy travel motor purpose scrap certain";
+var mnemonic = "track author document mass issue notice crash brick swear because toe secret";

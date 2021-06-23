@@ -1,1 +1,1 @@
-var mnemonic = "author spider peace express pilot kidney across yellow accuse ride barely wolf";
+var mnemonic = "bottom dynamic possible daring elite cave almost accident scan horror left else";

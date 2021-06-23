@@ -1,1 +1,1 @@
-var mnemonic = "control claim bonus lend aware cart adapt country unveil warfare biology wreck";
+var mnemonic = "dice siren robust genuine scheme wisdom hazard margin person merge unusual away";

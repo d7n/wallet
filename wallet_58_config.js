@@ -1,1 +1,1 @@
-var mnemonic = "news pepper siren danger toward gap heavy seed close payment winner pride";
+var mnemonic = "orchard segment baby ozone urge medal move candy assault rich awake never";

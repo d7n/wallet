@@ -1,1 +1,1 @@
-var mnemonic = "garbage cabbage wish decide kitchen wisdom merit wash evidence right valley enable";
+var mnemonic = "parrot problem impact tongue feel wrestle symptom canyon lumber crumble social ginger";

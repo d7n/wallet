@@ -1,1 +1,1 @@
-var mnemonic = "solution north baby please still panel hen coin author neither meadow section";
+var mnemonic = "margin decrease spend basket just chicken hotel spoon adult script sock sorry";

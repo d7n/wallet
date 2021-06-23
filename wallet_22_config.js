@@ -1,1 +1,1 @@
-var mnemonic = "average music chest utility nurse mask quantum soccer gravity beef burst evoke";
+var mnemonic = "cost impact square brave dilemma shuffle tennis assault surface entry cliff just";

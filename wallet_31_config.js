@@ -1,1 +1,1 @@
-var mnemonic = "machine spend sugar outside actor possible open warm tent cloth two injury";
+var mnemonic = "arena page identify husband episode slight short gold ensure fine garbage host";

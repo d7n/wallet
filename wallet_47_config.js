@@ -1,1 +1,1 @@
-var mnemonic = "snow bronze image brother behind heart dawn universe august pink derive source";
+var mnemonic = "hotel elder flock yellow forum exist auto menu embrace art wire hungry";

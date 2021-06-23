@@ -1,1 +1,1 @@
-var mnemonic = "puppy fatal enable junior control family pumpkin misery dust ski frown royal";
+var mnemonic = "coast advance opinion cotton ahead stand quote door comfort render corn broken";

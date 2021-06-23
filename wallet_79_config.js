@@ -1,1 +1,1 @@
-var mnemonic = "dilemma degree inch ridge craft year nasty labor wheel citizen lady under";
+var mnemonic = "blanket smooth pumpkin artist raise love fox peasant usual actress critic hamster";

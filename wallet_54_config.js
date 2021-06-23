@@ -1,1 +1,1 @@
-var mnemonic = "immense cigar rotate awkward trophy draw deputy thank sustain salute offer key";
+var mnemonic = "bulk ticket mango stairs enroll select away age dose wise reject hood";

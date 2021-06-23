@@ -1,1 +1,1 @@
-var mnemonic = "tip dash sustain grape moon mammal hunt submit smooth submit vicious begin";
+var mnemonic = "feed over disorder swarm return minute mouse cousin mind cousin accident worth";

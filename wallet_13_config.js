@@ -1,1 +1,1 @@
-var mnemonic = "matrix sight warrior amused moment industry blush crisp remember ramp art what";
+var mnemonic = "case hour say cabin dirt discover boil course forest river kind replace";

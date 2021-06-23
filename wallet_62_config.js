@@ -1,1 +1,1 @@
-var mnemonic = "roof quit hamster glove cool punch lecture anxiety witness cruise cover sniff";
+var mnemonic = "tool during merry hour baby fluid reveal solid churn wall tackle blame";

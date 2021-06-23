@@ -1,1 +1,1 @@
-var mnemonic = "brand catch advance appear buyer this around tube dilemma swamp alley decade";
+var mnemonic = "milk hobby duty film pepper cabbage promote ten nut wire mango gun";

@@ -1,1 +1,1 @@
-var mnemonic = "fantasy orphan emotion antenna rural confirm lecture crew file enough rural six";
+var mnemonic = "apart rhythm fiscal still capable latin spy upper always sheriff hundred monster";

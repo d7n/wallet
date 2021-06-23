@@ -1,1 +1,1 @@
-var mnemonic = "ask swing mystery legend convince nuclear lava zero faith knock earn tool";
+var mnemonic = "sibling glow degree point orbit purpose crater best educate consider extend romance";

@@ -1,1 +1,1 @@
-var mnemonic = "box rebel lady manage you piece fault differ cake finger swear surge";
+var mnemonic = "cupboard honey piece flat door earn convince combine match speak convince rice";

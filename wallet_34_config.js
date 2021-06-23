@@ -1,1 +1,1 @@
-var mnemonic = "space canvas anger certain palace pipe need panda teach lens code patient";
+var mnemonic = "join delay true deny require abandon improve stove feed split amateur tone";

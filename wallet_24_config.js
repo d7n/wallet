@@ -1,1 +1,1 @@
-var mnemonic = "bar giant dash nasty divorce march thunder bulb abuse state ill jewel";
+var mnemonic = "pig hurdle north face sudden ring must paddle nature rabbit pact beyond";

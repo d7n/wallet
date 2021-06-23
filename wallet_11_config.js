@@ -1,1 +1,1 @@
-var mnemonic = "orient old save draft ocean shy permit also index soda loyal bounce";
+var mnemonic = "tooth space language brain tooth scout glance outdoor master now grid icon";

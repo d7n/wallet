@@ -1,1 +1,1 @@
-var mnemonic = "glance monkey matrix scatter rapid all error citizen also kitten misery blur";
+var mnemonic = "fresh tooth input crisp exchange type you erase bar nose craft mother";

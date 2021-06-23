@@ -1,1 +1,1 @@
-var mnemonic = "fault visual initial issue renew among grain sign patient scene twelve analyst";
+var mnemonic = "sad describe pull wear diet wink help time tilt face journey just";

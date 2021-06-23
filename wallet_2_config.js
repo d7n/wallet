@@ -1,1 +1,1 @@
-var mnemonic = "seminar kitchen bid surprise awkward habit struggle jelly scrub negative toddler open";
+var mnemonic = "diamond drop fossil capital flush spike order city slow brand distance wave";

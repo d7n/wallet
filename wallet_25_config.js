@@ -1,1 +1,1 @@
-var mnemonic = "mix nation obscure decade will useful sibling shed puppy soccer olympic roof";
+var mnemonic = "talk clap invest lake capital popular cage enlist review resist tomato federal";

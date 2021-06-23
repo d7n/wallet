@@ -1,1 +1,1 @@
-var mnemonic = "undo cluster filter plastic erase turkey cotton couch puzzle protect corn surround";
+var mnemonic = "nasty twist vocal cat youth usage hood toast desert access nature raven";

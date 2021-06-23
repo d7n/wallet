@@ -1,1 +1,1 @@
-var mnemonic = "team wish chunk couple glare nominee coral cannon census pulse brisk friend";
+var mnemonic = "kidney execute polar hundred bulk riot group amateur plastic method spray element";

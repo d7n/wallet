@@ -1,1 +1,1 @@
-var mnemonic = "receive board prosper lecture harsh crime online clown honey equal hill motor";
+var mnemonic = "grace bread pyramid under perfect wood flavor wear once clinic interest two";

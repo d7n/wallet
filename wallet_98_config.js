@@ -1,1 +1,1 @@
-var mnemonic = "fiscal turn old idea wide ensure angry exchange believe shadow social replace";
+var mnemonic = "logic cat check any tunnel bus culture average exercise book impose bargain";

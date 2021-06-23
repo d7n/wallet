@@ -1,1 +1,1 @@
-var mnemonic = "scene box eyebrow boss mixed mandate panther bitter acid beyond actress void";
+var mnemonic = "armor vanish bike slam junior evolve section valid achieve put victory shaft";

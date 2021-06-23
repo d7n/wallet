@@ -1,1 +1,1 @@
-var mnemonic = "step mandate armed refuse face ripple shell sorry laptop analyst stick demand";
+var mnemonic = "now blast infant vessel able surprise open town napkin muscle believe pond";

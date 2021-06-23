@@ -1,1 +1,1 @@
-var mnemonic = "outer boy bamboo jelly finish broccoli theme grunt shadow oyster repair garment";
+var mnemonic = "vital grass unable reward loan prefer rich edge stable fame drum captain";

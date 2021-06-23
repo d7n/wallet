@@ -1,1 +1,1 @@
-var mnemonic = "final object dirt ostrich dog update duck steel celery kitten topic smoke";
+var mnemonic = "arena pause budget frog meadow shallow ridge nature profit assault into tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "pride forward outdoor lamp web truth rotate claim across logic source mixed";
+var mnemonic = "torch amateur shoe giggle history lyrics draw buddy boost harsh dirt butter";

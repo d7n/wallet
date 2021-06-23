@@ -1,1 +1,1 @@
-var mnemonic = "cloud beef wear olympic robot wish enhance view enjoy impulse tortoise wrong";
+var mnemonic = "coil shoe ozone empty wink purse foot employ blame honey boss moment";

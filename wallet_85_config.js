@@ -1,1 +1,1 @@
-var mnemonic = "imitate student concert turkey doll excess network palm vague chaos exact stem";
+var mnemonic = "task awake lend flash broccoli skin pioneer delay unhappy attend jazz game";

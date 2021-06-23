@@ -1,1 +1,1 @@
-var mnemonic = "dentist island place walk open proud merge spare club diet try garlic";
+var mnemonic = "hello holiday grace kidney around nephew churn youth glance erase casual nephew";

@@ -1,1 +1,1 @@
-var mnemonic = "depth viable grid energy forget camp elephant attract old woman hint warrior";
+var mnemonic = "fly labor control involve wing useless cabin hood nuclear goat arctic lobster";

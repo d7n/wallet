@@ -1,1 +1,1 @@
-var mnemonic = "impose federal problem remember decline slight good giggle toilet time shrug elder";
+var mnemonic = "talk inmate grace manual bridge churn seminar fault better fuel second circle";

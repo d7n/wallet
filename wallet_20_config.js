@@ -1,1 +1,1 @@
-var mnemonic = "clip define law bachelor letter depth cupboard muffin arrest wheat stamp later";
+var mnemonic = "first mind token rookie problem snake wave delay flavor ring attend maple";

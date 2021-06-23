@@ -1,1 +1,1 @@
-var mnemonic = "outer coast helmet abstract swing dad hospital cool dumb dolphin army library";
+var mnemonic = "proud person view calm skill language gown rhythm fruit search predict force";

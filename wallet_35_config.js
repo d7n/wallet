@@ -1,1 +1,1 @@
-var mnemonic = "shove account across sun favorite vintage alien analyst hospital short mean bid";
+var mnemonic = "ugly slight marble owner zero olympic thought discover person book city skirt";

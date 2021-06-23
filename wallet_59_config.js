@@ -1,1 +1,1 @@
-var mnemonic = "coyote frequent garment win obscure model clerk wait aisle super symptom ordinary";
+var mnemonic = "mule spin want alarm join wrist illness ten shell because swap girl";

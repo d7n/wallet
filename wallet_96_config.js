@@ -1,1 +1,1 @@
-var mnemonic = "check custom pupil donor knee same nasty bean loop beach decorate because";
+var mnemonic = "disorder question minute scene buzz ball idle caught rare music drift gasp";

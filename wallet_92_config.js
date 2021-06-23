@@ -1,1 +1,1 @@
-var mnemonic = "iron fresh bronze hole hard purse notice success inform tip original damage";
+var mnemonic = "three add receive benefit say account advice wish record rate require thrive";

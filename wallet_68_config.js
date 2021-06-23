@@ -1,1 +1,1 @@
-var mnemonic = "board element pilot country exercise small unusual slab century design move beyond";
+var mnemonic = "fluid anger under fork bamboo pet stereo club custom arctic mad very";

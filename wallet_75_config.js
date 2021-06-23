@@ -1,1 +1,1 @@
-var mnemonic = "alarm junk gap disease coil despair busy dust setup winter airport shell";
+var mnemonic = "vault slow immense month lucky diamond judge exotic onion burger slim office";

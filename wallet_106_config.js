@@ -1,1 +1,1 @@
-var mnemonic = "verb exhibit toddler guilt candy embark tank provide pony steak dad fiscal";
+var mnemonic = "alter hole fury inflict balcony mean donkey grit comfort claim fury badge";

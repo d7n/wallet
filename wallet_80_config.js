@@ -1,1 +1,1 @@
-var mnemonic = "ankle swear solve stadium fuel gorilla motion fox witness metal chase horn";
+var mnemonic = "exact reunion crawl upper mimic dolphin ensure all position country brick swift";

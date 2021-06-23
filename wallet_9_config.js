@@ -1,1 +1,1 @@
-var mnemonic = "exercise museum silver cereal stereo vanish clap weather balance column used result";
+var mnemonic = "transfer stand account almost walnut mind destroy select nominee analyst salmon citizen";

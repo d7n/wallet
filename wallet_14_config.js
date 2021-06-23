@@ -1,1 +1,1 @@
-var mnemonic = "offer effort wife liquid blue fix maid lake session debate differ multiply";
+var mnemonic = "truly venue glance glow march boring stool butter night parent bike pupil";

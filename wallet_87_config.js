@@ -1,1 +1,1 @@
-var mnemonic = "normal vault acquire shift purse talent old fix few timber silly able";
+var mnemonic = "quiz organ must divorce north glad alcohol suspect isolate setup book razor";

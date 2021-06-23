@@ -1,1 +1,1 @@
-var mnemonic = "point quote random sign solve lion hundred humor miracle stadium taste tape";
+var mnemonic = "rhythm rely welcome shine industry mystery rookie patch deliver relax awesome night";

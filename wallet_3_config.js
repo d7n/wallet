@@ -1,1 +1,1 @@
-var mnemonic = "little axis casual diesel concert legal rough welcome depend program off arrow";
+var mnemonic = "bind lawn drastic pool inspire hurry crush blind simple tiny response hat";

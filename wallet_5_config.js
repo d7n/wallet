@@ -1,1 +1,1 @@
-var mnemonic = "punch slush either share amateur flight spell envelope one opinion romance web";
+var mnemonic = "bracket genre silly actual mouse abandon october faculty lizard cream armor pony";

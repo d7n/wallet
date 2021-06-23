@@ -1,1 +1,1 @@
-var mnemonic = "fury ensure gorilla insect woman video relief ginger trick such joke soda";
+var mnemonic = "grid unhappy reduce aunt opera license box uphold trumpet illness sister empty";

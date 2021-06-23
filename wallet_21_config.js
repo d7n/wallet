@@ -1,1 +1,1 @@
-var mnemonic = "clip brick plunge recycle glance use chest candy stereo depth shift wait";
+var mnemonic = "lava alcohol what identify unique dentist uncle paddle wasp deposit game relax";

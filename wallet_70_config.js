@@ -1,1 +1,1 @@
-var mnemonic = "pole cannon bone farm poverty put emotion filter answer fire marble tuna";
+var mnemonic = "teach alley poverty heavy seven piano response correct still near artefact valid";

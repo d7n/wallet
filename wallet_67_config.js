@@ -1,1 +1,1 @@
-var mnemonic = "divert unable dawn valley shift often few nose family equip select zero";
+var mnemonic = "pioneer sport ivory quantum rose awful power satisfy cement aisle fence blur";

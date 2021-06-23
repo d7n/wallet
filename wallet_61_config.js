@@ -1,1 +1,1 @@
-var mnemonic = "reject grain useful rescue excite crush scissors lunch this harsh dish about";
+var mnemonic = "feed vendor pipe tiger peanut episode hurry then salad best connect pizza";

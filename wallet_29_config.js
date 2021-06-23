@@ -1,1 +1,1 @@
-var mnemonic = "deputy industry census birth spell display ugly win vendor view turtle toy";
+var mnemonic = "frost near offer mirror account update truly crop oyster cinnamon dentist insect";

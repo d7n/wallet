@@ -1,1 +1,1 @@
-var mnemonic = "spring save force rally because physical disease stairs addict tribe artefact razor";
+var mnemonic = "token saddle inmate fluid normal oven hurdle guilt bottom bean diagram fatigue";

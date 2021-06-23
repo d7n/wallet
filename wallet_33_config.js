@@ -1,1 +1,1 @@
-var mnemonic = "business exchange habit remain rebel prevent supreme concert accuse village sense aunt";
+var mnemonic = "motor orphan illness clock poem timber multiply vintage broom ethics differ stage";

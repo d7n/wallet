@@ -1,1 +1,1 @@
-var mnemonic = "outer bus mosquito song appear off year build grit inform weather catalog";
+var mnemonic = "benefit unhappy frozen law thrive stool elegant resource aware blossom cost into";

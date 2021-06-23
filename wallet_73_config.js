@@ -1,1 +1,1 @@
-var mnemonic = "embrace clinic employ ship empty mail when weasel trade fuel note sorry";
+var mnemonic = "piece piano dust usage ginger slim common little truck jazz assist disagree";

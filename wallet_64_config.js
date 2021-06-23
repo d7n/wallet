@@ -1,1 +1,1 @@
-var mnemonic = "border library reward solution write fish maze food bus atom opera course";
+var mnemonic = "fine stage face medal twelve poverty hope hundred slight swamp bleak lemon";

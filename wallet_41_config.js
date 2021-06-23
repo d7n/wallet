@@ -1,1 +1,1 @@
-var mnemonic = "follow opera suffer video huge love filter wear perfect siren cruel curve";
+var mnemonic = "mouse note pretty photo such tortoise drink kid hire rocket nice author";

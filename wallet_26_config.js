@@ -1,1 +1,1 @@
-var mnemonic = "bird unusual ridge flame morning measure morning pumpkin season onion cousin subject";
+var mnemonic = "fashion thought layer stuff area hidden airport trust round salt rude again";

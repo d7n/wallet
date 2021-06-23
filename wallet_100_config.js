@@ -1,1 +1,1 @@
-var mnemonic = "elephant various analyst bring soccer street vacant lamp lawn fame unhappy ginger";
+var mnemonic = "observe census exotic doll antenna team false blame bus anger stove canvas";

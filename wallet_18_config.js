@@ -1,1 +1,1 @@
-var mnemonic = "snap genuine inspire album decrease loop endless arrange motor giraffe scorpion sword";
+var mnemonic = "drive saddle glow grape trash angry canvas bracket this letter palace pitch";

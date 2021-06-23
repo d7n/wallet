@@ -1,1 +1,1 @@
-var mnemonic = "supreme better surge portion provide goose submit exist tooth purity digital inflict";
+var mnemonic = "comfort crime miracle inch winner input caught boring cross illness vibrant degree";

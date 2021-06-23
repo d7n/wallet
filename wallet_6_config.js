@@ -1,1 +1,1 @@
-var mnemonic = "goddess weird auto orchard live beyond present blade cotton bundle squeeze victory";
+var mnemonic = "define total diamond design stereo enrich motion stem strike chaos bird cheap";

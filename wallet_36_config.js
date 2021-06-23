@@ -1,1 +1,1 @@
-var mnemonic = "blue advance upon ball thumb divide frog edge sausage large calm humor";
+var mnemonic = "radio artwork glory ship lend salad cousin auto crowd clay paper verb";

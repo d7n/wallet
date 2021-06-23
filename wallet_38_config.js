@@ -1,1 +1,1 @@
-var mnemonic = "piano steak dad put certain range debate arrange ahead celery peasant brief";
+var mnemonic = "correct tobacco expire steak walk pen extra else auto post script cherry";

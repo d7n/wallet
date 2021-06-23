@@ -1,1 +1,1 @@
-var mnemonic = "cram meadow maid recycle radar digital tooth industry pill blur oppose action";
+var mnemonic = "shield onion anxiety creek reform lava notice cat glimpse alley mercy ice";

@@ -1,1 +1,1 @@
-var mnemonic = "repair harvest crop install there walnut acid margin ginger select middle buffalo";
+var mnemonic = "certain word medal wheat medal random cash pass plate wisdom kitten ribbon";

@@ -1,1 +1,1 @@
-var mnemonic = "chat raise analyst canoe swing item absorb federal grab mule giant person";
+var mnemonic = "total better palm negative toward purity deliver trick solution question blind dignity";

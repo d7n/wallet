@@ -1,1 +1,1 @@
-var mnemonic = "change erosion liberty record fatal silver feel planet west library skill response";
+var mnemonic = "clap letter wait inspire hedgehog avoid seed swarm brief govern fame injury";

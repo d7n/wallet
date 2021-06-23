@@ -1,1 +1,1 @@
-var mnemonic = "boil busy echo payment pelican enable silent vacant soap knee permit cream";
+var mnemonic = "upper loan setup million throw depend gift clog pink impose peace crowd";

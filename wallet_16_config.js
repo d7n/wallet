@@ -1,1 +1,1 @@
-var mnemonic = "noodle chronic scrub subject tattoo west ready venue feature tobacco seek stone";
+var mnemonic = "merge soft another taste unlock disorder unaware excuse tooth subject tip cook";

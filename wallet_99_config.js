@@ -1,1 +1,1 @@
-var mnemonic = "item eight trade social boil silly bleak glue riot robot crack result";
+var mnemonic = "stand obvious girl tag caution reject alley hair smooth opera fox tackle";
