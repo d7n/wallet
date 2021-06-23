@@ -1,1 +1,1 @@
-var mnemonic = "dirt dice right much loan truly this expose awful install forward cross";
+var mnemonic = "evoke receive hospital narrow famous answer kid trumpet uncle note debris mean";

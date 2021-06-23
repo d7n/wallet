@@ -1,1 +1,1 @@
-var mnemonic = "adult method shell else ceiling fresh laptop muffin helmet rose rain inch";
+var mnemonic = "upgrade grant thought behave keep bicycle valid position remain quit surge route";

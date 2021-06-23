@@ -1,1 +1,1 @@
-var mnemonic = "couple price mom noodle stereo gown member inherit novel unique mirror bus";
+var mnemonic = "robust journey medal shy demand session daughter month near cross bacon humble";

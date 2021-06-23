@@ -1,1 +1,1 @@
-var mnemonic = "goose squirrel health bracket arena total time differ problem uncover upon shift";
+var mnemonic = "more robot real nerve skate puzzle penalty february casino mobile modify treat";

@@ -1,1 +1,1 @@
-var mnemonic = "brisk enable scrap nice latin later reject power thing vacant ice member";
+var mnemonic = "picnic burst castle lock arch blur luxury stomach warrior output drama click";

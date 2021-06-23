@@ -1,1 +1,1 @@
-var mnemonic = "decade easy forum author army lesson before peanut happy blade burger cousin";
+var mnemonic = "lend nice menu exhaust market save bronze increase control private pet neither";

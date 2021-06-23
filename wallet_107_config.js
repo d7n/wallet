@@ -1,1 +1,1 @@
-var mnemonic = "bracket gossip battle produce rural enact horn fossil punch section art member";
+var mnemonic = "slice imitate bicycle notice eternal journey memory salad parrot rookie urge pencil";

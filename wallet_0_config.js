@@ -1,1 +1,1 @@
-var mnemonic = "hospital inner light affair runway click ride help wrestle razor exhibit dry";
+var mnemonic = "outdoor envelope tonight style daring artefact ecology tell fashion grace always shaft";

@@ -1,1 +1,1 @@
-var mnemonic = "wheel comic captain neither since kitten leader decorate logic aim friend enforce";
+var mnemonic = "pyramid enjoy dawn fox frog eagle fitness produce grass depth crash issue";

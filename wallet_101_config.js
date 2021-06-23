@@ -1,1 +1,1 @@
-var mnemonic = "echo bench kick vacuum season rail brown track matrix amazing wolf acquire";
+var mnemonic = "seven hedgehog daughter empower wave trap tool valley grit alert deal subway";

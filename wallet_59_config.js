@@ -1,1 +1,1 @@
-var mnemonic = "odor sadness tennis agent park gorilla mansion decide abandon body rigid absent";
+var mnemonic = "advice sea nation hockey creek zone deer skull genius coil profit brush";

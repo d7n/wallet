@@ -1,1 +1,1 @@
-var mnemonic = "social royal destroy joke risk fog evil toward harsh round denial exhaust";
+var mnemonic = "hello census toast narrow rigid hen pudding put people obscure street medal";

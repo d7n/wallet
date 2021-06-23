@@ -1,1 +1,1 @@
-var mnemonic = "speed donor virus hero fit buyer assume custom profit discover mix fiscal";
+var mnemonic = "melody book begin wood tone salmon club waste group rely crowd hurry";

@@ -1,1 +1,1 @@
-var mnemonic = "mean alone cry picture nose empower impulse fashion roast include abandon catalog";
+var mnemonic = "banana still zone pole tent slogan rather over champion chair fire silk";

@@ -1,1 +1,1 @@
-var mnemonic = "soup clay fog moment vehicle license van image spawn forest cereal possible";
+var mnemonic = "flag dust banner rookie prevent afford ceiling brick ranch inside detail beauty";

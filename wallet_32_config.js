@@ -1,1 +1,1 @@
-var mnemonic = "practice code minute render stem shop capital steel blossom little alien seminar";
+var mnemonic = "mansion endorse art surge amused sentence street echo about mercy chest office";

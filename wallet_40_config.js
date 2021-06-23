@@ -1,1 +1,1 @@
-var mnemonic = "cart cage buddy legend try cheese praise frost film impose spell document";
+var mnemonic = "office arrest world coast talent betray guard sister notable pretty roof chase";

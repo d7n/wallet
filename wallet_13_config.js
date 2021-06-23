@@ -1,1 +1,1 @@
-var mnemonic = "catch nice favorite april cluster demand forget lizard maid net celery maple";
+var mnemonic = "modify drastic mammal mule space eyebrow walnut across shadow universe debate purchase";

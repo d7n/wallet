@@ -1,1 +1,1 @@
-var mnemonic = "dish grape glimpse slam alert hedgehog paddle grab life drama crime canvas";
+var mnemonic = "tool day elephant train admit strike nature badge peace crumble popular smart";

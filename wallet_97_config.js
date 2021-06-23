@@ -1,1 +1,1 @@
-var mnemonic = "click raw neck injury achieve behind cross whale cargo auto patrol banana";
+var mnemonic = "nuclear file occur opinion sphere network rival taxi because knee bicycle innocent";

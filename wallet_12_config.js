@@ -1,1 +1,1 @@
-var mnemonic = "diesel maze advance sunset remove energy debate fall surround ecology skill rack";
+var mnemonic = "this cry ring logic forget reveal breeze topic silly jewel scene rule";

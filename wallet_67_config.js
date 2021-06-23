@@ -1,1 +1,1 @@
-var mnemonic = "advice lion denial tribe empty major lyrics ancient sniff season blame biology";
+var mnemonic = "want rely couch print pool proud supreme move grief bulk day nerve";

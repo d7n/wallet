@@ -1,1 +1,1 @@
-var mnemonic = "long buddy comfort valid shaft roof maze avocado adult young layer wrestle";
+var mnemonic = "magic prevent leg stairs wrist cover random decorate soft label steel acquire";

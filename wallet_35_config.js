@@ -1,1 +1,1 @@
-var mnemonic = "atom sudden hint eyebrow around orbit surprise seat blue hundred guide obscure";
+var mnemonic = "limit promote load erosion remove hover voyage arrest ring riot feel liar";

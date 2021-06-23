@@ -1,1 +1,1 @@
-var mnemonic = "swarm calm brief page dream slush rigid hospital magic emotion rice book";
+var mnemonic = "often drama lobster neglect age olive security inform climb pulse census flip";

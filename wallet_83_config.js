@@ -1,1 +1,1 @@
-var mnemonic = "matter lake cricket rose solar accuse stove blanket slender gown jacket rifle";
+var mnemonic = "lift bacon pilot century onion arctic always plate network share zero silly";

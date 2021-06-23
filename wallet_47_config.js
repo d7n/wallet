@@ -1,1 +1,1 @@
-var mnemonic = "below infant purpose spike crisp inhale flip oak canal diary mammal fatal";
+var mnemonic = "oil top soccer minimum fantasy smooth surround wrestle annual shed bamboo region";

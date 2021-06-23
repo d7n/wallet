@@ -1,1 +1,1 @@
-var mnemonic = "decline frown flip try best goose walnut decorate rifle cool tissue toe";
+var mnemonic = "annual museum digital fee solar diary sock heart pitch draw grass quality";

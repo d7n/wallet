@@ -1,1 +1,1 @@
-var mnemonic = "wine switch puppy mother mean clay song viable relax trick acquire scrub";
+var mnemonic = "myself fatigue glimpse another accident mandate foam portion potato lounge coffee dad";

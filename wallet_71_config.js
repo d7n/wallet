@@ -1,1 +1,1 @@
-var mnemonic = "whisper envelope stamp casual hello initial depend sweet hungry pond tired notice";
+var mnemonic = "mixed tool wire write enough exact clap turtle input marriage lava tent";

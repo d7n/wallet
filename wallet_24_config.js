@@ -1,1 +1,1 @@
-var mnemonic = "sphere genius biology mouse stem ill mango ridge good short shed scare";
+var mnemonic = "current tail sample neck reward vendor aunt desert stable attend wing abstract";

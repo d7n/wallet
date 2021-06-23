@@ -1,1 +1,1 @@
-var mnemonic = "cliff pledge gorilla kiss world alarm reveal supply aunt promote alley floor";
+var mnemonic = "beauty flee swarm pistol foam betray company guitar monitor surprise kick state";

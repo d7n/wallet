@@ -1,1 +1,1 @@
-var mnemonic = "buffalo squeeze ten bone supply satisfy orchard copy wreck warm sound crystal";
+var mnemonic = "comfort nose document joke verify pet riot pen voyage term hood kangaroo";

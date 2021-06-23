@@ -1,1 +1,1 @@
-var mnemonic = "desk furnace license vital stone split rebuild turtle citizen collect wise occur";
+var mnemonic = "desert clever galaxy lobster climb mushroom maze cry invite talk better mechanic";

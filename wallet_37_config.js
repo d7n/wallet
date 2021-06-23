@@ -1,1 +1,1 @@
-var mnemonic = "chaos crack globe final whisper shop artefact used assist trial ready coral";
+var mnemonic = "unfair pear piano current layer label huge spoil suit nerve milk detail";

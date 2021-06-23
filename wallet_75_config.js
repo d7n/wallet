@@ -1,1 +1,1 @@
-var mnemonic = "someone legend rice cupboard vague waste universe cushion muscle alpha end siren";
+var mnemonic = "dinner drama jeans sudden oyster horn profit hidden throw hour until improve";

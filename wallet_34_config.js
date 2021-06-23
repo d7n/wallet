@@ -1,1 +1,1 @@
-var mnemonic = "foam nice title future antenna interest valley food scorpion maze member cry";
+var mnemonic = "small note knock random beauty mention donor flash subject across vessel visa";

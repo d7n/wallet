@@ -1,1 +1,1 @@
-var mnemonic = "dawn struggle diary casual spell bomb finger add mango bottom scatter robot";
+var mnemonic = "panther profit mango bless fury toe solid wish hammer bitter knock method";

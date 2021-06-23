@@ -1,1 +1,1 @@
-var mnemonic = "acquire play trophy program desk urban erode brisk sail knock wild anxiety";
+var mnemonic = "execute blouse call marine label gentle abuse idea treat slender ice minor";

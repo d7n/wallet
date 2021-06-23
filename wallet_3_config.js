@@ -1,1 +1,1 @@
-var mnemonic = "boost grass brisk disorder proof jealous fetch trash disagree neither hen bicycle";
+var mnemonic = "velvet imitate afraid concert glide eagle dragon agree patrol season casino ghost";

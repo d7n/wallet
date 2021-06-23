@@ -1,1 +1,1 @@
-var mnemonic = "elephant genre robot figure taxi coach donkey rent air judge claw ginger";
+var mnemonic = "damp round color pluck path bitter ecology enter above vivid animal misery";

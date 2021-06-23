@@ -1,1 +1,1 @@
-var mnemonic = "pass civil author snap rule symptom issue sight rescue okay dentist draw";
+var mnemonic = "deposit aisle giraffe cover raw pause sphere rug involve upset safe chimney";

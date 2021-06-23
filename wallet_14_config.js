@@ -1,1 +1,1 @@
-var mnemonic = "cage oblige great save afraid silver cherry arrive festival surge design vague";
+var mnemonic = "use travel horror marine also practice obtain hazard property science remain caught";

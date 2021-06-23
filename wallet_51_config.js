@@ -1,1 +1,1 @@
-var mnemonic = "finger tide push kitchen chunk guard test tide wear police apple bubble";
+var mnemonic = "quick cushion visual person come exhibit settle critic swarm peasant useless fly";

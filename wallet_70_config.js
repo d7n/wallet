@@ -1,1 +1,1 @@
-var mnemonic = "tuition negative embark grass boring trophy scatter steel guide mushroom abstract core";
+var mnemonic = "various paddle demise night air visa detail warfare wet name worth actor";

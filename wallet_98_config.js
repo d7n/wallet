@@ -1,1 +1,1 @@
-var mnemonic = "matrix scrap advice ramp hungry mandate document debris update manage claim news";
+var mnemonic = "lift ensure human access index issue learn north inflict enough predict stuff";

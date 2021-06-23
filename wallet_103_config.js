@@ -1,1 +1,1 @@
-var mnemonic = "usage virtual tone weather heavy brown idea soap clutch dragon behave vintage";
+var mnemonic = "hazard sport person apart cram hen neck annual butter elder can tower";

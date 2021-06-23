@@ -1,1 +1,1 @@
-var mnemonic = "grief lift sea enlist world deal earth hunt they magic raw source";
+var mnemonic = "heavy artefact idea grow torch sample auto soldier fun resemble speed wedding";

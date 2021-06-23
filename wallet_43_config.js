@@ -1,1 +1,1 @@
-var mnemonic = "flock genre absorb all social power ride reform knock sea simple advance";
+var mnemonic = "eight cup taste stadium pony will chef torch arctic hotel expect disorder";

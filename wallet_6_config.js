@@ -1,1 +1,1 @@
-var mnemonic = "aisle scale addict this leg boost caution scorpion nature zero gossip relax";
+var mnemonic = "try law chair debris recall record direct swarm main rigid grape disease";

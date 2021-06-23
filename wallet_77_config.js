@@ -1,1 +1,1 @@
-var mnemonic = "bullet entry brave detect trend average zone glance lift perfect dice live";
+var mnemonic = "forest juice infant kiwi fit auto fame early disagree wet summer document";

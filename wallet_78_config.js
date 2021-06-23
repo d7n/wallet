@@ -1,1 +1,1 @@
-var mnemonic = "battle crucial shed bus seminar evoke balance pass regular muffin bring brother";
+var mnemonic = "dinner code earn slight door common aunt odor velvet bean bitter wall";

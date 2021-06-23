@@ -1,1 +1,1 @@
-var mnemonic = "topple verb history section purse arch tooth inmate false mixed company know";
+var mnemonic = "clever muffin pizza blame athlete seat bargain slide oyster plate attend there";

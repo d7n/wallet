@@ -1,1 +1,1 @@
-var mnemonic = "soup rose brand permit logic afraid ship awake scout place law what";
+var mnemonic = "sea off visual borrow snow panda assume notable ecology tobacco skirt often";

@@ -1,1 +1,1 @@
-var mnemonic = "farm mango label ring student rebuild concert bring segment genre silk pencil";
+var mnemonic = "abstract taste powder orange distance radar lamp vacuum lend keep auction off";

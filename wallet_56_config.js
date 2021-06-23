@@ -1,1 +1,1 @@
-var mnemonic = "vicious hour wheel elite injury hat shell junior open machine organ great";
+var mnemonic = "decline input express praise task shove mandate trigger true disease portion copy";

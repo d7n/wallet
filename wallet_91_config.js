@@ -1,1 +1,1 @@
-var mnemonic = "found term kick volume adult monkey reform educate silver prevent wife day";
+var mnemonic = "amazing century album wing you stuff fashion catch agent present order enough";

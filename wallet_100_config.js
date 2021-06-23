@@ -1,1 +1,1 @@
-var mnemonic = "soap girl valve afford device day true stadium mushroom upset middle talent";
+var mnemonic = "air marble frame praise force indicate scare payment moral report suit vital";

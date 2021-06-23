@@ -1,1 +1,1 @@
-var mnemonic = "theme whip prison doll elephant one thing above skull clerk tunnel wreck";
+var mnemonic = "typical kidney easy make margin dolphin comfort brother toe slight outside balance";

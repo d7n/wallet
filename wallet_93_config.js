@@ -1,1 +1,1 @@
-var mnemonic = "idea net spike device input latin answer tortoise payment horse bitter stumble";
+var mnemonic = "keep orphan afford dose multiply lonely climb faith spray journey slice chat";

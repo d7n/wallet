@@ -1,1 +1,1 @@
-var mnemonic = "animal mushroom fly program boat actor bachelor patient sustain seat laundry job";
+var mnemonic = "okay sketch erosion ring true orphan mail skin hire furnace casino note";

@@ -1,1 +1,1 @@
-var mnemonic = "involve foam scare tackle tourist process equal subway equip slight obey again";
+var mnemonic = "uniform erase dry bean trick donkey text view forum else loop wool";

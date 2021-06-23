@@ -1,1 +1,1 @@
-var mnemonic = "travel have news ginger cook vanish radar artist october cook cruise add";
+var mnemonic = "wheel sea opinion swallow item model direct weather bird analyst comic situate";

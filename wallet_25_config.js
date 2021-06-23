@@ -1,1 +1,1 @@
-var mnemonic = "rule magnet chronic suffer lend undo model wash legend athlete tonight taxi";
+var mnemonic = "apology force fold rapid yellow uphold emotion beach strike topple mix undo";

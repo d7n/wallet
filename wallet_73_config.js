@@ -1,1 +1,1 @@
-var mnemonic = "issue pumpkin prison entry fly pole latin pill zoo camp tower umbrella";
+var mnemonic = "certain never medal electric ice usage fortune fun evidence door leader slogan";

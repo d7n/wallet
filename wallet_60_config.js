@@ -1,1 +1,1 @@
-var mnemonic = "treat north winner ball mother drastic else funny junk fabric dry suggest";
+var mnemonic = "bracket pony mountain barrel feature actress lawsuit scale mean off carbon unlock";

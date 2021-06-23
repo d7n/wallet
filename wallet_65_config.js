@@ -1,1 +1,1 @@
-var mnemonic = "oyster sphere hard truck tuition couch cable symptom top lens have observe";
+var mnemonic = "truck bid bargain develop kingdom they audit food earn dream onion enroll";

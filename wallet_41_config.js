@@ -1,1 +1,1 @@
-var mnemonic = "oval label dynamic end sleep opinion outer raven tiny like indicate admit";
+var mnemonic = "intact kiwi syrup couple more blame gentle frame similar frost bright comic";

@@ -1,1 +1,1 @@
-var mnemonic = "cabin since fossil security replace give twin picnic economy wood unable short";
+var mnemonic = "napkin regular capable reduce two negative merge elder diamond season margin camp";

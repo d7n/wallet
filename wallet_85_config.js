@@ -1,1 +1,1 @@
-var mnemonic = "spoon mind fox silly casino fan clog present outdoor asthma parade guitar";
+var mnemonic = "owner myth sponsor junior angle trap home copy garden wood hood chicken";

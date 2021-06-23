@@ -1,1 +1,1 @@
-var mnemonic = "song drift reject aisle pepper evolve century bread gaze slush please stadium";
+var mnemonic = "sword drink onion era route warfare dice rude tornado prize fold disease";

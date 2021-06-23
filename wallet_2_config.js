@@ -1,1 +1,1 @@
-var mnemonic = "hair throw evil exotic turkey motion cycle ozone west casual wrong inform";
+var mnemonic = "cube amused size junk glide jealous dust gas moon avoid relief unknown";

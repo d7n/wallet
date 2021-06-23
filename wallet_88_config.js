@@ -1,1 +1,1 @@
-var mnemonic = "enact conduct fame what toddler multiply emerge mercy prize flock away draw";
+var mnemonic = "olive drive rhythm student bottom lazy abandon grass stereo still tank flavor";

@@ -1,1 +1,1 @@
-var mnemonic = "test alter huge price range tone rug boy aim pluck ivory sample";
+var mnemonic = "club woman pelican cup grass poet end core artist inmate rule copper";

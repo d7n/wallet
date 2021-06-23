@@ -1,1 +1,1 @@
-var mnemonic = "expand sugar mobile caution ready bring ankle pyramid column present green pizza";
+var mnemonic = "shell corn throw method cactus mechanic mountain roast pizza erase list door";

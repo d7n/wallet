@@ -1,1 +1,1 @@
-var mnemonic = "puppy amateur mixed promote jeans plunge sustain pudding certain rail address enhance";
+var mnemonic = "bundle blood make car minimum inch dwarf sister idea park acoustic orient";

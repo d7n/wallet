@@ -1,1 +1,1 @@
-var mnemonic = "join taxi rhythm faith biology brave symptom agent pool dizzy vacuum expire";
+var mnemonic = "chicken penalty brave ramp because dismiss zero high grab fury auto relief";

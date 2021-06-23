@@ -1,1 +1,1 @@
-var mnemonic = "seminar rifle category lonely jewel east patch drip pluck jealous exclude cram";
+var mnemonic = "glance tape soon fetch trash bracket orange tower net draft spot prevent";

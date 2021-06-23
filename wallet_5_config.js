@@ -1,1 +1,1 @@
-var mnemonic = "hundred blur curtain gaze humble toilet airport zoo catalog blanket earth spawn";
+var mnemonic = "reduce announce relax leaf boy tuition surprise taxi habit control crawl debris";

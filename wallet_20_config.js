@@ -1,1 +1,1 @@
-var mnemonic = "unveil proof narrow train decade laptop scan avocado ready visit goose correct";
+var mnemonic = "nation excess copper myself book rifle weasel slush melody first lunch bitter";

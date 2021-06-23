@@ -1,1 +1,1 @@
-var mnemonic = "ill pitch excess play soft forest road hair endorse roast escape cheese";
+var mnemonic = "humble split nasty twice wheel visual canvas later amused stone hurry adjust";

@@ -1,1 +1,1 @@
-var mnemonic = "canal city topple increase turn member athlete gloom dream lens wall learn";
+var mnemonic = "slow plate cradle among snow gun tower item tape peanut federal master";

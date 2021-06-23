@@ -1,1 +1,1 @@
-var mnemonic = "glass powder truly maze happy cruel kangaroo lottery joke agree utility planet";
+var mnemonic = "bitter syrup fame conduct hill accident certain element noise elegant absurd stomach";

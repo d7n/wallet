@@ -1,1 +1,1 @@
-var mnemonic = "expand access chalk profit genre squeeze trim stick sunny extra husband glance";
+var mnemonic = "surprise square injury piece more lend clean rabbit giant labor raven security";
