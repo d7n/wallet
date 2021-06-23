@@ -1,1 +1,1 @@
-var mnemonic = "lizard excite enlist inner bus pledge entry range race tape churn chuckle";
+var mnemonic = "what limb nation ordinary rhythm barely buddy dune smoke suffer jar armor";

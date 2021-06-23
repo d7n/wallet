@@ -1,1 +1,1 @@
-var mnemonic = "pilot figure midnight region job rigid tonight hat duck glue canvas danger";
+var mnemonic = "clip galaxy raw spring labor short talent pilot notable depend curve across";

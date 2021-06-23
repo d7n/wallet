@@ -1,1 +1,1 @@
-var mnemonic = "journey sick month equal dial kingdom off increase fat rival taxi tattoo";
+var mnemonic = "peace ask witness live dolphin report skirt deal various twelve elephant pipe";

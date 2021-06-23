@@ -1,1 +1,1 @@
-var mnemonic = "produce above program float victory swamp hover rural swear green distance build";
+var mnemonic = "benefit immense core pistol panic toss lizard couch jar major tongue head";

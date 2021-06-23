@@ -1,1 +1,1 @@
-var mnemonic = "powder useful debate box stone lava undo gauge story search dizzy timber";
+var mnemonic = "upset today ripple gather biology pattern promote stadium excuse click morning regular";

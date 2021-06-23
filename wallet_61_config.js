@@ -1,1 +1,1 @@
-var mnemonic = "cotton frog jeans wealth relax project solve render eager nominee scene around";
+var mnemonic = "gather inhale blast drop predict estate abuse upgrade high palm obvious barrel";

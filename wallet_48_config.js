@@ -1,1 +1,1 @@
-var mnemonic = "nominee issue wide broccoli easy fruit salad produce debate asthma exit taste";
+var mnemonic = "among income arctic acoustic heavy rapid margin mesh wolf grab beauty cushion";

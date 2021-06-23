@@ -1,1 +1,1 @@
-var mnemonic = "dune outside dolphin pigeon veteran suspect seek volcano cherry digital guitar piece";
+var mnemonic = "horror veteran always sleep board moment auto cup over field elder grape";

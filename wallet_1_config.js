@@ -1,1 +1,1 @@
-var mnemonic = "tunnel happy brown stadium height before access club media usage spider ticket";
+var mnemonic = "gadget behind stand kiss hotel coil narrow air castle charge debris vivid";

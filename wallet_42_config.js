@@ -1,1 +1,1 @@
-var mnemonic = "message antique illegal tourist parent phrase elbow exercise accident meat absurd sibling";
+var mnemonic = "among minimum brother balance spin sausage ancient simple myself defense bike unit";

@@ -1,1 +1,1 @@
-var mnemonic = "sail elevator suggest tourist winter toddler reward good spend engine evil action";
+var mnemonic = "silent vault science birth adult caution general cancel slogan fetch fall boost";

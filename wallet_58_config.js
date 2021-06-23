@@ -1,1 +1,1 @@
-var mnemonic = "depend attitude magnet fault seat few cry second infant ozone artefact merry";
+var mnemonic = "about huge unusual rent what design scrap bronze slam scale custom quantum";

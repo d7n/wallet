@@ -1,1 +1,1 @@
-var mnemonic = "upgrade maple adjust story usage unknown garment sad toe tell stairs mango";
+var mnemonic = "imitate lens prosper time lift gloom leg smart oven sound purse scale";

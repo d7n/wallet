@@ -1,1 +1,1 @@
-var mnemonic = "myth garage escape monitor salt rice sick switch giggle border law cook";
+var mnemonic = "screen peasant luxury owner warfare normal theory stuff champion topple enact banner";

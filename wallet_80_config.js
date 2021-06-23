@@ -1,1 +1,1 @@
-var mnemonic = "run warm episode alert grief veteran choice mind category hold dog kind";
+var mnemonic = "now carry urge anxiety valid grief relax unusual cry offer metal van";

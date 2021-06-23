@@ -1,1 +1,1 @@
-var mnemonic = "list script waste gym announce letter note arrow mango hidden alarm give";
+var mnemonic = "venture drill peace spend diamond spawn south gather maze retreat same deputy";

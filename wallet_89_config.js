@@ -1,1 +1,1 @@
-var mnemonic = "gain measure bring license teach express beyond weapon myth cycle visual position";
+var mnemonic = "uncover useless switch nominee fresh genre pulp balance property cotton panel need";

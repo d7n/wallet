@@ -1,1 +1,1 @@
-var mnemonic = "switch depend cluster month yellow manage tragic journey bright direct sail arena";
+var mnemonic = "vehicle riot sorry can airport laptop torch session lobster beyond begin zone";

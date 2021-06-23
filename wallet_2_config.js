@@ -1,1 +1,1 @@
-var mnemonic = "slim gallery dry health chief swift autumn tired cannon close step visit";
+var mnemonic = "scan cereal flee assist ordinary meadow hand scatter weekend dragon shiver barrel";

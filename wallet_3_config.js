@@ -1,1 +1,1 @@
-var mnemonic = "cannon rocket quit receive dry canvas cave cinnamon method time vault journey";
+var mnemonic = "kiwi east room sugar firm bulb duck edge raise mom across blush";

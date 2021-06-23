@@ -1,1 +1,1 @@
-var mnemonic = "truth hope lamp pull fence opinion sand plunge main wedding question december";
+var mnemonic = "gift coconut balcony jungle coconut arctic better edge whisper fatigue pulse either";

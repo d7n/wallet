@@ -1,1 +1,1 @@
-var mnemonic = "opinion sail vague retire price bubble system eye ski flight deal mushroom";
+var mnemonic = "mail velvet walk mixture run foam fall twice crush brave arch possible";

@@ -1,1 +1,1 @@
-var mnemonic = "glad room space soldier topic lava fiscal guess office jungle corn alien";
+var mnemonic = "echo hamster true shrimp lava load fitness soccer fitness wage market doctor";

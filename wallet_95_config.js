@@ -1,1 +1,1 @@
-var mnemonic = "hold twelve mule deliver vacuum control attend sword post wash innocent bargain";
+var mnemonic = "inject width damp develop mad child trophy multiply tobacco kangaroo appear across";

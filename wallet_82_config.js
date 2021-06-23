@@ -1,1 +1,1 @@
-var mnemonic = "deer loan mixture object music lens brick angry resource lift index mean";
+var mnemonic = "ride nurse gap pause own track legend hour bicycle fuel hope flower";

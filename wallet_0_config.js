@@ -1,1 +1,1 @@
-var mnemonic = "prefer art leader uncover pigeon search later special wave unusual pistol sniff";
+var mnemonic = "stock crisp hub rural sing brush search entire horse sorry silly deny";

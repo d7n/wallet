@@ -1,1 +1,1 @@
-var mnemonic = "canvas dress purse dad sheriff gravity dawn oak latin rich movie choose";
+var mnemonic = "cube parent broccoli pink deposit wire half green monitor random gather track";

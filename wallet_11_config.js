@@ -1,1 +1,1 @@
-var mnemonic = "scissors major wire apart latin rebel sustain kid eyebrow blue accuse slow";
+var mnemonic = "lawsuit oil ladder pepper dish push hero gossip art rough virtual benefit";

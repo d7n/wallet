@@ -1,1 +1,1 @@
-var mnemonic = "salmon dawn giraffe doctor come find pink hazard double wall must rule";
+var mnemonic = "benefit tumble shy coach summer vacant puppy hint property dutch mistake spin";

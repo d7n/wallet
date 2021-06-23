@@ -1,1 +1,1 @@
-var mnemonic = "canoe clip adjust beach train chalk cash permit vibrant assault quality orphan";
+var mnemonic = "era draw potato bubble robot first toy lumber lab flavor sad shine";

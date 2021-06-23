@@ -1,1 +1,1 @@
-var mnemonic = "predict tell mango clay such parrot lab nest quiz anchor loop retire";
+var mnemonic = "anchor struggle there captain rose depth supply hair sand jewel burden island";

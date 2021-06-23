@@ -1,1 +1,1 @@
-var mnemonic = "hurdle fork sadness corn picture plate fog museum hungry awful torch crash";
+var mnemonic = "senior slow erase okay middle laugh dash useful meat gospel famous denial";

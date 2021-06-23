@@ -1,1 +1,1 @@
-var mnemonic = "predict curve unusual syrup chat habit pluck deposit dish wood smart orange";
+var mnemonic = "demand wear squeeze exclude giggle sweet catalog mom unlock disorder general journey";

@@ -1,1 +1,1 @@
-var mnemonic = "pig lend ahead lawn notable lava once ketchup sick tomorrow couch detail";
+var mnemonic = "awake cave wrist finger rally tobacco cram fit blur glass deal melt";

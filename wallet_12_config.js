@@ -1,1 +1,1 @@
-var mnemonic = "used tired wonder trust rocket slush nothing force mother during library then";
+var mnemonic = "film drink power near silent machine base imitate student almost happy carry";

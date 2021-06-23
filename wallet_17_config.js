@@ -1,1 +1,1 @@
-var mnemonic = "where nerve upon bomb valley suggest patrol winter degree kiss promote slot";
+var mnemonic = "mixed end hover cause famous race usage transfer ribbon avocado hole plastic";

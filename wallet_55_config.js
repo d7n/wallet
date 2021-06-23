@@ -1,1 +1,1 @@
-var mnemonic = "long only chair nation entry slam anxiety load joy gym slush correct";
+var mnemonic = "diagram song pistol ski almost unhappy list member velvet decide razor whale";

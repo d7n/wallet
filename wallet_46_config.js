@@ -1,1 +1,1 @@
-var mnemonic = "first climb quality drop emotion arrive culture sister chest dizzy bus device";
+var mnemonic = "panther broken circle float order perfect thing soup phone better title benefit";

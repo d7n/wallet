@@ -1,1 +1,1 @@
-var mnemonic = "kitten panic there recipe iron garment puppy crop mass elder video frog";
+var mnemonic = "wool seek slush problem intact hard domain tumble mail cool wing tuition";

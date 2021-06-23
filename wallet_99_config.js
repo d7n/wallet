@@ -1,1 +1,1 @@
-var mnemonic = "novel execute turtle arrest rare ring announce parent foster alone adjust number";
+var mnemonic = "regret secret wage borrow cabbage aspect token pistol human very insane ladder";

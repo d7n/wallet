@@ -1,1 +1,1 @@
-var mnemonic = "cake jeans quiz tiger useless light add claw casual jelly express dog";
+var mnemonic = "palm join summer process squeeze ostrich film pulse way tomato uniform age";

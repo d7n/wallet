@@ -1,1 +1,1 @@
-var mnemonic = "nothing author breeze stone thought tired release legend hamster apple oak summer";
+var mnemonic = "hawk inhale aware avocado bar giant staff soft enroll silk crazy divide";

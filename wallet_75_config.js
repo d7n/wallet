@@ -1,1 +1,1 @@
-var mnemonic = "immense derive acid expect easily guilt cheap visual fly face gravity indicate";
+var mnemonic = "ignore tornado aware expand piece access gold permit raven two surge brown";

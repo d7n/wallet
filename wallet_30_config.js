@@ -1,1 +1,1 @@
-var mnemonic = "phrase notable multiply solve glide scorpion seven hint parrot trap cattle basket";
+var mnemonic = "mix uncover team toward indoor amateur usual bind fee false wolf cute";

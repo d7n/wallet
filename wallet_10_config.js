@@ -1,1 +1,1 @@
-var mnemonic = "dynamic trophy awesome marriage buddy shift auction canvas elder rookie father area";
+var mnemonic = "cliff cancel load option invest army idle unfold disorder soldier hello prevent";

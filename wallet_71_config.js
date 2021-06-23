@@ -1,1 +1,1 @@
-var mnemonic = "leopard cause lobster material dream dentist buzz marine now depart join empower";
+var mnemonic = "valley minute swamp still hat onion case village license panda board wrap";

@@ -1,1 +1,1 @@
-var mnemonic = "noodle equal cheap puzzle brain choose glow seek tiny cube connect raw";
+var mnemonic = "limit model observe people key finish keep fog flock earth coffee possible";

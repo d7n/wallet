@@ -1,1 +1,1 @@
-var mnemonic = "rabbit accuse toward disease rent eagle senior scatter elder priority home elbow";
+var mnemonic = "gallery grape assume carbon total fresh human document bleak spend enroll patient";

@@ -1,1 +1,1 @@
-var mnemonic = "enrich bulb decrease goat cook devote grant point piece pyramid glide figure";
+var mnemonic = "stomach educate divorce describe priority elegant shoulder error east other control health";

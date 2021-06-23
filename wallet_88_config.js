@@ -1,1 +1,1 @@
-var mnemonic = "laptop response such armed feature antique wing hope cheese obey pulp crew";
+var mnemonic = "edge embrace special always witness lift theory chair access admit sail element";

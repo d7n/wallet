@@ -1,1 +1,1 @@
-var mnemonic = "coffee name shoe obtain twice sponsor mention pet orphan step cluster child";
+var mnemonic = "glare divert twin salad prosper fun barrel skin foil squeeze energy mobile";

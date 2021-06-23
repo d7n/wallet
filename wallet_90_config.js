@@ -1,1 +1,1 @@
-var mnemonic = "photo marriage slush diagram elite struggle soldier soccer fatal tent north chat";
+var mnemonic = "make position okay accident shell divorce page assist panic motor hazard jaguar";

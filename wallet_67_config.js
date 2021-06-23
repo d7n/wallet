@@ -1,1 +1,1 @@
-var mnemonic = "side monkey arctic harsh wheat diary quality rib matter burst cement gravity";
+var mnemonic = "apple length judge ozone author grape ring wink shove snap game enlist";

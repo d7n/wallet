@@ -1,1 +1,1 @@
-var mnemonic = "cactus release where satisfy faith timber expose body increase treat seat elegant";
+var mnemonic = "flash dish citizen help olympic account amused nuclear general pulse bomb predict";

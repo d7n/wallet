@@ -1,1 +1,1 @@
-var mnemonic = "height pink jump art trap license daring gauge bar zoo panther opera";
+var mnemonic = "motor armor laugh tornado human invest collect nature marriage supply suit sad";

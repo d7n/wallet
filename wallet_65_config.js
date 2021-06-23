@@ -1,1 +1,1 @@
-var mnemonic = "indoor dizzy then vivid rookie swallow remember minute wolf wet capable tribe";
+var mnemonic = "kiwi health rabbit city ski shine thrive hour satoshi oyster eternal panel";

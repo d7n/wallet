@@ -1,1 +1,1 @@
-var mnemonic = "govern rate fade maze seek arm convince vessel repeat aunt spell shoe";
+var mnemonic = "flight primary shop genre access rich detail quick define talent brisk loyal";

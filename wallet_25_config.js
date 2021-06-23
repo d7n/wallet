@@ -1,1 +1,1 @@
-var mnemonic = "when width advice dignity host drill air inquiry heavy clerk agent mask";
+var mnemonic = "once chase trial zoo arrive fatigue diagram pen zero claim either idea";

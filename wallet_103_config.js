@@ -1,1 +1,1 @@
-var mnemonic = "sound disease future abuse shaft axis dragon collect second hurdle machine viable";
+var mnemonic = "strike relax enable praise palace fuel want aunt slush equip legend bridge";

@@ -1,1 +1,1 @@
-var mnemonic = "order hidden control zoo write relief staff another solve keep approve silly";
+var mnemonic = "service green woman monkey club fossil caught foam pupil pistol ability label";

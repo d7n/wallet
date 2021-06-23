@@ -1,1 +1,1 @@
-var mnemonic = "hard advance habit total genre farm select early cabbage brick never sea";
+var mnemonic = "morning relax exit scheme athlete egg faculty runway fee thumb across horn";

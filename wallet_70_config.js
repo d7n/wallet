@@ -1,1 +1,1 @@
-var mnemonic = "float goddess prosper cram flee payment chef gauge kind magic danger father";
+var mnemonic = "warrior double flush dress ball bargain calm decrease unfold dignity solid before";

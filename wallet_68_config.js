@@ -1,1 +1,1 @@
-var mnemonic = "bleak please such sport clock orbit rebel bring solve deer buddy admit";
+var mnemonic = "angry concert bargain warrior fitness bottom track define swap valid dog toss";

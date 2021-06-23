@@ -1,1 +1,1 @@
-var mnemonic = "region judge curve merit tube merit supreme disease family brother similar fatal";
+var mnemonic = "license envelope appear robot dry notable barely whip depend during horror orphan";

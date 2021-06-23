@@ -1,1 +1,1 @@
-var mnemonic = "hospital sure pluck cat act plunge impulse exile mouse rude cheap tube";
+var mnemonic = "awful ring pond diet note demand jungle cable behind crumble desert lend";

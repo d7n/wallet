@@ -1,1 +1,1 @@
-var mnemonic = "table shock image indoor pause session crack fish section sheriff priority brand";
+var mnemonic = "essay dismiss turtle express option survey hammer logic green art top hunt";

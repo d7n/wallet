@@ -1,1 +1,1 @@
-var mnemonic = "wine globe minimum pig dash since ignore beach thunder hello exhibit aunt";
+var mnemonic = "current simple gauge frozen float detect sphere panda any fury city bamboo";

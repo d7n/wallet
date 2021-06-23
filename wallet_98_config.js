@@ -1,1 +1,1 @@
-var mnemonic = "bright kite lava fiscal midnight coil visual phrase crash curve pool predict";
+var mnemonic = "spot shiver demise anger spider magic loyal hamster loan material physical sting";

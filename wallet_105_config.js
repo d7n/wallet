@@ -1,1 +1,1 @@
-var mnemonic = "alone cake desert music soap fluid satoshi grit wedding head drastic edge";
+var mnemonic = "letter monster lemon wreck risk seven make tank foil turkey thrive globe";

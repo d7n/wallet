@@ -1,1 +1,1 @@
-var mnemonic = "faint vehicle engine dove above december can turtle easily economy wealth easily";
+var mnemonic = "demise jar fame genre know kiwi thumb tobacco quote access muffin school";

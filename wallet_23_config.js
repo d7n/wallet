@@ -1,1 +1,1 @@
-var mnemonic = "swamp minimum liar peanut term fresh range mushroom burst buffalo rule garment";
+var mnemonic = "guide pave motor front eye canvas leaf only appear deliver good gaze";

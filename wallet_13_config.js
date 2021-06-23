@@ -1,1 +1,1 @@
-var mnemonic = "sheriff before arrange lunch hungry car capable faculty pact share then arena";
+var mnemonic = "dragon dumb sail clever genuine armor ketchup relax industry scissors forum total";

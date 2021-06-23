@@ -1,1 +1,1 @@
-var mnemonic = "share wheat reform enough atom theme charge tired guess rebel toddler then";
+var mnemonic = "update physical shield under security occur fee equip absurd notable huge frown";

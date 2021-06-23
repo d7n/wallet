@@ -1,1 +1,1 @@
-var mnemonic = "light dilemma oil team badge note lend sign lunch memory artwork trash";
+var mnemonic = "initial leader old derive final luxury shiver radar pudding submit merge protect";

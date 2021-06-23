@@ -1,1 +1,1 @@
-var mnemonic = "climb bind bubble quote robust cross merit adjust animal circle resist unlock";
+var mnemonic = "alert exit warrior gaze tumble build visual install damp vacant panel tag";

@@ -1,1 +1,1 @@
-var mnemonic = "crisp scissors scissors engage mango clarify practice hero flat crawl identify trend";
+var mnemonic = "group wish plate stereo inject raise fee practice hover oyster remind target";

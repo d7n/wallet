@@ -1,1 +1,1 @@
-var mnemonic = "dirt pulse burden isolate maid soul melody afraid wheel mail chef saddle";
+var mnemonic = "auction chimney ski double board label reject pool narrow shield pull canyon";

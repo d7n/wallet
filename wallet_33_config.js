@@ -1,1 +1,1 @@
-var mnemonic = "joke witness angry initial betray spray april leg elephant receive sort poet";
+var mnemonic = "strike rich pass bridge notable inherit owner setup never include trial february";

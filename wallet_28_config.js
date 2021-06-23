@@ -1,1 +1,1 @@
-var mnemonic = "theme gloom ethics arctic unaware during woman laptop arrange observe material wage";
+var mnemonic = "brief mirror sense erode pyramid ball hungry kite ignore economy burden sleep";

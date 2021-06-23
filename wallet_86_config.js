@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow hollow mule emerge pulse arrow curve misery tag junk bone brisk";
+var mnemonic = "cloud mixed scrub symbol under near kiss lottery evil mom brand ten";

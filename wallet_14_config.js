@@ -1,1 +1,1 @@
-var mnemonic = "trim acid black sheriff gap group apart digital device luggage clay oil";
+var mnemonic = "pride camp east position label recycle color knock theme cool rib hybrid";
