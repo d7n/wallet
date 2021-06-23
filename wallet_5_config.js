@@ -1,1 +1,1 @@
-var mnemonic = "border worry found ask jazz city lecture harsh smoke near flip mosquito";
+var mnemonic = "buddy execute crisp panda tennis hair endless immune label sibling sausage apart";

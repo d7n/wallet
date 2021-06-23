@@ -1,1 +1,1 @@
-var mnemonic = "endorse connect estate reason leaf various evolve slide whale always tuition wet";
+var mnemonic = "version awesome gun wealth clap embrace bracket romance price situate predict fault";

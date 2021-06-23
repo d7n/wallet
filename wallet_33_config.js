@@ -1,1 +1,1 @@
-var mnemonic = "egg olive vast client intact family alter merge relief collect attract subject";
+var mnemonic = "lawn roof frequent shrimp coast capital sausage cake guess that betray raise";

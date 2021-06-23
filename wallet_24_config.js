@@ -1,1 +1,1 @@
-var mnemonic = "brush observe priority tunnel since token basic magic nothing isolate tree solid";
+var mnemonic = "fashion old annual right hill piano clarify panel luggage film major record";

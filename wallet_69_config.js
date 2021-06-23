@@ -1,1 +1,1 @@
-var mnemonic = "wage walk illegal ginger heavy prosper baby frog mind enrich spawn bleak";
+var mnemonic = "name funny rebuild happy high split doll door main nature minute story";

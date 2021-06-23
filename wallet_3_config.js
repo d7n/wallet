@@ -1,1 +1,1 @@
-var mnemonic = "snack hotel limb ensure forget admit capital kiwi laundry crime paper addict";
+var mnemonic = "ramp verb method alley make company diesel oyster wing wage fire enrich";

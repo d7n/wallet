@@ -1,1 +1,1 @@
-var mnemonic = "misery creek head snack obscure help frame ride phone creek wedding uphold";
+var mnemonic = "make check shell mass general staff embark acquire identify menu curve cherry";

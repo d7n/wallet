@@ -1,1 +1,1 @@
-var mnemonic = "gate demand frequent govern assume usual short hockey salon riot robot salad";
+var mnemonic = "thank piano correct problem swear equip shoe same van unfair west service";

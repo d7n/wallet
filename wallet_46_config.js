@@ -1,1 +1,1 @@
-var mnemonic = "mad size grocery lamp shaft festival busy replace rack post appear clock";
+var mnemonic = "furnace wedding endorse bullet wonder assist crawl brass pink million drink casino";

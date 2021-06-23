@@ -1,1 +1,1 @@
-var mnemonic = "govern island trial squirrel crush coffee penalty have faint mimic exchange culture";
+var mnemonic = "pulp zoo wait sudden corn disease beach problem bracket hair walk drink";

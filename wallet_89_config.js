@@ -1,1 +1,1 @@
-var mnemonic = "tired caught behave carbon stamp arrest material sister silver differ robot unit";
+var mnemonic = "usual hour sport certain weekend seed note sort egg any oven arrest";

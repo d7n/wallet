@@ -1,1 +1,1 @@
-var mnemonic = "mouse trade flag general luggage alter visual elevator wheat author tower host";
+var mnemonic = "produce snow various confirm trash sea pitch someone twenty cancel peasant legend";

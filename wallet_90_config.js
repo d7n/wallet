@@ -1,1 +1,1 @@
-var mnemonic = "polar fury achieve lemon patrol bracket monster twist fancy surprise session copper";
+var mnemonic = "jewel cheap favorite frown hello auction outer whip tortoise obvious sphere cereal";

@@ -1,1 +1,1 @@
-var mnemonic = "spoon fish lava maid famous thought cheese empty luxury expect nuclear demand";
+var mnemonic = "attitude alcohol tooth blush style tourist never omit thing night world include";

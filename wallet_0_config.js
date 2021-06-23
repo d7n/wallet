@@ -1,1 +1,1 @@
-var mnemonic = "media indicate oblige dentist keen approve dinner season tell song grocery travel";
+var mnemonic = "decade endless fatigue occur save surprise remain protect small name impose audit";

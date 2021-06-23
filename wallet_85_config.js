@@ -1,1 +1,1 @@
-var mnemonic = "village screen screen wrestle reflect ensure example rhythm punch expire property thunder";
+var mnemonic = "arena differ lake witness provide wedding erase parrot buffalo shrug awkward beef";

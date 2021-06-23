@@ -1,1 +1,1 @@
-var mnemonic = "love great capital other couch velvet armor cricket defense gospel swim vehicle";
+var mnemonic = "rug possible figure pig negative base assume diet street cage visual soul";

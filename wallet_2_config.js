@@ -1,1 +1,1 @@
-var mnemonic = "shift domain able double swamp deer uncover leg salmon fluid seek melody";
+var mnemonic = "make two quit attract current mouse grant erase puzzle age night check";

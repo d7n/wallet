@@ -1,1 +1,1 @@
-var mnemonic = "mansion glue misery want tent material save gate deer obscure kind lens";
+var mnemonic = "refuse near neutral cross recall heavy gorilla doll subject error object actress";

@@ -1,1 +1,1 @@
-var mnemonic = "loyal ordinary draft deal tuna roof edge scorpion kind garbage region leisure";
+var mnemonic = "ranch tube invite coffee awake air custom unusual slam fabric recall recipe";

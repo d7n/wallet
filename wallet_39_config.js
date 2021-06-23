@@ -1,1 +1,1 @@
-var mnemonic = "cram sponsor organ trap jump bundle frozen stone observe exhibit survey embark";
+var mnemonic = "maple method what opera before genuine orient spell mandate country clutch online";

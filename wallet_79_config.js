@@ -1,1 +1,1 @@
-var mnemonic = "wait able grape venue riot crew recipe pipe curve rifle roast flush";
+var mnemonic = "fitness antenna demand trust toward crazy donate finger wonder garlic tennis body";

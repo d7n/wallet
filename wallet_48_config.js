@@ -1,1 +1,1 @@
-var mnemonic = "believe awful sad kangaroo multiply body weird curve three bamboo nothing often";
+var mnemonic = "hawk execute message shaft cotton stable goddess noise youth turtle short play";

@@ -1,1 +1,1 @@
-var mnemonic = "pole ladder always drive wash glove forest eternal detail ball duty hotel";
+var mnemonic = "silk own draft entire wire crane visa order size night can blue";

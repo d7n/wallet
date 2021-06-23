@@ -1,1 +1,1 @@
-var mnemonic = "above pet minor chat skin average spawn bomb worry vanish giggle couch";
+var mnemonic = "carry prepare exhaust route across excess domain chimney voice guard utility gun";

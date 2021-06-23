@@ -1,1 +1,1 @@
-var mnemonic = "cost grid media system across cycle divorce disagree either sea cushion orient";
+var mnemonic = "host harbor tiger ticket hobby wait cable blast pledge shine now world";

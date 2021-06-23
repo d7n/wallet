@@ -1,1 +1,1 @@
-var mnemonic = "various local fatigue increase draw hundred portion hobby wish hazard leisure slender";
+var mnemonic = "fashion lumber satisfy ethics mosquito order tomorrow day witness portion lawsuit senior";

@@ -1,1 +1,1 @@
-var mnemonic = "sadness what net wife travel season disagree drastic casual tourist quit forget";
+var mnemonic = "seat soldier lab gorilla wild since taste goddess skin wear hockey fragile";

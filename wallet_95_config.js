@@ -1,1 +1,1 @@
-var mnemonic = "cherry slice sleep fly into fossil creek elevator quality forum output april";
+var mnemonic = "offer hunt marble fly fish glory prison shoe brown ceiling bless person";

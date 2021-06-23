@@ -1,1 +1,1 @@
-var mnemonic = "inner occur little develop latin hurt squirrel book spawn party moon radar";
+var mnemonic = "omit crush hurry rifle trophy dynamic oppose more include claw motor surface";

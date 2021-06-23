@@ -1,1 +1,1 @@
-var mnemonic = "gas apple youth gesture glare describe sausage cup bless rural youth flower";
+var mnemonic = "swear blossom alley table add tornado coach garbage sing sick isolate busy";

@@ -1,1 +1,1 @@
-var mnemonic = "battle insane near huge disagree clinic chest sauce rotate verify grief girl";
+var mnemonic = "hair never since cart opinion biology flush photo chimney small tail thrive";

@@ -1,1 +1,1 @@
-var mnemonic = "rack lumber shop meadow dumb palm artefact glue wage tower load shoe";
+var mnemonic = "anger pluck square essay stereo smart aim token artwork online twist insect";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber pig defy trade inside dice convince clump mouse spot before unique";
+var mnemonic = "curtain orange skirt cliff disorder foot dog brother note session pigeon must";

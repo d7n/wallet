@@ -1,1 +1,1 @@
-var mnemonic = "bracket weird sponsor sample weapon lucky dragon donor burst method silver oval";
+var mnemonic = "air stereo popular rib chest youth worth plate clean slot confirm slide";

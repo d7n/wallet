@@ -1,1 +1,1 @@
-var mnemonic = "hip daring damage sugar movie another drama sad estate stove verify assist";
+var mnemonic = "hello distance prosper salt entire culture pear artefact rebuild amateur pizza miss";

@@ -1,1 +1,1 @@
-var mnemonic = "snow scene begin fresh wealth miss dolphin spin tone connect talent pepper";
+var mnemonic = "frost mind slim quantum around dish sibling miracle yard amazing nasty chapter";

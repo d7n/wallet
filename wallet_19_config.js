@@ -1,1 +1,1 @@
-var mnemonic = "mixed strategy label engine erode reduce sibling wash shield boring inquiry charge";
+var mnemonic = "file mom bar pilot glue blood orchard empower fun diesel monkey check";

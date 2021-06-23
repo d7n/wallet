@@ -1,1 +1,1 @@
-var mnemonic = "proof ghost jewel blouse cereal parade fruit carbon buyer impose neck limit";
+var mnemonic = "divert tool mention increase beach burger chair flat vibrant leisure issue conduct";

@@ -1,1 +1,1 @@
-var mnemonic = "dutch merge urban letter picnic elder same foster endless aware hello capable";
+var mnemonic = "myself become card champion foster beyond mind rural morning drip gauge style";

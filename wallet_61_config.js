@@ -1,1 +1,1 @@
-var mnemonic = "rail tuna onion forest fabric install you good reflect retreat galaxy spider";
+var mnemonic = "clarify glove law gentle habit endless pelican worry fun erupt obvious property";

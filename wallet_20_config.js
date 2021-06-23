@@ -1,1 +1,1 @@
-var mnemonic = "nominee glory little stick pole token cereal prosper abuse eight poem pupil";
+var mnemonic = "whale dose oak street pet paper rich popular garden occur suggest shock";

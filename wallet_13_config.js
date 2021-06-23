@@ -1,1 +1,1 @@
-var mnemonic = "judge embody sample summer beyond napkin escape field sniff mean tomato correct";
+var mnemonic = "home butter tunnel wrong season narrow gentle crucial muffin raccoon transfer gain";

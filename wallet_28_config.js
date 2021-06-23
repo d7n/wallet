@@ -1,1 +1,1 @@
-var mnemonic = "goat aisle urge sight drink mercy climb audit reason desk pulse health";
+var mnemonic = "floor near floor floor lucky uniform neutral tragic limb credit cute drink";

@@ -1,1 +1,1 @@
-var mnemonic = "observe end novel adjust juice caution inform enact business eight exotic window";
+var mnemonic = "that vacuum noise route nothing vote home special walnut soul delay mistake";

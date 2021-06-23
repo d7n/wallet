@@ -1,1 +1,1 @@
-var mnemonic = "mixed right bachelor sea owner expect execute accuse intact ramp coyote two";
+var mnemonic = "quarter fabric hood march gauge crater usage pledge easy earth regular meadow";

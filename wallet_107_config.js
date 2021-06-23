@@ -1,1 +1,1 @@
-var mnemonic = "turn wood open teach busy icon kit nature very thought ranch vintage";
+var mnemonic = "omit frog run whip venture praise vital churn blood inside library chest";

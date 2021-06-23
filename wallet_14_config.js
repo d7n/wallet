@@ -1,1 +1,1 @@
-var mnemonic = "beef evoke panel eager fame gasp service athlete broom letter lab mail";
+var mnemonic = "castle oxygen play sense flower olympic fossil pipe mix ghost bullet bracket";

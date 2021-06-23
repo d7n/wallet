@@ -1,1 +1,1 @@
-var mnemonic = "view idle inside crush whisper body inquiry travel top boss latin hungry";
+var mnemonic = "eight crane garlic problem become flock chronic shallow sword gesture purpose remind";

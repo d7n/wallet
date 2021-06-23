@@ -1,1 +1,1 @@
-var mnemonic = "fence effort addict moon stick bread poem method weapon vital skill acid";
+var mnemonic = "adjust dune gown check blur genre gate bean practice autumn dignity crystal";

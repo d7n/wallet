@@ -1,1 +1,1 @@
-var mnemonic = "erosion giant ready provide already ensure bargain fruit miss style sign ocean";
+var mnemonic = "mouse jeans ginger pony race december damage nephew burden nothing clerk evidence";

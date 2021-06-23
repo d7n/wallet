@@ -1,1 +1,1 @@
-var mnemonic = "exhaust grass twenty cliff burst boil vapor depend spoon prize bubble orbit";
+var mnemonic = "silly round have step imitate current slide sign ship actress spare recipe";

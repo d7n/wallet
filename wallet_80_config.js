@@ -1,1 +1,1 @@
-var mnemonic = "bulb confirm cause develop general bus suspect badge stable slice canvas pair";
+var mnemonic = "design junk dress seminar slow dirt bench express half month dirt horse";

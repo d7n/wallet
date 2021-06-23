@@ -1,1 +1,1 @@
-var mnemonic = "current innocent glance train survey ripple ill sheriff melt retire similar fruit";
+var mnemonic = "hybrid danger teach insect quick loan secret magnet foam enroll dust emotion";

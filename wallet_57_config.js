@@ -1,1 +1,1 @@
-var mnemonic = "weekend bitter disorder budget desk ball peasant virtual possible near gain okay";
+var mnemonic = "fashion produce popular expand slender dream force short add rate dose private";

@@ -1,1 +1,1 @@
-var mnemonic = "define sad say double ribbon draft outside tenant green doctor brief error";
+var mnemonic = "spoon truck chalk betray erode inside quick tuna know bridge enrich extra";

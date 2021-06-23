@@ -1,1 +1,1 @@
-var mnemonic = "repair valley speed talk bitter glide mosquito pair believe north legal orphan";
+var mnemonic = "hood uphold vague mushroom faculty essay giant rebuild oppose lift lesson plastic";

@@ -1,1 +1,1 @@
-var mnemonic = "aerobic leave fantasy advance visa wave buffalo barrel assist beyond clock chronic";
+var mnemonic = "volcano biology scout small multiply trick magnet lecture shaft phrase skull floor";

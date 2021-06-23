@@ -1,1 +1,1 @@
-var mnemonic = "loan suggest tragic another street enable wire sort relief perfect enhance cinnamon";
+var mnemonic = "intact disorder skill utility work witness city foot tennis head brother pet";

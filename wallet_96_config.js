@@ -1,1 +1,1 @@
-var mnemonic = "seat lawsuit dragon ring proof reunion limb unveil survey slab must protect";
+var mnemonic = "law whisper play ocean nerve someone unique cotton salon wash bread grab";

@@ -1,1 +1,1 @@
-var mnemonic = "you confirm hockey system orbit forum daughter digital oak kick ecology metal";
+var mnemonic = "task adjust merit derive jealous robust couch twist leader barely run lesson";

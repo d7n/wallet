@@ -1,1 +1,1 @@
-var mnemonic = "rich problem bridge squirrel hire payment duck pear radio moral crisp february";
+var mnemonic = "goat spare crime stumble pond push solid kite brave scale scrap burger";

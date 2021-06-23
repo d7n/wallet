@@ -1,1 +1,1 @@
-var mnemonic = "home drastic reject post monster dust puzzle mistake reveal hybrid filter skin";
+var mnemonic = "front gas tilt title festival evolve oxygen unveil finger flag autumn attack";

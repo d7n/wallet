@@ -1,1 +1,1 @@
-var mnemonic = "mango penalty tumble replace unknown tide huge trophy silver evolve voice corn";
+var mnemonic = "flash draft join abstract laundry master oak medal mutual express bulk mango";

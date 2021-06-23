@@ -1,1 +1,1 @@
-var mnemonic = "another peasant play custom indicate vote van iron general pencil tiny review";
+var mnemonic = "before couple grain similar few blast castle bicycle filter reunion category acquire";

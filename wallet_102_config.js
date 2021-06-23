@@ -1,1 +1,1 @@
-var mnemonic = "decrease over imitate tag portion hat stairs notable alone until unable ranch";
+var mnemonic = "receive agree soap input gift rude clean junior illness sad slogan cluster";

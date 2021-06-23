@@ -1,1 +1,1 @@
-var mnemonic = "ugly crumble enjoy atom tooth vast focus safe slush scrub juice wrong";
+var mnemonic = "ankle imitate pilot sketch scale grow service bleak wagon ostrich load witness";

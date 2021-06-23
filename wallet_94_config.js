@@ -1,1 +1,1 @@
-var mnemonic = "nurse cinnamon width pass time because afraid topic aerobic post mind sauce";
+var mnemonic = "barrel whisper exhaust sure lion timber future room labor drip addict steel";

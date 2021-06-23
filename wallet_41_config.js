@@ -1,1 +1,1 @@
-var mnemonic = "source uncover airport bread erode outdoor purchase unaware garage tonight trick between";
+var mnemonic = "pig toddler visual sort online party canvas hundred try embrace reject club";

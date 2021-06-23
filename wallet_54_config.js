@@ -1,1 +1,1 @@
-var mnemonic = "slot morning crime once model skull cycle detect bachelor attack advance slow";
+var mnemonic = "summer cherry truth visit tongue exhibit slight candy tide insane curious coast";

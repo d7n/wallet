@@ -1,1 +1,1 @@
-var mnemonic = "stable menu ghost jacket blood machine elder average digital say police correct";
+var mnemonic = "usage section always unique cherry subway ceiling category phone dirt night narrow";

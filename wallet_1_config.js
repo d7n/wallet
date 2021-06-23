@@ -1,1 +1,1 @@
-var mnemonic = "hub shrimp dial salon stove ride ship panic seven ski arch capable";
+var mnemonic = "kiss quantum weekend excite venue arctic logic hub card sword vital hunt";

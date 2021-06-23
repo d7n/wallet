@@ -1,1 +1,1 @@
-var mnemonic = "manual edit fame please include carpet coil side evil solid donor gauge";
+var mnemonic = "betray kitchen proof aerobic cargo soup they symbol air excess when bounce";

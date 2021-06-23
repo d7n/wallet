@@ -1,1 +1,1 @@
-var mnemonic = "shy round boost damp estate damage click once point will side merge";
+var mnemonic = "despair crater push dismiss black celery coil foster soft perfect fitness game";

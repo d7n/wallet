@@ -1,1 +1,1 @@
-var mnemonic = "doctor boss useful maid slab sing minimum alpha emotion cattle trash vivid";
+var mnemonic = "crisp upon cause jewel puzzle typical horror private popular lucky juice flat";

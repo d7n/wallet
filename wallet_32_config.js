@@ -1,1 +1,1 @@
-var mnemonic = "eight kind lobster kiwi force shiver egg bullet mom domain later truck";
+var mnemonic = "amused bonus artist mix beach narrow train elegant dismiss double sand pottery";

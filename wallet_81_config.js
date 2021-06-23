@@ -1,1 +1,1 @@
-var mnemonic = "example total nest funny exercise junior grain great vicious zone asset concert";
+var mnemonic = "label grid describe claim stock stove leave craft slow soul erupt vague";

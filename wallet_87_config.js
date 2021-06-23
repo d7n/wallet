@@ -1,1 +1,1 @@
-var mnemonic = "build dirt lend social enjoy buddy permit ride rent usual pet lend";
+var mnemonic = "emotion sing surge usage language bid chair mosquito sail remove toe permit";

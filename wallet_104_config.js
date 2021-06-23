@@ -1,1 +1,1 @@
-var mnemonic = "goddess fossil citizen topic whale satisfy badge festival soccer top spread coil";
+var mnemonic = "step credit silly night air name town phone express north lock argue";

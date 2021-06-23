@@ -1,1 +1,1 @@
-var mnemonic = "mutual entire century laptop grocery south holiday diet skate pistol aerobic kit";
+var mnemonic = "security elbow flip truck average piano slender certain grit liar hockey immense";

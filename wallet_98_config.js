@@ -1,1 +1,1 @@
-var mnemonic = "chronic monster service print winner head memory mountain orient city city hard";
+var mnemonic = "above spike ride soccer erupt nice cannon silver comfort genius despair accident";

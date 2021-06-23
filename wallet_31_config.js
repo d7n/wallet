@@ -1,1 +1,1 @@
-var mnemonic = "cannon raccoon moment pride wink toe alien pulse drill dial eyebrow tone";
+var mnemonic = "surprise impose remove suspect evolve cup leisure egg audit tunnel chronic scrub";

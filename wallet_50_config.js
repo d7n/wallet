@@ -1,1 +1,1 @@
-var mnemonic = "pole mercy appear cereal elephant sound invite midnight pony margin intact coral";
+var mnemonic = "advance chat churn monitor museum welcome fly green visa cycle boost car";

@@ -1,1 +1,1 @@
-var mnemonic = "protect large dash timber flat useful category forum vault piece habit pluck";
+var mnemonic = "diesel sudden group praise illness crawl mechanic embody message person payment side";

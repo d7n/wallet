@@ -1,1 +1,1 @@
-var mnemonic = "frequent cake pioneer exit nephew under abstract rural satisfy tent permit assume";
+var mnemonic = "video sign cheese reflect cargo desk airport inject sock gaze gloom lab";

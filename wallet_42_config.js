@@ -1,1 +1,1 @@
-var mnemonic = "present crush usual coconut select peanut position flavor solve hurry gallery finger";
+var mnemonic = "ugly unique media cat advice width shoot slogan hotel neither vocal pig";
