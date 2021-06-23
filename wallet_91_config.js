@@ -1,1 +1,1 @@
-var mnemonic = "comfort kiss bike december burger display oven right reveal slot kick okay";
+var mnemonic = "step mandate armed refuse face ripple shell sorry laptop analyst stick demand";

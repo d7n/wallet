@@ -1,1 +1,1 @@
-var mnemonic = "maple reduce zoo moon east behave govern oven problem vocal leg twice";
+var mnemonic = "wasp west trouble belt tumble prefer catch find true twelve elegant renew";

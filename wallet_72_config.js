@@ -1,1 +1,1 @@
-var mnemonic = "tackle upper bargain aerobic ready city add quiz morning casino perfect club";
+var mnemonic = "island page denial suffer swap uniform slush real own few job quantum";

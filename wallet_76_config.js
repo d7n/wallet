@@ -1,1 +1,1 @@
-var mnemonic = "bottom vast install thought genius scheme layer carbon voyage always olympic cook";
+var mnemonic = "garbage cabbage wish decide kitchen wisdom merit wash evidence right valley enable";

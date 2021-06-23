@@ -1,1 +1,1 @@
-var mnemonic = "eye this lumber burden volcano coconut design sport mechanic tissue mushroom twice";
+var mnemonic = "bird unusual ridge flame morning measure morning pumpkin season onion cousin subject";

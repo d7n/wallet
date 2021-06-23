@@ -1,1 +1,1 @@
-var mnemonic = "tail buddy cram grow pelican edge garlic shoe yellow useful detect flush";
+var mnemonic = "punch slush either share amateur flight spell envelope one opinion romance web";

@@ -1,1 +1,1 @@
-var mnemonic = "wrist shove life thing tourist hundred burden design belt sell art nephew";
+var mnemonic = "piano steak dad put certain range debate arrange ahead celery peasant brief";

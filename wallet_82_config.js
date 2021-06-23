@@ -1,1 +1,1 @@
-var mnemonic = "galaxy suit deal oxygen wild peace boss gas pair transfer wonder carry";
+var mnemonic = "depth viable grid energy forget camp elephant attract old woman hint warrior";

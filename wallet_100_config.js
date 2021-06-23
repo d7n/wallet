@@ -1,1 +1,1 @@
-var mnemonic = "reason toddler question govern say age chest message series honey field luggage";
+var mnemonic = "elephant various analyst bring soccer street vacant lamp lawn fame unhappy ginger";

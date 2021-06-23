@@ -1,1 +1,1 @@
-var mnemonic = "member dilemma street exclude oak moon bread suspect coconut lake fence soccer";
+var mnemonic = "laptop holiday wait wrestle joy hen ketchup grow connect stick labor small";

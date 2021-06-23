@@ -1,1 +1,1 @@
-var mnemonic = "unveil surprise struggle smoke follow radio nose taste blur walnut stay undo";
+var mnemonic = "verify scare uncover image prevent tribe captain mom feature wagon grape police";

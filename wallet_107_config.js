@@ -1,1 +1,1 @@
-var mnemonic = "depth number pill quarter addict day tenant illegal thumb social neck figure";
+var mnemonic = "mean define display arena timber math drastic grocery front oil marble return";

@@ -1,1 +1,1 @@
-var mnemonic = "legal way night solve ancient circle distance hotel torch member push vivid";
+var mnemonic = "tennis type give cook grace brown taste pattern hover used pole job";

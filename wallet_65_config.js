@@ -1,1 +1,1 @@
-var mnemonic = "anchor vanish shrug slam tail mercy vicious pelican sibling ski term stick";
+var mnemonic = "pride forward outdoor lamp web truth rotate claim across logic source mixed";

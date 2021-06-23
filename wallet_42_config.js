@@ -1,1 +1,1 @@
-var mnemonic = "food advance attack inherit tenant impose alcohol romance phone leg rabbit nuclear";
+var mnemonic = "wash stand vicious ramp wealth potato two network shove cave grunt monkey";

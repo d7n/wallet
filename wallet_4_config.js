@@ -1,1 +1,1 @@
-var mnemonic = "tissue nominee point ketchup fatigue primary survey jaguar travel cereal myself crystal";
+var mnemonic = "impose federal problem remember decline slight good giggle toilet time shrug elder";

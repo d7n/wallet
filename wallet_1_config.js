@@ -1,1 +1,1 @@
-var mnemonic = "lizard youth just lounge input way divorce income output clean clarify boss";
+var mnemonic = "cloud destroy keep section cigar report model other sort loud history radar";

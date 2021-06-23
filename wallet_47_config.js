@@ -1,1 +1,1 @@
-var mnemonic = "tobacco throw decide voice warm ignore sea series winner lucky time bulb";
+var mnemonic = "snow bronze image brother behind heart dawn universe august pink derive source";

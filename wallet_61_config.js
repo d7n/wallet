@@ -1,1 +1,1 @@
-var mnemonic = "wink flush whisper word shaft boil final pride share lake crane hurry";
+var mnemonic = "reject grain useful rescue excite crush scissors lunch this harsh dish about";

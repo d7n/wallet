@@ -1,1 +1,1 @@
-var mnemonic = "list reopen weasel rocket fresh add useless you rescue tumble buffalo betray";
+var mnemonic = "trap theme walk fabric present radar lumber feed target appear effort fuel";

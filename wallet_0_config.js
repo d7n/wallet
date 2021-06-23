@@ -1,1 +1,1 @@
-var mnemonic = "weasel stay second gallery either keep license industry comfort cruise disagree cute";
+var mnemonic = "wine property climb hotel menu raven calm reform lamp puzzle weather defense";

@@ -1,1 +1,1 @@
-var mnemonic = "soccer vanish document gap spread lend jeans young carpet shoulder cloth quit";
+var mnemonic = "clip brick plunge recycle glance use chest candy stereo depth shift wait";

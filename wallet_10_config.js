@@ -1,1 +1,1 @@
-var mnemonic = "atom cupboard crunch warrior method decorate gorilla crash churn assume accuse obscure";
+var mnemonic = "follow hungry shine hedgehog heavy stock copy travel motor purpose scrap certain";

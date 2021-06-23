@@ -1,1 +1,1 @@
-var mnemonic = "gift thank short pattern plunge add kit city exercise antique spatial job";
+var mnemonic = "team wish chunk couple glare nominee coral cannon census pulse brisk friend";

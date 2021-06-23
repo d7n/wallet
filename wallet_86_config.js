@@ -1,1 +1,1 @@
-var mnemonic = "debris patch educate there dirt surround enemy drink erase escape palm couple";
+var mnemonic = "axis carbon choice enforce smile normal learn hockey enlist emerge sketch absorb";

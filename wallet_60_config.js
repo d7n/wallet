@@ -1,1 +1,1 @@
-var mnemonic = "toast deny gas yellow into position tired tackle cheap motor kind analyst";
+var mnemonic = "ahead alley outside bunker tent wing around sure apart please home segment";

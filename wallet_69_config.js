@@ -1,1 +1,1 @@
-var mnemonic = "immune banner quality leg enemy sword stick fitness cable decide tuna cable";
+var mnemonic = "bubble fix welcome fuel liberty riot seminar harvest shadow bachelor virus spare";

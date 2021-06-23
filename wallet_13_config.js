@@ -1,1 +1,1 @@
-var mnemonic = "dial soap input coral noble audit ripple spare genuine brass fringe voyage";
+var mnemonic = "matrix sight warrior amused moment industry blush crisp remember ramp art what";

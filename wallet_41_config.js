@@ -1,1 +1,1 @@
-var mnemonic = "night riot rich carpet thought angry room cigar cabbage supreme panic lazy";
+var mnemonic = "follow opera suffer video huge love filter wear perfect siren cruel curve";

@@ -1,1 +1,1 @@
-var mnemonic = "theory slow draft segment when later enlist dismiss radio dinner example galaxy";
+var mnemonic = "marriage design body banner claw warfare six maximum decorate piece million donkey";

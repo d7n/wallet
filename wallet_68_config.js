@@ -1,1 +1,1 @@
-var mnemonic = "unit search youth again unusual broken jaguar now nominee toilet fee arrive";
+var mnemonic = "board element pilot country exercise small unusual slab century design move beyond";

@@ -1,1 +1,1 @@
-var mnemonic = "news inject text ocean twenty join speak happy audit melt enrich ribbon";
+var mnemonic = "orient old save draft ocean shy permit also index soda loyal bounce";

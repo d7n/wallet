@@ -1,1 +1,1 @@
-var mnemonic = "thumb inquiry say appear cluster agent link nest oppose differ east limit";
+var mnemonic = "embrace clinic employ ship empty mail when weasel trade fuel note sorry";

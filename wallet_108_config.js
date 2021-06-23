@@ -1,1 +1,1 @@
-var mnemonic = "size fault happy rookie shed expire chief doll rose blast hollow survey";
+var mnemonic = "afraid essence december help hole minor wolf fashion off slab runway author";

@@ -1,1 +1,1 @@
-var mnemonic = "blush dismiss nest gossip trap volcano memory hand opinion cover smart unique";
+var mnemonic = "outer coast helmet abstract swing dad hospital cool dumb dolphin army library";

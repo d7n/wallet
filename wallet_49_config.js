@@ -1,1 +1,1 @@
-var mnemonic = "noise shop heart finger silver success mule notice narrow voice must leisure";
+var mnemonic = "control claim bonus lend aware cart adapt country unveil warfare biology wreck";

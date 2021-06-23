@@ -1,1 +1,1 @@
-var mnemonic = "pluck lemon outside science visual still you rug allow favorite chicken kick";
+var mnemonic = "receive board prosper lecture harsh crime online clown honey equal hill motor";

@@ -1,1 +1,1 @@
-var mnemonic = "shoe grass input waste cluster express camera inform elephant cousin tooth rifle";
+var mnemonic = "ask swing mystery legend convince nuclear lava zero faith knock earn tool";

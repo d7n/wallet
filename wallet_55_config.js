@@ -1,1 +1,1 @@
-var mnemonic = "frost design cloud wild amount once paper soap advice sell mother legal";
+var mnemonic = "tip dash sustain grape moon mammal hunt submit smooth submit vicious begin";

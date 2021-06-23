@@ -1,1 +1,1 @@
-var mnemonic = "view soft digital dumb time twenty bullet buyer hold bean enjoy spot";
+var mnemonic = "farm myth plate timber invite sauce brass right enough credit power chuckle";

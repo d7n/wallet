@@ -1,1 +1,1 @@
-var mnemonic = "survey into west satisfy size dolphin model claw frown goat pattern deer";
+var mnemonic = "average music chest utility nurse mask quantum soccer gravity beef burst evoke";

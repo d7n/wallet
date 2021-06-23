@@ -1,1 +1,1 @@
-var mnemonic = "nerve shift always need shrimp kind fatigue marine connect clinic diary begin";
+var mnemonic = "outer bus mosquito song appear off year build grit inform weather catalog";

@@ -1,1 +1,1 @@
-var mnemonic = "raise cook autumn battle special victory sting carry demise now person attack";
+var mnemonic = "little axis casual diesel concert legal rough welcome depend program off arrow";

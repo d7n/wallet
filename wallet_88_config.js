@@ -1,1 +1,1 @@
-var mnemonic = "still exile because rain junior tag interest point rice coffee circle virus";
+var mnemonic = "final object dirt ostrich dog update duck steel celery kitten topic smoke";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse stable swap figure awkward stand swift whisper wet exercise stock stem";
+var mnemonic = "spring save force rally because physical disease stairs addict tribe artefact razor";

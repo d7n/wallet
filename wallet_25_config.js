@@ -1,1 +1,1 @@
-var mnemonic = "apple increase element resource dust aerobic need prize liquid police still piece";
+var mnemonic = "mix nation obscure decade will useful sibling shed puppy soccer olympic roof";

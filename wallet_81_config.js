@@ -1,1 +1,1 @@
-var mnemonic = "obvious render excuse oppose hollow useless cheap firm sail chat dinosaur pond";
+var mnemonic = "fury ensure gorilla insect woman video relief ginger trick such joke soda";

@@ -1,1 +1,1 @@
-var mnemonic = "someone cabin bracket true sport immense way any puzzle cheese allow draw";
+var mnemonic = "machine spend sugar outside actor possible open warm tent cloth two injury";

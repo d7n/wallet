@@ -1,1 +1,1 @@
-var mnemonic = "thrive enroll illegal bleak taste view else hole seminar bright timber embark";
+var mnemonic = "dentist island place walk open proud merge spare club diet try garlic";

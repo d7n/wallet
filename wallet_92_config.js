@@ -1,1 +1,1 @@
-var mnemonic = "police little photo holiday clerk accuse actor fortune attract visit country rifle";
+var mnemonic = "iron fresh bronze hole hard purse notice success inform tip original damage";

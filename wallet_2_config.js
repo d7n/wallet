@@ -1,1 +1,1 @@
-var mnemonic = "survey rent crop kind brass tissue liberty predict relax rotate double inch";
+var mnemonic = "seminar kitchen bid surprise awkward habit struggle jelly scrub negative toddler open";

@@ -1,1 +1,1 @@
-var mnemonic = "among injury mean luggage junk movie agent ability museum giggle cave rose";
+var mnemonic = "fault visual initial issue renew among grain sign patient scene twelve analyst";

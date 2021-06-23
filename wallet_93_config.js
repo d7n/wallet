@@ -1,1 +1,1 @@
-var mnemonic = "destroy collect prosper twice promote slim eternal roof old father island below";
+var mnemonic = "quiz install utility donate six message spatial heavy spin arrive anxiety silent";

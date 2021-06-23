@@ -1,1 +1,1 @@
-var mnemonic = "embrace rough dumb galaxy uniform trial butter nut insect negative excite cinnamon";
+var mnemonic = "puppy fatal enable junior control family pumpkin misery dust ski frown royal";

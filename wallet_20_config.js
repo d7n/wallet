@@ -1,1 +1,1 @@
-var mnemonic = "divorce oyster pig outdoor skirt balcony type learn culture shiver hungry extend";
+var mnemonic = "clip define law bachelor letter depth cupboard muffin arrest wheat stamp later";

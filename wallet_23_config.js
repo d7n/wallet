@@ -1,1 +1,1 @@
-var mnemonic = "picture vessel exile educate raven unable affair clay ill group disorder balcony";
+var mnemonic = "cram meadow maid recycle radar digital tooth industry pill blur oppose action";

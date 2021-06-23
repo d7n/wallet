@@ -1,1 +1,1 @@
-var mnemonic = "glide pride hero tape labor essence public vintage smile bleak review crucial";
+var mnemonic = "author spider peace express pilot kidney across yellow accuse ride barely wolf";

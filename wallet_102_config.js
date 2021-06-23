@@ -1,1 +1,1 @@
-var mnemonic = "giant breeze imitate artist right light coach citizen act skull nest swamp";
+var mnemonic = "kangaroo route destroy subway immense build such belt bamboo depth crazy mail";

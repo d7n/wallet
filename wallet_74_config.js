@@ -1,1 +1,1 @@
-var mnemonic = "select north cable law rare bring insane dolphin brown produce science range";
+var mnemonic = "cloud beef wear olympic robot wish enhance view enjoy impulse tortoise wrong";

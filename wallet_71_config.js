@@ -1,1 +1,1 @@
-var mnemonic = "comic exist cloud kidney tongue child flock public near fix excuse arrow";
+var mnemonic = "repair harvest crop install there walnut acid margin ginger select middle buffalo";

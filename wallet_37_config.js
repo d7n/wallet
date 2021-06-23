@@ -1,1 +1,1 @@
-var mnemonic = "lunch oblige inner weird delay correct cup cherry safe food actress coyote";
+var mnemonic = "brand catch advance appear buyer this around tube dilemma swamp alley decade";

@@ -1,1 +1,1 @@
-var mnemonic = "ball fancy key six tool cannon virus congress dog inherit gun reflect";
+var mnemonic = "alarm junk gap disease coil despair busy dust setup winter airport shell";

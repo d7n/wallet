@@ -1,1 +1,1 @@
-var mnemonic = "thumb crowd prison orchard worry upper race medal farm famous ship wisdom";
+var mnemonic = "jelly measure puppy wine trouble flavor atom soccer gravity prison grunt tip";

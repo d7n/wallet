@@ -1,1 +1,1 @@
-var mnemonic = "company twice kid minute cement ocean another today cargo evidence assist stable";
+var mnemonic = "verb exhibit toddler guilt candy embark tank provide pony steak dad fiscal";

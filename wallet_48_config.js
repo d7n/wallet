@@ -1,1 +1,1 @@
-var mnemonic = "high design pitch north machine obscure kite bleak perfect miracle act wish";
+var mnemonic = "grass leopard trumpet robust hero lava right reduce regret imitate oak pottery";

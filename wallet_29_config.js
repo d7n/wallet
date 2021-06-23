@@ -1,1 +1,1 @@
-var mnemonic = "illegal under sketch disease peace disorder fun quick casino shove cushion pumpkin";
+var mnemonic = "deputy industry census birth spell display ugly win vendor view turtle toy";

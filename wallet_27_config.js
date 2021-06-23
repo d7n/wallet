@@ -1,1 +1,1 @@
-var mnemonic = "time now twice crater profit tonight local choice problem remember spatial enlist";
+var mnemonic = "gasp digital morning riot beef virus cash slot junior horror topic pair";

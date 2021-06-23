@@ -1,1 +1,1 @@
-var mnemonic = "decrease naive census place harvest holiday canal question trim water enjoy bubble";
+var mnemonic = "dilemma degree inch ridge craft year nasty labor wheel citizen lady under";

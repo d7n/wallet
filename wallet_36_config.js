@@ -1,1 +1,1 @@
-var mnemonic = "teach other refuse umbrella smile base stay woman border cliff mind replace";
+var mnemonic = "blue advance upon ball thumb divide frog edge sausage large calm humor";

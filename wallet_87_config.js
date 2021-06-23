@@ -1,1 +1,1 @@
-var mnemonic = "web cross moment lady april scan first dinosaur notable cloth agree wrong";
+var mnemonic = "normal vault acquire shift purse talent old fix few timber silly able";

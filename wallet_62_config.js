@@ -1,1 +1,1 @@
-var mnemonic = "juice team random someone exclude color blur hobby snack pig mammal autumn";
+var mnemonic = "roof quit hamster glove cool punch lecture anxiety witness cruise cover sniff";

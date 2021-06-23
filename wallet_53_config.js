@@ -1,1 +1,1 @@
-var mnemonic = "all table lecture swarm chuckle price seminar unveil bench cloud crop skin";
+var mnemonic = "scene box eyebrow boss mixed mandate panther bitter acid beyond actress void";

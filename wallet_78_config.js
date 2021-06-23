@@ -1,1 +1,1 @@
-var mnemonic = "apology rent federal box effort average vehicle sun garage fatigue anxiety popular";
+var mnemonic = "solution north baby please still panel hen coin author neither meadow section";

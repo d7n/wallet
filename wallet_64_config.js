@@ -1,1 +1,1 @@
-var mnemonic = "neck hello survey hub chunk impose lesson ugly damage cabbage vibrant mutual";
+var mnemonic = "border library reward solution write fish maze food bus atom opera course";

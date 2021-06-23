@@ -1,1 +1,1 @@
-var mnemonic = "clown course primary hundred cabbage sketch problem man slight village sign foot";
+var mnemonic = "boil busy echo payment pelican enable silent vacant soap knee permit cream";

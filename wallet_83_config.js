@@ -1,1 +1,1 @@
-var mnemonic = "rail join fluid never item fault faculty engage trim room skin hole";
+var mnemonic = "undo cluster filter plastic erase turkey cotton couch puzzle protect corn surround";

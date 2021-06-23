@@ -1,1 +1,1 @@
-var mnemonic = "prefer grain save gorilla bonus carbon fabric car rapid clog bus flavor";
+var mnemonic = "supreme better surge portion provide goose submit exist tooth purity digital inflict";

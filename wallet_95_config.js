@@ -1,1 +1,1 @@
-var mnemonic = "flash claw improve merge surface idle salute basket install bracket buddy explain";
+var mnemonic = "change erosion liberty record fatal silver feel planet west library skill response";

@@ -1,1 +1,1 @@
-var mnemonic = "detect symbol sister empty devote matter afford because scout copper sting prosper";
+var mnemonic = "century stomach fatal width perfect enjoy ball hip wreck trial poet stable";

@@ -1,1 +1,1 @@
-var mnemonic = "wreck unable post grocery spider early team slab aim true priority fire";
+var mnemonic = "exercise museum silver cereal stereo vanish clap weather balance column used result";

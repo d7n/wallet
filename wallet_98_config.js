@@ -1,1 +1,1 @@
-var mnemonic = "bottom choose poem below bulb mixed cross machine change derive pipe doll";
+var mnemonic = "fiscal turn old idea wide ensure angry exchange believe shadow social replace";

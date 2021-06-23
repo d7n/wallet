@@ -1,1 +1,1 @@
-var mnemonic = "under pluck lab vendor man between draft wait plug chronic add custom";
+var mnemonic = "space canvas anger certain palace pipe need panda teach lens code patient";

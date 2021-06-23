@@ -1,1 +1,1 @@
-var mnemonic = "orphan left chunk lake tissue winter century off filter arrest chunk book";
+var mnemonic = "news pepper siren danger toward gap heavy seed close payment winner pride";

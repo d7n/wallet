@@ -1,1 +1,1 @@
-var mnemonic = "lemon emotion neck apple sunset draw alien movie group skill plug sport";
+var mnemonic = "box rebel lady manage you piece fault differ cake finger swear surge";

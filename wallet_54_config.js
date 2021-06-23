@@ -1,1 +1,1 @@
-var mnemonic = "popular train news front patch attend surge age orphan route stumble tower";
+var mnemonic = "immense cigar rotate awkward trophy draw deputy thank sustain salute offer key";

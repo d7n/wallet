@@ -1,1 +1,1 @@
-var mnemonic = "gauge knife thumb vast lava submit receive prize metal way march stable";
+var mnemonic = "coyote frequent garment win obscure model clerk wait aisle super symptom ordinary";
