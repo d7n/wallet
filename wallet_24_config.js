@@ -1,1 +1,1 @@
-var mnemonic = "fan cancel column debris wave jeans grocery only wine inquiry field salon";
+var mnemonic = "repair process blade network unaware alley rookie avocado flag together detail milk";

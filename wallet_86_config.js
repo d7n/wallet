@@ -1,1 +1,1 @@
-var mnemonic = "sock museum lens crime critic merit across oyster age key syrup nephew";
+var mnemonic = "define million poet arrow during garage stool until powder elder mean uncover";

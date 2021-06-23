@@ -1,1 +1,1 @@
-var mnemonic = "crunch hip pistol distance festival stomach pistol false type dumb black upgrade";
+var mnemonic = "ship own hedgehog foot crush phone emotion legal unhappy transfer ripple owner";

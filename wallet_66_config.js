@@ -1,1 +1,1 @@
-var mnemonic = "enemy speed opinion damp figure argue salute dune boss ticket ketchup hope";
+var mnemonic = "monkey fashion script patrol leader traffic kingdom seven salad scan wife fiscal";

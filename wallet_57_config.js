@@ -1,1 +1,1 @@
-var mnemonic = "forest utility cage slot demise stereo derive genius mask calm over identify";
+var mnemonic = "agree unknown income hello donkey sorry toilet siege fiction reopen type upper";

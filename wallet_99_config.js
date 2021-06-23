@@ -1,1 +1,1 @@
-var mnemonic = "require wrong robot angry broken vocal until clarify inflict bachelor crime scheme";
+var mnemonic = "garlic order like gather razor foot flock accuse empower ready major image";

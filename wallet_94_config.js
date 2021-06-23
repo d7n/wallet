@@ -1,1 +1,1 @@
-var mnemonic = "strong tattoo luxury wood estate pact assume people put sample scrap nose";
+var mnemonic = "cattle science wide estate marriage dinosaur lizard path foster tent taxi lyrics";

@@ -1,1 +1,1 @@
-var mnemonic = "add dumb parrot click garment pulp raccoon mutual wrist cool panic member";
+var mnemonic = "rally firm rude odor adjust consider seat gold catch throw captain girl";

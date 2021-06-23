@@ -1,1 +1,1 @@
-var mnemonic = "snake whale thing random winter fashion zebra under ostrich fork wrong reason";
+var mnemonic = "display quantum please coin flag draw element helmet task giraffe nature increase";

@@ -1,1 +1,1 @@
-var mnemonic = "argue noodle bright toward cushion mystery wrong spare absurd burden attitude cable";
+var mnemonic = "leave burden sample find food helmet achieve island typical brave patch poverty";

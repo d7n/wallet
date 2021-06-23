@@ -1,1 +1,1 @@
-var mnemonic = "stereo hero depend alley raven evolve execute margin expect weekend item tent";
+var mnemonic = "glimpse angle inquiry clutch skate hour eye bus orphan cruel coin book";

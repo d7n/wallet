@@ -1,1 +1,1 @@
-var mnemonic = "frog scale begin claw have hire echo upper museum day humble pass";
+var mnemonic = "abstract post anchor inherit hire liberty school offer purchase audit account giraffe";

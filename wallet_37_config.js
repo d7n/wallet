@@ -1,1 +1,1 @@
-var mnemonic = "fit rack physical grass denial issue bargain despair return vapor exhibit general";
+var mnemonic = "fabric divert staff tribe exclude wrong width network swing bring pudding key";

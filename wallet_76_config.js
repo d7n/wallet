@@ -1,1 +1,1 @@
-var mnemonic = "ugly monkey coil trap winner vessel parade crush pizza torch jazz panda";
+var mnemonic = "slab word seed cinnamon mother account lounge cluster east maple verify perfect";

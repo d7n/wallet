@@ -1,1 +1,1 @@
-var mnemonic = "health radio lawn ghost profit grocery fence unusual census spike lecture price";
+var mnemonic = "razor talk truck cereal dog immense hood road together primary open candy";

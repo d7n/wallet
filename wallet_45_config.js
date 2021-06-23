@@ -1,1 +1,1 @@
-var mnemonic = "document lend bunker kit recall enact public course hunt fiscal pluck winter";
+var mnemonic = "own alley peace carry record slam wait wide gloom address image sad";

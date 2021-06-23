@@ -1,1 +1,1 @@
-var mnemonic = "fire depend swamp grunt immense dentist rival now inject album emotion use";
+var mnemonic = "glad range fruit faith review detect salute rose naive meadow because river";

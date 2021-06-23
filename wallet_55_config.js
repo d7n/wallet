@@ -1,1 +1,1 @@
-var mnemonic = "chef ready grunt zoo only cycle poet fox sausage open direct another";
+var mnemonic = "skin edge because year hungry prosper ridge frequent carbon blush fruit tattoo";

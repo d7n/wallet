@@ -1,1 +1,1 @@
-var mnemonic = "enlist until judge wasp disagree sorry warm tomorrow gravity blush absent biology";
+var mnemonic = "used isolate name ginger into fire supreme echo emerge file wreck salt";

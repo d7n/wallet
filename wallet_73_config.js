@@ -1,1 +1,1 @@
-var mnemonic = "tower nest slide range license dash chunk scheme idea chef magic subject";
+var mnemonic = "yard length rabbit stay mesh floor adult leader oil pencil warrior sphere";

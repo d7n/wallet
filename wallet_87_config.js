@@ -1,1 +1,1 @@
-var mnemonic = "desert food behind height owner tag pyramid custom erase swallow tornado organ";
+var mnemonic = "license affair gun drift afraid remember hat wink thumb twin library morning";

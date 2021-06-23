@@ -1,1 +1,1 @@
-var mnemonic = "motor notable blue moral never twin enlist question icon invite defense uncle";
+var mnemonic = "angry humor wrestle aisle endorse grain office comic human seat capital click";

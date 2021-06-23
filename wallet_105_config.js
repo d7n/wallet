@@ -1,1 +1,1 @@
-var mnemonic = "giggle push orient apology slender there sorry future leave multiply clock define";
+var mnemonic = "tourist sausage crazy shadow move foster vacant powder wife artist pony absurd";

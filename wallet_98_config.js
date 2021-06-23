@@ -1,1 +1,1 @@
-var mnemonic = "uncover antique word chuckle say second dress march kite maid chimney myth";
+var mnemonic = "trap fashion popular undo garbage damp lesson purse project warrior isolate consider";

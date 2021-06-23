@@ -1,1 +1,1 @@
-var mnemonic = "stay month quantum now path burst rotate scheme curtain asthma chest jungle";
+var mnemonic = "husband alone sniff this soft ring primary twice good twice physical shove";

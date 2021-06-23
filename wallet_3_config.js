@@ -1,1 +1,1 @@
-var mnemonic = "chunk peasant monkey hole better drive tag monkey mixture sample moment garden";
+var mnemonic = "acquire capable domain wire adjust fabric minimum capable potato enroll coyote sunny";

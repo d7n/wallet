@@ -1,1 +1,1 @@
-var mnemonic = "that bone door relax plastic they demand gauge payment kingdom climb wet";
+var mnemonic = "make gaze distance meadow dirt machine puppy keen cry office brain enjoy";

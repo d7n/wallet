@@ -1,1 +1,1 @@
-var mnemonic = "derive major special ice citizen cute spring flush tomato option erosion cherry";
+var mnemonic = "brass prefer huge excuse plastic never crew bring axis fold bone ride";

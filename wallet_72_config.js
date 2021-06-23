@@ -1,1 +1,1 @@
-var mnemonic = "rely fringe shell assault fruit word island benefit magnet strike fantasy resemble";
+var mnemonic = "toast crumble spice yard success prison reward hover assist flower film melt";

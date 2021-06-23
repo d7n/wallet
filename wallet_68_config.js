@@ -1,1 +1,1 @@
-var mnemonic = "scale silly soccer music ecology device lobster seek decrease reopen ocean dawn";
+var mnemonic = "any calm message maple matrix slim exchange raven foster skull found glare";

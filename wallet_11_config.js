@@ -1,1 +1,1 @@
-var mnemonic = "onion they lab put surround win lyrics huge bind sense need sight";
+var mnemonic = "quarter term boil chat blur escape online disagree blame unlock snake cry";

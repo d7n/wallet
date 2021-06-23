@@ -1,1 +1,1 @@
-var mnemonic = "afraid wheel require inflict visit upper test funny alley music follow seat";
+var mnemonic = "whale carbon witness veteran radar mimic demand control silk action message arctic";

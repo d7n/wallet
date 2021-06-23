@@ -1,1 +1,1 @@
-var mnemonic = "draft color castle lesson quote scale obtain beef cradle boat cabbage melt";
+var mnemonic = "gaze decline garbage guitar play trumpet embody nerve kind trophy usual street";

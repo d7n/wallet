@@ -1,1 +1,1 @@
-var mnemonic = "rapid image laugh mix leisure shell page inmate indicate fox napkin huge";
+var mnemonic = "beauty survey sand middle tennis raw ask glow frame brain quantum talent";

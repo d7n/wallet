@@ -1,1 +1,1 @@
-var mnemonic = "steel worth abstract sand hedgehog mistake equip city forum pupil wave exist";
+var mnemonic = "property group draw tide judge ring mule lunch short flame eye lemon";

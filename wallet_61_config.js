@@ -1,1 +1,1 @@
-var mnemonic = "begin galaxy noodle cream chalk abandon enrich weather supreme video chuckle rebuild";
+var mnemonic = "sock atom ordinary stumble tail page april bracket legend rigid gather state";

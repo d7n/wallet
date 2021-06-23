@@ -1,1 +1,1 @@
-var mnemonic = "sibling because talent later humor own cargo grape cruise model panther hole";
+var mnemonic = "picnic next alter fever iron make vague nothing ability jungle bachelor that";

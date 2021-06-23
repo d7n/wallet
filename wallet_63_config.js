@@ -1,1 +1,1 @@
-var mnemonic = "close steel filter strategy gun anchor scrap window direct pulse aspect local";
+var mnemonic = "column drama cinnamon frog hello win acoustic people powder spare relax swim";

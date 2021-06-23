@@ -1,1 +1,1 @@
-var mnemonic = "time abuse ladder pumpkin window wink finger bind erupt glimpse diesel capital";
+var mnemonic = "lounge copper north must debate link piano boring rough early fly help";

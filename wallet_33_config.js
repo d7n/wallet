@@ -1,1 +1,1 @@
-var mnemonic = "maid idle dune task share honey humor emerge asthma mandate turn rotate";
+var mnemonic = "tip absurd budget tray regret jar memory couch tired wonder bracket sort";

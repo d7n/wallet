@@ -1,1 +1,1 @@
-var mnemonic = "tonight quarter motor youth surge industry pole achieve frame supreme glare affair";
+var mnemonic = "obtain order glide praise stool subway can cargo talk lock harsh soldier";

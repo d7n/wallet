@@ -1,1 +1,1 @@
-var mnemonic = "easy traffic rose minute spawn stove track slow world usual deal mimic";
+var mnemonic = "sell slow velvet point busy verify vote fury proud cement step duty";

@@ -1,1 +1,1 @@
-var mnemonic = "lady potato loan fresh goose smoke anchor dutch galaxy imitate bronze spare";
+var mnemonic = "word pudding rally envelope reflect artist because actual fish allow security empty";

@@ -1,1 +1,1 @@
-var mnemonic = "like capable vital essence fringe ski cable sea trumpet spend catalog degree";
+var mnemonic = "connect juice yellow alcohol trial victory grace exit asset turn antique reflect";

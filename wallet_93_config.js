@@ -1,1 +1,1 @@
-var mnemonic = "text nose busy start elite opera proud sea promote nurse portion use";
+var mnemonic = "release glass alien access achieve rabbit beauty scene cargo garment sibling truth";

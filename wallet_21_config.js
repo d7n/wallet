@@ -1,1 +1,1 @@
-var mnemonic = "wire card magnet funny crisp fitness chronic mask cousin solution autumn celery";
+var mnemonic = "friend honey cliff remain culture kick detail helmet fuel clay depart cannon";

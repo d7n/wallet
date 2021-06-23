@@ -1,1 +1,1 @@
-var mnemonic = "suspect trend cherry master advance logic load exact survey suffer diary find";
+var mnemonic = "butter model drum divert slogan toilet prefer monitor today year garbage oblige";

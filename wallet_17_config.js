@@ -1,1 +1,1 @@
-var mnemonic = "curtain remind focus post violin truth maze garden veteran soldier night evolve";
+var mnemonic = "luggage saddle glove canoe hip senior gorilla police behind profit glass typical";

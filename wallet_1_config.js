@@ -1,1 +1,1 @@
-var mnemonic = "floor spin enable cherry crawl century blue pottery wisdom trigger task relax";
+var mnemonic = "hold eight inmate traffic victory gun repair area noodle fee tilt increase";

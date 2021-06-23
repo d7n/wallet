@@ -1,1 +1,1 @@
-var mnemonic = "veteran december phrase weapon recipe off prize hurdle gold notice moment recycle";
+var mnemonic = "pelican they pear theme corn pledge envelope burger boost view banana high";

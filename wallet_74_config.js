@@ -1,1 +1,1 @@
-var mnemonic = "idle two gaze sponsor sauce weasel attack ribbon actor steak menu pepper";
+var mnemonic = "deal govern blanket tumble share bargain hazard race scene steak hope farm";

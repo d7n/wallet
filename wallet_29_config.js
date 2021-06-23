@@ -1,1 +1,1 @@
-var mnemonic = "lazy frozen elite nasty since cricket easily catch nest cabbage duck lab";
+var mnemonic = "inch castle garlic myself retreat laundry damage brand sentence ridge describe slow";

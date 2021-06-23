@@ -1,1 +1,1 @@
-var mnemonic = "social rigid buyer fame feature agree sad reveal shove analyst scene receive";
+var mnemonic = "meat level mirror absurd random train disease olive piece adapt friend joke";

@@ -1,1 +1,1 @@
-var mnemonic = "daughter people combine soccer people doctor vivid furnace piece onion elephant lab";
+var mnemonic = "world produce else miracle concert book retreat cup solve story lion crane";

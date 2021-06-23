@@ -1,1 +1,1 @@
-var mnemonic = "fog river derive pulse this shoe tank else cushion island horn soldier";
+var mnemonic = "machine walk shed knee exercise involve circle come collect orient rain nature";

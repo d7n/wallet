@@ -1,1 +1,1 @@
-var mnemonic = "garden tattoo gentle aware kite retire talk transfer super try enlist glow";
+var mnemonic = "where soda captain aisle coconut mirror flat clip theory calm range mother";

@@ -1,1 +1,1 @@
-var mnemonic = "hockey resource escape wide stay six wife devote promote exit cycle omit";
+var mnemonic = "quote task upper patrol meadow blade shield praise tomorrow public ceiling major";

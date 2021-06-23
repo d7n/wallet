@@ -1,1 +1,1 @@
-var mnemonic = "filter medal sauce silent depend awesome rack depth match waste tumble clump";
+var mnemonic = "napkin flock parent voyage child match result recipe nerve catch universe penalty";

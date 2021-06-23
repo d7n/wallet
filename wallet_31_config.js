@@ -1,1 +1,1 @@
-var mnemonic = "despair this arrange quarter raise execute final alone nest grocery wrist embody";
+var mnemonic = "excess enjoy runway bicycle task purity camera same group sick loop powder";

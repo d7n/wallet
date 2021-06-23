@@ -1,1 +1,1 @@
-var mnemonic = "gesture finger source miracle sheriff potato swing rate enhance sphere torch evoke";
+var mnemonic = "essay also diet foil token mule lazy useless alert toss useless crazy";

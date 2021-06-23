@@ -1,1 +1,1 @@
-var mnemonic = "resemble avocado write beyond produce dune lake chicken weird inch elder poverty";
+var mnemonic = "exist ugly sea festival spatial used discover muffin member ready change scale";

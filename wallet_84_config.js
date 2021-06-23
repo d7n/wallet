@@ -1,1 +1,1 @@
-var mnemonic = "forest devote actor involve hedgehog alien breeze purchase bunker deposit relief library";
+var mnemonic = "slight staff hamster idle alcohol bounce flame lesson junior actual you route";

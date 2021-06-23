@@ -1,1 +1,1 @@
-var mnemonic = "radar tuition early relax salute fog jar gloom rifle gasp mobile diamond";
+var mnemonic = "teach solve wheat awake fancy caution rich various captain seminar book enable";

@@ -1,1 +1,1 @@
-var mnemonic = "service bottom glance actress blade harvest flock license chest taste frozen length";
+var mnemonic = "humble cook spice pony hold step surprise happy slight shed stand long";

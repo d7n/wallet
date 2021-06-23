@@ -1,1 +1,1 @@
-var mnemonic = "sadness despair forget forget analyst author day unknown ramp auction scatter remain";
+var mnemonic = "lizard ribbon thrive position youth cherry pond bracket castle abuse knee dial";

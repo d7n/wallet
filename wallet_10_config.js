@@ -1,1 +1,1 @@
-var mnemonic = "there fade pottery gesture bring strong collect merit rich tiny between broom";
+var mnemonic = "stuff cousin resist truth crop coast gather asthma argue frog mean volume";

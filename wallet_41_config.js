@@ -1,1 +1,1 @@
-var mnemonic = "meadow decorate pioneer loan cross employ away miracle arch vacuum nest subway";
+var mnemonic = "clip fancy magnet slow credit later family dice punch fetch predict dog";

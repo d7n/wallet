@@ -1,1 +1,1 @@
-var mnemonic = "civil screen spider negative nominee flush jelly leader invest people common balance";
+var mnemonic = "online loan charge answer boat virtual fish chunk rent like glove wish";

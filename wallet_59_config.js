@@ -1,1 +1,1 @@
-var mnemonic = "wild donkey giggle leave despair cupboard universe badge north outside front trick";
+var mnemonic = "bridge proof alone luggage mansion oven slush arrow mountain fever attack random";

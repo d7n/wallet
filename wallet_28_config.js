@@ -1,1 +1,1 @@
-var mnemonic = "come matter still unfair educate ugly theme hand damage sea bless dance";
+var mnemonic = "laugh unveil split hill virtual when sustain dynamic nothing filter genius entry";

@@ -1,1 +1,1 @@
-var mnemonic = "metal assume kiss slab beach figure joke spoon tree guess remind giggle";
+var mnemonic = "roof trouble exclude peasant garlic trick absorb rubber behave patient season trust";

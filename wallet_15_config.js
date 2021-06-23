@@ -1,1 +1,1 @@
-var mnemonic = "crew bicycle still flush nephew rotate brisk soccer similar odor sock cave";
+var mnemonic = "ski arrest mimic drink ticket woman near shift number whisper obvious fever";

@@ -1,1 +1,1 @@
-var mnemonic = "myth camera trumpet bright course issue false pupil swap elder inform crew";
+var mnemonic = "vivid drum ordinary forest business apology north trap satisfy couple subway wrap";

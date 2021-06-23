@@ -1,1 +1,1 @@
-var mnemonic = "admit skate potato beyond account car village prize unfold story front warm";
+var mnemonic = "away alley letter zone fat cost drip now group myself split april";

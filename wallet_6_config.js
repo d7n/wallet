@@ -1,1 +1,1 @@
-var mnemonic = "sign exclude cushion swamp trophy scissors name boil high keep social choice";
+var mnemonic = "mom stable access earth frozen unaware agent ethics grid sting secret scare";

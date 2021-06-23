@@ -1,1 +1,1 @@
-var mnemonic = "situate arch expose hair project relief cherry laptop prevent kingdom audit disorder";
+var mnemonic = "release reject join online advice dragon market diesel filter any dentist struggle";

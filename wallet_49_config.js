@@ -1,1 +1,1 @@
-var mnemonic = "oval flag cruel chalk cushion mandate dust reopen buzz purchase garden thunder";
+var mnemonic = "eagle way volcano expire reduce there clog scrap flip custom gasp attract";

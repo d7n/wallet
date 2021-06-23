@@ -1,1 +1,1 @@
-var mnemonic = "blind release human right pause nice faculty library bring panda arrive lobster";
+var mnemonic = "elephant auction staff nice crisp olympic adjust divorce space inflict able video";

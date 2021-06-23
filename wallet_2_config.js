@@ -1,1 +1,1 @@
-var mnemonic = "below scan tone scene lucky bounce system ugly cruel curious never absorb";
+var mnemonic = "bachelor parade defy fitness eagle force wet spike panel little typical assume";

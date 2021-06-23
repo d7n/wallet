@@ -1,1 +1,1 @@
-var mnemonic = "green chronic leisure clump decrease helmet energy note inhale gauge capable earth";
+var mnemonic = "buddy hood kingdom poem sock tone behave cube orchard become pigeon horn";

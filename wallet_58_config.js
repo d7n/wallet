@@ -1,1 +1,1 @@
-var mnemonic = "library alert mean embark version airport during critic drill ice phrase cement";
+var mnemonic = "field pave topple witness sign position couch ahead juice few middle analyst";

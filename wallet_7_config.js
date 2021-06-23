@@ -1,1 +1,1 @@
-var mnemonic = "globe young vacant weekend tomato neglect wall main toast habit mix olive";
+var mnemonic = "online palace tower you chicken bring bid enrich void anger correct door";

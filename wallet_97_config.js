@@ -1,1 +1,1 @@
-var mnemonic = "path jewel reopen skin hip almost before stem corn trophy until tornado";
+var mnemonic = "clarify height snap fluid large banana stable verify mansion wine famous sound";

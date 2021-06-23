@@ -1,1 +1,1 @@
-var mnemonic = "improve wood anchor earth galaxy tumble pupil lesson joke skin minute opinion";
+var mnemonic = "when gift pencil genre someone ugly narrow vicious era welcome wife narrow";

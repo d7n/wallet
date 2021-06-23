@@ -1,1 +1,1 @@
-var mnemonic = "slot zebra guide popular gentle park erase elevator attitude uphold street stereo";
+var mnemonic = "arrow above science office buyer nation eagle trend mirror aim usual door";

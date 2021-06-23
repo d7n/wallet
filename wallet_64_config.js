@@ -1,1 +1,1 @@
-var mnemonic = "addict produce fresh hurry tired exist happy undo empower tennis edge carbon";
+var mnemonic = "injury vapor text east decrease slice slight talk circle bench drastic harsh";

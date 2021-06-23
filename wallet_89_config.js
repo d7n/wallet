@@ -1,1 +1,1 @@
-var mnemonic = "resource sell glow enemy jelly fee attitude choose shed slow spider light";
+var mnemonic = "junior door misery valley angry sister fly satoshi exotic icon face alien";

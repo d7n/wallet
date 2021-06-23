@@ -1,1 +1,1 @@
-var mnemonic = "brand rural cereal drift surround dumb accuse sun resemble glimpse hold document";
+var mnemonic = "jeans only impact someone leave sample economy dolphin face fitness protect giggle";

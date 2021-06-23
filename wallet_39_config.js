@@ -1,1 +1,1 @@
-var mnemonic = "frog coral rule wealth olive battle alone boil skull extend maple syrup";
+var mnemonic = "water spin large remember limit sort unaware lunch diagram gaze gadget horse";

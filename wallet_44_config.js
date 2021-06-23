@@ -1,1 +1,1 @@
-var mnemonic = "suffer ozone blur trap icon metal believe scrub pull odor shy holiday";
+var mnemonic = "industry vivid future sheriff borrow abuse they view trust behave parrot mesh";

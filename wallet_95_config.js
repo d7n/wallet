@@ -1,1 +1,1 @@
-var mnemonic = "they circle diesel deal obey number public teach someone elite imitate cake";
+var mnemonic = "divorce siren insane address salon assist twenty ritual world any input river";

@@ -1,1 +1,1 @@
-var mnemonic = "online hidden lumber fish dizzy clay lazy bar dwarf exact light crop";
+var mnemonic = "jelly discover jacket birth renew cry female car gaze type below obtain";

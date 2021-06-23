@@ -1,1 +1,1 @@
-var mnemonic = "country someone relief vehicle awesome radio nature drive project please whisper move";
+var mnemonic = "damp length eagle blanket broom doctor you elephant notice fire below depend";

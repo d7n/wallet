@@ -1,1 +1,1 @@
-var mnemonic = "artist cost bachelor front fetch pumpkin candy supply fluid emerge response keep";
+var mnemonic = "knee trash escape party scissors physical ridge coffee unknown barrel twelve emotion";

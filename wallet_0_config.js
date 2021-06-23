@@ -1,1 +1,1 @@
-var mnemonic = "sail add pause pull soldier struggle monster praise devote baby good time";
+var mnemonic = "visa flower great sail weekend daring reward differ february cushion actor main";
