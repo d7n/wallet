@@ -1,1 +1,1 @@
-var mnemonic = "fly labor control involve wing useless cabin hood nuclear goat arctic lobster";
+var mnemonic = "breeze tag dinner can broom human fiber snake follow wink domain laundry";

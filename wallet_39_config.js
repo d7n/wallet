@@ -1,1 +1,1 @@
-var mnemonic = "envelope debate pilot kind popular idea slogan faint opera enhance nasty wedding";
+var mnemonic = "regular square decorate lazy hood monitor false shine raven bone satisfy reduce";

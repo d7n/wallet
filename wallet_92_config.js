@@ -1,1 +1,1 @@
-var mnemonic = "three add receive benefit say account advice wish record rate require thrive";
+var mnemonic = "laptop erupt penalty tide box load such brand clay roof atom dismiss";

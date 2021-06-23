@@ -1,1 +1,1 @@
-var mnemonic = "frost near offer mirror account update truly crop oyster cinnamon dentist insect";
+var mnemonic = "rain metal reward panda ring dawn head between talk apology office friend";

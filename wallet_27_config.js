@@ -1,1 +1,1 @@
-var mnemonic = "raw basic found plunge april theme lift section false before guard island";
+var mnemonic = "drip sea permit fade basket breeze claw fine bottom profit occur what";

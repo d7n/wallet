@@ -1,1 +1,1 @@
-var mnemonic = "flush dust glass walnut next asthma gain essay victory cart bacon uniform";
+var mnemonic = "panel ladder truth boat liquid test enough uncover grief venue wear weekend";

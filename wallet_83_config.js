@@ -1,1 +1,1 @@
-var mnemonic = "nasty twist vocal cat youth usage hood toast desert access nature raven";
+var mnemonic = "account frog frog dinosaur security cup shove pupil humble anchor moment service";

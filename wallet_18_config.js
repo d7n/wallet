@@ -1,1 +1,1 @@
-var mnemonic = "drive saddle glow grape trash angry canvas bracket this letter palace pitch";
+var mnemonic = "park rebel school hill clerk primary illegal viable exhibit trial zebra anger";

@@ -1,1 +1,1 @@
-var mnemonic = "sibling glow degree point orbit purpose crater best educate consider extend romance";
+var mnemonic = "disease decide lounge wedding gas jacket invite crowd airport bundle fork absent";

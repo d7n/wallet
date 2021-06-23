@@ -1,1 +1,1 @@
-var mnemonic = "logic cat check any tunnel bus culture average exercise book impose bargain";
+var mnemonic = "wave farm describe method evil biology unhappy property chalk rabbit clutch web";

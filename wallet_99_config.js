@@ -1,1 +1,1 @@
-var mnemonic = "stand obvious girl tag caution reject alley hair smooth opera fox tackle";
+var mnemonic = "dirt nuclear talent all topic donate illness neutral sheriff must small divert";

@@ -1,1 +1,1 @@
-var mnemonic = "upper loan setup million throw depend gift clog pink impose peace crowd";
+var mnemonic = "certain student onion pepper wild fringe example develop skull fee fringe yellow";

@@ -1,1 +1,1 @@
-var mnemonic = "disorder question minute scene buzz ball idle caught rare music drift gasp";
+var mnemonic = "cry comic soup cook electric alcohol layer step rifle innocent elite air";

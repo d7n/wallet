@@ -1,1 +1,1 @@
-var mnemonic = "pioneer sport ivory quantum rose awful power satisfy cement aisle fence blur";
+var mnemonic = "repair ride opinion pair truly fun bean noodle federal orange indicate original";

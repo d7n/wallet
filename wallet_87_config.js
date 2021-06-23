@@ -1,1 +1,1 @@
-var mnemonic = "quiz organ must divorce north glad alcohol suspect isolate setup book razor";
+var mnemonic = "multiply claim ivory remind crush allow bless enact home aisle six cement";

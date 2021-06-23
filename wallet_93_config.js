@@ -1,1 +1,1 @@
-var mnemonic = "never either steel control badge mimic once common tooth ankle trim twenty";
+var mnemonic = "ankle universe luggage settle panda provide nice trap length blade try throw";

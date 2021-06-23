@@ -1,1 +1,1 @@
-var mnemonic = "coast advance opinion cotton ahead stand quote door comfort render corn broken";
+var mnemonic = "armor share coin august phrase inside basic jaguar museum moment junior struggle";

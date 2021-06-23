@@ -1,1 +1,1 @@
-var mnemonic = "rescue faint notable age assist urban body decrease forest despair love lazy";
+var mnemonic = "foam neck input erase erode heart lend garden cross march boost range";

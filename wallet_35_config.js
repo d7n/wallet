@@ -1,1 +1,1 @@
-var mnemonic = "ugly slight marble owner zero olympic thought discover person book city skirt";
+var mnemonic = "broken response prize wing spoon cost decorate leave steel discover recall salt";

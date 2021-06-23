@@ -1,1 +1,1 @@
-var mnemonic = "vault slow immense month lucky diamond judge exotic onion burger slim office";
+var mnemonic = "excite ankle scrub mountain vast ginger slender judge hurdle dragon dove corn";

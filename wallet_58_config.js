@@ -1,1 +1,1 @@
-var mnemonic = "orchard segment baby ozone urge medal move candy assault rich awake never";
+var mnemonic = "faint tomorrow brain produce path regret post slim banner fat tape also";

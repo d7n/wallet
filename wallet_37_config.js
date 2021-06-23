@@ -1,1 +1,1 @@
-var mnemonic = "milk hobby duty film pepper cabbage promote ten nut wire mango gun";
+var mnemonic = "tray input turkey vast ritual grab century outer service own concert casual";

@@ -1,1 +1,1 @@
-var mnemonic = "parrot problem impact tongue feel wrestle symptom canyon lumber crumble social ginger";
+var mnemonic = "turn penalty forest century brown category eternal desert luggage reflect match horse";

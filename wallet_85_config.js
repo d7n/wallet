@@ -1,1 +1,1 @@
-var mnemonic = "task awake lend flash broccoli skin pioneer delay unhappy attend jazz game";
+var mnemonic = "absent remember face happy utility elder hint sort alley rent juice oyster";

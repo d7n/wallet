@@ -1,1 +1,1 @@
-var mnemonic = "crash still sea foster space sentence upgrade viable duty exhibit unhappy damp";
+var mnemonic = "apology say ceiling load people grape churn invest possible right task dash";

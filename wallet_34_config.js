@@ -1,1 +1,1 @@
-var mnemonic = "join delay true deny require abandon improve stove feed split amateur tone";
+var mnemonic = "unfair critic reward trash fish unlock task witness lift year liberty decrease";

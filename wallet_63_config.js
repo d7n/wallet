@@ -1,1 +1,1 @@
-var mnemonic = "grace bread pyramid under perfect wood flavor wear once clinic interest two";
+var mnemonic = "result ribbon wasp wood noodle shoulder select glue vicious truly vivid yellow";

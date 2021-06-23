@@ -1,1 +1,1 @@
-var mnemonic = "diamond drop fossil capital flush spike order city slow brand distance wave";
+var mnemonic = "cycle casual mouse pulse super case pipe slogan arrest novel lyrics include";

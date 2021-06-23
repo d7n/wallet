@@ -1,1 +1,1 @@
-var mnemonic = "talk inmate grace manual bridge churn seminar fault better fuel second circle";
+var mnemonic = "primary rocket glass first flip region bring exotic kid slam about save";

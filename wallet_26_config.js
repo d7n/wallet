@@ -1,1 +1,1 @@
-var mnemonic = "fashion thought layer stuff area hidden airport trust round salt rude again";
+var mnemonic = "tragic primary dog prepare bitter arm audit rabbit castle cattle crystal shy";

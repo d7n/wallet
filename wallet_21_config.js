@@ -1,1 +1,1 @@
-var mnemonic = "lava alcohol what identify unique dentist uncle paddle wasp deposit game relax";
+var mnemonic = "affair cook face web please glory enhance juice nasty rigid spawn accuse";

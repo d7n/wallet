@@ -1,1 +1,1 @@
-var mnemonic = "total better palm negative toward purity deliver trick solution question blind dignity";
+var mnemonic = "essence side demise exchange effort rose bitter raven educate hard budget mandate";

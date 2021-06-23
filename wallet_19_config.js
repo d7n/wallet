@@ -1,1 +1,1 @@
-var mnemonic = "wet aware wood anxiety day bone grape rent crime soccer decline hello";
+var mnemonic = "faint earn seven exclude guide trophy alley tip sand output penalty organ";

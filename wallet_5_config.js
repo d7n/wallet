@@ -1,1 +1,1 @@
-var mnemonic = "bracket genre silly actual mouse abandon october faculty lizard cream armor pony";
+var mnemonic = "fog elegant coffee square short cash surge senior diamond provide shoulder visa";

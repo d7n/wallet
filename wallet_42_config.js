@@ -1,1 +1,1 @@
-var mnemonic = "tone fan ticket ripple hair snack affair useless destroy opera access jacket";
+var mnemonic = "wool remind blast wrap maximum alert avocado bird settle staff twin hotel";

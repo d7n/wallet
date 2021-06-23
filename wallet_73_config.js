@@ -1,1 +1,1 @@
-var mnemonic = "piece piano dust usage ginger slim common little truck jazz assist disagree";
+var mnemonic = "just flag ketchup hire warfare wear zone amused fashion divorce desert expose";

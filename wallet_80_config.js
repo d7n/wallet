@@ -1,1 +1,1 @@
-var mnemonic = "exact reunion crawl upper mimic dolphin ensure all position country brick swift";
+var mnemonic = "enlist slide erupt family recall unique gaze man barely elite inch dizzy";

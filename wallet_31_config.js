@@ -1,1 +1,1 @@
-var mnemonic = "arena page identify husband episode slight short gold ensure fine garbage host";
+var mnemonic = "vivid seat original knife cloud current erode coffee normal north bulk polar";

@@ -1,1 +1,1 @@
-var mnemonic = "coil shoe ozone empty wink purse foot employ blame honey boss moment";
+var mnemonic = "loud scrap galaxy fly receive term inquiry life novel fortune panda clever";

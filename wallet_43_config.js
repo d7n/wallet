@@ -1,1 +1,1 @@
-var mnemonic = "animal bulb rich shuffle loop tobacco crunch dad fetch tent whip tobacco";
+var mnemonic = "umbrella dash feel fat unhappy jeans swallow easily gate range include empty";

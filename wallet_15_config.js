@@ -1,1 +1,1 @@
-var mnemonic = "apart rhythm fiscal still capable latin spy upper always sheriff hundred monster";
+var mnemonic = "jar milk hundred crumble employ duty inmate mistake truck beef tourist wolf";

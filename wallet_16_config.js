@@ -1,1 +1,1 @@
-var mnemonic = "merge soft another taste unlock disorder unaware excuse tooth subject tip cook";
+var mnemonic = "electric news gesture wheel dash zone crash peasant evidence ahead accident century";

@@ -1,1 +1,1 @@
-var mnemonic = "rhythm rely welcome shine industry mystery rookie patch deliver relax awesome night";
+var mnemonic = "before satoshi they season volume above salute educate bundle idea bid asset";

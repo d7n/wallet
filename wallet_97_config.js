@@ -1,1 +1,1 @@
-var mnemonic = "token saddle inmate fluid normal oven hurdle guilt bottom bean diagram fatigue";
+var mnemonic = "crisp casual chunk faith embrace rose bone pattern short knock answer screen";

@@ -1,1 +1,1 @@
-var mnemonic = "motor orphan illness clock poem timber multiply vintage broom ethics differ stage";
+var mnemonic = "east aisle denial repeat holiday announce diagram palm endless rice bamboo swift";

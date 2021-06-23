@@ -1,1 +1,1 @@
-var mnemonic = "dice siren robust genuine scheme wisdom hazard margin person merge unusual away";
+var mnemonic = "eternal flee mango party margin fault donor page rely twin bullet page";

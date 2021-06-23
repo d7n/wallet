@@ -1,1 +1,1 @@
-var mnemonic = "bind lawn drastic pool inspire hurry crush blind simple tiny response hat";
+var mnemonic = "much main coral drum decide trash elevator believe round replace omit drip";

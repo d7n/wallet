@@ -1,1 +1,1 @@
-var mnemonic = "define total diamond design stereo enrich motion stem strike chaos bird cheap";
+var mnemonic = "fever digital remember hockey dolphin menu asset peace light dwarf deliver cotton";

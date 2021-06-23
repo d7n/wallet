@@ -1,1 +1,1 @@
-var mnemonic = "first mind token rookie problem snake wave delay flavor ring attend maple";
+var mnemonic = "chef police impact relief mask sphere mad enrich shove flock region tongue";

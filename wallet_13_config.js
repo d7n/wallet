@@ -1,1 +1,1 @@
-var mnemonic = "case hour say cabin dirt discover boil course forest river kind replace";
+var mnemonic = "truly robust demand fitness gorilla cave either excuse advance buddy toilet miss";

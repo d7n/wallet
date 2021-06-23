@@ -1,1 +1,1 @@
-var mnemonic = "net honey purity silk ready favorite ability there clap unique home dream";
+var mnemonic = "inquiry tiny ridge cake media solution trend electric hub myth appear else";

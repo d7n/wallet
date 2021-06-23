@@ -1,1 +1,1 @@
-var mnemonic = "clap letter wait inspire hedgehog avoid seed swarm brief govern fame injury";
+var mnemonic = "motor lady defy push spring solar under stove leopard topic club same";

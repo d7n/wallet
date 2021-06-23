@@ -1,1 +1,1 @@
-var mnemonic = "feed over disorder swarm return minute mouse cousin mind cousin accident worth";
+var mnemonic = "parrot table fringe diary pole grocery include spot senior motion security upset";

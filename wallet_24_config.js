@@ -1,1 +1,1 @@
-var mnemonic = "pig hurdle north face sudden ring must paddle nature rabbit pact beyond";
+var mnemonic = "mass pigeon connect easily awkward behind robust black nation very visit monitor";

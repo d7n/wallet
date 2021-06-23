@@ -1,1 +1,1 @@
-var mnemonic = "arena pause budget frog meadow shallow ridge nature profit assault into tonight";
+var mnemonic = "safe arrive average hobby imitate advance moral coral spice sell once anchor";

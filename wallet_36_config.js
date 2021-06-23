@@ -1,1 +1,1 @@
-var mnemonic = "radio artwork glory ship lend salad cousin auto crowd clay paper verb";
+var mnemonic = "stadium you renew camera rice fault decorate minute grid will patient cover";

@@ -1,1 +1,1 @@
-var mnemonic = "truly venue glance glow march boring stool butter night parent bike pupil";
+var mnemonic = "wait mutual must disorder boat stamp pyramid morning woman goat innocent tiny";

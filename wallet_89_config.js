@@ -1,1 +1,1 @@
-var mnemonic = "write middle tooth increase noble aerobic conduct jar harsh people congress retreat";
+var mnemonic = "armed series undo local profit width weather joke armed hotel will thumb";

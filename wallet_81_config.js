@@ -1,1 +1,1 @@
-var mnemonic = "grid unhappy reduce aunt opera license box uphold trumpet illness sister empty";
+var mnemonic = "tenant always dinosaur price pulp vocal lottery differ leopard above roast ramp";

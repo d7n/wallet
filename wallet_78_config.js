@@ -1,1 +1,1 @@
-var mnemonic = "margin decrease spend basket just chicken hotel spoon adult script sock sorry";
+var mnemonic = "couple husband hire noble venture basic neck forward deposit route treat industry";

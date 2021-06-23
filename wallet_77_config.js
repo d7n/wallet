@@ -1,1 +1,1 @@
-var mnemonic = "hello holiday grace kidney around nephew churn youth glance erase casual nephew";
+var mnemonic = "wage swap crunch chapter desk accuse define suffer ivory stuff story return";

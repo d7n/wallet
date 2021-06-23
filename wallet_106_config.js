@@ -1,1 +1,1 @@
-var mnemonic = "alter hole fury inflict balcony mean donkey grit comfort claim fury badge";
+var mnemonic = "dinner water fruit weather visa enough sweet segment artist bulb prepare decline";

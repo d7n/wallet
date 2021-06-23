@@ -1,1 +1,1 @@
-var mnemonic = "mule spin want alarm join wrist illness ten shell because swap girl";
+var mnemonic = "rural border emotion velvet leg tragic picnic trend galaxy flower tobacco tube";

@@ -1,1 +1,1 @@
-var mnemonic = "fine stage face medal twelve poverty hope hundred slight swamp bleak lemon";
+var mnemonic = "flip close solar lawn real reason draw render penalty patch sentence edit";

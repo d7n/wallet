@@ -1,1 +1,1 @@
-var mnemonic = "talk clap invest lake capital popular cage enlist review resist tomato federal";
+var mnemonic = "awkward castle lunar casino injury cupboard anchor neglect suffer perfect ribbon file";

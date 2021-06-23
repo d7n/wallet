@@ -1,1 +1,1 @@
-var mnemonic = "feed vendor pipe tiger peanut episode hurry then salad best connect pizza";
+var mnemonic = "border insect rent inquiry pull risk mercy random tool stairs acoustic wolf";

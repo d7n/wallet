@@ -1,1 +1,1 @@
-var mnemonic = "cute badge merit mountain accuse balcony three number security all voyage cattle";
+var mnemonic = "chat garbage assist orbit joy glide shell fortune private kitchen blossom retire";

@@ -1,1 +1,1 @@
-var mnemonic = "armor vanish bike slam junior evolve section valid achieve put victory shaft";
+var mnemonic = "fantasy figure sure unit orchard mother cruel same drive emotion victory oval";

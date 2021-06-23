@@ -1,1 +1,1 @@
-var mnemonic = "until flame save erosion brother stereo emotion lecture pipe inch family soldier";
+var mnemonic = "farm decide life bubble melody fruit royal goose other police pave exhibit";

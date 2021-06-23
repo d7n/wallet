@@ -1,1 +1,1 @@
-var mnemonic = "tool during merry hour baby fluid reveal solid churn wall tackle blame";
+var mnemonic = "near gorilla state vessel cause enable loud fence battle olympic electric shift";

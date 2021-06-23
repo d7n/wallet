@@ -1,1 +1,1 @@
-var mnemonic = "march apart trigger grief behave cover doll exact kite burst gown device";
+var mnemonic = "call echo elevator spoil fiscal bulk price wear ankle only ostrich empty";

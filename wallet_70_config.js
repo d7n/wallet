@@ -1,1 +1,1 @@
-var mnemonic = "teach alley poverty heavy seven piano response correct still near artefact valid";
+var mnemonic = "wool uncle must alley velvet dwarf balance vendor tide define flee jar";

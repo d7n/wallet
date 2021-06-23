@@ -1,1 +1,1 @@
-var mnemonic = "fluid anger under fork bamboo pet stereo club custom arctic mad very";
+var mnemonic = "insane orphan cook smoke organ puppy track vacant can vapor coyote corn";

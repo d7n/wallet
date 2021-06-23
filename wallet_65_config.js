@@ -1,1 +1,1 @@
-var mnemonic = "torch amateur shoe giggle history lyrics draw buddy boost harsh dirt butter";
+var mnemonic = "have sign hidden umbrella hero guard tattoo jump barely category fever clip";

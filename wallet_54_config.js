@@ -1,1 +1,1 @@
-var mnemonic = "bulk ticket mango stairs enroll select away age dose wise reject hood";
+var mnemonic = "prevent leave grief asthma patrol park table door shiver recipe essence love";

@@ -1,1 +1,1 @@
-var mnemonic = "license gaze napkin cat panel text wait unusual twenty stone news fat";
+var mnemonic = "head glory scrub smoke journey milk reform lottery follow diamond onion month";

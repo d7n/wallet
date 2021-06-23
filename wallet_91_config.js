@@ -1,1 +1,1 @@
-var mnemonic = "now blast infant vessel able surprise open town napkin muscle believe pond";
+var mnemonic = "rocket wolf scissors cat rich copy rocket street physical layer regret grid";

@@ -1,1 +1,1 @@
-var mnemonic = "cupboard honey piece flat door earn convince combine match speak convince rice";
+var mnemonic = "few chair skin casino lake ribbon sense rebuild roast notice paper innocent";

@@ -1,1 +1,1 @@
-var mnemonic = "equal across have minimum ocean walk quality caution melody example hundred east";
+var mnemonic = "table paper swing smoke minor fetch smoke boy youth enroll profit volcano";

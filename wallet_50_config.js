@@ -1,1 +1,1 @@
-var mnemonic = "isolate injury top shallow electric oak goose swift history major obey pilot";
+var mnemonic = "cat lunch expand fiscal amount quit solution sheriff fever spider chest where";

@@ -1,1 +1,1 @@
-var mnemonic = "mouse note pretty photo such tortoise drink kid hire rocket nice author";
+var mnemonic = "minimum code adjust horse include left tobacco grow rate circle program lab";

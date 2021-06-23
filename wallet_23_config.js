@@ -1,1 +1,1 @@
-var mnemonic = "shield onion anxiety creek reform lava notice cat glimpse alley mercy ice";
+var mnemonic = "embrace lend axis immune tribe rain sport keep nice pattern reject dance";

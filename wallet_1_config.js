@@ -1,1 +1,1 @@
-var mnemonic = "abstract planet tail near crack bus useful cactus duty unfold seat stamp";
+var mnemonic = "brief reveal apology approve title celery spawn arrest switch spring arm siren";

@@ -1,1 +1,1 @@
-var mnemonic = "certain word medal wheat medal random cash pass plate wisdom kitten ribbon";
+var mnemonic = "magic soul sand service town illness finger fun define mistake few staff";
