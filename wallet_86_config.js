@@ -1,1 +1,1 @@
-var mnemonic = "snake control survey ticket swing twin surround indicate clean pluck frequent rare";
+var mnemonic = "bracket record average wreck roast light unlock fine receive path artefact oak";

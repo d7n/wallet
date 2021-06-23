@@ -1,1 +1,1 @@
-var mnemonic = "option slim another stick once fluid leisure witness poet soon tent depart";
+var mnemonic = "chronic harsh easy hat satisfy air index patch hawk list recall foster";

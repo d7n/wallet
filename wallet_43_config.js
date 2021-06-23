@@ -1,1 +1,1 @@
-var mnemonic = "music short latin tackle can twenty draft range resist rather engage cash";
+var mnemonic = "bird immune control affair nuclear faculty student keen shine mechanic guide walk";

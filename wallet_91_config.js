@@ -1,1 +1,1 @@
-var mnemonic = "dry relief fix fabric sugar enough unable crucial dove flush such acid";
+var mnemonic = "adapt wheel donor real answer upset rally use horror guard wisdom music";

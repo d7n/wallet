@@ -1,1 +1,1 @@
-var mnemonic = "rug matrix judge bachelor truly coin resemble ask resource spatial lecture elevator";
+var mnemonic = "switch drop anxiety fault brisk bid stamp august direct arctic shaft shrimp";

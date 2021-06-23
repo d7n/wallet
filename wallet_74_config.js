@@ -1,1 +1,1 @@
-var mnemonic = "goose together act anxiety camera eagle repair ten derive winner prefer earth";
+var mnemonic = "evidence ridge nasty cycle tank crunch employ say know shy grape cigar";

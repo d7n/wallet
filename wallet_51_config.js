@@ -1,1 +1,1 @@
-var mnemonic = "mushroom similar coach slogan rose during salt reason bulk wish warfare goat";
+var mnemonic = "pledge dirt fog kitchen hurt captain shiver enjoy bike canal until tray";

@@ -1,1 +1,1 @@
-var mnemonic = "expand sock grit profit knife bag suffer alien wink crouch tell leisure";
+var mnemonic = "rug version almost slender roast female tennis almost spare confirm enrich figure";

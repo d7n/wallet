@@ -1,1 +1,1 @@
-var mnemonic = "inject blast ketchup range dizzy umbrella clean dignity mammal mind spot vault";
+var mnemonic = "tomato property wagon glad scan guitar company judge oyster payment private hero";

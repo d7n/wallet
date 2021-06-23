@@ -1,1 +1,1 @@
-var mnemonic = "clerk entry sell direct coral frozen divide easy snake moon badge thrive";
+var mnemonic = "accident naive struggle harbor scheme cactus plastic airport magnet volcano tip warrior";

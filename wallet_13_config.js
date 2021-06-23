@@ -1,1 +1,1 @@
-var mnemonic = "nothing rent okay give cage canyon minimum also apple misery brick same";
+var mnemonic = "enhance eternal erupt discover air harbor table head decorate tenant inside enrich";

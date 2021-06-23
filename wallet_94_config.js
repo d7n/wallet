@@ -1,1 +1,1 @@
-var mnemonic = "rug exotic father earn tomorrow mango fabric early attract april film have";
+var mnemonic = "file matrix argue boil turn illegal seminar flag leader youth globe fetch";

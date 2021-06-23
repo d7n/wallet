@@ -1,1 +1,1 @@
-var mnemonic = "famous pioneer reform similar guide carbon dash innocent place glide margin grant";
+var mnemonic = "autumn stuff save people layer chunk yard pupil island where describe report";

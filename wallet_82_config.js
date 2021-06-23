@@ -1,1 +1,1 @@
-var mnemonic = "boil final fold couch seminar citizen hello wagon lonely arch lunar core";
+var mnemonic = "lunar shoot assume dance comfort area raccoon duck either glare faith voyage";

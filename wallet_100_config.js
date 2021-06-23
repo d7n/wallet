@@ -1,1 +1,1 @@
-var mnemonic = "teach account lava cruel oven steak twenty scale patch balcony record among";
+var mnemonic = "general ketchup real glide veteran pretty bunker double lumber glove spot expand";

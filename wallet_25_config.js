@@ -1,1 +1,1 @@
-var mnemonic = "vibrant exhaust dune good polar session north axis walnut slush pottery invest";
+var mnemonic = "favorite shift bulb pact kiwi vault shift place brain express silver fuel";

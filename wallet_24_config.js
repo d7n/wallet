@@ -1,1 +1,1 @@
-var mnemonic = "mention useless swamp virtual popular industry link broccoli solve zone chair cloud";
+var mnemonic = "biology funny attack federal ketchup smoke water odor screen lava flavor oblige";

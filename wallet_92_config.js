@@ -1,1 +1,1 @@
-var mnemonic = "almost filter sister law frequent black awkward diesel steel candy april draft";
+var mnemonic = "special industry key forget day recall stuff tragic soldier bind oil now";

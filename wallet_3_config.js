@@ -1,1 +1,1 @@
-var mnemonic = "confirm voyage talk motion kite chronic rotate bread nuclear donate satoshi false";
+var mnemonic = "dirt grocery shy fly alien unit river fee render middle mimic van";

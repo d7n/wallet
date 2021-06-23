@@ -1,1 +1,1 @@
-var mnemonic = "weather seminar unaware envelope meat long cook lady unit ask upset better";
+var mnemonic = "wall margin brush grit only anchor quote tiger crane neck harsh shoulder";

@@ -1,1 +1,1 @@
-var mnemonic = "accuse burden divert choose risk nest vessel boy expand garlic seven know";
+var mnemonic = "hold day issue filter hat museum act expand horse enact march pitch";

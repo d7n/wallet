@@ -1,1 +1,1 @@
-var mnemonic = "buffalo steak mango assist album page item junior mixture ginger video neutral";
+var mnemonic = "evolve rice advice neither stool solution among virtual awesome achieve emerge border";

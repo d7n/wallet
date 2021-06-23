@@ -1,1 +1,1 @@
-var mnemonic = "hockey wash love liberty ready report rocket sell turtle swift scheme tennis";
+var mnemonic = "soap vehicle soccer humor flock depart wasp entry what struggle cruel figure";

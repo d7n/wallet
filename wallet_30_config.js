@@ -1,1 +1,1 @@
-var mnemonic = "mercy trap reason ancient farm stage remove fever knock chicken galaxy foam";
+var mnemonic = "loop tone mule tennis ozone tissue frog dune soon put recall kidney";

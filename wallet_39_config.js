@@ -1,1 +1,1 @@
-var mnemonic = "gorilla cancel frog snow goddess actual six grab anxiety stand icon neck";
+var mnemonic = "gasp network typical inmate frequent never dwarf trophy mosquito theme match emotion";

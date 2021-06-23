@@ -1,1 +1,1 @@
-var mnemonic = "today refuse ski extend dress sweet later mosquito rocket absent coast simple";
+var mnemonic = "brother turtle outside exhaust frozen imitate turn east cabin bottom exclude peasant";

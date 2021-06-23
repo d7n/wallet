@@ -1,1 +1,1 @@
-var mnemonic = "nominee junior allow cover enable danger celery negative hybrid insect dirt weird";
+var mnemonic = "liquid poem stem month peace strong range echo finish cactus decade typical";

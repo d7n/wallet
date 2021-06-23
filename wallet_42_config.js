@@ -1,1 +1,1 @@
-var mnemonic = "clutch loan bread steak wreck tank lazy elite guess there unable meat";
+var mnemonic = "eternal album stem pigeon chest ramp festival iron figure tide arrow awful";

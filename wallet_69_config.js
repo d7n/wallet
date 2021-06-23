@@ -1,1 +1,1 @@
-var mnemonic = "maid siren humble document relax hand want seat there try tennis fitness";
+var mnemonic = "fever mammal betray match scrub crop lonely wave wide purse decide left";

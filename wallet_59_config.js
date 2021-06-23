@@ -1,1 +1,1 @@
-var mnemonic = "believe second coil wide north city harbor wide harbor mind sausage board";
+var mnemonic = "best nuclear juice title jungle senior bird unable divide kiwi junior one";

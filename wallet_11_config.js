@@ -1,1 +1,1 @@
-var mnemonic = "chronic black vivid inspire reflect employ great regular salmon wall fame frozen";
+var mnemonic = "again discover intact ocean man medal leopard normal expose airport gossip physical";

@@ -1,1 +1,1 @@
-var mnemonic = "famous alert employ defy palace cry broccoli paper winter desert correct find";
+var mnemonic = "bone miracle normal census exchange satoshi table office paper trip test kangaroo";

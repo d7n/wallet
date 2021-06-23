@@ -1,1 +1,1 @@
-var mnemonic = "mix give humble science any air float barrel profit pyramid yellow brick";
+var mnemonic = "input critic indoor over essence unknown unique host taxi drama cream ghost";

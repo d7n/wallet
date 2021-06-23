@@ -1,1 +1,1 @@
-var mnemonic = "slot change fiction gravity soccer cliff world exchange similar type pink swear";
+var mnemonic = "tower smart ethics gossip auto rack south letter large eager jazz snack";

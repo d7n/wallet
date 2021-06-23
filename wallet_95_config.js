@@ -1,1 +1,1 @@
-var mnemonic = "practice grief diary faculty capital organ angry decrease direct kit record force";
+var mnemonic = "danger liar final example offer asthma gesture six limit manual apple close";

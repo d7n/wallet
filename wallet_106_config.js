@@ -1,1 +1,1 @@
-var mnemonic = "prepare return feel unit hover timber much focus arm mixed suggest again";
+var mnemonic = "foster ahead situate sting print main inquiry hard calm long notable step";

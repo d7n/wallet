@@ -1,1 +1,1 @@
-var mnemonic = "sunset subway member luggage noble birth flame round ball post wage monkey";
+var mnemonic = "acid error pair fish crisp pipe involve major fault march circle foam";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk company matter record smoke keen lounge need witness toilet wish sight";
+var mnemonic = "organ prison find vacuum mammal almost family hybrid finger pet adjust cluster";

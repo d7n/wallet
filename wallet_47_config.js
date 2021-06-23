@@ -1,1 +1,1 @@
-var mnemonic = "pulp hello resist tattoo knife return exile begin cradle sense nut heavy";
+var mnemonic = "spend twelve margin that train online pitch title afraid six dwarf mirror";

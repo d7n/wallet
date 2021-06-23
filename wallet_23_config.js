@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow short option height video become near purity spoon carpet oak world";
+var mnemonic = "bubble replace silver shift danger math aim lawn pledge patient punch labor";

@@ -1,1 +1,1 @@
-var mnemonic = "finger scissors area alert slim battle lawn veteran light lecture wing napkin";
+var mnemonic = "spot myself honey three final sugar bean daughter right come style debris";

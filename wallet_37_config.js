@@ -1,1 +1,1 @@
-var mnemonic = "panic material dinner glimpse clever deer brief sadness fury ribbon kidney thrive";
+var mnemonic = "region dog naive burden improve critic cable spike quarter night car wool";

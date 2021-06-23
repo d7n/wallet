@@ -1,1 +1,1 @@
-var mnemonic = "glimpse cotton wreck main engine gate doctor benefit useless switch quantum various";
+var mnemonic = "ship shaft library you surface century later stumble fish violin enable spoil";

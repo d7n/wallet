@@ -1,1 +1,1 @@
-var mnemonic = "mistake host scheme banana kid trophy equip differ crouch swamp better foil";
+var mnemonic = "royal ginger omit idea crop board sound about neck vanish rival iron";

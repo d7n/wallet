@@ -1,1 +1,1 @@
-var mnemonic = "traffic tonight sleep slush lumber bulk draw round super today alter episode";
+var mnemonic = "twin legend puppy tired situate repeat ice twelve moral auction afraid hedgehog";

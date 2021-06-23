@@ -1,1 +1,1 @@
-var mnemonic = "note behave bulb combine cheese wage acquire neglect spy output all usual";
+var mnemonic = "spare neither clinic laptop brick unveil history fringe split brown horror dust";

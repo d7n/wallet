@@ -1,1 +1,1 @@
-var mnemonic = "tribe typical actual response useless hobby waste deposit club sibling rack daring";
+var mnemonic = "surround promote title stay alter make first six stomach vague attitude hazard";

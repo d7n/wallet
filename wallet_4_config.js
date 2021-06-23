@@ -1,1 +1,1 @@
-var mnemonic = "immense balance bright unknown tilt source visual debris come film diesel burst";
+var mnemonic = "cannon disagree talk lyrics zone unfold picnic cover output swing destroy hard";

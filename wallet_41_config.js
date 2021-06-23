@@ -1,1 +1,1 @@
-var mnemonic = "call dynamic jealous twin chuckle liberty kidney reopen dog muffin ensure primary";
+var mnemonic = "field snack outside once sibling series sleep same whip vacuum mimic casino";

@@ -1,1 +1,1 @@
-var mnemonic = "auto vibrant feature stable axis radio ocean opinion reason cage exchange use";
+var mnemonic = "must core energy license drill artist east reason rubber retreat type ignore";

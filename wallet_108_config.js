@@ -1,1 +1,1 @@
-var mnemonic = "cloth detail alter jacket enough chase eye medal lunar deer script result";
+var mnemonic = "subway response range awkward custom guard again better green ribbon engine violin";

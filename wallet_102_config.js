@@ -1,1 +1,1 @@
-var mnemonic = "wheat pluck upset little pole flag orient exhibit nest apart candy ball";
+var mnemonic = "retire ketchup knock era script forward snack tongue jaguar alter explain crunch";

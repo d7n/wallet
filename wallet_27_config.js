@@ -1,1 +1,1 @@
-var mnemonic = "father mad push gentle doctor guide model top rice family spend dish";
+var mnemonic = "guess material put deliver will awful replace insane atom juice over predict";

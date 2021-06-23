@@ -1,1 +1,1 @@
-var mnemonic = "first noble silent hurt fog coffee phrase craft ribbon wear iron hedgehog";
+var mnemonic = "jealous husband regular speed core panther trumpet matter mouse gun skull jump";

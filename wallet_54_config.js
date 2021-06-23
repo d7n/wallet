@@ -1,1 +1,1 @@
-var mnemonic = "wet false way team three insane material stage meat label ozone spare";
+var mnemonic = "patient cargo useless cupboard cart undo kiss gossip tower pencil ahead galaxy";

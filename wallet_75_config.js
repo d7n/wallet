@@ -1,1 +1,1 @@
-var mnemonic = "clock combine tag phrase swallow hard horse guilt under poem cave memory";
+var mnemonic = "hunt iron maximum alien picture globe reunion detail uniform over phone logic";

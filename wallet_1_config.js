@@ -1,1 +1,1 @@
-var mnemonic = "cereal transfer praise omit vital honey wing envelope minor critic quiz mirror";
+var mnemonic = "space excuse mad merry lift draft kidney fetch aspect quality vendor price";

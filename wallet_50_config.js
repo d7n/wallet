@@ -1,1 +1,1 @@
-var mnemonic = "butter dismiss own advice seminar apart total innocent arm exit topic satisfy";
+var mnemonic = "mind potato toss unlock neither lawsuit december ring aunt donkey oil material";

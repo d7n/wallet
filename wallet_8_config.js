@@ -1,1 +1,1 @@
-var mnemonic = "lecture pear artist blame reveal edit course frog earth flash expect air";
+var mnemonic = "disorder increase shove panda account aim stable one burst news income crisp";

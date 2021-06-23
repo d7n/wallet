@@ -1,1 +1,1 @@
-var mnemonic = "then bacon link debris awful exist grab bless note churn vessel kangaroo";
+var mnemonic = "undo belt pizza twice donkey stand bind repair have predict chuckle wear";

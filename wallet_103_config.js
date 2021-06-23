@@ -1,1 +1,1 @@
-var mnemonic = "bless attract ritual spirit sea coin cause ghost grant symbol chimney such";
+var mnemonic = "blind undo move rack between slot gown vague satisfy movie cover girl";

@@ -1,1 +1,1 @@
-var mnemonic = "weird humor abandon arrest frog pigeon learn north ask warfare craft consider";
+var mnemonic = "print actual vanish seat orbit beach market clutch service exotic cash fortune";

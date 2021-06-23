@@ -1,1 +1,1 @@
-var mnemonic = "man talk transfer dash duck emerge balance spring visit minor twin demise";
+var mnemonic = "summer write fortune patch leaf claw network evil melt gasp pride omit";

@@ -1,1 +1,1 @@
-var mnemonic = "pioneer grunt snap saddle delay put polar enrich light frame add today";
+var mnemonic = "tell always claw core hill chaos copper welcome sample curtain glue joke";

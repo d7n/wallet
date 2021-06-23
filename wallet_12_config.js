@@ -1,1 +1,1 @@
-var mnemonic = "negative autumn stairs limit asthma tenant physical tone butter afford remember urge";
+var mnemonic = "they speed exotic lab fence wave air key organ edge shine require";

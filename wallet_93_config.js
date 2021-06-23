@@ -1,1 +1,1 @@
-var mnemonic = "crater poem vote tank tired alone boss side puppy sentence atom result";
+var mnemonic = "mention witness pair capital choice stock stumble liquid amateur surprise velvet jump";

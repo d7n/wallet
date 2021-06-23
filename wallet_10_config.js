@@ -1,1 +1,1 @@
-var mnemonic = "list flame price unhappy sister luggage sentence scout green screen narrow either";
+var mnemonic = "gorilla attend wine net huge rotate hope eagle kiss arrive smile tray";

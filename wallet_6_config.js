@@ -1,1 +1,1 @@
-var mnemonic = "stock atom patient knee north fluid practice clump witness hybrid build tackle";
+var mnemonic = "win wash rent result advance skirt clown common fuel divert rack organ";

@@ -1,1 +1,1 @@
-var mnemonic = "lottery click town inherit exclude relief behind elephant brush mother blur announce";
+var mnemonic = "marble effort over eight laptop slot teach copper kind cereal night just";

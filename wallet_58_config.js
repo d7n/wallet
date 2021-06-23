@@ -1,1 +1,1 @@
-var mnemonic = "submit brick cloth raven anger shock outdoor rabbit puppy couch chest shuffle";
+var mnemonic = "future snake hip right vacuum employ level arrow quarter inhale text tunnel";

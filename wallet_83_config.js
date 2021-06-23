@@ -1,1 +1,1 @@
-var mnemonic = "phrase reason like among use comfort sick neglect limit trend man tiny";
+var mnemonic = "furnace drive already focus issue this twin you side swim tank invite";

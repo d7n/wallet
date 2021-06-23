@@ -1,1 +1,1 @@
-var mnemonic = "topic drill mesh spatial audit crime almost chuckle car crowd soul analyst";
+var mnemonic = "desk flag wage stand cable wedding strategy panther accident gospel noble furnace";

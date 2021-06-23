@@ -1,1 +1,1 @@
-var mnemonic = "husband either twice maid weather hard there blush ticket quantum finger tragic";
+var mnemonic = "merge ten maid adult expand theme drift spice language shallow lyrics will";

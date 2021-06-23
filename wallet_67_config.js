@@ -1,1 +1,1 @@
-var mnemonic = "split hole unable snap sense loan that donate tattoo blanket grief ball";
+var mnemonic = "scale garment afford version dinosaur horror possible noodle green guilt proof govern";

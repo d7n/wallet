@@ -1,1 +1,1 @@
-var mnemonic = "learn pipe horse find remain soap debate rich increase fabric bulk caution";
+var mnemonic = "eager load fetch diet young loop follow order spawn approve shock middle";

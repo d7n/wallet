@@ -1,1 +1,1 @@
-var mnemonic = "gift labor warrior ketchup name finger parrot wasp endorse sun forum option";
+var mnemonic = "jewel unusual game couch witness candy black march follow chaos denial during";

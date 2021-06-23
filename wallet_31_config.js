@@ -1,1 +1,1 @@
-var mnemonic = "vague penalty awake narrow cage indicate involve sorry sword extend dad need";
+var mnemonic = "pipe hope blind original guard crouch vivid onion inhale crash kitten flash";

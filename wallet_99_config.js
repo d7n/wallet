@@ -1,1 +1,1 @@
-var mnemonic = "sausage key attitude report sting actress cannon blind nurse slogan salute sand";
+var mnemonic = "weird police cream cousin under detail hospital wine lab heavy meat hair";

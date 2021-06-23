@@ -1,1 +1,1 @@
-var mnemonic = "goose health empower describe rescue frozen era cycle inner humble arrest rack";
+var mnemonic = "dolphin open hold normal hard shoulder sea loyal benefit potato sudden glad";

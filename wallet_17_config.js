@@ -1,1 +1,1 @@
-var mnemonic = "brave baby meadow when price zero gadget diesel cradle bicycle spend voice";
+var mnemonic = "siege vague insect clock swap arena shell secret afraid bulb wheat drum";

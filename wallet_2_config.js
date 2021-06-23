@@ -1,1 +1,1 @@
-var mnemonic = "battle leader mean armed kite country unusual popular bulb there layer mixed";
+var mnemonic = "nut swallow wasp myth fun north tackle close clarify buyer reopen fringe";

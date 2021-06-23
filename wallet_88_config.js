@@ -1,1 +1,1 @@
-var mnemonic = "toast dress shallow ride else airport october true wife cycle travel kit";
+var mnemonic = "current shove vintage trim exclude friend address mammal evidence unique medal cupboard";

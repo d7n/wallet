@@ -1,1 +1,1 @@
-var mnemonic = "fiction predict ribbon legend fetch broccoli task weekend jazz sketch observe hammer";
+var mnemonic = "scout morning rabbit volcano load alcohol hood jewel tattoo portion hollow ball";

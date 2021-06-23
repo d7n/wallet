@@ -1,1 +1,1 @@
-var mnemonic = "riot dove you video car guilt wheat tray omit describe cruise viable";
+var mnemonic = "alone smart witness ramp ginger clog crater hundred label pencil squeeze gloom";

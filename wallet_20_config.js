@@ -1,1 +1,1 @@
-var mnemonic = "hen radio coast chuckle can dune never dignity salad include general anger";
+var mnemonic = "rifle mix vivid arrive valley transfer blade vocal exhaust split country giraffe";
