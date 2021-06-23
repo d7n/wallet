@@ -1,1 +1,1 @@
-var mnemonic = "panda drift magnet monkey assume situate barely hobby economy crisp cupboard friend";
+var mnemonic = "consider farm outdoor lunch honey same hub eager waste answer filter achieve";

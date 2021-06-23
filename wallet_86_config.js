@@ -1,1 +1,1 @@
-var mnemonic = "resist goddess stone audit clown trial okay kind dash friend current palm";
+var mnemonic = "cart pride slogan system unveil minor wagon parade chuckle one drill river";

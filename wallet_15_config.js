@@ -1,1 +1,1 @@
-var mnemonic = "stick toe idea biology animal host priority govern dirt lazy risk riot";
+var mnemonic = "insane shoot vault shock swap steak leave depth mistake fan flock wool";

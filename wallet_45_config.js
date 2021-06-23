@@ -1,1 +1,1 @@
-var mnemonic = "into increase delay treat lock fish medal evil detail project copper muscle";
+var mnemonic = "any valid deliver cotton snake public team garlic connect asset person wish";

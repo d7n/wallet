@@ -1,1 +1,1 @@
-var mnemonic = "guitar rival park park oxygen fat dynamic flush core suit canal just";
+var mnemonic = "truth bright miss hen train fiction symptom relax spoil cool coyote essence";

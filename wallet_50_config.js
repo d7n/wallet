@@ -1,1 +1,1 @@
-var mnemonic = "start crime short soup where chest own annual minimum cement danger advance";
+var mnemonic = "stock egg until onion tumble crucial income world afford video circle delay";

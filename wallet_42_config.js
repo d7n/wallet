@@ -1,1 +1,1 @@
-var mnemonic = "mammal unlock wonder ride task favorite blouse because twice diamond dragon ability";
+var mnemonic = "wrestle spoon enrich forest dance maximum thought stumble fox fog valve rare";

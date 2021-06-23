@@ -1,1 +1,1 @@
-var mnemonic = "impact surge mango reason sugar lunar foil spoil liar expire mechanic runway";
+var mnemonic = "minute wife harbor start march fancy fitness spoon door occur friend office";

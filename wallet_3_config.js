@@ -1,1 +1,1 @@
-var mnemonic = "wait slice trade theme recall gravity wonder fantasy various nation ship photo";
+var mnemonic = "goat alone valve acid rare zebra boss chronic output elevator elevator just";

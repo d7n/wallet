@@ -1,1 +1,1 @@
-var mnemonic = "bundle balcony nuclear ahead clever addict lake salt alert wagon sell slight";
+var mnemonic = "spend flee pig acoustic antenna basket polar pattern worry scare alter shock";

@@ -1,1 +1,1 @@
-var mnemonic = "jewel stable pen start panda high utility decline toy window mandate secret";
+var mnemonic = "extend gasp best slice refuse high blood dinosaur bright mobile small crawl";

@@ -1,1 +1,1 @@
-var mnemonic = "plug fragile federal prize venture believe parent volume soon kind shell arctic";
+var mnemonic = "tuition accuse barrel unfold body admit quarter surprise amused palace lift caution";

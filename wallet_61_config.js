@@ -1,1 +1,1 @@
-var mnemonic = "bright young tomorrow duck soldier luxury history forget market cash escape wall";
+var mnemonic = "staff sudden culture right forum swap such feel what risk tragic evil";

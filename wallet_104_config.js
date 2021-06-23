@@ -1,1 +1,1 @@
-var mnemonic = "assume obvious shed will suggest comfort pact glare nasty put cake patch";
+var mnemonic = "industry echo load museum poet tortoise column document call weekend verb decrease";

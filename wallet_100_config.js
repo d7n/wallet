@@ -1,1 +1,1 @@
-var mnemonic = "aspect alpha dirt choice bind scale lava tourist situate enjoy shallow betray";
+var mnemonic = "ring lift space text moment already code poverty enter nerve click ribbon";

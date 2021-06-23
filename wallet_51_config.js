@@ -1,1 +1,1 @@
-var mnemonic = "iron runway bomb salmon typical render able soldier stuff bright certain fall";
+var mnemonic = "fall arrest parrot erupt divorce normal analyst ring truth wear want clock";

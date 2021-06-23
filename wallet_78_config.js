@@ -1,1 +1,1 @@
-var mnemonic = "enlist weekend never better eyebrow cross winter clock shield utility exit weekend";
+var mnemonic = "game arrest syrup bonus smoke stay yard uniform latin swift exchange chunk";

@@ -1,1 +1,1 @@
-var mnemonic = "asset stuff wear betray element position metal glimpse evoke search pair adult";
+var mnemonic = "arrow someone paddle napkin slam lazy wonder shift tunnel demise tomato uniform";

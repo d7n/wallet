@@ -1,1 +1,1 @@
-var mnemonic = "clog decide multiply depend axis live unit crew deal attitude female phrase";
+var mnemonic = "develop weasel give teach cactus athlete thumb clip shift glove remind exit";

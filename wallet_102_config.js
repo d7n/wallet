@@ -1,1 +1,1 @@
-var mnemonic = "siren movie retire mail ride repair sample pluck season modify distance sound";
+var mnemonic = "helmet rifle dust enter rule okay render pause lobster cross unlock festival";

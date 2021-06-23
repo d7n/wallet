@@ -1,1 +1,1 @@
-var mnemonic = "range pelican certain physical eye rule spell tattoo glance furnace phrase body";
+var mnemonic = "ensure manage shadow brain note garlic interest advance derive fiction other federal";

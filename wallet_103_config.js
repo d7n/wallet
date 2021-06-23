@@ -1,1 +1,1 @@
-var mnemonic = "genre olive cinnamon mammal tiger noise mule stadium okay drop drama strong";
+var mnemonic = "roof design shoot people truly soda dice flat umbrella eye spoil wild";

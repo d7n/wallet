@@ -1,1 +1,1 @@
-var mnemonic = "adapt dose team sunset amazing ritual victory wrestle woman describe sign hotel";
+var mnemonic = "exchange voice subway start zone smooth matter slow hybrid owner extra spice";

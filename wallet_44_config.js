@@ -1,1 +1,1 @@
-var mnemonic = "summer weather rule fantasy path airport betray risk dirt friend witness seat";
+var mnemonic = "easily quick target seek lazy sand left coral palm solve rug route";

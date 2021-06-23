@@ -1,1 +1,1 @@
-var mnemonic = "kingdom tank into text deputy talent concert moon torch flat chunk divert";
+var mnemonic = "inquiry upset pyramid frozen east bulb hamster better appear neglect february mammal";

@@ -1,1 +1,1 @@
-var mnemonic = "spin sniff tired distance pact fortune oval old surface scrub vacuum replace";
+var mnemonic = "example fence upgrade describe attack fat enlist nut good kid isolate buddy";

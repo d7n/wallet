@@ -1,1 +1,1 @@
-var mnemonic = "hybrid bonus turn fork rapid timber spray admit treat stage mule bamboo";
+var mnemonic = "grunt around perfect kitten jazz eye trash differ genius ice melody corn";

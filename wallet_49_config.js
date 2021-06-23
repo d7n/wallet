@@ -1,1 +1,1 @@
-var mnemonic = "scene thrive doll hunt easily again mechanic avocado used garage tomato excite";
+var mnemonic = "tag remove matter stick bridge model harbor dumb enact garment poet suggest";

@@ -1,1 +1,1 @@
-var mnemonic = "entry disease dish time excite stove fence often duck defy purse violin";
+var mnemonic = "coral legal afraid crash pear prepare level trap sad hockey core proof";

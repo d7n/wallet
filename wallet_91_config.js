@@ -1,1 +1,1 @@
-var mnemonic = "claim force hire bone portion machine school maximum hill fence wise chief";
+var mnemonic = "ordinary cabin also pupil material december since glow skate draft cliff erosion";

@@ -1,1 +1,1 @@
-var mnemonic = "defense side know lawsuit mandate that spike recipe cabin toddler top old";
+var mnemonic = "inside rack move execute aim illegal public consider awake double twist sport";

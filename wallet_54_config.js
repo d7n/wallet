@@ -1,1 +1,1 @@
-var mnemonic = "walk arctic throw resist battle flee spray keen target mixed antenna power";
+var mnemonic = "skull assume absurd citizen talk blind clown daughter glow north good cycle";

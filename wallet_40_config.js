@@ -1,1 +1,1 @@
-var mnemonic = "muffin employ pole yellow own attend swallow engage general disorder alone keep";
+var mnemonic = "acoustic toilet wear oyster brain tape rough primary boring parade hedgehog fat";

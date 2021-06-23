@@ -1,1 +1,1 @@
-var mnemonic = "denial pull boil people whisper social alley spy journey else under slush";
+var mnemonic = "cannon mask tortoise concert eye agree broom mesh slide bar erupt survey";

@@ -1,1 +1,1 @@
-var mnemonic = "expose shoulder atom same purpose major shoot rubber traffic color either theme";
+var mnemonic = "sponsor any trip stuff group palm boat gym poet fold picture elbow";

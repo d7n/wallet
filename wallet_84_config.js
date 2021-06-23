@@ -1,1 +1,1 @@
-var mnemonic = "grow night mountain cat common occur visa cube decorate leaf orphan olympic";
+var mnemonic = "excess urban audit lyrics price deer web alpha drop wedding window trade";

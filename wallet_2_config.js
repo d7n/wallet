@@ -1,1 +1,1 @@
-var mnemonic = "win fork atom wave flee future net wedding squeeze north position unhappy";
+var mnemonic = "year sheriff pottery endorse this neither kind toast oxygen number man rare";

@@ -1,1 +1,1 @@
-var mnemonic = "mushroom smile learn obey tired resemble merry rocket erase strategy trim credit";
+var mnemonic = "notice error dismiss middle spray cargo fashion unit citizen drift video quality";

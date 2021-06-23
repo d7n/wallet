@@ -1,1 +1,1 @@
-var mnemonic = "elite friend lazy deliver betray ice dismiss rocket client velvet castle skull";
+var mnemonic = "because type stable puppy artefact expect bamboo endless around spatial lobster battle";

@@ -1,1 +1,1 @@
-var mnemonic = "hidden garment bachelor life fossil inquiry raven card entire dose bullet age";
+var mnemonic = "void random put arctic consider struggle vault say glide volcano science dentist";

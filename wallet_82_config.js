@@ -1,1 +1,1 @@
-var mnemonic = "home marble summer slam spirit tongue tomorrow expose tube process actress refuse";
+var mnemonic = "exclude disorder lake cage pattern price course enforce romance differ gate engage";

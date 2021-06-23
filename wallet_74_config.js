@@ -1,1 +1,1 @@
-var mnemonic = "capable depth blade relax chicken kite leg always drop metal top mixture";
+var mnemonic = "volume amount insect suffer position buzz fox economy tomorrow repair stage dismiss";

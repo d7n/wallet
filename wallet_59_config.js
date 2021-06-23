@@ -1,1 +1,1 @@
-var mnemonic = "artwork live genius machine custom few liar roof equal only humble denial";
+var mnemonic = "version pill off only egg catch diesel random tobacco seat shiver transfer";

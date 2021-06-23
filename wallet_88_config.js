@@ -1,1 +1,1 @@
-var mnemonic = "supreme size educate amateur caution stand text fetch faculty napkin cradle sport";
+var mnemonic = "ugly asset decide oppose spirit blood token garage liquid credit small accuse";

@@ -1,1 +1,1 @@
-var mnemonic = "resemble ketchup travel edit knee motor run life author crouch nuclear found";
+var mnemonic = "doctor crazy lion situate demand nuclear rebel kangaroo until delay discover address";

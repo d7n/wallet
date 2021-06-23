@@ -1,1 +1,1 @@
-var mnemonic = "multiply cool duck asthma echo fever thrive bundle find loan hammer dad";
+var mnemonic = "fatal cover scissors muffin wine stomach waste begin awkward economy inherit hold";

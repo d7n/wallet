@@ -1,1 +1,1 @@
-var mnemonic = "dignity earn install proof hobby gift black grow curve face organ cereal";
+var mnemonic = "depth ranch satisfy example sword aunt attend old dose distance prison dress";

@@ -1,1 +1,1 @@
-var mnemonic = "vote scene marble lava deer nature stereo laundry wonder total flavor detect";
+var mnemonic = "trip ball fragile quarter spell mule choose pause like coyote dash wine";

@@ -1,1 +1,1 @@
-var mnemonic = "already skull rescue thank library day behind such reduce danger shift stool";
+var mnemonic = "garment always museum rib quit mean drama sense panel silent clutch lesson";

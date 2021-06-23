@@ -1,1 +1,1 @@
-var mnemonic = "tuition useless satisfy veteran upgrade stadium minute stay amazing pottery edit acoustic";
+var mnemonic = "violin hobby time never hand echo banana check fine hammer foot logic";

@@ -1,1 +1,1 @@
-var mnemonic = "segment window great thumb all shove cause job robot critic crime raw";
+var mnemonic = "path circle across galaxy gap wrist stable essay mosquito only sand announce";

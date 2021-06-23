@@ -1,1 +1,1 @@
-var mnemonic = "kick awful dash rose build manual poet crouch nut antenna truck slush";
+var mnemonic = "promote abandon name toy choice plug size relief behave mansion orange wolf";

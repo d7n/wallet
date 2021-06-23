@@ -1,1 +1,1 @@
-var mnemonic = "eternal slim cruel beyond fabric assault chuckle beef race evidence analyst fantasy";
+var mnemonic = "rate warfare result best parent chef dawn bubble spice there select merit";

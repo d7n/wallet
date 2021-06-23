@@ -1,1 +1,1 @@
-var mnemonic = "close crime strong gospel exchange coach dentist abandon butter rural orange fabric";
+var mnemonic = "cash suggest reject random improve tank cradle section afraid evil lottery view";

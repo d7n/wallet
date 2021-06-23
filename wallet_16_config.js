@@ -1,1 +1,1 @@
-var mnemonic = "talent lift soccer potato sea various this office quiz sock exclude collect";
+var mnemonic = "average blast flee draw lamp pair gold dignity grocery pluck report dash";

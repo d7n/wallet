@@ -1,1 +1,1 @@
-var mnemonic = "match palace talk desert monster march decrease sign nation wage emotion box";
+var mnemonic = "slim six eternal wreck security shield execute acquire balance question student diagram";

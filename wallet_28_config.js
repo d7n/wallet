@@ -1,1 +1,1 @@
-var mnemonic = "popular diagram tomato cave tiger naive alone bar exercise fetch gate south";
+var mnemonic = "inherit dentist door remove add holiday boring sight twin math smooth vacuum";

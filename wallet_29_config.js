@@ -1,1 +1,1 @@
-var mnemonic = "loyal mule since expose answer stamp armor gravity car song brief another";
+var mnemonic = "seven report pact miracle tennis situate income shuffle trade amused depart scatter";

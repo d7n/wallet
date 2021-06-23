@@ -1,1 +1,1 @@
-var mnemonic = "wheel inflict sting approve charge anger enrich blind lion come second lamp";
+var mnemonic = "sentence emerge squirrel furnace coffee choose antenna squeeze material pride token wealth";

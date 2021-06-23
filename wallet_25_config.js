@@ -1,1 +1,1 @@
-var mnemonic = "vendor powder pottery stable poet win seek forum alcohol brave world turtle";
+var mnemonic = "purity mouse cheese view loan stand mention rail action panther virtual arrest";

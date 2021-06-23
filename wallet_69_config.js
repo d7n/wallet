@@ -1,1 +1,1 @@
-var mnemonic = "frog puzzle resemble chief panther walnut strike network puppy siege fox clever";
+var mnemonic = "stove alert scissors emotion answer mobile elevator castle earth fossil hungry title";

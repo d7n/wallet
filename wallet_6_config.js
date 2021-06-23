@@ -1,1 +1,1 @@
-var mnemonic = "congress chicken usage bronze lunar own sauce gasp ghost wing used girl";
+var mnemonic = "social urban air embrace absorb mind draft issue cycle unhappy airport employ";

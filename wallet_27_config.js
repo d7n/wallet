@@ -1,1 +1,1 @@
-var mnemonic = "denial ceiling luggage alcohol belt credit undo forget giggle bring tumble occur";
+var mnemonic = "cigar vocal street federal bridge figure service pill unaware solve level turtle";

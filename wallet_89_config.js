@@ -1,1 +1,1 @@
-var mnemonic = "burger renew pizza smooth sniff split priority copper economy movie clarify piece";
+var mnemonic = "core goose renew heart neutral what tone inmate mass truly thunder human";

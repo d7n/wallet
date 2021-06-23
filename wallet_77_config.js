@@ -1,1 +1,1 @@
-var mnemonic = "stool credit guitar wink marriage loud deal gain group assume security earn";
+var mnemonic = "destroy magic slim enact camp hole project define bundle predict shove excess";

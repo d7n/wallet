@@ -1,1 +1,1 @@
-var mnemonic = "injury muffin float member practice afraid country blue glass spoil announce immense";
+var mnemonic = "retreat dragon hurry mistake federal during share type large wash eager fetch";

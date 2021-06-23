@@ -1,1 +1,1 @@
-var mnemonic = "clinic limit fee raven open dentist return hollow raccoon renew media clutch";
+var mnemonic = "few breeze hospital lecture over donor present final carry auction flight game";

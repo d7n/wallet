@@ -1,1 +1,1 @@
-var mnemonic = "music dry rice swallow blood chimney avoid memory spot leave medal brass";
+var mnemonic = "churn gift rival later sun skate best case picnic border ordinary narrow";

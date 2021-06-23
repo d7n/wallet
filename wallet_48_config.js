@@ -1,1 +1,1 @@
-var mnemonic = "coyote replace cattle adjust weapon feel tattoo south admit member brisk series";
+var mnemonic = "topple praise joke fame favorite undo almost slam thank youth say club";

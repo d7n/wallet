@@ -1,1 +1,1 @@
-var mnemonic = "wrap bacon athlete base link wheel slogan disorder middle spring buzz exhaust";
+var mnemonic = "morning require danger print bullet bargain arrive fade gym vicious identify used";

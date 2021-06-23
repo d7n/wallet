@@ -1,1 +1,1 @@
-var mnemonic = "please slush seek flame slot away bird maid section bachelor word monitor";
+var mnemonic = "draft rough wall marble smooth wood pear mesh acquire crater month wing";

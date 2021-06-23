@@ -1,1 +1,1 @@
-var mnemonic = "settle oyster electric train walk bundle flame sugar chest scale stairs wage";
+var mnemonic = "reduce pulse frequent feel faith rifle witness organ image twin mule spend";

@@ -1,1 +1,1 @@
-var mnemonic = "example coyote front paddle tone apology fashion potato crunch talk sentence mention";
+var mnemonic = "phone render dinosaur company sphere sound penalty squirrel venture cushion stage order";

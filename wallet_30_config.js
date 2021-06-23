@@ -1,1 +1,1 @@
-var mnemonic = "wrestle suspect feature liberty endorse degree next right bitter acquire prison toward";
+var mnemonic = "latin echo benefit fluid patient universe shove wolf invest scheme system sunny";

@@ -1,1 +1,1 @@
-var mnemonic = "wrap sun recipe admit collect baby wet oak advance divorce major lion";
+var mnemonic = "wheat wheat option escape upset bright small guide castle produce fatigue mixed";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny cram museum climb thank frame eight alien series spatial inherit scheme";
+var mnemonic = "dial melody jump ancient try main belt web course total vacuum hidden";

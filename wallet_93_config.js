@@ -1,1 +1,1 @@
-var mnemonic = "mountain stomach exhibit dragon valve luggage hover into now glue gauge topple";
+var mnemonic = "example disorder mistake lab waste fan canvas bomb pumpkin code person spy";

@@ -1,1 +1,1 @@
-var mnemonic = "cry trigger grief huge jacket web inmate sure appear tortoise twice cliff";
+var mnemonic = "midnight present merry curious alert solve rail sound clap axis ribbon latin";

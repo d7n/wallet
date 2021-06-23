@@ -1,1 +1,1 @@
-var mnemonic = "dial arrange hungry average toddler recycle wood brain output scale manual neck";
+var mnemonic = "account evoke below twenty disorder rival mix echo myth nothing divert sponsor";

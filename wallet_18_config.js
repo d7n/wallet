@@ -1,1 +1,1 @@
-var mnemonic = "leg else fan guess napkin square point basic avocado amateur fly marriage";
+var mnemonic = "improve pact lamp stage soldier wear snap benefit anger affair strike seminar";

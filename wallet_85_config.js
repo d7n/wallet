@@ -1,1 +1,1 @@
-var mnemonic = "bike evoke carpet update cabin spring sunset budget empty hospital ethics candy";
+var mnemonic = "spare baby demand naive south artefact blast state depth belt same lawn";

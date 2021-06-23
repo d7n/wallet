@@ -1,1 +1,1 @@
-var mnemonic = "head retreat grape eternal scare immense math denial method property guilt alarm";
+var mnemonic = "fly document health assume ethics heart minor educate number drip vanish surge";

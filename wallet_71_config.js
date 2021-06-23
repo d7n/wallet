@@ -1,1 +1,1 @@
-var mnemonic = "panther faith blast seed exercise topic jaguar food humor select stuff lyrics";
+var mnemonic = "lab used shadow october board whale weapon vendor drum input innocent inmate";

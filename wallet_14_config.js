@@ -1,1 +1,1 @@
-var mnemonic = "orient shield brief under barrel pipe able trial brass street mobile bone";
+var mnemonic = "oblige attract rigid deer lunar dove minimum empty bus aspect write sheriff";

@@ -1,1 +1,1 @@
-var mnemonic = "shadow photo security note twin street pair hood virus wall acoustic there";
+var mnemonic = "lucky betray lawn truly final over sentence head ostrich pair slogan idle";

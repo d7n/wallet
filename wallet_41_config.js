@@ -1,1 +1,1 @@
-var mnemonic = "edit answer plug joke rule angle produce practice apology discover mad night";
+var mnemonic = "pencil expand name vivid educate brown luxury envelope diamond reward lab unlock";

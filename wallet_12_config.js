@@ -1,1 +1,1 @@
-var mnemonic = "stay aisle soul riot seed virus plate fresh release short lawsuit arrive";
+var mnemonic = "session clutch receive cheese popular image body bar silver furnace sad tail";

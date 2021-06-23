@@ -1,1 +1,1 @@
-var mnemonic = "test talent apology mango garment learn kit village depth spice pulp sport";
+var mnemonic = "fox disease record yard tourist attack wing sell smart fluid fresh kid";

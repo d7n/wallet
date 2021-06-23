@@ -1,1 +1,1 @@
-var mnemonic = "arrow pony attract below siren midnight essay harsh deputy mercy enrich retire";
+var mnemonic = "rural error gadget choose able pelican practice mansion have luggage attend ready";

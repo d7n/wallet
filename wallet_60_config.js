@@ -1,1 +1,1 @@
-var mnemonic = "bag cable pledge thrive agent found size reduce oak jacket firm tattoo";
+var mnemonic = "evolve million duty marriage sense fall report segment news know damp tail";

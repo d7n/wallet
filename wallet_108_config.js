@@ -1,1 +1,1 @@
-var mnemonic = "box lamp now sweet muscle lazy clock wheat lens family cable shoe";
+var mnemonic = "settle holiday reopen doctor useless eternal curve arrive member glad fun remain";

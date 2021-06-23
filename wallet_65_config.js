@@ -1,1 +1,1 @@
-var mnemonic = "beach cup match donor describe fossil economy cloud bring immune logic pill";
+var mnemonic = "artefact clever mirror woman ceiling symptom damp install erase inmate action outer";
