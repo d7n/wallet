@@ -1,1 +1,1 @@
-var mnemonic = "access target law eternal believe desk hedgehog vibrant media vicious benefit upgrade";
+var mnemonic = "letter seven raw online peasant clay dolphin spot flush produce throw jazz";

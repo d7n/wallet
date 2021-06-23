@@ -1,1 +1,1 @@
-var mnemonic = "lemon ghost club more option kitchen dirt business speed leaf life hunt";
+var mnemonic = "ranch vintage humor element deer birth trophy stone chapter stamp bitter betray";

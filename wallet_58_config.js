@@ -1,1 +1,1 @@
-var mnemonic = "mobile word reward genuine bid task orange result camera else chimney disorder";
+var mnemonic = "fancy clean puzzle bulk flame ill planet blade language fortune same pig";

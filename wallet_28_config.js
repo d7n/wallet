@@ -1,1 +1,1 @@
-var mnemonic = "deliver crack pole secret police net morning coffee fence modify leaf disease";
+var mnemonic = "gravity velvet barrel fitness lobster amused van tornado exhibit outside among broken";

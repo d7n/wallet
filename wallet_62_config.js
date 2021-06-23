@@ -1,1 +1,1 @@
-var mnemonic = "cry laptop follow local swear garage lunch myself upgrade spare brain various";
+var mnemonic = "capable awesome plate language gap journey crop quit cause fly quick hello";

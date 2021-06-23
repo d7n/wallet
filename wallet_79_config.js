@@ -1,1 +1,1 @@
-var mnemonic = "spread flip tumble dirt short ethics sail bacon must educate lunch winner";
+var mnemonic = "company improve answer ten crucial yard any junior parade wave news balcony";

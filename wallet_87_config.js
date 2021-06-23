@@ -1,1 +1,1 @@
-var mnemonic = "diet stool cattle sentence kitten jelly deer win horn garden maple expand";
+var mnemonic = "pattern era great proof alter example alcohol section legal vital boat secret";

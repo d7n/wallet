@@ -1,1 +1,1 @@
-var mnemonic = "cram lens rigid cruise soccer either card siren gaze stereo draw witness";
+var mnemonic = "venture trial chief hub because sell giraffe obey cattle owner describe cousin";

@@ -1,1 +1,1 @@
-var mnemonic = "move suspect guess wrestle bargain capital engage occur help royal tongue theme";
+var mnemonic = "front bronze exotic devote enrich blame clever mix ginger problem educate expect";

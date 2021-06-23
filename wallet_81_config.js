@@ -1,1 +1,1 @@
-var mnemonic = "journey urge soft people clever lumber door high mass crouch model loud";
+var mnemonic = "pipe cabbage faint news crew night speed skill hospital alpha logic still";

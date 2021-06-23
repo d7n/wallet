@@ -1,1 +1,1 @@
-var mnemonic = "winner daring arrow hold clever lava dwarf also bubble stay fancy panda";
+var mnemonic = "level speed notable account strong shell gasp loud fire outer auto blame";

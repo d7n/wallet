@@ -1,1 +1,1 @@
-var mnemonic = "pool stand hole physical level price little skirt record tray miss fossil";
+var mnemonic = "myself size husband essence bleak month trust quiz treat final anger sheriff";

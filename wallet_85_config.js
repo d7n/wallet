@@ -1,1 +1,1 @@
-var mnemonic = "sign stay balcony blanket pulp want level victory hunt typical affair symptom";
+var mnemonic = "shell visual gesture unhappy turkey discover dice kingdom modify true link amateur";

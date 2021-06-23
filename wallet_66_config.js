@@ -1,1 +1,1 @@
-var mnemonic = "case group submit erode celery category spot relief quantum two army vivid";
+var mnemonic = "grain mix notice lazy habit great endorse hedgehog brass uphold inner diagram";

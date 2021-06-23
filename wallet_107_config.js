@@ -1,1 +1,1 @@
-var mnemonic = "odor ladder share gap sniff census carry know matrix oval blue alpha";
+var mnemonic = "lunch scrub army fatigue warfare secret way tonight minute cloth pigeon eternal";

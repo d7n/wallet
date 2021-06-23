@@ -1,1 +1,1 @@
-var mnemonic = "syrup odor assault soul excite state seek kiss squirrel laundry helmet mushroom";
+var mnemonic = "cute express biology demand hedgehog clinic radio leaf average child light banana";

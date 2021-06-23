@@ -1,1 +1,1 @@
-var mnemonic = "hammer duty fault volcano once extend spider ensure shed sudden fortune wagon";
+var mnemonic = "print question major humor reopen sport clever credit silent lawsuit dinner evidence";

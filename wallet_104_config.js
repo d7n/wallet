@@ -1,1 +1,1 @@
-var mnemonic = "rival congress normal lion canyon festival flock excess weasel fiber foster spirit";
+var mnemonic = "auction assist census pink gun economy pill reject shallow harbor insane people";

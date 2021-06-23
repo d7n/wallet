@@ -1,1 +1,1 @@
-var mnemonic = "page couch celery calm ivory cute wagon copy poet language bar tomorrow";
+var mnemonic = "inform easy again comic heavy flame legend erode public refuse tourist drift";

@@ -1,1 +1,1 @@
-var mnemonic = "kiwi twelve axis lady jeans recycle rib gate fit left stamp sell";
+var mnemonic = "bamboo neutral cinnamon error float praise another tomorrow minimum behave artefact width";

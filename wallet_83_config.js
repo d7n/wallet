@@ -1,1 +1,1 @@
-var mnemonic = "focus poet siege deny stomach scale craft fan afraid type pretty junk";
+var mnemonic = "uncle recall unknown shine blade front kiwi fame cruise salt client clog";

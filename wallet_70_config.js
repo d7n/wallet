@@ -1,1 +1,1 @@
-var mnemonic = "obvious various tattoo frown stool alone memory shield body siren second again";
+var mnemonic = "aerobic fatal fork purchase high attract demand useful civil spawn sheriff cup";

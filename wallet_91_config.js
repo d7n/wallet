@@ -1,1 +1,1 @@
-var mnemonic = "concert noodle ready direct rebuild delay fish sugar fluid tip myth sand";
+var mnemonic = "afford bracket ensure grain lonely few clerk afford picture short odor evolve";

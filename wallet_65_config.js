@@ -1,1 +1,1 @@
-var mnemonic = "hold forum winter once joy any smile joy assume screen parade avoid";
+var mnemonic = "brush sheriff immense park obtain tray advance fabric december rule slow actual";

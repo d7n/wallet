@@ -1,1 +1,1 @@
-var mnemonic = "mix antenna social inform gown tent wall delay domain uncover solid pulse";
+var mnemonic = "favorite roast drill rescue flee blood patient radio fiction amateur name resist";

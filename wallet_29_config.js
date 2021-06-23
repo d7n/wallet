@@ -1,1 +1,1 @@
-var mnemonic = "old width illegal glue mountain trust mom trust betray much pride pole";
+var mnemonic = "surround duty pumpkin convince remember pistol wise orange decide eye improve lottery";

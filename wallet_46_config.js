@@ -1,1 +1,1 @@
-var mnemonic = "puppy enough leopard sand leave strong emerge insane evil weasel tide release";
+var mnemonic = "toss viable giant ethics mouse water room ensure athlete gravity pull clown";

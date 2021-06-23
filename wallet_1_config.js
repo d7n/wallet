@@ -1,1 +1,1 @@
-var mnemonic = "trash elegant cram grow elevator promote online amateur found stomach analyst remain";
+var mnemonic = "wreck focus board leave vicious audit response ticket power carbon flock tongue";

@@ -1,1 +1,1 @@
-var mnemonic = "very lunar curtain maximum room odor urban arrest powder earn letter start";
+var mnemonic = "suggest group drastic endorse proof doctor client mother perfect ten trust obey";

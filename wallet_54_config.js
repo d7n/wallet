@@ -1,1 +1,1 @@
-var mnemonic = "frozen join such episode fox kiwi before result bundle across useful spray";
+var mnemonic = "enhance guilt great useless gesture nature struggle cable curtain nose stuff hole";

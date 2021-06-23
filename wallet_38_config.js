@@ -1,1 +1,1 @@
-var mnemonic = "sense aerobic chronic wealth medal lonely owner outdoor pair polar enrich slender";
+var mnemonic = "dawn situate olive vacant summer crumble business any equip stock display august";

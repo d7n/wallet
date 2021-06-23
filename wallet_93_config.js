@@ -1,1 +1,1 @@
-var mnemonic = "alien snow rotate volcano subway deal muscle swear retreat junk nuclear roast";
+var mnemonic = "voice act shield run sail account all ozone organ verify gift garbage";

@@ -1,1 +1,1 @@
-var mnemonic = "prevent act barely caution wolf science fantasy elite goat stairs only weird";
+var mnemonic = "mistake logic used pizza clutch verb figure panic input canal wolf own";

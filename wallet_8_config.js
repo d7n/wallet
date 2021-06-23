@@ -1,1 +1,1 @@
-var mnemonic = "door document old dumb clog salt track clever hundred tomorrow proof lazy";
+var mnemonic = "zone despair quarter topple sign final tuna vivid cushion front congress rack";

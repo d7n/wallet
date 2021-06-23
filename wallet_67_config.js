@@ -1,1 +1,1 @@
-var mnemonic = "crumble obey alley shrimp test room divert tenant hard miracle dignity wild";
+var mnemonic = "kite hard camp heavy suggest company fiber once february brown cup supreme";

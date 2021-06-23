@@ -1,1 +1,1 @@
-var mnemonic = "skirt stick away milk cage fence grief lazy youth word ship gold";
+var mnemonic = "beef route boy captain quote finger example brass return elephant antique use";

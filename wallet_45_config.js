@@ -1,1 +1,1 @@
-var mnemonic = "oval dust drink liberty balcony inflict stand reject price image network soda";
+var mnemonic = "message power quarter assault around legend alert priority silly acoustic ketchup step";

@@ -1,1 +1,1 @@
-var mnemonic = "glue hope flat movie smooth soon neither fan few child rural ladder";
+var mnemonic = "more crash three enroll pet cat october supply copper canal marriage soup";

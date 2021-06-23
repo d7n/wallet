@@ -1,1 +1,1 @@
-var mnemonic = "thrive know element ranch title champion model labor tattoo pupil large abuse";
+var mnemonic = "fat verify license inhale identify neither sell verify symbol random bone essay";

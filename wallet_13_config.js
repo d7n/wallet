@@ -1,1 +1,1 @@
-var mnemonic = "clean humor glare drill museum gate wear confirm choice foam pink famous";
+var mnemonic = "total never shadow food quantum lamp position blade latin craft home angry";

@@ -1,1 +1,1 @@
-var mnemonic = "around replace rally harvest use plastic desk rich rotate runway siren paper";
+var mnemonic = "rabbit gap spare country glass future thought surprise law corn pulp nuclear";

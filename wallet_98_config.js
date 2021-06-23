@@ -1,1 +1,1 @@
-var mnemonic = "soccer guess wise pizza arm nest crime make wife curious culture effort";
+var mnemonic = "crew depend common region business cook angle smoke glory skin insect giant";

@@ -1,1 +1,1 @@
-var mnemonic = "walnut dignity muscle wet salt injury brass cube vibrant wet piano link";
+var mnemonic = "approve fatal domain enroll fiber exhaust whip loan run obey absent ready";

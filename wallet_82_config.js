@@ -1,1 +1,1 @@
-var mnemonic = "company ice hockey kidney label carpet gift until uncle party idea truck";
+var mnemonic = "grab captain acid agent ritual ceiling oxygen stadium wolf hand invite heavy";

@@ -1,1 +1,1 @@
-var mnemonic = "rotate bracket prize carry erupt test stage long deputy approve limb head";
+var mnemonic = "reward later biology popular air great illness umbrella kidney upset film memory";

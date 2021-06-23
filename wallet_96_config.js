@@ -1,1 +1,1 @@
-var mnemonic = "swarm item elite blade exercise ripple carpet employ ship patrol light orchard";
+var mnemonic = "bid brisk bachelor bus cycle like time version fury antique future grace";

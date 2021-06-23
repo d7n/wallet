@@ -1,1 +1,1 @@
-var mnemonic = "ask brain debris cost heavy pool tongue account rare enrich bullet pony";
+var mnemonic = "token crisp eye merge virtual icon talent result cloth come canyon game";

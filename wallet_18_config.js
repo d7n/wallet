@@ -1,1 +1,1 @@
-var mnemonic = "adapt pattern erosion naive stuff parent path sponsor resource possible practice jar";
+var mnemonic = "lamp million eye chief claim penalty extra west butter party heavy praise";

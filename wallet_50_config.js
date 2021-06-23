@@ -1,1 +1,1 @@
-var mnemonic = "absurd general obscure gym unlock radio duck goose echo copy undo burger";
+var mnemonic = "tissue invite surprise best bachelor cherry place decrease machine reward convince black";

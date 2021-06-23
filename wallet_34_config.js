@@ -1,1 +1,1 @@
-var mnemonic = "chest will lunar increase assault exclude hungry rule bottom retreat prepare ship";
+var mnemonic = "paper vague spell cricket tomato vague chaos swamp crash duck enroll almost";

@@ -1,1 +1,1 @@
-var mnemonic = "stem sight iron shadow boring scissors indicate burger swing girl pyramid certain";
+var mnemonic = "salad load journey drastic airport clutch useful portion great taxi sponsor renew";

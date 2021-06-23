@@ -1,1 +1,1 @@
-var mnemonic = "impact tooth dinosaur rent tiny enact genius equal weekend coconut uncle aunt";
+var mnemonic = "approve enroll foster moon shaft ring foot display expect chimney ladder add";

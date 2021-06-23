@@ -1,1 +1,1 @@
-var mnemonic = "always more fortune labor torch exclude utility switch foot arch myself culture";
+var mnemonic = "excite usual rain double blouse stamp blood model canyon whisper human yellow";

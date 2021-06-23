@@ -1,1 +1,1 @@
-var mnemonic = "can donkey six acoustic wave super destroy near song trouble sting stay";
+var mnemonic = "identify quote heart desk asset impulse among dinosaur stay thumb slice park";

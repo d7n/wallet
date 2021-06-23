@@ -1,1 +1,1 @@
-var mnemonic = "wet jewel nasty celery home core pluck twist project village term cause";
+var mnemonic = "nice school type token thank fiscal youth web below grape nature gown";

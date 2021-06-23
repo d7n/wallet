@@ -1,1 +1,1 @@
-var mnemonic = "adjust track smart sphere fat economy quick device vapor reason glass salmon";
+var mnemonic = "soccer avoid need taste rate catalog essay solution lake angry donkey fatal";

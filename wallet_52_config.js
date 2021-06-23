@@ -1,1 +1,1 @@
-var mnemonic = "foster limit seek first crew employ tomorrow live parent invite rude bone";
+var mnemonic = "baby harvest vendor sudden country weird urge offer physical reject fuel cake";

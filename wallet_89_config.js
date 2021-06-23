@@ -1,1 +1,1 @@
-var mnemonic = "awful waste supply pear dune bracket cinnamon barrel merge lawn sniff envelope";
+var mnemonic = "warfare gloom earth glide vacuum hammer clay vintage travel domain correct bar";

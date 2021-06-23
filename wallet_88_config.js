@@ -1,1 +1,1 @@
-var mnemonic = "bachelor drink wealth owner blush viable live buzz kiss kangaroo traffic pottery";
+var mnemonic = "false input cage base arctic pride myth gadget decade evil attack promote";

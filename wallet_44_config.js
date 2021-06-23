@@ -1,1 +1,1 @@
-var mnemonic = "give label legal salmon million firm angle client toddler air decide report";
+var mnemonic = "infant script ugly pave dinosaur drive coast curtain master arena blast flee";

@@ -1,1 +1,1 @@
-var mnemonic = "brick coral elegant noodle eye circle this charge attract climb blush maze";
+var mnemonic = "evoke sphere hand heart iron buyer cotton earn neutral royal merit swear";

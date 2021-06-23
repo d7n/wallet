@@ -1,1 +1,1 @@
-var mnemonic = "canyon knife panda share fury rescue fame luggage general payment left later";
+var mnemonic = "stadium retire letter deputy voice pattern tag rail hungry belt giraffe consider";

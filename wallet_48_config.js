@@ -1,1 +1,1 @@
-var mnemonic = "gasp text bid lonely jaguar spring canoe hair debris ask shine enhance";
+var mnemonic = "tail afraid antenna safe over supply industry giraffe celery solution vapor benefit";

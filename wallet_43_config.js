@@ -1,1 +1,1 @@
-var mnemonic = "kick easily purchase auction surface door lizard omit believe fitness cheese rookie";
+var mnemonic = "arena dad mansion pretty slush vibrant nuclear comfort oppose host canal veteran";

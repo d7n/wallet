@@ -1,1 +1,1 @@
-var mnemonic = "apart arrest media true candy file yard sniff soda race edge oak";
+var mnemonic = "spell biology icon cheap spray innocent ten thunder depend soup vacuum tool";

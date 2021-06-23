@@ -1,1 +1,1 @@
-var mnemonic = "toy absurd avoid logic fit height sand coach earn file kitten where";
+var mnemonic = "display turkey route urban forget involve major flame palm mandate ankle patient";

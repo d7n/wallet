@@ -1,1 +1,1 @@
-var mnemonic = "panel food typical regret next panda crunch cousin belt reform season spice";
+var mnemonic = "online begin protect reflect clever horn sketch flee exercise napkin maze virus";

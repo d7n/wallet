@@ -1,1 +1,1 @@
-var mnemonic = "element solar tackle detail myth amused someone ill skull supply fox lend";
+var mnemonic = "forget attack imitate catch permit disagree elbow gain interest envelope citizen pave";

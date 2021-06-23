@@ -1,1 +1,1 @@
-var mnemonic = "matrix gentle evidence tooth attitude toddler airport heart celery tonight vivid noodle";
+var mnemonic = "idea tag girl arrive outdoor earth birth give select picnic brief immense";

@@ -1,1 +1,1 @@
-var mnemonic = "sleep produce birth author scare course blue vapor isolate pair time remove";
+var mnemonic = "tilt object tilt rabbit because expire usual course rally sort pen tomato";

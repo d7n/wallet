@@ -1,1 +1,1 @@
-var mnemonic = "abuse success impose fashion alien soda tower tank term join moon lesson";
+var mnemonic = "day fold wreck salon next exist fossil laundry mammal robot cereal into";

@@ -1,1 +1,1 @@
-var mnemonic = "actual clean alarm axis unique dinosaur impose donkey target air health word";
+var mnemonic = "assist tuna search cry shove summer obvious palm fence wealth faint easy";

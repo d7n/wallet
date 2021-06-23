@@ -1,1 +1,1 @@
-var mnemonic = "require retire blade fog tobacco gift journey tell base lawn defy beauty";
+var mnemonic = "pause social mistake eagle side peasant view prison private discover misery maid";

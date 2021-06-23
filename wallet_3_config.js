@@ -1,1 +1,1 @@
-var mnemonic = "noble lake junior put fun segment need cruise uniform jazz sail receive";
+var mnemonic = "two satisfy stick ghost ecology army six fee hurdle figure innocent riot";

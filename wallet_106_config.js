@@ -1,1 +1,1 @@
-var mnemonic = "flat lyrics drip useless notable idle zoo kite blush novel control invite";
+var mnemonic = "acoustic settle ritual surge weird hobby stamp marine stool silly correct fragile";

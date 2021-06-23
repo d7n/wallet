@@ -1,1 +1,1 @@
-var mnemonic = "bus cross scout travel leader kit cover suggest pluck bread cost nature";
+var mnemonic = "family tired warfare boring stuff arch fee claim jazz humble budget soldier";

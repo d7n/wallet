@@ -1,1 +1,1 @@
-var mnemonic = "you lawsuit six alone identify genius inform decline element render boat student";
+var mnemonic = "skin refuse velvet industry dry love soccer morning balance noise consider shift";

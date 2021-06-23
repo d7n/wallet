@@ -1,1 +1,1 @@
-var mnemonic = "link state walk invest trial narrow chaos eight catalog weapon roof prefer";
+var mnemonic = "zebra business denial soon around cycle crucial eye bean shop return waste";

@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin rally dragon kiss scorpion roast slender ecology mechanic proud build climb";
+var mnemonic = "balcony solve round weapon diet gadget piano cart candy three core soap";

@@ -1,1 +1,1 @@
-var mnemonic = "donkey prison arctic dutch loan puzzle social width horse number acid ensure";
+var mnemonic = "word flavor nuclear angle attend click upgrade actual act train dress liberty";

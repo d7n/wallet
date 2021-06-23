@@ -1,1 +1,1 @@
-var mnemonic = "arch west sibling belt struggle busy friend knife nation tip matter coin";
+var mnemonic = "scout dad image tip ill useful choice giggle walk merge pepper year";

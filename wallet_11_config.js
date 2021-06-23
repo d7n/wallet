@@ -1,1 +1,1 @@
-var mnemonic = "estate film infant wide video crucial sword split adjust cherry doctor access";
+var mnemonic = "fly glue hire salt pudding right stamp elevator pluck thing diet fade";

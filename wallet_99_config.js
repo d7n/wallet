@@ -1,1 +1,1 @@
-var mnemonic = "young bread simple mention walk glide sense require better pool push bargain";
+var mnemonic = "whip program health hover weird coffee snap crazy book borrow staff jazz";

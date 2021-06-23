@@ -1,1 +1,1 @@
-var mnemonic = "pool place ready major muscle logic rug airport august toward dust hollow";
+var mnemonic = "electric hammer power okay exhibit addict spirit travel when put estate scare";

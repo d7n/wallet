@@ -1,1 +1,1 @@
-var mnemonic = "adjust target guilt trust field sheriff hospital attract grain aisle dad notable";
+var mnemonic = "exact drum peasant hint switch shrimp hood latin road school onion crack";

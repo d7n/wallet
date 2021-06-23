@@ -1,1 +1,1 @@
-var mnemonic = "blanket oven swallow melt hint tank helmet lake tail decrease imitate crop";
+var mnemonic = "host moon pond immune model shoot clay raw issue cable voice country";

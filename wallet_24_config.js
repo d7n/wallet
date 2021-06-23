@@ -1,1 +1,1 @@
-var mnemonic = "nothing salad truth swarm morning remove crater drama various way govern drama";
+var mnemonic = "latin shoulder utility brick beef wing need print mansion jacket cable cliff";
