@@ -1,1 +1,1 @@
-var mnemonic = "multiply bus object tribe stereo net powder ivory relax meadow silk neck";
+var mnemonic = "have bind market inquiry cliff parrot item argue girl entry crop demand";

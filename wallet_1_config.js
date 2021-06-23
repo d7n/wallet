@@ -1,1 +1,1 @@
-var mnemonic = "lesson text prepare dose sample topic cash property fame treat speak surprise";
+var mnemonic = "entry erosion brave arctic cloud hope prefer blush spatial trim uncover decrease";

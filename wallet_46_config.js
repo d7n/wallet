@@ -1,1 +1,1 @@
-var mnemonic = "odor dilemma always blast pudding mind monster cat sniff monster arch ranch";
+var mnemonic = "poem sun half bottom round tornado differ army gravity ecology axis client";

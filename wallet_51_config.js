@@ -1,1 +1,1 @@
-var mnemonic = "train stage miracle walnut project version still bargain tray angle lens explain";
+var mnemonic = "magic ancient swear tomorrow soul kiss wheel brief egg genius approve shine";

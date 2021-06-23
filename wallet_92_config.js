@@ -1,1 +1,1 @@
-var mnemonic = "raise bounce region case visual reason actual sleep time accident degree vacuum";
+var mnemonic = "sister pave weird style gain window virus brick ostrich action empty copy";

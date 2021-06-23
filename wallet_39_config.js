@@ -1,1 +1,1 @@
-var mnemonic = "wrist clever leisure juice submit sweet exercise letter raw squeeze zebra ten";
+var mnemonic = "beach merry abstract dish kind orphan release text chat rescue raven render";

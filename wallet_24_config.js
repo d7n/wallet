@@ -1,1 +1,1 @@
-var mnemonic = "broccoli twenty siren dignity feel puppy stay river snake frozen fix pumpkin";
+var mnemonic = "photo throw trash chief emerge gentle goose wood remind marine strike music";

@@ -1,1 +1,1 @@
-var mnemonic = "grass cause napkin race siege one first canal thunder goddess sunny word";
+var mnemonic = "cabin drift unveil true antenna vault permit thing cigar hair clerk box";

@@ -1,1 +1,1 @@
-var mnemonic = "poem kid filter record between eye energy gold reform purity loyal unable";
+var mnemonic = "cancel beyond family bike horse alcohol clutch bargain bean enact buzz solve";

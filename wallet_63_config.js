@@ -1,1 +1,1 @@
-var mnemonic = "culture torch lumber artist magic purse alpha above theme claim virtual swim";
+var mnemonic = "artist rigid journey capital follow rug shock crouch enemy unit moon usual";

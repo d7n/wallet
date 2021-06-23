@@ -1,1 +1,1 @@
-var mnemonic = "physical gate roast can interest ivory suspect steak purpose add path baby";
+var mnemonic = "valve album response tiger spike slush morning tooth obscure renew onion episode";

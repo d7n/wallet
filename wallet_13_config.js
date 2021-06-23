@@ -1,1 +1,1 @@
-var mnemonic = "impulse impose connect educate divide nephew patient fatal level warrior catalog arrange";
+var mnemonic = "salt accident busy hand duck soda deliver awful reject wise claim fatigue";

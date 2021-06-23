@@ -1,1 +1,1 @@
-var mnemonic = "column roast print satoshi science wool champion use scale science emotion cycle";
+var mnemonic = "hip aware trade garbage table ability mosquito transfer shock public sense recycle";

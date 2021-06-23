@@ -1,1 +1,1 @@
-var mnemonic = "lake snap void rice tornado source ugly story ozone stem crowd like";
+var mnemonic = "reopen shoe indoor jazz ice gold sunny bean purchase weekend grant sea";

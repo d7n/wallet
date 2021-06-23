@@ -1,1 +1,1 @@
-var mnemonic = "into flush more join hazard alcohol culture maximum stuff fault deal document";
+var mnemonic = "soup oak obey bird almost spoil prefer shy nose capable original wedding";

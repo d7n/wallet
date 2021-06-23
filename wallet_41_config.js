@@ -1,1 +1,1 @@
-var mnemonic = "scan ivory pumpkin depth virus velvet drama fitness scrap cloth brain tired";
+var mnemonic = "artefact drastic minimum crumble pioneer fiction snap yellow dream review comic earn";

@@ -1,1 +1,1 @@
-var mnemonic = "catalog feature steel smooth legend kidney gun umbrella speed pluck spawn naive";
+var mnemonic = "train smooth tenant flat alarm danger load panic save minute rifle thumb";

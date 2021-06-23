@@ -1,1 +1,1 @@
-var mnemonic = "atom swim hurry tank minor census rifle old search rotate they smooth";
+var mnemonic = "vault sheriff harsh crystal orchard toe between rate focus knee heart desert";

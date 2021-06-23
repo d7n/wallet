@@ -1,1 +1,1 @@
-var mnemonic = "rough company dragon breeze grow age shift possible chief follow hero grape";
+var mnemonic = "force labor thank whip dose avoid comic moon pen broccoli sister flock";

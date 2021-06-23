@@ -1,1 +1,1 @@
-var mnemonic = "language snow attitude special analyst online soldier seek inside program yellow wrong";
+var mnemonic = "avoid flower noise afford report shrimp enforce exist price need local theme";

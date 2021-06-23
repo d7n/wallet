@@ -1,1 +1,1 @@
-var mnemonic = "advice scatter gate gun bitter erode govern fruit impact belt defy hope";
+var mnemonic = "dose address donor bitter ozone fee main fly ask guard matrix garment";

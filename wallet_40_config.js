@@ -1,1 +1,1 @@
-var mnemonic = "stone grit express popular simple damp develop install purse manual huge stone";
+var mnemonic = "noble sauce actress aspect soup motor film undo elevator attract mechanic picture";

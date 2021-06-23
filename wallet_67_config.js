@@ -1,1 +1,1 @@
-var mnemonic = "crowd pact birth survey churn all hobby easily economy deer square provide";
+var mnemonic = "shrug toilet mixture attend parrot little snow borrow toilet protect two across";

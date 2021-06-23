@@ -1,1 +1,1 @@
-var mnemonic = "issue finish rail lazy fee summer access human gym snake whip disorder";
+var mnemonic = "fatal ketchup hair burst fit south neutral drive drip gadget fault salad";

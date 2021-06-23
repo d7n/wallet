@@ -1,1 +1,1 @@
-var mnemonic = "sport among tunnel brand sudden addict alcohol focus holiday define priority cram";
+var mnemonic = "leisure soul stand begin modify any trend pyramid veteran awful jazz neutral";

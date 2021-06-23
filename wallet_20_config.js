@@ -1,1 +1,1 @@
-var mnemonic = "primary swim ribbon arch beach pause shoe bike news pulp check load";
+var mnemonic = "daughter raccoon vocal naive you famous now sell pizza sad involve essence";

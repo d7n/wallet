@@ -1,1 +1,1 @@
-var mnemonic = "surround rule stairs antenna enforce slush taxi satisfy brief history fantasy tribe";
+var mnemonic = "good mix very patient piece vicious chicken flame they olive bunker scrap";

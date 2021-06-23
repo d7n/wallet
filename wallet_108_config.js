@@ -1,1 +1,1 @@
-var mnemonic = "wish layer animal today knee search version mean roof gadget salon spice";
+var mnemonic = "amused fence matrix basic advance survey account depart hedgehog steel nice attend";

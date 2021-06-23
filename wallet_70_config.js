@@ -1,1 +1,1 @@
-var mnemonic = "health protect stereo check flip sad plate ship frost loyal glance flat";
+var mnemonic = "mystery confirm evolve basic fire dry indicate system fiber switch sausage liquid";

@@ -1,1 +1,1 @@
-var mnemonic = "disagree diesel season despair primary wrap enhance false earth few begin craft";
+var mnemonic = "staff change diagram outdoor sentence bread math giant level below inmate guess";

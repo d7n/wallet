@@ -1,1 +1,1 @@
-var mnemonic = "general guard symbol type dwarf ball require denial wrong bread submit inherit";
+var mnemonic = "wage guard robust palace dinner finger buzz olympic disagree toilet faculty coral";

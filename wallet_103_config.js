@@ -1,1 +1,1 @@
-var mnemonic = "club horror sleep obvious crouch catalog craft basic dance eight rough napkin";
+var mnemonic = "good resource blood possible unfair april dragon remain manual program rice charge";

@@ -1,1 +1,1 @@
-var mnemonic = "fish orange spin around start pitch glimpse alter burst problem foot seat";
+var mnemonic = "bird cancel scare master balance custom unfold father merry disorder joke girl";

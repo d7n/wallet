@@ -1,1 +1,1 @@
-var mnemonic = "rabbit when stable lock nurse you panther flight then media mom pitch";
+var mnemonic = "tackle proof inquiry swift vault area deliver require leopard series inch income";

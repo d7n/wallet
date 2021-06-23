@@ -1,1 +1,1 @@
-var mnemonic = "dress outdoor truck dove match clay erupt wheel daring radio tuition concert";
+var mnemonic = "connect song home famous swarm era solar prosper onion render minor jaguar";

@@ -1,1 +1,1 @@
-var mnemonic = "tissue genius tube slide twelve drum tennis service dial phrase dice fantasy";
+var mnemonic = "oven must holiday found gown scan clay color maximum school innocent boil";

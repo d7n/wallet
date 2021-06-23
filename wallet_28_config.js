@@ -1,1 +1,1 @@
-var mnemonic = "win live weasel cabin gain rate purpose category skate cloud gallery insect";
+var mnemonic = "ten plunge mammal raccoon sausage door excite reveal turtle faculty right pelican";

@@ -1,1 +1,1 @@
-var mnemonic = "heart despair crawl slim cup bonus must bid pause plate bright surround";
+var mnemonic = "earn glory differ hungry tenant edge flavor athlete truck suspect mule upon";

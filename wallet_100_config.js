@@ -1,1 +1,1 @@
-var mnemonic = "knock tank sad trumpet entry misery rabbit convince lesson eye year vehicle";
+var mnemonic = "canal denial chimney friend asthma toddler slogan sand fix level oval digital";

@@ -1,1 +1,1 @@
-var mnemonic = "clip multiply fruit liberty vote cluster fire despair visual chaos hazard manage";
+var mnemonic = "stomach empower furnace globe pass bicycle baby drink leaf address peasant shallow";

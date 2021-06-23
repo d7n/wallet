@@ -1,1 +1,1 @@
-var mnemonic = "news okay direct trap tattoo debris grant million focus tired model only";
+var mnemonic = "wet sniff sail lawn impulse fuel try diet drip outdoor caution balcony";

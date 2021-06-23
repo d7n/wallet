@@ -1,1 +1,1 @@
-var mnemonic = "bacon weird lunch puppy jealous cruise angle tree clarify north bounce light";
+var mnemonic = "lens genuine whisper chat cage trigger pluck click rotate sight manual zone";

@@ -1,1 +1,1 @@
-var mnemonic = "among lake such chase snap figure salmon perfect major march armor cube";
+var mnemonic = "cross marine feature voyage cactus junk shell merry neck bright north fury";

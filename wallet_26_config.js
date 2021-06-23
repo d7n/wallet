@@ -1,1 +1,1 @@
-var mnemonic = "soccer turn popular bridge sell reform differ unique cheese idle boy common";
+var mnemonic = "file dish shoulder tennis acid release jar promote ceiling gossip govern citizen";

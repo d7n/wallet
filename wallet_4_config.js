@@ -1,1 +1,1 @@
-var mnemonic = "cash unable engine audit prefer wagon change sad lazy soccer chunk talent";
+var mnemonic = "pill tragic mad client entire flat clap put junk clock obey hollow";

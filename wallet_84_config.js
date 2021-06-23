@@ -1,1 +1,1 @@
-var mnemonic = "weather retire always error glow oppose turtle satoshi honey banner type trade";
+var mnemonic = "success trash fine surface voice evil process weasel effort friend wedding scheme";

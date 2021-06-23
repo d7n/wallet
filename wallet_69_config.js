@@ -1,1 +1,1 @@
-var mnemonic = "provide later normal clarify october dust cherry capital bullet slim toy glue";
+var mnemonic = "age hawk please ugly game protect forest claw animal wrap radar isolate";

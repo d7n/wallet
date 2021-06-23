@@ -1,1 +1,1 @@
-var mnemonic = "soap pottery sausage wrestle special credit surface sunny excite slide unfold tape";
+var mnemonic = "approve crumble raven life cradle oil front milk box fresh moment immense";

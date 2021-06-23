@@ -1,1 +1,1 @@
-var mnemonic = "supply bike crunch behave immune sunny word orphan slush oil analyst crater";
+var mnemonic = "fiction laptop stay conduct excite seat barrel cable burst ten door mansion";

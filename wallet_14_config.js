@@ -1,1 +1,1 @@
-var mnemonic = "fitness gather dice visit hard elegant front disagree capable vicious surprise remain";
+var mnemonic = "exit caution pair movie belt giant country grow column riot shallow tuna";

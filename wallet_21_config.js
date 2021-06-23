@@ -1,1 +1,1 @@
-var mnemonic = "shuffle road argue today ahead friend chief purse arrest festival skull tiny";
+var mnemonic = "achieve worry moral junk south corn sing festival erupt purchase lawn calm";

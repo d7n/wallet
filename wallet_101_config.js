@@ -1,1 +1,1 @@
-var mnemonic = "amused because blouse person please social connect transfer double ritual glove mind";
+var mnemonic = "message will spare day scrub quote cousin magic allow text school artist";

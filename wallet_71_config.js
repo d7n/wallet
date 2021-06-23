@@ -1,1 +1,1 @@
-var mnemonic = "upset spirit estate relief airport reward shoulder aisle stone nose write plastic";
+var mnemonic = "marriage venue village camera raccoon inmate build space alcohol master comfort size";

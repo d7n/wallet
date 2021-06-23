@@ -1,1 +1,1 @@
-var mnemonic = "true crouch speak session pulse barely blouse exclude gesture wait critic whip";
+var mnemonic = "infant place window denial mask piano wave deal boil aunt try hen";

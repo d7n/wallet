@@ -1,1 +1,1 @@
-var mnemonic = "oven velvet flush learn fence grief chief leave skirt video autumn monkey";
+var mnemonic = "title icon same valid motor pioneer tube face zero receive dolphin hint";

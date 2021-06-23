@@ -1,1 +1,1 @@
-var mnemonic = "rebel anchor toss measure network round cash barrel town north rude depend";
+var mnemonic = "base reject lyrics kit bind fuel dust sustain slam sausage dove slice";

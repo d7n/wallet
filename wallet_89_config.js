@@ -1,1 +1,1 @@
-var mnemonic = "burden veteran sand cradle impact enter lonely fiscal pottery sketch soft weather";
+var mnemonic = "vacuum oak nest dad bus tribe notice crop place bracket fire quick";

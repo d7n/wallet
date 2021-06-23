@@ -1,1 +1,1 @@
-var mnemonic = "execute catch spy female trumpet effort before marine monkey collect trash aunt";
+var mnemonic = "medal lion appear chapter dinner follow tackle gauge enrich smoke idea brush";

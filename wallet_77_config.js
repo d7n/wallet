@@ -1,1 +1,1 @@
-var mnemonic = "miss arm dilemma hat pioneer destroy opinion history salt keen answer frame";
+var mnemonic = "armed museum height rival dry inmate stereo there explain gown parade cheese";

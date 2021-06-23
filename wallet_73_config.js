@@ -1,1 +1,1 @@
-var mnemonic = "mention hobby awake index embark spawn also help embark clip entire skirt";
+var mnemonic = "add tip elephant fan deny father exile atom drop kitchen unfold cattle";

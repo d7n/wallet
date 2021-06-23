@@ -1,1 +1,1 @@
-var mnemonic = "crazy vault beauty recall bulk type loan various junk yard pledge setup";
+var mnemonic = "merry catch army major multiply recycle climb shield survey wrist balcony advice";

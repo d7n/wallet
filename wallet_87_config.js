@@ -1,1 +1,1 @@
-var mnemonic = "axis wine siege wide spray pistol wrestle rule region vocal market yellow";
+var mnemonic = "decade blast dream reduce laugh weasel quote own wait shrug aware congress";

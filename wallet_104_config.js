@@ -1,1 +1,1 @@
-var mnemonic = "try measure correct switch fetch step shock myself brave canal detail perfect";
+var mnemonic = "gift assist shuffle balance oxygen nature vivid october chimney empower ketchup open";

@@ -1,1 +1,1 @@
-var mnemonic = "drill brave near drum lizard stumble company hawk joy nasty width credit";
+var mnemonic = "cave anxiety board minor ribbon glimpse polar squeeze notable avocado release face";

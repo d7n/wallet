@@ -1,1 +1,1 @@
-var mnemonic = "sword never hold mutual envelope duty dragon squeeze egg cattle crisp kangaroo";
+var mnemonic = "crystal thumb glance act card inform mean forest cactus heavy type tooth";

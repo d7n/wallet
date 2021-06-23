@@ -1,1 +1,1 @@
-var mnemonic = "orphan clarify unfold hazard bar energy ramp rubber future depth oven castle";
+var mnemonic = "erosion noble early depth law now stumble mobile before soul snake such";

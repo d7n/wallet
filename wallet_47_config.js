@@ -1,1 +1,1 @@
-var mnemonic = "supreme cradle flat whisper mimic cause recycle paddle chuckle cactus uncle reform";
+var mnemonic = "blossom popular mandate pulse science mule iron advance awkward disagree vocal paddle";

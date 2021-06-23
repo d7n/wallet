@@ -1,1 +1,1 @@
-var mnemonic = "about check element appear cream legal beach evoke turn venture baby romance";
+var mnemonic = "crew grid mesh maze marine cattle run vintage luxury improve start agree";

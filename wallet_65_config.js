@@ -1,1 +1,1 @@
-var mnemonic = "tower victory ring place slow twenty iron spread industry pizza over sister";
+var mnemonic = "easily wear walk choice absent fee extra pen jeans echo alien foam";

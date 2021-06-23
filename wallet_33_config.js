@@ -1,1 +1,1 @@
-var mnemonic = "enlist bulb pink kid food donkey auto educate happy urban push ticket";
+var mnemonic = "shock then knock typical couch stem behave actress nerve body supreme dismiss";

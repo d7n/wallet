@@ -1,1 +1,1 @@
-var mnemonic = "mixed bonus giggle olive whale tattoo coin behind theory vacant elephant tank";
+var mnemonic = "flower come high august peanut pioneer base snap spawn size answer dignity";

@@ -1,1 +1,1 @@
-var mnemonic = "skull discover survey unusual hidden banner absurd odor frog pave sibling together";
+var mnemonic = "stove profit forum kick document shadow slogan antique voyage spare ensure seven";

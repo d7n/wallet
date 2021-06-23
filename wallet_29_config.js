@@ -1,1 +1,1 @@
-var mnemonic = "goddess wall danger figure index phrase winner elder spider wall hold length";
+var mnemonic = "face erase note answer jaguar hip report deny since brain sister erode";

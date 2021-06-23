@@ -1,1 +1,1 @@
-var mnemonic = "awkward crack hockey photo credit all ecology jump achieve fix soul cereal";
+var mnemonic = "wish youth okay host pupil road path expire nephew fish ahead amount";

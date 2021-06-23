@@ -1,1 +1,1 @@
-var mnemonic = "people magic novel also immense love permit chair spatial essay joy symptom";
+var mnemonic = "expect history color medal lecture review love abstract thrive edge square ripple";

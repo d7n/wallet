@@ -1,1 +1,1 @@
-var mnemonic = "source aerobic fringe embrace desert ranch adapt aerobic hundred subject purchase spider";
+var mnemonic = "easy rotate nephew hundred maze select ritual salt evoke truck banana harbor";

@@ -1,1 +1,1 @@
-var mnemonic = "wear fish angry spoon program weird lucky deposit require parrot note radar";
+var mnemonic = "foster clip shy slab elephant grace state beyond planet seat setup auto";

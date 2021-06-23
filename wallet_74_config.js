@@ -1,1 +1,1 @@
-var mnemonic = "oblige define struggle zebra combine beach sock wreck limit item bounce joke";
+var mnemonic = "glory subject note naive patient about twin athlete salad file demise mixture";

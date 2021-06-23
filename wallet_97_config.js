@@ -1,1 +1,1 @@
-var mnemonic = "embrace mad kit novel exchange cupboard lens shrug flag grape disagree repair";
+var mnemonic = "fiber mandate runway proof claim receive clean lonely there trouble height flame";

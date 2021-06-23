@@ -1,1 +1,1 @@
-var mnemonic = "hidden insect increase work never little hope chase small smoke kit snake";
+var mnemonic = "sight kiwi vote seven valley service champion emerge lazy proof mind marriage";

@@ -1,1 +1,1 @@
-var mnemonic = "adapt crash destroy chapter rather tunnel cram shoulder leaf benefit flag toilet";
+var mnemonic = "kite zoo relief owner easy venue economy attend smooth champion vacuum chapter";

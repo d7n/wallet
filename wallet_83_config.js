@@ -1,1 +1,1 @@
-var mnemonic = "above music rocket diagram picture bonus carpet frequent village fitness opera exit";
+var mnemonic = "tent cotton luxury way battle carry rifle melody tank layer ozone install";

@@ -1,1 +1,1 @@
-var mnemonic = "minute gap odor stable early valley stuff hurdle genuine prize lab pet";
+var mnemonic = "elite treat brain file teach pottery brick slot lens develop beef route";

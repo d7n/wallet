@@ -1,1 +1,1 @@
-var mnemonic = "outside sauce pledge junior glue square often debris village office device sweet";
+var mnemonic = "noise match color bracket blue lobster emotion family curve modify wife pass";

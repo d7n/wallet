@@ -1,1 +1,1 @@
-var mnemonic = "spring movie sail chat tortoise begin old process crop diamond road ripple";
+var mnemonic = "outdoor saddle unveil arena field pudding hello comic accuse thank another rally";

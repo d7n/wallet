@@ -1,1 +1,1 @@
-var mnemonic = "winter more trap donor grunt tree trap police legal spy globe explain";
+var mnemonic = "guard twist forward cash elephant domain brick recipe hockey okay tree run";

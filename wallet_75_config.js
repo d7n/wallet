@@ -1,1 +1,1 @@
-var mnemonic = "release corn law title evidence tackle parrot author garden pudding tobacco trip";
+var mnemonic = "main song near regular dismiss improve eight barrel phrase chapter example setup";

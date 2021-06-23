@@ -1,1 +1,1 @@
-var mnemonic = "opera concert van rude moment tiger total seven message pumpkin cabbage hurdle";
+var mnemonic = "door pool van turn useful boy result amateur ramp sugar daring crisp";

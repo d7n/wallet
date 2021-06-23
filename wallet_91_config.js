@@ -1,1 +1,1 @@
-var mnemonic = "shadow wise employ cargo people stem unaware rival fitness tool soda pride";
+var mnemonic = "snack quality devote nature congress digital very base rescue lamp ability hockey";

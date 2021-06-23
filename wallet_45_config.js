@@ -1,1 +1,1 @@
-var mnemonic = "favorite night answer snow tail label rent march company nurse force vocal";
+var mnemonic = "blame expire casual powder column treat rubber volume damp baby laugh art";
