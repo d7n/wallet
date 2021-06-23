@@ -1,1 +1,1 @@
-var mnemonic = "where rate choose forward gym wet unusual bounce crowd lazy skin nurse";
+var mnemonic = "half purity proud ethics step margin exotic innocent thing struggle umbrella fuel";

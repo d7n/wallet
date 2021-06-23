@@ -1,1 +1,1 @@
-var mnemonic = "wheel animal faculty stove curious address fatigue boy puzzle equal fold want";
+var mnemonic = "athlete song leaf crop together axis convince unlock enemy accident black they";

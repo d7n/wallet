@@ -1,1 +1,1 @@
-var mnemonic = "tent home shell eye sense dust reveal engage hint unknown enjoy idea";
+var mnemonic = "cash math cliff home pool team evidence nominee entry culture cable mother";

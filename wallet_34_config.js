@@ -1,1 +1,1 @@
-var mnemonic = "raw place gown waste include become pistol scatter sausage else gadget crew";
+var mnemonic = "apart lab illegal chase work rather multiply fashion drum bar dragon absorb";

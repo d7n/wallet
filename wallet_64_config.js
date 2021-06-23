@@ -1,1 +1,1 @@
-var mnemonic = "nasty multiply crazy capable meadow village scrap noodle put illness work follow";
+var mnemonic = "history fantasy nephew eager oak license renew kangaroo sausage keen trend remove";

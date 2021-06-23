@@ -1,1 +1,1 @@
-var mnemonic = "grass employ master thought clinic sad symbol innocent call crime enroll glad";
+var mnemonic = "attitude skull roof language squirrel intact little idle slender lawsuit disorder hero";

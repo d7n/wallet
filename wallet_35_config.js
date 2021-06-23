@@ -1,1 +1,1 @@
-var mnemonic = "rotate tackle pumpkin lucky alcohol slogan tray pride night album tomato wish";
+var mnemonic = "rubber mule error enrich brown expose open hip ribbon city hint fashion";

@@ -1,1 +1,1 @@
-var mnemonic = "filter wealth romance machine jaguar quality divide chimney tribe priority fiber crawl";
+var mnemonic = "advance lounge erase tomato cushion lecture safe copper nominee drum snap possible";

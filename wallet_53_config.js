@@ -1,1 +1,1 @@
-var mnemonic = "swallow rookie still slot mad approve drama ship artefact swap survey cave";
+var mnemonic = "behind fix sunny sort veteran crowd cable cake pioneer dove pony hero";

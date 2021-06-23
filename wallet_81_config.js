@@ -1,1 +1,1 @@
-var mnemonic = "zero canal observe maid mystery off cousin typical foam help rabbit tourist";
+var mnemonic = "project put flush planet gallery couple always finger lonely manual horse noise";

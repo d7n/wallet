@@ -1,1 +1,1 @@
-var mnemonic = "cloud asthma humble dinner tilt result diagram switch spring whale good charge";
+var mnemonic = "comic popular oxygen chat tail silver unhappy coil choose easy abuse please";

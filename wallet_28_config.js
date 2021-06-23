@@ -1,1 +1,1 @@
-var mnemonic = "marine sound inform invest pepper birth globe vault any hold produce piano";
+var mnemonic = "version accuse scrap actress worry common begin hurdle donate fame just notable";

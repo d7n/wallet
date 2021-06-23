@@ -1,1 +1,1 @@
-var mnemonic = "tip guitar gown sport surround salmon health warrior capital tumble equip faculty";
+var mnemonic = "figure produce juice hidden local kind gesture measure key double organ parade";

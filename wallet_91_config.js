@@ -1,1 +1,1 @@
-var mnemonic = "couch essay adapt choose ritual bullet motion supply copper clerk bamboo candy";
+var mnemonic = "year attend hair test virtual climb slender property come derive chair report";

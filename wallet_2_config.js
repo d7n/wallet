@@ -1,1 +1,1 @@
-var mnemonic = "second popular fiber property silk alone situate stable solar melody baby stumble";
+var mnemonic = "wrestle income able senior hard dirt coyote then side medal fix harbor";

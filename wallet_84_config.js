@@ -1,1 +1,1 @@
-var mnemonic = "route decrease brief wrong leg essence dirt lift attitude luxury animal quality";
+var mnemonic = "void exotic spice used grief manage garbage rice change purity oak stove";

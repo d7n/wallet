@@ -1,1 +1,1 @@
-var mnemonic = "become ordinary rule space loop sad spoil inquiry rifle fault route siege";
+var mnemonic = "grunt used comic resist flee limb game fault funny still embrace diet";

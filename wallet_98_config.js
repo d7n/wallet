@@ -1,1 +1,1 @@
-var mnemonic = "crash open belt kick wealth sport swarm veteran tribe course onion sun";
+var mnemonic = "bundle flame cover layer viable joy trophy hip fine kite foil pluck";

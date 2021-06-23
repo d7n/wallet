@@ -1,1 +1,1 @@
-var mnemonic = "duck library spider aisle peasant sketch ugly boring success junk similar visa";
+var mnemonic = "survey expect scan borrow purchase boring castle harvest size witness orchard marble";

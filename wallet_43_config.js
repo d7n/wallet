@@ -1,1 +1,1 @@
-var mnemonic = "bag multiply wheat prison output embark opera license sure gate exotic joy";
+var mnemonic = "catalog parent staff type trade notice shove vibrant humble panther royal nut";

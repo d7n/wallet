@@ -1,1 +1,1 @@
-var mnemonic = "replace client stomach across tooth hamster lonely poem dash switch method recall";
+var mnemonic = "icon reduce fabric funny iron lift soldier pact regret enrich olive tone";

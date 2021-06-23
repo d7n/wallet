@@ -1,1 +1,1 @@
-var mnemonic = "pilot glue intact coral mother discover author shadow clay winter pond stomach";
+var mnemonic = "observe planet pattern wine stick inch warfare release lab improve language shed";

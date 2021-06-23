@@ -1,1 +1,1 @@
-var mnemonic = "steak lizard leg perfect step midnight team abandon fly logic invest rare";
+var mnemonic = "turkey canyon glove pipe notable want consider exotic bar label know siege";

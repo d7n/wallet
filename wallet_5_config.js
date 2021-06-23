@@ -1,1 +1,1 @@
-var mnemonic = "feature rail chalk fee exhaust slim venue cup develop pyramid park below";
+var mnemonic = "erupt fan act boat meadow mimic dolphin scare false recipe jealous pear";

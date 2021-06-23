@@ -1,1 +1,1 @@
-var mnemonic = "assist shield biology cradle swap rigid glass lobster doctor idle tired large";
+var mnemonic = "civil cruel beef eight rough okay size legal hair coyote finger divert";

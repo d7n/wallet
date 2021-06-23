@@ -1,1 +1,1 @@
-var mnemonic = "romance surface thing surround ticket flavor pond coast whale first elephant critic";
+var mnemonic = "minute cereal gaze crash violin ball faith claim hybrid engage can hundred";

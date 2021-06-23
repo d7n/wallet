@@ -1,1 +1,1 @@
-var mnemonic = "horn eagle boring twist elephant enough nephew claim enroll situate obey angry";
+var mnemonic = "nephew soup learn panic flash casino casual rookie magnet gaze snow surround";

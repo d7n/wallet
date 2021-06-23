@@ -1,1 +1,1 @@
-var mnemonic = "happy strike slot kangaroo way tired lesson curtain fee today stairs admit";
+var mnemonic = "pitch supply dial cannon glove involve illegal bounce orbit undo pink fat";

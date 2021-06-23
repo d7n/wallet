@@ -1,1 +1,1 @@
-var mnemonic = "creek noble purse tunnel escape crash pelican budget fruit soccer element quick";
+var mnemonic = "dirt vicious vast bless vault tooth visual profit cloth clap clog oxygen";

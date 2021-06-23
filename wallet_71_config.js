@@ -1,1 +1,1 @@
-var mnemonic = "relief goddess what hen produce creek panther scene wrist glide armed waste";
+var mnemonic = "loyal veteran false target argue surge nature excess disorder govern tribe fit";

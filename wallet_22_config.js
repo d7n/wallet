@@ -1,1 +1,1 @@
-var mnemonic = "machine foot burger number cave air stove honey pistol quarter cherry robust";
+var mnemonic = "supply accuse conduct crawl elephant ethics neglect cover term bless reduce hero";

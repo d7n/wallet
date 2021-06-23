@@ -1,1 +1,1 @@
-var mnemonic = "holiday crisp nest town property genius kit broom wrestle middle modify cloud";
+var mnemonic = "danger favorite proud sauce noble ladder divide position volume void foil boat";

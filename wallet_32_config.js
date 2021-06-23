@@ -1,1 +1,1 @@
-var mnemonic = "shallow sadness alone suspect return deer crew walk crystal caught method disease";
+var mnemonic = "bundle blast salmon echo canyon latin major crane ski response menu dinosaur";

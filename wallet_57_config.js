@@ -1,1 +1,1 @@
-var mnemonic = "invite arrest inject hawk squirrel tray stove muffin quick village system buyer";
+var mnemonic = "brick ozone blanket forest noise door control humble step mercy stadium sand";

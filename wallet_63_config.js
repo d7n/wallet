@@ -1,1 +1,1 @@
-var mnemonic = "manage moral what island brief trend bleak giggle gap brand barrel seminar";
+var mnemonic = "post day off wheel error traffic ethics strike throw proof album pulse";

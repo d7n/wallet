@@ -1,1 +1,1 @@
-var mnemonic = "require acquire silly grace gas afford bench say edge around top bamboo";
+var mnemonic = "harsh bachelor race heart tide rack tennis embark aerobic capable miracle clinic";

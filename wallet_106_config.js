@@ -1,1 +1,1 @@
-var mnemonic = "glare south wine destroy property powder ball tourist behave theory service flag";
+var mnemonic = "cliff dutch nephew trial vacant impulse toe seed celery banner dynamic foot";

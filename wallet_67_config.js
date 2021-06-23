@@ -1,1 +1,1 @@
-var mnemonic = "miracle rent spring stairs author south merge hat rib hockey warrior divorce";
+var mnemonic = "about age idea grocery camera truly provide install sword minute auction various";

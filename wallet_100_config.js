@@ -1,1 +1,1 @@
-var mnemonic = "metal length else brush smoke fun force feature prefer suit misery myth";
+var mnemonic = "hold turkey opera giant sleep birth hurt call divorce retreat pony lyrics";

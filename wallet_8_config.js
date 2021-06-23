@@ -1,1 +1,1 @@
-var mnemonic = "awesome equip power nature amazing mercy loop crater public fruit stamp stone";
+var mnemonic = "depend cycle phrase rib feature thought end under access orchard curious return";

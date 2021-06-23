@@ -1,1 +1,1 @@
-var mnemonic = "action voyage cinnamon sword token empower normal bachelor twist identify limb diagram";
+var mnemonic = "naive lazy company simple boost pottery motion enhance stem vague decline whale";

@@ -1,1 +1,1 @@
-var mnemonic = "choice stamp range price move mammal couch must tattoo panda blood shoot";
+var mnemonic = "erase enforce disease wing grief clutch knife faint level motion enroll airport";

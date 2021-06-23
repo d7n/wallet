@@ -1,1 +1,1 @@
-var mnemonic = "fluid grocery turkey flight girl actual spend ketchup cruise tuna unhappy exchange";
+var mnemonic = "level match rookie sad wrist favorite ghost develop ugly fly guess minute";

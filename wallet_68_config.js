@@ -1,1 +1,1 @@
-var mnemonic = "jump yellow nasty inhale trap mercy update deposit angry mosquito mesh cup";
+var mnemonic = "ladder settle flat cycle permit senior crop dash depart age thrive weekend";

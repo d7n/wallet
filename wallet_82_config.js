@@ -1,1 +1,1 @@
-var mnemonic = "tornado supply also wear want end eager bundle spirit cancel pony catch";
+var mnemonic = "sphere girl wisdom solar tag charge little annual salad drift science region";

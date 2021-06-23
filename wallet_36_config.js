@@ -1,1 +1,1 @@
-var mnemonic = "curtain film flavor person essay regular series maximum panel lamp kingdom country";
+var mnemonic = "pistol pledge legend luggage tourist dumb drop resist hunt over asthma cool";

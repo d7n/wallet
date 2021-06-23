@@ -1,1 +1,1 @@
-var mnemonic = "various bundle blanket combine man limb electric rifle knife year early skull";
+var mnemonic = "palace room nest scatter plastic heavy tiny cruel fitness today cattle kid";

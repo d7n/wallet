@@ -1,1 +1,1 @@
-var mnemonic = "elephant merry palace only device level miracle bottom estate injury urge critic";
+var mnemonic = "panther envelope clip obey reject must inner draft sun shoulder correct dove";

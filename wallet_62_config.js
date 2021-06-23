@@ -1,1 +1,1 @@
-var mnemonic = "view ostrich ginger train shield oil render mask near arena sense kind";
+var mnemonic = "fame urge any material birth raise trumpet pass focus wall supply friend";

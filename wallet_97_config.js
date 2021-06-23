@@ -1,1 +1,1 @@
-var mnemonic = "attract cute used net bitter theme bracket theme image burst leader left";
+var mnemonic = "fetch weird silver buyer pony chat club napkin tourist wife detail diesel";

@@ -1,1 +1,1 @@
-var mnemonic = "copper bachelor south adjust awesome job injury process require bind spare garden";
+var mnemonic = "eagle truck left flag parrot pony bar make twin cinnamon crush wood";

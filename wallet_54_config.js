@@ -1,1 +1,1 @@
-var mnemonic = "million rose ostrich wealth draw gift finish emerge couch slogan wrist ignore";
+var mnemonic = "tragic virus pear burst loan unit common hollow cost volume picture alone";

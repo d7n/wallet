@@ -1,1 +1,1 @@
-var mnemonic = "return rescue amount noodle awful obey wise slow before brave scrap disagree";
+var mnemonic = "candy dad category when surround social error worry gossip client pole hurt";

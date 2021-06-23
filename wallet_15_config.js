@@ -1,1 +1,1 @@
-var mnemonic = "exhibit hundred idle neither tunnel march museum group business fresh chaos outdoor";
+var mnemonic = "depart unique common guess soda fork cool segment dolphin behave vote hover";

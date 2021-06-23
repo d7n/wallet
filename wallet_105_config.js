@@ -1,1 +1,1 @@
-var mnemonic = "manual mass space inmate denial soccer quiz rifle barrel draft evil crucial";
+var mnemonic = "assault print zero change cliff ocean arrange electric craft example budget gesture";

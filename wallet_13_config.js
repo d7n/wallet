@@ -1,1 +1,1 @@
-var mnemonic = "derive body identify please grain husband horror wave view damage torch drip";
+var mnemonic = "nature shoulder degree involve tuition choice material text monitor spray butter office";

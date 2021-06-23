@@ -1,1 +1,1 @@
-var mnemonic = "sure own stairs damage mesh present habit auto erosion aware sting icon";
+var mnemonic = "load abuse couch increase manual hamster cotton brief world card ocean inquiry";

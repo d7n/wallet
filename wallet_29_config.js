@@ -1,1 +1,1 @@
-var mnemonic = "skate alpha treat treat hundred erode noble script sick help bicycle unveil";
+var mnemonic = "noble fan afford oppose trumpet more balcony tube entry meat gossip cousin";

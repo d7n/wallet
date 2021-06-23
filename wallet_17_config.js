@@ -1,1 +1,1 @@
-var mnemonic = "hub someone school twenty act relax razor first dinosaur put clump school";
+var mnemonic = "rookie auto text camera thank pet scissors bicycle april learn siren fly";

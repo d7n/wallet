@@ -1,1 +1,1 @@
-var mnemonic = "zebra gift voice fatigue poem wrong piano globe clerk remain erupt obscure";
+var mnemonic = "repair hammer isolate puppy maze wide flame occur thank nation record twenty";

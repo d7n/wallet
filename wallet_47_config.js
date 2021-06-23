@@ -1,1 +1,1 @@
-var mnemonic = "security cloth tuna umbrella mixed midnight rent deer repeat laundry patch doll";
+var mnemonic = "host ask discover churn pluck document wage define gravity section quarter step";

@@ -1,1 +1,1 @@
-var mnemonic = "notice alone trade butter wheel pyramid marble behind liberty climb grass pulse";
+var mnemonic = "traffic arrive thumb plate card ostrich actual affair polar second shift unit";

@@ -1,1 +1,1 @@
-var mnemonic = "south weekend rookie lounge crisp head prison oak napkin toy bundle biology";
+var mnemonic = "tumble ill huge letter position birth ahead memory rain tower mixture cruise";

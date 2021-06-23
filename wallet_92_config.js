@@ -1,1 +1,1 @@
-var mnemonic = "market hunt ask type barely cancel trial elder stool holiday dust actress";
+var mnemonic = "sail fame exhaust mandate tonight decide card lesson save noise utility project";

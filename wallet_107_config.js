@@ -1,1 +1,1 @@
-var mnemonic = "melody staff illness explain bright wisdom dragon casual wheel mutual neutral nest";
+var mnemonic = "jar wife celery depend present inform express order open ostrich surge away";

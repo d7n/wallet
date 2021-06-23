@@ -1,1 +1,1 @@
-var mnemonic = "cable enrich like suggest slogan behind pitch multiply birth citizen town field";
+var mnemonic = "second morning risk candy rapid caution bullet mutual donkey food arrow legend";

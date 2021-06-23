@@ -1,1 +1,1 @@
-var mnemonic = "hybrid once brief enough video twelve core embody wall bird bunker card";
+var mnemonic = "wear order dismiss clean wine soda hip flat glance waste lyrics salon";

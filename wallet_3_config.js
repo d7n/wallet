@@ -1,1 +1,1 @@
-var mnemonic = "ice receive lamp lava chalk reward album drill scatter intact bean grunt";
+var mnemonic = "account patch brief describe bright peasant define tattoo exit upper lyrics blossom";

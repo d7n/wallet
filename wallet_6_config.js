@@ -1,1 +1,1 @@
-var mnemonic = "nephew machine crack live aunt fence video anxiety escape divide inform across";
+var mnemonic = "second miss speed rapid blue theme announce traffic arena govern prison spawn";

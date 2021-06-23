@@ -1,1 +1,1 @@
-var mnemonic = "rookie slice truth oppose income dash fruit bachelor nose bargain size square";
+var mnemonic = "robust extra erosion arrow beach flavor token nut strike review grow relax";

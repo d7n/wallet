@@ -1,1 +1,1 @@
-var mnemonic = "frown slender gun weapon length receive wealth symbol attract february shallow report";
+var mnemonic = "opinion math swear put rude track memory wood giggle clump blanket knife";

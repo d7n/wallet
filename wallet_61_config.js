@@ -1,1 +1,1 @@
-var mnemonic = "senior one knee treat click milk easily pulse neutral stereo avocado dismiss";
+var mnemonic = "leave trial limb dizzy sand tornado ethics olive duty ten butter noise";

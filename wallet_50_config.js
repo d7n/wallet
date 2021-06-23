@@ -1,1 +1,1 @@
-var mnemonic = "blanket rookie system increase lift voice property scene double bitter worry sauce";
+var mnemonic = "will mesh biology amount sure pulp palm bulb strategy helmet gravity believe";

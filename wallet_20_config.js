@@ -1,1 +1,1 @@
-var mnemonic = "skirt undo icon flight obvious unit february wise shadow simple tourist tip";
+var mnemonic = "exit artwork original elephant method stable dilemma fog sentence own scrap there";

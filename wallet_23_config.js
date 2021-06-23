@@ -1,1 +1,1 @@
-var mnemonic = "kitchen toy language decrease slab season indoor assume upgrade trophy number game";
+var mnemonic = "ordinary very cricket enact genuine shaft agent settle attract betray usage orange";

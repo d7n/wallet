@@ -1,1 +1,1 @@
-var mnemonic = "usage innocent virtual glad range tragic below heart frequent staff velvet online";
+var mnemonic = "used midnight merry okay fan undo trial upset grass device soon jewel";

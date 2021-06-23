@@ -1,1 +1,1 @@
-var mnemonic = "suffer symbol consider poet memory ice plastic trumpet swamp glare clean casual";
+var mnemonic = "arrest panel attitude icon key bring grab drama pole exhibit squeeze bean";

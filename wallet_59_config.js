@@ -1,1 +1,1 @@
-var mnemonic = "hover expand hello peanut game animal warrior movie oblige one apology stamp";
+var mnemonic = "miracle fence wing type volume priority rich spend height jaguar stomach grief";

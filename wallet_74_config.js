@@ -1,1 +1,1 @@
-var mnemonic = "zebra captain december cube wool timber pink level range run kind oblige";
+var mnemonic = "version snack record border quantum target blame large maple glory move history";
