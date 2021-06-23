@@ -1,1 +1,1 @@
-var mnemonic = "shoe infant host crater expect snack naive daring outside simple anchor fan";
+var mnemonic = "quiz water exchange gun clarify barrel arrive short clown regular mask require";

@@ -1,1 +1,1 @@
-var mnemonic = "inmate lend tent clean crew doll favorite few entry drastic trophy opinion";
+var mnemonic = "uncover pencil ready wrong ability option grow improve among gate spoon steak";

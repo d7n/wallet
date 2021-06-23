@@ -1,1 +1,1 @@
-var mnemonic = "crumble myself jump know olive zoo remain grain buffalo marble dog music";
+var mnemonic = "matter spin silver unable crane whisper still cheese episode ancient man belt";

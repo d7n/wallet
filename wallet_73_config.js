@@ -1,1 +1,1 @@
-var mnemonic = "glance vicious loud tooth lady lift spin artwork since area piece verb";
+var mnemonic = "morning misery mesh owner rent enough draft ahead furnace drip correct chef";

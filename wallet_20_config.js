@@ -1,1 +1,1 @@
-var mnemonic = "discover magic one shock flower hungry web evil obscure language cactus glove";
+var mnemonic = "pill clog kit length uniform crouch define wear puppy over salute blur";

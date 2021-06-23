@@ -1,1 +1,1 @@
-var mnemonic = "amazing review welcome diet kick turkey adult fade people invite two reward";
+var mnemonic = "hurdle promote affair festival else idle bicycle teach visual rotate notable winter";

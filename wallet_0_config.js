@@ -1,1 +1,1 @@
-var mnemonic = "leader trumpet tent tongue inmate tool case mansion like ski start weapon";
+var mnemonic = "detail mass bike device verb couple rate asthma just steel depart couple";

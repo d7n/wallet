@@ -1,1 +1,1 @@
-var mnemonic = "hood head universe will inner member detect drive elbow usual coral fine";
+var mnemonic = "humor truth aisle check goddess net seek already divide seat caught lunch";

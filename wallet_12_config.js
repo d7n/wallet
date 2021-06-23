@@ -1,1 +1,1 @@
-var mnemonic = "view scatter toe length wing magnet repeat multiply void shuffle shield plunge";
+var mnemonic = "dance galaxy unit noise device scare truck tent become ten kiss shift";

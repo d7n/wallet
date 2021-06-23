@@ -1,1 +1,1 @@
-var mnemonic = "grow someone bonus extra love skill pioneer educate capital trash renew black";
+var mnemonic = "library cannon start fly off rescue marble round speak portion duty hurt";

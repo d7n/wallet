@@ -1,1 +1,1 @@
-var mnemonic = "depart book galaxy sort pattern uncover skate brave viable miracle turkey season";
+var mnemonic = "impact man wear reward burst firm horror unfair mouse diamond tobacco announce";

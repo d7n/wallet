@@ -1,1 +1,1 @@
-var mnemonic = "rookie symbol curious street conduct dirt update flag chase muscle audit soon";
+var mnemonic = "coral holiday pet hollow twin glad vote spoil cycle prepare able debris";

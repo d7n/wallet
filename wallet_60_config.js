@@ -1,1 +1,1 @@
-var mnemonic = "please short trip air always fatal talent hammer ivory degree canoe daughter";
+var mnemonic = "flag fantasy bar very simple crunch fish response clever explain alter source";

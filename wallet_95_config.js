@@ -1,1 +1,1 @@
-var mnemonic = "exotic brand crack boil frown uphold abuse service connect combine mango fiber";
+var mnemonic = "myth victory when holiday shoe arrest thrive surround hollow stuff secret exclude";

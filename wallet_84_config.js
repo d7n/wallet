@@ -1,1 +1,1 @@
-var mnemonic = "surprise spray soft casual key cloud runway trial knee brick present digital";
+var mnemonic = "opinion supreme double major around beauty argue auction only topple mirror celery";

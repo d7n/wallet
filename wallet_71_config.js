@@ -1,1 +1,1 @@
-var mnemonic = "furnace combine liquid spread notable maze cannon leave carry hood above marriage";
+var mnemonic = "puzzle zone gate asthma hedgehog sing brass tube tooth matter buddy parade";

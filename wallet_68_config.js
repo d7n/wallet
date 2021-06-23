@@ -1,1 +1,1 @@
-var mnemonic = "crime office own since express dilemma pattern grab civil wire clay jealous";
+var mnemonic = "throw virus neither enrich section mask slam idea enhance because april mountain";

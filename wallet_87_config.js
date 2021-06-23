@@ -1,1 +1,1 @@
-var mnemonic = "rival banana trick impact route sponsor main only chapter deposit abandon used";
+var mnemonic = "can puppy pulse swap bike federal jelly width smile require sing sure";

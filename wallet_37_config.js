@@ -1,1 +1,1 @@
-var mnemonic = "field where key company awesome giraffe tube sphere cat busy cigar bamboo";
+var mnemonic = "acid vibrant quantum review dumb game hybrid steak bind twin top repair";

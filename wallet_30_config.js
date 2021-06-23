@@ -1,1 +1,1 @@
-var mnemonic = "weird tray strategy share busy stand able tumble omit foot people victory";
+var mnemonic = "undo leave grape opera suit install grain lock build book film same";

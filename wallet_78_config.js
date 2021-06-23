@@ -1,1 +1,1 @@
-var mnemonic = "slab armed lucky cake second chief opinion absorb awake marine narrow page";
+var mnemonic = "verify tragic install long accident sand finger wealth world bus flock erupt";

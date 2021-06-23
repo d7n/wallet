@@ -1,1 +1,1 @@
-var mnemonic = "roof way kiwi cable response sketch gasp aerobic taste sausage alcohol cruise";
+var mnemonic = "sister long buffalo already bread arrow prize mule maple icon west pudding";

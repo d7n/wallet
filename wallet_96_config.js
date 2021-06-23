@@ -1,1 +1,1 @@
-var mnemonic = "regular robot other spend dinner soap occur essay creek flash peace digital";
+var mnemonic = "pretty cabbage payment unaware body more boring pen speed near range carbon";

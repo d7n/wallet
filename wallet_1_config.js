@@ -1,1 +1,1 @@
-var mnemonic = "renew damp perfect sense burger caution doctor border height session invite witness";
+var mnemonic = "kind noise truth attract vote short narrow grit post demise candy since";

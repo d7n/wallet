@@ -1,1 +1,1 @@
-var mnemonic = "snap group maze few inspire write horror belt cupboard day adjust teach";
+var mnemonic = "quantum fiscal enable basic novel group symptom slow virus view desk trigger";

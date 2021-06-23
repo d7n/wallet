@@ -1,1 +1,1 @@
-var mnemonic = "identify ring artist carpet pupil tourist have control doll celery thunder holiday";
+var mnemonic = "section banana object photo mouse tired picnic plastic second multiply open laptop";

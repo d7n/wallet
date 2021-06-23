@@ -1,1 +1,1 @@
-var mnemonic = "invite deer help simple cup impose bench resist prefer setup margin thank";
+var mnemonic = "quarter famous seat shed build orchard expire dish tilt mechanic radar calm";

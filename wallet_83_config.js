@@ -1,1 +1,1 @@
-var mnemonic = "pottery blossom verify torch high unknown comic coach alter exhaust give forget";
+var mnemonic = "chase detail celery inch parrot ranch multiply retreat urge bind prosper shock";

@@ -1,1 +1,1 @@
-var mnemonic = "attract gown extra lawsuit enter van stick tattoo gentle lunar merry fun";
+var mnemonic = "pistol matrix ticket lion expect increase sock struggle size embark wild error";

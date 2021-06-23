@@ -1,1 +1,1 @@
-var mnemonic = "kind bulb brand because market beauty horn couple fiction panda method crew";
+var mnemonic = "wash light false salmon desert truly traffic when olympic broken exile select";

@@ -1,1 +1,1 @@
-var mnemonic = "arctic vibrant fabric arm harvest flash kangaroo olive skin surround sort message";
+var mnemonic = "shoe safe maple carpet square say never write unique just recipe innocent";

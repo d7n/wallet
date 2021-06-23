@@ -1,1 +1,1 @@
-var mnemonic = "arctic rose dress print scatter session bronze harvest feature lawn language cannon";
+var mnemonic = "melt typical crucial estate harvest force insect relief crazy order detail squeeze";

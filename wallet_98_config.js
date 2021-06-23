@@ -1,1 +1,1 @@
-var mnemonic = "culture foot awake hello exercise script asthma hurt chest eagle dream crack";
+var mnemonic = "awkward owner damp celery setup remind connect print during story fury rose";

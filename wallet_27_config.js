@@ -1,1 +1,1 @@
-var mnemonic = "total road can garbage exhibit seven member pet bullet shoot doll town";
+var mnemonic = "move hurt drum chair nothing gun husband annual snack youth antique sphere";

@@ -1,1 +1,1 @@
-var mnemonic = "ill innocent panel rebuild noodle merry bounce able antenna guess dust system";
+var mnemonic = "upper tackle truly loop taxi fox trial power hour gold poet tilt";

@@ -1,1 +1,1 @@
-var mnemonic = "grain castle harsh rigid vibrant case goat deny depth naive fly screen";
+var mnemonic = "ethics guide beyond dune biology busy genre shoot fame trip critic dwarf";

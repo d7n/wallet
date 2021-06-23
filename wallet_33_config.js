@@ -1,1 +1,1 @@
-var mnemonic = "million mention duck consider impulse double ramp airport put express north shuffle";
+var mnemonic = "asthma wheat minor very motion actual adapt decline merry distance roast trumpet";

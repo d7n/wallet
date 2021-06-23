@@ -1,1 +1,1 @@
-var mnemonic = "believe virtual burger slender run bunker robust inhale turkey win female trade";
+var mnemonic = "gravity time tornado desert ginger holiday boring parrot disagree great text bulb";

@@ -1,1 +1,1 @@
-var mnemonic = "flavor marine length fatigue raise inflict boy pottery brush round rude differ";
+var mnemonic = "select since wrestle achieve industry dust excuse stadium question until avoid giggle";

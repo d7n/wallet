@@ -1,1 +1,1 @@
-var mnemonic = "deliver width salute ribbon inmate civil cool flee know predict fragile quick";
+var mnemonic = "unit peasant brave ball spend dwarf giggle wire tunnel skirt milk try";

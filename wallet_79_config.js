@@ -1,1 +1,1 @@
-var mnemonic = "have husband napkin priority tomato display scissors emerge car improve click helmet";
+var mnemonic = "wrestle mammal wolf tomato wrong whip abstract home depth wool situate input";

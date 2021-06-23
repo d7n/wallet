@@ -1,1 +1,1 @@
-var mnemonic = "quick unfold amused subway horror accident foot chalk explain place web sunny";
+var mnemonic = "armor wage mystery ozone abstract fine faint lock cliff digital pottery arctic";

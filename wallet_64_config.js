@@ -1,1 +1,1 @@
-var mnemonic = "gather chapter youth option lunar hundred detail measure sketch crystal random woman";
+var mnemonic = "express arena enjoy shock double ancient fold enroll net like build girl";

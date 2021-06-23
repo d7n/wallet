@@ -1,1 +1,1 @@
-var mnemonic = "style mimic hotel rural spare guide service zero tail home pet giraffe";
+var mnemonic = "scrub benefit response tube extend task loyal warm settle vessel once task";

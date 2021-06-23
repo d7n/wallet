@@ -1,1 +1,1 @@
-var mnemonic = "atom bacon pyramid craft primary help grab hundred employ measure repair hammer";
+var mnemonic = "nice gold noise female fringe cart fog heavy pool fatigue knife pull";

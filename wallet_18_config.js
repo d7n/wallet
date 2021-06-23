@@ -1,1 +1,1 @@
-var mnemonic = "guide crew have transfer scissors act sunny include apple biology pool luxury";
+var mnemonic = "camera oval capital father act sail demand catalog adjust snap second this";

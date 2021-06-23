@@ -1,1 +1,1 @@
-var mnemonic = "combine exit inside amazing gas bullet tackle lyrics acquire school weird shield";
+var mnemonic = "radio ice immune problem audit track pact sadness will yellow ensure finish";

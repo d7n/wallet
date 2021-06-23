@@ -1,1 +1,1 @@
-var mnemonic = "useless harvest banner disagree alien pudding stove industry lunch orphan shiver fiscal";
+var mnemonic = "enforce cable powder vicious husband dumb verb quote cinnamon eyebrow column quality";

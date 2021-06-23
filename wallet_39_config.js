@@ -1,1 +1,1 @@
-var mnemonic = "cancel pencil hockey copy sibling wheat demise decrease member tiny shell curve";
+var mnemonic = "blouse hedgehog guess convince tiger thunder sunset clinic elder surge equal dinosaur";

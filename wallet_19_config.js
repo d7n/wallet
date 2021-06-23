@@ -1,1 +1,1 @@
-var mnemonic = "vapor organ unknown crouch foster afraid oval north later tongue twenty fit";
+var mnemonic = "wolf few expose borrow seek village sock arrest grit achieve code much";

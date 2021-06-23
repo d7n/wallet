@@ -1,1 +1,1 @@
-var mnemonic = "ready orbit that monkey antenna coconut response offer thunder toward pudding kitten";
+var mnemonic = "artist clever current enjoy name gown cupboard lyrics educate robot wear jacket";

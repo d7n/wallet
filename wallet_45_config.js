@@ -1,1 +1,1 @@
-var mnemonic = "hand baby card grow ancient shy car shuffle cross season armor onion";
+var mnemonic = "exist foam joy squirrel shop dumb chalk embody zoo narrow way correct";

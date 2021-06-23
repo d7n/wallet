@@ -1,1 +1,1 @@
-var mnemonic = "thank lobster grid apple loop evolve hip pig armor reason grow clown";
+var mnemonic = "debris garden jelly arena stool coast honey subway wonder say pizza normal";

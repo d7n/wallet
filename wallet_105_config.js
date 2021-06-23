@@ -1,1 +1,1 @@
-var mnemonic = "once traffic amazing nice carbon behind panic search fitness armor light gate";
+var mnemonic = "face minute omit number when dash meadow this exclude mule hand bread";

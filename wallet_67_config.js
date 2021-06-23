@@ -1,1 +1,1 @@
-var mnemonic = "winner aerobic creek kingdom summer spider pretty wasp spring crash before submit";
+var mnemonic = "discover canvas little such release list exist control method punch crawl human";

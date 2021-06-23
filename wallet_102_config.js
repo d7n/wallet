@@ -1,1 +1,1 @@
-var mnemonic = "analyst flush measure gun become fabric that jacket enlist half crack exhibit";
+var mnemonic = "citizen dance discover medal topple hip frost stem time human pear keep";

@@ -1,1 +1,1 @@
-var mnemonic = "portion betray twice round lucky pioneer dutch account jungle repeat call power";
+var mnemonic = "quick skill marriage uncover evolve nasty else hammer supply apology front minute";

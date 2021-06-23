@@ -1,1 +1,1 @@
-var mnemonic = "outdoor canoe gloom process glue sister victory strategy develop slush ritual knee";
+var mnemonic = "treat trash taxi point pride ship crunch oxygen heart glow attract skirt";

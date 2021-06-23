@@ -1,1 +1,1 @@
-var mnemonic = "saddle one luggage lock expire include network prison brass virus current tape";
+var mnemonic = "easily private home palace security miss predict disorder siren canyon legal fit";

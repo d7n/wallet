@@ -1,1 +1,1 @@
-var mnemonic = "edge giggle spin ceiling ridge unveil resist borrow culture slow rare escape";
+var mnemonic = "rural add sea divide arctic faint hammer success summer render pepper sound";

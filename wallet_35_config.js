@@ -1,1 +1,1 @@
-var mnemonic = "blanket drop number turn omit crisp arctic afraid loud scan adult comfort";
+var mnemonic = "motion angry resource vessel throw slide luxury whip under popular prepare ranch";

@@ -1,1 +1,1 @@
-var mnemonic = "fame web guess eager east wine enroll fog donkey wing earn artwork";
+var mnemonic = "average tail lab garment reopen autumn music lock grit behave elbow fog";

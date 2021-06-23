@@ -1,1 +1,1 @@
-var mnemonic = "ski march plunge news ribbon leader motion fame rebuild mistake tackle twin";
+var mnemonic = "grant frame eternal glimpse lend live dash chunk release live pen parade";

@@ -1,1 +1,1 @@
-var mnemonic = "feel sunset cruise leopard fetch stool kiss useful fringe chicken response liberty";
+var mnemonic = "minute route oyster daring uniform happy unveil brush business concert wrestle raise";

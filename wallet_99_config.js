@@ -1,1 +1,1 @@
-var mnemonic = "loop cool relief utility trip debate accuse quantum mom rally midnight penalty";
+var mnemonic = "height update sick song moral tobacco together truly oven cereal tribe trick";

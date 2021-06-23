@@ -1,1 +1,1 @@
-var mnemonic = "cargo vacant distance mosquito void shoot cruel disagree upset poet raw action";
+var mnemonic = "parrot embrace basic boss guitar future hello drum blue thing dwarf situate";

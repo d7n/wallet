@@ -1,1 +1,1 @@
-var mnemonic = "someone fine trouble ivory pattern radar person claim gentle fresh offer have";
+var mnemonic = "priority party matter lawn void license inmate perfect chief ritual rail exotic";

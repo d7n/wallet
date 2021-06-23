@@ -1,1 +1,1 @@
-var mnemonic = "reveal vehicle cotton season wood tail average stable answer whisper viable bind";
+var mnemonic = "normal gas lounge inhale holiday crumble gift front egg stairs caught anchor";

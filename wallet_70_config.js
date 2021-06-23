@@ -1,1 +1,1 @@
-var mnemonic = "upper museum virtual skin labor nerve sea vibrant crouch august airport human";
+var mnemonic = "civil say twenty ugly put vanish essay cement pride angle waste salon";

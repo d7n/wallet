@@ -1,1 +1,1 @@
-var mnemonic = "love depend they tennis reward describe carry day pyramid mesh submit couch";
+var mnemonic = "library dose pulse today day crop basket special orient when practice motion";

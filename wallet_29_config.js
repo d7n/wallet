@@ -1,1 +1,1 @@
-var mnemonic = "mad session photo powder bone climb angle rose master burden lava blanket";
+var mnemonic = "canyon fortune ask agent frown because guard scorpion suggest cool next main";

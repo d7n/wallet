@@ -1,1 +1,1 @@
-var mnemonic = "leave civil bomb add eight lottery foster gravity kitten usage stay feed";
+var mnemonic = "claim job mechanic cradle frozen salt purchase end half produce dice rally";

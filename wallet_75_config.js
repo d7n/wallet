@@ -1,1 +1,1 @@
-var mnemonic = "twenty exit teach bleak until craft coffee vintage theme bind usage good";
+var mnemonic = "artefact gate budget curtain enjoy canoe under side nasty alter medal blood";

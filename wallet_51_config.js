@@ -1,1 +1,1 @@
-var mnemonic = "derive timber nothing glass scrap buyer project spice soccer over inside sudden";
+var mnemonic = "squirrel gospel awake patient leopard alien cost weasel hospital all kitchen deposit";

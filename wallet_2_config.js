@@ -1,1 +1,1 @@
-var mnemonic = "client donor panic hedgehog alter grain vacuum crazy flame biology absent bulb";
+var mnemonic = "worry wrong judge amount icon faint drift vast upon humble figure grid";

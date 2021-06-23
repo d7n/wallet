@@ -1,1 +1,1 @@
-var mnemonic = "clay damage fetch lion glass hazard wolf stumble fossil pistol nice ripple";
+var mnemonic = "easy photo fruit tunnel swap indicate aware banana scout fatal laptop kite";

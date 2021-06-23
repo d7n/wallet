@@ -1,1 +1,1 @@
-var mnemonic = "lecture outdoor treat silent proud marine mask raise left repeat trip lizard";
+var mnemonic = "market crash absorb snake history foil warm pistol vendor buddy trick pony";

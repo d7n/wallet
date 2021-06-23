@@ -1,1 +1,1 @@
-var mnemonic = "iron display mention lake again awesome renew fresh desert suspect spend inspire";
+var mnemonic = "expand erode parade average tattoo perfect myth guilt cave income setup sense";

@@ -1,1 +1,1 @@
-var mnemonic = "check immune nature despair frame dinner dash mind time capable yellow faculty";
+var mnemonic = "machine ahead unusual pattern file hammer snake exile range trust bike core";

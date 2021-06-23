@@ -1,1 +1,1 @@
-var mnemonic = "front frame praise logic poverty reward witness nation speed vivid receive good";
+var mnemonic = "west awkward change ginger aspect valid test final allow cattle eagle puppy";

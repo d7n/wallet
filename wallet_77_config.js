@@ -1,1 +1,1 @@
-var mnemonic = "stadium liar jealous silent tortoise test symptom large change reveal dwarf aware";
+var mnemonic = "mixture educate profit picnic recall bargain flight chair elephant web rhythm below";

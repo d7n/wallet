@@ -1,1 +1,1 @@
-var mnemonic = "safe roof resemble hero giggle soldier best promote target betray ethics drive";
+var mnemonic = "next copy candy predict urge grass grief remove run increase length tomato";

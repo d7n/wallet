@@ -1,1 +1,1 @@
-var mnemonic = "find neither valid rotate behind antique august cause boss loan grab tree";
+var mnemonic = "buffalo arena inner rough pride fat rifle history reward basket aisle water";

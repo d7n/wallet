@@ -1,1 +1,1 @@
-var mnemonic = "core exile loan hat jungle dignity hard craft cancel lottery invite favorite";
+var mnemonic = "torch nose gadget dinner forum twelve better universe market hospital frost replace";

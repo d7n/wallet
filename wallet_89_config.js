@@ -1,1 +1,1 @@
-var mnemonic = "lyrics between spell curtain brass velvet swallow table suggest leader aspect cluster";
+var mnemonic = "lazy nasty deposit runway key grace dutch unfair text surface finish again";

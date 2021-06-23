@@ -1,1 +1,1 @@
-var mnemonic = "genuine meat drum among essence street define dragon faith detail merit pistol";
+var mnemonic = "grant wine squeeze agree fold gasp year inmate wagon flavor beef void";

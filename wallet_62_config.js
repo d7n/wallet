@@ -1,1 +1,1 @@
-var mnemonic = "female law cereal escape master clown diagram script annual input moral dignity";
+var mnemonic = "remove copper pyramid mouse quantum job reform fire hockey miracle stove wreck";

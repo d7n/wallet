@@ -1,1 +1,1 @@
-var mnemonic = "style moment awake enough call erode spray ivory ripple expand gorilla exile";
+var mnemonic = "bachelor hint advance there cram camp opera bulk unfair index predict deposit";

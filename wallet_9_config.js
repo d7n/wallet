@@ -1,1 +1,1 @@
-var mnemonic = "useless peanut swing always web play video demise erase hidden giraffe actor";
+var mnemonic = "that hole today case genius fuel salmon clay runway train salon margin";

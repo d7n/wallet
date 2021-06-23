@@ -1,1 +1,1 @@
-var mnemonic = "dutch talent elephant pioneer travel board rice taste pluck burger arrive adult";
+var mnemonic = "globe pretty brain air shallow balance method wing mind above surround ugly";

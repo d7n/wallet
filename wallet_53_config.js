@@ -1,1 +1,1 @@
-var mnemonic = "shadow canoe enlist onion dismiss carpet six exotic alien soda achieve hold";
+var mnemonic = "decade thought ribbon wide chimney lunar glide payment phone fragile want weather";

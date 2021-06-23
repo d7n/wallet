@@ -1,1 +1,1 @@
-var mnemonic = "wave van need hawk west supreme front adult sound recipe warrior wreck";
+var mnemonic = "swamp then pluck remember midnight hood bronze tilt great behind robust wood";

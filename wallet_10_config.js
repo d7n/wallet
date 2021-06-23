@@ -1,1 +1,1 @@
-var mnemonic = "relief range area spice busy bulk fragile cool note scan gadget prevent";
+var mnemonic = "crane garden know sea poverty artist action satisfy piece breeze memory twist";
