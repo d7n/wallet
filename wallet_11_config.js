@@ -1,1 +1,1 @@
-var mnemonic = "mouse power enact artwork visa mechanic start fire insane deer focus erode";
+var mnemonic = "news inject text ocean twenty join speak happy audit melt enrich ribbon";

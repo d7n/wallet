@@ -1,1 +1,1 @@
-var mnemonic = "before frozen ramp element layer endless sibling wild shrimp subway march monitor";
+var mnemonic = "reason toddler question govern say age chest message series honey field luggage";

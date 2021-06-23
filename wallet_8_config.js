@@ -1,1 +1,1 @@
-var mnemonic = "about safe detail derive silent soft act amount game easily habit pepper";
+var mnemonic = "prefer grain save gorilla bonus carbon fabric car rapid clog bus flavor";

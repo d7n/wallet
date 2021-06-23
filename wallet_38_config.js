@@ -1,1 +1,1 @@
-var mnemonic = "general short sister sad bulk bulb total glimpse receive envelope embark miss";
+var mnemonic = "wrist shove life thing tourist hundred burden design belt sell art nephew";

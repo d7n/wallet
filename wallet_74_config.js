@@ -1,1 +1,1 @@
-var mnemonic = "buyer unusual hat tobacco usage develop kit song depart mirror devote worry";
+var mnemonic = "select north cable law rare bring insane dolphin brown produce science range";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar hurt ship squeeze proof spread extend flower genius unhappy sense drive";
+var mnemonic = "wink flush whisper word shaft boil final pride share lake crane hurry";

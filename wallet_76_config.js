@@ -1,1 +1,1 @@
-var mnemonic = "gossip zoo divorce hungry grass normal onion leg logic easy rack legend";
+var mnemonic = "bottom vast install thought genius scheme layer carbon voyage always olympic cook";

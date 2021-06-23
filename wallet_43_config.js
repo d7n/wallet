@@ -1,1 +1,1 @@
-var mnemonic = "impulse genre kiss tribe betray trust toss announce orbit layer label undo";
+var mnemonic = "unveil surprise struggle smoke follow radio nose taste blur walnut stay undo";

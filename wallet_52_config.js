@@ -1,1 +1,1 @@
-var mnemonic = "crater fat summer coin vintage idea dog marine purse boil photo typical";
+var mnemonic = "among injury mean luggage junk movie agent ability museum giggle cave rose";

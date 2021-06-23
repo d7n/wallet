@@ -1,1 +1,1 @@
-var mnemonic = "toss subject hire despair napkin survey foam flock round address pass comic";
+var mnemonic = "lizard youth just lounge input way divorce income output clean clarify boss";

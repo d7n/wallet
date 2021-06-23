@@ -1,1 +1,1 @@
-var mnemonic = "census tuna sphere chaos candy senior attitude connect ball unhappy spell usage";
+var mnemonic = "wrap possible rent hood divide joy unusual carbon noodle below head hold";

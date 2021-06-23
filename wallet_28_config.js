@@ -1,1 +1,1 @@
-var mnemonic = "kind fuel pool explain confirm sadness mandate attitude check control cube invite";
+var mnemonic = "air hammer donkey bright twenty initial around palace security front mountain video";

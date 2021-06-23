@@ -1,1 +1,1 @@
-var mnemonic = "car slow burger swallow sport wheat figure dune tool fork cause add";
+var mnemonic = "detect symbol sister empty devote matter afford because scout copper sting prosper";

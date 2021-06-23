@@ -1,1 +1,1 @@
-var mnemonic = "today harbor heart defy sign decide fancy alarm famous force solar mother";
+var mnemonic = "wreck unable post grocery spider early team slab aim true priority fire";

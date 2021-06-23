@@ -1,1 +1,1 @@
-var mnemonic = "pass broccoli remind sample joke ramp wool husband lucky victory scene cousin";
+var mnemonic = "tail buddy cram grow pelican edge garlic shoe yellow useful detect flush";

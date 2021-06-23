@@ -1,1 +1,1 @@
-var mnemonic = "round six chuckle stuff wreck cube naive can decade train wisdom bulb";
+var mnemonic = "carry detect report used stay throw viable idea uphold popular actress danger";

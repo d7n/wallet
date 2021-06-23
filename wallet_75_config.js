@@ -1,1 +1,1 @@
-var mnemonic = "juice utility noodle toe antique entry planet seven razor minimum liberty spirit";
+var mnemonic = "ball fancy key six tool cannon virus congress dog inherit gun reflect";

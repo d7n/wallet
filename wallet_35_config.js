@@ -1,1 +1,1 @@
-var mnemonic = "paddle park asthma step edge banana boost inherit calm forest march struggle";
+var mnemonic = "hope garment spring garage grief giggle coral kit rhythm cherry universe method";

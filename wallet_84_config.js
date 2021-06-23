@@ -1,1 +1,1 @@
-var mnemonic = "category daring vehicle note concert gym hotel blanket cloud august visual purpose";
+var mnemonic = "lemon emotion neck apple sunset draw alien movie group skill plug sport";

@@ -1,1 +1,1 @@
-var mnemonic = "shine seek pill private weapon setup box mom debate output drop excite";
+var mnemonic = "raise cook autumn battle special victory sting carry demise now person attack";

@@ -1,1 +1,1 @@
-var mnemonic = "payment topple traffic lesson neither romance relax glare orphan gaze tissue aerobic";
+var mnemonic = "unit search youth again unusual broken jaguar now nominee toilet fee arrive";

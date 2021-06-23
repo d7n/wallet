@@ -1,1 +1,1 @@
-var mnemonic = "certain defense liberty divorce describe sunny inside dignity move grant rare manual";
+var mnemonic = "pluck lemon outside science visual still you rug allow favorite chicken kick";

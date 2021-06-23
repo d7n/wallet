@@ -1,1 +1,1 @@
-var mnemonic = "shiver simple bacon dawn pulse wide hotel hip turn blur web garbage";
+var mnemonic = "maple reduce zoo moon east behave govern oven problem vocal leg twice";

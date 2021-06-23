@@ -1,1 +1,1 @@
-var mnemonic = "jar despair fantasy property slight foster marble engage paper toilet morning hawk";
+var mnemonic = "board roast lonely cute expose bitter omit early female iron woman cattle";

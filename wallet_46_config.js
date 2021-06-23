@@ -1,1 +1,1 @@
-var mnemonic = "oblige various angry night situate accident wife soul fault clog sense circle";
+var mnemonic = "clown course primary hundred cabbage sketch problem man slight village sign foot";

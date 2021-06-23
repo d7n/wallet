@@ -1,1 +1,1 @@
-var mnemonic = "mail argue wealth cake leave flame similar evidence genre orient more tuna";
+var mnemonic = "toast deny gas yellow into position tired tackle cheap motor kind analyst";

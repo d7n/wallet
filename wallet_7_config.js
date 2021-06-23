@@ -1,1 +1,1 @@
-var mnemonic = "west sponsor state bamboo thumb impulse husband filter put ready equal general";
+var mnemonic = "blush dismiss nest gossip trap volcano memory hand opinion cover smart unique";

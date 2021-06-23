@@ -1,1 +1,1 @@
-var mnemonic = "dance syrup orchard wood post liar reopen soul clutch traffic lizard pigeon";
+var mnemonic = "gift thank short pattern plunge add kit city exercise antique spatial job";

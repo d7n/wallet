@@ -1,1 +1,1 @@
-var mnemonic = "kiwi duty glove gentle rain toast engage rough express other security act";
+var mnemonic = "party account wait zero follow repeat local other tomorrow sweet blind online";

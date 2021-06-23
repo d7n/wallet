@@ -1,1 +1,1 @@
-var mnemonic = "mouse tomorrow wisdom income demand door organ step under census night control";
+var mnemonic = "company twice kid minute cement ocean another today cargo evidence assist stable";

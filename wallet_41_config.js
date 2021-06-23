@@ -1,1 +1,1 @@
-var mnemonic = "betray federal have defy caution property knee potato above duck cash profit";
+var mnemonic = "night riot rich carpet thought angry room cigar cabbage supreme panic lazy";

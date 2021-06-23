@@ -1,1 +1,1 @@
-var mnemonic = "slim motor elder garbage match envelope endless hamster snack list glass describe";
+var mnemonic = "collect rough situate news dumb erase bronze short dove fly gym trash";

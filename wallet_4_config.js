@@ -1,1 +1,1 @@
-var mnemonic = "early cliff enter stuff purpose goat guess gift pole patient evoke dry";
+var mnemonic = "tissue nominee point ketchup fatigue primary survey jaguar travel cereal myself crystal";

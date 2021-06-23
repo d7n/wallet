@@ -1,1 +1,1 @@
-var mnemonic = "mushroom pupil whale nothing turkey submit grow squeeze ill glance game report";
+var mnemonic = "popular train news front patch attend surge age orphan route stumble tower";

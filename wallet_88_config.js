@@ -1,1 +1,1 @@
-var mnemonic = "can cereal wife fame unaware canvas invest ring health sad describe cheap";
+var mnemonic = "still exile because rain junior tag interest point rice coffee circle virus";

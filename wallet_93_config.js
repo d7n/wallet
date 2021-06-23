@@ -1,1 +1,1 @@
-var mnemonic = "work exclude dinner glow whip inmate noble gas salt hire soda result";
+var mnemonic = "destroy collect prosper twice promote slim eternal roof old father island below";

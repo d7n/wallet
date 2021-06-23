@@ -1,1 +1,1 @@
-var mnemonic = "talent hidden shine sell night patch dose lift armor lonely lyrics toward";
+var mnemonic = "effort eternal blossom law despair fall blind festival oven cost mushroom fun";

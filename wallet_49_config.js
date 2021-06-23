@@ -1,1 +1,1 @@
-var mnemonic = "burst spy what enter gown carpet number add screen north label sun";
+var mnemonic = "noise shop heart finger silver success mule notice narrow voice must leisure";

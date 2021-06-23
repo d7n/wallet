@@ -1,1 +1,1 @@
-var mnemonic = "powder file galaxy congress blast sauce alert program help shed glad magnet";
+var mnemonic = "orphan left chunk lake tissue winter century off filter arrest chunk book";

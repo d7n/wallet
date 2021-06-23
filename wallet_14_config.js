@@ -1,1 +1,1 @@
-var mnemonic = "butter maximum obvious crumble act core plunge drink reject thought ice outside";
+var mnemonic = "jungle cement elder giggle horror memory dust usage amused apology total erase";

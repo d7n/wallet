@@ -1,1 +1,1 @@
-var mnemonic = "outdoor orchard wood balcony snow sign odor curve release accident guide apple";
+var mnemonic = "gauge knife thumb vast lava submit receive prize metal way march stable";

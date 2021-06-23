@@ -1,1 +1,1 @@
-var mnemonic = "game combine huge harvest loud burst need divert level slam siege museum";
+var mnemonic = "tackle upper bargain aerobic ready city add quiz morning casino perfect club";

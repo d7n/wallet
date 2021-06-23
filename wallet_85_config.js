@@ -1,1 +1,1 @@
-var mnemonic = "corn episode ring zoo stock sign safe trouble possible solution dentist prison";
+var mnemonic = "any stadium leg crater sponsor drastic trade survey ozone enrich birth gadget";

@@ -1,1 +1,1 @@
-var mnemonic = "hill pitch century basket panther exit express rhythm tortoise giraffe school indoor";
+var mnemonic = "under pluck lab vendor man between draft wait plug chronic add custom";

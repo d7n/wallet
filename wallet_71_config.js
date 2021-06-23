@@ -1,1 +1,1 @@
-var mnemonic = "brisk giraffe hub face resemble morning punch excuse wine subway pledge educate";
+var mnemonic = "comic exist cloud kidney tongue child flock public near fix excuse arrow";

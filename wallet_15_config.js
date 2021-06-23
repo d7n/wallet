@@ -1,1 +1,1 @@
-var mnemonic = "beach model market column offer lunar patch breeze health pulp wreck empower";
+var mnemonic = "present flat unfair token expand basic coconut situate ceiling bamboo trophy put";

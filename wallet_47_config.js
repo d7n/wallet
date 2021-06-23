@@ -1,1 +1,1 @@
-var mnemonic = "mask sail night life stove insect dove ring ticket mixture question spoil";
+var mnemonic = "tobacco throw decide voice warm ignore sea series winner lucky time bulb";

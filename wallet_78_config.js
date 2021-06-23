@@ -1,1 +1,1 @@
-var mnemonic = "dismiss document gorilla october canvas bronze next genre clerk oppose bench axis";
+var mnemonic = "apology rent federal box effort average vehicle sun garage fatigue anxiety popular";

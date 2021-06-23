@@ -1,1 +1,1 @@
-var mnemonic = "board dance aim snow anchor clock scale slogan dwarf dentist beef lady";
+var mnemonic = "food advance attack inherit tenant impose alcohol romance phone leg rabbit nuclear";

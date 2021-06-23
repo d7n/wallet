@@ -1,1 +1,1 @@
-var mnemonic = "topic chronic utility flight insane clutch duck smooth trap exercise warfare human";
+var mnemonic = "divorce oyster pig outdoor skirt balcony type learn culture shiver hungry extend";

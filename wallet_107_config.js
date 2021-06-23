@@ -1,1 +1,1 @@
-var mnemonic = "crash dune level income dust praise early defense renew play trap siren";
+var mnemonic = "depth number pill quarter addict day tenant illegal thumb social neck figure";

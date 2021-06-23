@@ -1,1 +1,1 @@
-var mnemonic = "return dentist sausage coast sound cruel federal current myth stamp grow step";
+var mnemonic = "grant differ river crash town clock direct peasant hub sadness tissue document";

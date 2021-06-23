@@ -1,1 +1,1 @@
-var mnemonic = "begin prize scene number stick hill school expire mother tourist law victory";
+var mnemonic = "nerve shift always need shrimp kind fatigue marine connect clinic diary begin";

@@ -1,1 +1,1 @@
-var mnemonic = "fade kangaroo pupil stock urban over reform ensure first insect broken ozone";
+var mnemonic = "embrace rough dumb galaxy uniform trial butter nut insect negative excite cinnamon";

@@ -1,1 +1,1 @@
-var mnemonic = "jewel another muscle chicken attend cloth sudden grit erupt action allow own";
+var mnemonic = "thumb crowd prison orchard worry upper race medal farm famous ship wisdom";

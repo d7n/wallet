@@ -1,1 +1,1 @@
-var mnemonic = "material voyage bubble middle slow inch there gravity vacuum cinnamon drop turtle";
+var mnemonic = "juice team random someone exclude color blur hobby snack pig mammal autumn";

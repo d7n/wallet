@@ -1,1 +1,1 @@
-var mnemonic = "december patient wrong ritual visa awkward sure twenty control enough practice myself";
+var mnemonic = "soccer vanish document gap spread lend jeans young carpet shoulder cloth quit";

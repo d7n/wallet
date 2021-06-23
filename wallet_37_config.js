@@ -1,1 +1,1 @@
-var mnemonic = "green wisdom magic oyster camp grape measure swear setup thunder trial trap";
+var mnemonic = "lunch oblige inner weird delay correct cup cherry safe food actress coyote";

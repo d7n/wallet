@@ -1,1 +1,1 @@
-var mnemonic = "argue notable snap cherry detail network habit board friend three future session";
+var mnemonic = "borrow genuine network glove liberty attract fatal bronze soldier struggle private off";

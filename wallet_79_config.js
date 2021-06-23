@@ -1,1 +1,1 @@
-var mnemonic = "salon frequent lift hint wheat truth sick today daughter aspect nest essay";
+var mnemonic = "decrease naive census place harvest holiday canal question trim water enjoy bubble";

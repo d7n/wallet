@@ -1,1 +1,1 @@
-var mnemonic = "useless fade rough column shine venue boss slender method tide faint topic";
+var mnemonic = "comfort kiss bike december burger display oven right reveal slot kick okay";

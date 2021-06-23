@@ -1,1 +1,1 @@
-var mnemonic = "speak renew floor renew cargo surround jelly abuse fly tape upgrade match";
+var mnemonic = "weasel stay second gallery either keep license industry comfort cruise disagree cute";

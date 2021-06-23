@@ -1,1 +1,1 @@
-var mnemonic = "tip wrestle enroll bubble because sponsor tomorrow cake wise soon wisdom year";
+var mnemonic = "shoe grass input waste cluster express camera inform elephant cousin tooth rifle";

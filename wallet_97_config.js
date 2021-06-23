@@ -1,1 +1,1 @@
-var mnemonic = "close either like obtain donate bulk rocket link punch legal slight behave";
+var mnemonic = "excuse stable swap figure awkward stand swift whisper wet exercise stock stem";

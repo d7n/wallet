@@ -1,1 +1,1 @@
-var mnemonic = "mosquito average beyond spatial surge bus express chicken flee dinosaur tennis royal";
+var mnemonic = "high club ethics onion hobby consider weird true permit there brass library";

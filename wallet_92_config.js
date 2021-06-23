@@ -1,1 +1,1 @@
-var mnemonic = "iron morning strategy blast hurry service motor apology wear night cattle rice";
+var mnemonic = "police little photo holiday clerk accuse actor fortune attract visit country rifle";

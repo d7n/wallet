@@ -1,1 +1,1 @@
-var mnemonic = "baby hotel useful month useful region prevent title ethics ritual grunt grunt";
+var mnemonic = "list reopen weasel rocket fresh add useless you rescue tumble buffalo betray";

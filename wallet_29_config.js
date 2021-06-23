@@ -1,1 +1,1 @@
-var mnemonic = "place potato crumble kitten task idea main animal crater until sort amateur";
+var mnemonic = "illegal under sketch disease peace disorder fun quick casino shove cushion pumpkin";

@@ -1,1 +1,1 @@
-var mnemonic = "harsh metal plug rookie rescue wear whale bulb creek govern antique auto";
+var mnemonic = "giant breeze imitate artist right light coach citizen act skull nest swamp";

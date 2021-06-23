@@ -1,1 +1,1 @@
-var mnemonic = "example scorpion yard best practice farm expand shadow main prevent sick bus";
+var mnemonic = "rapid what ensure apology grab dignity layer risk glare trust identify defy";

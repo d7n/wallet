@@ -1,1 +1,1 @@
-var mnemonic = "faculty paddle ticket assume tag office then music deliver weather olive page";
+var mnemonic = "anchor vanish shrug slam tail mercy vicious pelican sibling ski term stick";

@@ -1,1 +1,1 @@
-var mnemonic = "float relax bachelor wide term taxi silver fashion woman weapon author what";
+var mnemonic = "teach other refuse umbrella smile base stay woman border cliff mind replace";

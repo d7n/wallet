@@ -1,1 +1,1 @@
-var mnemonic = "reveal world thunder trick access hunt opera gain put entry airport slam";
+var mnemonic = "thrive enroll illegal bleak taste view else hole seminar bright timber embark";

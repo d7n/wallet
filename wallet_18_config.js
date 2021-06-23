@@ -1,1 +1,1 @@
-var mnemonic = "mandate clever food entire canal lonely power mosquito despair remove clinic celery";
+var mnemonic = "cover cattle dune noodle filter coconut tone divert arena flock cave install";

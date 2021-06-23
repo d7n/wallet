@@ -1,1 +1,1 @@
-var mnemonic = "curve where obtain vote setup crime mouse author female route bone special";
+var mnemonic = "quote zebra soda pond laundry flag artefact mandate calm school gold dilemma";

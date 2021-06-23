@@ -1,1 +1,1 @@
-var mnemonic = "theory anxiety tilt ramp ask that alien ship garlic salmon decade choose";
+var mnemonic = "debris patch educate there dirt surround enemy drink erase escape palm couple";

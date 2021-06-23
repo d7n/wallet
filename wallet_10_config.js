@@ -1,1 +1,1 @@
-var mnemonic = "liberty mechanic pear enrich slender shaft nurse word bonus caution uncover season";
+var mnemonic = "atom cupboard crunch warrior method decorate gorilla crash churn assume accuse obscure";

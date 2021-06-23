@@ -1,1 +1,1 @@
-var mnemonic = "aisle ball reject flock such nose add visit coil cargo science trick";
+var mnemonic = "dial soap input coral noble audit ripple spare genuine brass fringe voyage";

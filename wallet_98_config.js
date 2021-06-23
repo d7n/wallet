@@ -1,1 +1,1 @@
-var mnemonic = "omit shoe balcony spare sudden supreme amount jazz clarify raw craft patch";
+var mnemonic = "bottom choose poem below bulb mixed cross machine change derive pipe doll";

@@ -1,1 +1,1 @@
-var mnemonic = "banana cheap echo valve layer wild athlete chapter someone similar country toss";
+var mnemonic = "waste split left enemy fire peace sock bamboo indoor poverty measure scissors";

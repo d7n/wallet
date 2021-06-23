@@ -1,1 +1,1 @@
-var mnemonic = "brand child pride artist season decrease grant armor caught wealth horn control";
+var mnemonic = "apple increase element resource dust aerobic need prize liquid police still piece";

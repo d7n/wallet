@@ -1,1 +1,1 @@
-var mnemonic = "brave couch fold glance oven advice brand opinion fault pattern canoe seat";
+var mnemonic = "vessel forest shoe mesh tank unit goat vast promote act civil isolate";

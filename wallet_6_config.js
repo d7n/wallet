@@ -1,1 +1,1 @@
-var mnemonic = "noble garlic noodle cushion lyrics faith cable pioneer into hope initial fancy";
+var mnemonic = "utility magnet million stumble cute cotton cry taxi grant open demise kite";

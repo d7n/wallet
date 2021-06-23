@@ -1,1 +1,1 @@
-var mnemonic = "ability mimic tape call volume holiday deputy spatial puppy goat exact jewel";
+var mnemonic = "theory slow draft segment when later enlist dismiss radio dinner example galaxy";

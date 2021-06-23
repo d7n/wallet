@@ -1,1 +1,1 @@
-var mnemonic = "unique punch ugly universe pelican midnight scare almost goat distance message uncover";
+var mnemonic = "glide pride hero tape labor essence public vintage smile bleak review crucial";

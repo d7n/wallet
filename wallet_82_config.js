@@ -1,1 +1,1 @@
-var mnemonic = "uniform mammal wood donor peace pool outside dry hold lunar neck update";
+var mnemonic = "galaxy suit deal oxygen wild peace boss gas pair transfer wonder carry";

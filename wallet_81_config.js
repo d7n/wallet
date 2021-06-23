@@ -1,1 +1,1 @@
-var mnemonic = "reward insane kick radar detail brief tortoise frost pottery prosper pattern faint";
+var mnemonic = "obvious render excuse oppose hollow useless cheap firm sail chat dinosaur pond";

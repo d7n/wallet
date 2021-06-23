@@ -1,1 +1,1 @@
-var mnemonic = "fabric area wool purchase lottery obvious dove outside display cart injury collect";
+var mnemonic = "rail join fluid never item fault faculty engage trim room skin hole";

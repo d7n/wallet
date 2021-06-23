@@ -1,1 +1,1 @@
-var mnemonic = "rural little noodle uniform zebra decrease panther vocal roof setup penalty end";
+var mnemonic = "someone cabin bracket true sport immense way any puzzle cheese allow draw";

@@ -1,1 +1,1 @@
-var mnemonic = "funny often you distance pipe hat increase rebel grace uniform dune toe";
+var mnemonic = "survey rent crop kind brass tissue liberty predict relax rotate double inch";

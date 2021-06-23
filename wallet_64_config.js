@@ -1,1 +1,1 @@
-var mnemonic = "false warm begin eight prosper wheel top hammer print autumn song skirt";
+var mnemonic = "neck hello survey hub chunk impose lesson ugly damage cabbage vibrant mutual";

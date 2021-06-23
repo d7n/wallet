@@ -1,1 +1,1 @@
-var mnemonic = "level scout together ripple move mention rail garment dinosaur initial split boost";
+var mnemonic = "high design pitch north machine obscure kite bleak perfect miracle act wish";

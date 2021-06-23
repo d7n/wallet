@@ -1,1 +1,1 @@
-var mnemonic = "afford grape primary know fame return face ketchup limb pact burst harsh";
+var mnemonic = "web cross moment lady april scan first dinosaur notable cloth agree wrong";
