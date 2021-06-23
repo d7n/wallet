@@ -1,1 +1,1 @@
-var mnemonic = "hub cream train kind drop youth lesson door lift air liar canoe";
+var mnemonic = "region judge curve merit tube merit supreme disease family brother similar fatal";

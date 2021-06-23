@@ -1,1 +1,1 @@
-var mnemonic = "tide moral praise ball chapter magic peanut shiver gloom elegant acoustic hold";
+var mnemonic = "pig lend ahead lawn notable lava once ketchup sick tomorrow couch detail";

@@ -1,1 +1,1 @@
-var mnemonic = "fee cheese win husband tomorrow urban culture together kit ride youth spot";
+var mnemonic = "scissors major wire apart latin rebel sustain kid eyebrow blue accuse slow";

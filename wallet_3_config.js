@@ -1,1 +1,1 @@
-var mnemonic = "fence material square dad yard mimic chaos unfold help vague waste spatial";
+var mnemonic = "cannon rocket quit receive dry canvas cave cinnamon method time vault journey";

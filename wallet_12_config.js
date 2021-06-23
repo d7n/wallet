@@ -1,1 +1,1 @@
-var mnemonic = "attend garden absurd volume swarm cool scrap flavor festival isolate electric horn";
+var mnemonic = "used tired wonder trust rocket slush nothing force mother during library then";

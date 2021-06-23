@@ -1,1 +1,1 @@
-var mnemonic = "manage beauty picnic minor weird rookie ahead rude work spatial grant inside";
+var mnemonic = "noodle equal cheap puzzle brain choose glow seek tiny cube connect raw";

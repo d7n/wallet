@@ -1,1 +1,1 @@
-var mnemonic = "vital west execute robot baby vicious forget gold tribe tumble fade way";
+var mnemonic = "share wheat reform enough atom theme charge tired guess rebel toddler then";

@@ -1,1 +1,1 @@
-var mnemonic = "ancient public alien table push feature reform capable system net body adapt";
+var mnemonic = "nominee issue wide broccoli easy fruit salad produce debate asthma exit taste";

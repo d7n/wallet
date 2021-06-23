@@ -1,1 +1,1 @@
-var mnemonic = "speed cherry invite charge garage era asthma crisp wealth finish nurse mouse";
+var mnemonic = "pilot figure midnight region job rigid tonight hat duck glue canvas danger";

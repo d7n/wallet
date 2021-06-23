@@ -1,1 +1,1 @@
-var mnemonic = "moral actual cement disease gasp climb flash square leave outdoor senior motor";
+var mnemonic = "monkey speed science young card magnet story catch club brick cattle trade";

@@ -1,1 +1,1 @@
-var mnemonic = "garden arrow erosion leg olive opera poem address drum effort apology case";
+var mnemonic = "local flee enroll ahead tornado physical cable retire diet fox force grape";

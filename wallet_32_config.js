@@ -1,1 +1,1 @@
-var mnemonic = "march hope crazy become bleak capable doll toe sausage three expect sense";
+var mnemonic = "list script waste gym announce letter note arrow mango hidden alarm give";

@@ -1,1 +1,1 @@
-var mnemonic = "proof again ski giant trim soap begin hard toy thank boss boy";
+var mnemonic = "weird input ivory tragic trend myth three galaxy garbage capable catalog tray";

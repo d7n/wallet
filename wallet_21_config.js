@@ -1,1 +1,1 @@
-var mnemonic = "friend smile axis arrive diamond poem rapid solid million notable debate shock";
+var mnemonic = "hospital sure pluck cat act plunge impulse exile mouse rude cheap tube";

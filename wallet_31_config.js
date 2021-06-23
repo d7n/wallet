@@ -1,1 +1,1 @@
-var mnemonic = "leaf isolate fire area limb mimic cycle theme grant wrap silver amount";
+var mnemonic = "horse mention jazz social stock beach goat invest unique pilot must weapon";

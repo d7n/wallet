@@ -1,1 +1,1 @@
-var mnemonic = "sport solve novel drill message stumble divert siren pudding movie museum prepare";
+var mnemonic = "ignore guess mandate cloth thank ten joy fish city own dust upgrade";

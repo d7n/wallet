@@ -1,1 +1,1 @@
-var mnemonic = "rubber echo hotel fragile essence husband mirror rose output shy hood peasant";
+var mnemonic = "predict tell mango clay such parrot lab nest quiz anchor loop retire";

@@ -1,1 +1,1 @@
-var mnemonic = "price night jazz evoke decline poverty beauty claim casual pig subject stem";
+var mnemonic = "invite shadow hawk wood tumble nest table ignore machine purpose luggage embrace";

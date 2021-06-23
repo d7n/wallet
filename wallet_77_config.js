@@ -1,1 +1,1 @@
-var mnemonic = "power isolate giggle boil snack chest essay usual congress stumble there more";
+var mnemonic = "hurdle fork sadness corn picture plate fog museum hungry awful torch crash";

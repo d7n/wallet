@@ -1,1 +1,1 @@
-var mnemonic = "ranch action course hub shaft army angry execute kit want salt obtain";
+var mnemonic = "live exile scheme bar twist shallow stool impact smart decrease isolate helmet";

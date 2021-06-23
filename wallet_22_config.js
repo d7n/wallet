@@ -1,1 +1,1 @@
-var mnemonic = "midnight plastic finish daughter worth fly usage category truth stay puppy capable";
+var mnemonic = "sail elevator suggest tourist winter toddler reward good spend engine evil action";

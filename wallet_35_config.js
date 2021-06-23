@@ -1,1 +1,1 @@
-var mnemonic = "violin window multiply pioneer nut badge mistake scrap brave very squeeze unaware";
+var mnemonic = "truth hope lamp pull fence opinion sand plunge main wedding question december";

@@ -1,1 +1,1 @@
-var mnemonic = "sister museum chase scale actor obvious gas stamp comfort unveil lecture negative";
+var mnemonic = "enrich bulb decrease goat cook devote grant point piece pyramid glide figure";

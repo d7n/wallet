@@ -1,1 +1,1 @@
-var mnemonic = "spoil genre mass twelve honey flower wealth spread dust idle fantasy wall";
+var mnemonic = "powder useful debate box stone lava undo gauge story search dizzy timber";

@@ -1,1 +1,1 @@
-var mnemonic = "property solid twin bless mix message shoot clerk funny ability decorate idle";
+var mnemonic = "immense derive acid expect easily guilt cheap visual fly face gravity indicate";

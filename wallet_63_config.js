@@ -1,1 +1,1 @@
-var mnemonic = "quit slot have project net slab have wear crew knock kidney present";
+var mnemonic = "cake jeans quiz tiger useless light add claw casual jelly express dog";

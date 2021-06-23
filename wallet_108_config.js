@@ -1,1 +1,1 @@
-var mnemonic = "imitate circle perfect critic pattern dumb old onion border enroll coast common";
+var mnemonic = "govern rate fade maze seek arm convince vessel repeat aunt spell shoe";

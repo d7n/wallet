@@ -1,1 +1,1 @@
-var mnemonic = "bonus hazard hurt canyon tree eight leave mule symptom response glide unknown";
+var mnemonic = "slim gallery dry health chief swift autumn tired cannon close step visit";

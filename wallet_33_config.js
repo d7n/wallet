@@ -1,1 +1,1 @@
-var mnemonic = "beef raw miss ordinary notable attitude pipe avocado tourist digital rally program";
+var mnemonic = "joke witness angry initial betray spray april leg elephant receive sort poet";

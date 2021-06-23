@@ -1,1 +1,1 @@
-var mnemonic = "tiger payment age label outdoor sunset message next craft solve pencil tree";
+var mnemonic = "solar cupboard history capital captain renew twenty loyal tail flip arctic infant";

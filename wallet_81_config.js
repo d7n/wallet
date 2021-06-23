@@ -1,1 +1,1 @@
-var mnemonic = "educate cheese exact impact riot canal chef biology monkey mistake youth cloud";
+var mnemonic = "opinion sail vague retire price bubble system eye ski flight deal mushroom";

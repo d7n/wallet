@@ -1,1 +1,1 @@
-var mnemonic = "heavy letter youth fury talent quality insane solar hockey rare include captain";
+var mnemonic = "indoor dizzy then vivid rookie swallow remember minute wolf wet capable tribe";

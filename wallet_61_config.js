@@ -1,1 +1,1 @@
-var mnemonic = "hamster option divert apart guilt tiny sugar toss vicious account neutral alley";
+var mnemonic = "cotton frog jeans wealth relax project solve render eager nominee scene around";

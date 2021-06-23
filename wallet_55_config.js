@@ -1,1 +1,1 @@
-var mnemonic = "like pelican stereo fog neutral common lyrics text monitor cereal drama impose";
+var mnemonic = "long only chair nation entry slam anxiety load joy gym slush correct";

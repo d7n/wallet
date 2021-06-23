@@ -1,1 +1,1 @@
-var mnemonic = "cement history badge unable cram wheat faint decline million jungle border debris";
+var mnemonic = "hold twelve mule deliver vacuum control attend sword post wash innocent bargain";

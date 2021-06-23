@@ -1,1 +1,1 @@
-var mnemonic = "joke cactus leopard practice range carbon extra remove whisper retreat program voyage";
+var mnemonic = "opinion firm pink loop boost purchase blade deposit wise devote pull trap";

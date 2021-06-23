@@ -1,1 +1,1 @@
-var mnemonic = "blind crane team disorder area gather shed cause myth shell cute crane";
+var mnemonic = "season glare goat peasant ceiling that useless gate inmate laptop network siege";

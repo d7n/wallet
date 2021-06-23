@@ -1,1 +1,1 @@
-var mnemonic = "proud assist grace visa hammer twice mirror inner ghost unique wealth cotton";
+var mnemonic = "alone cake desert music soap fluid satoshi grit wedding head drastic edge";

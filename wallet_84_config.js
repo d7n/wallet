@@ -1,1 +1,1 @@
-var mnemonic = "decorate imitate gadget job manual network draw end room female owner alpha";
+var mnemonic = "dirt pulse burden isolate maid soul melody afraid wheel mail chef saddle";

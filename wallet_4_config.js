@@ -1,1 +1,1 @@
-var mnemonic = "naive annual present boat category digital december travel crystal mail appear silly";
+var mnemonic = "dirt fee recipe tourist useful bless weasel you nature stick bulk pitch";

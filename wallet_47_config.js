@@ -1,1 +1,1 @@
-var mnemonic = "front argue holiday kitten whisper solar avocado clay maximum seed matter base";
+var mnemonic = "predict curve unusual syrup chat habit pluck deposit dish wood smart orange";

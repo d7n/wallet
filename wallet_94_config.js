@@ -1,1 +1,1 @@
-var mnemonic = "sorry dune height caught van aspect torch into butter loyal course innocent";
+var mnemonic = "tent clinic language own unfair couple upset enforce neutral soul fossil draft";

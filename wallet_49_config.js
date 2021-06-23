@@ -1,1 +1,1 @@
-var mnemonic = "hard slow high twelve news ask account fragile public venture surround enter";
+var mnemonic = "climb bind bubble quote robust cross merit adjust animal circle resist unlock";

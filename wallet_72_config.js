@@ -1,1 +1,1 @@
-var mnemonic = "pioneer common fragile chat estate auction equal horse pill disorder devote choice";
+var mnemonic = "lizard excite enlist inner bus pledge entry range race tape churn chuckle";

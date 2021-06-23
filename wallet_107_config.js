@@ -1,1 +1,1 @@
-var mnemonic = "bus follow vivid female jealous true embrace fluid issue analyst link present";
+var mnemonic = "grief glow include finish random paper account hill devote derive require pistol";

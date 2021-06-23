@@ -1,1 +1,1 @@
-var mnemonic = "borrow crunch slow slam owner dress moral size program duty first frog";
+var mnemonic = "side monkey arctic harsh wheat diary quality rib matter burst cement gravity";

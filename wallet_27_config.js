@@ -1,1 +1,1 @@
-var mnemonic = "outside that parrot exact rack poverty west unusual coach equal pottery just";
+var mnemonic = "myth garage escape monitor salt rice sick switch giggle border law cook";

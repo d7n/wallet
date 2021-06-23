@@ -1,1 +1,1 @@
-var mnemonic = "across cable primary arm giraffe announce zebra tape blur giraffe field plastic";
+var mnemonic = "first climb quality drop emotion arrive culture sister chest dizzy bus device";

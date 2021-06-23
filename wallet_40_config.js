@@ -1,1 +1,1 @@
-var mnemonic = "wish raccoon blood expire notice enforce scene broom wink argue first when";
+var mnemonic = "steak trophy anxiety cave sudden simple inmate obtain demise hair tourist crumble";

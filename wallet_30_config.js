@@ -1,1 +1,1 @@
-var mnemonic = "spawn success mixture october space radio together idle party believe fresh helmet";
+var mnemonic = "phrase notable multiply solve glide scorpion seven hint parrot trap cattle basket";

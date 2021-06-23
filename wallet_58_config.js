@@ -1,1 +1,1 @@
-var mnemonic = "option lemon balance network average humor sport robust change derive wasp urban";
+var mnemonic = "depend attitude magnet fault seat few cry second infant ozone artefact merry";

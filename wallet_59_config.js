@@ -1,1 +1,1 @@
-var mnemonic = "leave muscle similar brisk walk present ball spend knee option erase ill";
+var mnemonic = "movie reflect silent click pudding belt artist sausage drop agree film grace";

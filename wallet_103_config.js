@@ -1,1 +1,1 @@
-var mnemonic = "scorpion kitchen slender collect suit attitude critic protect alert vibrant mercy close";
+var mnemonic = "sound disease future abuse shaft axis dragon collect second hurdle machine viable";

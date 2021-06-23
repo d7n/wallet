@@ -1,1 +1,1 @@
-var mnemonic = "rifle ritual furnace cluster magic actress coil cruise digital lyrics release define";
+var mnemonic = "deer loan mixture object music lens brick angry resource lift index mean";

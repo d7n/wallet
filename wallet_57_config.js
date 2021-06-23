@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo police already recycle prison right image slab use drink dance lesson";
+var mnemonic = "decrease gravity rival erase stone dust laundry result wear spray outer menu";

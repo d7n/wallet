@@ -1,1 +1,1 @@
-var mnemonic = "spend shed general autumn matter network smoke grocery inherit rapid unable valley";
+var mnemonic = "trim acid black sheriff gap group apart digital device luggage clay oil";

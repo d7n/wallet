@@ -1,1 +1,1 @@
-var mnemonic = "sting chimney nominee farm hero among road nest present renew canoe toast";
+var mnemonic = "swamp minimum liar peanut term fresh range mushroom burst buffalo rule garment";

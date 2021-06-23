@@ -1,1 +1,1 @@
-var mnemonic = "raw stairs people protect eight people uncover home armor change crystal notice";
+var mnemonic = "until weasel major medal episode brush enjoy clog mail raise multiply frequent";

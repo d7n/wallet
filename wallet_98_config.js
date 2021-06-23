@@ -1,1 +1,1 @@
-var mnemonic = "space lend squirrel vibrant beauty ship chronic derive element grape left stay";
+var mnemonic = "bright kite lava fiscal midnight coil visual phrase crash curve pool predict";

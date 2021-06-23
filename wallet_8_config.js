@@ -1,1 +1,1 @@
-var mnemonic = "olympic option height wool tonight copper evidence absorb they lounge boost warrior";
+var mnemonic = "sound robust slow obvious else mutual evil venture useful shoe slight despair";

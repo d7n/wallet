@@ -1,1 +1,1 @@
-var mnemonic = "ask guess palace weasel minute innocent daring axis spider group giggle orange";
+var mnemonic = "bleak please such sport clock orbit rebel bring solve deer buddy admit";

@@ -1,1 +1,1 @@
-var mnemonic = "debris leaf risk pole buffalo name churn income cram lift pepper suit";
+var mnemonic = "cactus release where satisfy faith timber expose body increase treat seat elegant";

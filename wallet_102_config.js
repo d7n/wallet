@@ -1,1 +1,1 @@
-var mnemonic = "attack idle family unhappy fever radio arrive paper basic monkey alter very";
+var mnemonic = "rabbit accuse toward disease rent eagle senior scatter elder priority home elbow";

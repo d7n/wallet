@@ -1,1 +1,1 @@
-var mnemonic = "aspect pilot nose input material beach quote crawl universe trophy cruel clerk";
+var mnemonic = "height pink jump art trap license daring gauge bar zoo panther opera";

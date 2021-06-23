@@ -1,1 +1,1 @@
-var mnemonic = "envelope grit defense bird scene mouse scheme rough story tent universe fox";
+var mnemonic = "tunnel happy brown stadium height before access club media usage spider ticket";

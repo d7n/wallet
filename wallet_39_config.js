@@ -1,1 +1,1 @@
-var mnemonic = "mechanic fire antenna such normal remove ladder size kit cluster segment hungry";
+var mnemonic = "canvas dress purse dad sheriff gravity dawn oak latin rich movie choose";

@@ -1,1 +1,1 @@
-var mnemonic = "cash cotton borrow defense pretty teach obscure invest claw mail oblige shed";
+var mnemonic = "kitten panic there recipe iron garment puppy crop mass elder video frog";

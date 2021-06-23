@@ -1,1 +1,1 @@
-var mnemonic = "feel cradle vault theme entire decline ask erosion quality inner april scatter";
+var mnemonic = "gain measure bring license teach express beyond weapon myth cycle visual position";

@@ -1,1 +1,1 @@
-var mnemonic = "cart fee raise nerve cotton flush village lottery erase minimum sing actress";
+var mnemonic = "tomorrow hollow mule emerge pulse arrow curve misery tag junk bone brisk";

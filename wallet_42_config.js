@@ -1,1 +1,1 @@
-var mnemonic = "stereo oak expand aisle produce okay ceiling frog minute check place zone";
+var mnemonic = "message antique illegal tourist parent phrase elbow exercise accident meat absurd sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "word forward step lazy ugly empower repeat violin thunder behind same culture";
+var mnemonic = "hard advance habit total genre farm select early cabbage brick never sea";

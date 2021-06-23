@@ -1,1 +1,1 @@
-var mnemonic = "popular penalty mail category cluster engine elevator husband forget dentist shoot west";
+var mnemonic = "protect faith window wisdom young upon drip throw copy cram stuff skate";

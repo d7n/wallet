@@ -1,1 +1,1 @@
-var mnemonic = "naive vast square vital neglect shift resemble answer convince horror pepper session";
+var mnemonic = "discover collect size result card butter object alien mimic cave pole shuffle";

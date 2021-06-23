@@ -1,1 +1,1 @@
-var mnemonic = "refuse defy denial pattern violin pilot source crazy amateur exclude trigger want";
+var mnemonic = "when width advice dignity host drill air inquiry heavy clerk agent mask";

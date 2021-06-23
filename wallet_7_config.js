@@ -1,1 +1,1 @@
-var mnemonic = "mixed tomorrow execute current giant release into fancy acoustic joke reward table";
+var mnemonic = "switch depend cluster month yellow manage tragic journey bright direct sail arena";

@@ -1,1 +1,1 @@
-var mnemonic = "design inmate general voyage pottery glory height lunch rabbit obscure produce side";
+var mnemonic = "light dilemma oil team badge note lend sign lunch memory artwork trash";

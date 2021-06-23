@@ -1,1 +1,1 @@
-var mnemonic = "above easy little before glad purchase volcano obscure walk boss disease taste";
+var mnemonic = "order hidden control zoo write relief staff another solve keep approve silly";

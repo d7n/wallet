@@ -1,1 +1,1 @@
-var mnemonic = "flee they blossom pause illness problem crumble stamp matrix reform cross law";
+var mnemonic = "leopard cause lobster material dream dentist buzz marine now depart join empower";

@@ -1,1 +1,1 @@
-var mnemonic = "endless core cheap feed sing move fruit beauty twin divert bundle sick";
+var mnemonic = "journey sick month equal dial kingdom off increase fat rival taxi tattoo";

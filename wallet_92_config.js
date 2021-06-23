@@ -1,1 +1,1 @@
-var mnemonic = "intact kiwi leaf eyebrow deer crystal private tuition all runway hint mutual";
+var mnemonic = "salmon dawn giraffe doctor come find pink hazard double wall must rule";

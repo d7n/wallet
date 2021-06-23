@@ -1,1 +1,1 @@
-var mnemonic = "awake lady feel coral office brush car cage siege sudden jazz great";
+var mnemonic = "canoe clip adjust beach train chalk cash permit vibrant assault quality orphan";

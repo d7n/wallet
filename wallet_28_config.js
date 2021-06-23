@@ -1,1 +1,1 @@
-var mnemonic = "escape law wear neck primary light inside uncover maximum moon fever shaft";
+var mnemonic = "theme gloom ethics arctic unaware during woman laptop arrange observe material wage";

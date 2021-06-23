@@ -1,1 +1,1 @@
-var mnemonic = "group tribe little panda tenant aerobic injury brain since anxiety adjust sand";
+var mnemonic = "nothing author breeze stone thought tired release legend hamster apple oak summer";

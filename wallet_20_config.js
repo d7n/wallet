@@ -1,1 +1,1 @@
-var mnemonic = "claim bar home raise tortoise neutral fatal melt genius walnut clap identify";
+var mnemonic = "upgrade maple adjust story usage unknown garment sad toe tell stairs mango";

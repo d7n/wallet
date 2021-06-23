@@ -1,1 +1,1 @@
-var mnemonic = "fossil lecture script exact help lamp primary amazing kick unlock bridge kid";
+var mnemonic = "dune outside dolphin pigeon veteran suspect seek volcano cherry digital guitar piece";

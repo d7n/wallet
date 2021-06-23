@@ -1,1 +1,1 @@
-var mnemonic = "slow aware document oblige absorb lawn warrior gap reduce reduce hundred cube";
+var mnemonic = "prefer art leader uncover pigeon search later special wave unusual pistol sniff";

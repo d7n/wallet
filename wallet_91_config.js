@@ -1,1 +1,1 @@
-var mnemonic = "force mad patch leader balance write aerobic helmet layer crew dilemma energy";
+var mnemonic = "chimney climb scrub gain sunny jewel paddle nice that adjust because sleep";

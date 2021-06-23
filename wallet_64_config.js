@@ -1,1 +1,1 @@
-var mnemonic = "since eight parade kite trigger camera world doll error tool umbrella word";
+var mnemonic = "aspect organ slab grid erosion day chef aisle engage spot gadget attend";

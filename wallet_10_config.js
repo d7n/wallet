@@ -1,1 +1,1 @@
-var mnemonic = "rule trade symbol office perfect ski warfare awful alert ticket fashion usual";
+var mnemonic = "dynamic trophy awesome marriage buddy shift auction canvas elder rookie father area";

@@ -1,1 +1,1 @@
-var mnemonic = "fade degree agent seek chalk payment crew unable short proud swamp slab";
+var mnemonic = "cotton hood drip sign only crucial enact glue clarify pattern night idle";
