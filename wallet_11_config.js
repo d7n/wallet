@@ -1,1 +1,1 @@
-var mnemonic = "cave congress shadow plunge drill remind window return genuine until crew expire";
+var mnemonic = "rubber pig defy trade inside dice convince clump mouse spot before unique";

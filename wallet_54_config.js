@@ -1,1 +1,1 @@
-var mnemonic = "state they coin trend install primary hour table differ tattoo kite muffin";
+var mnemonic = "slot morning crime once model skull cycle detect bachelor attack advance slow";

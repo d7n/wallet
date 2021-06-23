@@ -1,1 +1,1 @@
-var mnemonic = "midnight habit cigar drop force main address dragon eager surround skill unhappy";
+var mnemonic = "canoe empty series urge island range box horse tumble rapid apart luxury";

@@ -1,1 +1,1 @@
-var mnemonic = "nephew youth spice episode patch crouch city awake ripple dial ring slide";
+var mnemonic = "nurse cinnamon width pass time because afraid topic aerobic post mind sauce";

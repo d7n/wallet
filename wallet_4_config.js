@@ -1,1 +1,1 @@
-var mnemonic = "pigeon carpet verb spoil march uncle trick wet trim convince cruel dawn";
+var mnemonic = "doctor boss useful maid slab sing minimum alpha emotion cattle trash vivid";

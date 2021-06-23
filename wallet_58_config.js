@@ -1,1 +1,1 @@
-var mnemonic = "match woman cry nothing buddy island idle jewel citizen citizen theme banner";
+var mnemonic = "mouse trade flag general luggage alter visual elevator wheat author tower host";

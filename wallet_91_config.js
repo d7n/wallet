@@ -1,1 +1,1 @@
-var mnemonic = "route fragile vehicle arrange pave piano used shuffle giggle neither file custom";
+var mnemonic = "proof ghost jewel blouse cereal parade fruit carbon buyer impose neck limit";

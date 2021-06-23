@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow void able blind december sketch stadium melody antique neither coast cactus";
+var mnemonic = "pole mercy appear cereal elephant sound invite midnight pony margin intact coral";

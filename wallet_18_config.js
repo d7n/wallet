@@ -1,1 +1,1 @@
-var mnemonic = "buddy drift congress reject odor school monster plastic left cute ridge fade";
+var mnemonic = "jump brother novel hello marble usage punch faint funny saddle gown oval";

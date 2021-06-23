@@ -1,1 +1,1 @@
-var mnemonic = "feed slot pulp scrub debate minute decrease artist render promote duty casual";
+var mnemonic = "shift domain able double swamp deer uncover leg salmon fluid seek melody";

@@ -1,1 +1,1 @@
-var mnemonic = "finish hen around kite party dune kite jacket advance stand element release";
+var mnemonic = "broken edit brand urban gauge keen chapter cradle kidney weapon oblige wheel";

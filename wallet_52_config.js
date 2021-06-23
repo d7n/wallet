@@ -1,1 +1,1 @@
-var mnemonic = "cool solve play never bag outer crowd scout elephant come mix unable";
+var mnemonic = "shy round boost damp estate damage click once point will side merge";

@@ -1,1 +1,1 @@
-var mnemonic = "hen want scissors monkey puppy solar quit very happy lottery fiscal promote";
+var mnemonic = "bracket weird sponsor sample weapon lucky dragon donor burst method silver oval";

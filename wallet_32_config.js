@@ -1,1 +1,1 @@
-var mnemonic = "stereo liquid fatigue scatter gallery now output garden hello slide make throw";
+var mnemonic = "eight kind lobster kiwi force shiver egg bullet mom domain later truck";

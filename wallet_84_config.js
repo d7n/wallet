@@ -1,1 +1,1 @@
-var mnemonic = "envelope where veteran aisle install run deal symbol wrong art skill asthma";
+var mnemonic = "cost grid media system across cycle divorce disagree either sea cushion orient";

@@ -1,1 +1,1 @@
-var mnemonic = "meadow able voice distance rate shoot walnut leaf dentist leopard laptop atom";
+var mnemonic = "spoon fish lava maid famous thought cheese empty luxury expect nuclear demand";

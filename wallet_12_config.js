@@ -1,1 +1,1 @@
-var mnemonic = "embrace sick laptop volcano attract small pair blast habit fossil mean surround";
+var mnemonic = "mansion glue misery want tent material save gate deer obscure kind lens";

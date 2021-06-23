@@ -1,1 +1,1 @@
-var mnemonic = "hockey tuition end remind split bag repeat alarm coach mouse bright galaxy";
+var mnemonic = "border worry found ask jazz city lecture harsh smoke near flip mosquito";

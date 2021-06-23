@@ -1,1 +1,1 @@
-var mnemonic = "cradle join before bean front tumble marriage betray agent boost twist measure";
+var mnemonic = "build dirt lend social enjoy buddy permit ride rent usual pet lend";

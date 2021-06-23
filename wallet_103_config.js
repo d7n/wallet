@@ -1,1 +1,1 @@
-var mnemonic = "piece mom outside lyrics over wide drink cannon month upper mind scan";
+var mnemonic = "scatter fan slight square lion crucial cereal save swift pluck when wealth";

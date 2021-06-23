@@ -1,1 +1,1 @@
-var mnemonic = "element scare heavy wide season dice heart gentle tilt couch exit remain";
+var mnemonic = "donate slide health style swear flag exhibit program then exchange crisp tunnel";

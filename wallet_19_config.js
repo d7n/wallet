@@ -1,1 +1,1 @@
-var mnemonic = "rude train room token reform process slow bench cheese type transfer lemon";
+var mnemonic = "mixed strategy label engine erode reduce sibling wash shield boring inquiry charge";

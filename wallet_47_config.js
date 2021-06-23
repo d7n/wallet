@@ -1,1 +1,1 @@
-var mnemonic = "praise era able dinner surge coil impulse execute path wide slice head";
+var mnemonic = "crater tragic couch area law stand gadget situate soup tonight ripple airport";

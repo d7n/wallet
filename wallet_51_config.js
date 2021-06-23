@@ -1,1 +1,1 @@
-var mnemonic = "enemy transfer dizzy loud figure waste put expose boring nature code title";
+var mnemonic = "slight general popular wise circle benefit hero soap young note mutual scorpion";

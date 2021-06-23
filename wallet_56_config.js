@@ -1,1 +1,1 @@
-var mnemonic = "ten patrol fan cool capital current merit ramp stumble harbor huge wasp";
+var mnemonic = "vibrant medal divorce spend fine refuse total wrist reason olive pair yellow";

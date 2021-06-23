@@ -1,1 +1,1 @@
-var mnemonic = "addict craft spice myth crime leaf body indoor alley layer lady upset";
+var mnemonic = "love great capital other couch velvet armor cricket defense gospel swim vehicle";

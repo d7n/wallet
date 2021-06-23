@@ -1,1 +1,1 @@
-var mnemonic = "punch cable level solar effort link nature heavy wonder jacket recycle night";
+var mnemonic = "hip daring damage sugar movie another drama sad estate stove verify assist";

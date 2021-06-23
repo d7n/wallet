@@ -1,1 +1,1 @@
-var mnemonic = "whisper shed cherry radio humor wish popular initial orient rural anchor leave";
+var mnemonic = "cherry slice sleep fly into fossil creek elevator quality forum output april";

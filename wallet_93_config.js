@@ -1,1 +1,1 @@
-var mnemonic = "nerve seek inform whisper plastic coast tell fabric sell prison frame culture";
+var mnemonic = "repair valley speed talk bitter glide mosquito pair believe north legal orphan";

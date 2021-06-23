@@ -1,1 +1,1 @@
-var mnemonic = "raccoon table success trumpet echo estate tattoo fantasy trigger approve hamster surround";
+var mnemonic = "tired caught behave carbon stamp arrest material sister silver differ robot unit";

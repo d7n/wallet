@@ -1,1 +1,1 @@
-var mnemonic = "faint breeze bronze give surface combine street cave prosper palace pumpkin island";
+var mnemonic = "ugly crumble enjoy atom tooth vast focus safe slush scrub juice wrong";

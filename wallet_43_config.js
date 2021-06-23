@@ -1,1 +1,1 @@
-var mnemonic = "nation enemy above narrow envelope power lesson taste flame goddess target hood";
+var mnemonic = "dutch merge urban letter picnic elder same foster endless aware hello capable";

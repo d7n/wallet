@@ -1,1 +1,1 @@
-var mnemonic = "flower subway require brave enroll napkin glory guide few bench sphere pink";
+var mnemonic = "hole lounge primary wrap afford present silent miracle foam tower fine they";

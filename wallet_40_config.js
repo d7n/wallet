@@ -1,1 +1,1 @@
-var mnemonic = "phrase giraffe crazy saddle bonus current hero pig any issue find unfair";
+var mnemonic = "pole ladder always drive wash glove forest eternal detail ball duty hotel";

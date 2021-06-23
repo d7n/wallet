@@ -1,1 +1,1 @@
-var mnemonic = "gallery army fortune click gap rifle peanut crisp kitten need rubber jungle";
+var mnemonic = "absent dirt solution fetch outside demise iron orphan resource cheap dawn trouble";

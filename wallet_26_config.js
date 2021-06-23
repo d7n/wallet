@@ -1,1 +1,1 @@
-var mnemonic = "lazy coil wear treat boost build link hero response step gather garbage";
+var mnemonic = "trophy globe cube victory runway siege fitness van click urge picture furnace";

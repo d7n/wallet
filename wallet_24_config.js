@@ -1,1 +1,1 @@
-var mnemonic = "lemon blood member awake glory possible month quantum glare derive stamp wealth";
+var mnemonic = "brush observe priority tunnel since token basic magic nothing isolate tree solid";

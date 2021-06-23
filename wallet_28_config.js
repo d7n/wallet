@@ -1,1 +1,1 @@
-var mnemonic = "tell error strategy purpose explain polar tattoo coconut hidden mercy city valve";
+var mnemonic = "goat aisle urge sight drink mercy climb audit reason desk pulse health";

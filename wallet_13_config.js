@@ -1,1 +1,1 @@
-var mnemonic = "fine purpose toast rabbit group filter expire frequent problem guess float antique";
+var mnemonic = "judge embody sample summer beyond napkin escape field sniff mean tomato correct";

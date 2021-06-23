@@ -1,1 +1,1 @@
-var mnemonic = "surprise senior match medal cactus service hobby system stone judge harvest hurry";
+var mnemonic = "misery creek head snack obscure help frame ride phone creek wedding uphold";

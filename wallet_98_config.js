@@ -1,1 +1,1 @@
-var mnemonic = "sell carpet truck age fit opinion nasty damp sister purity letter wing";
+var mnemonic = "chronic monster service print winner head memory mountain orient city city hard";

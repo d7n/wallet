@@ -1,1 +1,1 @@
-var mnemonic = "final album pumpkin present train lottery town pulse amateur tuition suit magic";
+var mnemonic = "upset dress glimpse scare ski bicycle bus upset front legal broccoli wage";

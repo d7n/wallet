@@ -1,1 +1,1 @@
-var mnemonic = "auto draft actual violin family develop reward organ assume amateur vacant add";
+var mnemonic = "stable menu ghost jacket blood machine elder average digital say police correct";

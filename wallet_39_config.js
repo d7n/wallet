@@ -1,1 +1,1 @@
-var mnemonic = "fluid disagree border estate coral antique elegant sock donkey festival night vague";
+var mnemonic = "cram sponsor organ trap jump bundle frozen stone observe exhibit survey embark";

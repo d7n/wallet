@@ -1,1 +1,1 @@
-var mnemonic = "special cement attitude kit labor rhythm chuckle merit wheel weasel food capable";
+var mnemonic = "cannon raccoon moment pride wink toe alien pulse drill dial eyebrow tone";

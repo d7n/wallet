@@ -1,1 +1,1 @@
-var mnemonic = "metal finger old hobby feature dynamic lamp bitter proof weird globe ladder";
+var mnemonic = "observe end novel adjust juice caution inform enact business eight exotic window";

@@ -1,1 +1,1 @@
-var mnemonic = "shop round host december eye jelly leaf aim expire dress energy sad";
+var mnemonic = "manual edit fame please include carpet coil side evil solid donor gauge";

@@ -1,1 +1,1 @@
-var mnemonic = "excite hole repair victory degree climb cage nasty point spawn shed arm";
+var mnemonic = "above pet minor chat skin average spawn bomb worry vanish giggle couch";

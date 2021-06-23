@@ -1,1 +1,1 @@
-var mnemonic = "retire gauge person exhaust mouse random ugly thank sunny fragile shove basket";
+var mnemonic = "shoot cool spatial will require ladder abstract inspire miss hospital brief mom";

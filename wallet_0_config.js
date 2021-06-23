@@ -1,1 +1,1 @@
-var mnemonic = "must gentle rough service tube debate tunnel program expire hazard dinosaur pulp";
+var mnemonic = "media indicate oblige dentist keen approve dinner season tell song grocery travel";

@@ -1,1 +1,1 @@
-var mnemonic = "sibling elder cloth mystery renew uncover teach tell rural own alter ensure";
+var mnemonic = "hub shrimp dial salon stove ride ship panic seven ski arch capable";

@@ -1,1 +1,1 @@
-var mnemonic = "girl result mouse section sentence leopard delay print cargo maze zoo come";
+var mnemonic = "rail tuna onion forest fabric install you good reflect retreat galaxy spider";

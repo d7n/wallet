@@ -1,1 +1,1 @@
-var mnemonic = "pitch address fat device ensure know later comic shoot coin trend drastic";
+var mnemonic = "define sad say double ribbon draft outside tenant green doctor brief error";

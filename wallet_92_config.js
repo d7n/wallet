@@ -1,1 +1,1 @@
-var mnemonic = "town kit beauty opinion salmon thumb zebra match ghost cherry broken envelope";
+var mnemonic = "inner occur little develop latin hurt squirrel book spawn party moon radar";

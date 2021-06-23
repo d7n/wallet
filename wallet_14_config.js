@@ -1,1 +1,1 @@
-var mnemonic = "satoshi output what material minimum action wife fun venue wheat style attack";
+var mnemonic = "beef evoke panel eager fame gasp service athlete broom letter lab mail";

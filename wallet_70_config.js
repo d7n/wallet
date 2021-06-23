@@ -1,1 +1,1 @@
-var mnemonic = "ocean evidence plunge push unit ship hungry dignity exhaust health very shove";
+var mnemonic = "seven toss boss joke jar barely learn wife warm wedding long nice";

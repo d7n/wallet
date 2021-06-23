@@ -1,1 +1,1 @@
-var mnemonic = "myself zebra dice pass rate patrol reveal panther idle agent way ride";
+var mnemonic = "wait able grape venue riot crew recipe pipe curve rifle roast flush";

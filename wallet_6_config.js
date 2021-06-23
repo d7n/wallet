@@ -1,1 +1,1 @@
-var mnemonic = "tail hobby lamp soccer garment where goddess accuse tomato tomorrow umbrella spray";
+var mnemonic = "grab region gather glance found cat embrace bone produce nasty wire voice";

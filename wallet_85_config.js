@@ -1,1 +1,1 @@
-var mnemonic = "enter shy busy spread stand dismiss protect peanut into safe various board";
+var mnemonic = "village screen screen wrestle reflect ensure example rhythm punch expire property thunder";

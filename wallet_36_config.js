@@ -1,1 +1,1 @@
-var mnemonic = "tilt tennis doll deer sugar rib message cruel squeeze hockey elephant yard";
+var mnemonic = "coin glide blast entry gesture parade much decide awake devote much work";

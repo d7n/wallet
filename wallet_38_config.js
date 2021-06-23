@@ -1,1 +1,1 @@
-var mnemonic = "ocean era weird supply crane wonder mule innocent exercise minimum race combine";
+var mnemonic = "slice mistake skin snow whip doctor syrup park rapid solution tank mixture";

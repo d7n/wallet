@@ -1,1 +1,1 @@
-var mnemonic = "bone ivory hub someone cliff fashion current disorder cover april leaf there";
+var mnemonic = "mutual entire century laptop grocery south holiday diet skate pistol aerobic kit";

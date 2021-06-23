@@ -1,1 +1,1 @@
-var mnemonic = "drink frog borrow exist clock merry food need dog olive strike drift";
+var mnemonic = "believe awful sad kangaroo multiply body weird curve three bamboo nothing often";

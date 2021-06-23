@@ -1,1 +1,1 @@
-var mnemonic = "invest design knife desk machine vanish summer cliff agree all trust infant";
+var mnemonic = "frequent cake pioneer exit nephew under abstract rural satisfy tent permit assume";

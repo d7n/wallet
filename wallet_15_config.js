@@ -1,1 +1,1 @@
-var mnemonic = "ethics collect satoshi amused enhance wet exact steak level sheriff future crisp";
+var mnemonic = "current innocent glance train survey ripple ill sheriff melt retire similar fruit";

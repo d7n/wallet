@@ -1,1 +1,1 @@
-var mnemonic = "special spray romance bracket thumb inside fever okay point dwarf dentist system";
+var mnemonic = "rich problem bridge squirrel hire payment duck pear radio moral crisp february";

@@ -1,1 +1,1 @@
-var mnemonic = "gallery edit solid wool section shaft room chapter version lumber myth leg";
+var mnemonic = "blouse maple check deputy staff version scatter waste episode split thumb tourist";

@@ -1,1 +1,1 @@
-var mnemonic = "empower ignore kingdom depth stumble moment display car regular clap dismiss stay";
+var mnemonic = "wage walk illegal ginger heavy prosper baby frog mind enrich spawn bleak";

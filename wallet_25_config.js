@@ -1,1 +1,1 @@
-var mnemonic = "safe lumber furnace place issue hand absent shoulder inflict neither vivid kit";
+var mnemonic = "address small market auction congress decade piano give blame nasty come foot";

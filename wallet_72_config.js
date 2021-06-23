@@ -1,1 +1,1 @@
-var mnemonic = "coyote soap carbon muffin squirrel remove subject limb penalty tool twin today";
+var mnemonic = "loyal ordinary draft deal tuna roof edge scorpion kind garbage region leisure";

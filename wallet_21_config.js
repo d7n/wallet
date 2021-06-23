@@ -1,1 +1,1 @@
-var mnemonic = "pipe dismiss ability clarify myself smile oven satisfy vague brass rookie update";
+var mnemonic = "matter hedgehog brass dignity snap coach jealous muscle climb awake ankle cancel";

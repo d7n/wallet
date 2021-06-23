@@ -1,1 +1,1 @@
-var mnemonic = "asset coconut eager globe attack unlock name system good tissue phrase please";
+var mnemonic = "aerobic leave fantasy advance visa wave buffalo barrel assist beyond clock chronic";

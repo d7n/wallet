@@ -1,1 +1,1 @@
-var mnemonic = "deer between pact axis field ensure silk wash once mask current stand";
+var mnemonic = "mixed right bachelor sea owner expect execute accuse intact ramp coyote two";

@@ -1,1 +1,1 @@
-var mnemonic = "market behave reunion verify castle crazy object bubble voice rubber hungry quit";
+var mnemonic = "rack lumber shop meadow dumb palm artefact glue wage tower load shoe";

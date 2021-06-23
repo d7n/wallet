@@ -1,1 +1,1 @@
-var mnemonic = "page spare distance visual photo view view ring ecology run always swallow";
+var mnemonic = "govern island trial squirrel crush coffee penalty have faint mimic exchange culture";

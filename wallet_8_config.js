@@ -1,1 +1,1 @@
-var mnemonic = "abuse wood betray sleep tennis hawk coast wide spend final universe mail";
+var mnemonic = "angle own detect seed pill major situate inch warrior buzz frequent legend";

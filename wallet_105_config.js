@@ -1,1 +1,1 @@
-var mnemonic = "easy slogan average between silly stuff cream kid advance senior budget public";
+var mnemonic = "fence effort addict moon stick bread poem method weapon vital skill acid";

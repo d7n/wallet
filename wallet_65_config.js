@@ -1,1 +1,1 @@
-var mnemonic = "tiger arch tunnel picture render cash front soft answer imitate symbol sand";
+var mnemonic = "gas apple youth gesture glare describe sausage cup bless rural youth flower";

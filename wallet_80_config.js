@@ -1,1 +1,1 @@
-var mnemonic = "snake head sketch pizza across gaze skin fuel ill connect slide patrol";
+var mnemonic = "bulb confirm cause develop general bus suspect badge stable slice canvas pair";

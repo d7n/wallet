@@ -1,1 +1,1 @@
-var mnemonic = "little roof cross muscle cattle merit install inch appear venture double face";
+var mnemonic = "another peasant play custom indicate vote van iron general pencil tiny review";

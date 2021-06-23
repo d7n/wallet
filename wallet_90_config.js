@@ -1,1 +1,1 @@
-var mnemonic = "cycle enroll episode suggest cute strong various nuclear north what slam wreck";
+var mnemonic = "polar fury achieve lemon patrol bracket monster twist fancy surprise session copper";

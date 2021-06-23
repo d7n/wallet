@@ -1,1 +1,1 @@
-var mnemonic = "face cream copper apart strategy whip vanish uniform express today multiply hole";
+var mnemonic = "mad size grocery lamp shaft festival busy replace rack post appear clock";

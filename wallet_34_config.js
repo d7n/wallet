@@ -1,1 +1,1 @@
-var mnemonic = "book person thumb vital age film priority clarify cage tell hurt cry";
+var mnemonic = "view idle inside crush whisper body inquiry travel top boss latin hungry";

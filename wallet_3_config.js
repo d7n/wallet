@@ -1,1 +1,1 @@
-var mnemonic = "depth shallow doll boost rough fashion hen proud stem proof zero govern";
+var mnemonic = "snack hotel limb ensure forget admit capital kiwi laundry crime paper addict";

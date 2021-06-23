@@ -1,1 +1,1 @@
-var mnemonic = "syrup move portion coral wide gym sock assault combine surge gravity deputy";
+var mnemonic = "loan suggest tragic another street enable wire sort relief perfect enhance cinnamon";

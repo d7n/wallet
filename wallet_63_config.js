@@ -1,1 +1,1 @@
-var mnemonic = "match jungle into sand device focus wood soldier squeeze tiny umbrella crew";
+var mnemonic = "appear stay seek stumble economy luggage tray mass program kit climb sock";

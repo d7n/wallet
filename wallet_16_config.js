@@ -1,1 +1,1 @@
-var mnemonic = "coral wagon melody rib shuffle bitter power year school sea sun assault";
+var mnemonic = "snow scene begin fresh wealth miss dolphin spin tone connect talent pepper";
