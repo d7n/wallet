@@ -1,1 +1,1 @@
-var mnemonic = "second miss speed rapid blue theme announce traffic arena govern prison spawn";
+var mnemonic = "tail hobby lamp soccer garment where goddess accuse tomato tomorrow umbrella spray";

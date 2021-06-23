@@ -1,1 +1,1 @@
-var mnemonic = "palace room nest scatter plastic heavy tiny cruel fitness today cattle kid";
+var mnemonic = "pipe dismiss ability clarify myself smile oven satisfy vague brass rookie update";

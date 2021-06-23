@@ -1,1 +1,1 @@
-var mnemonic = "minute cereal gaze crash violin ball faith claim hybrid engage can hundred";
+var mnemonic = "must gentle rough service tube debate tunnel program expire hazard dinosaur pulp";

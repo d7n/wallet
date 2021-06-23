@@ -1,1 +1,1 @@
-var mnemonic = "history fantasy nephew eager oak license renew kangaroo sausage keen trend remove";
+var mnemonic = "finish hen around kite party dune kite jacket advance stand element release";

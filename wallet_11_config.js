@@ -1,1 +1,1 @@
-var mnemonic = "pitch supply dial cannon glove involve illegal bounce orbit undo pink fat";
+var mnemonic = "cave congress shadow plunge drill remind window return genuine until crew expire";

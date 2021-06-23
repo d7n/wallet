@@ -1,1 +1,1 @@
-var mnemonic = "sail fame exhaust mandate tonight decide card lesson save noise utility project";
+var mnemonic = "town kit beauty opinion salmon thumb zebra match ghost cherry broken envelope";

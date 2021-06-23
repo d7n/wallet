@@ -1,1 +1,1 @@
-var mnemonic = "exit artwork original elephant method stable dilemma fog sentence own scrap there";
+var mnemonic = "correct view shoot fetch slice bunker castle replace lounge toddler wolf own";

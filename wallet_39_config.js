@@ -1,1 +1,1 @@
-var mnemonic = "panther envelope clip obey reject must inner draft sun shoulder correct dove";
+var mnemonic = "fluid disagree border estate coral antique elegant sock donkey festival night vague";

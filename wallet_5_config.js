@@ -1,1 +1,1 @@
-var mnemonic = "erupt fan act boat meadow mimic dolphin scare false recipe jealous pear";
+var mnemonic = "hockey tuition end remind split bag repeat alarm coach mouse bright galaxy";

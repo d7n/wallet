@@ -1,1 +1,1 @@
-var mnemonic = "miracle phone enemy index odor weapon gentle gloom scout coffee taste panel";
+var mnemonic = "drink frog borrow exist clock merry food need dog olive strike drift";

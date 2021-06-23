@@ -1,1 +1,1 @@
-var mnemonic = "language leaf jacket under book pupil orange rifle cash rather immune refuse";
+var mnemonic = "cool solve play never bag outer crowd scout elephant come mix unable";

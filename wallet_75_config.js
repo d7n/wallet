@@ -1,1 +1,1 @@
-var mnemonic = "survey expect scan borrow purchase boring castle harvest size witness orchard marble";
+var mnemonic = "syrup move portion coral wide gym sock assault combine surge gravity deputy";

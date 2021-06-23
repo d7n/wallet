@@ -1,1 +1,1 @@
-var mnemonic = "bundle flame cover layer viable joy trophy hip fine kite foil pluck";
+var mnemonic = "sell carpet truck age fit opinion nasty damp sister purity letter wing";

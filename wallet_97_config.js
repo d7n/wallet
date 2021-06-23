@@ -1,1 +1,1 @@
-var mnemonic = "fetch weird silver buyer pony chat club napkin tourist wife detail diesel";
+var mnemonic = "length consider tooth infant silly beauty guard wire cheese deliver juice firm";

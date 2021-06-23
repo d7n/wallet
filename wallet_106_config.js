@@ -1,1 +1,1 @@
-var mnemonic = "cliff dutch nephew trial vacant impulse toe seed celery banner dynamic foot";
+var mnemonic = "hen want scissors monkey puppy solar quit very happy lottery fiscal promote";

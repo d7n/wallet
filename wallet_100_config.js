@@ -1,1 +1,1 @@
-var mnemonic = "hold turkey opera giant sleep birth hurt call divorce retreat pony lyrics";
+var mnemonic = "final album pumpkin present train lottery town pulse amateur tuition suit magic";

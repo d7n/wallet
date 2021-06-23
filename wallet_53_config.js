@@ -1,1 +1,1 @@
-var mnemonic = "behind fix sunny sort veteran crowd cable cake pioneer dove pony hero";
+var mnemonic = "original side other lecture feature unknown second wave unhappy physical upset forest";

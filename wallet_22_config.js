@@ -1,1 +1,1 @@
-var mnemonic = "supply accuse conduct crawl elephant ethics neglect cover term bless reduce hero";
+var mnemonic = "excite hole repair victory degree climb cage nasty point spawn shed arm";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol pledge legend luggage tourist dumb drop resist hunt over asthma cool";
+var mnemonic = "tilt tennis doll deer sugar rib message cruel squeeze hockey elephant yard";

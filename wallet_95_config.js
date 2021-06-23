@@ -1,1 +1,1 @@
-var mnemonic = "solid flat eight uniform peanut degree finish despair mention prefer pioneer spend";
+var mnemonic = "whisper shed cherry radio humor wish popular initial orient rural anchor leave";

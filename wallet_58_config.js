@@ -1,1 +1,1 @@
-var mnemonic = "icon reduce fabric funny iron lift soldier pact regret enrich olive tone";
+var mnemonic = "match woman cry nothing buddy island idle jewel citizen citizen theme banner";

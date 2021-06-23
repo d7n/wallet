@@ -1,1 +1,1 @@
-var mnemonic = "version accuse scrap actress worry common begin hurdle donate fame just notable";
+var mnemonic = "tell error strategy purpose explain polar tattoo coconut hidden mercy city valve";

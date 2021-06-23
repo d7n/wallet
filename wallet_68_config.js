@@ -1,1 +1,1 @@
-var mnemonic = "ladder settle flat cycle permit senior crop dash depart age thrive weekend";
+var mnemonic = "punch cable level solar effort link nature heavy wonder jacket recycle night";

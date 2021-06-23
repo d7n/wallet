@@ -1,1 +1,1 @@
-var mnemonic = "daughter orient penalty fit thing coast coyote village water stage bacon exist";
+var mnemonic = "embrace sick laptop volcano attract small pair blast habit fossil mean surround";

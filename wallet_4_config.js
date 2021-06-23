@@ -1,1 +1,1 @@
-var mnemonic = "sustain rely relax agree tube place local bench occur expire rapid fee";
+var mnemonic = "pigeon carpet verb spoil march uncle trick wet trim convince cruel dawn";

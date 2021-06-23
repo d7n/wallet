@@ -1,1 +1,1 @@
-var mnemonic = "rookie auto text camera thank pet scissors bicycle april learn siren fly";
+var mnemonic = "gallery army fortune click gap rifle peanut crisp kitten need rubber jungle";

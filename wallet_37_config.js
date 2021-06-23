@@ -1,1 +1,1 @@
-var mnemonic = "wear order dismiss clean wine soda hip flat glance waste lyrics salon";
+var mnemonic = "deer between pact axis field ensure silk wash once mask current stand";

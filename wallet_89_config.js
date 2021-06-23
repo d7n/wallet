@@ -1,1 +1,1 @@
-var mnemonic = "lemon prize muffin loyal enforce sea reveal nurse brother angry noble drink";
+var mnemonic = "raccoon table success trumpet echo estate tattoo fantasy trigger approve hamster surround";

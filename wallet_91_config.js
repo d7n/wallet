@@ -1,1 +1,1 @@
-var mnemonic = "year attend hair test virtual climb slender property come derive chair report";
+var mnemonic = "route fragile vehicle arrange pave piano used shuffle giggle neither file custom";

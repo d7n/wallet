@@ -1,1 +1,1 @@
-var mnemonic = "second morning risk candy rapid caution bullet mutual donkey food arrow legend";
+var mnemonic = "legend invest pretty twice canyon vault target minute pledge soccer tone tuition";

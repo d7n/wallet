@@ -1,1 +1,1 @@
-var mnemonic = "civil cruel beef eight rough okay size legal hair coyote finger divert";
+var mnemonic = "element scare heavy wide season dice heart gentle tilt couch exit remain";

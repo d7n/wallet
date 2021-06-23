@@ -1,1 +1,1 @@
-var mnemonic = "rigid salon blanket open blade baby hand ladder invest erupt toast volume";
+var mnemonic = "myself zebra dice pass rate patrol reveal panther idle agent way ride";

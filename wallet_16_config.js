@@ -1,1 +1,1 @@
-var mnemonic = "candy dad category when surround social error worry gossip client pole hurt";
+var mnemonic = "coral wagon melody rib shuffle bitter power year school sea sun assault";

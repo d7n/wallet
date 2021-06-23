@@ -1,1 +1,1 @@
-var mnemonic = "catalog parent staff type trade notice shove vibrant humble panther royal nut";
+var mnemonic = "nation enemy above narrow envelope power lesson taste flame goddess target hood";

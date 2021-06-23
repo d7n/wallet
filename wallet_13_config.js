@@ -1,1 +1,1 @@
-var mnemonic = "nature shoulder degree involve tuition choice material text monitor spray butter office";
+var mnemonic = "fine purpose toast rabbit group filter expire frequent problem guess float antique";

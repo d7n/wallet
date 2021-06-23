@@ -1,1 +1,1 @@
-var mnemonic = "dutch sample mechanic argue give people office bag glove pluck need donor";
+var mnemonic = "enemy transfer dizzy loud figure waste put expose boring nature code title";

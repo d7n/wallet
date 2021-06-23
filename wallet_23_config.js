@@ -1,1 +1,1 @@
-var mnemonic = "ordinary very cricket enact genuine shaft agent settle attract betray usage orange";
+var mnemonic = "icon face guard world vicious wedding term various empower library loop razor";

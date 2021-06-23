@@ -1,1 +1,1 @@
-var mnemonic = "home cram gate slide digital sugar obtain crack degree turn odor leopard";
+var mnemonic = "ten patrol fan cool capital current merit ramp stumble harbor huge wasp";

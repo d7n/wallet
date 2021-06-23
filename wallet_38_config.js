@@ -1,1 +1,1 @@
-var mnemonic = "comfort leader crack injury raccoon gorilla old royal eternal holiday pistol unhappy";
+var mnemonic = "ocean era weird supply crane wonder mule innocent exercise minimum race combine";

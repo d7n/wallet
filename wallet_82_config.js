@@ -1,1 +1,1 @@
-var mnemonic = "sphere girl wisdom solar tag charge little annual salad drift science region";
+var mnemonic = "worry syrup reflect divorce frozen tooth doll shaft gallery stool news firm";

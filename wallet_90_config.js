@@ -1,1 +1,1 @@
-var mnemonic = "naive lazy company simple boost pottery motion enhance stem vague decline whale";
+var mnemonic = "cycle enroll episode suggest cute strong various nuclear north what slam wreck";

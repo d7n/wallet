@@ -1,1 +1,1 @@
-var mnemonic = "genre cruel multiply acquire lake cost spy smile few coil era luggage";
+var mnemonic = "bone ivory hub someone cliff fashion current disorder cover april leaf there";

@@ -1,1 +1,1 @@
-var mnemonic = "comic popular oxygen chat tail silver unhappy coil choose easy abuse please";
+var mnemonic = "kind buffalo language force phrase network mansion sorry mixed wine diary coin";

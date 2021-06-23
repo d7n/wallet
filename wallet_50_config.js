@@ -1,1 +1,1 @@
-var mnemonic = "will mesh biology amount sure pulp palm bulb strategy helmet gravity believe";
+var mnemonic = "eyebrow void able blind december sketch stadium melody antique neither coast cactus";

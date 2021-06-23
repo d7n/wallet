@@ -1,1 +1,1 @@
-var mnemonic = "rapid tourist scorpion organ judge flash media manual unlock security bone mean";
+var mnemonic = "market behave reunion verify castle crazy object bubble voice rubber hungry quit";

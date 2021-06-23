@@ -1,1 +1,1 @@
-var mnemonic = "area fringe someone annual route bulk jewel dune elephant height lesson fall";
+var mnemonic = "sibling elder cloth mystery renew uncover teach tell rural own alter ensure";

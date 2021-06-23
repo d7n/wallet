@@ -1,1 +1,1 @@
-var mnemonic = "nephew soup learn panic flash casino casual rookie magnet gaze snow surround";
+var mnemonic = "shop round host december eye jelly leaf aim expire dress energy sad";

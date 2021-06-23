@@ -1,1 +1,1 @@
-var mnemonic = "version snack record border quantum target blame large maple glory move history";
+var mnemonic = "neither fog banner manual crucial become note risk aisle flee body museum";

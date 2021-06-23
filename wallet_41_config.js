@@ -1,1 +1,1 @@
-var mnemonic = "repair hammer isolate puppy maze wide flame occur thank nation record twenty";
+var mnemonic = "garden transfer help engage pride cricket response profit invest only lyrics quiz";

@@ -1,1 +1,1 @@
-var mnemonic = "half purity proud ethics step margin exotic innocent thing struggle umbrella fuel";
+var mnemonic = "lemon blood member awake glory possible month quantum glare derive stamp wealth";

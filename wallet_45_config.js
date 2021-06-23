@@ -1,1 +1,1 @@
-var mnemonic = "arrest panel attitude icon key bring grab drama pole exhibit squeeze bean";
+var mnemonic = "page spare distance visual photo view view ring ecology run always swallow";

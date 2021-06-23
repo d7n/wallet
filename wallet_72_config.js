@@ -1,1 +1,1 @@
-var mnemonic = "traffic arrive thumb plate card ostrich actual affair polar second shift unit";
+var mnemonic = "coyote soap carbon muffin squirrel remove subject limb penalty tool twin today";

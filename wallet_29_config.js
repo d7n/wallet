@@ -1,1 +1,1 @@
-var mnemonic = "noble fan afford oppose trumpet more balcony tube entry meat gossip cousin";
+var mnemonic = "addict craft spice myth crime leaf body indoor alley layer lady upset";

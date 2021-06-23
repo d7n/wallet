@@ -1,1 +1,1 @@
-var mnemonic = "miracle fence wing type volume priority rich spend height jaguar stomach grief";
+var mnemonic = "invest design knife desk machine vanish summer cliff agree all trust infant";

@@ -1,1 +1,1 @@
-var mnemonic = "jar wife celery depend present inform express order open ostrich surge away";
+var mnemonic = "stage original arrive exclude breeze version awake column august retire lava settle";

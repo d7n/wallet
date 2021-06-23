@@ -1,1 +1,1 @@
-var mnemonic = "edit glare type garbage blossom talk model picture bird border wedding minute";
+var mnemonic = "ocean evidence plunge push unit ship hungry dignity exhaust health very shove";

@@ -1,1 +1,1 @@
-var mnemonic = "used midnight merry okay fan undo trial upset grass device soon jewel";
+var mnemonic = "enter shy busy spread stand dismiss protect peanut into safe various board";

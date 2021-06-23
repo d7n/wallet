@@ -1,1 +1,1 @@
-var mnemonic = "trend camera defy unit grit firm keep client spoil van twenty journey";
+var mnemonic = "critic journey deer slot toddler about bird anxiety rotate segment hybrid art";

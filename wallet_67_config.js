@@ -1,1 +1,1 @@
-var mnemonic = "about age idea grocery camera truly provide install sword minute auction various";
+var mnemonic = "gallery edit solid wool section shaft room chapter version lumber myth leg";

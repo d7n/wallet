@@ -1,1 +1,1 @@
-var mnemonic = "captain there bench acid aisle polar feel excess use gloom audit clutch";
+var mnemonic = "meadow able voice distance rate shoot walnut leaf dentist leopard laptop atom";

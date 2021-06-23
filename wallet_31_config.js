@@ -1,1 +1,1 @@
-var mnemonic = "dirt vicious vast bless vault tooth visual profit cloth clap clog oxygen";
+var mnemonic = "special cement attitude kit labor rhythm chuckle merit wheel weasel food capable";

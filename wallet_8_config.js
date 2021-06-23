@@ -1,1 +1,1 @@
-var mnemonic = "depend cycle phrase rib feature thought end under access orchard curious return";
+var mnemonic = "abuse wood betray sleep tennis hawk coast wide spend final universe mail";

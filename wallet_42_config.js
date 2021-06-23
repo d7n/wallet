@@ -1,1 +1,1 @@
-var mnemonic = "advance lounge erase tomato cushion lecture safe copper nominee drum snap possible";
+var mnemonic = "scene trash educate juice advance salt smoke cage lady defense soap glad";

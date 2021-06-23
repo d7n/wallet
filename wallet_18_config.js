@@ -1,1 +1,1 @@
-var mnemonic = "cash math cliff home pool team evidence nominee entry culture cable mother";
+var mnemonic = "buddy drift congress reject odor school monster plastic left cute ridge fade";

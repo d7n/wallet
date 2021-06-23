@@ -1,1 +1,1 @@
-var mnemonic = "athlete song leaf crop together axis convince unlock enemy accident black they";
+var mnemonic = "snake head sketch pizza across gaze skin fuel ill connect slide patrol";

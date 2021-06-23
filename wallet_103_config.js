@@ -1,1 +1,1 @@
-var mnemonic = "turkey canyon glove pipe notable want consider exotic bar label know siege";
+var mnemonic = "piece mom outside lyrics over wide drink cannon month upper mind scan";

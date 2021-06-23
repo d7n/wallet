@@ -1,1 +1,1 @@
-var mnemonic = "observe planet pattern wine stick inch warfare release lab improve language shed";
+var mnemonic = "safe lumber furnace place issue hand absent shoulder inflict neither vivid kit";

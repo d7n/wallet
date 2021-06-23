@@ -1,1 +1,1 @@
-var mnemonic = "bundle blast salmon echo canyon latin major crane ski response menu dinosaur";
+var mnemonic = "stereo liquid fatigue scatter gallery now output garden hello slide make throw";

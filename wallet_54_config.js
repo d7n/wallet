@@ -1,1 +1,1 @@
-var mnemonic = "tragic virus pear burst loan unit common hollow cost volume picture alone";
+var mnemonic = "state they coin trend install primary hour table differ tattoo kite muffin";

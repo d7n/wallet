@@ -1,1 +1,1 @@
-var mnemonic = "opinion math swear put rude track memory wood giggle clump blanket knife";
+var mnemonic = "tiger arch tunnel picture render cash front soft answer imitate symbol sand";

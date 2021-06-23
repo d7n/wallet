@@ -1,1 +1,1 @@
-var mnemonic = "tumble ill huge letter position birth ahead memory rain tower mixture cruise";
+var mnemonic = "special spray romance bracket thumb inside fever okay point dwarf dentist system";

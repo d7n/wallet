@@ -1,1 +1,1 @@
-var mnemonic = "rubber mule error enrich brown expose open hip ribbon city hint fashion";
+var mnemonic = "asset coconut eager globe attack unlock name system good tissue phrase please";

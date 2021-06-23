@@ -1,1 +1,1 @@
-var mnemonic = "brain main shoot slide steak garbage group fluid tray north library estate";
+var mnemonic = "satoshi output what material minimum action wife fun venue wheat style attack";

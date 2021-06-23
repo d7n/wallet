@@ -1,1 +1,1 @@
-var mnemonic = "apart lab illegal chase work rather multiply fashion drum bar dragon absorb";
+var mnemonic = "book person thumb vital age film priority clarify cage tell hurt cry";

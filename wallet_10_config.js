@@ -1,1 +1,1 @@
-var mnemonic = "figure produce juice hidden local kind gesture measure key double organ parade";
+var mnemonic = "retire gauge person exhaust mouse random ugly thank sunny fragile shove basket";

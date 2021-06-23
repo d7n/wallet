@@ -1,1 +1,1 @@
-var mnemonic = "assault print zero change cliff ocean arrange electric craft example budget gesture";
+var mnemonic = "easy slogan average between silly stuff cream kid advance senior budget public";

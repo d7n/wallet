@@ -1,1 +1,1 @@
-var mnemonic = "you park innocent describe celery raccoon pitch absorb ignore adapt head echo";
+var mnemonic = "auto draft actual violin family develop reward organ assume amateur vacant add";

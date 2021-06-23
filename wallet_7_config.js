@@ -1,1 +1,1 @@
-var mnemonic = "harsh bachelor race heart tide rack tennis embark aerobic capable miracle clinic";
+var mnemonic = "flower subway require brave enroll napkin glory guide few bench sphere pink";

@@ -1,1 +1,1 @@
-var mnemonic = "until neither injury that physical glance tornado false dose mercy alley spawn";
+var mnemonic = "coral subway silent topple tank deny peace swallow census exit penalty pottery";

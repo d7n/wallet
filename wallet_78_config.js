@@ -1,1 +1,1 @@
-var mnemonic = "exist funny flip feel napkin skull idea original scare again people piano";
+var mnemonic = "pitch address fat device ensure know later comic shoot coin trend drastic";

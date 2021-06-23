@@ -1,1 +1,1 @@
-var mnemonic = "hazard goddess balance suggest letter merry room glare system unfold emotion horn";
+var mnemonic = "empower ignore kingdom depth stumble moment display car regular clap dismiss stay";

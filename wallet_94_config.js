@@ -1,1 +1,1 @@
-var mnemonic = "level match rookie sad wrist favorite ghost develop ugly fly guess minute";
+var mnemonic = "nephew youth spice episode patch crouch city awake ripple dial ring slide";

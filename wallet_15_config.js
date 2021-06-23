@@ -1,1 +1,1 @@
-var mnemonic = "depart unique common guess soda fork cool segment dolphin behave vote hover";
+var mnemonic = "ethics collect satoshi amused enhance wet exact steak level sheriff future crisp";

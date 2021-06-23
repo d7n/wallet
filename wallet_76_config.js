@@ -1,1 +1,1 @@
-var mnemonic = "eagle truck left flag parrot pony bar make twin cinnamon crush wood";
+var mnemonic = "area tuna rent confirm brass true basic muffin below voice beyond palm";

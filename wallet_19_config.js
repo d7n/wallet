@@ -1,1 +1,1 @@
-var mnemonic = "reason diagram force online balcony poem birth move write person enjoy layer";
+var mnemonic = "rude train room token reform process slow bench cheese type transfer lemon";

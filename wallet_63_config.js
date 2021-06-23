@@ -1,1 +1,1 @@
-var mnemonic = "post day off wheel error traffic ethics strike throw proof album pulse";
+var mnemonic = "match jungle into sand device focus wood soldier squeeze tiny umbrella crew";

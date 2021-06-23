@@ -1,1 +1,1 @@
-var mnemonic = "loyal veteran false target argue surge nature excess disorder govern tribe fit";
+var mnemonic = "nose stamp corn index safe rubber empower door congress shed unfair flag";

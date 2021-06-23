@@ -1,1 +1,1 @@
-var mnemonic = "awful diesel fold receive prefer advice consider silver nasty release tornado mixture";
+var mnemonic = "little roof cross muscle cattle merit install inch appear venture double face";

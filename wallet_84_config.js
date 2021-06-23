@@ -1,1 +1,1 @@
-var mnemonic = "void exotic spice used grief manage garbage rice change purity oak stove";
+var mnemonic = "envelope where veteran aisle install run deal symbol wrong art skill asthma";

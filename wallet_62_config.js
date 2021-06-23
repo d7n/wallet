@@ -1,1 +1,1 @@
-var mnemonic = "fame urge any material birth raise trumpet pass focus wall supply friend";
+var mnemonic = "faint breeze bronze give surface combine street cave prosper palace pumpkin island";

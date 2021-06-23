@@ -1,1 +1,1 @@
-var mnemonic = "code saddle bonus gate rigid gospel slot fox liar run boil wolf";
+var mnemonic = "nerve seek inform whisper plastic coast tell fabric sell prison frame culture";
