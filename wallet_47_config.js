@@ -1,1 +1,1 @@
-var mnemonic = "oil top soccer minimum fantasy smooth surround wrestle annual shed bamboo region";
+var mnemonic = "degree chimney anger soon elegant vessel soul clean infant clown strike pottery";

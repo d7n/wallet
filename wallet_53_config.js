@@ -1,1 +1,1 @@
-var mnemonic = "uniform erase dry bean trick donkey text view forum else loop wool";
+var mnemonic = "kiss allow believe tragic beyond shop empty total canvas mimic social luxury";

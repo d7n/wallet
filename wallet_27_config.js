@@ -1,1 +1,1 @@
-var mnemonic = "robust journey medal shy demand session daughter month near cross bacon humble";
+var mnemonic = "all soldier level shadow gas cross upgrade begin thank error agree design";

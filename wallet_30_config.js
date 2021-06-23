@@ -1,1 +1,1 @@
-var mnemonic = "abstract taste powder orange distance radar lamp vacuum lend keep auction off";
+var mnemonic = "engine opinion giggle entry expire shaft double service core credit inch riot";

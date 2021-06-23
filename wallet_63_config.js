@@ -1,1 +1,1 @@
-var mnemonic = "wonder domain orphan immense person rotate poem burst useful charge reopen angle";
+var mnemonic = "join skirt chronic gown vicious people source approve rare stick piano arena";

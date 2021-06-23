@@ -1,1 +1,1 @@
-var mnemonic = "typical kidney easy make margin dolphin comfort brother toe slight outside balance";
+var mnemonic = "nasty flip tent arch share gold cage renew van mother grain mule";

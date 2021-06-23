@@ -1,1 +1,1 @@
-var mnemonic = "wedding night sort glass humble example nation common concert burden lyrics mistake";
+var mnemonic = "outer team tray paddle execute all hurry author tonight nest educate maid";

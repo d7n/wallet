@@ -1,1 +1,1 @@
-var mnemonic = "panther profit mango bless fury toe solid wish hammer bitter knock method";
+var mnemonic = "enable ship tobacco comfort join strike vanish plate unit brass vast cereal";

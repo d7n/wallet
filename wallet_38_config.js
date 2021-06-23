@@ -1,1 +1,1 @@
-var mnemonic = "pyramid enjoy dawn fox frog eagle fitness produce grass depth crash issue";
+var mnemonic = "shrimp hotel two share buzz change hip bicycle that paper patch oblige";

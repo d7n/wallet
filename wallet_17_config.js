@@ -1,1 +1,1 @@
-var mnemonic = "heavy artefact idea grow torch sample auto soldier fun resemble speed wedding";
+var mnemonic = "dog result fortune van below power zone below magnet calm people pause";

@@ -1,1 +1,1 @@
-var mnemonic = "lend nice menu exhaust market save bronze increase control private pet neither";
+var mnemonic = "spice path polar polar tortoise cheese pass square direct aim picnic chalk";

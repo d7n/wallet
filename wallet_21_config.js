@@ -1,1 +1,1 @@
-var mnemonic = "gentle gaze fog eager path reason gloom display swallow sweet odor rail";
+var mnemonic = "coin fog crisp key gospel bread common isolate call entry minimum copper";

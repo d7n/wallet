@@ -1,1 +1,1 @@
-var mnemonic = "certain never medal electric ice usage fortune fun evidence door leader slogan";
+var mnemonic = "sibling seek rifle armed desert share west frame aim mistake grain wait";

@@ -1,1 +1,1 @@
-var mnemonic = "march modify escape obtain sword motor honey fetch tomato gentle kick owner";
+var mnemonic = "knee latin buzz butter vanish shrimp moment month pottery utility goat rival";

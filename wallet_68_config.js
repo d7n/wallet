@@ -1,1 +1,1 @@
-var mnemonic = "despair private useless post recipe acquire amount leg jungle palm obey still";
+var mnemonic = "property tide open boat child frost unable typical need kangaroo review among";

@@ -1,1 +1,1 @@
-var mnemonic = "banana still zone pole tent slogan rather over champion chair fire silk";
+var mnemonic = "cabbage gauge enjoy yard luggage hedgehog napkin slam diet trophy monster accuse";

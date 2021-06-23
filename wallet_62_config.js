@@ -1,1 +1,1 @@
-var mnemonic = "peanut floor enhance divide rather grow soccer boat top end mercy prefer";
+var mnemonic = "venue worth glare head pipe reflect child range uncover young cherry only";

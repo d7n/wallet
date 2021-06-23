@@ -1,1 +1,1 @@
-var mnemonic = "upgrade grant thought behave keep bicycle valid position remain quit surge route";
+var mnemonic = "grab panel series black attract scorpion security assist replace toward adapt lab";

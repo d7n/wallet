@@ -1,1 +1,1 @@
-var mnemonic = "olive drive rhythm student bottom lazy abandon grass stereo still tank flavor";
+var mnemonic = "vacant east gentle grief object egg planet all hundred stick blame dismiss";

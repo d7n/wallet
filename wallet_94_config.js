@@ -1,1 +1,1 @@
-var mnemonic = "comfort nose document joke verify pet riot pen voyage term hood kangaroo";
+var mnemonic = "interest orient runway owner finger puppy grit train wrestle other lottery rule";

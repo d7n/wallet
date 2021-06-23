@@ -1,1 +1,1 @@
-var mnemonic = "seven hedgehog daughter empower wave trap tool valley grit alert deal subway";
+var mnemonic = "unknown clutch meadow funny annual outside negative gloom half frame dad online";

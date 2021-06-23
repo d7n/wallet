@@ -1,1 +1,1 @@
-var mnemonic = "velvet imitate afraid concert glide eagle dragon agree patrol season casino ghost";
+var mnemonic = "choose metal image joy left surface swing snake letter street blossom author";

@@ -1,1 +1,1 @@
-var mnemonic = "keep orphan afford dose multiply lonely climb faith spray journey slice chat";
+var mnemonic = "door exist ride embody library scout over luggage bomb employ survey tribe";

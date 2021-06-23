@@ -1,1 +1,1 @@
-var mnemonic = "truck bid bargain develop kingdom they audit food earn dream onion enroll";
+var mnemonic = "trim wet exchange similar apology wine surround bubble divorce cushion circle lucky";

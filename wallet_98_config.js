@@ -1,1 +1,1 @@
-var mnemonic = "lift ensure human access index issue learn north inflict enough predict stuff";
+var mnemonic = "grain piano tip hospital park found talent tip jealous scissors still column";

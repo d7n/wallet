@@ -1,1 +1,1 @@
-var mnemonic = "bitter syrup fame conduct hill accident certain element noise elegant absurd stomach";
+var mnemonic = "enter mimic valley impact humor angry math copper hungry shy oxygen diary";

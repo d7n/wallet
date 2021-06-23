@@ -1,1 +1,1 @@
-var mnemonic = "humble split nasty twice wheel visual canvas later amused stone hurry adjust";
+var mnemonic = "pair agent senior bridge brand saddle use survey novel web unit capital";

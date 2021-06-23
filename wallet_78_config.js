@@ -1,1 +1,1 @@
-var mnemonic = "dinner code earn slight door common aunt odor velvet bean bitter wall";
+var mnemonic = "battle left cannon pioneer solid cry claim illness evoke warm reunion kit";

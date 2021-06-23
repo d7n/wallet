@@ -1,1 +1,1 @@
-var mnemonic = "leopard obvious laptop inside giraffe abuse prevent crystal jungle poverty foil female";
+var mnemonic = "era cinnamon eager beach unaware zone bridge model detail blind still ball";

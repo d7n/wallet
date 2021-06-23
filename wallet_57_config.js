@@ -1,1 +1,1 @@
-var mnemonic = "picnic burst castle lock arch blur luxury stomach warrior output drama click";
+var mnemonic = "aspect celery tray jar caution soon iron tunnel write shrimp claim draw";

@@ -1,1 +1,1 @@
-var mnemonic = "want rely couch print pool proud supreme move grief bulk day nerve";
+var mnemonic = "kangaroo valve course wisdom device kitten loud aunt initial drastic cart image";

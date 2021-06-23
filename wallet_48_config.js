@@ -1,1 +1,1 @@
-var mnemonic = "stamp reason pluck area make turtle elite myself cement convince major guilt";
+var mnemonic = "exhaust edit possible proof stereo veteran praise dial volcano shuffle veteran exist";

@@ -1,1 +1,1 @@
-var mnemonic = "tool day elephant train admit strike nature badge peace crumble popular smart";
+var mnemonic = "market buyer ramp sound dose kid sister render inmate best ivory cushion";

@@ -1,1 +1,1 @@
-var mnemonic = "cube amused size junk glide jealous dust gas moon avoid relief unknown";
+var mnemonic = "photo sand cheese talk review reason canal upgrade body argue lottery document";

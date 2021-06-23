@@ -1,1 +1,1 @@
-var mnemonic = "napkin regular capable reduce two negative merge elder diamond season margin camp";
+var mnemonic = "group ski minimum turn phrase evolve distance grant dwarf scene moral envelope";

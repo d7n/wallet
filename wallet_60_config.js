@@ -1,1 +1,1 @@
-var mnemonic = "bracket pony mountain barrel feature actress lawsuit scale mean off carbon unlock";
+var mnemonic = "axis flush old plug acoustic fun inherit earth leader match penalty upper";

@@ -1,1 +1,1 @@
-var mnemonic = "magic prevent leg stairs wrist cover random decorate soft label steel acquire";
+var mnemonic = "word embody spread thrive turkey hat pig double fury message add drama";

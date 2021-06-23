@@ -1,1 +1,1 @@
-var mnemonic = "language draft capital twenty lawn fit spoil seek clean sentence style mercy";
+var mnemonic = "giggle diesel disorder state illness price bright present remain round culture slab";

@@ -1,1 +1,1 @@
-var mnemonic = "heavy rate action thrive bundle floor swift net repeat skin badge skin";
+var mnemonic = "treat obey garden smoke web learn empty betray pencil south exit poet";

@@ -1,1 +1,1 @@
-var mnemonic = "trouble cattle hero lab range broccoli time online under satoshi soccer again";
+var mnemonic = "trust response turkey wrist enable evoke film yellow vintage false local bright";

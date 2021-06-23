@@ -1,1 +1,1 @@
-var mnemonic = "evoke receive hospital narrow famous answer kid trumpet uncle note debris mean";
+var mnemonic = "treat north diamond start defy bean code oppose material excite endless pull";

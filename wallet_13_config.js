@@ -1,1 +1,1 @@
-var mnemonic = "modify drastic mammal mule space eyebrow walnut across shadow universe debate purchase";
+var mnemonic = "jump door material draw outer owner kick party adult elbow husband hunt";

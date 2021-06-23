@@ -1,1 +1,1 @@
-var mnemonic = "deposit aisle giraffe cover raw pause sphere rug involve upset safe chimney";
+var mnemonic = "feed ghost network remove genuine retire lucky valid sphere oak online screen";

@@ -1,1 +1,1 @@
-var mnemonic = "dinner drama jeans sudden oyster horn profit hidden throw hour until improve";
+var mnemonic = "tower amount inhale fragile undo weapon talent giant cheese despair typical regular";

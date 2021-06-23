@@ -1,1 +1,1 @@
-var mnemonic = "melody book begin wood tone salmon club waste group rely crowd hurry";
+var mnemonic = "rocket air success ill taste inside oven weird walnut tower window funny";

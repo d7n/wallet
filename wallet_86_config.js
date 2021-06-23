@@ -1,1 +1,1 @@
-var mnemonic = "execute blouse call marine label gentle abuse idea treat slender ice minor";
+var mnemonic = "happy innocent decorate remove flight mean whale cactus regular gospel world afford";

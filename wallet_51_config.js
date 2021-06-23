@@ -1,1 +1,1 @@
-var mnemonic = "quick cushion visual person come exhibit settle critic swarm peasant useless fly";
+var mnemonic = "light ten salt very bag digital lizard element rapid rotate cannon crisp";

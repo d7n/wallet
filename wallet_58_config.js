@@ -1,1 +1,1 @@
-var mnemonic = "slow plate cradle among snow gun tower item tape peanut federal master";
+var mnemonic = "copy private thing dog duty fringe flee zero raven top office urge";

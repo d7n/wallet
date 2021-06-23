@@ -1,1 +1,1 @@
-var mnemonic = "amazing century album wing you stuff fashion catch agent present order enough";
+var mnemonic = "fiscal bench enough culture program quote guilt endless reason arctic odor average";

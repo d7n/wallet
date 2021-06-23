@@ -1,1 +1,1 @@
-var mnemonic = "nation excess copper myself book rifle weasel slush melody first lunch bitter";
+var mnemonic = "ketchup garbage repeat convince scrap neck else parrot cargo shed spell film";

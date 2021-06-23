@@ -1,1 +1,1 @@
-var mnemonic = "change simple resist aerobic point boring legal color gown ramp exit length";
+var mnemonic = "hen camera random eight add electric put ocean rhythm misery awkward gift";

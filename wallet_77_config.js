@@ -1,1 +1,1 @@
-var mnemonic = "forest juice infant kiwi fit auto fame early disagree wet summer document";
+var mnemonic = "extend couch rent crash during breeze desert design clever transfer cake prepare";

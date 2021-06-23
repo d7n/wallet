@@ -1,1 +1,1 @@
-var mnemonic = "decline input express praise task shove mandate trigger true disease portion copy";
+var mnemonic = "lake cruel find lawsuit spell note robust syrup arrange image floor divorce";

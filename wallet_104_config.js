@@ -1,1 +1,1 @@
-var mnemonic = "clever muffin pizza blame athlete seat bargain slide oyster plate attend there";
+var mnemonic = "buffalo pyramid lottery damage toilet pool mechanic balcony cereal fix curve unveil";

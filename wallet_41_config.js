@@ -1,1 +1,1 @@
-var mnemonic = "intact kiwi syrup couple more blame gentle frame similar frost bright comic";
+var mnemonic = "pattern begin very invite stamp upset tail boat tuition kind nominee search";

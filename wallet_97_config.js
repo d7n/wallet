@@ -1,1 +1,1 @@
-var mnemonic = "nuclear file occur opinion sphere network rival taxi because knee bicycle innocent";
+var mnemonic = "this neck series culture useless subway delay theme cloth bean glance fire";

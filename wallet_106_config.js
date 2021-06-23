@@ -1,1 +1,1 @@
-var mnemonic = "sword drink onion era route warfare dice rude tornado prize fold disease";
+var mnemonic = "powder chat abandon stumble net hello foot hazard orchard vintage predict critic";

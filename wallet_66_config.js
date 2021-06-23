@@ -1,1 +1,1 @@
-var mnemonic = "flight arena spend series tone false donor subject frown enlist napkin upset";
+var mnemonic = "race festival tower latin scale jar heavy famous swap kitchen amount cash";

@@ -1,1 +1,1 @@
-var mnemonic = "just crouch enforce leaf stamp country dish life dismiss fuel fiber fox";
+var mnemonic = "size brown romance glide undo hollow actual album cruel zone roof shrug";

@@ -1,1 +1,1 @@
-var mnemonic = "void bring coast manual civil exit hospital attack carry impact steak hover";
+var mnemonic = "left cook web noodle mechanic derive fabric magnet flower spare salon stand";

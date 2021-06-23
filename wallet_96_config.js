@@ -1,1 +1,1 @@
-var mnemonic = "glance tape soon fetch trash bracket orange tower net draft spot prevent";
+var mnemonic = "slot father escape post help trim danger link master dismiss alpha jacket";

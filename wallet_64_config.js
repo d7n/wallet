@@ -1,1 +1,1 @@
-var mnemonic = "shell corn throw method cactus mechanic mountain roast pizza erase list door";
+var mnemonic = "marine foam half wheat surge couch believe act camera feel attend dove";

@@ -1,1 +1,1 @@
-var mnemonic = "use travel horror marine also practice obtain hazard property science remain caught";
+var mnemonic = "lucky switch plunge main chicken special witness mirror change outdoor garment before";

@@ -1,1 +1,1 @@
-var mnemonic = "myself fatigue glimpse another accident mandate foam portion potato lounge coffee dad";
+var mnemonic = "entire lab mushroom history chuckle fashion solid convince little basic wine connect";

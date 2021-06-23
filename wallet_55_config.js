@@ -1,1 +1,1 @@
-var mnemonic = "club woman pelican cup grass poet end core artist inmate rule copper";
+var mnemonic = "chicken tail bid label column task nuclear where truly gasp stairs garden";

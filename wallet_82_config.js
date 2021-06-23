@@ -1,1 +1,1 @@
-var mnemonic = "hello census toast narrow rigid hen pudding put people obscure street medal";
+var mnemonic = "shove cross pluck gravity whisper such body wrong symbol universe panic grass";

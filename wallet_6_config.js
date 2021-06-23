@@ -1,1 +1,1 @@
-var mnemonic = "try law chair debris recall record direct swarm main rigid grape disease";
+var mnemonic = "topple december insane need network drill head robot extra idle hen discover";

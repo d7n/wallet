@@ -1,1 +1,1 @@
-var mnemonic = "pepper copper first story buffalo solid miss deer proof pact bulk pole";
+var mnemonic = "puppy evil friend scatter bar woman sing hard luggage vacuum deposit fresh";

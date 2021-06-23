@@ -1,1 +1,1 @@
-var mnemonic = "auction embrace section vintage tornado observe hint will garage exercise rough shy";
+var mnemonic = "hobby winter van buzz setup announce today hover hunt portion audit keen";

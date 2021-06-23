@@ -1,1 +1,1 @@
-var mnemonic = "small note knock random beauty mention donor flash subject across vessel visa";
+var mnemonic = "horn mutual lava blossom dutch image possible gentle laundry law silver satoshi";

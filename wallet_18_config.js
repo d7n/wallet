@@ -1,1 +1,1 @@
-var mnemonic = "beauty flee swarm pistol foam betray company guitar monitor surprise kick state";
+var mnemonic = "bounce cable reflect curious public wonder dirt olive connect gas swap damage";

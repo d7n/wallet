@@ -1,1 +1,1 @@
-var mnemonic = "reduce announce relax leaf boy tuition surprise taxi habit control crawl debris";
+var mnemonic = "inject venue pass horn kitten bronze viable charge athlete rug matrix tortoise";

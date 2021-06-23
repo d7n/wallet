@@ -1,1 +1,1 @@
-var mnemonic = "desert clever galaxy lobster climb mushroom maze cry invite talk better mechanic";
+var mnemonic = "mouse match wrist skill label angle region faint cruel seat velvet beyond";

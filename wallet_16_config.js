@@ -1,1 +1,1 @@
-var mnemonic = "beauty voice hazard nuclear online half bacon stadium pelican machine ribbon social";
+var mnemonic = "jungle tomorrow series review sun rice canal help tomorrow pretty square live";

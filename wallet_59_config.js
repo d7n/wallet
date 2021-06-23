@@ -1,1 +1,1 @@
-var mnemonic = "advice sea nation hockey creek zone deer skull genius coil profit brush";
+var mnemonic = "weasel fruit turkey adapt second pulse stairs era divorce glide busy heavy";

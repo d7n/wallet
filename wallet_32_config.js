@@ -1,1 +1,1 @@
-var mnemonic = "mansion endorse art surge amused sentence street echo about mercy chest office";
+var mnemonic = "deliver wall spice latin buyer summer culture sadness maze where token holiday";

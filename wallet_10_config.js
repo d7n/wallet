@@ -1,1 +1,1 @@
-var mnemonic = "flag dust banner rookie prevent afford ceiling brick ranch inside detail beauty";
+var mnemonic = "morning modify shell club trumpet first clap buzz twenty garden crystal unfold";

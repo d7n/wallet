@@ -1,1 +1,1 @@
-var mnemonic = "eight cup taste stadium pony will chef torch arctic hotel expect disorder";
+var mnemonic = "report patch waste neutral series blush denial before galaxy wool trigger snow";

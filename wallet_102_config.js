@@ -1,1 +1,1 @@
-var mnemonic = "more robot real nerve skate puzzle penalty february casino mobile modify treat";
+var mnemonic = "goose frog cattle error tumble strong drift pool hill twin honey solve";

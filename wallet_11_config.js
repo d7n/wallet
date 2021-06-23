@@ -1,1 +1,1 @@
-var mnemonic = "dutch stool layer poet tunnel melt accuse sun venue will hire subway";
+var mnemonic = "mixture armor corn cinnamon balcony you enrich bachelor bundle online high modify";

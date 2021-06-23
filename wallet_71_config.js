@@ -1,1 +1,1 @@
-var mnemonic = "mixed tool wire write enough exact clap turtle input marriage lava tent";
+var mnemonic = "other mask season asthma business dawn knock more session post glare tourist";

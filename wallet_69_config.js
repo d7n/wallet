@@ -1,1 +1,1 @@
-var mnemonic = "put cross hire visual movie girl meadow leave silk obscure nature cycle";
+var mnemonic = "office decrease blush ticket just setup mystery scheme follow pole dismiss border";

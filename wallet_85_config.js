@@ -1,1 +1,1 @@
-var mnemonic = "owner myth sponsor junior angle trap home copy garden wood hood chicken";
+var mnemonic = "apart excess cute subway market extra drip expand return absurd flip upgrade";

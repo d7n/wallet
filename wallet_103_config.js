@@ -1,1 +1,1 @@
-var mnemonic = "hazard sport person apart cram hen neck annual butter elder can tower";
+var mnemonic = "leopard total aware disorder cabin panda pipe extend mention genuine uniform celery";
