@@ -1,1 +1,1 @@
-var mnemonic = "box local ten story among myself brass believe kick naive mom dilemma";
+var mnemonic = "arrest indicate candy camera twice surround salon involve action owner recall seat";

@@ -1,1 +1,1 @@
-var mnemonic = "member dizzy style clinic brown dirt slab shy region human film easily";
+var mnemonic = "jewel lab pass corn life wash sentence dawn wheel trust planet habit";

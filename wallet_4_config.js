@@ -1,1 +1,1 @@
-var mnemonic = "humble steak clip orient talent occur gown kidney duck basic final snow";
+var mnemonic = "speak crawl treat ticket will gather link climb dumb square fashion easily";

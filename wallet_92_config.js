@@ -1,1 +1,1 @@
-var mnemonic = "hat impose tell worth captain shrug fish voyage process tenant yellow pottery";
+var mnemonic = "lake cigar calm drift install gloom vote produce exit much pause never";

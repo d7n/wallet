@@ -1,1 +1,1 @@
-var mnemonic = "burger nut income snow hold retire image repair catch crop exclude citizen";
+var mnemonic = "mechanic funny despair expire apple car female foam crouch just great lounge";

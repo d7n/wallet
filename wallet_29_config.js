@@ -1,1 +1,1 @@
-var mnemonic = "apple conduct adult rebel popular hole hello ride portion arch notice upgrade";
+var mnemonic = "attitude valley egg truck broom require bracket bronze bacon canoe venue dolphin";

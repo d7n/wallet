@@ -1,1 +1,1 @@
-var mnemonic = "armed federal cook border panther sniff agent evil face crane journey worry";
+var mnemonic = "priority edit must then chronic year tomato repair first syrup hurdle fetch";

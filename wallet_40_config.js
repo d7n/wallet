@@ -1,1 +1,1 @@
-var mnemonic = "express sight journey decrease inner proof color wolf cousin infant catch describe";
+var mnemonic = "giraffe bounce tonight over decrease make marble client mesh split avoid physical";

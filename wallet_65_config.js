@@ -1,1 +1,1 @@
-var mnemonic = "shell guitar glory thank derive sun album list border borrow access design";
+var mnemonic = "abstract dwarf time chat elevator cradle survey inquiry else similar congress mechanic";

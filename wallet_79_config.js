@@ -1,1 +1,1 @@
-var mnemonic = "wisdom vacant decade kite sand orient frost life enough explain dry try";
+var mnemonic = "company diesel glow gadget use analyst risk news melody machine expand jealous";

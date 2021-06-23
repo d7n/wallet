@@ -1,1 +1,1 @@
-var mnemonic = "obey naive ribbon hollow spider easy close obey fold situate imitate find";
+var mnemonic = "pause village spring direct harsh luggage muffin board fork wool quote melt";

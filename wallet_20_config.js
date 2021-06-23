@@ -1,1 +1,1 @@
-var mnemonic = "merit remind faculty return never seed order dawn best lava spoon piano";
+var mnemonic = "farm congress metal exotic gauge weasel beach park solar doll learn pledge";

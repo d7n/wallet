@@ -1,1 +1,1 @@
-var mnemonic = "faint spider cheese collect claw opera soul capable portion spatial collect library";
+var mnemonic = "roast person toast swear text jaguar whale urban initial unknown legend bone";

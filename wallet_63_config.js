@@ -1,1 +1,1 @@
-var mnemonic = "glove erode tool bulk spider unlock opera ticket weasel rude slender chest";
+var mnemonic = "merit point merge pupil grocery pass caution proof celery luggage steak outer";

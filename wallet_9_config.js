@@ -1,1 +1,1 @@
-var mnemonic = "record fade stove ugly wood large perfect ozone link distance wife surface";
+var mnemonic = "antique okay route brief supreme load chase divert mom enrich favorite tuition";

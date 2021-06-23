@@ -1,1 +1,1 @@
-var mnemonic = "knock seven jungle another brisk someone chalk denial agent injury whale train";
+var mnemonic = "loan finish lady fortune spider sleep shop mail pioneer consider candy wife";

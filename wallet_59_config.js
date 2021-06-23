@@ -1,1 +1,1 @@
-var mnemonic = "glare orphan kitten retire gospel prevent light april shield crowd wasp lava";
+var mnemonic = "fortune case network crew allow vendor parent debris copy bubble senior smoke";

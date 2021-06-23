@@ -1,1 +1,1 @@
-var mnemonic = "nature blouse mandate chest reveal exact salute whale acquire snap yellow argue";
+var mnemonic = "december pair clay title system lunch insane laundry regular shaft anchor erosion";

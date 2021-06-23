@@ -1,1 +1,1 @@
-var mnemonic = "arrange multiply ghost auction slide wish oblige black despair remember butter pulp";
+var mnemonic = "universe lunch else yard zone report found blanket okay hurry advice mystery";

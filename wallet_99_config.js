@@ -1,1 +1,1 @@
-var mnemonic = "piece suit decrease spirit wisdom just biology edge crowd endorse liar choose";
+var mnemonic = "area trophy torch baby spy subject error kind police mesh survey lobster";

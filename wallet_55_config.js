@@ -1,1 +1,1 @@
-var mnemonic = "neglect wedding awake believe vapor sniff mass congress goose omit fit east";
+var mnemonic = "grit hidden dolphin sibling pulse session issue pole resist together divide jungle";

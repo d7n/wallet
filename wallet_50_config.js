@@ -1,1 +1,1 @@
-var mnemonic = "enact ghost audit seven dilemma view grace employ basic kick toy carry";
+var mnemonic = "consider sniff loud audit satisfy aspect shed bridge route actor sword shrimp";

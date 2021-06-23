@@ -1,1 +1,1 @@
-var mnemonic = "magnet cliff plate misery grunt invest cup cycle fashion roof mimic endorse";
+var mnemonic = "another coast coyote battle section bleak happy mask pistol health divert deny";

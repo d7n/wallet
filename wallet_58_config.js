@@ -1,1 +1,1 @@
-var mnemonic = "thrive six verify subway admit category interest attend bulk cruise mother bind";
+var mnemonic = "dawn cherry glare uncover orient helmet isolate salon empower dice cool grocery";

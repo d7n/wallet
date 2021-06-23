@@ -1,1 +1,1 @@
-var mnemonic = "foil vital gas hint cry possible taste silent riot joy royal science";
+var mnemonic = "kind wool essence dog armor give reform pumpkin fuel one mixture start";

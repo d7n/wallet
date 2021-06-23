@@ -1,1 +1,1 @@
-var mnemonic = "wish broken useless donor idle annual brother estate very earth talk tackle";
+var mnemonic = "apple bachelor wasp taxi green control three hunt transfer kite write audit";

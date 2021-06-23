@@ -1,1 +1,1 @@
-var mnemonic = "matrix become pumpkin enrich grab top total fringe fury excess replace crumble";
+var mnemonic = "then tape bridge antique mystery glare act manual silver athlete sing manual";

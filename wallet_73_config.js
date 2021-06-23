@@ -1,1 +1,1 @@
-var mnemonic = "approve deputy junk daughter fiber eager area cram depth fat monitor initial";
+var mnemonic = "correct tumble unlock foam vault typical miss clump orange stairs cycle umbrella";

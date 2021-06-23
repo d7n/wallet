@@ -1,1 +1,1 @@
-var mnemonic = "opinion beyond panda wagon test practice trip blast van bonus edge rabbit";
+var mnemonic = "cattle wisdom during page car tell sail bracket endless food immune similar";

@@ -1,1 +1,1 @@
-var mnemonic = "main human sick icon inquiry enjoy long half garden fruit shaft extend";
+var mnemonic = "cluster old pulse evolve category pull calm deputy isolate envelope choice fan";

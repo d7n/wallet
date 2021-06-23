@@ -1,1 +1,1 @@
-var mnemonic = "seed figure insane evil symbol tag lecture target peanut million diesel hidden";
+var mnemonic = "upon fame beach talk illegal boring depth music steak swallow will portion";

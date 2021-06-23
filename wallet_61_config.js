@@ -1,1 +1,1 @@
-var mnemonic = "snap mutual priority helmet display now search alpha leopard injury guide obey";
+var mnemonic = "squeeze confirm rely there audit aware top country search chapter mosquito food";

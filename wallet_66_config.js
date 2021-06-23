@@ -1,1 +1,1 @@
-var mnemonic = "talk space empty brother enforce kitten exhibit violin float artist purpose craft";
+var mnemonic = "fantasy worry razor glow inform tissue gravity thunder easily smile little initial";

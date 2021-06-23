@@ -1,1 +1,1 @@
-var mnemonic = "ill discover rotate cat visit regret public evoke enable seminar sheriff salon";
+var mnemonic = "alone motor reduce assume wonder tired flush party spoil viable talk elephant";

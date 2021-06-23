@@ -1,1 +1,1 @@
-var mnemonic = "major beauty advance point purity domain where defy sniff essence give vapor";
+var mnemonic = "follow upgrade congress orange emerge friend sustain actress symbol monkey bitter update";

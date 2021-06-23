@@ -1,1 +1,1 @@
-var mnemonic = "genius size cash eagle settle holiday survey depend purchase stage disease elevator";
+var mnemonic = "mirror capable mean rose jar use lonely ancient museum scorpion web either";

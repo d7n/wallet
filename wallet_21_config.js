@@ -1,1 +1,1 @@
-var mnemonic = "hint leave topple neutral hero skill symptom lift exhibit face grocery later";
+var mnemonic = "fitness rigid mutual success cream south song hire blush goat across predict";

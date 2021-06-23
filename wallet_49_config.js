@@ -1,1 +1,1 @@
-var mnemonic = "mechanic juice tenant shop bar sunset firm thank liberty speak catch grass";
+var mnemonic = "style stomach topple loud year timber wise cricket decrease snap obvious jacket";

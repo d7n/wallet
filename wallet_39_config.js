@@ -1,1 +1,1 @@
-var mnemonic = "enroll squeeze pencil style zoo mansion aim receive salt peanut because ribbon";
+var mnemonic = "ride achieve assume disorder misery all all hamster park intact mixed exist";

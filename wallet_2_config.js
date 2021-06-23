@@ -1,1 +1,1 @@
-var mnemonic = "alley wide carbon glad flame solar planet sock talk online original family";
+var mnemonic = "atom column response mail disease salad knife cat holiday share neglect flip";

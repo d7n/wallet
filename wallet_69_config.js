@@ -1,1 +1,1 @@
-var mnemonic = "script impact blood mass remain laugh wage faith tree wheat suffer shed";
+var mnemonic = "already bulb dismiss muscle advance home gate nuclear visual topple squeeze spell";

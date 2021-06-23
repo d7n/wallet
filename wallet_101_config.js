@@ -1,1 +1,1 @@
-var mnemonic = "escape luxury sock uniform enact cruel surround champion delay search toward major";
+var mnemonic = "lens aim kit melt chief adjust camera wrap girl prevent fossil rug";

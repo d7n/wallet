@@ -1,1 +1,1 @@
-var mnemonic = "there news glory alley ranch fun just tiger victory ecology immense baby";
+var mnemonic = "horror awkward finger federal order embody tip donate idle parade faculty maid";

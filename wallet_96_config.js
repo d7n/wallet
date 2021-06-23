@@ -1,1 +1,1 @@
-var mnemonic = "guilt whip curve novel video flat worth extra syrup crush yellow group";
+var mnemonic = "jewel rail meadow ozone voyage lion arm travel flight return total athlete";

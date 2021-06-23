@@ -1,1 +1,1 @@
-var mnemonic = "lobster squeeze govern coral position morning wool either tornado media garment punch";
+var mnemonic = "pave palace ability leopard boss portion fetch arrange dutch metal ranch crisp";

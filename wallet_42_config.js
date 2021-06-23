@@ -1,1 +1,1 @@
-var mnemonic = "flag breeze agree slab soldier make sister drastic arrange cushion upgrade churn";
+var mnemonic = "kid north million milk mobile mix capable stage warm ring accident category";

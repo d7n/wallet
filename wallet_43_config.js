@@ -1,1 +1,1 @@
-var mnemonic = "basket resource ignore grant tone they have depend filter hour corn message";
+var mnemonic = "cup visit nose marine panel harsh spoon drama digital marble call suit";

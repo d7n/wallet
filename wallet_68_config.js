@@ -1,1 +1,1 @@
-var mnemonic = "shoe nothing scout jealous mammal sun help hip drive donate balance aspect";
+var mnemonic = "zebra warfare found once liberty raise unaware mistake cupboard govern gasp hero";

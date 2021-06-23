@@ -1,1 +1,1 @@
-var mnemonic = "invest find guess call easily correct buffalo scrap hope they budget angry";
+var mnemonic = "protect hen nominee ignore foam sudden veteran maze tray mango input broccoli";

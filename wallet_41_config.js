@@ -1,1 +1,1 @@
-var mnemonic = "place lab noise supply kit uphold peasant mesh speed tag wide mixture";
+var mnemonic = "heart pond injury lunch skull abuse useless struggle tip network museum solid";

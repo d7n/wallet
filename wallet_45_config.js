@@ -1,1 +1,1 @@
-var mnemonic = "purity exercise month hint slogan impulse force soft length arrest buffalo carbon";
+var mnemonic = "speak blast frame retire have plug kid rigid syrup rally explain borrow";

@@ -1,1 +1,1 @@
-var mnemonic = "duty stage table conduct pole half mutual nasty catalog move fuel gate";
+var mnemonic = "retire labor novel keep home price dragon body dolphin eternal fork smile";

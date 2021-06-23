@@ -1,1 +1,1 @@
-var mnemonic = "banner reunion disease reveal kit weasel curve pioneer attack oven diary region";
+var mnemonic = "dish champion obtain panda rather annual donor rally sister game sunny rude";

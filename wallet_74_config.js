@@ -1,1 +1,1 @@
-var mnemonic = "beauty situate escape ginger harvest absorb grass fat hello daughter clean pause";
+var mnemonic = "oak process duck whale open portion chapter lesson physical collect motor junk";

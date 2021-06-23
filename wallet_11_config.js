@@ -1,1 +1,1 @@
-var mnemonic = "spring blue mouse key caught lucky reflect economy room process interest sponsor";
+var mnemonic = "live major dignity model city skull unit exotic country symbol airport lobster";

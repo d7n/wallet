@@ -1,1 +1,1 @@
-var mnemonic = "sting unfold zoo pistol machine latin boy elder alone remember embody enact";
+var mnemonic = "omit dawn chief sense deer sell symbol good beauty math carpet matter";

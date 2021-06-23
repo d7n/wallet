@@ -1,1 +1,1 @@
-var mnemonic = "quantum double debate leopard demise body raw naive decide destroy insect eternal";
+var mnemonic = "choice visit diet report sheriff people coil artwork into capital ready mutual";

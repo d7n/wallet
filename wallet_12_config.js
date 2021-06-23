@@ -1,1 +1,1 @@
-var mnemonic = "valve thunder bonus feature panther point monitor random program real banner direct";
+var mnemonic = "park gesture cave ankle release cluster sauce mammal actual medal attract focus";

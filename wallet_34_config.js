@@ -1,1 +1,1 @@
-var mnemonic = "hybrid maple network crisp upon heavy hurdle potato jump street gentle video";
+var mnemonic = "shallow project rack shove asset angry already pause leg frown pupil slow";

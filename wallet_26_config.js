@@ -1,1 +1,1 @@
-var mnemonic = "hat point coconut struggle stove tilt net success twelve surface spin mouse";
+var mnemonic = "spot dash path aunt shaft cash goat dice liar hotel embody sphere";

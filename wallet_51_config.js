@@ -1,1 +1,1 @@
-var mnemonic = "spray naive capable curtain school ceiling brand night mom gold journey negative";
+var mnemonic = "despair canvas tree vital drama crumble casino flip noise fever glow gorilla";

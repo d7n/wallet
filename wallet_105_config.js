@@ -1,1 +1,1 @@
-var mnemonic = "brown relief seat leave small rookie chunk east pole fine slight exotic";
+var mnemonic = "gather fan exact recall excite author error year almost mistake vapor jazz";

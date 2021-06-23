@@ -1,1 +1,1 @@
-var mnemonic = "next canal jacket stove thought fashion buzz outside ensure piece jump infant";
+var mnemonic = "kid caught alert spawn put damp reopen betray meat hat key salmon";

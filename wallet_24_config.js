@@ -1,1 +1,1 @@
-var mnemonic = "kitten enhance run unfair science orchard hidden update habit fix educate aware";
+var mnemonic = "actor spare stamp venture claim minimum join jealous gauge glue bridge problem";

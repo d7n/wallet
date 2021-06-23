@@ -1,1 +1,1 @@
-var mnemonic = "domain loud bachelor bullet radar coil enroll letter coral garment ice neutral";
+var mnemonic = "flash what energy this timber churn hollow village engine elite trick floor";

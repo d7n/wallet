@@ -1,1 +1,1 @@
-var mnemonic = "grit snack topic prefer suit curtain fork allow champion crack patrol alcohol";
+var mnemonic = "trip meadow type door someone insane edge erosion silver lyrics harsh horror";

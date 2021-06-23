@@ -1,1 +1,1 @@
-var mnemonic = "system fuel fitness cash zebra crumble next sugar name picnic grab uncle";
+var mnemonic = "affair paper obscure donate proof sniff nerve lobster master aerobic able guard";

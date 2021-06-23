@@ -1,1 +1,1 @@
-var mnemonic = "pilot play wife regret goddess crash solve smile gravity kitchen mixed control";
+var mnemonic = "maze stone merry quote addict issue glass lucky pigeon april exhibit view";

@@ -1,1 +1,1 @@
-var mnemonic = "average clock bronze since cattle ghost neck normal kite pretty twenty traffic";
+var mnemonic = "endorse hurry shield park reward fuel try toy lunch trend scorpion size";

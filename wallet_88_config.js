@@ -1,1 +1,1 @@
-var mnemonic = "fit bargain pool bind birth city forest battle fine infant seminar parrot";
+var mnemonic = "point oblige there differ bronze skin cable reject enlist knee south diary";

@@ -1,1 +1,1 @@
-var mnemonic = "divert equip corn narrow salad swamp coyote grace bless camera pizza blush";
+var mnemonic = "quarter fetch family absent animal aspect trade desk extra ivory notice unusual";

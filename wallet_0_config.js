@@ -1,1 +1,1 @@
-var mnemonic = "spider blade street topic virus claw water pretty brush crystal castle what";
+var mnemonic = "hobby endorse job accident bomb donate make joy advice bulb share carry";

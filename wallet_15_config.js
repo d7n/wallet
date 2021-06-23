@@ -1,1 +1,1 @@
-var mnemonic = "caught wool title payment slot security goat hill crush affair retreat exhibit";
+var mnemonic = "trade six hurry exhibit prison fitness huge unit erase basic oak gold";

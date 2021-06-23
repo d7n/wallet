@@ -1,1 +1,1 @@
-var mnemonic = "sleep ketchup wire salad settle sing behind tiny vanish goat unfair crater";
+var mnemonic = "visual age useless unit crash task viable aisle grief casino invest capable";

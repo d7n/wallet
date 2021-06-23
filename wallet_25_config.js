@@ -1,1 +1,1 @@
-var mnemonic = "blush soccer dad play boy minute fiscal rail shuffle utility lobster excuse";
+var mnemonic = "vintage next alert drop baby damage limit glance obtain silver win moral";

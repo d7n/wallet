@@ -1,1 +1,1 @@
-var mnemonic = "avocado tuna afford accuse stairs betray sing text abandon muffin dinosaur fossil";
+var mnemonic = "pitch noble guess distance lizard setup upgrade blood swing decline project clay";

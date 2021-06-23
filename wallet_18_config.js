@@ -1,1 +1,1 @@
-var mnemonic = "hurry certain cheap recycle lift any cigar brain sense foot shy metal";
+var mnemonic = "cinnamon sniff cabin denial shadow equal tail gym praise result panda warrior";

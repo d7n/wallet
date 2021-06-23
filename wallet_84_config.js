@@ -1,1 +1,1 @@
-var mnemonic = "denial industry female vicious myth ice betray square session energy gap climb";
+var mnemonic = "law laptop census approve myth sort planet book olympic vessel always olympic";

@@ -1,1 +1,1 @@
-var mnemonic = "love print shove mobile beef ticket tired inmate predict insane orchard type";
+var mnemonic = "monkey brown situate rapid hurry hand detect edge prosper devote excite behave";

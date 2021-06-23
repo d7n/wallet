@@ -1,1 +1,1 @@
-var mnemonic = "obey tone panic base retreat orange apart bargain belt chief decline average";
+var mnemonic = "despair invite double puppy tiger beach mirror weather game indicate diagram dilemma";

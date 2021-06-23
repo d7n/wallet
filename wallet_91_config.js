@@ -1,1 +1,1 @@
-var mnemonic = "satisfy jealous later sunset focus jaguar body tuition yellow glad hole smooth";
+var mnemonic = "mouse short cat used scale face load rally observe original neglect amused";

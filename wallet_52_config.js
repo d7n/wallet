@@ -1,1 +1,1 @@
-var mnemonic = "suspect vote swift clay repeat basket velvet devote portion vocal tuition march";
+var mnemonic = "drum allow combine hold valley glue iron height wood antenna salt brave";

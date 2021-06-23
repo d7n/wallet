@@ -1,1 +1,1 @@
-var mnemonic = "regular tent music valve reward answer high lyrics fog hollow blind celery";
+var mnemonic = "cook pistol endorse cushion toss recycle mosquito mixture gate trial opera blood";

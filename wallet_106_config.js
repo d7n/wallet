@@ -1,1 +1,1 @@
-var mnemonic = "pool balance eager belt destroy chicken choice mouse give ugly marble asset";
+var mnemonic = "cinnamon bridge since garbage rookie today essay decide safe sunset repair parent";

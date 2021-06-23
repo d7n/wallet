@@ -1,1 +1,1 @@
-var mnemonic = "convince magic artefact brother toward fortune april frozen analyst approve much shop";
+var mnemonic = "hip glare nest improve engage uncle next begin blur tuition anxiety oblige";

@@ -1,1 +1,1 @@
-var mnemonic = "cliff brisk fall unique repeat angry coconut neglect vendor spike west wealth";
+var mnemonic = "riot pyramid return prefer secret modify right west remove magic spot vintage";

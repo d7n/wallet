@@ -1,1 +1,1 @@
-var mnemonic = "melody equip glow tone occur praise jealous sock torch actual high virus";
+var mnemonic = "simple assist illness state simple laugh fantasy lab tortoise bachelor ranch keen";

@@ -1,1 +1,1 @@
-var mnemonic = "bus rice naive boss trophy clock one test cabin damp traffic media";
+var mnemonic = "exile affair display nerve please fatigue announce skirt renew omit about asset";

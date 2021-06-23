@@ -1,1 +1,1 @@
-var mnemonic = "begin scout either sight knife task patch twelve afford shrimp bulk turn";
+var mnemonic = "pear dutch garage pulse gas choice cherry float flock promote fan dizzy";

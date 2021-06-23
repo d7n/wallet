@@ -1,1 +1,1 @@
-var mnemonic = "curtain drive aerobic aisle credit seven scare they dilemma speed narrow pull";
+var mnemonic = "unveil beauty sleep boring undo warm parent trust witness drum magic stock";
