@@ -1,1 +1,1 @@
-var mnemonic = "gap dust grace mystery power length ranch whip problem pulp lava cry";
+var mnemonic = "opinion beyond panda wagon test practice trip blast van bonus edge rabbit";

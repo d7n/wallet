@@ -1,1 +1,1 @@
-var mnemonic = "dragon enter lady high lend body carpet toddler wrong conduct reflect goddess";
+var mnemonic = "there news glory alley ranch fun just tiger victory ecology immense baby";

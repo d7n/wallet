@@ -1,1 +1,1 @@
-var mnemonic = "dinner egg large two end lion bundle vendor else phone trap mouse";
+var mnemonic = "square army amateur spice urge evolve income way ripple twenty danger actual";

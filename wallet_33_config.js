@@ -1,1 +1,1 @@
-var mnemonic = "eight intact lawn able island wealth height liberty coyote attitude flash problem";
+var mnemonic = "miracle already sail cloth health tiny make frost make rural liar bitter";

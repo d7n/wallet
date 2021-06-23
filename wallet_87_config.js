@@ -1,1 +1,1 @@
-var mnemonic = "pigeon smart apart stadium minimum morning short unaware regret change input keep";
+var mnemonic = "box local ten story among myself brass believe kick naive mom dilemma";

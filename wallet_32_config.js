@@ -1,1 +1,1 @@
-var mnemonic = "nerve slim decline gossip train all original adjust initial essence hurt patch";
+var mnemonic = "cool sad loop minor wash sport behind frog belt offer track doll";

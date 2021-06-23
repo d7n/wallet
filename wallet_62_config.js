@@ -1,1 +1,1 @@
-var mnemonic = "chunk little voyage say witness rose season spoon dance weather unlock ivory";
+var mnemonic = "sting unfold zoo pistol machine latin boy elder alone remember embody enact";

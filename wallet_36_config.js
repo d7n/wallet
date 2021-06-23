@@ -1,1 +1,1 @@
-var mnemonic = "unfair wool kiss need diesel luxury public carry frequent guess pair gas";
+var mnemonic = "quantum double debate leopard demise body raw naive decide destroy insect eternal";

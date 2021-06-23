@@ -1,1 +1,1 @@
-var mnemonic = "flavor exotic thank access symptom eagle squeeze brisk blush bag omit hobby";
+var mnemonic = "thrive six verify subway admit category interest attend bulk cruise mother bind";

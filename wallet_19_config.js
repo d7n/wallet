@@ -1,1 +1,1 @@
-var mnemonic = "fossil just obtain margin profit mesh assume kind any day outer sample";
+var mnemonic = "cliff brisk fall unique repeat angry coconut neglect vendor spike west wealth";

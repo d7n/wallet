@@ -1,1 +1,1 @@
-var mnemonic = "trade elder suit lab charge radio estate seed equal model dash try";
+var mnemonic = "denial industry female vicious myth ice betray square session energy gap climb";

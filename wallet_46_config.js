@@ -1,1 +1,1 @@
-var mnemonic = "grant man cousin first real acoustic whip simple catch addict sign already";
+var mnemonic = "armed federal cook border panther sniff agent evil face crane journey worry";

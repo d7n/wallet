@@ -1,1 +1,1 @@
-var mnemonic = "bird sunny embrace pluck merge decorate employ pioneer finger best issue dish";
+var mnemonic = "faint spider cheese collect claw opera soul capable portion spatial collect library";

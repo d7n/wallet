@@ -1,1 +1,1 @@
-var mnemonic = "quit sunny mimic timber enter weird tired salt boost neutral myself select";
+var mnemonic = "pilot play wife regret goddess crash solve smile gravity kitchen mixed control";

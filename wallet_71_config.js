@@ -1,1 +1,1 @@
-var mnemonic = "strike oyster random own review please party focus stumble insect valve drum";
+var mnemonic = "member dizzy style clinic brown dirt slab shy region human film easily";

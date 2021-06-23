@@ -1,1 +1,1 @@
-var mnemonic = "short shed gauge vapor cradle since heart jar scorpion eagle column urge";
+var mnemonic = "system fuel fitness cash zebra crumble next sugar name picnic grab uncle";

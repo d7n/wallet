@@ -1,1 +1,1 @@
-var mnemonic = "wait theory wine install spin grow urban winner audit october claim wood";
+var mnemonic = "hurry certain cheap recycle lift any cigar brain sense foot shy metal";

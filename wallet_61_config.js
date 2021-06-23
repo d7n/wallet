@@ -1,1 +1,1 @@
-var mnemonic = "narrow coyote sun pink rookie piece hamster glove wealth extra enemy raven";
+var mnemonic = "snap mutual priority helmet display now search alpha leopard injury guide obey";

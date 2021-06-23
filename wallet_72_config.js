@@ -1,1 +1,1 @@
-var mnemonic = "medal pretty behave basic spy stumble like volcano link rack tuna minute";
+var mnemonic = "arena later army melody scene day yellow bamboo frame target lyrics trophy";

@@ -1,1 +1,1 @@
-var mnemonic = "explain coin tourist misery slogan sponsor smart whale spell olympic monkey first";
+var mnemonic = "pool balance eager belt destroy chicken choice mouse give ugly marble asset";

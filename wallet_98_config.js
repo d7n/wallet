@@ -1,1 +1,1 @@
-var mnemonic = "museum plate bless expand juice mosquito rain mimic avocado sound merry sun";
+var mnemonic = "main human sick icon inquiry enjoy long half garden fruit shaft extend";

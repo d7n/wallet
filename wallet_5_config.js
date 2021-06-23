@@ -1,1 +1,1 @@
-var mnemonic = "front plunge crash acquire box uncle dial series illness attack despair talent";
+var mnemonic = "sleep ketchup wire salad settle sing behind tiny vanish goat unfair crater";

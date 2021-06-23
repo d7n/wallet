@@ -1,1 +1,1 @@
-var mnemonic = "club creek medal apart lunch hold critic art estate enter client scene";
+var mnemonic = "regular tent music valve reward answer high lyrics fog hollow blind celery";

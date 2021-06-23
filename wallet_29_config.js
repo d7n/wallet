@@ -1,1 +1,1 @@
-var mnemonic = "wisdom bullet latin salute abandon juice poet garage embody machine hire gift";
+var mnemonic = "apple conduct adult rebel popular hole hello ride portion arch notice upgrade";

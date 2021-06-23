@@ -1,1 +1,1 @@
-var mnemonic = "blade water kitten sustain sweet guard color alpha motion hero vintage mother";
+var mnemonic = "express sight journey decrease inner proof color wolf cousin infant catch describe";

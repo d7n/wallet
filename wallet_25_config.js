@@ -1,1 +1,1 @@
-var mnemonic = "unique opera health upset hedgehog roof vast inform initial canyon umbrella chair";
+var mnemonic = "blush soccer dad play boy minute fiscal rail shuffle utility lobster excuse";

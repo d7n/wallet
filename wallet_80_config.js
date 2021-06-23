@@ -1,1 +1,1 @@
-var mnemonic = "fancy timber pretty benefit pilot assume make machine forest soul cabin possible";
+var mnemonic = "melody equip glow tone occur praise jealous sock torch actual high virus";

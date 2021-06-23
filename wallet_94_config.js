@@ -1,1 +1,1 @@
-var mnemonic = "charge viable forget sunset thrive update initial give cushion loud virus tobacco";
+var mnemonic = "next canal jacket stove thought fashion buzz outside ensure piece jump infant";

@@ -1,1 +1,1 @@
-var mnemonic = "chat robust hour blast session above pole inject pole exile bacon carry";
+var mnemonic = "banner reunion disease reveal kit weasel curve pioneer attack oven diary region";

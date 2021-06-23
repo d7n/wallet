@@ -1,1 +1,1 @@
-var mnemonic = "shuffle unusual announce often camera leisure fancy pony extra blame push animal";
+var mnemonic = "average clock bronze since cattle ghost neck normal kite pretty twenty traffic";

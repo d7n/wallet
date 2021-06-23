@@ -1,1 +1,1 @@
-var mnemonic = "recycle elegant adult scout kitchen film expand forest various ticket rapid scene";
+var mnemonic = "beauty situate escape ginger harvest absorb grass fat hello daughter clean pause";

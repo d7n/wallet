@@ -1,1 +1,1 @@
-var mnemonic = "citizen depend bag error ordinary finger adapt scene accident cream clog assume";
+var mnemonic = "humble steak clip orient talent occur gown kidney duck basic final snow";

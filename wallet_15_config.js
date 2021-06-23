@@ -1,1 +1,1 @@
-var mnemonic = "wide loan fortune jacket enable stand chef harvest damp actress swap gift";
+var mnemonic = "caught wool title payment slot security goat hill crush affair retreat exhibit";

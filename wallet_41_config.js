@@ -1,1 +1,1 @@
-var mnemonic = "strike virtual black calm seek tuition candy wasp swarm proof spray senior";
+var mnemonic = "place lab noise supply kit uphold peasant mesh speed tag wide mixture";

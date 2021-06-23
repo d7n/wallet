@@ -1,1 +1,1 @@
-var mnemonic = "safe asthma critic behave aerobic almost crazy body avoid maze body avocado";
+var mnemonic = "glove erode tool bulk spider unlock opera ticket weasel rude slender chest";

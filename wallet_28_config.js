@@ -1,1 +1,1 @@
-var mnemonic = "soldier sting guard loan hundred what east hurry attract blast common pilot";
+var mnemonic = "avocado tuna afford accuse stairs betray sing text abandon muffin dinosaur fossil";

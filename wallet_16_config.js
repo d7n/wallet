@@ -1,1 +1,1 @@
-var mnemonic = "series dinner recall october mother page verify dragon firm twice eagle wrestle";
+var mnemonic = "switch citizen spend denial ring twenty kiwi mistake tennis cable hazard couple";

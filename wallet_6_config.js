@@ -1,1 +1,1 @@
-var mnemonic = "rigid question silly piece gain minimum lab reveal fortune rotate media post";
+var mnemonic = "photo rally lazy find scrub position begin address foster meadow master mom";

@@ -1,1 +1,1 @@
-var mnemonic = "orient story market split stuff divorce tent thunder income barely phrase man";
+var mnemonic = "purity exercise month hint slogan impulse force soft length arrest buffalo carbon";

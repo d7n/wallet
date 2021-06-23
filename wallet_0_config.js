@@ -1,1 +1,1 @@
-var mnemonic = "skull lock host denial bench squirrel annual luxury throw feature valid canyon";
+var mnemonic = "spider blade street topic virus claw water pretty brush crystal castle what";

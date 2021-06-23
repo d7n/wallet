@@ -1,1 +1,1 @@
-var mnemonic = "play whisper mother situate clever fold dinosaur board tumble shallow club calm";
+var mnemonic = "spray naive capable curtain school ceiling brand night mom gold journey negative";

@@ -1,1 +1,1 @@
-var mnemonic = "where gaze photo click announce era roof potato forum casual wish way";
+var mnemonic = "grit snack topic prefer suit curtain fork allow champion crack patrol alcohol";

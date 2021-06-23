@@ -1,1 +1,1 @@
-var mnemonic = "stand describe cage quote puppy slide bargain suffer solve expire cross ramp";
+var mnemonic = "arrange multiply ghost auction slide wish oblige black despair remember butter pulp";

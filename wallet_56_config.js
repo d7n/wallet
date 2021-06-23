@@ -1,1 +1,1 @@
-var mnemonic = "gather what capable boy tumble bundle path truck pipe will never census";
+var mnemonic = "fresh wisdom drip print grass aim custom planet analyst flee nuclear poet";

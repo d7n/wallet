@@ -1,1 +1,1 @@
-var mnemonic = "check whisper portion vocal pottery rain dragon matrix tackle welcome model ring";
+var mnemonic = "shell guitar glory thank derive sun album list border borrow access design";

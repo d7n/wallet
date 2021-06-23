@@ -1,1 +1,1 @@
-var mnemonic = "describe later trim outer erase glance wish hedgehog olympic lobster nominee whale";
+var mnemonic = "wisdom vacant decade kite sand orient frost life enough explain dry try";

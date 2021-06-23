@@ -1,1 +1,1 @@
-var mnemonic = "couch also steel surface raw sunny invite tuna forest gentle weekend frost";
+var mnemonic = "begin scout either sight knife task patch twelve afford shrimp bulk turn";

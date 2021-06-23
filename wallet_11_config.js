@@ -1,1 +1,1 @@
-var mnemonic = "beef viable visa guess reopen believe super give mushroom hotel critic paddle";
+var mnemonic = "spring blue mouse key caught lucky reflect economy room process interest sponsor";

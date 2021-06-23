@@ -1,1 +1,1 @@
-var mnemonic = "blush swallow vast clutch angle mutual relax sunny swamp olive author retire";
+var mnemonic = "script impact blood mass remain laugh wage faith tree wheat suffer shed";

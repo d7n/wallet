@@ -1,1 +1,1 @@
-var mnemonic = "jelly tenant anxiety saddle entry force crush glory foil sponsor december jump";
+var mnemonic = "panel lottery prefer address genre dutch gap dress knife maximum marine rice";

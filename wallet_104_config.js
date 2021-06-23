@@ -1,1 +1,1 @@
-var mnemonic = "seed toward chase ethics more goose because alert auction hockey story shine";
+var mnemonic = "enhance tool social educate comic diary alcohol brass poet master spare unfold";

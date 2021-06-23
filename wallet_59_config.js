@@ -1,1 +1,1 @@
-var mnemonic = "whip filter target nut snack owner aim story whisper bridge news recall";
+var mnemonic = "glare orphan kitten retire gospel prevent light april shield crowd wasp lava";

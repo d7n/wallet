@@ -1,1 +1,1 @@
-var mnemonic = "clean ten present essence coffee small refuse pulp vast zone timber current";
+var mnemonic = "lobster squeeze govern coral position morning wool either tornado media garment punch";

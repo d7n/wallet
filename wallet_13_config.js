@@ -1,1 +1,1 @@
-var mnemonic = "brisk rich connect trend garden local sunny inherit journey mouse lake boat";
+var mnemonic = "ill discover rotate cat visit regret public evoke enable seminar sheriff salon";

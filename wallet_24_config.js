@@ -1,1 +1,1 @@
-var mnemonic = "agent cheese envelope area live scheme fossil turn much talent render pool";
+var mnemonic = "kitten enhance run unfair science orchard hidden update habit fix educate aware";

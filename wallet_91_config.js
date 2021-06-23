@@ -1,1 +1,1 @@
-var mnemonic = "ability stage marine infant elbow doctor energy grab salon suspect day acid";
+var mnemonic = "satisfy jealous later sunset focus jaguar body tuition yellow glad hole smooth";

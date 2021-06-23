@@ -1,1 +1,1 @@
-var mnemonic = "certain green impact zone company love miss lend hamster kid remember ball";
+var mnemonic = "critic system bacon water slight lava saddle flock guide demise metal barely";

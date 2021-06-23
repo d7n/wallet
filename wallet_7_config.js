@@ -1,1 +1,1 @@
-var mnemonic = "desk review egg else employ among light reform innocent bless camera clarify";
+var mnemonic = "divert equip corn narrow salad swamp coyote grace bless camera pizza blush";

@@ -1,1 +1,1 @@
-var mnemonic = "glove unveil text kit lab oppose true upper dragon kind gasp present";
+var mnemonic = "convince magic artefact brother toward fortune april frozen analyst approve much shop";

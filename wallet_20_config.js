@@ -1,1 +1,1 @@
-var mnemonic = "summer actual flip soccer mistake buzz super manage plate velvet number steel";
+var mnemonic = "merit remind faculty return never seed order dawn best lava spoon piano";

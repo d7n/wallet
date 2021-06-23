@@ -1,1 +1,1 @@
-var mnemonic = "middle donate duck sphere consider rebel payment involve stage garlic junk trade";
+var mnemonic = "hybrid maple network crisp upon heavy hurdle potato jump street gentle video";

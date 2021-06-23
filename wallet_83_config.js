@@ -1,1 +1,1 @@
-var mnemonic = "tribe leader flavor little potato adapt spirit often cycle route marine paper";
+var mnemonic = "satisfy found wasp ranch fox aunt violin inmate note thought session same";

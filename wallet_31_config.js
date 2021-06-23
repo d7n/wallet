@@ -1,1 +1,1 @@
-var mnemonic = "bean large boring garment cat month riot face bitter true call start";
+var mnemonic = "wish broken useless donor idle annual brother estate very earth talk tackle";

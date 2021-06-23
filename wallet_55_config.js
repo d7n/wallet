@@ -1,1 +1,1 @@
-var mnemonic = "door atom sure loan powder palace boil identify duty toilet nuclear recipe";
+var mnemonic = "neglect wedding awake believe vapor sniff mass congress goose omit fit east";

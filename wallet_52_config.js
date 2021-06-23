@@ -1,1 +1,1 @@
-var mnemonic = "still upgrade bounce left tube bracket diary noise solve expand cancel inspire";
+var mnemonic = "suspect vote swift clay repeat basket velvet devote portion vocal tuition march";

@@ -1,1 +1,1 @@
-var mnemonic = "throw crane vivid mad better when knock cabin midnight chimney used fresh";
+var mnemonic = "valve thunder bonus feature panther point monitor random program real banner direct";

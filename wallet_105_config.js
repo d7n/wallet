@@ -1,1 +1,1 @@
-var mnemonic = "soon afford poet winner donor kidney pool fade immense found prize above";
+var mnemonic = "brown relief seat leave small rookie chunk east pole fine slight exotic";

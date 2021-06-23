@@ -1,1 +1,1 @@
-var mnemonic = "rigid sort wife disorder tent school nephew crawl maximum clay happy memory";
+var mnemonic = "obey naive ribbon hollow spider easy close obey fold situate imitate find";

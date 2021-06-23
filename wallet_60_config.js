@@ -1,1 +1,1 @@
-var mnemonic = "apart audit era they blind parent clinic practice pottery surface topic sea";
+var mnemonic = "genius size cash eagle settle holiday survey depend purchase stage disease elevator";

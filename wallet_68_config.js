@@ -1,1 +1,1 @@
-var mnemonic = "property dolphin sport silk bunker calm solution float evil robust cloth finish";
+var mnemonic = "shoe nothing scout jealous mammal sun help hip drive donate balance aspect";

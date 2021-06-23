@@ -1,1 +1,1 @@
-var mnemonic = "average hurry olive van remove slight cheese vast slim junk comic sphere";
+var mnemonic = "beyond afford shock time credit cross another annual tooth umbrella supply verify";

@@ -1,1 +1,1 @@
-var mnemonic = "life dinosaur bomb tunnel mass page coast winter shy advice skirt supply";
+var mnemonic = "basket resource ignore grant tone they have depend filter hour corn message";

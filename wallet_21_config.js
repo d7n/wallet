@@ -1,1 +1,1 @@
-var mnemonic = "keep paper busy member stay couple own trouble wedding scatter save update";
+var mnemonic = "hint leave topple neutral hero skill symptom lift exhibit face grocery later";

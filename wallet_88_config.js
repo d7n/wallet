@@ -1,1 +1,1 @@
-var mnemonic = "network neither found long wall parrot velvet lake rice improve same damage";
+var mnemonic = "fit bargain pool bind birth city forest battle fine infant seminar parrot";

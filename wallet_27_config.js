@@ -1,1 +1,1 @@
-var mnemonic = "giggle barrel mistake aisle say oil amateur buzz artefact symptom bonus frame";
+var mnemonic = "matrix become pumpkin enrich grab top total fringe fury excess replace crumble";

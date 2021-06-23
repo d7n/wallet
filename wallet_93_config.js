@@ -1,1 +1,1 @@
-var mnemonic = "area cradle firm trial pudding quit reward inherit post heart olive ranch";
+var mnemonic = "curtain drive aerobic aisle credit seven scare they dilemma speed narrow pull";

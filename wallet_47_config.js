@@ -1,1 +1,1 @@
-var mnemonic = "pupil imitate ready post verb electric hole potato magnet laptop essay travel";
+var mnemonic = "earn sock faculty syrup sting album tiger quality lady salmon purpose index";

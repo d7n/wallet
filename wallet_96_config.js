@@ -1,1 +1,1 @@
-var mnemonic = "input change donate run know skull flat marine essence animal frame rib";
+var mnemonic = "guilt whip curve novel video flat worth extra syrup crush yellow group";

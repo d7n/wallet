@@ -1,1 +1,1 @@
-var mnemonic = "candy certain dog credit craft sponsor ecology defense vintage nephew disagree pledge";
+var mnemonic = "invest find guess call easily correct buffalo scrap hope they budget angry";

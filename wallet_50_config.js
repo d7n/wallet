@@ -1,1 +1,1 @@
-var mnemonic = "mushroom hurdle flash palm obscure grass east clown now never road blame";
+var mnemonic = "enact ghost audit seven dilemma view grace employ basic kick toy carry";

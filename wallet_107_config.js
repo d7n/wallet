@@ -1,1 +1,1 @@
-var mnemonic = "soup cloth resemble winter control cat drama banana ribbon joy orbit hungry";
+var mnemonic = "magnet cliff plate misery grunt invest cup cycle fashion roof mimic endorse";

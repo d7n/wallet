@@ -1,1 +1,1 @@
-var mnemonic = "memory clap relief veteran scheme length certain breeze client trap egg demand";
+var mnemonic = "seed figure insane evil symbol tag lecture target peanut million diesel hidden";

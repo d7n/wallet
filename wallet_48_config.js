@@ -1,1 +1,1 @@
-var mnemonic = "stumble pioneer curious refuse turtle clump action green lion effort sort pet";
+var mnemonic = "nature blouse mandate chest reveal exact salute whale acquire snap yellow argue";

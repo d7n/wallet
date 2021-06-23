@@ -1,1 +1,1 @@
-var mnemonic = "parrot hurdle grass favorite agree depend car million magnet much logic lab";
+var mnemonic = "domain loud bachelor bullet radar coil enroll letter coral garment ice neutral";

@@ -1,1 +1,1 @@
-var mnemonic = "congress decrease thing bread deal swing snow motion avocado inspire same worth";
+var mnemonic = "love print shove mobile beef ticket tired inmate predict insane orchard type";

@@ -1,1 +1,1 @@
-var mnemonic = "move liquid south ready cradle differ pink alley bulb pull noble baby";
+var mnemonic = "foil vital gas hint cry possible taste silent riot joy royal science";

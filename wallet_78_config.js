@@ -1,1 +1,1 @@
-var mnemonic = "vanish awesome resist dutch door occur setup network unable fit rather permit";
+var mnemonic = "obey tone panic base retreat orange apart bargain belt chief decline average";
