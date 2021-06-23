@@ -1,1 +1,1 @@
-var mnemonic = "pencil expand name vivid educate brown luxury envelope diamond reward lab unlock";
+var mnemonic = "abuse success impose fashion alien soda tower tank term join moon lesson";

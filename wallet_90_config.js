@@ -1,1 +1,1 @@
-var mnemonic = "cannon mask tortoise concert eye agree broom mesh slide bar erupt survey";
+var mnemonic = "science enrich include lottery burger december stable adapt anger cloth supply clever";

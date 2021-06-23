@@ -1,1 +1,1 @@
-var mnemonic = "fall arrest parrot erupt divorce normal analyst ring truth wear want clock";
+var mnemonic = "mix antenna social inform gown tent wall delay domain uncover solid pulse";

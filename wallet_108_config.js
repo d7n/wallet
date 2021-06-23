@@ -1,1 +1,1 @@
-var mnemonic = "settle holiday reopen doctor useless eternal curve arrive member glad fun remain";
+var mnemonic = "prevent act barely caution wolf science fantasy elite goat stairs only weird";

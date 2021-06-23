@@ -1,1 +1,1 @@
-var mnemonic = "artefact clever mirror woman ceiling symptom damp install erase inmate action outer";
+var mnemonic = "hold forum winter once joy any smile joy assume screen parade avoid";

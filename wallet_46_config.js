@@ -1,1 +1,1 @@
-var mnemonic = "act laundry proud peace laugh chicken open excess tuna predict mention spoil";
+var mnemonic = "puppy enough leopard sand leave strong emerge insane evil weasel tide release";

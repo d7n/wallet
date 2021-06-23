@@ -1,1 +1,1 @@
-var mnemonic = "staff sudden culture right forum swap such feel what risk tragic evil";
+var mnemonic = "giraffe mango exhibit endless grid control employ shrimp bullet open vapor vanish";

@@ -1,1 +1,1 @@
-var mnemonic = "seven report pact miracle tennis situate income shuffle trade amused depart scatter";
+var mnemonic = "old width illegal glue mountain trust mom trust betray much pride pole";

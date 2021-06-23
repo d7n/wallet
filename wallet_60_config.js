@@ -1,1 +1,1 @@
-var mnemonic = "evolve million duty marriage sense fall report segment news know damp tail";
+var mnemonic = "saddle slight pretty canyon mixture train doll picnic demise arrest orange stage";

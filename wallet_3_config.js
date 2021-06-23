@@ -1,1 +1,1 @@
-var mnemonic = "goat alone valve acid rare zebra boss chronic output elevator elevator just";
+var mnemonic = "noble lake junior put fun segment need cruise uniform jazz sail receive";

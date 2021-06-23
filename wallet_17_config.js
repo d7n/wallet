@@ -1,1 +1,1 @@
-var mnemonic = "depth ranch satisfy example sword aunt attend old dose distance prison dress";
+var mnemonic = "stem sight iron shadow boring scissors indicate burger swing girl pyramid certain";

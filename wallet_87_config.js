@@ -1,1 +1,1 @@
-var mnemonic = "coral legal afraid crash pear prepare level trap sad hockey core proof";
+var mnemonic = "diet stool cattle sentence kitten jelly deer win horn garden maple expand";

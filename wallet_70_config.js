@@ -1,1 +1,1 @@
-var mnemonic = "salt follow miracle regret insane raccoon enter tuna chalk you visa nature";
+var mnemonic = "obvious various tattoo frown stool alone memory shield body siren second again";

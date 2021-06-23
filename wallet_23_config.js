@@ -1,1 +1,1 @@
-var mnemonic = "trip ball fragile quarter spell mule choose pause like coyote dash wine";
+var mnemonic = "sample bunker antenna bridge salt announce bench angry spoon mystery behave hour";

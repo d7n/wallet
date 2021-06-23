@@ -1,1 +1,1 @@
-var mnemonic = "few breeze hospital lecture over donor present final carry auction flight game";
+var mnemonic = "very lunar curtain maximum room odor urban arrest powder earn letter start";

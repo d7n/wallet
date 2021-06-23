@@ -1,1 +1,1 @@
-var mnemonic = "inside rack move execute aim illegal public consider awake double twist sport";
+var mnemonic = "ranch mule media start danger toward mouse correct power punch foster pass";

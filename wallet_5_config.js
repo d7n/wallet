@@ -1,1 +1,1 @@
-var mnemonic = "spend flee pig acoustic antenna basket polar pattern worry scare alter shock";
+var mnemonic = "access target law eternal believe desk hedgehog vibrant media vicious benefit upgrade";

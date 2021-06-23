@@ -1,1 +1,1 @@
-var mnemonic = "void random put arctic consider struggle vault say glide volcano science dentist";
+var mnemonic = "canyon knife panda share fury rescue fame luggage general payment left later";

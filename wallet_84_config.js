@@ -1,1 +1,1 @@
-var mnemonic = "excess urban audit lyrics price deer web alpha drop wedding window trade";
+var mnemonic = "page couch celery calm ivory cute wagon copy poet language bar tomorrow";

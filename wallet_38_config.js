@@ -1,1 +1,1 @@
-var mnemonic = "sponsor any trip stuff group palm boat gym poet fold picture elbow";
+var mnemonic = "sense aerobic chronic wealth medal lonely owner outdoor pair polar enrich slender";

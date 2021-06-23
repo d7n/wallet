@@ -1,1 +1,1 @@
-var mnemonic = "volume amount insect suffer position buzz fox economy tomorrow repair stage dismiss";
+var mnemonic = "appear imitate blur any leave window ribbon regret jazz broom wish naive";

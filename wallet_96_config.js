@@ -1,1 +1,1 @@
-var mnemonic = "doctor crazy lion situate demand nuclear rebel kangaroo until delay discover address";
+var mnemonic = "swarm item elite blade exercise ripple carpet employ ship patrol light orchard";

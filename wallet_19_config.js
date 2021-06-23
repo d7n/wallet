@@ -1,1 +1,1 @@
-var mnemonic = "phone render dinosaur company sphere sound penalty squirrel venture cushion stage order";
+var mnemonic = "element solar tackle detail myth amused someone ill skull supply fox lend";

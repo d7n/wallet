@@ -1,1 +1,1 @@
-var mnemonic = "ring lift space text moment already code poverty enter nerve click ribbon";
+var mnemonic = "capital open achieve wire wide heart mirror lottery anxiety concert leave summer";

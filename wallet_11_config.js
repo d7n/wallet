@@ -1,1 +1,1 @@
-var mnemonic = "path circle across galaxy gap wrist stable essay mosquito only sand announce";
+var mnemonic = "estate film infant wide video crucial sword split adjust cherry doctor access";

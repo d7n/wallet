@@ -1,1 +1,1 @@
-var mnemonic = "industry echo load museum poet tortoise column document call weekend verb decrease";
+var mnemonic = "rival congress normal lion canyon festival flock excess weasel fiber foster spirit";

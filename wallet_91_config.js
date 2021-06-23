@@ -1,1 +1,1 @@
-var mnemonic = "ordinary cabin also pupil material december since glow skate draft cliff erosion";
+var mnemonic = "concert noodle ready direct rebuild delay fish sugar fluid tip myth sand";

@@ -1,1 +1,1 @@
-var mnemonic = "exchange voice subway start zone smooth matter slow hybrid owner extra spice";
+var mnemonic = "thrive know element ranch title champion model labor tattoo pupil large abuse";

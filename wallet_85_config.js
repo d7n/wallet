@@ -1,1 +1,1 @@
-var mnemonic = "spare baby demand naive south artefact blast state depth belt same lawn";
+var mnemonic = "sign stay balcony blanket pulp want level victory hunt typical affair symptom";

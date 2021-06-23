@@ -1,1 +1,1 @@
-var mnemonic = "example fence upgrade describe attack fat enlist nut good kid isolate buddy";
+var mnemonic = "matrix gentle evidence tooth attitude toddler airport heart celery tonight vivid noodle";

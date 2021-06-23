@@ -1,1 +1,1 @@
-var mnemonic = "tag remove matter stick bridge model harbor dumb enact garment poet suggest";
+var mnemonic = "unfair today huge bachelor future switch beef blind female march ball waste";

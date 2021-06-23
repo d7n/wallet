@@ -1,1 +1,1 @@
-var mnemonic = "lab used shadow october board whale weapon vendor drum input innocent inmate";
+var mnemonic = "donkey prison arctic dutch loan puzzle social width horse number acid ensure";

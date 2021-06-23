@@ -1,1 +1,1 @@
-var mnemonic = "midnight present merry curious alert solve rail sound clap axis ribbon latin";
+var mnemonic = "lemon ghost club more option kitchen dirt business speed leaf life hunt";

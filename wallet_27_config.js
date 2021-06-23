@@ -1,1 +1,1 @@
-var mnemonic = "cigar vocal street federal bridge figure service pill unaware solve level turtle";
+var mnemonic = "always more fortune labor torch exclude utility switch foot arch myself culture";

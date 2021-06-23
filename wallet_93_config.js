@@ -1,1 +1,1 @@
-var mnemonic = "example disorder mistake lab waste fan canvas bomb pumpkin code person spy";
+var mnemonic = "alien snow rotate volcano subway deal muscle swear retreat junk nuclear roast";

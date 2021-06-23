@@ -1,1 +1,1 @@
-var mnemonic = "explain enough orient hospital infant discover pride alcohol physical title oven jacket";
+var mnemonic = "ask brain debris cost heavy pool tongue account rare enrich bullet pony";

@@ -1,1 +1,1 @@
-var mnemonic = "topple praise joke fame favorite undo almost slam thank youth say club";
+var mnemonic = "gasp text bid lonely jaguar spring canoe hair debris ask shine enhance";

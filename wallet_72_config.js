@@ -1,1 +1,1 @@
-var mnemonic = "rural error gadget choose able pelican practice mansion have luggage attend ready";
+var mnemonic = "will bag umbrella crumble entry because screen elevator gesture catalog wagon warrior";

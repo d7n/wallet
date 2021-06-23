@@ -1,1 +1,1 @@
-var mnemonic = "ugly asset decide oppose spirit blood token garage liquid credit small accuse";
+var mnemonic = "bachelor drink wealth owner blush viable live buzz kiss kangaroo traffic pottery";

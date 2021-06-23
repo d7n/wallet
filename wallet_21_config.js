@@ -1,1 +1,1 @@
-var mnemonic = "because type stable puppy artefact expect bamboo endless around spatial lobster battle";
+var mnemonic = "cram lens rigid cruise soccer either card siren gaze stereo draw witness";

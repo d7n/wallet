@@ -1,1 +1,1 @@
-var mnemonic = "churn gift rival later sun skate best case picnic border ordinary narrow";
+var mnemonic = "toy absurd avoid logic fit height sand coach earn file kitten where";

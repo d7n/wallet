@@ -1,1 +1,1 @@
-var mnemonic = "exclude disorder lake cage pattern price course enforce romance differ gate engage";
+var mnemonic = "company ice hockey kidney label carpet gift until uncle party idea truck";

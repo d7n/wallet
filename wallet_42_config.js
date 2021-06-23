@@ -1,1 +1,1 @@
-var mnemonic = "wrestle spoon enrich forest dance maximum thought stumble fox fog valve rare";
+var mnemonic = "glue hope flat movie smooth soon neither fan few child rural ladder";

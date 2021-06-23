@@ -1,1 +1,1 @@
-var mnemonic = "purity mouse cheese view loan stand mention rail action panther virtual arrest";
+var mnemonic = "core jungle spot energy behave april exit universe reunion boss bacon empty";

@@ -1,1 +1,1 @@
-var mnemonic = "core goose renew heart neutral what tone inmate mass truly thunder human";
+var mnemonic = "awful waste supply pear dune bracket cinnamon barrel merge lawn sniff envelope";

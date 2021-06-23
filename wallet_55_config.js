@@ -1,1 +1,1 @@
-var mnemonic = "wheat wheat option escape upset bright small guide castle produce fatigue mixed";
+var mnemonic = "apart arrest media true candy file yard sniff soda race edge oak";

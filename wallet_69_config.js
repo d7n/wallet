@@ -1,1 +1,1 @@
-var mnemonic = "stove alert scissors emotion answer mobile elevator castle earth fossil hungry title";
+var mnemonic = "type solar rapid trick wave airport reform tobacco exotic country monster avoid";

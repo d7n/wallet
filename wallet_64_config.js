@@ -1,1 +1,1 @@
-var mnemonic = "develop weasel give teach cactus athlete thumb clip shift glove remind exit";
+var mnemonic = "rotate bracket prize carry erupt test stage long deputy approve limb head";

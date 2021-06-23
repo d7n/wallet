@@ -1,1 +1,1 @@
-var mnemonic = "clay nothing siren right method glue lawn capital expose enough tiger filter";
+var mnemonic = "arch west sibling belt struggle busy friend knife nation tip matter coin";

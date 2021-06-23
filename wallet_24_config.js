@@ -1,1 +1,1 @@
-var mnemonic = "minute wife harbor start march fancy fitness spoon door occur friend office";
+var mnemonic = "nothing salad truth swarm morning remove crater drama various way govern drama";

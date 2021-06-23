@@ -1,1 +1,1 @@
-var mnemonic = "latin echo benefit fluid patient universe shove wolf invest scheme system sunny";
+var mnemonic = "winner daring arrow hold clever lava dwarf also bubble stay fancy panda";

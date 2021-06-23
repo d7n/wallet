@@ -1,1 +1,1 @@
-var mnemonic = "inherit dentist door remove add holiday boring sight twin math smooth vacuum";
+var mnemonic = "deliver crack pole secret police net morning coffee fence modify leaf disease";

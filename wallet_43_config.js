@@ -1,1 +1,1 @@
-var mnemonic = "arrow someone paddle napkin slam lazy wonder shift tunnel demise tomato uniform";
+var mnemonic = "kick easily purchase auction surface door lizard omit believe fitness cheese rookie";

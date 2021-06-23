@@ -1,1 +1,1 @@
-var mnemonic = "consider farm outdoor lunch honey same hub eager waste answer filter achieve";
+var mnemonic = "acid together brief because robust parent phone civil crew juice click peasant";

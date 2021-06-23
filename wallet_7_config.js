@@ -1,1 +1,1 @@
-var mnemonic = "cash suggest reject random improve tank cradle section afraid evil lottery view";
+var mnemonic = "hammer duty fault volcano once extend spider ensure shed sudden fortune wagon";

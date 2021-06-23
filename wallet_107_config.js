@@ -1,1 +1,1 @@
-var mnemonic = "twenty social bike run lucky coil public bottom stable input deer shiver";
+var mnemonic = "odor ladder share gap sniff census carry know matrix oval blue alpha";

@@ -1,1 +1,1 @@
-var mnemonic = "promote abandon name toy choice plug size relief behave mansion orange wolf";
+var mnemonic = "require retire blade fog tobacco gift journey tell base lawn defy beauty";

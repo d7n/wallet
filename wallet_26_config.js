@@ -1,1 +1,1 @@
-var mnemonic = "account evoke below twenty disorder rival mix echo myth nothing divert sponsor";
+var mnemonic = "nest next muffin private shine legend awkward never nuclear copper right knock";

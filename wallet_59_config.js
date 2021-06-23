@@ -1,1 +1,1 @@
-var mnemonic = "version pill off only egg catch diesel random tobacco seat shiver transfer";
+var mnemonic = "height release climb used state rival abstract lab fortune rubber exit direct";

@@ -1,1 +1,1 @@
-var mnemonic = "team pond half crunch begin shield pretty frozen rare appear wheel dilemma";
+var mnemonic = "blanket oven swallow melt hint tank helmet lake tail decrease imitate crop";

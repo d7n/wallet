@@ -1,1 +1,1 @@
-var mnemonic = "truth bright miss hen train fiction symptom relax spoil cool coyote essence";
+var mnemonic = "flat lyrics drip useless notable idle zoo kite blush novel control invite";

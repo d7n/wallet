@@ -1,1 +1,1 @@
-var mnemonic = "army brother fresh note drill inner perfect inform draw credit evolve gloom";
+var mnemonic = "skirt stick away milk cage fence grief lazy youth word ship gold";

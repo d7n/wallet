@@ -1,1 +1,1 @@
-var mnemonic = "galaxy craft insane crystal east other machine excess cause warfare twelve oyster";
+var mnemonic = "mobile word reward genuine bid task orange result camera else chimney disorder";

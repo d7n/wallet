@@ -1,1 +1,1 @@
-var mnemonic = "reduce pulse frequent feel faith rifle witness organ image twin mule spend";
+var mnemonic = "pool place ready major muscle logic rug airport august toward dust hollow";

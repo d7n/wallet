@@ -1,1 +1,1 @@
-var mnemonic = "easily quick target seek lazy sand left coral palm solve rug route";
+var mnemonic = "give label legal salmon million firm angle client toddler air decide report";

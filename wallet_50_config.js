@@ -1,1 +1,1 @@
-var mnemonic = "stock egg until onion tumble crucial income world afford video circle delay";
+var mnemonic = "absurd general obscure gym unlock radio duck goose echo copy undo burger";

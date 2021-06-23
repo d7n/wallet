@@ -1,1 +1,1 @@
-var mnemonic = "skull assume absurd citizen talk blind clown daughter glow north good cycle";
+var mnemonic = "frozen join such episode fox kiwi before result bundle across useful spray";

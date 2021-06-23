@@ -1,1 +1,1 @@
-var mnemonic = "year sheriff pottery endorse this neither kind toast oxygen number man rare";
+var mnemonic = "adjust target guilt trust field sheriff hospital attract grain aisle dad notable";

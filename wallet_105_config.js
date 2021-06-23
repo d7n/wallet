@@ -1,1 +1,1 @@
-var mnemonic = "unusual bring inside cake canyon ten family dinner rigid deny echo mind";
+var mnemonic = "syrup odor assault soul excite state seek kiss squirrel laundry helmet mushroom";

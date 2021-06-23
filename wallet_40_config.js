@@ -1,1 +1,1 @@
-var mnemonic = "acoustic toilet wear oyster brain tape rough primary boring parade hedgehog fat";
+var mnemonic = "adjust track smart sphere fat economy quick device vapor reason glass salmon";

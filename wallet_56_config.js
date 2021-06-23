@@ -1,1 +1,1 @@
-var mnemonic = "fly document health assume ethics heart minor educate number drip vanish surge";
+var mnemonic = "impact tooth dinosaur rent tiny enact genius equal weekend coconut uncle aunt";

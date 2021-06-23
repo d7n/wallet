@@ -1,1 +1,1 @@
-var mnemonic = "dial melody jump ancient try main belt web course total vacuum hidden";
+var mnemonic = "walnut dignity muscle wet salt injury brass cube vibrant wet piano link";

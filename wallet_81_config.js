@@ -1,1 +1,1 @@
-var mnemonic = "onion skill alcohol elder scout swarm pepper blade embrace found twice turtle";
+var mnemonic = "journey urge soft people clever lumber door high mass crouch model loud";

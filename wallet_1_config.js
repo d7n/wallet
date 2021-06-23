@@ -1,1 +1,1 @@
-var mnemonic = "height hybrid security laugh bracket wolf assist donate lunch lava party like";
+var mnemonic = "trash elegant cram grow elevator promote online amateur found stomach analyst remain";

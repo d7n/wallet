@@ -1,1 +1,1 @@
-var mnemonic = "violin hobby time never hand echo banana check fine hammer foot logic";
+var mnemonic = "spread flip tumble dirt short ethics sail bacon must educate lunch winner";

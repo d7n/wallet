@@ -1,1 +1,1 @@
-var mnemonic = "insane shoot vault shock swap steak leave depth mistake fan flock wool";
+var mnemonic = "can donkey six acoustic wave super destroy near song trouble sting stay";

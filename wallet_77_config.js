@@ -1,1 +1,1 @@
-var mnemonic = "destroy magic slim enact camp hole project define bundle predict shove excess";
+var mnemonic = "fantasy brief icon cupboard quality comfort trip found end cactus agent monitor";

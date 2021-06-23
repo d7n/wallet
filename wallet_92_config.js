@@ -1,1 +1,1 @@
-var mnemonic = "fatal cover scissors muffin wine stomach waste begin awkward economy inherit hold";
+var mnemonic = "photo maze sentence excuse ill ethics just dish patrol ethics stay april";

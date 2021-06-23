@@ -1,1 +1,1 @@
-var mnemonic = "notice error dismiss middle spray cargo fashion unit citizen drift video quality";
+var mnemonic = "you lawsuit six alone identify genius inform decline element render boat student";

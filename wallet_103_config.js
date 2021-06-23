@@ -1,1 +1,1 @@
-var mnemonic = "roof design shoot people truly soda dice flat umbrella eye spoil wild";
+var mnemonic = "link state walk invest trial narrow chaos eight catalog weapon roof prefer";

@@ -1,1 +1,1 @@
-var mnemonic = "avoid tail put thumb middle toward employ banner kiwi budget grow negative";
+var mnemonic = "case group submit erode celery category spot relief quantum two army vivid";

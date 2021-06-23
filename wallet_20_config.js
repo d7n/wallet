@@ -1,1 +1,1 @@
-var mnemonic = "rate warfare result best parent chef dawn bubble spice there select merit";
+var mnemonic = "around replace rally harvest use plastic desk rich rotate runway siren paper";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry upset pyramid frozen east bulb hamster better appear neglect february mammal";
+var mnemonic = "cushion trust lamp useful cloud section canvas raise resource furnace inherit toddler";

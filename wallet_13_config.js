@@ -1,1 +1,1 @@
-var mnemonic = "grunt around perfect kitten jazz eye trash differ genius ice melody corn";
+var mnemonic = "clean humor glare drill museum gate wear confirm choice foam pink famous";

@@ -1,1 +1,1 @@
-var mnemonic = "ensure manage shadow brain note garlic interest advance derive fiction other federal";
+var mnemonic = "cry laptop follow local swear garage lunch myself upgrade spare brain various";

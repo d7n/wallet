@@ -1,1 +1,1 @@
-var mnemonic = "cart pride slogan system unveil minor wagon parade chuckle one drill river";
+var mnemonic = "brick coral elegant noodle eye circle this charge attract climb blush maze";

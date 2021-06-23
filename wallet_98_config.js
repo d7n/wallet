@@ -1,1 +1,1 @@
-var mnemonic = "morning require danger print bullet bargain arrive fade gym vicious identify used";
+var mnemonic = "soccer guess wise pizza arm nest crime make wife curious culture effort";

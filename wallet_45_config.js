@@ -1,1 +1,1 @@
-var mnemonic = "any valid deliver cotton snake public team garlic connect asset person wish";
+var mnemonic = "oval dust drink liberty balcony inflict stand reject price image network soda";

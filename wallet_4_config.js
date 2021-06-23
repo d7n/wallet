@@ -1,1 +1,1 @@
-var mnemonic = "tuition accuse barrel unfold body admit quarter surprise amused palace lift caution";
+var mnemonic = "subway suit shield release shed mother toy crunch dash bargain desk pink";

@@ -1,1 +1,1 @@
-var mnemonic = "oblige attract rigid deer lunar dove minimum empty bus aspect write sheriff";
+var mnemonic = "sleep produce birth author scare course blue vapor isolate pair time remove";

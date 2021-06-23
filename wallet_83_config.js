@@ -1,1 +1,1 @@
-var mnemonic = "slim six eternal wreck security shield execute acquire balance question student diagram";
+var mnemonic = "focus poet siege deny stomach scale craft fan afraid type pretty junk";
