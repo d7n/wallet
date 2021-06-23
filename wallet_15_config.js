@@ -1,1 +1,1 @@
-var mnemonic = "hybrid danger teach insect quick loan secret magnet foam enroll dust emotion";
+var mnemonic = "parent weekend spare wish denial custom speed world huge almost wrap oxygen";

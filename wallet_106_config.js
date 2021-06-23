@@ -1,1 +1,1 @@
-var mnemonic = "air stereo popular rib chest youth worth plate clean slot confirm slide";
+var mnemonic = "depth sock repair wagon tomato fall sorry include tackle kitten toward extra";

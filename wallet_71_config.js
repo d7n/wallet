@@ -1,1 +1,1 @@
-var mnemonic = "flash draft join abstract laundry master oak medal mutual express bulk mango";
+var mnemonic = "blush party satoshi tonight develop fiction chapter gas sad twist actor curve";

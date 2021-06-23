@@ -1,1 +1,1 @@
-var mnemonic = "refuse near neutral cross recall heavy gorilla doll subject error object actress";
+var mnemonic = "collect believe achieve elephant avocado squirrel sphere snap farm wolf weather boss";

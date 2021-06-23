@@ -1,1 +1,1 @@
-var mnemonic = "mouse jeans ginger pony race december damage nephew burden nothing clerk evidence";
+var mnemonic = "tattoo enable throw assist frown mule divert narrow wise minute soft sugar";

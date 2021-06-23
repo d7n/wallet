@@ -1,1 +1,1 @@
-var mnemonic = "pig toddler visual sort online party canvas hundred try embrace reject club";
+var mnemonic = "city bullet raven canvas state praise jacket spare merge six monitor private";

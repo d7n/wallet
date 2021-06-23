@@ -1,1 +1,1 @@
-var mnemonic = "fashion produce popular expand slender dream force short add rate dose private";
+var mnemonic = "fire brain thrive morning rough south gloom toast forum piano volcano public";

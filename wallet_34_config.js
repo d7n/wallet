@@ -1,1 +1,1 @@
-var mnemonic = "eight crane garlic problem become flock chronic shallow sword gesture purpose remind";
+var mnemonic = "pen gym transfer before erupt turtle couple hen leg hard flag tape";

@@ -1,1 +1,1 @@
-var mnemonic = "attitude alcohol tooth blush style tourist never omit thing night world include";
+var mnemonic = "across autumn element govern abuse opera step mercy mass swap wave throw";

@@ -1,1 +1,1 @@
-var mnemonic = "license try cargo exhaust coffee oppose assist forward weekend early book major";
+var mnemonic = "original level picnic hedgehog will bulk work angry remove maple truth paper";

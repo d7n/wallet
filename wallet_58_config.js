@@ -1,1 +1,1 @@
-var mnemonic = "produce snow various confirm trash sea pitch someone twenty cancel peasant legend";
+var mnemonic = "easy hill brand outdoor enrich glory network process arctic vehicle urban express";

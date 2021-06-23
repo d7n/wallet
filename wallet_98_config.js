@@ -1,1 +1,1 @@
-var mnemonic = "above spike ride soccer erupt nice cannon silver comfort genius despair accident";
+var mnemonic = "type hub jacket alcohol news garbage evidence crazy olympic pistol glide used";

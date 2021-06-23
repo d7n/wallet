@@ -1,1 +1,1 @@
-var mnemonic = "barrel whisper exhaust sure lion timber future room labor drip addict steel";
+var mnemonic = "slush clever blur twelve broken segment inmate topic grace pencil road bulk";

@@ -1,1 +1,1 @@
-var mnemonic = "thank piano correct problem swear equip shoe same van unfair west service";
+var mnemonic = "creek choose uncle claw ship object adult version require hand unveil lobster";

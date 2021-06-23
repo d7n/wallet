@@ -1,1 +1,1 @@
-var mnemonic = "fitness antenna demand trust toward crazy donate finger wonder garlic tennis body";
+var mnemonic = "shoulder manage voyage join girl track false rely sorry ginger fun laugh";

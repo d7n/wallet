@@ -1,1 +1,1 @@
-var mnemonic = "pulp zoo wait sudden corn disease beach problem bracket hair walk drink";
+var mnemonic = "furnace boat lumber order elephant essence fluid sample saddle multiply hint cool";

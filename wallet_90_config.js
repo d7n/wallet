@@ -1,1 +1,1 @@
-var mnemonic = "jewel cheap favorite frown hello auction outer whip tortoise obvious sphere cereal";
+var mnemonic = "reopen siege clerk exhibit sick rack diamond puppy oval worry excess boat";

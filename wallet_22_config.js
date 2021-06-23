@@ -1,1 +1,1 @@
-var mnemonic = "carry prepare exhaust route across excess domain chimney voice guard utility gun";
+var mnemonic = "autumn blush drop puzzle alone report inflict cage blast demise tilt trick";

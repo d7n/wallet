@@ -1,1 +1,1 @@
-var mnemonic = "front gas tilt title festival evolve oxygen unveil finger flag autumn attack";
+var mnemonic = "lunch october blood vague dash caution fitness aspect romance spend saddle left";

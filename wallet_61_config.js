@@ -1,1 +1,1 @@
-var mnemonic = "clarify glove law gentle habit endless pelican worry fun erupt obvious property";
+var mnemonic = "cousin destroy garment pond trash minimum timber decline swarm hood since motor";

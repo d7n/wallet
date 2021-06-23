@@ -1,1 +1,1 @@
-var mnemonic = "pet license pact chef frequent humble satoshi point scale poet trumpet bring";
+var mnemonic = "box need fade fly wet start mule draw orient blush taxi innocent";

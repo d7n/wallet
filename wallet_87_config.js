@@ -1,1 +1,1 @@
-var mnemonic = "emotion sing surge usage language bid chair mosquito sail remove toe permit";
+var mnemonic = "now canal cloth police exchange someone track jeans stairs pizza purse hybrid";

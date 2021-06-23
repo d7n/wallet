@@ -1,1 +1,1 @@
-var mnemonic = "spoon truck chalk betray erode inside quick tuna know bridge enrich extra";
+var mnemonic = "two hold shell palace other farm project depart exchange useful unfair design";

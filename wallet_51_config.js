@@ -1,1 +1,1 @@
-var mnemonic = "trip learn drastic eyebrow word price joke fish nut detect vintage cage";
+var mnemonic = "square reduce vacuum slim hawk summer rude fault neither extend mandate novel";

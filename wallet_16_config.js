@@ -1,1 +1,1 @@
-var mnemonic = "frost mind slim quantum around dish sibling miracle yard amazing nasty chapter";
+var mnemonic = "patch flower genius narrow tiger fatigue bench valid level hotel call hard";

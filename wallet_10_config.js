@@ -1,1 +1,1 @@
-var mnemonic = "segment second share fee virtual oven nominee student rebel patrol tide wagon";
+var mnemonic = "produce damp solution cook have lottery apart evolve certain salon saddle celery";

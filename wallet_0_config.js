@@ -1,1 +1,1 @@
-var mnemonic = "decade endless fatigue occur save surprise remain protect small name impose audit";
+var mnemonic = "junior weather mail alien direct tiger only where town waste card remember";

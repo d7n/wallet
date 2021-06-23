@@ -1,1 +1,1 @@
-var mnemonic = "together various lunar guess same kind misery cry make left put right";
+var mnemonic = "grunt wife expire salute smart alpha afraid nurse describe moral list prison";

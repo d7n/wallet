@@ -1,1 +1,1 @@
-var mnemonic = "magnet hope hello found lab trigger chair bracket worry salmon great drum";
+var mnemonic = "luggage toss profit choice clap elder give oxygen wolf mass salad excite";

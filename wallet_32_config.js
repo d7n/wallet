@@ -1,1 +1,1 @@
-var mnemonic = "amused bonus artist mix beach narrow train elegant dismiss double sand pottery";
+var mnemonic = "fitness allow rebel fitness rally reopen route side total tiny trip brass";

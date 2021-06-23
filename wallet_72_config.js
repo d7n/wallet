@@ -1,1 +1,1 @@
-var mnemonic = "ranch tube invite coffee awake air custom unusual slam fabric recall recipe";
+var mnemonic = "crane skin mail penalty hat another ribbon voice deer bright wrong cactus";

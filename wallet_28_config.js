@@ -1,1 +1,1 @@
-var mnemonic = "floor near floor floor lucky uniform neutral tragic limb credit cute drink";
+var mnemonic = "trick rice gallery focus few erupt strike box security disorder fish cry";

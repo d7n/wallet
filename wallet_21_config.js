@@ -1,1 +1,1 @@
-var mnemonic = "tone rug long cannon century fade rebuild amount meadow install process airport";
+var mnemonic = "assist noodle daring impose poverty bounce outdoor pink soul width boring hour";

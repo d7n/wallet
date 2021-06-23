@@ -1,1 +1,1 @@
-var mnemonic = "diesel sudden group praise illness crawl mechanic embody message person payment side";
+var mnemonic = "start success common buzz domain local recycle orange next settle meat like";

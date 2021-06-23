@@ -1,1 +1,1 @@
-var mnemonic = "silly round have step imitate current slide sign ship actress spare recipe";
+var mnemonic = "escape insect polar pumpkin file camera rate settle gorilla cabbage coyote time";

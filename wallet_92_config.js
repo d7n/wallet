@@ -1,1 +1,1 @@
-var mnemonic = "omit crush hurry rifle trophy dynamic oppose more include claw motor surface";
+var mnemonic = "unknown rely team dirt quarter kite category elbow steak judge drum penalty";

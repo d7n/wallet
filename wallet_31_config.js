@@ -1,1 +1,1 @@
-var mnemonic = "surprise impose remove suspect evolve cup leisure egg audit tunnel chronic scrub";
+var mnemonic = "neutral uncle certain fluid wolf reward travel cover spring add refuse abuse";

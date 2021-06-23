@@ -1,1 +1,1 @@
-var mnemonic = "crisp upon cause jewel puzzle typical horror private popular lucky juice flat";
+var mnemonic = "best business direct coconut blast print powder naive expect visit often champion";

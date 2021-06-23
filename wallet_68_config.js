@@ -1,1 +1,1 @@
-var mnemonic = "hello distance prosper salt entire culture pear artefact rebuild amateur pizza miss";
+var mnemonic = "pink royal august between cancel hill drill survey comfort jelly upgrade aim";

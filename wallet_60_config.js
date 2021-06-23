@@ -1,1 +1,1 @@
-var mnemonic = "before couple grain similar few blast castle bicycle filter reunion category acquire";
+var mnemonic = "payment foster gentle bunker treat ahead universe mixture robust example tongue hire";

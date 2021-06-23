@@ -1,1 +1,1 @@
-var mnemonic = "video sign cheese reflect cargo desk airport inject sock gaze gloom lab";
+var mnemonic = "inflict police basic credit picnic miss draw lab evidence spot bridge forum";

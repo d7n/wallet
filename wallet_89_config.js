@@ -1,1 +1,1 @@
-var mnemonic = "usual hour sport certain weekend seed note sort egg any oven arrest";
+var mnemonic = "actress evil faith balance soon banner coral spatial canvas cabbage pond powder";

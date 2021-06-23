@@ -1,1 +1,1 @@
-var mnemonic = "swear blossom alley table add tornado coach garbage sing sick isolate busy";
+var mnemonic = "quiz miracle daughter nerve bottom frog million mixture adjust affair obvious gain";

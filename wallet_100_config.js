@@ -1,1 +1,1 @@
-var mnemonic = "catch shallow come page dentist want neutral card refuse accident boat priority";
+var mnemonic = "second wife exercise once access bomb cereal traffic globe salute foster velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "security elbow flip truck average piano slender certain grit liar hockey immense";
+var mnemonic = "hamster return endorse distance stamp avoid vocal shallow couch country belt resemble";

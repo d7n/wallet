@@ -1,1 +1,1 @@
-var mnemonic = "make two quit attract current mouse grant erase puzzle age night check";
+var mnemonic = "blush impulse swamp blast number fossil bulb title insect worth moral reopen";

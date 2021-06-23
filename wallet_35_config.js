@@ -1,1 +1,1 @@
-var mnemonic = "volcano biology scout small multiply trick magnet lecture shaft phrase skull floor";
+var mnemonic = "ability dance choose inmate voyage appear young earth job report ketchup pluck";

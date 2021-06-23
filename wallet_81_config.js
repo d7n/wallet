@@ -1,1 +1,1 @@
-var mnemonic = "label grid describe claim stock stove leave craft slow soul erupt vague";
+var mnemonic = "token source write antenna creek artist tribe wheat denial odor delay then";

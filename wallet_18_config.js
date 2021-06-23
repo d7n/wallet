@@ -1,1 +1,1 @@
-var mnemonic = "reward negative evoke produce lava sell tuna visual pupil source episode scheme";
+var mnemonic = "siege oval hungry foot bread smooth cousin gym chat butter raven subject";

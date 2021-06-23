@@ -1,1 +1,1 @@
-var mnemonic = "seat soldier lab gorilla wild since taste goddess skin wear hockey fragile";
+var mnemonic = "glass phrase pony kiss agent increase winner frame giant market wonder emerge";

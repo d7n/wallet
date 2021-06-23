@@ -1,1 +1,1 @@
-var mnemonic = "power forum satoshi pony guitar ship own effort sugar turkey ridge essay";
+var mnemonic = "rare emerge poet execute number truth doctor pig case hidden crystal frame";

@@ -1,1 +1,1 @@
-var mnemonic = "omit frog run whip venture praise vital churn blood inside library chest";
+var mnemonic = "flash cart day remain shock scout crater pride giggle purpose knife student";

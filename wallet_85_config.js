@@ -1,1 +1,1 @@
-var mnemonic = "arena differ lake witness provide wedding erase parrot buffalo shrug awkward beef";
+var mnemonic = "blade shuffle velvet public artefact neglect resemble siren coral copy tribe coin";

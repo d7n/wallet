@@ -1,1 +1,1 @@
-var mnemonic = "furnace wedding endorse bullet wonder assist crawl brass pink million drink casino";
+var mnemonic = "install damp prison boost network agree derive normal trash hospital goat rescue";

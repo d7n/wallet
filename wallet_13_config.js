@@ -1,1 +1,1 @@
-var mnemonic = "home butter tunnel wrong season narrow gentle crucial muffin raccoon transfer gain";
+var mnemonic = "fluid hammer oxygen brother write laugh jazz rubber siege language carpet check";

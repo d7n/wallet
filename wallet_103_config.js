@@ -1,1 +1,1 @@
-var mnemonic = "rib guilt army mutual large nation water shoot upset hedgehog quick bronze";
+var mnemonic = "claim early birth glare enough hire wool kiwi maid stand neglect charge";

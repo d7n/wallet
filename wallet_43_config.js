@@ -1,1 +1,1 @@
-var mnemonic = "myself become card champion foster beyond mind rural morning drip gauge style";
+var mnemonic = "wrap robot code bench brief purpose again good amateur enough hip lumber";

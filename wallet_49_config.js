@@ -1,1 +1,1 @@
-var mnemonic = "goat spare crime stumble pond push solid kite brave scale scrap burger";
+var mnemonic = "gauge sad waste bike finish beach nasty clever shaft space mosquito level";

@@ -1,1 +1,1 @@
-var mnemonic = "offer hunt marble fly fish glory prison shoe brown ceiling bless person";
+var mnemonic = "stock trap balcony stem sample document ill north turn make crush hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "version awesome gun wealth clap embrace bracket romance price situate predict fault";
+var mnemonic = "demise aerobic pioneer slide year sadness entire slot art huge frog around";

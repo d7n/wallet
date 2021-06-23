@@ -1,1 +1,1 @@
-var mnemonic = "great razor pause moon sample powder start yellow cry gas actor slow";
+var mnemonic = "connect struggle label loop help reveal open detail hint lion runway dumb";

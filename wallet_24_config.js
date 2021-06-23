@@ -1,1 +1,1 @@
-var mnemonic = "fashion old annual right hill piano clarify panel luggage film major record";
+var mnemonic = "deliver plate army silver gossip carbon quiz fix connect focus grow game";

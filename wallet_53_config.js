@@ -1,1 +1,1 @@
-var mnemonic = "alien hole skin design rival narrow artist real wine bread space leave";
+var mnemonic = "poet video setup exchange ill ladder design ritual danger cabin major position";

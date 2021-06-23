@@ -1,1 +1,1 @@
-var mnemonic = "whale dose oak street pet paper rich popular garden occur suggest shock";
+var mnemonic = "gate tube similar garment wide riot final style soldier opinion country core";

@@ -1,1 +1,1 @@
-var mnemonic = "hair never since cart opinion biology flush photo chimney small tail thrive";
+var mnemonic = "sell surprise option age key divide damage gather repeat exchange marble truck";

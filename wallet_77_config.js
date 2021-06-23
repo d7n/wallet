@@ -1,1 +1,1 @@
-var mnemonic = "that vacuum noise route nothing vote home special walnut soul delay mistake";
+var mnemonic = "hollow endorse entire script pact sponsor ahead engage envelope lawsuit law jump";

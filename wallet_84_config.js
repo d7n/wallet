@@ -1,1 +1,1 @@
-var mnemonic = "host harbor tiger ticket hobby wait cable blast pledge shine now world";
+var mnemonic = "appear throw night tray lens lend risk blind funny require weapon shoulder";

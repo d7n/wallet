@@ -1,1 +1,1 @@
-var mnemonic = "summer cherry truth visit tongue exhibit slight candy tide insane curious coast";
+var mnemonic = "swift dinosaur absent remind gesture have outer disease one can chair express";

@@ -1,1 +1,1 @@
-var mnemonic = "divert tool mention increase beach burger chair flat vibrant leisure issue conduct";
+var mnemonic = "member chapter dynamic globe network night banana diet excite rescue shoe wine";

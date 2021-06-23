@@ -1,1 +1,1 @@
-var mnemonic = "intact disorder skill utility work witness city foot tennis head brother pet";
+var mnemonic = "disagree ticket spring movie whip doll voyage melody since kangaroo table diary";

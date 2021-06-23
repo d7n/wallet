@@ -1,1 +1,1 @@
-var mnemonic = "hood uphold vague mushroom faculty essay giant rebuild oppose lift lesson plastic";
+var mnemonic = "bus host metal twin animal tomorrow energy pass extra canvas prosper puppy";

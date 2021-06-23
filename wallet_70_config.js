@@ -1,1 +1,1 @@
-var mnemonic = "large bitter become disagree addict win rocket smile gallery canyon addict apology";
+var mnemonic = "sauce number multiply wheel pull zebra mountain update bubble spoil captain metal";

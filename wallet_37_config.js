@@ -1,1 +1,1 @@
-var mnemonic = "quarter fabric hood march gauge crater usage pledge easy earth regular meadow";
+var mnemonic = "entire frequent drip deliver funny recipe sense peasant night notable police soft";

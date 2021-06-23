@@ -1,1 +1,1 @@
-var mnemonic = "receive agree soap input gift rude clean junior illness sad slogan cluster";
+var mnemonic = "leader gorilla letter gather diary gym ceiling clown shift upset system syrup";

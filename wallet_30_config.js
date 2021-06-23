@@ -1,1 +1,1 @@
-var mnemonic = "usage section always unique cherry subway ceiling category phone dirt night narrow";
+var mnemonic = "cluster able letter rhythm explain laptop stick moral reject small fury inject";

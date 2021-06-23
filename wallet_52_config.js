@@ -1,1 +1,1 @@
-var mnemonic = "despair crater push dismiss black celery coil foster soft perfect fitness game";
+var mnemonic = "punch virtual come expand truth spray visit predict amateur amount limb fault";

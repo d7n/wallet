@@ -1,1 +1,1 @@
-var mnemonic = "silk own draft entire wire crane visa order size night can blue";
+var mnemonic = "shallow unveil doll basket fold man remain skin another speed stage cereal";

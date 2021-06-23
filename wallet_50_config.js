@@ -1,1 +1,1 @@
-var mnemonic = "advance chat churn monitor museum welcome fly green visa cycle boost car";
+var mnemonic = "teach speak dumb casual drill ocean axis educate knee hollow staff genius";

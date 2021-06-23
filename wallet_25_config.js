@@ -1,1 +1,1 @@
-var mnemonic = "symbol tray melt sunny wear soft slim plastic menu still deer chef";
+var mnemonic = "inquiry boil face exact motor double motion pony welcome voyage effort bring";

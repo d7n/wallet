@@ -1,1 +1,1 @@
-var mnemonic = "file mom bar pilot glue blood orchard empower fun diesel monkey check";
+var mnemonic = "combine course search cheap fluid old weekend female fee menu surface visit";

@@ -1,1 +1,1 @@
-var mnemonic = "kiss quantum weekend excite venue arctic logic hub card sword vital hunt";
+var mnemonic = "flat canal slab toss rural huge bind twenty scan talent cheap party";

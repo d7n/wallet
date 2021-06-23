@@ -1,1 +1,1 @@
-var mnemonic = "design junk dress seminar slow dirt bench express half month dirt horse";
+var mnemonic = "during inherit drive curious inside jar jump crystal gate fitness slot scrub";

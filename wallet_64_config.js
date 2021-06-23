@@ -1,1 +1,1 @@
-var mnemonic = "false multiply promote stadium hamster fee speak peasant turkey render lyrics such";
+var mnemonic = "work athlete toilet enforce skirt source run grief foil float gasp man";

@@ -1,1 +1,1 @@
-var mnemonic = "merge proof open one trash blush twist sweet purpose seek tip juice";
+var mnemonic = "myth sheriff night property final beach word dawn evolve often depth recall";

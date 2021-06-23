@@ -1,1 +1,1 @@
-var mnemonic = "ankle imitate pilot sketch scale grow service bleak wagon ostrich load witness";
+var mnemonic = "ticket joy nurse glance acoustic amateur melody rival unable hand powder lunch";

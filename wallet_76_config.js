@@ -1,1 +1,1 @@
-var mnemonic = "task adjust merit derive jealous robust couch twist leader barely run lesson";
+var mnemonic = "critic over husband upgrade another fresh strong public awake what title nature";

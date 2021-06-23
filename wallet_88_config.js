@@ -1,1 +1,1 @@
-var mnemonic = "make check shell mass general staff embark acquire identify menu curve cherry";
+var mnemonic = "explain hub apart toe foil visit matrix mandate engage police forward crazy";

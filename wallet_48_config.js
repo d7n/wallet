@@ -1,1 +1,1 @@
-var mnemonic = "hawk execute message shaft cotton stable goddess noise youth turtle short play";
+var mnemonic = "card knife pole small silent vintage sorry diary start cream lake day";

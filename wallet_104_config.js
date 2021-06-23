@@ -1,1 +1,1 @@
-var mnemonic = "step credit silly night air name town phone express north lock argue";
+var mnemonic = "angry advance echo traffic later until weasel sketch rural traffic curve oyster";

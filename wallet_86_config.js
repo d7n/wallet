@@ -1,1 +1,1 @@
-var mnemonic = "fashion lumber satisfy ethics mosquito order tomorrow day witness portion lawsuit senior";
+var mnemonic = "trash outside suit obvious better vanish repair loud faith laptop title vague";

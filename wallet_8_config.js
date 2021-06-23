@@ -1,1 +1,1 @@
-var mnemonic = "must junk antenna surround couple olive valid idle happy wonder demise want";
+var mnemonic = "heavy stamp trick lawsuit grant stove wish dad find fault muscle opinion";

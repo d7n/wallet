@@ -1,1 +1,1 @@
-var mnemonic = "teach make museum arrest relief survey wide wash wash robust nest accuse";
+var mnemonic = "bus favorite flavor suit tooth broken aware live annual width display island";
