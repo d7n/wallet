@@ -1,1 +1,1 @@
-var mnemonic = "plastic sustain priority just enroll opinion balance among century hover express desert";
+var mnemonic = "merge raise bulk now jazz evidence carbon chief hotel flash walnut quarter";

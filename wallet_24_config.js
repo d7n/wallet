@@ -1,1 +1,1 @@
-var mnemonic = "worry argue trap sad limb sample wagon rail blossom crowd glad fabric";
+var mnemonic = "foot veteran venture fog school model art keep dirt wide hair group";

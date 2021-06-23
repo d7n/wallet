@@ -1,1 +1,1 @@
-var mnemonic = "river mimic section rookie lawsuit require sure unaware long exercise crisp hunt";
+var mnemonic = "slender usage thought capital repeat grace ginger gap marriage canoe buddy key";

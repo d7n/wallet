@@ -1,1 +1,1 @@
-var mnemonic = "ladder oppose fit theme envelope submit dinosaur edge cabbage bench color task";
+var mnemonic = "dog season wise pattern carry december piano describe draft paddle arctic coin";

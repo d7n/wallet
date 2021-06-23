@@ -1,1 +1,1 @@
-var mnemonic = "tissue pistol peanut pigeon lyrics ability wrong lake news tonight elder wedding";
+var mnemonic = "share element obvious thumb height orbit bind slush tank panther wild dilemma";

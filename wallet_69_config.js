@@ -1,1 +1,1 @@
-var mnemonic = "midnight tissue direct near mixture arrow start insect bonus rail caught brief";
+var mnemonic = "step present melody nice route extra fit addict balcony census early link";

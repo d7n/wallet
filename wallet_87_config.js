@@ -1,1 +1,1 @@
-var mnemonic = "divert measure decrease pole edge consider bottom glory state material endorse glory";
+var mnemonic = "eternal february desk chalk project document puzzle assault monitor melody walnut actress";

@@ -1,1 +1,1 @@
-var mnemonic = "agent choose dumb state alone fringe flat danger reform ship broccoli defy";
+var mnemonic = "bonus knee ten bullet merge defy easy clarify please eyebrow feed sick";

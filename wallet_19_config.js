@@ -1,1 +1,1 @@
-var mnemonic = "end window crew expire this hand vague captain decline unfold vivid game";
+var mnemonic = "relax stairs setup ugly couple bundle early valid card congress liar kidney";

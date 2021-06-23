@@ -1,1 +1,1 @@
-var mnemonic = "lawn river robot together stage alley mystery powder expire pitch rapid benefit";
+var mnemonic = "asset guard ripple write oil arch arrive book august elbow flat accident";

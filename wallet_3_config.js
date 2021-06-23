@@ -1,1 +1,1 @@
-var mnemonic = "humor thank settle fit warfare subway follow wheat boat extend hole luggage";
+var mnemonic = "hip false spring robust tooth install lobster smooth into price street invest";

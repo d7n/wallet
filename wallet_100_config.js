@@ -1,1 +1,1 @@
-var mnemonic = "abuse doll pattern ability vote harbor nation mention enhance slot match force";
+var mnemonic = "ecology excite sadness quit child answer love chicken inhale lesson behind together";

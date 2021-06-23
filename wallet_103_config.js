@@ -1,1 +1,1 @@
-var mnemonic = "nasty fly surface capital loop garden vanish gate onion blush slide figure";
+var mnemonic = "cactus cherry confirm food west worth surge flame route food trophy acoustic";

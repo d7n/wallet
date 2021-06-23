@@ -1,1 +1,1 @@
-var mnemonic = "move nominee fetch page real often hungry anxiety carpet bounce bar stadium";
+var mnemonic = "crowd turkey twelve happy material exhibit debate dentist expire bid skull service";

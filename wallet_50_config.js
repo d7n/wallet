@@ -1,1 +1,1 @@
-var mnemonic = "video narrow pelican process game spike sunset first turtle awkward acoustic pottery";
+var mnemonic = "decorate then leisure toast snow ivory noble canal panther borrow elder walnut";

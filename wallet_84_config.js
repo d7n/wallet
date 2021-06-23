@@ -1,1 +1,1 @@
-var mnemonic = "height maze become example million erode culture tone bless bomb envelope unusual";
+var mnemonic = "ship kite myth follow tooth example symbol heart tennis enact boring rhythm";

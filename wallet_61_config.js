@@ -1,1 +1,1 @@
-var mnemonic = "amateur boost knock cluster dolphin trade endless indicate warm party amount brown";
+var mnemonic = "acid undo news lucky crater edit actual inside client razor always song";

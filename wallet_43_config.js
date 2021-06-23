@@ -1,1 +1,1 @@
-var mnemonic = "aspect arena farm divorce shoot rose waste copper wage echo jump trigger";
+var mnemonic = "make lava rifle brick laugh exit clever educate spatial vibrant elder cactus";

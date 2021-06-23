@@ -1,1 +1,1 @@
-var mnemonic = "prevent access cage denial stool promote manage mansion between omit bird net";
+var mnemonic = "approve squeeze test immense affair dog eagle purpose increase suffer faculty limb";

@@ -1,1 +1,1 @@
-var mnemonic = "potato weasel digital dragon parrot parrot wheel field pulse doll faith sleep";
+var mnemonic = "situate entire apology armor bid spike amazing stamp lunar just liberty manage";

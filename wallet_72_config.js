@@ -1,1 +1,1 @@
-var mnemonic = "ribbon flip erosion announce delay junk scatter insane imitate husband public dirt";
+var mnemonic = "lonely mechanic satisfy comic lunch water inflict test process second blood grape";

@@ -1,1 +1,1 @@
-var mnemonic = "icon shoot exhaust come message lion smile execute hand lava sponsor release";
+var mnemonic = "depend pill kick lab pause donate never tiny truth peasant also control";

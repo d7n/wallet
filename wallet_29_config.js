@@ -1,1 +1,1 @@
-var mnemonic = "idea dance match casual captain initial ugly napkin opinion vessel valid pistol";
+var mnemonic = "indoor issue client pig ice again autumn inject public essence gorilla hold";

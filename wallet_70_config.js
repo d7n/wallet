@@ -1,1 +1,1 @@
-var mnemonic = "shoot control recipe volume powder bitter region van female pretty tenant connect";
+var mnemonic = "enlist sword grief agree scissors gloom choice polar stool nest snow normal";

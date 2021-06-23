@@ -1,1 +1,1 @@
-var mnemonic = "razor thank way member arrive forum inch remind furnace either diamond season";
+var mnemonic = "hold siege endorse finish never ceiling visual feature abandon pudding black devote";

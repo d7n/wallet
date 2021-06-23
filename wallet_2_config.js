@@ -1,1 +1,1 @@
-var mnemonic = "aspect leg ankle husband snap slab muffin sad slender card gallery attitude";
+var mnemonic = "pretty observe define develop woman width cliff load execute frown angry try";

@@ -1,1 +1,1 @@
-var mnemonic = "unhappy size giant file sea attitude predict source eternal beach orient risk";
+var mnemonic = "sell reflect want scrap pretty tribe suffer tiger march frost hero pigeon";

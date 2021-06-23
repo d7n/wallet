@@ -1,1 +1,1 @@
-var mnemonic = "kingdom casual pony cloud club palm become tackle season man digital slight";
+var mnemonic = "grace attitude agree razor popular doctor surprise logic robust life uniform leg";

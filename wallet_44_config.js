@@ -1,1 +1,1 @@
-var mnemonic = "stereo address remove soul recycle wrong rude distance dress deposit require palm";
+var mnemonic = "cake blush find spare cherry puppy injury first above marine expect solar";

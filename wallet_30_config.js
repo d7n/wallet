@@ -1,1 +1,1 @@
-var mnemonic = "wet shell junior connect average burger derive actor attitude unusual trouble logic";
+var mnemonic = "harbor noodle mail measure layer purse asthma rubber door hungry thank cry";

@@ -1,1 +1,1 @@
-var mnemonic = "meat wink dutch shift judge choice rhythm funny rally million wide below";
+var mnemonic = "clerk ahead magnet junior mix tag session pill much jelly supply blood";

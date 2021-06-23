@@ -1,1 +1,1 @@
-var mnemonic = "pelican ritual weather false convince favorite patient old sketch danger census install";
+var mnemonic = "view stool minor help dad roast arrow topple return shift sword elder";

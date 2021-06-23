@@ -1,1 +1,1 @@
-var mnemonic = "forum banana side stumble that large person depend pill charge disease toast";
+var mnemonic = "multiply category online royal picture topple feature slender empower coconut couple message";

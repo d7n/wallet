@@ -1,1 +1,1 @@
-var mnemonic = "sniff first merge track skirt maple resource cable input later crisp bind";
+var mnemonic = "afford rail trigger brain minor hard truck much dirt tell road infant";

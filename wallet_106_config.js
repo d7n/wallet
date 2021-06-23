@@ -1,1 +1,1 @@
-var mnemonic = "custom current hat warm trim match parent struggle math breeze practice flag";
+var mnemonic = "long allow bench helmet deny system cage december wish pitch mad valve";

@@ -1,1 +1,1 @@
-var mnemonic = "weasel debris eternal busy dance child isolate wide genuine frozen lunar chapter";
+var mnemonic = "still forest unaware help try economy normal recall upgrade prison debate school";

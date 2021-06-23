@@ -1,1 +1,1 @@
-var mnemonic = "require fine tortoise camera toss upon index stumble useless novel february human";
+var mnemonic = "lounge slab noodle uphold venue office nest bind anchor fine sleep spoil";

@@ -1,1 +1,1 @@
-var mnemonic = "connect dash hood dentist skirt right satoshi maple icon empty program three";
+var mnemonic = "guide please head result sing dumb tube jungle forget family slam start";

@@ -1,1 +1,1 @@
-var mnemonic = "will forget obvious popular amateur funny electric antique poet cargo tattoo heavy";
+var mnemonic = "chaos boil there stick filter unlock swamp assume hidden ghost cup frame";

@@ -1,1 +1,1 @@
-var mnemonic = "title rib aware manual side popular clock enemy kiwi polar rapid mom";
+var mnemonic = "actor resource increase doctor atom lonely fall sail furnace pair island orphan";

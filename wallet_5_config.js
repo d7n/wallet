@@ -1,1 +1,1 @@
-var mnemonic = "face goddess saddle use nut nephew rug ask daughter tooth can much";
+var mnemonic = "barely news average visit thrive sign play reduce quiz travel sudden glow";

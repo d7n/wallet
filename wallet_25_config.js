@@ -1,1 +1,1 @@
-var mnemonic = "fruit stone pole manual right merit fever bracket sign forest upon tail";
+var mnemonic = "elegant busy wedding season result pyramid eyebrow ramp shaft juice crop wagon";

@@ -1,1 +1,1 @@
-var mnemonic = "crazy code friend pass hotel hard ribbon boss link duck sister silver";
+var mnemonic = "swarm crush ordinary science defense author shrug tuna brain winner latin sing";

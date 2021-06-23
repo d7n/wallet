@@ -1,1 +1,1 @@
-var mnemonic = "auction panic breeze vivid quarter between mixed sketch dentist orchard puppy matter";
+var mnemonic = "velvet venue short embrace scale they elevator rent town diet hint ticket";

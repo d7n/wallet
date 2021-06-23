@@ -1,1 +1,1 @@
-var mnemonic = "then main couch peasant estate fashion purse mad label insect spread abandon";
+var mnemonic = "secret toast over length essay addict chat earn congress since meadow gaze";

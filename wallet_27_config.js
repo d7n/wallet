@@ -1,1 +1,1 @@
-var mnemonic = "topic traffic high tonight fan tide bid onion exile teach palm crack";
+var mnemonic = "elegant lock broccoli lunch slim alter afford machine tilt awesome end kiwi";

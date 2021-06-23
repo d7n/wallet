@@ -1,1 +1,1 @@
-var mnemonic = "wheat twice spy myth dash favorite shield arm whisper change stay decade";
+var mnemonic = "rabbit crop brother valid random major lucky payment also scissors relief pact";

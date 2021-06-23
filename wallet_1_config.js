@@ -1,1 +1,1 @@
-var mnemonic = "gentle pair clarify visa perfect page shock inform gather include swing bridge";
+var mnemonic = "plug file harsh mimic chat merit bounce first member scan figure mandate";

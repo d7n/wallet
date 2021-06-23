@@ -1,1 +1,1 @@
-var mnemonic = "total boring super blast shrimp market useless donor audit adjust season inhale";
+var mnemonic = "mistake series outdoor stomach ensure deal tool wasp picnic strong glance arrange";

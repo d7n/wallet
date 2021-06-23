@@ -1,1 +1,1 @@
-var mnemonic = "avoid concert twenty mosquito eager humble access era solar sugar tiger simple";
+var mnemonic = "oblige fame ahead oxygen nerve fame deal demand theory sign idle swim";

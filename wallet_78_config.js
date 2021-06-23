@@ -1,1 +1,1 @@
-var mnemonic = "wheat knee spoon capable eight stamp lawsuit spawn icon emotion sing enforce";
+var mnemonic = "tide entire become ancient outdoor stand slender reduce ginger crawl coast pact";

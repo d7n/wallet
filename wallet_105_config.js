@@ -1,1 +1,1 @@
-var mnemonic = "pony release school city glory great tunnel tool impact satisfy half crater";
+var mnemonic = "dirt today nuclear erupt wire clown supreme arm save fabric clay enable";

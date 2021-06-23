@@ -1,1 +1,1 @@
-var mnemonic = "silly hybrid deal uncover fluid job vanish link indoor unlock area measure";
+var mnemonic = "tortoise forest hawk permit jungle else slender viable bronze luxury rule loyal";

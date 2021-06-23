@@ -1,1 +1,1 @@
-var mnemonic = "marine lonely taste coral course sadness have stereo teach wagon emotion winter";
+var mnemonic = "core merit ring glove pigeon parent address faculty hollow feel monkey exhaust";

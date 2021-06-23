@@ -1,1 +1,1 @@
-var mnemonic = "upset ginger enjoy force penalty bench feel verify century slot apology snack";
+var mnemonic = "believe motor online suit bunker town error unable genius ring rookie great";

@@ -1,1 +1,1 @@
-var mnemonic = "potato negative expose cable horse sea sail grant provide lyrics panda find";
+var mnemonic = "isolate chase kingdom camera cute smile sheriff sand slogan valley liquid improve";

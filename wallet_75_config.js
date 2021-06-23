@@ -1,1 +1,1 @@
-var mnemonic = "few sniff kitchen net fluid arch place soap craft praise panel crater";
+var mnemonic = "thought decline neglect insane ceiling wrong toast long huge citizen tunnel leisure";

@@ -1,1 +1,1 @@
-var mnemonic = "lazy song fault perfect afraid fish spoon guess degree mango march ocean";
+var mnemonic = "problem cherry upon clap hero myth rookie input destroy various glare inject";

@@ -1,1 +1,1 @@
-var mnemonic = "parade wife muscle ramp muscle just middle depart away endless faint frame";
+var mnemonic = "glue brass seven state smoke feature subway black exchange kiss pupil sad";

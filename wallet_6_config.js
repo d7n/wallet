@@ -1,1 +1,1 @@
-var mnemonic = "convince clinic define more novel hundred describe angry law card diamond skill";
+var mnemonic = "fury release must afraid focus tongue worth hint beach fault achieve harbor";

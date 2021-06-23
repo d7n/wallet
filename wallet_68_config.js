@@ -1,1 +1,1 @@
-var mnemonic = "deer artefact best kingdom beauty chef change sell december rotate total stock";
+var mnemonic = "purpose spirit tuition bread nest festival busy net staff sudden crew december";

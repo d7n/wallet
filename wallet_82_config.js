@@ -1,1 +1,1 @@
-var mnemonic = "aspect coconut moral screen dash run miracle use salad hover smooth cargo";
+var mnemonic = "picnic teach latin flock force delay fan lab cycle olive whale stock";

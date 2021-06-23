@@ -1,1 +1,1 @@
-var mnemonic = "forward woman aisle enlist enact latin anchor unfair stairs mass proud salt";
+var mnemonic = "bottom record nurse medal eager diamond test crash bar shy aim picture";

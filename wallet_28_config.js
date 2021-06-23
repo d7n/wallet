@@ -1,1 +1,1 @@
-var mnemonic = "spy lucky burden exclude fantasy shoulder palace vital swap embark excuse enjoy";
+var mnemonic = "play circle promote inquiry youth thank knee glance truck marine bench humor";

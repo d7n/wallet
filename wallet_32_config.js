@@ -1,1 +1,1 @@
-var mnemonic = "boring left large drip alone soft accuse prize labor volcano genuine fine";
+var mnemonic = "force ceiling muscle example tooth typical blouse bracket sail emerge doll agent";

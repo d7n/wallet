@@ -1,1 +1,1 @@
-var mnemonic = "high gorilla erosion demand around pride trial alley boat thumb observe spring";
+var mnemonic = "leave hat boss join kit say gap float mammal include refuse churn";

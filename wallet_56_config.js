@@ -1,1 +1,1 @@
-var mnemonic = "bargain toward lion style crater sugar quality model honey good immense orphan";
+var mnemonic = "song age again track capital struggle feature maximum sport result renew flash";

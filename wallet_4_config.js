@@ -1,1 +1,1 @@
-var mnemonic = "custom category saddle artist crater ring bench basket nerve fiscal junior ridge";
+var mnemonic = "gasp around noodle grief latin uphold syrup region feed dilemma leisure stool";

@@ -1,1 +1,1 @@
-var mnemonic = "room space circle source measure organ merry spy spirit strategy oil honey";
+var mnemonic = "demand course radar agent shallow isolate water spoil choose process glove office";

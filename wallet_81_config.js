@@ -1,1 +1,1 @@
-var mnemonic = "enter embark bench marble churn radio purse emerge absurd grape stem frog";
+var mnemonic = "polar praise frown bench city suit tape surprise bounce journey oyster excuse";

@@ -1,1 +1,1 @@
-var mnemonic = "refuse canyon merry deliver surprise blame foot can deny credit absorb change";
+var mnemonic = "buddy rough thrive donor toilet hybrid island idle grant confirm parent vivid";

@@ -1,1 +1,1 @@
-var mnemonic = "recall badge gravity elevator frame goddess armed skirt brush nominee copper response";
+var mnemonic = "trial appear hurdle emotion card protect crunch ensure increase oblige famous physical";

@@ -1,1 +1,1 @@
-var mnemonic = "better morning wing female merry club sea coast outer also exercise desk";
+var mnemonic = "apple benefit doctor truth dinner design dune audit gas merit sweet flash";

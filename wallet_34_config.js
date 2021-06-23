@@ -1,1 +1,1 @@
-var mnemonic = "present taste reduce world trash cool yard blossom harbor venue blush salon";
+var mnemonic = "topple cook sauce science pencil permit girl phrase copper case effort habit";

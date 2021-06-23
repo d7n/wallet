@@ -1,1 +1,1 @@
-var mnemonic = "attend you fiscal toilet chuckle army umbrella tomato report twelve rough cool";
+var mnemonic = "diagram layer sword laugh express remain ski laugh tuition ivory kit glue";

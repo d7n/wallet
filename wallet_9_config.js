@@ -1,1 +1,1 @@
-var mnemonic = "leader movie senior become copper impact only thrive fix prison pupil pet";
+var mnemonic = "actress exclude gain timber sunny erosion soon random total good strike equip";

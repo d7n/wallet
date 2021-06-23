@@ -1,1 +1,1 @@
-var mnemonic = "scout biology hold today valley across depth flame pizza ecology dad paper";
+var mnemonic = "sad tray flower snap symptom cattle claw purse soap oxygen detail ridge";

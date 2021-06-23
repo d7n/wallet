@@ -1,1 +1,1 @@
-var mnemonic = "give minor hello office dove corn music elevator crater hockey erosion middle";
+var mnemonic = "amused resemble visit valve chapter birth mask clean senior solution blue police";

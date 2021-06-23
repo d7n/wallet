@@ -1,1 +1,1 @@
-var mnemonic = "dwarf prefer cement together genre develop scrub brief paddle secret victory muffin";
+var mnemonic = "design attend since inner escape envelope lake float dignity morning gate fashion";

@@ -1,1 +1,1 @@
-var mnemonic = "feed parrot ankle more goat input push acoustic donkey island tell thought";
+var mnemonic = "upgrade nation twin harbor coral capable few alarm smart measure fashion seminar";

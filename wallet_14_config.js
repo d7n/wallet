@@ -1,1 +1,1 @@
-var mnemonic = "emotion feature sugar range repeat enlist toast film spike record dad black";
+var mnemonic = "goose follow time rival convince certain parrot organ baby patrol pilot art";

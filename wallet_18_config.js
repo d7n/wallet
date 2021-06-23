@@ -1,1 +1,1 @@
-var mnemonic = "world someone load outdoor vicious myself insane future dentist pottery pumpkin fresh";
+var mnemonic = "regular add broccoli artefact time grant short dad tilt foil merit enhance";

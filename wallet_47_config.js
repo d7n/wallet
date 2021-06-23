@@ -1,1 +1,1 @@
-var mnemonic = "scatter put strong angle race stand evidence point humor absorb stuff comfort";
+var mnemonic = "toilet sausage index skate wire have park mango search approve raw inside";

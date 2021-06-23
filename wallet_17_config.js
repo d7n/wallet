@@ -1,1 +1,1 @@
-var mnemonic = "eagle witness enrich olive decline digital ball priority witness text scare cruel";
+var mnemonic = "broom category sketch belt celery atom scatter loan special catalog sister fold";

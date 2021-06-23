@@ -1,1 +1,1 @@
-var mnemonic = "calm connect friend pigeon jungle beauty found pink develop warfare spend sadness";
+var mnemonic = "jealous laugh capital casual toy can offer minute wise peanut fossil carry";

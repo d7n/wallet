@@ -1,1 +1,1 @@
-var mnemonic = "solve envelope hope color rich chapter process duck sphere weird glance reason";
+var mnemonic = "reopen top harsh toast alley duck patrol couch simple analyst field sleep";

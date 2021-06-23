@@ -1,1 +1,1 @@
-var mnemonic = "usage canal flavor tray convince theme ask grow suit august lawsuit type";
+var mnemonic = "belt bicycle essay item young mom game skirt promote over sweet kiss";

@@ -1,1 +1,1 @@
-var mnemonic = "mad black easy pencil roof income hungry alarm uphold stable huge gorilla";
+var mnemonic = "among tomato guitar electric lonely mansion assist shoe wheat blind cricket human";

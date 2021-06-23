@@ -1,1 +1,1 @@
-var mnemonic = "sample boring snack lion roof unaware echo kitchen private ancient canal invest";
+var mnemonic = "rubber casual already toast slow release bid fix dentist elephant arctic wall";

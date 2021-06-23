@@ -1,1 +1,1 @@
-var mnemonic = "dwarf trap inform obvious dolphin trim curious chase under crawl load recipe";
+var mnemonic = "worth hold gravity inmate discover meat weird add charge record quiz car";

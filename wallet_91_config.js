@@ -1,1 +1,1 @@
-var mnemonic = "journey champion warm skill pony rely crack sugar ignore maid zebra wage";
+var mnemonic = "speed novel frown media smile either jeans wing culture witness earn please";

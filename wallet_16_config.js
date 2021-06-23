@@ -1,1 +1,1 @@
-var mnemonic = "sentence improve monkey onion egg young profit raccoon narrow funny awkward swap";
+var mnemonic = "august sort antique cinnamon brave cram seek razor history major depend audit";

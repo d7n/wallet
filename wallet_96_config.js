@@ -1,1 +1,1 @@
-var mnemonic = "unhappy spice ready ghost tennis debate between unusual sentence twice wire page";
+var mnemonic = "focus tenant unknown improve organ rebel gadget claim fury body art father";

@@ -1,1 +1,1 @@
-var mnemonic = "order normal price photo inherit rose ozone grain dutch rug box desert";
+var mnemonic = "ordinary iron decrease wine dinosaur alert surge little practice sell segment timber";

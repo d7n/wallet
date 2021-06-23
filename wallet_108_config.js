@@ -1,1 +1,1 @@
-var mnemonic = "model explain absorb zebra zebra reward sea remind retreat quit bright stay";
+var mnemonic = "primary word timber car shadow holiday trick like dolphin list tomato click";

@@ -1,1 +1,1 @@
-var mnemonic = "adjust neck used donor atom credit exchange minimum upper logic dismiss gold";
+var mnemonic = "congress hawk scare copy curious couple best crack common select kite method";

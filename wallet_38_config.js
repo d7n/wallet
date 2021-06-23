@@ -1,1 +1,1 @@
-var mnemonic = "prosper vessel negative resist choice stage isolate blast kingdom hip file virtual";
+var mnemonic = "pizza wait alley silver february human never fancy script fringe narrow sense";
