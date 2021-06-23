@@ -1,1 +1,1 @@
-var mnemonic = "jazz scout dismiss voyage truth blossom neglect shoe tag toe ancient owner";
+var mnemonic = "useless stock jar have crew cradle intact biology decade collect final loan";

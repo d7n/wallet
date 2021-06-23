@@ -1,1 +1,1 @@
-var mnemonic = "aspect purchase similar bonus pool scene speed clown valley until cloth decrease";
+var mnemonic = "cheap beauty arrange resemble crouch tent humor comfort until endorse grant canyon";

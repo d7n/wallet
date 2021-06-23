@@ -1,1 +1,1 @@
-var mnemonic = "logic trash network endless illness result fire enough wave end measure relax";
+var mnemonic = "basket lens marine initial consider lock scrap wide tortoise lyrics also turtle";

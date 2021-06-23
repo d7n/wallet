@@ -1,1 +1,1 @@
-var mnemonic = "power rug dream biology ring humble carpet snake smile vote observe post";
+var mnemonic = "lizard magnet pet net trial pretty pulse doctor screen lens thing home";

@@ -1,1 +1,1 @@
-var mnemonic = "copper pole panda ahead alley news plunge sadness chef fit minor crawl";
+var mnemonic = "photo divorce solar peasant soda search swing shuffle custom grid able food";

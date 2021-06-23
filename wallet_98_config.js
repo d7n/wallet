@@ -1,1 +1,1 @@
-var mnemonic = "animal course olive hint proud yellow near drift vague raccoon embrace enlist";
+var mnemonic = "canyon couple polar usual moral panda favorite edge salad chef fresh cement";

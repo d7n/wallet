@@ -1,1 +1,1 @@
-var mnemonic = "lens tiny truck program manual jungle stable face robot maximum add panda";
+var mnemonic = "auction case fuel champion pear protect already call sheriff social else skin";

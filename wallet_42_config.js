@@ -1,1 +1,1 @@
-var mnemonic = "survey hurt time school hidden two piano feature jungle one excuse salon";
+var mnemonic = "wave faint assume duty town spin tiny now time become poverty august";

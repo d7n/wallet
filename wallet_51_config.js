@@ -1,1 +1,1 @@
-var mnemonic = "senior behave answer carpet water buzz elder ceiling year awake coconut inmate";
+var mnemonic = "daughter sand random fruit subway hollow park stove motion inject negative account";

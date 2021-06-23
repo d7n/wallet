@@ -1,1 +1,1 @@
-var mnemonic = "fine diesel beach color palace enrich short author reopen guilt cargo jeans";
+var mnemonic = "crouch excuse umbrella winter learn meadow screen real husband digital off cliff";

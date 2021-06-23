@@ -1,1 +1,1 @@
-var mnemonic = "blast spice sorry arrow cable attend boss awesome ghost craft atom reward";
+var mnemonic = "cloth organ frog job shield science neglect walnut long shaft patch awake";

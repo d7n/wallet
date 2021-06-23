@@ -1,1 +1,1 @@
-var mnemonic = "talent team cotton vital safe grace blast opinion advice rotate anchor day";
+var mnemonic = "spy live live oblige ankle immense female wire steak write horror harvest";

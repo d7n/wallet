@@ -1,1 +1,1 @@
-var mnemonic = "voyage caution brown embrace increase gas treat peasant educate kick fan enforce";
+var mnemonic = "jazz member chapter tuition prosper aim divorce trade cost pyramid result win";

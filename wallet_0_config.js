@@ -1,1 +1,1 @@
-var mnemonic = "obey body stage news sun hotel anchor general vital explain chronic protect";
+var mnemonic = "high odor federal mosquito fade lab inhale refuse rain cricket net expire";

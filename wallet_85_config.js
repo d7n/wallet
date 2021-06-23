@@ -1,1 +1,1 @@
-var mnemonic = "define you surround tornado electric loyal radio pupil hazard cake finish outer";
+var mnemonic = "kitten blue battle cargo attitude physical nut what clean huge average rigid";

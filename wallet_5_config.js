@@ -1,1 +1,1 @@
-var mnemonic = "oblige bonus student resemble virtual pool basket entire aunt corn renew employ";
+var mnemonic = "merry wall icon sleep catalog slot equip road hire banner enemy spray";

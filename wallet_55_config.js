@@ -1,1 +1,1 @@
-var mnemonic = "connect catch scene cherry sample neglect tuition category parade include special group";
+var mnemonic = "reunion spray search off enjoy bulk north repair month subway recall tragic";

@@ -1,1 +1,1 @@
-var mnemonic = "page sponsor useful million biology mother ring crane autumn belt slush hold";
+var mnemonic = "throw icon lyrics ridge vote language pioneer april select random enhance course";

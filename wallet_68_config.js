@@ -1,1 +1,1 @@
-var mnemonic = "enrich rebuild enough atom viable heart purse accident weapon eye protect bronze";
+var mnemonic = "retire enhance this author exchange coral screen kind offer brisk budget caution";

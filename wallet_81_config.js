@@ -1,1 +1,1 @@
-var mnemonic = "desk oven ostrich record fit stable list choose surge crater social gadget";
+var mnemonic = "edge region stomach seminar lizard vote broom segment farm enroll object effort";

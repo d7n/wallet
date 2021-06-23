@@ -1,1 +1,1 @@
-var mnemonic = "ivory crystal shuffle under deposit horse divorce they inspire apple assume tube";
+var mnemonic = "size speed wave robust climb impact pig sting dwarf deposit next effort";

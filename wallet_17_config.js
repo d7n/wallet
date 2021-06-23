@@ -1,1 +1,1 @@
-var mnemonic = "square bounce result exact comic produce milk episode voice side opera drum";
+var mnemonic = "emerge order media prosper verb regret impose imitate teach relax work venue";

@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur capable try voice hero forum opera head use casual world genuine";
+var mnemonic = "system cool news egg move fortune balcony disease brick lounge arena team";

@@ -1,1 +1,1 @@
-var mnemonic = "aerobic lazy harbor stage direct casual ripple month miss soul weekend impact";
+var mnemonic = "deer region glide unveil quote museum tell cargo weird media market diary";

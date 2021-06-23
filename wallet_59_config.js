@@ -1,1 +1,1 @@
-var mnemonic = "cave gorilla trial flame learn tomorrow decide develop saddle merry thumb gesture";
+var mnemonic = "portion thumb mass mushroom luggage doll peace large prison rather bless curious";

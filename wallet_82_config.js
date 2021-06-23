@@ -1,1 +1,1 @@
-var mnemonic = "ski please mail index raven grape fluid occur across flavor try reject";
+var mnemonic = "bargain sudden wreck live lucky sunset wire juice divert life enter join";

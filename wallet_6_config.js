@@ -1,1 +1,1 @@
-var mnemonic = "glimpse fox idle nest champion resemble universe twelve jar adjust urban galaxy";
+var mnemonic = "relief secret drop false under again tonight diet vicious submit iron shield";

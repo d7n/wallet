@@ -1,1 +1,1 @@
-var mnemonic = "horror bright dutch now library dilemma mammal ahead way put play rotate";
+var mnemonic = "guard slab equip sponsor crew scorpion pistol upgrade shiver potato impact kick";

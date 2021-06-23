@@ -1,1 +1,1 @@
-var mnemonic = "voice blade menu topple rail cable reopen one point bracket cup yard";
+var mnemonic = "earn hunt acid balcony limb injury option search year nose panic master";

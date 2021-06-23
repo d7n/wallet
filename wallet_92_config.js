@@ -1,1 +1,1 @@
-var mnemonic = "move system ship motor spatial govern legend strong either arrow affair marriage";
+var mnemonic = "bind isolate material jaguar menu maze eager rely capable manage guide confirm";

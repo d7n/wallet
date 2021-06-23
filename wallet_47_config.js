@@ -1,1 +1,1 @@
-var mnemonic = "obvious label labor quiz author fiber wink buffalo live journey poverty smooth";
+var mnemonic = "leisure expect brisk vendor rail quit rice fiction small obtain local woman";

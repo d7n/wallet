@@ -1,1 +1,1 @@
-var mnemonic = "cheese tornado spend bounce car father hope blood tooth segment craft custom";
+var mnemonic = "exclude chat rookie session lens poet naive catch advance more capital decline";

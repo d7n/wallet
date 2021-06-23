@@ -1,1 +1,1 @@
-var mnemonic = "sick drip there wrist disease ritual math order gap exit knee conduct";
+var mnemonic = "balance retire throw digital carbon uncle fury brown diagram turkey defy hotel";

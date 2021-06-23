@@ -1,1 +1,1 @@
-var mnemonic = "follow clay above street cup polar arctic icon acid fix load library";
+var mnemonic = "crew glove charge ability what core fashion era razor gown assist water";

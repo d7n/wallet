@@ -1,1 +1,1 @@
-var mnemonic = "soul cactus solve help moment devote twist tent seven boy run dignity";
+var mnemonic = "more antenna deposit cactus puzzle oak solar shift tide purity attend palace";

@@ -1,1 +1,1 @@
-var mnemonic = "idea stick unable ten bundle mention any beef harbor afford thank rigid";
+var mnemonic = "tissue myth mail tooth come fence hand first alley outside have tent";

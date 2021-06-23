@@ -1,1 +1,1 @@
-var mnemonic = "venue tray point lawn ostrich harsh tooth empower predict deal phrase moon";
+var mnemonic = "airport silent beauty win salt radar episode snack heavy drum sausage inquiry";

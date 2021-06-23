@@ -1,1 +1,1 @@
-var mnemonic = "desk slide vehicle clarify anchor close large habit benefit animal twist mechanic";
+var mnemonic = "leader alien exclude jewel walnut engage dismiss cannon ethics crisp baby observe";

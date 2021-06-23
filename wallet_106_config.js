@@ -1,1 +1,1 @@
-var mnemonic = "robust denial spider ripple approve embark control lab stairs raccoon surge target";
+var mnemonic = "slice company sunset vendor circle fame frequent easily hover sustain title skull";

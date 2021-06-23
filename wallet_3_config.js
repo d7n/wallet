@@ -1,1 +1,1 @@
-var mnemonic = "chief only habit giraffe sister ginger dilemma extra panic verify orient curtain";
+var mnemonic = "snake judge pull clump patrol cruise silver reduce odor hotel frozen raise";

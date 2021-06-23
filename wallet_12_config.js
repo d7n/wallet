@@ -1,1 +1,1 @@
-var mnemonic = "bachelor wash bring filter perfect evolve bomb grief feature supply situate calm";
+var mnemonic = "erase yellow zebra assume deer better odor endorse replace cycle vicious clever";

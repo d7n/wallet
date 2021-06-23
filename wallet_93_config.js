@@ -1,1 +1,1 @@
-var mnemonic = "runway city guitar artwork rotate canoe raccoon witness divorce raven property woman";
+var mnemonic = "top edge fragile reunion nerve athlete arctic ready march confirm diary visa";

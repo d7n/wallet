@@ -1,1 +1,1 @@
-var mnemonic = "penalty cigar wife ten critic emotion brief penalty mix suggest race giant";
+var mnemonic = "tilt first again damp eagle rebuild subway window layer degree delay history";

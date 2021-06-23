@@ -1,1 +1,1 @@
-var mnemonic = "tobacco ill slight earth welcome original insane desert coil process spray tent";
+var mnemonic = "leg scheme company category keep maze royal leopard pony modify number income";

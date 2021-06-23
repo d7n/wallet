@@ -1,1 +1,1 @@
-var mnemonic = "acid jungle cart romance method frozen level ghost shoot sample father trophy";
+var mnemonic = "animal truth tissue chair absorb must solid liberty ugly across retire wish";

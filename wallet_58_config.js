@@ -1,1 +1,1 @@
-var mnemonic = "chat estate discover evidence hurt sign fluid angle ill correct boy fit";
+var mnemonic = "double disorder away logic perfect bar reunion warrior bring enforce mandate husband";

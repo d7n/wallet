@@ -1,1 +1,1 @@
-var mnemonic = "steel armed celery stay host dentist since rice stock skin crane convince";
+var mnemonic = "course raise test endless laptop genius original foil day cost column hollow";

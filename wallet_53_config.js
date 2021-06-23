@@ -1,1 +1,1 @@
-var mnemonic = "field blue paper course sketch undo cigar power evolve park evolve lamp";
+var mnemonic = "steak post december suspect junior claw proud popular hedgehog risk olympic employ";

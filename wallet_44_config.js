@@ -1,1 +1,1 @@
-var mnemonic = "list planet tired sorry across holiday arena inhale online accident permit catch";
+var mnemonic = "during clutch citizen century adapt only extend robot drift candy kick strike";

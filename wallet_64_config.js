@@ -1,1 +1,1 @@
-var mnemonic = "insect six core course bicycle trip broken skill win wait jump salad";
+var mnemonic = "cancel visit biology caught prosper reduce retreat crater youth park youth world";

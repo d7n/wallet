@@ -1,1 +1,1 @@
-var mnemonic = "crop lock submit cause color lobster audit goddess demise regret aerobic shuffle";
+var mnemonic = "twist crash horn gown sketch label avocado dad suffer divide sniff index";

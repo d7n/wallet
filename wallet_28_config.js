@@ -1,1 +1,1 @@
-var mnemonic = "dismiss asset orbit lava truly tornado gorilla modify attitude neck enact dog";
+var mnemonic = "degree asthma tooth pencil plunge elder exit hotel reveal spawn brain awesome";

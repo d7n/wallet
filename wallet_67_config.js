@@ -1,1 +1,1 @@
-var mnemonic = "vacant saddle major real move fame rough village secret pottery split border";
+var mnemonic = "total regular what strategy donate budget brave doll diet hundred maze ribbon";

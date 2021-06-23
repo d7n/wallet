@@ -1,1 +1,1 @@
-var mnemonic = "resemble bitter inside open fiscal thank split leopard twin ethics hurt next";
+var mnemonic = "gasp cereal lend network polar snow practice random daughter beauty squirrel shock";

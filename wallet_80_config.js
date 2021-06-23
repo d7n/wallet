@@ -1,1 +1,1 @@
-var mnemonic = "trumpet person this seed rural bomb nominee permit present this style kitchen";
+var mnemonic = "merge prison gauge goose electric oxygen puppy allow leaf already sustain lumber";

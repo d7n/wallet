@@ -1,1 +1,1 @@
-var mnemonic = "swap common grab smile blush face supply veteran bronze shield brisk hub";
+var mnemonic = "pass soda random use minute embrace raw advice mobile tag enrich hole";

@@ -1,1 +1,1 @@
-var mnemonic = "sock casino burger material crack gate canal good kingdom cart pair sock";
+var mnemonic = "swap network ridge horse suit steel shaft jaguar kiss bus dawn they";

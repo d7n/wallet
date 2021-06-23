@@ -1,1 +1,1 @@
-var mnemonic = "island crouch genuine twelve reunion coyote column aerobic blind paddle green skirt";
+var mnemonic = "mistake auto cause ritual kangaroo chicken bottom height foster jeans top response";

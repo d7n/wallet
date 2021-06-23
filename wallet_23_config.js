@@ -1,1 +1,1 @@
-var mnemonic = "truth bulk inform tree history about mystery chronic miss vote sound thing";
+var mnemonic = "wood pledge quiz reopen team egg fault pyramid ocean noise certain great";

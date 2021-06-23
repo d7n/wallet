@@ -1,1 +1,1 @@
-var mnemonic = "lift rug among verb barely crunch tomato assault ripple sing village voice";
+var mnemonic = "easily teach taste industry plug stock renew outside wear trigger morning eight";

@@ -1,1 +1,1 @@
-var mnemonic = "leader antique diet audit option warm mechanic answer dynamic balance scare dune";
+var mnemonic = "hobby census nasty buyer season simple write exit recall seven loop equip";

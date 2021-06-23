@@ -1,1 +1,1 @@
-var mnemonic = "tell bunker tackle plunge hour opera mirror release doctor wagon fragile sight";
+var mnemonic = "cup table glance creek drama control juice idle soup desert jazz protect";

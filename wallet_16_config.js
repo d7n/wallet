@@ -1,1 +1,1 @@
-var mnemonic = "reunion wrong song fashion answer cupboard couple secret range document boss grain";
+var mnemonic = "angry smart rack capital mountain early submit push risk enhance rich corn";

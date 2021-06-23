@@ -1,1 +1,1 @@
-var mnemonic = "taste mail swim remove antique entry drama auction under vendor cake water";
+var mnemonic = "vibrant congress hair hobby vibrant occur install bean they forum flame drive";

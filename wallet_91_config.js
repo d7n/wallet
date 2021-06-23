@@ -1,1 +1,1 @@
-var mnemonic = "library common current lock know forget animal cute left nature jealous day";
+var mnemonic = "prevent betray dose mask dutch topic actor rich curious assault symptom rent";

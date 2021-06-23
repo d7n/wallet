@@ -1,1 +1,1 @@
-var mnemonic = "produce cable wine husband elegant patient ecology tribe use amazing cable clock";
+var mnemonic = "cost replace demand matter vendor sweet captain thrive saddle pill mouse ten";

@@ -1,1 +1,1 @@
-var mnemonic = "rib come sustain salon meat debate maximum warrior impact pipe lottery slab";
+var mnemonic = "budget stairs grunt shrimp cry enhance cheese whip story farm salmon parade";

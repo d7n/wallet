@@ -1,1 +1,1 @@
-var mnemonic = "matter venture time public curious mechanic elevator enrich odor camp festival bomb";
+var mnemonic = "grace desk clean staff horse current ill soccer hair crew assume water";

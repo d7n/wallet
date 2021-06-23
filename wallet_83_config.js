@@ -1,1 +1,1 @@
-var mnemonic = "present act brick tell stereo flip initial elephant alcohol march area claw";
+var mnemonic = "letter warm father orphan visit gorilla stamp urge dry fancy check almost";

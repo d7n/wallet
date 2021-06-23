@@ -1,1 +1,1 @@
-var mnemonic = "unique goose squeeze cannon derive drip give burger enter now knife letter";
+var mnemonic = "catch that sad liberty glad oil elephant whisper useful diamond lobster recall";

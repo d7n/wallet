@@ -1,1 +1,1 @@
-var mnemonic = "action pipe theory online light chair subway major puzzle slow brief noise";
+var mnemonic = "wheat very month wear dilemma another analyst exit toss satoshi manage tower";

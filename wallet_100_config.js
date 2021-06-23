@@ -1,1 +1,1 @@
-var mnemonic = "into game kind narrow view squirrel sense afraid melt oppose flip betray";
+var mnemonic = "space curious lazy civil shoe job popular bid tiny scan mimic stool";

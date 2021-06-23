@@ -1,1 +1,1 @@
-var mnemonic = "success morning exhibit way say crime include blast velvet finger belt allow";
+var mnemonic = "will crack tunnel knife celery unusual library spin shallow sight office code";

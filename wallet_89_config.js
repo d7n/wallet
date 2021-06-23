@@ -1,1 +1,1 @@
-var mnemonic = "amateur address frame enlist problem custom diary pulp hurdle october oil morning";
+var mnemonic = "sheriff layer system web bicycle sustain action soon coconut idle arch shift";

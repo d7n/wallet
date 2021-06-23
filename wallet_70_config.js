@@ -1,1 +1,1 @@
-var mnemonic = "range theory style practice feed legal veteran slice lazy keen melt apology";
+var mnemonic = "segment unusual kiwi physical salmon among weekend shoot eagle enhance remain smoke";

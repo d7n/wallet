@@ -1,1 +1,1 @@
-var mnemonic = "monkey aerobic erupt scout degree castle guard save question undo original cave";
+var mnemonic = "age fog thunder riot genius bike marine medal foot tell leisure alarm";

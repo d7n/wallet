@@ -1,1 +1,1 @@
-var mnemonic = "select taxi discover danger define tunnel lesson silent admit valid pole wealth";
+var mnemonic = "nation dynamic scale coral argue negative churn fox speed spin pig effort";

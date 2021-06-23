@@ -1,1 +1,1 @@
-var mnemonic = "will raise noble wall shoot giggle crack area retreat surround crop holiday";
+var mnemonic = "hold muffin trust bread patient robust nose spice bamboo random sketch doctor";

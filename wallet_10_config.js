@@ -1,1 +1,1 @@
-var mnemonic = "panel staff crater shove lobster section slender junk visual estate little web";
+var mnemonic = "state hazard dolphin turn fence time develop develop crucial arrest position cotton";

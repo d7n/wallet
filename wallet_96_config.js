@@ -1,1 +1,1 @@
-var mnemonic = "potato arch dance honey account where then address auto this ranch hobby";
+var mnemonic = "favorite admit salmon price forget someone sniff luggage knock abandon accident solve";

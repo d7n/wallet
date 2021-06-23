@@ -1,1 +1,1 @@
-var mnemonic = "sunset gain blade enact hill motion decide rice badge swap century boy";
+var mnemonic = "method anger spring grant order settle nest later coyote earn elegant shoot";

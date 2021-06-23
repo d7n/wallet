@@ -1,1 +1,1 @@
-var mnemonic = "consider leisure until scan deal repeat pill stuff refuse element ivory marriage";
+var mnemonic = "cement solid orange ahead life iron when unveil play erase fabric topic";

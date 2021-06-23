@@ -1,1 +1,1 @@
-var mnemonic = "undo tree witness shell mix photo napkin journey fantasy payment write water";
+var mnemonic = "retreat cram help empty bright nasty veteran bridge jealous swap again forest";

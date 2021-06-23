@@ -1,1 +1,1 @@
-var mnemonic = "loan grab flat march grace hockey endorse normal library stuff access robot";
+var mnemonic = "truck identify matter favorite impulse joy coral arrange betray pyramid alarm robust";

@@ -1,1 +1,1 @@
-var mnemonic = "estate bridge glance end match pear resource infant demand stable human super";
+var mnemonic = "travel scene still uphold quality ritual train sing together pool gun calm";

@@ -1,1 +1,1 @@
-var mnemonic = "below rule rough elder lawsuit receive cruise actress swift roof web extra";
+var mnemonic = "divide veteran fatal seed put draw twist consider leader extra smile void";

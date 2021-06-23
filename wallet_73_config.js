@@ -1,1 +1,1 @@
-var mnemonic = "lake recall liar unique cruel below desk bomb together then indoor rent";
+var mnemonic = "tackle dress exit mistake match saddle feature vault wife fluid addict success";

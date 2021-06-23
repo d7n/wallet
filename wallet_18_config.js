@@ -1,1 +1,1 @@
-var mnemonic = "allow divorce net before funny swamp soap reveal people wood delay idle";
+var mnemonic = "quality chief decade cluster float fetch argue pioneer apology brush beauty ranch";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk evolve syrup steel tumble inform nuclear jelly dentist traffic sight tomato";
+var mnemonic = "express van melody feed vast broken runway alpha gather galaxy vanish combine";

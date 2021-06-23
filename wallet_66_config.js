@@ -1,1 +1,1 @@
-var mnemonic = "grow long tackle south episode pill physical pond replace can upon caution";
+var mnemonic = "stumble fatigue fluid rally cereal common payment school organ setup mix melt";

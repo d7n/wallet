@@ -1,1 +1,1 @@
-var mnemonic = "scrub code eagle abandon vicious about need void resource gain soon hotel";
+var mnemonic = "truck guess meadow spread stadium exact below switch year elephant misery gold";
