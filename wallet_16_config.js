@@ -1,1 +1,1 @@
-var mnemonic = "inspire prize quote town please about debate version move decade quarter gentle";
+var mnemonic = "brand rural cereal drift surround dumb accuse sun resemble glimpse hold document";

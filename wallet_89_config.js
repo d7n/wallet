@@ -1,1 +1,1 @@
-var mnemonic = "armed capable tuition tube reward isolate settle mixture cereal earn eternal dinner";
+var mnemonic = "resource sell glow enemy jelly fee attitude choose shed slow spider light";

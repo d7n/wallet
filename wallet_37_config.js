@@ -1,1 +1,1 @@
-var mnemonic = "joke express fury cliff wonder cave bleak random surge ring slide brief";
+var mnemonic = "fit rack physical grass denial issue bargain despair return vapor exhibit general";

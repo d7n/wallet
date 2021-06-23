@@ -1,1 +1,1 @@
-var mnemonic = "gallery shrug outside mind topic resist girl miracle snake immune truth defy";
+var mnemonic = "sign exclude cushion swamp trophy scissors name boil high keep social choice";

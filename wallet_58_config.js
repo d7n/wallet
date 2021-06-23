@@ -1,1 +1,1 @@
-var mnemonic = "number negative van finish flower immense wrist search protect display wrong enhance";
+var mnemonic = "library alert mean embark version airport during critic drill ice phrase cement";

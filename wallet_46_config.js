@@ -1,1 +1,1 @@
-var mnemonic = "regret hire puppy tilt reduce sentence purpose feel escape width olympic crisp";
+var mnemonic = "add dumb parrot click garment pulp raccoon mutual wrist cool panic member";

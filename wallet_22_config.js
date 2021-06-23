@@ -1,1 +1,1 @@
-var mnemonic = "soul boil throw view raccoon frog twice zone winter skin goddess endorse";
+var mnemonic = "radar tuition early relax salute fog jar gloom rifle gasp mobile diamond";

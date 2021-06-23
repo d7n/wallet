@@ -1,1 +1,1 @@
-var mnemonic = "label pool raise false arm mango beyond distance capable gift vocal online";
+var mnemonic = "below scan tone scene lucky bounce system ugly cruel curious never absorb";

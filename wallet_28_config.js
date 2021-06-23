@@ -1,1 +1,1 @@
-var mnemonic = "give column across turtle blade device letter tattoo margin divide apology soft";
+var mnemonic = "come matter still unfair educate ugly theme hand damage sea bless dance";

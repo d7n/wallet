@@ -1,1 +1,1 @@
-var mnemonic = "inherit other climb equal connect purse field eyebrow half reopen cat buyer";
+var mnemonic = "idle two gaze sponsor sauce weasel attack ribbon actor steak menu pepper";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz drip stem frown swallow blast check matrix salt hamster educate false";
+var mnemonic = "afraid wheel require inflict visit upper test funny alley music follow seat";

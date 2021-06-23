@@ -1,1 +1,1 @@
-var mnemonic = "essence fiscal basket decorate travel powder tooth friend antenna rally candy alter";
+var mnemonic = "despair this arrange quarter raise execute final alone nest grocery wrist embody";

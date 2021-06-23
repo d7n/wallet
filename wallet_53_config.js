@@ -1,1 +1,1 @@
-var mnemonic = "hazard juice gloom photo energy seminar soldier popular tuna skin eternal attitude";
+var mnemonic = "jar security sauce prepare rally guide where spell announce divide voyage private";

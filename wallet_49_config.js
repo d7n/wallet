@@ -1,1 +1,1 @@
-var mnemonic = "clever wonder maze cinnamon floor pledge raw hazard ignore pledge hard toss";
+var mnemonic = "oval flag cruel chalk cushion mandate dust reopen buzz purchase garden thunder";

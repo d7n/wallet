@@ -1,1 +1,1 @@
-var mnemonic = "problem jungle impulse barrel sick imitate artist isolate crawl order guess spare";
+var mnemonic = "text nose busy start elite opera proud sea promote nurse portion use";

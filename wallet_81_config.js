@@ -1,1 +1,1 @@
-var mnemonic = "tilt cousin rose lift exhibit spend talent heavy giraffe increase manage relax";
+var mnemonic = "already power inspire draft sheriff swamp sauce afraid obscure area glue law";

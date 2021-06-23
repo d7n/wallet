@@ -1,1 +1,1 @@
-var mnemonic = "quarter feel else version judge fit journey room repair husband cook position";
+var mnemonic = "lady potato loan fresh goose smoke anchor dutch galaxy imitate bronze spare";

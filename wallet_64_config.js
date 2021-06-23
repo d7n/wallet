@@ -1,1 +1,1 @@
-var mnemonic = "outer welcome acoustic fossil term cake short solution scrap track clinic gain";
+var mnemonic = "addict produce fresh hurry tired exist happy undo empower tennis edge carbon";

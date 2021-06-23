@@ -1,1 +1,1 @@
-var mnemonic = "fork hungry power fashion goose bulb when help basket bridge ship absorb";
+var mnemonic = "easy traffic rose minute spawn stove track slow world usual deal mimic";

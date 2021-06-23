@@ -1,1 +1,1 @@
-var mnemonic = "tuna parrot dose eye begin gallery autumn erosion train manual fix episode";
+var mnemonic = "that bone door relax plastic they demand gauge payment kingdom climb wet";

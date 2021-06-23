@@ -1,1 +1,1 @@
-var mnemonic = "foot chalk intact pioneer script wait exhaust screen little high lizard age";
+var mnemonic = "enlist until judge wasp disagree sorry warm tomorrow gravity blush absent biology";

@@ -1,1 +1,1 @@
-var mnemonic = "capable noble royal network liar search apart timber client stage fix hand";
+var mnemonic = "movie hat okay tenant wink pink render victory hood impact moral behave";

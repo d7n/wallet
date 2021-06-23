@@ -1,1 +1,1 @@
-var mnemonic = "rent wrap stable library define armor myself cube lab agree couple day";
+var mnemonic = "gesture finger source miracle sheriff potato swing rate enhance sphere torch evoke";

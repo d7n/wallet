@@ -1,1 +1,1 @@
-var mnemonic = "tide parrot earn utility general skill such steel neck nation alcohol body";
+var mnemonic = "onion they lab put surround win lyrics huge bind sense need sight";

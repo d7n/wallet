@@ -1,1 +1,1 @@
-var mnemonic = "equip vintage shrug youth cinnamon sunny twelve drive local curve vendor chase";
+var mnemonic = "civil screen spider negative nominee flush jelly leader invest people common balance";

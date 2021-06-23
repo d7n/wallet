@@ -1,1 +1,1 @@
-var mnemonic = "soon yard tip popular tuition craft coffee clinic receive bulk zebra joke";
+var mnemonic = "derive major special ice citizen cute spring flush tomato option erosion cherry";

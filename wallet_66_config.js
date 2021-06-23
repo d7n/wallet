@@ -1,1 +1,1 @@
-var mnemonic = "feature siren seminar guilt divorce lesson panther promote excite idle kangaroo accuse";
+var mnemonic = "enemy speed opinion damp figure argue salute dune boss ticket ketchup hope";

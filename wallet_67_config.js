@@ -1,1 +1,1 @@
-var mnemonic = "field chuckle resist degree under rifle spice language update cash simple cannon";
+var mnemonic = "veteran december phrase weapon recipe off prize hurdle gold notice moment recycle";

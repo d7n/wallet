@@ -1,1 +1,1 @@
-var mnemonic = "bean interest monitor cover fork corn border risk tragic unaware network today";
+var mnemonic = "improve wood anchor earth galaxy tumble pupil lesson joke skin minute opinion";

@@ -1,1 +1,1 @@
-var mnemonic = "tumble donate curve maple diesel silent robust same hunt slender list vault";
+var mnemonic = "symptom chaos bring icon nation employ parent notable suffer patient unaware host";

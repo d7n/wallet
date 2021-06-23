@@ -1,1 +1,1 @@
-var mnemonic = "blade doll resemble library captain pair proof sunset public setup learn elite";
+var mnemonic = "document lend bunker kit recall enact public course hunt fiscal pluck winter";

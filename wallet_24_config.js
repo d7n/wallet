@@ -1,1 +1,1 @@
-var mnemonic = "view raccoon special enrich section loop angle lazy exhibit salute squeeze pool";
+var mnemonic = "fan cancel column debris wave jeans grocery only wine inquiry field salon";

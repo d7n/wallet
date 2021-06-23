@@ -1,1 +1,1 @@
-var mnemonic = "stool manual offer quote favorite taste damp sleep industry priority kiss rocket";
+var mnemonic = "tonight quarter motor youth surge industry pole achieve frame supreme glare affair";

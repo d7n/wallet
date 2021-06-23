@@ -1,1 +1,1 @@
-var mnemonic = "boost regular clutch maple eagle worry result follow caution like symbol way";
+var mnemonic = "argue noodle bright toward cushion mystery wrong spare absurd burden attitude cable";

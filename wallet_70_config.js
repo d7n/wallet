@@ -1,1 +1,1 @@
-var mnemonic = "asset juice wheat visit scare easy beach toilet slide remind grant alpha";
+var mnemonic = "draft color castle lesson quote scale obtain beef cradle boat cabbage melt";

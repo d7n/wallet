@@ -1,1 +1,1 @@
-var mnemonic = "survey about parrot caution blouse farm damage trumpet behave match cart kind";
+var mnemonic = "health radio lawn ghost profit grocery fence unusual census spike lecture price";

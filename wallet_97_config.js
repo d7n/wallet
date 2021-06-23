@@ -1,1 +1,1 @@
-var mnemonic = "client system mimic royal claw please will save paddle aware great bullet";
+var mnemonic = "path jewel reopen skin hip almost before stem corn trophy until tornado";

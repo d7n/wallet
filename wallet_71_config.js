@@ -1,1 +1,1 @@
-var mnemonic = "obtain slogan hotel lucky orange tennis lumber imitate glory there anxiety fence";
+var mnemonic = "scissors monkey gospel defense prefer road buzz army oppose agent walk pact";

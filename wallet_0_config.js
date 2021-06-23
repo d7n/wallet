@@ -1,1 +1,1 @@
-var mnemonic = "labor lizard inflict run sausage autumn castle rack heavy annual regret crunch";
+var mnemonic = "sail add pause pull soldier struggle monster praise devote baby good time";

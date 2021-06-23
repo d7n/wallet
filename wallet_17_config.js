@@ -1,1 +1,1 @@
-var mnemonic = "hour mixed crater stone cruel oven dove pulp fetch analyst render tribe";
+var mnemonic = "curtain remind focus post violin truth maze garden veteran soldier night evolve";

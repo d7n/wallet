@@ -1,1 +1,1 @@
-var mnemonic = "bag bid hammer goat tiny source library jaguar wish idea stove couple";
+var mnemonic = "wild donkey giggle leave despair cupboard universe badge north outside front trick";

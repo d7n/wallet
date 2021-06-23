@@ -1,1 +1,1 @@
-var mnemonic = "demand crouch shoe shock artist planet display switch armed dog flame hammer";
+var mnemonic = "artist cost bachelor front fetch pumpkin candy supply fluid emerge response keep";

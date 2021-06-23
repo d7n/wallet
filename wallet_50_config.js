@@ -1,1 +1,1 @@
-var mnemonic = "clock clap reunion awake sleep hope sea medal behave shell attract note";
+var mnemonic = "sadness despair forget forget analyst author day unknown ramp auction scatter remain";

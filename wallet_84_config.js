@@ -1,1 +1,1 @@
-var mnemonic = "sphere domain reason kingdom civil shove reject knock echo spray coin avocado";
+var mnemonic = "forest devote actor involve hedgehog alien breeze purchase bunker deposit relief library";

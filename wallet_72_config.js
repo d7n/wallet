@@ -1,1 +1,1 @@
-var mnemonic = "student silly mercy renew nest unable mean pitch alone cycle joy canvas";
+var mnemonic = "rely fringe shell assault fruit word island benefit magnet strike fantasy resemble";

@@ -1,1 +1,1 @@
-var mnemonic = "ski merit quarter frequent flame boring slow secret lyrics match vanish album";
+var mnemonic = "chef ready grunt zoo only cycle poet fox sausage open direct another";

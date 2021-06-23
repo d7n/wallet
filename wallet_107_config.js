@@ -1,1 +1,1 @@
-var mnemonic = "poet staff ancient arctic junior labor rack hip ordinary wrong round rapid";
+var mnemonic = "person defense ivory episode mail retire broken jaguar message brush manage need";

@@ -1,1 +1,1 @@
-var mnemonic = "list return memory cricket sample jelly finger shove reduce energy thank tape";
+var mnemonic = "online hidden lumber fish dizzy clay lazy bar dwarf exact light crop";

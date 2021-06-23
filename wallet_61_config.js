@@ -1,1 +1,1 @@
-var mnemonic = "innocent purpose hope plastic hint road fringe gate extend author that used";
+var mnemonic = "begin galaxy noodle cream chalk abandon enrich weather supreme video chuckle rebuild";

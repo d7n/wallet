@@ -1,1 +1,1 @@
-var mnemonic = "number hammer bottom income merit smoke melody chaos forget word render capital";
+var mnemonic = "frog coral rule wealth olive battle alone boil skull extend maple syrup";

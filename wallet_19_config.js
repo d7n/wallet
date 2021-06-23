@@ -1,1 +1,1 @@
-var mnemonic = "oven enforce wonder enemy improve blouse wrap citizen stereo flavor liar close";
+var mnemonic = "suspect trend cherry master advance logic load exact survey suffer diary find";

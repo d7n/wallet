@@ -1,1 +1,1 @@
-var mnemonic = "enjoy have glow bacon history mushroom foil scissors hard club other casual";
+var mnemonic = "fog river derive pulse this shoe tank else cushion island horn soldier";

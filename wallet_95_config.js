@@ -1,1 +1,1 @@
-var mnemonic = "tissue absorb frown holiday ignore cheese possible steak congress visa knife neither";
+var mnemonic = "they circle diesel deal obey number public teach someone elite imitate cake";

@@ -1,1 +1,1 @@
-var mnemonic = "elite knee allow aware picnic deny couple boat monkey chief remain ankle";
+var mnemonic = "sibling because talent later humor own cargo grape cruise model panther hole";

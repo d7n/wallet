@@ -1,1 +1,1 @@
-var mnemonic = "waste host wide weapon pattern repair dose try slide fabric present agent";
+var mnemonic = "exchange elite impulse apple purpose person army column horn aisle mention bean";

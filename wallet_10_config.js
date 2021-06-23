@@ -1,1 +1,1 @@
-var mnemonic = "cave pave ill cause rug knife despair mansion panda best picture worry";
+var mnemonic = "there fade pottery gesture bring strong collect merit rich tiny between broom";

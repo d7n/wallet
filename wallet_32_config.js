@@ -1,1 +1,1 @@
-var mnemonic = "clump reform find dad clown ranch kind wrestle ride assault consider essay";
+var mnemonic = "blind release human right pause nice faculty library bring panda arrive lobster";

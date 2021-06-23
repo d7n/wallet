@@ -1,1 +1,1 @@
-var mnemonic = "acquire nurse wait chat start cover tomato wolf day census vanish stadium";
+var mnemonic = "steel worth abstract sand hedgehog mistake equip city forum pupil wave exist";

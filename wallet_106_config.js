@@ -1,1 +1,1 @@
-var mnemonic = "timber purse rule heavy phrase smooth whip wire rose loan crowd expect";
+var mnemonic = "social rigid buyer fame feature agree sad reveal shove analyst scene receive";

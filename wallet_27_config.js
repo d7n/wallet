@@ -1,1 +1,1 @@
-var mnemonic = "aerobic size ivory culture essay typical visual will scorpion alone shield someone";
+var mnemonic = "bargain smoke disagree exchange segment cover bid between orphan keep boy rural";

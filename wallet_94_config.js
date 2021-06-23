@@ -1,1 +1,1 @@
-var mnemonic = "version oval huge skirt recall pluck orchard thought evil hedgehog allow error";
+var mnemonic = "strong tattoo luxury wood estate pact assume people put sample scrap nose";

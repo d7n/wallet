@@ -1,1 +1,1 @@
-var mnemonic = "wine flock client depart aware estate window version affair income gym payment";
+var mnemonic = "stay month quantum now path burst rotate scheme curtain asthma chest jungle";

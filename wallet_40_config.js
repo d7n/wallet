@@ -1,1 +1,1 @@
-var mnemonic = "logic system raw office gravity impose task wait nice lock keen ozone";
+var mnemonic = "snake whale thing random winter fashion zebra under ostrich fork wrong reason";

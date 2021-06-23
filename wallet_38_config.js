@@ -1,1 +1,1 @@
-var mnemonic = "step steak disagree armor smile shallow brand wheel erosion fragile level general";
+var mnemonic = "time abuse ladder pumpkin window wink finger bind erupt glimpse diesel capital";

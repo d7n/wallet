@@ -1,1 +1,1 @@
-var mnemonic = "meadow tired angle alley soon hole tuna giraffe clerk stairs warrior predict";
+var mnemonic = "situate arch expose hair project relief cherry laptop prevent kingdom audit disorder";

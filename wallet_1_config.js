@@ -1,1 +1,1 @@
-var mnemonic = "shaft island guard harbor bitter alpha admit easily genre girl have truth";
+var mnemonic = "floor spin enable cherry crawl century blue pottery wisdom trigger task relax";

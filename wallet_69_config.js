@@ -1,1 +1,1 @@
-var mnemonic = "electric rude tissue repair oyster hat ill account clown chase search smoke";
+var mnemonic = "country someone relief vehicle awesome radio nature drive project please whisper move";

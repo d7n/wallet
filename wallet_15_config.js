@@ -1,1 +1,1 @@
-var mnemonic = "purpose salt elder exotic siren soul ostrich wet board replace hen fire";
+var mnemonic = "crew bicycle still flush nephew rotate brisk soccer similar odor sock cave";

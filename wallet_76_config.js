@@ -1,1 +1,1 @@
-var mnemonic = "build tunnel already vote attend jeans ketchup gloom drift anchor crazy differ";
+var mnemonic = "ugly monkey coil trap winner vessel parade crush pizza torch jazz panda";

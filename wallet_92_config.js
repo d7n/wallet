@@ -1,1 +1,1 @@
-var mnemonic = "pen pencil ocean unusual elephant property control search display arrive narrow box";
+var mnemonic = "like capable vital essence fringe ski cable sea trumpet spend catalog degree";

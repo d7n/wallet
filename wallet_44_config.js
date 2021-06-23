@@ -1,1 +1,1 @@
-var mnemonic = "exotic scatter donor obey season panic suffer execute false desk female stem";
+var mnemonic = "suffer ozone blur trap icon metal believe scrub pull odor shy holiday";

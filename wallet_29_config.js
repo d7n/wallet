@@ -1,1 +1,1 @@
-var mnemonic = "sugar series unaware noodle vanish ladder cross effort avoid one shock damage";
+var mnemonic = "lazy frozen elite nasty since cricket easily catch nest cabbage duck lab";

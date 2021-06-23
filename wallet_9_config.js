@@ -1,1 +1,1 @@
-var mnemonic = "forest possible world simple lazy fly donate nut run humor achieve thought";
+var mnemonic = "tissue program rude flip slab rubber trust start gown message party help";

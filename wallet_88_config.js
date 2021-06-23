@@ -1,1 +1,1 @@
-var mnemonic = "apart bus citizen tell portion top tennis hollow wrong immune balcony crew";
+var mnemonic = "confirm asthma dry camera reflect fantasy stuff rival fortune bird trip leopard";

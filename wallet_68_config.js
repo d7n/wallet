@@ -1,1 +1,1 @@
-var mnemonic = "oak innocent lawn quick decade project detail want hurt oblige normal cup";
+var mnemonic = "scale silly soccer music ecology device lobster seek decrease reopen ocean dawn";

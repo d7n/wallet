@@ -1,1 +1,1 @@
-var mnemonic = "feed conduct shoot face story involve early camp hire hover state warfare";
+var mnemonic = "uncover antique word chuckle say second dress march kite maid chimney myth";

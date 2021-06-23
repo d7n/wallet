@@ -1,1 +1,1 @@
-var mnemonic = "panther famous near legend reduce eye fluid color diet unit federal junk";
+var mnemonic = "require wrong robot angry broken vocal until clarify inflict bachelor crime scheme";

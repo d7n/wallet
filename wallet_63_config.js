@@ -1,1 +1,1 @@
-var mnemonic = "artefact hip usage region figure abuse language pulse awful blouse jungle air";
+var mnemonic = "close steel filter strategy gun anchor scrap window direct pulse aspect local";

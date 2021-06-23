@@ -1,1 +1,1 @@
-var mnemonic = "fortune feature museum modify latin orchard mind chest diary country roast abstract";
+var mnemonic = "metal assume kiss slab beach figure joke spoon tree guess remind giggle";

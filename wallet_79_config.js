@@ -1,1 +1,1 @@
-var mnemonic = "damp render chalk grant away oblige dial era rail emotion disease spoil";
+var mnemonic = "stereo hero depend alley raven evolve execute margin expect weekend item tent";

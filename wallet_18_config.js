@@ -1,1 +1,1 @@
-var mnemonic = "wise motor vivid congress heavy swift slide achieve hawk radio advance sorry";
+var mnemonic = "cycle canoe comic resemble vanish virtual blame please comfort junior neither potato";

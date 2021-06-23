@@ -1,1 +1,1 @@
-var mnemonic = "essence agree possible oil change resource number flock riot egg blame write";
+var mnemonic = "globe young vacant weekend tomato neglect wall main toast habit mix olive";

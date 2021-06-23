@@ -1,1 +1,1 @@
-var mnemonic = "chaos option twenty finish zebra evolve upper short odor plunge because today";
+var mnemonic = "green chronic leisure clump decrease helmet energy note inhale gauge capable earth";

@@ -1,1 +1,1 @@
-var mnemonic = "best trend patch treat grape dish talent guilt taxi phone broken boy";
+var mnemonic = "giggle push orient apology slender there sorry future leave multiply clock define";

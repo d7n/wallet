@@ -1,1 +1,1 @@
-var mnemonic = "ceiling dolphin salute angle business soda dash address stay left critic forum";
+var mnemonic = "myth camera trumpet bright course issue false pupil swap elder inform crew";

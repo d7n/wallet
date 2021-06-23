@@ -1,1 +1,1 @@
-var mnemonic = "fabric parent woman have detect cotton reject inside betray energy bench prize";
+var mnemonic = "wire card magnet funny crisp fitness chronic mask cousin solution autumn celery";

@@ -1,1 +1,1 @@
-var mnemonic = "border cart duck wink shadow liar nature kiss clip glare concert inch";
+var mnemonic = "maid idle dune task share honey humor emerge asthma mandate turn rotate";
