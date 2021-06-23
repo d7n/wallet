@@ -1,1 +1,1 @@
-var mnemonic = "wall margin brush grit only anchor quote tiger crane neck harsh shoulder";
+var mnemonic = "marine sound inform invest pepper birth globe vault any hold produce piano";

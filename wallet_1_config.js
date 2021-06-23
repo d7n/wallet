@@ -1,1 +1,1 @@
-var mnemonic = "space excuse mad merry lift draft kidney fetch aspect quality vendor price";
+var mnemonic = "vote concert dash story wink entry grunt deal mask friend sphere actual";

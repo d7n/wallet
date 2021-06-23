@@ -1,1 +1,1 @@
-var mnemonic = "again discover intact ocean man medal leopard normal expose airport gossip physical";
+var mnemonic = "happy strike slot kangaroo way tired lesson curtain fee today stairs admit";

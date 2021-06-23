@@ -1,1 +1,1 @@
-var mnemonic = "merge ten maid adult expand theme drift spice language shallow lyrics will";
+var mnemonic = "skate alpha treat treat hundred erode noble script sick help bicycle unveil";

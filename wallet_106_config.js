@@ -1,1 +1,1 @@
-var mnemonic = "foster ahead situate sting print main inquiry hard calm long notable step";
+var mnemonic = "glare south wine destroy property powder ball tourist behave theory service flag";

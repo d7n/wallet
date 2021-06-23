@@ -1,1 +1,1 @@
-var mnemonic = "loud void gauge forget exhibit today sketch alcohol kick ripple stand fix";
+var mnemonic = "feature rail chalk fee exhaust slim venue cup develop pyramid park below";

@@ -1,1 +1,1 @@
-var mnemonic = "sorry tilt raccoon exercise steel venue sing canoe hungry display mom blush";
+var mnemonic = "copper bachelor south adjust awesome job injury process require bind spare garden";

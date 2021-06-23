@@ -1,1 +1,1 @@
-var mnemonic = "field snack outside once sibling series sleep same whip vacuum mimic casino";
+var mnemonic = "zebra gift voice fatigue poem wrong piano globe clerk remain erupt obscure";

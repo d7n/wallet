@@ -1,1 +1,1 @@
-var mnemonic = "subway response range awkward custom guard again better green ribbon engine violin";
+var mnemonic = "asset remove allow more jar kingdom space mansion expect coach shallow panic";

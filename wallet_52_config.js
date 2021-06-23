@@ -1,1 +1,1 @@
-var mnemonic = "desk flag wage stand cable wedding strategy panther accident gospel noble furnace";
+var mnemonic = "cushion year poet parent humor beyond gossip road interest that winter segment";

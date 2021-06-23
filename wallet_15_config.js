@@ -1,1 +1,1 @@
-var mnemonic = "input critic indoor over essence unknown unique host taxi drama cream ghost";
+var mnemonic = "exhibit hundred idle neither tunnel march museum group business fresh chaos outdoor";

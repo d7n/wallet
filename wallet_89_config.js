@@ -1,1 +1,1 @@
-var mnemonic = "boat pudding evolve patient spin begin alone case bone welcome hollow join";
+var mnemonic = "north hundred casual call document spring kingdom announce open salmon way chicken";

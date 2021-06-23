@@ -1,1 +1,1 @@
-var mnemonic = "crawl toe letter eyebrow kingdom sniff powder crash ritual dinner during soup";
+var mnemonic = "require acquire silly grace gas afford bench say edge around top bamboo";

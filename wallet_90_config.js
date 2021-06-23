@@ -1,1 +1,1 @@
-var mnemonic = "surround promote title stay alter make first six stomach vague attitude hazard";
+var mnemonic = "action voyage cinnamon sword token empower normal bachelor twist identify limb diagram";

@@ -1,1 +1,1 @@
-var mnemonic = "disorder increase shove panda account aim stable one burst news income crisp";
+var mnemonic = "awesome equip power nature amazing mercy loop crater public fruit stamp stone";

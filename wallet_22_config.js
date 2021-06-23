@@ -1,1 +1,1 @@
-var mnemonic = "myself balance chest either jaguar then quarter cigar craft merry giggle lake";
+var mnemonic = "machine foot burger number cave air stove honey pistol quarter cherry robust";

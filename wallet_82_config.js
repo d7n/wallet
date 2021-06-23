@@ -1,1 +1,1 @@
-var mnemonic = "lunar shoot assume dance comfort area raccoon duck either glare faith voyage";
+var mnemonic = "tornado supply also wear want end eager bundle spirit cancel pony catch";

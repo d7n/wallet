@@ -1,1 +1,1 @@
-var mnemonic = "dirt grocery shy fly alien unit river fee render middle mimic van";
+var mnemonic = "ice receive lamp lava chalk reward album drill scatter intact bean grunt";

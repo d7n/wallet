@@ -1,1 +1,1 @@
-var mnemonic = "rifle mix vivid arrive valley transfer blade vocal exhaust split country giraffe";
+var mnemonic = "skirt undo icon flight obvious unit february wise shadow simple tourist tip";

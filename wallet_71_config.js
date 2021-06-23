@@ -1,1 +1,1 @@
-var mnemonic = "jewel unusual game couch witness candy black march follow chaos denial during";
+var mnemonic = "relief goddess what hen produce creek panther scene wrist glide armed waste";

@@ -1,1 +1,1 @@
-var mnemonic = "twin legend puppy tired situate repeat ice twelve moral auction afraid hedgehog";
+var mnemonic = "quiz nut surge garment suit north model jaguar penalty hand equal pigeon";

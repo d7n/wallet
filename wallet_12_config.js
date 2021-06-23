@@ -1,1 +1,1 @@
-var mnemonic = "they speed exotic lab fence wave air key organ edge shine require";
+var mnemonic = "eyebrow mad beauty advance arrange enjoy region fever prevent soap expire feed";

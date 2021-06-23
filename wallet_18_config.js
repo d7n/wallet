@@ -1,1 +1,1 @@
-var mnemonic = "evolve rice advice neither stool solution among virtual awesome achieve emerge border";
+var mnemonic = "tent home shell eye sense dust reveal engage hint unknown enjoy idea";

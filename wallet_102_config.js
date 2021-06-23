@@ -1,1 +1,1 @@
-var mnemonic = "retire ketchup knock era script forward snack tongue jaguar alter explain crunch";
+var mnemonic = "choice stamp range price move mammal couch must tattoo panda blood shoot";

@@ -1,1 +1,1 @@
-var mnemonic = "bird immune control affair nuclear faculty student keen shine mechanic guide walk";
+var mnemonic = "bag multiply wheat prison output embark opera license sure gate exotic joy";

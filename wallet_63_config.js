@@ -1,1 +1,1 @@
-var mnemonic = "jealous husband regular speed core panther trumpet matter mouse gun skull jump";
+var mnemonic = "manage moral what island brief trend bleak giggle gap brand barrel seminar";

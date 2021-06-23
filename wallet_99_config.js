@@ -1,1 +1,1 @@
-var mnemonic = "weird police cream cousin under detail hospital wine lab heavy meat hair";
+var mnemonic = "assist shield biology cradle swap rigid glass lobster doctor idle tired large";

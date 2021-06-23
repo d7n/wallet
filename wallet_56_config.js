@@ -1,1 +1,1 @@
-var mnemonic = "bulk awesome zone water sell few relief march choose between plate pigeon";
+var mnemonic = "clown battle token term merge bubble observe around wash elbow drama shoot";

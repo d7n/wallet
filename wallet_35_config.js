@@ -1,1 +1,1 @@
-var mnemonic = "retreat border awesome cause decrease invest parade project defy cage rabbit fall";
+var mnemonic = "rotate tackle pumpkin lucky alcohol slogan tray pride night album tomato wish";

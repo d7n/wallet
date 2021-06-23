@@ -1,1 +1,1 @@
-var mnemonic = "width example great border simple capable raw syrup viable rose sunny right";
+var mnemonic = "raw place gown waste include become pistol scatter sausage else gadget crew";

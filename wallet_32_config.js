@@ -1,1 +1,1 @@
-var mnemonic = "brother turtle outside exhaust frozen imitate turn east cabin bottom exclude peasant";
+var mnemonic = "shallow sadness alone suspect return deer crew walk crystal caught method disease";

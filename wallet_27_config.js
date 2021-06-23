@@ -1,1 +1,1 @@
-var mnemonic = "guess material put deliver will awful replace insane atom juice over predict";
+var mnemonic = "better genre across bronze message mind surge source safe foam junior unlock";

@@ -1,1 +1,1 @@
-var mnemonic = "spend twelve margin that train online pitch title afraid six dwarf mirror";
+var mnemonic = "security cloth tuna umbrella mixed midnight rent deer repeat laundry patch doll";

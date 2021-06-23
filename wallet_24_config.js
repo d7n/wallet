@@ -1,1 +1,1 @@
-var mnemonic = "biology funny attack federal ketchup smoke water odor screen lava flavor oblige";
+var mnemonic = "where rate choose forward gym wet unusual bounce crowd lazy skin nurse";

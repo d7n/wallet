@@ -1,1 +1,1 @@
-var mnemonic = "tiger patch common gesture return review wish episode tent february flag fox";
+var mnemonic = "attract cute used net bitter theme bracket theme image burst leader left";

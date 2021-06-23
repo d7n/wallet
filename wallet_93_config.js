@@ -1,1 +1,1 @@
-var mnemonic = "mention witness pair capital choice stock stumble liquid amateur surprise velvet jump";
+var mnemonic = "prize detail allow burst violin meat order mail answer seed valley season";

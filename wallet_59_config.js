@@ -1,1 +1,1 @@
-var mnemonic = "best nuclear juice title jungle senior bird unable divide kiwi junior one";
+var mnemonic = "hover expand hello peanut game animal warrior movie oblige one apology stamp";

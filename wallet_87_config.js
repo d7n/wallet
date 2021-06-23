@@ -1,1 +1,1 @@
-var mnemonic = "tomato property wagon glad scan guitar company judge oyster payment private hero";
+var mnemonic = "become ordinary rule space loop sad spoil inquiry rifle fault route siege";

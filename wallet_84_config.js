@@ -1,1 +1,1 @@
-var mnemonic = "autumn stuff save people layer chunk yard pupil island where describe report";
+var mnemonic = "route decrease brief wrong leg essence dirt lift attitude luxury animal quality";

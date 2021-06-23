@@ -1,1 +1,1 @@
-var mnemonic = "learn intact office turkey final aware gorilla purse cactus vessel duck dentist";
+var mnemonic = "walnut interest flee poet crack all avoid horror illegal expand party album";

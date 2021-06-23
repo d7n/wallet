@@ -1,1 +1,1 @@
-var mnemonic = "fever mammal betray match scrub crop lonely wave wide purse decide left";
+var mnemonic = "legal parrot uphold curtain school elevator silver fall detail core fragile industry";

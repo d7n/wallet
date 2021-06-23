@@ -1,1 +1,1 @@
-var mnemonic = "file matrix argue boil turn illegal seminar flag leader youth globe fetch";
+var mnemonic = "fluid grocery turkey flight girl actual spend ketchup cruise tuna unhappy exchange";

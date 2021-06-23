@@ -1,1 +1,1 @@
-var mnemonic = "tell always claw core hill chaos copper welcome sample curtain glue joke";
+var mnemonic = "horn eagle boring twist elephant enough nephew claim enroll situate obey angry";

@@ -1,1 +1,1 @@
-var mnemonic = "spot myself honey three final sugar bean daughter right come style debris";
+var mnemonic = "outdoor usage wall desk amused more stand mean wrist focus fly night";

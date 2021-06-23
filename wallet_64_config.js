@@ -1,1 +1,1 @@
-var mnemonic = "alone smart witness ramp ginger clog crater hundred label pencil squeeze gloom";
+var mnemonic = "nasty multiply crazy capable meadow village scrap noodle put illness work follow";

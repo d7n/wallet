@@ -1,1 +1,1 @@
-var mnemonic = "matter finish web reason road wait spin parade federal diet woman banana";
+var mnemonic = "hen that borrow world neither maximum chat armed scatter endless huge across";

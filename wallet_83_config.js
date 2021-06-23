@@ -1,1 +1,1 @@
-var mnemonic = "furnace drive already focus issue this twin you side swim tank invite";
+var mnemonic = "empty vibrant armor oak ability chronic blind among library ghost pigeon toast";

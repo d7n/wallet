@@ -1,1 +1,1 @@
-var mnemonic = "royal ginger omit idea crop board sound about neck vanish rival iron";
+var mnemonic = "frown slender gun weapon length receive wealth symbol attract february shallow report";

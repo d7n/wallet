@@ -1,1 +1,1 @@
-var mnemonic = "hold day issue filter hat museum act expand horse enact march pitch";
+var mnemonic = "social reunion hobby purity finish few genuine reject fantasy hunt merit shrug";

@@ -1,1 +1,1 @@
-var mnemonic = "adapt wheel donor real answer upset rally use horror guard wisdom music";
+var mnemonic = "couch essay adapt choose ritual bullet motion supply copper clerk bamboo candy";

@@ -1,1 +1,1 @@
-var mnemonic = "soap vehicle soccer humor flock depart wasp entry what struggle cruel figure";
+var mnemonic = "swallow rookie still slot mad approve drama ship artefact swap survey cave";

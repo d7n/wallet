@@ -1,1 +1,1 @@
-var mnemonic = "general ketchup real glide veteran pretty bunker double lumber glove spot expand";
+var mnemonic = "metal length else brush smoke fun force feature prefer suit misery myth";

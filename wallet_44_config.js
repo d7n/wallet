@@ -1,1 +1,1 @@
-var mnemonic = "chronic harsh easy hat satisfy air index patch hawk list recall foster";
+var mnemonic = "cloud asthma humble dinner tilt result diagram switch spring whale good charge";

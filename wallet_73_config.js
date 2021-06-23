@@ -1,1 +1,1 @@
-var mnemonic = "museum custom hand better finger total scrap track improve wide quit jealous";
+var mnemonic = "bunker peanut hip loud vendor regret tortoise since soon tumble inner find";

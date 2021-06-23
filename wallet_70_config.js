@@ -1,1 +1,1 @@
-var mnemonic = "spare neither clinic laptop brick unveil history fringe split brown horror dust";
+var mnemonic = "about quick toilet hollow swap amateur clip smart twelve spy slender language";

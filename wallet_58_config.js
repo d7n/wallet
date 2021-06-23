@@ -1,1 +1,1 @@
-var mnemonic = "future snake hip right vacuum employ level arrow quarter inhale text tunnel";
+var mnemonic = "replace client stomach across tooth hamster lonely poem dash switch method recall";

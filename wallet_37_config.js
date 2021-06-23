@@ -1,1 +1,1 @@
-var mnemonic = "region dog naive burden improve critic cable spike quarter night car wool";
+var mnemonic = "hybrid once brief enough video twelve core embody wall bird bunker card";

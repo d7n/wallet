@@ -1,1 +1,1 @@
-var mnemonic = "switch drop anxiety fault brisk bid stamp august direct arctic shaft shrimp";
+var mnemonic = "wheel animal faculty stove curious address fatigue boy puzzle equal fold want";

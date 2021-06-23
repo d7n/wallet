@@ -1,1 +1,1 @@
-var mnemonic = "dolphin open hold normal hard shoulder sea loyal benefit potato sudden glad";
+var mnemonic = "romance surface thing surround ticket flavor pond coast whale first elephant critic";

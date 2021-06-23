@@ -1,1 +1,1 @@
-var mnemonic = "ship shaft library you surface century later stumble fish violin enable spoil";
+var mnemonic = "return rescue amount noodle awful obey wise slow before brave scrap disagree";

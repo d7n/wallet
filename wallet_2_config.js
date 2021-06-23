@@ -1,1 +1,1 @@
-var mnemonic = "nut swallow wasp myth fun north tackle close clarify buyer reopen fringe";
+var mnemonic = "second popular fiber property silk alone situate stable solar melody baby stumble";

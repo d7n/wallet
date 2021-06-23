@@ -1,1 +1,1 @@
-var mnemonic = "bracket record average wreck roast light unlock fine receive path artefact oak";
+var mnemonic = "rookie slice truth oppose income dash fruit bachelor nose bargain size square";

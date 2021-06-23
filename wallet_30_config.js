@@ -1,1 +1,1 @@
-var mnemonic = "loop tone mule tennis ozone tissue frog dune soon put recall kidney";
+var mnemonic = "sight speak candy concert hip mistake squirrel smoke foster disagree subway clock";

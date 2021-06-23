@@ -1,1 +1,1 @@
-var mnemonic = "cannon disagree talk lyrics zone unfold picnic cover output swing destroy hard";
+var mnemonic = "across finger tube enlist scheme damp tube cycle soccer common bean leader";

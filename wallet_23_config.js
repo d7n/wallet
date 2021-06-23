@@ -1,1 +1,1 @@
-var mnemonic = "bubble replace silver shift danger math aim lawn pledge patient punch labor";
+var mnemonic = "kitchen toy language decrease slab season indoor assume upgrade trophy number game";

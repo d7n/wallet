@@ -1,1 +1,1 @@
-var mnemonic = "gasp network typical inmate frequent never dwarf trophy mosquito theme match emotion";
+var mnemonic = "elephant merry palace only device level miracle bottom estate injury urge critic";

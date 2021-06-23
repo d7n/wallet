@@ -1,1 +1,1 @@
-var mnemonic = "organ prison find vacuum mammal almost family hybrid finger pet adjust cluster";
+var mnemonic = "jump yellow nasty inhale trap mercy update deposit angry mosquito mesh cup";

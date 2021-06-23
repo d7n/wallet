@@ -1,1 +1,1 @@
-var mnemonic = "mind potato toss unlock neither lawsuit december ring aunt donkey oil material";
+var mnemonic = "blanket rookie system increase lift voice property scene double bitter worry sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "win wash rent result advance skirt clown common fuel divert rack organ";
+var mnemonic = "nephew machine crack live aunt fence video anxiety escape divide inform across";

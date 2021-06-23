@@ -1,1 +1,1 @@
-var mnemonic = "anger velvet impact nation clerk swift practice club year butter rescue print";
+var mnemonic = "notice alone trade butter wheel pyramid marble behind liberty climb grass pulse";

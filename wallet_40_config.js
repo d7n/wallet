@@ -1,1 +1,1 @@
-var mnemonic = "motion century secret shy exchange forget amazing bunker next cloud subway identify";
+var mnemonic = "panel palace shed supply way neutral ribbon various iron palace pioneer gold";

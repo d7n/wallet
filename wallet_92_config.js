@@ -1,1 +1,1 @@
-var mnemonic = "special industry key forget day recall stuff tragic soldier bind oil now";
+var mnemonic = "market hunt ask type barely cancel trial elder stool holiday dust actress";

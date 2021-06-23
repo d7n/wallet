@@ -1,1 +1,1 @@
-var mnemonic = "valley hope atom reveal blade correct october ranch test auction secret open";
+var mnemonic = "near high swear gossip metal direct dinner tuna crowd stock table gaze";

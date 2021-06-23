@@ -1,1 +1,1 @@
-var mnemonic = "eager load fetch diet young loop follow order spawn approve shock middle";
+var mnemonic = "weekend predict next gate transfer print put render blouse trend below smooth";

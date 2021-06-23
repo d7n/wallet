@@ -1,1 +1,1 @@
-var mnemonic = "tower smart ethics gossip auto rack south letter large eager jazz snack";
+var mnemonic = "usage innocent virtual glad range tragic below heart frequent staff velvet online";

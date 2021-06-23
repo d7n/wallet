@@ -1,1 +1,1 @@
-var mnemonic = "marble effort over eight laptop slot teach copper kind cereal night just";
+var mnemonic = "various bundle blanket combine man limb electric rifle knife year early skull";

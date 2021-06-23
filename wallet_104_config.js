@@ -1,1 +1,1 @@
-var mnemonic = "glory pink fringe frozen put wrap naive fence marble spider local wrist";
+var mnemonic = "random match injury pact goddess leave vote visit wear output bubble joke";

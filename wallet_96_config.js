@@ -1,1 +1,1 @@
-var mnemonic = "rebuild about crime lesson convince capable warfare wink student sense father business";
+var mnemonic = "sure own stairs damage mesh present habit auto erosion aware sting icon";

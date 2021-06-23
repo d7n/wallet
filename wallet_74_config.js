@@ -1,1 +1,1 @@
-var mnemonic = "evidence ridge nasty cycle tank crunch employ say know shy grape cigar";
+var mnemonic = "zebra captain december cube wool timber pink level range run kind oblige";

@@ -1,1 +1,1 @@
-var mnemonic = "accident naive struggle harbor scheme cactus plastic airport magnet volcano tip warrior";
+var mnemonic = "cable enrich like suggest slogan behind pitch multiply birth citizen town field";

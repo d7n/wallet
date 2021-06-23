@@ -1,1 +1,1 @@
-var mnemonic = "must core energy license drill artist east reason rubber retreat type ignore";
+var mnemonic = "grass employ master thought clinic sad symbol innocent call crime enroll glad";

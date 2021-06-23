@@ -1,1 +1,1 @@
-var mnemonic = "favorite shift bulb pact kiwi vault shift place brain express silver fuel";
+var mnemonic = "pilot glue intact coral mother discover author shadow clay winter pond stomach";

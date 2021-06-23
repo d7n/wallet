@@ -1,1 +1,1 @@
-var mnemonic = "acid error pair fish crisp pipe involve major fault march circle foam";
+var mnemonic = "about transfer recall jelly ensure head wall vast height crisp position city";

@@ -1,1 +1,1 @@
-var mnemonic = "scout morning rabbit volcano load alcohol hood jewel tattoo portion hollow ball";
+var mnemonic = "zero canal observe maid mystery off cousin typical foam help rabbit tourist";

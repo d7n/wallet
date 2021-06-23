@@ -1,1 +1,1 @@
-var mnemonic = "blind undo move rack between slot gown vague satisfy movie cover girl";
+var mnemonic = "steak lizard leg perfect step midnight team abandon fly logic invest rare";

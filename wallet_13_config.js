@@ -1,1 +1,1 @@
-var mnemonic = "enhance eternal erupt discover air harbor table head decorate tenant inside enrich";
+var mnemonic = "derive body identify please grain husband horror wave view damage torch drip";

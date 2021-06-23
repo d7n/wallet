@@ -1,1 +1,1 @@
-var mnemonic = "nephew wage hunt maid social crystal insect day assist opera intact defense";
+var mnemonic = "fiscal size viable orphan fork hurdle confirm torch snow tone one asthma";

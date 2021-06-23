@@ -1,1 +1,1 @@
-var mnemonic = "hunt iron maximum alien picture globe reunion detail uniform over phone logic";
+var mnemonic = "duck library spider aisle peasant sketch ugly boring success junk similar visa";

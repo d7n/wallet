@@ -1,1 +1,1 @@
-var mnemonic = "gorilla attend wine net huge rotate hope eagle kiss arrive smile tray";
+var mnemonic = "tip guitar gown sport surround salmon health warrior capital tumble equip faculty";

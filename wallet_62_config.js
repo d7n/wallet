@@ -1,1 +1,1 @@
-var mnemonic = "point worth enable orange path happy say shaft tape gossip night hazard";
+var mnemonic = "view ostrich ginger train shield oil render mask near arena sense kind";

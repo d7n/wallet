@@ -1,1 +1,1 @@
-var mnemonic = "patient cargo useless cupboard cart undo kiss gossip tower pencil ahead galaxy";
+var mnemonic = "million rose ostrich wealth draw gift finish emerge couch slogan wrist ignore";

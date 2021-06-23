@@ -1,1 +1,1 @@
-var mnemonic = "rug version almost slender roast female tennis almost spare confirm enrich figure";
+var mnemonic = "invite arrest inject hawk squirrel tray stove muffin quick village system buyer";

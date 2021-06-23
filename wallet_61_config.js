@@ -1,1 +1,1 @@
-var mnemonic = "stay under stamp volcano large buffalo flat motion small hire begin provide";
+var mnemonic = "senior one knee treat click milk easily pulse neutral stereo avocado dismiss";

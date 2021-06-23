@@ -1,1 +1,1 @@
-var mnemonic = "century wheel come curtain own appear income shoulder chaos figure please capital";
+var mnemonic = "suffer symbol consider poet memory ice plastic trumpet swamp glare clean casual";

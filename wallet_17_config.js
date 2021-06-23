@@ -1,1 +1,1 @@
-var mnemonic = "siege vague insect clock swap arena shell secret afraid bulb wheat drum";
+var mnemonic = "hub someone school twenty act relax razor first dinosaur put clump school";

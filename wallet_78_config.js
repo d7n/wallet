@@ -1,1 +1,1 @@
-var mnemonic = "print actual vanish seat orbit beach market clutch service exotic cash fortune";
+var mnemonic = "unknown auction often weasel invite eyebrow round will bonus say mimic shop";

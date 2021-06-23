@@ -1,1 +1,1 @@
-var mnemonic = "eternal album stem pigeon chest ramp festival iron figure tide arrow awful";
+var mnemonic = "filter wealth romance machine jaguar quality divide chimney tribe priority fiber crawl";

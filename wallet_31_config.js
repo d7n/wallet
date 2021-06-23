@@ -1,1 +1,1 @@
-var mnemonic = "pipe hope blind original guard crouch vivid onion inhale crash kitten flash";
+var mnemonic = "creek noble purse tunnel escape crash pelican budget fruit soccer element quick";

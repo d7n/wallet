@@ -1,1 +1,1 @@
-var mnemonic = "current shove vintage trim exclude friend address mammal evidence unique medal cupboard";
+var mnemonic = "holiday crisp nest town property genius kit broom wrestle middle modify cloud";

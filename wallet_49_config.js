@@ -1,1 +1,1 @@
-var mnemonic = "undo belt pizza twice donkey stand bind repair have predict chuckle wear";
+var mnemonic = "south weekend rookie lounge crisp head prison oak napkin toy bundle biology";

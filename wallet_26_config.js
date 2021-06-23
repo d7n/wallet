@@ -1,1 +1,1 @@
-var mnemonic = "soup juice lunch learn guilt wave crucial ghost zone toe ocean vicious";
+var mnemonic = "filter evolve note fame task matter pottery place adult speed clock trouble";
