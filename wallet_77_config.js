@@ -1,1 +1,1 @@
-var mnemonic = "cradle unable major hamster forward castle boy surge glow purpose easily trash";
+var mnemonic = "will forget obvious popular amateur funny electric antique poet cargo tattoo heavy";

@@ -1,1 +1,1 @@
-var mnemonic = "gift shadow someone bullet wedding salad void carbon tell maximum truth taxi";
+var mnemonic = "worry argue trap sad limb sample wagon rail blossom crowd glad fabric";

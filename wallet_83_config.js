@@ -1,1 +1,1 @@
-var mnemonic = "message gain invest anxiety item nuclear cruise vendor glow buyer dragon domain";
+var mnemonic = "forward woman aisle enlist enact latin anchor unfair stairs mass proud salt";

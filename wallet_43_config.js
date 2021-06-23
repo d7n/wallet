@@ -1,1 +1,1 @@
-var mnemonic = "act bunker region satisfy roof swim used ethics joy rain add dynamic";
+var mnemonic = "aspect arena farm divorce shoot rose waste copper wage echo jump trigger";

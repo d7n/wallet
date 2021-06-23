@@ -1,1 +1,1 @@
-var mnemonic = "auction water entire mom tackle wasp music coconut exit tissue wink brick";
+var mnemonic = "world someone load outdoor vicious myself insane future dentist pottery pumpkin fresh";

@@ -1,1 +1,1 @@
-var mnemonic = "pig combine symptom scorpion airport color dwarf donor lawn bronze symbol meadow";
+var mnemonic = "tissue pistol peanut pigeon lyrics ability wrong lake news tonight elder wedding";

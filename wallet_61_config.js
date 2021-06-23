@@ -1,1 +1,1 @@
-var mnemonic = "seek naive appear amused question kitten lonely naive assault year search warrior";
+var mnemonic = "amateur boost knock cluster dolphin trade endless indicate warm party amount brown";

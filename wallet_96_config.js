@@ -1,1 +1,1 @@
-var mnemonic = "taste interest vapor universe guilt test enlist tortoise powder sort toddler scorpion";
+var mnemonic = "unhappy spice ready ghost tennis debate between unusual sentence twice wire page";

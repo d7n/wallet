@@ -1,1 +1,1 @@
-var mnemonic = "guess film federal cover lemon alley damage shallow client zoo crawl dust";
+var mnemonic = "title rib aware manual side popular clock enemy kiwi polar rapid mom";

@@ -1,1 +1,1 @@
-var mnemonic = "critic mountain case surround hotel frequent ostrich cage stable minute claw move";
+var mnemonic = "upset ginger enjoy force penalty bench feel verify century slot apology snack";

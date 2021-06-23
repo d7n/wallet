@@ -1,1 +1,1 @@
-var mnemonic = "jelly genre brother second spike bright happy reject like priority struggle pole";
+var mnemonic = "midnight tissue direct near mixture arrow start insect bonus rail caught brief";

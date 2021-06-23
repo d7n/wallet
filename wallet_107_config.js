@@ -1,1 +1,1 @@
-var mnemonic = "super hero anxiety quit apart bus wealth suffer swing mixture dwarf glance";
+var mnemonic = "forum banana side stumble that large person depend pill charge disease toast";

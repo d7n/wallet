@@ -1,1 +1,1 @@
-var mnemonic = "cargo custom cat month coast attract monster inform kiss capable gold fold";
+var mnemonic = "fruit stone pole manual right merit fever bracket sign forest upon tail";

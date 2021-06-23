@@ -1,1 +1,1 @@
-var mnemonic = "village prefer boy ramp kitchen blanket half slice skate elephant announce giant";
+var mnemonic = "solve envelope hope color rich chapter process duck sphere weird glance reason";

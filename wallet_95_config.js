@@ -1,1 +1,1 @@
-var mnemonic = "lemon else margin suggest cash bargain hill ranch gap maid lobster travel";
+var mnemonic = "rocket cave scheme few occur drive throw void toast pistol sadness pulse";

@@ -1,1 +1,1 @@
-var mnemonic = "dose crisp spirit seed select true electric nerve theory wagon repair omit";
+var mnemonic = "deliver announce funny ladder jump risk scissors rent goat weasel exact student";

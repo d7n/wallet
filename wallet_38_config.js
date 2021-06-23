@@ -1,1 +1,1 @@
-var mnemonic = "ghost receive exotic parade fiber travel issue ski comic obvious brick rather";
+var mnemonic = "prosper vessel negative resist choice stage isolate blast kingdom hip file virtual";

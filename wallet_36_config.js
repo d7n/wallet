@@ -1,1 +1,1 @@
-var mnemonic = "curtain faith destroy off never artwork annual orient resist harbor ridge vacuum";
+var mnemonic = "avoid concert twenty mosquito eager humble access era solar sugar tiger simple";

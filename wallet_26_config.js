@@ -1,1 +1,1 @@
-var mnemonic = "duck brain blade square yard profit burst option legend gossip artist duty";
+var mnemonic = "sniff first merge track skirt maple resource cable input later crisp bind";

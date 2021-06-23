@@ -1,1 +1,1 @@
-var mnemonic = "flee arrow dynamic deposit hurdle asthma equip fringe skirt page stem basic";
+var mnemonic = "recall badge gravity elevator frame goddess armed skirt brush nominee copper response";

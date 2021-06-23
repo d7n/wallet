@@ -1,1 +1,1 @@
-var mnemonic = "strike job buffalo shaft ancient supply left border attend real first depend";
+var mnemonic = "auction panic breeze vivid quarter between mixed sketch dentist orchard puppy matter";

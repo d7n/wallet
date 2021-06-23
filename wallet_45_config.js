@@ -1,1 +1,1 @@
-var mnemonic = "length vocal vacuum stumble mandate mother august bright bomb noble essay much";
+var mnemonic = "ladder oppose fit theme envelope submit dinosaur edge cabbage bench color task";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz long risk fever nice valve carry minute patrol prosper youth tumble";
+var mnemonic = "convince clinic define more novel hundred describe angry law card diamond skill";

@@ -1,1 +1,1 @@
-var mnemonic = "meadow accuse patrol omit avocado outside lazy height release boring film task";
+var mnemonic = "ribbon flip erosion announce delay junk scatter insane imitate husband public dirt";

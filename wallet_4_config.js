@@ -1,1 +1,1 @@
-var mnemonic = "play banana foster labor october ribbon federal zero idle certain sun caught";
+var mnemonic = "custom category saddle artist crater ring bench basket nerve fiscal junior ridge";

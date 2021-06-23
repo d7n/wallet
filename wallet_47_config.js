@@ -1,1 +1,1 @@
-var mnemonic = "erosion seminar oven cable valley artist title solar honey struggle defy trash";
+var mnemonic = "scatter put strong angle race stand evidence point humor absorb stuff comfort";

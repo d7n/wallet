@@ -1,1 +1,1 @@
-var mnemonic = "sweet stool explain hold program shoot today trumpet produce umbrella filter series";
+var mnemonic = "wheat twice spy myth dash favorite shield arm whisper change stay decade";

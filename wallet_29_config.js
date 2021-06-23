@@ -1,1 +1,1 @@
-var mnemonic = "response crystal fence leader kick access cruel hungry kick nothing armed current";
+var mnemonic = "idea dance match casual captain initial ugly napkin opinion vessel valid pistol";

@@ -1,1 +1,1 @@
-var mnemonic = "mosquito vacant tilt hand material inch stuff denial scout toward later carpet";
+var mnemonic = "agent choose dumb state alone fringe flat danger reform ship broccoli defy";

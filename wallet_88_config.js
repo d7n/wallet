@@ -1,1 +1,1 @@
-var mnemonic = "cupboard sheriff reject orange egg rookie kitchen nurse small team screen pretty";
+var mnemonic = "pelican ritual weather false convince favorite patient old sketch danger census install";

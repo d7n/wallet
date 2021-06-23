@@ -1,1 +1,1 @@
-var mnemonic = "place luxury apart couch gaze inside organ olive similar achieve pitch runway";
+var mnemonic = "sentence improve monkey onion egg young profit raccoon narrow funny awkward swap";

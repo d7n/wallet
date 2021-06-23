@@ -1,1 +1,1 @@
-var mnemonic = "stool exotic romance wait remove exercise other gravity confirm bacon negative liar";
+var mnemonic = "end window crew expire this hand vague captain decline unfold vivid game";

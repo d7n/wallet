@@ -1,1 +1,1 @@
-var mnemonic = "play any garage cradle when supply teach puppy settle roast carbon shrug";
+var mnemonic = "model explain absorb zebra zebra reward sea remind retreat quit bright stay";

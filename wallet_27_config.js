@@ -1,1 +1,1 @@
-var mnemonic = "fringe diet vapor move assume hamster snap soda impose blade stove stomach";
+var mnemonic = "topic traffic high tonight fan tide bid onion exile teach palm crack";

@@ -1,1 +1,1 @@
-var mnemonic = "cool select script analyst angle father number session roast resource close ceiling";
+var mnemonic = "silly hybrid deal uncover fluid job vanish link indoor unlock area measure";

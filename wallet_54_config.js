@@ -1,1 +1,1 @@
-var mnemonic = "leg elbow grunt pass hidden sting benefit jaguar rubber guide obtain surprise";
+var mnemonic = "order normal price photo inherit rose ozone grain dutch rug box desert";

@@ -1,1 +1,1 @@
-var mnemonic = "consider warfare dilemma rebuild practice barrel earth birth siren poet october dirt";
+var mnemonic = "video narrow pelican process game spike sunset first turtle awkward acoustic pottery";

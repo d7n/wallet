@@ -1,1 +1,1 @@
-var mnemonic = "shadow pony exhibit gallery exist uniform man observe sugar invest creek swamp";
+var mnemonic = "mad black easy pencil roof income hungry alarm uphold stable huge gorilla";

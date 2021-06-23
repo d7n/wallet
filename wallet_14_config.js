@@ -1,1 +1,1 @@
-var mnemonic = "surround vital occur gate load total lizard chimney matrix shuffle rude mesh";
+var mnemonic = "emotion feature sugar range repeat enlist toast film spike record dad black";

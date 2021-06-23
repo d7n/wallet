@@ -1,1 +1,1 @@
-var mnemonic = "hawk grid people biology man symbol opera shiver minute observe honey soda";
+var mnemonic = "journey champion warm skill pony rely crack sugar ignore maid zebra wage";

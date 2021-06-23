@@ -1,1 +1,1 @@
-var mnemonic = "juice rate human habit novel employ round allow again misery drip very";
+var mnemonic = "custom current hat warm trim match parent struggle math breeze practice flag";

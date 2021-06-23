@@ -1,1 +1,1 @@
-var mnemonic = "output device view settle noise rebuild erosion awake diagram salt super air";
+var mnemonic = "require fine tortoise camera toss upon index stumble useless novel february human";

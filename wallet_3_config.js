@@ -1,1 +1,1 @@
-var mnemonic = "adjust vote bind gold involve garage main file chunk oak mean busy";
+var mnemonic = "humor thank settle fit warfare subway follow wheat boat extend hole luggage";

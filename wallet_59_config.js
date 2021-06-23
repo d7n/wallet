@@ -1,1 +1,1 @@
-var mnemonic = "fame fix ancient barrel title chest forest mistake wide art defy wrap";
+var mnemonic = "parade wife muscle ramp muscle just middle depart away endless faint frame";

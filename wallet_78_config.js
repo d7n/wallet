@@ -1,1 +1,1 @@
-var mnemonic = "interest cargo catch dune pill taxi square differ grocery brass turn awkward";
+var mnemonic = "wheat knee spoon capable eight stamp lawsuit spawn icon emotion sing enforce";

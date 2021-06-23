@@ -1,1 +1,1 @@
-var mnemonic = "chimney patch clay forest assume lunar almost image include frost spatial treat";
+var mnemonic = "move nominee fetch page real often hungry anxiety carpet bounce bar stadium";

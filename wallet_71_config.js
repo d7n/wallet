@@ -1,1 +1,1 @@
-var mnemonic = "dirt sudden number climb case faint exact lizard solar faith scheme table";
+var mnemonic = "connect dash hood dentist skirt right satoshi maple icon empty program three";

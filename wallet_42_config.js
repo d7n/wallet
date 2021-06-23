@@ -1,1 +1,1 @@
-var mnemonic = "hand excess canvas rubber seat design soup guard alter drill pioneer axis";
+var mnemonic = "notable chalk invest van bamboo slice proof spend grab exotic decrease gallery";

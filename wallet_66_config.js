@@ -1,1 +1,1 @@
-var mnemonic = "ripple account lazy nerve kid fitness lend runway truck grit custom ensure";
+var mnemonic = "dwarf trap inform obvious dolphin trim curious chase under crawl load recipe";

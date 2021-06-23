@@ -1,1 +1,1 @@
-var mnemonic = "space split motion time bus robot tank arctic runway alien salute praise";
+var mnemonic = "present taste reduce world trash cool yard blossom harbor venue blush salon";

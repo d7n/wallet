@@ -1,1 +1,1 @@
-var mnemonic = "whale crush opinion click inform lounge palm tube tongue river girl unlock";
+var mnemonic = "scout biology hold today valley across depth flame pizza ecology dad paper";

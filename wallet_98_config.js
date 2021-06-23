@@ -1,1 +1,1 @@
-var mnemonic = "metal today valid toilet creek toe snap rural bench biology faith common";
+var mnemonic = "glow where embody indicate gym film strong combine banner tent trust vivid";

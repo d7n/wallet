@@ -1,1 +1,1 @@
-var mnemonic = "cement sun version practice shaft club gravity auction cloth coast forum unhappy";
+var mnemonic = "feel grape actor slow recipe drive neck crouch swap upset stool minimum";

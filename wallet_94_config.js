@@ -1,1 +1,1 @@
-var mnemonic = "resist bread suspect bachelor place milk alone brisk hobby jeans work language";
+var mnemonic = "prevent access cage denial stool promote manage mansion between omit bird net";

@@ -1,1 +1,1 @@
-var mnemonic = "guilt position romance remain perfect burger soon like bonus island acquire bulb";
+var mnemonic = "unhappy size giant file sea attitude predict source eternal beach orient risk";

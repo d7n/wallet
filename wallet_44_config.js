@@ -1,1 +1,1 @@
-var mnemonic = "fun food spoil divorce sentence soda avoid donate fringe tunnel smoke pledge";
+var mnemonic = "stereo address remove soul recycle wrong rude distance dress deposit require palm";

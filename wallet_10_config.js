@@ -1,1 +1,1 @@
-var mnemonic = "tape seek buzz glare milk sorry mutual pistol age farm priority vote";
+var mnemonic = "marine lonely taste coral course sadness have stereo teach wagon emotion winter";

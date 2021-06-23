@@ -1,1 +1,1 @@
-var mnemonic = "tent fossil cupboard horse aware country february answer family since cement comic";
+var mnemonic = "weasel debris eternal busy dance child isolate wide genuine frozen lunar chapter";

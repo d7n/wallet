@@ -1,1 +1,1 @@
-var mnemonic = "retreat shine chest picture silent weird genuine mansion sunny mixture organ small";
+var mnemonic = "aspect coconut moral screen dash run miracle use salad hover smooth cargo";

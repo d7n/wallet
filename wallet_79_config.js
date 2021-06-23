@@ -1,1 +1,1 @@
-var mnemonic = "satisfy acquire grass rely purchase own mesh dance raw pet danger pond";
+var mnemonic = "safe someone sad adapt toilet service switch comfort style turkey erase rifle";

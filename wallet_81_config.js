@@ -1,1 +1,1 @@
-var mnemonic = "own office length rice asthma drive cute energy elevator chicken dumb goose";
+var mnemonic = "enter embark bench marble churn radio purse emerge absurd grape stem frog";

@@ -1,1 +1,1 @@
-var mnemonic = "actual honey silent veteran use zoo soap biology lift unaware mosquito joke";
+var mnemonic = "lawn river robot together stage alley mystery powder expire pitch rapid benefit";

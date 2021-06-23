@@ -1,1 +1,1 @@
-var mnemonic = "gentle someone great echo afraid clap light deputy evolve furnace swamp guitar";
+var mnemonic = "manage day very elevator garage civil carbon profit curve monkey elite deposit";

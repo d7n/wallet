@@ -1,1 +1,1 @@
-var mnemonic = "force athlete enough flame behave bamboo zebra negative poverty add music decide";
+var mnemonic = "icon shoot exhaust come message lion smile execute hand lava sponsor release";

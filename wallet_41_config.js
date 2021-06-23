@@ -1,1 +1,1 @@
-var mnemonic = "whip expose either dial tell agent shuffle hedgehog day gaze occur scheme";
+var mnemonic = "high gorilla erosion demand around pride trial alley boat thumb observe spring";

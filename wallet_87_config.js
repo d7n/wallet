@@ -1,1 +1,1 @@
-var mnemonic = "record sausage winner flash slush axis very cliff motion field home scrap";
+var mnemonic = "divert measure decrease pole edge consider bottom glory state material endorse glory";

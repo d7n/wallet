@@ -1,1 +1,1 @@
-var mnemonic = "clip spike salon pigeon forum common cabin ivory car still cotton liberty";
+var mnemonic = "pony release school city glory great tunnel tool impact satisfy half crater";

@@ -1,1 +1,1 @@
-var mnemonic = "grocery hurt charge bottom muscle skate creek finish garlic check boost myth";
+var mnemonic = "deer artefact best kingdom beauty chef change sell december rotate total stock";

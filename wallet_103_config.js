@@ -1,1 +1,1 @@
-var mnemonic = "clip wisdom undo hungry daughter assume sand heart grant snake pause chunk";
+var mnemonic = "nasty fly surface capital loop garden vanish gate onion blush slide figure";

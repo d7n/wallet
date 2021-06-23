@@ -1,1 +1,1 @@
-var mnemonic = "uncle verify drive lyrics trust transfer desert whale cricket then purpose sunny";
+var mnemonic = "potato negative expose cable horse sea sail grant provide lyrics panda find";

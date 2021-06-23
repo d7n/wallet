@@ -1,1 +1,1 @@
-var mnemonic = "collect dentist mistake amateur width advance describe kit nation crew stage review";
+var mnemonic = "height maze become example million erode culture tone bless bomb envelope unusual";

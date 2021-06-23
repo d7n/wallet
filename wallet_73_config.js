@@ -1,1 +1,1 @@
-var mnemonic = "cluster fresh never present maid limb license diet robust whip autumn dash";
+var mnemonic = "dwarf prefer cement together genre develop scrub brief paddle secret victory muffin";

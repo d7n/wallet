@@ -1,1 +1,1 @@
-var mnemonic = "mind ten injury cargo drama negative couch social recall eye material festival";
+var mnemonic = "abuse doll pattern ability vote harbor nation mention enhance slot match force";

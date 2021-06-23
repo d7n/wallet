@@ -1,1 +1,1 @@
-var mnemonic = "heavy budget sleep claw source hurry notice doll village consider dust hamster";
+var mnemonic = "then main couch peasant estate fashion purse mad label insect spread abandon";

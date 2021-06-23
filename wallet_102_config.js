@@ -1,1 +1,1 @@
-var mnemonic = "talent sign shield produce interest gate paddle whale cube stereo shoulder useless";
+var mnemonic = "give minor hello office dove corn music elevator crater hockey erosion middle";

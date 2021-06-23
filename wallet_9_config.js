@@ -1,1 +1,1 @@
-var mnemonic = "island run lunar gravity knee neck expect slam radio involve elevator despair";
+var mnemonic = "leader movie senior become copper impact only thrive fix prison pupil pet";

@@ -1,1 +1,1 @@
-var mnemonic = "honey magnet shrimp excuse absorb next aware bounce dance box ill wood";
+var mnemonic = "potato weasel digital dragon parrot parrot wheel field pulse doll faith sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "destroy pool crowd analyst seed sentence diamond stock pilot false area slow";
+var mnemonic = "sample boring snack lion roof unaware echo kitchen private ancient canal invest";

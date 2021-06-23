@@ -1,1 +1,1 @@
-var mnemonic = "flock demise village now coach model dawn input swallow swallow crumble surprise";
+var mnemonic = "message glare heavy token banana charge weather pupil cry solve invite supreme";

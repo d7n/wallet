@@ -1,1 +1,1 @@
-var mnemonic = "small stairs barrel enable pizza drop clock truth okay example figure vacant";
+var mnemonic = "adjust neck used donor atom credit exchange minimum upper logic dismiss gold";

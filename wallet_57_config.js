@@ -1,1 +1,1 @@
-var mnemonic = "enjoy doll phrase kingdom jazz grief shoulder comic pink board error benefit";
+var mnemonic = "rookie whisper mixture auto move chicken setup baby ski actress fever stable";

@@ -1,1 +1,1 @@
-var mnemonic = "weather sausage public shiver dignity clump oak narrow student market valley slogan";
+var mnemonic = "boring left large drip alone soft accuse prize labor volcano genuine fine";

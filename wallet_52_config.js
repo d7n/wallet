@@ -1,1 +1,1 @@
-var mnemonic = "secret today december crucial rough happy series patient title bag entry draw";
+var mnemonic = "total boring super blast shrimp market useless donor audit adjust season inhale";

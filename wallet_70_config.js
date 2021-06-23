@@ -1,1 +1,1 @@
-var mnemonic = "blossom since capable install clerk episode knee bulb sunset bundle immune tip";
+var mnemonic = "shoot control recipe volume powder bitter region van female pretty tenant connect";

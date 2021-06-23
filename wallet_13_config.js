@@ -1,1 +1,1 @@
-var mnemonic = "force love evidence night plug ticket leg fame book liberty winner follow";
+var mnemonic = "usage canal flavor tray convince theme ask grow suit august lawsuit type";

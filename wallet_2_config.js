@@ -1,1 +1,1 @@
-var mnemonic = "tornado roof switch spray evil cage anchor accident segment noble emotion need";
+var mnemonic = "aspect leg ankle husband snap slab muffin sad slender card gallery attitude";

@@ -1,1 +1,1 @@
-var mnemonic = "theory chunk suffer squirrel claim guitar army chronic timber crazy day shield";
+var mnemonic = "room space circle source measure organ merry spy spirit strategy oil honey";

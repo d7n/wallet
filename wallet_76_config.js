@@ -1,1 +1,1 @@
-var mnemonic = "only exhibit surprise space monster please lend rare charge immune change announce";
+var mnemonic = "feed parrot ankle more goat input push acoustic donkey island tell thought";

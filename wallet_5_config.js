@@ -1,1 +1,1 @@
-var mnemonic = "style pluck near elbow mirror thunder winner snap when warfare network art";
+var mnemonic = "face goddess saddle use nut nephew rug ask daughter tooth can much";

@@ -1,1 +1,1 @@
-var mnemonic = "fit furnace merge rug story half item upset never accuse portion tag";
+var mnemonic = "razor thank way member arrive forum inch remind furnace either diamond season";

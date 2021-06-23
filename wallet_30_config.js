@@ -1,1 +1,1 @@
-var mnemonic = "elbow enter spray cover fee measure occur chalk refuse vibrant lucky label";
+var mnemonic = "wet shell junior connect average burger derive actor attitude unusual trouble logic";

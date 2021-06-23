@@ -1,1 +1,1 @@
-var mnemonic = "normal aim soon trend panic abandon gaze silent color avoid miss hybrid";
+var mnemonic = "better morning wing female merry club sea coast outer also exercise desk";

@@ -1,1 +1,1 @@
-var mnemonic = "parent drama rough tackle hand struggle coconut emerge meadow trip refuse monkey";
+var mnemonic = "spy lucky burden exclude fantasy shoulder palace vital swap embark excuse enjoy";
