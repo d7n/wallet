@@ -1,1 +1,1 @@
-var mnemonic = "vintage ready salt music trim main drift window run squeeze question shoulder";
+var mnemonic = "hazard juice gloom photo energy seminar soldier popular tuna skin eternal attitude";

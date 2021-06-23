@@ -1,1 +1,1 @@
-var mnemonic = "cloth ordinary mask lesson control win pipe grab loop wolf salon over";
+var mnemonic = "organ inquiry blind chimney mix scale metal narrow enough head pig because";

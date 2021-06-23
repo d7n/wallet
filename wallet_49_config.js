@@ -1,1 +1,1 @@
-var mnemonic = "judge bullet dove joke dumb pottery tongue flee frog enemy wash spray";
+var mnemonic = "clever wonder maze cinnamon floor pledge raw hazard ignore pledge hard toss";

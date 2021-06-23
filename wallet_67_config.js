@@ -1,1 +1,1 @@
-var mnemonic = "aim property echo drum wealth sibling card demise photo photo conduct corn";
+var mnemonic = "field chuckle resist degree under rifle spice language update cash simple cannon";

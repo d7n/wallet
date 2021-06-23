@@ -1,1 +1,1 @@
-var mnemonic = "cash top match tonight high replace again skin female twelve capable empty";
+var mnemonic = "fabric raccoon shove rich fly shell pet shuffle video orbit segment more";

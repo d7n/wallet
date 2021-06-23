@@ -1,1 +1,1 @@
-var mnemonic = "offer ozone mind surge toss seed maximum gown orient remember sell dolphin";
+var mnemonic = "embrace turkey spirit analyst ancient spirit firm machine pulp spare anxiety reveal";

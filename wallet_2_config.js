@@ -1,1 +1,1 @@
-var mnemonic = "input sudden ancient husband base card journey crowd umbrella tape predict twice";
+var mnemonic = "label pool raise false arm mango beyond distance capable gift vocal online";

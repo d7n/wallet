@@ -1,1 +1,1 @@
-var mnemonic = "door zero laugh mask current rigid valley lemon vessel between govern forum";
+var mnemonic = "acquire nurse wait chat start cover tomato wolf day census vanish stadium";

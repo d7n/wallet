@@ -1,1 +1,1 @@
-var mnemonic = "slice wear actor side purpose refuse assume august soap rotate relax dream";
+var mnemonic = "source strike oil mention once elder firm dolphin disorder company shell shoe";

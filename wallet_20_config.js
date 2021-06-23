@@ -1,1 +1,1 @@
-var mnemonic = "segment organ mandate library glide build hazard wine fun often round frog";
+var mnemonic = "tree priority maid off toe nominee side thought shock share upper surface";

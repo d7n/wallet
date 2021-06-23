@@ -1,1 +1,1 @@
-var mnemonic = "twist goat follow must scatter duty traffic dry note urge purity wing";
+var mnemonic = "armed capable tuition tube reward isolate settle mixture cereal earn eternal dinner";

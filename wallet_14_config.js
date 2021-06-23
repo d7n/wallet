@@ -1,1 +1,1 @@
-var mnemonic = "horn critic reform crater emotion muscle fringe gym october vibrant ugly dignity";
+var mnemonic = "quarter feel else version judge fit journey room repair husband cook position";

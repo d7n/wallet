@@ -1,1 +1,1 @@
-var mnemonic = "fluid rich audit visit someone slim ski call cotton rebuild huge silly";
+var mnemonic = "damp render chalk grant away oblige dial era rail emotion disease spoil";

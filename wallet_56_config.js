@@ -1,1 +1,1 @@
-var mnemonic = "coconut shock west estate mammal pigeon wait kiwi member vocal relax answer";
+var mnemonic = "depend reopen hamster dignity solve glass company visit family pen labor install";

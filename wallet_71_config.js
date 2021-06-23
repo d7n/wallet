@@ -1,1 +1,1 @@
-var mnemonic = "stomach bottom teach dinosaur gauge exclude rate salute hidden range arrest glove";
+var mnemonic = "obtain slogan hotel lucky orange tennis lumber imitate glory there anxiety fence";

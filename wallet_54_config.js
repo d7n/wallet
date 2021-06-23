@@ -1,1 +1,1 @@
-var mnemonic = "square save mixed reflect praise junior aspect before cushion actual next celery";
+var mnemonic = "fork hungry power fashion goose bulb when help basket bridge ship absorb";

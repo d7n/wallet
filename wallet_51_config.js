@@ -1,1 +1,1 @@
-var mnemonic = "onion noodle arrest reflect order twin dizzy possible then penalty rocket canyon";
+var mnemonic = "sing true embrace rookie novel equal detect aunt razor spread near hood";

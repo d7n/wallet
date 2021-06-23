@@ -1,1 +1,1 @@
-var mnemonic = "video tip hedgehog artist fiscal seminar machine forum canal outer card world";
+var mnemonic = "left seed bright nest father maid key trumpet addict clean december doctor";

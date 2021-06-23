@@ -1,1 +1,1 @@
-var mnemonic = "belt trigger cheap lady rail diesel can they loyal industry cluster crush";
+var mnemonic = "smoke glare sand guitar spell absorb viable coconut supreme north tissue gloom";

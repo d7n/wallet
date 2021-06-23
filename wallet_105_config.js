@@ -1,1 +1,1 @@
-var mnemonic = "desert edit blouse nominee genre sauce child avocado man business drive fatigue";
+var mnemonic = "best trend patch treat grape dish talent guilt taxi phone broken boy";

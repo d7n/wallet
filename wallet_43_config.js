@@ -1,1 +1,1 @@
-var mnemonic = "render arena cage faith vast foam know hole gloom cart guess side";
+var mnemonic = "taste pistol way letter pencil country parent antenna void minor library mind";

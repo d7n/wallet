@@ -1,1 +1,1 @@
-var mnemonic = "toddler door staff cable turtle box equal exercise cargo sister author card";
+var mnemonic = "inspire prize quote town please about debate version move decade quarter gentle";

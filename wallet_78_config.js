@@ -1,1 +1,1 @@
-var mnemonic = "sudden control accident rude settle chronic weapon talent gesture match spoil flag";
+var mnemonic = "arch front pride swap clown disease sphere scan submit ceiling real loop";

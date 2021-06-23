@@ -1,1 +1,1 @@
-var mnemonic = "angry embody nominee dog sister stereo delay spirit disease young staff remove";
+var mnemonic = "number negative van finish flower immense wrist search protect display wrong enhance";

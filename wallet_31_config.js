@@ -1,1 +1,1 @@
-var mnemonic = "door oxygen march ticket multiply chef route involve inside village grab mother";
+var mnemonic = "essence fiscal basket decorate travel powder tooth friend antenna rally candy alter";

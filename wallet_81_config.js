@@ -1,1 +1,1 @@
-var mnemonic = "number identify uniform catalog volume orbit exercise pumpkin garment crouch sadness pelican";
+var mnemonic = "tilt cousin rose lift exhibit spend talent heavy giraffe increase manage relax";

@@ -1,1 +1,1 @@
-var mnemonic = "deer puppy please tornado idea upset spot west install result select that";
+var mnemonic = "ceiling dolphin salute angle business soda dash address stay left critic forum";

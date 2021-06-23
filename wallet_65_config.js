@@ -1,1 +1,1 @@
-var mnemonic = "seed cannon pact cotton staff energy knock garment rack unknown chef notable";
+var mnemonic = "boost regular clutch maple eagle worry result follow caution like symbol way";

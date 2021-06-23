@@ -1,1 +1,1 @@
-var mnemonic = "author giraffe caution little love volcano ozone tray absorb token entry law";
+var mnemonic = "enjoy have glow bacon history mushroom foil scissors hard club other casual";

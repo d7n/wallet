@@ -1,1 +1,1 @@
-var mnemonic = "scan puzzle apology quote settle prevent year alert decorate weird nose host";
+var mnemonic = "help struggle shoot warfare melody lemon quit butter admit divert moral jar";

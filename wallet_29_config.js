@@ -1,1 +1,1 @@
-var mnemonic = "useless crystal ignore fly hammer link waste diamond cash van blanket once";
+var mnemonic = "sugar series unaware noodle vanish ladder cross effort avoid one shock damage";

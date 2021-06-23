@@ -1,1 +1,1 @@
-var mnemonic = "region banana power prefer conduct smart tube onion attend joy ready repair";
+var mnemonic = "demand crouch shoe shock artist planet display switch armed dog flame hammer";

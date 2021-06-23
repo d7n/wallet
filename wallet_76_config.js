@@ -1,1 +1,1 @@
-var mnemonic = "lizard index spare tilt tongue remember traffic six canal december claim danger";
+var mnemonic = "build tunnel already vote attend jeans ketchup gloom drift anchor crazy differ";

@@ -1,1 +1,1 @@
-var mnemonic = "hockey tag coconut kangaroo snap salute change tissue buzz afraid pistol unknown";
+var mnemonic = "timber purse rule heavy phrase smooth whip wire rose loan crowd expect";

@@ -1,1 +1,1 @@
-var mnemonic = "flag unfair winner flee shine remember online lobster paper rain napkin consider";
+var mnemonic = "sphere domain reason kingdom civil shove reject knock echo spray coin avocado";

@@ -1,1 +1,1 @@
-var mnemonic = "point fog soap argue cloud reject local capital force pool fold home";
+var mnemonic = "hour mixed crater stone cruel oven dove pulp fetch analyst render tribe";

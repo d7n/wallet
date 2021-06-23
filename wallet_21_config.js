@@ -1,1 +1,1 @@
-var mnemonic = "melt poverty struggle slush behave spawn order flip genuine mix light dream";
+var mnemonic = "fabric parent woman have detect cotton reject inside betray energy bench prize";

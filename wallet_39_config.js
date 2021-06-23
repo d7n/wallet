@@ -1,1 +1,1 @@
-var mnemonic = "sister echo perfect flavor alone ancient grant success ladder still sign ride";
+var mnemonic = "number hammer bottom income merit smoke melody chaos forget word render capital";

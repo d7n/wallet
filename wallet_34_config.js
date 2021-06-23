@@ -1,1 +1,1 @@
-var mnemonic = "alcohol hub enable art announce spray phone hat match scheme armor pistol";
+var mnemonic = "treat diamond miss evidence approve grass around spike motion spend lake public";

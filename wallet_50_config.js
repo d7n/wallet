@@ -1,1 +1,1 @@
-var mnemonic = "install horror warm copper ring raise cute leisure spin indicate best powder";
+var mnemonic = "clock clap reunion awake sleep hope sea medal behave shell attract note";

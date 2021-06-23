@@ -1,1 +1,1 @@
-var mnemonic = "pioneer dirt burst exile camp public actual frame wrestle clarify entry decrease";
+var mnemonic = "innocent purpose hope plastic hint road fringe gate extend author that used";

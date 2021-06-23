@@ -1,1 +1,1 @@
-var mnemonic = "broken pool water retreat joke popular inspire tongue uniform priority price enable";
+var mnemonic = "tumble donate curve maple diesel silent robust same hunt slender list vault";

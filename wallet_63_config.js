@@ -1,1 +1,1 @@
-var mnemonic = "same april drama inside embrace jump dial dose access power state sibling";
+var mnemonic = "artefact hip usage region figure abuse language pulse awful blouse jungle air";

@@ -1,1 +1,1 @@
-var mnemonic = "cushion mixture team task quiz insect buzz science thumb warfare trash club";
+var mnemonic = "jazz drip stem frown swallow blast check matrix salt hamster educate false";

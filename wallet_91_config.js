@@ -1,1 +1,1 @@
-var mnemonic = "medal choice east crush quarter anger clump motion hospital burden trial resource";
+var mnemonic = "monitor lend globe slow type liberty happy since market calm squirrel earn";

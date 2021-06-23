@@ -1,1 +1,1 @@
-var mnemonic = "virtual cable scissors degree item crash agree poet grit click dinner rain";
+var mnemonic = "capable noble royal network liar search apart timber client stage fix hand";

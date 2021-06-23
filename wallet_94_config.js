@@ -1,1 +1,1 @@
-var mnemonic = "wrestle novel setup wave oven drip mention transfer morning sheriff brief hungry";
+var mnemonic = "version oval huge skirt recall pluck orchard thought evil hedgehog allow error";

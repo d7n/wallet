@@ -1,1 +1,1 @@
-var mnemonic = "runway immense uncover garbage country avocado average differ gather bachelor stay stereo";
+var mnemonic = "tide parrot earn utility general skill such steel neck nation alcohol body";

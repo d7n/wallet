@@ -1,1 +1,1 @@
-var mnemonic = "media canyon attitude word soda aim maid rug cube satoshi bulb away";
+var mnemonic = "asset juice wheat visit scare easy beach toilet slide remind grant alpha";

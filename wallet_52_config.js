@@ -1,1 +1,1 @@
-var mnemonic = "valid absurd mule pride knee garden guard foster crunch infant movie paddle";
+var mnemonic = "autumn attack runway tongue sauce near need bunker crew tattoo delay betray";

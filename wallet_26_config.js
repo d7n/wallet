@@ -1,1 +1,1 @@
-var mnemonic = "rapid dilemma turn cargo column devote forget legal myself wage present barely";
+var mnemonic = "stool manual offer quote favorite taste damp sleep industry priority kiss rocket";

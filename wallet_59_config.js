@@ -1,1 +1,1 @@
-var mnemonic = "ocean talk again faint sad laugh next jar earth innocent mom omit";
+var mnemonic = "bag bid hammer goat tiny source library jaguar wish idea stove couple";

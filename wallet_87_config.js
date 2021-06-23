@@ -1,1 +1,1 @@
-var mnemonic = "start view today lyrics paddle relax amused runway hard maze glance accuse";
+var mnemonic = "search crucial appear drift federal match olympic timber make candy door muffin";

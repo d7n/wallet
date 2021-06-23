@@ -1,1 +1,1 @@
-var mnemonic = "caught talk tortoise tower post powder grunt route detail gown option velvet";
+var mnemonic = "logic system raw office gravity impose task wait nice lock keen ozone";

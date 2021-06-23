@@ -1,1 +1,1 @@
-var mnemonic = "exercise drill prison torch brush error boss foot refuse twin measure drill";
+var mnemonic = "outer welcome acoustic fossil term cake short solution scrap track clinic gain";

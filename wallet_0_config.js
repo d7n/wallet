@@ -1,1 +1,1 @@
-var mnemonic = "estate spawn door bless add hawk erosion chunk negative pride swarm burden";
+var mnemonic = "labor lizard inflict run sausage autumn castle rack heavy annual regret crunch";

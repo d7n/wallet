@@ -1,1 +1,1 @@
-var mnemonic = "boring limit lesson lift wagon mask ring loud rubber accident skull inquiry";
+var mnemonic = "poet staff ancient arctic junior labor rack hip ordinary wrong round rapid";

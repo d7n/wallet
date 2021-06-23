@@ -1,1 +1,1 @@
-var mnemonic = "garden click clever power riot hen office same sponsor nurse protect mask";
+var mnemonic = "aerobic size ivory culture essay typical visual will scorpion alone shield someone";

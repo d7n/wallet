@@ -1,1 +1,1 @@
-var mnemonic = "lesson eagle feature meat load reject rubber sketch when struggle bitter awful";
+var mnemonic = "apart bus citizen tell portion top tennis hollow wrong immune balcony crew";

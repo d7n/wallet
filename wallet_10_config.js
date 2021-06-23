@@ -1,1 +1,1 @@
-var mnemonic = "strong trend furnace universe bacon almost unveil survey left decade miss sell";
+var mnemonic = "cave pave ill cause rug knife despair mansion panda best picture worry";

@@ -1,1 +1,1 @@
-var mnemonic = "liberty december among capable include transfer float embody speak cereal whip kid";
+var mnemonic = "forest possible world simple lazy fly donate nut run humor achieve thought";

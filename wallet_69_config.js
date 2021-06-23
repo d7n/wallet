@@ -1,1 +1,1 @@
-var mnemonic = "vanish six horse system shallow suit pyramid town inform deputy situate typical";
+var mnemonic = "electric rude tissue repair oyster hat ill account clown chase search smoke";

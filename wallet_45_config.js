@@ -1,1 +1,1 @@
-var mnemonic = "dismiss light oppose river already sport entry stock friend tenant brick bachelor";
+var mnemonic = "blade doll resemble library captain pair proof sunset public setup learn elite";

@@ -1,1 +1,1 @@
-var mnemonic = "buffalo end orient source abuse video among lawsuit balance minimum casual slender";
+var mnemonic = "fortune feature museum modify latin orchard mind chest diary country roast abstract";

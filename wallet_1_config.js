@@ -1,1 +1,1 @@
-var mnemonic = "auction medal super kiss trap toss strike link shine panda that business";
+var mnemonic = "shaft island guard harbor bitter alpha admit easily genre girl have truth";

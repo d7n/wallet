@@ -1,1 +1,1 @@
-var mnemonic = "decrease fog gun doctor cause chalk glance right swear busy spend already";
+var mnemonic = "stay snap arrange snake chest victory radio picture prison skirt elder bless";

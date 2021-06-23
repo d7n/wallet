@@ -1,1 +1,1 @@
-var mnemonic = "witness unlock unfair shock sun entire lottery fossil virus audit mixed cargo";
+var mnemonic = "waste host wide weapon pattern repair dose try slide fabric present agent";

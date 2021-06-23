@@ -1,1 +1,1 @@
-var mnemonic = "impact proud inquiry coach task social owner inform sword gloom stove ice";
+var mnemonic = "wise motor vivid congress heavy swift slide achieve hawk radio advance sorry";

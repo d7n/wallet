@@ -1,1 +1,1 @@
-var mnemonic = "hour effort sock legend bird van able toast float artefact order surround";
+var mnemonic = "soon yard tip popular tuition craft coffee clinic receive bulk zebra joke";

@@ -1,1 +1,1 @@
-var mnemonic = "galaxy rich crush various fade surface east episode noodle earth outdoor side";
+var mnemonic = "chaos option twenty finish zebra evolve upper short odor plunge because today";

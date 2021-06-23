@@ -1,1 +1,1 @@
-var mnemonic = "over index peanut violin cat luggage round convince exercise crack maze village";
+var mnemonic = "this time captain blast ocean dash army another exit snow virtual canal";

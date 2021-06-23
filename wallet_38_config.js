@@ -1,1 +1,1 @@
-var mnemonic = "census captain shift whip bulk lens relief pride divide initial mistake forest";
+var mnemonic = "step steak disagree armor smile shallow brand wheel erosion fragile level general";

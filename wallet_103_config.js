@@ -1,1 +1,1 @@
-var mnemonic = "zoo faith dial enter auction diary rural love border baby just style";
+var mnemonic = "equip vintage shrug youth cinnamon sunny twelve drive local curve vendor chase";

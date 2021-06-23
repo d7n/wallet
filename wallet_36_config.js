@@ -1,1 +1,1 @@
-var mnemonic = "traffic maximum concert floor lift author vendor response donkey various science kind";
+var mnemonic = "corn rabbit range resource they chair weird scare renew skull endorse seminar";

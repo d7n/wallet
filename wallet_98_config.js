@@ -1,1 +1,1 @@
-var mnemonic = "size choose attack grocery wrap upon bulk museum artist item oblige movie";
+var mnemonic = "feed conduct shoot face story involve early camp hire hover state warfare";

@@ -1,1 +1,1 @@
-var mnemonic = "abandon arrow peasant weird slogan train vault stuff pave abstract loop they";
+var mnemonic = "clump reform find dad clown ranch kind wrestle ride assault consider essay";

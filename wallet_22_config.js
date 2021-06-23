@@ -1,1 +1,1 @@
-var mnemonic = "antique ostrich just wrap poet evoke foot liberty huge rug hurt indicate";
+var mnemonic = "soul boil throw view raccoon frog twice zone winter skin goddess endorse";

@@ -1,1 +1,1 @@
-var mnemonic = "output edge loyal cause boy inner abuse enroll random predict echo route";
+var mnemonic = "elite knee allow aware picnic deny couple boat monkey chief remain ankle";

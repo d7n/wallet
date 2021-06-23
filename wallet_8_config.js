@@ -1,1 +1,1 @@
-var mnemonic = "guess depend satisfy trumpet one sport walnut wife crawl bid mirror spice";
+var mnemonic = "drip craft caught city sign please common weather census thrive digital pen";

@@ -1,1 +1,1 @@
-var mnemonic = "woman certain please wonder forum bless true cereal draft charge fine black";
+var mnemonic = "solution rack field jeans bachelor hover unknown artefact ticket today thumb kingdom";

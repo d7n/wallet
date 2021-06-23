@@ -1,1 +1,1 @@
-var mnemonic = "adjust mixed own shoe wash true slide vast globe awful consider where";
+var mnemonic = "panther famous near legend reduce eye fluid color diet unit federal junk";

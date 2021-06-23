@@ -1,1 +1,1 @@
-var mnemonic = "maximum bicycle attend faculty journey flag notable target excess carry holiday diamond";
+var mnemonic = "list return memory cricket sample jelly finger shove reduce energy thank tape";

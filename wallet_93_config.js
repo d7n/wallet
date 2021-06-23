@@ -1,1 +1,1 @@
-var mnemonic = "elite boring hollow know vivid lava invite mobile toss carpet type cat";
+var mnemonic = "problem jungle impulse barrel sick imitate artist isolate crawl order guess spare";

@@ -1,1 +1,1 @@
-var mnemonic = "perfect conduct tooth ugly oppose reward pelican gauge boss brick okay remind";
+var mnemonic = "tissue absorb frown holiday ignore cheese possible steak congress visa knife neither";

@@ -1,1 +1,1 @@
-var mnemonic = "angle plate burger lobster scheme style debris forget about inner keen laugh";
+var mnemonic = "bean interest monitor cover fork corn border risk tragic unaware network today";

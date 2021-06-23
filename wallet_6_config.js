@@ -1,1 +1,1 @@
-var mnemonic = "hero inflict impact icon chief jacket photo bike shed prevent tray nice";
+var mnemonic = "gallery shrug outside mind topic resist girl miracle snake immune truth defy";

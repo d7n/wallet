@@ -1,1 +1,1 @@
-var mnemonic = "whale soccer spell ivory luggage crawl youth ring page novel fit zone";
+var mnemonic = "give column across turtle blade device letter tattoo margin divide apology soft";

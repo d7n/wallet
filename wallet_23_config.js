@@ -1,1 +1,1 @@
-var mnemonic = "comic poet negative copy first cup material cousin chicken perfect swim maple";
+var mnemonic = "rent wrap stable library define armor myself cube lab agree couple day";

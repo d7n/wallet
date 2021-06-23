@@ -1,1 +1,1 @@
-var mnemonic = "differ talk royal admit culture audit together life stay enhance spatial injury";
+var mnemonic = "pen pencil ocean unusual elephant property control search display arrive narrow box";

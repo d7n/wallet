@@ -1,1 +1,1 @@
-var mnemonic = "disagree jealous stay absorb mesh bright viable mule rely monkey ramp unusual";
+var mnemonic = "purpose salt elder exotic siren soul ostrich wet board replace hen fire";

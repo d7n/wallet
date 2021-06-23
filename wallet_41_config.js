@@ -1,1 +1,1 @@
-var mnemonic = "unlock cheese tiny target void whisper quit author orchard toe surprise door";
+var mnemonic = "bone ankle wish magic guitar winner dad unit rapid eager pretty catch";

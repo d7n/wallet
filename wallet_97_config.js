@@ -1,1 +1,1 @@
-var mnemonic = "mobile hope extend host daughter mystery crunch logic position manual walnut repeat";
+var mnemonic = "client system mimic royal claw please will save paddle aware great bullet";

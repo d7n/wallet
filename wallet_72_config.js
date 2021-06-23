@@ -1,1 +1,1 @@
-var mnemonic = "empty core name exile armor artwork rebuild rebuild physical lake subway crater";
+var mnemonic = "student silly mercy renew nest unable mean pitch alone cycle joy canvas";

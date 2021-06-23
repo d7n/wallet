@@ -1,1 +1,1 @@
-var mnemonic = "diamond rich stumble wet surface slender bottom wood version lottery angry repair";
+var mnemonic = "wine flock client depart aware estate window version affair income gym payment";

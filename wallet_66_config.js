@@ -1,1 +1,1 @@
-var mnemonic = "link acoustic measure cart account file actual bacon custom simple imitate young";
+var mnemonic = "feature siren seminar guilt divorce lesson panther promote excite idle kangaroo accuse";
