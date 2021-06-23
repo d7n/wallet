@@ -1,1 +1,1 @@
-var mnemonic = "initial leader old derive final luxury shiver radar pudding submit merge protect";
+var mnemonic = "dawn struggle diary casual spell bomb finger add mango bottom scatter robot";

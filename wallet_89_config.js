@@ -1,1 +1,1 @@
-var mnemonic = "uncover useless switch nominee fresh genre pulp balance property cotton panel need";
+var mnemonic = "bachelor hazard final frog indicate music erode unlock train excite runway obvious";

@@ -1,1 +1,1 @@
-var mnemonic = "cliff cancel load option invest army idle unfold disorder soldier hello prevent";
+var mnemonic = "soup clay fog moment vehicle license van image spawn forest cereal possible";

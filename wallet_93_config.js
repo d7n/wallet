@@ -1,1 +1,1 @@
-var mnemonic = "hawk inhale aware avocado bar giant staff soft enroll silk crazy divide";
+var mnemonic = "idea net spike device input latin answer tortoise payment horse bitter stumble";

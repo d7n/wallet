@@ -1,1 +1,1 @@
-var mnemonic = "cube parent broccoli pink deposit wire half green monitor random gather track";
+var mnemonic = "swarm calm brief page dream slush rigid hospital magic emotion rice book";

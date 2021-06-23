@@ -1,1 +1,1 @@
-var mnemonic = "fame best project quick hip people foot debate record bonus dinosaur inhale";
+var mnemonic = "vicious hour wheel elite injury hat shell junior open machine organ great";

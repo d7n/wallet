@@ -1,1 +1,1 @@
-var mnemonic = "faculty toilet robot faculty render rabbit judge bless parade fan exclude float";
+var mnemonic = "odor sadness tennis agent park gorilla mansion decide abandon body rigid absent";

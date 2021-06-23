@@ -1,1 +1,1 @@
-var mnemonic = "service green woman monkey club fossil caught foam pupil pistol ability label";
+var mnemonic = "decline frown flip try best goose walnut decorate rifle cool tissue toe";

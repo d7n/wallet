@@ -1,1 +1,1 @@
-var mnemonic = "benefit immense core pistol panic toss lizard couch jar major tongue head";
+var mnemonic = "divert miracle champion inside flip struggle purpose girl normal during little soup";

@@ -1,1 +1,1 @@
-var mnemonic = "angry concert bargain warrior fitness bottom track define swap valid dog toss";
+var mnemonic = "width hand rough glimpse shed oppose want harvest ridge swear wing puzzle";

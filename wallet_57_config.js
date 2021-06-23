@@ -1,1 +1,1 @@
-var mnemonic = "because fuel clap trigger enforce post food venue coach hair dash pipe";
+var mnemonic = "brisk enable scrap nice latin later reject power thing vacant ice member";

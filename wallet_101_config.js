@@ -1,1 +1,1 @@
-var mnemonic = "stomach educate divorce describe priority elegant shoulder error east other control health";
+var mnemonic = "echo bench kick vacuum season rail brown track matrix amazing wolf acquire";

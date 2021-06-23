@@ -1,1 +1,1 @@
-var mnemonic = "sight outside cargo rude soap thumb unfair vacant relax busy amused silk";
+var mnemonic = "waste horror often develop material erupt nominee pulse fruit acoustic deer hurdle";

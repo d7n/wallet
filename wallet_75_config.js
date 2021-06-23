@@ -1,1 +1,1 @@
-var mnemonic = "ignore tornado aware expand piece access gold permit raven two surge brown";
+var mnemonic = "someone legend rice cupboard vague waste universe cushion muscle alpha end siren";

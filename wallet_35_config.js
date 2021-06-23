@@ -1,1 +1,1 @@
-var mnemonic = "gift coconut balcony jungle coconut arctic better edge whisper fatigue pulse either";
+var mnemonic = "atom sudden hint eyebrow around orbit surprise seat blue hundred guide obscure";

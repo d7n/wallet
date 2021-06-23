@@ -1,1 +1,1 @@
-var mnemonic = "alpha crush major crime insect mobile resource elevator canal choose bulb minimum";
+var mnemonic = "identify number punch vendor find update total usual afraid rigid gesture chase";

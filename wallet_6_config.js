@@ -1,1 +1,1 @@
-var mnemonic = "bring combine guilt chef cabbage one quote refuse almost reform dash use";
+var mnemonic = "aisle scale addict this leg boost caution scorpion nature zero gossip relax";

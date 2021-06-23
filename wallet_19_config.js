@@ -1,1 +1,1 @@
-var mnemonic = "license envelope appear robot dry notable barely whip depend during horror orphan";
+var mnemonic = "veteran slight toilet setup arrest void they flat tomorrow screen spell direct";

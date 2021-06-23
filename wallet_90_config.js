@@ -1,1 +1,1 @@
-var mnemonic = "make position okay accident shell divorce page assist panic motor hazard jaguar";
+var mnemonic = "concert arrange whisper second bounce loud noble excite scatter aim put misery";

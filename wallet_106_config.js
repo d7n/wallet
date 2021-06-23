@@ -1,1 +1,1 @@
-var mnemonic = "property unit repair hungry tenant fiction grief advice reflect popular veteran barrel";
+var mnemonic = "song drift reject aisle pepper evolve century bread gaze slush please stadium";

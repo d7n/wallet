@@ -1,1 +1,1 @@
-var mnemonic = "apple length judge ozone author grape ring wink shove snap game enlist";
+var mnemonic = "advice lion denial tribe empty major lyrics ancient sniff season blame biology";

@@ -1,1 +1,1 @@
-var mnemonic = "valley minute swamp still hat onion case village license panda board wrap";
+var mnemonic = "whisper envelope stamp casual hello initial depend sweet hungry pond tired notice";

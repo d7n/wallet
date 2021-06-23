@@ -1,1 +1,1 @@
-var mnemonic = "motor armor laugh tornado human invest collect nature marriage supply suit sad";
+var mnemonic = "click raw neck injury achieve behind cross whale cargo auto patrol banana";

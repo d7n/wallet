@@ -1,1 +1,1 @@
-var mnemonic = "mass south topic aspect bullet trial leave settle toe flower manual parrot";
+var mnemonic = "found term kick volume adult monkey reform educate silver prevent wife day";

@@ -1,1 +1,1 @@
-var mnemonic = "strike relax enable praise palace fuel want aunt slush equip legend bridge";
+var mnemonic = "usage virtual tone weather heavy brown idea soap clutch dragon behave vintage";

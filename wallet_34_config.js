@@ -1,1 +1,1 @@
-var mnemonic = "picnic cigar question depend huge child silver present ten brother friend agree";
+var mnemonic = "foam nice title future antenna interest valley food scorpion maze member cry";

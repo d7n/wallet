@@ -1,1 +1,1 @@
-var mnemonic = "now carry urge anxiety valid grief relax unusual cry offer metal van";
+var mnemonic = "fortune anchor odor welcome dice crucial poem child tent humble bubble retire";

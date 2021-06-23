@@ -1,1 +1,1 @@
-var mnemonic = "jump prosper sun hero spice rare unfair decrease wire candy invite display";
+var mnemonic = "bracket gossip battle produce rural enact horn fossil punch section art member";

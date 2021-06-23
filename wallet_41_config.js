@@ -1,1 +1,1 @@
-var mnemonic = "powder deny stove lamp burst shuffle rule tomato bright behave artist media";
+var mnemonic = "oval label dynamic end sleep opinion outer raven tiny like indicate admit";

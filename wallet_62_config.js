@@ -1,1 +1,1 @@
-var mnemonic = "anchor struggle there captain rose depth supply hair sand jewel burden island";
+var mnemonic = "panel blade room surface wine garlic route private fruit erode employ giant";

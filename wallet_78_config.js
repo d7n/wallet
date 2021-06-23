@@ -1,1 +1,1 @@
-var mnemonic = "demise jar fame genre know kiwi thumb tobacco quote access muffin school";
+var mnemonic = "battle crucial shed bus seminar evoke balance pass regular muffin bring brother";

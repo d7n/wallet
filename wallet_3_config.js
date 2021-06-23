@@ -1,1 +1,1 @@
-var mnemonic = "kiwi east room sugar firm bulb duck edge raise mom across blush";
+var mnemonic = "boost grass brisk disorder proof jealous fetch trash disagree neither hen bicycle";

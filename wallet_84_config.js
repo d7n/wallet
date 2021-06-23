@@ -1,1 +1,1 @@
-var mnemonic = "auction chimney ski double board label reject pool narrow shield pull canyon";
+var mnemonic = "phrase village voice team buddy attitude tank light agree admit tide hedgehog";

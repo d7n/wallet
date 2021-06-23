@@ -1,1 +1,1 @@
-var mnemonic = "scan cereal flee assist ordinary meadow hand scatter weekend dragon shiver barrel";
+var mnemonic = "hair throw evil exotic turkey motion cycle ozone west casual wrong inform";

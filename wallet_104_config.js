@@ -1,1 +1,1 @@
-var mnemonic = "glare divert twin salad prosper fun barrel skin foil squeeze energy mobile";
+var mnemonic = "topple verb history section purse arch tooth inmate false mixed company know";

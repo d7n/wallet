@@ -1,1 +1,1 @@
-var mnemonic = "crime crawl shine bean benefit grape edit position total slow innocent direct";
+var mnemonic = "buffalo squeeze ten bone supply satisfy orchard copy wreck warm sound crystal";

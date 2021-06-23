@@ -1,1 +1,1 @@
-var mnemonic = "mix uncover team toward indoor amateur usual bind fee false wolf cute";
+var mnemonic = "farm mango label ring student rebuild concert bring segment genre silk pencil";

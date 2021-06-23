@@ -1,1 +1,1 @@
-var mnemonic = "update physical shield under security occur fee equip absurd notable huge frown";
+var mnemonic = "seminar rifle category lonely jewel east patch drip pluck jealous exclude cram";

@@ -1,1 +1,1 @@
-var mnemonic = "letter monster lemon wreck risk seven make tank foil turkey thrive globe";
+var mnemonic = "surge bleak patient render assist lecture year rely lunch proof decorate undo";

@@ -1,1 +1,1 @@
-var mnemonic = "essay dismiss turtle express option survey hammer logic green art top hunt";
+var mnemonic = "hundred blur curtain gaze humble toilet airport zoo catalog blanket earth spawn";

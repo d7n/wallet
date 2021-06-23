@@ -1,1 +1,1 @@
-var mnemonic = "gadget behind stand kiss hotel coil narrow air castle charge debris vivid";
+var mnemonic = "speed donor virus hero fit buyer assume custom profit discover mix fiscal";

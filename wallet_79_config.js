@@ -1,1 +1,1 @@
-var mnemonic = "crop fork pave company pattern catalog sudden demise birth unusual bus witness";
+var mnemonic = "good weather wreck boy write there yard you detail table remember screen";

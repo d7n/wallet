@@ -1,1 +1,1 @@
-var mnemonic = "brief mirror sense erode pyramid ball hungry kite ignore economy burden sleep";
+var mnemonic = "mean alone cry picture nose empower impulse fashion roast include abandon catalog";

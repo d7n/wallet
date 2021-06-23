@@ -1,1 +1,1 @@
-var mnemonic = "gallery grape assume carbon total fresh human document bleak spend enroll patient";
+var mnemonic = "goose squirrel health bracket arena total time differ problem uncover upon shift";

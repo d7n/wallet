@@ -1,1 +1,1 @@
-var mnemonic = "unit excuse kind pause eternal slice defense neglect review weapon dentist law";
+var mnemonic = "puppy amateur mixed promote jeans plunge sustain pudding certain rail address enhance";

@@ -1,1 +1,1 @@
-var mnemonic = "group wish plate stereo inject raise fee practice hover oyster remind target";
+var mnemonic = "sphere genius biology mouse stem ill mango ridge good short shed scare";

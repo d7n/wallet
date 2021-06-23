@@ -1,1 +1,1 @@
-var mnemonic = "pride camp east position label recycle color knock theme cool rib hybrid";
+var mnemonic = "cage oblige great save afraid silver cherry arrive festival surge design vague";

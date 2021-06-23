@@ -1,1 +1,1 @@
-var mnemonic = "panther broken circle float order perfect thing soup phone better title benefit";
+var mnemonic = "travel have news ginger cook vanish radar artist october cook cruise add";

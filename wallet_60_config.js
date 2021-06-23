@@ -1,1 +1,1 @@
-var mnemonic = "echo hamster true shrimp lava load fitness soccer fitness wage market doctor";
+var mnemonic = "treat north winner ball mother drastic else funny junk fabric dry suggest";

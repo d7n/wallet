@@ -1,1 +1,1 @@
-var mnemonic = "upset today ripple gather biology pattern promote stadium excuse click morning regular";
+var mnemonic = "solution apology roast slab museum cash shop hurdle craft van struggle claim";

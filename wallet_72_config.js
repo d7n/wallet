@@ -1,1 +1,1 @@
-var mnemonic = "what limb nation ordinary rhythm barely buddy dune smoke suffer jar armor";
+var mnemonic = "ill pitch excess play soft forest road hair endorse roast escape cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "demand wear squeeze exclude giggle sweet catalog mom unlock disorder general journey";
+var mnemonic = "below infant purpose spike crisp inhale flip oak canal diary mammal fatal";

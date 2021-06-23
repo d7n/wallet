@@ -1,1 +1,1 @@
-var mnemonic = "electric shiver obey swap shock supply rule warm moment patch question kidney";
+var mnemonic = "matter lake cricket rose solar accuse stove blanket slender gown jacket rifle";

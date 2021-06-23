@@ -1,1 +1,1 @@
-var mnemonic = "senior slow erase okay middle laugh dash useful meat gospel famous denial";
+var mnemonic = "bullet entry brave detect trend average zone glance lift perfect dice live";

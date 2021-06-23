@@ -1,1 +1,1 @@
-var mnemonic = "morning relax exit scheme athlete egg faculty runway fee thumb across horn";
+var mnemonic = "glass powder truly maze happy cruel kangaroo lottery joke agree utility planet";

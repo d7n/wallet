@@ -1,1 +1,1 @@
-var mnemonic = "stock crisp hub rural sing brush search entire horse sorry silly deny";
+var mnemonic = "hospital inner light affair runway click ride help wrestle razor exhibit dry";

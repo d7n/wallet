@@ -1,1 +1,1 @@
-var mnemonic = "benefit tumble shy coach summer vacant puppy hint property dutch mistake spin";
+var mnemonic = "desk furnace license vital stone split rebuild turtle citizen collect wise occur";

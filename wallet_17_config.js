@@ -1,1 +1,1 @@
-var mnemonic = "mixed end hover cause famous race usage transfer ribbon avocado hole plastic";
+var mnemonic = "grief lift sea enlist world deal earth hunt they magic raw source";

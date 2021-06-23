@@ -1,1 +1,1 @@
-var mnemonic = "spot shiver demise anger spider magic loyal hamster loan material physical sting";
+var mnemonic = "matrix scrap advice ramp hungry mandate document debris update manage claim news";

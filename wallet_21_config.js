@@ -1,1 +1,1 @@
-var mnemonic = "awful ring pond diet note demand jungle cable behind crumble desert lend";
+var mnemonic = "drum winner outside lock east thumb entire blur cushion okay pulse nice";

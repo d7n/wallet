@@ -1,1 +1,1 @@
-var mnemonic = "cloud mixed scrub symbol under near kiss lottery evil mom brand ten";
+var mnemonic = "acquire play trophy program desk urban erode brisk sail knock wild anxiety";

@@ -1,1 +1,1 @@
-var mnemonic = "flash dish citizen help olympic account amused nuclear general pulse bomb predict";
+var mnemonic = "soup rose brand permit logic afraid ship awake scout place law what";

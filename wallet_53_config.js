@@ -1,1 +1,1 @@
-var mnemonic = "gadget payment trip dish follow emotion sort digital between sick weasel twelve";
+var mnemonic = "involve foam scare tackle tourist process equal subway equip slight obey again";

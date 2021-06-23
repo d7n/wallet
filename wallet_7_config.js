@@ -1,1 +1,1 @@
-var mnemonic = "vehicle riot sorry can airport laptop torch session lobster beyond begin zone";
+var mnemonic = "wine switch puppy mother mean clay song viable relax trick acquire scrub";

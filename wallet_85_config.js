@@ -1,1 +1,1 @@
-var mnemonic = "october hammer blossom hat tomato fever figure amateur oppose always ladder one";
+var mnemonic = "spoon mind fox silly casino fan clog present outdoor asthma parade guitar";

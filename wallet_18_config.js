@@ -1,1 +1,1 @@
-var mnemonic = "current simple gauge frozen float detect sphere panda any fury city bamboo";
+var mnemonic = "cliff pledge gorilla kiss world alarm reveal supply aunt promote alley floor";

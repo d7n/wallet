@@ -1,1 +1,1 @@
-var mnemonic = "flight primary shop genre access rich detail quick define talent brisk loyal";
+var mnemonic = "adult method shell else ceiling fresh laptop muffin helmet rose rain inch";

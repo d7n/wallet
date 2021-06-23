@@ -1,1 +1,1 @@
-var mnemonic = "tragic decorate drama cancel permit hamster uphold marble similar dream safe path";
+var mnemonic = "cabin since fossil security replace give twin picnic economy wood unable short";

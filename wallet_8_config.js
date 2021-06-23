@@ -1,1 +1,1 @@
-var mnemonic = "weather elevator huge move grief divide february material spot metal top pizza";
+var mnemonic = "toast disorder iron auto sort door prison cricket swim note rhythm dice";

@@ -1,1 +1,1 @@
-var mnemonic = "peace ask witness live dolphin report skirt deal various twelve elephant pipe";
+var mnemonic = "pass civil author snap rule symptom issue sight rescue okay dentist draw";

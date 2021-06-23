@@ -1,1 +1,1 @@
-var mnemonic = "regret secret wage borrow cabbage aspect token pistol human very insane ladder";
+var mnemonic = "welcome panda flame gift way bench word seed video slab kick flight";

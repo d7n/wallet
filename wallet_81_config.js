@@ -1,1 +1,1 @@
-var mnemonic = "mail velvet walk mixture run foam fall twice crush brave arch possible";
+var mnemonic = "erase size method renew foster path list now elegant market either oak";

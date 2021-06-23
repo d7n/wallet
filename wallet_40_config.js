@@ -1,1 +1,1 @@
-var mnemonic = "magnet era only arctic manual bonus weasel toddler nut swap casual chief";
+var mnemonic = "cart cage buddy legend try cheese praise frost film impose spell document";

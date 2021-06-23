@@ -1,1 +1,1 @@
-var mnemonic = "diagram song pistol ski almost unhappy list member velvet decide razor whale";
+var mnemonic = "test alter huge price range tone rug boy aim pluck ivory sample";

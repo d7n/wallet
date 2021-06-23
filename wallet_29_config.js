@@ -1,1 +1,1 @@
-var mnemonic = "awake cave wrist finger rally tobacco cram fit blur glass deal melt";
+var mnemonic = "elephant genre robot figure taxi coach donkey rent air judge claw ginger";

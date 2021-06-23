@@ -1,1 +1,1 @@
-var mnemonic = "strike rich pass bridge notable inherit owner setup never include trial february";
+var mnemonic = "dirt dice right much loan truly this expose awful install forward cross";

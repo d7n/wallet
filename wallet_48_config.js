@@ -1,1 +1,1 @@
-var mnemonic = "among income arctic acoustic heavy rapid margin mesh wolf grab beauty cushion";
+var mnemonic = "fence sauce setup change rebuild bubble false game enforce party repeat grunt";

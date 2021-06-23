@@ -1,1 +1,1 @@
-var mnemonic = "device gloom power remove cable hungry virus reason gain opinion pool ecology";
+var mnemonic = "flock genre absorb all social power ride reform knock sea simple advance";

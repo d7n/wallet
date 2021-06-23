@@ -1,1 +1,1 @@
-var mnemonic = "quarter sleep surround danger rude use churn cup shock devote bronze coffee";
+var mnemonic = "expand sugar mobile caution ready bring ankle pyramid column present green pizza";

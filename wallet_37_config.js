@@ -1,1 +1,1 @@
-var mnemonic = "limit model observe people key finish keep fog flock earth coffee possible";
+var mnemonic = "chaos crack globe final whisper shop artefact used assist trial ready coral";

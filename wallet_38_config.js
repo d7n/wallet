@@ -1,1 +1,1 @@
-var mnemonic = "route act term talk evil weather floor glue solar yard endorse fold";
+var mnemonic = "wheel comic captain neither since kitten leader decorate logic aim friend enforce";

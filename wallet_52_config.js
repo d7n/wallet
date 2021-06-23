@@ -1,1 +1,1 @@
-var mnemonic = "horror veteran always sleep board moment auto cup over field elder grape";
+var mnemonic = "expand access chalk profit genre squeeze trim stick sunny extra husband glance";

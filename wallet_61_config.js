@@ -1,1 +1,1 @@
-var mnemonic = "gather inhale blast drop predict estate abuse upgrade high palm obvious barrel";
+var mnemonic = "boost solid arch false palace decrease van divorce coconut screen hole project";

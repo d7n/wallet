@@ -1,1 +1,1 @@
-var mnemonic = "palm join summer process squeeze ostrich film pulse way tomato uniform age";
+var mnemonic = "tuition unfold van trap magnet like renew owner warm angry pyramid fabric";

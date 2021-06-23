@@ -1,1 +1,1 @@
-var mnemonic = "once chase trial zoo arrive fatigue diagram pen zero claim either idea";
+var mnemonic = "rule magnet chronic suffer lend undo model wash legend athlete tonight taxi";

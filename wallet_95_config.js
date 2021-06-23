@@ -1,1 +1,1 @@
-var mnemonic = "inject width damp develop mad child trophy multiply tobacco kangaroo appear across";
+var mnemonic = "decade easy forum author army lesson before peanut happy blade burger cousin";

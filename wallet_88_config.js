@@ -1,1 +1,1 @@
-var mnemonic = "edge embrace special always witness lift theory chair access admit sail element";
+var mnemonic = "enact conduct fame what toddler multiply emerge mercy prize flock away draw";

@@ -1,1 +1,1 @@
-var mnemonic = "film drink power near silent machine base imitate student almost happy carry";
+var mnemonic = "diesel maze advance sunset remove energy debate fall surround ecology skill rack";

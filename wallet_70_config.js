@@ -1,1 +1,1 @@
-var mnemonic = "warrior double flush dress ball bargain calm decrease unfold dignity solid before";
+var mnemonic = "tuition negative embark grass boring trophy scatter steel guide mushroom abstract core";

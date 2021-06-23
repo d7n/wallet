@@ -1,1 +1,1 @@
-var mnemonic = "era draw potato bubble robot first toy lumber lab flavor sad shine";
+var mnemonic = "issue pumpkin prison entry fly pole latin pill zoo camp tower umbrella";

@@ -1,1 +1,1 @@
-var mnemonic = "clip galaxy raw spring labor short talent pilot notable depend curve across";
+var mnemonic = "finger tide push kitchen chunk guard test tide wear police apple bubble";

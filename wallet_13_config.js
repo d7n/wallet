@@ -1,1 +1,1 @@
-var mnemonic = "dragon dumb sail clever genuine armor ketchup relax industry scissors forum total";
+var mnemonic = "catch nice favorite april cluster demand forget lizard maid net celery maple";

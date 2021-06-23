@@ -1,1 +1,1 @@
-var mnemonic = "wool seek slush problem intact hard domain tumble mail cool wing tuition";
+var mnemonic = "cradle music hole pudding flag ginger chaos amateur puppy hub idle fatal";

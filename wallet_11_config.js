@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit oil ladder pepper dish push hero gossip art rough virtual benefit";
+var mnemonic = "crisp speak brick remain please food rebel crush sock nest clump print";
