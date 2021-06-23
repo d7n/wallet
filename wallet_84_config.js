@@ -1,1 +1,1 @@
-var mnemonic = "ancient fruit tired spatial method unfold genuine hawk mixed shrimp rough remember";
+var mnemonic = "grace idle leg tattoo where valid believe unusual oak toe grab wet";

@@ -1,1 +1,1 @@
-var mnemonic = "insect argue milk skate ritual wide void math concert access laugh thunder";
+var mnemonic = "unusual blade tray fringe lumber cute various common right tip festival hotel";

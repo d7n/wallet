@@ -1,1 +1,1 @@
-var mnemonic = "capable crunch van when surround later always outer claim develop practice coin";
+var mnemonic = "prison hundred marine sing chase clean method hazard waste neglect solve bean";

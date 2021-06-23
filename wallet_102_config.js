@@ -1,1 +1,1 @@
-var mnemonic = "uphold radio build abuse flock search exchange bamboo vibrant pony spin ceiling";
+var mnemonic = "camp divert enact try various foam ribbon conduct liquid apple urban team";

@@ -1,1 +1,1 @@
-var mnemonic = "busy doll effort baby extra eager nephew loyal aisle height omit interest";
+var mnemonic = "axis illegal admit patrol rescue proud seat cost elder theme shell push";

@@ -1,1 +1,1 @@
-var mnemonic = "garlic width outdoor pig isolate eye ginger must improve resource photo absurd";
+var mnemonic = "throw toward october clock pretty acquire episode receive bonus lava photo worry";

@@ -1,1 +1,1 @@
-var mnemonic = "metal figure august top library head genre story crack glide wine print";
+var mnemonic = "interest wrist fall grain fame pride nothing taste advance open collect arrive";

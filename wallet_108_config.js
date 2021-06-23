@@ -1,1 +1,1 @@
-var mnemonic = "ball ripple inch coyote sign pen thought when review quit sheriff return";
+var mnemonic = "nut echo member palace air fruit guard marine key citizen account wait";

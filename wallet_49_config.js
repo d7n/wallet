@@ -1,1 +1,1 @@
-var mnemonic = "mixed manual soccer poet dad critic version young beyond farm spawn illness";
+var mnemonic = "scrub shoulder lonely cart twice eye brother margin spice person artwork speak";

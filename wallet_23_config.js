@@ -1,1 +1,1 @@
-var mnemonic = "hand trade ugly opinion country wreck ribbon faith leader lens fun add";
+var mnemonic = "salad solve trigger silk gauge hammer census case faculty hospital execute year";

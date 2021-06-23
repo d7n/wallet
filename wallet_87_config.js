@@ -1,1 +1,1 @@
-var mnemonic = "vessel offer method sick enough nurse banner stick fashion mountain bread offer";
+var mnemonic = "chase goat local smooth enforce pave tomato bench type figure image become";

@@ -1,1 +1,1 @@
-var mnemonic = "fun swing park argue ill sound become battle daring opinion foil journey";
+var mnemonic = "crisp champion deer icon dilemma alpha vanish cheap merry pony unit bullet";

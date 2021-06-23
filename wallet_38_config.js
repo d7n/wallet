@@ -1,1 +1,1 @@
-var mnemonic = "exercise jelly doctor renew loan left peace switch jump notable clean rate";
+var mnemonic = "library prison habit business merge fresh throw dignity learn spike metal agree";

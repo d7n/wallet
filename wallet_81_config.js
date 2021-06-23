@@ -1,1 +1,1 @@
-var mnemonic = "lyrics fragile eager subject moment marble wool vacuum horror enlist broken round";
+var mnemonic = "electric run lizard state current flame marine shove rapid idle acoustic common";

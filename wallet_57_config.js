@@ -1,1 +1,1 @@
-var mnemonic = "stable problem escape churn powder weekend tennis physical another action tent spoil";
+var mnemonic = "table carry rebuild ghost now capital artefact whip club beach dinosaur recall";

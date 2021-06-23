@@ -1,1 +1,1 @@
-var mnemonic = "return rice beach vendor demand toe almost loyal panther window credit ordinary";
+var mnemonic = "crowd youth brother genre cupboard crawl decide clean leg walk puppy life";

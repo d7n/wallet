@@ -1,1 +1,1 @@
-var mnemonic = "mercy milk smile gas expire auction grape hundred north gold dove surface";
+var mnemonic = "write busy brave mask immense elbow select problem review emotion slow frozen";

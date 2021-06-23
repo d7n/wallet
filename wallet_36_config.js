@@ -1,1 +1,1 @@
-var mnemonic = "loop decide nurse essay canyon lawsuit pottery history bread federal hope obvious";
+var mnemonic = "member film afraid crush skin wool exotic snow provide fiction forget clutch";

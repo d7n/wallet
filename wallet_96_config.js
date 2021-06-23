@@ -1,1 +1,1 @@
-var mnemonic = "mind road voyage shift smile rely public bargain surge sign west feel";
+var mnemonic = "pioneer vocal depend split skirt balance moral cactus elegant physical green funny";

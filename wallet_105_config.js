@@ -1,1 +1,1 @@
-var mnemonic = "group cigar pear random refuse love spoil emerge mango dumb knife course";
+var mnemonic = "alcohol venue comic one rather nominee print ranch powder hobby acquire advance";

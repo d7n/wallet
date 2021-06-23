@@ -1,1 +1,1 @@
-var mnemonic = "brief doctor lunch smile wheat unaware gloom noble shop wild finish language";
+var mnemonic = "crumble bind hybrid visit need ensure bean gallery relax enroll labor response";

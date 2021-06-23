@@ -1,1 +1,1 @@
-var mnemonic = "dose fall churn dizzy gossip poet bag candy arm desk absorb helmet";
+var mnemonic = "tower evil tent prevent oven leg twist neutral whip april option ahead";

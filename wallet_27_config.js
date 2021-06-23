@@ -1,1 +1,1 @@
-var mnemonic = "venture leaf silent scrap frost high proof skull trick bulk soon shift";
+var mnemonic = "aware thunder together borrow swing walnut amused slow frequent kick embrace civil";

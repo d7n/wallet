@@ -1,1 +1,1 @@
-var mnemonic = "defense sun evil saddle health auto begin snake rifle child click kingdom";
+var mnemonic = "fiction bottom stuff today swing brand before bind cannon lesson salad industry";

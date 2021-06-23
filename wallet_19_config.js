@@ -1,1 +1,1 @@
-var mnemonic = "tube glide expand demise nasty please project model prevent void enroll swift";
+var mnemonic = "tribe device must twist jungle excess breeze predict trouble stuff gloom nasty";

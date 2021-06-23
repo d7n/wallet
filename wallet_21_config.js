@@ -1,1 +1,1 @@
-var mnemonic = "sell rug bean broccoli recall parrot section organ bar utility gauge sadness";
+var mnemonic = "opinion have vital problem explain tumble measure unique recycle retreat tuition biology";

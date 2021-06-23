@@ -1,1 +1,1 @@
-var mnemonic = "high mouse brief tourist absorb cement end auto tone visa cricket amused";
+var mnemonic = "outdoor sheriff midnight scrap primary innocent melt brick donkey lumber weird cricket";

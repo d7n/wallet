@@ -1,1 +1,1 @@
-var mnemonic = "insane wagon make glad squeeze much sock violin now erase benefit claim";
+var mnemonic = "gasp consider tent ecology erupt label giant chaos oppose avocado mind casino";

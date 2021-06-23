@@ -1,1 +1,1 @@
-var mnemonic = "obscure shock manage brush today outer plate pattern trick subway deliver carpet";
+var mnemonic = "frozen misery jealous cart hamster purchase photo hen tip dry shallow output";

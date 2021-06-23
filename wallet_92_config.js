@@ -1,1 +1,1 @@
-var mnemonic = "subject spare laugh avocado scale cage replace capital token they assault search";
+var mnemonic = "physical screen melody dial shoot asthma address indoor bulk fee still subway";

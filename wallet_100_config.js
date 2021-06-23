@@ -1,1 +1,1 @@
-var mnemonic = "anxiety junior butter loan print bonus state crew neck candy purpose divide";
+var mnemonic = "decide pupil undo dash small capital bunker local asthma width animal priority";

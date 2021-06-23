@@ -1,1 +1,1 @@
-var mnemonic = "battle doctor guide prosper account alert tunnel valid immense field arrow uphold";
+var mnemonic = "project sail crowd hurt vast know success jacket volume cream hand fox";

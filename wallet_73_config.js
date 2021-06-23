@@ -1,1 +1,1 @@
-var mnemonic = "label stamp guide also senior seed tone click purpose notable bring mail";
+var mnemonic = "wheat naive angry change march blossom monitor room atom doctor license decorate";

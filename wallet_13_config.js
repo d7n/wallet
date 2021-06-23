@@ -1,1 +1,1 @@
-var mnemonic = "liberty choose avoid tobacco remind hobby edit step pipe shaft vapor lobster";
+var mnemonic = "barrel honey bounce manual toss trap birth force about timber ranch nuclear";

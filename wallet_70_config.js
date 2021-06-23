@@ -1,1 +1,1 @@
-var mnemonic = "ramp west major fine syrup head essay bottom scatter panda bottom level";
+var mnemonic = "quote license tail margin timber tired net kit grass worth blouse toward";

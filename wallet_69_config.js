@@ -1,1 +1,1 @@
-var mnemonic = "act scheme chuckle dad grant bread horn box busy curtain bring hole";
+var mnemonic = "fit same stock easy benefit illegal rabbit sibling collect stage service timber";

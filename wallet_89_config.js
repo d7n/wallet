@@ -1,1 +1,1 @@
-var mnemonic = "boss cruel pink around crawl april bulb butter envelope slight buyer jaguar";
+var mnemonic = "found diary silly talent demand private pretty bread biology suspect across shuffle";

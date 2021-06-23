@@ -1,1 +1,1 @@
-var mnemonic = "carry common hurdle ripple apart kitten erase shove dash inner swift head";
+var mnemonic = "example disease cherry turtle drift relax fashion omit genre stem jar fantasy";

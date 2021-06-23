@@ -1,1 +1,1 @@
-var mnemonic = "achieve worth fan coyote broken all dose frequent write husband rally combine";
+var mnemonic = "term father monkey flee hat creek lizard ancient wine animal wheel century";

@@ -1,1 +1,1 @@
-var mnemonic = "deer cannon captain furnace disagree upgrade dentist vague outside frame radar faculty";
+var mnemonic = "vacuum spatial vivid fog put pill live relax oil mom soda lens";

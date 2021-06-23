@@ -1,1 +1,1 @@
-var mnemonic = "exist pool milk pet unit bonus canal burger modify knife royal alert";
+var mnemonic = "soda viable talk struggle suit shrug invite stock menu sibling now crime";

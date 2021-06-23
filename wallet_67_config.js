@@ -1,1 +1,1 @@
-var mnemonic = "until list artefact key rack milk wild indicate climb canal animal gossip";
+var mnemonic = "permit humor affair minor adjust exchange screen vanish until horse clinic object";

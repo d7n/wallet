@@ -1,1 +1,1 @@
-var mnemonic = "reform patient sword carbon vessel feed clock grant eight chuckle brass bag";
+var mnemonic = "sleep argue like horn float assume world veteran calm drop album okay";

@@ -1,1 +1,1 @@
-var mnemonic = "order topple depend patient laundry sure twenty logic antenna ranch inhale rigid";
+var mnemonic = "scissors repeat pigeon hurdle bamboo flame exhibit top ahead fire series case";

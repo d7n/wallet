@@ -1,1 +1,1 @@
-var mnemonic = "mixture merry shiver game comic lamp spawn scrub flip ostrich lift risk";
+var mnemonic = "bring neck spot cycle brass bid scheme near stand jeans prefer wrist";

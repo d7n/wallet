@@ -1,1 +1,1 @@
-var mnemonic = "awful upper trap pool chimney angle decline goat inform will sand wash";
+var mnemonic = "valve crawl brief intact wool actual boat crime caution daughter build file";

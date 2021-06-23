@@ -1,1 +1,1 @@
-var mnemonic = "panda craft canvas time artwork behind question romance narrow gesture unusual draw";
+var mnemonic = "address concert hamster regular lady yellow pizza blast ugly sense nasty public";

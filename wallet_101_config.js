@@ -1,1 +1,1 @@
-var mnemonic = "toast blouse assault echo physical into travel knife woman hill fly bargain";
+var mnemonic = "episode street vault you bus hill keen fence stone junior muscle spoil";

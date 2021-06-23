@@ -1,1 +1,1 @@
-var mnemonic = "inject various math spin benefit fine grit vast barrel apart eight wedding";
+var mnemonic = "very local reject season galaxy elegant gorilla route three fancy pulp base";

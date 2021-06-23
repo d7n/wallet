@@ -1,1 +1,1 @@
-var mnemonic = "gift owner certain urban raw vicious bachelor major record citizen mean toy";
+var mnemonic = "snap surge park able soul security clever walk thing museum immense bounce";

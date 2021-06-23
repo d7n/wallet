@@ -1,1 +1,1 @@
-var mnemonic = "carry egg lab chase enroll soda drip fantasy wine habit roast worry";
+var mnemonic = "hammer obvious head nature crumble system sure bachelor blossom cave drive brisk";

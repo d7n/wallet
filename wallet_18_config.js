@@ -1,1 +1,1 @@
-var mnemonic = "umbrella weasel category zoo theme utility flight session vendor solution blanket copper";
+var mnemonic = "elegant artist habit slice armed salon confirm frame lend slow promote junk";

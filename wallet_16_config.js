@@ -1,1 +1,1 @@
-var mnemonic = "youth gym frog dress file mercy cricket orange evoke lift pyramid can";
+var mnemonic = "conduct favorite spawn economy strong coral together place angle follow air bike";

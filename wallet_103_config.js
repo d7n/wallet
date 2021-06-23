@@ -1,1 +1,1 @@
-var mnemonic = "weird useful also squirrel design owner inner coast stay weapon copy snack";
+var mnemonic = "better scare bargain exercise wine issue practice side phone autumn ill spring";

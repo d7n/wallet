@@ -1,1 +1,1 @@
-var mnemonic = "please winter unhappy clock powder clump spice quick error small liar clip";
+var mnemonic = "best fade sister family duck bulk unfair marine cargo attract adapt slam";

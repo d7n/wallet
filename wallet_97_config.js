@@ -1,1 +1,1 @@
-var mnemonic = "essence era off various journey absent oil define blanket logic spy soldier";
+var mnemonic = "pony helmet already write beauty vibrant polar judge long behave region one";

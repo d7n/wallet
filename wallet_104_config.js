@@ -1,1 +1,1 @@
-var mnemonic = "evidence garage question loan cash camp hunt observe fade unlock crack shoe";
+var mnemonic = "escape train below second property route save impose capable hole miracle wonder";

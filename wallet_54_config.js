@@ -1,1 +1,1 @@
-var mnemonic = "nuclear used harbor trouble useless grid screen eager net present ski script";
+var mnemonic = "chicken trigger dust reflect tiny retreat glove hamster gesture fragile december abuse";

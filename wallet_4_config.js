@@ -1,1 +1,1 @@
-var mnemonic = "airport reopen error float kidney illegal honey above traffic endorse fox oil";
+var mnemonic = "real birth mixed burst lava crew affair inquiry broken record salute ribbon";

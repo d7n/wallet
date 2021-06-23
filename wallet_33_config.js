@@ -1,1 +1,1 @@
-var mnemonic = "banner panther desert borrow excite radar monster people master bunker color interest";
+var mnemonic = "wedding vital flip final unhappy mansion perfect ethics picnic wrist merit sibling";

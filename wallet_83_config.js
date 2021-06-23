@@ -1,1 +1,1 @@
-var mnemonic = "winner clap soup mouse ankle maple elbow must brush what differ cycle";
+var mnemonic = "regret tide blouse curtain mammal turkey immense scale among grit blast frequent";

@@ -1,1 +1,1 @@
-var mnemonic = "tourist draw switch pigeon bonus beach goose firm soul primary zero elephant";
+var mnemonic = "radio shrimp soft fence degree mass wagon any planet power elevator friend";

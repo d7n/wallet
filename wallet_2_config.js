@@ -1,1 +1,1 @@
-var mnemonic = "empower detail below coil scale fire menu around helmet title genre repair";
+var mnemonic = "indoor include room tuition blood lamp dash click elevator initial spare blame";

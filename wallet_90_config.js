@@ -1,1 +1,1 @@
-var mnemonic = "pioneer chicken inner kitten spot grass save ignore width dismiss portion one";
+var mnemonic = "room allow vintage this subway cheese cabin miracle unfair mask fade pizza";

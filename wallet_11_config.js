@@ -1,1 +1,1 @@
-var mnemonic = "celery head disorder sponsor fold tree purse insect rifle service toilet mandate";
+var mnemonic = "awesome mosquito obtain photo what scrub cluster lizard what damage turtle pond";

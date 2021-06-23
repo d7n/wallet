@@ -1,1 +1,1 @@
-var mnemonic = "spike pool else skirt outside girl castle puzzle novel swap pass measure";
+var mnemonic = "behind weapon come uphold system same impose response distance reason lottery almost";

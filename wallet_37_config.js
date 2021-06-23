@@ -1,1 +1,1 @@
-var mnemonic = "say punch spy frozen release oyster combine utility feed genre giggle wrestle";
+var mnemonic = "cancel pony cash type chicken motor margin visual output glory blood cook";

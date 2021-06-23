@@ -1,1 +1,1 @@
-var mnemonic = "cause round boss live nature vendor blame prevent hood spatial praise abstract";
+var mnemonic = "glad foot hard reopen poet orphan describe own aware tomato truth bomb";

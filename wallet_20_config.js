@@ -1,1 +1,1 @@
-var mnemonic = "staff permit spring advance win wage ocean stadium another web primary brick";
+var mnemonic = "mystery nature plug ugly reunion space attack setup goddess acoustic raven judge";

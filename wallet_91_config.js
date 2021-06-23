@@ -1,1 +1,1 @@
-var mnemonic = "journey kit file exit decide eager balcony garbage pull skull mouse cake";
+var mnemonic = "track person lamp help weapon two improve shed wedding reveal energy model";

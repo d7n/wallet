@@ -1,1 +1,1 @@
-var mnemonic = "label forest corn cruise celery drama frequent magic age soap embark few";
+var mnemonic = "security grace live drop foot syrup square firm firm cage project season";

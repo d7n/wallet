@@ -1,1 +1,1 @@
-var mnemonic = "air inmate mammal bicycle blue gloom ice glance hedgehog frequent must present";
+var mnemonic = "end drop firm perfect cake mention crouch milk feed clever giggle moon";

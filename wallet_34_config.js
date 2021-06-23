@@ -1,1 +1,1 @@
-var mnemonic = "uncle trigger knife pony ordinary net employ rather gasp collect time key";
+var mnemonic = "judge faint sibling defy hunt write chase outer soldier hello receive swamp";

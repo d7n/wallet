@@ -1,1 +1,1 @@
-var mnemonic = "visa walnut rude cook album tragic bullet shallow youth attract voice feel";
+var mnemonic = "trouble bench story shift roast office adjust sleep dose waste evolve topple";

@@ -1,1 +1,1 @@
-var mnemonic = "stamp install file minute magic lunch room glue impulse chimney arm dance";
+var mnemonic = "payment romance betray tissue rebuild omit winner arrange fog virtual trick region";

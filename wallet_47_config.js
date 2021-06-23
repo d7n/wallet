@@ -1,1 +1,1 @@
-var mnemonic = "flush season journey immune two suspect buzz kid option faith shoulder author";
+var mnemonic = "jealous field sustain poem price come exchange marble prize tenant talk armor";

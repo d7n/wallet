@@ -1,1 +1,1 @@
-var mnemonic = "ecology cute flock asset history bargain rent scissors deposit pet famous spatial";
+var mnemonic = "tooth expand cushion exact advance grace surprise cruel bottom narrow rapid bench";

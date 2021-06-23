@@ -1,1 +1,1 @@
-var mnemonic = "win depart joke fetch smoke level that group coil clip spoil street";
+var mnemonic = "shaft cherry room peasant card pen beyond emotion student trash document topple";

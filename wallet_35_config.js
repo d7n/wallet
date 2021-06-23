@@ -1,1 +1,1 @@
-var mnemonic = "impact scrap phrase danger daughter say option bulb denial genius logic badge";
+var mnemonic = "history junk vital change toward summer stairs vapor betray insane fluid orbit";

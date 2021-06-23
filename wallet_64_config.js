@@ -1,1 +1,1 @@
-var mnemonic = "apology empower summer one blanket error cheese pipe chair miracle lock exchange";
+var mnemonic = "annual depend lunch trophy during nasty fly drama pilot mandate grief husband";

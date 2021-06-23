@@ -1,1 +1,1 @@
-var mnemonic = "area waste history jeans expire accuse rail visit bleak half steak panel";
+var mnemonic = "divert husband uphold mammal depart strike cash sleep delay install planet crush";

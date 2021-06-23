@@ -1,1 +1,1 @@
-var mnemonic = "nation famous mix tube salon fashion tooth banner tool bomb beauty wall";
+var mnemonic = "area never skin copy side saddle novel access expire month sketch busy";

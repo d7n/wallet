@@ -1,1 +1,1 @@
-var mnemonic = "embark trophy danger apple buzz start tragic outer old affair west rate";
+var mnemonic = "swallow wasp lyrics spike permit trouble pond coffee work prepare satoshi half";

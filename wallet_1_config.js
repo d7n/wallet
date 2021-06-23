@@ -1,1 +1,1 @@
-var mnemonic = "mutual dove strong napkin nuclear dream solid night net hole goat math";
+var mnemonic = "absorb gaze hotel cause use clerk fan barely diet provide cage mix";

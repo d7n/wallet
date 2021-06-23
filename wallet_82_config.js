@@ -1,1 +1,1 @@
-var mnemonic = "hub tunnel door dream uphold place stay shop report often firm action";
+var mnemonic = "mom notice merit title evolve loan smoke piece credit ramp across slam";

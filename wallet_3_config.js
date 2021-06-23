@@ -1,1 +1,1 @@
-var mnemonic = "mystery cigar employ coin pyramid dash kit gym rigid offer nation ribbon";
+var mnemonic = "safe illegal west track walnut trash dragon adult venue inquiry country nice";

@@ -1,1 +1,1 @@
-var mnemonic = "payment pony loud know nothing inner castle abandon metal luggage grape ginger";
+var mnemonic = "float fit gift there hire ignore original orient subway plunge brother mandate";

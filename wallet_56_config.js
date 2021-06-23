@@ -1,1 +1,1 @@
-var mnemonic = "tree present trumpet payment point luggage fun shrug face element genius pave";
+var mnemonic = "trim auto observe column deputy color oblige bag boat cannon wide twenty";

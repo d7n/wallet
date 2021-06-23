@@ -1,1 +1,1 @@
-var mnemonic = "fun reduce tell execute rookie theme decorate volume cube offer just mutual";
+var mnemonic = "level memory rhythm slice taxi leaf exhibit diamond above knock shoe knock";
