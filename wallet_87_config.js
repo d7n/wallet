@@ -1,1 +1,1 @@
-var mnemonic = "melody phone express daughter invite art ocean arrange drop embark just rally";
+var mnemonic = "pigeon smart apart stadium minimum morning short unaware regret change input keep";

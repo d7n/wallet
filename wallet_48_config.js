@@ -1,1 +1,1 @@
-var mnemonic = "pair island erode away phone soap moment denial outer provide kid health";
+var mnemonic = "stumble pioneer curious refuse turtle clump action green lion effort sort pet";

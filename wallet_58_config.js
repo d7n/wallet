@@ -1,1 +1,1 @@
-var mnemonic = "retire scrub veteran lock behind curtain junk relief august disease spoon clip";
+var mnemonic = "flavor exotic thank access symptom eagle squeeze brisk blush bag omit hobby";

@@ -1,1 +1,1 @@
-var mnemonic = "august battle jump whip wisdom pretty purse inject client pact fox ill";
+var mnemonic = "door atom sure loan powder palace boil identify duty toilet nuclear recipe";

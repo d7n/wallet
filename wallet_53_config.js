@@ -1,1 +1,1 @@
-var mnemonic = "glimpse reform major harbor unknown square alley cannon draft assume olympic renew";
+var mnemonic = "burst account brown law reason scorpion crash funny time degree coast cat";

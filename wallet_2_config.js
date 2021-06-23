@@ -1,1 +1,1 @@
-var mnemonic = "explain arctic hawk snake cube north anger churn feature average cram indoor";
+var mnemonic = "ask crush team weather mask fragile vicious letter scheme laptop seed vocal";

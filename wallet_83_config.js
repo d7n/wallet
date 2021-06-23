@@ -1,1 +1,1 @@
-var mnemonic = "engine hat ancient scout wagon february spy vintage mixture clinic supreme cement";
+var mnemonic = "tribe leader flavor little potato adapt spirit often cycle route marine paper";

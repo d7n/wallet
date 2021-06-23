@@ -1,1 +1,1 @@
-var mnemonic = "build member mean taste you correct nice busy popular bright sell vicious";
+var mnemonic = "brisk rich connect trend garden local sunny inherit journey mouse lake boat";

@@ -1,1 +1,1 @@
-var mnemonic = "afraid aunt pizza cross divorce put census rice load security rug replace";
+var mnemonic = "dinner egg large two end lion bundle vendor else phone trap mouse";

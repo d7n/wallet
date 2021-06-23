@@ -1,1 +1,1 @@
-var mnemonic = "chest dentist deal accuse universe enhance bread predict edge require doll improve";
+var mnemonic = "wide loan fortune jacket enable stand chef harvest damp actress swap gift";

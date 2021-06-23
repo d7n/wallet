@@ -1,1 +1,1 @@
-var mnemonic = "ticket laugh finish sick arrest chuckle drink post action visa diagram demise";
+var mnemonic = "unfair wool kiss need diesel luxury public carry frequent guess pair gas";

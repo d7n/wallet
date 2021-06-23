@@ -1,1 +1,1 @@
-var mnemonic = "become hurt drink shock spend moment jazz wage dragon habit burden novel";
+var mnemonic = "area cradle firm trial pudding quit reward inherit post heart olive ranch";

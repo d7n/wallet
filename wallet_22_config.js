@@ -1,1 +1,1 @@
-var mnemonic = "remind clerk tiny flee boring source blood mixture hockey trigger voyage diamond";
+var mnemonic = "naive pave afford comic future dose mad where example cereal speak various";

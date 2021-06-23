@@ -1,1 +1,1 @@
-var mnemonic = "genre spoil blouse worth doctor girl region family remain gold dumb predict";
+var mnemonic = "couch also steel surface raw sunny invite tuna forest gentle weekend frost";

@@ -1,1 +1,1 @@
-var mnemonic = "pool shift approve party bamboo weather bracket garbage six west neither whale";
+var mnemonic = "clean ten present essence coffee small refuse pulp vast zone timber current";

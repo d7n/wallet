@@ -1,1 +1,1 @@
-var mnemonic = "save guilt useful boring shy muffin wealth smile thought oak plug number";
+var mnemonic = "skull lock host denial bench squirrel annual luxury throw feature valid canyon";

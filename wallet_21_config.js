@@ -1,1 +1,1 @@
-var mnemonic = "drip girl donkey economy zero rice assault auto limit situate child milk";
+var mnemonic = "keep paper busy member stay couple own trouble wedding scatter save update";

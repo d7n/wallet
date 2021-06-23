@@ -1,1 +1,1 @@
-var mnemonic = "you young cabin cart life donor tuna guilt effort odor call sauce";
+var mnemonic = "wisdom bullet latin salute abandon juice poet garage embody machine hire gift";

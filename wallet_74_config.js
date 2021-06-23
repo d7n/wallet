@@ -1,1 +1,1 @@
-var mnemonic = "course island sea food save secret mercy cricket average improve cram head";
+var mnemonic = "recycle elegant adult scout kitchen film expand forest various ticket rapid scene";

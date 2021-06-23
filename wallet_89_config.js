@@ -1,1 +1,1 @@
-var mnemonic = "resource machine marble witness replace impact olympic bar labor steak panda grit";
+var mnemonic = "club creek medal apart lunch hold critic art estate enter client scene";

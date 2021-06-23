@@ -1,1 +1,1 @@
-var mnemonic = "avoid alcohol jeans employ favorite fresh humor letter train merry rare gossip";
+var mnemonic = "narrow coyote sun pink rookie piece hamster glove wealth extra enemy raven";

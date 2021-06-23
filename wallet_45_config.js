@@ -1,1 +1,1 @@
-var mnemonic = "heavy boring plunge quick ceiling radio dinosaur law bunker derive very tool";
+var mnemonic = "orient story market split stuff divorce tent thunder income barely phrase man";

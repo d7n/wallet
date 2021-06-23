@@ -1,1 +1,1 @@
-var mnemonic = "hamster page cargo wish buffalo chuckle hand shallow place pet pistol hour";
+var mnemonic = "eight intact lawn able island wealth height liberty coyote attitude flash problem";

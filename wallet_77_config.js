@@ -1,1 +1,1 @@
-var mnemonic = "motor include meadow domain real finish jar famous bacon soul ridge hollow";
+var mnemonic = "area snap initial ranch expose autumn entry wonder velvet truck income snake";

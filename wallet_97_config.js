@@ -1,1 +1,1 @@
-var mnemonic = "peasant secret soon shrug simple pet fiction fall elder pilot inch clutch";
+var mnemonic = "move liquid south ready cradle differ pink alley bulb pull noble baby";

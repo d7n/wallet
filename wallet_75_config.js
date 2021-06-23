@@ -1,1 +1,1 @@
-var mnemonic = "jaguar thought prison post shallow color medal detail resource welcome above sure";
+var mnemonic = "shuffle unusual announce often camera leisure fancy pony extra blame push animal";

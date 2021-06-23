@@ -1,1 +1,1 @@
-var mnemonic = "crime often dust pigeon ignore crush topic income metal hurry maple world";
+var mnemonic = "fossil just obtain margin profit mesh assume kind any day outer sample";

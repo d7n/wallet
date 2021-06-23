@@ -1,1 +1,1 @@
-var mnemonic = "album easy luxury stand trash into blue main survey nurse oyster cabbage";
+var mnemonic = "chunk little voyage say witness rose season spoon dance weather unlock ivory";

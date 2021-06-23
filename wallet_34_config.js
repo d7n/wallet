@@ -1,1 +1,1 @@
-var mnemonic = "final electric slim faculty entire lemon domain bounce appear earn fiscal comfort";
+var mnemonic = "middle donate duck sphere consider rebel payment involve stage garlic junk trade";

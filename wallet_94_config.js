@@ -1,1 +1,1 @@
-var mnemonic = "humor wire bridge better flee system wave ahead skin choose menu slush";
+var mnemonic = "charge viable forget sunset thrive update initial give cushion loud virus tobacco";

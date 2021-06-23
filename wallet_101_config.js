@@ -1,1 +1,1 @@
-var mnemonic = "across way cupboard feed critic cigar meadow quit point wash once icon";
+var mnemonic = "flash squeeze defy weekend duty tenant future violin imitate oak stay frog";

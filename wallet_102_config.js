@@ -1,1 +1,1 @@
-var mnemonic = "pilot forget require upon gossip wide fabric easy foam canvas empower manual";
+var mnemonic = "parrot hurdle grass favorite agree depend car million magnet much logic lab";

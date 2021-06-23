@@ -1,1 +1,1 @@
-var mnemonic = "response buyer attend dutch orange music live beyond piece stone tuna embark";
+var mnemonic = "dragon enter lady high lend body carpet toddler wrong conduct reflect goddess";

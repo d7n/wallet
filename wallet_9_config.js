@@ -1,1 +1,1 @@
-var mnemonic = "cave raise devote half turtle stove inner cost apology donor quantum reduce";
+var mnemonic = "stone beach two among escape fatal goddess rather sunset expect reopen left";

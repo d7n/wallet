@@ -1,1 +1,1 @@
-var mnemonic = "frost crane local increase loud deny hub step cat target point logic";
+var mnemonic = "nerve slim decline gossip train all original adjust initial essence hurt patch";

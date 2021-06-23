@@ -1,1 +1,1 @@
-var mnemonic = "want attract differ sauce cancel alone entire bounce bonus bean describe boil";
+var mnemonic = "gather what capable boy tumble bundle path truck pipe will never census";

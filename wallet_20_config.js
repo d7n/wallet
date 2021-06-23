@@ -1,1 +1,1 @@
-var mnemonic = "okay promote coral year oak must obtain curtain fault giraffe sport aware";
+var mnemonic = "summer actual flip soccer mistake buzz super manage plate velvet number steel";

@@ -1,1 +1,1 @@
-var mnemonic = "topple rival giraffe believe mom refuse better host acquire spirit whip card";
+var mnemonic = "trial useless taxi general bracket target current identify sausage regret sick captain";

@@ -1,1 +1,1 @@
-var mnemonic = "coin unique vault sugar oyster invite elite hockey hat visit code river";
+var mnemonic = "explain coin tourist misery slogan sponsor smart whale spell olympic monkey first";

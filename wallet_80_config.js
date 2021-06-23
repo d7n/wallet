@@ -1,1 +1,1 @@
-var mnemonic = "discover kitten assume drink super obtain gasp diagram artefact lunch sheriff like";
+var mnemonic = "fancy timber pretty benefit pilot assume make machine forest soul cabin possible";

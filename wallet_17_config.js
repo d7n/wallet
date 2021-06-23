@@ -1,1 +1,1 @@
-var mnemonic = "ring once wire army genuine liquid wool pet nest turn gas cover";
+var mnemonic = "jelly tenant anxiety saddle entry force crush glory foil sponsor december jump";

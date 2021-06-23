@@ -1,1 +1,1 @@
-var mnemonic = "oil humor car jar build unlock drastic horror network minute essay chaos";
+var mnemonic = "apart audit era they blind parent clinic practice pottery surface topic sea";

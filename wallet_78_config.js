@@ -1,1 +1,1 @@
-var mnemonic = "inject hobby surprise gown liquid act vanish hill burst west heart crouch";
+var mnemonic = "vanish awesome resist dutch door occur setup network unable fit rather permit";

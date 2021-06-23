@@ -1,1 +1,1 @@
-var mnemonic = "act primary jar that logic require tissue hood oyster combine iron poem";
+var mnemonic = "hen usage history core unaware year yard educate cry bone snap tomato";

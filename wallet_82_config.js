@@ -1,1 +1,1 @@
-var mnemonic = "mirror enact hospital enlist measure fine climb feel jungle tonight swamp advance";
+var mnemonic = "muscle other hood prosper month small utility gun squirrel amused powder afraid";

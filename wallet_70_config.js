@@ -1,1 +1,1 @@
-var mnemonic = "diesel verify fire cash inform rude law gown crash sort pond retire";
+var mnemonic = "where gaze photo click announce era roof potato forum casual wish way";

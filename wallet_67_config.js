@@ -1,1 +1,1 @@
-var mnemonic = "one mimic fork pink benefit upon advance oyster palace empower point inside";
+var mnemonic = "quit sunny mimic timber enter weird tired salt boost neutral myself select";

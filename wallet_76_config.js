@@ -1,1 +1,1 @@
-var mnemonic = "arctic verify omit glory fox job mirror laundry galaxy web dawn march";
+var mnemonic = "stable prepare assault very seat bubble act empower decade stool desk offer";

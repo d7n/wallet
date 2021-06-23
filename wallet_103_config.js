@@ -1,1 +1,1 @@
-var mnemonic = "okay team snack identify task eternal prefer grocery ghost scrub shy engine";
+var mnemonic = "average hurry olive van remove slight cheese vast slim junk comic sphere";

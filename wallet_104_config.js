@@ -1,1 +1,1 @@
-var mnemonic = "nature frost faculty earn pave hobby much spatial edit photo execute solid";
+var mnemonic = "seed toward chase ethics more goose because alert auction hockey story shine";

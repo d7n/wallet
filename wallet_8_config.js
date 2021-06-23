@@ -1,1 +1,1 @@
-var mnemonic = "path document stamp bag music silent traffic matter retreat keen refuse ghost";
+var mnemonic = "congress decrease thing bread deal swing snow motion avocado inspire same worth";

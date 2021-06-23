@@ -1,1 +1,1 @@
-var mnemonic = "logic nest mango sleep frown peanut they ensure isolate art slight tongue";
+var mnemonic = "grant man cousin first real acoustic whip simple catch addict sign already";

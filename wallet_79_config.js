@@ -1,1 +1,1 @@
-var mnemonic = "fun human room promote monitor liquid settle humble calm view frequent squirrel";
+var mnemonic = "describe later trim outer erase glance wish hedgehog olympic lobster nominee whale";

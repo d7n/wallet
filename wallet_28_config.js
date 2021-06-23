@@ -1,1 +1,1 @@
-var mnemonic = "pilot twice seminar afraid lemon park lecture twice afraid inflict clutch poverty";
+var mnemonic = "soldier sting guard loan hundred what east hurry attract blast common pilot";

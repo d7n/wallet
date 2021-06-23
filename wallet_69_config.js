@@ -1,1 +1,1 @@
-var mnemonic = "young concert ability physical nose tragic verb loop copper year old behave";
+var mnemonic = "blush swallow vast clutch angle mutual relax sunny swamp olive author retire";

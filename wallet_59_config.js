@@ -1,1 +1,1 @@
-var mnemonic = "actress cattle degree famous siren craft shock oblige flag usual amused episode";
+var mnemonic = "whip filter target nut snack owner aim story whisper bridge news recall";

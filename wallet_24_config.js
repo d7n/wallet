@@ -1,1 +1,1 @@
-var mnemonic = "inform merit sell valley congress lottery faint one insane agent come lobster";
+var mnemonic = "agent cheese envelope area live scheme fossil turn much talent render pool";

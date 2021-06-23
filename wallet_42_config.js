@@ -1,1 +1,1 @@
-var mnemonic = "pupil unaware artefact puzzle shock tornado vehicle become pink fish ritual wish";
+var mnemonic = "awesome drip discover celery tennis shuffle similar future battle magic source waste";

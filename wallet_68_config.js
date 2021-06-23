@@ -1,1 +1,1 @@
-var mnemonic = "decide village egg answer blood crisp collect supply mad host below market";
+var mnemonic = "property dolphin sport silk bunker calm solution float evil robust cloth finish";

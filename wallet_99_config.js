@@ -1,1 +1,1 @@
-var mnemonic = "curtain crumble song option multiply device rule quit enlist awesome evoke tortoise";
+var mnemonic = "syrup chimney fire bless hip issue indoor major merry measure wisdom whip";

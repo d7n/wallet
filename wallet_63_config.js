@@ -1,1 +1,1 @@
-var mnemonic = "feel cargo muffin surprise battle butter habit federal claw spice meat upper";
+var mnemonic = "safe asthma critic behave aerobic almost crazy body avoid maze body avocado";

@@ -1,1 +1,1 @@
-var mnemonic = "fault degree sibling detail rice pretty save oyster upper forum neck flock";
+var mnemonic = "strike virtual black calm seek tuition candy wasp swarm proof spray senior";

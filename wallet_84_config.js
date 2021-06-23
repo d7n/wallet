@@ -1,1 +1,1 @@
-var mnemonic = "crunch equal fee indicate sponsor casual trend nothing verb produce bean release";
+var mnemonic = "trade elder suit lab charge radio estate seed equal model dash try";

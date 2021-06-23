@@ -1,1 +1,1 @@
-var mnemonic = "cage tooth end report shield goose train sea napkin donor sing wool";
+var mnemonic = "consider potato weasel jar alley remember loud dash popular crawl sail say";

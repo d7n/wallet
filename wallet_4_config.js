@@ -1,1 +1,1 @@
-var mnemonic = "measure miracle simple timber surface search flock fever man sand excuse pumpkin";
+var mnemonic = "citizen depend bag error ordinary finger adapt scene accident cream clog assume";

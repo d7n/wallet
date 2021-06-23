@@ -1,1 +1,1 @@
-var mnemonic = "short promote frown drift glory enlist push shoe scrub ugly cry mad";
+var mnemonic = "blade water kitten sustain sweet guard color alpha motion hero vintage mother";

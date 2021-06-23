@@ -1,1 +1,1 @@
-var mnemonic = "swap grain pluck three decline then recipe memory soap clap version upset";
+var mnemonic = "gap dust grace mystery power length ranch whip problem pulp lava cry";

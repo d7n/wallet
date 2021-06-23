@@ -1,1 +1,1 @@
-var mnemonic = "husband uniform ensure elite pattern license title render fashion narrow matter topic";
+var mnemonic = "short shed gauge vapor cradle since heart jar scorpion eagle column urge";

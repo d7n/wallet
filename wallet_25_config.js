@@ -1,1 +1,1 @@
-var mnemonic = "measure wild rebel green firm problem act tiny basic relief slush inhale";
+var mnemonic = "unique opera health upset hedgehog roof vast inform initial canyon umbrella chair";

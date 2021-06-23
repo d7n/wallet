@@ -1,1 +1,1 @@
-var mnemonic = "miss mandate apart merry move deny wide mansion bicycle order come height";
+var mnemonic = "strike oyster random own review please party focus stumble insect valve drum";

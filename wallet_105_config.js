@@ -1,1 +1,1 @@
-var mnemonic = "balcony service foster shy awesome only lobster churn emotion eternal cabin veteran";
+var mnemonic = "soon afford poet winner donor kidney pool fade immense found prize above";

@@ -1,1 +1,1 @@
-var mnemonic = "okay earth jealous game craft tissue scrub example venture smile orphan option";
+var mnemonic = "input change donate run know skull flat marine essence animal frame rib";

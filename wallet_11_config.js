@@ -1,1 +1,1 @@
-var mnemonic = "scrap loan day invite hill stable scrub used victory notice ring cook";
+var mnemonic = "beef viable visa guess reopen believe super give mushroom hotel critic paddle";

@@ -1,1 +1,1 @@
-var mnemonic = "stone warfare write tail differ antenna deer tattoo oyster broom brisk cross";
+var mnemonic = "play whisper mother situate clever fold dinosaur board tumble shallow club calm";

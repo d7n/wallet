@@ -1,1 +1,1 @@
-var mnemonic = "behave scale swim fly horror celery brave pudding better paper judge travel";
+var mnemonic = "certain green impact zone company love miss lend hamster kid remember ball";

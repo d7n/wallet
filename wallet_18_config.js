@@ -1,1 +1,1 @@
-var mnemonic = "enforce staff same kite general bright average calm chapter capital course federal";
+var mnemonic = "wait theory wine install spin grow urban winner audit october claim wood";

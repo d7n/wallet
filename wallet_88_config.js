@@ -1,1 +1,1 @@
-var mnemonic = "wave beef crisp federal total rule during ranch minute once vague add";
+var mnemonic = "network neither found long wall parrot velvet lake rice improve same damage";

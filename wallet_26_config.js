@@ -1,1 +1,1 @@
-var mnemonic = "keen album make choose curtain riot nominee empower audit absorb ecology company";
+var mnemonic = "unable trigger dice cheese pig power wrestle inmate gasp vault state vanish";

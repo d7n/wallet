@@ -1,1 +1,1 @@
-var mnemonic = "carbon cactus monkey barrel vapor physical kite soul choice obey audit giraffe";
+var mnemonic = "bean large boring garment cat month riot face bitter true call start";

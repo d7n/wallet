@@ -1,1 +1,1 @@
-var mnemonic = "soup audit carry canvas gain page kit envelope ostrich combine laundry file";
+var mnemonic = "park capital act observe educate arena long submit pony immense bleak marine";

@@ -1,1 +1,1 @@
-var mnemonic = "script crucial error coral radar buffalo obtain expose hammer bread detail settle";
+var mnemonic = "round lazy antenna twenty vicious income view walk once van twenty turn";

@@ -1,1 +1,1 @@
-var mnemonic = "mule sponsor slice green nominee that radar happy orchard social aisle width";
+var mnemonic = "front plunge crash acquire box uncle dial series illness attack despair talent";

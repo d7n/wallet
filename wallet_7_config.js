@@ -1,1 +1,1 @@
-var mnemonic = "hub boil earn artist cram prepare reflect ordinary napkin cradle cradle move";
+var mnemonic = "desk review egg else employ among light reform innocent bless camera clarify";

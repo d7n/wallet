@@ -1,1 +1,1 @@
-var mnemonic = "sadness survey include network pepper buyer early modify finger grain knife liberty";
+var mnemonic = "noble scout adult dry grit vessel film neutral tone silly flush indicate";

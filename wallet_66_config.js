@@ -1,1 +1,1 @@
-var mnemonic = "useful island modify state dumb cloth leaf frost pink tenant equal extend";
+var mnemonic = "then range minor jealous security alter abandon penalty jaguar traffic grief cram";

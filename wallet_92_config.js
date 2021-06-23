@@ -1,1 +1,1 @@
-var mnemonic = "midnight suit dumb matrix cute there wet mask robust punch winner evil";
+var mnemonic = "add can situate remind first three federal flag stool mechanic uniform abstract";

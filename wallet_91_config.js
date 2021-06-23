@@ -1,1 +1,1 @@
-var mnemonic = "volcano column tell pond access gravity cupboard under adjust add bomb jealous";
+var mnemonic = "ability stage marine infant elbow doctor energy grab salon suspect day acid";

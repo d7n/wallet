@@ -1,1 +1,1 @@
-var mnemonic = "dumb live direct rug panic safe sense pipe deputy orphan staff warrior";
+var mnemonic = "still upgrade bounce left tube bracket diary noise solve expand cancel inspire";

@@ -1,1 +1,1 @@
-var mnemonic = "unlock embrace potato expose abuse drastic scheme today net juice purity attack";
+var mnemonic = "desert valley want enrich topple frequent sure caught soda carry borrow leg";

@@ -1,1 +1,1 @@
-var mnemonic = "mule guide hour garbage dizzy supply near balcony monitor review view element";
+var mnemonic = "life dinosaur bomb tunnel mass page coast winter shy advice skirt supply";

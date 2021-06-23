@@ -1,1 +1,1 @@
-var mnemonic = "heavy woman term ocean pluck rich crumble nurse glory catch damage lizard";
+var mnemonic = "memory clap relief veteran scheme length certain breeze client trap egg demand";

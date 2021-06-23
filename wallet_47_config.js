@@ -1,1 +1,1 @@
-var mnemonic = "angry hospital laugh tail twelve ketchup into erosion culture lazy dove toilet";
+var mnemonic = "pupil imitate ready post verb electric hole potato magnet laptop essay travel";
