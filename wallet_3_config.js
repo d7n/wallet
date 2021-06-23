@@ -1,1 +1,1 @@
-var mnemonic = "north keep dog whisper convince wedding arrive above light frame reason maze";
+var mnemonic = "confirm voyage talk motion kite chronic rotate bread nuclear donate satoshi false";

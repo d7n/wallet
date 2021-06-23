@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur fish wood dice cannon pen erosion pigeon fish state achieve supply";
+var mnemonic = "chalk company matter record smoke keen lounge need witness toilet wish sight";

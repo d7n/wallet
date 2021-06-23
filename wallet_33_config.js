@@ -1,1 +1,1 @@
-var mnemonic = "bag ranch card razor total hope icon vague spirit embrace physical venue";
+var mnemonic = "clerk entry sell direct coral frozen divide easy snake moon badge thrive";

@@ -1,1 +1,1 @@
-var mnemonic = "fiction actor glad sad skin shoe father faculty short morning ski inspire";
+var mnemonic = "fever quality crawl split rescue heavy high solution depart horror shadow hammer";

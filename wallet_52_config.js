@@ -1,1 +1,1 @@
-var mnemonic = "wrap attract cancel faith famous crane stem upset beach work high antenna";
+var mnemonic = "topic drill mesh spatial audit crime almost chuckle car crowd soul analyst";

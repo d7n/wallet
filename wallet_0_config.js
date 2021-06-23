@@ -1,1 +1,1 @@
-var mnemonic = "useless attitude cry wine repeat verb more credit dinner expose another surprise";
+var mnemonic = "goose health empower describe rescue frozen era cycle inner humble arrest rack";

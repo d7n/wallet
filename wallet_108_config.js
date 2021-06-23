@@ -1,1 +1,1 @@
-var mnemonic = "live midnight twin enemy come agent spoil leg render romance yard cement";
+var mnemonic = "cloth detail alter jacket enough chase eye medal lunar deer script result";

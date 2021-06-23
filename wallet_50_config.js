@@ -1,1 +1,1 @@
-var mnemonic = "explain small twenty payment defense credit volcano possible gallery celery park amused";
+var mnemonic = "butter dismiss own advice seminar apart total innocent arm exit topic satisfy";

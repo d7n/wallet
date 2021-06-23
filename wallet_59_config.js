@@ -1,1 +1,1 @@
-var mnemonic = "devote initial resemble noodle raven ranch garage blanket rival stadium danger club";
+var mnemonic = "believe second coil wide north city harbor wide harbor mind sausage board";

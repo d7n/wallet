@@ -1,1 +1,1 @@
-var mnemonic = "option canoe fresh twelve offer chat culture hen insane outside orient rain";
+var mnemonic = "lecture pear artist blame reveal edit course frog earth flash expect air";

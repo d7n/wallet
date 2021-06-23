@@ -1,1 +1,1 @@
-var mnemonic = "tent sail job rifle antique violin menu maximum punch vast shoot vacant";
+var mnemonic = "cereal transfer praise omit vital honey wing envelope minor critic quiz mirror";

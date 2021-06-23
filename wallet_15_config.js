@@ -1,1 +1,1 @@
-var mnemonic = "helmet evidence buffalo fiction slam rare improve fault upper anxiety include lonely";
+var mnemonic = "mix give humble science any air float barrel profit pyramid yellow brick";

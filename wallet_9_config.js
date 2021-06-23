@@ -1,1 +1,1 @@
-var mnemonic = "seed oven wage blossom smile pizza loop pilot coral include cigar juice";
+var mnemonic = "finger scissors area alert slim battle lawn veteran light lecture wing napkin";

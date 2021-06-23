@@ -1,1 +1,1 @@
-var mnemonic = "adult delay twist cheese base blast charge faint catch bridge clean object";
+var mnemonic = "tribe typical actual response useless hobby waste deposit club sibling rack daring";

@@ -1,1 +1,1 @@
-var mnemonic = "whale family fatal cloud debate labor effort flat enemy fetch actual boil";
+var mnemonic = "father mad push gentle doctor guide model top rice family spend dish";

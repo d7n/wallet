@@ -1,1 +1,1 @@
-var mnemonic = "crater lens cloth robust beef opera bonus orbit doll earth siren half";
+var mnemonic = "traffic tonight sleep slush lumber bulk draw round super today alter episode";

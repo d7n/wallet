@@ -1,1 +1,1 @@
-var mnemonic = "flat amount pill cheese air winter second bring void crash thing tube";
+var mnemonic = "hen radio coast chuckle can dune never dignity salad include general anger";

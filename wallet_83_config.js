@@ -1,1 +1,1 @@
-var mnemonic = "foster nation evidence visit jump flee glue about nut over merge truck";
+var mnemonic = "phrase reason like among use comfort sick neglect limit trend man tiny";

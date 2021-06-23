@@ -1,1 +1,1 @@
-var mnemonic = "govern latin naive immense more anger exercise unique dawn trial identify purity";
+var mnemonic = "sunset subway member luggage noble birth flame round ball post wage monkey";

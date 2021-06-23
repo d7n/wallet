@@ -1,1 +1,1 @@
-var mnemonic = "honey exhaust sphere visit hair wealth boost cricket ripple domain echo advice";
+var mnemonic = "hockey wash love liberty ready report rocket sell turtle swift scheme tennis";

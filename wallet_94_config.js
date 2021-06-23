@@ -1,1 +1,1 @@
-var mnemonic = "armed elite burst harvest abuse conduct future aspect vital trigger panther demand";
+var mnemonic = "rug exotic father earn tomorrow mango fabric early attract april film have";

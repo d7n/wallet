@@ -1,1 +1,1 @@
-var mnemonic = "hold dragon peace flight apple disagree valid dash vivid fancy hidden ordinary";
+var mnemonic = "boil final fold couch seminar citizen hello wagon lonely arch lunar core";

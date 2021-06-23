@@ -1,1 +1,1 @@
-var mnemonic = "young lazy entire track script shoot barrel yellow craft reward rubber belt";
+var mnemonic = "visit dismiss wing velvet rose enemy tip walk earth before tool hidden";

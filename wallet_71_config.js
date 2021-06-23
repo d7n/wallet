@@ -1,1 +1,1 @@
-var mnemonic = "grape dice frost original seed pause harvest census venture because shine foot";
+var mnemonic = "gift labor warrior ketchup name finger parrot wasp endorse sun forum option";

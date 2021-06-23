@@ -1,1 +1,1 @@
-var mnemonic = "effort remember field indoor oak elegant today isolate nasty inflict myth fabric";
+var mnemonic = "maid siren humble document relax hand want seat there try tennis fitness";

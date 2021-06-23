@@ -1,1 +1,1 @@
-var mnemonic = "erosion pencil scan school obtain clever proud lion parent recycle all crack";
+var mnemonic = "tomorrow short option height video become near purity spoon carpet oak world";

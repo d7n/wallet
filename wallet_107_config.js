@@ -1,1 +1,1 @@
-var mnemonic = "have brain hello pig wise market toss candy ill host teach today";
+var mnemonic = "purpose snack mix moment hammer submit tree meadow doll ancient dawn matrix";

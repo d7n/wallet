@@ -1,1 +1,1 @@
-var mnemonic = "chat blossom skate girl obscure direct remove rose shock erupt bonus help";
+var mnemonic = "open guitar hidden echo direct skate price trim into comfort trip grid";

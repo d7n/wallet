@@ -1,1 +1,1 @@
-var mnemonic = "husband ridge liquid zebra people before answer monkey fit inject surface gadget";
+var mnemonic = "then bacon link debris awful exist grab bless note churn vessel kangaroo";

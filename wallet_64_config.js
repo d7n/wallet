@@ -1,1 +1,1 @@
-var mnemonic = "aware dinosaur weekend fatigue kidney stuff country noble stage comfort uncover reduce";
+var mnemonic = "riot dove you video car guilt wheat tray omit describe cruise viable";

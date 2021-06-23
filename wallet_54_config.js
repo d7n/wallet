@@ -1,1 +1,1 @@
-var mnemonic = "discover tape situate radar vintage found digital traffic outer misery settle patrol";
+var mnemonic = "wet false way team three insane material stage meat label ozone spare";

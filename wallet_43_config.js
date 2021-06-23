@@ -1,1 +1,1 @@
-var mnemonic = "season symbol upset avocado furnace omit engage mother weather circle dash candy";
+var mnemonic = "music short latin tackle can twenty draft range resist rather engage cash";

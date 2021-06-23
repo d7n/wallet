@@ -1,1 +1,1 @@
-var mnemonic = "edge check catalog donor punch tribe unusual chicken roast endless almost grain";
+var mnemonic = "over joke sail useful among valve chronic clap narrow coyote say country";

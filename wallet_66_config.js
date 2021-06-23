@@ -1,1 +1,1 @@
-var mnemonic = "angry group canyon rabbit depth great shed phrase famous grant pole sleep";
+var mnemonic = "table coin post second miracle turkey abandon actual uniform harvest vibrant wrap";

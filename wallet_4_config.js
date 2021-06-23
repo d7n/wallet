@@ -1,1 +1,1 @@
-var mnemonic = "road mammal pride eyebrow step still spare gasp coffee modify state agree";
+var mnemonic = "immense balance bright unknown tilt source visual debris come film diesel burst";

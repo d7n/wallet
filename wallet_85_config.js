@@ -1,1 +1,1 @@
-var mnemonic = "actress found fashion capable urge kind page fault avoid tortoise pilot middle";
+var mnemonic = "slot change fiction gravity soccer cliff world exchange similar type pink swear";

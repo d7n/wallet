@@ -1,1 +1,1 @@
-var mnemonic = "funny lobster walk stool warm garage gravity dismiss simple crash manage peanut";
+var mnemonic = "auto vibrant feature stable axis radio ocean opinion reason cage exchange use";

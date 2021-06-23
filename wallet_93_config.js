@@ -1,1 +1,1 @@
-var mnemonic = "race scout gain episode search advance veteran chase pink pipe marriage rose";
+var mnemonic = "crater poem vote tank tired alone boss side puppy sentence atom result";

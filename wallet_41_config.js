@@ -1,1 +1,1 @@
-var mnemonic = "few breeze fiction shift fault cattle learn upgrade fringe stock tomato pole";
+var mnemonic = "call dynamic jealous twin chuckle liberty kidney reopen dog muffin ensure primary";

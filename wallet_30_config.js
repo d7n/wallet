@@ -1,1 +1,1 @@
-var mnemonic = "ability palm dad ill ostrich account sea gravity secret buddy canyon figure";
+var mnemonic = "mercy trap reason ancient farm stage remove fever knock chicken galaxy foam";

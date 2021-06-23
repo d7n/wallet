@@ -1,1 +1,1 @@
-var mnemonic = "near physical reduce work dilemma cat east glove hub cupboard witness write";
+var mnemonic = "dry relief fix fabric sugar enough unable crucial dove flush such acid";

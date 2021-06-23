@@ -1,1 +1,1 @@
-var mnemonic = "auto tell acoustic better emotion achieve odor fantasy nice already speak base";
+var mnemonic = "pioneer grunt snap saddle delay put polar enrich light frame add today";

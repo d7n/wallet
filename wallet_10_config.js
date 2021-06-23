@@ -1,1 +1,1 @@
-var mnemonic = "achieve spot frozen mimic street phone ghost version almost dutch candy pipe";
+var mnemonic = "list flame price unhappy sister luggage sentence scout green screen narrow either";

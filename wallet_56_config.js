@@ -1,1 +1,1 @@
-var mnemonic = "organ glory royal brave taxi slide march music skate base vocal relax";
+var mnemonic = "elegant boss corn because merge poet wild clip urban into duck book";

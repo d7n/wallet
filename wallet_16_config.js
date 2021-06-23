@@ -1,1 +1,1 @@
-var mnemonic = "whale main ozone confirm cram route vacuum open fatigue purse outside daughter";
+var mnemonic = "glimpse cotton wreck main engine gate doctor benefit useless switch quantum various";

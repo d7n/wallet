@@ -1,1 +1,1 @@
-var mnemonic = "stairs possible video dish balance menu candy puzzle brass reflect tiny capital";
+var mnemonic = "first noble silent hurt fog coffee phrase craft ribbon wear iron hedgehog";

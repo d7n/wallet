@@ -1,1 +1,1 @@
-var mnemonic = "beach muscle action write surprise wear butter because funny have genre enter";
+var mnemonic = "fish raven blush hidden smooth snack chat sail twist three current concert";

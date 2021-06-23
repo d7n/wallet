@@ -1,1 +1,1 @@
-var mnemonic = "trust blast harvest sunset brass vibrant trumpet fox face stem across error";
+var mnemonic = "rich horror artefact want chronic acoustic before actual drastic salute bench salon";

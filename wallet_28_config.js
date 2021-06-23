@@ -1,1 +1,1 @@
-var mnemonic = "clock offer alien garden profit kick flash dilemma blur leave smoke engage";
+var mnemonic = "weather seminar unaware envelope meat long cook lady unit ask upset better";

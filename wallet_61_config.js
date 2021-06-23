@@ -1,1 +1,1 @@
-var mnemonic = "scorpion knock foster turtle shrimp range december holiday gentle note old index";
+var mnemonic = "trust human twelve major live script rebuild kangaroo spice diesel agree drip";

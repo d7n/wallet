@@ -1,1 +1,1 @@
-var mnemonic = "drift power voyage position fold gap vault congress street total pipe own";
+var mnemonic = "clutch loan bread steak wreck tank lazy elite guess there unable meat";

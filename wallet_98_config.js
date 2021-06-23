@@ -1,1 +1,1 @@
-var mnemonic = "gadget rack north appear album program penalty quiz awesome disagree girl dynamic";
+var mnemonic = "famous alert employ defy palace cry broccoli paper winter desert correct find";

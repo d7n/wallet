@@ -1,1 +1,1 @@
-var mnemonic = "bless find grace olympic spring away occur goat process afraid avocado pattern";
+var mnemonic = "famous pioneer reform similar guide carbon dash innocent place glide margin grant";

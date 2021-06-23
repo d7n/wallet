@@ -1,1 +1,1 @@
-var mnemonic = "medal harvest warrior phone salmon juice found home lunar shift decade tube";
+var mnemonic = "west coil please exhibit plug hat custom code end outside express town";

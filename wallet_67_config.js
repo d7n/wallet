@@ -1,1 +1,1 @@
-var mnemonic = "walk wine symptom ceiling leg kick medal slam finger escape noise wood";
+var mnemonic = "split hole unable snap sense loan that donate tattoo blanket grief ball";

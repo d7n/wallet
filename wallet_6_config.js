@@ -1,1 +1,1 @@
-var mnemonic = "spell crane owner six still inquiry estate cry observe pass rocket client";
+var mnemonic = "stock atom patient knee north fluid practice clump witness hybrid build tackle";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade middle device main olympic shy want arena spirit magic tiny maid";
+var mnemonic = "brave baby meadow when price zero gadget diesel cradle bicycle spend voice";

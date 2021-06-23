@@ -1,1 +1,1 @@
-var mnemonic = "judge wreck theory industry series tongue duty leopard hurt fork clay gas";
+var mnemonic = "science census opinion radar forest start economy end cherry risk prosper project";

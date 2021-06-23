@@ -1,1 +1,1 @@
-var mnemonic = "execute minor cigar combine puppy grit breeze cushion forum soccer vocal photo";
+var mnemonic = "gorilla cancel frog snow goddess actual six grab anxiety stand icon neck";

@@ -1,1 +1,1 @@
-var mnemonic = "sell wrist expose elephant coast daring village recycle alone guitar chat artefact";
+var mnemonic = "nothing rent okay give cage canyon minimum also apple misery brick same";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster boy six void scene floor student orbit problem amount ball trigger";
+var mnemonic = "today refuse ski extend dress sweet later mosquito rocket absent coast simple";

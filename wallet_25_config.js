@@ -1,1 +1,1 @@
-var mnemonic = "swallow interest also skin sad nurse girl never smile human loud rich";
+var mnemonic = "vibrant exhaust dune good polar session north axis walnut slush pottery invest";

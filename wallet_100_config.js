@@ -1,1 +1,1 @@
-var mnemonic = "erode rare together kid crew tuition income dutch make noble betray spend";
+var mnemonic = "teach account lava cruel oven steak twenty scale patch balcony record among";

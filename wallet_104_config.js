@@ -1,1 +1,1 @@
-var mnemonic = "indicate exhibit color thunder punch cargo leader law awake agree object tiny";
+var mnemonic = "practice atom body pact utility hurt day scheme hour lift unveil stone";

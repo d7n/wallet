@@ -1,1 +1,1 @@
-var mnemonic = "cupboard punch tilt fit rigid art swim denial million yard eagle hollow";
+var mnemonic = "option slim another stick once fluid leisure witness poet soon tent depart";

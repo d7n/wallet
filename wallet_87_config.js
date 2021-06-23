@@ -1,1 +1,1 @@
-var mnemonic = "tray regret pipe side test castle coyote roast dolphin tonight deer cousin";
+var mnemonic = "inject blast ketchup range dizzy umbrella clean dignity mammal mind spot vault";

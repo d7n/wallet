@@ -1,1 +1,1 @@
-var mnemonic = "retreat trust mom harvest car opera tennis cage miss quarter balance harsh";
+var mnemonic = "snake control survey ticket swing twin surround indicate clean pluck frequent rare";

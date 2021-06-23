@@ -1,1 +1,1 @@
-var mnemonic = "middle neutral client drop rural web dove message monkey fame onion boss";
+var mnemonic = "bacon violin flavor gossip distance claim pride disease fine cliff crumble hedgehog";

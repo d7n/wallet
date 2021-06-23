@@ -1,1 +1,1 @@
-var mnemonic = "inhale health stamp young proof jealous galaxy plate dutch attend brush hospital";
+var mnemonic = "stone toward muscle sausage plug cannon luggage blast sudden enemy cactus ghost";

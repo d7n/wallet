@@ -1,1 +1,1 @@
-var mnemonic = "stock always result idle total pet grief program myself empty around dance";
+var mnemonic = "negative autumn stairs limit asthma tenant physical tone butter afford remember urge";

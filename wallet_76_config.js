@@ -1,1 +1,1 @@
-var mnemonic = "lock have hurry either dirt supreme grief two truth clean minimum crouch";
+var mnemonic = "hero forget skirt crash solution leave effort citizen fancy remove already comic";

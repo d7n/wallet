@@ -1,1 +1,1 @@
-var mnemonic = "damp produce modify salt uncover butter vacuum prepare fold equip tiger dove";
+var mnemonic = "clock combine tag phrase swallow hard horse guilt under poem cave memory";

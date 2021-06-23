@@ -1,1 +1,1 @@
-var mnemonic = "cake doctor liquid program seven danger miracle matrix minimum cost host trial";
+var mnemonic = "beyond pill wheel cat luggage possible clip airport either clean hero wish";

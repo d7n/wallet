@@ -1,1 +1,1 @@
-var mnemonic = "toe west coyote gold mechanic express symbol glance skirt home intact plug";
+var mnemonic = "fiction predict ribbon legend fetch broccoli task weekend jazz sketch observe hammer";

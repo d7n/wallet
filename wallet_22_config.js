@@ -1,1 +1,1 @@
-var mnemonic = "receive advance ketchup runway spray upset range taste agree neither live mansion";
+var mnemonic = "spice air equal energy father bicycle swing piece olympic mule head involve";

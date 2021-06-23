@@ -1,1 +1,1 @@
-var mnemonic = "museum slim rich moral airport village polar artist home left toy blast";
+var mnemonic = "power unhappy umbrella walnut gasp giant six aspect direct yard expire movie";

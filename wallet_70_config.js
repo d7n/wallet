@@ -1,1 +1,1 @@
-var mnemonic = "slide pair trash hold believe tent screen love high donkey eager napkin";
+var mnemonic = "note behave bulb combine cheese wage acquire neglect spy output all usual";

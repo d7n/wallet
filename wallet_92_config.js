@@ -1,1 +1,1 @@
-var mnemonic = "gesture hold venture labor spider lunch perfect lesson own regular unfair beauty";
+var mnemonic = "almost filter sister law frequent black awkward diesel steel candy april draft";

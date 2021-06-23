@@ -1,1 +1,1 @@
-var mnemonic = "olympic boil when vehicle lend decline ski start soda shrimp feed solar";
+var mnemonic = "toast dress shallow ride else airport october true wife cycle travel kit";

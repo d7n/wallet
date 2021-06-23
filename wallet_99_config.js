@@ -1,1 +1,1 @@
-var mnemonic = "know reform dumb sell budget flip leader lizard assist bright shell immense";
+var mnemonic = "sausage key attitude report sting actress cannon blind nurse slogan salute sand";

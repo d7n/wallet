@@ -1,1 +1,1 @@
-var mnemonic = "saddle predict oak glory acid wisdom title nasty vacuum medal cook trophy";
+var mnemonic = "lottery click town inherit exclude relief behind elephant brush mother blur announce";

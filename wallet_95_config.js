@@ -1,1 +1,1 @@
-var mnemonic = "robust text shop all tower toddler order valley tag soda across mixed";
+var mnemonic = "practice grief diary faculty capital organ angry decrease direct kit record force";

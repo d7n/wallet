@@ -1,1 +1,1 @@
-var mnemonic = "manage rebuild three goose relief glue coil pride wet orient unknown follow";
+var mnemonic = "weird humor abandon arrest frog pigeon learn north ask warfare craft consider";

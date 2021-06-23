@@ -1,1 +1,1 @@
-var mnemonic = "text vapor bitter omit moon skill transfer public divorce night orange use";
+var mnemonic = "rug matrix judge bachelor truly coin resemble ask resource spatial lecture elevator";

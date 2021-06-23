@@ -1,1 +1,1 @@
-var mnemonic = "faith outer hero wise age aisle forget brown decade safe strategy afraid";
+var mnemonic = "prepare return feel unit hover timber much focus arm mixed suggest again";

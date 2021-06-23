@@ -1,1 +1,1 @@
-var mnemonic = "food sail want spoon afraid retire ride song ice text torch fun";
+var mnemonic = "battle leader mean armed kite country unusual popular bulb there layer mixed";

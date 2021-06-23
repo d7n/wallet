@@ -1,1 +1,1 @@
-var mnemonic = "soap become surprise ginger pulp squirrel possible virtual stumble aisle able second";
+var mnemonic = "need despair sport sunny stock distance myself tribe suffer bright physical second";

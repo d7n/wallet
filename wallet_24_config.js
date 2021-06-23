@@ -1,1 +1,1 @@
-var mnemonic = "clog hammer excess settle exile slender fan potato escape dry obscure retreat";
+var mnemonic = "mention useless swamp virtual popular industry link broccoli solve zone chair cloud";

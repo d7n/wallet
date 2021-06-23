@@ -1,1 +1,1 @@
-var mnemonic = "educate tongue little noble board real sand mobile movie dose erupt level";
+var mnemonic = "bless attract ritual spirit sea coin cause ghost grant symbol chimney such";

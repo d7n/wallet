@@ -1,1 +1,1 @@
-var mnemonic = "patient celery level roast spread spare toilet receive clay board speak lab";
+var mnemonic = "mistake host scheme banana kid trophy equip differ crouch swamp better foil";

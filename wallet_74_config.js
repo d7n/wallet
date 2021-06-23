@@ -1,1 +1,1 @@
-var mnemonic = "ocean main swallow hotel moment divert match ostrich midnight acid blame critic";
+var mnemonic = "goose together act anxiety camera eagle repair ten derive winner prefer earth";
