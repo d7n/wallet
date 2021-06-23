@@ -1,1 +1,1 @@
-var mnemonic = "kiss allow believe tragic beyond shop empty total canvas mimic social luxury";
+var mnemonic = "squeeze giant exit elder motion ostrich bulk crouch super seek shop heavy";

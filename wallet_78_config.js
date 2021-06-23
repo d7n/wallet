@@ -1,1 +1,1 @@
-var mnemonic = "battle left cannon pioneer solid cry claim illness evoke warm reunion kit";
+var mnemonic = "section acquire pull spare dumb bright rural sauce category inherit impose record";

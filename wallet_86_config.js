@@ -1,1 +1,1 @@
-var mnemonic = "happy innocent decorate remove flight mean whale cactus regular gospel world afford";
+var mnemonic = "reopen topic give sunset face animal curve wagon shell exist giant festival";

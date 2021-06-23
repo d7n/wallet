@@ -1,1 +1,1 @@
-var mnemonic = "tool coach bulk result mad able used quick affair melt desert spot";
+var mnemonic = "opinion run turn unable cement energy hill bachelor visual ghost net switch";

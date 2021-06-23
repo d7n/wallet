@@ -1,1 +1,1 @@
-var mnemonic = "giggle diesel disorder state illness price bright present remain round culture slab";
+var mnemonic = "coil kitten valley rapid cinnamon mom frost eight interest priority hazard humor";

@@ -1,1 +1,1 @@
-var mnemonic = "morning modify shell club trumpet first clap buzz twenty garden crystal unfold";
+var mnemonic = "stereo upset runway shift zoo slam language potato fantasy affair spike polar";

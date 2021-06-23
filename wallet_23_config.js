@@ -1,1 +1,1 @@
-var mnemonic = "bounce surge another distance render party humble biology feature brand minute deny";
+var mnemonic = "faculty moment motion gold few wool type zoo chuckle holiday owner endless";

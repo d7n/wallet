@@ -1,1 +1,1 @@
-var mnemonic = "grain piano tip hospital park found talent tip jealous scissors still column";
+var mnemonic = "expose work cereal push time post cricket gun evil pulse three puzzle";

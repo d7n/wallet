@@ -1,1 +1,1 @@
-var mnemonic = "slot father escape post help trim danger link master dismiss alpha jacket";
+var mnemonic = "limit warfare payment clutch shrug butter huge expand high car youth arrange";

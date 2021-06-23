@@ -1,1 +1,1 @@
-var mnemonic = "sibling seek rifle armed desert share west frame aim mistake grain wait";
+var mnemonic = "evolve loan memory harbor village armor fly vast flavor later worth zebra";

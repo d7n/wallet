@@ -1,1 +1,1 @@
-var mnemonic = "trim wet exchange similar apology wine surround bubble divorce cushion circle lucky";
+var mnemonic = "slide coast extend hard neither bus social draft tank board develop admit";

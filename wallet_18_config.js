@@ -1,1 +1,1 @@
-var mnemonic = "bounce cable reflect curious public wonder dirt olive connect gas swap damage";
+var mnemonic = "injury upset camera machine orchard art ghost file float exchange cupboard employ";

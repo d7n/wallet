@@ -1,1 +1,1 @@
-var mnemonic = "wheel diet obtain rival forest hybrid chest bird shoulder nephew deputy alert";
+var mnemonic = "exotic talent tissue joy material harvest chest claim detail boost cloud toward";

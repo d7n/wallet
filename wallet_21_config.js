@@ -1,1 +1,1 @@
-var mnemonic = "coin fog crisp key gospel bread common isolate call entry minimum copper";
+var mnemonic = "unfair spawn talent rescue crunch artist matter giant silk foot setup emerge";

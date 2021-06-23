@@ -1,1 +1,1 @@
-var mnemonic = "word embody spread thrive turkey hat pig double fury message add drama";
+var mnemonic = "stool only debris rubber member betray cute street spike squeeze toward section";

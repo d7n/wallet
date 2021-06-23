@@ -1,1 +1,1 @@
-var mnemonic = "other mask season asthma business dawn knock more session post glare tourist";
+var mnemonic = "tragic fence timber ladder sugar large behind ignore siege exist valley gold";

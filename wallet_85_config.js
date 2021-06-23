@@ -1,1 +1,1 @@
-var mnemonic = "apart excess cute subway market extra drip expand return absurd flip upgrade";
+var mnemonic = "panel loan lucky other ordinary wait total whip surge struggle yard slender";

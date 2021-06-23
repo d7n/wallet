@@ -1,1 +1,1 @@
-var mnemonic = "left cook web noodle mechanic derive fabric magnet flower spare salon stand";
+var mnemonic = "sketch glue owner puzzle jealous admit often slush upgrade tongue anxiety lion";

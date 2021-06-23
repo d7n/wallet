@@ -1,1 +1,1 @@
-var mnemonic = "kingdom poet dial timber amazing crane figure into old example auto chuckle";
+var mnemonic = "skull mail tone drama deer expire lab member trade badge ranch vacuum";

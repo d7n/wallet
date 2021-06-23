@@ -1,1 +1,1 @@
-var mnemonic = "entire lab mushroom history chuckle fashion solid convince little basic wine connect";
+var mnemonic = "shrimp useful place muffin regular embark joke sheriff title left worry garbage";

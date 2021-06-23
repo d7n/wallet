@@ -1,1 +1,1 @@
-var mnemonic = "cabbage gauge enjoy yard luggage hedgehog napkin slam diet trophy monster accuse";
+var mnemonic = "theme double mobile butter good smile reduce receive burden jungle cram gentle";

@@ -1,1 +1,1 @@
-var mnemonic = "copy private thing dog duty fringe flee zero raven top office urge";
+var mnemonic = "mansion spell slim egg pet prison brother divert square strike often glass";

@@ -1,1 +1,1 @@
-var mnemonic = "water swarm jazz alien pioneer drive company street guilt female observe version";
+var mnemonic = "finish deer carry extra coach grape enroll habit artist absent police spoil";

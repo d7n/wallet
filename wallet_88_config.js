@@ -1,1 +1,1 @@
-var mnemonic = "vacant east gentle grief object egg planet all hundred stick blame dismiss";
+var mnemonic = "rail large student mind deer entry frog divide unlock throw that tone";

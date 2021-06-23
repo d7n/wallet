@@ -1,1 +1,1 @@
-var mnemonic = "ketchup garbage repeat convince scrap neck else parrot cargo shed spell film";
+var mnemonic = "vessel elephant have carpet manual junior screen frown decide foil pilot harsh";

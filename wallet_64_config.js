@@ -1,1 +1,1 @@
-var mnemonic = "marine foam half wheat surge couch believe act camera feel attend dove";
+var mnemonic = "stand destroy zebra oak camera youth step romance assume follow rubber bus";

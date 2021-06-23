@@ -1,1 +1,1 @@
-var mnemonic = "leopard total aware disorder cabin panda pipe extend mention genuine uniform celery";
+var mnemonic = "royal number brown wealth inch weekend addict comfort soon mule pave august";

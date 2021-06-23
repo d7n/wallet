@@ -1,1 +1,1 @@
-var mnemonic = "hen camera random eight add electric put ocean rhythm misery awkward gift";
+var mnemonic = "alone sauce motor initial praise mask enjoy athlete reopen evidence salmon master";

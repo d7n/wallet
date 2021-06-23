@@ -1,1 +1,1 @@
-var mnemonic = "around grace receive guitar ensure bounce vehicle flush boss trophy field talk";
+var mnemonic = "smoke obvious erode young brain bracket prosper advance hen slice have eyebrow";

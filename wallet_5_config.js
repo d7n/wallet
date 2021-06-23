@@ -1,1 +1,1 @@
-var mnemonic = "inject venue pass horn kitten bronze viable charge athlete rug matrix tortoise";
+var mnemonic = "exhibit man glare robot state torch useless ramp castle happy artist learn";

@@ -1,1 +1,1 @@
-var mnemonic = "drill master ozone account flash slender dust grid client this voyage art";
+var mnemonic = "there trade theme alarm december tackle foot fatigue eagle taste olympic rain";

@@ -1,1 +1,1 @@
-var mnemonic = "era cinnamon eager beach unaware zone bridge model detail blind still ball";
+var mnemonic = "civil nice hurt benefit cycle used melt fluid tuna tattoo column found";

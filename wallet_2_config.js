@@ -1,1 +1,1 @@
-var mnemonic = "photo sand cheese talk review reason canal upgrade body argue lottery document";
+var mnemonic = "lumber exile prison luggage treat burger divert upgrade reunion position rocket disease";

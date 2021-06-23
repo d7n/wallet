@@ -1,1 +1,1 @@
-var mnemonic = "find polar length dad perfect can stick miracle improve wreck orchard own";
+var mnemonic = "myself middle base top advice caught reflect grace mimic daring blade mystery";

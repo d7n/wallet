@@ -1,1 +1,1 @@
-var mnemonic = "property tide open boat child frost unable typical need kangaroo review among";
+var mnemonic = "lawsuit accuse weather tuition mansion mystery body chase light tribe buddy faint";

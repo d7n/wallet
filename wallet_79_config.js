@@ -1,1 +1,1 @@
-var mnemonic = "hobby winter van buzz setup announce today hover hunt portion audit keen";
+var mnemonic = "sheriff magnet patrol arrive design edge romance ivory choose cousin twin pyramid";

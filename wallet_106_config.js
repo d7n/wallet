@@ -1,1 +1,1 @@
-var mnemonic = "powder chat abandon stumble net hello foot hazard orchard vintage predict critic";
+var mnemonic = "regret found lawn physical reason broom misery globe cup casino cannon render";

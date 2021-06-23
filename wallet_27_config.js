@@ -1,1 +1,1 @@
-var mnemonic = "all soldier level shadow gas cross upgrade begin thank error agree design";
+var mnemonic = "fatal rain kiwi tomorrow combine adjust version medal shy neutral punch link";

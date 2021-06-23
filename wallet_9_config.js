@@ -1,1 +1,1 @@
-var mnemonic = "enable ship tobacco comfort join strike vanish plate unit brass vast cereal";
+var mnemonic = "actress wonder predict trophy inflict thumb clump dismiss observe question mirror square";

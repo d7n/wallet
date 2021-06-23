@@ -1,1 +1,1 @@
-var mnemonic = "goose frog cattle error tumble strong drift pool hill twin honey solve";
+var mnemonic = "disorder coin boy immune auction weapon loan track grief cabbage prosper void";

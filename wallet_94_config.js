@@ -1,1 +1,1 @@
-var mnemonic = "interest orient runway owner finger puppy grit train wrestle other lottery rule";
+var mnemonic = "chronic example aerobic crowd mammal valley over pause cart game claw solid";

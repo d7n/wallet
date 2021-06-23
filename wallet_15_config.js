@@ -1,1 +1,1 @@
-var mnemonic = "grain disorder where park evidence churn conduct raw kidney hybrid genre hawk";
+var mnemonic = "omit process tape shield dumb force elevator army merry add day wine";

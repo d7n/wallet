@@ -1,1 +1,1 @@
-var mnemonic = "trust response turkey wrist enable evoke film yellow vintage false local bright";
+var mnemonic = "interest loyal demise stuff junk note swap repeat rack slot lens oblige";

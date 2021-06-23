@@ -1,1 +1,1 @@
-var mnemonic = "chicken tail bid label column task nuclear where truly gasp stairs garden";
+var mnemonic = "outer brick aware chicken ability siren ritual autumn enforce helmet around august";

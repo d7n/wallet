@@ -1,1 +1,1 @@
-var mnemonic = "fiscal bench enough culture program quote guilt endless reason arctic odor average";
+var mnemonic = "jaguar improve boat easy food tomorrow erupt churn half pet foster carry";

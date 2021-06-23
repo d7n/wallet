@@ -1,1 +1,1 @@
-var mnemonic = "enter mimic valley impact humor angry math copper hungry shy oxygen diary";
+var mnemonic = "lazy loop strike execute demise action pilot dove easily expect path payment";

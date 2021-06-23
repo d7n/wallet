@@ -1,1 +1,1 @@
-var mnemonic = "shove cross pluck gravity whisper such body wrong symbol universe panic grass";
+var mnemonic = "fluid raccoon attract once coin pattern twenty connect tank remove method cost";

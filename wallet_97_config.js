@@ -1,1 +1,1 @@
-var mnemonic = "this neck series culture useless subway delay theme cloth bean glance fire";
+var mnemonic = "stove rocket gift cry warrior dilemma key quote seed mushroom sense august";

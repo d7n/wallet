@@ -1,1 +1,1 @@
-var mnemonic = "light ten salt very bag digital lizard element rapid rotate cannon crisp";
+var mnemonic = "decade breeze captain arch marine employ deputy polar outside fantasy object congress";

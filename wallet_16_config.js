@@ -1,1 +1,1 @@
-var mnemonic = "jungle tomorrow series review sun rice canal help tomorrow pretty square live";
+var mnemonic = "alpha chalk clutch multiply genuine door verify pioneer gallery print among kingdom";

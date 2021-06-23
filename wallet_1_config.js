@@ -1,1 +1,1 @@
-var mnemonic = "rocket air success ill taste inside oven weird walnut tower window funny";
+var mnemonic = "knock long payment protect grace cruise level chuckle bag erosion cradle ill";

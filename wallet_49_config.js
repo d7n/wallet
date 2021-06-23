@@ -1,1 +1,1 @@
-var mnemonic = "outer team tray paddle execute all hurry author tonight nest educate maid";
+var mnemonic = "life wheat embrace grape grocery height catalog joke flat spice suffer circle";

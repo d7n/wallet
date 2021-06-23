@@ -1,1 +1,1 @@
-var mnemonic = "puppy evil friend scatter bar woman sing hard luggage vacuum deposit fresh";
+var mnemonic = "knee discover bargain sight copper oak fence grass whip scout female regret";

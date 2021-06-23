@@ -1,1 +1,1 @@
-var mnemonic = "scissors merit dance hurdle city scan coin prepare once riot question inherit";
+var mnemonic = "jump spice armor grace sign annual hurdle raccoon pond bracket north turn";

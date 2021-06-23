@@ -1,1 +1,1 @@
-var mnemonic = "treat obey garden smoke web learn empty betray pencil south exit poet";
+var mnemonic = "wrestle stuff panther swap category rocket oppose enough assume cruise people notable";

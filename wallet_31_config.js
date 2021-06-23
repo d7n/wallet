@@ -1,1 +1,1 @@
-var mnemonic = "cover dolphin jungle blossom rent describe math melt lonely figure survey gold";
+var mnemonic = "federal defense nerve equip wet siren snake minor cousin lunar master produce";

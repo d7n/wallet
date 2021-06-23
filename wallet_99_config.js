@@ -1,1 +1,1 @@
-var mnemonic = "portion enrich bundle sock gallery task lady record arctic sphere manage guide";
+var mnemonic = "crash blouse more aim tomorrow catch shrimp scale answer arch improve danger";

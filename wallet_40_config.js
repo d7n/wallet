@@ -1,1 +1,1 @@
-var mnemonic = "toe crawl feed chapter service shift sting again room stereo warrior room";
+var mnemonic = "arch trap wrap repair suspect frog talent antenna hybrid wet stereo unable";

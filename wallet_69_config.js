@@ -1,1 +1,1 @@
-var mnemonic = "office decrease blush ticket just setup mystery scheme follow pole dismiss border";
+var mnemonic = "shop erode short mechanic canoe demand display salmon dentist tide mushroom airport";

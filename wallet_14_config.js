@@ -1,1 +1,1 @@
-var mnemonic = "lucky switch plunge main chicken special witness mirror change outdoor garment before";
+var mnemonic = "popular dolphin fire resemble lumber trial clever increase physical wild boring unusual";

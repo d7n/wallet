@@ -1,1 +1,1 @@
-var mnemonic = "exhaust edit possible proof stereo veteran praise dial volcano shuffle veteran exist";
+var mnemonic = "room thunder slogan supreme swap relax tenant warm north pave habit notice";

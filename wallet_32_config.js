@@ -1,1 +1,1 @@
-var mnemonic = "deliver wall spice latin buyer summer culture sadness maze where token holiday";
+var mnemonic = "rival cream lesson inform bamboo wool wasp adjust subject buffalo slice young";

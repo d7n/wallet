@@ -1,1 +1,1 @@
-var mnemonic = "front game rather comic ocean crazy vocal cash start artwork harbor fit";
+var mnemonic = "inflict improve entire journey depend allow major input shoot enter snack wrong";

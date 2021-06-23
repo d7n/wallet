@@ -1,1 +1,1 @@
-var mnemonic = "dog result fortune van below power zone below magnet calm people pause";
+var mnemonic = "recall peace basket young siren protect allow seek fresh idle reward strike";

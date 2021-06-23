@@ -1,1 +1,1 @@
-var mnemonic = "chief medal unveil spoil skin conduct nuclear tomorrow risk subway cinnamon gain";
+var mnemonic = "expire stage october bachelor erupt brief cruel luggage champion mountain despair three";

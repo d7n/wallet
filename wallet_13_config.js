@@ -1,1 +1,1 @@
-var mnemonic = "jump door material draw outer owner kick party adult elbow husband hunt";
+var mnemonic = "option easy churn song cannon sight ordinary depend found seed fetch define";

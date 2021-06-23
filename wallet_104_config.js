@@ -1,1 +1,1 @@
-var mnemonic = "buffalo pyramid lottery damage toilet pool mechanic balcony cereal fix curve unveil";
+var mnemonic = "guitar floor design frequent load fortune critic lottery slow then simple sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "join skirt chronic gown vicious people source approve rare stick piano arena";
+var mnemonic = "kitten together sniff buddy document bachelor merit place maple monkey balance route";

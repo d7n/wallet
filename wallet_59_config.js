@@ -1,1 +1,1 @@
-var mnemonic = "weasel fruit turkey adapt second pulse stairs era divorce glide busy heavy";
+var mnemonic = "soup divert man empower half ankle earth science bike attitude lift poet";

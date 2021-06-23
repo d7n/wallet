@@ -1,1 +1,1 @@
-var mnemonic = "treat north diamond start defy bean code oppose material excite endless pull";
+var mnemonic = "diary lunch chat execute hotel knock panic stove task hen buyer spot";

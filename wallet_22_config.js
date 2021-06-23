@@ -1,1 +1,1 @@
-var mnemonic = "nasty flip tent arch share gold cage renew van mother grain mule";
+var mnemonic = "front chief chair lyrics equip stumble across kidney glide dress ribbon slush";

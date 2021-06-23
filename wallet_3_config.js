@@ -1,1 +1,1 @@
-var mnemonic = "choose metal image joy left surface swing snake letter street blossom author";
+var mnemonic = "truly spider van film claim wild giggle brush deposit blossom praise three";

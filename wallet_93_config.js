@@ -1,1 +1,1 @@
-var mnemonic = "door exist ride embody library scout over luggage bomb employ survey tribe";
+var mnemonic = "stable road orient tomato drop napkin nasty choose rent chest audit raise";

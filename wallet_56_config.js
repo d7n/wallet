@@ -1,1 +1,1 @@
-var mnemonic = "lake cruel find lawsuit spell note robust syrup arrange image floor divorce";
+var mnemonic = "capable bubble volcano appear fabric add scrap produce often brand modify alarm";

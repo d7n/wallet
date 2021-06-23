@@ -1,1 +1,1 @@
-var mnemonic = "degree chimney anger soon elegant vessel soul clean infant clown strike pottery";
+var mnemonic = "super anxiety rack arrive boil climb save boss mean divide shoulder dad";

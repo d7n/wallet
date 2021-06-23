@@ -1,1 +1,1 @@
-var mnemonic = "horn mutual lava blossom dutch image possible gentle laundry law silver satoshi";
+var mnemonic = "cruise unfair doctor clock word casual ecology glow air together gospel remind";

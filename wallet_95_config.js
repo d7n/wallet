@@ -1,1 +1,1 @@
-var mnemonic = "spice path polar polar tortoise cheese pass square direct aim picnic chalk";
+var mnemonic = "salute risk stage either reform warrior such area tortoise help word sun";

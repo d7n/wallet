@@ -1,1 +1,1 @@
-var mnemonic = "extend couch rent crash during breeze desert design clever transfer cake prepare";
+var mnemonic = "forget east whale defy vibrant harsh fox talent citizen car sugar around";

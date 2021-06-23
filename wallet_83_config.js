@@ -1,1 +1,1 @@
-var mnemonic = "accident paddle six soft fever comfort aunt tortoise sea virus organ silent";
+var mnemonic = "tissue middle general punch shy multiply utility normal first dizzy tower proud";

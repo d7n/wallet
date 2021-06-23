@@ -1,1 +1,1 @@
-var mnemonic = "dumb canal safe more derive ordinary double fiscal animal wagon lady blood";
+var mnemonic = "symbol resist section grit there carbon buddy happy kitten endless nerve few";

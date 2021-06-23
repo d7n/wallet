@@ -1,1 +1,1 @@
-var mnemonic = "engine opinion giggle entry expire shaft double service core credit inch riot";
+var mnemonic = "steak intact limit luxury honey fire laundry dune year decade float over";

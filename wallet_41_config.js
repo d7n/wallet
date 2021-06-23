@@ -1,1 +1,1 @@
-var mnemonic = "pattern begin very invite stamp upset tail boat tuition kind nominee search";
+var mnemonic = "ostrich walk lazy result hidden dial ginger switch awkward muscle this segment";

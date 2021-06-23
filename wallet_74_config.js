@@ -1,1 +1,1 @@
-var mnemonic = "feed ghost network remove genuine retire lucky valid sphere oak online screen";
+var mnemonic = "argue door pact rain farm neither fish rule where target result library";

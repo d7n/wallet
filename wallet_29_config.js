@@ -1,1 +1,1 @@
-var mnemonic = "ask huge crisp thrive nerve enable mushroom bean economy keep diagram attract";
+var mnemonic = "slight fossil slice erosion purchase scare tag crunch rather vintage fine menu";

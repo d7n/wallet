@@ -1,1 +1,1 @@
-var mnemonic = "arrive object hungry caught arrange subject surface discover pond remind glove axis";
+var mnemonic = "when elder away bid stairs wish aisle opera people sail black flame";

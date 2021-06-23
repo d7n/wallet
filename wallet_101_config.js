@@ -1,1 +1,1 @@
-var mnemonic = "unknown clutch meadow funny annual outside negative gloom half frame dad online";
+var mnemonic = "worth pave elite obtain client bamboo age gate crop kingdom despair dune";

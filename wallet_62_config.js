@@ -1,1 +1,1 @@
-var mnemonic = "venue worth glare head pipe reflect child range uncover young cherry only";
+var mnemonic = "dance now pet swallow rally crater ramp spoil report mask shiver height";

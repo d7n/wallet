@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo valve course wisdom device kitten loud aunt initial drastic cart image";
+var mnemonic = "junk tape forest write whale solve step you meat lab always worry";
