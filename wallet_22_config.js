@@ -1,1 +1,1 @@
-var mnemonic = "mushroom into seminar unhappy fold arrange eagle lyrics social already rapid cigar";
+var mnemonic = "team february clump misery crash screen caught intact trial uphold place taste";

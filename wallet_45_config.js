@@ -1,1 +1,1 @@
-var mnemonic = "zoo remove border maid utility ancient snap sunset glass sunny mass inform";
+var mnemonic = "dance syrup orchard wood post liar reopen soul clutch traffic lizard pigeon";

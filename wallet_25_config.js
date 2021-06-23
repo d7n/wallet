@@ -1,1 +1,1 @@
-var mnemonic = "fever exhaust uphold require acid olympic advice stove lend insect they rebel";
+var mnemonic = "brand child pride artist season decrease grant armor caught wealth horn control";

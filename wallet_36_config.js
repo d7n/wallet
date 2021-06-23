@@ -1,1 +1,1 @@
-var mnemonic = "dose pretty final universe supply artefact pony ozone swift core cash kiss";
+var mnemonic = "float relax bachelor wide term taxi silver fashion woman weapon author what";

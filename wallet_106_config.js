@@ -1,1 +1,1 @@
-var mnemonic = "mouse shine million desk bomb destroy picture render reopen museum excess flush";
+var mnemonic = "mouse tomorrow wisdom income demand door organ step under census night control";

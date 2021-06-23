@@ -1,1 +1,1 @@
-var mnemonic = "nasty nature width wing opinion ozone hill glove blue nest sketch foot";
+var mnemonic = "round six chuckle stuff wreck cube naive can decade train wisdom bulb";

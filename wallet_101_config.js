@@ -1,1 +1,1 @@
-var mnemonic = "robot demise wasp chase deposit profit over either target crack stereo abuse";
+var mnemonic = "insect capable piano light want harsh account spider desk alcohol border lesson";

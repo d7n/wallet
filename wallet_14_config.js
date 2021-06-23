@@ -1,1 +1,1 @@
-var mnemonic = "frog special walnut nut horse female cabbage elegant memory dad anchor slice";
+var mnemonic = "butter maximum obvious crumble act core plunge drink reject thought ice outside";

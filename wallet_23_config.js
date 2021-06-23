@@ -1,1 +1,1 @@
-var mnemonic = "raw squeeze horse attend useless hen pull chase twenty tone skill post";
+var mnemonic = "toy shove satisfy find margin soap display river between parrot wonder tissue";

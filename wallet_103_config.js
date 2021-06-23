@@ -1,1 +1,1 @@
-var mnemonic = "cat tell vacant dilemma text today grace enrich boat fox strike object";
+var mnemonic = "shiver simple bacon dawn pulse wide hotel hip turn blur web garbage";

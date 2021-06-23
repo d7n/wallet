@@ -1,1 +1,1 @@
-var mnemonic = "perfect spirit sudden vague monkey bulk use bridge mutual kind family refuse";
+var mnemonic = "category daring vehicle note concert gym hotel blanket cloud august visual purpose";

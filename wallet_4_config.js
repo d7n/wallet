@@ -1,1 +1,1 @@
-var mnemonic = "earth hybrid elbow gauge finger town congress industry raven cart certain suit";
+var mnemonic = "early cliff enter stuff purpose goat guess gift pole patient evoke dry";

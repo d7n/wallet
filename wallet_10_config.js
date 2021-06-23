@@ -1,1 +1,1 @@
-var mnemonic = "enact hollow hammer bracket spend coil puppy harbor plate toss case permit";
+var mnemonic = "liberty mechanic pear enrich slender shaft nurse word bonus caution uncover season";

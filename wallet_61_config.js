@@ -1,1 +1,1 @@
-var mnemonic = "space spoon glimpse final weather federal combine bring parent digital simple liar";
+var mnemonic = "cigar hurt ship squeeze proof spread extend flower genius unhappy sense drive";

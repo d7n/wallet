@@ -1,1 +1,1 @@
-var mnemonic = "fan hair unable fragile sea sell thing noise brain junk retreat panda";
+var mnemonic = "aisle brain choose hotel kitten stomach online area pistol loan runway cycle";

@@ -1,1 +1,1 @@
-var mnemonic = "trap close wedding rescue cave journey rescue icon memory alien strike cinnamon";
+var mnemonic = "certain defense liberty divorce describe sunny inside dignity move grant rare manual";

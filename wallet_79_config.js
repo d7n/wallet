@@ -1,1 +1,1 @@
-var mnemonic = "paddle skirt holiday pull dinosaur food drum crater trade circle tide cereal";
+var mnemonic = "salon frequent lift hint wheat truth sick today daughter aspect nest essay";

@@ -1,1 +1,1 @@
-var mnemonic = "robot caught grunt deny brand obscure company gym into oblige extra people";
+var mnemonic = "game combine huge harvest loud burst need divert level slam siege museum";

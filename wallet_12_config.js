@@ -1,1 +1,1 @@
-var mnemonic = "rely net already hybrid federal post spice boil charge canoe vacuum soap";
+var mnemonic = "car slow burger swallow sport wheat figure dune tool fork cause add";

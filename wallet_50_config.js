@@ -1,1 +1,1 @@
-var mnemonic = "monkey human discover glue prosper sun magnet bamboo submit region blouse inch";
+var mnemonic = "baby hotel useful month useful region prevent title ethics ritual grunt grunt";

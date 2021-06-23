@@ -1,1 +1,1 @@
-var mnemonic = "insane danger napkin any smooth moment lava diary wheat elbow worry virus";
+var mnemonic = "betray federal have defy caution property knee potato above duck cash profit";

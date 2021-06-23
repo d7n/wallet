@@ -1,1 +1,1 @@
-var mnemonic = "type winter artefact category ugly disorder property shine allow switch napkin razor";
+var mnemonic = "afford grape primary know fame return face ketchup limb pact burst harsh";

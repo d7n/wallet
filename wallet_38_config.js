@@ -1,1 +1,1 @@
-var mnemonic = "base similar vault toddler story soft limb rug grid pigeon live voyage";
+var mnemonic = "general short sister sad bulk bulb total glimpse receive envelope embark miss";

@@ -1,1 +1,1 @@
-var mnemonic = "horror bracket brick emerge pudding ladder meadow salt globe broken leave parrot";
+var mnemonic = "dismiss document gorilla october canvas bronze next genre clerk oppose bench axis";

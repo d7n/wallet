@@ -1,1 +1,1 @@
-var mnemonic = "shallow stock put alpha crane dentist fragile witness permit lumber soup opinion";
+var mnemonic = "harsh metal plug rookie rescue wear whale bulb creek govern antique auto";

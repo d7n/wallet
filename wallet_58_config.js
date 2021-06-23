@@ -1,1 +1,1 @@
-var mnemonic = "tell slide olympic trouble stadium situate tone tip ordinary glow visit lobster";
+var mnemonic = "powder file galaxy congress blast sauce alert program help shed glad magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "make crater cushion leave siren payment come point purity cousin trust coral";
+var mnemonic = "churn law gap eager love oppose economy ritual loan immense height soft";

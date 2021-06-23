@@ -1,1 +1,1 @@
-var mnemonic = "zone flame renew undo duck drill extra resist phone tornado cover foot";
+var mnemonic = "begin prize scene number stick hill school expire mother tourist law victory";

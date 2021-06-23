@@ -1,1 +1,1 @@
-var mnemonic = "flat ritual gas shaft advance assault include rough inner desk author oven";
+var mnemonic = "paddle park asthma step edge banana boost inherit calm forest march struggle";

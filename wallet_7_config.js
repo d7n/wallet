@@ -1,1 +1,1 @@
-var mnemonic = "describe answer water much leisure poem congress umbrella minute fresh rough blanket";
+var mnemonic = "west sponsor state bamboo thumb impulse husband filter put ready equal general";

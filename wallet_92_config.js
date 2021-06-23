@@ -1,1 +1,1 @@
-var mnemonic = "canal cactus crew loud oxygen garment blast liberty clog identify hedgehog random";
+var mnemonic = "iron morning strategy blast hurry service motor apology wear night cattle rice";

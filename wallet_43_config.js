@@ -1,1 +1,1 @@
-var mnemonic = "stove dash truth uniform yard forest cheese trust civil bubble witness unlock";
+var mnemonic = "impulse genre kiss tribe betray trust toss announce orbit layer label undo";

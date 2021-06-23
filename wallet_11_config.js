@@ -1,1 +1,1 @@
-var mnemonic = "caution initial imitate suffer satoshi material joke idle finish fragile crop renew";
+var mnemonic = "mouse power enact artwork visa mechanic start fire insane deer focus erode";

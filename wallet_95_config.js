@@ -1,1 +1,1 @@
-var mnemonic = "steel three federal ozone jungle peace glare swap reason power march alone";
+var mnemonic = "can title side peace degree call target income blue detect seat february";

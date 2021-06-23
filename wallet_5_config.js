@@ -1,1 +1,1 @@
-var mnemonic = "vanish practice vacuum kangaroo tree better club visit machine oyster remove balance";
+var mnemonic = "pass broccoli remind sample joke ramp wool husband lucky victory scene cousin";

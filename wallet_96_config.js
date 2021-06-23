@@ -1,1 +1,1 @@
-var mnemonic = "quality frequent avocado tonight allow parrot blue model kid cool wear suffer";
+var mnemonic = "census tuna sphere chaos candy senior attitude connect ball unhappy spell usage";

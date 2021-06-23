@@ -1,1 +1,1 @@
-var mnemonic = "manual taxi gas ordinary into excite panel leaf glory crystal great artefact";
+var mnemonic = "payment topple traffic lesson neither romance relax glare orphan gaze tissue aerobic";

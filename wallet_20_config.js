@@ -1,1 +1,1 @@
-var mnemonic = "leader trend shrug leave cup fitness glimpse marriage program hotel health setup";
+var mnemonic = "topic chronic utility flight insane clutch duck smooth trap exercise warfare human";

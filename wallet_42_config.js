@@ -1,1 +1,1 @@
-var mnemonic = "party game chuckle escape stamp window art embody amused ski hurt portion";
+var mnemonic = "board dance aim snow anchor clock scale slogan dwarf dentist beef lady";

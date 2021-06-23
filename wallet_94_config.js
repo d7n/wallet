@@ -1,1 +1,1 @@
-var mnemonic = "brown day explain trap slight salute until burger balance item horror broccoli";
+var mnemonic = "only moment plug sketch brass private clean hero young stove remove monster";

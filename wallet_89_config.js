@@ -1,1 +1,1 @@
-var mnemonic = "ripple cave knock weekend warfare detect beauty elite upset pass police major";
+var mnemonic = "spoil myth clock thought long cradle north april venue oil clump survey";

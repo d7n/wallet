@@ -1,1 +1,1 @@
-var mnemonic = "balcony kit crew exclude crime sick victory win picture frog bamboo iron";
+var mnemonic = "tip wrestle enroll bubble because sponsor tomorrow cake wise soon wisdom year";

@@ -1,1 +1,1 @@
-var mnemonic = "deny town belt close sure guilt nature index invest toward list unlock";
+var mnemonic = "speak renew floor renew cargo surround jelly abuse fly tape upgrade match";

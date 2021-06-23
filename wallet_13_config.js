@@ -1,1 +1,1 @@
-var mnemonic = "siren annual motor slogan napkin airport scheme slice battle census craft lady";
+var mnemonic = "aisle ball reject flock such nose add visit coil cargo science trick";

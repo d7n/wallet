@@ -1,1 +1,1 @@
-var mnemonic = "replace squeeze prevent admit green oxygen awkward still open uncle security margin";
+var mnemonic = "green wisdom magic oyster camp grape measure swear setup thunder trial trap";

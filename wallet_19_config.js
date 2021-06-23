@@ -1,1 +1,1 @@
-var mnemonic = "sort action penalty round link mushroom legal ginger jealous prosper ordinary ten";
+var mnemonic = "curve where obtain vote setup crime mouse author female route bone special";

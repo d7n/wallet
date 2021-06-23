@@ -1,1 +1,1 @@
-var mnemonic = "company move dream card purity bag certain equip price olympic style drive";
+var mnemonic = "before frozen ramp element layer endless sibling wild shrimp subway march monitor";

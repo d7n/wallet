@@ -1,1 +1,1 @@
-var mnemonic = "twice carpet clock garage afraid guitar local bring payment smile nephew churn";
+var mnemonic = "hill pitch century basket panther exit express rhythm tortoise giraffe school indoor";

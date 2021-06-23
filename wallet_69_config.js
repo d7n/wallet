@@ -1,1 +1,1 @@
-var mnemonic = "crush polar huge art mention main letter lunar end glad style shield";
+var mnemonic = "busy roast maximum abstract entry drastic pool laundry robust feature middle walnut";

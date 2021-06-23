@@ -1,1 +1,1 @@
-var mnemonic = "replace pudding style clutch dash chimney appear parrot toward lunch pink direct";
+var mnemonic = "fade kangaroo pupil stock urban over reform ensure first insect broken ozone";

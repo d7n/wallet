@@ -1,1 +1,1 @@
-var mnemonic = "dose marble behind off choose stomach odor spray feed oak credit month";
+var mnemonic = "material voyage bubble middle slow inch there gravity vacuum cinnamon drop turtle";

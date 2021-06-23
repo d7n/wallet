@@ -1,1 +1,1 @@
-var mnemonic = "stairs aunt grief below citizen brave thrive judge spirit equip close train";
+var mnemonic = "slim motor elder garbage match envelope endless hamster snack list glass describe";

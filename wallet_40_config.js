@@ -1,1 +1,1 @@
-var mnemonic = "favorite unique upgrade carpet element muscle educate chair drift cage latin benefit";
+var mnemonic = "banana cheap echo valve layer wild athlete chapter someone similar country toss";

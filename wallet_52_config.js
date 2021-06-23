@@ -1,1 +1,1 @@
-var mnemonic = "helmet hip include oblige profit tray claim first harsh october frequent label";
+var mnemonic = "crater fat summer coin vintage idea dog marine purse boil photo typical";

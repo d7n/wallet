@@ -1,1 +1,1 @@
-var mnemonic = "boat rude artist roof paper carpet once update joke mother damp enemy";
+var mnemonic = "mushroom pupil whale nothing turkey submit grow squeeze ill glance game report";

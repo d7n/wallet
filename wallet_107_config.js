@@ -1,1 +1,1 @@
-var mnemonic = "throw general split excess race consider gown paddle despair type front sail";
+var mnemonic = "crash dune level income dust praise early defense renew play trap siren";

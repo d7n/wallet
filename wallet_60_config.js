@@ -1,1 +1,1 @@
-var mnemonic = "place chase bless gas pig please faint runway million text position cupboard";
+var mnemonic = "mail argue wealth cake leave flame similar evidence genre orient more tuna";

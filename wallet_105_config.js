@@ -1,1 +1,1 @@
-var mnemonic = "food village economy flat pact guard quantum cake decrease farm soon arctic";
+var mnemonic = "argue notable snap cherry detail network habit board friend three future session";

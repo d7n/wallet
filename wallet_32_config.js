@@ -1,1 +1,1 @@
-var mnemonic = "raise chicken later maple urge sort toss olympic betray casual promote float";
+var mnemonic = "return dentist sausage coast sound cruel federal current myth stamp grow step";

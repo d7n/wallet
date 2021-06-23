@@ -1,1 +1,1 @@
-var mnemonic = "siege elbow ask occur surround culture manage kid struggle flock setup park";
+var mnemonic = "place potato crumble kitten task idea main animal crater until sort amateur";

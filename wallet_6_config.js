@@ -1,1 +1,1 @@
-var mnemonic = "jeans mango firm valley occur voyage topic admit diagram employ brick snow";
+var mnemonic = "noble garlic noodle cushion lyrics faith cable pioneer into hope initial fancy";

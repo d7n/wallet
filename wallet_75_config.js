@@ -1,1 +1,1 @@
-var mnemonic = "wide robot social jungle crucial journey flower fiscal change brown rabbit grief";
+var mnemonic = "juice utility noodle toe antique entry planet seven razor minimum liberty spirit";

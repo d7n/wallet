@@ -1,1 +1,1 @@
-var mnemonic = "anchor sorry crack genius vibrant goose carpet acid put fabric problem obtain";
+var mnemonic = "dune west fee happy powder satoshi warm dignity today tackle amateur fatigue";

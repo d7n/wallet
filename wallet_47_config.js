@@ -1,1 +1,1 @@
-var mnemonic = "address lecture apology letter round knife mushroom network knife rack release addict";
+var mnemonic = "mask sail night life stove insect dove ring ticket mixture question spoil";

@@ -1,1 +1,1 @@
-var mnemonic = "person height drastic arch dove someone uniform pulse shadow cup burger emotion";
+var mnemonic = "talent hidden shine sell night patch dose lift armor lonely lyrics toward";

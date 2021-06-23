@@ -1,1 +1,1 @@
-var mnemonic = "weather wear occur carbon sorry hobby fly flight dinosaur crucial diesel leaf";
+var mnemonic = "lady punch prosper task chair flash hotel march junior organ pigeon cute";

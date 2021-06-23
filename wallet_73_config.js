@@ -1,1 +1,1 @@
-var mnemonic = "brick cradle win better erosion town fox science picnic soda consider army";
+var mnemonic = "ketchup gloom avocado that fatal lion umbrella come delay upon impulse silk";

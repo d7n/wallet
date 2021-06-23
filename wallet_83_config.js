@@ -1,1 +1,1 @@
-var mnemonic = "apart action verb favorite axis fiber praise escape student teach wink rule";
+var mnemonic = "fabric area wool purchase lottery obvious dove outside display cart injury collect";

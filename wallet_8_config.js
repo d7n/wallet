@@ -1,1 +1,1 @@
-var mnemonic = "parade correct thunder ecology cute napkin already alcohol empty target push cruel";
+var mnemonic = "about safe detail derive silent soft act amount game easily habit pepper";

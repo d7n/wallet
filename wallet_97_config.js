@@ -1,1 +1,1 @@
-var mnemonic = "canal mom brain squeeze cycle float museum smoke vacuum scatter space slogan";
+var mnemonic = "close either like obtain donate bulk rocket link punch legal slight behave";

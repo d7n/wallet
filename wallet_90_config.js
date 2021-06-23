@@ -1,1 +1,1 @@
-var mnemonic = "also core pass high pepper evil innocent mutual stamp box assume brain";
+var mnemonic = "brave couch fold glance oven advice brand opinion fault pattern canoe seat";

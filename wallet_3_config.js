@@ -1,1 +1,1 @@
-var mnemonic = "limit field shed taste system kiwi live alpha coconut half van across";
+var mnemonic = "shine seek pill private weapon setup box mom debate output drop excite";

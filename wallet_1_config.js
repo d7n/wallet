@@ -1,1 +1,1 @@
-var mnemonic = "rifle recipe layer ignore fitness when shoot cigar train blouse blur fancy";
+var mnemonic = "toss subject hire despair napkin survey foam flock round address pass comic";

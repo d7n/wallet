@@ -1,1 +1,1 @@
-var mnemonic = "address obscure capital prosper sell taste craft size apple start seed drastic";
+var mnemonic = "mandate clever food entire canal lonely power mosquito despair remove clinic celery";

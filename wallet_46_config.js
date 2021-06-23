@@ -1,1 +1,1 @@
-var mnemonic = "echo harvest bacon verify galaxy real ramp host hamster couch jungle skin";
+var mnemonic = "oblige various angry night situate accident wife soul fault clog sense circle";

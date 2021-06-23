@@ -1,1 +1,1 @@
-var mnemonic = "logic gym heart tilt island portion resemble yard image proud august sunset";
+var mnemonic = "draw reopen famous three prevent stamp famous pistol friend noodle episode aware";

@@ -1,1 +1,1 @@
-var mnemonic = "aim climb now fatigue twist parrot decide local lady apple gossip city";
+var mnemonic = "outdoor orchard wood balcony snow sign odor curve release accident guide apple";

@@ -1,1 +1,1 @@
-var mnemonic = "shy spawn exit like bubble horn move harbor bronze youth tortoise drum";
+var mnemonic = "kiwi duty glove gentle rain toast engage rough express other security act";

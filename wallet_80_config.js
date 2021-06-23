@@ -1,1 +1,1 @@
-var mnemonic = "recall valid mistake cake access tilt oval dwarf horse blast zero flip";
+var mnemonic = "jar despair fantasy property slight foster marble engage paper toilet morning hawk";

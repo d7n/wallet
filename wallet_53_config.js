@@ -1,1 +1,1 @@
-var mnemonic = "marble castle beauty suspect close favorite reason dune salute shy stay gallery";
+var mnemonic = "blur harsh neither weird spice erosion organ refuse deliver derive stumble december";

@@ -1,1 +1,1 @@
-var mnemonic = "club will soap ocean surprise whisper bonus enemy critic hammer warm shoe";
+var mnemonic = "can cereal wife fame unaware canvas invest ring health sad describe cheap";

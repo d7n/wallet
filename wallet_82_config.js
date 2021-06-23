@@ -1,1 +1,1 @@
-var mnemonic = "earth aspect near acquire fancy moon august asthma kick door message soul";
+var mnemonic = "uniform mammal wood donor peace pool outside dry hold lunar neck update";

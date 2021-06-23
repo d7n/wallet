@@ -1,1 +1,1 @@
-var mnemonic = "erupt crouch attract predict else super meat creek awake mask lobster window";
+var mnemonic = "enlist seven promote gadget stem odor provide panic corn garage soccer side";

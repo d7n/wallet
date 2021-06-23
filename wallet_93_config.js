@@ -1,1 +1,1 @@
-var mnemonic = "goddess gaze job salute manual source column orient deliver essence shoulder guitar";
+var mnemonic = "work exclude dinner glow whip inmate noble gas salt hire soda result";

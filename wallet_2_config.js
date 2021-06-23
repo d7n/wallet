@@ -1,1 +1,1 @@
-var mnemonic = "portion assist clog tag rug noise road sail relief title six poet";
+var mnemonic = "funny often you distance pipe hat increase rebel grace uniform dune toe";

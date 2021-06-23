@@ -1,1 +1,1 @@
-var mnemonic = "neglect carbon wise radar chef raccoon asthma valid churn theme remove rubber";
+var mnemonic = "brisk giraffe hub face resemble morning punch excuse wine subway pledge educate";

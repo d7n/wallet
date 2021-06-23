@@ -1,1 +1,1 @@
-var mnemonic = "before water hire artefact eagle loud lady error sweet recall spike trick";
+var mnemonic = "december patient wrong ritual visa awkward sure twenty control enough practice myself";

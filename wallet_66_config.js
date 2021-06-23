@@ -1,1 +1,1 @@
-var mnemonic = "similar raven aim green document burden object sand time broken traffic there";
+var mnemonic = "jewel another muscle chicken attend cloth sudden grit erupt action allow own";

@@ -1,1 +1,1 @@
-var mnemonic = "exact decline rely upgrade wrong rent road dragon wrestle marble raw nominee";
+var mnemonic = "buyer unusual hat tobacco usage develop kit song depart mirror devote worry";

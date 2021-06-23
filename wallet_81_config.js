@@ -1,1 +1,1 @@
-var mnemonic = "ranch dawn mail army milk impact portion trim weasel enforce across minor";
+var mnemonic = "reward insane kick radar detail brief tortoise frost pottery prosper pattern faint";

@@ -1,1 +1,1 @@
-var mnemonic = "act garage dignity option dumb network fun leisure royal rifle apple uniform";
+var mnemonic = "burst spy what enter gown carpet number add screen north label sun";

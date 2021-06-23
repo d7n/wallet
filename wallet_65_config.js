@@ -1,1 +1,1 @@
-var mnemonic = "rather sniff poet ahead raw shed scrub warm sibling fruit use easily";
+var mnemonic = "faculty paddle ticket assume tag office then music deliver weather olive page";

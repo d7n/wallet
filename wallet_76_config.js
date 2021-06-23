@@ -1,1 +1,1 @@
-var mnemonic = "swift miss reopen banana fetch nerve fashion wait sort doll hockey remove";
+var mnemonic = "gossip zoo divorce hungry grass normal onion leg logic easy rack legend";
