@@ -1,1 +1,1 @@
-var mnemonic = "display quantum please coin flag draw element helmet task giraffe nature increase";
+var mnemonic = "maximum enroll absorb need cat gasp toward idle mimic worth monkey foot";

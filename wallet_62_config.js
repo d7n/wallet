@@ -1,1 +1,1 @@
-var mnemonic = "husband alone sniff this soft ring primary twice good twice physical shove";
+var mnemonic = "globe glance hand outdoor plunge index decline screen volume honey upset escape";

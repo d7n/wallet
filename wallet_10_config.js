@@ -1,1 +1,1 @@
-var mnemonic = "stuff cousin resist truth crop coast gather asthma argue frog mean volume";
+var mnemonic = "figure wheat bronze bamboo flavor library column worry mention art loud volcano";

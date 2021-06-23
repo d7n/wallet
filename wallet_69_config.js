@@ -1,1 +1,1 @@
-var mnemonic = "damp length eagle blanket broom doctor you elephant notice fire below depend";
+var mnemonic = "spirit believe flame mom liquid thumb chat cricket weird patch audit ritual";

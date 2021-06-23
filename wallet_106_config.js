@@ -1,1 +1,1 @@
-var mnemonic = "meat level mirror absurd random train disease olive piece adapt friend joke";
+var mnemonic = "utility reunion shallow transfer treat design trap blossom green nominee minor rate";

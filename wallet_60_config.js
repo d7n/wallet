@@ -1,1 +1,1 @@
-var mnemonic = "knee trash escape party scissors physical ridge coffee unknown barrel twelve emotion";
+var mnemonic = "east gun source bus sun number sadness situate sauce disorder transfer observe";

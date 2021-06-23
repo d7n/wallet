@@ -1,1 +1,1 @@
-var mnemonic = "length elegant pyramid history nation pepper charge stool unaware assault drum mistake";
+var mnemonic = "fold fresh trick habit patch burger oak boost pelican swear doctor tattoo";

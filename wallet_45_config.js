@@ -1,1 +1,1 @@
-var mnemonic = "own alley peace carry record slam wait wide gloom address image sad";
+var mnemonic = "scheme imitate heart execute advance almost enroll note base asthma tissue escape";

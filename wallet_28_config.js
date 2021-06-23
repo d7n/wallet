@@ -1,1 +1,1 @@
-var mnemonic = "laugh unveil split hill virtual when sustain dynamic nothing filter genius entry";
+var mnemonic = "valve street panther response scare diagram sadness before display element zebra finish";

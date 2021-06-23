@@ -1,1 +1,1 @@
-var mnemonic = "badge science luggage early other frozen guard more estate harbor slam shaft";
+var mnemonic = "spray scissors air usage dress lend toy worry bottom top ski lava";

@@ -1,1 +1,1 @@
-var mnemonic = "deal govern blanket tumble share bargain hazard race scene steak hope farm";
+var mnemonic = "hawk exchange priority floor slow assault check weasel pond initial search panic";

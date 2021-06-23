@@ -1,1 +1,1 @@
-var mnemonic = "fabric divert staff tribe exclude wrong width network swing bring pudding key";
+var mnemonic = "toward mechanic circle right dinosaur tide jaguar over danger horse unable second";

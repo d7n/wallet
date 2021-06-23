@@ -1,1 +1,1 @@
-var mnemonic = "word pudding rally envelope reflect artist because actual fish allow security empty";
+var mnemonic = "salt language biology voyage prosper job siege between garden exact own exit";

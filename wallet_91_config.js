@@ -1,1 +1,1 @@
-var mnemonic = "ship own hedgehog foot crush phone emotion legal unhappy transfer ripple owner";
+var mnemonic = "canoe panel brain improve error game erupt skull marine squeeze mad alter";

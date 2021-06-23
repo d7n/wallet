@@ -1,1 +1,1 @@
-var mnemonic = "middle power laugh write extend vintage measure screen upper move off second";
+var mnemonic = "capable keep dynamic spend pudding alcohol foam collect city evoke base bonus";

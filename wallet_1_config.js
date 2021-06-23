@@ -1,1 +1,1 @@
-var mnemonic = "hold eight inmate traffic victory gun repair area noodle fee tilt increase";
+var mnemonic = "nasty truly net leopard sense obey brain supply float sustain trick rapid";

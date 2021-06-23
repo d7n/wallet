@@ -1,1 +1,1 @@
-var mnemonic = "bridge proof alone luggage mansion oven slush arrow mountain fever attack random";
+var mnemonic = "evoke pen fury they negative course frown rescue price teach message nice";

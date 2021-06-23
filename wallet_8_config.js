@@ -1,1 +1,1 @@
-var mnemonic = "abstract post anchor inherit hire liberty school offer purchase audit account giraffe";
+var mnemonic = "prison enemy unusual chest neck junk lyrics job hen label dog ketchup";

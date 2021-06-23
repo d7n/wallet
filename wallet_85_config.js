@@ -1,1 +1,1 @@
-var mnemonic = "razor talk truck cereal dog immense hood road together primary open candy";
+var mnemonic = "hard emerge slight effort page glance turn soft advance industry street develop";

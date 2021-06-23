@@ -1,1 +1,1 @@
-var mnemonic = "any calm message maple matrix slim exchange raven foster skull found glare";
+var mnemonic = "drill liar embrace trumpet nice rapid skirt abandon float business arm list";

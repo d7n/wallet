@@ -1,1 +1,1 @@
-var mnemonic = "garlic order like gather razor foot flock accuse empower ready major image";
+var mnemonic = "profit cloud dance bulb hen hello pass attend degree dove fan exclude";

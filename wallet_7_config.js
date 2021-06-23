@@ -1,1 +1,1 @@
-var mnemonic = "online palace tower you chicken bring bid enrich void anger correct door";
+var mnemonic = "view report lumber gentle hedgehog seminar year flush kite wealth virus damage";

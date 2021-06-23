@@ -1,1 +1,1 @@
-var mnemonic = "cattle science wide estate marriage dinosaur lizard path foster tent taxi lyrics";
+var mnemonic = "push reveal truck scene nation clutch vessel avocado drip power stuff topple";

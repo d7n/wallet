@@ -1,1 +1,1 @@
-var mnemonic = "release reject join online advice dragon market diesel filter any dentist struggle";
+var mnemonic = "kiss remember lab emerge quarter right diary grain derive assume loop burden";

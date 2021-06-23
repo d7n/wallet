@@ -1,1 +1,1 @@
-var mnemonic = "agree unknown income hello donkey sorry toilet siege fiction reopen type upper";
+var mnemonic = "three tilt relax october cry journey wedding beef lake umbrella oblige inch";

@@ -1,1 +1,1 @@
-var mnemonic = "yard length rabbit stay mesh floor adult leader oil pencil warrior sphere";
+var mnemonic = "shaft pistol across concert source range museum pause switch grab profit hub";

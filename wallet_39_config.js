@@ -1,1 +1,1 @@
-var mnemonic = "water spin large remember limit sort unaware lunch diagram gaze gadget horse";
+var mnemonic = "walk repair unfold thank affair fork company cinnamon law suspect punch kick";

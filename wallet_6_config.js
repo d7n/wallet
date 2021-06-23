@@ -1,1 +1,1 @@
-var mnemonic = "mom stable access earth frozen unaware agent ethics grid sting secret scare";
+var mnemonic = "file reveal uncover mimic term lava position ugly lock protect trouble gap";

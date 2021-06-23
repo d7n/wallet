@@ -1,1 +1,1 @@
-var mnemonic = "brass prefer huge excuse plastic never crew bring axis fold bone ride";
+var mnemonic = "eight vibrant goddess twice outside sail task swift smile escape game tiger";

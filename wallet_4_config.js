@@ -1,1 +1,1 @@
-var mnemonic = "exist ugly sea festival spatial used discover muffin member ready change scale";
+var mnemonic = "limit seminar squeeze eager fan bubble shoulder movie soda blast aerobic become";

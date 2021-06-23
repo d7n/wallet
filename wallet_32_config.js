@@ -1,1 +1,1 @@
-var mnemonic = "elephant auction staff nice crisp olympic adjust divorce space inflict able video";
+var mnemonic = "ostrich combine finger defy web own column produce sausage brick true error";

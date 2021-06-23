@@ -1,1 +1,1 @@
-var mnemonic = "script pulp wisdom prefer fabric inform advice can brush hair hope ramp";
+var mnemonic = "never weird rail balcony face rookie gesture monster length solar borrow tenant";

@@ -1,1 +1,1 @@
-var mnemonic = "jeans only impact someone leave sample economy dolphin face fitness protect giggle";
+var mnemonic = "fog corn wreck put portion early orient also pigeon fire absurd quit";

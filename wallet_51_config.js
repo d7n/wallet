@@ -1,1 +1,1 @@
-var mnemonic = "glad range fruit faith review detect salute rose naive meadow because river";
+var mnemonic = "fall mass claim then patient traffic high hour mule question filter mansion";

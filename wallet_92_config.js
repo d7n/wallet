@@ -1,1 +1,1 @@
-var mnemonic = "connect juice yellow alcohol trial victory grace exit asset turn antique reflect";
+var mnemonic = "bachelor hub confirm soda better edge gun secret stand drift neutral nephew";

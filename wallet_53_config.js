@@ -1,1 +1,1 @@
-var mnemonic = "wait glow solid album need neither delay motion question various arena habit";
+var mnemonic = "damage federal today cost roof mammal dinner sign wait sketch kind someone";

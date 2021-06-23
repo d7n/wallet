@@ -1,1 +1,1 @@
-var mnemonic = "tornado useful basket prefer forward various matrix elder you tide finish hire";
+var mnemonic = "liberty guilt peasant cherry property chaos inspire basket cool vendor unfair sleep";

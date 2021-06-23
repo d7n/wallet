@@ -1,1 +1,1 @@
-var mnemonic = "repair process blade network unaware alley rookie avocado flag together detail milk";
+var mnemonic = "outer box feature tuition art advice virus breeze cattle tide proud arena";

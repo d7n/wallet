@@ -1,1 +1,1 @@
-var mnemonic = "essay also diet foil token mule lazy useless alert toss useless crazy";
+var mnemonic = "ginger inhale scout fault expect autumn pet swift feel increase regret fossil";

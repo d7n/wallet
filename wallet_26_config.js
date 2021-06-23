@@ -1,1 +1,1 @@
-var mnemonic = "obtain order glide praise stool subway can cargo talk lock harsh soldier";
+var mnemonic = "medal record almost adapt honey dry during into victory text breeze receive";

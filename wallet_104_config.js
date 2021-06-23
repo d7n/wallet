@@ -1,1 +1,1 @@
-var mnemonic = "picnic next alter fever iron make vague nothing ability jungle bachelor that";
+var mnemonic = "critic sister flag grape stamp shrimp battle game twin lyrics solve buddy";

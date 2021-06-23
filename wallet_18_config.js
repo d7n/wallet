@@ -1,1 +1,1 @@
-var mnemonic = "fit head typical ginger rocket result when trip brush shield skate wink";
+var mnemonic = "boil ocean wave cause boat pet kitchen outer bus ordinary evil peasant";

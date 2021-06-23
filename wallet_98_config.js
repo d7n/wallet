@@ -1,1 +1,1 @@
-var mnemonic = "trap fashion popular undo garbage damp lesson purse project warrior isolate consider";
+var mnemonic = "below buddy opera confirm secret medal aisle page junior fog crew outdoor";

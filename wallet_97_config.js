@@ -1,1 +1,1 @@
-var mnemonic = "clarify height snap fluid large banana stable verify mansion wine famous sound";
+var mnemonic = "romance lounge journey tube brass pretty hand hunt urge mystery senior exact";

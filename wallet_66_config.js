@@ -1,1 +1,1 @@
-var mnemonic = "monkey fashion script patrol leader traffic kingdom seven salad scan wife fiscal";
+var mnemonic = "frost lonely effort excess cousin favorite miss polar antique affair pass ankle";

@@ -1,1 +1,1 @@
-var mnemonic = "jelly discover jacket birth renew cry female car gaze type below obtain";
+var mnemonic = "egg magic solid pair tragic supreme artefact chaos debate gas street dream";

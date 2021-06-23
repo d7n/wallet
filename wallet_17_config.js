@@ -1,1 +1,1 @@
-var mnemonic = "luggage saddle glove canoe hip senior gorilla police behind profit glass typical";
+var mnemonic = "depend sail witness burden velvet injury curve inner nest include donate swift";

@@ -1,1 +1,1 @@
-var mnemonic = "skin edge because year hungry prosper ridge frequent carbon blush fruit tattoo";
+var mnemonic = "viable delay coin ecology original document hammer fuel share appear battle sing";

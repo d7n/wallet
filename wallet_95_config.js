@@ -1,1 +1,1 @@
-var mnemonic = "divorce siren insane address salon assist twenty ritual world any input river";
+var mnemonic = "material apology dynamic provide rapid usage hire broom bind swing scan can";

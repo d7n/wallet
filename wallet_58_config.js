@@ -1,1 +1,1 @@
-var mnemonic = "field pave topple witness sign position couch ahead juice few middle analyst";
+var mnemonic = "focus man super weapon silk cheese denial patch pink hard convince animal";

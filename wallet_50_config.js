@@ -1,1 +1,1 @@
-var mnemonic = "lizard ribbon thrive position youth cherry pond bracket castle abuse knee dial";
+var mnemonic = "whale keen beef tuna shadow route junior brick security ranch obtain latin";

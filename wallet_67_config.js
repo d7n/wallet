@@ -1,1 +1,1 @@
-var mnemonic = "pelican they pear theme corn pledge envelope burger boost view banana high";
+var mnemonic = "atom screen kingdom boost car distance stumble junk scan music wait ordinary";

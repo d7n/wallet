@@ -1,1 +1,1 @@
-var mnemonic = "lounge copper north must debate link piano boring rough early fly help";
+var mnemonic = "scan ritual option mass museum summer hurry mimic gym remind mail clown";

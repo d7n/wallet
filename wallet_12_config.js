@@ -1,1 +1,1 @@
-var mnemonic = "arrow above science office buyer nation eagle trend mirror aim usual door";
+var mnemonic = "depend absorb sick height pulp boy start system help pistol scorpion cliff";

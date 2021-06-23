@@ -1,1 +1,1 @@
-var mnemonic = "angry humor wrestle aisle endorse grain office comic human seat capital click";
+var mnemonic = "wrap crystal asset merge hazard cinnamon real fortune zebra ride ranch pizza";

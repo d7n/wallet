@@ -1,1 +1,1 @@
-var mnemonic = "roof trouble exclude peasant garlic trick absorb rubber behave patient season trust";
+var mnemonic = "seed purchase auction kitten comfort resemble spawn wave prize shift advance jar";

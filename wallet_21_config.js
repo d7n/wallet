@@ -1,1 +1,1 @@
-var mnemonic = "friend honey cliff remain culture kick detail helmet fuel clay depart cannon";
+var mnemonic = "space misery hub method govern ability problem match frame peasant soccer eternal";

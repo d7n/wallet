@@ -1,1 +1,1 @@
-var mnemonic = "clip fancy magnet slow credit later family dice punch fetch predict dog";
+var mnemonic = "mother enact twist happy census panel priority essence monster music sell busy";

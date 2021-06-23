@@ -1,1 +1,1 @@
-var mnemonic = "define million poet arrow during garage stool until powder elder mean uncover";
+var mnemonic = "control employ genuine bacon also awkward biology buddy winner goose explain popular";

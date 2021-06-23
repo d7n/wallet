@@ -1,1 +1,1 @@
-var mnemonic = "eagle way volcano expire reduce there clog scrap flip custom gasp attract";
+var mnemonic = "exit script gospel that gather winter oak sell wedding stuff tooth onion";

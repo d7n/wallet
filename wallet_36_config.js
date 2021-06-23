@@ -1,1 +1,1 @@
-var mnemonic = "powder sleep other divert reject later exhibit random admit assist save amount";
+var mnemonic = "country tennis wear gentle resist debris reflect weapon small endorse tag pepper";

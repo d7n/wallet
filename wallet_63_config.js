@@ -1,1 +1,1 @@
-var mnemonic = "column drama cinnamon frog hello win acoustic people powder spare relax swim";
+var mnemonic = "capital alter sock photo theory vapor answer fiber sentence general update lobster";

@@ -1,1 +1,1 @@
-var mnemonic = "when gift pencil genre someone ugly narrow vicious era welcome wife narrow";
+var mnemonic = "suggest twin zone tenant decade neutral nephew dismiss drive afford day zero";

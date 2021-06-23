@@ -1,1 +1,1 @@
-var mnemonic = "toast crumble spice yard success prison reward hover assist flower film melt";
+var mnemonic = "adjust canal arrange final latin toast sure subject narrow fever final hand";

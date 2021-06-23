@@ -1,1 +1,1 @@
-var mnemonic = "excess enjoy runway bicycle task purity camera same group sick loop powder";
+var mnemonic = "enhance famous unlock scene nature final depth food claim ozone wheat tenant";

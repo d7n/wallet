@@ -1,1 +1,1 @@
-var mnemonic = "release glass alien access achieve rabbit beauty scene cargo garment sibling truth";
+var mnemonic = "bring patrol bachelor beef okay segment stuff erase soup duty crumble waste";

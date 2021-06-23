@@ -1,1 +1,1 @@
-var mnemonic = "buddy hood kingdom poem sock tone behave cube orchard become pigeon horn";
+var mnemonic = "route green penalty office burst sibling salute wise head fit issue trip";

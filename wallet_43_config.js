@@ -1,1 +1,1 @@
-var mnemonic = "where soda captain aisle coconut mirror flat clip theory calm range mother";
+var mnemonic = "boy dismiss excuse dignity burden produce forward region rabbit blame bonus jump";

@@ -1,1 +1,1 @@
-var mnemonic = "teach solve wheat awake fancy caution rich various captain seminar book enable";
+var mnemonic = "depend vocal indoor tired excite armor bomb pattern analyst park moment marriage";

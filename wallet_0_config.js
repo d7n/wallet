@@ -1,1 +1,1 @@
-var mnemonic = "visa flower great sail weekend daring reward differ february cushion actor main";
+var mnemonic = "embrace glare outside scale ozone slender person village outside garbage photo food";

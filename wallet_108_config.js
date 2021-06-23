@@ -1,1 +1,1 @@
-var mnemonic = "used isolate name ginger into fire supreme echo emerge file wreck salt";
+var mnemonic = "blast lend music fortune idle salmon pledge car differ puppy gentle census";

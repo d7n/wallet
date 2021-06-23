@@ -1,1 +1,1 @@
-var mnemonic = "tourist sausage crazy shadow move foster vacant powder wife artist pony absurd";
+var mnemonic = "mistake knee frost shell bless whisper sport hood dry marine myself picture";

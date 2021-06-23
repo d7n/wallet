@@ -1,1 +1,1 @@
-var mnemonic = "away alley letter zone fat cost drip now group myself split april";
+var mnemonic = "regret limb tennis issue price boring obey ranch butter orange magnet hero";

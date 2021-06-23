@@ -1,1 +1,1 @@
-var mnemonic = "butter model drum divert slogan toilet prefer monitor today year garbage oblige";
+var mnemonic = "wedding orange hungry consider behave slogan prison brave frog hurry actress bird";

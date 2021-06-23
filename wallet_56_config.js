@@ -1,1 +1,1 @@
-var mnemonic = "humble cook spice pony hold step surprise happy slight shed stand long";
+var mnemonic = "illness hover spring spike finger aerobic bike lake sauce guitar hand honey";

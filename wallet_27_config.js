@@ -1,1 +1,1 @@
-var mnemonic = "captain interest engage submit tragic moon retreat spoon taxi educate one good";
+var mnemonic = "proof smile grab people once swift palace evidence element garbage pilot evoke";

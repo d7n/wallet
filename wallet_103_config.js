@@ -1,1 +1,1 @@
-var mnemonic = "online loan charge answer boat virtual fish chunk rent like glove wish";
+var mnemonic = "other prize collect fee phrase net voyage despair axis ugly sense spice";

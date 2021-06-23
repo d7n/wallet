@@ -1,1 +1,1 @@
-var mnemonic = "beauty survey sand middle tennis raw ask glow frame brain quantum talent";
+var mnemonic = "input project warfare buddy hand ranch insane spot museum setup dove loan";

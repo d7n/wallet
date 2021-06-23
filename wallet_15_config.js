@@ -1,1 +1,1 @@
-var mnemonic = "ski arrest mimic drink ticket woman near shift number whisper obvious fever";
+var mnemonic = "cousin iron patient slender matter expand actress icon slice double moment roof";

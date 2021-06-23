@@ -1,1 +1,1 @@
-var mnemonic = "leave burden sample find food helmet achieve island typical brave patch poverty";
+var mnemonic = "bring high clay select empty material guess float room total abandon lobster";

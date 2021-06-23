@@ -1,1 +1,1 @@
-var mnemonic = "fiction attract blue garment whisper wild issue acoustic car reject blouse carpet";
+var mnemonic = "paper lab ring outdoor define betray improve initial between injury body surge";

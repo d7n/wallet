@@ -1,1 +1,1 @@
-var mnemonic = "machine walk shed knee exercise involve circle come collect orient rain nature";
+var mnemonic = "absent reveal paper pigeon item cousin fresh convince slight response actress beach";

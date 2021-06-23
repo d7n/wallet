@@ -1,1 +1,1 @@
-var mnemonic = "industry vivid future sheriff borrow abuse they view trust behave parrot mesh";
+var mnemonic = "success holiday retire globe fee soup drip afraid retreat fresh type portion";

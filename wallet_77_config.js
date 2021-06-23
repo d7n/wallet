@@ -1,1 +1,1 @@
-var mnemonic = "venture erode tool gasp image hotel echo office faculty fog please wasp";
+var mnemonic = "weapon various plate inch armor estate parrot myth pupil tray aim point";

@@ -1,1 +1,1 @@
-var mnemonic = "tip absurd budget tray regret jar memory couch tired wonder bracket sort";
+var mnemonic = "tribe strategy jelly whisper ski online wage flock note alpha syrup blade";

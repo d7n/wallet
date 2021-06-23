@@ -1,1 +1,1 @@
-var mnemonic = "gaze decline garbage guitar play trumpet embody nerve kind trophy usual street";
+var mnemonic = "turn joy input easy afford wreck fiction muscle impulse tortoise minute umbrella";

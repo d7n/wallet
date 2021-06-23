@@ -1,1 +1,1 @@
-var mnemonic = "whale carbon witness veteran radar mimic demand control silk action message arctic";
+var mnemonic = "feature poet stumble need sense aware error twice unknown leg sister vault";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter term boil chat blur escape online disagree blame unlock snake cry";
+var mnemonic = "large tribe angry mule mail execute argue embrace market wealth picnic point";

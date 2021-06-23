@@ -1,1 +1,1 @@
-var mnemonic = "slab word seed cinnamon mother account lounge cluster east maple verify perfect";
+var mnemonic = "baby inspire early decide digital embrace slight super eagle lonely hurdle nerve";

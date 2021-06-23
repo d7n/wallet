@@ -1,1 +1,1 @@
-var mnemonic = "sock atom ordinary stumble tail page april bracket legend rigid gather state";
+var mnemonic = "lamp bar grab section coyote retreat grid devote strategy olive leader gun";

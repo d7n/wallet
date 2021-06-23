@@ -1,1 +1,1 @@
-var mnemonic = "napkin flock parent voyage child match result recipe nerve catch universe penalty";
+var mnemonic = "future fall grow mention hint enhance maze cloud nothing pyramid vicious enlist";

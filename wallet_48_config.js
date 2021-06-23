@@ -1,1 +1,1 @@
-var mnemonic = "make gaze distance meadow dirt machine puppy keen cry office brain enjoy";
+var mnemonic = "rack cycle cruel ceiling wolf satisfy bundle injury theme audit bean draw";

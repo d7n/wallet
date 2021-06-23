@@ -1,1 +1,1 @@
-var mnemonic = "acquire capable domain wire adjust fabric minimum capable potato enroll coyote sunny";
+var mnemonic = "great frog speak boost scorpion vicious actress dilemma problem nut retreat remember";

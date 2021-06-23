@@ -1,1 +1,1 @@
-var mnemonic = "inch castle garlic myself retreat laundry damage brand sentence ridge describe slow";
+var mnemonic = "duck dismiss attract luxury gap wish obey glass universe maid fox key";
