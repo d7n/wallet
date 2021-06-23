@@ -1,1 +1,1 @@
-var mnemonic = "coach odor best primary end thumb chicken unit law deputy weather detect";
+var mnemonic = "orient tomato excess round birth possible indicate hour card youth pluck cupboard";

@@ -1,1 +1,1 @@
-var mnemonic = "seat damage problem screen fitness all super bacon solve huge actor milk";
+var mnemonic = "rather sniff poet ahead raw shed scrub warm sibling fruit use easily";

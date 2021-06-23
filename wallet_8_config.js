@@ -1,1 +1,1 @@
-var mnemonic = "garden three robust potato flag split soft roast change order drop kite";
+var mnemonic = "parade correct thunder ecology cute napkin already alcohol empty target push cruel";

@@ -1,1 +1,1 @@
-var mnemonic = "mouse gate struggle access current near pact know spoil inflict orchard quantum";
+var mnemonic = "anchor sorry crack genius vibrant goose carpet acid put fabric problem obtain";

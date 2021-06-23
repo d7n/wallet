@@ -1,1 +1,1 @@
-var mnemonic = "sadness alpha weasel public scale give involve daughter hollow setup arctic drill";
+var mnemonic = "enact hollow hammer bracket spend coil puppy harbor plate toss case permit";

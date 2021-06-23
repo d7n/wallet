@@ -1,1 +1,1 @@
-var mnemonic = "forward juice crouch blur service girl icon dog canyon rally sort uphold";
+var mnemonic = "tell slide olympic trouble stadium situate tone tip ordinary glow visit lobster";

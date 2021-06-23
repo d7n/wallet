@@ -1,1 +1,1 @@
-var mnemonic = "tornado task zebra remain palm transfer faith parent impulse icon spy term";
+var mnemonic = "portion assist clog tag rug noise road sail relief title six poet";

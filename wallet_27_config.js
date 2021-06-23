@@ -1,1 +1,1 @@
-var mnemonic = "soup copy high theme system property suffer announce glimpse strong gate rookie";
+var mnemonic = "ribbon minimum enjoy waste athlete churn surprise undo season mechanic grocery edit";

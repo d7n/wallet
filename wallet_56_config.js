@@ -1,1 +1,1 @@
-var mnemonic = "tone robust pizza cloth record dirt soap coyote job surge night muffin";
+var mnemonic = "replace pudding style clutch dash chimney appear parrot toward lunch pink direct";

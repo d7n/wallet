@@ -1,1 +1,1 @@
-var mnemonic = "mom stem letter grace husband position buffalo okay toy mosquito text genuine";
+var mnemonic = "balcony kit crew exclude crime sick victory win picture frog bamboo iron";

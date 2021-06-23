@@ -1,1 +1,1 @@
-var mnemonic = "void pencil element type tower lake scissors reopen bundle among gown poem";
+var mnemonic = "ranch dawn mail army milk impact portion trim weasel enforce across minor";

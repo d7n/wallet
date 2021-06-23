@@ -1,1 +1,1 @@
-var mnemonic = "prosper sweet romance trumpet strategy love marine screen reform danger defy oblige";
+var mnemonic = "original bronze tool walk cute zone gaze you direct effort clown zebra";

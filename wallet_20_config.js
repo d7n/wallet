@@ -1,1 +1,1 @@
-var mnemonic = "carpet end farm labor order balance pluck can indicate flip quick access";
+var mnemonic = "leader trend shrug leave cup fitness glimpse marriage program hotel health setup";

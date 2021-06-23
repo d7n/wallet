@@ -1,1 +1,1 @@
-var mnemonic = "rotate wear wreck appear theory spice voice run embody dignity essay advice";
+var mnemonic = "also core pass high pepper evil innocent mutual stamp box assume brain";

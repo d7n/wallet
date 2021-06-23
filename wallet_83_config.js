@@ -1,1 +1,1 @@
-var mnemonic = "kiss umbrella govern quality input share orange leader destroy kind axis unveil";
+var mnemonic = "apart action verb favorite axis fiber praise escape student teach wink rule";

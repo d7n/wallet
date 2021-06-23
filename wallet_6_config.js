@@ -1,1 +1,1 @@
-var mnemonic = "rain leaf ghost lock bridge sting uniform loyal phone display copper there";
+var mnemonic = "jeans mango firm valley occur voyage topic admit diagram employ brick snow";

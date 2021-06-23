@@ -1,1 +1,1 @@
-var mnemonic = "small denial security fork swamp follow phone area merry ship raven grit";
+var mnemonic = "sort light friend prepare emerge napkin seat clap room double hire brother";

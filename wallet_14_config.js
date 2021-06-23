@@ -1,1 +1,1 @@
-var mnemonic = "neither average question hour horse ceiling able jeans decide belt thumb pulse";
+var mnemonic = "frog special walnut nut horse female cabbage elegant memory dad anchor slice";

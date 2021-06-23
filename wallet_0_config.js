@@ -1,1 +1,1 @@
-var mnemonic = "unique piece miracle pig prison chunk early album mushroom reduce auction cousin";
+var mnemonic = "deny town belt close sure guilt nature index invest toward list unlock";

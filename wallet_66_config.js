@@ -1,1 +1,1 @@
-var mnemonic = "donkey bargain post spider prepare mobile buddy base flame will hour citizen";
+var mnemonic = "similar raven aim green document burden object sand time broken traffic there";

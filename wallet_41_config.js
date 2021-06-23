@@ -1,1 +1,1 @@
-var mnemonic = "aspect marine myself drill region inmate item return analyst unfair hurry lady";
+var mnemonic = "insane danger napkin any smooth moment lava diary wheat elbow worry virus";

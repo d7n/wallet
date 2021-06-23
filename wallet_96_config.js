@@ -1,1 +1,1 @@
-var mnemonic = "garage fuel orphan now voyage matter meat crawl wreck local over tenant";
+var mnemonic = "quality frequent avocado tonight allow parrot blue model kid cool wear suffer";

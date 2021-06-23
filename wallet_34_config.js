@@ -1,1 +1,1 @@
-var mnemonic = "vehicle pulp sponsor caution brick blind rubber fish neither loyal tone winner";
+var mnemonic = "twice carpet clock garage afraid guitar local bring payment smile nephew churn";

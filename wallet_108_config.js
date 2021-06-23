@@ -1,1 +1,1 @@
-var mnemonic = "fatal goose tip solid genius craft syrup glance father habit undo flash";
+var mnemonic = "weather wear occur carbon sorry hobby fly flight dinosaur crucial diesel leaf";

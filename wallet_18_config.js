@@ -1,1 +1,1 @@
-var mnemonic = "elevator help gesture type lucky latin reform buyer level monkey asthma material";
+var mnemonic = "address obscure capital prosper sell taste craft size apple start seed drastic";

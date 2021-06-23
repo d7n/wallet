@@ -1,1 +1,1 @@
-var mnemonic = "cook claw logic machine awesome idea earn hire estate habit exhibit face";
+var mnemonic = "perfect spirit sudden vague monkey bulk use bridge mutual kind family refuse";

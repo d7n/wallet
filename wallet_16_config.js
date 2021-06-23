@@ -1,1 +1,1 @@
-var mnemonic = "worry cycle tenant cricket merge annual thing dial rapid home arm delay";
+var mnemonic = "make crater cushion leave siren payment come point purity cousin trust coral";

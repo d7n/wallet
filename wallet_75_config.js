@@ -1,1 +1,1 @@
-var mnemonic = "spice cable castle dawn coin glory wonder high grass happy fantasy arctic";
+var mnemonic = "wide robot social jungle crucial journey flower fiscal change brown rabbit grief";

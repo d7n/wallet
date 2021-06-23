@@ -1,1 +1,1 @@
-var mnemonic = "double ring quarter penalty reveal mistake exchange veteran wine fiction present upgrade";
+var mnemonic = "before water hire artefact eagle loud lady error sweet recall spike trick";

@@ -1,1 +1,1 @@
-var mnemonic = "bacon veteran ignore control saddle notable ring state arch honey amount accuse";
+var mnemonic = "trap close wedding rescue cave journey rescue icon memory alien strike cinnamon";

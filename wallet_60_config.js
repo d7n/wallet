@@ -1,1 +1,1 @@
-var mnemonic = "wet sphere very seed index enemy echo ghost argue column journey husband";
+var mnemonic = "place chase bless gas pig please faint runway million text position cupboard";

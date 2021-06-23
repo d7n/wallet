@@ -1,1 +1,1 @@
-var mnemonic = "buyer frown seat whip damp account favorite drive inspire until swim march";
+var mnemonic = "fan runway gentle tiny blast else novel true will toe current bargain";

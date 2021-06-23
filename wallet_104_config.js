@@ -1,1 +1,1 @@
-var mnemonic = "diagram become consider client sugar weasel exhaust reform fabric cannon riot army";
+var mnemonic = "shy spawn exit like bubble horn move harbor bronze youth tortoise drum";

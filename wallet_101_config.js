@@ -1,1 +1,1 @@
-var mnemonic = "diet space glory put wave party decrease accuse funny vapor scheme there";
+var mnemonic = "robot demise wasp chase deposit profit over either target crack stereo abuse";

@@ -1,1 +1,1 @@
-var mnemonic = "gift edit blind foot rural sock gallery south matrix segment alley basic";
+var mnemonic = "siren annual motor slogan napkin airport scheme slice battle census craft lady";

@@ -1,1 +1,1 @@
-var mnemonic = "core subway door swallow sorry among express junk baby youth become tonight";
+var mnemonic = "person height drastic arch dove someone uniform pulse shadow cup burger emotion";

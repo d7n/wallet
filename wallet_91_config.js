@@ -1,1 +1,1 @@
-var mnemonic = "furnace tower hen half alien web mesh seek brother relief comic noodle";
+var mnemonic = "film symptom knee permit firm strong claim call raw onion mountain smart";

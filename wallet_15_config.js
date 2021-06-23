@@ -1,1 +1,1 @@
-var mnemonic = "farm either raw example buddy stage adjust acid cricket aim hip hamster";
+var mnemonic = "nothing bundle pride unusual shoot era plate wave bird wasp curtain board";

@@ -1,1 +1,1 @@
-var mnemonic = "corn language drastic lion deliver dignity digital address alpha east approve burden";
+var mnemonic = "company move dream card purity bag certain equip price olympic style drive";

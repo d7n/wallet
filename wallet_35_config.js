@@ -1,1 +1,1 @@
-var mnemonic = "bitter play paper abuse spring prison turn scrap cricket helmet safe pill";
+var mnemonic = "flat ritual gas shaft advance assault include rough inner desk author oven";

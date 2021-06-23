@@ -1,1 +1,1 @@
-var mnemonic = "team roof pattern rebuild over spend right torch clip grid cigar nature";
+var mnemonic = "host six century solve emerge actor rate cruel mansion tomorrow elegant about";

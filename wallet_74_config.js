@@ -1,1 +1,1 @@
-var mnemonic = "access debris usage into wood rude drip frost world identify embrace essence";
+var mnemonic = "exact decline rely upgrade wrong rent road dragon wrestle marble raw nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "silk alien catch humor amateur bracket asset hybrid teach save return demand";
+var mnemonic = "boat rude artist roof paper carpet once update joke mother damp enemy";

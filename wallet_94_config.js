@@ -1,1 +1,1 @@
-var mnemonic = "immense benefit only under choose invest final large lucky decide flight casual";
+var mnemonic = "brown day explain trap slight salute until burger balance item horror broccoli";

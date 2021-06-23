@@ -1,1 +1,1 @@
-var mnemonic = "awake nation price split alert couch rescue ripple isolate want permit device";
+var mnemonic = "minor manage broken vessel spare draw leisure warrior chapter good dish trip";

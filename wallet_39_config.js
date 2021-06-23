@@ -1,1 +1,1 @@
-var mnemonic = "cube submit edge kangaroo junk panel subway shiver faint outdoor border giggle";
+var mnemonic = "nasty nature width wing opinion ozone hill glove blue nest sketch foot";

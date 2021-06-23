@@ -1,1 +1,1 @@
-var mnemonic = "ripple swarm arrive kitten pelican key blue poem mule story very carbon";
+var mnemonic = "fan hair unable fragile sea sell thing noise brain junk retreat panda";

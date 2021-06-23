@@ -1,1 +1,1 @@
-var mnemonic = "figure this adapt above click ride hurt medal actual track reform kind";
+var mnemonic = "recall valid mistake cake access tilt oval dwarf horse blast zero flip";

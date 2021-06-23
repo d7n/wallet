@@ -1,1 +1,1 @@
-var mnemonic = "aim success crumble layer floor december hole arch around open injury lens";
+var mnemonic = "zone flame renew undo duck drill extra resist phone tornado cover foot";

@@ -1,1 +1,1 @@
-var mnemonic = "light bargain steak solid surround capable shrug toss poverty tomorrow thing yard";
+var mnemonic = "neglect carbon wise radar chef raccoon asthma valid churn theme remove rubber";

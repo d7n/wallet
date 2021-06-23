@@ -1,1 +1,1 @@
-var mnemonic = "thing price north dinosaur color life judge orphan expire host slot two";
+var mnemonic = "marble castle beauty suspect close favorite reason dune salute shy stay gallery";

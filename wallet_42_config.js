@@ -1,1 +1,1 @@
-var mnemonic = "width brand simple cool right resemble final advice lawsuit wait ozone jungle";
+var mnemonic = "party game chuckle escape stamp window art embody amused ski hurt portion";

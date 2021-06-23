@@ -1,1 +1,1 @@
-var mnemonic = "ankle bulb giraffe cycle decline bronze olive argue memory flower blame second";
+var mnemonic = "logic gym heart tilt island portion resemble yard image proud august sunset";

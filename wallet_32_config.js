@@ -1,1 +1,1 @@
-var mnemonic = "lamp false dolphin salute trust volume slow burst pencil display lab tuna";
+var mnemonic = "raise chicken later maple urge sort toss olympic betray casual promote float";

@@ -1,1 +1,1 @@
-var mnemonic = "bless atom galaxy list match update ginger rescue someone vault remove flame";
+var mnemonic = "food village economy flat pact guard quantum cake decrease farm soon arctic";

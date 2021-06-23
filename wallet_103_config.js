@@ -1,1 +1,1 @@
-var mnemonic = "emotion object drive then keen mouse gauge guard three pear gauge illegal";
+var mnemonic = "cat tell vacant dilemma text today grace enrich boat fox strike object";

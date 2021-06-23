@@ -1,1 +1,1 @@
-var mnemonic = "actress gas chicken mail firm advice drum music legend have gravity path";
+var mnemonic = "robot caught grunt deny brand obscure company gym into oblige extra people";

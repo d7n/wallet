@@ -1,1 +1,1 @@
-var mnemonic = "mimic wall danger agent rice uphold argue actor glow rib tool legal";
+var mnemonic = "helmet hip include oblige profit tray claim first harsh october frequent label";

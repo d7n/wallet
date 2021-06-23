@@ -1,1 +1,1 @@
-var mnemonic = "train shine owner pond hint coyote left crack jacket require eye uncle";
+var mnemonic = "monkey human discover glue prosper sun magnet bamboo submit region blouse inch";

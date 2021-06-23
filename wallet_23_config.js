@@ -1,1 +1,1 @@
-var mnemonic = "cement citizen gauge regret music rain minimum enlist letter clip narrow whip";
+var mnemonic = "raw squeeze horse attend useless hen pull chase twenty tone skill post";

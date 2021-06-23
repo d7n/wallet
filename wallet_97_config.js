@@ -1,1 +1,1 @@
-var mnemonic = "junior token online traffic holiday fringe slam witness female emerge fly crew";
+var mnemonic = "canal mom brain squeeze cycle float museum smoke vacuum scatter space slogan";

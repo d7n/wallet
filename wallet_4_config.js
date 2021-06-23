@@ -1,1 +1,1 @@
-var mnemonic = "foam receive meadow load gas correct noodle pull limb innocent phrase inquiry";
+var mnemonic = "earth hybrid elbow gauge finger town congress industry raven cart certain suit";

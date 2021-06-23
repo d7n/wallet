@@ -1,1 +1,1 @@
-var mnemonic = "asset clip bomb laptop decorate crack wing adapt say rather gesture hero";
+var mnemonic = "canal cactus crew loud oxygen garment blast liberty clog identify hedgehog random";

@@ -1,1 +1,1 @@
-var mnemonic = "sail guitar spot sunset crater tiny virus scorpion little retreat parade weird";
+var mnemonic = "ripple cave knock weekend warfare detect beauty elite upset pass police major";

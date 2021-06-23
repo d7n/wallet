@@ -1,1 +1,1 @@
-var mnemonic = "whip gorilla alarm maple faith doll dream glass woman disease current rack";
+var mnemonic = "stove dash truth uniform yard forest cheese trust civil bubble witness unlock";

@@ -1,1 +1,1 @@
-var mnemonic = "fame gadget shuffle rug album reform void arrow this shell abstract library";
+var mnemonic = "earth aspect near acquire fancy moon august asthma kick door message soul";

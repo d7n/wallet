@@ -1,1 +1,1 @@
-var mnemonic = "police arena lady easy sustain kitten chimney thumb entire truck vacant color";
+var mnemonic = "favorite unique upgrade carpet element muscle educate chair drift cage latin benefit";

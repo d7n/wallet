@@ -1,1 +1,1 @@
-var mnemonic = "erode supply ride bleak earn comic pencil found brother risk carry lyrics";
+var mnemonic = "echo harvest bacon verify galaxy real ramp host hamster couch jungle skin";

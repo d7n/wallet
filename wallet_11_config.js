@@ -1,1 +1,1 @@
-var mnemonic = "rescue local pride cloud prize corn resemble scrub cost south stand input";
+var mnemonic = "caution initial imitate suffer satoshi material joke idle finish fragile crop renew";

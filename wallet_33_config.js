@@ -1,1 +1,1 @@
-var mnemonic = "junk garment often step assist topic junk lake tone saddle tide shove";
+var mnemonic = "oxygen picnic crime sport woman save pudding sunny fitness vendor mind immense";

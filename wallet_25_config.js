@@ -1,1 +1,1 @@
-var mnemonic = "weapon marine water involve truck local infant alone cabin thank horse pencil";
+var mnemonic = "fever exhaust uphold require acid olympic advice stove lend insect they rebel";

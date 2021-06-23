@@ -1,1 +1,1 @@
-var mnemonic = "mirror bulb sheriff outside sheriff float cabin announce disease cook token chapter";
+var mnemonic = "describe answer water much leisure poem congress umbrella minute fresh rough blanket";

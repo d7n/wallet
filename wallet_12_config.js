@@ -1,1 +1,1 @@
-var mnemonic = "learn grass goat catch afford abandon click elephant cave hen faculty father";
+var mnemonic = "rely net already hybrid federal post spice boil charge canoe vacuum soap";

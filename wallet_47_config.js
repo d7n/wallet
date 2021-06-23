@@ -1,1 +1,1 @@
-var mnemonic = "satoshi cricket suspect minute social street message guide neither fatigue bitter liberty";
+var mnemonic = "address lecture apology letter round knife mushroom network knife rack release addict";

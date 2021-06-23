@@ -1,1 +1,1 @@
-var mnemonic = "artwork pistol before drift very ugly spoil dentist notable manual tragic cloth";
+var mnemonic = "rifle recipe layer ignore fitness when shoot cigar train blouse blur fancy";

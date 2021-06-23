@@ -1,1 +1,1 @@
-var mnemonic = "vehicle ski reduce federal cannon need monster ski expand desert illegal lonely";
+var mnemonic = "swift miss reopen banana fetch nerve fashion wait sort doll hockey remove";

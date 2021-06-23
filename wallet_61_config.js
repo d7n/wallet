@@ -1,1 +1,1 @@
-var mnemonic = "gain soon sing stool midnight correct debris drink sort fatigue alone funny";
+var mnemonic = "space spoon glimpse final weather federal combine bring parent digital simple liar";

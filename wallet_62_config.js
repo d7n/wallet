@@ -1,1 +1,1 @@
-var mnemonic = "mercy exile knock confirm piece music range parrot sustain reduce comic depart";
+var mnemonic = "dose marble behind off choose stomach odor spray feed oak credit month";

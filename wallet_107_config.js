@@ -1,1 +1,1 @@
-var mnemonic = "defy desert human disorder wrap egg guide gentle april bounce explain unit";
+var mnemonic = "throw general split excess race consider gown paddle despair type front sail";

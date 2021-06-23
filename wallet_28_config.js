@@ -1,1 +1,1 @@
-var mnemonic = "leaf vital inflict summer enter better nominee jaguar style lecture finish absurd";
+var mnemonic = "deliver chaos ghost drip hen glass kitten require cup where indoor midnight";

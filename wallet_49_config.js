@@ -1,1 +1,1 @@
-var mnemonic = "unfair actor gorilla nasty joy audit ketchup myself enable surge answer creek";
+var mnemonic = "act garage dignity option dumb network fun leisure royal rifle apple uniform";

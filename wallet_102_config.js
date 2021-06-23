@@ -1,1 +1,1 @@
-var mnemonic = "birth chunk produce desk craft hub accuse mixed person delay hard know";
+var mnemonic = "shallow stock put alpha crane dentist fragile witness permit lumber soup opinion";

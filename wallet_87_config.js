@@ -1,1 +1,1 @@
-var mnemonic = "north blush quote cheap burst apple hazard room spend tired pig volcano";
+var mnemonic = "type winter artefact category ugly disorder property shine allow switch napkin razor";

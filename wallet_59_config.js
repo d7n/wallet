@@ -1,1 +1,1 @@
-var mnemonic = "train inmate blush depth wheat monkey protect inspire venue bunker want mango";
+var mnemonic = "aim climb now fatigue twist parrot decide local lady apple gossip city";

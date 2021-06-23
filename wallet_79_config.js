@@ -1,1 +1,1 @@
-var mnemonic = "achieve boil prevent awesome large feed ivory armor teach page peasant payment";
+var mnemonic = "paddle skirt holiday pull dinosaur food drum crater trade circle tide cereal";

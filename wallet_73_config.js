@@ -1,1 +1,1 @@
-var mnemonic = "lyrics pig kitchen brief box monitor shoulder pumpkin magnet arctic tag brave";
+var mnemonic = "brick cradle win better erosion town fox science picnic soda consider army";

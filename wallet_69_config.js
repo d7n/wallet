@@ -1,1 +1,1 @@
-var mnemonic = "initial that remove noble cheese season dignity chase truck tiny avocado seek";
+var mnemonic = "crush polar huge art mention main letter lunar end glad style shield";

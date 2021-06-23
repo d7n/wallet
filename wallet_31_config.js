@@ -1,1 +1,1 @@
-var mnemonic = "unknown fix lawn acquire awkward female strike citizen bubble staff sustain man";
+var mnemonic = "winter pistol cargo animal adapt pond tornado basket beef vintage dignity proud";

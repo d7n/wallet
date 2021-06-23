@@ -1,1 +1,1 @@
-var mnemonic = "power column door hello fantasy awake jump mandate noodle divorce sausage north";
+var mnemonic = "insect stereo love arm match stomach side quality embody surface slow poverty";

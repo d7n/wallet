@@ -1,1 +1,1 @@
-var mnemonic = "private olive argue sea emotion local enjoy marriage flip organ monster cause";
+var mnemonic = "replace squeeze prevent admit green oxygen awkward still open uncle security margin";
