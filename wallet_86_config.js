@@ -1,1 +1,1 @@
-var mnemonic = "trash outside suit obvious better vanish repair loud faith laptop title vague";
+var mnemonic = "cart fee raise nerve cotton flush village lottery erase minimum sing actress";

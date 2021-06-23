@@ -1,1 +1,1 @@
-var mnemonic = "furnace boat lumber order elephant essence fluid sample saddle multiply hint cool";
+var mnemonic = "hidden fitness end provide crater shell sail remember rifle fresh pioneer inmate";

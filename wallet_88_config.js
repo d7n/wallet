@@ -1,1 +1,1 @@
-var mnemonic = "explain hub apart toe foil visit matrix mandate engage police forward crazy";
+var mnemonic = "divert used slide crucial deer orbit spin inject recall trip brisk thumb";

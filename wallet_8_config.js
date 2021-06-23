@@ -1,1 +1,1 @@
-var mnemonic = "heavy stamp trick lawsuit grant stove wish dad find fault muscle opinion";
+var mnemonic = "olympic option height wool tonight copper evidence absorb they lounge boost warrior";

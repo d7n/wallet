@@ -1,1 +1,1 @@
-var mnemonic = "entire frequent drip deliver funny recipe sense peasant night notable police soft";
+var mnemonic = "manage beauty picnic minor weird rookie ahead rude work spatial grant inside";

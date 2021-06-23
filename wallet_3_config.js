@@ -1,1 +1,1 @@
-var mnemonic = "noble obey media spring sun hover wrong outside vacant lava flee dance";
+var mnemonic = "fence material square dad yard mimic chaos unfold help vague waste spatial";

@@ -1,1 +1,1 @@
-var mnemonic = "member chapter dynamic globe network night banana diet excite rescue shoe wine";
+var mnemonic = "force mad patch leader balance write aerobic helmet layer crew dilemma energy";

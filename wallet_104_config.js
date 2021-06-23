@@ -1,1 +1,1 @@
-var mnemonic = "angry advance echo traffic later until weasel sketch rural traffic curve oyster";
+var mnemonic = "wood scale family uniform shine image stem repair deputy wrap keen burger";

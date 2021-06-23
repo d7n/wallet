@@ -1,1 +1,1 @@
-var mnemonic = "garden lend ordinary myth private asset margin argue lock act agree mix";
+var mnemonic = "spend shed general autumn matter network smoke grocery inherit rapid unable valley";

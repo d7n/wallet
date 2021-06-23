@@ -1,1 +1,1 @@
-var mnemonic = "during inherit drive curious inside jar jump crystal gate fitness slot scrub";
+var mnemonic = "museum sustain obvious above cook edge ozone pelican document bean flag polar";

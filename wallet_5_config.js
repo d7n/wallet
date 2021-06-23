@@ -1,1 +1,1 @@
-var mnemonic = "original alert allow music federal search profit source deal protect pepper chunk";
+var mnemonic = "cause across undo grow cabin surface hard carpet pact benefit oven culture";

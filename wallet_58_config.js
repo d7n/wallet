@@ -1,1 +1,1 @@
-var mnemonic = "easy hill brand outdoor enrich glory network process arctic vehicle urban express";
+var mnemonic = "option lemon balance network average humor sport robust change derive wasp urban";

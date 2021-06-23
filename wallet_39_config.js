@@ -1,1 +1,1 @@
-var mnemonic = "mesh skill inspire bacon knock cube wool shrug harbor bacon world belt";
+var mnemonic = "mechanic fire antenna such normal remove ladder size kit cluster segment hungry";

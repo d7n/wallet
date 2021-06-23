@@ -1,1 +1,1 @@
-var mnemonic = "parent weekend spare wish denial custom speed world huge almost wrap oxygen";
+var mnemonic = "above easy little before glad purchase volcano obscure walk boss disease taste";

@@ -1,1 +1,1 @@
-var mnemonic = "card knife pole small silent vintage sorry diary start cream lake day";
+var mnemonic = "ancient public alien table push feature reform capable system net body adapt";

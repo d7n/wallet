@@ -1,1 +1,1 @@
-var mnemonic = "original level picnic hedgehog will bulk work angry remove maple truth paper";
+var mnemonic = "witness endorse crew globe sport bird wise craft alter rigid plastic meat";

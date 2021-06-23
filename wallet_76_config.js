@@ -1,1 +1,1 @@
-var mnemonic = "critic over husband upgrade another fresh strong public awake what title nature";
+var mnemonic = "word forward step lazy ugly empower repeat violin thunder behind same culture";

@@ -1,1 +1,1 @@
-var mnemonic = "slush clever blur twelve broken segment inmate topic grace pencil road bulk";
+var mnemonic = "sorry dune height caught van aspect torch into butter loyal course innocent";

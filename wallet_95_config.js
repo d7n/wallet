@@ -1,1 +1,1 @@
-var mnemonic = "stock trap balcony stem sample document ill north turn make crush hurdle";
+var mnemonic = "cement history badge unable cram wheat faint decline million jungle border debris";

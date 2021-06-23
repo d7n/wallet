@@ -1,1 +1,1 @@
-var mnemonic = "across autumn element govern abuse opera step mercy mass swap wave throw";
+var mnemonic = "imitate circle perfect critic pattern dumb old onion border enroll coast common";

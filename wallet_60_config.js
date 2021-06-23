@@ -1,1 +1,1 @@
-var mnemonic = "payment foster gentle bunker treat ahead universe mixture robust example tongue hire";
+var mnemonic = "dismiss head side apology avoid reason leader doll mystery strong crack weather";

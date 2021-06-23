@@ -1,1 +1,1 @@
-var mnemonic = "reopen siege clerk exhibit sick rack diamond puppy oval worry excess boat";
+var mnemonic = "know castle sea habit silent peasant myself sing pulse light mirror wealth";

@@ -1,1 +1,1 @@
-var mnemonic = "unknown rely team dirt quarter kite category elbow steak judge drum penalty";
+var mnemonic = "intact kiwi leaf eyebrow deer crystal private tuition all runway hint mutual";

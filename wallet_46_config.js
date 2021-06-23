@@ -1,1 +1,1 @@
-var mnemonic = "install damp prison boost network agree derive normal trash hospital goat rescue";
+var mnemonic = "across cable primary arm giraffe announce zebra tape blur giraffe field plastic";

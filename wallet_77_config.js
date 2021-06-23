@@ -1,1 +1,1 @@
-var mnemonic = "hollow endorse entire script pact sponsor ahead engage envelope lawsuit law jump";
+var mnemonic = "power isolate giggle boil snack chest essay usual congress stumble there more";

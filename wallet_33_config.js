@@ -1,1 +1,1 @@
-var mnemonic = "catalog differ evidence route must segment cargo evoke venture direct spring purpose";
+var mnemonic = "beef raw miss ordinary notable attitude pipe avocado tourist digital rally program";

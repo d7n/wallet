@@ -1,1 +1,1 @@
-var mnemonic = "mass diary body before city swap night myth mistake subject doll tank";
+var mnemonic = "series captain giggle buzz north exercise arrest assault pottery degree world nuclear";

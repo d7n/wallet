@@ -1,1 +1,1 @@
-var mnemonic = "lunch october blood vague dash caution fitness aspect romance spend saddle left";
+var mnemonic = "joke cactus leopard practice range carbon extra remove whisper retreat program voyage";

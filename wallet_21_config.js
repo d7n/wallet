@@ -1,1 +1,1 @@
-var mnemonic = "assist noodle daring impose poverty bounce outdoor pink soul width boring hour";
+var mnemonic = "friend smile axis arrive diamond poem rapid solid million notable debate shock";

@@ -1,1 +1,1 @@
-var mnemonic = "flash cart day remain shock scout crater pride giggle purpose knife student";
+var mnemonic = "bus follow vivid female jealous true embrace fluid issue analyst link present";

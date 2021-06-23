@@ -1,1 +1,1 @@
-var mnemonic = "segment help matter call satoshi skate divorce crop window true advance armor";
+var mnemonic = "proud assist grace visa hammer twice mirror inner ghost unique wealth cotton";

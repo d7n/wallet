@@ -1,1 +1,1 @@
-var mnemonic = "pride train success nuclear subway private weather popular deal believe talk maid";
+var mnemonic = "stairs hero actual rare solid school cluster goose draft wash lava cram";

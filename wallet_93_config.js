@@ -1,1 +1,1 @@
-var mnemonic = "bus host metal twin animal tomorrow energy pass extra canvas prosper puppy";
+var mnemonic = "group tribe little panda tenant aerobic injury brain since anxiety adjust sand";

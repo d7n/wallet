@@ -1,1 +1,1 @@
-var mnemonic = "connect struggle label loop help reveal open detail hint lion runway dumb";
+var mnemonic = "tiger payment age label outdoor sunset message next craft solve pencil tree";

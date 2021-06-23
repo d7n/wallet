@@ -1,1 +1,1 @@
-var mnemonic = "purity double cloth charge coin village cactus direct net useless release claim";
+var mnemonic = "sister museum chase scale actor obvious gas stamp comfort unveil lecture negative";

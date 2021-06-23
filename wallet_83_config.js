@@ -1,1 +1,1 @@
-var mnemonic = "glass phrase pony kiss agent increase winner frame giant market wonder emerge";
+var mnemonic = "blind crane team disorder area gather shed cause myth shell cute crane";

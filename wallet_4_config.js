@@ -1,1 +1,1 @@
-var mnemonic = "best business direct coconut blast print powder naive expect visit often champion";
+var mnemonic = "naive annual present boat category digital december travel crystal mail appear silly";

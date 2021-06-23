@@ -1,1 +1,1 @@
-var mnemonic = "box need fade fly wet start mule draw orient blush taxi innocent";
+var mnemonic = "borrow crunch slow slam owner dress moral size program duty first frog";

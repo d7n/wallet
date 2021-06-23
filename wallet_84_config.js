@@ -1,1 +1,1 @@
-var mnemonic = "appear throw night tray lens lend risk blind funny require weapon shoulder";
+var mnemonic = "decorate imitate gadget job manual network draw end room female owner alpha";

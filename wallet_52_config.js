@@ -1,1 +1,1 @@
-var mnemonic = "punch virtual come expand truth spray visit predict amateur amount limb fault";
+var mnemonic = "fossil lecture script exact help lamp primary amazing kick unlock bridge kid";

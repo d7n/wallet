@@ -1,1 +1,1 @@
-var mnemonic = "bus favorite flavor suit tooth broken aware live annual width display island";
+var mnemonic = "fade degree agent seek chalk payment crew unable short proud swamp slab";

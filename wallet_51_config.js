@@ -1,1 +1,1 @@
-var mnemonic = "square reduce vacuum slim hawk summer rude fault neither extend mandate novel";
+var mnemonic = "speed cherry invite charge garage era asthma crisp wealth finish nurse mouse";

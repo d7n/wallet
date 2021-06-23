@@ -1,1 +1,1 @@
-var mnemonic = "ability dance choose inmate voyage appear young earth job report ketchup pluck";
+var mnemonic = "violin window multiply pioneer nut badge mistake scrap brave very squeeze unaware";

@@ -1,1 +1,1 @@
-var mnemonic = "shallow unveil doll basket fold man remain skin another speed stage cereal";
+var mnemonic = "wish raccoon blood expire notice enforce scene broom wink argue first when";

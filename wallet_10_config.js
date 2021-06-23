@@ -1,1 +1,1 @@
-var mnemonic = "produce damp solution cook have lottery apart evolve certain salon saddle celery";
+var mnemonic = "rule trade symbol office perfect ski warfare awful alert ticket fashion usual";

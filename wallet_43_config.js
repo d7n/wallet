@@ -1,1 +1,1 @@
-var mnemonic = "wrap robot code bench brief purpose again good amateur enough hip lumber";
+var mnemonic = "garden arrow erosion leg olive opera poem address drum effort apology case";

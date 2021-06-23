@@ -1,1 +1,1 @@
-var mnemonic = "say equal valley frequent trust demand puppy burst raise jacket nuclear jacket";
+var mnemonic = "mixed tomorrow execute current giant release into fancy acoustic joke reward table";

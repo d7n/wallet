@@ -1,1 +1,1 @@
-var mnemonic = "swift dinosaur absent remind gesture have outer disease one can chair express";
+var mnemonic = "debris leaf risk pole buffalo name churn income cram lift pepper suit";

@@ -1,1 +1,1 @@
-var mnemonic = "two hold shell palace other farm project depart exchange useful unfair design";
+var mnemonic = "hole oyster cart border wasp hope issue smart image jealous color chapter";

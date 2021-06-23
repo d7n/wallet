@@ -1,1 +1,1 @@
-var mnemonic = "gauge sad waste bike finish beach nasty clever shaft space mosquito level";
+var mnemonic = "hard slow high twelve news ask account fragile public venture surround enter";

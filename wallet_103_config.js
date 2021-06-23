@@ -1,1 +1,1 @@
-var mnemonic = "claim early birth glare enough hire wool kiwi maid stand neglect charge";
+var mnemonic = "scorpion kitchen slender collect suit attitude critic protect alert vibrant mercy close";

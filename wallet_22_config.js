@@ -1,1 +1,1 @@
-var mnemonic = "autumn blush drop puzzle alone report inflict cage blast demise tilt trick";
+var mnemonic = "midnight plastic finish daughter worth fly usage category truth stay puppy capable";

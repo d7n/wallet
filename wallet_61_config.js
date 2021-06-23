@@ -1,1 +1,1 @@
-var mnemonic = "cousin destroy garment pond trash minimum timber decline swarm hood since motor";
+var mnemonic = "hamster option divert apart guilt tiny sugar toss vicious account neutral alley";

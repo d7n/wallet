@@ -1,1 +1,1 @@
-var mnemonic = "quiz miracle daughter nerve bottom frog million mixture adjust affair obvious gain";
+var mnemonic = "heavy letter youth fury talent quality insane solar hockey rare include captain";

@@ -1,1 +1,1 @@
-var mnemonic = "fire brain thrive morning rough south gloom toast forum piano volcano public";
+var mnemonic = "kangaroo police already recycle prison right image slab use drink dance lesson";

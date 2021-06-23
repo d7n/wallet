@@ -1,1 +1,1 @@
-var mnemonic = "trick rice gallery focus few erupt strike box security disorder fish cry";
+var mnemonic = "escape law wear neck primary light inside uncover maximum moon fever shaft";

@@ -1,1 +1,1 @@
-var mnemonic = "siege oval hungry foot bread smooth cousin gym chat butter raven subject";
+var mnemonic = "mention absent fresh frozen season noodle amazing student tiger nut vital under";

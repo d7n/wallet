@@ -1,1 +1,1 @@
-var mnemonic = "plug invite recipe injury umbrella saddle prosper then arena credit horn cable";
+var mnemonic = "design inmate general voyage pottery glory height lunch rabbit obscure produce side";

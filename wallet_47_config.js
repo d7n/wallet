@@ -1,1 +1,1 @@
-var mnemonic = "myth sheriff night property final beach word dawn evolve often depth recall";
+var mnemonic = "front argue holiday kitten whisper solar avocado clay maximum seed matter base";

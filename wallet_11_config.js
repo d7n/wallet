@@ -1,1 +1,1 @@
-var mnemonic = "wreck twice company vacuum chef mistake dance must stumble coconut inner mistake";
+var mnemonic = "fee cheese win husband tomorrow urban culture together kit ride youth spot";

@@ -1,1 +1,1 @@
-var mnemonic = "ticket joy nurse glance acoustic amateur melody rival unable hand powder lunch";
+var mnemonic = "rubber echo hotel fragile essence husband mirror rose output shy hood peasant";

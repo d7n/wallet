@@ -1,1 +1,1 @@
-var mnemonic = "blade shuffle velvet public artefact neglect resemble siren coral copy tribe coin";
+var mnemonic = "soft sunny echo bird shed can cruise appear ugly rate speed debate";

@@ -1,1 +1,1 @@
-var mnemonic = "flat canal slab toss rural huge bind twenty scan talent cheap party";
+var mnemonic = "envelope grit defense bird scene mouse scheme rough story tent universe fox";

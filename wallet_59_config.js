@@ -1,1 +1,1 @@
-var mnemonic = "inflict police basic credit picnic miss draw lab evidence spot bridge forum";
+var mnemonic = "leave muscle similar brisk walk present ball spend knee option erase ill";

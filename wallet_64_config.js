@@ -1,1 +1,1 @@
-var mnemonic = "work athlete toilet enforce skirt source run grief foil float gasp man";
+var mnemonic = "since eight parade kite trigger camera world doll error tool umbrella word";

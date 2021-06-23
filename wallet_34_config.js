@@ -1,1 +1,1 @@
-var mnemonic = "pen gym transfer before erupt turtle couple hen leg hard flag tape";
+var mnemonic = "ranch action course hub shaft army angry execute kit want salt obtain";

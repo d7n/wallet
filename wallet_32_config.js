@@ -1,1 +1,1 @@
-var mnemonic = "fitness allow rebel fitness rally reopen route side total tiny trip brass";
+var mnemonic = "march hope crazy become bleak capable doll toe sausage three expect sense";

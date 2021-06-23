@@ -1,1 +1,1 @@
-var mnemonic = "shoulder manage voyage join girl track false rely sorry ginger fun laugh";
+var mnemonic = "sport solve novel drill message stumble divert siren pudding movie museum prepare";

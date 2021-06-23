@@ -1,1 +1,1 @@
-var mnemonic = "junior weather mail alien direct tiger only where town waste card remember";
+var mnemonic = "slow aware document oblige absorb lawn warrior gap reduce reduce hundred cube";

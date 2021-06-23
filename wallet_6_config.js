@@ -1,1 +1,1 @@
-var mnemonic = "rare emerge poet execute number truth doctor pig case hidden crystal frame";
+var mnemonic = "moral actual cement disease gasp climb flash square leave outdoor senior motor";

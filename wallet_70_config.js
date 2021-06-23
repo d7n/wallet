@@ -1,1 +1,1 @@
-var mnemonic = "sauce number multiply wheel pull zebra mountain update bubble spoil captain metal";
+var mnemonic = "wear neither include punch civil cause before junk thought dirt setup submit";

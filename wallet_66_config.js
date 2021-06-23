@@ -1,1 +1,1 @@
-var mnemonic = "sell surprise option age key divide damage gather repeat exchange marble truck";
+var mnemonic = "spoil genre mass twelve honey flower wealth spread dust idle fantasy wall";

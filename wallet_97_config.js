@@ -1,1 +1,1 @@
-var mnemonic = "tattoo enable throw assist frown mule divert narrow wise minute soft sugar";
+var mnemonic = "aspect pilot nose input material beach quote crawl universe trophy cruel clerk";

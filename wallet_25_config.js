@@ -1,1 +1,1 @@
-var mnemonic = "inquiry boil face exact motor double motion pony welcome voyage effort bring";
+var mnemonic = "refuse defy denial pattern violin pilot source crazy amateur exclude trigger want";

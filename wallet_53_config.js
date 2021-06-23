@@ -1,1 +1,1 @@
-var mnemonic = "poet video setup exchange ill ladder design ritual danger cabin major position";
+var mnemonic = "raw stairs people protect eight people uncover home armor change crystal notice";

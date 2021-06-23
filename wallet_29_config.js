@@ -1,1 +1,1 @@
-var mnemonic = "butter worth flight vintage upset wish truly biology deliver real vehicle camera";
+var mnemonic = "tide moral praise ball chapter magic peanut shiver gloom elegant acoustic hold";

@@ -1,1 +1,1 @@
-var mnemonic = "gate tube similar garment wide riot final style soldier opinion country core";
+var mnemonic = "claim bar home raise tortoise neutral fatal melt genius walnut clap identify";

@@ -1,1 +1,1 @@
-var mnemonic = "second wife exercise once access bomb cereal traffic globe salute foster velvet";
+var mnemonic = "popular penalty mail category cluster engine elevator husband forget dentist shoot west";

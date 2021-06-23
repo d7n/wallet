@@ -1,1 +1,1 @@
-var mnemonic = "grunt wife expire salute smart alpha afraid nurse describe moral list prison";
+var mnemonic = "naive vast square vital neglect shift resemble answer convince horror pepper session";

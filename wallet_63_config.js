@@ -1,1 +1,1 @@
-var mnemonic = "luggage toss profit choice clap elder give oxygen wolf mass salad excite";
+var mnemonic = "quit slot have project net slab have wear crew knock kidney present";

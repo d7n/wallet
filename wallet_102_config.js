@@ -1,1 +1,1 @@
-var mnemonic = "leader gorilla letter gather diary gym ceiling clown shift upset system syrup";
+var mnemonic = "attack idle family unhappy fever radio arrive paper basic monkey alter very";

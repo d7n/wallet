@@ -1,1 +1,1 @@
-var mnemonic = "blush party satoshi tonight develop fiction chapter gas sad twist actor curve";
+var mnemonic = "flee they blossom pause illness problem crumble stamp matrix reform cross law";

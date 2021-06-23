@@ -1,1 +1,1 @@
-var mnemonic = "now canal cloth police exchange someone track jeans stairs pizza purse hybrid";
+var mnemonic = "absurd come dress solar bronze frequent change dilemma total truth figure job";

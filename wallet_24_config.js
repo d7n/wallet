@@ -1,1 +1,1 @@
-var mnemonic = "deliver plate army silver gossip carbon quiz fix connect focus grow game";
+var mnemonic = "tired sorry want april romance loyal glow ethics snake left age honey";

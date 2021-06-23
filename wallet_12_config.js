@@ -1,1 +1,1 @@
-var mnemonic = "collect believe achieve elephant avocado squirrel sphere snap farm wolf weather boss";
+var mnemonic = "attend garden absurd volume swarm cool scrap flavor festival isolate electric horn";

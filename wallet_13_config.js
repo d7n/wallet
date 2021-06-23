@@ -1,1 +1,1 @@
-var mnemonic = "fluid hammer oxygen brother write laugh jazz rubber siege language carpet check";
+var mnemonic = "rib horn tail answer crime armed dad galaxy party quote company ride";

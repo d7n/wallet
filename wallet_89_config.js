@@ -1,1 +1,1 @@
-var mnemonic = "actress evil faith balance soon banner coral spatial canvas cabbage pond powder";
+var mnemonic = "feel cradle vault theme entire decline ask erosion quality inner april scatter";

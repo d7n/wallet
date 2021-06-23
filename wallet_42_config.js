@@ -1,1 +1,1 @@
-var mnemonic = "stay tell example coach position engage program muscle captain space wage vicious";
+var mnemonic = "stereo oak expand aisle produce okay ceiling frog minute check place zone";

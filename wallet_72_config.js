@@ -1,1 +1,1 @@
-var mnemonic = "crane skin mail penalty hat another ribbon voice deer bright wrong cactus";
+var mnemonic = "pioneer common fragile chat estate auction equal horse pill disorder devote choice";

@@ -1,1 +1,1 @@
-var mnemonic = "token source write antenna creek artist tribe wheat denial odor delay then";
+var mnemonic = "educate cheese exact impact riot canal chef biology monkey mistake youth cloud";

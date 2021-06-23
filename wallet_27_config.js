@@ -1,1 +1,1 @@
-var mnemonic = "hamster return endorse distance stamp avoid vocal shallow couch country belt resemble";
+var mnemonic = "outside that parrot exact rack poverty west unusual coach equal pottery just";

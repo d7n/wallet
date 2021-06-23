@@ -1,1 +1,1 @@
-var mnemonic = "blush impulse swamp blast number fossil bulb title insect worth moral reopen";
+var mnemonic = "bonus hazard hurt canyon tree eight leave mule symptom response glide unknown";

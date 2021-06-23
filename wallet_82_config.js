@@ -1,1 +1,1 @@
-var mnemonic = "creek choose uncle claw ship object adult version require hand unveil lobster";
+var mnemonic = "rifle ritual furnace cluster magic actress coil cruise digital lyrics release define";

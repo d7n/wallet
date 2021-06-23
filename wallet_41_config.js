@@ -1,1 +1,1 @@
-var mnemonic = "city bullet raven canvas state praise jacket spare merge six monitor private";
+var mnemonic = "proof again ski giant trim soap begin hard toy thank boss boy";
