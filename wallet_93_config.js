@@ -1,1 +1,1 @@
-var mnemonic = "stable road orient tomato drop napkin nasty choose rent chest audit raise";
+var mnemonic = "identify ring artist carpet pupil tourist have control doll celery thunder holiday";

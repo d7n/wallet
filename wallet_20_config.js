@@ -1,1 +1,1 @@
-var mnemonic = "vessel elephant have carpet manual junior screen frown decide foil pilot harsh";
+var mnemonic = "discover magic one shock flower hungry web evil obscure language cactus glove";

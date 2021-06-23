@@ -1,1 +1,1 @@
-var mnemonic = "salute risk stage either reform warrior such area tortoise help word sun";
+var mnemonic = "exotic brand crack boil frown uphold abuse service connect combine mango fiber";

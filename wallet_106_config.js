@@ -1,1 +1,1 @@
-var mnemonic = "regret found lawn physical reason broom misery globe cup casino cannon render";
+var mnemonic = "quick unfold amused subway horror accident foot chalk explain place web sunny";

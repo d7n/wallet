@@ -1,1 +1,1 @@
-var mnemonic = "stereo upset runway shift zoo slam language potato fantasy affair spike polar";
+var mnemonic = "relief range area spice busy bulk fragile cool note scan gadget prevent";

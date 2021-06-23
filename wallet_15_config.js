@@ -1,1 +1,1 @@
-var mnemonic = "omit process tape shield dumb force elevator army merry add day wine";
+var mnemonic = "believe virtual burger slender run bunker robust inhale turkey win female trade";

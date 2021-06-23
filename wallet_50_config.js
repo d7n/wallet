@@ -1,1 +1,1 @@
-var mnemonic = "knee discover bargain sight copper oak fence grass whip scout female regret";
+var mnemonic = "ready orbit that monkey antenna coconut response offer thunder toward pudding kitten";

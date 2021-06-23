@@ -1,1 +1,1 @@
-var mnemonic = "arch trap wrap repair suspect frog talent antenna hybrid wet stereo unable";
+var mnemonic = "deliver width salute ribbon inmate civil cool flee know predict fragile quick";

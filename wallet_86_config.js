@@ -1,1 +1,1 @@
-var mnemonic = "reopen topic give sunset face animal curve wagon shell exist giant festival";
+var mnemonic = "crater file borrow curtain wing piano ill eagle element filter almost unknown";

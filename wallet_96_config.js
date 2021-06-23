@@ -1,1 +1,1 @@
-var mnemonic = "limit warfare payment clutch shrug butter huge expand high car youth arrange";
+var mnemonic = "regular robot other spend dinner soap occur essay creek flash peace digital";

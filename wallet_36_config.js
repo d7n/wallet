@@ -1,1 +1,1 @@
-var mnemonic = "high iron engine attitude pony fabric exchange shine dinner assist loan spare";
+var mnemonic = "mercy vicious view neck access finish night rail proud usage strong organ";

@@ -1,1 +1,1 @@
-var mnemonic = "kitten together sniff buddy document bachelor merit place maple monkey balance route";
+var mnemonic = "invite deer help simple cup impose bench resist prefer setup margin thank";

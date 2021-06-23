@@ -1,1 +1,1 @@
-var mnemonic = "interest loyal demise stuff junk note swap repeat rack slot lens oblige";
+var mnemonic = "celery matrix transfer insect endless trap poet during orange upset denial unusual";

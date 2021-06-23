@@ -1,1 +1,1 @@
-var mnemonic = "myself middle base top advice caught reflect grace mimic daring blade mystery";
+var mnemonic = "upper museum virtual skin labor nerve sea vibrant crouch august airport human";

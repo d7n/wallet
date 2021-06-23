@@ -1,1 +1,1 @@
-var mnemonic = "there trade theme alarm december tackle foot fatigue eagle taste olympic rain";
+var mnemonic = "leader trumpet tent tongue inmate tool case mansion like ski start weapon";

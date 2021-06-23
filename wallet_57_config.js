@@ -1,1 +1,1 @@
-var mnemonic = "spike accuse shy title category match garbage turkey answer equip private decide";
+var mnemonic = "grow someone bonus extra love skill pioneer educate capital trash renew black";

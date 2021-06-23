@@ -1,1 +1,1 @@
-var mnemonic = "enemy payment impact custom rigid reunion churn print design select best south";
+var mnemonic = "rival banana trick impact route sponsor main only chapter deposit abandon used";

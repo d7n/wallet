@@ -1,1 +1,1 @@
-var mnemonic = "guitar floor design frequent load fortune critic lottery slow then simple sleep";
+var mnemonic = "love depend they tennis reward describe carry day pyramid mesh submit couch";

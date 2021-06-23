@@ -1,1 +1,1 @@
-var mnemonic = "panel loan lucky other ordinary wait total whip surge struggle yard slender";
+var mnemonic = "portion betray twice round lucky pioneer dutch account jungle repeat call power";

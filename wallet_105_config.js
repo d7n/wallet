@@ -1,1 +1,1 @@
-var mnemonic = "alone sauce motor initial praise mask enjoy athlete reopen evidence salmon master";
+var mnemonic = "once traffic amazing nice carbon behind panic search fitness armor light gate";

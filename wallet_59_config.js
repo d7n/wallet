@@ -1,1 +1,1 @@
-var mnemonic = "soup divert man empower half ankle earth science bike attitude lift poet";
+var mnemonic = "kind bulb brand because market beauty horn couple fiction panda method crew";

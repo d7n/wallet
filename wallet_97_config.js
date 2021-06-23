@@ -1,1 +1,1 @@
-var mnemonic = "stove rocket gift cry warrior dilemma key quote seed mushroom sense august";
+var mnemonic = "sauce stereo flavor curve benefit project practice labor uphold alpha thought word";

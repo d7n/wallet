@@ -1,1 +1,1 @@
-var mnemonic = "fortune oppose toe economy father grief exchange insect diet eyebrow december jar";
+var mnemonic = "please short trip air always fatal talent hammer ivory degree canoe daughter";

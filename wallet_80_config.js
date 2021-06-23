@@ -1,1 +1,1 @@
-var mnemonic = "sketch glue owner puzzle jealous admit often slush upgrade tongue anxiety lion";
+var mnemonic = "ski march plunge news ribbon leader motion fame rebuild mistake tackle twin";

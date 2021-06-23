@@ -1,1 +1,1 @@
-var mnemonic = "exhibit man glare robot state torch useless ramp castle happy artist learn";
+var mnemonic = "shed naive gather soup client warm mountain industry art worth assume little";

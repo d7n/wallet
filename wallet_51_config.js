@@ -1,1 +1,1 @@
-var mnemonic = "decade breeze captain arch marine employ deputy polar outside fantasy object congress";
+var mnemonic = "derive timber nothing glass scrap buyer project spice soccer over inside sudden";

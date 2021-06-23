@@ -1,1 +1,1 @@
-var mnemonic = "club enroll tide congress find pony model scan donkey orchard earn scout";
+var mnemonic = "hand baby card grow ancient shy car shuffle cross season armor onion";

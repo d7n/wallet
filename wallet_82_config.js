@@ -1,1 +1,1 @@
-var mnemonic = "fluid raccoon attract once coin pattern twenty connect tank remove method cost";
+var mnemonic = "shoe infant host crater expect snack naive daring outside simple anchor fan";

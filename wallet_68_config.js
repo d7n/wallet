@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit accuse weather tuition mansion mystery body chase light tribe buddy faint";
+var mnemonic = "crime office own since express dilemma pattern grab civil wire clay jealous";

@@ -1,1 +1,1 @@
-var mnemonic = "metal pyramid where churn elegant able iron own jewel rely abuse annual";
+var mnemonic = "depart book galaxy sort pattern uncover skate brave viable miracle turkey season";

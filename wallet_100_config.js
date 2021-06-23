@@ -1,1 +1,1 @@
-var mnemonic = "skull mail tone drama deer expire lab member trade badge ranch vacuum";
+var mnemonic = "saddle one luggage lock expire include network prison brass virus current tape";

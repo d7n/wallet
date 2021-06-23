@@ -1,1 +1,1 @@
-var mnemonic = "sudden stable crumble dial film wear proof eight pistol whip spread glare";
+var mnemonic = "edge giggle spin ceiling ridge unveil resist borrow culture slow rare escape";

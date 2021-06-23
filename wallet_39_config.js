@@ -1,1 +1,1 @@
-var mnemonic = "expire stage october bachelor erupt brief cruel luggage champion mountain despair three";
+var mnemonic = "cancel pencil hockey copy sibling wheat demise decrease member tiny shell curve";

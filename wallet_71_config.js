@@ -1,1 +1,1 @@
-var mnemonic = "tragic fence timber ladder sugar large behind ignore siege exist valley gold";
+var mnemonic = "furnace combine liquid spread notable maze cannon leave carry hood above marriage";

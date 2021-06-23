@@ -1,1 +1,1 @@
-var mnemonic = "panther middle stool foam present bounce silent tourist valley opera stone enlist";
+var mnemonic = "blanket drop number turn omit crisp arctic afraid loud scan adult comfort";

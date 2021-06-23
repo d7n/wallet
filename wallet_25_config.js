@@ -1,1 +1,1 @@
-var mnemonic = "transfer monkey kitchen modify sphere absorb fame blanket old turn office truly";
+var mnemonic = "arctic vibrant fabric arm harvest flash kangaroo olive skin surround sort message";

@@ -1,1 +1,1 @@
-var mnemonic = "inflict improve entire journey depend allow major input shoot enter snack wrong";
+var mnemonic = "ill innocent panel rebuild noodle merry bounce able antenna guess dust system";

@@ -1,1 +1,1 @@
-var mnemonic = "evolve loan memory harbor village armor fly vast flavor later worth zebra";
+var mnemonic = "glance vicious loud tooth lady lift spin artwork since area piece verb";

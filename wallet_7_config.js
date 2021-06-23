@@ -1,1 +1,1 @@
-var mnemonic = "shrimp useful place muffin regular embark joke sheriff title left worry garbage";
+var mnemonic = "check immune nature despair frame dinner dash mind time capable yellow faculty";

@@ -1,1 +1,1 @@
-var mnemonic = "injury upset camera machine orchard art ghost file float exchange cupboard employ";
+var mnemonic = "guide crew have transfer scissors act sunny include apple biology pool luxury";

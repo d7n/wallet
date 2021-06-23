@@ -1,1 +1,1 @@
-var mnemonic = "mansion spell slim egg pet prison brother divert square strike often glass";
+var mnemonic = "crumble myself jump know olive zoo remain grain buffalo marble dog music";

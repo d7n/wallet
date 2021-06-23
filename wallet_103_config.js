@@ -1,1 +1,1 @@
-var mnemonic = "royal number brown wealth inch weekend addict comfort soon mule pave august";
+var mnemonic = "amazing review welcome diet kick turkey adult fade people invite two reward";

@@ -1,1 +1,1 @@
-var mnemonic = "outer brick aware chicken ability siren ritual autumn enforce helmet around august";
+var mnemonic = "betray asthma broom fit trick craft unknown banana area inquiry sick high";

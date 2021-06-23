@@ -1,1 +1,1 @@
-var mnemonic = "guilt olive reject scrap elegant better frost north country jeans gossip kidney";
+var mnemonic = "leave civil bomb add eight lottery foster gravity kitten usage stay feed";

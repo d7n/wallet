@@ -1,1 +1,1 @@
-var mnemonic = "jump spice armor grace sign annual hurdle raccoon pond bracket north turn";
+var mnemonic = "attract gown extra lawsuit enter van stick tattoo gentle lunar merry fun";

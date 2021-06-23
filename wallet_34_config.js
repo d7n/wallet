@@ -1,1 +1,1 @@
-var mnemonic = "cruise unfair doctor clock word casual ecology glow air together gospel remind";
+var mnemonic = "inmate lend tent clean crew doll favorite few entry drastic trophy opinion";

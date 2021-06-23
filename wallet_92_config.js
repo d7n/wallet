@@ -1,1 +1,1 @@
-var mnemonic = "process grant nominee boss square stool ten fish relax sight stage frog";
+var mnemonic = "atom bacon pyramid craft primary help grab hundred employ measure repair hammer";

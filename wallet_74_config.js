@@ -1,1 +1,1 @@
-var mnemonic = "argue door pact rain farm neither fish rule where target result library";
+var mnemonic = "pulse spot vacant leopard pledge comfort under vanish nurse brain despair donkey";

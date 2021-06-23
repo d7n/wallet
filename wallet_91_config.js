@@ -1,1 +1,1 @@
-var mnemonic = "jaguar improve boat easy food tomorrow erupt churn half pet foster carry";
+var mnemonic = "target bus arm leisure reform else boat clock target prepare duty discover";

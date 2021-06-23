@@ -1,1 +1,1 @@
-var mnemonic = "opinion run turn unable cement energy hill bachelor visual ghost net switch";
+var mnemonic = "initial home collect merry spot meadow indoor empower intact spawn panther anxiety";

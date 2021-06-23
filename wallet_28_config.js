@@ -1,1 +1,1 @@
-var mnemonic = "theme double mobile butter good smile reduce receive burden jungle cram gentle";
+var mnemonic = "outdoor canoe gloom process glue sister victory strategy develop slush ritual knee";

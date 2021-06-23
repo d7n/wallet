@@ -1,1 +1,1 @@
-var mnemonic = "stool only debris rubber member betray cute street spike squeeze toward section";
+var mnemonic = "rabbit tunnel grass prefer suit client mystery eagle window act laugh patrol";

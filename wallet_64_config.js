@@ -1,1 +1,1 @@
-var mnemonic = "stand destroy zebra oak camera youth step romance assume follow rubber bus";
+var mnemonic = "gather chapter youth option lunar hundred detail measure sketch crystal random woman";

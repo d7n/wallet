@@ -1,1 +1,1 @@
-var mnemonic = "slight fossil slice erosion purchase scare tag crunch rather vintage fine menu";
+var mnemonic = "mad session photo powder bone climb angle rose master burden lava blanket";

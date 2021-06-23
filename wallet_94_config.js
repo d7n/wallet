@@ -1,1 +1,1 @@
-var mnemonic = "chronic example aerobic crowd mammal valley over pause cart game claw solid";
+var mnemonic = "fame web guess eager east wine enroll fog donkey wing earn artwork";

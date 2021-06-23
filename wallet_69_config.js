@@ -1,1 +1,1 @@
-var mnemonic = "shop erode short mechanic canoe demand display salmon dentist tide mushroom airport";
+var mnemonic = "live sunset laptop response twelve cube flash guess method trophy expire outside";

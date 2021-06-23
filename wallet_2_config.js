@@ -1,1 +1,1 @@
-var mnemonic = "lumber exile prison luggage treat burger divert upgrade reunion position rocket disease";
+var mnemonic = "client donor panic hedgehog alter grain vacuum crazy flame biology absent bulb";

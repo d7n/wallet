@@ -1,1 +1,1 @@
-var mnemonic = "super anxiety rack arrive boil climb save boss mean divide shoulder dad";
+var mnemonic = "clay damage fetch lion glass hazard wolf stumble fossil pistol nice ripple";

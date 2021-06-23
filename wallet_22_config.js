@@ -1,1 +1,1 @@
-var mnemonic = "front chief chair lyrics equip stumble across kidney glide dress ribbon slush";
+var mnemonic = "sport again worth change swift muscle sausage intact select book shop skin";

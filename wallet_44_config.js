@@ -1,1 +1,1 @@
-var mnemonic = "wrestle stuff panther swap category rocket oppose enough assume cruise people notable";
+var mnemonic = "rookie symbol curious street conduct dirt update flag chase muscle audit soon";

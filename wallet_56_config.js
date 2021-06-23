@@ -1,1 +1,1 @@
-var mnemonic = "capable bubble volcano appear fabric add scrap produce often brand modify alarm";
+var mnemonic = "feel sunset cruise leopard fetch stool kiss useful fringe chicken response liberty";

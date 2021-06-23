@@ -1,1 +1,1 @@
-var mnemonic = "wealth happy opera surround sense zone future asset tissue figure moral path";
+var mnemonic = "wave van need hawk west supreme front adult sound recipe warrior wreck";

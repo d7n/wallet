@@ -1,1 +1,1 @@
-var mnemonic = "disorder coin boy immune auction weapon loan track grief cabbage prosper void";
+var mnemonic = "analyst flush measure gun become fabric that jacket enlist half crack exhibit";

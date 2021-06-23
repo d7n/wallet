@@ -1,1 +1,1 @@
-var mnemonic = "section acquire pull spare dumb bright rural sauce category inherit impose record";
+var mnemonic = "slab armed lucky cake second chief opinion absorb awake marine narrow page";

@@ -1,1 +1,1 @@
-var mnemonic = "version viable subway impulse lazy rain device equip cancel ketchup myth panda";
+var mnemonic = "vapor organ unknown crouch foster afraid oval north later tongue twenty fit";

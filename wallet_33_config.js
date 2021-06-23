@@ -1,1 +1,1 @@
-var mnemonic = "diary lunch chat execute hotel knock panic stove task hen buyer spot";
+var mnemonic = "million mention duck consider impulse double ramp airport put express north shuffle";

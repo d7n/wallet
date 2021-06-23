@@ -1,1 +1,1 @@
-var mnemonic = "sheriff magnet patrol arrive design edge romance ivory choose cousin twin pyramid";
+var mnemonic = "have husband napkin priority tomato display scissors emerge car improve click helmet";

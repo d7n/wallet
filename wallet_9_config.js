@@ -1,1 +1,1 @@
-var mnemonic = "actress wonder predict trophy inflict thumb clump dismiss observe question mirror square";
+var mnemonic = "useless peanut swing always web play video demise erase hidden giraffe actor";

@@ -1,1 +1,1 @@
-var mnemonic = "faculty moment motion gold few wool type zoo chuckle holiday owner endless";
+var mnemonic = "front frame praise logic poverty reward witness nation speed vivid receive good";

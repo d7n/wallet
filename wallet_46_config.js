@@ -1,1 +1,1 @@
-var mnemonic = "mention shell term special excess judge save grit vote boss announce clay";
+var mnemonic = "style moment awake enough call erode spray ivory ripple expand gorilla exile";

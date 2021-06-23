@@ -1,1 +1,1 @@
-var mnemonic = "dance now pet swallow rally crater ramp spoil report mask shiver height";
+var mnemonic = "female law cereal escape master clown diagram script annual input moral dignity";

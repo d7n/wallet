@@ -1,1 +1,1 @@
-var mnemonic = "wall amused erupt company type essence firm evil valley feel churn resemble";
+var mnemonic = "twenty exit teach bleak until craft coffee vintage theme bind usage good";

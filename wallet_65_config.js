@@ -1,1 +1,1 @@
-var mnemonic = "slide coast extend hard neither bus social draft tank board develop admit";
+var mnemonic = "safe roof resemble hero giggle soldier best promote target betray ethics drive";

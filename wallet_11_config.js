@@ -1,1 +1,1 @@
-var mnemonic = "start erase praise sister scout board delay staff awesome square company maple";
+var mnemonic = "capable recycle control congress legal chief cage palm embody evoke garage attack";

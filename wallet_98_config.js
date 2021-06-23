@@ -1,1 +1,1 @@
-var mnemonic = "expose work cereal push time post cricket gun evil pulse three puzzle";
+var mnemonic = "culture foot awake hello exercise script asthma hurt chest eagle dream crack";

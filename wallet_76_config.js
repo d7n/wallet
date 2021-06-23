@@ -1,1 +1,1 @@
-var mnemonic = "lazy loop strike execute demise action pilot dove easily expect path payment";
+var mnemonic = "someone fine trouble ivory pattern radar person claim gentle fresh offer have";

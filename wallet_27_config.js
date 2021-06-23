@@ -1,1 +1,1 @@
-var mnemonic = "fatal rain kiwi tomorrow combine adjust version medal shy neutral punch link";
+var mnemonic = "total road can garbage exhibit seven member pet bullet shoot doll town";

@@ -1,1 +1,1 @@
-var mnemonic = "symbol resist section grit there carbon buddy happy kitten endless nerve few";
+var mnemonic = "antique fix gold move goat misery brisk twelve practice million fragile web";

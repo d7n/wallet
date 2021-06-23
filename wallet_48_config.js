@@ -1,1 +1,1 @@
-var mnemonic = "room thunder slogan supreme swap relax tenant warm north pave habit notice";
+var mnemonic = "useless harvest banner disagree alien pudding stove industry lunch orphan shiver fiscal";

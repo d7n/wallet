@@ -1,1 +1,1 @@
-var mnemonic = "steak intact limit luxury honey fire laundry dune year decade float over";
+var mnemonic = "weird tray strategy share busy stand able tumble omit foot people victory";

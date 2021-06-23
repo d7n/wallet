@@ -1,1 +1,1 @@
-var mnemonic = "option easy churn song cannon sight ordinary depend found seed fetch define";
+var mnemonic = "roof way kiwi cable response sketch gasp aerobic taste sausage alcohol cruise";

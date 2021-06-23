@@ -1,1 +1,1 @@
-var mnemonic = "knock long payment protect grace cruise level chuckle bag erosion cradle ill";
+var mnemonic = "renew damp perfect sense burger caution doctor border height session invite witness";

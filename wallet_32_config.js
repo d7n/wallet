@@ -1,1 +1,1 @@
-var mnemonic = "rival cream lesson inform bamboo wool wasp adjust subject buffalo slice young";
+var mnemonic = "flavor marine length fatigue raise inflict boy pottery brush round rude differ";

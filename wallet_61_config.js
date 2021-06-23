@@ -1,1 +1,1 @@
-var mnemonic = "civil nice hurt benefit cycle used melt fluid tuna tattoo column found";
+var mnemonic = "grain castle harsh rigid vibrant case goat deny depth naive fly screen";

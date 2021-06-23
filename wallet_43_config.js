@@ -1,1 +1,1 @@
-var mnemonic = "cause educate potato staff gain excuse brain thank ankle smart sister write";
+var mnemonic = "lecture outdoor treat silent proud marine mask raise left repeat trip lizard";

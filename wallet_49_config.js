@@ -1,1 +1,1 @@
-var mnemonic = "life wheat embrace grape grocery height catalog joke flat spice suffer circle";
+var mnemonic = "style mimic hotel rural spare guide service zero tail home pet giraffe";

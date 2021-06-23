@@ -1,1 +1,1 @@
-var mnemonic = "rail large student mind deer entry frog divide unlock throw that tone";
+var mnemonic = "cargo vacant distance mosquito void shoot cruel disagree upset poet raw action";

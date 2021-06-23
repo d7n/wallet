@@ -1,1 +1,1 @@
-var mnemonic = "crash blouse more aim tomorrow catch shrimp scale answer arch improve danger";
+var mnemonic = "loop cool relief utility trip debate accuse quantum mom rally midnight penalty";

@@ -1,1 +1,1 @@
-var mnemonic = "worth pave elite obtain client bamboo age gate crop kingdom despair dune";
+var mnemonic = "dutch talent elephant pioneer travel board rice taste pluck burger arrive adult";

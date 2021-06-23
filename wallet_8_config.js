@@ -1,1 +1,1 @@
-var mnemonic = "coil kitten valley rapid cinnamon mom frost eight interest priority hazard humor";
+var mnemonic = "find neither valid rotate behind antique august cause boss loan grab tree";

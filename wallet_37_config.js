@@ -1,1 +1,1 @@
-var mnemonic = "exotic talent tissue joy material harvest chest claim detail boost cloud toward";
+var mnemonic = "field where key company awesome giraffe tube sphere cat busy cigar bamboo";
