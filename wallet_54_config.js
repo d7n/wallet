@@ -1,1 +1,1 @@
-var mnemonic = "immune taxi yard slogan couple announce tiger abuse history volcano toss elegant";
+var mnemonic = "square save mixed reflect praise junior aspect before cushion actual next celery";

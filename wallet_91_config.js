@@ -1,1 +1,1 @@
-var mnemonic = "raw sleep matrix mirror find parent bring possible comic actual then seven";
+var mnemonic = "medal choice east crush quarter anger clump motion hospital burden trial resource";

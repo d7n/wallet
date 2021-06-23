@@ -1,1 +1,1 @@
-var mnemonic = "traffic tired couple chest blind online addict twist range slide gun seven";
+var mnemonic = "apology heart rotate disease airport bitter silly cause various shy sheriff margin";

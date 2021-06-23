@@ -1,1 +1,1 @@
-var mnemonic = "neglect diesel upper boring neck visit siege merit spice cushion raw example";
+var mnemonic = "strong trend furnace universe bacon almost unveil survey left decade miss sell";

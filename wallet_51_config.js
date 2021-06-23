@@ -1,1 +1,1 @@
-var mnemonic = "absurd black young what fortune hint under release believe antique blood humor";
+var mnemonic = "onion noodle arrest reflect order twin dizzy possible then penalty rocket canyon";

@@ -1,1 +1,1 @@
-var mnemonic = "head pizza poet convince fault boost earth brown syrup lunar voice jaguar";
+var mnemonic = "valid absurd mule pride knee garden guard foster crunch infant movie paddle";

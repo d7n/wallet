@@ -1,1 +1,1 @@
-var mnemonic = "guess canvas vast version medal early silk month drama focus hunt patch";
+var mnemonic = "slim friend federal crew mansion price elder divert draw anchor pencil jaguar";

@@ -1,1 +1,1 @@
-var mnemonic = "employ abandon ritual come sand trial immense despair segment arrange attend move";
+var mnemonic = "liberty december among capable include transfer float embody speak cereal whip kid";

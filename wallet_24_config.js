@@ -1,1 +1,1 @@
-var mnemonic = "describe glove toast harbor physical volcano canoe minute lawn avocado badge traffic";
+var mnemonic = "race camp cheese mirror quick knife crucial swim amazing erupt canvas idea";

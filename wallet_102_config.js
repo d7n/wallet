@@ -1,1 +1,1 @@
-var mnemonic = "erosion festival random predict wave mad physical park coffee van shaft swap";
+var mnemonic = "belt trigger cheap lady rail diesel can they loyal industry cluster crush";

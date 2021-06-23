@@ -1,1 +1,1 @@
-var mnemonic = "mandate struggle sadness climb guide poet card artefact viable figure harsh bag";
+var mnemonic = "vintage ready salt music trim main drift window run squeeze question shoulder";

@@ -1,1 +1,1 @@
-var mnemonic = "trick family poem dirt connect beyond uncover deposit patrol body next spray";
+var mnemonic = "witness unlock unfair shock sun entire lottery fossil virus audit mixed cargo";

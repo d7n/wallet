@@ -1,1 +1,1 @@
-var mnemonic = "way fantasy cube still entire inform identify affair mother cost lens shell";
+var mnemonic = "melt poverty struggle slush behave spawn order flip genuine mix light dream";

@@ -1,1 +1,1 @@
-var mnemonic = "where chef cotton crater donkey math tennis fold cart amused short express";
+var mnemonic = "door oxygen march ticket multiply chef route involve inside village grab mother";

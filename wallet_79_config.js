@@ -1,1 +1,1 @@
-var mnemonic = "hospital load enact oak aspect domain kid nice bargain code unlock pet";
+var mnemonic = "fluid rich audit visit someone slim ski call cotton rebuild huge silly";

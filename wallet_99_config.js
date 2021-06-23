@@ -1,1 +1,1 @@
-var mnemonic = "stock planet birth city health group settle dish cushion brand price small";
+var mnemonic = "adjust mixed own shoe wash true slide vast globe awful consider where";

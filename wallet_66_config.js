@@ -1,1 +1,1 @@
-var mnemonic = "theme fox apology ginger gentle reward leg toddler clerk loyal file jump";
+var mnemonic = "link acoustic measure cart account file actual bacon custom simple imitate young";

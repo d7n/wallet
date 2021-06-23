@@ -1,1 +1,1 @@
-var mnemonic = "trust soap alpha process noble erode jealous april whip tell setup hungry";
+var mnemonic = "exhaust sample sauce foster clay risk awful merge twenty captain genre under";

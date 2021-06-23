@@ -1,1 +1,1 @@
-var mnemonic = "claw armor cute door transfer abandon now dolphin shrimp suggest fork verify";
+var mnemonic = "output edge loyal cause boy inner abuse enroll random predict echo route";

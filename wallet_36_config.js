@@ -1,1 +1,1 @@
-var mnemonic = "alter fossil supply ability behind spoil moral school legal shaft course blame";
+var mnemonic = "traffic maximum concert floor lift author vendor response donkey various science kind";

@@ -1,1 +1,1 @@
-var mnemonic = "finish elegant plate iron rebel olympic cloth canoe devote drift blame test";
+var mnemonic = "abandon arrow peasant weird slogan train vault stuff pave abstract loop they";

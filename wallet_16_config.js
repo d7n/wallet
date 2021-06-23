@@ -1,1 +1,1 @@
-var mnemonic = "lion gaze cotton fall army hazard cloth common balcony amazing seminar fiber";
+var mnemonic = "toddler door staff cable turtle box equal exercise cargo sister author card";

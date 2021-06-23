@@ -1,1 +1,1 @@
-var mnemonic = "medal edge fit pet antique venture equip stay april injury punch retire";
+var mnemonic = "zoo faith dial enter auction diary rural love border baby just style";

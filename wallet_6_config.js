@@ -1,1 +1,1 @@
-var mnemonic = "cattle immune village raccoon trial junk suspect mystery spatial warfare tray hurry";
+var mnemonic = "hero inflict impact icon chief jacket photo bike shed prevent tray nice";

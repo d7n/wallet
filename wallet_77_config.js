@@ -1,1 +1,1 @@
-var mnemonic = "arctic eager mandate diary pelican energy tourist long cereal icon food pass";
+var mnemonic = "virtual cable scissors degree item crash agree poet grit click dinner rain";

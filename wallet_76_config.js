@@ -1,1 +1,1 @@
-var mnemonic = "brisk toe jaguar net orbit camera egg absurd scissors bag hotel prepare";
+var mnemonic = "lizard index spare tilt tongue remember traffic six canal december claim danger";

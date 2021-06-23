@@ -1,1 +1,1 @@
-var mnemonic = "throw link cover bargain excite pride enter glide creek message wreck dynamic";
+var mnemonic = "disagree jealous stay absorb mesh bright viable mule rely monkey ramp unusual";

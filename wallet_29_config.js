@@ -1,1 +1,1 @@
-var mnemonic = "mesh window oblige onion surprise gate toy mesh help lonely utility echo";
+var mnemonic = "useless crystal ignore fly hammer link waste diamond cash van blanket once";

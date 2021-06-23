@@ -1,1 +1,1 @@
-var mnemonic = "tennis rough balance blue foam grass apart night pizza switch pull harvest";
+var mnemonic = "guess depend satisfy trumpet one sport walnut wife crawl bid mirror spice";

@@ -1,1 +1,1 @@
-var mnemonic = "grit weather coil future quarter gown allow train episode gauge pull burger";
+var mnemonic = "answer noise fury endorse lesson outdoor match wheat beef control pupil blue";

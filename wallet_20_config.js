@@ -1,1 +1,1 @@
-var mnemonic = "gasp daughter cave talk whip oppose online coyote banner bargain mixture style";
+var mnemonic = "segment organ mandate library glide build hazard wine fun often round frog";

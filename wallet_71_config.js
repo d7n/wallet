@@ -1,1 +1,1 @@
-var mnemonic = "table bread winter present boost sun captain install series broken brain sign";
+var mnemonic = "stomach bottom teach dinosaur gauge exclude rate salute hidden range arrest glove";

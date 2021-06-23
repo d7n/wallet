@@ -1,1 +1,1 @@
-var mnemonic = "alley assist cloth riot inner choice world embark man stem replace caution";
+var mnemonic = "ocean talk again faint sad laugh next jar earth innocent mom omit";

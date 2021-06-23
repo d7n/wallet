@@ -1,1 +1,1 @@
-var mnemonic = "chest child orbit setup mercy wrestle pair average claim output narrow plunge";
+var mnemonic = "pioneer dirt burst exile camp public actual frame wrestle clarify entry decrease";

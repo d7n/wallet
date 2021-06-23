@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur clean ranch shrug lady wash swing cannon fade portion glad bid";
+var mnemonic = "vanish six horse system shallow suit pyramid town inform deputy situate typical";

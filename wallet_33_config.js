@@ -1,1 +1,1 @@
-var mnemonic = "shop liberty gravity tortoise deny vibrant various circle stadium clever habit uniform";
+var mnemonic = "lobster next hundred focus narrow dose adapt slender fold snack aware simple";

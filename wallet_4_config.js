@@ -1,1 +1,1 @@
-var mnemonic = "fish settle banana march fever pact green stadium panda copper media case";
+var mnemonic = "scan puzzle apology quote settle prevent year alert decorate weird nose host";

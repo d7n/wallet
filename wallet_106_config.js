@@ -1,1 +1,1 @@
-var mnemonic = "verify stock sun casual future cube tenant uncover flower lamp gorilla matter";
+var mnemonic = "hockey tag coconut kangaroo snap salute change tissue buzz afraid pistol unknown";

@@ -1,1 +1,1 @@
-var mnemonic = "sustain caution tank useful snap exclude satoshi lumber screen humble oblige foot";
+var mnemonic = "region banana power prefer conduct smart tube onion attend joy ready repair";

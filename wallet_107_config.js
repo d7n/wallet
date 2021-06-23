@@ -1,1 +1,1 @@
-var mnemonic = "blast verb enemy dwarf jazz chapter express sword notice limb ramp erase";
+var mnemonic = "boring limit lesson lift wagon mask ring loud rubber accident skull inquiry";

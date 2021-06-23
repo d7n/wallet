@@ -1,1 +1,1 @@
-var mnemonic = "drip crime tower hire lounge give ancient merit will shadow puppy cave";
+var mnemonic = "hour effort sock legend bird van able toast float artefact order surround";

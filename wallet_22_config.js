@@ -1,1 +1,1 @@
-var mnemonic = "grass meat private october grab demand stool job vault pool inmate half";
+var mnemonic = "antique ostrich just wrap poet evoke foot liberty huge rug hurt indicate";

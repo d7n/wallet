@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon impulse beef hero false peasant worth only scrap wear imitate grass";
+var mnemonic = "garden click clever power riot hen office same sponsor nurse protect mask";

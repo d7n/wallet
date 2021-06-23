@@ -1,1 +1,1 @@
-var mnemonic = "same planet child disease home cereal myself rather total cluster news illness";
+var mnemonic = "broken pool water retreat joke popular inspire tongue uniform priority price enable";

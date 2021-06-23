@@ -1,1 +1,1 @@
-var mnemonic = "mosquito base frequent lobster neutral helmet blood upper execute quantum tornado net";
+var mnemonic = "estate spawn door bless add hawk erosion chunk negative pride swarm burden";

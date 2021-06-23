@@ -1,1 +1,1 @@
-var mnemonic = "again gorilla possible base utility camp chalk student film october make often";
+var mnemonic = "runway immense uncover garbage country avocado average differ gather bachelor stay stereo";

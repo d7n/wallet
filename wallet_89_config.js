@@ -1,1 +1,1 @@
-var mnemonic = "use napkin health regret solar music kiwi gravity amateur acquire march valve";
+var mnemonic = "twist goat follow must scatter duty traffic dry note urge purity wing";

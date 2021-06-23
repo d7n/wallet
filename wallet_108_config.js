@@ -1,1 +1,1 @@
-var mnemonic = "around holiday goat leader siren agree bean effort carry club arrange chunk";
+var mnemonic = "glue enough pyramid celery slogan adapt awful brush old desk monster gas";

@@ -1,1 +1,1 @@
-var mnemonic = "pipe earth tissue prepare pelican excuse trigger fashion sphere cannon until eye";
+var mnemonic = "exercise drill prison torch brush error boss foot refuse twin measure drill";

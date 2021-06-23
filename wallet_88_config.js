@@ -1,1 +1,1 @@
-var mnemonic = "trumpet soul video dwarf crystal circle basket energy way quantum used boil";
+var mnemonic = "lesson eagle feature meat load reject rubber sketch when struggle bitter awful";

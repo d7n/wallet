@@ -1,1 +1,1 @@
-var mnemonic = "hockey visit ankle wrestle private sail ignore gossip obey ripple bracket arena";
+var mnemonic = "enroll wire enact small first idea fun beach wing turtle letter gadget";

@@ -1,1 +1,1 @@
-var mnemonic = "discover quantum neck victory eager thunder sight friend rural infant require ridge";
+var mnemonic = "comic poet negative copy first cup material cousin chicken perfect swim maple";

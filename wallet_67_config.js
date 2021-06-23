@@ -1,1 +1,1 @@
-var mnemonic = "describe gadget weather select poet meadow enact denial camp inner lock jump";
+var mnemonic = "aim property echo drum wealth sibling card demise photo photo conduct corn";

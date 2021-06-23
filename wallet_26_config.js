@@ -1,1 +1,1 @@
-var mnemonic = "try volcano hip april bleak pattern vague sponsor solution drum long sunset";
+var mnemonic = "rapid dilemma turn cargo column devote forget legal myself wage present barely";

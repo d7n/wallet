@@ -1,1 +1,1 @@
-var mnemonic = "wood twelve muscle scissors bubble wrestle method dismiss fuel impose immense mobile";
+var mnemonic = "angle plate burger lobster scheme style debris forget about inner keen laugh";

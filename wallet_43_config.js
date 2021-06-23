@@ -1,1 +1,1 @@
-var mnemonic = "will hover gaze comic funny yard fee bulb alien sample gallery breeze";
+var mnemonic = "render arena cage faith vast foam know hole gloom cart guess side";

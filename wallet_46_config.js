@@ -1,1 +1,1 @@
-var mnemonic = "diesel tongue indoor knee endorse roof labor punch echo chronic page dragon";
+var mnemonic = "wing talk riot doll range shed air domain dawn clerk donor size";

@@ -1,1 +1,1 @@
-var mnemonic = "nerve sugar warfare illegal expand rely item save laundry satisfy call calm";
+var mnemonic = "success cat join month wasp satisfy speak repair home oyster there opinion";

@@ -1,1 +1,1 @@
-var mnemonic = "twist edge sick honey humor security main confirm priority stadium parent crash";
+var mnemonic = "video tip hedgehog artist fiscal seminar machine forum canal outer card world";

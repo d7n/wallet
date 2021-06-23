@@ -1,1 +1,1 @@
-var mnemonic = "frequent thought fall honey travel wisdom alter woman expect opera property spider";
+var mnemonic = "impact proud inquiry coach task social owner inform sword gloom stove ice";

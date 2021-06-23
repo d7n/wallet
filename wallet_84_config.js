@@ -1,1 +1,1 @@
-var mnemonic = "anxiety thought chicken inch program flee liquid try kite either upper large";
+var mnemonic = "flag unfair winner flee shine remember online lobster paper rain napkin consider";

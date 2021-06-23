@@ -1,1 +1,1 @@
-var mnemonic = "around bid ocean cloth mammal crunch tree pool source sell problem hunt";
+var mnemonic = "sister echo perfect flavor alone ancient grant success ladder still sign ride";

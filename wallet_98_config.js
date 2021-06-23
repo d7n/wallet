@@ -1,1 +1,1 @@
-var mnemonic = "feel gloom ivory retire intact liquid glue blanket habit popular sustain pigeon";
+var mnemonic = "size choose attack grocery wrap upon bulk museum artist item oblige movie";

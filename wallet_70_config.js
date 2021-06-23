@@ -1,1 +1,1 @@
-var mnemonic = "wage inquiry inmate chaos skin huge bargain tag august cross about bamboo";
+var mnemonic = "media canyon attitude word soda aim maid rug cube satoshi bulb away";

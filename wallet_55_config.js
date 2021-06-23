@@ -1,1 +1,1 @@
-var mnemonic = "search boil screen scrap pyramid certain orphan black forum fault luxury picture";
+var mnemonic = "raven high group green theory rack weapon lesson narrow stock hero seed";

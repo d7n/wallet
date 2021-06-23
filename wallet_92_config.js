@@ -1,1 +1,1 @@
-var mnemonic = "brain denial steak decade erase dynamic flat left sausage element debris opinion";
+var mnemonic = "differ talk royal admit culture audit together life stay enhance spatial injury";

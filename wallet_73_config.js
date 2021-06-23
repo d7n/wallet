@@ -1,1 +1,1 @@
-var mnemonic = "cube two job fold limit change final cover envelope click turn device";
+var mnemonic = "cloth ordinary mask lesson control win pipe grab loop wolf salon over";

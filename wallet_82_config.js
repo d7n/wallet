@@ -1,1 +1,1 @@
-var mnemonic = "grace garbage provide arrive shallow casual sand unique peasant company warm avocado";
+var mnemonic = "woman certain please wonder forum bless true cereal draft charge fine black";

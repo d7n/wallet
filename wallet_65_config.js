@@ -1,1 +1,1 @@
-var mnemonic = "veteran sweet egg say inside dismiss outer brass accident add bus hotel";
+var mnemonic = "seed cannon pact cotton staff energy knock garment rack unknown chef notable";

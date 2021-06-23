@@ -1,1 +1,1 @@
-var mnemonic = "dress woman tourist word fix flat rival hour because barely inform urge";
+var mnemonic = "cushion mixture team task quiz insect buzz science thumb warfare trash club";

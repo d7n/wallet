@@ -1,1 +1,1 @@
-var mnemonic = "achieve bargain all motor divide potato tiny year maid lounge language injury";
+var mnemonic = "unlock cheese tiny target void whisper quit author orchard toe surprise door";

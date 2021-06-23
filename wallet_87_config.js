@@ -1,1 +1,1 @@
-var mnemonic = "good extend always orient tonight educate toddler turn jaguar luggage lake spirit";
+var mnemonic = "start view today lyrics paddle relax amused runway hard maze glance accuse";

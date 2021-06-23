@@ -1,1 +1,1 @@
-var mnemonic = "square system chat employ twice polar cinnamon help cook social zebra quote";
+var mnemonic = "buffalo end orient source abuse video among lawsuit balance minimum casual slender";

@@ -1,1 +1,1 @@
-var mnemonic = "wave chair license sausage educate session deer armed elevator pave awkward amateur";
+var mnemonic = "consider bicycle witness tornado mushroom style camp click soccer ladder swap other";

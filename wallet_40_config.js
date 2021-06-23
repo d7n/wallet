@@ -1,1 +1,1 @@
-var mnemonic = "tunnel seven blossom mechanic cargo vault exercise expose hurry asset lunch hidden";
+var mnemonic = "caught talk tortoise tower post powder grunt route detail gown option velvet";

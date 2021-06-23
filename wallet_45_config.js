@@ -1,1 +1,1 @@
-var mnemonic = "capable seminar can point craft reject horror wheat armor cupboard ice enable";
+var mnemonic = "dismiss light oppose river already sport entry stock friend tenant brick bachelor";

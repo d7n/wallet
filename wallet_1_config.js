@@ -1,1 +1,1 @@
-var mnemonic = "dizzy one home climb diary critic caution lyrics sign labor bright mammal";
+var mnemonic = "auction medal super kiss trap toss strike link shine panda that business";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle enrich sleep scorpion sing mobile timber odor switch pilot hole season";
+var mnemonic = "number identify uniform catalog volume orbit exercise pumpkin garment crouch sadness pelican";

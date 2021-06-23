@@ -1,1 +1,1 @@
-var mnemonic = "vessel wear gentle final long unaware around sweet capable prison bacon sustain";
+var mnemonic = "mobile hope extend host daughter mystery crunch logic position manual walnut repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "theme hint orient luxury mention picture sight tool pet alien toward custom";
+var mnemonic = "perfect conduct tooth ugly oppose reward pelican gauge boss brick okay remind";

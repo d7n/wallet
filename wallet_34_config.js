@@ -1,1 +1,1 @@
-var mnemonic = "absurd then grocery menu steak ready soap style gloom dress sauce waste";
+var mnemonic = "alcohol hub enable art announce spray phone hat match scheme armor pistol";

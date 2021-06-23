@@ -1,1 +1,1 @@
-var mnemonic = "destroy deer misery hockey era quote engage mass public vital chronic lottery";
+var mnemonic = "whale soccer spell ivory luggage crawl youth ring page novel fit zone";

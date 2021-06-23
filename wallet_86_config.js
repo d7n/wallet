@@ -1,1 +1,1 @@
-var mnemonic = "pact you sponsor buffalo asset soap dumb speed leave camp entry require";
+var mnemonic = "slice wear actor side purpose refuse assume august soap rotate relax dream";

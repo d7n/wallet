@@ -1,1 +1,1 @@
-var mnemonic = "excite smooth demand illness senior amateur basket stone nuclear robot hospital champion";
+var mnemonic = "point fog soap argue cloud reject local capital force pool fold home";

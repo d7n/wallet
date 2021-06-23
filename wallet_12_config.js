@@ -1,1 +1,1 @@
-var mnemonic = "phone arctic roast above valley mango bicycle repair noodle rural change truck";
+var mnemonic = "decrease fog gun doctor cause chalk glance right swear busy spend already";

@@ -1,1 +1,1 @@
-var mnemonic = "photo panel mail blanket feature cube aunt accuse occur chest fog just";
+var mnemonic = "sudden control accident rude settle chronic weapon talent gesture match spoil flag";

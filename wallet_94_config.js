@@ -1,1 +1,1 @@
-var mnemonic = "public gospel cruel emotion wheat print program sword surprise regular nerve amateur";
+var mnemonic = "wrestle novel setup wave oven drip mention transfer morning sheriff brief hungry";

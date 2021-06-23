@@ -1,1 +1,1 @@
-var mnemonic = "fold flock february extra way bench cinnamon canal caught sun again wrestle";
+var mnemonic = "author giraffe caution little love volcano ozone tray absorb token entry law";

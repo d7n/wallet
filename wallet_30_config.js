@@ -1,1 +1,1 @@
-var mnemonic = "double inflict donate crew hire else rival solar maze collect used fine";
+var mnemonic = "galaxy rich crush various fade surface east episode noodle earth outdoor side";

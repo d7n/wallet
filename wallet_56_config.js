@@ -1,1 +1,1 @@
-var mnemonic = "grab throw knife spice bag coin heavy vanish boy leader must remain";
+var mnemonic = "coconut shock west estate mammal pigeon wait kiwi member vocal relax answer";

@@ -1,1 +1,1 @@
-var mnemonic = "vague frown number lend sting celery honey know net roof spin expose";
+var mnemonic = "install horror warm copper ring raise cute leisure spin indicate best powder";

@@ -1,1 +1,1 @@
-var mnemonic = "struggle gate fortune biology gym august great high pool boy general inmate";
+var mnemonic = "door zero laugh mask current rigid valley lemon vessel between govern forum";
