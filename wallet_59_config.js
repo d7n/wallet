@@ -1,1 +1,1 @@
-var mnemonic = "connect song home famous swarm era solar prosper onion render minor jaguar";
+var mnemonic = "fame fix ancient barrel title chest forest mistake wide art defy wrap";

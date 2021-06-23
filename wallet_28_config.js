@@ -1,1 +1,1 @@
-var mnemonic = "ten plunge mammal raccoon sausage door excite reveal turtle faculty right pelican";
+var mnemonic = "parent drama rough tackle hand struggle coconut emerge meadow trip refuse monkey";

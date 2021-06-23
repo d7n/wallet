@@ -1,1 +1,1 @@
-var mnemonic = "diagram twenty observe gasp border swallow jaguar wonder artefact box clutch cattle";
+var mnemonic = "space split motion time bus robot tank arctic runway alien salute praise";

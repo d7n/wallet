@@ -1,1 +1,1 @@
-var mnemonic = "add tip elephant fan deny father exile atom drop kitchen unfold cattle";
+var mnemonic = "cluster fresh never present maid limb license diet robust whip autumn dash";

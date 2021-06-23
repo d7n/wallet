@@ -1,1 +1,1 @@
-var mnemonic = "tackle proof inquiry swift vault area deliver require leopard series inch income";
+var mnemonic = "ghost receive exotic parade fiber travel issue ski comic obvious brick rather";

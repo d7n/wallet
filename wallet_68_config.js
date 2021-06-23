@@ -1,1 +1,1 @@
-var mnemonic = "infant place window denial mask piano wave deal boil aunt try hen";
+var mnemonic = "grocery hurt charge bottom muscle skate creek finish garlic check boost myth";

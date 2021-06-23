@@ -1,1 +1,1 @@
-var mnemonic = "fiction laptop stay conduct excite seat barrel cable burst ten door mansion";
+var mnemonic = "place luxury apart couch gaze inside organ olive similar achieve pitch runway";

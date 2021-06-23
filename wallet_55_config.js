@@ -1,1 +1,1 @@
-var mnemonic = "stomach empower furnace globe pass bicycle baby drink leaf address peasant shallow";
+var mnemonic = "glove famous yard marble glove primary blind metal banner inflict profit sell";

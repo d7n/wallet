@@ -1,1 +1,1 @@
-var mnemonic = "behave faculty caught rotate hurt nest tank always then lizard shell reopen";
+var mnemonic = "uncle verify drive lyrics trust transfer desert whale cricket then purpose sunny";

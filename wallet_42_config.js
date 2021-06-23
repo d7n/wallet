@@ -1,1 +1,1 @@
-var mnemonic = "fatal ketchup hair burst fit south neutral drive drip gadget fault salad";
+var mnemonic = "hand excess canvas rubber seat design soup guard alter drill pioneer axis";

@@ -1,1 +1,1 @@
-var mnemonic = "good mix very patient piece vicious chicken flame they olive bunker scrap";
+var mnemonic = "seven meat cat grocery surround lobster local emerge camp style cover tip";

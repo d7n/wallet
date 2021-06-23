@@ -1,1 +1,1 @@
-var mnemonic = "file dish shoulder tennis acid release jar promote ceiling gossip govern citizen";
+var mnemonic = "duck brain blade square yard profit burst option legend gossip artist duty";

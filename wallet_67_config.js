@@ -1,1 +1,1 @@
-var mnemonic = "shrug toilet mixture attend parrot little snow borrow toilet protect two across";
+var mnemonic = "oval busy oxygen hockey happy depend slam tray borrow clarify flush trigger";

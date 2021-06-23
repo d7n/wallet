@@ -1,1 +1,1 @@
-var mnemonic = "wife rhythm spin direct cluster state kangaroo hybrid valve future diagram wagon";
+var mnemonic = "cargo custom cat month coast attract monster inform kiss capable gold fold";

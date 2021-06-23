@@ -1,1 +1,1 @@
-var mnemonic = "snack quality devote nature congress digital very base rescue lamp ability hockey";
+var mnemonic = "hawk grid people biology man symbol opera shiver minute observe honey soda";

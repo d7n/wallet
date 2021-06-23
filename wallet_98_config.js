@@ -1,1 +1,1 @@
-var mnemonic = "flower come high august peanut pioneer base snap spawn size answer dignity";
+var mnemonic = "metal today valid toilet creek toe snap rural bench biology faith common";

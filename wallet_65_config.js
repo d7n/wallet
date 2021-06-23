@@ -1,1 +1,1 @@
-var mnemonic = "easily wear walk choice absent fee extra pen jeans echo alien foam";
+var mnemonic = "gentle someone great echo afraid clap light deputy evolve furnace swamp guitar";

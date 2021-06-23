@@ -1,1 +1,1 @@
-var mnemonic = "medal lion appear chapter dinner follow tackle gauge enrich smoke idea brush";
+var mnemonic = "island run lunar gravity knee neck expect slam radio involve elevator despair";

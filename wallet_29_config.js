@@ -1,1 +1,1 @@
-var mnemonic = "face erase note answer jaguar hip report deny since brain sister erode";
+var mnemonic = "response crystal fence leader kick access cruel hungry kick nothing armed current";

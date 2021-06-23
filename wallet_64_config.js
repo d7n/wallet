@@ -1,1 +1,1 @@
-var mnemonic = "base reject lyrics kit bind fuel dust sustain slam sausage dove slice";
+var mnemonic = "cool select script analyst angle father number session roast resource close ceiling";

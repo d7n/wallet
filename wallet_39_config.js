@@ -1,1 +1,1 @@
-var mnemonic = "beach merry abstract dish kind orphan release text chat rescue raven render";
+var mnemonic = "whale crush opinion click inform lounge palm tube tongue river girl unlock";

@@ -1,1 +1,1 @@
-var mnemonic = "cabin drift unveil true antenna vault permit thing cigar hair clerk box";
+var mnemonic = "cabbage blood extend fun cushion final cinnamon glare city venture tank insane";

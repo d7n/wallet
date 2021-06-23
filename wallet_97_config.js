@@ -1,1 +1,1 @@
-var mnemonic = "fiber mandate runway proof claim receive clean lonely there trouble height flame";
+var mnemonic = "output device view settle noise rebuild erosion awake diagram salt super air";

@@ -1,1 +1,1 @@
-var mnemonic = "boost retire drip victory library wheat leg palm six olive attack glide";
+var mnemonic = "style pluck near elbow mirror thunder winner snap when warfare network art";

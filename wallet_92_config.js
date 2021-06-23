@@ -1,1 +1,1 @@
-var mnemonic = "sister pave weird style gain window virus brick ostrich action empty copy";
+var mnemonic = "destroy pool crowd analyst seed sentence diamond stock pilot false area slow";

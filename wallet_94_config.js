@@ -1,1 +1,1 @@
-var mnemonic = "expect history color medal lecture review love abstract thrive edge square ripple";
+var mnemonic = "resist bread suspect bachelor place milk alone brisk hobby jeans work language";

@@ -1,1 +1,1 @@
-var mnemonic = "mention small truth car path exclude rough punch crew electric easily gentle";
+var mnemonic = "adjust vote bind gold involve garage main file chunk oak mean busy";

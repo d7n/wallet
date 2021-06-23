@@ -1,1 +1,1 @@
-var mnemonic = "wet sniff sail lawn impulse fuel try diet drip outdoor caution balcony";
+var mnemonic = "actual honey silent veteran use zoo soap biology lift unaware mosquito joke";

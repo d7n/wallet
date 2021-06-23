@@ -1,1 +1,1 @@
-var mnemonic = "supreme rigid question snow always jaguar injury video canvas captain come flip";
+var mnemonic = "tape seek buzz glare milk sorry mutual pistol age farm priority vote";

@@ -1,1 +1,1 @@
-var mnemonic = "marriage venue village camera raccoon inmate build space alcohol master comfort size";
+var mnemonic = "dirt sudden number climb case faint exact lizard solar faith scheme table";

@@ -1,1 +1,1 @@
-var mnemonic = "staff change diagram outdoor sentence bread math giant level below inmate guess";
+var mnemonic = "satisfy acquire grass rely purchase own mesh dance raw pet danger pond";

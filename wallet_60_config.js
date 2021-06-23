@@ -1,1 +1,1 @@
-var mnemonic = "train smooth tenant flat alarm danger load panic save minute rifle thumb";
+var mnemonic = "ship resist since toss tilt stool cousin order alley drift walk upper";

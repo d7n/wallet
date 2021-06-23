@@ -1,1 +1,1 @@
-var mnemonic = "main song near regular dismiss improve eight barrel phrase chapter example setup";
+var mnemonic = "small note warrior detail enjoy blur report super drip mail tired angry";

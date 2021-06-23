@@ -1,1 +1,1 @@
-var mnemonic = "noble sauce actress aspect soup motor film undo elevator attract mechanic picture";
+var mnemonic = "tent fossil cupboard horse aware country february answer family since cement comic";

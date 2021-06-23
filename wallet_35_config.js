@@ -1,1 +1,1 @@
-var mnemonic = "cross marine feature voyage cactus junk shell merry neck bright north fury";
+var mnemonic = "critic mountain case surround hotel frequent ostrich cage stable minute claw move";

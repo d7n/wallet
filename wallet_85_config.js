@@ -1,1 +1,1 @@
-var mnemonic = "have bind market inquiry cliff parrot item argue girl entry crop demand";
+var mnemonic = "dose crisp spirit seed select true electric nerve theory wagon repair omit";

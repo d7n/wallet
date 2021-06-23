@@ -1,1 +1,1 @@
-var mnemonic = "erosion noble early depth law now stumble mobile before soul snake such";
+var mnemonic = "auction water entire mom tackle wasp music coconut exit tissue wink brick";

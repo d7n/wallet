@@ -1,1 +1,1 @@
-var mnemonic = "wage guard robust palace dinner finger buzz olympic disagree toilet faculty coral";
+var mnemonic = "seek naive appear amused question kitten lonely naive assault year search warrior";

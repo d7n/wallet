@@ -1,1 +1,1 @@
-var mnemonic = "title icon same valid motor pioneer tube face zero receive dolphin hint";
+var mnemonic = "consider warfare dilemma rebuild practice barrel earth birth siren poet october dirt";

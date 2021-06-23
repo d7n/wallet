@@ -1,1 +1,1 @@
-var mnemonic = "glory subject note naive patient about twin athlete salad file demise mixture";
+var mnemonic = "normal aim soon trend panic abandon gaze silent color avoid miss hybrid";

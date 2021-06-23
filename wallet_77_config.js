@@ -1,1 +1,1 @@
-var mnemonic = "armed museum height rival dry inmate stereo there explain gown parade cheese";
+var mnemonic = "cradle unable major hamster forward castle boy surge glow purpose easily trash";

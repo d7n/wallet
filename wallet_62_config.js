@@ -1,1 +1,1 @@
-var mnemonic = "vault sheriff harsh crystal orchard toe between rate focus knee heart desert";
+var mnemonic = "theory chunk suffer squirrel claim guitar army chronic timber crazy day shield";

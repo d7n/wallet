@@ -1,1 +1,1 @@
-var mnemonic = "sight kiwi vote seven valley service champion emerge lazy proof mind marriage";
+var mnemonic = "fit furnace merge rug story half item upset never accuse portion tag";

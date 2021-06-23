@@ -1,1 +1,1 @@
-var mnemonic = "blame expire casual powder column treat rubber volume damp baby laugh art";
+var mnemonic = "length vocal vacuum stumble mandate mother august bright bomb noble essay much";

@@ -1,1 +1,1 @@
-var mnemonic = "magic ancient swear tomorrow soul kiss wheel brief egg genius approve shine";
+var mnemonic = "force athlete enough flame behave bamboo zebra negative poverty add music decide";

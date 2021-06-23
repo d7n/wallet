@@ -1,1 +1,1 @@
-var mnemonic = "success trash fine surface voice evil process weasel effort friend wedding scheme";
+var mnemonic = "collect dentist mistake amateur width advance describe kit nation crew stage review";

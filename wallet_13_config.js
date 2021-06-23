@@ -1,1 +1,1 @@
-var mnemonic = "salt accident busy hand duck soda deliver awful reject wise claim fatigue";
+var mnemonic = "force love evidence night plug ticket leg fame book liberty winner follow";

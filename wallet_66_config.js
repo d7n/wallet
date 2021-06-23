@@ -1,1 +1,1 @@
-var mnemonic = "mistake mountain term quick typical gap early nothing seed home unknown level";
+var mnemonic = "ripple account lazy nerve kid fitness lend runway truck grit custom ensure";

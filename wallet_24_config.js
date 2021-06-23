@@ -1,1 +1,1 @@
-var mnemonic = "photo throw trash chief emerge gentle goose wood remind marine strike music";
+var mnemonic = "gift shadow someone bullet wedding salad void carbon tell maximum truth taxi";

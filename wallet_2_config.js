@@ -1,1 +1,1 @@
-var mnemonic = "stage syrup turtle believe hurt gas twenty hold trade horn tiny little";
+var mnemonic = "tornado roof switch spray evil cage anchor accident segment noble emotion need";

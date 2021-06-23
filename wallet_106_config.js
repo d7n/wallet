@@ -1,1 +1,1 @@
-var mnemonic = "guard twist forward cash elephant domain brick recipe hockey okay tree run";
+var mnemonic = "juice rate human habit novel employ round allow again misery drip very";

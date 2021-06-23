@@ -1,1 +1,1 @@
-var mnemonic = "entry erosion brave arctic cloud hope prefer blush spatial trim uncover decrease";
+var mnemonic = "arch surface orange ranch ignore name hidden casual brave mandate when call";

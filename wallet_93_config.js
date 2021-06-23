@@ -1,1 +1,1 @@
-var mnemonic = "dose address donor bitter ozone fee main fly ask guard matrix garment";
+var mnemonic = "honey magnet shrimp excuse absorb next aware bounce dance box ill wood";

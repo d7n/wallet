@@ -1,1 +1,1 @@
-var mnemonic = "poem sun half bottom round tornado differ army gravity ecology axis client";
+var mnemonic = "guess film federal cover lemon alley damage shallow client zoo crawl dust";

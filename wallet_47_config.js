@@ -1,1 +1,1 @@
-var mnemonic = "blossom popular mandate pulse science mule iron advance awkward disagree vocal paddle";
+var mnemonic = "erosion seminar oven cable valley artist title solar honey struggle defy trash";

@@ -1,1 +1,1 @@
-var mnemonic = "bird cancel scare master balance custom unfold father merry disorder joke girl";
+var mnemonic = "elbow enter spray cover fee measure occur chalk refuse vibrant lucky label";

@@ -1,1 +1,1 @@
-var mnemonic = "action repair bridge exchange sock radio attack island believe human rabbit supreme";
+var mnemonic = "buzz long risk fever nice valve carry minute patrol prosper youth tumble";

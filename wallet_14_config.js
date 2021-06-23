@@ -1,1 +1,1 @@
-var mnemonic = "exit caution pair movie belt giant country grow column riot shallow tuna";
+var mnemonic = "surround vital occur gate load total lizard chimney matrix shuffle rude mesh";

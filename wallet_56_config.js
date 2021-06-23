@@ -1,1 +1,1 @@
-var mnemonic = "oven must holiday found gown scan clay color maximum school innocent boil";
+var mnemonic = "knock bone net creek medal gadget hedgehog fix cliff supply cost quick";

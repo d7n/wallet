@@ -1,1 +1,1 @@
-var mnemonic = "message will spare day scrub quote cousin magic allow text school artist";
+var mnemonic = "small stairs barrel enable pizza drop clock truth okay example figure vacant";

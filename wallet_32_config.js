@@ -1,1 +1,1 @@
-var mnemonic = "leisure brown decrease aerobic eyebrow parent episode forget honey unfold goat dynamic";
+var mnemonic = "weather sausage public shiver dignity clump oak narrow student market valley slogan";

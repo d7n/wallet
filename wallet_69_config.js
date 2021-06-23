@@ -1,1 +1,1 @@
-var mnemonic = "age hawk please ugly game protect forest claw animal wrap radar isolate";
+var mnemonic = "jelly genre brother second spike bright happy reject like priority struggle pole";

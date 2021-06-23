@@ -1,1 +1,1 @@
-var mnemonic = "elite treat brain file teach pottery brick slot lens develop beef route";
+var mnemonic = "sweet stool explain hold program shoot today trumpet produce umbrella filter series";

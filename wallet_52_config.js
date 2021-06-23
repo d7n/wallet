@@ -1,1 +1,1 @@
-var mnemonic = "cave anxiety board minor ribbon glimpse polar squeeze notable avocado release face";
+var mnemonic = "secret today december crucial rough happy series patient title bag entry draw";

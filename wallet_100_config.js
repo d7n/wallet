@@ -1,1 +1,1 @@
-var mnemonic = "canal denial chimney friend asthma toddler slogan sand fix level oval digital";
+var mnemonic = "mind ten injury cargo drama negative couch social recall eye material festival";

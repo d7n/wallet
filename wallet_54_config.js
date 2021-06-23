@@ -1,1 +1,1 @@
-var mnemonic = "outdoor saddle unveil arena field pudding hello comic accuse thank another rally";
+var mnemonic = "leg elbow grunt pass hidden sting benefit jaguar rubber guide obtain surprise";

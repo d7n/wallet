@@ -1,1 +1,1 @@
-var mnemonic = "pill tragic mad client entire flat clap put junk clock obey hollow";
+var mnemonic = "play banana foster labor october ribbon federal zero idle certain sun caught";

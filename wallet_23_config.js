@@ -1,1 +1,1 @@
-var mnemonic = "behind ring trend merge flight like mistake balcony green turkey doctor people";
+var mnemonic = "flee arrow dynamic deposit hurdle asthma equip fringe skirt page stem basic";

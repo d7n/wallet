@@ -1,1 +1,1 @@
-var mnemonic = "dawn liquid cactus excite peace moral height fun fury host rule draw";
+var mnemonic = "diary whale phone crater tooth sing wage mansion need caution glass system";

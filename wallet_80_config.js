@@ -1,1 +1,1 @@
-var mnemonic = "cancel beyond family bike horse alcohol clutch bargain bean enact buzz solve";
+var mnemonic = "strike job buffalo shaft ancient supply left border attend real first depend";

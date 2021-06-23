@@ -1,1 +1,1 @@
-var mnemonic = "noise match color bracket blue lobster emotion family curve modify wife pass";
+var mnemonic = "village prefer boy ramp kitchen blanket half slice skate elephant announce giant";

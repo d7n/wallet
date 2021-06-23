@@ -1,1 +1,1 @@
-var mnemonic = "tent cotton luxury way battle carry rifle melody tank layer ozone install";
+var mnemonic = "message gain invest anxiety item nuclear cruise vendor glow buyer dragon domain";

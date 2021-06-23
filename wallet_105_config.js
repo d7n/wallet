@@ -1,1 +1,1 @@
-var mnemonic = "crew grid mesh maze marine cattle run vintage luxury improve start agree";
+var mnemonic = "clip spike salon pigeon forum common cabin ivory car still cotton liberty";

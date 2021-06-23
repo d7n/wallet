@@ -1,1 +1,1 @@
-var mnemonic = "lens genuine whisper chat cage trigger pluck click rotate sight manual zone";
+var mnemonic = "cupboard sheriff reject orange egg rookie kitchen nurse small team screen pretty";

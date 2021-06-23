@@ -1,1 +1,1 @@
-var mnemonic = "little just crumble hope melt dice draft iron student orchard obvious shine";
+var mnemonic = "shadow pony exhibit gallery exist uniform man observe sugar invest creek swamp";

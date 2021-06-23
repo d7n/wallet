@@ -1,1 +1,1 @@
-var mnemonic = "hobby original mask grow wagon cart attract bargain bind illegal vivid frequent";
+var mnemonic = "lemon else margin suggest cash bargain hill ranch gap maid lobster travel";

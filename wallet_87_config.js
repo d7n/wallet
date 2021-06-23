@@ -1,1 +1,1 @@
-var mnemonic = "decade blast dream reduce laugh weasel quote own wait shrug aware congress";
+var mnemonic = "record sausage winner flash slush axis very cliff motion field home scrap";

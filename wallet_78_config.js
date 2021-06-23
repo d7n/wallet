@@ -1,1 +1,1 @@
-var mnemonic = "wait beach find trim clarify burden together shallow rhythm exhaust cabbage wash";
+var mnemonic = "interest cargo catch dune pill taxi square differ grocery brass turn awkward";

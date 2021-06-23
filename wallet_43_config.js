@@ -1,1 +1,1 @@
-var mnemonic = "soup oak obey bird almost spoil prefer shy nose capable original wedding";
+var mnemonic = "act bunker region satisfy roof swim used ethics joy rain add dynamic";

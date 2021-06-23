@@ -1,1 +1,1 @@
-var mnemonic = "judge night tree announce travel bottom gaze banana city notice vacant acoustic";
+var mnemonic = "enjoy doll phrase kingdom jazz grief shoulder comic pink board error benefit";

@@ -1,1 +1,1 @@
-var mnemonic = "artefact drastic minimum crumble pioneer fiction snap yellow dream review comic earn";
+var mnemonic = "whip expose either dial tell agent shuffle hedgehog day gaze occur scheme";

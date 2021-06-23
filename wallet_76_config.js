@@ -1,1 +1,1 @@
-var mnemonic = "earn glory differ hungry tenant edge flavor athlete truck suspect mule upon";
+var mnemonic = "only exhibit surprise space monster please lend rare charge immune change announce";

@@ -1,1 +1,1 @@
-var mnemonic = "artist rigid journey capital follow rug shock crouch enemy unit moon usual";
+var mnemonic = "lend exclude approve empower topic search liberty frozen cinnamon speak blood promote";

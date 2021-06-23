@@ -1,1 +1,1 @@
-var mnemonic = "merry catch army major multiply recycle climb shield survey wrist balcony advice";
+var mnemonic = "talent sign shield produce interest gate paddle whale cube stereo shoulder useless";

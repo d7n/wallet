@@ -1,1 +1,1 @@
-var mnemonic = "approve crumble raven life cradle oil front milk box fresh moment immense";
+var mnemonic = "fun food spoil divorce sentence soda avoid donate fringe tunnel smoke pledge";
