@@ -1,1 +1,1 @@
-var mnemonic = "fury release must afraid focus tongue worth hint beach fault achieve harbor";
+var mnemonic = "science nurse junior bargain typical february case gate great upon injury pool";

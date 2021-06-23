@@ -1,1 +1,1 @@
-var mnemonic = "suspect canvas phrase sorry virtual surge chicken absent elephant hand area evolve";
+var mnemonic = "carbon cactus monkey barrel vapor physical kite soul choice obey audit giraffe";

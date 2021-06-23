@@ -1,1 +1,1 @@
-var mnemonic = "apple benefit doctor truth dinner design dune audit gas merit sweet flash";
+var mnemonic = "course island sea food save secret mercy cricket average improve cram head";

@@ -1,1 +1,1 @@
-var mnemonic = "foot veteran venture fog school model art keep dirt wide hair group";
+var mnemonic = "inform merit sell valley congress lottery faint one insane agent come lobster";

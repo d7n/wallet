@@ -1,1 +1,1 @@
-var mnemonic = "thought decline neglect insane ceiling wrong toast long huge citizen tunnel leisure";
+var mnemonic = "jaguar thought prison post shallow color medal detail resource welcome above sure";

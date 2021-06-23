@@ -1,1 +1,1 @@
-var mnemonic = "demand course radar agent shallow isolate water spoil choose process glove office";
+var mnemonic = "album easy luxury stand trash into blue main survey nurse oyster cabbage";

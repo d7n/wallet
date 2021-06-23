@@ -1,1 +1,1 @@
-var mnemonic = "relax stairs setup ugly couple bundle early valid card congress liar kidney";
+var mnemonic = "crime often dust pigeon ignore crush topic income metal hurry maple world";

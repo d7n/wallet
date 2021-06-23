@@ -1,1 +1,1 @@
-var mnemonic = "diagram layer sword laugh express remain ski laugh tuition ivory kit glue";
+var mnemonic = "path document stamp bag music silent traffic matter retreat keen refuse ghost";

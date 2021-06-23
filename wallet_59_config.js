@@ -1,1 +1,1 @@
-var mnemonic = "glue brass seven state smoke feature subway black exchange kiss pupil sad";
+var mnemonic = "actress cattle degree famous siren craft shock oblige flag usual amused episode";

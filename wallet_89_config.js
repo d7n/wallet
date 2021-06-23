@@ -1,1 +1,1 @@
-var mnemonic = "secret toast over length essay addict chat earn congress since meadow gaze";
+var mnemonic = "resource machine marble witness replace impact olympic bar labor steak panda grit";

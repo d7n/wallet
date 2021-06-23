@@ -1,1 +1,1 @@
-var mnemonic = "regular add broccoli artefact time grant short dad tilt foil merit enhance";
+var mnemonic = "enforce staff same kite general bright average calm chapter capital course federal";

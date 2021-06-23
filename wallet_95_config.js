@@ -1,1 +1,1 @@
-var mnemonic = "person garbage illness siren duty ahead junk voyage suit keen plunge gun";
+var mnemonic = "effort soda baby spread base disorder include distance cherry make valid dad";

@@ -1,1 +1,1 @@
-var mnemonic = "elegant busy wedding season result pyramid eyebrow ramp shaft juice crop wagon";
+var mnemonic = "measure wild rebel green firm problem act tiny basic relief slush inhale";

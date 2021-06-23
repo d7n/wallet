@@ -1,1 +1,1 @@
-var mnemonic = "jealous laugh capital casual toy can offer minute wise peanut fossil carry";
+var mnemonic = "scrap loan day invite hill stable scrub used victory notice ring cook";

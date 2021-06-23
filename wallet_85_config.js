@@ -1,1 +1,1 @@
-var mnemonic = "horse shift soldier join kiss naive pony evolve toilet lazy beef fragile";
+var mnemonic = "pool shift approve party bamboo weather bracket garbage six west neither whale";

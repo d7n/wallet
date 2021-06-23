@@ -1,1 +1,1 @@
-var mnemonic = "topple cook sauce science pencil permit girl phrase copper case effort habit";
+var mnemonic = "final electric slim faculty entire lemon domain bounce appear earn fiscal comfort";

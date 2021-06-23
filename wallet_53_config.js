@@ -1,1 +1,1 @@
-var mnemonic = "reopen top harsh toast alley duck patrol couch simple analyst field sleep";
+var mnemonic = "glimpse reform major harbor unknown square alley cannon draft assume olympic renew";

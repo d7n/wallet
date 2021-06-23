@@ -1,1 +1,1 @@
-var mnemonic = "rubber casual already toast slow release bid fix dentist elephant arctic wall";
+var mnemonic = "midnight suit dumb matrix cute there wet mask robust punch winner evil";

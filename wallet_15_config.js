@@ -1,1 +1,1 @@
-var mnemonic = "sell reflect want scrap pretty tribe suffer tiger march frost hero pigeon";
+var mnemonic = "chest dentist deal accuse universe enhance bread predict edge require doll improve";

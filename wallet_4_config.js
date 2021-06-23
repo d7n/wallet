@@ -1,1 +1,1 @@
-var mnemonic = "gasp around noodle grief latin uphold syrup region feed dilemma leisure stool";
+var mnemonic = "measure miracle simple timber surface search flock fever man sand excuse pumpkin";

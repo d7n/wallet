@@ -1,1 +1,1 @@
-var mnemonic = "age tooth rigid connect clean patient mask among bomb moral much position";
+var mnemonic = "shove alien hotel enrich private sponsor typical cabin beauty cruise fury total";

@@ -1,1 +1,1 @@
-var mnemonic = "bottom record nurse medal eager diamond test crash bar shy aim picture";
+var mnemonic = "engine hat ancient scout wagon february spy vintage mixture clinic supreme cement";

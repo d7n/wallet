@@ -1,1 +1,1 @@
-var mnemonic = "tide entire become ancient outdoor stand slender reduce ginger crawl coast pact";
+var mnemonic = "inject hobby surprise gown liquid act vanish hill burst west heart crouch";

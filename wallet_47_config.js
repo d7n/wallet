@@ -1,1 +1,1 @@
-var mnemonic = "toilet sausage index skate wire have park mango search approve raw inside";
+var mnemonic = "angry hospital laugh tail twelve ketchup into erosion culture lazy dove toilet";

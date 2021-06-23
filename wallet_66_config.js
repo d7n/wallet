@@ -1,1 +1,1 @@
-var mnemonic = "worth hold gravity inmate discover meat weird add charge record quiz car";
+var mnemonic = "useful island modify state dumb cloth leaf frost pink tenant equal extend";

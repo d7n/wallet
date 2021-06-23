@@ -1,1 +1,1 @@
-var mnemonic = "enlist bitter trade cactus dinosaur party divorce august market gallery chaos drama";
+var mnemonic = "swap grain pluck three decline then recipe memory soap clap version upset";

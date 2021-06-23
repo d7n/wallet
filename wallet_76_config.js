@@ -1,1 +1,1 @@
-var mnemonic = "upgrade nation twin harbor coral capable few alarm smart measure fashion seminar";
+var mnemonic = "arctic verify omit glory fox job mirror laundry galaxy web dawn march";

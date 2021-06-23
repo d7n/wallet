@@ -1,1 +1,1 @@
-var mnemonic = "broom category sketch belt celery atom scatter loan special catalog sister fold";
+var mnemonic = "ring once wire army genuine liquid wool pet nest turn gas cover";

@@ -1,1 +1,1 @@
-var mnemonic = "achieve sunset album such soon embrace crucial help clap exercise type pony";
+var mnemonic = "pupil unaware artefact puzzle shock tornado vehicle become pink fish ritual wish";

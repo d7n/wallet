@@ -1,1 +1,1 @@
-var mnemonic = "actress exclude gain timber sunny erosion soon random total good strike equip";
+var mnemonic = "cave raise devote half turtle stove inner cost apology donor quantum reduce";

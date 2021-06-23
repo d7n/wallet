@@ -1,1 +1,1 @@
-var mnemonic = "dog season wise pattern carry december piano describe draft paddle arctic coin";
+var mnemonic = "heavy boring plunge quick ceiling radio dinosaur law bunker derive very tool";

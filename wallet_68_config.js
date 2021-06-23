@@ -1,1 +1,1 @@
-var mnemonic = "purpose spirit tuition bread nest festival busy net staff sudden crew december";
+var mnemonic = "decide village egg answer blood crisp collect supply mad host below market";

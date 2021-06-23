@@ -1,1 +1,1 @@
-var mnemonic = "focus tenant unknown improve organ rebel gadget claim fury body art father";
+var mnemonic = "okay earth jealous game craft tissue scrub example venture smile orphan option";

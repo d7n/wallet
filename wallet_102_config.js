@@ -1,1 +1,1 @@
-var mnemonic = "amused resemble visit valve chapter birth mask clean senior solution blue police";
+var mnemonic = "pilot forget require upon gossip wide fabric easy foam canvas empower manual";

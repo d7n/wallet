@@ -1,1 +1,1 @@
-var mnemonic = "pretty observe define develop woman width cliff load execute frown angry try";
+var mnemonic = "explain arctic hawk snake cube north anger churn feature average cram indoor";

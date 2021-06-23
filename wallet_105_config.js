@@ -1,1 +1,1 @@
-var mnemonic = "dirt today nuclear erupt wire clown supreme arm save fabric clay enable";
+var mnemonic = "balcony service foster shy awesome only lobster churn emotion eternal cabin veteran";

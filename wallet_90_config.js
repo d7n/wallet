@@ -1,1 +1,1 @@
-var mnemonic = "asset guard ripple write oil arch arrive book august elbow flat accident";
+var mnemonic = "caught social captain able soul spoon speed sunny surface dinner derive absent";

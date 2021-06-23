@@ -1,1 +1,1 @@
-var mnemonic = "harbor noodle mail measure layer purse asthma rubber door hungry thank cry";
+var mnemonic = "response buyer attend dutch orange music live beyond piece stone tuna embark";

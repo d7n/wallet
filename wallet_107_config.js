@@ -1,1 +1,1 @@
-var mnemonic = "multiply category online royal picture topple feature slender empower coconut couple message";
+var mnemonic = "destroy victory endorse believe bind blade teach erase purse around useless guide";

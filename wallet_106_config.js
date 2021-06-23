@@ -1,1 +1,1 @@
-var mnemonic = "long allow bench helmet deny system cage december wish pitch mad valve";
+var mnemonic = "coin unique vault sugar oyster invite elite hockey hat visit code river";

@@ -1,1 +1,1 @@
-var mnemonic = "mistake series outdoor stomach ensure deal tool wasp picnic strong glance arrange";
+var mnemonic = "dumb live direct rug panic safe sense pipe deputy orphan staff warrior";

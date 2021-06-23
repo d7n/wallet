@@ -1,1 +1,1 @@
-var mnemonic = "situate entire apology armor bid spike amazing stamp lunar just liberty manage";
+var mnemonic = "become hurt drink shock spend moment jazz wage dragon habit burden novel";

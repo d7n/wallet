@@ -1,1 +1,1 @@
-var mnemonic = "ordinary iron decrease wine dinosaur alert surge little practice sell segment timber";
+var mnemonic = "sadness survey include network pepper buyer early modify finger grain knife liberty";

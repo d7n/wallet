@@ -1,1 +1,1 @@
-var mnemonic = "chaos boil there stick filter unlock swamp assume hidden ghost cup frame";
+var mnemonic = "motor include meadow domain real finish jar famous bacon soul ridge hollow";

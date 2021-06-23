@@ -1,1 +1,1 @@
-var mnemonic = "ecology excite sadness quit child answer love chicken inhale lesson behind together";
+var mnemonic = "cage tooth end report shield goose train sea napkin donor sing wool";

@@ -1,1 +1,1 @@
-var mnemonic = "abandon must sponsor mask dirt animal soon mass clever hunt stuff dance";
+var mnemonic = "omit anxiety uncover leg later input faith frog cube gentle spy off";

@@ -1,1 +1,1 @@
-var mnemonic = "still forest unaware help try economy normal recall upgrade prison debate school";
+var mnemonic = "short promote frown drift glory enlist push shoe scrub ugly cry mad";

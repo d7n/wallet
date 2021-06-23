@@ -1,1 +1,1 @@
-var mnemonic = "primary word timber car shadow holiday trick like dolphin list tomato click";
+var mnemonic = "hotel debate aunt girl exercise dune blue neck dad sorry demise pattern";

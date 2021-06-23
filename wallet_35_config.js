@@ -1,1 +1,1 @@
-var mnemonic = "believe motor online suit bunker town error unable genius ring rookie great";
+var mnemonic = "topple rival giraffe believe mom refuse better host acquire spirit whip card";

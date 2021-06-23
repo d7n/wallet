@@ -1,1 +1,1 @@
-var mnemonic = "pizza wait alley silver february human never fancy script fringe narrow sense";
+var mnemonic = "host warfare cash bone visual poem alarm trick concert cloud climb unaware";

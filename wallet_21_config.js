@@ -1,1 +1,1 @@
-var mnemonic = "merge raise bulk now jazz evidence carbon chief hotel flash walnut quarter";
+var mnemonic = "drip girl donkey economy zero rice assault auto limit situate child milk";

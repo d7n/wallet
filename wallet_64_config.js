@@ -1,1 +1,1 @@
-var mnemonic = "tortoise forest hawk permit jungle else slender viable bronze luxury rule loyal";
+var mnemonic = "heavy woman term ocean pluck rich crumble nurse glory catch damage lizard";

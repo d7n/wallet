@@ -1,1 +1,1 @@
-var mnemonic = "august sort antique cinnamon brave cram seek razor history major depend audit";
+var mnemonic = "forward weather blur naive unusual pumpkin tool section also mask unusual hand";

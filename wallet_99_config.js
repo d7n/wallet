@@ -1,1 +1,1 @@
-var mnemonic = "crush quiz manual work scan awkward innocent shop wagon wrist force safe";
+var mnemonic = "curtain crumble song option multiply device rule quit enlist awesome evoke tortoise";

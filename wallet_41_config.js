@@ -1,1 +1,1 @@
-var mnemonic = "leave hat boss join kit say gap float mammal include refuse churn";
+var mnemonic = "fault degree sibling detail rice pretty save oyster upper forum neck flock";

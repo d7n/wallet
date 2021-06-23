@@ -1,1 +1,1 @@
-var mnemonic = "elegant lock broccoli lunch slim alter afford machine tilt awesome end kiwi";
+var mnemonic = "area maximum broccoli movie seminar congress kiss public differ pupil resource thrive";

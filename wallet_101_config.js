@@ -1,1 +1,1 @@
-var mnemonic = "congress hawk scare copy curious couple best crack common select kite method";
+var mnemonic = "across way cupboard feed critic cigar meadow quit point wash once icon";

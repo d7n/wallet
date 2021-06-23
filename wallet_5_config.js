@@ -1,1 +1,1 @@
-var mnemonic = "barely news average visit thrive sign play reduce quiz travel sudden glow";
+var mnemonic = "mule sponsor slice green nominee that radar happy orchard social aisle width";

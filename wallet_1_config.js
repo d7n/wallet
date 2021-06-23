@@ -1,1 +1,1 @@
-var mnemonic = "plug file harsh mimic chat merit bounce first member scan figure mandate";
+var mnemonic = "reject method artwork drama code purity video vicious better jump swamp wreck";

@@ -1,1 +1,1 @@
-var mnemonic = "view stool minor help dad roast arrow topple return shift sword elder";
+var mnemonic = "wave beef crisp federal total rule during ranch minute once vague add";

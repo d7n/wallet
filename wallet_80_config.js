@@ -1,1 +1,1 @@
-var mnemonic = "velvet venue short embrace scale they elevator rent town diet hint ticket";
+var mnemonic = "discover kitten assume drink super obtain gasp diagram artefact lunch sheriff like";

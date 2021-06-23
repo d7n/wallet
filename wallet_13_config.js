@@ -1,1 +1,1 @@
-var mnemonic = "belt bicycle essay item young mom game skirt promote over sweet kiss";
+var mnemonic = "build member mean taste you correct nice busy popular bright sell vicious";

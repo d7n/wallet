@@ -1,1 +1,1 @@
-var mnemonic = "share element obvious thumb height orbit bind slush tank panther wild dilemma";
+var mnemonic = "hub boil earn artist cram prepare reflect ordinary napkin cradle cradle move";

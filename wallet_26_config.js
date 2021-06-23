@@ -1,1 +1,1 @@
-var mnemonic = "afford rail trigger brain minor hard truck much dirt tell road infant";
+var mnemonic = "keen album make choose curtain riot nominee empower audit absorb ecology company";

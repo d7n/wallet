@@ -1,1 +1,1 @@
-var mnemonic = "clerk ahead magnet junior mix tag session pill much jelly supply blood";
+var mnemonic = "one mimic fork pink benefit upon advance oyster palace empower point inside";

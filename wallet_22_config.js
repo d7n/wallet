@@ -1,1 +1,1 @@
-var mnemonic = "among tomato guitar electric lonely mansion assist shoe wheat blind cricket human";
+var mnemonic = "remind clerk tiny flee boring source blood mixture hockey trigger voyage diamond";

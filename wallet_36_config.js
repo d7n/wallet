@@ -1,1 +1,1 @@
-var mnemonic = "oblige fame ahead oxygen nerve fame deal demand theory sign idle swim";
+var mnemonic = "ticket laugh finish sick arrest chuckle drink post action visa diagram demise";

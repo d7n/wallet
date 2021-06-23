@@ -1,1 +1,1 @@
-var mnemonic = "design attend since inner escape envelope lake float dignity morning gate fashion";
+var mnemonic = "unlock embrace potato expose abuse drastic scheme today net juice purity attack";

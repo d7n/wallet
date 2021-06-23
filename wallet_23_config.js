@@ -1,1 +1,1 @@
-var mnemonic = "trial appear hurdle emotion card protect crunch ensure increase oblige famous physical";
+var mnemonic = "crack squeeze dismiss task october repeat put engage bring miss umbrella harsh";

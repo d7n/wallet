@@ -1,1 +1,1 @@
-var mnemonic = "hip false spring robust tooth install lobster smooth into price street invest";
+var mnemonic = "used almost boat solar bracket couch despair hazard potato talent trigger modify";

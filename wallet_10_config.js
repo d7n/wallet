@@ -1,1 +1,1 @@
-var mnemonic = "core merit ring glove pigeon parent address faculty hollow feel monkey exhaust";
+var mnemonic = "glow exhibit inspire dress champion million expose north tone attitude recall rebel";

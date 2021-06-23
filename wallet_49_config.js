@@ -1,1 +1,1 @@
-var mnemonic = "grace attitude agree razor popular doctor surprise logic robust life uniform leg";
+var mnemonic = "act primary jar that logic require tissue hood oyster combine iron poem";

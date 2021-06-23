@@ -1,1 +1,1 @@
-var mnemonic = "decorate then leisure toast snow ivory noble canal panther borrow elder walnut";
+var mnemonic = "unveil trip banana audit artist solution chase position private talent client smile";

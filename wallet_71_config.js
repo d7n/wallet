@@ -1,1 +1,1 @@
-var mnemonic = "guide please head result sing dumb tube jungle forget family slam start";
+var mnemonic = "miss mandate apart merry move deny wide mansion bicycle order come height";

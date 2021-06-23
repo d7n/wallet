@@ -1,1 +1,1 @@
-var mnemonic = "make lava rifle brick laugh exit clever educate spatial vibrant elder cactus";
+var mnemonic = "mule guide hour garbage dizzy supply near balcony monitor review view element";

@@ -1,1 +1,1 @@
-var mnemonic = "eternal february desk chalk project document puzzle assault monitor melody walnut actress";
+var mnemonic = "melody phone express daughter invite art ocean arrange drop embark just rally";

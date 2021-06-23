@@ -1,1 +1,1 @@
-var mnemonic = "depend pill kick lab pause donate never tiny truth peasant also control";
+var mnemonic = "stone warfare write tail differ antenna deer tattoo oyster broom brisk cross";

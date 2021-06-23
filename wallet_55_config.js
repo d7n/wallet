@@ -1,1 +1,1 @@
-var mnemonic = "swarm crush ordinary science defense author shrug tuna brain winner latin sing";
+var mnemonic = "august battle jump whip wisdom pretty purse inject client pact fox ill";

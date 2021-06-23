@@ -1,1 +1,1 @@
-var mnemonic = "speed novel frown media smile either jeans wing culture witness earn please";
+var mnemonic = "volcano column tell pond access gravity cupboard under adjust add bomb jealous";

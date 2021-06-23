@@ -1,1 +1,1 @@
-var mnemonic = "song age again track capital struggle feature maximum sport result renew flash";
+var mnemonic = "want attract differ sauce cancel alone entire bounce bonus bean describe boil";

@@ -1,1 +1,1 @@
-var mnemonic = "enlist sword grief agree scissors gloom choice polar stool nest snow normal";
+var mnemonic = "diesel verify fire cash inform rude law gown crash sort pond retire";

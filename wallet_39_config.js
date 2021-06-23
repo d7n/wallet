@@ -1,1 +1,1 @@
-var mnemonic = "sad tray flower snap symptom cattle claw purse soap oxygen detail ridge";
+var mnemonic = "soup audit carry canvas gain page kit envelope ostrich combine laundry file";

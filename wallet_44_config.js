@@ -1,1 +1,1 @@
-var mnemonic = "cake blush find spare cherry puppy injury first above marine expect solar";
+var mnemonic = "behave scale swim fly horror celery brave pudding better paper judge travel";

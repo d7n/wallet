@@ -1,1 +1,1 @@
-var mnemonic = "goose follow time rival convince certain parrot organ baby patrol pilot art";
+var mnemonic = "husband uniform ensure elite pattern license title render fashion narrow matter topic";

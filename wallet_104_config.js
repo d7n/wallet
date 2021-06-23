@@ -1,1 +1,1 @@
-var mnemonic = "slender usage thought capital repeat grace ginger gap marriage canoe buddy key";
+var mnemonic = "nature frost faculty earn pave hobby much spatial edit photo execute solid";

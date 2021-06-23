@@ -1,1 +1,1 @@
-var mnemonic = "buddy rough thrive donor toilet hybrid island idle grant confirm parent vivid";
+var mnemonic = "feel cargo muffin surprise battle butter habit federal claw spice meat upper";

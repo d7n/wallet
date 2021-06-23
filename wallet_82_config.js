@@ -1,1 +1,1 @@
-var mnemonic = "picnic teach latin flock force delay fan lab cycle olive whale stock";
+var mnemonic = "mirror enact hospital enlist measure fine climb feel jungle tonight swamp advance";

@@ -1,1 +1,1 @@
-var mnemonic = "hold siege endorse finish never ceiling visual feature abandon pudding black devote";
+var mnemonic = "save guilt useful boring shy muffin wealth smile thought oak plug number";

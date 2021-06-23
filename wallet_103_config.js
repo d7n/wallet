@@ -1,1 +1,1 @@
-var mnemonic = "cactus cherry confirm food west worth surge flame route food trophy acoustic";
+var mnemonic = "okay team snack identify task eternal prefer grocery ghost scrub shy engine";

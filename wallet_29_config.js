@@ -1,1 +1,1 @@
-var mnemonic = "indoor issue client pig ice again autumn inject public essence gorilla hold";
+var mnemonic = "you young cabin cart life donor tuna guilt effort odor call sauce";

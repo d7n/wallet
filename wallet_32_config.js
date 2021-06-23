@@ -1,1 +1,1 @@
-var mnemonic = "force ceiling muscle example tooth typical blouse bracket sail emerge doll agent";
+var mnemonic = "frost crane local increase loud deny hub step cat target point logic";

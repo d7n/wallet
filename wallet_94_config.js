@@ -1,1 +1,1 @@
-var mnemonic = "approve squeeze test immense affair dog eagle purpose increase suffer faculty limb";
+var mnemonic = "humor wire bridge better flee system wave ahead skin choose menu slush";

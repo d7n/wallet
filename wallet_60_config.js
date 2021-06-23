@@ -1,1 +1,1 @@
-var mnemonic = "problem cherry upon clap hero myth rookie input destroy various glare inject";
+var mnemonic = "oil humor car jar build unlock drastic horror network minute essay chaos";
