@@ -1,1 +1,1 @@
-var mnemonic = "consider sniff loud audit satisfy aspect shed bridge route actor sword shrimp";
+var mnemonic = "explain small twenty payment defense credit volcano possible gallery celery park amused";

@@ -1,1 +1,1 @@
-var mnemonic = "antique okay route brief supreme load chase divert mom enrich favorite tuition";
+var mnemonic = "seed oven wage blossom smile pizza loop pilot coral include cigar juice";

@@ -1,1 +1,1 @@
-var mnemonic = "heart pond injury lunch skull abuse useless struggle tip network museum solid";
+var mnemonic = "few breeze fiction shift fault cattle learn upgrade fringe stock tomato pole";

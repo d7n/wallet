@@ -1,1 +1,1 @@
-var mnemonic = "fame blame unit reunion vanish emerge behind address left carbon range weasel";
+var mnemonic = "lock have hurry either dirt supreme grief two truth clean minimum crouch";

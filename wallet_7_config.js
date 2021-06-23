@@ -1,1 +1,1 @@
-var mnemonic = "quarter fetch family absent animal aspect trade desk extra ivory notice unusual";
+var mnemonic = "edge check catalog donor punch tribe unusual chicken roast endless almost grain";

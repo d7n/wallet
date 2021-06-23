@@ -1,1 +1,1 @@
-var mnemonic = "atom column response mail disease salad knife cat holiday share neglect flip";
+var mnemonic = "food sail want spoon afraid retire ride song ice text torch fun";

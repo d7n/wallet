@@ -1,1 +1,1 @@
-var mnemonic = "horror awkward finger federal order embody tip donate idle parade faculty maid";
+var mnemonic = "ability palm dad ill ostrich account sea gravity secret buddy canyon figure";

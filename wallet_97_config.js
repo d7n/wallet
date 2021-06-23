@@ -1,1 +1,1 @@
-var mnemonic = "kind wool essence dog armor give reform pumpkin fuel one mixture start";
+var mnemonic = "garment catalog blast check order nasty push shaft point peanut retreat version";

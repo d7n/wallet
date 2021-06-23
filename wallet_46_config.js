@@ -1,1 +1,1 @@
-var mnemonic = "priority edit must then chronic year tomato repair first syrup hurdle fetch";
+var mnemonic = "govern latin naive immense more anger exercise unique dawn trial identify purity";

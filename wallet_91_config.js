@@ -1,1 +1,1 @@
-var mnemonic = "mouse short cat used scale face load rally observe original neglect amused";
+var mnemonic = "near physical reduce work dilemma cat east glove hub cupboard witness write";

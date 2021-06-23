@@ -1,1 +1,1 @@
-var mnemonic = "december pair clay title system lunch insane laundry regular shaft anchor erosion";
+var mnemonic = "crater lens cloth robust beef opera bonus orbit doll earth siren half";

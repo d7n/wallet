@@ -1,1 +1,1 @@
-var mnemonic = "fit champion sleep before prize galaxy visit grow father submit yellow tonight";
+var mnemonic = "foster nation evidence visit jump flee glue about nut over merge truck";

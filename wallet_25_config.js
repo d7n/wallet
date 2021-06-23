@@ -1,1 +1,1 @@
-var mnemonic = "vintage next alert drop baby damage limit glance obtain silver win moral";
+var mnemonic = "swallow interest also skin sad nurse girl never smile human loud rich";

@@ -1,1 +1,1 @@
-var mnemonic = "half uncle price minor hundred tissue decide pretty afraid impose uncover high";
+var mnemonic = "bag ranch card razor total hope icon vague spirit embrace physical venue";

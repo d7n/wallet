@@ -1,1 +1,1 @@
-var mnemonic = "soul myth subway dawn frozen rough reduce glow tell ivory abandon remind";
+var mnemonic = "whale main ozone confirm cram route vacuum open fatigue purse outside daughter";

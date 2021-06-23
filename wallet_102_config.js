@@ -1,1 +1,1 @@
-var mnemonic = "flash what energy this timber churn hollow village engine elite trick floor";
+var mnemonic = "alert floor throw item legend gadget near ice genre quit entry current";

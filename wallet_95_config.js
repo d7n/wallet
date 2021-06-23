@@ -1,1 +1,1 @@
-var mnemonic = "roast person toast swear text jaguar whale urban initial unknown legend bone";
+var mnemonic = "robust text shop all tower toddler order valley tag soda across mixed";

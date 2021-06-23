@@ -1,1 +1,1 @@
-var mnemonic = "trip meadow type door someone insane edge erosion silver lyrics harsh horror";
+var mnemonic = "slide pair trash hold believe tent screen love high donkey eager napkin";

@@ -1,1 +1,1 @@
-var mnemonic = "riot pyramid return prefer secret modify right west remove magic spot vintage";
+var mnemonic = "blur dwarf flight theory zone congress beef salmon topple mother garage spawn";

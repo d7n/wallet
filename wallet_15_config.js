@@ -1,1 +1,1 @@
-var mnemonic = "trade six hurry exhibit prison fitness huge unit erase basic oak gold";
+var mnemonic = "helmet evidence buffalo fiction slam rare improve fault upper anxiety include lonely";

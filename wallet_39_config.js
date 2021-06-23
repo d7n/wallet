@@ -1,1 +1,1 @@
-var mnemonic = "ride achieve assume disorder misery all all hamster park intact mixed exist";
+var mnemonic = "execute minor cigar combine puppy grit breeze cushion forum soccer vocal photo";

@@ -1,1 +1,1 @@
-var mnemonic = "satoshi affair pen claw nerve all apart tired machine give crater grant";
+var mnemonic = "spell crane owner six still inquiry estate cry observe pass rocket client";

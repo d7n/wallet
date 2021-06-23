@@ -1,1 +1,1 @@
-var mnemonic = "despair canvas tree vital drama crumble casino flip noise fever glow gorilla";
+var mnemonic = "true flame train butter extend become lawsuit right follow gospel merry sword";

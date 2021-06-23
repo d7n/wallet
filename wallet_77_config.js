@@ -1,1 +1,1 @@
-var mnemonic = "mechanic funny despair expire apple car female foam crouch just great lounge";
+var mnemonic = "funny lobster walk stool warm garage gravity dismiss simple crash manage peanut";

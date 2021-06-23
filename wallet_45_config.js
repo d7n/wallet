@@ -1,1 +1,1 @@
-var mnemonic = "speak blast frame retire have plug kid rigid syrup rally explain borrow";
+var mnemonic = "salad address van tomorrow birth mushroom achieve need meadow wealth asset galaxy";

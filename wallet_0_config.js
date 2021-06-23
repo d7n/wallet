@@ -1,1 +1,1 @@
-var mnemonic = "hobby endorse job accident bomb donate make joy advice bulb share carry";
+var mnemonic = "useless attitude cry wine repeat verb more credit dinner expose another surprise";

@@ -1,1 +1,1 @@
-var mnemonic = "choice visit diet report sheriff people coil artwork into capital ready mutual";
+var mnemonic = "vote crisp track fit stove borrow outdoor link monster guitar session shaft";

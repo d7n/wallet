@@ -1,1 +1,1 @@
-var mnemonic = "jewel rail meadow ozone voyage lion arm travel flight return total athlete";
+var mnemonic = "trust blast harvest sunset brass vibrant trumpet fox face stem across error";

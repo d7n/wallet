@@ -1,1 +1,1 @@
-var mnemonic = "fortune case network crew allow vendor parent debris copy bubble senior smoke";
+var mnemonic = "devote initial resemble noodle raven ranch garage blanket rival stadium danger club";

@@ -1,1 +1,1 @@
-var mnemonic = "omit dawn chief sense deer sell symbol good beauty math carpet matter";
+var mnemonic = "young lazy entire track script shoot barrel yellow craft reward rubber belt";

@@ -1,1 +1,1 @@
-var mnemonic = "truly lava school monkey gesture motion solid uncover reduce sign have mask";
+var mnemonic = "organ glory royal brave taxi slide march music skate base vocal relax";

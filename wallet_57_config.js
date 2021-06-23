@@ -1,1 +1,1 @@
-var mnemonic = "cattle wisdom during page car tell sail bracket endless food immune similar";
+var mnemonic = "tonight shoot walnut teach tower review beef caught shoot tongue manual burst";

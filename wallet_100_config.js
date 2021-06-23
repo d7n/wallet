@@ -1,1 +1,1 @@
-var mnemonic = "chunk faint decide jeans black side fitness royal toast enlist champion mutual";
+var mnemonic = "erode rare together kid crew tuition income dutch make noble betray spend";

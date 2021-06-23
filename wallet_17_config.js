@@ -1,1 +1,1 @@
-var mnemonic = "need abuse asthma fragile world jealous gadget taxi glide embark rival joy";
+var mnemonic = "upgrade middle device main olympic shy want arena spirit magic tiny maid";

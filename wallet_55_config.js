@@ -1,1 +1,1 @@
-var mnemonic = "grit hidden dolphin sibling pulse session issue pole resist together divide jungle";
+var mnemonic = "inhale health stamp young proof jealous galaxy plate dutch attend brush hospital";

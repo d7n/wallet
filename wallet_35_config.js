@@ -1,1 +1,1 @@
-var mnemonic = "loan report describe jar defy company cherry injury engine document trick jump";
+var mnemonic = "medal harvest warrior phone salmon juice found home lunar shift decade tube";

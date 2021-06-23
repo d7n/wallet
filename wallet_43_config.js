@@ -1,1 +1,1 @@
-var mnemonic = "cup visit nose marine panel harsh spoon drama digital marble call suit";
+var mnemonic = "season symbol upset avocado furnace omit engage mother weather circle dash candy";

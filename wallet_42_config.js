@@ -1,1 +1,1 @@
-var mnemonic = "kid north million milk mobile mix capable stage warm ring accident category";
+var mnemonic = "drift power voyage position fold gap vault congress street total pipe own";

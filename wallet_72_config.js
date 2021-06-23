@@ -1,1 +1,1 @@
-var mnemonic = "source system assist hill code dose air cross local teach shine core";
+var mnemonic = "cake doctor liquid program seven danger miracle matrix minimum cost host trial";

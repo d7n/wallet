@@ -1,1 +1,1 @@
-var mnemonic = "live major dignity model city skull unit exotic country symbol airport lobster";
+var mnemonic = "grid eternal neck nerve what because try bracket cart sugar music civil";

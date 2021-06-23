@@ -1,1 +1,1 @@
-var mnemonic = "follow upgrade congress orange emerge friend sustain actress symbol monkey bitter update";
+var mnemonic = "judge wreck theory industry series tongue duty leopard hurt fork clay gas";

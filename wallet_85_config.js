@@ -1,1 +1,1 @@
-var mnemonic = "pave palace ability leopard boss portion fetch arrange dutch metal ranch crisp";
+var mnemonic = "actress found fashion capable urge kind page fault avoid tortoise pilot middle";

@@ -1,1 +1,1 @@
-var mnemonic = "affair paper obscure donate proof sniff nerve lobster master aerobic able guard";
+var mnemonic = "dignity monster awesome brown axis ugly unveil prefer print give then library";

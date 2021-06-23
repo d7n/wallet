@@ -1,1 +1,1 @@
-var mnemonic = "nuclear jealous horn glue jazz real raccoon drill reunion reopen sand divide";
+var mnemonic = "educate tongue little noble board real sand mobile movie dose erupt level";

@@ -1,1 +1,1 @@
-var mnemonic = "spot dash path aunt shaft cash goat dice liar hotel embody sphere";
+var mnemonic = "lottery fantasy chat lawn true eager witness order use plunge help hip";

@@ -1,1 +1,1 @@
-var mnemonic = "merit point merge pupil grocery pass caution proof celery luggage steak outer";
+var mnemonic = "stairs possible video dish balance menu candy puzzle brass reflect tiny capital";

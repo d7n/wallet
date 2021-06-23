@@ -1,1 +1,1 @@
-var mnemonic = "style stomach topple loud year timber wise cricket decrease snap obvious jacket";
+var mnemonic = "husband ridge liquid zebra people before answer monkey fit inject surface gadget";

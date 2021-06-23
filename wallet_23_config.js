@@ -1,1 +1,1 @@
-var mnemonic = "hip glare nest improve engage uncle next begin blur tuition anxiety oblige";
+var mnemonic = "erosion pencil scan school obtain clever proud lion parent recycle all crack";

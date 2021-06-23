@@ -1,1 +1,1 @@
-var mnemonic = "visual age useless unit crash task viable aisle grief casino invest capable";
+var mnemonic = "soap become surprise ginger pulp squirrel possible virtual stumble aisle able second";

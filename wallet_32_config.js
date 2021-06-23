@@ -1,1 +1,1 @@
-var mnemonic = "unable coyote thunder laptop monitor save wait return boat economy return scrub";
+var mnemonic = "hamster boy six void scene floor student orbit problem amount ball trigger";

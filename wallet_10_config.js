@@ -1,1 +1,1 @@
-var mnemonic = "universe lunch else yard zone report found blanket okay hurry advice mystery";
+var mnemonic = "achieve spot frozen mimic street phone ghost version almost dutch candy pipe";

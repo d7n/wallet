@@ -1,1 +1,1 @@
-var mnemonic = "zebra warfare found once liberty raise unaware mistake cupboard govern gasp hero";
+var mnemonic = "dinosaur fish wood dice cannon pen erosion pigeon fish state achieve supply";

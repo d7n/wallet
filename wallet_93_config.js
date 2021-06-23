@@ -1,1 +1,1 @@
-var mnemonic = "unveil beauty sleep boring undo warm parent trust witness drum magic stock";
+var mnemonic = "race scout gain episode search advance veteran chase pink pipe marriage rose";

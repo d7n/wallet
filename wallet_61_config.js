@@ -1,1 +1,1 @@
-var mnemonic = "squeeze confirm rely there audit aware top country search chapter mosquito food";
+var mnemonic = "scorpion knock foster turtle shrimp range december holiday gentle note old index";

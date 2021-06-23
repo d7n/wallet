@@ -1,1 +1,1 @@
-var mnemonic = "alone motor reduce assume wonder tired flush party spoil viable talk elephant";
+var mnemonic = "sell wrist expose elephant coast daring village recycle alone guitar chat artefact";

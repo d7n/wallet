@@ -1,1 +1,1 @@
-var mnemonic = "giraffe bounce tonight over decrease make marble client mesh split avoid physical";
+var mnemonic = "museum slim rich moral airport village polar artist home left toy blast";

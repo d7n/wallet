@@ -1,1 +1,1 @@
-var mnemonic = "then tape bridge antique mystery glare act manual silver athlete sing manual";
+var mnemonic = "whale family fatal cloud debate labor effort flat enemy fetch actual boil";

@@ -1,1 +1,1 @@
-var mnemonic = "park gesture cave ankle release cluster sauce mammal actual medal attract focus";
+var mnemonic = "stock always result idle total pet grief program myself empty around dance";

@@ -1,1 +1,1 @@
-var mnemonic = "attitude valley egg truck broom require bracket bronze bacon canoe venue dolphin";
+var mnemonic = "surge peanut tray length drum process inherit journey board vapor voyage forward";

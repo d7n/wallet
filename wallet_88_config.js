@@ -1,1 +1,1 @@
-var mnemonic = "point oblige there differ bronze skin cable reject enlist knee south diary";
+var mnemonic = "olympic boil when vehicle lend decline ski start soda shrimp feed solar";

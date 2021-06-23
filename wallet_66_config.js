@@ -1,1 +1,1 @@
-var mnemonic = "fantasy worry razor glow inform tissue gravity thunder easily smile little initial";
+var mnemonic = "angry group canyon rabbit depth great shed phrase famous grant pole sleep";

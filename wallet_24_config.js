@@ -1,1 +1,1 @@
-var mnemonic = "actor spare stamp venture claim minimum join jealous gauge glue bridge problem";
+var mnemonic = "clog hammer excess settle exile slender fan potato escape dry obscure retreat";

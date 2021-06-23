@@ -1,1 +1,1 @@
-var mnemonic = "mirror capable mean rose jar use lonely ancient museum scorpion web either";
+var mnemonic = "degree shadow hobby world embody dinner pilot like estate fever ethics island";

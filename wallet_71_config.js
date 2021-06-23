@@ -1,1 +1,1 @@
-var mnemonic = "jewel lab pass corn life wash sentence dawn wheel trust planet habit";
+var mnemonic = "grape dice frost original seed pause harvest census venture because shine foot";

@@ -1,1 +1,1 @@
-var mnemonic = "already bulb dismiss muscle advance home gate nuclear visual topple squeeze spell";
+var mnemonic = "effort remember field indoor oak elegant today isolate nasty inflict myth fabric";

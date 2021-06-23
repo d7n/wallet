@@ -1,1 +1,1 @@
-var mnemonic = "lens aim kit melt chief adjust camera wrap girl prevent fossil rug";
+var mnemonic = "auto tell acoustic better emotion achieve odor fantasy nice already speak base";

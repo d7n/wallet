@@ -1,1 +1,1 @@
-var mnemonic = "shallow project rack shove asset angry already pause leg frown pupil slow";
+var mnemonic = "chat blossom skate girl obscure direct remove rose shock erupt bonus help";

@@ -1,1 +1,1 @@
-var mnemonic = "apple bachelor wasp taxi green control three hunt transfer kite write audit";
+var mnemonic = "tide six blossom two series describe undo canyon pride flame soccer lecture";

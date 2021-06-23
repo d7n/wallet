@@ -1,1 +1,1 @@
-var mnemonic = "fitness rigid mutual success cream south song hire blush goat across predict";
+var mnemonic = "saddle predict oak glory acid wisdom title nasty vacuum medal cook trophy";

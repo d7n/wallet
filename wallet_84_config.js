@@ -1,1 +1,1 @@
-var mnemonic = "law laptop census approve myth sort planet book olympic vessel always olympic";
+var mnemonic = "bless find grace olympic spring away occur goat process afraid avocado pattern";

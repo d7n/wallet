@@ -1,1 +1,1 @@
-var mnemonic = "simple assist illness state simple laugh fantasy lab tortoise bachelor ranch keen";
+var mnemonic = "text vapor bitter omit moon skill transfer public divorce night orange use";

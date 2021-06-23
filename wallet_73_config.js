@@ -1,1 +1,1 @@
-var mnemonic = "correct tumble unlock foam vault typical miss clump orange stairs cycle umbrella";
+var mnemonic = "middle neutral client drop rural web dove message monkey fame onion boss";

@@ -1,1 +1,1 @@
-var mnemonic = "safe online sock angle disorder dad vendor illegal alley panda axis prison";
+var mnemonic = "hold dragon peace flight apple disagree valid dash vivid fancy hidden ordinary";

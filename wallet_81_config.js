@@ -1,1 +1,1 @@
-var mnemonic = "pear dutch garage pulse gas choice cherry float flock promote fan dizzy";
+var mnemonic = "toe west coyote gold mechanic express symbol glance skirt home intact plug";

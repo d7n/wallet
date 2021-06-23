@@ -1,1 +1,1 @@
-var mnemonic = "protect hen nominee ignore foam sudden veteran maze tray mango input broccoli";
+var mnemonic = "north keep dog whisper convince wedding arrive above light frame reason maze";

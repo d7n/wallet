@@ -1,1 +1,1 @@
-var mnemonic = "abstract dwarf time chat elevator cradle survey inquiry else similar congress mechanic";
+var mnemonic = "patient celery level roast spread spare toilet receive clay board speak lab";

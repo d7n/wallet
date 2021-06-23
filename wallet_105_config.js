@@ -1,1 +1,1 @@
-var mnemonic = "gather fan exact recall excite author error year almost mistake vapor jazz";
+var mnemonic = "hint attitude hunt business spike olympic worth heavy bread cigar verify carbon";

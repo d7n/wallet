@@ -1,1 +1,1 @@
-var mnemonic = "oak process duck whale open portion chapter lesson physical collect motor junk";
+var mnemonic = "ocean main swallow hotel moment divert match ostrich midnight acid blame critic";

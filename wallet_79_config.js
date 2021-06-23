@@ -1,1 +1,1 @@
-var mnemonic = "company diesel glow gadget use analyst risk news melody machine expand jealous";
+var mnemonic = "fiction actor glad sad skin shoe father faculty short morning ski inspire";

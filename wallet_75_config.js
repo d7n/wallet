@@ -1,1 +1,1 @@
-var mnemonic = "endorse hurry shield park reward fuel try toy lunch trend scorpion size";
+var mnemonic = "damp produce modify salt uncover butter vacuum prepare fold equip tiger dove";

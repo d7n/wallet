@@ -1,1 +1,1 @@
-var mnemonic = "kit arctic ugly logic melody hat art ball usage trend average erupt";
+var mnemonic = "cupboard punch tilt fit rigid art swim denial million yard eagle hollow";

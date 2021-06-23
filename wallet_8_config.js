@@ -1,1 +1,1 @@
-var mnemonic = "monkey brown situate rapid hurry hand detect edge prosper devote excite behave";
+var mnemonic = "option canoe fresh twelve offer chat culture hen insane outside orient rain";

@@ -1,1 +1,1 @@
-var mnemonic = "dish champion obtain panda rather annual donor rally sister game sunny rude";
+var mnemonic = "adult delay twist cheese base blast charge faint catch bridge clean object";

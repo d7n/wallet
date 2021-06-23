@@ -1,1 +1,1 @@
-var mnemonic = "area trophy torch baby spy subject error kind police mesh survey lobster";
+var mnemonic = "know reform dumb sell budget flip leader lizard assist bright shell immense";

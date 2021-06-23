@@ -1,1 +1,1 @@
-var mnemonic = "kid caught alert spawn put damp reopen betray meat hat key salmon";
+var mnemonic = "armed elite burst harvest abuse conduct future aspect vital trigger panther demand";

@@ -1,1 +1,1 @@
-var mnemonic = "child sea setup pulp plug tower easy engine hill hurt trumpet planet";
+var mnemonic = "tent sail job rifle antique violin menu maximum punch vast shoot vacant";
