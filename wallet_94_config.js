@@ -1,1 +1,1 @@
-var mnemonic = "visual clerk gun wolf student basic clarify dinner hungry correct prison galaxy";
+var mnemonic = "mandate second lonely salute clock giggle wrist quit torch urban again front";

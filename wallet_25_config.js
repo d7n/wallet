@@ -1,1 +1,1 @@
-var mnemonic = "seven craft length coffee olympic fashion spot organ hip mosquito mind mean";
+var mnemonic = "thank only account math pyramid polar equal steel provide truth prevent name";

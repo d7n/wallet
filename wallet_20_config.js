@@ -1,1 +1,1 @@
-var mnemonic = "slam film keep street option kiss assume join present attitude segment sting";
+var mnemonic = "lonely stumble furnace grab scheme depth juice magic shallow ivory unusual wink";

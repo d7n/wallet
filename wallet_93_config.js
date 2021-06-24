@@ -1,1 +1,1 @@
-var mnemonic = "start state siren angry type island increase scare strong seat mystery since";
+var mnemonic = "flee section candy document today coconut giggle love alone stem damage tomorrow";

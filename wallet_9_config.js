@@ -1,1 +1,1 @@
-var mnemonic = "law exit consider purity butter neither direct depend keen olive impulse glue";
+var mnemonic = "often lab smile all sketch praise else hurdle wisdom shock pumpkin punch";

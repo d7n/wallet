@@ -1,1 +1,1 @@
-var mnemonic = "saddle thrive north gallery empty defense filter peace reopen deal dolphin also";
+var mnemonic = "rural rib rely various goat shaft permit stock teach mix melt fancy";

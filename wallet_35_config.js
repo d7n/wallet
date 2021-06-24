@@ -1,1 +1,1 @@
-var mnemonic = "long ecology shrug toddler evoke picture vital coin three piece will clock";
+var mnemonic = "muffin other pattern pepper please kingdom empower always true popular wage sell";

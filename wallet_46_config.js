@@ -1,1 +1,1 @@
-var mnemonic = "ahead blue evoke select try essence asset stamp expect video sentence side";
+var mnemonic = "slam ghost antique rather target maple hire tooth aisle staff current ridge";

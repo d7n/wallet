@@ -1,1 +1,1 @@
-var mnemonic = "wrestle toilet nothing helmet fly utility nose dynamic minimum cupboard protect bargain";
+var mnemonic = "anger day envelope since power sight thrive sniff gun broken wine unhappy";

@@ -1,1 +1,1 @@
-var mnemonic = "oval syrup move habit okay wild kiss man space lizard hole sausage";
+var mnemonic = "unhappy legal tonight wonder supply critic ramp boil gasp empower guard level";

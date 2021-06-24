@@ -1,1 +1,1 @@
-var mnemonic = "reason lava concert inhale truly parade educate destroy control monitor census radar";
+var mnemonic = "repair session roast lesson alcohol skin oppose hen spatial frost flavor wealth";

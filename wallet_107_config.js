@@ -1,1 +1,1 @@
-var mnemonic = "priority capital casino siege swing service doll smoke until electric design wisdom";
+var mnemonic = "sentence open tooth develop chronic text dune strike size fun hedgehog soul";

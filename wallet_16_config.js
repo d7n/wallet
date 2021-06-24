@@ -1,1 +1,1 @@
-var mnemonic = "rough recycle penalty intact news boost gap spread leisure catalog race chronic";
+var mnemonic = "acid riot gun essay school panic someone equal pencil bicycle marriage firm";

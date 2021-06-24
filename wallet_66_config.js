@@ -1,1 +1,1 @@
-var mnemonic = "wrap feature smart siren later visa lesson wheel owner olympic salon melody";
+var mnemonic = "undo dice begin mammal ball ocean timber spoil tower water addict good";

@@ -1,1 +1,1 @@
-var mnemonic = "video basket boss kiss dream slot neutral response very stomach pepper parrot";
+var mnemonic = "mammal tackle demise fatal device boost virus problem tonight phrase novel cousin";

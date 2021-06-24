@@ -1,1 +1,1 @@
-var mnemonic = "fat suffer soft surprise mirror duty lyrics odor total pattern say spread";
+var mnemonic = "umbrella inside science sing name problem cover antenna draft tiny law box";

@@ -1,1 +1,1 @@
-var mnemonic = "destroy matter comfort pet horror until until soon stand canyon damp twelve";
+var mnemonic = "exhaust clock toddler garlic anger about start verb task pelican wagon zoo";

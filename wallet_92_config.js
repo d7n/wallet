@@ -1,1 +1,1 @@
-var mnemonic = "palm scorpion car horror magic monkey whale gauge security plunge auction feel";
+var mnemonic = "result payment expose actress jazz canyon north cheap romance involve box fire";

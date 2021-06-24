@@ -1,1 +1,1 @@
-var mnemonic = "picnic world observe visit exile absurd pledge roast pond common sea network";
+var mnemonic = "gravity among shop volcano prison rain ten parent fall promote announce wood";

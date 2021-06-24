@@ -1,1 +1,1 @@
-var mnemonic = "laptop arch dove start spin mandate pipe only vessel leopard attitude pass";
+var mnemonic = "genuine afraid galaxy agree check police profit between potato state coach speak";

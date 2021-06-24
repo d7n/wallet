@@ -1,1 +1,1 @@
-var mnemonic = "father sing parrot response prevent purchase genuine emotion tray animal lunch fun";
+var mnemonic = "grant step hotel solve blur glare release mistake reflect nurse afraid pledge";

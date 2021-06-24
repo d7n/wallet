@@ -1,1 +1,1 @@
-var mnemonic = "soul vacant change cycle surge feel title concert ostrich mesh logic label";
+var mnemonic = "unique open case forget tobacco wood regular club rich awkward front giggle";

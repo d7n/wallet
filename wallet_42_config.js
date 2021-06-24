@@ -1,1 +1,1 @@
-var mnemonic = "canyon viable roof corn matter fly evoke choice tiger visit close buffalo";
+var mnemonic = "silver smooth blame scrub pond donate soft maple wise ship adapt fault";

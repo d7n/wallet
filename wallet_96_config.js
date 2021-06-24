@@ -1,1 +1,1 @@
-var mnemonic = "pill grace fortune clinic state toward hero slice vacant april label jelly";
+var mnemonic = "manual cradle mouse merge arrange bicycle large sock version cement seat rail";

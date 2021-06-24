@@ -1,1 +1,1 @@
-var mnemonic = "spoon chase hero soap error hollow spirit unhappy luggage reveal live head";
+var mnemonic = "yard neck select claw glimpse machine wave cactus craft lunch oil invest";

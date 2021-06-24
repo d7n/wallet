@@ -1,1 +1,1 @@
-var mnemonic = "frog sand develop already furnace benefit various cycle blame frequent town virtual";
+var mnemonic = "flame seek core reflect midnight ridge soft flat enact cool amount cream";

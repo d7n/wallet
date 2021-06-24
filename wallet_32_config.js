@@ -1,1 +1,1 @@
-var mnemonic = "local donor medal purpose steel worth proof about unfold swallow crew soul";
+var mnemonic = "release impose vibrant vast man join budget curve matter expire swift student";

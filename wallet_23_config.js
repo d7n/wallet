@@ -1,1 +1,1 @@
-var mnemonic = "wagon scan hip stuff crawl same huge outside glad ozone uncover excess";
+var mnemonic = "foster spice sketch sausage purity indicate diet ahead must bitter tent quiz";

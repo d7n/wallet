@@ -1,1 +1,1 @@
-var mnemonic = "ask hold screen attend road what fiber upset fever endorse farm picture";
+var mnemonic = "rabbit vault sweet wait food audit figure media sense blanket weapon surround";

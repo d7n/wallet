@@ -1,1 +1,1 @@
-var mnemonic = "ride agent crack anxiety spice sunset usage fog citizen jump advice soon";
+var mnemonic = "drink cool select social fragile wage funny funny abandon enforce solution sign";

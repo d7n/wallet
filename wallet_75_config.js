@@ -1,1 +1,1 @@
-var mnemonic = "oppose rocket cliff lock radar debris napkin winter double awful test tissue";
+var mnemonic = "grunt myself draft palace over latin nuclear bless peasant describe junk engine";

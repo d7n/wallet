@@ -1,1 +1,1 @@
-var mnemonic = "crew erosion expire tide denial jacket noble where oblige they dolphin behind";
+var mnemonic = "produce penalty verb holiday truth toilet swift into milk sport youth lunch";

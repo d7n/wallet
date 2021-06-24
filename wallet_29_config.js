@@ -1,1 +1,1 @@
-var mnemonic = "genre lunch guess guitar lyrics sail approve fatigue appear river increase desk";
+var mnemonic = "alarm double kid engine wasp snake local silver crunch vacuum angle surprise";

@@ -1,1 +1,1 @@
-var mnemonic = "february summer beef age endorse crunch indoor ahead health suspect girl hawk";
+var mnemonic = "wood divide flight opinion kid blanket trap art found grace index digital";

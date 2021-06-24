@@ -1,1 +1,1 @@
-var mnemonic = "guitar honey winter era circle naive flame level hurdle reward machine source";
+var mnemonic = "trophy milk author thrive air over home rail peanut verb kangaroo name";

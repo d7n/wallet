@@ -1,1 +1,1 @@
-var mnemonic = "curious pepper panther true price awesome female copy little boil seven shop";
+var mnemonic = "rice grunt width spike upset again purity live base diary foil final";

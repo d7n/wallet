@@ -1,1 +1,1 @@
-var mnemonic = "stool ship expire code drastic wheel ecology bonus tool illegal accuse child";
+var mnemonic = "slice program caution obscure crew airport modify curious easily noble shiver math";

@@ -1,1 +1,1 @@
-var mnemonic = "rebuild add industry mind steel lady square thrive session train kiwi enemy";
+var mnemonic = "legend jungle poet clog enable risk supply speed flock charge burger behave";

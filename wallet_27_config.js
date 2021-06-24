@@ -1,1 +1,1 @@
-var mnemonic = "around twist vendor normal august guard creek buzz club winner benefit limb";
+var mnemonic = "sing slot slender liquid believe man purpose easy finish choice ability vocal";

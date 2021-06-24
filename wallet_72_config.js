@@ -1,1 +1,1 @@
-var mnemonic = "ancient glide ethics abuse marine truck lottery unlock letter slab industry pulp";
+var mnemonic = "kind car glory wet market vibrant field hen loan shine farm place";

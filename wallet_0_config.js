@@ -1,1 +1,1 @@
-var mnemonic = "innocent spider sound visa skull range replace author gaze rebuild ten skill";
+var mnemonic = "fringe hawk grain electric chef sand sell friend innocent eyebrow drift rhythm";

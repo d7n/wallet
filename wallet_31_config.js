@@ -1,1 +1,1 @@
-var mnemonic = "hunt curve slender rotate run truth cute route cream danger draw door";
+var mnemonic = "awesome essay kangaroo scrub forest lazy layer month town faint physical topic";

@@ -1,1 +1,1 @@
-var mnemonic = "throw regular truly basic tobacco trend cereal thrive pear table meat industry";
+var mnemonic = "code stem mixed endless fortune patch dutch version stock surround process relief";

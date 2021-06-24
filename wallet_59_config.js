@@ -1,1 +1,1 @@
-var mnemonic = "absent winter elephant engine thank inch sphere receive interest purse web height";
+var mnemonic = "unhappy couple swift reject version monkey impulse layer ensure poverty purchase minor";

@@ -1,1 +1,1 @@
-var mnemonic = "gossip under stable bundle width apology runway delay fish parrot mind lunch";
+var mnemonic = "art kit tragic planet foot tone crisp enlist taxi write taxi original";

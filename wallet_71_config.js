@@ -1,1 +1,1 @@
-var mnemonic = "soul session mixture inflict success stay indoor chronic collect connect join desk";
+var mnemonic = "sibling dash drip always mushroom lemon prefer use depart execute wild learn";

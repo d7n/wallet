@@ -1,1 +1,1 @@
-var mnemonic = "glove tortoise page soul limb priority risk hat cereal pelican toward execute";
+var mnemonic = "coral slice hat liar since trust rally bring unfair spirit man benefit";

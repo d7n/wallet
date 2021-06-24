@@ -1,1 +1,1 @@
-var mnemonic = "dilemma high clap enemy engage inch ship pet nuclear current mobile huge";
+var mnemonic = "shy patient high speed butter shy glimpse warfare happy fossil slim elephant";

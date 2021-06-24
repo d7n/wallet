@@ -1,1 +1,1 @@
-var mnemonic = "flash promote ability catch rent orphan rice private bounce suit key loud";
+var mnemonic = "river luggage aisle this depart leisure earn practice gentle piano hip lunar";

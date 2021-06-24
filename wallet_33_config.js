@@ -1,1 +1,1 @@
-var mnemonic = "poet alone enforce horse lens eternal code token vanish sting swallow install";
+var mnemonic = "blush fuel replace shop excuse vessel youth ahead gauge rookie female mystery";

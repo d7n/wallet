@@ -1,1 +1,1 @@
-var mnemonic = "buddy false close box coffee aerobic air exchange either powder fire hobby";
+var mnemonic = "certain eye blade erosion rate gift cross two lawsuit aunt vote cloud";

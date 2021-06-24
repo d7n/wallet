@@ -1,1 +1,1 @@
-var mnemonic = "sure file crash wild mule always deliver water squirrel buzz unhappy core";
+var mnemonic = "tunnel script reject cat stove oppose rib stand save certain correct utility";

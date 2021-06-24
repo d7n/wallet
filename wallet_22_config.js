@@ -1,1 +1,1 @@
-var mnemonic = "memory capital bitter hand heart green giggle nice manual lobster worth idle";
+var mnemonic = "retreat payment odor laptop dirt parade pilot simple work slot crane tomato";

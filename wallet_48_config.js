@@ -1,1 +1,1 @@
-var mnemonic = "garment ready attitude bag know strong march follow harsh pig sentence cloud";
+var mnemonic = "badge ensure eager logic file print toast camp rocket opera improve unique";

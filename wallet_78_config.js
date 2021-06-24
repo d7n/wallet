@@ -1,1 +1,1 @@
-var mnemonic = "bless mention foil exhaust slice awake coil mixed crime hundred alarm office";
+var mnemonic = "orange wink menu finish save spray size receive transfer airport private wide";

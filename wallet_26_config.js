@@ -1,1 +1,1 @@
-var mnemonic = "plate wool elbow agent tell load toy office thing buyer breeze ready";
+var mnemonic = "shine museum soap smile pulp evil lecture cushion author congress evil off";

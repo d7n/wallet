@@ -1,1 +1,1 @@
-var mnemonic = "half between upgrade debate found frequent damage youth undo ski tourist analyst";
+var mnemonic = "clip control seat grid credit book web own hammer doll obvious reduce";

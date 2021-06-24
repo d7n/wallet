@@ -1,1 +1,1 @@
-var mnemonic = "betray ring spend stem field program divert fury lumber august soft buzz";
+var mnemonic = "cheese company mammal absent pistol stumble noble increase hunt drill plastic airport";

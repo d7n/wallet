@@ -1,1 +1,1 @@
-var mnemonic = "lucky diary chalk salmon fat until general crop immune rapid advice space";
+var mnemonic = "near couch dinner gun spread path record phrase such wise habit special";

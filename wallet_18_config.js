@@ -1,1 +1,1 @@
-var mnemonic = "write amazing connect will burden mention noodle middle smoke globe above alley";
+var mnemonic = "wheel risk focus era wrong guilt rare empower cargo resist enact fault";

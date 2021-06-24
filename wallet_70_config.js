@@ -1,1 +1,1 @@
-var mnemonic = "trouble grace combine rocket quiz twice weapon chat spin used grain purse";
+var mnemonic = "expand coin there dog resist prize grow rookie remind blouse antique inhale";

@@ -1,1 +1,1 @@
-var mnemonic = "circle voyage barrel act hidden allow light digital menu fashion carbon buzz";
+var mnemonic = "voyage dash embark annual make fault fire cabin flower degree sausage coil";

@@ -1,1 +1,1 @@
-var mnemonic = "oil vehicle glory dragon mystery entry bar oil order oak student sound";
+var mnemonic = "couple series upper dial electric sphere priority isolate female edit seminar bullet";

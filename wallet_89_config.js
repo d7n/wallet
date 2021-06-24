@@ -1,1 +1,1 @@
-var mnemonic = "panther organ capable stool father sock mushroom decrease member size maple point";
+var mnemonic = "miss absurd cloth crush mail mix round ice frequent sadness cargo ripple";

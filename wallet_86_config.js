@@ -1,1 +1,1 @@
-var mnemonic = "youth fortune gadget canyon mother check flush crisp hurdle extend whip foster";
+var mnemonic = "umbrella illegal jump boost romance already escape business absorb hour during bulb";

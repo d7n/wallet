@@ -1,1 +1,1 @@
-var mnemonic = "recipe crunch wet merit setup pause immune slender burden height cup cotton";
+var mnemonic = "slide car issue payment else patrol diesel neck bargain include fine fetch";

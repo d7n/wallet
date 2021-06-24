@@ -1,1 +1,1 @@
-var mnemonic = "nose exclude loyal cake wasp position spider race victory bomb day garment";
+var mnemonic = "surface behind system improve release motion country arrest fade bulb loyal smart";

@@ -1,1 +1,1 @@
-var mnemonic = "sustain able object treat first bomb spawn news horn awake picture consider";
+var mnemonic = "mutual viable thumb uniform attract fever swamp city manage finish beauty sphere";

@@ -1,1 +1,1 @@
-var mnemonic = "enemy flash puzzle decrease brother valve deal drastic unit rack promote sell";
+var mnemonic = "rookie buzz favorite eyebrow random sentence board absorb brand diagram icon agree";

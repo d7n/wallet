@@ -1,1 +1,1 @@
-var mnemonic = "mixed rapid allow poverty exist hire message vanish type bracket tomato timber";
+var mnemonic = "ridge bird middle diagram oval bright gap report crawl jeans flight fine";

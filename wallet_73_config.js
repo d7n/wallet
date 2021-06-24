@@ -1,1 +1,1 @@
-var mnemonic = "note eyebrow tomato possible immense north sphere hotel salmon general atom depend";
+var mnemonic = "hurry boat drop turn math stadium virtual orient toddler slow govern soup";

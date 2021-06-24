@@ -1,1 +1,1 @@
-var mnemonic = "box skate educate silver inflict mandate curtain admit middle top fix liar";
+var mnemonic = "zone boring mention alert twin cream april phrase route garbage above talk";

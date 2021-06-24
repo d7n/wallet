@@ -1,1 +1,1 @@
-var mnemonic = "curious script smile blossom inner hidden way coconut lift rely kitchen off";
+var mnemonic = "october remain employ butter large reveal vague carpet sock jar fringe tank";

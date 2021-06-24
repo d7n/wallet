@@ -1,1 +1,1 @@
-var mnemonic = "copper snake fetch tower strong depart device attend piano squeeze slogan subject";
+var mnemonic = "advance pet stone moon view vacuum jeans cloth eye siren april embark";

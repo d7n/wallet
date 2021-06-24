@@ -1,1 +1,1 @@
-var mnemonic = "merge dolphin alpha inherit proof section elevator notice face surge banner twist";
+var mnemonic = "pink honey blind dance copper pledge general muffin sunny choice approve action";

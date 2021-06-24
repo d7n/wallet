@@ -1,1 +1,1 @@
-var mnemonic = "mountain mobile rather regret zero service mountain attack nuclear mosquito refuse mercy";
+var mnemonic = "sudden calm return figure visual parent bridge hero twelve luxury guide gentle";

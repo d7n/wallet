@@ -1,1 +1,1 @@
-var mnemonic = "timber front boat auction picture pause police swift nest isolate miracle tool";
+var mnemonic = "pluck exist print island mail rude swing erase goose crumble local label";

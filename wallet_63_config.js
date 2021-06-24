@@ -1,1 +1,1 @@
-var mnemonic = "pet business east dune torch swing gospel wrap silver embrace tent pigeon";
+var mnemonic = "innocent hazard route sun cattle ramp chimney slogan echo figure snow jealous";

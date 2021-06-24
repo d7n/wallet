@@ -1,1 +1,1 @@
-var mnemonic = "pipe spot other awake fence spice crop can evil credit grab clutch";
+var mnemonic = "glance crime rent cry pretty certain library vapor betray junior cash garden";

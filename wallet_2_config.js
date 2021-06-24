@@ -1,1 +1,1 @@
-var mnemonic = "tunnel flower upon galaxy false tragic wasp purity abstract pupil energy early";
+var mnemonic = "visual artefact inspire scene dwarf team shuffle sting produce wife word boil";

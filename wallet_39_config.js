@@ -1,1 +1,1 @@
-var mnemonic = "change roof rival thing vacuum hockey jar prefer pigeon hurry marble excite";
+var mnemonic = "dutch fit off annual urge shrimp usage jeans damp ripple liberty train";

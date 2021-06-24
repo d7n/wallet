@@ -1,1 +1,1 @@
-var mnemonic = "desk valley afford grass evolve bread zone funny imitate mention position neglect";
+var mnemonic = "retreat above option around priority judge tank spatial recycle guilt mom industry";

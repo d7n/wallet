@@ -1,1 +1,1 @@
-var mnemonic = "brisk pride begin cement evolve cannon damp school source harbor all define";
+var mnemonic = "moment supreme claw witness girl attract total section unit effort liar rate";

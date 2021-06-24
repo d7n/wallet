@@ -1,1 +1,1 @@
-var mnemonic = "course shrimp mercy sign animal hill erosion snow salmon jewel guard govern";
+var mnemonic = "hold pave kiwi danger aerobic buffalo farm transfer pencil sight spare twelve";

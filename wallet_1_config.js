@@ -1,1 +1,1 @@
-var mnemonic = "reject melody moment bamboo sentence model leisure find toy advance slush hollow";
+var mnemonic = "intact clever panel dress combine donor obey hint cinnamon cry task around";

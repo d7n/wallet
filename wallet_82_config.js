@@ -1,1 +1,1 @@
-var mnemonic = "decline ancient square able sight oven hobby bike left enact candy shoulder";
+var mnemonic = "cotton sphere salon negative decrease advance current dice today frown lyrics inform";

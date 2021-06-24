@@ -1,1 +1,1 @@
-var mnemonic = "hero luxury endless label truly garment agent ball feed local ranch denial";
+var mnemonic = "pen floor embody very elephant provide disease end mechanic clock stool vault";

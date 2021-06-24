@@ -1,1 +1,1 @@
-var mnemonic = "reject giraffe gravity enough gate wage rent seven forget cricket net devote";
+var mnemonic = "bubble combine interest onion dinosaur eagle bulk panther you rebel gown peasant";
