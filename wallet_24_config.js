@@ -1,1 +1,1 @@
-var mnemonic = "jelly proof runway suspect uncle palm add license useful banner noise save";
+var mnemonic = "gloom confirm stand pilot pave ignore abandon ahead noble tuna talent verb";

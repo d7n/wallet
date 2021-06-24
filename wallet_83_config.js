@@ -1,1 +1,1 @@
-var mnemonic = "draw kid shaft else write hint hard spoon army oak nest sample";
+var mnemonic = "jump spare evil dad wall alert danger ball dutch push monster hover";

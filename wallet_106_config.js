@@ -1,1 +1,1 @@
-var mnemonic = "record deal bullet topple shell surprise target coach melt switch tank sense";
+var mnemonic = "hat quality similar load cabbage cute slush unknown any word sense second";

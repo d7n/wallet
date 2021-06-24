@@ -1,1 +1,1 @@
-var mnemonic = "ridge twin reopen abstract hotel desert heart upon leg pony add lottery";
+var mnemonic = "finger rigid attract attack sword month front village shove fall magnet matrix";

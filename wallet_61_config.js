@@ -1,1 +1,1 @@
-var mnemonic = "bread twist inform copper hat spider earth eternal sadness screen limit detect";
+var mnemonic = "guitar enact social midnight tomato soap prosper youth mountain cover tornado merit";

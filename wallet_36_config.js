@@ -1,1 +1,1 @@
-var mnemonic = "news spatial above extra print before caution build aunt build diesel occur";
+var mnemonic = "antique depth crunch expect inner slot invite bacon gather panda monkey cushion";

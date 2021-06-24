@@ -1,1 +1,1 @@
-var mnemonic = "message stone error recall lecture cycle van wave early spy sea van";
+var mnemonic = "upgrade view envelope main clever state alter script rely obey rich title";

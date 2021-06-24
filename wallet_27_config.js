@@ -1,1 +1,1 @@
-var mnemonic = "situate isolate fortune unknown noble version mix universe talk robust olympic invite";
+var mnemonic = "indoor come job produce cushion bullet tomato desert notice involve twenty velvet";

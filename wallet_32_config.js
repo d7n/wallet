@@ -1,1 +1,1 @@
-var mnemonic = "loan father author day grain regret please mercy plastic search furnace casino";
+var mnemonic = "baby unhappy when grab airport country choice slide lyrics vacant ten original";

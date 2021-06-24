@@ -1,1 +1,1 @@
-var mnemonic = "flip half outer axis nothing skate ritual ability merge tongue famous cross";
+var mnemonic = "rookie pride advance write dizzy shove defense false thought helmet brave someone";

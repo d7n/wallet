@@ -1,1 +1,1 @@
-var mnemonic = "deposit minimum select biology clock catch strike print file draft few wire";
+var mnemonic = "brave concert speak reveal flash seven sail review cream select visual sign";

@@ -1,1 +1,1 @@
-var mnemonic = "craft thumb build nephew what coffee orphan name cargo medal target noble";
+var mnemonic = "coast pave spare assist sadness hybrid dash afford reduce laundry strategy much";

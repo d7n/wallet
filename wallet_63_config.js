@@ -1,1 +1,1 @@
-var mnemonic = "topple police margin aerobic wagon supreme despair boy ten relax adult fade";
+var mnemonic = "involve grab jelly project wish insane collect long barely increase poem sound";

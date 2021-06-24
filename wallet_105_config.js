@@ -1,1 +1,1 @@
-var mnemonic = "blame seed deal nuclear embrace silver marine accident mountain moment resemble police";
+var mnemonic = "loud skin hospital load parrot artist lizard chapter maximum elevator garment ribbon";

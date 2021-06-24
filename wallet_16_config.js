@@ -1,1 +1,1 @@
-var mnemonic = "rather seven unfold situate diamond fresh strike client toe wood sibling stable";
+var mnemonic = "control tail shell discover start pink address illness system design weird input";

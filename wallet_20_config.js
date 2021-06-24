@@ -1,1 +1,1 @@
-var mnemonic = "iron random model gallery dignity uphold endorse episode unusual lawsuit kangaroo move";
+var mnemonic = "hobby perfect robot dilemma pink goose kidney when bulb clarify shoe rival";

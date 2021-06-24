@@ -1,1 +1,1 @@
-var mnemonic = "strike movie salmon crop cube pull market magic barrel suggest cube churn";
+var mnemonic = "quit holiday notable sure pride expire property daughter dentist betray track sample";

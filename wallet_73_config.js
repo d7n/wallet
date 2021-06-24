@@ -1,1 +1,1 @@
-var mnemonic = "ride wagon few alcohol club grief achieve garage error early strike radar";
+var mnemonic = "avocado hotel vital latin keep meat else render sugar cinnamon symptom match";

@@ -1,1 +1,1 @@
-var mnemonic = "taste prize canvas spend vintage erosion social inspire gadget attack sheriff bid";
+var mnemonic = "reform edge acquire canvas erase frozen vague alarm fault digital fall metal";

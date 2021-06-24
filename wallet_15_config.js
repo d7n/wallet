@@ -1,1 +1,1 @@
-var mnemonic = "surface theme sand choice cigar differ canvas donate shrug friend moral very";
+var mnemonic = "together vendor spot canoe office call umbrella flat wool farm noodle report";

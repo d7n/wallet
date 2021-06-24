@@ -1,1 +1,1 @@
-var mnemonic = "thank april govern report steak wreck sell school garlic valley plug text";
+var mnemonic = "useless river guard carbon trade topic float tunnel say habit goat artwork";

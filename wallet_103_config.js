@@ -1,1 +1,1 @@
-var mnemonic = "close core race topic car small climb fortune debate build refuse gossip";
+var mnemonic = "lady pass camp grass argue snow recycle crucial mutual pilot lake omit";

@@ -1,1 +1,1 @@
-var mnemonic = "purchase achieve small aspect direct brief program swap entire pill marine announce";
+var mnemonic = "board produce marine trumpet push ensure pledge wedding guilt spawn toy exist";

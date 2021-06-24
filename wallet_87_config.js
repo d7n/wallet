@@ -1,1 +1,1 @@
-var mnemonic = "faint film result seek feel equal alone need illness best surprise surround";
+var mnemonic = "moral crash ostrich grab flip rich unhappy lamp poem uncover eyebrow buddy";

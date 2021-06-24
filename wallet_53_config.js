@@ -1,1 +1,1 @@
-var mnemonic = "merit reunion essay add slight swing company cabin will milk gain thunder";
+var mnemonic = "conduct surge vault warfare mother elder black prefer curious merge broom canyon";

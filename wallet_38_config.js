@@ -1,1 +1,1 @@
-var mnemonic = "motion pen problem credit sight curtain write champion curious joy close enforce";
+var mnemonic = "excuse other sponsor able jewel elevator cabbage violin smart negative february media";

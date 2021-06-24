@@ -1,1 +1,1 @@
-var mnemonic = "amazing give ugly provide deputy bus leopard myself genuine rotate tackle hover";
+var mnemonic = "photo heavy color rough hub member jump cheap ecology settle keep green";

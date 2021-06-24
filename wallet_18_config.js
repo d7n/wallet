@@ -1,1 +1,1 @@
-var mnemonic = "display cool bubble ankle security champion balcony peanut captain spring design fluid";
+var mnemonic = "weasel erase issue immense ill sound bless motion tunnel fit melt toss";

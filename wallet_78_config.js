@@ -1,1 +1,1 @@
-var mnemonic = "link ski evoke hollow glory express chase auction target sudden lake focus";
+var mnemonic = "trust awesome divide throw circle okay zoo indoor advance horror approve remember";

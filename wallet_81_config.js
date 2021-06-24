@@ -1,1 +1,1 @@
-var mnemonic = "draw lava winner sentence board space tail post moon exact quality truck";
+var mnemonic = "hero ahead subject twist crystal tent laugh magnet mixture subject drum immense";

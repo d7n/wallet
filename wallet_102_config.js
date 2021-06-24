@@ -1,1 +1,1 @@
-var mnemonic = "spoil connect collect fossil harsh grocery toward debate zebra truth put tiger";
+var mnemonic = "famous fluid burger vote ticket label recipe pill evil mask month initial";

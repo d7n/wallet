@@ -1,1 +1,1 @@
-var mnemonic = "toy episode express entry aunt engine fall property glow six alien tube";
+var mnemonic = "snack cross portion fitness version weekend hub history eyebrow lobster glad gap";

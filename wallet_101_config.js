@@ -1,1 +1,1 @@
-var mnemonic = "allow depart thought wreck east capital cereal actual verify curtain van wrap";
+var mnemonic = "become liar attract upper beach village key thumb trash wage pipe agent";

@@ -1,1 +1,1 @@
-var mnemonic = "candy daughter fade hotel same settle palace taste story universe hello walk";
+var mnemonic = "winter praise skull perfect dial tone endorse rely burst option december split";

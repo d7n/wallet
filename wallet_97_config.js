@@ -1,1 +1,1 @@
-var mnemonic = "series wonder brush manual exact damage rotate coast ignore fork angry film";
+var mnemonic = "become differ way farm region vicious wasp radar plunge ticket umbrella august";

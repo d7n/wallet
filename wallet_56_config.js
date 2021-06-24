@@ -1,1 +1,1 @@
-var mnemonic = "remove long depend trim injury riot rabbit capital loud love need thank";
+var mnemonic = "leisure mechanic wild cake leisure brisk tank whale enjoy duty short engage";

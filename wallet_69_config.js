@@ -1,1 +1,1 @@
-var mnemonic = "robust famous grow credit oven predict amount rib mad wisdom suffer surface";
+var mnemonic = "hold term bracket trumpet hidden renew dizzy good elder library brass panda";

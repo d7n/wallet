@@ -1,1 +1,1 @@
-var mnemonic = "hip noble height antenna crew fish fee road pattern stairs shiver creek";
+var mnemonic = "betray promote cement muffin runway wine state phone crouch river evidence net";

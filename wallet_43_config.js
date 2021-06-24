@@ -1,1 +1,1 @@
-var mnemonic = "goddess world verify reflect shrug grape illegal close next loop valve language";
+var mnemonic = "replace valve opera affair upset bring century true fragile aunt bean ask";

@@ -1,1 +1,1 @@
-var mnemonic = "change toward repeat early must frown power term thumb unhappy abandon over";
+var mnemonic = "hurt explain drastic crash coral phrase craft practice card target long funny";

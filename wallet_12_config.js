@@ -1,1 +1,1 @@
-var mnemonic = "fire dilemma nominee display leaf annual ribbon snack slight island vacant myself";
+var mnemonic = "fire angry learn cancel behind lawn morning dwarf pole forward view horse";

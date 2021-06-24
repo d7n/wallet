@@ -1,1 +1,1 @@
-var mnemonic = "have hire mandate combine aim arena task call unaware aunt oyster dolphin";
+var mnemonic = "reject bracket obtain rocket cotton flower fiscal gaze very pause month pulp";

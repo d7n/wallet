@@ -1,1 +1,1 @@
-var mnemonic = "hat inspire index refuse bubble bachelor tooth art country easy idle pledge";
+var mnemonic = "object organ elbow genuine weapon hurt bid casino moral viable metal before";

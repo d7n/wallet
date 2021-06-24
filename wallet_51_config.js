@@ -1,1 +1,1 @@
-var mnemonic = "spread escape before dinner man make page love absorb mad good second";
+var mnemonic = "salute dial knife gravity atom story item hello fine harvest panel royal";

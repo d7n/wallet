@@ -1,1 +1,1 @@
-var mnemonic = "point number fatigue orient immune local boss home steel local section hen";
+var mnemonic = "bargain disease pledge claim loud clerk lunch floor fiber squirrel oxygen toddler";

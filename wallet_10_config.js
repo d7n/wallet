@@ -1,1 +1,1 @@
-var mnemonic = "add cruel unlock fun earth broom cart aspect december hospital expand memory";
+var mnemonic = "depend resource ring again fiber help pelican small between brisk south youth";

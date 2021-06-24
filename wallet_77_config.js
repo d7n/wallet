@@ -1,1 +1,1 @@
-var mnemonic = "cousin horror swing point around label swarm glide trial zebra only chase";
+var mnemonic = "involve grab control width few infant home voice output vivid correct dash";

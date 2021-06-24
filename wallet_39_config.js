@@ -1,1 +1,1 @@
-var mnemonic = "useless uncle crazy attitude divert sorry nose virus zoo pulse boy pill";
+var mnemonic = "hood math file inside oak gospel brisk notable blouse ostrich innocent neither";

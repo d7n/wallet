@@ -1,1 +1,1 @@
-var mnemonic = "design exile used special debate thing fame person aim novel topple relief";
+var mnemonic = "captain essay pact atom response dial forward advice lab anchor cement spirit";

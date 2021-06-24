@@ -1,1 +1,1 @@
-var mnemonic = "season staff alpha laundry thought elite drip trophy staff hundred switch water";
+var mnemonic = "mystery trophy kidney bring length aim globe cream canoe weather evoke soft";

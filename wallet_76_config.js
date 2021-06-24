@@ -1,1 +1,1 @@
-var mnemonic = "lottery license grief palace stock avoid dumb regular admit peanut mosquito soon";
+var mnemonic = "target dignity pencil undo actual circle display ask wreck digital capable paper";

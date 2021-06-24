@@ -1,1 +1,1 @@
-var mnemonic = "setup mammal busy soap olympic cactus shiver peace lawn boss private relief";
+var mnemonic = "monkey earn own divert crouch casual verb snap crunch person invite hurry";

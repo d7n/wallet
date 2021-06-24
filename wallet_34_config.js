@@ -1,1 +1,1 @@
-var mnemonic = "frequent hair canyon lawn amateur before manual peasant style milk holiday other";
+var mnemonic = "pony need priority bronze deputy alone very tower slender horse dutch raven";

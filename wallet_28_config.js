@@ -1,1 +1,1 @@
-var mnemonic = "deliver asset giggle gift border smoke near apology sail dignity traffic view";
+var mnemonic = "month chaos lab suffer exact answer stamp order monster economy salmon pattern";

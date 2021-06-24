@@ -1,1 +1,1 @@
-var mnemonic = "shrimp oppose post sweet clerk bid engage syrup strong clip nest special";
+var mnemonic = "whale width planet judge panic grit train turn december monkey toss valve";

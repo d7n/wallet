@@ -1,1 +1,1 @@
-var mnemonic = "grief coin proud giggle number remind hat essay escape whale toilet soccer";
+var mnemonic = "use fashion cool sauce maid run trick guitar word calm usual lift";

@@ -1,1 +1,1 @@
-var mnemonic = "artefact undo diesel idle swim lyrics blouse dismiss verb together lady ordinary";
+var mnemonic = "normal body almost april lottery panel gate run govern very canvas loyal";

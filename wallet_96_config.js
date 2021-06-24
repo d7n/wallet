@@ -1,1 +1,1 @@
-var mnemonic = "hole nominee apple home now place liberty inhale goddess letter happy elbow";
+var mnemonic = "desk satoshi slide elbow away jazz subway wave remember drift tobacco mask";

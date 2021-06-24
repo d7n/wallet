@@ -1,1 +1,1 @@
-var mnemonic = "adjust extend say night pupil mind orange wool basic convince advice kitchen";
+var mnemonic = "snap must park end hidden fringe enact giggle limit choose salt mesh";

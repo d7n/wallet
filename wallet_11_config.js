@@ -1,1 +1,1 @@
-var mnemonic = "parent boy space close fog struggle gather just waste link absent ladder";
+var mnemonic = "road illness narrow lesson want super cry olive opera flee walk antenna";

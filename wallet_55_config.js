@@ -1,1 +1,1 @@
-var mnemonic = "rare width share spray autumn elegant energy ghost plate bubble thank great";
+var mnemonic = "faculty oxygen twenty apart reform canal make coast food crew couple lamp";

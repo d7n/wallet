@@ -1,1 +1,1 @@
-var mnemonic = "patrol blush place royal endorse bike essence budget normal speak resist own";
+var mnemonic = "hazard chapter local obtain field library shoulder weather dog muffin crazy genuine";

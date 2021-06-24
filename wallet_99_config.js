@@ -1,1 +1,1 @@
-var mnemonic = "drive weekend arrange mule effort dog siren okay alarm heart plastic island";
+var mnemonic = "pride noise absent unaware puppy expand aspect knock avoid glance endless fee";

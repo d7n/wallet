@@ -1,1 +1,1 @@
-var mnemonic = "genius one frozen help salt phone horn dynamic biology nothing family torch";
+var mnemonic = "uncle unusual capable endless sound hint dust myth taste coconut illness blame";

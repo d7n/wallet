@@ -1,1 +1,1 @@
-var mnemonic = "thing menu banana outside green unfair retreat river help valve boat motion";
+var mnemonic = "bunker team hero roof online zero person surface joy behave volcano pledge";

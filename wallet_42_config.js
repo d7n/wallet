@@ -1,1 +1,1 @@
-var mnemonic = "main song addict change crowd right fish neglect improve picnic quality envelope";
+var mnemonic = "above brisk spray panda teach coin hurdle away ramp rent medal price";

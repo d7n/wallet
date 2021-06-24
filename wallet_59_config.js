@@ -1,1 +1,1 @@
-var mnemonic = "mind naive file debate token document excuse visual solar message gorilla soap";
+var mnemonic = "museum weasel result tuna jealous muffin ask medal pig palace galaxy doctor";

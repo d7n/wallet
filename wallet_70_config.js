@@ -1,1 +1,1 @@
-var mnemonic = "visual organ spare tree various parent true stool must tired just travel";
+var mnemonic = "vendor priority lunch stay motion hub crouch hawk cattle strategy power surface";

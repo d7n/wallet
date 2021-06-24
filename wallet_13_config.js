@@ -1,1 +1,1 @@
-var mnemonic = "actress switch canvas seed crawl another entire crystal lava brisk away proud";
+var mnemonic = "early bonus reopen soup loan vacant derive innocent initial olympic okay weird";

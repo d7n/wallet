@@ -1,1 +1,1 @@
-var mnemonic = "fatigue history since glare airport book torch beyond gospel senior inquiry foil";
+var mnemonic = "bring tennis attract frozen page annual circle approve drum legal tent person";

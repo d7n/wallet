@@ -1,1 +1,1 @@
-var mnemonic = "pepper grief demise valid equal audit ocean private demand rubber blood actor";
+var mnemonic = "test owner hat fancy door person reason south best warrior cement ridge";

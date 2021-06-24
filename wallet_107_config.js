@@ -1,1 +1,1 @@
-var mnemonic = "unfold jelly race attack sorry useless net judge run reflect north harvest";
+var mnemonic = "camp wealth actor quantum crouch segment cheese pyramid soap private chest owner";

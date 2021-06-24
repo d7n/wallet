@@ -1,1 +1,1 @@
-var mnemonic = "adapt knock weekend idle orbit auction mix pass organ wing flee awkward";
+var mnemonic = "barrel churn wise conduct family biology cross crash dynamic wage laugh unique";

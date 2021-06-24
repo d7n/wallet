@@ -1,1 +1,1 @@
-var mnemonic = "decorate waste equip fantasy system pistol phrase replace setup oil hotel section";
+var mnemonic = "bird vendor under lava remember super confirm client squirrel middle annual saddle";

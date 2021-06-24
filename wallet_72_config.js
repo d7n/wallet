@@ -1,1 +1,1 @@
-var mnemonic = "dog glue prevent focus predict clerk recall turn clock toddler rigid net";
+var mnemonic = "behind ordinary eyebrow tone garage must crush season culture sing dizzy ripple";

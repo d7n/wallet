@@ -1,1 +1,1 @@
-var mnemonic = "explain sad custom hockey glimpse repeat nerve raw scatter swap behave analyst";
+var mnemonic = "steel people grape jacket company afraid oblige bitter man dutch crime ecology";

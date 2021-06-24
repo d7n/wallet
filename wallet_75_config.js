@@ -1,1 +1,1 @@
-var mnemonic = "plunge airport grief design wedding knock behave gasp stomach unveil unusual brave";
+var mnemonic = "tunnel someone exile strategy sentence bounce neutral coffee dumb cart demise want";

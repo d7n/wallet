@@ -1,1 +1,1 @@
-var mnemonic = "chest shuffle shrimp claw since raccoon finger dumb soup raise trial when";
+var mnemonic = "affair raw rural sunset pitch spoil mistake century custom match spread glass";

@@ -1,1 +1,1 @@
-var mnemonic = "toast spatial pistol gold regular then fence check foster right client kitten";
+var mnemonic = "place galaxy swallow stock mule scene salt gentle speed ill easy remain";

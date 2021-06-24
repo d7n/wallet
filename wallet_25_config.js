@@ -1,1 +1,1 @@
-var mnemonic = "sign father core addict indicate bicycle vessel hair birth beef surge poet";
+var mnemonic = "immune very relief wave team crime sauce frost short trash material industry";

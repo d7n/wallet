@@ -1,1 +1,1 @@
-var mnemonic = "door regular soft dirt salmon clog ocean punch remind speak adjust frog";
+var mnemonic = "glide grass danger one upset hundred shed soul purity quiz message dentist";

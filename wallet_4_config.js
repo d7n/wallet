@@ -1,1 +1,1 @@
-var mnemonic = "horror fragile honey wrap glance gossip worry emerge hood spend zone bitter";
+var mnemonic = "fitness seminar maid panic cattle goat black have thought company network sister";

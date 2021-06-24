@@ -1,1 +1,1 @@
-var mnemonic = "figure easily state idle roof enhance kid calm shed clip swap nut";
+var mnemonic = "kiwi behave promote hole census era edge cook tomato case slush only";

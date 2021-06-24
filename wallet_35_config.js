@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon prosper exotic pause problem arrow interest melody dirt buyer hip shrug";
+var mnemonic = "rent rose more occur hedgehog gossip siren shoe vacuum cause win color";
