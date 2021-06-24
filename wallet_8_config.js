@@ -1,1 +1,1 @@
-var mnemonic = "glance drop antenna game solid call verb they fortune flock ice hunt";
+var mnemonic = "popular airport fancy sheriff exact material banner inner day twenty barrel analyst";

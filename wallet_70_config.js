@@ -1,1 +1,1 @@
-var mnemonic = "rapid gloom remind slab start cause profit joke yard body cycle jar";
+var mnemonic = "fly puppy tuition voice two device special labor fish during little monitor";

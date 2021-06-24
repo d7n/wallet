@@ -1,1 +1,1 @@
-var mnemonic = "hole prosper antique rich mutual team rule access hurdle tower exist betray";
+var mnemonic = "craft fox desk decline float silent museum chronic shed smoke cup equal";

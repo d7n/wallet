@@ -1,1 +1,1 @@
-var mnemonic = "chronic negative assume shell allow badge uncle slide earth radio usual estate";
+var mnemonic = "east lecture resemble observe build battle actress army trim census waste habit";

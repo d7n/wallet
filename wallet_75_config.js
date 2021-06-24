@@ -1,1 +1,1 @@
-var mnemonic = "park pottery tag conduct uncle salad shove dynamic clap senior kind radar";
+var mnemonic = "repair glue van color problem lake divert degree bid foster brief assist";

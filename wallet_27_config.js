@@ -1,1 +1,1 @@
-var mnemonic = "cook common planet fan bacon tackle jungle drip hospital harbor grass lamp";
+var mnemonic = "light labor turtle public keep palace mercy dinosaur degree mimic deliver practice";

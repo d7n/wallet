@@ -1,1 +1,1 @@
-var mnemonic = "ship loud dignity poverty cage conduct control degree main hero upon few";
+var mnemonic = "elephant smart inflict group health blossom congress fit master reunion ask axis";

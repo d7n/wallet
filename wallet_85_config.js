@@ -1,1 +1,1 @@
-var mnemonic = "resource image summer other review advance bullet slide nurse apology piece pill";
+var mnemonic = "poet clay intact health furnace rival buzz deal include heavy heart coyote";

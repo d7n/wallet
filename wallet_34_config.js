@@ -1,1 +1,1 @@
-var mnemonic = "suffer mouse vendor when cattle trial inject bar good total vast health";
+var mnemonic = "secret tell mom length nothing lecture conduct theme holiday appear gentle input";

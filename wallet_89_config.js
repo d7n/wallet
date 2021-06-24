@@ -1,1 +1,1 @@
-var mnemonic = "arrange false glory grow damage aisle write skin glimpse network entry circle";
+var mnemonic = "goose outside castle offer pause sing brother taxi crater rose million human";

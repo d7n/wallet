@@ -1,1 +1,1 @@
-var mnemonic = "run nature guide antique net test nose street dentist short upon wide";
+var mnemonic = "remind shed embark galaxy action minute write lunch arrange portion list supreme";

@@ -1,1 +1,1 @@
-var mnemonic = "project luggage embark echo purchase deputy quantum planet round old rude twice";
+var mnemonic = "manual abandon mango sentence panel foot wet tent bone right shiver rubber";

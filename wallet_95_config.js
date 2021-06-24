@@ -1,1 +1,1 @@
-var mnemonic = "aspect share section burden permit together sketch inside card august water any";
+var mnemonic = "fabric habit nasty baby feed elder guilt unfold stadium pave ahead cat";

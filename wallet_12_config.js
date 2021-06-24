@@ -1,1 +1,1 @@
-var mnemonic = "token paddle east usage kingdom rookie cat churn chase voice gun sentence";
+var mnemonic = "stick diamond advance defy rigid detail whip frown apple vacant oxygen lava";

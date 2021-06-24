@@ -1,1 +1,1 @@
-var mnemonic = "wide rookie proof surge drastic better slot silver used roast ticket sock";
+var mnemonic = "video jelly enact chase retire early nuclear bamboo giraffe predict crisp truck";

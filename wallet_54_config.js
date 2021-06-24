@@ -1,1 +1,1 @@
-var mnemonic = "winner mountain pause okay snack grass scan crane frozen swap liberty arrest";
+var mnemonic = "seed hire catalog add beef core region fish trick type jazz valley";

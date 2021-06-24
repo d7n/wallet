@@ -1,1 +1,1 @@
-var mnemonic = "immune same that boil vessel direct next wisdom ribbon photo bitter gallery";
+var mnemonic = "furnace limit twenty fun plastic zoo expire swim soda proud van give";

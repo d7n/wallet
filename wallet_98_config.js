@@ -1,1 +1,1 @@
-var mnemonic = "winner winter addict seat embark robot rent wisdom rhythm great sight foot";
+var mnemonic = "maze swear credit ride wire much this chronic fatal remember guilt pig";

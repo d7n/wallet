@@ -1,1 +1,1 @@
-var mnemonic = "silent traffic foot liar caught jealous night opera gold violin disease muffin";
+var mnemonic = "step witness glare ski drift hill already vibrant exhaust noodle airport tiger";

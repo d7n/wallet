@@ -1,1 +1,1 @@
-var mnemonic = "tobacco setup outside body foam empty pepper sustain quit voice tortoise ensure";
+var mnemonic = "raise wing laundry ten muffin slice reward drum useful husband raise expire";

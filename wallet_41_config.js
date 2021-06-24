@@ -1,1 +1,1 @@
-var mnemonic = "submit athlete mom grid bench caution pave century bus crisp tenant stadium";
+var mnemonic = "question come elite vibrant retire dutch wreck evolve rail taste garment van";

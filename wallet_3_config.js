@@ -1,1 +1,1 @@
-var mnemonic = "shrug luggage orchard ensure truck super jewel captain ring crew young receive";
+var mnemonic = "cupboard movie call tongue vessel just fish argue stamp step accuse wave";

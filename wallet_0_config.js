@@ -1,1 +1,1 @@
-var mnemonic = "parade tool vessel fabric olive coach security asthma tide tail punch vault";
+var mnemonic = "total crush gasp decorate can badge manual also attitude chest friend end";

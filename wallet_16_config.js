@@ -1,1 +1,1 @@
-var mnemonic = "alone useful endorse satoshi black onion camp casino medal cupboard slogan panda";
+var mnemonic = "test lawn creek ceiling trust crumble kind vintage attitude side lunar script";

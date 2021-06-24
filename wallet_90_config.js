@@ -1,1 +1,1 @@
-var mnemonic = "coffee great stable helmet close enhance silly garlic find lucky amateur diagram";
+var mnemonic = "immense foam common acoustic round thumb voyage allow heavy penalty chair surround";

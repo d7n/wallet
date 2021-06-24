@@ -1,1 +1,1 @@
-var mnemonic = "much pattern nation inherit tip habit own potato spatial mass sad response";
+var mnemonic = "hollow cheese dial exercise file width exit outdoor sword planet warrior impact";

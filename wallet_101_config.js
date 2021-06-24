@@ -1,1 +1,1 @@
-var mnemonic = "music choice atom humor matrix film acoustic attitude food clutch east wealth";
+var mnemonic = "salmon kit torch course list phrase visa fire pizza kick bar gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "amazing panel wink shock mother lecture trial zero craft fame immune ostrich";
+var mnemonic = "cousin average couch arch virus man salt fatigue fossil turkey foster man";

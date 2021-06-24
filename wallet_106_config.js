@@ -1,1 +1,1 @@
-var mnemonic = "garden equip side mixture mammal photo lamp shrug way pink able grab";
+var mnemonic = "pause athlete rib wealth diamond cancel board rain oil jeans know route";

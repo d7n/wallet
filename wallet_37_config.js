@@ -1,1 +1,1 @@
-var mnemonic = "hockey arrange damage guide start banner word bubble lecture release mean protect";
+var mnemonic = "grape stone course female example put cube jar fiber grape torch base";

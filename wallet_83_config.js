@@ -1,1 +1,1 @@
-var mnemonic = "surge else dog combine weekend wrong degree similar model absorb oppose picture";
+var mnemonic = "switch tank usage tuna ability bird puppy chief head chaos prepare multiply";

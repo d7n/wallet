@@ -1,1 +1,1 @@
-var mnemonic = "ridge destroy two lift left comfort sense wedding calm hedgehog wool history";
+var mnemonic = "caught behave cabbage connect evidence endorse stool crime blade unfair abandon elevator";

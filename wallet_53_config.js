@@ -1,1 +1,1 @@
-var mnemonic = "into drip gossip yellow print art omit faculty usage lesson visit decade";
+var mnemonic = "foot napkin luxury idea quality trophy can coconut ski already entry oyster";

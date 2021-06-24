@@ -1,1 +1,1 @@
-var mnemonic = "lend cigar stool ladder dutch veteran gain sister leaf duck glory title";
+var mnemonic = "problem brother raccoon rural code river author strong wrap tube crash squirrel";

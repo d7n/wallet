@@ -1,1 +1,1 @@
-var mnemonic = "nerve trouble idea dynamic avoid pet joy inhale output drama crack citizen";
+var mnemonic = "task carbon kingdom talk myself where category chase mansion intact debris board";

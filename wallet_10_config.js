@@ -1,1 +1,1 @@
-var mnemonic = "mansion orchard sadness quality bridge rough balcony version trend cancel cluster truly";
+var mnemonic = "witness moment increase grunt attack rookie chronic awesome area wave cloth brick";

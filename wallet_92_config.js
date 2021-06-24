@@ -1,1 +1,1 @@
-var mnemonic = "member burst cupboard fox drum love tragic hollow fashion recycle spatial juice";
+var mnemonic = "dentist dumb post cradle plate afford fantasy ticket pencil pull diary budget";

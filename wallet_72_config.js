@@ -1,1 +1,1 @@
-var mnemonic = "shy mansion spare sniff payment renew armor enlist change term nose company";
+var mnemonic = "worry ship lava year tuna hard plug photo bicycle relief sell moon";

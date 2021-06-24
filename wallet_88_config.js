@@ -1,1 +1,1 @@
-var mnemonic = "guess gown atom narrow income fabric virtual club absent base smart deputy";
+var mnemonic = "process cousin citizen double sad chunk before strong scan beauty tuition pencil";

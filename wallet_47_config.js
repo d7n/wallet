@@ -1,1 +1,1 @@
-var mnemonic = "jump disagree horror chef square swap broccoli bread chaos two grit mask";
+var mnemonic = "juice rack skill often ecology volume charge giant purpose offer limit mammal";

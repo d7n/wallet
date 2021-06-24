@@ -1,1 +1,1 @@
-var mnemonic = "suggest million size write exclude hire usual story debate great thunder scene";
+var mnemonic = "cloud saddle deputy laugh deer month affair erosion empower festival giraffe tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "pizza end announce autumn title alone bounce seminar december lava garlic sick";
+var mnemonic = "topple grocery picnic kind hood cattle pyramid orange sing recycle right salt";

@@ -1,1 +1,1 @@
-var mnemonic = "question rough duck dune thing icon gadget height record surface chronic vanish";
+var mnemonic = "left orient radar hundred shove review toss exotic three salmon wage icon";

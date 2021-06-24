@@ -1,1 +1,1 @@
-var mnemonic = "draft vivid quit time place safe wet unknown figure spirit blossom drift";
+var mnemonic = "nephew acquire salon only car ask awesome close key name flower casual";

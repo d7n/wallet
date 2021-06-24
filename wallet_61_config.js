@@ -1,1 +1,1 @@
-var mnemonic = "defy wash very agree drop motion mansion awesome bright olympic act light";
+var mnemonic = "short fan ribbon secret resemble west refuse promote news genre truly spare";

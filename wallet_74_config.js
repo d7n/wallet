@@ -1,1 +1,1 @@
-var mnemonic = "element mixed model magnet emotion bomb board rather forget finger pave matter";
+var mnemonic = "grant move material citizen tail squeeze field vicious awesome mention catalog direct";

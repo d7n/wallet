@@ -1,1 +1,1 @@
-var mnemonic = "limit salon sure void rapid divide clinic veteran cream leopard knee damage";
+var mnemonic = "impose tortoise injury keen purity boil spend arch dumb genre unhappy decade";

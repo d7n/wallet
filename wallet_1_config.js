@@ -1,1 +1,1 @@
-var mnemonic = "tip reject slice romance tackle fantasy raven assault blind wheel city rib";
+var mnemonic = "half hamster twist trap mesh run entire seven retreat firm high advance";

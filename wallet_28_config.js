@@ -1,1 +1,1 @@
-var mnemonic = "market penalty victory vast daring frost artist mushroom reform stumble swamp decade";
+var mnemonic = "strategy receive orient bronze alone outside begin visa put antenna dumb annual";

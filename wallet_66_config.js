@@ -1,1 +1,1 @@
-var mnemonic = "victory require space surprise such juice boring castle entire buyer silly bag";
+var mnemonic = "essence cool citizen ability rug dirt relief service scrub crack extend lady";

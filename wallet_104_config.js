@@ -1,1 +1,1 @@
-var mnemonic = "title jelly cabin silver visit spell clarify whale pill army silly world";
+var mnemonic = "toy grit work consider february brush card city minor balcony vital method";

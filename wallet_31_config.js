@@ -1,1 +1,1 @@
-var mnemonic = "poem moon butter angry vault sister street circle food upon evolve glance";
+var mnemonic = "ill prefer yellow nerve enjoy wrist adult vote argue rely clown harsh";

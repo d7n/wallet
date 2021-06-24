@@ -1,1 +1,1 @@
-var mnemonic = "name embark already unfold edit special manage october page deputy journey palace";
+var mnemonic = "mandate help scene question scatter such move leg margin follow stamp someone";

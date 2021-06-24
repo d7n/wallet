@@ -1,1 +1,1 @@
-var mnemonic = "clever real fox guess shadow blood outside debris soccer vast reject timber";
+var mnemonic = "slide grass crane suggest soft whisper metal olympic scissors lava install order";

@@ -1,1 +1,1 @@
-var mnemonic = "tank skull matrix humble blue order clump cute property caution ranch spatial";
+var mnemonic = "junk slot arctic hover hint bus local kiwi tide occur tide awkward";

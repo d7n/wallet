@@ -1,1 +1,1 @@
-var mnemonic = "embark mix usual anchor street inside area seminar move inch twist yard";
+var mnemonic = "umbrella segment sight brave borrow observe merge delay admit hotel common suggest";

@@ -1,1 +1,1 @@
-var mnemonic = "sand detail soda mask poet soldier phone isolate must solution cycle fatal";
+var mnemonic = "stove amateur decade update shaft learn picture wrong crater explain arch peasant";

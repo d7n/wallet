@@ -1,1 +1,1 @@
-var mnemonic = "flag nuclear blame expire confirm stamp swear civil slush toilet truck erupt";
+var mnemonic = "merit track perfect park million benefit bitter pitch buddy toast wet lab";

@@ -1,1 +1,1 @@
-var mnemonic = "sugar zebra random make exist good antenna album nephew resist siren brisk";
+var mnemonic = "steak tattoo mesh radar fold market cement response faculty cabin salt october";

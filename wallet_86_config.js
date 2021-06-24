@@ -1,1 +1,1 @@
-var mnemonic = "shop cereal quote survey smoke avocado sibling tower bachelor lamp loop wear";
+var mnemonic = "defy trade cram train forget stand melody actor return museum welcome ordinary";

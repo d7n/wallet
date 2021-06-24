@@ -1,1 +1,1 @@
-var mnemonic = "seminar obtain brain glass ugly retire ridge dry canyon tube convince matter";
+var mnemonic = "reform kangaroo seminar vague silver purchase crater cube skin giggle laundry width";

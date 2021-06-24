@@ -1,1 +1,1 @@
-var mnemonic = "urge bicycle fox hurry type federal actor cushion stock fan six upgrade";
+var mnemonic = "powder tell uncover avocado around carry pizza play inherit waste idea what";

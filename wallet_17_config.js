@@ -1,1 +1,1 @@
-var mnemonic = "gadget junior napkin long idle siege cat icon false duty auto roof";
+var mnemonic = "special hobby pond right ball rate arctic glue bronze custom display mask";

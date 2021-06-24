@@ -1,1 +1,1 @@
-var mnemonic = "kid mammal uncle wrap aerobic effort glove stereo vote payment minute coffee";
+var mnemonic = "whale black true suspect airport mansion nerve wreck pulse quit provide identify";

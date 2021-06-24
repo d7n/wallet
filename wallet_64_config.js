@@ -1,1 +1,1 @@
-var mnemonic = "color document six people fetch enjoy submit favorite teach blue educate glow";
+var mnemonic = "twenty give quality response misery aunt crouch silly room fine nose mobile";

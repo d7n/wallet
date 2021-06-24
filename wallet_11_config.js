@@ -1,1 +1,1 @@
-var mnemonic = "digital ball census palm cloud boy erupt market pull cigar awake mouse";
+var mnemonic = "laundry smart oblige insect vibrant inside robust leader unusual era prefer process";

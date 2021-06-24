@@ -1,1 +1,1 @@
-var mnemonic = "opinion hotel purse awake excuse cake never awake nut hub obvious camera";
+var mnemonic = "apology stomach spoon fetch vicious song garlic lumber dune fence cigar myself";

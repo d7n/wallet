@@ -1,1 +1,1 @@
-var mnemonic = "forward theme pole pig cactus fortune discover camp lesson cattle friend abuse";
+var mnemonic = "oval fold essay trip runway vessel vehicle dinner rather tide burden riot";

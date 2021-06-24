@@ -1,1 +1,1 @@
-var mnemonic = "ankle admit field typical suspect daughter always deliver speed such boat unveil";
+var mnemonic = "decade scan right visual setup draft victory angle refuse lion defy owner";

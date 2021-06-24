@@ -1,1 +1,1 @@
-var mnemonic = "legend dream summer season any dilemma trust symptom grant coffee acquire letter";
+var mnemonic = "lyrics off metal piece aware pioneer market pizza lunar pull unfair civil";

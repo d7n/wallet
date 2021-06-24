@@ -1,1 +1,1 @@
-var mnemonic = "matter quit guilt library neglect card tonight embark couple amateur noise salute";
+var mnemonic = "danger float vivid edge march bus hello scare gate fashion giraffe spare";

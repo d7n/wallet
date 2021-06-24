@@ -1,1 +1,1 @@
-var mnemonic = "legend biology valid width tonight endorse balcony hundred frozen apology castle raw";
+var mnemonic = "zoo like donor limit scene salon much snack turtle traffic sock cram";

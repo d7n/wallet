@@ -1,1 +1,1 @@
-var mnemonic = "valid must inmate burst divert hundred grass day universe silent fresh frog";
+var mnemonic = "seed orient profit response eagle cattle index aim rural bean aisle fabric";

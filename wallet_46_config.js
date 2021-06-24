@@ -1,1 +1,1 @@
-var mnemonic = "vivid mimic mosquito south hole nothing guide pledge movie basket fold gentle";
+var mnemonic = "kid erode salt build thumb mimic erase base order flash hair glory";

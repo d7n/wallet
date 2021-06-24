@@ -1,1 +1,1 @@
-var mnemonic = "valley prosper own envelope frequent giant swallow hair trophy school embark obtain";
+var mnemonic = "express visual online make loop chapter peasant goose rhythm limb size habit";

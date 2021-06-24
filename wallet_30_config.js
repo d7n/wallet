@@ -1,1 +1,1 @@
-var mnemonic = "once iron easy old method pistol garden six volume carry cycle poem";
+var mnemonic = "vibrant useless test tell useful boil unique alpha extend phrase tribe dirt";

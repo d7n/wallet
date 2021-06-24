@@ -1,1 +1,1 @@
-var mnemonic = "air wood net glare three clever wire follow prison cupboard elevator noodle";
+var mnemonic = "wagon sad finish unlock machine grief pause denial over width clog diet";

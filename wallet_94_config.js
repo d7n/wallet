@@ -1,1 +1,1 @@
-var mnemonic = "gravity champion effort tackle make near picnic aspect outside include ready account";
+var mnemonic = "pass hood exist know wrestle edge breeze patient forest car sure warrior";

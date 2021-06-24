@@ -1,1 +1,1 @@
-var mnemonic = "smart february february uncle matter siege cushion forward lottery hip win oblige";
+var mnemonic = "volcano theory print swift pitch enrich night stone tilt output smile monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "book moon express strategy spawn near sphere cousin travel same lumber apart";
+var mnemonic = "unfair any suffer hammer image access kind seek true used imitate infant";

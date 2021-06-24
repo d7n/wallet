@@ -1,1 +1,1 @@
-var mnemonic = "interest blame pyramid connect galaxy time mango abuse fantasy shop defense start";
+var mnemonic = "jump identify derive action noodle frost senior runway quarter kit rather lend";

@@ -1,1 +1,1 @@
-var mnemonic = "arrive over cement rocket rib valley erosion census collect relief head exit";
+var mnemonic = "nominee license stick soap vital fortune evidence useful merge violin fly yellow";

@@ -1,1 +1,1 @@
-var mnemonic = "eternal nose tackle snap solution make amused excuse draw future midnight stay";
+var mnemonic = "nut naive legend dream make expand announce deal game face educate corn";

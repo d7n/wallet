@@ -1,1 +1,1 @@
-var mnemonic = "speed measure laugh safe remember erase bullet what noise cigar obvious need";
+var mnemonic = "mass casino mammal security spice coin silver impulse tackle bundle lobster dumb";
