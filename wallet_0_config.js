@@ -1,1 +1,1 @@
-var mnemonic = "bless bar box mixed dry share weapon rib onion night diary region";
+var mnemonic = "parade tool vessel fabric olive coach security asthma tide tail punch vault";

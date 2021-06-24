@@ -1,1 +1,1 @@
-var mnemonic = "hurry mesh bounce legend allow play degree section gate basic final lens";
+var mnemonic = "ankle admit field typical suspect daughter always deliver speed such boat unveil";

@@ -1,1 +1,1 @@
-var mnemonic = "strong spot swear remember churn proud grunt bracket glimpse amused forest walk";
+var mnemonic = "chronic negative assume shell allow badge uncle slide earth radio usual estate";

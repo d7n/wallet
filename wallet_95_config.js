@@ -1,1 +1,1 @@
-var mnemonic = "frame affair kit embody robust pottery video remember other middle tool shaft";
+var mnemonic = "aspect share section burden permit together sketch inside card august water any";

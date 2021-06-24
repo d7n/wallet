@@ -1,1 +1,1 @@
-var mnemonic = "owner town detail neck quantum today family chunk autumn maple song ride";
+var mnemonic = "jump disagree horror chef square swap broccoli bread chaos two grit mask";

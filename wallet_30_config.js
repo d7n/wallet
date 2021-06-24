@@ -1,1 +1,1 @@
-var mnemonic = "copper crew swap smile define angle forest attack outer that other sunset";
+var mnemonic = "once iron easy old method pistol garden six volume carry cycle poem";

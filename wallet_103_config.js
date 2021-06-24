@@ -1,1 +1,1 @@
-var mnemonic = "develop stove liberty utility dice tail dry category govern odor army deal";
+var mnemonic = "limit salon sure void rapid divide clinic veteran cream leopard knee damage";

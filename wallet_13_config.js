@@ -1,1 +1,1 @@
-var mnemonic = "trap mutual sheriff glance sunset spike sphere place stage come combine hood";
+var mnemonic = "steak diet mushroom blood sense thank maximum income because bulk pudding piece";

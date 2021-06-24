@@ -1,1 +1,1 @@
-var mnemonic = "plastic finish twelve vanish area noise stuff there indoor scare lens hospital";
+var mnemonic = "kid mammal uncle wrap aerobic effort glove stereo vote payment minute coffee";

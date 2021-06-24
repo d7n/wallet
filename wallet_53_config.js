@@ -1,1 +1,1 @@
-var mnemonic = "ceiling globe distance pave donate provide museum eagle edge siren test file";
+var mnemonic = "into drip gossip yellow print art omit faculty usage lesson visit decade";

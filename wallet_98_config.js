@@ -1,1 +1,1 @@
-var mnemonic = "laugh dress region pigeon rely verify letter bargain advice prefer win swift";
+var mnemonic = "winner winter addict seat embark robot rent wisdom rhythm great sight foot";

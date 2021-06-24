@@ -1,1 +1,1 @@
-var mnemonic = "erosion basket ranch arm like spell spirit green lunch strike alpha kit";
+var mnemonic = "suffer mouse vendor when cattle trial inject bar good total vast health";

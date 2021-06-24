@@ -1,1 +1,1 @@
-var mnemonic = "art tired there gas leopard govern client traffic blood violin fit body";
+var mnemonic = "basic frequent world family modify receive surprise begin ignore auto because divert";

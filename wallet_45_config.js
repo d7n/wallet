@@ -1,1 +1,1 @@
-var mnemonic = "obey release social high permit exchange body enable field card tornado enjoy";
+var mnemonic = "tobacco setup outside body foam empty pepper sustain quit voice tortoise ensure";

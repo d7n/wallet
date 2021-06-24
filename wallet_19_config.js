@@ -1,1 +1,1 @@
-var mnemonic = "curtain grain stamp nasty include lyrics fade mutual river also monitor innocent";
+var mnemonic = "amazing panel wink shock mother lecture trial zero craft fame immune ostrich";

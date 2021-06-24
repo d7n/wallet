@@ -1,1 +1,1 @@
-var mnemonic = "choose explain trouble various accuse before domain wrap assault motion bird polar";
+var mnemonic = "destroy next major net since park convince chair also device oil nuclear";

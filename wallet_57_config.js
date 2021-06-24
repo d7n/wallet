@@ -1,1 +1,1 @@
-var mnemonic = "weird oyster gauge vast plunge risk nature swift claim hint stick robust";
+var mnemonic = "book moon express strategy spawn near sphere cousin travel same lumber apart";

@@ -1,1 +1,1 @@
-var mnemonic = "doll twin romance know battle truck meat forget aware believe define mass";
+var mnemonic = "pen lion fly glide lunch owner wasp open wing keen curious pulp";

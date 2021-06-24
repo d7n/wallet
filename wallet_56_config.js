@@ -1,1 +1,1 @@
-var mnemonic = "over audit north hover tower lab yard like cradle bomb garden bring";
+var mnemonic = "sad bachelor belt erase toy hub inherit aunt reflect worth island patrol";

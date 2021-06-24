@@ -1,1 +1,1 @@
-var mnemonic = "height depend face hidden sorry old squeeze edge goat cabin honey damage";
+var mnemonic = "frame coffee final whip team outdoor plate now solution flush equip tunnel";

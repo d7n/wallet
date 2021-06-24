@@ -1,1 +1,1 @@
-var mnemonic = "cabbage marble deposit sponsor glad bus squirrel borrow laugh flock crystal lawsuit";
+var mnemonic = "silent traffic foot liar caught jealous night opera gold violin disease muffin";

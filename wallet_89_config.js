@@ -1,1 +1,1 @@
-var mnemonic = "start also diesel mixture regret size art brown ozone odor little cost";
+var mnemonic = "arrange false glory grow damage aisle write skin glimpse network entry circle";

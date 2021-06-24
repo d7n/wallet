@@ -1,1 +1,1 @@
-var mnemonic = "announce choice puzzle avoid inspire benefit truly camera cancel moon symptom almost";
+var mnemonic = "clever real fox guess shadow blood outside debris soccer vast reject timber";

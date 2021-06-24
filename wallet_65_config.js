@@ -1,1 +1,1 @@
-var mnemonic = "comic barely recycle menu narrow disorder outdoor laptop energy ghost notable curtain";
+var mnemonic = "diesel endorse cigar warfare orbit pause pilot crouch forum mimic inside vital";

@@ -1,1 +1,1 @@
-var mnemonic = "remain merit excuse wet pole excuse gown dog liberty place exile satisfy";
+var mnemonic = "surge else dog combine weekend wrong degree similar model absorb oppose picture";

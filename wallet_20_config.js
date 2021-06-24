@@ -1,1 +1,1 @@
-var mnemonic = "tool soft refuse during creek enough pepper among fork around crawl rescue";
+var mnemonic = "tunnel pitch mixture hello rural camp similar mother duty hockey extra orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "unusual unit breeze click cry vintage glance together invite find pulse alone";
+var mnemonic = "illegal wing inject tide jazz traffic oval hurry october jazz project mobile";

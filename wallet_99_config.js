@@ -1,1 +1,1 @@
-var mnemonic = "inmate avocado scene armor oval creek wedding lion light pole brass pond";
+var mnemonic = "question rough duck dune thing icon gadget height record surface chronic vanish";

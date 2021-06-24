@@ -1,1 +1,1 @@
-var mnemonic = "member then square scorpion erupt during cook woman salute vicious insane nothing";
+var mnemonic = "shrug luggage orchard ensure truck super jewel captain ring crew young receive";

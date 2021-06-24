@@ -1,1 +1,1 @@
-var mnemonic = "need remove visual major deal attitude broken gown shuffle remove actress manual";
+var mnemonic = "music choice atom humor matrix film acoustic attitude food clutch east wealth";

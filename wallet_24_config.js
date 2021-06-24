@@ -1,1 +1,1 @@
-var mnemonic = "explain bright habit permit certain oval heavy board club impose eagle swap";
+var mnemonic = "urge bicycle fox hurry type federal actor cushion stock fan six upgrade";

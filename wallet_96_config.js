@@ -1,1 +1,1 @@
-var mnemonic = "certain cinnamon place topic layer special debris twice pistol occur crazy diet";
+var mnemonic = "nerve trouble idea dynamic avoid pet joy inhale output drama crack citizen";

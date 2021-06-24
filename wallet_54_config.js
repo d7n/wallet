@@ -1,1 +1,1 @@
-var mnemonic = "attend purpose slim oppose yellow tape cute correct maximum narrow talk wet";
+var mnemonic = "winner mountain pause okay snack grass scan crane frozen swap liberty arrest";

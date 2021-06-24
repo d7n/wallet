@@ -1,1 +1,1 @@
-var mnemonic = "honey pact hurt endorse disagree sight umbrella smoke stick dust impulse wink";
+var mnemonic = "air wood net glare three clever wire follow prison cupboard elevator noodle";

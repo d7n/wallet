@@ -1,1 +1,1 @@
-var mnemonic = "wall fat leisure crystal digital acid worry stuff powder margin between audit";
+var mnemonic = "element mixed model magnet emotion bomb board rather forget finger pave matter";

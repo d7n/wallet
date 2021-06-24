@@ -1,1 +1,1 @@
-var mnemonic = "scorpion mom material sample warm birth flip stable follow kangaroo near strategy";
+var mnemonic = "token paddle east usage kingdom rookie cat churn chase voice gun sentence";

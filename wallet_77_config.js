@@ -1,1 +1,1 @@
-var mnemonic = "avoid round chair balcony clever size spider talk spring episode luggage valid";
+var mnemonic = "much pattern nation inherit tip habit own potato spatial mass sad response";

@@ -1,1 +1,1 @@
-var mnemonic = "tower bottom walnut meat sand turn edge demand first upon buzz core";
+var mnemonic = "tape hidden patient turn deposit trim maximum pond now device shell genius";

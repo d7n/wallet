@@ -1,1 +1,1 @@
-var mnemonic = "dress crane pond space box leg balance barrel champion muscle decorate pledge";
+var mnemonic = "mansion orchard sadness quality bridge rough balcony version trend cancel cluster truly";

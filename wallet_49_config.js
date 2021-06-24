@@ -1,1 +1,1 @@
-var mnemonic = "pyramid buddy vehicle rough reunion combine have very child coin car inch";
+var mnemonic = "tornado job wing engine female enroll make cheap ostrich awesome safe oxygen";

@@ -1,1 +1,1 @@
-var mnemonic = "trim sunny adult route crew curtain rose between glide afraid fossil thing";
+var mnemonic = "shy mansion spare sniff payment renew armor enlist change term nose company";

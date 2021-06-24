@@ -1,1 +1,1 @@
-var mnemonic = "cushion group brick tennis thunder net marine leader wheel solve treat bottom";
+var mnemonic = "mesh lift vendor notable battle arm evidence still decorate place kitten visit";

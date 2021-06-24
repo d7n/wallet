@@ -1,1 +1,1 @@
-var mnemonic = "regret inform prepare hub invest arch move mother daring thought gospel tell";
+var mnemonic = "hole prosper antique rich mutual team rule access hurdle tower exist betray";

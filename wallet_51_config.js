@@ -1,1 +1,1 @@
-var mnemonic = "poet rhythm always elephant trophy tenant gauge captain brown salad waste unit";
+var mnemonic = "project luggage embark echo purchase deputy quantum planet round old rude twice";

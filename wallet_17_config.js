@@ -1,1 +1,1 @@
-var mnemonic = "risk credit choose wink lucky burst predict tube shrimp record gloom renew";
+var mnemonic = "gadget junior napkin long idle siege cat icon false duty auto roof";

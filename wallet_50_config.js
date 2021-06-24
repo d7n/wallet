@@ -1,1 +1,1 @@
-var mnemonic = "analyst crucial movie practice diet rail whip pluck shine drum onion light";
+var mnemonic = "immune same that boil vessel direct next wisdom ribbon photo bitter gallery";

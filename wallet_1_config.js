@@ -1,1 +1,1 @@
-var mnemonic = "clock soul sunset frown fossil vacant shoulder license day modify ostrich swamp";
+var mnemonic = "tip reject slice romance tackle fantasy raven assault blind wheel city rib";

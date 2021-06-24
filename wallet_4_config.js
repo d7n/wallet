@@ -1,1 +1,1 @@
-var mnemonic = "finger buyer excite shine reform ocean property remove blanket devote holiday chicken";
+var mnemonic = "tank skull matrix humble blue order clump cute property caution ranch spatial";

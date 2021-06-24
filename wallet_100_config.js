@@ -1,1 +1,1 @@
-var mnemonic = "canoe news tackle scale genius vote prevent pistol faith hub regret boil";
+var mnemonic = "chat oyster palm recipe scatter olive exhibit control stomach speak movie crumble";

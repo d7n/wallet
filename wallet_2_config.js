@@ -1,1 +1,1 @@
-var mnemonic = "riot air come bright approve aspect hole modify ceiling woman head rose";
+var mnemonic = "flag nuclear blame expire confirm stamp swear civil slush toilet truck erupt";

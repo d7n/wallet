@@ -1,1 +1,1 @@
-var mnemonic = "dentist word sting remain enrich chalk flame mention monkey flock bus excess";
+var mnemonic = "victory require space surprise such juice boring castle entire buyer silly bag";

@@ -1,1 +1,1 @@
-var mnemonic = "weasel riot vintage device seven glass long obtain cram buyer uncle winner";
+var mnemonic = "title jelly cabin silver visit spell clarify whale pill army silly world";

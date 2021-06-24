@@ -1,1 +1,1 @@
-var mnemonic = "differ patient afford cram actual tide electric possible cry omit elevator creek";
+var mnemonic = "poem moon butter angry vault sister street circle food upon evolve glance";

@@ -1,1 +1,1 @@
-var mnemonic = "cube pull outdoor battle scrub flag hammer require holiday erase mammal raw";
+var mnemonic = "valid must inmate burst divert hundred grass day universe silent fresh frog";

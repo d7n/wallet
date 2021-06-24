@@ -1,1 +1,1 @@
-var mnemonic = "weekend best umbrella special isolate because fault attitude magnet genuine web video";
+var mnemonic = "valley prosper own envelope frequent giant swallow hair trophy school embark obtain";

@@ -1,1 +1,1 @@
-var mnemonic = "latin begin together web pledge bring pole creek keen olive foster prosper";
+var mnemonic = "van kit umbrella heavy glide transfer method witness notice valley install aim";

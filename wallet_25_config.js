@@ -1,1 +1,1 @@
-var mnemonic = "peace april piece claim badge address decade firm canvas frown little poem";
+var mnemonic = "rebel food awkward stable water carry design salute exercise world come proud";

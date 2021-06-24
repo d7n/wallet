@@ -1,1 +1,1 @@
-var mnemonic = "above fly dolphin cactus seminar ramp bamboo shock fee trust badge warfare";
+var mnemonic = "envelope reason thank evolve orient goose stereo abuse march sea symbol identify";

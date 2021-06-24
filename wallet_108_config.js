@@ -1,1 +1,1 @@
-var mnemonic = "motor pen dirt gossip sunset cabin bind envelope seminar erode empower inch";
+var mnemonic = "stock impact shove solve print catalog approve apart clap seminar proof ocean";

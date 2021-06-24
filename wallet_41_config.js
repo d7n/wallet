@@ -1,1 +1,1 @@
-var mnemonic = "spice seat girl sound exotic spend kit off steel cram mobile steak";
+var mnemonic = "submit athlete mom grid bench caution pave century bus crisp tenant stadium";

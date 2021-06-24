@@ -1,1 +1,1 @@
-var mnemonic = "couch curious dad elephant latin cube hire whip weekend grant order visual";
+var mnemonic = "color document six people fetch enjoy submit favorite teach blue educate glow";

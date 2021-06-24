@@ -1,1 +1,1 @@
-var mnemonic = "mistake soccer daring van bamboo brick robust swear runway muffin six cost";
+var mnemonic = "guess gown atom narrow income fabric virtual club absent base smart deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "wheel job title assume lift spice hip lobster wing hospital boss daughter";
+var mnemonic = "market penalty victory vast daring frost artist mushroom reform stumble swamp decade";

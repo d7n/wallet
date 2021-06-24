@@ -1,1 +1,1 @@
-var mnemonic = "arrive main bulb brief eye swing butter reunion account secret pulp rack";
+var mnemonic = "turkey thumb bridge stay type joy save tomorrow fan price old often";

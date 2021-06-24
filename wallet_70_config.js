@@ -1,1 +1,1 @@
-var mnemonic = "jealous hint perfect galaxy disorder laptop fever capital mansion dirt arch escape";
+var mnemonic = "rapid gloom remind slab start cause profit joke yard body cycle jar";

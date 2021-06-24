@@ -1,1 +1,1 @@
-var mnemonic = "truth able mountain stairs shuffle vibrant side hurt slice bone broken protect";
+var mnemonic = "speed measure laugh safe remember erase bullet what noise cigar obvious need";

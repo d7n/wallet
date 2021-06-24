@@ -1,1 +1,1 @@
-var mnemonic = "crop mean chronic theme brown helmet leg eyebrow pulp february outdoor betray";
+var mnemonic = "legend dream summer season any dilemma trust symptom grant coffee acquire letter";

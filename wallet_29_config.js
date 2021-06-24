@@ -1,1 +1,1 @@
-var mnemonic = "lake sting engage gentle tonight gaze peace enemy letter shop subject jungle";
+var mnemonic = "embark mix usual anchor street inside area seminar move inch twist yard";

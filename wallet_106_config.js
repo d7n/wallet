@@ -1,1 +1,1 @@
-var mnemonic = "sweet coach floor ribbon afford abstract erupt enhance unveil brief ill asthma";
+var mnemonic = "garden equip side mixture mammal photo lamp shrug way pink able grab";

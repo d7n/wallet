@@ -1,1 +1,1 @@
-var mnemonic = "own drink december correct scheme scheme tennis trust network stem glow pattern";
+var mnemonic = "sleep winner trial virtual beach carpet describe pluck shop sweet shy equal";

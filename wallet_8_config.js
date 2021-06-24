@@ -1,1 +1,1 @@
-var mnemonic = "narrow excite moment voice guess profit crime raise exhibit vintage stuff divide";
+var mnemonic = "glance drop antenna game solid call verb they fortune flock ice hunt";

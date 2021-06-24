@@ -1,1 +1,1 @@
-var mnemonic = "frog envelope blossom subway plate bird curtain melt border dragon miracle angle";
+var mnemonic = "math save remind runway artist movie wreck magnet old vivid virtual animal";

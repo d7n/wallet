@@ -1,1 +1,1 @@
-var mnemonic = "veteran quiz cigar screen garment lizard cool trumpet normal sport woman infant";
+var mnemonic = "hockey arrange damage guide start banner word bubble lecture release mean protect";

@@ -1,1 +1,1 @@
-var mnemonic = "patrol slogan dumb inspire chimney broccoli payment lazy lady piano fatal alert";
+var mnemonic = "alone useful endorse satoshi black onion camp casino medal cupboard slogan panda";

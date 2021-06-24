@@ -1,1 +1,1 @@
-var mnemonic = "length desert vehicle jacket undo rich fossil tube weather plug elbow appear";
+var mnemonic = "draft vivid quit time place safe wet unknown figure spirit blossom drift";

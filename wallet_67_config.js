@@ -1,1 +1,1 @@
-var mnemonic = "adapt away fame lamp autumn throw jar ski final impose believe direct";
+var mnemonic = "eternal nose tackle snap solution make amused excuse draw future midnight stay";

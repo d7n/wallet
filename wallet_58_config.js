@@ -1,1 +1,1 @@
-var mnemonic = "govern slush cruel pull assume tiger scan opera magnet balance approve airport";
+var mnemonic = "moon cost truly fury coast hamster prize powder flash coconut bike model";

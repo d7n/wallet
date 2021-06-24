@@ -1,1 +1,1 @@
-var mnemonic = "random come obtain music actress cigar witness blade eye tent glimpse shock";
+var mnemonic = "ship loud dignity poverty cage conduct control degree main hero upon few";

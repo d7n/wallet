@@ -1,1 +1,1 @@
-var mnemonic = "among expire sketch thunder buyer drop rival dumb ginger upset opinion right";
+var mnemonic = "suggest million size write exclude hire usual story debate great thunder scene";

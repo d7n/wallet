@@ -1,1 +1,1 @@
-var mnemonic = "sudden limit attend start uncover kit squeeze genuine pony museum race boring";
+var mnemonic = "pizza end announce autumn title alone bounce seminar december lava garlic sick";

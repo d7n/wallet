@@ -1,1 +1,1 @@
-var mnemonic = "memory cycle mention uphold abstract ring baby sock floor pet develop proud";
+var mnemonic = "smart february february uncle matter siege cushion forward lottery hip win oblige";

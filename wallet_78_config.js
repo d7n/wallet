@@ -1,1 +1,1 @@
-var mnemonic = "strategy home wasp maple fog three barrel because staff charge squeeze harvest";
+var mnemonic = "legend biology valid width tonight endorse balcony hundred frozen apology castle raw";

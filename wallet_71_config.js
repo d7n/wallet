@@ -1,1 +1,1 @@
-var mnemonic = "also salon enrich tonight cricket hundred scorpion prosper gospel beef real topic";
+var mnemonic = "seminar obtain brain glass ugly retire ridge dry canyon tube convince matter";

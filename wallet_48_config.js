@@ -1,1 +1,1 @@
-var mnemonic = "column master hope jungle weird soon manage strategy analyst rough nest book";
+var mnemonic = "name embark already unfold edit special manage october page deputy journey palace";
