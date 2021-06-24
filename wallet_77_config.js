@@ -1,1 +1,1 @@
-var mnemonic = "exit sing wrestle quantum abuse theory method timber project citizen sea chuckle";
+var mnemonic = "tennis february kid visual include false tomorrow afraid wagon mesh disorder nose";

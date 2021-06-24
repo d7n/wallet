@@ -1,1 +1,1 @@
-var mnemonic = "sing way wedding pig wash gap city impulse bike fetch hood pumpkin";
+var mnemonic = "boring glare relief boss armor gown scout nation camp cry palm gift";

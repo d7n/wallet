@@ -1,1 +1,1 @@
-var mnemonic = "buffalo sustain story marine engage relief visa movie crew apology release table";
+var mnemonic = "zone atom state pattern bicycle normal veteran doctor upset north input artwork";

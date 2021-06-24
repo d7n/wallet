@@ -1,1 +1,1 @@
-var mnemonic = "modify hair annual exist donate meat eager wrong learn cross fold mammal";
+var mnemonic = "stereo fault vivid pet path know lecture coin yard engage risk nose";

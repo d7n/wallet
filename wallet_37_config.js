@@ -1,1 +1,1 @@
-var mnemonic = "census music cousin tail kite ordinary loyal bread actress reform need accuse";
+var mnemonic = "clay camp layer rich lock box bubble enjoy unknown hero grace enroll";

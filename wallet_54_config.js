@@ -1,1 +1,1 @@
-var mnemonic = "lawn tiger doctor slim hint hub beach online sing slender protect series";
+var mnemonic = "mask deny sibling step desk work matter tribe modify settle weather else";

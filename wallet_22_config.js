@@ -1,1 +1,1 @@
-var mnemonic = "soon drum detect blind comic tuna tissue poem gun relief south seat";
+var mnemonic = "world gown often film divert uncle bubble edit army appear twenty bulk";

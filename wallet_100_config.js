@@ -1,1 +1,1 @@
-var mnemonic = "peanut pony saddle winner head exact lottery cigar wheat awake stage meadow";
+var mnemonic = "kit perfect occur please pilot hen supply debate picture stool husband lawn";

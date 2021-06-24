@@ -1,1 +1,1 @@
-var mnemonic = "knee oil clever brother mansion portion rule turkey fire output grocery since";
+var mnemonic = "media raven define veteran abuse bridge october firm husband cake teach boat";

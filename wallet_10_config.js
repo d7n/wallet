@@ -1,1 +1,1 @@
-var mnemonic = "orphan palace citizen kangaroo bright helmet nerve faint disease echo wood outdoor";
+var mnemonic = "spice mouse payment parent spirit room excuse century harsh street error inject";

@@ -1,1 +1,1 @@
-var mnemonic = "point angry citizen misery indicate debate water marriage siege material company index";
+var mnemonic = "primary title hungry slogan hamster side wheat insane face universe dance speak";

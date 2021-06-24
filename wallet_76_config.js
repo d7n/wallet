@@ -1,1 +1,1 @@
-var mnemonic = "assume require easily turtle vast eager original orphan bunker ginger enjoy crazy";
+var mnemonic = "photo tennis model duty protect grant system base craft horn mushroom normal";

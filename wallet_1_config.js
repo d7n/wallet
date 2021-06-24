@@ -1,1 +1,1 @@
-var mnemonic = "trip great worth village adjust budget attitude spot confirm book wool enlist";
+var mnemonic = "trigger primary program garment copper animal produce flash announce cruise vacant cook";

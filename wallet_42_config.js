@@ -1,1 +1,1 @@
-var mnemonic = "rabbit pact vocal amount asset diet crisp okay project suggest tail victory";
+var mnemonic = "series demand mango cup enact cotton view spider force initial leaf guess";

@@ -1,1 +1,1 @@
-var mnemonic = "impose coil escape peasant frost park bread uphold gorilla ill paper pact";
+var mnemonic = "super gravity moment erase hero advice submit what that token valve pass";

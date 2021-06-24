@@ -1,1 +1,1 @@
-var mnemonic = "fashion garden hello rural ship apart drama muffin royal butter hero upgrade";
+var mnemonic = "life poet refuse chimney puppy power minor today clown barrel radar slight";

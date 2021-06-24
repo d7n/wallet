@@ -1,1 +1,1 @@
-var mnemonic = "angle disease fragile region wheat cruel present defense orchard similar under alcohol";
+var mnemonic = "woman seat region people boss circle filter poet road report expect hotel";

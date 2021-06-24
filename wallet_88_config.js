@@ -1,1 +1,1 @@
-var mnemonic = "jungle tissue used coral prepare feed board flock suggest air pepper fortune";
+var mnemonic = "apart civil together glance orphan divide wealth six whisper trap husband dune";

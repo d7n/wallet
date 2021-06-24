@@ -1,1 +1,1 @@
-var mnemonic = "tumble hidden width hundred stone swallow cradle volume correct similar ozone wedding";
+var mnemonic = "vehicle deputy angry april access insect option smile lobster version track decorate";

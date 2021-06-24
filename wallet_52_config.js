@@ -1,1 +1,1 @@
-var mnemonic = "proof autumn decade before fan taste tobacco between service number charge three";
+var mnemonic = "dune album start bottom casual donor float brass riot cancel conduct oven";

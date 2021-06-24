@@ -1,1 +1,1 @@
-var mnemonic = "employ tag cart town axis aware matrix measure coil hurry shoot inch";
+var mnemonic = "exist lecture dream walk claim rude fame scatter rebuild wave rescue warrior";

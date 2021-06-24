@@ -1,1 +1,1 @@
-var mnemonic = "squirrel range medal more drastic right police flee permit gossip sadness oak";
+var mnemonic = "term vicious sunset dad trouble refuse sight actress mountain leader brand skill";

@@ -1,1 +1,1 @@
-var mnemonic = "comfort cup tank purchase happy analyst machine bone pizza exile barrel amateur";
+var mnemonic = "obvious finger gold wheat escape offer initial luggage napkin dolphin possible achieve";

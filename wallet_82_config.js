@@ -1,1 +1,1 @@
-var mnemonic = "author travel attend east fit raw spawn point ribbon curtain snake upset";
+var mnemonic = "shield defense wrap soft cluster universe mesh real memory decade curve promote";

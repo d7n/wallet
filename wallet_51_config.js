@@ -1,1 +1,1 @@
-var mnemonic = "season grab cradle limit reject amazing body lab hospital popular paper wedding";
+var mnemonic = "quick never sick armed lumber south high ranch close odor crater power";

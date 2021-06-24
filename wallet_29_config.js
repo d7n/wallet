@@ -1,1 +1,1 @@
-var mnemonic = "vague buzz clarify honey type lottery defense real emotion manual crew disease";
+var mnemonic = "volume angry bone series magic jungle share brief tell work tennis cost";

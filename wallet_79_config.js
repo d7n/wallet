@@ -1,1 +1,1 @@
-var mnemonic = "leopard kingdom glimpse issue quarter consider fitness deliver fence size isolate wedding";
+var mnemonic = "twenty table category affair scissors item barrel energy toe face lounge blast";

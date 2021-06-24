@@ -1,1 +1,1 @@
-var mnemonic = "action decade toast trial tuna bottom dolphin disease siege february pizza force";
+var mnemonic = "rocket core gasp sadness loud abstract squeeze divert census detect rain open";

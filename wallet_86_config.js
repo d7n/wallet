@@ -1,1 +1,1 @@
-var mnemonic = "cram police cake olympic eager loop funny stand grass vacant barrel forget";
+var mnemonic = "pottery badge limit decrease august quality novel inflict end cliff captain ceiling";

@@ -1,1 +1,1 @@
-var mnemonic = "debris deny gas rigid rookie silly canyon casual sign street under license";
+var mnemonic = "gift rocket wool process excite health rhythm borrow evidence garbage inform disagree";

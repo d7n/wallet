@@ -1,1 +1,1 @@
-var mnemonic = "mind corn jewel curve upon evidence castle stay pumpkin fall bleak gravity";
+var mnemonic = "climb manual replace below stool elder gold final injury school found robust";

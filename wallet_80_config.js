@@ -1,1 +1,1 @@
-var mnemonic = "town police shed lounge swarm rescue broken brisk relax satoshi list style";
+var mnemonic = "exhaust bomb soldier jacket hold lobster lion excess girl flame bleak oven";

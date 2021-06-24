@@ -1,1 +1,1 @@
-var mnemonic = "crop tape spell swarm balance hungry melody label blast library indoor judge";
+var mnemonic = "absurd cherry lend pelican faith image harsh humor wheel zoo easy truck";

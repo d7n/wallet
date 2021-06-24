@@ -1,1 +1,1 @@
-var mnemonic = "drama can stem chase ripple zebra change blur sibling group cup then";
+var mnemonic = "harbor mandate claim mix milk boil grief exchange space yard embark evidence";

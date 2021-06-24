@@ -1,1 +1,1 @@
-var mnemonic = "purity wing voyage ozone pig enrich game melody want crush prefer live";
+var mnemonic = "stairs harvest word crystal expose indicate rely announce poet pull regular boss";

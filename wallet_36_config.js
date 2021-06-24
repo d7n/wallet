@@ -1,1 +1,1 @@
-var mnemonic = "multiply enhance side own combine scale anxiety target excess uphold special sunny";
+var mnemonic = "call nut property evolve scan insect iron defense fine found ski forum";

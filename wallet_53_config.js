@@ -1,1 +1,1 @@
-var mnemonic = "purity half vocal thumb drama insane mushroom grab tide cash dinosaur solution";
+var mnemonic = "consider rigid muffin wheel pony scissors fault segment chef boost arrange wear";

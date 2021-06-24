@@ -1,1 +1,1 @@
-var mnemonic = "web category media desert name harsh chalk lend amazing shrug random vicious";
+var mnemonic = "direct stove pudding can person obscure disagree focus gauge forum segment bullet";

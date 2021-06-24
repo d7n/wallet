@@ -1,1 +1,1 @@
-var mnemonic = "judge orient clock vapor upper stick target annual fringe breeze glove sail";
+var mnemonic = "garment bundle mirror error helmet music ocean scout old size rule join";

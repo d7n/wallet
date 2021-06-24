@@ -1,1 +1,1 @@
-var mnemonic = "seek taste vacuum trust reform input person conduct uncover grass half crash";
+var mnemonic = "able puppy inherit van swarm member heart load snow kitten thumb service";

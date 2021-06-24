@@ -1,1 +1,1 @@
-var mnemonic = "angle airport finger claw whisper wisdom hire barely talent assist canal resemble";
+var mnemonic = "tunnel oyster violin kite tackle knee dentist before hand useful fortune guilt";

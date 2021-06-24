@@ -1,1 +1,1 @@
-var mnemonic = "between envelope inform monkey scrub west love will emerge clutch result exercise";
+var mnemonic = "immense seed often able exhibit dignity tennis grant fluid island option rapid";

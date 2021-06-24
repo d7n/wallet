@@ -1,1 +1,1 @@
-var mnemonic = "result alarm beyond wrong pledge fancy flee foster bid wish install just";
+var mnemonic = "income hub spike squirrel point gadget goddess road repair shell acid tree";

@@ -1,1 +1,1 @@
-var mnemonic = "rose another milk pact crumble pepper gauge couch oil will border morning";
+var mnemonic = "issue renew glare winter extra window biology visual parent powder myself lonely";

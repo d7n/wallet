@@ -1,1 +1,1 @@
-var mnemonic = "ordinary consider save keep bright phone horse dolphin glow proud reward glare";
+var mnemonic = "cup piece hood lizard zero crucial doctor style obtain bright insane deliver";

@@ -1,1 +1,1 @@
-var mnemonic = "harsh negative hip shrug alley agent horn solid roof attract mixture argue";
+var mnemonic = "mouse clarify man place photo summer kitchen expose vacant wise bunker chair";

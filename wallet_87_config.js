@@ -1,1 +1,1 @@
-var mnemonic = "bundle scissors kangaroo soup genuine fiscal drastic velvet spare govern tornado useful";
+var mnemonic = "hour guess lonely mind game curious damp area amazing impulse flock wedding";

@@ -1,1 +1,1 @@
-var mnemonic = "afford stock inform frown typical fiction detect diesel debate forward fork feed";
+var mnemonic = "found december excuse quit skill pulp squirrel there crystal work crisp radio";

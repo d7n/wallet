@@ -1,1 +1,1 @@
-var mnemonic = "picnic trade forward private divert split slim brave always broken wasp gate";
+var mnemonic = "surprise borrow squeeze resemble blind verb adult fury useful cloth solve deal";

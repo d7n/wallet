@@ -1,1 +1,1 @@
-var mnemonic = "orient diary kick actual orchard coral topic hire rally century round stay";
+var mnemonic = "time garbage chest behind blossom purchase sock ten grab uncle grocery corn";

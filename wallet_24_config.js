@@ -1,1 +1,1 @@
-var mnemonic = "option toy time eight lunar earth box jaguar omit column grunt second";
+var mnemonic = "blood slot dutch secret foster joke clutch ten wheat phrase system behind";

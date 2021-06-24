@@ -1,1 +1,1 @@
-var mnemonic = "vivid peasant advance broken dog tumble injury wool canyon sunny then whale";
+var mnemonic = "upon army awful stairs similar post diet post vocal warrior sign unit";

@@ -1,1 +1,1 @@
-var mnemonic = "nothing ask grit cause shift sadness token brick salute verify extra gospel";
+var mnemonic = "run dwarf sock deal acquire judge ignore art hurt boy tone mountain";

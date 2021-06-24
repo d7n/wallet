@@ -1,1 +1,1 @@
-var mnemonic = "pull ticket afraid feed total often body stand crowd rich loan beef";
+var mnemonic = "vicious victory false arrive shoulder critic ready bottom green discover few fade";

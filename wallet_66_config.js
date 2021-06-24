@@ -1,1 +1,1 @@
-var mnemonic = "jelly lyrics forward luggage slush ghost cereal action gift upgrade human floor";
+var mnemonic = "legal begin monkey indoor secret proof autumn shop reason domain tired else";

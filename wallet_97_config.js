@@ -1,1 +1,1 @@
-var mnemonic = "miss cloud jewel image cancel fatal aisle sorry decade cattle click accuse";
+var mnemonic = "liberty slide grunt fence produce chalk tray cargo orient exile avoid only";

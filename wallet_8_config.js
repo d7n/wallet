@@ -1,1 +1,1 @@
-var mnemonic = "page unusual attack icon sponsor dirt cluster better awkward save pupil furnace";
+var mnemonic = "enhance essay true remain weather lounge stand wide manual ozone spider bring";

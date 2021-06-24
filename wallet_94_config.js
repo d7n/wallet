@@ -1,1 +1,1 @@
-var mnemonic = "like hip barely buyer inquiry right soup innocent quantum bicycle teach inspire";
+var mnemonic = "staff crucial avoid theme skill light husband during episode spawn enact same";

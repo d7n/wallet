@@ -1,1 +1,1 @@
-var mnemonic = "image kind expose color echo allow cushion void dawn arch just thought";
+var mnemonic = "guide jewel glimpse reflect caught fortune snack this monster raw milk mass";

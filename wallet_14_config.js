@@ -1,1 +1,1 @@
-var mnemonic = "spoon trim rate congress ridge output reason hour safe senior story noise";
+var mnemonic = "agree light borrow announce purity all normal kingdom tube spirit ginger nominee";

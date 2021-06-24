@@ -1,1 +1,1 @@
-var mnemonic = "runway crazy tooth snow drop clip vast juice sight ordinary control art";
+var mnemonic = "brick across prepare act brown typical match memory universe judge gauge tide";

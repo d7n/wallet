@@ -1,1 +1,1 @@
-var mnemonic = "glad cake shop access stage entire logic lyrics solid increase figure exile";
+var mnemonic = "raise cattle admit shell faint ceiling cupboard foot canal truck segment bargain";

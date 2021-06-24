@@ -1,1 +1,1 @@
-var mnemonic = "frame laptop soul seek wire wage luxury jeans puppy hold joke gym";
+var mnemonic = "urge arrest thing slab tiger border vague culture toss blade spirit clarify";

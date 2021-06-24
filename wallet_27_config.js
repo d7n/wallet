@@ -1,1 +1,1 @@
-var mnemonic = "file logic ready stairs august aunt betray lucky quote drink illness ramp";
+var mnemonic = "renew tragic flush rhythm arch they enter goose cycle trumpet lake sure";

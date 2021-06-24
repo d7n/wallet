@@ -1,1 +1,1 @@
-var mnemonic = "genius dog traffic mule lobster twenty roof upon elephant tongue casual virtual";
+var mnemonic = "member stool vanish plunge share rally deal blade tomorrow lift mountain size";

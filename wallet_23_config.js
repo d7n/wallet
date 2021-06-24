@@ -1,1 +1,1 @@
-var mnemonic = "gaze crunch atom chimney attitude post treat student team leader hire flavor";
+var mnemonic = "broccoli camera seminar card spirit travel artefact captain loyal agent canvas device";

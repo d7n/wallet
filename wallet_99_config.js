@@ -1,1 +1,1 @@
-var mnemonic = "maximum omit coconut plunge name lift wheel believe slice antenna aware help";
+var mnemonic = "trial gorilla year cancel ship galaxy apple rail violin snap donor smile";

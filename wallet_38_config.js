@@ -1,1 +1,1 @@
-var mnemonic = "stamp dog hockey naive monkey tribe mouse capable traffic run misery balcony";
+var mnemonic = "amateur crop child ceiling odor depth universe term lucky hockey creek shuffle";

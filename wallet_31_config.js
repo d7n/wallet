@@ -1,1 +1,1 @@
-var mnemonic = "believe anchor crater luxury plug illness scorpion clean please list load cook";
+var mnemonic = "goddess warm flee urban leaf master surprise police claw else fox label";

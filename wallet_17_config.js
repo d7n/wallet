@@ -1,1 +1,1 @@
-var mnemonic = "when tackle power raccoon alert test property timber public valley goat box";
+var mnemonic = "echo circle suggest alter rude mistake distance monster work target zebra creek";

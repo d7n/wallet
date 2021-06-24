@@ -1,1 +1,1 @@
-var mnemonic = "luxury strategy true apology auction wait large culture club vivid arrange cream";
+var mnemonic = "harvest profit sun bronze six orient same predict film vapor rebuild horror";

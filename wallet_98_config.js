@@ -1,1 +1,1 @@
-var mnemonic = "usage scene where owner flash work enact farm slender into vast drastic";
+var mnemonic = "tone million elder voyage oblige wolf rotate eternal capable guilt cigar rapid";

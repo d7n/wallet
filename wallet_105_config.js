@@ -1,1 +1,1 @@
-var mnemonic = "unusual tenant educate brief grief divert easy arctic today antique age mango";
+var mnemonic = "wedding thank bullet renew pledge negative clean fiscal school verb scrub zoo";

@@ -1,1 +1,1 @@
-var mnemonic = "earn annual tomorrow dress below report dignity master blast predict bulk purse";
+var mnemonic = "recipe spice sunset pupil dish deposit distance sock odor brother hire inner";

@@ -1,1 +1,1 @@
-var mnemonic = "alcohol lava globe bone rubber mind symbol impulse refuse language actor october";
+var mnemonic = "enrich slam earn dream animal car scout letter find remove mystery group";

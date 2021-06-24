@@ -1,1 +1,1 @@
-var mnemonic = "output short shove symbol indoor hour shiver swim loop jeans legend mask";
+var mnemonic = "orchard eyebrow level uncle ribbon similar arena near arctic cram cargo system";

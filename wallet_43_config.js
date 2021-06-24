@@ -1,1 +1,1 @@
-var mnemonic = "essence robot black rack wood occur joy busy lemon anchor bracket tube";
+var mnemonic = "problem crane alpha wash spice void brown divide travel south poverty tourist";

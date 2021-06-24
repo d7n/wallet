@@ -1,1 +1,1 @@
-var mnemonic = "report witness garage try isolate mechanic battle remember horror vivid scorpion vast";
+var mnemonic = "pistol fun blossom opera catalog also tiger awful title green narrow wreck";

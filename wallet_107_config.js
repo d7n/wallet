@@ -1,1 +1,1 @@
-var mnemonic = "slim mix much jeans project evoke observe few sting session height dog";
+var mnemonic = "sight finger salon mistake evoke define puzzle bench broom trumpet predict pistol";

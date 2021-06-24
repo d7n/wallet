@@ -1,1 +1,1 @@
-var mnemonic = "discover series treat warfare crime spawn stage wear tunnel strategy argue portion";
+var mnemonic = "amount kiwi taxi actual agent crawl space curve wheel explain job woman";

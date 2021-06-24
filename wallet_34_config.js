@@ -1,1 +1,1 @@
-var mnemonic = "stand artefact annual address enter sad carry oven congress mother arm diagram";
+var mnemonic = "chaos course fly frown matrix december exercise crush day distance sing volume";

@@ -1,1 +1,1 @@
-var mnemonic = "blush depart panther lecture sail scene seed jar ceiling wet word excess";
+var mnemonic = "salon whale rain glance fee unknown roof amazing pigeon shallow breeze drive";

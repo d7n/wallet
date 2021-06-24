@@ -1,1 +1,1 @@
-var mnemonic = "unaware pledge resource cruel actress misery door casino pride simple dolphin butter";
+var mnemonic = "effort sugar myth response filter sweet sense orchard security turn eight motion";

@@ -1,1 +1,1 @@
-var mnemonic = "exercise above useless hobby mango pluck winner depth parrot term bird health";
+var mnemonic = "erase swap home abandon hammer expand keen popular fury chair write flat";

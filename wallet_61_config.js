@@ -1,1 +1,1 @@
-var mnemonic = "sell fiscal carbon wrap worth dish antique insect type rail actress rely";
+var mnemonic = "social safe join advance about valid cancel ignore master best liar teach";

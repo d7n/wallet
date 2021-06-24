@@ -1,1 +1,1 @@
-var mnemonic = "duty only congress call note winner trip sock flower practice wagon adult";
+var mnemonic = "gauge security excuse slice artwork orange title slice thing liberty elegant rose";

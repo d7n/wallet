@@ -1,1 +1,1 @@
-var mnemonic = "lizard favorite pact assume actual garlic seminar quit scan that drift adapt";
+var mnemonic = "price radio time puppy visual dignity oblige swallow exhaust august despair marine";

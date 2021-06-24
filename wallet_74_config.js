@@ -1,1 +1,1 @@
-var mnemonic = "child wrong what picture face taste select original shove camera exchange nut";
+var mnemonic = "rare lottery swallow quick vague year erase skin cover dismiss gown moon";

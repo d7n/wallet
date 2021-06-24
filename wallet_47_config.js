@@ -1,1 +1,1 @@
-var mnemonic = "question vault maximum south reform group purse boost truly trophy short opera";
+var mnemonic = "short swamp hurry alarm enjoy wrist cupboard ladder plastic surge dutch stem";

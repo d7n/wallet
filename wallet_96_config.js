@@ -1,1 +1,1 @@
-var mnemonic = "glare amateur stuff original cushion water apart spring bitter bullet border blush";
+var mnemonic = "forum view middle burst loop fame curtain reflect proud image seed supply";

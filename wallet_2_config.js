@@ -1,1 +1,1 @@
-var mnemonic = "bunker state economy light hockey business include exact tank innocent dad fabric";
+var mnemonic = "prevent script predict begin peace vendor mix mystery bomb frozen essence agree";

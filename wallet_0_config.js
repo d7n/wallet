@@ -1,1 +1,1 @@
-var mnemonic = "steel later scout fee federal runway gas kick elbow prize bleak tattoo";
+var mnemonic = "guess turtle sausage legal attend portion pottery tomato pave book check idea";

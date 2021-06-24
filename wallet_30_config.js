@@ -1,1 +1,1 @@
-var mnemonic = "found essay display flag sound barrel bundle farm kiwi evil false blouse";
+var mnemonic = "plate style nephew action machine loop there together pulse damp ribbon maid";

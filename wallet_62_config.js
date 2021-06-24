@@ -1,1 +1,1 @@
-var mnemonic = "business rally check jaguar purse fiscal supreme father patient omit dog until";
+var mnemonic = "net advance derive public stage come amount later knock plastic alley play";

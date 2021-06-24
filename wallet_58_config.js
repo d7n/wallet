@@ -1,1 +1,1 @@
-var mnemonic = "banner since capable coyote million surface spice escape offer success mandate tobacco";
+var mnemonic = "unfold suggest slush rude nut suit kingdom control stay once merit skin";

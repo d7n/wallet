@@ -1,1 +1,1 @@
-var mnemonic = "theory agree range birth settle blur rescue music snake rent sweet apple";
+var mnemonic = "rural fee become lesson assist tiny reform alcohol flush scan under must";

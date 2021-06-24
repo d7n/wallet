@@ -1,1 +1,1 @@
-var mnemonic = "siege winner theme swallow labor wire drama dream theme video potato stove";
+var mnemonic = "swing welcome puppy elevator lunar annual pride original scale excite banana miracle";

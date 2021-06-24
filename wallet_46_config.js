@@ -1,1 +1,1 @@
-var mnemonic = "settle blind alpha valve party tissue family reject veteran exact coffee gate";
+var mnemonic = "mystery eye divide pattern castle suggest penalty foil silver color december series";
