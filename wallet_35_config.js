@@ -1,1 +1,1 @@
-var mnemonic = "taste slogan quality burden vapor lunar giraffe naive program busy prefer gauge";
+var mnemonic = "swamp similar notable earn test regret apple quit vanish genius rhythm ritual";

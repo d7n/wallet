@@ -1,1 +1,1 @@
-var mnemonic = "tenant case helmet field vapor clump raise seek wire liquid crunch give";
+var mnemonic = "moral armed oppose frame then soda become invest click embody before meadow";

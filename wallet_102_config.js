@@ -1,1 +1,1 @@
-var mnemonic = "reopen target conduct benefit exclude replace gasp shaft village thunder reason zero";
+var mnemonic = "cousin offer diesel ignore explain vocal twist relief hunt fun only thumb";

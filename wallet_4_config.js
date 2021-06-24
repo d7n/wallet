@@ -1,1 +1,1 @@
-var mnemonic = "stomach useless estate margin angry august scheme must acoustic net echo naive";
+var mnemonic = "expose turkey runway laptop derive around device marble brown way fiction reason";

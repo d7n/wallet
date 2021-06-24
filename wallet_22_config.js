@@ -1,1 +1,1 @@
-var mnemonic = "top addict enlist hair that today eyebrow credit finger decorate excess myself";
+var mnemonic = "cinnamon desert curious bike metal kingdom garage act gauge sun math antique";

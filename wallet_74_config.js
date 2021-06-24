@@ -1,1 +1,1 @@
-var mnemonic = "approve fiscal produce fetch grunt install attack father parade shock audit top";
+var mnemonic = "fiscal record twice wood mouse night minute assume pig swear pumpkin olympic";

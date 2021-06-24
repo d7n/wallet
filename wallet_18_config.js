@@ -1,1 +1,1 @@
-var mnemonic = "repeat infant skill robust agree great swift bone run pupil bracket harbor";
+var mnemonic = "sunset comic voice course matter uphold rent aim volcano three garage base";

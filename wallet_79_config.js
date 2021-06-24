@@ -1,1 +1,1 @@
-var mnemonic = "chest staff rely bar siren breeze scout remain worry toddler glow column";
+var mnemonic = "leaf home cool false dismiss rural toy taxi antique between employ ball";

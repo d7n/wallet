@@ -1,1 +1,1 @@
-var mnemonic = "virus october void dash fuel input winner female because equip junior happy";
+var mnemonic = "jar keep combine vast goat close label theory refuse tank document excess";

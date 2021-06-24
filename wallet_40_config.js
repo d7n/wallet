@@ -1,1 +1,1 @@
-var mnemonic = "scout bridge emotion tiny reduce ten lobster marine traffic glimpse found fire";
+var mnemonic = "jewel course evoke danger return online creek remind powder vivid vacuum smile";

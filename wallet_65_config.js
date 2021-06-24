@@ -1,1 +1,1 @@
-var mnemonic = "web aspect suit fit pioneer announce salt victory youth extra clip festival";
+var mnemonic = "grit option verify engine nephew argue almost soul train mesh exile hill";

@@ -1,1 +1,1 @@
-var mnemonic = "speak measure reduce typical quote twist harsh version unique judge dinosaur goose";
+var mnemonic = "announce devote simple gold bright clap man weird embody exhaust prefer hidden";

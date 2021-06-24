@@ -1,1 +1,1 @@
-var mnemonic = "raven injury half champion mirror gentle render ahead lizard pink cream stairs";
+var mnemonic = "certain mother favorite pyramid volcano insane unfold fatigue smoke reunion special mask";

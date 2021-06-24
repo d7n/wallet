@@ -1,1 +1,1 @@
-var mnemonic = "afraid ancient share cousin gasp cloth air outdoor increase shoot dinosaur liberty";
+var mnemonic = "spring round adult cry mirror expand world liquid latin addict spare unusual";

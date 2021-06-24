@@ -1,1 +1,1 @@
-var mnemonic = "wet shadow melody argue maximum return grunt copy hope tattoo inch alcohol";
+var mnemonic = "wisdom team mimic donor orphan digital lake shy balcony dirt push critic";

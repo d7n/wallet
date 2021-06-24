@@ -1,1 +1,1 @@
-var mnemonic = "bless monster aunt dance spot reward foster dinner comic kite decline fog";
+var mnemonic = "curve exit language bubble duty toddler jaguar gadget bottom cash boy sorry";

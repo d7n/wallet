@@ -1,1 +1,1 @@
-var mnemonic = "poet hair survey dirt rule crazy obtain mandate empty rent wish theory";
+var mnemonic = "able field butter team execute armor squeeze update buzz rebuild quote awake";

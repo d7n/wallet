@@ -1,1 +1,1 @@
-var mnemonic = "meadow decline frame pill much ritual figure tiny grief fashion pave online";
+var mnemonic = "comfort border canyon giant tide subject stem helmet seminar exit junior public";

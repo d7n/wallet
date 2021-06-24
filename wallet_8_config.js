@@ -1,1 +1,1 @@
-var mnemonic = "latin can absent oblige profit spirit coral ecology thank rifle educate spot";
+var mnemonic = "cheap stool caution mistake novel rib slim deer oppose trend pig motor";

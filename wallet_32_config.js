@@ -1,1 +1,1 @@
-var mnemonic = "sight height oppose story social nation panther wasp two weapon spike idea";
+var mnemonic = "winner special raise cradle pigeon entire wool entry match shock flavor target";

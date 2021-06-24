@@ -1,1 +1,1 @@
-var mnemonic = "final wealth allow habit humble bachelor right axis bean theory lecture sport";
+var mnemonic = "lend claw sausage among later ride model desert sauce provide wisdom suspect";

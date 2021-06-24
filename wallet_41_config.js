@@ -1,1 +1,1 @@
-var mnemonic = "mosquito inch fetch bonus upper tumble tape napkin offer hotel cinnamon badge";
+var mnemonic = "cancel afraid ozone tiny grape gallery private snack olive mutual acquire mask";

@@ -1,1 +1,1 @@
-var mnemonic = "front bronze become replace box impose power atom ramp mirror soft teach";
+var mnemonic = "science mandate portion detail finger method pool reduce weekend invite walk maid";

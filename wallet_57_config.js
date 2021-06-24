@@ -1,1 +1,1 @@
-var mnemonic = "ridge setup veteran eye dentist useless snack daring face choose glimpse bullet";
+var mnemonic = "absorb beauty bus goat deposit history cigar peanut hill middle coral occur";

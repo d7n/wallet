@@ -1,1 +1,1 @@
-var mnemonic = "neutral tell undo pig rice veteran always file glide stumble glare face";
+var mnemonic = "glad order hybrid exile fiber voyage laptop slam below mimic bronze surface";

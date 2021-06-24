@@ -1,1 +1,1 @@
-var mnemonic = "elite guitar trust valve bridge unaware document spirit eager tip drill brand";
+var mnemonic = "cram illegal speed bind cube chuckle shell just broom stereo cancel vibrant";

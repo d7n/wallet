@@ -1,1 +1,1 @@
-var mnemonic = "skirt laptop detect limit business brown pelican dignity client apology retire spring";
+var mnemonic = "circle adjust tree aunt picnic screen aim own quick parade item legal";

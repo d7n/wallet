@@ -1,1 +1,1 @@
-var mnemonic = "finish across age among idea safe assault tribe news angry cover female";
+var mnemonic = "steak length purpose bike destroy symbol gym various connect weather electric relief";

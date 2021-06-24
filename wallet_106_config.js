@@ -1,1 +1,1 @@
-var mnemonic = "toast legal excuse parade dry glimpse main remind behind system summer throw";
+var mnemonic = "rather wisdom swarm neglect trouble text amount trim apple obvious help october";

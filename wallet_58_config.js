@@ -1,1 +1,1 @@
-var mnemonic = "supreme useless amazing private question spoil mother nothing arch caution odor this";
+var mnemonic = "rubber isolate concert silk witness provide mad squeeze monkey dizzy symbol burst";

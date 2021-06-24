@@ -1,1 +1,1 @@
-var mnemonic = "mercy sing organ super pretty rather scorpion name oven friend rate lawn";
+var mnemonic = "eye pistol hotel surprise option tip extra blame elite agree mammal ivory";

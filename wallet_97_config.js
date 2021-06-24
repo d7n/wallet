@@ -1,1 +1,1 @@
-var mnemonic = "delay climb fat emerge have bitter dish garbage ivory comfort nasty abstract";
+var mnemonic = "limb pave pyramid twist arena advice moon labor bread twin solution zebra";

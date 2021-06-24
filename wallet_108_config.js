@@ -1,1 +1,1 @@
-var mnemonic = "silver valley marriage hungry portion air dignity about seminar involve panther wine";
+var mnemonic = "limb party stomach eight solve cage curious claw camera cancel retire apart";

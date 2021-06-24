@@ -1,1 +1,1 @@
-var mnemonic = "horn where modify umbrella again senior shrug seminar logic dry once auction";
+var mnemonic = "define tooth nut range absurd inspire month rail trash charge execute sunny";

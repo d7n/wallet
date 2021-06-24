@@ -1,1 +1,1 @@
-var mnemonic = "fuel refuse swarm atom candy penalty office quantum invite pitch bag wood";
+var mnemonic = "hurry rich whisper slush apology cupboard moral shrimp eagle brass spoil forum";

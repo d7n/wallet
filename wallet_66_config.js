@@ -1,1 +1,1 @@
-var mnemonic = "below water habit vibrant idea rude dust reduce garage impose step imitate";
+var mnemonic = "wine gentle okay heavy tourist vendor volume shadow slush oblige garment situate";

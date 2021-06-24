@@ -1,1 +1,1 @@
-var mnemonic = "clever damage fiscal away tattoo corn giant uncover slush lift van burst";
+var mnemonic = "used rural wood predict exclude chimney surround helmet paper better ice increase";

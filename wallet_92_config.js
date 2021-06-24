@@ -1,1 +1,1 @@
-var mnemonic = "when shiver pistol family state biology fan rotate inspire stay gospel cushion";
+var mnemonic = "rural solar siege virtual message silly spray box equip equal brick moment";

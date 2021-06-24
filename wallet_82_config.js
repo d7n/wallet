@@ -1,1 +1,1 @@
-var mnemonic = "kitten reason symbol swing book identify bonus life detect pupil drastic lemon";
+var mnemonic = "shift swamp dance virtual snap mother young circle proud develop stereo use";

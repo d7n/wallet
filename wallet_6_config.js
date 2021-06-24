@@ -1,1 +1,1 @@
-var mnemonic = "snap toe insect wild cabbage then bone hundred panel also observe risk";
+var mnemonic = "various garbage stumble level flame essay obvious garment promote head fabric whisper";

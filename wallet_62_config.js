@@ -1,1 +1,1 @@
-var mnemonic = "negative glide off usage valley add exist aerobic village acoustic enter bless";
+var mnemonic = "submit people hospital into dutch tide electric swear draft mouse happy ordinary";

@@ -1,1 +1,1 @@
-var mnemonic = "job quiz regular annual wrong cloud slender sun drill myself like attitude";
+var mnemonic = "winner project company cart tape combine slender marriage holiday during symbol current";

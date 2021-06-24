@@ -1,1 +1,1 @@
-var mnemonic = "famous fork lumber liquid relief twist tenant vehicle imitate double athlete various";
+var mnemonic = "fox chase aerobic unit limit useful toe dumb cloth crowd skull trophy";

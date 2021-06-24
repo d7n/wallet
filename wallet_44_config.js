@@ -1,1 +1,1 @@
-var mnemonic = "honey return flee inside early achieve wish rotate delay web setup share";
+var mnemonic = "globe goat bonus setup notice reunion fiction grab execute maze interest leader";

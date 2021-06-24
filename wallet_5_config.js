@@ -1,1 +1,1 @@
-var mnemonic = "width coral butter enjoy joke climb motion minor glow seek now shoe";
+var mnemonic = "recycle because close object project amazing stadium issue trash prepare foot extra";

@@ -1,1 +1,1 @@
-var mnemonic = "weapon diary sting social chat believe ridge light sad outdoor ring anchor";
+var mnemonic = "ocean brother fold occur embody brother impose borrow logic hover castle test";

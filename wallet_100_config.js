@@ -1,1 +1,1 @@
-var mnemonic = "leisure trial evidence arrow kiss fun leg tomorrow window device garlic next";
+var mnemonic = "mutual that matrix magnet spend garment nerve essence shell matter phrase page";

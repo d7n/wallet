@@ -1,1 +1,1 @@
-var mnemonic = "observe come time century settle life ghost grab utility audit suffer adult";
+var mnemonic = "boss thought decade snack hello grief market nuclear speak depend gold artist";

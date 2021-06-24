@@ -1,1 +1,1 @@
-var mnemonic = "trip icon empower mango glimpse learn sadness exit foil pet obtain salmon";
+var mnemonic = "regret caught jacket false parrot vague gloom oblige expose similar sausage purpose";

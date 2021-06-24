@@ -1,1 +1,1 @@
-var mnemonic = "fire make rack muscle attract local wrestle often connect bridge clerk route";
+var mnemonic = "drip advice garden absorb blood drip team wagon manage tag cost vivid";

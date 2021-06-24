@@ -1,1 +1,1 @@
-var mnemonic = "bone modify jacket give one define aerobic physical glance girl gaze approve";
+var mnemonic = "spike bamboo guard demise subway pulp range palace blanket camera trend barrel";

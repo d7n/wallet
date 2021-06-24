@@ -1,1 +1,1 @@
-var mnemonic = "whisper swarm affair stone common miss dial meat public gloom fire assist";
+var mnemonic = "stumble cushion appear arrow crash pelican tray leaf sheriff chalk surface equal";

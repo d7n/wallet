@@ -1,1 +1,1 @@
-var mnemonic = "coil glory embody silver drama submit address forget icon approve coin cable";
+var mnemonic = "bottom donate submit chaos denial cable chair satisfy lunch dilemma silly camera";

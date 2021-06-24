@@ -1,1 +1,1 @@
-var mnemonic = "link skull embody margin slide omit switch person spring suspect sphere fiction";
+var mnemonic = "reduce arrest sail awkward popular long core attract butter there black rapid";

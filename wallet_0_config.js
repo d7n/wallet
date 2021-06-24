@@ -1,1 +1,1 @@
-var mnemonic = "proud trigger online hobby enroll seed biology pistol trend stairs grunt rather";
+var mnemonic = "decrease fiscal cause define shed soda plug case clinic name scrap middle";

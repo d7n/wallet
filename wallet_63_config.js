@@ -1,1 +1,1 @@
-var mnemonic = "cash fabric conduct ginger unaware skill shed glass whip slab ball pass";
+var mnemonic = "target liberty spirit fancy aspect moment blind maple polar again vibrant hurry";

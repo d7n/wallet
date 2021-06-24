@@ -1,1 +1,1 @@
-var mnemonic = "rabbit join girl absurd manual can drop follow vanish police police girl";
+var mnemonic = "shop lady angry grain cat indicate drama confirm idea enact cluster lucky";

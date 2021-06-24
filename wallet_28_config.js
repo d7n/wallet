@@ -1,1 +1,1 @@
-var mnemonic = "calm health extend warfare vanish setup celery invite photo tattoo clip way";
+var mnemonic = "task joke doctor garden fetch innocent piece fly long snap jelly cheese";

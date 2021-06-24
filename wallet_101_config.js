@@ -1,1 +1,1 @@
-var mnemonic = "country chalk taxi have clap step reveal panther normal avocado ugly grit";
+var mnemonic = "hover smile soccer enact hurdle already soccer mansion prison unaware knee gallery";

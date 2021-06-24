@@ -1,1 +1,1 @@
-var mnemonic = "people calm agree goat adult minimum manage urge scan rigid jump spice";
+var mnemonic = "rule shoot pelican glide finger saddle earn scale chef snow alone spike";

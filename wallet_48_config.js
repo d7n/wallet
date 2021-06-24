@@ -1,1 +1,1 @@
-var mnemonic = "card acid gospel deposit valley wing awkward finish retreat bread resemble century";
+var mnemonic = "siren monkey cattle pluck useful desert right check gossip tape tide online";

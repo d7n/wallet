@@ -1,1 +1,1 @@
-var mnemonic = "knee zoo actual urban mistake code reduce they trumpet crime marble tenant";
+var mnemonic = "type give gate need cart motor buyer topple scan pioneer umbrella history";

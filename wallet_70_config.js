@@ -1,1 +1,1 @@
-var mnemonic = "verb tower length entire second horn success supreme digital indoor useful snake";
+var mnemonic = "this coffee meadow spring tower pave system direct captain chase pioneer giant";

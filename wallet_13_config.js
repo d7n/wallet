@@ -1,1 +1,1 @@
-var mnemonic = "unique virus visa silk angry champion inquiry feature mix toddler tennis treat";
+var mnemonic = "bicycle sheriff various valid bunker silk chef symptom amused velvet smoke strategy";

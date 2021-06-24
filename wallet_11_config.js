@@ -1,1 +1,1 @@
-var mnemonic = "fantasy sad depth riot hockey else flock dutch mass giggle weapon luggage";
+var mnemonic = "reveal invest purchase initial rent artwork gun today outer library love conduct";

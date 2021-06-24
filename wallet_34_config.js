@@ -1,1 +1,1 @@
-var mnemonic = "connect bird release general crawl lunch crazy quick mansion road reveal improve";
+var mnemonic = "journey divide brand case crazy flock dish burden comfort virus room scorpion";

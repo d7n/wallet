@@ -1,1 +1,1 @@
-var mnemonic = "pottery million turn dad embody trumpet small charge ticket exit before prevent";
+var mnemonic = "inform disagree trim saddle output hockey symbol garlic reduce submit change hospital";

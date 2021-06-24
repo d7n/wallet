@@ -1,1 +1,1 @@
-var mnemonic = "town stand limb swamp journey mystery protect wild injury milk poem arrange";
+var mnemonic = "license tobacco cannon devote bird shock assume phone maid cradle crime certain";

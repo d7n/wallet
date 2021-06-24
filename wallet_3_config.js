@@ -1,1 +1,1 @@
-var mnemonic = "flight whisper provide satisfy pretty toilet sign lady pave can magnet muffin";
+var mnemonic = "lizard kite exclude great gym addict humble unhappy train zoo pistol mammal";

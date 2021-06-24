@@ -1,1 +1,1 @@
-var mnemonic = "cave fatigue fetch trust suspect ensure country oven pitch rule slot open";
+var mnemonic = "fog fossil illness submit federal crew glove lamp twist trophy lazy check";

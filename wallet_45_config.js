@@ -1,1 +1,1 @@
-var mnemonic = "glance strategy myself image brass correct receive bike globe crash banana prefer";
+var mnemonic = "system quantum quarter skirt monitor soon grant will wide accuse bike silver";

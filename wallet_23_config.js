@@ -1,1 +1,1 @@
-var mnemonic = "dance census lonely zebra alarm demand merry street garlic deal hurt act";
+var mnemonic = "guide limit carry hero raise edge wear hope tragic tell van find";

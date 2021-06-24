@@ -1,1 +1,1 @@
-var mnemonic = "bottom situate artefact bind victory spell clump trumpet sport cook comfort truth";
+var mnemonic = "plate strategy aware wine thing frown myself soda swim unique derive section";

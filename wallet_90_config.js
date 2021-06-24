@@ -1,1 +1,1 @@
-var mnemonic = "else window actual matter social tag fancy zebra ski empower hamster car";
+var mnemonic = "improve direct invest modify bird indoor lock bar source twenty auto sight";

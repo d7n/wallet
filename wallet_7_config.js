@@ -1,1 +1,1 @@
-var mnemonic = "explain vessel health water farm praise pass crater legal shy chicken family";
+var mnemonic = "hidden lady rapid material tuition island awesome impact require observe zebra derive";

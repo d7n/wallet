@@ -1,1 +1,1 @@
-var mnemonic = "piece that bracket tired melody jacket frown say height symptom topple bronze";
+var mnemonic = "logic prevent life calm slide wood mouse income edit accident convince skill";

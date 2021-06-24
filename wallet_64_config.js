@@ -1,1 +1,1 @@
-var mnemonic = "mixed mushroom bless edit riot stereo silver citizen portion friend marble brisk";
+var mnemonic = "govern hint napkin antique sample outside robust steel jump diagram toward fancy";

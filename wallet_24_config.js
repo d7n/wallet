@@ -1,1 +1,1 @@
-var mnemonic = "series settle pattern dance allow hawk swamp ceiling hybrid quarter drastic test";
+var mnemonic = "injury canyon detect prison gap hub head radar erosion excuse wagon away";

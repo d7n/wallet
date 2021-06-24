@@ -1,1 +1,1 @@
-var mnemonic = "talent object melt swear hurdle age rely garlic snack wise pitch style";
+var mnemonic = "turtle can immense topple truck direct candy employ airport merry age latin";

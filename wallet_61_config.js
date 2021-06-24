@@ -1,1 +1,1 @@
-var mnemonic = "border illness minimum sight galaxy fine jealous culture agree tackle crawl rebel";
+var mnemonic = "answer ceiling leg october lumber private regular inmate turkey jaguar honey east";

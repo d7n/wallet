@@ -1,1 +1,1 @@
-var mnemonic = "trap cheese flip belt fish price tragic install blur game foster join";
+var mnemonic = "image butter fiber illegal chest slab give little apart blame flash alley";

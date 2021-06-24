@@ -1,1 +1,1 @@
-var mnemonic = "nerve olive earth scout bone sentence enrich boy add business talk approve";
+var mnemonic = "lift artwork much cool cream coin area toss engage sword park panel";

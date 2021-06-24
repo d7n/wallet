@@ -1,1 +1,1 @@
-var mnemonic = "suggest laugh love cube ethics pottery arrive gasp minor rebuild auction deal";
+var mnemonic = "rotate pilot mesh solution kitchen age major artwork happy casino shallow puppy";

@@ -1,1 +1,1 @@
-var mnemonic = "merry biology slow family genius menu load novel mechanic uphold detect salon";
+var mnemonic = "digital shiver abuse spoil input typical giraffe bridge gap nature quiz jealous";

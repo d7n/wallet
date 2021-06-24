@@ -1,1 +1,1 @@
-var mnemonic = "kidney hedgehog try trend addict glide ranch diamond arrest apple print tired";
+var mnemonic = "couch escape hazard proud skill debate key shift season refuse trap earth";

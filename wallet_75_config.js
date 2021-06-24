@@ -1,1 +1,1 @@
-var mnemonic = "service broken reveal trend surprise bleak gather connect marriage banner parrot breeze";
+var mnemonic = "ozone flush squirrel nurse knee educate void clock helmet dirt zero medal";

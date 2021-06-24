@@ -1,1 +1,1 @@
-var mnemonic = "green dinner capable clerk juice match eight purpose risk chapter august knife";
+var mnemonic = "blur vast hawk custom parent select honey copy radio viable torch few";

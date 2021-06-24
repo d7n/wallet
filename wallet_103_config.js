@@ -1,1 +1,1 @@
-var mnemonic = "digital crew task purity vapor disorder route brush silent lobster soda sign";
+var mnemonic = "quantum rib uphold certain snap search develop slice improve stem crunch youth";

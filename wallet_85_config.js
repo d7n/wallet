@@ -1,1 +1,1 @@
-var mnemonic = "oblige trial minute people nest police feel grace rural fetch embrace broken";
+var mnemonic = "bullet play crouch cost awkward gown despair chaos picture say talent edit";
