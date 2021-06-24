@@ -1,1 +1,1 @@
-var mnemonic = "weapon oven shift sand crunch hedgehog device merit tail rebel burger dance";
+var mnemonic = "fox broom metal have ask whisper upper coconut spell crouch hurt organ";

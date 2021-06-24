@@ -1,1 +1,1 @@
-var mnemonic = "submit enroll piano decline spoon clay spirit flavor zero despair attend result";
+var mnemonic = "ketchup access food fat saddle organ flock act puzzle captain cancel hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "noise bridge frame tiger glance cactus right holiday east budget bottom decorate";
+var mnemonic = "symptom shoulder much bus cliff helmet wreck wage universe supreme wage broccoli";

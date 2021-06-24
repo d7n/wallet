@@ -1,1 +1,1 @@
-var mnemonic = "amazing suffer multiply police strategy mushroom together mail hint click tide glass";
+var mnemonic = "code top chuckle multiply noise nuclear acid motor reduce across tide obtain";

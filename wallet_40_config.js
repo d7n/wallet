@@ -1,1 +1,1 @@
-var mnemonic = "moon flee rib pulp desk evolve square oak trip noodle multiply midnight";
+var mnemonic = "split join inject improve often turtle limb exchange beauty army evidence muscle";

@@ -1,1 +1,1 @@
-var mnemonic = "hen bomb alter skirt kingdom senior pelican code net arctic tornado throw";
+var mnemonic = "current thrive fox head coconut catch found erosion aunt father gap pact";

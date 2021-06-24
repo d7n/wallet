@@ -1,1 +1,1 @@
-var mnemonic = "save victory pattern mansion moral rude language together goose program truly clever";
+var mnemonic = "style pizza minute agent lunar bullet jewel song trust size oyster else";

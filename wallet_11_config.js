@@ -1,1 +1,1 @@
-var mnemonic = "question lazy benefit ensure antenna problem clock shoe alter explain empty cruise";
+var mnemonic = "impact unveil honey theme degree witness brick stand coral join blur rain";

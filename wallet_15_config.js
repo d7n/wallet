@@ -1,1 +1,1 @@
-var mnemonic = "office visa afford sorry actual giant float among pelican lyrics move grain";
+var mnemonic = "gold rigid total phone siege earn april luggage library rent access glad";

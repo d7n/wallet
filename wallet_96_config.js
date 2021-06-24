@@ -1,1 +1,1 @@
-var mnemonic = "frost loop false subway delay endorse nurse winner cement setup beauty energy";
+var mnemonic = "library chair index assume boost matrix wink make estate peanut amateur tent";

@@ -1,1 +1,1 @@
-var mnemonic = "culture cricket kiss inject guitar diet moon crumble bring vintage tide wise";
+var mnemonic = "capital cup object spice strategy pizza distance main oxygen smart work cruise";

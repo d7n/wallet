@@ -1,1 +1,1 @@
-var mnemonic = "film notice obtain model canal author monkey vacant orient bacon laundry toddler";
+var mnemonic = "miss husband genuine swallow mean identify nuclear indoor work ball execute sorry";

@@ -1,1 +1,1 @@
-var mnemonic = "cloud around dog type shuffle cradle negative midnight birth loyal solution mosquito";
+var mnemonic = "electric tongue obey guide someone asset wash sphere tobacco crumble cook hill";

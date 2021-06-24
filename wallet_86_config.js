@@ -1,1 +1,1 @@
-var mnemonic = "flag comfort phrase lazy more scan general swim seed initial absorb pelican";
+var mnemonic = "express list fly glad visa similar wrap lizard anxiety tennis maple upper";

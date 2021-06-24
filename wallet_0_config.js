@@ -1,1 +1,1 @@
-var mnemonic = "climb room twice ahead change rookie left danger put film float cable";
+var mnemonic = "orange sausage toward human sail fashion mistake biology visual swamp route woman";

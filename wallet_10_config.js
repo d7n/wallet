@@ -1,1 +1,1 @@
-var mnemonic = "rose duty decline grocery praise illness flight dentist exhibit siren immense pretty";
+var mnemonic = "brush fiscal brother mosquito combine vicious crater spell tumble marble stamp kingdom";

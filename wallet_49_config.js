@@ -1,1 +1,1 @@
-var mnemonic = "electric motion gasp solution ice curve silly category loop talent ozone december";
+var mnemonic = "delay logic robot wink muffin teach enhance night chapter helmet clinic apart";

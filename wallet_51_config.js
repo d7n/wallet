@@ -1,1 +1,1 @@
-var mnemonic = "rival there village rich prison note clinic eagle fence pigeon wisdom during";
+var mnemonic = "tongue visit donkey mimic depend wife decrease champion mistake kit nature behave";

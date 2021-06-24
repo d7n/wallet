@@ -1,1 +1,1 @@
-var mnemonic = "ancient wine mimic uphold fortune stomach high share define stay two track";
+var mnemonic = "beach kick blue argue work neck pizza venture suggest boil journey scan";

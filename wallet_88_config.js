@@ -1,1 +1,1 @@
-var mnemonic = "toast access improve enlist almost lawsuit faculty upper father else gather giant";
+var mnemonic = "gesture satoshi disagree action legend marble team primary suit civil run grit";

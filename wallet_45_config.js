@@ -1,1 +1,1 @@
-var mnemonic = "isolate silk valley art expect ancient uncle mandate glass suit brain tone";
+var mnemonic = "amazing smile ball amazing asset hover meadow season oil diesel tape bike";

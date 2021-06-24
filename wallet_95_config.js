@@ -1,1 +1,1 @@
-var mnemonic = "stomach seven record receive coin twenty boil depth aware know donor abandon";
+var mnemonic = "alone okay gloom useless spice pioneer debate bench rely effort again oven";

@@ -1,1 +1,1 @@
-var mnemonic = "tobacco suit slice diary snack work parent exchange orange visit stone broom";
+var mnemonic = "lens situate cement express village banana rack lawsuit lesson nephew little evil";

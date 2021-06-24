@@ -1,1 +1,1 @@
-var mnemonic = "fossil decline urban ostrich noise aim process round deputy crunch topple zebra";
+var mnemonic = "dial into guide jazz web moment hold there never found gate list";

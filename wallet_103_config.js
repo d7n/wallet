@@ -1,1 +1,1 @@
-var mnemonic = "host prepare cup ride exit retreat hello device polar remember bar strike";
+var mnemonic = "claim party east hybrid clever north rookie flee glance nephew absurd awkward";

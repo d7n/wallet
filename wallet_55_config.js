@@ -1,1 +1,1 @@
-var mnemonic = "right garage disease display cup shaft breeze win plug whale summer super";
+var mnemonic = "earth rookie number museum promote decide bread noble rough measure satoshi bag";

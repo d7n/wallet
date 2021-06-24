@@ -1,1 +1,1 @@
-var mnemonic = "renew mass smile wide sail strike apple spirit dragon silly skin hobby";
+var mnemonic = "inquiry know right carry crane setup diesel shop lonely start wait obvious";

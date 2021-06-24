@@ -1,1 +1,1 @@
-var mnemonic = "grass basic lawsuit wedding satoshi elephant ice height measure obey transfer dignity";
+var mnemonic = "arena other session mass various illness steak custom remain drink figure food";

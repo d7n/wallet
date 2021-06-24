@@ -1,1 +1,1 @@
-var mnemonic = "earn village humble couch misery panic tip wife grocery correct buyer finger";
+var mnemonic = "radar fiction quantum live sound cry throw history tomorrow metal rotate noise";

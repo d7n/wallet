@@ -1,1 +1,1 @@
-var mnemonic = "hungry hungry cost punch cloth penalty unlock medal faith own account sausage";
+var mnemonic = "clog ice wrap unknown educate sustain zebra trick beach timber vague atom";

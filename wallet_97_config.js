@@ -1,1 +1,1 @@
-var mnemonic = "secret adjust night try spider modify debate cabin work crop release plunge";
+var mnemonic = "defense core boss interest upset trick unit vehicle gospel input bar dish";

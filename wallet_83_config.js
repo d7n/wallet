@@ -1,1 +1,1 @@
-var mnemonic = "tray cook casual myth random vehicle stairs dream sister tragic hungry dust";
+var mnemonic = "edge mail resource idle wall setup spawn typical fold clap laugh where";

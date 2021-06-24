@@ -1,1 +1,1 @@
-var mnemonic = "resist bronze diary nerve glare industry jewel blur nerve artist cool pattern";
+var mnemonic = "arrest response banana crystal shove bright denial feature jelly pepper hero nasty";

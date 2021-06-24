@@ -1,1 +1,1 @@
-var mnemonic = "suspect pistol super wasp sudden poem stock sport pulp grape desk way";
+var mnemonic = "snap addict anchor faculty sound walk bargain distance orient slide busy wisdom";

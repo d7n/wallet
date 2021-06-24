@@ -1,1 +1,1 @@
-var mnemonic = "dash stumble report opera collect trick slogan loud excite mind decrease hover";
+var mnemonic = "fortune shield alley matrix orchard deputy unhappy width tube mass shadow horse";

@@ -1,1 +1,1 @@
-var mnemonic = "repeat art gap eager sample mobile neck business design hybrid swamp room";
+var mnemonic = "moral monkey october iron muscle exchange target lucky flame side adapt knock";

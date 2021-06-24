@@ -1,1 +1,1 @@
-var mnemonic = "dial jeans tilt crucial slim position photo truck olive art capital arctic";
+var mnemonic = "typical case early festival fiber mule jewel pass wide setup filter hollow";

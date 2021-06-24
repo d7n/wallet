@@ -1,1 +1,1 @@
-var mnemonic = "peasant spin desk system minute leopard monitor recipe odor polar deny girl";
+var mnemonic = "light problem occur duty nice seminar sadness basic torch paper inform whip";

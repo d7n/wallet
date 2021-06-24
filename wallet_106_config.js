@@ -1,1 +1,1 @@
-var mnemonic = "region cliff cloth unveil cheese copper skin master donor chest heavy achieve";
+var mnemonic = "nut clay stamp gesture enlist wagon fog razor actress cook scheme town";

@@ -1,1 +1,1 @@
-var mnemonic = "genius short husband balcony orphan holiday onion safe oppose illegal across they";
+var mnemonic = "gate hedgehog float later initial oil uphold snow maid afford weird quality";

@@ -1,1 +1,1 @@
-var mnemonic = "ball fix nurse youth drama vehicle inform opinion fold spoon sort wet";
+var mnemonic = "junior foot scare zebra brave aunt call embark under vital delay cruel";

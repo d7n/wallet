@@ -1,1 +1,1 @@
-var mnemonic = "radio soup hollow frequent help alert report weapon burst program polar fashion";
+var mnemonic = "target drip bone pyramid thrive cement promote parade photo huge hour keep";

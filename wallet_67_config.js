@@ -1,1 +1,1 @@
-var mnemonic = "reopen express debris science month tattoo easily flag target hammer cluster ritual";
+var mnemonic = "local own embark wet thrive crisp sweet man magic believe bronze volcano";

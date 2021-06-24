@@ -1,1 +1,1 @@
-var mnemonic = "over attitude welcome clever demise pepper dinner rotate occur beyond option metal";
+var mnemonic = "quantum knife dilemma survey roof machine adapt pave great result kangaroo accident";

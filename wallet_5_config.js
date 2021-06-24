@@ -1,1 +1,1 @@
-var mnemonic = "wreck comic sure slush source nothing armor crowd lizard mammal actress strike";
+var mnemonic = "spatial angry tray squeeze blush access mystery blood critic slice glove have";

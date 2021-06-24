@@ -1,1 +1,1 @@
-var mnemonic = "cruise sausage there expect wait culture clarify beef tenant metal jelly social";
+var mnemonic = "soft lunch warm escape expect room helmet enhance flavor liquid average oven";

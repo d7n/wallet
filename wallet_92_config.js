@@ -1,1 +1,1 @@
-var mnemonic = "task kiwi parent lesson cool buzz agent decline rotate neglect pluck wreck";
+var mnemonic = "know fiber afford galaxy toy liquid hope code foster loop carry bracket";

@@ -1,1 +1,1 @@
-var mnemonic = "fury cycle tone gather live flock route grace repeat mad illegal canyon";
+var mnemonic = "announce crew evolve sorry object bone shadow scale water answer happy dose";

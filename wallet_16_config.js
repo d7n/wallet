@@ -1,1 +1,1 @@
-var mnemonic = "sick trim because season insect ensure knife grab car near journey tail";
+var mnemonic = "book future mother ordinary come pledge improve copper spare federal strategy youth";

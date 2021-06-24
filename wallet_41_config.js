@@ -1,1 +1,1 @@
-var mnemonic = "conduct tiger give rescue legal noodle asthma emotion nose text keen avocado";
+var mnemonic = "nuclear matrix among today target raccoon paper produce picture satisfy light paper";

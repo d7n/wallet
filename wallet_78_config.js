@@ -1,1 +1,1 @@
-var mnemonic = "enlist jungle avocado few allow fantasy divide gossip buddy spread gossip report";
+var mnemonic = "job drastic cruel business mandate need bless window plug gesture sell decide";

@@ -1,1 +1,1 @@
-var mnemonic = "pond bus spirit lucky youth awesome hero flee draw drink clay lecture";
+var mnemonic = "click demand used world pretty teach supreme simple large pole jungle animal";

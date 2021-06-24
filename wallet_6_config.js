@@ -1,1 +1,1 @@
-var mnemonic = "idea private scout benefit flip census mask solve inform future group wink";
+var mnemonic = "ketchup ball favorite detect same face fitness grocery eternal super wide wire";

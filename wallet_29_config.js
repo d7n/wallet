@@ -1,1 +1,1 @@
-var mnemonic = "swing fee stuff section announce enrich vanish organ milk parrot foil flip";
+var mnemonic = "slam shop fantasy place tunnel allow define inmate jeans brain brisk coin";

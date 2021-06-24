@@ -1,1 +1,1 @@
-var mnemonic = "undo hold biology sustain twin cake surround hundred february because solid faint";
+var mnemonic = "erupt silver risk judge defy differ sniff fringe tiger labor razor gesture";

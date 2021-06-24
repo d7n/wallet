@@ -1,1 +1,1 @@
-var mnemonic = "claw illegal column brief empty track siren nurse slow fatal harvest rubber";
+var mnemonic = "husband junk glare fan wing tuna flee december again entire position this";

@@ -1,1 +1,1 @@
-var mnemonic = "auto dog palace near jungle fossil fatal horse filter sample orbit face";
+var mnemonic = "visa omit rhythm raise disorder life husband blast uncle position dream shield";

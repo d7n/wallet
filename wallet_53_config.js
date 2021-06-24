@@ -1,1 +1,1 @@
-var mnemonic = "color smile luxury critic junk rent culture answer news invite hip dial";
+var mnemonic = "dance drama cinnamon soup bid galaxy erupt coil draw artwork sea anger";

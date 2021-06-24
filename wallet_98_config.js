@@ -1,1 +1,1 @@
-var mnemonic = "tennis erosion rival acid glare scare dice host clown deer final acquire";
+var mnemonic = "basic vague hotel meadow build raven reward lazy era surface present gospel";

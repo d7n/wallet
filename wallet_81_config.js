@@ -1,1 +1,1 @@
-var mnemonic = "blood gun ancient select quality blouse toe mammal tonight kingdom youth express";
+var mnemonic = "keep acquire risk tool science art rally fashion country volume warrior inhale";

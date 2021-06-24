@@ -1,1 +1,1 @@
-var mnemonic = "start night focus huge express spice flush vital chronic home penalty radio";
+var mnemonic = "good bottom possible wasp roof plunge mosquito pretty alarm pioneer craft orphan";

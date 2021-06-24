@@ -1,1 +1,1 @@
-var mnemonic = "robot hire prepare drift inner mosquito more record inject object like suspect";
+var mnemonic = "bird current enforce eye salmon novel liar electric jungle ostrich true scheme";

@@ -1,1 +1,1 @@
-var mnemonic = "daring tuition donkey moment sunny flip know column hat index wide wealth";
+var mnemonic = "amount ramp pluck shuffle monster twice sample skull mandate long vacant rabbit";

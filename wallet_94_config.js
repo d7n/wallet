@@ -1,1 +1,1 @@
-var mnemonic = "onion obscure present honey inch globe convince general hazard innocent grit laugh";
+var mnemonic = "cost solid purity dilemma prosper venue walnut daring core parade enter awake";

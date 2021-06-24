@@ -1,1 +1,1 @@
-var mnemonic = "online crew like science source hover weapon unknown method road float mix";
+var mnemonic = "strong essay pear south post core addict orphan enlist capable cherry grit";

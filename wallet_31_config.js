@@ -1,1 +1,1 @@
-var mnemonic = "true skirt visa budget guitar produce cage velvet snap reform monster loan";
+var mnemonic = "scrub gift mix steak leg announce shoe sad pony panther genre syrup";

@@ -1,1 +1,1 @@
-var mnemonic = "guide ketchup dutch eagle spare into thing increase arrow blood fitness fuel";
+var mnemonic = "snap jeans daring close erosion plunge top clerk foam piece home visit";

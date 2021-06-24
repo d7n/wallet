@@ -1,1 +1,1 @@
-var mnemonic = "across chalk clap kangaroo float bulb office strike oyster diary ranch sight";
+var mnemonic = "session power glare canoe legal affair bottom measure detail cover sun design";

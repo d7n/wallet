@@ -1,1 +1,1 @@
-var mnemonic = "lift place input mirror strike sick hedgehog school path alarm gaze enough";
+var mnemonic = "denial kitten basic trade couple run voyage bread bomb excess vivid bag";

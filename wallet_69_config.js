@@ -1,1 +1,1 @@
-var mnemonic = "echo meadow usual dilemma worry one toilet laptop used front alter cargo";
+var mnemonic = "member symbol foster cram tumble hotel home pilot suggest various shop arrest";

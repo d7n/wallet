@@ -1,1 +1,1 @@
-var mnemonic = "tissue sauce solution corn garage tube benefit ripple fuel slow kitten wreck";
+var mnemonic = "kitchen inflict input bitter daughter type across already bid winter few toward";

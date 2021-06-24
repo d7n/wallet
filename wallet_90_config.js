@@ -1,1 +1,1 @@
-var mnemonic = "deputy clinic drum city address element kiwi beef gauge wear seven sentence";
+var mnemonic = "powder caught weapon nuclear silent inch radar hen junk cup veteran can";

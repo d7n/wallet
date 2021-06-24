@@ -1,1 +1,1 @@
-var mnemonic = "monitor sausage original cinnamon flight bring resource member robot camera assault blade";
+var mnemonic = "panic little buffalo worry subway say economy random mouse invest obtain proud";

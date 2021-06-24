@@ -1,1 +1,1 @@
-var mnemonic = "require bulb echo crew start poet fitness tent office asset frame parrot";
+var mnemonic = "insane answer matrix team call among dash arrange half road phrase flag";

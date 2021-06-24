@@ -1,1 +1,1 @@
-var mnemonic = "elbow beef coin possible pigeon sword valley soon cereal steak student appear";
+var mnemonic = "weird brass hair curious alter wide gather rent soft weekend apology essence";

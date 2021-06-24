@@ -1,1 +1,1 @@
-var mnemonic = "attend dog zebra secret clump season blur ugly license sausage humor swear";
+var mnemonic = "prosper power great museum beauty alert pistol impose wonder deal maid vapor";

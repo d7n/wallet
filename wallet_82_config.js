@@ -1,1 +1,1 @@
-var mnemonic = "pulse depth kingdom basket armor harvest tongue rabbit banana provide fault aisle";
+var mnemonic = "uphold unit wrist pioneer faith effort display approve liquid leisure finger luxury";

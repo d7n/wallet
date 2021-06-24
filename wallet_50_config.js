@@ -1,1 +1,1 @@
-var mnemonic = "globe snow decorate armed secret clarify unfold shrimp cross stem front meat";
+var mnemonic = "rice attend era thing forest eager call two one neither dance script";

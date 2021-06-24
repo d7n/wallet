@@ -1,1 +1,1 @@
-var mnemonic = "voyage define unable cargo symptom breeze medal gap aisle escape length punch";
+var mnemonic = "nut split shaft truck keen tower deal october embody icon tilt pyramid";

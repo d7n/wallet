@@ -1,1 +1,1 @@
-var mnemonic = "brick suit wing flip daring nurse blind sausage win prevent twist duty";
+var mnemonic = "fade island relief mirror tower speak consider virus scout drive glory upon";

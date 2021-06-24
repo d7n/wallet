@@ -1,1 +1,1 @@
-var mnemonic = "hurt tattoo wrestle such reveal they cloud cliff correct bulk tell route";
+var mnemonic = "check squeeze enforce tired honey rent perfect quote kid gallery express home";

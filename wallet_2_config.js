@@ -1,1 +1,1 @@
-var mnemonic = "need thought either mad song banana hill swarm worry mammal beyond smile";
+var mnemonic = "dismiss ball opinion scout one believe fire join reunion frozen hub rent";

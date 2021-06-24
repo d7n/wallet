@@ -1,1 +1,1 @@
-var mnemonic = "enact figure dragon skull found yellow inject aim cluster name base you";
+var mnemonic = "clap hip gospel immune leader hundred hurdle season manual orphan wage ketchup";

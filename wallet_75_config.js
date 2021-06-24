@@ -1,1 +1,1 @@
-var mnemonic = "cricket panda seminar easily quit east era badge bone fold cannon seek";
+var mnemonic = "oxygen false vendor coconut sheriff huge warrior dune turn eight ball ugly";

@@ -1,1 +1,1 @@
-var mnemonic = "snow talent wide sponsor click couch feed tired bulb focus note glance";
+var mnemonic = "cool noise genius neither fatal piece anger bread erode wasp learn ready";

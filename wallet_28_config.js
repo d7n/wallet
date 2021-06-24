@@ -1,1 +1,1 @@
-var mnemonic = "unfair tower note trophy clog quit series sight tape army thrive mountain";
+var mnemonic = "soldier defy spoon risk north all property insect surface remain lonely unaware";

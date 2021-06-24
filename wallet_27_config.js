@@ -1,1 +1,1 @@
-var mnemonic = "humor bamboo west shiver weather income sadness bachelor crime click club wish";
+var mnemonic = "only behave runway priority faith abstract extend pool case hair casino myself";

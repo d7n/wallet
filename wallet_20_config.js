@@ -1,1 +1,1 @@
-var mnemonic = "chaos skirt tumble dance defy soon tattoo siege hospital upgrade frozen apology";
+var mnemonic = "method turn unfair feed talk empty frog twenty blur glimpse estate injury";

@@ -1,1 +1,1 @@
-var mnemonic = "during swear drive frozen hover bonus learn harvest render coyote number pact";
+var mnemonic = "capable impulse artefact elegant mention monitor extend auction arena mule frequent settle";

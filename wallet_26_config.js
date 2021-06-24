@@ -1,1 +1,1 @@
-var mnemonic = "bike brother kit friend injury thunder quick nurse bargain term achieve roof";
+var mnemonic = "token catalog sphere drum penalty cabin asset sketch captain dance still script";

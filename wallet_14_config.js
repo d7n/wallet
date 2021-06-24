@@ -1,1 +1,1 @@
-var mnemonic = "gloom drop supreme enjoy tobacco truth fly solar dentist increase broken tobacco";
+var mnemonic = "lawsuit inch beach update tail appear change wheat depend steak slow glare";

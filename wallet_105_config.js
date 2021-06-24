@@ -1,1 +1,1 @@
-var mnemonic = "tunnel despair earth very ordinary crisp alter lake figure piece current notice";
+var mnemonic = "calm tent system surprise record option mail subject tray juice goat diamond";

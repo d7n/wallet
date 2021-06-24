@@ -1,1 +1,1 @@
-var mnemonic = "turtle check number economy dice purchase cupboard broccoli soul neck pipe brown";
+var mnemonic = "market park paper limb service puppy lend promote shy embark endless remember";

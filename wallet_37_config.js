@@ -1,1 +1,1 @@
-var mnemonic = "curtain royal notable scrap parade friend universe rent moon dolphin enact clay";
+var mnemonic = "average rookie drastic million define govern supply monkey tube leopard park employ";

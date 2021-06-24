@@ -1,1 +1,1 @@
-var mnemonic = "flame egg gate scale rebuild search frog buyer fence fan donate liberty";
+var mnemonic = "flame nuclear fetch orchard release father flash allow horn blanket empty jump";

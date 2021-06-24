@@ -1,1 +1,1 @@
-var mnemonic = "eagle doll health into mad use miracle van bracket edit avocado suffer";
+var mnemonic = "enable wasp boy cigar dentist liberty rifle wine clay impulse remain robot";
