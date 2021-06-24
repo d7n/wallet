@@ -1,1 +1,1 @@
-var mnemonic = "question choose giggle jungle limit depart gift high toy bacon grocery inhale";
+var mnemonic = "screen culture pudding gadget worth weekend garage position deal rug dust pen";

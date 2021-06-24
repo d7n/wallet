@@ -1,1 +1,1 @@
-var mnemonic = "control various album neck flash grow avoid brisk wisdom whip cargo climb";
+var mnemonic = "nerve popular indoor debate income tail hobby unfair spread wild ankle bag";

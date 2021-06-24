@@ -1,1 +1,1 @@
-var mnemonic = "hidden galaxy burden hammer tunnel drink inspire magnet artwork thumb garlic crouch";
+var mnemonic = "gown doctor split keep oxygen opera make aisle reduce lounge horn dream";

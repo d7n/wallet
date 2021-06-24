@@ -1,1 +1,1 @@
-var mnemonic = "awake left intact enjoy shift hungry grape drastic moral beyond deposit legend";
+var mnemonic = "goat chunk waste park gift tourist mixed word kiss damage injury stuff";

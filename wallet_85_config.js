@@ -1,1 +1,1 @@
-var mnemonic = "unknown hard hover tape view trumpet eye candy powder narrow theory clay";
+var mnemonic = "hour truly invite kingdom donor scare laugh depend cabin alcohol audit finish";

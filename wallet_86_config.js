@@ -1,1 +1,1 @@
-var mnemonic = "aerobic topple flee candy sign found across rule east spike fan push";
+var mnemonic = "theme north unaware monster monkey clap identify agree slogan domain horror blanket";

@@ -1,1 +1,1 @@
-var mnemonic = "virus cycle tomorrow actress total boring weapon kitten stool ranch science move";
+var mnemonic = "stick describe trash gossip logic short motion hawk good drink version hip";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz toast rigid field organ milk feature image rib sugar short primary";
+var mnemonic = "topic guitar timber van talent gift gain practice nose episode brand fluid";

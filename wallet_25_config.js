@@ -1,1 +1,1 @@
-var mnemonic = "couch gesture loop wash vague eternal ready size way urban exercise menu";
+var mnemonic = "join mimic father produce party seek remain rebel glory throw tree window";

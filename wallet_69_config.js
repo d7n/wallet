@@ -1,1 +1,1 @@
-var mnemonic = "quiz oxygen nephew demise boring panel museum chief large rate place menu";
+var mnemonic = "axis service disagree group coil receive powder level inhale sudden chef hundred";

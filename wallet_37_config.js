@@ -1,1 +1,1 @@
-var mnemonic = "raw toss spring digital metal twelve deputy disease switch transfer ill face";
+var mnemonic = "boss turkey cable ladder enlist cave trouble tongue boss donate member warrior";

@@ -1,1 +1,1 @@
-var mnemonic = "chase snake ostrich observe silly eager hub add keep intact bleak account";
+var mnemonic = "draw jazz because share thunder proof predict vibrant tail produce adapt oak";

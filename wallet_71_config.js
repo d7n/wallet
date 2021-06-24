@@ -1,1 +1,1 @@
-var mnemonic = "expand spray puzzle vacuum broken know early funny detect present bachelor wood";
+var mnemonic = "shove assume nose jazz town stone midnight spend luggage twin buddy journey";

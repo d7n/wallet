@@ -1,1 +1,1 @@
-var mnemonic = "cactus verb present surprise hollow stuff hover stumble warm never believe angry";
+var mnemonic = "world hollow shield mail unique nut print reveal upon flip connect science";

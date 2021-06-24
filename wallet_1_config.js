@@ -1,1 +1,1 @@
-var mnemonic = "eternal cake bless interest coffee army twist hungry fit music sudden spoil";
+var mnemonic = "stomach stairs worth civil sample sleep engine future limit paper amazing wagon";

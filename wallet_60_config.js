@@ -1,1 +1,1 @@
-var mnemonic = "garden fresh mad empty muscle gap drama sugar unusual taste space hurdle";
+var mnemonic = "liberty satisfy silly trim priority dice clay hospital loop chapter symbol retire";

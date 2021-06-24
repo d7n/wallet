@@ -1,1 +1,1 @@
-var mnemonic = "same divert office donate card flower pool powder motor early humble bomb";
+var mnemonic = "cotton draw time fly gold power syrup patient page another asset picnic";

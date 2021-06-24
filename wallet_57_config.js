@@ -1,1 +1,1 @@
-var mnemonic = "reflect feel crop domain end predict enrich world pole myself forum piano";
+var mnemonic = "stuff correct garbage excuse trigger consider addict tray have lady vintage hobby";

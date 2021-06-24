@@ -1,1 +1,1 @@
-var mnemonic = "toy taste pitch guitar switch drum orphan picture panther hat prefer real";
+var mnemonic = "judge slush fault trim grunt lonely benefit cigar icon detail vehicle change";

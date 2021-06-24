@@ -1,1 +1,1 @@
-var mnemonic = "endless monitor scale mention submit patch state dance coach cereal power zero";
+var mnemonic = "great manual youth trouble faith chunk video sign penalty snap cement render";

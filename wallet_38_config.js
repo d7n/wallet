@@ -1,1 +1,1 @@
-var mnemonic = "use exhaust someone giraffe idle beef hybrid knee green often pilot bargain";
+var mnemonic = "debris lucky crouch banner very open pyramid pattern duty pattern skate insane";

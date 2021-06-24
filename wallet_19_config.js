@@ -1,1 +1,1 @@
-var mnemonic = "high rapid route office skull memory weapon average twice maid teach orbit";
+var mnemonic = "path fossil reduce sure wing alter equal vivid eight indoor refuse spike";

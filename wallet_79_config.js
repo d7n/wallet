@@ -1,1 +1,1 @@
-var mnemonic = "diagram country venue regular lobster swim uphold garage plug resemble dance caught";
+var mnemonic = "link magic hello slender they wool humor sunny fringe rib walk pink";

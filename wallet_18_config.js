@@ -1,1 +1,1 @@
-var mnemonic = "cross fancy arm gather dumb walk save dynamic infant hidden author climb";
+var mnemonic = "forest output chicken embody patch sorry shoe coconut buffalo frequent neglect acoustic";

@@ -1,1 +1,1 @@
-var mnemonic = "certain scare casual burst draft ice mask kidney luxury rifle slab thumb";
+var mnemonic = "odor check region alley fatal pizza high forum fee insane rocket stumble";

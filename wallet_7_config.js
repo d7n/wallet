@@ -1,1 +1,1 @@
-var mnemonic = "marble page canyon bicycle auto sell bachelor laugh snake easy sleep often";
+var mnemonic = "define spawn wheel surprise similar bring coffee sugar erode energy breeze guilt";

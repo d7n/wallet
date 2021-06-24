@@ -1,1 +1,1 @@
-var mnemonic = "act below clog miracle exotic sample grape small thought jacket unlock helmet";
+var mnemonic = "federal nasty short girl panda flock pear matter sound rice choice energy";

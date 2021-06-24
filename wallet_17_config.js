@@ -1,1 +1,1 @@
-var mnemonic = "proud awake base weather poverty shove person caught topic deposit control return";
+var mnemonic = "path impose address adult addict first square cube envelope still spell also";

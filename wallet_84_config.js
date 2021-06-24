@@ -1,1 +1,1 @@
-var mnemonic = "funny coral seminar dash still common all supreme ecology glad buyer olive";
+var mnemonic = "hockey reject almost dolphin enrich movie envelope teach unit clever long differ";

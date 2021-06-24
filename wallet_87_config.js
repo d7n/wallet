@@ -1,1 +1,1 @@
-var mnemonic = "release bicycle private tuna limit fringe shine child uniform tree hawk buddy";
+var mnemonic = "fatal cousin also dinner electric jeans ghost ready inquiry detail unlock aware";

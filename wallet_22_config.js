@@ -1,1 +1,1 @@
-var mnemonic = "coach announce spawn aunt lazy feature fatal inhale seminar mango cattle result";
+var mnemonic = "behave differ brief sunset select snow maple pottery lawsuit embrace flower pupil";

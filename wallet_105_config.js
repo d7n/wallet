@@ -1,1 +1,1 @@
-var mnemonic = "fence quick bullet rice order senior that atom hint stadium retreat enhance";
+var mnemonic = "spirit fatal ordinary ensure display whip avocado multiply maximum fold loan size";

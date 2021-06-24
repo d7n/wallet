@@ -1,1 +1,1 @@
-var mnemonic = "glow tide shadow obvious intact weasel rule vast rice liquid begin great";
+var mnemonic = "little need pave yard define risk section apart trophy profit gasp grant";

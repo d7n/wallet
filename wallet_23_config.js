@@ -1,1 +1,1 @@
-var mnemonic = "solve eye rough armor target attract exact real rose round payment end";
+var mnemonic = "guitar kidney physical sunny judge human marble distance sphere tragic negative weather";

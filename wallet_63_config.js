@@ -1,1 +1,1 @@
-var mnemonic = "frost trouble cake captain wife deposit someone derive enable slogan bless original";
+var mnemonic = "congress wrist nurse chunk pioneer horn keen bottom advice normal tell zone";

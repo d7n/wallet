@@ -1,1 +1,1 @@
-var mnemonic = "usual offer vault biology acquire patient remain omit clay demand great theory";
+var mnemonic = "fluid ozone uncle fever humble kiwi analyst direct recall link top inside";

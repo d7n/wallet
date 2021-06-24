@@ -1,1 +1,1 @@
-var mnemonic = "pelican report april soldier exile lend double cram spy bone panther once";
+var mnemonic = "around rubber arrest shop appear rose chef lesson improve economy agree intact";

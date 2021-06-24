@@ -1,1 +1,1 @@
-var mnemonic = "damp brief goat stamp legend camera match extend bulb same sort assault";
+var mnemonic = "abandon cause ladder retreat return account math hire strategy accident civil broom";

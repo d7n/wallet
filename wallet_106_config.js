@@ -1,1 +1,1 @@
-var mnemonic = "chaos valve innocent clarify torch same alone shell million guess march recipe";
+var mnemonic = "fashion truth actress water card desert era omit common edge bargain despair";

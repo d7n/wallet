@@ -1,1 +1,1 @@
-var mnemonic = "acid talent garbage try cousin you razor sad sword famous way produce";
+var mnemonic = "topple fiscal lyrics throw broken art render sausage desert hungry sword hungry";

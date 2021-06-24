@@ -1,1 +1,1 @@
-var mnemonic = "minute wall legend rotate weasel conduct helmet vintage retire dish moon problem";
+var mnemonic = "post reduce where word flock stuff join correct ordinary wish frown mushroom";

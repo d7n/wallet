@@ -1,1 +1,1 @@
-var mnemonic = "shadow extra fossil upon disease unaware tennis sure final barely isolate sword";
+var mnemonic = "code tide average auction enough busy thumb ship length sheriff earth law";

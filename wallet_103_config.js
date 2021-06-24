@@ -1,1 +1,1 @@
-var mnemonic = "much siren mom side elder damp march steak agent robust asthma trophy";
+var mnemonic = "smooth script drink heavy share sign master slot simple rotate recycle quality";

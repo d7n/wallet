@@ -1,1 +1,1 @@
-var mnemonic = "much render burden spice ecology path anchor coyote card predict fuel problem";
+var mnemonic = "sentence pipe brand arrow avocado home bamboo broccoli gloom arrest slim frequent";

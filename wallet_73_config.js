@@ -1,1 +1,1 @@
-var mnemonic = "similar essence toddler step salt gold fabric tray strategy taxi cricket film";
+var mnemonic = "wisdom day sort edit dune stem festival gaze forest transfer exhaust race";

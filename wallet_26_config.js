@@ -1,1 +1,1 @@
-var mnemonic = "paper pony affair inner ostrich gospel source despair denial galaxy garlic boost";
+var mnemonic = "hobby tornado fade duty east wisdom robot famous parent shoe prize memory";

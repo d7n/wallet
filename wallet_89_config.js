@@ -1,1 +1,1 @@
-var mnemonic = "rotate update ski fit gun half appear chicken people cliff require cabin";
+var mnemonic = "tower glow tragic cost fresh where transfer dose silver boil summer silk";

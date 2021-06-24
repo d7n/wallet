@@ -1,1 +1,1 @@
-var mnemonic = "chicken warm group web apology simple wall chicken decline wine churn crystal";
+var mnemonic = "swift evolve meadow shell give crush phone weekend cliff pioneer aim veteran";

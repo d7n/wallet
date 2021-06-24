@@ -1,1 +1,1 @@
-var mnemonic = "fiscal embody during cute sword spare miracle blouse lounge remain plastic quarter";
+var mnemonic = "announce program rival police fuel warm sketch learn goat orange live leaf";

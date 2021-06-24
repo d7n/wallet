@@ -1,1 +1,1 @@
-var mnemonic = "material wing pilot debris gospel judge measure rough mouse truck shove color";
+var mnemonic = "olive nasty voice add ghost network table dose stay boost announce repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "front horror frog accident height behind inspire judge pitch iron subject night";
+var mnemonic = "donate sign tissue old fee novel employ remind chaos acid comic hello";

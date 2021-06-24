@@ -1,1 +1,1 @@
-var mnemonic = "rough journey giant swing buffalo fly loyal measure army cinnamon profit young";
+var mnemonic = "anxiety engine wire sort clock final merit blame opera firm inflict laundry";

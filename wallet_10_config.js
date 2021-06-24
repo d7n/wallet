@@ -1,1 +1,1 @@
-var mnemonic = "vapor spot seat grab quit check butter work resemble shoe forget skate";
+var mnemonic = "dignity fiscal okay client mountain stomach dragon plate cabbage arena embark deliver";

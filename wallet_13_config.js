@@ -1,1 +1,1 @@
-var mnemonic = "volume panel merge animal airport exchange photo author slot buyer ginger east";
+var mnemonic = "once pistol tumble benefit turn hamster chair monkey grit feel excess coast";

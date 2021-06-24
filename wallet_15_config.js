@@ -1,1 +1,1 @@
-var mnemonic = "fix patrol speed gain album boost urban evoke surface rib bench attract";
+var mnemonic = "employ disagree social describe country find print miracle dignity crop napkin apart";

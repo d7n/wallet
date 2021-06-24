@@ -1,1 +1,1 @@
-var mnemonic = "culture day arch blossom spot civil bright midnight tree analyst cage border";
+var mnemonic = "river faculty reunion always wrap trumpet autumn vehicle combine speak item jar";

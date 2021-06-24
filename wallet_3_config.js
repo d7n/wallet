@@ -1,1 +1,1 @@
-var mnemonic = "famous visa knock pottery thought leaf indoor yard narrow ecology move stomach";
+var mnemonic = "know elegant nose quiz require entry stuff select exercise permit solution purchase";

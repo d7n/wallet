@@ -1,1 +1,1 @@
-var mnemonic = "tell pledge assist social enforce mosquito lumber start obvious vivid session victory";
+var mnemonic = "hope pilot reform hungry prevent resource boost gain sort noble nut arctic";

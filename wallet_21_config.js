@@ -1,1 +1,1 @@
-var mnemonic = "rug face banner peace issue mistake tackle doctor mind there wrestle hip";
+var mnemonic = "tennis borrow script syrup ten rifle cherry bid rabbit zebra much play";

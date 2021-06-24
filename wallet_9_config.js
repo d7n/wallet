@@ -1,1 +1,1 @@
-var mnemonic = "bench civil absurd abandon area lunar vocal punch portion farm trap dry";
+var mnemonic = "orient evidence loyal forget ski loud chuckle club umbrella broom gun field";

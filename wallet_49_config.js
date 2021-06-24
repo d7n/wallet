@@ -1,1 +1,1 @@
-var mnemonic = "anger weekend merit apple artist truly oblige rose hollow ill abstract clap";
+var mnemonic = "bounce gather middle fun cheap zone lamp repair upper that shiver need";

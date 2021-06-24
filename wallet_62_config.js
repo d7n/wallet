@@ -1,1 +1,1 @@
-var mnemonic = "easily suspect section exit erase calm senior armed more gown either strategy";
+var mnemonic = "barely idea adapt palm glove stool above wrap cloth code chat wreck";

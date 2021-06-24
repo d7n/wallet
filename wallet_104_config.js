@@ -1,1 +1,1 @@
-var mnemonic = "code chair noise inhale repeat spoil alter keep cherry ship trim age";
+var mnemonic = "angle echo fiber air harbor alarm suggest senior gun castle thumb observe";

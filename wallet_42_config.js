@@ -1,1 +1,1 @@
-var mnemonic = "visa potato antenna rookie little glow primary assault taxi earn manage rough";
+var mnemonic = "reflect giant cotton crack impose public shed rival street bamboo hundred walnut";

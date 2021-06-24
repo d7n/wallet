@@ -1,1 +1,1 @@
-var mnemonic = "blast treat clever tuition quote pave hospital business purity ritual slice tube";
+var mnemonic = "loan crisp taxi guitar eternal lamp scissors mushroom hello entry punch fitness";

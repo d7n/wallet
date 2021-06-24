@@ -1,1 +1,1 @@
-var mnemonic = "concert orient question auto myself stairs food copy hover excite stairs aisle";
+var mnemonic = "oak sock catch tennis mosquito glare today tree dinosaur please ocean grunt";

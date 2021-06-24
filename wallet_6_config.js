@@ -1,1 +1,1 @@
-var mnemonic = "cannon business bike panther renew dove cube cotton stuff joke flag goddess";
+var mnemonic = "olympic organ pause winter alone boss kiwi casino drift zero senior grocery";

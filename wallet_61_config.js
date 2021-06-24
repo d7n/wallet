@@ -1,1 +1,1 @@
-var mnemonic = "alone clock shield forward zero life grid nominee laptop casino into yellow";
+var mnemonic = "calm dash indoor rubber group again faculty clip cliff festival rent dignity";

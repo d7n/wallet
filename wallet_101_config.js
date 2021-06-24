@@ -1,1 +1,1 @@
-var mnemonic = "bamboo foot absorb kiss embrace zebra tortoise inner draw olympic patrol trick";
+var mnemonic = "index original butter scene sound whip chaos regret save exhaust pizza zoo";

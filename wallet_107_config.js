@@ -1,1 +1,1 @@
-var mnemonic = "spoil cotton regret wire next just sense caution common fish oak glance";
+var mnemonic = "major false exile mouse muffin onion forum jungle outside jelly gun razor";

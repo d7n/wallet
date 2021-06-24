@@ -1,1 +1,1 @@
-var mnemonic = "turtle injury record liquid riot business liar gun elbow shop ladder wild";
+var mnemonic = "divert control place limit book maple like tobacco window bomb weapon camp";

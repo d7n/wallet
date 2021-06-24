@@ -1,1 +1,1 @@
-var mnemonic = "before bleak treat zone civil pigeon travel jar aisle comfort dial axis";
+var mnemonic = "angry devote creek surround clerk salt dawn cart fault industry seven cute";

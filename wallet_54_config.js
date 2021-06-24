@@ -1,1 +1,1 @@
-var mnemonic = "chef arrest visit utility poverty okay balcony picnic boss casual vivid grape";
+var mnemonic = "pig youth leave charge exit wolf breeze toddler sense essay below mutual";

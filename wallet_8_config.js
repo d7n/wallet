@@ -1,1 +1,1 @@
-var mnemonic = "deer already dragon silk employ remove remind law uniform powder nest modify";
+var mnemonic = "sail rib bonus lamp jacket fire sunny pen card oxygen hub horn";

@@ -1,1 +1,1 @@
-var mnemonic = "baby noodle check corn round often holiday replace bulk minute mosquito final";
+var mnemonic = "behave cattle panic weekend also connect photo stable cake erase earn random";

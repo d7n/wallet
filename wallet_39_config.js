@@ -1,1 +1,1 @@
-var mnemonic = "include cruel fork idle grass diamond pen room crush design rug clutch";
+var mnemonic = "gain flat limit include frozen favorite future junk ball stuff leisure such";

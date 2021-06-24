@@ -1,1 +1,1 @@
-var mnemonic = "ability student rib angry shaft cancel unable matter swear tortoise renew aware";
+var mnemonic = "clump notice will host diagram bitter gym approve craft sign tattoo shaft";

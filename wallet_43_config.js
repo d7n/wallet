@@ -1,1 +1,1 @@
-var mnemonic = "come invest truck produce teach three bulk myth coyote correct save tray";
+var mnemonic = "bird divide exist enact broom decade square cake ridge pill road argue";

@@ -1,1 +1,1 @@
-var mnemonic = "love name make version metal agree action skill remind fame bird army";
+var mnemonic = "memory whip dad letter access uniform ready such gravity slam foot strike";

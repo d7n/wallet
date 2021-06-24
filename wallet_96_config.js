@@ -1,1 +1,1 @@
-var mnemonic = "method rib find report awake render swim apology erosion dismiss journey absurd";
+var mnemonic = "weasel orient print chat engage write match inflict obey wool blue wink";

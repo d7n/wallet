@@ -1,1 +1,1 @@
-var mnemonic = "west north fatigue six essay soda monster fog home tape cube horn";
+var mnemonic = "cruise hotel school plug scrap legend guide square nature above marble depend";

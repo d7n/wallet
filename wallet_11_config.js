@@ -1,1 +1,1 @@
-var mnemonic = "slogan glory absent floor dumb satoshi alone escape elevator cannon find yellow";
+var mnemonic = "stumble return patrol ramp ring toss design escape horse tray destroy science";

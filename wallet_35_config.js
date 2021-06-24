@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo hybrid sketch scissors average increase tag noble half pudding action party";
+var mnemonic = "orange valley eagle deliver donkey educate hundred faith fly razor tackle imitate";

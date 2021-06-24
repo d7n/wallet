@@ -1,1 +1,1 @@
-var mnemonic = "vibrant option enroll physical special silent record dragon scale peace fly crumble";
+var mnemonic = "pudding chalk sustain inflict intact radar elite skin change relief toy bunker";

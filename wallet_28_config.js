@@ -1,1 +1,1 @@
-var mnemonic = "draft brother craft green pencil penalty beauty arch gap badge grape color";
+var mnemonic = "same duty omit early excite endless faint birth hamster awful clap action";

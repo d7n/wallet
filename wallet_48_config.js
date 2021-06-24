@@ -1,1 +1,1 @@
-var mnemonic = "local run cave lobster soon daring corn vital egg chuckle rigid waste";
+var mnemonic = "lizard pizza sunset era nasty steak screen sustain urge gain purity grief";

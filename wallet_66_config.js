@@ -1,1 +1,1 @@
-var mnemonic = "gesture update labor immune check stereo absorb flash paddle dizzy mansion earn";
+var mnemonic = "caught scene doll nose moment spoon trophy tell concert three code attract";

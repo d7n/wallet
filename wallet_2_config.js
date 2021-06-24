@@ -1,1 +1,1 @@
-var mnemonic = "wife deposit ensure drive cotton easily holiday squeeze marble want intact index";
+var mnemonic = "december fatal game okay letter trim fitness mix burst suffer join input";

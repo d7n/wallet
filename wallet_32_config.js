@@ -1,1 +1,1 @@
-var mnemonic = "liberty phrase helmet embark ancient option burden deny grunt surprise business sphere";
+var mnemonic = "pride divide huge mixture subject trim diary high december grant voice flavor";
