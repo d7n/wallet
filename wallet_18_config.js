@@ -1,1 +1,1 @@
-var mnemonic = "online artefact shoe ritual corn toe rally fork squeeze wear steel heavy";
+var mnemonic = "write amazing connect will burden mention noodle middle smoke globe above alley";

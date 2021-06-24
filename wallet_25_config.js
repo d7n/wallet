@@ -1,1 +1,1 @@
-var mnemonic = "split engage brief wrist blossom random artist dose relief then top bounce";
+var mnemonic = "seven craft length coffee olympic fashion spot organ hip mosquito mind mean";

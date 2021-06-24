@@ -1,1 +1,1 @@
-var mnemonic = "staff web paper venture emotion panel harsh benefit family repair tip renew";
+var mnemonic = "curious pepper panther true price awesome female copy little boil seven shop";

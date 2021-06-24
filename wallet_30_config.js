@@ -1,1 +1,1 @@
-var mnemonic = "upset heavy elder object crime modify neutral elephant fatal green fuel solve";
+var mnemonic = "range cradle soft hidden flavor bench step dizzy guess girl popular return";

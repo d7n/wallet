@@ -1,1 +1,1 @@
-var mnemonic = "glory own practice mango wait vehicle river bargain more bid puppy blame";
+var mnemonic = "buddy false close box coffee aerobic air exchange either powder fire hobby";

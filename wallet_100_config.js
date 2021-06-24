@@ -1,1 +1,1 @@
-var mnemonic = "divide knife struggle hair utility slender chase liar mountain truly left mimic";
+var mnemonic = "wing round turkey craft inhale wonder spatial link oblige bacon canal soup";

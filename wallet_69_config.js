@@ -1,1 +1,1 @@
-var mnemonic = "verb cram pink address lab marble ring water gesture season regret kidney";
+var mnemonic = "immense large smoke spice walnut slogan game iron kiss option genre scan";

@@ -1,1 +1,1 @@
-var mnemonic = "defy sunny answer region fetch immune attract faint door angle unlock cube";
+var mnemonic = "laptop arch dove start spin mandate pipe only vessel leopard attitude pass";

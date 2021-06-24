@@ -1,1 +1,1 @@
-var mnemonic = "fruit host cactus account genuine unfair bulk eye nose govern eye salad";
+var mnemonic = "sure file crash wild mule always deliver water squirrel buzz unhappy core";

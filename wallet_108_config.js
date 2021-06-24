@@ -1,1 +1,1 @@
-var mnemonic = "logic divide alarm swift drop path document coin visa select lunar win";
+var mnemonic = "copper snake fetch tower strong depart device attend piano squeeze slogan subject";

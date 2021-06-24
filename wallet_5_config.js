@@ -1,1 +1,1 @@
-var mnemonic = "ginger mean purpose design twin either true quote perfect spike salad say";
+var mnemonic = "curious script smile blossom inner hidden way coconut lift rely kitchen off";

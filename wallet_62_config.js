@@ -1,1 +1,1 @@
-var mnemonic = "couch breeze ladder sugar skirt brown grape stove flush own trouble tribe";
+var mnemonic = "flash promote ability catch rent orphan rice private bounce suit key loud";

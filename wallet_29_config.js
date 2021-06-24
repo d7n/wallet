@@ -1,1 +1,1 @@
-var mnemonic = "explain diagram rabbit arm arena donor nose spare diet crack cart swap";
+var mnemonic = "genre lunch guess guitar lyrics sail approve fatigue appear river increase desk";

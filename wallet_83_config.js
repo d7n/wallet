@@ -1,1 +1,1 @@
-var mnemonic = "trouble nothing move federal tribe then leisure rebuild basket decorate again fence";
+var mnemonic = "box skate educate silver inflict mandate curtain admit middle top fix liar";

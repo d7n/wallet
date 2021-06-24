@@ -1,1 +1,1 @@
-var mnemonic = "permit sting remember eyebrow survey clean capable exhibit wealth sugar caution vocal";
+var mnemonic = "lucky diary chalk salmon fat until general crop immune rapid advice space";

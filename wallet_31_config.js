@@ -1,1 +1,1 @@
-var mnemonic = "screen obvious history gesture crumble borrow try wedding oblige scare embark okay";
+var mnemonic = "hunt curve slender rotate run truth cute route cream danger draw door";

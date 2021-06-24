@@ -1,1 +1,1 @@
-var mnemonic = "hand oven comic organ disagree hockey crumble armor gold renew flag crazy";
+var mnemonic = "spring favorite parade feel acid better mass network comic noise later blush";

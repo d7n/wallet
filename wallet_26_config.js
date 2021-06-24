@@ -1,1 +1,1 @@
-var mnemonic = "chief logic you moral yellow sea dad rookie gate finger roast cactus";
+var mnemonic = "plate wool elbow agent tell load toy office thing buyer breeze ready";

@@ -1,1 +1,1 @@
-var mnemonic = "mountain ski reform detail swift slight moment code wait excite fiscal mansion";
+var mnemonic = "guitar honey winter era circle naive flame level hurdle reward machine source";

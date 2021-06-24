@@ -1,1 +1,1 @@
-var mnemonic = "alcohol cliff upgrade that original infant glad source top arena table amount";
+var mnemonic = "rough recycle penalty intact news boost gap spread leisure catalog race chronic";

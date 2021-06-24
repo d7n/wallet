@@ -1,1 +1,1 @@
-var mnemonic = "cloud bronze urban excuse warfare kiwi canal like can uncover salt arena";
+var mnemonic = "wrestle toilet nothing helmet fly utility nose dynamic minimum cupboard protect bargain";

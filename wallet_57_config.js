@@ -1,1 +1,1 @@
-var mnemonic = "still love clump enlist rate strong find either arch wink rather mule";
+var mnemonic = "mixed rapid allow poverty exist hire message vanish type bracket tomato timber";

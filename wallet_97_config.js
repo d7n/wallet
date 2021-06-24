@@ -1,1 +1,1 @@
-var mnemonic = "rigid patrol gas cash amateur cute autumn stadium crew duck rabbit destroy";
+var mnemonic = "enemy flash puzzle decrease brother valve deal drastic unit rack promote sell";

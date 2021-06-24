@@ -1,1 +1,1 @@
-var mnemonic = "erode board banner invite copper swap front light flight trap task web";
+var mnemonic = "nose exclude loyal cake wasp position spider race victory bomb day garment";

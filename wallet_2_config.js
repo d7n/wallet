@@ -1,1 +1,1 @@
-var mnemonic = "tiny wait shrimp coffee tip chuckle dial man there slight first shock";
+var mnemonic = "tunnel flower upon galaxy false tragic wasp purity abstract pupil energy early";

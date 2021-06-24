@@ -1,1 +1,1 @@
-var mnemonic = "nose label shove monster install ivory element love ramp flag segment food";
+var mnemonic = "clarify slab magnet skull gauge tell sick stick equip unit expect angry";

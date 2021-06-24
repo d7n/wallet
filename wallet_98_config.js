@@ -1,1 +1,1 @@
-var mnemonic = "exile tiger tomorrow ancient fatal glass allow certain puppy company buddy human";
+var mnemonic = "betray ring spend stem field program divert fury lumber august soft buzz";

@@ -1,1 +1,1 @@
-var mnemonic = "segment reflect boost discover elite lab purity rather soul unfair divert cart";
+var mnemonic = "february dinner cruel race pudding trim foil never sibling hammer price ginger";

@@ -1,1 +1,1 @@
-var mnemonic = "guard yard sock slice catalog exact good warm blush defy buddy renew";
+var mnemonic = "also vault repair visit welcome home laugh comfort dynamic mutual father voyage";

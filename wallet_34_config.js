@@ -1,1 +1,1 @@
-var mnemonic = "brown sea hood trigger shoe arrest outdoor coyote coil scout slice foam";
+var mnemonic = "recipe crunch wet merit setup pause immune slender burden height cup cotton";

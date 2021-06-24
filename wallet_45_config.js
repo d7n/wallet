@@ -1,1 +1,1 @@
-var mnemonic = "reunion oval patient flip pizza inner addict foam shoot cup detect mix";
+var mnemonic = "ride agent crack anxiety spice sunset usage fog citizen jump advice soon";

@@ -1,1 +1,1 @@
-var mnemonic = "trial siren chalk learn holiday float dog hip south wrist seminar scheme";
+var mnemonic = "reason lava concert inhale truly parade educate destroy control monitor census radar";

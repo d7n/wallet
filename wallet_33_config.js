@@ -1,1 +1,1 @@
-var mnemonic = "document priority carpet success safe pilot draft dial weasel snow dish mansion";
+var mnemonic = "poet alone enforce horse lens eternal code token vanish sting swallow install";

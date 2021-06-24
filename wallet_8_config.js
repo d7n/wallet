@@ -1,1 +1,1 @@
-var mnemonic = "depart borrow bright despair bleak cruel badge foil winner immense smile glow";
+var mnemonic = "saddle thrive north gallery empty defense filter peace reopen deal dolphin also";

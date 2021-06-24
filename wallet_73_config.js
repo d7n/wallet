@@ -1,1 +1,1 @@
-var mnemonic = "talk fork seminar census bulb maple security target salmon virus judge trend";
+var mnemonic = "note eyebrow tomato possible immense north sphere hotel salmon general atom depend";

@@ -1,1 +1,1 @@
-var mnemonic = "menu match type critic hundred budget vote dinner offer educate dumb glow";
+var mnemonic = "brisk pride begin cement evolve cannon damp school source harbor all define";

@@ -1,1 +1,1 @@
-var mnemonic = "unfold casual bachelor disagree drink family labor vault craft honey ball come";
+var mnemonic = "fat suffer soft surprise mirror duty lyrics odor total pattern say spread";

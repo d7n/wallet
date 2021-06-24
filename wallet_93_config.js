@@ -1,1 +1,1 @@
-var mnemonic = "cabbage pave opera athlete donor voice grab right already advice satoshi primary";
+var mnemonic = "start state siren angry type island increase scare strong seat mystery since";

@@ -1,1 +1,1 @@
-var mnemonic = "believe pet better lecture vivid abandon jealous wing cabin creek cup apple";
+var mnemonic = "father sing parrot response prevent purchase genuine emotion tray animal lunch fun";

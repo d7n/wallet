@@ -1,1 +1,1 @@
-var mnemonic = "pen insane common start tent woman pulse indoor thought coast amateur vacuum";
+var mnemonic = "around twist vendor normal august guard creek buzz club winner benefit limb";

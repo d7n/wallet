@@ -1,1 +1,1 @@
-var mnemonic = "deer funny zoo oxygen spy outdoor diesel harvest file rally cargo steel";
+var mnemonic = "garment ready attitude bag know strong march follow harsh pig sentence cloud";

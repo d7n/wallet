@@ -1,1 +1,1 @@
-var mnemonic = "stamp kiss powder bus demise devote beauty popular arm catch liar enjoy";
+var mnemonic = "trouble grace combine rocket quiz twice weapon chat spin used grain purse";

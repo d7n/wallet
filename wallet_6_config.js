@@ -1,1 +1,1 @@
-var mnemonic = "hello ignore dignity possible agent trip laugh replace dash hurdle song fire";
+var mnemonic = "glow borrow snow junk debate journey marriage clog ritual fever valley this";

@@ -1,1 +1,1 @@
-var mnemonic = "autumn text cook feel cook boat inherit silly advice keen warfare speed";
+var mnemonic = "desk valley afford grass evolve bread zone funny imitate mention position neglect";

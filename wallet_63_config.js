@@ -1,1 +1,1 @@
-var mnemonic = "depth present infant danger slogan vapor couple mom flavor clerk happy uniform";
+var mnemonic = "pet business east dune torch swing gospel wrap silver embrace tent pigeon";

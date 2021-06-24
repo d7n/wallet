@@ -1,1 +1,1 @@
-var mnemonic = "baby time size horse critic smoke sweet raw april dentist resist fresh";
+var mnemonic = "soul session mixture inflict success stay indoor chronic collect connect join desk";

@@ -1,1 +1,1 @@
-var mnemonic = "snow produce honey camera health since illegal fault confirm primary spot puppy";
+var mnemonic = "sustain able object treat first bomb spawn news horn awake picture consider";

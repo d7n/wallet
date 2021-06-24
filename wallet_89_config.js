@@ -1,1 +1,1 @@
-var mnemonic = "captain chest pumpkin left ridge hip they shoot valid exotic slush ethics";
+var mnemonic = "panther organ capable stool father sock mushroom decrease member size maple point";

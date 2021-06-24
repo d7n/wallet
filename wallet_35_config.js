@@ -1,1 +1,1 @@
-var mnemonic = "afford hammer pepper empower protect say skill swarm attitude naive doll gather";
+var mnemonic = "long ecology shrug toddler evoke picture vital coin three piece will clock";

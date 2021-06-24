@@ -1,1 +1,1 @@
-var mnemonic = "giggle wheat foot example auto aerobic miracle auto snack alley camera alley";
+var mnemonic = "dilemma high clap enemy engage inch ship pet nuclear current mobile huge";

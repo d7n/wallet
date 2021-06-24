@@ -1,1 +1,1 @@
-var mnemonic = "spatial robust lava license slot tower ensure shift honey copy aware dose";
+var mnemonic = "course shrimp mercy sign animal hill erosion snow salmon jewel guard govern";

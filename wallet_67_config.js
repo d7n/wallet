@@ -1,1 +1,1 @@
-var mnemonic = "never common roast novel reason inflict little engage foot coil will stairs";
+var mnemonic = "february summer beef age endorse crunch indoor ahead health suspect girl hawk";

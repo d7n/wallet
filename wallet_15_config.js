@@ -1,1 +1,1 @@
-var mnemonic = "pill process agent daring upper unfair frame key problem basket ship hybrid";
+var mnemonic = "area cruel inner path border hamster tired nurse harvest route female knee";

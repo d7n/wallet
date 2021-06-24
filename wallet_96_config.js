@@ -1,1 +1,1 @@
-var mnemonic = "raise cover genius similar army jacket human garment resist chase prize wide";
+var mnemonic = "pill grace fortune clinic state toward hero slice vacant april label jelly";

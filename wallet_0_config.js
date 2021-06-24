@@ -1,1 +1,1 @@
-var mnemonic = "master spray rail pass donkey network dress ignore permit crouch physical crash";
+var mnemonic = "innocent spider sound visa skull range replace author gaze rebuild ten skill";

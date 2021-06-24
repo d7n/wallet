@@ -1,1 +1,1 @@
-var mnemonic = "voyage unveil drop turkey organ exhaust annual forest drastic wire civil wet";
+var mnemonic = "stool ship expire code drastic wheel ecology bonus tool illegal accuse child";

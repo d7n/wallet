@@ -1,1 +1,1 @@
-var mnemonic = "body attract sentence salmon cute unusual once behave people robot evoke extra";
+var mnemonic = "memory capital bitter hand heart green giggle nice manual lobster worth idle";

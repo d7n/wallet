@@ -1,1 +1,1 @@
-var mnemonic = "bottom field chimney enhance million coffee stove rate obtain method giggle plug";
+var mnemonic = "youth fortune gadget canyon mother check flush crisp hurdle extend whip foster";

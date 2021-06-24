@@ -1,1 +1,1 @@
-var mnemonic = "cabbage dune birth bench crunch vendor wonder adult paddle assume trash leaf";
+var mnemonic = "change roof rival thing vacuum hockey jar prefer pigeon hurry marble excite";

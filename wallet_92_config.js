@@ -1,1 +1,1 @@
-var mnemonic = "mom dog february scissors split float chronic fluid syrup morning calm evil";
+var mnemonic = "palm scorpion car horror magic monkey whale gauge security plunge auction feel";

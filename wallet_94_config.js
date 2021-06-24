@@ -1,1 +1,1 @@
-var mnemonic = "jacket where hub town wait elegant above sister pistol advance caution flash";
+var mnemonic = "visual clerk gun wolf student basic clarify dinner hungry correct prison galaxy";

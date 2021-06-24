@@ -1,1 +1,1 @@
-var mnemonic = "sing owner loud try owner noodle embark begin tail buyer boat sense";
+var mnemonic = "obscure catch rapid dress among jeans genre liar bubble again avoid omit";

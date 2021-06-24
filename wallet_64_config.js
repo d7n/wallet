@@ -1,1 +1,1 @@
-var mnemonic = "neck divide conduct abandon twenty face upgrade wrong prison error initial quantum";
+var mnemonic = "member cram garage beauty what pole middle future visa balance organ lounge";

@@ -1,1 +1,1 @@
-var mnemonic = "firm park arrive average wedding frame file author curtain north depart yellow";
+var mnemonic = "spoon chase hero soap error hollow spirit unhappy luggage reveal live head";

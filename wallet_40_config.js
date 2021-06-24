@@ -1,1 +1,1 @@
-var mnemonic = "feed arch flush mass purpose fossil useless extend aisle apart remove vacant";
+var mnemonic = "video basket boss kiss dream slot neutral response very stomach pepper parrot";

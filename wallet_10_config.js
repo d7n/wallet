@@ -1,1 +1,1 @@
-var mnemonic = "left guard tribe wedding mad best private royal school surprise state clump";
+var mnemonic = "crew erosion expire tide denial jacket noble where oblige they dolphin behind";

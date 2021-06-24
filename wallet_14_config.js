@@ -1,1 +1,1 @@
-var mnemonic = "surprise deal vocal panic grace renew match divert gown produce dutch physical";
+var mnemonic = "deputy drop federal unfair quantum spatial family arch have infant matrix banner";

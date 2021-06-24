@@ -1,1 +1,1 @@
-var mnemonic = "until mass rebuild burger they sun theory cloth donate knife nephew scout";
+var mnemonic = "ask hold screen attend road what fiber upset fever endorse farm picture";

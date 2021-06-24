@@ -1,1 +1,1 @@
-var mnemonic = "subway need angle steak inflict open interest chapter trial any lazy evidence";
+var mnemonic = "priority capital casino siege swing service doll smoke until electric design wisdom";

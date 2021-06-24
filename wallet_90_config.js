@@ -1,1 +1,1 @@
-var mnemonic = "frozen end stairs indoor special range siren fox craft index enlist later";
+var mnemonic = "blind column cross eagle menu setup salt peace inform beauty cute chicken";

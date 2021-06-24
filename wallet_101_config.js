@@ -1,1 +1,1 @@
-var mnemonic = "raven print trip sting peace thank during aware hover rigid quantum employ";
+var mnemonic = "artist follow lazy option insect artefact culture wife rebuild trap fringe filter";

@@ -1,1 +1,1 @@
-var mnemonic = "identify riot gun easily step sail lemon envelope scrub thank clarify shy";
+var mnemonic = "throw regular truly basic tobacco trend cereal thrive pear table meat industry";

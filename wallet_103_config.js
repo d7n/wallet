@@ -1,1 +1,1 @@
-var mnemonic = "spend bullet only vacant enemy drama ecology trap soccer scheme enable account";
+var mnemonic = "ride morning plastic shoot judge nasty dilemma fitness obvious one luggage enhance";

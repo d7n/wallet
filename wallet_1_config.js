@@ -1,1 +1,1 @@
-var mnemonic = "soccer swing client simple injury cycle toy minimum claim put lift explain";
+var mnemonic = "reject melody moment bamboo sentence model leisure find toy advance slush hollow";

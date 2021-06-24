@@ -1,1 +1,1 @@
-var mnemonic = "quiz battle museum state quantum pause van tiger away ability club stage";
+var mnemonic = "law exit consider purity butter neither direct depend keen olive impulse glue";

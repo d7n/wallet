@@ -1,1 +1,1 @@
-var mnemonic = "north decade slush night gloom wealth oval squeeze wrong exclude thunder situate";
+var mnemonic = "frog sand develop already furnace benefit various cycle blame frequent town virtual";

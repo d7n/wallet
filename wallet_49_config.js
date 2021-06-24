@@ -1,1 +1,1 @@
-var mnemonic = "leader wreck item truly defy flavor patient jar mesh deposit program wagon";
+var mnemonic = "pipe spot other awake fence spice crop can evil credit grab clutch";

@@ -1,1 +1,1 @@
-var mnemonic = "robust public warrior ski legal legend rabbit annual exchange foam addict fog";
+var mnemonic = "absent winter elephant engine thank inch sphere receive interest purse web height";

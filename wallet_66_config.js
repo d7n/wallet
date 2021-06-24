@@ -1,1 +1,1 @@
-var mnemonic = "list beef renew rail give lady match scene image lawn caution timber";
+var mnemonic = "wrap feature smart siren later visa lesson wheel owner olympic salon melody";

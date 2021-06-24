@@ -1,1 +1,1 @@
-var mnemonic = "bring mixed rain consider unique zebra ensure turtle great foot that faint";
+var mnemonic = "wagon scan hip stuff crawl same huge outside glad ozone uncover excess";

@@ -1,1 +1,1 @@
-var mnemonic = "weekend brand minor easily surge vehicle route pipe start wedding mandate guilt";
+var mnemonic = "kid add canyon match plate save despair dinosaur pony close oval adapt";

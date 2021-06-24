@@ -1,1 +1,1 @@
-var mnemonic = "young write federal record gallery trust rate weather actor jungle belt swap";
+var mnemonic = "quiz category height question poem nose bonus area raccoon copy borrow scrub";

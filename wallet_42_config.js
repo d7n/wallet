@@ -1,1 +1,1 @@
-var mnemonic = "price report spy feel venue cliff bring wash unaware wolf physical test";
+var mnemonic = "canyon viable roof corn matter fly evoke choice tiger visit close buffalo";

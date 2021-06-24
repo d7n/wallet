@@ -1,1 +1,1 @@
-var mnemonic = "south price vital private flip dynamic scan organ stomach grocery kid concert";
+var mnemonic = "ahead blue evoke select try essence asset stamp expect video sentence side";

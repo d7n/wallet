@@ -1,1 +1,1 @@
-var mnemonic = "time earn candy vendor live inhale stumble cement major crazy jungle fresh";
+var mnemonic = "mountain mobile rather regret zero service mountain attack nuclear mosquito refuse mercy";

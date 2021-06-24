@@ -1,1 +1,1 @@
-var mnemonic = "beyond luxury shiver pig shoe differ lava pole network net foot priority";
+var mnemonic = "hero luxury endless label truly garment agent ball feed local ranch denial";

@@ -1,1 +1,1 @@
-var mnemonic = "crime couch remind interest side trumpet elevator already churn smoke major deputy";
+var mnemonic = "kangaroo dry margin venture tornado auction eager photo network program popular always";
