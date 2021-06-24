@@ -1,1 +1,1 @@
-var mnemonic = "hurry hope easy win armor album floor depart noise mango mammal fat";
+var mnemonic = "reunion oval patient flip pizza inner addict foam shoot cup detect mix";

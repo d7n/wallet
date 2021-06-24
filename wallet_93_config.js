@@ -1,1 +1,1 @@
-var mnemonic = "barely trouble punch bullet seed near scout describe rookie evil clinic matrix";
+var mnemonic = "cabbage pave opera athlete donor voice grab right already advice satoshi primary";

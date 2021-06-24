@@ -1,1 +1,1 @@
-var mnemonic = "token quantum toy token medal end ask arrive laundry feature erase output";
+var mnemonic = "master spray rail pass donkey network dress ignore permit crouch physical crash";

@@ -1,1 +1,1 @@
-var mnemonic = "feature mandate message purchase endorse frame that staff loud item stone board";
+var mnemonic = "cloud bronze urban excuse warfare kiwi canal like can uncover salt arena";

@@ -1,1 +1,1 @@
-var mnemonic = "slam goose pioneer advance van truck undo match faculty light tortoise tilt";
+var mnemonic = "depth present infant danger slogan vapor couple mom flavor clerk happy uniform";

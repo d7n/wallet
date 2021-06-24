@@ -1,1 +1,1 @@
-var mnemonic = "card kitten suspect common palm furnace symbol system expect head inspire fiction";
+var mnemonic = "crime couch remind interest side trumpet elevator already churn smoke major deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "nature calm main stool priority scissors young gown proud afford govern prison";
+var mnemonic = "time earn candy vendor live inhale stumble cement major crazy jungle fresh";

@@ -1,1 +1,1 @@
-var mnemonic = "note copy girl tag decide flavor warrior crush magic predict pottery spider";
+var mnemonic = "jacket where hub town wait elegant above sister pistol advance caution flash";

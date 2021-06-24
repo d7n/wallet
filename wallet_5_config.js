@@ -1,1 +1,1 @@
-var mnemonic = "crowd frozen ordinary supply sample impulse treat camp antenna slender found antenna";
+var mnemonic = "ginger mean purpose design twin either true quote perfect spike salad say";

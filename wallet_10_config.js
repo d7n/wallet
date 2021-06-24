@@ -1,1 +1,1 @@
-var mnemonic = "salt soda rack valve sunset under second giraffe index inflict sausage treat";
+var mnemonic = "left guard tribe wedding mad best private royal school surprise state clump";

@@ -1,1 +1,1 @@
-var mnemonic = "ritual enact lobster math merry pupil phone couch soda dress absorb enemy";
+var mnemonic = "still love clump enlist rate strong find either arch wink rather mule";

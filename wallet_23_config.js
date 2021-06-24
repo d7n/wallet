@@ -1,1 +1,1 @@
-var mnemonic = "toddler ancient tell twist have bleak interest place endorse action agent human";
+var mnemonic = "bring mixed rain consider unique zebra ensure turtle great foot that faint";

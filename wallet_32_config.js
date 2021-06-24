@@ -1,1 +1,1 @@
-var mnemonic = "option very client like tenant attack opera turn bench lawsuit robust middle";
+var mnemonic = "leader mutual math always spice proof piece nation bright acid exclude spell";

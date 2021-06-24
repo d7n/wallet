@@ -1,1 +1,1 @@
-var mnemonic = "daughter interest slide nerve ladder royal still outside sail remember reduce spice";
+var mnemonic = "voyage unveil drop turkey organ exhaust annual forest drastic wire civil wet";

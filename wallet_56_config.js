@@ -1,1 +1,1 @@
-var mnemonic = "movie off rebel tool tilt december juice nephew van one dolphin scene";
+var mnemonic = "review vicious arch nurse lizard bird mountain trouble turn volcano battle icon";

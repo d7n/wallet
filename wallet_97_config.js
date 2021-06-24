@@ -1,1 +1,1 @@
-var mnemonic = "rather later barrel poet beauty speed whip clinic image omit mango bargain";
+var mnemonic = "rigid patrol gas cash amateur cute autumn stadium crew duck rabbit destroy";

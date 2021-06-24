@@ -1,1 +1,1 @@
-var mnemonic = "approve evil off since filter border minor brisk ginger ensure recycle source";
+var mnemonic = "sing owner loud try owner noodle embark begin tail buyer boat sense";

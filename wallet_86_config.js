@@ -1,1 +1,1 @@
-var mnemonic = "trim come bicycle learn soon antique quantum recipe lens argue industry nest";
+var mnemonic = "bottom field chimney enhance million coffee stove rate obtain method giggle plug";

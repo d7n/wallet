@@ -1,1 +1,1 @@
-var mnemonic = "arrest borrow brown bike supply cabin weapon season kiwi awful source inmate";
+var mnemonic = "stamp kiss powder bus demise devote beauty popular arm catch liar enjoy";

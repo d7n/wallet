@@ -1,1 +1,1 @@
-var mnemonic = "vivid cute grit apart pole hedgehog demise denial medal pioneer chase phrase";
+var mnemonic = "spend bullet only vacant enemy drama ecology trap soccer scheme enable account";

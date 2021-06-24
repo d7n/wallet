@@ -1,1 +1,1 @@
-var mnemonic = "stock swamp ask kind kind exhaust sport saddle rifle wait mansion hat";
+var mnemonic = "nose label shove monster install ivory element love ramp flag segment food";

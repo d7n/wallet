@@ -1,1 +1,1 @@
-var mnemonic = "festival around coconut word obey rib celery celery approve return demand spring";
+var mnemonic = "unfold casual bachelor disagree drink family labor vault craft honey ball come";

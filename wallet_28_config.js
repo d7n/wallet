@@ -1,1 +1,1 @@
-var mnemonic = "height material develop vintage comic afford network rabbit garden depend praise embark";
+var mnemonic = "trial siren chalk learn holiday float dog hip south wrist seminar scheme";

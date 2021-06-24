@@ -1,1 +1,1 @@
-var mnemonic = "october embrace drift already violin unit lazy priority wire prefer lonely spoon";
+var mnemonic = "giggle wheat foot example auto aerobic miracle auto snack alley camera alley";

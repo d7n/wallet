@@ -1,1 +1,1 @@
-var mnemonic = "present ski gospel voyage target atom tissue fortune pumpkin punch assist dress";
+var mnemonic = "news learn enough blade lake mansion female absent brass evil aisle goat";

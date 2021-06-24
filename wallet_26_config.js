@@ -1,1 +1,1 @@
-var mnemonic = "kit charge mule husband spawn damage uncle symptom lava stamp all survey";
+var mnemonic = "chief logic you moral yellow sea dad rookie gate finger roast cactus";

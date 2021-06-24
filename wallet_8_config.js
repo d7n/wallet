@@ -1,1 +1,1 @@
-var mnemonic = "pelican gloom fly mom august cube coconut evidence illness symbol satisfy follow";
+var mnemonic = "depart borrow bright despair bleak cruel badge foil winner immense smile glow";

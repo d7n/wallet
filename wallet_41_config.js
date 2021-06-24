@@ -1,1 +1,1 @@
-var mnemonic = "antique project laundry uncle hero gather endless talent stuff join pond street";
+var mnemonic = "weekend brand minor easily surge vehicle route pipe start wedding mandate guilt";

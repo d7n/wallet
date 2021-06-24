@@ -1,1 +1,1 @@
-var mnemonic = "electric result text aim corn holiday dish dolphin bulk cave flag awkward";
+var mnemonic = "list beef renew rail give lady match scene image lawn caution timber";

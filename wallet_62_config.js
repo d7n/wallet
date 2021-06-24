@@ -1,1 +1,1 @@
-var mnemonic = "clever decline refuse slender wink slice recall state area orchard member help";
+var mnemonic = "couch breeze ladder sugar skirt brown grape stove flush own trouble tribe";

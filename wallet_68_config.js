@@ -1,1 +1,1 @@
-var mnemonic = "arrest tongue senior body toss term violin matrix elbow wait already knife";
+var mnemonic = "guard yard sock slice catalog exact good warm blush defy buddy renew";

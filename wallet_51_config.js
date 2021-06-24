@@ -1,1 +1,1 @@
-var mnemonic = "wool feature story pink knee south float badge ask dynamic horse bitter";
+var mnemonic = "cherry room perfect screen hard green script belt dove essence consider tortoise";

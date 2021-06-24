@@ -1,1 +1,1 @@
-var mnemonic = "deny brisk lumber angle purity idle edge crouch charge special sample found";
+var mnemonic = "alcohol cliff upgrade that original infant glad source top arena table amount";

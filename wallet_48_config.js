@@ -1,1 +1,1 @@
-var mnemonic = "collect still bag guitar craft pioneer subway animal game wing split put";
+var mnemonic = "deer funny zoo oxygen spy outdoor diesel harvest file rally cargo steel";

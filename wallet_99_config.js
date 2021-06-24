@@ -1,1 +1,1 @@
-var mnemonic = "orbit brain pulp abuse minimum inhale witness season cupboard garbage vicious slim";
+var mnemonic = "menu match type critic hundred budget vote dinner offer educate dumb glow";

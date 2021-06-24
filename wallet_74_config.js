@@ -1,1 +1,1 @@
-var mnemonic = "affair coil either comic cinnamon melt must family say august flock sort";
+var mnemonic = "fruit host cactus account genuine unfair bulk eye nose govern eye salad";

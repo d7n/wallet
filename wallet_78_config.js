@@ -1,1 +1,1 @@
-var mnemonic = "phone thrive drink furnace travel fall tooth federal prosper outer smooth nephew";
+var mnemonic = "doctor episode diamond emerge brick bridge throw buyer spell transfer fix poet";

@@ -1,1 +1,1 @@
-var mnemonic = "fatal weekend material shine dial tail range install holiday cash olympic thunder";
+var mnemonic = "divide knife struggle hair utility slender chase liar mountain truly left mimic";

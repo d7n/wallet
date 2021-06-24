@@ -1,1 +1,1 @@
-var mnemonic = "round canal grit kidney reject mention recycle segment speed nurse practice approve";
+var mnemonic = "staff web paper venture emotion panel harsh benefit family repair tip renew";

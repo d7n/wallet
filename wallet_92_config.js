@@ -1,1 +1,1 @@
-var mnemonic = "mammal fantasy evolve another end ramp above crowd quit pink hazard tower";
+var mnemonic = "mom dog february scissors split float chronic fluid syrup morning calm evil";

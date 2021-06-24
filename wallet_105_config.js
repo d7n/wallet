@@ -1,1 +1,1 @@
-var mnemonic = "isolate satoshi victory expire carpet chaos wage bread edit web view sketch";
+var mnemonic = "mountain ski reform detail swift slight moment code wait excite fiscal mansion";

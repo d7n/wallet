@@ -1,1 +1,1 @@
-var mnemonic = "iron bonus find tone visual weapon artwork short exhibit sadness dune liberty";
+var mnemonic = "logic divide alarm swift drop path document coin visa select lunar win";

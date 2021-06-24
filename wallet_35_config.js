@@ -1,1 +1,1 @@
-var mnemonic = "virtual solid muscle void giraffe drill note try drip someone arrange taste";
+var mnemonic = "afford hammer pepper empower protect say skill swarm attitude naive doll gather";

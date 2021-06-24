@@ -1,1 +1,1 @@
-var mnemonic = "radar destroy elbow bulb draw major beyond skull little spirit foil crunch";
+var mnemonic = "organ model about nest city diagram tourist gallery audit clever pilot word";

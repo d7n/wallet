@@ -1,1 +1,1 @@
-var mnemonic = "cart medal connect ecology hood ceiling funny torch later shine afford crew";
+var mnemonic = "snow produce honey camera health since illegal fault confirm primary spot puppy";

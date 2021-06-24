@@ -1,1 +1,1 @@
-var mnemonic = "cabbage wall loop film sugar warrior enforce venture aim input uphold minimum";
+var mnemonic = "verb cram pink address lab marble ring water gesture season regret kidney";

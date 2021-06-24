@@ -1,1 +1,1 @@
-var mnemonic = "room key impose wash muscle deposit lion cabbage fortune deal unit penalty";
+var mnemonic = "document priority carpet success safe pilot draft dial weasel snow dish mansion";

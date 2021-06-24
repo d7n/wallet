@@ -1,1 +1,1 @@
-var mnemonic = "chef deposit clinic myth coast energy chase owner source drama fit click";
+var mnemonic = "neck divide conduct abandon twenty face upgrade wrong prison error initial quantum";

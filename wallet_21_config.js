@@ -1,1 +1,1 @@
-var mnemonic = "deny chief crucial jar whip grain belt farm ring symptom annual slight";
+var mnemonic = "firm park arrive average wedding frame file author curtain north depart yellow";

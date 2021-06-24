@@ -1,1 +1,1 @@
-var mnemonic = "actual exit pattern fatigue swallow school thumb crunch ask innocent minor stable";
+var mnemonic = "screen obvious history gesture crumble borrow try wedding oblige scare embark okay";

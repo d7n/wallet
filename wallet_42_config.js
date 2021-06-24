@@ -1,1 +1,1 @@
-var mnemonic = "wrong super apple size fashion budget flag provide sad seat toy card";
+var mnemonic = "price report spy feel venue cliff bring wash unaware wolf physical test";

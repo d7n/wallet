@@ -1,1 +1,1 @@
-var mnemonic = "accident trash duck aspect produce end yellow market fiber example flame various";
+var mnemonic = "budget movie when speed laundry word able dose fruit festival ability calm";

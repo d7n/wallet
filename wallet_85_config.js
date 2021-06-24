@@ -1,1 +1,1 @@
-var mnemonic = "sun move advance happy leg powder turtle boss tumble fork curtain neutral";
+var mnemonic = "permit sting remember eyebrow survey clean capable exhibit wealth sugar caution vocal";

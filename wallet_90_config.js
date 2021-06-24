@@ -1,1 +1,1 @@
-var mnemonic = "ring alert air canyon vast day equal income motor girl parent stamp";
+var mnemonic = "frozen end stairs indoor special range siren fox craft index enlist later";

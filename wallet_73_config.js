@@ -1,1 +1,1 @@
-var mnemonic = "thank shed casual drill vacuum clinic theory lawsuit napkin involve library shadow";
+var mnemonic = "talk fork seminar census bulb maple security target salmon virus judge trend";

@@ -1,1 +1,1 @@
-var mnemonic = "motor crater indicate spawn hollow chicken digital please critic fancy blade series";
+var mnemonic = "split engage brief wrist blossom random artist dose relief then top bounce";

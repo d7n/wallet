@@ -1,1 +1,1 @@
-var mnemonic = "stuff pony humor lunch vote advice sail success learn swing income expect";
+var mnemonic = "upset heavy elder object crime modify neutral elephant fatal green fuel solve";

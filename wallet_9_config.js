@@ -1,1 +1,1 @@
-var mnemonic = "now maid once outer dinner admit mass virus possible divorce cricket tooth";
+var mnemonic = "quiz battle museum state quantum pause van tiger away ability club stage";

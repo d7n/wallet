@@ -1,1 +1,1 @@
-var mnemonic = "toward bacon ugly dream unveil pencil mechanic friend one elder burger jewel";
+var mnemonic = "clap fall vote hint liberty midnight cube convince park view shift ocean";

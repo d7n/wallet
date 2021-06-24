@@ -1,1 +1,1 @@
-var mnemonic = "route spin entire card brand fortune citizen brand scout acoustic chase door";
+var mnemonic = "nest guide champion soda rough fold multiply dignity train assist pumpkin throw";

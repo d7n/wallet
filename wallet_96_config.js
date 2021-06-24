@@ -1,1 +1,1 @@
-var mnemonic = "runway frog seed benefit pony honey claim brick visual more sweet chunk";
+var mnemonic = "raise cover genius similar army jacket human garment resist chase prize wide";

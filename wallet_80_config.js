@@ -1,1 +1,1 @@
-var mnemonic = "own assault worth rate border service good estate hotel churn crop goddess";
+var mnemonic = "north decade slush night gloom wealth oval squeeze wrong exclude thunder situate";

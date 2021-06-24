@@ -1,1 +1,1 @@
-var mnemonic = "sunny filter rescue better cradle begin error sick wolf question impulse dune";
+var mnemonic = "rug bulb weasel hole pair fat video because bicycle submit before prison";

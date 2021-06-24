@@ -1,1 +1,1 @@
-var mnemonic = "shift ribbon stove tray album young uncover exile bundle jaguar they anchor";
+var mnemonic = "defy sunny answer region fetch immune attract faint door angle unlock cube";

@@ -1,1 +1,1 @@
-var mnemonic = "tomato kitchen menu eye wasp ripple hello idle pencil wet coconut anxiety";
+var mnemonic = "page video lucky hint lizard any wrist stumble neck learn rude obscure";

@@ -1,1 +1,1 @@
-var mnemonic = "mimic exchange denial skill junior hover alert destroy bridge thrive horn oppose";
+var mnemonic = "execute forum day ensure pattern balcony fitness surface card amused mass early";

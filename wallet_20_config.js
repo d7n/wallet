@@ -1,1 +1,1 @@
-var mnemonic = "mention cannon also gym bird frame idle alter amazing battle update vast";
+var mnemonic = "basket spell rocket table ripple unaware extend surge price turn erode mind";

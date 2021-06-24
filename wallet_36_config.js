@@ -1,1 +1,1 @@
-var mnemonic = "skull expand fitness summer buffalo tower patient curious alcohol lumber scare salmon";
+var mnemonic = "believe pet better lecture vivid abandon jealous wing cabin creek cup apple";

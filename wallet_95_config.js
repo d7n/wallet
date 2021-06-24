@@ -1,1 +1,1 @@
-var mnemonic = "express visa filter robot father fancy camp soul access below upgrade pulse";
+var mnemonic = "erode board banner invite copper swap front light flight trap task web";

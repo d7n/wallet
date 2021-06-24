@@ -1,1 +1,1 @@
-var mnemonic = "nuclear scene brick select entire tail dilemma drill amused pottery mother brick";
+var mnemonic = "baby time size horse critic smoke sweet raw april dentist resist fresh";

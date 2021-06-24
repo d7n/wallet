@@ -1,1 +1,1 @@
-var mnemonic = "buddy actor sail coffee crystal sense alley note biology match eye vault";
+var mnemonic = "hand oven comic organ disagree hockey crumble armor gold renew flag crazy";

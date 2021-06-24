@@ -1,1 +1,1 @@
-var mnemonic = "planet write multiply sorry tortoise excess awesome hollow arctic style bone ring";
+var mnemonic = "panic cube woman ring bulk camp social throw position stone beauty focus";

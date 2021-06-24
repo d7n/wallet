@@ -1,1 +1,1 @@
-var mnemonic = "wolf lamp afford market unknown cabbage depart swarm modify problem choice heavy";
+var mnemonic = "never common roast novel reason inflict little engage foot coil will stairs";

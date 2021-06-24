@@ -1,1 +1,1 @@
-var mnemonic = "sorry sick couple lake green pipe trouble unknown round soft level snow";
+var mnemonic = "exile tiger tomorrow ancient fatal glass allow certain puppy company buddy human";

@@ -1,1 +1,1 @@
-var mnemonic = "hockey follow magnet fork later tornado slush protect draw exact simple minimum";
+var mnemonic = "spatial robust lava license slot tower ensure shift honey copy aware dose";

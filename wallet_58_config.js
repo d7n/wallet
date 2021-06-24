@@ -1,1 +1,1 @@
-var mnemonic = "goose vendor hat moment lottery twice cake give disease label skull slice";
+var mnemonic = "action pulse story people fiber choose ability over shop flash huge lock";

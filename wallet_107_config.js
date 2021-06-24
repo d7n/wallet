@@ -1,1 +1,1 @@
-var mnemonic = "industry energy school hungry early shoot glance kiwi animal mother again ensure";
+var mnemonic = "subway need angle steak inflict open interest chapter trial any lazy evidence";

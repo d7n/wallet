@@ -1,1 +1,1 @@
-var mnemonic = "fault addict flag project hero correct local marine address grocery choose end";
+var mnemonic = "tiny wait shrimp coffee tip chuckle dial man there slight first shock";

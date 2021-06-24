@@ -1,1 +1,1 @@
-var mnemonic = "asset assist capable affair alone leopard vault audit rice concert hunt canvas";
+var mnemonic = "body attract sentence salmon cute unusual once behave people robot evoke extra";

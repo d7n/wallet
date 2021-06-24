@@ -1,1 +1,1 @@
-var mnemonic = "range ethics enjoy spice snap tobacco outside runway ship kit object punch";
+var mnemonic = "spare peace tell spatial pass term cushion naive swallow shadow welcome farm";

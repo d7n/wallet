@@ -1,1 +1,1 @@
-var mnemonic = "hover infant round purse powder slush vibrant floor peanut system cheese zero";
+var mnemonic = "feed arch flush mass purpose fossil useless extend aisle apart remove vacant";

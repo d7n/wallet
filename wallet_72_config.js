@@ -1,1 +1,1 @@
-var mnemonic = "soap company glove march hello pen gun daughter knee arena retreat toilet";
+var mnemonic = "media habit gas two during guide nuclear dash network wheat utility this";

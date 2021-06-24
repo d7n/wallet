@@ -1,1 +1,1 @@
-var mnemonic = "require become fat snow manual thunder crew harvest promote antique weasel dawn";
+var mnemonic = "glory own practice mango wait vehicle river bargain more bid puppy blame";

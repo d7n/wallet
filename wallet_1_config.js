@@ -1,1 +1,1 @@
-var mnemonic = "argue tip funny cute witness aunt bench dizzy robot toe basic hobby";
+var mnemonic = "soccer swing client simple injury cycle toy minimum claim put lift explain";

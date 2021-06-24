@@ -1,1 +1,1 @@
-var mnemonic = "away normal second flower broccoli grunt sunny eight panda obtain tooth else";
+var mnemonic = "opinion uncle program raise own rice lake plunge finish since review bind";

@@ -1,1 +1,1 @@
-var mnemonic = "outdoor elite allow grow oak doctor fall idea hope cream spawn yellow";
+var mnemonic = "leader wreck item truly defy flavor patient jar mesh deposit program wagon";

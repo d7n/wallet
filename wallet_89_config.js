@@ -1,1 +1,1 @@
-var mnemonic = "tomato round east emerge second magic can story window velvet window brand";
+var mnemonic = "captain chest pumpkin left ridge hip they shoot valid exotic slush ethics";

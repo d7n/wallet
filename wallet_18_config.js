@@ -1,1 +1,1 @@
-var mnemonic = "regret victory foster awesome page crawl day feel basket drink tree fence";
+var mnemonic = "online artefact shoe ritual corn toe rally fork squeeze wear steel heavy";

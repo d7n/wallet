@@ -1,1 +1,1 @@
-var mnemonic = "crunch peasant under vacant tourist regret clog human siren save city torch";
+var mnemonic = "arch all maple reject message metal pluck congress gift citizen tag fork";

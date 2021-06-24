@@ -1,1 +1,1 @@
-var mnemonic = "unaware upper wonder debris hurry slim often valley network swarm flame bring";
+var mnemonic = "robust public warrior ski legal legend rabbit annual exchange foam addict fog";

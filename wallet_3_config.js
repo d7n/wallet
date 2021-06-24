@@ -1,1 +1,1 @@
-var mnemonic = "among develop choice juice kitchen coral verb secret story hole either learn";
+var mnemonic = "love truly exit device bird nasty actor view trophy vivid rack decorate";

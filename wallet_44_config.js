@@ -1,1 +1,1 @@
-var mnemonic = "student level deny burger trust horn tiny trust taxi engage vessel soul";
+var mnemonic = "beyond luxury shiver pig shoe differ lava pole network net foot priority";

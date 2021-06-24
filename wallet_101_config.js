@@ -1,1 +1,1 @@
-var mnemonic = "burst movie glad cattle surface young promote remember true noble brown bird";
+var mnemonic = "raven print trip sting peace thank during aware hover rigid quantum employ";
