@@ -1,1 +1,1 @@
-var mnemonic = "couple visual fresh wire scene law capable gate jungle payment charge black";
+var mnemonic = "song label stool garden misery theme unhappy solve gym slam wave inmate";

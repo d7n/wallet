@@ -1,1 +1,1 @@
-var mnemonic = "sing deliver clinic relief library trigger agent chuckle salmon decrease custom rather";
+var mnemonic = "coral jelly toss frozen wrestle ability multiply monkey warfare circle easily trophy";

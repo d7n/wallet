@@ -1,1 +1,1 @@
-var mnemonic = "pledge borrow nurse keen universe fat require educate element moon hammer retreat";
+var mnemonic = "exhaust person chase dignity minute cricket kidney olympic minute surprise unknown december";

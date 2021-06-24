@@ -1,1 +1,1 @@
-var mnemonic = "tennis vast morning traffic skate super boss true village owner glory copper";
+var mnemonic = "country coach juice feel person surprise fruit round cannon satisfy parrot provide";

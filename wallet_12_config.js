@@ -1,1 +1,1 @@
-var mnemonic = "staff worth slender will bubble alcohol table jar brief custom veteran key";
+var mnemonic = "loyal bridge end disorder search daughter bracket piece foster cricket police addict";

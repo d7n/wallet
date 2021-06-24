@@ -1,1 +1,1 @@
-var mnemonic = "world very hazard option usual special ignore board love village exile divert";
+var mnemonic = "hungry brief leave cry metal aspect barrel image brave slight luxury side";

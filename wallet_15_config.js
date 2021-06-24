@@ -1,1 +1,1 @@
-var mnemonic = "simple inmate city evil shallow payment club ski entire bubble check picnic";
+var mnemonic = "similar broccoli trade fluid gorilla oven drink wedding cash donkey traffic palace";

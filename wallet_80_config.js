@@ -1,1 +1,1 @@
-var mnemonic = "clap bean wait topple robust undo farm west resemble organ frost near";
+var mnemonic = "focus verify calm critic jelly hour birth own quote lab gesture vintage";

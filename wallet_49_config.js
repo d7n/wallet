@@ -1,1 +1,1 @@
-var mnemonic = "next tape always addict income vessel nuclear digital tenant coconut diamond treat";
+var mnemonic = "gap fence degree notice answer ahead evolve rural give razor burger cave";

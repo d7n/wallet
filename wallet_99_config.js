@@ -1,1 +1,1 @@
-var mnemonic = "today field delay essence spray jewel wedding above license friend power now";
+var mnemonic = "toe rabbit figure such embark stage turkey lecture again scorpion sing oil";

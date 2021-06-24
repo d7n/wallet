@@ -1,1 +1,1 @@
-var mnemonic = "jeans crowd dirt puppy mistake obvious announce clever maximum lunch liquid glimpse";
+var mnemonic = "remain obscure march express author grant ketchup pilot album word pyramid foot";

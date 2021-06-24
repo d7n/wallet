@@ -1,1 +1,1 @@
-var mnemonic = "hidden plunge debris member monitor reunion narrow tortoise fire fetch lazy frog";
+var mnemonic = "sense casino shoe magnet garage heavy gadget equip valve assault gospel aisle";

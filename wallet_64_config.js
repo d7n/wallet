@@ -1,1 +1,1 @@
-var mnemonic = "group flag news slow shift lizard dawn cream floor taste neck true";
+var mnemonic = "renew wall buyer know chuckle enable portion piece powder bounce top thumb";

@@ -1,1 +1,1 @@
-var mnemonic = "bubble stamp roast broom power option equal wrap vessel home card pass";
+var mnemonic = "brother among cute grief scan news donor message carry illegal route achieve";

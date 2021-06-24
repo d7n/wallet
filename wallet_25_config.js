@@ -1,1 +1,1 @@
-var mnemonic = "forest reward tornado dial oxygen rocket once popular tired hover lift banner";
+var mnemonic = "water much drop onion document ginger thumb labor crowd cotton view clay";

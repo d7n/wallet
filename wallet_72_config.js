@@ -1,1 +1,1 @@
-var mnemonic = "gate warrior defy floor copper save february field deliver jaguar little plunge";
+var mnemonic = "steak topple absurd pool light person duck shaft page alone call skull";

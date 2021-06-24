@@ -1,1 +1,1 @@
-var mnemonic = "stove fatigue toe swarm foster sunny scissors equal spy right cherry earn";
+var mnemonic = "museum initial heart coil squirrel road alpha gas silver blame shadow grape";

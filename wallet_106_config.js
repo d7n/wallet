@@ -1,1 +1,1 @@
-var mnemonic = "biology kind crime impact jungle bachelor affair virus frozen near dinner phone";
+var mnemonic = "field alcohol once pigeon first canyon tuna eternal submit solar topple desert";

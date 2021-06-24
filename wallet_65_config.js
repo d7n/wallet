@@ -1,1 +1,1 @@
-var mnemonic = "twice float fossil beyond deer chat frozen report defense custom narrow swear";
+var mnemonic = "wedding figure unfold mirror glue pepper tenant exhibit gorilla rack sing tiny";

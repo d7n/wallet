@@ -1,1 +1,1 @@
-var mnemonic = "blush combine find tourist weekend label police next measure jewel dutch attack";
+var mnemonic = "thing dad common comfort slim west pulp soft injury ability obey subway";

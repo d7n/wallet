@@ -1,1 +1,1 @@
-var mnemonic = "setup dinner liquid puzzle during usage must way pistol figure inquiry limit";
+var mnemonic = "run scissors orange subway come divide guard crazy dumb jump kitchen supreme";

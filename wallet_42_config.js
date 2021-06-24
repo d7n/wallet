@@ -1,1 +1,1 @@
-var mnemonic = "inquiry grunt among want scale hill patrol body hover fantasy gorilla expand";
+var mnemonic = "tail file direct pistol setup gossip river sand more interest pepper phone";

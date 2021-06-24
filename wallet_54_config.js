@@ -1,1 +1,1 @@
-var mnemonic = "educate segment helmet sister orient embrace render rent moral drip minor nominee";
+var mnemonic = "recall leader diet mandate exact torch father domain basket motion flag such";

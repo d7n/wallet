@@ -1,1 +1,1 @@
-var mnemonic = "siege foam case confirm motion lottery drum rough clay catalog elegant sad";
+var mnemonic = "weasel place scissors rather goddess hurdle affair girl virtual provide bag scene";

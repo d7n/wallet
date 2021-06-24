@@ -1,1 +1,1 @@
-var mnemonic = "pizza goddess idea depart clutch depth faint soft debate hand blossom expect";
+var mnemonic = "sting put knock sphere empty broccoli chalk decline wet peasant theory check";

@@ -1,1 +1,1 @@
-var mnemonic = "come response exhaust bike ethics diet tourist bonus scout muffin actual gate";
+var mnemonic = "broccoli jump kingdom reopen chef candy hunt slide woman patient elephant ceiling";

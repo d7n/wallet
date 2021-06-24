@@ -1,1 +1,1 @@
-var mnemonic = "glimpse evolve token twin almost myself tilt survey trade blue leopard learn";
+var mnemonic = "reduce scheme mirror unveil oxygen photo cycle end thumb weekend visual lake";

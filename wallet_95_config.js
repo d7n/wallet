@@ -1,1 +1,1 @@
-var mnemonic = "plug jazz cricket eternal brick toss island dignity nerve story disagree leg";
+var mnemonic = "nuclear siren wagon mind egg place license next common alpha curve front";

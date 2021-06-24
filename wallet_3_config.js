@@ -1,1 +1,1 @@
-var mnemonic = "float idea offer limit zero sorry please board ticket duck behind find";
+var mnemonic = "rubber gain market tornado cloud brisk alter change like organ daughter hidden";

@@ -1,1 +1,1 @@
-var mnemonic = "stock spare paddle reason human safe emotion claim glove deputy jazz tiger";
+var mnemonic = "engine ready axis client nature history method dutch replace bulk pretty foil";

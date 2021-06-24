@@ -1,1 +1,1 @@
-var mnemonic = "patient security doctor mutual patch border concert orchard poverty fruit raw fault";
+var mnemonic = "weather talent crystal satisfy few wage garlic humble omit refuse please credit";

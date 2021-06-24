@@ -1,1 +1,1 @@
-var mnemonic = "hour pipe adjust judge deal antique leg promote split spatial absorb hollow";
+var mnemonic = "alter mix vibrant lazy congress disorder slight episode solve height ring leaf";

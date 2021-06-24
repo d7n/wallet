@@ -1,1 +1,1 @@
-var mnemonic = "small kangaroo excuse hollow slot prefer genre humble dilemma nest cage dash";
+var mnemonic = "special melt weekend velvet category hint album weapon rule plug marble question";

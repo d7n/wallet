@@ -1,1 +1,1 @@
-var mnemonic = "future decide paper patient flame energy syrup neck inhale punch north climb";
+var mnemonic = "shrimp program cram giggle dress admit faint unveil mobile spoil race spin";

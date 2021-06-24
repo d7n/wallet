@@ -1,1 +1,1 @@
-var mnemonic = "canal frost gaze limb abstract license photo real arctic canal unlock obscure";
+var mnemonic = "warrior guide zone eyebrow cute sleep state mansion session asset spring panel";

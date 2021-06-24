@@ -1,1 +1,1 @@
-var mnemonic = "ugly time casino swarm dune expect chimney glow waste midnight rice photo";
+var mnemonic = "client bird people double round sound stable crane jump absorb frown pioneer";

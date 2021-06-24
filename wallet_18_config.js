@@ -1,1 +1,1 @@
-var mnemonic = "become wonder double moon broom marine plate mosquito figure unusual speed delay";
+var mnemonic = "melody reject visual jacket miracle asset ski penalty term ocean physical palm";

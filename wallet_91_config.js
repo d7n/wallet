@@ -1,1 +1,1 @@
-var mnemonic = "act hurry body sunset absurd way crash rack swallow ecology potato ceiling";
+var mnemonic = "mail gaze toast cupboard want inform toy solution soda abstract visit shield";

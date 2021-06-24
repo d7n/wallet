@@ -1,1 +1,1 @@
-var mnemonic = "brother unusual author regret tribe bulb net address donate wolf onion behind";
+var mnemonic = "monitor access lonely dinosaur output found square venture genius hole coyote category";

@@ -1,1 +1,1 @@
-var mnemonic = "sound orange occur rural abstract decade hundred still purse thank market sign";
+var mnemonic = "weasel scrub retreat favorite eyebrow kick arch because paper spawn upon stamp";

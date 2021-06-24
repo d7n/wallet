@@ -1,1 +1,1 @@
-var mnemonic = "walk deliver top motor about ticket wheel cash mistake awkward gossip swap";
+var mnemonic = "coral kind satoshi blood mom entire crawl adjust bronze quarter purity mother";

@@ -1,1 +1,1 @@
-var mnemonic = "document gospel faith vacuum weather gather uniform firm protect grant alley cheap";
+var mnemonic = "vibrant else belt kite double diet wrestle video relax brick rare air";

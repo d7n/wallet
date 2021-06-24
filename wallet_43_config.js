@@ -1,1 +1,1 @@
-var mnemonic = "area upgrade ill deputy ahead limit empower general brain moral swamp pupil";
+var mnemonic = "source chest wrist bread sun legend banana hire certain few movie rural";

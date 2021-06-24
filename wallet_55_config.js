@@ -1,1 +1,1 @@
-var mnemonic = "strategy rail tone kidney drink luggage list rally donkey claim curtain attend";
+var mnemonic = "federal desk winter differ wrap minute fiber state exchange wife debate pride";

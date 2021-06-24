@@ -1,1 +1,1 @@
-var mnemonic = "weather shop choice people funny output foam cabin opinion alpha mammal panic";
+var mnemonic = "fitness virus animal lamp chat unable modify once front often secret give";

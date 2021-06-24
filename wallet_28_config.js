@@ -1,1 +1,1 @@
-var mnemonic = "supreme crash water gossip party artist motor slot spin bright fog defy";
+var mnemonic = "midnight liar zero initial happy solar appear quiz gold alert danger magnet";

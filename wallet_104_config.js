@@ -1,1 +1,1 @@
-var mnemonic = "logic together meadow fit argue depart differ filter menu bamboo warrior modify";
+var mnemonic = "emerge lock sand peasant anger occur topple coast inspire jump strike outdoor";

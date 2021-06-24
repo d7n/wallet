@@ -1,1 +1,1 @@
-var mnemonic = "oyster obtain butter abuse fence time become icon cage hint true impact";
+var mnemonic = "reduce summer safe era release fan cinnamon use spoil general paddle eight";

@@ -1,1 +1,1 @@
-var mnemonic = "build wash lady capable hurry salmon box exhibit oil veteran mistake ticket";
+var mnemonic = "crazy until attend seminar useful cruise lab typical ghost annual morning enough";

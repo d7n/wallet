@@ -1,1 +1,1 @@
-var mnemonic = "steak heavy music tobacco obvious sadness tissue cinnamon region trigger moral treat";
+var mnemonic = "interest denial scare corn reason couch nephew velvet zone almost orange art";

@@ -1,1 +1,1 @@
-var mnemonic = "expire fragile spell tilt liberty isolate slice sing fashion room film friend";
+var mnemonic = "solid ginger void post service chair ketchup arrange case merit sauce outer";

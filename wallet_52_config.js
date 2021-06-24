@@ -1,1 +1,1 @@
-var mnemonic = "sudden skill monkey orbit shell lyrics wrist way risk metal acid coconut";
+var mnemonic = "mule crawl rich tattoo monkey undo jeans dice bring erupt nothing fan";

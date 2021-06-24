@@ -1,1 +1,1 @@
-var mnemonic = "deputy artwork portion atom diagram they current cabbage degree will stuff crumble";
+var mnemonic = "arena ritual armor portion control come symbol chief biology final humor either";

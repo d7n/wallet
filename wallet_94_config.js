@@ -1,1 +1,1 @@
-var mnemonic = "sense number gorilla rack avoid become omit powder exercise meat loop business";
+var mnemonic = "pole choice reject bundle frost execute magnet pond luggage remind frequent gift";

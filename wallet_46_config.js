@@ -1,1 +1,1 @@
-var mnemonic = "future clog round behave liberty universe punch wire woman access blood twelve";
+var mnemonic = "mixed subject air certain amount symbol fan idle cannon fluid this fit";

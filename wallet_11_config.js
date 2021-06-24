@@ -1,1 +1,1 @@
-var mnemonic = "breeze lock grain venture cliff mother fix vessel habit cluster enlist illegal";
+var mnemonic = "never dune glory keep float extra dice throw aware guess excite fork";

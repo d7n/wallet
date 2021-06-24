@@ -1,1 +1,1 @@
-var mnemonic = "dilemma super impact shallow fruit chef fog innocent replace parent question poet";
+var mnemonic = "spike link water note canyon allow patient village giant wrong resource another";

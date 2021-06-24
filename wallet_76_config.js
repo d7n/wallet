@@ -1,1 +1,1 @@
-var mnemonic = "cycle normal cabin snack cause require say wonder promote across able best";
+var mnemonic = "turtle mad punch three doll flip illegal rural city cluster few token";

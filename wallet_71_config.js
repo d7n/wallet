@@ -1,1 +1,1 @@
-var mnemonic = "twice fix fun math soldier erode final surge shoulder relief catalog jump";
+var mnemonic = "joy inner document urban dad later use around broken current minute envelope";

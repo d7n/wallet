@@ -1,1 +1,1 @@
-var mnemonic = "raw tray royal gate exhibit evoke cinnamon flee all crazy assume gas";
+var mnemonic = "nothing prosper blood glory day rough apart moment gentle visual mule basic";

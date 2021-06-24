@@ -1,1 +1,1 @@
-var mnemonic = "fine rookie spot category blue slender title innocent useless gold trap camera";
+var mnemonic = "stable echo wedding vehicle useless above polar garden fame honey hospital gather";

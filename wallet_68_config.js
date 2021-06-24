@@ -1,1 +1,1 @@
-var mnemonic = "raven owner position tonight stock gather convince rabbit toilet mushroom toilet steel";
+var mnemonic = "hen know metal physical tent strong female album scare kitten sudden menu";

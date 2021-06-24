@@ -1,1 +1,1 @@
-var mnemonic = "sword cargo analyst panic pizza access bench world asthma pioneer salmon before";
+var mnemonic = "collect crew aim resource drink april ivory wide case plastic critic modify";

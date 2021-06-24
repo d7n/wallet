@@ -1,1 +1,1 @@
-var mnemonic = "talk diet explain brush remain stomach pipe dumb abstract orient face effort";
+var mnemonic = "leg position shove model glue shrimp involve skull glide fortune glance story";

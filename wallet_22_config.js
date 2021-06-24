@@ -1,1 +1,1 @@
-var mnemonic = "recall toss mother scale all kind entry area child sure ticket roof";
+var mnemonic = "hamster feed uncover absorb north already bargain kitchen web shed proof tray";

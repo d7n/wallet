@@ -1,1 +1,1 @@
-var mnemonic = "hire artwork okay unfold garbage rebuild ice delay boring aspect wire device";
+var mnemonic = "myself bitter chair lamp soap lawsuit amused deer veteran raccoon call useful";

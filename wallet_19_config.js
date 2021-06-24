@@ -1,1 +1,1 @@
-var mnemonic = "season play cloth couch athlete wet cement spend come asset foster spread";
+var mnemonic = "lazy stuff rate tuna evoke prison wire grant middle sound balance ball";

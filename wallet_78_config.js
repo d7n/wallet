@@ -1,1 +1,1 @@
-var mnemonic = "celery anger cost antique hybrid moment lucky brother jelly news vessel slab";
+var mnemonic = "core carpet stumble table glove wide gallery quantum upset escape balcony shed";

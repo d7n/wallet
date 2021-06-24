@@ -1,1 +1,1 @@
-var mnemonic = "jelly clean nose style very poverty diary tuition vast extend story boring";
+var mnemonic = "december ranch tube garage asthma logic educate tourist clinic anchor draft canvas";

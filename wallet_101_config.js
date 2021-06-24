@@ -1,1 +1,1 @@
-var mnemonic = "magic act eye rigid volcano merit keen clip dragon offer intact funny";
+var mnemonic = "meadow suit awesome approve estate buzz leaf foster hunt ripple useful ceiling";

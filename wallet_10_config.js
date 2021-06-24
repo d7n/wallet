@@ -1,1 +1,1 @@
-var mnemonic = "spread diary correct vanish boss dizzy host aisle report vacuum razor price";
+var mnemonic = "behave humor slide camp ugly start clown regret mirror random cotton false";

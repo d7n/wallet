@@ -1,1 +1,1 @@
-var mnemonic = "pilot sleep hip clerk square body slim brave rescue december dinosaur mansion";
+var mnemonic = "door stand section royal lucky language garlic pioneer medal situate ahead tray";

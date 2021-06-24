@@ -1,1 +1,1 @@
-var mnemonic = "shuffle clay now tomato install movie road blame sniff prevent point globe";
+var mnemonic = "author acoustic drive hedgehog boil alarm extra hockey olympic behind biology alpha";

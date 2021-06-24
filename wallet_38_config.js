@@ -1,1 +1,1 @@
-var mnemonic = "heavy excess pepper drive hover hero carbon main life disease infant abandon";
+var mnemonic = "dentist insane fade interest book list edge quality sun adapt hazard hope";

@@ -1,1 +1,1 @@
-var mnemonic = "useless possible detail voice eager mango direct blanket two ridge divide chunk";
+var mnemonic = "arrive castle wear attitude high world wife pepper night vendor album regular";

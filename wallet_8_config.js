@@ -1,1 +1,1 @@
-var mnemonic = "address cattle shift monkey abuse speak later bronze rule busy nature cycle";
+var mnemonic = "leg ritual stomach intact body tone cupboard rude surround coin speak sphere";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry medal improve lumber seek royal chief draft stumble illness utility manage";
+var mnemonic = "injury little country visit pelican magic boring pottery green velvet awful polar";

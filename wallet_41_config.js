@@ -1,1 +1,1 @@
-var mnemonic = "venue rather lottery abandon depth mammal sample hedgehog burden hold wide profit";
+var mnemonic = "exercise dove slogan mammal super grocery gallery advance mercy mail option crystal";

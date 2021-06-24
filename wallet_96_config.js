@@ -1,1 +1,1 @@
-var mnemonic = "text remain prison pig custom coast stamp science leaf polar must crime";
+var mnemonic = "decorate tattoo course arch blanket lesson talent wife soccer truth thought quantum";

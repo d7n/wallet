@@ -1,1 +1,1 @@
-var mnemonic = "guess fault pink margin alter paper pause feel syrup pink choose unlock";
+var mnemonic = "basket vault zebra move soup agree bike brain note swing stock add";

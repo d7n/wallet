@@ -1,1 +1,1 @@
-var mnemonic = "morning scheme crash dish canvas ball census loop repeat hair bronze feed";
+var mnemonic = "arctic merry figure lens noise grief roof mansion left guess panic poet";

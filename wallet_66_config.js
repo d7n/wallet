@@ -1,1 +1,1 @@
-var mnemonic = "tell display twist fetch stick bachelor moment ghost blush strike together slam";
+var mnemonic = "true cake bag nut dry hawk tourist silent initial cave sing cry";

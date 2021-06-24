@@ -1,1 +1,1 @@
-var mnemonic = "shove boil fan peace green quiz silk robust snap noble shaft peasant";
+var mnemonic = "original avoid baby blue car ticket diesel plate peasant news fresh deposit";

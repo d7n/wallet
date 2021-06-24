@@ -1,1 +1,1 @@
-var mnemonic = "world census hotel layer illness before south tongue twice panther maid edit";
+var mnemonic = "simple mammal junk glue tail position shell ranch task marriage season grass";

@@ -1,1 +1,1 @@
-var mnemonic = "story room cupboard asset blood input private three trial alley unable hammer";
+var mnemonic = "nut frown cable pluck sister involve owner pyramid swap together between cargo";

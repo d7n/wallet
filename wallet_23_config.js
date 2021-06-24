@@ -1,1 +1,1 @@
-var mnemonic = "cattle scrap example dentist style asset all bind cloud primary rebuild museum";
+var mnemonic = "donkey device round ugly attract dish ask mass elbow wisdom wealth flock";

@@ -1,1 +1,1 @@
-var mnemonic = "hip scale oxygen chicken express panel crowd act relax toilet flame post";
+var mnemonic = "heart entire sphere canyon nothing garage metal punch genre enroll oyster hen";

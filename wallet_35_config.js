@@ -1,1 +1,1 @@
-var mnemonic = "still staff emotion wood wet domain donor play expand job silly logic";
+var mnemonic = "milk curve width reflect hospital shop card nurse eternal bicycle globe gossip";

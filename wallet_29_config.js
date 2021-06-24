@@ -1,1 +1,1 @@
-var mnemonic = "appear car walnut practice because private arrange swarm heavy kitten language require";
+var mnemonic = "render buffalo question dignity loyal labor artist weekend bless visual dial ginger";

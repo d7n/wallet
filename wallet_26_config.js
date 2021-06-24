@@ -1,1 +1,1 @@
-var mnemonic = "swim require supply thank replace bleak decide helmet blame mule cable analyst";
+var mnemonic = "put swim absurd forward grow option clutch alarm garden asset whip random";
