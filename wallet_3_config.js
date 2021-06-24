@@ -1,1 +1,1 @@
-var mnemonic = "cupboard movie call tongue vessel just fish argue stamp step accuse wave";
+var mnemonic = "split clog simple dash crumble sock original gold knee charge error trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "process cousin citizen double sad chunk before strong scan beauty tuition pencil";
+var mnemonic = "tissue oblige general peanut own clown display copper crush hungry vicious disorder";

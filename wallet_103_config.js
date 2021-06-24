@@ -1,1 +1,1 @@
-var mnemonic = "impose tortoise injury keen purity boil spend arch dumb genre unhappy decade";
+var mnemonic = "fine lawsuit bounce picture crazy true fiber boss exclude engage then wet";

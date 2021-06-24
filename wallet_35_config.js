@@ -1,1 +1,1 @@
-var mnemonic = "gold autumn senior dream grit program thought flavor blade power nose victory";
+var mnemonic = "sick charge until buzz hunt scissors tobacco coral slush predict razor chronic";

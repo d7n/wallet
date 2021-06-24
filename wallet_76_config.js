@@ -1,1 +1,1 @@
-var mnemonic = "infant butter hen ceiling gym tongue private luggage leaf witness program minor";
+var mnemonic = "boat clever fly garment praise small athlete common steak hurt square conduct";

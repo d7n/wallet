@@ -1,1 +1,1 @@
-var mnemonic = "mushroom era clap crunch pyramid steel image popular benefit acquire word excite";
+var mnemonic = "bone hungry double near trust sting visa morning original hundred hour shallow";

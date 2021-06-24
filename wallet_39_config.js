@@ -1,1 +1,1 @@
-var mnemonic = "apology stomach spoon fetch vicious song garlic lumber dune fence cigar myself";
+var mnemonic = "fever weird school spirit clean tree monster excess aisle permit flavor rhythm";

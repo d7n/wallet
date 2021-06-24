@@ -1,1 +1,1 @@
-var mnemonic = "grant move material citizen tail squeeze field vicious awesome mention catalog direct";
+var mnemonic = "riot rare unit hat route finger force original gentle verify smooth giant";

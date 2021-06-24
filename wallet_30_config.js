@@ -1,1 +1,1 @@
-var mnemonic = "vibrant useless test tell useful boil unique alpha extend phrase tribe dirt";
+var mnemonic = "curious filter easy degree tragic mutual fuel include curtain unfold degree federal";

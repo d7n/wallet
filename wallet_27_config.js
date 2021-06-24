@@ -1,1 +1,1 @@
-var mnemonic = "light labor turtle public keep palace mercy dinosaur degree mimic deliver practice";
+var mnemonic = "mad reflect motor hint route trap uncle enter year naive pioneer code";

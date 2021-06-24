@@ -1,1 +1,1 @@
-var mnemonic = "junk slot arctic hover hint bus local kiwi tide occur tide awkward";
+var mnemonic = "silk draw trend media offer fade charge pony animal tomato enough cup";

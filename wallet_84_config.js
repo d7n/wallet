@@ -1,1 +1,1 @@
-var mnemonic = "decade scan right visual setup draft victory angle refuse lion defy owner";
+var mnemonic = "weasel across remind answer floor salad turkey radio ahead off expose shove";

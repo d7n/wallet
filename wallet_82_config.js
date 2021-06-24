@@ -1,1 +1,1 @@
-var mnemonic = "remind shed embark galaxy action minute write lunch arrange portion list supreme";
+var mnemonic = "lion obscure vibrant moral analyst space replace sand hollow bonus brain error";

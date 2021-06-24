@@ -1,1 +1,1 @@
-var mnemonic = "maze swear credit ride wire much this chronic fatal remember guilt pig";
+var mnemonic = "hair dentist nurse garden vibrant prevent cabin walk february use nominee sustain";

@@ -1,1 +1,1 @@
-var mnemonic = "science loop borrow wrong law catalog loan solar exotic gather grab world";
+var mnemonic = "ten enter thunder buffalo cook addict surge swing absorb orange this ready";

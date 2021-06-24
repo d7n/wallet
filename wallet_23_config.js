@@ -1,1 +1,1 @@
-var mnemonic = "seed orient profit response eagle cattle index aim rural bean aisle fabric";
+var mnemonic = "case step valid lava kiwi typical virus face fog soldier hood blur";

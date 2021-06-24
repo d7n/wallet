@@ -1,1 +1,1 @@
-var mnemonic = "unfair any suffer hammer image access kind seek true used imitate infant";
+var mnemonic = "warrior upgrade frown hub hospital frame jump beyond sound switch divorce machine";

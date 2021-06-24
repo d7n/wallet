@@ -1,1 +1,1 @@
-var mnemonic = "second hip flower language ring fun word nurse age then shove suggest";
+var mnemonic = "much mobile color food artwork badge cannon way census coil duck boil";

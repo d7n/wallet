@@ -1,1 +1,1 @@
-var mnemonic = "jump identify derive action noodle frost senior runway quarter kit rather lend";
+var mnemonic = "apple stomach relax expect sorry hip alpha exotic scan elephant raccoon plastic";

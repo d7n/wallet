@@ -1,1 +1,1 @@
-var mnemonic = "secret tell mom length nothing lecture conduct theme holiday appear gentle input";
+var mnemonic = "weather churn quantum half excuse child stadium pluck manage noble victory upper";

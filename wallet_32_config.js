@@ -1,1 +1,1 @@
-var mnemonic = "bomb arrest oppose upset link slot spoil symbol expose zero member under";
+var mnemonic = "skirt soap snack comic clown antenna earth nephew spy derive myth choice";

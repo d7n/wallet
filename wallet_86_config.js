@@ -1,1 +1,1 @@
-var mnemonic = "defy trade cram train forget stand melody actor return museum welcome ordinary";
+var mnemonic = "eight frog wool army upper cram solution case key glass rare island";

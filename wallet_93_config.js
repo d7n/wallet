@@ -1,1 +1,1 @@
-var mnemonic = "cover cost sunset until turtle flag leopard project recall door noble account";
+var mnemonic = "cinnamon risk wheat arrow table confirm endorse survey improve over pyramid supreme";

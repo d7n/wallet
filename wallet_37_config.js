@@ -1,1 +1,1 @@
-var mnemonic = "grape stone course female example put cube jar fiber grape torch base";
+var mnemonic = "danger flower work indoor loyal urban peanut gun fiber hamster stable huge";

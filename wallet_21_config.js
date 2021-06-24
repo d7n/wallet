@@ -1,1 +1,1 @@
-var mnemonic = "blouse captain accident rescue error effort accident benefit dismiss three zebra toward";
+var mnemonic = "govern approve vapor erode strike blanket topic shadow quote charge thought album";

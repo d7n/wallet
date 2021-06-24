@@ -1,1 +1,1 @@
-var mnemonic = "essence cool citizen ability rug dirt relief service scrub crack extend lady";
+var mnemonic = "swamp expose doctor miss save waste lesson swim girl boil submit scene";

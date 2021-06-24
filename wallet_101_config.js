@@ -1,1 +1,1 @@
-var mnemonic = "salmon kit torch course list phrase visa fire pizza kick bar gravity";
+var mnemonic = "math coffee stuff resemble faith capable nose wheel trumpet hard artist chicken";

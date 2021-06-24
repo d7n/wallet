@@ -1,1 +1,1 @@
-var mnemonic = "video jelly enact chase retire early nuclear bamboo giraffe predict crisp truck";
+var mnemonic = "never bulk snake glide issue pencil squirrel hero ugly eyebrow frame symptom";

@@ -1,1 +1,1 @@
-var mnemonic = "dentist dumb post cradle plate afford fantasy ticket pencil pull diary budget";
+var mnemonic = "weird essence gasp bounce pelican lake relief scene loud coast cabbage flight";

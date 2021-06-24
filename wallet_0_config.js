@@ -1,1 +1,1 @@
-var mnemonic = "total crush gasp decorate can badge manual also attitude chest friend end";
+var mnemonic = "seminar hawk elegant jewel job same impulse indoor net purity ski defy";

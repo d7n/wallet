@@ -1,1 +1,1 @@
-var mnemonic = "problem brother raccoon rural code river author strong wrap tube crash squirrel";
+var mnemonic = "shrug unit patch breeze object soccer decorate priority surface equip fragile crystal";

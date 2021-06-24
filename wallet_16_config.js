@@ -1,1 +1,1 @@
-var mnemonic = "test lawn creek ceiling trust crumble kind vintage attitude side lunar script";
+var mnemonic = "then mask walk mix brave render wear fossil resist add debate base";

@@ -1,1 +1,1 @@
-var mnemonic = "east lecture resemble observe build battle actress army trim census waste habit";
+var mnemonic = "finish hobby involve front clinic captain option undo boil absorb maximum concert";

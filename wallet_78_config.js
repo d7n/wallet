@@ -1,1 +1,1 @@
-var mnemonic = "zoo like donor limit scene salon much snack turtle traffic sock cram";
+var mnemonic = "employ dwarf hobby light best length saddle leisure weather express inmate trade";

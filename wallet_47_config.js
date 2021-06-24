@@ -1,1 +1,1 @@
-var mnemonic = "juice rack skill often ecology volume charge giant purpose offer limit mammal";
+var mnemonic = "congress sing congress avocado tuition damage jungle negative trigger degree decade begin";

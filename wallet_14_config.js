@@ -1,1 +1,1 @@
-var mnemonic = "elephant smart inflict group health blossom congress fit master reunion ask axis";
+var mnemonic = "grab risk better head size search depth inject stool man future antenna";

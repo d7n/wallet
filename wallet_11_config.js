@@ -1,1 +1,1 @@
-var mnemonic = "laundry smart oblige insect vibrant inside robust leader unusual era prefer process";
+var mnemonic = "gossip kick option pledge assist sustain oyster belt core nasty weird heart";

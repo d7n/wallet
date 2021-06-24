@@ -1,1 +1,1 @@
-var mnemonic = "lyrics off metal piece aware pioneer market pizza lunar pull unfair civil";
+var mnemonic = "egg moment drop start mean misery face despair blade embark feature clown";

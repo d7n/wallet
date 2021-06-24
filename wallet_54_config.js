@@ -1,1 +1,1 @@
-var mnemonic = "seed hire catalog add beef core region fish trick type jazz valley";
+var mnemonic = "fog trophy limb left begin mention sorry jacket river lesson arrive story";

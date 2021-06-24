@@ -1,1 +1,1 @@
-var mnemonic = "special hobby pond right ball rate arctic glue bronze custom display mask";
+var mnemonic = "ethics modify tenant force toilet silly order service soap swap unusual ostrich";

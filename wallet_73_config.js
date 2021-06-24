@@ -1,1 +1,1 @@
-var mnemonic = "oval fold essay trip runway vessel vehicle dinner rather tide burden riot";
+var mnemonic = "gown moon bacon hunt click interest liar swift protect neutral jacket lock";

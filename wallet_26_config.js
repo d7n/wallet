@@ -1,1 +1,1 @@
-var mnemonic = "volcano theory print swift pitch enrich night stone tilt output smile monitor";
+var mnemonic = "spot vibrant film forest syrup remind cage try kiss tiny crime achieve";

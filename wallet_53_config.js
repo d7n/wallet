@@ -1,1 +1,1 @@
-var mnemonic = "foot napkin luxury idea quality trophy can coconut ski already entry oyster";
+var mnemonic = "guard color sadness neck firm maid join another struggle crane deputy soft";

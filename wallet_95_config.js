@@ -1,1 +1,1 @@
-var mnemonic = "fabric habit nasty baby feed elder guilt unfold stadium pave ahead cat";
+var mnemonic = "spawn monkey rigid van liquid enable brush stumble actual ecology brick amateur";

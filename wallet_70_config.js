@@ -1,1 +1,1 @@
-var mnemonic = "fly puppy tuition voice two device special labor fish during little monitor";
+var mnemonic = "audit fold robot alley equip shiver portion balcony stadium hill truck corn";

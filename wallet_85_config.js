@@ -1,1 +1,1 @@
-var mnemonic = "poet clay intact health furnace rival buzz deal include heavy heart coyote";
+var mnemonic = "position ramp true comfort salmon gate high cook income attend wife fury";

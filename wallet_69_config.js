@@ -1,1 +1,1 @@
-var mnemonic = "polar grain robot cluster lab toilet gesture soccer when educate wrestle off";
+var mnemonic = "mercy window noodle fancy embrace leopard inch foster spray grant bunker turtle";

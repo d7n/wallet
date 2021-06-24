@@ -1,1 +1,1 @@
-var mnemonic = "step witness glare ski drift hill already vibrant exhaust noodle airport tiger";
+var mnemonic = "parade luxury start mean young dove claw stove shoe candy tag jaguar";

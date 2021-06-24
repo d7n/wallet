@@ -1,1 +1,1 @@
-var mnemonic = "wagon sad finish unlock machine grief pause denial over width clog diet";
+var mnemonic = "open leisure twin quit surge industry upgrade screen invest fitness wrap explain";

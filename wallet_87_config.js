@@ -1,1 +1,1 @@
-var mnemonic = "stove amateur decade update shaft learn picture wrong crater explain arch peasant";
+var mnemonic = "blast heart abuse trap gloom mango age tribe melody slide comic gravity";

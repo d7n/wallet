@@ -1,1 +1,1 @@
-var mnemonic = "umbrella segment sight brave borrow observe merge delay admit hotel common suggest";
+var mnemonic = "recipe manage will trial evil mail where close banner elite attack pencil";

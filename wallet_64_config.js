@@ -1,1 +1,1 @@
-var mnemonic = "twenty give quality response misery aunt crouch silly room fine nose mobile";
+var mnemonic = "brick charge slogan decrease protect erase infant vague poverty frown rural popular";

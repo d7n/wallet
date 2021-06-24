@@ -1,1 +1,1 @@
-var mnemonic = "alarm account choose route spice weather ignore muffin again focus profit afraid";
+var mnemonic = "note fatigue obtain pumpkin convince sample draw talent opera release they never";

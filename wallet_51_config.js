@@ -1,1 +1,1 @@
-var mnemonic = "manual abandon mango sentence panel foot wet tent bone right shiver rubber";
+var mnemonic = "noble awesome gift kingdom mansion onion donate walnut coconut tuition great february";

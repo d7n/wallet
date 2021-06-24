@@ -1,1 +1,1 @@
-var mnemonic = "question come elite vibrant retire dutch wreck evolve rail taste garment van";
+var mnemonic = "illness buzz congress betray glow absent survey recall chat bargain resist joy";

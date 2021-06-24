@@ -1,1 +1,1 @@
-var mnemonic = "merit track perfect park million benefit bitter pitch buddy toast wet lab";
+var mnemonic = "warrior torch wagon stove just change gaze moral bunker attack draw end";

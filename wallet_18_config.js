@@ -1,1 +1,1 @@
-var mnemonic = "craft fox desk decline float silent museum chronic shed smoke cup equal";
+var mnemonic = "february express chimney awkward possible dizzy donkey air bomb trust absorb message";

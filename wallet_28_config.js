@@ -1,1 +1,1 @@
-var mnemonic = "strategy receive orient bronze alone outside begin visa put antenna dumb annual";
+var mnemonic = "record verify theory speak exhaust fog throw palm level menu visit acquire";

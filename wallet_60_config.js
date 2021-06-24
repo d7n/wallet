@@ -1,1 +1,1 @@
-var mnemonic = "blue beach excite juice pause merry idle hybrid beef slim shield regular";
+var mnemonic = "drill alcohol broccoli auction dwarf tissue seminar uncover myself best napkin remember";

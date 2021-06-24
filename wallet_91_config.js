@@ -1,1 +1,1 @@
-var mnemonic = "topple grocery picnic kind hood cattle pyramid orange sing recycle right salt";
+var mnemonic = "small favorite mango produce axis vintage about cattle column hockey finger engine";

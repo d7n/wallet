@@ -1,1 +1,1 @@
-var mnemonic = "powder tell uncover avocado around carry pizza play inherit waste idea what";
+var mnemonic = "donor brother false awkward table long mirror loop december craft hold indicate";

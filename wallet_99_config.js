@@ -1,1 +1,1 @@
-var mnemonic = "left orient radar hundred shove review toss exotic three salmon wage icon";
+var mnemonic = "armed puppy initial disease service news mother flash help radio edge pause";

@@ -1,1 +1,1 @@
-var mnemonic = "ill prefer yellow nerve enjoy wrist adult vote argue rely clown harsh";
+var mnemonic = "sick loop tiny celery piece clean speak road need play ticket enough";

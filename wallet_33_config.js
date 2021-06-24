@@ -1,1 +1,1 @@
-var mnemonic = "yard spread inside bubble huge gorilla raw thank eternal barrel output bulk";
+var mnemonic = "fish doll project slender drill link penalty forget very amateur crush move";

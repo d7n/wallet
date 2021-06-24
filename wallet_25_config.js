@@ -1,1 +1,1 @@
-var mnemonic = "diet dinosaur surge arctic invest reduce century profit exchange scene lumber slab";
+var mnemonic = "loud hawk copper snake narrow erode surface bamboo urban sock tumble staff";

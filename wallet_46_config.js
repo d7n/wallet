@@ -1,1 +1,1 @@
-var mnemonic = "kid erode salt build thumb mimic erase base order flash hair glory";
+var mnemonic = "acid input fluid update acoustic lobster analyst space live isolate collect rib";

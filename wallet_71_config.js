@@ -1,1 +1,1 @@
-var mnemonic = "reform kangaroo seminar vague silver purchase crater cube skin giggle laundry width";
+var mnemonic = "step clown treat sword venture spirit avocado fetch shop awesome foster pistol";

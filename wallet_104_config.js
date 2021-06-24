@@ -1,1 +1,1 @@
-var mnemonic = "toy grit work consider february brush card city minor balcony vital method";
+var mnemonic = "fetch shuffle fortune neglect guard used slam speak claim field tennis when";

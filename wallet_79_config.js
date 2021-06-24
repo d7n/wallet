@@ -1,1 +1,1 @@
-var mnemonic = "liar peasant travel vocal pioneer vault erode nominee eight direct zoo farm";
+var mnemonic = "roast wheat claw bright soccer rare seat art place moment relief defense";

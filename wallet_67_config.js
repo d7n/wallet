@@ -1,1 +1,1 @@
-var mnemonic = "nut naive legend dream make expand announce deal game face educate corn";
+var mnemonic = "gossip clump industry jazz diet urge wood hope place network siren more";

@@ -1,1 +1,1 @@
-var mnemonic = "immense foam common acoustic round thumb voyage allow heavy penalty chair surround";
+var mnemonic = "suit renew glare cherry punch brand clutch reason idea next reform kit";

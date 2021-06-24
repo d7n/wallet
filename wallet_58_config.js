@@ -1,1 +1,1 @@
-var mnemonic = "select trophy screen glue knife job hire machine fashion creek poem game";
+var mnemonic = "letter you fox sock lend that during unable scout want harsh initial";

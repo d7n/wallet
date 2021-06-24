@@ -1,1 +1,1 @@
-var mnemonic = "stick diamond advance defy rigid detail whip frown apple vacant oxygen lava";
+var mnemonic = "egg gesture income elbow industry swarm grace develop gap payment hamster general";

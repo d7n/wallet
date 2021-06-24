@@ -1,1 +1,1 @@
-var mnemonic = "caught behave cabbage connect evidence endorse stool crime blade unfair abandon elevator";
+var mnemonic = "casual spot sunset first trigger mobile dress grit much biology horn leisure";

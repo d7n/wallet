@@ -1,1 +1,1 @@
-var mnemonic = "cousin average couch arch virus man salt fatigue fossil turkey foster man";
+var mnemonic = "always enroll mesh enhance avocado garlic recycle cross soap mimic kite security";

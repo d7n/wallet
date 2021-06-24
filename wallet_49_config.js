@@ -1,1 +1,1 @@
-var mnemonic = "game child monkey fence point step clean enrich flash spin chimney visa";
+var mnemonic = "mammal priority payment route math interest maximum click link dune kit wheat";

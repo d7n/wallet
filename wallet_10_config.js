@@ -1,1 +1,1 @@
-var mnemonic = "witness moment increase grunt attack rookie chronic awesome area wave cloth brick";
+var mnemonic = "know cannon tide below lawsuit blame siege again vintage ankle heart cushion";

@@ -1,1 +1,1 @@
-var mnemonic = "popular airport fancy sheriff exact material banner inner day twenty barrel analyst";
+var mnemonic = "recall twice chalk offer fault similar trust million client maple stove swap";

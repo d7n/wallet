@@ -1,1 +1,1 @@
-var mnemonic = "romance list ripple link direct cancel sting become chaos rigid fringe spike";
+var mnemonic = "border pledge merge exact staff host aisle relax section elegant minute kangaroo";

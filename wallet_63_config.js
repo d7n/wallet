@@ -1,1 +1,1 @@
-var mnemonic = "nephew acquire salon only car ask awesome close key name flower casual";
+var mnemonic = "envelope record venue brief ball hybrid between butter help actress cry flame";

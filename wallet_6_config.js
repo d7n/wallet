@@ -1,1 +1,1 @@
-var mnemonic = "steak tattoo mesh radar fold market cement response faculty cabin salt october";
+var mnemonic = "camp hen canyon pyramid ordinary gold settle tired lumber doctor door magnet";

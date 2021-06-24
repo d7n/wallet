@@ -1,1 +1,1 @@
-var mnemonic = "cloud saddle deputy laugh deer month affair erosion empower festival giraffe tuition";
+var mnemonic = "flock ticket dentist aware talent brave style paddle nest virtual remember dilemma";

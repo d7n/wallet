@@ -1,1 +1,1 @@
-var mnemonic = "pass hood exist know wrestle edge breeze patient forest car sure warrior";
+var mnemonic = "mirror assume false grunt rib adapt warm throw inherit man mother mechanic";

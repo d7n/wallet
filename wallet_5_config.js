@@ -1,1 +1,1 @@
-var mnemonic = "express visual online make loop chapter peasant goose rhythm limb size habit";
+var mnemonic = "fortune height dress usual rate course include camp yard rather lyrics abuse";

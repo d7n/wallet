@@ -1,1 +1,1 @@
-var mnemonic = "danger float vivid edge march bus hello scare gate fashion giraffe spare";
+var mnemonic = "canal welcome morning beauty boat begin oak athlete gain income feature panel";

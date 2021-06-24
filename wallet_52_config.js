@@ -1,1 +1,1 @@
-var mnemonic = "absent hobby giraffe state edge trumpet melody science solid donate auction hazard";
+var mnemonic = "swear cool resource goat shield life connect whale north matter usual into";

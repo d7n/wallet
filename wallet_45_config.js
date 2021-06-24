@@ -1,1 +1,1 @@
-var mnemonic = "raise wing laundry ten muffin slice reward drum useful husband raise expire";
+var mnemonic = "skill network salt pizza derive myth hockey gym size banner sail harvest";
