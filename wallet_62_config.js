@@ -1,1 +1,1 @@
-var mnemonic = "gain omit outer boy device afraid hire dish sorry segment rice gold";
+var mnemonic = "clever decline refuse slender wink slice recall state area orchard member help";

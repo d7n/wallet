@@ -1,1 +1,1 @@
-var mnemonic = "talk define charge autumn course tag zebra afraid process repeat debate mutual";
+var mnemonic = "daughter interest slide nerve ladder royal still outside sail remember reduce spice";

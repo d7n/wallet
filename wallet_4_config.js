@@ -1,1 +1,1 @@
-var mnemonic = "nose inject fragile ramp tide match south corn blush medal flip choice";
+var mnemonic = "range ethics enjoy spice snap tobacco outside runway ship kit object punch";

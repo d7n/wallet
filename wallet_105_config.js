@@ -1,1 +1,1 @@
-var mnemonic = "ugly conduct solve finish arena chunk grace hybrid orchard pulp squirrel desert";
+var mnemonic = "isolate satoshi victory expire carpet chaos wage bread edit web view sketch";

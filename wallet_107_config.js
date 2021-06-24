@@ -1,1 +1,1 @@
-var mnemonic = "girl during congress legal consider north invest roast twist asthma style gain";
+var mnemonic = "industry energy school hungry early shoot glance kiwi animal mother again ensure";

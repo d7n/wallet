@@ -1,1 +1,1 @@
-var mnemonic = "upgrade february leg shed expire oyster calm report rather cotton sight rifle";
+var mnemonic = "iron bonus find tone visual weapon artwork short exhibit sadness dune liberty";

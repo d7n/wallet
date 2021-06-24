@@ -1,1 +1,1 @@
-var mnemonic = "shadow trumpet spoil bulk birth report weasel street shoot copy rigid charge";
+var mnemonic = "movie off rebel tool tilt december juice nephew van one dolphin scene";

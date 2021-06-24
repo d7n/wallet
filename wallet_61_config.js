@@ -1,1 +1,1 @@
-var mnemonic = "chase next object rigid dress upon acid guard rubber note taxi minimum";
+var mnemonic = "inmate satoshi forward same clever metal south audit alone help warrior water";

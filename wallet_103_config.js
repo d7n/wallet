@@ -1,1 +1,1 @@
-var mnemonic = "virus prevent pulse rack among cool fragile napkin nothing swear dry moment";
+var mnemonic = "vivid cute grit apart pole hedgehog demise denial medal pioneer chase phrase";

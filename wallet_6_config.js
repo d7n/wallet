@@ -1,1 +1,1 @@
-var mnemonic = "foster response bring lazy theory abuse cruise vanish royal copper stand scorpion";
+var mnemonic = "fruit invest broccoli demand foil true dry cook street idle pizza holiday";

@@ -1,1 +1,1 @@
-var mnemonic = "ball inspire island road again cradle clog actual better business ozone return";
+var mnemonic = "ritual enact lobster math merry pupil phone couch soda dress absorb enemy";

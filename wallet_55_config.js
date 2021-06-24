@@ -1,1 +1,1 @@
-var mnemonic = "forum furnace just twist pride call wet burst save skill raise feed";
+var mnemonic = "sunny filter rescue better cradle begin error sick wolf question impulse dune";

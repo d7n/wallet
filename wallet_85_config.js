@@ -1,1 +1,1 @@
-var mnemonic = "shoulder enter life text index game badge clip mind garbage unhappy bar";
+var mnemonic = "sun move advance happy leg powder turtle boss tumble fork curtain neutral";

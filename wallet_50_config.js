@@ -1,1 +1,1 @@
-var mnemonic = "coyote funny copper know sentence drip close cart stereo decade shell unaware";
+var mnemonic = "umbrella later eight close retreat motor orange bundle fortune crazy canyon cube";

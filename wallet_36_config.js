@@ -1,1 +1,1 @@
-var mnemonic = "square area extra forward tube motor exercise zoo bring lizard announce across";
+var mnemonic = "skull expand fitness summer buffalo tower patient curious alcohol lumber scare salmon";

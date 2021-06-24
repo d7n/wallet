@@ -1,1 +1,1 @@
-var mnemonic = "warfare only essence afraid digital mutual lemon silver enter resist ankle direct";
+var mnemonic = "wool feature story pink knee south float badge ask dynamic horse bitter";

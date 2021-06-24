@@ -1,1 +1,1 @@
-var mnemonic = "bring crumble convince dynamic guide rich slow swamp zoo property explain credit";
+var mnemonic = "trim come bicycle learn soon antique quantum recipe lens argue industry nest";

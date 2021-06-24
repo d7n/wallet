@@ -1,1 +1,1 @@
-var mnemonic = "globe moment blue enough razor earth craft fortune spatial man kangaroo ordinary";
+var mnemonic = "affair coil either comic cinnamon melt must family say august flock sort";

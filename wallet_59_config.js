@@ -1,1 +1,1 @@
-var mnemonic = "audit auto flag squirrel office rubber carry blind core knife stable fan";
+var mnemonic = "unaware upper wonder debris hurry slim often valley network swarm flame bring";

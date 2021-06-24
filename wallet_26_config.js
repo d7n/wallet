@@ -1,1 +1,1 @@
-var mnemonic = "cram curtain invite gap woman million chair motion jeans trophy grid mansion";
+var mnemonic = "kit charge mule husband spawn damage uncle symptom lava stamp all survey";

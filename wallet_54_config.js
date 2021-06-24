@@ -1,1 +1,1 @@
-var mnemonic = "century bleak second resemble park shuffle access give enrich uniform bag rubber";
+var mnemonic = "curve zoo nerve water educate nose solve shoot matter grass board hint";

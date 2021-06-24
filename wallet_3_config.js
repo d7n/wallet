@@ -1,1 +1,1 @@
-var mnemonic = "cart cause quote caught simple hungry cabin hint social major pig happy";
+var mnemonic = "among develop choice juice kitchen coral verb secret story hole either learn";

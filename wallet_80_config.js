@@ -1,1 +1,1 @@
-var mnemonic = "frog adapt season good explain derive benefit ceiling deliver flush blouse push";
+var mnemonic = "own assault worth rate border service good estate hotel churn crop goddess";

@@ -1,1 +1,1 @@
-var mnemonic = "space nice hello assume celery mutual glide power dignity west kingdom balcony";
+var mnemonic = "festival around coconut word obey rib celery celery approve return demand spring";

@@ -1,1 +1,1 @@
-var mnemonic = "helmet crop tourist deal kangaroo volume lobster weather enable manual oppose update";
+var mnemonic = "barely trouble punch bullet seed near scout describe rookie evil clinic matrix";

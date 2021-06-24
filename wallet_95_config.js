@@ -1,1 +1,1 @@
-var mnemonic = "party stool unfold network egg breeze milk topple original march silent inspire";
+var mnemonic = "express visa filter robot father fancy camp soul access below upgrade pulse";

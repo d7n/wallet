@@ -1,1 +1,1 @@
-var mnemonic = "render trophy fabric auto nephew blood focus slam notable seed release crumble";
+var mnemonic = "arrest tongue senior body toss term violin matrix elbow wait already knife";

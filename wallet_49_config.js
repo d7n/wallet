@@ -1,1 +1,1 @@
-var mnemonic = "close green sustain stuff broom evil pact snow smile buddy shoot verb";
+var mnemonic = "outdoor elite allow grow oak doctor fall idea hope cream spawn yellow";

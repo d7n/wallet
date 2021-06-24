@@ -1,1 +1,1 @@
-var mnemonic = "custom basic rebuild pill leopard blast seed exile play engine athlete scheme";
+var mnemonic = "deny chief crucial jar whip grain belt farm ring symptom annual slight";

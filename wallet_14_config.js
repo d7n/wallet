@@ -1,1 +1,1 @@
-var mnemonic = "cupboard endless random alter system path imitate marble future ask toddler ethics";
+var mnemonic = "muffin idea trip twist enroll obvious roof thumb wear aspect session helmet";

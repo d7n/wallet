@@ -1,1 +1,1 @@
-var mnemonic = "swim reject spoil pepper drastic snap limit theory picnic trouble cousin vintage";
+var mnemonic = "hover infant round purse powder slush vibrant floor peanut system cheese zero";

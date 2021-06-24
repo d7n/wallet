@@ -1,1 +1,1 @@
-var mnemonic = "venture travel unable shell legal erase tuition cram fire process gun there";
+var mnemonic = "stock swamp ask kind kind exhaust sport saddle rifle wait mansion hat";

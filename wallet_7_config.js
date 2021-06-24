@@ -1,1 +1,1 @@
-var mnemonic = "blush solution isolate galaxy library daughter race gossip fever torch spray unaware";
+var mnemonic = "planet write multiply sorry tortoise excess awesome hollow arctic style bone ring";

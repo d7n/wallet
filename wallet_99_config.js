@@ -1,1 +1,1 @@
-var mnemonic = "dream capable fiscal rather game tonight employ water book gate robust view";
+var mnemonic = "orbit brain pulp abuse minimum inhale witness season cupboard garbage vicious slim";

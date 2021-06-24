@@ -1,1 +1,1 @@
-var mnemonic = "melt cross jungle cycle eyebrow pair ship script hair possible ancient choice";
+var mnemonic = "sorry sick couple lake green pipe trouble unknown round soft level snow";

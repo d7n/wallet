@@ -1,1 +1,1 @@
-var mnemonic = "umbrella blouse disagree bomb wagon brass slight elbow shell vehicle connect message";
+var mnemonic = "tragic leaf inherit inform height solve degree wasp appear stumble victory tell";

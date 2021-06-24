@@ -1,1 +1,1 @@
-var mnemonic = "forward question bracket cotton sea razor decorate clinic myself limit athlete drop";
+var mnemonic = "accident trash duck aspect produce end yellow market fiber example flame various";

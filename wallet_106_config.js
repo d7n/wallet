@@ -1,1 +1,1 @@
-var mnemonic = "fever half sudden more raise hungry scatter super license execute bird turtle";
+var mnemonic = "route spin entire card brand fortune citizen brand scout acoustic chase door";

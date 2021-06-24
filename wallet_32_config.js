@@ -1,1 +1,1 @@
-var mnemonic = "cup ocean vote task prepare toddler point bid begin creek soul patrol";
+var mnemonic = "option very client like tenant attack opera turn bench lawsuit robust middle";

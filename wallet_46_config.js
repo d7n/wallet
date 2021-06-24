@@ -1,1 +1,1 @@
-var mnemonic = "wheat thumb height start magnet loud scene extend quick distance meadow suit";
+var mnemonic = "economy require disease guess light orange apple horn tell spatial fiber begin";

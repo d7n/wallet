@@ -1,1 +1,1 @@
-var mnemonic = "grass add tunnel early miracle easy engage torch thumb avoid robot close";
+var mnemonic = "runway frog seed benefit pony honey claim brick visual more sweet chunk";

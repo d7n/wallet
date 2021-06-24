@@ -1,1 +1,1 @@
-var mnemonic = "drama foot wheat settle choice case just kangaroo weapon subject kick trend";
+var mnemonic = "review number company other chef grass below pottery behave elbow degree wasp";

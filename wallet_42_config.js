@@ -1,1 +1,1 @@
-var mnemonic = "find force spawn top audit narrow drop velvet famous bunker because belt";
+var mnemonic = "wrong super apple size fashion budget flag provide sad seat toy card";

@@ -1,1 +1,1 @@
-var mnemonic = "space crash company spoon girl wage base under letter slow detect rude";
+var mnemonic = "crunch peasant under vacant tourist regret clog human siren save city torch";

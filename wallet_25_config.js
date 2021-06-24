@@ -1,1 +1,1 @@
-var mnemonic = "little alarm organ merry polar become move flavor scout zero benefit valve";
+var mnemonic = "motor crater indicate spawn hollow chicken digital please critic fancy blade series";

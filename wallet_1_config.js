@@ -1,1 +1,1 @@
-var mnemonic = "unknown valid chimney assist front dry gun visa regret issue cousin system";
+var mnemonic = "argue tip funny cute witness aunt bench dizzy robot toe basic hobby";

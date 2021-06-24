@@ -1,1 +1,1 @@
-var mnemonic = "blind rice ticket nasty sort more shove phone fork drastic expose trade";
+var mnemonic = "stuff pony humor lunch vote advice sail success learn swing income expect";

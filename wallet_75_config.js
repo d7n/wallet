@@ -1,1 +1,1 @@
-var mnemonic = "beef inner nominee body planet loyal stairs cash festival atom canal account";
+var mnemonic = "present ski gospel voyage target atom tissue fortune pumpkin punch assist dress";

@@ -1,1 +1,1 @@
-var mnemonic = "easy daring clip latin define rubber twist unit praise suggest abstract rally";
+var mnemonic = "approve evil off since filter border minor brisk ginger ensure recycle source";

@@ -1,1 +1,1 @@
-var mnemonic = "list slice mandate ketchup depart army object dose harsh neck bean wonder";
+var mnemonic = "electric result text aim corn holiday dish dolphin bulk cave flag awkward";

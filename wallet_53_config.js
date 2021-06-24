@@ -1,1 +1,1 @@
-var mnemonic = "capital people genius escape lawsuit almost poverty economy insane roast banana funny";
+var mnemonic = "buddy actor sail coffee crystal sense alley note biology match eye vault";

@@ -1,1 +1,1 @@
-var mnemonic = "immense plate nest dune lucky work drama situate hungry alter busy put";
+var mnemonic = "card kitten suspect common palm furnace symbol system expect head inspire fiction";

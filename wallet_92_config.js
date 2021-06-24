@@ -1,1 +1,1 @@
-var mnemonic = "behave slender custom amount alley latin lyrics veteran success rain tide magic";
+var mnemonic = "mammal fantasy evolve another end ramp above crowd quit pink hazard tower";

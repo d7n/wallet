@@ -1,1 +1,1 @@
-var mnemonic = "assault attract party square accident envelope market outside warfare gospel layer chuckle";
+var mnemonic = "hockey follow magnet fork later tornado slush protect draw exact simple minimum";

@@ -1,1 +1,1 @@
-var mnemonic = "talent vicious unusual fossil chuckle quality cheese doctor execute antique picnic range";
+var mnemonic = "toward bacon ugly dream unveil pencil mechanic friend one elder burger jewel";

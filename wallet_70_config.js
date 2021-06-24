@@ -1,1 +1,1 @@
-var mnemonic = "medal list sign anchor forget law cattle unfair hole analyst elbow grid";
+var mnemonic = "arrest borrow brown bike supply cabin weapon season kiwi awful source inmate";

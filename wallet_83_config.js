@@ -1,1 +1,1 @@
-var mnemonic = "check sudden window approve juice double avoid upon high extend noodle post";
+var mnemonic = "slow usage peanut exotic result alpha fade draft rubber grow surge key";

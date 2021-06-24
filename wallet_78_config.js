@@ -1,1 +1,1 @@
-var mnemonic = "solar book silent world merge piano lawsuit below harsh brown hurry rice";
+var mnemonic = "phone thrive drink furnace travel fall tooth federal prosper outer smooth nephew";

@@ -1,1 +1,1 @@
-var mnemonic = "carry silly marriage cage three dynamic field farm super venture squeeze snake";
+var mnemonic = "cart medal connect ecology hood ceiling funny torch later shine afford crew";

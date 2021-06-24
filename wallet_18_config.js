@@ -1,1 +1,1 @@
-var mnemonic = "much drift suspect merge knock phone nose tongue steel genre dilemma half";
+var mnemonic = "regret victory foster awesome page crawl day feel basket drink tree fence";

@@ -1,1 +1,1 @@
-var mnemonic = "actual drop arrow donkey antique keen bench ramp size manage tragic nut";
+var mnemonic = "burst movie glad cattle surface young promote remember true noble brown bird";

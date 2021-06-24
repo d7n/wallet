@@ -1,1 +1,1 @@
-var mnemonic = "away man tornado adult ranch setup fault panda naive negative crystal child";
+var mnemonic = "collect still bag guitar craft pioneer subway animal game wing split put";

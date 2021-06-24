@@ -1,1 +1,1 @@
-var mnemonic = "grunt vibrant chronic salute hawk gadget course hill borrow nuclear panda goddess";
+var mnemonic = "response buyer intact merit antique since race surge tennis shy journey scan";

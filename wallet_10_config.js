@@ -1,1 +1,1 @@
-var mnemonic = "join surface profit miss shell help twenty custom face night crane version";
+var mnemonic = "salt soda rack valve sunset under second giraffe index inflict sausage treat";

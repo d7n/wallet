@@ -1,1 +1,1 @@
-var mnemonic = "crumble body blanket iron jaguar just spider rose nut bullet attack water";
+var mnemonic = "rather later barrel poet beauty speed whip clinic image omit mango bargain";

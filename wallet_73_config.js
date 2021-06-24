@@ -1,1 +1,1 @@
-var mnemonic = "false initial brave spice nature ocean ski hungry ketchup cross emotion mesh";
+var mnemonic = "thank shed casual drill vacuum clinic theory lawsuit napkin involve library shadow";

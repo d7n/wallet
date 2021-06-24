@@ -1,1 +1,1 @@
-var mnemonic = "dress buffalo maximum drive piece stove describe joy mixture hundred figure green";
+var mnemonic = "nature calm main stool priority scissors young gown proud afford govern prison";

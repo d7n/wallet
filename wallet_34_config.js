@@ -1,1 +1,1 @@
-var mnemonic = "castle asthma settle accident someone print else column index trigger solar obscure";
+var mnemonic = "conduct slush height please fire control wife indoor siege luxury movie mansion";

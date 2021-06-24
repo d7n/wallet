@@ -1,1 +1,1 @@
-var mnemonic = "sniff habit riot border forward choice cousin pattern pudding income maid grow";
+var mnemonic = "october embrace drift already violin unit lazy priority wire prefer lonely spoon";

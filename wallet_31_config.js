@@ -1,1 +1,1 @@
-var mnemonic = "mask live humor correct van jelly marriage original leaf need response figure";
+var mnemonic = "actual exit pattern fatigue swallow school thumb crunch ask innocent minor stable";

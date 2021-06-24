@@ -1,1 +1,1 @@
-var mnemonic = "scan rabbit radio domain coyote link tomorrow artist angry gesture please subway";
+var mnemonic = "glove demise seven number paper drift away focus beyond game crash deputy";

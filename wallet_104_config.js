@@ -1,1 +1,1 @@
-var mnemonic = "tag wasp language program just chest jungle moment season permit cream tower";
+var mnemonic = "mimic exchange denial skill junior hover alert destroy bridge thrive horn oppose";

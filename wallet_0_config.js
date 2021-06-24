@@ -1,1 +1,1 @@
-var mnemonic = "adjust biology lady boy hood pipe diet almost lake dish car pond";
+var mnemonic = "token quantum toy token medal end ask arrive laundry feature erase output";

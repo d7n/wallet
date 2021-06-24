@@ -1,1 +1,1 @@
-var mnemonic = "road mansion robot dynamic horror betray world quantum party scan nation flip";
+var mnemonic = "chef deposit clinic myth coast energy chase owner source drama fit click";

@@ -1,1 +1,1 @@
-var mnemonic = "icon churn bar average topic oak city canyon final test divert under";
+var mnemonic = "round canal grit kidney reject mention recycle segment speed nurse practice approve";

@@ -1,1 +1,1 @@
-var mnemonic = "cloth legend river armed weather derive bonus apology isolate quit type tape";
+var mnemonic = "wolf lamp afford market unknown cabbage depart swarm modify problem choice heavy";

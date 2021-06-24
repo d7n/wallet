@@ -1,1 +1,1 @@
-var mnemonic = "matrix swarm lava upset squirrel improve chapter lawn inform trim egg delay";
+var mnemonic = "crowd frozen ordinary supply sample impulse treat camp antenna slender found antenna";

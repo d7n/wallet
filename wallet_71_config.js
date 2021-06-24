@@ -1,1 +1,1 @@
-var mnemonic = "day mammal web crumble kit black pink simple involve ranch plastic fine";
+var mnemonic = "nuclear scene brick select entire tail dilemma drill amused pottery mother brick";

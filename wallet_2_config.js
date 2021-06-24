@@ -1,1 +1,1 @@
-var mnemonic = "window boss accident cruise grant casual leisure party acoustic fancy rain reason";
+var mnemonic = "fault addict flag project hero correct local marine address grocery choose end";

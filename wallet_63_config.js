@@ -1,1 +1,1 @@
-var mnemonic = "bottom web term host identify steel fork episode budget struggle retire desert";
+var mnemonic = "slam goose pioneer advance van truck undo match faculty light tortoise tilt";

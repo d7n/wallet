@@ -1,1 +1,1 @@
-var mnemonic = "outdoor bar shift blame bench sock limb chaos winter robust indoor biology";
+var mnemonic = "feature mandate message purchase endorse frame that staff loud item stone board";

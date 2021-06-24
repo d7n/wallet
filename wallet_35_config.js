@@ -1,1 +1,1 @@
-var mnemonic = "typical detail million aspect limit cross jaguar wish heavy random black flight";
+var mnemonic = "virtual solid muscle void giraffe drill note try drip someone arrange taste";

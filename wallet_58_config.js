@@ -1,1 +1,1 @@
-var mnemonic = "gloom salt average ocean ignore coffee merit sure frame emotion vapor file";
+var mnemonic = "goose vendor hat moment lottery twice cake give disease label skull slice";

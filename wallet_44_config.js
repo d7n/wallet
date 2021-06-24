@@ -1,1 +1,1 @@
-var mnemonic = "rate tent announce zoo sting alpha industry blast rate small chronic there";
+var mnemonic = "student level deny burger trust horn tiny trust taxi engage vessel soul";

@@ -1,1 +1,1 @@
-var mnemonic = "viable casino lemon glove letter brick wire fan thank funny size gas";
+var mnemonic = "jeans pretty girl spend repair buyer purity beach close circle twenty seat";

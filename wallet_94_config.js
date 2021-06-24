@@ -1,1 +1,1 @@
-var mnemonic = "betray author hole welcome panther acoustic arch flat lunch split runway when";
+var mnemonic = "note copy girl tag decide flavor warrior crush magic predict pottery spider";

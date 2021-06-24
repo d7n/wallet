@@ -1,1 +1,1 @@
-var mnemonic = "used shine series eager fix famous alert kite casual taste girl salad";
+var mnemonic = "pelican gloom fly mom august cube coconut evidence illness symbol satisfy follow";

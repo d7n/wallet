@@ -1,1 +1,1 @@
-var mnemonic = "start pumpkin bench until moon pass beach bunker quarter dial sword heart";
+var mnemonic = "tomato round east emerge second magic can story window velvet window brand";

@@ -1,1 +1,1 @@
-var mnemonic = "example battle nominee airport minute disorder artist common all dove tourist donkey";
+var mnemonic = "now maid once outer dinner admit mass virus possible divorce cricket tooth";

@@ -1,1 +1,1 @@
-var mnemonic = "any stock curious original immense fitness cousin crime view limb enough illness";
+var mnemonic = "ring alert air canyon vast day equal income motor girl parent stamp";

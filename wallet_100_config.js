@@ -1,1 +1,1 @@
-var mnemonic = "need razor option grace battle next medal priority cotton copy turtle hope";
+var mnemonic = "fatal weekend material shine dial tail range install holiday cash olympic thunder";
