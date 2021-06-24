@@ -1,1 +1,1 @@
-var mnemonic = "pioneer trim wealth student tackle call survey symptom disorder rebuild snake umbrella";
+var mnemonic = "coyote funny copper know sentence drip close cart stereo decade shell unaware";

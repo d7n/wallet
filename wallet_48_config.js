@@ -1,1 +1,1 @@
-var mnemonic = "dose riot bind pudding recall save moral they voyage planet ivory puzzle";
+var mnemonic = "away man tornado adult ranch setup fault panda naive negative crystal child";

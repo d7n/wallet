@@ -1,1 +1,1 @@
-var mnemonic = "upgrade salt predict open behave program cube father speak satoshi surround robust";
+var mnemonic = "helmet crop tourist deal kangaroo volume lobster weather enable manual oppose update";

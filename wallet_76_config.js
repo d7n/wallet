@@ -1,1 +1,1 @@
-var mnemonic = "canvas crop depend skull average result hungry hunt season fluid furnace shrimp";
+var mnemonic = "drama foot wheat settle choice case just kangaroo weapon subject kick trend";

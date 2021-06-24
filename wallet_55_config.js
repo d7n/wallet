@@ -1,1 +1,1 @@
-var mnemonic = "arrow cargo book giant fix impact tortoise spice surprise attack stool woman";
+var mnemonic = "forum furnace just twist pride call wet burst save skill raise feed";

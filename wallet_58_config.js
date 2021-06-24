@@ -1,1 +1,1 @@
-var mnemonic = "crush absent salt elder evolve train price brick steel city athlete spawn";
+var mnemonic = "gloom salt average ocean ignore coffee merit sure frame emotion vapor file";

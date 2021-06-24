@@ -1,1 +1,1 @@
-var mnemonic = "club post key quality give pelican year pet winter nature math baby";
+var mnemonic = "dress buffalo maximum drive piece stove describe joy mixture hundred figure green";

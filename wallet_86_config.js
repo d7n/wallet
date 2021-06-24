@@ -1,1 +1,1 @@
-var mnemonic = "sudden damage sentence consider depart again wet border crawl under toy august";
+var mnemonic = "bring crumble convince dynamic guide rich slow swamp zoo property explain credit";

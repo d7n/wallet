@@ -1,1 +1,1 @@
-var mnemonic = "calm rug polar industry decade quote hamster buddy pumpkin sponsor fence pulp";
+var mnemonic = "easy daring clip latin define rubber twist unit praise suggest abstract rally";

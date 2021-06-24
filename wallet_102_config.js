@@ -1,1 +1,1 @@
-var mnemonic = "space unit avocado sort relief decorate silver inject exercise dizzy margin topic";
+var mnemonic = "talk define charge autumn course tag zebra afraid process repeat debate mutual";

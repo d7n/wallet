@@ -1,1 +1,1 @@
-var mnemonic = "enemy mention sort lift output what federal engage cinnamon category broken garbage";
+var mnemonic = "join surface profit miss shell help twenty custom face night crane version";

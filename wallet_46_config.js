@@ -1,1 +1,1 @@
-var mnemonic = "gain champion concert turtle that marble crew window ketchup obvious often tourist";
+var mnemonic = "wheat thumb height start magnet loud scene extend quick distance meadow suit";

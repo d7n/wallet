@@ -1,1 +1,1 @@
-var mnemonic = "antique notable address vote detail spring occur skill carbon enact place vibrant";
+var mnemonic = "girl during congress legal consider north invest roast twist asthma style gain";

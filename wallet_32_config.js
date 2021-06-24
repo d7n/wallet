@@ -1,1 +1,1 @@
-var mnemonic = "false rack announce vehicle enlist mouse fury pledge skirt fitness crisp oak";
+var mnemonic = "cup ocean vote task prepare toddler point bid begin creek soul patrol";

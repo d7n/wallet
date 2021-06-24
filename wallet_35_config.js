@@ -1,1 +1,1 @@
-var mnemonic = "water run brave source use orient lonely author plug success slogan spoon";
+var mnemonic = "typical detail million aspect limit cross jaguar wish heavy random black flight";

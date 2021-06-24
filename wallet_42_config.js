@@ -1,1 +1,1 @@
-var mnemonic = "trigger behave organ plastic glow beef glimpse penalty peanut camp sister symbol";
+var mnemonic = "find force spawn top audit narrow drop velvet famous bunker because belt";

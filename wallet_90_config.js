@@ -1,1 +1,1 @@
-var mnemonic = "verify evoke shoe inform parent ecology critic outside crash sound segment grace";
+var mnemonic = "any stock curious original immense fitness cousin crime view limb enough illness";

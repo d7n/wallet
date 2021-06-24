@@ -1,1 +1,1 @@
-var mnemonic = "office panic grant cart defy joke argue replace inquiry stumble grape fork";
+var mnemonic = "viable casino lemon glove letter brick wire fan thank funny size gas";

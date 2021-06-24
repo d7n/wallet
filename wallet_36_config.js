@@ -1,1 +1,1 @@
-var mnemonic = "lonely boss quiz inner electric orange pact join peanut stumble mask below";
+var mnemonic = "square area extra forward tube motor exercise zoo bring lizard announce across";

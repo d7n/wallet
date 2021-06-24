@@ -1,1 +1,1 @@
-var mnemonic = "thrive ostrich exhibit nerve bag gas layer chef clog green symptom capital";
+var mnemonic = "cart cause quote caught simple hungry cabin hint social major pig happy";

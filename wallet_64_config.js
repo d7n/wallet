@@ -1,1 +1,1 @@
-var mnemonic = "used siege atom tube decrease burger just observe comic ozone mutual ten";
+var mnemonic = "road mansion robot dynamic horror betray world quantum party scan nation flip";

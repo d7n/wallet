@@ -1,1 +1,1 @@
-var mnemonic = "solve health stairs never place enforce airport rib drip chapter wagon that";
+var mnemonic = "beef inner nominee body planet loyal stairs cash festival atom canal account";

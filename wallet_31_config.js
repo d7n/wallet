@@ -1,1 +1,1 @@
-var mnemonic = "rookie birth concert profit reject assume crowd bicycle picture jeans base muffin";
+var mnemonic = "mask live humor correct van jelly marriage original leaf need response figure";

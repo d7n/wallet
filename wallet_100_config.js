@@ -1,1 +1,1 @@
-var mnemonic = "cost silent dynamic brass royal cause depend list powder mad capital scan";
+var mnemonic = "need razor option grace battle next medal priority cotton copy turtle hope";

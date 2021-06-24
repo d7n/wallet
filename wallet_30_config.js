@@ -1,1 +1,1 @@
-var mnemonic = "success rude hood action state fiction fragile universe silver purity lamp junk";
+var mnemonic = "blind rice ticket nasty sort more shove phone fork drastic expose trade";

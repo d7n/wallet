@@ -1,1 +1,1 @@
-var mnemonic = "electric used naive tent upgrade depart scout mule dynamic oil foam heart";
+var mnemonic = "fever half sudden more raise hungry scatter super license execute bird turtle";

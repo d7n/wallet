@@ -1,1 +1,1 @@
-var mnemonic = "coffee clever universe track fog denial recipe radar afford quantum dad acid";
+var mnemonic = "scan rabbit radio domain coyote link tomorrow artist angry gesture please subway";

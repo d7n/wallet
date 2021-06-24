@@ -1,1 +1,1 @@
-var mnemonic = "expire session fox brief cloth choose usage faculty dolphin digital add exercise";
+var mnemonic = "false initial brave spice nature ocean ski hungry ketchup cross emotion mesh";

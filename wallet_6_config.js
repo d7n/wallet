@@ -1,1 +1,1 @@
-var mnemonic = "unit senior network time select million trigger bacon galaxy tomato toss same";
+var mnemonic = "foster response bring lazy theory abuse cruise vanish royal copper stand scorpion";

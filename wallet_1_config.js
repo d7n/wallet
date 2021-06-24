@@ -1,1 +1,1 @@
-var mnemonic = "silk again water yard peace inside stick observe sponsor smooth exhaust surprise";
+var mnemonic = "unknown valid chimney assist front dry gun visa regret issue cousin system";

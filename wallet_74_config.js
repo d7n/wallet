@@ -1,1 +1,1 @@
-var mnemonic = "sight head diary mandate face fall civil cheese item fiscal basic obvious";
+var mnemonic = "globe moment blue enough razor earth craft fortune spatial man kangaroo ordinary";

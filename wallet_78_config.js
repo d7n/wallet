@@ -1,1 +1,1 @@
-var mnemonic = "swim fit lottery kind celery moral bicycle neither match local step fatigue";
+var mnemonic = "solar book silent world merge piano lawsuit below harsh brown hurry rice";

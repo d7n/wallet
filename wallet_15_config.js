@@ -1,1 +1,1 @@
-var mnemonic = "ice end yellow subject sport only access cigar treat head glass furnace";
+var mnemonic = "umbrella blouse disagree bomb wagon brass slight elbow shell vehicle connect message";

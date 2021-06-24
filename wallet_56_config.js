@@ -1,1 +1,1 @@
-var mnemonic = "assist lizard oxygen divide beyond daring shock divorce what best coffee decade";
+var mnemonic = "shadow trumpet spoil bulk birth report weasel street shoot copy rigid charge";

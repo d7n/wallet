@@ -1,1 +1,1 @@
-var mnemonic = "neglect transfer segment large apart emotion rather glory double shop salute genius";
+var mnemonic = "actual drop arrow donkey antique keen bench ramp size manage tragic nut";

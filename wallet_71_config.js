@@ -1,1 +1,1 @@
-var mnemonic = "result planet plate giraffe engage monitor uncle recall purity habit okay glory";
+var mnemonic = "day mammal web crumble kit black pink simple involve ranch plastic fine";

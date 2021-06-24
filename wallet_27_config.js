@@ -1,1 +1,1 @@
-var mnemonic = "machine model egg uncle ride current spell kite zone detect finger sail";
+var mnemonic = "grunt vibrant chronic salute hawk gadget course hill borrow nuclear panda goddess";

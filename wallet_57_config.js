@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow rigid hedgehog junior sausage beach divorce produce tackle laugh produce cushion";
+var mnemonic = "ball inspire island road again cradle clog actual better business ozone return";

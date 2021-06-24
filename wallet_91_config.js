@@ -1,1 +1,1 @@
-var mnemonic = "holiday chicken ginger surge guess narrow accuse among snake script pony door";
+var mnemonic = "grocery card palace vapor gift random corn layer dinner bird debris quick";

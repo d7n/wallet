@@ -1,1 +1,1 @@
-var mnemonic = "lottery magic frown expire bind affair witness average ribbon pink joke cable";
+var mnemonic = "cloth legend river armed weather derive bonus apology isolate quit type tape";

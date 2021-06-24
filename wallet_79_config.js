@@ -1,1 +1,1 @@
-var mnemonic = "endorse lunch amateur stumble flip ridge strike domain tree machine purchase define";
+var mnemonic = "sniff habit riot border forward choice cousin pattern pudding income maid grow";

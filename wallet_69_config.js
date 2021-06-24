@@ -1,1 +1,1 @@
-var mnemonic = "floor caught bounce whip position night crime scrub dentist vapor brick twenty";
+var mnemonic = "animal light carbon retreat table vague satoshi reveal beyond give upset abandon";

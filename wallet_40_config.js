@@ -1,1 +1,1 @@
-var mnemonic = "steak stadium citizen oak jeans rose purpose truck note treat web dream";
+var mnemonic = "swim reject spoil pepper drastic snap limit theory picnic trouble cousin vintage";

@@ -1,1 +1,1 @@
-var mnemonic = "detect sudden flash build bridge orange cereal deny embark rural away again";
+var mnemonic = "carry silly marriage cage three dynamic field farm super venture squeeze snake";

@@ -1,1 +1,1 @@
-var mnemonic = "identify leopard frame phone any false ladder panic wash lunar industry chaos";
+var mnemonic = "behave slender custom amount alley latin lyrics veteran success rain tide magic";

@@ -1,1 +1,1 @@
-var mnemonic = "dolphin decrease mercy airport elephant sad similar faculty filter margin erase song";
+var mnemonic = "betray author hole welcome panther acoustic arch flat lunch split runway when";

@@ -1,1 +1,1 @@
-var mnemonic = "auto ring wild satisfy tornado baby dinosaur naive like silly poet vault";
+var mnemonic = "century bleak second resemble park shuffle access give enrich uniform bag rubber";

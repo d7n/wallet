@@ -1,1 +1,1 @@
-var mnemonic = "funny deposit open globe reject distance lend brave quantum believe motor tide";
+var mnemonic = "used shine series eager fix famous alert kite casual taste girl salad";

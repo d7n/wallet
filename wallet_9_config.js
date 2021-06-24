@@ -1,1 +1,1 @@
-var mnemonic = "truth faith labor wife fluid current lonely lemon harbor curve aerobic stamp";
+var mnemonic = "example battle nominee airport minute disorder artist common all dove tourist donkey";

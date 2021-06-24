@@ -1,1 +1,1 @@
-var mnemonic = "slogan always brother present inquiry episode reject there problem couple dumb enact";
+var mnemonic = "chase next object rigid dress upon acid guard rubber note taxi minimum";

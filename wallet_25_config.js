@@ -1,1 +1,1 @@
-var mnemonic = "rhythm tumble jelly fiction child history person skate brown man town wrestle";
+var mnemonic = "little alarm organ merry polar become move flavor scout zero benefit valve";

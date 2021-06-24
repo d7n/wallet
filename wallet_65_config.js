@@ -1,1 +1,1 @@
-var mnemonic = "common vicious guide verify message adapt aisle entry banana door excite useless";
+var mnemonic = "icon churn bar average topic oak city canyon final test divert under";

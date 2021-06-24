@@ -1,1 +1,1 @@
-var mnemonic = "quality faculty click voyage stock select balcony ramp hat weekend misery echo";
+var mnemonic = "dragon insane inner defense story place mechanic rhythm keen alarm ignore bring";

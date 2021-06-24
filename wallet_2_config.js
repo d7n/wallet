@@ -1,1 +1,1 @@
-var mnemonic = "faint leave immense purpose treat bid own grit find captain green coyote";
+var mnemonic = "window boss accident cruise grant casual leisure party acoustic fancy rain reason";

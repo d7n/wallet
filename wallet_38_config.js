@@ -1,1 +1,1 @@
-var mnemonic = "spike error arrow you slogan attract close code midnight kind away submit";
+var mnemonic = "actress sponsor cruise loyal park couple destroy modify wear loop expose island";

@@ -1,1 +1,1 @@
-var mnemonic = "keen citizen original any combine nuclear neck govern choose curtain left enact";
+var mnemonic = "group crisp magnet blue pride argue weasel lyrics athlete pause force wedding";

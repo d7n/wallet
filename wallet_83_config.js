@@ -1,1 +1,1 @@
-var mnemonic = "tissue force kiss layer express leisure dizzy antenna tired occur strong room";
+var mnemonic = "check sudden window approve juice double avoid upon high extend noodle post";

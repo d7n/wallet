@@ -1,1 +1,1 @@
-var mnemonic = "area wedding sustain staff couple depend parent better chaos fade unit feel";
+var mnemonic = "nose inject fragile ramp tide match south corn blush medal flip choice";

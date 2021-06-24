@@ -1,1 +1,1 @@
-var mnemonic = "define leaf struggle adult will bind detect employ hope rate basic raven";
+var mnemonic = "tag wasp language program just chest jungle moment season permit cream tower";

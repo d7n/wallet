@@ -1,1 +1,1 @@
-var mnemonic = "trick gun hungry canal adapt mandate wood grunt glad actual winter shift";
+var mnemonic = "party stool unfold network egg breeze milk topple original march silent inspire";

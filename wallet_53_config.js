@@ -1,1 +1,1 @@
-var mnemonic = "pave trap reflect bubble winner sustain lift shine shrug film weird slam";
+var mnemonic = "capital people genius escape lawsuit almost poverty economy insane roast banana funny";

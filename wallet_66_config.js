@@ -1,1 +1,1 @@
-var mnemonic = "addict heavy arrange setup random silly october sphere combine matrix regret sorry";
+var mnemonic = "list slice mandate ketchup depart army object dose harsh neck bean wonder";

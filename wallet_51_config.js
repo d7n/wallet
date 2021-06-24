@@ -1,1 +1,1 @@
-var mnemonic = "tilt trick ensure number smile crucial arrive vicious timber turn weather call";
+var mnemonic = "warfare only essence afraid digital mutual lemon silver enter resist ankle direct";

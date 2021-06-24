@@ -1,1 +1,1 @@
-var mnemonic = "gown argue slot equal figure enter torch fix smooth choice climb easily";
+var mnemonic = "sorry helmet cheese solve warm panel mail enforce salon patient valid mule";

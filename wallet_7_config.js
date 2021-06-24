@@ -1,1 +1,1 @@
-var mnemonic = "outdoor shock trouble relax assist sauce crucial whisper move south skill distance";
+var mnemonic = "blush solution isolate galaxy library daughter race gossip fever torch spray unaware";

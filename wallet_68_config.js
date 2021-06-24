@@ -1,1 +1,1 @@
-var mnemonic = "cluster urge glance mansion grocery museum walk section rally enable whale involve";
+var mnemonic = "render trophy fabric auto nephew blood focus slam notable seed release crumble";

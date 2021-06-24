@@ -1,1 +1,1 @@
-var mnemonic = "corn van great protect exile armor sadness mountain various oxygen minute error";
+var mnemonic = "grass add tunnel early miracle easy engage torch thumb avoid robot close";

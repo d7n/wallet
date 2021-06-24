@@ -1,1 +1,1 @@
-var mnemonic = "arm crop winner trouble access cram panther green first network small candy";
+var mnemonic = "rate tent announce zoo sting alpha industry blast rate small chronic there";

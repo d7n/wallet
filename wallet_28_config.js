@@ -1,1 +1,1 @@
-var mnemonic = "master dumb smart have marine cattle minute winner air ship lucky side";
+var mnemonic = "step remember slam vivid brave science faith mom cash spell shrimp face";

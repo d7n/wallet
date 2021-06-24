@@ -1,1 +1,1 @@
-var mnemonic = "century door style mail van flight village polar dragon cause address boss";
+var mnemonic = "fiction frozen shoot loyal paper caution fault pudding jar decrease rough step";

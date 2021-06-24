@@ -1,1 +1,1 @@
-var mnemonic = "gym jealous adapt icon behind move father weather chicken copper amateur ocean";
+var mnemonic = "frog adapt season good explain derive benefit ceiling deliver flush blouse push";

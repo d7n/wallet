@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit receive plug truth animal rack viable comic thunder border someone raise";
+var mnemonic = "couch best harvest boost head record avocado various walk give average turkey";

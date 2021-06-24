@@ -1,1 +1,1 @@
-var mnemonic = "inhale taste social neck card supply spider stone volume age bundle into";
+var mnemonic = "bottom web term host identify steel fork episode budget struggle retire desert";

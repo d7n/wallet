@@ -1,1 +1,1 @@
-var mnemonic = "apple edge because sponsor protect favorite upset wonder crime frost uphold execute";
+var mnemonic = "immense plate nest dune lucky work drama situate hungry alter busy put";

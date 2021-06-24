@@ -1,1 +1,1 @@
-var mnemonic = "yard scorpion wait hub deal release movie panel parent solid budget mushroom";
+var mnemonic = "start pumpkin bench until moon pass beach bunker quarter dial sword heart";

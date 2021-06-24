@@ -1,1 +1,1 @@
-var mnemonic = "mind enrich interest decline okay toast dignity taste ceiling skill glare current";
+var mnemonic = "much drift suspect merge knock phone nose tongue steel genre dilemma half";

@@ -1,1 +1,1 @@
-var mnemonic = "long birth camp trade exist cattle skate spy provide faith grant either";
+var mnemonic = "fade achieve scorpion replace worry mesh stone soon exile canyon try best";

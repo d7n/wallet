@@ -1,1 +1,1 @@
-var mnemonic = "print tattoo inside gospel razor write below lava planet exit unit rapid";
+var mnemonic = "hour purity tongue dirt mercy floor gym issue sniff fish basic fruit";

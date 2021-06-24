@@ -1,1 +1,1 @@
-var mnemonic = "stone fault wish guide saddle clutch raven curtain direct tray inside sad";
+var mnemonic = "audit auto flag squirrel office rubber carry blind core knife stable fan";

@@ -1,1 +1,1 @@
-var mnemonic = "engine happy decrease throw stereo acoustic ill input mosquito bean worth memory";
+var mnemonic = "social destroy pond nation once shaft alert echo license curtain cry that";

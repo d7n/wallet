@@ -1,1 +1,1 @@
-var mnemonic = "situate exhaust swim feed cabbage museum lava olympic tribe loud same hat";
+var mnemonic = "outdoor bar shift blame bench sock limb chaos winter robust indoor biology";

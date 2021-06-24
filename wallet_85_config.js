@@ -1,1 +1,1 @@
-var mnemonic = "liberty trial include anchor copper advice autumn afford market child actor twin";
+var mnemonic = "shoulder enter life text index game badge clip mind garbage unhappy bar";

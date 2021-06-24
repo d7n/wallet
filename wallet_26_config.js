@@ -1,1 +1,1 @@
-var mnemonic = "diary carbon camera they orbit buffalo kingdom six rapid tattoo express walk";
+var mnemonic = "cram curtain invite gap woman million chair motion jeans trophy grid mansion";

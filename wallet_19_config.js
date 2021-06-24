@@ -1,1 +1,1 @@
-var mnemonic = "iron grab target limb edit define citizen sample leave sting hood volume";
+var mnemonic = "space nice hello assume celery mutual glide power dignity west kingdom balcony";

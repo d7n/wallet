@@ -1,1 +1,1 @@
-var mnemonic = "split crumble field online retire april check dutch claw bridge squeeze champion";
+var mnemonic = "castle asthma settle accident someone print else column index trigger solar obscure";

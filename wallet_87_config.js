@@ -1,1 +1,1 @@
-var mnemonic = "pause december margin caught sight engine bone horn mandate crack illness total";
+var mnemonic = "forward question bracket cotton sea razor decorate clinic myself limit athlete drop";

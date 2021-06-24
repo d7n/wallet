@@ -1,1 +1,1 @@
-var mnemonic = "satisfy reduce outer tongue cancel strike trip they whip royal echo leave";
+var mnemonic = "virus prevent pulse rack among cool fragile napkin nothing swear dry moment";

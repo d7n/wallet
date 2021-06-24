@@ -1,1 +1,1 @@
-var mnemonic = "maximum rule bachelor make mixed flee avoid course blush tongue project control";
+var mnemonic = "crumble body blanket iron jaguar just spider rose nut bullet attack water";

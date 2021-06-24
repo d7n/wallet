@@ -1,1 +1,1 @@
-var mnemonic = "submit tag borrow eye winner brown bacon observe kangaroo finish review visit";
+var mnemonic = "melt cross jungle cycle eyebrow pair ship script hair possible ancient choice";

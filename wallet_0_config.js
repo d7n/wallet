@@ -1,1 +1,1 @@
-var mnemonic = "flush destroy orange size dial bachelor educate tail fan hero skate crack";
+var mnemonic = "adjust biology lady boy hood pipe diet almost lake dish car pond";

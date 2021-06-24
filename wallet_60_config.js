@@ -1,1 +1,1 @@
-var mnemonic = "sick color angry element fault wine visit remind magic genuine lonely treat";
+var mnemonic = "comfort base innocent file family fantasy flat protect alien digital recycle cancel";
