@@ -1,1 +1,1 @@
-var mnemonic = "month chaos lab suffer exact answer stamp order monster economy salmon pattern";
+var mnemonic = "stairs practice rail crater bring gossip arctic best outer frog team salute";

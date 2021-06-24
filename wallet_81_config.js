@@ -1,1 +1,1 @@
-var mnemonic = "hero ahead subject twist crystal tent laugh magnet mixture subject drum immense";
+var mnemonic = "jeans box whale orbit mirror awkward dentist final problem budget jeans steak";

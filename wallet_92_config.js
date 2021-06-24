@@ -1,1 +1,1 @@
-var mnemonic = "silk ancient diary grant tent unable argue relax extend glow unit bundle";
+var mnemonic = "hundred video squeeze toss biology move panther follow toy task bulb curtain";

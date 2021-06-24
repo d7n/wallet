@@ -1,1 +1,1 @@
-var mnemonic = "cute tennis blade olive menu robust dignity general punch vintage web visit";
+var mnemonic = "gentle idea gain sound tower ranch width only inherit upset glimpse blossom";

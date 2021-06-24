@@ -1,1 +1,1 @@
-var mnemonic = "faculty oxygen twenty apart reform canal make coast food crew couple lamp";
+var mnemonic = "negative search bless always express brave orange million immense artist success furnace";

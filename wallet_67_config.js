@@ -1,1 +1,1 @@
-var mnemonic = "biology away person soft couch music bar sweet custom music they onion";
+var mnemonic = "kiss chapter canoe joy sword march around dose tiger exchange cloth tuna";

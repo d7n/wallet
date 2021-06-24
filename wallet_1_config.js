@@ -1,1 +1,1 @@
-var mnemonic = "board produce marine trumpet push ensure pledge wedding guilt spawn toy exist";
+var mnemonic = "chair run fold cart provide adjust obtain small bike fuel bracket analyst";

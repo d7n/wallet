@@ -1,1 +1,1 @@
-var mnemonic = "lady pass camp grass argue snow recycle crucial mutual pilot lake omit";
+var mnemonic = "sell monitor document stumble allow oblige media monitor just romance voice depend";

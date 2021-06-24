@@ -1,1 +1,1 @@
-var mnemonic = "barrel churn wise conduct family biology cross crash dynamic wage laugh unique";
+var mnemonic = "awake young screen purpose tongue twist adult orchard kit remove depend rain";

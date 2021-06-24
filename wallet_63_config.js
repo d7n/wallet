@@ -1,1 +1,1 @@
-var mnemonic = "involve grab jelly project wish insane collect long barely increase poem sound";
+var mnemonic = "slogan liquid alien couple love screen dream butter omit time reward build";

@@ -1,1 +1,1 @@
-var mnemonic = "glide grass danger one upset hundred shed soul purity quiz message dentist";
+var mnemonic = "math error wall neglect reduce bread inquiry admit time health people away";

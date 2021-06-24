@@ -1,1 +1,1 @@
-var mnemonic = "affair raw rural sunset pitch spoil mistake century custom match spread glass";
+var mnemonic = "swap point monkey card lens deny pond spread fall negative memory midnight";

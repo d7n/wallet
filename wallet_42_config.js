@@ -1,1 +1,1 @@
-var mnemonic = "above brisk spray panda teach coin hurdle away ramp rent medal price";
+var mnemonic = "inhale dog assume voyage hungry ramp company myth galaxy barely double kiss";

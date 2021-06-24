@@ -1,1 +1,1 @@
-var mnemonic = "time bar autumn super require lobster island boil decade vacuum chat skull";
+var mnemonic = "volcano attitude master canyon hotel shop pave basic now wild nephew barrel";

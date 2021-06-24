@@ -1,1 +1,1 @@
-var mnemonic = "lumber upon pistol joke oppose jump trip violin pill aspect midnight net";
+var mnemonic = "ugly apology food penalty monitor cat copper december tornado behind orange ticket";

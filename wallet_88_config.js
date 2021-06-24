@@ -1,1 +1,1 @@
-var mnemonic = "test owner hat fancy door person reason south best warrior cement ridge";
+var mnemonic = "equip wall scatter target hamster wisdom veteran find mango month biology clog";

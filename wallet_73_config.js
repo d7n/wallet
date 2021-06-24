@@ -1,1 +1,1 @@
-var mnemonic = "avocado hotel vital latin keep meat else render sugar cinnamon symptom match";
+var mnemonic = "bench coyote cricket file help sketch produce stuff metal tackle tray march";

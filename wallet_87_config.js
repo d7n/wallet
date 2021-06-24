@@ -1,1 +1,1 @@
-var mnemonic = "moral crash ostrich grab flip rich unhappy lamp poem uncover eyebrow buddy";
+var mnemonic = "comic wheat private prevent warm explain alter guilt describe follow impact opinion";

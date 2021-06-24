@@ -1,1 +1,1 @@
-var mnemonic = "family place embark decline guide jewel impact lobster hello agent sunny gain";
+var mnemonic = "today benefit basic soccer valve retire chair better summer holiday clinic daughter";

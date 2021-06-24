@@ -1,1 +1,1 @@
-var mnemonic = "rent rose more occur hedgehog gossip siren shoe vacuum cause win color";
+var mnemonic = "green wasp assume twice curious island cage lens camera bargain frame logic";

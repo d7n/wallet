@@ -1,1 +1,1 @@
-var mnemonic = "fire angry learn cancel behind lawn morning dwarf pole forward view horse";
+var mnemonic = "grit social invite giraffe gospel wine wonder holiday turn future labor siege";

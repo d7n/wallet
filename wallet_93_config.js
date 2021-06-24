@@ -1,1 +1,1 @@
-var mnemonic = "empower jungle garage sand cost glide mesh sheriff chest frown car spoon";
+var mnemonic = "taxi like kiss sadness ride enemy trust typical choose side december anger";

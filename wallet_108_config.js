@@ -1,1 +1,1 @@
-var mnemonic = "bunker team hero roof online zero person surface joy behave volcano pledge";
+var mnemonic = "brand cage that expand case decorate absent myself pumpkin damage rural hungry";

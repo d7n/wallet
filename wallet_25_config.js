@@ -1,1 +1,1 @@
-var mnemonic = "immune very relief wave team crime sauce frost short trash material industry";
+var mnemonic = "ensure fruit ability conduct plate machine damp occur achieve spy person join";

@@ -1,1 +1,1 @@
-var mnemonic = "conduct surge vault warfare mother elder black prefer curious merge broom canyon";
+var mnemonic = "spot soft ocean profit run desert kite annual knock cushion proof promote";

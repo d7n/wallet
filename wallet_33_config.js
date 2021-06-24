@@ -1,1 +1,1 @@
-var mnemonic = "reform edge acquire canvas erase frozen vague alarm fault digital fall metal";
+var mnemonic = "surround velvet shrimp brisk thumb include autumn modify puzzle pull limb swallow";

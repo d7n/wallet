@@ -1,1 +1,1 @@
-var mnemonic = "organ outside address slam doctor all key glow middle minute exchange vocal";
+var mnemonic = "pet beach choice soon gospel crash rug fever question adult access labor";

@@ -1,1 +1,1 @@
-var mnemonic = "kiwi behave promote hole census era edge cook tomato case slush only";
+var mnemonic = "wish heavy meat dawn basket all bring adapt usual outdoor laptop pumpkin";

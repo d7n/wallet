@@ -1,1 +1,1 @@
-var mnemonic = "antique depth crunch expect inner slot invite bacon gather panda monkey cushion";
+var mnemonic = "badge exit album trash custom mind special aim wave control flag dilemma";

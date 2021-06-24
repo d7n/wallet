@@ -1,1 +1,1 @@
-var mnemonic = "behind ordinary eyebrow tone garage must crush season culture sing dizzy ripple";
+var mnemonic = "door fringe verb envelope athlete jar cherry present absurd hockey utility muscle";

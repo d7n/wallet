@@ -1,1 +1,1 @@
-var mnemonic = "leisure mechanic wild cake leisure brisk tank whale enjoy duty short engage";
+var mnemonic = "street object fish brother priority pottery diesel beef detect farm trim cloth";

@@ -1,1 +1,1 @@
-var mnemonic = "vendor priority lunch stay motion hub crouch hawk cattle strategy power surface";
+var mnemonic = "list false curious edge enroll force mask fit awesome rude mandate shadow";

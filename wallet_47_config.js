@@ -1,1 +1,1 @@
-var mnemonic = "whale width planet judge panic grit train turn december monkey toss valve";
+var mnemonic = "tumble differ burger basket dynamic drum grid swap mad floor image sorry";

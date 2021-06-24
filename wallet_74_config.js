@@ -1,1 +1,1 @@
-var mnemonic = "uncle unusual capable endless sound hint dust myth taste coconut illness blame";
+var mnemonic = "race stool poem provide absorb purse coil muscle dune echo knife dice";

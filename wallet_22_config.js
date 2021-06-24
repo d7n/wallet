@@ -1,1 +1,1 @@
-var mnemonic = "captain essay pact atom response dial forward advice lab anchor cement spirit";
+var mnemonic = "refuse dose brain method armor raccoon spread noble kind put hobby cereal";

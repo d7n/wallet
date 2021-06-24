@@ -1,1 +1,1 @@
-var mnemonic = "wide giraffe enemy shell acoustic distance muscle slab search unfold suggest grunt";
+var mnemonic = "wonder agree absorb powder border tackle nation double purchase supply gold flip";

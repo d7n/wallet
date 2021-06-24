@@ -1,1 +1,1 @@
-var mnemonic = "jump spare evil dad wall alert danger ball dutch push monster hover";
+var mnemonic = "letter couch bomb page wink tragic delay monkey section van cat glance";

@@ -1,1 +1,1 @@
-var mnemonic = "trust awesome divide throw circle okay zoo indoor advance horror approve remember";
+var mnemonic = "future business region omit ceiling question private blanket gaze useful quit curious";

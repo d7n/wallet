@@ -1,1 +1,1 @@
-var mnemonic = "famous fluid burger vote ticket label recipe pill evil mask month initial";
+var mnemonic = "cabbage hope sausage clump peasant burger object inner grunt vault hub embrace";

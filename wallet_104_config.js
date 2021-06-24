@@ -1,1 +1,1 @@
-var mnemonic = "object organ elbow genuine weapon hurt bid casino moral viable metal before";
+var mnemonic = "equal junior into more laptop firm trade across angle wheel mouse settle";

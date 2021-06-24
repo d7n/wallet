@@ -1,1 +1,1 @@
-var mnemonic = "depend resource ring again fiber help pelican small between brisk south youth";
+var mnemonic = "click silly actress wheat provide furnace answer column inflict wide game try";

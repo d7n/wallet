@@ -1,1 +1,1 @@
-var mnemonic = "desk job soda galaxy castle scout drive soccer march raw impact split";
+var mnemonic = "small oxygen airport found easily issue only hungry because traffic page exhaust";

@@ -1,1 +1,1 @@
-var mnemonic = "betray promote cement muffin runway wine state phone crouch river evidence net";
+var mnemonic = "now brief slogan pass upon win unit such dumb differ tag hurdle";

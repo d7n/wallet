@@ -1,1 +1,1 @@
-var mnemonic = "place galaxy swallow stock mule scene salt gentle speed ill easy remain";
+var mnemonic = "message absent spend child island innocent erosion curve step place holiday pair";

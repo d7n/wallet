@@ -1,1 +1,1 @@
-var mnemonic = "grief disagree album thunder feed timber boy buffalo laugh early finish clarify";
+var mnemonic = "hawk bronze north lazy critic lion during salmon grunt cross measure swift";

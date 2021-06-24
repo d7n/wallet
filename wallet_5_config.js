@@ -1,1 +1,1 @@
-var mnemonic = "guitar same exercise shove baby clarify bulk stuff shrimp voyage radar syrup";
+var mnemonic = "voyage country connect whale child rural seminar brick beyond truck suit any";

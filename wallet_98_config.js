@@ -1,1 +1,1 @@
-var mnemonic = "dog smooth surround aspect report awake april gasp wagon wool mobile smile";
+var mnemonic = "stuff orbit business scissors hockey early chapter protect ribbon crunch stumble shed";

@@ -1,1 +1,1 @@
-var mnemonic = "involve grab control width few infant home voice output vivid correct dash";
+var mnemonic = "skin travel derive month raise salt indoor joy sorry protect peace label";

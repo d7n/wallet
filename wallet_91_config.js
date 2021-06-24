@@ -1,1 +1,1 @@
-var mnemonic = "steel people grape jacket company afraid oblige bitter man dutch crime ecology";
+var mnemonic = "later control satoshi menu first audit van tower deer mammal broccoli chef";

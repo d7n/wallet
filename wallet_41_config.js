@@ -1,1 +1,1 @@
-var mnemonic = "bring tennis attract frozen page annual circle approve drum legal tent person";
+var mnemonic = "brave blossom exhibit exchange suspect super other wrong fade derive urge pole";

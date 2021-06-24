@@ -1,1 +1,1 @@
-var mnemonic = "weasel erase issue immense ill sound bless motion tunnel fit melt toss";
+var mnemonic = "coach file heart cruel box laundry jaguar dad riot tell avoid mistake";

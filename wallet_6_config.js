@@ -1,1 +1,1 @@
-var mnemonic = "you next chase latin infant cream wet laugh universe shoe clown concert";
+var mnemonic = "grace never put fly will large master income card all major carpet";

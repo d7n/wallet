@@ -1,1 +1,1 @@
-var mnemonic = "winter praise skull perfect dial tone endorse rely burst option december split";
+var mnemonic = "truly catch inform system milk soap online pupil will wine tenant cook";

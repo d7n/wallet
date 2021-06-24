@@ -1,1 +1,1 @@
-var mnemonic = "use fashion cool sauce maid run trick guitar word calm usual lift";
+var mnemonic = "bacon village ozone frozen still next fresh hammer adapt gain traffic degree";

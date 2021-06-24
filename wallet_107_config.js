@@ -1,1 +1,1 @@
-var mnemonic = "camp wealth actor quantum crouch segment cheese pyramid soap private chest owner";
+var mnemonic = "crazy urban glue stock please fancy cost shield drastic bottom purpose side";

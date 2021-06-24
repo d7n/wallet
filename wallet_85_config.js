@@ -1,1 +1,1 @@
-var mnemonic = "reject bracket obtain rocket cotton flower fiscal gaze very pause month pulp";
+var mnemonic = "police faint purity proud season lens come misery history switch spend load";

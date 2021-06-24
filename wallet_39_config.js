@@ -1,1 +1,1 @@
-var mnemonic = "hood math file inside oak gospel brisk notable blouse ostrich innocent neither";
+var mnemonic = "system confirm abandon safe push machine please student web start sponsor border";

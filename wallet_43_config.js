@@ -1,1 +1,1 @@
-var mnemonic = "replace valve opera affair upset bring century true fragile aunt bean ask";
+var mnemonic = "squirrel cruise opinion scene dizzy sample invest afford hope pear company agent";

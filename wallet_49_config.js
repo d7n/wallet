@@ -1,1 +1,1 @@
-var mnemonic = "coast pave spare assist sadness hybrid dash afford reduce laundry strategy much";
+var mnemonic = "carpet depart dignity pink debate wage gain minimum become canal object sing";

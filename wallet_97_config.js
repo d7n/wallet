@@ -1,1 +1,1 @@
-var mnemonic = "become differ way farm region vicious wasp radar plunge ticket umbrella august";
+var mnemonic = "cruise donate velvet elite solve slide act blur legal act home tool";

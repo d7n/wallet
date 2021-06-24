@@ -1,1 +1,1 @@
-var mnemonic = "target dignity pencil undo actual circle display ask wreck digital capable paper";
+var mnemonic = "best lunar isolate custom hundred hand twist seven rifle woman perfect number";

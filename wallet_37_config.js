@@ -1,1 +1,1 @@
-var mnemonic = "photo heavy color rough hub member jump cheap ecology settle keep green";
+var mnemonic = "nominee invest input select tired volume invite night snow area elegant shed";

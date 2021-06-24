@@ -1,1 +1,1 @@
-var mnemonic = "together vendor spot canoe office call umbrella flat wool farm noodle report";
+var mnemonic = "pledge churn grow arrow impulse urge enough coffee planet mixture between van";

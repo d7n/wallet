@@ -1,1 +1,1 @@
-var mnemonic = "bird vendor under lava remember super confirm client squirrel middle annual saddle";
+var mnemonic = "increase close trial scorpion gloom pigeon load math jacket assume glare alley";

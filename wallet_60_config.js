@@ -1,1 +1,1 @@
-var mnemonic = "rookie pride advance write dizzy shove defense false thought helmet brave someone";
+var mnemonic = "ignore remind what develop caught shoe gesture truth tape purpose minute embody";

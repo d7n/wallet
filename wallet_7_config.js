@@ -1,1 +1,1 @@
-var mnemonic = "normal body almost april lottery panel gate run govern very canvas loyal";
+var mnemonic = "million moment category certain wine matrix cash coin mercy spot round toss";

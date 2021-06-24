@@ -1,1 +1,1 @@
-var mnemonic = "tunnel someone exile strategy sentence bounce neutral coffee dumb cart demise want";
+var mnemonic = "load betray payment believe envelope worth modify rose pumpkin pitch rail earth";

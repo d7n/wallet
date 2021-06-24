@@ -1,1 +1,1 @@
-var mnemonic = "road illness narrow lesson want super cry olive opera flee walk antenna";
+var mnemonic = "object circle kangaroo eternal cute pact fine kind bonus pulse hero cart";

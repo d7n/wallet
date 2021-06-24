@@ -1,1 +1,1 @@
-var mnemonic = "indoor come job produce cushion bullet tomato desert notice involve twenty velvet";
+var mnemonic = "olympic bounce symbol caught marine train final slush shift blood just infant";

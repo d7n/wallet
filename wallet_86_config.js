@@ -1,1 +1,1 @@
-var mnemonic = "useless river guard carbon trade topic float tunnel say habit goat artwork";
+var mnemonic = "family erosion media position soda street fit plastic video open connect sense";

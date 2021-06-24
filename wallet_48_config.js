@@ -1,1 +1,1 @@
-var mnemonic = "symptom flame rather doll trust ready victory pigeon layer powder mutual once";
+var mnemonic = "father erupt crisp globe office steel solution weird cream sport casino enroll";

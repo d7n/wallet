@@ -1,1 +1,1 @@
-var mnemonic = "deputy also control impose net fade finish column hockey outside valley prefer";
+var mnemonic = "turtle success advance abandon magic fire program gather alone concert render copy";

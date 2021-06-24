@@ -1,1 +1,1 @@
-var mnemonic = "mystery trophy kidney bring length aim globe cream canoe weather evoke soft";
+var mnemonic = "glad pair gallery craft merit leopard fluid problem daughter equip tortoise couch";

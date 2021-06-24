@@ -1,1 +1,1 @@
-var mnemonic = "pride noise absent unaware puppy expand aspect knock avoid glance endless fee";
+var mnemonic = "swarm tent upset toy all season size banner mesh hood carbon enter";

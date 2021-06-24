@@ -1,1 +1,1 @@
-var mnemonic = "guitar enact social midnight tomato soap prosper youth mountain cover tornado merit";
+var mnemonic = "sustain amused trumpet horn spare reject truck stuff soup brand fossil unit";

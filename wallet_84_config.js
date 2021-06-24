@@ -1,1 +1,1 @@
-var mnemonic = "net cave vendor hockey setup series future cradle depart purchase liar smile";
+var mnemonic = "label cradle pumpkin glad once hamster addict impulse hub van ketchup sniff";

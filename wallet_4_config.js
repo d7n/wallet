@@ -1,1 +1,1 @@
-var mnemonic = "fitness seminar maid panic cattle goat black have thought company network sister";
+var mnemonic = "where margin peasant artwork forget damage custom fitness dune grow animal dust";

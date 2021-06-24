@@ -1,1 +1,1 @@
-var mnemonic = "hobby perfect robot dilemma pink goose kidney when bulb clarify shoe rival";
+var mnemonic = "antenna castle special later romance gaze feel eyebrow fault recycle quick refuse";

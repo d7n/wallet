@@ -1,1 +1,1 @@
-var mnemonic = "develop main shy palace swarm raccoon buffalo sting usual seek car flush";
+var mnemonic = "box squeeze arrest gasp goose basket obtain bone away thumb deputy account";

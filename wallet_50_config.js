@@ -1,1 +1,1 @@
-var mnemonic = "snack cross portion fitness version weekend hub history eyebrow lobster glad gap";
+var mnemonic = "diamond elevator monitor fade will cigar undo where tank suspect success east";

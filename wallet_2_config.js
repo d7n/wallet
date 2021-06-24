@@ -1,1 +1,1 @@
-var mnemonic = "clarify earth much tunnel rural indoor unveil control feature crawl tiny this";
+var mnemonic = "napkin deputy physical lion advance tail consider truly trial issue dolphin slush";

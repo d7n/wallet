@@ -1,1 +1,1 @@
-var mnemonic = "monkey earn own divert crouch casual verb snap crunch person invite hurry";
+var mnemonic = "stove wool return retire mad fabric warfare until manage blush short fork";

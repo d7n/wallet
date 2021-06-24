@@ -1,1 +1,1 @@
-var mnemonic = "measure elbow future curve addict surprise index where theme helmet alarm nice";
+var mnemonic = "pave aspect armed lottery loop cake solid airport hip parrot auto food";

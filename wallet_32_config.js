@@ -1,1 +1,1 @@
-var mnemonic = "baby unhappy when grab airport country choice slide lyrics vacant ten original";
+var mnemonic = "just easily violin crew job prevent hybrid divert bachelor beach vanish bicycle";

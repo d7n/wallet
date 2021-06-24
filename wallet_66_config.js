@@ -1,1 +1,1 @@
-var mnemonic = "pistol crazy quick secret hospital chunk coil alien waste find hockey hub";
+var mnemonic = "fame rich pipe garage illegal accuse miss view notable all victory march";

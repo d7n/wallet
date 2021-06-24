@@ -1,1 +1,1 @@
-var mnemonic = "museum weasel result tuna jealous muffin ask medal pig palace galaxy doctor";
+var mnemonic = "funny glimpse lecture awesome siege pledge fashion return recycle law virus bulb";

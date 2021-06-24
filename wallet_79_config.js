@@ -1,1 +1,1 @@
-var mnemonic = "finger rigid attract attack sword month front village shove fall magnet matrix";
+var mnemonic = "helmet width snap light leader decline virus brown garage monster shuffle busy";

@@ -1,1 +1,1 @@
-var mnemonic = "food tube axis invest cousin web ahead desk penalty chronic orange improve";
+var mnemonic = "wealth move lunch talent decrease afraid install naive frown loyal amazing surface";

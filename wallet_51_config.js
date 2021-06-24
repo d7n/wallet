@@ -1,1 +1,1 @@
-var mnemonic = "salute dial knife gravity atom story item hello fine harvest panel royal";
+var mnemonic = "immune run drip mistake decorate blush voyage panther direct ancient doctor cause";

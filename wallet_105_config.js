@@ -1,1 +1,1 @@
-var mnemonic = "loud skin hospital load parrot artist lizard chapter maximum elevator garment ribbon";
+var mnemonic = "arrest maximum slide expand increase furnace ivory letter ginger effort sunny doctor";

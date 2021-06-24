@@ -1,1 +1,1 @@
-var mnemonic = "excuse other sponsor able jewel elevator cabbage violin smart negative february media";
+var mnemonic = "magnet daring drink dove lady remind airport salmon dizzy proud record stomach";

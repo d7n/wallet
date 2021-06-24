@@ -1,1 +1,1 @@
-var mnemonic = "snap must park end hidden fringe enact giggle limit choose salt mesh";
+var mnemonic = "taste twist brown tackle ginger useful gadget swallow blossom unfair can admit";

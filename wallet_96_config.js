@@ -1,1 +1,1 @@
-var mnemonic = "desk satoshi slide elbow away jazz subway wave remember drift tobacco mask";
+var mnemonic = "hole provide capital fox push boring claim brown bronze cheese opinion supreme";
