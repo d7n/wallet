@@ -1,1 +1,1 @@
-var mnemonic = "sorry airport sleep allow adapt grocery donkey chef torch pretty frame bone";
+var mnemonic = "course sleep benefit exercise defense service seminar entire wink correct choose certain";

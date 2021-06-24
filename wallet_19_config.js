@@ -1,1 +1,1 @@
-var mnemonic = "whisper develop alarm rug artwork ankle clerk clever unique nose chair language";
+var mnemonic = "garment reunion tennis loan capable success winter track athlete toss door happy";

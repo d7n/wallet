@@ -1,1 +1,1 @@
-var mnemonic = "proof carpet stick maid sausage liberty degree right observe issue quarter artwork";
+var mnemonic = "brown east thing power lyrics load unit spread ramp patrol frame lend";

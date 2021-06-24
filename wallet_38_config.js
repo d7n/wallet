@@ -1,1 +1,1 @@
-var mnemonic = "sauce adapt sell dash cattle scan angle usual mule argue decrease blue";
+var mnemonic = "foster small census engage buddy shed scrap sudden lawsuit inject toilet will";

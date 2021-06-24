@@ -1,1 +1,1 @@
-var mnemonic = "life top come can scorpion void sun trade goddess autumn witness trophy";
+var mnemonic = "pear cinnamon mail topic royal idle boat useless pole nose spell where";

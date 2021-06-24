@@ -1,1 +1,1 @@
-var mnemonic = "concert once brisk melt secret siege same help mandate confirm ribbon exact";
+var mnemonic = "clinic rate wedding sea filter strong east transfer census turtle despair payment";

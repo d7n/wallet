@@ -1,1 +1,1 @@
-var mnemonic = "mammal track volume nothing horn skull ankle labor action sock claw goose";
+var mnemonic = "digital fabric sell gift cream crew donkey fork tornado wolf innocent village";

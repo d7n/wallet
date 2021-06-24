@@ -1,1 +1,1 @@
-var mnemonic = "maid innocent voice quarter cave extra month present violin dash fame dutch";
+var mnemonic = "monkey cake mushroom fog marine filter chest length adult milk filter foil";

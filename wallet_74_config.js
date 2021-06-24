@@ -1,1 +1,1 @@
-var mnemonic = "metal badge private scheme narrow end spy vault wise cupboard time embark";
+var mnemonic = "timber negative miracle poverty dutch lend inspire air sail exchange between friend";

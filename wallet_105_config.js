@@ -1,1 +1,1 @@
-var mnemonic = "enrich alcohol mass notice seat east sign code accident hour person fitness";
+var mnemonic = "flash matter cram pioneer lemon income essence seek gap thunder detail file";

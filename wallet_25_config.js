@@ -1,1 +1,1 @@
-var mnemonic = "wage deer question spider tenant alien injury isolate spring shine various miracle";
+var mnemonic = "blur purity club weather wrong tank empty nothing champion rice false sunset";

@@ -1,1 +1,1 @@
-var mnemonic = "rare mesh mixture skin train useful offer cargo equal next market genius";
+var mnemonic = "true mercy hub first another proud rug web dice duty slim print";

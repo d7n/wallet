@@ -1,1 +1,1 @@
-var mnemonic = "sense roast little annual this resource common peanut clerk tobacco jazz fortune";
+var mnemonic = "bus blame rifle beef radar impact debate approve pumpkin teach install pact";

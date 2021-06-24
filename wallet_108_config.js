@@ -1,1 +1,1 @@
-var mnemonic = "poem net logic report ankle egg gaze mobile second remind glue history";
+var mnemonic = "replace witness sleep catch force quit caught hat solid bean animal increase";

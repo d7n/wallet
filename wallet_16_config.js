@@ -1,1 +1,1 @@
-var mnemonic = "crowd tourist trip nice age swim culture uncle craft broom blossom sand";
+var mnemonic = "bonus sick evil knife own horror general dress mutual cousin uniform source";

@@ -1,1 +1,1 @@
-var mnemonic = "recipe squirrel flat birth toast welcome cloud liar remind sauce gather loyal";
+var mnemonic = "syrup armor narrow devote brisk smart glory erase rather slow burger empower";

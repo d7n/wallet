@@ -1,1 +1,1 @@
-var mnemonic = "avocado obtain liquid holiday mechanic stand chunk loop refuse name rare fame";
+var mnemonic = "siren deal rare tennis record jeans nephew also tilt lawsuit mercy supreme";

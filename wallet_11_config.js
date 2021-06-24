@@ -1,1 +1,1 @@
-var mnemonic = "mirror thought limit ripple faint smooth velvet uphold embark gesture elbow obtain";
+var mnemonic = "peace reward impact manage build include skull novel doll idle tray isolate";

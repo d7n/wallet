@@ -1,1 +1,1 @@
-var mnemonic = "sniff piece buzz creek sorry scrap coin waste oxygen wise type pair";
+var mnemonic = "void feature glance source jungle tail furnace eternal pluck walnut exotic find";

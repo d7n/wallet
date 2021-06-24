@@ -1,1 +1,1 @@
-var mnemonic = "purity question fix capable pink suspect eye share frown donkey toddler sight";
+var mnemonic = "father oblige patient copy hamster theme hover dentist curious cotton benefit legal";

@@ -1,1 +1,1 @@
-var mnemonic = "debris negative dutch work dutch battle focus tool rally toe nothing jealous";
+var mnemonic = "feel lumber oppose magic play fetch print canoe end hip comic health";

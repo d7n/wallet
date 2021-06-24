@@ -1,1 +1,1 @@
-var mnemonic = "solution flip very jaguar slogan uncle flush fetch outside pill few census";
+var mnemonic = "auction cradle mom beyond seed cannon lonely teach bread drama practice wisdom";

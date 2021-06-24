@@ -1,1 +1,1 @@
-var mnemonic = "option van ecology letter action rug penalty voyage keep couch across tonight";
+var mnemonic = "bulb biology harbor one disorder proud gloom jump hat royal round rail";

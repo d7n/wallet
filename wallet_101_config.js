@@ -1,1 +1,1 @@
-var mnemonic = "olive latin stairs weather dress cool between utility clean nest select victory";
+var mnemonic = "broom chef crush edge mosquito radio play spring mobile diet slim moon";

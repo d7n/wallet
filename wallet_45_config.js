@@ -1,1 +1,1 @@
-var mnemonic = "brown nuclear despair vote suggest decline quality suspect track biology firm account";
+var mnemonic = "exhibit journey recall final over indicate topic memory end purity slush element";

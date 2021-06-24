@@ -1,1 +1,1 @@
-var mnemonic = "venue dog almost green party warrior what blue uniform review runway now";
+var mnemonic = "cup extra mother hybrid valid message crystal census all raven column tornado";

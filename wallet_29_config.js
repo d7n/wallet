@@ -1,1 +1,1 @@
-var mnemonic = "blush deny uncle six urge rather zebra torch tortoise pipe soap shrug";
+var mnemonic = "patch blush citizen shell angle seek derive toward dismiss easy recipe erode";

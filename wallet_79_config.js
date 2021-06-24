@@ -1,1 +1,1 @@
-var mnemonic = "trumpet provide scissors deliver crack hold dress witness fat million shift trend";
+var mnemonic = "day bird thunder section anxiety bus rose roast dumb leisure conduct shock";

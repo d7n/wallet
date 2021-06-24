@@ -1,1 +1,1 @@
-var mnemonic = "usual main spirit video father move leisure topple subway confirm gospel polar";
+var mnemonic = "critic length tomorrow unfold elbow bracket swallow shaft cement cram domain link";

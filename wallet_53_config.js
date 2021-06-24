@@ -1,1 +1,1 @@
-var mnemonic = "idea nothing install useful canoe sorry torch capable armor outer author consider";
+var mnemonic = "affair width arm truly slender valid random vendor post deny know mean";

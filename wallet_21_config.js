@@ -1,1 +1,1 @@
-var mnemonic = "method unveil actress quiz party subject blouse music front rally addict pupil";
+var mnemonic = "topple pencil vote twenty together grocery differ vivid exile elevator cement nest";

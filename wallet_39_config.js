@@ -1,1 +1,1 @@
-var mnemonic = "flat upgrade liquid kitten beach margin physical knee record long become fly";
+var mnemonic = "human delay carbon prison hover demise dove space arrest such boil raccoon";

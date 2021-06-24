@@ -1,1 +1,1 @@
-var mnemonic = "debate siege sport enact eagle wheel argue ladder bind guide work slide";
+var mnemonic = "explain arm pony obvious exist liquid silk earn miracle hello joy same";

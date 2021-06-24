@@ -1,1 +1,1 @@
-var mnemonic = "thumb bean frown pull season advance bullet pluck lab danger brush grant";
+var mnemonic = "rally ball army butter census stove sea frost blossom climb valid coil";

@@ -1,1 +1,1 @@
-var mnemonic = "sponsor echo gravity engine rotate beyond giraffe inform fashion peasant seven own";
+var mnemonic = "device visa idle home rather bag tell arrest divide hood future fold";

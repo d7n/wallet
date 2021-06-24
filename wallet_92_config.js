@@ -1,1 +1,1 @@
-var mnemonic = "one notice dog brand other modify harsh response oval gather company tourist";
+var mnemonic = "math exile bone model plate sleep mention glow ethics renew room degree";

@@ -1,1 +1,1 @@
-var mnemonic = "sock depth imitate quantum over action term noble bar guide daughter subway";
+var mnemonic = "there strong ostrich hazard hair motor green social weasel retreat road concert";

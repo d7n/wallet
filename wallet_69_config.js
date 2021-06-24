@@ -1,1 +1,1 @@
-var mnemonic = "cheese hockey jealous around master slow reopen alpha wild machine concert dish";
+var mnemonic = "butter area mechanic solution remove coach bid cross stomach wealth analyst assume";

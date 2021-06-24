@@ -1,1 +1,1 @@
-var mnemonic = "wife ugly property oven snake soda cluster say gas chef awful edge";
+var mnemonic = "fee sad cross gown must item street praise empty toss prefer december";

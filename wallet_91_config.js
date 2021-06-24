@@ -1,1 +1,1 @@
-var mnemonic = "orient seed airport coffee paper danger engage puzzle weekend celery diagram eyebrow";
+var mnemonic = "leopard myth stereo history pact stem remind eight act shoe pumpkin chaos";

@@ -1,1 +1,1 @@
-var mnemonic = "sweet act drama liberty vivid milk gold walnut ripple plug section force";
+var mnemonic = "that art orient trophy year grid usual deputy wisdom tackle fame vapor";

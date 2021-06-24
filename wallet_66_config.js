@@ -1,1 +1,1 @@
-var mnemonic = "six arrest luxury oven pet prison leader dog luggage abuse decrease grace";
+var mnemonic = "jelly staff surround silk cart tail project culture host universe love rule";

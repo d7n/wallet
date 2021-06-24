@@ -1,1 +1,1 @@
-var mnemonic = "exchange put frequent february wine fix curious rely laundry friend grant cube";
+var mnemonic = "scorpion author purchase mean track december seat valid mixture profit blind spot";

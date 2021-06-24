@@ -1,1 +1,1 @@
-var mnemonic = "sight universe chaos gain ship satisfy produce inform predict funny endless marble";
+var mnemonic = "vessel glide three achieve farm erosion cube link mosquito whisper mean grace";

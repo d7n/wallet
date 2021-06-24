@@ -1,1 +1,1 @@
-var mnemonic = "holiday source nut bless spot soccer pony miracle when mystery dizzy message";
+var mnemonic = "member leaf symbol swear orchard stay catalog often reveal identify craft excess";

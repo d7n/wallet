@@ -1,1 +1,1 @@
-var mnemonic = "shaft raccoon auction dune call early absent strong peace member major half";
+var mnemonic = "pond coast tumble trumpet found crew addict chuckle client trick heavy mountain";

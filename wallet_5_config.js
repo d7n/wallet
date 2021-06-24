@@ -1,1 +1,1 @@
-var mnemonic = "neither achieve easily immune intact supply wink broken sunny jealous neck race";
+var mnemonic = "crush century ivory age climb light couch pencil doctor twice album screen";

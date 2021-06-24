@@ -1,1 +1,1 @@
-var mnemonic = "hockey charge exclude damp device jealous state nut fantasy hockey thumb hundred";
+var mnemonic = "pretty cook garbage brain tree consider thumb elbow flush income route video";

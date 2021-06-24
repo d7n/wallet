@@ -1,1 +1,1 @@
-var mnemonic = "swallow awesome slide confirm explain team error melt exact draw edge witness";
+var mnemonic = "fringe alley area crucial elbow burden lobster river sleep whip grunt frozen";

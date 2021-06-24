@@ -1,1 +1,1 @@
-var mnemonic = "few lamp solve bubble recycle dawn front food lucky lottery discover retire";
+var mnemonic = "session duty globe solar fire option soft police atom ball frost increase";

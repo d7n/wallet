@@ -1,1 +1,1 @@
-var mnemonic = "crunch glory off advice sound wrong cliff oyster moment scrap enlist vintage";
+var mnemonic = "issue potato blush level brush electric lunch choice design strike interest cabbage";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal orphan output lyrics sand fetch master fall dinner viable uncover margin";
+var mnemonic = "notice trim park crouch boss menu sustain secret rude keen exercise ladder";

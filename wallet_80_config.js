@@ -1,1 +1,1 @@
-var mnemonic = "audit broom cream during cluster banana planet velvet target whisper glide snap";
+var mnemonic = "sphere advance fan sort boil pet humor stomach curve tower injury rural";

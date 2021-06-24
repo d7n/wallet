@@ -1,1 +1,1 @@
-var mnemonic = "second opinion bottom people latin struggle average myself slow balcony hope access";
+var mnemonic = "purpose keep guitar flee flat payment luggage sort siege rough drink acid";

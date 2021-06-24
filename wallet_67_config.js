@@ -1,1 +1,1 @@
-var mnemonic = "finish embrace slight news cream wife antenna rough mechanic march three mango";
+var mnemonic = "royal fence grow person smile orchard snake spawn effort trigger aware master";

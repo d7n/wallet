@@ -1,1 +1,1 @@
-var mnemonic = "budget question ill harsh alpha thing illegal bar damage wait plate crowd";
+var mnemonic = "kidney angle behave joy inject rural foot bench defy glare recipe bench";

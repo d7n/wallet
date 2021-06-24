@@ -1,1 +1,1 @@
-var mnemonic = "female dynamic adult clinic praise depend upper visual remove ship crack basket";
+var mnemonic = "dove cannon over fan beyond alpha park during later orange frequent extend";

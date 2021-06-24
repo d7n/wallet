@@ -1,1 +1,1 @@
-var mnemonic = "dove render depend aunt menu derive escape pulp water lonely adapt alter";
+var mnemonic = "drop repair drink pudding capable judge spoon sail wine sad animal clock";

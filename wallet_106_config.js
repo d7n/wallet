@@ -1,1 +1,1 @@
-var mnemonic = "december smoke bread sorry mosquito blossom want peasant ride village math gift";
+var mnemonic = "render frozen amazing ribbon beauty caution perfect museum bag tape work ask";

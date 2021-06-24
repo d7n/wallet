@@ -1,1 +1,1 @@
-var mnemonic = "exist immune defy filter sad satoshi enroll health pig cereal baby tribe";
+var mnemonic = "episode narrow attitude ship essence air scheme pilot book special invest impose";

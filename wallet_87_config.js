@@ -1,1 +1,1 @@
-var mnemonic = "huge element cement drum federal tree print zero wood arch arm position";
+var mnemonic = "design ill solve laundry fold shove law enlist vast action fit buffalo";

@@ -1,1 +1,1 @@
-var mnemonic = "deliver can power around ghost lend odor news couch method top hill";
+var mnemonic = "purity husband brass connect angry pelican parrot attitude mercy science visual blue";

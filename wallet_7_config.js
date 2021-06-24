@@ -1,1 +1,1 @@
-var mnemonic = "believe sting useless they define embody chicken purity alarm review staff pistol";
+var mnemonic = "basket electric guide exercise alcohol pottery stamp situate glide attend ring tourist";

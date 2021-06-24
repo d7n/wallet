@@ -1,1 +1,1 @@
-var mnemonic = "brown can student blush crazy tornado fiscal host enough expire maple ticket";
+var mnemonic = "dad lucky clarify stage dirt mesh badge moral genuine clutch nurse knife";

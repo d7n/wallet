@@ -1,1 +1,1 @@
-var mnemonic = "minor pave usage when steel head depth collect clinic wrist fiction spice";
+var mnemonic = "quote room dragon coin rose mind moon kidney follow cactus slender release";

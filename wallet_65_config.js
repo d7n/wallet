@@ -1,1 +1,1 @@
-var mnemonic = "save crawl siren river march crouch tomato tragic unit summer garment vapor";
+var mnemonic = "thank verb second husband sponsor stay chest shoulder teach finger monitor rebuild";

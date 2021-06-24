@@ -1,1 +1,1 @@
-var mnemonic = "nothing identify sad donkey benefit parade crowd once screen bitter endorse jacket";
+var mnemonic = "erode end awake spike nasty often shift wait disagree confirm express salt";

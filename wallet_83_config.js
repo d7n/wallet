@@ -1,1 +1,1 @@
-var mnemonic = "eternal faculty derive report airport old trial open forum gun feature govern";
+var mnemonic = "vintage brush ramp unit unveil enact method heart alien smart sign remember";

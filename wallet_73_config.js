@@ -1,1 +1,1 @@
-var mnemonic = "service napkin wonder city arctic fossil rapid list arrest jewel devote reflect";
+var mnemonic = "flip similar remove zone rapid neutral famous siege slice idle reveal match";

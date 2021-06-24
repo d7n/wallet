@@ -1,1 +1,1 @@
-var mnemonic = "van core maze program sheriff clap company curve noise tennis engage sand";
+var mnemonic = "endless tuition hunt lab almost shaft shop drill bar escape voice good";

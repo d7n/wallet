@@ -1,1 +1,1 @@
-var mnemonic = "cool best clarify immense angry sad poem husband dial bar print funny";
+var mnemonic = "rich order target entire giraffe shield perfect pepper home depth genre soccer";

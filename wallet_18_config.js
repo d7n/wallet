@@ -1,1 +1,1 @@
-var mnemonic = "angle practice frog lobster ripple tilt enhance current gadget between change urge";
+var mnemonic = "eternal occur evil share keen capable document uncover level saddle tilt profit";

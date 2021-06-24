@@ -1,1 +1,1 @@
-var mnemonic = "wait thank mango spell throw copy chronic mean goddess future bone travel";
+var mnemonic = "scrap north hen visit speed brave fresh river normal possible similar apple";

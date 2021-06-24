@@ -1,1 +1,1 @@
-var mnemonic = "license brisk control tuna flock oval second tool scissors pencil pledge list";
+var mnemonic = "trash gate furnace hello smile insect fun disease foam wealth hood never";

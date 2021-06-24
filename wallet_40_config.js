@@ -1,1 +1,1 @@
-var mnemonic = "game suffer select myself enough include pear junk maze discover pact over";
+var mnemonic = "sail shoot ceiling shoulder digital gain fabric animal decline fault grief combine";

@@ -1,1 +1,1 @@
-var mnemonic = "spring tomorrow insect differ cage combine remember device celery donor oblige purse";
+var mnemonic = "close kitchen dumb swap document version stick sleep soft intact quit quarter";

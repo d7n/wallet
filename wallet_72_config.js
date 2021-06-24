@@ -1,1 +1,1 @@
-var mnemonic = "deal pilot cushion street night frame reunion strategy desert pool alien grocery";
+var mnemonic = "awesome brief spray release immense sport recycle zoo fancy salon tobacco object";

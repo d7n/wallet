@@ -1,1 +1,1 @@
-var mnemonic = "lecture remove vast pizza enter refuse jelly program cruise banner diamond web";
+var mnemonic = "marriage dress popular pulp swing then edge make able educate today verb";

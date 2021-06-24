@@ -1,1 +1,1 @@
-var mnemonic = "bright hero volume life alarm wedding pledge modify thing yard agent minor";
+var mnemonic = "despair photo under liar brass chimney pole banana emerge project sign wink";

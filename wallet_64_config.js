@@ -1,1 +1,1 @@
-var mnemonic = "special absorb switch cabin fall uncle guilt drum thrive decade inject distance";
+var mnemonic = "float sheriff feel cushion ugly frequent word alcohol famous rifle puzzle city";

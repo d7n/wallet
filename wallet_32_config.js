@@ -1,1 +1,1 @@
-var mnemonic = "whisper wagon coyote blue remain connect legend then series garage phone together";
+var mnemonic = "tell sock gorilla myth milk syrup autumn wink alien admit cinnamon apart";

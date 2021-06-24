@@ -1,1 +1,1 @@
-var mnemonic = "unit bid teach brown trade stumble vivid long doll finger awful horror";
+var mnemonic = "antique sauce plate jelly degree okay keep tide mixture frozen cherry awful";

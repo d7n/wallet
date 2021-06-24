@@ -1,1 +1,1 @@
-var mnemonic = "click fiber cat federal clinic switch citizen speak budget cheap mimic cover";
+var mnemonic = "wrist monitor learn afford make erupt display alert theory jump couple invest";

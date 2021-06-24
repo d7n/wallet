@@ -1,1 +1,1 @@
-var mnemonic = "bundle old top unfair blade tent guilt size team taste isolate expire";
+var mnemonic = "frog dash write federal copy circle breeze heavy turtle legend concert sight";

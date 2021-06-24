@@ -1,1 +1,1 @@
-var mnemonic = "parade play federal city lend drive capable child organ disagree leisure try";
+var mnemonic = "ridge sport dose toss offer exotic cable group ivory gorilla reopen film";

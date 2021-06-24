@@ -1,1 +1,1 @@
-var mnemonic = "dismiss office party harvest edit bike swallow wisdom album midnight hospital deal";
+var mnemonic = "share rail polar jump lecture grow stay shock tackle hungry trick retreat";

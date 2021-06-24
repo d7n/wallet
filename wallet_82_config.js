@@ -1,1 +1,1 @@
-var mnemonic = "foil outside company muscle garlic there office indoor squeeze slot cube pumpkin";
+var mnemonic = "lake equip dutch duty smooth oak cigar blush net cross region finger";

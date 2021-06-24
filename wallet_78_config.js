@@ -1,1 +1,1 @@
-var mnemonic = "simple defense genre supreme rally dash arrest child series edit love usage";
+var mnemonic = "egg ozone dilemma average unit fat peanut desk luxury glimpse drop small";

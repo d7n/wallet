@@ -1,1 +1,1 @@
-var mnemonic = "genuine mouse frown ghost trick glad nice champion depart bracket core cool";
+var mnemonic = "flee keen decline vague annual half current kite afford venue jump adapt";

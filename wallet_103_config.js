@@ -1,1 +1,1 @@
-var mnemonic = "shell delay apology lumber shrug pledge media detail water tell render dizzy";
+var mnemonic = "frozen bench gift guitar expire opera habit sound stove brand neither pear";

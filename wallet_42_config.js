@@ -1,1 +1,1 @@
-var mnemonic = "season away hill detect snack brown clap cable fun rate pole gasp";
+var mnemonic = "pumpkin ranch relief beyond angle strong jealous melt aunt tuition topic furnace";

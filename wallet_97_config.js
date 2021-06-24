@@ -1,1 +1,1 @@
-var mnemonic = "team stamp author stand thing unaware chalk fever else general process air";
+var mnemonic = "federal course mushroom smooth crush south grace shell raven supreme chalk sadness";
