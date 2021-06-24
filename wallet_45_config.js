@@ -1,1 +1,1 @@
-var mnemonic = "basic fold enhance tide father hurry soon nuclear immense demand chicken giraffe";
+var mnemonic = "tilt crime neutral toilet portion benefit height merry whip maid argue smooth";

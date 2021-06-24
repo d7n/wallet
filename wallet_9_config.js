@@ -1,1 +1,1 @@
-var mnemonic = "game weather strike lazy frost long either zone tired dune nation provide";
+var mnemonic = "wrong surface brass hint bench cricket kidney describe piano obvious chest cute";

@@ -1,1 +1,1 @@
-var mnemonic = "cycle attend penalty recall ghost basket crime donor access lunch city include";
+var mnemonic = "tide stem nurse apple strategy clap sweet nominee pool erosion exclude off";

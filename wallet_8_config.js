@@ -1,1 +1,1 @@
-var mnemonic = "evil awful merry aspect desk orange flower lazy margin vocal slender crumble";
+var mnemonic = "occur false tent insect female allow topic enable genuine truth ankle hello";

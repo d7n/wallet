@@ -1,1 +1,1 @@
-var mnemonic = "gadget six brick liberty blast guess detail gown zoo fatigue version soldier";
+var mnemonic = "leisure hello rabbit budget holiday unveil sugar elegant loyal fluid can cattle";

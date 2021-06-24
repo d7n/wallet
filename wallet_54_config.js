@@ -1,1 +1,1 @@
-var mnemonic = "upgrade liquid pupil lizard decorate grain cute total affair fog simple table";
+var mnemonic = "churn biology meadow dizzy twist picnic glory cliff normal connect damage evolve";

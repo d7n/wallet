@@ -1,1 +1,1 @@
-var mnemonic = "trumpet daughter legend shuffle layer satoshi clump attitude author expire stool announce";
+var mnemonic = "chaos chuckle limb close crop dish visa town cat hero slide paddle";

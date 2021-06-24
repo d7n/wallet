@@ -1,1 +1,1 @@
-var mnemonic = "debate inquiry enroll mesh cage fold capital nominee athlete upgrade woman flock";
+var mnemonic = "doctor enact student stem swap season disorder forget energy disagree chaos dolphin";

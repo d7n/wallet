@@ -1,1 +1,1 @@
-var mnemonic = "absurd potato congress retreat fire journey wife measure material just scan trouble";
+var mnemonic = "twelve review brick beach soul adult mention cotton moon flame endless build";

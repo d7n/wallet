@@ -1,1 +1,1 @@
-var mnemonic = "castle climb member unaware animal escape flame medal spider mask filter course";
+var mnemonic = "devote guard blind produce snow pilot lab attend radar snow learn loop";

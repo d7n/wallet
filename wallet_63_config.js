@@ -1,1 +1,1 @@
-var mnemonic = "mountain tobacco churn awkward morning sample disease crunch obtain stem figure page";
+var mnemonic = "exclude shrimp rigid matrix inherit actress explain coconut crucial soft solution blood";

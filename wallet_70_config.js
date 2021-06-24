@@ -1,1 +1,1 @@
-var mnemonic = "town dress cry eager hood tattoo ankle shed label quantum mystery smile";
+var mnemonic = "connect plug hundred warfare earth page quality network say funny anxiety ship";

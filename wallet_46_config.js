@@ -1,1 +1,1 @@
-var mnemonic = "speak park grunt tuna security mushroom trend card admit fish ancient better";
+var mnemonic = "hair detail absurd width provide push hobby iron stage setup tip cycle";

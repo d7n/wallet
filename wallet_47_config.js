@@ -1,1 +1,1 @@
-var mnemonic = "rude raw solution blanket fancy recipe autumn fringe welcome sorry trigger left";
+var mnemonic = "sentence dinner join anchor eternal cricket stick tilt promote cancel grape gown";

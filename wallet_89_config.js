@@ -1,1 +1,1 @@
-var mnemonic = "media scissors large make cry decline term blind defense provide trip crash";
+var mnemonic = "giant vacuum urban trust feel knock member pull doll leisure warm envelope";

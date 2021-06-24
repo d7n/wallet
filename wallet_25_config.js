@@ -1,1 +1,1 @@
-var mnemonic = "damp image ethics walnut burst blind struggle range trap cross reason plunge";
+var mnemonic = "bird drink iron coral during later enforce bar evidence pave rate kitten";

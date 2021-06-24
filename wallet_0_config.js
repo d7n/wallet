@@ -1,1 +1,1 @@
-var mnemonic = "chimney proof season oxygen load pride romance expire dust angle tower earth";
+var mnemonic = "trumpet first eternal spirit drive blast noble myth claim pig satoshi surprise";

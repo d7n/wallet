@@ -1,1 +1,1 @@
-var mnemonic = "play trash goose north relax goddess enemy mandate ordinary goddess stove arena";
+var mnemonic = "leave ranch royal either inner young what castle citizen auction final orphan";

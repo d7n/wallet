@@ -1,1 +1,1 @@
-var mnemonic = "mimic any radio era squirrel genuine stock flee clever pair runway dignity";
+var mnemonic = "sick slot base kit sweet rain belt laptop amused myth strong window";

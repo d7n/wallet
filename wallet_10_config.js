@@ -1,1 +1,1 @@
-var mnemonic = "merry wage hole filter cannon setup list night relief document boss cause";
+var mnemonic = "result town good force pepper beyond coral village grief business detail auto";

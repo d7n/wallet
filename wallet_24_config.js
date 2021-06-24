@@ -1,1 +1,1 @@
-var mnemonic = "acoustic venue dutch salute trim remember scorpion treat soap cash mushroom joy";
+var mnemonic = "blush shoe gift often twenty trend negative much trust credit bachelor ship";

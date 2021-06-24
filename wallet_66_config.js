@@ -1,1 +1,1 @@
-var mnemonic = "coil frequent glove arrow flag enact clip release tooth noodle pond toe";
+var mnemonic = "frown tiger pottery napkin color machine helmet manual oil happy exit swamp";

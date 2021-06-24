@@ -1,1 +1,1 @@
-var mnemonic = "save tomorrow vessel fancy together dream farm radar affair language million around";
+var mnemonic = "repeat allow cotton release security carry neutral flag wear axis rigid toward";

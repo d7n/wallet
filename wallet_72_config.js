@@ -1,1 +1,1 @@
-var mnemonic = "aim sleep enforce never artist budget matter iron print excess cannon success";
+var mnemonic = "noise pink local rescue mom armed split cute title crumble seed crime";

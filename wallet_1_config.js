@@ -1,1 +1,1 @@
-var mnemonic = "unaware property pretty hello palace blind shield jaguar coach great deny cinnamon";
+var mnemonic = "dove bone siege swim risk cash peasant tunnel weekend fat summer quality";

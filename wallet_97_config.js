@@ -1,1 +1,1 @@
-var mnemonic = "budget initial solar donor project gauge color child daughter spare siege now";
+var mnemonic = "lamp robot swing wish script enter exhibit slender meadow medal holiday lend";

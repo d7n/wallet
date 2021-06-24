@@ -1,1 +1,1 @@
-var mnemonic = "urban clutch account flame law ordinary square coconut manual emotion include equal";
+var mnemonic = "spare teach dial adjust game sport bench wagon olive usage undo buyer";

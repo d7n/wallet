@@ -1,1 +1,1 @@
-var mnemonic = "tornado maximum hill denial quantum seven cigar betray twice slush decide chair";
+var mnemonic = "brother pen grief crystal copper build dolphin film alley come ivory wheat";

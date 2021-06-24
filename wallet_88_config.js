@@ -1,1 +1,1 @@
-var mnemonic = "pioneer turn organ ranch boring rice body window forest method tank buyer";
+var mnemonic = "blame vast ripple frame urge visit nature dry seminar equip sight anxiety";

@@ -1,1 +1,1 @@
-var mnemonic = "mind nasty squeeze load crack know lawsuit tobacco purse quote sting actor";
+var mnemonic = "tail gun enact rescue fruit hospital throw alter solar sure find paddle";

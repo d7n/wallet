@@ -1,1 +1,1 @@
-var mnemonic = "nominee snake civil weasel gasp pelican cricket creek guard gadget unknown vintage";
+var mnemonic = "empower age tomorrow glow brick example satisfy west harbor mind slim twist";

@@ -1,1 +1,1 @@
-var mnemonic = "mammal harsh supreme forward fan divide large kidney retire chuckle vast fit";
+var mnemonic = "wave supreme fog wheel alone remind remember primary panel mercy priority tornado";

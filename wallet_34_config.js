@@ -1,1 +1,1 @@
-var mnemonic = "move frequent ugly only nerve urban river bullet south strategy merit hawk";
+var mnemonic = "dawn above mix wrong judge utility giraffe phone section pigeon return tree";

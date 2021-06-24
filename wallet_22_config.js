@@ -1,1 +1,1 @@
-var mnemonic = "supply clap siren circle view elite picture keep chimney turtle thrive rapid";
+var mnemonic = "can gold wood balcony ridge submit topple aerobic lake fruit picnic deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "solution banner antenna glow choice bring analyst clutch gold speed evil suit";
+var mnemonic = "segment minimum pepper domain ask skin axis section oval resource hunt eternal";

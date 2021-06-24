@@ -1,1 +1,1 @@
-var mnemonic = "poem uphold valid distance easy toast knock nice witness clap earth cram";
+var mnemonic = "lamp roast cluster light canyon slender dwarf index radar term travel begin";

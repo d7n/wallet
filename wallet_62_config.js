@@ -1,1 +1,1 @@
-var mnemonic = "order gloom adapt escape final alley cube buyer digital produce vapor foil";
+var mnemonic = "antique hood area gospel creek ability autumn damp delay apart trumpet neutral";

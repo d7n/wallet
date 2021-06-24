@@ -1,1 +1,1 @@
-var mnemonic = "better assume oxygen slim sun because real daughter panic voyage dune tube";
+var mnemonic = "symbol physical worry theme pluck island idea roof item tuna brass green";

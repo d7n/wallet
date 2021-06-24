@@ -1,1 +1,1 @@
-var mnemonic = "fitness veteran goddess motor divorce picnic cabbage happy just project pelican exile";
+var mnemonic = "market loop area carpet soup split unfair hotel detail word ensure hospital";

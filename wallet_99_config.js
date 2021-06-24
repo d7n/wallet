@@ -1,1 +1,1 @@
-var mnemonic = "soup menu weather copy what garage gravity traffic luggage suffer useless pulp";
+var mnemonic = "beyond woman all canyon couch keen hope rug nominee recipe update you";

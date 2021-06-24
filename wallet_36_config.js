@@ -1,1 +1,1 @@
-var mnemonic = "gown agree spike weather one usage sentence visit grace job front dragon";
+var mnemonic = "time short taste trumpet dinner simple envelope capital glad group gauge wrap";

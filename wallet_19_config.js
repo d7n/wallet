@@ -1,1 +1,1 @@
-var mnemonic = "keep smoke stage island dinosaur people today undo wall whale grunt swing";
+var mnemonic = "cause early people face endorse expire lecture route antenna jeans door hawk";

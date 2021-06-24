@@ -1,1 +1,1 @@
-var mnemonic = "soon aerobic unlock orange soft quick truth actress keep surface mesh little";
+var mnemonic = "wonder cupboard hospital village napkin bullet rally remind year this hand rent";

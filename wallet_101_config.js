@@ -1,1 +1,1 @@
-var mnemonic = "also pole matter exchange goat fly win taste vivid orphan oxygen tilt";
+var mnemonic = "much walk lobster fluid valid once during crawl wasp borrow shell until";

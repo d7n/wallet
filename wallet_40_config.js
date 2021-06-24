@@ -1,1 +1,1 @@
-var mnemonic = "cousin nephew ozone type favorite announce term price lucky spice language crawl";
+var mnemonic = "oblige just segment large syrup improve kangaroo design soap load assault fish";

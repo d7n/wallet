@@ -1,1 +1,1 @@
-var mnemonic = "nuclear always auto purchase panda endorse render flag tiger urban casual name";
+var mnemonic = "plug dismiss wet file client nuclear brief piece unveil orchard cattle charge";

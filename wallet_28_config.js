@@ -1,1 +1,1 @@
-var mnemonic = "author outdoor rail forum three oyster nation candy coil garden habit crop";
+var mnemonic = "beef possible receive cart cricket pulse twelve match speak dad test proof";

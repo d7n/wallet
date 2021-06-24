@@ -1,1 +1,1 @@
-var mnemonic = "layer mystery glory suggest twist measure silver fortune interest soon rice essence";
+var mnemonic = "mirror evoke worth below fancy oblige abuse method toilet robot kick art";

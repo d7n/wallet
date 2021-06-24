@@ -1,1 +1,1 @@
-var mnemonic = "luggage there market soda uphold hotel such close detail save bachelor dog";
+var mnemonic = "canal tide diet margin tank faith crater slam ketchup lecture shiver mass";

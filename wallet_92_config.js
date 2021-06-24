@@ -1,1 +1,1 @@
-var mnemonic = "jazz route weekend fox science among enjoy earth poverty imitate deliver yellow";
+var mnemonic = "insane lucky marine vapor giggle orbit miss real sport boat naive since";

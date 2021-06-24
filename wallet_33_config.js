@@ -1,1 +1,1 @@
-var mnemonic = "fashion north media lawn naive behave kingdom neither express wine debris two";
+var mnemonic = "fat picnic better inspire valley obtain bullet sauce master solve enroll laundry";

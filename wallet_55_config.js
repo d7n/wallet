@@ -1,1 +1,1 @@
-var mnemonic = "genre mother offer primary around soda tool nuclear symbol what evil when";
+var mnemonic = "erode kite assault spawn glance goat seat lawsuit help smart shift top";

@@ -1,1 +1,1 @@
-var mnemonic = "bunker home crime nice crop excess paddle actor crazy toward gaze dirt";
+var mnemonic = "ill aunt coconut valley marble century thrive quantum rival east plug laugh";

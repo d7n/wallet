@@ -1,1 +1,1 @@
-var mnemonic = "dream lens dry merge luxury source visa front middle avoid unlock animal";
+var mnemonic = "parrot pioneer mention crash chapter silk title rally type dutch vote brand";

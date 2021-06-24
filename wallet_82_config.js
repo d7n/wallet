@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog wear nerve lend moral door snap family brand salt cabbage worry";
+var mnemonic = "secret favorite gaze hobby gravity this later daring write cargo glad stadium";

@@ -1,1 +1,1 @@
-var mnemonic = "spin total split together hockey detail depend cage slice veteran swarm step";
+var mnemonic = "prevent hockey reopen come climb uncover tragic word unable toy tired unknown";

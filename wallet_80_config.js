@@ -1,1 +1,1 @@
-var mnemonic = "draw ethics inside carry renew orphan room junk oak rude dog cactus";
+var mnemonic = "gadget border hobby pact liquid tobacco vacuum tiger logic erase reject defy";

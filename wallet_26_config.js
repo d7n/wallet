@@ -1,1 +1,1 @@
-var mnemonic = "certain found novel high entry other mansion hole solution profit table nothing";
+var mnemonic = "track cry chunk impact fade wall blade visa juice excite typical friend";

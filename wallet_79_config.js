@@ -1,1 +1,1 @@
-var mnemonic = "gaze pyramid exchange swamp forum trim lesson avoid much day secret funny";
+var mnemonic = "grit mass just loyal manage pair yard you recall job okay lawn";

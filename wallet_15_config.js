@@ -1,1 +1,1 @@
-var mnemonic = "spoon skull axis clinic manage amused someone ozone inner order dash young";
+var mnemonic = "govern carbon news fall embark cactus soup armed garbage must payment glance";

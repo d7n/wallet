@@ -1,1 +1,1 @@
-var mnemonic = "robot oyster strategy warm virus trend surprise attitude use shift impulse large";
+var mnemonic = "grief busy repeat dragon inner elder leg snake public hawk adapt pool";

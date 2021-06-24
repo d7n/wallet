@@ -1,1 +1,1 @@
-var mnemonic = "hood liberty nature sign much aware run direct crash script ethics three";
+var mnemonic = "response dinosaur produce eternal dentist reform hole fuel left jar prosper destroy";

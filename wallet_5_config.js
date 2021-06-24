@@ -1,1 +1,1 @@
-var mnemonic = "soup duty saddle clutch goddess fatigue crane table loyal grit empty diet";
+var mnemonic = "pulse bitter feel useful point thrive oval shadow join leaf trend interest";

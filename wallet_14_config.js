@@ -1,1 +1,1 @@
-var mnemonic = "enroll save abstract tonight bird more section zoo divert pulp tattoo sadness";
+var mnemonic = "helmet sleep hello reward erode fury buddy common steak cat warm cannon";

@@ -1,1 +1,1 @@
-var mnemonic = "hurry garage jeans salmon anxiety denial situate gadget educate unveil heavy bridge";
+var mnemonic = "medal fitness fix cycle guide penalty dutch defense express winter mind poverty";

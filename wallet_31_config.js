@@ -1,1 +1,1 @@
-var mnemonic = "oblige vast miracle audit ramp quiz verb yard soap pride oven bulb";
+var mnemonic = "language board runway mansion silly tenant inspire gather vacuum goat smoke hood";

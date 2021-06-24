@@ -1,1 +1,1 @@
-var mnemonic = "bread current wrong beach reflect focus almost fiber into observe speed exclude";
+var mnemonic = "strategy pepper pyramid crack degree prefer twist pledge coconut proud spray asset";

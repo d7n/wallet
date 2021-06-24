@@ -1,1 +1,1 @@
-var mnemonic = "current adapt brief garment cake foil clip evil case visual dove rent";
+var mnemonic = "question culture gorilla outer air pepper film alien library soccer prize pudding";

@@ -1,1 +1,1 @@
-var mnemonic = "donor reunion galaxy wet lesson attend island chair anchor stomach pilot bulb";
+var mnemonic = "custom biology magic puzzle future glimpse among hat uncover parent certain own";

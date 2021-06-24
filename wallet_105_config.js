@@ -1,1 +1,1 @@
-var mnemonic = "shoot draft series river slice shoot opinion fat rescue tip place transfer";
+var mnemonic = "jar moral oblige retreat empty keep wise know sugar exhibit earn clump";

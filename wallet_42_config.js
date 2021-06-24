@@ -1,1 +1,1 @@
-var mnemonic = "march burger brown peace bring token combine coyote world teach lottery hazard";
+var mnemonic = "level sense earth catalog sentence hedgehog fever rapid achieve head indoor task";

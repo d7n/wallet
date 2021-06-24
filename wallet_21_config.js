@@ -1,1 +1,1 @@
-var mnemonic = "olympic honey water lottery alien lecture near above funny process wisdom smile";
+var mnemonic = "pair lounge say pepper six advance fuel various budget taxi illness claim";

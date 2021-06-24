@@ -1,1 +1,1 @@
-var mnemonic = "fiber marriage pear skirt dilemma flower crazy eyebrow romance outside dish chapter";
+var mnemonic = "carbon stumble helmet stove property culture voice glimpse apart solution blame friend";

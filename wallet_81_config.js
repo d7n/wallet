@@ -1,1 +1,1 @@
-var mnemonic = "off flag punch lecture quote modify ten marriage library tide captain drop";
+var mnemonic = "catalog question river version poet actual marriage inform arrive involve face nerve";

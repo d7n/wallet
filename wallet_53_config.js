@@ -1,1 +1,1 @@
-var mnemonic = "deer wagon you female depth popular seven coach casual index frozen state";
+var mnemonic = "west prize reopen movie owner develop shadow essay vote blue knock october";

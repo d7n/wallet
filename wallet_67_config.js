@@ -1,1 +1,1 @@
-var mnemonic = "okay drop clump version medal island physical rapid oppose limb creek dilemma";
+var mnemonic = "miss minor giant boil stereo salmon during pair hand debate era shine";

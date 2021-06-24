@@ -1,1 +1,1 @@
-var mnemonic = "cheese twenty else what glimpse pride robot labor lounge six dove leisure";
+var mnemonic = "laundry cable feature caution useless mule scrap pluck goose sport ripple castle";

@@ -1,1 +1,1 @@
-var mnemonic = "wet jazz cliff warrior fork country size inflict rural short tide fee";
+var mnemonic = "six attend list waste ocean below old fault produce random remember august";

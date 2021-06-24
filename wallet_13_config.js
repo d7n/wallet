@@ -1,1 +1,1 @@
-var mnemonic = "add define concert mountain equip pause manual subject barely uniform pass company";
+var mnemonic = "clean never waste injury scatter acquire inherit antique quiz cream program subway";

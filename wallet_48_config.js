@@ -1,1 +1,1 @@
-var mnemonic = "symptom fun bullet word weapon wedding casino fix agent message puppy what";
+var mnemonic = "cigar parade blind can lecture width battle genius draft april powder inner";

@@ -1,1 +1,1 @@
-var mnemonic = "unfold repeat polar journey jump edit mistake century torch rich inform private";
+var mnemonic = "mouse spice night army solution ticket want measure witness song amount place";

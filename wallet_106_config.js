@@ -1,1 +1,1 @@
-var mnemonic = "jealous fatigue situate hand solid seven skill absent current scorpion clever know";
+var mnemonic = "cricket conduct prefer name ethics anger sell eagle opinion august novel ride";

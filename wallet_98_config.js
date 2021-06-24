@@ -1,1 +1,1 @@
-var mnemonic = "enforce wagon file swamp will produce fragile any private cushion atom initial";
+var mnemonic = "culture just detail suspect nature rocket live dawn lyrics addict purse nurse";

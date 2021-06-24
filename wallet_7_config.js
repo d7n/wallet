@@ -1,1 +1,1 @@
-var mnemonic = "season put setup cattle vicious exile slot august square friend what control";
+var mnemonic = "fiber guess awful tape manage balance arrow pilot submit bubble april harvest";

@@ -1,1 +1,1 @@
-var mnemonic = "shrimp chunk foil together promote salmon episode short impulse cute used nuclear";
+var mnemonic = "episode lend welcome quantum coyote fun video dismiss kingdom region tobacco owner";

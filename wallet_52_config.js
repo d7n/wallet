@@ -1,1 +1,1 @@
-var mnemonic = "current win tattoo mesh ahead buddy fancy affair flush plug process faith";
+var mnemonic = "unhappy diagram clerk vibrant usual tortoise usual virus very guitar song just";

@@ -1,1 +1,1 @@
-var mnemonic = "taste razor august also achieve wolf slow quiz sea glare parade drip";
+var mnemonic = "brave oxygen weapon heavy kind census six gospel embark bread stool giggle";

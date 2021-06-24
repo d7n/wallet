@@ -1,1 +1,1 @@
-var mnemonic = "potato dinosaur motor once erase lady brain employ turtle access excite tuna";
+var mnemonic = "guilt scorpion other glass unknown width fan rebel extra excess assist prison";

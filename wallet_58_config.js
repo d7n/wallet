@@ -1,1 +1,1 @@
-var mnemonic = "insane liquid amount gasp student glass faculty ski cliff brand naive aim";
+var mnemonic = "run solve addict loud path size wheel spider drink powder clever insane";

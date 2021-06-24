@@ -1,1 +1,1 @@
-var mnemonic = "busy embrace gallery deal day artefact doctor cliff rural miracle salad there";
+var mnemonic = "trick hamster slim cable solve tree horn dinosaur property trophy pull poverty";

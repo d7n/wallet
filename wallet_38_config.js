@@ -1,1 +1,1 @@
-var mnemonic = "disease duck slam figure picnic tide world butter hen clock rich replace";
+var mnemonic = "shine trade speak cheap time lady exact cargo dwarf shiver impulse nothing";

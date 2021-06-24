@@ -1,1 +1,1 @@
-var mnemonic = "bird humor prosper property midnight sheriff smooth skin heart east guide lava";
+var mnemonic = "away unveil test impact regret virus gravity drift source dial gasp lab";

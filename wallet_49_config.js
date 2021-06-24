@@ -1,1 +1,1 @@
-var mnemonic = "swap fiction envelope stereo wash sea scan cloud example talent service toss";
+var mnemonic = "walnut axis yellow soft chief exile method sort art valve lady program";

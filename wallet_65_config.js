@@ -1,1 +1,1 @@
-var mnemonic = "fit crop knife sunset title venture lake liquid glare around captain spawn";
+var mnemonic = "stomach strike size moral mistake venue rally canvas ring faith era fiction";
