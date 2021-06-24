@@ -1,1 +1,1 @@
-var mnemonic = "shine museum soap smile pulp evil lecture cushion author congress evil off";
+var mnemonic = "deal conduct shift pencil alert exist energy patch lizard evoke nephew hedgehog";

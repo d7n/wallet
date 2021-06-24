@@ -1,1 +1,1 @@
-var mnemonic = "awesome essay kangaroo scrub forest lazy layer month town faint physical topic";
+var mnemonic = "lens dress subject mobile cream issue drum family muscle ask eyebrow mushroom";

@@ -1,1 +1,1 @@
-var mnemonic = "slide car issue payment else patrol diesel neck bargain include fine fetch";
+var mnemonic = "bracket stuff nation motor point gauge visa salt parrot below shop raccoon";

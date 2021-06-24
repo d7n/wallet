@@ -1,1 +1,1 @@
-var mnemonic = "innocent hazard route sun cattle ramp chimney slogan echo figure snow jealous";
+var mnemonic = "spatial private final slow crisp rice release distance income tuition arrive blade";

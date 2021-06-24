@@ -1,1 +1,1 @@
-var mnemonic = "produce penalty verb holiday truth toilet swift into milk sport youth lunch";
+var mnemonic = "useless myth owner spy expire jungle seat month metal soup genius keep";

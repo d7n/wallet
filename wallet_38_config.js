@@ -1,1 +1,1 @@
-var mnemonic = "scrap enter cage fragile badge wrist eight patch remove journey include salon";
+var mnemonic = "sand suit disorder soft uphold cross nerve assume any pride burden wasp";

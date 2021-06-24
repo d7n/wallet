@@ -1,1 +1,1 @@
-var mnemonic = "certain eye blade erosion rate gift cross two lawsuit aunt vote cloud";
+var mnemonic = "kiss switch extend glass casual pizza usage exile drop riot derive hedgehog";

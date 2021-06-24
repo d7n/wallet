@@ -1,1 +1,1 @@
-var mnemonic = "surface behind system improve release motion country arrest fade bulb loyal smart";
+var mnemonic = "tape ability heart radar execute horse blush parade auction volcano betray phone";

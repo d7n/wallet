@@ -1,1 +1,1 @@
-var mnemonic = "alarm double kid engine wasp snake local silver crunch vacuum angle surprise";
+var mnemonic = "limit draft velvet bone typical assume jeans print flip hamster stem glass";

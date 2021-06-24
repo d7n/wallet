@@ -1,1 +1,1 @@
-var mnemonic = "october remain employ butter large reveal vague carpet sock jar fringe tank";
+var mnemonic = "motor cabin mistake actress claw split regular benefit athlete dry sheriff tone";

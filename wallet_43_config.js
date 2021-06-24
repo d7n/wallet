@@ -1,1 +1,1 @@
-var mnemonic = "remember fame owner today gate assault endorse barrel olive party power ready";
+var mnemonic = "render escape silver chase trim guess chaos laptop sunset army chapter street";

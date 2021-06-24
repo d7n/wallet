@@ -1,1 +1,1 @@
-var mnemonic = "village corn client run aim motor grace amateur illness employ win time";
+var mnemonic = "aerobic give glory ladder faint caught guide chapter vault valley myth sniff";

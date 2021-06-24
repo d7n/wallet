@@ -1,1 +1,1 @@
-var mnemonic = "away faculty decorate mean reveal aerobic firm spike exit suggest pretty viable";
+var mnemonic = "nuclear alarm cluster silver essay dad cart evil drop involve annual special";

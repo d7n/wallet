@@ -1,1 +1,1 @@
-var mnemonic = "pluck exist print island mail rude swing erase goose crumble local label";
+var mnemonic = "bunker absent pave normal more club another nice soft jeans decide harbor";

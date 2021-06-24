@@ -1,1 +1,1 @@
-var mnemonic = "voyage dash embark annual make fault fire cabin flower degree sausage coil";
+var mnemonic = "menu army outside fresh wheel cat fossil garbage orange doctor poet earth";

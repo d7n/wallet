@@ -1,1 +1,1 @@
-var mnemonic = "pink honey blind dance copper pledge general muffin sunny choice approve action";
+var mnemonic = "hill miss buddy door police loud foam skull collect brown make notice";

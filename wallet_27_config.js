@@ -1,1 +1,1 @@
-var mnemonic = "sing slot slender liquid believe man purpose easy finish choice ability vocal";
+var mnemonic = "attitude disagree hybrid jazz neither early category exercise rely piece scare east";

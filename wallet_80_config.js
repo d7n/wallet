@@ -1,1 +1,1 @@
-var mnemonic = "flame seek core reflect midnight ridge soft flat enact cool amount cream";
+var mnemonic = "genius cook assist exhaust assault episode interest moon profit elevator weekend rather";

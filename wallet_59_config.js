@@ -1,1 +1,1 @@
-var mnemonic = "unhappy couple swift reject version monkey impulse layer ensure poverty purchase minor";
+var mnemonic = "purity have liquid mountain inherit garlic margin able equip refuse ketchup twenty";

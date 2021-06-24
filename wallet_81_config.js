@@ -1,1 +1,1 @@
-var mnemonic = "couple series upper dial electric sphere priority isolate female edit seminar bullet";
+var mnemonic = "actual bone test absent sweet gap merit pole ostrich turtle save ability";

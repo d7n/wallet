@@ -1,1 +1,1 @@
-var mnemonic = "rice grunt width spike upset again purity live base diary foil final";
+var mnemonic = "nephew diagram symbol simple assume aim card slab layer secret cabin motion";

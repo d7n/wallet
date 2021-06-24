@@ -1,1 +1,1 @@
-var mnemonic = "undo dice begin mammal ball ocean timber spoil tower water addict good";
+var mnemonic = "receive stove trade fiber inquiry brother they galaxy amused kite embody orchard";

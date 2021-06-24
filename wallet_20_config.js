@@ -1,1 +1,1 @@
-var mnemonic = "lonely stumble furnace grab scheme depth juice magic shallow ivory unusual wink";
+var mnemonic = "canoe nephew divorce grief rent outer hip sniff honey butter option blame";

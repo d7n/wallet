@@ -1,1 +1,1 @@
-var mnemonic = "mandate second lonely salute clock giggle wrist quit torch urban again front";
+var mnemonic = "wire borrow mention daring soap problem long visual castle orient hobby choose";

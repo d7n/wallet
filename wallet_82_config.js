@@ -1,1 +1,1 @@
-var mnemonic = "cotton sphere salon negative decrease advance current dice today frown lyrics inform";
+var mnemonic = "cereal pill also clerk supply repeat diary cloud juice moment digital odor";

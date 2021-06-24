@@ -1,1 +1,1 @@
-var mnemonic = "genuine afraid galaxy agree check police profit between potato state coach speak";
+var mnemonic = "marriage crouch sword prevent deposit sure habit build ivory matter wet burger";

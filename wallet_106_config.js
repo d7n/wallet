@@ -1,1 +1,1 @@
-var mnemonic = "legend jungle poet clog enable risk supply speed flock charge burger behave";
+var mnemonic = "silly same parent found buddy vault seat perfect young empty person ghost";

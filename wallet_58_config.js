@@ -1,1 +1,1 @@
-var mnemonic = "clip control seat grid credit book web own hammer doll obvious reduce";
+var mnemonic = "original pact picture lounge dutch easily cattle weasel tragic coconut visual inmate";

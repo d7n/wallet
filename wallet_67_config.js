@@ -1,1 +1,1 @@
-var mnemonic = "wood divide flight opinion kid blanket trap art found grace index digital";
+var mnemonic = "concert whale high buffalo tongue thank hospital humble vintage square pool tiger";

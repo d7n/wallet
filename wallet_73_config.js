@@ -1,1 +1,1 @@
-var mnemonic = "hurry boat drop turn math stadium virtual orient toddler slow govern soup";
+var mnemonic = "connect sugar life until absurd dove expect flame pulp rather vehicle else";

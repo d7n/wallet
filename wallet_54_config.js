@@ -1,1 +1,1 @@
-var mnemonic = "prevent zero provide exile amused wagon canal mask antenna captain parent olympic";
+var mnemonic = "cheap debate nut popular urge trade tired judge horse carry execute paper";

@@ -1,1 +1,1 @@
-var mnemonic = "near couch dinner gun spread path record phrase such wise habit special";
+var mnemonic = "metal squeeze ostrich abandon delay divert brush erode praise advice term pipe";

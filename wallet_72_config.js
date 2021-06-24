@@ -1,1 +1,1 @@
-var mnemonic = "kind car glory wet market vibrant field hen loan shine farm place";
+var mnemonic = "network benefit school october reform horror bachelor sad sorry vendor report nurse";

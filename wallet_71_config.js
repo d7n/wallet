@@ -1,1 +1,1 @@
-var mnemonic = "sibling dash drip always mushroom lemon prefer use depart execute wild learn";
+var mnemonic = "deputy cheap analyst pass moral nominee wood snake marriage cliff advance day";

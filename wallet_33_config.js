@@ -1,1 +1,1 @@
-var mnemonic = "blush fuel replace shop excuse vessel youth ahead gauge rookie female mystery";
+var mnemonic = "picture chaos wood boring kind april main churn they cloud chapter advance";

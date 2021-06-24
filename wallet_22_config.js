@@ -1,1 +1,1 @@
-var mnemonic = "retreat payment odor laptop dirt parade pilot simple work slot crane tomato";
+var mnemonic = "kitten rate copy model strong airport flower open purchase virtual weather tortoise";

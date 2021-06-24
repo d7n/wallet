@@ -1,1 +1,1 @@
-var mnemonic = "result payment expose actress jazz canyon north cheap romance involve box fire";
+var mnemonic = "prevent moon decrease zone note anger response suspect casino then taxi hotel";

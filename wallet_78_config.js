@@ -1,1 +1,1 @@
-var mnemonic = "orange wink menu finish save spray size receive transfer airport private wide";
+var mnemonic = "theme describe motor shield section obvious arm length height level brain valve";

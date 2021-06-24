@@ -1,1 +1,1 @@
-var mnemonic = "sentence open tooth develop chronic text dune strike size fun hedgehog soul";
+var mnemonic = "quick arrest wealth jaguar dilemma volume online waste fine pigeon foam razor";

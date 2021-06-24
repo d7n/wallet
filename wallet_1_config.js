@@ -1,1 +1,1 @@
-var mnemonic = "intact clever panel dress combine donor obey hint cinnamon cry task around";
+var mnemonic = "buddy yellow field menu silent zebra churn hungry brain essay squirrel seat";

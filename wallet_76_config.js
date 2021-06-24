@@ -1,1 +1,1 @@
-var mnemonic = "gauge vital admit there monkey issue unaware endorse stem train phrase upon";
+var mnemonic = "amateur orange crater absorb enemy shift exact pear word sample inform trigger";

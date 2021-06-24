@@ -1,1 +1,1 @@
-var mnemonic = "grant step hotel solve blur glare release mistake reflect nurse afraid pledge";
+var mnemonic = "raven uncover fluid mammal member travel immense energy credit illness raccoon gasp";

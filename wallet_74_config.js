@@ -1,1 +1,1 @@
-var mnemonic = "tunnel script reject cat stove oppose rib stand save certain correct utility";
+var mnemonic = "room system come teach beach age fragile harbor sort scan guard test";

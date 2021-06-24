@@ -1,1 +1,1 @@
-var mnemonic = "hold pave kiwi danger aerobic buffalo farm transfer pencil sight spare twelve";
+var mnemonic = "plunge slide tuna shy knee picnic worth friend smile area soft loan";

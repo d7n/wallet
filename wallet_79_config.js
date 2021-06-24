@@ -1,1 +1,1 @@
-var mnemonic = "shy patient high speed butter shy glimpse warfare happy fossil slim elephant";
+var mnemonic = "grow stable genuine broccoli broom shallow script robot upset isolate leader depart";

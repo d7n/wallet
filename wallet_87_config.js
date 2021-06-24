@@ -1,1 +1,1 @@
-var mnemonic = "exhaust clock toddler garlic anger about start verb task pelican wagon zoo";
+var mnemonic = "tape birth summer cross aspect find layer sick ocean tell digital electric";

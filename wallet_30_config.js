@@ -1,1 +1,1 @@
-var mnemonic = "frost noodle pattern reveal seed despair nose mistake before broom human pride";
+var mnemonic = "carry subway lens jaguar attend aisle cup odor caught trick view modify";

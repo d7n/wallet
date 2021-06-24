@@ -1,1 +1,1 @@
-var mnemonic = "umbrella inside science sing name problem cover antenna draft tiny law box";
+var mnemonic = "into cloth gossip indicate arch easily hint spot unusual flush bargain cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "unique open case forget tobacco wood regular club rich awkward front giggle";
+var mnemonic = "movie chapter item end poem pulse banner motion fossil client balcony emerge";

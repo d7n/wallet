@@ -1,1 +1,1 @@
-var mnemonic = "cabbage crouch beyond vocal outside maze occur medal before collect lens once";
+var mnemonic = "cabin cash false creek endorse sponsor fence clever human forum dose lift";

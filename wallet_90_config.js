@@ -1,1 +1,1 @@
-var mnemonic = "explain brain arena sea choose feed math mutual skill power father bitter";
+var mnemonic = "rookie announce taxi material wine burst priority clean clerk term enter fabric";

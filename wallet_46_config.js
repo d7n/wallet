@@ -1,1 +1,1 @@
-var mnemonic = "slam ghost antique rather target maple hire tooth aisle staff current ridge";
+var mnemonic = "seed track remove real payment remind left sister grocery taste erase myself";

@@ -1,1 +1,1 @@
-var mnemonic = "release impose vibrant vast man join budget curve matter expire swift student";
+var mnemonic = "army pen category panel confirm frog march stove fragile good genius neck";

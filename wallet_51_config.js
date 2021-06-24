@@ -1,1 +1,1 @@
-var mnemonic = "art kit tragic planet foot tone crisp enlist taxi write taxi original";
+var mnemonic = "truck comic mystery sponsor have grain element armor sphere dignity civil cement";

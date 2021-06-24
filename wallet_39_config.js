@@ -1,1 +1,1 @@
-var mnemonic = "dutch fit off annual urge shrimp usage jeans damp ripple liberty train";
+var mnemonic = "fiction glide local issue evil scrap buyer action blanket then escape battle";

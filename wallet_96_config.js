@@ -1,1 +1,1 @@
-var mnemonic = "manual cradle mouse merge arrange bicycle large sock version cement seat rail";
+var mnemonic = "flat electric setup bus twice shoot member only intact service math verb";

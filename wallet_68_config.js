@@ -1,1 +1,1 @@
-var mnemonic = "robust acid write market fiber tuition blind stock street buzz mutual brisk";
+var mnemonic = "fatal evidence vital invest crater creek visit cute lawsuit account usage hold";

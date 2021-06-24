@@ -1,1 +1,1 @@
-var mnemonic = "flee section candy document today coconut giggle love alone stem damage tomorrow";
+var mnemonic = "evidence assist dwarf wide mixture dice fragile delay venture margin clarify tube";

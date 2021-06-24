@@ -1,1 +1,1 @@
-var mnemonic = "badge ensure eager logic file print toast camp rocket opera improve unique";
+var mnemonic = "curve wise keen govern helmet eyebrow scatter giraffe damage million rely obey";

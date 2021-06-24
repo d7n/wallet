@@ -1,1 +1,1 @@
-var mnemonic = "acid riot gun essay school panic someone equal pencil bicycle marriage firm";
+var mnemonic = "avocado run custom assume predict dream buffalo inject club glance close more";

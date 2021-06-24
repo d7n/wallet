@@ -1,1 +1,1 @@
-var mnemonic = "cheese company mammal absent pistol stumble noble increase hunt drill plastic airport";
+var mnemonic = "acquire drama flat razor size keen brisk shift shop ready sick uphold";

@@ -1,1 +1,1 @@
-var mnemonic = "bubble combine interest onion dinosaur eagle bulk panther you rebel gown peasant";
+var mnemonic = "retire lottery pulse predict picnic sand honey bonus million jump artwork pause";

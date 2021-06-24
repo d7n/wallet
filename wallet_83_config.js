@@ -1,1 +1,1 @@
-var mnemonic = "zone boring mention alert twin cream april phrase route garbage above talk";
+var mnemonic = "tourist mobile arm give relax erosion phone foam guilt rug pumpkin girl";

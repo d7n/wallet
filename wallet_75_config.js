@@ -1,1 +1,1 @@
-var mnemonic = "grunt myself draft palace over latin nuclear bless peasant describe junk engine";
+var mnemonic = "kitten vendor tell talent saddle absorb sand grant point clog turtle digital";

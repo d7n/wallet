@@ -1,1 +1,1 @@
-var mnemonic = "practice filter used silver bomb negative rifle episode galaxy hard family circle";
+var mnemonic = "hard hand blast step valley print primary design cement pen oxygen phrase";

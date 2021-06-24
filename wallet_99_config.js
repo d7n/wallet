@@ -1,1 +1,1 @@
-var mnemonic = "moment supreme claw witness girl attract total section unit effort liar rate";
+var mnemonic = "amused sunset useless index rapid voyage behind have voice zero cigar ready";

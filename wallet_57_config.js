@@ -1,1 +1,1 @@
-var mnemonic = "ridge bird middle diagram oval bright gap report crawl jeans flight fine";
+var mnemonic = "camp exotic good dutch hunt silk catch consider illegal walk timber tunnel";

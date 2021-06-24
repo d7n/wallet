@@ -1,1 +1,1 @@
-var mnemonic = "thank only account math pyramid polar equal steel provide truth prevent name";
+var mnemonic = "glow extend prosper fee north hedgehog pencil omit soup master chef vacant";

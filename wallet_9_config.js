@@ -1,1 +1,1 @@
-var mnemonic = "often lab smile all sketch praise else hurdle wisdom shock pumpkin punch";
+var mnemonic = "absurd describe much clay rapid lamp tobacco fall replace turkey vintage hole";

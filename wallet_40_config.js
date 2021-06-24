@@ -1,1 +1,1 @@
-var mnemonic = "mammal tackle demise fatal device boost virus problem tonight phrase novel cousin";
+var mnemonic = "culture portion atom spin level access way crater trophy result more between";

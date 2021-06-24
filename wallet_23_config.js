@@ -1,1 +1,1 @@
-var mnemonic = "foster spice sketch sausage purity indicate diet ahead must bitter tent quiz";
+var mnemonic = "outdoor match trick name section join crystal farm exhaust tunnel poverty other";

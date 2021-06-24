@@ -1,1 +1,1 @@
-var mnemonic = "code stem mixed endless fortune patch dutch version stock surround process relief";
+var mnemonic = "jewel sail mouse repeat arrow defense valid kid demise duty ostrich retreat";

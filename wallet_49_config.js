@@ -1,1 +1,1 @@
-var mnemonic = "glance crime rent cry pretty certain library vapor betray junior cash garden";
+var mnemonic = "tomorrow subject valid awkward sleep elephant puzzle unfair item bid wash sort";

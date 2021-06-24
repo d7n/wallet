@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur hole anger electric dune little estate top sausage answer mirror skin";
+var mnemonic = "share peace guess mobile section cherry rookie fire portion kidney royal peasant";

@@ -1,1 +1,1 @@
-var mnemonic = "crouch coyote walk weasel health forward grace ten candy drift ivory fragile";
+var mnemonic = "omit other armor hat erosion prevent purse strike ride artefact thrive clip";

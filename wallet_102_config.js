@@ -1,1 +1,1 @@
-var mnemonic = "slice program caution obscure crew airport modify curious easily noble shiver math";
+var mnemonic = "often sunny slot maximum siren guitar short bless misery someone food budget";

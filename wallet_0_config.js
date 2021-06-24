@@ -1,1 +1,1 @@
-var mnemonic = "fringe hawk grain electric chef sand sell friend innocent eyebrow drift rhythm";
+var mnemonic = "quarter find walnut giggle student verb basic pioneer system quality north fluid";

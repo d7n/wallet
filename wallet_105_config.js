@@ -1,1 +1,1 @@
-var mnemonic = "trophy milk author thrive air over home rail peanut verb kangaroo name";
+var mnemonic = "tourist bird twist boat pioneer scheme into online organ surprise junk clever";

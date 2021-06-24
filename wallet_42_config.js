@@ -1,1 +1,1 @@
-var mnemonic = "silver smooth blame scrub pond donate soft maple wise ship adapt fault";
+var mnemonic = "tumble dial wool loop cattle fix media sleep claim aisle flee renew";

@@ -1,1 +1,1 @@
-var mnemonic = "rural rib rely various goat shaft permit stock teach mix melt fancy";
+var mnemonic = "raccoon fresh mandate problem oil tip divorce teach describe unusual able laugh";

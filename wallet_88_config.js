@@ -1,1 +1,1 @@
-var mnemonic = "retreat above option around priority judge tank spatial recycle guilt mom industry";
+var mnemonic = "gather tank original flavor bicycle price debate short banana zebra purchase shiver";

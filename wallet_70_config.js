@@ -1,1 +1,1 @@
-var mnemonic = "expand coin there dog resist prize grow rookie remind blouse antique inhale";
+var mnemonic = "child syrup holiday neither level robust fabric royal drip image beef rhythm";

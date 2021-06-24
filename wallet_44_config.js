@@ -1,1 +1,1 @@
-var mnemonic = "pen floor embody very elephant provide disease end mechanic clock stool vault";
+var mnemonic = "spin mass lyrics track large crater love slot use vanish quit snake";

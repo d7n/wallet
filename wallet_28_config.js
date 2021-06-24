@@ -1,1 +1,1 @@
-var mnemonic = "repair session roast lesson alcohol skin oppose hen spatial frost flavor wealth";
+var mnemonic = "ice acquire pull receive silly enhance bubble tank fruit cinnamon beef umbrella";

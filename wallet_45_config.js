@@ -1,1 +1,1 @@
-var mnemonic = "drink cool select social fragile wage funny funny abandon enforce solution sign";
+var mnemonic = "frozen bottom solution lazy since weekend basket scrub bean layer extra decrease";

@@ -1,1 +1,1 @@
-var mnemonic = "coral slice hat liar since trust rally bring unfair spirit man benefit";
+var mnemonic = "town debris drip clutch exhibit tragic surround net calm change prison another";

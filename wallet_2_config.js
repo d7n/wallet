@@ -1,1 +1,1 @@
-var mnemonic = "visual artefact inspire scene dwarf team shuffle sting produce wife word boil";
+var mnemonic = "oak dust concert elite mention huge approve moment dentist october wisdom cancel";

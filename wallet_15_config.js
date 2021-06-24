@@ -1,1 +1,1 @@
-var mnemonic = "rescue gauge mirror twist switch tip transfer ostrich mechanic purse loud easy";
+var mnemonic = "sleep morning bleak opera share such park control snack repair relief enlist";

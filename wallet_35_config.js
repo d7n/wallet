@@ -1,1 +1,1 @@
-var mnemonic = "muffin other pattern pepper please kingdom empower always true popular wage sell";
+var mnemonic = "ankle toward right human check coach bone decorate right oxygen play chaos";

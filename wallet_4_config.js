@@ -1,1 +1,1 @@
-var mnemonic = "gravity among shop volcano prison rain ten parent fall promote announce wood";
+var mnemonic = "disorder thrive noodle peace beach steel advance about shift filter cluster degree";

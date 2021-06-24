@@ -1,1 +1,1 @@
-var mnemonic = "mutual viable thumb uniform attract fever swamp city manage finish beauty sphere";
+var mnemonic = "carpet news afraid across essay main okay power size certain unfold report";

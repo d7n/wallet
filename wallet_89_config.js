@@ -1,1 +1,1 @@
-var mnemonic = "miss absurd cloth crush mail mix round ice frequent sadness cargo ripple";
+var mnemonic = "outside promote rocket ribbon normal kitchen sand grass original good express green";
