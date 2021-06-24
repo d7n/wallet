@@ -1,1 +1,1 @@
-var mnemonic = "soap oil bomb pigeon pond hawk day sick patch resist loud bread";
+var mnemonic = "off flag punch lecture quote modify ten marriage library tide captain drop";

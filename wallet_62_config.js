@@ -1,1 +1,1 @@
-var mnemonic = "stairs oven code dune frequent upgrade drop someone reason rack inch essence";
+var mnemonic = "order gloom adapt escape final alley cube buyer digital produce vapor foil";

@@ -1,1 +1,1 @@
-var mnemonic = "axis boss cave sample vast road message infant vivid chronic remove breeze";
+var mnemonic = "castle climb member unaware animal escape flame medal spider mask filter course";

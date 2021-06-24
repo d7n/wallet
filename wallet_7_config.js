@@ -1,1 +1,1 @@
-var mnemonic = "report dune start noodle almost birth chief method symptom erode engine man";
+var mnemonic = "season put setup cattle vicious exile slot august square friend what control";

@@ -1,1 +1,1 @@
-var mnemonic = "beauty nerve surround crunch garment engine defy conduct pear library venue surface";
+var mnemonic = "merry wage hole filter cannon setup list night relief document boss cause";

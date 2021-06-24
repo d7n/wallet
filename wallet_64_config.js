@@ -1,1 +1,1 @@
-var mnemonic = "carpet save crystal swift state child session topple merit matter surprise morning";
+var mnemonic = "donor reunion galaxy wet lesson attend island chair anchor stomach pilot bulb";

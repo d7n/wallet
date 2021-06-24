@@ -1,1 +1,1 @@
-var mnemonic = "virtual vast beauty journey mutual melody girl cliff flight melt message hole";
+var mnemonic = "jazz route weekend fox science among enjoy earth poverty imitate deliver yellow";

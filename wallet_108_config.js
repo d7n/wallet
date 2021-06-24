@@ -1,1 +1,1 @@
-var mnemonic = "dad gossip age audit enough invest cage rural wife annual shed unusual";
+var mnemonic = "gadget six brick liberty blast guess detail gown zoo fatigue version soldier";

@@ -1,1 +1,1 @@
-var mnemonic = "alley radio pattern lake girl doctor mixture smooth palm today toy shed";
+var mnemonic = "shrimp chunk foil together promote salmon episode short impulse cute used nuclear";

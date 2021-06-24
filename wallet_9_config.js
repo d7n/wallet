@@ -1,1 +1,1 @@
-var mnemonic = "sponsor manual spike toe vehicle mercy globe funny dress tuition firm try";
+var mnemonic = "game weather strike lazy frost long either zone tired dune nation provide";

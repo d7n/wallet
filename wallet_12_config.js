@@ -1,1 +1,1 @@
-var mnemonic = "baby want tribe history dose cabin depend begin bamboo hello link talk";
+var mnemonic = "nominee snake civil weasel gasp pelican cricket creek guard gadget unknown vintage";

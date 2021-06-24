@@ -1,1 +1,1 @@
-var mnemonic = "script talk develop supply waste leopard reward prize earn actual security silly";
+var mnemonic = "fashion north media lawn naive behave kingdom neither express wine debris two";

@@ -1,1 +1,1 @@
-var mnemonic = "access usage quit video jump resource accident gift enrich demise foam stone";
+var mnemonic = "town dress cry eager hood tattoo ankle shed label quantum mystery smile";

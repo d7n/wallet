@@ -1,1 +1,1 @@
-var mnemonic = "poem rotate cross antique outer velvet purity admit reform coin bridge pull";
+var mnemonic = "allow hunt club sand steel credit dune fan good anxiety jar answer";

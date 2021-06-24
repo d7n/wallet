@@ -1,1 +1,1 @@
-var mnemonic = "social minimum pull tent harsh else into visa predict payment awesome into";
+var mnemonic = "acoustic venue dutch salute trim remember scorpion treat soap cash mushroom joy";

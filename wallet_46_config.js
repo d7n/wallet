@@ -1,1 +1,1 @@
-var mnemonic = "tribe service output measure insect inhale song vacant buyer more shadow accident";
+var mnemonic = "speak park grunt tuna security mushroom trend card admit fish ancient better";

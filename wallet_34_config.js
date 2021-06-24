@@ -1,1 +1,1 @@
-var mnemonic = "quantum tool axis surge happy kid noise toddler accuse skull valley define";
+var mnemonic = "move frequent ugly only nerve urban river bullet south strategy merit hawk";

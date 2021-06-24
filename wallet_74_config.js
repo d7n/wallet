@@ -1,1 +1,1 @@
-var mnemonic = "slogan just oak melt initial leader board scene mom pull unlock what";
+var mnemonic = "bunker home crime nice crop excess paddle actor crazy toward gaze dirt";

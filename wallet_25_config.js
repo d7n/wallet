@@ -1,1 +1,1 @@
-var mnemonic = "impose inch payment orbit lazy debris squeeze crater once shift skin notice";
+var mnemonic = "damp image ethics walnut burst blind struggle range trap cross reason plunge";

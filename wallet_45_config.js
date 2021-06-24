@@ -1,1 +1,1 @@
-var mnemonic = "push sponsor inherit permit roof wage record hybrid physical oxygen coil rotate";
+var mnemonic = "basic fold enhance tide father hurry soon nuclear immense demand chicken giraffe";

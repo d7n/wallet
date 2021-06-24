@@ -1,1 +1,1 @@
-var mnemonic = "mammal skirt avoid topic ginger pave lunar spoon oyster cram stadium pass";
+var mnemonic = "solution banner antenna glow choice bring analyst clutch gold speed evil suit";

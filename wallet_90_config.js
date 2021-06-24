@@ -1,1 +1,1 @@
-var mnemonic = "final ball audit arrange immune blouse garment faith armor random fatal anxiety";
+var mnemonic = "foam iron grape submit identify knock boost cruise crazy need album kite";

@@ -1,1 +1,1 @@
-var mnemonic = "boat guard early clerk scan top gentle purity eight strategy indicate almost";
+var mnemonic = "layer mystery glory suggest twist measure silver fortune interest soon rice essence";

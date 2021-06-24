@@ -1,1 +1,1 @@
-var mnemonic = "wide slice flee solution enter man reject fresh again step cheese hat";
+var mnemonic = "fit crop knife sunset title venture lake liquid glare around captain spawn";

@@ -1,1 +1,1 @@
-var mnemonic = "cage retire welcome equal rather suspect business can easily clump glare pledge";
+var mnemonic = "keep smoke stage island dinosaur people today undo wall whale grunt swing";

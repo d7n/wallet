@@ -1,1 +1,1 @@
-var mnemonic = "transfer train grit pottery mistake use grass river tower rifle merit trip";
+var mnemonic = "enroll save abstract tonight bird more section zoo divert pulp tattoo sadness";

@@ -1,1 +1,1 @@
-var mnemonic = "debris bid reflect pelican quiz foot master asset gaze faith sight spirit";
+var mnemonic = "bird humor prosper property midnight sheriff smooth skin heart east guide lava";

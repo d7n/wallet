@@ -1,1 +1,1 @@
-var mnemonic = "host cook shed arrange bone twice loud tag system pretty prosper ridge";
+var mnemonic = "oblige vast miracle audit ramp quiz verb yard soap pride oven bulb";

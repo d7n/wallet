@@ -1,1 +1,1 @@
-var mnemonic = "absent upper gospel oval bomb course phrase coast hockey lizard spin type";
+var mnemonic = "hold creek enact cousin better wife trophy trade memory leaf element position";

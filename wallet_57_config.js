@@ -1,1 +1,1 @@
-var mnemonic = "shy oak subway ice gossip busy blame cram enforce mushroom approve vacuum";
+var mnemonic = "wet jazz cliff warrior fork country size inflict rural short tide fee";

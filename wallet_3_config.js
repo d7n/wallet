@@ -1,1 +1,1 @@
-var mnemonic = "ridge uncover type demand pond royal sick quality mirror hold nasty trust";
+var mnemonic = "dream lens dry merge luxury source visa front middle avoid unlock animal";

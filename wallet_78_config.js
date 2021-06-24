@@ -1,1 +1,1 @@
-var mnemonic = "multiply fee oven ordinary assault owner spot when tank analyst tumble coral";
+var mnemonic = "extend aspect travel garment cinnamon permit embrace oxygen useless way prize exact";

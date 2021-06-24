@@ -1,1 +1,1 @@
-var mnemonic = "wealth sock grunt model pepper comfort potato case soda coyote simple canvas";
+var mnemonic = "patient mercy equal palace spawn connect rib attitude job sibling math frequent";

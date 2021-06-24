@@ -1,1 +1,1 @@
-var mnemonic = "fit pair paddle odor field rebuild potato soda sunny repeat useful beyond";
+var mnemonic = "evil awful merry aspect desk orange flower lazy margin vocal slender crumble";

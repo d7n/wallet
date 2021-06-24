@@ -1,1 +1,1 @@
-var mnemonic = "wait casual chapter alien rhythm kitchen seek engage light bamboo size because";
+var mnemonic = "disease duck slam figure picnic tide world butter hen clock rich replace";

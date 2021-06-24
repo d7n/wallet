@@ -1,1 +1,1 @@
-var mnemonic = "palace step inherit panel walk urge turtle habit increase damp neglect civil";
+var mnemonic = "mimic any radio era squirrel genuine stock flee clever pair runway dignity";

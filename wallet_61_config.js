@@ -1,1 +1,1 @@
-var mnemonic = "crane inquiry erode void start decide marble require jewel march grunt frost";
+var mnemonic = "april together lend token monitor add tortoise better submit grant help oven";

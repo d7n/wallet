@@ -1,1 +1,1 @@
-var mnemonic = "eye such primary number era toddler industry very surface gym moment staff";
+var mnemonic = "chimney proof season oxygen load pride romance expire dust angle tower earth";

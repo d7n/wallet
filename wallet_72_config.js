@@ -1,1 +1,1 @@
-var mnemonic = "gallery acoustic stamp school actress slim close snake pool license hard truck";
+var mnemonic = "aim sleep enforce never artist budget matter iron print excess cannon success";

@@ -1,1 +1,1 @@
-var mnemonic = "magic crystal dust space fold south host merit just country elevator welcome";
+var mnemonic = "unaware property pretty hello palace blind shield jaguar coach great deny cinnamon";

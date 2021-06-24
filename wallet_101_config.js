@@ -1,1 +1,1 @@
-var mnemonic = "genius mix push large search cherry tongue lounge nest hole quality burst";
+var mnemonic = "also pole matter exchange goat fly win taste vivid orphan oxygen tilt";

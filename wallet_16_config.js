@@ -1,1 +1,1 @@
-var mnemonic = "short fix print weekend electric moon industry motion yellow coffee aim agent";
+var mnemonic = "taste razor august also achieve wolf slow quiz sea glare parade drip";

@@ -1,1 +1,1 @@
-var mnemonic = "usage hello deputy good labor buffalo solve visa unhappy false charge junk";
+var mnemonic = "cousin nephew ozone type favorite announce term price lucky spice language crawl";

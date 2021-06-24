@@ -1,1 +1,1 @@
-var mnemonic = "exact owner cattle keen defense celery vessel bullet text where icon dream";
+var mnemonic = "unfold repeat polar journey jump edit mistake century torch rich inform private";

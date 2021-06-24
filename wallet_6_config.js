@@ -1,1 +1,1 @@
-var mnemonic = "wreck wrap glove bundle already wrist merry behind unveil punch dream mirror";
+var mnemonic = "rocket problem wasp height apology audit unit elephant verb nest grid soap";

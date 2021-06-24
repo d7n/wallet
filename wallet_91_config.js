@@ -1,1 +1,1 @@
-var mnemonic = "announce tongue farm nominee during bracket knock tell blur derive mom there";
+var mnemonic = "bread current wrong beach reflect focus almost fiber into observe speed exclude";

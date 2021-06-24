@@ -1,1 +1,1 @@
-var mnemonic = "retreat discover kick start cancel awesome all nut voice size toddler victory";
+var mnemonic = "shoot draft series river slice shoot opinion fat rescue tip place transfer";

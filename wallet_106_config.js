@@ -1,1 +1,1 @@
-var mnemonic = "evolve source battle rent chunk grunt usage thunder shell client trip forest";
+var mnemonic = "jealous fatigue situate hand solid seven skill absent current scorpion clever know";

@@ -1,1 +1,1 @@
-var mnemonic = "engage very width any ignore main spirit sadness have squeeze argue blush";
+var mnemonic = "fitness veteran goddess motor divorce picnic cabbage happy just project pelican exile";

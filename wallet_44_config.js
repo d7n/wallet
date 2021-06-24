@@ -1,1 +1,1 @@
-var mnemonic = "awkward farm alley logic little staff tobacco box gain stick involve canyon";
+var mnemonic = "nuclear always auto purchase panda endorse render flag tiger urban casual name";

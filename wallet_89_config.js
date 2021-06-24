@@ -1,1 +1,1 @@
-var mnemonic = "weasel gift shoe exile move glance stamp enable auto kiss exhibit liquid";
+var mnemonic = "media scissors large make cry decline term blind defense provide trip crash";

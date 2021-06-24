@@ -1,1 +1,1 @@
-var mnemonic = "cruel melody into gaze crush refuse fox act office stick escape anger";
+var mnemonic = "rude raw solution blanket fancy recipe autumn fringe welcome sorry trigger left";

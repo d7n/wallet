@@ -1,1 +1,1 @@
-var mnemonic = "season broccoli save east hole stove lady jazz word immense salon swift";
+var mnemonic = "spoon skull axis clinic manage amused someone ozone inner order dash young";

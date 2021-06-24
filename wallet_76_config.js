@@ -1,1 +1,1 @@
-var mnemonic = "peanut mention anxiety physical genius toilet canyon lamp ritual lobster lottery east";
+var mnemonic = "mammal harsh supreme forward fan divide large kidney retire chuckle vast fit";

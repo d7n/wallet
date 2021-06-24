@@ -1,1 +1,1 @@
-var mnemonic = "armed tower now exit hover peanut oil damage nest alter destroy match";
+var mnemonic = "hedgehog wear nerve lend moral door snap family brand salt cabbage worry";

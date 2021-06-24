@@ -1,1 +1,1 @@
-var mnemonic = "solution emotion vessel main frost orange vague february leopard foot churn useless";
+var mnemonic = "urban clutch account flame law ordinary square coconut manual emotion include equal";

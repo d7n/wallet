@@ -1,1 +1,1 @@
-var mnemonic = "era draft light wash mean chicken dutch enact sound valve wood much";
+var mnemonic = "soup duty saddle clutch goddess fatigue crane table loyal grit empty diet";

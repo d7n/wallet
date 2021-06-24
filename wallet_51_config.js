@@ -1,1 +1,1 @@
-var mnemonic = "talk panda upon actress derive giggle inject toy round century green unit";
+var mnemonic = "better assume oxygen slim sun because real daughter panic voyage dune tube";

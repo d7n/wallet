@@ -1,1 +1,1 @@
-var mnemonic = "goose ability ripple heart gadget robot add powder sponsor champion dolphin grunt";
+var mnemonic = "swap fiction envelope stereo wash sea scan cloud example talent service toss";

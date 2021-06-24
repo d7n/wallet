@@ -1,1 +1,1 @@
-var mnemonic = "umbrella dove elegant shell immense arm symptom antique globe fiction dog punch";
+var mnemonic = "insane liquid amount gasp student glass faculty ski cliff brand naive aim";

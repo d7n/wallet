@@ -1,1 +1,1 @@
-var mnemonic = "proof hedgehog empower river ranch ride diamond rich claw hint local undo";
+var mnemonic = "gaze pyramid exchange swamp forum trim lesson avoid much day secret funny";

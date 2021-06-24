@@ -1,1 +1,1 @@
-var mnemonic = "catalog trip radar bird decade pitch impact expire divorce brother fabric nurse";
+var mnemonic = "mind nasty squeeze load crack know lawsuit tobacco purse quote sting actor";

@@ -1,1 +1,1 @@
-var mnemonic = "robot want cheese mixed evidence fetch put naive final shell seed middle";
+var mnemonic = "author outdoor rail forum three oyster nation candy coil garden habit crop";

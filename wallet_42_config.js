@@ -1,1 +1,1 @@
-var mnemonic = "bronze mail hat fox champion hole toy finish wrestle clog veteran concert";
+var mnemonic = "march burger brown peace bring token combine coyote world teach lottery hazard";

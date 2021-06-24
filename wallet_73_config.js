@@ -1,1 +1,1 @@
-var mnemonic = "two grape weird what method orange intact shoe glad reflect pottery table";
+var mnemonic = "soon aerobic unlock orange soft quick truth actress keep surface mesh little";

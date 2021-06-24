@@ -1,1 +1,1 @@
-var mnemonic = "phone salute blood ski riot fiber buyer air just common prepare submit";
+var mnemonic = "potato dinosaur motor once erase lady brain employ turtle access excite tuna";

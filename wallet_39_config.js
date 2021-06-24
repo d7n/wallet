@@ -1,1 +1,1 @@
-var mnemonic = "banner dinosaur art arm submit nurse become six kitchen dog wisdom cute";
+var mnemonic = "absurd potato congress retreat fire journey wife measure material just scan trouble";

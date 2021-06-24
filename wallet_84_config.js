@@ -1,1 +1,1 @@
-var mnemonic = "token also farm sentence loop connect twist outer time bless boss various";
+var mnemonic = "acid frog swing absent cloth inquiry can armed bitter clever connect matter";

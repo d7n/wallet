@@ -1,1 +1,1 @@
-var mnemonic = "total diary crowd until sunset tail just ten warrior shrug airport advance";
+var mnemonic = "enforce wagon file swamp will produce fragile any private cushion atom initial";

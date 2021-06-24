@@ -1,1 +1,1 @@
-var mnemonic = "cool half loud enjoy scissors focus steel slice huge champion beyond group";
+var mnemonic = "front rule between destroy pipe north thank silk lock parade ill dash";

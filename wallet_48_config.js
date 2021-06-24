@@ -1,1 +1,1 @@
-var mnemonic = "elephant reunion stadium eye trumpet upon story once arch orange heavy ride";
+var mnemonic = "symptom fun bullet word weapon wedding casino fix agent message puppy what";

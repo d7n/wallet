@@ -1,1 +1,1 @@
-var mnemonic = "transfer purchase assume render clap claim warrior extra fortune bubble toilet foam";
+var mnemonic = "okay drop clump version medal island physical rapid oppose limb creek dilemma";

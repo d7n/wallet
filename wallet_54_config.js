@@ -1,1 +1,1 @@
-var mnemonic = "quick insane romance laugh kite winner avocado claw fox regret rib hunt";
+var mnemonic = "upgrade liquid pupil lizard decorate grain cute total affair fog simple table";

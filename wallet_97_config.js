@@ -1,1 +1,1 @@
-var mnemonic = "immense siren consider dune offer away neutral gossip man royal kangaroo between";
+var mnemonic = "budget initial solar donor project gauge color child daughter spare siege now";

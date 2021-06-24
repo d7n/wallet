@@ -1,1 +1,1 @@
-var mnemonic = "income secret hint eye banana melt observe century scout appear job butter";
+var mnemonic = "luggage there market soda uphold hotel such close detail save bachelor dog";

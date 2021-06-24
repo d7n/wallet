@@ -1,1 +1,1 @@
-var mnemonic = "gesture month sleep corn excuse win wasp steak want submit vote ivory";
+var mnemonic = "draw ethics inside carry renew orphan room junk oak rude dog cactus";

@@ -1,1 +1,1 @@
-var mnemonic = "dress shoot promote kind diamond fruit surround stand hybrid poet anxiety wild";
+var mnemonic = "burden interest extend cook huge try supreme robust erode popular plastic moon";

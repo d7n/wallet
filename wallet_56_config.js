@@ -1,1 +1,1 @@
-var mnemonic = "flock canoe used relax edit cushion alcohol office genius brush pull spare";
+var mnemonic = "spin total split together hockey detail depend cage slice veteran swarm step";

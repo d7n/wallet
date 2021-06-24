@@ -1,1 +1,1 @@
-var mnemonic = "oxygen skin planet inherit foster angle water horse bread repair hero blossom";
+var mnemonic = "tortoise void advice top brain this strategy gauge egg nature convince ethics";

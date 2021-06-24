@@ -1,1 +1,1 @@
-var mnemonic = "spring wheel rabbit bitter sorry monitor deny fit able siren champion guilt";
+var mnemonic = "add define concert mountain equip pause manual subject barely uniform pass company";

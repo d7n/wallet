@@ -1,1 +1,1 @@
-var mnemonic = "indicate vivid potato album sand fortune narrow fantasy edge dilemma always spirit";
+var mnemonic = "mountain tobacco churn awkward morning sample disease crunch obtain stem figure page";

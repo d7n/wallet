@@ -1,1 +1,1 @@
-var mnemonic = "theme suit once sponsor glove retire prepare cereal dumb gospel tissue negative";
+var mnemonic = "busy embrace gallery deal day artefact doctor cliff rural miracle salad there";

@@ -1,1 +1,1 @@
-var mnemonic = "neutral sand artwork volume earn addict congress garden order aisle rude word";
+var mnemonic = "save tomorrow vessel fancy together dream farm radar affair language million around";

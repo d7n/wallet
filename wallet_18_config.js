@@ -1,1 +1,1 @@
-var mnemonic = "cash suggest glue settle chuckle book mystery rhythm what dish patch year";
+var mnemonic = "cycle attend penalty recall ghost basket crime donor access lunch city include";

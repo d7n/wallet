@@ -1,1 +1,1 @@
-var mnemonic = "toy theory cruise absent oven security humble valley bundle trust scare knock";
+var mnemonic = "play trash goose north relax goddess enemy mandate ordinary goddess stove arena";

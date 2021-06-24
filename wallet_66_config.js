@@ -1,1 +1,1 @@
-var mnemonic = "loan tortoise frame donate same oak decline public fat cube glad track";
+var mnemonic = "coil frequent glove arrow flag enact clip release tooth noodle pond toe";

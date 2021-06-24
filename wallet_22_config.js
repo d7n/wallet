@@ -1,1 +1,1 @@
-var mnemonic = "cherry fancy fish another peasant almost stable rookie reveal soda oven piece";
+var mnemonic = "supply clap siren circle view elite picture keep chimney turtle thrive rapid";

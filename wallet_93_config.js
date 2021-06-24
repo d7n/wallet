@@ -1,1 +1,1 @@
-var mnemonic = "like soon degree also glass photo grape skill elder license fringe top";
+var mnemonic = "hood liberty nature sign much aware run direct crash script ethics three";
