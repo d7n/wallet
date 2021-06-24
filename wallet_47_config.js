@@ -1,1 +1,1 @@
-var mnemonic = "fringe genius donor recycle sick ticket grain cloud swift enlist auction drama";
+var mnemonic = "catch world reject satoshi laptop hole teach vault wink hole fortune lend";

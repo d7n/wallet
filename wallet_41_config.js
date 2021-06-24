@@ -1,1 +1,1 @@
-var mnemonic = "barrel festival asthma jungle example usual cycle cart climb predict reform curve";
+var mnemonic = "rice novel tribe police panda language water scan razor vocal slogan program";

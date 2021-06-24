@@ -1,1 +1,1 @@
-var mnemonic = "urge glide other myself cattle promote street correct abstract figure champion toy";
+var mnemonic = "ladder across illegal math announce toddler dust bus endorse library kite fiction";

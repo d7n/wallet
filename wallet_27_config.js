@@ -1,1 +1,1 @@
-var mnemonic = "joke embark penalty record color whale monitor fatigue symbol gift three shell";
+var mnemonic = "distance kind strong horse length moment sense glad sword travel duty thought";

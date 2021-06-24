@@ -1,1 +1,1 @@
-var mnemonic = "rally infant merge early music confirm ball sunny mechanic distance leader void";
+var mnemonic = "guilt above off onion jealous mushroom submit exotic trend various able squeeze";

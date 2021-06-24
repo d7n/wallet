@@ -1,1 +1,1 @@
-var mnemonic = "supreme total mystery fall club depend puppy quote often ecology link flee";
+var mnemonic = "yard catch embrace protect anxiety burst multiply daughter orphan cluster illegal soon";

@@ -1,1 +1,1 @@
-var mnemonic = "trick trend wedding ginger match photo only tired clarify usual man transfer";
+var mnemonic = "dinner coach occur swing vague venture cruel girl bind fault cigar shy";

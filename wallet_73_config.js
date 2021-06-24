@@ -1,1 +1,1 @@
-var mnemonic = "cave upper maximum culture ripple bamboo regret omit sunny side shallow fiscal";
+var mnemonic = "cereal leg width van cook sell assault follow just exercise metal moral";

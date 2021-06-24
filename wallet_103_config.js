@@ -1,1 +1,1 @@
-var mnemonic = "paddle normal admit range upset faculty member spice vote hint work tiger";
+var mnemonic = "chalk silly net cable metal price problem also now flavor grant spy";

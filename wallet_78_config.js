@@ -1,1 +1,1 @@
-var mnemonic = "million drama plug provide sentence wealth science valid glue wagon flight acoustic";
+var mnemonic = "isolate powder ahead ask shoot antenna opera diagram attend kid fatal captain";

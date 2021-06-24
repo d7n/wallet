@@ -1,1 +1,1 @@
-var mnemonic = "promote dune view water limit bid season jar wedding raise genius session";
+var mnemonic = "miss sunset tail engage connect like olympic bounce card toy vacuum obtain";

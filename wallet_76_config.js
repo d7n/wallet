@@ -1,1 +1,1 @@
-var mnemonic = "insane quick thunder head must tag enhance room staff slot ensure loan";
+var mnemonic = "assist purity whip arrange wrestle scene coach smile easy setup very wife";

@@ -1,1 +1,1 @@
-var mnemonic = "blouse sad trash rose ginger ski sphere begin castle upset loyal blanket";
+var mnemonic = "balance walnut brain raise ring syrup valley topic illness left fuel glory";

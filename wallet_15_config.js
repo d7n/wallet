@@ -1,1 +1,1 @@
-var mnemonic = "arm ticket kangaroo immune ship split battle furnace rhythm vicious dynamic junk";
+var mnemonic = "history fix lawsuit unfold review echo whisper rocket course movie tennis lock";

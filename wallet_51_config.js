@@ -1,1 +1,1 @@
-var mnemonic = "erupt rotate matrix mountain exchange frequent simple shiver dynamic photo best neither";
+var mnemonic = "nest voyage aunt blouse document swim shoot wink bicycle fetch smooth job";

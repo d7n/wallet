@@ -1,1 +1,1 @@
-var mnemonic = "program dirt more fuel disagree you obtain figure animal degree wedding poet";
+var mnemonic = "album doll mail cycle rose action nation actual energy fetch dune goat";

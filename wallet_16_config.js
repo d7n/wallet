@@ -1,1 +1,1 @@
-var mnemonic = "faint wood gown father rice ozone about deputy air inhale sister laundry";
+var mnemonic = "medal helmet thing material world stick hub cancel wet exile arctic grant";

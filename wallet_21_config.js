@@ -1,1 +1,1 @@
-var mnemonic = "modify topic bonus vicious exist tenant advice obtain miracle shell plastic neutral";
+var mnemonic = "harvest master embark gallery ozone pattern ticket junior size hobby run next";

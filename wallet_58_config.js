@@ -1,1 +1,1 @@
-var mnemonic = "zone shallow style sudden deny various impose render false twist win match";
+var mnemonic = "become two kitchen range gloom head shift dust soul debate miss sort";

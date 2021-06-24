@@ -1,1 +1,1 @@
-var mnemonic = "load indicate mesh tragic few now ancient fashion outdoor sea galaxy human";
+var mnemonic = "teach modify galaxy spawn split index very sketch trip must cloud dove";

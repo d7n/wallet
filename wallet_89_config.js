@@ -1,1 +1,1 @@
-var mnemonic = "embark fluid tunnel grid element rain response fold flight deer hello warm";
+var mnemonic = "process quality tool elevator alter term solid junk always oil when fish";

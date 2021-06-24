@@ -1,1 +1,1 @@
-var mnemonic = "over august pledge game amused eight bird become bean float hazard service";
+var mnemonic = "taste team planet judge olive arm dutch practice ethics grass boat clerk";

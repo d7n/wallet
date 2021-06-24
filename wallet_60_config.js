@@ -1,1 +1,1 @@
-var mnemonic = "dumb vendor stone output amazing bachelor swarm decade electric chef romance kind";
+var mnemonic = "subway plug fly equip immune shell where total blast twin crater eagle";

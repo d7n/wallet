@@ -1,1 +1,1 @@
-var mnemonic = "expire child poet blame trap fabric scissors erosion spend pyramid usual change";
+var mnemonic = "sign team woman alter labor pair merry boring home fault axis youth";

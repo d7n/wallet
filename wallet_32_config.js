@@ -1,1 +1,1 @@
-var mnemonic = "spike track worry memory sudden crater ice double since original dinner fury";
+var mnemonic = "velvet gentle torch onion rapid panther purchase nose chair crowd afford hazard";

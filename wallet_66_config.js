@@ -1,1 +1,1 @@
-var mnemonic = "window repeat below elegant flower recall auto gloom grief civil rural climb";
+var mnemonic = "alcohol honey boost link hobby junk artwork stuff faint state wood alone";

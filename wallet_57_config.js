@@ -1,1 +1,1 @@
-var mnemonic = "rice wreck picnic shuffle man wall one canal illness desert script champion";
+var mnemonic = "toe tag track eyebrow trap cricket draw east private chapter grief rescue";

@@ -1,1 +1,1 @@
-var mnemonic = "often atom hill link nature forward minor during bacon question mouse summer";
+var mnemonic = "surface melody oxygen danger reform pulse pull salad danger fantasy sport six";

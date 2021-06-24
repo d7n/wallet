@@ -1,1 +1,1 @@
-var mnemonic = "say praise awake half base loan curve cube unhappy dentist this exchange";
+var mnemonic = "resist banana evoke grape fortune amazing desk exotic deputy magic broken result";

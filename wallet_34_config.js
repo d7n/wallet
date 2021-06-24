@@ -1,1 +1,1 @@
-var mnemonic = "common leopard matter social paddle moment odor family job actress cannon equip";
+var mnemonic = "maid renew resemble cake main achieve dance utility crawl chef session side";

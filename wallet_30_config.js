@@ -1,1 +1,1 @@
-var mnemonic = "minor minute illegal pottery relief measure rent smoke flight brown now critic";
+var mnemonic = "clip spider diesel render strong life tomorrow spike elevator mansion track mask";

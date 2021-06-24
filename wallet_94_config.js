@@ -1,1 +1,1 @@
-var mnemonic = "proud bubble goddess accident spring drift monkey bag claim scrap teach swim";
+var mnemonic = "only retire mystery twist power label just beef concert left crunch trade";

@@ -1,1 +1,1 @@
-var mnemonic = "mountain alert vessel cycle hundred affair fancy man nephew equip couple script";
+var mnemonic = "legal lottery blossom lift forget hotel vital voice lake cricket body boat";

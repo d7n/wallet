@@ -1,1 +1,1 @@
-var mnemonic = "destroy practice shiver mixed atom lemon tent notable hunt nurse sniff water";
+var mnemonic = "slight embark sing merry patch embody hair wise flock address direct bounce";

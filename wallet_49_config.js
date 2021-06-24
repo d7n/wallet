@@ -1,1 +1,1 @@
-var mnemonic = "unknown spy million discover frog chalk giggle near gym fossil beef attitude";
+var mnemonic = "rice sausage merry damp medal acid gain true coffee chest session worry";

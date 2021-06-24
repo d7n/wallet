@@ -1,1 +1,1 @@
-var mnemonic = "shoe start ugly topic angle urge fabric tent coyote antenna neck horror";
+var mnemonic = "open zone ginger acoustic castle shoulder interest burst creek victory grief pair";

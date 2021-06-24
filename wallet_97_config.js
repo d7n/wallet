@@ -1,1 +1,1 @@
-var mnemonic = "option category one congress defy place weather dream tongue remain purchase glove";
+var mnemonic = "message absent amount hurry tomorrow together iron neither avocado modify empty inch";

@@ -1,1 +1,1 @@
-var mnemonic = "wrong close emerge foot rural typical fine chair wall adapt found still";
+var mnemonic = "air task state pistol capital subway warfare arrow abandon thunder beach theme";

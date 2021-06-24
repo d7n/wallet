@@ -1,1 +1,1 @@
-var mnemonic = "salad flavor law joke galaxy snake blanket front lens taste van lemon";
+var mnemonic = "until auction riot auto pluck juice wedding blur resist exhibit real wear";

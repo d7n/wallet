@@ -1,1 +1,1 @@
-var mnemonic = "pizza dawn dad under already link forum spread replace sea plug marriage";
+var mnemonic = "riot benefit name cave congress mammal more feed update cliff expand artwork";

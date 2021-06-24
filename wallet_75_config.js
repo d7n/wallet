@@ -1,1 +1,1 @@
-var mnemonic = "airport theory trick artwork midnight romance giggle aspect feature episode cupboard cloud";
+var mnemonic = "magnet ready recipe labor casino jelly veteran grief slot power ankle wrestle";

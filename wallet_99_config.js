@@ -1,1 +1,1 @@
-var mnemonic = "adjust parrot sport grant dignity advice scissors expose current laptop hero erosion";
+var mnemonic = "exhibit dilemma swamp waste miracle grass member speak knife setup endless tube";

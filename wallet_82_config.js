@@ -1,1 +1,1 @@
-var mnemonic = "loan grit clutch light vote flavor parrot blur vibrant cement unaware gown";
+var mnemonic = "champion wine sustain morning siren regret polar teach subject earth rough monster";

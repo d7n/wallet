@@ -1,1 +1,1 @@
-var mnemonic = "orange giraffe wet heart job tackle barely truth ball timber lady glide";
+var mnemonic = "tattoo evil shield crucial burden gauge scissors effort click minimum order grief";

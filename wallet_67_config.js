@@ -1,1 +1,1 @@
-var mnemonic = "more across gaze satoshi bracket fragile awesome prepare taste twenty suit illegal";
+var mnemonic = "expire small bullet priority supply proud thrive someone cactus color off spend";

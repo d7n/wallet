@@ -1,1 +1,1 @@
-var mnemonic = "pen mutual swift chest brother sunny obey stadium palm season process tube";
+var mnemonic = "bright club canoe dose basket remind flower ice eternal filter drive noodle";

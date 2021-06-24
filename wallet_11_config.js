@@ -1,1 +1,1 @@
-var mnemonic = "dust axis inspire toe picture visa focus lava box infant champion draft";
+var mnemonic = "any melody wealth crane moment original oxygen small tail coach silent buddy";

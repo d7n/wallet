@@ -1,1 +1,1 @@
-var mnemonic = "crazy jaguar cry dutch age soon drill asset gospel tobacco heavy right";
+var mnemonic = "atom envelope simple mother boy regret banner photo try tip glass midnight";

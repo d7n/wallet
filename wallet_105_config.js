@@ -1,1 +1,1 @@
-var mnemonic = "ridge skin rich code try pottery pilot accident release beyond flight power";
+var mnemonic = "cook sunset city beyond base fluid divorce hockey surprise hard accuse lion";

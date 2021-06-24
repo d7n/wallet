@@ -1,1 +1,1 @@
-var mnemonic = "pride habit mom hockey simple fog happy valley enough before ticket client";
+var mnemonic = "umbrella proud zone auto trade barely punch sail fee coffee elegant patient";

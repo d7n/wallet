@@ -1,1 +1,1 @@
-var mnemonic = "goddess topic solution brave toast grape weapon orphan cradle involve double twenty";
+var mnemonic = "crush brief nest alpha battle nurse wire pencil language clean during mom";

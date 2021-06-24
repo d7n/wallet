@@ -1,1 +1,1 @@
-var mnemonic = "few jewel rival clump scene cream sadness person three true hard stool";
+var mnemonic = "flash idea picnic tennis actual math crack dress peasant few teach key";

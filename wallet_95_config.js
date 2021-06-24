@@ -1,1 +1,1 @@
-var mnemonic = "scrub leisure brick napkin rent consider frost bachelor license maze social inform";
+var mnemonic = "neglect risk cluster update wish razor pelican own deny giggle vibrant famous";

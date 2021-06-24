@@ -1,1 +1,1 @@
-var mnemonic = "daughter receive warfare pulp team crazy another select offer include picnic clever";
+var mnemonic = "capital attitude regret fever prevent give pioneer grit citizen glad winner logic";

@@ -1,1 +1,1 @@
-var mnemonic = "ginger token luxury festival artwork clinic satoshi fade thing tackle pigeon unit";
+var mnemonic = "photo dice use crop unit exotic wasp raccoon swallow rather exact sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "arrow stumble flash kite sleep hard make speed dolphin monkey creek wide";
+var mnemonic = "hockey hobby ivory middle scorpion brush rack speed process monitor ghost guess";

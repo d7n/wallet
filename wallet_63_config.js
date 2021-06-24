@@ -1,1 +1,1 @@
-var mnemonic = "output piece nut avoid chronic harvest local order pattern turkey tennis stone";
+var mnemonic = "hurt valve coach fire hawk output cliff cloud orange true make slim";

@@ -1,1 +1,1 @@
-var mnemonic = "yellow tenant trick way choose float left fish ghost half toddler increase";
+var mnemonic = "mosquito confirm obey critic useful lab chef trap erase brand shield because";

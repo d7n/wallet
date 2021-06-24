@@ -1,1 +1,1 @@
-var mnemonic = "write note avocado flag practice hood magic boost remove air level mention";
+var mnemonic = "wheat girl trend vapor adapt tuition oven vendor average dose lamp panther";

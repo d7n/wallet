@@ -1,1 +1,1 @@
-var mnemonic = "width absorb version pupil joy urge stuff crack clean jacket mystery casino";
+var mnemonic = "rocket drop tower away obvious radio slogan coast tuna pact typical slogan";

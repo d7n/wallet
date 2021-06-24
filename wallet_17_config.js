@@ -1,1 +1,1 @@
-var mnemonic = "trap fossil quantum naive tunnel drive apart pipe move mind amateur argue";
+var mnemonic = "rookie thunder biology human leave actor trap describe recipe detail inform own";

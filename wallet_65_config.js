@@ -1,1 +1,1 @@
-var mnemonic = "dumb settle cushion camp lesson beauty bleak raven hedgehog captain enforce letter";
+var mnemonic = "final display lawsuit worth tourist casual base toy powder ozone kidney boil";

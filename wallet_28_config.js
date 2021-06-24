@@ -1,1 +1,1 @@
-var mnemonic = "broom wear kingdom rail game reward enhance afraid inspire surprise surround admit";
+var mnemonic = "food lawsuit device average smooth laptop portion price cake meat joy angle";

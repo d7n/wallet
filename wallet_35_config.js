@@ -1,1 +1,1 @@
-var mnemonic = "chief result gentle torch attitude husband annual describe afraid report asthma sand";
+var mnemonic = "retire cushion artwork crystal artefact scissors cricket enhance crouch cause student nice";

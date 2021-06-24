@@ -1,1 +1,1 @@
-var mnemonic = "denial maid forward dolphin seven parade bamboo ball around fiscal element elegant";
+var mnemonic = "loan way hero cigar photo minor aspect catch layer bean poverty miss";

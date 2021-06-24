@@ -1,1 +1,1 @@
-var mnemonic = "vanish above feature portion noodle tunnel risk endorse ensure next mountain law";
+var mnemonic = "gain convince crystal hope tennis stomach charge void coast custom zebra entry";

@@ -1,1 +1,1 @@
-var mnemonic = "sheriff twelve total drastic blast subject planet rib candy diary exchange quality";
+var mnemonic = "small illegal way upon main quarter toddler diary service raccoon butter lesson";

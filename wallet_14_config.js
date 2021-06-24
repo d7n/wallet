@@ -1,1 +1,1 @@
-var mnemonic = "street card sorry normal boss lift increase rich nerve unhappy jungle drift";
+var mnemonic = "divorce patient raw raw index north despair before tongue govern tonight warfare";

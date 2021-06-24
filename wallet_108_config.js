@@ -1,1 +1,1 @@
-var mnemonic = "easy length text manual couple gorilla region accident force physical garlic breeze";
+var mnemonic = "humble spin foster liar junk figure team happy glory seek weather parade";

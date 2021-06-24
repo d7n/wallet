@@ -1,1 +1,1 @@
-var mnemonic = "flip column doll young outer jungle latin repair trade round case spirit";
+var mnemonic = "young quarter pony purse other fury venue unfold spawn fire chase there";

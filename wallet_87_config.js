@@ -1,1 +1,1 @@
-var mnemonic = "vivid pear stumble south indoor craft gospel shed betray siege bunker search";
+var mnemonic = "slow emotion uniform fee connect emerge situate real sunny swear roast hint";

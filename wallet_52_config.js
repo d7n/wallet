@@ -1,1 +1,1 @@
-var mnemonic = "obey athlete cruise entry coin forest wild online act add entire laptop";
+var mnemonic = "badge opera heart blood love cabbage crack charge habit kit access puzzle";

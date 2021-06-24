@@ -1,1 +1,1 @@
-var mnemonic = "safe above problem tool diesel vapor valve device harvest trend dad auto";
+var mnemonic = "wonder demise frost carbon upon awesome anchor champion powder twenty pepper asthma";

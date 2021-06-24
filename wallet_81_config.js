@@ -1,1 +1,1 @@
-var mnemonic = "move moment pilot solve gorilla eagle heavy such exchange monster torch wagon";
+var mnemonic = "rate math depart effort master hunt busy barely alarm ridge retire tent";

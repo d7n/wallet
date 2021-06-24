@@ -1,1 +1,1 @@
-var mnemonic = "dismiss element segment board romance foot network impact stove fitness tank pretty";
+var mnemonic = "stuff puppy absurd throw fine drift crumble liberty coconut smooth mobile pony";

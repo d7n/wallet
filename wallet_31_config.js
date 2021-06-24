@@ -1,1 +1,1 @@
-var mnemonic = "repair goat baby mad flag increase few resist relax army search north";
+var mnemonic = "until boost before require fault draw major sock spring march guide open";

@@ -1,1 +1,1 @@
-var mnemonic = "mix body rate caught snake pen meat caught embrace erase soap exact";
+var mnemonic = "notice ice glide put account pupil message uncover assault amateur ceiling monkey";

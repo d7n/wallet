@@ -1,1 +1,1 @@
-var mnemonic = "orient jacket manual dismiss silent caught company eager echo rice snow bird";
+var mnemonic = "crouch simple replace holiday shiver bright similar blush wealth drop direct bind";

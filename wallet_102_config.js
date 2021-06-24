@@ -1,1 +1,1 @@
-var mnemonic = "cupboard believe skin net sorry mass jar proud ankle ride pottery source";
+var mnemonic = "teach fabric furnace vivid note wet jelly number snap menu text sight";

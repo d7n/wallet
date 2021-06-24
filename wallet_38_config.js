@@ -1,1 +1,1 @@
-var mnemonic = "fire lucky rice dirt road creek dawn bench cost believe present number";
+var mnemonic = "crouch snake novel average kick guard situate marine guilt mercy twice pill";

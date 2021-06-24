@@ -1,1 +1,1 @@
-var mnemonic = "jazz tattoo people almost follow hen birth draft kitchen glove prefer session";
+var mnemonic = "cactus pear slice crisp word twist release gun bless album fiber attitude";

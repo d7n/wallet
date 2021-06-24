@@ -1,1 +1,1 @@
-var mnemonic = "test start loop glory suggest pelican muffin pair shy agree have thumb";
+var mnemonic = "rice happy collect fire stay auction ship depart nuclear taxi sport typical";

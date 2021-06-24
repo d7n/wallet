@@ -1,1 +1,1 @@
-var mnemonic = "dumb shaft parent glue put thing reunion word large stool ankle tube";
+var mnemonic = "episode label twenty eager weapon script pet trigger job embark mobile cave";

@@ -1,1 +1,1 @@
-var mnemonic = "timber inject excuse army learn market record whale crew kitten business galaxy";
+var mnemonic = "point giggle candy crop stick tissue afraid permit vicious breeze snow field";

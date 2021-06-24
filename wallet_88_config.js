@@ -1,1 +1,1 @@
-var mnemonic = "pelican clever glow cotton novel artist arrive penalty hungry bind night rough";
+var mnemonic = "scan inflict season army teach matter moment strategy witness enrich polar chronic";

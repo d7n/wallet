@@ -1,1 +1,1 @@
-var mnemonic = "awesome clutch school egg student throw power flat wave blue veteran squeeze";
+var mnemonic = "daring miss wedding leopard story copper office twelve solve leopard process bleak";

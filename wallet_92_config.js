@@ -1,1 +1,1 @@
-var mnemonic = "actor cradle fury panther trip core whale soap solution cradle rubber orphan";
+var mnemonic = "remind west donkey garment car body avocado cupboard kingdom found fresh auction";

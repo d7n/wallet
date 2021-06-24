@@ -1,1 +1,1 @@
-var mnemonic = "sister juice energy hurdle latin caution quality turtle worry hero office limit";
+var mnemonic = "track bonus force unhappy million rice long eight viable bone rug pulse";

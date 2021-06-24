@@ -1,1 +1,1 @@
-var mnemonic = "common road turkey merge check ceiling tattoo dentist fiber panic later amount";
+var mnemonic = "end any carpet joy choose weird then rocket chimney midnight uncover sadness";

@@ -1,1 +1,1 @@
-var mnemonic = "march simple raccoon fade program myth immense charge relief pipe cloth nephew";
+var mnemonic = "car biology lens make reason motor want push express pulse plug reason";

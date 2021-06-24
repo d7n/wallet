@@ -1,1 +1,1 @@
-var mnemonic = "else edit dance front mountain satisfy merry confirm divorce spice cabbage member";
+var mnemonic = "smart flee peanut swift cat result enact seven corn early awkward siren";

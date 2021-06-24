@@ -1,1 +1,1 @@
-var mnemonic = "reopen music fuel rhythm tennis aerobic doctor scissors spider steel rookie profit";
+var mnemonic = "forest regular own fury assume february twin autumn drop powder basic fog";

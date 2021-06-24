@@ -1,1 +1,1 @@
-var mnemonic = "oppose frog area satoshi hockey climb inflict maze fashion manage penalty guard";
+var mnemonic = "wheel wash grain weapon fly need memory garage moral wisdom video sustain";

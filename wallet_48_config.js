@@ -1,1 +1,1 @@
-var mnemonic = "lab piece tomato stadium focus choose foil select sick distance else permit";
+var mnemonic = "true fiscal face suffer child soccer joke under salad execute vibrant syrup";

@@ -1,1 +1,1 @@
-var mnemonic = "ice drink series piano cannon digital ghost purchase engage very finger flower";
+var mnemonic = "grocery frozen love luggage tank exotic stereo ghost forest young stairs ribbon";
