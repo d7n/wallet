@@ -1,1 +1,1 @@
-var mnemonic = "dad lucky clarify stage dirt mesh badge moral genuine clutch nurse knife";
+var mnemonic = "luggage add travel meat gas guard stay picture loan announce calm bundle";

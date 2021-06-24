@@ -1,1 +1,1 @@
-var mnemonic = "garment reunion tennis loan capable success winter track athlete toss door happy";
+var mnemonic = "bounce suggest brush ethics praise raise urban stand brief tenant left flag";

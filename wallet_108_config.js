@@ -1,1 +1,1 @@
-var mnemonic = "replace witness sleep catch force quit caught hat solid bean animal increase";
+var mnemonic = "guide diamond guide faculty midnight rapid typical scrub ribbon royal retreat impact";

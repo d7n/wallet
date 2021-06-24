@@ -1,1 +1,1 @@
-var mnemonic = "purpose keep guitar flee flat payment luggage sort siege rough drink acid";
+var mnemonic = "dolphin mean void math donate tide thunder chicken trim napkin dilemma hen";

@@ -1,1 +1,1 @@
-var mnemonic = "feel lumber oppose magic play fetch print canoe end hip comic health";
+var mnemonic = "develop noodle cotton logic resource switch shallow next task verify vacant deposit";

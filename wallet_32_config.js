@@ -1,1 +1,1 @@
-var mnemonic = "tell sock gorilla myth milk syrup autumn wink alien admit cinnamon apart";
+var mnemonic = "sure detail attack spatial skull tumble oak wall budget juice clever toward";

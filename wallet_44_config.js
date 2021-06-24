@@ -1,1 +1,1 @@
-var mnemonic = "dove cannon over fan beyond alpha park during later orange frequent extend";
+var mnemonic = "seven rebel chef excite tone siege afford make menu camp route banana";

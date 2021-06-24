@@ -1,1 +1,1 @@
-var mnemonic = "drop repair drink pudding capable judge spoon sail wine sad animal clock";
+var mnemonic = "legal develop apart bench what body head keep resist prevent owner mixture";

@@ -1,1 +1,1 @@
-var mnemonic = "broom chef crush edge mosquito radio play spring mobile diet slim moon";
+var mnemonic = "phrase convince diary arch dumb pudding clock round never dice fiscal solution";

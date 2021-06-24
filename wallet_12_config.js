@@ -1,1 +1,1 @@
-var mnemonic = "birth valve teach answer pottery focus wait adjust time erode spoil yard";
+var mnemonic = "dinosaur float claw popular warrior plug minimum million lonely elephant doctor giant";

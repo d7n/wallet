@@ -1,1 +1,1 @@
-var mnemonic = "frozen bench gift guitar expire opera habit sound stove brand neither pear";
+var mnemonic = "trick under rifle bring off coyote soon idea deputy addict salmon patrol";

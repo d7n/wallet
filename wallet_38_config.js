@@ -1,1 +1,1 @@
-var mnemonic = "foster small census engage buddy shed scrap sudden lawsuit inject toilet will";
+var mnemonic = "country ozone fit picture sweet vivid amazing rib industry stamp matrix expose";

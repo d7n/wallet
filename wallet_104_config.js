@@ -1,1 +1,1 @@
-var mnemonic = "scrap north hen visit speed brave fresh river normal possible similar apple";
+var mnemonic = "payment cement special luxury nose nasty junk erase arena together material lottery";

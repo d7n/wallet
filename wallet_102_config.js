@@ -1,1 +1,1 @@
-var mnemonic = "fringe alley area crucial elbow burden lobster river sleep whip grunt frozen";
+var mnemonic = "force merit plate doctor dial cake style amazing sponsor neck save warfare";

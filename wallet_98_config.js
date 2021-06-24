@@ -1,1 +1,1 @@
-var mnemonic = "asthma bitter quarter host arctic party begin afford fabric duty kiss series";
+var mnemonic = "stage enter idea boy razor pizza alley smart urge gold isolate spoon";

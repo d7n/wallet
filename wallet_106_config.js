@@ -1,1 +1,1 @@
-var mnemonic = "render frozen amazing ribbon beauty caution perfect museum bag tape work ask";
+var mnemonic = "buffalo strategy trade exotic gossip token own cook sure short midnight mercy";

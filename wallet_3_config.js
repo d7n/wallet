@@ -1,1 +1,1 @@
-var mnemonic = "cup extra mother hybrid valid message crystal census all raven column tornado";
+var mnemonic = "noodle coral salmon kiwi force fiction half outer cradle hobby exile wolf";

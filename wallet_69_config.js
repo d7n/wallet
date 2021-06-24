@@ -1,1 +1,1 @@
-var mnemonic = "butter area mechanic solution remove coach bid cross stomach wealth analyst assume";
+var mnemonic = "stage digital wall debris gather sudden seven abstract evoke bread panda idle";

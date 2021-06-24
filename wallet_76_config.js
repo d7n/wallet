@@ -1,1 +1,1 @@
-var mnemonic = "issue potato blush level brush electric lunch choice design strike interest cabbage";
+var mnemonic = "alarm sunny north suspect divorce loyal cute ribbon poem virtual bamboo away";

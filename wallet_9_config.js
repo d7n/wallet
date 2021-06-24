@@ -1,1 +1,1 @@
-var mnemonic = "earth pet service mule essay someone devote puzzle clutch group amused unique";
+var mnemonic = "bacon fine mosquito liberty syrup soda surround now finger boy sniff frown";

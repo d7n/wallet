@@ -1,1 +1,1 @@
-var mnemonic = "member leaf symbol swear orchard stay catalog often reveal identify craft excess";
+var mnemonic = "utility quantum cactus spring pigeon robot announce roof dynamic spice wine retire";

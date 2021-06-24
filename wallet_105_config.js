@@ -1,1 +1,1 @@
-var mnemonic = "flash matter cram pioneer lemon income essence seek gap thunder detail file";
+var mnemonic = "question warm call sick sibling muscle person neither fun winter physical reveal";

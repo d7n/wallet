@@ -1,1 +1,1 @@
-var mnemonic = "patch blush citizen shell angle seek derive toward dismiss easy recipe erode";
+var mnemonic = "female cherry summer wonder obey old voyage forest tribe fury rotate awesome";

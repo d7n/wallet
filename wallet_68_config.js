@@ -1,1 +1,1 @@
-var mnemonic = "end garment couch kind rib clump offer marriage evidence antenna field name";
+var mnemonic = "chest option gym strike veteran close velvet group involve coin volcano shrimp";

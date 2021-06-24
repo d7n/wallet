@@ -1,1 +1,1 @@
-var mnemonic = "marriage dress popular pulp swing then edge make able educate today verb";
+var mnemonic = "sausage picture purpose item away mail soup limb ribbon shrimp morning clip";

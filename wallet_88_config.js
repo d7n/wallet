@@ -1,1 +1,1 @@
-var mnemonic = "auction cradle mom beyond seed cannon lonely teach bread drama practice wisdom";
+var mnemonic = "message ceiling speak erode jump source endorse spice deal ahead skin into";

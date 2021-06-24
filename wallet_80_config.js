@@ -1,1 +1,1 @@
-var mnemonic = "sphere advance fan sort boil pet humor stomach curve tower injury rural";
+var mnemonic = "turn deposit weekend warm material antenna nest gate seat fork despair orient";

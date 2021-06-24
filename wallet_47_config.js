@@ -1,1 +1,1 @@
-var mnemonic = "desk digital song filter yard enroll dog host kangaroo vintage royal choose";
+var mnemonic = "tortoise grant music photo subway describe rescue swamp sort nest kiwi label";

@@ -1,1 +1,1 @@
-var mnemonic = "erode end awake spike nasty often shift wait disagree confirm express salt";
+var mnemonic = "twice fluid elder pact fiscal settle cash kidney badge accuse slender travel";

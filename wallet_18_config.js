@@ -1,1 +1,1 @@
-var mnemonic = "eternal occur evil share keen capable document uncover level saddle tilt profit";
+var mnemonic = "snack shop monster twelve leaf sad burger rent use phrase stem civil";

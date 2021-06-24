@@ -1,1 +1,1 @@
-var mnemonic = "divide gadget world minimum since garbage weekend depth fatigue envelope muffin employ";
+var mnemonic = "above person depart seat orphan barrel marriage minor kite project royal seminar";

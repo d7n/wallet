@@ -1,1 +1,1 @@
-var mnemonic = "episode narrow attitude ship essence air scheme pilot book special invest impose";
+var mnemonic = "vendor mammal shadow cart child any echo someone unfair uncover pole struggle";

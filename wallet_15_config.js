@@ -1,1 +1,1 @@
-var mnemonic = "siren deal rare tennis record jeans nephew also tilt lawsuit mercy supreme";
+var mnemonic = "blossom tooth unique weapon praise name sell wrestle pink author lens bag";

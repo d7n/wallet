@@ -1,1 +1,1 @@
-var mnemonic = "there strong ostrich hazard hair motor green social weasel retreat road concert";
+var mnemonic = "flavor melt chair bonus fortune hard father cover thank silly expect squeeze";

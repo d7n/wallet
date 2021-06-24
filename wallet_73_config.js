@@ -1,1 +1,1 @@
-var mnemonic = "flip similar remove zone rapid neutral famous siege slice idle reveal match";
+var mnemonic = "pass custom borrow panda sibling little champion foil vendor cost junk axis";

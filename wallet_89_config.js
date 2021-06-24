@@ -1,1 +1,1 @@
-var mnemonic = "argue table lock shoulder couch uncle knock degree sadness burden foam razor";
+var mnemonic = "police arrive raise hill recall symbol into bring avoid rapid endless crucial";

@@ -1,1 +1,1 @@
-var mnemonic = "wrist monitor learn afford make erupt display alert theory jump couple invest";
+var mnemonic = "matrix knee yellow squeeze innocent giraffe clarify seek error screen mobile army";

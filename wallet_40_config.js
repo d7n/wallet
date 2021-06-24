@@ -1,1 +1,1 @@
-var mnemonic = "sail shoot ceiling shoulder digital gain fabric animal decline fault grief combine";
+var mnemonic = "choice tumble harsh cluster peanut describe fantasy accuse early motor penalty vacant";

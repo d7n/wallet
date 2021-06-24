@@ -1,1 +1,1 @@
-var mnemonic = "federal course mushroom smooth crush south grace shell raven supreme chalk sadness";
+var mnemonic = "giggle shield favorite body glory device rail reward exchange lunar rate decline";

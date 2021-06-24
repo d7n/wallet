@@ -1,1 +1,1 @@
-var mnemonic = "awesome brief spray release immense sport recycle zoo fancy salon tobacco object";
+var mnemonic = "judge donkey hedgehog virus theory adapt joke flavor eager volume ten whisper";

@@ -1,1 +1,1 @@
-var mnemonic = "flee keen decline vague annual half current kite afford venue jump adapt";
+var mnemonic = "hurt artwork hover junior chunk culture involve coral action clip spy bread";

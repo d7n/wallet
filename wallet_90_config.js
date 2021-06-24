@@ -1,1 +1,1 @@
-var mnemonic = "course sleep benefit exercise defense service seminar entire wink correct choose certain";
+var mnemonic = "electric dance fortune satisfy cram opinion old balance father merge poverty stable";

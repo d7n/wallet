@@ -1,1 +1,1 @@
-var mnemonic = "session duty globe solar fire option soft police atom ball frost increase";
+var mnemonic = "give utility lock vacant bench trigger talk safe elbow analyst hill pudding";

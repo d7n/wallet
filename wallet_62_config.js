@@ -1,1 +1,1 @@
-var mnemonic = "explain arm pony obvious exist liquid silk earn miracle hello joy same";
+var mnemonic = "august person ski legal six doll space fashion ignore ketchup palm find";

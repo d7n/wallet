@@ -1,1 +1,1 @@
-var mnemonic = "digital fabric sell gift cream crew donkey fork tornado wolf innocent village";
+var mnemonic = "employ choice strong uncle mom daughter fold rent carry enemy fiction prevent";

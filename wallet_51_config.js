@@ -1,1 +1,1 @@
-var mnemonic = "emotion risk indoor capital fragile industry choose before clerk pull ramp elevator";
+var mnemonic = "sun mean misery inform donkey prepare ability fabric quit please upset rain";

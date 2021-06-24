@@ -1,1 +1,1 @@
-var mnemonic = "pear cinnamon mail topic royal idle boat useless pole nose spell where";
+var mnemonic = "olympic flee congress vote begin age six woman shrimp sudden chat visit";

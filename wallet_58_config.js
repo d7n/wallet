@@ -1,1 +1,1 @@
-var mnemonic = "quote room dragon coin rose mind moon kidney follow cactus slender release";
+var mnemonic = "magnet ten pave coin angle season just used track cushion art poverty";

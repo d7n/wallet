@@ -1,1 +1,1 @@
-var mnemonic = "bus blame rifle beef radar impact debate approve pumpkin teach install pact";
+var mnemonic = "dragon ozone oyster pluck wagon chaos miss harvest fatigue search own strong";

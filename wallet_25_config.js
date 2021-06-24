@@ -1,1 +1,1 @@
-var mnemonic = "blur purity club weather wrong tank empty nothing champion rice false sunset";
+var mnemonic = "lemon bottom notice recall system police squeeze gossip fun erupt blast blush";

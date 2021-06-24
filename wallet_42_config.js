@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin ranch relief beyond angle strong jealous melt aunt tuition topic furnace";
+var mnemonic = "bomb true viable put destroy spare laugh profit zebra bamboo sock bless";

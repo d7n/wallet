@@ -1,1 +1,1 @@
-var mnemonic = "human delay carbon prison hover demise dove space arrest such boil raccoon";
+var mnemonic = "bundle muffin kidney tide bulb robot skate detect address still interest still";

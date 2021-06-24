@@ -1,1 +1,1 @@
-var mnemonic = "day bird thunder section anxiety bus rose roast dumb leisure conduct shock";
+var mnemonic = "unit trip glove bless nuclear exit off slush autumn benefit infant kingdom";

@@ -1,1 +1,1 @@
-var mnemonic = "pond coast tumble trumpet found crew addict chuckle client trick heavy mountain";
+var mnemonic = "erupt tuition school speak same lumber file crisp save tag hawk history";

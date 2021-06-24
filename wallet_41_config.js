@@ -1,1 +1,1 @@
-var mnemonic = "acquire orient load purchase lens track ladder asthma add ritual cruise orchard";
+var mnemonic = "actual scatter detect scare wink pitch next inject atom legal key amused";

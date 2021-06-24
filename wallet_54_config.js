@@ -1,1 +1,1 @@
-var mnemonic = "fee sad cross gown must item street praise empty toss prefer december";
+var mnemonic = "rib report dove topple column thrive laundry crime account afford tomorrow poet";

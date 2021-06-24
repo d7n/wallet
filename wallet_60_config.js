@@ -1,1 +1,1 @@
-var mnemonic = "divorce symbol village excess burden fabric normal calm cupboard hedgehog satisfy mesh";
+var mnemonic = "speed sing fold siege duty love bag asthma world debris antenna river";

@@ -1,1 +1,1 @@
-var mnemonic = "vintage brush ramp unit unveil enact method heart alien smart sign remember";
+var mnemonic = "ceiling million math hawk team glow shaft scrap great wave panel climb";

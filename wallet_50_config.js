@@ -1,1 +1,1 @@
-var mnemonic = "slender eight dry vicious oval prevent daughter camera where swift industry ripple";
+var mnemonic = "second august crazy move noise brush repair volcano nuclear antique caution afford";

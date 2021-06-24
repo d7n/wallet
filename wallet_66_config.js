@@ -1,1 +1,1 @@
-var mnemonic = "jelly staff surround silk cart tail project culture host universe love rule";
+var mnemonic = "sure under much attract clean onion milk hello genuine rose same survey";

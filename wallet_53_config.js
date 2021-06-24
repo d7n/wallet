@@ -1,1 +1,1 @@
-var mnemonic = "affair width arm truly slender valid random vendor post deny know mean";
+var mnemonic = "film apology always time sun milk muffin surround add guard hungry onion";

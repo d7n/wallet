@@ -1,1 +1,1 @@
-var mnemonic = "antique sauce plate jelly degree okay keep tide mixture frozen cherry awful";
+var mnemonic = "car kitten assault rent tomato mad expand detect lava scissors other chimney";

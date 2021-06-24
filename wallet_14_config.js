@@ -1,1 +1,1 @@
-var mnemonic = "critic length tomorrow unfold elbow bracket swallow shaft cement cram domain link";
+var mnemonic = "assist kite soldier cram raise alert monkey session grain tag shove talent";

@@ -1,1 +1,1 @@
-var mnemonic = "brown east thing power lyrics load unit spread ramp patrol frame lend";
+var mnemonic = "fragile hungry shoot dry lock green toe panel actress worry hazard outdoor";

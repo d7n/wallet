@@ -1,1 +1,1 @@
-var mnemonic = "despair photo under liar brass chimney pole banana emerge project sign wink";
+var mnemonic = "soup boost organ marriage ring jazz announce culture notice where lift spread";

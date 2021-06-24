@@ -1,1 +1,1 @@
-var mnemonic = "monkey cake mushroom fog marine filter chest length adult milk filter foil";
+var mnemonic = "gesture egg argue spice holiday reason media crawl narrow hint vast adult";

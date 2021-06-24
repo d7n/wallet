@@ -1,1 +1,1 @@
-var mnemonic = "timber negative miracle poverty dutch lend inspire air sail exchange between friend";
+var mnemonic = "slow glory raven topple success shoe nephew differ custom dutch chat napkin";

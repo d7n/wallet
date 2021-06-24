@@ -1,1 +1,1 @@
-var mnemonic = "lake equip dutch duty smooth oak cigar blush net cross region finger";
+var mnemonic = "easily poverty doll mesh exhaust guitar vague program shove little whisper south";

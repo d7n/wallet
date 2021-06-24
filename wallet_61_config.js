@@ -1,1 +1,1 @@
-var mnemonic = "vessel glide three achieve farm erosion cube link mosquito whisper mean grace";
+var mnemonic = "flower lens sunny because subject exhibit error patient divert captain concert sheriff";

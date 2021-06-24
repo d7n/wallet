@@ -1,1 +1,1 @@
-var mnemonic = "kidney angle behave joy inject rural foot bench defy glare recipe bench";
+var mnemonic = "base try differ label ski aunt cousin come gesture view people cupboard";

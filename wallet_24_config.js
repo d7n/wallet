@@ -1,1 +1,1 @@
-var mnemonic = "endless tuition hunt lab almost shaft shop drill bar escape voice good";
+var mnemonic = "real season upon boring science find height hat master edge assist time";

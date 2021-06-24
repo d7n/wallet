@@ -1,1 +1,1 @@
-var mnemonic = "egg ozone dilemma average unit fat peanut desk luxury glimpse drop small";
+var mnemonic = "absent skull armed still banner cigar mix symbol call apple essence denial";

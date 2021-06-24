@@ -1,1 +1,1 @@
-var mnemonic = "basket electric guide exercise alcohol pottery stamp situate glide attend ring tourist";
+var mnemonic = "just bean hundred model penalty smoke exhaust plate daring spin trim dawn";

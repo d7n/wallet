@@ -1,1 +1,1 @@
-var mnemonic = "ridge sport dose toss offer exotic cable group ivory gorilla reopen film";
+var mnemonic = "conduct expire photo urban unaware stem limit brass brief blind tilt ramp";

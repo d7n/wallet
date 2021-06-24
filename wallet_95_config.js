@@ -1,1 +1,1 @@
-var mnemonic = "bulb biology harbor one disorder proud gloom jump hat royal round rail";
+var mnemonic = "assist same milk grid arm noble method visual merit bless detect cloud";

@@ -1,1 +1,1 @@
-var mnemonic = "peace reward impact manage build include skull novel doll idle tray isolate";
+var mnemonic = "stay honey moral cruel famous lesson live pencil furnace prepare pole system";

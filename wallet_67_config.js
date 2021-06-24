@@ -1,1 +1,1 @@
-var mnemonic = "royal fence grow person smile orchard snake spawn effort trigger aware master";
+var mnemonic = "jealous jaguar jazz into bone then orbit net bind million wheat drive";

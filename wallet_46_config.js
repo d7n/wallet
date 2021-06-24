@@ -1,1 +1,1 @@
-var mnemonic = "wasp fever abandon little wear primary pool salute example razor eager room";
+var mnemonic = "solar citizen cover foil twist once erupt token nut utility loan type";

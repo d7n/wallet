@@ -1,1 +1,1 @@
-var mnemonic = "close kitchen dumb swap document version stick sleep soft intact quit quarter";
+var mnemonic = "save neglect vendor letter climb trust celery office fame enhance basic amused";

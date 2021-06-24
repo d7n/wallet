@@ -1,1 +1,1 @@
-var mnemonic = "float sheriff feel cushion ugly frequent word alcohol famous rifle puzzle city";
+var mnemonic = "relax proof foot post habit hill giant vote potato arch rate vessel";

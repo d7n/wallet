@@ -1,1 +1,1 @@
-var mnemonic = "topple pencil vote twenty together grocery differ vivid exile elevator cement nest";
+var mnemonic = "wink net tackle luxury visit way cancel gift rapid topic prepare spray";

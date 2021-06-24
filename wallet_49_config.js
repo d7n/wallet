@@ -1,1 +1,1 @@
-var mnemonic = "clinic rate wedding sea filter strong east transfer census turtle despair payment";
+var mnemonic = "home close leaf cigar industry inch cup fury hollow banana dose make";

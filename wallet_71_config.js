@@ -1,1 +1,1 @@
-var mnemonic = "rally ball army butter census stove sea frost blossom climb valid coil";
+var mnemonic = "build key debris actor repair fever swear acquire minute film upper medal";
