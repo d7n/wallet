@@ -1,1 +1,1 @@
-var mnemonic = "slight embark sing merry patch embody hair wise flock address direct bounce";
+var mnemonic = "rug sense bracket sad extra company laptop job aspect plug maple pledge";

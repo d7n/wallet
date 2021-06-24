@@ -1,1 +1,1 @@
-var mnemonic = "umbrella proud zone auto trade barely punch sail fee coffee elegant patient";
+var mnemonic = "beach tray grunt actress prize property unfold car inch auction noise gallery";

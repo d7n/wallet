@@ -1,1 +1,1 @@
-var mnemonic = "tragic west payment conduct comfort laundry rail fade cram treat turn actual";
+var mnemonic = "ecology insect antenna glove kiss lawn squeeze bind other pipe leopard news";

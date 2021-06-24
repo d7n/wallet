@@ -1,1 +1,1 @@
-var mnemonic = "clip spider diesel render strong life tomorrow spike elevator mansion track mask";
+var mnemonic = "industry orange mom slice hour surprise hen learn penalty world giant permit";

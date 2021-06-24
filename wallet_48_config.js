@@ -1,1 +1,1 @@
-var mnemonic = "true fiscal face suffer child soccer joke under salad execute vibrant syrup";
+var mnemonic = "slam creek head oil cigar crazy salute worry puzzle parade despair engine";

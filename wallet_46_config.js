@@ -1,1 +1,1 @@
-var mnemonic = "buffalo rent session trip joke immense resource deer plunge mutual input slow";
+var mnemonic = "glad course tank shallow country reduce final tattoo electric glow green gospel";

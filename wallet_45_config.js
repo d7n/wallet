@@ -1,1 +1,1 @@
-var mnemonic = "yard catch embrace protect anxiety burst multiply daughter orphan cluster illegal soon";
+var mnemonic = "tell zero skull sibling never oblige catch rich balance bind movie flee";

@@ -1,1 +1,1 @@
-var mnemonic = "rice sausage merry damp medal acid gain true coffee chest session worry";
+var mnemonic = "domain stool boss pioneer balcony smile main document kidney insane witness wine";

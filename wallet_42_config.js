@@ -1,1 +1,1 @@
-var mnemonic = "wheat girl trend vapor adapt tuition oven vendor average dose lamp panther";
+var mnemonic = "elegant measure toddler voice tag van april parent ocean payment nothing hero";

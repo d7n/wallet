@@ -1,1 +1,1 @@
-var mnemonic = "taste team planet judge olive arm dutch practice ethics grass boat clerk";
+var mnemonic = "hollow foot basic shallow poem bulb goose this laptop gun return situate";

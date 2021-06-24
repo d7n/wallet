@@ -1,1 +1,1 @@
-var mnemonic = "expire small bullet priority supply proud thrive someone cactus color off spend";
+var mnemonic = "demand exclude polar tragic onion horror boring today bag lucky circle visa";

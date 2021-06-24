@@ -1,1 +1,1 @@
-var mnemonic = "wheel wash grain weapon fly need memory garage moral wisdom video sustain";
+var mnemonic = "yard perfect produce deposit day network will reunion shoulder blind uniform try";

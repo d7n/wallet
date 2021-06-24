@@ -1,1 +1,1 @@
-var mnemonic = "balance walnut brain raise ring syrup valley topic illness left fuel glory";
+var mnemonic = "day skirt quarter napkin random mask deer isolate arrest grow world lonely";

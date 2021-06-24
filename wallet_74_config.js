@@ -1,1 +1,1 @@
-var mnemonic = "legal lottery blossom lift forget hotel vital voice lake cricket body boat";
+var mnemonic = "inject myth rice ring above skin fault parent sample tray wise object";

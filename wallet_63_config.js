@@ -1,1 +1,1 @@
-var mnemonic = "hurt valve coach fire hawk output cliff cloud orange true make slim";
+var mnemonic = "breeze online enroll grant vocal robot undo trade oven speak eyebrow wrong";

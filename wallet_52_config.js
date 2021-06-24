@@ -1,1 +1,1 @@
-var mnemonic = "badge opera heart blood love cabbage crack charge habit kit access puzzle";
+var mnemonic = "endorse access profit typical dutch fiction frozen furnace boat muscle disagree dinner";

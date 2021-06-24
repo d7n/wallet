@@ -1,1 +1,1 @@
-var mnemonic = "nest voyage aunt blouse document swim shoot wink bicycle fetch smooth job";
+var mnemonic = "morning insane wolf vanish other group firm mixture bid leisure tool victory";

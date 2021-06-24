@@ -1,1 +1,1 @@
-var mnemonic = "isolate powder ahead ask shoot antenna opera diagram attend kid fatal captain";
+var mnemonic = "era used motion bind hold abstract fame grit stumble rough glimpse cinnamon";

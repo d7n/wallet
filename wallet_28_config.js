@@ -1,1 +1,1 @@
-var mnemonic = "food lawsuit device average smooth laptop portion price cake meat joy angle";
+var mnemonic = "wrap just robust keen spare slight forward emerge bamboo enhance frog bomb";

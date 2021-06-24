@@ -1,1 +1,1 @@
-var mnemonic = "flash idea picnic tennis actual math crack dress peasant few teach key";
+var mnemonic = "snack genre key observe romance radar six flavor soldier expect stock special";

@@ -1,1 +1,1 @@
-var mnemonic = "exhibit dilemma swamp waste miracle grass member speak knife setup endless tube";
+var mnemonic = "tourist hope focus super idea sea fit unhappy simple virtual foil joy";

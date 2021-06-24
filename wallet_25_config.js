@@ -1,1 +1,1 @@
-var mnemonic = "crouch simple replace holiday shiver bright similar blush wealth drop direct bind";
+var mnemonic = "shine dumb pink noble express picnic coin clinic solid garment divorce aspect";

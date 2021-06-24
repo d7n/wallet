@@ -1,1 +1,1 @@
-var mnemonic = "any melody wealth crane moment original oxygen small tail coach silent buddy";
+var mnemonic = "else pause exchange field describe mad stuff enjoy diary excess tonight equip";

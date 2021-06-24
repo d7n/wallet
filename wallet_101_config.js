@@ -1,1 +1,1 @@
-var mnemonic = "analyst test rain guitar chicken obscure brick carbon replace forum exist bind";
+var mnemonic = "discover pear kick equal random diamond sister thrive joy ring cycle left";

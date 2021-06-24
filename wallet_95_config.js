@@ -1,1 +1,1 @@
-var mnemonic = "neglect risk cluster update wish razor pelican own deny giggle vibrant famous";
+var mnemonic = "decorate victory abuse broom vast comfort waste toast win attack few inner";

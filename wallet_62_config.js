@@ -1,1 +1,1 @@
-var mnemonic = "young quarter pony purse other fury venue unfold spawn fire chase there";
+var mnemonic = "tragic angle convince gallery receive member flame rebel trim cherry gadget clerk";

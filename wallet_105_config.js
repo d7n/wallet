@@ -1,1 +1,1 @@
-var mnemonic = "cook sunset city beyond base fluid divorce hockey surprise hard accuse lion";
+var mnemonic = "become dad wood arrow wink elephant decline bacon across gesture october nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "forest regular own fury assume february twin autumn drop powder basic fog";
+var mnemonic = "egg require soup note crane best now flee reunion language ancient dentist";

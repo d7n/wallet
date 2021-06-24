@@ -1,1 +1,1 @@
-var mnemonic = "catch world reject satoshi laptop hole teach vault wink hole fortune lend";
+var mnemonic = "reduce strong dentist bundle agent drop cabbage embody secret amazing slogan near";

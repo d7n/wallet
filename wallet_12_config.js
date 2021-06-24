@@ -1,1 +1,1 @@
-var mnemonic = "need design gallery wedding because awesome scheme cloud change pizza echo staff";
+var mnemonic = "biology guess buzz connect october also actor pepper review oak evoke crisp";

@@ -1,1 +1,1 @@
-var mnemonic = "smart flee peanut swift cat result enact seven corn early awkward siren";
+var mnemonic = "acoustic exist sting dance problem hold phone across subway correct doctor scrap";

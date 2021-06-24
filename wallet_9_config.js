@@ -1,1 +1,1 @@
-var mnemonic = "wonder demise frost carbon upon awesome anchor champion powder twenty pepper asthma";
+var mnemonic = "domain raven you spirit hobby laundry pride solve clever attack minute gown";

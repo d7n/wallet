@@ -1,1 +1,1 @@
-var mnemonic = "track bonus force unhappy million rice long eight viable bone rug pulse";
+var mnemonic = "crater since orange danger add that monster youth waste cover inflict lava";

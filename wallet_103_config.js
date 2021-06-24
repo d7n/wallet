@@ -1,1 +1,1 @@
-var mnemonic = "chalk silly net cable metal price problem also now flavor grant spy";
+var mnemonic = "wave mimic loud leg question mask moment patient plug long cheap sphere";

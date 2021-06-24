@@ -1,1 +1,1 @@
-var mnemonic = "hockey hobby ivory middle scorpion brush rack speed process monitor ghost guess";
+var mnemonic = "drip uniform fence venture glance discover blast scheme pluck rare fiscal enact";

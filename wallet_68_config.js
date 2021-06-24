@@ -1,1 +1,1 @@
-var mnemonic = "often outdoor crawl olive diet acquire organ trend prepare welcome size strike";
+var mnemonic = "nerve jeans symptom lend caught belt minimum solid thing logic globe filter";

@@ -1,1 +1,1 @@
-var mnemonic = "small illegal way upon main quarter toddler diary service raccoon butter lesson";
+var mnemonic = "spring scare they define fragile rifle struggle verb witness radio pole song";

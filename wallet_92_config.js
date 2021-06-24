@@ -1,1 +1,1 @@
-var mnemonic = "remind west donkey garment car body avocado cupboard kingdom found fresh auction";
+var mnemonic = "among wreck dice same vault because invest document point work special fence";

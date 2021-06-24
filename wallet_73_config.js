@@ -1,1 +1,1 @@
-var mnemonic = "cereal leg width van cook sell assault follow just exercise metal moral";
+var mnemonic = "nation act woman index auction eager task sweet slow include stable palm";

@@ -1,1 +1,1 @@
-var mnemonic = "grocery frozen love luggage tank exotic stereo ghost forest young stairs ribbon";
+var mnemonic = "oyster blood cover amused warm shift surface patrol near tackle pair position";

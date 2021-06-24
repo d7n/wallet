@@ -1,1 +1,1 @@
-var mnemonic = "lizard state aware hamster energy observe edit april negative sample helmet catalog";
+var mnemonic = "gate wear clump wrist all volcano sheriff rabbit already moment hamster genre";

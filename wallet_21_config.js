@@ -1,1 +1,1 @@
-var mnemonic = "harvest master embark gallery ozone pattern ticket junior size hobby run next";
+var mnemonic = "transfer coin power cattle top choose rib noble rather elevator foam firm";

@@ -1,1 +1,1 @@
-var mnemonic = "guilt above off onion jealous mushroom submit exotic trend various able squeeze";
+var mnemonic = "glove provide noodle version stem dust whisper loop twelve mango wave citizen";

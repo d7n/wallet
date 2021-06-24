@@ -1,1 +1,1 @@
-var mnemonic = "atom envelope simple mother boy regret banner photo try tip glass midnight";
+var mnemonic = "police thrive leisure transfer keen cupboard verify hedgehog behave hundred cherry season";

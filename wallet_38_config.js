@@ -1,1 +1,1 @@
-var mnemonic = "crouch snake novel average kick guard situate marine guilt mercy twice pill";
+var mnemonic = "style chaos bean flower crater pipe brass column duck core rapid pupil";

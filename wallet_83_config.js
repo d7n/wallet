@@ -1,1 +1,1 @@
-var mnemonic = "business hybrid betray glide fuel mercy hungry summer gain palm above guard";
+var mnemonic = "safe slab bulk unable father cycle receive ring pigeon rocket wolf polar";

@@ -1,1 +1,1 @@
-var mnemonic = "toe tag track eyebrow trap cricket draw east private chapter grief rescue";
+var mnemonic = "elegant fix during balance stay rain help coin fiscal kit kind check";

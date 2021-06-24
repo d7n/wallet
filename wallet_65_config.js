@@ -1,1 +1,1 @@
-var mnemonic = "final display lawsuit worth tourist casual base toy powder ozone kidney boil";
+var mnemonic = "armed dose cliff cigar praise goat song zero person quiz digital inform";

@@ -1,1 +1,1 @@
-var mnemonic = "bright club canoe dose basket remind flower ice eternal filter drive noodle";
+var mnemonic = "kiwi hard film title stick hero island minute spike tree early secret";

@@ -1,1 +1,1 @@
-var mnemonic = "rookie thunder biology human leave actor trap describe recipe detail inform own";
+var mnemonic = "heart salmon fringe glory height run mansion duty cupboard about mesh hip";

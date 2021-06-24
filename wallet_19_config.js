@@ -1,1 +1,1 @@
-var mnemonic = "rice happy collect fire stay auction ship depart nuclear taxi sport typical";
+var mnemonic = "access twice prize organ brass match genius visa increase connect range slow";

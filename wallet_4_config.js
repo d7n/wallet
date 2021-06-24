@@ -1,1 +1,1 @@
-var mnemonic = "blue chapter injury sauce glad turkey wolf blue prize glimpse harbor equip";
+var mnemonic = "rule taste picnic reform stumble elephant hollow draw super kiwi seek employ";

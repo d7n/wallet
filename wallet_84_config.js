@@ -1,1 +1,1 @@
-var mnemonic = "album doll mail cycle rose action nation actual energy fetch dune goat";
+var mnemonic = "utility census dutch apart coil dinner since excite anger puppy frog dignity";

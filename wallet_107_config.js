@@ -1,1 +1,1 @@
-var mnemonic = "mosquito confirm obey critic useful lab chef trap erase brand shield because";
+var mnemonic = "into fluid belt fragile simple traffic shiver pear debate ranch afraid size";

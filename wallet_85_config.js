@@ -1,1 +1,1 @@
-var mnemonic = "resist banana evoke grape fortune amazing desk exotic deputy magic broken result";
+var mnemonic = "galaxy lecture enact other deer exercise buffalo visit gravity tape unit planet";

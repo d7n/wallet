@@ -1,1 +1,1 @@
-var mnemonic = "episode label twenty eager weapon script pet trigger job embark mobile cave";
+var mnemonic = "erupt exercise fork pig antenna celery soft salad company ankle media cotton";

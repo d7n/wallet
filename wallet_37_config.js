@@ -1,1 +1,1 @@
-var mnemonic = "end any carpet joy choose weird then rocket chimney midnight uncover sadness";
+var mnemonic = "recall alpha protect lawn town certain forget return hospital horn predict ginger";

@@ -1,1 +1,1 @@
-var mnemonic = "divide emotion bean afford spell person receive sick action vendor sample wheel";
+var mnemonic = "orbit hire cross boat mountain pizza economy rabbit tower frequent color major";

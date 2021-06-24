@@ -1,1 +1,1 @@
-var mnemonic = "ladder across illegal math announce toddler dust bus endorse library kite fiction";
+var mnemonic = "section film device endless shift figure firm large lazy zoo version galaxy";

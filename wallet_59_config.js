@@ -1,1 +1,1 @@
-var mnemonic = "miss sunset tail engage connect like olympic bounce card toy vacuum obtain";
+var mnemonic = "stick life rhythm vanish spread artefact beauty erupt remove beyond notable deputy";

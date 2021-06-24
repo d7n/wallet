@@ -1,1 +1,1 @@
-var mnemonic = "plunge bread glass dilemma patch call post code rude tongue appear diary";
+var mnemonic = "series warfare country return whale wasp weird predict biology magnet believe render";

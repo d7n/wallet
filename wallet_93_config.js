@@ -1,1 +1,1 @@
-var mnemonic = "cactus pear slice crisp word twist release gun bless album fiber attitude";
+var mnemonic = "weasel census rib anxiety ostrich combine away spend tiny diesel noise stuff";

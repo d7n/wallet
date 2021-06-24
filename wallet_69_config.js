@@ -1,1 +1,1 @@
-var mnemonic = "exile outside rent spend cheap second cause copper pole stand gather tree";
+var mnemonic = "ask buddy tribe target borrow tent print joke pistol rude pole boss";

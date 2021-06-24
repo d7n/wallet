@@ -1,1 +1,1 @@
-var mnemonic = "daring miss wedding leopard story copper office twelve solve leopard process bleak";
+var mnemonic = "idea burger erode damp first ride bone feel glimpse know oval wire";

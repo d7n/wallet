@@ -1,1 +1,1 @@
-var mnemonic = "slow emotion uniform fee connect emerge situate real sunny swear roast hint";
+var mnemonic = "hill pluck gauge raccoon crazy dentist unique bronze normal kitten situate enrich";

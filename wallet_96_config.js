@@ -1,1 +1,1 @@
-var mnemonic = "capital attitude regret fever prevent give pioneer grit citizen glad winner logic";
+var mnemonic = "arena finish liberty loan service under insane amused reform rubber alone tuna";

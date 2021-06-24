@@ -1,1 +1,1 @@
-var mnemonic = "gain convince crystal hope tennis stomach charge void coast custom zebra entry";
+var mnemonic = "luxury amazing social random hill level cage phrase burden mind sustain march";

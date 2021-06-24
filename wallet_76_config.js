@@ -1,1 +1,1 @@
-var mnemonic = "assist purity whip arrange wrestle scene coach smile easy setup very wife";
+var mnemonic = "hand cute start tenant weasel broom chalk nothing capable need cave raven";

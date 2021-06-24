@@ -1,1 +1,1 @@
-var mnemonic = "only retire mystery twist power label just beef concert left crunch trade";
+var mnemonic = "south milk master grace gesture video priority dumb air faith wide little";

@@ -1,1 +1,1 @@
-var mnemonic = "stuff puppy absurd throw fine drift crumble liberty coconut smooth mobile pony";
+var mnemonic = "inquiry develop banner arrest regular option gown air lottery moon slow liquid";

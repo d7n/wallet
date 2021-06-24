@@ -1,1 +1,1 @@
-var mnemonic = "retire cushion artwork crystal artefact scissors cricket enhance crouch cause student nice";
+var mnemonic = "orphan shiver two during move flight peanut govern copper tonight frown flee";

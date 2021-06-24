@@ -1,1 +1,1 @@
-var mnemonic = "vacuum donate use cake toe real agree jelly enemy stick purchase eagle";
+var mnemonic = "video nasty bronze slice knee harvest charge age anger era worth clown";

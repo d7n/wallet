@@ -1,1 +1,1 @@
-var mnemonic = "air task state pistol capital subway warfare arrow abandon thunder beach theme";
+var mnemonic = "camp ketchup cotton also cry gasp vocal paper treat sun tackle swarm";

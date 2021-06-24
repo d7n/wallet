@@ -1,1 +1,1 @@
-var mnemonic = "process quality tool elevator alter term solid junk always oil when fish";
+var mnemonic = "devote vanish monitor flee young diamond okay device family voice arrest average";

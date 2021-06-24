@@ -1,1 +1,1 @@
-var mnemonic = "rocket drop tower away obvious radio slogan coast tuna pact typical slogan";
+var mnemonic = "library oven equal step chief style embrace metal green pupil bonus tonight";

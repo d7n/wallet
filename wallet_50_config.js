@@ -1,1 +1,1 @@
-var mnemonic = "tattoo evil shield crucial burden gauge scissors effort click minimum order grief";
+var mnemonic = "question heavy open inhale emotion salad robust you biology answer gallery rescue";

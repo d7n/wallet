@@ -1,1 +1,1 @@
-var mnemonic = "riot benefit name cave congress mammal more feed update cliff expand artwork";
+var mnemonic = "few vault yellow diamond acquire bachelor divert mansion shadow erupt soon oval";

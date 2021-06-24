@@ -1,1 +1,1 @@
-var mnemonic = "open zone ginger acoustic castle shoulder interest burst creek victory grief pair";
+var mnemonic = "ivory cram gesture hobby can pool card mammal soul tank pudding elephant";

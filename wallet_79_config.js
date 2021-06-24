@@ -1,1 +1,1 @@
-var mnemonic = "teach modify galaxy spawn split index very sketch trip must cloud dove";
+var mnemonic = "midnight obtain exist journey wink ensure drift message flush credit diamond must";

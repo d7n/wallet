@@ -1,1 +1,1 @@
-var mnemonic = "velvet gentle torch onion rapid panther purchase nose chair crowd afford hazard";
+var mnemonic = "bottom impulse electric cost beyond pretty lunch fantasy ill steak hair write";

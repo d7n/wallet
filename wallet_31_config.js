@@ -1,1 +1,1 @@
-var mnemonic = "until boost before require fault draw major sock spring march guide open";
+var mnemonic = "sign remain thing crystal pudding dawn session boat crime message blush bind";

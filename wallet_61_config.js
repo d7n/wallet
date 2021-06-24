@@ -1,1 +1,1 @@
-var mnemonic = "until auction riot auto pluck juice wedding blur resist exhibit real wear";
+var mnemonic = "flavor rapid brief vast figure six black desk monitor foot raw myself";

@@ -1,1 +1,1 @@
-var mnemonic = "dinner coach occur swing vague venture cruel girl bind fault cigar shy";
+var mnemonic = "wash bundle super trial copper loop rule unable proud fossil stand you";

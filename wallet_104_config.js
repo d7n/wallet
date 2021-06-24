@@ -1,1 +1,1 @@
-var mnemonic = "crush brief nest alpha battle nurse wire pencil language clean during mom";
+var mnemonic = "fish fiction latin limb allow gadget rose blue host shove also spend";

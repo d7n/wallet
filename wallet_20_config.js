@@ -1,1 +1,1 @@
-var mnemonic = "license floor example usual add fiber romance notable two wise catalog involve";
+var mnemonic = "gasp acoustic evidence gap lumber gift tower usual naive dinner pride congress";

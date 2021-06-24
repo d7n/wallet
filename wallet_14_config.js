@@ -1,1 +1,1 @@
-var mnemonic = "divorce patient raw raw index north despair before tongue govern tonight warfare";
+var mnemonic = "powder river often awake drive donor race upper also glide fine panda";

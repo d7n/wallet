@@ -1,1 +1,1 @@
-var mnemonic = "alcohol honey boost link hobby junk artwork stuff faint state wood alone";
+var mnemonic = "impulse panic syrup layer extra resource brisk boost junk long impose express";

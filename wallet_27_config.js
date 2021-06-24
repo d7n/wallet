@@ -1,1 +1,1 @@
-var mnemonic = "distance kind strong horse length moment sense glad sword travel duty thought";
+var mnemonic = "shy holiday bean olympic embark vintage voice coil fat direct family barely";

@@ -1,1 +1,1 @@
-var mnemonic = "become two kitchen range gloom head shift dust soul debate miss sort";
+var mnemonic = "afraid snow absorb cement dwarf arrange device wasp over business omit nerve";
