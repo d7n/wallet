@@ -1,1 +1,1 @@
-var mnemonic = "drive bicycle forest fortune give equal advance kidney fetch similar pepper midnight";
+var mnemonic = "auto dog palace near jungle fossil fatal horse filter sample orbit face";

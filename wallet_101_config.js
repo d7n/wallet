@@ -1,1 +1,1 @@
-var mnemonic = "wine toe quit eyebrow gesture kind cycle execute minimum cargo miss paddle";
+var mnemonic = "fossil decline urban ostrich noise aim process round deputy crunch topple zebra";

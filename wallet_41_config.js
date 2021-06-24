@@ -1,1 +1,1 @@
-var mnemonic = "keep whisper blade sea donkey already innocent correct mention material screen sample";
+var mnemonic = "conduct tiger give rescue legal noodle asthma emotion nose text keen avocado";

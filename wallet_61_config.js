@@ -1,1 +1,1 @@
-var mnemonic = "tent vote horror item frame cotton derive cattle item innocent estate orchard";
+var mnemonic = "turtle check number economy dice purchase cupboard broccoli soul neck pipe brown";

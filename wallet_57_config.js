@@ -1,1 +1,1 @@
-var mnemonic = "river moral tank shoot accuse duty time oil lion muscle hollow dawn";
+var mnemonic = "absent cover faculty process clock vanish cup nice opinion robust box pudding";

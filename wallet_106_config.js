@@ -1,1 +1,1 @@
-var mnemonic = "inspire draw quote clap blossom idea unfold differ amateur measure random surface";
+var mnemonic = "region cliff cloth unveil cheese copper skin master donor chest heavy achieve";

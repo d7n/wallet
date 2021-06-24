@@ -1,1 +1,1 @@
-var mnemonic = "media model family attitude escape oak poverty rebel length symbol boost trophy";
+var mnemonic = "glad sentence man host record dove someone merit prevent napkin lens comic";

@@ -1,1 +1,1 @@
-var mnemonic = "steak flash bread kingdom super churn bacon favorite stock annual during artist";
+var mnemonic = "tissue sauce solution corn garage tube benefit ripple fuel slow kitten wreck";

@@ -1,1 +1,1 @@
-var mnemonic = "swamp alpha base sight beauty water attend popular fashion bachelor fee equal";
+var mnemonic = "august movie achieve soccer indoor health cheap option slim charge account position";

@@ -1,1 +1,1 @@
-var mnemonic = "news purity picture best catalog initial input include kind culture analyst bench";
+var mnemonic = "earn village humble couch misery panic tip wife grocery correct buyer finger";

@@ -1,1 +1,1 @@
-var mnemonic = "common base flag profit wrestle arrange sand host estate push elite chat";
+var mnemonic = "tunnel despair earth very ordinary crisp alter lake figure piece current notice";

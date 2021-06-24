@@ -1,1 +1,1 @@
-var mnemonic = "digital harvest general music brisk slam access walnut perfect attitude shoe monkey";
+var mnemonic = "hurt tattoo wrestle such reveal they cloud cliff correct bulk tell route";

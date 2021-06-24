@@ -1,1 +1,1 @@
-var mnemonic = "pepper double current knock outside vault forget chronic prison inhale lounge twin";
+var mnemonic = "hen bomb alter skirt kingdom senior pelican code net arctic tornado throw";

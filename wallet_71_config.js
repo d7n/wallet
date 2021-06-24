@@ -1,1 +1,1 @@
-var mnemonic = "idle hip view ivory void horse trust door street parent ritual fiction";
+var mnemonic = "radio manual subject december claw toss insane exit inhale extra decrease arrange";

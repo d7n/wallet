@@ -1,1 +1,1 @@
-var mnemonic = "sheriff siren option wish behind draft hill hub deer depart observe submit";
+var mnemonic = "snow talent wide sponsor click couch feed tired bulb focus note glance";

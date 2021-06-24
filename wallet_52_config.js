@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur pilot trial domain rocket toilet vehicle dinosaur slide sun deposit age";
+var mnemonic = "voyage define unable cargo symptom breeze medal gap aisle escape length punch";

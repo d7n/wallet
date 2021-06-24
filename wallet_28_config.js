@@ -1,1 +1,1 @@
-var mnemonic = "borrow decade size joke suspect life welcome toy twelve muscle anxiety spray";
+var mnemonic = "unfair tower note trophy clog quit series sight tape army thrive mountain";

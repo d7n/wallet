@@ -1,1 +1,1 @@
-var mnemonic = "toast actress uniform concert twice emotion oblige clay suit please energy alley";
+var mnemonic = "frost loop false subway delay endorse nurse winner cement setup beauty energy";

@@ -1,1 +1,1 @@
-var mnemonic = "radar other tiger stumble antique use undo evolve fly close forum possible";
+var mnemonic = "online crew like science source hover weapon unknown method road float mix";

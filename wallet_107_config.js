@@ -1,1 +1,1 @@
-var mnemonic = "suffer frost gown report wheel detect museum reveal pretty pull park love";
+var mnemonic = "claw illegal column brief empty track siren nurse slow fatal harvest rubber";

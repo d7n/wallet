@@ -1,1 +1,1 @@
-var mnemonic = "nature limit kitchen hold aware canoe cement believe witness stick web elegant";
+var mnemonic = "brick suit wing flip daring nurse blind sausage win prevent twist duty";

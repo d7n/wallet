@@ -1,1 +1,1 @@
-var mnemonic = "before just boat belt add next rate moment march certain below cram";
+var mnemonic = "bike brother kit friend injury thunder quick nurse bargain term achieve roof";

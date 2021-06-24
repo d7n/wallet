@@ -1,1 +1,1 @@
-var mnemonic = "online canoe owner cliff rich pass evidence ostrich female unveil beyond off";
+var mnemonic = "noise bridge frame tiger glance cactus right holiday east budget bottom decorate";

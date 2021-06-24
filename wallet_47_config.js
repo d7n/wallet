@@ -1,1 +1,1 @@
-var mnemonic = "final way load gas believe cement hint left waste little moon obscure";
+var mnemonic = "ancient wine mimic uphold fortune stomach high share define stay two track";

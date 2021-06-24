@@ -1,1 +1,1 @@
-var mnemonic = "open bubble expand photo palm coffee dignity story fury panther relax receive";
+var mnemonic = "wreck comic sure slush source nothing armor crowd lizard mammal actress strike";

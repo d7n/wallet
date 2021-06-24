@@ -1,1 +1,1 @@
-var mnemonic = "host receive health reject hungry moment response off zoo cherry either ancient";
+var mnemonic = "glide elbow else shed sunset ahead prevent above vault tip energy black";

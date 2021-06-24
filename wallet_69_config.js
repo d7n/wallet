@@ -1,1 +1,1 @@
-var mnemonic = "apart model bargain shock nut shrimp person scan shove square pudding enrich";
+var mnemonic = "echo meadow usual dilemma worry one toilet laptop used front alter cargo";

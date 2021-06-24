@@ -1,1 +1,1 @@
-var mnemonic = "toast truth recipe play fitness age blame congress twist wire claw swear";
+var mnemonic = "color smile luxury critic junk rent culture answer news invite hip dial";

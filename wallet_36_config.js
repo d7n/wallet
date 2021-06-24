@@ -1,1 +1,1 @@
-var mnemonic = "visual sniff law illness flag fruit chase surge trumpet indoor number sad";
+var mnemonic = "film notice obtain model canal author monkey vacant orient bacon laundry toddler";

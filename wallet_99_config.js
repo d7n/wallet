@@ -1,1 +1,1 @@
-var mnemonic = "session debris script famous early casual hammer spray discover want project depth";
+var mnemonic = "robot hire prepare drift inner mosquito more record inject object like suspect";

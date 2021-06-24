@@ -1,1 +1,1 @@
-var mnemonic = "song core all pigeon inform supreme film dial together floor oyster chimney";
+var mnemonic = "cruise sausage there expect wait culture clarify beef tenant metal jelly social";

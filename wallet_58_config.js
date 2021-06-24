@@ -1,1 +1,1 @@
-var mnemonic = "absorb opera slab decorate deer will tomato burger noble movie zoo script";
+var mnemonic = "undo hold biology sustain twin cake surround hundred february because solid faint";

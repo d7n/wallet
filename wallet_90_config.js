@@ -1,1 +1,1 @@
-var mnemonic = "artwork garden potato course foam spike smoke chair guide flame rib grain";
+var mnemonic = "deputy clinic drum city address element kiwi beef gauge wear seven sentence";

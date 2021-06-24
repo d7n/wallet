@@ -1,1 +1,1 @@
-var mnemonic = "alcohol proud exact shoot globe ribbon solution negative vehicle fossil mountain twelve";
+var mnemonic = "lyrics sauce vivid spawn scene slight lazy thumb clap anxiety pride hello";

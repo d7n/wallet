@@ -1,1 +1,1 @@
-var mnemonic = "call praise beauty slide enjoy error mammal purpose knife other uniform drill";
+var mnemonic = "secret adjust night try spider modify debate cabin work crop release plunge";

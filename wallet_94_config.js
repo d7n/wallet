@@ -1,1 +1,1 @@
-var mnemonic = "maximum soup travel theory burden learn smoke dragon check kick tree armor";
+var mnemonic = "onion obscure present honey inch globe convince general hazard innocent grit laugh";

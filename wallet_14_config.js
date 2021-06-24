@@ -1,1 +1,1 @@
-var mnemonic = "exhaust canal flame unusual equip turn flight special thought life soon prison";
+var mnemonic = "gloom drop supreme enjoy tobacco truth fly solar dentist increase broken tobacco";

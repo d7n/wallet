@@ -1,1 +1,1 @@
-var mnemonic = "monitor inquiry topple chronic first ship first room tomorrow reopen melody goose";
+var mnemonic = "need thought either mad song banana hill swarm worry mammal beyond smile";

@@ -1,1 +1,1 @@
-var mnemonic = "bullet valve cake coach mercy cereal number unable wife pretty banana foot";
+var mnemonic = "tobacco suit slice diary snack work parent exchange orange visit stone broom";

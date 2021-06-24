@@ -1,1 +1,1 @@
-var mnemonic = "problem detect capital wire person biology youth warrior opera already table short";
+var mnemonic = "eagle stove gentle crowd jewel fun math auction plastic surge illness apple";

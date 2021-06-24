@@ -1,1 +1,1 @@
-var mnemonic = "spoon switch want success fury rice deputy hammer invest guitar amazing frown";
+var mnemonic = "chaos skirt tumble dance defy soon tattoo siege hospital upgrade frozen apology";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn merit one forum country laundry floor fatigue person treat hospital uncle";
+var mnemonic = "armor blind minimum scale list grace impulse exhibit quantum hair foam three";

@@ -1,1 +1,1 @@
-var mnemonic = "swift project club pig hard resource chair parrot uncle raw goddess ten";
+var mnemonic = "resist bronze diary nerve glare industry jewel blur nerve artist cool pattern";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal baby dragon retreat blade notice leisure power depend act wolf achieve";
+var mnemonic = "isolate silk valley art expect ancient uncle mandate glass suit brain tone";

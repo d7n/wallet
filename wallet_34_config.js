@@ -1,1 +1,1 @@
-var mnemonic = "close nation future quarter setup verb life company toe stay differ injury";
+var mnemonic = "amazing suffer multiply police strategy mushroom together mail hint click tide glass";

@@ -1,1 +1,1 @@
-var mnemonic = "century vendor lumber decide walnut rigid elite board blood alien health hazard";
+var mnemonic = "guide ketchup dutch eagle spare into thing increase arrow blood fitness fuel";

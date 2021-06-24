@@ -1,1 +1,1 @@
-var mnemonic = "notice film element whisper possible call dice tag scorpion auction false month";
+var mnemonic = "pulse depth kingdom basket armor harvest tongue rabbit banana provide fault aisle";

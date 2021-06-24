@@ -1,1 +1,1 @@
-var mnemonic = "vague fortune blush salon ticket action payment loan token outer exact worth";
+var mnemonic = "grass basic lawsuit wedding satoshi elephant ice height measure obey transfer dignity";

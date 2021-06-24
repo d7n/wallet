@@ -1,1 +1,1 @@
-var mnemonic = "picnic spy genre custom report lounge oppose visit carry ability candy valley";
+var mnemonic = "culture cricket kiss inject guitar diet moon crumble bring vintage tide wise";

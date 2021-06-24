@@ -1,1 +1,1 @@
-var mnemonic = "evidence close bullet sauce puppy review express security guide thought escape strong";
+var mnemonic = "reopen express debris science month tattoo easily flag target hammer cluster ritual";

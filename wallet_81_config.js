@@ -1,1 +1,1 @@
-var mnemonic = "maid maid carbon entire window gym exit practice post bring behave add";
+var mnemonic = "blood gun ancient select quality blouse toe mammal tonight kingdom youth express";

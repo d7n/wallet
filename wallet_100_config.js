@@ -1,1 +1,1 @@
-var mnemonic = "utility issue shield range topic grunt kiwi razor base flat million cereal";
+var mnemonic = "during swear drive frozen hover bonus learn harvest render coyote number pact";

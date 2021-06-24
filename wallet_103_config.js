@@ -1,1 +1,1 @@
-var mnemonic = "similar reflect social output warfare ecology auto base already fuel pretty super";
+var mnemonic = "host prepare cup ride exit retreat hello device polar remember bar strike";

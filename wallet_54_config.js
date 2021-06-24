@@ -1,1 +1,1 @@
-var mnemonic = "protect left dove goddess birth jungle rice bread balance seat fix power";
+var mnemonic = "enact figure dragon skull found yellow inject aim cluster name base you";

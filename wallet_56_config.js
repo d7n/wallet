@@ -1,1 +1,1 @@
-var mnemonic = "march clutch riot combine foot suspect treat wheat outer tiny tide half";
+var mnemonic = "monitor sausage original cinnamon flight bring resource member robot camera assault blade";

@@ -1,1 +1,1 @@
-var mnemonic = "tool must position stock advice pupil journey finish ostrich race prepare august";
+var mnemonic = "task kiwi parent lesson cool buzz agent decline rotate neglect pluck wreck";

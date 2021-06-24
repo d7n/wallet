@@ -1,1 +1,1 @@
-var mnemonic = "drop donkey gain found eye owner cruise electric table spawn lazy eternal";
+var mnemonic = "cloud around dog type shuffle cradle negative midnight birth loyal solution mosquito";

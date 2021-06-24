@@ -1,1 +1,1 @@
-var mnemonic = "pet negative tree gadget fresh entire dune coach shift jacket patient bitter";
+var mnemonic = "eagle doll health into mad use miracle van bracket edit avocado suffer";

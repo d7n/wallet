@@ -1,1 +1,1 @@
-var mnemonic = "play know marine country allow lottery join domain wood spin couch repair";
+var mnemonic = "fury cycle tone gather live flock route grace repeat mad illegal canyon";

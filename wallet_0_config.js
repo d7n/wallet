@@ -1,1 +1,1 @@
-var mnemonic = "turkey drive pulse era toddler impose celery script few lazy change any";
+var mnemonic = "climb room twice ahead change rookie left danger put film float cable";

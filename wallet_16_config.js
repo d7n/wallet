@@ -1,1 +1,1 @@
-var mnemonic = "inmate birth distance disorder live latin top tourist blind size uphold believe";
+var mnemonic = "sick trim because season insect ensure knife grab car near journey tail";

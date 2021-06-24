@@ -1,1 +1,1 @@
-var mnemonic = "stable patient satisfy spoil dream way pottery admit verb repeat entry poet";
+var mnemonic = "weapon oven shift sand crunch hedgehog device merit tail rebel burger dance";

@@ -1,1 +1,1 @@
-var mnemonic = "coast antique depend miracle faculty update clump copy purity gentle mouse distance";
+var mnemonic = "true skirt visa budget guitar produce cage velvet snap reform monster loan";

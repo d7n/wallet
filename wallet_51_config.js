@@ -1,1 +1,1 @@
-var mnemonic = "stamp version luggage parrot boat salad patient hurry light cheese dismiss catalog";
+var mnemonic = "rival there village rich prison note clinic eagle fence pigeon wisdom during";

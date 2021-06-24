@@ -1,1 +1,1 @@
-var mnemonic = "desert hurdle link able aerobic blanket symptom snap screen sing actress slim";
+var mnemonic = "hungry hungry cost punch cloth penalty unlock medal faith own account sausage";

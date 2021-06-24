@@ -1,1 +1,1 @@
-var mnemonic = "photo purity educate fragile melody legend velvet erase shock square certain series";
+var mnemonic = "swing fee stuff section announce enrich vanish organ milk parrot foil flip";

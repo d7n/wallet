@@ -1,1 +1,1 @@
-var mnemonic = "rural satisfy bridge shock true concert cabin kangaroo proof involve profit destroy";
+var mnemonic = "curtain royal notable scrap parade friend universe rent moon dolphin enact clay";

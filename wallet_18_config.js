@@ -1,1 +1,1 @@
-var mnemonic = "fit travel coil liberty output glove federal wheel seven blush wall solution";
+var mnemonic = "repeat art gap eager sample mobile neck business design hybrid swamp room";

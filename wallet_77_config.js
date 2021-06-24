@@ -1,1 +1,1 @@
-var mnemonic = "diary range ketchup spray cabin economy subject spare breeze job jump current";
+var mnemonic = "dial jeans tilt crucial slim position photo truck olive art capital arctic";

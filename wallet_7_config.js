@@ -1,1 +1,1 @@
-var mnemonic = "ski believe welcome vapor ready differ zone quote dance major depart attitude";
+var mnemonic = "grow vote gravity sausage multiply flee base oxygen bread ramp also mule";

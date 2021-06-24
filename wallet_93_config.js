@@ -1,1 +1,1 @@
-var mnemonic = "short cherry object uncle toilet close medal tree pledge note spawn clap";
+var mnemonic = "north tourist marble cage paper put symptom fruit plug impulse merit small";

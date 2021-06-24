@@ -1,1 +1,1 @@
-var mnemonic = "human rapid describe fun diamond crowd ten pioneer omit follow hollow major";
+var mnemonic = "tray cook casual myth random vehicle stairs dream sister tragic hungry dust";

@@ -1,1 +1,1 @@
-var mnemonic = "tenant sand rich fashion drift teach recall lawsuit dinosaur screen rotate hold";
+var mnemonic = "electric motion gasp solution ice curve silly category loop talent ozone december";

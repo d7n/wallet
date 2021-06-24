@@ -1,1 +1,1 @@
-var mnemonic = "cactus provide job biology another artefact gorilla injury method tenant label credit";
+var mnemonic = "over attitude welcome clever demise pepper dinner rotate occur beyond option metal";

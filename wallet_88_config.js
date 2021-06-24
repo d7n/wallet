@@ -1,1 +1,1 @@
-var mnemonic = "tooth affair soldier loyal worry shine inject erode fever cliff tongue random";
+var mnemonic = "toast access improve enlist almost lawsuit faculty upper father else gather giant";

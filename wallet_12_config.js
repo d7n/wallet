@@ -1,1 +1,1 @@
-var mnemonic = "resource online next season deputy crater divert garbage tone drum easily make";
+var mnemonic = "lift place input mirror strike sick hedgehog school path alarm gaze enough";

@@ -1,1 +1,1 @@
-var mnemonic = "priority cherry attract wrong clarify analyst become wine holiday fresh trophy verb";
+var mnemonic = "daring tuition donkey moment sunny flip know column hat index wide wealth";

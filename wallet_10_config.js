@@ -1,1 +1,1 @@
-var mnemonic = "cruel delay dance ozone dilemma bird local height verify okay dry network";
+var mnemonic = "rose duty decline grocery praise illness flight dentist exhibit siren immense pretty";

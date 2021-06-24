@@ -1,1 +1,1 @@
-var mnemonic = "alley allow such table tower stem caught few draft process enlist duty";
+var mnemonic = "lizard upon stand genre reject moon success source devote sound trophy olympic";

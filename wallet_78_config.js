@@ -1,1 +1,1 @@
-var mnemonic = "flip gorilla mad humble feel lonely service female connect sketch code hold";
+var mnemonic = "enlist jungle avocado few allow fantasy divide gossip buddy spread gossip report";

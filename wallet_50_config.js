@@ -1,1 +1,1 @@
-var mnemonic = "taxi holiday myth coffee bamboo dance beyond empty mad budget mean pole";
+var mnemonic = "globe snow decorate armed secret clarify unfold shrimp cross stem front meat";

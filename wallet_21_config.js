@@ -1,1 +1,1 @@
-var mnemonic = "cream insane next nurse film term question future now erosion orphan senior";
+var mnemonic = "peasant spin desk system minute leopard monitor recipe odor polar deny girl";

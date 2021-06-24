@@ -1,1 +1,1 @@
-var mnemonic = "soldier move secret party hazard amused crucial video task hunt horror story";
+var mnemonic = "across chalk clap kangaroo float bulb office strike oyster diary ranch sight";

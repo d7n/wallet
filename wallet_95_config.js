@@ -1,1 +1,1 @@
-var mnemonic = "silent prison addict innocent midnight burden ginger normal cycle flight nice special";
+var mnemonic = "stomach seven record receive coin twenty boil depth aware know donor abandon";

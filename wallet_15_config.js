@@ -1,1 +1,1 @@
-var mnemonic = "fresh ill raven piano fee slender absent bullet rug among venture mixed";
+var mnemonic = "office visa afford sorry actual giant float among pelican lyrics move grain";
