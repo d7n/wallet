@@ -1,1 +1,1 @@
-var mnemonic = "echo idle snake crisp visit history ahead total bicycle expect urban lion";
+var mnemonic = "rough journey giant swing buffalo fly loyal measure army cinnamon profit young";

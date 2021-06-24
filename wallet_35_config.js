@@ -1,1 +1,1 @@
-var mnemonic = "top attract above normal cause any grow dilemma void vast october mercy";
+var mnemonic = "kangaroo hybrid sketch scissors average increase tag noble half pudding action party";

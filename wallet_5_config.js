@@ -1,1 +1,1 @@
-var mnemonic = "extra poet process fee daughter clever answer glare breeze best record cliff";
+var mnemonic = "ginger viable marriage boss peanut barrel attitude grocery nominee ball animal wrist";

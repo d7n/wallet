@@ -1,1 +1,1 @@
-var mnemonic = "pledge mention slice eternal people machine hurry install witness void daughter frequent";
+var mnemonic = "alone clock shield forward zero life grid nominee laptop casino into yellow";

@@ -1,1 +1,1 @@
-var mnemonic = "left museum attract butter exist panel capital any trend dumb snap odor";
+var mnemonic = "frost trouble cake captain wife deposit someone derive enable slogan bless original";

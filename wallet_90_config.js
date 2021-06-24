@@ -1,1 +1,1 @@
-var mnemonic = "vicious emerge rate bird world hood unhappy sunny mammal surge unusual much";
+var mnemonic = "material wing pilot debris gospel judge measure rough mouse truck shove color";

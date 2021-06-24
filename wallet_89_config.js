@@ -1,1 +1,1 @@
-var mnemonic = "armor hungry pilot alarm model remember tortoise muffin pizza loyal strike sphere";
+var mnemonic = "rotate update ski fit gun half appear chicken people cliff require cabin";

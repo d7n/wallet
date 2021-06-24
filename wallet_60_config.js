@@ -1,1 +1,1 @@
-var mnemonic = "transfer inch endorse wife fetch sausage industry despair mother age dumb glass";
+var mnemonic = "garden fresh mad empty muscle gap drama sugar unusual taste space hurdle";

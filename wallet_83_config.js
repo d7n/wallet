@@ -1,1 +1,1 @@
-var mnemonic = "expire maid dumb rookie wide memory soft love amount analyst fox harvest";
+var mnemonic = "fiscal embody during cute sword spare miracle blouse lounge remain plastic quarter";

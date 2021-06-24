@@ -1,1 +1,1 @@
-var mnemonic = "finger episode steel seek order original subway apart actress attitude afraid bird";
+var mnemonic = "vibrant option enroll physical special silent record dragon scale peace fly crumble";

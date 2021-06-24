@@ -1,1 +1,1 @@
-var mnemonic = "clip drink wedding skull better harbor decrease bright cement run tackle hire";
+var mnemonic = "face night sight regret pottery royal slow sauce limb maximum rabbit potato";

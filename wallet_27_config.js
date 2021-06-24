@@ -1,1 +1,1 @@
-var mnemonic = "public raven this ring keen mesh wave speak fresh heart high announce";
+var mnemonic = "chase snake ostrich observe silly eager hub add keep intact bleak account";

@@ -1,1 +1,1 @@
-var mnemonic = "excite empty slender copy empower hamster car rich shrimp garden indicate weird";
+var mnemonic = "ability student rib angry shaft cancel unable matter swear tortoise renew aware";

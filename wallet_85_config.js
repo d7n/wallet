@@ -1,1 +1,1 @@
-var mnemonic = "mammal air blossom stand civil coconut hill essence subway doll elegant cook";
+var mnemonic = "unknown hard hover tape view trumpet eye candy powder narrow theory clay";

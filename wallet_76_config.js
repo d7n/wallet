@@ -1,1 +1,1 @@
-var mnemonic = "social rude ginger kangaroo traffic limb galaxy embrace guide load bamboo trial";
+var mnemonic = "toy taste pitch guitar switch drum orphan picture panther hat prefer real";

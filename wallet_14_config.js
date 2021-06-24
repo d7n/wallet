@@ -1,1 +1,1 @@
-var mnemonic = "walnut sing cook frozen equal speed first gentle cluster foam junk office";
+var mnemonic = "apology diet medal milk material rather glass wool south depart pet rigid";

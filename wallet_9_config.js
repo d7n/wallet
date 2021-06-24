@@ -1,1 +1,1 @@
-var mnemonic = "omit voyage tip pact almost barely else ostrich awkward exist champion hawk";
+var mnemonic = "bench civil absurd abandon area lunar vocal punch portion farm trap dry";

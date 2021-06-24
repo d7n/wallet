@@ -1,1 +1,1 @@
-var mnemonic = "pioneer brand fuel tilt cigar gown also exotic sand kind deny suffer";
+var mnemonic = "expand spray puzzle vacuum broken know early funny detect present bachelor wood";

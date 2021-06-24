@@ -1,1 +1,1 @@
-var mnemonic = "table absorb enhance ranch absorb actress vehicle uncover fee much harbor resource";
+var mnemonic = "similar essence toddler step salt gold fabric tray strategy taxi cricket film";

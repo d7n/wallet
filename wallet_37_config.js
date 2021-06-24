@@ -1,1 +1,1 @@
-var mnemonic = "maid pipe run gossip length canoe vacuum kingdom vital journey gravity hurry";
+var mnemonic = "raw toss spring digital metal twelve deputy disease switch transfer ill face";

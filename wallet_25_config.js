@@ -1,1 +1,1 @@
-var mnemonic = "lesson educate atom inquiry until mix wild quiz glue donate word unveil";
+var mnemonic = "couch gesture loop wash vague eternal ready size way urban exercise menu";

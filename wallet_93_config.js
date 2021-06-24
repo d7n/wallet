@@ -1,1 +1,1 @@
-var mnemonic = "ensure help battle bulk host wise rapid situate dial evil book exhibit";
+var mnemonic = "absent near ladder pilot barely collect arrest laundry poet hub scheme smile";

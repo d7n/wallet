@@ -1,1 +1,1 @@
-var mnemonic = "canyon program utility boost stand possible march measure essay swift aunt stem";
+var mnemonic = "virus cycle tomorrow actress total boring weapon kitten stool ranch science move";

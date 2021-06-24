@@ -1,1 +1,1 @@
-var mnemonic = "lucky wonder blood grid demise zone leave ladder kiwi picture resist crisp";
+var mnemonic = "cannon business bike panther renew dove cube cotton stuff joke flag goddess";

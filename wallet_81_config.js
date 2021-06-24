@@ -1,1 +1,1 @@
-var mnemonic = "wasp wagon supply fork also sauce mercy increase bamboo retire limit zoo";
+var mnemonic = "minute wall legend rotate weasel conduct helmet vintage retire dish moon problem";

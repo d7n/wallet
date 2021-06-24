@@ -1,1 +1,1 @@
-var mnemonic = "dance capable repeat panic express moment else identify rally panic route flag";
+var mnemonic = "tell pledge assist social enforce mosquito lumber start obvious vivid session victory";

@@ -1,1 +1,1 @@
-var mnemonic = "clutch toward assist uniform motion boat trash kit myself shoulder noodle notable";
+var mnemonic = "paper pony affair inner ostrich gospel source despair denial galaxy garlic boost";

@@ -1,1 +1,1 @@
-var mnemonic = "wait body luggage shed move negative volcano color knife tourist timber lawn";
+var mnemonic = "unfold cool injury lemon pattern endless fuel legend hammer ticket inherit produce";

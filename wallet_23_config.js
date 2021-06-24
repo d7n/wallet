@@ -1,1 +1,1 @@
-var mnemonic = "boring economy know cash stadium range sock bright body gadget nephew slam";
+var mnemonic = "solve eye rough armor target attract exact real rose round payment end";

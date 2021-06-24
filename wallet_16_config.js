@@ -1,1 +1,1 @@
-var mnemonic = "gaze mammal credit april doll mutual oxygen broccoli motion smooth combine hollow";
+var mnemonic = "cage nominee simple priority gloom faith wisdom robust purpose chronic chief circle";

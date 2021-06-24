@@ -1,1 +1,1 @@
-var mnemonic = "afraid twist normal apple puppy acquire sick enlist turkey roof flame tired";
+var mnemonic = "west north fatigue six essay soda monster fog home tape cube horn";

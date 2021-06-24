@@ -1,1 +1,1 @@
-var mnemonic = "powder parade idea power what cube resource caution receive profit noodle power";
+var mnemonic = "hidden galaxy burden hammer tunnel drink inspire magnet artwork thumb garlic crouch";

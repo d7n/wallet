@@ -1,1 +1,1 @@
-var mnemonic = "asset observe heavy abandon yellow sword scan deliver give peasant enforce dentist";
+var mnemonic = "company final pact simple quality crowd labor midnight border execute suit cause";

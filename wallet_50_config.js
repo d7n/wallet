@@ -1,1 +1,1 @@
-var mnemonic = "among retire feed phone interest floor choose depth impulse avoid century system";
+var mnemonic = "route daughter addict tomato intact mammal change return wolf canoe scatter cream";

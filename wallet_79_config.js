@@ -1,1 +1,1 @@
-var mnemonic = "demise eight various paddle runway help fiction pretty online ladder help memory";
+var mnemonic = "diagram country venue regular lobster swim uphold garage plug resemble dance caught";

@@ -1,1 +1,1 @@
-var mnemonic = "future garbage question room nut follow auction cricket cube arrange stem easily";
+var mnemonic = "draft brother craft green pencil penalty beauty arch gap badge grape color";

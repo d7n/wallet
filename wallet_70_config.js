@@ -1,1 +1,1 @@
-var mnemonic = "income winter loyal timber draw mango shove spell safe exist piece kit";
+var mnemonic = "buzz toast rigid field organ milk feature image rib sugar short primary";

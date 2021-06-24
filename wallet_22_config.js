@@ -1,1 +1,1 @@
-var mnemonic = "sheriff shift hurry rifle trash trip grunt march slam next oyster hover";
+var mnemonic = "coach announce spawn aunt lazy feature fatal inhale seminar mango cattle result";

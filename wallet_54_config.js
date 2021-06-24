@@ -1,1 +1,1 @@
-var mnemonic = "humble lazy exist copper gallery old slide accident dry vintage jaguar talk";
+var mnemonic = "chef arrest visit utility poverty okay balcony picnic boss casual vivid grape";

@@ -1,1 +1,1 @@
-var mnemonic = "enemy color example genre helmet south mask cancel public mule ahead venue";
+var mnemonic = "visa potato antenna rookie little glow primary assault taxi earn manage rough";

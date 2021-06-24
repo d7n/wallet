@@ -1,1 +1,1 @@
-var mnemonic = "carbon assume vibrant color infant alter mom prosper crunch cycle actual you";
+var mnemonic = "web achieve oxygen hollow banana garment kit still table earn afraid width";

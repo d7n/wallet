@@ -1,1 +1,1 @@
-var mnemonic = "follow two language because defense news fold document drift advance exclude sauce";
+var mnemonic = "vapor spot seat grab quit check butter work resemble shoe forget skate";

@@ -1,1 +1,1 @@
-var mnemonic = "brass orient pride rocket mean judge consider blue ready similar brush chat";
+var mnemonic = "purity oxygen street absorb nurse liberty dutch twenty enforce smile dash equal";

@@ -1,1 +1,1 @@
-var mnemonic = "doctor wool umbrella private inmate dinosaur remove profit only margin two dove";
+var mnemonic = "deer already dragon silk employ remove remind law uniform powder nest modify";

@@ -1,1 +1,1 @@
-var mnemonic = "roast awkward dice physical mass stock peasant flock catalog size reduce second";
+var mnemonic = "anger weekend merit apple artist truly oblige rose hollow ill abstract clap";

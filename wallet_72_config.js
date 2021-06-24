@@ -1,1 +1,1 @@
-var mnemonic = "auto bless relax layer recall attitude carbon nasty deliver ecology magnet gaze";
+var mnemonic = "awake left intact enjoy shift hungry grape drastic moral beyond deposit legend";

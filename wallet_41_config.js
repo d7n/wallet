@@ -1,1 +1,1 @@
-var mnemonic = "squeeze base history boat learn brain uphold garment drama brave trend island";
+var mnemonic = "damp brief goat stamp legend camera match extend bulb same sort assault";

@@ -1,1 +1,1 @@
-var mnemonic = "tool person debate rapid immune owner gallery coach game orient milk capable";
+var mnemonic = "much render burden spice ecology path anchor coyote card predict fuel problem";

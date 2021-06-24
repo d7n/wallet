@@ -1,1 +1,1 @@
-var mnemonic = "tuition copy draft across rug civil present broccoli vanish steak tenant month";
+var mnemonic = "cross fancy arm gather dumb walk save dynamic infant hidden author climb";

@@ -1,1 +1,1 @@
-var mnemonic = "pledge wave tip sudden about scrap inherit congress fit nothing beyond foster";
+var mnemonic = "pelican report april soldier exile lend double cram spy bone panther once";

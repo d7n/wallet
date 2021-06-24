@@ -1,1 +1,1 @@
-var mnemonic = "abandon dash library install cook fresh shoe mail traffic trick evolve suit";
+var mnemonic = "join plate blur capable cheap toast strong essence cover cement mouse rack";

@@ -1,1 +1,1 @@
-var mnemonic = "congress trap pledge love mother kingdom pudding winner genre input trap dose";
+var mnemonic = "funny coral seminar dash still common all supreme ecology glad buyer olive";

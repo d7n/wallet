@@ -1,1 +1,1 @@
-var mnemonic = "destroy swamp gaze divide soda say eagle fruit goddess salute eight auction";
+var mnemonic = "blast treat clever tuition quote pave hospital business purity ritual slice tube";

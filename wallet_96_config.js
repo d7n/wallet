@@ -1,1 +1,1 @@
-var mnemonic = "ginger hood office uniform quote own muscle lottery august cram decide earn";
+var mnemonic = "method rib find report awake render swim apology erosion dismiss journey absurd";

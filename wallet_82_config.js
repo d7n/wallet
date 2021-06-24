@@ -1,1 +1,1 @@
-var mnemonic = "proud limit jar elder intact fat tube cigar alert door cook royal";
+var mnemonic = "concert orient question auto myself stairs food copy hover excite stairs aisle";

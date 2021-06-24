@@ -1,1 +1,1 @@
-var mnemonic = "symptom venture settle nation wealth jaguar guitar potato flip aim cheap alley";
+var mnemonic = "front horror frog accident height behind inspire judge pitch iron subject night";

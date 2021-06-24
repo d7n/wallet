@@ -1,1 +1,1 @@
-var mnemonic = "client junk section exhaust behind milk balance ugly sniff wrong copy into";
+var mnemonic = "fence quick bullet rice order senior that atom hint stadium retreat enhance";

@@ -1,1 +1,1 @@
-var mnemonic = "winner salt soup merry hint success unique town fitness media simple act";
+var mnemonic = "match fresh target pelican excite cover recall imitate remember senior mobile winner";

@@ -1,1 +1,1 @@
-var mnemonic = "cancel picture purpose build crime mountain antique common jump obvious olive chuckle";
+var mnemonic = "slogan glory absent floor dumb satoshi alone escape elevator cannon find yellow";

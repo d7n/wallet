@@ -1,1 +1,1 @@
-var mnemonic = "domain green edge raccoon crash round cheap good click figure gain loud";
+var mnemonic = "shadow extra fossil upon disease unaware tennis sure final barely isolate sword";

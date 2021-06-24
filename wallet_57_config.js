@@ -1,1 +1,1 @@
-var mnemonic = "device arrow okay reflect bring regret engine festival sheriff live drive pause";
+var mnemonic = "reflect feel crop domain end predict enrich world pole myself forum piano";

@@ -1,1 +1,1 @@
-var mnemonic = "such slice reopen camera gorilla they maze sunny index explain short copy";
+var mnemonic = "message salt risk swap gather actual eye reflect evolve under wash skin";

@@ -1,1 +1,1 @@
-var mnemonic = "draft orient omit ripple stomach control rural doctor mixed soul distance march";
+var mnemonic = "certain scare casual burst draft ice mask kidney luxury rifle slab thumb";

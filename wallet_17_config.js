@@ -1,1 +1,1 @@
-var mnemonic = "monkey avocado consider ice symbol rib hybrid hobby scrap buffalo angry misery";
+var mnemonic = "proud awake base weather poverty shove person caught topic deposit control return";

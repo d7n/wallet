@@ -1,1 +1,1 @@
-var mnemonic = "across express exercise broccoli ketchup fashion steel soda pony aim credit acquire";
+var mnemonic = "volume panel merge animal airport exchange photo author slot buyer ginger east";

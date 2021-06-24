@@ -1,1 +1,1 @@
-var mnemonic = "jungle name pill strong rough always actual blouse shallow used evidence devote";
+var mnemonic = "before bleak treat zone civil pigeon travel jar aisle comfort dial axis";

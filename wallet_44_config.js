@@ -1,1 +1,1 @@
-var mnemonic = "entire vintage property afford wasp coconut fossil suit neck cause attend rubber";
+var mnemonic = "usual until marine case word action cliff test turn loop awkward grace";

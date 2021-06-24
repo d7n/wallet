@@ -1,1 +1,1 @@
-var mnemonic = "oval make daring eager energy team canyon lucky scout guitar final absorb";
+var mnemonic = "come invest truck produce teach three bulk myth coyote correct save tray";

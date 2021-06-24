@@ -1,1 +1,1 @@
-var mnemonic = "suffer castle cover occur solid nation flash feed book chase oppose smart";
+var mnemonic = "spoil cotton regret wire next just sense caution common fish oak glance";

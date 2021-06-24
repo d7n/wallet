@@ -1,1 +1,1 @@
-var mnemonic = "sorry flip robust safe answer guitar purpose require gown supreme thumb people";
+var mnemonic = "control various album neck flash grow avoid brisk wisdom whip cargo climb";

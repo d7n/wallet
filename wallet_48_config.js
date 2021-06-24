@@ -1,1 +1,1 @@
-var mnemonic = "arrive select program tooth guard busy vault hair shove october rival before";
+var mnemonic = "local run cave lobster soon daring corn vital egg chuckle rigid waste";

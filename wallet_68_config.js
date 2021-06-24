@@ -1,1 +1,1 @@
-var mnemonic = "auto female chimney current poet long chapter cave pistol attend punch sustain";
+var mnemonic = "love name make version metal agree action skill remind fame bird army";

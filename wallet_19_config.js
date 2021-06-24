@@ -1,1 +1,1 @@
-var mnemonic = "scrub orange lumber bless saddle front swear lamp hard bind alter seven";
+var mnemonic = "high rapid route office skull memory weapon average twice maid teach orbit";

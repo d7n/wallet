@@ -1,1 +1,1 @@
-var mnemonic = "fluid devote case volcano crouch pen guide ribbon honey enroll moment spy";
+var mnemonic = "endless monitor scale mention submit patch state dance coach cereal power zero";

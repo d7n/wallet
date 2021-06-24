@@ -1,1 +1,1 @@
-var mnemonic = "symbol tilt mansion jeans legend resist protect lecture cage only coyote infant";
+var mnemonic = "gesture update labor immune check stereo absorb flash paddle dizzy mansion earn";

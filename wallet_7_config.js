@@ -1,1 +1,1 @@
-var mnemonic = "visa fun decrease step glory subway drama simple together cage spare lottery";
+var mnemonic = "marble page canyon bicycle auto sell bachelor laugh snake easy sleep often";

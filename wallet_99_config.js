@@ -1,1 +1,1 @@
-var mnemonic = "nice debris sibling black powder erase bar bundle ball blur clever deputy";
+var mnemonic = "scatter visit worth forum list shaft inject catalog tent potato other coil";

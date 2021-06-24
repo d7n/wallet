@@ -1,1 +1,1 @@
-var mnemonic = "music join issue rose immune chest airport chimney donkey kingdom nice address";
+var mnemonic = "fix patrol speed gain album boost urban evoke surface rib bench attract";

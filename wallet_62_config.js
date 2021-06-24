@@ -1,1 +1,1 @@
-var mnemonic = "drift exercise dinner birth absent shock bid rescue coconut top equip obtain";
+var mnemonic = "easily suspect section exit erase calm senior armed more gown either strategy";

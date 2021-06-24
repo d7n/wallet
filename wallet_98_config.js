@@ -1,1 +1,1 @@
-var mnemonic = "achieve deliver sun hedgehog shoulder company group key figure festival whisper winter";
+var mnemonic = "gallery forget enrich moral since during dash pencil fruit speed hurry large";

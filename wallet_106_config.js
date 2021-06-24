@@ -1,1 +1,1 @@
-var mnemonic = "crop priority sausage audit question post pool gentle vessel noodle dial case";
+var mnemonic = "chaos valve innocent clarify torch same alone shell million guess march recipe";

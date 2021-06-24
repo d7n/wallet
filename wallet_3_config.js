@@ -1,1 +1,1 @@
-var mnemonic = "adult method aerobic ten happy toe dizzy recipe enough salt bubble soap";
+var mnemonic = "famous visa knock pottery thought leaf indoor yard narrow ecology move stomach";

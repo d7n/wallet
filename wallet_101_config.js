@@ -1,1 +1,1 @@
-var mnemonic = "shift flash deal illegal segment slide series swing visit soldier three measure";
+var mnemonic = "bamboo foot absorb kiss embrace zebra tortoise inner draw olympic patrol trick";

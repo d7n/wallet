@@ -1,1 +1,1 @@
-var mnemonic = "radar van edge bless cupboard social three anxiety please liar peace visa";
+var mnemonic = "liberty phrase helmet embark ancient option burden deny grunt surprise business sphere";

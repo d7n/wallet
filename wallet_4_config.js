@@ -1,1 +1,1 @@
-var mnemonic = "easy employ road clutch student mom dolphin vacuum keen cable gain loud";
+var mnemonic = "same divert office donate card flower pool powder motor early humble bomb";

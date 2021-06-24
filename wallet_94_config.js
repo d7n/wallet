@@ -1,1 +1,1 @@
-var mnemonic = "slush nature alley crater swear oven repair ghost stairs panda concert clap";
+var mnemonic = "usual offer vault biology acquire patient remain omit clay demand great theory";

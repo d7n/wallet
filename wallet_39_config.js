@@ -1,1 +1,1 @@
-var mnemonic = "expect remain vague bicycle power sausage exchange abuse upgrade month promote struggle";
+var mnemonic = "include cruel fork idle grass diamond pen room crush design rug clutch";

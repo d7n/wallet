@@ -1,1 +1,1 @@
-var mnemonic = "rough top tray desk talent brick box insane train fit fiscal tape";
+var mnemonic = "eternal cake bless interest coffee army twist hungry fit music sudden spoil";

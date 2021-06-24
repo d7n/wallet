@@ -1,1 +1,1 @@
-var mnemonic = "burst already middle sniff random cargo bone gossip special horn net elbow";
+var mnemonic = "gain luxury acid negative vibrant pause expire curtain exhibit private taxi tuition";

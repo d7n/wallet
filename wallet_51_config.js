@@ -1,1 +1,1 @@
-var mnemonic = "drum type extra honey pass have subject fork remove minor suffer spread";
+var mnemonic = "spirit trash intact oxygen ten dilemma prevent member legal purity mom essence";

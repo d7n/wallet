@@ -1,1 +1,1 @@
-var mnemonic = "govern guitar under inner canal fee core sauce adjust few venue spatial";
+var mnemonic = "glow tide shadow obvious intact weasel rule vast rice liquid begin great";

@@ -1,1 +1,1 @@
-var mnemonic = "gauge wing bridge never spirit marble adapt bottom matter same length program";
+var mnemonic = "turtle injury record liquid riot business liar gun elbow shop ladder wild";

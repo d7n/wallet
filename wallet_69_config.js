@@ -1,1 +1,1 @@
-var mnemonic = "innocent barrel april time punch slow pitch heart water useless width used";
+var mnemonic = "quiz oxygen nephew demise boring panel museum chief large rate place menu";

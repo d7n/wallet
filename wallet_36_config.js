@@ -1,1 +1,1 @@
-var mnemonic = "inquiry beach blanket frequent absent pudding north muscle letter steak live poet";
+var mnemonic = "culture day arch blossom spot civil bright midnight tree analyst cage border";

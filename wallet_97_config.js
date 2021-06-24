@@ -1,1 +1,1 @@
-var mnemonic = "where hunt champion example adapt immense spell tragic inquiry shoulder crowd need";
+var mnemonic = "cactus verb present surprise hollow stuff hover stumble warm never believe angry";

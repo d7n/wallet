@@ -1,1 +1,1 @@
-var mnemonic = "siren fiction lens alone gaze liar word crisp little brass candy have";
+var mnemonic = "lesson card head tell example plunge wool math kit heavy vault sphere";
