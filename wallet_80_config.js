@@ -1,1 +1,1 @@
-var mnemonic = "clerk switch shield enlist use grow around purity flee horn curtain arch";
+var mnemonic = "audit broom cream during cluster banana planet velvet target whisper glide snap";

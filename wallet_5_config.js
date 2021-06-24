@@ -1,1 +1,1 @@
-var mnemonic = "essence aunt blouse volcano swamp syrup reopen mass final ethics silk agree";
+var mnemonic = "neither achieve easily immune intact supply wink broken sunny jealous neck race";

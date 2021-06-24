@@ -1,1 +1,1 @@
-var mnemonic = "cruise hotel school plug scrap legend guide square nature above marble depend";
+var mnemonic = "purity question fix capable pink suspect eye share frown donkey toddler sight";

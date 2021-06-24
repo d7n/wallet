@@ -1,1 +1,1 @@
-var mnemonic = "gown doctor split keep oxygen opera make aisle reduce lounge horn dream";
+var mnemonic = "van core maze program sheriff clap company curve noise tennis engage sand";

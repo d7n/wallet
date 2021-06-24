@@ -1,1 +1,1 @@
-var mnemonic = "skin enough elite equip garment ordinary logic ride total pepper force that";
+var mnemonic = "icon invest farm hidden mom avoid vault wash kite dial certain upset";

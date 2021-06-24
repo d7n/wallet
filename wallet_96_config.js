@@ -1,1 +1,1 @@
-var mnemonic = "weasel orient print chat engage write match inflict obey wool blue wink";
+var mnemonic = "parade play federal city lend drive capable child organ disagree leisure try";

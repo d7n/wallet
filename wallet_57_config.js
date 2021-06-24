@@ -1,1 +1,1 @@
-var mnemonic = "stuff correct garbage excuse trigger consider addict tray have lady vintage hobby";
+var mnemonic = "unit bid teach brown trade stumble vivid long doll finger awful horror";

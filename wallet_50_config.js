@@ -1,1 +1,1 @@
-var mnemonic = "enlist damp desk mixed service verb away draw coast useful cement autumn";
+var mnemonic = "sense junior argue trouble tree kind festival shaft vivid diary aspect cancel";

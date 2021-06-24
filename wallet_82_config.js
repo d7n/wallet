@@ -1,1 +1,1 @@
-var mnemonic = "oak sock catch tennis mosquito glare today tree dinosaur please ocean grunt";
+var mnemonic = "foil outside company muscle garlic there office indoor squeeze slot cube pumpkin";

@@ -1,1 +1,1 @@
-var mnemonic = "guitar kidney physical sunny judge human marble distance sphere tragic negative weather";
+var mnemonic = "maid innocent voice quarter cave extra month present violin dash fame dutch";

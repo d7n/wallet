@@ -1,1 +1,1 @@
-var mnemonic = "mobile country winner nephew hint word swift search spirit express kit crucial";
+var mnemonic = "recipe squirrel flat birth toast welcome cloud liar remind sauce gather loyal";

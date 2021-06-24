@@ -1,1 +1,1 @@
-var mnemonic = "world hollow shield mail unique nut print reveal upon flip connect science";
+var mnemonic = "team stamp author stand thing unaware chalk fever else general process air";

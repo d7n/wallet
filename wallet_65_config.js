@@ -1,1 +1,1 @@
-var mnemonic = "around rubber arrest shop appear rose chef lesson improve economy agree intact";
+var mnemonic = "save crawl siren river march crouch tomato tragic unit summer garment vapor";

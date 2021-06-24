@@ -1,1 +1,1 @@
-var mnemonic = "anxiety engine wire sort clock final merit blame opera firm inflict laundry";
+var mnemonic = "poem net logic report ankle egg gaze mobile second remind glue history";

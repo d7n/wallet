@@ -1,1 +1,1 @@
-var mnemonic = "announce program rival police fuel warm sketch learn goat orange live leaf";
+var mnemonic = "eternal faculty derive report airport old trial open forum gun feature govern";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis borrow script syrup ten rifle cherry bid rabbit zebra much play";
+var mnemonic = "method unveil actress quiz party subject blouse music front rally addict pupil";

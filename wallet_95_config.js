@@ -1,1 +1,1 @@
-var mnemonic = "loan crisp taxi guitar eternal lamp scissors mushroom hello entry punch fitness";
+var mnemonic = "option van ecology letter action rug penalty voyage keep couch across tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "raven fall good adult differ clinic expect aim notice tube spoon paper";
+var mnemonic = "usual main spirit video father move leisure topple subway confirm gospel polar";

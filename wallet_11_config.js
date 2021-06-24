@@ -1,1 +1,1 @@
-var mnemonic = "stumble return patrol ramp ring toss design escape horse tray destroy science";
+var mnemonic = "mirror thought limit ripple faint smooth velvet uphold embark gesture elbow obtain";

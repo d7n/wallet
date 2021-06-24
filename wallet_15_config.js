@@ -1,1 +1,1 @@
-var mnemonic = "employ disagree social describe country find print miracle dignity crop napkin apart";
+var mnemonic = "avocado obtain liquid holiday mechanic stand chunk loop refuse name rare fame";

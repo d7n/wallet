@@ -1,1 +1,1 @@
-var mnemonic = "angry devote creek surround clerk salt dawn cart fault industry seven cute";
+var mnemonic = "brown can student blush crazy tornado fiscal host enough expire maple ticket";

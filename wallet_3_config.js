@@ -1,1 +1,1 @@
-var mnemonic = "know elegant nose quiz require entry stuff select exercise permit solution purchase";
+var mnemonic = "venue dog almost green party warrior what blue uniform review runway now";

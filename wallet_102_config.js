@@ -1,1 +1,1 @@
-var mnemonic = "swift evolve meadow shell give crush phone weekend cliff pioneer aim veteran";
+var mnemonic = "swallow awesome slide confirm explain team error melt exact draw edge witness";

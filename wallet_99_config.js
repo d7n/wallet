@@ -1,1 +1,1 @@
-var mnemonic = "rib soft puppy credit toward raccoon buddy label raw cherry alone dilemma";
+var mnemonic = "rare mesh mixture skin train useful offer cargo equal next market genius";

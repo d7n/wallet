@@ -1,1 +1,1 @@
-var mnemonic = "judge slush fault trim grunt lonely benefit cigar icon detail vehicle change";
+var mnemonic = "crunch glory off advice sound wrong cliff oyster moment scrap enlist vintage";

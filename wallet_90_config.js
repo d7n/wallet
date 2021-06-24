@@ -1,1 +1,1 @@
-var mnemonic = "olive nasty voice add ghost network table dose stay boost announce repeat";
+var mnemonic = "sorry airport sleep allow adapt grocery donkey chef torch pretty frame bone";

@@ -1,1 +1,1 @@
-var mnemonic = "abandon cause ladder retreat return account math hire strategy accident civil broom";
+var mnemonic = "funny robust cousin account hunt danger battle smile rain lonely situate know";

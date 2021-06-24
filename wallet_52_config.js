@@ -1,1 +1,1 @@
-var mnemonic = "siren tragic mountain advance nasty good curve chase hire daughter member stamp";
+var mnemonic = "few lamp solve bubble recycle dawn front food lucky lottery discover retire";

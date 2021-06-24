@@ -1,1 +1,1 @@
-var mnemonic = "pig youth leave charge exit wolf breeze toddler sense essay below mutual";
+var mnemonic = "wife ugly property oven snake soda cluster say gas chef awful edge";

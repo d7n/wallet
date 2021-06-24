@@ -1,1 +1,1 @@
-var mnemonic = "focus catalog human rare clown budget welcome amused glass weekend upon collect";
+var mnemonic = "female dynamic adult clinic praise depend upper visual remove ship crack basket";

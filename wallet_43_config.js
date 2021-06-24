@@ -1,1 +1,1 @@
-var mnemonic = "bird divide exist enact broom decade square cake ridge pill road argue";
+var mnemonic = "license brisk control tuna flock oval second tool scissors pencil pledge list";

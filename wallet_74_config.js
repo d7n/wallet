@@ -1,1 +1,1 @@
-var mnemonic = "clump notice will host diagram bitter gym approve craft sign tattoo shaft";
+var mnemonic = "metal badge private scheme narrow end spy vault wise cupboard time embark";

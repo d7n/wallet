@@ -1,1 +1,1 @@
-var mnemonic = "odor check region alley fatal pizza high forum fee insane rocket stumble";
+var mnemonic = "dove render depend aunt menu derive escape pulp water lonely adapt alter";

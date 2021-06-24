@@ -1,1 +1,1 @@
-var mnemonic = "goat chunk waste park gift tourist mixed word kiss damage injury stuff";
+var mnemonic = "deal pilot cushion street night frame reunion strategy desert pool alien grocery";

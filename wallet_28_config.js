@@ -1,1 +1,1 @@
-var mnemonic = "same duty omit early excite endless faint birth hamster awful clap action";
+var mnemonic = "proof carpet stick maid sausage liberty degree right observe issue quarter artwork";

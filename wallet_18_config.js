@@ -1,1 +1,1 @@
-var mnemonic = "forest output chicken embody patch sorry shoe coconut buffalo frequent neglect acoustic";
+var mnemonic = "angle practice frog lobster ripple tilt enhance current gadget between change urge";

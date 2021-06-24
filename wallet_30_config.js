@@ -1,1 +1,1 @@
-var mnemonic = "flight salute number fence soccer fabric peanut silly outside mammal rug harsh";
+var mnemonic = "sniff piece buzz creek sorry scrap coin waste oxygen wise type pair";

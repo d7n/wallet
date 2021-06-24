@@ -1,1 +1,1 @@
-var mnemonic = "draw jazz because share thunder proof predict vibrant tail produce adapt oak";
+var mnemonic = "sock depth imitate quantum over action term noble bar guide daughter subway";

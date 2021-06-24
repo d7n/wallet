@@ -1,1 +1,1 @@
-var mnemonic = "card humble leisure lounge skill comfort digital sail vault neglect priority coast";
+var mnemonic = "recycle endless bar dad town firm dream never dignity lottery hospital hurry";

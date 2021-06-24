@@ -1,1 +1,1 @@
-var mnemonic = "scrap slim return neglect process liquid tray keep blame bless episode defense";
+var mnemonic = "blush deny uncle six urge rather zebra torch tortoise pipe soap shrug";

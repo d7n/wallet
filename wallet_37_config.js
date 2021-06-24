@@ -1,1 +1,1 @@
-var mnemonic = "boss turkey cable ladder enlist cave trouble tongue boss donate member warrior";
+var mnemonic = "holiday source nut bless spot soccer pony miracle when mystery dizzy message";

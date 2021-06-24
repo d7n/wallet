@@ -1,1 +1,1 @@
-var mnemonic = "december fatal game okay letter trim fitness mix burst suffer join input";
+var mnemonic = "lecture remove vast pizza enter refuse jelly program cruise banner diamond web";

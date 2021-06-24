@@ -1,1 +1,1 @@
-var mnemonic = "axis service disagree group coil receive powder level inhale sudden chef hundred";
+var mnemonic = "cheese hockey jealous around master slow reopen alpha wild machine concert dish";

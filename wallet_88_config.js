@@ -1,1 +1,1 @@
-var mnemonic = "pudding chalk sustain inflict intact radar elite skin change relief toy bunker";
+var mnemonic = "solution flip very jaguar slogan uncle flush fetch outside pill few census";

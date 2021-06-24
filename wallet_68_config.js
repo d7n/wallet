@@ -1,1 +1,1 @@
-var mnemonic = "memory whip dad letter access uniform ready such gravity slam foot strike";
+var mnemonic = "bind win boat buzz victory enemy blur ethics spike strong wolf december";

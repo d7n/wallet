@@ -1,1 +1,1 @@
-var mnemonic = "shove assume nose jazz town stone midnight spend luggage twin buddy journey";
+var mnemonic = "thumb bean frown pull season advance bullet pluck lab danger brush grant";

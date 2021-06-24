@@ -1,1 +1,1 @@
-var mnemonic = "wisdom day sort edit dune stem festival gaze forest transfer exhaust race";
+var mnemonic = "service napkin wonder city arctic fossil rapid list arrest jewel devote reflect";

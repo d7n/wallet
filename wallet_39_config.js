@@ -1,1 +1,1 @@
-var mnemonic = "gain flat limit include frozen favorite future junk ball stuff leisure such";
+var mnemonic = "flat upgrade liquid kitten beach margin physical knee record long become fly";

@@ -1,1 +1,1 @@
-var mnemonic = "screen culture pudding gadget worth weekend garage position deal rug dust pen";
+var mnemonic = "type lumber hawk moral treat start exit kitchen much document company slush";

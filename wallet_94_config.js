@@ -1,1 +1,1 @@
-var mnemonic = "fluid ozone uncle fever humble kiwi analyst direct recall link top inside";
+var mnemonic = "shaft raccoon auction dune call early absent strong peace member major half";

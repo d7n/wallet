@@ -1,1 +1,1 @@
-var mnemonic = "divert control place limit book maple like tobacco window bomb weapon camp";
+var mnemonic = "spring tomorrow insect differ cage combine remember device celery donor oblige purse";

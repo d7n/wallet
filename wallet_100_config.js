@@ -1,1 +1,1 @@
-var mnemonic = "sentence pipe brand arrow avocado home bamboo broccoli gloom arrest slim frequent";
+var mnemonic = "deliver can power around ghost lend odor news couch method top hill";

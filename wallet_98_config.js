@@ -1,1 +1,1 @@
-var mnemonic = "dismiss wear iron van settle can flee reward frown chronic merry forget";
+var mnemonic = "animal swap immense snow antenna atom index embody float cheap benefit despair";

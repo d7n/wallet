@@ -1,1 +1,1 @@
-var mnemonic = "code tide average auction enough busy thumb ship length sheriff earth law";
+var mnemonic = "idea nothing install useful canoe sorry torch capable armor outer author consider";

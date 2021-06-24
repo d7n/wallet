@@ -1,1 +1,1 @@
-var mnemonic = "reflect giant cotton crack impose public shed rival street bamboo hundred walnut";
+var mnemonic = "season away hill detect snack brown clap cable fun rate pole gasp";

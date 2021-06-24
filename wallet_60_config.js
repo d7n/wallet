@@ -1,1 +1,1 @@
-var mnemonic = "liberty satisfy silly trim priority dice clay hospital loop chapter symbol retire";
+var mnemonic = "spy pass mercy adapt fashion size anger short miss affair remember basic";

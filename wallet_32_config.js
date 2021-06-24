@@ -1,1 +1,1 @@
-var mnemonic = "pride divide huge mixture subject trim diary high december grant voice flavor";
+var mnemonic = "whisper wagon coyote blue remain connect legend then series garage phone together";

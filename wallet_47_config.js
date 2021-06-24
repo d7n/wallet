@@ -1,1 +1,1 @@
-var mnemonic = "little need pave yard define risk section apart trophy profit gasp grant";
+var mnemonic = "security slow defy bamboo digital bamboo ozone lab essay talent remember below";

@@ -1,1 +1,1 @@
-var mnemonic = "major false exile mouse muffin onion forum jungle outside jelly gun razor";
+var mnemonic = "nothing identify sad donkey benefit parade crowd once screen bitter endorse jacket";

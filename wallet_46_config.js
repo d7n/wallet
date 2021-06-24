@@ -1,1 +1,1 @@
-var mnemonic = "opinion clever stereo wink kangaroo surface drastic define cloud suggest middle venture";
+var mnemonic = "enact crawl uncover gloom where room upon person genre ignore dutch cave";

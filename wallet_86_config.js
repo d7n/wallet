@@ -1,1 +1,1 @@
-var mnemonic = "theme north unaware monster monkey clap identify agree slogan domain horror blanket";
+var mnemonic = "sense roast little annual this resource common peanut clerk tobacco jazz fortune";

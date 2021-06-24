@@ -1,1 +1,1 @@
-var mnemonic = "river faculty reunion always wrap trumpet autumn vehicle combine speak item jar";
+var mnemonic = "bundle old top unfair blade tent guilt size team taste isolate expire";

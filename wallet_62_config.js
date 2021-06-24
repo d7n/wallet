@@ -1,1 +1,1 @@
-var mnemonic = "barely idea adapt palm glove stool above wrap cloth code chat wreck";
+var mnemonic = "debate siege sport enact eagle wheel argue ladder bind guide work slide";

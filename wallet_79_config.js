@@ -1,1 +1,1 @@
-var mnemonic = "link magic hello slender they wool humor sunny fringe rib walk pink";
+var mnemonic = "trumpet provide scissors deliver crack hold dress witness fat million shift trend";

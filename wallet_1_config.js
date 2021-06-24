@@ -1,1 +1,1 @@
-var mnemonic = "stomach stairs worth civil sample sleep engine future limit paper amazing wagon";
+var mnemonic = "sweet act drama liberty vivid milk gold walnut ripple plug section force";

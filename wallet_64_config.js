@@ -1,1 +1,1 @@
-var mnemonic = "topple fiscal lyrics throw broken art render sausage desert hungry sword hungry";
+var mnemonic = "special absorb switch cabin fall uncle guilt drum thrive decade inject distance";

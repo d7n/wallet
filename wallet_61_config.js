@@ -1,1 +1,1 @@
-var mnemonic = "calm dash indoor rubber group again faculty clip cliff festival rent dignity";
+var mnemonic = "sight universe chaos gain ship satisfy produce inform predict funny endless marble";

@@ -1,1 +1,1 @@
-var mnemonic = "post reduce where word flock stuff join correct ordinary wish frown mushroom";
+var mnemonic = "duck minute quantum merge local forward divert method master spoon spell shop";

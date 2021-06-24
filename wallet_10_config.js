@@ -1,1 +1,1 @@
-var mnemonic = "dignity fiscal okay client mountain stomach dragon plate cabbage arena embark deliver";
+var mnemonic = "bright hero volume life alarm wedding pledge modify thing yard agent minor";

@@ -1,1 +1,1 @@
-var mnemonic = "hobby tornado fade duty east wisdom robot famous parent shoe prize memory";
+var mnemonic = "sponsor echo gravity engine rotate beyond giraffe inform fashion peasant seven own";

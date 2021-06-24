@@ -1,1 +1,1 @@
-var mnemonic = "toilet vocal liar best learn profit fluid ski media rib submit nation";
+var mnemonic = "crowd tourist trip nice age swim culture uncle craft broom blossom sand";

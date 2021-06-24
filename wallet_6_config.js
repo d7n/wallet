@@ -1,1 +1,1 @@
-var mnemonic = "olympic organ pause winter alone boss kiwi casino drift zero senior grocery";
+var mnemonic = "cool best clarify immense angry sad poem husband dial bar print funny";

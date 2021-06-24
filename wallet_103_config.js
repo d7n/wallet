@@ -1,1 +1,1 @@
-var mnemonic = "smooth script drink heavy share sign master slot simple rotate recycle quality";
+var mnemonic = "shell delay apology lumber shrug pledge media detail water tell render dizzy";

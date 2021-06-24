@@ -1,1 +1,1 @@
-var mnemonic = "spirit fatal ordinary ensure display whip avocado multiply maximum fold loan size";
+var mnemonic = "enrich alcohol mass notice seat east sign code accident hour person fitness";

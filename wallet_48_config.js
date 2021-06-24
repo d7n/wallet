@@ -1,1 +1,1 @@
-var mnemonic = "lizard pizza sunset era nasty steak screen sustain urge gain purity grief";
+var mnemonic = "dismiss office party harvest edit bike swallow wisdom album midnight hospital deal";

@@ -1,1 +1,1 @@
-var mnemonic = "congress wrist nurse chunk pioneer horn keen bottom advice normal tell zone";
+var mnemonic = "debris negative dutch work dutch battle focus tool rally toe nothing jealous";

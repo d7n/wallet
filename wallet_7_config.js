@@ -1,1 +1,1 @@
-var mnemonic = "define spawn wheel surprise similar bring coffee sugar erode energy breeze guilt";
+var mnemonic = "believe sting useless they define embody chicken purity alarm review staff pistol";

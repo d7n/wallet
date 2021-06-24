@@ -1,1 +1,1 @@
-var mnemonic = "fashion truth actress water card desert era omit common edge bargain despair";
+var mnemonic = "december smoke bread sorry mosquito blossom want peasant ride village math gift";

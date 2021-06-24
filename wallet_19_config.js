@@ -1,1 +1,1 @@
-var mnemonic = "path fossil reduce sure wing alter equal vivid eight indoor refuse spike";
+var mnemonic = "whisper develop alarm rug artwork ankle clerk clever unique nose chair language";

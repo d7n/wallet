@@ -1,1 +1,1 @@
-var mnemonic = "cotton draw time fly gold power syrup patient page another asset picnic";
+var mnemonic = "rebuild deal edit bonus crawl virtual city pepper lock prepare during frequent";

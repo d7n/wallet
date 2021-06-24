@@ -1,1 +1,1 @@
-var mnemonic = "sail rib bonus lamp jacket fire sunny pen card oxygen hub horn";
+var mnemonic = "mammal track volume nothing horn skull ankle labor action sock claw goose";

@@ -1,1 +1,1 @@
-var mnemonic = "angle echo fiber air harbor alarm suggest senior gun castle thumb observe";
+var mnemonic = "wait thank mango spell throw copy chronic mean goddess future bone travel";

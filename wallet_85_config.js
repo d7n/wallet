@@ -1,1 +1,1 @@
-var mnemonic = "hour truly invite kingdom donor scare laugh depend cabin alcohol audit finish";
+var mnemonic = "budget question ill harsh alpha thing illegal bar damage wait plate crowd";

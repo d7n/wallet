@@ -1,1 +1,1 @@
-var mnemonic = "define razor gaze merge cereal certain cushion scorpion clay reason sudden genius";
+var mnemonic = "simple defense genre supreme rally dash arrest child series edit love usage";

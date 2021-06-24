@@ -1,1 +1,1 @@
-var mnemonic = "behave differ brief sunset select snow maple pottery lawsuit embrace flower pupil";
+var mnemonic = "life top come can scorpion void sun trade goddess autumn witness trophy";

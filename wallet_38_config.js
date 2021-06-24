@@ -1,1 +1,1 @@
-var mnemonic = "debris lucky crouch banner very open pyramid pattern duty pattern skate insane";
+var mnemonic = "sauce adapt sell dash cattle scan angle usual mule argue decrease blue";

@@ -1,1 +1,1 @@
-var mnemonic = "federal nasty short girl panda flock pear matter sound rice choice energy";
+var mnemonic = "minor pave usage when steel head depth collect clinic wrist fiction spice";

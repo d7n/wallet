@@ -1,1 +1,1 @@
-var mnemonic = "great manual youth trouble faith chunk video sign penalty snap cement render";
+var mnemonic = "genuine mouse frown ghost trick glad nice champion depart bracket core cool";

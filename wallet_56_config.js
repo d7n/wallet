@@ -1,1 +1,1 @@
-var mnemonic = "hope pilot reform hungry prevent resource boost gain sort noble nut arctic";
+var mnemonic = "exist immune defy filter sad satoshi enroll health pig cereal baby tribe";

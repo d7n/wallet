@@ -1,1 +1,1 @@
-var mnemonic = "fatal cousin also dinner electric jeans ghost ready inquiry detail unlock aware";
+var mnemonic = "huge element cement drum federal tree print zero wood arch arm position";

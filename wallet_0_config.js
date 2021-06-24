@@ -1,1 +1,1 @@
-var mnemonic = "stick describe trash gossip logic short motion hawk good drink version hip";
+var mnemonic = "bleak cattle artwork review help kit match output profit north can rural";

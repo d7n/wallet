@@ -1,1 +1,1 @@
-var mnemonic = "index original butter scene sound whip chaos regret save exhaust pizza zoo";
+var mnemonic = "olive latin stairs weather dress cool between utility clean nest select victory";

@@ -1,1 +1,1 @@
-var mnemonic = "topic guitar timber van talent gift gain practice nose episode brand fluid";
+var mnemonic = "click fiber cat federal clinic switch citizen speak budget cheap mimic cover";

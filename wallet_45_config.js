@@ -1,1 +1,1 @@
-var mnemonic = "nerve popular indoor debate income tail hobby unfair spread wild ankle bag";
+var mnemonic = "brown nuclear despair vote suggest decline quality suspect track biology firm account";

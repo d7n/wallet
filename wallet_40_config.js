@@ -1,1 +1,1 @@
-var mnemonic = "market virus squirrel truth hunt exhaust also forest matrix romance drift spend";
+var mnemonic = "game suffer select myself enough include pear junk maze discover pact over";

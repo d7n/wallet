@@ -1,1 +1,1 @@
-var mnemonic = "year thumb assault dry two spy raw else old hover game pool";
+var mnemonic = "exchange put frequent february wine fix curious rely laundry friend grant cube";
