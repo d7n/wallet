@@ -1,1 +1,1 @@
-var mnemonic = "acid input fluid update acoustic lobster analyst space live isolate collect rib";
+var mnemonic = "vital mail angle wheel tuition naive logic metal garden scare state crunch";

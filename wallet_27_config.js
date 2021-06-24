@@ -1,1 +1,1 @@
-var mnemonic = "mad reflect motor hint route trap uncle enter year naive pioneer code";
+var mnemonic = "clip bid chief ancient angle file round lesson list pipe hollow hamster";

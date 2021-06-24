@@ -1,1 +1,1 @@
-var mnemonic = "suit renew glare cherry punch brand clutch reason idea next reform kit";
+var mnemonic = "shy gather photo student phrase recall solve boring unit tape axis lottery";

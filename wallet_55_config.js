@@ -1,1 +1,1 @@
-var mnemonic = "finish hobby involve front clinic captain option undo boil absorb maximum concert";
+var mnemonic = "enable rib measure jar legend region sunset cage youth nerve buyer marriage";

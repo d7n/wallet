@@ -1,1 +1,1 @@
-var mnemonic = "egg gesture income elbow industry swarm grace develop gap payment hamster general";
+var mnemonic = "lab law bounce scale box tuna rack source erupt tape float bitter";

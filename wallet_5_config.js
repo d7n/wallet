@@ -1,1 +1,1 @@
-var mnemonic = "fortune height dress usual rate course include camp yard rather lyrics abuse";
+var mnemonic = "zone project mercy flame toilet gift genre cattle sausage curve core post";

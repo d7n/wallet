@@ -1,1 +1,1 @@
-var mnemonic = "casual spot sunset first trigger mobile dress grit much biology horn leisure";
+var mnemonic = "pole lock prefer tumble present axis across gravity brick buffalo rain guard";

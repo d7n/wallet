@@ -1,1 +1,1 @@
-var mnemonic = "stereo slab boost start coconut member plug pumpkin social cry else lamp";
+var mnemonic = "genre lumber tide about infant cave fabric leopard test dash gauge surface";

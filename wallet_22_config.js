@@ -1,1 +1,1 @@
-var mnemonic = "harsh square comfort steak issue vivid friend theme mad gorilla ski exile";
+var mnemonic = "photo orient toe sing soccer catalog skin habit oven theory wet swamp";

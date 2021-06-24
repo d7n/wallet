@@ -1,1 +1,1 @@
-var mnemonic = "brick charge slogan decrease protect erase infant vague poverty frown rural popular";
+var mnemonic = "custom advice pattern elegant lawn great open own pretty relax hawk tragic";

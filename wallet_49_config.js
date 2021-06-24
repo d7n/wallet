@@ -1,1 +1,1 @@
-var mnemonic = "mammal priority payment route math interest maximum click link dune kit wheat";
+var mnemonic = "letter elbow cable water speed floor raw order drama economy yellow diamond";

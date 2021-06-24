@@ -1,1 +1,1 @@
-var mnemonic = "border pledge merge exact staff host aisle relax section elegant minute kangaroo";
+var mnemonic = "syrup submit armor range toy spell sausage into brand symbol enroll soccer";

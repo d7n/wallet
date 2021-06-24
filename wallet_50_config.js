@@ -1,1 +1,1 @@
-var mnemonic = "clutch forest business vapor violin gap angle relief auction orient valley unlock";
+var mnemonic = "royal demise mention consider myth cube trick pepper awkward task churn novel";

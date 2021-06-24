@@ -1,1 +1,1 @@
-var mnemonic = "ethics modify tenant force toilet silly order service soap swap unusual ostrich";
+var mnemonic = "write blue intact credit input buzz breeze check cram pyramid snack time";

@@ -1,1 +1,1 @@
-var mnemonic = "record verify theory speak exhaust fog throw palm level menu visit acquire";
+var mnemonic = "treat list fish joke episode monster nasty olive gallery air ready shed";

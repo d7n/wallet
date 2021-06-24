@@ -1,1 +1,1 @@
-var mnemonic = "grab risk better head size search depth inject stool man future antenna";
+var mnemonic = "rain calm eternal such future bird parent phrase plunge glass horse pair";

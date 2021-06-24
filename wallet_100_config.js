@@ -1,1 +1,1 @@
-var mnemonic = "addict claim auto shine multiply permit air ticket lumber upgrade aspect flower";
+var mnemonic = "net begin fragile two turn cupboard music spend joke beach car breeze";

@@ -1,1 +1,1 @@
-var mnemonic = "cannon wet possible blanket marine manage plug trap afraid grape miss submit";
+var mnemonic = "identify bottom polar panda shuffle matrix vanish diary float happy true equip";

@@ -1,1 +1,1 @@
-var mnemonic = "gossip kick option pledge assist sustain oyster belt core nasty weird heart";
+var mnemonic = "metal dizzy shine disagree scan behind retire actual divorce twelve wine night";

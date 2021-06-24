@@ -1,1 +1,1 @@
-var mnemonic = "gown moon bacon hunt click interest liar swift protect neutral jacket lock";
+var mnemonic = "ginger company dry custom wagon buddy solar enter piano world simple assume";

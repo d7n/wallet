@@ -1,1 +1,1 @@
-var mnemonic = "skirt soap snack comic clown antenna earth nephew spy derive myth choice";
+var mnemonic = "follow escape lunch pony fly adjust decrease motor alert drum van opera";

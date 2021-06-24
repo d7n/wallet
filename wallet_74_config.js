@@ -1,1 +1,1 @@
-var mnemonic = "riot rare unit hat route finger force original gentle verify smooth giant";
+var mnemonic = "palace involve hire catalog hawk easy garment rail fan fence essay buyer";

@@ -1,1 +1,1 @@
-var mnemonic = "envelope record venue brief ball hybrid between butter help actress cry flame";
+var mnemonic = "camera expire tower clutch cage drip fancy pencil honey zero excuse brain";

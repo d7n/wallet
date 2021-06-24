@@ -1,1 +1,1 @@
-var mnemonic = "then mask walk mix brave render wear fossil resist add debate base";
+var mnemonic = "wrestle render man urge person nut loud toss awful record decide true";

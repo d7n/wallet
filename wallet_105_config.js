@@ -1,1 +1,1 @@
-var mnemonic = "canal welcome morning beauty boat begin oak athlete gain income feature panel";
+var mnemonic = "maid lock obscure close announce clever canoe input cruise huge siren coffee";

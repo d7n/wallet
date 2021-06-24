@@ -1,1 +1,1 @@
-var mnemonic = "february express chimney awkward possible dizzy donkey air bomb trust absorb message";
+var mnemonic = "bullet faculty bench peasant quarter crowd isolate sibling ghost monitor mesh orange";

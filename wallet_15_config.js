@@ -1,1 +1,1 @@
-var mnemonic = "parade luxury start mean young dove claw stove shoe candy tag jaguar";
+var mnemonic = "turkey access abstract torch ladder multiply elite scrap unable scare tornado fun";

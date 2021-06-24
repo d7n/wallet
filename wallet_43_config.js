@@ -1,1 +1,1 @@
-var mnemonic = "enforce noodle budget seven pony security type hire wise wine chapter toward";
+var mnemonic = "math drum oppose victory task zebra frozen hungry marriage stuff buyer unaware";

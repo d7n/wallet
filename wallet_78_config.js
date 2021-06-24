@@ -1,1 +1,1 @@
-var mnemonic = "employ dwarf hobby light best length saddle leisure weather express inmate trade";
+var mnemonic = "until update stone buyer busy half sense surprise flock clever twelve size";

@@ -1,1 +1,1 @@
-var mnemonic = "much mobile color food artwork badge cannon way census coil duck boil";
+var mnemonic = "soon rebel talent quiz convince amazing cabin coast pulp famous camp violin";

@@ -1,1 +1,1 @@
-var mnemonic = "swamp expose doctor miss save waste lesson swim girl boil submit scene";
+var mnemonic = "explain winner thank mix axis author dignity school rotate foam ticket early";

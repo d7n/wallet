@@ -1,1 +1,1 @@
-var mnemonic = "shrug unit patch breeze object soccer decorate priority surface equip fragile crystal";
+var mnemonic = "gown penalty rotate pigeon chaos stuff trip kit cloud eagle food flight";

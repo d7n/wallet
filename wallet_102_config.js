@@ -1,1 +1,1 @@
-var mnemonic = "uphold clay bulk quick whale raise fish buyer shove hair decade repeat";
+var mnemonic = "legend tone east width voice between favorite huge dream field delay ensure";

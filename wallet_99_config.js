@@ -1,1 +1,1 @@
-var mnemonic = "armed puppy initial disease service news mother flash help radio edge pause";
+var mnemonic = "enhance coil huge object ensure employ advice mystery hold crucial drill clown";

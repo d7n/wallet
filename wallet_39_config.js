@@ -1,1 +1,1 @@
-var mnemonic = "fever weird school spirit clean tree monster excess aisle permit flavor rhythm";
+var mnemonic = "garment fire butter spy naive chair biology two wait symbol reflect wine";

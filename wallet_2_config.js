@@ -1,1 +1,1 @@
-var mnemonic = "warrior torch wagon stove just change gaze moral bunker attack draw end";
+var mnemonic = "various opinion enemy okay shield choice attend elder hold glue license black";

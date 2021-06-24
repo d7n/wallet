@@ -1,1 +1,1 @@
-var mnemonic = "series curve shell year zoo echo ocean admit nest portion eye system";
+var mnemonic = "kangaroo case invite worry harsh mother such budget hybrid twenty puzzle alien";

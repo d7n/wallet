@@ -1,1 +1,1 @@
-var mnemonic = "trumpet space laundry speak weekend velvet lift meat helmet youth erase valid";
+var mnemonic = "annual circle recall print foam future muffin unlock sweet member heart kangaroo";

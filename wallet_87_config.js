@@ -1,1 +1,1 @@
-var mnemonic = "blast heart abuse trap gloom mango age tribe melody slide comic gravity";
+var mnemonic = "tank end labor practice sort possible bonus also history cushion crew gentle";

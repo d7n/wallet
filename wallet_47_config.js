@@ -1,1 +1,1 @@
-var mnemonic = "congress sing congress avocado tuition damage jungle negative trigger degree decade begin";
+var mnemonic = "office woman zone mushroom scorpion curtain still permit bring frame people install";

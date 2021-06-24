@@ -1,1 +1,1 @@
-var mnemonic = "case step valid lava kiwi typical virus face fog soldier hood blur";
+var mnemonic = "vacuum series banana old appear romance scrub yard already fine skirt wear";

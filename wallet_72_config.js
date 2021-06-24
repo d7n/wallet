@@ -1,1 +1,1 @@
-var mnemonic = "afford grain found park bachelor oppose debate boost cigar before cheap addict";
+var mnemonic = "match order horror address fitness diagram casino spare inherit ticket song any";

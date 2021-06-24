@@ -1,1 +1,1 @@
-var mnemonic = "camp hen canyon pyramid ordinary gold settle tired lumber doctor door magnet";
+var mnemonic = "thought day flock friend fresh truly column earth return warfare heart illegal";

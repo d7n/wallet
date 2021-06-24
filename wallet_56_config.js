@@ -1,1 +1,1 @@
-var mnemonic = "note fatigue obtain pumpkin convince sample draw talent opera release they never";
+var mnemonic = "shift off section region wonder release frame vintage elephant often verify cactus";

@@ -1,1 +1,1 @@
-var mnemonic = "apple stomach relax expect sorry hip alpha exotic scan elephant raccoon plastic";
+var mnemonic = "filter coral derive please situate issue route despair tenant room word route";

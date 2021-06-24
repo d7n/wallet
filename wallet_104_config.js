@@ -1,1 +1,1 @@
-var mnemonic = "fetch shuffle fortune neglect guard used slam speak claim field tennis when";
+var mnemonic = "play shove ancient expand ridge render sword behind broken tennis jacket debris";

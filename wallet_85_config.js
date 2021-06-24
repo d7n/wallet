@@ -1,1 +1,1 @@
-var mnemonic = "position ramp true comfort salmon gate high cook income attend wife fury";
+var mnemonic = "pulp employ squeeze long reform token copy sport little habit program before";

@@ -1,1 +1,1 @@
-var mnemonic = "silk draw trend media offer fade charge pony animal tomato enough cup";
+var mnemonic = "sketch final found aerobic trigger title brave worth they honey armed foster";

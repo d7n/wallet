@@ -1,1 +1,1 @@
-var mnemonic = "ride pottery envelope deposit rib buffalo predict afford comfort paddle trouble cinnamon";
+var mnemonic = "banner rack matter correct legend wife flock second law head tape couch";

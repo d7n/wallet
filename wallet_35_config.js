@@ -1,1 +1,1 @@
-var mnemonic = "sick charge until buzz hunt scissors tobacco coral slush predict razor chronic";
+var mnemonic = "drive pelican physical kitten love fly shop ritual south annual risk similar";

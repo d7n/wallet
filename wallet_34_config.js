@@ -1,1 +1,1 @@
-var mnemonic = "weather churn quantum half excuse child stadium pluck manage noble victory upper";
+var mnemonic = "despair athlete recycle glow orphan axis salad wish list vivid slam food";

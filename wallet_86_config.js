@@ -1,1 +1,1 @@
-var mnemonic = "eight frog wool army upper cram solution case key glass rare island";
+var mnemonic = "elephant legal invest hazard scrap visit helmet float yellow escape uncover thing";

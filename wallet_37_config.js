@@ -1,1 +1,1 @@
-var mnemonic = "danger flower work indoor loyal urban peanut gun fiber hamster stable huge";
+var mnemonic = "leg cash later silly december engage estate mosquito put drama gloom hour";

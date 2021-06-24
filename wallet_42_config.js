@@ -1,1 +1,1 @@
-var mnemonic = "bone hungry double near trust sting visa morning original hundred hour shallow";
+var mnemonic = "poet slogan planet pull grunt yard picture trumpet smart then clay miss";

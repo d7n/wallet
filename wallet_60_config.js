@@ -1,1 +1,1 @@
-var mnemonic = "drill alcohol broccoli auction dwarf tissue seminar uncover myself best napkin remember";
+var mnemonic = "harsh manage mandate raw smart silk neither emerge try sell rough one";

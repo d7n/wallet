@@ -1,1 +1,1 @@
-var mnemonic = "swear cool resource goat shield life connect whale north matter usual into";
+var mnemonic = "diet change tuna describe swallow pencil wink harvest quarter judge simple pledge";

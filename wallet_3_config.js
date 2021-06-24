@@ -1,1 +1,1 @@
-var mnemonic = "split clog simple dash crumble sock original gold knee charge error trigger";
+var mnemonic = "jungle mirror old address moon misery popular diet spoon skirt thunder filter";

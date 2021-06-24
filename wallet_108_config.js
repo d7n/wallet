@@ -1,1 +1,1 @@
-var mnemonic = "ten enter thunder buffalo cook addict surge swing absorb orange this ready";
+var mnemonic = "inner door dwarf remember equal diamond gym monkey system render learn aisle";

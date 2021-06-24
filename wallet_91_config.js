@@ -1,1 +1,1 @@
-var mnemonic = "small favorite mango produce axis vintage about cattle column hockey finger engine";
+var mnemonic = "angle install luxury north tank village erupt effort evil alcohol industry blush";

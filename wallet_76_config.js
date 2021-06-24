@@ -1,1 +1,1 @@
-var mnemonic = "boat clever fly garment praise small athlete common steak hurt square conduct";
+var mnemonic = "solid drift fun cage narrow crime movie where abandon reveal margin dice";

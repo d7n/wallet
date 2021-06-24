@@ -1,1 +1,1 @@
-var mnemonic = "roast wheat claw bright soccer rare seat art place moment relief defense";
+var mnemonic = "lonely hire aspect defy syrup invite shoe frog lawsuit nest pioneer gorilla";

@@ -1,1 +1,1 @@
-var mnemonic = "curious filter easy degree tragic mutual fuel include curtain unfold degree federal";
+var mnemonic = "average dream inhale episode tuna dash penalty lesson feed enable arctic when";

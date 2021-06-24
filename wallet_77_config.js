@@ -1,1 +1,1 @@
-var mnemonic = "suggest edge reunion tide humble canal arctic among need female timber uncover";
+var mnemonic = "pelican milk coffee dial peanut spread dose oyster defense gravity canoe pottery";

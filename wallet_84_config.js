@@ -1,1 +1,1 @@
-var mnemonic = "weasel across remind answer floor salad turkey radio ahead off expose shove";
+var mnemonic = "wrist arch joke tennis ask trick tip carpet enjoy can pudding armor";

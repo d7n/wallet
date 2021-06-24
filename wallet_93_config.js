@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon risk wheat arrow table confirm endorse survey improve over pyramid supreme";
+var mnemonic = "weapon luxury inside angry volume clarify trust uniform trade february earn sausage";

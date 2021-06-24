@@ -1,1 +1,1 @@
-var mnemonic = "recipe manage will trial evil mail where close banner elite attack pencil";
+var mnemonic = "bag tackle smooth north submit have latin remember cliff put ring goddess";

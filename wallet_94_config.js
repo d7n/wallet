@@ -1,1 +1,1 @@
-var mnemonic = "mirror assume false grunt rib adapt warm throw inherit man mother mechanic";
+var mnemonic = "expire brisk drip text load spin stadium rabbit crumble betray chat breeze";

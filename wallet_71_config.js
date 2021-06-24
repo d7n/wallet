@@ -1,1 +1,1 @@
-var mnemonic = "step clown treat sword venture spirit avocado fetch shop awesome foster pistol";
+var mnemonic = "you soda nose athlete clay sadness genius manual bicycle diet wage swallow";

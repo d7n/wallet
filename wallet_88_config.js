@@ -1,1 +1,1 @@
-var mnemonic = "tissue oblige general peanut own clown display copper crush hungry vicious disorder";
+var mnemonic = "argue debris ribbon human machine crack sea dial annual winter dose half";

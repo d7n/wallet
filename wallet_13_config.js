@@ -1,1 +1,1 @@
-var mnemonic = "party grace alien critic method flee job lumber logic rice fan middle";
+var mnemonic = "winner pelican shy note gain oblige now deal exotic sustain inch collect";

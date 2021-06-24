@@ -1,1 +1,1 @@
-var mnemonic = "open leisure twin quit surge industry upgrade screen invest fitness wrap explain";
+var mnemonic = "bundle beauty over armor gift traffic police alien category shoulder drop license";

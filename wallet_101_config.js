@@ -1,1 +1,1 @@
-var mnemonic = "math coffee stuff resemble faith capable nose wheel trumpet hard artist chicken";
+var mnemonic = "stone bronze one left advance drill identify list toe glide aspect nothing";

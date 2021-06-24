@@ -1,1 +1,1 @@
-var mnemonic = "blast confirm ring gym cream soccer public cry group entry tone wolf";
+var mnemonic = "furnace cart goddess motion vapor blade track rebel hammer legal trade attitude";

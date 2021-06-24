@@ -1,1 +1,1 @@
-var mnemonic = "always enroll mesh enhance avocado garlic recycle cross soap mimic kite security";
+var mnemonic = "celery mirror found page angle elite digital plug tank purse feed scorpion";

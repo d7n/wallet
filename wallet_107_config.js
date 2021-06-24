@@ -1,1 +1,1 @@
-var mnemonic = "flock ticket dentist aware talent brave style paddle nest virtual remember dilemma";
+var mnemonic = "defy illness fit shoot donor code grocery theory door biology garlic minute";

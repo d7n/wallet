@@ -1,1 +1,1 @@
-var mnemonic = "illness buzz congress betray glow absent survey recall chat bargain resist joy";
+var mnemonic = "crouch local embrace remove need renew embrace pumpkin kitten employ door save";

@@ -1,1 +1,1 @@
-var mnemonic = "fatal below advice prefer curtain anchor tennis purity genre armor cube chief";
+var mnemonic = "file erode foster cart prefer hurry draw inhale fashion chimney salt ticket";

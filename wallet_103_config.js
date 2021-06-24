@@ -1,1 +1,1 @@
-var mnemonic = "fine lawsuit bounce picture crazy true fiber boss exclude engage then wet";
+var mnemonic = "reopen network hybrid hood rain kick wife seed project enact group path";

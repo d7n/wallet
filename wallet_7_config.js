@@ -1,1 +1,1 @@
-var mnemonic = "supreme mango anger donate wagon battle replace become bone join duck vehicle";
+var mnemonic = "certain trigger wife pelican poem salmon three stamp surge drastic number girl";

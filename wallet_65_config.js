@@ -1,1 +1,1 @@
-var mnemonic = "frozen safe chief answer behind eye rapid oak boil census gloom swift";
+var mnemonic = "absorb surface sibling impose stamp sign chest burger below involve tomato remember";

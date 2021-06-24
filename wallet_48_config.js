@@ -1,1 +1,1 @@
-var mnemonic = "math useless chicken impulse cancel rabbit vault say flame float barely arctic";
+var mnemonic = "degree omit grocery token wool enjoy lottery agree evidence gap grid liberty";

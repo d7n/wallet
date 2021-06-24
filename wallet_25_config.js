@@ -1,1 +1,1 @@
-var mnemonic = "loud hawk copper snake narrow erode surface bamboo urban sock tumble staff";
+var mnemonic = "require winner motor stand boost rival indoor vicious axis sound garbage very";

@@ -1,1 +1,1 @@
-var mnemonic = "hair dentist nurse garden vibrant prevent cabin walk february use nominee sustain";
+var mnemonic = "race repeat usage unlock captain dutch proud rhythm gift what manage worry";

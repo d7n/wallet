@@ -1,1 +1,1 @@
-var mnemonic = "warrior upgrade frown hub hospital frame jump beyond sound switch divorce machine";
+var mnemonic = "borrow bone tongue corn assist manual police slush survey mix fragile tide";

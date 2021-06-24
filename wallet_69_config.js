@@ -1,1 +1,1 @@
-var mnemonic = "mercy window noodle fancy embrace leopard inch foster spray grant bunker turtle";
+var mnemonic = "want safe plunge notable supreme captain fence dismiss victory define tip foster";

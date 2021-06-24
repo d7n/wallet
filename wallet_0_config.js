@@ -1,1 +1,1 @@
-var mnemonic = "seminar hawk elegant jewel job same impulse indoor net purity ski defy";
+var mnemonic = "among island olive tomato easily frog gorilla alone depart any bean plug";

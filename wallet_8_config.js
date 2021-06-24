@@ -1,1 +1,1 @@
-var mnemonic = "recall twice chalk offer fault similar trust million client maple stove swap";
+var mnemonic = "dance nuclear census lottery law predict trick hat season canyon atom piece";

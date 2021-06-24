@@ -1,1 +1,1 @@
-var mnemonic = "fish doll project slender drill link penalty forget very amateur crush move";
+var mnemonic = "club april alert immune sponsor tuna impact toward shoe surprise ketchup primary";

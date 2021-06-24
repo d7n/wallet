@@ -1,1 +1,1 @@
-var mnemonic = "purse camera slow rocket canoe siege snap use possible pattern couch cupboard";
+var mnemonic = "rally control chalk need enemy hard ship pink essence move kidney ginger";

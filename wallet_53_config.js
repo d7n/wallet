@@ -1,1 +1,1 @@
-var mnemonic = "guard color sadness neck firm maid join another struggle crane deputy soft";
+var mnemonic = "seat urban excite float tonight chase relief decide then goddess awful artefact";

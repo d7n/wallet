@@ -1,1 +1,1 @@
-var mnemonic = "lion obscure vibrant moral analyst space replace sand hollow bonus brain error";
+var mnemonic = "skill bone buzz broom orbit acquire confirm lift gorilla dinner fee venture";

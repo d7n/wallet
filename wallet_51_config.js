@@ -1,1 +1,1 @@
-var mnemonic = "noble awesome gift kingdom mansion onion donate walnut coconut tuition great february";
+var mnemonic = "file mouse cluster marriage final scrap smoke reason soccer net seat assist";

@@ -1,1 +1,1 @@
-var mnemonic = "donor brother false awkward table long mirror loop december craft hold indicate";
+var mnemonic = "weapon ostrich vendor cube girl under wagon exchange fetch shoulder morning illness";

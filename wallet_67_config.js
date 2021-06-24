@@ -1,1 +1,1 @@
-var mnemonic = "gossip clump industry jazz diet urge wood hope place network siren more";
+var mnemonic = "firm start slush coral danger nice car enough monster jewel vicious cry";

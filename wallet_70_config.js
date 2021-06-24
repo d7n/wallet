@@ -1,1 +1,1 @@
-var mnemonic = "audit fold robot alley equip shiver portion balcony stadium hill truck corn";
+var mnemonic = "artefact victory when already abandon suspect phone please quick fix parent ski";

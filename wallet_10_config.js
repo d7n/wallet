@@ -1,1 +1,1 @@
-var mnemonic = "know cannon tide below lawsuit blame siege again vintage ankle heart cushion";
+var mnemonic = "version puppy maze extend shield gauge profit real fit taxi usual goat";

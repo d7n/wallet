@@ -1,1 +1,1 @@
-var mnemonic = "inflict tuition rural teach drift hair blossom loyal scheme axis false behind";
+var mnemonic = "flag flame answer auction expire bid bag crazy neutral observe remove gather";

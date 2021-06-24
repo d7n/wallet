@@ -1,1 +1,1 @@
-var mnemonic = "fog trophy limb left begin mention sorry jacket river lesson arrive story";
+var mnemonic = "patrol inch toy oven stock faculty impulse upon cattle today control kingdom";
