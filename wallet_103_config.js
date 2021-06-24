@@ -1,1 +1,1 @@
-var mnemonic = "reopen network hybrid hood rain kick wife seed project enact group path";
+var mnemonic = "close core race topic car small climb fortune debate build refuse gossip";

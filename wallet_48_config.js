@@ -1,1 +1,1 @@
-var mnemonic = "degree omit grocery token wool enjoy lottery agree evidence gap grid liberty";
+var mnemonic = "turn attitude trigger scrub shed sudden whisper talk hazard trash thrive virtual";

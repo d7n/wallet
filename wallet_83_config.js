@@ -1,1 +1,1 @@
-var mnemonic = "identify bottom polar panda shuffle matrix vanish diary float happy true equip";
+var mnemonic = "draw kid shaft else write hint hard spoon army oak nest sample";

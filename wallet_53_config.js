@@ -1,1 +1,1 @@
-var mnemonic = "seat urban excite float tonight chase relief decide then goddess awful artefact";
+var mnemonic = "merit reunion essay add slight swing company cabin will milk gain thunder";

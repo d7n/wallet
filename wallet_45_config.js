@@ -1,1 +1,1 @@
-var mnemonic = "flavor lazy patch update clerk atom soft insect arrive lady process vintage";
+var mnemonic = "decorate waste equip fantasy system pistol phrase replace setup oil hotel section";

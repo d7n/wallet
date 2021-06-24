@@ -1,1 +1,1 @@
-var mnemonic = "defy illness fit shoot donor code grocery theory door biology garlic minute";
+var mnemonic = "unfold jelly race attack sorry useless net judge run reflect north harvest";

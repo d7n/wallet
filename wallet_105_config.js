@@ -1,1 +1,1 @@
-var mnemonic = "maid lock obscure close announce clever canoe input cruise huge siren coffee";
+var mnemonic = "blame seed deal nuclear embrace silver marine accident mountain moment resemble police";

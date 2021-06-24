@@ -1,1 +1,1 @@
-var mnemonic = "banner rack matter correct legend wife flock second law head tape couch";
+var mnemonic = "unfair hotel shoulder damp sting radio minute pause opera guilt magic field";

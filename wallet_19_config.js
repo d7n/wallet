@@ -1,1 +1,1 @@
-var mnemonic = "celery mirror found page angle elite digital plug tank purse feed scorpion";
+var mnemonic = "adapt knock weekend idle orbit auction mix pass organ wing flee awkward";

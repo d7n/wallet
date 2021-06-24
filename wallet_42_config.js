@@ -1,1 +1,1 @@
-var mnemonic = "poet slogan planet pull grunt yard picture trumpet smart then clay miss";
+var mnemonic = "main song addict change crowd right fish neglect improve picnic quality envelope";

@@ -1,1 +1,1 @@
-var mnemonic = "ostrich inmate hip oppose gadget eagle retire tonight nose betray velvet trash";
+var mnemonic = "tower method orange cloth town glide advance maximum acid despair entire shock";

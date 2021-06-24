@@ -1,1 +1,1 @@
-var mnemonic = "metal dizzy shine disagree scan behind retire actual divorce twelve wine night";
+var mnemonic = "parent boy space close fog struggle gather just waste link absent ladder";

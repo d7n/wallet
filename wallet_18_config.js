@@ -1,1 +1,1 @@
-var mnemonic = "bullet faculty bench peasant quarter crowd isolate sibling ghost monitor mesh orange";
+var mnemonic = "display cool bubble ankle security champion balcony peanut captain spring design fluid";

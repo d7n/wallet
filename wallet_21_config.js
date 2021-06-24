@@ -1,1 +1,1 @@
-var mnemonic = "race merge dash bind quote giant warm wheat grit modify name piece";
+var mnemonic = "door regular soft dirt salmon clog ocean punch remind speak adjust frog";

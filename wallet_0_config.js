@@ -1,1 +1,1 @@
-var mnemonic = "among island olive tomato easily frog gorilla alone depart any bean plug";
+var mnemonic = "wild clock artist image silver maid kitten good junior egg unfold correct";

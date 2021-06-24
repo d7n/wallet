@@ -1,1 +1,1 @@
-var mnemonic = "vacuum series banana old appear romance scrub yard already fine skirt wear";
+var mnemonic = "devote popular warrior defy dawn crack pet frequent final clean favorite shed";

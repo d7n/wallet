@@ -1,1 +1,1 @@
-var mnemonic = "diet change tuna describe swallow pencil wink harvest quarter judge simple pledge";
+var mnemonic = "toilet month become note slogan grape carbon retreat mistake lyrics renew army";

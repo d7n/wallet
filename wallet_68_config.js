@@ -1,1 +1,1 @@
-var mnemonic = "green rebuild buzz favorite ahead twist paper bike sponsor thing decline kitchen";
+var mnemonic = "chest shuffle shrimp claw since raccoon finger dumb soup raise trial when";

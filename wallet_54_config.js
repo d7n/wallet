@@ -1,1 +1,1 @@
-var mnemonic = "patrol inch toy oven stock faculty impulse upon cattle today control kingdom";
+var mnemonic = "inquiry clean then daughter still fuel cabin twenty bar copper culture return";

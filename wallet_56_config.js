@@ -1,1 +1,1 @@
-var mnemonic = "shift off section region wonder release frame vintage elephant often verify cactus";
+var mnemonic = "remove long depend trim injury riot rabbit capital loud love need thank";

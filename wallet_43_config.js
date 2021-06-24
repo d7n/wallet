@@ -1,1 +1,1 @@
-var mnemonic = "math drum oppose victory task zebra frozen hungry marriage stuff buyer unaware";
+var mnemonic = "goddess world verify reflect shrug grape illegal close next loop valve language";

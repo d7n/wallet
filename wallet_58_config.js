@@ -1,1 +1,1 @@
-var mnemonic = "animal wall gown pave life protect open more liberty month retreat wing";
+var mnemonic = "strike movie salmon crop cube pull market magic barrel suggest cube churn";

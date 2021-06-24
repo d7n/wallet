@@ -1,1 +1,1 @@
-var mnemonic = "despair athlete recycle glow orphan axis salad wish list vivid slam food";
+var mnemonic = "frequent hair canyon lawn amateur before manual peasant style milk holiday other";

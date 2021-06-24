@@ -1,1 +1,1 @@
-var mnemonic = "legend tone east width voice between favorite huge dream field delay ensure";
+var mnemonic = "spoil connect collect fossil harsh grocery toward debate zebra truth put tiger";

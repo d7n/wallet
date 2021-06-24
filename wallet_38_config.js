@@ -1,1 +1,1 @@
-var mnemonic = "filter coral derive please situate issue route despair tenant room word route";
+var mnemonic = "motion pen problem credit sight curtain write champion curious joy close enforce";

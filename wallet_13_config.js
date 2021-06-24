@@ -1,1 +1,1 @@
-var mnemonic = "winner pelican shy note gain oblige now deal exotic sustain inch collect";
+var mnemonic = "actress switch canvas seed crawl another entire crystal lava brisk away proud";

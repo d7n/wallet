@@ -1,1 +1,1 @@
-var mnemonic = "skill bone buzz broom orbit acquire confirm lift gorilla dinner fee venture";
+var mnemonic = "hip noble height antenna crew fish fee road pattern stairs shiver creek";

@@ -1,1 +1,1 @@
-var mnemonic = "artefact victory when already abandon suspect phone please quick fix parent ski";
+var mnemonic = "visual organ spare tree various parent true stool must tired just travel";

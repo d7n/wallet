@@ -1,1 +1,1 @@
-var mnemonic = "turkey access abstract torch ladder multiply elite scrap unable scare tornado fun";
+var mnemonic = "surface theme sand choice cigar differ canvas donate shrug friend moral very";

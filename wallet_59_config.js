@@ -1,1 +1,1 @@
-var mnemonic = "pole lock prefer tumble present axis across gravity brick buffalo rain guard";
+var mnemonic = "mind naive file debate token document excuse visual solar message gorilla soap";

@@ -1,1 +1,1 @@
-var mnemonic = "elephant legal invest hazard scrap visit helmet float yellow escape uncover thing";
+var mnemonic = "thank april govern report steak wreck sell school garlic valley plug text";

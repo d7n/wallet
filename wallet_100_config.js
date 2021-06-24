@@ -1,1 +1,1 @@
-var mnemonic = "net begin fragile two turn cupboard music spend joke beach car breeze";
+var mnemonic = "enrich exclude tiny grape impact rail pupil major alley social pair fossil";

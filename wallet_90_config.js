@@ -1,1 +1,1 @@
-var mnemonic = "shy gather photo student phrase recall solve boring unit tape axis lottery";
+var mnemonic = "deposit minimum select biology clock catch strike print file draft few wire";

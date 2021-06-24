@@ -1,1 +1,1 @@
-var mnemonic = "soon rebel talent quiz convince amazing cabin coast pulp famous camp violin";
+var mnemonic = "draw lava winner sentence board space tail post moon exact quality truck";

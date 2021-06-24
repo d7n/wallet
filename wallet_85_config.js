@@ -1,1 +1,1 @@
-var mnemonic = "pulp employ squeeze long reform token copy sport little habit program before";
+var mnemonic = "have hire mandate combine aim arena task call unaware aunt oyster dolphin";

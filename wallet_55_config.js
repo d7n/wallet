@@ -1,1 +1,1 @@
-var mnemonic = "enable rib measure jar legend region sunset cage youth nerve buyer marriage";
+var mnemonic = "rare width share spray autumn elegant energy ghost plate bubble thank great";

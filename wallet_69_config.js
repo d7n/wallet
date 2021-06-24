@@ -1,1 +1,1 @@
-var mnemonic = "want safe plunge notable supreme captain fence dismiss victory define tip foster";
+var mnemonic = "robust famous grow credit oven predict amount rib mad wisdom suffer surface";

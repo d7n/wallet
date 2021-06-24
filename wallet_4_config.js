@@ -1,1 +1,1 @@
-var mnemonic = "sketch final found aerobic trigger title brave worth they honey armed foster";
+var mnemonic = "horror fragile honey wrap glance gossip worry emerge hood spend zone bitter";

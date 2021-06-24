@@ -1,1 +1,1 @@
-var mnemonic = "absorb surface sibling impose stamp sign chest burger below involve tomato remember";
+var mnemonic = "print crash syrup erosion jeans leg turtle scare inherit alley spawn unable";

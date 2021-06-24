@@ -1,1 +1,1 @@
-var mnemonic = "equip guard route follow interest husband direct intact follow foil giant across";
+var mnemonic = "change toward repeat early must frown power term thumb unhappy abandon over";

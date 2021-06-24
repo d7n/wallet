@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo case invite worry harsh mother such budget hybrid twenty puzzle alien";
+var mnemonic = "plunge airport grief design wedding knock behave gasp stomach unveil unusual brave";

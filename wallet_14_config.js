@@ -1,1 +1,1 @@
-var mnemonic = "rain calm eternal such future bird parent phrase plunge glass horse pair";
+var mnemonic = "fork floor extra amateur spread cool armor cross loyal measure silly lumber";

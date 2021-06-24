@@ -1,1 +1,1 @@
-var mnemonic = "average dream inhale episode tuna dash penalty lesson feed enable arctic when";
+var mnemonic = "point number fatigue orient immune local boss home steel local section hen";

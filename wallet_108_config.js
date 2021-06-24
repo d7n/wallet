@@ -1,1 +1,1 @@
-var mnemonic = "inner door dwarf remember equal diamond gym monkey system render learn aisle";
+var mnemonic = "thing menu banana outside green unfair retreat river help valve boat motion";

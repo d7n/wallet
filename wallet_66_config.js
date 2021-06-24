@@ -1,1 +1,1 @@
-var mnemonic = "explain winner thank mix axis author dignity school rotate foam ticket early";
+var mnemonic = "fury combine mushroom vanish bridge begin typical clever acoustic inform decide reveal";

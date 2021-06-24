@@ -1,1 +1,1 @@
-var mnemonic = "angle install luxury north tank village erupt effort evil alcohol industry blush";
+var mnemonic = "explain sad custom hockey glimpse repeat nerve raw scatter swap behave analyst";

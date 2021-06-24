@@ -1,1 +1,1 @@
-var mnemonic = "jungle mirror old address moon misery popular diet spoon skirt thunder filter";
+var mnemonic = "toast spatial pistol gold regular then fence check foster right client kitten";

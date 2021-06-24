@@ -1,1 +1,1 @@
-var mnemonic = "tank end labor practice sort possible bonus also history cushion crew gentle";
+var mnemonic = "faint film result seek feel equal alone need illness best surprise surround";

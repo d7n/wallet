@@ -1,1 +1,1 @@
-var mnemonic = "borrow bone tongue corn assist manual police slush survey mix fragile tide";
+var mnemonic = "grief coin proud giggle number remind hat essay escape whale toilet soccer";

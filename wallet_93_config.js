@@ -1,1 +1,1 @@
-var mnemonic = "weapon luxury inside angry volume clarify trust uniform trade february earn sausage";
+var mnemonic = "garment bomb frequent return glory since wish usage joy humble enjoy cool";

@@ -1,1 +1,1 @@
-var mnemonic = "cage tackle walk maid pull lyrics strike pen island cake sausage pipe";
+var mnemonic = "figure easily state idle roof enhance kid calm shed clip swap nut";

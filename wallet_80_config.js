@@ -1,1 +1,1 @@
-var mnemonic = "syrup submit armor range toy spell sausage into brand symbol enroll soccer";
+var mnemonic = "phone series blouse runway kiss apology custom couple rather prosper foil kangaroo";

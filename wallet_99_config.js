@@ -1,1 +1,1 @@
-var mnemonic = "enhance coil huge object ensure employ advice mystery hold crucial drill clown";
+var mnemonic = "drive weekend arrange mule effort dog siren okay alarm heart plastic island";

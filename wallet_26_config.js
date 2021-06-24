@@ -1,1 +1,1 @@
-var mnemonic = "half today panic spell lamp chalk ahead web million barrel obscure globe";
+var mnemonic = "season staff alpha laundry thought elite drip trophy staff hundred switch water";

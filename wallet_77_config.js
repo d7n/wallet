@@ -1,1 +1,1 @@
-var mnemonic = "pelican milk coffee dial peanut spread dose oyster defense gravity canoe pottery";
+var mnemonic = "cousin horror swing point around label swarm glide trial zebra only chase";

@@ -1,1 +1,1 @@
-var mnemonic = "bag tackle smooth north submit have latin remember cliff put ring goddess";
+var mnemonic = "candy daughter fade hotel same settle palace taste story universe hello walk";

@@ -1,1 +1,1 @@
-var mnemonic = "expire brisk drip text load spin stadium rabbit crumble betray chat breeze";
+var mnemonic = "since own kite image change auction depart enough wet moment elephant faint";

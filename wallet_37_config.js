@@ -1,1 +1,1 @@
-var mnemonic = "leg cash later silly december engage estate mosquito put drama gloom hour";
+var mnemonic = "amazing give ugly provide deputy bus leopard myself genuine rotate tackle hover";

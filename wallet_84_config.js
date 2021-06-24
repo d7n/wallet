@@ -1,1 +1,1 @@
-var mnemonic = "wrist arch joke tennis ask trick tip carpet enjoy can pudding armor";
+var mnemonic = "render actor nuclear enemy dwarf salad master axis desert cage enroll dish";

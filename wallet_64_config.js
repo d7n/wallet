@@ -1,1 +1,1 @@
-var mnemonic = "custom advice pattern elegant lawn great open own pretty relax hawk tragic";
+var mnemonic = "visual present crawl company tank next rare book fun basket patrol ranch";

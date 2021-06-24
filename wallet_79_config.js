@@ -1,1 +1,1 @@
-var mnemonic = "lonely hire aspect defy syrup invite shoe frog lawsuit nest pioneer gorilla";
+var mnemonic = "ridge twin reopen abstract hotel desert heart upon leg pony add lottery";

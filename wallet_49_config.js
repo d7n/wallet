@@ -1,1 +1,1 @@
-var mnemonic = "letter elbow cable water speed floor raw order drama economy yellow diamond";
+var mnemonic = "craft thumb build nephew what coffee orphan name cargo medal target noble";

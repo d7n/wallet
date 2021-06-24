@@ -1,1 +1,1 @@
-var mnemonic = "thought day flock friend fresh truly column earth return warfare heart illegal";
+var mnemonic = "drastic reunion flip wet final excuse boy jewel body bounce second flame";

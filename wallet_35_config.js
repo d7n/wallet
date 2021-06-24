@@ -1,1 +1,1 @@
-var mnemonic = "drive pelican physical kitten love fly shop ritual south annual risk similar";
+var mnemonic = "cinnamon prosper exotic pause problem arrow interest melody dirt buyer hip shrug";

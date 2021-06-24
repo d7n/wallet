@@ -1,1 +1,1 @@
-var mnemonic = "firm start slush coral danger nice car enough monster jewel vicious cry";
+var mnemonic = "retreat betray silent want burst hungry knock flat garden option burden amazing";

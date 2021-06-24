@@ -1,1 +1,1 @@
-var mnemonic = "solid drift fun cage narrow crime movie where abandon reveal margin dice";
+var mnemonic = "lottery license grief palace stock avoid dumb regular admit peanut mosquito soon";

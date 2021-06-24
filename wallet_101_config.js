@@ -1,1 +1,1 @@
-var mnemonic = "stone bronze one left advance drill identify list toe glide aspect nothing";
+var mnemonic = "allow depart thought wreck east capital cereal actual verify curtain van wrap";

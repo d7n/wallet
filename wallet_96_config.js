@@ -1,1 +1,1 @@
-var mnemonic = "rally control chalk need enemy hard ship pink essence move kidney ginger";
+var mnemonic = "hole nominee apple home now place liberty inhale goddess letter happy elbow";

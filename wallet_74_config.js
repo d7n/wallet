@@ -1,1 +1,1 @@
-var mnemonic = "palace involve hire catalog hawk easy garment rail fan fence essay buyer";
+var mnemonic = "genius one frozen help salt phone horn dynamic biology nothing family torch";

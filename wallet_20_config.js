@@ -1,1 +1,1 @@
-var mnemonic = "front one vapor rookie paper viable reflect unit foam cement liberty rookie";
+var mnemonic = "iron random model gallery dignity uphold endorse episode unusual lawsuit kangaroo move";

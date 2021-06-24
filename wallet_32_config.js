@@ -1,1 +1,1 @@
-var mnemonic = "follow escape lunch pony fly adjust decrease motor alert drum van opera";
+var mnemonic = "loan father author day grain regret please mercy plastic search furnace casino";

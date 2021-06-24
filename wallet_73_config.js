@@ -1,1 +1,1 @@
-var mnemonic = "ginger company dry custom wagon buddy solar enter piano world simple assume";
+var mnemonic = "ride wagon few alcohol club grief achieve garage error early strike radar";

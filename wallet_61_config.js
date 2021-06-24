@@ -1,1 +1,1 @@
-var mnemonic = "furnace cart goddess motion vapor blade track rebel hammer legal trade attitude";
+var mnemonic = "bread twist inform copper hat spider earth eternal sadness screen limit detect";

@@ -1,1 +1,1 @@
-var mnemonic = "various opinion enemy okay shield choice attend elder hold glue license black";
+var mnemonic = "quote sea walnut stamp plate harsh mix hope original trial basket drink";

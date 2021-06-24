@@ -1,1 +1,1 @@
-var mnemonic = "vital mail angle wheel tuition naive logic metal garden scare state crunch";
+var mnemonic = "message stone error recall lecture cycle van wave early spy sea van";

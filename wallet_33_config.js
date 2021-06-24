@@ -1,1 +1,1 @@
-var mnemonic = "club april alert immune sponsor tuna impact toward shoe surprise ketchup primary";
+var mnemonic = "taste prize canvas spend vintage erosion social inspire gadget attack sheriff bid";

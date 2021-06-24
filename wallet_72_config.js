@@ -1,1 +1,1 @@
-var mnemonic = "match order horror address fitness diagram casino spare inherit ticket song any";
+var mnemonic = "dog glue prevent focus predict clerk recall turn clock toddler rigid net";

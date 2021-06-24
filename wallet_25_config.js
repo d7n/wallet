@@ -1,1 +1,1 @@
-var mnemonic = "require winner motor stand boost rival indoor vicious axis sound garbage very";
+var mnemonic = "sign father core addict indicate bicycle vessel hair birth beef surge poet";

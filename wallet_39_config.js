@@ -1,1 +1,1 @@
-var mnemonic = "garment fire butter spy naive chair biology two wait symbol reflect wine";
+var mnemonic = "useless uncle crazy attitude divert sorry nose virus zoo pulse boy pill";

@@ -1,1 +1,1 @@
-var mnemonic = "play shove ancient expand ridge render sword behind broken tennis jacket debris";
+var mnemonic = "hat inspire index refuse bubble bachelor tooth art country easy idle pledge";

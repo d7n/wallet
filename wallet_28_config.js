@@ -1,1 +1,1 @@
-var mnemonic = "treat list fish joke episode monster nasty olive gallery air ready shed";
+var mnemonic = "deliver asset giggle gift border smoke near apology sail dignity traffic view";

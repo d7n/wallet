@@ -1,1 +1,1 @@
-var mnemonic = "royal demise mention consider myth cube trick pepper awkward task churn novel";
+var mnemonic = "toy episode express entry aunt engine fall property glow six alien tube";

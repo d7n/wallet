@@ -1,1 +1,1 @@
-var mnemonic = "lab law bounce scale box tuna rack source erupt tape float bitter";
+var mnemonic = "fire dilemma nominee display leaf annual ribbon snack slight island vacant myself";

@@ -1,1 +1,1 @@
-var mnemonic = "crouch local embrace remove need renew embrace pumpkin kitten employ door save";
+var mnemonic = "fatigue history since glare airport book torch beyond gospel senior inquiry foil";

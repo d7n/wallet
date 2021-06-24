@@ -1,1 +1,1 @@
-var mnemonic = "flag flame answer auction expire bid bag crazy neutral observe remove gather";
+var mnemonic = "purchase achieve small aspect direct brief program swap entire pill marine announce";

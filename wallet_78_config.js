@@ -1,1 +1,1 @@
-var mnemonic = "until update stone buyer busy half sense surprise flock clever twelve size";
+var mnemonic = "link ski evoke hollow glory express chase auction target sudden lake focus";

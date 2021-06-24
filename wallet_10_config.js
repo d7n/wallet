@@ -1,1 +1,1 @@
-var mnemonic = "version puppy maze extend shield gauge profit real fit taxi usual goat";
+var mnemonic = "add cruel unlock fun earth broom cart aspect december hospital expand memory";
