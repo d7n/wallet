@@ -1,1 +1,1 @@
-var mnemonic = "victory pill crucial thing exile lift bamboo exotic infant quarter area vehicle";
+var mnemonic = "expire child poet blame trap fabric scissors erosion spend pyramid usual change";

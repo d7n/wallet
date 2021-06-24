@@ -1,1 +1,1 @@
-var mnemonic = "width issue candy session turtle plate oval neither seed donor extra best";
+var mnemonic = "cradle reform typical apple vacuum lock later noodle tennis work account foam";

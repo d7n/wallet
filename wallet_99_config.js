@@ -1,1 +1,1 @@
-var mnemonic = "over accuse frown together dragon require exit tackle draw boy sustain valid";
+var mnemonic = "adjust parrot sport grant dignity advice scissors expose current laptop hero erosion";

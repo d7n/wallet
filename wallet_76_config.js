@@ -1,1 +1,1 @@
-var mnemonic = "action buffalo letter maple process chalk invest dove enable pride tragic april";
+var mnemonic = "insane quick thunder head must tag enhance room staff slot ensure loan";

@@ -1,1 +1,1 @@
-var mnemonic = "olympic army provide alone forward buyer payment hospital net real stand trick";
+var mnemonic = "option category one congress defy place weather dream tongue remain purchase glove";

@@ -1,1 +1,1 @@
-var mnemonic = "airport together chair swamp expire join amazing vocal artist salute buyer neither";
+var mnemonic = "dumb shaft parent glue put thing reunion word large stool ankle tube";

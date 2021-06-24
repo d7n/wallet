@@ -1,1 +1,1 @@
-var mnemonic = "tuna unique confirm convince major awkward moment tortoise burger song brown rice";
+var mnemonic = "orient jacket manual dismiss silent caught company eager echo rice snow bird";

@@ -1,1 +1,1 @@
-var mnemonic = "horror alert fun joy year volume dose oak meadow sand useful match";
+var mnemonic = "barrel festival asthma jungle example usual cycle cart climb predict reform curve";

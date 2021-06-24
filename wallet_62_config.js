@@ -1,1 +1,1 @@
-var mnemonic = "gauge child canyon tobacco earth celery damp second purpose eagle black army";
+var mnemonic = "flip column doll young outer jungle latin repair trade round case spirit";

@@ -1,1 +1,1 @@
-var mnemonic = "lazy lend stick install junk ghost grass first glide book cousin peasant";
+var mnemonic = "actor cradle fury panther trip core whale soap solution cradle rubber orphan";

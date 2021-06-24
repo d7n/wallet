@@ -1,1 +1,1 @@
-var mnemonic = "can conduct trust crisp jeans disorder banana seek power other enable tube";
+var mnemonic = "paddle normal admit range upset faculty member spice vote hint work tiger";

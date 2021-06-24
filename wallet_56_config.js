@@ -1,1 +1,1 @@
-var mnemonic = "planet flush lounge local type card deliver consider income offer sand photo";
+var mnemonic = "infant great negative rate century flower squeeze endorse steak bomb quality effort";

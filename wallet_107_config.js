@@ -1,1 +1,1 @@
-var mnemonic = "double size desert this acid acquire track horse hawk wood clinic damp";
+var mnemonic = "yellow tenant trick way choose float left fish ghost half toddler increase";

@@ -1,1 +1,1 @@
-var mnemonic = "betray found drip armor shrimp hurry baby pause science library hand stock";
+var mnemonic = "safe above problem tool diesel vapor valve device harvest trend dad auto";

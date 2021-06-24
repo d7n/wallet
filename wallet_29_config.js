@@ -1,1 +1,1 @@
-var mnemonic = "flush glance donate certain rescue matrix only glance skull grit imitate absent";
+var mnemonic = "ice drink series piano cannon digital ghost purchase engage very finger flower";

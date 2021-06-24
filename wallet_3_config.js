@@ -1,1 +1,1 @@
-var mnemonic = "walnut harvest tonight diamond index gadget flock fresh badge rug pony edge";
+var mnemonic = "width absorb version pupil joy urge stuff crack clean jacket mystery casino";

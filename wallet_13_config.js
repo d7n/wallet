@@ -1,1 +1,1 @@
-var mnemonic = "zoo risk setup rocket square endless curve mean luxury expect fun fan";
+var mnemonic = "over august pledge game amused eight bird become bean float hazard service";

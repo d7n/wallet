@@ -1,1 +1,1 @@
-var mnemonic = "puzzle clay lion concert just usual toe front lake hurry pulse canyon";
+var mnemonic = "daughter receive warfare pulp team crazy another select offer include picnic clever";

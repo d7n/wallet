@@ -1,1 +1,1 @@
-var mnemonic = "simple material lounge cost type hello pioneer enact rocket dial endorse flight";
+var mnemonic = "often atom hill link nature forward minor during bacon question mouse summer";

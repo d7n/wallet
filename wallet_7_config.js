@@ -1,1 +1,1 @@
-var mnemonic = "smile same combine sniff season letter wait column peasant tooth seven poem";
+var mnemonic = "awesome clutch school egg student throw power flat wave blue veteran squeeze";

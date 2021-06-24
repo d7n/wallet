@@ -1,1 +1,1 @@
-var mnemonic = "alone border combine require season good wisdom level resemble unlock like peace";
+var mnemonic = "salad flavor law joke galaxy snake blanket front lens taste van lemon";

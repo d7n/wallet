@@ -1,1 +1,1 @@
-var mnemonic = "slush ten noble snake brand nurse join wing broom board gorilla finish";
+var mnemonic = "leg pulp toward main renew exotic obscure lock mean spray motor have";

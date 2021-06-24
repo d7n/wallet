@@ -1,1 +1,1 @@
-var mnemonic = "hill spoil rocket elegant key disorder wasp neither helmet fork promote kidney";
+var mnemonic = "pizza dawn dad under already link forum spread replace sea plug marriage";

@@ -1,1 +1,1 @@
-var mnemonic = "series install april put uncover ginger ticket apology cloth picture tiger neutral";
+var mnemonic = "horse emerge staff motion april salt pitch pumpkin top type actress clutch";

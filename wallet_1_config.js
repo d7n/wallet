@@ -1,1 +1,1 @@
-var mnemonic = "apple gas dust evil carpet naive curve pear step wealth medal someone";
+var mnemonic = "dismiss element segment board romance foot network impact stove fitness tank pretty";

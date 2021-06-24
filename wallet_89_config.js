@@ -1,1 +1,1 @@
-var mnemonic = "current ranch notable license various strong reopen trim mystery fix wise motion";
+var mnemonic = "embark fluid tunnel grid element rain response fold flight deer hello warm";

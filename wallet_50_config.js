@@ -1,1 +1,1 @@
-var mnemonic = "audit into armor grow inherit happy lunch tortoise float soft push topple";
+var mnemonic = "orange giraffe wet heart job tackle barely truth ball timber lady glide";

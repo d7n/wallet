@@ -1,1 +1,1 @@
-var mnemonic = "lyrics adapt great panel marriage point daring message gesture hawk all coast";
+var mnemonic = "crazy jaguar cry dutch age soon drill asset gospel tobacco heavy right";

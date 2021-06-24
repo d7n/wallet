@@ -1,1 +1,1 @@
-var mnemonic = "camp foster valid plunge assist rally obvious supreme soldier jeans focus weird";
+var mnemonic = "forward festival shoe retire circle simple tent number weasel expect banner draft";

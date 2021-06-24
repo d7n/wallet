@@ -1,1 +1,1 @@
-var mnemonic = "bike stem melody case faculty sure length issue glad build minimum clay";
+var mnemonic = "output piece nut avoid chronic harvest local order pattern turkey tennis stone";

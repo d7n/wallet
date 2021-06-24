@@ -1,1 +1,1 @@
-var mnemonic = "pair stairs shallow void great bike trial symptom situate manage end measure";
+var mnemonic = "common road turkey merge check ceiling tattoo dentist fiber panic later amount";

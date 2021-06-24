@@ -1,1 +1,1 @@
-var mnemonic = "room humble bullet intact impact oil unaware draw recipe team agent cruise";
+var mnemonic = "ginger token luxury festival artwork clinic satoshi fade thing tackle pigeon unit";

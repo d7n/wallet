@@ -1,1 +1,1 @@
-var mnemonic = "unhappy churn tornado tunnel lemon repeat void unusual fly foam section whale";
+var mnemonic = "million drama plug provide sentence wealth science valid glue wagon flight acoustic";

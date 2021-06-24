@@ -1,1 +1,1 @@
-var mnemonic = "imitate stereo fluid paper spring river just chuckle couple find category bundle";
+var mnemonic = "proud bubble goddess accident spring drift monkey bag claim scrap teach swim";

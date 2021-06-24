@@ -1,1 +1,1 @@
-var mnemonic = "rain false shop mixture taxi track kit door false same chimney peasant";
+var mnemonic = "denial maid forward dolphin seven parade bamboo ball around fiscal element elegant";

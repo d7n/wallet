@@ -1,1 +1,1 @@
-var mnemonic = "virtual harsh number will humor weather entire guilt isolate pet rug burger";
+var mnemonic = "hip episode oblige whale fade survey path mandate brown task wait host";

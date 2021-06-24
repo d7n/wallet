@@ -1,1 +1,1 @@
-var mnemonic = "update toast fault alert awesome abstract message afford account regular group notice";
+var mnemonic = "pen mutual swift chest brother sunny obey stadium palm season process tube";

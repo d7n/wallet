@@ -1,1 +1,1 @@
-var mnemonic = "topic pig pact math inner happy hurdle script cross pet possible sport";
+var mnemonic = "trick trend wedding ginger match photo only tired clarify usual man transfer";

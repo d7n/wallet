@@ -1,1 +1,1 @@
-var mnemonic = "wine aware zoo zone sketch weapon fuel access cousin follow conduct account";
+var mnemonic = "scrub leisure brick napkin rent consider frost bachelor license maze social inform";

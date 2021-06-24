@@ -1,1 +1,1 @@
-var mnemonic = "fold hungry water kick armed general calm hunt surprise strike damage seed";
+var mnemonic = "dumb settle cushion camp lesson beauty bleak raven hedgehog captain enforce letter";

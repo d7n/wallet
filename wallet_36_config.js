@@ -1,1 +1,1 @@
-var mnemonic = "clap hat long girl vault vessel rack false chronic bundle ribbon excite";
+var mnemonic = "vanish above feature portion noodle tunnel risk endorse ensure next mountain law";

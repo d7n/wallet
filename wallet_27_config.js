@@ -1,1 +1,1 @@
-var mnemonic = "hundred start decide subject drip worth regret invest open gloom pause because";
+var mnemonic = "joke embark penalty record color whale monitor fatigue symbol gift three shell";

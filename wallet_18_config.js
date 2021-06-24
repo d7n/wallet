@@ -1,1 +1,1 @@
-var mnemonic = "sun either west copper admit trouble home ship own neck soup pair";
+var mnemonic = "arrow stumble flash kite sleep hard make speed dolphin monkey creek wide";

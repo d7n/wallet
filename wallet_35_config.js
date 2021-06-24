@@ -1,1 +1,1 @@
-var mnemonic = "accident shallow hill holiday exotic sad banner crush velvet pistol monster blush";
+var mnemonic = "chief result gentle torch attitude husband annual describe afraid report asthma sand";

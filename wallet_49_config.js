@@ -1,1 +1,1 @@
-var mnemonic = "enforce nephew gloom square pudding brain april worth novel around remember link";
+var mnemonic = "unknown spy million discover frog chalk giggle near gym fossil beef attitude";

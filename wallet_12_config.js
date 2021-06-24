@@ -1,1 +1,1 @@
-var mnemonic = "civil history excite slam ankle suit nurse unknown pipe drill script mom";
+var mnemonic = "pink devote wedding laptop parrot crowd claw obtain come frown minimum joke";

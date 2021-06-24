@@ -1,1 +1,1 @@
-var mnemonic = "erode razor hair cycle utility glove allow plug clinic swamp point play";
+var mnemonic = "march simple raccoon fade program myth immense charge relief pipe cloth nephew";

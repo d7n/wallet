@@ -1,1 +1,1 @@
-var mnemonic = "put bitter obvious border pilot space friend strong woman hedgehog ritual forum";
+var mnemonic = "spike track worry memory sudden crater ice double since original dinner fury";

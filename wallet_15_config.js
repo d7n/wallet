@@ -1,1 +1,1 @@
-var mnemonic = "reject potato mercy useless invite trouble gain skill train conduct quality abuse";
+var mnemonic = "arm ticket kangaroo immune ship split battle furnace rhythm vicious dynamic junk";

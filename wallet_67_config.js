@@ -1,1 +1,1 @@
-var mnemonic = "depart beauty input obvious people judge ritual uniform hire nut museum deputy";
+var mnemonic = "more across gaze satoshi bracket fragile awesome prepare taste twenty suit illegal";

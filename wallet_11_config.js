@@ -1,1 +1,1 @@
-var mnemonic = "inform stereo matter keep ethics section curve write inspire glare cash alarm";
+var mnemonic = "dust axis inspire toe picture visa focus lava box infant champion draft";

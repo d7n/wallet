@@ -1,1 +1,1 @@
-var mnemonic = "enroll dream gym drum cube nature trash chat stand build disorder clean";
+var mnemonic = "obey athlete cruise entry coin forest wild online act add entire laptop";

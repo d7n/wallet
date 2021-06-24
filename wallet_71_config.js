@@ -1,1 +1,1 @@
-var mnemonic = "quarter tragic price rebel educate insane traffic rhythm explain burger tool usual";
+var mnemonic = "rally infant merge early music confirm ball sunny mechanic distance leader void";

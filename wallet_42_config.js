@@ -1,1 +1,1 @@
-var mnemonic = "fatal orphan that purse tongue flame evoke frequent aerobic reward soft other";
+var mnemonic = "write note avocado flag practice hood magic boost remove air level mention";

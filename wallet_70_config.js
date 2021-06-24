@@ -1,1 +1,1 @@
-var mnemonic = "lab public tank guitar measure glad cruise elite enter crumble actual sad";
+var mnemonic = "spend scrub chimney antique gas shrug clever gate fat cluster spare veteran";

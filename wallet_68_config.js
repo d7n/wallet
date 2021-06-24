@@ -1,1 +1,1 @@
-var mnemonic = "client top clerk warfare chronic enjoy hamster either pony uncle current unlock";
+var mnemonic = "auto mosquito order airport message output final bean embody wrap juice round";

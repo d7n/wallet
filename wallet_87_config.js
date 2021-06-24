@@ -1,1 +1,1 @@
-var mnemonic = "critic clinic eye wide innocent foil resist art fee hundred vault bracket";
+var mnemonic = "vivid pear stumble south indoor craft gospel shed betray siege bunker search";

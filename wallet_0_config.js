@@ -1,1 +1,1 @@
-var mnemonic = "slender salon job oil nature update elder uncle year kidney physical bright";
+var mnemonic = "sheriff twelve total drastic blast subject planet rib candy diary exchange quality";

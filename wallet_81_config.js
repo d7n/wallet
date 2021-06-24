@@ -1,1 +1,1 @@
-var mnemonic = "sudden minute lady alarm mosquito ceiling member corn item flee brass alarm";
+var mnemonic = "move moment pilot solve gorilla eagle heavy such exchange monster torch wagon";

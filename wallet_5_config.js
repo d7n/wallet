@@ -1,1 +1,1 @@
-var mnemonic = "twenty clerk want hollow absorb lamp make impose enemy proud unit custom";
+var mnemonic = "reopen music fuel rhythm tennis aerobic doctor scissors spider steel rookie profit";

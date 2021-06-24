@@ -1,1 +1,1 @@
-var mnemonic = "critic gospel beef pitch valley father debate raise fiscal notice gossip water";
+var mnemonic = "oppose frog area satoshi hockey climb inflict maze fashion manage penalty guard";

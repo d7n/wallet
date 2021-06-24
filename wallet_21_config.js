@@ -1,1 +1,1 @@
-var mnemonic = "corn brush seven misery clown inhale sudden mass remove over blossom tape";
+var mnemonic = "modify topic bonus vicious exist tenant advice obtain miracle shell plastic neutral";

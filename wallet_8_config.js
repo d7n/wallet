@@ -1,1 +1,1 @@
-var mnemonic = "vehicle vote cable dress sponsor use clutch slab light candy wife child";
+var mnemonic = "few jewel rival clump scene cream sadness person three true hard stool";

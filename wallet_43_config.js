@@ -1,1 +1,1 @@
-var mnemonic = "nice oven defense lazy high wisdom supply heart drama trial evolve text";
+var mnemonic = "shoe start ugly topic angle urge fabric tent coyote antenna neck horror";

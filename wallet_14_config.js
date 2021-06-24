@@ -1,1 +1,1 @@
-var mnemonic = "track fruit disorder tube cave slim shuffle myself slim inquiry eager science";
+var mnemonic = "street card sorry normal boss lift increase rich nerve unhappy jungle drift";

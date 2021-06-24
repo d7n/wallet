@@ -1,1 +1,1 @@
-var mnemonic = "daughter kid social fury lend reflect science turtle bring unknown focus nature";
+var mnemonic = "pelican clever glow cotton novel artist arrive penalty hungry bind night rough";

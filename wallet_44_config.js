@@ -1,1 +1,1 @@
-var mnemonic = "minor spy slot flash tape material divorce gas toast father pill initial";
+var mnemonic = "blouse sad trash rose ginger ski sphere begin castle upset loyal blanket";

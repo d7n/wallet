@@ -1,1 +1,1 @@
-var mnemonic = "wire sugar error symbol ship pencil employ awesome spike noodle badge exact";
+var mnemonic = "lab piece tomato stadium focus choose foil select sick distance else permit";

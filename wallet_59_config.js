@@ -1,1 +1,1 @@
-var mnemonic = "garden sport voyage act undo connect dinosaur wave autumn shine network level";
+var mnemonic = "promote dune view water limit bid season jar wedding raise genius session";

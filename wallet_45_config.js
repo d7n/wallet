@@ -1,1 +1,1 @@
-var mnemonic = "uphold gun couch depth fresh banana coral hole insane poet practice now";
+var mnemonic = "supreme total mystery fall club depend puppy quote often ecology link flee";

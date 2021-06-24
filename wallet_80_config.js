@@ -1,1 +1,1 @@
-var mnemonic = "sign invite mix weird ripple drop move rotate village pigeon river menu";
+var mnemonic = "urge glide other myself cattle promote street correct abstract figure champion toy";

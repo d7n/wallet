@@ -1,1 +1,1 @@
-var mnemonic = "forum critic runway program thank forest cricket siren mirror together dial scissors";
+var mnemonic = "blanket sustain shell grain strike chuckle lift hope key spike negative poet";

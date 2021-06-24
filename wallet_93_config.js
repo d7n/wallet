@@ -1,1 +1,1 @@
-var mnemonic = "refuse plate segment guess deny idle lesson dune liberty observe you lend";
+var mnemonic = "jazz tattoo people almost follow hen birth draft kitchen glove prefer session";

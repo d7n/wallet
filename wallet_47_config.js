@@ -1,1 +1,1 @@
-var mnemonic = "key artefact six steak marine analyst paper light group voyage remember tennis";
+var mnemonic = "fringe genius donor recycle sick ticket grain cloud swift enlist auction drama";

@@ -1,1 +1,1 @@
-var mnemonic = "above diamond skirt wink armed crash iron shy book hood regular young";
+var mnemonic = "wrong close emerge foot rural typical fine chair wall adapt found still";

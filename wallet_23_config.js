@@ -1,1 +1,1 @@
-var mnemonic = "range tobacco between broken umbrella smoke bicycle powder mask jazz write forget";
+var mnemonic = "pride habit mom hockey simple fog happy valley enough before ticket client";

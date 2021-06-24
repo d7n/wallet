@@ -1,1 +1,1 @@
-var mnemonic = "bar shallow valley peanut dose warrior asthma ahead decrease chicken exercise pistol";
+var mnemonic = "test start loop glory suggest pelican muffin pair shy agree have thumb";

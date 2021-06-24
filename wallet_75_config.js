@@ -1,1 +1,1 @@
-var mnemonic = "priority steel surface prepare girl repeat guess solution sad name smart someone";
+var mnemonic = "airport theory trick artwork midnight romance giggle aspect feature episode cupboard cloud";

@@ -1,1 +1,1 @@
-var mnemonic = "cross price stage car assume nest flavor post island gospel wealth reveal";
+var mnemonic = "cave upper maximum culture ripple bamboo regret omit sunny side shallow fiscal";

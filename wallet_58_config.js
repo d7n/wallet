@@ -1,1 +1,1 @@
-var mnemonic = "scene tilt later sugar rival body fish image proud vehicle pencil keen";
+var mnemonic = "zone shallow style sudden deny various impose render false twist win match";

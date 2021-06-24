@@ -1,1 +1,1 @@
-var mnemonic = "fly skill mean scale romance addict actual once virtual spatial hurry pool";
+var mnemonic = "faint wood gown father rice ozone about deputy air inhale sister laundry";

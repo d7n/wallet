@@ -1,1 +1,1 @@
-var mnemonic = "dragon poverty favorite delay muscle tobacco illness bag youth bar govern tired";
+var mnemonic = "timber inject excuse army learn market record whale crew kitten business galaxy";

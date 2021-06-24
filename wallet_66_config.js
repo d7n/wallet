@@ -1,1 +1,1 @@
-var mnemonic = "enroll lab decorate mother frame power force baby boring reason good rookie";
+var mnemonic = "window repeat below elegant flower recall auto gloom grief civil rural climb";

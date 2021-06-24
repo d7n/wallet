@@ -1,1 +1,1 @@
-var mnemonic = "message habit chef stairs weird federal endorse panther family fish cute return";
+var mnemonic = "sweet way save coyote toy sing culture wild legal world party talent";

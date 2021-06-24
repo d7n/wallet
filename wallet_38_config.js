@@ -1,1 +1,1 @@
-var mnemonic = "humble danger error roast build prepare cigar help pattern wagon school load";
+var mnemonic = "fire lucky rice dirt road creek dawn bench cost believe present number";

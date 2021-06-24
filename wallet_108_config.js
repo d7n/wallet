@@ -1,1 +1,1 @@
-var mnemonic = "curve unfold solar matrix rich twist silly relief patient tray interest miss";
+var mnemonic = "easy length text manual couple gorilla region accident force physical garlic breeze";

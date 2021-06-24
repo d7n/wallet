@@ -1,1 +1,1 @@
-var mnemonic = "divorce movie vague pottery wild buzz dream glare creek dial outdoor program";
+var mnemonic = "loan grit clutch light vote flavor parrot blur vibrant cement unaware gown";

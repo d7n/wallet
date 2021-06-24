@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin spend humor tunnel nice crush prevent naive sunny hub exchange spawn";
+var mnemonic = "program dirt more fuel disagree you obtain figure animal degree wedding poet";

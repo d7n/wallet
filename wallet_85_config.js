@@ -1,1 +1,1 @@
-var mnemonic = "helmet strategy guide vacant lucky neither warfare possible year decade increase edge";
+var mnemonic = "say praise awake half base loan curve cube unhappy dentist this exchange";

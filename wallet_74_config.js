@@ -1,1 +1,1 @@
-var mnemonic = "increase gallery already life ripple script olympic museum hat harbor jazz ridge";
+var mnemonic = "mountain alert vessel cycle hundred affair fancy man nephew equip couple script";

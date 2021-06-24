@@ -1,1 +1,1 @@
-var mnemonic = "ladder thumb mountain civil tongue soup spawn measure day check real unusual";
+var mnemonic = "load indicate mesh tragic few now ancient fashion outdoor sea galaxy human";

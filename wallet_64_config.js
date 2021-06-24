@@ -1,1 +1,1 @@
-var mnemonic = "concert sponsor pumpkin thing pink retreat coin blind phone opera noodle fantasy";
+var mnemonic = "sister juice energy hurdle latin caution quality turtle worry hero office limit";

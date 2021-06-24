@@ -1,1 +1,1 @@
-var mnemonic = "attitude noodle merry upgrade brass crazy reason rail where twice piece forward";
+var mnemonic = "ridge skin rich code try pottery pilot accident release beyond flight power";

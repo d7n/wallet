@@ -1,1 +1,1 @@
-var mnemonic = "art video walk card mass balance bottom merry between excess dose can";
+var mnemonic = "dumb vendor stone output amazing bachelor swarm decade electric chef romance kind";
