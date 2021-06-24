@@ -1,1 +1,1 @@
-var mnemonic = "drink buyer army clever dream skin flower damage tunnel prefer diagram room";
+var mnemonic = "bronze mail hat fox champion hole toy finish wrestle clog veteran concert";

@@ -1,1 +1,1 @@
-var mnemonic = "canal dove build cherry purpose outside avoid expire hybrid coyote tag mad";
+var mnemonic = "immense siren consider dune offer away neutral gossip man royal kangaroo between";

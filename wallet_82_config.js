@@ -1,1 +1,1 @@
-var mnemonic = "clean snow width vacant admit frame unit edge rural core demand swamp";
+var mnemonic = "armed tower now exit hover peanut oil damage nest alter destroy match";

@@ -1,1 +1,1 @@
-var mnemonic = "mixture corn swarm lesson fossil correct satisfy twenty cave tiger expect mass";
+var mnemonic = "fit pair paddle odor field rebuild potato soda sunny repeat useful beyond";

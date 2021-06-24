@@ -1,1 +1,1 @@
-var mnemonic = "fiscal bubble cream chapter session file lobster coil youth arch depend tower";
+var mnemonic = "soap oil bomb pigeon pond hawk day sick patch resist loud bread";

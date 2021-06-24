@@ -1,1 +1,1 @@
-var mnemonic = "vessel parent boring logic escape ginger online badge text shrimp goat permit";
+var mnemonic = "eye such primary number era toddler industry very surface gym moment staff";

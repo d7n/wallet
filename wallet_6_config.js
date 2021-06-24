@@ -1,1 +1,1 @@
-var mnemonic = "swamp version fat icon october wine ankle cause false cannon bird switch";
+var mnemonic = "wreck wrap glove bundle already wrist merry behind unveil punch dream mirror";

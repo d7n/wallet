@@ -1,1 +1,1 @@
-var mnemonic = "liberty rebuild snake eyebrow hidden baby motor park clown knock tag attack";
+var mnemonic = "purpose entry spawn client pear olive dilemma aunt ugly vocal pair gold";

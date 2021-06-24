@@ -1,1 +1,1 @@
-var mnemonic = "heart hazard zone total this organ monkey patrol they suggest laptop twelve";
+var mnemonic = "slogan just oak melt initial leader board scene mom pull unlock what";

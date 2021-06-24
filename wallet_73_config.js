@@ -1,1 +1,1 @@
-var mnemonic = "rally hobby melody burger gorilla estate space enroll home excuse net matrix";
+var mnemonic = "two grape weird what method orange intact shoe glad reflect pottery table";

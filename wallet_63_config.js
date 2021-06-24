@@ -1,1 +1,1 @@
-var mnemonic = "mask upon team cram sorry upgrade soon voice perfect cloud slow device";
+var mnemonic = "indicate vivid potato album sand fortune narrow fantasy edge dilemma always spirit";

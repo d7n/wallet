@@ -1,1 +1,1 @@
-var mnemonic = "tip cluster dress garbage mutual sock mirror audit wave inflict awful believe";
+var mnemonic = "dress shoot promote kind diamond fruit surround stand hybrid poet anxiety wild";

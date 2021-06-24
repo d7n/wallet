@@ -1,1 +1,1 @@
-var mnemonic = "muffin trip primary defy welcome inch mesh cabin mechanic siege female load";
+var mnemonic = "income secret hint eye banana melt observe century scout appear job butter";

@@ -1,1 +1,1 @@
-var mnemonic = "girl save sausage provide another real mixed solid lunar toward tragic logic";
+var mnemonic = "tribe service output measure insect inhale song vacant buyer more shadow accident";

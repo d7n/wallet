@@ -1,1 +1,1 @@
-var mnemonic = "custom coconut fuel fresh guilt sing gold march mammal bottom hazard cricket";
+var mnemonic = "gesture month sleep corn excuse win wasp steak want submit vote ivory";

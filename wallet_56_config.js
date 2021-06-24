@@ -1,1 +1,1 @@
-var mnemonic = "panel element festival chaos youth ice bag wasp cherry noise dry survey";
+var mnemonic = "flock canoe used relax edit cushion alcohol office genius brush pull spare";

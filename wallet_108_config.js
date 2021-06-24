@@ -1,1 +1,1 @@
-var mnemonic = "life reduce chief silly insect oxygen food bundle vault direct response ten";
+var mnemonic = "dad gossip age audit enough invest cage rural wife annual shed unusual";

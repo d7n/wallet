@@ -1,1 +1,1 @@
-var mnemonic = "six benefit sun begin step slot rookie refuse dilemma sad layer autumn";
+var mnemonic = "toy theory cruise absent oven security humble valley bundle trust scare knock";

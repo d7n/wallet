@@ -1,1 +1,1 @@
-var mnemonic = "involve raccoon dynamic neglect tree essay announce build only fly bottom favorite";
+var mnemonic = "robot want cheese mixed evidence fetch put naive final shell seed middle";

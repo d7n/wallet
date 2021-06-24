@@ -1,1 +1,1 @@
-var mnemonic = "rough verb wrestle diet return artefact color ordinary essay move satoshi clean";
+var mnemonic = "ridge uncover type demand pond royal sick quality mirror hold nasty trust";

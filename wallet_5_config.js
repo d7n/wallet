@@ -1,1 +1,1 @@
-var mnemonic = "unusual bomb hat river inquiry typical plate bicycle speak mesh stomach trial";
+var mnemonic = "era draft light wash mean chicken dutch enact sound valve wood much";

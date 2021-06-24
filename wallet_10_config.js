@@ -1,1 +1,1 @@
-var mnemonic = "ice second picture sleep biology never crunch verb wedding duty seed bounce";
+var mnemonic = "beauty nerve surround crunch garment engine defy conduct pear library venue surface";

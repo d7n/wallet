@@ -1,1 +1,1 @@
-var mnemonic = "clog sound cactus kidney sister rapid push culture salute guess soldier general";
+var mnemonic = "magic crystal dust space fold south host merit just country elevator welcome";

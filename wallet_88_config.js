@@ -1,1 +1,1 @@
-var mnemonic = "exact champion repair devote chaos frozen dial hammer under lounge junior clown";
+var mnemonic = "guitar begin absurd circle loud manual awkward oppose jump speak movie hobby";

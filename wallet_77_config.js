@@ -1,1 +1,1 @@
-var mnemonic = "absurd wild avoid remove employ nuclear leisure mother soft skirt another middle";
+var mnemonic = "trap saddle venture message deal hub deer idle belt repair ocean bitter";

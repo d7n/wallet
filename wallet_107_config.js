@@ -1,1 +1,1 @@
-var mnemonic = "skate caution novel arm senior age smart inspire aspect absent six movie";
+var mnemonic = "neutral sand artwork volume earn addict congress garden order aisle rude word";

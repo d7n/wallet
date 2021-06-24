@@ -1,1 +1,1 @@
-var mnemonic = "elbow tail salmon tube shock thing chronic buddy exclude snack circle stumble";
+var mnemonic = "bundle penalty cattle simple wife wish fan flight tunnel valve south rain";

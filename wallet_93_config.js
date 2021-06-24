@@ -1,1 +1,1 @@
-var mnemonic = "conduct verify loop mansion suspect magnet surround casual rug width race game";
+var mnemonic = "like soon degree also glass photo grape skill elder license fringe top";

@@ -1,1 +1,1 @@
-var mnemonic = "tell raccoon tongue garbage mountain income verify word lottery invite joy rescue";
+var mnemonic = "spring wheel rabbit bitter sorry monitor deny fit able siren champion guilt";

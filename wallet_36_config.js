@@ -1,1 +1,1 @@
-var mnemonic = "canvas shiver crumble sound fetch vital clay trim collect butter fire into";
+var mnemonic = "wrist hover icon pipe ability athlete budget caution pigeon echo swallow gesture";

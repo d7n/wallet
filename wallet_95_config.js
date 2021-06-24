@@ -1,1 +1,1 @@
-var mnemonic = "drastic embrace spy view swim plate amount caught indicate food leader return";
+var mnemonic = "lift energy brave valley group sign web essence parade thank possible supreme";

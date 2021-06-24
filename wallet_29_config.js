@@ -1,1 +1,1 @@
-var mnemonic = "trade click boost trophy absorb describe rubber island decide summer hamster dance";
+var mnemonic = "mammal skirt avoid topic ginger pave lunar spoon oyster cram stadium pass";

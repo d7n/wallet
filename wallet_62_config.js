@@ -1,1 +1,1 @@
-var mnemonic = "arena denial team blind road refuse novel tip fragile wrestle myth fit";
+var mnemonic = "stairs oven code dune frequent upgrade drop someone reason rack inch essence";

@@ -1,1 +1,1 @@
-var mnemonic = "found orbit later mimic category this guide border tornado document write learn";
+var mnemonic = "source ancient wine kick pumpkin afraid asset lucky kidney now ranch shoe";

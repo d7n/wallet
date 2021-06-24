@@ -1,1 +1,1 @@
-var mnemonic = "solid proud idle foam vocal ability traffic fitness kitchen sadness spray track";
+var mnemonic = "short fix print weekend electric moon industry motion yellow coffee aim agent";

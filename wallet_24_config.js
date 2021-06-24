@@ -1,1 +1,1 @@
-var mnemonic = "script diagram fortune confirm actor glare swamp elephant climb firm absent neutral";
+var mnemonic = "social minimum pull tent harsh else into visa predict payment awesome into";

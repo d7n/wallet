@@ -1,1 +1,1 @@
-var mnemonic = "yellow cousin boost relax humor mom depend tomorrow spider weekend note brisk";
+var mnemonic = "salmon advance seat journey shrimp law sleep right hospital avoid exercise reject";

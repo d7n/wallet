@@ -1,1 +1,1 @@
-var mnemonic = "hire south flock emerge ugly path whisper device useless room pupil behave";
+var mnemonic = "umbrella dove elegant shell immense arm symptom antique globe fiction dog punch";

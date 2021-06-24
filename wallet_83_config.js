@@ -1,1 +1,1 @@
-var mnemonic = "nice almost arm rubber toss convince art chat around picnic void balcony";
+var mnemonic = "humble finger jewel power diesel pear dance lamp grace valve design vibrant";

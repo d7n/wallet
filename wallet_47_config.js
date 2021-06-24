@@ -1,1 +1,1 @@
-var mnemonic = "happy marriage shoulder confirm embrace state market frog easy install width tone";
+var mnemonic = "cruel melody into gaze crush refuse fox act office stick escape anger";

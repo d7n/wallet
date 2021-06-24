@@ -1,1 +1,1 @@
-var mnemonic = "stove lava easy welcome drink matrix hip radio spin conduct dial soon";
+var mnemonic = "banner dinosaur art arm submit nurse become six kitchen dog wisdom cute";

@@ -1,1 +1,1 @@
-var mnemonic = "sun mother estate decrease drop phone render silver cute tool detail fit";
+var mnemonic = "debris bid reflect pelican quiz foot master asset gaze faith sight spirit";

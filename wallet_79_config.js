@@ -1,1 +1,1 @@
-var mnemonic = "throw source olympic child tattoo range three crisp walk protect victory drive";
+var mnemonic = "proof hedgehog empower river ranch ride diamond rich claw hint local undo";

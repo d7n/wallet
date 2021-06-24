@@ -1,1 +1,1 @@
-var mnemonic = "relief quote spoil dune stuff plate zone elbow enjoy hope pride timber";
+var mnemonic = "crane inquiry erode void start decide marble require jewel march grunt frost";

@@ -1,1 +1,1 @@
-var mnemonic = "deposit again region rice feed intact decorate destroy behind admit bundle speed";
+var mnemonic = "peanut mention anxiety physical genius toilet canyon lamp ritual lobster lottery east";

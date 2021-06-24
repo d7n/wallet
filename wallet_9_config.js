@@ -1,1 +1,1 @@
-var mnemonic = "female quote loan hollow cry owner found enrich scissors kingdom present night";
+var mnemonic = "sponsor manual spike toe vehicle mercy globe funny dress tuition firm try";

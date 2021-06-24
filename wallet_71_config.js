@@ -1,1 +1,1 @@
-var mnemonic = "silly since fringe owner involve token design clown uncle practice chest eight";
+var mnemonic = "boat guard early clerk scan top gentle purity eight strategy indicate almost";

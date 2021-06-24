@@ -1,1 +1,1 @@
-var mnemonic = "parade mansion adjust toy bind defense goddess peanut deputy text sausage position";
+var mnemonic = "nominee dial minor exhaust nest march loan moral sentence air reject decorate";

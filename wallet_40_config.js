@@ -1,1 +1,1 @@
-var mnemonic = "install point fog scene crouch inch capital cinnamon dish universe mandate now";
+var mnemonic = "usage hello deputy good labor buffalo solve visa unhappy false charge junk";

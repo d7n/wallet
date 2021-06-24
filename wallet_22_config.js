@@ -1,1 +1,1 @@
-var mnemonic = "industry pen before over captain electric wagon salt believe party tourist school";
+var mnemonic = "cherry fancy fish another peasant almost stable rookie reveal soda oven piece";

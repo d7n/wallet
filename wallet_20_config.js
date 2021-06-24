@@ -1,1 +1,1 @@
-var mnemonic = "region shrimp seminar unit hint clarify health million ship client history vote";
+var mnemonic = "wealth sock grunt model pepper comfort potato case soda coyote simple canvas";

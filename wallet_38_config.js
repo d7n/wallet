@@ -1,1 +1,1 @@
-var mnemonic = "public snake devote patrol armed enforce level around suspect pink acid celery";
+var mnemonic = "wait casual chapter alien rhythm kitchen seek engage light bamboo size because";

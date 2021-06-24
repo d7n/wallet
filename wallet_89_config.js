@@ -1,1 +1,1 @@
-var mnemonic = "slight turn cloud train surge pen device pride cover elder spare salute";
+var mnemonic = "weasel gift shoe exile move glance stamp enable auto kiss exhibit liquid";

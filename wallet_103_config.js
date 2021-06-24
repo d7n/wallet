@@ -1,1 +1,1 @@
-var mnemonic = "slow oppose stand helmet surface bottom festival derive element bracket open leisure";
+var mnemonic = "poem rotate cross antique outer velvet purity admit reform coin bridge pull";

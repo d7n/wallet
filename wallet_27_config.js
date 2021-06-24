@@ -1,1 +1,1 @@
-var mnemonic = "heavy section monkey metal enroll stereo beauty bounce settle frozen luggage dutch";
+var mnemonic = "forum desk bullet pink punch way false physical can endless pistol stuff";

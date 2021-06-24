@@ -1,1 +1,1 @@
-var mnemonic = "token correct release outer crisp order you clock ridge sing grass erosion";
+var mnemonic = "phone salute blood ski riot fiber buyer air just common prepare submit";

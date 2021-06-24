@@ -1,1 +1,1 @@
-var mnemonic = "unveil rabbit that release always other scatter cave glare shiver theory frost";
+var mnemonic = "push sponsor inherit permit roof wage record hybrid physical oxygen coil rotate";

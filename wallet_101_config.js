@@ -1,1 +1,1 @@
-var mnemonic = "swear glare price bone recipe deliver visa balcony ski mutual economy strong";
+var mnemonic = "genius mix push large search cherry tongue lounge nest hole quality burst";

@@ -1,1 +1,1 @@
-var mnemonic = "view beyond begin dash beef indoor slam collect second million math drink";
+var mnemonic = "baby want tribe history dose cabin depend begin bamboo hello link talk";

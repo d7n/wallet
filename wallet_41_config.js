@@ -1,1 +1,1 @@
-var mnemonic = "okay acquire save absurd forget unit vintage tilt unaware loan slim proud";
+var mnemonic = "theme suit once sponsor glove retire prepare cereal dumb gospel tissue negative";

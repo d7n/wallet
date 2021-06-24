@@ -1,1 +1,1 @@
-var mnemonic = "umbrella funny denial ugly gallery pelican bulk wonder choice express begin lawn";
+var mnemonic = "announce tongue farm nominee during bracket knock tell blur derive mom there";

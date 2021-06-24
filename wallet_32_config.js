@@ -1,1 +1,1 @@
-var mnemonic = "forget spray decorate upset spell come learn wasp avocado wrestle decade girl";
+var mnemonic = "cool half loud enjoy scissors focus steel slice huge champion beyond group";

@@ -1,1 +1,1 @@
-var mnemonic = "auction wood wrist security casual cushion inhale dream palm moment edge thank";
+var mnemonic = "catalog trip radar bird decade pitch impact expire divorce brother fabric nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "fine soul teach theme laundry clump afford guide decade embark example tonight";
+var mnemonic = "exact owner cattle keen defense celery vessel bullet text where icon dream";

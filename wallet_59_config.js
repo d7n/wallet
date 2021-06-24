@@ -1,1 +1,1 @@
-var mnemonic = "bus pool mind figure guilt impose prize repeat suffer tissue merry rotate";
+var mnemonic = "oxygen skin planet inherit foster angle water horse bread repair hero blossom";

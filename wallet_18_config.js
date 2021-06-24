@@ -1,1 +1,1 @@
-var mnemonic = "friend shell rose valid coffee ginger assist quick spell account confirm drink";
+var mnemonic = "cash suggest glue settle chuckle book mystery rhythm what dish patch year";

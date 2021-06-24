@@ -1,1 +1,1 @@
-var mnemonic = "casino mass fashion image between picnic until predict must uphold soap jungle";
+var mnemonic = "palace step inherit panel walk urge turtle habit increase damp neglect civil";

@@ -1,1 +1,1 @@
-var mnemonic = "manual elite seven unknown person sniff swift become reduce task harvest harsh";
+var mnemonic = "report dune start noodle almost birth chief method symptom erode engine man";

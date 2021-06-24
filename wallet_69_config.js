@@ -1,1 +1,1 @@
-var mnemonic = "clinic language report praise only field shadow entire enjoy trigger wrap render";
+var mnemonic = "vast siege remain alone penalty cigar erosion tone service unfair dress sure";

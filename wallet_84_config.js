@@ -1,1 +1,1 @@
-var mnemonic = "syrup trade divorce choice tackle tank news barely dance zero fine rule";
+var mnemonic = "token also farm sentence loop connect twist outer time bless boss various";

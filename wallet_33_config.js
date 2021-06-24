@@ -1,1 +1,1 @@
-var mnemonic = "switch dignity erode fatal indoor island escape initial garlic gospel arena follow";
+var mnemonic = "script talk develop supply waste leopard reward prize earn actual security silly";

@@ -1,1 +1,1 @@
-var mnemonic = "hazard curious scrub stumble sauce canoe elevator quantum away category donor mesh";
+var mnemonic = "loan tortoise frame donate same oak decline public fat cube glad track";

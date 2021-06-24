@@ -1,1 +1,1 @@
-var mnemonic = "season shove miss spirit delay leisure elbow mom annual suggest doctor monitor";
+var mnemonic = "system club topic mean churn cart romance lake lawn keen science piano";

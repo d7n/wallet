@@ -1,1 +1,1 @@
-var mnemonic = "coffee open road scissors buddy swim box fitness swim leg tank detect";
+var mnemonic = "access usage quit video jump resource accident gift enrich demise foam stone";

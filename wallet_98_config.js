@@ -1,1 +1,1 @@
-var mnemonic = "thing small cactus soon drill prison giggle accident hen require country quote";
+var mnemonic = "total diary crowd until sunset tail just ten warrior shrug airport advance";

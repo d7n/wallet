@@ -1,1 +1,1 @@
-var mnemonic = "girl discover bronze chaos boost open october renew come voice elite timber";
+var mnemonic = "virtual vast beauty journey mutual melody girl cliff flight melt message hole";

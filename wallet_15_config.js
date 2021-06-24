@@ -1,1 +1,1 @@
-var mnemonic = "unable life between monkey cupboard monster soup unable purse blame bamboo decline";
+var mnemonic = "season broccoli save east hole stove lady jazz word immense salon swift";

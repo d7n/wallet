@@ -1,1 +1,1 @@
-var mnemonic = "paper interest proud rhythm limb middle wrap garden find ecology minute exclude";
+var mnemonic = "quantum tool axis surge happy kid noise toddler accuse skull valley define";

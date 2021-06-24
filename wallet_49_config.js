@@ -1,1 +1,1 @@
-var mnemonic = "repeat vast possible sense habit super castle black over fade polar answer";
+var mnemonic = "goose ability ripple heart gadget robot add powder sponsor champion dolphin grunt";

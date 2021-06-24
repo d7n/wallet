@@ -1,1 +1,1 @@
-var mnemonic = "myself field range frost dinosaur winter shell monkey crucial believe jaguar panic";
+var mnemonic = "elephant reunion stadium eye trumpet upon story once arch orange heavy ride";

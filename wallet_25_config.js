@@ -1,1 +1,1 @@
-var mnemonic = "crumble sniff modify finish canyon unveil cloud purity adapt congress upgrade panda";
+var mnemonic = "impose inch payment orbit lazy debris squeeze crater once shift skin notice";

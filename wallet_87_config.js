@@ -1,1 +1,1 @@
-var mnemonic = "impulse ozone hedgehog exclude friend six dragon analyst movie copy ripple very";
+var mnemonic = "park pond fox inject solar grab mesh lady normal better love zebra";

@@ -1,1 +1,1 @@
-var mnemonic = "middle plunge taxi boil junk bargain major replace phrase refuse window kidney";
+var mnemonic = "evolve source battle rent chunk grunt usage thunder shell client trip forest";

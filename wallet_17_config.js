@@ -1,1 +1,1 @@
-var mnemonic = "present casino eagle simple inject step clever donor match fox notice dilemma";
+var mnemonic = "cabin capital super various suffer genius noble creek ripple sea dry peanut";

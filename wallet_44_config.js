@@ -1,1 +1,1 @@
-var mnemonic = "congress lesson nose absorb wet mushroom evil wolf laugh enable jeans reveal";
+var mnemonic = "awkward farm alley logic little staff tobacco box gain stick involve canyon";

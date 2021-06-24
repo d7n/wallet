@@ -1,1 +1,1 @@
-var mnemonic = "program easily exhibit valley badge huge theme auction field robot economy mystery";
+var mnemonic = "retreat discover kick start cancel awesome all nut voice size toddler victory";

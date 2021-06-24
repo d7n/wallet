@@ -1,1 +1,1 @@
-var mnemonic = "palm magic wash rather struggle latin keen acquire person desk maple screen";
+var mnemonic = "transfer train grit pottery mistake use grass river tower rifle merit trip";

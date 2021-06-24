@@ -1,1 +1,1 @@
-var mnemonic = "process arrange detail check cluster document job ship attend insect modify invest";
+var mnemonic = "wide slice flee solution enter man reject fresh again step cheese hat";

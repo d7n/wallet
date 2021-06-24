@@ -1,1 +1,1 @@
-var mnemonic = "spare luxury health use flower okay bleak dad move move tourist vessel";
+var mnemonic = "absent upper gospel oval bomb course phrase coast hockey lizard spin type";

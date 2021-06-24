@@ -1,1 +1,1 @@
-var mnemonic = "process arena strategy fiscal gate orphan name glory hurdle timber school aerobic";
+var mnemonic = "cage retire welcome equal rather suspect business can easily clump glare pledge";

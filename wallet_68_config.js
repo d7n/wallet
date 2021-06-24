@@ -1,1 +1,1 @@
-var mnemonic = "kick parent act legend cool notice brief winner essay agent embark town";
+var mnemonic = "engage very width any ignore main spirit sadness have squeeze argue blush";
