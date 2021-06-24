@@ -1,1 +1,1 @@
-var mnemonic = "snap addict anchor faculty sound walk bargain distance orient slide busy wisdom";
+var mnemonic = "current ranch notable license various strong reopen trim mystery fix wise motion";

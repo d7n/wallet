@@ -1,1 +1,1 @@
-var mnemonic = "job drastic cruel business mandate need bless window plug gesture sell decide";
+var mnemonic = "unhappy churn tornado tunnel lemon repeat void unusual fly foam section whale";

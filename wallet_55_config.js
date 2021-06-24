@@ -1,1 +1,1 @@
-var mnemonic = "earth rookie number museum promote decide bread noble rough measure satoshi bag";
+var mnemonic = "simple material lounge cost type hello pioneer enact rocket dial endorse flight";

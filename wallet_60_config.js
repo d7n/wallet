@@ -1,1 +1,1 @@
-var mnemonic = "cheese flavor select elder record cake scan hospital raccoon ramp document myth";
+var mnemonic = "art video walk card mass balance bottom merry between excess dose can";

@@ -1,1 +1,1 @@
-var mnemonic = "calm tent system surprise record option mail subject tray juice goat diamond";
+var mnemonic = "attitude noodle merry upgrade brass crazy reason rail where twice piece forward";

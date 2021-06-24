@@ -1,1 +1,1 @@
-var mnemonic = "gate hedgehog float later initial oil uphold snow maid afford weird quality";
+var mnemonic = "minor spy slot flash tape material divorce gas toast father pill initial";

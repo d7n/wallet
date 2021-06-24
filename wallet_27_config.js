@@ -1,1 +1,1 @@
-var mnemonic = "only behave runway priority faith abstract extend pool case hair casino myself";
+var mnemonic = "hundred start decide subject drip worth regret invest open gloom pause because";

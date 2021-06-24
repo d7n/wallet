@@ -1,1 +1,1 @@
-var mnemonic = "gesture satoshi disagree action legend marble team primary suit civil run grit";
+var mnemonic = "daughter kid social fury lend reflect science turtle bring unknown focus nature";

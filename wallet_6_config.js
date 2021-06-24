@@ -1,1 +1,1 @@
-var mnemonic = "ketchup ball favorite detect same face fitness grocery eternal super wide wire";
+var mnemonic = "hill spoil rocket elegant key disorder wasp neither helmet fork promote kidney";

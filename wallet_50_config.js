@@ -1,1 +1,1 @@
-var mnemonic = "rice attend era thing forest eager call two one neither dance script";
+var mnemonic = "audit into armor grow inherit happy lunch tortoise float soft push topple";

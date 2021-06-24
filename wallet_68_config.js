@@ -1,1 +1,1 @@
-var mnemonic = "enable wasp boy cigar dentist liberty rifle wine clay impulse remain robot";
+var mnemonic = "client top clerk warfare chronic enjoy hamster either pony uncle current unlock";

@@ -1,1 +1,1 @@
-var mnemonic = "target drip bone pyramid thrive cement promote parade photo huge hour keep";
+var mnemonic = "garden sport voyage act undo connect dinosaur wave autumn shine network level";

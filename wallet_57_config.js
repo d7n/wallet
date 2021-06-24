@@ -1,1 +1,1 @@
-var mnemonic = "retreat camp fix sun front tent glimpse swing decline write evil two";
+var mnemonic = "together promote drip noodle mutual duck divert demise half error noise relax";

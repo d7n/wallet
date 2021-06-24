@@ -1,1 +1,1 @@
-var mnemonic = "visa omit rhythm raise disorder life husband blast uncle position dream shield";
+var mnemonic = "lyrics adapt great panel marriage point daring message gesture hawk all coast";

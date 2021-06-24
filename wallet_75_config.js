@@ -1,1 +1,1 @@
-var mnemonic = "oxygen false vendor coconut sheriff huge warrior dune turn eight ball ugly";
+var mnemonic = "priority steel surface prepare girl repeat guess solution sad name smart someone";

@@ -1,1 +1,1 @@
-var mnemonic = "brush fiscal brother mosquito combine vicious crater spell tumble marble stamp kingdom";
+var mnemonic = "airport together chair swamp expire join amazing vocal artist salute buyer neither";

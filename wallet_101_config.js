@@ -1,1 +1,1 @@
-var mnemonic = "dial into guide jazz web moment hold there never found gate list";
+var mnemonic = "forum critic runway program thank forest cricket siren mirror together dial scissors";

@@ -1,1 +1,1 @@
-var mnemonic = "announce crew evolve sorry object bone shadow scale water answer happy dose";
+var mnemonic = "fold hungry water kick armed general calm hunt surprise strike damage seed";

@@ -1,1 +1,1 @@
-var mnemonic = "junior foot scare zebra brave aunt call embark under vital delay cruel";
+var mnemonic = "range tobacco between broken umbrella smoke bicycle powder mask jazz write forget";

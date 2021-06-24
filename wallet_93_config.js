@@ -1,1 +1,1 @@
-var mnemonic = "harbor rice wall state fringe safe dog plug chair guilt click squirrel";
+var mnemonic = "refuse plate segment guess deny idle lesson dune liberty observe you lend";

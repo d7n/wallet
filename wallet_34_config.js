@@ -1,1 +1,1 @@
-var mnemonic = "code top chuckle multiply noise nuclear acid motor reduce across tide obtain";
+var mnemonic = "baby fiction injury isolate lumber hood despair lottery club subway bicycle write";

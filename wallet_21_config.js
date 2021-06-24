@@ -1,1 +1,1 @@
-var mnemonic = "light problem occur duty nice seminar sadness basic torch paper inform whip";
+var mnemonic = "corn brush seven misery clown inhale sudden mass remove over blossom tape";

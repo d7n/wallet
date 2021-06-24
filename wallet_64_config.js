@@ -1,1 +1,1 @@
-var mnemonic = "ketchup access food fat saddle organ flock act puzzle captain cancel hurdle";
+var mnemonic = "concert sponsor pumpkin thing pink retreat coin blind phone opera noodle fantasy";

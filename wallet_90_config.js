@@ -1,1 +1,1 @@
-var mnemonic = "powder caught weapon nuclear silent inch radar hen junk cup veteran can";
+var mnemonic = "hour walk undo beach work settle list almost balance delay sad isolate";

@@ -1,1 +1,1 @@
-var mnemonic = "session power glare canoe legal affair bottom measure detail cover sun design";
+var mnemonic = "victory pill crucial thing exile lift bamboo exotic infant quarter area vehicle";

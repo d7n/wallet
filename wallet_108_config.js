@@ -1,1 +1,1 @@
-var mnemonic = "minute steak ball diesel basket cloth tilt tourist joy dilemma misery vast";
+var mnemonic = "curve unfold solar matrix rich twist silly relief patient tray interest miss";

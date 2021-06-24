@@ -1,1 +1,1 @@
-var mnemonic = "strong essay pear south post core addict orphan enlist capable cherry grit";
+var mnemonic = "fatal orphan that purse tongue flame evoke frequent aerobic reward soft other";

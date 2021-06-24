@@ -1,1 +1,1 @@
-var mnemonic = "armor enforce burger toy border light attitude sand royal helmet traffic knock";
+var mnemonic = "quarter tragic price rebel educate insane traffic rhythm explain burger tool usual";

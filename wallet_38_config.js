@@ -1,1 +1,1 @@
-var mnemonic = "arrange disorder segment mountain mom giraffe scrap hamster used disease effort milk";
+var mnemonic = "humble danger error roast build prepare cigar help pattern wagon school load";

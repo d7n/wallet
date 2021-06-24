@@ -1,1 +1,1 @@
-var mnemonic = "uphold unit wrist pioneer faith effort display approve liquid leisure finger luxury";
+var mnemonic = "divorce movie vague pottery wild buzz dream glare creek dial outdoor program";

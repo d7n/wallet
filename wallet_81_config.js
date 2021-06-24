@@ -1,1 +1,1 @@
-var mnemonic = "keep acquire risk tool science art rally fashion country volume warrior inhale";
+var mnemonic = "sudden minute lady alarm mosquito ceiling member corn item flee brass alarm";

@@ -1,1 +1,1 @@
-var mnemonic = "library chair index assume boost matrix wink make estate peanut amateur tent";
+var mnemonic = "puzzle clay lion concert just usual toe front lake hurry pulse canyon";

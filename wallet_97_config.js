@@ -1,1 +1,1 @@
-var mnemonic = "defense core boss interest upset trick unit vehicle gospel input bar dish";
+var mnemonic = "olympic army provide alone forward buyer payment hospital net real stand trick";

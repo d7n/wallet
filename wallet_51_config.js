@@ -1,1 +1,1 @@
-var mnemonic = "tongue visit donkey mimic depend wife decrease champion mistake kit nature behave";
+var mnemonic = "term actual hundred vivid raven gaze biology wonder wide approve isolate page";

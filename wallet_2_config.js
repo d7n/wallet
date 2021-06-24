@@ -1,1 +1,1 @@
-var mnemonic = "dismiss ball opinion scout one believe fire join reunion frozen hub rent";
+var mnemonic = "taxi arrive turn latin remind dinosaur main provide size member tragic crack";

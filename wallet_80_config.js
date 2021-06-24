@@ -1,1 +1,1 @@
-var mnemonic = "style pizza minute agent lunar bullet jewel song trust size oyster else";
+var mnemonic = "sign invite mix weird ripple drop move rotate village pigeon river menu";

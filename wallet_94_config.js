@@ -1,1 +1,1 @@
-var mnemonic = "cost solid purity dilemma prosper venue walnut daring core parade enter awake";
+var mnemonic = "imitate stereo fluid paper spring river just chuckle couple find category bundle";

@@ -1,1 +1,1 @@
-var mnemonic = "check squeeze enforce tired honey rent perfect quote kid gallery express home";
+var mnemonic = "enroll lab decorate mother frame power force baby boring reason good rookie";

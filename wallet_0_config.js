@@ -1,1 +1,1 @@
-var mnemonic = "orange sausage toward human sail fashion mistake biology visual swamp route woman";
+var mnemonic = "slender salon job oil nature update elder uncle year kidney physical bright";

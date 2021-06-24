@@ -1,1 +1,1 @@
-var mnemonic = "amount ramp pluck shuffle monster twice sample skull mandate long vacant rabbit";
+var mnemonic = "bike stem melody case faculty sure length issue glad build minimum clay";

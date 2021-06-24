@@ -1,1 +1,1 @@
-var mnemonic = "capital cup object spice strategy pizza distance main oxygen smart work cruise";
+var mnemonic = "accident shallow hill holiday exotic sad banner crush velvet pistol monster blush";

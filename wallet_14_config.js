@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit inch beach update tail appear change wheat depend steak slow glare";
+var mnemonic = "track fruit disorder tube cave slim shuffle myself slim inquiry eager science";

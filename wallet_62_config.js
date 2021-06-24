@@ -1,1 +1,1 @@
-var mnemonic = "fortune shield alley matrix orchard deputy unhappy width tube mass shadow horse";
+var mnemonic = "gauge child canyon tobacco earth celery damp second purpose eagle black army";

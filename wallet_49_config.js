@@ -1,1 +1,1 @@
-var mnemonic = "delay logic robot wink muffin teach enhance night chapter helmet clinic apart";
+var mnemonic = "enforce nephew gloom square pudding brain april worth novel around remember link";

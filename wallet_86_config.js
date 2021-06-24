@@ -1,1 +1,1 @@
-var mnemonic = "express list fly glad visa similar wrap lizard anxiety tennis maple upper";
+var mnemonic = "critic gospel beef pitch valley father debate raise fiscal notice gossip water";

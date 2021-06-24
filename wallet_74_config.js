@@ -1,1 +1,1 @@
-var mnemonic = "symptom shoulder much bus cliff helmet wreck wage universe supreme wage broccoli";
+var mnemonic = "increase gallery already life ripple script olympic museum hat harbor jazz ridge";

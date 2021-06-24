@@ -1,1 +1,1 @@
-var mnemonic = "member symbol foster cram tumble hotel home pilot suggest various shop arrest";
+var mnemonic = "slush ten noble snake brand nurse join wing broom board gorilla finish";

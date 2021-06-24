@@ -1,1 +1,1 @@
-var mnemonic = "kitchen inflict input bitter daughter type across already bid winter few toward";
+var mnemonic = "put bitter obvious border pilot space friend strong woman hedgehog ritual forum";

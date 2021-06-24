@@ -1,1 +1,1 @@
-var mnemonic = "flame nuclear fetch orchard release father flash allow horn blanket empty jump";
+var mnemonic = "critic clinic eye wide innocent foil resist art fee hundred vault bracket";

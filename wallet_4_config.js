@@ -1,1 +1,1 @@
-var mnemonic = "notice whip luggage rib roast tumble taste divert sweet bracket glance symptom";
+var mnemonic = "virtual harsh number will humor weather entire guilt isolate pet rug burger";

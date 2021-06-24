@@ -1,1 +1,1 @@
-var mnemonic = "typical case early festival fiber mule jewel pass wide setup filter hollow";
+var mnemonic = "rain false shop mixture taxi track kit door false same chimney peasant";

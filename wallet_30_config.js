@@ -1,1 +1,1 @@
-var mnemonic = "snap jeans daring close erosion plunge top clerk foam piece home visit";
+var mnemonic = "like matrix raw solve boost orbit rebuild broccoli fire payment admit wrist";

@@ -1,1 +1,1 @@
-var mnemonic = "insane answer matrix team call among dash arrange half road phrase flag";
+var mnemonic = "almost street estate quarter expect stadium magic dish core damage side praise";

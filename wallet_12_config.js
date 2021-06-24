@@ -1,1 +1,1 @@
-var mnemonic = "denial kitten basic trade couple run voyage bread bomb excess vivid bag";
+var mnemonic = "civil history excite slam ankle suit nurse unknown pipe drill script mom";

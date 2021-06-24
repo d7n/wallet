@@ -1,1 +1,1 @@
-var mnemonic = "local own embark wet thrive crisp sweet man magic believe bronze volcano";
+var mnemonic = "depart beauty input obvious people judge ritual uniform hire nut museum deputy";

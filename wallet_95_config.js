@@ -1,1 +1,1 @@
-var mnemonic = "alone okay gloom useless spice pioneer debate bench rely effort again oven";
+var mnemonic = "wine aware zoo zone sketch weapon fuel access cousin follow conduct account";

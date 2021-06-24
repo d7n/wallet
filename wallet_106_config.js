@@ -1,1 +1,1 @@
-var mnemonic = "nut clay stamp gesture enlist wagon fog razor actress cook scheme town";
+var mnemonic = "erode key bless extend trial loop eternal act faith someone destroy daring";

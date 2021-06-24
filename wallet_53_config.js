@@ -1,1 +1,1 @@
-var mnemonic = "dance drama cinnamon soup bid galaxy erupt coil draw artwork sea anger";
+var mnemonic = "dragon poverty favorite delay muscle tobacco illness bag youth bar govern tired";

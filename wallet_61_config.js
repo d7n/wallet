@@ -1,1 +1,1 @@
-var mnemonic = "market park paper limb service puppy lend promote shy embark endless remember";
+var mnemonic = "alone border combine require season good wisdom level resemble unlock like peace";

@@ -1,1 +1,1 @@
-var mnemonic = "gold rigid total phone siege earn april luggage library rent access glad";
+var mnemonic = "reject potato mercy useless invite trouble gain skill train conduct quality abuse";

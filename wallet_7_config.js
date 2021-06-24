@@ -1,1 +1,1 @@
-var mnemonic = "pause useful proof file warm army collect radio frown lyrics rather casual";
+var mnemonic = "smile same combine sniff season letter wait column peasant tooth seven poem";

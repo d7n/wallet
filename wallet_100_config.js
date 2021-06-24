@@ -1,1 +1,1 @@
-var mnemonic = "capable impulse artefact elegant mention monitor extend auction arena mule frequent settle";
+var mnemonic = "above diamond skirt wink armed crash iron shy book hood regular young";

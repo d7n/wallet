@@ -1,1 +1,1 @@
-var mnemonic = "fox broom metal have ask whisper upper coconut spell crouch hurt organ";
+var mnemonic = "room humble bullet intact impact oil unaware draw recipe team agent cruise";

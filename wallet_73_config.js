@@ -1,1 +1,1 @@
-var mnemonic = "prosper power great museum beauty alert pistol impose wonder deal maid vapor";
+var mnemonic = "cross price stage car assume nest flavor post island gospel wealth reveal";

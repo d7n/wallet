@@ -1,1 +1,1 @@
-var mnemonic = "method turn unfair feed talk empty frog twenty blur glimpse estate injury";
+var mnemonic = "can bike liquid movie online radio cube exit burst bright doctor atom";

@@ -1,1 +1,1 @@
-var mnemonic = "soldier defy spoon risk north all property insect surface remain lonely unaware";
+var mnemonic = "flush either clutch valid cherry inside gap march cross math screen tongue";

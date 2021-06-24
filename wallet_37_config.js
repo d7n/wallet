@@ -1,1 +1,1 @@
-var mnemonic = "average rookie drastic million define govern supply monkey tube leopard park employ";
+var mnemonic = "pair stairs shallow void great bike trial symptom situate manage end measure";

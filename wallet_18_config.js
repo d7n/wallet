@@ -1,1 +1,1 @@
-var mnemonic = "moral monkey october iron muscle exchange target lucky flame side adapt knock";
+var mnemonic = "sun either west copper admit trouble home ship own neck soup pair";

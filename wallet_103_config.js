@@ -1,1 +1,1 @@
-var mnemonic = "claim party east hybrid clever north rookie flee glance nephew absurd awkward";
+var mnemonic = "can conduct trust crisp jeans disorder banana seek power other enable tube";

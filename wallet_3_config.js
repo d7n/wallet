@@ -1,1 +1,1 @@
-var mnemonic = "current thrive fox head coconut catch found erosion aunt father gap pact";
+var mnemonic = "walnut harvest tonight diamond index gadget flock fresh badge rug pony edge";

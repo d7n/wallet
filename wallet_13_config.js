@@ -1,1 +1,1 @@
-var mnemonic = "radar fiction quantum live sound cry throw history tomorrow metal rotate noise";
+var mnemonic = "zoo risk setup rocket square endless curve mean luxury expect fun fan";

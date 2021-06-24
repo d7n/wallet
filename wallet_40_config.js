@@ -1,1 +1,1 @@
-var mnemonic = "split join inject improve often turtle limb exchange beauty army evidence muscle";
+var mnemonic = "series install april put uncover ginger ticket apology cloth picture tiger neutral";

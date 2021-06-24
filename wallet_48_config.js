@@ -1,1 +1,1 @@
-var mnemonic = "wasp install shaft erupt they example series correct output joy iron enjoy";
+var mnemonic = "wire sugar error symbol ship pencil employ awesome spike noodle badge exact";

@@ -1,1 +1,1 @@
-var mnemonic = "edge mail resource idle wall setup spawn typical fold clap laugh where";
+var mnemonic = "message habit chef stairs weird federal endorse panther family fish cute return";

@@ -1,1 +1,1 @@
-var mnemonic = "miss husband genuine swallow mean identify nuclear indoor work ball execute sorry";
+var mnemonic = "clap hat long girl vault vessel rack false chronic bundle ribbon excite";

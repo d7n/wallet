@@ -1,1 +1,1 @@
-var mnemonic = "electric tongue obey guide someone asset wash sphere tobacco crumble cook hill";
+var mnemonic = "nice oven defense lazy high wisdom supply heart drama trial evolve text";

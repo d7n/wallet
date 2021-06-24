@@ -1,1 +1,1 @@
-var mnemonic = "dirt actual pulse eyebrow time mushroom today humble erosion girl social thunder";
+var mnemonic = "various betray dwarf urban cause obscure solve wear tuition pause athlete broken";

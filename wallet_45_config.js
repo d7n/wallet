@@ -1,1 +1,1 @@
-var mnemonic = "amazing smile ball amazing asset hover meadow season oil diesel tape bike";
+var mnemonic = "uphold gun couch depth fresh banana coral hole insane poet practice now";

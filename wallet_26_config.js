@@ -1,1 +1,1 @@
-var mnemonic = "token catalog sphere drum penalty cabin asset sketch captain dance still script";
+var mnemonic = "erode razor hair cycle utility glove allow plug clinic swamp point play";

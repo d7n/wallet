@@ -1,1 +1,1 @@
-var mnemonic = "know fiber afford galaxy toy liquid hope code foster loop carry bracket";
+var mnemonic = "lazy lend stick install junk ghost grass first glide book cousin peasant";

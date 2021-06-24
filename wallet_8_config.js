@@ -1,1 +1,1 @@
-var mnemonic = "clog ice wrap unknown educate sustain zebra trick beach timber vague atom";
+var mnemonic = "vehicle vote cable dress sponsor use clutch slab light candy wife child";

@@ -1,1 +1,1 @@
-var mnemonic = "panic little buffalo worry subway say economy random mouse invest obtain proud";
+var mnemonic = "planet flush lounge local type card deliver consider income offer sand photo";

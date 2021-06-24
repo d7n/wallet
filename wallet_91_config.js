@@ -1,1 +1,1 @@
-var mnemonic = "quantum knife dilemma survey roof machine adapt pave great result kangaroo accident";
+var mnemonic = "embrace giant staff eye stay tooth grape sun net medal bounce that";

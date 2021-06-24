@@ -1,1 +1,1 @@
-var mnemonic = "arrest response banana crystal shove bright denial feature jelly pepper hero nasty";
+var mnemonic = "aisle vehicle danger scan twelve success olympic bronze train east lens shift";

@@ -1,1 +1,1 @@
-var mnemonic = "lens situate cement express village banana rack lawsuit lesson nephew little evil";
+var mnemonic = "camp foster valid plunge assist rally obvious supreme soldier jeans focus weird";

@@ -1,1 +1,1 @@
-var mnemonic = "soft lunch warm escape expect room helmet enhance flavor liquid average oven";
+var mnemonic = "helmet strategy guide vacant lucky neither warfare possible year decade increase edge";

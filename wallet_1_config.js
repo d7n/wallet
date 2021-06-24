@@ -1,1 +1,1 @@
-var mnemonic = "arena other session mass various illness steak custom remain drink figure food";
+var mnemonic = "apple gas dust evil carpet naive curve pear step wealth medal someone";

@@ -1,1 +1,1 @@
-var mnemonic = "click demand used world pretty teach supreme simple large pole jungle animal";
+var mnemonic = "update toast fault alert awesome abstract message afford account regular group notice";

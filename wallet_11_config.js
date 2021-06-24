@@ -1,1 +1,1 @@
-var mnemonic = "impact unveil honey theme degree witness brick stand coral join blur rain";
+var mnemonic = "inform stereo matter keep ethics section curve write inspire glare cash alarm";

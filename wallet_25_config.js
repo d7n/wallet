@@ -1,1 +1,1 @@
-var mnemonic = "inquiry know right carry crane setup diesel shop lonely start wait obvious";
+var mnemonic = "tuna unique confirm convince major awkward moment tortoise burger song brown rice";

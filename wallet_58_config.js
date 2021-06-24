@@ -1,1 +1,1 @@
-var mnemonic = "erupt silver risk judge defy differ sniff fringe tiger labor razor gesture";
+var mnemonic = "scene tilt later sugar rival body fish image proud vehicle pencil keen";

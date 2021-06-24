@@ -1,1 +1,1 @@
-var mnemonic = "clap hip gospel immune leader hundred hurdle season manual orphan wage ketchup";
+var mnemonic = "topic pig pact math inner happy hurdle script cross pet possible sport";

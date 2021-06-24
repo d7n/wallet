@@ -1,1 +1,1 @@
-var mnemonic = "beach kick blue argue work neck pizza venture suggest boil journey scan";
+var mnemonic = "key artefact six steak marine analyst paper light group voyage remember tennis";
