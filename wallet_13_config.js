@@ -1,1 +1,1 @@
-var mnemonic = "cattle until when element turkey caution upon lock wolf what crew valid";
+var mnemonic = "domain sweet unfold scrub broken stage disorder giant opera fork valid various";

@@ -1,1 +1,1 @@
-var mnemonic = "street object fish brother priority pottery diesel beef detect farm trim cloth";
+var mnemonic = "begin genius more deliver clever gossip unhappy present evolve hour tourist island";

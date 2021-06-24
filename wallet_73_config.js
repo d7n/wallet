@@ -1,1 +1,1 @@
-var mnemonic = "bench coyote cricket file help sketch produce stuff metal tackle tray march";
+var mnemonic = "wine forum proud prosper extra laundry defy giant sell insane shine question";

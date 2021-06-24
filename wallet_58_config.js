@@ -1,1 +1,1 @@
-var mnemonic = "chase tumble talent luggage bulk label foam avocado garbage subject violin relief";
+var mnemonic = "all napkin child army soul enlist year ozone gold blue top argue";

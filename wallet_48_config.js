@@ -1,1 +1,1 @@
-var mnemonic = "father erupt crisp globe office steel solution weird cream sport casino enroll";
+var mnemonic = "lift cruise ring paddle clump member decrease curve hen region nature mutual";

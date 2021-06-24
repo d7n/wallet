@@ -1,1 +1,1 @@
-var mnemonic = "swap point monkey card lens deny pond spread fall negative memory midnight";
+var mnemonic = "upper basic mother wrap then success flip mushroom thrive emotion practice settle";

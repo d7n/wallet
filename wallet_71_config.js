@@ -1,1 +1,1 @@
-var mnemonic = "sail cross panther senior web cement tobacco soft foot soft lobster cloth";
+var mnemonic = "mountain day click swim gadget mind auto boil syrup canoe horn forum";

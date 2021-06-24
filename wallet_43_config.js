@@ -1,1 +1,1 @@
-var mnemonic = "squirrel cruise opinion scene dizzy sample invest afford hope pear company agent";
+var mnemonic = "embrace short pet exact brush suffer camera random load drift sting unlock";

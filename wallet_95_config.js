@@ -1,1 +1,1 @@
-var mnemonic = "wish heavy meat dawn basket all bring adapt usual outdoor laptop pumpkin";
+var mnemonic = "sport glue elite please business wet stem remain grass bird grant much";

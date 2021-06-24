@@ -1,1 +1,1 @@
-var mnemonic = "grit social invite giraffe gospel wine wonder holiday turn future labor siege";
+var mnemonic = "patrol shop snake latin talk shed open danger they strike piano cinnamon";

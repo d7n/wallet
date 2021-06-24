@@ -1,1 +1,1 @@
-var mnemonic = "brave blossom exhibit exchange suspect super other wrong fade derive urge pole";
+var mnemonic = "clever spirit soup happy original family dash express property thumb brown stay";

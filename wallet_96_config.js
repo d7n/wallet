@@ -1,1 +1,1 @@
-var mnemonic = "hole provide capital fox push boring claim brown bronze cheese opinion supreme";
+var mnemonic = "sand gaze ladder core attract doctor during accuse used noodle ivory tree";

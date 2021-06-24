@@ -1,1 +1,1 @@
-var mnemonic = "pledge churn grow arrow impulse urge enough coffee planet mixture between van";
+var mnemonic = "convince degree breeze salon brother blanket legal shop crouch drop strike any";

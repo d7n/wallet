@@ -1,1 +1,1 @@
-var mnemonic = "gentle idea gain sound tower ranch width only inherit upset glimpse blossom";
+var mnemonic = "speed naive business come giggle punch lounge drink edit belt reward convince";

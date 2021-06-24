@@ -1,1 +1,1 @@
-var mnemonic = "stuff orbit business scissors hockey early chapter protect ribbon crunch stumble shed";
+var mnemonic = "oval page ceiling inflict spin shrug canvas artwork find learn nest lock";

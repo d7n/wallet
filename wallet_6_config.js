@@ -1,1 +1,1 @@
-var mnemonic = "grace never put fly will large master income card all major carpet";
+var mnemonic = "river purity stove myth audit olive banana spring salute eight lion always";

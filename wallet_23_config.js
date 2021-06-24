@@ -1,1 +1,1 @@
-var mnemonic = "grain project fluid bacon kid first awkward code morning park output lunar";
+var mnemonic = "hour fun local mystery spread make stay wreck slow hire ripple private";

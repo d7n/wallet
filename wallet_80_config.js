@@ -1,1 +1,1 @@
-var mnemonic = "today benefit basic soccer valve retire chair better summer holiday clinic daughter";
+var mnemonic = "super identify gasp sell desert whip faith shoulder method reveal expect witness";

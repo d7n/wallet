@@ -1,1 +1,1 @@
-var mnemonic = "system confirm abandon safe push machine please student web start sponsor border";
+var mnemonic = "stone comic rib grab symbol exist bitter laptop split curious spirit brown";

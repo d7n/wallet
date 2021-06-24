@@ -1,1 +1,1 @@
-var mnemonic = "swarm tent upset toy all season size banner mesh hood carbon enter";
+var mnemonic = "radio danger cake win menu happy hour discover kick occur fan future";

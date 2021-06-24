@@ -1,1 +1,1 @@
-var mnemonic = "helmet width snap light leader decline virus brown garage monster shuffle busy";
+var mnemonic = "reduce nerve day purse sunset aisle urban plug flip junior cabin shrimp";

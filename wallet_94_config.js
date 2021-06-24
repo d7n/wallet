@@ -1,1 +1,1 @@
-var mnemonic = "wonder agree absorb powder border tackle nation double purchase supply gold flip";
+var mnemonic = "huge stay middle muffin catalog vivid sand second elite increase moment danger";

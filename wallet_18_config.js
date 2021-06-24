@@ -1,1 +1,1 @@
-var mnemonic = "coach file heart cruel box laundry jaguar dad riot tell avoid mistake";
+var mnemonic = "current spatial diamond video book artwork shoot eternal near sleep category start";

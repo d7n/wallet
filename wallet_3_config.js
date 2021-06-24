@@ -1,1 +1,1 @@
-var mnemonic = "message absent spend child island innocent erosion curve step place holiday pair";
+var mnemonic = "stick anchor one chalk volcano frozen upgrade outdoor cruise crouch trash spirit";

@@ -1,1 +1,1 @@
-var mnemonic = "letter couch bomb page wink tragic delay monkey section van cat glance";
+var mnemonic = "float switch electric blade real physical truly cook moon rice october enhance";

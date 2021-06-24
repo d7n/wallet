@@ -1,1 +1,1 @@
-var mnemonic = "now brief slogan pass upon win unit such dumb differ tag hurdle";
+var mnemonic = "sauce loud stumble satisfy stove expose sudden reject garage ozone camp forget";

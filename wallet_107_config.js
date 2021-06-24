@@ -1,1 +1,1 @@
-var mnemonic = "crazy urban glue stock please fancy cost shield drastic bottom purpose side";
+var mnemonic = "flight success floor beyond frozen obscure tissue blush glad nut soup easy";

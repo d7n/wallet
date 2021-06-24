@@ -1,1 +1,1 @@
-var mnemonic = "police faint purity proud season lens come misery history switch spend load";
+var mnemonic = "dice fish wire material wash zoo multiply now around reopen clever length";

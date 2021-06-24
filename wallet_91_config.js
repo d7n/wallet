@@ -1,1 +1,1 @@
-var mnemonic = "later control satoshi menu first audit van tower deer mammal broccoli chef";
+var mnemonic = "useful around goddess spirit subway rib tumble gap balance envelope refuse rabbit";

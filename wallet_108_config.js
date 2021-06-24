@@ -1,1 +1,1 @@
-var mnemonic = "brand cage that expand case decorate absent myself pumpkin damage rural hungry";
+var mnemonic = "actual cup girl alarm property ketchup zoo wrong economy parent tray lion";

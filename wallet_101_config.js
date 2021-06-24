@@ -1,1 +1,1 @@
-var mnemonic = "ahead rebel whale sting skin square item alarm border claw tourist cruise";
+var mnemonic = "collect palm margin speak scout elephant account endless ten seat path gap";

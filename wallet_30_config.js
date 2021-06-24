@@ -1,1 +1,1 @@
-var mnemonic = "call rubber thank snap spell disorder gas glue speed raven fee agent";
+var mnemonic = "fire nerve word club decade artist bottom trim silk reward swing swing";

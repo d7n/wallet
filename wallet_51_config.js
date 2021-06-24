@@ -1,1 +1,1 @@
-var mnemonic = "immune run drip mistake decorate blush voyage panther direct ancient doctor cause";
+var mnemonic = "gospel leader bike fitness thumb resemble credit solve unlock knee chaos opera";

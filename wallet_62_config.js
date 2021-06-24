@@ -1,1 +1,1 @@
-var mnemonic = "stove wool return retire mad fabric warfare until manage blush short fork";
+var mnemonic = "payment fever female element waste guide water wealth impulse bulb deposit bachelor";

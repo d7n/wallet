@@ -1,1 +1,1 @@
-var mnemonic = "race stool poem provide absorb purse coil muscle dune echo knife dice";
+var mnemonic = "swamp fiction grant actual ten discover thing wish attract step obvious garden";

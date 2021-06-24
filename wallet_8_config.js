@@ -1,1 +1,1 @@
-var mnemonic = "taste twist brown tackle ginger useful gadget swallow blossom unfair can admit";
+var mnemonic = "voice stick grape absorb disease miss ski scene web jaguar protect aunt";

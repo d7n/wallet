@@ -1,1 +1,1 @@
-var mnemonic = "truly catch inform system milk soap online pupil will wine tenant cook";
+var mnemonic = "language beyond caution august burger evoke nephew stuff borrow shift circle tell";

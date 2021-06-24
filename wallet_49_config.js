@@ -1,1 +1,1 @@
-var mnemonic = "carpet depart dignity pink debate wage gain minimum become canal object sing";
+var mnemonic = "leader dish winter simple moon eagle bag admit cart sword note letter";

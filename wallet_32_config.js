@@ -1,1 +1,1 @@
-var mnemonic = "just easily violin crew job prevent hybrid divert bachelor beach vanish bicycle";
+var mnemonic = "guard common stand ecology lady absent vendor crisp gym knife sustain crush";

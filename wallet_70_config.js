@@ -1,1 +1,1 @@
-var mnemonic = "list false curious edge enroll force mask fit awesome rude mandate shadow";
+var mnemonic = "muffin scorpion novel gravity exclude replace brain kidney example grass best circle";

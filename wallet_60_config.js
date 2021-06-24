@@ -1,1 +1,1 @@
-var mnemonic = "ignore remind what develop caught shoe gesture truth tape purpose minute embody";
+var mnemonic = "legend summer company dust tragic seed open used only proud what mechanic";

@@ -1,1 +1,1 @@
-var mnemonic = "equal junior into more laptop firm trade across angle wheel mouse settle";
+var mnemonic = "fitness magnet inquiry squeeze very all runway poet verb eternal reduce reunion";

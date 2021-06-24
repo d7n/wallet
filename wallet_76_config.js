@@ -1,1 +1,1 @@
-var mnemonic = "best lunar isolate custom hundred hand twist seven rifle woman perfect number";
+var mnemonic = "language spoil genre like edit tip credit budget alcohol pelican camp advance";

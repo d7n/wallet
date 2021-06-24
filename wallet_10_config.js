@@ -1,1 +1,1 @@
-var mnemonic = "click silly actress wheat provide furnace answer column inflict wide game try";
+var mnemonic = "notice labor void blouse hill any coast layer chronic wagon jewel away";

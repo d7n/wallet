@@ -1,1 +1,1 @@
-var mnemonic = "wealth move lunch talent decrease afraid install naive frown loyal amazing surface";
+var mnemonic = "pencil domain fancy wheat engage relax kit weird bachelor drum pool lunar";

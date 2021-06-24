@@ -1,1 +1,1 @@
-var mnemonic = "kiss chapter canoe joy sword march around dose tiger exchange cloth tuna";
+var mnemonic = "welcome machine margin agent jump blanket wire cool capable drop rally tip";

@@ -1,1 +1,1 @@
-var mnemonic = "green wasp assume twice curious island cage lens camera bargain frame logic";
+var mnemonic = "student check foot spare width demise among tattoo clump enact bullet slab";

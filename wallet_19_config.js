@@ -1,1 +1,1 @@
-var mnemonic = "awake young screen purpose tongue twist adult orchard kit remove depend rain";
+var mnemonic = "table very series bullet balance sell rebuild speak usage term slim prevent";

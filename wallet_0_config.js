@@ -1,1 +1,1 @@
-var mnemonic = "box squeeze arrest gasp goose basket obtain bone away thumb deputy account";
+var mnemonic = "jump mango orchard oxygen unit garlic anger salon view radar upon absurd";

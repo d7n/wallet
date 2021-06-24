@@ -1,1 +1,1 @@
-var mnemonic = "bacon village ozone frozen still next fresh hammer adapt gain traffic degree";
+var mnemonic = "flavor prize canvas tilt silk chaos crucial keen health heavy similar strike";

@@ -1,1 +1,1 @@
-var mnemonic = "spot soft ocean profit run desert kite annual knock cushion proof promote";
+var mnemonic = "senior enrich powder obscure control forum top tackle wage evidence sand island";

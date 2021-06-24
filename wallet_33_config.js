@@ -1,1 +1,1 @@
-var mnemonic = "surround velvet shrimp brisk thumb include autumn modify puzzle pull limb swallow";
+var mnemonic = "then maid remain purpose text tower poem season diamond rain prize develop";

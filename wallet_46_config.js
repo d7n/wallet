@@ -1,1 +1,1 @@
-var mnemonic = "card brave cook steel dish skin confirm fitness stage manual person crumble";
+var mnemonic = "rapid nation jelly awful middle state time island dry surround dose educate";

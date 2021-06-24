@@ -1,1 +1,1 @@
-var mnemonic = "ensure fruit ability conduct plate machine damp occur achieve spy person join";
+var mnemonic = "tone aspect cruel repeat pink reject loyal welcome recycle deliver chunk cave";

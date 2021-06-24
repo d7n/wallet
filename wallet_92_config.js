@@ -1,1 +1,1 @@
-var mnemonic = "hundred video squeeze toss biology move panther follow toy task bulb curtain";
+var mnemonic = "jealous force evoke excuse muscle social stem mixed material great render assault";

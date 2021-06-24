@@ -1,1 +1,1 @@
-var mnemonic = "venture sure foot about delay novel penalty holiday detail open maid egg";
+var mnemonic = "plastic friend quote joke impose early example movie cause glove trouble illegal";

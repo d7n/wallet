@@ -1,1 +1,1 @@
-var mnemonic = "increase close trial scorpion gloom pigeon load math jacket assume glare alley";
+var mnemonic = "slide inmate unit boost laugh awkward execute used emerge pull become arrest";

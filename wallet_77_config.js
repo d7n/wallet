@@ -1,1 +1,1 @@
-var mnemonic = "skin travel derive month raise salt indoor joy sorry protect peace label";
+var mnemonic = "child exact grape bid elephant supreme tilt monitor west celery chest second";

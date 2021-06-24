@@ -1,1 +1,1 @@
-var mnemonic = "obscure seven pig verb negative breeze regular rookie base hire van equip";
+var mnemonic = "morning want bullet peasant panic spoon extra swallow crystal spawn trash thumb";

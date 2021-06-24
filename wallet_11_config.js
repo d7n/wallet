@@ -1,1 +1,1 @@
-var mnemonic = "object circle kangaroo eternal cute pact fine kind bonus pulse hero cart";
+var mnemonic = "kind kidney group october reduce secret mansion abuse paddle donor unique brain";

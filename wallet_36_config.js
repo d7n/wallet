@@ -1,1 +1,1 @@
-var mnemonic = "badge exit album trash custom mind special aim wave control flag dilemma";
+var mnemonic = "race earn potato west horn margin daughter empower boost marble virtual panel";

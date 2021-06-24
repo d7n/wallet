@@ -1,1 +1,1 @@
-var mnemonic = "antenna castle special later romance gaze feel eyebrow fault recycle quick refuse";
+var mnemonic = "tilt turtle surface expand chair file speed alcohol agent flip derive option";

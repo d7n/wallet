@@ -1,1 +1,1 @@
-var mnemonic = "pave aspect armed lottery loop cake solid airport hip parrot auto food";
+var mnemonic = "average stuff obey party hawk sorry grab punch blue enhance until weird";

@@ -1,1 +1,1 @@
-var mnemonic = "year chief grief meat warrior sauce acoustic list rural deal welcome buyer";
+var mnemonic = "sphere mutual blind april beach unveil dish main north view that near";

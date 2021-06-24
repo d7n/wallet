@@ -1,1 +1,1 @@
-var mnemonic = "cabbage hope sausage clump peasant burger object inner grunt vault hub embrace";
+var mnemonic = "afford sniff labor will still trouble code genre hospital topple chase rail";

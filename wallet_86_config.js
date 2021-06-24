@@ -1,1 +1,1 @@
-var mnemonic = "family erosion media position soda street fit plastic video open connect sense";
+var mnemonic = "wild sad saddle relief antenna woman return also gadget atom degree elevator";

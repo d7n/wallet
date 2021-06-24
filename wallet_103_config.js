@@ -1,1 +1,1 @@
-var mnemonic = "sell monitor document stumble allow oblige media monitor just romance voice depend";
+var mnemonic = "smooth tag orbit awake snack exit uncle trick tide detect quarter elephant";

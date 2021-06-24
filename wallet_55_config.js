@@ -1,1 +1,1 @@
-var mnemonic = "negative search bless always express brave orange million immense artist success furnace";
+var mnemonic = "admit bunker truth prepare silent cheap bullet cash shaft act foam aim";

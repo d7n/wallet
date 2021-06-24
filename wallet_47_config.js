@@ -1,1 +1,1 @@
-var mnemonic = "tumble differ burger basket dynamic drum grid swap mad floor image sorry";
+var mnemonic = "diamond answer tunnel club option common enhance nephew true matter trend allow";

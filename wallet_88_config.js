@@ -1,1 +1,1 @@
-var mnemonic = "equip wall scatter target hamster wisdom veteran find mango month biology clog";
+var mnemonic = "tide capital hazard cluster buzz couch raise grow palace card neither mouse";

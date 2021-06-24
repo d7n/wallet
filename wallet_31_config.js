@@ -1,1 +1,1 @@
-var mnemonic = "ugly apology food penalty monitor cat copper december tornado behind orange ticket";
+var mnemonic = "error member will cook truth loan ball poet tourist capital amazing light";

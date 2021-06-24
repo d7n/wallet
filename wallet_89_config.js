@@ -1,1 +1,1 @@
-var mnemonic = "attract twelve baby car panel prosper female rubber gravity enough sick lock";
+var mnemonic = "chaos swarm gown rib impose stock educate below elegant enable subject major";

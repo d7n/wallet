@@ -1,1 +1,1 @@
-var mnemonic = "diamond elevator monitor fade will cigar undo where tank suspect success east";
+var mnemonic = "all virus creek off cluster shield minor speak cliff frog floor excess";

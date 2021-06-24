@@ -1,1 +1,1 @@
-var mnemonic = "glad pair gallery craft merit leopard fluid problem daughter equip tortoise couch";
+var mnemonic = "dragon school require cable cactus culture neither catch jump monitor relief tent";

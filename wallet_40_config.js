@@ -1,1 +1,1 @@
-var mnemonic = "legal steak scheme festival sense resource slice oxygen unable alert earth clinic";
+var mnemonic = "kangaroo window palm topic valid party turn flip vivid prefer senior frozen";

@@ -1,1 +1,1 @@
-var mnemonic = "fiction renew soon coconut shed hybrid resist mango guess jar few brush";
+var mnemonic = "grunt figure bacon rescue name brisk repair hair main green roast auto";

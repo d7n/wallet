@@ -1,1 +1,1 @@
-var mnemonic = "jeans box whale orbit mirror awkward dentist final problem budget jeans steak";
+var mnemonic = "science love very odor limb dawn lunch journey nurse cute level sheriff";

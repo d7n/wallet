@@ -1,1 +1,1 @@
-var mnemonic = "pet beach choice soon gospel crash rug fever question adult access labor";
+var mnemonic = "multiply slide mansion escape purpose couple picnic whip lift uncle urban edge";

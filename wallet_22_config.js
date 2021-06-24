@@ -1,1 +1,1 @@
-var mnemonic = "refuse dose brain method armor raccoon spread noble kind put hobby cereal";
+var mnemonic = "antique sponsor early absurd report universe one town puzzle daughter say section";

@@ -1,1 +1,1 @@
-var mnemonic = "stairs practice rail crater bring gossip arctic best outer frog team salute";
+var mnemonic = "alcohol diet brick obvious near elbow spend icon hello apart wall body";

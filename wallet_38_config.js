@@ -1,1 +1,1 @@
-var mnemonic = "magnet daring drink dove lady remind airport salmon dizzy proud record stomach";
+var mnemonic = "room spend grit quit replace human spider shock cram cook pave ridge";

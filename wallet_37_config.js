@@ -1,1 +1,1 @@
-var mnemonic = "nominee invest input select tired volume invite night snow area elegant shed";
+var mnemonic = "chest dizzy six verb divide mad piece enforce lock surge pyramid merry";

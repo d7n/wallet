@@ -1,1 +1,1 @@
-var mnemonic = "math error wall neglect reduce bread inquiry admit time health people away";
+var mnemonic = "vanish battle library hard maze install demise giggle run silk tuition asset";

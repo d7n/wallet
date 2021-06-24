@@ -1,1 +1,1 @@
-var mnemonic = "million moment category certain wine matrix cash coin mercy spot round toss";
+var mnemonic = "have picnic detect again naive antique ribbon measure royal combine choose smile";

@@ -1,1 +1,1 @@
-var mnemonic = "sustain amused trumpet horn spare reject truck stuff soup brand fossil unit";
+var mnemonic = "melody broken raccoon skin knock soul village lamp physical wagon now cactus";

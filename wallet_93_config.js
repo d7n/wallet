@@ -1,1 +1,1 @@
-var mnemonic = "taxi like kiss sadness ride enemy trust typical choose side december anger";
+var mnemonic = "invite goat runway evil season vital hen swallow leader dove spot luggage";

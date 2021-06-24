@@ -1,1 +1,1 @@
-var mnemonic = "fame rich pipe garage illegal accuse miss view notable all victory march";
+var mnemonic = "original disorder remove during quantum head agree arrest whale valley unaware transfer";

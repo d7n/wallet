@@ -1,1 +1,1 @@
-var mnemonic = "possible fuel ball loyal shell theory consider artist come coyote acoustic decade";
+var mnemonic = "tip just just slush farm wonder permit play evil fine boil unknown";

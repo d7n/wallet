@@ -1,1 +1,1 @@
-var mnemonic = "olympic bounce symbol caught marine train final slush shift blood just infant";
+var mnemonic = "praise amateur good lab dry nut romance maid inside endorse spin wet";

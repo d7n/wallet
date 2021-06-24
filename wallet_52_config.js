@@ -1,1 +1,1 @@
-var mnemonic = "volcano attitude master canyon hotel shop pave basic now wild nephew barrel";
+var mnemonic = "purchase budget income pond jazz stool service accident ginger core kind aisle";

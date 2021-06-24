@@ -1,1 +1,1 @@
-var mnemonic = "voyage country connect whale child rural seminar brick beyond truck suit any";
+var mnemonic = "final stone team please exist amateur thunder job wheel habit elder youth";

@@ -1,1 +1,1 @@
-var mnemonic = "door fringe verb envelope athlete jar cherry present absurd hockey utility muscle";
+var mnemonic = "loan employ judge quote core chimney scrap carbon random taxi unfair trouble";

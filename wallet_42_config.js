@@ -1,1 +1,1 @@
-var mnemonic = "inhale dog assume voyage hungry ramp company myth galaxy barely double kiss";
+var mnemonic = "veteran field journey shove fringe then spray style fix insane vital bacon";
