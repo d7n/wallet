@@ -1,1 +1,1 @@
-var mnemonic = "among dinosaur lady core blush volume solution novel ginger snap club occur";
+var mnemonic = "business scale verb improve roast imitate book win bag wild wolf harvest";

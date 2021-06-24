@@ -1,1 +1,1 @@
-var mnemonic = "there maze arena tunnel muffin repair leisure toddler renew main mind broom";
+var mnemonic = "tool must position stock advice pupil journey finish ostrich race prepare august";

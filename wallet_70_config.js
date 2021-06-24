@@ -1,1 +1,1 @@
-var mnemonic = "example only borrow predict fence fiction sphere water trend dirt enforce belt";
+var mnemonic = "sheriff siren option wish behind draft hill hub deer depart observe submit";

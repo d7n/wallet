@@ -1,1 +1,1 @@
-var mnemonic = "lesson door april fashion huge cube shallow song chicken still typical win";
+var mnemonic = "pepper double current knock outside vault forget chronic prison inhale lounge twin";

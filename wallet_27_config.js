@@ -1,1 +1,1 @@
-var mnemonic = "second message saddle organ loop clap race bind snake post salmon shift";
+var mnemonic = "because put ancient raise book fancy layer define joke index adult weasel";

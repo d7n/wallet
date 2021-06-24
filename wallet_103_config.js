@@ -1,1 +1,1 @@
-var mnemonic = "ready civil glance army uncover buffalo grunt cloth nose deputy tank health";
+var mnemonic = "similar reflect social output warfare ecology auto base already fuel pretty super";

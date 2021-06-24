@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur sense act end kangaroo pizza october device master submit patch primary";
+var mnemonic = "ill gentle during spin page ozone neutral couch general suit property axis";

@@ -1,1 +1,1 @@
-var mnemonic = "hint grace filter stable horror soup pond nature weird tenant lake struggle";
+var mnemonic = "drift blouse domain radio announce divorce crater digital miss ghost talk trim";

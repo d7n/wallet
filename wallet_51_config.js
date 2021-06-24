@@ -1,1 +1,1 @@
-var mnemonic = "install response undo seed arctic fluid perfect month damp mansion detail digital";
+var mnemonic = "stamp version luggage parrot boat salad patient hurry light cheese dismiss catalog";

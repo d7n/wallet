@@ -1,1 +1,1 @@
-var mnemonic = "fire drip domain seed visa pull ski marriage age misery office arrange";
+var mnemonic = "fresh ill raven piano fee slender absent bullet rug among venture mixed";

@@ -1,1 +1,1 @@
-var mnemonic = "pipe drop now voyage song light ramp supply duck mass orient tail";
+var mnemonic = "utility issue shield range topic grunt kiwi razor base flat million cereal";

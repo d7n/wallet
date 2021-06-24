@@ -1,1 +1,1 @@
-var mnemonic = "enough cave cook rebuild salad lawsuit festival exit party behave zero metal";
+var mnemonic = "human rapid describe fun diamond crowd ten pioneer omit follow hollow major";

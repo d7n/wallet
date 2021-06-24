@@ -1,1 +1,1 @@
-var mnemonic = "wing door moral model venture dinner race organ cable tourist wheel marriage";
+var mnemonic = "dawn merit one forum country laundry floor fatigue person treat hospital uncle";

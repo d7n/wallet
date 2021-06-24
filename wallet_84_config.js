@@ -1,1 +1,1 @@
-var mnemonic = "talent knock cart coral evolve feed system alarm eight art improve laundry";
+var mnemonic = "nature limit kitchen hold aware canoe cement believe witness stick web elegant";

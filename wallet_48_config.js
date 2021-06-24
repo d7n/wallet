@@ -1,1 +1,1 @@
-var mnemonic = "helmet sphere garden chef ability lift february antenna napkin someone recipe pencil";
+var mnemonic = "science decline crater envelope winter because retire shy august element blanket shadow";

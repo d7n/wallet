@@ -1,1 +1,1 @@
-var mnemonic = "share swamp erode boring wage mind potato cream usage predict deal duty";
+var mnemonic = "rural satisfy bridge shock true concert cabin kangaroo proof involve profit destroy";

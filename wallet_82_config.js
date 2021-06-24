@@ -1,1 +1,1 @@
-var mnemonic = "dilemma nuclear prize solar raw capital joy physical fan dwarf matter crack";
+var mnemonic = "notice film element whisper possible call dice tag scorpion auction false month";

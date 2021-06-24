@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog sight dilemma also critic walk delay syrup skirt apple few alone";
+var mnemonic = "suffer frost gown report wheel detect museum reveal pretty pull park love";

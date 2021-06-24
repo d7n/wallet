@@ -1,1 +1,1 @@
-var mnemonic = "ketchup face almost bundle shock rally audit speak bulb inflict broken express";
+var mnemonic = "fury belt hurt dose swing family kind fence ozone audit special slow";

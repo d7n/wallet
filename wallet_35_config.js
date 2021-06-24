@@ -1,1 +1,1 @@
-var mnemonic = "peace young deer galaxy soda profit skill enable chest pupil poem mother";
+var mnemonic = "picnic spy genre custom report lounge oppose visit carry ability candy valley";

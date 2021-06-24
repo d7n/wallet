@@ -1,1 +1,1 @@
-var mnemonic = "bachelor client select blast pistol bachelor market blue smile earth add water";
+var mnemonic = "dream federal neutral fiber obey isolate sorry chat cluster noodle want victory";

@@ -1,1 +1,1 @@
-var mnemonic = "pull core reveal hobby one fancy unhappy you unhappy rotate genuine grace";
+var mnemonic = "host receive health reject hungry moment response off zoo cherry either ancient";

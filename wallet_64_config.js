@@ -1,1 +1,1 @@
-var mnemonic = "keen lobster bench feature soldier rug attitude usual fragile denial brisk bone";
+var mnemonic = "eager work bread right inch slender pulp appear hedgehog recall spring elbow";

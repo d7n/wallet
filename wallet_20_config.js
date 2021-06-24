@@ -1,1 +1,1 @@
-var mnemonic = "keen more order club legend citizen exchange pet mesh humor credit economy";
+var mnemonic = "spoon switch want success fury rice deputy hammer invest guitar amazing frown";

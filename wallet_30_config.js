@@ -1,1 +1,1 @@
-var mnemonic = "truck federal use metal opinion track floor forward roast stairs address arm";
+var mnemonic = "century vendor lumber decide walnut rigid elite board blood alien health hazard";

@@ -1,1 +1,1 @@
-var mnemonic = "develop attack move solar loan load alert fringe early wide useless truck";
+var mnemonic = "protect left dove goddess birth jungle rice bread balance seat fix power";

@@ -1,1 +1,1 @@
-var mnemonic = "smile almost music cry jump practice final tackle vocal early fatal quit";
+var mnemonic = "exhaust canal flame unusual equip turn flight special thought life soon prison";

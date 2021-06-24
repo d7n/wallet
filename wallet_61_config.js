@@ -1,1 +1,1 @@
-var mnemonic = "pig neither close ritual endorse agree remember sweet bullet stomach kitten better";
+var mnemonic = "tent vote horror item frame cotton derive cattle item innocent estate orchard";

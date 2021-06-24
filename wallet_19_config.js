@@ -1,1 +1,1 @@
-var mnemonic = "light lawsuit now asthma fever gate fog awkward govern betray monitor salute";
+var mnemonic = "train magic spoon skin they vague jaguar cruise era execute stage insect";

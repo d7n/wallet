@@ -1,1 +1,1 @@
-var mnemonic = "actor void link broom tissue benefit exclude angle happy witness ethics engine";
+var mnemonic = "short cherry object uncle toilet close medal tree pledge note spawn clap";

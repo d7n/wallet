@@ -1,1 +1,1 @@
-var mnemonic = "auction seed emotion very emotion tent tiger dash crisp someone note civil";
+var mnemonic = "toast truth recipe play fitness age blame congress twist wire claw swear";

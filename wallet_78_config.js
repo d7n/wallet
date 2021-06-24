@@ -1,1 +1,1 @@
-var mnemonic = "omit survey phone awful fall craft beyond six opinion human castle stool";
+var mnemonic = "flip gorilla mad humble feel lonely service female connect sketch code hold";

@@ -1,1 +1,1 @@
-var mnemonic = "lottery account frog fringe aerobic burger prosper best shine flush wink enroll";
+var mnemonic = "inmate birth distance disorder live latin top tourist blind size uphold believe";

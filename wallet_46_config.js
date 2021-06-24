@@ -1,1 +1,1 @@
-var mnemonic = "broccoli shoe valley exist similar dentist believe culture notice sport alcohol enemy";
+var mnemonic = "bullet valve cake coach mercy cereal number unable wife pretty banana foot";

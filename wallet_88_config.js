@@ -1,1 +1,1 @@
-var mnemonic = "bachelor kid casino analyst corn park response solid brief acquire away rail";
+var mnemonic = "tooth affair soldier loyal worry shine inject erode fever cliff tongue random";

@@ -1,1 +1,1 @@
-var mnemonic = "result immense dinner end meadow trade rebuild crush lazy key spread science";
+var mnemonic = "alley allow such table tower stem caught few draft process enlist duty";

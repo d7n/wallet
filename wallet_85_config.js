@@ -1,1 +1,1 @@
-var mnemonic = "discover balance turn jeans test strike cheap rotate guilt notice avoid liquid";
+var mnemonic = "song core all pigeon inform supreme film dial together floor oyster chimney";

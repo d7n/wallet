@@ -1,1 +1,1 @@
-var mnemonic = "trap fossil large talk eagle throw misery pact duty rifle few device";
+var mnemonic = "close nation future quarter setup verb life company toe stay differ injury";

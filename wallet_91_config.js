@@ -1,1 +1,1 @@
-var mnemonic = "best school reveal shock post among summer observe parent upgrade success pig";
+var mnemonic = "cactus provide job biology another artefact gorilla injury method tenant label credit";

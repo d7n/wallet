@@ -1,1 +1,1 @@
-var mnemonic = "comic weird head place weasel walnut problem vague pretty spoil nurse behave";
+var mnemonic = "resource online next season deputy crater divert garbage tone drum easily make";

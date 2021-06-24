@@ -1,1 +1,1 @@
-var mnemonic = "law notable uncle wonder retreat lazy frequent blind sound arrow spirit barrel";
+var mnemonic = "taxi holiday myth coffee bamboo dance beyond empty mad budget mean pole";

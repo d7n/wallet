@@ -1,1 +1,1 @@
-var mnemonic = "buyer rubber alien legal survey dwarf body student attend ahead various crater";
+var mnemonic = "problem detect capital wire person biology youth warrior opera already table short";

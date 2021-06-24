@@ -1,1 +1,1 @@
-var mnemonic = "minute quote pulp moment snack myth hope memory degree trust holiday enlist";
+var mnemonic = "soldier move secret party hazard amused crucial video task hunt horror story";

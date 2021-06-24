@@ -1,1 +1,1 @@
-var mnemonic = "among key comfort cinnamon match female need cricket garage pyramid water gown";
+var mnemonic = "wine toe quit eyebrow gesture kind cycle execute minimum cargo miss paddle";

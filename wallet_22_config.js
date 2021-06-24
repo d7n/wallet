@@ -1,1 +1,1 @@
-var mnemonic = "candy chronic thank weapon burst inform candy busy end achieve curious plastic";
+var mnemonic = "stable patient satisfy spoil dream way pottery admit verb repeat entry poet";

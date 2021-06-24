@@ -1,1 +1,1 @@
-var mnemonic = "among helmet give motor remind connect recall glimpse fringe prefer cream about";
+var mnemonic = "borrow decade size joke suspect life welcome toy twelve muscle anxiety spray";

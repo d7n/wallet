@@ -1,1 +1,1 @@
-var mnemonic = "junk ice pen affair region recall core engine arena wood vapor tissue";
+var mnemonic = "swamp alpha base sight beauty water attend popular fashion bachelor fee equal";

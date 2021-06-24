@@ -1,1 +1,1 @@
-var mnemonic = "slice tone virus stamp awful cruise draw vanish canoe cycle permit average";
+var mnemonic = "fit travel coil liberty output glove federal wheel seven blush wall solution";

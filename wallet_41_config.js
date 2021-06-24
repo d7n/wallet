@@ -1,1 +1,1 @@
-var mnemonic = "mouse clean bean width quote label boss crane crystal skull science trip";
+var mnemonic = "keep whisper blade sea donkey already innocent correct mention material screen sample";

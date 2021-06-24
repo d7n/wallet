@@ -1,1 +1,1 @@
-var mnemonic = "turkey target hundred suit wrestle blue olympic brisk grape scrap endless holiday";
+var mnemonic = "clutch father cash attract decade bring early senior spare pitch romance donor";

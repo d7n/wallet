@@ -1,1 +1,1 @@
-var mnemonic = "agree avocado congress undo harbor choose setup razor brand keep cross stereo";
+var mnemonic = "online canoe owner cliff rich pass evidence ostrich female unveil beyond off";

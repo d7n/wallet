@@ -1,1 +1,1 @@
-var mnemonic = "dance bicycle provide moon obvious replace bitter muffin cheese axis judge sudden";
+var mnemonic = "steak flash bread kingdom super churn bacon favorite stock annual during artist";

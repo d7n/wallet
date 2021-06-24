@@ -1,1 +1,1 @@
-var mnemonic = "spin hello dove great brand swap apple reform wreck daughter moon fix";
+var mnemonic = "media model family attitude escape oak poverty rebel length symbol boost trophy";

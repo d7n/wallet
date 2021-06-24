@@ -1,1 +1,1 @@
-var mnemonic = "boost rural myself lizard vapor accident enter sea evil misery side depth";
+var mnemonic = "artwork garden potato course foam spike smoke chair guide flame rib grain";

@@ -1,1 +1,1 @@
-var mnemonic = "face cliff stairs exact grape ranch hospital speak defy pyramid decorate praise";
+var mnemonic = "maid maid carbon entire window gym exit practice post bring behave add";

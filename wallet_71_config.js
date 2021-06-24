@@ -1,1 +1,1 @@
-var mnemonic = "apology swift master away color normal permit air acid frozen fall toast";
+var mnemonic = "idle hip view ivory void horse trust door street parent ritual fiction";

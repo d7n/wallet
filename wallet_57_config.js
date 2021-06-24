@@ -1,1 +1,1 @@
-var mnemonic = "rare theory attend logic brush other present bomb trust about hold absurd";
+var mnemonic = "river moral tank shoot accuse duty time oil lion muscle hollow dawn";

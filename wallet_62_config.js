@@ -1,1 +1,1 @@
-var mnemonic = "flavor heavy color put keen wait empty ritual retire rug snow crystal";
+var mnemonic = "shed place fashion load good solar early beach segment bomb flag online";

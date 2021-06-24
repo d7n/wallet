@@ -1,1 +1,1 @@
-var mnemonic = "december vintage seminar laptop immense target divorce easy skill brave few surprise";
+var mnemonic = "drop donkey gain found eye owner cruise electric table spawn lazy eternal";

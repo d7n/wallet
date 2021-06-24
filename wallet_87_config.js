@@ -1,1 +1,1 @@
-var mnemonic = "adapt reject endless awful world gun patient cactus vehicle solution island evoke";
+var mnemonic = "answer author catch festival couch evil ignore glue live emerge forest defy";

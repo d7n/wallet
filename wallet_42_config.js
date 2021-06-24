@@ -1,1 +1,1 @@
-var mnemonic = "loop slam twelve minimum dignity mirror nice gospel gasp soccer hen whale";
+var mnemonic = "radar other tiger stumble antique use undo evolve fly close forum possible";

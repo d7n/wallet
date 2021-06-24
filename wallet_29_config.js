@@ -1,1 +1,1 @@
-var mnemonic = "lyrics history collect vacant biology burden stumble clarify record laundry denial finger";
+var mnemonic = "photo purity educate fragile melody legend velvet erase shock square certain series";

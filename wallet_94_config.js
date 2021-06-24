@@ -1,1 +1,1 @@
-var mnemonic = "audit meat grunt mercy scrap season exhaust load sure dry enact alone";
+var mnemonic = "maximum soup travel theory burden learn smoke dragon check kick tree armor";

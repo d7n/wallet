@@ -1,1 +1,1 @@
-var mnemonic = "fold sugar script mercy broken judge air orient notable camp must dish";
+var mnemonic = "turkey drive pulse era toddler impose celery script few lazy change any";

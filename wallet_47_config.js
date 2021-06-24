@@ -1,1 +1,1 @@
-var mnemonic = "pause rocket brass chat general develop prison torch give census indicate boil";
+var mnemonic = "final way load gas believe cement hint left waste little moon obscure";

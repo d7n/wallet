@@ -1,1 +1,1 @@
-var mnemonic = "step insane glide warrior space evil orchard pigeon win gun crop mail";
+var mnemonic = "galaxy note better affair talk labor model since gossip hunt vast prosper";

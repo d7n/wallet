@@ -1,1 +1,1 @@
-var mnemonic = "machine ginger wheel crowd allow dash sadness demise medal win myself comic";
+var mnemonic = "vague fortune blush salon ticket action payment loan token outer exact worth";

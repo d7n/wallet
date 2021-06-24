@@ -1,1 +1,1 @@
-var mnemonic = "hire slide wink dice material warrior ocean winner camera act chimney erase";
+var mnemonic = "alcohol proud exact shoot globe ribbon solution negative vehicle fossil mountain twelve";

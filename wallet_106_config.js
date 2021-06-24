@@ -1,1 +1,1 @@
-var mnemonic = "hair shiver snow section easily choice brother put rich chalk skill taxi";
+var mnemonic = "inspire draw quote clap blossom idea unfold differ amateur measure random surface";

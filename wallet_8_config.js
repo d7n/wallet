@@ -1,1 +1,1 @@
-var mnemonic = "van unfold rabbit empower fantasy best hotel brisk senior impulse measure science";
+var mnemonic = "desert hurdle link able aerobic blanket symptom snap screen sing actress slim";

@@ -1,1 +1,1 @@
-var mnemonic = "water march humble skate exotic midnight laptop list hurry bounce region emerge";
+var mnemonic = "illegal baby dragon retreat blade notice leisure power depend act wolf achieve";

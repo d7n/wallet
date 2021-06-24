@@ -1,1 +1,1 @@
-var mnemonic = "wing state father appear just budget print other height wrestle spoil over";
+var mnemonic = "cream insane next nurse film term question future now erosion orphan senior";

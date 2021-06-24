@@ -1,1 +1,1 @@
-var mnemonic = "already beach nation east estate pledge pigeon sad work vehicle inherit address";
+var mnemonic = "diary range ketchup spray cabin economy subject spare breeze job jump current";

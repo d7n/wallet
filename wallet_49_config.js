@@ -1,1 +1,1 @@
-var mnemonic = "glad regret setup ostrich horn mouse artwork rent broccoli siren return moon";
+var mnemonic = "tenant sand rich fashion drift teach recall lawsuit dinosaur screen rotate hold";

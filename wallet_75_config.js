@@ -1,1 +1,1 @@
-var mnemonic = "steel echo oven explain energy pink impose rice enroll snack post cram";
+var mnemonic = "number enroll warm surface van inject answer happy summer obscure dose corn";

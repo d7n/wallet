@@ -1,1 +1,1 @@
-var mnemonic = "keen donate square mercy friend grain predict elevator royal trophy gift clock";
+var mnemonic = "gun alpha bring medal metal vote crack blossom ride frown alert drink";

@@ -1,1 +1,1 @@
-var mnemonic = "sister puzzle cigar two permit grab trade angry silly hood gravity rent";
+var mnemonic = "ski believe welcome vapor ready differ zone quote dance major depart attitude";

@@ -1,1 +1,1 @@
-var mnemonic = "number slice lady extend loud cactus dolphin decade document slab various prison";
+var mnemonic = "toast actress uniform concert twice emotion oblige clay suit please energy alley";

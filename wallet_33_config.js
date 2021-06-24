@@ -1,1 +1,1 @@
-var mnemonic = "skin plate crouch faint domain blouse animal globe lonely kid rival category";
+var mnemonic = "drive bicycle forest fortune give equal advance kidney fetch similar pepper midnight";

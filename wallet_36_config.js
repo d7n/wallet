@@ -1,1 +1,1 @@
-var mnemonic = "extend delay simple federal second salon half reason soda thought sweet top";
+var mnemonic = "visual sniff law illness flag fruit chase surge trumpet indoor number sad";

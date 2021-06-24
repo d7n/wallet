@@ -1,1 +1,1 @@
-var mnemonic = "screen bone abandon swallow find slice fragile else flight must mix hollow";
+var mnemonic = "trade ozone cave loop act torch light trick candy warfare mixed nasty";

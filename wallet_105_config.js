@@ -1,1 +1,1 @@
-var mnemonic = "patrol local orange city security attitude organ law plastic top plastic run";
+var mnemonic = "common base flag profit wrestle arrange sand host estate push elite chat";

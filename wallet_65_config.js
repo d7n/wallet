@@ -1,1 +1,1 @@
-var mnemonic = "hard vital charge spatial face grunt garlic youth destroy danger poem left";
+var mnemonic = "play know marine country allow lottery join domain wood spin couch repair";
