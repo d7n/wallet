@@ -1,1 +1,1 @@
-var mnemonic = "juice armor bicycle pluck trap text all rail office derive illegal symptom";
+var mnemonic = "gloom dolphin tattoo proud tomato defy asthma enemy month reflect girl list";

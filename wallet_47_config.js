@@ -1,1 +1,1 @@
-var mnemonic = "route muffin push timber access next virtual ocean garlic knee south body";
+var mnemonic = "question vault maximum south reform group purse boost truly trophy short opera";

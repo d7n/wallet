@@ -1,1 +1,1 @@
-var mnemonic = "tennis arm try ice bench chunk three engage hire battle vocal silent";
+var mnemonic = "initial fiber fatigue luggage immense vote fault food garment orient fancy profit";

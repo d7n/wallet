@@ -1,1 +1,1 @@
-var mnemonic = "pretty inquiry idle false attend olympic sentence mutual siege sight dance hen";
+var mnemonic = "surge forget butter empower slim gather table fury decline second achieve bicycle";

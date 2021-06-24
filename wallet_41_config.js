@@ -1,1 +1,1 @@
-var mnemonic = "garden hurt drum goddess appear organ duty gossip traffic source noodle myself";
+var mnemonic = "drama can stem chase ripple zebra change blur sibling group cup then";

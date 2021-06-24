@@ -1,1 +1,1 @@
-var mnemonic = "taste mercy picture rely orchard child pencil miss develop impose pepper grape";
+var mnemonic = "town police shed lounge swarm rescue broken brisk relax satoshi list style";

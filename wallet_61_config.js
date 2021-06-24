@@ -1,1 +1,1 @@
-var mnemonic = "ghost clock expand source draw saddle cousin swear artist current spatial left";
+var mnemonic = "sell fiscal carbon wrap worth dish antique insect type rail actress rely";

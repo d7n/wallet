@@ -1,1 +1,1 @@
-var mnemonic = "promote cook panel issue square benefit leave inhale verb shrimp steel mixture";
+var mnemonic = "stand artefact annual address enter sad carry oven congress mother arm diagram";

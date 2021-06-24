@@ -1,1 +1,1 @@
-var mnemonic = "reveal clinic mad another pony fat loud muscle imitate october subway valve";
+var mnemonic = "miss cloud jewel image cancel fatal aisle sorry decade cattle click accuse";

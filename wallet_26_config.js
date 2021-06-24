@@ -1,1 +1,1 @@
-var mnemonic = "later smoke draw person wave spend reason spawn weasel tomato wage zero";
+var mnemonic = "crop tape spell swarm balance hungry melody label blast library indoor judge";

@@ -1,1 +1,1 @@
-var mnemonic = "night usage tenant raw canal gap rose antenna render exotic flash tank";
+var mnemonic = "steel later scout fee federal runway gas kick elbow prize bleak tattoo";

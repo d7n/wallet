@@ -1,1 +1,1 @@
-var mnemonic = "army husband genius stage fly blush session connect parent chalk potato drift";
+var mnemonic = "output short shove symbol indoor hour shiver swim loop jeans legend mask";

@@ -1,1 +1,1 @@
-var mnemonic = "actual absorb original celery wreck cool vital baby easily embrace drum mystery";
+var mnemonic = "vivid peasant advance broken dog tumble injury wool canyon sunny then whale";

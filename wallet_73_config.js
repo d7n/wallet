@@ -1,1 +1,1 @@
-var mnemonic = "ahead frozen physical visit exit myself action now naive peace once special";
+var mnemonic = "buffalo sustain story marine engage relief visa movie crew apology release table";

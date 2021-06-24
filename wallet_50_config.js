@@ -1,1 +1,1 @@
-var mnemonic = "bag winner merry pluck stadium worth coach knee race certain birth crouch";
+var mnemonic = "comfort cup tank purchase happy analyst machine bone pizza exile barrel amateur";

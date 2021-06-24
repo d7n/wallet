@@ -1,1 +1,1 @@
-var mnemonic = "release life strategy wave ivory novel rose burst crew cement fluid crucial";
+var mnemonic = "judge orient clock vapor upper stick target annual fringe breeze glove sail";

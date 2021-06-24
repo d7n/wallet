@@ -1,1 +1,1 @@
-var mnemonic = "index zone modify right tired spirit talent opinion near mention open camera";
+var mnemonic = "action decade toast trial tuna bottom dolphin disease siege february pizza force";

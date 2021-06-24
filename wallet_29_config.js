@@ -1,1 +1,1 @@
-var mnemonic = "ladder elder exist february direct potato inside pledge crash elevator sword post";
+var mnemonic = "vague buzz clarify honey type lottery defense real emotion manual crew disease";

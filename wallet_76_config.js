@@ -1,1 +1,1 @@
-var mnemonic = "document iron hurt guess aunt margin nation fantasy organ swing glance level";
+var mnemonic = "assume require easily turtle vast eager original orphan bunker ginger enjoy crazy";

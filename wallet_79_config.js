@@ -1,1 +1,1 @@
-var mnemonic = "manual pause vote spider fee purity penalty head cactus brass alert plug";
+var mnemonic = "leopard kingdom glimpse issue quarter consider fitness deliver fence size isolate wedding";

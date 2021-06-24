@@ -1,1 +1,1 @@
-var mnemonic = "ticket city yard else camera squirrel gather arrange climb people sentence cannon";
+var mnemonic = "purity half vocal thumb drama insane mushroom grab tide cash dinosaur solution";

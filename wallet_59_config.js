@@ -1,1 +1,1 @@
-var mnemonic = "rocket embody hello duck swamp neither sausage derive sure way foil assume";
+var mnemonic = "afford stock inform frown typical fiction detect diesel debate forward fork feed";

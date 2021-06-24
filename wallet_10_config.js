@@ -1,1 +1,1 @@
-var mnemonic = "spot path giant swim divide donor bright muscle input renew never become";
+var mnemonic = "orphan palace citizen kangaroo bright helmet nerve faint disease echo wood outdoor";

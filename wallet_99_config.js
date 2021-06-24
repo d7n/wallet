@@ -1,1 +1,1 @@
-var mnemonic = "cake escape neither together tilt behind faculty image silver coconut prize label";
+var mnemonic = "maximum omit coconut plunge name lift wheel believe slice antenna aware help";

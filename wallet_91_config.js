@@ -1,1 +1,1 @@
-var mnemonic = "relief visual auto pig unknown regret behave strike second dune elevator owner";
+var mnemonic = "modify hair annual exist donate meat eager wrong learn cross fold mammal";

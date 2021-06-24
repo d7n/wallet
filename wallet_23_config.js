@@ -1,1 +1,1 @@
-var mnemonic = "visual blood flash delay empty say action snap police purpose pave jump";
+var mnemonic = "gaze crunch atom chimney attitude post treat student team leader hire flavor";

@@ -1,1 +1,1 @@
-var mnemonic = "husband onion heavy jungle badge share include critic planet another armor fatal";
+var mnemonic = "scissors still slam grape alarm depart save stereo hospital grow seat off";

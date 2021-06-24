@@ -1,1 +1,1 @@
-var mnemonic = "warrior release spy cruel joy warm duty paper menu base cage open";
+var mnemonic = "luxury strategy true apology auction wait large culture club vivid arrange cream";

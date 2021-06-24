@@ -1,1 +1,1 @@
-var mnemonic = "setup obtain gift pluck congress ice plug cram manual engage bulk body";
+var mnemonic = "sing way wedding pig wash gap city impulse bike fetch hood pumpkin";

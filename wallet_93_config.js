@@ -1,1 +1,1 @@
-var mnemonic = "pull token duck assist boy wrong inject topple runway cart debris soldier";
+var mnemonic = "harsh negative hip shrug alley agent horn solid roof attract mixture argue";

@@ -1,1 +1,1 @@
-var mnemonic = "nature knock sail hospital kingdom vibrant tumble whip civil hazard alpha eternal";
+var mnemonic = "lizard favorite pact assume actual garlic seminar quit scan that drift adapt";

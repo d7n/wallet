@@ -1,1 +1,1 @@
-var mnemonic = "bus recall motor sick best blind adjust book ask addict course basket";
+var mnemonic = "image kind expose color echo allow cushion void dawn arch just thought";

@@ -1,1 +1,1 @@
-var mnemonic = "humor kick gain candy exhaust issue lazy pledge crash ensure solution version";
+var mnemonic = "angle airport finger claw whisper wisdom hire barely talent assist canal resemble";

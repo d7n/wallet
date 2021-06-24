@@ -1,1 +1,1 @@
-var mnemonic = "during patch luggage praise pride define buzz drive beauty ask plate gather";
+var mnemonic = "found essay display flag sound barrel bundle farm kiwi evil false blouse";

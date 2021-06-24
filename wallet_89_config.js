@@ -1,1 +1,1 @@
-var mnemonic = "tooth wild ginger math journey poverty develop cable clown gauge remove quiz";
+var mnemonic = "squirrel range medal more drastic right police flee permit gossip sadness oak";

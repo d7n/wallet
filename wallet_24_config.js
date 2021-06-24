@@ -1,1 +1,1 @@
-var mnemonic = "high short scout mechanic rhythm amateur upset edge purchase roast cliff car";
+var mnemonic = "option toy time eight lunar earth box jaguar omit column grunt second";

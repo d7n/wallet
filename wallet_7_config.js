@@ -1,1 +1,1 @@
-var mnemonic = "detect rule parade tunnel blast drink team shed disease spoon east siren";
+var mnemonic = "result alarm beyond wrong pledge fancy flee foster bid wish install just";

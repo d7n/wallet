@@ -1,1 +1,1 @@
-var mnemonic = "ramp stem bitter matter wasp vault element monkey gap various hazard orchard";
+var mnemonic = "point angry citizen misery indicate debate water marriage siege material company index";

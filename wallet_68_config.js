@@ -1,1 +1,1 @@
-var mnemonic = "mandate foil health creek already garment business poet explain urge modify final";
+var mnemonic = "tumble hidden width hundred stone swallow cradle volume correct similar ozone wedding";

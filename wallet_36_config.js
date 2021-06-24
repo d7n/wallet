@@ -1,1 +1,1 @@
-var mnemonic = "ginger glove obey genuine hedgehog what mixture expand govern wire quit kid";
+var mnemonic = "multiply enhance side own combine scale anxiety target excess uphold special sunny";

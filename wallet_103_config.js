@@ -1,1 +1,1 @@
-var mnemonic = "depend tumble runway sunny umbrella awful list pause spike thunder abuse address";
+var mnemonic = "forest amused gold club guess basket armor peasant boost elegant mushroom tourist";

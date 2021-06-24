@@ -1,1 +1,1 @@
-var mnemonic = "source fox famous shield cancel busy keep pen diamond scrap account tiny";
+var mnemonic = "discover series treat warfare crime spawn stage wear tunnel strategy argue portion";

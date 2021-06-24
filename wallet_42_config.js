@@ -1,1 +1,1 @@
-var mnemonic = "enrich fog expose scout damage first castle lava girl tag ball valve";
+var mnemonic = "rabbit pact vocal amount asset diet crisp okay project suggest tail victory";

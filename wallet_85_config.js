@@ -1,1 +1,1 @@
-var mnemonic = "emerge cannon hold walnut easy under write eagle cruise flag autumn crane";
+var mnemonic = "duty only congress call note winner trip sock flower practice wagon adult";

@@ -1,1 +1,1 @@
-var mnemonic = "correct indoor behind tiny skill famous glove piece deputy almost inner donate";
+var mnemonic = "exit sing wrestle quantum abuse theory method timber project citizen sea chuckle";

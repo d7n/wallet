@@ -1,1 +1,1 @@
-var mnemonic = "annual theory cupboard custom outdoor position sibling sheriff thank moral dose shed";
+var mnemonic = "jelly lyrics forward luggage slush ghost cereal action gift upgrade human floor";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise weasel century pelican produce client book jeans muffin bike box first";
+var mnemonic = "census music cousin tail kite ordinary loyal bread actress reform need accuse";

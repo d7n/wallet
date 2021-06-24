@@ -1,1 +1,1 @@
-var mnemonic = "alien barrel swear unfair suffer move code hold uncle top bless auto";
+var mnemonic = "gossip kind kitten season marble toddler gain zone glue they recycle life";

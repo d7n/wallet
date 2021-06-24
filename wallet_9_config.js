@@ -1,1 +1,1 @@
-var mnemonic = "concert team abstract cushion world fiction social address motion motion dignity sight";
+var mnemonic = "broccoli fly ladder taste athlete erase later pair mad march top insect";

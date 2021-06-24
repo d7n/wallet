@@ -1,1 +1,1 @@
-var mnemonic = "better useful item sauce trick minor sorry daughter emotion wool sign wait";
+var mnemonic = "alcohol lava globe bone rubber mind symbol impulse refuse language actor october";

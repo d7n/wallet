@@ -1,1 +1,1 @@
-var mnemonic = "chimney chuckle cream wheat amazing top nephew buffalo obtain calm bottom mosquito";
+var mnemonic = "ordinary consider save keep bright phone horse dolphin glow proud reward glare";

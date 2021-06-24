@@ -1,1 +1,1 @@
-var mnemonic = "guide develop armor purchase fossil hotel own april orphan shift access dignity";
+var mnemonic = "author travel attend east fit raw spawn point ribbon curtain snake upset";

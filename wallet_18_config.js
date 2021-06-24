@@ -1,1 +1,1 @@
-var mnemonic = "option business income stadium quantum mom nest sick enact proud guide settle";
+var mnemonic = "picnic trade forward private divert split slim brave always broken wasp gate";

@@ -1,1 +1,1 @@
-var mnemonic = "runway witness volcano human require control bunker goose caught cable federal barely";
+var mnemonic = "employ tag cart town axis aware matrix measure coil hurry shoot inch";

@@ -1,1 +1,1 @@
-var mnemonic = "deer cliff laugh clean orient humor open tuna page jelly bike dice";
+var mnemonic = "knee oil clever brother mansion portion rule turkey fire output grocery since";

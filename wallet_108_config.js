@@ -1,1 +1,1 @@
-var mnemonic = "recall ocean satisfy replace tongue basket shallow assist hedgehog sniff apart media";
+var mnemonic = "seek taste vacuum trust reform input person conduct uncover grass half crash";

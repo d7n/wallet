@@ -1,1 +1,1 @@
-var mnemonic = "morning blind degree clump beef replace snake joy submit witness twice fringe";
+var mnemonic = "when tackle power raccoon alert test property timber public valley goat box";

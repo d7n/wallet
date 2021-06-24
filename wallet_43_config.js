@@ -1,1 +1,1 @@
-var mnemonic = "play road beauty waste ladder lucky rifle list waste fade win mansion";
+var mnemonic = "essence robot black rack wood occur joy busy lemon anchor bracket tube";

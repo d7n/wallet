@@ -1,1 +1,1 @@
-var mnemonic = "hawk rude early symptom kiss present awkward desert pink south arena endorse";
+var mnemonic = "glad cake shop access stage entire logic lyrics solid increase figure exile";

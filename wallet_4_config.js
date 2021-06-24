@@ -1,1 +1,1 @@
-var mnemonic = "grab clerk glance become tumble exclude limb lift endless island endorse perfect";
+var mnemonic = "story road ritual dust helmet taxi color extend elder canvas sphere laptop";

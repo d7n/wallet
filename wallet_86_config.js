@@ -1,1 +1,1 @@
-var mnemonic = "small inflict banner wrist hobby fury open rebel kite jewel under opera";
+var mnemonic = "cram police cake olympic eager loop funny stand grass vacant barrel forget";

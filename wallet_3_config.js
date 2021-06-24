@@ -1,1 +1,1 @@
-var mnemonic = "kite slogan chapter screen diet design tired diagram daughter sad casual portion";
+var mnemonic = "between envelope inform monkey scrub west love will emerge clutch result exercise";

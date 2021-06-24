@@ -1,1 +1,1 @@
-var mnemonic = "safe learn convince fluid universe volume fetch carbon imitate style recycle lottery";
+var mnemonic = "angle disease fragile region wheat cruel present defense orchard similar under alcohol";

@@ -1,1 +1,1 @@
-var mnemonic = "odor devote margin chef dutch wrestle fitness obey hotel property produce inner";
+var mnemonic = "master turtle approve cushion approve then object room tape aware rescue cancel";

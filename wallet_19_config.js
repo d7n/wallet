@@ -1,1 +1,1 @@
-var mnemonic = "replace diary jelly forest duck post cheese blind aim valid dynamic salute";
+var mnemonic = "debris deny gas rigid rookie silly canyon casual sign street under license";

@@ -1,1 +1,1 @@
-var mnemonic = "course soap garage clinic limb easy vocal another tent ignore fame begin";
+var mnemonic = "siege winner theme swallow labor wire drama dream theme video potato stove";

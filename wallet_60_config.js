@@ -1,1 +1,1 @@
-var mnemonic = "cup term skin teach vacuum obvious upon adapt olive romance goddess dutch";
+var mnemonic = "earn annual tomorrow dress below report dignity master blast predict bulk purse";

@@ -1,1 +1,1 @@
-var mnemonic = "stock alpha around coin main hat cup inflict brave act swarm bulk";
+var mnemonic = "pull ticket afraid feed total often body stand crowd rich loan beef";

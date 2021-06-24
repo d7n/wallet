@@ -1,1 +1,1 @@
-var mnemonic = "timber grape across tobacco predict symbol elite quit foot mountain bulk sponsor";
+var mnemonic = "glare amateur stuff original cushion water apart spring bitter bullet border blush";

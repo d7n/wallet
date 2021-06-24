@@ -1,1 +1,1 @@
-var mnemonic = "basic surge office stove axis decade six million aspect ranch forest husband";
+var mnemonic = "orient diary kick actual orchard coral topic hire rally century round stay";

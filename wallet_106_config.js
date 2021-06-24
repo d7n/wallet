@@ -1,1 +1,1 @@
-var mnemonic = "stock panda direct kite industry auto meat tonight hurt credit cram artefact";
+var mnemonic = "sad pool rally pink urge toy wrist degree twenty cushion flee rough";

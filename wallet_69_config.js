@@ -1,1 +1,1 @@
-var mnemonic = "hub that brown immense bomb direct intact foam antique goat hand this";
+var mnemonic = "genius dog traffic mule lobster twenty roof upon elephant tongue casual virtual";

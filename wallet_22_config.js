@@ -1,1 +1,1 @@
-var mnemonic = "more column analyst night expire vintage puppy receive price clarify innocent exile";
+var mnemonic = "soon drum detect blind comic tuna tissue poem gun relief south seat";

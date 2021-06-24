@@ -1,1 +1,1 @@
-var mnemonic = "reunion seminar govern drip mushroom switch hill trade jeans truck purse vague";
+var mnemonic = "settle blind alpha valve party tissue family reject veteran exact coffee gate";

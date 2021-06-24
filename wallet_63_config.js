@@ -1,1 +1,1 @@
-var mnemonic = "panda praise tobacco pipe crumble seat coffee virus patch stadium reward select";
+var mnemonic = "frame laptop soul seek wire wage luxury jeans puppy hold joke gym";

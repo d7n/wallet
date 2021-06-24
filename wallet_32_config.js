@@ -1,1 +1,1 @@
-var mnemonic = "there domain genius know kitchen engine finish couple reflect oil inner gas";
+var mnemonic = "purity wing voyage ozone pig enrich game melody want crush prefer live";

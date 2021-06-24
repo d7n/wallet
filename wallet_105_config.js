@@ -1,1 +1,1 @@
-var mnemonic = "pencil timber venture teach fabric wrong wrestle copper jungle live swallow panda";
+var mnemonic = "unusual tenant educate brief grief divert easy arctic today antique age mango";

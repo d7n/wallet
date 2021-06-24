@@ -1,1 +1,1 @@
-var mnemonic = "weapon noodle captain zoo either together arrest disorder unveil obscure double solve";
+var mnemonic = "banner since capable coyote million surface spice escape offer success mandate tobacco";

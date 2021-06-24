@@ -1,1 +1,1 @@
-var mnemonic = "devote pistol royal source spell divorce brisk leader mix prevent behind chief";
+var mnemonic = "unaware pledge resource cruel actress misery door casino pride simple dolphin butter";

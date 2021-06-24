@@ -1,1 +1,1 @@
-var mnemonic = "insane column scrap close logic verify service parade loop prize rich umbrella";
+var mnemonic = "dismiss maze warm laugh best calm arm foot orchard service mention nasty";

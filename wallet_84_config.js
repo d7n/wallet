@@ -1,1 +1,1 @@
-var mnemonic = "report stock gloom client orbit region bundle ghost decide pitch tone dolphin";
+var mnemonic = "nothing ask grit cause shift sadness token brick salute verify extra gospel";

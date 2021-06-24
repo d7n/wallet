@@ -1,1 +1,1 @@
-var mnemonic = "dawn pumpkin error boring weasel arrive soft cinnamon promote idea what trouble";
+var mnemonic = "runway crazy tooth snow drop clip vast juice sight ordinary control art";

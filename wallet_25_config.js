@@ -1,1 +1,1 @@
-var mnemonic = "supreme also hold bonus people nice evolve creek cook wheat diagram predict";
+var mnemonic = "theory agree range birth settle blur rescue music snake rent sweet apple";

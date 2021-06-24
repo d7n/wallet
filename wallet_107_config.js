@@ -1,1 +1,1 @@
-var mnemonic = "income private west stereo picnic door tiny basic fatal plastic lens cycle";
+var mnemonic = "slim mix much jeans project evoke observe few sting session height dog";

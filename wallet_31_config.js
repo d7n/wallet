@@ -1,1 +1,1 @@
-var mnemonic = "truth element cluster invest forward hidden heart badge junk capital cupboard economy";
+var mnemonic = "believe anchor crater luxury plug illness scorpion clean please list load cook";

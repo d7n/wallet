@@ -1,1 +1,1 @@
-var mnemonic = "praise bridge obtain shrimp kit bless devote motor avoid trash stock fatal";
+var mnemonic = "like hip barely buyer inquiry right soup innocent quantum bicycle teach inspire";

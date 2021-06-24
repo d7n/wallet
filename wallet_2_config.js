@@ -1,1 +1,1 @@
-var mnemonic = "found shift crouch hunt movie cry melt mammal love decorate tiny napkin";
+var mnemonic = "bunker state economy light hockey business include exact tank innocent dad fabric";

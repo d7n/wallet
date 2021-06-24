@@ -1,1 +1,1 @@
-var mnemonic = "melt obscure survey success enable burger property dry around attend tube access";
+var mnemonic = "impose coil escape peasant frost park bread uphold gorilla ill paper pact";

@@ -1,1 +1,1 @@
-var mnemonic = "tortoise hungry vast fluid kiss maximum moral person gold verify secret coffee";
+var mnemonic = "file logic ready stairs august aunt betray lucky quote drink illness ramp";

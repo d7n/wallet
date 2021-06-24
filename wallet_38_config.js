@@ -1,1 +1,1 @@
-var mnemonic = "broken tomato wine join sick boss disorder unique unique crop grunt pattern";
+var mnemonic = "stamp dog hockey naive monkey tribe mouse capable traffic run misery balcony";

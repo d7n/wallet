@@ -1,1 +1,1 @@
-var mnemonic = "report camp finish nature portion section rescue finish describe garment question screen";
+var mnemonic = "fashion garden hello rural ship apart drama muffin royal butter hero upgrade";

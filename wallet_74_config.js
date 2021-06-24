@@ -1,1 +1,1 @@
-var mnemonic = "around same mountain parrot assault person maid simple body almost bike major";
+var mnemonic = "child wrong what picture face taste select original shove camera exchange nut";

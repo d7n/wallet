@@ -1,1 +1,1 @@
-var mnemonic = "like unique green heavy inhale useless job salt snow east picnic smart";
+var mnemonic = "exercise above useless hobby mango pluck winner depth parrot term bird health";

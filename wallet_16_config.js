@@ -1,1 +1,1 @@
-var mnemonic = "rule wink gown best speed agent sing water what target slot reward";
+var mnemonic = "web category media desert name harsh chalk lend amazing shrug random vicious";

@@ -1,1 +1,1 @@
-var mnemonic = "glide cherry maximum harsh random lazy demand gift install among asset wine";
+var mnemonic = "season grab cradle limit reject amazing body lab hospital popular paper wedding";

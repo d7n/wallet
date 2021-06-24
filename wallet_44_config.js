@@ -1,1 +1,1 @@
-var mnemonic = "tank emotion already guard segment catalog cattle road hello great blur diamond";
+var mnemonic = "blush depart panther lecture sail scene seed jar ceiling wet word excess";
