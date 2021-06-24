@@ -1,1 +1,1 @@
-var mnemonic = "vacuum flash tennis pigeon network taxi labor waste cheap embrace throw affair";
+var mnemonic = "trust basic detail neutral during doctor again asthma fury draw blouse debris";

@@ -1,1 +1,1 @@
-var mnemonic = "sing never will onion soft waste detect peasant elephant edit leader twice";
+var mnemonic = "flower rail quit market sniff bottom mechanic balcony cook whale pact primary";

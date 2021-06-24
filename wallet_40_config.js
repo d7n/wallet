@@ -1,1 +1,1 @@
-var mnemonic = "unfair symptom wash eye glimpse social draft soon actor pumpkin buzz wine";
+var mnemonic = "whisper insane moment globe frog shiver member any recall sudden man foster";

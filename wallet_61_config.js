@@ -1,1 +1,1 @@
-var mnemonic = "model lion few develop solution depth chapter hope person slight ask outer";
+var mnemonic = "swim palm person pretty easy tobacco mandate antique company juice woman like";

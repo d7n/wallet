@@ -1,1 +1,1 @@
-var mnemonic = "slot special split orphan disorder card trigger spice undo indoor soul orchard";
+var mnemonic = "live unique always such quality service achieve actual easily artefact boring fold";

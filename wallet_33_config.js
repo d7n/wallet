@@ -1,1 +1,1 @@
-var mnemonic = "inch village slide slot impose case route panda carbon fix provide cute";
+var mnemonic = "wise retire beach ozone fancy embark helmet segment vibrant repeat fog stay";

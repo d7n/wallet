@@ -1,1 +1,1 @@
-var mnemonic = "peace pyramid aisle ripple own dinosaur square visual high client hole hunt";
+var mnemonic = "find opera talk forward garbage vague crawl heavy sheriff alert fossil stool";

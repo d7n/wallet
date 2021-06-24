@@ -1,1 +1,1 @@
-var mnemonic = "rural betray abstract blur honey economy mountain unit art tower buffalo hover";
+var mnemonic = "catalog cement puppy tissue middle panel guide plunge tell knife purchase drift";

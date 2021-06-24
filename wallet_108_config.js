@@ -1,1 +1,1 @@
-var mnemonic = "hybrid ribbon erase menu web trade sock fold prize slender borrow drum";
+var mnemonic = "blanket lion stove attract float prize because suit rotate cupboard they mercy";

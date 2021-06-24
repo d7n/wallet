@@ -1,1 +1,1 @@
-var mnemonic = "rival puzzle appear baby twin candy update inherit accuse vanish plate left";
+var mnemonic = "ranch cigar once image faint anxiety earn casual faint life crawl enact";

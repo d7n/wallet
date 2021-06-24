@@ -1,1 +1,1 @@
-var mnemonic = "time race odor sad region thing salon resist artefact impose spy cash";
+var mnemonic = "raccoon police tide fluid ice dish day other process hollow inspire lamp";

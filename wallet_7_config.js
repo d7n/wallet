@@ -1,1 +1,1 @@
-var mnemonic = "toss breeze wool private twelve thumb ginger trumpet obtain glide wet struggle";
+var mnemonic = "radar reform analyst hockey file number brush enjoy cement dwarf ship capital";

@@ -1,1 +1,1 @@
-var mnemonic = "general immune ginger race mind slim garment sibling find amused oblige lava";
+var mnemonic = "setup annual brass smart acid title floor pottery crash slender vapor staff";

@@ -1,1 +1,1 @@
-var mnemonic = "mandate dial repair skirt anxiety observe insect drip census company pyramid charge";
+var mnemonic = "private bulk can matrix express alone drop endorse asthma arrange liberty skin";

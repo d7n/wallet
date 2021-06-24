@@ -1,1 +1,1 @@
-var mnemonic = "chest slush mesh flame moon bid menu surprise lemon plate surge mango";
+var mnemonic = "friend guard rain assume melody concert alien danger ketchup frown camp bundle";

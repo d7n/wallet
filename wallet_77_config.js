@@ -1,1 +1,1 @@
-var mnemonic = "similar tenant mountain they entry decide radar stock depth organ rate sting";
+var mnemonic = "harvest topple dune duck cause silver grid improve judge plunge frozen sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "raise pupil fringe canyon small future stay inflict tower brick require school";
+var mnemonic = "dad merry easily private angry veteran educate foster snake obtain repeat practice";

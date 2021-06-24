@@ -1,1 +1,1 @@
-var mnemonic = "ball slow radio force divert target eight turtle fever fire forward video";
+var mnemonic = "clog catch belt more unaware poem poet trouble armor wish journey obtain";

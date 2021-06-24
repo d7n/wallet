@@ -1,1 +1,1 @@
-var mnemonic = "federal float law crater budget uncover obtain cloud tank imitate kiwi turtle";
+var mnemonic = "asthma purchase inject tragic caution always prosper exclude bulk call primary castle";

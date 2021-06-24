@@ -1,1 +1,1 @@
-var mnemonic = "stamp canyon stable bitter fragile risk volume curious coffee broccoli length organ";
+var mnemonic = "south surprise scrap garlic baby abuse exist plug stem shift gown powder";

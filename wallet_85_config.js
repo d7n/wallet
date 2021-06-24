@@ -1,1 +1,1 @@
-var mnemonic = "deal kingdom write hospital exercise flush task lobster chief balance method truth";
+var mnemonic = "tell unfair fiber child indoor atom kangaroo arrow abstract mule episode horror";

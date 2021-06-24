@@ -1,1 +1,1 @@
-var mnemonic = "donate tree exile sort cabbage online jar polar pulp theme slab indoor";
+var mnemonic = "phone hen filter dust inspire track super rate inherit friend farm hunt";

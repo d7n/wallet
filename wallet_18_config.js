@@ -1,1 +1,1 @@
-var mnemonic = "grit wood tail sugar asthma bless speak daring clinic sleep size inside";
+var mnemonic = "frozen feed amount lonely chase match poet diamond gym future kitchen sting";

@@ -1,1 +1,1 @@
-var mnemonic = "math web cliff cake steel toss mandate someone lobster piece rice citizen";
+var mnemonic = "explain fat choose charge drift off venue adjust knee soap ahead decade";

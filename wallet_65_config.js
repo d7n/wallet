@@ -1,1 +1,1 @@
-var mnemonic = "sound top worth wrist welcome dignity stamp tenant invest street protect become";
+var mnemonic = "piano acquire spring tattoo hurry dress invite round margin enforce pipe plastic";

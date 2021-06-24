@@ -1,1 +1,1 @@
-var mnemonic = "claim glad liar topic hidden media margin wet cattle fiscal lady toddler";
+var mnemonic = "trend yard move scan auto execute mountain soap leisure flock glide know";

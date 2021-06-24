@@ -1,1 +1,1 @@
-var mnemonic = "claim hedgehog mobile index repeat pass slogan thrive medal girl cargo pudding";
+var mnemonic = "hollow drastic clarify pilot hood glue version employ measure tent vanish soccer";

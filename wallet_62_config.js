@@ -1,1 +1,1 @@
-var mnemonic = "setup galaxy wire neglect word inform rebel pepper muscle play crack day";
+var mnemonic = "chef quit regular view alcohol hand citizen youth morning float build hundred";

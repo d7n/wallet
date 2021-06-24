@@ -1,1 +1,1 @@
-var mnemonic = "april blood situate unit maze earn remind normal cash ribbon arena wolf";
+var mnemonic = "clap warfare private shell ski ladder skull story sample toilet wasp fox";

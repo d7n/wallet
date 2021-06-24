@@ -1,1 +1,1 @@
-var mnemonic = "coin practice slim enhance walk deposit unique feed pupil add bracket life";
+var mnemonic = "syrup struggle anger symbol behind business prepare world right zero visual hand";

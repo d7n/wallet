@@ -1,1 +1,1 @@
-var mnemonic = "task leave media garbage tomorrow boil zoo welcome room artist armed build";
+var mnemonic = "window action room about skirt arrest resist hockey blood slow decrease design";

@@ -1,1 +1,1 @@
-var mnemonic = "ladder fetch inside alter noodle key judge weasel devote visual hen anger";
+var mnemonic = "dynamic gorilla curtain water admit submit hedgehog normal neglect good island tuna";

@@ -1,1 +1,1 @@
-var mnemonic = "battle clump addict segment sting sea shell swift garage ten super welcome";
+var mnemonic = "kite salon ignore swamp surface salmon differ helmet pioneer neutral omit cattle";

@@ -1,1 +1,1 @@
-var mnemonic = "autumn order roast guilt execute violin effort frown where horror minimum distance";
+var mnemonic = "cool surround ride assault hero amazing repeat success interest example annual nest";

@@ -1,1 +1,1 @@
-var mnemonic = "pencil invite exist code obvious cheese weird snack seed knee lucky slab";
+var mnemonic = "purpose extra include moment olympic perfect clock elegant world deposit decorate glass";

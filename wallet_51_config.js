@@ -1,1 +1,1 @@
-var mnemonic = "rebuild recycle you liar tobacco soda park inside tube bomb toast orbit";
+var mnemonic = "planet scale explain process spoil point you autumn coach mask gown marriage";

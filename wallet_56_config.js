@@ -1,1 +1,1 @@
-var mnemonic = "found inmate void rate luggage battle soccer tribe arena figure crime gravity";
+var mnemonic = "grab lake glow swarm worth hair bread welcome oblige hair human lunar";

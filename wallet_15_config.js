@@ -1,1 +1,1 @@
-var mnemonic = "hat cloth math dignity jelly great miss ahead canoe marriage coconut tornado";
+var mnemonic = "torch ignore clump traffic april myself exit theory flag domain dance village";

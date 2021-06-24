@@ -1,1 +1,1 @@
-var mnemonic = "inspire elevator govern farm addict they ginger help spoon winner dial guide";
+var mnemonic = "slot diet panther host frame angry post oak glare home card abstract";

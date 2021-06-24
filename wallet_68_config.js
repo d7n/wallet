@@ -1,1 +1,1 @@
-var mnemonic = "summer finish laugh enhance essence heart harbor gym essay cushion choose pretty";
+var mnemonic = "arrow number empower giant brave history party street day judge vote inspire";

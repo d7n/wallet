@@ -1,1 +1,1 @@
-var mnemonic = "analyst valve police link modify stuff process diamond fork pole salute employ";
+var mnemonic = "enrich gown cattle delay army reveal usual method current furnace undo parrot";

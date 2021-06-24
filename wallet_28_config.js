@@ -1,1 +1,1 @@
-var mnemonic = "spot worry title urban news purpose surprise volume ketchup man smooth shield";
+var mnemonic = "dizzy oak utility glare any merge bag envelope prepare ill banana under";

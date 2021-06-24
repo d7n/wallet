@@ -1,1 +1,1 @@
-var mnemonic = "rather employ refuse frown abstract pool original spice dirt scale detect dwarf";
+var mnemonic = "paper course normal extend very sponsor tribe coffee wash miracle shell vital";

@@ -1,1 +1,1 @@
-var mnemonic = "ring giggle rhythm entire again achieve believe cigar retire sugar autumn right";
+var mnemonic = "shield gorilla glide vapor crater banner bacon orphan fat pause dilemma finger";

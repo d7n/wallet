@@ -1,1 +1,1 @@
-var mnemonic = "view inner gain direct garment faculty elbow deputy bread future expire consider";
+var mnemonic = "museum method mix scheme era crop pair truth response track retreat cherry";

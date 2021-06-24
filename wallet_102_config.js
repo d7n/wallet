@@ -1,1 +1,1 @@
-var mnemonic = "captain write vanish sport eye robust rail equal valid forward accuse unfold";
+var mnemonic = "turn erode method utility capable town bless nest source tone sting humble";

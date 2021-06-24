@@ -1,1 +1,1 @@
-var mnemonic = "future ugly young globe aerobic alien orbit sustain elder load filter junior";
+var mnemonic = "forward tongue evil episode dial verify animal chunk bitter expose wire private";

@@ -1,1 +1,1 @@
-var mnemonic = "stuff office year rule trend lion edit develop slide youth essay spatial";
+var mnemonic = "cross easy define hobby joy clump bullet forum derive extend undo model";

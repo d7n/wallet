@@ -1,1 +1,1 @@
-var mnemonic = "left museum wise phone veteran describe clip promote viable action butter paddle";
+var mnemonic = "fossil swing sauce catalog cook orient analyst multiply cousin balcony grass theory";

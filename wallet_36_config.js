@@ -1,1 +1,1 @@
-var mnemonic = "victory pole core forum ivory fantasy public sock analyst flash trouble family";
+var mnemonic = "orange oak change orphan pride share pretty rhythm reduce copy fine guess";

@@ -1,1 +1,1 @@
-var mnemonic = "laugh relief trip dawn immense shrimp large suit strong awesome river cactus";
+var mnemonic = "grow skill jaguar inherit visa eternal lend install jar twelve cook question";

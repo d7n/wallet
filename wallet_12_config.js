@@ -1,1 +1,1 @@
-var mnemonic = "notice abuse arrange guilt elevator bind warfare neither barrel amazing payment tunnel";
+var mnemonic = "open blouse random royal oyster mind exhaust guard glance century supply rule";

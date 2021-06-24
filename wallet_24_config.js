@@ -1,1 +1,1 @@
-var mnemonic = "wood clinic tube either fire energy uncover cattle thunder size judge shed";
+var mnemonic = "urban love favorite bounce coin impulse bundle piano chase design idle topic";

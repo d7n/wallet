@@ -1,1 +1,1 @@
-var mnemonic = "list cradle close can evil body fat cycle trouble web gather side";
+var mnemonic = "drip defy wide slam cheap fit water margin payment tag actual fault";

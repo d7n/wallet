@@ -1,1 +1,1 @@
-var mnemonic = "iron party own payment obvious glove syrup tunnel rebuild prize embody obvious";
+var mnemonic = "improve solid music cat world table erosion sell guide occur grace cousin";

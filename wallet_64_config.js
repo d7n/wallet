@@ -1,1 +1,1 @@
-var mnemonic = "fly resist illness month glove walnut excite accident noise plug entry borrow";
+var mnemonic = "muscle extra help youth shield arrest food strategy federal doll draw clever";

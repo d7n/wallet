@@ -1,1 +1,1 @@
-var mnemonic = "exist divide start advance gravity much anger sphere treat liar make night";
+var mnemonic = "size whale collect pave elbow grief diamond they random bring mirror edge";

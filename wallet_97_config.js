@@ -1,1 +1,1 @@
-var mnemonic = "notable voyage shadow palm wall sweet program shoe outdoor hip off opera";
+var mnemonic = "month man banner found wheel slush blame debris dolphin frost sense pear";

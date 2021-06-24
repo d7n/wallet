@@ -1,1 +1,1 @@
-var mnemonic = "begin aerobic message shed inquiry sail sell neck hospital tail address water";
+var mnemonic = "sort urge couple noise hero sausage kitten crazy picture account era blue";

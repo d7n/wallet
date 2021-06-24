@@ -1,1 +1,1 @@
-var mnemonic = "require cereal neck boat adult enjoy sunset vacuum fault wash despair ladder";
+var mnemonic = "width thunder physical exercise prepare current junk antenna off obvious pelican icon";

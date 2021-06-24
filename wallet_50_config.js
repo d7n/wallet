@@ -1,1 +1,1 @@
-var mnemonic = "element erase fossil silent human year pepper nothing link harbor cook usage";
+var mnemonic = "omit unhappy hair crazy property latin asthma unveil possible shed model office";

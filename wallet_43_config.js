@@ -1,1 +1,1 @@
-var mnemonic = "wide engage quiz ladder style urban maple guard tourist answer tent razor";
+var mnemonic = "ask badge cube owner sock what infant luxury predict boy foil daughter";

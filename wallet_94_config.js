@@ -1,1 +1,1 @@
-var mnemonic = "layer soup divorce mesh crane paddle syrup carbon bone thrive front verify";
+var mnemonic = "action vault silly cheese mutual athlete undo tattoo hill hospital essay maple";

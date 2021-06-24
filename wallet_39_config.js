@@ -1,1 +1,1 @@
-var mnemonic = "play ball novel biology weasel unique upgrade dizzy rally swallow word first";
+var mnemonic = "purchase anger illness verb peace maid witness sketch never couch track inherit";

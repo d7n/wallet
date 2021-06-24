@@ -1,1 +1,1 @@
-var mnemonic = "drum crater when concert empty parrot fan screen level monster cover tree";
+var mnemonic = "crash chef symptom thank small blanket mandate must culture limit task design";

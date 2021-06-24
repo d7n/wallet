@@ -1,1 +1,1 @@
-var mnemonic = "subway play fine century prison hope loud code pulse seat cream wisdom";
+var mnemonic = "glove mobile smooth reveal laundry final inner label weasel play orbit worth";

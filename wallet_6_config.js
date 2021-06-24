@@ -1,1 +1,1 @@
-var mnemonic = "taxi walk stove tobacco endorse attitude infant student always step rich term";
+var mnemonic = "marriage soup ball kangaroo menu diesel crazy bring century valid ketchup hidden";

@@ -1,1 +1,1 @@
-var mnemonic = "staff version collect rich dust oppose dial truly report quantum busy color";
+var mnemonic = "valley extend street broken during daring wire purchase cabin enact replace tilt";

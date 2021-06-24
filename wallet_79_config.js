@@ -1,1 +1,1 @@
-var mnemonic = "tennis leg salt undo undo pony crawl voyage fit symptom ribbon envelope";
+var mnemonic = "female blade crawl shy mimic recycle there possible ghost conduct kiwi void";

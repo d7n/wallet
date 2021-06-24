@@ -1,1 +1,1 @@
-var mnemonic = "wonder dragon okay hurt fold cradle risk arm time video animal horror";
+var mnemonic = "twist drop convince puzzle also country please airport install law capital trouble";

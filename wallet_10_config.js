@@ -1,1 +1,1 @@
-var mnemonic = "orphan leaf sunset glory river slab bench crew slide share mad swap";
+var mnemonic = "crunch burger library close theme piece flush awful boil bird village remove";

@@ -1,1 +1,1 @@
-var mnemonic = "ketchup glove mean emotion grow clerk zone view item hotel rotate around";
+var mnemonic = "extra twelve section always mouse write all fat sport squirrel olympic lake";

@@ -1,1 +1,1 @@
-var mnemonic = "then town sand planet person reward omit border float ancient fame habit";
+var mnemonic = "uncle keen large guess picture reduce hint treat shadow staff faith valve";

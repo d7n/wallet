@@ -1,1 +1,1 @@
-var mnemonic = "wheat hurry profit present sport bone door poverty isolate machine pencil trash";
+var mnemonic = "hat nature hour clip measure force despair lyrics diesel net mesh admit";

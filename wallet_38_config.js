@@ -1,1 +1,1 @@
-var mnemonic = "pen real until brain soul entire distance admit narrow since rapid nominee";
+var mnemonic = "will coffee umbrella mobile wrist board dash vault peanut senior canyon sentence";

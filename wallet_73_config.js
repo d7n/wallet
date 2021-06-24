@@ -1,1 +1,1 @@
-var mnemonic = "buddy meat autumn present release clever motor dinner pen assume segment cute";
+var mnemonic = "hungry bargain creek beach exchange budget position transfer ill area rice mix";

@@ -1,1 +1,1 @@
-var mnemonic = "merry fuel control entire silly slot twist peasant odor twin private verb";
+var mnemonic = "inspire join alien borrow level safe arrange together victory become awkward pear";

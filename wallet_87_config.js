@@ -1,1 +1,1 @@
-var mnemonic = "wealth achieve sheriff model diamond chief solution pony erupt cost lamp enlist";
+var mnemonic = "erode various stove have brain save sea step rotate fault talk eyebrow";

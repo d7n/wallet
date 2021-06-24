@@ -1,1 +1,1 @@
-var mnemonic = "tag win copper minor industry desert curve frame orphan ridge loan office";
+var mnemonic = "theme salon tattoo early metal morning explain elephant blame rookie april gas";

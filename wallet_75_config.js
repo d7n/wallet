@@ -1,1 +1,1 @@
-var mnemonic = "legal output point saddle eight clock walnut mansion limb exact cabin episode";
+var mnemonic = "derive skate muffin success police soldier surface nation pond faculty card garlic";

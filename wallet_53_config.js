@@ -1,1 +1,1 @@
-var mnemonic = "resemble fresh deal burden head soon oxygen legal number hour later daughter";
+var mnemonic = "vivid neutral island circle sense siren vivid gossip proud receive cook identify";

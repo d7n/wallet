@@ -1,1 +1,1 @@
-var mnemonic = "remember spend diamond tooth usage bonus property album exile tackle ride inject";
+var mnemonic = "inform goose supreme family remove rival poem please arena grain swamp fix";

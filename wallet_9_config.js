@@ -1,1 +1,1 @@
-var mnemonic = "turtle shop strong hope cruise rain give clean odor misery job mammal";
+var mnemonic = "cash shuffle able similar image increase clump fringe episode pond meadow suggest";

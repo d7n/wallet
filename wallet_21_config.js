@@ -1,1 +1,1 @@
-var mnemonic = "mountain milk hint history marble same inquiry orbit frown empower vocal there";
+var mnemonic = "invite wrestle gold reveal hybrid save coconut gown fancy cement skill nature";

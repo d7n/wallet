@@ -1,1 +1,1 @@
-var mnemonic = "gown casino gasp reveal galaxy electric regret desk warm warrior cloth dinosaur";
+var mnemonic = "view potato humor point chest often smart nut club hair bracket walnut";

@@ -1,1 +1,1 @@
-var mnemonic = "wood menu spell aim vacuum noodle guilt label neck oyster believe transfer";
+var mnemonic = "candy audit grain pause noble shield trend shuffle carpet butter stumble estate";
