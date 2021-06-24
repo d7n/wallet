@@ -1,1 +1,1 @@
-var mnemonic = "insane parent sock spoon maple leave width shoulder recycle journey latin disease";
+var mnemonic = "roof reveal brief cotton wall collect real demise clinic future excuse foster";

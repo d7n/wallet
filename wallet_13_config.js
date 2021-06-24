@@ -1,1 +1,1 @@
-var mnemonic = "train almost chronic crowd cigar lake foot hamster artefact plug wool item";
+var mnemonic = "tourist crisp bench rate maze emotion cupboard easily tank belt color surface";

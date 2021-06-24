@@ -1,1 +1,1 @@
-var mnemonic = "program someone wood thing peasant long swear oval arrange elbow govern surge";
+var mnemonic = "keen citizen original any combine nuclear neck govern choose curtain left enact";

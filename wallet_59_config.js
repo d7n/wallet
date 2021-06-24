@@ -1,1 +1,1 @@
-var mnemonic = "popular gun vessel shaft assist field future awkward beauty ecology fuel guitar";
+var mnemonic = "stone fault wish guide saddle clutch raven curtain direct tray inside sad";

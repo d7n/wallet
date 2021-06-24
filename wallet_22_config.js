@@ -1,1 +1,1 @@
-var mnemonic = "admit crucial broom laugh kid swallow junior chapter occur upper oppose piano";
+var mnemonic = "print tattoo inside gospel razor write below lava planet exit unit rapid";

@@ -1,1 +1,1 @@
-var mnemonic = "foam always also monkey crack cinnamon month danger shoe vital gossip excuse";
+var mnemonic = "tilt trick ensure number smile crucial arrive vicious timber turn weather call";

@@ -1,1 +1,1 @@
-var mnemonic = "develop usual margin amazing depth ahead ahead snap miracle tower panda shine";
+var mnemonic = "dolphin decrease mercy airport elephant sad similar faculty filter margin erase song";

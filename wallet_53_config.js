@@ -1,1 +1,1 @@
-var mnemonic = "uncover define focus device blouse stairs north burger zero town talent decide";
+var mnemonic = "pave trap reflect bubble winner sustain lift shine shrug film weird slam";

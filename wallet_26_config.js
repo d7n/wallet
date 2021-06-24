@@ -1,1 +1,1 @@
-var mnemonic = "twice narrow sadness avocado awkward math tomato goddess ramp wheel ahead weapon";
+var mnemonic = "diary carbon camera they orbit buffalo kingdom six rapid tattoo express walk";

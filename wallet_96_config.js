@@ -1,1 +1,1 @@
-var mnemonic = "select piece country tortoise electric arrange strategy absurd layer assume pattern kite";
+var mnemonic = "corn van great protect exile armor sadness mountain various oxygen minute error";

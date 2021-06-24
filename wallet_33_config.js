@@ -1,1 +1,1 @@
-var mnemonic = "purchase keep blush siren metal split brisk aisle twenty bottom meat region";
+var mnemonic = "long birth camp trade exist cattle skate spy provide faith grant either";

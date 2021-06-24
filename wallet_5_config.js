@@ -1,1 +1,1 @@
-var mnemonic = "buyer then diesel adult merge glow poem traffic just cereal crumble food";
+var mnemonic = "bench jewel resist where rain ordinary shuffle divert else jump piano erupt";

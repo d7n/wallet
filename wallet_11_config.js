@@ -1,1 +1,1 @@
-var mnemonic = "rose budget kit summer celery axis erosion desert emerge list strategy false";
+var mnemonic = "engine happy decrease throw stereo acoustic ill input mosquito bean worth memory";

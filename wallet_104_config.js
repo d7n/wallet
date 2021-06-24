@@ -1,1 +1,1 @@
-var mnemonic = "educate beach soul spike estate local prosper already vintage onion casino heart";
+var mnemonic = "define leaf struggle adult will bind detect employ hope rate basic raven";

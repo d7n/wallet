@@ -1,1 +1,1 @@
-var mnemonic = "agent move sell immune gauge country mountain celery example shield ocean give";
+var mnemonic = "flush destroy orange size dial bachelor educate tail fan hero skate crack";

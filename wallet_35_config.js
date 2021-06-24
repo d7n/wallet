@@ -1,1 +1,1 @@
-var mnemonic = "humor picnic broken double tone merit elder danger meat emerge shell lift";
+var mnemonic = "water run brave source use orient lonely author plug success slogan spoon";

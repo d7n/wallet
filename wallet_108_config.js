@@ -1,1 +1,1 @@
-var mnemonic = "pluck silver whip brand improve catalog toy pumpkin skirt armor unlock type";
+var mnemonic = "apart mango cricket argue banner maple dirt initial crack spin misery midnight";

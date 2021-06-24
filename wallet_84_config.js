@@ -1,1 +1,1 @@
-var mnemonic = "extend auction manage cement habit anchor hand sea hero curtain shoe shy";
+var mnemonic = "gown argue slot equal figure enter torch fix smooth choice climb easily";

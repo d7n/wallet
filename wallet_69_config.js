@@ -1,1 +1,1 @@
-var mnemonic = "avocado mother ribbon donate dish soldier question sentence zero artist stairs clump";
+var mnemonic = "floor caught bounce whip position night crime scrub dentist vapor brick twenty";

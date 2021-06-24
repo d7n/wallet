@@ -1,1 +1,1 @@
-var mnemonic = "famous chair barely bench eight expose struggle crisp duck similar album door";
+var mnemonic = "cluster urge glance mansion grocery museum walk section rally enable whale involve";

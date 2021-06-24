@@ -1,1 +1,1 @@
-var mnemonic = "image tone chest wrestle play advice relax tube wrestle view link mixture";
+var mnemonic = "sudden damage sentence consider depart again wet border crawl under toy august";

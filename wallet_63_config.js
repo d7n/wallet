@@ -1,1 +1,1 @@
-var mnemonic = "mandate humor today marble amazing rent review habit rack snack identify custom";
+var mnemonic = "inhale taste social neck card supply spider stone volume age bundle into";

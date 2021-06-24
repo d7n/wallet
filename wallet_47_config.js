@@ -1,1 +1,1 @@
-var mnemonic = "farm flight latin stairs sniff success blind net buzz holiday item defense";
+var mnemonic = "calm rug polar industry decade quote hamster buddy pumpkin sponsor fence pulp";

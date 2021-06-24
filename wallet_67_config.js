@@ -1,1 +1,1 @@
-var mnemonic = "muffin roast sick spot develop online draft space wrap shed combine check";
+var mnemonic = "lottery magic frown expire bind affair witness average ribbon pink joke cable";

@@ -1,1 +1,1 @@
-var mnemonic = "essence still three exact game avoid fragile slow dumb exact soap cluster";
+var mnemonic = "curious crouch theme vague chimney lunar method omit client plunge runway bunker";

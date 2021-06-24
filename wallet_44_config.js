@@ -1,1 +1,1 @@
-var mnemonic = "industry idea kangaroo certain year love lens idea air maze supply true";
+var mnemonic = "arm crop winner trouble access cram panther green first network small candy";

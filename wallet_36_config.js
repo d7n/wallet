@@ -1,1 +1,1 @@
-var mnemonic = "exhibit cinnamon educate issue circle double protect forum amateur mask predict large";
+var mnemonic = "lonely boss quiz inner electric orange pact join peanut stumble mask below";

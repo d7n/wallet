@@ -1,1 +1,1 @@
-var mnemonic = "frozen dose acquire obey motor ski zebra awesome fire thrive payment drip";
+var mnemonic = "violin fat board wheat guitar unknown dose luggage universe comic replace divide";

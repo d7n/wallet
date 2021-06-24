@@ -1,1 +1,1 @@
-var mnemonic = "tourist flock spread inside pilot above saddle delay dentist language elder frequent";
+var mnemonic = "situate exhaust swim feed cabbage museum lava olympic tribe loud same hat";

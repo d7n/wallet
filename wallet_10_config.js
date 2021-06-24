@@ -1,1 +1,1 @@
-var mnemonic = "trap suit weird essay symptom elder camera virus mass busy gaze gloom";
+var mnemonic = "enemy mention sort lift output what federal engage cinnamon category broken garbage";

@@ -1,1 +1,1 @@
-var mnemonic = "child ugly rigid mind there together bone gold debate jeans tomorrow picture";
+var mnemonic = "century door style mail van flight village polar dragon cause address boss";

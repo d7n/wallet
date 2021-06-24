@@ -1,1 +1,1 @@
-var mnemonic = "cabin spatial ancient claim treat pledge project capital mass critic smile stick";
+var mnemonic = "expire session fox brief cloth choose usage faculty dolphin digital add exercise";

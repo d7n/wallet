@@ -1,1 +1,1 @@
-var mnemonic = "file tone term toy pioneer hidden during ball palm fever void art";
+var mnemonic = "unit senior network time select million trigger bacon galaxy tomato toss same";

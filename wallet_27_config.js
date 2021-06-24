@@ -1,1 +1,1 @@
-var mnemonic = "van liquid grab quality replace property whale dirt few absorb raccoon lawn";
+var mnemonic = "machine model egg uncle ride current spell kite zone detect finger sail";

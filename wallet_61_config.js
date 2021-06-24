@@ -1,1 +1,1 @@
-var mnemonic = "cancel catalog ramp horn toe frame bench cement oil similar noble betray";
+var mnemonic = "slogan always brother present inquiry episode reject there problem couple dumb enact";

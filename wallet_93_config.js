@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur nominee assist surge social clutch awful car measure light festival pear";
+var mnemonic = "upgrade salt predict open behave program cube father speak satoshi surround robust";

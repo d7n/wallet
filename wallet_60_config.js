@@ -1,1 +1,1 @@
-var mnemonic = "similar quote human control shaft bounce swamp episode hill mountain angry certain";
+var mnemonic = "sick color angry element fault wine visit remind magic genuine lonely treat";

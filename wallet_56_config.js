@@ -1,1 +1,1 @@
-var mnemonic = "combine uphold feature horse virus nose food clinic easily rib section quit";
+var mnemonic = "assist lizard oxygen divide beyond daring shock divorce what best coffee decade";

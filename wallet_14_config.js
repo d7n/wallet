@@ -1,1 +1,1 @@
-var mnemonic = "improve empty profit cheap velvet pave panic run spy sudden cube dirt";
+var mnemonic = "empower hen salt fossil planet evoke crack produce broccoli short rack differ";

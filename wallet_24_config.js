@@ -1,1 +1,1 @@
-var mnemonic = "top shield cable assist ocean unfold increase current jewel regret category metal";
+var mnemonic = "detect sudden flash build bridge orange cereal deny embark rural away again";

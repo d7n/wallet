@@ -1,1 +1,1 @@
-var mnemonic = "bamboo emotion punch year subway siege replace antique bronze dry expire flock";
+var mnemonic = "faint leave immense purpose treat bid own grit find captain green coyote";

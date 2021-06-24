@@ -1,1 +1,1 @@
-var mnemonic = "voyage live veteran quantum perfect welcome birth mix sand moral mixed hollow";
+var mnemonic = "auto ring wild satisfy tornado baby dinosaur naive like silly poet vault";

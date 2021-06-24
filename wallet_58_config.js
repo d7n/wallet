@@ -1,1 +1,1 @@
-var mnemonic = "trust athlete energy diagram joke gentle robust broken motion transfer hurdle grace";
+var mnemonic = "crush absent salt elder evolve train price brick steel city athlete spawn";

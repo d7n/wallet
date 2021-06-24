@@ -1,1 +1,1 @@
-var mnemonic = "filter crane panther near salmon few adult slight exit sunny poem gown";
+var mnemonic = "rookie birth concert profit reject assume crowd bicycle picture jeans base muffin";

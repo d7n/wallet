@@ -1,1 +1,1 @@
-var mnemonic = "eight delay spin puppy victory door question duck rare sustain afford skill";
+var mnemonic = "arrow cargo book giant fix impact tortoise spice surprise attack stool woman";

@@ -1,1 +1,1 @@
-var mnemonic = "attend much angle agree wing huge vivid truck vital bind apple noble";
+var mnemonic = "tissue force kiss layer express leisure dizzy antenna tired occur strong room";

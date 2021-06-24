@@ -1,1 +1,1 @@
-var mnemonic = "govern stem session tornado cage clerk angle search screen climb arctic razor";
+var mnemonic = "erode vocal matter slot quality include rely labor warfare paper rack jungle";

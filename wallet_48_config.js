@@ -1,1 +1,1 @@
-var mnemonic = "struggle put scout vault fiscal kiwi announce nasty snake lonely sport pond";
+var mnemonic = "dose riot bind pudding recall save moral they voyage planet ivory puzzle";

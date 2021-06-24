@@ -1,1 +1,1 @@
-var mnemonic = "gun rebuild tortoise original practice typical case dilemma hurdle spare snake advance";
+var mnemonic = "electric used naive tent upgrade depart scout mule dynamic oil foam heart";

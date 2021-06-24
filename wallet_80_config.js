@@ -1,1 +1,1 @@
-var mnemonic = "coach fork glad duty betray coach curtain produce wash wife fire tunnel";
+var mnemonic = "gym jealous adapt icon behind move father weather chicken copper amateur ocean";

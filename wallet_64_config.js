@@ -1,1 +1,1 @@
-var mnemonic = "dice engine drum industry term build gospel fan tube beach jelly empower";
+var mnemonic = "used siege atom tube decrease burger just observe comic ozone mutual ten";

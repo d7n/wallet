@@ -1,1 +1,1 @@
-var mnemonic = "broccoli special stick bonus hammer ghost add illegal giraffe east luggage immune";
+var mnemonic = "addict heavy arrange setup random silly october sphere combine matrix regret sorry";

@@ -1,1 +1,1 @@
-var mnemonic = "trust useless dove vanish inmate behave radar first slide dance gospel correct";
+var mnemonic = "gain champion concert turtle that marble crew window ketchup obvious often tourist";

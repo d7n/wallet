@@ -1,1 +1,1 @@
-var mnemonic = "ocean soul arena crater earn diet true slot type shrug enjoy mosquito";
+var mnemonic = "spike error arrow you slogan attract close code midnight kind away submit";

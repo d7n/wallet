@@ -1,1 +1,1 @@
-var mnemonic = "maximum admit chimney brick chest anchor easily life quantum tunnel seminar taste";
+var mnemonic = "ice end yellow subject sport only access cigar treat head glass furnace";

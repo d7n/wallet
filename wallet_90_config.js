@@ -1,1 +1,1 @@
-var mnemonic = "unit prepare hub foil once lyrics resemble journey parent spoil hunt valid";
+var mnemonic = "verify evoke shoe inform parent ecology critic outside crash sound segment grace";

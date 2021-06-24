@@ -1,1 +1,1 @@
-var mnemonic = "panel next tool display dry truly say mango frown end give rhythm";
+var mnemonic = "common vicious guide verify message adapt aisle entry banana door excite useless";

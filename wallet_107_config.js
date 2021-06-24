@@ -1,1 +1,1 @@
-var mnemonic = "east unique sing club month indoor level myth fancy flame wrestle scare";
+var mnemonic = "antique notable address vote detail spring occur skill carbon enact place vibrant";

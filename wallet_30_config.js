@@ -1,1 +1,1 @@
-var mnemonic = "museum pistol ocean orange salad flag long such immense shuffle purse wedding";
+var mnemonic = "success rude hood action state fiction fragile universe silver purity lamp junk";

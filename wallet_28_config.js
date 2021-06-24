@@ -1,1 +1,1 @@
-var mnemonic = "opinion garlic suggest burden tissue moon cousin road device milk oak shed";
+var mnemonic = "master dumb smart have marine cattle minute winner air ship lucky side";

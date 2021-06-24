@@ -1,1 +1,1 @@
-var mnemonic = "glad bridge wreck suggest wear hole civil donate machine vast illness actress";
+var mnemonic = "yard scorpion wait hub deal release movie panel parent solid budget mushroom";

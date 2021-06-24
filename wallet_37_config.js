@@ -1,1 +1,1 @@
-var mnemonic = "heart bacon oval twice notice tattoo oppose cup enlist crush frame car";
+var mnemonic = "club post key quality give pelican year pet winter nature math baby";

@@ -1,1 +1,1 @@
-var mnemonic = "apology slam fold solid industry tone theme portion betray wild title ghost";
+var mnemonic = "ticket team void tobacco industry drill hat spirit security never ensure legend";

@@ -1,1 +1,1 @@
-var mnemonic = "absorb file energy ticket bleak garlic output rose ignore orphan ketchup female";
+var mnemonic = "identify leopard frame phone any false ladder panic wash lunar industry chaos";

@@ -1,1 +1,1 @@
-var mnemonic = "panda ramp slight rescue heavy gauge skull type miracle absent anxiety fashion";
+var mnemonic = "cream hole copper say coyote lazy thumb hole hour mushroom ivory net";

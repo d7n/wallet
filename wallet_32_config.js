@@ -1,1 +1,1 @@
-var mnemonic = "grocery siren similar symptom glimpse liberty lawn pair blossom dice corn sketch";
+var mnemonic = "false rack announce vehicle enlist mouse fury pledge skirt fitness crisp oak";

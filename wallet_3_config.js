@@ -1,1 +1,1 @@
-var mnemonic = "reason song segment flock tennis alcohol toss reopen cheese jaguar ancient shoot";
+var mnemonic = "thrive ostrich exhibit nerve bag gas layer chef clog green symptom capital";

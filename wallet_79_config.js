@@ -1,1 +1,1 @@
-var mnemonic = "hood street various total fatal dial subject inner stamp basket sell bundle";
+var mnemonic = "endorse lunch amateur stumble flip ridge strike domain tree machine purchase define";

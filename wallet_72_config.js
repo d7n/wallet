@@ -1,1 +1,1 @@
-var mnemonic = "rug wool federal vault female turtle shy between struggle mouse gauge sustain";
+var mnemonic = "quality faculty click voyage stock select balcony ramp hat weekend misery echo";

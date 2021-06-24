@@ -1,1 +1,1 @@
-var mnemonic = "stock brisk arrive rifle faith review during enjoy rotate mind panda comic";
+var mnemonic = "door soap library jewel wasp ticket stadium budget coast spirit patient evil";

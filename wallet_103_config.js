@@ -1,1 +1,1 @@
-var mnemonic = "steel artist speed now planet fly south canal friend reopen horse submit";
+var mnemonic = "satisfy reduce outer tongue cancel strike trip they whip royal echo leave";

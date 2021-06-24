@@ -1,1 +1,1 @@
-var mnemonic = "patrol ridge network taxi shiver tilt april truly tail coil pumpkin timber";
+var mnemonic = "pause december margin caught sight engine bone horn mandate crack illness total";

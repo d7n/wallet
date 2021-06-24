@@ -1,1 +1,1 @@
-var mnemonic = "mechanic escape toast edit slim foot decade civil home chronic wreck shallow";
+var mnemonic = "swim fit lottery kind celery moral bicycle neither match local step fatigue";

@@ -1,1 +1,1 @@
-var mnemonic = "truck kick off august jazz once art minute wing federal tomorrow speak";
+var mnemonic = "best rate adapt skate photo joke ability stone wood regular allow walk";

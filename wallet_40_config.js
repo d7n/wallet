@@ -1,1 +1,1 @@
-var mnemonic = "blur position tumble mimic oval point wrap inch odor deny connect february";
+var mnemonic = "steak stadium citizen oak jeans rose purpose truck note treat web dream";

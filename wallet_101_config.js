@@ -1,1 +1,1 @@
-var mnemonic = "flash bridge amount card suit clay tilt phone juice hope blanket shoot";
+var mnemonic = "neglect transfer segment large apart emotion rather glory double shop salute genius";

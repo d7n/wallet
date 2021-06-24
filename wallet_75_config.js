@@ -1,1 +1,1 @@
-var mnemonic = "board gather soap stairs topic this practice flat green ability remind race";
+var mnemonic = "solve health stairs never place enforce airport rib drip chapter wagon that";

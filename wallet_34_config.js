@@ -1,1 +1,1 @@
-var mnemonic = "garbage live bring sing sting clown dice loop kite love conduct harvest";
+var mnemonic = "split crumble field online retire april check dutch claw bridge squeeze champion";

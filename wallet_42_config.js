@@ -1,1 +1,1 @@
-var mnemonic = "fame human wrong skirt pave bean river can garlic record shine impact";
+var mnemonic = "trigger behave organ plastic glow beef glimpse penalty peanut camp sister symbol";

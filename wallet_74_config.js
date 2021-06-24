@@ -1,1 +1,1 @@
-var mnemonic = "eagle clay faint game slam milk enroll walk swamp bitter rubber box";
+var mnemonic = "sight head diary mandate face fall civil cheese item fiscal basic obvious";

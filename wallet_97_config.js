@@ -1,1 +1,1 @@
-var mnemonic = "jealous west camera tape melody tilt fantasy team never clown dirt library";
+var mnemonic = "maximum rule bachelor make mixed flee avoid course blush tongue project control";

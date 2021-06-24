@@ -1,1 +1,1 @@
-var mnemonic = "parade symptom infant give elite fury canal expose explain begin include banana";
+var mnemonic = "cost silent dynamic brass royal cause depend list powder mad capital scan";

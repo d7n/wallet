@@ -1,1 +1,1 @@
-var mnemonic = "stool taste sad grit scissors immense tomorrow crash grace carpet clog wash";
+var mnemonic = "iron grab target limb edit define citizen sample leave sting hood volume";

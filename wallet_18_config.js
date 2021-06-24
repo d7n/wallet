@@ -1,1 +1,1 @@
-var mnemonic = "double tank special find close obey pill any purpose surface rescue rotate";
+var mnemonic = "mind enrich interest decline okay toast dignity taste ceiling skill glare current";

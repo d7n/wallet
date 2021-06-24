@@ -1,1 +1,1 @@
-var mnemonic = "offer borrow purpose bargain solve brass mail liberty vote object present air";
+var mnemonic = "rather hope gasp monster start smile clarify nominee topple friend donor spike";

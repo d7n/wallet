@@ -1,1 +1,1 @@
-var mnemonic = "camera nominee salute bundle purchase magnet floor rain pig wheat way paddle";
+var mnemonic = "space unit avocado sort relief decorate silver inject exercise dizzy margin topic";
