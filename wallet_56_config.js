@@ -1,1 +1,1 @@
-var mnemonic = "nothing prosper blood glory day rough apart moment gentle visual mule basic";
+var mnemonic = "like unique green heavy inhale useless job salt snow east picnic smart";

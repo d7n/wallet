@@ -1,1 +1,1 @@
-var mnemonic = "monitor access lonely dinosaur output found square venture genius hole coyote category";
+var mnemonic = "ginger glove obey genuine hedgehog what mixture expand govern wire quit kid";

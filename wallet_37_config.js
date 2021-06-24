@@ -1,1 +1,1 @@
-var mnemonic = "remain obscure march express author grant ketchup pilot album word pyramid foot";
+var mnemonic = "surprise weasel century pelican produce client book jeans muffin bike box first";

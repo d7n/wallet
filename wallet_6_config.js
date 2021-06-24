@@ -1,1 +1,1 @@
-var mnemonic = "vibrant else belt kite double diet wrestle video relax brick rare air";
+var mnemonic = "tennis arm try ice bench chunk three engage hire battle vocal silent";

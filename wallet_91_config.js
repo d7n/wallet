@@ -1,1 +1,1 @@
-var mnemonic = "mail gaze toast cupboard want inform toy solution soda abstract visit shield";
+var mnemonic = "relief visual auto pig unknown regret behave strike second dune elevator owner";

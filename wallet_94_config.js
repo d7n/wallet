@@ -1,1 +1,1 @@
-var mnemonic = "pole choice reject bundle frost execute magnet pond luggage remind frequent gift";
+var mnemonic = "praise bridge obtain shrimp kit bless devote motor avoid trash stock fatal";

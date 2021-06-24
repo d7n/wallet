@@ -1,1 +1,1 @@
-var mnemonic = "weasel place scissors rather goddess hurdle affair girl virtual provide bag scene";
+var mnemonic = "reveal clinic mad another pony fat loud muscle imitate october subway valve";

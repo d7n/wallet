@@ -1,1 +1,1 @@
-var mnemonic = "meadow suit awesome approve estate buzz leaf foster hunt ripple useful ceiling";
+var mnemonic = "melt obscure survey success enable burger property dry around attend tube access";

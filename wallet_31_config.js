@@ -1,1 +1,1 @@
-var mnemonic = "digital floor outdoor relax guilt glare upgrade country recall they suggest random";
+var mnemonic = "truth element cluster invest forward hidden heart badge junk capital cupboard economy";

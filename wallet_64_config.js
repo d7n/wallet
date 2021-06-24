@@ -1,1 +1,1 @@
-var mnemonic = "renew wall buyer know chuckle enable portion piece powder bounce top thumb";
+var mnemonic = "source fox famous shield cancel busy keep pen diamond scrap account tiny";

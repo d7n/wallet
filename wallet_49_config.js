@@ -1,1 +1,1 @@
-var mnemonic = "gap fence degree notice answer ahead evolve rural give razor burger cave";
+var mnemonic = "husband onion heavy jungle badge share include critic planet another armor fatal";

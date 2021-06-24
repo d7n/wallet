@@ -1,1 +1,1 @@
-var mnemonic = "recall leader diet mandate exact torch father domain basket motion flag such";
+var mnemonic = "tribe argue spoon ability time video derive minor cruel elevator hospital domain";

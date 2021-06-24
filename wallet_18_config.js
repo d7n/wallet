@@ -1,1 +1,1 @@
-var mnemonic = "melody reject visual jacket miracle asset ski penalty term ocean physical palm";
+var mnemonic = "option business income stadium quantum mom nest sick enact proud guide settle";

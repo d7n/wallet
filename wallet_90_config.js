@@ -1,1 +1,1 @@
-var mnemonic = "thing dad common comfort slim west pulp soft injury ability obey subway";
+var mnemonic = "spy hungry allow bracket jacket melt flip surprise shoot lobster daring stumble";

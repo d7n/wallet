@@ -1,1 +1,1 @@
-var mnemonic = "rubber gain market tornado cloud brisk alter change like organ daughter hidden";
+var mnemonic = "kite slogan chapter screen diet design tired diagram daughter sad casual portion";

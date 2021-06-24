@@ -1,1 +1,1 @@
-var mnemonic = "midnight liar zero initial happy solar appear quiz gold alert danger magnet";
+var mnemonic = "setup obtain gift pluck congress ice plug cram manual engage bulk body";

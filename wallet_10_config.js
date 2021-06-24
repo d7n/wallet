@@ -1,1 +1,1 @@
-var mnemonic = "behave humor slide camp ugly start clown regret mirror random cotton false";
+var mnemonic = "spot path giant swim divide donor bright muscle input renew never become";

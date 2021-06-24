@@ -1,1 +1,1 @@
-var mnemonic = "ring vocal mutual afford jeans what prosper tiger barrel before gauge cinnamon";
+var mnemonic = "stock alpha around coin main hat cup inflict brave act swarm bulk";

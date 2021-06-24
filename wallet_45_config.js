@@ -1,1 +1,1 @@
-var mnemonic = "shrimp program cram giggle dress admit faint unveil mobile spoil race spin";
+var mnemonic = "nature knock sail hospital kingdom vibrant tumble whip civil hazard alpha eternal";

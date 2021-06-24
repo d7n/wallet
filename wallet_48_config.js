@@ -1,1 +1,1 @@
-var mnemonic = "predict siren approve begin please ship ski wreck choose merry sustain zoo";
+var mnemonic = "course soap garage clinic limb easy vocal another tent ignore fame begin";

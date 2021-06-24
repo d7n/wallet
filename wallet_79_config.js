@@ -1,1 +1,1 @@
-var mnemonic = "weather talent crystal satisfy few wage garlic humble omit refuse please credit";
+var mnemonic = "manual pause vote spider fee purity penalty head cactus brass alert plug";

@@ -1,1 +1,1 @@
-var mnemonic = "arctic merry figure lens noise grief roof mansion left guess panic poet";
+var mnemonic = "depend tumble runway sunny umbrella awful list pause spike thunder abuse address";

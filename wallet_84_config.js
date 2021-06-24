@@ -1,1 +1,1 @@
-var mnemonic = "exhaust person chase dignity minute cricket kidney olympic minute surprise unknown december";
+var mnemonic = "report stock gloom client orbit region bundle ghost decide pitch tone dolphin";

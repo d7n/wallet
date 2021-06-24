@@ -1,1 +1,1 @@
-var mnemonic = "federal desk winter differ wrap minute fiber state exchange wife debate pride";
+var mnemonic = "chimney chuckle cream wheat amazing top nephew buffalo obtain calm bottom mosquito";

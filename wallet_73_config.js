@@ -1,1 +1,1 @@
-var mnemonic = "coral jelly toss frozen wrestle ability multiply monkey warfare circle easily trophy";
+var mnemonic = "ahead frozen physical visit exit myself action now naive peace once special";

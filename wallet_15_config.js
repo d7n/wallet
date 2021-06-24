@@ -1,1 +1,1 @@
-var mnemonic = "similar broccoli trade fluid gorilla oven drink wedding cash donkey traffic palace";
+var mnemonic = "devote pistol royal source spell divorce brisk leader mix prevent behind chief";

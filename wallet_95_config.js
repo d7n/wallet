@@ -1,1 +1,1 @@
-var mnemonic = "nuclear siren wagon mind egg place license next common alpha curve front";
+var mnemonic = "juice armor bicycle pluck trap text all rail office derive illegal symptom";

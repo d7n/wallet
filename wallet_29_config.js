@@ -1,1 +1,1 @@
-var mnemonic = "render buffalo question dignity loyal labor artist weekend bless visual dial ginger";
+var mnemonic = "ladder elder exist february direct potato inside pledge crash elevator sword post";

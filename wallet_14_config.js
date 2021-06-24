@@ -1,1 +1,1 @@
-var mnemonic = "injury little country visit pelican magic boring pottery green velvet awful polar";
+var mnemonic = "talk program delay picture stool spend someone depth tissue awful stick erode";

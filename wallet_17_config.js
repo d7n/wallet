@@ -1,1 +1,1 @@
-var mnemonic = "client bird people double round sound stable crane jump absorb frown pioneer";
+var mnemonic = "morning blind degree clump beef replace snake joy submit witness twice fringe";

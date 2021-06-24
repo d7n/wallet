@@ -1,1 +1,1 @@
-var mnemonic = "spike link water note canyon allow patient village giant wrong resource another";
+var mnemonic = "rule wink gown best speed agent sing water what target slot reward";

@@ -1,1 +1,1 @@
-var mnemonic = "coral kind satoshi blood mom entire crawl adjust bronze quarter purity mother";
+var mnemonic = "small inflict banner wrist hobby fury open rebel kite jewel under opera";

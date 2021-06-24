@@ -1,1 +1,1 @@
-var mnemonic = "dream day panel lazy crane reduce diet short peace agent still lady";
+var mnemonic = "glide cherry maximum harsh random lazy demand gift install among asset wine";

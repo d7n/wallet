@@ -1,1 +1,1 @@
-var mnemonic = "mule crawl rich tattoo monkey undo jeans dice bring erupt nothing fan";
+var mnemonic = "sure broccoli type garage february mass fly amateur bless brush pledge unknown";

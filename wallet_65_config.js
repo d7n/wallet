@@ -1,1 +1,1 @@
-var mnemonic = "wedding figure unfold mirror glue pepper tenant exhibit gorilla rack sing tiny";
+var mnemonic = "actual absorb original celery wreck cool vital baby easily embrace drum mystery";

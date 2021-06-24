@@ -1,1 +1,1 @@
-var mnemonic = "never dune glory keep float extra dice throw aware guess excite fork";
+var mnemonic = "ramp stem bitter matter wasp vault element monkey gap various hazard orchard";

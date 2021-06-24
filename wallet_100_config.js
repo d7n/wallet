@@ -1,1 +1,1 @@
-var mnemonic = "among shuffle rifle explain marriage menu coin cradle consider armed cover demise";
+var mnemonic = "flock paper mandate rare eyebrow faint tragic valley exhaust move learn predict";

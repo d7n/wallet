@@ -1,1 +1,1 @@
-var mnemonic = "author acoustic drive hedgehog boil alarm extra hockey olympic behind biology alpha";
+var mnemonic = "hub that brown immense bomb direct intact foam antique goat hand this";

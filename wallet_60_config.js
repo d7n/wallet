@@ -1,1 +1,1 @@
-var mnemonic = "run scissors orange subway come divide guard crazy dumb jump kitchen supreme";
+var mnemonic = "cup term skin teach vacuum obvious upon adapt olive romance goddess dutch";

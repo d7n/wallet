@@ -1,1 +1,1 @@
-var mnemonic = "tail file direct pistol setup gossip river sand more interest pepper phone";
+var mnemonic = "enrich fog expose scout damage first castle lava girl tag ball valve";

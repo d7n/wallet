@@ -1,1 +1,1 @@
-var mnemonic = "dragon chicken screen grocery estate provide panel loyal cool corn broom okay";
+var mnemonic = "dawn pumpkin error boring weasel arrive soft cinnamon promote idea what trouble";

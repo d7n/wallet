@@ -1,1 +1,1 @@
-var mnemonic = "interest denial scare corn reason couch nephew velvet zone almost orange art";
+var mnemonic = "bus recall motor sick best blind adjust book ask addict course basket";

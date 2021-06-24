@@ -1,1 +1,1 @@
-var mnemonic = "dentist insane fade interest book list edge quality sun adapt hazard hope";
+var mnemonic = "broken tomato wine join sick boss disorder unique unique crop grunt pattern";

@@ -1,1 +1,1 @@
-var mnemonic = "heart entire sphere canyon nothing garage metal punch genre enroll oyster hen";
+var mnemonic = "panda praise tobacco pipe crumble seat coffee virus patch stadium reward select";

@@ -1,1 +1,1 @@
-var mnemonic = "original avoid baby blue car ticket diesel plate peasant news fresh deposit";
+var mnemonic = "runway witness volcano human require control bunker goose caught cable federal barely";

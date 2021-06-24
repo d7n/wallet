@@ -1,1 +1,1 @@
-var mnemonic = "slim end ocean scene laptop begin begin drum observe when day clarify";
+var mnemonic = "tank emotion already guard segment catalog cattle road hello great blur diamond";

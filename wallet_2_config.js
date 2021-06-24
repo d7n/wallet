@@ -1,1 +1,1 @@
-var mnemonic = "reduce scheme mirror unveil oxygen photo cycle end thumb weekend visual lake";
+var mnemonic = "found shift crouch hunt movie cry melt mammal love decorate tiny napkin";

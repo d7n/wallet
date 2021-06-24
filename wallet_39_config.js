@@ -1,1 +1,1 @@
-var mnemonic = "fitness virus animal lamp chat unable modify once front often secret give";
+var mnemonic = "pretty inquiry idle false attend olympic sentence mutual siege sight dance hen";

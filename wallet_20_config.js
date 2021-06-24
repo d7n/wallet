@@ -1,1 +1,1 @@
-var mnemonic = "december ranch tube garage asthma logic educate tourist clinic anchor draft canvas";
+var mnemonic = "cruise scatter tobacco pill camera limit educate theme human pigeon deal real";

@@ -1,1 +1,1 @@
-var mnemonic = "country coach juice feel person surprise fruit round cannon satisfy parrot provide";
+var mnemonic = "cluster use small achieve alone wool sudden voice before carry palm pet";

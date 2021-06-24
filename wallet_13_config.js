@@ -1,1 +1,1 @@
-var mnemonic = "mail trophy hire devote fever amateur crisp master mimic uniform render doll";
+var mnemonic = "deer cliff laugh clean orient humor open tuna page jelly bike dice";

@@ -1,1 +1,1 @@
-var mnemonic = "hen know metal physical tent strong female album scare kitten sudden menu";
+var mnemonic = "mandate foil health creek already garment business poet explain urge modify final";

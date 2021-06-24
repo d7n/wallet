@@ -1,1 +1,1 @@
-var mnemonic = "attend romance flame kangaroo sail pond tree same often earn talent sort";
+var mnemonic = "night usage tenant raw canal gap rose antenna render exotic flash tank";

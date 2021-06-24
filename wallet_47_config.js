@@ -1,1 +1,1 @@
-var mnemonic = "nut frown cable pluck sister involve owner pyramid swap together between cargo";
+var mnemonic = "route muffin push timber access next virtual ocean garlic knee south body";

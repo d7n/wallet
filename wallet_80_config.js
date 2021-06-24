@@ -1,1 +1,1 @@
-var mnemonic = "focus verify calm critic jelly hour birth own quote lab gesture vintage";
+var mnemonic = "taste mercy picture rely orchard child pencil miss develop impose pepper grape";

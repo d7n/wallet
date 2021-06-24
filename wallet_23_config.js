@@ -1,1 +1,1 @@
-var mnemonic = "donkey device round ugly attract dish ask mass elbow wisdom wealth flock";
+var mnemonic = "visual blood flash delay empty say action snap police purpose pave jump";

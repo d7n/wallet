@@ -1,1 +1,1 @@
-var mnemonic = "tattoo day basket chunk utility case lamp fault announce magic two merge";
+var mnemonic = "insane column scrap close logic verify service parade loop prize rich umbrella";

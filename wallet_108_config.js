@@ -1,1 +1,1 @@
-var mnemonic = "special melt weekend velvet category hint album weapon rule plug marble question";
+var mnemonic = "recall ocean satisfy replace tongue basket shallow assist hedgehog sniff apart media";

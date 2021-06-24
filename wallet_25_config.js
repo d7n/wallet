@@ -1,1 +1,1 @@
-var mnemonic = "water much drop onion document ginger thumb labor crowd cotton view clay";
+var mnemonic = "supreme also hold bonus people nice evolve creek cook wheat diagram predict";

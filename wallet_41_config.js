@@ -1,1 +1,1 @@
-var mnemonic = "exercise dove slogan mammal super grocery gallery advance mercy mail option crystal";
+var mnemonic = "garden hurt drum goddess appear organ duty gossip traffic source noodle myself";

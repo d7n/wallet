@@ -1,1 +1,1 @@
-var mnemonic = "leg position shove model glue shrimp involve skull glide fortune glance story";
+var mnemonic = "detect rule parade tunnel blast drink team shed disease spoon east siren";

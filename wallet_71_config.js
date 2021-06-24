@@ -1,1 +1,1 @@
-var mnemonic = "joy inner document urban dad later use around broken current minute envelope";
+var mnemonic = "cube claim invest speed skill blue latin poverty grocery soup nature flat";

@@ -1,1 +1,1 @@
-var mnemonic = "stable echo wedding vehicle useless above polar garden fame honey hospital gather";
+var mnemonic = "index zone modify right tired spirit talent opinion near mention open camera";

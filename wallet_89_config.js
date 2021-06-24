@@ -1,1 +1,1 @@
-var mnemonic = "brother among cute grief scan news donor message carry illegal route achieve";
+var mnemonic = "tooth wild ginger math journey poverty develop cable clown gauge remove quiz";

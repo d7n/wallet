@@ -1,1 +1,1 @@
-var mnemonic = "core carpet stumble table glove wide gallery quantum upset escape balcony shed";
+var mnemonic = "odor devote margin chef dutch wrestle fitness obey hotel property produce inner";

@@ -1,1 +1,1 @@
-var mnemonic = "frozen box laptop enable assume poem cram proud fruit employ gossip nature";
+var mnemonic = "grab clerk glance become tumble exclude limb lift endless island endorse perfect";

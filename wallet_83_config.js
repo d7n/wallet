@@ -1,1 +1,1 @@
-var mnemonic = "unveil notable vapor text under input tomato machine buffalo general jelly ignore";
+var mnemonic = "hawk rude early symptom kiss present awkward desert pink south arena endorse";

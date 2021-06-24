@@ -1,1 +1,1 @@
-var mnemonic = "myself bitter chair lamp soap lawsuit amused deer veteran raccoon call useful";
+var mnemonic = "humor kick gain candy exhaust issue lazy pledge crash ensure solution version";

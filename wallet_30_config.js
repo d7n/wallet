@@ -1,1 +1,1 @@
-var mnemonic = "oval daring bullet claim cook visual program glue deposit soul sentence atom";
+var mnemonic = "during patch luggage praise pride define buzz drive beauty ask plate gather";

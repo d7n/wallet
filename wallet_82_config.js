@@ -1,1 +1,1 @@
-var mnemonic = "arena ritual armor portion control come symbol chief biology final humor either";
+var mnemonic = "guide develop armor purchase fossil hotel own april orphan shift access dignity";

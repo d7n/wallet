@@ -1,1 +1,1 @@
-var mnemonic = "basket vault zebra move soup agree bike brain note swing stock add";
+var mnemonic = "pull token duck assist boy wrong inject topple runway cart debris soldier";

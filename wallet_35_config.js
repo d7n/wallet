@@ -1,1 +1,1 @@
-var mnemonic = "milk curve width reflect hospital shop card nurse eternal bicycle globe gossip";
+var mnemonic = "report camp finish nature portion section rescue finish describe garment question screen";

@@ -1,1 +1,1 @@
-var mnemonic = "vehicle cheap decade unit autumn tribe rent famous evoke crazy solution observe";
+var mnemonic = "weapon noodle captain zoo either together arrest disorder unveil obscure double solve";

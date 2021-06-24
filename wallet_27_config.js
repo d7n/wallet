@@ -1,1 +1,1 @@
-var mnemonic = "pitch bleak ring school swing motor eyebrow dilemma omit praise bundle table";
+var mnemonic = "tortoise hungry vast fluid kiss maximum moral person gold verify secret coffee";

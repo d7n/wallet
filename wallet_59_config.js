@@ -1,1 +1,1 @@
-var mnemonic = "sting put knock sphere empty broccoli chalk decline wet peasant theory check";
+var mnemonic = "rocket embody hello duck swamp neither sausage derive sure way foil assume";

@@ -1,1 +1,1 @@
-var mnemonic = "arrive castle wear attitude high world wife pepper night vendor album regular";
+var mnemonic = "ticket city yard else camera squirrel gather arrange climb people sentence cannon";

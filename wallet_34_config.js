@@ -1,1 +1,1 @@
-var mnemonic = "warrior guide zone eyebrow cute sleep state mansion session asset spring panel";
+var mnemonic = "promote cook panel issue square benefit leave inhale verb shrimp steel mixture";

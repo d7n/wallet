@@ -1,1 +1,1 @@
-var mnemonic = "emerge lock sand peasant anger occur topple coast inspire jump strike outdoor";
+var mnemonic = "release life strategy wave ivory novel rose burst crew cement fluid crucial";

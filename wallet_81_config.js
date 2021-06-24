@@ -1,1 +1,1 @@
-var mnemonic = "engine ready axis client nature history method dutch replace bulk pretty foil";
+var mnemonic = "basic surge office stove axis decade six million aspect ranch forest husband";

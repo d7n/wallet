@@ -1,1 +1,1 @@
-var mnemonic = "leg ritual stomach intact body tone cupboard rude surround coin speak sphere";
+var mnemonic = "shell render blade another february carry minute cable exist distance tunnel sad";

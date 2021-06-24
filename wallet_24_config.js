@@ -1,1 +1,1 @@
-var mnemonic = "collect crew aim resource drink april ivory wide case plastic critic modify";
+var mnemonic = "high short scout mechanic rhythm amateur upset edge purchase roast cliff car";

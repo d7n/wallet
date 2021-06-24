@@ -1,1 +1,1 @@
-var mnemonic = "toe rabbit figure such embark stage turkey lecture again scorpion sing oil";
+var mnemonic = "cake escape neither together tilt behind faculty image silver coconut prize label";

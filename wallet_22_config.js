@@ -1,1 +1,1 @@
-var mnemonic = "hamster feed uncover absorb north already bargain kitchen web shed proof tray";
+var mnemonic = "more column analyst night expire vintage puppy receive price clarify innocent exile";

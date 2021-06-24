@@ -1,1 +1,1 @@
-var mnemonic = "eagle jaguar harsh play aerobic logic trim social man vibrant diamond evoke";
+var mnemonic = "there domain genius know kitchen engine finish couple reflect oil inner gas";

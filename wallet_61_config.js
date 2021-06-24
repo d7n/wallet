@@ -1,1 +1,1 @@
-var mnemonic = "hungry brief leave cry metal aspect barrel image brave slight luxury side";
+var mnemonic = "ghost clock expand source draw saddle cousin swear artist current spatial left";
