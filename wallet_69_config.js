@@ -1,1 +1,1 @@
-var mnemonic = "tip just just slush farm wonder permit play evil fine boil unknown";
+var mnemonic = "energy silk credit cliff voice rent theory drip august turn dwarf awkward";

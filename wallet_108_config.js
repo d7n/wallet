@@ -1,1 +1,1 @@
-var mnemonic = "actual cup girl alarm property ketchup zoo wrong economy parent tray lion";
+var mnemonic = "recall resist tail essence leisure love crisp cereal subject neglect shove keen";

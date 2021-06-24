@@ -1,1 +1,1 @@
-var mnemonic = "fitness magnet inquiry squeeze very all runway poet verb eternal reduce reunion";
+var mnemonic = "close icon beauty parent hawk chef belt remove hockey resource print attack";

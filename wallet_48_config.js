@@ -1,1 +1,1 @@
-var mnemonic = "lift cruise ring paddle clump member decrease curve hen region nature mutual";
+var mnemonic = "ostrich blossom glance ketchup wage tongue anger crunch chronic toast piano bag";

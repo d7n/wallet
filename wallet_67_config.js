@@ -1,1 +1,1 @@
-var mnemonic = "welcome machine margin agent jump blanket wire cool capable drop rally tip";
+var mnemonic = "wool culture multiply false eagle where glass panda question swear accuse leaf";

@@ -1,1 +1,1 @@
-var mnemonic = "current spatial diamond video book artwork shoot eternal near sleep category start";
+var mnemonic = "orient symbol lemon prefer basic company blanket true swift rubber artefact faith";

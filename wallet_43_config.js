@@ -1,1 +1,1 @@
-var mnemonic = "embrace short pet exact brush suffer camera random load drift sting unlock";
+var mnemonic = "ecology heavy minor axis omit note coil quiz auto knife ecology volume";

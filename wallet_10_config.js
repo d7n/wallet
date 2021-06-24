@@ -1,1 +1,1 @@
-var mnemonic = "notice labor void blouse hill any coast layer chronic wagon jewel away";
+var mnemonic = "door pole opera borrow priority seek often deliver voice risk rice visa";

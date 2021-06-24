@@ -1,1 +1,1 @@
-var mnemonic = "afford sniff labor will still trouble code genre hospital topple chase rail";
+var mnemonic = "result proof exile rigid trophy host subway elder brother cupboard turkey outer";

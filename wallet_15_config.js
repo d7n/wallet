@@ -1,1 +1,1 @@
-var mnemonic = "convince degree breeze salon brother blanket legal shop crouch drop strike any";
+var mnemonic = "faith tumble below vanish series sail glory section april misery farm glory";

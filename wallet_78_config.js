@@ -1,1 +1,1 @@
-var mnemonic = "exchange post direct puzzle city budget sketch obey aspect make decline become";
+var mnemonic = "chapter either orange provide sustain zone physical like flash element addict print";

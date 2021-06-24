@@ -1,1 +1,1 @@
-var mnemonic = "muffin scorpion novel gravity exclude replace brain kidney example grass best circle";
+var mnemonic = "force squeeze robust glow toast have track empty vessel ship nut collect";

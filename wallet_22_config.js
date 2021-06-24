@@ -1,1 +1,1 @@
-var mnemonic = "antique sponsor early absurd report universe one town puzzle daughter say section";
+var mnemonic = "message bulk surge attract room cinnamon junk olive trust program income beauty";

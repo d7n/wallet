@@ -1,1 +1,1 @@
-var mnemonic = "tilt turtle surface expand chair file speed alcohol agent flip derive option";
+var mnemonic = "mule pyramid cheap crash polar police arena student steel train door over";

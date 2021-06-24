@@ -1,1 +1,1 @@
-var mnemonic = "melody broken raccoon skin knock soul village lamp physical wagon now cactus";
+var mnemonic = "desert oval ship face flip stamp ostrich enact oak buyer twist paper";

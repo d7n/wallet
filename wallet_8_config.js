@@ -1,1 +1,1 @@
-var mnemonic = "voice stick grape absorb disease miss ski scene web jaguar protect aunt";
+var mnemonic = "cousin duty tooth chapter rent system punch mad twelve find type hello";

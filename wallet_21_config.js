@@ -1,1 +1,1 @@
-var mnemonic = "vanish battle library hard maze install demise giggle run silk tuition asset";
+var mnemonic = "steak ankle enhance sorry lift crime reunion wise law power mammal ghost";

@@ -1,1 +1,1 @@
-var mnemonic = "stick anchor one chalk volcano frozen upgrade outdoor cruise crouch trash spirit";
+var mnemonic = "type leaf job left minute blush boost amount upset ancient element vanish";

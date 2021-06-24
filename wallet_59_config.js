@@ -1,1 +1,1 @@
-var mnemonic = "hover spoil siege twin damp foam artwork survey craft asset nation swear";
+var mnemonic = "carry bunker meadow gospel skull clinic moral spring quality little once cake";

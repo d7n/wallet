@@ -1,1 +1,1 @@
-var mnemonic = "rapid nation jelly awful middle state time island dry surround dose educate";
+var mnemonic = "mind neither suspect member accuse oppose wrong erupt extra core destroy curious";

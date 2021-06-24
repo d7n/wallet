@@ -1,1 +1,1 @@
-var mnemonic = "grunt figure bacon rescue name brisk repair hair main green roast auto";
+var mnemonic = "throw skill gauge foil code senior toddler wine pink snack helmet whisper";

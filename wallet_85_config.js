@@ -1,1 +1,1 @@
-var mnemonic = "dice fish wire material wash zoo multiply now around reopen clever length";
+var mnemonic = "awkward canyon hobby surge expect gloom welcome bubble winter seven orbit clock";

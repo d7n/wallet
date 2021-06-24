@@ -1,1 +1,1 @@
-var mnemonic = "guard common stand ecology lady absent vendor crisp gym knife sustain crush";
+var mnemonic = "soccer sunny pond candy type consider scare box lesson wasp hurdle powder";

@@ -1,1 +1,1 @@
-var mnemonic = "sphere mutual blind april beach unveil dish main north view that near";
+var mnemonic = "protect purpose solar churn dish stadium regular napkin theme estate disease lucky";

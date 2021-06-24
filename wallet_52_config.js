@@ -1,1 +1,1 @@
-var mnemonic = "purchase budget income pond jazz stool service accident ginger core kind aisle";
+var mnemonic = "cradle deputy employ muffin build fatal short combine master primary outdoor degree";

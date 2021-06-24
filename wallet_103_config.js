@@ -1,1 +1,1 @@
-var mnemonic = "smooth tag orbit awake snack exit uncle trick tide detect quarter elephant";
+var mnemonic = "echo cram language forum bone public push category another isolate talent acoustic";

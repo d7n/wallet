@@ -1,1 +1,1 @@
-var mnemonic = "collect bridge afraid denial address merry light random copper drill hedgehog guess";
+var mnemonic = "kid razor loyal model solution believe embody hotel parent obtain intact demand";

@@ -1,1 +1,1 @@
-var mnemonic = "super identify gasp sell desert whip faith shoulder method reveal expect witness";
+var mnemonic = "super sail lonely soup hazard dentist assume solution clip garage round cry";

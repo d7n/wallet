@@ -1,1 +1,1 @@
-var mnemonic = "mountain day click swim gadget mind auto boil syrup canoe horn forum";
+var mnemonic = "sunset mom private eye wife cluster catalog burst roof zebra cage fiber";

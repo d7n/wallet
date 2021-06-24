@@ -1,1 +1,1 @@
-var mnemonic = "average stuff obey party hawk sorry grab punch blue enhance until weird";
+var mnemonic = "this east vicious wisdom skin filter dirt donate fog struggle oxygen monster";

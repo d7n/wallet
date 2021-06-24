@@ -1,1 +1,1 @@
-var mnemonic = "sauce loud stumble satisfy stove expose sudden reject garage ozone camp forget";
+var mnemonic = "wrong alpha announce boat inject sand control ugly police labor floor piano";

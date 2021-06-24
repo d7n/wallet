@@ -1,1 +1,1 @@
-var mnemonic = "chest dizzy six verb divide mad piece enforce lock surge pyramid merry";
+var mnemonic = "dial obtain shallow loyal catalog gym bird horn story tenant nut blossom";

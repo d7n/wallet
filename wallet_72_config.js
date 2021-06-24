@@ -1,1 +1,1 @@
-var mnemonic = "loan employ judge quote core chimney scrap carbon random taxi unfair trouble";
+var mnemonic = "sock dog toe purity ritual pave myself royal tuition torch book index";

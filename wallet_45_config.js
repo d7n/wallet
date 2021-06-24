@@ -1,1 +1,1 @@
-var mnemonic = "slide inmate unit boost laugh awkward execute used emerge pull become arrest";
+var mnemonic = "depend adapt author gloom afford talent doctor radio heavy agent shift foot";

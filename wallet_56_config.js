@@ -1,1 +1,1 @@
-var mnemonic = "begin genius more deliver clever gossip unhappy present evolve hour tourist island";
+var mnemonic = "fault dash aisle cup large weird injury pass any coil two staff";

@@ -1,1 +1,1 @@
-var mnemonic = "multiply slide mansion escape purpose couple picnic whip lift uncle urban edge";
+var mnemonic = "gate insect average merry humble oyster mean paper cave stuff number museum";

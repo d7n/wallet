@@ -1,1 +1,1 @@
-var mnemonic = "veteran field journey shove fringe then spray style fix insane vital bacon";
+var mnemonic = "will entry truck enlist sauce glory muscle name inherit hen antique armed";

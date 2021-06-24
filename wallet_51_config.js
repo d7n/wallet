@@ -1,1 +1,1 @@
-var mnemonic = "gospel leader bike fitness thumb resemble credit solve unlock knee chaos opera";
+var mnemonic = "select fork fruit salon photo under solar gauge draw acoustic valley area";

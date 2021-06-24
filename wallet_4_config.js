@@ -1,1 +1,1 @@
-var mnemonic = "dirt pudding veteran filter symbol ecology fee van nominee jar detail wage";
+var mnemonic = "viable wedding wolf wolf electric never sister soup spin capable hospital awesome";

@@ -1,1 +1,1 @@
-var mnemonic = "plastic friend quote joke impose early example movie cause glove trouble illegal";
+var mnemonic = "gasp economy slam mango neither shoulder cloud daughter sphere citizen brief broom";

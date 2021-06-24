@@ -1,1 +1,1 @@
-var mnemonic = "educate exercise dust parent candy project piano almost oppose portion silly abandon";
+var mnemonic = "include pigeon infant hidden code slogan coral park people robot absent task";

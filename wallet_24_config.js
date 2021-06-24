@@ -1,1 +1,1 @@
-var mnemonic = "morning want bullet peasant panic spoon extra swallow crystal spawn trash thumb";
+var mnemonic = "pudding choice render blast deliver hour puppy labor identify novel squeeze tennis";

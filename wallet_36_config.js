@@ -1,1 +1,1 @@
-var mnemonic = "race earn potato west horn margin daughter empower boost marble virtual panel";
+var mnemonic = "limb print life useless record absorb enjoy code task lazy grass left";

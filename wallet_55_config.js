@@ -1,1 +1,1 @@
-var mnemonic = "admit bunker truth prepare silent cheap bullet cash shaft act foam aim";
+var mnemonic = "indoor vendor grape pill axis source cabbage hub truly side erosion alien";

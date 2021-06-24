@@ -1,1 +1,1 @@
-var mnemonic = "collect palm margin speak scout elephant account endless ten seat path gap";
+var mnemonic = "run pipe adapt weather orbit drink mother wish surface report detect best";

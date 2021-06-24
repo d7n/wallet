@@ -1,1 +1,1 @@
-var mnemonic = "alcohol diet brick obvious near elbow spend icon hello apart wall body";
+var mnemonic = "tape follow federal ketchup until find urge discover fitness suffer cannon output";

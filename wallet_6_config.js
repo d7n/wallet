@@ -1,1 +1,1 @@
-var mnemonic = "river purity stove myth audit olive banana spring salute eight lion always";
+var mnemonic = "seek chicken into top one detail palace proof loan convince surprise gate";

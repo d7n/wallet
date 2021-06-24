@@ -1,1 +1,1 @@
-var mnemonic = "senior enrich powder obscure control forum top tackle wage evidence sand island";
+var mnemonic = "cliff nerve march health minimum then repair unknown confirm unable unaware hawk";

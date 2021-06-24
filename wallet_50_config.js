@@ -1,1 +1,1 @@
-var mnemonic = "all virus creek off cluster shield minor speak cliff frog floor excess";
+var mnemonic = "number air thrive tag group stool draw slow dumb future tube page";

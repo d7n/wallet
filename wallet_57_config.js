@@ -1,1 +1,1 @@
-var mnemonic = "flavor prize canvas tilt silk chaos crucial keen health heavy similar strike";
+var mnemonic = "ostrich build home review dream expire inject cost west excess belt pioneer";

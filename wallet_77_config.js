@@ -1,1 +1,1 @@
-var mnemonic = "child exact grape bid elephant supreme tilt monitor west celery chest second";
+var mnemonic = "day nice above decorate wave clever believe climb bracket office panther image";

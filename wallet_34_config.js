@@ -1,1 +1,1 @@
-var mnemonic = "coil angry fork anchor load match swing tackle jewel field quit silver";
+var mnemonic = "salute champion label sport emotion uncover green corn ridge worry august coconut";

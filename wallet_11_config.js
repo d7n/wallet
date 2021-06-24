@@ -1,1 +1,1 @@
-var mnemonic = "kind kidney group october reduce secret mansion abuse paddle donor unique brain";
+var mnemonic = "approve web blame boring conduct avocado exotic opinion obvious inspire spider ski";

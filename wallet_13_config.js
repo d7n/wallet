@@ -1,1 +1,1 @@
-var mnemonic = "domain sweet unfold scrub broken stage disorder giant opera fork valid various";
+var mnemonic = "fade skill stand rich other feature one cheap kiss faint catalog piece";

@@ -1,1 +1,1 @@
-var mnemonic = "useful around goddess spirit subway rib tumble gap balance envelope refuse rabbit";
+var mnemonic = "barely perfect subway cube erosion forward clip situate soap cherry witness episode";

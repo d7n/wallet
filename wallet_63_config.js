@@ -1,1 +1,1 @@
-var mnemonic = "message green expire genius seminar tube judge area scale garment almost stand";
+var mnemonic = "unaware ability seek heavy nerve unique train bunker clever mind purse order";

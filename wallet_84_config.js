@@ -1,1 +1,1 @@
-var mnemonic = "own slogan allow where case circle pledge spin sphere air select little";
+var mnemonic = "devote chef gaze march hour transfer fetch involve trade animal install romance";

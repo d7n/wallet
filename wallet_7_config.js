@@ -1,1 +1,1 @@
-var mnemonic = "have picnic detect again naive antique ribbon measure royal combine choose smile";
+var mnemonic = "seat title siege fold assist feature couch panic piece gate marble response";

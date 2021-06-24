@@ -1,1 +1,1 @@
-var mnemonic = "patrol shop snake latin talk shed open danger they strike piano cinnamon";
+var mnemonic = "grief actual diet main average liar grid absurd course drip furnace gold";

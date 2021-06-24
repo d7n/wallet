@@ -1,1 +1,1 @@
-var mnemonic = "flight success floor beyond frozen obscure tissue blush glad nut soup easy";
+var mnemonic = "tenant mouse peasant shift dry hour poem copper dad dial vault ghost";

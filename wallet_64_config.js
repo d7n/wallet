@@ -1,1 +1,1 @@
-var mnemonic = "modify broom noise fine child escape push area shadow other arena subject";
+var mnemonic = "assist mirror believe wolf clarify faith alert focus notice expose curious thought";

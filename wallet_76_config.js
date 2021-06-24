@@ -1,1 +1,1 @@
-var mnemonic = "language spoil genre like edit tip credit budget alcohol pelican camp advance";
+var mnemonic = "process there surge write stem gain skate oil siege eternal food tunnel";

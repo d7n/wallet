@@ -1,1 +1,1 @@
-var mnemonic = "today tilt stumble erase report leisure veteran pen social love oxygen property";
+var mnemonic = "false donor person project marine pitch speak pig sheriff gain bottom border";

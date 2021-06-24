@@ -1,1 +1,1 @@
-var mnemonic = "error member will cook truth loan ball poet tourist capital amazing light";
+var mnemonic = "dad zebra still pool shine cage impact stable loan party trash stomach";

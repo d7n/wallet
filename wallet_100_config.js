@@ -1,1 +1,1 @@
-var mnemonic = "say royal answer shine atom depart party quarter brave scissors term limb";
+var mnemonic = "play jar analyst pepper become hat east half oblige kitten salad express";

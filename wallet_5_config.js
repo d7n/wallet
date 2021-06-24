@@ -1,1 +1,1 @@
-var mnemonic = "final stone team please exist amateur thunder job wheel habit elder youth";
+var mnemonic = "fault super carry ramp trick place social basic vague battle abandon foster";

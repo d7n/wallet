@@ -1,1 +1,1 @@
-var mnemonic = "original disorder remove during quantum head agree arrest whale valley unaware transfer";
+var mnemonic = "advance nose evidence clutch letter wool timber device sort west pulse script";

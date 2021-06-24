@@ -1,1 +1,1 @@
-var mnemonic = "sport glue elite please business wet stem remain grass bird grant much";
+var mnemonic = "coach alien deposit grace install reduce weekend question word rapid dirt search";

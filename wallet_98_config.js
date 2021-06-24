@@ -1,1 +1,1 @@
-var mnemonic = "oval page ceiling inflict spin shrug canvas artwork find learn nest lock";
+var mnemonic = "machine speed pool agree ensure dream grid job hole spirit aware fruit";

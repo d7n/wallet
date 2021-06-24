@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo window palm topic valid party turn flip vivid prefer senior frozen";
+var mnemonic = "stand swing almost blur inhale canal journey slush crawl fire trophy private";

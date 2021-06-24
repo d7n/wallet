@@ -1,1 +1,1 @@
-var mnemonic = "fire nerve word club decade artist bottom trim silk reward swing swing";
+var mnemonic = "antenna found chunk abstract blame random weekend search sausage punch chunk female";

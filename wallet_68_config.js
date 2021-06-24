@@ -1,1 +1,1 @@
-var mnemonic = "upper basic mother wrap then success flip mushroom thrive emotion practice settle";
+var mnemonic = "field reduce siege winner orbit first property renew either finger silly song";

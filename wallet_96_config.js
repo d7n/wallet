@@ -1,1 +1,1 @@
-var mnemonic = "sand gaze ladder core attract doctor during accuse used noodle ivory tree";
+var mnemonic = "shy vicious absurd economy economy idea craft cereal assume clutch glue album";

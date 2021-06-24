@@ -1,1 +1,1 @@
-var mnemonic = "then maid remain purpose text tower poem season diamond rain prize develop";
+var mnemonic = "asthma extra brass zero base school top damage kangaroo pave venture tilt";

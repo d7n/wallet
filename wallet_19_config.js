@@ -1,1 +1,1 @@
-var mnemonic = "table very series bullet balance sell rebuild speak usage term slim prevent";
+var mnemonic = "few goose resource switch can guard rubber original juice convince bomb hybrid";

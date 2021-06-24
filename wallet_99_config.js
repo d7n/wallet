@@ -1,1 +1,1 @@
-var mnemonic = "radio danger cake win menu happy hour discover kick occur fan future";
+var mnemonic = "gown struggle correct promote leg side fortune siren embark basket happy limb";

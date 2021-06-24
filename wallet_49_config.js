@@ -1,1 +1,1 @@
-var mnemonic = "leader dish winter simple moon eagle bag admit cart sword note letter";
+var mnemonic = "ivory ugly apology toilet photo athlete hub any mosquito deny buddy catch";

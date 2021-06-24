@@ -1,1 +1,1 @@
-var mnemonic = "brown width coral tooth social riot crumble above slow adjust mutual vague";
+var mnemonic = "bunker stove together wheat sword burden either brass gym actress bleak lion";

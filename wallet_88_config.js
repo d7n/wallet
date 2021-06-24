@@ -1,1 +1,1 @@
-var mnemonic = "tide capital hazard cluster buzz couch raise grow palace card neither mouse";
+var mnemonic = "phone plate stereo recycle giggle sand main era pony example venue culture";

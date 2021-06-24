@@ -1,1 +1,1 @@
-var mnemonic = "swamp fiction grant actual ten discover thing wish attract step obvious garden";
+var mnemonic = "torch chef memory casual betray arch area marble ten oven crane all";

@@ -1,1 +1,1 @@
-var mnemonic = "speed naive business come giggle punch lounge drink edit belt reward convince";
+var mnemonic = "confirm provide ask camp video awful company tornado column extend review earth";

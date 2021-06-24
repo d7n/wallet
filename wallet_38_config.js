@@ -1,1 +1,1 @@
-var mnemonic = "room spend grit quit replace human spider shock cram cook pave ridge";
+var mnemonic = "shoot lion same injury bar dream draw buffalo sure profit arrive video";

@@ -1,1 +1,1 @@
-var mnemonic = "wild sad saddle relief antenna woman return also gadget atom degree elevator";
+var mnemonic = "ostrich drop alien hurdle galaxy apart coast jar sleep split grace midnight";

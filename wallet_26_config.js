@@ -1,1 +1,1 @@
-var mnemonic = "dragon school require cable cactus culture neither catch jump monitor relief tent";
+var mnemonic = "arrest sustain nature bus emotion tackle profit hub mosquito gallery alpha iron";

@@ -1,1 +1,1 @@
-var mnemonic = "huge stay middle muffin catalog vivid sand second elite increase moment danger";
+var mnemonic = "hidden survey lounge hub peace figure doll world regular also blast crystal";

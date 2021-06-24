@@ -1,1 +1,1 @@
-var mnemonic = "wine forum proud prosper extra laundry defy giant sell insane shine question";
+var mnemonic = "ball more patch raven lion two gaze height clutch renew roast list";

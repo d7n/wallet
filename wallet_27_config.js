@@ -1,1 +1,1 @@
-var mnemonic = "praise amateur good lab dry nut romance maid inside endorse spin wet";
+var mnemonic = "dutch eagle distance advance slender exchange sugar midnight mobile oyster crack merge";

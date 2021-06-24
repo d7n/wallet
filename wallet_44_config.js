@@ -1,1 +1,1 @@
-var mnemonic = "pencil domain fancy wheat engage relax kit weird bachelor drum pool lunar";
+var mnemonic = "chaos acid crunch motor joke fossil text cycle cattle ability solution coin";

@@ -1,1 +1,1 @@
-var mnemonic = "science love very odor limb dawn lunch journey nurse cute level sheriff";
+var mnemonic = "lumber wire bottom raw edge royal vital core direct traffic live matter";

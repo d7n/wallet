@@ -1,1 +1,1 @@
-var mnemonic = "stone comic rib grab symbol exist bitter laptop split curious spirit brown";
+var mnemonic = "surprise vapor baby mango chief extend unlock nerve before evil easily chat";

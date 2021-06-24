@@ -1,1 +1,1 @@
-var mnemonic = "tone aspect cruel repeat pink reject loyal welcome recycle deliver chunk cave";
+var mnemonic = "hospital sheriff rural garage planet tonight decorate load tell orchard mule limit";
