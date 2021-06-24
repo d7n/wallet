@@ -1,1 +1,1 @@
-var mnemonic = "action vault silly cheese mutual athlete undo tattoo hill hospital essay maple";
+var mnemonic = "title couch print diagram quit else sort ivory scan life during lunch";

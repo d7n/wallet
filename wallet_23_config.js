@@ -1,1 +1,1 @@
-var mnemonic = "paper course normal extend very sponsor tribe coffee wash miracle shell vital";
+var mnemonic = "cube pull outdoor battle scrub flag hammer require holiday erase mammal raw";

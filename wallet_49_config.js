@@ -1,1 +1,1 @@
-var mnemonic = "uncle keen large guess picture reduce hint treat shadow staff faith valve";
+var mnemonic = "pyramid buddy vehicle rough reunion combine have very child coin car inch";

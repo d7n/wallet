@@ -1,1 +1,1 @@
-var mnemonic = "catalog cement puppy tissue middle panel guide plunge tell knife purchase drift";
+var mnemonic = "roof prevent obey upgrade history humble tennis chair caught crouch just steak";

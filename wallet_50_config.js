@@ -1,1 +1,1 @@
-var mnemonic = "omit unhappy hair crazy property latin asthma unveil possible shed model office";
+var mnemonic = "analyst crucial movie practice diet rail whip pluck shine drum onion light";

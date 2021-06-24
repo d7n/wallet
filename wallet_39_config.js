@@ -1,1 +1,1 @@
-var mnemonic = "purchase anger illness verb peace maid witness sketch never couch track inherit";
+var mnemonic = "exact stand ripple cigar require front option wrestle mixture tell must hood";

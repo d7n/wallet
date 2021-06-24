@@ -1,1 +1,1 @@
-var mnemonic = "open blouse random royal oyster mind exhaust guard glance century supply rule";
+var mnemonic = "scorpion mom material sample warm birth flip stable follow kangaroo near strategy";

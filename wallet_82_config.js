@@ -1,1 +1,1 @@
-var mnemonic = "setup annual brass smart acid title floor pottery crash slender vapor staff";
+var mnemonic = "history lava pole squeeze develop book security gown bronze scrap wealth umbrella";

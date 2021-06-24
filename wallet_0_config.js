@@ -1,1 +1,1 @@
-var mnemonic = "trend yard move scan auto execute mountain soap leisure flock glide know";
+var mnemonic = "bless bar box mixed dry share weapon rib onion night diary region";

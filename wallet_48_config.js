@@ -1,1 +1,1 @@
-var mnemonic = "tail foil air begin miracle icon tool accuse aunt economy much replace";
+var mnemonic = "column master hope jungle weird soon manage strategy analyst rough nest book";

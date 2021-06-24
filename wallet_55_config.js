@@ -1,1 +1,1 @@
-var mnemonic = "walk chimney funny bridge tuna unique hollow deputy danger first erode pulp";
+var mnemonic = "strong spot swear remember churn proud grunt bracket glimpse amused forest walk";

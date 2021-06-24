@@ -1,1 +1,1 @@
-var mnemonic = "enrich gown cattle delay army reveal usual method current furnace undo parrot";
+var mnemonic = "weekend best umbrella special isolate because fault attitude magnet genuine web video";

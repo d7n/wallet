@@ -1,1 +1,1 @@
-var mnemonic = "torch ignore clump traffic april myself exit theory flag domain dance village";
+var mnemonic = "cabbage marble deposit sponsor glad bus squirrel borrow laugh flock crystal lawsuit";

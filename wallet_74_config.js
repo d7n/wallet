@@ -1,1 +1,1 @@
-var mnemonic = "private bulk can matrix express alone drop endorse asthma arrange liberty skin";
+var mnemonic = "wall fat leisure crystal digital acid worry stuff powder margin between audit";

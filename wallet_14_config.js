@@ -1,1 +1,1 @@
-var mnemonic = "improve solid music cat world table erosion sell guide occur grace cousin";
+var mnemonic = "random come obtain music actress cigar witness blade eye tent glimpse shock";

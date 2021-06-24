@@ -1,1 +1,1 @@
-var mnemonic = "phone hen filter dust inspire track super rate inherit friend farm hunt";
+var mnemonic = "finger buyer excite shine reform ocean property remove blanket devote holiday chicken";

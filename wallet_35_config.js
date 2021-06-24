@@ -1,1 +1,1 @@
-var mnemonic = "fossil swing sauce catalog cook orient analyst multiply cousin balcony grass theory";
+var mnemonic = "case advice try already patient talk alcohol inch job season category melody";

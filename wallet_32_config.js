@@ -1,1 +1,1 @@
-var mnemonic = "expose flush direct word three next leader jar call badge fall course";
+var mnemonic = "unusual unit breeze click cry vintage glance together invite find pulse alone";

@@ -1,1 +1,1 @@
-var mnemonic = "grab lake glow swarm worth hair bread welcome oblige hair human lunar";
+var mnemonic = "over audit north hover tower lab yard like cradle bomb garden bring";

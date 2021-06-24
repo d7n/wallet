@@ -1,1 +1,1 @@
-var mnemonic = "vivid neutral island circle sense siren vivid gossip proud receive cook identify";
+var mnemonic = "ceiling globe distance pave donate provide museum eagle edge siren test file";

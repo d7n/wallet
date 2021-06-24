@@ -1,1 +1,1 @@
-var mnemonic = "sunset argue panel frown measure innocent rib exist frozen pig focus movie";
+var mnemonic = "curtain grain stamp nasty include lyrics fade mutual river also monitor innocent";

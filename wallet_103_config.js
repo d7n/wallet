@@ -1,1 +1,1 @@
-var mnemonic = "blush culture dolphin wage deliver rich enemy festival shadow olive disagree street";
+var mnemonic = "develop stove liberty utility dice tail dry category govern odor army deal";

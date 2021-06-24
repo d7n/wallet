@@ -1,1 +1,1 @@
-var mnemonic = "female blade crawl shy mimic recycle there possible ghost conduct kiwi void";
+var mnemonic = "latin begin together web pledge bring pole creek keen olive foster prosper";

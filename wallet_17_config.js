@@ -1,1 +1,1 @@
-var mnemonic = "fantasy negative churn start walnut never siren pencil raven flag trigger sugar";
+var mnemonic = "risk credit choose wink lucky burst predict tube shrimp record gloom renew";

@@ -1,1 +1,1 @@
-var mnemonic = "dolphin turkey fire crisp jealous attend unhappy radar hurt napkin mule hand";
+var mnemonic = "sweet coach floor ribbon afford abstract erupt enhance unveil brief ill asthma";

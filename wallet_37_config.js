@@ -1,1 +1,1 @@
-var mnemonic = "syrup struggle anger symbol behind business prepare world right zero visual hand";
+var mnemonic = "veteran quiz cigar screen garment lizard cool trumpet normal sport woman infant";

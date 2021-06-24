@@ -1,1 +1,1 @@
-var mnemonic = "find opera talk forward garbage vague crawl heavy sheriff alert fossil stool";
+var mnemonic = "spice seat girl sound exotic spend kit off steel cram mobile steak";

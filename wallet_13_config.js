@@ -1,1 +1,1 @@
-var mnemonic = "extra twelve section always mouse write all fat sport squirrel olympic lake";
+var mnemonic = "trap mutual sheriff glance sunset spike sphere place stage come combine hood";

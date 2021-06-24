@@ -1,1 +1,1 @@
-var mnemonic = "hungry bargain creek beach exchange budget position transfer ill area rice mix";
+var mnemonic = "audit require multiply flat board alarm potato now park fluid stomach gorilla";

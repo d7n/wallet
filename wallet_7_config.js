@@ -1,1 +1,1 @@
-var mnemonic = "radar reform analyst hockey file number brush enjoy cement dwarf ship capital";
+var mnemonic = "art tired there gas leopard govern client traffic blood violin fit body";

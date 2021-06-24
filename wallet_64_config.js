@@ -1,1 +1,1 @@
-var mnemonic = "muscle extra help youth shield arrest food strategy federal doll draw clever";
+var mnemonic = "couch curious dad elephant latin cube hire whip weekend grant order visual";

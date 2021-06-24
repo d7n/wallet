@@ -1,1 +1,1 @@
-var mnemonic = "valley extend street broken during daring wire purchase cabin enact replace tilt";
+var mnemonic = "tool soft refuse during creek enough pepper among fork around crawl rescue";

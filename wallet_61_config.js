@@ -1,1 +1,1 @@
-var mnemonic = "swim palm person pretty easy tobacco mandate antique company juice woman like";
+var mnemonic = "expose frozen give wrist duty twist hundred tongue diesel gadget become clown";

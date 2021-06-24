@@ -1,1 +1,1 @@
-var mnemonic = "ranch cigar once image faint anxiety earn casual faint life crawl enact";
+var mnemonic = "frame affair kit embody robust pottery video remember other middle tool shaft";

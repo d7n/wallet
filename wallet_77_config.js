@@ -1,1 +1,1 @@
-var mnemonic = "harvest topple dune duck cause silver grid improve judge plunge frozen sibling";
+var mnemonic = "avoid round chair balcony clever size spider talk spring episode luggage valid";

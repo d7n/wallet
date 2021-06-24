@@ -1,1 +1,1 @@
-var mnemonic = "bean lobster simple brown scene ill there entry nut truth inflict crash";
+var mnemonic = "own drink december correct scheme scheme tennis trust network stem glow pattern";

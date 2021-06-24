@@ -1,1 +1,1 @@
-var mnemonic = "width thunder physical exercise prepare current junk antenna off obvious pelican icon";
+var mnemonic = "obey release social high permit exchange body enable field card tornado enjoy";

@@ -1,1 +1,1 @@
-var mnemonic = "stool bubble stool start decrease affair live develop family equal tray opera";
+var mnemonic = "lake sting engage gentle tonight gaze peace enemy letter shop subject jungle";

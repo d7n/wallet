@@ -1,1 +1,1 @@
-var mnemonic = "dynamic gorilla curtain water admit submit hedgehog normal neglect good island tuna";
+var mnemonic = "yard simple beyond tip crash seed primary urban flip accident appear mosquito";

@@ -1,1 +1,1 @@
-var mnemonic = "dizzy oak utility glare any merge bag envelope prepare ill banana under";
+var mnemonic = "wheel job title assume lift spice hip lobster wing hospital boss daughter";

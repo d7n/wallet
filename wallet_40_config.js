@@ -1,1 +1,1 @@
-var mnemonic = "whisper insane moment globe frog shiver member any recall sudden man foster";
+var mnemonic = "loud mammal click guard girl someone nothing other deposit bleak answer song";

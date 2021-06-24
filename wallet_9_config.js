@@ -1,1 +1,1 @@
-var mnemonic = "cash shuffle able similar image increase clump fringe episode pond meadow suggest";
+var mnemonic = "plastic finish twelve vanish area noise stuff there indoor scare lens hospital";

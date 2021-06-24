@@ -1,1 +1,1 @@
-var mnemonic = "silver violin mail device ostrich jump obey swap mention talk present cake";
+var mnemonic = "also salon enrich tonight cricket hundred scorpion prosper gospel beef real topic";

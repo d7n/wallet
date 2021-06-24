@@ -1,1 +1,1 @@
-var mnemonic = "wise retire beach ozone fancy embark helmet segment vibrant repeat fog stay";
+var mnemonic = "frog envelope blossom subway plate bird curtain melt border dragon miracle angle";

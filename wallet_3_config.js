@@ -1,1 +1,1 @@
-var mnemonic = "grief system lift item media tomorrow trust fancy list still taxi trust";
+var mnemonic = "member then square scorpion erupt during cook woman salute vicious insane nothing";

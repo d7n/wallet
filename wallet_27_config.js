@@ -1,1 +1,1 @@
-var mnemonic = "window action room about skirt arrest resist hockey blood slow decrease design";
+var mnemonic = "unfair ensure original panther you hospital lottery wife fuel cancel tumble toe";

@@ -1,1 +1,1 @@
-var mnemonic = "rival carry relax know cabbage neutral brand sock sorry episode lady cancel";
+var mnemonic = "dentist word sting remain enrich chalk flame mention monkey flock bus excess";

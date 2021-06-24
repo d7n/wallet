@@ -1,1 +1,1 @@
-var mnemonic = "tell unfair fiber child indoor atom kangaroo arrow abstract mule episode horror";
+var mnemonic = "stand physical mean supreme oval damp cause champion below comfort wage modify";

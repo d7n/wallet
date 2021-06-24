@@ -1,1 +1,1 @@
-var mnemonic = "dad merry easily private angry veteran educate foster snake obtain repeat practice";
+var mnemonic = "choose explain trouble various accuse before domain wrap assault motion bird polar";

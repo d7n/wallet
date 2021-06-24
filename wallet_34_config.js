@@ -1,1 +1,1 @@
-var mnemonic = "trust basic detail neutral during doctor again asthma fury draw blouse debris";
+var mnemonic = "erosion basket ranch arm like spell spirit green lunch strike alpha kit";

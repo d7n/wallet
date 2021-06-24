@@ -1,1 +1,1 @@
-var mnemonic = "exchange chapter soap vital ranch trash slight lumber harvest also shock shrug";
+var mnemonic = "strategy home wasp maple fog three barrel because staff charge squeeze harvest";

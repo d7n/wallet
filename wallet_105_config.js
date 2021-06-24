@@ -1,1 +1,1 @@
-var mnemonic = "tree law walk material state path extend nominee gap drama toy pyramid";
+var mnemonic = "noodle sand logic turn style match bomb gesture tonight lottery hold ethics";

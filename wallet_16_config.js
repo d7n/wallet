@@ -1,1 +1,1 @@
-var mnemonic = "museum method mix scheme era crop pair truth response track retreat cherry";
+var mnemonic = "patrol slogan dumb inspire chimney broccoli payment lazy lady piano fatal alert";

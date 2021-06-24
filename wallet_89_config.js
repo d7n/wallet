@@ -1,1 +1,1 @@
-var mnemonic = "friend guard rain assume melody concert alien danger ketchup frown camp bundle";
+var mnemonic = "start also diesel mixture regret size art brown ozone odor little cost";

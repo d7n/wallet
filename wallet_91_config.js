@@ -1,1 +1,1 @@
-var mnemonic = "grow skill jaguar inherit visa eternal lend install jar twelve cook question";
+var mnemonic = "sudden limit attend start uncover kit squeeze genuine pony museum race boring";

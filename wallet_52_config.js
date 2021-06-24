@@ -1,1 +1,1 @@
-var mnemonic = "purpose extra include moment olympic perfect clock elegant world deposit decorate glass";
+var mnemonic = "arrive main bulb brief eye swing butter reunion account secret pulp rack";

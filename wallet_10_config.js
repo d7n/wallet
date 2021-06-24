@@ -1,1 +1,1 @@
-var mnemonic = "crunch burger library close theme piece flush awful boil bird village remove";
+var mnemonic = "dress crane pond space box leg balance barrel champion muscle decorate pledge";

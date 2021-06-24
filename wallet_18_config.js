@@ -1,1 +1,1 @@
-var mnemonic = "frozen feed amount lonely chase match poet diamond gym future kitchen sting";
+var mnemonic = "regret inform prepare hub invest arch move mother daring thought gospel tell";

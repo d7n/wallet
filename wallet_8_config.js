@@ -1,1 +1,1 @@
-var mnemonic = "south surprise scrap garlic baby abuse exist plug stem shift gown powder";
+var mnemonic = "narrow excite moment voice guess profit crime raise exhibit vintage stuff divide";

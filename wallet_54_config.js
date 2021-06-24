@@ -1,1 +1,1 @@
-var mnemonic = "clap warfare private shell ski ladder skull story sample toilet wasp fox";
+var mnemonic = "attend purpose slim oppose yellow tape cute correct maximum narrow talk wet";

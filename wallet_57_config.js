@@ -1,1 +1,1 @@
-var mnemonic = "hat nature hour clip measure force despair lyrics diesel net mesh admit";
+var mnemonic = "weird oyster gauge vast plunge risk nature swift claim hint stick robust";

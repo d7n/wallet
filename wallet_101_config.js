@@ -1,1 +1,1 @@
-var mnemonic = "view potato humor point chest often smart nut club hair bracket walnut";
+var mnemonic = "need remove visual major deal attitude broken gown shuffle remove actress manual";

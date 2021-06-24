@@ -1,1 +1,1 @@
-var mnemonic = "derive skate muffin success police soldier surface nation pond faculty card garlic";
+var mnemonic = "mail used machine auction consider long rotate bounce glimpse upper snap alien";

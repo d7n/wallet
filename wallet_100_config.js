@@ -1,1 +1,1 @@
-var mnemonic = "live unique always such quality service achieve actual easily artefact boring fold";
+var mnemonic = "canoe news tackle scale genius vote prevent pistol faith hub regret boil";

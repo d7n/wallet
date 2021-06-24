@@ -1,1 +1,1 @@
-var mnemonic = "leisure mother deer pair cliff buyer frog vague circle humor ski main";
+var mnemonic = "memory cycle mention uphold abstract ring baby sock floor pet develop proud";

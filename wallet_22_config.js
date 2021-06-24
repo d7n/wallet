@@ -1,1 +1,1 @@
-var mnemonic = "height oblige fame cruise steel rival fall bargain dish exist soul rescue";
+var mnemonic = "tribe throw curve skull render shed swim endorse festival hazard strategy ginger";

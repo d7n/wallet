@@ -1,1 +1,1 @@
-var mnemonic = "erode various stove have brain save sea step rotate fault talk eyebrow";
+var mnemonic = "now orange start angle quarter option analyst faculty used rubber jump magic";

@@ -1,1 +1,1 @@
-var mnemonic = "orange oak change orphan pride share pretty rhythm reduce copy fine guess";
+var mnemonic = "honey pact hurt endorse disagree sight umbrella smoke stick dust impulse wink";

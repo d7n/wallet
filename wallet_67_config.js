@@ -1,1 +1,1 @@
-var mnemonic = "slot diet panther host frame angry post oak glare home card abstract";
+var mnemonic = "adapt away fame lamp autumn throw jar ski final impose believe direct";

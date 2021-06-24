@@ -1,1 +1,1 @@
-var mnemonic = "turn erode method utility capable town bless nest source tone sting humble";
+var mnemonic = "announce choice puzzle avoid inspire benefit truly camera cancel moon symptom almost";

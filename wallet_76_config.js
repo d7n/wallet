@@ -1,1 +1,1 @@
-var mnemonic = "hollow drastic clarify pilot hood glue version employ measure tent vanish soccer";
+var mnemonic = "rhythm emotion current car either ivory convince suggest smooth dog alpha object";

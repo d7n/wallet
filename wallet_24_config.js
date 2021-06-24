@@ -1,1 +1,1 @@
-var mnemonic = "urban love favorite bounce coin impulse bundle piano chase design idle topic";
+var mnemonic = "explain bright habit permit certain oval heavy board club impose eagle swap";

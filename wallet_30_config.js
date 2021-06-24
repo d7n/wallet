@@ -1,1 +1,1 @@
-var mnemonic = "cross easy define hobby joy clump bullet forum derive extend undo model";
+var mnemonic = "copper crew swap smile define angle forest attack outer that other sunset";

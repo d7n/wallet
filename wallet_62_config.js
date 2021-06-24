@@ -1,1 +1,1 @@
-var mnemonic = "chef quit regular view alcohol hand citizen youth morning float build hundred";
+var mnemonic = "crop mean chronic theme brown helmet leg eyebrow pulp february outdoor betray";

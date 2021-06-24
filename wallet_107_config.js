@@ -1,1 +1,1 @@
-var mnemonic = "inspire join alien borrow level safe arrange together victory become awkward pear";
+var mnemonic = "among expire sketch thunder buyer drop rival dumb ginger upset opinion right";

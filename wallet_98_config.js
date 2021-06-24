@@ -1,1 +1,1 @@
-var mnemonic = "crash chef symptom thank small blanket mandate must culture limit task design";
+var mnemonic = "laugh dress region pigeon rely verify letter bargain advice prefer win swift";

@@ -1,1 +1,1 @@
-var mnemonic = "twist drop convince puzzle also country please airport install law capital trouble";
+var mnemonic = "mix stuff corn bubble anxiety ordinary face dentist legend steak egg extend";

@@ -1,1 +1,1 @@
-var mnemonic = "domain cute dilemma rubber spike own crush cat zone dignity govern twist";
+var mnemonic = "govern slush cruel pull assume tiger scan opera magnet balance approve airport";

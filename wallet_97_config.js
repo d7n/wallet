@@ -1,1 +1,1 @@
-var mnemonic = "month man banner found wheel slush blame debris dolphin frost sense pear";
+var mnemonic = "truth able mountain stairs shuffle vibrant side hurt slice bone broken protect";

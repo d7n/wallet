@@ -1,1 +1,1 @@
-var mnemonic = "piano acquire spring tattoo hurry dress invite round margin enforce pipe plastic";
+var mnemonic = "comic barely recycle menu narrow disorder outdoor laptop energy ghost notable curtain";

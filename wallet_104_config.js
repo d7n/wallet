@@ -1,1 +1,1 @@
-var mnemonic = "sort urge couple noise hero sausage kitten crazy picture account era blue";
+var mnemonic = "weasel riot vintage device seven glass long obtain cram buyer uncle winner";

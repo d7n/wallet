@@ -1,1 +1,1 @@
-var mnemonic = "glove mobile smooth reveal laundry final inner label weasel play orbit worth";
+var mnemonic = "clock soul sunset frown fossil vacant shoulder license day modify ostrich swamp";

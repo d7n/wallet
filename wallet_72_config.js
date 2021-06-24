@@ -1,1 +1,1 @@
-var mnemonic = "size whale collect pave elbow grief diamond they random bring mirror edge";
+var mnemonic = "trim sunny adult route crew curtain rose between glide afraid fossil thing";

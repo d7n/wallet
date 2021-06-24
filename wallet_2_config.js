@@ -1,1 +1,1 @@
-var mnemonic = "clog catch belt more unaware poem poet trouble armor wish journey obtain";
+var mnemonic = "riot air come bright approve aspect hole modify ceiling woman head rose";

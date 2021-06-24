@@ -1,1 +1,1 @@
-var mnemonic = "explain fat choose charge drift off venue adjust knee soap ahead decade";
+var mnemonic = "tower bottom walnut meat sand turn edge demand first upon buzz core";

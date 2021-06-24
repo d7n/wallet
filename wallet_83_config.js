@@ -1,1 +1,1 @@
-var mnemonic = "drip defy wide slam cheap fit water margin payment tag actual fault";
+var mnemonic = "remain merit excuse wet pole excuse gown dog liberty place exile satisfy";

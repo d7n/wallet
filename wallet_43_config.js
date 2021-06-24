@@ -1,1 +1,1 @@
-var mnemonic = "ask badge cube owner sock what infant luxury predict boy foil daughter";
+var mnemonic = "film prison alpha puzzle phone aunt ocean jacket topic unlock shallow sleep";

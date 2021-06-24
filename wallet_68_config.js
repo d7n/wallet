@@ -1,1 +1,1 @@
-var mnemonic = "arrow number empower giant brave history party street day judge vote inspire";
+var mnemonic = "above fly dolphin cactus seminar ramp bamboo shock fee trust badge warfare";
