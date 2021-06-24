@@ -1,1 +1,1 @@
-var mnemonic = "pole keep attract carpet valid speed sibling opinion either humble market view";
+var mnemonic = "maximum admit chimney brick chest anchor easily life quantum tunnel seminar taste";

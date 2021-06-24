@@ -1,1 +1,1 @@
-var mnemonic = "alcohol prosper silk erase sell breeze horror hidden onion destroy cash machine";
+var mnemonic = "train almost chronic crowd cigar lake foot hamster artefact plug wool item";

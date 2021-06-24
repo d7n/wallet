@@ -1,1 +1,1 @@
-var mnemonic = "tape town pupil transfer heavy hero exercise glory buzz cave anchor between";
+var mnemonic = "chair remove enemy census pass hawk picture hurdle dial concert vapor rubber";

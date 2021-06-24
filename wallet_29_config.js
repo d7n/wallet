@@ -1,1 +1,1 @@
-var mnemonic = "rice sight kitchen claw glove chapter sadness timber utility thrive chronic decorate";
+var mnemonic = "skin umbrella clump night penalty creek betray battle fatigue ecology buzz toy";

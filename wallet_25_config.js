@@ -1,1 +1,1 @@
-var mnemonic = "moral coach derive already cute danger flag garbage month maple need combine";
+var mnemonic = "unit ten hamster orange ugly shove hope reunion ecology cluster crowd gasp";

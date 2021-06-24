@@ -1,1 +1,1 @@
-var mnemonic = "grit ranch salad polar rich weapon scissors border spy legend finger honey";
+var mnemonic = "east unique sing club month indoor level myth fancy flame wrestle scare";

@@ -1,1 +1,1 @@
-var mnemonic = "addict fun destroy ridge announce ticket attitude govern swing drip wing easy";
+var mnemonic = "broccoli special stick bonus hammer ghost add illegal giraffe east luggage immune";

@@ -1,1 +1,1 @@
-var mnemonic = "piano atom cage what problem palace faculty margin delay spike chair female";
+var mnemonic = "popular gun vessel shaft assist field future awkward beauty ecology fuel guitar";

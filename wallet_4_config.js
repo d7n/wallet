@@ -1,1 +1,1 @@
-var mnemonic = "rib idle umbrella abuse clock excite journey arrow shuffle keep pull amateur";
+var mnemonic = "real swift resemble fly flag explain again carpet oyster analyst dynamic claim";

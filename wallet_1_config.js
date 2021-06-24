@@ -1,1 +1,1 @@
-var mnemonic = "thunder fabric depend blur clog scatter model pink keep creek label vast";
+var mnemonic = "try pear hammer layer flame focus output walnut era improve donkey ordinary";

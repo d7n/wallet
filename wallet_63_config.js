@@ -1,1 +1,1 @@
-var mnemonic = "trade skin liquid bullet render fantasy gospel quality off economy radio fringe";
+var mnemonic = "mandate humor today marble amazing rent review habit rack snack identify custom";

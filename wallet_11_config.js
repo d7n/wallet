@@ -1,1 +1,1 @@
-var mnemonic = "retreat arm injury admit tissue symptom odor distance sea canal link confirm";
+var mnemonic = "rose budget kit summer celery axis erosion desert emerge list strategy false";

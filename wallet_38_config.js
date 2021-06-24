@@ -1,1 +1,1 @@
-var mnemonic = "elevator cabin almost flee salmon slice rigid orbit parade price safe strong";
+var mnemonic = "ocean soul arena crater earn diet true slot type shrug enjoy mosquito";

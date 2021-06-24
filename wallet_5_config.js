@@ -1,1 +1,1 @@
-var mnemonic = "city boat tiger setup wire method spare oil credit alien duck hold";
+var mnemonic = "buyer then diesel adult merge glow poem traffic just cereal crumble food";

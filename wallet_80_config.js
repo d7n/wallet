@@ -1,1 +1,1 @@
-var mnemonic = "siege churn hen now social life inmate group erase cloud join reform";
+var mnemonic = "coach fork glad duty betray coach curtain produce wash wife fire tunnel";

@@ -1,1 +1,1 @@
-var mnemonic = "chief drip pause reflect any tongue nothing film castle bright cruel style";
+var mnemonic = "camera nominee salute bundle purchase magnet floor rain pig wheat way paddle";

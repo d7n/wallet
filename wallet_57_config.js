@@ -1,1 +1,1 @@
-var mnemonic = "timber rule pride test broom link edge deny afraid dry enough adapt";
+var mnemonic = "phrase struggle ugly minute alter fantasy design dry maze resemble punch intact";

@@ -1,1 +1,1 @@
-var mnemonic = "scare portion click patrol clock skull force follow type supreme menu truck";
+var mnemonic = "extend auction manage cement habit anchor hand sea hero curtain shoe shy";

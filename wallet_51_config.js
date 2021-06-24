@@ -1,1 +1,1 @@
-var mnemonic = "fix dance stamp output jaguar gallery already hockey inch advice inherit cabbage";
+var mnemonic = "foam always also monkey crack cinnamon month danger shoe vital gossip excuse";

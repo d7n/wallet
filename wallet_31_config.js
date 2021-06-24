@@ -1,1 +1,1 @@
-var mnemonic = "cancel corn found shove steel sunny much foam range sentence shift mouse";
+var mnemonic = "filter crane panther near salmon few adult slight exit sunny poem gown";

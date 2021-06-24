@@ -1,1 +1,1 @@
-var mnemonic = "vacuum decide decrease hospital else vicious script unfair skull this thank scale";
+var mnemonic = "unit prepare hub foil once lyrics resemble journey parent spoil hunt valid";

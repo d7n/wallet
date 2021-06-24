@@ -1,1 +1,1 @@
-var mnemonic = "favorite piece spider armed sell pipe penalty again pattern ghost window siege";
+var mnemonic = "similar quote human control shaft bounce swamp episode hill mountain angry certain";

@@ -1,1 +1,1 @@
-var mnemonic = "floor kangaroo piece bus ribbon sniff avoid slim mushroom seat champion census";
+var mnemonic = "fetch want lunch vendor innocent kind away forward energy chase rose reopen";

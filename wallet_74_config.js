@@ -1,1 +1,1 @@
-var mnemonic = "loud grape remember rival cup govern napkin onion odor rescue noble bus";
+var mnemonic = "eagle clay faint game slam milk enroll walk swamp bitter rubber box";

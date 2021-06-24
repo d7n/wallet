@@ -1,1 +1,1 @@
-var mnemonic = "screen model document message boss trade enact wait mesh make sunny develop";
+var mnemonic = "eight delay spin puppy victory door question duck rare sustain afford skill";

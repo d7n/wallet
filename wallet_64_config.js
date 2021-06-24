@@ -1,1 +1,1 @@
-var mnemonic = "journey elevator rhythm soul crucial town patient zone demand bench only nice";
+var mnemonic = "dice engine drum industry term build gospel fan tube beach jelly empower";

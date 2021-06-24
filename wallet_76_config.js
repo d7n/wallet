@@ -1,1 +1,1 @@
-var mnemonic = "once million clever rail boost century pass priority spike guess speed boat";
+var mnemonic = "toast piano sauce undo easy credit october team elephant vault orphan profit";

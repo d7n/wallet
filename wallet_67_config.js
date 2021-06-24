@@ -1,1 +1,1 @@
-var mnemonic = "click razor update gorilla shoe twist sphere happy buffalo step bean adult";
+var mnemonic = "muffin roast sick spot develop online draft space wrap shed combine check";

@@ -1,1 +1,1 @@
-var mnemonic = "jungle like ahead humble north sustain omit prepare service accident afford unable";
+var mnemonic = "improve empty profit cheap velvet pave panic run spy sudden cube dirt";

@@ -1,1 +1,1 @@
-var mnemonic = "twelve estate brush reject evolve dutch drill salute eager grant solar pluck";
+var mnemonic = "provide foster damp extra come sport fee buyer future move match split";

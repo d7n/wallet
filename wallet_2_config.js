@@ -1,1 +1,1 @@
-var mnemonic = "uncover avocado install picture vacuum occur mother allow sight minimum olympic common";
+var mnemonic = "bamboo emotion punch year subway siege replace antique bronze dry expire flock";

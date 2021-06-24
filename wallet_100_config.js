@@ -1,1 +1,1 @@
-var mnemonic = "common visa income vote innocent card guess elite gentle sad leg just";
+var mnemonic = "parade symptom infant give elite fury canal expose explain begin include banana";

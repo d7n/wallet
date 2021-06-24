@@ -1,1 +1,1 @@
-var mnemonic = "poverty start wheel bicycle apple box very much pull sweet pepper video";
+var mnemonic = "museum pistol ocean orange salad flag long such immense shuffle purse wedding";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz help sister gossip disorder trial material want pair already kick ring";
+var mnemonic = "top shield cable assist ocean unfold increase current jewel regret category metal";

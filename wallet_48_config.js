@@ -1,1 +1,1 @@
-var mnemonic = "caught debris trend bubble valid cram bicycle nut cruise hunt hub frozen";
+var mnemonic = "struggle put scout vault fiscal kiwi announce nasty snake lonely sport pond";

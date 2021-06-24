@@ -1,1 +1,1 @@
-var mnemonic = "all another capable normal summer sheriff ecology grief census spawn lizard print";
+var mnemonic = "ghost staff matrix pilot purse dizzy hard foster response boss mail season";

@@ -1,1 +1,1 @@
-var mnemonic = "copper spatial evil armed orphan rotate inside shell educate become latin custom";
+var mnemonic = "file tone term toy pioneer hidden during ball palm fever void art";

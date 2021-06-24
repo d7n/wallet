@@ -1,1 +1,1 @@
-var mnemonic = "patrol smile depth mandate mouse sea fantasy include bleak waste outside math";
+var mnemonic = "grocery siren similar symptom glimpse liberty lawn pair blossom dice corn sketch";

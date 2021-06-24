@@ -1,1 +1,1 @@
-var mnemonic = "step pond sure detail space clean increase alarm robot hammer merge twist";
+var mnemonic = "industry idea kangaroo certain year love lens idea air maze supply true";

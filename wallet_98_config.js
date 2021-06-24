@@ -1,1 +1,1 @@
-var mnemonic = "inherit tribe gift spoil flower torch resource gossip flavor obey rigid amazing";
+var mnemonic = "like stumble celery bamboo advice visit grab ready matrix try supreme pave";

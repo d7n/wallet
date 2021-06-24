@@ -1,1 +1,1 @@
-var mnemonic = "ride fiscal lion salmon unusual march tortoise tank winner flat drive that";
+var mnemonic = "hood street various total fatal dial subject inner stamp basket sell bundle";

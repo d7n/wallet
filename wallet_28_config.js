@@ -1,1 +1,1 @@
-var mnemonic = "join glimpse throw gossip person film taste aerobic unveil kid agent derive";
+var mnemonic = "opinion garlic suggest burden tissue moon cousin road device milk oak shed";

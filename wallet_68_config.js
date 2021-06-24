@@ -1,1 +1,1 @@
-var mnemonic = "turtle desert emotion rose siege veteran permit change million upon reject present";
+var mnemonic = "famous chair barely bench eight expose struggle crisp duck similar album door";

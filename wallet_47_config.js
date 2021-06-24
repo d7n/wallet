@@ -1,1 +1,1 @@
-var mnemonic = "bone table alter chat choice million focus wait ridge found obey box";
+var mnemonic = "farm flight latin stairs sniff success blind net buzz holiday item defense";

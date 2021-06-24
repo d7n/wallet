@@ -1,1 +1,1 @@
-var mnemonic = "convince phone bamboo relief civil outer syrup casino board prison because tiny";
+var mnemonic = "van liquid grab quality replace property whale dirt few absorb raccoon lawn";

@@ -1,1 +1,1 @@
-var mnemonic = "suffer control author mother guess mix misery paddle door rural toss bike";
+var mnemonic = "rug wool federal vault female turtle shy between struggle mouse gauge sustain";

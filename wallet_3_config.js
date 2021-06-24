@@ -1,1 +1,1 @@
-var mnemonic = "puppy library carbon ankle cry fluid bench visa nice ritual ordinary this";
+var mnemonic = "reason song segment flock tennis alcohol toss reopen cheese jaguar ancient shoot";

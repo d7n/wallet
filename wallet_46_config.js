@@ -1,1 +1,1 @@
-var mnemonic = "middle exchange song broccoli inquiry horn moral junk lava grocery budget tuna";
+var mnemonic = "trust useless dove vanish inmate behave radar first slide dance gospel correct";

@@ -1,1 +1,1 @@
-var mnemonic = "shop symbol exchange mercy grain siren wolf bridge radar avocado ozone section";
+var mnemonic = "trap suit weird essay symptom elder camera virus mass busy gaze gloom";

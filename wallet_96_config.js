@@ -1,1 +1,1 @@
-var mnemonic = "upgrade civil donate excess broccoli ridge team stove cliff traffic fortune then";
+var mnemonic = "select piece country tortoise electric arrange strategy absurd layer assume pattern kite";

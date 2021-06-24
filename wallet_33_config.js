@@ -1,1 +1,1 @@
-var mnemonic = "rigid small unlock common rude law either near recall square govern secret";
+var mnemonic = "purchase keep blush siren metal split brisk aisle twenty bottom meat region";

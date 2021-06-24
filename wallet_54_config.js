@@ -1,1 +1,1 @@
-var mnemonic = "satisfy ranch phone hair join axis stay video smart jacket laugh carbon";
+var mnemonic = "voyage live veteran quantum perfect welcome birth mix sand moral mixed hollow";

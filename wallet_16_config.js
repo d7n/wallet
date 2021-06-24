@@ -1,1 +1,1 @@
-var mnemonic = "rather adjust dry build alcohol produce inject gallery final size spoil material";
+var mnemonic = "offer borrow purpose bargain solve brass mail liberty vote object present air";

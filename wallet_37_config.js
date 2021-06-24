@@ -1,1 +1,1 @@
-var mnemonic = "bonus humble desk imitate soap text labor sell birth material fresh couch";
+var mnemonic = "heart bacon oval twice notice tattoo oppose cup enlist crush frame car";

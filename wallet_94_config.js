@@ -1,1 +1,1 @@
-var mnemonic = "where cousin immune mansion team meadow oyster salute electric test speak despair";
+var mnemonic = "develop usual margin amazing depth ahead ahead snap miracle tower panda shine";

@@ -1,1 +1,1 @@
-var mnemonic = "charge maze divorce jazz august blast retire brisk idea alert wonder crew";
+var mnemonic = "gun rebuild tortoise original practice typical case dilemma hurdle spare snake advance";

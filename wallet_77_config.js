@@ -1,1 +1,1 @@
-var mnemonic = "rent oval early early team auto pass guide blossom saddle finish gap";
+var mnemonic = "tourist flock spread inside pilot above saddle delay dentist language elder frequent";

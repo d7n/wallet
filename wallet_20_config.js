@@ -1,1 +1,1 @@
-var mnemonic = "cotton shrimp female sound output episode industry picnic calm zero glad sugar";
+var mnemonic = "insane parent sock spoon maple leave width shoulder recycle journey latin disease";

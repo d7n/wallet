@@ -1,1 +1,1 @@
-var mnemonic = "legal crunch tragic coral coconut jeans strike hand afraid bullet episode core";
+var mnemonic = "panel next tool display dry truly say mango frown end give rhythm";

@@ -1,1 +1,1 @@
-var mnemonic = "blouse very fiber more stand among orphan deputy steel goddess hill unknown";
+var mnemonic = "exhibit cinnamon educate issue circle double protect forum amateur mask predict large";

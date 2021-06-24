@@ -1,1 +1,1 @@
-var mnemonic = "scale trade fork swarm opinion dune grace syrup gain attitude final cigar";
+var mnemonic = "apology slam fold solid industry tone theme portion betray wild title ghost";

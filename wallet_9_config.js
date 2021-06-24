@@ -1,1 +1,1 @@
-var mnemonic = "tuition test trumpet hurry mouse flower name struggle endless blame raw alien";
+var mnemonic = "misery rival auction fresh crisp country employ shield divert entry draw expect";

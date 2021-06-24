@@ -1,1 +1,1 @@
-var mnemonic = "snap pen hover victory shock young couple glimpse welcome youth diagram enlist";
+var mnemonic = "uncover define focus device blouse stairs north burger zero town talent decide";

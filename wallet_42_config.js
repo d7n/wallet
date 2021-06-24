@@ -1,1 +1,1 @@
-var mnemonic = "monitor marine enter thunder meadow clinic wonder jar change search physical interest";
+var mnemonic = "fame human wrong skirt pave bean river can garlic record shine impact";

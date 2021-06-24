@@ -1,1 +1,1 @@
-var mnemonic = "blur hire mechanic myself install combine one inhale unknown dish estate sort";
+var mnemonic = "admit crucial broom laugh kid swallow junior chapter occur upper oppose piano";

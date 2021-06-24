@@ -1,1 +1,1 @@
-var mnemonic = "crash lunar skill cannon trap warrior raw rally curtain awkward treat giraffe";
+var mnemonic = "steel artist speed now planet fly south canal friend reopen horse submit";

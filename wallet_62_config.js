@@ -1,1 +1,1 @@
-var mnemonic = "toward convince educate chunk element crush solution end shiver fiber purity you";
+var mnemonic = "essence still three exact game avoid fragile slow dumb exact soap cluster";

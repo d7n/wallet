@@ -1,1 +1,1 @@
-var mnemonic = "copy oval elder curve arrest inform bike decline inject they custom car";
+var mnemonic = "image tone chest wrestle play advice relax tube wrestle view link mixture";

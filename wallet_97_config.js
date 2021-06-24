@@ -1,1 +1,1 @@
-var mnemonic = "calm voyage input pulse pistol infant suspect tackle spirit fever minute power";
+var mnemonic = "jealous west camera tape melody tilt fantasy team never clown dirt library";

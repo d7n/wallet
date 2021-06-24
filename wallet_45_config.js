@@ -1,1 +1,1 @@
-var mnemonic = "unhappy sniff own loyal blood toward tag hybrid equal curtain urban bamboo";
+var mnemonic = "toss winter slow model pony frost window gown wasp hello gun begin";

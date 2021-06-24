@@ -1,1 +1,1 @@
-var mnemonic = "thumb zone supreme erupt train history bind gasp silver little tongue wall";
+var mnemonic = "cabin spatial ancient claim treat pledge project capital mass critic smile stick";

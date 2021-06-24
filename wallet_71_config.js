@@ -1,1 +1,1 @@
-var mnemonic = "ritual silly fatal churn expect rough way solve afraid attack ring rally";
+var mnemonic = "fabric bomb ranch lock dismiss already perfect seven damage dentist decrease guard";

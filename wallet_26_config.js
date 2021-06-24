@@ -1,1 +1,1 @@
-var mnemonic = "toilet sentence shed topple gift rhythm walk obscure forest output goat labor";
+var mnemonic = "twice narrow sadness avocado awkward math tomato goddess ramp wheel ahead weapon";

@@ -1,1 +1,1 @@
-var mnemonic = "mind toddler man erosion anchor case bachelor neutral elbow bright lab cabbage";
+var mnemonic = "truck kick off august jazz once art minute wing federal tomorrow speak";

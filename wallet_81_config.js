@@ -1,1 +1,1 @@
-var mnemonic = "portion hip stick nephew language sponsor cause erosion gather slim stem original";
+var mnemonic = "frozen dose acquire obey motor ski zebra awesome fire thrive payment drip";

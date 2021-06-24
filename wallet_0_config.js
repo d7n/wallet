@@ -1,1 +1,1 @@
-var mnemonic = "segment swarm dance park two owner popular inside galaxy lonely want live";
+var mnemonic = "agent move sell immune gauge country mountain celery example shield ocean give";

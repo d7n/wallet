@@ -1,1 +1,1 @@
-var mnemonic = "pluck van distance hybrid then heart pony layer exact breeze indoor visual";
+var mnemonic = "patrol ridge network taxi shiver tilt april truly tail coil pumpkin timber";

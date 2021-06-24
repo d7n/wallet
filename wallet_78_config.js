@@ -1,1 +1,1 @@
-var mnemonic = "range seven fresh disease inner sketch first like brother else slogan peace";
+var mnemonic = "mechanic escape toast edit slim foot decade civil home chronic wreck shallow";

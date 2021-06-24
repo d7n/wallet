@@ -1,1 +1,1 @@
-var mnemonic = "session during ask unique absorb matrix cave kind hand warrior concert bubble";
+var mnemonic = "sail coach also grocery since barrel glad finish observe huge release tortoise";

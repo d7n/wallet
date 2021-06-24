@@ -1,1 +1,1 @@
-var mnemonic = "cancel volume lobster liar balance city start upgrade salmon crazy walk lift";
+var mnemonic = "cancel catalog ramp horn toe frame bench cement oil similar noble betray";

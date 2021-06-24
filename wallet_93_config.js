@@ -1,1 +1,1 @@
-var mnemonic = "cross stool power century crop inherit address service add oil hire cotton";
+var mnemonic = "dinosaur nominee assist surge social clutch awful car measure light festival pear";

@@ -1,1 +1,1 @@
-var mnemonic = "style section oil window danger violin forget vicious accuse kit liberty pave";
+var mnemonic = "combine uphold feature horse virus nose food clinic easily rib section quit";

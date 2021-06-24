@@ -1,1 +1,1 @@
-var mnemonic = "hobby vast please illegal panic man law twice they census cram glide";
+var mnemonic = "panda ramp slight rescue heavy gauge skull type miracle absent anxiety fashion";

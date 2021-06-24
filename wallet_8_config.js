@@ -1,1 +1,1 @@
-var mnemonic = "horror suspect decline basket giraffe save panda walnut twelve razor meat ocean";
+var mnemonic = "coyote pilot proof soul dream plug school depend join material sport there";

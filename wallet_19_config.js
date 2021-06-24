@@ -1,1 +1,1 @@
-var mnemonic = "mind electric clean echo morning electric trophy patrol humor giant guilt tourist";
+var mnemonic = "stool taste sad grit scissors immense tomorrow crash grace carpet clog wash";

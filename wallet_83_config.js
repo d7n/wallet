@@ -1,1 +1,1 @@
-var mnemonic = "tomato truly agent bargain embrace flash install birth lounge glance pipe exact";
+var mnemonic = "attend much angle agree wing huge vivid truck vital bind apple noble";

@@ -1,1 +1,1 @@
-var mnemonic = "hybrid alien million divert helmet cross step sausage level winner blur fine";
+var mnemonic = "garbage live bring sing sting clown dice loop kite love conduct harvest";

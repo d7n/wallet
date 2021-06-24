@@ -1,1 +1,1 @@
-var mnemonic = "divide grow cheap bike cluster dash adjust imitate hungry balance city stadium";
+var mnemonic = "shrug code argue zoo science army glue size shed jazz maze museum";

@@ -1,1 +1,1 @@
-var mnemonic = "couple bronze motion soldier spring cook paddle leisure gasp black gap scare";
+var mnemonic = "concert taste alert unknown column trash forward ridge balance story child shrug";

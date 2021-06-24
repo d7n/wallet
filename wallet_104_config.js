@@ -1,1 +1,1 @@
-var mnemonic = "that double grape cupboard level vicious open there seek bid thank base";
+var mnemonic = "educate beach soul spike estate local prosper already vintage onion casino heart";

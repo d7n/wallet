@@ -1,1 +1,1 @@
-var mnemonic = "evolve potato maximum asthma mandate speak unique father tent pen jump exile";
+var mnemonic = "radar light river scan plastic element clock ten sibling robot fault menu";

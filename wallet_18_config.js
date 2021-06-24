@@ -1,1 +1,1 @@
-var mnemonic = "morning ordinary diet latin hub penalty prison mention deal front tag target";
+var mnemonic = "double tank special find close obey pill any purpose surface rescue rotate";

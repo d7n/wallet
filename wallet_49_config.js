@@ -1,1 +1,1 @@
-var mnemonic = "relief spin human secret myself bargain quarter palace silver seven about discover";
+var mnemonic = "time move also yard regular join slight arrest gold execute picture soon";

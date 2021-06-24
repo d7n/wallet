@@ -1,1 +1,1 @@
-var mnemonic = "tag turkey brief pact object concert orient chronic win mixed lizard stable";
+var mnemonic = "govern stem session tornado cage clerk angle search screen climb arctic razor";

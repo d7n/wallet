@@ -1,1 +1,1 @@
-var mnemonic = "mandate width isolate fog morning life world obscure occur tilt minor once";
+var mnemonic = "flash bridge amount card suit clay tilt phone juice hope blanket shoot";
