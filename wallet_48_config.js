@@ -1,1 +1,1 @@
-var mnemonic = "piano wife infant wife mention lab rain sign vendor advance magnet consider";
+var mnemonic = "length enable double winter park sketch mammal book strategy please forward border";

@@ -1,1 +1,1 @@
-var mnemonic = "army harsh spread raccoon thrive stock stairs erosion alley away rapid consider";
+var mnemonic = "festival seed cream student nature hollow cost guide animal street truth beyond";

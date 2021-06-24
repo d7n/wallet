@@ -1,1 +1,1 @@
-var mnemonic = "mercy present art turtle stadium lock notable rebel unhappy despair great series";
+var mnemonic = "summer finish laugh enhance essence heart harbor gym essay cushion choose pretty";

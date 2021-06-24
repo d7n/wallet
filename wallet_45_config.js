@@ -1,1 +1,1 @@
-var mnemonic = "asset congress assume bundle empty timber rubber hobby giraffe arena churn kitchen";
+var mnemonic = "require cereal neck boat adult enjoy sunset vacuum fault wash despair ladder";

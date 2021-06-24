@@ -1,1 +1,1 @@
-var mnemonic = "excuse follow buddy margin toward crime smile regular pupil fancy excuse boil";
+var mnemonic = "pen real until brain soul entire distance admit narrow since rapid nominee";

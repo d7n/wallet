@@ -1,1 +1,1 @@
-var mnemonic = "erosion improve interest sorry daughter issue shaft skull awesome angry coral install";
+var mnemonic = "sound top worth wrist welcome dignity stamp tenant invest street protect become";

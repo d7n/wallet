@@ -1,1 +1,1 @@
-var mnemonic = "elevator clown smoke happy scheme shadow unveil diamond cruise devote damp video";
+var mnemonic = "wood menu spell aim vacuum noodle guilt label neck oyster believe transfer";

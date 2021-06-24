@@ -1,1 +1,1 @@
-var mnemonic = "glide announce lake hollow scatter orchard return sweet phone odor box logic";
+var mnemonic = "captain write vanish sport eye robust rail equal valid forward accuse unfold";

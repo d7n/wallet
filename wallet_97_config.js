@@ -1,1 +1,1 @@
-var mnemonic = "insect clog poem frown brush elder spend above west vacant hood custom";
+var mnemonic = "notable voyage shadow palm wall sweet program shoe outdoor hip off opera";

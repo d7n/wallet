@@ -1,1 +1,1 @@
-var mnemonic = "kitten stable embark raw witness rotate organ slight neutral final twelve breeze";
+var mnemonic = "fly resist illness month glove walnut excite accident noise plug entry borrow";

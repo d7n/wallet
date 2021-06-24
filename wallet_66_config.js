@@ -1,1 +1,1 @@
-var mnemonic = "virus long thank vast spin hurt memory fatal buyer guitar better strike";
+var mnemonic = "place ostrich sign garden motion sell excess foster tree fringe pottery laptop";

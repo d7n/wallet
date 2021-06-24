@@ -1,1 +1,1 @@
-var mnemonic = "wealth lend able arrange toe account crucial hurt truth old payment solar";
+var mnemonic = "task leave media garbage tomorrow boil zoo welcome room artist armed build";

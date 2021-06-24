@@ -1,1 +1,1 @@
-var mnemonic = "salmon east motion rare faith grain test excuse scene cross grit lady";
+var mnemonic = "time race odor sad region thing salon resist artefact impose spy cash";

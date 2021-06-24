@@ -1,1 +1,1 @@
-var mnemonic = "earth zero put bamboo settle purse twist announce equip brisk twelve interest";
+var mnemonic = "april blood situate unit maze earn remind normal cash ribbon arena wolf";

@@ -1,1 +1,1 @@
-var mnemonic = "opinion turn gate detect garage potato object antenna cook waste danger town";
+var mnemonic = "autumn order roast guilt execute violin effort frown where horror minimum distance";

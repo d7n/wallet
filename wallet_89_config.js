@@ -1,1 +1,1 @@
-var mnemonic = "sight anchor swim accident saddle coach misery torch pilot lamp crowd quit";
+var mnemonic = "chest slush mesh flame moon bid menu surprise lemon plate surge mango";

@@ -1,1 +1,1 @@
-var mnemonic = "pudding simple napkin help convince effort carpet pair absurd soccer armor lab";
+var mnemonic = "staff version collect rich dust oppose dial truly report quantum busy color";

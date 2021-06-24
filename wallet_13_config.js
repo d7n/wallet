@@ -1,1 +1,1 @@
-var mnemonic = "amount elephant opera divorce student elder mix label glue strong enough denial";
+var mnemonic = "ketchup glove mean emotion grow clerk zone view item hotel rotate around";

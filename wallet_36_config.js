@@ -1,1 +1,1 @@
-var mnemonic = "wave sausage crime solar monitor stage provide essay frost garbage yellow organ";
+var mnemonic = "victory pole core forum ivory fantasy public sock analyst flash trouble family";

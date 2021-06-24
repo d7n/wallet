@@ -1,1 +1,1 @@
-var mnemonic = "have web visual sea churn aspect social pumpkin chaos stove harsh vote";
+var mnemonic = "verb portion lonely recipe velvet gesture trust mango pigeon life weekend bus";

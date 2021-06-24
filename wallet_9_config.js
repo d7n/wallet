@@ -1,1 +1,1 @@
-var mnemonic = "music drastic satisfy stone range morning style obey stomach wash tonight comfort";
+var mnemonic = "turtle shop strong hope cruise rain give clean odor misery job mammal";

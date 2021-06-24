@@ -1,1 +1,1 @@
-var mnemonic = "leader laugh target bracket motor fix able ethics ugly cover diesel crisp";
+var mnemonic = "mandate dial repair skirt anxiety observe insect drip census company pyramid charge";

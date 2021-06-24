@@ -1,1 +1,1 @@
-var mnemonic = "bachelor ketchup exhaust orchard cost sleep economy autumn reveal girl south typical";
+var mnemonic = "claim glad liar topic hidden media margin wet cattle fiscal lady toddler";

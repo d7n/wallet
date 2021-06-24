@@ -1,1 +1,1 @@
-var mnemonic = "useless boil logic expose cotton ordinary garden comic alone rough chronic release";
+var mnemonic = "list cradle close can evil body fat cycle trouble web gather side";

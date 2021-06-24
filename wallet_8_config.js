@@ -1,1 +1,1 @@
-var mnemonic = "angry found degree void abandon thank category pulse rack negative orient invite";
+var mnemonic = "stamp canyon stable bitter fragile risk volume curious coffee broccoli length organ";

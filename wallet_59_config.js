@@ -1,1 +1,1 @@
-var mnemonic = "problem ocean change strike drift siren ski purpose fiscal onion submit health";
+var mnemonic = "rural betray abstract blur honey economy mountain unit art tower buffalo hover";

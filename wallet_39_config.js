@@ -1,1 +1,1 @@
-var mnemonic = "fade work music illness keep pond ride immune invite help smoke toss";
+var mnemonic = "play ball novel biology weasel unique upgrade dizzy rally swallow word first";

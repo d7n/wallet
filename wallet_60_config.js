@@ -1,1 +1,1 @@
-var mnemonic = "volcano feature magnet news crumble claim thrive educate denial copper attack gaze";
+var mnemonic = "sing never will onion soft waste detect peasant elephant edit leader twice";

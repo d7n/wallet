@@ -1,1 +1,1 @@
-var mnemonic = "enact fabric season toss tuition license maple math prize alien ill token";
+var mnemonic = "wood clinic tube either fire energy uncover cattle thunder size judge shed";

@@ -1,1 +1,1 @@
-var mnemonic = "spy vibrant gossip gun common bind speed decade fragile indoor entry room";
+var mnemonic = "legal output point saddle eight clock walnut mansion limb exact cabin episode";

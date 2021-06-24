@@ -1,1 +1,1 @@
-var mnemonic = "dress joke patient color royal shaft load before awesome giggle brass rib";
+var mnemonic = "rival puzzle appear baby twin candy update inherit accuse vanish plate left";

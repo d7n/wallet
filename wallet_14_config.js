@@ -1,1 +1,1 @@
-var mnemonic = "coin adjust about ivory endless report goat able calm isolate indoor pupil";
+var mnemonic = "iron party own payment obvious glove syrup tunnel rebuild prize embody obvious";

@@ -1,1 +1,1 @@
-var mnemonic = "camera public blame hungry stool skirt rotate depart record celery impose mercy";
+var mnemonic = "sea jealous steak already kiss warrior artefact violin someone giant churn sail";

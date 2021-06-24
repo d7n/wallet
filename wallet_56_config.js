@@ -1,1 +1,1 @@
-var mnemonic = "wet ankle card carpet useless exercise enjoy churn swarm yard lake spell";
+var mnemonic = "found inmate void rate luggage battle soccer tribe arena figure crime gravity";

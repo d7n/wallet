@@ -1,1 +1,1 @@
-var mnemonic = "enrich sting wide curve tape frown business jump brain violin furnace picture";
+var mnemonic = "layer soup divorce mesh crane paddle syrup carbon bone thrive front verify";

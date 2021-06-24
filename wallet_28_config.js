@@ -1,1 +1,1 @@
-var mnemonic = "enhance because ugly twenty athlete average enable aunt pass room peasant decrease";
+var mnemonic = "spot worry title urban news purpose surprise volume ketchup man smooth shield";

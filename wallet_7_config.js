@@ -1,1 +1,1 @@
-var mnemonic = "there lady cushion raise bid into balance zero clinic spring job boss";
+var mnemonic = "toss breeze wool private twelve thumb ginger trumpet obtain glide wet struggle";

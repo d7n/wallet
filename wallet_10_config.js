@@ -1,1 +1,1 @@
-var mnemonic = "finish climb pull annual decrease antique absorb rebuild sunset logic family misery";
+var mnemonic = "orphan leaf sunset glory river slab bench crew slide share mad swap";

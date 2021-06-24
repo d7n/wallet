@@ -1,1 +1,1 @@
-var mnemonic = "attitude write switch enrich boss retreat invest need pact rate logic donor";
+var mnemonic = "wonder dragon okay hurt fold cradle risk arm time video animal horror";

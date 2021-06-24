@@ -1,1 +1,1 @@
-var mnemonic = "harvest zero shaft rule heavy all common present argue trouble fat wagon";
+var mnemonic = "december tell dolphin heavy usage orient fatal fork already almost behave panda";

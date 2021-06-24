@@ -1,1 +1,1 @@
-var mnemonic = "suit hockey start surface marriage cheese vehicle club giraffe tell crash card";
+var mnemonic = "inch village slide slot impose case route panda carbon fix provide cute";

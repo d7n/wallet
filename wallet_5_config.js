@@ -1,1 +1,1 @@
-var mnemonic = "coach worry battle arrest fall mammal talent fiction action spy outdoor census";
+var mnemonic = "analyst valve police link modify stuff process diamond fork pole salute employ";

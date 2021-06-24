@@ -1,1 +1,1 @@
-var mnemonic = "help violin eye wink angry rude subject random close expand bleak energy";
+var mnemonic = "address picnic shine route gather trap piano market cabbage announce nurse pistol";

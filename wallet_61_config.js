@@ -1,1 +1,1 @@
-var mnemonic = "earth amazing luggage jar cannon shoulder ride teach refuse salon party save";
+var mnemonic = "model lion few develop solution depth chapter hope person slight ask outer";

@@ -1,1 +1,1 @@
-var mnemonic = "march meat palm walk tongue affair under pepper guilt gorilla bottom social";
+var mnemonic = "claim hedgehog mobile index repeat pass slogan thrive medal girl cargo pudding";

@@ -1,1 +1,1 @@
-var mnemonic = "coast tent soldier okay fiber drip soul fluid mesh myself around shy";
+var mnemonic = "ring giggle rhythm entire again achieve believe cigar retire sugar autumn right";

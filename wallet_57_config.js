@@ -1,1 +1,1 @@
-var mnemonic = "cliff grace error carbon satisfy will aspect very arm mom discover wisdom";
+var mnemonic = "wheat hurry profit present sport bone door poverty isolate machine pencil trash";

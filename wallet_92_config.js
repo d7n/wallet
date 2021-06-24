@@ -1,1 +1,1 @@
-var mnemonic = "element pet flee flock tribe under fury choice always snap parade tell";
+var mnemonic = "ladder fetch inside alter noodle key judge weasel devote visual hen anger";

@@ -1,1 +1,1 @@
-var mnemonic = "mammal flight hawk bullet unlock medal patch seven question clerk north major";
+var mnemonic = "general immune ginger race mind slim garment sibling find amused oblige lava";

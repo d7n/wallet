@@ -1,1 +1,1 @@
-var mnemonic = "solve major siege ankle place abstract dad label light make knife vendor";
+var mnemonic = "unfair symptom wash eye glimpse social draft soon actor pumpkin buzz wine";

@@ -1,1 +1,1 @@
-var mnemonic = "orient bargain margin upset eight winter dentist idle tape curious soda shallow";
+var mnemonic = "drum crater when concert empty parrot fan screen level monster cover tree";

@@ -1,1 +1,1 @@
-var mnemonic = "winter outer cry giggle purchase diamond bag napkin crush submit muffin patient";
+var mnemonic = "author small endless vapor honey casino clap spare shoot mail banana lounge";

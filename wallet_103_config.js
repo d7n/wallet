@@ -1,1 +1,1 @@
-var mnemonic = "shove differ senior sugar garment furnace soda ocean addict mandate since fence";
+var mnemonic = "energy fault butter another spirit point skill uncle silly case valid insane";

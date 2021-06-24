@@ -1,1 +1,1 @@
-var mnemonic = "acquire style proof derive bracket mutual oppose staff video maple yard clap";
+var mnemonic = "grit wood tail sugar asthma bless speak daring clinic sleep size inside";

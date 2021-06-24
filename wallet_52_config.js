@@ -1,1 +1,1 @@
-var mnemonic = "rebuild art physical silk lounge trip author parade hunt script mixed inquiry";
+var mnemonic = "pencil invite exist code obvious cheese weird snack seed knee lucky slab";

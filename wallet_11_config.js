@@ -1,1 +1,1 @@
-var mnemonic = "riot world scrub gain symptom entry wood phrase glide window diary evil";
+var mnemonic = "battle clump addict segment sting sea shell swift garage ten super welcome";

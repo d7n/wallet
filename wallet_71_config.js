@@ -1,1 +1,1 @@
-var mnemonic = "cradle cinnamon wedding stove square life kid crater ladder one account hotel";
+var mnemonic = "uphold artwork timber ride laugh outdoor battle carpet citizen ceiling biology expect";

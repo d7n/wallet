@@ -1,1 +1,1 @@
-var mnemonic = "rotate defense loan unlock bag nasty order improve income key wink manual";
+var mnemonic = "talent noodle ripple citizen mule swear kingdom announce broom ticket uphold hybrid";

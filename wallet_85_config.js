@@ -1,1 +1,1 @@
-var mnemonic = "custom false spot merry flower energy total solar yard chapter friend cannon";
+var mnemonic = "deal kingdom write hospital exercise flush task lobster chief balance method truth";

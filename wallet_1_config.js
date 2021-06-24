@@ -1,1 +1,1 @@
-var mnemonic = "profit document tobacco matter rapid tired eternal when public pioneer fine once";
+var mnemonic = "subway play fine century prison hope loud code pulse seat cream wisdom";

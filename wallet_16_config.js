@@ -1,1 +1,1 @@
-var mnemonic = "skull gold loop cigar clerk mushroom patient coin adult mad alley cancel";
+var mnemonic = "view inner gain direct garment faculty elbow deputy bread future expire consider";

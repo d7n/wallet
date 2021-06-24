@@ -1,1 +1,1 @@
-var mnemonic = "trade ritual jungle moral drop dust spirit decade nature frozen buffalo dutch";
+var mnemonic = "begin aerobic message shed inquiry sail sell neck hospital tail address water";

@@ -1,1 +1,1 @@
-var mnemonic = "practice torch diary seek police photo text pony trigger topic remove belt";
+var mnemonic = "tag win copper minor industry desert curve frame orphan ridge loan office";

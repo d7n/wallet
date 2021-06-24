@@ -1,1 +1,1 @@
-var mnemonic = "benefit amused bike eager poet organ peasant situate peasant okay suggest universe";
+var mnemonic = "buddy meat autumn present release clever motor dinner pen assume segment cute";

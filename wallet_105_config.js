@@ -1,1 +1,1 @@
-var mnemonic = "fossil excess valid offer fold dry better brown purity old asthma summer";
+var mnemonic = "random keep genius penalty sweet burger trouble situate regular razor business quality";

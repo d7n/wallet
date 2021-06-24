@@ -1,1 +1,1 @@
-var mnemonic = "kiss roof attend bag old beauty stable ugly swim thrive gaze shrug";
+var mnemonic = "left museum wise phone veteran describe clip promote viable action butter paddle";

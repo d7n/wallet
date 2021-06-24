@@ -1,1 +1,1 @@
-var mnemonic = "grief question wisdom unique curious silly right scorpion buyer arctic play sadness";
+var mnemonic = "rotate mobile popular man spider deputy alone frozen ready body over wisdom";

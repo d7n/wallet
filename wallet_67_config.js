@@ -1,1 +1,1 @@
-var mnemonic = "actor follow exit oven minor fold motion novel save face real behave";
+var mnemonic = "inspire elevator govern farm addict they ginger help spoon winner dial guide";

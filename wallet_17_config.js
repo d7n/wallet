@@ -1,1 +1,1 @@
-var mnemonic = "myth parent carpet snap message barely cruel shiver cycle tackle trigger scout";
+var mnemonic = "crisp tonight liquid open pond sorry assume vacant ankle before labor thing";

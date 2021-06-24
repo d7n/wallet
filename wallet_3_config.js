@@ -1,1 +1,1 @@
-var mnemonic = "orphan brush rabbit hunt okay coast country fold breeze veteran team damage";
+var mnemonic = "enact length decade tornado race insect parent area session motor year tomato";

@@ -1,1 +1,1 @@
-var mnemonic = "chuckle farm angry oil banana wisdom reduce habit crunch session ostrich tool";
+var mnemonic = "stuff office year rule trend lion edit develop slide youth essay spatial";

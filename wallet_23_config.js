@@ -1,1 +1,1 @@
-var mnemonic = "city visa bag auction afraid gas prevent shrug celery chief across develop";
+var mnemonic = "rather employ refuse frown abstract pool original spice dirt scale detect dwarf";

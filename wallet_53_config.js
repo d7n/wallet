@@ -1,1 +1,1 @@
-var mnemonic = "random cake defy muscle enable inquiry snow bachelor drill join box slush";
+var mnemonic = "resemble fresh deal burden head soon oxygen legal number hour later daughter";

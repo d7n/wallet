@@ -1,1 +1,1 @@
-var mnemonic = "sight wolf anxiety friend office goddess mammal brother vapor olive fee obscure";
+var mnemonic = "similar tenant mountain they entry decide radar stock depth organ rate sting";

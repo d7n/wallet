@@ -1,1 +1,1 @@
-var mnemonic = "industry tomorrow subway scrub remove crunch fatal book chat age roast arena";
+var mnemonic = "accuse duty dwarf intact thrive claw basket drastic also admit oblige road";

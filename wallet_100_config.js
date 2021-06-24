@@ -1,1 +1,1 @@
-var mnemonic = "enjoy mouse daughter axis street essence lift canal gloom obvious elegant loyal";
+var mnemonic = "slot special split orphan disorder card trigger spice undo indoor soul orchard";

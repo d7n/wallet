@@ -1,1 +1,1 @@
-var mnemonic = "village impulse feed amused river garbage banana skill erupt decade sign rack";
+var mnemonic = "federal float law crater budget uncover obtain cloud tank imitate kiwi turtle";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar decline shadow faith donkey hockey talent sketch market regret layer drop";
+var mnemonic = "wide engage quiz ladder style urban maple guard tourist answer tent razor";

@@ -1,1 +1,1 @@
-var mnemonic = "brother bacon private omit episode what banner exotic brick surface practice hope";
+var mnemonic = "future ugly young globe aerobic alien orbit sustain elder load filter junior";

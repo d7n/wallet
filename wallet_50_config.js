@@ -1,1 +1,1 @@
-var mnemonic = "myself model prison inflict reopen devote race volume gentle farm lizard injury";
+var mnemonic = "element erase fossil silent human year pepper nothing link harbor cook usage";

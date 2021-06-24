@@ -1,1 +1,1 @@
-var mnemonic = "prevent ribbon west squeeze assume mango lumber economy exhibit version squirrel spell";
+var mnemonic = "cluster olive hire denial expire cinnamon life seek defense wrong promote two";

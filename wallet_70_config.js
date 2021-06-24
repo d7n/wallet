@@ -1,1 +1,1 @@
-var mnemonic = "process punch attend radio liar gap swarm sorry over outside column staff";
+var mnemonic = "grief force dragon kit stamp cook unable critic pill bubble blanket horn";

@@ -1,1 +1,1 @@
-var mnemonic = "track member waste ice home hour rural tail office puzzle neither carbon";
+var mnemonic = "vacuum flash tennis pigeon network taxi labor waste cheap embrace throw affair";

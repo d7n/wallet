@@ -1,1 +1,1 @@
-var mnemonic = "input tray tumble certain major swamp viable side alarm island skin cradle";
+var mnemonic = "math web cliff cake steel toss mandate someone lobster piece rice citizen";

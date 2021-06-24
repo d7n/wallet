@@ -1,1 +1,1 @@
-var mnemonic = "emerge wild girl noodle poverty tobacco secret erase finish volcano bridge calm";
+var mnemonic = "wealth achieve sheriff model diamond chief solution pony erupt cost lamp enlist";

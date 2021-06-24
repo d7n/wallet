@@ -1,1 +1,1 @@
-var mnemonic = "skin office mango catch trim lonely noise urban erupt very arrow image";
+var mnemonic = "electric piece book table place pact soul jungle wave exercise humble gun";

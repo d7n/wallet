@@ -1,1 +1,1 @@
-var mnemonic = "enrich smooth absent dynamic siege lumber kitchen dream wisdom trouble fossil cash";
+var mnemonic = "laugh relief trip dawn immense shrimp large suit strong awesome river cactus";

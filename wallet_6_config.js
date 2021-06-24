@@ -1,1 +1,1 @@
-var mnemonic = "kitchen absorb absent sun teach normal move time produce vanish brain differ";
+var mnemonic = "taxi walk stove tobacco endorse attitude infant student always step rich term";

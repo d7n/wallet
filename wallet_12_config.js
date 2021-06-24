@@ -1,1 +1,1 @@
-var mnemonic = "seed rich eternal reward veteran erosion emerge sadness priority spatial sort portion";
+var mnemonic = "notice abuse arrange guilt elevator bind warfare neither barrel amazing payment tunnel";

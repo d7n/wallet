@@ -1,1 +1,1 @@
-var mnemonic = "busy pyramid dismiss food steak sense sorry surge sick adult corn garage";
+var mnemonic = "then town sand planet person reward omit border float ancient fame habit";

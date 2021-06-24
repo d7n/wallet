@@ -1,1 +1,1 @@
-var mnemonic = "short stand mango shell prevent sad poverty expose damp interest boy garden";
+var mnemonic = "tennis leg salt undo undo pony crawl voyage fit symptom ribbon envelope";

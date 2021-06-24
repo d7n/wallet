@@ -1,1 +1,1 @@
-var mnemonic = "anger tissue aspect sustain swim tube snap theme blouse course chalk face";
+var mnemonic = "raise pupil fringe canyon small future stay inflict tower brick require school";
