@@ -1,1 +1,1 @@
-var mnemonic = "medal fitness fix cycle guide penalty dutch defense express winter mind poverty";
+var mnemonic = "slice silver effort item nominee awesome desert connect lamp wrap require length";

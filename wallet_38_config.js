@@ -1,1 +1,1 @@
-var mnemonic = "shine trade speak cheap time lady exact cargo dwarf shiver impulse nothing";
+var mnemonic = "egg obscure wear south slight alley clerk rough tattoo proof sibling journey";

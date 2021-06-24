@@ -1,1 +1,1 @@
-var mnemonic = "pencil city muscle asthma deposit track marine hour armed rebel dilemma blood";
+var mnemonic = "boring economy know cash stadium range sock bright body gadget nephew slam";

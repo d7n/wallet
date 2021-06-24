@@ -1,1 +1,1 @@
-var mnemonic = "track cry chunk impact fade wall blade visa juice excite typical friend";
+var mnemonic = "clutch toward assist uniform motion boat trash kit myself shoulder noodle notable";

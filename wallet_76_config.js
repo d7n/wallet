@@ -1,1 +1,1 @@
-var mnemonic = "wave supreme fog wheel alone remind remember primary panel mercy priority tornado";
+var mnemonic = "social rude ginger kangaroo traffic limb galaxy embrace guide load bamboo trial";

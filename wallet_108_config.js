@@ -1,1 +1,1 @@
-var mnemonic = "leisure hello rabbit budget holiday unveil sugar elegant loyal fluid can cattle";
+var mnemonic = "echo idle snake crisp visit history ahead total bicycle expect urban lion";

@@ -1,1 +1,1 @@
-var mnemonic = "segment minimum pepper domain ask skin axis section oval resource hunt eternal";
+var mnemonic = "abandon dash library install cook fresh shoe mail traffic trick evolve suit";

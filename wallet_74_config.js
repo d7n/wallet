@@ -1,1 +1,1 @@
-var mnemonic = "ill aunt coconut valley marble century thrive quantum rival east plug laugh";
+var mnemonic = "excite empty slender copy empower hamster car rich shrimp garden indicate weird";

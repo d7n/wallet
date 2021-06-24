@@ -1,1 +1,1 @@
-var mnemonic = "strategy pepper pyramid crack degree prefer twist pledge coconut proud spray asset";
+var mnemonic = "symptom venture settle nation wealth jaguar guitar potato flip aim cheap alley";

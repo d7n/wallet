@@ -1,1 +1,1 @@
-var mnemonic = "antique hood area gospel creek ability autumn damp delay apart trumpet neutral";
+var mnemonic = "drift exercise dinner birth absent shock bid rescue coconut top equip obtain";

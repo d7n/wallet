@@ -1,1 +1,1 @@
-var mnemonic = "dawn above mix wrong judge utility giraffe phone section pigeon return tree";
+var mnemonic = "wait body luggage shed move negative volcano color knife tourist timber lawn";

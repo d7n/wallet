@@ -1,1 +1,1 @@
-var mnemonic = "business belt endless bus edge across amazing require opera cigar science wolf";
+var mnemonic = "oval make daring eager energy team canyon lucky scout guitar final absorb";

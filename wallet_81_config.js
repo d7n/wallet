@@ -1,1 +1,1 @@
-var mnemonic = "catalog question river version poet actual marriage inform arrive involve face nerve";
+var mnemonic = "wasp wagon supply fork also sauce mercy increase bamboo retire limit zoo";

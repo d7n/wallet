@@ -1,1 +1,1 @@
-var mnemonic = "grief busy repeat dragon inner elder leg snake public hawk adapt pool";
+var mnemonic = "cancel picture purpose build crime mountain antique common jump obvious olive chuckle";

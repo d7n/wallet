@@ -1,1 +1,1 @@
-var mnemonic = "bird drink iron coral during later enforce bar evidence pave rate kitten";
+var mnemonic = "lesson educate atom inquiry until mix wild quiz glue donate word unveil";

@@ -1,1 +1,1 @@
-var mnemonic = "away unveil test impact regret virus gravity drift source dial gasp lab";
+var mnemonic = "mammal air blossom stand civil coconut hill essence subway doll elegant cook";

@@ -1,1 +1,1 @@
-var mnemonic = "lamp roast cluster light canyon slender dwarf index radar term travel begin";
+var mnemonic = "slush nature alley crater swear oven repair ghost stairs panda concert clap";

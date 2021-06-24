@@ -1,1 +1,1 @@
-var mnemonic = "doctor enact student stem swap season disorder forget energy disagree chaos dolphin";
+var mnemonic = "monkey avocado consider ice symbol rib hybrid hobby scrap buffalo angry misery";

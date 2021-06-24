@@ -1,1 +1,1 @@
-var mnemonic = "trick hamster slim cable solve tree horn dinosaur property trophy pull poverty";
+var mnemonic = "squeeze base history boat learn brain uphold garment drama brave trend island";

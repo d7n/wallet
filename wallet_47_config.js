@@ -1,1 +1,1 @@
-var mnemonic = "sentence dinner join anchor eternal cricket stick tilt promote cancel grape gown";
+var mnemonic = "govern guitar under inner canal fee core sauce adjust few venue spatial";

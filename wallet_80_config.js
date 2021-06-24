@@ -1,1 +1,1 @@
-var mnemonic = "gadget border hobby pact liquid tobacco vacuum tiger logic erase reject defy";
+var mnemonic = "clip drink wedding skull better harbor decrease bright cement run tackle hire";

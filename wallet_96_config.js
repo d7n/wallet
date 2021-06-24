@@ -1,1 +1,1 @@
-var mnemonic = "doll during home feature honey awesome spend figure pigeon scissors lunar decade";
+var mnemonic = "ginger hood office uniform quote own muscle lottery august cram decide earn";

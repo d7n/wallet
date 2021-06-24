@@ -1,1 +1,1 @@
-var mnemonic = "noble squirrel tiny salon secret mass spell canyon present cactus abstract menu";
+var mnemonic = "such slice reopen camera gorilla they maze sunny index explain short copy";

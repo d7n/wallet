@@ -1,1 +1,1 @@
-var mnemonic = "pair lounge say pepper six advance fuel various budget taxi illness claim";
+var mnemonic = "swamp upgrade unaware world manual throw fatigue planet sibling goat patrol again";

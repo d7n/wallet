@@ -1,1 +1,1 @@
-var mnemonic = "insane lucky marine vapor giggle orbit miss real sport boat naive since";
+var mnemonic = "asset observe heavy abandon yellow sword scan deliver give peasant enforce dentist";

@@ -1,1 +1,1 @@
-var mnemonic = "mouse spice night army solution ticket want measure witness song amount place";
+var mnemonic = "among retire feed phone interest floor choose depth impulse avoid century system";

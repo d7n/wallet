@@ -1,1 +1,1 @@
-var mnemonic = "fiber guess awful tape manage balance arrow pilot submit bubble april harvest";
+var mnemonic = "visa fun decrease step glory subway drama simple together cage spare lottery";

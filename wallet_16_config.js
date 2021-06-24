@@ -1,1 +1,1 @@
-var mnemonic = "brave oxygen weapon heavy kind census six gospel embark bread stool giggle";
+var mnemonic = "gaze mammal credit april doll mutual oxygen broccoli motion smooth combine hollow";

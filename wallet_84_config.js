@@ -1,1 +1,1 @@
-var mnemonic = "scrub drill liberty member insane rack addict crane runway sadness mercy laundry";
+var mnemonic = "congress trap pledge love mother kingdom pudding winner genre input trap dose";

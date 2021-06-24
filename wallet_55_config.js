@@ -1,1 +1,1 @@
-var mnemonic = "erode kite assault spawn glance goat seat lawsuit help smart shift top";
+var mnemonic = "winner salt soup merry hint success unique town fitness media simple act";

@@ -1,1 +1,1 @@
-var mnemonic = "fat picnic better inspire valley obtain bullet sauce master solve enroll laundry";
+var mnemonic = "jungle name pill strong rough always actual blouse shallow used evidence devote";

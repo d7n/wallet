@@ -1,1 +1,1 @@
-var mnemonic = "blame vast ripple frame urge visit nature dry seminar equip sight anxiety";
+var mnemonic = "finger episode steel seek order original subway apart actress attitude afraid bird";

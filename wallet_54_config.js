@@ -1,1 +1,1 @@
-var mnemonic = "churn biology meadow dizzy twist picnic glory cliff normal connect damage evolve";
+var mnemonic = "humble lazy exist copper gallery old slide accident dry vintage jaguar talk";

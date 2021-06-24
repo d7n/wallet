@@ -1,1 +1,1 @@
-var mnemonic = "oblige just segment large syrup improve kangaroo design soap load assault fish";
+var mnemonic = "siren fiction lens alone gaze liar word crisp little brass candy have";

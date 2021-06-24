@@ -1,1 +1,1 @@
-var mnemonic = "result town good force pepper beyond coral village grief business detail auto";
+var mnemonic = "follow two language because defense news fold document drift advance exclude sauce";

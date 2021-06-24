@@ -1,1 +1,1 @@
-var mnemonic = "dove bone siege swim risk cash peasant tunnel weekend fat summer quality";
+var mnemonic = "rough top tray desk talent brick box insane train fit fiscal tape";

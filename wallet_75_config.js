@@ -1,1 +1,1 @@
-var mnemonic = "spare teach dial adjust game sport bench wagon olive usage undo buyer";
+var mnemonic = "gauge wing bridge never spirit marble adapt bottom matter same length program";

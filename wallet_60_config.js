@@ -1,1 +1,1 @@
-var mnemonic = "laundry cable feature caution useless mule scrap pluck goose sport ripple castle";
+var mnemonic = "transfer inch endorse wife fetch sausage industry despair mother age dumb glass";

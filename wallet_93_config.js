@@ -1,1 +1,1 @@
-var mnemonic = "response dinosaur produce eternal dentist reform hole fuel left jar prosper destroy";
+var mnemonic = "ensure help battle bulk host wise rapid situate dial evil book exhibit";

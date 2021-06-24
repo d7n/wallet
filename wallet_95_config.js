@@ -1,1 +1,1 @@
-var mnemonic = "question culture gorilla outer air pepper film alien library soccer prize pudding";
+var mnemonic = "destroy swamp gaze divide soda say eagle fruit goddess salute eight auction";

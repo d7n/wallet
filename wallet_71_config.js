@@ -1,1 +1,1 @@
-var mnemonic = "mirror evoke worth below fancy oblige abuse method toilet robot kick art";
+var mnemonic = "pioneer brand fuel tilt cigar gown also exotic sand kind deny suffer";

@@ -1,1 +1,1 @@
-var mnemonic = "exclude shrimp rigid matrix inherit actress explain coconut crucial soft solution blood";
+var mnemonic = "left museum attract butter exist panel capital any trend dumb snap odor";

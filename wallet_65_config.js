@@ -1,1 +1,1 @@
-var mnemonic = "stomach strike size moral mistake venue rally canvas ring faith era fiction";
+var mnemonic = "pledge wave tip sudden about scrap inherit congress fit nothing beyond foster";

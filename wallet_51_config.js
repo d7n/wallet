@@ -1,1 +1,1 @@
-var mnemonic = "symbol physical worry theme pluck island idea roof item tuna brass green";
+var mnemonic = "drum type extra honey pass have subject fork remove minor suffer spread";

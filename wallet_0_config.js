@@ -1,1 +1,1 @@
-var mnemonic = "trumpet first eternal spirit drive blast noble myth claim pig satoshi surprise";
+var mnemonic = "canyon program utility boost stand possible march measure essay swift aunt stem";

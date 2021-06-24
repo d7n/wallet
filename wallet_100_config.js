@@ -1,1 +1,1 @@
-var mnemonic = "devote guard blind produce snow pilot lab attend radar snow learn loop";
+var mnemonic = "tool person debate rapid immune owner gallery coach game orient milk capable";

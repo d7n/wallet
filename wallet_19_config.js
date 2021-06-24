@@ -1,1 +1,1 @@
-var mnemonic = "cause early people face endorse expire lecture route antenna jeans door hawk";
+var mnemonic = "scrub orange lumber bless saddle front swear lamp hard bind alter seven";

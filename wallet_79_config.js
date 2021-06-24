@@ -1,1 +1,1 @@
-var mnemonic = "grit mass just loyal manage pair yard you recall job okay lawn";
+var mnemonic = "demise eight various paddle runway help fiction pretty online ladder help memory";

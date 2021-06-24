@@ -1,1 +1,1 @@
-var mnemonic = "plug dismiss wet file client nuclear brief piece unveil orchard cattle charge";
+var mnemonic = "entire vintage property afford wasp coconut fossil suit neck cause attend rubber";

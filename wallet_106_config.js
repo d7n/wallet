@@ -1,1 +1,1 @@
-var mnemonic = "cricket conduct prefer name ethics anger sell eagle opinion august novel ride";
+var mnemonic = "crop priority sausage audit question post pool gentle vessel noodle dial case";

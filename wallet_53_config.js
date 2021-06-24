@@ -1,1 +1,1 @@
-var mnemonic = "west prize reopen movie owner develop shadow essay vote blue knock october";
+var mnemonic = "domain green edge raccoon crash round cheap good click figure gain loud";

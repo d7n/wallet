@@ -1,1 +1,1 @@
-var mnemonic = "miss minor giant boil stereo salmon during pair hand debate era shine";
+var mnemonic = "brass orient pride rocket mean judge consider blue ready similar brush chat";

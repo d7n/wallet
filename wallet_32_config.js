@@ -1,1 +1,1 @@
-var mnemonic = "pattern priority front common moon museum throw case object idle slender cross";
+var mnemonic = "radar van edge bless cupboard social three anxiety please liar peace visa";

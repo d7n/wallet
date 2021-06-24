@@ -1,1 +1,1 @@
-var mnemonic = "walnut axis yellow soft chief exile method sort art valve lady program";
+var mnemonic = "roast awkward dice physical mass stock peasant flock catalog size reduce second";

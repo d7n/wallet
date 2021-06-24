@@ -1,1 +1,1 @@
-var mnemonic = "guilt scorpion other glass unknown width fan rebel extra excess assist prison";
+var mnemonic = "faint filter asset soul license sting season accuse edit forest emotion roast";

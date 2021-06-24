@@ -1,1 +1,1 @@
-var mnemonic = "giant vacuum urban trust feel knock member pull doll leisure warm envelope";
+var mnemonic = "armor hungry pilot alarm model remember tortoise muffin pizza loyal strike sphere";

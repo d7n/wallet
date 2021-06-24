@@ -1,1 +1,1 @@
-var mnemonic = "frown tiger pottery napkin color machine helmet manual oil happy exit swamp";
+var mnemonic = "symbol tilt mansion jeans legend resist protect lecture cage only coyote infant";

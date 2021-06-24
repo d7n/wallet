@@ -1,1 +1,1 @@
-var mnemonic = "drill visa vanish omit blanket moral brother artefact submit antique ride capital";
+var mnemonic = "lucky wonder blood grid demise zone leave ladder kiwi picture resist crisp";

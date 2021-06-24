@@ -1,1 +1,1 @@
-var mnemonic = "sick slot base kit sweet rain belt laptop amused myth strong window";
+var mnemonic = "width express permit true buyer turn plug display spray task discover possible";

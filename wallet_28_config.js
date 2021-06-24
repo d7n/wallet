@@ -1,1 +1,1 @@
-var mnemonic = "beef possible receive cart cricket pulse twelve match speak dad test proof";
+var mnemonic = "future garbage question room nut follow auction cricket cube arrange stem easily";

@@ -1,1 +1,1 @@
-var mnemonic = "connect plug hundred warfare earth page quality network say funny anxiety ship";
+var mnemonic = "income winter loyal timber draw mango shove spell safe exist piece kit";

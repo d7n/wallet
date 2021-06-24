@@ -1,1 +1,1 @@
-var mnemonic = "beyond woman all canyon couch keen hope rug nominee recipe update you";
+var mnemonic = "nice debris sibling black powder erase bar bundle ball blur clever deputy";

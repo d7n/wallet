@@ -1,1 +1,1 @@
-var mnemonic = "six attend list waste ocean below old fault produce random remember august";
+var mnemonic = "device arrow okay reflect bring regret engine festival sheriff live drive pause";

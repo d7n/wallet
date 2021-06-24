@@ -1,1 +1,1 @@
-var mnemonic = "unhappy diagram clerk vibrant usual tortoise usual virus very guitar song just";
+var mnemonic = "burst already middle sniff random cargo bone gossip special horn net elbow";

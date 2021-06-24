@@ -1,1 +1,1 @@
-var mnemonic = "wrong surface brass hint bench cricket kidney describe piano obvious chest cute";
+var mnemonic = "omit voyage tip pact almost barely else ostrich awkward exist champion hawk";

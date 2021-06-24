@@ -1,1 +1,1 @@
-var mnemonic = "repeat allow cotton release security carry neutral flag wear axis rigid toward";
+var mnemonic = "suffer castle cover occur solid nation flash feed book chase oppose smart";

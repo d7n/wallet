@@ -1,1 +1,1 @@
-var mnemonic = "brother pen grief crystal copper build dolphin film alley come ivory wheat";
+var mnemonic = "innocent barrel april time punch slow pitch heart water useless width used";

@@ -1,1 +1,1 @@
-var mnemonic = "level sense earth catalog sentence hedgehog fever rapid achieve head indoor task";
+var mnemonic = "enemy color example genre helmet south mask cancel public mule ahead venue";

@@ -1,1 +1,1 @@
-var mnemonic = "tilt crime neutral toilet portion benefit height merry whip maid argue smooth";
+var mnemonic = "sorry flip robust safe answer guitar purpose require gown supreme thumb people";

@@ -1,1 +1,1 @@
-var mnemonic = "carbon stumble helmet stove property culture voice glimpse apart solution blame friend";
+var mnemonic = "public raven this ring keen mesh wave speak fresh heart high announce";

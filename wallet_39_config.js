@@ -1,1 +1,1 @@
-var mnemonic = "twelve review brick beach soul adult mention cotton moon flame endless build";
+var mnemonic = "expect remain vague bicycle power sausage exchange abuse upgrade month promote struggle";

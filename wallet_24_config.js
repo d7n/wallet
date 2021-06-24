@@ -1,1 +1,1 @@
-var mnemonic = "blush shoe gift often twenty trend negative much trust credit bachelor ship";
+var mnemonic = "powder parade idea power what cube resource caution receive profit noodle power";

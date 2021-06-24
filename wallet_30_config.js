@@ -1,1 +1,1 @@
-var mnemonic = "student estate estate man hedgehog animal pattern bonus awesome thing wheat sock";
+var mnemonic = "carbon assume vibrant color infant alter mom prosper crunch cycle actual you";

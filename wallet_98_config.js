@@ -1,1 +1,1 @@
-var mnemonic = "culture just detail suspect nature rocket live dawn lyrics addict purse nurse";
+var mnemonic = "achieve deliver sun hedgehog shoulder company group key figure festival whisper winter";

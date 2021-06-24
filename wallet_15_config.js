@@ -1,1 +1,1 @@
-var mnemonic = "govern carbon news fall embark cactus soup armed garbage must payment glance";
+var mnemonic = "music join issue rose immune chest airport chimney donkey kingdom nice address";

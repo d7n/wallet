@@ -1,1 +1,1 @@
-var mnemonic = "lamp robot swing wish script enter exhibit slender meadow medal holiday lend";
+var mnemonic = "where hunt champion example adapt immense spell tragic inquiry shoulder crowd need";

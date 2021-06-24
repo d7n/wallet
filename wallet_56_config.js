@@ -1,1 +1,1 @@
-var mnemonic = "prevent hockey reopen come climb uncover tragic word unable toy tired unknown";
+var mnemonic = "dance capable repeat panic express moment else identify rally panic route flag";

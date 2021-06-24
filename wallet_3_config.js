@@ -1,1 +1,1 @@
-var mnemonic = "parrot pioneer mention crash chapter silk title rally type dutch vote brand";
+var mnemonic = "adult method aerobic ten happy toe dizzy recipe enough salt bubble soap";

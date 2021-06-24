@@ -1,1 +1,1 @@
-var mnemonic = "secret favorite gaze hobby gravity this later daring write cargo glad stadium";
+var mnemonic = "proud limit jar elder intact fat tube cigar alert door cook royal";

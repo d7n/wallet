@@ -1,1 +1,1 @@
-var mnemonic = "helmet sleep hello reward erode fury buddy common steak cat warm cannon";
+var mnemonic = "walnut sing cook frozen equal speed first gentle cluster foam junk office";

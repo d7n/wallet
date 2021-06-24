@@ -1,1 +1,1 @@
-var mnemonic = "occur false tent insect female allow topic enable genuine truth ankle hello";
+var mnemonic = "doctor wool umbrella private inmate dinosaur remove profit only margin two dove";

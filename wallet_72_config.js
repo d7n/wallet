@@ -1,1 +1,1 @@
-var mnemonic = "noise pink local rescue mom armed split cute title crumble seed crime";
+var mnemonic = "auto bless relax layer recall attitude carbon nasty deliver ecology magnet gaze";

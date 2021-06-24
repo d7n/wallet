@@ -1,1 +1,1 @@
-var mnemonic = "episode lend welcome quantum coyote fun video dismiss kingdom region tobacco owner";
+var mnemonic = "top attract above normal cause any grow dilemma void vast october mercy";

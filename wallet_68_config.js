@@ -1,1 +1,1 @@
-var mnemonic = "market loop area carpet soup split unfair hotel detail word ensure hospital";
+var mnemonic = "auto female chimney current poet long chapter cave pistol attend punch sustain";

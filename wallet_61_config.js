@@ -1,1 +1,1 @@
-var mnemonic = "rotate magic bench horse only occur smart fever elbow bus cactus idle";
+var mnemonic = "pledge mention slice eternal people machine hurry install witness void daughter frequent";

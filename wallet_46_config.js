@@ -1,1 +1,1 @@
-var mnemonic = "hair detail absurd width provide push hobby iron stage setup tip cycle";
+var mnemonic = "session broccoli tooth fuel ridge surprise purity home wolf knife supply safe";

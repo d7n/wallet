@@ -1,1 +1,1 @@
-var mnemonic = "custom biology magic puzzle future glimpse among hat uncover parent certain own";
+var mnemonic = "just vacant fiction winter control federal always tunnel cement opinion point little";

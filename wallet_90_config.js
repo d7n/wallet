@@ -1,1 +1,1 @@
-var mnemonic = "pink brisk fragile index talent pluck lens setup glare educate math rice";
+var mnemonic = "vicious emerge rate bird world hood unhappy sunny mammal surge unusual much";

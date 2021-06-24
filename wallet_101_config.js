@@ -1,1 +1,1 @@
-var mnemonic = "much walk lobster fluid valid once during crawl wasp borrow shell until";
+var mnemonic = "shift flash deal illegal segment slide series swing visit soldier three measure";

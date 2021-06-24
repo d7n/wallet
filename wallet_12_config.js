@@ -1,1 +1,1 @@
-var mnemonic = "empower age tomorrow glow brick example satisfy west harbor mind slim twist";
+var mnemonic = "tag soft enrich off model crane sound connect crane process beauty boss";

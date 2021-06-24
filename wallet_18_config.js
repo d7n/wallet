@@ -1,1 +1,1 @@
-var mnemonic = "tide stem nurse apple strategy clap sweet nominee pool erosion exclude off";
+var mnemonic = "tuition copy draft across rug civil present broccoli vanish steak tenant month";

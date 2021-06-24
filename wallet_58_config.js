@@ -1,1 +1,1 @@
-var mnemonic = "run solve addict loud path size wheel spider drink powder clever insane";
+var mnemonic = "library action approve sphere above noble escape symptom step december divide zone";

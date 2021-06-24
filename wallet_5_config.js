@@ -1,1 +1,1 @@
-var mnemonic = "pulse bitter feel useful point thrive oval shadow join leaf trend interest";
+var mnemonic = "extra poet process fee daughter clever answer glare breeze best record cliff";
