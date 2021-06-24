@@ -1,1 +1,1 @@
-var mnemonic = "smooth orphan fringe index marine dirt guard bullet piano leaf hope scrap";
+var mnemonic = "mouse clean bean width quote label boss crane crystal skull science trip";

@@ -1,1 +1,1 @@
-var mnemonic = "priority skirt south property quiz harbor thunder brown bid more yellow truth";
+var mnemonic = "hire slide wink dice material warrior ocean winner camera act chimney erase";

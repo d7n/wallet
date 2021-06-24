@@ -1,1 +1,1 @@
-var mnemonic = "sign flight shock describe eye love strategy card october address snow idle";
+var mnemonic = "sister puzzle cigar two permit grab trade angry silly hood gravity rent";

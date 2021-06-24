@@ -1,1 +1,1 @@
-var mnemonic = "chronic educate ready secret burst destroy amused cool cotton night impulse six";
+var mnemonic = "develop attack move solar loan load alert fringe early wide useless truck";

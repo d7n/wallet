@@ -1,1 +1,1 @@
-var mnemonic = "captain grace bachelor couch across avocado search appear flip sound crunch vocal";
+var mnemonic = "comic weird head place weasel walnut problem vague pretty spoil nurse behave";

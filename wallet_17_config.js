@@ -1,1 +1,1 @@
-var mnemonic = "milk abandon else city rude magnet empty control unable elephant buddy happy";
+var mnemonic = "honey december favorite tennis safe exit obscure dose wing jazz rug mule";

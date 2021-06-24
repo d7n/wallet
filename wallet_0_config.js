@@ -1,1 +1,1 @@
-var mnemonic = "render section indicate lift actual differ circle noble bachelor panic riot left";
+var mnemonic = "fold sugar script mercy broken judge air orient notable camp must dish";

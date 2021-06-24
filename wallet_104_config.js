@@ -1,1 +1,1 @@
-var mnemonic = "hood matter whisper whip under history embrace ripple original devote west vocal";
+var mnemonic = "pull core reveal hobby one fancy unhappy you unhappy rotate genuine grace";

@@ -1,1 +1,1 @@
-var mnemonic = "mechanic fragile peace holiday zero room stand doctor jazz ordinary verb mind";
+var mnemonic = "slice tone virus stamp awful cruise draw vanish canoe cycle permit average";

@@ -1,1 +1,1 @@
-var mnemonic = "energy all outdoor acquire skull spoil second promote glimpse actual chuckle cloth";
+var mnemonic = "dilemma nuclear prize solar raw capital joy physical fan dwarf matter crack";

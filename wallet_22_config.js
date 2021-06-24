@@ -1,1 +1,1 @@
-var mnemonic = "fun alter claim soup plunge keen trust loud small later bench display";
+var mnemonic = "candy chronic thank weapon burst inform candy busy end achieve curious plastic";

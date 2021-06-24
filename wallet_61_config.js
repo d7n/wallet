@@ -1,1 +1,1 @@
-var mnemonic = "donate rib degree predict wink poem diet mandate credit kid essay mule";
+var mnemonic = "pig neither close ritual endorse agree remember sweet bullet stomach kitten better";

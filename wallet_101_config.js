@@ -1,1 +1,1 @@
-var mnemonic = "approve nurse trophy drip truly wonder canvas legal latin supreme reflect online";
+var mnemonic = "among key comfort cinnamon match female need cricket garage pyramid water gown";

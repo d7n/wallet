@@ -1,1 +1,1 @@
-var mnemonic = "swing attitude model coast fortune buddy weird orange awesome reason actor online";
+var mnemonic = "walnut bronze wish bundle hen daughter ankle intact dynamic destroy oyster sphere";

@@ -1,1 +1,1 @@
-var mnemonic = "injury young rude okay icon beach pelican soap hub end code twist";
+var mnemonic = "lottery account frog fringe aerobic burger prosper best shine flush wink enroll";

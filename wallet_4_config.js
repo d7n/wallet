@@ -1,1 +1,1 @@
-var mnemonic = "rice medal upset cancel guitar student damp velvet wear prefer leaf palm";
+var mnemonic = "wing door moral model venture dinner race organ cable tourist wheel marriage";

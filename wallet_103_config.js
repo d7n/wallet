@@ -1,1 +1,1 @@
-var mnemonic = "happy skull setup social razor river reject agent portion follow twice bulk";
+var mnemonic = "ready civil glance army uncover buffalo grunt cloth nose deputy tank health";

@@ -1,1 +1,1 @@
-var mnemonic = "speak summer enemy whale tuition catch local actual piece powder icon index";
+var mnemonic = "helmet sphere garden chef ability lift february antenna napkin someone recipe pencil";

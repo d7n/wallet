@@ -1,1 +1,1 @@
-var mnemonic = "lab brown dismiss appear ramp timber hamster lawsuit divert poverty kick reform";
+var mnemonic = "among helmet give motor remind connect recall glimpse fringe prefer cream about";

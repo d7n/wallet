@@ -1,1 +1,1 @@
-var mnemonic = "hill nurse action sadness eagle term alone vote ranch size fame soft";
+var mnemonic = "pilot promote dirt absurd photo portion wheat ozone because path piano proof";

@@ -1,1 +1,1 @@
-var mnemonic = "adjust receive cancel rude frame sure domain network neck flame nasty please";
+var mnemonic = "trap fossil large talk eagle throw misery pact duty rifle few device";

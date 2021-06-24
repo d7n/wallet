@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow defense survey label balance comfort surround cream train turn obscure mean";
+var mnemonic = "casual vacant win choose powder century pass beauty behave gasp cabbage edit";

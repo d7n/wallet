@@ -1,1 +1,1 @@
-var mnemonic = "oblige scatter cancel panda march salon verb subject electric chapter rival receive";
+var mnemonic = "talent knock cart coral evolve feed system alarm eight art improve laundry";

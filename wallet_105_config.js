@@ -1,1 +1,1 @@
-var mnemonic = "benefit crop acoustic venue yellow abstract mother van bridge version left sense";
+var mnemonic = "patrol local orange city security attitude organ law plastic top plastic run";

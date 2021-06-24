@@ -1,1 +1,1 @@
-var mnemonic = "era horror move cross scare mosquito bring cannon cement soft panel result";
+var mnemonic = "best school reveal shock post among summer observe parent upgrade success pig";

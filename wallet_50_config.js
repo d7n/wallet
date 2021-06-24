@@ -1,1 +1,1 @@
-var mnemonic = "vapor brave quiz chaos glide autumn soft trend flash female enter broken";
+var mnemonic = "law notable uncle wonder retreat lazy frequent blind sound arrow spirit barrel";

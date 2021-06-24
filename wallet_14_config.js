@@ -1,1 +1,1 @@
-var mnemonic = "produce choose among blush quarter waste velvet bonus act thrive home debate";
+var mnemonic = "smile almost music cry jump practice final tackle vocal early fatal quit";

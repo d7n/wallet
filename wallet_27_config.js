@@ -1,1 +1,1 @@
-var mnemonic = "final mango joy mammal another almost mystery beyond journey federal divorce mask";
+var mnemonic = "second message saddle organ loop clap race bind snake post salmon shift";

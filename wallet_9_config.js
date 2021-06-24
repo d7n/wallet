@@ -1,1 +1,1 @@
-var mnemonic = "need essay chalk knock drum assume student story upgrade medal gas museum";
+var mnemonic = "dinosaur sense act end kangaroo pizza october device master submit patch primary";

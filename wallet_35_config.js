@@ -1,1 +1,1 @@
-var mnemonic = "spare now faint goat stairs dragon provide save initial skate soul extend";
+var mnemonic = "peace young deer galaxy soda profit skill enable chest pupil poem mother";

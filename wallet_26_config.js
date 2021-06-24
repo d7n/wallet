@@ -1,1 +1,1 @@
-var mnemonic = "account cargo venue street noodle tennis service mention doll earn timber dune";
+var mnemonic = "common copper figure mixture mango lizard nation blast luxury artefact tree depth";

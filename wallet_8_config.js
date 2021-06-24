@@ -1,1 +1,1 @@
-var mnemonic = "wagon demise palace subject huge broccoli ice dice churn child glare slim";
+var mnemonic = "van unfold rabbit empower fantasy best hotel brisk senior impulse measure science";

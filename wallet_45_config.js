@@ -1,1 +1,1 @@
-var mnemonic = "repair since resemble taxi address buzz fat film boring snow fox bone";
+var mnemonic = "water march humble skate exotic midnight laptop list hurry bounce region emerge";

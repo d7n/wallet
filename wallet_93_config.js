@@ -1,1 +1,1 @@
-var mnemonic = "enough minimum tiger gift viable derive opera stand rate aspect timber space";
+var mnemonic = "actor void link broom tissue benefit exclude angle happy witness ethics engine";

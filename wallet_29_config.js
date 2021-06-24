@@ -1,1 +1,1 @@
-var mnemonic = "sauce speak wasp teach damage expose task glide add scout tenant accident";
+var mnemonic = "lyrics history collect vacant biology burden stumble clarify record laundry denial finger";

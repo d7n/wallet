@@ -1,1 +1,1 @@
-var mnemonic = "under mad decorate fluid bulk quit item clap notice exercise provide era";
+var mnemonic = "hint grace filter stable horror soup pond nature weird tenant lake struggle";

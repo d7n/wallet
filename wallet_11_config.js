@@ -1,1 +1,1 @@
-var mnemonic = "banner replace clap home glove birth blind inquiry flip trigger upgrade glance";
+var mnemonic = "key cluster salute foam merit labor average grape shiver icon file smile";

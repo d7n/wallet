@@ -1,1 +1,1 @@
-var mnemonic = "join together piano when remove luggage minimum couch loan route alley general";
+var mnemonic = "discover balance turn jeans test strike cheap rotate guilt notice avoid liquid";

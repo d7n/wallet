@@ -1,1 +1,1 @@
-var mnemonic = "anchor fence venue amused little cushion hammer flight action treat okay sell";
+var mnemonic = "goddess all input drip elevator drastic pledge protect exotic phrase wool scan";

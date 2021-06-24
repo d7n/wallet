@@ -1,1 +1,1 @@
-var mnemonic = "erupt cheese attend act tennis shallow orient face cage ask use glory";
+var mnemonic = "flavor heavy color put keen wait empty ritual retire rug snow crystal";

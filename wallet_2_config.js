@@ -1,1 +1,1 @@
-var mnemonic = "cloth pumpkin connect village hover crater alert eyebrow mammal side screen survey";
+var mnemonic = "burger extend weird miracle turn abandon luggage scorpion glue spoon mesh answer";

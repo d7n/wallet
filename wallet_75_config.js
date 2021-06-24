@@ -1,1 +1,1 @@
-var mnemonic = "under fish cinnamon lucky bottom zone object illegal cargo equip mouse small";
+var mnemonic = "steel echo oven explain energy pink impose rice enroll snack post cram";

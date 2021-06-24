@@ -1,1 +1,1 @@
-var mnemonic = "planet regular swamp zone loud shed envelope design stomach balcony word laptop";
+var mnemonic = "agree avocado congress undo harbor choose setup razor brand keep cross stereo";

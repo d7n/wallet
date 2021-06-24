@@ -1,1 +1,1 @@
-var mnemonic = "second buddy window turkey acoustic found carpet vital annual urge erosion awful";
+var mnemonic = "install response undo seed arctic fluid perfect month damp mansion detail digital";

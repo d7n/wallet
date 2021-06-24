@@ -1,1 +1,1 @@
-var mnemonic = "cliff require crowd mosquito gentle color enroll pair reject boost wife magic";
+var mnemonic = "boost rural myself lizard vapor accident enter sea evil misery side depth";

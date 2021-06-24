@@ -1,1 +1,1 @@
-var mnemonic = "flight blade toe person lamp people draw nose strong demise drop aisle";
+var mnemonic = "clog twelve define rebuild frog leisure miracle always elite riot field gun";

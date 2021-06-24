@@ -1,1 +1,1 @@
-var mnemonic = "deer apart release curve bachelor quality online blur way style veteran spread";
+var mnemonic = "shuffle wall scorpion scorpion genius keen hidden solve tenant negative hero vicious";

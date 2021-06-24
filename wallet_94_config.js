@@ -1,1 +1,1 @@
-var mnemonic = "kid ocean hover soccer proud south scatter host session wish excite clump";
+var mnemonic = "audit meat grunt mercy scrap season exhaust load sure dry enact alone";

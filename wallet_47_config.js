@@ -1,1 +1,1 @@
-var mnemonic = "describe foam nose clutch donkey exact property negative cabin coconut inquiry metal";
+var mnemonic = "pause rocket brass chat general develop prison torch give census indicate boil";

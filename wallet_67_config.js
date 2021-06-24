@@ -1,1 +1,1 @@
-var mnemonic = "final over chronic shoot vendor traffic glow pipe derive mule cake diagram";
+var mnemonic = "easy banana number anxiety cry volcano spy into true couch update aim";

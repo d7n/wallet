@@ -1,1 +1,1 @@
-var mnemonic = "couch filter inmate argue fury adapt loan divert next crop acoustic pitch";
+var mnemonic = "legend risk occur panther addict cliff pyramid peasant possible extra accident sock";

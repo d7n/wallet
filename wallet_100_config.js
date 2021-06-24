@@ -1,1 +1,1 @@
-var mnemonic = "endorse segment math weasel diamond credit appear blade sheriff cluster quiz song";
+var mnemonic = "pipe drop now voyage song light ramp supply duck mass orient tail";

@@ -1,1 +1,1 @@
-var mnemonic = "test chuckle ocean smooth raw edit pretty wheat mandate portion cute movie";
+var mnemonic = "adapt reject endless awful world gun patient cactus vehicle solution island evoke";

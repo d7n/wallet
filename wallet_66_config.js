@@ -1,1 +1,1 @@
-var mnemonic = "clap digital captain method author notice hair receive ritual verb parade recall";
+var mnemonic = "donate huge glare bid clip market cactus joy wage quantum credit burger";

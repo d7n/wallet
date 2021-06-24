@@ -1,1 +1,1 @@
-var mnemonic = "actress afford cycle inmate engage install jelly fly fault surround fit avocado";
+var mnemonic = "among dinosaur lady core blush volume solution novel ginger snap club occur";

@@ -1,1 +1,1 @@
-var mnemonic = "fortune fold hour spare ancient tongue cereal orphan immense bronze syrup carbon";
+var mnemonic = "light lawsuit now asthma fever gate fog awkward govern betray monitor salute";

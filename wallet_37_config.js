@@ -1,1 +1,1 @@
-var mnemonic = "fragile core huge depart six sentence add lawn uncover rich odor weekend";
+var mnemonic = "share swamp erode boring wage mind potato cream usage predict deal duty";

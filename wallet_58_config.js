@@ -1,1 +1,1 @@
-var mnemonic = "thank bicycle canvas crawl ozone project size then clock scan today grunt";
+var mnemonic = "divert elegant kid pepper glimpse left option plate series scan naive divert";

@@ -1,1 +1,1 @@
-var mnemonic = "meat shrimp length milk rug skate embark relief same theme silent purity";
+var mnemonic = "butter collect name tag elephant inspire elder plunge suit guess soul fork";

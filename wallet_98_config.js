@@ -1,1 +1,1 @@
-var mnemonic = "bonus resemble daughter crew same pistol snow amazing perfect hundred dilemma initial";
+var mnemonic = "screen bone abandon swallow find slice fragile else flight must mix hollow";

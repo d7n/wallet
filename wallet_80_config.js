@@ -1,1 +1,1 @@
-var mnemonic = "orange drink auction want market remain educate two elder report reward daring";
+var mnemonic = "keen donate square mercy friend grain predict elevator royal trophy gift clock";

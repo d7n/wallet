@@ -1,1 +1,1 @@
-var mnemonic = "olive idea margin math carpet orient target you combine cave slab wrestle";
+var mnemonic = "satoshi august hurdle banana can uphold layer push fine always movie elevator";

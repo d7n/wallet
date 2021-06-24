@@ -1,1 +1,1 @@
-var mnemonic = "metal blast pond dove south buzz melt game involve shuffle fix absurd";
+var mnemonic = "ribbon company doctor pistol impulse title invest license journey genius second priority";

@@ -1,1 +1,1 @@
-var mnemonic = "away local episode knee problem mammal trend witness hospital mean comfort system";
+var mnemonic = "truck federal use metal opinion track floor forward roast stairs address arm";

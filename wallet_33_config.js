@@ -1,1 +1,1 @@
-var mnemonic = "brush mammal uphold danger half luggage noodle guess alone ripple nest seed";
+var mnemonic = "skin plate crouch faint domain blouse animal globe lonely kid rival category";

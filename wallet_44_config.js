@@ -1,1 +1,1 @@
-var mnemonic = "session never grow grape essay season purity shallow lottery hospital diary slide";
+var mnemonic = "turkey target hundred suit wrestle blue olympic brisk grape scrap endless holiday";

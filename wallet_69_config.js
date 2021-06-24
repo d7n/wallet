@@ -1,1 +1,1 @@
-var mnemonic = "horror mean meadow twice attitude recall code urge tobacco evidence alert guilt";
+var mnemonic = "lazy year sheriff naive leisure force explain despair mask emotion fox replace";

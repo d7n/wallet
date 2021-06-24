@@ -1,1 +1,1 @@
-var mnemonic = "slot area fog process wash latin faculty become tennis mammal version any";
+var mnemonic = "fire drip domain seed visa pull ski marriage age misery office arrange";

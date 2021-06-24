@@ -1,1 +1,1 @@
-var mnemonic = "seed umbrella buzz digital latin knock mouse twenty permit pigeon tonight firm";
+var mnemonic = "extend delay simple federal second salon half reason soda thought sweet top";

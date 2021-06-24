@@ -1,1 +1,1 @@
-var mnemonic = "hip hedgehog zebra service man early note manage witness soul banner blind";
+var mnemonic = "keen more order club legend citizen exchange pet mesh humor credit economy";

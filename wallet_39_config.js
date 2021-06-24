@@ -1,1 +1,1 @@
-var mnemonic = "behave shove clarify nice citizen bid initial spend ring lunch fire foil";
+var mnemonic = "spin hello dove great brand swap apple reform wreck daughter moon fix";

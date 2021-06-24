@@ -1,1 +1,1 @@
-var mnemonic = "multiply chat cash orient predict candy civil pass release calm inject crumble";
+var mnemonic = "wing state father appear just budget print other height wrestle spoil over";

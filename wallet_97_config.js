@@ -1,1 +1,1 @@
-var mnemonic = "town upper ginger cereal clog arch dirt tell tobacco script cause page";
+var mnemonic = "work injury fat minimum that sense public company bracket manage decade question";

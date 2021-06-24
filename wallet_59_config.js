@@ -1,1 +1,1 @@
-var mnemonic = "raise flush train myth include cart timber damp worry glove produce borrow";
+var mnemonic = "stage hotel phrase absurd journey dust sock void bag hawk glove gate";

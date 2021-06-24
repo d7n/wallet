@@ -1,1 +1,1 @@
-var mnemonic = "deposit theme forget layer lunar cruel shield stick poet small pause live";
+var mnemonic = "solar winner laugh permit wear immune sight label tip bullet slender lobster";

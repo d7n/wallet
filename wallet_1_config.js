@@ -1,1 +1,1 @@
-var mnemonic = "nurse wet extend heart cactus raw ginger little tonight brass cousin orchard";
+var mnemonic = "machine ginger wheel crowd allow dash sadness demise medal win myself comic";

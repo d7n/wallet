@@ -1,1 +1,1 @@
-var mnemonic = "exercise merge industry hobby cancel logic bachelor broom unknown chunk scare expire";
+var mnemonic = "apology swift master away color normal permit air acid frozen fall toast";

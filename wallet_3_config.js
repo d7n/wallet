@@ -1,1 +1,1 @@
-var mnemonic = "also company when burden ghost differ believe deputy run lamp actual path";
+var mnemonic = "lesson door april fashion huge cube shallow song chicken still typical win";

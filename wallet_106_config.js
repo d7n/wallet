@@ -1,1 +1,1 @@
-var mnemonic = "remind school ride sign owner deliver quarter awkward fantasy soon same hospital";
+var mnemonic = "hair shiver snow section easily choice brother put rich chalk skill taxi";

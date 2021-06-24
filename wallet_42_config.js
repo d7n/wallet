@@ -1,1 +1,1 @@
-var mnemonic = "shell report recycle dwarf echo web retire metal exit cricket extra volume";
+var mnemonic = "loop slam twelve minimum dignity mirror nice gospel gasp soccer hen whale";

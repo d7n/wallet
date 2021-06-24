@@ -1,1 +1,1 @@
-var mnemonic = "sibling noodle oxygen unhappy wise enemy term chest wish inject render hair";
+var mnemonic = "example only borrow predict fence fiction sphere water trend dirt enforce belt";

@@ -1,1 +1,1 @@
-var mnemonic = "dune love giggle rail fan average alcohol hire student odor trial intact";
+var mnemonic = "broccoli shoe valley exist similar dentist believe culture notice sport alcohol enemy";

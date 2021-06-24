@@ -1,1 +1,1 @@
-var mnemonic = "claw glue pupil radar tribe pudding cheap mind wisdom urban session flight";
+var mnemonic = "result immense dinner end meadow trade rebuild crush lazy key spread science";

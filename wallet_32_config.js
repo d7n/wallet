@@ -1,1 +1,1 @@
-var mnemonic = "swift diagram panel rally surround portion soft fold remind effort across fox";
+var mnemonic = "dance bicycle provide moon obvious replace bitter muffin cheese axis judge sudden";

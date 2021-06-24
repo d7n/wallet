@@ -1,1 +1,1 @@
-var mnemonic = "machine cycle law cake train stereo soul chase figure fluid elegant obey";
+var mnemonic = "already beach nation east estate pledge pigeon sad work vehicle inherit address";

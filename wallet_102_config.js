@@ -1,1 +1,1 @@
-var mnemonic = "coffee muffin eagle swamp kid ice local van path physical brown horn";
+var mnemonic = "bachelor client select blast pistol bachelor market blue smile earth add water";

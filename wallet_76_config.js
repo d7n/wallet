@@ -1,1 +1,1 @@
-var mnemonic = "audit velvet shop mesh strategy monitor require brief just claim hurry awesome";
+var mnemonic = "junk ice pen affair region recall core engine arena wood vapor tissue";

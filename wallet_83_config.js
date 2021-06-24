@@ -1,1 +1,1 @@
-var mnemonic = "lab eight time hospital play apart must state valve total crush define";
+var mnemonic = "enough cave cook rebuild salad lawsuit festival exit party behave zero metal";

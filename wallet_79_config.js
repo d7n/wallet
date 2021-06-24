@@ -1,1 +1,1 @@
-var mnemonic = "tiger patch coach venture layer finger option humble erosion cabbage dial symptom";
+var mnemonic = "buyer rubber alien legal survey dwarf body student attend ahead various crater";

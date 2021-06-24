@@ -1,1 +1,1 @@
-var mnemonic = "gauge neglect wink sausage away tide soft zebra any all mixed board";
+var mnemonic = "number slice lady extend loud cactus dolphin decade document slab various prison";
