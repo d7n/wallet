@@ -1,1 +1,1 @@
-var mnemonic = "pass custom borrow panda sibling little champion foil vendor cost junk axis";
+var mnemonic = "weapon diary sting social chat believe ridge light sad outdoor ring anchor";

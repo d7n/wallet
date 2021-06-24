@@ -1,1 +1,1 @@
-var mnemonic = "soup boost organ marriage ring jazz announce culture notice where lift spread";
+var mnemonic = "link skull embody margin slide omit switch person spring suspect sphere fiction";

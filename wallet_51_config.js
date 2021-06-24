@@ -1,1 +1,1 @@
-var mnemonic = "sun mean misery inform donkey prepare ability fabric quit please upset rain";
+var mnemonic = "meadow decline frame pill much ritual figure tiny grief fashion pave online";

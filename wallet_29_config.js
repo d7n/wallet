@@ -1,1 +1,1 @@
-var mnemonic = "female cherry summer wonder obey old voyage forest tribe fury rotate awesome";
+var mnemonic = "corn south foster below tenant enact tip glide second leopard mask tenant";

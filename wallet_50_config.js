@@ -1,1 +1,1 @@
-var mnemonic = "second august crazy move noise brush repair volcano nuclear antique caution afford";
+var mnemonic = "job quiz regular annual wrong cloud slender sun drill myself like attitude";

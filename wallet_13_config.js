@@ -1,1 +1,1 @@
-var mnemonic = "dolphin mean void math donate tide thunder chicken trim napkin dilemma hen";
+var mnemonic = "unique virus visa silk angry champion inquiry feature mix toddler tennis treat";

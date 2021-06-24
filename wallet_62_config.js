@@ -1,1 +1,1 @@
-var mnemonic = "august person ski legal six doll space fashion ignore ketchup palm find";
+var mnemonic = "negative glide off usage valley add exist aerobic village acoustic enter bless";

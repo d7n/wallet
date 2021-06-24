@@ -1,1 +1,1 @@
-var mnemonic = "bacon fine mosquito liberty syrup soda surround now finger boy sniff frown";
+var mnemonic = "tenant case helmet field vapor clump raise seek wire liquid crunch give";

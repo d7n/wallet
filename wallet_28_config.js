@@ -1,1 +1,1 @@
-var mnemonic = "fragile hungry shoot dry lock green toe panel actress worry hazard outdoor";
+var mnemonic = "calm health extend warfare vanish setup celery invite photo tattoo clip way";

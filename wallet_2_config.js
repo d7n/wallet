@@ -1,1 +1,1 @@
-var mnemonic = "sausage picture purpose item away mail soup limb ribbon shrimp morning clip";
+var mnemonic = "pelican vote pool dinner pink exile night other remove festival soon gym";

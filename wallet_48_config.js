@@ -1,1 +1,1 @@
-var mnemonic = "strike transfer real cotton vital bar slice play guilt wealth worth dad";
+var mnemonic = "card acid gospel deposit valley wing awkward finish retreat bread resemble century";

@@ -1,1 +1,1 @@
-var mnemonic = "auction ice alpha lens congress wire motor hole robot joy success rival";
+var mnemonic = "taste slogan quality burden vapor lunar giraffe naive program busy prefer gauge";

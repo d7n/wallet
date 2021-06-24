@@ -1,1 +1,1 @@
-var mnemonic = "flavor melt chair bonus fortune hard father cover thank silly expect squeeze";
+var mnemonic = "ill trust praise iron security party humor jewel drum net enroll sea";

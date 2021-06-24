@@ -1,1 +1,1 @@
-var mnemonic = "phrase convince diary arch dumb pudding clock round never dice fiscal solution";
+var mnemonic = "country chalk taxi have clap step reveal panther normal avocado ugly grit";

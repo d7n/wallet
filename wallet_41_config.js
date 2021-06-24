@@ -1,1 +1,1 @@
-var mnemonic = "actual scatter detect scare wink pitch next inject atom legal key amused";
+var mnemonic = "mosquito inch fetch bonus upper tumble tape napkin offer hotel cinnamon badge";

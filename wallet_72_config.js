@@ -1,1 +1,1 @@
-var mnemonic = "judge donkey hedgehog virus theory adapt joke flavor eager volume ten whisper";
+var mnemonic = "bless monster aunt dance spot reward foster dinner comic kite decline fog";

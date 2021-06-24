@@ -1,1 +1,1 @@
-var mnemonic = "police arrive raise hill recall symbol into bring avoid rapid endless crucial";
+var mnemonic = "elite youth collect pretty gym change wall swarm fantasy element maze flag";

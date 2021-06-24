@@ -1,1 +1,1 @@
-var mnemonic = "country ozone fit picture sweet vivid amazing rib industry stamp matrix expose";
+var mnemonic = "abandon voyage entire plate deputy sibling unable coast rookie burger pool cliff";

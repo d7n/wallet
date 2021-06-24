@@ -1,1 +1,1 @@
-var mnemonic = "seven rebel chef excite tone siege afford make menu camp route banana";
+var mnemonic = "honey return flee inside early achieve wish rotate delay web setup share";

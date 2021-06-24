@@ -1,1 +1,1 @@
-var mnemonic = "car kitten assault rent tomato mad expand detect lava scissors other chimney";
+var mnemonic = "ridge setup veteran eye dentist useless snack daring face choose glimpse bullet";

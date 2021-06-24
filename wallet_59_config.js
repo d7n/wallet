@@ -1,1 +1,1 @@
-var mnemonic = "maid viable reward rare wrap fatigue blur bubble garment session bullet bottom";
+var mnemonic = "green dinner capable clerk juice match eight purpose risk chapter august knife";

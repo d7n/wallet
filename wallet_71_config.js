@@ -1,1 +1,1 @@
-var mnemonic = "build key debris actor repair fever swear acquire minute film upper medal";
+var mnemonic = "finish across age among idea safe assault tribe news angry cover female";

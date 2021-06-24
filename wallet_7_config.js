@@ -1,1 +1,1 @@
-var mnemonic = "just bean hundred model penalty smoke exhaust plate daring spin trim dawn";
+var mnemonic = "explain vessel health water farm praise pass crater legal shy chicken family";

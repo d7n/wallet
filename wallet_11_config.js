@@ -1,1 +1,1 @@
-var mnemonic = "stay honey moral cruel famous lesson live pencil furnace prepare pole system";
+var mnemonic = "fantasy sad depth riot hockey else flock dutch mass giggle weapon luggage";

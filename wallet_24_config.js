@@ -1,1 +1,1 @@
-var mnemonic = "real season upon boring science find height hat master edge assist time";
+var mnemonic = "series settle pattern dance allow hawk swamp ceiling hybrid quarter drastic test";

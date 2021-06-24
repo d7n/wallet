@@ -1,1 +1,1 @@
-var mnemonic = "nature canvas demand song correct spring riot crop control off olive thank";
+var mnemonic = "proud trigger online hobby enroll seed biology pistol trend stairs grunt rather";

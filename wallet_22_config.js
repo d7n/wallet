@@ -1,1 +1,1 @@
-var mnemonic = "olympic flee congress vote begin age six woman shrimp sudden chat visit";
+var mnemonic = "top addict enlist hair that today eyebrow credit finger decorate excess myself";

@@ -1,1 +1,1 @@
-var mnemonic = "flower lens sunny because subject exhibit error patient divert captain concert sheriff";
+var mnemonic = "border illness minimum sight galaxy fine jealous culture agree tackle crawl rebel";

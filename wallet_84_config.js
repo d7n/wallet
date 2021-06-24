@@ -1,1 +1,1 @@
-var mnemonic = "clock pulp slow trash bargain trophy course member tail race normal wheat";
+var mnemonic = "raven injury half champion mirror gentle render ahead lizard pink cream stairs";

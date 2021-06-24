@@ -1,1 +1,1 @@
-var mnemonic = "topic trust adjust december later skirt artist farm erupt wonder prison exclude";
+var mnemonic = "leisure trial evidence arrow kiss fun leg tomorrow window device garlic next";

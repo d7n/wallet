@@ -1,1 +1,1 @@
-var mnemonic = "employ choice strong uncle mom daughter fold rent carry enemy fiction prevent";
+var mnemonic = "latin can absent oblige profit spirit coral ecology thank rifle educate spot";

@@ -1,1 +1,1 @@
-var mnemonic = "twice fluid elder pact fiscal settle cash kidney badge accuse slender travel";
+var mnemonic = "buffalo audit unique copy jungle tape slim eyebrow endorse promote region crash";

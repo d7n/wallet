@@ -1,1 +1,1 @@
-var mnemonic = "normal salon cactus soda clock match idle fee curtain direct nephew mammal";
+var mnemonic = "address tenant absorb parade what ice pepper blood false sense ginger nephew";

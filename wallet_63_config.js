@@ -1,1 +1,1 @@
-var mnemonic = "develop noodle cotton logic resource switch shallow next task verify vacant deposit";
+var mnemonic = "cash fabric conduct ginger unaware skill shed glass whip slab ball pass";

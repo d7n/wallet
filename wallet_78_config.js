@@ -1,1 +1,1 @@
-var mnemonic = "absent skull armed still banner cigar mix symbol call apple essence denial";
+var mnemonic = "suggest laugh love cube ethics pottery arrive gasp minor rebuild auction deal";

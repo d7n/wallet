@@ -1,1 +1,1 @@
-var mnemonic = "sure under much attract clean onion milk hello genuine rose same survey";
+var mnemonic = "below water habit vibrant idea rude dust reduce garage impose step imitate";

@@ -1,1 +1,1 @@
-var mnemonic = "south quantum brain helmet ride trim trial gospel hurdle divert spring owner";
+var mnemonic = "snap toe insect wild cabbage then bone hundred panel also observe risk";

@@ -1,1 +1,1 @@
-var mnemonic = "film apology always time sun milk muffin surround add guard hungry onion";
+var mnemonic = "merry biology slow family genius menu load novel mechanic uphold detect salon";

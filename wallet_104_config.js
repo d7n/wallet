@@ -1,1 +1,1 @@
-var mnemonic = "payment cement special luxury nose nasty junk erase arena together material lottery";
+var mnemonic = "virus october void dash fuel input winner female because equip junior happy";

@@ -1,1 +1,1 @@
-var mnemonic = "chest option gym strike veteran close velvet group involve coin volcano shrimp";
+var mnemonic = "bottom situate artefact bind victory spell clump trumpet sport cook comfort truth";

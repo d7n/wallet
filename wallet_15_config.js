@@ -1,1 +1,1 @@
-var mnemonic = "blossom tooth unique weapon praise name sell wrestle pink author lens bag";
+var mnemonic = "famous fork lumber liquid relief twist tenant vehicle imitate double athlete various";

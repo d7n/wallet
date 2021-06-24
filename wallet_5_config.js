@@ -1,1 +1,1 @@
-var mnemonic = "border loud reason script issue gaze elephant cattle happy mimic lawn whip";
+var mnemonic = "width coral butter enjoy joke climb motion minor glow seek now shoe";

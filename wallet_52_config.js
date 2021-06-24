@@ -1,1 +1,1 @@
-var mnemonic = "give utility lock vacant bench trigger talk safe elbow analyst hill pudding";
+var mnemonic = "coil glory embody silver drama submit address forget icon approve coin cable";

@@ -1,1 +1,1 @@
-var mnemonic = "bomb true viable put destroy spare laugh profit zebra bamboo sock bless";
+var mnemonic = "piece that bracket tired melody jacket frown say height symptom topple bronze";

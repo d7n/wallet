@@ -1,1 +1,1 @@
-var mnemonic = "trick under rifle bring off coyote soon idea deputy addict salmon patrol";
+var mnemonic = "digital crew task purity vapor disorder route brush silent lobster soda sign";

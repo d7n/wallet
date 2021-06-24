@@ -1,1 +1,1 @@
-var mnemonic = "choice tumble harsh cluster peanut describe fantasy accuse early motor penalty vacant";
+var mnemonic = "scout bridge emotion tiny reduce ten lobster marine traffic glimpse found fire";

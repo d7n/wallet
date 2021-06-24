@@ -1,1 +1,1 @@
-var mnemonic = "base try differ label ski aunt cousin come gesture view people cupboard";
+var mnemonic = "oblige trial minute people nest police feel grace rural fetch embrace broken";

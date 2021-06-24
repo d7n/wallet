@@ -1,1 +1,1 @@
-var mnemonic = "slow glory raven topple success shoe nephew differ custom dutch chat napkin";
+var mnemonic = "approve fiscal produce fetch grunt install attack father parade shock audit top";

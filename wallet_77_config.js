@@ -1,1 +1,1 @@
-var mnemonic = "hurt artwork hover junior chunk culture involve coral action clip spy bread";
+var mnemonic = "shield point diagram fabric eternal major wide canoe hidden intact phrase foil";

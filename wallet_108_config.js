@@ -1,1 +1,1 @@
-var mnemonic = "guide diamond guide faculty midnight rapid typical scrub ribbon royal retreat impact";
+var mnemonic = "silver valley marriage hungry portion air dignity about seminar involve panther wine";

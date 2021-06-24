@@ -1,1 +1,1 @@
-var mnemonic = "solar citizen cover foil twist once erupt token nut utility loan type";
+var mnemonic = "horn where modify umbrella again senior shrug seminar logic dry once auction";

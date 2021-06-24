@@ -1,1 +1,1 @@
-var mnemonic = "client great chuckle grain bubble pretty employ off journey violin invest merry";
+var mnemonic = "logic text divorce rack unhappy hip riot skate liberty scrub panda tiny";

@@ -1,1 +1,1 @@
-var mnemonic = "assist kite soldier cram raise alert monkey session grain tag shove talent";
+var mnemonic = "public athlete syrup essence egg belt inject estate seat manual duck sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "above person depart seat orphan barrel marriage minor kite project royal seminar";
+var mnemonic = "jaguar raccoon hybrid dragon rough waste cram swamp goddess office bamboo welcome";

@@ -1,1 +1,1 @@
-var mnemonic = "snack shop monster twelve leaf sad burger rent use phrase stem civil";
+var mnemonic = "repeat infant skill robust agree great swift bone run pupil bracket harbor";

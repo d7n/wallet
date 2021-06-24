@@ -1,1 +1,1 @@
-var mnemonic = "legal develop apart bench what body head keep resist prevent owner mixture";
+var mnemonic = "memory shoulder effort volcano brand basket tide move spoon crew couch asset";

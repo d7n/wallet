@@ -1,1 +1,1 @@
-var mnemonic = "stage digital wall debris gather sudden seven abstract evoke bread panda idle";
+var mnemonic = "trap cheese flip belt fish price tragic install blur game foster join";

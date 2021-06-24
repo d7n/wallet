@@ -1,1 +1,1 @@
-var mnemonic = "ceiling million math hawk team glow shaft scrap great wave panel climb";
+var mnemonic = "poem wonder brick poverty opera spring primary scan combine ocean phone motion";

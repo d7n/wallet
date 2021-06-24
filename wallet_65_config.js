@@ -1,1 +1,1 @@
-var mnemonic = "club sample extend art goat sell off holiday order quarter thrive pair";
+var mnemonic = "web aspect suit fit pioneer announce salt victory youth extra clip festival";

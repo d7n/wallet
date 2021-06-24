@@ -1,1 +1,1 @@
-var mnemonic = "save neglect vendor letter climb trust celery office fame enhance basic amused";
+var mnemonic = "service broken reveal trend surprise bleak gather connect marriage banner parrot breeze";

@@ -1,1 +1,1 @@
-var mnemonic = "message ceiling speak erode jump source endorse spice deal ahead skin into";
+var mnemonic = "bone modify jacket give one define aerobic physical glance girl gaze approve";

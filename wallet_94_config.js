@@ -1,1 +1,1 @@
-var mnemonic = "erupt tuition school speak same lumber file crisp save tag hawk history";
+var mnemonic = "pottery million turn dad embody trumpet small charge ticket exit before prevent";

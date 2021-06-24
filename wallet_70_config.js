@@ -1,1 +1,1 @@
-var mnemonic = "matrix knee yellow squeeze innocent giraffe clarify seek error screen mobile army";
+var mnemonic = "verb tower length entire second horn success supreme digital indoor useful snake";

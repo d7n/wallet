@@ -1,1 +1,1 @@
-var mnemonic = "dragon ozone oyster pluck wagon chaos miss harvest fatigue search own strong";
+var mnemonic = "economy velvet stay vacant beauty style hire vendor medal rich mail you";

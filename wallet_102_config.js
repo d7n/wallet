@@ -1,1 +1,1 @@
-var mnemonic = "force merit plate doctor dial cake style amazing sponsor neck save warfare";
+var mnemonic = "reopen target conduct benefit exclude replace gasp shaft village thunder reason zero";

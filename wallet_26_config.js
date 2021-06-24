@@ -1,1 +1,1 @@
-var mnemonic = "mammal opera retire theory license muffin empty dolphin visa grocery egg because";
+var mnemonic = "rabbit join girl absurd manual can drop follow vanish police police girl";

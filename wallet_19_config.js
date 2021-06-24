@@ -1,1 +1,1 @@
-var mnemonic = "bounce suggest brush ethics praise raise urban stand brief tenant left flag";
+var mnemonic = "mercy sing organ super pretty rather scorpion name oven friend rate lawn";

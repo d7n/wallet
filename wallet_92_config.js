@@ -1,1 +1,1 @@
-var mnemonic = "vessel evil laundry tobacco gas pink focus sell group input flower outdoor";
+var mnemonic = "when shiver pistol family state biology fan rotate inspire stay gospel cushion";

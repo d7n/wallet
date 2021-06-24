@@ -1,1 +1,1 @@
-var mnemonic = "utility quantum cactus spring pigeon robot announce roof dynamic spice wine retire";
+var mnemonic = "cave fatigue fetch trust suspect ensure country oven pitch rule slot open";

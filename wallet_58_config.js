@@ -1,1 +1,1 @@
-var mnemonic = "magnet ten pave coin angle season just used track cushion art poverty";
+var mnemonic = "supreme useless amazing private question spoil mother nothing arch caution odor this";

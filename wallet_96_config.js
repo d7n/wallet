@@ -1,1 +1,1 @@
-var mnemonic = "conduct expire photo urban unaware stem limit brass brief blind tilt ramp";
+var mnemonic = "kidney hedgehog try trend addict glide ranch diamond arrest apple print tired";

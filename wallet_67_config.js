@@ -1,1 +1,1 @@
-var mnemonic = "jealous jaguar jazz into bone then orbit net bind million wheat drive";
+var mnemonic = "notice parent arrive only almost demise unfair affair thunder swear between dove";

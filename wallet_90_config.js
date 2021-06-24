@@ -1,1 +1,1 @@
-var mnemonic = "electric dance fortune satisfy cram opinion old balance father merge poverty stable";
+var mnemonic = "else window actual matter social tag fancy zebra ski empower hamster car";

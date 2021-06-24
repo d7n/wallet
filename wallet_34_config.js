@@ -1,1 +1,1 @@
-var mnemonic = "winner urban turn pioneer blood humble ask rookie spin disorder sound harsh";
+var mnemonic = "connect bird release general crawl lunch crazy quick mansion road reveal improve";

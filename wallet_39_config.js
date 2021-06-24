@@ -1,1 +1,1 @@
-var mnemonic = "bundle muffin kidney tide bulb robot skate detect address still interest still";
+var mnemonic = "expose spare slide man suggest census helmet horse crater eagle guard coral";

@@ -1,1 +1,1 @@
-var mnemonic = "lemon bottom notice recall system police squeeze gossip fun erupt blast blush";
+var mnemonic = "talent object melt swear hurdle age rely garlic snack wise pitch style";

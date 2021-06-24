@@ -1,1 +1,1 @@
-var mnemonic = "violin soup innocent liquid flock mechanic extend mixed eternal close more lonely";
+var mnemonic = "clever damage fiscal away tattoo corn giant uncover slush lift van burst";

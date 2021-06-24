@@ -1,1 +1,1 @@
-var mnemonic = "speed sing fold siege duty love bag asthma world debris antenna river";
+var mnemonic = "trip icon empower mango glimpse learn sadness exit foil pet obtain salmon";

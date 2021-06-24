@@ -1,1 +1,1 @@
-var mnemonic = "relax proof foot post habit hill giant vote potato arch rate vessel";
+var mnemonic = "mixed mushroom bless edit riot stereo silver citizen portion friend marble brisk";

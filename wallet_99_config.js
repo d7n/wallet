@@ -1,1 +1,1 @@
-var mnemonic = "rain poverty marriage toe tobacco gun yard stamp extra mask craft badge";
+var mnemonic = "toast kind clay struggle defense dust staff barrel govern wheel salt general";

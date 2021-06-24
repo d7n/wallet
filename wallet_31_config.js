@@ -1,1 +1,1 @@
-var mnemonic = "celery sweet clock panda fatal latin shed picture leave key shadow surge";
+var mnemonic = "fire make rack muscle attract local wrestle often connect bridge clerk route";

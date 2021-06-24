@@ -1,1 +1,1 @@
-var mnemonic = "wink net tackle luxury visit way cancel gift rapid topic prepare spray";
+var mnemonic = "neutral tell undo pig rice veteran always file glide stumble glare face";

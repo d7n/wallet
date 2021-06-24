@@ -1,1 +1,1 @@
-var mnemonic = "question warm call sick sibling muscle person neither fun winter physical reveal";
+var mnemonic = "wet shadow melody argue maximum return grunt copy hope tattoo inch alcohol";

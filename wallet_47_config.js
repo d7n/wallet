@@ -1,1 +1,1 @@
-var mnemonic = "tortoise grant music photo subway describe rescue swamp sort nest kiwi label";
+var mnemonic = "front bronze become replace box impose power atom ramp mirror soft teach";

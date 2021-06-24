@@ -1,1 +1,1 @@
-var mnemonic = "account live echo enhance fog arrive pretty finger sheriff market sugar quit";
+var mnemonic = "pill raccoon annual unaware define female trick card blade found mistake hungry";

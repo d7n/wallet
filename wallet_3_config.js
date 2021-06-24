@@ -1,1 +1,1 @@
-var mnemonic = "noodle coral salmon kiwi force fiction half outer cradle hobby exile wolf";
+var mnemonic = "flight whisper provide satisfy pretty toilet sign lady pave can magnet muffin";

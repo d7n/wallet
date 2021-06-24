@@ -1,1 +1,1 @@
-var mnemonic = "stage enter idea boy razor pizza alley smart urge gold isolate spoon";
+var mnemonic = "fuel refuse swarm atom candy penalty office quantum invite pitch bag wood";

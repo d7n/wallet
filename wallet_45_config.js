@@ -1,1 +1,1 @@
-var mnemonic = "transfer penalty invest famous addict bind shell glance vague soul move catalog";
+var mnemonic = "glance strategy myself image brass correct receive bike globe crash banana prefer";

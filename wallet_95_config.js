@@ -1,1 +1,1 @@
-var mnemonic = "assist same milk grid arm noble method visual merit bless detect cloud";
+var mnemonic = "speak measure reduce typical quote twist harsh version unique judge dinosaur goose";

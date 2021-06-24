@@ -1,1 +1,1 @@
-var mnemonic = "buffalo strategy trade exotic gossip token own cook sure short midnight mercy";
+var mnemonic = "toast legal excuse parade dry glimpse main remind behind system summer throw";

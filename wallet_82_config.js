@@ -1,1 +1,1 @@
-var mnemonic = "easily poverty doll mesh exhaust guitar vague program shove little whisper south";
+var mnemonic = "kitten reason symbol swing book identify bonus life detect pupil drastic lemon";
