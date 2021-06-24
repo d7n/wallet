@@ -1,1 +1,1 @@
-var mnemonic = "again combine enemy venue odor siren away youth treat settle green fortune";
+var mnemonic = "food record length anchor little ask monkey fever grape suggest rose elite";

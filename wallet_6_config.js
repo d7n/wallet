@@ -1,1 +1,1 @@
-var mnemonic = "few vault yellow diamond acquire bachelor divert mansion shadow erupt soon oval";
+var mnemonic = "limit soon action captain burden december rain spice heavy mother romance crash";

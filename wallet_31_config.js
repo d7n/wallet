@@ -1,1 +1,1 @@
-var mnemonic = "sign remain thing crystal pudding dawn session boat crime message blush bind";
+var mnemonic = "loop silly conduct prize frost trade witness thank horror science want bright";

@@ -1,1 +1,1 @@
-var mnemonic = "endorse access profit typical dutch fiction frozen furnace boat muscle disagree dinner";
+var mnemonic = "treat solve female size book surface naive illness wrist turn palm dizzy";

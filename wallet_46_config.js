@@ -1,1 +1,1 @@
-var mnemonic = "glad course tank shallow country reduce final tattoo electric glow green gospel";
+var mnemonic = "strong anchor stairs coconut gather sweet twice settle river actor wear arrow";

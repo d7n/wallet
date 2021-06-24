@@ -1,1 +1,1 @@
-var mnemonic = "devote vanish monitor flee young diamond okay device family voice arrest average";
+var mnemonic = "drink dismiss unable bike cat time ankle ecology sock wing shy lawsuit";

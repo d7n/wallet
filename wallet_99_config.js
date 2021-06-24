@@ -1,1 +1,1 @@
-var mnemonic = "tourist hope focus super idea sea fit unhappy simple virtual foil joy";
+var mnemonic = "bamboo insane gospel brave tuition reopen glove soft thing raw help teach";

@@ -1,1 +1,1 @@
-var mnemonic = "man try horror diesel sketch drum tilt imitate joke brand say pen";
+var mnemonic = "dune army remind foam economy culture buyer grab parrot pelican switch tank";

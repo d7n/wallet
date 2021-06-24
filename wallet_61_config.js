@@ -1,1 +1,1 @@
-var mnemonic = "flavor rapid brief vast figure six black desk monitor foot raw myself";
+var mnemonic = "segment twin limb orphan wild spirit river inhale have medal beef upon";

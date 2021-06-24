@@ -1,1 +1,1 @@
-var mnemonic = "industry orange mom slice hour surprise hen learn penalty world giant permit";
+var mnemonic = "shift cargo people occur chase elbow mad report always want decline round";

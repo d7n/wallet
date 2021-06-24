@@ -1,1 +1,1 @@
-var mnemonic = "crater since orange danger add that monster youth waste cover inflict lava";
+var mnemonic = "arm buyer naive high napkin sing element remind nominee notable device earn";

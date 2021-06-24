@@ -1,1 +1,1 @@
-var mnemonic = "afraid snow absorb cement dwarf arrange device wasp over business omit nerve";
+var mnemonic = "leisure cage praise author moral multiply thumb guide anger spend cigar drink";

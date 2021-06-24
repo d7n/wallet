@@ -1,1 +1,1 @@
-var mnemonic = "else pause exchange field describe mad stuff enjoy diary excess tonight equip";
+var mnemonic = "during october dust deposit august nothing repair gadget illness cash enlist radar";

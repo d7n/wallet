@@ -1,1 +1,1 @@
-var mnemonic = "access twice prize organ brass match genius visa increase connect range slow";
+var mnemonic = "pole wool sweet sister panic still submit embark comfort cake banner sweet";

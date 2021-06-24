@@ -1,1 +1,1 @@
-var mnemonic = "tell zero skull sibling never oblige catch rich balance bind movie flee";
+var mnemonic = "crystal draft tiger behind trouble jar tennis title busy slight gasp rug";

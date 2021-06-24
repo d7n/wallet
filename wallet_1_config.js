@@ -1,1 +1,1 @@
-var mnemonic = "inquiry develop banner arrest regular option gown air lottery moon slow liquid";
+var mnemonic = "forward lady nuclear armed near pull sauce record caution step pulse metal";

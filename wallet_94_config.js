@@ -1,1 +1,1 @@
-var mnemonic = "south milk master grace gesture video priority dumb air faith wide little";
+var mnemonic = "grief tunnel hero mass emerge electric rescue picture outside leg huge illness";

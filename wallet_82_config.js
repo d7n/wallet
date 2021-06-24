@@ -1,1 +1,1 @@
-var mnemonic = "dignity chief shaft estate metal jacket inspire rare swamp remain abstract mobile";
+var mnemonic = "scrub subject flock state spare aisle punch dolphin million struggle start siren";

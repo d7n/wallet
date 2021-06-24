@@ -1,1 +1,1 @@
-var mnemonic = "recall alpha protect lawn town certain forget return hospital horn predict ginger";
+var mnemonic = "affair uncover tortoise narrow reward turn that gain blush edit rich gap";

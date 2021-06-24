@@ -1,1 +1,1 @@
-var mnemonic = "heart salmon fringe glory height run mansion duty cupboard about mesh hip";
+var mnemonic = "rug grid finger garbage borrow jungle profit universe empower team light vacant";

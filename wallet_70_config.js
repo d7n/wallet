@@ -1,1 +1,1 @@
-var mnemonic = "orbit hire cross boat mountain pizza economy rabbit tower frequent color major";
+var mnemonic = "awesome cake curtain run century bless wrong execute primary budget essay horn";

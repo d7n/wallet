@@ -1,1 +1,1 @@
-var mnemonic = "galaxy lecture enact other deer exercise buffalo visit gravity tape unit planet";
+var mnemonic = "eagle ocean guide jealous donor erupt rhythm glimpse noise below benefit nuclear";

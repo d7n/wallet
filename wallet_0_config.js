@@ -1,1 +1,1 @@
-var mnemonic = "spring scare they define fragile rifle struggle verb witness radio pole song";
+var mnemonic = "capital insect want provide oblige rabbit nerve harbor update soap punch alarm";

@@ -1,1 +1,1 @@
-var mnemonic = "stick life rhythm vanish spread artefact beauty erupt remove beyond notable deputy";
+var mnemonic = "potato seven october live fire vacuum tortoise style item series dish just";

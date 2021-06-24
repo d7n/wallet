@@ -1,1 +1,1 @@
-var mnemonic = "rule taste picnic reform stumble elephant hollow draw super kiwi seek employ";
+var mnemonic = "grocery zero wear silver decide differ bone gather please rude faculty flash";

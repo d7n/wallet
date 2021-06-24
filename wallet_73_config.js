@@ -1,1 +1,1 @@
-var mnemonic = "nation act woman index auction eager task sweet slow include stable palm";
+var mnemonic = "moment blush vacant trumpet globe genuine gadget enlist early tide buyer glare";

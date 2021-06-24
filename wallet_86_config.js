@@ -1,1 +1,1 @@
-var mnemonic = "yard perfect produce deposit day network will reunion shoulder blind uniform try";
+var mnemonic = "face neutral oyster vibrant chase company web stadium enact purity remember coconut";

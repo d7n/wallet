@@ -1,1 +1,1 @@
-var mnemonic = "unique large sad often vicious glory jar never choice guitar cable nose";
+var mnemonic = "afford dash alone custom trash shadow canvas torch seat snap rifle fitness";

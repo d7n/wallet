@@ -1,1 +1,1 @@
-var mnemonic = "era used motion bind hold abstract fame grit stumble rough glimpse cinnamon";
+var mnemonic = "remain void hood title network diet swear chest urge fish year shove";

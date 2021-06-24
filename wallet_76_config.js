@@ -1,1 +1,1 @@
-var mnemonic = "hand cute start tenant weasel broom chalk nothing capable need cave raven";
+var mnemonic = "monster ridge member tool soccer ketchup can six question rookie promote olympic";

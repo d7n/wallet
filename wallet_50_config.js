@@ -1,1 +1,1 @@
-var mnemonic = "question heavy open inhale emotion salad robust you biology answer gallery rescue";
+var mnemonic = "fresh unfold beauty shine firm nut type sun chat special foster august";

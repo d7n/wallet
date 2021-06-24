@@ -1,1 +1,1 @@
-var mnemonic = "language spider welcome label account camera whip index artwork stuff knock attend";
+var mnemonic = "alien mutual answer normal evil pause student fashion pioneer lawsuit front thank";

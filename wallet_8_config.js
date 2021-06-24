@@ -1,1 +1,1 @@
-var mnemonic = "snack genre key observe romance radar six flavor soldier expect stock special";
+var mnemonic = "carpet obscure original goat juice walnut lamp script describe panda stadium basket";

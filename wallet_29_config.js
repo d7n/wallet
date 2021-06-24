@@ -1,1 +1,1 @@
-var mnemonic = "oyster blood cover amused warm shift surface patrol near tackle pair position";
+var mnemonic = "slide clap mass guide jeans scan art regular right melody credit slush";

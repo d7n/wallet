@@ -1,1 +1,1 @@
-var mnemonic = "slam creek head oil cigar crazy salute worry puzzle parade despair engine";
+var mnemonic = "zone index aim north country muscle journey letter image sentence memory junk";

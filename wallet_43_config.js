@@ -1,1 +1,1 @@
-var mnemonic = "ivory cram gesture hobby can pool card mammal soul tank pudding elephant";
+var mnemonic = "roast size orient stay shell border hawk face eternal case turn tuna";

@@ -1,1 +1,1 @@
-var mnemonic = "domain raven you spirit hobby laundry pride solve clever attack minute gown";
+var mnemonic = "cannon idea aerobic pencil couple place observe alcohol across mosquito muffin plastic";

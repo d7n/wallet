@@ -1,1 +1,1 @@
-var mnemonic = "spy achieve regular traffic category young swallow wife modify shoe agent smile";
+var mnemonic = "afraid stove winner impact wash remain quantum nurse cactus width clog impulse";

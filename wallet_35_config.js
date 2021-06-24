@@ -1,1 +1,1 @@
-var mnemonic = "orphan shiver two during move flight peanut govern copper tonight frown flee";
+var mnemonic = "tired mammal live loyal load august dial tiny uphold tiger refuse illegal";

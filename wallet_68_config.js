@@ -1,1 +1,1 @@
-var mnemonic = "nerve jeans symptom lend caught belt minimum solid thing logic globe filter";
+var mnemonic = "shoe upon response liar mad cherry sting snack tell matrix someone crime";

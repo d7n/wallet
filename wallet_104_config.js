@@ -1,1 +1,1 @@
-var mnemonic = "fish fiction latin limb allow gadget rose blue host shove also spend";
+var mnemonic = "hub meat lake strike horse inhale twist plastic monitor memory outer medal";

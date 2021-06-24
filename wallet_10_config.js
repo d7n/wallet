@@ -1,1 +1,1 @@
-var mnemonic = "erupt exercise fork pig antenna celery soft salad company ankle media cotton";
+var mnemonic = "normal similar imitate sun slab private toward supply review van usage route";

@@ -1,1 +1,1 @@
-var mnemonic = "video nasty bronze slice knee harvest charge age anger era worth clown";
+var mnemonic = "equip spring analyst relax visual horror helmet view prepare room spin clip";

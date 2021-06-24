@@ -1,1 +1,1 @@
-var mnemonic = "elegant measure toddler voice tag van april parent ocean payment nothing hero";
+var mnemonic = "shed neglect nose village impulse eager surround sustain crumble catch pond employ";

@@ -1,1 +1,1 @@
-var mnemonic = "into fluid belt fragile simple traffic shiver pear debate ranch afraid size";
+var mnemonic = "input observe before immense ribbon fortune stairs color tomorrow gospel school rookie";

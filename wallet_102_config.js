@@ -1,1 +1,1 @@
-var mnemonic = "device virus magnet limit midnight unlock twice measure reason mirror quiz dinner";
+var mnemonic = "crowd ill action ancient census gadget typical resource office sad coconut chalk";

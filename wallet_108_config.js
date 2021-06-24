@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit lucky blur snack sport ankle final work later vacant armor then";
+var mnemonic = "zone know few bulb toilet manage huge spoil once doll brown dove";

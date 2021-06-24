@@ -1,1 +1,1 @@
-var mnemonic = "morning insane wolf vanish other group firm mixture bid leisure tool victory";
+var mnemonic = "siege legend olive dirt raccoon zoo need grab model relax fashion try";

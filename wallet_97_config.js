@@ -1,1 +1,1 @@
-var mnemonic = "drop chronic boil rapid garbage trumpet episode document carry surface claw teach";
+var mnemonic = "curve velvet display detect sing knee heart sentence dust shiver victory arena";

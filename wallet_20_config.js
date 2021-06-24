@@ -1,1 +1,1 @@
-var mnemonic = "gasp acoustic evidence gap lumber gift tower usual naive dinner pride congress";
+var mnemonic = "sense more negative hold rude step travel birth fire betray quote robot";

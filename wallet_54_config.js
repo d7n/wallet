@@ -1,1 +1,1 @@
-var mnemonic = "wash bundle super trial copper loop rule unable proud fossil stand you";
+var mnemonic = "vessel real tilt episode brand stick spirit match distance dice feature jazz";

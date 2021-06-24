@@ -1,1 +1,1 @@
-var mnemonic = "bacon pencil love mean pact twenty fiscal brass winter just pole knee";
+var mnemonic = "march gauge museum rabbit trumpet law dice attack tornado profit trial foot";

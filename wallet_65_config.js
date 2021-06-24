@@ -1,1 +1,1 @@
-var mnemonic = "armed dose cliff cigar praise goat song zero person quiz digital inform";
+var mnemonic = "soda mean oak neglect bless police chicken echo recipe surround jump scrub";

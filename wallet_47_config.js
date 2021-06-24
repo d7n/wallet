@@ -1,1 +1,1 @@
-var mnemonic = "reduce strong dentist bundle agent drop cabbage embody secret amazing slogan near";
+var mnemonic = "large mango bomb divorce beach purity woman icon found seat resource embrace";

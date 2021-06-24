@@ -1,1 +1,1 @@
-var mnemonic = "gate wear clump wrist all volcano sheriff rabbit already moment hamster genre";
+var mnemonic = "absorb weather wrist razor spray analyst immune grain foil stone paddle salmon";

@@ -1,1 +1,1 @@
-var mnemonic = "shy holiday bean olympic embark vintage voice coil fat direct family barely";
+var mnemonic = "reject road correct affair sing onion modify barely scatter crane fly diagram";

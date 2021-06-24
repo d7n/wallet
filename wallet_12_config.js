@@ -1,1 +1,1 @@
-var mnemonic = "biology guess buzz connect october also actor pepper review oak evoke crisp";
+var mnemonic = "hockey box chat spot spread garage just crane cage avocado tongue lizard";

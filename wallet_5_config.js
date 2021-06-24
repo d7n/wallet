@@ -1,1 +1,1 @@
-var mnemonic = "egg require soup note crane best now flee reunion language ancient dentist";
+var mnemonic = "magnet whale panel arrange mechanic clog diet cram bulb sunny aspect phrase";

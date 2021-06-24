@@ -1,1 +1,1 @@
-var mnemonic = "limb maze message skin regret floor fog million solve buzz hockey moral";
+var mnemonic = "guard place muffin blind deposit phrase dad claim hungry snake over sniff";

@@ -1,1 +1,1 @@
-var mnemonic = "wrap just robust keen spare slight forward emerge bamboo enhance frog bomb";
+var mnemonic = "pattern require junior digital online fame trigger unlock umbrella hover minimum expose";

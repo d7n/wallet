@@ -1,1 +1,1 @@
-var mnemonic = "rug sense bracket sad extra company laptop job aspect plug maple pledge";
+var mnemonic = "drift garlic modify lend laugh attack puzzle hurt blanket trouble split reopen";

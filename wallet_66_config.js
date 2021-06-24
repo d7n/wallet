@@ -1,1 +1,1 @@
-var mnemonic = "impulse panic syrup layer extra resource brisk boost junk long impose express";
+var mnemonic = "gesture hotel ladder round fix dinosaur twin name bus dignity coral paddle";

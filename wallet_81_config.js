@@ -1,1 +1,1 @@
-var mnemonic = "core improve dumb little ahead pear castle maximum resist kitten suspect twice";
+var mnemonic = "harbor about normal rural rocket trouble wrestle daring resist library cash cliff";

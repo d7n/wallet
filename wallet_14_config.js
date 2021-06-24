@@ -1,1 +1,1 @@
-var mnemonic = "powder river often awake drive donor race upper also glide fine panda";
+var mnemonic = "item useless emerge script tray stairs reduce only swear property slide cost";

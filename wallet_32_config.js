@@ -1,1 +1,1 @@
-var mnemonic = "bottom impulse electric cost beyond pretty lunch fantasy ill steak hair write";
+var mnemonic = "picture mountain defy impose bus dog heart travel ocean winner fish manual";

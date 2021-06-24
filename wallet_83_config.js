@@ -1,1 +1,1 @@
-var mnemonic = "safe slab bulk unable father cycle receive ring pigeon rocket wolf polar";
+var mnemonic = "silk choice industry puppy cloud panic erupt since decade drink town defy";

@@ -1,1 +1,1 @@
-var mnemonic = "arena finish liberty loan service under insane amused reform rubber alone tuna";
+var mnemonic = "throw team problem enroll annual social paddle hobby prison nurse price nut";

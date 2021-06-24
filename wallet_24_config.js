@@ -1,1 +1,1 @@
-var mnemonic = "kiwi hard film title stick hero island minute spike tree early secret";
+var mnemonic = "vast flag robot stairs era sniff primary cushion salute hero choose tool";

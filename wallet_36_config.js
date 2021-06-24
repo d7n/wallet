@@ -1,1 +1,1 @@
-var mnemonic = "luxury amazing social random hill level cage phrase burden mind sustain march";
+var mnemonic = "hockey gentle pause animal squeeze parrot void slot draw citizen please swift";

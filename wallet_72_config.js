@@ -1,1 +1,1 @@
-var mnemonic = "radio begin artwork addict inspire leader suffer buyer position demand timber hip";
+var mnemonic = "bike speak afford armed sun tiny kiss remind crane prepare violin recycle";

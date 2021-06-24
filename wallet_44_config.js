@@ -1,1 +1,1 @@
-var mnemonic = "day skirt quarter napkin random mask deer isolate arrest grow world lonely";
+var mnemonic = "burger now alcohol into afraid cool era often friend alter obscure tip";

@@ -1,1 +1,1 @@
-var mnemonic = "wave mimic loud leg question mask moment patient plug long cheap sphere";
+var mnemonic = "melody action plate soul still melody express police kingdom lobster basket diary";

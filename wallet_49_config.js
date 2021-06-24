@@ -1,1 +1,1 @@
-var mnemonic = "domain stool boss pioneer balcony smile main document kidney insane witness wine";
+var mnemonic = "design advice affair bottom dial oblige inner borrow praise input traffic play";

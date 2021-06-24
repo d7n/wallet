@@ -1,1 +1,1 @@
-var mnemonic = "ghost utility desert coffee whip flag oblige call this genuine govern village";
+var mnemonic = "until buffalo predict sphere false story rifle cause observe crack illness valley";

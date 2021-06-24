@@ -1,1 +1,1 @@
-var mnemonic = "glove provide noodle version stem dust whisper loop twelve mango wave citizen";
+var mnemonic = "paper second correct pet identify huge copper aim inner cereal message way";

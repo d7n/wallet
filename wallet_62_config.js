@@ -1,1 +1,1 @@
-var mnemonic = "tragic angle convince gallery receive member flame rebel trim cherry gadget clerk";
+var mnemonic = "flavor please outdoor sugar country dwarf aerobic novel napkin heavy soul tissue";

@@ -1,1 +1,1 @@
-var mnemonic = "become dad wood arrow wink elephant decline bacon across gesture october nominee";
+var mnemonic = "collect group flight winter visual base result liar either brush patient roof";

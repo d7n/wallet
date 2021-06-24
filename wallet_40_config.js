@@ -1,1 +1,1 @@
-var mnemonic = "ecology insect antenna glove kiss lawn squeeze bind other pipe leopard news";
+var mnemonic = "library business cloth bridge laptop estate pilot other verb clown win team";

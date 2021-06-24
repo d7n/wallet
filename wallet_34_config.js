@@ -1,1 +1,1 @@
-var mnemonic = "foster ladder absurd goat trick sell subway capable doll cool hotel regular";
+var mnemonic = "inspire chimney decrease sibling humor rookie air brief fit sheriff round salt";

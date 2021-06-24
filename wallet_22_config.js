@@ -1,1 +1,1 @@
-var mnemonic = "call sock skate twenty potato guitar chunk upper dial scout market wise";
+var mnemonic = "mechanic clay lock churn street north season public air route impulse pause";

@@ -1,1 +1,1 @@
-var mnemonic = "file million grid elevator shuffle chronic manage exact noodle sibling guitar kingdom";
+var mnemonic = "pilot close effort found romance number notable lizard culture festival fruit puzzle";

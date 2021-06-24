@@ -1,1 +1,1 @@
-var mnemonic = "shine dumb pink noble express picnic coin clinic solid garment divorce aspect";
+var mnemonic = "tape leave inner brief stadium decide sentence toilet harsh announce lab dream";

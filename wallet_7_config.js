@@ -1,1 +1,1 @@
-var mnemonic = "idea burger erode damp first ride bone feel glimpse know oval wire";
+var mnemonic = "quiz elite jungle banana nerve prefer curve segment viable orphan sauce fluid";

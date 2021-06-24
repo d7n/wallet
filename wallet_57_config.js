@@ -1,1 +1,1 @@
-var mnemonic = "elegant fix during balance stay rain help coin fiscal kit kind check";
+var mnemonic = "pitch spray total yard carry badge coach park gloom sick faint pelican";

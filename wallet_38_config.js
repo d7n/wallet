@@ -1,1 +1,1 @@
-var mnemonic = "style chaos bean flower crater pipe brass column duck core rapid pupil";
+var mnemonic = "tent mix sound bitter kit goat exclude large bar custom shrimp priority";

@@ -1,1 +1,1 @@
-var mnemonic = "inject myth rice ring above skin fault parent sample tray wise object";
+var mnemonic = "insect reveal merit obtain combine vital combine pencil void acoustic mushroom gate";

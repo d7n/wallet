@@ -1,1 +1,1 @@
-var mnemonic = "decorate victory abuse broom vast comfort waste toast win attack few inner";
+var mnemonic = "cotton become gather purchase result leisure private pact solution tag roof office";

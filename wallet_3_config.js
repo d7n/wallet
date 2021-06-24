@@ -1,1 +1,1 @@
-var mnemonic = "library oven equal step chief style embrace metal green pupil bonus tonight";
+var mnemonic = "burst sunny syrup blanket six another track ginger middle work gate day";

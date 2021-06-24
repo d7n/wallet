@@ -1,1 +1,1 @@
-var mnemonic = "series warfare country return whale wasp weird predict biology magnet believe render";
+var mnemonic = "music pilot mesh mask destroy exit please ranch leisure scale limb debate";

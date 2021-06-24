@@ -1,1 +1,1 @@
-var mnemonic = "drip uniform fence venture glance discover blast scheme pluck rare fiscal enact";
+var mnemonic = "cloud exit tornado draw correct price wisdom resemble cushion rabbit ginger snap";

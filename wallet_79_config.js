@@ -1,1 +1,1 @@
-var mnemonic = "midnight obtain exist journey wink ensure drift message flush credit diamond must";
+var mnemonic = "feed spread inject other control reward symptom knife object face neck flag";

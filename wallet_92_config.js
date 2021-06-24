@@ -1,1 +1,1 @@
-var mnemonic = "among wreck dice same vault because invest document point work special fence";
+var mnemonic = "hawk decrease pact narrow tissue stock saddle series child donkey space lazy";
