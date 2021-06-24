@@ -1,1 +1,1 @@
-var mnemonic = "assist mirror believe wolf clarify faith alert focus notice expose curious thought";
+var mnemonic = "journey elevator rhythm soul crucial town patient zone demand bench only nice";

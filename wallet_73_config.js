@@ -1,1 +1,1 @@
-var mnemonic = "ball more patch raven lion two gaze height clutch renew roast list";
+var mnemonic = "thumb zone supreme erupt train history bind gasp silver little tongue wall";

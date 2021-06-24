@@ -1,1 +1,1 @@
-var mnemonic = "type leaf job left minute blush boost amount upset ancient element vanish";
+var mnemonic = "puppy library carbon ankle cry fluid bench visa nice ritual ordinary this";

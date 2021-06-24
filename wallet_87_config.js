@@ -1,1 +1,1 @@
-var mnemonic = "soccer arrow spot trigger quantum kangaroo enlist over submit atom push dice";
+var mnemonic = "pluck van distance hybrid then heart pony layer exact breeze indoor visual";

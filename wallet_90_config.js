@@ -1,1 +1,1 @@
-var mnemonic = "throw skill gauge foil code senior toddler wine pink snack helmet whisper";
+var mnemonic = "vacuum decide decrease hospital else vicious script unfair skull this thank scale";

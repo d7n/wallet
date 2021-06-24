@@ -1,1 +1,1 @@
-var mnemonic = "mind neither suspect member accuse oppose wrong erupt extra core destroy curious";
+var mnemonic = "middle exchange song broccoli inquiry horn moral junk lava grocery budget tuna";

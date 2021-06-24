@@ -1,1 +1,1 @@
-var mnemonic = "glimpse industry maximum topic opera yard eager solve security faith maximum auto";
+var mnemonic = "awkward when zebra world degree throw lyrics rhythm october glue sun pilot";

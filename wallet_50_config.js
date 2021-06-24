@@ -1,1 +1,1 @@
-var mnemonic = "number air thrive tag group stool draw slow dumb future tube page";
+var mnemonic = "couple bronze motion soldier spring cook paddle leisure gasp black gap scare";

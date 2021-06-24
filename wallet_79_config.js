@@ -1,1 +1,1 @@
-var mnemonic = "peasant doll obtain require gate delay market scrap zero december kind satoshi";
+var mnemonic = "ride fiscal lion salmon unusual march tortoise tank winner flat drive that";

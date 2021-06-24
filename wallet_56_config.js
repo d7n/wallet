@@ -1,1 +1,1 @@
-var mnemonic = "fault dash aisle cup large weird injury pass any coil two staff";
+var mnemonic = "style section oil window danger violin forget vicious accuse kit liberty pave";

@@ -1,1 +1,1 @@
-var mnemonic = "dial obtain shallow loyal catalog gym bird horn story tenant nut blossom";
+var mnemonic = "bonus humble desk imitate soap text labor sell birth material fresh couch";

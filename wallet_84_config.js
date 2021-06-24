@@ -1,1 +1,1 @@
-var mnemonic = "devote chef gaze march hour transfer fetch involve trade animal install romance";
+var mnemonic = "scare portion click patrol clock skull force follow type supreme menu truck";

@@ -1,1 +1,1 @@
-var mnemonic = "few goose resource switch can guard rubber original juice convince bomb hybrid";
+var mnemonic = "mind electric clean echo morning electric trophy patrol humor giant guilt tourist";

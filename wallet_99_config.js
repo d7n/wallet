@@ -1,1 +1,1 @@
-var mnemonic = "gown struggle correct promote leg side fortune siren embark basket happy limb";
+var mnemonic = "scale trade fork swarm opinion dune grace syrup gain attitude final cigar";

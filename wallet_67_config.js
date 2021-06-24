@@ -1,1 +1,1 @@
-var mnemonic = "wool culture multiply false eagle where glass panda question swear accuse leaf";
+var mnemonic = "click razor update gorilla shoe twist sphere happy buffalo step bean adult";

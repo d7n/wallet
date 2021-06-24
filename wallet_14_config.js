@@ -1,1 +1,1 @@
-var mnemonic = "confirm provide ask camp video awful company tornado column extend review earth";
+var mnemonic = "jungle like ahead humble north sustain omit prepare service accident afford unable";

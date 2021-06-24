@@ -1,1 +1,1 @@
-var mnemonic = "soda flight material define drift dial hedgehog come math gown dream payment";
+var mnemonic = "segment swarm dance park two owner popular inside galaxy lonely want live";

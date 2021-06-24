@@ -1,1 +1,1 @@
-var mnemonic = "keep caught owner pink weekend drastic orphan barely mom slush subway library";
+var mnemonic = "uncover avocado install picture vacuum occur mother allow sight minimum olympic common";

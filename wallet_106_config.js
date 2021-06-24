@@ -1,1 +1,1 @@
-var mnemonic = "protect purpose solar churn dish stadium regular napkin theme estate disease lucky";
+var mnemonic = "charge maze divorce jazz august blast retire brisk idea alert wonder crew";

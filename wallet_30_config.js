@@ -1,1 +1,1 @@
-var mnemonic = "antenna found chunk abstract blame random weekend search sausage punch chunk female";
+var mnemonic = "poverty start wheel bicycle apple box very much pull sweet pepper video";

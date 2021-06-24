@@ -1,1 +1,1 @@
-var mnemonic = "recall resist tail essence leisure love crisp cereal subject neglect shove keen";
+var mnemonic = "cactus tape crawl rally foil doctor quantum feel foster inflict matrix stay";

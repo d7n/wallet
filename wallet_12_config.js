@@ -1,1 +1,1 @@
-var mnemonic = "grief actual diet main average liar grid absurd course drip furnace gold";
+var mnemonic = "all another capable normal summer sheriff ecology grief census spawn lizard print";

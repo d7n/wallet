@@ -1,1 +1,1 @@
-var mnemonic = "salute champion label sport emotion uncover green corn ridge worry august coconut";
+var mnemonic = "hybrid alien million divert helmet cross step sausage level winner blur fine";

@@ -1,1 +1,1 @@
-var mnemonic = "soccer sunny pond candy type consider scare box lesson wasp hurdle powder";
+var mnemonic = "patrol smile depth mandate mouse sea fantasy include bleak waste outside math";

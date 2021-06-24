@@ -1,1 +1,1 @@
-var mnemonic = "tape follow federal ketchup until find urge discover fitness suffer cannon output";
+var mnemonic = "join glimpse throw gossip person film taste aerobic unveil kid agent derive";

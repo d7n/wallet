@@ -1,1 +1,1 @@
-var mnemonic = "tenant mouse peasant shift dry hour poem copper dad dial vault ghost";
+var mnemonic = "grit ranch salad polar rich weapon scissors border spy legend finger honey";

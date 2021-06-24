@@ -1,1 +1,1 @@
-var mnemonic = "stay flower degree inquiry arrow wood key resist typical stomach success lemon";
+var mnemonic = "bone table alter chat choice million focus wait ridge found obey box";

@@ -1,1 +1,1 @@
-var mnemonic = "field reduce siege winner orbit first property renew either finger silly song";
+var mnemonic = "turtle desert emotion rose siege veteran permit change million upon reject present";

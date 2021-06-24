@@ -1,1 +1,1 @@
-var mnemonic = "bunker stove together wheat sword burden either brass gym actress bleak lion";
+var mnemonic = "nurse can chief punch winner spy forest broken unlock evil torch mind";

@@ -1,1 +1,1 @@
-var mnemonic = "echo cram language forum bone public push category another isolate talent acoustic";
+var mnemonic = "crash lunar skill cannon trap warrior raw rally curtain awkward treat giraffe";

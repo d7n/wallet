@@ -1,1 +1,1 @@
-var mnemonic = "ostrich drop alien hurdle galaxy apart coast jar sleep split grace midnight";
+var mnemonic = "copy oval elder curve arrest inform bike decline inject they custom car";

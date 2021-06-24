@@ -1,1 +1,1 @@
-var mnemonic = "hospital sheriff rural garage planet tonight decorate load tell orchard mule limit";
+var mnemonic = "moral coach derive already cute danger flag garbage month maple need combine";

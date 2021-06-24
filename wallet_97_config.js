@@ -1,1 +1,1 @@
-var mnemonic = "auto wedding lizard genuine can alarm nerve crumble scissors midnight october deliver";
+var mnemonic = "calm voyage input pulse pistol infant suspect tackle spirit fever minute power";

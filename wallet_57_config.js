@@ -1,1 +1,1 @@
-var mnemonic = "ostrich build home review dream expire inject cost west excess belt pioneer";
+var mnemonic = "timber rule pride test broom link edge deny afraid dry enough adapt";

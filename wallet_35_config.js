@@ -1,1 +1,1 @@
-var mnemonic = "master usual dish purity insane actress reunion airport course can client tornado";
+var mnemonic = "mouse kiss spread raven tobacco make prefer follow try announce demise enhance";

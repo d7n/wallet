@@ -1,1 +1,1 @@
-var mnemonic = "indoor vendor grape pill axis source cabbage hub truly side erosion alien";
+var mnemonic = "screen model document message boss trade enact wait mesh make sunny develop";

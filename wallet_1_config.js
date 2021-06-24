@@ -1,1 +1,1 @@
-var mnemonic = "kid razor loyal model solution believe embody hotel parent obtain intact demand";
+var mnemonic = "thunder fabric depend blur clog scatter model pink keep creek label vast";

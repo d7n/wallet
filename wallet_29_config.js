@@ -1,1 +1,1 @@
-var mnemonic = "fatigue whip addict jar industry potato display face liberty someone rescue ten";
+var mnemonic = "rice sight kitchen claw glove chapter sadness timber utility thrive chronic decorate";

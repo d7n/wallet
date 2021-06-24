@@ -1,1 +1,1 @@
-var mnemonic = "pudding choice render blast deliver hour puppy labor identify novel squeeze tennis";
+var mnemonic = "buzz help sister gossip disorder trial material want pair already kick ring";

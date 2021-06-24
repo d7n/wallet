@@ -1,1 +1,1 @@
-var mnemonic = "cigar track unhappy badge action shaft fringe crop rude leopard kiwi smooth";
+var mnemonic = "volcano soldier true license save repair rally merge voyage above smoke wrestle";

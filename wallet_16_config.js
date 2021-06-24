@@ -1,1 +1,1 @@
-var mnemonic = "grocery unable fan boost liquid want anchor law illegal portion south primary";
+var mnemonic = "rather adjust dry build alcohol produce inject gallery final size spoil material";

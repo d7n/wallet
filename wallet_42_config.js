@@ -1,1 +1,1 @@
-var mnemonic = "will entry truck enlist sauce glory muscle name inherit hen antique armed";
+var mnemonic = "monitor marine enter thunder meadow clinic wonder jar change search physical interest";

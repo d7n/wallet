@@ -1,1 +1,1 @@
-var mnemonic = "bench echo genuine run such suggest cluster improve faith what test dolphin";
+var mnemonic = "cross stool power century crop inherit address service add oil hire cotton";

@@ -1,1 +1,1 @@
-var mnemonic = "carry bunker meadow gospel skull clinic moral spring quality little once cake";
+var mnemonic = "piano atom cage what problem palace faculty margin delay spike chair female";

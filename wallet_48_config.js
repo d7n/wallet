@@ -1,1 +1,1 @@
-var mnemonic = "ostrich blossom glance ketchup wage tongue anger crunch chronic toast piano bag";
+var mnemonic = "caught debris trend bubble valid cram bicycle nut cruise hunt hub frozen";

@@ -1,1 +1,1 @@
-var mnemonic = "barely perfect subway cube erosion forward clip situate soap cherry witness episode";
+var mnemonic = "tape town pupil transfer heavy hero exercise glory buzz cave anchor between";

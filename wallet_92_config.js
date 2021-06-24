@@ -1,1 +1,1 @@
-var mnemonic = "soup random float across pepper industry zoo misery control few border inflict";
+var mnemonic = "erase sunny sword tank debris start slot excess twenty analyst total insect";

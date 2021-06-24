@@ -1,1 +1,1 @@
-var mnemonic = "message bulk surge attract room cinnamon junk olive trust program income beauty";
+var mnemonic = "blur hire mechanic myself install combine one inhale unknown dish estate sort";

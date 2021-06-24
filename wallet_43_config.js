@@ -1,1 +1,1 @@
-var mnemonic = "ecology heavy minor axis omit note coil quiz auto knife ecology volume";
+var mnemonic = "floor kangaroo piece bus ribbon sniff avoid slim mushroom seat champion census";

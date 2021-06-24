@@ -1,1 +1,1 @@
-var mnemonic = "door pole opera borrow priority seek often deliver voice risk rice visa";
+var mnemonic = "shop symbol exchange mercy grain siren wolf bridge radar avocado ozone section";

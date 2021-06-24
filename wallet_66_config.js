@@ -1,1 +1,1 @@
-var mnemonic = "advance nose evidence clutch letter wool timber device sort west pulse script";
+var mnemonic = "addict fun destroy ridge announce ticket attitude govern swing drip wing easy";

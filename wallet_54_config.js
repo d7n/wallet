@@ -1,1 +1,1 @@
-var mnemonic = "gate insect average merry humble oyster mean paper cave stuff number museum";
+var mnemonic = "satisfy ranch phone hair join axis stay video smart jacket laugh carbon";

@@ -1,1 +1,1 @@
-var mnemonic = "hidden survey lounge hub peace figure doll world regular also blast crystal";
+var mnemonic = "where cousin immune mansion team meadow oyster salute electric test speak despair";

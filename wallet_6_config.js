@@ -1,1 +1,1 @@
-var mnemonic = "seek chicken into top one detail palace proof loan convince surprise gate";
+var mnemonic = "copper spatial evil armed orphan rotate inside shell educate become latin custom";

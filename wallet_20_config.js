@@ -1,1 +1,1 @@
-var mnemonic = "mule pyramid cheap crash polar police arena student steel train door over";
+var mnemonic = "cotton shrimp female sound output episode industry picnic calm zero glad sugar";

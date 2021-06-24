@@ -1,1 +1,1 @@
-var mnemonic = "cousin duty tooth chapter rent system punch mad twelve find type hello";
+var mnemonic = "horror suspect decline basket giraffe save panda walnut twelve razor meat ocean";

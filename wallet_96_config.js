@@ -1,1 +1,1 @@
-var mnemonic = "shy vicious absurd economy economy idea craft cereal assume clutch glue album";
+var mnemonic = "upgrade civil donate excess broccoli ridge team stove cliff traffic fortune then";

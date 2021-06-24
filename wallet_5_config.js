@@ -1,1 +1,1 @@
-var mnemonic = "fault super carry ramp trick place social basic vague battle abandon foster";
+var mnemonic = "city boat tiger setup wire method spare oil credit alien duck hold";

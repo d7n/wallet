@@ -1,1 +1,1 @@
-var mnemonic = "stand swing almost blur inhale canal journey slush crawl fire trophy private";
+var mnemonic = "cannon estate novel leave verb arctic people slab online verb kidney feed";

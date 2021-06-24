@@ -1,1 +1,1 @@
-var mnemonic = "torch chef memory casual betray arch area marble ten oven crane all";
+var mnemonic = "loud grape remember rival cup govern napkin onion odor rescue noble bus";

@@ -1,1 +1,1 @@
-var mnemonic = "coach alien deposit grace install reduce weekend question word rapid dirt search";
+var mnemonic = "divide grow cheap bike cluster dash adjust imitate hungry balance city stadium";

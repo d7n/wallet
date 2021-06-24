@@ -1,1 +1,1 @@
-var mnemonic = "ivory ugly apology toilet photo athlete hub any mosquito deny buddy catch";
+var mnemonic = "relief spin human secret myself bargain quarter palace silver seven about discover";

@@ -1,1 +1,1 @@
-var mnemonic = "cradle deputy employ muffin build fatal short combine master primary outdoor degree";
+var mnemonic = "manual drift guilt famous strategy maid climb absurd canal image liquid fun";

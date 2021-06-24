@@ -1,1 +1,1 @@
-var mnemonic = "select fork fruit salon photo under solar gauge draw acoustic valley area";
+var mnemonic = "fix dance stamp output jaguar gallery already hockey inch advice inherit cabbage";

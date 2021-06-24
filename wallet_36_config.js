@@ -1,1 +1,1 @@
-var mnemonic = "limb print life useless record absorb enjoy code task lazy grass left";
+var mnemonic = "blouse very fiber more stand among orphan deputy steel goddess hill unknown";

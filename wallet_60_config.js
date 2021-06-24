@@ -1,1 +1,1 @@
-var mnemonic = "attend adult wish joy genuine embrace unhappy library ensure legend arrow flag";
+var mnemonic = "favorite piece spider armed sell pipe penalty again pattern ghost window siege";

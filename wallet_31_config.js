@@ -1,1 +1,1 @@
-var mnemonic = "dad zebra still pool shine cage impact stable loan party trash stomach";
+var mnemonic = "cancel corn found shove steel sunny much foam range sentence shift mouse";

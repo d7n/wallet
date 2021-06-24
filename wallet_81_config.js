@@ -1,1 +1,1 @@
-var mnemonic = "lumber wire bottom raw edge royal vital core direct traffic live matter";
+var mnemonic = "portion hip stick nephew language sponsor cause erosion gather slim stem original";

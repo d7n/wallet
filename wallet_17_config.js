@@ -1,1 +1,1 @@
-var mnemonic = "gasp economy slam mango neither shoulder cloud daughter sphere citizen brief broom";
+var mnemonic = "tag turkey brief pact object concert orient chronic win mixed lizard stable";

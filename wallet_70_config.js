@@ -1,1 +1,1 @@
-var mnemonic = "force squeeze robust glow toast have track empty vessel ship nut collect";
+var mnemonic = "session during ask unique absorb matrix cave kind hand warrior concert bubble";

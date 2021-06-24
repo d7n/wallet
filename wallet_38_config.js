@@ -1,1 +1,1 @@
-var mnemonic = "shoot lion same injury bar dream draw buffalo sure profit arrive video";
+var mnemonic = "elevator cabin almost flee salmon slice rigid orbit parade price safe strong";

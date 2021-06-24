@@ -1,1 +1,1 @@
-var mnemonic = "fade skill stand rich other feature one cheap kiss faint catalog piece";
+var mnemonic = "alcohol prosper silk erase sell breeze horror hidden onion destroy cash machine";

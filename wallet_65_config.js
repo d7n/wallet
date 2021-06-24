@@ -1,1 +1,1 @@
-var mnemonic = "this east vicious wisdom skin filter dirt donate fog struggle oxygen monster";
+var mnemonic = "legal crunch tragic coral coconut jeans strike hand afraid bullet episode core";

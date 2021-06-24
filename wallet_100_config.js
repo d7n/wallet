@@ -1,1 +1,1 @@
-var mnemonic = "play jar analyst pepper become hat east half oblige kitten salad express";
+var mnemonic = "common visa income vote innocent card guess elite gentle sad leg just";

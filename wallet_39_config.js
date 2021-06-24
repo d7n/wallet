@@ -1,1 +1,1 @@
-var mnemonic = "surprise vapor baby mango chief extend unlock nerve before evil easily chat";
+var mnemonic = "evolve potato maximum asthma mandate speak unique father tent pen jump exile";

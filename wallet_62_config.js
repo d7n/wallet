@@ -1,1 +1,1 @@
-var mnemonic = "uncover urban mother sample then find turkey grunt upper cheese improve club";
+var mnemonic = "toward convince educate chunk element crush solution end shiver fiber purity you";

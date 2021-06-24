@@ -1,1 +1,1 @@
-var mnemonic = "sock dog toe purity ritual pave myself royal tuition torch book index";
+var mnemonic = "suffer control author mother guess mix misery paddle door rural toss bike";

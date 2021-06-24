@@ -1,1 +1,1 @@
-var mnemonic = "orient symbol lemon prefer basic company blanket true swift rubber artefact faith";
+var mnemonic = "morning ordinary diet latin hub penalty prison mention deal front tag target";

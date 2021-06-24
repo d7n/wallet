@@ -1,1 +1,1 @@
-var mnemonic = "arrest sustain nature bus emotion tackle profit hub mosquito gallery alpha iron";
+var mnemonic = "toilet sentence shed topple gift rhythm walk obscure forest output goat labor";

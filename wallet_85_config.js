@@ -1,1 +1,1 @@
-var mnemonic = "awkward canyon hobby surge expect gloom welcome bubble winter seven orbit clock";
+var mnemonic = "stomach buyer romance captain either round empower order soup rural absorb loud";

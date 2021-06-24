@@ -1,1 +1,1 @@
-var mnemonic = "seat title siege fold assist feature couch panic piece gate marble response";
+var mnemonic = "agree blouse oblige glow patient indoor pattern mule fetch enemy devote group";

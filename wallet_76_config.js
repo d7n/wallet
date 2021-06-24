@@ -1,1 +1,1 @@
-var mnemonic = "process there surge write stem gain skate oil siege eternal food tunnel";
+var mnemonic = "once million clever rail boost century pass priority spike guess speed boat";

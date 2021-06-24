@@ -1,1 +1,1 @@
-var mnemonic = "unaware ability seek heavy nerve unique train bunker clever mind purse order";
+var mnemonic = "trade skin liquid bullet render fantasy gospel quality off economy radio fringe";

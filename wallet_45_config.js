@@ -1,1 +1,1 @@
-var mnemonic = "depend adapt author gloom afford talent doctor radio heavy agent shift foot";
+var mnemonic = "unhappy sniff own loyal blood toward tag hybrid equal curtain urban bamboo";

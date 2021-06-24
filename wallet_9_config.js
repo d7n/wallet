@@ -1,1 +1,1 @@
-var mnemonic = "include pigeon infant hidden code slogan coral park people robot absent task";
+var mnemonic = "tuition test trumpet hurry mouse flower name struggle endless blame raw alien";

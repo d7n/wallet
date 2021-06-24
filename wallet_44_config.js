@@ -1,1 +1,1 @@
-var mnemonic = "chaos acid crunch motor joke fossil text cycle cattle ability solution coin";
+var mnemonic = "step pond sure detail space clean increase alarm robot hammer merge twist";

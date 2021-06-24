@@ -1,1 +1,1 @@
-var mnemonic = "file unusual refuse mammal sugar edit bronze shell arctic flower journey require";
+var mnemonic = "wheat under trumpet wisdom predict exercise outside veteran team leaf major museum";
