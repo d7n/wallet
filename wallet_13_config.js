@@ -1,1 +1,1 @@
-var mnemonic = "menu army outside fresh wheel cat fossil garbage orange doctor poet earth";
+var mnemonic = "unfold execute tired weasel nice capital consider wagon neither theme ignore cube";

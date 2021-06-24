@@ -1,1 +1,1 @@
-var mnemonic = "fame face fetch life quantum iron marriage sad useless million seed cram";
+var mnemonic = "meat shrimp length milk rug skate embark relief same theme silent purity";

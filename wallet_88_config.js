@@ -1,1 +1,1 @@
-var mnemonic = "gather tank original flavor bicycle price debate short banana zebra purchase shiver";
+var mnemonic = "cream mystery cactus cement hair village pony group pear slow market flag";

@@ -1,1 +1,1 @@
-var mnemonic = "army pen category panel confirm frog march stove fragile good genius neck";
+var mnemonic = "swift diagram panel rally surround portion soft fold remind effort across fox";

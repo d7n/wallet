@@ -1,1 +1,1 @@
-var mnemonic = "share peace guess mobile section cherry rookie fire portion kidney royal peasant";
+var mnemonic = "describe foam nose clutch donkey exact property negative cabin coconut inquiry metal";

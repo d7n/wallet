@@ -1,1 +1,1 @@
-var mnemonic = "glow extend prosper fee north hedgehog pencil omit soup master chef vacant";
+var mnemonic = "anchor fence venue amused little cushion hammer flight action treat okay sell";

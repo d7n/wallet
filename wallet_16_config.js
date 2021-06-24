@@ -1,1 +1,1 @@
-var mnemonic = "avocado run custom assume predict dream buffalo inject club glance close more";
+var mnemonic = "injury young rude okay icon beach pelican soap hub end code twist";

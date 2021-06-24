@@ -1,1 +1,1 @@
-var mnemonic = "spatial private final slow crisp rice release distance income tuition arrive blade";
+var mnemonic = "flight blade toe person lamp people draw nose strong demise drop aisle";

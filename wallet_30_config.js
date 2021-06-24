@@ -1,1 +1,1 @@
-var mnemonic = "carry subway lens jaguar attend aisle cup odor caught trick view modify";
+var mnemonic = "away local episode knee problem mammal trend witness hospital mean comfort system";

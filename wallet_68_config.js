@@ -1,1 +1,1 @@
-var mnemonic = "fatal evidence vital invest crater creek visit cute lawsuit account usage hold";
+var mnemonic = "weasel slim lawsuit process setup ladder hip ocean crash sand weekend orphan";

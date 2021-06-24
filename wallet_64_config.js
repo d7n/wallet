@@ -1,1 +1,1 @@
-var mnemonic = "cabin cash false creek endorse sponsor fence clever human forum dose lift";
+var mnemonic = "face coral turtle slot cram basket giant goddess else spin typical lemon";

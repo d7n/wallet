@@ -1,1 +1,1 @@
-var mnemonic = "silly same parent found buddy vault seat perfect young empty person ghost";
+var mnemonic = "remind school ride sign owner deliver quarter awkward fantasy soon same hospital";

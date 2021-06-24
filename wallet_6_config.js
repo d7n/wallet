@@ -1,1 +1,1 @@
-var mnemonic = "omit other armor hat erosion prevent purse strike ride artefact thrive clip";
+var mnemonic = "swing attitude model coast fortune buddy weird orange awesome reason actor online";

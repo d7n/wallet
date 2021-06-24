@@ -1,1 +1,1 @@
-var mnemonic = "deputy cheap analyst pass moral nominee wood snake marriage cliff advance day";
+var mnemonic = "exercise merge industry hobby cancel logic bachelor broom unknown chunk scare expire";

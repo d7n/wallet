@@ -1,1 +1,1 @@
-var mnemonic = "carpet news afraid across essay main okay power size certain unfold report";
+var mnemonic = "under law decade high fat people target scene tennis salad cart raise";

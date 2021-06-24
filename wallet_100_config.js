@@ -1,1 +1,1 @@
-var mnemonic = "buffalo alpha unveil erase measure record ancient any dad rebuild stem valve";
+var mnemonic = "endorse segment math weasel diamond credit appear blade sheriff cluster quiz song";

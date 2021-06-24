@@ -1,1 +1,1 @@
-var mnemonic = "movie chapter item end poem pulse banner motion fossil client balcony emerge";
+var mnemonic = "banner replace clap home glove birth blind inquiry flip trigger upgrade glance";

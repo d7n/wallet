@@ -1,1 +1,1 @@
-var mnemonic = "raccoon fresh mandate problem oil tip divorce teach describe unusual able laugh";
+var mnemonic = "wagon demise palace subject huge broccoli ice dice churn child glare slim";

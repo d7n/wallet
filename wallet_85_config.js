@@ -1,1 +1,1 @@
-var mnemonic = "metal squeeze ostrich abandon delay divert brush erode praise advice term pipe";
+var mnemonic = "join together piano when remove luggage minimum couch loan route alley general";

@@ -1,1 +1,1 @@
-var mnemonic = "cereal pill also clerk supply repeat diary cloud juice moment digital odor";
+var mnemonic = "energy all outdoor acquire skull spoil second promote glimpse actual chuckle cloth";

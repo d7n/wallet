@@ -1,1 +1,1 @@
-var mnemonic = "child syrup holiday neither level robust fabric royal drip image beef rhythm";
+var mnemonic = "sibling noodle oxygen unhappy wise enemy term chest wish inject render hair";

@@ -1,1 +1,1 @@
-var mnemonic = "disorder thrive noodle peace beach steel advance about shift filter cluster degree";
+var mnemonic = "rice medal upset cancel guitar student damp velvet wear prefer leaf palm";

@@ -1,1 +1,1 @@
-var mnemonic = "original pact picture lounge dutch easily cattle weasel tragic coconut visual inmate";
+var mnemonic = "thank bicycle canvas crawl ozone project size then clock scan today grunt";

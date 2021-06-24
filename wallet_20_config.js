@@ -1,1 +1,1 @@
-var mnemonic = "canoe nephew divorce grief rent outer hip sniff honey butter option blame";
+var mnemonic = "hip hedgehog zebra service man early note manage witness soul banner blind";

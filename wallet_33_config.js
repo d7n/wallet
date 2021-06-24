@@ -1,1 +1,1 @@
-var mnemonic = "picture chaos wood boring kind april main churn they cloud chapter advance";
+var mnemonic = "brush mammal uphold danger half luggage noodle guess alone ripple nest seed";

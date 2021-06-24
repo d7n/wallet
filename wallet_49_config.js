@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow subject valid awkward sleep elephant puzzle unfair item bid wash sort";
+var mnemonic = "unveil fiber uphold agree base quote clap alpha kind suffer wish party";

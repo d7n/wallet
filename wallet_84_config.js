@@ -1,1 +1,1 @@
-var mnemonic = "hill miss buddy door police loud foam skull collect brown make notice";
+var mnemonic = "oblige scatter cancel panda march salon verb subject electric chapter rival receive";

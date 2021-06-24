@@ -1,1 +1,1 @@
-var mnemonic = "hard hand blast step valley print primary design cement pen oxygen phrase";
+var mnemonic = "produce choose among blush quarter waste velvet bonus act thrive home debate";

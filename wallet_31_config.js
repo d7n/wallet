@@ -1,1 +1,1 @@
-var mnemonic = "lens dress subject mobile cream issue drum family muscle ask eyebrow mushroom";
+var mnemonic = "eyebrow defense survey label balance comfort surround cream train turn obscure mean";

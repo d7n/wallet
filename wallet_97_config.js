@@ -1,1 +1,1 @@
-var mnemonic = "hundred what trumpet flee melody alone silent cancel fine scan comic put";
+var mnemonic = "town upper ginger cereal clog arch dirt tell tobacco script cause page";

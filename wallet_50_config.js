@@ -1,1 +1,1 @@
-var mnemonic = "actress spice reveal kick hub change false crystal universe shove panther mechanic";
+var mnemonic = "vapor brave quiz chaos glide autumn soft trend flash female enter broken";

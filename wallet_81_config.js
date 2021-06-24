@@ -1,1 +1,1 @@
-var mnemonic = "actual bone test absent sweet gap merit pole ostrich turtle save ability";
+var mnemonic = "real save climb acoustic furnace elder ripple crucial gesture leopard coin canoe";

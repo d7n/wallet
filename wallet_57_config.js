@@ -1,1 +1,1 @@
-var mnemonic = "camp exotic good dutch hunt silk catch consider illegal walk timber tunnel";
+var mnemonic = "liberty pizza abuse fringe tonight lion lazy portion tip legal alien female";

@@ -1,1 +1,1 @@
-var mnemonic = "outside promote rocket ribbon normal kitchen sand grass original good express green";
+var mnemonic = "drastic bus useless toddler mechanic firm soon tissue body imitate museum detect";

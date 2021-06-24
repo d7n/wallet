@@ -1,1 +1,1 @@
-var mnemonic = "bracket stuff nation motor point gauge visa salt parrot below shop raccoon";
+var mnemonic = "adjust receive cancel rude frame sure domain network neck flame nasty please";

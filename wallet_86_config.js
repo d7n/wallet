@@ -1,1 +1,1 @@
-var mnemonic = "provide toss chuckle dash keep special pattern belt expose couple marine behind";
+var mnemonic = "actress afford cycle inmate engage install jelly fly fault surround fit avocado";

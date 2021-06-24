@@ -1,1 +1,1 @@
-var mnemonic = "ice acquire pull receive silly enhance bubble tank fruit cinnamon beef umbrella";
+var mnemonic = "lab brown dismiss appear ramp timber hamster lawsuit divert poverty kick reform";

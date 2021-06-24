@@ -1,1 +1,1 @@
-var mnemonic = "aerobic give glory ladder faint caught guide chapter vault valley myth sniff";
+var mnemonic = "approve nurse trophy drip truly wonder canvas legal latin supreme reflect online";

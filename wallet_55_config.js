@@ -1,1 +1,1 @@
-var mnemonic = "bunker absent pave normal more club another nice soft jeans decide harbor";
+var mnemonic = "olive idea margin math carpet orient target you combine cave slab wrestle";

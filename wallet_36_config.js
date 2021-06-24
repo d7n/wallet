@@ -1,1 +1,1 @@
-var mnemonic = "raven uncover fluid mammal member travel immense energy credit illness raccoon gasp";
+var mnemonic = "seed umbrella buzz digital latin knock mouse twenty permit pigeon tonight firm";

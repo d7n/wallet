@@ -1,1 +1,1 @@
-var mnemonic = "tumble dial wool loop cattle fix media sleep claim aisle flee renew";
+var mnemonic = "shell report recycle dwarf echo web retire metal exit cricket extra volume";

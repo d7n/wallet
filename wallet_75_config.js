@@ -1,1 +1,1 @@
-var mnemonic = "kitten vendor tell talent saddle absorb sand grant point clog turtle digital";
+var mnemonic = "under fish cinnamon lucky bottom zone object illegal cargo equip mouse small";

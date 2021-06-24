@@ -1,1 +1,1 @@
-var mnemonic = "ten funny decline seed elephant spoil high evolve cost vapor lady ritual";
+var mnemonic = "length regular lounge oxygen rather reflect any nature indoor kid unveil business";

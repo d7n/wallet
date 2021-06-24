@@ -1,1 +1,1 @@
-var mnemonic = "amateur orange crater absorb enemy shift exact pear word sample inform trigger";
+var mnemonic = "audit velvet shop mesh strategy monitor require brief just claim hurry awesome";

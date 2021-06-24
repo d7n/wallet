@@ -1,1 +1,1 @@
-var mnemonic = "flat electric setup bus twice shoot member only intact service math verb";
+var mnemonic = "gauge neglect wink sausage away tide soft zebra any all mixed board";

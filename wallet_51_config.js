@@ -1,1 +1,1 @@
-var mnemonic = "truck comic mystery sponsor have grain element armor sphere dignity civil cement";
+var mnemonic = "second buddy window turkey acoustic found carpet vital annual urge erosion awful";

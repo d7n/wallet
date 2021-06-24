@@ -1,1 +1,1 @@
-var mnemonic = "absurd describe much clay rapid lamp tobacco fall replace turkey vintage hole";
+var mnemonic = "need essay chalk knock drum assume student story upgrade medal gas museum";

@@ -1,1 +1,1 @@
-var mnemonic = "grow stable genuine broccoli broom shallow script robot upset isolate leader depart";
+var mnemonic = "tiger patch coach venture layer finger option humble erosion cabbage dial symptom";

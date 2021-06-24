@@ -1,1 +1,1 @@
-var mnemonic = "tape ability heart radar execute horse blush parade auction volcano betray phone";
+var mnemonic = "deposit theme forget layer lunar cruel shield stick poet small pause live";

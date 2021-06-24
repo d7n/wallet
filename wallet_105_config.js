@@ -1,1 +1,1 @@
-var mnemonic = "tourist bird twist boat pioneer scheme into online organ surprise junk clever";
+var mnemonic = "benefit crop acoustic venue yellow abstract mother van bridge version left sense";

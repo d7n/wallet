@@ -1,1 +1,1 @@
-var mnemonic = "render escape silver chase trim guess chaos laptop sunset army chapter street";
+var mnemonic = "fresh depend undo amateur skirt behind rigid pipe genuine arrest silly yellow";

@@ -1,1 +1,1 @@
-var mnemonic = "kiss switch extend glass casual pizza usage exile drop riot derive hedgehog";
+var mnemonic = "captain grace bachelor couch across avocado search appear flip sound crunch vocal";

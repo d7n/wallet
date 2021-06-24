@@ -1,1 +1,1 @@
-var mnemonic = "genius cook assist exhaust assault episode interest moon profit elevator weekend rather";
+var mnemonic = "orange drink auction want market remain educate two elder report reward daring";

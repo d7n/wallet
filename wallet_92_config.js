@@ -1,1 +1,1 @@
-var mnemonic = "prevent moon decrease zone note anger response suspect casino then taxi hotel";
+var mnemonic = "file foster shift tide marble vacant spare paddle resource wedding liberty blouse";

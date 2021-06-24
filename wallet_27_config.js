@@ -1,1 +1,1 @@
-var mnemonic = "attitude disagree hybrid jazz neither early category exercise rely piece scare east";
+var mnemonic = "final mango joy mammal another almost mystery beyond journey federal divorce mask";

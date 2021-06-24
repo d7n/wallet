@@ -1,1 +1,1 @@
-var mnemonic = "jewel sail mouse repeat arrow defense valid kid demise duty ostrich retreat";
+var mnemonic = "claw glue pupil radar tribe pudding cheap mind wisdom urban session flight";

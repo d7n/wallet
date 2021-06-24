@@ -1,1 +1,1 @@
-var mnemonic = "nephew diagram symbol simple assume aim card slab layer secret cabin motion";
+var mnemonic = "office liberty leave narrow lemon dish home woman involve they bless barely";

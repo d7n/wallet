@@ -1,1 +1,1 @@
-var mnemonic = "receive stove trade fiber inquiry brother they galaxy amused kite embody orchard";
+var mnemonic = "clap digital captain method author notice hair receive ritual verb parade recall";

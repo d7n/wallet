@@ -1,1 +1,1 @@
-var mnemonic = "tired quality half spawn verify retire gap suggest tomorrow delay business since";
+var mnemonic = "under mad decorate fluid bulk quit item clap notice exercise provide era";

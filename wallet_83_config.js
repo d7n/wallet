@@ -1,1 +1,1 @@
-var mnemonic = "tourist mobile arm give relax erosion phone foam guilt rug pumpkin girl";
+var mnemonic = "lab eight time hospital play apart must state valve total crush define";

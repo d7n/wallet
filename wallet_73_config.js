@@ -1,1 +1,1 @@
-var mnemonic = "connect sugar life until absurd dove expect flame pulp rather vehicle else";
+var mnemonic = "cruise always chest rocket bicycle little young fancy filter own relax siren";

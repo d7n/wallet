@@ -1,1 +1,1 @@
-var mnemonic = "often sunny slot maximum siren guitar short bless misery someone food budget";
+var mnemonic = "coffee muffin eagle swamp kid ice local van path physical brown horn";

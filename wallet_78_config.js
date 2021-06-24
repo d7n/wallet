@@ -1,1 +1,1 @@
-var mnemonic = "theme describe motor shield section obvious arm length height level brain valve";
+var mnemonic = "sausage false member inmate woman luxury mango spend fossil cruise wing witness";

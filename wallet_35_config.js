@@ -1,1 +1,1 @@
-var mnemonic = "ankle toward right human check coach bone decorate right oxygen play chaos";
+var mnemonic = "spare now faint goat stairs dragon provide save initial skate soul extend";

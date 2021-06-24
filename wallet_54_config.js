@@ -1,1 +1,1 @@
-var mnemonic = "cheap debate nut popular urge trade tired judge horse carry execute paper";
+var mnemonic = "chronic educate ready secret burst destroy amused cool cotton night impulse six";

@@ -1,1 +1,1 @@
-var mnemonic = "immense creek drift forward velvet tortoise miracle scale expect attack jump stand";
+var mnemonic = "horror mean meadow twice attitude recall code urge tobacco evidence alert guilt";

@@ -1,1 +1,1 @@
-var mnemonic = "oak dust concert elite mention huge approve moment dentist october wisdom cancel";
+var mnemonic = "cloth pumpkin connect village hover crater alert eyebrow mammal side screen survey";

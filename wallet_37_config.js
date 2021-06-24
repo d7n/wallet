@@ -1,1 +1,1 @@
-var mnemonic = "story unlock bundle curious buffalo guess lab little near copy bracket abuse";
+var mnemonic = "fragile core huge depart six sentence add lawn uncover rich odor weekend";

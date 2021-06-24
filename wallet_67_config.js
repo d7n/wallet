@@ -1,1 +1,1 @@
-var mnemonic = "concert whale high buffalo tongue thank hospital humble vintage square pool tiger";
+var mnemonic = "final over chronic shoot vendor traffic glow pipe derive mule cake diagram";

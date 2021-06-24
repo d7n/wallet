@@ -1,1 +1,1 @@
-var mnemonic = "kitten rate copy model strong airport flower open purchase virtual weather tortoise";
+var mnemonic = "fun alter claim soup plunge keen trust loud small later bench display";

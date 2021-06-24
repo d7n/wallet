@@ -1,1 +1,1 @@
-var mnemonic = "cup parade enlist humble plate van bulb glare axis afraid under outdoor";
+var mnemonic = "mechanic fragile peace holiday zero room stand doctor jazz ordinary verb mind";

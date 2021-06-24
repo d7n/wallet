@@ -1,1 +1,1 @@
-var mnemonic = "tape birth summer cross aspect find layer sick ocean tell digital electric";
+var mnemonic = "test chuckle ocean smooth raw edit pretty wheat mandate portion cute movie";

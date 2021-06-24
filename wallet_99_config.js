@@ -1,1 +1,1 @@
-var mnemonic = "amused sunset useless index rapid voyage behind have voice zero cigar ready";
+var mnemonic = "deer apart release curve bachelor quality online blur way style veteran spread";

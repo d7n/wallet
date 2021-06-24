@@ -1,1 +1,1 @@
-var mnemonic = "into cloth gossip indicate arch easily hint spot unusual flush bargain cheese";
+var mnemonic = "fortune fold hour spare ancient tongue cereal orphan immense bronze syrup carbon";

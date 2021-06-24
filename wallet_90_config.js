@@ -1,1 +1,1 @@
-var mnemonic = "rookie announce taxi material wine burst priority clean clerk term enter fabric";
+var mnemonic = "cliff require crowd mosquito gentle color enroll pair reject boost wife magic";

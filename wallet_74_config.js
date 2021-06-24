@@ -1,1 +1,1 @@
-var mnemonic = "room system come teach beach age fragile harbor sort scan guard test";
+var mnemonic = "planet regular swamp zone loud shed envelope design stomach balcony word laptop";

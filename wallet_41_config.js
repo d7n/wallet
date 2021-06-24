@@ -1,1 +1,1 @@
-var mnemonic = "glove save chunk agent bus citizen fall flee improve thank quit leaf";
+var mnemonic = "smooth orphan fringe index marine dirt guard bullet piano leaf hope scrap";

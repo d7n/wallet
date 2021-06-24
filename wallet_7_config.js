@@ -1,1 +1,1 @@
-var mnemonic = "retire lottery pulse predict picnic sand honey bonus million jump artwork pause";
+var mnemonic = "sign flight shock describe eye love strategy card october address snow idle";

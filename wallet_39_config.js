@@ -1,1 +1,1 @@
-var mnemonic = "fiction glide local issue evil scrap buyer action blanket then escape battle";
+var mnemonic = "behave shove clarify nice citizen bid initial spend ring lunch fire foil";

@@ -1,1 +1,1 @@
-var mnemonic = "useless myth owner spy expire jungle seat month metal soup genius keep";
+var mnemonic = "hill nurse action sadness eagle term alone vote ranch size fame soft";

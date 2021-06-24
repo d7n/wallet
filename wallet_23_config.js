@@ -1,1 +1,1 @@
-var mnemonic = "outdoor match trick name section join crystal farm exhaust tunnel poverty other";
+var mnemonic = "educate identify easily rocket ignore humble coach venue comic awesome angry extra";

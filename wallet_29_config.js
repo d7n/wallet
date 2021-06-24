@@ -1,1 +1,1 @@
-var mnemonic = "limit draft velvet bone typical assume jeans print flip hamster stem glass";
+var mnemonic = "sauce speak wasp teach damage expose task glide add scout tenant accident";

@@ -1,1 +1,1 @@
-var mnemonic = "balcony cigar limit drink speed dumb learn fetch zoo cool waste attract";
+var mnemonic = "machine cycle law cake train stereo soul chase figure fluid elegant obey";

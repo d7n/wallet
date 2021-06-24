@@ -1,1 +1,1 @@
-var mnemonic = "sand suit disorder soft uphold cross nerve assume any pride burden wasp";
+var mnemonic = "priority skirt south property quiz harbor thunder brown bid more yellow truth";

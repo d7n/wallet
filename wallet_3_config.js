@@ -1,1 +1,1 @@
-var mnemonic = "side report near solve turn garbage jewel resource mixture team mixture craft";
+var mnemonic = "also company when burden ghost differ believe deputy run lamp actual path";

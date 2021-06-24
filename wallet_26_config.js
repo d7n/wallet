@@ -1,1 +1,1 @@
-var mnemonic = "deal conduct shift pencil alert exist energy patch lizard evoke nephew hedgehog";
+var mnemonic = "account cargo venue street noodle tennis service mention doll earn timber dune";

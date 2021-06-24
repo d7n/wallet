@@ -1,1 +1,1 @@
-var mnemonic = "marriage crouch sword prevent deposit sure habit build ivory matter wet burger";
+var mnemonic = "era horror move cross scare mosquito bring cannon cement soft panel result";

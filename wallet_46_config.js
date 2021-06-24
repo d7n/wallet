@@ -1,1 +1,1 @@
-var mnemonic = "seed track remove real payment remind left sister grocery taste erase myself";
+var mnemonic = "dune love giggle rail fan average alcohol hire student odor trial intact";

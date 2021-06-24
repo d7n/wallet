@@ -1,1 +1,1 @@
-var mnemonic = "spin mass lyrics track large crater love slot use vanish quit snake";
+var mnemonic = "session never grow grape essay season purity shallow lottery hospital diary slide";

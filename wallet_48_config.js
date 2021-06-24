@@ -1,1 +1,1 @@
-var mnemonic = "curve wise keen govern helmet eyebrow scatter giraffe damage million rely obey";
+var mnemonic = "speak summer enemy whale tuition catch local actual piece powder icon index";

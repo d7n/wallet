@@ -1,1 +1,1 @@
-var mnemonic = "cup blade found kick suit black multiply social vocal effort ceiling gate";
+var mnemonic = "donate rib degree predict wink poem diet mandate credit kid essay mule";

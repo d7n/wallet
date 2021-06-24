@@ -1,1 +1,1 @@
-var mnemonic = "purity have liquid mountain inherit garlic margin able equip refuse ketchup twenty";
+var mnemonic = "raise flush train myth include cart timber damp worry glove produce borrow";
