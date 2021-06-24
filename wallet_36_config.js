@@ -1,1 +1,1 @@
-var mnemonic = "essence aware sock stock tattoo august approve truth vacuum sketch device inform";
+var mnemonic = "brother unusual author regret tribe bulb net address donate wolf onion behind";

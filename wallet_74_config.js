@@ -1,1 +1,1 @@
-var mnemonic = "fiscal record twice wood mouse night minute assume pig swear pumpkin olympic";
+var mnemonic = "build wash lady capable hurry salmon box exhibit oil veteran mistake ticket";

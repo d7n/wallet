@@ -1,1 +1,1 @@
-var mnemonic = "message buffalo jungle chat rifle voyage between similar cheese stick similar allow";
+var mnemonic = "bubble stamp roast broom power option equal wrap vessel home card pass";

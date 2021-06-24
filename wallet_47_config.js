@@ -1,1 +1,1 @@
-var mnemonic = "science mandate portion detail finger method pool reduce weekend invite walk maid";
+var mnemonic = "story room cupboard asset blood input private three trial alley unable hammer";

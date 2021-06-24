@@ -1,1 +1,1 @@
-var mnemonic = "fox chase aerobic unit limit useful toe dumb cloth crowd skull trophy";
+var mnemonic = "simple inmate city evil shallow payment club ski entire bubble check picnic";

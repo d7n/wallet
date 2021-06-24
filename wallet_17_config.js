@@ -1,1 +1,1 @@
-var mnemonic = "match wagon bring search electric useful pride scrub expand illegal possible business";
+var mnemonic = "ugly time casino swarm dune expect chimney glow waste midnight rice photo";

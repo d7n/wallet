@@ -1,1 +1,1 @@
-var mnemonic = "wisdom team mimic donor orphan digital lake shy balcony dirt push critic";
+var mnemonic = "expire fragile spell tilt liberty isolate slice sing fashion room film friend";

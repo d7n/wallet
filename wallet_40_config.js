@@ -1,1 +1,1 @@
-var mnemonic = "jewel course evoke danger return online creek remind powder vivid vacuum smile";
+var mnemonic = "impose truly dizzy impulse fiber fetch ride thunder famous loop retreat adapt";

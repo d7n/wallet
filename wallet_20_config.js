@@ -1,1 +1,1 @@
-var mnemonic = "lake monitor kidney venture cancel cattle future scare repeat build butter caught";
+var mnemonic = "jelly clean nose style very poverty diary tuition vast extend story boring";

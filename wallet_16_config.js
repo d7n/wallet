@@ -1,1 +1,1 @@
-var mnemonic = "able field butter team execute armor squeeze update buzz rebuild quote awake";
+var mnemonic = "dilemma super impact shallow fruit chef fog innocent replace parent question poet";

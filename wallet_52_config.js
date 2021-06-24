@@ -1,1 +1,1 @@
-var mnemonic = "bottom donate submit chaos denial cable chair satisfy lunch dilemma silly camera";
+var mnemonic = "sudden skill monkey orbit shell lyrics wrist way risk metal acid coconut";

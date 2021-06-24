@@ -1,1 +1,1 @@
-var mnemonic = "guide limit carry hero raise edge wear hope tragic tell van find";
+var mnemonic = "cattle scrap example dentist style asset all bind cloud primary rebuild museum";

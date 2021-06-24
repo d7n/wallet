@@ -1,1 +1,1 @@
-var mnemonic = "rather wisdom swarm neglect trouble text amount trim apple obvious help october";
+var mnemonic = "biology kind crime impact jungle bachelor affair virus frozen near dinner phone";

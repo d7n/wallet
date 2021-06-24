@@ -1,1 +1,1 @@
-var mnemonic = "decrease fiscal cause define shed soda plug case clinic name scrap middle";
+var mnemonic = "world jealous kind screen doctor achieve smart pair domain march small receive";

@@ -1,1 +1,1 @@
-var mnemonic = "ocean brother fold occur embody brother impose borrow logic hover castle test";
+var mnemonic = "sing deliver clinic relief library trigger agent chuckle salmon decrease custom rather";

@@ -1,1 +1,1 @@
-var mnemonic = "moral armed oppose frame then soda become invest click embody before meadow";
+var mnemonic = "couple visual fresh wire scene law capable gate jungle payment charge black";

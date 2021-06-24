@@ -1,1 +1,1 @@
-var mnemonic = "ozone flush squirrel nurse knee educate void clock helmet dirt zero medal";
+var mnemonic = "build best mansion tired mouse lock snake virtual chat venue essay axis";

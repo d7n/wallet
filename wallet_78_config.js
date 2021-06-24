@@ -1,1 +1,1 @@
-var mnemonic = "rotate pilot mesh solution kitchen age major artwork happy casino shallow puppy";
+var mnemonic = "celery anger cost antique hybrid moment lucky brother jelly news vessel slab";

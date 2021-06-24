@@ -1,1 +1,1 @@
-var mnemonic = "spike bamboo guard demise subway pulp range palace blanket camera trend barrel";
+var mnemonic = "world census hotel layer illness before south tongue twice panther maid edit";

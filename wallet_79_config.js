@@ -1,1 +1,1 @@
-var mnemonic = "leaf home cool false dismiss rural toy taxi antique between employ ball";
+var mnemonic = "patient security doctor mutual patch border concert orchard poverty fruit raw fault";

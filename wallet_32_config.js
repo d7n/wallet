@@ -1,1 +1,1 @@
-var mnemonic = "winner special raise cradle pigeon entire wool entry match shock flavor target";
+var mnemonic = "grief clock wrap carbon spy glimpse vital coconut real powder pet chalk";

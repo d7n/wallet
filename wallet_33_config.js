@@ -1,1 +1,1 @@
-var mnemonic = "lift artwork much cool cream coin area toss engage sword park panel";
+var mnemonic = "palace sting average feed garage elegant zero cash episode erode damage hunt";

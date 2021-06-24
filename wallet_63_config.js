@@ -1,1 +1,1 @@
-var mnemonic = "target liberty spirit fancy aspect moment blind maple polar again vibrant hurry";
+var mnemonic = "hip scale oxygen chicken express panel crowd act relax toilet flame post";

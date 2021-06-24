@@ -1,1 +1,1 @@
-var mnemonic = "cancel afraid ozone tiny grape gallery private snack olive mutual acquire mask";
+var mnemonic = "venue rather lottery abandon depth mammal sample hedgehog burden hold wide profit";

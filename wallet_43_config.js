@@ -1,1 +1,1 @@
-var mnemonic = "father choose evoke odor gaze stadium pistol giggle room chronic unfold salad";
+var mnemonic = "area upgrade ill deputy ahead limit empower general brain moral swamp pupil";

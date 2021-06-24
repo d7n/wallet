@@ -1,1 +1,1 @@
-var mnemonic = "swamp similar notable earn test regret apple quit vanish genius rhythm ritual";
+var mnemonic = "still staff emotion wood wet domain donor play expand job silly logic";

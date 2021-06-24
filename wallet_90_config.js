@@ -1,1 +1,1 @@
-var mnemonic = "improve direct invest modify bird indoor lock bar source twenty auto sight";
+var mnemonic = "blush combine find tourist weekend label police next measure jewel dutch attack";

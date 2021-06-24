@@ -1,1 +1,1 @@
-var mnemonic = "absorb beauty bus goat deposit history cigar peanut hill middle coral occur";
+var mnemonic = "fine rookie spot category blue slender title innocent useless gold trap camera";

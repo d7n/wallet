@@ -1,1 +1,1 @@
-var mnemonic = "digital shiver abuse spoil input typical giraffe bridge gap nature quiz jealous";
+var mnemonic = "useless possible detail voice eager mango direct blanket two ridge divide chunk";

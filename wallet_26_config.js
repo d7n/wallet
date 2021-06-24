@@ -1,1 +1,1 @@
-var mnemonic = "shop lady angry grain cat indicate drama confirm idea enact cluster lucky";
+var mnemonic = "swim require supply thank replace bleak decide helmet blame mule cable analyst";

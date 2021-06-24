@@ -1,1 +1,1 @@
-var mnemonic = "blur vast hawk custom parent select honey copy radio viable torch few";
+var mnemonic = "pizza goddess idea depart clutch depth faint soft debate hand blossom expect";

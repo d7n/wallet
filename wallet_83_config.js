@@ -1,1 +1,1 @@
-var mnemonic = "dutch over mango figure episode valid afraid exile invest olympic skill diet";
+var mnemonic = "image wet dilemma tomorrow gown race stairs hub essence pill spin invest";

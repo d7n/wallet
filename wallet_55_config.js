@@ -1,1 +1,1 @@
-var mnemonic = "arrive any basic shallow dilemma season wing guilt absurd film tunnel leg";
+var mnemonic = "strategy rail tone kidney drink luggage list rally donkey claim curtain attend";

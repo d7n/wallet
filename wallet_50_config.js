@@ -1,1 +1,1 @@
-var mnemonic = "winner project company cart tape combine slender marriage holiday during symbol current";
+var mnemonic = "oyster obtain butter abuse fence time become icon cage hint true impact";

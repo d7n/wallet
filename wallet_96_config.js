@@ -1,1 +1,1 @@
-var mnemonic = "couch escape hazard proud skill debate key shift season refuse trap earth";
+var mnemonic = "text remain prison pig custom coast stamp science leaf polar must crime";

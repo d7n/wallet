@@ -1,1 +1,1 @@
-var mnemonic = "loop deal mixture when essay plunge include any corn maid whip census";
+var mnemonic = "glimpse evolve token twin almost myself tilt survey trade blue leopard learn";

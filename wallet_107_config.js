@@ -1,1 +1,1 @@
-var mnemonic = "margin file equip emerge fish mother banana energy hole trouble joke depart";
+var mnemonic = "come response exhaust bike ethics diet tourist bonus scout muffin actual gate";

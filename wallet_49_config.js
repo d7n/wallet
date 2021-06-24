@@ -1,1 +1,1 @@
-var mnemonic = "rule shoot pelican glide finger saddle earn scale chef snow alone spike";
+var mnemonic = "next tape always addict income vessel nuclear digital tenant coconut diamond treat";

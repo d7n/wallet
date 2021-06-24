@@ -1,1 +1,1 @@
-var mnemonic = "various garbage stumble level flame essay obvious garment promote head fabric whisper";
+var mnemonic = "document gospel faith vacuum weather gather uniform firm protect grant alley cheap";

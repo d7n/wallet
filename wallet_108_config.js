@@ -1,1 +1,1 @@
-var mnemonic = "limb party stomach eight solve cage curious claw camera cancel retire apart";
+var mnemonic = "small kangaroo excuse hollow slot prefer genre humble dilemma nest cage dash";

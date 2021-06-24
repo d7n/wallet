@@ -1,1 +1,1 @@
-var mnemonic = "jar keep combine vast goat close label theory refuse tank document excess";
+var mnemonic = "logic together meadow fit argue depart differ filter menu bamboo warrior modify";

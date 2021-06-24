@@ -1,1 +1,1 @@
-var mnemonic = "cousin offer diesel ignore explain vocal twist relief hunt fun only thumb";
+var mnemonic = "hire artwork okay unfold garbage rebuild ice delay boring aspect wire device";

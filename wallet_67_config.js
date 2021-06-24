@@ -1,1 +1,1 @@
-var mnemonic = "convince wide blur enroll keep abandon snap treat update panda twelve across";
+var mnemonic = "shove boil fan peace green quiz silk robust snap noble shaft peasant";

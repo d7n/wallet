@@ -1,1 +1,1 @@
-var mnemonic = "wine gentle okay heavy tourist vendor volume shadow slush oblige garment situate";
+var mnemonic = "tell display twist fetch stick bachelor moment ghost blush strike together slam";

@@ -1,1 +1,1 @@
-var mnemonic = "quantum rib uphold certain snap search develop slice improve stem crunch youth";
+var mnemonic = "morning scheme crash dish canvas ball census loop repeat hair bronze feed";

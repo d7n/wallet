@@ -1,1 +1,1 @@
-var mnemonic = "hidden lady rapid material tuition island awesome impact require observe zebra derive";
+var mnemonic = "talk diet explain brush remain stomach pipe dumb abstract orient face effort";

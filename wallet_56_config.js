@@ -1,1 +1,1 @@
-var mnemonic = "stumble cushion appear arrow crash pelican tray leaf sheriff chalk surface equal";
+var mnemonic = "raw tray royal gate exhibit evoke cinnamon flee all crazy assume gas";

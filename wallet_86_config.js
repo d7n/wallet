@@ -1,1 +1,1 @@
-var mnemonic = "stable section path talk trade dose scissors jealous thumb agree capital vital";
+var mnemonic = "walk deliver top motor about ticket wheel cash mistake awkward gossip swap";

@@ -1,1 +1,1 @@
-var mnemonic = "steak length purpose bike destroy symbol gym various connect weather electric relief";
+var mnemonic = "twice fix fun math soldier erode final surge shoulder relief catalog jump";

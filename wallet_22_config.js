@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon desert curious bike metal kingdom garage act gauge sun math antique";
+var mnemonic = "recall toss mother scale all kind entry area child sure ticket roof";

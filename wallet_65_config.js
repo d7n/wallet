@@ -1,1 +1,1 @@
-var mnemonic = "grit option verify engine nephew argue almost soul train mesh exile hill";
+var mnemonic = "twice float fossil beyond deer chat frozen report defense custom narrow swear";

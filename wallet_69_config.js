@@ -1,1 +1,1 @@
-var mnemonic = "image butter fiber illegal chest slab give little apart blame flash alley";
+var mnemonic = "shuffle clay now tomato install movie road blame sniff prevent point globe";

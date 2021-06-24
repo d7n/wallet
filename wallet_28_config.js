@@ -1,1 +1,1 @@
-var mnemonic = "task joke doctor garden fetch innocent piece fly long snap jelly cheese";
+var mnemonic = "supreme crash water gossip party artist motor slot spin bright fog defy";

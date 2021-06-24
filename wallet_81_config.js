@@ -1,1 +1,1 @@
-var mnemonic = "post volume jelly spatial walnut close have illness increase work mother soda";
+var mnemonic = "stock spare paddle reason human safe emotion claim glove deputy jazz tiger";

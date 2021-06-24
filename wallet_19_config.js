@@ -1,1 +1,1 @@
-var mnemonic = "eye pistol hotel surprise option tip extra blame elite agree mammal ivory";
+var mnemonic = "season play cloth couch athlete wet cement spend come asset foster spread";

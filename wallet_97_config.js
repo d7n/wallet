@@ -1,1 +1,1 @@
-var mnemonic = "limb pave pyramid twist arena advice moon labor bread twin solution zebra";
+var mnemonic = "siege foam case confirm motion lottery drum rough clay catalog elegant sad";

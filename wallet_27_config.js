@@ -1,1 +1,1 @@
-var mnemonic = "organ thing define that feel calm prize ozone antique inner distance crowd";
+var mnemonic = "charge make toss bag dumb woman mandate roast obey cute cradle barely";

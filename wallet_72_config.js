@@ -1,1 +1,1 @@
-var mnemonic = "curve exit language bubble duty toddler jaguar gadget bottom cash boy sorry";
+var mnemonic = "gate warrior defy floor copper save february field deliver jaguar little plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "inform disagree trim saddle output hockey symbol garlic reduce submit change hospital";
+var mnemonic = "sense number gorilla rack avoid become omit powder exercise meat loop business";

@@ -1,1 +1,1 @@
-var mnemonic = "globe goat bonus setup notice reunion fiction grab execute maze interest leader";
+var mnemonic = "sample owner recall company decorate eight follow chicken skate slight quantum chair";

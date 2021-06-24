@@ -1,1 +1,1 @@
-var mnemonic = "fog fossil illness submit federal crew glove lamp twist trophy lazy check";
+var mnemonic = "jeans crowd dirt puppy mistake obvious announce clever maximum lunch liquid glimpse";

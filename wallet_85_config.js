@@ -1,1 +1,1 @@
-var mnemonic = "bullet play crouch cost awkward gown despair chaos picture say talent edit";
+var mnemonic = "celery flash yellow myth hurry couch crunch friend habit abstract match talent";

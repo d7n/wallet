@@ -1,1 +1,1 @@
-var mnemonic = "glad order hybrid exile fiber voyage laptop slam below mimic bronze surface";
+var mnemonic = "clip hammer mansion dismiss tired come seven stage make enhance coffee sand";

@@ -1,1 +1,1 @@
-var mnemonic = "answer ceiling leg october lumber private regular inmate turkey jaguar honey east";
+var mnemonic = "world very hazard option usual special ignore board love village exile divert";

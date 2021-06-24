@@ -1,1 +1,1 @@
-var mnemonic = "expose turkey runway laptop derive around device marble brown way fiction reason";
+var mnemonic = "gesture explain wish virtual erupt foster frown adapt sea meat erosion silent";

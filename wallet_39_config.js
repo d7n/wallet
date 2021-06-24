@@ -1,1 +1,1 @@
-var mnemonic = "cart hockey nominee tower mass afraid pluck cupboard soul spawn donkey knife";
+var mnemonic = "weather shop choice people funny output foam cabin opinion alpha mammal panic";

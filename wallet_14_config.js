@@ -1,1 +1,1 @@
-var mnemonic = "evidence blanket cry various robot pride reveal ritual opera place exit essay";
+var mnemonic = "inquiry medal improve lumber seek royal chief draft stumble illness utility manage";

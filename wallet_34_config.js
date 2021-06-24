@@ -1,1 +1,1 @@
-var mnemonic = "journey divide brand case crazy flock dish burden comfort virus room scorpion";
+var mnemonic = "canal frost gaze limb abstract license photo real arctic canal unlock obscure";

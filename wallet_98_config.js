@@ -1,1 +1,1 @@
-var mnemonic = "hurry rich whisper slush apology cupboard moral shrimp eagle brass spoil forum";
+var mnemonic = "airport multiply scrap dentist fluid idle empty fetch mule ask pistol chase";

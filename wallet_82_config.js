@@ -1,1 +1,1 @@
-var mnemonic = "shift swamp dance virtual snap mother young circle proud develop stereo use";
+var mnemonic = "deputy artwork portion atom diagram they current cabbage degree will stuff crumble";

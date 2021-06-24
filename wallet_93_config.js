@@ -1,1 +1,1 @@
-var mnemonic = "boss thought decade snack hello grief market nuclear speak depend gold artist";
+var mnemonic = "guess fault pink margin alter paper pause feel syrup pink choose unlock";

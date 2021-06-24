@@ -1,1 +1,1 @@
-var mnemonic = "lend claw sausage among later ride model desert sauce provide wisdom suspect";
+var mnemonic = "tennis vast morning traffic skate super boss true village owner glory copper";

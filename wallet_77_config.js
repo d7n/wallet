@@ -1,1 +1,1 @@
-var mnemonic = "rotate alley later bean expect little receive weapon civil invite arrow style";
+var mnemonic = "hour pipe adjust judge deal antique leg promote split spatial absorb hollow";

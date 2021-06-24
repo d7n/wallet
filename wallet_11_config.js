@@ -1,1 +1,1 @@
-var mnemonic = "reveal invest purchase initial rent artwork gun today outer library love conduct";
+var mnemonic = "breeze lock grain venture cliff mother fix vessel habit cluster enlist illegal";

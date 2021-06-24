@@ -1,1 +1,1 @@
-var mnemonic = "bicycle sheriff various valid bunker silk chef symptom amused velvet smoke strategy";
+var mnemonic = "region across museum rib resemble creek crane upgrade rapid skill aspect crush";

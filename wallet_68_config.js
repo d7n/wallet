@@ -1,1 +1,1 @@
-var mnemonic = "plate strategy aware wine thing frown myself soda swim unique derive section";
+var mnemonic = "raven owner position tonight stock gather convince rabbit toilet mushroom toilet steel";

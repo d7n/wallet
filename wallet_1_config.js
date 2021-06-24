@@ -1,1 +1,1 @@
-var mnemonic = "type give gate need cart motor buyer topple scan pioneer umbrella history";
+var mnemonic = "hidden plunge debris member monitor reunion narrow tortoise fire fetch lazy frog";

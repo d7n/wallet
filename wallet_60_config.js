@@ -1,1 +1,1 @@
-var mnemonic = "regret caught jacket false parrot vague gloom oblige expose similar sausage purpose";
+var mnemonic = "setup dinner liquid puzzle during usage must way pistol figure inquiry limit";

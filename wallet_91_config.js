@@ -1,1 +1,1 @@
-var mnemonic = "power shoot wood will skirt deny gift coffee surround affair calm stem";
+var mnemonic = "act hurry body sunset absurd way crash rack swallow ecology potato ceiling";

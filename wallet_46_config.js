@@ -1,1 +1,1 @@
-var mnemonic = "define tooth nut range absurd inspire month rail trash charge execute sunny";
+var mnemonic = "future clog round behave liberty universe punch wire woman access blood twelve";

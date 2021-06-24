@@ -1,1 +1,1 @@
-var mnemonic = "female snake pitch base minute breeze large project public admit thank stomach";
+var mnemonic = "today field delay essence spray jewel wedding above license friend power now";

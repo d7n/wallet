@@ -1,1 +1,1 @@
-var mnemonic = "sunset comic voice course matter uphold rent aim volcano three garage base";
+var mnemonic = "become wonder double moon broom marine plate mosquito figure unusual speed delay";

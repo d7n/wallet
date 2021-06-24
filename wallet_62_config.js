@@ -1,1 +1,1 @@
-var mnemonic = "submit people hospital into dutch tide electric swear draft mouse happy ordinary";
+var mnemonic = "sound orange occur rural abstract decade hundred still purse thank market sign";

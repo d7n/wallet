@@ -1,1 +1,1 @@
-var mnemonic = "reduce arrest sail awkward popular long core attract butter there black rapid";
+var mnemonic = "spread diary correct vanish boss dizzy host aisle report vacuum razor price";

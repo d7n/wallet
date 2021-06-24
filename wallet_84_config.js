@@ -1,1 +1,1 @@
-var mnemonic = "certain mother favorite pyramid volcano insane unfold fatigue smoke reunion special mask";
+var mnemonic = "pledge borrow nurse keen universe fat require educate element moon hammer retreat";

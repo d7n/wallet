@@ -1,1 +1,1 @@
-var mnemonic = "turtle can immense topple truck direct candy employ airport merry age latin";
+var mnemonic = "forest reward tornado dial oxygen rocket once popular tired hover lift banner";

@@ -1,1 +1,1 @@
-var mnemonic = "recycle because close object project amazing stadium issue trash prepare foot extra";
+var mnemonic = "stove fatigue toe swarm foster sunny scissors equal spy right cherry earn";

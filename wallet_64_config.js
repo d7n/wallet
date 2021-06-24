@@ -1,1 +1,1 @@
-var mnemonic = "govern hint napkin antique sample outside robust steel jump diagram toward fancy";
+var mnemonic = "group flag news slow shift lizard dawn cream floor taste neck true";

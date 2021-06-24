@@ -1,1 +1,1 @@
-var mnemonic = "comfort border canyon giant tide subject stem helmet seminar exit junior public";
+var mnemonic = "perfect flight senior reunion orange lunar render joy fiscal nothing zero winner";

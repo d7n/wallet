@@ -1,1 +1,1 @@
-var mnemonic = "used rural wood predict exclude chimney surround helmet paper better ice increase";
+var mnemonic = "energy direct owner sausage often wedding have banner excuse soldier shield execute";
