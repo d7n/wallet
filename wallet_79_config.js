@@ -1,1 +1,1 @@
-var mnemonic = "twenty table category affair scissors item barrel energy toe face lounge blast";
+var mnemonic = "short stand mango shell prevent sad poverty expose damp interest boy garden";

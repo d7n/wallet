@@ -1,1 +1,1 @@
-var mnemonic = "brick across prepare act brown typical match memory universe judge gauge tide";
+var mnemonic = "art breeze stable ivory plug lounge merry super patch provide relief manage";

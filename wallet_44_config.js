@@ -1,1 +1,1 @@
-var mnemonic = "salon whale rain glance fee unknown roof amazing pigeon shallow breeze drive";
+var mnemonic = "camera public blame hungry stool skirt rotate depart record celery impose mercy";

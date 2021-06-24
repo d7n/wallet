@@ -1,1 +1,1 @@
-var mnemonic = "wrist brief recycle correct design wealth open text uphold wear matrix vague";
+var mnemonic = "prevent ribbon west squeeze assume mango lumber economy exhibit version squirrel spell";

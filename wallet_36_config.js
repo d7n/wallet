@@ -1,1 +1,1 @@
-var mnemonic = "call nut property evolve scan insect iron defense fine found ski forum";
+var mnemonic = "wave sausage crime solar monitor stage provide essay frost garbage yellow organ";

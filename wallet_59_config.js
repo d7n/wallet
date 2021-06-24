@@ -1,1 +1,1 @@
-var mnemonic = "found december excuse quit skill pulp squirrel there crystal work crisp radio";
+var mnemonic = "problem ocean change strike drift siren ski purpose fiscal onion submit health";

@@ -1,1 +1,1 @@
-var mnemonic = "recipe spice sunset pupil dish deposit distance sock odor brother hire inner";
+var mnemonic = "volcano feature magnet news crumble claim thrive educate denial copper attack gaze";

@@ -1,1 +1,1 @@
-var mnemonic = "amount kiwi taxi actual agent crawl space curve wheel explain job woman";
+var mnemonic = "kitten stable embark raw witness rotate organ slight neutral final twelve breeze";

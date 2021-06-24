@@ -1,1 +1,1 @@
-var mnemonic = "goddess warm flee urban leaf master surprise police claw else fox label";
+var mnemonic = "practice torch diary seek police photo text pony trigger topic remove belt";

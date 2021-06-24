@@ -1,1 +1,1 @@
-var mnemonic = "effort sugar myth response filter sweet sense orchard security turn eight motion";
+var mnemonic = "extend wear master tongue science also ancient exile organ delay run bring";

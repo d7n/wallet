@@ -1,1 +1,1 @@
-var mnemonic = "attend shallow purpose muscle lake year hungry glad aunt verb must share";
+var mnemonic = "music drastic satisfy stone range morning style obey stomach wash tonight comfort";

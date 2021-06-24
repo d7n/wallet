@@ -1,1 +1,1 @@
-var mnemonic = "social safe join advance about valid cancel ignore master best liar teach";
+var mnemonic = "earth amazing luggage jar cannon shoulder ride teach refuse salon party save";

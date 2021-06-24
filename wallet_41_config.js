@@ -1,1 +1,1 @@
-var mnemonic = "harbor mandate claim mix milk boil grief exchange space yard embark evidence";
+var mnemonic = "daughter lift parent grid enemy manage exotic abstract degree silent gasp enact";

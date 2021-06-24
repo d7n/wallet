@@ -1,1 +1,1 @@
-var mnemonic = "photo tennis model duty protect grant system base craft horn mushroom normal";
+var mnemonic = "march meat palm walk tongue affair under pepper guilt gorilla bottom social";

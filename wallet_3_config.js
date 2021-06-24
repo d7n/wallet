@@ -1,1 +1,1 @@
-var mnemonic = "immense seed often able exhibit dignity tennis grant fluid island option rapid";
+var mnemonic = "orphan brush rabbit hunt okay coast country fold breeze veteran team damage";

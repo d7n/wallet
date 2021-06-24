@@ -1,1 +1,1 @@
-var mnemonic = "swing welcome puppy elevator lunar annual pride original scale excite banana miracle";
+var mnemonic = "piano wife infant wife mention lab rain sign vendor advance magnet consider";

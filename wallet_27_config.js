@@ -1,1 +1,1 @@
-var mnemonic = "renew tragic flush rhythm arch they enter goose cycle trumpet lake sure";
+var mnemonic = "wealth lend able arrange toe account crucial hurt truth old payment solar";

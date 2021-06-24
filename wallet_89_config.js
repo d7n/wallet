@@ -1,1 +1,1 @@
-var mnemonic = "term vicious sunset dad trouble refuse sight actress mountain leader brand skill";
+var mnemonic = "sight anchor swim accident saddle coach misery torch pilot lamp crowd quit";

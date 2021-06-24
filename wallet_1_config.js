@@ -1,1 +1,1 @@
-var mnemonic = "trigger primary program garment copper animal produce flash announce cruise vacant cook";
+var mnemonic = "profit document tobacco matter rapid tired eternal when public pioneer fine once";

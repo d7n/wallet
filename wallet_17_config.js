@@ -1,1 +1,1 @@
-var mnemonic = "echo circle suggest alter rude mistake distance monster work target zebra creek";
+var mnemonic = "myth parent carpet snap message barely cruel shiver cycle tackle trigger scout";

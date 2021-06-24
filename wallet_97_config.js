@@ -1,1 +1,1 @@
-var mnemonic = "liberty slide grunt fence produce chalk tray cargo orient exile avoid only";
+var mnemonic = "insect clog poem frown brush elder spend above west vacant hood custom";

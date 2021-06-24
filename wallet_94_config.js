@@ -1,1 +1,1 @@
-var mnemonic = "staff crucial avoid theme skill light husband during episode spawn enact same";
+var mnemonic = "enrich sting wide curve tape frown business jump brain violin furnace picture";

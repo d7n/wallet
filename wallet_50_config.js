@@ -1,1 +1,1 @@
-var mnemonic = "obvious finger gold wheat escape offer initial luggage napkin dolphin possible achieve";
+var mnemonic = "myself model prison inflict reopen devote race volume gentle farm lizard injury";

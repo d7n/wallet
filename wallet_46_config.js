@@ -1,1 +1,1 @@
-var mnemonic = "mystery eye divide pattern castle suggest penalty foil silver color december series";
+var mnemonic = "opinion turn gate detect garage potato object antenna cook waste danger town";

@@ -1,1 +1,1 @@
-var mnemonic = "raise cattle admit shell faint ceiling cupboard foot canal truck segment bargain";
+var mnemonic = "useless boil logic expose cotton ordinary garden comic alone rough chronic release";

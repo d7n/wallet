@@ -1,1 +1,1 @@
-var mnemonic = "super gravity moment erase hero advice submit what that token valve pass";
+var mnemonic = "budget frog horror upon slush naive exhaust awesome harvest bird gorilla gasp";

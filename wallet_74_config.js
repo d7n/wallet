@@ -1,1 +1,1 @@
-var mnemonic = "rare lottery swallow quick vague year erase skin cover dismiss gown moon";
+var mnemonic = "leader laugh target bracket motor fix able ethics ugly cover diesel crisp";

@@ -1,1 +1,1 @@
-var mnemonic = "rib cart logic midnight build spread play chalk arch meadow city smooth";
+var mnemonic = "spy vibrant gossip gun common bind speed decade fragile indoor entry room";

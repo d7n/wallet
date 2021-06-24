@@ -1,1 +1,1 @@
-var mnemonic = "harvest profit sun bronze six orient same predict film vapor rebuild horror";
+var mnemonic = "solve major siege ankle place abstract dad label light make knife vendor";

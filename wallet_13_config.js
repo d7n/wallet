@@ -1,1 +1,1 @@
-var mnemonic = "media raven define veteran abuse bridge october firm husband cake teach boat";
+var mnemonic = "amount elephant opera divorce student elder mix label glue strong enough denial";

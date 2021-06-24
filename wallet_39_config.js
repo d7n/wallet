@@ -1,1 +1,1 @@
-var mnemonic = "asthma finish element gas quarter start pottery cattle symbol sleep grit fat";
+var mnemonic = "fade work music illness keep pond ride immune invite help smoke toss";

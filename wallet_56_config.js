@@ -1,1 +1,1 @@
-var mnemonic = "erase swap home abandon hammer expand keen popular fury chair write flat";
+var mnemonic = "wet ankle card carpet useless exercise enjoy churn swarm yard lake spell";

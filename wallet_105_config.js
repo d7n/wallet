@@ -1,1 +1,1 @@
-var mnemonic = "wedding thank bullet renew pledge negative clean fiscal school verb scrub zoo";
+var mnemonic = "fossil excess valid offer fold dry better brown purity old asthma summer";

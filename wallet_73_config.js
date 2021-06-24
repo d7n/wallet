@@ -1,1 +1,1 @@
-var mnemonic = "zone atom state pattern bicycle normal veteran doctor upset north input artwork";
+var mnemonic = "benefit amused bike eager poet organ peasant situate peasant okay suggest universe";

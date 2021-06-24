@@ -1,1 +1,1 @@
-var mnemonic = "time garbage chest behind blossom purchase sock ten grab uncle grocery corn";
+var mnemonic = "salmon east motion rare faith grain test excuse scene cross grit lady";

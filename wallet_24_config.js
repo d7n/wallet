@@ -1,1 +1,1 @@
-var mnemonic = "blood slot dutch secret foster joke clutch ten wheat phrase system behind";
+var mnemonic = "enact fabric season toss tuition license maple math prize alien ill token";

@@ -1,1 +1,1 @@
-var mnemonic = "primary title hungry slogan hamster side wheat insane face universe dance speak";
+var mnemonic = "riot world scrub gain symptom entry wood phrase glide window diary evil";

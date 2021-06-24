@@ -1,1 +1,1 @@
-var mnemonic = "matrix argue action tuna squeeze immune shine cash cupboard cool derive renew";
+var mnemonic = "busy pyramid dismiss food steak sense sorry surge sick adult corn garage";

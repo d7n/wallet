@@ -1,1 +1,1 @@
-var mnemonic = "able puppy inherit van swarm member heart load snow kitten thumb service";
+var mnemonic = "attitude crystal drill receive knife metal pass orchard donate tragic sheriff script";

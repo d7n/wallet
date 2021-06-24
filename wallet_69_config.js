@@ -1,1 +1,1 @@
-var mnemonic = "member stool vanish plunge share rally deal blade tomorrow lift mountain size";
+var mnemonic = "help violin eye wink angry rude subject random close expand bleak energy";

@@ -1,1 +1,1 @@
-var mnemonic = "climb manual replace below stool elder gold final injury school found robust";
+var mnemonic = "pudding simple napkin help convince effort carpet pair absurd soccer armor lab";

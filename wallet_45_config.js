@@ -1,1 +1,1 @@
-var mnemonic = "price radio time puppy visual dignity oblige swallow exhaust august despair marine";
+var mnemonic = "asset congress assume bundle empty timber rubber hobby giraffe arena churn kitchen";

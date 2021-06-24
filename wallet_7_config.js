@@ -1,1 +1,1 @@
-var mnemonic = "income hub spike squirrel point gadget goddess road repair shell acid tree";
+var mnemonic = "there lady cushion raise bid into balance zero clinic spring job boss";

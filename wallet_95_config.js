@@ -1,1 +1,1 @@
-var mnemonic = "length empty today core situate remove exit assault humor aisle caught pass";
+var mnemonic = "dress joke patient color royal shaft load before awesome giggle brass rib";

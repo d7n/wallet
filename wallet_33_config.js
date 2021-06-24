@@ -1,1 +1,1 @@
-var mnemonic = "vicious victory false arrive shoulder critic ready bottom green discover few fade";
+var mnemonic = "suit hockey start surface marriage cheese vehicle club giraffe tell crash card";

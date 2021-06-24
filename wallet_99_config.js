@@ -1,1 +1,1 @@
-var mnemonic = "trial gorilla year cancel ship galaxy apple rail violin snap donor smile";
+var mnemonic = "retreat scene wheat acid coral razor enroll gain scheme seek grace absurd";

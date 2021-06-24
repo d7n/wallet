@@ -1,1 +1,1 @@
-var mnemonic = "surprise borrow squeeze resemble blind verb adult fury useful cloth solve deal";
+var mnemonic = "acquire style proof derive bracket mutual oppose staff video maple yard clap";

@@ -1,1 +1,1 @@
-var mnemonic = "broccoli camera seminar card spirit travel artefact captain loyal agent canvas device";
+var mnemonic = "city visa bag auction afraid gas prevent shrug celery chief across develop";

@@ -1,1 +1,1 @@
-var mnemonic = "rural fee become lesson assist tiny reform alcohol flush scan under must";
+var mnemonic = "industry tomorrow subway scrub remove crunch fatal book chat age roast arena";

@@ -1,1 +1,1 @@
-var mnemonic = "gauge security excuse slice artwork orange title slice thing liberty elegant rose";
+var mnemonic = "custom false spot merry flower energy total solar yard chapter friend cannon";

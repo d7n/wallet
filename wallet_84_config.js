@@ -1,1 +1,1 @@
-var mnemonic = "run dwarf sock deal acquire judge ignore art hurt boy tone mountain";
+var mnemonic = "sausage muscle slogan shop sand message cost hub suggest moral belt long";

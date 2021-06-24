@@ -1,1 +1,1 @@
-var mnemonic = "world gown often film divert uncle bubble edit army appear twenty bulk";
+var mnemonic = "result weather piece enjoy cliff quote snack engage lemon canvas boil chuckle";

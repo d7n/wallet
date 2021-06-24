@@ -1,1 +1,1 @@
-var mnemonic = "hour guess lonely mind game curious damp area amazing impulse flock wedding";
+var mnemonic = "emerge wild girl noodle poverty tobacco secret erase finish volcano bridge calm";

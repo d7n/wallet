@@ -1,1 +1,1 @@
-var mnemonic = "absurd cherry lend pelican faith image harsh humor wheel zoo easy truck";
+var mnemonic = "winter outer cry giggle purchase diamond bag napkin crush submit muffin patient";

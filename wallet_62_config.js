@@ -1,1 +1,1 @@
-var mnemonic = "net advance derive public stage come amount later knock plastic alley play";
+var mnemonic = "small picture tribe cycle glare spray ship draw document absorb come chuckle";

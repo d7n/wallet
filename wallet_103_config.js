@@ -1,1 +1,1 @@
-var mnemonic = "concert eyebrow father verify umbrella media cupboard shoe panda cloud essay bracket";
+var mnemonic = "shove differ senior sugar garment furnace soda ocean addict mandate since fence";

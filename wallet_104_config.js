@@ -1,1 +1,1 @@
-var mnemonic = "garment bundle mirror error helmet music ocean scout old size rule join";
+var mnemonic = "trade ritual jungle moral drop dust spirit decade nature frozen buffalo dutch";

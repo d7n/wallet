@@ -1,1 +1,1 @@
-var mnemonic = "clay camp layer rich lock box bubble enjoy unknown hero grace enroll";
+var mnemonic = "usual penalty trial push black around april average awful apart coffee decade";

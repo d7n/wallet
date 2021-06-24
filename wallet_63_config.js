@@ -1,1 +1,1 @@
-var mnemonic = "urge arrest thing slab tiger border vague culture toss blade spirit clarify";
+var mnemonic = "coast tent soldier okay fiber drip soul fluid mesh myself around shy";

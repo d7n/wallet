@@ -1,1 +1,1 @@
-var mnemonic = "guess turtle sausage legal attend portion pottery tomato pave book check idea";
+var mnemonic = "bachelor ketchup exhaust orchard cost sleep economy autumn reveal girl south typical";

@@ -1,1 +1,1 @@
-var mnemonic = "short swamp hurry alarm enjoy wrist cupboard ladder plastic surge dutch stem";
+var mnemonic = "elevator clown smoke happy scheme shadow unveil diamond cruise devote damp video";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis february kid visual include false tomorrow afraid wagon mesh disorder nose";
+var mnemonic = "sight wolf anxiety friend office goddess mammal brother vapor olive fee obscure";

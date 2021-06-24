@@ -1,1 +1,1 @@
-var mnemonic = "cup piece hood lizard zero crucial doctor style obtain bright insane deliver";
+var mnemonic = "have web visual sea churn aspect social pumpkin chaos stove harsh vote";

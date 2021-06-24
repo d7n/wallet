@@ -1,1 +1,1 @@
-var mnemonic = "dune album start bottom casual donor float brass riot cancel conduct oven";
+var mnemonic = "rebuild art physical silk lounge trip author parade hunt script mixed inquiry";

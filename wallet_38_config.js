@@ -1,1 +1,1 @@
-var mnemonic = "amateur crop child ceiling odor depth universe term lucky hockey creek shuffle";
+var mnemonic = "excuse follow buddy margin toward crime smile regular pupil fancy excuse boil";

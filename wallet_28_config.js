@@ -1,1 +1,1 @@
-var mnemonic = "boring glare relief boss armor gown scout nation camp cry palm gift";
+var mnemonic = "enhance because ugly twenty athlete average enable aunt pass room peasant decrease";

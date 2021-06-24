@@ -1,1 +1,1 @@
-var mnemonic = "unfold suggest slush rude nut suit kingdom control stay once merit skin";
+var mnemonic = "grief question wisdom unique curious silly right scorpion buyer arctic play sadness";

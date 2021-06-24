@@ -1,1 +1,1 @@
-var mnemonic = "enrich slam earn dream animal car scout letter find remove mystery group";
+var mnemonic = "cable glass occur trial intact kidney prosper toss engine indoor salmon great";

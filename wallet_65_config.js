@@ -1,1 +1,1 @@
-var mnemonic = "upon army awful stairs similar post diet post vocal warrior sign unit";
+var mnemonic = "erosion improve interest sorry daughter issue shaft skull awesome angry coral install";

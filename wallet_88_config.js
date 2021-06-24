@@ -1,1 +1,1 @@
-var mnemonic = "apart civil together glance orphan divide wealth six whisper trap husband dune";
+var mnemonic = "brother bacon private omit episode what banner exotic brick surface practice hope";

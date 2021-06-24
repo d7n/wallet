@@ -1,1 +1,1 @@
-var mnemonic = "pistol fun blossom opera catalog also tiger awful title green narrow wreck";
+var mnemonic = "cradle cinnamon wedding stove square life kid crater ladder one account hotel";

@@ -1,1 +1,1 @@
-var mnemonic = "forum view middle burst loop fame curtain reflect proud image seed supply";
+var mnemonic = "village impulse feed amused river garbage banana skill erupt decade sign rack";

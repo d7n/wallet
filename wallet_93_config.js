@@ -1,1 +1,1 @@
-var mnemonic = "mouse clarify man place photo summer kitchen expose vacant wise bunker chair";
+var mnemonic = "anger tissue aspect sustain swim tube snap theme blouse course chalk face";

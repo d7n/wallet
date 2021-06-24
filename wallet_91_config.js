@@ -1,1 +1,1 @@
-var mnemonic = "stereo fault vivid pet path know lecture coin yard engage risk nose";
+var mnemonic = "enrich smooth absent dynamic siege lumber kitchen dream wisdom trouble fossil cash";

@@ -1,1 +1,1 @@
-var mnemonic = "volume angry bone series magic jungle share brief tell work tennis cost";
+var mnemonic = "harvest zero shaft rule heavy all common present argue trouble fat wagon";

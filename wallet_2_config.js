@@ -1,1 +1,1 @@
-var mnemonic = "prevent script predict begin peace vendor mix mystery bomb frozen essence agree";
+var mnemonic = "cannon option exile clock huge update blade antique fold festival sell forget";

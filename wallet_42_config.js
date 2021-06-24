@@ -1,1 +1,1 @@
-var mnemonic = "series demand mango cup enact cotton view spider force initial leaf guess";
+var mnemonic = "network surround wheel flight fossil erupt speak hurdle kitten mobile wife just";

@@ -1,1 +1,1 @@
-var mnemonic = "orchard eyebrow level uncle ribbon similar arena near arctic cram cargo system";
+var mnemonic = "seed rich eternal reward veteran erosion emerge sadness priority spatial sort portion";

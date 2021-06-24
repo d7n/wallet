@@ -1,1 +1,1 @@
-var mnemonic = "pottery badge limit decrease august quality novel inflict end cliff captain ceiling";
+var mnemonic = "attitude write switch enrich boss retreat invest need pact rate logic donor";

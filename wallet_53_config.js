@@ -1,1 +1,1 @@
-var mnemonic = "consider rigid muffin wheel pony scissors fault segment chef boost arrange wear";
+var mnemonic = "random cake defy muscle enable inquiry snow bachelor drill join box slush";

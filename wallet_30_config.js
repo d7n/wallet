@@ -1,1 +1,1 @@
-var mnemonic = "plate style nephew action machine loop there together pulse damp ribbon maid";
+var mnemonic = "chuckle farm angry oil banana wisdom reduce habit crunch session ostrich tool";

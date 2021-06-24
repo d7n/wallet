@@ -1,1 +1,1 @@
-var mnemonic = "rocket core gasp sadness loud abstract squeeze divert census detect rain open";
+var mnemonic = "cliff grace error carbon satisfy will aspect very arm mom discover wisdom";

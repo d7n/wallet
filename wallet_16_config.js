@@ -1,1 +1,1 @@
-var mnemonic = "direct stove pudding can person obscure disagree focus gauge forum segment bullet";
+var mnemonic = "skull gold loop cigar clerk mushroom patient coin adult mad alley cancel";

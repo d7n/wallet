@@ -1,1 +1,1 @@
-var mnemonic = "mask deny sibling step desk work matter tribe modify settle weather else";
+var mnemonic = "earth zero put bamboo settle purse twist announce equip brisk twelve interest";

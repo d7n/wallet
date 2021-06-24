@@ -1,1 +1,1 @@
-var mnemonic = "agree light borrow announce purity all normal kingdom tube spirit ginger nominee";
+var mnemonic = "coin adjust about ivory endless report goat able calm isolate indoor pupil";

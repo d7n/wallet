@@ -1,1 +1,1 @@
-var mnemonic = "woman seat region people boss circle filter poet road report expect hotel";
+var mnemonic = "coach worry battle arrest fall mammal talent fiction action spy outdoor census";

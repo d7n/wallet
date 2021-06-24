@@ -1,1 +1,1 @@
-var mnemonic = "chaos course fly frown matrix december exercise crush day distance sing volume";
+var mnemonic = "track member waste ice home hour rural tail office puzzle neither carbon";

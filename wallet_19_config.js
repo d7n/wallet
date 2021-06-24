@@ -1,1 +1,1 @@
-var mnemonic = "gift rocket wool process excite health rhythm borrow evidence garbage inform disagree";
+var mnemonic = "burden pledge crawl poem width suspect bottom boss ignore demise disease lamp";
