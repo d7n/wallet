@@ -1,1 +1,1 @@
-var mnemonic = "ghost gift drum furnace sunset vault split assume dirt seek wait enlist";
+var mnemonic = "among brief someone infant lucky brief boost angry exhibit during traffic fever";

@@ -1,1 +1,1 @@
-var mnemonic = "access jeans adjust resist expose pencil foil faint limb biology start roast";
+var mnemonic = "double trigger pause idea edit spice abuse rich okay income dad crew";

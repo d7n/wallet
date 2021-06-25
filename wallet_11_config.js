@@ -1,1 +1,1 @@
-var mnemonic = "gate choose lock despair grab spray aspect predict wheel steak maze trick";
+var mnemonic = "chat street small whisper meat fold visit scan legend badge enough divorce";

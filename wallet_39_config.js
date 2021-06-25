@@ -1,1 +1,1 @@
-var mnemonic = "text afraid exile roof immense debate base random lend cream upon limit";
+var mnemonic = "birth envelope champion aspect owner maid upgrade crunch music swear female robust";

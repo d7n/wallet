@@ -1,1 +1,1 @@
-var mnemonic = "chicken entire avoid possible priority pole mean car among marriage hotel amateur";
+var mnemonic = "outdoor lounge victory bus item lake push repeat august ancient like spare";

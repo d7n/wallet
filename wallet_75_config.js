@@ -1,1 +1,1 @@
-var mnemonic = "senior fabric sudden trip farm ketchup lyrics anger marriage book illness bargain";
+var mnemonic = "pyramid fence oak office sad above brain empty trophy excess cable diagram";

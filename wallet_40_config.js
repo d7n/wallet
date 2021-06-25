@@ -1,1 +1,1 @@
-var mnemonic = "evil option season race lunch aisle dust tuna nurse mouse puppy middle";
+var mnemonic = "tragic picture aerobic view basic embody super invest sponsor pill fat endorse";

@@ -1,1 +1,1 @@
-var mnemonic = "fluid result trick normal code eager physical squirrel insect crunch patch hollow";
+var mnemonic = "rent saddle trigger prosper pencil art endorse theme royal west humor truck";

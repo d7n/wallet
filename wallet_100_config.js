@@ -1,1 +1,1 @@
-var mnemonic = "choice trim lock decide dinosaur answer another sudden cabbage bench nose error";
+var mnemonic = "future organ aisle indoor wisdom isolate forget cable host upset army steak";

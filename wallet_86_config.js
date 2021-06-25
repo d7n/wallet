@@ -1,1 +1,1 @@
-var mnemonic = "twin daughter insane bone mix buddy clap slide typical cliff update evil";
+var mnemonic = "bottom seed consider disagree glove captain race slam misery nephew enrich giraffe";

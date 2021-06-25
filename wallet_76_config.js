@@ -1,1 +1,1 @@
-var mnemonic = "decrease repeat gorilla spirit rail piece play until simple exhaust huge rabbit";
+var mnemonic = "antenna banana fee feature obey manage pony identify express session all popular";

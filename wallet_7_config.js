@@ -1,1 +1,1 @@
-var mnemonic = "barely little magnet before canyon clarify accuse valve cotton team ritual until";
+var mnemonic = "kidney soup satoshi observe tent video purity tomato pumpkin laugh elegant oxygen";

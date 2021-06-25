@@ -1,1 +1,1 @@
-var mnemonic = "initial barrel crew notice prepare diagram cute effort volume rubber oven seed";
+var mnemonic = "effort crew scissors beach face jealous club shoe oval quick lens report";

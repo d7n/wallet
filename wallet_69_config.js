@@ -1,1 +1,1 @@
-var mnemonic = "simple dice valve embody empower suggest enact prevent advance asthma embody machine";
+var mnemonic = "hazard month curious trash announce orchard resource prevent check elephant cricket federal";

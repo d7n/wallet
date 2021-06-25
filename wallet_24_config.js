@@ -1,1 +1,1 @@
-var mnemonic = "limit magic blue lunch usual pond snack galaxy receive body idea address";
+var mnemonic = "kitchen audit lamp ramp brisk dog planet fit carpet useful black wedding";

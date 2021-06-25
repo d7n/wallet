@@ -1,1 +1,1 @@
-var mnemonic = "quality dwarf opinion market odor moral search under paddle work cushion purity";
+var mnemonic = "worry usage kit depend goddess bachelor dune group cloud radio step sick";

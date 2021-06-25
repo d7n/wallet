@@ -1,1 +1,1 @@
-var mnemonic = "ranch one invite enable peanut scorpion chaos beauty zebra start casino fitness";
+var mnemonic = "cheese leaf roof sail company front dream hotel police viable someone rate";

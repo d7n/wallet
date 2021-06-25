@@ -1,1 +1,1 @@
-var mnemonic = "mouse exhaust arena also noise actress flush episode lift mobile screen man";
+var mnemonic = "purse marriage rib recall antique poem still plug gasp hen high spot";

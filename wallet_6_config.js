@@ -1,1 +1,1 @@
-var mnemonic = "cannon brief slam normal uphold special jaguar cigar ozone frozen bitter merit";
+var mnemonic = "employ debris length diary velvet orient jazz faculty above need tomato barely";

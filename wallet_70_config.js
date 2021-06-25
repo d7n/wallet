@@ -1,1 +1,1 @@
-var mnemonic = "pig cage near lift fan frame fancy plastic key trade comic squirrel";
+var mnemonic = "invite lecture develop crunch flower truck rabbit cricket finish remember phone eagle";

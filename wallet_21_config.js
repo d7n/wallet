@@ -1,1 +1,1 @@
-var mnemonic = "tree arrow tenant kitchen differ bubble topple early permit elder accident option";
+var mnemonic = "pipe party tag blind shrimp squirrel again news police educate scene once";

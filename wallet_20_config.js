@@ -1,1 +1,1 @@
-var mnemonic = "truth bullet lava enemy obey shuffle physical awesome romance when cave lawn";
+var mnemonic = "oil worth twenty flash birth direct happy pledge piece tragic jaguar damp";

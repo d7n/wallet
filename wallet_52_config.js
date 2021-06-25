@@ -1,1 +1,1 @@
-var mnemonic = "satisfy define cupboard energy health fold thought trust conduct consider spin suffer";
+var mnemonic = "extra brave palm industry concert route universe labor repair shop urge already";

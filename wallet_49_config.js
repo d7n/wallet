@@ -1,1 +1,1 @@
-var mnemonic = "lesson real bounce simple other fold marine chimney disorder lend huge cliff";
+var mnemonic = "alert crack mercy perfect blanket sell capable record ostrich little craft expire";

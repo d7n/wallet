@@ -1,1 +1,1 @@
-var mnemonic = "emotion autumn learn wink that aware heavy usual bus exchange shove segment";
+var mnemonic = "melt flock critic ship settle need obscure enable enforce second punch during";

@@ -1,1 +1,1 @@
-var mnemonic = "position grunt all puzzle bomb mention ghost hotel used move enforce general";
+var mnemonic = "napkin zone divert master cement virtual myth identify cave more laptop aerobic";

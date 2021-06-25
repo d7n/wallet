@@ -1,1 +1,1 @@
-var mnemonic = "advice raw magnet crowd february doctor this young other sting leaf sniff";
+var mnemonic = "cotton people bar twenty tonight oil secret bus couch uncle refuse burst";

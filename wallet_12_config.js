@@ -1,1 +1,1 @@
-var mnemonic = "certain gesture nephew work antique mechanic army token brain broom people live";
+var mnemonic = "gun ripple next timber resist sight suit gospel inflict orphan clown airport";

@@ -1,1 +1,1 @@
-var mnemonic = "safe catch consider quiz quarter century chair timber check front earn pet";
+var mnemonic = "desk arrow quit crane chalk three spring wet repair soul cause spot";

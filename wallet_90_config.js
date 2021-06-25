@@ -1,1 +1,1 @@
-var mnemonic = "hat float country apology hollow mystery wet attack city crisp danger disagree";
+var mnemonic = "giant west hunt fortune autumn ill fashion elegant decade renew transfer almost";

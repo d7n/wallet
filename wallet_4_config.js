@@ -1,1 +1,1 @@
-var mnemonic = "fish oak couch fashion tackle craft hover scheme crime picture liar announce";
+var mnemonic = "best end laptop switch foot genius theme ignore stove useless caution glory";

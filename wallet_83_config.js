@@ -1,1 +1,1 @@
-var mnemonic = "problem frog thing weapon cousin coil hunt win pottery clown tennis harsh";
+var mnemonic = "wolf glance patrol bachelor rough chunk pizza learn slide era daughter bone";

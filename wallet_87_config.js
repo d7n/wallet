@@ -1,1 +1,1 @@
-var mnemonic = "culture name science book slide fashion split dish absorb group city motion";
+var mnemonic = "provide find physical snake mansion appear surface enable become path fluid clinic";

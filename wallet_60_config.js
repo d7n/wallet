@@ -1,1 +1,1 @@
-var mnemonic = "aware turtle include sword virus remove lobster bind time address secret sauce";
+var mnemonic = "model shop bread wave pond put indicate cheese sniff grit saddle gate";

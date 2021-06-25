@@ -1,1 +1,1 @@
-var mnemonic = "canvas wild setup autumn taste aspect multiply tray unveil inside fitness nest";
+var mnemonic = "remain trade radar good vintage noise track inject slush autumn future dignity";

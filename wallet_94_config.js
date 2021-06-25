@@ -1,1 +1,1 @@
-var mnemonic = "globe cruise sudden that file phone borrow balcony onion recall robust proud";
+var mnemonic = "pumpkin talk practice rain soup table lift town eagle increase work topple";

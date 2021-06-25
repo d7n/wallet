@@ -1,1 +1,1 @@
-var mnemonic = "plastic agent worth artist tornado spring subway crazy into exile cable defy";
+var mnemonic = "coil vacant tide lion bullet example garden grow canoe merit renew accident";

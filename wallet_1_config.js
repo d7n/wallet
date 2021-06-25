@@ -1,1 +1,1 @@
-var mnemonic = "atom planet cloud glow staff tortoise predict current sauce lion bunker sketch";
+var mnemonic = "merit inject strike where now dice size harvest rug process fabric trumpet";

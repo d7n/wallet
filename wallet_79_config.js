@@ -1,1 +1,1 @@
-var mnemonic = "angle pact angry collect bronze dune comic extra cram there window rent";
+var mnemonic = "emerge sausage unlock weird spice clever crucial fancy enforce clerk until profit";

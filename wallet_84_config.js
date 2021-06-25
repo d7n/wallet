@@ -1,1 +1,1 @@
-var mnemonic = "tornado slam harsh soft pear drip grape lab hazard clutch panic gravity";
+var mnemonic = "insane stick able idle relax wall state rent will cook essence outside";

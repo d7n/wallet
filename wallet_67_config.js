@@ -1,1 +1,1 @@
-var mnemonic = "parade tragic alley dizzy scene horse remove salmon gallery chaos husband party";
+var mnemonic = "position crime notable memory theory pitch network impose addict input coin ocean";

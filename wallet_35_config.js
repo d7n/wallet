@@ -1,1 +1,1 @@
-var mnemonic = "town chat pluck museum private rain report entry gun robot lazy long";
+var mnemonic = "mesh flat trigger tornado leg scout duck taxi learn select judge police";

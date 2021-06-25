@@ -1,1 +1,1 @@
-var mnemonic = "repair gain arrive crater gadget target update apple tray torch fly april";
+var mnemonic = "hat quit solution call upper assault dignity million degree exhibit next nature";

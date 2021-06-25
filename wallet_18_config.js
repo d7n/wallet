@@ -1,1 +1,1 @@
-var mnemonic = "divide judge motor thank leg spawn cruise road skill clump local eternal";
+var mnemonic = "other clutch later odor leaf custom bundle law tree vote off lava";

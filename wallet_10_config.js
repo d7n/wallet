@@ -1,1 +1,1 @@
-var mnemonic = "fog table few business style wrap protect reward arm purchase oak stuff";
+var mnemonic = "useful engine file scrub retire drive silk argue receive elegant learn bless";

@@ -1,1 +1,1 @@
-var mnemonic = "panel frost notice hollow office alone bring liquid entry vacuum teach arrive";
+var mnemonic = "maid learn return angry merry call mansion decorate usual potato ginger round";

@@ -1,1 +1,1 @@
-var mnemonic = "hen dutch teach concert lunch pride rapid sting unit insane confirm neglect";
+var mnemonic = "tell sea begin depend dash foster cause century indoor zero gossip bless";

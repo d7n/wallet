@@ -1,1 +1,1 @@
-var mnemonic = "friend glue valid switch aunt fix broom perfect steak early asset save";
+var mnemonic = "ask waste spike meadow imitate sugar lonely purchase soda sick glove toast";

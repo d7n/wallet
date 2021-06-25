@@ -1,1 +1,1 @@
-var mnemonic = "expose shuffle october fringe truly gap coin business track artwork mansion follow";
+var mnemonic = "enforce pill innocent you aspect rifle crucial wet crime pave enter distance";

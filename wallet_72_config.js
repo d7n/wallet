@@ -1,1 +1,1 @@
-var mnemonic = "poem print engage lazy when hero pear antenna hurry mystery sniff bag";
+var mnemonic = "desk person bunker tenant leader vapor repeat pact laugh refuse disease adapt";

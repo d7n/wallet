@@ -1,1 +1,1 @@
-var mnemonic = "rent change film promote horror crush power final coffee three erosion useless";
+var mnemonic = "script buzz warfare spirit trim case aunt service annual senior dinosaur hire";

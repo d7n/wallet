@@ -1,1 +1,1 @@
-var mnemonic = "game camp cover echo human indoor hedgehog symbol infant key item leave";
+var mnemonic = "jar employ height dentist tent excess similar butter grape employ vicious option";

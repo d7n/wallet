@@ -1,1 +1,1 @@
-var mnemonic = "crystal armed vanish wheel cart shoulder wear biology hole major surface city";
+var mnemonic = "churn enable duck wrap promote soul denial mistake wall panther rotate junk";

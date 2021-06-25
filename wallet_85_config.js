@@ -1,1 +1,1 @@
-var mnemonic = "repeat spawn job large first gallery draft explain install actress lizard jelly";
+var mnemonic = "cause filter search leader much oil young practice spice aerobic order dinosaur";

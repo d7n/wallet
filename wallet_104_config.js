@@ -1,1 +1,1 @@
-var mnemonic = "shield expose history oyster say monster tunnel shaft phrase clown able nerve";
+var mnemonic = "pluck choice business fit maximum engage achieve disease flavor enough bachelor essence";

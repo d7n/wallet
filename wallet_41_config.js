@@ -1,1 +1,1 @@
-var mnemonic = "number swallow phone zone flight record flip hard like unveil old dirt";
+var mnemonic = "bulk nose spider grant glory abandon rent seek welcome uphold enact vocal";

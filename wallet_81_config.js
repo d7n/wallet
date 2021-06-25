@@ -1,1 +1,1 @@
-var mnemonic = "supreme subject disorder ability clip connect marriage job yard original divorce arctic";
+var mnemonic = "final van congress expect wool virtual ice armor ignore element urban winner";

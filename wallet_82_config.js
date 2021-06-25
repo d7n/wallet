@@ -1,1 +1,1 @@
-var mnemonic = "shield bless summer engine combine tumble frozen city three slice kid maple";
+var mnemonic = "slide honey delay wise nuclear measure enter bubble avocado curtain stumble whip";

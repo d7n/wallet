@@ -1,1 +1,1 @@
-var mnemonic = "resist opera average tide cancel assault east alien crisp lunar couch sound";
+var mnemonic = "sun smart erosion steel knock leader enroll what mushroom security cook jazz";

@@ -1,1 +1,1 @@
-var mnemonic = "choice matter speed frozen this trash sea jungle choice venture unfair wear";
+var mnemonic = "evolve weird hire skate tape merry target romance pigeon furnace misery enter";

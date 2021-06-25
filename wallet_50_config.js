@@ -1,1 +1,1 @@
-var mnemonic = "wheat student pride bachelor rapid bomb resist panic ability post brush exercise";
+var mnemonic = "practice ancient such couch title conduct undo confirm junk concert culture system";

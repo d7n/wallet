@@ -1,1 +1,1 @@
-var mnemonic = "calm doll myself elegant primary soldier conduct coconut regular glide ability metal";
+var mnemonic = "belt squeeze peanut cotton crack tragic search neglect involve table clever someone";

@@ -1,1 +1,1 @@
-var mnemonic = "attract dune someone catalog draw indicate minor rifle column grocery dentist guard";
+var mnemonic = "shield gate video cool plate pony castle only maid sorry crunch decrease";

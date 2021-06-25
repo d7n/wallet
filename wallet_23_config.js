@@ -1,1 +1,1 @@
-var mnemonic = "gallery garment horror amused swift afraid step floor toss voice ask crucial";
+var mnemonic = "south jump fuel endless angry person body token inherit maze border arch";

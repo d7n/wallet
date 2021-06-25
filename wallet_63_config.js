@@ -1,1 +1,1 @@
-var mnemonic = "tribe under empower visual offer start differ crisp hood limb core alcohol";
+var mnemonic = "olive govern globe flee legal choice clap filter humble favorite sense flash";

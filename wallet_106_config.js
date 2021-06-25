@@ -1,1 +1,1 @@
-var mnemonic = "tide welcome decorate pudding pull enable cruel meat elevator spot clinic enhance";
+var mnemonic = "bundle despair alley win width asset earn prison loop lawn group shock";

@@ -1,1 +1,1 @@
-var mnemonic = "person power option monitor tide bulk spare visa ski visa alpha more";
+var mnemonic = "seek border teach dragon skate useless wine pepper merit coconut budget glare";

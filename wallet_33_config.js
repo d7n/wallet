@@ -1,1 +1,1 @@
-var mnemonic = "cluster inhale now woman more output filter stem essence scale parrot member";
+var mnemonic = "equip gorilla isolate finger broccoli company squirrel federal solar bird scrub fork";

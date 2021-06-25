@@ -1,1 +1,1 @@
-var mnemonic = "wait denial begin team finish park gift main treat brown belt female";
+var mnemonic = "retreat chase resist enter hill stock budget during female sponsor slide resemble";

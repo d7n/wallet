@@ -1,1 +1,1 @@
-var mnemonic = "public debate example term then glory shallow region decide magic core grocery";
+var mnemonic = "laptop party private essence fan right actress mobile discover trip play attitude";

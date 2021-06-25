@@ -1,1 +1,1 @@
-var mnemonic = "slide please popular setup clown life guilt test cement arrange option crime";
+var mnemonic = "foam finish together slow tide close lucky match elevator river bamboo arrive";

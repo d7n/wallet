@@ -1,1 +1,1 @@
-var mnemonic = "prison whip force combine shrimp tent hard apology oven dolphin arctic van";
+var mnemonic = "mercy zoo harbor cotton nuclear cry fold believe eight afford nerve reopen";

@@ -1,1 +1,1 @@
-var mnemonic = "learn treat inhale sponsor penalty typical canvas law legend scatter possible six";
+var mnemonic = "crop clown huge device account asset analyst pet add clerk balance prosper";

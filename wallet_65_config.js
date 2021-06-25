@@ -1,1 +1,1 @@
-var mnemonic = "hood devote tumble arrange spirit casual major water patch try time human";
+var mnemonic = "blast vague degree spawn tortoise exclude salt imitate citizen taxi unit town";

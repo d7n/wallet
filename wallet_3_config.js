@@ -1,1 +1,1 @@
-var mnemonic = "village head bulk gold match silent snap salad artefact chief describe pupil";
+var mnemonic = "minimum gravity satoshi gentle degree harbor dizzy wagon cool into jar pupil";

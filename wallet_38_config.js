@@ -1,1 +1,1 @@
-var mnemonic = "female canvas buffalo raw swallow grace marble cliff wolf cruise private guitar";
+var mnemonic = "trumpet dream pudding kidney ceiling salmon marriage timber border accuse huge crack";

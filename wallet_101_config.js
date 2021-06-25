@@ -1,1 +1,1 @@
-var mnemonic = "rain pizza calm peasant method drill wait gather thumb street album divert";
+var mnemonic = "oven family field mandate praise oval echo abuse kidney success glue common";

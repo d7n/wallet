@@ -1,1 +1,1 @@
-var mnemonic = "actor few actor siren price claim strategy argue float rocket palace wise";
+var mnemonic = "venue sea spy toilet sustain wash verb hover elite sunny step rent";

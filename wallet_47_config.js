@@ -1,1 +1,1 @@
-var mnemonic = "round inner gate kangaroo earn antenna upper shed minute solve foil carry";
+var mnemonic = "illegal glue harvest lunch race flush chef lemon because concert host guilt";

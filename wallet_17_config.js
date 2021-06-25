@@ -1,1 +1,1 @@
-var mnemonic = "arrest guilt cool chunk symbol enact clean legend reflect meat elite shock";
+var mnemonic = "limit cancel guilt effort sphere budget genre acid system bargain pupil answer";

@@ -1,1 +1,1 @@
-var mnemonic = "puppy mouse brief nasty search thought thing upon ride venue absorb culture";
+var mnemonic = "again verify drama switch differ alter violin meadow extend diamond donkey vivid";

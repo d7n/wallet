@@ -1,1 +1,1 @@
-var mnemonic = "hour still hollow deny shy struggle return toward anger region purity admit";
+var mnemonic = "armor song hurry jacket metal minimum disorder bitter fetch shove matrix forum";

@@ -1,1 +1,1 @@
-var mnemonic = "orange swallow essay clerk tilt now decrease slim orphan phone like cushion";
+var mnemonic = "manage relief search uncle trophy clock agree random poverty modify lawn manage";

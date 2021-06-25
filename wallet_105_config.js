@@ -1,1 +1,1 @@
-var mnemonic = "mobile author still distance inform blade mango virus enable simple must bless";
+var mnemonic = "ginger word explain organ normal pear like raise waste enrich snake laptop";

@@ -1,1 +1,1 @@
-var mnemonic = "sting decide teach glue prepare negative aspect fragile below shift ice chef";
+var mnemonic = "vehicle tower sort mutual exit smart palace street embody text also afraid";

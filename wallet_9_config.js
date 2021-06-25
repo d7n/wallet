@@ -1,1 +1,1 @@
-var mnemonic = "pride castle lumber time gloom wisdom illness buyer happy pass power loud";
+var mnemonic = "page unique refuse picture unknown adapt include humor sister nation adjust decrease";

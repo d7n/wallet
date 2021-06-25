@@ -1,1 +1,1 @@
-var mnemonic = "bubble beef blue grocery actor pond slush motor river put voice artefact";
+var mnemonic = "recipe ten hand grace miss cube square predict exotic noodle bridge captain";

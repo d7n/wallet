@@ -1,1 +1,1 @@
-var mnemonic = "glare short cram west unfair decide cabin warm swarm habit eternal frown";
+var mnemonic = "speak pulp exchange blood asthma talk guitar stem abstract party shy pause";

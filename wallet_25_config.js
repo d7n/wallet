@@ -1,1 +1,1 @@
-var mnemonic = "myself cabbage glow educate acid glance mango relief high unable strategy gloom";
+var mnemonic = "grape dust dynamic usual vapor view network wedding depart disagree laptop ethics";

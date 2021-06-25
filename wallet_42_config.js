@@ -1,1 +1,1 @@
-var mnemonic = "crowd cup install mirror bar seat risk noble address host you clap";
+var mnemonic = "exchange carpet dwarf unable invest mosquito add more all letter brisk food";

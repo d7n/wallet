@@ -1,1 +1,1 @@
-var mnemonic = "cram guard cry auto helmet river squirrel case relief emerge romance evidence";
+var mnemonic = "truck buzz bachelor photo have sense boring chat reduce husband curious obtain";

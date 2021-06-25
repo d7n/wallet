@@ -1,1 +1,1 @@
-var mnemonic = "input width raccoon table raven cloth multiply dinosaur various network giant donate";
+var mnemonic = "rely flee cousin reopen wink charge blossom rose moral cactus essence blast";
