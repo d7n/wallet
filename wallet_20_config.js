@@ -1,1 +1,1 @@
-var mnemonic = "aerobic alpha cherry render decade dawn arctic struggle such gate case phrase";
+var mnemonic = "spin error camp snap muscle goat dirt answer dance author click patch";

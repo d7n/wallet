@@ -1,1 +1,1 @@
-var mnemonic = "enhance female such monitor skirt diet like smart become hood fiscal season";
+var mnemonic = "van face install setup inhale crash chimney school bleak start screen you";

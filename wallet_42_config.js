@@ -1,1 +1,1 @@
-var mnemonic = "feed pact general manage mail favorite now grab confirm confirm pulp aware";
+var mnemonic = "recycle pupil matrix vital federal sniff afraid feature view act prefer fee";

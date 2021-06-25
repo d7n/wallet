@@ -1,1 +1,1 @@
-var mnemonic = "sponsor uncover world street hold theme world quick good human melody click";
+var mnemonic = "black excuse hungry decrease frog mountain blast choose dance hero shadow congress";

@@ -1,1 +1,1 @@
-var mnemonic = "trust soap snake crouch pool cereal morning coral cream panda print art";
+var mnemonic = "truth riot harbor spy pet engage basic blade churn alpha post goose";

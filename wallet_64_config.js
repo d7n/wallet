@@ -1,1 +1,1 @@
-var mnemonic = "panda evil system tobacco situate depend call strategy help knife observe slush";
+var mnemonic = "put scare circle ocean payment tribe hood athlete tuition stamp reward trial";

@@ -1,1 +1,1 @@
-var mnemonic = "giant taxi protect coin twenty bamboo math ahead update arch baby inject";
+var mnemonic = "lobster monitor nest divide soldier rubber brave ivory behind detect process label";

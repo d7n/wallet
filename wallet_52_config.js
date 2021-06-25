@@ -1,1 +1,1 @@
-var mnemonic = "jazz opera purchase sphere method mean excess access later bonus soap kiss";
+var mnemonic = "blur radio learn cave whisper swap lucky popular anxiety tool web battle";

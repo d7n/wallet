@@ -1,1 +1,1 @@
-var mnemonic = "narrow leave loyal catalog use maid chicken spatial drum direct girl stand";
+var mnemonic = "wealth obvious wrestle wonder favorite museum glue long banana huge swallow unfair";

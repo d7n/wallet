@@ -1,1 +1,1 @@
-var mnemonic = "once two live print thrive tongue entry neutral rigid fresh photo boil";
+var mnemonic = "reopen jungle trophy hidden pond above afraid drastic shock scatter have grace";

@@ -1,1 +1,1 @@
-var mnemonic = "cover unhappy eight rally wool cloud memory travel exist process find fat";
+var mnemonic = "rule model gate rocket explain sentence produce tumble pool gaze chat cigar";

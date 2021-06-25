@@ -1,1 +1,1 @@
-var mnemonic = "ceiling coral open fiscal bullet pledge flock seven stage refuse title allow";
+var mnemonic = "this hidden prosper strong seed baby core kitchen decorate silk nation slogan";

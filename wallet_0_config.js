@@ -1,1 +1,1 @@
-var mnemonic = "expose bone toilet object social rural margin saddle end consider useless safe";
+var mnemonic = "silver city have mobile boost hire knife steel assault fox shed observe";

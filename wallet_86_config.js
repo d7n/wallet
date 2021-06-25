@@ -1,1 +1,1 @@
-var mnemonic = "fold sting quick addict type friend dawn wear need mouse fox bicycle";
+var mnemonic = "drastic monkey vibrant ozone birth divert supply security satoshi cloth squeeze inch";

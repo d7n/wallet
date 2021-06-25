@@ -1,1 +1,1 @@
-var mnemonic = "swarm baby filter robot siege expect view dry double soda wash much";
+var mnemonic = "foam miracle symbol royal eagle benefit warfare scare afford student blood album";

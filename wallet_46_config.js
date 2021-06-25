@@ -1,1 +1,1 @@
-var mnemonic = "raise utility this cup puzzle eye entry spot cage fringe title guide";
+var mnemonic = "worth loan cloud dinner fade valley stand law dizzy can draw pioneer";

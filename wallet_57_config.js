@@ -1,1 +1,1 @@
-var mnemonic = "infant plug power cruise whale settle forget inherit mix beyond slam casino";
+var mnemonic = "appear inside essence olive wood pulp hair divert lawsuit budget ice game";

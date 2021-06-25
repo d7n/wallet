@@ -1,1 +1,1 @@
-var mnemonic = "priority vendor dolphin ability huge trade arena renew pelican exercise law grow";
+var mnemonic = "fence label into divorce kid satoshi duty sign lawsuit uncle museum weather";

@@ -1,1 +1,1 @@
-var mnemonic = "catalog plate dinner soul token task certain scan orchard brand pair invest";
+var mnemonic = "mom often forest style ritual cereal act visit usual stereo spawn exchange";

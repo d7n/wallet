@@ -1,1 +1,1 @@
-var mnemonic = "ritual immune tornado organ disorder belt tail mechanic culture hover march talent";
+var mnemonic = "citizen great above alien cluster cat misery success tower kit traffic thought";

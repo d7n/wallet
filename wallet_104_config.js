@@ -1,1 +1,1 @@
-var mnemonic = "answer jungle they spirit debate hold consider vapor dad gentle nature horn";
+var mnemonic = "crush wash parent little nest rare other mechanic bullet impact obvious satisfy";

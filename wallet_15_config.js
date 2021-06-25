@@ -1,1 +1,1 @@
-var mnemonic = "involve bachelor nation unfold story special gentle trust april output frame expose";
+var mnemonic = "street country debate empower live begin verify steak brother brisk foil report";

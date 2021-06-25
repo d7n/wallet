@@ -1,1 +1,1 @@
-var mnemonic = "session blame goose apology same eager buzz manage employ chat master run";
+var mnemonic = "digital deal ready inform weird buyer leisure state damp hedgehog sand metal";

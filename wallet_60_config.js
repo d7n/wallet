@@ -1,1 +1,1 @@
-var mnemonic = "vicious outdoor winter hair accuse bonus hood hard year shock snack call";
+var mnemonic = "inhale test immense hat army parrot despair frame half mutual large below";

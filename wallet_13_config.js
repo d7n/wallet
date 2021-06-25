@@ -1,1 +1,1 @@
-var mnemonic = "pen this output system fork eight fetch muscle stool entry meat enjoy";
+var mnemonic = "fish upper quantum until connect grit explain tower fancy monitor casual victory";

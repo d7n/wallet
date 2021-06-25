@@ -1,1 +1,1 @@
-var mnemonic = "grace crash office pattern type expect build media torch clump suggest burden";
+var mnemonic = "dose trap direct venture dune wear ethics amazing surface own lunch indoor";

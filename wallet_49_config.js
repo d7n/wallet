@@ -1,1 +1,1 @@
-var mnemonic = "sponsor gym sort inform crowd smoke sock amount inquiry process nephew economy";
+var mnemonic = "hub member analyst flip unit only derive marine giraffe light pizza general";

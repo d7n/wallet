@@ -1,1 +1,1 @@
-var mnemonic = "craft submit bread dutch maid deputy fire derive frown body obey hollow";
+var mnemonic = "deliver genuine symptom zero dice photo wish visa unknown biology order group";

@@ -1,1 +1,1 @@
-var mnemonic = "acoustic nose throw shield attract consider large proud entry deer genuine copy";
+var mnemonic = "teach stereo tuna please beach radar coast main theme safe diagram reflect";

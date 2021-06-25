@@ -1,1 +1,1 @@
-var mnemonic = "early mammal morning aware warm fatigue success stand ahead flush cheese usage";
+var mnemonic = "task nasty van exist excuse limit churn solar fragile stuff shallow profit";

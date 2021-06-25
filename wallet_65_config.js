@@ -1,1 +1,1 @@
-var mnemonic = "cliff thumb hurt misery push dice sunny famous absent crater school joke";
+var mnemonic = "enter culture stamp flame couple spread shine loan million swear supreme vehicle";

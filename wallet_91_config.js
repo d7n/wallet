@@ -1,1 +1,1 @@
-var mnemonic = "bird snack tag shed tent stick minimum snow matter chair become share";
+var mnemonic = "friend plug wink night noble sadness pattern ski lumber shop across pair";

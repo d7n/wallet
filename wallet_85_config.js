@@ -1,1 +1,1 @@
-var mnemonic = "flight citizen need weird fuel funny arrest casino hammer fine crane camp";
+var mnemonic = "scout subway inspire relief upset feed prevent blame excite dinosaur quote canoe";

@@ -1,1 +1,1 @@
-var mnemonic = "stay fiction mango false gasp keen girl midnight abandon key oppose horn";
+var mnemonic = "drive rebuild exist season tennis occur vivid regular weekend disagree method evolve";

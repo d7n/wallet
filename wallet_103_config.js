@@ -1,1 +1,1 @@
-var mnemonic = "enforce bird tenant grunt slush drum boat motor toy digital brother alert";
+var mnemonic = "setup feed business secret yellow pluck banana cage floor mind keep enact";

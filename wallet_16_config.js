@@ -1,1 +1,1 @@
-var mnemonic = "assist abuse sight number pull hole where spread law bridge expand virus";
+var mnemonic = "quick hotel select limit engage virtual explain copper scale brief flock twenty";

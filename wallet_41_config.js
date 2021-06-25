@@ -1,1 +1,1 @@
-var mnemonic = "rotate letter virus strong just buzz dwarf battle tell clog cruel gospel";
+var mnemonic = "glory charge ahead trap cargo damage inner arrive involve gold aisle inherit";

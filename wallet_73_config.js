@@ -1,1 +1,1 @@
-var mnemonic = "annual spider auction submit later champion select wash scrub face float safe";
+var mnemonic = "soup short crisp gown fee brick milk ride hat speak daring rich";

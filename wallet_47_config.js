@@ -1,1 +1,1 @@
-var mnemonic = "outside enforce state script moment chuckle apple snap universe praise tennis treat";
+var mnemonic = "push hungry antique trap sick kangaroo hard festival arrow success poverty dry";

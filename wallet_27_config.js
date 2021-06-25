@@ -1,1 +1,1 @@
-var mnemonic = "rapid neglect cactus eagle oblige cruel confirm screen maple save salt open";
+var mnemonic = "suggest settle chunk return other pyramid fix swarm reflect bulk search side";

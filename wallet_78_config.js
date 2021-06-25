@@ -1,1 +1,1 @@
-var mnemonic = "garment trigger slice engine layer venue pyramid champion side divorce legal steel";
+var mnemonic = "spirit decorate catch same any cluster moment rent once nose skull ring";

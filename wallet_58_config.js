@@ -1,1 +1,1 @@
-var mnemonic = "unit physical foam weapon various panther manage loud capital seek version elegant";
+var mnemonic = "leaf core comfort rotate flush fall reveal metal clutch pond decade pen";

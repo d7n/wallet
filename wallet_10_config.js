@@ -1,1 +1,1 @@
-var mnemonic = "still sudden legal sphere length copy zero stereo month license stairs puppy";
+var mnemonic = "sheriff desert zone detect uncle balcony wire best smile tool sketch illness";

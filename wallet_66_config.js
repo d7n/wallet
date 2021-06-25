@@ -1,1 +1,1 @@
-var mnemonic = "snap intact furnace enlist spoon broken beauty happy person claw wise fun";
+var mnemonic = "hover fat orient bag erosion project small skull blame box direct fossil";

@@ -1,1 +1,1 @@
-var mnemonic = "pull inherit ketchup radar kitchen high tonight heavy thing front pledge force";
+var mnemonic = "void practice cool invest scrap about company derive cost blast lion income";

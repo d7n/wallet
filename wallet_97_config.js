@@ -1,1 +1,1 @@
-var mnemonic = "toward sell focus speak apple inner lens transfer caught hundred foster shrug";
+var mnemonic = "tomorrow length sock miracle dash ankle adjust range easily carbon category sphere";

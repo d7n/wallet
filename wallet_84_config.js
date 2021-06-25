@@ -1,1 +1,1 @@
-var mnemonic = "earth payment large depth vendor maze type merry will family reveal fatigue";
+var mnemonic = "tip school private congress they crisp cupboard hunt exhibit tank drastic couch";

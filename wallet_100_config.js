@@ -1,1 +1,1 @@
-var mnemonic = "beauty box unknown today cage fortune clump poet defense feel exact walk";
+var mnemonic = "vintage toe assume dolphin drama brick vacant eight photo raw surface local";

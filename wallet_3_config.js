@@ -1,1 +1,1 @@
-var mnemonic = "like team climb six topple slender frozen cheap usual asset ceiling teach";
+var mnemonic = "rapid stereo girl bench picture ask organ orient nothing weasel suggest spell";

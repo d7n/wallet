@@ -1,1 +1,1 @@
-var mnemonic = "suffer curtain faculty habit involve cactus thank entry crop subject scrap frog";
+var mnemonic = "style vocal crane planet young wall comic demand faculty scorpion lonely reunion";

@@ -1,1 +1,1 @@
-var mnemonic = "nation hole prosper choice mail length distance soup rival antique abuse idle";
+var mnemonic = "scene kite blossom icon arena museum smart spice avocado vehicle mirror fork";

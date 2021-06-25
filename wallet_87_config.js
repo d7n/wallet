@@ -1,1 +1,1 @@
-var mnemonic = "love since camp ecology smoke stool patient laugh curtain cannon axis muffin";
+var mnemonic = "make letter owner south ramp flash dynamic awake trial tree trend aisle";

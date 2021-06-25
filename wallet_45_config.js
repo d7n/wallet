@@ -1,1 +1,1 @@
-var mnemonic = "club reopen deer inch gadget economy valve next column switch poem half";
+var mnemonic = "once skill punch antenna milk machine vital chalk note finger sphere piano";

@@ -1,1 +1,1 @@
-var mnemonic = "design scare search step add feed pet shrimp tower surround glimpse future";
+var mnemonic = "begin little smooth spirit acoustic diet ocean luxury level leaf erosion turtle";

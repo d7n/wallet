@@ -1,1 +1,1 @@
-var mnemonic = "enroll bicycle caution clump pear unique advice spring apology cheap trim peasant";
+var mnemonic = "ranch wait live prize work harsh cave degree risk learn seed clever";

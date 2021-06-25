@@ -1,1 +1,1 @@
-var mnemonic = "digital length double aerobic index nest hole fetch bulb mobile young invite";
+var mnemonic = "discover ready poem height fork shine number believe donor kitten flavor soap";

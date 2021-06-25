@@ -1,1 +1,1 @@
-var mnemonic = "proof win sing say phrase cube cargo surprise arrest mutual three sample";
+var mnemonic = "insane pause live roast modify acquire finish boil tilt science wonder timber";

@@ -1,1 +1,1 @@
-var mnemonic = "distance pool okay shallow acid spend vacuum degree utility frost anchor pledge";
+var mnemonic = "leave current exhaust feature friend hollow other blue clean orange hotel region";

@@ -1,1 +1,1 @@
-var mnemonic = "lawn shield element peasant clever shy local token oval type month shift";
+var mnemonic = "shock jacket note dirt library skirt shop exact alien eight section relief";

@@ -1,1 +1,1 @@
-var mnemonic = "teach truck client sure hood survey use glare service horror entry choose";
+var mnemonic = "faith impose vessel practice drink wreck increase upon debate mountain dwarf tornado";

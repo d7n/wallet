@@ -1,1 +1,1 @@
-var mnemonic = "license happy cushion balcony wink square scorpion jar sadness kiss blanket churn";
+var mnemonic = "spend chimney keep snow chair sniff melody ramp dial wise update develop";

@@ -1,1 +1,1 @@
-var mnemonic = "unusual laundry smile either cover number fold keep enhance worry skirt tomorrow";
+var mnemonic = "alarm during edge trim tail issue equip joke angle verify entire blood";

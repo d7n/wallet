@@ -1,1 +1,1 @@
-var mnemonic = "list empty defense catalog avoid piece birth donkey hello frost noise surge";
+var mnemonic = "worth either rotate slice chase weather rice license squeeze siren desk payment";

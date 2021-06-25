@@ -1,1 +1,1 @@
-var mnemonic = "govern like eagle atom torch diet horse alcohol boat bus treat december";
+var mnemonic = "dismiss chronic stumble diet axis laptop furnace bronze entry quarter egg echo";

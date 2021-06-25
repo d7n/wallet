@@ -1,1 +1,1 @@
-var mnemonic = "achieve short abandon across affair item senior scout atom goose orient clip";
+var mnemonic = "catch chaos portion media orphan crush fun edit obscure seek time real";

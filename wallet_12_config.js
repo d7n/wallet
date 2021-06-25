@@ -1,1 +1,1 @@
-var mnemonic = "aspect cake skill path summer fury knife know blame audit target panther";
+var mnemonic = "seat sting attend fix problem sunset clever attitude coral december occur limb";

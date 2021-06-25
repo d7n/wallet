@@ -1,1 +1,1 @@
-var mnemonic = "letter husband hero hover sting that person across letter protect fantasy spoon";
+var mnemonic = "general answer entire punch devote connect novel denial ghost annual knock party";

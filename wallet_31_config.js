@@ -1,1 +1,1 @@
-var mnemonic = "soon home rough lake marriage wild adult virtual spare hurry affair believe";
+var mnemonic = "address prefer leave hover indicate page online knock person boss stand spell";

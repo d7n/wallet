@@ -1,1 +1,1 @@
-var mnemonic = "panel arrive tomato also deal glare brass luggage gossip doctor wolf garbage";
+var mnemonic = "image cruise pact pilot define film ability spy sell faith able chalk";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor shield panel rookie plunge good swift drill race clown demise comic";
+var mnemonic = "output gorilla pass keep plug derive crisp reward casual skin grain miss";

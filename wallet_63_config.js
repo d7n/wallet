@@ -1,1 +1,1 @@
-var mnemonic = "minor play swing gold shock penalty element run order devote soccer mask";
+var mnemonic = "exclude wool bless beef detect final grid brain now stadium worry puppy";

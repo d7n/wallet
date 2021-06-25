@@ -1,1 +1,1 @@
-var mnemonic = "about kitten enlist catalog blossom hundred curtain canoe pepper trigger now defense";
+var mnemonic = "require enact canvas patrol olympic foster equal erode flip drastic suggest protect";

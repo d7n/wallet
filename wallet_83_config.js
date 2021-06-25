@@ -1,1 +1,1 @@
-var mnemonic = "minor minimum vivid praise dizzy dose deal dentist depart much trap town";
+var mnemonic = "vague number appear online wife split opinion post future hole goddess grunt";

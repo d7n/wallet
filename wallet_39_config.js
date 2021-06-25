@@ -1,1 +1,1 @@
-var mnemonic = "strike month film border else burger fever surge cube two oxygen work";
+var mnemonic = "very fun silent quantum ticket hurt under neutral slice loyal dance reward";

@@ -1,1 +1,1 @@
-var mnemonic = "ostrich print friend erode cute viable arch bounce valid renew remain cloth";
+var mnemonic = "pretty payment pill ill mobile fiscal social alley pet text found parent";

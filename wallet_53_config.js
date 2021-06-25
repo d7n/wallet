@@ -1,1 +1,1 @@
-var mnemonic = "split evidence artist captain phrase movie sound call sign rotate ask address";
+var mnemonic = "camera split hire resemble piece code segment shuffle large scale speak badge";

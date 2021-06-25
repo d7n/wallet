@@ -1,1 +1,1 @@
-var mnemonic = "vacant moon collect sphere angry angry deputy hero father wood shrimp rare";
+var mnemonic = "sign culture balance sister hard cluster wolf flash peanut select enter ranch";

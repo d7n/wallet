@@ -1,1 +1,1 @@
-var mnemonic = "brick phrase muscle sun found whip mechanic kite stable clean steel tourist";
+var mnemonic = "marble critic network century nephew father animal plunge famous peanut wish truly";

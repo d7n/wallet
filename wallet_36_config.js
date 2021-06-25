@@ -1,1 +1,1 @@
-var mnemonic = "horn token chef task trumpet bottom solid real sell visa improve cluster";
+var mnemonic = "elder reason spot file loud flip evil crack margin capable amount blush";

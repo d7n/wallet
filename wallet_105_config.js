@@ -1,1 +1,1 @@
-var mnemonic = "bag relief whale sniff leopard neither patrol forest voice country wall main";
+var mnemonic = "sort fade pen school program foil public pepper twelve run sketch bag";

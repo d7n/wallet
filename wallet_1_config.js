@@ -1,1 +1,1 @@
-var mnemonic = "midnight orphan bounce source hand protect concert wish twice main absurd grass";
+var mnemonic = "retire once hub mind casual grocery rack excuse urge coach pistol vanish";

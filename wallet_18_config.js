@@ -1,1 +1,1 @@
-var mnemonic = "ribbon trap burden stock beauty claw solid ask grace tuition food expire";
+var mnemonic = "save strike debate drive whip box reject milk jacket evil food fox";

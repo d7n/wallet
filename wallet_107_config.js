@@ -1,1 +1,1 @@
-var mnemonic = "scene bamboo creek subject cage rack final rose dress target drip slide";
+var mnemonic = "hen solid chair near master tag buyer close employ step story beach";

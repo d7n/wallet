@@ -1,1 +1,1 @@
-var mnemonic = "arrow inmate taxi agent ivory ugly regular pioneer faith sketch photo frost";
+var mnemonic = "cook because general ten skull umbrella hole fat end spot because puzzle";

@@ -1,1 +1,1 @@
-var mnemonic = "raise laptop reform inch chest narrow build wage insane develop great path";
+var mnemonic = "spirit brand ivory erupt file shed sock wonder stay siren come robust";

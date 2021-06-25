@@ -1,1 +1,1 @@
-var mnemonic = "runway pill auction rely liquid ask foot excite rural happy belt lock";
+var mnemonic = "script mandate mosquito return stool text trigger seat chimney royal lucky swing";

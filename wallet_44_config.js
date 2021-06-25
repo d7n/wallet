@@ -1,1 +1,1 @@
-var mnemonic = "multiply mountain ketchup come piano nephew right glimpse mesh ticket elite favorite";
+var mnemonic = "resource bleak hope evolve panel umbrella tattoo dash sudden usual palace proof";

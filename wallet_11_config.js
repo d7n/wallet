@@ -1,1 +1,1 @@
-var mnemonic = "trap elevator cinnamon umbrella wrestle taste heavy chunk holiday eye inside polar";
+var mnemonic = "giraffe soup unlock common wisdom tool collect voyage goose cloth sad stem";

@@ -1,1 +1,1 @@
-var mnemonic = "sadness impact embody better army sweet damage rotate ability juice estate deputy";
+var mnemonic = "social fiscal vicious maple pencil tilt draw satoshi subway found special baby";

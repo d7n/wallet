@@ -1,1 +1,1 @@
-var mnemonic = "dish robust ketchup scout dutch gentle legend myself idle castle add slush";
+var mnemonic = "eight toss detect pattern spatial profit firm autumn robust relief message ocean";

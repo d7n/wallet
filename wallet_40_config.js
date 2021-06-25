@@ -1,1 +1,1 @@
-var mnemonic = "milk ozone high start cigar enable kitten mutual off hero draw fun";
+var mnemonic = "early lion bargain file steel truth lonely firm ignore bachelor roof social";
