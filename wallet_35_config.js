@@ -1,1 +1,1 @@
-var mnemonic = "speed under music local custom model camera speak armor cradle shoot absurd";
+var mnemonic = "supreme fish cactus tail learn basket pen eyebrow edge dress fork gym";

@@ -1,1 +1,1 @@
-var mnemonic = "jump hunt ticket bridge myth sunset alien indoor opinion tomorrow bring curve";
+var mnemonic = "recall lyrics slow violin input service split genius pony park scrap spray";

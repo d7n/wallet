@@ -1,1 +1,1 @@
-var mnemonic = "unfair march thunder fashion crystal flat whisper motion dinosaur wagon check ordinary";
+var mnemonic = "save tortoise habit pair extra naive swift ivory code theme mirror absurd";

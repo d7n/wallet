@@ -1,1 +1,1 @@
-var mnemonic = "because gorilla output bicycle interest tooth mystery enforce friend laptop fine liquid";
+var mnemonic = "bird gap staff olive industry obey horn spider plunge winner always phone";

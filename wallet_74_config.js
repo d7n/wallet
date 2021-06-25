@@ -1,1 +1,1 @@
-var mnemonic = "keen vendor flip dash pave circle noodle infant sound rely sweet dizzy";
+var mnemonic = "heavy liquid true bitter dirt random sorry swim awful village fog rack";

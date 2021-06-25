@@ -1,1 +1,1 @@
-var mnemonic = "trophy hobby plunge other lounge easy isolate pact transfer flower tomato crush";
+var mnemonic = "spread brown behave east frame disagree outdoor cabbage gossip very they mother";

@@ -1,1 +1,1 @@
-var mnemonic = "solve cross practice sick ribbon note grape oval lunar mystery regret fantasy";
+var mnemonic = "engage bless rifle denial multiply better sugar foster trumpet shock diet august";

@@ -1,1 +1,1 @@
-var mnemonic = "soccer toilet naive idea east fault major filter assist picture pool solid";
+var mnemonic = "together vivid mystery hole crunch pudding copper cherry fence female damp approve";

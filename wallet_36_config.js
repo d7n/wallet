@@ -1,1 +1,1 @@
-var mnemonic = "whale auto link manage movie trap slim middle main meat umbrella village";
+var mnemonic = "square fantasy tribe liberty boring avocado wedding thought clown lady mammal margin";

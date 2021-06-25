@@ -1,1 +1,1 @@
-var mnemonic = "mixture cherry crack coral girl kit broccoli benefit limb civil equal grace";
+var mnemonic = "return strong upper force submit arena rocket clerk crucial amused error blouse";

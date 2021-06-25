@@ -1,1 +1,1 @@
-var mnemonic = "mutual jar slide armor zone leaf fetch shallow buzz frog uphold glimpse";
+var mnemonic = "venture fun audit fat stove blood swear wish subway argue portion toss";

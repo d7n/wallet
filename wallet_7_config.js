@@ -1,1 +1,1 @@
-var mnemonic = "access dwarf lemon kid fiber letter practice alarm leopard float used endless";
+var mnemonic = "relief cannon alter often gauge poverty access raven peanut minor autumn word";

@@ -1,1 +1,1 @@
-var mnemonic = "now script tired shoulder wealth federal father else host toward now father";
+var mnemonic = "uncover punch match chuckle blouse muscle blue garlic invite random gun cotton";

@@ -1,1 +1,1 @@
-var mnemonic = "always future master cool crush maze seed dog prison slush cruise law";
+var mnemonic = "hundred keep vote notable enjoy release tiger crawl throw vital grass license";

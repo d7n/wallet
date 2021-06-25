@@ -1,1 +1,1 @@
-var mnemonic = "organ absent venue gauge pink thought december still subject wheel spy must";
+var mnemonic = "vintage cargo canal pair high cart option scorpion motion output citizen ahead";

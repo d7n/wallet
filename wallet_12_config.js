@@ -1,1 +1,1 @@
-var mnemonic = "unusual still donor crowd size modify travel snack argue shock kick rail";
+var mnemonic = "soccer album dune photo debate seat aisle ocean machine elbow tube magic";

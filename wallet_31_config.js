@@ -1,1 +1,1 @@
-var mnemonic = "junior either announce tongue print object course identify when supreme answer stumble";
+var mnemonic = "bean daughter lake visit film crush grid best rose convince catalog pill";

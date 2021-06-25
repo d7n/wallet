@@ -1,1 +1,1 @@
-var mnemonic = "panel luxury negative clay soup wrestle catalog damp vibrant draft cannon west";
+var mnemonic = "exclude panic decorate deposit squirrel unhappy help smoke tiger uncle buyer identify";

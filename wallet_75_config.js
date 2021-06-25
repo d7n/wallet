@@ -1,1 +1,1 @@
-var mnemonic = "guitar lawn feature ancient clip pull champion half waste moral empower shoot";
+var mnemonic = "bird diesel magnet crack black alien hood beyond fatigue priority crane shield";

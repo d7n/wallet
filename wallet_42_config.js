@@ -1,1 +1,1 @@
-var mnemonic = "ribbon chaos face bulb three draft life refuse enforce winter student rice";
+var mnemonic = "wrong group process kite salon engage popular become arrest equip jaguar coach";

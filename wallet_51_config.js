@@ -1,1 +1,1 @@
-var mnemonic = "stone tragic nation unable ocean cloth slide ceiling joke hand naive board";
+var mnemonic = "snake image brief broken bind talk diagram major sound cancel inhale chaos";

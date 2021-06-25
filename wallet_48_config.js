@@ -1,1 +1,1 @@
-var mnemonic = "marine bid zero street balcony street soup castle skull fashion clump snake";
+var mnemonic = "advice afford arm motion explain panic chase right bronze alien noodle smooth";

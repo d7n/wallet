@@ -1,1 +1,1 @@
-var mnemonic = "bundle expand useful melt science december cherry drastic earth good melody ability";
+var mnemonic = "clump marine neck frame enough tank ship garden brain health total cupboard";

@@ -1,1 +1,1 @@
-var mnemonic = "squeeze month topic yard price potato organ crystal pledge avocado butter layer";
+var mnemonic = "theory century news tomato tuna suspect enlist grant sadness during lamp never";

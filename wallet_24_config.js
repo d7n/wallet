@@ -1,1 +1,1 @@
-var mnemonic = "prevent shove fortune forward zoo share cradle damp speed wool use clever";
+var mnemonic = "parent host clown resist item floor romance goose cloud daring loyal void";

@@ -1,1 +1,1 @@
-var mnemonic = "chief walk aunt grab bacon raw layer real brisk asset leisure host";
+var mnemonic = "two monster soul trap code barrel sorry rebuild boat joy fire company";

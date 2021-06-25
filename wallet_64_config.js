@@ -1,1 +1,1 @@
-var mnemonic = "charge patrol snow zebra suit rally put thrive kiss digital pelican erode";
+var mnemonic = "right steel witness mad oppose craft faint satoshi aisle soccer degree tape";

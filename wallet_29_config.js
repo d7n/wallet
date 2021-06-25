@@ -1,1 +1,1 @@
-var mnemonic = "cactus outdoor squirrel bulk wire knee problem toss vessel mirror hospital culture";
+var mnemonic = "fun pizza affair alpha cattle wool keep raw image hold axis require";

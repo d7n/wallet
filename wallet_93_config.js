@@ -1,1 +1,1 @@
-var mnemonic = "shop cook multiply together develop country rack slide glory year twist spice";
+var mnemonic = "wish assume decrease foster window reason talk elder toy label upgrade cute";

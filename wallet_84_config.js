@@ -1,1 +1,1 @@
-var mnemonic = "stand rapid bread plug wheel bottom deliver mercy vibrant love cannon recycle";
+var mnemonic = "tongue prefer use limb gadget bag ivory nose fork miss junk intact";

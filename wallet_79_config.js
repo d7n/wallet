@@ -1,1 +1,1 @@
-var mnemonic = "initial because refuse ignore seek coach whisper seminar curve crazy urge debris";
+var mnemonic = "bacon avoid bird exit pet turtle response target hard invest ski little";

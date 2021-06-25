@@ -1,1 +1,1 @@
-var mnemonic = "churn mean document pave upset prefer observe convince replace boil patient harsh";
+var mnemonic = "little use hill win blame blade spread leopard burst ocean core snake";

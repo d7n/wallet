@@ -1,1 +1,1 @@
-var mnemonic = "science high noodle wonder monitor vicious vendor bus board shiver reform student";
+var mnemonic = "team discover doll save energy possible bottom category poet frozen okay supreme";

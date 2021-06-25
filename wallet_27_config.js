@@ -1,1 +1,1 @@
-var mnemonic = "laugh thunder law rival sugar divorce join away fiction inspire bleak rigid";
+var mnemonic = "skirt omit nerve monster garbage appear govern curtain two duty meat grab";

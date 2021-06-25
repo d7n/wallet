@@ -1,1 +1,1 @@
-var mnemonic = "reason second business black isolate neglect ribbon lawn bean kitten clip alone";
+var mnemonic = "letter useful silly elephant lunar season fault physical agree burden brief fetch";

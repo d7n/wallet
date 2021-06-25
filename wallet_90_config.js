@@ -1,1 +1,1 @@
-var mnemonic = "defy harbor claim ivory text thunder ozone frown divert giraffe travel bunker";
+var mnemonic = "swing afraid party bonus series mercy blanket diagram scorpion client egg tortoise";

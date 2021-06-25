@@ -1,1 +1,1 @@
-var mnemonic = "utility worth total final shy scan wait dirt broccoli benefit bracket afford";
+var mnemonic = "dream entire tunnel run neglect media need thought volcano budget glory rose";

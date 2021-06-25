@@ -1,1 +1,1 @@
-var mnemonic = "payment brisk over canal total lake donor august struggle village garage corn";
+var mnemonic = "rookie panic economy ripple digital claw fine episode property village cotton injury";

@@ -1,1 +1,1 @@
-var mnemonic = "uniform tackle ahead among crush easy scan switch cousin put tape merry";
+var mnemonic = "sketch nice blue uniform rival extra theme family crunch shove permit dumb";

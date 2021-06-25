@@ -1,1 +1,1 @@
-var mnemonic = "body mind oil quit chief vibrant fold citizen awake creek menu flower";
+var mnemonic = "seat stable pitch weapon cable shift runway holiday tilt cheap model just";

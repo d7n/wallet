@@ -1,1 +1,1 @@
-var mnemonic = "immune swallow joke alarm bamboo gloom hip bulk peanut soldier route high";
+var mnemonic = "attitude chaos raven gossip luxury please stamp page twist ribbon dream vapor";

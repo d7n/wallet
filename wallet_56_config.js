@@ -1,1 +1,1 @@
-var mnemonic = "jeans hero please only attend wage asthma hire spawn rebuild library donkey";
+var mnemonic = "suggest account jeans onion predict almost captain ladder candy mandate arctic crater";

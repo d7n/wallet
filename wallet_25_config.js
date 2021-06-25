@@ -1,1 +1,1 @@
-var mnemonic = "busy extend weird stable bleak coral sail trouble boost muscle pride tongue";
+var mnemonic = "impact enhance rubber supreme often clock forum organ depth size kit push";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare build smooth material clutch identify try hip disagree among peasant village";
+var mnemonic = "guitar mail comfort faith soda earth deputy rain model grant main safe";

@@ -1,1 +1,1 @@
-var mnemonic = "pitch upon depth alley worry alter neutral wrong system key alpha absorb";
+var mnemonic = "matrix eternal shine monster pole absorb fabric drama worry ecology fabric violin";

@@ -1,1 +1,1 @@
-var mnemonic = "rug aerobic world prize autumn awesome culture sail wagon broom basic gas";
+var mnemonic = "chicken dynamic wave adapt jazz bicycle opinion buyer tip ring increase else";

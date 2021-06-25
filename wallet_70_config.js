@@ -1,1 +1,1 @@
-var mnemonic = "fantasy weird ramp bus whale receive orange zero enlist sail that modify";
+var mnemonic = "unknown net infant rent attitude phone radar future rhythm switch baby wolf";

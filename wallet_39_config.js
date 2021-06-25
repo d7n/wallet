@@ -1,1 +1,1 @@
-var mnemonic = "rapid robot dentist question leaf solution reduce young grocery net hold away";
+var mnemonic = "tired twist regret knock jelly network general uncle hawk april note remain";

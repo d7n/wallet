@@ -1,1 +1,1 @@
-var mnemonic = "train organ face crystal right fit human draft fun thought auction want";
+var mnemonic = "crater rabbit moment front tiny ostrich more giggle hard danger choice step";

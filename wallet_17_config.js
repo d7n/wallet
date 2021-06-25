@@ -1,1 +1,1 @@
-var mnemonic = "shoe flight soup keep wire glad shoot mimic firm water account service";
+var mnemonic = "kidney exotic include fabric leopard rare hidden section dutch apple analyst taxi";

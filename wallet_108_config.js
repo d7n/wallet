@@ -1,1 +1,1 @@
-var mnemonic = "blade vault find rug run over cigar theme nerve glare clean wave";
+var mnemonic = "glimpse chunk grass edit horse square tip sure guess access blanket rebel";

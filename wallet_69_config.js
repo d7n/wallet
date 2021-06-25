@@ -1,1 +1,1 @@
-var mnemonic = "gossip hip slogan joy moral young ripple raw prison glare adjust jump";
+var mnemonic = "grape fortune grocery net move force protect much lock push lesson step";

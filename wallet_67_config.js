@@ -1,1 +1,1 @@
-var mnemonic = "special copy keep gadget alley cage suggest hip entire develop divide cave";
+var mnemonic = "wreck search pottery rule violin glimpse error concert cable cotton wasp envelope";

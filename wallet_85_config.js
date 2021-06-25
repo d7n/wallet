@@ -1,1 +1,1 @@
-var mnemonic = "subject element rally govern attack marble climb sick bounce nest must cream";
+var mnemonic = "quantum noise unit sheriff know bid uncle trim combine average wrestle enhance";

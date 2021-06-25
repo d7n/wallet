@@ -1,1 +1,1 @@
-var mnemonic = "flame gauge play thought vacant sign muscle trash able width shallow soldier";
+var mnemonic = "kite test ginger worth raccoon gate steak scene bean essence slab black";

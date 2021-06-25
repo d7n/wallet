@@ -1,1 +1,1 @@
-var mnemonic = "aerobic shine across ski only fiscal large dash payment find copy sadness";
+var mnemonic = "defy meat deputy stuff tube order goddess grass link luggage coin identify";

@@ -1,1 +1,1 @@
-var mnemonic = "true success village right goddess obtain clarify traffic island arctic since regular";
+var mnemonic = "target library season click prize ticket estate seat latin foot enable army";

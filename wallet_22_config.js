@@ -1,1 +1,1 @@
-var mnemonic = "chimney fatigue nuclear stereo stem prosper detail tank taxi gas stand meat";
+var mnemonic = "brown soccer lesson prefer happy beyond repair print before absorb wear chuckle";

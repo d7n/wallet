@@ -1,1 +1,1 @@
-var mnemonic = "boat flip humor safe spoil merge purse shell meadow caught fetch you";
+var mnemonic = "lecture energy fruit finger problem rebuild method extra wall life album prosper";

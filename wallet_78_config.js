@@ -1,1 +1,1 @@
-var mnemonic = "glimpse devote fiction quantum say promote rally warm cream depart mask fall";
+var mnemonic = "mandate crush cost coffee detect core nasty meadow text spoon learn sick";

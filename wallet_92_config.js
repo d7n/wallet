@@ -1,1 +1,1 @@
-var mnemonic = "grid horse verb meadow potato trash wise time snap faint clown cherry";
+var mnemonic = "health runway peasant announce filter shield athlete shell eyebrow maximum cry moon";

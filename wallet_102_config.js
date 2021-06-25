@@ -1,1 +1,1 @@
-var mnemonic = "mail where detect pass suffer lottery famous violin seat upper limb used";
+var mnemonic = "exit crop spot gasp concert furnace key add collect measure switch smooth";

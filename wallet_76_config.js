@@ -1,1 +1,1 @@
-var mnemonic = "fury chalk issue floor urge oven bracket fix catalog call anchor service";
+var mnemonic = "tourist clip object pepper trick either secret noble valley demise eternal innocent";

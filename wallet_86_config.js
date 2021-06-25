@@ -1,1 +1,1 @@
-var mnemonic = "hamster civil face silk trap grit allow west flight work banner mad";
+var mnemonic = "record junk robot recipe soul mimic result maple borrow bottom jealous trash";

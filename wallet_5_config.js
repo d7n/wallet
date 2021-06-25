@@ -1,1 +1,1 @@
-var mnemonic = "turn tourist strategy pretty fiscal main noise you actor utility income unlock";
+var mnemonic = "donkey fix boat repair uncle behave machine popular boss word wrong beach";

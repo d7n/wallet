@@ -1,1 +1,1 @@
-var mnemonic = "fee broom edge safe uniform spy crane runway immense demise deny force";
+var mnemonic = "report embark large useless bid crunch myth wild already similar vintage giggle";

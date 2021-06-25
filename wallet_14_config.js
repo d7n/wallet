@@ -1,1 +1,1 @@
-var mnemonic = "surge walk snow explain capable chef capable hover symptom pitch enlist ladder";
+var mnemonic = "piano include decrease initial aisle mimic taste library huge hotel fiscal balcony";

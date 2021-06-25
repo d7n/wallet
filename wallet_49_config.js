@@ -1,1 +1,1 @@
-var mnemonic = "canoe observe crash into surround cereal rhythm else layer shield drum industry";
+var mnemonic = "upon path pretty soda scout control domain rail magnet mail warfare element";

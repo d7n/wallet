@@ -1,1 +1,1 @@
-var mnemonic = "crush memory power demise sound often surprise accuse material tone gold loan";
+var mnemonic = "analyst cat what half warm blanket draft bubble rely blouse vanish attract";

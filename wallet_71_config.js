@@ -1,1 +1,1 @@
-var mnemonic = "swing virus margin sentence stumble order inherit mimic occur kick still fresh";
+var mnemonic = "effort sea angle execute punch glue annual final rack juice clock mail";

@@ -1,1 +1,1 @@
-var mnemonic = "swim use pact exercise yard pony era feature illness neglect replace best";
+var mnemonic = "glove business raw derive glimpse reason bracket stage asset fame off boat";

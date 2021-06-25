@@ -1,1 +1,1 @@
-var mnemonic = "used security dragon direct badge guitar sun today sugar quiz child world";
+var mnemonic = "degree click spatial report annual meat chef enhance romance meat spring drift";

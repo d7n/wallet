@@ -1,1 +1,1 @@
-var mnemonic = "position vapor key team position ski trade surface matrix either debris suffer";
+var mnemonic = "figure slide legend impulse raise play cool today breeze report speak galaxy";

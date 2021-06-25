@@ -1,1 +1,1 @@
-var mnemonic = "uphold depend margin razor face treat skirt carry empower effort wait twenty";
+var mnemonic = "when stem space settle attend melt tobacco project museum brave fall worry";

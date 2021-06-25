@@ -1,1 +1,1 @@
-var mnemonic = "audit foam case apart food uphold they acid lady monkey grain ice";
+var mnemonic = "medal people expand team stool pipe unfair spawn tribe idea erosion deputy";

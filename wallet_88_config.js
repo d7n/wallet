@@ -1,1 +1,1 @@
-var mnemonic = "loud misery capable pill taste judge nice scene sail stairs insect fury";
+var mnemonic = "liberty merry web quick man unveil sphere future differ true tongue syrup";

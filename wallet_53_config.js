@@ -1,1 +1,1 @@
-var mnemonic = "shoot unknown first raise hedgehog pyramid vehicle rocket thought flee amateur pen";
+var mnemonic = "loud snap combine steak margin above stool arrive belt cereal trap brief";

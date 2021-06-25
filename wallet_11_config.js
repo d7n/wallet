@@ -1,1 +1,1 @@
-var mnemonic = "scene bus bean orphan educate claim observe define cook poem move vacant";
+var mnemonic = "layer original grunt corn mention life pluck poem method series mesh soup";

@@ -1,1 +1,1 @@
-var mnemonic = "impact used retreat dinosaur canvas limit visa recycle smart that produce arm";
+var mnemonic = "clay measure torch series fantasy flavor airport exist vital belt celery shift";

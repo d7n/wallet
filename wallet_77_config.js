@@ -1,1 +1,1 @@
-var mnemonic = "shoe evoke vacuum umbrella six scorpion critic convince assist define cruel key";
+var mnemonic = "lemon grief enlist law elegant spike setup flame miracle cigar master plastic";

@@ -1,1 +1,1 @@
-var mnemonic = "cruise awkward ritual rigid excite world result bottom design whip hurry spoil";
+var mnemonic = "base album discover embody exclude wire mosquito alert neglect gold envelope chuckle";

@@ -1,1 +1,1 @@
-var mnemonic = "spin pumpkin nut into blush raccoon what idea hammer cross ugly brief";
+var mnemonic = "agent verb sustain force agent edge foil rotate treat gossip brisk try";

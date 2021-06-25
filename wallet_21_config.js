@@ -1,1 +1,1 @@
-var mnemonic = "silver outer copper mixture coil all brain quiz track sport happy corn";
+var mnemonic = "torch potato panda wool memory maple grass dial math ugly merry promote";

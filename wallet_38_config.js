@@ -1,1 +1,1 @@
-var mnemonic = "orange write sun core mosquito buddy win arctic tonight frog oxygen camera";
+var mnemonic = "slam stairs come people rug attract confirm wing stadium lake disagree spider";

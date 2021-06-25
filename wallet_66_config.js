@@ -1,1 +1,1 @@
-var mnemonic = "opinion hidden mix corn cotton smooth island age goose unfold road example";
+var mnemonic = "pluck west hedgehog travel tank venue future journey remain duty amazing void";

@@ -1,1 +1,1 @@
-var mnemonic = "purity quick resemble tornado isolate syrup elevator minor song social coyote salute";
+var mnemonic = "wall firm market betray reopen level security list excuse hold bracket sock";

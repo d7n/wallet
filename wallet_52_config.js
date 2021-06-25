@@ -1,1 +1,1 @@
-var mnemonic = "bar prize approve open tool legal nature next bridge reject uncover fence";
+var mnemonic = "convince token innocent beach clog bunker window happy seminar denial young track";

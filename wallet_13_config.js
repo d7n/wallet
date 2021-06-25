@@ -1,1 +1,1 @@
-var mnemonic = "loud meat annual lab blind dance artwork student demise erupt blame slam";
+var mnemonic = "stomach city input rich fluid next jacket noodle faith arrest write bracket";

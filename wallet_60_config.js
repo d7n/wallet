@@ -1,1 +1,1 @@
-var mnemonic = "inherit relax basket close burger during swim lazy roof cycle lake wonder";
+var mnemonic = "faculty load puzzle six jar section cage exile galaxy winner genuine crunch";

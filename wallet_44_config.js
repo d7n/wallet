@@ -1,1 +1,1 @@
-var mnemonic = "swim boring yard asthma tenant replace bamboo maid laugh chunk wrong person";
+var mnemonic = "hockey repeat legal gain transfer absurd innocent scene march anchor unit lesson";

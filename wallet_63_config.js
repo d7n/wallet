@@ -1,1 +1,1 @@
-var mnemonic = "one ability second license nothing bind lawn pottery planet limit kid miss";
+var mnemonic = "canvas welcome crouch dice try dizzy equal hurt smile pretty alcohol polar";

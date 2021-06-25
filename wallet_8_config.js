@@ -1,1 +1,1 @@
-var mnemonic = "offer endorse extend total attack tennis luxury super turtle claim tumble depart";
+var mnemonic = "brown coffee hurt nest tissue display better donate educate vessel toilet elbow";
