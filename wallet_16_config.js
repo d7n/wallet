@@ -1,1 +1,1 @@
-var mnemonic = "coil taste entire cliff fever physical swarm agree regular enhance cradle unusual";
+var mnemonic = "august grid blood cube jelly opera west sibling very antique woman width";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost world hunt radar document bridge average era peace damp above relief";
+var mnemonic = "goddess moon tattoo walk demise memory symbol push absent whale any aunt";

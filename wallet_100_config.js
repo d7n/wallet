@@ -1,1 +1,1 @@
-var mnemonic = "shop grape squeeze matter mango round resource outer glide diet sausage flash";
+var mnemonic = "squeeze tilt obey manage rate science save stuff solar like burger yellow";

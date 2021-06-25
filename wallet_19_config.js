@@ -1,1 +1,1 @@
-var mnemonic = "verb soccer net nose guilt lion pyramid rely dentist dwarf between traffic";
+var mnemonic = "venue afford rookie vendor wall leg confirm bone rural always giraffe easy";

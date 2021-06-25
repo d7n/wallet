@@ -1,1 +1,1 @@
-var mnemonic = "manual type cage lamp avoid nephew pledge wash cross typical dust ribbon";
+var mnemonic = "cool lunar wonder rebuild knock empty color such remain business beach police";

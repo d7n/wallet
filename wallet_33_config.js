@@ -1,1 +1,1 @@
-var mnemonic = "clip green employ august much select path bike rich fluid coconut cable";
+var mnemonic = "eagle loan pottery display expect detail guitar screen tip water game patrol";

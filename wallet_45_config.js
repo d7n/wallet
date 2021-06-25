@@ -1,1 +1,1 @@
-var mnemonic = "library swear skate riot slogan casual lunar nasty rate cash blouse identify";
+var mnemonic = "vendor panther train various slogan timber fee turtle boat brush casino august";

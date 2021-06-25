@@ -1,1 +1,1 @@
-var mnemonic = "elevator aisle chronic elite loud purpose dog observe airport segment jar enable";
+var mnemonic = "hen jump ill social usage elder genre later throw sock antenna omit";

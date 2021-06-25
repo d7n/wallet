@@ -1,1 +1,1 @@
-var mnemonic = "arena romance food pig ready rural soap plastic olympic detail priority cannon";
+var mnemonic = "reopen protect chair page media high person shoulder answer merry husband struggle";

@@ -1,1 +1,1 @@
-var mnemonic = "this mad industry base wide soul bring afford genuine time dial economy";
+var mnemonic = "reject reward flush pride grab bicycle bubble crucial hazard tip gun frown";

@@ -1,1 +1,1 @@
-var mnemonic = "east cactus rally crime human lab trim swear dilemma thunder snow hard";
+var mnemonic = "kit shed reopen pen width lunch wrist panther canvas diagram physical about";

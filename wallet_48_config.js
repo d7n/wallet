@@ -1,1 +1,1 @@
-var mnemonic = "arrange brown shoot near easy what adult pill romance foil outdoor glance";
+var mnemonic = "firm nature sorry affair salute auction model lesson target beef govern stock";

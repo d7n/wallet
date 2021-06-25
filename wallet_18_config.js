@@ -1,1 +1,1 @@
-var mnemonic = "scatter afraid sad civil ocean sponsor left remain fetch cricket grain voice";
+var mnemonic = "popular purchase ski brown bus undo false banner curve poem trigger manage";

@@ -1,1 +1,1 @@
-var mnemonic = "rapid gift object immense repeat rice again talk tornado spare mutual car";
+var mnemonic = "satoshi pipe tattoo bring comfort tenant mammal pattern way urge audit brother";

@@ -1,1 +1,1 @@
-var mnemonic = "brisk appear hand sock gold motor true track enjoy future uncle coyote";
+var mnemonic = "vicious dose faculty trial inhale review property prosper turkey inch alien gauge";

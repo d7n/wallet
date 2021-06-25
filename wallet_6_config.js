@@ -1,1 +1,1 @@
-var mnemonic = "visa way asthma mansion salmon nominee hood asset remind useful trumpet tiger";
+var mnemonic = "bracket capital picnic diesel april ring because kitchen fade jacket wait faint";

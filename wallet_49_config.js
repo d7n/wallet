@@ -1,1 +1,1 @@
-var mnemonic = "arm perfect purchase girl announce entry this alert column mesh eternal barely";
+var mnemonic = "slot slice tool predict type record reveal shrimp bind august pond either";

@@ -1,1 +1,1 @@
-var mnemonic = "large vocal observe cruel oven short wood donkey wage burst evoke horse";
+var mnemonic = "song curve shoe safe inform spin special transfer life finger afraid stomach";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi one unveil rude saddle like glove occur few runway holiday apple";
+var mnemonic = "fatigue copper indicate rib rude impact inspire tank bar field rabbit resemble";

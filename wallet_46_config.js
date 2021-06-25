@@ -1,1 +1,1 @@
-var mnemonic = "hat pink project bar name split either alley salute puzzle oven organ";
+var mnemonic = "please basket furnace around infant senior betray tone crop side file penalty";

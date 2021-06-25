@@ -1,1 +1,1 @@
-var mnemonic = "victory cruise still oven bamboo tag ring mule crater first pelican reveal";
+var mnemonic = "predict shuffle bulk sun patch eight pulse winner pass dry sample strong";

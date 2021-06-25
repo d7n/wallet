@@ -1,1 +1,1 @@
-var mnemonic = "where robot ability hole muffin direct own current people control glove case";
+var mnemonic = "sample rifle emerge stuff clever certain option electric dinner chest keep book";

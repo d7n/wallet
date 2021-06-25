@@ -1,1 +1,1 @@
-var mnemonic = "village parent small assist winner capable dove rubber seat cute gesture journey";
+var mnemonic = "clay client include return expose slogan disease cover marble depth invest shrimp";

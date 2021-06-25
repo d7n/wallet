@@ -1,1 +1,1 @@
-var mnemonic = "devote vocal story trade crash gaze banana camera more expire smart slam";
+var mnemonic = "junior cost model feature reduce knife actress alien inner bean surround country";

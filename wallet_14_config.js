@@ -1,1 +1,1 @@
-var mnemonic = "live force open vote link author harsh private vehicle motion team midnight";
+var mnemonic = "grief twin normal nature height helmet file dust year much seat fruit";

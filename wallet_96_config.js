@@ -1,1 +1,1 @@
-var mnemonic = "aisle post muscle alter connect weekend confirm brave attitude guide exact edge";
+var mnemonic = "behave solution school trick toy change museum stool path review uphold any";

@@ -1,1 +1,1 @@
-var mnemonic = "brief interest mention loop prosper obscure alter add embody favorite music forward";
+var mnemonic = "divorce ten absorb steel glow civil wish shell can merit rib sound";

@@ -1,1 +1,1 @@
-var mnemonic = "earn slim inmate hockey shrimp taxi illegal cactus globe scissors ensure inmate";
+var mnemonic = "tongue impose metal cream kangaroo target step accuse doctor isolate nasty mind";

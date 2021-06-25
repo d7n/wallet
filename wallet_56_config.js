@@ -1,1 +1,1 @@
-var mnemonic = "bargain clap jelly middle slim orphan speed rack area warrior foam admit";
+var mnemonic = "lawsuit property jeans brief latin real left prison example text charge segment";

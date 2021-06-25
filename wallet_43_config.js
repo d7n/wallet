@@ -1,1 +1,1 @@
-var mnemonic = "chest stage split around range company cargo affair oppose melody aisle right";
+var mnemonic = "size expand energy suffer essay rely rebuild walk dice lucky sense neck";

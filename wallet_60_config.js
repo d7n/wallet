@@ -1,1 +1,1 @@
-var mnemonic = "segment lonely shed expose crawl alien price patch risk private capital fox";
+var mnemonic = "switch stock identify pen country street recycle note artist consider deliver square";

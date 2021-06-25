@@ -1,1 +1,1 @@
-var mnemonic = "black fiber remember diary banana citizen valid review affair hover identify ordinary";
+var mnemonic = "diamond cloth pyramid sort attract such animal achieve merge actor match next";

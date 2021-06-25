@@ -1,1 +1,1 @@
-var mnemonic = "grass power okay control glimpse embrace wagon myth mandate better mystery material";
+var mnemonic = "ethics example foam cherry duty loop before puppy grass system barely voice";

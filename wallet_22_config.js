@@ -1,1 +1,1 @@
-var mnemonic = "diet brave brush mandate panic when staff parent prefer rice solar average";
+var mnemonic = "universe clip slice orchard actress head abandon exit inherit element science grape";

@@ -1,1 +1,1 @@
-var mnemonic = "mammal mango question build mushroom whisper flip keep close jelly label vessel";
+var mnemonic = "voyage multiply current immune arctic cannon pole blade diet cloth cliff correct";

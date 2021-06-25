@@ -1,1 +1,1 @@
-var mnemonic = "over floor air tongue wealth lazy scrap giant walk animal example aunt";
+var mnemonic = "choose festival vicious detail remind wrong clock word crater panda ivory eager";

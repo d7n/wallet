@@ -1,1 +1,1 @@
-var mnemonic = "tired gossip pact razor fortune muffin floor pistol rural nerve visit review";
+var mnemonic = "clog range country property stomach desert rotate sweet grocery history coast lamp";

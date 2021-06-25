@@ -1,1 +1,1 @@
-var mnemonic = "public permit upper crystal gift usage load lounge couple bridge expand slogan";
+var mnemonic = "lion dismiss toe armor slam come ketchup radio keep either village north";

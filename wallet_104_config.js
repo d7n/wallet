@@ -1,1 +1,1 @@
-var mnemonic = "reject spatial base refuse electric render dizzy brief canyon palm way social";
+var mnemonic = "walk nation cricket staff control genuine captain wear quiz exercise flush bus";

@@ -1,1 +1,1 @@
-var mnemonic = "sister patient rescue shop woman enable youth fish believe sock awesome tent";
+var mnemonic = "flavor snap erase differ bargain old cousin library police faint inject amused";

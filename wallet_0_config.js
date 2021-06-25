@@ -1,1 +1,1 @@
-var mnemonic = "merry trumpet hospital camp sustain mother immune toss diamond clerk huge obvious";
+var mnemonic = "process arrange tackle announce useful where early motion danger erode receive between";

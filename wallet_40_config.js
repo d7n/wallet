@@ -1,1 +1,1 @@
-var mnemonic = "sadness miracle govern sketch mixed extend result gown pulp fatigue provide sphere";
+var mnemonic = "hold insane sick apple describe crack mass assume buyer charge burden beach";

@@ -1,1 +1,1 @@
-var mnemonic = "ice avoid nuclear point february state artefact cherry help loud iron still";
+var mnemonic = "magic elite method nothing idle rocket region thumb cool rail voyage service";

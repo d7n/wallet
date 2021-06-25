@@ -1,1 +1,1 @@
-var mnemonic = "give knife text cook tragic valve lend tomato nasty midnight pipe someone";
+var mnemonic = "bronze artwork pulp amateur river profit rare mixed wrap stay find horror";

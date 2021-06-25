@@ -1,1 +1,1 @@
-var mnemonic = "maple rice clay offer midnight notable ripple arrest boy cushion winter initial";
+var mnemonic = "cluster alone panda achieve there tonight clinic burden artefact brave source senior";

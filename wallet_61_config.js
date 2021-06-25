@@ -1,1 +1,1 @@
-var mnemonic = "cigar fashion jealous improve bundle banana toddler silent bundle exchange stairs update";
+var mnemonic = "path wise zoo story potato artist have lawsuit coast cigar million empower";

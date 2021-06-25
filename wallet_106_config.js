@@ -1,1 +1,1 @@
-var mnemonic = "rely quit junior zoo never blame flat nose clarify cotton fault valley";
+var mnemonic = "metal caught slush prosper answer grid kingdom reject cancel book grocery bubble";

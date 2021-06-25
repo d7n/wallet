@@ -1,1 +1,1 @@
-var mnemonic = "inflict coin duty violin omit tooth device better aerobic drill pill lake";
+var mnemonic = "grain noodle town beauty dinosaur clown deny rice paddle lyrics guess hospital";

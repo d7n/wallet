@@ -1,1 +1,1 @@
-var mnemonic = "grit improve consider chunk gauge decline two beach blur label reject ketchup";
+var mnemonic = "valve mesh ancient deny cargo uncle effort obtain similar fence ivory book";

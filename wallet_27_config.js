@@ -1,1 +1,1 @@
-var mnemonic = "ritual fiber become crunch grace hamster loop rocket february glad another safe";
+var mnemonic = "taste donate velvet like spawn pelican outside cereal wide odor online reason";

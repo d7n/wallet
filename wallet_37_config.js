@@ -1,1 +1,1 @@
-var mnemonic = "marriage legal promote month drop fun local three load congress unveil twelve";
+var mnemonic = "harbor horn type couch benefit token vanish wreck credit luxury hip silent";

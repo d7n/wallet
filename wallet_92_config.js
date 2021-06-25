@@ -1,1 +1,1 @@
-var mnemonic = "any under depend mother mother sleep industry clap belt train ordinary feed";
+var mnemonic = "rabbit repeat odor hungry rude boost erosion steak embody panic lake essay";

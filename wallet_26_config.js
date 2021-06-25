@@ -1,1 +1,1 @@
-var mnemonic = "gossip suggest smart spatial kite energy assume legal pioneer federal ten humor";
+var mnemonic = "dream price sponsor simple crack rack myself deny grain wine wealth purity";

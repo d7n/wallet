@@ -1,1 +1,1 @@
-var mnemonic = "neglect warrior current amused couch giraffe punch web trash pact base okay";
+var mnemonic = "tragic illness dash bright degree awkward over gospel all orphan orchard gas";

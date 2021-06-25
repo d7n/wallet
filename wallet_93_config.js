@@ -1,1 +1,1 @@
-var mnemonic = "sudden swallow wrap swim rather royal solution initial unable before broom youth";
+var mnemonic = "remind aunt aim only turtle adjust cram text resist urban mobile unhappy";

@@ -1,1 +1,1 @@
-var mnemonic = "mixture fire city industry welcome few where upset trigger deny pair struggle";
+var mnemonic = "humble crane fog artefact parent spoon average bubble unit puppy mandate appear";

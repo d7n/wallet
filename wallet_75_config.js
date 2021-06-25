@@ -1,1 +1,1 @@
-var mnemonic = "crop effort artefact nature crack below protect curve enable top reward slender";
+var mnemonic = "type hedgehog case awesome inside abandon mix network judge stumble labor crush";

@@ -1,1 +1,1 @@
-var mnemonic = "today coast index board uphold country asset century source pattern man autumn";
+var mnemonic = "attack little cannon clown melt six brain bitter husband switch push awesome";

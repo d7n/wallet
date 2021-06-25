@@ -1,1 +1,1 @@
-var mnemonic = "panel logic street slow kick panda eternal book slot night lava ten";
+var mnemonic = "sugar bench help captain unfold receive skirt pupil stool fancy tobacco idle";

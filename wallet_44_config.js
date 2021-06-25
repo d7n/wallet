@@ -1,1 +1,1 @@
-var mnemonic = "toddler symbol love prefer regret sheriff quantum accuse indicate pave school ice";
+var mnemonic = "sausage replace visit liar setup rhythm extend have lab bike song hub";

@@ -1,1 +1,1 @@
-var mnemonic = "claw slide learn govern tattoo minute funny stomach mushroom gossip fox valley";
+var mnemonic = "orbit shallow during squirrel vanish kind tomato evoke wait fitness detect orient";

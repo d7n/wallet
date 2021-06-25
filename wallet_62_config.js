@@ -1,1 +1,1 @@
-var mnemonic = "long photo tobacco gather turkey stable buzz noble artefact reject culture legal";
+var mnemonic = "gym label merge trick angle mushroom peasant quote wear hill snap evidence";

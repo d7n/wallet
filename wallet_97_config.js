@@ -1,1 +1,1 @@
-var mnemonic = "panel certain pole theme fox stage task pigeon asthma unknown favorite parent";
+var mnemonic = "arrow gentle heart isolate cream work obvious private parrot trick high another";

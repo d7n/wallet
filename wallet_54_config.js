@@ -1,1 +1,1 @@
-var mnemonic = "used viable demise average ladder cabin pitch furnace stadium video mind mammal";
+var mnemonic = "donkey blanket alter bulk floor because wasp recall police limb audit gesture";

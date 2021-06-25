@@ -1,1 +1,1 @@
-var mnemonic = "trend sense dilemma museum hidden inspire mouse pencil garlic rebuild brother any";
+var mnemonic = "horse planet wheat camp mimic weapon air length topple office cereal worry";

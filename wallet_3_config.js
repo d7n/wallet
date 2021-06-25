@@ -1,1 +1,1 @@
-var mnemonic = "nerve earth fox hunt next dove minor grace replace rug nerve ability";
+var mnemonic = "actress short february unknown fade science have sentence pony suspect plate erase";

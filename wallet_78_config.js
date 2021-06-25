@@ -1,1 +1,1 @@
-var mnemonic = "proud glance deposit job major lonely acquire only rate alien junk soft";
+var mnemonic = "maple identify topple ritual act box virtual balcony tired virtual pause visit";

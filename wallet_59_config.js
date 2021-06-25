@@ -1,1 +1,1 @@
-var mnemonic = "river ripple fitness high emerge smoke amazing company select split notable play";
+var mnemonic = "day hip weekend better master snap eager doll alcohol orbit section blue";

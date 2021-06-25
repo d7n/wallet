@@ -1,1 +1,1 @@
-var mnemonic = "frozen lizard payment boring catch squirrel reject pupil swallow leopard obscure dog";
+var mnemonic = "evil soda speed slow slush sad tail steak sting fragile scout blouse";

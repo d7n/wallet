@@ -1,1 +1,1 @@
-var mnemonic = "unveil survey spatial grit pottery picture artist space bacon foot meadow govern";
+var mnemonic = "afraid never found left fuel luggage huge junk recipe romance kit hill";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna word flat odor island taste coin cradle jump cover dry vacant";
+var mnemonic = "insane evoke cat ivory draw banner ability model page illegal voice vapor";

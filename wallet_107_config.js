@@ -1,1 +1,1 @@
-var mnemonic = "license they civil rural gift fortune arm improve cram diary album vessel";
+var mnemonic = "barrel call deposit few hawk galaxy finish energy sing trend useless corn";

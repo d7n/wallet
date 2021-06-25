@@ -1,1 +1,1 @@
-var mnemonic = "boat topple garden phrase service law box fitness smart name bounce venture";
+var mnemonic = "eager anger very alley doctor resource find spoil melt kick ordinary crowd";

@@ -1,1 +1,1 @@
-var mnemonic = "shoe marble pass horse scare double diagram loop base public digital audit";
+var mnemonic = "name swing marine toddler elbow grain elegant old dutch future fossil copy";

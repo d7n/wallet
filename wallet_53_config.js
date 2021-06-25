@@ -1,1 +1,1 @@
-var mnemonic = "ski secret slam digital cash ring coffee repeat combine pledge result umbrella";
+var mnemonic = "thunder oxygen mention salmon demise tourist renew able diamond believe zebra race";

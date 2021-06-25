@@ -1,1 +1,1 @@
-var mnemonic = "alarm swing erupt close mushroom save fuel vehicle strike sniff include coin";
+var mnemonic = "excite parade infant hawk spoon lake merge despair napkin fine actor paddle";

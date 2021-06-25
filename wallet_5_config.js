@@ -1,1 +1,1 @@
-var mnemonic = "express genius basic illegal disagree lobster trouble promote grass atom lesson prefer";
+var mnemonic = "around rapid common song check surprise always desert witness maximum monster outside";

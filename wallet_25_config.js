@@ -1,1 +1,1 @@
-var mnemonic = "crew volume thunder jealous inherit violin strategy measure always very quiz promote";
+var mnemonic = "patient spy jungle expire coconut believe deputy popular inject flag dish fantasy";

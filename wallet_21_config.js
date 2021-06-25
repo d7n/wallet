@@ -1,1 +1,1 @@
-var mnemonic = "repeat apple thing purchase shove ritual imitate either green glow lounge travel";
+var mnemonic = "oval total dance floor click demise orchard pair spoon hub flip civil";

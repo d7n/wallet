@@ -1,1 +1,1 @@
-var mnemonic = "require tenant point ordinary face gauge defy traffic strategy actress alley actress";
+var mnemonic = "armor day bench aim ball rocket west citizen alarm shoe resource wood";

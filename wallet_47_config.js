@@ -1,1 +1,1 @@
-var mnemonic = "receive click private lend girl number strategy aim rebuild antique supply perfect";
+var mnemonic = "miracle fine luxury crack width main endorse ordinary need venture promote runway";

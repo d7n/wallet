@@ -1,1 +1,1 @@
-var mnemonic = "cabbage enlist member castle short letter system loyal shock alley exclude pair";
+var mnemonic = "health note mobile ship enlist route member spell people photo ostrich muffin";

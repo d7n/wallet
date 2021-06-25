@@ -1,1 +1,1 @@
-var mnemonic = "oyster term vote bless pool legend harsh mistake clump pink outdoor undo";
+var mnemonic = "steel category hold sphere age bomb hard like beef attend senior search";

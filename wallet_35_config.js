@@ -1,1 +1,1 @@
-var mnemonic = "oyster pig jelly head quiz better ramp canyon accident lucky flame gap";
+var mnemonic = "aunt stand believe until honey dice wine banana erosion plate biology erase";

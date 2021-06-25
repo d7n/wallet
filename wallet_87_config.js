@@ -1,1 +1,1 @@
-var mnemonic = "actual direct dawn body cricket nature strong ship return mandate vendor such";
+var mnemonic = "west salute bronze bunker humor diesel talk acquire chief all simple odor";

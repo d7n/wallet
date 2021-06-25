@@ -1,1 +1,1 @@
-var mnemonic = "general marble sudden comfort divorce much amount type brass brass pull twin";
+var mnemonic = "early cruise panic expose jealous taxi flower drum armor mutual journey absorb";

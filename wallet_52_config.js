@@ -1,1 +1,1 @@
-var mnemonic = "promote valley real cause scrap stand process stay secret absent easily language";
+var mnemonic = "list cancel laugh rabbit require special sand visa pumpkin enact million ghost";

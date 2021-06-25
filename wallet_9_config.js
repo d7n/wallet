@@ -1,1 +1,1 @@
-var mnemonic = "now since solve glimpse loyal brush differ noodle universe deer cluster tilt";
+var mnemonic = "fatal wagon laptop any yard act smile slab develop quit metal nothing";

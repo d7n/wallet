@@ -1,1 +1,1 @@
-var mnemonic = "what shop escape picnic kiss purchase hen lizard advance bone spray hero";
+var mnemonic = "blame female person mesh narrow power wear tooth fabric pelican dish verb";

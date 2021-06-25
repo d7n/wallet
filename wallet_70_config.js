@@ -1,1 +1,1 @@
-var mnemonic = "reform timber rubber draw mango doll siren picnic crumble spend kid adapt";
+var mnemonic = "rotate wall express smile save benefit attract east child evolve pumpkin ship";

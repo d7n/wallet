@@ -1,1 +1,1 @@
-var mnemonic = "type depart float skin beyond fresh learn bicycle cave tumble earn grief";
+var mnemonic = "heart enrich vacant satisfy uphold wrist brain check say search tilt achieve";
