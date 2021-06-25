@@ -1,1 +1,1 @@
-var mnemonic = "response desert surround vault lamp rain column knee outer project skill climb";
+var mnemonic = "canal puzzle spatial scene blue solid harvest lounge oval fortune ginger trend";

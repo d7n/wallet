@@ -1,1 +1,1 @@
-var mnemonic = "embark curious knife trend race axis drink web load when another ugly";
+var mnemonic = "hill false panic wide ordinary suspect expire detail view purse spend grape";

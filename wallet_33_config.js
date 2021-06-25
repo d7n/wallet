@@ -1,1 +1,1 @@
-var mnemonic = "pupil accident neck south inject ahead satisfy clarify upset invite cost dust";
+var mnemonic = "oil trumpet seed together girl trial unhappy dignity raven wing art violin";

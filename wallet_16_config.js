@@ -1,1 +1,1 @@
-var mnemonic = "bulb casual comfort steel noodle dad upgrade hollow target giant agent pretty";
+var mnemonic = "gather fancy legend already draft dawn meat final honey rural board rebel";

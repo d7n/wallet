@@ -1,1 +1,1 @@
-var mnemonic = "slender pond stereo attitude remind refuse pepper wish tennis strong defense peace";
+var mnemonic = "provide limit few drill cat couch number cover swap garage script depart";

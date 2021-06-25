@@ -1,1 +1,1 @@
-var mnemonic = "slogan bulb pink either flip anxiety spider little when split virus process";
+var mnemonic = "giggle subject recall frown balcony travel insect person abandon brisk milk crash";

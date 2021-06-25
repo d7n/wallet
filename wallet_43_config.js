@@ -1,1 +1,1 @@
-var mnemonic = "banana feature shock ceiling pact harvest ask reflect private nature surround also";
+var mnemonic = "fork trade flame crumble huge exile office rice vague caught reflect sibling";

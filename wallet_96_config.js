@@ -1,1 +1,1 @@
-var mnemonic = "clay enroll rotate jungle lemon false olive catch surge park modify wait";
+var mnemonic = "flavor bar sugar nose giraffe people beef sentence mushroom action plate soap";

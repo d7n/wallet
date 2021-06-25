@@ -1,1 +1,1 @@
-var mnemonic = "kitchen era camera bounce social long utility renew canoe guitar bench someone";
+var mnemonic = "donkey illegal acid harsh buddy baby flee speak alley effort hybrid shield";

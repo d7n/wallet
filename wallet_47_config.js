@@ -1,1 +1,1 @@
-var mnemonic = "slab another term blast april trophy ecology scare dilemma raccoon junk basket";
+var mnemonic = "present turn wheel frame voice inflict unknown country muscle black elevator job";

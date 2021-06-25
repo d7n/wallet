@@ -1,1 +1,1 @@
-var mnemonic = "city bottom cheap run industry vanish clump jungle dress arrow mind actor";
+var mnemonic = "ridge tower space lock put bulk sphere travel kingdom goddess typical scissors";

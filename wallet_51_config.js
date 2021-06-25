@@ -1,1 +1,1 @@
-var mnemonic = "elder know sea pact message connect embark bottom come squirrel turtle wine";
+var mnemonic = "elephant faith humble decrease cruise foam render marriage cart muscle turn license";

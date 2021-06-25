@@ -1,1 +1,1 @@
-var mnemonic = "move goose lesson collect frozen risk waste horror possible pulse dutch already";
+var mnemonic = "obscure pride genuine sword pelican hour gaze heavy shoe improve trap find";

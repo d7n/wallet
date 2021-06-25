@@ -1,1 +1,1 @@
-var mnemonic = "hybrid uncle spot dutch scare swim ignore art antenna engine range deer";
+var mnemonic = "pistol sunset radar gorilla flush possible warrior tomorrow town achieve speak gadget";

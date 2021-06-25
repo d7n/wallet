@@ -1,1 +1,1 @@
-var mnemonic = "advice yellow cross method member stamp device moral divert good dog genuine";
+var mnemonic = "suspect leisure shoulder wear engage lend elevator ring region yard permit artist";

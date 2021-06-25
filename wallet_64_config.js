@@ -1,1 +1,1 @@
-var mnemonic = "apple bone song way attitude pave light eager enrich subject blue attack";
+var mnemonic = "lake cluster egg wear slam length glimpse embody short lemon there jealous";

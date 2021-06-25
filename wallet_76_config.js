@@ -1,1 +1,1 @@
-var mnemonic = "license ridge check version chase basket clarify jelly foot secret effort now";
+var mnemonic = "mule mechanic tomato sing matrix debate winner genuine rebuild beauty tone desk";

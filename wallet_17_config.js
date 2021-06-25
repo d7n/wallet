@@ -1,1 +1,1 @@
-var mnemonic = "access siege execute soul code slim shove marriage math gun because mail";
+var mnemonic = "torch minor craft write drip draft ahead inner coconut wheat vehicle elite";

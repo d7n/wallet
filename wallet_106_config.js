@@ -1,1 +1,1 @@
-var mnemonic = "later know birth cruise ensure drip cabin silent corn grocery square parent";
+var mnemonic = "present jeans primary element pond change comic stove dismiss can remain version";

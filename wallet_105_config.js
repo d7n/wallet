@@ -1,1 +1,1 @@
-var mnemonic = "grace panic refuse brave wait sure club energy coast panic pupil powder";
+var mnemonic = "nasty supply decide valid intact turn release excuse stage sister praise hero";

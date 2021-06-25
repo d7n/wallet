@@ -1,1 +1,1 @@
-var mnemonic = "fuel museum ozone north man island detect they mix opinion genre duty";
+var mnemonic = "glimpse alone merry noble impulse guard best fame finish skirt save behave";

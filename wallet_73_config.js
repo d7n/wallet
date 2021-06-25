@@ -1,1 +1,1 @@
-var mnemonic = "genius rival diesel heart river pupil chase marble cycle upset lumber require";
+var mnemonic = "nerve dismiss front pen dry famous lizard power person lawn small human";

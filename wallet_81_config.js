@@ -1,1 +1,1 @@
-var mnemonic = "among warrior fatal caution spread cushion mutual actress east day club high";
+var mnemonic = "scene shrimp purse tunnel thrive venture void virus earth priority situate aerobic";

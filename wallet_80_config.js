@@ -1,1 +1,1 @@
-var mnemonic = "common timber toward virus trigger truly kitten keep rhythm stumble chimney road";
+var mnemonic = "alpha goat industry kiss cage fancy awful deputy devote vanish awake consider";

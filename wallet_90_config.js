@@ -1,1 +1,1 @@
-var mnemonic = "once wasp stereo hurdle extend aerobic ozone vicious snake ozone twenty debris";
+var mnemonic = "three already injury gate skull essay snack engage protect palace hope dog";

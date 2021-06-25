@@ -1,1 +1,1 @@
-var mnemonic = "sword riot add salmon panther gospel dizzy across elbow aisle garden answer";
+var mnemonic = "harsh rough burden blood movie token easy burger that grant worry liberty";

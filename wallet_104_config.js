@@ -1,1 +1,1 @@
-var mnemonic = "utility company force scatter trap inform lend pudding physical green sheriff siren";
+var mnemonic = "adapt evoke fog absorb panel harsh category abuse become abuse sunny own";

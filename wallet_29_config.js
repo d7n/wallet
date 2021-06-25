@@ -1,1 +1,1 @@
-var mnemonic = "elephant shoot ecology shield brown display chest bread funny film spoon spell";
+var mnemonic = "lottery oxygen north van tape awesome guilt mean slim height large address";

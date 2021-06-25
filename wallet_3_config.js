@@ -1,1 +1,1 @@
-var mnemonic = "grape worth fabric blue crowd atom feature next mosquito hobby wet quantum";
+var mnemonic = "walk improve chalk fragile hover mandate stool portion earn bone brain damage";

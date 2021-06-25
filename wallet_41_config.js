@@ -1,1 +1,1 @@
-var mnemonic = "frost enemy tide stomach drill theme visual ethics ecology ankle tortoise smart";
+var mnemonic = "pause kid enrich text brisk bullet lunar gentle reject enjoy wage lizard";

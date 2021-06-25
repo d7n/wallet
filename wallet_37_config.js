@@ -1,1 +1,1 @@
-var mnemonic = "dismiss gadget alarm liquid student color boss cream useless forum tone ankle";
+var mnemonic = "tray submit garage repair coffee maid crack engine kidney snow trick truth";

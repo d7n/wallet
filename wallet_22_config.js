@@ -1,1 +1,1 @@
-var mnemonic = "burden thumb web dose crisp note catalog first thank market dawn coconut";
+var mnemonic = "satoshi wash shoe bench talent polar laptop avoid entry balance chimney state";

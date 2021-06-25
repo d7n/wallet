@@ -1,1 +1,1 @@
-var mnemonic = "gas vote absent item coin dune glow swallow visual element main couch";
+var mnemonic = "exist eight attack parrot tail rubber only alien brand ripple lion faith";

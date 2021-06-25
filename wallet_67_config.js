@@ -1,1 +1,1 @@
-var mnemonic = "eternal virtual evil letter stove tube lend volume salad solid honey shiver";
+var mnemonic = "cable quit rescue bleak hurry milk else wood movie forget advance off";

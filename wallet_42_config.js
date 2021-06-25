@@ -1,1 +1,1 @@
-var mnemonic = "topple dolphin pull spread arm million bone tuna decline stable need quiz";
+var mnemonic = "memory adapt drive sort beach basket amazing mixed reveal special skull swamp";

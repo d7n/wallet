@@ -1,1 +1,1 @@
-var mnemonic = "surprise bus surface boring slim will between regular fix desert sure ginger";
+var mnemonic = "loud gown enjoy cable diamond refuse health picnic token have slow lecture";

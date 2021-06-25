@@ -1,1 +1,1 @@
-var mnemonic = "inmate card learn inquiry lake mobile skull aspect acquire soccer holiday universe";
+var mnemonic = "zone oven dismiss fluid trouble mandate green wrist wood reject obscure swing";

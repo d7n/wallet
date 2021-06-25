@@ -1,1 +1,1 @@
-var mnemonic = "tongue tray finish engage someone alcohol mom alone lock secret horror online";
+var mnemonic = "inflict rhythm crowd village bronze aim close swamp film rhythm grief embark";

@@ -1,1 +1,1 @@
-var mnemonic = "diary near bus process neck matter belt actress famous rural pony palace";
+var mnemonic = "sword city unlock alone outer vendor modify color lift toward help tuna";

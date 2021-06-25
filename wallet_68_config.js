@@ -1,1 +1,1 @@
-var mnemonic = "inquiry confirm shop bid skate gorilla river dirt sibling enjoy left object";
+var mnemonic = "caution peanut submit injury observe scare noise target escape clerk clay city";

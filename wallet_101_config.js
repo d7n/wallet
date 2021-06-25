@@ -1,1 +1,1 @@
-var mnemonic = "pet raw fish aunt large dirt feature doll swift attract donate glimpse";
+var mnemonic = "effort rocket sea wash must prefer firm nuclear fame write normal notice";

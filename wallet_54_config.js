@@ -1,1 +1,1 @@
-var mnemonic = "render upgrade awkward reopen artefact absent vintage float bench album lens leader";
+var mnemonic = "mosquito mushroom inmate basic early spot fiber okay pink fox orange bright";

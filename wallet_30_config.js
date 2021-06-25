@@ -1,1 +1,1 @@
-var mnemonic = "animal ice oil unlock awake pool december task oak various divorce erupt";
+var mnemonic = "genre family castle citizen lounge gentle chat false erode lawsuit winter purity";

@@ -1,1 +1,1 @@
-var mnemonic = "like version helmet salon immune like confirm actual potato orient bid bounce";
+var mnemonic = "involve fame enjoy little piano wide zone celery grocery fruit danger oval";

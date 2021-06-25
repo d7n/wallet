@@ -1,1 +1,1 @@
-var mnemonic = "rough lift mail erupt paddle clarify bounce plunge prison between post property";
+var mnemonic = "science citizen stamp picture coin drop also measure ivory ability basic hedgehog";

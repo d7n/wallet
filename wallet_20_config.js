@@ -1,1 +1,1 @@
-var mnemonic = "blur give quantum cruise sure interest inmate cat picnic holiday visa material";
+var mnemonic = "help clerk push ahead resemble north coral find worth that wash wave";

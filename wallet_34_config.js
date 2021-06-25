@@ -1,1 +1,1 @@
-var mnemonic = "pupil flame client quality family acoustic math smile hobby save alarm evoke";
+var mnemonic = "rubber nephew dream extra fatigue predict rough tent arm aerobic large toast";

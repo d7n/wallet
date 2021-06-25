@@ -1,1 +1,1 @@
-var mnemonic = "error perfect horn jelly social knock thought swim table convince term satoshi";
+var mnemonic = "mansion armed blush wave plunge mad maze cross together air jump review";

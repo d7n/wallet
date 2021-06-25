@@ -1,1 +1,1 @@
-var mnemonic = "trigger phone animal rural giggle survey tomorrow believe fringe evidence reward quantum";
+var mnemonic = "silver crunch awful hand screen normal rabbit peanut such daughter earth emerge";

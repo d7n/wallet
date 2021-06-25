@@ -1,1 +1,1 @@
-var mnemonic = "rabbit trick price exit have upset kitten sibling utility canyon pole evidence";
+var mnemonic = "summer peasant reveal off dizzy crumble include pyramid renew mimic family glove";

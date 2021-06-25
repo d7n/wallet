@@ -1,1 +1,1 @@
-var mnemonic = "fancy equal slogan bird smoke garbage salon usage dog album blind flush";
+var mnemonic = "soft cute blouse rate nasty torch soccer sheriff ripple usual bench sting";

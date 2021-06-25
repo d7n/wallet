@@ -1,1 +1,1 @@
-var mnemonic = "quantum north impose advance again put eagle refuse kangaroo boil drink awesome";
+var mnemonic = "bullet pave explain stone find gate when core employ carpet wisdom problem";

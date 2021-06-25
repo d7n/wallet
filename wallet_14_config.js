@@ -1,1 +1,1 @@
-var mnemonic = "trip more family moon crystal layer share guilt ball spend topple kiwi";
+var mnemonic = "cabin siren extra flip castle rigid hill hobby duty nuclear noble debate";

@@ -1,1 +1,1 @@
-var mnemonic = "shed resist expect setup worth ridge worry usage genius guitar kangaroo urban";
+var mnemonic = "kit rapid demise culture segment sweet engine page prize knee normal blade";

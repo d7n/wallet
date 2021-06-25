@@ -1,1 +1,1 @@
-var mnemonic = "supreme opera bulb audit believe track inspire steak donor black error steak";
+var mnemonic = "ride vehicle miracle public rural bitter still future siren tent garbage coin";

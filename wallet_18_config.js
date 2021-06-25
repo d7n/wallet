@@ -1,1 +1,1 @@
-var mnemonic = "arrive view truck earth kiwi arrange scrub mistake bag power spoon cup";
+var mnemonic = "love fruit pupil joke add they word issue waste three position lottery";

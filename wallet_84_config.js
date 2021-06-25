@@ -1,1 +1,1 @@
-var mnemonic = "like victory sustain festival leopard inflict bar curve laptop session then peasant";
+var mnemonic = "kingdom lion hammer inflict staff cluster avoid oppose describe betray immune mad";

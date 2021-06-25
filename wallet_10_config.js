@@ -1,1 +1,1 @@
-var mnemonic = "borrow ability hamster betray glad bounce usage mirror tent cake disorder nerve";
+var mnemonic = "bubble broccoli sauce volume breeze solution invest panel patrol neither speak gather";

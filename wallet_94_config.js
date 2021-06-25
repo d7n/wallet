@@ -1,1 +1,1 @@
-var mnemonic = "stable pulp wrap fork tent neck swear inform ball mammal maid assist";
+var mnemonic = "scorpion volume final seven ozone toy artefact fade oval deal entire occur";

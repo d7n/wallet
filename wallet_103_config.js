@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit enemy swallow erosion promote heavy shield motion void strong robust primary";
+var mnemonic = "dash remind mistake balance describe moral silver change want load uncle flag";

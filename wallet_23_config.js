@@ -1,1 +1,1 @@
-var mnemonic = "share ginger cat soft scan edit photo submit roast sugar uniform payment";
+var mnemonic = "ordinary bottom sport excess relax until spend save forest waste buddy purity";

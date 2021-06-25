@@ -1,1 +1,1 @@
-var mnemonic = "under mule humor enforce unable yellow egg glance senior depth nephew segment";
+var mnemonic = "profit diagram spin tenant squeeze ranch sunny where region novel siege verb";

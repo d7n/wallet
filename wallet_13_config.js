@@ -1,1 +1,1 @@
-var mnemonic = "acid ship vital erupt shoot crater month easily seek upgrade idle cupboard";
+var mnemonic = "innocent novel cover purpose attract mystery arrest eager old blouse attract warrior";

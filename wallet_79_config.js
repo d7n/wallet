@@ -1,1 +1,1 @@
-var mnemonic = "surge build acoustic lizard leaf twelve dove nest noble fantasy mother garlic";
+var mnemonic = "bronze scorpion caught lab unaware wealth used harvest setup impulse panel climb";

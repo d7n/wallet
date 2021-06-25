@@ -1,1 +1,1 @@
-var mnemonic = "average service airport glove wolf note antique valid brief bus dirt dust";
+var mnemonic = "repair small canal despair ball learn destroy melody tattoo clerk marine tide";

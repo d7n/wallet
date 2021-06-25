@@ -1,1 +1,1 @@
-var mnemonic = "deal broccoli enjoy sad eight pencil gasp tissue width purse across tenant";
+var mnemonic = "tortoise output time witness wool luxury sail minimum until useful vibrant coral";

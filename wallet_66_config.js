@@ -1,1 +1,1 @@
-var mnemonic = "panic fringe detect across nerve clutch critic art course awesome smile patrol";
+var mnemonic = "vault unable case swallow thrive help copper joke cost roast prepare avoid";

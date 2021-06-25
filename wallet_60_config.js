@@ -1,1 +1,1 @@
-var mnemonic = "emotion prize kiwi frost chest affair note this mask settle often risk";
+var mnemonic = "fire rice inspire provide join maid room stone high trend online wheat";

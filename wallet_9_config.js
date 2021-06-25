@@ -1,1 +1,1 @@
-var mnemonic = "unit debate avocado dinosaur window banana melt idea lava comfort right seek";
+var mnemonic = "quote into uniform topic balcony seek twelve bubble embrace hope spin setup";

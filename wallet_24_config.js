@@ -1,1 +1,1 @@
-var mnemonic = "near success cherry build enable blast you feed cute fork wool chair";
+var mnemonic = "buddy verb glove alter legal phone visual inherit tilt shy alcohol feed";

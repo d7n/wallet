@@ -1,1 +1,1 @@
-var mnemonic = "improve onion process dose afraid drastic master practice regular video card obey";
+var mnemonic = "parent venture discover expand upgrade word problem impulse soul wash muscle design";

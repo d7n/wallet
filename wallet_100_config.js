@@ -1,1 +1,1 @@
-var mnemonic = "language certain pole bubble slow defy drop bamboo casual type main welcome";
+var mnemonic = "tunnel easily tobacco burst bacon prepare tiger episode mule winner green vacuum";

@@ -1,1 +1,1 @@
-var mnemonic = "opera slogan spend alien quiz alter cycle embrace limit elder actress ivory";
+var mnemonic = "chapter broken invest injury palm skull toilet quantum bright rare nut minimum";

@@ -1,1 +1,1 @@
-var mnemonic = "junk else lyrics polar umbrella giant boost give garlic chat busy science";
+var mnemonic = "captain audit photo galaxy morning tumble balcony high submit catalog forum amateur";

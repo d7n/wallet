@@ -1,1 +1,1 @@
-var mnemonic = "increase owner cinnamon pyramid leader hazard nerve team census bounce spoon nice";
+var mnemonic = "absurd betray tackle fiber robot cricket stand silent squirrel hurry obtain final";

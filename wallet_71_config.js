@@ -1,1 +1,1 @@
-var mnemonic = "glad lottery jelly live reduce volcano deer increase deer length eagle embody";
+var mnemonic = "job suspect leader trade fiber voice reflect family agent august castle address";

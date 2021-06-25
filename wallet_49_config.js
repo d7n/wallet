@@ -1,1 +1,1 @@
-var mnemonic = "supply submit toilet street find claim person elephant program soup absent exile";
+var mnemonic = "joy lab thank seat vendor flash end wet country mixture patch reject";

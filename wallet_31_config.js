@@ -1,1 +1,1 @@
-var mnemonic = "settle crunch legal shy kick suspect practice future prize scan pony hill";
+var mnemonic = "frequent mosquito offer cloth story phrase goat two brave usual once strike";

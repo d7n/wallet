@@ -1,1 +1,1 @@
-var mnemonic = "blossom pony invest rose grant foster fossil client mind crisp cricket joke";
+var mnemonic = "decline photo chair camp above mother indoor yard elbow crouch health absorb";

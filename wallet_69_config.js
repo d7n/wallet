@@ -1,1 +1,1 @@
-var mnemonic = "define vehicle inherit soda grid garden toss never century review wing state";
+var mnemonic = "corn globe tone couch end meadow near include have language morning mix";

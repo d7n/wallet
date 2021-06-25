@@ -1,1 +1,1 @@
-var mnemonic = "dial warrior hockey civil type spray rubber mammal tobacco parrot uniform lion";
+var mnemonic = "theory weekend quarter scene boost shallow nothing senior digital claim health erase";

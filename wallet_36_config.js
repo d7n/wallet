@@ -1,1 +1,1 @@
-var mnemonic = "puzzle deer success plate general surge sword pact lyrics secret learn virus";
+var mnemonic = "tape mass squeeze grain grit please sight alpha faculty resemble couch width";

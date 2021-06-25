@@ -1,1 +1,1 @@
-var mnemonic = "cup tank grid predict anger cliff furnace valley news unknown gas enforce";
+var mnemonic = "buddy evidence mix address pupil phrase panel garden doll velvet job various";

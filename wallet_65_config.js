@@ -1,1 +1,1 @@
-var mnemonic = "this hundred slogan country box task across baby state diamond demand orient";
+var mnemonic = "tape evoke shove source relief skate custom elbow jazz cheap another chalk";

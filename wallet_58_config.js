@@ -1,1 +1,1 @@
-var mnemonic = "sudden exact walnut anxiety valid always tourist below parent rail road elegant";
+var mnemonic = "bike riot airport wool stock power bracket excuse wet foam doll saddle";

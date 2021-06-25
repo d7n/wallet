@@ -1,1 +1,1 @@
-var mnemonic = "perfect kiwi brush squeeze blouse include into client apart must group puppy";
+var mnemonic = "repair eyebrow seven process victory bar carry decade young umbrella stand around";

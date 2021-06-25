@@ -1,1 +1,1 @@
-var mnemonic = "race rude staff myself term pudding anxiety very genre issue enforce magnet";
+var mnemonic = "pool labor brother arch puppy similar paddle direct torch witness casual patient";

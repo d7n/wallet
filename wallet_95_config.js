@@ -1,1 +1,1 @@
-var mnemonic = "chapter surprise ability similar tank sunny popular vocal pupil coin orphan bicycle";
+var mnemonic = "mango metal surface proud leg super first miracle ordinary maximum world fog";

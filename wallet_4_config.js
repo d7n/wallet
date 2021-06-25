@@ -1,1 +1,1 @@
-var mnemonic = "stone foster pumpkin agent toe mutual report bid broken luggage include error";
+var mnemonic = "year faith sadness reason brick item provide sense maple scene salad undo";

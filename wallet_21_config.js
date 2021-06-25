@@ -1,1 +1,1 @@
-var mnemonic = "away noise myth tail alone tone machine pull ranch setup husband sister";
+var mnemonic = "describe summer gallery spatial sign sausage what price feel place that host";

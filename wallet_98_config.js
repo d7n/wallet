@@ -1,1 +1,1 @@
-var mnemonic = "enroll nurse clean board abandon angry hire priority remain paper make innocent";
+var mnemonic = "river warrior spawn sell boil draw twice bottom syrup fashion rather giggle";

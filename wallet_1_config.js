@@ -1,1 +1,1 @@
-var mnemonic = "wage better account term soon hunt swing spatial proud situate mixture clay";
+var mnemonic = "magic dial deliver sweet cluster fine poverty vicious click anchor predict lesson";
