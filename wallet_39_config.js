@@ -1,1 +1,1 @@
-var mnemonic = "erosion ozone fiscal foam present tragic acquire stomach feature size exhibit potato";
+var mnemonic = "horse moment twelve treat claim asthma home aware wool depth two dumb";

@@ -1,1 +1,1 @@
-var mnemonic = "destroy current account citizen will neutral public food verify ugly column lizard";
+var mnemonic = "opera slogan spend alien quiz alter cycle embrace limit elder actress ivory";

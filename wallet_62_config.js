@@ -1,1 +1,1 @@
-var mnemonic = "mandate carry hawk cute grunt special vacant century shoulder dash fat special";
+var mnemonic = "team fan humor moon neck cement concert lottery dinner help need prize";

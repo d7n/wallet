@@ -1,1 +1,1 @@
-var mnemonic = "tuna menu day hat audit perfect pilot hockey brief street adapt ethics";
+var mnemonic = "frost enemy tide stomach drill theme visual ethics ecology ankle tortoise smart";

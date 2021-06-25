@@ -1,1 +1,1 @@
-var mnemonic = "order depart digital ripple smoke fiber local bone midnight utility oppose post";
+var mnemonic = "like version helmet salon immune like confirm actual potato orient bid bounce";

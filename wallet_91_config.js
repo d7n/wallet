@@ -1,1 +1,1 @@
-var mnemonic = "drastic carry start negative monkey clerk industry emotion moment device version wheat";
+var mnemonic = "fancy job language mystery away lady limit kitten feel few morning roof";

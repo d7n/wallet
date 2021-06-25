@@ -1,1 +1,1 @@
-var mnemonic = "naive fever battle mosquito fork dismiss bubble rapid detect teach mule impact";
+var mnemonic = "glad lottery jelly live reduce volcano deer increase deer length eagle embody";

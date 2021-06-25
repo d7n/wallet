@@ -1,1 +1,1 @@
-var mnemonic = "monitor curtain basic ankle media cluster good behave machine tooth refuse sail";
+var mnemonic = "express jealous leopard atom busy power inch extra olympic gas enact cupboard";

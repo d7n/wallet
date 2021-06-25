@@ -1,1 +1,1 @@
-var mnemonic = "chimney tray panda disorder mule electric drama dose reveal tube blade coil";
+var mnemonic = "slogan bulb pink either flip anxiety spider little when split virus process";

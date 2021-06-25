@@ -1,1 +1,1 @@
-var mnemonic = "donate magnet voyage venue hat flip delay dress barely recall follow cruise";
+var mnemonic = "inmate card learn inquiry lake mobile skull aspect acquire soccer holiday universe";

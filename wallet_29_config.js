@@ -1,1 +1,1 @@
-var mnemonic = "design affair cargo cross input prepare person wait armor program symptom casual";
+var mnemonic = "elephant shoot ecology shield brown display chest bread funny film spoon spell";

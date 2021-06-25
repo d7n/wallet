@@ -1,1 +1,1 @@
-var mnemonic = "concert crumble coffee dentist general joy usual baby arrive crew wise opera";
+var mnemonic = "rough lift mail erupt paddle clarify bounce plunge prison between post property";

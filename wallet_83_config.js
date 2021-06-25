@@ -1,1 +1,1 @@
-var mnemonic = "traffic warrior cheese holiday wear simple brain rough ice parrot arm butter";
+var mnemonic = "supreme opera bulb audit believe track inspire steak donor black error steak";

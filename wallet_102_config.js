@@ -1,1 +1,1 @@
-var mnemonic = "pretty pact shoot bulb review file insect various enact across cheap sheriff";
+var mnemonic = "curious worth ridge pulp brass please carbon swarm then hedgehog winner sauce";

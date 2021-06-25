@@ -1,1 +1,1 @@
-var mnemonic = "base breeze drive mirror fresh patch film frown barely end eager panda";
+var mnemonic = "like victory sustain festival leopard inflict bar curve laptop session then peasant";

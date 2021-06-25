@@ -1,1 +1,1 @@
-var mnemonic = "bring wheel poet attend loud alcohol love forest cloud grab since basket";
+var mnemonic = "medal bridge month faculty wild economy base pair snap sauce shield admit";

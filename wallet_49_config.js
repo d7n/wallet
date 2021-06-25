@@ -1,1 +1,1 @@
-var mnemonic = "lemon kite enroll hope version card produce change demise paper car damp";
+var mnemonic = "supply submit toilet street find claim person elephant program soup absent exile";

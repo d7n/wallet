@@ -1,1 +1,1 @@
-var mnemonic = "ugly common become six few menu napkin police switch sweet express fortune";
+var mnemonic = "lawsuit enemy swallow erosion promote heavy shield motion void strong robust primary";

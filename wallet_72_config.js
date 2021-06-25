@@ -1,1 +1,1 @@
-var mnemonic = "witness uphold inherit orange mirror oyster tomorrow sport swift mountain work image";
+var mnemonic = "response desert surround vault lamp rain column knee outer project skill climb";

@@ -1,1 +1,1 @@
-var mnemonic = "pelican assault audit butter loop win inform sketch burst world marble demand";
+var mnemonic = "fuel museum ozone north man island detect they mix opinion genre duty";

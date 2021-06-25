@@ -1,1 +1,1 @@
-var mnemonic = "column seat survey require cloud wrestle dash replace phrase gate derive excuse";
+var mnemonic = "acid ship vital erupt shoot crater month easily seek upgrade idle cupboard";

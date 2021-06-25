@@ -1,1 +1,1 @@
-var mnemonic = "meadow enhance wife script caught acoustic crucial travel label accuse donor want";
+var mnemonic = "define vehicle inherit soda grid garden toss never century review wing state";

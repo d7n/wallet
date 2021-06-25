@@ -1,1 +1,1 @@
-var mnemonic = "diary expire shed cable word cinnamon crop bamboo turkey vague increase paddle";
+var mnemonic = "grape worth fabric blue crowd atom feature next mosquito hobby wet quantum";

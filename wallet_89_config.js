@@ -1,1 +1,1 @@
-var mnemonic = "kitten veteran gossip canoe bone spy security chalk awkward human good name";
+var mnemonic = "fancy equal slogan bird smoke garbage salon usage dog album blind flush";

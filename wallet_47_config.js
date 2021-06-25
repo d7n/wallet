@@ -1,1 +1,1 @@
-var mnemonic = "offer guitar awake winter pilot churn give ginger identify tilt power boost";
+var mnemonic = "slab another term blast april trophy ecology scare dilemma raccoon junk basket";

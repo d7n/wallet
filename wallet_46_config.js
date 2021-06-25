@@ -1,1 +1,1 @@
-var mnemonic = "display walnut gift draw scatter session machine finger topple order exhaust tag";
+var mnemonic = "shed resist expect setup worth ridge worry usage genius guitar kangaroo urban";

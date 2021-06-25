@@ -1,1 +1,1 @@
-var mnemonic = "what humor battle gospel floor giant example auto bottom stock silk silent";
+var mnemonic = "access siege execute soul code slim shove marriage math gun because mail";

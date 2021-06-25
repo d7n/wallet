@@ -1,1 +1,1 @@
-var mnemonic = "wage slide glide goddess swamp sister wet release absurd alcohol lyrics merit";
+var mnemonic = "badge crop board wreck ramp flee acid oven glue book mirror elite";

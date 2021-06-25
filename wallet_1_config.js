@@ -1,1 +1,1 @@
-var mnemonic = "rely ski market forum valley crouch grunt apple nasty opera siren pledge";
+var mnemonic = "wage better account term soon hunt swing spatial proud situate mixture clay";

@@ -1,1 +1,1 @@
-var mnemonic = "current dismiss people element cave trophy mesh country agent angry better upper";
+var mnemonic = "once wasp stereo hurdle extend aerobic ozone vicious snake ozone twenty debris";

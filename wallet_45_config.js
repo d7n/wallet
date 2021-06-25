@@ -1,1 +1,1 @@
-var mnemonic = "range property birth hire grass present trouble absent valley license employ liberty";
+var mnemonic = "tongue tray finish engage someone alcohol mom alone lock secret horror online";

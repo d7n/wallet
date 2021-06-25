@@ -1,1 +1,1 @@
-var mnemonic = "brush item inhale voice choose senior license hunt lock sleep jaguar palace";
+var mnemonic = "quantum north impose advance again put eagle refuse kangaroo boil drink awesome";

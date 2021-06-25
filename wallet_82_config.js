@@ -1,1 +1,1 @@
-var mnemonic = "renew female space siren video rally float song dance wear work eager";
+var mnemonic = "modify grant giant solar inside bacon recipe nephew custom venture enhance combine";

@@ -1,1 +1,1 @@
-var mnemonic = "expose insect domain then nuclear ethics sock valid differ mule student inhale";
+var mnemonic = "clay enroll rotate jungle lemon false olive catch surge park modify wait";

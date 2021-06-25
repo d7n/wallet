@@ -1,1 +1,1 @@
-var mnemonic = "poverty tiger reform eager evoke bicycle chapter soda silver benefit hamster spirit";
+var mnemonic = "move goose lesson collect frozen risk waste horror possible pulse dutch already";

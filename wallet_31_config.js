@@ -1,1 +1,1 @@
-var mnemonic = "entry trick edge stock side rifle unfair unfold quote unfair vibrant moral";
+var mnemonic = "settle crunch legal shy kick suspect practice future prize scan pony hill";

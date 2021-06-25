@@ -1,1 +1,1 @@
-var mnemonic = "zebra legal fitness program arrive weapon grape sister since shift ridge assist";
+var mnemonic = "utility company force scatter trap inform lend pudding physical green sheriff siren";

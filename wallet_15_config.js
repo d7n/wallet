@@ -1,1 +1,1 @@
-var mnemonic = "clap fashion wife entry actor fire interest impose arrest wedding lock rough";
+var mnemonic = "diary near bus process neck matter belt actress famous rural pony palace";

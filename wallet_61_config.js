@@ -1,1 +1,1 @@
-var mnemonic = "rail unhappy cave unaware april knee wheel badge infant crash skill group";
+var mnemonic = "sword riot add salmon panther gospel dizzy across elbow aisle garden answer";

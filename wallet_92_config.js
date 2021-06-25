@@ -1,1 +1,1 @@
-var mnemonic = "eight unable embody project pilot evidence whale crane nature industry razor park";
+var mnemonic = "rabbit trick price exit have upset kitten sibling utility canyon pole evidence";

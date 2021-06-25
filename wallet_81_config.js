@@ -1,1 +1,1 @@
-var mnemonic = "model yard modify donkey west opinion blue gauge glow couch juice country";
+var mnemonic = "among warrior fatal caution spread cushion mutual actress east day club high";

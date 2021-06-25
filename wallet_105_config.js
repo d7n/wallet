@@ -1,1 +1,1 @@
-var mnemonic = "coconut sphere oxygen sick wrap security survey choice kind clock resist desk";
+var mnemonic = "grace panic refuse brave wait sure club energy coast panic pupil powder";

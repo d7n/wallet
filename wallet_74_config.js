@@ -1,1 +1,1 @@
-var mnemonic = "vibrant direct invest hedgehog soda kidney common pipe woman matrix situate tool";
+var mnemonic = "foam slight ocean jealous unaware depth canal edit glimpse tiny cycle oblige";

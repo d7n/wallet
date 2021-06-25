@@ -1,1 +1,1 @@
-var mnemonic = "good tiny chicken network arrange room spoil hybrid pattern soul industry robust";
+var mnemonic = "embark curious knife trend race axis drink web load when another ugly";

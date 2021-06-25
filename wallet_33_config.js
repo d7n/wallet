@@ -1,1 +1,1 @@
-var mnemonic = "magnet fat act toss current clever melody bounce dragon split power three";
+var mnemonic = "pupil accident neck south inject ahead satisfy clarify upset invite cost dust";

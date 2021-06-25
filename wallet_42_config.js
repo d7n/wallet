@@ -1,1 +1,1 @@
-var mnemonic = "dust sample furnace reveal scan misery puzzle sand mistake supreme consider focus";
+var mnemonic = "topple dolphin pull spread arm million bone tuna decline stable need quiz";

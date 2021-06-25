@@ -1,1 +1,1 @@
-var mnemonic = "master target bicycle number cry you tank parent soldier argue cloth input";
+var mnemonic = "perfect kiwi brush squeeze blouse include into client apart must group puppy";

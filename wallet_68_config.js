@@ -1,1 +1,1 @@
-var mnemonic = "client churn canvas awesome cloth sunset fee nose fuel badge auto melody";
+var mnemonic = "inquiry confirm shop bid skate gorilla river dirt sibling enjoy left object";

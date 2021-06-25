@@ -1,1 +1,1 @@
-var mnemonic = "addict affair tilt slow claim festival relax health session patrol vintage myself";
+var mnemonic = "pet raw fish aunt large dirt feature doll swift attract donate glimpse";

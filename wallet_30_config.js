@@ -1,1 +1,1 @@
-var mnemonic = "pottery panda major garbage venture palm tortoise valid genius friend capital blanket";
+var mnemonic = "animal ice oil unlock awake pool december task oak various divorce erupt";

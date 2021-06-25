@@ -1,1 +1,1 @@
-var mnemonic = "deliver settle stuff minute deny desert client increase hollow salon because cushion";
+var mnemonic = "slender pond stereo attitude remind refuse pepper wish tennis strong defense peace";

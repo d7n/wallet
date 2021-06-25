@@ -1,1 +1,1 @@
-var mnemonic = "fluid rose team list artwork car casino ancient first thumb test speak";
+var mnemonic = "blossom pony invest rose grant foster fossil client mind crisp cricket joke";

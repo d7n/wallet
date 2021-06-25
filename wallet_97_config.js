@@ -1,1 +1,1 @@
-var mnemonic = "front ill penalty any clown attend predict weapon eye myth demand palace";
+var mnemonic = "dial warrior hockey civil type spray rubber mammal tobacco parrot uniform lion";

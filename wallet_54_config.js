@@ -1,1 +1,1 @@
-var mnemonic = "surge blur drastic near diet nasty blast empty limb program denial infant";
+var mnemonic = "render upgrade awkward reopen artefact absent vintage float bench album lens leader";

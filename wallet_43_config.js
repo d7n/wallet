@@ -1,1 +1,1 @@
-var mnemonic = "boring business under kiwi like labor congress hurdle burger busy security drink";
+var mnemonic = "banana feature shock ceiling pact harvest ask reflect private nature surround also";

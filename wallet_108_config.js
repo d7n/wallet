@@ -1,1 +1,1 @@
-var mnemonic = "mad frequent recipe gaze horn ocean luggage income car smooth spawn main";
+var mnemonic = "increase owner cinnamon pyramid leader hazard nerve team census bounce spoon nice";

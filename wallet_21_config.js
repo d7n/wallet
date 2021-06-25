@@ -1,1 +1,1 @@
-var mnemonic = "ridge hawk student limit brisk rural twin post jaguar army cost expect";
+var mnemonic = "away noise myth tail alone tone machine pull ranch setup husband sister";

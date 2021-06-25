@@ -1,1 +1,1 @@
-var mnemonic = "aisle bright layer champion pair village chest judge motion title canal barrel";
+var mnemonic = "borrow ability hamster betray glad bounce usage mirror tent cake disorder nerve";

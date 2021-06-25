@@ -1,1 +1,1 @@
-var mnemonic = "crouch cruel road seed guess that bench duck seminar whip omit armed";
+var mnemonic = "hybrid uncle spot dutch scare swim ignore art antenna engine range deer";

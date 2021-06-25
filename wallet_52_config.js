@@ -1,1 +1,1 @@
-var mnemonic = "goose room act absurd feature alone clutch silent modify onion coin bulb";
+var mnemonic = "bright umbrella police tomato fluid decorate motion spatial floor stamp middle seminar";

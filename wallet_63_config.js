@@ -1,1 +1,1 @@
-var mnemonic = "state machine shuffle october salute craft boost earth decide hobby chalk evil";
+var mnemonic = "improve onion process dose afraid drastic master practice regular video card obey";

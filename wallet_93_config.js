@@ -1,1 +1,1 @@
-var mnemonic = "broom egg have tackle major gold fruit alpha junior region stool exhibit";
+var mnemonic = "good myself primary donate canvas quantum badge chaos shed agent extra employ";

@@ -1,1 +1,1 @@
-var mnemonic = "panic belt treat vanish put own female damage inside earn ankle same";
+var mnemonic = "chapter surprise ability similar tank sunny popular vocal pupil coin orphan bicycle";

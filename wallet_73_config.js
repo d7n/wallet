@@ -1,1 +1,1 @@
-var mnemonic = "keen crane grit initial abstract inform notable image cigar cushion where wide";
+var mnemonic = "genius rival diesel heart river pupil chase marble cycle upset lumber require";

@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog nasty load jazz infant weekend load music regular stem sniff cabin";
+var mnemonic = "this hundred slogan country box task across baby state diamond demand orient";

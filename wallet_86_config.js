@@ -1,1 +1,1 @@
-var mnemonic = "wrap kit armor again slender indicate dismiss wasp cushion diary cube sun";
+var mnemonic = "globe taste mammal clutch seminar poverty crater arrow online fix enough cinnamon";

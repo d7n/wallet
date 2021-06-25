@@ -1,1 +1,1 @@
-var mnemonic = "knee middle swift ball place canvas fresh ocean public advance pattern random";
+var mnemonic = "arena praise media prison school noble outside squeeze start achieve consider neck";

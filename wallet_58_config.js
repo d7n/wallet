@@ -1,1 +1,1 @@
-var mnemonic = "believe stool describe border organ trouble this retire crowd rack buddy extra";
+var mnemonic = "sudden exact walnut anxiety valid always tourist below parent rail road elegant";

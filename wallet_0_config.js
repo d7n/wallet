@@ -1,1 +1,1 @@
-var mnemonic = "primary donate mango green pole knee twist taste deposit report uniform else";
+var mnemonic = "deal broccoli enjoy sad eight pencil gasp tissue width purse across tenant";

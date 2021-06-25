@@ -1,1 +1,1 @@
-var mnemonic = "parrot admit camp cactus border lazy hurry laundry true festival ordinary little";
+var mnemonic = "city bottom cheap run industry vanish clump jungle dress arrow mind actor";

@@ -1,1 +1,1 @@
-var mnemonic = "smoke quality flower kite base camera style solve rose foil census cliff";
+var mnemonic = "stable pulp wrap fork tent neck swear inform ball mammal maid assist";

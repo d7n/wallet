@@ -1,1 +1,1 @@
-var mnemonic = "evolve dog blame master quantum error unique tray legal unusual squirrel obtain";
+var mnemonic = "pupil flame client quality family acoustic math smile hobby save alarm evoke";

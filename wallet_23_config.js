@@ -1,1 +1,1 @@
-var mnemonic = "predict knife able off aerobic fossil avocado please collect maze antique oyster";
+var mnemonic = "share ginger cat soft scan edit photo submit roast sugar uniform payment";

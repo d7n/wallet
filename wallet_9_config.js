@@ -1,1 +1,1 @@
-var mnemonic = "report modify case plug situate lava promote economy tent bubble blame omit";
+var mnemonic = "unit debate avocado dinosaur window banana melt idea lava comfort right seek";

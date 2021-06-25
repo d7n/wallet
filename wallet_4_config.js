@@ -1,1 +1,1 @@
-var mnemonic = "illegal give face someone rain neglect quarter media entire liar manual autumn";
+var mnemonic = "stone foster pumpkin agent toe mutual report bid broken luggage include error";

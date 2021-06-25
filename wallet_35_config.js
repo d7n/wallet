@@ -1,1 +1,1 @@
-var mnemonic = "only panel cram novel wing ankle grace novel milk coconut tank solid";
+var mnemonic = "surprise bus surface boring slim will between regular fix desert sure ginger";

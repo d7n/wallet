@@ -1,1 +1,1 @@
-var mnemonic = "piano cute dinner shock trouble mushroom urban pyramid salon anxiety rib tired";
+var mnemonic = "language certain pole bubble slow defy drop bamboo casual type main welcome";

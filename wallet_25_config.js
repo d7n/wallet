@@ -1,1 +1,1 @@
-var mnemonic = "tray giggle twist approve dragon symbol cliff similar vintage primary load sort";
+var mnemonic = "kitchen era camera bounce social long utility renew canoe guitar bench someone";

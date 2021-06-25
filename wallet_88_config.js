@@ -1,1 +1,1 @@
-var mnemonic = "creek coyote easy yard embody perfect insane danger trigger floor model option";
+var mnemonic = "race rude staff myself term pudding anxiety very genre issue enforce magnet";

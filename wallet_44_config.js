@@ -1,1 +1,1 @@
-var mnemonic = "small armor cricket wisdom eight climb train scorpion ginger diet latin remove";
+var mnemonic = "trigger phone animal rural giggle survey tomorrow believe fringe evidence reward quantum";

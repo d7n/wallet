@@ -1,1 +1,1 @@
-var mnemonic = "angry economy base output door waste call thrive clump bounce fade chair";
+var mnemonic = "burden thumb web dose crisp note catalog first thank market dawn coconut";

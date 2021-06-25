@@ -1,1 +1,1 @@
-var mnemonic = "property thought drink advance finger device crop crop image arch library asthma";
+var mnemonic = "surge build acoustic lizard leaf twelve dove nest noble fantasy mother garlic";

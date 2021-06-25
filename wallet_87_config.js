@@ -1,1 +1,1 @@
-var mnemonic = "mutual step sail upon wife organ cute kind panda simple soda soda";
+var mnemonic = "under mule humor enforce unable yellow egg glance senior depth nephew segment";

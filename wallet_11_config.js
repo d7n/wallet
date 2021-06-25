@@ -1,1 +1,1 @@
-var mnemonic = "resist three elite digital sun debris salmon merge travel such one lab";
+var mnemonic = "gas vote absent item coin dune glow swallow visual element main couch";

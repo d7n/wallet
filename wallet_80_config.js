@@ -1,1 +1,1 @@
-var mnemonic = "cousin syrup powder finger fat actor street pill shine simple luggage print";
+var mnemonic = "common timber toward virus trigger truly kitten keep rhythm stumble chimney road";

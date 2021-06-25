@@ -1,1 +1,1 @@
-var mnemonic = "derive slight account ivory inmate empower grief resemble cream equal pet steel";
+var mnemonic = "elder know sea pact message connect embark bottom come squirrel turtle wine";

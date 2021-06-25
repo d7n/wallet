@@ -1,1 +1,1 @@
-var mnemonic = "snake recipe talk walk donkey trophy empty steak believe purpose below oak";
+var mnemonic = "hold lonely load book floor more consider mean more print render sniff";

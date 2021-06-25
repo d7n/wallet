@@ -1,1 +1,1 @@
-var mnemonic = "result account isolate great bird rose hero ocean flag damp travel atom";
+var mnemonic = "near success cherry build enable blast you feed cute fork wool chair";

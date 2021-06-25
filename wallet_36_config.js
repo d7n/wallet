@@ -1,1 +1,1 @@
-var mnemonic = "fall popular mimic direct spawn fine hurt essay just embrace blood they";
+var mnemonic = "puzzle deer success plate general surge sword pact lyrics secret learn virus";

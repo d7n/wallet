@@ -1,1 +1,1 @@
-var mnemonic = "ignore clinic fly raise innocent staff stereo noise chaos describe return boss";
+var mnemonic = "blur give quantum cruise sure interest inmate cat picnic holiday visa material";

@@ -1,1 +1,1 @@
-var mnemonic = "angry aerobic add design method undo wash cook pumpkin assume tube jar";
+var mnemonic = "heart wing learn wheel viable like scare inch shove twelve grid project";

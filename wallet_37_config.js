@@ -1,1 +1,1 @@
-var mnemonic = "embrace mobile trash lyrics finish remain furnace thought festival team country nurse";
+var mnemonic = "dismiss gadget alarm liquid student color boss cream useless forum tone ankle";

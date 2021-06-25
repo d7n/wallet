@@ -1,1 +1,1 @@
-var mnemonic = "acid orbit quantum pluck away pause usage brand start wide thrive card";
+var mnemonic = "trip more family moon crystal layer share guilt ball spend topple kiwi";

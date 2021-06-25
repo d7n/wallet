@@ -1,1 +1,1 @@
-var mnemonic = "prevent program hole know choice any face interest polar security already penalty";
+var mnemonic = "later know birth cruise ensure drip cabin silent corn grocery square parent";
