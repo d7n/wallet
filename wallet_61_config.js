@@ -1,1 +1,1 @@
-var mnemonic = "fresh typical country rack type bronze nothing bonus atom divorce excuse kid";
+var mnemonic = "credit idle brush elevator badge total choice smile primary cloth card receive";

@@ -1,1 +1,1 @@
-var mnemonic = "melody course rookie magnet steel drink toward excess portion embody comfort report";
+var mnemonic = "garment true taxi apology faint habit salad step inhale roast number syrup";

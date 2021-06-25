@@ -1,1 +1,1 @@
-var mnemonic = "joy make screen zoo odor pepper soda main area list faculty corn";
+var mnemonic = "flavor input nature silly casino social caught throw much quantum sight drastic";

@@ -1,1 +1,1 @@
-var mnemonic = "sick spirit leopard during moral orphan utility ticket denial blanket nurse bullet";
+var mnemonic = "resource strong toast soccer almost payment buddy hospital cotton ice fluid surge";

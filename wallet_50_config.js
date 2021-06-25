@@ -1,1 +1,1 @@
-var mnemonic = "syrup invest jaguar panel resource jewel retreat pudding anxiety infant brother dress";
+var mnemonic = "typical like flat inner forum mobile brief warm boring hollow rubber trust";

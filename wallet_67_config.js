@@ -1,1 +1,1 @@
-var mnemonic = "doctor base fee aware ozone orange fly live scatter mushroom track gesture";
+var mnemonic = "will oval palm letter cricket sibling donate edit inhale final sample display";

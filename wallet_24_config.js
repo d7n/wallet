@@ -1,1 +1,1 @@
-var mnemonic = "recycle focus reflect snap knife girl hole coffee squirrel hire seminar rather";
+var mnemonic = "poet shallow humble near crystal candy advance enact wet antenna smile design";

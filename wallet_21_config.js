@@ -1,1 +1,1 @@
-var mnemonic = "nominee slow cherry boat life little stadium purse below cradle dawn asset";
+var mnemonic = "virtual enact inherit elbow mail test legal crowd marine senior vanish famous";

@@ -1,1 +1,1 @@
-var mnemonic = "unlock cream inhale army slush venue invite impact base shine sport reflect";
+var mnemonic = "erode favorite kick alley useless practice coin loop material rescue post side";

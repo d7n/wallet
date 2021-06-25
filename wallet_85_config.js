@@ -1,1 +1,1 @@
-var mnemonic = "turtle grid foster scissors define balcony now tongue car analyst helmet gossip";
+var mnemonic = "tag south actual hammer seven box slight chronic prepare nephew eye year";

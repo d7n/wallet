@@ -1,1 +1,1 @@
-var mnemonic = "fiber mobile typical mystery width type leg dog inside hazard beyond vocal";
+var mnemonic = "pepper decorate discover great balcony citizen select accident long connect weapon scatter";

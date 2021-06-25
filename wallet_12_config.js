@@ -1,1 +1,1 @@
-var mnemonic = "abandon choose crumble capital strong trumpet adult nothing size around comic bind";
+var mnemonic = "gaze tennis area filter luxury today vital fatal together ladder dress misery";

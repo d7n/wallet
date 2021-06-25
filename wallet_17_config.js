@@ -1,1 +1,1 @@
-var mnemonic = "often client endless consider web dignity open lift meat satoshi fire short";
+var mnemonic = "erosion flee poem alone slide kick method bundle action people habit fish";

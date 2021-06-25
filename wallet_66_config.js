@@ -1,1 +1,1 @@
-var mnemonic = "sheriff into fancy inside around shed fragile curve uphold soda wink adjust";
+var mnemonic = "surprise rug explain sand urban cool cruise leg park flag make wagon";

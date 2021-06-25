@@ -1,1 +1,1 @@
-var mnemonic = "drill fee universe happy idle select tribe zoo paddle error quote clerk";
+var mnemonic = "foster govern poet design capable dismiss arctic manage void oxygen come mango";

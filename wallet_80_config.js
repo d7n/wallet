@@ -1,1 +1,1 @@
-var mnemonic = "bunker sentence puzzle shallow pony wheat mail foster bunker armed enhance draft";
+var mnemonic = "machine exhaust across fish multiply excite squeeze group couch burger matter engine";

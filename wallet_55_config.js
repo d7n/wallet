@@ -1,1 +1,1 @@
-var mnemonic = "panda enter crunch dad man decorate warm pig purity spell beauty very";
+var mnemonic = "shoe dragon input wasp rhythm shuffle panther immune uphold private cheese indicate";

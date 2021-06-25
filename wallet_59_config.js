@@ -1,1 +1,1 @@
-var mnemonic = "code journey lake demand tiger monster velvet erosion shoulder master hover silly";
+var mnemonic = "page sell test frost spatial arrange grocery mercy early train gasp pattern";

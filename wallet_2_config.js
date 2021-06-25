@@ -1,1 +1,1 @@
-var mnemonic = "seminar talk summer double april cabin wish tragic head pigeon monster bulk";
+var mnemonic = "field runway goat nation fashion sphere access fatigue gap believe wise draw";

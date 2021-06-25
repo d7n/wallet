@@ -1,1 +1,1 @@
-var mnemonic = "educate only snap label ankle broccoli taxi toilet satisfy traffic sort dirt";
+var mnemonic = "flame unlock perfect seat guess bamboo finger own cradle industry supply future";

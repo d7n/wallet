@@ -1,1 +1,1 @@
-var mnemonic = "print slim virtual desert company foster hazard mutual magnet warm lens never";
+var mnemonic = "sausage planet render spike garbage torch verb fine high blouse nut mistake";

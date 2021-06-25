@@ -1,1 +1,1 @@
-var mnemonic = "speed always involve plastic estate pause stand lunar expose select admit pumpkin";
+var mnemonic = "rifle bacon vast lawn local list bomb happy position bleak essay spirit";

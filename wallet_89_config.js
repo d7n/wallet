@@ -1,1 +1,1 @@
-var mnemonic = "hawk tackle fold license garlic coil soul shop manage nation what dry";
+var mnemonic = "explain direct else city wrong lobster blade wreck robust cigar smart moral";

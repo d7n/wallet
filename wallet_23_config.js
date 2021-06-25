@@ -1,1 +1,1 @@
-var mnemonic = "advice beyond task surround gap check ginger pilot hour mercy fat anchor";
+var mnemonic = "pony kiss hybrid mutual unable venue spring fat excuse deputy bring turn";

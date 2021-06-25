@@ -1,1 +1,1 @@
-var mnemonic = "stick visual correct liberty rose egg spell grief banner club tribe shield";
+var mnemonic = "rhythm giant limit adult fan innocent wear theme output flavor puppy eight";

@@ -1,1 +1,1 @@
-var mnemonic = "patrol hope mobile object dance frost leave private tobacco any prepare cannon";
+var mnemonic = "fatal energy punch drill morning sweet hip excite friend kangaroo sister then";

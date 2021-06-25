@@ -1,1 +1,1 @@
-var mnemonic = "blade release pitch pet cable umbrella build drink child assume orient eternal";
+var mnemonic = "suffer soft dawn exercise cruise one meat oppose thumb hire interest leisure";

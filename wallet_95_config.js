@@ -1,1 +1,1 @@
-var mnemonic = "upset boy cram view elephant alley tray game movie post bring chalk";
+var mnemonic = "tunnel confirm explain tape fiscal click hunt juice recipe order ice rebel";

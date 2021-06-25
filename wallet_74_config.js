@@ -1,1 +1,1 @@
-var mnemonic = "bid borrow blue hat drink enough display win faculty strike shock fold";
+var mnemonic = "follow affair return convince chimney person tell tonight advance various slab salute";

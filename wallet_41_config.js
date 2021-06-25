@@ -1,1 +1,1 @@
-var mnemonic = "range cabbage dune race lunch pottery hole half trigger private mosquito muffin";
+var mnemonic = "urge whip march fog under expect disagree normal add carbon strike tired";

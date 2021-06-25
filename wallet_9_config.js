@@ -1,1 +1,1 @@
-var mnemonic = "noble balance mask innocent exit visit belt female crouch rug middle invest";
+var mnemonic = "erode wreck trend stuff govern diagram swift toward wise chase upon domain";

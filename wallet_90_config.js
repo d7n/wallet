@@ -1,1 +1,1 @@
-var mnemonic = "tragic man close gospel bar battle trophy fee curtain horror crane series";
+var mnemonic = "poem rare frequent mandate above achieve second surge push mother diet mother";

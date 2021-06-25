@@ -1,1 +1,1 @@
-var mnemonic = "genre infant alone useful rib demand shine repeat there depart novel business";
+var mnemonic = "educate spatial rather left wet cruel token chunk direct orphan blade arctic";

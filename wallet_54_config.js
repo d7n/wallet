@@ -1,1 +1,1 @@
-var mnemonic = "spoon ensure agent silver fetch logic beef normal nut master van scrap";
+var mnemonic = "sea shine gorilla protect pattern brand seat vital regular upper arctic must";

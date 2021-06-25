@@ -1,1 +1,1 @@
-var mnemonic = "kite sample wreck eyebrow plate above same elevator face develop worth cheese";
+var mnemonic = "bulb absurd piano seminar dish three rose tackle top trick fury loop";

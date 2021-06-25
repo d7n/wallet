@@ -1,1 +1,1 @@
-var mnemonic = "light almost midnight gorilla pottery useless gospel rent helmet deposit potato decrease";
+var mnemonic = "jewel slender tent monkey october evidence leopard vault mind stool aisle glass";

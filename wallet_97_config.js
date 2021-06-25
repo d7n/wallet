@@ -1,1 +1,1 @@
-var mnemonic = "cheese able vacant sign traffic little era better crash hedgehog analyst rocket";
+var mnemonic = "subject target hobby next better glass juice hill tell weapon theory grief";

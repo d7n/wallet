@@ -1,1 +1,1 @@
-var mnemonic = "inherit bean pole theory danger act harsh erosion skull finger liar bring";
+var mnemonic = "real test plunge crew rude float unhappy runway scrap blue barrel meadow";

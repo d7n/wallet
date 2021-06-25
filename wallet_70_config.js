@@ -1,1 +1,1 @@
-var mnemonic = "rule syrup casual lecture seminar outdoor matter matrix blur drift book mixture";
+var mnemonic = "midnight alarm youth ghost pumpkin fire raven pigeon vault enable loyal bitter";

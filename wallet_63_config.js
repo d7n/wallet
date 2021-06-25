@@ -1,1 +1,1 @@
-var mnemonic = "trial live clerk iron scrub whip burden festival forward city tooth ridge";
+var mnemonic = "supply easily crucial age life brain traffic industry utility point exact ketchup";

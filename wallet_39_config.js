@@ -1,1 +1,1 @@
-var mnemonic = "track seat master alpha word where road game banana stock lens drama";
+var mnemonic = "shoe rural true twist ocean horror tilt fly furnace shuffle damp imitate";

@@ -1,1 +1,1 @@
-var mnemonic = "feed suffer chair ill upper odor federal job enact detect unfair double";
+var mnemonic = "economy hidden quality gloom dentist huge tonight rough notice ankle nest badge";

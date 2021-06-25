@@ -1,1 +1,1 @@
-var mnemonic = "silent round bleak exact argue boost timber art glance raven royal garment";
+var mnemonic = "faith tissue evil admit wasp village clay million gadget chat talk voyage";

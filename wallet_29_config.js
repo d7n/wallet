@@ -1,1 +1,1 @@
-var mnemonic = "tree oxygen vicious metal chronic quote siege mouse change tunnel thought hat";
+var mnemonic = "pet only beyond coffee shed fatigue truck decline carbon develop camp rare";

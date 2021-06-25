@@ -1,1 +1,1 @@
-var mnemonic = "alley vault suspect knock network ball code catch bag primary deal profit";
+var mnemonic = "yard bright birth panic sweet diet satoshi exact weather wish average merry";

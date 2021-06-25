@@ -1,1 +1,1 @@
-var mnemonic = "yard ready office you coin airport acoustic twelve sunny very toward sponsor";
+var mnemonic = "sure icon grief spoil olive finish tray walnut before estate thought sister";

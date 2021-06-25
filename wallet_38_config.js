@@ -1,1 +1,1 @@
-var mnemonic = "omit metal risk poem adapt slow tobacco eager copy illness carbon club";
+var mnemonic = "walnut goose sphere later lunar become nuclear crawl stereo error near beef";

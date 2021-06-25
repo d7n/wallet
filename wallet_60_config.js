@@ -1,1 +1,1 @@
-var mnemonic = "dynamic tent together search maple slow power basket decorate maple wash kitten";
+var mnemonic = "quote street trash shove mango matter oil drastic abuse cruel argue flat";

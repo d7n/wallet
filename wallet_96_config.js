@@ -1,1 +1,1 @@
-var mnemonic = "betray unusual obscure picture orange disease position phone equip inherit voice winter";
+var mnemonic = "enhance finish hip puppy toss easily tired polar ship ten uncover proof";

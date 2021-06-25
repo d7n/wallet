@@ -1,1 +1,1 @@
-var mnemonic = "alarm neck connect blood despair trouble embody genius insect divert boss tube";
+var mnemonic = "food female render embody rocket stamp harbor twist tiny employ square sight";

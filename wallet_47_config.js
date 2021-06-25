@@ -1,1 +1,1 @@
-var mnemonic = "oil elite lounge virtual favorite manage people cook liquid blouse napkin turtle";
+var mnemonic = "please become open humble year trust orient sea broccoli slot wire resemble";

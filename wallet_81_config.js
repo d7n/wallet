@@ -1,1 +1,1 @@
-var mnemonic = "bubble display direct burden toss naive math truly obtain envelope slush empty";
+var mnemonic = "average park they rigid dream season expose together genre humor upgrade edit";

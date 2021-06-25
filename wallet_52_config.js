@@ -1,1 +1,1 @@
-var mnemonic = "ignore grant moral tag city give right diary term wear science illegal";
+var mnemonic = "when move decide salute survey boss uncle raven raven chunk estate acid";

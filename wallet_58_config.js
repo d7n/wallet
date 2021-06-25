@@ -1,1 +1,1 @@
-var mnemonic = "robust advice move dragon joke jacket general staff frozen job now light";
+var mnemonic = "depth horror silk aim clinic target daring author sentence figure gold enhance";

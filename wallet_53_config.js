@@ -1,1 +1,1 @@
-var mnemonic = "sugar vintage dawn argue chicken palace wish glow sheriff lawn deer soccer";
+var mnemonic = "become prepare music vessel drift leg couple there sister egg broccoli return";

@@ -1,1 +1,1 @@
-var mnemonic = "order open excite vanish oil piece own trade shell pottery dry alien";
+var mnemonic = "pizza resource song ordinary jungle dress taxi alien exit copper shuffle proof";

@@ -1,1 +1,1 @@
-var mnemonic = "truck select craft tragic convince busy trash surface bounce soap attend split";
+var mnemonic = "record addict tag bike oak verb uphold stumble dose give source airport";

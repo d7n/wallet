@@ -1,1 +1,1 @@
-var mnemonic = "true off loan fatigue front punch skin issue knock rough purity trip";
+var mnemonic = "pioneer code object badge primary matter hard cool urban mistake goat crew";

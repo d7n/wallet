@@ -1,1 +1,1 @@
-var mnemonic = "that under canal better uphold disorder eternal output buffalo road exact deputy";
+var mnemonic = "just shuffle kiss oven cotton rack such wolf roast cattle term law";

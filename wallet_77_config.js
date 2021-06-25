@@ -1,1 +1,1 @@
-var mnemonic = "rival monster oval foot mule speed trial honey real sock make torch";
+var mnemonic = "pipe unknown ride bird sibling script icon edit obscure range pair erupt";

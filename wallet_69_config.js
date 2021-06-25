@@ -1,1 +1,1 @@
-var mnemonic = "draw lens weapon uniform because crazy theory about idle elder moment blanket";
+var mnemonic = "demand hover march black reduce purity hurdle speed slide globe hint annual";

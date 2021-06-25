@@ -1,1 +1,1 @@
-var mnemonic = "report toward series phrase leave tail hover industry rhythm original muscle tongue";
+var mnemonic = "farm misery fence later company fatigue dignity lizard addict flash tired daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "when salute submit outside soldier boring auto jazz congress rebel used thank";
+var mnemonic = "hundred almost universe joke fuel ahead analyst again annual agent wheat silver";

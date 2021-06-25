@@ -1,1 +1,1 @@
-var mnemonic = "error joy basic art limit ignore audit prevent face right rifle fade";
+var mnemonic = "myself chest walk dial auction hedgehog face sad team armor burden solid";

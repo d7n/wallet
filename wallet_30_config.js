@@ -1,1 +1,1 @@
-var mnemonic = "during enforce thank pair parrot fame wash very easy scissors when demand";
+var mnemonic = "island away half base eager trade next patrol angry firm present measure";

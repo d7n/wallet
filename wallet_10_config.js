@@ -1,1 +1,1 @@
-var mnemonic = "spider hawk earth coach pair reduce wine rotate piano chest riot neither";
+var mnemonic = "artefact grit found liar little game portion they absurd shoulder sleep creek";

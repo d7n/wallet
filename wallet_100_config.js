@@ -1,1 +1,1 @@
-var mnemonic = "plastic vapor tenant valve slice grab toilet pet thank snake story tent";
+var mnemonic = "immune amateur peace sadness spike make arrange medal patrol measure body ostrich";

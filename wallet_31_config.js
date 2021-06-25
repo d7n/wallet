@@ -1,1 +1,1 @@
-var mnemonic = "blossom catch input monkey thing crystal into guess green quality casino basket";
+var mnemonic = "comic imitate adapt blush evil item elbow local wisdom beef saddle glad";

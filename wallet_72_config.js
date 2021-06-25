@@ -1,1 +1,1 @@
-var mnemonic = "detect crouch sunny crucial travel find strike source monster print about master";
+var mnemonic = "scatter champion pool tourist glad cabin addict puppy swear fragile write alarm";

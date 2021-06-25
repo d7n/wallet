@@ -1,1 +1,1 @@
-var mnemonic = "best movie antique rain shell before bullet space swarm exit enter ostrich";
+var mnemonic = "milk twenty surface weekend layer salt illegal appear random save express depth";

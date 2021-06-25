@@ -1,1 +1,1 @@
-var mnemonic = "embody alpha denial addict antenna tribe helmet rapid trade gown earn camera";
+var mnemonic = "inherit canoe field mouse black dad merit food result burden wonder dove";

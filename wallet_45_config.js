@@ -1,1 +1,1 @@
-var mnemonic = "abandon this come track around tumble dance wide motor core window ethics";
+var mnemonic = "hotel artefact spring approve lounge pet enemy jewel grab sister tuition abstract";

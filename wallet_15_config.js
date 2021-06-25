@@ -1,1 +1,1 @@
-var mnemonic = "iron option title donate vapor silver nominee list horror afford glad grant";
+var mnemonic = "salad suit universe candy nominee carry fluid clay such track road embark";

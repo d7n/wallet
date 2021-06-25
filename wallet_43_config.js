@@ -1,1 +1,1 @@
-var mnemonic = "suggest across icon produce bid surge select series youth van consider toe";
+var mnemonic = "oblige market make axis average mistake neither abandon invest guess mutual legal";

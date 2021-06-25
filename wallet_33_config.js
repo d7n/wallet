@@ -1,1 +1,1 @@
-var mnemonic = "tornado kitchen valley mammal child concert enlist almost impose economy chunk napkin";
+var mnemonic = "honey impose ship coconut neck report narrow merge modify gesture leopard buffalo";

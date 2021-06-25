@@ -1,1 +1,1 @@
-var mnemonic = "ability post tackle turn all balcony recycle alert churn traffic solution cloud";
+var mnemonic = "drift human network message prison pave cook consider tilt arctic squeeze syrup";

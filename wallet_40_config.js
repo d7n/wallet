@@ -1,1 +1,1 @@
-var mnemonic = "dog chuckle image alone faith chimney west undo stage thing question train";
+var mnemonic = "moon bike mass blame number poem caution pizza smoke paper consider tunnel";

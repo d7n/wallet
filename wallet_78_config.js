@@ -1,1 +1,1 @@
-var mnemonic = "luggage square mad eyebrow grace slender evidence scare face candy utility runway";
+var mnemonic = "person hidden offer goat brown wedding glue bridge rally blanket tiny benefit";

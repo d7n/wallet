@@ -1,1 +1,1 @@
-var mnemonic = "hole hair sign clump fan endless solid bag section leave great surround";
+var mnemonic = "still during found edge catch attend world pony ketchup drift few federal";

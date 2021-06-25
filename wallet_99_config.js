@@ -1,1 +1,1 @@
-var mnemonic = "gift during spirit cream say cash roast canal then alpha spatial earth";
+var mnemonic = "friend cushion bleak spray neck lumber fox shrug air taste false wide";

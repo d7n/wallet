@@ -1,1 +1,1 @@
-var mnemonic = "remember narrow poem drill pet remain craft casino pair start spot walk";
+var mnemonic = "nature train jacket endorse they early wife rescue raw inquiry train mule";

@@ -1,1 +1,1 @@
-var mnemonic = "loop grit whip twice carry mention crisp struggle arrest laundry fancy copy";
+var mnemonic = "combine maximum law gloom since pair hurdle stuff solution sponsor push snack";

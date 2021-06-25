@@ -1,1 +1,1 @@
-var mnemonic = "vague narrow solid plastic nest gauge youth word horse aim double castle";
+var mnemonic = "beauty two job soul oppose bomb coffee bachelor conduct gloom drill comfort";

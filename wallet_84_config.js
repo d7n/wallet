@@ -1,1 +1,1 @@
-var mnemonic = "coach cotton please surface jewel regular intact bullet split act casual absorb";
+var mnemonic = "tomorrow minimum surprise wet music table situate author egg diagram manual fiber";

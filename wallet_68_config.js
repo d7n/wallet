@@ -1,1 +1,1 @@
-var mnemonic = "ship butter dust tilt arrow soccer rifle dream fuel entry science claw";
+var mnemonic = "common tiny small girl rail phone appear resource rubber swap eight dust";

@@ -1,1 +1,1 @@
-var mnemonic = "capable field assist shop book theme now charge piano bus magic congress";
+var mnemonic = "extra heavy bicycle guitar gravity mercy praise story cliff dinosaur toy electric";

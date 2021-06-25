@@ -1,1 +1,1 @@
-var mnemonic = "rural review merit inspire dad connect basic seminar sausage since fortune flip";
+var mnemonic = "breeze goddess frequent brick quit father assault physical ugly romance must erosion";

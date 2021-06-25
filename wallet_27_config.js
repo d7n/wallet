@@ -1,1 +1,1 @@
-var mnemonic = "innocent fall daughter spoon clay exact there guard hungry relief small dance";
+var mnemonic = "drift verb dumb powder alarm urban paddle chunk label lake tongue exile";

@@ -1,1 +1,1 @@
-var mnemonic = "cloud thing maze simple myth square velvet escape mouse observe debate essay";
+var mnemonic = "metal fury other hope enough depend loyal rice utility trophy foster render";

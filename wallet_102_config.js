@@ -1,1 +1,1 @@
-var mnemonic = "mango announce estate stem question finish casino pear term boat prison dentist";
+var mnemonic = "build same skill physical mimic crew panther blouse hole scale mystery agent";

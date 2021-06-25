@@ -1,1 +1,1 @@
-var mnemonic = "flame ugly flower small record forum road anchor prosper midnight prefer because";
+var mnemonic = "vibrant panel trigger goose almost column try believe impose cigar muscle thing";
