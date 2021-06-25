@@ -1,1 +1,1 @@
-var mnemonic = "estate special uncle antique spawn seven couple rebuild silent jaguar frame blood";
+var mnemonic = "pull battle brush lobster extend lecture nose spare slogan whale ability under";

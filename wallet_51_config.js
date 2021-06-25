@@ -1,1 +1,1 @@
-var mnemonic = "bring slice unfold that glue address special tip across debris alley ginger";
+var mnemonic = "buzz bubble sibling enroll warfare renew venue riot weird metal replace bamboo";

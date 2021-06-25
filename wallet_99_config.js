@@ -1,1 +1,1 @@
-var mnemonic = "idle oxygen radio width proud note conduct save inch task enable suffer";
+var mnemonic = "drama hundred daring farm member slim square trip chuckle rally anchor world";

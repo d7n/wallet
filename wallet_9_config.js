@@ -1,1 +1,1 @@
-var mnemonic = "estate fruit toilet task gasp like tourist police miss inmate client student";
+var mnemonic = "eyebrow approve pizza tornado city boring beach shadow humble proud blind upper";

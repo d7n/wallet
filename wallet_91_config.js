@@ -1,1 +1,1 @@
-var mnemonic = "joke south attend squeeze odor stay era victory dinner black miss dash";
+var mnemonic = "say man rely check assume output minor denial where dinner damage exact";

@@ -1,1 +1,1 @@
-var mnemonic = "oven carpet message ginger pizza today valley hour hint tornado pistol labor";
+var mnemonic = "know winter lucky erupt art midnight piece balance mistake basic casino clarify";

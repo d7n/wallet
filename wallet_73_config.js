@@ -1,1 +1,1 @@
-var mnemonic = "online amused carpet source scare inhale angry dog cruel flee hub shock";
+var mnemonic = "artwork snake invest marble opinion return lazy pair lava remove thrive beauty";

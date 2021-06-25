@@ -1,1 +1,1 @@
-var mnemonic = "brick since corn rubber jeans bundle hurt fury crystal witness canyon shock";
+var mnemonic = "produce lamp report off essay snake pride supreme mimic garden knife chimney";

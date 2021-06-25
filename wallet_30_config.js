@@ -1,1 +1,1 @@
-var mnemonic = "category tomato view hire abstract smile usage essay lift stomach plate satisfy";
+var mnemonic = "language cheese praise general tornado expire reject hospital crime child seek primary";

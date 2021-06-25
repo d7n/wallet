@@ -1,1 +1,1 @@
-var mnemonic = "pattern leisure film inhale balcony hour slogan misery romance grape sting gate";
+var mnemonic = "imitate tourist pause dream wage agent bone glory oil filter expire puzzle";

@@ -1,1 +1,1 @@
-var mnemonic = "rule tool arrive easy retreat lamp electric innocent outer uncle scissors unaware";
+var mnemonic = "punch eagle sun knife neutral talent learn view extra find ticket garment";

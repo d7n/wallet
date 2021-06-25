@@ -1,1 +1,1 @@
-var mnemonic = "quiz you arctic option ring year goddess radio dizzy wonder buyer evoke";
+var mnemonic = "physical traffic adjust tree planet apology venue clay winner meadow dance cash";

@@ -1,1 +1,1 @@
-var mnemonic = "proof merit faint gown aisle evil mountain bundle pave bone erupt improve";
+var mnemonic = "engage urban exact axis shy result fatigue gallery height lazy wisdom crumble";

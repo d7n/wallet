@@ -1,1 +1,1 @@
-var mnemonic = "scout energy curious process voyage sense salon lucky power seed check tuition";
+var mnemonic = "purity awful heavy approve floor client scrap flush amateur rally custom step";

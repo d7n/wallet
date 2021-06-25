@@ -1,1 +1,1 @@
-var mnemonic = "daring valve laundry december antique cancel girl royal jazz prosper measure choice";
+var mnemonic = "veteran easy menu trip oxygen foster ticket hunt pulp century rigid pipe";

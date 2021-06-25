@@ -1,1 +1,1 @@
-var mnemonic = "scorpion unlock brief screen symbol best general diamond solve lab lab loud";
+var mnemonic = "speed expand flag donkey gain vacant donate cinnamon truck hundred language all";

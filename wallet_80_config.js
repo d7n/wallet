@@ -1,1 +1,1 @@
-var mnemonic = "ill stereo bean shy room capable resemble scrub under nasty weird outside";
+var mnemonic = "chat arch tumble marble atom minimum later tool avoid boil all found";

@@ -1,1 +1,1 @@
-var mnemonic = "team cradle desk two seven crane laugh scorpion glance venture exhibit hurry";
+var mnemonic = "match album cabbage surge walk essay tobacco vapor voice keen body kind";

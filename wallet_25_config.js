@@ -1,1 +1,1 @@
-var mnemonic = "frame raven giant cry measure bulk disease garden thank suggest provide stage";
+var mnemonic = "loud skirt addict loan math reason help soul banana increase ramp zero";

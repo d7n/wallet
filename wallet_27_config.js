@@ -1,1 +1,1 @@
-var mnemonic = "shuffle rocket upgrade joke goose hedgehog excess gasp furnace judge wait basket";
+var mnemonic = "cluster run silver fever bottom cloud chief reflect lamp release uncle soda";

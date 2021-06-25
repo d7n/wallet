@@ -1,1 +1,1 @@
-var mnemonic = "muscle stool option glance device inflict shine pass bean weird riot human";
+var mnemonic = "video adjust filter transfer clarify night couple olympic tilt field oil begin";

@@ -1,1 +1,1 @@
-var mnemonic = "degree syrup since column whale weather antenna senior march hero month myself";
+var mnemonic = "stick earn seed easy around during auto demand illegal concert fat piece";

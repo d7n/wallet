@@ -1,1 +1,1 @@
-var mnemonic = "burst reject citizen design lecture duty hill spatial route awkward elder cotton";
+var mnemonic = "fabric jeans basket frozen swift sort document fortune mystery girl abandon half";

@@ -1,1 +1,1 @@
-var mnemonic = "brass slam include rural patient man damage tell area rack chronic volcano";
+var mnemonic = "faith muffin west mom scrub submit kiss glide approve tank brain then";

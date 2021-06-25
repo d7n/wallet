@@ -1,1 +1,1 @@
-var mnemonic = "alpha giant tail explain riot artwork summer brief crane dune special enter";
+var mnemonic = "major wrap multiply enforce lemon crowd dose hidden donor body pill excess";

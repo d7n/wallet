@@ -1,1 +1,1 @@
-var mnemonic = "dose wave fabric deal battle ribbon spider inject mobile shield wise pencil";
+var mnemonic = "fly loop open reflect lumber angry razor render evidence outer clarify gaze";

@@ -1,1 +1,1 @@
-var mnemonic = "parrot tourist ridge section person sniff minute coconut clerk double biology movie";
+var mnemonic = "bridge carry avocado icon shoe useful become cargo margin daughter stumble laundry";

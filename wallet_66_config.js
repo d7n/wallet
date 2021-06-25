@@ -1,1 +1,1 @@
-var mnemonic = "payment civil notable tragic board soft salon curve wet vague tissue bicycle";
+var mnemonic = "mansion real wish follow plastic dove argue clutch unique agent shallow demand";

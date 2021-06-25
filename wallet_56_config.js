@@ -1,1 +1,1 @@
-var mnemonic = "capable symbol ask average lawsuit tree hybrid half march rather depth section";
+var mnemonic = "local castle gossip skull unit bring accuse blast oyster october neutral snow";

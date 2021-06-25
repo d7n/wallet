@@ -1,1 +1,1 @@
-var mnemonic = "park hill ostrich female salute amateur maid near evidence mad among lunch";
+var mnemonic = "scan pool burst hero task fade disorder enemy grab brown flag glory";

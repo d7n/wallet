@@ -1,1 +1,1 @@
-var mnemonic = "fix village input ginger defy right tilt famous lab enjoy web food";
+var mnemonic = "bomb normal drive build flight liberty save athlete slice drink clump fall";

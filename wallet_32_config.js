@@ -1,1 +1,1 @@
-var mnemonic = "cry cargo spider kangaroo vapor daring apology undo envelope zebra combine flock";
+var mnemonic = "that gorilla open loud hood music join casino air must float tenant";

@@ -1,1 +1,1 @@
-var mnemonic = "recipe exist hope mutual name quote know drama family seven scrub code";
+var mnemonic = "load feel deal tumble narrow climb artefact deposit soul melody gravity crawl";

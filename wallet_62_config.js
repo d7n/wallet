@@ -1,1 +1,1 @@
-var mnemonic = "steel fence vague version quantum sponsor fury cushion life steel kingdom casual";
+var mnemonic = "abuse monster trouble abstract refuse gravity wing pill walnut banana fall spot";

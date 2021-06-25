@@ -1,1 +1,1 @@
-var mnemonic = "asset army bronze copper impose bridge select lumber rookie dismiss radio absorb";
+var mnemonic = "hollow festival buyer leg worth okay glue useful east attract echo double";

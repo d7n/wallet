@@ -1,1 +1,1 @@
-var mnemonic = "dirt essay vivid rude indicate estate artwork gasp normal layer gospel exit";
+var mnemonic = "staff achieve bronze goddess horror upper vital pass balance cupboard option disease";

@@ -1,1 +1,1 @@
-var mnemonic = "glove caught old submit wing eye below write office upgrade husband notice";
+var mnemonic = "car custom advance aware trash slow despair situate peasant december sunny permit";

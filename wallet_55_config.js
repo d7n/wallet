@@ -1,1 +1,1 @@
-var mnemonic = "awake swim whisper offer teach suffer soccer rescue recycle easy ten crystal";
+var mnemonic = "oyster toddler foam curve kit group chalk month jaguar capable cushion athlete";

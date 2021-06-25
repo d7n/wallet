@@ -1,1 +1,1 @@
-var mnemonic = "stone lecture stone used service alien cost exist cupboard icon sad reflect";
+var mnemonic = "reveal assist cage home merit endless amused crew keen pear allow step";

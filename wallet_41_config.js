@@ -1,1 +1,1 @@
-var mnemonic = "total decline book fun maple you today latin open provide desert dune";
+var mnemonic = "inherit bronze victory carry sunny refuse stem cave equip language use aunt";

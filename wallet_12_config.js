@@ -1,1 +1,1 @@
-var mnemonic = "faith raccoon chef shift blind later uncover bind all process affair nothing";
+var mnemonic = "exact language search beach shy casual grief misery quit parrot direct swing";

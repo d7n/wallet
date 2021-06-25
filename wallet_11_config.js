@@ -1,1 +1,1 @@
-var mnemonic = "spread junk margin kite inside oyster genius family castle arena alley leg";
+var mnemonic = "extend reward chicken meadow artefact retreat parent gesture wait label day shrimp";

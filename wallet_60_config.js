@@ -1,1 +1,1 @@
-var mnemonic = "recycle guilt cool olympic myself blanket diesel green coconut rate cigar polar";
+var mnemonic = "chaos mix torch enforce off love cheap demise elder angry phone rent";

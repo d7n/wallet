@@ -1,1 +1,1 @@
-var mnemonic = "benefit card nurse jump december plate juice unfold dirt road race will";
+var mnemonic = "glimpse couch retreat extra aisle moon battle accident baby leopard pattern become";

@@ -1,1 +1,1 @@
-var mnemonic = "virtual elbow vital relax spice upset carbon radar media side fuel walnut";
+var mnemonic = "scene toddler method approve exotic just horse gun keep nasty sing green";

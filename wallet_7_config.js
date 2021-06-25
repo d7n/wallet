@@ -1,1 +1,1 @@
-var mnemonic = "champion balcony surface route cancel tiger stock dismiss engage resource congress horror";
+var mnemonic = "walk black style price awful credit budget explain purpose weekend sample seminar";

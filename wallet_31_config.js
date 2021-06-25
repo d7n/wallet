@@ -1,1 +1,1 @@
-var mnemonic = "ladder trust impose reject copy photo satisfy puppy argue nerve blossom other";
+var mnemonic = "wage define output law mention trial struggle island insane tip poem ecology";

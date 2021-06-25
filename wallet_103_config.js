@@ -1,1 +1,1 @@
-var mnemonic = "donor wheat sword aerobic pretty lamp category maid mutual element curve wolf";
+var mnemonic = "potato peasant dress also retreat own cloud second minimum barely key phrase";

@@ -1,1 +1,1 @@
-var mnemonic = "figure powder future hire addict mansion ivory village decade select faculty couple";
+var mnemonic = "lecture utility blush swarm fluid bench walk resist asset bitter camp guess";

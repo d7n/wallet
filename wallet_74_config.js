@@ -1,1 +1,1 @@
-var mnemonic = "license street speak define elder drama piece casino sustain address flavor fade";
+var mnemonic = "own occur wave unfold aisle dinosaur robust veteran minute pyramid say token";

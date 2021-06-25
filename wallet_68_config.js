@@ -1,1 +1,1 @@
-var mnemonic = "quantum guess mandate cargo brave kid effort jar enhance invest order clock";
+var mnemonic = "board surge leader volume else window now resource inspire tilt royal hamster";

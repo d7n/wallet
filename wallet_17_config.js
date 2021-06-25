@@ -1,1 +1,1 @@
-var mnemonic = "canal stamp nominee vessel young rice globe dad cause never receive myself";
+var mnemonic = "supreme cram embark beef artwork plug strong nose yard inflict mechanic drink";

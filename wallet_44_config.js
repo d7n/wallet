@@ -1,1 +1,1 @@
-var mnemonic = "control observe picture razor lunar mind pull width insect account approve festival";
+var mnemonic = "december mom impact kind enhance reopen banner naive embody salt word climb";

@@ -1,1 +1,1 @@
-var mnemonic = "orchard pencil solar lady hint civil evolve turn couple cluster correct window";
+var mnemonic = "blade student member brush kind bonus immense bridge leaf polar toddler mention";

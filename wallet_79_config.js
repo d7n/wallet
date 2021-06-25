@@ -1,1 +1,1 @@
-var mnemonic = "impact surprise lab brown swift soul arrange latin steak alpha sun capable";
+var mnemonic = "ready audit blade dinner great tail palm hurry chapter soldier purchase reflect";

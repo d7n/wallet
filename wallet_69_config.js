@@ -1,1 +1,1 @@
-var mnemonic = "month action act oxygen print breeze rich similar million amount explain common";
+var mnemonic = "elegant doctor swim cabbage swing ill mind proof carry dust slam season";

@@ -1,1 +1,1 @@
-var mnemonic = "market collect bronze wine purpose sniff vivid wave brush upgrade forget assault";
+var mnemonic = "one village race gossip visit raccoon burst around pipe glance comic open";

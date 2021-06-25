@@ -1,1 +1,1 @@
-var mnemonic = "help crucial print brain scrap point forward govern exotic universe surface source";
+var mnemonic = "shed again critic enlist office color myth proof scheme wheel burst year";

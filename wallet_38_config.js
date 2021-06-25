@@ -1,1 +1,1 @@
-var mnemonic = "bulk asset awful shove reflect black noise access nerve endless wreck nasty";
+var mnemonic = "average embark pumpkin drink decade wet lunar erase cotton source club guard";

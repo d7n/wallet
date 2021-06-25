@@ -1,1 +1,1 @@
-var mnemonic = "hard slogan border pen wing picnic surface divert gas install fruit swamp";
+var mnemonic = "problem remain palace village street decorate harvest spell frown liberty mercy mountain";

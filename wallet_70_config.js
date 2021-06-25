@@ -1,1 +1,1 @@
-var mnemonic = "taste please damp absent damage olive level pig trust alpha yellow slice";
+var mnemonic = "attend dish come release burst number step cabin attitude relax solve beauty";

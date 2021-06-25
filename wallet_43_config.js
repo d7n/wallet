@@ -1,1 +1,1 @@
-var mnemonic = "marine canoe swap devote detect donate eye power congress own awful wrist";
+var mnemonic = "rug memory catch kind dry flower town result cover tilt found hungry";

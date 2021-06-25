@@ -1,1 +1,1 @@
-var mnemonic = "pilot october skill general bulb theme cabbage usage body round business donate";
+var mnemonic = "truth strike ring ice piece pistol certain mom season teach stairs fatigue";

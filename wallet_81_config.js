@@ -1,1 +1,1 @@
-var mnemonic = "churn orchard material wire slide pudding impact library rotate sight glimpse reform";
+var mnemonic = "era staff wing minor elder broccoli outdoor door drink security diet vehicle";

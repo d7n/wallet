@@ -1,1 +1,1 @@
-var mnemonic = "comic laptop rule cube bench admit exotic twin hard bamboo senior echo";
+var mnemonic = "dumb noodle town vehicle know glare dumb ranch tape pool mean expect";

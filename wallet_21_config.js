@@ -1,1 +1,1 @@
-var mnemonic = "gun catalog volcano upset borrow ship tumble depend exhaust ensure mule glide";
+var mnemonic = "liberty fence assist sunset express explain diesel confirm ghost fresh space muscle";

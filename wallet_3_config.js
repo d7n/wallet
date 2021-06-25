@@ -1,1 +1,1 @@
-var mnemonic = "peanut bamboo million survey mixture element nation outside unaware endless stumble rug";
+var mnemonic = "spray afford defy anger panda judge resemble decline country ship nuclear night";

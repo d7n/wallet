@@ -1,1 +1,1 @@
-var mnemonic = "pulp novel polar differ lunar differ awkward license call brass scrub almost";
+var mnemonic = "crawl cute program thumb hen smooth try kiwi fury actor into census";

@@ -1,1 +1,1 @@
-var mnemonic = "moment flock daring way same apple song word neck ill frown shoot";
+var mnemonic = "announce type tiny smoke stage under wing ridge glass better around primary";

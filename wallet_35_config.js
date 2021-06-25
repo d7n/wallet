@@ -1,1 +1,1 @@
-var mnemonic = "team profit zero cable turkey scissors wet thank stadium gravity alcohol key";
+var mnemonic = "bomb equip fine scorpion hover royal bridge junk dolphin fury soldier fan";

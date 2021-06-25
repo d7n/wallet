@@ -1,1 +1,1 @@
-var mnemonic = "still survey okay sugar visit upon charge swarm adapt life paddle family";
+var mnemonic = "law earn blouse world actor dentist more vicious kangaroo north stand gas";

@@ -1,1 +1,1 @@
-var mnemonic = "wealth genuine burst combine educate forest must kind panther pill olympic gate";
+var mnemonic = "quantum skull plate salad fork goddess squirrel gap pool post resemble nasty";

@@ -1,1 +1,1 @@
-var mnemonic = "wheat reward cream idle lottery elegant idea easy brain robot common exact";
+var mnemonic = "forest slot grit person embody coach pulse manage twin puzzle tail machine";

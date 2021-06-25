@@ -1,1 +1,1 @@
-var mnemonic = "quote open funny gravity course ill fiction carry equip next bag present";
+var mnemonic = "mask audit regret split car motor provide problem potato urban wear melt";

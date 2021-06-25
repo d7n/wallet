@@ -1,1 +1,1 @@
-var mnemonic = "scorpion seed noodle vote over twice spare drastic glad eager keep evil";
+var mnemonic = "rude method nature sadness lend immune drama pet language skate cross fish";

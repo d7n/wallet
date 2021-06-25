@@ -1,1 +1,1 @@
-var mnemonic = "obey month borrow panda assume auction art swarm survey copy category final";
+var mnemonic = "squeeze fetch dance must earth clerk three earth clay valid produce earth";

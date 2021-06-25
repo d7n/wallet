@@ -1,1 +1,1 @@
-var mnemonic = "chapter salmon song noble can march often address make tornado young visual";
+var mnemonic = "biology clog tuna session remain athlete sort analyst toast vendor merry surface";

@@ -1,1 +1,1 @@
-var mnemonic = "analyst twelve convince welcome connect salad blast winner under bone silver dumb";
+var mnemonic = "poet chimney reunion member crime hidden invest harbor toddler jungle december ankle";

@@ -1,1 +1,1 @@
-var mnemonic = "clerk forest target split stumble salmon kite dream video anger plug atom";
+var mnemonic = "history sock jungle twenty banana erase wire health kite volcano over swift";

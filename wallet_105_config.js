@@ -1,1 +1,1 @@
-var mnemonic = "innocent bridge weapon grief humble chef essay asthma health ancient aspect divorce";
+var mnemonic = "crunch virus gather outer cross steak annual author tilt jealous hover opinion";

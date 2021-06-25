@@ -1,1 +1,1 @@
-var mnemonic = "hole dawn tell juice glow scheme under wisdom erode bunker glad forward";
+var mnemonic = "ladder audit network acid region off december slice evoke churn loop under";

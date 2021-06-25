@@ -1,1 +1,1 @@
-var mnemonic = "degree pumpkin ski good issue whip theory video mind glare input sweet";
+var mnemonic = "giraffe depth property urge burger zone movie seek amateur knife evolve frequent";

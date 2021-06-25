@@ -1,1 +1,1 @@
-var mnemonic = "permit rabbit market coin range media furnace aware baby wrestle horse table";
+var mnemonic = "enrich culture inquiry try six law pool jeans milk enforce rapid family";

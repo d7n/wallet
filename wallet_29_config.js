@@ -1,1 +1,1 @@
-var mnemonic = "slim prize fragile pave address fall edge another pool athlete paper lyrics";
+var mnemonic = "riot soup jazz certain broom fine aim myth together lonely bullet debate";

@@ -1,1 +1,1 @@
-var mnemonic = "wrong inhale globe panel aspect ski auction fee alert kitchen tomorrow hamster";
+var mnemonic = "version paddle matter cup ignore dish monitor hard helmet topic engage reveal";

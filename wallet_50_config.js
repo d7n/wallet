@@ -1,1 +1,1 @@
-var mnemonic = "casual earth submit pencil dentist glue occur good keep cube margin music";
+var mnemonic = "frog spot rural soup minimum easily strike execute spend stand income innocent";

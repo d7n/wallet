@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin stage wrestle harsh humor churn enter donkey alley bridge gaze subject";
+var mnemonic = "summer tape task scatter reduce fortune fee bundle round design fatal price";

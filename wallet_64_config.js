@@ -1,1 +1,1 @@
-var mnemonic = "swap artist tongue canyon accuse parade proof cargo north story point drop";
+var mnemonic = "menu endorse rescue deputy want sell toast cat trophy one trigger forget";

@@ -1,1 +1,1 @@
-var mnemonic = "pig hour reform rice prosper worth rough kiwi symbol snow input popular";
+var mnemonic = "have edit turn tattoo swear unlock collect hurdle grit walk seven spread";

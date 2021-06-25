@@ -1,1 +1,1 @@
-var mnemonic = "wedding basket tag sick inflict oven until gun invite crazy antenna mass";
+var mnemonic = "angry taxi unveil pluck twin exist tongue piano album carpet cage canoe";

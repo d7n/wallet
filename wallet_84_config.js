@@ -1,1 +1,1 @@
-var mnemonic = "just like shoe actual rocket real antenna slush uncover entry grief ostrich";
+var mnemonic = "audit laugh rude girl wild robust antique surge estate supply deer december";

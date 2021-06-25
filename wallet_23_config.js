@@ -1,1 +1,1 @@
-var mnemonic = "process elephant portion young tape skate famous tennis beef swallow avocado refuse";
+var mnemonic = "disagree spirit there side rapid rhythm vapor remember until skin jaguar chicken";

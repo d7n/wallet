@@ -1,1 +1,1 @@
-var mnemonic = "oval grid win wonder dog safe castle laptop acid stone fury crawl";
+var mnemonic = "fossil kangaroo enable ribbon hover permit hobby fog venue usual goddess shaft";

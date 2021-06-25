@@ -1,1 +1,1 @@
-var mnemonic = "bright typical key rapid trouble prefer oven end sheriff suffer claim lamp";
+var mnemonic = "deny galaxy parade else consider venture plate else transfer canvas since belt";

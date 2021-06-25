@@ -1,1 +1,1 @@
-var mnemonic = "disease display warrior logic mixed ancient desk above culture size man yellow";
+var mnemonic = "solve truck learn method settle notice federal tape rude fade large dust";

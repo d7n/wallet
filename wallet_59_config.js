@@ -1,1 +1,1 @@
-var mnemonic = "bright emotion fiscal drip educate donkey retreat method nothing struggle sustain decade";
+var mnemonic = "industry reward humble gravity south dad cat axis unit digital hazard sure";

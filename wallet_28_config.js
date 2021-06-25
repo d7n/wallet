@@ -1,1 +1,1 @@
-var mnemonic = "aware subway small caution pulse delay upon solar hedgehog pony venture coral";
+var mnemonic = "banner arctic grocery clown story neck reform diesel junk recycle liar olive";
