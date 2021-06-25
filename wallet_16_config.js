@@ -1,1 +1,1 @@
-var mnemonic = "response nation pattern manual idea dentist palm lounge velvet elegant vault turn";
+var mnemonic = "grocery comfort knee spot tray elite noise nature limb butter grab machine";

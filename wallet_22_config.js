@@ -1,1 +1,1 @@
-var mnemonic = "trophy injury once merit fork letter screen eight monitor fault merry clog";
+var mnemonic = "ring upon shift bulb bulb bring recipe cool surge gravity clerk offer";

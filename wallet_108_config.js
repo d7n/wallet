@@ -1,1 +1,1 @@
-var mnemonic = "feel arrive angle throw ghost planet flush object grant course episode lyrics";
+var mnemonic = "happy build journey wear indoor only level banner task daughter flower approve";

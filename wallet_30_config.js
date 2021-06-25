@@ -1,1 +1,1 @@
-var mnemonic = "need junior cloth weasel useful carbon quantum salt universe junk purity giant";
+var mnemonic = "grunt tobacco fluid knock peasant result amused close battle select baby movie";

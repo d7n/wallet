@@ -1,1 +1,1 @@
-var mnemonic = "keep dash flush between hip couch daring pepper income later nut essay";
+var mnemonic = "improve rookie truly village range mail tank excess amused guard ozone stairs";

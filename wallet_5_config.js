@@ -1,1 +1,1 @@
-var mnemonic = "oven brown ostrich latin cradle laptop myself add endless agree chalk warm";
+var mnemonic = "lizard solution until digital fashion confirm unhappy eager type ceiling giggle hill";

@@ -1,1 +1,1 @@
-var mnemonic = "mutual dove direct flee debris involve pass banana bean squirrel car enough";
+var mnemonic = "wife before seven infant trouble pelican daring peanut system tower over enroll";

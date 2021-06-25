@@ -1,1 +1,1 @@
-var mnemonic = "cover mad dumb wrap catch tuna obey wool basket mango bid unfold";
+var mnemonic = "park mystery jelly dirt prefer inject affair limb avoid bridge absent link";

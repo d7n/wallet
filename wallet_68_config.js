@@ -1,1 +1,1 @@
-var mnemonic = "cabin kit palm aware neither utility barrel manual mirror swallow lottery weekend";
+var mnemonic = "spray hold movie adult decline pyramid same pact fence alley apart they";

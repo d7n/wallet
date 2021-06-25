@@ -1,1 +1,1 @@
-var mnemonic = "similar cluster cruel win wise ugly solution spell public horror bubble shop";
+var mnemonic = "ten fiction ribbon fatigue ribbon holiday bracket miss once work shock credit";

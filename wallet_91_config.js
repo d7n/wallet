@@ -1,1 +1,1 @@
-var mnemonic = "menu follow large holiday cattle doctor screen silver bronze parrot chat require";
+var mnemonic = "scare chest repair carpet reason moment fragile spoon devote solid modify nice";

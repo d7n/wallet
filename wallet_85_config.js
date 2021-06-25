@@ -1,1 +1,1 @@
-var mnemonic = "prefer solid public barrel salute usual soccer fatal cause october fun gravity";
+var mnemonic = "random current axis long miss claim menu boost smoke frog polar link";

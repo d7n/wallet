@@ -1,1 +1,1 @@
-var mnemonic = "verb goat either desk mind style into unaware hip oven chase swing";
+var mnemonic = "donkey confirm sauce reason robust prevent waste method symptom chest mask error";

@@ -1,1 +1,1 @@
-var mnemonic = "cash giraffe noise audit symbol toast chunk ethics coil aunt bonus depart";
+var mnemonic = "dial field clean salmon skate hair flip valve level term gentle public";

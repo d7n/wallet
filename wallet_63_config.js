@@ -1,1 +1,1 @@
-var mnemonic = "card motion slam hotel diamond network innocent belt sweet depth bacon present";
+var mnemonic = "flock piece flame genius punch furnace pattern depend movie crash caution true";

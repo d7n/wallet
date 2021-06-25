@@ -1,1 +1,1 @@
-var mnemonic = "loop verb giant solution crucial curtain cash garbage inspire thunder month either";
+var mnemonic = "weather buyer stereo record erosion clerk unfair old panther curious cram celery";

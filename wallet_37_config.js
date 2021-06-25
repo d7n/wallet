@@ -1,1 +1,1 @@
-var mnemonic = "work shy infant camera winner pony kiwi open foot lady print basic";
+var mnemonic = "settle kind side school lobster tooth mosquito bargain record easy winner rescue";

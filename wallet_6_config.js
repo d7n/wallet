@@ -1,1 +1,1 @@
-var mnemonic = "credit end wagon moral nation dilemma sea express little brass fancy dash";
+var mnemonic = "luggage snake essence law you vague lake bird blood crane hole market";

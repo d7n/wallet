@@ -1,1 +1,1 @@
-var mnemonic = "fun boy about sauce pumpkin sword parent child filter wrong tilt level";
+var mnemonic = "emotion object another marble solve will opinion flag waste pluck mask dust";

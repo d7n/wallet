@@ -1,1 +1,1 @@
-var mnemonic = "heart lion lab sniff never unable thank device elite embody audit rifle";
+var mnemonic = "gap elephant perfect wet fluid utility culture auction income camp gesture regret";

@@ -1,1 +1,1 @@
-var mnemonic = "tribe pepper ritual exclude village struggle heavy goddess cool inside ski merit";
+var mnemonic = "segment disorder rubber maze coffee must video forget stamp agree fame patrol";

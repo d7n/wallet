@@ -1,1 +1,1 @@
-var mnemonic = "orange nice dismiss vocal fade sweet gift naive feed tragic radio mosquito";
+var mnemonic = "please cancel leader battle repeat prosper come balance truck initial believe brave";

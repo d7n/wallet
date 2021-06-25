@@ -1,1 +1,1 @@
-var mnemonic = "question ritual strong loyal guide indicate follow grief faculty baby tiger income";
+var mnemonic = "hotel speed envelope shrimp reason universe country glass outside hill cry kingdom";

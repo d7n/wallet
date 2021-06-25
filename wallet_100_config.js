@@ -1,1 +1,1 @@
-var mnemonic = "cheese trumpet october found staff afford chalk month lift tuna leader quarter";
+var mnemonic = "habit night fiction draft great bar range thank doll annual note hat";

@@ -1,1 +1,1 @@
-var mnemonic = "parade paper cupboard opera history manage ramp team matter endorse oxygen maximum";
+var mnemonic = "explain drama powder cereal since rebel gorilla divide grit tent awesome dust";

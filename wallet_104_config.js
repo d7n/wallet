@@ -1,1 +1,1 @@
-var mnemonic = "ten cliff raise sight jar cry artist alone great unit below fault";
+var mnemonic = "ugly leg wonder master luxury nest liar scare off lecture runway unfair";

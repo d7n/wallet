@@ -1,1 +1,1 @@
-var mnemonic = "fabric pride jeans hazard token arrange salad magic mind ensure economy zero";
+var mnemonic = "maximum expire tourist manual math sort start broccoli coconut artwork neck diesel";

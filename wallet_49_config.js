@@ -1,1 +1,1 @@
-var mnemonic = "favorite endorse over tonight summer start bulk lend critic pass crater gentle";
+var mnemonic = "spice blouse ghost inspire brass become believe lesson grocery keep shell absorb";

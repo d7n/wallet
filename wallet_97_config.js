@@ -1,1 +1,1 @@
-var mnemonic = "paddle treat gate find siege churn attack absent seed meadow wife marine";
+var mnemonic = "victory light bid hour kid tell because lazy call squirrel century exit";

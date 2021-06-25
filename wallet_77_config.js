@@ -1,1 +1,1 @@
-var mnemonic = "code life arrow pull frog potato bundle jump nephew misery earn mimic";
+var mnemonic = "produce umbrella trash unveil push liberty expect fury indoor envelope chimney mix";

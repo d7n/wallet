@@ -1,1 +1,1 @@
-var mnemonic = "sing silver chuckle middle degree setup rural like oyster card pitch april";
+var mnemonic = "casual prosper door lake tomato use mad history cash genuine sweet define";

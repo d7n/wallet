@@ -1,1 +1,1 @@
-var mnemonic = "wait shaft bright gravity desert twelve method bid like hollow tourist chase";
+var mnemonic = "multiply increase focus piano pilot fly disease ginger warrior mule fetch cause";

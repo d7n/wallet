@@ -1,1 +1,1 @@
-var mnemonic = "random color merge mean glove napkin series crazy area give stage path";
+var mnemonic = "there south lizard exercise firm retreat father prepare loud since program forward";

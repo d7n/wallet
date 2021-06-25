@@ -1,1 +1,1 @@
-var mnemonic = "sell lawsuit brave vapor rice absorb galaxy unit tape blur apology people";
+var mnemonic = "labor super theme future ugly much fetch common whale youth author road";

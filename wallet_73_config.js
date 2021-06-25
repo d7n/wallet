@@ -1,1 +1,1 @@
-var mnemonic = "index dust cliff know mean mouse cube quote fossil chalk chase exhaust";
+var mnemonic = "chimney monster lady segment away fog bomb donkey distance poem laugh denial";

@@ -1,1 +1,1 @@
-var mnemonic = "square mango rescue athlete rally unlock kiwi wood profit chalk coral spray";
+var mnemonic = "skill labor shine draw exit result gauge faint sunset cinnamon next impact";

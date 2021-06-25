@@ -1,1 +1,1 @@
-var mnemonic = "cotton engine road alarm damp payment math desert sea lunch easily junior";
+var mnemonic = "fiscal mutual correct razor table snake tortoise net toe predict spatial soon";

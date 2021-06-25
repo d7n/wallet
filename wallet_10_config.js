@@ -1,1 +1,1 @@
-var mnemonic = "power long unlock book moment vocal accident rose orbit ripple road type";
+var mnemonic = "hamster random blanket fall gospel tiger charge room into identify recall chronic";

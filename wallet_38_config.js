@@ -1,1 +1,1 @@
-var mnemonic = "taste grief casual brand such object woman verify proud brass ostrich kidney";
+var mnemonic = "such wagon profit erupt steak multiply foam flavor fox round express husband";

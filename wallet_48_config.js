@@ -1,1 +1,1 @@
-var mnemonic = "bike world urge imitate can spy mix honey neither ramp tide common";
+var mnemonic = "hazard unknown silk team nose lunar corn occur coach memory deer opera";

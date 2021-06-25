@@ -1,1 +1,1 @@
-var mnemonic = "noodle gift ensure menu aspect nice chase balance buffalo track amount cycle";
+var mnemonic = "execute wheel such drum family large anxiety slight beauty wink average spoil";

@@ -1,1 +1,1 @@
-var mnemonic = "unveil patch auto lumber furnace brief camera helmet film glory degree atom";
+var mnemonic = "patch wire size tumble magnet brief enjoy office taste raccoon click mad";

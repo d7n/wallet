@@ -1,1 +1,1 @@
-var mnemonic = "you style nurse main rice winter strong produce behind review zebra help";
+var mnemonic = "spy rotate choose frequent parent unveil outer view warrior invest much young";

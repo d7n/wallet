@@ -1,1 +1,1 @@
-var mnemonic = "connect motor spring million swear soap just that thunder apart welcome shed";
+var mnemonic = "regret pill drop rookie mass magnet piano pill vivid grape spider receive";

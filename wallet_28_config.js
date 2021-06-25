@@ -1,1 +1,1 @@
-var mnemonic = "rather cement flag virtual album parade anxiety upgrade aisle truth mail occur";
+var mnemonic = "copy train autumn farm crop buddy spider pelican other rack catch apart";

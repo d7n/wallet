@@ -1,1 +1,1 @@
-var mnemonic = "rose pluck hunt bundle again state have spike update amazing name diagram";
+var mnemonic = "addict lazy galaxy sausage accuse snake gift situate useless outer ski island";

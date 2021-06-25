@@ -1,1 +1,1 @@
-var mnemonic = "arena afraid shove fatal keen mesh strike dizzy order clown chief merit";
+var mnemonic = "burger patient rough school nasty source route fruit certain gate plastic syrup";

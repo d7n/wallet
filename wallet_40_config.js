@@ -1,1 +1,1 @@
-var mnemonic = "pave dragon salmon will stove catch depend collect album enjoy marble liberty";
+var mnemonic = "lazy faculty chunk naive elbow walk social black such blouse top cargo";

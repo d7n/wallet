@@ -1,1 +1,1 @@
-var mnemonic = "stool flip orphan vendor wood napkin intact tumble drink tornado diet venue";
+var mnemonic = "special upgrade alert between normal final cross oval nominee brass increase emotion";

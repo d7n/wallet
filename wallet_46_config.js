@@ -1,1 +1,1 @@
-var mnemonic = "question vacant discover pole story enemy country proof social cereal wonder fatigue";
+var mnemonic = "cash slush meadow box save ozone hurt afford mask fruit bounce shock";

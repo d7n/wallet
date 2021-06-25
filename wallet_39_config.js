@@ -1,1 +1,1 @@
-var mnemonic = "whale wrong seed pyramid excuse art arrest suspect stuff sunny chat mixed";
+var mnemonic = "equal siren achieve theory culture rather iron notice note ancient grab obtain";

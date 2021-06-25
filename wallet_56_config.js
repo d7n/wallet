@@ -1,1 +1,1 @@
-var mnemonic = "assault sunny fatigue speed used elevator scare fever use figure net spread";
+var mnemonic = "actor blade step give smooth weird life tennis food eternal era swear";

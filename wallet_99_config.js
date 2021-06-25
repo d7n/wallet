@@ -1,1 +1,1 @@
-var mnemonic = "silver toy arch pole youth champion tissue ahead lucky bullet proud ready";
+var mnemonic = "long hamster snow river reject engage warm mystery wedding license inhale punch";

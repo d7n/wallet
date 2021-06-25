@@ -1,1 +1,1 @@
-var mnemonic = "sand dirt rude law baby indicate lawn race course book license fame";
+var mnemonic = "dentist rival corn predict shine color open tragic little knife mandate sell";

@@ -1,1 +1,1 @@
-var mnemonic = "giraffe picture hill avocado smooth eyebrow road gas canal ice patch feel";
+var mnemonic = "snow object shuffle verify nasty result pilot expire guilt nothing lottery sport";

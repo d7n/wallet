@@ -1,1 +1,1 @@
-var mnemonic = "almost limb situate envelope attract wood unable screen brown slice solid vacant";
+var mnemonic = "blame fossil liberty luggage quality piano viable host walk purpose young injury";

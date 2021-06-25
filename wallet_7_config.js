@@ -1,1 +1,1 @@
-var mnemonic = "assume shallow tool couch wing lawsuit guitar argue flash enforce swarm enlist";
+var mnemonic = "board unusual harbor abandon acquire onion early idea amazing link liar casual";

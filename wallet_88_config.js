@@ -1,1 +1,1 @@
-var mnemonic = "trust patient polar click return bounce basket grit tattoo fork sad tongue";
+var mnemonic = "age element toy uphold clip across mean clever behave put female endless";

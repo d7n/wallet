@@ -1,1 +1,1 @@
-var mnemonic = "rule cage young shallow blossom hour protect thought sure chimney calm marriage";
+var mnemonic = "bus release cinnamon midnight dizzy maid horse document stomach birth dignity cross";

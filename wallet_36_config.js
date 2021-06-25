@@ -1,1 +1,1 @@
-var mnemonic = "boy disease coach veteran pen shed dish brown alcohol genius hat silk";
+var mnemonic = "resemble coral ribbon battle table battle sniff night border ship suspect suggest";

@@ -1,1 +1,1 @@
-var mnemonic = "coach prepare before absurd chapter corn bulb vintage myth toast plastic kick";
+var mnemonic = "coin obvious merit initial aunt disorder brown achieve valve club bitter toy";

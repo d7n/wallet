@@ -1,1 +1,1 @@
-var mnemonic = "roast charge sausage clerk then smile key game dirt chat pelican text";
+var mnemonic = "recall salmon rather fury fragile desert voyage gym drip coral charge nerve";

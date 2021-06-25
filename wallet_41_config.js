@@ -1,1 +1,1 @@
-var mnemonic = "color wheat obvious act olympic roast stick record hub chaos inherit yard";
+var mnemonic = "length sleep offer unfold lawsuit bring tilt pitch addict okay burden final";

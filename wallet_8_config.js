@@ -1,1 +1,1 @@
-var mnemonic = "team apart artefact cushion disagree bleak finger suggest wash relief lamp gentle";
+var mnemonic = "east brain answer junior wear unusual tornado true atom repeat render owner";

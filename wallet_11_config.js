@@ -1,1 +1,1 @@
-var mnemonic = "try furnace balance finger tumble throw wild index elbow cook guide calm";
+var mnemonic = "about hood uncover amateur hungry impulse border dwarf effort evolve fancy banana";

@@ -1,1 +1,1 @@
-var mnemonic = "gravity direct alpha bone hockey sock fame dad taxi spoil near stool";
+var mnemonic = "since boost senior soul solid yellow thought ten twin duty warrior question";

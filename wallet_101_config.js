@@ -1,1 +1,1 @@
-var mnemonic = "under crystal degree tornado push spoon spice scatter patient valve nose recall";
+var mnemonic = "gather coyote use warm glide panel poet bench digital shed change proud";

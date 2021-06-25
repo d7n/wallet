@@ -1,1 +1,1 @@
-var mnemonic = "duty chat quiz syrup breeze panic castle tissue inch find interest escape";
+var mnemonic = "gorilla stuff young valley wonder magnet nose nut solar lunar anxiety mean";

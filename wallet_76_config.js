@@ -1,1 +1,1 @@
-var mnemonic = "cement bone tell luggage glimpse silk decide rack bulb topic quality cattle";
+var mnemonic = "left welcome warrior fiscal bind walnut scatter video medal lava laugh disease";

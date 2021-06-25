@@ -1,1 +1,1 @@
-var mnemonic = "swift young brand patient online enact click need square milk sweet shop";
+var mnemonic = "among now cross more hand extra aisle budget scout almost camera extend";

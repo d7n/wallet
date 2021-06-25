@@ -1,1 +1,1 @@
-var mnemonic = "evil waste snap swing combine much west matter list annual neutral black";
+var mnemonic = "bitter glue beach whisper few replace talk wild cry pelican poet mask";

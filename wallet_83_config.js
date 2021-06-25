@@ -1,1 +1,1 @@
-var mnemonic = "public soccer corn average multiply alone army mother grape can dinner swift";
+var mnemonic = "salon milk venue half ahead air pattern sponsor bench survey inquiry behave";

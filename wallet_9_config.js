@@ -1,1 +1,1 @@
-var mnemonic = "hockey casual normal hundred purchase group bread turtle swing promote mountain two";
+var mnemonic = "bargain sight gospel reason sustain leg idea piece kidney rotate valve render";

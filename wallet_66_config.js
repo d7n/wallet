@@ -1,1 +1,1 @@
-var mnemonic = "laptop debate cliff egg sugar desert draw thumb whale super purpose stick";
+var mnemonic = "today also desk behind film rhythm gorilla salute voice armed voyage embark";

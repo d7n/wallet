@@ -1,1 +1,1 @@
-var mnemonic = "nerve fortune tuition farm fly cry narrow direct inhale dish travel city";
+var mnemonic = "ripple journey pattern clown park tennis unknown laundry teach dial sell senior";

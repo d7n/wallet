@@ -1,1 +1,1 @@
-var mnemonic = "upper wrap cruel often plate special thought maze cream boost relax vague";
+var mnemonic = "moral penalty tragic destroy resemble degree margin normal lens repair remove recycle";

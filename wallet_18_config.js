@@ -1,1 +1,1 @@
-var mnemonic = "hurt style jelly trap program hazard hip party rough ride vote amateur";
+var mnemonic = "faith sock smart cricket bacon roof wagon venture erosion upgrade crumble meat";

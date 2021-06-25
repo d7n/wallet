@@ -1,1 +1,1 @@
-var mnemonic = "success blue wide eight title derive limit deal announce palace oyster appear";
+var mnemonic = "sail jaguar kiss cactus much weekend increase rude jealous innocent rural marble";

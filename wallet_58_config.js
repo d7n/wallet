@@ -1,1 +1,1 @@
-var mnemonic = "snap amount husband hammer burger open owner poet try middle patrol salmon";
+var mnemonic = "actress lesson blame youth chronic napkin cup husband bottom aisle cruise crack";

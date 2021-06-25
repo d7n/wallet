@@ -1,1 +1,1 @@
-var mnemonic = "hero ill piece embrace sponsor weapon loud draw service when art embody";
+var mnemonic = "emerge casual live neutral muscle match south height cheap special tray travel";

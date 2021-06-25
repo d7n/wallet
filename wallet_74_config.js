@@ -1,1 +1,1 @@
-var mnemonic = "mango have maple beef setup output coin toward weird pull fine apple";
+var mnemonic = "belt spider fashion bike kiwi symbol melt inject excite good feel retreat";

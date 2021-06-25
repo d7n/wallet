@@ -1,1 +1,1 @@
-var mnemonic = "train discover wealth reform catch pupil miracle climb outer chest shove lottery";
+var mnemonic = "stereo key dwarf turn ozone man fever miss jungle conduct match anxiety";

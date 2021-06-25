@@ -1,1 +1,1 @@
-var mnemonic = "labor little cup decade light gadget soda diet carpet dove toward all";
+var mnemonic = "uncover family birth pave brain trend family case very setup round couch";

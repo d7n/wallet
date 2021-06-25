@@ -1,1 +1,1 @@
-var mnemonic = "stadium ski begin laugh call stage marine weekend very account smart dumb";
+var mnemonic = "ride coach industry chapter vacuum regret visual female avoid reflect age dumb";

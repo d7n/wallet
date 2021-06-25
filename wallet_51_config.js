@@ -1,1 +1,1 @@
-var mnemonic = "leg vapor scheme assault world ritual unveil sword deputy strategy side cake";
+var mnemonic = "napkin dignity regular tenant final fantasy police avocado same inhale loop glass";

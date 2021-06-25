@@ -1,1 +1,1 @@
-var mnemonic = "opera gate abandon toe worry photo phone wise choose cool coach size";
+var mnemonic = "away hungry hockey coin neutral fall farm that elite caught april minor";
