@@ -1,1 +1,1 @@
-var mnemonic = "enlist play monitor pudding primary install affair moral sister west powder soda";
+var mnemonic = "spatial bleak increase banana sting scare first humor hidden nephew together spirit";

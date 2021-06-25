@@ -1,1 +1,1 @@
-var mnemonic = "core badge describe gold duck hunt region wedding okay bunker bicycle figure";
+var mnemonic = "poet life hip claim boring crumble since stage rural suspect display flip";

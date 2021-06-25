@@ -1,1 +1,1 @@
-var mnemonic = "task chair invite derive gossip action valve museum online coin grape dutch";
+var mnemonic = "sweet hurdle beauty tag solution guilt pair walnut crumble kid million fresh";

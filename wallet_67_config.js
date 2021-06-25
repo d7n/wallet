@@ -1,1 +1,1 @@
-var mnemonic = "actress ticket before genre sample subject inmate shaft review napkin unknown border";
+var mnemonic = "hurdle resemble verb panic upset term cricket zone marble smooth patient upper";

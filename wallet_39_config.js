@@ -1,1 +1,1 @@
-var mnemonic = "drill grape video predict viable divide trigger major rocket addict sketch soccer";
+var mnemonic = "way type audit aware vapor public grocery eyebrow tuna wood ostrich wheel";

@@ -1,1 +1,1 @@
-var mnemonic = "design police pretty link hidden exchange surge ability cricket digital promote easy";
+var mnemonic = "deal term into broccoli ranch cash hurt wonder energy switch render home";

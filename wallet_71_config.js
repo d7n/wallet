@@ -1,1 +1,1 @@
-var mnemonic = "hat soup push razor cute execute giant where happy celery pen choice";
+var mnemonic = "math practice comfort weasel floor special diary list drop mule blanket crumble";

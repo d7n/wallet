@@ -1,1 +1,1 @@
-var mnemonic = "peasant door icon coconut goose virtual also behave strong language all mosquito";
+var mnemonic = "dial dad hidden bread example wedding lonely island prevent unlock elevator trash";

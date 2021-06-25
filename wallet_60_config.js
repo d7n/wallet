@@ -1,1 +1,1 @@
-var mnemonic = "bronze annual census identify you toilet crunch spider orchard glide spoil original";
+var mnemonic = "patrol skin endorse first width elephant moon galaxy penalty trim crime interest";

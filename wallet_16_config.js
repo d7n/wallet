@@ -1,1 +1,1 @@
-var mnemonic = "iron human smooth buffalo smooth forget between stove chest actor alcohol ride";
+var mnemonic = "output exercise worry layer hurry race dragon glue fresh ready surface old";

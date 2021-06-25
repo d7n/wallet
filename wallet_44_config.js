@@ -1,1 +1,1 @@
-var mnemonic = "debate suffer cream floor egg month bunker tilt father group phone camera";
+var mnemonic = "razor season opera rocket vital fabric energy oak logic defense daughter fix";

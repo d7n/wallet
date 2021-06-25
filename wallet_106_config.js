@@ -1,1 +1,1 @@
-var mnemonic = "disagree strategy imitate below author famous parrot fine refuse help current devote";
+var mnemonic = "fabric peanut envelope tornado glow sheriff palm pudding advice isolate exhaust hurry";

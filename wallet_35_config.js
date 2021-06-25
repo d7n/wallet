@@ -1,1 +1,1 @@
-var mnemonic = "embody infant paper country cigar plastic correct crumble bargain misery spawn ketchup";
+var mnemonic = "come claw garbage key hole second there badge atom inherit miss effort";

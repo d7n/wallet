@@ -1,1 +1,1 @@
-var mnemonic = "good knife smooth polar process raw submit patient earn warfare canal coach";
+var mnemonic = "little gorilla kiss tuna draw budget resource wealth shed peanut today foot";

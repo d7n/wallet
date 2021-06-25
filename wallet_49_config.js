@@ -1,1 +1,1 @@
-var mnemonic = "slide cream surround armor safe laundry ring weird exercise push few potato";
+var mnemonic = "great truth short wing museum marble magic rate ethics ask chief aspect";

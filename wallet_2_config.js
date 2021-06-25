@@ -1,1 +1,1 @@
-var mnemonic = "ten spare rail invest ecology onion weasel hint glimpse despair vital small";
+var mnemonic = "disagree fiber spoil result cliff flock today skill bean equip subject auction";

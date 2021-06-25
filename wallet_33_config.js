@@ -1,1 +1,1 @@
-var mnemonic = "witness risk option wife hard combine easy brief coffee sister immune veteran";
+var mnemonic = "tail female region boy view slide angle stomach pair follow zebra crawl";

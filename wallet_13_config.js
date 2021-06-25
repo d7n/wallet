@@ -1,1 +1,1 @@
-var mnemonic = "refuse engage cook congress squirrel cement staff solar churn quit lucky blouse";
+var mnemonic = "faint appear powder trash timber author minor token work broken solar regret";

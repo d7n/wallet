@@ -1,1 +1,1 @@
-var mnemonic = "width doll snake rude cactus trial trim what fiber art arctic soldier";
+var mnemonic = "neutral proud modify great sustain pilot praise fruit angle render indoor original";

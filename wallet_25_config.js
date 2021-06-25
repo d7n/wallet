@@ -1,1 +1,1 @@
-var mnemonic = "grid member kitchen welcome hotel december lecture uncover grace judge observe morning";
+var mnemonic = "wet imitate warrior apple nephew cat sail myself circle inject tornado climb";

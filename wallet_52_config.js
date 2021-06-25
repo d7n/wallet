@@ -1,1 +1,1 @@
-var mnemonic = "tired observe symptom loyal illegal rather critic leader guess tourist much common";
+var mnemonic = "summer rule borrow walnut hotel trick trip country appear hope crouch end";

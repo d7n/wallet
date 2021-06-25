@@ -1,1 +1,1 @@
-var mnemonic = "payment phone stumble catalog timber device myself episode magnet pilot trial ribbon";
+var mnemonic = "there solar debris sort other talent urge rocket circle picture artwork pizza";

@@ -1,1 +1,1 @@
-var mnemonic = "benefit salmon brass lazy correct rude bridge excite build voyage trick person";
+var mnemonic = "jacket example upgrade armor broken luggage diagram antenna believe critic cotton burger";

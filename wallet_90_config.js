@@ -1,1 +1,1 @@
-var mnemonic = "surface banner fitness detail basket page exile slide parade young oppose error";
+var mnemonic = "rare senior chat wool juice work write adult soap grab castle access";

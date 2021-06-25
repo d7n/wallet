@@ -1,1 +1,1 @@
-var mnemonic = "just spirit call initial gain mother trip attend essay long tired skate";
+var mnemonic = "situate cable prison enroll dice table uncle monster need dolphin logic clown";

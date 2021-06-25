@@ -1,1 +1,1 @@
-var mnemonic = "rhythm fly behave blouse fish wisdom screen lounge shrimp involve ready horn";
+var mnemonic = "nothing okay like unique key faculty sure mirror chief approve present almost";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion pair force record portion palace corn symptom trouble melody often hub";
+var mnemonic = "cattle aware conduct cause scatter primary rent lake neck inside awful slow";

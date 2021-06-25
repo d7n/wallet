@@ -1,1 +1,1 @@
-var mnemonic = "maple bid impose meadow exclude exact eager focus make nut ball mouse";
+var mnemonic = "disease hybrid dice enjoy flame clerk end patient anxiety farm logic width";

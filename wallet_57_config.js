@@ -1,1 +1,1 @@
-var mnemonic = "evil pact know taxi rally spider blue neglect possible another sponsor spring";
+var mnemonic = "gospel base keep armor decade monster deliver essay pelican lion dinosaur scan";

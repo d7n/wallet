@@ -1,1 +1,1 @@
-var mnemonic = "scissors surprise blush spoil unveil couple spring balcony tail hockey artist paper";
+var mnemonic = "mad marine leisure hope pupil crowd family ripple relax round dinner wealth";

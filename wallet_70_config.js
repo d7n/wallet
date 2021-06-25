@@ -1,1 +1,1 @@
-var mnemonic = "prevent story winter cart attitude wedding feed ball lounge fade scan swap";
+var mnemonic = "giant hood run syrup digital couple improve rent health filter general use";

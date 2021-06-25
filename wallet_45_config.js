@@ -1,1 +1,1 @@
-var mnemonic = "crash man cage walk scan course tooth book grunt pill zebra only";
+var mnemonic = "among vault used idea wink smart cost fabric smooth tip crime dash";

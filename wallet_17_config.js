@@ -1,1 +1,1 @@
-var mnemonic = "decorate carry dutch cash swear metal oak trend pulse wheat human region";
+var mnemonic = "stable cancel afford kangaroo actual inmate upgrade devote artist describe way smoke";

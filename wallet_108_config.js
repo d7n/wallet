@@ -1,1 +1,1 @@
-var mnemonic = "clog hip ability correct neutral tiny despair zebra oyster asset world lake";
+var mnemonic = "frost blue already ten wreck penalty topple later mouse enemy enroll submit";

@@ -1,1 +1,1 @@
-var mnemonic = "double father humor honey useless field nurse grid pattern blame observe business";
+var mnemonic = "immune treat slight female cheap process behind rather stamp pill engage praise";

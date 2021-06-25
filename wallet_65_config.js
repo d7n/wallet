@@ -1,1 +1,1 @@
-var mnemonic = "person rail oil gas glimpse general dizzy benefit crush secret genius picnic";
+var mnemonic = "smoke step palm tourist region flash ecology nurse trip gossip accuse budget";

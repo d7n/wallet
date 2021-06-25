@@ -1,1 +1,1 @@
-var mnemonic = "royal mansion pig vicious radio crunch amazing candy sudden smoke planet giggle";
+var mnemonic = "tape foster pioneer wealth credit cage coral honey erosion alert include misery";

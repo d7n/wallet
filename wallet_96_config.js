@@ -1,1 +1,1 @@
-var mnemonic = "real depart other hair cancel lobster organ pill remind glory mass depend";
+var mnemonic = "odor kiwi admit slide camera mask two where lava leave ketchup steak";

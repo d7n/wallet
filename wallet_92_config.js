@@ -1,1 +1,1 @@
-var mnemonic = "hidden hockey corn remove subway warrior require win monkey receive chronic alarm";
+var mnemonic = "crazy wet luxury hair toddler vacant ankle decline toilet bless wave assist";

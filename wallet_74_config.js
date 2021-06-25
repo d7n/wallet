@@ -1,1 +1,1 @@
-var mnemonic = "garden used few pistol until obey buddy embody piano eagle math level";
+var mnemonic = "cup write duty empty armor gaze bird divorce isolate object repeat tip";

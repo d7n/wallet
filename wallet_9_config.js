@@ -1,1 +1,1 @@
-var mnemonic = "can act jacket thunder churn snack stadium basic fiction future inspire lunar";
+var mnemonic = "mandate holiday mirror dignity manual foster adjust essay discover solve unhappy mercy";

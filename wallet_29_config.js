@@ -1,1 +1,1 @@
-var mnemonic = "fee address cigar horse day glove avoid rich retreat silly flower mesh";
+var mnemonic = "silver hip ten quarter dwarf tomorrow friend grit manual car answer square";

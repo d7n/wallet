@@ -1,1 +1,1 @@
-var mnemonic = "federal talk paddle license present divorce fortune edge defy join curtain sell";
+var mnemonic = "flash upset tongue coast paper brain potato fever pilot luxury unable poverty";

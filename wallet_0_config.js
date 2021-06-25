@@ -1,1 +1,1 @@
-var mnemonic = "phrase float electric sand face mirror run monster bamboo spring ball spray";
+var mnemonic = "juice spring base sight cattle umbrella fire child club rhythm audit length";

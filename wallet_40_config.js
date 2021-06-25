@@ -1,1 +1,1 @@
-var mnemonic = "cycle panel dish science country vibrant suggest vast hollow kid jelly soup";
+var mnemonic = "oxygen lemon awkward afford absent math slender east minimum demise sound market";

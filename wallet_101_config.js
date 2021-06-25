@@ -1,1 +1,1 @@
-var mnemonic = "high vacant exchange name clerk bottom obey rookie rate nerve broom cake";
+var mnemonic = "outer bullet almost wide tone file cement when shove twelve primary trophy";

@@ -1,1 +1,1 @@
-var mnemonic = "hair sense decorate beach kitchen junk ticket promote portion muscle win explain";
+var mnemonic = "together fix swing warrior crush just offer verb gain tool apple capable";

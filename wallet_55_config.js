@@ -1,1 +1,1 @@
-var mnemonic = "equal side vocal fetch job shrug toilet achieve cruise title gossip oil";
+var mnemonic = "trash rabbit excuse wait bubble peace remove ladder edit auto oil raccoon";

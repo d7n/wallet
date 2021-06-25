@@ -1,1 +1,1 @@
-var mnemonic = "hunt extra fabric vicious wave boy topple season side help august day";
+var mnemonic = "horror disagree fit little volcano economy husband team vague boring fence physical";

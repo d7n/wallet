@@ -1,1 +1,1 @@
-var mnemonic = "liberty airport number travel say banner fatal doctor middle exhibit drift actress";
+var mnemonic = "alien adult seven memory rally ranch brain verify glove salute ahead seven";

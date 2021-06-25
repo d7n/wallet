@@ -1,1 +1,1 @@
-var mnemonic = "length annual paddle dignity original cause inch ozone world race quantum alarm";
+var mnemonic = "doll property certain kid mouse glare shift misery refuse design pitch glare";

@@ -1,1 +1,1 @@
-var mnemonic = "digital office topple setup olympic sell expand rich lamp topic promote gospel";
+var mnemonic = "mountain hard stairs rocket scale drill card almost first gentle tube concert";

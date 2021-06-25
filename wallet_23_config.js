@@ -1,1 +1,1 @@
-var mnemonic = "scorpion race trigger reduce filter relief warrior physical galaxy insect tilt artwork";
+var mnemonic = "liar scene absent connect wink regular cotton trial card input crash include";

@@ -1,1 +1,1 @@
-var mnemonic = "mutual piece cereal vocal assume grass zone destroy position spirit obscure exchange";
+var mnemonic = "equal quarter salmon liquid lift viable people mouse give borrow siren sure";

@@ -1,1 +1,1 @@
-var mnemonic = "above involve valley act inch lend farm usual donkey prevent edge indicate";
+var mnemonic = "excite panda ostrich exact must wear tuna guide novel awful camera horn";

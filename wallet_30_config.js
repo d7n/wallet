@@ -1,1 +1,1 @@
-var mnemonic = "apart answer holiday brisk agent actress rare educate talk fire stand scan";
+var mnemonic = "error ecology body thumb car symptom lake spirit dad strong century blast";

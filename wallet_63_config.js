@@ -1,1 +1,1 @@
-var mnemonic = "can fancy between immense twin erosion name ancient awkward guard lesson filter";
+var mnemonic = "axis sail saddle vessel scrub cancel sorry bottom race twist alcohol all";

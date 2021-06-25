@@ -1,1 +1,1 @@
-var mnemonic = "recycle maid useless afraid car trial segment dune axis moon tip adjust";
+var mnemonic = "enforce isolate motor august absurd animal nuclear lion off spawn sight scout";

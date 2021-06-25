@@ -1,1 +1,1 @@
-var mnemonic = "orbit load merry enforce idea captain girl other clutch flee suspect page";
+var mnemonic = "tunnel tragic scene nature ankle blind report recall spawn have inquiry switch";

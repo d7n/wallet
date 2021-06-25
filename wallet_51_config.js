@@ -1,1 +1,1 @@
-var mnemonic = "reflect control want child deal clap hip clean exercise print crowd grief";
+var mnemonic = "burst napkin joke flee cloud army menu large action radar guide neither";

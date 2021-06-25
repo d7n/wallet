@@ -1,1 +1,1 @@
-var mnemonic = "hybrid wheat doctor inherit error rare diamond tone spring soft innocent bicycle";
+var mnemonic = "memory silver essence mango page merge such install what swift example oyster";

@@ -1,1 +1,1 @@
-var mnemonic = "arrange merge wolf soup future eight multiply sadness recycle jar coach where";
+var mnemonic = "identify credit fragile mutual govern pair stem daring sign add lounge crush";

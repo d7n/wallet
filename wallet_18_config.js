@@ -1,1 +1,1 @@
-var mnemonic = "science art under truly forum soft proud regular crane awake crop dismiss";
+var mnemonic = "dumb cover treat cycle rifle sphere obey dinner bridge sure monitor blur";

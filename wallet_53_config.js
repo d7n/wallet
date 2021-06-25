@@ -1,1 +1,1 @@
-var mnemonic = "relief diagram ill swear captain then beauty lawn illegal fit foil kitchen";
+var mnemonic = "stable pipe cool episode swift farm used toy stove among raw foil";

@@ -1,1 +1,1 @@
-var mnemonic = "knock state current language depend much able arena loud design blossom almost";
+var mnemonic = "sure decade dilemma curious entire result father square decorate depth ozone frequent";

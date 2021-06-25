@@ -1,1 +1,1 @@
-var mnemonic = "empower soldier mosquito trumpet truck false market shallow rabbit acoustic diary spot";
+var mnemonic = "collect guess bird gain media make bone picnic one suffer grab prefer";

@@ -1,1 +1,1 @@
-var mnemonic = "right cushion crystal raise crumble buddy afraid employ slush skin scare trade";
+var mnemonic = "paper check hill tornado amused velvet occur winter nation resist figure smile";

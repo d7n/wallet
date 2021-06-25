@@ -1,1 +1,1 @@
-var mnemonic = "cactus fog ancient trash super ring spike turtle few flee mix save";
+var mnemonic = "hole advice poem breeze match primary stick surge logic grab wage green";

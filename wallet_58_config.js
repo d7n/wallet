@@ -1,1 +1,1 @@
-var mnemonic = "era spread host kick name input what fuel olympic skate reveal dice";
+var mnemonic = "scan guard divide alert flash dress bridge pelican portion air universe undo";

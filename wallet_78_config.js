@@ -1,1 +1,1 @@
-var mnemonic = "farm bamboo unique patient choice light note success service patch foster often";
+var mnemonic = "banner unable crouch visa idle erase noble spare opera various matter proof";

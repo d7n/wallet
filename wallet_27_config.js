@@ -1,1 +1,1 @@
-var mnemonic = "scatter gospel kit resource gorilla return clean sniff borrow original company grunt";
+var mnemonic = "need fancy sport badge zone hundred help hockey spell leaf hold hover";

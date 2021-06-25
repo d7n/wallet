@@ -1,1 +1,1 @@
-var mnemonic = "machine flee march rare clown behind moment either inspire blue run field";
+var mnemonic = "march bounce voice spread identify shock swap catalog cat rifle jaguar scorpion";

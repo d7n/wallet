@@ -1,1 +1,1 @@
-var mnemonic = "year into dash worry since forum stamp rich lawsuit poem page banner";
+var mnemonic = "ship shell salad offer city erosion erode plug wise march rifle cruise";

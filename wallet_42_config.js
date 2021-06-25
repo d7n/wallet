@@ -1,1 +1,1 @@
-var mnemonic = "blood almost muscle brother trigger flee middle kiss rug range base purpose";
+var mnemonic = "economy pottery armor practice control mother around achieve offer gather soap quote";

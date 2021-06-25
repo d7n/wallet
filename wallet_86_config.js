@@ -1,1 +1,1 @@
-var mnemonic = "loud soup claw adapt leisure lawsuit eager basic purse trumpet any bicycle";
+var mnemonic = "process globe perfect pupil economy bargain jealous giraffe nut slight burger prize";

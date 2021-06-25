@@ -1,1 +1,1 @@
-var mnemonic = "obey actress swear have limit outer win stable alpha evolve seven myself";
+var mnemonic = "place junk salmon fortune upper economy void unique kiwi ability lottery dinner";

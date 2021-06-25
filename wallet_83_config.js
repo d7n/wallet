@@ -1,1 +1,1 @@
-var mnemonic = "render letter valley sponsor present orange orphan monitor baby grit august grid";
+var mnemonic = "cinnamon slab judge meadow sphere nut street pact mansion neutral tray vanish";

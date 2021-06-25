@@ -1,1 +1,1 @@
-var mnemonic = "weird regret crawl affair frame render fossil arena profit stereo pelican recall";
+var mnemonic = "hurry abuse express mule sausage share figure blossom lawn color jealous pattern";

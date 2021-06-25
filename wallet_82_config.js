@@ -1,1 +1,1 @@
-var mnemonic = "mask movie visa foil hurt shuffle luggage protect first soldier public symptom";
+var mnemonic = "bean stairs riot list innocent settle valid crucial adapt bulb sense plunge";

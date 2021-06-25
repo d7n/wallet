@@ -1,1 +1,1 @@
-var mnemonic = "man rifle margin lunch second weekend strategy apart decrease attract alone sister";
+var mnemonic = "airport first term depend baby economy grass tackle wolf claw away need";

@@ -1,1 +1,1 @@
-var mnemonic = "mention attack frozen boil million kangaroo swear system vintage snap try cruel";
+var mnemonic = "moment company chest song replace dismiss fork rookie hip bone flat swift";

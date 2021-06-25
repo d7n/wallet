@@ -1,1 +1,1 @@
-var mnemonic = "adult best badge angle project fluid dinosaur ordinary funny hungry apple squeeze";
+var mnemonic = "outside kit card bridge gate sniff hurdle wild stove inch around twice";

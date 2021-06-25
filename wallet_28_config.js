@@ -1,1 +1,1 @@
-var mnemonic = "tiger next word armed muffin quality impulse pink best angle repair thunder";
+var mnemonic = "seek yellow script key lake airport gaze gauge hello ability visa dentist";

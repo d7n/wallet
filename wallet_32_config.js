@@ -1,1 +1,1 @@
-var mnemonic = "record follow survey brass trip similar display river amount emotion drama stage";
+var mnemonic = "click will demise escape mean pioneer duty column behave turkey better cram";

@@ -1,1 +1,1 @@
-var mnemonic = "execute clock super biology throw ridge install guess bag domain horse people";
+var mnemonic = "matrix better crumble stone foil another crack come spoon obvious spread consider";

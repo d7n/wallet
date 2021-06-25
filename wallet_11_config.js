@@ -1,1 +1,1 @@
-var mnemonic = "file oblige myself sleep surprise identify blame purity feel fiction style bargain";
+var mnemonic = "vacant opinion pink choose check earth luxury electric alley fire uphold advance";

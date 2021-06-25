@@ -1,1 +1,1 @@
-var mnemonic = "wire clock museum kingdom earn barrel around rebuild broom fever title baby";
+var mnemonic = "desk possible where august next address cancel evidence naive update fine sentence";

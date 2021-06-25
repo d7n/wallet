@@ -1,1 +1,1 @@
-var mnemonic = "cactus message exist peanut party grow galaxy tobacco coast capital victory outer";
+var mnemonic = "peasant now torch adult ensure crowd mail fortune laptop mask pact cabin";

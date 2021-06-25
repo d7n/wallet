@@ -1,1 +1,1 @@
-var mnemonic = "solution quiz air library garment song devote move unhappy wonder cup april";
+var mnemonic = "science accuse flash visual south dinosaur maze educate zone category income achieve";

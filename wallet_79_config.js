@@ -1,1 +1,1 @@
-var mnemonic = "garbage occur vocal loyal clean use dismiss scissors artwork rebel ozone local";
+var mnemonic = "viable honey smoke mixture reopen space warfare web tourist grocery giant spend";

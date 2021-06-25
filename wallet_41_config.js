@@ -1,1 +1,1 @@
-var mnemonic = "learn cheap fade sausage analyst behind salon picnic erase visual prize copy";
+var mnemonic = "nation unable certain neutral tooth soft inherit gauge oval tortoise outer zoo";

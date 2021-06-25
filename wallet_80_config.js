@@ -1,1 +1,1 @@
-var mnemonic = "belt live object pink exit diet moon core refuse naive wealth antique";
+var mnemonic = "settle rally cable involve behind exact address season mansion harsh grocery ship";

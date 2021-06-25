@@ -1,1 +1,1 @@
-var mnemonic = "language maple work able equal notice exact afford winter biology physical memory";
+var mnemonic = "marriage speak regret math favorite safe palm parent unlock people brass ketchup";
