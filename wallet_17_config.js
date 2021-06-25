@@ -1,1 +1,1 @@
-var mnemonic = "rug grid finger garbage borrow jungle profit universe empower team light vacant";
+var mnemonic = "orange nice dismiss vocal fade sweet gift naive feed tragic radio mosquito";

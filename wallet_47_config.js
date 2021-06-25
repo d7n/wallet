@@ -1,1 +1,1 @@
-var mnemonic = "large mango bomb divorce beach purity woman icon found seat resource embrace";
+var mnemonic = "ski hedgehog anger blanket eyebrow three churn easy lion dinosaur toy tourist";

@@ -1,1 +1,1 @@
-var mnemonic = "burger now alcohol into afraid cool era often friend alter obscure tip";
+var mnemonic = "need suggest ski ghost entry effort scrap benefit walk episode bundle among";

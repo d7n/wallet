@@ -1,1 +1,1 @@
-var mnemonic = "alien mutual answer normal evil pause student fashion pioneer lawsuit front thank";
+var mnemonic = "wait shaft bright gravity desert twelve method bid like hollow tourist chase";

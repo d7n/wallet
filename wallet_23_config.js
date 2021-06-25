@@ -1,1 +1,1 @@
-var mnemonic = "bean very twist cube soul hospital wink shell design decade shallow symptom";
+var mnemonic = "stool flip orphan vendor wood napkin intact tumble drink tornado diet venue";

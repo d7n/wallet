@@ -1,1 +1,1 @@
-var mnemonic = "quiz elite jungle banana nerve prefer curve segment viable orphan sauce fluid";
+var mnemonic = "assume shallow tool couch wing lawsuit guitar argue flash enforce swarm enlist";

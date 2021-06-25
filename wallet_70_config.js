@@ -1,1 +1,1 @@
-var mnemonic = "awesome cake curtain run century bless wrong execute primary budget essay horn";
+var mnemonic = "success blue wide eight title derive limit deal announce palace oyster appear";

@@ -1,1 +1,1 @@
-var mnemonic = "tape leave inner brief stadium decide sentence toilet harsh announce lab dream";
+var mnemonic = "nerve fortune tuition farm fly cry narrow direct inhale dish travel city";

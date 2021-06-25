@@ -1,1 +1,1 @@
-var mnemonic = "affair uncover tortoise narrow reward turn that gain blush edit rich gap";
+var mnemonic = "work shy infant camera winner pony kiwi open foot lady print basic";

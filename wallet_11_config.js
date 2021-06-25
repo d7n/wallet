@@ -1,1 +1,1 @@
-var mnemonic = "during october dust deposit august nothing repair gadget illness cash enlist radar";
+var mnemonic = "try furnace balance finger tumble throw wild index elbow cook guide calm";

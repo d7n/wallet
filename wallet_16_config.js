@@ -1,1 +1,1 @@
-var mnemonic = "afford dash alone custom trash shadow canvas torch seat snap rifle fitness";
+var mnemonic = "response nation pattern manual idea dentist palm lounge velvet elegant vault turn";

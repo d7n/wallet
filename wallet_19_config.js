@@ -1,1 +1,1 @@
-var mnemonic = "pole wool sweet sister panic still submit embark comfort cake banner sweet";
+var mnemonic = "shield shell bubble indoor happy advance among barrel flavor index solve travel";

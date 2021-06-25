@@ -1,1 +1,1 @@
-var mnemonic = "zone index aim north country muscle journey letter image sentence memory junk";
+var mnemonic = "bike world urge imitate can spy mix honey neither ramp tide common";

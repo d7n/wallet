@@ -1,1 +1,1 @@
-var mnemonic = "carpet obscure original goat juice walnut lamp script describe panda stadium basket";
+var mnemonic = "team apart artefact cushion disagree bleak finger suggest wash relief lamp gentle";

@@ -1,1 +1,1 @@
-var mnemonic = "motor airport place cry real team shoe boss elephant boring play scale";
+var mnemonic = "cheese trumpet october found staff afford chalk month lift tuna leader quarter";

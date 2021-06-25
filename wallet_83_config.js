@@ -1,1 +1,1 @@
-var mnemonic = "silk choice industry puppy cloud panic erupt since decade drink town defy";
+var mnemonic = "public soccer corn average multiply alone army mother grape can dinner swift";

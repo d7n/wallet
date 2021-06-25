@@ -1,1 +1,1 @@
-var mnemonic = "collect group flight winter visual base result liar either brush patient roof";
+var mnemonic = "unhappy patrol above glory anchor they clutch cable good multiply borrow quote";

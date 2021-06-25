@@ -1,1 +1,1 @@
-var mnemonic = "segment twin limb orphan wild spirit river inhale have medal beef upon";
+var mnemonic = "gravity direct alpha bone hockey sock fame dad taxi spoil near stool";

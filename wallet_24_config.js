@@ -1,1 +1,1 @@
-var mnemonic = "vast flag robot stairs era sniff primary cushion salute hero choose tool";
+var mnemonic = "tribe pepper ritual exclude village struggle heavy goddess cool inside ski merit";

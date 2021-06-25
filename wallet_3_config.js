@@ -1,1 +1,1 @@
-var mnemonic = "burst sunny syrup blanket six another track ginger middle work gate day";
+var mnemonic = "giraffe picture hill avocado smooth eyebrow road gas canal ice patch feel";

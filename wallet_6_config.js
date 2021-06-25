@@ -1,1 +1,1 @@
-var mnemonic = "limit soon action captain burden december rain spice heavy mother romance crash";
+var mnemonic = "credit end wagon moral nation dilemma sea express little brass fancy dash";

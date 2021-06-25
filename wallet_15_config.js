@@ -1,1 +1,1 @@
-var mnemonic = "depart rival wealth junior taste mosquito secret honey idle draft just perfect";
+var mnemonic = "swift young brand patient online enact click need square milk sweet shop";

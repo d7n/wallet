@@ -1,1 +1,1 @@
-var mnemonic = "strong anchor stairs coconut gather sweet twice settle river actor wear arrow";
+var mnemonic = "question vacant discover pole story enemy country proof social cereal wonder fatigue";

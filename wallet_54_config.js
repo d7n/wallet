@@ -1,1 +1,1 @@
-var mnemonic = "vessel real tilt episode brand stick spirit match distance dice feature jazz";
+var mnemonic = "coach prepare before absurd chapter corn bulb vintage myth toast plastic kick";

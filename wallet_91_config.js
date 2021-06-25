@@ -1,1 +1,1 @@
-var mnemonic = "myself magnet improve develop symbol vicious rocket lumber unknown improve flower summer";
+var mnemonic = "menu follow large holiday cattle doctor screen silver bronze parrot chat require";

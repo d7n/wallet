@@ -1,1 +1,1 @@
-var mnemonic = "shed neglect nose village impulse eager surround sustain crumble catch pond employ";
+var mnemonic = "square mango rescue athlete rally unlock kiwi wood profit chalk coral spray";

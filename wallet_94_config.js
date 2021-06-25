@@ -1,1 +1,1 @@
-var mnemonic = "grief tunnel hero mass emerge electric rescue picture outside leg huge illness";
+var mnemonic = "similar cluster cruel win wise ugly solution spell public horror bubble shop";

@@ -1,1 +1,1 @@
-var mnemonic = "remain void hood title network diet swear chest urge fish year shove";
+var mnemonic = "verb goat either desk mind style into unaware hip oven chase swing";

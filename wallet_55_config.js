@@ -1,1 +1,1 @@
-var mnemonic = "begin inspire canyon hope time train boss pact pizza traffic initial pattern";
+var mnemonic = "you style nurse main rice winter strong produce behind review zebra help";

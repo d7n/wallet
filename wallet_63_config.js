@@ -1,1 +1,1 @@
-var mnemonic = "improve medal include roast loud crouch donate attack desk admit during action";
+var mnemonic = "card motion slam hotel diamond network innocent belt sweet depth bacon present";

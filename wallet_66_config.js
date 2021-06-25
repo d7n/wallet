@@ -1,1 +1,1 @@
-var mnemonic = "gesture hotel ladder round fix dinosaur twin name bus dignity coral paddle";
+var mnemonic = "laptop debate cliff egg sugar desert draw thumb whale super purpose stick";

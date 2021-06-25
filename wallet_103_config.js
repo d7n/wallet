@@ -1,1 +1,1 @@
-var mnemonic = "melody action plate soul still melody express police kingdom lobster basket diary";
+var mnemonic = "raccoon chronic sister shaft outside session diagram reopen license cliff ability flag";

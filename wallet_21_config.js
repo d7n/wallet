@@ -1,1 +1,1 @@
-var mnemonic = "belt violin fox sell option trust fame again warm extend way mixed";
+var mnemonic = "also borrow spike olympic kick farm angry rubber diesel dad label cage";

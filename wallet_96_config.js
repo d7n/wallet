@@ -1,1 +1,1 @@
-var mnemonic = "throw team problem enroll annual social paddle hobby prison nurse price nut";
+var mnemonic = "loop verb giant solution crucial curtain cash garbage inspire thunder month either";

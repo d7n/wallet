@@ -1,1 +1,1 @@
-var mnemonic = "zone know few bulb toilet manage huge spoil once doll brown dove";
+var mnemonic = "feel arrive angle throw ghost planet flush object grant course episode lyrics";

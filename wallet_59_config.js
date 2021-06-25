@@ -1,1 +1,1 @@
-var mnemonic = "potato seven october live fire vacuum tortoise style item series dish just";
+var mnemonic = "rule cage young shallow blossom hour protect thought sure chimney calm marriage";

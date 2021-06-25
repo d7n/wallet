@@ -1,1 +1,1 @@
-var mnemonic = "drift garlic modify lend laugh attack puzzle hurt blanket trouble split reopen";
+var mnemonic = "whale wrong seed pyramid excuse art arrest suspect stuff sunny chat mixed";

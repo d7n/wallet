@@ -1,1 +1,1 @@
-var mnemonic = "hub meat lake strike horse inhale twist plastic monitor memory outer medal";
+var mnemonic = "ten cliff raise sight jar cry artist alone great unit below fault";

@@ -1,1 +1,1 @@
-var mnemonic = "magnet whale panel arrange mechanic clog diet cram bulb sunny aspect phrase";
+var mnemonic = "oven brown ostrich latin cradle laptop myself add endless agree chalk warm";

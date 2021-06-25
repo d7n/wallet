@@ -1,1 +1,1 @@
-var mnemonic = "harbor about normal rural rocket trouble wrestle daring resist library cash cliff";
+var mnemonic = "confirm juice turn drink blast transfer canoe clip execute pilot wet host";

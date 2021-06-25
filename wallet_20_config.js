@@ -1,1 +1,1 @@
-var mnemonic = "sense more negative hold rude step travel birth fire betray quote robot";
+var mnemonic = "balcony social place vanish prefer garment tower burst spike argue rigid divide";

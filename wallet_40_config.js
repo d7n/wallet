@@ -1,1 +1,1 @@
-var mnemonic = "library business cloth bridge laptop estate pilot other verb clown win team";
+var mnemonic = "pave dragon salmon will stove catch depend collect album enjoy marble liberty";

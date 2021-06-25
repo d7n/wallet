@@ -1,1 +1,1 @@
-var mnemonic = "roast size orient stay shell border hawk face eternal case turn tuna";
+var mnemonic = "train discover wealth reform catch pupil miracle climb outer chest shove lottery";

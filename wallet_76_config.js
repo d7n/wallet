@@ -1,1 +1,1 @@
-var mnemonic = "monster ridge member tool soccer ketchup can six question rookie promote olympic";
+var mnemonic = "cement bone tell luggage glimpse silk decide rack bulb topic quality cattle";

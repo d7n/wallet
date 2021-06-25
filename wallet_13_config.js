@@ -1,1 +1,1 @@
-var mnemonic = "hawk nose latin ask oblige forum ocean false sniff patient program light";
+var mnemonic = "rose pluck hunt bundle again state have spike update amazing name diagram";

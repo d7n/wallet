@@ -1,1 +1,1 @@
-var mnemonic = "absorb weather wrist razor spray analyst immune grain foil stone paddle salmon";
+var mnemonic = "assault sunny fatigue speed used elevator scare fever use figure net spread";

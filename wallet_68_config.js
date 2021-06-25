@@ -1,1 +1,1 @@
-var mnemonic = "shoe upon response liar mad cherry sting snack tell matrix someone crime";
+var mnemonic = "cabin kit palm aware neither utility barrel manual mirror swallow lottery weekend";

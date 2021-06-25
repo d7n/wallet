@@ -1,1 +1,1 @@
-var mnemonic = "possible ring high lunch elevator peace right impact clay express pledge meat";
+var mnemonic = "cash giraffe noise audit symbol toast chunk ethics coil aunt bonus depart";

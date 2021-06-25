@@ -1,1 +1,1 @@
-var mnemonic = "hockey box chat spot spread garage just crane cage avocado tongue lizard";
+var mnemonic = "quick staff crumble desert file glory brand spray differ mad squirrel grape";

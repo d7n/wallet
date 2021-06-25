@@ -1,1 +1,1 @@
-var mnemonic = "reject road correct affair sing onion modify barely scatter crane fly diagram";
+var mnemonic = "connect motor spring million swear soap just that thunder apart welcome shed";

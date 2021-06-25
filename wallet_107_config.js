@@ -1,1 +1,1 @@
-var mnemonic = "input observe before immense ribbon fortune stairs color tomorrow gospel school rookie";
+var mnemonic = "cotton engine road alarm damp payment math desert sea lunch easily junior";

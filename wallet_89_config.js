@@ -1,1 +1,1 @@
-var mnemonic = "drink dismiss unable bike cat time ankle ecology sock wing shy lawsuit";
+var mnemonic = "duty chat quiz syrup breeze panic castle tissue inch find interest escape";

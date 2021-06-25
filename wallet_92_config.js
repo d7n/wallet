@@ -1,1 +1,1 @@
-var mnemonic = "hawk decrease pact narrow tissue stock saddle series child donkey space lazy";
+var mnemonic = "unveil patch auto lumber furnace brief camera helmet film glory degree atom";

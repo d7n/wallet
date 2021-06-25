@@ -1,1 +1,1 @@
-var mnemonic = "food earth alcohol ritual daughter able border vital wool final negative habit";
+var mnemonic = "skin midnight drink dutch smooth safe derive recipe lobster scout captain offer";

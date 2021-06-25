@@ -1,1 +1,1 @@
-var mnemonic = "curve velvet display detect sing knee heart sentence dust shiver victory arena";
+var mnemonic = "paddle treat gate find siege churn attack absent seed meadow wife marine";

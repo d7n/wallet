@@ -1,1 +1,1 @@
-var mnemonic = "coffee box flat nut stool hip combine fruit punch disorder stairs broom";
+var mnemonic = "matrix shrug boy foam stable pool wink shed manage boy kitten whisper";

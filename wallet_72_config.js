@@ -1,1 +1,1 @@
-var mnemonic = "bike speak afford armed sun tiny kiss remind crane prepare violin recycle";
+var mnemonic = "sing silver chuckle middle degree setup rural like oyster card pitch april";

@@ -1,1 +1,1 @@
-var mnemonic = "crowd ill action ancient census gadget typical resource office sad coconut chalk";
+var mnemonic = "parade paper cupboard opera history manage ramp team matter endorse oxygen maximum";

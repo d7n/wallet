@@ -1,1 +1,1 @@
-var mnemonic = "pitch spray total yard carry badge coach park gloom sick faint pelican";
+var mnemonic = "letter way print book exhibit gorilla version wisdom drink multiply express before";

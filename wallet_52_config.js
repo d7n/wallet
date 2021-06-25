@@ -1,1 +1,1 @@
-var mnemonic = "treat solve female size book surface naive illness wrist turn palm dizzy";
+var mnemonic = "roast charge sausage clerk then smile key game dirt chat pelican text";

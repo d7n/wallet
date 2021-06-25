@@ -1,1 +1,1 @@
-var mnemonic = "slush magnet believe castle wait bid evoke tonight photo update physical giraffe";
+var mnemonic = "arena afraid shove fatal keen mesh strike dizzy order clown chief merit";

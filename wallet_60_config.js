@@ -1,1 +1,1 @@
-var mnemonic = "dune army remind foam economy culture buyer grab parrot pelican switch tank";
+var mnemonic = "banner verb citizen distance shield ship knee acquire found cupboard copper brisk";

@@ -1,1 +1,1 @@
-var mnemonic = "tent mix sound bitter kit goat exclude large bar custom shrimp priority";
+var mnemonic = "taste grief casual brand such object woman verify proud brass ostrich kidney";

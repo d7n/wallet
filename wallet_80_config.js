@@ -1,1 +1,1 @@
-var mnemonic = "between fit outer skirt disease choose peanut evoke sing keen all youth";
+var mnemonic = "stadium ski begin laugh call stage marine weekend very account smart dumb";

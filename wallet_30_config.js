@@ -1,1 +1,1 @@
-var mnemonic = "shift cargo people occur chase elbow mad report always want decline round";
+var mnemonic = "need junior cloth weasel useful carbon quantum salt universe junk purity giant";

@@ -1,1 +1,1 @@
-var mnemonic = "normal similar imitate sun slab private toward supply review van usage route";
+var mnemonic = "power long unlock book moment vocal accident rose orbit ripple road type";

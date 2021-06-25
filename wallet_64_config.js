@@ -1,1 +1,1 @@
-var mnemonic = "arm buyer naive high napkin sing element remind nominee notable device earn";
+var mnemonic = "evil waste snap swing combine much west matter list annual neutral black";

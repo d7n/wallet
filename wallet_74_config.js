@@ -1,1 +1,1 @@
-var mnemonic = "insect reveal merit obtain combine vital combine pencil void acoustic mushroom gate";
+var mnemonic = "mango have maple beef setup output coin toward weird pull fine apple";

@@ -1,1 +1,1 @@
-var mnemonic = "item useless emerge script tray stairs reduce only swear property slide cost";
+var mnemonic = "heart lion lab sniff never unable thank device elite embody audit rifle";

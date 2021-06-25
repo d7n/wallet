@@ -1,1 +1,1 @@
-var mnemonic = "scrub subject flock state spare aisle punch dolphin million struggle start siren";
+var mnemonic = "faculty zone insane bless cheap tape rookie cupboard merge wise siren fatal";

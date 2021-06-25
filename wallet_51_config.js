@@ -1,1 +1,1 @@
-var mnemonic = "siege legend olive dirt raccoon zoo need grab model relax fashion try";
+var mnemonic = "leg vapor scheme assault world ritual unveil sword deputy strategy side cake";

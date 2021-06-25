@@ -1,1 +1,1 @@
-var mnemonic = "mechanic clay lock churn street north season public air route impulse pause";
+var mnemonic = "trophy injury once merit fork letter screen eight monitor fault merry clog";

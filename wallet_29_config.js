@@ -1,1 +1,1 @@
-var mnemonic = "slide clap mass guide jeans scan art regular right melody credit slush";
+var mnemonic = "strike attack company such chief undo naive cabbage broom mutual can bicycle";

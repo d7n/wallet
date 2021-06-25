@@ -1,1 +1,1 @@
-var mnemonic = "inspire chimney decrease sibling humor rookie air brief fit sheriff round salt";
+var mnemonic = "oblige hint cube magic into glance vault page faith park dune kind";

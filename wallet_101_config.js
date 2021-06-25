@@ -1,1 +1,1 @@
-var mnemonic = "charge proof bounce ostrich royal prefer digital illegal wave document umbrella enact";
+var mnemonic = "under crystal degree tornado push spoon spice scatter patient valve nose recall";

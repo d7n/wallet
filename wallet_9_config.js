@@ -1,1 +1,1 @@
-var mnemonic = "cannon idea aerobic pencil couple place observe alcohol across mosquito muffin plastic";
+var mnemonic = "hockey casual normal hundred purchase group bread turtle swing promote mountain two";

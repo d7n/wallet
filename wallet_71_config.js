@@ -1,1 +1,1 @@
-var mnemonic = "paper second correct pet identify huge copper aim inner cereal message way";
+var mnemonic = "great very year curtain spice scrub damp pen gift test update grain";

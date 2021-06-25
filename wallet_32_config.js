@@ -1,1 +1,1 @@
-var mnemonic = "picture mountain defy impose bus dog heart travel ocean winner fish manual";
+var mnemonic = "keep dash flush between hip couch daring pepper income later nut essay";

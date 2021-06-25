@@ -1,1 +1,1 @@
-var mnemonic = "until buffalo predict sphere false story rifle cause observe crack illness valley";
+var mnemonic = "upper wrap cruel often plate special thought maze cream boost relax vague";

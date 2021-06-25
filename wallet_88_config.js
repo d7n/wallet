@@ -1,1 +1,1 @@
-var mnemonic = "afraid stove winner impact wash remain quantum nurse cactus width clog impulse";
+var mnemonic = "trust patient polar click return bounce basket grit tattoo fork sad tongue";

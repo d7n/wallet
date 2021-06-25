@@ -1,1 +1,1 @@
-var mnemonic = "music pilot mesh mask destroy exit please ranch leisure scale limb debate";
+var mnemonic = "random color merge mean glove napkin series crazy area give stage path";

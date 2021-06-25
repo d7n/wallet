@@ -1,1 +1,1 @@
-var mnemonic = "cotton become gather purchase result leisure private pact solution tag roof office";
+var mnemonic = "opera gate abandon toe worry photo phone wise choose cool coach size";

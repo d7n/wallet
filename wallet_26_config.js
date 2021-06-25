@@ -1,1 +1,1 @@
-var mnemonic = "guard place muffin blind deposit phrase dad claim hungry snake over sniff";
+var mnemonic = "sell lawsuit brave vapor rice absorb galaxy unit tape blur apology people";
