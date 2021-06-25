@@ -1,1 +1,1 @@
-var mnemonic = "lyrics step nuclear inspire cousin stay tuition vendor drama laundry intact armor";
+var mnemonic = "special similar neglect method unfair lazy region crisp key nose clock coconut";

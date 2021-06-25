@@ -1,1 +1,1 @@
-var mnemonic = "soap trigger dynamic tilt jeans six prefer picnic tower exchange churn actual";
+var mnemonic = "birth vehicle online infant lazy craft become horn increase lounge crop resemble";

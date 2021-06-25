@@ -1,1 +1,1 @@
-var mnemonic = "rapid place debate bird atom win paddle together mention core tooth unfair";
+var mnemonic = "cream ocean boil leader taste impact quote thrive clutch market shallow head";

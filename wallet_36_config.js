@@ -1,1 +1,1 @@
-var mnemonic = "tuna file coffee cruel moment eye pistol away soldier curtain bag dilemma";
+var mnemonic = "gown enough left job crowd harsh today excite cause captain blade drastic";

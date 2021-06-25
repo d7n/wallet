@@ -1,1 +1,1 @@
-var mnemonic = "season piano unveil hour include gentle attract hub exile myth rigid lobster";
+var mnemonic = "cream economy own nut mosquito come grain check object output scan awesome";

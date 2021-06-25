@@ -1,1 +1,1 @@
-var mnemonic = "wing unaware aim trophy festival umbrella learn stadium lady silk blue mass";
+var mnemonic = "minimum fat raven wasp multiply this wage session main fatal thumb ice";

@@ -1,1 +1,1 @@
-var mnemonic = "lizard donor wine short sausage wood subway quality virtual ceiling cotton insect";
+var mnemonic = "addict broom canoe better draw announce task scorpion rigid clog ability green";

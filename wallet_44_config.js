@@ -1,1 +1,1 @@
-var mnemonic = "install purpose blur cloth park sing riot sing emerge say urban pretty";
+var mnemonic = "day bike today hurry harsh license gain they confirm siren canoe rally";

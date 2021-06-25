@@ -1,1 +1,1 @@
-var mnemonic = "sand dentist company industry dignity achieve catch until domain sense city abuse";
+var mnemonic = "poverty outside replace smart satisfy voyage tube sea drum tourist bid venture";

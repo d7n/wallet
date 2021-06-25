@@ -1,1 +1,1 @@
-var mnemonic = "circle buzz tuition annual fox into sell bird confirm mosquito bronze parent";
+var mnemonic = "cruel deal diary plastic laundry gravity double weasel alcohol kitchen clever expire";

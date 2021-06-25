@@ -1,1 +1,1 @@
-var mnemonic = "disorder tuition volcano current accuse clump equal enter initial crater police room";
+var mnemonic = "engine dirt chalk together wrong ship gadget prosper lecture where pill diet";

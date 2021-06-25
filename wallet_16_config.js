@@ -1,1 +1,1 @@
-var mnemonic = "never suffer film museum dish avocado raw banner seven beef comfort vessel";
+var mnemonic = "puzzle label sock assume trap open outside issue ten margin repair outer";

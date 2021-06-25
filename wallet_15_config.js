@@ -1,1 +1,1 @@
-var mnemonic = "radio more burger breeze brief brief depth wagon gown exotic danger fantasy";
+var mnemonic = "squirrel coffee useful way gold jewel rack comic top nest clever teach";

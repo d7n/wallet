@@ -1,1 +1,1 @@
-var mnemonic = "canvas celery govern over fall twenty broccoli trouble unhappy soda broccoli bottom";
+var mnemonic = "fork forum asthma switch obscure squeeze nerve deal artwork share stem child";

@@ -1,1 +1,1 @@
-var mnemonic = "resemble position ankle tiny ranch client breeze rural nurse play prepare fruit";
+var mnemonic = "expose obscure between client plunge leopard stand original early fiber wolf aunt";

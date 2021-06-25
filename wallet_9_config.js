@@ -1,1 +1,1 @@
-var mnemonic = "display student twice marble neck sing humor surge pool circle fruit bind";
+var mnemonic = "boost age hawk despair despair lion nephew shiver news lawsuit sword room";

@@ -1,1 +1,1 @@
-var mnemonic = "excite web insane ability gown vintage puppy master ignore only party garbage";
+var mnemonic = "web narrow alpha elevator earth sentence satisfy law tumble reunion open nest";

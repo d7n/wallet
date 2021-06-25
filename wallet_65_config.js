@@ -1,1 +1,1 @@
-var mnemonic = "outdoor left absent reward output flip grant lucky copy ritual middle mercy";
+var mnemonic = "media kit depth bounce wire lumber sense real pride float hand menu";

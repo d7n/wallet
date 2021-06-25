@@ -1,1 +1,1 @@
-var mnemonic = "tower easily such girl pitch million soap major stool ritual cry shuffle";
+var mnemonic = "such report wolf morning cinnamon maze urge camera quote ski shoe expect";

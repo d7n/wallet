@@ -1,1 +1,1 @@
-var mnemonic = "finger spoil road fun auto notice steak genius maid load truth elite";
+var mnemonic = "flower list live toy lemon exchange shiver turtle rapid catalog cactus story";

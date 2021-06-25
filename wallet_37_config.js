@@ -1,1 +1,1 @@
-var mnemonic = "junior level wrestle vintage burst awesome tornado person glance auction tube federal";
+var mnemonic = "mushroom menu slide blast dizzy hundred weapon zebra combine book cause ill";

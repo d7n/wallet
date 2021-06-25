@@ -1,1 +1,1 @@
-var mnemonic = "enroll oak method excite best tuition hour gas outer drift dawn aisle";
+var mnemonic = "setup term upgrade small ball forget witness icon cluster apology town blame";

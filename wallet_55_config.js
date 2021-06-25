@@ -1,1 +1,1 @@
-var mnemonic = "ice entire lobster off apple moral quiz fetch amateur body adult fashion";
+var mnemonic = "warfare voice subject veteran end album chase menu fatal else opinion wing";

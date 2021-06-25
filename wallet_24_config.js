@@ -1,1 +1,1 @@
-var mnemonic = "source swing dismiss fetch club skin video toy educate limit green avocado";
+var mnemonic = "subject head project library lift pilot sick destroy horror own orange road";

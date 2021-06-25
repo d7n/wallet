@@ -1,1 +1,1 @@
-var mnemonic = "abuse later cluster measure marble combine problem omit move snack giant tiny";
+var mnemonic = "prize nature tragic glad rate organ retire butter acquire tell inform shed";

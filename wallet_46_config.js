@@ -1,1 +1,1 @@
-var mnemonic = "field bench seek flush will blood pluck grant flip vocal liberty deposit";
+var mnemonic = "coach delay invest ethics equip danger enter park purity supply luggage squirrel";

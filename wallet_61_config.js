@@ -1,1 +1,1 @@
-var mnemonic = "decade smooth champion uniform february federal mass bone raise east opera urban";
+var mnemonic = "alien juice ring soldier learn hover cricket secret hour future float acoustic";

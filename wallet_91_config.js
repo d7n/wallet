@@ -1,1 +1,1 @@
-var mnemonic = "involve tip media task snake myth fish stairs warfare explain play canyon";
+var mnemonic = "frame place interest thing assume front viable work column razor volume portion";

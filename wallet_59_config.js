@@ -1,1 +1,1 @@
-var mnemonic = "someone bike fly brown thrive combine mesh mule nature nasty media unlock";
+var mnemonic = "boat torch virus hockey crystal coyote flower regular announce gauge loop cake";

@@ -1,1 +1,1 @@
-var mnemonic = "actor broom this sentence fresh release razor detail arrest joke garlic card";
+var mnemonic = "average bleak measure where novel return bird scale cinnamon payment wise hope";

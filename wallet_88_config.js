@@ -1,1 +1,1 @@
-var mnemonic = "screen chimney fog need universe volume arrest maid absurd unfold example decline";
+var mnemonic = "leaf mule fade error sauce sniff lesson trouble hockey judge almost brief";

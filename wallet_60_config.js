@@ -1,1 +1,1 @@
-var mnemonic = "spend accuse sand assist ankle rapid draft animal vapor setup retire gorilla";
+var mnemonic = "live extend still family diet bomb purity have dignity hub fiber near";

@@ -1,1 +1,1 @@
-var mnemonic = "fox farm project horror mention devote swallow flush book design lobster squeeze";
+var mnemonic = "sunset festival assault speak gesture olympic skin furnace pen hard level shell";

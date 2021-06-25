@@ -1,1 +1,1 @@
-var mnemonic = "strike industry combine toe car provide must zoo bronze rotate fog float";
+var mnemonic = "pool seven group robust shell object post describe step subway paddle bottom";

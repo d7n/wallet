@@ -1,1 +1,1 @@
-var mnemonic = "smile sign tone author light festival eye always aware pair work impose";
+var mnemonic = "analyst enlist segment horn text attract pitch obvious collect room chair day";

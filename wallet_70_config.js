@@ -1,1 +1,1 @@
-var mnemonic = "uniform alien refuse clump cute sheriff poem slab oyster palm lend siege";
+var mnemonic = "human lesson candy vicious region omit torch music excite woman property giraffe";

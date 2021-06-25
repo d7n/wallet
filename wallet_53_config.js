@@ -1,1 +1,1 @@
-var mnemonic = "below pledge hero tilt aware test fine crawl goat insect consider pull";
+var mnemonic = "attack fluid lottery transfer true bulb manage ankle keep base kiss veteran";

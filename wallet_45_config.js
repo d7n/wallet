@@ -1,1 +1,1 @@
-var mnemonic = "life twenty ozone subway valley unknown word nose truck sort interest radio";
+var mnemonic = "material sing odor cream wash skate clutch diesel blue test draw busy";

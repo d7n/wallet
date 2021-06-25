@@ -1,1 +1,1 @@
-var mnemonic = "point harvest below actual safe vacant debate blush grocery observe today inspire";
+var mnemonic = "glory symptom cover glory fragile chunk lobster aunt around neglect twenty bronze";

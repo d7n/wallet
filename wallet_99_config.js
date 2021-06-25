@@ -1,1 +1,1 @@
-var mnemonic = "electric soup draft speak reward parrot negative base plunge into someone swamp";
+var mnemonic = "ripple distance capital cluster urban virtual boy furnace warfare mango climb erosion";

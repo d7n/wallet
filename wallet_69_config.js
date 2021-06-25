@@ -1,1 +1,1 @@
-var mnemonic = "ability jealous camp album alert code shoot prize rescue ski pioneer marriage";
+var mnemonic = "sting law oppose wedding wing clip soda rally trouble habit walk mixed";

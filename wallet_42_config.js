@@ -1,1 +1,1 @@
-var mnemonic = "vivid rotate sting treat kit tree robust wagon hand deer idea math";
+var mnemonic = "load estate kingdom chair weapon day lady author chat daughter dolphin charge";

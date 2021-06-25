@@ -1,1 +1,1 @@
-var mnemonic = "round claw slush cotton attack brain rebel truth miracle year hole there";
+var mnemonic = "peace fetch same aware edit phone guitar chat school melt various guide";

@@ -1,1 +1,1 @@
-var mnemonic = "lunar gap raccoon maze achieve term coral unhappy already mechanic board family";
+var mnemonic = "distance wrap cram carbon word nest hidden dismiss item top embody message";

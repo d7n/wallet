@@ -1,1 +1,1 @@
-var mnemonic = "rubber elevator voyage ugly unusual youth brush blur absent type cotton arch";
+var mnemonic = "grunt sand cute unknown slot slow print various attract favorite ordinary banana";

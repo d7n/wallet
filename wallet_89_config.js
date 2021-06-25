@@ -1,1 +1,1 @@
-var mnemonic = "cost glove giant impose senior rose traffic maid away catalog latin joke";
+var mnemonic = "release same million unhappy metal raise rival trick beach knee oblige brick";

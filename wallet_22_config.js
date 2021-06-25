@@ -1,1 +1,1 @@
-var mnemonic = "satisfy faith someone tone scare door car clump theme horror effort armor";
+var mnemonic = "sauce library hope enrich ethics convince museum gown extend chapter bronze avoid";

@@ -1,1 +1,1 @@
-var mnemonic = "bargain upset decorate subway disorder escape room deposit steel student blast august";
+var mnemonic = "much eye pond palace fix cabbage sting trophy device shell design rare";

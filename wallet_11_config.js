@@ -1,1 +1,1 @@
-var mnemonic = "quality clever rebel desert treat shift deal hen roast need denial torch";
+var mnemonic = "recall kit account penalty couple surprise occur direct cube tell awful medal";

@@ -1,1 +1,1 @@
-var mnemonic = "then sing certain where gas eyebrow bottom tide boy blush power spy";
+var mnemonic = "color hood sugar pretty paddle pelican afraid secret online emerge winter fruit";

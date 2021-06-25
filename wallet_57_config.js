@@ -1,1 +1,1 @@
-var mnemonic = "wet drop love decorate genius foil focus piece miracle alert silly gate";
+var mnemonic = "crop square extra clever actress devote woman again hard angle pave thing";

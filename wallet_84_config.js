@@ -1,1 +1,1 @@
-var mnemonic = "stamp payment pumpkin panther stove drink monkey bench art liquid mango electric";
+var mnemonic = "focus ritual outer doctor obtain umbrella illegal impulse east casual only animal";

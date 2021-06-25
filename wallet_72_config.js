@@ -1,1 +1,1 @@
-var mnemonic = "grunt cool burger innocent explain basket doctor fault opinion color talent balance";
+var mnemonic = "neither powder town express job ripple spare arena bomb setup diet pass";

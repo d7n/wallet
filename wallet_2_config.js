@@ -1,1 +1,1 @@
-var mnemonic = "mutual legend safe eyebrow climb lizard avocado bid illness weird dwarf shiver";
+var mnemonic = "crop machine jewel kiss frost maze cheap join sleep boost choice word";

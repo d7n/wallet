@@ -1,1 +1,1 @@
-var mnemonic = "exhibit access old gesture layer until setup stadium flee lazy direct strong";
+var mnemonic = "era antique crime dice fruit able wonder rather pelican spirit love child";

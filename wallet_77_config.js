@@ -1,1 +1,1 @@
-var mnemonic = "perfect pudding fee fabric raise able artefact genius surface high elevator frown";
+var mnemonic = "digital utility curious art uncover edit endorse script answer subway nest online";

@@ -1,1 +1,1 @@
-var mnemonic = "stuff dynamic galaxy gorilla narrow resource nation luxury benefit alley injury hole";
+var mnemonic = "amused paddle suit federal ask interest catch flock borrow swallow dolphin train";

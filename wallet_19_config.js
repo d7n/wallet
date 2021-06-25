@@ -1,1 +1,1 @@
-var mnemonic = "elevator north trigger lava argue item cable awful solution when fade floor";
+var mnemonic = "ozone cute candy spend shrimp boring diagram cram inner spider inform animal";

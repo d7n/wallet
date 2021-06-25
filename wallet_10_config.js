@@ -1,1 +1,1 @@
-var mnemonic = "bachelor rule island silver ignore hedgehog mother during derive please chunk nominee";
+var mnemonic = "else summer defy indicate tooth green fork physical odor doll pudding attitude";

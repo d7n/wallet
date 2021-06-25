@@ -1,1 +1,1 @@
-var mnemonic = "sleep dash cinnamon soul defense quantum fire make airport tag shallow slogan";
+var mnemonic = "anxiety hunt ribbon endorse then whisper lyrics senior jaguar depart birth mechanic";

@@ -1,1 +1,1 @@
-var mnemonic = "valid faith bomb crane require truly into ask attend garlic vital sort";
+var mnemonic = "fatigue half code fly author run genius sadness predict rocket duty afford";

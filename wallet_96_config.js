@@ -1,1 +1,1 @@
-var mnemonic = "report correct physical entire theory repair couch vanish rebel boil danger just";
+var mnemonic = "dilemma auction connect please bomb broken dutch today outside tree detect company";

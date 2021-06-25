@@ -1,1 +1,1 @@
-var mnemonic = "journey excite skull invest parent shield ski pulse false consider cool liberty";
+var mnemonic = "soccer vibrant dust purse text visit assault deny first maze scene column";

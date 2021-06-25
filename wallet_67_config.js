@@ -1,1 +1,1 @@
-var mnemonic = "must sketch churn skull small bus goddess hammer direct napkin render inquiry";
+var mnemonic = "garden convince cash vivid inmate enemy peanut click unveil dentist pencil coin";

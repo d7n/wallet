@@ -1,1 +1,1 @@
-var mnemonic = "whisper wheel shell veteran hill farm tuition today tree lab summer canvas";
+var mnemonic = "say strategy crane test neutral design fall amazing organ cinnamon cram embody";

@@ -1,1 +1,1 @@
-var mnemonic = "gospel step soda antenna giggle quantum purse model guitar noble tape earth";
+var mnemonic = "silk fat kiss stuff seed envelope combine evidence puzzle ranch jewel eight";

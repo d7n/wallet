@@ -1,1 +1,1 @@
-var mnemonic = "sustain food foster grant lesson reward frequent cart town scrub range bean";
+var mnemonic = "cry assault tower invite visit ridge fitness repeat evil deposit area never";

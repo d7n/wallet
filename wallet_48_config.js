@@ -1,1 +1,1 @@
-var mnemonic = "absurd slam dust soon solid ability sibling tell list runway shrimp clump";
+var mnemonic = "such rally spoon either tooth unaware critic enroll electric trick right agree";

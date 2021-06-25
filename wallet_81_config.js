@@ -1,1 +1,1 @@
-var mnemonic = "visual must burst creek acquire artefact naive wink spawn stomach kiss defense";
+var mnemonic = "nuclear split elder intact foot mean nominee crystal unfold valve balcony that";

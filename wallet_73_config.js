@@ -1,1 +1,1 @@
-var mnemonic = "card list tennis adjust damp clinic battle shoe table volcano mirror head";
+var mnemonic = "exercise gun olive another sock orphan donkey obvious style warfare rug gas";

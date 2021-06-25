@@ -1,1 +1,1 @@
-var mnemonic = "genuine fortune asset initial joy sibling intact light then actress coyote culture";
+var mnemonic = "spatial few since fine what tortoise right lesson camera carpet burden follow";

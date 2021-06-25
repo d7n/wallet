@@ -1,1 +1,1 @@
-var mnemonic = "key rubber provide title mosquito order chase obvious auto swing host diary";
+var mnemonic = "gravity movie roof start empower parade outer case combine rebel click clock";

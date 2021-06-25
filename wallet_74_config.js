@@ -1,1 +1,1 @@
-var mnemonic = "inherit visual season return town reduce attend life debate cereal fiction noise";
+var mnemonic = "ready emotion autumn pigeon obscure work faith math labor orange then gentle";

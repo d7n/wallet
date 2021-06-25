@@ -1,1 +1,1 @@
-var mnemonic = "debate split idea manual flavor vibrant cupboard core immune include leader chaos";
+var mnemonic = "account patrol soul comfort more faculty jewel undo picnic gather save flag";

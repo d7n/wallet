@@ -1,1 +1,1 @@
-var mnemonic = "history truck infant travel burden purchase time moon ecology baby asthma arrange";
+var mnemonic = "very rookie trick skull onion number possible depend pumpkin lobster time smart";

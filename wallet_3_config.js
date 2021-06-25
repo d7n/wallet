@@ -1,1 +1,1 @@
-var mnemonic = "portion until grain paper milk humor unfair custom era use kiwi pair";
+var mnemonic = "retreat outer impact miss mountain outside bench fashion depth clarify deliver width";

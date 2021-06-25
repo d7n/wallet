@@ -1,1 +1,1 @@
-var mnemonic = "year response depth peasant deal shell proud gospel mention vault embark young";
+var mnemonic = "tobacco clip oppose home slight crazy oxygen this chicken hint test breeze";

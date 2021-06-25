@@ -1,1 +1,1 @@
-var mnemonic = "water figure tilt own control local noodle lady occur pride correct devote";
+var mnemonic = "rival abstract verb clap december pluck guard upper isolate cluster limit limit";

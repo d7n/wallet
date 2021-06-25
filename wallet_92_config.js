@@ -1,1 +1,1 @@
-var mnemonic = "fence leopard core water march renew hollow theme twelve route appear hunt";
+var mnemonic = "neutral legal coin resemble escape differ render afford disagree spell purpose couch";

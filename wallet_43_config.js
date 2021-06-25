@@ -1,1 +1,1 @@
-var mnemonic = "rural pigeon fashion level cry loud juice coil script liar runway judge";
+var mnemonic = "rural shaft evil menu hello jar divert clever boil extra settle fire";

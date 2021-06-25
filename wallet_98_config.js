@@ -1,1 +1,1 @@
-var mnemonic = "tumble you strong wine digital vault cash urge pull alone replace comfort";
+var mnemonic = "spice affair magic grid blossom cliff this hawk venture fly sponsor thrive";

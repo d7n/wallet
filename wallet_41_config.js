@@ -1,1 +1,1 @@
-var mnemonic = "unit eye weasel wing pen minimum analyst lava debate whale erase detect";
+var mnemonic = "detail ready select economy virus promote bird disease blame replace shove rally";

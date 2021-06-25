@@ -1,1 +1,1 @@
-var mnemonic = "primary green liar goddess staff senior orphan resource actor update able hint";
+var mnemonic = "riot notable flight gesture buddy bomb pencil actress true summer capable inherit";

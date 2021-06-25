@@ -1,1 +1,1 @@
-var mnemonic = "person rule fence blind bounce nose quote wife desert eager rally asthma";
+var mnemonic = "echo visa shell thank often exact small bring crane banner across poem";

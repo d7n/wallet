@@ -1,1 +1,1 @@
-var mnemonic = "kind track rigid phone february cricket private tail swear diamond churn pink";
+var mnemonic = "town come chronic subway music limit peace pitch turtle ill gold gaze";

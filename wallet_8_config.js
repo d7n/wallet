@@ -1,1 +1,1 @@
-var mnemonic = "chase rescue belt two recipe blind also ladder dream hazard magnet main";
+var mnemonic = "wave need any scorpion seek occur fix practice huge ribbon live decorate";

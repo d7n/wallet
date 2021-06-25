@@ -1,1 +1,1 @@
-var mnemonic = "blue blast pizza exact humble flock gaze initial spice mixed brief vanish";
+var mnemonic = "mutual patch essence stove hobby section pill amount pudding taste idea crawl";

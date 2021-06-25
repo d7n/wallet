@@ -1,1 +1,1 @@
-var mnemonic = "toddler garbage will fancy duty vapor juice float tuna among bundle inner";
+var mnemonic = "law flag crash toy regret fury able clinic creek jar satisfy message";

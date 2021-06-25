@@ -1,1 +1,1 @@
-var mnemonic = "knock poverty slow domain either february figure click master fancy relief radar";
+var mnemonic = "blue scout prize injury prosper mule forward seven liar spike keep coconut";

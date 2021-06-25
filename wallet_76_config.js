@@ -1,1 +1,1 @@
-var mnemonic = "badge area clarify noble also tooth cruel major pair lizard legend gentle";
+var mnemonic = "side cinnamon half cannon reflect among sketch swarm trust horror there step";

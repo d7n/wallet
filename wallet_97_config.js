@@ -1,1 +1,1 @@
-var mnemonic = "airport draft truth arena entire solution pumpkin buffalo afraid farm avocado capital";
+var mnemonic = "cabbage topple indicate come tiny chaos fitness already loud siren fragile raven";

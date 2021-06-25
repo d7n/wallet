@@ -1,1 +1,1 @@
-var mnemonic = "autumn theme funny know unlock battle jaguar fluid gorilla neck town scale";
+var mnemonic = "dynamic need sauce tornado spin champion luxury fox reunion project large math";

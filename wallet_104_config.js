@@ -1,1 +1,1 @@
-var mnemonic = "much ten swamp copy barrel wage snap cigar rubber gown note spatial";
+var mnemonic = "empty shed couch story short hood arena multiply vendor organ cradle celery";

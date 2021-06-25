@@ -1,1 +1,1 @@
-var mnemonic = "jar raven unfair phrase involve dignity kick wealth test limb usual better";
+var mnemonic = "sorry spot chef clip push head middle lounge display surprise flight enrich";
