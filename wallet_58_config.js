@@ -1,1 +1,1 @@
-var mnemonic = "scorpion drama jump giraffe story photo staff cake parrot strong rich vibrant";
+var mnemonic = "robust advice move dragon joke jacket general staff frozen job now light";

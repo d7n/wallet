@@ -1,1 +1,1 @@
-var mnemonic = "expire chalk claim body limb mobile man glide sponsor glimpse monster balance";
+var mnemonic = "oil elite lounge virtual favorite manage people cook liquid blouse napkin turtle";

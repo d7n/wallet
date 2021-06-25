@@ -1,1 +1,1 @@
-var mnemonic = "disorder symptom faculty movie marine setup unit quarter enact raven eternal public";
+var mnemonic = "advice beyond task surround gap check ginger pilot hour mercy fat anchor";

@@ -1,1 +1,1 @@
-var mnemonic = "distance coconut during then stamp region print swear tuition kiwi load scorpion";
+var mnemonic = "high stone know saddle laundry collect sting game lunch absurd ritual wink";

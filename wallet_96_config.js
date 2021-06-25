@@ -1,1 +1,1 @@
-var mnemonic = "marriage sorry sad visit sunny comic police minimum funny scale behave input";
+var mnemonic = "betray unusual obscure picture orange disease position phone equip inherit voice winter";

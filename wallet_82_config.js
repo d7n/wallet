@@ -1,1 +1,1 @@
-var mnemonic = "asset march orange garage below tourist strong weird beach boss one worth";
+var mnemonic = "alarm neck connect blood despair trouble embody genius insect divert boss tube";

@@ -1,1 +1,1 @@
-var mnemonic = "vote demise exhaust guard senior wrong leg tragic green embark sting yard";
+var mnemonic = "abandon this come track around tumble dance wide motor core window ethics";

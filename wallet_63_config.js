@@ -1,1 +1,1 @@
-var mnemonic = "miss easily style sugar tank industry soda remind equip length renew also";
+var mnemonic = "trial live clerk iron scrub whip burden festival forward city tooth ridge";

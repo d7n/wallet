@@ -1,1 +1,1 @@
-var mnemonic = "duty toddler youth army absent glue beach plug screen parrot rail exclude";
+var mnemonic = "upset boy cram view elephant alley tray game movie post bring chalk";

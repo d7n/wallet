@@ -1,1 +1,1 @@
-var mnemonic = "salon pluck chapter siren cube climb matter bundle punch digital parade inflict";
+var mnemonic = "loyal hundred column treat clever tomato ritual shiver feature fiction wild scheme";

@@ -1,1 +1,1 @@
-var mnemonic = "chapter love catch inherit enter plug panic ramp woman feature pistol travel";
+var mnemonic = "nominee slow cherry boat life little stadium purse below cradle dawn asset";

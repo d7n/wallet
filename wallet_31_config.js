@@ -1,1 +1,1 @@
-var mnemonic = "accident wish buffalo result tone field cheap actual friend lion price post";
+var mnemonic = "blossom catch input monkey thing crystal into guess green quality casino basket";

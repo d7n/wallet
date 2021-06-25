@@ -1,1 +1,1 @@
-var mnemonic = "recall scout abandon glad weekend surround remain neglect rate excuse ripple boring";
+var mnemonic = "range cabbage dune race lunch pottery hole half trigger private mosquito muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "lunch fold shrug more project crawl plunge shiver repeat hill nice diagram";
+var mnemonic = "detect crouch sunny crucial travel find strike source monster print about master";

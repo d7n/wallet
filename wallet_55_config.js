@@ -1,1 +1,1 @@
-var mnemonic = "home myth tomato prefer quiz slab toss culture source nasty must tray";
+var mnemonic = "panda enter crunch dad man decorate warm pig purity spell beauty very";

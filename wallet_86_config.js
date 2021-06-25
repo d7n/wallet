@@ -1,1 +1,1 @@
-var mnemonic = "clever coconut monitor between praise into gauge educate hazard jump delay net";
+var mnemonic = "rural review merit inspire dad connect basic seminar sausage since fortune flip";

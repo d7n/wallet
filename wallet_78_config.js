@@ -1,1 +1,1 @@
-var mnemonic = "clay pencil lottery cushion arch visit federal tail decline apart eager popular";
+var mnemonic = "luggage square mad eyebrow grace slender evidence scare face candy utility runway";

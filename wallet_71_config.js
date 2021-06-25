@@ -1,1 +1,1 @@
-var mnemonic = "climb frozen churn quality bike harbor pass soup approve connect guitar champion";
+var mnemonic = "spoil quantum eyebrow type subject flight hollow egg okay luxury category bonus";

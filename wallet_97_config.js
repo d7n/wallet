@@ -1,1 +1,1 @@
-var mnemonic = "wine present hammer milk notable eight enforce shuffle capital another tissue tag";
+var mnemonic = "cheese able vacant sign traffic little era better crash hedgehog analyst rocket";

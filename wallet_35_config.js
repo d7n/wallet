@@ -1,1 +1,1 @@
-var mnemonic = "blanket know knife green oxygen army report detect friend knee person people";
+var mnemonic = "power vocal brisk crunch settle donkey filter spoon entry stem device gauge";

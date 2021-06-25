@@ -1,1 +1,1 @@
-var mnemonic = "wolf evolve sauce cram tragic car castle sponsor round divorce what pluck";
+var mnemonic = "dog chuckle image alone faith chimney west undo stage thing question train";

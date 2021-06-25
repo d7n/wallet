@@ -1,1 +1,1 @@
-var mnemonic = "very churn exile arrange during offer breeze attract squeeze lawsuit eagle news";
+var mnemonic = "educate only snap label ankle broccoli taxi toilet satisfy traffic sort dirt";

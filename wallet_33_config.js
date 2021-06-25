@@ -1,1 +1,1 @@
-var mnemonic = "key dutch hawk bullet pole share spirit attack green moment mail tissue";
+var mnemonic = "tornado kitchen valley mammal child concert enlist almost impose economy chunk napkin";

@@ -1,1 +1,1 @@
-var mnemonic = "more occur quarter notable sense draw crystal pig juice cable behind scissors";
+var mnemonic = "light almost midnight gorilla pottery useless gospel rent helmet deposit potato decrease";

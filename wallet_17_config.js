@@ -1,1 +1,1 @@
-var mnemonic = "wise novel spy payment element struggle galaxy clever marriage unique notable jelly";
+var mnemonic = "often client endless consider web dignity open lift meat satoshi fire short";

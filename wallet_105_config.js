@@ -1,1 +1,1 @@
-var mnemonic = "achieve right estate bench ridge second wet original various rug poet card";
+var mnemonic = "kite sample wreck eyebrow plate above same elevator face develop worth cheese";

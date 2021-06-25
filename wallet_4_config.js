@@ -1,1 +1,1 @@
-var mnemonic = "same morning license agent stomach gallery east element end vacant demise faint";
+var mnemonic = "best movie antique rain shell before bullet space swarm exit enter ostrich";

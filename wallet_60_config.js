@@ -1,1 +1,1 @@
-var mnemonic = "clog act occur kitchen moral wolf boost hard stool chest month lock";
+var mnemonic = "dynamic tent together search maple slow power basket decorate maple wash kitten";

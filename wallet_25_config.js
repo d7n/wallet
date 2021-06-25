@@ -1,1 +1,1 @@
-var mnemonic = "ramp depart winner outside riot exclude jewel fox miracle deposit fix bread";
+var mnemonic = "feed suffer chair ill upper odor federal job enact detect unfair double";

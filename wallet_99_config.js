@@ -1,1 +1,1 @@
-var mnemonic = "wall either fortune cinnamon lottery help anxiety such wife crew cycle maple";
+var mnemonic = "gift during spirit cream say cash roast canal then alpha spatial earth";

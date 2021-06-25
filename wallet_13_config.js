@@ -1,1 +1,1 @@
-var mnemonic = "morning author program rent raven inflict motor fence popular edge require april";
+var mnemonic = "kiwi ball zone category silver coil junior beef north mask bargain garage";

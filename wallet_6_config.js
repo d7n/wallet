@@ -1,1 +1,1 @@
-var mnemonic = "dust have figure rail reward wire chicken mosquito donor tackle quote video";
+var mnemonic = "fiber mobile typical mystery width type leg dog inside hazard beyond vocal";

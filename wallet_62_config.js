@@ -1,1 +1,1 @@
-var mnemonic = "route vanish caught solution stadium plate update nominee genuine antique ability asthma";
+var mnemonic = "yard ready office you coin airport acoustic twelve sunny very toward sponsor";

@@ -1,1 +1,1 @@
-var mnemonic = "cherry travel scale name spider elbow comfort tumble talk cube cause venture";
+var mnemonic = "bubble display direct burden toss naive math truly obtain envelope slush empty";

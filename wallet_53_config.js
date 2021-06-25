@@ -1,1 +1,1 @@
-var mnemonic = "follow crew august core horse dolphin coffee nest vote diesel leisure member";
+var mnemonic = "sugar vintage dawn argue chicken palace wish glow sheriff lawn deer soccer";

@@ -1,1 +1,1 @@
-var mnemonic = "gown amused casino portion lab clutch drip excess shallow mixed try hover";
+var mnemonic = "vague narrow solid plastic nest gauge youth word horse aim double castle";

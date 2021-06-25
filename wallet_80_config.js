@@ -1,1 +1,1 @@
-var mnemonic = "crime body ring hollow cigar attack casino chase acid ghost pink insane";
+var mnemonic = "bunker sentence puzzle shallow pony wheat mail foster bunker armed enhance draft";

@@ -1,1 +1,1 @@
-var mnemonic = "soon exotic output embody crucial ability rack silly mystery frog soda talent";
+var mnemonic = "stick visual correct liberty rose egg spell grief banner club tribe shield";

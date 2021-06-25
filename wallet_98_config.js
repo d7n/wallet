@@ -1,1 +1,1 @@
-var mnemonic = "tribe oak range dwarf quote conduct diesel inmate echo chapter enjoy hope";
+var mnemonic = "embody alpha denial addict antenna tribe helmet rapid trade gown earn camera";

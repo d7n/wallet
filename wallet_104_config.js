@@ -1,1 +1,1 @@
-var mnemonic = "member input mercy lottery illegal blood olympic report disease spray coyote lunar";
+var mnemonic = "error joy basic art limit ignore audit prevent face right rifle fade";

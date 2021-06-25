@@ -1,1 +1,1 @@
-var mnemonic = "toss fringe vital ostrich settle bullet result remember turn brief digital habit";
+var mnemonic = "hawk tackle fold license garlic coil soul shop manage nation what dry";

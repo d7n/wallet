@@ -1,1 +1,1 @@
-var mnemonic = "violin cement ordinary glare main torch ankle song laundry skate wine letter";
+var mnemonic = "iron option title donate vapor silver nominee list horror afford glad grant";

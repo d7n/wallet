@@ -1,1 +1,1 @@
-var mnemonic = "seed surprise buzz field feature agree rack december speak quantum impose conduct";
+var mnemonic = "spoon ensure agent silver fetch logic beef normal nut master van scrap";

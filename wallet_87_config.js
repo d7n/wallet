@@ -1,1 +1,1 @@
-var mnemonic = "cliff music receive human piano invest credit save walk scare slender later";
+var mnemonic = "cloud thing maze simple myth square velvet escape mouse observe debate essay";

@@ -1,1 +1,1 @@
-var mnemonic = "immune uphold creek reunion wide extend silver provide harsh loud chief negative";
+var mnemonic = "recycle focus reflect snap knife girl hole coffee squirrel hire seminar rather";

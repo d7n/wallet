@@ -1,1 +1,1 @@
-var mnemonic = "razor loud salt trim spread flat vault false visit local burden maple";
+var mnemonic = "lock submit front card inspire possible child frog man axis dwarf undo";

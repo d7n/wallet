@@ -1,1 +1,1 @@
-var mnemonic = "never laptop bicycle glad twelve chief absurd rough ship orange calm path";
+var mnemonic = "ability post tackle turn all balcony recycle alert churn traffic solution cloud";

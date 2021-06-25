@@ -1,1 +1,1 @@
-var mnemonic = "master coach zebra mixture snap spirit shrug turtle success kind faint credit";
+var mnemonic = "noble balance mask innocent exit visit belt female crouch rug middle invest";

@@ -1,1 +1,1 @@
-var mnemonic = "lady rug jaguar crew squeeze fruit lyrics shrimp distance journey cage practice";
+var mnemonic = "syrup invest jaguar panel resource jewel retreat pudding anxiety infant brother dress";

@@ -1,1 +1,1 @@
-var mnemonic = "museum frown surround draft fitness company mind august because rocket perfect sponsor";
+var mnemonic = "speed always involve plastic estate pause stand lunar expose select admit pumpkin";

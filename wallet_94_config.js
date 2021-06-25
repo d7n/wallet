@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon pretty road note join mercy jeans topic gravity around solution review";
+var mnemonic = "inherit bean pole theory danger act harsh erosion skull finger liar bring";

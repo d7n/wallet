@@ -1,1 +1,1 @@
-var mnemonic = "razor avoid faith quarter decorate jump what wisdom flee lab street north";
+var mnemonic = "sick spirit leopard during moral orphan utility ticket denial blanket nurse bullet";

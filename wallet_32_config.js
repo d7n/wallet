@@ -1,1 +1,1 @@
-var mnemonic = "scene tribe grant leg slice escape carbon salt donor wire warfare wonder";
+var mnemonic = "report toward series phrase leave tail hover industry rhythm original muscle tongue";

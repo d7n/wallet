@@ -1,1 +1,1 @@
-var mnemonic = "swarm fruit tell knee jelly shine talk dismiss mail switch fatal mixture";
+var mnemonic = "drill fee universe happy idle select tribe zoo paddle error quote clerk";

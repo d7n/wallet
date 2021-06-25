@@ -1,1 +1,1 @@
-var mnemonic = "escape rice feed liquid lab vicious second hamster surround happy basic left";
+var mnemonic = "blade release pitch pet cable umbrella build drink child assume orient eternal";

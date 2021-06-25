@@ -1,1 +1,1 @@
-var mnemonic = "action core common decade artefact scatter hurry this machine kitten tilt boil";
+var mnemonic = "code journey lake demand tiger monster velvet erosion shoulder master hover silly";

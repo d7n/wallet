@@ -1,1 +1,1 @@
-var mnemonic = "whisper alone release embrace person bring fortune travel audit economy long play";
+var mnemonic = "suggest across icon produce bid surge select series youth van consider toe";

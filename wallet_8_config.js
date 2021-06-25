@@ -1,1 +1,1 @@
-var mnemonic = "bronze glide release tornado rhythm possible assist develop citizen apple bitter outdoor";
+var mnemonic = "alley vault suspect knock network ball code catch bag primary deal profit";

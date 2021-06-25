@@ -1,1 +1,1 @@
-var mnemonic = "celery protect shoe comic wet physical portion teach prison pill cement zebra";
+var mnemonic = "mango announce estate stem question finish casino pear term boat prison dentist";

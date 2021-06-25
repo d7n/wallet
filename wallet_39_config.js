@@ -1,1 +1,1 @@
-var mnemonic = "merit pass sleep bullet coil cupboard direct gospel lift scout turkey between";
+var mnemonic = "track seat master alpha word where road game banana stock lens drama";

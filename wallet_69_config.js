@@ -1,1 +1,1 @@
-var mnemonic = "myself giggle truth joy eight cloud drill day quiz dash gown ring";
+var mnemonic = "draw lens weapon uniform because crazy theory about idle elder moment blanket";

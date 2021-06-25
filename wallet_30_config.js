@@ -1,1 +1,1 @@
-var mnemonic = "foster lyrics horse jar wrong huge cradle grab world estate glide rug";
+var mnemonic = "during enforce thank pair parrot fame wash very easy scissors when demand";

@@ -1,1 +1,1 @@
-var mnemonic = "car stereo mix end essay palm lock spawn craft lesson subway mammal";
+var mnemonic = "fresh typical country rack type bronze nothing bonus atom divorce excuse kid";

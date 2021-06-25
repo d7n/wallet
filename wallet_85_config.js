@@ -1,1 +1,1 @@
-var mnemonic = "audit snake arrange cat lobster author ring kidney anxiety sea more front";
+var mnemonic = "turtle grid foster scissors define balcony now tongue car analyst helmet gossip";

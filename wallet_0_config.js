@@ -1,1 +1,1 @@
-var mnemonic = "ramp dust direct wasp grain state demand enemy sustain fitness rain action";
+var mnemonic = "unlock cream inhale army slush venue invite impact base shine sport reflect";

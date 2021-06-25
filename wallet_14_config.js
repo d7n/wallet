@@ -1,1 +1,1 @@
-var mnemonic = "target sand athlete balance vivid fence mention random diary green jelly toward";
+var mnemonic = "truck select craft tragic convince busy trash surface bounce soap attend split";

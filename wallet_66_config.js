@@ -1,1 +1,1 @@
-var mnemonic = "course expose frame swarm glove parent airport tissue under around snap chalk";
+var mnemonic = "sheriff into fancy inside around shed fragile curve uphold soda wink adjust";

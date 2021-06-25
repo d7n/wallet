@@ -1,1 +1,1 @@
-var mnemonic = "hurdle ill tenant okay notice ecology guitar spoil smart gospel pepper echo";
+var mnemonic = "that under canal better uphold disorder eternal output buffalo road exact deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket twist siren stand card zone indoor mistake tackle swarm piano parade";
+var mnemonic = "fringe coffee proud dismiss private tuna autumn ball life sorry shock practice";

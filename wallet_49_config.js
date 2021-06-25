@@ -1,1 +1,1 @@
-var mnemonic = "angry climb illegal galaxy unhappy leopard cute physical begin guilt volcano boss";
+var mnemonic = "treat crawl tent month acoustic melt render buzz tiger total wing peace";

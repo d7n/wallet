@@ -1,1 +1,1 @@
-var mnemonic = "flip clutch setup say suit enter carpet situate blur shiver scene hint";
+var mnemonic = "hole hair sign clump fan endless solid bag section leave great surround";

@@ -1,1 +1,1 @@
-var mnemonic = "between inmate poverty squeeze regular rich palace horror dry dynamic goat refuse";
+var mnemonic = "doctor base fee aware ozone orange fly live scatter mushroom track gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "cradle seek material cargo rent pond glove critic output credit number leaf";
+var mnemonic = "order open excite vanish oil piece own trade shell pottery dry alien";

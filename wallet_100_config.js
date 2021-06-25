@@ -1,1 +1,1 @@
-var mnemonic = "steak impulse sketch grant soup agent live casual mechanic twin large school";
+var mnemonic = "plastic vapor tenant valve slice grab toilet pet thank snake story tent";

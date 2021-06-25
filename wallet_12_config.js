@@ -1,1 +1,1 @@
-var mnemonic = "maximum nice jacket volume correct devote punch office used carry wrap gown";
+var mnemonic = "abandon choose crumble capital strong trumpet adult nothing size around comic bind";

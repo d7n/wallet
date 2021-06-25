@@ -1,1 +1,1 @@
-var mnemonic = "raccoon armor hurdle merit economy sword extra other hollow purse crumble cluster";
+var mnemonic = "flame ugly flower small record forum road anchor prosper midnight prefer because";

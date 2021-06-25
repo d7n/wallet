@@ -1,1 +1,1 @@
-var mnemonic = "plunge estate project this sketch surround else rapid best inflict decorate stock";
+var mnemonic = "chuckle front fire limit episode debate soda bike popular horse very security";

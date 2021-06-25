@@ -1,1 +1,1 @@
-var mnemonic = "into trust smart gift recall beach town direct sunset swear guess solar";
+var mnemonic = "loyal summer boring music nut knife unknown bicycle human accident fossil vendor";

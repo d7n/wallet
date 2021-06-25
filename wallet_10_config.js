@@ -1,1 +1,1 @@
-var mnemonic = "blast obscure pet found unable tennis reform prevent panther chief juice powder";
+var mnemonic = "spider hawk earth coach pair reduce wine rotate piano chest riot neither";

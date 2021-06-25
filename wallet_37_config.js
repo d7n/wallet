@@ -1,1 +1,1 @@
-var mnemonic = "major crater pull increase produce enable defy adjust coil seven drift rocket";
+var mnemonic = "melody course rookie magnet steel drink toward excess portion embody comfort report";

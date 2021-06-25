@@ -1,1 +1,1 @@
-var mnemonic = "fluid cube razor pole bonus point alter between there bird mutual curious";
+var mnemonic = "tragic man close gospel bar battle trophy fee curtain horror crane series";
