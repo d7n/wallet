@@ -1,1 +1,1 @@
-var mnemonic = "dress plastic kidney frog chronic ocean magic melt sense diary dwarf stay";
+var mnemonic = "sea struggle cream oven van impulse rapid square income curious person ride";

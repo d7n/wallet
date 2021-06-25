@@ -1,1 +1,1 @@
-var mnemonic = "yellow tower letter over twenty plug pizza glove alone tide choice expect";
+var mnemonic = "key dutch hawk bullet pole share spirit attack green moment mail tissue";

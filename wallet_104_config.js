@@ -1,1 +1,1 @@
-var mnemonic = "talk label proud hat avoid outer arrow possible settle upper ensure miracle";
+var mnemonic = "member input mercy lottery illegal blood olympic report disease spray coyote lunar";

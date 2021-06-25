@@ -1,1 +1,1 @@
-var mnemonic = "seed crisp ethics walk hen hole either risk spend agree visual second";
+var mnemonic = "whisper alone release embrace person bring fortune travel audit economy long play";

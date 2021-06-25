@@ -1,1 +1,1 @@
-var mnemonic = "prosper caution pigeon record snow music cargo bottom engine pear actress shine";
+var mnemonic = "never laptop bicycle glad twelve chief absurd rough ship orange calm path";

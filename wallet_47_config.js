@@ -1,1 +1,1 @@
-var mnemonic = "true obey juice blind armor food rare verify tail struggle wolf hello";
+var mnemonic = "expire chalk claim body limb mobile man glide sponsor glimpse monster balance";

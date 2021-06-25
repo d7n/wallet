@@ -1,1 +1,1 @@
-var mnemonic = "ribbon amazing goose nominee feature rookie until letter blood later hold ill";
+var mnemonic = "razor loud salt trim spread flat vault false visit local burden maple";

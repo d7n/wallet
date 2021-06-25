@@ -1,1 +1,1 @@
-var mnemonic = "cat airport subway swing system time excess radar laundry approve mobile leader";
+var mnemonic = "maximum nice jacket volume correct devote punch office used carry wrap gown";

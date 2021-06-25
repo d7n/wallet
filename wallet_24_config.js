@@ -1,1 +1,1 @@
-var mnemonic = "regular bridge someone card refuse sentence pact pipe wear arena include loop";
+var mnemonic = "immune uphold creek reunion wide extend silver provide harsh loud chief negative";

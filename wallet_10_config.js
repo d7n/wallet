@@ -1,1 +1,1 @@
-var mnemonic = "april artwork razor arrive utility crazy fine frequent caught road tobacco flag";
+var mnemonic = "blast obscure pet found unable tennis reform prevent panther chief juice powder";

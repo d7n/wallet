@@ -1,1 +1,1 @@
-var mnemonic = "fortune relax three word earth major seed learn list weasel knee weird";
+var mnemonic = "seed surprise buzz field feature agree rack december speak quantum impose conduct";

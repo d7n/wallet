@@ -1,1 +1,1 @@
-var mnemonic = "steel suspect dry donor sunny ketchup toss amazing mask hurt fantasy door";
+var mnemonic = "escape rice feed liquid lab vicious second hamster surround happy basic left";

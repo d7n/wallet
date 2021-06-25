@@ -1,1 +1,1 @@
-var mnemonic = "truck ready parade diesel punch couch material cram broom bone demand practice";
+var mnemonic = "game husband energy galaxy guess purchase frozen forum ladder pond top verb";

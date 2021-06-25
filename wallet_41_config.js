@@ -1,1 +1,1 @@
-var mnemonic = "opera grunt portion sentence output dragon couch slender nest kid permit silent";
+var mnemonic = "recall scout abandon glad weekend surround remain neglect rate excuse ripple boring";

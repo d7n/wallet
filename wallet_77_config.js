@@ -1,1 +1,1 @@
-var mnemonic = "squeeze fun quit sorry mimic fall twice repair dawn couple garlic sheriff";
+var mnemonic = "slice token monitor begin mansion boat bike dynamic art amount bitter version";

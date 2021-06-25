@@ -1,1 +1,1 @@
-var mnemonic = "warfare horn about grid gate garden measure kind renew quote about door";
+var mnemonic = "else reform raise toss slogan fault riot clay guilt update praise improve";

@@ -1,1 +1,1 @@
-var mnemonic = "romance urge combine fire chicken lemon perfect three hen coffee stone glove";
+var mnemonic = "barrel cricket exclude lucky foster settle occur life extra dawn indoor trophy";

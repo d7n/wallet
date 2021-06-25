@@ -1,1 +1,1 @@
-var mnemonic = "sense print cargo refuse protect device track stuff like risk ship matter";
+var mnemonic = "wise novel spy payment element struggle galaxy clever marriage unique notable jelly";

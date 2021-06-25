@@ -1,1 +1,1 @@
-var mnemonic = "neither flash length weasel shell pumpkin scrap giggle rack convince supreme enroll";
+var mnemonic = "audit snake arrange cat lobster author ring kidney anxiety sea more front";

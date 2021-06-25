@@ -1,1 +1,1 @@
-var mnemonic = "produce term hire alert prize minor visual nasty antique engage hockey kidney";
+var mnemonic = "language sense rare hammer obtain zebra inhale filter other around veteran token";

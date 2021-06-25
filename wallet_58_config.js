@@ -1,1 +1,1 @@
-var mnemonic = "zebra oval shell citizen record transfer marine sport crash olympic infant boil";
+var mnemonic = "scorpion drama jump giraffe story photo staff cake parrot strong rich vibrant";

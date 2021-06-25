@@ -1,1 +1,1 @@
-var mnemonic = "dizzy turtle must pitch wait hammer barely protect arctic crucial hope fuel";
+var mnemonic = "ramp dust direct wasp grain state demand enemy sustain fitness rain action";

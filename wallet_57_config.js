@@ -1,1 +1,1 @@
-var mnemonic = "mother garment radar onion dwarf magnet practice work sketch yellow liquid diamond";
+var mnemonic = "raccoon armor hurdle merit economy sword extra other hollow purse crumble cluster";

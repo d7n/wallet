@@ -1,1 +1,1 @@
-var mnemonic = "nothing afraid typical over skate win venture regret ensure illegal among that";
+var mnemonic = "crime body ring hollow cigar attack casino chase acid ghost pink insane";

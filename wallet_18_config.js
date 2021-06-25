@@ -1,1 +1,1 @@
-var mnemonic = "bunker public logic lend clog ridge elevator wink chat cousin limit upon";
+var mnemonic = "soon exotic output embody crucial ability rack silly mystery frog soda talent";

@@ -1,1 +1,1 @@
-var mnemonic = "tongue document clock rifle check unhappy trade guitar artwork exhaust calm ribbon";
+var mnemonic = "hole govern remember shoe sadness blade bring oven hamster hidden taste grace";

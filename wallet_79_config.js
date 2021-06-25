@@ -1,1 +1,1 @@
-var mnemonic = "oven guitar deliver poverty moon warm custom ecology cause another project daring";
+var mnemonic = "cradle seek material cargo rent pond glove critic output credit number leaf";

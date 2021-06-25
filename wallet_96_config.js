@@ -1,1 +1,1 @@
-var mnemonic = "scan aspect kiwi disorder control valley alien type remove foil suffer burger";
+var mnemonic = "marriage sorry sad visit sunny comic police minimum funny scale behave input";

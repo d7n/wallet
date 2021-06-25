@@ -1,1 +1,1 @@
-var mnemonic = "myself fox desert pet photo area until aunt filter alien cable skin";
+var mnemonic = "cinnamon pretty road note join mercy jeans topic gravity around solution review";

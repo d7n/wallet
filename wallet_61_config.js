@@ -1,1 +1,1 @@
-var mnemonic = "pave cigar ocean clever certain copper unfair trip six mandate divide tired";
+var mnemonic = "car stereo mix end essay palm lock spawn craft lesson subway mammal";

@@ -1,1 +1,1 @@
-var mnemonic = "repair produce tomorrow opinion minor record emotion place jar bottom sheriff present";
+var mnemonic = "duty toddler youth army absent glue beach plug screen parrot rail exclude";

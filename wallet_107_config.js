@@ -1,1 +1,1 @@
-var mnemonic = "security project river mesh topple public deposit hen view raven despair mechanic";
+var mnemonic = "park jealous proof mushroom include motion series scout work push pattern diamond";

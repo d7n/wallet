@@ -1,1 +1,1 @@
-var mnemonic = "lonely shuffle neck lecture board only cattle apart unable version wild bulb";
+var mnemonic = "sun put crater trap fitness sleep deer legal menu gaze document nasty";

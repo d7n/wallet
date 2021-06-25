@@ -1,1 +1,1 @@
-var mnemonic = "spring blame knife weapon music hollow atom walnut myth expire word fit";
+var mnemonic = "jacket twist siren stand card zone indoor mistake tackle swarm piano parade";

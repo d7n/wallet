@@ -1,1 +1,1 @@
-var mnemonic = "easily exhaust bone party bomb whip teach letter pause topic uncover garment";
+var mnemonic = "inherit online transfer spray view tongue bike adapt canoe wedding guitar vessel";

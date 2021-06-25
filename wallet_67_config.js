@@ -1,1 +1,1 @@
-var mnemonic = "swear float scatter tumble oppose moment harbor tip usage glue divide slogan";
+var mnemonic = "between inmate poverty squeeze regular rich palace horror dry dynamic goat refuse";

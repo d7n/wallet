@@ -1,1 +1,1 @@
-var mnemonic = "position pen garment almost festival speak unable finger language have mom benefit";
+var mnemonic = "disorder symptom faculty movie marine setup unit quarter enact raven eternal public";

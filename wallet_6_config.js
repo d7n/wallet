@@ -1,1 +1,1 @@
-var mnemonic = "web discover chunk smooth original ribbon access retire ordinary attend blame arctic";
+var mnemonic = "dust have figure rail reward wire chicken mosquito donor tackle quote video";

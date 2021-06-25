@@ -1,1 +1,1 @@
-var mnemonic = "joy envelope vast skate wear hero deposit inspire suit rich atom novel";
+var mnemonic = "swarm fruit tell knee jelly shine talk dismiss mail switch fatal mixture";

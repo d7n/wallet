@@ -1,1 +1,1 @@
-var mnemonic = "select hurt tattoo jelly unhappy shoulder rotate range neck goddess concert isolate";
+var mnemonic = "same morning license agent stomach gallery east element end vacant demise faint";

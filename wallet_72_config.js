@@ -1,1 +1,1 @@
-var mnemonic = "require awkward gospel accident father voice donate define gain sniff drip wife";
+var mnemonic = "lunch fold shrug more project crawl plunge shiver repeat hill nice diagram";

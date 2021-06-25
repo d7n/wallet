@@ -1,1 +1,1 @@
-var mnemonic = "arch country crumble assist input skill chest soda breeze liquid blanket cruel";
+var mnemonic = "achieve right estate bench ridge second wet original various rug poet card";

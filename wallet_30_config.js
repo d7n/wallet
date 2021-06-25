@@ -1,1 +1,1 @@
-var mnemonic = "start decorate basket puppy arrest online federal record echo dolphin dish hunt";
+var mnemonic = "foster lyrics horse jar wrong huge cradle grab world estate glide rug";

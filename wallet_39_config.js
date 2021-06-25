@@ -1,1 +1,1 @@
-var mnemonic = "album pluck silk they loud game category sock dune output elephant devote";
+var mnemonic = "merit pass sleep bullet coil cupboard direct gospel lift scout turkey between";

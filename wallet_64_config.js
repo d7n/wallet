@@ -1,1 +1,1 @@
-var mnemonic = "approve inmate sentence dismiss domain few sword skull reveal rhythm snake virus";
+var mnemonic = "forest satoshi blossom quantum galaxy refuse tray author rival work hire valley";

@@ -1,1 +1,1 @@
-var mnemonic = "filter ritual chalk satoshi fish diagram tornado close blouse oval escape hollow";
+var mnemonic = "jazz flower example salute absorb science palace boss gallery eagle keen glide";

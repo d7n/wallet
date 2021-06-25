@@ -1,1 +1,1 @@
-var mnemonic = "humor salon index time fox wasp twin sure slot knee oil avocado";
+var mnemonic = "master coach zebra mixture snap spirit shrug turtle success kind faint credit";

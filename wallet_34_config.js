@@ -1,1 +1,1 @@
-var mnemonic = "omit mistake kidney era shaft absurd virtual grace slice skin canvas expose";
+var mnemonic = "summer mountain pill cloud win exist slogan boss wheel undo sauce mandate";

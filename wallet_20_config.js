@@ -1,1 +1,1 @@
-var mnemonic = "uniform net today lumber drum media cage offer squirrel diagram polar trophy";
+var mnemonic = "into trust smart gift recall beach town direct sunset swear guess solar";

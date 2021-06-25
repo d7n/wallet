@@ -1,1 +1,1 @@
-var mnemonic = "head people tuna upon useless fragile priority cube pizza pipe grid quantum";
+var mnemonic = "lady rug jaguar crew squeeze fruit lyrics shrimp distance journey cage practice";

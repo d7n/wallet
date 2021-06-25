@@ -1,1 +1,1 @@
-var mnemonic = "occur document quick crowd satoshi excuse speak fortune reopen sausage just laugh";
+var mnemonic = "sand meat valley suspect north phone fever concert echo exhibit slab mask";

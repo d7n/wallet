@@ -1,1 +1,1 @@
-var mnemonic = "aim champion decrease shuffle heart near segment notice goat play armed buzz";
+var mnemonic = "fluid cube razor pole bonus point alter between there bird mutual curious";

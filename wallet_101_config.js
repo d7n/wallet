@@ -1,1 +1,1 @@
-var mnemonic = "learn blur aerobic teach lazy clerk remain iron appear famous result spike";
+var mnemonic = "more occur quarter notable sense draw crystal pig juice cable behind scissors";

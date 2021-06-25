@@ -1,1 +1,1 @@
-var mnemonic = "ensure master neutral fire furnace salon unusual chicken response volume cruise arm";
+var mnemonic = "glimpse original yellow dirt reform matter devote adjust reopen snack supreme series";

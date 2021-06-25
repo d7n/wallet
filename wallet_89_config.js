@@ -1,1 +1,1 @@
-var mnemonic = "tired virus lyrics true media wool taxi chuckle promote own slush raccoon";
+var mnemonic = "toss fringe vital ostrich settle bullet result remember turn brief digital habit";

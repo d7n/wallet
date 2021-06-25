@@ -1,1 +1,1 @@
-var mnemonic = "fancy salad frozen question enlist arm away near author leader bring candy";
+var mnemonic = "act people victory floor despair market hair response panther poverty sell stable";

@@ -1,1 +1,1 @@
-var mnemonic = "erode shop ball elevator tell mixture rose beyond nominee beach tell public";
+var mnemonic = "differ august bachelor approve suspect you tag profit pact excite ring fall";

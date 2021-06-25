@@ -1,1 +1,1 @@
-var mnemonic = "permit close head nuclear era regret code next pulp believe alert space";
+var mnemonic = "very churn exile arrange during offer breeze attract squeeze lawsuit eagle news";

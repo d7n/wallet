@@ -1,1 +1,1 @@
-var mnemonic = "damp water pass chair battle valve pluck ivory only angry slender suspect";
+var mnemonic = "target sand athlete balance vivid fence mention random diary green jelly toward";

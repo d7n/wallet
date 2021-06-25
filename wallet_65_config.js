@@ -1,1 +1,1 @@
-var mnemonic = "because wrong burden length sell violin comfort client east mass proof hurt";
+var mnemonic = "gown amused casino portion lab clutch drip excess shallow mixed try hover";

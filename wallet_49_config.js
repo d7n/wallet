@@ -1,1 +1,1 @@
-var mnemonic = "click document own damp assist silver grocery emerge onion total sell twice";
+var mnemonic = "angry climb illegal galaxy unhappy leopard cute physical begin guilt volcano boss";

@@ -1,1 +1,1 @@
-var mnemonic = "exile venture exercise rotate essence gaze subway truck kidney other capable segment";
+var mnemonic = "wall either fortune cinnamon lottery help anxiety such wife crew cycle maple";

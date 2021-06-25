@@ -1,1 +1,1 @@
-var mnemonic = "receive volume glory crunch color moral hero slush daughter address mango wolf";
+var mnemonic = "bronze glide release tornado rhythm possible assist develop citizen apple bitter outdoor";

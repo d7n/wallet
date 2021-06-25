@@ -1,1 +1,1 @@
-var mnemonic = "milk put frog panther clean survey useless egg custom boil legend vacant";
+var mnemonic = "wolf evolve sauce cram tragic car castle sponsor round divorce what pluck";

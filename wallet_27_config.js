@@ -1,1 +1,1 @@
-var mnemonic = "forum suit delay praise sport peace blur notable inspire small cram praise";
+var mnemonic = "discover dog climb bulb veteran human machine hazard order cricket purse wish";

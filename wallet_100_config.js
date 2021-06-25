@@ -1,1 +1,1 @@
-var mnemonic = "tank jungle immense pizza witness ginger pencil slight moment upper opinion old";
+var mnemonic = "steak impulse sketch grant soup agent live casual mechanic twin large school";

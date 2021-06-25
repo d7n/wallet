@@ -1,1 +1,1 @@
-var mnemonic = "fury path fresh police arrive oxygen myth illness tree include topic convince";
+var mnemonic = "major crater pull increase produce enable defy adjust coil seven drift rocket";

@@ -1,1 +1,1 @@
-var mnemonic = "wild gaze define blur faint opera maximum axis silly luggage sauce evolve";
+var mnemonic = "plunge estate project this sketch surround else rapid best inflict decorate stock";

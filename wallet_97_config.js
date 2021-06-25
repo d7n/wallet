@@ -1,1 +1,1 @@
-var mnemonic = "pyramid potato disorder bright device alert clarify make dove enroll hunt orange";
+var mnemonic = "wine present hammer milk notable eight enforce shuffle capital another tissue tag";

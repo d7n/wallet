@@ -1,1 +1,1 @@
-var mnemonic = "deliver kidney merry cube blue grow eye faint evil arrange fee style";
+var mnemonic = "accident wish buffalo result tone field cheap actual friend lion price post";

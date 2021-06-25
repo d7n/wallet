@@ -1,1 +1,1 @@
-var mnemonic = "orchard milk easily exist scissors fantasy angle physical game child better shift";
+var mnemonic = "morning author program rent raven inflict motor fence popular edge require april";

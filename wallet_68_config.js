@@ -1,1 +1,1 @@
-var mnemonic = "thunder mobile stamp fatigue antique goose broccoli travel sphere plunge settle runway";
+var mnemonic = "exhaust security remember candy arch borrow stool chunk defy sense emerge royal";

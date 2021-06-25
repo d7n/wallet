@@ -1,1 +1,1 @@
-var mnemonic = "balance hybrid false shift control enroll alter duty cabbage junior screen major";
+var mnemonic = "bronze liberty dust jewel sure column mammal jump pumpkin cheese want attend";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny prepare announce useful layer paddle violin coach festival void model bachelor";
+var mnemonic = "myself giggle truth joy eight cloud drill day quiz dash gown ring";

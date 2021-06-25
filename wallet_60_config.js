@@ -1,1 +1,1 @@
-var mnemonic = "fox wall oak area sunny front thunder vast vessel sick service mad";
+var mnemonic = "clog act occur kitchen moral wolf boost hard stool chest month lock";

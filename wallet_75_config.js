@@ -1,1 +1,1 @@
-var mnemonic = "deposit comic traffic ride gesture coyote prevent frost appear floor lawn soccer";
+var mnemonic = "distance coconut during then stamp region print swear tuition kiwi load scorpion";

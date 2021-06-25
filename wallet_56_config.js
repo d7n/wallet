@@ -1,1 +1,1 @@
-var mnemonic = "need liberty palm brick curve wink change penalty tourist focus harsh situate";
+var mnemonic = "museum frown surround draft fitness company mind august because rocket perfect sponsor";

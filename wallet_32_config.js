@@ -1,1 +1,1 @@
-var mnemonic = "fame cage spread expect slab dirt hero skate fury brown garlic hidden";
+var mnemonic = "scene tribe grant leg slice escape carbon salt donor wire warfare wonder";

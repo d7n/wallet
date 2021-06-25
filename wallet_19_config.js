@@ -1,1 +1,1 @@
-var mnemonic = "head rhythm imitate concert medal mail cruel ask describe zebra husband analyst";
+var mnemonic = "live diagram zero clerk snack inherit divert into reflect fiber million ocean";

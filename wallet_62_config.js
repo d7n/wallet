@@ -1,1 +1,1 @@
-var mnemonic = "lunar lend track artist ripple cover enable wave cousin piano engage someone";
+var mnemonic = "route vanish caught solution stadium plate update nominee genuine antique ability asthma";

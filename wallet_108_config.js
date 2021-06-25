@@ -1,1 +1,1 @@
-var mnemonic = "humble innocent impose milk baby powder envelope flash detect disease shoulder amateur";
+var mnemonic = "razor avoid faith quarter decorate jump what wisdom flee lab street north";

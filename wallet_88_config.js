@@ -1,1 +1,1 @@
-var mnemonic = "great great clinic bright bachelor output cloth soup amused urge staff tired";
+var mnemonic = "flip clutch setup say suit enter carpet situate blur shiver scene hint";

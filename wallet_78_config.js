@@ -1,1 +1,1 @@
-var mnemonic = "false beauty near invite together peanut trim arrive marine input column skirt";
+var mnemonic = "clay pencil lottery cushion arch visit federal tail decline apart eager popular";

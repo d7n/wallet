@@ -1,1 +1,1 @@
-var mnemonic = "surprise reduce addict approve worry struggle hospital pause elevator famous myself suit";
+var mnemonic = "cliff music receive human piano invest credit save walk scare slender later";

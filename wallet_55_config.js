@@ -1,1 +1,1 @@
-var mnemonic = "shy plunge beauty oven quality hawk doll awful crumble travel during ready";
+var mnemonic = "home myth tomato prefer quiz slab toss culture source nasty must tray";

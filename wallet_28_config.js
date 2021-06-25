@@ -1,1 +1,1 @@
-var mnemonic = "rib lyrics merit comic smart burger fish pledge confirm point ivory social";
+var mnemonic = "asthma engage menu fox pupil first caught key soldier pulse vanish item";

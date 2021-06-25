@@ -1,1 +1,1 @@
-var mnemonic = "loop clump since ghost level defy pride lottery egg carry dad off";
+var mnemonic = "violin cement ordinary glare main torch ankle song laundry skate wine letter";

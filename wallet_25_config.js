@@ -1,1 +1,1 @@
-var mnemonic = "habit hole ask style civil mercy during spoon plug genre mountain dice";
+var mnemonic = "ramp depart winner outside riot exclude jewel fox miracle deposit fix bread";

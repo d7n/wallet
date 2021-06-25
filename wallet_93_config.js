@@ -1,1 +1,1 @@
-var mnemonic = "stone idle fabric income topic patient army vibrant impose person tonight beach";
+var mnemonic = "hurdle ill tenant okay notice ecology guitar spoil smart gospel pepper echo";

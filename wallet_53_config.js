@@ -1,1 +1,1 @@
-var mnemonic = "lady grab bid paddle never blush chase soccer result odor survey talk";
+var mnemonic = "follow crew august core horse dolphin coffee nest vote diesel leisure member";

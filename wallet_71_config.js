@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin found resemble group curious alien cricket tribe happy ski vehicle accuse";
+var mnemonic = "climb frozen churn quality bike harbor pass soup approve connect guitar champion";
