@@ -1,1 +1,1 @@
-var mnemonic = "hint actor mammal play pill stairs reduce raw urban minimum sponsor shield";
+var mnemonic = "coconut arrive already oxygen loop reason firm youth acid elevator camp section";

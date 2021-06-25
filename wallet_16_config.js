@@ -1,1 +1,1 @@
-var mnemonic = "thunder shadow fame buzz race boss modify rough armed boy into demise";
+var mnemonic = "seed become nephew endless gift surface novel dinner traffic stumble february favorite";

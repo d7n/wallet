@@ -1,1 +1,1 @@
-var mnemonic = "wave ordinary shine defy embark crisp involve report elegant dutch hope fortune";
+var mnemonic = "beyond blind insane nature clean accuse polar wild catalog size similar since";

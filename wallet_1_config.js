@@ -1,1 +1,1 @@
-var mnemonic = "trouble blade weapon flip expect hospital tackle mirror away script obscure crime";
+var mnemonic = "resource differ reform secret orchard salt stool obtain critic below load short";

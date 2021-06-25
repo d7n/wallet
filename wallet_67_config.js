@@ -1,1 +1,1 @@
-var mnemonic = "uphold deny since humble milk genuine attract table lens claim record load";
+var mnemonic = "sense typical cupboard fetch flee night window learn chimney slide drink impact";

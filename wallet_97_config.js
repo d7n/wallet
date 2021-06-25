@@ -1,1 +1,1 @@
-var mnemonic = "century jump style elder pretty inner benefit fever spatial pizza rebuild surprise";
+var mnemonic = "arena inquiry alter disorder what box define apart give cruise close father";

@@ -1,1 +1,1 @@
-var mnemonic = "unknown monkey better olive grace minimum claw render soldier sick pottery pulse";
+var mnemonic = "win crumble panther ranch spoil object unusual claw stage swing survey rival";

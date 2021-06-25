@@ -1,1 +1,1 @@
-var mnemonic = "coach pitch warfare afraid danger apology aisle cluster sock slow silent marble";
+var mnemonic = "volume gospel happy eager cherry unable lady nation aim horn slogan office";

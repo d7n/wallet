@@ -1,1 +1,1 @@
-var mnemonic = "chuckle breeze game fiber fork upgrade once daring marriage put cruise fat";
+var mnemonic = "undo insect pupil couple lake claw wide debate learn ride build river";

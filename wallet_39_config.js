@@ -1,1 +1,1 @@
-var mnemonic = "broom fix south above steak dune shove culture firm either present truck";
+var mnemonic = "glimpse timber vague answer spike junk art fragile reward rare enforce autumn";

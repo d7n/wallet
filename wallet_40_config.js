@@ -1,1 +1,1 @@
-var mnemonic = "seek raise mass twist love april hold bulb silly mosquito bird tuition";
+var mnemonic = "tongue picnic arena extra news notable shaft frozen expand little hard negative";

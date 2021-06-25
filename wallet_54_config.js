@@ -1,1 +1,1 @@
-var mnemonic = "result wife across turkey subject creek satisfy addict short usual cereal fatal";
+var mnemonic = "exact remove rifle shrimp enough protect cabin bench quit head sign ethics";

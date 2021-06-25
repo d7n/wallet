@@ -1,1 +1,1 @@
-var mnemonic = "ice extra quit heavy cat cinnamon torch athlete waste punch average village";
+var mnemonic = "middle syrup index tennis gorilla remind exclude mountain candy nose accident ketchup";

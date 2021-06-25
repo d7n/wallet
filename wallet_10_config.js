@@ -1,1 +1,1 @@
-var mnemonic = "focus all inner slim industry aunt guard bridge treat rice brief aware";
+var mnemonic = "magic ripple brave table winter lunar shoot typical velvet sting marble test";

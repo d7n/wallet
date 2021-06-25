@@ -1,1 +1,1 @@
-var mnemonic = "army poem work carbon kingdom found wheat fun first doctor develop bleak";
+var mnemonic = "stamp enemy craft sheriff area cricket liberty enjoy mix wine code face";

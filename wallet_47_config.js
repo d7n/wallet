@@ -1,1 +1,1 @@
-var mnemonic = "crush when route citizen fruit cinnamon lobster interest render hip between random";
+var mnemonic = "fall angry rib attend skate surprise control monkey minimum army enough wheat";

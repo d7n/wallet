@@ -1,1 +1,1 @@
-var mnemonic = "spray embrace minimum engage boat supply pelican kingdom fringe plastic gossip approve";
+var mnemonic = "wall evidence cannon pave input slide potato sphere issue ranch call coral";

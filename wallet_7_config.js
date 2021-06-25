@@ -1,1 +1,1 @@
-var mnemonic = "tuna emotion rack flight gold finish arch faith among accuse laptop raise";
+var mnemonic = "circle ladder climb smooth manual vintage festival dance under wet drum head";

@@ -1,1 +1,1 @@
-var mnemonic = "panda awesome north crowd practice hover episode educate parrot robust mirror element";
+var mnemonic = "vapor planet marriage bottom give property soap brass chalk ride box trim";

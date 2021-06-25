@@ -1,1 +1,1 @@
-var mnemonic = "decrease birth output laugh almost food federal unusual crime common explain wait";
+var mnemonic = "roof item truck debris canal net online pepper vacuum volcano welcome talk";

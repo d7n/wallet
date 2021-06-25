@@ -1,1 +1,1 @@
-var mnemonic = "stumble swap now curtain blind captain erupt cube tobacco pretty food leader";
+var mnemonic = "twice response awkward typical fancy grain magnet toward dismiss fault busy aspect";

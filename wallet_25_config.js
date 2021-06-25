@@ -1,1 +1,1 @@
-var mnemonic = "input smoke weekend heavy guitar keen guide leisure explain sugar shed weird";
+var mnemonic = "east oval region forest cancel flash hidden dish clump travel episode route";

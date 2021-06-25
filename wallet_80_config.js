@@ -1,1 +1,1 @@
-var mnemonic = "ill grid arena wedding cream faculty law cluster multiply page oven avocado";
+var mnemonic = "nest sample secret manual sheriff infant motion escape learn strategy release only";

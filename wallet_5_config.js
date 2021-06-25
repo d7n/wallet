@@ -1,1 +1,1 @@
-var mnemonic = "cherry south assume crack pipe tail easily exact eagle rebel frog blind";
+var mnemonic = "carry random real civil foil tube blur tortoise iron rally weird repeat";

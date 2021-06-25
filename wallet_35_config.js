@@ -1,1 +1,1 @@
-var mnemonic = "twelve disorder stuff regret truly alley cash forum crime shadow like payment";
+var mnemonic = "split minimum opinion fantasy burst mistake question bronze walnut dragon auction awake";

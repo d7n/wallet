@@ -1,1 +1,1 @@
-var mnemonic = "final balance pull local reopen right merry balance detect split canyon picnic";
+var mnemonic = "bicycle turtle album stand census announce cousin quarter found arrange hurt version";

@@ -1,1 +1,1 @@
-var mnemonic = "leopard myth render whale waste depth mean six arrive again because soap";
+var mnemonic = "robot wing grid fat soccer bench need enroll fade power prize save";

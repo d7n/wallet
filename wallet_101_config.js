@@ -1,1 +1,1 @@
-var mnemonic = "shaft panel eternal crumble cake either image judge nuclear wine card ocean";
+var mnemonic = "keen exchange gossip crumble nothing jaguar arctic neck now fame dutch disagree";

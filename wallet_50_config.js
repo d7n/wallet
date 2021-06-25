@@ -1,1 +1,1 @@
-var mnemonic = "mobile nerve ceiling bike menu bid beauty public candy embark just aerobic";
+var mnemonic = "kitten stick gap expire arctic six stable duck nose hospital swallow surge";

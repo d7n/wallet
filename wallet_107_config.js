@@ -1,1 +1,1 @@
-var mnemonic = "gossip math bulk brass skin wheat excess industry derive foam turtle mutual";
+var mnemonic = "soap shoe foot maximum attend rookie weather cherry fold shrimp recycle loud";

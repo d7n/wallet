@@ -1,1 +1,1 @@
-var mnemonic = "old decorate nominee bar awake pill law second kitchen grab elder phone";
+var mnemonic = "glove uphold syrup retire morning owner step similar print trumpet name girl";

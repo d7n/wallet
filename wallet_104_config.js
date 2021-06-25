@@ -1,1 +1,1 @@
-var mnemonic = "balance keen coconut same tomato false again welcome push mango corn vanish";
+var mnemonic = "gift cotton card vibrant lemon attack purity large rug motor brief rebel";

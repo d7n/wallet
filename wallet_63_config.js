@@ -1,1 +1,1 @@
-var mnemonic = "powder limit spot voice predict believe vivid regular anger leopard dragon midnight";
+var mnemonic = "review emerge order diet hill music remain valve alley nominee express unit";

@@ -1,1 +1,1 @@
-var mnemonic = "decline thumb injury tattoo tide private daring butter stage hope apple modify";
+var mnemonic = "ripple gain grain skull hospital mobile sister east day shock radar slam";

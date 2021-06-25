@@ -1,1 +1,1 @@
-var mnemonic = "mansion acid gap weather absorb ethics duty frequent shrimp vendor october vote";
+var mnemonic = "cradle atom fiscal blue merge inhale lonely shield produce catch own fee";

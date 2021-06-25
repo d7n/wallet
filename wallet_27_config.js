@@ -1,1 +1,1 @@
-var mnemonic = "fitness gun multiply lens erode invest choice mansion swarm empty gentle melt";
+var mnemonic = "heavy six choose garbage urban sport lens lottery absent card month alert";

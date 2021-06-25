@@ -1,1 +1,1 @@
-var mnemonic = "film wage champion core crew forward hurry brass diet local quit drama";
+var mnemonic = "motor tongue price exhibit owner dose garage cry economy force biology dad";

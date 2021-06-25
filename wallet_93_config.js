@@ -1,1 +1,1 @@
-var mnemonic = "list cousin hollow roof brother picture clap planet velvet collect company have";
+var mnemonic = "target enrich holiday imitate survey learn gospel deny error drill clap blanket";

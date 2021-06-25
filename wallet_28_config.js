@@ -1,1 +1,1 @@
-var mnemonic = "example pull civil produce grain analyst main bargain joy real use box";
+var mnemonic = "absorb soap release garden faint exact hockey panther glimpse settle style color";

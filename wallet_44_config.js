@@ -1,1 +1,1 @@
-var mnemonic = "dirt cloud still audit raven honey theory stumble limit taxi whip crumble";
+var mnemonic = "fabric exotic wagon grab digital earth obey behave position final actress price";

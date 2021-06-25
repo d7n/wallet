@@ -1,1 +1,1 @@
-var mnemonic = "wing destroy appear slice hobby cargo twist dad grow wise scale catalog";
+var mnemonic = "alert maid save trouble exclude elegant grid fee cupboard tunnel rib silly";

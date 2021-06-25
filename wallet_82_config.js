@@ -1,1 +1,1 @@
-var mnemonic = "sign rally siren tree affair urban spoon fat captain casino tackle apple";
+var mnemonic = "live adult dinosaur palace kangaroo wave field theory earth any typical face";

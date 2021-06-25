@@ -1,1 +1,1 @@
-var mnemonic = "mimic mystery vivid wood lend crime story lonely keen turkey author genuine";
+var mnemonic = "before nut whisper assist menu park fix essay awful example common obscure";

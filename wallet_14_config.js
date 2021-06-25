@@ -1,1 +1,1 @@
-var mnemonic = "thank sort reason where security assist sun swift depend away sun myself";
+var mnemonic = "shuffle match width cage wreck gesture exhibit nest fame glue trial federal";

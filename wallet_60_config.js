@@ -1,1 +1,1 @@
-var mnemonic = "foam renew away off gloom end provide swallow old boy gown crouch";
+var mnemonic = "love barrel female blast route coyote chuckle talk bonus purity basic material";

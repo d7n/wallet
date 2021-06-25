@@ -1,1 +1,1 @@
-var mnemonic = "birth turn snake typical fiction symbol border advice inmate figure bounce peasant";
+var mnemonic = "quit crime undo pattern deer winter slogan crew fan three peanut harbor";

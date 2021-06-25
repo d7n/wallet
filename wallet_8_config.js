@@ -1,1 +1,1 @@
-var mnemonic = "stereo subject wild neck boss famous strike kingdom source final frown sentence";
+var mnemonic = "flight alien inform wave famous rule abuse cream amused aspect arena muffin";

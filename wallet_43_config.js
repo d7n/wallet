@@ -1,1 +1,1 @@
-var mnemonic = "private post neck fetch normal clown upset vicious seven correct start apology";
+var mnemonic = "organ grocery purse payment garage cancel kind false winter reject stick truck";

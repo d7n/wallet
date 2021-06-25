@@ -1,1 +1,1 @@
-var mnemonic = "blue various method major sauce shoe joke column public artefact jealous muscle";
+var mnemonic = "venue cruise decide point weapon camera enemy chief february brand such loan";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle general crop goat absent flock stamp gentle pistol region solution federal";
+var mnemonic = "yard worry sibling long boy vague deputy burger globe theory vault tone";

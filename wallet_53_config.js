@@ -1,1 +1,1 @@
-var mnemonic = "moon stadium such method video network blame egg sponsor lumber hole card";
+var mnemonic = "reject filter vanish siren story bid neglect lab hat push wall solar";

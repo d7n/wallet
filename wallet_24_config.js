@@ -1,1 +1,1 @@
-var mnemonic = "delay grunt woman clip deny fetch arrive note begin add addict clump";
+var mnemonic = "mansion female spread parent absent capable invite derive rigid ice never ripple";

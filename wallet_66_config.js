@@ -1,1 +1,1 @@
-var mnemonic = "stand eagle tongue ask vapor physical uncle village hard remember circle group";
+var mnemonic = "divide skull goddess scale screen belt patrol kiss depart unhappy blast barrel";

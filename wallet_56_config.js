@@ -1,1 +1,1 @@
-var mnemonic = "ride code bike must report deliver below outside spare check capital palace";
+var mnemonic = "faith repeat unfold trial camera goddess choice thumb charge dutch earth praise";

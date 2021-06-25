@@ -1,1 +1,1 @@
-var mnemonic = "best switch panda loyal melt stairs swap gadget ahead rebuild upon age";
+var mnemonic = "injury drink usual bracket virtual scare flip august unaware dash flock ethics";

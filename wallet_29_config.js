@@ -1,1 +1,1 @@
-var mnemonic = "gorilla grow acid rice enhance flower young stairs ladder fork busy update";
+var mnemonic = "agree thing core ordinary leopard call quantum topic slide fringe tooth multiply";

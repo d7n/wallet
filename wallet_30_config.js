@@ -1,1 +1,1 @@
-var mnemonic = "nerve duty version garden kid curtain end know track industry inherit youth";
+var mnemonic = "april ribbon pink can sock rail agent cruise sleep twice panic faint";

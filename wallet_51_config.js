@@ -1,1 +1,1 @@
-var mnemonic = "indoor glow wise entry month stone welcome buddy escape movie fiscal speak";
+var mnemonic = "start tape ghost badge slender honey weather life distance merry marriage cheese";

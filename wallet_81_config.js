@@ -1,1 +1,1 @@
-var mnemonic = "hawk place vital south crush young feel garlic loan evil share vicious";
+var mnemonic = "furnace vague sense cruise zebra trumpet other unknown agree pact doctor correct";

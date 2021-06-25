@@ -1,1 +1,1 @@
-var mnemonic = "able kit mammal muscle slide pilot current squirrel mom fork depend maximum";
+var mnemonic = "need swear result twice crumble album giggle mixed nut promote rocket certain";

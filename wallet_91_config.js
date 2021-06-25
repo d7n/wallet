@@ -1,1 +1,1 @@
-var mnemonic = "move stumble dove coffee peanut stereo rebel miracle acquire kitchen fox creek";
+var mnemonic = "labor service crucial wheat calm want relief soldier outside favorite stem remove";

@@ -1,1 +1,1 @@
-var mnemonic = "render face popular sand flame tag smart dumb remove harbor learn life";
+var mnemonic = "during seat tent awake culture mask regret impact clever flash crouch between";

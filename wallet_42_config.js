@@ -1,1 +1,1 @@
-var mnemonic = "fever kick fat sing village citizen enlist insane frown fossil material weird";
+var mnemonic = "city correct magnet embody unknown card business write fork item assault poet";

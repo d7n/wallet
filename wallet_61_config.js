@@ -1,1 +1,1 @@
-var mnemonic = "radar magnet orange load image bulb entire address match cattle craft illegal";
+var mnemonic = "result race sort mean income inflict mean weird tuna burst own list";

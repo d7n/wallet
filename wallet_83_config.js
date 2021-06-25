@@ -1,1 +1,1 @@
-var mnemonic = "virus few limit avoid addict final goose comfort black elite echo gravity";
+var mnemonic = "record vast victory frost museum battle wheel pipe wrong left evidence junior";

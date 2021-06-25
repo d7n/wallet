@@ -1,1 +1,1 @@
-var mnemonic = "glow real month develop cruel lyrics space squeeze throw caution fancy film";
+var mnemonic = "more behave chase lazy friend goat people permit prefer leaf clay ten";

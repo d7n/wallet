@@ -1,1 +1,1 @@
-var mnemonic = "agree mom lamp fold matter abuse six snake employ girl apology buzz";
+var mnemonic = "symbol cry piano grid cart anxiety bread aunt taxi annual face gospel";

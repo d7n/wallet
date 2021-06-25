@@ -1,1 +1,1 @@
-var mnemonic = "post fat scatter pear century shadow hope stuff gospel wide dutch sniff";
+var mnemonic = "crack nasty pledge vacuum usage mixed whale page peanut cage episode inquiry";

@@ -1,1 +1,1 @@
-var mnemonic = "type derive awesome story tortoise flock man achieve hammer coconut save artist";
+var mnemonic = "payment tobacco stamp when civil crisp ketchup trust note pink enact lobster";

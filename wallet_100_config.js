@@ -1,1 +1,1 @@
-var mnemonic = "auto setup balance fine remain current text funny basic climb moon left";
+var mnemonic = "section system language alone outdoor virtual arena gesture learn tumble police pig";

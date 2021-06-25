@@ -1,1 +1,1 @@
-var mnemonic = "scout admit aspect method wrist diagram trumpet hen comfort flee uncle churn";
+var mnemonic = "yard endless bulk inhale marine rival aware hover weather ahead sunny wink";

@@ -1,1 +1,1 @@
-var mnemonic = "phone pill fiscal ill assume frequent father bamboo pet path shuffle run";
+var mnemonic = "ring tobacco layer bomb fatigue trap depth large broom vibrant clip melt";

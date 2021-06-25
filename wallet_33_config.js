@@ -1,1 +1,1 @@
-var mnemonic = "today goddess load eight dream truth rural actual throw equip silk trade";
+var mnemonic = "team labor brick sweet armed adult ribbon notice blade divorce will leisure";

@@ -1,1 +1,1 @@
-var mnemonic = "olive valley remind shell palace reveal penalty crop light exist coyote tree";
+var mnemonic = "goat flee habit siege spare scissors inch render ostrich sting output air";

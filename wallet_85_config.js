@@ -1,1 +1,1 @@
-var mnemonic = "around theory snap atom lizard silly three amateur remember cousin gesture burger";
+var mnemonic = "napkin mixed olympic profit hurt laundry seek head connect spider melody since";

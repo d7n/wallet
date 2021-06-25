@@ -1,1 +1,1 @@
-var mnemonic = "auction hybrid envelope admit still current monitor own across urban manual pool";
+var mnemonic = "buyer theme crane among turtle soldier release join burst stock island annual";

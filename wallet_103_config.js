@@ -1,1 +1,1 @@
-var mnemonic = "sight since among struggle indicate antique like merit cargo fine oblige weapon";
+var mnemonic = "invest leave blossom roast junk truth razor clerk ten like cabbage scene";

@@ -1,1 +1,1 @@
-var mnemonic = "net raise assist embrace theory guess direct trend swamp scheme range drop";
+var mnemonic = "evil plunge damage lemon advance deer north one lift icon glad life";

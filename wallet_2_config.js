@@ -1,1 +1,1 @@
-var mnemonic = "brand physical kid chunk two gather expose parent civil economy motor unfold";
+var mnemonic = "apart south social laundry evidence valid solve fiber thought airport regular license";

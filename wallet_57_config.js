@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog denial alone sugar solve lobster jelly crime task rally stone outer";
+var mnemonic = "three feel tiger mule miss sketch equip proof treat leisure disorder couch";

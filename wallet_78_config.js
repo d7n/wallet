@@ -1,1 +1,1 @@
-var mnemonic = "hurt glow leg good walk frost what kitchen random ensure neglect rhythm";
+var mnemonic = "exile note garlic found east loop industry humor cinnamon soda rude token";

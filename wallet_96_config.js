@@ -1,1 +1,1 @@
-var mnemonic = "axis emotion early genuine student because lock pride appear extra miracle aware";
+var mnemonic = "define august fabric suspect outdoor shrimp giggle punch budget solid nation twenty";

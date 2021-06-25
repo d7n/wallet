@@ -1,1 +1,1 @@
-var mnemonic = "symbol wise paper defy simple atom connect actual magic pistol hunt left";
+var mnemonic = "area violin kit differ wolf tape wool bubble torch suggest negative have";

@@ -1,1 +1,1 @@
-var mnemonic = "melody airport nuclear tomato shrug effort forest dad loan track table empty";
+var mnemonic = "laugh year match guilt reward airport hen federal gift mandate maple return";

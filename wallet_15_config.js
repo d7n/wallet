@@ -1,1 +1,1 @@
-var mnemonic = "joke unhappy violin deal scatter glare galaxy owner enforce advice cross magic";
+var mnemonic = "proof swift salad mushroom quick boy quit else drip vendor ski belt";

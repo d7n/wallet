@@ -1,1 +1,1 @@
-var mnemonic = "hawk fantasy wild submit clown into fox tragic match critic panic dream";
+var mnemonic = "aspect memory task light dirt one august pepper horse nose fitness disagree";

@@ -1,1 +1,1 @@
-var mnemonic = "business almost slogan canal name control mansion gospel peanut forward pitch tag";
+var mnemonic = "leader total blush disagree fly famous person there bonus lucky corn fever";

@@ -1,1 +1,1 @@
-var mnemonic = "drive time lens lyrics plate slam hair market believe tip arena donate";
+var mnemonic = "tomorrow merit thumb silly nut fee bird juice split essay local symptom";

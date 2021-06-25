@@ -1,1 +1,1 @@
-var mnemonic = "limit illegal tag major obvious addict deal impact fortune coil daring cannon";
+var mnemonic = "supply display again upgrade move erupt icon real budget text monster logic";

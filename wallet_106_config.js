@@ -1,1 +1,1 @@
-var mnemonic = "logic volcano grace crunch little kangaroo sustain clip melody employ learn select";
+var mnemonic = "climb twist access captain loop dumb window wire grant volcano silver chalk";

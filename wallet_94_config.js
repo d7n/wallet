@@ -1,1 +1,1 @@
-var mnemonic = "crazy actor state meat turn exercise bamboo bachelor tennis today huge rib";
+var mnemonic = "know clog spirit panda cheese speed series dawn basket false flight corn";
