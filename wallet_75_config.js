@@ -1,1 +1,1 @@
-var mnemonic = "text exchange only ticket amazing orbit all idea inch popular magnet color";
+var mnemonic = "lake easily dinner click fee pact verb juice renew slice almost anchor";

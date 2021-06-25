@@ -1,1 +1,1 @@
-var mnemonic = "height reform split plug tone arrive furnace hover fuel rate orphan word";
+var mnemonic = "sell happy impact upset knife pig snap rain tent defense parade own";

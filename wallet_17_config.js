@@ -1,1 +1,1 @@
-var mnemonic = "hub enemy wish autumn find rifle ranch axis improve avocado innocent spy";
+var mnemonic = "shell like skirt tomato faint device advance lottery diamond misery fame erase";

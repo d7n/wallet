@@ -1,1 +1,1 @@
-var mnemonic = "traffic strike unveil brief cattle alarm alter flip make fiscal nation shoot";
+var mnemonic = "suspect lecture sauce ghost kit flavor domain boss castle drive lend knee";

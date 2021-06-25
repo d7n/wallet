@@ -1,1 +1,1 @@
-var mnemonic = "search hand diet rate ring bean sight remind neutral march original brick";
+var mnemonic = "risk turn tragic expand weird lemon exclude risk siege weather inquiry begin";

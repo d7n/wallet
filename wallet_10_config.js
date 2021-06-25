@@ -1,1 +1,1 @@
-var mnemonic = "fancy mom okay corn trumpet tail loyal dignity title solid fatal evoke";
+var mnemonic = "spoil coyote tiger runway recall armed foster spirit gentle around clock discover";

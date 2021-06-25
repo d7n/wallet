@@ -1,1 +1,1 @@
-var mnemonic = "exist wrong season dutch swarm aim throw outer visa unveil keep sentence";
+var mnemonic = "lobster paper search brick advice violin dolphin correct polar wolf female vessel";

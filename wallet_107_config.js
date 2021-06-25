@@ -1,1 +1,1 @@
-var mnemonic = "sport shrimp brief learn maid meadow blue lucky danger ozone arm maze";
+var mnemonic = "release tomorrow excuse bracket claw pave motor year treat ball luggage layer";

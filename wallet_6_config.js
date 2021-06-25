@@ -1,1 +1,1 @@
-var mnemonic = "fetch street ship feel post panda panel toward vendor indicate dentist black";
+var mnemonic = "stumble squeeze follow primary bone great laugh smile enroll yard refuse kingdom";

@@ -1,1 +1,1 @@
-var mnemonic = "toward pond earn frost fiscal tornado refuse income tail fun distance head";
+var mnemonic = "mountain trap pool protect layer appear comfort system sea make phrase drip";

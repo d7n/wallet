@@ -1,1 +1,1 @@
-var mnemonic = "vast feature gorilla legal stone absent label convince garage chapter wing above";
+var mnemonic = "armed demise drink tongue squirrel found family pudding rent pelican pig chef";

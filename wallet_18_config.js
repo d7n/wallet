@@ -1,1 +1,1 @@
-var mnemonic = "anchor gasp sheriff squeeze torch matter elder toddler lift taxi switch save";
+var mnemonic = "jealous broken reunion fragile keen input casual upgrade castle alley excuse light";

@@ -1,1 +1,1 @@
-var mnemonic = "flat boy submit tortoise parrot meat movie minimum grocery gate loud group";
+var mnemonic = "fever cause unaware boat trash fuel gorilla dwarf chest arrow artist baby";

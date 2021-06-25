@@ -1,1 +1,1 @@
-var mnemonic = "dismiss web across sing roast ethics spell addict satisfy pig future federal";
+var mnemonic = "sentence foil what suggest other sibling feed cream disorder diamond danger neither";

@@ -1,1 +1,1 @@
-var mnemonic = "know method wine execute special rifle canvas gorilla visit oven news winter";
+var mnemonic = "rich drastic age shove birth fluid rough bunker release blouse similar one";

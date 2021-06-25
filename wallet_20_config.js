@@ -1,1 +1,1 @@
-var mnemonic = "attack index source chicken tower follow develop hidden frequent stamp sick loud";
+var mnemonic = "inmate easy loyal immense film endorse ceiling resist decrease swallow school story";

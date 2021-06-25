@@ -1,1 +1,1 @@
-var mnemonic = "female laptop vintage select lawn south clinic person snake easily push bleak";
+var mnemonic = "radio shine enlist boost another ostrich dumb fire extra walnut nothing wine";

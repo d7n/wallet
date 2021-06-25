@@ -1,1 +1,1 @@
-var mnemonic = "wasp slot pitch vital evidence casual bag ritual body rack issue bus";
+var mnemonic = "throw toy myth steel coin cry intact poverty wheel gym scorpion crawl";

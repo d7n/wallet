@@ -1,1 +1,1 @@
-var mnemonic = "evidence teach vehicle smile science allow swear thumb error fine album million";
+var mnemonic = "shoot head bring nurse outdoor mushroom try between shoe path palm oval";

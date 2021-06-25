@@ -1,1 +1,1 @@
-var mnemonic = "round eight agent dwarf spoon fall arrange foam siege connect flee aware";
+var mnemonic = "crouch prison organ narrow flash enforce hobby number innocent winner tail easily";

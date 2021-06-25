@@ -1,1 +1,1 @@
-var mnemonic = "icon clean key enforce grow tonight employ home modify elevator mansion quarter";
+var mnemonic = "artist verb blind into tape dad feel episode seek find destroy express";

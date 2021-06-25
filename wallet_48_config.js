@@ -1,1 +1,1 @@
-var mnemonic = "bread clay cloud gesture town crater dash gas find present captain dismiss";
+var mnemonic = "online stadium robot social twin allow main window bridge pyramid boring deer";

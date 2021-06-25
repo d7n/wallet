@@ -1,1 +1,1 @@
-var mnemonic = "dutch soup rent invest try sweet absent tourist puzzle above liberty lady";
+var mnemonic = "ketchup front ocean rapid love elite lawn way access differ antenna parrot";

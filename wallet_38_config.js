@@ -1,1 +1,1 @@
-var mnemonic = "jar spare release remove coffee deliver nurse fiber accuse solar dilemma orphan";
+var mnemonic = "stadium pact two urge volume rate sibling answer sibling divide anchor blood";

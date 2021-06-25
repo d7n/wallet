@@ -1,1 +1,1 @@
-var mnemonic = "million snack oval depend shine child language planet produce energy lottery mystery";
+var mnemonic = "prison axis kiss mechanic spoil program citizen often spice caught cushion jazz";

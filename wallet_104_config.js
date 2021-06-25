@@ -1,1 +1,1 @@
-var mnemonic = "canal normal put ordinary design height pet garment turn task inform keen";
+var mnemonic = "quick element baby journey myth angry false idea wood sad canyon average";

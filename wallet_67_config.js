@@ -1,1 +1,1 @@
-var mnemonic = "tank scan tornado melody can knock behave alley supreme black into dad";
+var mnemonic = "sniff grocery town hospital corn isolate parent frown tip logic work table";

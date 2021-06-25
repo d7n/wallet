@@ -1,1 +1,1 @@
-var mnemonic = "prosper nose visa session tip question decide glow hub venture lion army";
+var mnemonic = "fluid weather ask zoo shed narrow catch corn eye bike goddess bronze";

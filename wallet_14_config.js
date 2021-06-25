@@ -1,1 +1,1 @@
-var mnemonic = "sail pool word ozone decorate skill pudding below dog push goat ethics";
+var mnemonic = "lunar skin skill yellow dumb patch whip decrease worry age change finger";

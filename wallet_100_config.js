@@ -1,1 +1,1 @@
-var mnemonic = "fold hockey clown magic drift bicycle economy virtual horse wear bullet squirrel";
+var mnemonic = "carpet update apart right entire boat viable flame track acid beach claim";

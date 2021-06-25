@@ -1,1 +1,1 @@
-var mnemonic = "member amazing auction pistol asset use differ dune immune enable rack special";
+var mnemonic = "across glide chef size stay hollow reopen used enact fish swift breeze";

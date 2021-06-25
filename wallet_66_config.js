@@ -1,1 +1,1 @@
-var mnemonic = "host chase clap now endless barely various roof tumble vital recycle stairs";
+var mnemonic = "sound enact thumb antenna brave doll crawl record intact width decide onion";

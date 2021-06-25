@@ -1,1 +1,1 @@
-var mnemonic = "voice pig advance girl choice despair shove ice scout hero text matter";
+var mnemonic = "duty property employ when crawl bicycle tiny picture nephew festival attend avocado";

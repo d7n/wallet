@@ -1,1 +1,1 @@
-var mnemonic = "basic version blind useless truth culture second west crush shy unveil rotate";
+var mnemonic = "electric despair weekend similar fatigue popular media hello before trade echo fan";

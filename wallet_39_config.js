@@ -1,1 +1,1 @@
-var mnemonic = "fix lava desk rapid angle train join tunnel hedgehog blame jewel gorilla";
+var mnemonic = "language lunch awful fruit ensure pistol catch frost song enjoy swim mansion";

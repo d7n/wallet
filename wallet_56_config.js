@@ -1,1 +1,1 @@
-var mnemonic = "party hole name elite rifle home merry firm boy tennis valve total";
+var mnemonic = "chapter merry pilot virus uncover impulse oppose alcohol lava pistol lock diagram";

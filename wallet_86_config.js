@@ -1,1 +1,1 @@
-var mnemonic = "fault appear velvet palm slogan skull author amazing wisdom game debate metal";
+var mnemonic = "mirror season nose license recall transfer alpha public fog mule differ post";

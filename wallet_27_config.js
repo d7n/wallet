@@ -1,1 +1,1 @@
-var mnemonic = "ridge denial amount road venture still taste extend game there angle false";
+var mnemonic = "agree exist slide strong nothing undo flip device left gadget daring toy";

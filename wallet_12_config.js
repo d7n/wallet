@@ -1,1 +1,1 @@
-var mnemonic = "evil van tell vanish stove typical reduce medal thrive broom express unfold";
+var mnemonic = "car night almost couch cannon shop equal eye soldier record shuffle possible";

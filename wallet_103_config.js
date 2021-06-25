@@ -1,1 +1,1 @@
-var mnemonic = "someone width system aisle pupil fiscal venture group veteran private extra rule";
+var mnemonic = "helmet ball argue across sketch sauce submit feed hockey foil pretty defense";

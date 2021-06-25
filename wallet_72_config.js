@@ -1,1 +1,1 @@
-var mnemonic = "clerk prefer decade slender corn diet lecture reason hybrid area please word";
+var mnemonic = "peace spare unit security brisk toddler coin only pool goddess moon coast";

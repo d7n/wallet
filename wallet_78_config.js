@@ -1,1 +1,1 @@
-var mnemonic = "viable spray busy leader chronic slab output barely prevent photo vanish end";
+var mnemonic = "crush home twist reflect swap slab anxiety remind alpha shove spend unfair";

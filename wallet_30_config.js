@@ -1,1 +1,1 @@
-var mnemonic = "move soda female setup velvet heart detail scan gentle exclude faculty salute";
+var mnemonic = "tennis genre tooth alien bird thing canvas spawn pluck verb exact urban";

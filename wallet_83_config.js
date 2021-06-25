@@ -1,1 +1,1 @@
-var mnemonic = "palace episode just physical oven snow fun swim dutch garment hunt extend";
+var mnemonic = "vehicle enemy denial kingdom pair notable session noise spare roast find soccer";

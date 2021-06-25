@@ -1,1 +1,1 @@
-var mnemonic = "same adapt bulb chicken inflict fog debris entry belt page brand such";
+var mnemonic = "ecology hero poem festival genuine tissue execute talent test tenant inner game";

@@ -1,1 +1,1 @@
-var mnemonic = "sell plunge utility loan above share amateur pulp nurse music stereo fuel";
+var mnemonic = "feature lamp office sustain wheel wedding ostrich brain fit cream capital wife";

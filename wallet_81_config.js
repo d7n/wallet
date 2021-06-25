@@ -1,1 +1,1 @@
-var mnemonic = "push chimney sure meadow acquire huge verify canvas animal planet naive connect";
+var mnemonic = "spend lab smart harsh solar potato hurdle oval cement honey salute finger";

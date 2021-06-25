@@ -1,1 +1,1 @@
-var mnemonic = "panel visa limb melody monster owner receive vibrant omit split onion danger";
+var mnemonic = "unknown brick wave hill power firm agent note ready cotton fat over";

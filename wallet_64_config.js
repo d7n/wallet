@@ -1,1 +1,1 @@
-var mnemonic = "wear ball earth hill palm diesel husband spare heavy confirm above treat";
+var mnemonic = "disagree eagle old radar three rack burger key fat lend enlist own";

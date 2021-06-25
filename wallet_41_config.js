@@ -1,1 +1,1 @@
-var mnemonic = "animal quick cycle account palm step vacant decide captain lounge under valve";
+var mnemonic = "move almost rare rally relief kit divorce monkey quit upgrade return private";

@@ -1,1 +1,1 @@
-var mnemonic = "return result want ice gasp below drip used waste addict merge artist";
+var mnemonic = "trust dash quit long blame creek slow mutual viable proof receive metal";

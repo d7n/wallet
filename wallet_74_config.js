@@ -1,1 +1,1 @@
-var mnemonic = "inner sock theme custom metal tackle double vital million cloth cable wood";
+var mnemonic = "exhibit element amateur able weird absurd differ hope surface leaf sibling stable";

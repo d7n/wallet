@@ -1,1 +1,1 @@
-var mnemonic = "battle hello develop pulse pole crouch ribbon length quit genius delay absorb";
+var mnemonic = "anger resemble crazy have nature copper armed spoil stuff forget draw income";

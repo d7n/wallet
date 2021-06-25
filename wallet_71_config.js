@@ -1,1 +1,1 @@
-var mnemonic = "boss infant imitate chest illness carpet salute loyal tree faint pet daring";
+var mnemonic = "lobster tonight tomato dinner fork frost worth mixture bid keen script member";

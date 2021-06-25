@@ -1,1 +1,1 @@
-var mnemonic = "truth hockey cliff purity pluck dog elder great museum canvas hobby hidden";
+var mnemonic = "august fluid thank decide exclude boost student later notice essay release fatigue";

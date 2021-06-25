@@ -1,1 +1,1 @@
-var mnemonic = "dose unfair wool great figure hurdle miss rally omit brisk bamboo body";
+var mnemonic = "kitten indicate fatal common try spring resemble armor proud advice flavor kidney";

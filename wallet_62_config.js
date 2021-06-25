@@ -1,1 +1,1 @@
-var mnemonic = "genre soldier kid hat speed patrol device science region measure gold ranch";
+var mnemonic = "canoe punch service practice submit transfer winner total vacant educate bitter vast";

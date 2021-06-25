@@ -1,1 +1,1 @@
-var mnemonic = "stereo amount develop fringe goddess gossip rally young duty expect essence more";
+var mnemonic = "panic draw need harsh trash chair boil woman office vacant alley sail";

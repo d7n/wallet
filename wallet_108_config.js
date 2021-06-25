@@ -1,1 +1,1 @@
-var mnemonic = "remind motion wash flavor skull shift throw wage combine surface misery hurdle";
+var mnemonic = "awkward raven gauge wink blood clump quick swear rival benefit year tent";

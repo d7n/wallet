@@ -1,1 +1,1 @@
-var mnemonic = "labor replace matrix guilt between hazard aerobic popular time company endless skin";
+var mnemonic = "million icon dinosaur obtain position hard calm damage evil success lens chase";

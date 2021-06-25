@@ -1,1 +1,1 @@
-var mnemonic = "poverty cream occur awkward airport wait gas adjust fiscal trade actress paper";
+var mnemonic = "limb render worry west original toddler earn inform pass force toe hospital";

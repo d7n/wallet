@@ -1,1 +1,1 @@
-var mnemonic = "desert soldier course approve boss develop harvest cream sound special hidden avoid";
+var mnemonic = "best engine vacuum sock ring goat enjoy near notable flee govern nominee";

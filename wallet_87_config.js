@@ -1,1 +1,1 @@
-var mnemonic = "symbol absent draft maze woman virtual faint vicious reduce enroll lucky common";
+var mnemonic = "ugly genre anxiety stove sing join often help february enjoy ordinary smile";

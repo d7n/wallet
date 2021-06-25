@@ -1,1 +1,1 @@
-var mnemonic = "half gospel media medal blue renew ribbon interest tower lemon claw general";
+var mnemonic = "add congress case shiver warrior kitten mean panic argue stable pink tongue";

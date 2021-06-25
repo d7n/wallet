@@ -1,1 +1,1 @@
-var mnemonic = "dish garbage hurt any crucial sauce butter much wife during fine title";
+var mnemonic = "damp trend aspect fox limb idea celery balcony lonely sure outdoor busy";

@@ -1,1 +1,1 @@
-var mnemonic = "pause era permit attack lawn toast immune exhaust fiction verify danger measure";
+var mnemonic = "top novel bonus over adapt bonus brand ride fog prosper gasp catch";

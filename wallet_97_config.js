@@ -1,1 +1,1 @@
-var mnemonic = "cattle burden ghost snake sign stove digital share march quit talent dolphin";
+var mnemonic = "dawn together sketch fortune dream crucial banana rack razor artefact situate lecture";

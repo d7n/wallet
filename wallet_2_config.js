@@ -1,1 +1,1 @@
-var mnemonic = "slogan wait welcome senior warrior hunt excess tip dial dad shadow violin";
+var mnemonic = "reform market boost sport tackle head cloth axis giant primary mechanic hole";

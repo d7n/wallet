@@ -1,1 +1,1 @@
-var mnemonic = "yard drop pepper cool galaxy deal axis north mountain legal way alone";
+var mnemonic = "abuse thought grant give amused calm dust stuff boat bike own dash";

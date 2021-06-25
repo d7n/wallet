@@ -1,1 +1,1 @@
-var mnemonic = "march suspect release april leaf giggle episode elevator mail system normal cherry";
+var mnemonic = "symbol august ecology method donkey gown worry always analyst faint vehicle tunnel";

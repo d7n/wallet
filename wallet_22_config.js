@@ -1,1 +1,1 @@
-var mnemonic = "become toss wolf hockey blind science use good damp desk fuel provide";
+var mnemonic = "forum bubble strong blanket prefer auto boy talent exercise rebuild drip around";

@@ -1,1 +1,1 @@
-var mnemonic = "correct whisper medal venture amazing sun display rescue outdoor body goose turkey";
+var mnemonic = "fish distance loop measure flock chase position venture orphan define sweet eagle";

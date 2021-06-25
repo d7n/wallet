@@ -1,1 +1,1 @@
-var mnemonic = "security twelve limit enrich weasel feel lunar either permit tooth evil arctic";
+var mnemonic = "sausage front world law hello rural wild wrestle donkey column park limit";

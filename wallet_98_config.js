@@ -1,1 +1,1 @@
-var mnemonic = "jar clean custom document sauce mom oppose ghost fluid burst large focus";
+var mnemonic = "mean cruise later public assault catalog spawn kite armed token crisp series";

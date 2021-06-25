@@ -1,1 +1,1 @@
-var mnemonic = "trend jealous patrol lady bamboo sausage crack rate exit piece duty depart";
+var mnemonic = "name already fade face sweet release seed boost viable bonus spy they";

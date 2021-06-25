@@ -1,1 +1,1 @@
-var mnemonic = "gym spider kid leisure sister year bitter meadow cram onion coil market";
+var mnemonic = "human crouch perfect tuition total brand silly grunt trick gun offer real";

@@ -1,1 +1,1 @@
-var mnemonic = "reason giant vital rubber country waste weird good measure indoor eye program";
+var mnemonic = "song upon reveal window exclude try monkey clown pear miss enable wisdom";

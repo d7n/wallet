@@ -1,1 +1,1 @@
-var mnemonic = "vicious normal palace science protect still praise rule arctic unique guess become";
+var mnemonic = "bid ensure fiction diagram grape total pledge plunge wish blossom energy benefit";

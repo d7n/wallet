@@ -1,1 +1,1 @@
-var mnemonic = "knee night clump mobile jungle inner mule pig author light extend glance";
+var mnemonic = "make rib excite love action equal student artwork call pitch near butter";

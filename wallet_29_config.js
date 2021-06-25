@@ -1,1 +1,1 @@
-var mnemonic = "album seat mouse prize defense vapor endorse swing month symbol level script";
+var mnemonic = "tongue immense grape quote inform uphold unique orbit flag notable curious drink";

@@ -1,1 +1,1 @@
-var mnemonic = "rebuild panel announce ignore wait project demand seek gossip someone fiction write";
+var mnemonic = "ankle faith little parrot accident melody release match endless guilt force siege";

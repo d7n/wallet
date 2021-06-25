@@ -1,1 +1,1 @@
-var mnemonic = "cat swear nose media slam usual river asset reflect damage charge pottery";
+var mnemonic = "fade run decorate melt clap camera super vote balance prosper author scrap";

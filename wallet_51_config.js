@@ -1,1 +1,1 @@
-var mnemonic = "eagle zebra room bullet immense dizzy health team bind magic fee episode";
+var mnemonic = "bubble head daring copper royal milk amount dawn trigger express uphold pair";

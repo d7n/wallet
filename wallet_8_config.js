@@ -1,1 +1,1 @@
-var mnemonic = "dismiss industry pact carbon mask matrix lab swap lab toilet seed scale";
+var mnemonic = "nature inquiry rude sunset enroll juice category inquiry unique diet zoo image";

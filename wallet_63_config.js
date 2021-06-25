@@ -1,1 +1,1 @@
-var mnemonic = "already surge vacant gorilla else memory rookie picnic inmate common ticket tray";
+var mnemonic = "praise thing pull uncle faculty upon rebuild volcano remind private friend text";
