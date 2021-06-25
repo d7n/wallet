@@ -1,1 +1,1 @@
-var mnemonic = "enable distance cabbage lawn later slice impact tape cushion theory useful curtain";
+var mnemonic = "message fluid north exist bag predict verb lecture token involve dizzy mango";

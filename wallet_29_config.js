@@ -1,1 +1,1 @@
-var mnemonic = "pond theory begin wet scan scissors worth total ten govern chaos local";
+var mnemonic = "tag wide dinosaur top logic truth often between fever uphold develop anchor";

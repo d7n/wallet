@@ -1,1 +1,1 @@
-var mnemonic = "adult celery focus panther weekend rifle seek faculty century half satoshi ask";
+var mnemonic = "since sample snap beyond gold repeat return swallow define toe snap replace";

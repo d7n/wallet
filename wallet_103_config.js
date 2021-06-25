@@ -1,1 +1,1 @@
-var mnemonic = "ride adjust say canyon among monster pepper whisper protect candy liquid dizzy";
+var mnemonic = "feed visa present isolate firm weasel smoke hamster chunk bread repair then";

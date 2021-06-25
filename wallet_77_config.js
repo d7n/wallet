@@ -1,1 +1,1 @@
-var mnemonic = "key beach private stand country butter huge version tube cart come common";
+var mnemonic = "panda vibrant crazy crater announce toy barely brisk denial intact odor rifle";

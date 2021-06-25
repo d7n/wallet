@@ -1,1 +1,1 @@
-var mnemonic = "work slush front repair assault hand found mule develop method wink river";
+var mnemonic = "seminar pass lens six scissors dawn phrase border cool olympic lobster carpet";

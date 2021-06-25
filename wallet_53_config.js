@@ -1,1 +1,1 @@
-var mnemonic = "demise solution anger meadow chunk voyage earth soccer destroy galaxy trust twin";
+var mnemonic = "cover loud eyebrow blood stadium congress husband jaguar grass pioneer off common";

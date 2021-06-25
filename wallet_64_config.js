@@ -1,1 +1,1 @@
-var mnemonic = "entire brother network post vast increase submit board dash follow cost bamboo";
+var mnemonic = "race blood impulse escape tongue number outside thumb truth boss more ski";

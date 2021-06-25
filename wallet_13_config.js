@@ -1,1 +1,1 @@
-var mnemonic = "symptom any onion slim recipe often spare pride orient paddle heavy adjust";
+var mnemonic = "foil tonight image genre car strike stumble gap video smoke elder jealous";

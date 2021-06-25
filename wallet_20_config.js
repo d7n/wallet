@@ -1,1 +1,1 @@
-var mnemonic = "exercise appear crumble milk taste ketchup acid movie soccer devote cushion rib";
+var mnemonic = "topple tribe asset saddle breeze disagree addict floor essence top devote sing";

@@ -1,1 +1,1 @@
-var mnemonic = "afraid wink canyon company autumn question theme census athlete water laptop guess";
+var mnemonic = "ginger exit detail cereal timber exhaust bullet dice math moral scrub catalog";

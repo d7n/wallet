@@ -1,1 +1,1 @@
-var mnemonic = "moral vault permit arm win suffer cricket gift lion damp more wide";
+var mnemonic = "similar entry bounce treat elite decade vicious slogan loyal sketch ridge excuse";

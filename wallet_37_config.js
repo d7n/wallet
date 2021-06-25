@@ -1,1 +1,1 @@
-var mnemonic = "cover toddler scatter reflect snack science tunnel chaos aisle empower heart cost";
+var mnemonic = "iron tissue cute snap tumble weather embody soldier deer evolve into theory";

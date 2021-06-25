@@ -1,1 +1,1 @@
-var mnemonic = "spring demand multiply love lunch judge across border certain mansion worry find";
+var mnemonic = "quality dove marriage inject carbon truly capable erosion simple flush panther diamond";

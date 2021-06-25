@@ -1,1 +1,1 @@
-var mnemonic = "group wink young orient awesome trash glimpse diet bicycle asset buffalo soldier";
+var mnemonic = "device dice segment film news busy search wish talk patrol unable live";

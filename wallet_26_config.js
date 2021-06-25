@@ -1,1 +1,1 @@
-var mnemonic = "book sniff illegal possible analyst pink chunk swim pistol skull humor dolphin";
+var mnemonic = "hunt conduct planet payment convince hotel soccer choose morning gaze cheese palm";

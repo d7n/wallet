@@ -1,1 +1,1 @@
-var mnemonic = "winner across submit foster iron cake prepare sponsor flag drastic zebra horror";
+var mnemonic = "style adult present insect provide weekend delay online kitchen cute genre beauty";

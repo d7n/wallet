@@ -1,1 +1,1 @@
-var mnemonic = "language illegal school smooth special today wrap area marble supreme cluster viable";
+var mnemonic = "alarm limb shove marine hazard enable festival index net castle toilet knife";

@@ -1,1 +1,1 @@
-var mnemonic = "vehicle eye country table usual cute history will raw any pumpkin leopard";
+var mnemonic = "case also machine estate chimney time test limit family athlete exist little";

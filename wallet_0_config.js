@@ -1,1 +1,1 @@
-var mnemonic = "language charge repeat era more boss diesel other domain mind word hub";
+var mnemonic = "proud detail liar impose festival echo ahead omit orchard tonight dwarf copy";

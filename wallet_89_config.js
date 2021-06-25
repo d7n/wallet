@@ -1,1 +1,1 @@
-var mnemonic = "grain apple buyer glad corn merge pink citizen damp faculty disease ripple";
+var mnemonic = "daring exotic matter ivory example hollow wing duty between toss anchor slide";

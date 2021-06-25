@@ -1,1 +1,1 @@
-var mnemonic = "dice act train rather february shiver penalty empower rebel steel long enemy";
+var mnemonic = "end obscure stool man dutch insect alert learn phrase pact crunch evil";

@@ -1,1 +1,1 @@
-var mnemonic = "leisure inmate abuse antique define iron alter foil stove swallow total say";
+var mnemonic = "million inside skin marble document slice dash edit chaos favorite core copy";

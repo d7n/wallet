@@ -1,1 +1,1 @@
-var mnemonic = "margin kite already gloom trial round secret property girl trip scene axis";
+var mnemonic = "empty frame drastic please scout drip ecology away laugh order album cricket";

@@ -1,1 +1,1 @@
-var mnemonic = "shrimp raccoon prison child region morning shoulder year weird monkey rate afford";
+var mnemonic = "note measure rather goose trust narrow antique cannon veteran primary pond kingdom";

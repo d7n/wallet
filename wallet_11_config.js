@@ -1,1 +1,1 @@
-var mnemonic = "venture say awesome charge decorate noise magnet hybrid increase salt fancy elegant";
+var mnemonic = "lion puppy mind earth swallow knife gravity shrug elder hobby state follow";

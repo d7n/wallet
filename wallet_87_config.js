@@ -1,1 +1,1 @@
-var mnemonic = "bronze glow jacket boy drill student panic category modify kick champion speak";
+var mnemonic = "expose garlic smile gate kit nerve shoot grab anger report immune equip";

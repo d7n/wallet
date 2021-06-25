@@ -1,1 +1,1 @@
-var mnemonic = "evil arm final funny zoo obscure ball impact foot flee forum frown";
+var mnemonic = "time state pear blind kidney soldier diary almost client yellow skate gossip";

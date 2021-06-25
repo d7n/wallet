@@ -1,1 +1,1 @@
-var mnemonic = "crane monkey gun access airport merry prefer clarify shrug bar arrive unfold";
+var mnemonic = "globe swim clap route lock swarm priority exchange body matter wedding soccer";

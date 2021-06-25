@@ -1,1 +1,1 @@
-var mnemonic = "staff nest frog height trade zero another mother submit glue useful shaft";
+var mnemonic = "behind drum correct call argue slight lumber gallery tent kidney swim buddy";

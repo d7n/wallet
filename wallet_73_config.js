@@ -1,1 +1,1 @@
-var mnemonic = "region laptop fluid window defense fatigue item visa cushion fever later lumber";
+var mnemonic = "grunt exit label network can feed hockey explain space surface coral invite";

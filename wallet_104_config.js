@@ -1,1 +1,1 @@
-var mnemonic = "fat hour melody young mirror bar prepare olympic much source chunk access";
+var mnemonic = "put turtle spot citizen play barely double black rookie turn fog crazy";

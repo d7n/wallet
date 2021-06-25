@@ -1,1 +1,1 @@
-var mnemonic = "during lucky flight lazy mixture chief orbit kid daughter this keep travel";
+var mnemonic = "refuse swamp rabbit submit pulse cry elbow voice uncle resist minute fever";

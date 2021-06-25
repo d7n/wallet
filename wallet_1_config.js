@@ -1,1 +1,1 @@
-var mnemonic = "post hamster fossil valve street relax diesel quiz kiss life slogan step";
+var mnemonic = "index wife skull illness size empower sentence essay dynamic card appear trigger";

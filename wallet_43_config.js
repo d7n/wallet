@@ -1,1 +1,1 @@
-var mnemonic = "tone sight party series wink asset picture kit limit goddess acoustic shrug";
+var mnemonic = "pigeon vicious bread squirrel curious pool earn sad giggle van wall ramp";

@@ -1,1 +1,1 @@
-var mnemonic = "phone exercise mutual claim decorate pudding gold program filter match this horn";
+var mnemonic = "round water crazy disagree knee skull movie hint anger mail brass alley";

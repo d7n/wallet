@@ -1,1 +1,1 @@
-var mnemonic = "cube excite supply opinion language elephant speed speed bring such island tag";
+var mnemonic = "stay sleep search panda hockey hamster above old leopard bring exist panel";

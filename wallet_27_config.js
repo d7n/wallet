@@ -1,1 +1,1 @@
-var mnemonic = "night hill pilot nest evolve lemon egg pigeon length sustain general degree";
+var mnemonic = "inform october increase raccoon typical lumber swallow swear address taxi minimum illness";

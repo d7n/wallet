@@ -1,1 +1,1 @@
-var mnemonic = "kick solid save interest essence breeze violin wire woman chapter start that";
+var mnemonic = "feel utility carry perfect armor claw illegal jar buzz dutch case owner";

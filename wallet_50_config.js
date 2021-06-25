@@ -1,1 +1,1 @@
-var mnemonic = "save loan involve bottom clap shallow diet attack penalty note hip unfold";
+var mnemonic = "scheme decrease catalog sad fringe torch miss lamp result cabin delay water";

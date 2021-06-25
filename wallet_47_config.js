@@ -1,1 +1,1 @@
-var mnemonic = "goose voyage thumb anger allow aisle promote board urban network random believe";
+var mnemonic = "kidney author arm rice phrase orient eyebrow globe shell confirm present tattoo";

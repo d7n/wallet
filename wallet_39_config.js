@@ -1,1 +1,1 @@
-var mnemonic = "edit mouse camp cry puppy invest arch avocado pretty worry install lyrics";
+var mnemonic = "sunset silly rent swallow weather wine leopard near icon remind mirror slim";

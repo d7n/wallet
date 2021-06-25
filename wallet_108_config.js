@@ -1,1 +1,1 @@
-var mnemonic = "economy luggage between target child speak dawn survey hollow credit squeeze decorate";
+var mnemonic = "host force leg guitar veteran fog nature crisp ancient angry pipe lumber";

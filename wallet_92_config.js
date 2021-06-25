@@ -1,1 +1,1 @@
-var mnemonic = "arctic true genius gloom real glare violin notable acoustic about galaxy filter";
+var mnemonic = "motion pilot custom chaos empower frown volcano fold profit wait law gorilla";

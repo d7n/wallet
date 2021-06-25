@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo noble figure flight bonus fuel group once during document movie payment";
+var mnemonic = "other split mandate harvest core toy laptop shuffle outside girl come crowd";

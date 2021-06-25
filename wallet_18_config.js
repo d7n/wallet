@@ -1,1 +1,1 @@
-var mnemonic = "ride ice race ankle candy bottom balcony echo marriage girl cactus good";
+var mnemonic = "rack normal roof rose fresh crater poverty soul time tooth dash else";

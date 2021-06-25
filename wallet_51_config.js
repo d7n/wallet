@@ -1,1 +1,1 @@
-var mnemonic = "close feed library sheriff nephew daring invite olympic surprise cake define credit";
+var mnemonic = "blouse force similar amateur often bid wrestle renew truly drive any transfer";

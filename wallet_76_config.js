@@ -1,1 +1,1 @@
-var mnemonic = "orchard afford weather coil stage view sorry disease occur auto dove size";
+var mnemonic = "hurry help convince tomato innocent actual setup filter gospel siren captain stem";

@@ -1,1 +1,1 @@
-var mnemonic = "another calm moon yellow summer visa kangaroo rapid panic fat spirit neglect";
+var mnemonic = "whisper rely nation used disease entry video picnic age time hobby equal";

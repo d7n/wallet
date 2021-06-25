@@ -1,1 +1,1 @@
-var mnemonic = "fork plunge shaft monster trigger canal early boil decrease lift circle transfer";
+var mnemonic = "grant village head plug search legend drink whip equal nothing stick gadget";

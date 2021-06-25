@@ -1,1 +1,1 @@
-var mnemonic = "another spring comfort city obey fetch loyal width crunch bitter little require";
+var mnemonic = "gown subway chair siren derive drip common hand carry piece ancient cloth";

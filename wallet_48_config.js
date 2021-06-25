@@ -1,1 +1,1 @@
-var mnemonic = "tornado quality govern tomorrow caution ahead trust idea grid dog prosper gym";
+var mnemonic = "pond desert digital lobster peanut soccer furnace gas hybrid local shell spirit";

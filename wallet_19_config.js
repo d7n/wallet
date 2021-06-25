@@ -1,1 +1,1 @@
-var mnemonic = "focus hedgehog siren sad frost miss agree wait axis into inquiry nation";
+var mnemonic = "traffic oil clock praise enter ensure enroll pill minimum kick inhale believe";

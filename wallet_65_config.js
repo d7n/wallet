@@ -1,1 +1,1 @@
-var mnemonic = "people excite truck turtle favorite sponsor lobster together maple sell giggle bean";
+var mnemonic = "elevator leg save tip pitch exotic sport super inner mind vote above";

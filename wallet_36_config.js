@@ -1,1 +1,1 @@
-var mnemonic = "run explain together plug bomb drop nasty sad swamp ability garlic margin";
+var mnemonic = "accuse idle process diary gasp sand song carry crane twist client journey";

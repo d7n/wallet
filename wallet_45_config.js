@@ -1,1 +1,1 @@
-var mnemonic = "service cat survey innocent cost paddle orphan nerve choose shift rain range";
+var mnemonic = "critic aim zebra kite kitchen coconut any solid step daughter rack rocket";

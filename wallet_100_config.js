@@ -1,1 +1,1 @@
-var mnemonic = "slim fitness dismiss goose choice balcony vicious borrow glare coin urban laptop";
+var mnemonic = "length start clarify flag violin youth february ketchup fabric shy gentle vendor";

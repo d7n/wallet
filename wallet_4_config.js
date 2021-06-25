@@ -1,1 +1,1 @@
-var mnemonic = "hub pupil banner enjoy parent good stuff matter inmate pond lounge lens";
+var mnemonic = "fabric suspect put office word more symbol analyst language brick trophy oven";

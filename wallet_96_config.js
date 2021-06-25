@@ -1,1 +1,1 @@
-var mnemonic = "model spend flower gaze spell video shaft inside scissors fiction depart excite";
+var mnemonic = "embody cousin situate guilt surround attend brass truck arrest skull today never";

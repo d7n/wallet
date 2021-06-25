@@ -1,1 +1,1 @@
-var mnemonic = "fitness icon crumble wrist cool crane settle skin inspire ocean camp primary";
+var mnemonic = "cabbage minute bundle case arrive crush clay diesel dynamic rice dynamic october";

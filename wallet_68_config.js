@@ -1,1 +1,1 @@
-var mnemonic = "paddle citizen ginger allow zone sight cargo amused width scan total oxygen";
+var mnemonic = "boost stairs around weapon antique smile eight school winner gate field wisdom";

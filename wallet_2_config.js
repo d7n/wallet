@@ -1,1 +1,1 @@
-var mnemonic = "width trophy february dawn human chest enter boat century kidney tail stick";
+var mnemonic = "mutual ladder top receive antique home member carpet monkey people cloud staff";

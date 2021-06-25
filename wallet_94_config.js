@@ -1,1 +1,1 @@
-var mnemonic = "cousin goat chimney sail picture sausage lion ribbon dizzy autumn job enjoy";
+var mnemonic = "pelican whale rely slam repair come second loud hold recycle cereal type";

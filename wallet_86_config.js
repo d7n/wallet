@@ -1,1 +1,1 @@
-var mnemonic = "nothing absurd quantum romance vehicle spread remind angry edge lamp buffalo capable";
+var mnemonic = "injury error perfect endless ritual hazard stool aunt fold direct supreme awful";

@@ -1,1 +1,1 @@
-var mnemonic = "wild reject hunt inject scare focus license replace harvest raise turtle situate";
+var mnemonic = "spoil spider derive deliver fashion fetch stone label barely ladder reflect action";

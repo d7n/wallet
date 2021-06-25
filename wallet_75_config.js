@@ -1,1 +1,1 @@
-var mnemonic = "forget alert topple carry task burst above syrup renew blame picture area";
+var mnemonic = "proof garment enjoy luggage allow remind stand illness soup conduct express rug";

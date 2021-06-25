@@ -1,1 +1,1 @@
-var mnemonic = "quiz nest jewel west acid exercise patch feed tape horn property season";
+var mnemonic = "street scout property february winter ivory photo group speak number library forest";

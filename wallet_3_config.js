@@ -1,1 +1,1 @@
-var mnemonic = "myself film ozone vehicle chase tooth recipe quiz humble write exchange horn";
+var mnemonic = "ahead tag gentle trap cargo drastic cat frog shy link purse device";

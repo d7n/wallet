@@ -1,1 +1,1 @@
-var mnemonic = "relief trigger arctic bench spatial margin van lazy purse exit struggle present";
+var mnemonic = "hotel worth penalty canyon gather cushion rival blue crush cart number remember";

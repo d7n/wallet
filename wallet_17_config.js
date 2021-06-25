@@ -1,1 +1,1 @@
-var mnemonic = "alarm whale indoor width assume process exact treat sentence poet much impulse";
+var mnemonic = "distance local list salmon memory picnic purchase fine check vault letter they";

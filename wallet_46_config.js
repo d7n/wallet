@@ -1,1 +1,1 @@
-var mnemonic = "lens flee jazz toilet middle tourist thunder when lyrics arrive bind scrub";
+var mnemonic = "ordinary eternal erosion resist unable expand arctic voice battle hood south busy";

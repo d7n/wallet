@@ -1,1 +1,1 @@
-var mnemonic = "crucial inmate town today pudding powder pilot bullet crush better emotion outer";
+var mnemonic = "north insane volcano tortoise movie other decline slab ride negative image emotion";

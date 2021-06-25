@@ -1,1 +1,1 @@
-var mnemonic = "night size priority insect zoo orphan negative degree cannon pipe evoke program";
+var mnemonic = "brand state husband crew unfair burden layer dice soldier neutral rebuild simple";

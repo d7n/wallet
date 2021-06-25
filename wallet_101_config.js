@@ -1,1 +1,1 @@
-var mnemonic = "cement repeat lucky useful useless text caution that kiwi section husband sting";
+var mnemonic = "unhappy carbon ecology prepare mosquito rubber cool tower video hockey normal lounge";

@@ -1,1 +1,1 @@
-var mnemonic = "space pill plate skate armed wild focus high adjust attitude brain mandate";
+var mnemonic = "panther vast mail student belt govern chapter cloud talent skill crash daughter";

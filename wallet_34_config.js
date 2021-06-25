@@ -1,1 +1,1 @@
-var mnemonic = "throw deny actress song popular more bridge fit spring connect actual spirit";
+var mnemonic = "comfort dad abuse funny vessel alley obey salmon pink nominee cake island";

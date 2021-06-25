@@ -1,1 +1,1 @@
-var mnemonic = "surface lawn busy victory spend stool uniform marble submit avocado action dignity";
+var mnemonic = "valid river blade weird level elder usage steel fever wash cereal pipe";

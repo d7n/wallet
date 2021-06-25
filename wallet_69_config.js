@@ -1,1 +1,1 @@
-var mnemonic = "urban thing top face gain faith steak sign dutch turtle elegant melody";
+var mnemonic = "eternal such sport illness deliver mirror noble need memory crater actual romance";

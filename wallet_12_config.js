@@ -1,1 +1,1 @@
-var mnemonic = "drop inner gasp lyrics service menu bundle dash helmet false broken lens";
+var mnemonic = "surge chest era garlic ritual neither tiny recall network shove possible merit";

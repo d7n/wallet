@@ -1,1 +1,1 @@
-var mnemonic = "news resource alone fatal distance lyrics pyramid drift special mean initial lend";
+var mnemonic = "powder pact play visa mesh birth bone ripple drink suit number famous";

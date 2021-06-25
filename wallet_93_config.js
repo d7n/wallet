@@ -1,1 +1,1 @@
-var mnemonic = "garage ring romance affair sort actress mom cigar hill flee dynamic six";
+var mnemonic = "ranch asset only dismiss hair curtain ice act pencil stem link chase";

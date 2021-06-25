@@ -1,1 +1,1 @@
-var mnemonic = "similar enrich weird glow frown wire join trophy knife hamster legend online";
+var mnemonic = "dismiss popular mango right shuffle fly left copy vehicle proud genius butter";

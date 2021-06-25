@@ -1,1 +1,1 @@
-var mnemonic = "pony hungry add hello join beef shop apple bread noodle airport ripple";
+var mnemonic = "group rifle surface session slot alone capable require oppose idea maze august";

@@ -1,1 +1,1 @@
-var mnemonic = "misery bird picnic web cost major estate alone twist oven report great";
+var mnemonic = "wrist limb donkey charge smooth point strike unknown champion affair announce essay";

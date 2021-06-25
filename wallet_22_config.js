@@ -1,1 +1,1 @@
-var mnemonic = "drip nest punch old uphold zone pass same public era video hurry";
+var mnemonic = "pottery cigar inch hybrid lonely giggle rice clinic job clutch smoke zero";

@@ -1,1 +1,1 @@
-var mnemonic = "add spring matter release clap genre century corn manage impact castle bless";
+var mnemonic = "father thunder mandate roast elevator satoshi floor stereo surge dust ranch birth";

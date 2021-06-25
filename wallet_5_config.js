@@ -1,1 +1,1 @@
-var mnemonic = "diesel present october unfair brave stable scrub child museum above submit use";
+var mnemonic = "brain hover pole shoot phone chunk search lyrics gym goat cattle scatter";

@@ -1,1 +1,1 @@
-var mnemonic = "door liberty despair then coil cake goose usual sight nest device rare";
+var mnemonic = "unhappy enhance accident vital spy broom sister globe intact unknown height puppy";

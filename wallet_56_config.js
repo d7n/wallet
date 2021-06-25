@@ -1,1 +1,1 @@
-var mnemonic = "tattoo reward spatial wink unlock island diary repeat will medal begin chief";
+var mnemonic = "foster palm solar donate retreat hidden fly desert divide cradle ask skill";

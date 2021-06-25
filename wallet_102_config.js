@@ -1,1 +1,1 @@
-var mnemonic = "hat swarm uncle tired scatter clip flight shoot fringe dry label lake";
+var mnemonic = "pottery dial run resist design salon manual umbrella universe water pattern recycle";

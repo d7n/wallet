@@ -1,1 +1,1 @@
-var mnemonic = "wire subway city hello swap blush rail latin peace dish clown extra";
+var mnemonic = "ramp parrot boring thought van this math chimney develop code blanket poem";

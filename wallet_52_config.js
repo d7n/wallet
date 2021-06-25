@@ -1,1 +1,1 @@
-var mnemonic = "click laundry paddle depend enact anchor female involve aspect settle panel bone";
+var mnemonic = "calm icon soup cluster air foil mouse demand drink select kiwi second";
