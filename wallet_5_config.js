@@ -1,1 +1,1 @@
-var mnemonic = "faith impose vessel practice drink wreck increase upon debate mountain dwarf tornado";
+var mnemonic = "picnic practice flat wedding celery sight beyond pilot novel enemy custom total";

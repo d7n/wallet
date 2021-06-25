@@ -1,1 +1,1 @@
-var mnemonic = "appear inside essence olive wood pulp hair divert lawsuit budget ice game";
+var mnemonic = "spend moral autumn december inch innocent amused system wood iron upper amateur";

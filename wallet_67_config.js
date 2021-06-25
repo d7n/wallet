@@ -1,1 +1,1 @@
-var mnemonic = "shock jacket note dirt library skirt shop exact alien eight section relief";
+var mnemonic = "treat angry runway tower spawn slush chunk drill slice unable normal judge";

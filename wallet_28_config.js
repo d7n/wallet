@@ -1,1 +1,1 @@
-var mnemonic = "discover ready poem height fork shine number believe donor kitten flavor soap";
+var mnemonic = "deliver swamp frown because sister hood planet syrup day spare cloth amazing";

@@ -1,1 +1,1 @@
-var mnemonic = "style vocal crane planet young wall comic demand faculty scorpion lonely reunion";
+var mnemonic = "mystery relief trim record legal picture door high wine burst trip denial";

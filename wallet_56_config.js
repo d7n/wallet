@@ -1,1 +1,1 @@
-var mnemonic = "eight toss detect pattern spatial profit firm autumn robust relief message ocean";
+var mnemonic = "sauce above priority just elder cable health legend pyramid guilt involve birth";

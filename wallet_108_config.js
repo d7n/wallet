@@ -1,1 +1,1 @@
-var mnemonic = "require enact canvas patrol olympic foster equal erode flip drastic suggest protect";
+var mnemonic = "notice legend angry decide cash diet river original tobacco oxygen soap crunch";

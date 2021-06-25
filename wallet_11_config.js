@@ -1,1 +1,1 @@
-var mnemonic = "giraffe soup unlock common wisdom tool collect voyage goose cloth sad stem";
+var mnemonic = "teach potato opinion dizzy shoe warrior athlete shrug leisure cushion head recycle";

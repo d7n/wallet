@@ -1,1 +1,1 @@
-var mnemonic = "social fiscal vicious maple pencil tilt draw satoshi subway found special baby";
+var mnemonic = "boost item chronic mushroom long cheap abstract bleak tired cost then inch";

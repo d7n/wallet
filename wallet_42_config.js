@@ -1,1 +1,1 @@
-var mnemonic = "recycle pupil matrix vital federal sniff afraid feature view act prefer fee";
+var mnemonic = "keen vessel need pattern marriage robot evil cable sad develop rule buffalo";

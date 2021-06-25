@@ -1,1 +1,1 @@
-var mnemonic = "reopen jungle trophy hidden pond above afraid drastic shock scatter have grace";
+var mnemonic = "gallery wedding venue rack fire catalog genre cream clarify illness video orchard";

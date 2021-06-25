@@ -1,1 +1,1 @@
-var mnemonic = "once skill punch antenna milk machine vital chalk note finger sphere piano";
+var mnemonic = "hair ceiling dinner net mean open island chronic dust main peasant casual";

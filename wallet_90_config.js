@@ -1,1 +1,1 @@
-var mnemonic = "this hidden prosper strong seed baby core kitchen decorate silk nation slogan";
+var mnemonic = "puppy gift chef potato push parent rail again universe outdoor rebuild envelope";

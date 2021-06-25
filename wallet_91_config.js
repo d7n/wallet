@@ -1,1 +1,1 @@
-var mnemonic = "friend plug wink night noble sadness pattern ski lumber shop across pair";
+var mnemonic = "divert other token spin burst ensure throw fossil next one click repair";

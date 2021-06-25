@@ -1,1 +1,1 @@
-var mnemonic = "ranch wait live prize work harsh cave degree risk learn seed clever";
+var mnemonic = "drum check impact wheel climb aerobic nominee bracket exhaust hard wheel sport";

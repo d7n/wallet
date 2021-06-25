@@ -1,1 +1,1 @@
-var mnemonic = "worth loan cloud dinner fade valley stand law dizzy can draw pioneer";
+var mnemonic = "result cousin supply giggle enjoy lion upon track sunset mirror barely wagon";

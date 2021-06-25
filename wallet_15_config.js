@@ -1,1 +1,1 @@
-var mnemonic = "street country debate empower live begin verify steak brother brisk foil report";
+var mnemonic = "actress trip cabin language term detail transfer health broccoli march novel soda";

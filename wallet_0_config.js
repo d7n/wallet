@@ -1,1 +1,1 @@
-var mnemonic = "silver city have mobile boost hire knife steel assault fox shed observe";
+var mnemonic = "charge relax relief lake empty olive wall impulse disorder away alpha around";

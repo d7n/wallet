@@ -1,1 +1,1 @@
-var mnemonic = "spoon domain night task trash novel you siren poverty gather excuse leave";
+var mnemonic = "final paddle shock globe push devote deer hard fall kid predict web";

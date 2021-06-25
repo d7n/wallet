@@ -1,1 +1,1 @@
-var mnemonic = "tip school private congress they crisp cupboard hunt exhibit tank drastic couch";
+var mnemonic = "method rather tribe punch oblige design skull okay island addict daring inherit";

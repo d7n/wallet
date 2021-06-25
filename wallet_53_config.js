@@ -1,1 +1,1 @@
-var mnemonic = "camera split hire resemble piece code segment shuffle large scale speak badge";
+var mnemonic = "buzz possible vintage weasel memory wait rib become magnet camera truck title";

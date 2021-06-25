@@ -1,1 +1,1 @@
-var mnemonic = "spirit decorate catch same any cluster moment rent once nose skull ring";
+var mnemonic = "option gown artefact swamp tuna bicycle candy runway clinic report column boil";

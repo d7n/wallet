@@ -1,1 +1,1 @@
-var mnemonic = "spirit brand ivory erupt file shed sock wonder stay siren come robust";
+var mnemonic = "cloud afraid bridge ready crisp plug net south verify endorse skill pluck";

@@ -1,1 +1,1 @@
-var mnemonic = "retire once hub mind casual grocery rack excuse urge coach pistol vanish";
+var mnemonic = "absorb light syrup approve human knee arrange announce broken grain blame school";

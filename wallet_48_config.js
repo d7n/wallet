@@ -1,1 +1,1 @@
-var mnemonic = "truth riot harbor spy pet engage basic blade churn alpha post goose";
+var mnemonic = "anger west habit wrestle steel assume casual twelve garden pottery bomb menu";

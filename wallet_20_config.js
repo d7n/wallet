@@ -1,1 +1,1 @@
-var mnemonic = "spin error camp snap muscle goat dirt answer dance author click patch";
+var mnemonic = "net market shrimp muscle crush satoshi silly fence giraffe decade ensure gauge";

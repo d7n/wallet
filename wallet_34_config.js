@@ -1,1 +1,1 @@
-var mnemonic = "gun inmate address fuel figure dwarf more trust gospel gospel tent priority";
+var mnemonic = "second inner antique label chest vault uniform false kiss bitter list tell";

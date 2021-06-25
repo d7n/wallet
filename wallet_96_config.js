@@ -1,1 +1,1 @@
-var mnemonic = "chronic comic link remember know bring album sign boost below hill symbol";
+var mnemonic = "soon weasel victory fatigue island inner strong glide empower evil express ceiling";

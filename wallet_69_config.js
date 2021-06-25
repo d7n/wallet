@@ -1,1 +1,1 @@
-var mnemonic = "image cruise pact pilot define film ability spy sell faith able chalk";
+var mnemonic = "shaft drill banner time jazz category treat sibling pole claim immense aerobic";

@@ -1,1 +1,1 @@
-var mnemonic = "early lion bargain file steel truth lonely firm ignore bachelor roof social";
+var mnemonic = "drill invest gasp conduct glory veteran scrub alter never omit rain south";

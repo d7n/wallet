@@ -1,1 +1,1 @@
-var mnemonic = "rapid stereo girl bench picture ask organ orient nothing weasel suggest spell";
+var mnemonic = "picture best hero field still define mention coffee swamp silk volume never";

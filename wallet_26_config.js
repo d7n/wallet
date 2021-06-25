@@ -1,1 +1,1 @@
-var mnemonic = "begin little smooth spirit acoustic diet ocean luxury level leaf erosion turtle";
+var mnemonic = "exact cliff motion point radio wall celery display leave monster outer net";

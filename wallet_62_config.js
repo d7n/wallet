@@ -1,1 +1,1 @@
-var mnemonic = "script mandate mosquito return stool text trigger seat chimney royal lucky swing";
+var mnemonic = "engage typical charge scissors patch across february number retire upgrade floor expire";

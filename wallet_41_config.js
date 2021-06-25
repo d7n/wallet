@@ -1,1 +1,1 @@
-var mnemonic = "glory charge ahead trap cargo damage inner arrive involve gold aisle inherit";
+var mnemonic = "subject pride lounge famous there fog afraid gorilla child layer spy cannon";

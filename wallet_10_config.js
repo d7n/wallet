@@ -1,1 +1,1 @@
-var mnemonic = "sheriff desert zone detect uncle balcony wire best smile tool sketch illness";
+var mnemonic = "sea kitten wage shift image deny wreck unfair problem lizard club decline";

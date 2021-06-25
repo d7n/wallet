@@ -1,1 +1,1 @@
-var mnemonic = "lobster monitor nest divide soldier rubber brave ivory behind detect process label";
+var mnemonic = "word question will vendor man make brave song kite hunt false mango";

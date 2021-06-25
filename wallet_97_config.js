@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow length sock miracle dash ankle adjust range easily carbon category sphere";
+var mnemonic = "call mention cat deer time ancient jar avoid neglect crumble traffic field";

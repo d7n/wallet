@@ -1,1 +1,1 @@
-var mnemonic = "enter culture stamp flame couple spread shine loan million swear supreme vehicle";
+var mnemonic = "toward common wedding pilot post captain nasty fat theory debate lamp obvious";

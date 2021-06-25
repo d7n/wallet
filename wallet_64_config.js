@@ -1,1 +1,1 @@
-var mnemonic = "put scare circle ocean payment tribe hood athlete tuition stamp reward trial";
+var mnemonic = "oak piece shove update august cube budget toddler tourist busy master runway";

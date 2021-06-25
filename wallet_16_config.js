@@ -1,1 +1,1 @@
-var mnemonic = "quick hotel select limit engage virtual explain copper scale brief flock twenty";
+var mnemonic = "donkey message veteran guitar banner royal ice north kidney vicious demand amateur";

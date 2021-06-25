@@ -1,1 +1,1 @@
-var mnemonic = "sign culture balance sister hard cluster wolf flash peanut select enter ranch";
+var mnemonic = "feature tuna gain coffee tuna saddle sunset left amazing chronic awful bargain";

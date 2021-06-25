@@ -1,1 +1,1 @@
-var mnemonic = "badge demise merge few also also vanish crawl genuine vapor angry plastic";
+var mnemonic = "anchor horror afford above surface scale spatial priority metal menu gown rebel";

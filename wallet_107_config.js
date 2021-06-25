@@ -1,1 +1,1 @@
-var mnemonic = "hen solid chair near master tag buyer close employ step story beach";
+var mnemonic = "wet close raise lyrics okay opera attract tip quit town brick south";

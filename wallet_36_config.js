@@ -1,1 +1,1 @@
-var mnemonic = "elder reason spot file loud flip evil crack margin capable amount blush";
+var mnemonic = "harbor siege what gap enforce initial brave merry wall exhaust diary decade";

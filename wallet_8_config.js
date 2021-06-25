@@ -1,1 +1,1 @@
-var mnemonic = "worth either rotate slice chase weather rice license squeeze siren desk payment";
+var mnemonic = "can bid network syrup media fruit wool walk option kitchen siren gorilla";

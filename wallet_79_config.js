@@ -1,1 +1,1 @@
-var mnemonic = "quote hungry gun tourist puppy nice hip maximum equip pet smart gold";
+var mnemonic = "snack unable romance knee trial poem other garlic city iron approve duck";

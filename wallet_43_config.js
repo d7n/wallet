@@ -1,1 +1,1 @@
-var mnemonic = "ask frog bridge force save during concert copper symptom soda federal join";
+var mnemonic = "fence daughter blouse sunny twenty system wish arch file immense short ginger";

@@ -1,1 +1,1 @@
-var mnemonic = "hint mother secret recycle amazing top fruit piano energy length luggage protect";
+var mnemonic = "kiwi panda walnut tenant duty cruel smart rubber amused ritual never lawn";

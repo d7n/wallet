@@ -1,1 +1,1 @@
-var mnemonic = "dose trap direct venture dune wear ethics amazing surface own lunch indoor";
+var mnemonic = "purse orange true noodle leisure attack bitter jar badge begin shop room";

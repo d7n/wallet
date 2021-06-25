@@ -1,1 +1,1 @@
-var mnemonic = "inhale test immense hat army parrot despair frame half mutual large below";
+var mnemonic = "thing coffee lady trim honey good absorb left yellow later mobile shaft";

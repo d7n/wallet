@@ -1,1 +1,1 @@
-var mnemonic = "fence label into divorce kid satoshi duty sign lawsuit uncle museum weather";
+var mnemonic = "lend goose captain reunion close toward clutch infant fringe run cube calm";

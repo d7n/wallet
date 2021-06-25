@@ -1,1 +1,1 @@
-var mnemonic = "vague number appear online wife split opinion post future hole goddess grunt";
+var mnemonic = "announce post spawn frozen move tenant peace silent suggest camp poem minimum";

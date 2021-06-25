@@ -1,1 +1,1 @@
-var mnemonic = "suggest settle chunk return other pyramid fix swarm reflect bulk search side";
+var mnemonic = "warrior cricket delay expect boat moon laundry initial sort drip oil cycle";

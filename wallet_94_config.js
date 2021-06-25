@@ -1,1 +1,1 @@
-var mnemonic = "insane pause live roast modify acquire finish boil tilt science wonder timber";
+var mnemonic = "sand unfold van warfare faculty track intact ladder tortoise real logic opinion";

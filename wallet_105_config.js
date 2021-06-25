@@ -1,1 +1,1 @@
-var mnemonic = "sort fade pen school program foil public pepper twelve run sketch bag";
+var mnemonic = "palace critic beef sweet dance next pistol decorate member know pair remember";

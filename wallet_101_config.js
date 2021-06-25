@@ -1,1 +1,1 @@
-var mnemonic = "dismiss chronic stumble diet axis laptop furnace bronze entry quarter egg echo";
+var mnemonic = "earth few enlist erode unaware excess swift include idle shiver dinosaur grid";

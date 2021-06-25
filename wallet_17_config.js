@@ -1,1 +1,1 @@
-var mnemonic = "blouse alarm april jaguar state nice twelve salmon video upper name pioneer";
+var mnemonic = "month delay exit still review sample say remain flush inner hip faith";

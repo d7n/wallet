@@ -1,1 +1,1 @@
-var mnemonic = "setup feed business secret yellow pluck banana cage floor mind keep enact";
+var mnemonic = "omit panel prevent reward soccer order siren garden mesh young asthma skin";

@@ -1,1 +1,1 @@
-var mnemonic = "citizen great above alien cluster cat misery success tower kit traffic thought";
+var mnemonic = "viable industry machine all town setup donkey huge outside raw vague nature";

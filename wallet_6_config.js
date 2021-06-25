@@ -1,1 +1,1 @@
-var mnemonic = "black excuse hungry decrease frog mountain blast choose dance hero shadow congress";
+var mnemonic = "engage unique conduct gospel meat hybrid cannon devote suspect pledge history put";

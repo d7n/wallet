@@ -1,1 +1,1 @@
-var mnemonic = "mom often forest style ritual cereal act visit usual stereo spawn exchange";
+var mnemonic = "zebra recycle budget ring soft member ensure erupt seed dentist ask oxygen";

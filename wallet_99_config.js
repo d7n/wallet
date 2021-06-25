@@ -1,1 +1,1 @@
-var mnemonic = "output gorilla pass keep plug derive crisp reward casual skin grain miss";
+var mnemonic = "awkward garden urge fame pluck vicious differ benefit soon ceiling letter shoe";

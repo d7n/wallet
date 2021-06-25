@@ -1,1 +1,1 @@
-var mnemonic = "marble critic network century nephew father animal plunge famous peanut wish truly";
+var mnemonic = "empty view tuition guard sun uncle dial script control doll mind that";

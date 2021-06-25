@@ -1,1 +1,1 @@
-var mnemonic = "paper better fit move warrior blush rally front genuine turn cheese always";
+var mnemonic = "tiny noodle exercise damp illegal seven museum endless setup favorite excite century";

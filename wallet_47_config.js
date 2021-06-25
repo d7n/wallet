@@ -1,1 +1,1 @@
-var mnemonic = "push hungry antique trap sick kangaroo hard festival arrow success poverty dry";
+var mnemonic = "nasty feed love leader boost cabbage around struggle position switch fashion need";

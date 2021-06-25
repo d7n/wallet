@@ -1,1 +1,1 @@
-var mnemonic = "know acquire duck panel dress topic warfare canal cave ketchup pig silly";
+var mnemonic = "immense return urge aerobic recall speak summer knock doll stool soft milk";

@@ -1,1 +1,1 @@
-var mnemonic = "address prefer leave hover indicate page online knock person boss stand spell";
+var mnemonic = "forest marine absent crawl latin model cable extra bracket dad hawk coconut";

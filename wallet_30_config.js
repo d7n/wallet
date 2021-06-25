@@ -1,1 +1,1 @@
-var mnemonic = "teach stereo tuna please beach radar coast main theme safe diagram reflect";
+var mnemonic = "family pattern they duck wreck trophy unique cat clarify deal twice thrive";

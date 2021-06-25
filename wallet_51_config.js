@@ -1,1 +1,1 @@
-var mnemonic = "recycle noodle whip panic enlist coffee empty labor picture dolphin pool into";
+var mnemonic = "chef deliver panther earth memory teach vehicle humble kiss sick chef crazy";

@@ -1,1 +1,1 @@
-var mnemonic = "deliver genuine symptom zero dice photo wish visa unknown biology order group";
+var mnemonic = "arrow skirt client embody foil smart tape discover spray marine venture task";

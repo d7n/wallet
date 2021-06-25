@@ -1,1 +1,1 @@
-var mnemonic = "hub member analyst flip unit only derive marine giraffe light pizza general";
+var mnemonic = "lamp explain dutch biology robot coffee diamond journey stock volcano life garment";

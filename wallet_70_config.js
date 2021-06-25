@@ -1,1 +1,1 @@
-var mnemonic = "system iron tape danger gossip surge decide uphold virus wrap gap mention";
+var mnemonic = "make laugh raven draft issue wise mask window badge hundred guess lobster";

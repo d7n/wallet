@@ -1,1 +1,1 @@
-var mnemonic = "scout subway inspire relief upset feed prevent blame excite dinosaur quote canoe";
+var mnemonic = "grass garden hurt now chapter slogan couch occur pilot tray medal company";

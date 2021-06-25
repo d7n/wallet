@@ -1,1 +1,1 @@
-var mnemonic = "blur radio learn cave whisper swap lucky popular anxiety tool web battle";
+var mnemonic = "kiwi praise come awake gentle rhythm tree leaf enter wing amateur sheriff";

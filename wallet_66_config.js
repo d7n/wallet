@@ -1,1 +1,1 @@
-var mnemonic = "hover fat orient bag erosion project small skull blame box direct fossil";
+var mnemonic = "alone minimum sight metal deliver address impact crazy flight patch black give";

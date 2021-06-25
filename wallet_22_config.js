@@ -1,1 +1,1 @@
-var mnemonic = "spend chimney keep snow chair sniff melody ramp dial wise update develop";
+var mnemonic = "toy poet either ketchup apart apart where put junior enhance beyond damage";

@@ -1,1 +1,1 @@
-var mnemonic = "seat sting attend fix problem sunset clever attitude coral december occur limb";
+var mnemonic = "solar want trust trust music secret avoid naive judge planet shoe perfect";

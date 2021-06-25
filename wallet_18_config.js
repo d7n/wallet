@@ -1,1 +1,1 @@
-var mnemonic = "save strike debate drive whip box reject milk jacket evil food fox";
+var mnemonic = "polar clock peasant since inmate print sound powder humor voice odor another";

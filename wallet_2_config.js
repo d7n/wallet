@@ -1,1 +1,1 @@
-var mnemonic = "digital deal ready inform weird buyer leisure state damp hedgehog sand metal";
+var mnemonic = "team analyst long rice correct train balance come census mail spoil sand";

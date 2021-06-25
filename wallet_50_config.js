@@ -1,1 +1,1 @@
-var mnemonic = "scene kite blossom icon arena museum smart spice avocado vehicle mirror fork";
+var mnemonic = "knee quick lyrics trim frame cake tenant earth judge absurd illness reject";

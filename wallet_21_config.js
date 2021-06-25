@@ -1,1 +1,1 @@
-var mnemonic = "foam miracle symbol royal eagle benefit warfare scare afford student blood album";
+var mnemonic = "typical twenty very pink cause purchase cluster clock stamp pen similar amateur";

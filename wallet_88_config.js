@@ -1,1 +1,1 @@
-var mnemonic = "flower teach seat wink mixture nation tragic old come word oil since";
+var mnemonic = "holiday decorate race window robust despair appear strike ride wish one siege";

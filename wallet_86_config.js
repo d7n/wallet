@@ -1,1 +1,1 @@
-var mnemonic = "drastic monkey vibrant ozone birth divert supply security satoshi cloth squeeze inch";
+var mnemonic = "renew update virus clutch clap famous century garage thing nature coyote warm";

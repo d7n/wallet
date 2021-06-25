@@ -1,1 +1,1 @@
-var mnemonic = "alarm during edge trim tail issue equip joke angle verify entire blood";
+var mnemonic = "monkey toddler lumber mouse raise fat cook power pulse path fade rapid";

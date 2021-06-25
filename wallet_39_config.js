@@ -1,1 +1,1 @@
-var mnemonic = "very fun silent quantum ticket hurt under neutral slice loyal dance reward";
+var mnemonic = "appear dad battle tornado torch quantum exile ten window eight together stomach";

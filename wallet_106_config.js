@@ -1,1 +1,1 @@
-var mnemonic = "drive rebuild exist season tennis occur vivid regular weekend disagree method evolve";
+var mnemonic = "dismiss certain head base express direct crane hundred knife action later season";

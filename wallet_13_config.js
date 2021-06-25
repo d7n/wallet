@@ -1,1 +1,1 @@
-var mnemonic = "fish upper quantum until connect grit explain tower fancy monitor casual victory";
+var mnemonic = "course poverty narrow flash away chuckle glare time edit better medal ancient";

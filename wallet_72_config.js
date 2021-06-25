@@ -1,1 +1,1 @@
-var mnemonic = "general answer entire punch devote connect novel denial ghost annual knock party";
+var mnemonic = "couch list allow rude follow crime report accuse plug fog outside index";

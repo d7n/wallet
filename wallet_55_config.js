@@ -1,1 +1,1 @@
-var mnemonic = "pretty payment pill ill mobile fiscal social alley pet text found parent";
+var mnemonic = "mammal bread pulp already lawn acid mountain meadow slot eagle wool swallow";

@@ -1,1 +1,1 @@
-var mnemonic = "crush wash parent little nest rare other mechanic bullet impact obvious satisfy";
+var mnemonic = "media mobile steak chronic minute heavy school ancient dirt stool reveal fuel";

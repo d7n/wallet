@@ -1,1 +1,1 @@
-var mnemonic = "catch chaos portion media orphan crush fun edit obscure seek time real";
+var mnemonic = "jewel party consider unfold guard public shadow garden vicious myself benefit reason";

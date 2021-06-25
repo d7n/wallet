@@ -1,1 +1,1 @@
-var mnemonic = "leaf core comfort rotate flush fall reveal metal clutch pond decade pen";
+var mnemonic = "culture glimpse ankle divide provide vault brass invest car dove ecology maze";

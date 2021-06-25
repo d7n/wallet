@@ -1,1 +1,1 @@
-var mnemonic = "force draw world virus exist spin hub below shallow resist spider brand";
+var mnemonic = "sight carbon engage crawl daughter wet kangaroo topic resist color napkin garment";

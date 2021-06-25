@@ -1,1 +1,1 @@
-var mnemonic = "leave current exhaust feature friend hollow other blue clean orange hotel region";
+var mnemonic = "doctor rough crucial father pause school cricket rally ugly knife announce laundry";
