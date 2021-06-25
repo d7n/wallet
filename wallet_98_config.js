@@ -1,1 +1,1 @@
-var mnemonic = "mean cruise later public assault catalog spawn kite armed token crisp series";
+var mnemonic = "wave ordinary shine defy embark crisp involve report elegant dutch hope fortune";

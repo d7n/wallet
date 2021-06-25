@@ -1,1 +1,1 @@
-var mnemonic = "language lunch awful fruit ensure pistol catch frost song enjoy swim mansion";
+var mnemonic = "broom fix south above steak dune shove culture firm either present truck";

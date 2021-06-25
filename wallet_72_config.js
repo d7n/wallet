@@ -1,1 +1,1 @@
-var mnemonic = "peace spare unit security brisk toddler coin only pool goddess moon coast";
+var mnemonic = "hint actor mammal play pill stairs reduce raw urban minimum sponsor shield";

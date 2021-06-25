@@ -1,1 +1,1 @@
-var mnemonic = "make rib excite love action equal student artwork call pitch near butter";
+var mnemonic = "thunder shadow fame buzz race boss modify rough armed boy into demise";

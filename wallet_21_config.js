@@ -1,1 +1,1 @@
-var mnemonic = "lobster paper search brick advice violin dolphin correct polar wolf female vessel";
+var mnemonic = "object arrive repair return island loop erosion cable deal expand item since";

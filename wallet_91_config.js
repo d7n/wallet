@@ -1,1 +1,1 @@
-var mnemonic = "august fluid thank decide exclude boost student later notice essay release fatigue";
+var mnemonic = "move stumble dove coffee peanut stereo rebel miracle acquire kitchen fox creek";

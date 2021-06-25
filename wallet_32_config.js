@@ -1,1 +1,1 @@
-var mnemonic = "front season certain swarm leisure this window under female oppose matrix penalty";
+var mnemonic = "old decorate nominee bar awake pill law second kitchen grab elder phone";

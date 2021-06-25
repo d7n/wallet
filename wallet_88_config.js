@@ -1,1 +1,1 @@
-var mnemonic = "human crouch perfect tuition total brand silly grunt trick gun offer real";
+var mnemonic = "business almost slogan canal name control mansion gospel peanut forward pitch tag";

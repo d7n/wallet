@@ -1,1 +1,1 @@
-var mnemonic = "mixed unlock parrot resist broken under swim oppose draw frown another obvious";
+var mnemonic = "aerobic artefact carry mosquito wage cheese inquiry enter face ostrich demise oblige";

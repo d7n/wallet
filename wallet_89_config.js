@@ -1,1 +1,1 @@
-var mnemonic = "pulp tourist sadness opinion dawn mesh year early mule zebra unhappy satisfy";
+var mnemonic = "decrease birth output laugh almost food federal unusual crime common explain wait";

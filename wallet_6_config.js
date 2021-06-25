@@ -1,1 +1,1 @@
-var mnemonic = "stumble squeeze follow primary bone great laugh smile enroll yard refuse kingdom";
+var mnemonic = "lyrics flag style day grape timber bargain trick hood region avoid start";

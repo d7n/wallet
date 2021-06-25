@@ -1,1 +1,1 @@
-var mnemonic = "exhibit element amateur able weird absurd differ hope surface leaf sibling stable";
+var mnemonic = "spray embrace minimum engage boat supply pelican kingdom fringe plastic gossip approve";

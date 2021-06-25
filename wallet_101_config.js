@@ -1,1 +1,1 @@
-var mnemonic = "across glide chef size stay hollow reopen used enact fish swift breeze";
+var mnemonic = "shaft panel eternal crumble cake either image judge nuclear wine card ocean";

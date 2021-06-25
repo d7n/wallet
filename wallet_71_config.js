@@ -1,1 +1,1 @@
-var mnemonic = "lobster tonight tomato dinner fork frost worth mixture bid keen script member";
+var mnemonic = "best switch panda loyal melt stairs swap gadget ahead rebuild upon age";

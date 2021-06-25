@@ -1,1 +1,1 @@
-var mnemonic = "nature inquiry rude sunset enroll juice category inquiry unique diet zoo image";
+var mnemonic = "stereo subject wild neck boss famous strike kingdom source final frown sentence";

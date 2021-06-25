@@ -1,1 +1,1 @@
-var mnemonic = "anger resemble crazy have nature copper armed spoil stuff forget draw income";
+var mnemonic = "tackle movie supreme sister praise tissue arrow elder option brown unusual east";

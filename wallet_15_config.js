@@ -1,1 +1,1 @@
-var mnemonic = "sentence foil what suggest other sibling feed cream disorder diamond danger neither";
+var mnemonic = "joke unhappy violin deal scatter glare galaxy owner enforce advice cross magic";

@@ -1,1 +1,1 @@
-var mnemonic = "name already fade face sweet release seed boost viable bonus spy they";
+var mnemonic = "fever kick fat sing village citizen enlist insane frown fossil material weird";

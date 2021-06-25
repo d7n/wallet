@@ -1,1 +1,1 @@
-var mnemonic = "duty property employ when crawl bicycle tiny picture nephew festival attend avocado";
+var mnemonic = "foam renew away off gloom end provide swallow old boy gown crouch";

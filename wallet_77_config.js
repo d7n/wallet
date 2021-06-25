@@ -1,1 +1,1 @@
-var mnemonic = "say uphold ice upset fiscal mass donate accuse limb observe ugly crime";
+var mnemonic = "agree mom lamp fold matter abuse six snake employ girl apology buzz";

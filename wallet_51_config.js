@@ -1,1 +1,1 @@
-var mnemonic = "bubble head daring copper royal milk amount dawn trigger express uphold pair";
+var mnemonic = "indoor glow wise entry month stone welcome buddy escape movie fiscal speak";

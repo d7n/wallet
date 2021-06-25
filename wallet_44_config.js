@@ -1,1 +1,1 @@
-var mnemonic = "radio shine enlist boost another ostrich dumb fire extra walnut nothing wine";
+var mnemonic = "dirt cloud still audit raven honey theory stumble limit taxi whip crumble";

@@ -1,1 +1,1 @@
-var mnemonic = "stadium pact two urge volume rate sibling answer sibling divide anchor blood";
+var mnemonic = "hawk fantasy wild submit clown into fox tragic match critic panic dream";

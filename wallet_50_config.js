@@ -1,1 +1,1 @@
-var mnemonic = "label poverty credit obvious gift illness turn luxury useless sibling cover pottery";
+var mnemonic = "mobile nerve ceiling bike menu bid beauty public candy embark just aerobic";

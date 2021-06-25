@@ -1,1 +1,1 @@
-var mnemonic = "risk turn tragic expand weird lemon exclude risk siege weather inquiry begin";
+var mnemonic = "seek raise mass twist love april hold bulb silly mosquito bird tuition";

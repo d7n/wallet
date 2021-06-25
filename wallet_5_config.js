@@ -1,1 +1,1 @@
-var mnemonic = "damp trend aspect fox limb idea celery balcony lonely sure outdoor busy";
+var mnemonic = "cherry south assume crack pipe tail easily exact eagle rebel frog blind";

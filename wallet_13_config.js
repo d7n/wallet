@@ -1,1 +1,1 @@
-var mnemonic = "top resemble exist grace hobby embark index typical banana ribbon mobile enforce";
+var mnemonic = "army poem work carbon kingdom found wheat fun first doctor develop bleak";

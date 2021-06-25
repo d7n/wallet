@@ -1,1 +1,1 @@
-var mnemonic = "unknown brick wave hill power firm agent note ready cotton fat over";
+var mnemonic = "olive valley remind shell palace reveal penalty crop light exist coyote tree";

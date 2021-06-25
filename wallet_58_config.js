@@ -1,1 +1,1 @@
-var mnemonic = "limb render worry west original toddler earn inform pass force toe hospital";
+var mnemonic = "unknown practice raw expose gadget when hazard renew thank gown view aim";

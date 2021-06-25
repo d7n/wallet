@@ -1,1 +1,1 @@
-var mnemonic = "habit stage flash until solution tourist dose suffer unique report lock chief";
+var mnemonic = "ice extra quit heavy cat cinnamon torch athlete waste punch average village";

@@ -1,1 +1,1 @@
-var mnemonic = "shoot head bring nurse outdoor mushroom try between shoe path palm oval";
+var mnemonic = "radar magnet orange load image bulb entire address match cattle craft illegal";

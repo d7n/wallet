@@ -1,1 +1,1 @@
-var mnemonic = "dwarf execute key vivid insect vacuum crowd fortune destroy vessel away problem";
+var mnemonic = "result wife across turkey subject creek satisfy addict short usual cereal fatal";

@@ -1,1 +1,1 @@
-var mnemonic = "million icon dinosaur obtain position hard calm damage evil success lens chase";
+var mnemonic = "example pull civil produce grain analyst main bargain joy real use box";

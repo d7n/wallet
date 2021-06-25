@@ -1,1 +1,1 @@
-var mnemonic = "lake easily dinner click fee pact verb juice renew slice almost anchor";
+var mnemonic = "leopard myth render whale waste depth mean six arrive again because soap";

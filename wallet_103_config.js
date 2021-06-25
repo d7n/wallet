@@ -1,1 +1,1 @@
-var mnemonic = "helmet ball argue across sketch sauce submit feed hockey foil pretty defense";
+var mnemonic = "sight since among struggle indicate antique like merit cargo fine oblige weapon";

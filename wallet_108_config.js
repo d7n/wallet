@@ -1,1 +1,1 @@
-var mnemonic = "awkward raven gauge wink blood clump quick swear rival benefit year tent";
+var mnemonic = "stumble swap now curtain blind captain erupt cube tobacco pretty food leader";

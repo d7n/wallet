@@ -1,1 +1,1 @@
-var mnemonic = "dawn together sketch fortune dream crucial banana rack razor artefact situate lecture";
+var mnemonic = "century jump style elder pretty inner benefit fever spatial pizza rebuild surprise";

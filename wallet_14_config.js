@@ -1,1 +1,1 @@
-var mnemonic = "lunar skin skill yellow dumb patch whip decrease worry age change finger";
+var mnemonic = "thank sort reason where security assist sun swift depend away sun myself";

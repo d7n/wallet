@@ -1,1 +1,1 @@
-var mnemonic = "add congress case shiver warrior kitten mean panic argue stable pink tongue";
+var mnemonic = "trouble blade weapon flip expect hospital tackle mirror away script obscure crime";

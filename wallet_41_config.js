@@ -1,1 +1,1 @@
-var mnemonic = "move almost rare rally relief kit divorce monkey quit upgrade return private";
+var mnemonic = "final balance pull local reopen right merry balance detect split canyon picnic";

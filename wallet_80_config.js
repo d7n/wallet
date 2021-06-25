@@ -1,1 +1,1 @@
-var mnemonic = "cable crew cloud spice weapon dice emerge radio million image timber flat";
+var mnemonic = "ill grid arena wedding cream faculty law cluster multiply page oven avocado";

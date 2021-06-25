@@ -1,1 +1,1 @@
-var mnemonic = "car night almost couch cannon shop equal eye soldier record shuffle possible";
+var mnemonic = "render face popular sand flame tag smart dumb remove harbor learn life";

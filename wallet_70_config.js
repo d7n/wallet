@@ -1,1 +1,1 @@
-var mnemonic = "live lonely swallow life endless royal gold online gospel screen now jungle";
+var mnemonic = "decline thumb injury tattoo tide private daring butter stage hope apple modify";

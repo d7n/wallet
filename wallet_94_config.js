@@ -1,1 +1,1 @@
-var mnemonic = "theme weather exile else sick risk card dragon onion today swift destroy";
+var mnemonic = "crazy actor state meat turn exercise bamboo bachelor tennis today huge rib";

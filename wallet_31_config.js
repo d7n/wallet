@@ -1,1 +1,1 @@
-var mnemonic = "fade run decorate melt clap camera super vote balance prosper author scrap";
+var mnemonic = "melody airport nuclear tomato shrug effort forest dad loan track table empty";

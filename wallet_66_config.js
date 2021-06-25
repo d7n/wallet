@@ -1,1 +1,1 @@
-var mnemonic = "sound enact thumb antenna brave doll crawl record intact width decide onion";
+var mnemonic = "stand eagle tongue ask vapor physical uncle village hard remember circle group";

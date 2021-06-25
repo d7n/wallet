@@ -1,1 +1,1 @@
-var mnemonic = "ankle faith little parrot accident melody release match endless guilt force siege";
+var mnemonic = "private post neck fetch normal clown upset vicious seven correct start apology";

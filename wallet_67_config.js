@@ -1,1 +1,1 @@
-var mnemonic = "sniff grocery town hospital corn isolate parent frown tip logic work table";
+var mnemonic = "uphold deny since humble milk genuine attract table lens claim record load";

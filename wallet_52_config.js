@@ -1,1 +1,1 @@
-var mnemonic = "unit smile learn gold right narrow wait virtual slide city deliver cricket";
+var mnemonic = "net raise assist embrace theory guess direct trend swamp scheme range drop";

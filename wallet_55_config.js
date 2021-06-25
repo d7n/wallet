@@ -1,1 +1,1 @@
-var mnemonic = "answer bright cube nurse square clean sing feature rural palace silk hungry";
+var mnemonic = "prize firm survey fog soon dog artist high reject silent fox sleep";

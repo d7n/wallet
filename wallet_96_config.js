@@ -1,1 +1,1 @@
-var mnemonic = "aim gift never ask luxury meadow enact place type border board amount";
+var mnemonic = "axis emotion early genuine student because lock pride appear extra miracle aware";

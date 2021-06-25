@@ -1,1 +1,1 @@
-var mnemonic = "fever cause unaware boat trash fuel gorilla dwarf chest arrow artist baby";
+var mnemonic = "input smoke weekend heavy guitar keen guide leisure explain sugar shed weird";

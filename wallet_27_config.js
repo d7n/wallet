@@ -1,1 +1,1 @@
-var mnemonic = "agree exist slide strong nothing undo flip device left gadget daring toy";
+var mnemonic = "fitness gun multiply lens erode invest choice mansion swarm empty gentle melt";

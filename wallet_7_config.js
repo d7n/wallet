@@ -1,1 +1,1 @@
-var mnemonic = "mountain trap pool protect layer appear comfort system sea make phrase drip";
+var mnemonic = "tuna emotion rack flight gold finish arch faith among accuse laptop raise";

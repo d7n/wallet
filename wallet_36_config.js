@@ -1,1 +1,1 @@
-var mnemonic = "fluid weather ask zoo shed narrow catch corn eye bike goddess bronze";
+var mnemonic = "glow real month develop cruel lyrics space squeeze throw caution fancy film";

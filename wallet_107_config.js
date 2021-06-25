@@ -1,1 +1,1 @@
-var mnemonic = "release tomorrow excuse bracket claw pave motor year treat ball luggage layer";
+var mnemonic = "gossip math bulk brass skin wheat excess industry derive foam turtle mutual";

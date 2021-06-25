@@ -1,1 +1,1 @@
-var mnemonic = "ghost warrior hero solar eager isolate enter box cost pizza there flower";
+var mnemonic = "zero olympic diary ripple athlete portion slow boss tortoise coin funny midnight";

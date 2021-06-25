@@ -1,1 +1,1 @@
-var mnemonic = "rich drastic age shove birth fluid rough bunker release blouse similar one";
+var mnemonic = "film wage champion core crew forward hurry brass diet local quit drama";

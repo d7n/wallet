@@ -1,1 +1,1 @@
-var mnemonic = "ecology hero poem festival genuine tissue execute talent test tenant inner game";
+var mnemonic = "alert setup novel venture project brain galaxy slam naive energy crane margin";

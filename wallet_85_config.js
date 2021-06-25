@@ -1,1 +1,1 @@
-var mnemonic = "bid ensure fiction diagram grape total pledge plunge wish blossom energy benefit";
+var mnemonic = "around theory snap atom lizard silly three amateur remember cousin gesture burger";

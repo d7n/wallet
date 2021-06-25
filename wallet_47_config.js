@@ -1,1 +1,1 @@
-var mnemonic = "slice angry dose describe habit order drift tribe input moral ozone tomato";
+var mnemonic = "crush when route citizen fruit cinnamon lobster interest render hip between random";

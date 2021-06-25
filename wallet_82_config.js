@@ -1,1 +1,1 @@
-var mnemonic = "combine output bag buyer retreat razor need denial dumb memory left cabin";
+var mnemonic = "sign rally siren tree affair urban spoon fat captain casino tackle apple";

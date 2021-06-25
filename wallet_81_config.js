@@ -1,1 +1,1 @@
-var mnemonic = "spend lab smart harsh solar potato hurdle oval cement honey salute finger";
+var mnemonic = "hawk place vital south crush young feel garlic loan evil share vicious";

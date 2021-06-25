@@ -1,1 +1,1 @@
-var mnemonic = "trust dash quit long blame creek slow mutual viable proof receive metal";
+var mnemonic = "coral cabbage uncle video bicycle portion disease hour twelve face brain hand";

@@ -1,1 +1,1 @@
-var mnemonic = "empower gentle sister cotton lock kid hope notable trip half fee bonus";
+var mnemonic = "unknown monkey better olive grace minimum claw render soldier sick pottery pulse";

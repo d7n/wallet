@@ -1,1 +1,1 @@
-var mnemonic = "crouch prison organ narrow flash enforce hobby number innocent winner tail easily";
+var mnemonic = "orient sand beyond scale eight nominee cloth sound ignore chalk pioneer grab";

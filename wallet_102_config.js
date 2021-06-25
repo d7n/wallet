@@ -1,1 +1,1 @@
-var mnemonic = "best engine vacuum sock ring goat enjoy near notable flee govern nominee";
+var mnemonic = "mimic mystery vivid wood lend crime story lonely keen turkey author genuine";

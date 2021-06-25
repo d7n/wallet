@@ -1,1 +1,1 @@
-var mnemonic = "already actual gas summer hungry among mechanic blind evidence icon turn because";
+var mnemonic = "struggle daughter crouch dance demise ivory consider ticket dose spy fog upper";

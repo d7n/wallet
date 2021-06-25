@@ -1,1 +1,1 @@
-var mnemonic = "reform market boost sport tackle head cloth axis giant primary mechanic hole";
+var mnemonic = "brand physical kid chunk two gather expose parent civil economy motor unfold";

@@ -1,1 +1,1 @@
-var mnemonic = "top novel bonus over adapt bonus brand ride fog prosper gasp catch";
+var mnemonic = "post fat scatter pear century shadow hope stuff gospel wide dutch sniff";

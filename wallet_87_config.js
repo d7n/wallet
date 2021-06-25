@@ -1,1 +1,1 @@
-var mnemonic = "ugly genre anxiety stove sing join often help february enjoy ordinary smile";
+var mnemonic = "blue various method major sauce shoe joke column public artefact jealous muscle";

@@ -1,1 +1,1 @@
-var mnemonic = "song upon reveal window exclude try monkey clown pear miss enable wisdom";
+var mnemonic = "logic volcano grace crunch little kangaroo sustain clip melody employ learn select";

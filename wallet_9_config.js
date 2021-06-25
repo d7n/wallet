@@ -1,1 +1,1 @@
-var mnemonic = "abuse thought grant give amused calm dust stuff boat bike own dash";
+var mnemonic = "scout admit aspect method wrist diagram trumpet hen comfort flee uncle churn";

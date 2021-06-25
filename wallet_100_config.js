@@ -1,1 +1,1 @@
-var mnemonic = "carpet update apart right entire boat viable flame track acid beach claim";
+var mnemonic = "auto setup balance fine remain current text funny basic climb moon left";

@@ -1,1 +1,1 @@
-var mnemonic = "symbol august ecology method donkey gown worry always analyst faint vehicle tunnel";
+var mnemonic = "chimney strategy rack disorder cheese weekend bacon nasty pill leopard want humor";

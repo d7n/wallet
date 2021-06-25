@@ -1,1 +1,1 @@
-var mnemonic = "shell like skirt tomato faint device advance lottery diamond misery fame erase";
+var mnemonic = "able kit mammal muscle slide pilot current squirrel mom fork depend maximum";

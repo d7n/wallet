@@ -1,1 +1,1 @@
-var mnemonic = "plate lizard raven happy hollow floor vote arm fork negative dumb trial";
+var mnemonic = "delay grunt woman clip deny fetch arrive note begin add addict clump";

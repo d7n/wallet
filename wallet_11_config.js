@@ -1,1 +1,1 @@
-var mnemonic = "feature lamp office sustain wheel wedding ostrich brain fit cream capital wife";
+var mnemonic = "phone pill fiscal ill assume frequent father bamboo pet path shuffle run";

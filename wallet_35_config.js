@@ -1,1 +1,1 @@
-var mnemonic = "prison axis kiss mechanic spoil program citizen often spice caught cushion jazz";
+var mnemonic = "twelve disorder stuff regret truly alley cash forum crime shadow like payment";

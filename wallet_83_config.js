@@ -1,1 +1,1 @@
-var mnemonic = "vehicle enemy denial kingdom pair notable session noise spare roast find soccer";
+var mnemonic = "virus few limit avoid addict final goose comfort black elite echo gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "describe price conduct leisure devote error glance summer cruel loop turtle pact";
+var mnemonic = "message magic grant relax blame gossip lazy over forest resist minute east";

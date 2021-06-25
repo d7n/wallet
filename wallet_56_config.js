@@ -1,1 +1,1 @@
-var mnemonic = "chapter merry pilot virus uncover impulse oppose alcohol lava pistol lock diagram";
+var mnemonic = "ride code bike must report deliver below outside spare check capital palace";

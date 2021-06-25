@@ -1,1 +1,1 @@
-var mnemonic = "panic draw need harsh trash chair boil woman office vacant alley sail";
+var mnemonic = "intact dress arena capital awesome tone shed mercy evil oak slight motion";

@@ -1,1 +1,1 @@
-var mnemonic = "fish distance loop measure flock chase position venture orphan define sweet eagle";
+var mnemonic = "limit illegal tag major obvious addict deal impact fortune coil daring cannon";

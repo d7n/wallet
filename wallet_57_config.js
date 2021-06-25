@@ -1,1 +1,1 @@
-var mnemonic = "flag lion volume pudding own across connect annual case follow sibling thought";
+var mnemonic = "hedgehog denial alone sugar solve lobster jelly crime task rally stone outer";

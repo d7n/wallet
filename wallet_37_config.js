@@ -1,1 +1,1 @@
-var mnemonic = "electric despair weekend similar fatigue popular media hello before trade echo fan";
+var mnemonic = "drive time lens lyrics plate slam hair market believe tip arena donate";

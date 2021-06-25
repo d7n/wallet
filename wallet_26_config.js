@@ -1,1 +1,1 @@
-var mnemonic = "ketchup front ocean rapid love elite lawn way access differ antenna parrot";
+var mnemonic = "panda awesome north crowd practice hover episode educate parrot robust mirror element";

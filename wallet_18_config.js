@@ -1,1 +1,1 @@
-var mnemonic = "jealous broken reunion fragile keen input casual upgrade castle alley excuse light";
+var mnemonic = "birth turn snake typical fiction symbol border advice inmate figure bounce peasant";
