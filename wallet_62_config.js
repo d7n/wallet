@@ -1,1 +1,1 @@
-var mnemonic = "process category picnic east pony cheese open prize assist use pioneer decorate";
+var mnemonic = "steel fence vague version quantum sponsor fury cushion life steel kingdom casual";

@@ -1,1 +1,1 @@
-var mnemonic = "sibling hawk use season rice rabbit supply usual mistake three board gun";
+var mnemonic = "short regret symbol lend almost beach kid eternal throw deposit floor pledge";

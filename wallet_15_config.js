@@ -1,1 +1,1 @@
-var mnemonic = "shiver urban robot dress there gadget tower pulse awake begin merry neutral";
+var mnemonic = "burst reject citizen design lecture duty hill spatial route awkward elder cotton";

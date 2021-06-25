@@ -1,1 +1,1 @@
-var mnemonic = "quote myth youth can broccoli liberty hour remember aware devote sniff boring";
+var mnemonic = "dirt essay vivid rude indicate estate artwork gasp normal layer gospel exit";

@@ -1,1 +1,1 @@
-var mnemonic = "catalog quit file guess make pair clip cereal element more lounge quantum";
+var mnemonic = "bulk asset awful shove reflect black noise access nerve endless wreck nasty";

@@ -1,1 +1,1 @@
-var mnemonic = "enforce credit erosion price forest island over present shiver scare brave slight";
+var mnemonic = "online amused carpet source scare inhale angry dog cruel flee hub shock";

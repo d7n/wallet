@@ -1,1 +1,1 @@
-var mnemonic = "novel infant music soldier bench portion near romance drum right social enhance";
+var mnemonic = "clerk forest target split stumble salmon kite dream video anger plug atom";

@@ -1,1 +1,1 @@
-var mnemonic = "hood scan silver mix twist dumb album erase smooth village rival around";
+var mnemonic = "pulp novel polar differ lunar differ awkward license call brass scrub almost";

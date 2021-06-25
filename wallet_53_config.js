@@ -1,1 +1,1 @@
-var mnemonic = "weasel breeze able symbol weather hybrid just half must use pulse squirrel";
+var mnemonic = "other liquid surround slide casino prosper clock winter panther sport differ swim";

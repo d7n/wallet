@@ -1,1 +1,1 @@
-var mnemonic = "unveil express burst alcohol much warm hurt avoid evoke powder cement system";
+var mnemonic = "parrot tourist ridge section person sniff minute coconut clerk double biology movie";

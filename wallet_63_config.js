@@ -1,1 +1,1 @@
-var mnemonic = "method dial example sunset robot hat popular more sting fly open retire";
+var mnemonic = "scorpion unlock brief screen symbol best general diamond solve lab lab loud";

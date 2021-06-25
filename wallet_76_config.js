@@ -1,1 +1,1 @@
-var mnemonic = "anger census heavy apart abuse pioneer goat moon badge tunnel excite nuclear";
+var mnemonic = "figure powder future hire addict mansion ivory village decade select faculty couple";

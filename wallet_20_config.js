@@ -1,1 +1,1 @@
-var mnemonic = "system twist print friend indicate siege melt glance uncover axis december spell";
+var mnemonic = "pig hour reform rice prosper worth rough kiwi symbol snow input popular";

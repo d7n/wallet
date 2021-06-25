@@ -1,1 +1,1 @@
-var mnemonic = "over iron insect need nephew enemy tackle grow grief journey clarify wink";
+var mnemonic = "donor repeat heart enhance vital theme protect jewel crowd churn tag reduce";

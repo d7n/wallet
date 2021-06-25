@@ -1,1 +1,1 @@
-var mnemonic = "moon lawsuit electric diamond nest hamster salmon myth forward depend act march";
+var mnemonic = "team profit zero cable turkey scissors wet thank stadium gravity alcohol key";

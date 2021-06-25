@@ -1,1 +1,1 @@
-var mnemonic = "mobile purchase merge fun portion alone toilet element collect winter thought whip";
+var mnemonic = "impact surprise lab brown swift soul arrange latin steak alpha sun capable";

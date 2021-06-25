@@ -1,1 +1,1 @@
-var mnemonic = "swim quote acoustic expire credit pottery gossip indoor used winter bread increase";
+var mnemonic = "capable symbol ask average lawsuit tree hybrid half march rather depth section";

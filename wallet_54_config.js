@@ -1,1 +1,1 @@
-var mnemonic = "uncle decade battle verb awkward room describe spell shop biology perfect cable";
+var mnemonic = "pattern leisure film inhale balcony hour slogan misery romance grape sting gate";

@@ -1,1 +1,1 @@
-var mnemonic = "chuckle olive stay maid sphere level fire fee science coral wrap fuel";
+var mnemonic = "gun catalog volcano upset borrow ship tumble depend exhaust ensure mule glide";

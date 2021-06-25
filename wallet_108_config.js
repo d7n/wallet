@@ -1,1 +1,1 @@
-var mnemonic = "salt middle damp rifle siege between rain subject ancient banner surge flip";
+var mnemonic = "still survey okay sugar visit upon charge swarm adapt life paddle family";

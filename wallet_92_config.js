@@ -1,1 +1,1 @@
-var mnemonic = "pencil antenna swap toe agree enter raccoon knee regret seek clerk source";
+var mnemonic = "wheat heavy today there slam youth jacket moment shove blood alone network";

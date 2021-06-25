@@ -1,1 +1,1 @@
-var mnemonic = "possible tape day plastic lounge stand combine ride sock other miracle poverty";
+var mnemonic = "canal stamp nominee vessel young rice globe dad cause never receive myself";

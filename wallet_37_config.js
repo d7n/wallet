@@ -1,1 +1,1 @@
-var mnemonic = "crouch square road when prefer device pottery bunker shock they valid what";
+var mnemonic = "wedding basket tag sick inflict oven until gun invite crazy antenna mass";

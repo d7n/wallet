@@ -1,1 +1,1 @@
-var mnemonic = "chicken shove bachelor dance escape verify dentist suffer ripple defense skirt fall";
+var mnemonic = "market gallery wing coil uniform friend fluid shaft forest plate nose enhance";

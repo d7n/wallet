@@ -1,1 +1,1 @@
-var mnemonic = "divorce clap glove atom garden gasp joke decline glow faculty car opinion";
+var mnemonic = "muscle stool option glance device inflict shine pass bean weird riot human";

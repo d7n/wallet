@@ -1,1 +1,1 @@
-var mnemonic = "oxygen neck deny rug diamond inner enjoy hidden box mango hospital grace";
+var mnemonic = "month action act oxygen print breeze rich similar million amount explain common";

@@ -1,1 +1,1 @@
-var mnemonic = "estate relax baby point student leopard limb envelope change degree isolate section";
+var mnemonic = "donor wheat sword aerobic pretty lamp category maid mutual element curve wolf";

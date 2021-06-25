@@ -1,1 +1,1 @@
-var mnemonic = "struggle seminar jazz dance fall shrimp relief dinner creek tissue avoid admit";
+var mnemonic = "bright typical key rapid trouble prefer oven end sheriff suffer claim lamp";

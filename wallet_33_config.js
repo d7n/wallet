@@ -1,1 +1,1 @@
-var mnemonic = "wrong hood term atom bean mushroom clean exhaust error dish target gadget";
+var mnemonic = "permit rabbit market coin range media furnace aware baby wrestle horse table";

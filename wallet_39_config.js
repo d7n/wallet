@@ -1,1 +1,1 @@
-var mnemonic = "lunch side warfare forget sound innocent brass web spray little horse omit";
+var mnemonic = "analyst twelve convince welcome connect salad blast winner under bone silver dumb";

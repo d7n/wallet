@@ -1,1 +1,1 @@
-var mnemonic = "door lounge sustain person expire crazy spell crush surprise museum fantasy consider";
+var mnemonic = "degree syrup since column whale weather antenna senior march hero month myself";

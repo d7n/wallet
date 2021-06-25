@@ -1,1 +1,1 @@
-var mnemonic = "fresh trip syrup dizzy treat clarify clarify father spell universe paddle walnut";
+var mnemonic = "frame raven giant cry measure bulk disease garden thank suggest provide stage";

@@ -1,1 +1,1 @@
-var mnemonic = "shuffle wrap bread adult super beauty drop venue valve onion pulse grow";
+var mnemonic = "brick since corn rubber jeans bundle hurt fury crystal witness canyon shock";

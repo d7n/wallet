@@ -1,1 +1,1 @@
-var mnemonic = "rent satisfy judge couch weapon rack cradle immense glow south that clerk";
+var mnemonic = "ladder trust impose reject copy photo satisfy puppy argue nerve blossom other";

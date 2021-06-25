@@ -1,1 +1,1 @@
-var mnemonic = "promote twenty carbon pear drama list crisp work mistake unknown swap note";
+var mnemonic = "asset army bronze copper impose bridge select lumber rookie dismiss radio absorb";

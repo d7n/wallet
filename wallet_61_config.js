@@ -1,1 +1,1 @@
-var mnemonic = "normal globe invest visa okay regret satisfy gown matter knife payment spike";
+var mnemonic = "disease display warrior logic mixed ancient desk above culture size man yellow";

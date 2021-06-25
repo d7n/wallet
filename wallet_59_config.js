@@ -1,1 +1,1 @@
-var mnemonic = "venue attend lion manage board diet minor borrow blue evoke poem cake";
+var mnemonic = "bright emotion fiscal drip educate donkey retreat method nothing struggle sustain decade";

@@ -1,1 +1,1 @@
-var mnemonic = "noodle mass enforce market avoid crew record inhale middle method acid pottery";
+var mnemonic = "proof merit faint gown aisle evil mountain bundle pave bone erupt improve";

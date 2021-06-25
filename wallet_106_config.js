@@ -1,1 +1,1 @@
-var mnemonic = "utility crane benefit water forum canoe symbol liar hope exchange symbol dwarf";
+var mnemonic = "wheat reward cream idle lottery elegant idea easy brain robot common exact";

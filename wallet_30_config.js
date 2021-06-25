@@ -1,1 +1,1 @@
-var mnemonic = "reform evil swarm area rebel black inherit debate pig view luggage fault";
+var mnemonic = "category tomato view hire abstract smile usage essay lift stomach plate satisfy";

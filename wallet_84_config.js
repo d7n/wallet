@@ -1,1 +1,1 @@
-var mnemonic = "weekend pull cannon valid urban laundry isolate harvest grace mystery hammer host";
+var mnemonic = "just like shoe actual rocket real antenna slush uncover entry grief ostrich";

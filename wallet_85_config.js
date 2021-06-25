@@ -1,1 +1,1 @@
-var mnemonic = "brother belt between finger wood gain couch parade loop hunt program program";
+var mnemonic = "park hill ostrich female salute amateur maid near evidence mad among lunch";

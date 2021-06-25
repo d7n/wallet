@@ -1,1 +1,1 @@
-var mnemonic = "debris appear mass anxiety fiscal permit dish differ slam donate produce blood";
+var mnemonic = "estate fruit toilet task gasp like tourist police miss inmate client student";

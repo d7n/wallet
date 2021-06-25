@@ -1,1 +1,1 @@
-var mnemonic = "slim cinnamon civil bomb much panel seek program delay find pretty stable";
+var mnemonic = "casual earth submit pencil dentist glue occur good keep cube margin music";

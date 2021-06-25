@@ -1,1 +1,1 @@
-var mnemonic = "ethics grape globe rate weapon pretty organ ozone crater cliff close tobacco";
+var mnemonic = "quiz you arctic option ring year goddess radio dizzy wonder buyer evoke";

@@ -1,1 +1,1 @@
-var mnemonic = "endless fragile clarify comfort hover knee drama capital glad pupil mosquito deliver";
+var mnemonic = "control observe picture razor lunar mind pull width insect account approve festival";

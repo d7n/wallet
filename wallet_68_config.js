@@ -1,1 +1,1 @@
-var mnemonic = "noise vast tongue disorder vacuum quit clock upon want pass mistake offer";
+var mnemonic = "quantum guess mandate cargo brave kid effort jar enhance invest order clock";

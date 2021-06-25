@@ -1,1 +1,1 @@
-var mnemonic = "gravity obscure smart evolve fitness transfer tower zone memory pole roof congress";
+var mnemonic = "oven carpet message ginger pizza today valley hour hint tornado pistol labor";

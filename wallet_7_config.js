@@ -1,1 +1,1 @@
-var mnemonic = "crash axis beef intact travel what ordinary salute grace material volcano electric";
+var mnemonic = "champion balcony surface route cancel tiger stock dismiss engage resource congress horror";

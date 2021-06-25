@@ -1,1 +1,1 @@
-var mnemonic = "cook detect stool angle turkey sister decrease category chief legend effort exile";
+var mnemonic = "rule tool arrive easy retreat lamp electric innocent outer uncle scissors unaware";

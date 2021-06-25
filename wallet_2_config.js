@@ -1,1 +1,1 @@
-var mnemonic = "rubber bicycle fossil milk powder odor suggest type candy daring reflect angle";
+var mnemonic = "benefit card nurse jump december plate juice unfold dirt road race will";

@@ -1,1 +1,1 @@
-var mnemonic = "feed album swarm indicate shiver bar health what gorilla before love culture";
+var mnemonic = "estate special uncle antique spawn seven couple rebuild silent jaguar frame blood";

@@ -1,1 +1,1 @@
-var mnemonic = "ride need crumble zero goddess item effort muffin dinosaur grow industry because";
+var mnemonic = "swap artist tongue canyon accuse parade proof cargo north story point drop";

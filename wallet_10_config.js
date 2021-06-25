@@ -1,1 +1,1 @@
-var mnemonic = "clinic knife trend danger scrap tuna true spoil foil sword swamp foot";
+var mnemonic = "pilot october skill general bulb theme cabbage usage body round business donate";

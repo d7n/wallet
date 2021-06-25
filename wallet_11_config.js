@@ -1,1 +1,1 @@
-var mnemonic = "attract health coin acid edge record pioneer egg update drive conduct correct";
+var mnemonic = "spread junk margin kite inside oyster genius family castle arena alley leg";

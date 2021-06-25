@@ -1,1 +1,1 @@
-var mnemonic = "cradle require spy transfer street guard certain seed box exact black oyster";
+var mnemonic = "scout energy curious process voyage sense salon lucky power seed check tuition";

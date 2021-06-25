@@ -1,1 +1,1 @@
-var mnemonic = "beyond forget news short pelican power palace result praise theory pause anger";
+var mnemonic = "left oyster imitate wood wait length dragon notice enough tag wonder coconut";

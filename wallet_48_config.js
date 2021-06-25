@@ -1,1 +1,1 @@
-var mnemonic = "table present want account steel trust approve sunny crew usage credit weasel";
+var mnemonic = "wrong inhale globe panel aspect ski auction fee alert kitchen tomorrow hamster";

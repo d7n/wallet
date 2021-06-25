@@ -1,1 +1,1 @@
-var mnemonic = "dizzy super slim result antenna canal call ship hip trophy into skate";
+var mnemonic = "laugh goddess detect rude antenna friend film crew satoshi renew october voice";

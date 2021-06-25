@@ -1,1 +1,1 @@
-var mnemonic = "roast transfer quiz solid pottery because fantasy elevator peace visual just cereal";
+var mnemonic = "total decline book fun maple you today latin open provide desert dune";

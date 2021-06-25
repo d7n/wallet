@@ -1,1 +1,1 @@
-var mnemonic = "cliff name pilot guitar teach badge spider autumn together school surround mail";
+var mnemonic = "quote open funny gravity course ill fiction carry equip next bag present";

@@ -1,1 +1,1 @@
-var mnemonic = "child clown very train dream invite correct party pattern push advice lunar";
+var mnemonic = "churn orchard material wire slide pudding impact library rotate sight glimpse reform";

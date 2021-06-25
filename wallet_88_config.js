@@ -1,1 +1,1 @@
-var mnemonic = "hospital aunt buzz reveal demand survey panic promote pass open burden rebel";
+var mnemonic = "chapter salmon song noble can march often address make tornado young visual";

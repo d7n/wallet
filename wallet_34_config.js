@@ -1,1 +1,1 @@
-var mnemonic = "secret miss maze design novel fuel caution unique very clog sign remove";
+var mnemonic = "pumpkin stage wrestle harsh humor churn enter donkey alley bridge gaze subject";

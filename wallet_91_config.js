@@ -1,1 +1,1 @@
-var mnemonic = "address unable thing else track monitor robot erode sure sword quote left";
+var mnemonic = "joke south attend squeeze odor stay era victory dinner black miss dash";

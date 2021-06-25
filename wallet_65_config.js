@@ -1,1 +1,1 @@
-var mnemonic = "label report poet smoke mechanic tide buyer shiver purity amateur sausage digital";
+var mnemonic = "strike afraid knock remove cupboard crystal electric tobacco voice nominee pioneer tomato";

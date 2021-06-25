@@ -1,1 +1,1 @@
-var mnemonic = "huge winner casual wasp bicycle enact onion state expose craft patient icon";
+var mnemonic = "market collect bronze wine purpose sniff vivid wave brush upgrade forget assault";

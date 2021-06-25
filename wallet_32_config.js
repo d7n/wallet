@@ -1,1 +1,1 @@
-var mnemonic = "language involve rather divert proof verify basic ghost present ordinary obey strike";
+var mnemonic = "cry cargo spider kangaroo vapor daring apology undo envelope zebra combine flock";

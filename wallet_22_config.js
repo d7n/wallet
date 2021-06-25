@@ -1,1 +1,1 @@
-var mnemonic = "seat glove weather monitor caught rail camera tennis swift rather knock month";
+var mnemonic = "orchard pencil solar lady hint civil evolve turn couple cluster correct window";

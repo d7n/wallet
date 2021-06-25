@@ -1,1 +1,1 @@
-var mnemonic = "near glow guess two inquiry twenty shuffle eternal put best chef nature";
+var mnemonic = "license street speak define elder drama piece casino sustain address flavor fade";

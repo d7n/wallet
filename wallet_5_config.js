@@ -1,1 +1,1 @@
-var mnemonic = "oppose afford attack napkin cram gadget menu blue gadget amused permit escape";
+var mnemonic = "sick ability tag muffin sort club vacant jungle cargo catch junk warm";

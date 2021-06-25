@@ -1,1 +1,1 @@
-var mnemonic = "sight couple change wheat chimney venture brand put avoid enough lawsuit hood";
+var mnemonic = "peanut bamboo million survey mixture element nation outside unaware endless stumble rug";

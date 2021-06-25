@@ -1,1 +1,1 @@
-var mnemonic = "budget enroll captain holiday minute cross liquid kiss valley easy piano neglect";
+var mnemonic = "fix village input ginger defy right tilt famous lab enjoy web food";

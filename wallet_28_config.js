@@ -1,1 +1,1 @@
-var mnemonic = "island across bar unveil grass series betray dirt actress walk celery bag";
+var mnemonic = "aware subway small caution pulse delay upon solar hedgehog pony venture coral";

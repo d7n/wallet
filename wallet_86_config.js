@@ -1,1 +1,1 @@
-var mnemonic = "execute crush staff stand employ isolate hood birth render govern teach cherry";
+var mnemonic = "pepper stumble group swallow sample exotic dutch mystery dash dignity float rely";

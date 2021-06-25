@@ -1,1 +1,1 @@
-var mnemonic = "dress goose energy trap evidence prepare beyond shift drip lend zone hood";
+var mnemonic = "process elephant portion young tape skate famous tennis beef swallow avocado refuse";

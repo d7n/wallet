@@ -1,1 +1,1 @@
-var mnemonic = "link split decade entry damp pool security category outside biology awake fold";
+var mnemonic = "moment flock daring way same apple song word neck ill frown shoot";

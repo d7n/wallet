@@ -1,1 +1,1 @@
-var mnemonic = "found core above bike exclude era dawn club usage catch limb tumble";
+var mnemonic = "comic laptop rule cube bench admit exotic twin hard bamboo senior echo";

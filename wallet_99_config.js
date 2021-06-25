@@ -1,1 +1,1 @@
-var mnemonic = "element hen patient episode render turtle kick sad lumber enough decline near";
+var mnemonic = "idle oxygen radio width proud note conduct save inch task enable suffer";

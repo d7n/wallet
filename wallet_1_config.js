@@ -1,1 +1,1 @@
-var mnemonic = "hill wage this innocent pear velvet category embody thought offer moon snack";
+var mnemonic = "dose wave fabric deal battle ribbon spider inject mobile shield wise pencil";

@@ -1,1 +1,1 @@
-var mnemonic = "three ethics flash awesome luggage gaze select pride asthma sauce type bonus";
+var mnemonic = "shuffle rocket upgrade joke goose hedgehog excess gasp furnace judge wait basket";

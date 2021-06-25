@@ -1,1 +1,1 @@
-var mnemonic = "hard cousin sauce surprise arch talk agree strike tone fossil submit enjoy";
+var mnemonic = "hole dawn tell juice glow scheme under wisdom erode bunker glad forward";

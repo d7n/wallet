@@ -1,1 +1,1 @@
-var mnemonic = "clever click prison rate solid solve ethics quality light ball actor ocean";
+var mnemonic = "scorpion seed noodle vote over twice spare drastic glad eager keep evil";

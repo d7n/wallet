@@ -1,1 +1,1 @@
-var mnemonic = "wrap build smile fatigue side pet grain hammer click shy man present";
+var mnemonic = "oval grid win wonder dog safe castle laptop acid stone fury crawl";

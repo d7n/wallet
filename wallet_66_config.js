@@ -1,1 +1,1 @@
-var mnemonic = "spend day jazz earth around diet select penalty unveil blade friend reveal";
+var mnemonic = "payment civil notable tragic board soft salon curve wet vague tissue bicycle";

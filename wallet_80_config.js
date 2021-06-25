@@ -1,1 +1,1 @@
-var mnemonic = "train very recall cry cover math calm chest impose program amount onion";
+var mnemonic = "ill stereo bean shy room capable resemble scrub under nasty weird outside";

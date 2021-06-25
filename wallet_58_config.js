@@ -1,1 +1,1 @@
-var mnemonic = "protect bulk juice habit defy ceiling truth lab mansion device earn narrow";
+var mnemonic = "hard slogan border pen wing picnic surface divert gas install fruit swamp";

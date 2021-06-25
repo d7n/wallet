@@ -1,1 +1,1 @@
-var mnemonic = "resemble place wash cram puzzle flame cousin veteran accident silly biology now";
+var mnemonic = "glove caught old submit wing eye below write office upgrade husband notice";

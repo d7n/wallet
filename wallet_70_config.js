@@ -1,1 +1,1 @@
-var mnemonic = "people armed between lizard improve famous icon body left clerk meadow summer";
+var mnemonic = "taste please damp absent damage olive level pig trust alpha yellow slice";

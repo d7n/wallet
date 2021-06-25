@@ -1,1 +1,1 @@
-var mnemonic = "disagree regret iron labor bright tell leisure teach wrap pond cycle coil";
+var mnemonic = "team cradle desk two seven crane laugh scorpion glance venture exhibit hurry";

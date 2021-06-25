@@ -1,1 +1,1 @@
-var mnemonic = "distance surface deposit inspire weather great stem latin doctor raven pulse chase";
+var mnemonic = "recipe exist hope mutual name quote know drama family seven scrub code";

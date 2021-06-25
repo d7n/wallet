@@ -1,1 +1,1 @@
-var mnemonic = "village kick minor quit stadium harbor badge essence trap detect current flag";
+var mnemonic = "alpha giant tail explain riot artwork summer brief crane dune special enter";

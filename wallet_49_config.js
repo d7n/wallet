@@ -1,1 +1,1 @@
-var mnemonic = "old picnic wave pet genre buffalo seminar wear slow dirt robust exit";
+var mnemonic = "wealth genuine burst combine educate forest must kind panther pill olympic gate";

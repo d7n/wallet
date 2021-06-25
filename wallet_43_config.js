@@ -1,1 +1,1 @@
-var mnemonic = "expect spice cake bid era leg wrist text force split pistol arrow";
+var mnemonic = "marine canoe swap devote detect donate eye power congress own awful wrist";

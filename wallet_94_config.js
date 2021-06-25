@@ -1,1 +1,1 @@
-var mnemonic = "rain tool arrive patch merry liberty wage badge same episode bread today";
+var mnemonic = "obey month borrow panda assume auction art swarm survey copy category final";

@@ -1,1 +1,1 @@
-var mnemonic = "silk glide trouble scrub mountain nose hand design select subject junior example";
+var mnemonic = "leave dad weasel increase control exotic wonder any favorite veteran state verb";

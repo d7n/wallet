@@ -1,1 +1,1 @@
-var mnemonic = "baby ceiling report egg fringe loop robust metal alcohol assist protect swing";
+var mnemonic = "bring slice unfold that glue address special tip across debris alley ginger";

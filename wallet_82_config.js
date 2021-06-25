@@ -1,1 +1,1 @@
-var mnemonic = "twin cake soda dutch eager ancient clean enable ketchup wreck strong matter";
+var mnemonic = "coconut maple outdoor fluid next accuse liquid purpose crop border gossip scale";
