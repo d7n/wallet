@@ -1,1 +1,1 @@
-var mnemonic = "monkey toddler lumber mouse raise fat cook power pulse path fade rapid";
+var mnemonic = "derive ordinary useless garment bomb sign laugh donkey peasant delay moon tool";

@@ -1,1 +1,1 @@
-var mnemonic = "local brain demand office guitar ten edit now diagram shrug light trap";
+var mnemonic = "usage own input tragic cram dumb brush clap hidden oval play sentence";

@@ -1,1 +1,1 @@
-var mnemonic = "together fatal verify step bone bronze caught cloth garage creek toy divide";
+var mnemonic = "swallow decide toe meadow safe disease unaware wrong trophy erode asthma airport";

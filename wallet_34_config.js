@@ -1,1 +1,1 @@
-var mnemonic = "second inner antique label chest vault uniform false kiss bitter list tell";
+var mnemonic = "icon sort either sunny pact pen jungle sock tumble recycle mass device";

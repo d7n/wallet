@@ -1,1 +1,1 @@
-var mnemonic = "sand unfold van warfare faculty track intact ladder tortoise real logic opinion";
+var mnemonic = "board initial desert clip valley blue sure machine baby roast vast common";

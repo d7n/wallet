@@ -1,1 +1,1 @@
-var mnemonic = "media mobile steak chronic minute heavy school ancient dirt stool reveal fuel";
+var mnemonic = "cruise wet pigeon basket fortune cruise congress original super hill weird husband";

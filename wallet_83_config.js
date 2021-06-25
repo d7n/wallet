@@ -1,1 +1,1 @@
-var mnemonic = "announce post spawn frozen move tenant peace silent suggest camp poem minimum";
+var mnemonic = "pact company vintage casual permit peanut magnet quality rookie special balcony apart";

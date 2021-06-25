@@ -1,1 +1,1 @@
-var mnemonic = "option gown artefact swamp tuna bicycle candy runway clinic report column boil";
+var mnemonic = "foil pulse vanish kite loud weapon skull blur tent fit together income";

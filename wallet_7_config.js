@@ -1,1 +1,1 @@
-var mnemonic = "goddess apart exhaust sentence attract caution garment lobster muscle radar giant ugly";
+var mnemonic = "ranch harsh end genuine original salute table calm night foster spot choice";

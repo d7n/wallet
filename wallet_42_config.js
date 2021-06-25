@@ -1,1 +1,1 @@
-var mnemonic = "keen vessel need pattern marriage robot evil cable sad develop rule buffalo";
+var mnemonic = "silly please start scan captain face wonder common barrel chef solve club";

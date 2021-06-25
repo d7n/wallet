@@ -1,1 +1,1 @@
-var mnemonic = "treat angry runway tower spawn slush chunk drill slice unable normal judge";
+var mnemonic = "vacant medal win arena dumb shallow price memory labor split legal region";

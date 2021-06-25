@@ -1,1 +1,1 @@
-var mnemonic = "doctor rough crucial father pause school cricket rally ugly knife announce laundry";
+var mnemonic = "smoke reflect cabbage dentist float carbon found deliver chef survey goddess drip";

@@ -1,1 +1,1 @@
-var mnemonic = "harbor siege what gap enforce initial brave merry wall exhaust diary decade";
+var mnemonic = "mother debris nurse apology define wish letter valve sign theme poverty tornado";

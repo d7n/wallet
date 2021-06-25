@@ -1,1 +1,1 @@
-var mnemonic = "dismiss certain head base express direct crane hundred knife action later season";
+var mnemonic = "first clap style web arctic ankle uncle review quarter laugh nose fine";

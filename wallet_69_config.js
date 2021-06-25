@@ -1,1 +1,1 @@
-var mnemonic = "shaft drill banner time jazz category treat sibling pole claim immense aerobic";
+var mnemonic = "drill inject coconut miss fever giraffe push ice guess crew hunt width";

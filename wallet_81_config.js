@@ -1,1 +1,1 @@
-var mnemonic = "submit hint fuel work dust sudden unable portion night toast ready wrong";
+var mnemonic = "explain chief mimic divorce oven nominee grape sentence improve clerk angle soon";

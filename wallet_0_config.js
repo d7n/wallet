@@ -1,1 +1,1 @@
-var mnemonic = "charge relax relief lake empty olive wall impulse disorder away alpha around";
+var mnemonic = "useful already cruel fame suffer jar loud immune economy later crime upgrade";

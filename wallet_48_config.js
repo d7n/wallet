@@ -1,1 +1,1 @@
-var mnemonic = "anger west habit wrestle steel assume casual twelve garden pottery bomb menu";
+var mnemonic = "evil day hurdle spin hello hint confirm salmon satoshi universe man unfold";

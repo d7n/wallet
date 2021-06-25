@@ -1,1 +1,1 @@
-var mnemonic = "boost item chronic mushroom long cheap abstract bleak tired cost then inch";
+var mnemonic = "senior wheel biology island kitchen divert village better sign lamp decide sign";

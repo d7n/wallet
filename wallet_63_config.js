@@ -1,1 +1,1 @@
-var mnemonic = "theme hotel wool cinnamon movie tourist cage happy second nature misery napkin";
+var mnemonic = "arctic theme clump penalty differ wine olive weird car fit before indicate";

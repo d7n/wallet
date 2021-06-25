@@ -1,1 +1,1 @@
-var mnemonic = "notice legend angry decide cash diet river original tobacco oxygen soap crunch";
+var mnemonic = "nice chapter hockey involve fantasy segment boost mosquito loyal dynamic fork okay";

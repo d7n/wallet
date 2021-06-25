@@ -1,1 +1,1 @@
-var mnemonic = "teach potato opinion dizzy shoe warrior athlete shrug leisure cushion head recycle";
+var mnemonic = "dinner achieve liar transfer merit garage blame announce blanket shove quote defy";

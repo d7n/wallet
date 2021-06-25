@@ -1,1 +1,1 @@
-var mnemonic = "deliver swamp frown because sister hood planet syrup day spare cloth amazing";
+var mnemonic = "ocean marble sausage echo vacuum pen there endless wonder mule palace sleep";

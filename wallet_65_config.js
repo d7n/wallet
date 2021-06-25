@@ -1,1 +1,1 @@
-var mnemonic = "toward common wedding pilot post captain nasty fat theory debate lamp obvious";
+var mnemonic = "wish oxygen grid arrest cross physical flee gallery almost employ beauty detail";

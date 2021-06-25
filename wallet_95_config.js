@@ -1,1 +1,1 @@
-var mnemonic = "enough toss desk pledge turtle there decrease blood report embark track liar";
+var mnemonic = "medal color record spoil fly daughter squirrel bulb office advance famous unique";

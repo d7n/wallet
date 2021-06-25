@@ -1,1 +1,1 @@
-var mnemonic = "family pattern they duck wreck trophy unique cat clarify deal twice thrive";
+var mnemonic = "festival humble shock smart mother north trophy fiscal install vote vital chuckle";

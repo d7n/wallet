@@ -1,1 +1,1 @@
-var mnemonic = "gallery wedding venue rack fire catalog genre cream clarify illness video orchard";
+var mnemonic = "good elite amazing head film hat chat suffer agree armed off powder";

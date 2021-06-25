@@ -1,1 +1,1 @@
-var mnemonic = "zebra recycle budget ring soft member ensure erupt seed dentist ask oxygen";
+var mnemonic = "piece ball depart uphold never grant club mimic true such route wall";

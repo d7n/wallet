@@ -1,1 +1,1 @@
-var mnemonic = "immense return urge aerobic recall speak summer knock doll stool soft milk";
+var mnemonic = "that enforce cart faith credit twin time uphold bottom mask giant envelope";

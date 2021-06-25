@@ -1,1 +1,1 @@
-var mnemonic = "alone minimum sight metal deliver address impact crazy flight patch black give";
+var mnemonic = "tank service object inflict lesson knife normal laundry cable entire industry wing";

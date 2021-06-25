@@ -1,1 +1,1 @@
-var mnemonic = "typical twenty very pink cause purchase cluster clock stamp pen similar amateur";
+var mnemonic = "spot elevator fox mad own anxiety scare punch window answer begin donor";

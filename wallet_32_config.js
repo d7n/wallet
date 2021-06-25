@@ -1,1 +1,1 @@
-var mnemonic = "lend goose captain reunion close toward clutch infant fringe run cube calm";
+var mnemonic = "neck gaze bless party forest yard nuclear all track fluid icon average";

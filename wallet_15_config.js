@@ -1,1 +1,1 @@
-var mnemonic = "actress trip cabin language term detail transfer health broccoli march novel soda";
+var mnemonic = "clay spoil cover chuckle purpose mule announce have uncover problem issue thrive";

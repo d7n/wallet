@@ -1,1 +1,1 @@
-var mnemonic = "equip ring comic anchor require near flip bachelor own differ side amateur";
+var mnemonic = "plastic acquire unfold heart mystery pipe mixed expect salute diagram disagree tortoise";

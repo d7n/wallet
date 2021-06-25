@@ -1,1 +1,1 @@
-var mnemonic = "puppy gift chef potato push parent rail again universe outdoor rebuild envelope";
+var mnemonic = "fall vital property lottery funny engine royal income retreat minute oven abuse";

@@ -1,1 +1,1 @@
-var mnemonic = "holiday decorate race window robust despair appear strike ride wish one siege";
+var mnemonic = "invite life border nurse industry rescue master shoot pride cost mutual alone";

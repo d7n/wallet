@@ -1,1 +1,1 @@
-var mnemonic = "palace critic beef sweet dance next pistol decorate member know pair remember";
+var mnemonic = "neglect write describe thought main between plate holiday have horn balcony struggle";

@@ -1,1 +1,1 @@
-var mnemonic = "exact gun maple drive bamboo alcohol quit include era unfold danger vanish";
+var mnemonic = "pudding supply enhance expose trip marine text rice clarify ocean dinner bird";

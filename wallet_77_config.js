@@ -1,1 +1,1 @@
-var mnemonic = "sight carbon engage crawl daughter wet kangaroo topic resist color napkin garment";
+var mnemonic = "fiscal acquire ostrich enable outer indoor cake verb warfare friend pencil bar";

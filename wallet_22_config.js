@@ -1,1 +1,1 @@
-var mnemonic = "toy poet either ketchup apart apart where put junior enhance beyond damage";
+var mnemonic = "note prevent flee swarm toward entire hole crash moon brass bicycle drink";

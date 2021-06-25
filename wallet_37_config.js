@@ -1,1 +1,1 @@
-var mnemonic = "feature tuna gain coffee tuna saddle sunset left amazing chronic awful bargain";
+var mnemonic = "lemon spot identify neither focus weekend expire match patient solar rubber head";

@@ -1,1 +1,1 @@
-var mnemonic = "solar want trust trust music secret avoid naive judge planet shoe perfect";
+var mnemonic = "tail avoid sense wool dismiss gentle bracket please river couch use select";

@@ -1,1 +1,1 @@
-var mnemonic = "spend moral autumn december inch innocent amused system wood iron upper amateur";
+var mnemonic = "fortune office elephant sand song never pact tourist neglect head sister fatal";

@@ -1,1 +1,1 @@
-var mnemonic = "course poverty narrow flash away chuckle glare time edit better medal ancient";
+var mnemonic = "tissue usage wear happy snake grow run rapid brand glory help valid";

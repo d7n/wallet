@@ -1,1 +1,1 @@
-var mnemonic = "thing coffee lady trim honey good absorb left yellow later mobile shaft";
+var mnemonic = "myself vote tomorrow shock craft inflict debate daring panther action valve visit";

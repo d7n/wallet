@@ -1,1 +1,1 @@
-var mnemonic = "tackle about sand become neutral caution project delay ice naive swift couple";
+var mnemonic = "taste tilt gorilla escape hero pistol inside fat come garage plastic next";

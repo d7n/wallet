@@ -1,1 +1,1 @@
-var mnemonic = "month delay exit still review sample say remain flush inner hip faith";
+var mnemonic = "voice layer dress estate fatal raven oil width cake series foster famous";

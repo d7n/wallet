@@ -1,1 +1,1 @@
-var mnemonic = "method rather tribe punch oblige design skull okay island addict daring inherit";
+var mnemonic = "cargo anger jelly tag desert impose wolf tip brave grocery pool good";

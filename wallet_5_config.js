@@ -1,1 +1,1 @@
-var mnemonic = "picnic practice flat wedding celery sight beyond pilot novel enemy custom total";
+var mnemonic = "spike review boy swap hotel zone slight main crowd column local menu";

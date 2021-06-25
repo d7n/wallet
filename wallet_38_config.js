@@ -1,1 +1,1 @@
-var mnemonic = "kiwi panda walnut tenant duty cruel smart rubber amused ritual never lawn";
+var mnemonic = "ivory party jungle crater barely child camera identify table edge device off";

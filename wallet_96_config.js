@@ -1,1 +1,1 @@
-var mnemonic = "soon weasel victory fatigue island inner strong glide empower evil express ceiling";
+var mnemonic = "salon ginger miss educate inherit post awake vast choose heart draft renew";

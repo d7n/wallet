@@ -1,1 +1,1 @@
-var mnemonic = "warrior cricket delay expect boat moon laundry initial sort drip oil cycle";
+var mnemonic = "lottery dynamic stairs reflect keen phrase step reopen liberty wage evidence noodle";

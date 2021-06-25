@@ -1,1 +1,1 @@
-var mnemonic = "arrow skirt client embody foil smart tape discover spray marine venture task";
+var mnemonic = "memory suit modify clever expose wrestle glance army salad attack usage armed";

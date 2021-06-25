@@ -1,1 +1,1 @@
-var mnemonic = "kiwi praise come awake gentle rhythm tree leaf enter wing amateur sheriff";
+var mnemonic = "position regular seven limit trash cash grunt estate magic worth elder crazy";

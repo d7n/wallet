@@ -1,1 +1,1 @@
-var mnemonic = "snack unable romance knee trial poem other garlic city iron approve duck";
+var mnemonic = "frame cart convince market bitter spike capital middle unfold spirit industry rabbit";

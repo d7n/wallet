@@ -1,1 +1,1 @@
-var mnemonic = "forest marine absent crawl latin model cable extra bracket dad hawk coconut";
+var mnemonic = "agent choose rural imitate electric adult resource cause evil tape aspect health";

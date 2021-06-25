@@ -1,1 +1,1 @@
-var mnemonic = "jewel party consider unfold guard public shadow garden vicious myself benefit reason";
+var mnemonic = "envelope spread cabin cement rate picnic tattoo ready cradle welcome brother mass";

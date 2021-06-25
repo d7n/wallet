@@ -1,1 +1,1 @@
-var mnemonic = "team analyst long rice correct train balance come census mail spoil sand";
+var mnemonic = "drastic spring host corn ladder journey defense decorate lumber innocent gift walk";

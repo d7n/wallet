@@ -1,1 +1,1 @@
-var mnemonic = "sea kitten wage shift image deny wreck unfair problem lizard club decline";
+var mnemonic = "direct strike bullet dirt swallow crystal candy smart cement kit gate diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "oppose chapter theme whip sample prefer seat other auction mule initial achieve";
+var mnemonic = "fashion lamp awful hen renew oil hunt south salmon dinner skin traffic";

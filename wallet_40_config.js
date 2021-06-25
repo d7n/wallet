@@ -1,1 +1,1 @@
-var mnemonic = "drill invest gasp conduct glory veteran scrub alter never omit rain south";
+var mnemonic = "gloom flee inspire topic thing dismiss pluck pistol fold young fortune churn";

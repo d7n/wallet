@@ -1,1 +1,1 @@
-var mnemonic = "chef deliver panther earth memory teach vehicle humble kiss sick chef crazy";
+var mnemonic = "title harbor iron harvest hockey hint evolve box badge basket will news";

@@ -1,1 +1,1 @@
-var mnemonic = "wet close raise lyrics okay opera attract tip quit town brick south";
+var mnemonic = "process fee issue submit aware upgrade favorite tilt drastic review guard quiz";

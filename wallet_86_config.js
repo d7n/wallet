@@ -1,1 +1,1 @@
-var mnemonic = "renew update virus clutch clap famous century garage thing nature coyote warm";
+var mnemonic = "meadow eight patrol rebuild inform rescue lab heart combine machine water possible";

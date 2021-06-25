@@ -1,1 +1,1 @@
-var mnemonic = "omit panel prevent reward soccer order siren garden mesh young asthma skin";
+var mnemonic = "subway play thing issue churn decorate valve winner increase gas grief bunker";

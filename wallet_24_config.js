@@ -1,1 +1,1 @@
-var mnemonic = "anchor horror afford above surface scale spatial priority metal menu gown rebel";
+var mnemonic = "female year athlete banana portion fresh achieve force vast civil code business";

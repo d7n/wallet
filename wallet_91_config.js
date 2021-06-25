@@ -1,1 +1,1 @@
-var mnemonic = "divert other token spin burst ensure throw fossil next one click repair";
+var mnemonic = "husband base pyramid month total bright dog pattern crumble pulp disorder task";

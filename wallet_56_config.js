@@ -1,1 +1,1 @@
-var mnemonic = "sauce above priority just elder cable health legend pyramid guilt involve birth";
+var mnemonic = "salt paddle champion act scatter observe unable portion pulp ring cannon pistol";

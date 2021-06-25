@@ -1,1 +1,1 @@
-var mnemonic = "earth few enlist erode unaware excess swift include idle shiver dinosaur grid";
+var mnemonic = "tuna scrap kind nature basic ankle garbage stable mistake build old inner";

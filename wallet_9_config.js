@@ -1,1 +1,1 @@
-var mnemonic = "drum check impact wheel climb aerobic nominee bracket exhaust hard wheel sport";
+var mnemonic = "seminar forget circle swim voice mechanic finger clog wreck reflect volcano pepper";

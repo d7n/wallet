@@ -1,1 +1,1 @@
-var mnemonic = "picture best hero field still define mention coffee swamp silk volume never";
+var mnemonic = "source update stomach vanish december same budget coffee quality rail surround around";

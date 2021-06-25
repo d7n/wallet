@@ -1,1 +1,1 @@
-var mnemonic = "call mention cat deer time ancient jar avoid neglect crumble traffic field";
+var mnemonic = "cushion foster target clarify elbow leaf enjoy genre screen attitude spot athlete";

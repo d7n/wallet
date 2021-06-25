@@ -1,1 +1,1 @@
-var mnemonic = "result cousin supply giggle enjoy lion upon track sunset mirror barely wagon";
+var mnemonic = "saddle dash fatal parent pool rookie pen erode someone win salmon differ";

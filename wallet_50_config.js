@@ -1,1 +1,1 @@
-var mnemonic = "knee quick lyrics trim frame cake tenant earth judge absurd illness reject";
+var mnemonic = "kind system help chaos capital apology soon six useless injury fit cabin";

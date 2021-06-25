@@ -1,1 +1,1 @@
-var mnemonic = "nasty feed love leader boost cabbage around struggle position switch fashion need";
+var mnemonic = "excuse jaguar foam mushroom meat valve coast drama rebuild correct cost acid";

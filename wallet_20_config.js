@@ -1,1 +1,1 @@
-var mnemonic = "net market shrimp muscle crush satoshi silly fence giraffe decade ensure gauge";
+var mnemonic = "spawn arch rocket pitch story trophy pipe venue eyebrow worry certain talk";

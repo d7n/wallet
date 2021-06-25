@@ -1,1 +1,1 @@
-var mnemonic = "draft couple discover erode vast tree shove nuclear chase salad wood pave";
+var mnemonic = "harbor idea basic weather panther dentist timber side mix crawl plug civil";

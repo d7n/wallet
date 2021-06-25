@@ -1,1 +1,1 @@
-var mnemonic = "oak piece shove update august cube budget toddler tourist busy master runway";
+var mnemonic = "away seed certain fame mystery wide cluster mango blossom nuclear love fold";

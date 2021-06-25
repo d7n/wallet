@@ -1,1 +1,1 @@
-var mnemonic = "word question will vendor man make brave song kite hunt false mango";
+var mnemonic = "damp hip sail tourist width run fruit april rigid party trim model";

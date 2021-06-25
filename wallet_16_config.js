@@ -1,1 +1,1 @@
-var mnemonic = "donkey message veteran guitar banner royal ice north kidney vicious demand amateur";
+var mnemonic = "decline hour ability help share lonely annual sting either pause purpose apart";

@@ -1,1 +1,1 @@
-var mnemonic = "grass garden hurt now chapter slogan couch occur pilot tray medal company";
+var mnemonic = "mention excite act bubble nothing final amazing divert wild shock turkey segment";

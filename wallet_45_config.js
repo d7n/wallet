@@ -1,1 +1,1 @@
-var mnemonic = "hair ceiling dinner net mean open island chronic dust main peasant casual";
+var mnemonic = "barrel bracket section firm knife embrace neck pool ancient hidden cover cost";

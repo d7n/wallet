@@ -1,1 +1,1 @@
-var mnemonic = "tiny noodle exercise damp illegal seven museum endless setup favorite excite century";
+var mnemonic = "deliver cave fly act window knock dad accident blouse sail upgrade play";

@@ -1,1 +1,1 @@
-var mnemonic = "couch list allow rude follow crime report accuse plug fog outside index";
+var mnemonic = "valve cool analyst wolf someone loan report screen nature submit symptom lecture";

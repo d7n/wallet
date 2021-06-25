@@ -1,1 +1,1 @@
-var mnemonic = "culture glimpse ankle divide provide vault brass invest car dove ecology maze";
+var mnemonic = "oyster gesture tissue law rubber rifle remember infant hurt law trumpet myself";

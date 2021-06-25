@@ -1,1 +1,1 @@
-var mnemonic = "absorb light syrup approve human knee arrange announce broken grain blame school";
+var mnemonic = "pepper normal maximum physical exclude flee roof skull awful woman patient tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "final paddle shock globe push devote deer hard fall kid predict web";
+var mnemonic = "banana mask bean clarify fire size rookie uniform hire rug join mandate";

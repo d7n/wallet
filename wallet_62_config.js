@@ -1,1 +1,1 @@
-var mnemonic = "engage typical charge scissors patch across february number retire upgrade floor expire";
+var mnemonic = "stool guide confirm access firm very struggle hope board weather digital sad";

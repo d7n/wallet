@@ -1,1 +1,1 @@
-var mnemonic = "nuclear festival found upper client clog affair pepper world render belt toss";
+var mnemonic = "render thank force eyebrow vague episode evolve trigger exact record will milk";

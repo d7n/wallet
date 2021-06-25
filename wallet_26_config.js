@@ -1,1 +1,1 @@
-var mnemonic = "exact cliff motion point radio wall celery display leave monster outer net";
+var mnemonic = "father top attack alert recipe person write action pulse inmate effort mention";

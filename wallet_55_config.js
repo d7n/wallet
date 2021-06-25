@@ -1,1 +1,1 @@
-var mnemonic = "mammal bread pulp already lawn acid mountain meadow slot eagle wool swallow";
+var mnemonic = "mechanic afraid misery beyond cat absorb popular aware cigar task lady maximum";

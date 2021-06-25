@@ -1,1 +1,1 @@
-var mnemonic = "make laugh raven draft issue wise mask window badge hundred guess lobster";
+var mnemonic = "isolate believe clump winner bean zone demise cat target cat rain false";
