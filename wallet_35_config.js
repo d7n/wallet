@@ -1,1 +1,1 @@
-var mnemonic = "march spring quantum grab purity input woman coral add poverty room work";
+var mnemonic = "fringe alert memory climb phone book disagree paddle sorry enemy egg become";

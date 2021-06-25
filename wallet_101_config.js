@@ -1,1 +1,1 @@
-var mnemonic = "jewel slender tent monkey october evidence leopard vault mind stool aisle glass";
+var mnemonic = "purchase coin argue symptom castle all brown panda obtain soccer special regular";

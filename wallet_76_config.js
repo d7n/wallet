@@ -1,1 +1,1 @@
-var mnemonic = "butter nurse kick essay empower accident picnic still hollow husband enjoy hub";
+var mnemonic = "find steel derive unique pepper ripple actor any snake rough right dust";

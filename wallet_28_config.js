@@ -1,1 +1,1 @@
-var mnemonic = "orbit club drill local left opinion more april wasp lawsuit two error";
+var mnemonic = "want bench tattoo brain similar enrich tribe simple clap collect educate kitchen";

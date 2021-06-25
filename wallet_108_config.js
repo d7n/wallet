@@ -1,1 +1,1 @@
-var mnemonic = "resource strong toast soccer almost payment buddy hospital cotton ice fluid surge";
+var mnemonic = "robot visa female panda crane board ceiling figure usage day decline winter";

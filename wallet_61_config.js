@@ -1,1 +1,1 @@
-var mnemonic = "credit idle brush elevator badge total choice smile primary cloth card receive";
+var mnemonic = "swim cupboard radar trick warfare asset dress pull legal scene heavy leopard";

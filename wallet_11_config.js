@@ -1,1 +1,1 @@
-var mnemonic = "order car want nothing minimum antenna file scale vote scorpion discover put";
+var mnemonic = "excess file saddle survey predict priority curtain always melody exist cover limb";

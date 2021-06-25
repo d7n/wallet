@@ -1,1 +1,1 @@
-var mnemonic = "honey impose ship coconut neck report narrow merge modify gesture leopard buffalo";
+var mnemonic = "give sibling text rapid hair patient dismiss arrive absurd rapid gravity beef";

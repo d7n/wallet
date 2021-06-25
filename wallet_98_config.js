@@ -1,1 +1,1 @@
-var mnemonic = "inherit canoe field mouse black dad merit food result burden wonder dove";
+var mnemonic = "combine ability wild vendor garlic confirm belt creek over frost used kidney";

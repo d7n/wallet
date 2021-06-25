@@ -1,1 +1,1 @@
-var mnemonic = "please become open humble year trust orient sea broccoli slot wire resemble";
+var mnemonic = "pipe blood zone craft early wish mule much heavy region shell beauty";

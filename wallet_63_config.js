@@ -1,1 +1,1 @@
-var mnemonic = "supply easily crucial age life brain traffic industry utility point exact ketchup";
+var mnemonic = "joke similar wasp cigar spirit will slush detail amazing garage cause time";

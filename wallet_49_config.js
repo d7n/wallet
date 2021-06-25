@@ -1,1 +1,1 @@
-var mnemonic = "group moment mixed south can sword ethics upgrade bulk custom dismiss hurry";
+var mnemonic = "dinosaur powder wrist divide private carbon verify scheme crazy sand business wisdom";

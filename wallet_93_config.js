@@ -1,1 +1,1 @@
-var mnemonic = "just shuffle kiss oven cotton rack such wolf roast cattle term law";
+var mnemonic = "plate blood foot traffic detail flag spare view breeze unable age roof";

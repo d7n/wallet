@@ -1,1 +1,1 @@
-var mnemonic = "insect balance wine toss fit cage lamp gauge inmate donate post village";
+var mnemonic = "pepper differ call river void dove arm diet federal liberty mansion ostrich";

@@ -1,1 +1,1 @@
-var mnemonic = "pizza resource song ordinary jungle dress taxi alien exit copper shuffle proof";
+var mnemonic = "oak capital symbol humble initial notice soda boat material transfer toward vague";

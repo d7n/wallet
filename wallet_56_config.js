@@ -1,1 +1,1 @@
-var mnemonic = "rifle bacon vast lawn local list bomb happy position bleak essay spirit";
+var mnemonic = "fabric power cement tip clog dice shrimp purpose point gain drop glad";

@@ -1,1 +1,1 @@
-var mnemonic = "garment true taxi apology faint habit salad step inhale roast number syrup";
+var mnemonic = "bid carbon black antenna toilet buzz police advance faculty gossip chase baby";

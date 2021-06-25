@@ -1,1 +1,1 @@
-var mnemonic = "praise sad vintage expect clarify speak brick match focus strike open crash";
+var mnemonic = "struggle soap have island barely tomorrow pizza girl runway nothing early top";

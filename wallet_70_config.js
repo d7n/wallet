@@ -1,1 +1,1 @@
-var mnemonic = "midnight alarm youth ghost pumpkin fire raven pigeon vault enable loyal bitter";
+var mnemonic = "scene palm hobby trouble wire thunder canvas champion solid roof until club";

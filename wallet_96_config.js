@@ -1,1 +1,1 @@
-var mnemonic = "enhance finish hip puppy toss easily tired polar ship ten uncover proof";
+var mnemonic = "velvet veteran lesson antenna rate donor gentle focus zone sure symbol sense";

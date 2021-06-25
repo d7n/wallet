@@ -1,1 +1,1 @@
-var mnemonic = "salad suit universe candy nominee carry fluid clay such track road embark";
+var mnemonic = "crack bubble become tourist mercy clean that analyst oxygen police rely dutch";

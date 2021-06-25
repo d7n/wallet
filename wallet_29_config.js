@@ -1,1 +1,1 @@
-var mnemonic = "pet only beyond coffee shed fatigue truck decline carbon develop camp rare";
+var mnemonic = "frozen gallery leg head clutch episode distance vapor race essence before idle";

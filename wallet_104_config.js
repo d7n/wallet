@@ -1,1 +1,1 @@
-var mnemonic = "myself chest walk dial auction hedgehog face sad team armor burden solid";
+var mnemonic = "used brass safe argue burden multiply tower casual sibling mimic chef bridge";

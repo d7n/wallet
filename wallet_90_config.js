@@ -1,1 +1,1 @@
-var mnemonic = "poem rare frequent mandate above achieve second surge push mother diet mother";
+var mnemonic = "timber ensure later author fuel exhaust weapon praise strike toss boss offer";

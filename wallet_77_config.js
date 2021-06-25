@@ -1,1 +1,1 @@
-var mnemonic = "pipe unknown ride bird sibling script icon edit obscure range pair erupt";
+var mnemonic = "course start rebel muscle benefit lucky patrol supreme child valve false rain";

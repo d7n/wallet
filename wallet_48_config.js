@@ -1,1 +1,1 @@
-var mnemonic = "sausage planet render spike garbage torch verb fine high blouse nut mistake";
+var mnemonic = "eagle sadness chair illegal cereal cancel omit update battle fringe now front";

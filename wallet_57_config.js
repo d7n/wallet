@@ -1,1 +1,1 @@
-var mnemonic = "vibrant panel trigger goose almost column try believe impose cigar muscle thing";
+var mnemonic = "cat load forest around laundry destroy wink wish cheese behind wedding extend";

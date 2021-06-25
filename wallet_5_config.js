@@ -1,1 +1,1 @@
-var mnemonic = "educate spatial rather left wet cruel token chunk direct orphan blade arctic";
+var mnemonic = "help deal annual pact fit deal path knock diesel express monster beach";

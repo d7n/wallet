@@ -1,1 +1,1 @@
-var mnemonic = "demand hover march black reduce purity hurdle speed slide globe hint annual";
+var mnemonic = "sign flower arrest broom option very fan embark best master false radar";

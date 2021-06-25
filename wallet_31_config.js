@@ -1,1 +1,1 @@
-var mnemonic = "comic imitate adapt blush evil item elbow local wisdom beef saddle glad";
+var mnemonic = "false carpet country because huge when market shy among limit road crouch";

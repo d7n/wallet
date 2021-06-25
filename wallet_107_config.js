@@ -1,1 +1,1 @@
-var mnemonic = "fatal energy punch drill morning sweet hip excite friend kangaroo sister then";
+var mnemonic = "risk security little before version exact win elder leisure spray saddle motion";

@@ -1,1 +1,1 @@
-var mnemonic = "real test plunge crew rude float unhappy runway scrap blue barrel meadow";
+var mnemonic = "crisp math push danger human pistol hire mail retire tattoo impact question";

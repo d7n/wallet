@@ -1,1 +1,1 @@
-var mnemonic = "bulb absurd piano seminar dish three rose tackle top trick fury loop";
+var mnemonic = "twist click submit curve quote bind divide spoil frown salon plug begin";

@@ -1,1 +1,1 @@
-var mnemonic = "scatter champion pool tourist glad cabin addict puppy swear fragile write alarm";
+var mnemonic = "fresh family dash flee good quit space carpet winner drama slim innocent";

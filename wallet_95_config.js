@@ -1,1 +1,1 @@
-var mnemonic = "tunnel confirm explain tape fiscal click hunt juice recipe order ice rebel";
+var mnemonic = "planet tenant disorder history expand deliver blast bus energy mercy small ahead";

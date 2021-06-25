@@ -1,1 +1,1 @@
-var mnemonic = "shoe rural true twist ocean horror tilt fly furnace shuffle damp imitate";
+var mnemonic = "cable coral syrup chunk iron shock cement stove endorse credit giant crouch";

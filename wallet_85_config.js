@@ -1,1 +1,1 @@
-var mnemonic = "tag south actual hammer seven box slight chronic prepare nephew eye year";
+var mnemonic = "cheap powder merit glide jealous helmet obtain hand diet dwarf foster act";

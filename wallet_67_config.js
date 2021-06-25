@@ -1,1 +1,1 @@
-var mnemonic = "will oval palm letter cricket sibling donate edit inhale final sample display";
+var mnemonic = "cream square unable dad empower need say coral document sugar space dizzy";

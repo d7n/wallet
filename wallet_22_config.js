@@ -1,1 +1,1 @@
-var mnemonic = "luggage pole process height ghost find ketchup major guess robot story sort";
+var mnemonic = "disagree diagram glide blame city acquire duck erode town goose hurt spot";

@@ -1,1 +1,1 @@
-var mnemonic = "drift verb dumb powder alarm urban paddle chunk label lake tongue exile";
+var mnemonic = "output relax absorb camera doctor attack loop bar typical reveal arch edit";

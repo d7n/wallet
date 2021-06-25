@@ -1,1 +1,1 @@
-var mnemonic = "depth horror silk aim clinic target daring author sentence figure gold enhance";
+var mnemonic = "dose tiny unfold chest quote guard happy invest spider opera ahead kangaroo";

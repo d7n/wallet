@@ -1,1 +1,1 @@
-var mnemonic = "sure icon grief spoil olive finish tray walnut before estate thought sister";
+var mnemonic = "unknown family myself source game control budget grow chalk found ahead excuse";

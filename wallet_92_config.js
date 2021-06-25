@@ -1,1 +1,1 @@
-var mnemonic = "extra heavy bicycle guitar gravity mercy praise story cliff dinosaur toy electric";
+var mnemonic = "mother raw equal cool budget endless fox roof dad nation wrist apology";

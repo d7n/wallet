@@ -1,1 +1,1 @@
-var mnemonic = "pepper decorate discover great balcony citizen select accident long connect weapon scatter";
+var mnemonic = "inside awesome kick federal mixture afford actor place floor front fade love";

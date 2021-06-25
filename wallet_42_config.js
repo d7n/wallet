@@ -1,1 +1,1 @@
-var mnemonic = "suffer soft dawn exercise cruise one meat oppose thumb hire interest leisure";
+var mnemonic = "vote much mansion wrist obscure cement add crash dignity gas spy obvious";

@@ -1,1 +1,1 @@
-var mnemonic = "hotel artefact spring approve lounge pet enemy jewel grab sister tuition abstract";
+var mnemonic = "pond dial valid knock culture perfect hold avocado cactus meadow flight wet";

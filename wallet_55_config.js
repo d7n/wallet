@@ -1,1 +1,1 @@
-var mnemonic = "shoe dragon input wasp rhythm shuffle panther immune uphold private cheese indicate";
+var mnemonic = "version west robust sweet antenna transfer carry license sunset genre raccoon human";

@@ -1,1 +1,1 @@
-var mnemonic = "erode wreck trend stuff govern diagram swift toward wise chase upon domain";
+var mnemonic = "siren coral hen speak puzzle daughter aerobic useful roof clever middle rate";

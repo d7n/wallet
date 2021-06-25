@@ -1,1 +1,1 @@
-var mnemonic = "pony kiss hybrid mutual unable venue spring fat excuse deputy bring turn";
+var mnemonic = "debris wrap when range loop position soldier buffalo poet shadow family maid";

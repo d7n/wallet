@@ -1,1 +1,1 @@
-var mnemonic = "food female render embody rocket stamp harbor twist tiny employ square sight";
+var mnemonic = "pudding elephant rural guilt fault argue topple measure velvet ramp enemy mistake";

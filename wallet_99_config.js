@@ -1,1 +1,1 @@
-var mnemonic = "friend cushion bleak spray neck lumber fox shrug air taste false wide";
+var mnemonic = "orchard beef cake fuel category motion shallow chapter trash antenna hair away";

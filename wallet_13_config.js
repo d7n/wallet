@@ -1,1 +1,1 @@
-var mnemonic = "equip sadness vault struggle return evidence mule trouble office inmate diet husband";
+var mnemonic = "negative shield admit grain stereo biology pulse typical human worth future rug";

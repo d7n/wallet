@@ -1,1 +1,1 @@
-var mnemonic = "idle marble rice grace exclude mansion slight ethics hill primary behave token";
+var mnemonic = "husband series enhance credit vast tool load cousin bullet spell essence cart";

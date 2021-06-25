@@ -1,1 +1,1 @@
-var mnemonic = "stomach fitness aunt lock now salmon rough income rescue job limb notice";
+var mnemonic = "good memory paper island sunny useful man power pledge lounge demand donor";

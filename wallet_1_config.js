@@ -1,1 +1,1 @@
-var mnemonic = "faith tissue evil admit wasp village clay million gadget chat talk voyage";
+var mnemonic = "income train electric exercise few glass vapor wolf blood dismiss stem cheese";

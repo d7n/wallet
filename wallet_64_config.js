@@ -1,1 +1,1 @@
-var mnemonic = "combine maximum law gloom since pair hurdle stuff solution sponsor push snack";
+var mnemonic = "misery champion subway stumble portion pledge gorilla anchor forum differ zone buzz";

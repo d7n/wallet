@@ -1,1 +1,1 @@
-var mnemonic = "nature train jacket endorse they early wife rescue raw inquiry train mule";
+var mnemonic = "energy body mystery seat among sad media curtain glory dust talent join";

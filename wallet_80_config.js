@@ -1,1 +1,1 @@
-var mnemonic = "machine exhaust across fish multiply excite squeeze group couch burger matter engine";
+var mnemonic = "super comic decorate try violin display apart provide casual stage remain gym";

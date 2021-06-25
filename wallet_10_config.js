@@ -1,1 +1,1 @@
-var mnemonic = "artefact grit found liar little game portion they absurd shoulder sleep creek";
+var mnemonic = "accuse divorce ring bundle grace number track element damp sphere interest hundred";

@@ -1,1 +1,1 @@
-var mnemonic = "blouse bring area truck lounge jealous record ecology kiss divert smooth grocery";
+var mnemonic = "liberty liar kitten slender hungry punch beyond holiday curious great erupt wide";

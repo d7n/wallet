@@ -1,1 +1,1 @@
-var mnemonic = "sea shine gorilla protect pattern brand seat vital regular upper arctic must";
+var mnemonic = "river topic ketchup mirror gate strategy repeat copy catch bird emerge just";

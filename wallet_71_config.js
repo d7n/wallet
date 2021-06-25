@@ -1,1 +1,1 @@
-var mnemonic = "match explain gym lonely drill food gasp shield betray voice quit game";
+var mnemonic = "smoke they iron reflect daughter combine fancy mom seminar release common column";

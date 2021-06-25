@@ -1,1 +1,1 @@
-var mnemonic = "milk twenty surface weekend layer salt illegal appear random save express depth";
+var mnemonic = "remind cat camera canyon father tower pudding such swear pet north balance";

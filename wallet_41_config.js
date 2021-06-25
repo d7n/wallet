@@ -1,1 +1,1 @@
-var mnemonic = "urge whip march fog under expect disagree normal add carbon strike tired";
+var mnemonic = "orange monitor report bus fiber sport mandate stumble scissors file mail couch";

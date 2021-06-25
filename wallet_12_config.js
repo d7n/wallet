@@ -1,1 +1,1 @@
-var mnemonic = "gaze tennis area filter luxury today vital fatal together ladder dress misery";
+var mnemonic = "shed pave option flat borrow know build giant weird achieve forget fix";

@@ -1,1 +1,1 @@
-var mnemonic = "record addict tag bike oak verb uphold stumble dose give source airport";
+var mnemonic = "tone ecology scan access illness fitness tent assist happy local page adult";

@@ -1,1 +1,1 @@
-var mnemonic = "still during found edge catch attend world pony ketchup drift few federal";
+var mnemonic = "cliff night pride sting common truth vault elder shop sand public evoke";

@@ -1,1 +1,1 @@
-var mnemonic = "metal fury other hope enough depend loyal rice utility trophy foster render";
+var mnemonic = "all icon bar admit squeeze brick music off woman skate check museum";

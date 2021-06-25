@@ -1,1 +1,1 @@
-var mnemonic = "common tiny small girl rail phone appear resource rubber swap eight dust";
+var mnemonic = "naive mule frequent stem sea dream glance truly spoil rough fine drip";

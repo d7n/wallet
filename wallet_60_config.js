@@ -1,1 +1,1 @@
-var mnemonic = "quote street trash shove mango matter oil drastic abuse cruel argue flat";
+var mnemonic = "before oppose squirrel cheap glove waste draft ten shoot rocket oak vote";

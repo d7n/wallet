@@ -1,1 +1,1 @@
-var mnemonic = "pioneer code object badge primary matter hard cool urban mistake goat crew";
+var mnemonic = "fluid glow poet lift thrive pool beyond crack fragile pudding file claim";

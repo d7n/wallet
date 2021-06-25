@@ -1,1 +1,1 @@
-var mnemonic = "typical like flat inner forum mobile brief warm boring hollow rubber trust";
+var mnemonic = "romance split best erupt broom twenty crazy invite nation autumn capital knock";

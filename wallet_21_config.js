@@ -1,1 +1,1 @@
-var mnemonic = "virtual enact inherit elbow mail test legal crowd marine senior vanish famous";
+var mnemonic = "pulse traffic release green tissue cruel lonely position dumb fresh spread reduce";

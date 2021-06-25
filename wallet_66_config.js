@@ -1,1 +1,1 @@
-var mnemonic = "surprise rug explain sand urban cool cruise leg park flag make wagon";
+var mnemonic = "manual position bone achieve slide shop record fabric seven aware brush crucial";

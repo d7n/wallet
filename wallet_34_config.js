@@ -1,1 +1,1 @@
-var mnemonic = "hundred almost universe joke fuel ahead analyst again annual agent wheat silver";
+var mnemonic = "connect course spirit sudden wash problem tornado reward test quit clip top";

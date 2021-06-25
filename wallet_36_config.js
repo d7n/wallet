@@ -1,1 +1,1 @@
-var mnemonic = "jeans leisure invite kiss bounce social knock business foam away outside six";
+var mnemonic = "sell bike check fat ridge orient guitar tornado social salon inside stand";

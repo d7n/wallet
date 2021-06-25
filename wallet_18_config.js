@@ -1,1 +1,1 @@
-var mnemonic = "rhythm giant limit adult fan innocent wear theme output flavor puppy eight";
+var mnemonic = "wisdom advance high sing foster nest speak crush bulb soldier check develop";

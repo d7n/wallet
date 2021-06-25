@@ -1,1 +1,1 @@
-var mnemonic = "walnut goose sphere later lunar become nuclear crawl stereo error near beef";
+var mnemonic = "trick purpose disorder tennis exist father bottom misery file confirm hedgehog silk";

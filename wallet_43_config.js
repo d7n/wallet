@@ -1,1 +1,1 @@
-var mnemonic = "oblige market make axis average mistake neither abandon invest guess mutual legal";
+var mnemonic = "liquid debate sport flavor high clown vault trouble confirm belt bachelor burden";

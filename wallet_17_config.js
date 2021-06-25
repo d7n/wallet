@@ -1,1 +1,1 @@
-var mnemonic = "erosion flee poem alone slide kick method bundle action people habit fish";
+var mnemonic = "funny skate kitchen crawl viable thing link trouble situate invest digital answer";

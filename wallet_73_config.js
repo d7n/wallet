@@ -1,1 +1,1 @@
-var mnemonic = "foster govern poet design capable dismiss arctic manage void oxygen come mango";
+var mnemonic = "taste ability knock engine mirror ankle crazy peace lift empty apology license";

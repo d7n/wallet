@@ -1,1 +1,1 @@
-var mnemonic = "field runway goat nation fashion sphere access fatigue gap believe wise draw";
+var mnemonic = "gravity true achieve leopard screen route raise iron duck consider flight laugh";

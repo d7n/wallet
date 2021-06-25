@@ -1,1 +1,1 @@
-var mnemonic = "hover claim rain walk sun artefact artefact resource lyrics this token whale";
+var mnemonic = "cruel project weird apology true guitar soul firm convince clap goat fish";

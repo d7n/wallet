@@ -1,1 +1,1 @@
-var mnemonic = "follow affair return convince chimney person tell tonight advance various slab salute";
+var mnemonic = "struggle evil palm else wish group staff fork wheel small course draft";

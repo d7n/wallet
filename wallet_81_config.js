@@ -1,1 +1,1 @@
-var mnemonic = "average park they rigid dream season expose together genre humor upgrade edit";
+var mnemonic = "mule universe health detect neutral alien evolve void sniff proof circle hollow";

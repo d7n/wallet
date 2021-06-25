@@ -1,1 +1,1 @@
-var mnemonic = "breeze goddess frequent brick quit father assault physical ugly romance must erosion";
+var mnemonic = "few slogan unit capable impulse swarm trick creek fury before comic advice";

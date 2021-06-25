@@ -1,1 +1,1 @@
-var mnemonic = "build same skill physical mimic crew panther blouse hole scale mystery agent";
+var mnemonic = "ice safe used aisle divide tilt armor resist box desk phrase junk";

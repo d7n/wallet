@@ -1,1 +1,1 @@
-var mnemonic = "become prepare music vessel drift leg couple there sister egg broccoli return";
+var mnemonic = "awake crystal figure elite legal uncle tissue warfare apology mad gravity excuse";

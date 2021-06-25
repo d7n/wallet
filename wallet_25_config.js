@@ -1,1 +1,1 @@
-var mnemonic = "economy hidden quality gloom dentist huge tonight rough notice ankle nest badge";
+var mnemonic = "alarm disease dirt secret ostrich sense jewel despair coffee happy allow basic";

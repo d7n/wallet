@@ -1,1 +1,1 @@
-var mnemonic = "immune amateur peace sadness spike make arrange medal patrol measure body ostrich";
+var mnemonic = "vanish social dutch skin essence shed often sure exchange noble divide kick";

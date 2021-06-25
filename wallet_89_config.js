@@ -1,1 +1,1 @@
-var mnemonic = "explain direct else city wrong lobster blade wreck robust cigar smart moral";
+var mnemonic = "apple reward balance once chimney head current home fatal occur nurse expect";

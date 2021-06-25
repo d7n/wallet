@@ -1,1 +1,1 @@
-var mnemonic = "poet shallow humble near crystal candy advance enact wet antenna smile design";
+var mnemonic = "tourist kid orphan slow reopen agree any old exhaust dove endorse balcony";

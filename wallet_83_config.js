@@ -1,1 +1,1 @@
-var mnemonic = "flavor input nature silly casino social caught throw much quantum sight drastic";
+var mnemonic = "virus volcano atom seat regular color almost seat salt depart bonus powder";
