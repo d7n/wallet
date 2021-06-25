@@ -1,1 +1,1 @@
-var mnemonic = "daring exotic matter ivory example hollow wing duty between toss anchor slide";
+var mnemonic = "fan fetch voyage spring giraffe october riot letter swamp mass attend pear";

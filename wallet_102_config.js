@@ -1,1 +1,1 @@
-var mnemonic = "pottery dial run resist design salon manual umbrella universe water pattern recycle";
+var mnemonic = "embody measure face ghost mandate only census wheel sudden cost congress face";

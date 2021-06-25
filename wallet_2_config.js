@@ -1,1 +1,1 @@
-var mnemonic = "mutual ladder top receive antique home member carpet monkey people cloud staff";
+var mnemonic = "powder vague rocket swarm job smart surprise code voice trust symptom tobacco";

@@ -1,1 +1,1 @@
-var mnemonic = "gold drink egg pumpkin olympic draw eternal skill jelly talent laugh area";
+var mnemonic = "park addict occur cover attend elephant sleep remove canal resemble tongue what";

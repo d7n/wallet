@@ -1,1 +1,1 @@
-var mnemonic = "critic aim zebra kite kitchen coconut any solid step daughter rack rocket";
+var mnemonic = "weekend fork face steak desk hobby about sorry thank speed history observe";

@@ -1,1 +1,1 @@
-var mnemonic = "feel utility carry perfect armor claw illegal jar buzz dutch case owner";
+var mnemonic = "swamp october afford reject make pass kind finger cancel mesh usage license";

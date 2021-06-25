@@ -1,1 +1,1 @@
-var mnemonic = "iron tissue cute snap tumble weather embody soldier deer evolve into theory";
+var mnemonic = "margin double wood piano vault million knee lecture album space brisk crater";

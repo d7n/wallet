@@ -1,1 +1,1 @@
-var mnemonic = "unhappy enhance accident vital spy broom sister globe intact unknown height puppy";
+var mnemonic = "hint office fault dismiss lab drum describe admit raw shop inner race";

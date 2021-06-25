@@ -1,1 +1,1 @@
-var mnemonic = "alarm limb shove marine hazard enable festival index net castle toilet knife";
+var mnemonic = "garage hub polar sustain once inform glide problem theory lazy duty join";

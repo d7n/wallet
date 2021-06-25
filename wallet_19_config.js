@@ -1,1 +1,1 @@
-var mnemonic = "traffic oil clock praise enter ensure enroll pill minimum kick inhale believe";
+var mnemonic = "also leader awesome deny humor female trip grain reopen mercy please garment";

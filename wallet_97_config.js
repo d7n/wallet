@@ -1,1 +1,1 @@
-var mnemonic = "group rifle surface session slot alone capable require oppose idea maze august";
+var mnemonic = "goddess civil token rocket indicate define wrap divorce option fresh deny leopard";

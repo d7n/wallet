@@ -1,1 +1,1 @@
-var mnemonic = "put turtle spot citizen play barely double black rookie turn fog crazy";
+var mnemonic = "vapor ancient cat dinosaur earth comic atom claw lock diary ignore then";

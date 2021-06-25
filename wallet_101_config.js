@@ -1,1 +1,1 @@
-var mnemonic = "unhappy carbon ecology prepare mosquito rubber cool tower video hockey normal lounge";
+var mnemonic = "neutral undo boost panel ribbon surge balcony future recipe engine become brand";

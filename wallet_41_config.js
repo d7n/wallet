@@ -1,1 +1,1 @@
-var mnemonic = "valid river blade weird level elder usage steel fever wash cereal pipe";
+var mnemonic = "glow actor culture pattern enter only drastic evidence dad blue frog wet";

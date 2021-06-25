@@ -1,1 +1,1 @@
-var mnemonic = "million inside skin marble document slice dash edit chaos favorite core copy";
+var mnemonic = "decide result depth this soap sponsor orphan immune lumber ethics mail ankle";

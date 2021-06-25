@@ -1,1 +1,1 @@
-var mnemonic = "embody cousin situate guilt surround attend brass truck arrest skull today never";
+var mnemonic = "current ivory fossil misery daughter hotel offer father coral impact orbit surface";

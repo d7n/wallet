@@ -1,1 +1,1 @@
-var mnemonic = "gown subway chair siren derive drip common hand carry piece ancient cloth";
+var mnemonic = "road slogan scissors whisper toast vintage pattern round body liberty undo churn";

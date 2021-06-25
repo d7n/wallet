@@ -1,1 +1,1 @@
-var mnemonic = "hurry help convince tomato innocent actual setup filter gospel siren captain stem";
+var mnemonic = "outside atom render crouch fault flight chef powder speed ecology story bamboo";

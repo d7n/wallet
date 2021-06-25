@@ -1,1 +1,1 @@
-var mnemonic = "motion pilot custom chaos empower frown volcano fold profit wait law gorilla";
+var mnemonic = "emerge elephant vicious force ensure until fantasy pact lawsuit anxiety magnet august";

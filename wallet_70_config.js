@@ -1,1 +1,1 @@
-var mnemonic = "note measure rather goose trust narrow antique cannon veteran primary pond kingdom";
+var mnemonic = "bus baby loud immune elephant skill cover original hero calm tackle grape";

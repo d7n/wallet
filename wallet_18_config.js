@@ -1,1 +1,1 @@
-var mnemonic = "rack normal roof rose fresh crater poverty soul time tooth dash else";
+var mnemonic = "wink moment december dragon crane online phone walk vintage ladder custom little";

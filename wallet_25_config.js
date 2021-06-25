@@ -1,1 +1,1 @@
-var mnemonic = "cabbage minute bundle case arrive crush clay diesel dynamic rice dynamic october";
+var mnemonic = "team fiber neutral gap table exact sight panic pride average novel giant";

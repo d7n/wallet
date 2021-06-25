@@ -1,1 +1,1 @@
-var mnemonic = "seminar pass lens six scissors dawn phrase border cool olympic lobster carpet";
+var mnemonic = "mammal chat steel cherry clock swallow escape spike express swift shell consider";

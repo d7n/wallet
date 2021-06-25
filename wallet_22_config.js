@@ -1,1 +1,1 @@
-var mnemonic = "pottery cigar inch hybrid lonely giggle rice clinic job clutch smoke zero";
+var mnemonic = "dinosaur hotel drill daughter vacuum cute subway pair piano very unable volcano";

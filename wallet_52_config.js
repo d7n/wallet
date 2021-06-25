@@ -1,1 +1,1 @@
-var mnemonic = "calm icon soup cluster air foil mouse demand drink select kiwi second";
+var mnemonic = "music skin live enable bread almost poverty agent mask scene palace tennis";

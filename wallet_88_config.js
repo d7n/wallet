@@ -1,1 +1,1 @@
-var mnemonic = "funny reason embark damp fashion echo ankle minute awesome mixture mixed photo";
+var mnemonic = "flavor brave fame payment ring strong nurse lemon tired parent canvas cross";

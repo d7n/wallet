@@ -1,1 +1,1 @@
-var mnemonic = "pigeon vicious bread squirrel curious pool earn sad giggle van wall ramp";
+var mnemonic = "myself surround seat spin wheat spare minute awkward scale butter round pencil";

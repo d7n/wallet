@@ -1,1 +1,1 @@
-var mnemonic = "panther vast mail student belt govern chapter cloud talent skill crash daughter";
+var mnemonic = "couch bus tiny resource gym oven alter way swing famous vehicle today";

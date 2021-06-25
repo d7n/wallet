@@ -1,1 +1,1 @@
-var mnemonic = "initial produce episode donate wine pool uphold question stage royal penalty front";
+var mnemonic = "mixed pelican daring cube depart pole easy appear hurdle city cushion fiction";

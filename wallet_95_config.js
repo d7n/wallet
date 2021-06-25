@@ -1,1 +1,1 @@
-var mnemonic = "father thunder mandate roast elevator satoshi floor stereo surge dust ranch birth";
+var mnemonic = "pigeon silly kick warrior rival click object staff pet wear devote wish";

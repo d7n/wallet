@@ -1,1 +1,1 @@
-var mnemonic = "eternal such sport illness deliver mirror noble need memory crater actual romance";
+var mnemonic = "square chair slab equal wild loud confirm pride please emerge alley dust";

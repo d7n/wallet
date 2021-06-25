@@ -1,1 +1,1 @@
-var mnemonic = "proof garment enjoy luggage allow remind stand illness soup conduct express rug";
+var mnemonic = "coil anger universe used property coconut differ call arm slush cattle cement";

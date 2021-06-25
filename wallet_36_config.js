@@ -1,1 +1,1 @@
-var mnemonic = "accuse idle process diary gasp sand song carry crane twist client journey";
+var mnemonic = "jungle tattoo service eagle enlist walk tackle ladder panel memory left fiber";

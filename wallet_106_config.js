@@ -1,1 +1,1 @@
-var mnemonic = "ring fuel mistake mix social rapid silk electric indoor young update license";
+var mnemonic = "afford bullet medal bike tool rabbit copy hotel recall key jelly brand";

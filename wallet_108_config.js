@@ -1,1 +1,1 @@
-var mnemonic = "host force leg guitar veteran fog nature crisp ancient angry pipe lumber";
+var mnemonic = "board bottom cross unfold resource final display scrub morning budget seat frown";

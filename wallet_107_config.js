@@ -1,1 +1,1 @@
-var mnemonic = "street scout property february winter ivory photo group speak number library forest";
+var mnemonic = "poet earn ostrich wasp hero network crawl casino club laptop family velvet";

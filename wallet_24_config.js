@@ -1,1 +1,1 @@
-var mnemonic = "powder pact play visa mesh birth bone ripple drink suit number famous";
+var mnemonic = "tail couch river change diamond sniff trip tiny enemy planet daring soon";

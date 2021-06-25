@@ -1,1 +1,1 @@
-var mnemonic = "length start clarify flag violin youth february ketchup fabric shy gentle vendor";
+var mnemonic = "route thrive dog onion oak record pill anger insane tip tobacco exile";

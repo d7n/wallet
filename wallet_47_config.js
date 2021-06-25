@@ -1,1 +1,1 @@
-var mnemonic = "kidney author arm rice phrase orient eyebrow globe shell confirm present tattoo";
+var mnemonic = "adapt wise inquiry tortoise pelican pet boil song between alone mixed clutch";

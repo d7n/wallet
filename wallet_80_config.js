@@ -1,1 +1,1 @@
-var mnemonic = "again cake hundred sadness glance gift miracle interest laugh human stadium three";
+var mnemonic = "cliff mule warrior luggage crowd settle mobile bread divide delay orphan slice";

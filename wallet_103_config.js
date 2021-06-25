@@ -1,1 +1,1 @@
-var mnemonic = "feed visa present isolate firm weasel smoke hamster chunk bread repair then";
+var mnemonic = "paper shuffle asthma fetch license goddess evolve machine subject flight silk sister";

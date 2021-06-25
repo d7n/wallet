@@ -1,1 +1,1 @@
-var mnemonic = "happy forget parrot mask guide sphere broccoli tissue quote volcano lobster donate";
+var mnemonic = "abstract unlock hat impulse hamster desert random evoke vibrant syrup hair educate";

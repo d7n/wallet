@@ -1,1 +1,1 @@
-var mnemonic = "blouse force similar amateur often bid wrestle renew truly drive any transfer";
+var mnemonic = "special scatter become alien frost casino still steel paper reason cage element";

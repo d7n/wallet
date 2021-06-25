@@ -1,1 +1,1 @@
-var mnemonic = "case also machine estate chimney time test limit family athlete exist little";
+var mnemonic = "exact acoustic gap worth improve chalk liquid skull bless recycle fall bonus";

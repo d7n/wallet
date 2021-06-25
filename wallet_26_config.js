@@ -1,1 +1,1 @@
-var mnemonic = "hunt conduct planet payment convince hotel soccer choose morning gaze cheese palm";
+var mnemonic = "blood despair resemble seven thought cost door style vital earth year hire";

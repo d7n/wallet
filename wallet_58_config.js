@@ -1,1 +1,1 @@
-var mnemonic = "stick gold dance change hen grace lobster can settle timber whale early";
+var mnemonic = "loan sing call cradle inquiry adjust foil pave tenant dynamic light daring";

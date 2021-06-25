@@ -1,1 +1,1 @@
-var mnemonic = "expose garlic smile gate kit nerve shoot grab anger report immune equip";
+var mnemonic = "antenna arrive wall little gown diesel hope sorry kind spend soldier argue";

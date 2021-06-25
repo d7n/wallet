@@ -1,1 +1,1 @@
-var mnemonic = "dress rich comic embark news visit picnic reject return warm learn client";
+var mnemonic = "confirm stay kit relief lizard illegal pyramid push length dinosaur local venture";

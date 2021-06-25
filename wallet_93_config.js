@@ -1,1 +1,1 @@
-var mnemonic = "ranch asset only dismiss hair curtain ice act pencil stem link chase";
+var mnemonic = "tag spatial public usual weird bus cloud record near forest festival rule";

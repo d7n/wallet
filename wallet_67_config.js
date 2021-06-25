@@ -1,1 +1,1 @@
-var mnemonic = "round water crazy disagree knee skull movie hint anger mail brass alley";
+var mnemonic = "bacon ordinary lens exist armor fury airport vacant seven nice normal refuse";

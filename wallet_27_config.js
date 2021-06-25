@@ -1,1 +1,1 @@
-var mnemonic = "inform october increase raccoon typical lumber swallow swear address taxi minimum illness";
+var mnemonic = "whip nuclear finish depart truly alarm bulb canal waste obtain gym warfare";

@@ -1,1 +1,1 @@
-var mnemonic = "grunt exit label network can feed hockey explain space surface coral invite";
+var mnemonic = "duty unfold what winter attend addict require square planet meadow vicious story";

@@ -1,1 +1,1 @@
-var mnemonic = "device dice segment film news busy search wish talk patrol unable live";
+var mnemonic = "plate fury spy pave tragic know crystal segment flush object manual exotic";

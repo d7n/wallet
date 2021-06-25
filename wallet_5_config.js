@@ -1,1 +1,1 @@
-var mnemonic = "brain hover pole shoot phone chunk search lyrics gym goat cattle scatter";
+var mnemonic = "cream lunar abandon theory echo liar manual join sea genuine fetch whip";

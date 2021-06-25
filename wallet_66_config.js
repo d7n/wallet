@@ -1,1 +1,1 @@
-var mnemonic = "message fluid north exist bag predict verb lecture token involve dizzy mango";
+var mnemonic = "mad lady lab broccoli lizard can duck fever strategy wealth open lens";

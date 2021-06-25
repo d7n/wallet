@@ -1,1 +1,1 @@
-var mnemonic = "pelican whale rely slam repair come second loud hold recycle cereal type";
+var mnemonic = "fantasy gadget damp raise balance month almost chase square gentle wealth skull";

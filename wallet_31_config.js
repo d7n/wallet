@@ -1,1 +1,1 @@
-var mnemonic = "ginger exit detail cereal timber exhaust bullet dice math moral scrub catalog";
+var mnemonic = "belt mail valve heavy accuse cotton rice sport jewel stumble double way";

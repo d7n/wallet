@@ -1,1 +1,1 @@
-var mnemonic = "injury pen flush naive cover access airport safe write voyage bulk hold";
+var mnemonic = "upset index romance pledge lend cube always favorite spare bike jelly crucial";

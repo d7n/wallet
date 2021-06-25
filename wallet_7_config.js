@@ -1,1 +1,1 @@
-var mnemonic = "stay sleep search panda hockey hamster above old leopard bring exist panel";
+var mnemonic = "walk style blood stereo connect ring goose must lawsuit merge wrist trophy";

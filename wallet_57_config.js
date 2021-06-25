@@ -1,1 +1,1 @@
-var mnemonic = "similar entry bounce treat elite decade vicious slogan loyal sketch ridge excuse";
+var mnemonic = "maid puzzle long pond spatial scale match meat young tool ramp slush";

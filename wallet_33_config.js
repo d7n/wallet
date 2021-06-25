@@ -1,1 +1,1 @@
-var mnemonic = "style adult present insect provide weekend delay online kitchen cute genre beauty";
+var mnemonic = "inhale best vast head jazz verb trial fish equal asthma also noodle";

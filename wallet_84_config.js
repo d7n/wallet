@@ -1,1 +1,1 @@
-var mnemonic = "spoil spider derive deliver fashion fetch stone label barely ladder reflect action";
+var mnemonic = "arena blush behind lion romance bag olive tower talent make illness sock";

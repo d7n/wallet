@@ -1,1 +1,1 @@
-var mnemonic = "scheme decrease catalog sad fringe torch miss lamp result cabin delay water";
+var mnemonic = "exchange oven useless thing brass slide dice spot okay clap romance poem";

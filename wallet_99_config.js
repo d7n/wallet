@@ -1,1 +1,1 @@
-var mnemonic = "cargo list tone release nest ostrich able slow coach hold near isolate";
+var mnemonic = "crash horse inspire pause heart fan craft vapor company family plastic ozone";

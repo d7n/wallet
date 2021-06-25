@@ -1,1 +1,1 @@
-var mnemonic = "hollow clutch powder damage police series net cigar enjoy virtual enable owner";
+var mnemonic = "fun never clay myth lumber recycle test canvas must solution illegal social";

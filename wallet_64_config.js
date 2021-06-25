@@ -1,1 +1,1 @@
-var mnemonic = "race blood impulse escape tongue number outside thumb truth boss more ski";
+var mnemonic = "monitor blanket capable joy young pool same dwarf cigar laugh boil sentence";

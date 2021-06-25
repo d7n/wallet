@@ -1,1 +1,1 @@
-var mnemonic = "wrist limb donkey charge smooth point strike unknown champion affair announce essay";
+var mnemonic = "minute auction hub prison token cloth media canvas armed piano small choose";

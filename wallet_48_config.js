@@ -1,1 +1,1 @@
-var mnemonic = "pond desert digital lobster peanut soccer furnace gas hybrid local shell spirit";
+var mnemonic = "behave produce skill anxiety auto gold fire fabric execute clever stomach panel";

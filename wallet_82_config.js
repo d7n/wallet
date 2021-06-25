@@ -1,1 +1,1 @@
-var mnemonic = "north insane volcano tortoise movie other decline slab ride negative image emotion";
+var mnemonic = "kite axis wreck record essence bleak foster wall seven illegal entire forget";

@@ -1,1 +1,1 @@
-var mnemonic = "elevator leg save tip pitch exotic sport super inner mind vote above";
+var mnemonic = "collect develop shaft acquire best hire cupboard pistol oil mom summer zone";

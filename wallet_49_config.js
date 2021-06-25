@@ -1,1 +1,1 @@
-var mnemonic = "casual scare flat bright bench clump speak token ring submit width discover";
+var mnemonic = "deal walk moon hen wood opera document average acoustic spend mail mother";

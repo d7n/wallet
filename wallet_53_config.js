@@ -1,1 +1,1 @@
-var mnemonic = "cover loud eyebrow blood stadium congress husband jaguar grass pioneer off common";
+var mnemonic = "interest walk unveil hurry purity perfect round second mouse chaos glove monster";

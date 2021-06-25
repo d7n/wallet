@@ -1,1 +1,1 @@
-var mnemonic = "since sample snap beyond gold repeat return swallow define toe snap replace";
+var mnemonic = "hole client oblige grant sketch heart quantum family fault unusual useless reject";

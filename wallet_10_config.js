@@ -1,1 +1,1 @@
-var mnemonic = "other split mandate harvest core toy laptop shuffle outside girl come crowd";
+var mnemonic = "another finger notable someone flee arrive fiscal brick maple donate gather claim";

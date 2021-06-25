@@ -1,1 +1,1 @@
-var mnemonic = "globe swim clap route lock swarm priority exchange body matter wedding soccer";
+var mnemonic = "unfold boring lazy short climb library topic twice journey note split shield";

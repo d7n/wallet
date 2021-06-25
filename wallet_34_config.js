@@ -1,1 +1,1 @@
-var mnemonic = "comfort dad abuse funny vessel alley obey salmon pink nominee cake island";
+var mnemonic = "drum rival already casual below rose draft guilt track rapid today split";

@@ -1,1 +1,1 @@
-var mnemonic = "ahead tag gentle trap cargo drastic cat frog shy link purse device";
+var mnemonic = "once neglect window siege lamp this shrimp add gravity direct fluid mammal";

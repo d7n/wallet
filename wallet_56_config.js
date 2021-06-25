@@ -1,1 +1,1 @@
-var mnemonic = "foster palm solar donate retreat hidden fly desert divide cradle ask skill";
+var mnemonic = "exile switch art lizard funny garlic dumb trial math firm people hip";

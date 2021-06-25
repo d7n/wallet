@@ -1,1 +1,1 @@
-var mnemonic = "ordinary eternal erosion resist unable expand arctic voice battle hood south busy";
+var mnemonic = "taste life fame decade below regret retreat first enjoy hurry upper hunt";

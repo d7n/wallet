@@ -1,1 +1,1 @@
-var mnemonic = "brand state husband crew unfair burden layer dice soldier neutral rebuild simple";
+var mnemonic = "ridge parade move practice hammer adapt peace plunge matrix brush cousin song";

@@ -1,1 +1,1 @@
-var mnemonic = "quality dove marriage inject carbon truly capable erosion simple flush panther diamond";
+var mnemonic = "novel car museum nothing student permit umbrella theme salon face machine segment";

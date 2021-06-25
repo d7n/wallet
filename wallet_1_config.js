@@ -1,1 +1,1 @@
-var mnemonic = "index wife skull illness size empower sentence essay dynamic card appear trigger";
+var mnemonic = "skin biology say gorilla observe outdoor wise wire crane write release daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "cage vintage plunge mom layer approve secret bicycle square manual link toast";
+var mnemonic = "olive merry carbon avoid window mountain toddler corn zebra delay believe enact";

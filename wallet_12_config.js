@@ -1,1 +1,1 @@
-var mnemonic = "surge chest era garlic ritual neither tiny recall network shove possible merit";
+var mnemonic = "agree gallery acid youth faint salmon elder genre feature virus chair gather";

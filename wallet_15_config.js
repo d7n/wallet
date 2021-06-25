@@ -1,1 +1,1 @@
-var mnemonic = "dismiss popular mango right shuffle fly left copy vehicle proud genius butter";
+var mnemonic = "hole spawn guilt equal common learn script polar addict never school rib";

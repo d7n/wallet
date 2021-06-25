@@ -1,1 +1,1 @@
-var mnemonic = "proud detail liar impose festival echo ahead omit orchard tonight dwarf copy";
+var mnemonic = "tenant uncover will chapter genius dinosaur rare zero dice soft later olympic";

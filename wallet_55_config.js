@@ -1,1 +1,1 @@
-var mnemonic = "empty frame drastic please scout drip ecology away laugh order album cricket";
+var mnemonic = "nominee blur swallow salad lounge cake release coconut innocent cross practice similar";

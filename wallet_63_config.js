@@ -1,1 +1,1 @@
-var mnemonic = "behind drum correct call argue slight lumber gallery tent kidney swim buddy";
+var mnemonic = "hat auto cabbage anchor arrest suggest glow crack gallery age harbor hidden";

@@ -1,1 +1,1 @@
-var mnemonic = "fabric suspect put office word more symbol analyst language brick trophy oven";
+var mnemonic = "practice garden climb result purpose coyote sniff woman screen child lizard certain";

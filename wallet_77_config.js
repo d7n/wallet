@@ -1,1 +1,1 @@
-var mnemonic = "panda vibrant crazy crater announce toy barely brisk denial intact odor rifle";
+var mnemonic = "possible face spoon blue sea body across remove loop crack harbor about";

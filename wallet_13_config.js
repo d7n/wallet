@@ -1,1 +1,1 @@
-var mnemonic = "foil tonight image genre car strike stumble gap video smoke elder jealous";
+var mnemonic = "oppose odor sort vivid mango reason invest tide skate health rifle peasant";

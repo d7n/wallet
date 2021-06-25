@@ -1,1 +1,1 @@
-var mnemonic = "local order farm pledge burst myself defy about lawsuit cradle gain grab";
+var mnemonic = "find you ticket trash love napkin ensure steak marine avocado summer nerve";
