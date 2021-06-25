@@ -1,1 +1,1 @@
-var mnemonic = "retreat outer impact miss mountain outside bench fashion depth clarify deliver width";
+var mnemonic = "myself film ozone vehicle chase tooth recipe quiz humble write exchange horn";

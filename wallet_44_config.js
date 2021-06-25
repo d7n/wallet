@@ -1,1 +1,1 @@
-var mnemonic = "day bike today hurry harsh license gain they confirm siren canoe rally";
+var mnemonic = "easy miracle bless green feel spot seat battle food early rail tag";

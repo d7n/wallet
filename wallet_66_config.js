@@ -1,1 +1,1 @@
-var mnemonic = "card stamp crush bronze vocal note embody correct fringe analyst possible increase";
+var mnemonic = "enable distance cabbage lawn later slice impact tape cushion theory useful curtain";

@@ -1,1 +1,1 @@
-var mnemonic = "ready emotion autumn pigeon obscure work faith math labor orange then gentle";
+var mnemonic = "kick solid save interest essence breeze violin wire woman chapter start that";

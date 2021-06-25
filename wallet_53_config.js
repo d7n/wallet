@@ -1,1 +1,1 @@
-var mnemonic = "attack fluid lottery transfer true bulb manage ankle keep base kiss veteran";
+var mnemonic = "demise solution anger meadow chunk voyage earth soccer destroy galaxy trust twin";

@@ -1,1 +1,1 @@
-var mnemonic = "endorse step winner rookie rebuild include fabric myth destroy palm rescue finger";
+var mnemonic = "cube excite supply opinion language elephant speed speed bring such island tag";

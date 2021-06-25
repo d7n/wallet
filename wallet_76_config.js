@@ -1,1 +1,1 @@
-var mnemonic = "side cinnamon half cannon reflect among sketch swarm trust horror there step";
+var mnemonic = "orchard afford weather coil stage view sorry disease occur auto dove size";

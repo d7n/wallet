@@ -1,1 +1,1 @@
-var mnemonic = "poverty outside replace smart satisfy voyage tube sea drum tourist bid venture";
+var mnemonic = "smoke cereal spell history budget rubber rubber elite infant rent enough around";

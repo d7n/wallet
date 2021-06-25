@@ -1,1 +1,1 @@
-var mnemonic = "subject head project library lift pilot sick destroy horror own orange road";
+var mnemonic = "news resource alone fatal distance lyrics pyramid drift special mean initial lend";

@@ -1,1 +1,1 @@
-var mnemonic = "cream economy own nut mosquito come grain check object output scan awesome";
+var mnemonic = "door liberty despair then coil cake goose usual sight nest device rare";

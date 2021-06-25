@@ -1,1 +1,1 @@
-var mnemonic = "recall kit account penalty couple surprise occur direct cube tell awful medal";
+var mnemonic = "venture say awesome charge decorate noise magnet hybrid increase salt fancy elegant";

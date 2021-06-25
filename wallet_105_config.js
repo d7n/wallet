@@ -1,1 +1,1 @@
-var mnemonic = "kite luxury guitar much climb tortoise shuffle ill try clever soap exist";
+var mnemonic = "joke impulse injury zero frequent circle enroll beef game slam thrive dish";

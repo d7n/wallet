@@ -1,1 +1,1 @@
-var mnemonic = "anxiety hunt ribbon endorse then whisper lyrics senior jaguar depart birth mechanic";
+var mnemonic = "misery bird picnic web cost major estate alone twist oven report great";

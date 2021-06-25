@@ -1,1 +1,1 @@
-var mnemonic = "crop square extra clever actress devote woman again hard angle pave thing";
+var mnemonic = "moral vault permit arm win suffer cricket gift lion damp more wide";

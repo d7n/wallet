@@ -1,1 +1,1 @@
-var mnemonic = "define copper yard soul elbow slam defy film pizza menu female still";
+var mnemonic = "cousin goat chimney sail picture sausage lion ribbon dizzy autumn job enjoy";

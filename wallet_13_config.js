@@ -1,1 +1,1 @@
-var mnemonic = "distance wrap cram carbon word nest hidden dismiss item top embody message";
+var mnemonic = "symptom any onion slim recipe often spare pride orient paddle heavy adjust";

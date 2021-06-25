@@ -1,1 +1,1 @@
-var mnemonic = "web narrow alpha elevator earth sentence satisfy law tumble reunion open nest";
+var mnemonic = "during lucky flight lazy mixture chief orbit kid daughter this keep travel";

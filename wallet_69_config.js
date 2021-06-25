@@ -1,1 +1,1 @@
-var mnemonic = "sting law oppose wedding wing clip soda rally trouble habit walk mixed";
+var mnemonic = "urban thing top face gain faith steak sign dutch turtle elegant melody";

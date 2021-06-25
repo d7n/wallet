@@ -1,1 +1,1 @@
-var mnemonic = "neutral legal coin resemble escape differ render afford disagree spell purpose couch";
+var mnemonic = "arctic true genius gloom real glare violin notable acoustic about galaxy filter";

@@ -1,1 +1,1 @@
-var mnemonic = "peace fetch same aware edit phone guitar chat school melt various guide";
+var mnemonic = "leisure inmate abuse antique define iron alter foil stove swallow total say";

@@ -1,1 +1,1 @@
-var mnemonic = "core cave concert stuff approve slab stairs walnut chapter naive usage grid";
+var mnemonic = "goose voyage thumb anger allow aisle promote board urban network random believe";

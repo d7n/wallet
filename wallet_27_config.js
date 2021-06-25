@@ -1,1 +1,1 @@
-var mnemonic = "analyst enlist segment horn text attract pitch obvious collect room chair day";
+var mnemonic = "night hill pilot nest evolve lemon egg pigeon length sustain general degree";

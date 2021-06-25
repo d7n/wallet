@@ -1,1 +1,1 @@
-var mnemonic = "load estate kingdom chair weapon day lady author chat daughter dolphin charge";
+var mnemonic = "face infant loud clown about hammer target will crew egg payment identify";

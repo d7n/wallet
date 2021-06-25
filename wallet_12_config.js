@@ -1,1 +1,1 @@
-var mnemonic = "pool seven group robust shell object post describe step subway paddle bottom";
+var mnemonic = "drop inner gasp lyrics service menu bundle dash helmet false broken lens";

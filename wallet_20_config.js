@@ -1,1 +1,1 @@
-var mnemonic = "dynamic need sauce tornado spin champion luxury fox reunion project large math";
+var mnemonic = "exercise appear crumble milk taste ketchup acid movie soccer devote cushion rib";

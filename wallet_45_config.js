@@ -1,1 +1,1 @@
-var mnemonic = "material sing odor cream wash skate clutch diesel blue test draw busy";
+var mnemonic = "service cat survey innocent cost paddle orphan nerve choose shift rain range";

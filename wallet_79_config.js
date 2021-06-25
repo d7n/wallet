@@ -1,1 +1,1 @@
-var mnemonic = "minimum fat raven wasp multiply this wage session main fatal thumb ice";
+var mnemonic = "relief trigger arctic bench spatial margin van lazy purse exit struggle present";

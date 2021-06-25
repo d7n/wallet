@@ -1,1 +1,1 @@
-var mnemonic = "machine accident enemy verb diet battle aisle cross pony inmate boat ecology";
+var mnemonic = "afraid wink canyon company autumn question theme census athlete water laptop guess";

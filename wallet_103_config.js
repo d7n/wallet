@@ -1,1 +1,1 @@
-var mnemonic = "account patrol soul comfort more faculty jewel undo picnic gather save flag";
+var mnemonic = "ride adjust say canyon among monster pepper whisper protect candy liquid dizzy";

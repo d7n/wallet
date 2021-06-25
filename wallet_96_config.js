@@ -1,1 +1,1 @@
-var mnemonic = "dilemma auction connect please bomb broken dutch today outside tree detect company";
+var mnemonic = "model spend flower gaze spell video shaft inside scissors fiction depart excite";

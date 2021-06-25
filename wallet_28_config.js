@@ -1,1 +1,1 @@
-var mnemonic = "rebel vast circle trumpet warm master spell liquid dirt steak three upset";
+var mnemonic = "initial invite another wolf tired file advice medal task maple tag pioneer";

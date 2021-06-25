@@ -1,1 +1,1 @@
-var mnemonic = "swap brown today urge culture ski retire tell work lucky pelican egg";
+var mnemonic = "slim fitness dismiss goose choice balcony vicious borrow glare coin urban laptop";

@@ -1,1 +1,1 @@
-var mnemonic = "fatigue half code fly author run genius sadness predict rocket duty afford";
+var mnemonic = "kit empty romance same grass april protect skin lift odor license excite";

@@ -1,1 +1,1 @@
-var mnemonic = "cream ocean boil leader taste impact quote thrive clutch market shallow head";
+var mnemonic = "cement repeat lucky useful useless text caution that kiwi section husband sting";

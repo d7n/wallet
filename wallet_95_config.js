@@ -1,1 +1,1 @@
-var mnemonic = "water cause media sell sound waste hint mistake sister canvas you soccer";
+var mnemonic = "add spring matter release clap genre century corn manage impact castle bless";

@@ -1,1 +1,1 @@
-var mnemonic = "live extend still family diet bomb purity have dignity hub fiber near";
+var mnemonic = "wire subway city hello swap blush rail latin peace dish clown extra";

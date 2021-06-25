@@ -1,1 +1,1 @@
-var mnemonic = "rival abstract verb clap december pluck guard upper isolate cluster limit limit";
+var mnemonic = "save loan involve bottom clap shallow diet attack penalty note hip unfold";

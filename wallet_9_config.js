@@ -1,1 +1,1 @@
-var mnemonic = "boost age hawk despair despair lion nephew shiver news lawsuit sword room";
+var mnemonic = "crane monkey gun access airport merry prefer clarify shrug bar arrive unfold";

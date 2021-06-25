@@ -1,1 +1,1 @@
-var mnemonic = "leaf mule fade error sauce sniff lesson trouble hockey judge almost brief";
+var mnemonic = "border flag brisk pupil merit wealth almost skate sphere hunt fan emerge";

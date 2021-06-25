@@ -1,1 +1,1 @@
-var mnemonic = "marble click struggle noodle task arena legend sample barely acoustic appear talent";
+var mnemonic = "fork plunge shaft monster trigger canal early boil decrease lift circle transfer";

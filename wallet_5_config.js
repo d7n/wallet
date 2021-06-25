@@ -1,1 +1,1 @@
-var mnemonic = "era antique crime dice fruit able wonder rather pelican spirit love child";
+var mnemonic = "diesel present october unfair brave stable scrub child museum above submit use";

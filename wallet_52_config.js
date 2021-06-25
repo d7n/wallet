@@ -1,1 +1,1 @@
-var mnemonic = "salute then income enact fatal increase ripple violin fluid body lunch dolphin";
+var mnemonic = "click laundry paddle depend enact anchor female involve aspect settle panel bone";

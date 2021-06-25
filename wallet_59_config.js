@@ -1,1 +1,1 @@
-var mnemonic = "boat torch virus hockey crystal coyote flower regular announce gauge loop cake";
+var mnemonic = "another spring comfort city obey fetch loyal width crunch bitter little require";

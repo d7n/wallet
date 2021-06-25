@@ -1,1 +1,1 @@
-var mnemonic = "ripple distance capital cluster urban virtual boy furnace warfare mango climb erosion";
+var mnemonic = "noble oval liar code trial catch surface entire term wheat piano enrich";

@@ -1,1 +1,1 @@
-var mnemonic = "garlic swear when employ wild field sad corn air burger shy multiply";
+var mnemonic = "alarm whale indoor width assume process exact treat sentence poet much impulse";

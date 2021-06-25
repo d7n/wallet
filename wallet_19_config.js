@@ -1,1 +1,1 @@
-var mnemonic = "ozone cute candy spend shrimp boring diagram cram inner spider inform animal";
+var mnemonic = "focus hedgehog siren sad frost miss agree wait axis into inquiry nation";

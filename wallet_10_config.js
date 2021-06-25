@@ -1,1 +1,1 @@
-var mnemonic = "else summer defy indicate tooth green fork physical odor doll pudding attitude";
+var mnemonic = "kangaroo noble figure flight bonus fuel group once during document movie payment";

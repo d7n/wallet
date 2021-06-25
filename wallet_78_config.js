@@ -1,1 +1,1 @@
-var mnemonic = "expose obscure between client plunge leopard stand original early fiber wolf aunt";
+var mnemonic = "evil arm final funny zoo obscure ball impact foot flee forum frown";

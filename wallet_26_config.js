@@ -1,1 +1,1 @@
-var mnemonic = "grunt sand cute unknown slot slow print various attract favorite ordinary banana";
+var mnemonic = "book sniff illegal possible analyst pink chunk swim pistol skull humor dolphin";

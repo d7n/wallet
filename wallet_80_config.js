@@ -1,1 +1,1 @@
-var mnemonic = "setup term upgrade small ball forget witness icon cluster apology town blame";
+var mnemonic = "genre south average canvas symbol million during empty section shift success lamp";

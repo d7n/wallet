@@ -1,1 +1,1 @@
-var mnemonic = "squirrel coffee useful way gold jewel rack comic top nest clever teach";
+var mnemonic = "similar enrich weird glow frown wire join trophy knife hamster legend online";

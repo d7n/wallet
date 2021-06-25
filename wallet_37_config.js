@@ -1,1 +1,1 @@
-var mnemonic = "mushroom menu slide blast dizzy hundred weapon zebra combine book cause ill";
+var mnemonic = "cover toddler scatter reflect snack science tunnel chaos aisle empower heart cost";

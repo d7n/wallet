@@ -1,1 +1,1 @@
-var mnemonic = "addict broom canoe better draw announce task scorpion rigid clog ability green";
+var mnemonic = "nothing absurd quantum romance vehicle spread remind angry edge lamp buffalo capable";

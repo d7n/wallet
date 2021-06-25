@@ -1,1 +1,1 @@
-var mnemonic = "detail ready select economy virus promote bird disease blame replace shove rally";
+var mnemonic = "surface lawn busy victory spend stool uniform marble submit avocado action dignity";

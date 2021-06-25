@@ -1,1 +1,1 @@
-var mnemonic = "say strategy crane test neutral design fall amazing organ cinnamon cram embody";
+var mnemonic = "garage ring romance affair sort actress mom cigar hill flee dynamic six";

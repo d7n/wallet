@@ -1,1 +1,1 @@
-var mnemonic = "rural shaft evil menu hello jar divert clever boil extra settle fire";
+var mnemonic = "tone sight party series wink asset picture kit limit goddess acoustic shrug";

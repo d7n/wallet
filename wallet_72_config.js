@@ -1,1 +1,1 @@
-var mnemonic = "neither powder town express job ripple spare arena bomb setup diet pass";
+var mnemonic = "furnace swift winner canyon angle recall mix save lucky mandate spike thumb";

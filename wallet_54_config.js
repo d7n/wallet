@@ -1,1 +1,1 @@
-var mnemonic = "sorry spot chef clip push head middle lounge display surprise flight enrich";
+var mnemonic = "night size priority insect zoo orphan negative degree cannon pipe evoke program";

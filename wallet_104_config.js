@@ -1,1 +1,1 @@
-var mnemonic = "empty shed couch story short hood arena multiply vendor organ cradle celery";
+var mnemonic = "fat hour melody young mirror bar prepare olympic much source chunk access";

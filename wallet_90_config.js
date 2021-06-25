@@ -1,1 +1,1 @@
-var mnemonic = "rent grain connect believe device cinnamon input tree slight twice cupboard island";
+var mnemonic = "another calm moon yellow summer visa kangaroo rapid panic fat spirit neglect";

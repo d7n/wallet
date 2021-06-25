@@ -1,1 +1,1 @@
-var mnemonic = "riot notable flight gesture buddy bomb pencil actress true summer capable inherit";
+var mnemonic = "edit mouse camp cry puppy invest arch avocado pretty worry install lyrics";

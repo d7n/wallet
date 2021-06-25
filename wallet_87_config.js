@@ -1,1 +1,1 @@
-var mnemonic = "fork forum asthma switch obscure squeeze nerve deal artwork share stem child";
+var mnemonic = "bronze glow jacket boy drill student panic category modify kick champion speak";

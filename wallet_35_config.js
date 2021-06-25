@@ -1,1 +1,1 @@
-var mnemonic = "tobacco clip oppose home slight crazy oxygen this chicken hint test breeze";
+var mnemonic = "work slush front repair assault hand found mule develop method wink river";

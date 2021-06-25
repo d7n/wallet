@@ -1,1 +1,1 @@
-var mnemonic = "soccer vibrant dust purse text visit assault deny first maze scene column";
+var mnemonic = "pond theory begin wet scan scissors worth total ten govern chaos local";

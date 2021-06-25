@@ -1,1 +1,1 @@
-var mnemonic = "cruel deal diary plastic laundry gravity double weasel alcohol kitchen clever expire";
+var mnemonic = "crucial inmate town today pudding powder pilot bullet crush better emotion outer";

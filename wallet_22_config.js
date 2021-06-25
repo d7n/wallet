@@ -1,1 +1,1 @@
-var mnemonic = "sauce library hope enrich ethics convince museum gown extend chapter bronze avoid";
+var mnemonic = "drip nest punch old uphold zone pass same public era video hurry";

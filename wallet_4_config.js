@@ -1,1 +1,1 @@
-var mnemonic = "birth vehicle online infant lazy craft become horn increase lounge crop resemble";
+var mnemonic = "hub pupil banner enjoy parent good stuff matter inmate pond lounge lens";

@@ -1,1 +1,1 @@
-var mnemonic = "crop machine jewel kiss frost maze cheap join sleep boost choice word";
+var mnemonic = "width trophy february dawn human chest enter boat century kidney tail stick";

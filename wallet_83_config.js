@@ -1,1 +1,1 @@
-var mnemonic = "echo visa shell thank often exact small bring crane banner across poem";
+var mnemonic = "space pill plate skate armed wild focus high adjust attitude brain mandate";

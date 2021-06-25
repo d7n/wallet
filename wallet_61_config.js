@@ -1,1 +1,1 @@
-var mnemonic = "alien juice ring soldier learn hover cricket secret hour future float acoustic";
+var mnemonic = "group wink young orient awesome trash glimpse diet bicycle asset buffalo soldier";

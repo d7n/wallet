@@ -1,1 +1,1 @@
-var mnemonic = "digital utility curious art uncover edit endorse script answer subway nest online";
+var mnemonic = "key beach private stand country butter huge version tube cart come common";

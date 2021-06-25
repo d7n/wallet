@@ -1,1 +1,1 @@
-var mnemonic = "silk fat kiss stuff seed envelope combine evidence puzzle ranch jewel eight";
+var mnemonic = "paddle citizen ginger allow zone sight cargo amused width scan total oxygen";

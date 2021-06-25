@@ -1,1 +1,1 @@
-var mnemonic = "flower list live toy lemon exchange shiver turtle rapid catalog cactus story";
+var mnemonic = "fitness icon crumble wrist cool crane settle skin inspire ocean camp primary";

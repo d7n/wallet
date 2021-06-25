@@ -1,1 +1,1 @@
-var mnemonic = "blue scout prize injury prosper mule forward seven liar spike keep coconut";
+var mnemonic = "hat swarm uncle tired scatter clip flight shoot fringe dry label lake";

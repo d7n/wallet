@@ -1,1 +1,1 @@
-var mnemonic = "color hood sugar pretty paddle pelican afraid secret online emerge winter fruit";
+var mnemonic = "tattoo reward spatial wink unlock island diary repeat will medal begin chief";

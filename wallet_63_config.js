@@ -1,1 +1,1 @@
-var mnemonic = "spatial few since fine what tortoise right lesson camera carpet burden follow";
+var mnemonic = "staff nest frog height trade zero another mother submit glue useful shaft";

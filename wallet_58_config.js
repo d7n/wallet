@@ -1,1 +1,1 @@
-var mnemonic = "glory symptom cover glory fragile chunk lobster aunt around neglect twenty bronze";
+var mnemonic = "depend crouch weather scissors orbit mimic venture ugly visa inside tag say";

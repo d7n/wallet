@@ -1,1 +1,1 @@
-var mnemonic = "such rally spoon either tooth unaware critic enroll electric trick right agree";
+var mnemonic = "tornado quality govern tomorrow caution ahead trust idea grid dog prosper gym";

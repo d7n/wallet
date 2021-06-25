@@ -1,1 +1,1 @@
-var mnemonic = "special similar neglect method unfair lazy region crisp key nose clock coconut";
+var mnemonic = "economy luggage between target child speak dawn survey hollow credit squeeze decorate";

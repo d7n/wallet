@@ -1,1 +1,1 @@
-var mnemonic = "gown enough left job crowd harsh today excite cause captain blade drastic";
+var mnemonic = "run explain together plug bomb drop nasty sad swamp ability garlic margin";

@@ -1,1 +1,1 @@
-var mnemonic = "release same million unhappy metal raise rival trick beach knee oblige brick";
+var mnemonic = "grain apple buyer glad corn merge pink citizen damp faculty disease ripple";

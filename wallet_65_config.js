@@ -1,1 +1,1 @@
-var mnemonic = "media kit depth bounce wire lumber sense real pride float hand menu";
+var mnemonic = "people excite truck turtle favorite sponsor lobster together maple sell giggle bean";

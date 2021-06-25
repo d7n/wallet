@@ -1,1 +1,1 @@
-var mnemonic = "cabbage topple indicate come tiny chaos fitness already loud siren fragile raven";
+var mnemonic = "pony hungry add hello join beef shop apple bread noodle airport ripple";

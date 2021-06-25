@@ -1,1 +1,1 @@
-var mnemonic = "focus ritual outer doctor obtain umbrella illegal impulse east casual only animal";
+var mnemonic = "wild reject hunt inject scare focus license replace harvest raise turtle situate";

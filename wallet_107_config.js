@@ -1,1 +1,1 @@
-var mnemonic = "cry assault tower invite visit ridge fitness repeat evil deposit area never";
+var mnemonic = "quiz nest jewel west acid exercise patch feed tape horn property season";

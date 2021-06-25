@@ -1,1 +1,1 @@
-var mnemonic = "garden convince cash vivid inmate enemy peanut click unveil dentist pencil coin";
+var mnemonic = "phone exercise mutual claim decorate pudding gold program filter match this horn";

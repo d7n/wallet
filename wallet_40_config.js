@@ -1,1 +1,1 @@
-var mnemonic = "town come chronic subway music limit peace pitch turtle ill gold gaze";
+var mnemonic = "control recipe install pulp whisper pupil broom salt wage vessel leader genre";
