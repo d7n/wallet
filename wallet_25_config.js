@@ -1,1 +1,1 @@
-var mnemonic = "wet imitate warrior apple nephew cat sail myself circle inject tornado climb";
+var mnemonic = "finger spoil road fun auto notice steak genius maid load truth elite";

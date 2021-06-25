@@ -1,1 +1,1 @@
-var mnemonic = "erase drum broom certain angry upon purchase auction aerobic fall proud walk";
+var mnemonic = "dish vehicle travel funny plate often cotton tent gorilla charge scan mass";

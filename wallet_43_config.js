@@ -1,1 +1,1 @@
-var mnemonic = "focus elegant front erosion wheel juice frozen type border weapon hold atom";
+var mnemonic = "rural pigeon fashion level cry loud juice coil script liar runway judge";

@@ -1,1 +1,1 @@
-var mnemonic = "math practice comfort weasel floor special diary list drop mule blanket crumble";
+var mnemonic = "excite web insane ability gown vintage puppy master ignore only party garbage";

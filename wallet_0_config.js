@@ -1,1 +1,1 @@
-var mnemonic = "juice spring base sight cattle umbrella fire child club rhythm audit length";
+var mnemonic = "fox farm project horror mention devote swallow flush book design lobster squeeze";

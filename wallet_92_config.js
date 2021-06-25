@@ -1,1 +1,1 @@
-var mnemonic = "crazy wet luxury hair toddler vacant ankle decline toilet bless wave assist";
+var mnemonic = "fence leopard core water march renew hollow theme twelve route appear hunt";

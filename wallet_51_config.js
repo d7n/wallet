@@ -1,1 +1,1 @@
-var mnemonic = "burst napkin joke flee cloud army menu large action radar guide neither";
+var mnemonic = "toddler garbage will fancy duty vapor juice float tuna among bundle inner";

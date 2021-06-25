@@ -1,1 +1,1 @@
-var mnemonic = "disease hybrid dice enjoy flame clerk end patient anxiety farm logic width";
+var mnemonic = "chase rescue belt two recipe blind also ladder dream hazard magnet main";

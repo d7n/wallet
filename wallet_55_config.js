@@ -1,1 +1,1 @@
-var mnemonic = "trash rabbit excuse wait bubble peace remove ladder edit auto oil raccoon";
+var mnemonic = "ice entire lobster off apple moral quiz fetch amateur body adult fashion";

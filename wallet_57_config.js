@@ -1,1 +1,1 @@
-var mnemonic = "gospel base keep armor decade monster deliver essay pelican lion dinosaur scan";
+var mnemonic = "wet drop love decorate genius foil focus piece miracle alert silly gate";

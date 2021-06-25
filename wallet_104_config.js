@@ -1,1 +1,1 @@
-var mnemonic = "spatial bleak increase banana sting scare first humor hidden nephew together spirit";
+var mnemonic = "much ten swamp copy barrel wage snap cigar rubber gown note spatial";

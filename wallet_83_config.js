@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon slab judge meadow sphere nut street pact mansion neutral tray vanish";
+var mnemonic = "person rule fence blind bounce nose quote wife desert eager rally asthma";

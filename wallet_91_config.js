@@ -1,1 +1,1 @@
-var mnemonic = "plastic apple feed attitude team project system scheme surge helmet uncle salmon";
+var mnemonic = "involve tip media task snake myth fish stairs warfare explain play canyon";

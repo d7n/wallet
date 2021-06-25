@@ -1,1 +1,1 @@
-var mnemonic = "sure decade dilemma curious entire result father square decorate depth ozone frequent";
+var mnemonic = "water figure tilt own control local noodle lady occur pride correct devote";

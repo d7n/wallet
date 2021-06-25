@@ -1,1 +1,1 @@
-var mnemonic = "little gorilla kiss tuna draw budget resource wealth shed peanut today foot";
+var mnemonic = "cost glove giant impose senior rose traffic maid away catalog latin joke";

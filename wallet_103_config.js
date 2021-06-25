@@ -1,1 +1,1 @@
-var mnemonic = "resist blind entire glow country hat pet retreat recycle service detect civil";
+var mnemonic = "debate split idea manual flavor vibrant cupboard core immune include leader chaos";

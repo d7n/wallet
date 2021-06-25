@@ -1,1 +1,1 @@
-var mnemonic = "nothing okay like unique key faculty sure mirror chief approve present almost";
+var mnemonic = "autumn theme funny know unlock battle jaguar fluid gorilla neck town scale";

@@ -1,1 +1,1 @@
-var mnemonic = "neutral proud modify great sustain pilot praise fruit angle render indoor original";
+var mnemonic = "then sing certain where gas eyebrow bottom tide boy blush power spy";

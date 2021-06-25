@@ -1,1 +1,1 @@
-var mnemonic = "razor season opera rocket vital fabric energy oak logic defense daughter fix";
+var mnemonic = "install purpose blur cloth park sing riot sing emerge say urban pretty";

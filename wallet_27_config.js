@@ -1,1 +1,1 @@
-var mnemonic = "need fancy sport badge zone hundred help hockey spell leaf hold hover";
+var mnemonic = "smile sign tone author light festival eye always aware pair work impose";

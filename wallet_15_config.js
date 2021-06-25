@@ -1,1 +1,1 @@
-var mnemonic = "cattle aware conduct cause scatter primary rent lake neck inside awful slow";
+var mnemonic = "radio more burger breeze brief brief depth wagon gown exotic danger fantasy";

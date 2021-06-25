@@ -1,1 +1,1 @@
-var mnemonic = "frost blue already ten wreck penalty topple later mouse enemy enroll submit";
+var mnemonic = "lyrics step nuclear inspire cousin stay tuition vendor drama laundry intact armor";

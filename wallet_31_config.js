@@ -1,1 +1,1 @@
-var mnemonic = "together fix swing warrior crush just offer verb gain tool apple capable";
+var mnemonic = "siren sense mother symbol nurse frown allow move gold merge furnace crazy";

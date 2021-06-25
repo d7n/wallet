@@ -1,1 +1,1 @@
-var mnemonic = "stable pipe cool episode swift farm used toy stove among raw foil";
+var mnemonic = "below pledge hero tilt aware test fine crawl goat insect consider pull";

@@ -1,1 +1,1 @@
-var mnemonic = "tunnel tragic scene nature ankle blind report recall spawn have inquiry switch";
+var mnemonic = "stuff dynamic galaxy gorilla narrow resource nation luxury benefit alley injury hole";

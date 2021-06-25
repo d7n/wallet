@@ -1,1 +1,1 @@
-var mnemonic = "way type audit aware vapor public grocery eyebrow tuna wood ostrich wheel";
+var mnemonic = "primary green liar goddess staff senior orphan resource actor update able hint";

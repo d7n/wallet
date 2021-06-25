@@ -1,1 +1,1 @@
-var mnemonic = "sort slogan phrase interest slam kite group valid volume globe harsh mango";
+var mnemonic = "over wool crush rib warfare sausage gift enforce orange admit bonus weapon";

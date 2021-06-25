@@ -1,1 +1,1 @@
-var mnemonic = "doll property certain kid mouse glare shift misery refuse design pitch glare";
+var mnemonic = "whisper wheel shell veteran hill farm tuition today tree lab summer canvas";

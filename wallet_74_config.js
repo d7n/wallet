@@ -1,1 +1,1 @@
-var mnemonic = "cup write duty empty armor gaze bird divorce isolate object repeat tip";
+var mnemonic = "inherit visual season return town reduce attend life debate cereal fiction noise";

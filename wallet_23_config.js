@@ -1,1 +1,1 @@
-var mnemonic = "liar scene absent connect wink regular cotton trial card input crash include";
+var mnemonic = "bargain upset decorate subway disorder escape room deposit steel student blast august";

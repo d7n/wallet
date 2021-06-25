@@ -1,1 +1,1 @@
-var mnemonic = "horror disagree fit little volcano economy husband team vague boring fence physical";
+var mnemonic = "season piano unveil hour include gentle attract hub exile myth rigid lobster";

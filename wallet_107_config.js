@@ -1,1 +1,1 @@
-var mnemonic = "matrix better crumble stone foil another crack come spoon obvious spread consider";
+var mnemonic = "sustain food foster grant lesson reward frequent cart town scrub range bean";

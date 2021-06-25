@@ -1,1 +1,1 @@
-var mnemonic = "tape foster pioneer wealth credit cage coral honey erosion alert include misery";
+var mnemonic = "field bench seek flush will blood pluck grant flip vocal liberty deposit";

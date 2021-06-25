@@ -1,1 +1,1 @@
-var mnemonic = "output exercise worry layer hurry race dragon glue fresh ready surface old";
+var mnemonic = "never suffer film museum dish avocado raw banner seven beef comfort vessel";

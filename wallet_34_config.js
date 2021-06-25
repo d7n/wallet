@@ -1,1 +1,1 @@
-var mnemonic = "artefact clutch animal left fabric crop please brief unlock zone about ability";
+var mnemonic = "disorder tuition volcano current accuse clump equal enter initial crater police room";

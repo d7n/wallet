@@ -1,1 +1,1 @@
-var mnemonic = "fabric peanut envelope tornado glow sheriff palm pudding advice isolate exhaust hurry";
+var mnemonic = "valid faith bomb crane require truly into ask attend garlic vital sort";

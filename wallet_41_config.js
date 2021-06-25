@@ -1,1 +1,1 @@
-var mnemonic = "nation unable certain neutral tooth soft inherit gauge oval tortoise outer zoo";
+var mnemonic = "unit eye weasel wing pen minimum analyst lava debate whale erase detect";

@@ -1,1 +1,1 @@
-var mnemonic = "hole advice poem breeze match primary stick surge logic grab wage green";
+var mnemonic = "decade smooth champion uniform february federal mass bone raise east opera urban";

@@ -1,1 +1,1 @@
-var mnemonic = "sweet hurdle beauty tag solution guilt pair walnut crumble kid million fresh";
+var mnemonic = "gospel step soda antenna giggle quantum purse model guitar noble tape earth";

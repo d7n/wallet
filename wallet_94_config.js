@@ -1,1 +1,1 @@
-var mnemonic = "poet life hip claim boring crumble since stage rural suspect display flip";
+var mnemonic = "above wing alter anxiety property knife tide orchard snow mass advance material";

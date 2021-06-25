@@ -1,1 +1,1 @@
-var mnemonic = "marriage speak regret math favorite safe palm parent unlock people brass ketchup";
+var mnemonic = "screen chimney fog need universe volume arrest maid absurd unfold example decline";

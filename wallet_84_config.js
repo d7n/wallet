@@ -1,1 +1,1 @@
-var mnemonic = "ship shell salad offer city erosion erode plug wise march rifle cruise";
+var mnemonic = "stamp payment pumpkin panther stove drink monkey bench art liquid mango electric";

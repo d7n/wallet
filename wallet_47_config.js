@@ -1,1 +1,1 @@
-var mnemonic = "hurry abuse express mule sausage share figure blossom lawn color jealous pattern";
+var mnemonic = "work junk movie roast burger power scorpion pulp valid tornado chest churn";

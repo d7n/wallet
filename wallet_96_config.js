@@ -1,1 +1,1 @@
-var mnemonic = "odor kiwi admit slide camera mask two where lava leave ketchup steak";
+var mnemonic = "report correct physical entire theory repair couch vanish rebel boil danger just";

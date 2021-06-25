@@ -1,1 +1,1 @@
-var mnemonic = "mad marine leisure hope pupil crowd family ripple relax round dinner wealth";
+var mnemonic = "sample eagle soon paper wood plate robust kitten truck force neither goose";

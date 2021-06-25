@@ -1,1 +1,1 @@
-var mnemonic = "stable cancel afford kangaroo actual inmate upgrade devote artist describe way smoke";
+var mnemonic = "usage embark fortune public milk before violin wisdom dwarf swift they normal";

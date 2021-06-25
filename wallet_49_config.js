@@ -1,1 +1,1 @@
-var mnemonic = "great truth short wing museum marble magic rate ethics ask chief aspect";
+var mnemonic = "history truck infant travel burden purchase time moon ecology baby asthma arrange";

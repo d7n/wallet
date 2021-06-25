@@ -1,1 +1,1 @@
-var mnemonic = "rotate love donor glass recipe system world fat culture often input sun";
+var mnemonic = "round claw slush cotton attack brain rebel truth miracle year hole there";

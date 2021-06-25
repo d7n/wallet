@@ -1,1 +1,1 @@
-var mnemonic = "collect guess bird gain media make bone picnic one suffer grab prefer";
+var mnemonic = "tumble you strong wine digital vault cash urge pull alone replace comfort";

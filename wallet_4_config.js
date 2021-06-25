@@ -1,1 +1,1 @@
-var mnemonic = "warrior foil number worth crash blast ghost annual brief tree trial nature";
+var mnemonic = "soap trigger dynamic tilt jeans six prefer picnic tower exchange churn actual";

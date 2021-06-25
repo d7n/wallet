@@ -1,1 +1,1 @@
-var mnemonic = "outside kit card bridge gate sniff hurdle wild stove inch around twice";
+var mnemonic = "captain size eternal salute dignity target student capable hole search law bronze";

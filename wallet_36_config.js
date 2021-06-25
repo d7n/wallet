@@ -1,1 +1,1 @@
-var mnemonic = "mystery upon flee tiny protect cup ginger connect order pet prize patrol";
+var mnemonic = "tuna file coffee cruel moment eye pistol away soldier curtain bag dilemma";

@@ -1,1 +1,1 @@
-var mnemonic = "seek yellow script key lake airport gaze gauge hello ability visa dentist";
+var mnemonic = "pact execute address grace skull school stomach pool lottery erase chair welcome";

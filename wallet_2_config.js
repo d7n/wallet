@@ -1,1 +1,1 @@
-var mnemonic = "disagree fiber spoil result cliff flock today skill bean equip subject auction";
+var mnemonic = "mutual legend safe eyebrow climb lizard avocado bid illness weird dwarf shiver";

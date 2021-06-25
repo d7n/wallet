@@ -1,1 +1,1 @@
-var mnemonic = "among vault used idea wink smart cost fabric smooth tip crime dash";
+var mnemonic = "life twenty ozone subway valley unknown word nose truck sort interest radio";

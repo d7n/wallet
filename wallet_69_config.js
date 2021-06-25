@@ -1,1 +1,1 @@
-var mnemonic = "paper check hill tornado amused velvet occur winter nation resist figure smile";
+var mnemonic = "ability jealous camp album alert code shoot prize rescue ski pioneer marriage";

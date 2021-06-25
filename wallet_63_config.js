@@ -1,1 +1,1 @@
-var mnemonic = "axis sail saddle vessel scrub cancel sorry bottom race twist alcohol all";
+var mnemonic = "genuine fortune asset initial joy sibling intact light then actress coyote culture";

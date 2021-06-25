@@ -1,1 +1,1 @@
-var mnemonic = "equip buyer kiwi chief cost runway thumb half embark blush used then";
+var mnemonic = "husband airport coach lizard brief unfold mistake error select fitness lounge kiwi";

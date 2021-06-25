@@ -1,1 +1,1 @@
-var mnemonic = "scan guard divide alert flash dress bridge pelican portion air universe undo";
+var mnemonic = "point harvest below actual safe vacant debate blush grocery observe today inspire";

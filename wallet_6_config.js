@@ -1,1 +1,1 @@
-var mnemonic = "hard hollow famous name total bitter rack neglect true lady chaos wire";
+var mnemonic = "ghost parent grab few brand sense ozone educate coil leg angle pioneer";

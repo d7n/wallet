@@ -1,1 +1,1 @@
-var mnemonic = "immune treat slight female cheap process behind rather stamp pill engage praise";
+var mnemonic = "junior level wrestle vintage burst awesome tornado person glance auction tube federal";

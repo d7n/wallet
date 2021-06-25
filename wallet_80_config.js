@@ -1,1 +1,1 @@
-var mnemonic = "settle rally cable involve behind exact address season mansion harsh grocery ship";
+var mnemonic = "enroll oak method excite best tuition hour gas outer drift dawn aisle";

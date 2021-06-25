@@ -1,1 +1,1 @@
-var mnemonic = "jacket example upgrade armor broken luggage diagram antenna believe critic cotton burger";
+var mnemonic = "badge area clarify noble also tooth cruel major pair lizard legend gentle";

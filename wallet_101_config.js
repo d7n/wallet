@@ -1,1 +1,1 @@
-var mnemonic = "outer bullet almost wide tone file cement when shove twelve primary trophy";
+var mnemonic = "rapid place debate bird atom win paddle together mention core tooth unfair";

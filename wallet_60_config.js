@@ -1,1 +1,1 @@
-var mnemonic = "patrol skin endorse first width elephant moon galaxy penalty trim crime interest";
+var mnemonic = "spend accuse sand assist ankle rapid draft animal vapor setup retire gorilla";

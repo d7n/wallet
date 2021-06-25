@@ -1,1 +1,1 @@
-var mnemonic = "moment company chest song replace dismiss fork rookie hip bone flat swift";
+var mnemonic = "dream divert shoot speed grit tower fiction spend address enact enhance honey";

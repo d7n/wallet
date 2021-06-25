@@ -1,1 +1,1 @@
-var mnemonic = "banner unable crouch visa idle erase noble spare opera various matter proof";
+var mnemonic = "resemble position ankle tiny ranch client breeze rural nurse play prepare fruit";

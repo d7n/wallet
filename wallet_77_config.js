@@ -1,1 +1,1 @@
-var mnemonic = "claim syrup wagon spread escape dragon found disorder chicken color quick crisp";
+var mnemonic = "perfect pudding fee fabric raise able artefact genius surface high elevator frown";

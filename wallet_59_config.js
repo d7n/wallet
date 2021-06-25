@@ -1,1 +1,1 @@
-var mnemonic = "deal term into broccoli ranch cash hurt wonder energy switch render home";
+var mnemonic = "someone bike fly brown thrive combine mesh mule nature nasty media unlock";

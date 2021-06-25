@@ -1,1 +1,1 @@
-var mnemonic = "situate cable prison enroll dice table uncle monster need dolphin logic clown";
+var mnemonic = "airport draft truth arena entire solution pumpkin buffalo afraid farm avocado capital";

@@ -1,1 +1,1 @@
-var mnemonic = "enforce isolate motor august absurd animal nuclear lion off spawn sight scout";
+var mnemonic = "card list tennis adjust damp clinic battle shoe table volcano mirror head";

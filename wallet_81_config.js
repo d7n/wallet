@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur behave oak drive fuel code model position erupt still across drastic";
+var mnemonic = "visual must burst creek acquire artefact naive wink spawn stomach kiss defense";

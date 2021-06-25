@@ -1,1 +1,1 @@
-var mnemonic = "mountain hard stairs rocket scale drill card almost first gentle tube concert";
+var mnemonic = "absurd slam dust soon solid ability sibling tell list runway shrimp clump";

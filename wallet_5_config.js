@@ -1,1 +1,1 @@
-var mnemonic = "flash upset tongue coast paper brain potato fever pilot luxury unable poverty";
+var mnemonic = "exhibit access old gesture layer until setup stadium flee lazy direct strong";

@@ -1,1 +1,1 @@
-var mnemonic = "summer rule borrow walnut hotel trick trip country appear hope crouch end";
+var mnemonic = "chaos visual maximum atom leg ethics fitness april rough relax volcano party";

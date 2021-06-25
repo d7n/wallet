@@ -1,1 +1,1 @@
-var mnemonic = "desk possible where august next address cancel evidence naive update fine sentence";
+var mnemonic = "blue blast pizza exact humble flock gaze initial spice mixed brief vanish";

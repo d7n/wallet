@@ -1,1 +1,1 @@
-var mnemonic = "process globe perfect pupil economy bargain jealous giraffe nut slight burger prize";
+var mnemonic = "lizard donor wine short sausage wood subway quality virtual ceiling cotton insect";

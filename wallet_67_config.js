@@ -1,1 +1,1 @@
-var mnemonic = "hurdle resemble verb panic upset term cricket zone marble smooth patient upper";
+var mnemonic = "must sketch churn skull small bus goddess hammer direct napkin render inquiry";

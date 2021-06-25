@@ -1,1 +1,1 @@
-var mnemonic = "viable honey smoke mixture reopen space warfare web tourist grocery giant spend";
+var mnemonic = "wing unaware aim trophy festival umbrella learn stadium lady silk blue mass";

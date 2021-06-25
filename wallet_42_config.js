@@ -1,1 +1,1 @@
-var mnemonic = "economy pottery armor practice control mother around achieve offer gather soap quote";
+var mnemonic = "vivid rotate sting treat kit tree robust wagon hand deer idea math";

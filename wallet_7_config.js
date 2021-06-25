@@ -1,1 +1,1 @@
-var mnemonic = "excite panda ostrich exact must wear tuna guide novel awful camera horn";
+var mnemonic = "music indicate quick front shrug fat resemble ladder twenty faith enough secret";

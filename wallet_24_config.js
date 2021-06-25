@@ -1,1 +1,1 @@
-var mnemonic = "theme attack picnic next reject dragon kite enroll vendor process gallery tell";
+var mnemonic = "source swing dismiss fetch club skin video toy educate limit green avocado";

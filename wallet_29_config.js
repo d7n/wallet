@@ -1,1 +1,1 @@
-var mnemonic = "silver hip ten quarter dwarf tomorrow friend grit manual car answer square";
+var mnemonic = "journey excite skull invest parent shield ski pulse false consider cool liberty";
