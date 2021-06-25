@@ -1,1 +1,1 @@
-var mnemonic = "maximum expire tourist manual math sort start broccoli coconut artwork neck diesel";
+var mnemonic = "ship raise teach viable crunch cheese other thumb palm add screen mad";

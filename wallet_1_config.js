@@ -1,1 +1,1 @@
-var mnemonic = "emotion object another marble solve will opinion flag waste pluck mask dust";
+var mnemonic = "oak inch tip noble demise view essence trip muffin truck siege patient";

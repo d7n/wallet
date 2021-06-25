@@ -1,1 +1,1 @@
-var mnemonic = "actor blade step give smooth weird life tennis food eternal era swear";
+var mnemonic = "often figure angry antenna foil steel monkey estate mushroom popular focus wrestle";

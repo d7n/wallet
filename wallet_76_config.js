@@ -1,1 +1,1 @@
-var mnemonic = "left welcome warrior fiscal bind walnut scatter video medal lava laugh disease";
+var mnemonic = "banner leaf cherry rebuild smoke impulse immune disagree language above essence crawl";

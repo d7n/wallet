@@ -1,1 +1,1 @@
-var mnemonic = "random current axis long miss claim menu boost smoke frog polar link";
+var mnemonic = "gadget embrace clump viable hunt once birth tornado trip nest tomato describe";

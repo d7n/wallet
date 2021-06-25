@@ -1,1 +1,1 @@
-var mnemonic = "leaf tide basic arch test isolate stone plunge suggest scissors move fruit";
+var mnemonic = "educate fury earth moon random lounge diary notice vintage fire depart gift";

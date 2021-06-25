@@ -1,1 +1,1 @@
-var mnemonic = "muscle elephant stamp stock melt silk coffee agent copper jazz skin type";
+var mnemonic = "patrol drum entire hurdle settle category consider range ordinary parent timber thunder";

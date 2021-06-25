@@ -1,1 +1,1 @@
-var mnemonic = "nephew drip forget broccoli issue direct sense rough olive box hen luxury";
+var mnemonic = "inquiry acquire spirit end waste length cactus plunge squirrel snow story review";

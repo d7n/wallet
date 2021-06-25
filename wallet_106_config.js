@@ -1,1 +1,1 @@
-var mnemonic = "multiply increase focus piano pilot fly disease ginger warrior mule fetch cause";
+var mnemonic = "worry bread table brick notable can umbrella charge grit laptop doctor lady";

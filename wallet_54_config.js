@@ -1,1 +1,1 @@
-var mnemonic = "coin obvious merit initial aunt disorder brown achieve valve club bitter toy";
+var mnemonic = "spell happy pear truck coconut ostrich sun intact car general theme soon";

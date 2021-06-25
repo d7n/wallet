@@ -1,1 +1,1 @@
-var mnemonic = "front slide loud grow remain glance cash laptop later disorder flush secret";
+var mnemonic = "call control evil box gap surprise romance tragic runway mutual kiss cancel";

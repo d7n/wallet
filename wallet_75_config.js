@@ -1,1 +1,1 @@
-var mnemonic = "elevator income funny obtain rocket rent allow glance tomato usage bundle music";
+var mnemonic = "crucial hint announce puppy warrior accuse engage snap learn tell category notice";

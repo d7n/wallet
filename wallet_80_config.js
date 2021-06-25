@@ -1,1 +1,1 @@
-var mnemonic = "ride coach industry chapter vacuum regret visual female avoid reflect age dumb";
+var mnemonic = "inmate defense hundred duty cargo attract message artefact obtain pulse drill valley";

@@ -1,1 +1,1 @@
-var mnemonic = "among now cross more hand extra aisle budget scout almost camera extend";
+var mnemonic = "pioneer daughter nasty shoot pave owner goose night banner ostrich blind umbrella";

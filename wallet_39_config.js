@@ -1,1 +1,1 @@
-var mnemonic = "equal siren achieve theory culture rather iron notice note ancient grab obtain";
+var mnemonic = "replace equip empower very ordinary squeeze debate under million afford gauge dance";

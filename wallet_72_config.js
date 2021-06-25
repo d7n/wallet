@@ -1,1 +1,1 @@
-var mnemonic = "casual prosper door lake tomato use mad history cash genuine sweet define";
+var mnemonic = "used book trap forget soda plastic cricket jaguar airport famous young oyster";

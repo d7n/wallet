@@ -1,1 +1,1 @@
-var mnemonic = "snow object shuffle verify nasty result pilot expire guilt nothing lottery sport";
+var mnemonic = "kind ghost infant return miss robust install damage maximum dance elder canoe";

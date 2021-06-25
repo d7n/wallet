@@ -1,1 +1,1 @@
-var mnemonic = "skill labor shine draw exit result gauge faint sunset cinnamon next impact";
+var mnemonic = "token walnut car whip differ orange antenna disease deliver throw caution spawn";

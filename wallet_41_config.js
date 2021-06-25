@@ -1,1 +1,1 @@
-var mnemonic = "length sleep offer unfold lawsuit bring tilt pitch addict okay burden final";
+var mnemonic = "risk metal beef spare canal apology universe arrive minor window crazy unique";

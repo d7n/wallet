@@ -1,1 +1,1 @@
-var mnemonic = "patch wire size tumble magnet brief enjoy office taste raccoon click mad";
+var mnemonic = "almost garbage suspect pulse girl gas destroy diet minor antenna marble suspect";

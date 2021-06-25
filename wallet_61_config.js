@@ -1,1 +1,1 @@
-var mnemonic = "since boost senior soul solid yellow thought ten twin duty warrior question";
+var mnemonic = "hint organ arctic leave gold stem talent process phone swap extend best";

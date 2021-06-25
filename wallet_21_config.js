@@ -1,1 +1,1 @@
-var mnemonic = "egg into dust junk code coin mouse seed strategy black address february";
+var mnemonic = "rebel drop cabin abandon soda behave play viable shoe wrist grief when";

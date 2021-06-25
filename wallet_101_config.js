@@ -1,1 +1,1 @@
-var mnemonic = "gather coyote use warm glide panel poet bench digital shed change proud";
+var mnemonic = "mobile guitar dad trim width identify number invest hedgehog online knife erosion";

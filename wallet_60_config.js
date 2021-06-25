@@ -1,1 +1,1 @@
-var mnemonic = "rival build popular sock kidney pig share hood bulb empty unique ancient";
+var mnemonic = "approve extend twist mule end vehicle reason saddle glance grace exact focus";

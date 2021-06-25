@@ -1,1 +1,1 @@
-var mnemonic = "ring used load cabbage alone century deliver electric river crazy math maple";
+var mnemonic = "jacket gate absorb rule bounce update nation chest ancient gloom minimum song";

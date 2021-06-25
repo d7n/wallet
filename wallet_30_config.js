@@ -1,1 +1,1 @@
-var mnemonic = "grunt tobacco fluid knock peasant result amused close battle select baby movie";
+var mnemonic = "mutual valley ability fluid member alley hurry lizard inquiry zoo critic hotel";

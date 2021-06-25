@@ -1,1 +1,1 @@
-var mnemonic = "message any forward story page dove silly avoid detect benefit prize chicken";
+var mnemonic = "beef bread vacuum try trip swim wreck people true crane eternal flash";

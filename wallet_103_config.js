@@ -1,1 +1,1 @@
-var mnemonic = "tower volcano prefer mail script like member tag mountain truth pink stock";
+var mnemonic = "wave federal edge already limit online wave safe treat knee long sample";

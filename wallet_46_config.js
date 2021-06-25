@@ -1,1 +1,1 @@
-var mnemonic = "cash slush meadow box save ozone hurt afford mask fruit bounce shock";
+var mnemonic = "damp since margin forum swap you detail net movie reform lyrics just";

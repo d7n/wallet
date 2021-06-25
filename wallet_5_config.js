@@ -1,1 +1,1 @@
-var mnemonic = "lizard solution until digital fashion confirm unhappy eager type ceiling giggle hill";
+var mnemonic = "august away execute dinner furnace figure orphan rail destroy program grab brass";

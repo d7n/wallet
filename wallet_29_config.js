@@ -1,1 +1,1 @@
-var mnemonic = "know actual deer inch infant deliver exotic match depth seat lonely surge";
+var mnemonic = "cool give zebra rule void steak jelly scissors bicycle picnic fringe hurry";

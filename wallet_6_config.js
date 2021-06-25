@@ -1,1 +1,1 @@
-var mnemonic = "luggage snake essence law you vague lake bird blood crane hole market";
+var mnemonic = "humor under library nose hybrid section exchange carry gasp sentence enroll hard";

@@ -1,1 +1,1 @@
-var mnemonic = "actress lesson blame youth chronic napkin cup husband bottom aisle cruise crack";
+var mnemonic = "bundle slab common latin produce mind battle coast worth crop lock mountain";

@@ -1,1 +1,1 @@
-var mnemonic = "used vessel road oven series enjoy six mountain brave fluid school make";
+var mnemonic = "half dutch mercy rely olympic fashion fog thumb stick talent blast release";

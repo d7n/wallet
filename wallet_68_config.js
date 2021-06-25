@@ -1,1 +1,1 @@
-var mnemonic = "spray hold movie adult decline pyramid same pact fence alley apart they";
+var mnemonic = "initial deal bring shoe ancient degree enter animal shoulder air unable stable";

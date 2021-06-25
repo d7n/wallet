@@ -1,1 +1,1 @@
-var mnemonic = "long hamster snow river reject engage warm mystery wedding license inhale punch";
+var mnemonic = "duty orange day alert brief citizen crash ticket business silver entry angry";

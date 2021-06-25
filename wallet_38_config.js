@@ -1,1 +1,1 @@
-var mnemonic = "such wagon profit erupt steak multiply foam flavor fox round express husband";
+var mnemonic = "order garlic swarm long blood enjoy have logic sail odor drama climb";

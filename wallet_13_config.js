@@ -1,1 +1,1 @@
-var mnemonic = "addict lazy galaxy sausage accuse snake gift situate useless outer ski island";
+var mnemonic = "future oblige gap mushroom sell hamster maid glide marriage bamboo behind tube";

@@ -1,1 +1,1 @@
-var mnemonic = "dial field clean salmon skate hair flip valve level term gentle public";
+var mnemonic = "volume wave tilt quiz spider erosion female boil clap weapon teach ten";

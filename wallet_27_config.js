@@ -1,1 +1,1 @@
-var mnemonic = "regret pill drop rookie mass magnet piano pill vivid grape spider receive";
+var mnemonic = "slab fit change special narrow peasant ecology scout tenant help armor brand";

@@ -1,1 +1,1 @@
-var mnemonic = "improve rookie truly village range mail tank excess amused guard ozone stairs";
+var mnemonic = "hunt cable evolve shoe tent live bottom modify congress process differ moon";

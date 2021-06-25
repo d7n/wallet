@@ -1,1 +1,1 @@
-var mnemonic = "bus release cinnamon midnight dizzy maid horse document stomach birth dignity cross";
+var mnemonic = "armor worth shallow spike budget obvious anger oblige genre erosion enlist garment";

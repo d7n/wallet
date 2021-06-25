@@ -1,1 +1,1 @@
-var mnemonic = "away hungry hockey coin neutral fall farm that elite caught april minor";
+var mnemonic = "drum affair burst cargo nothing swarm near just bonus setup mixed tribe";

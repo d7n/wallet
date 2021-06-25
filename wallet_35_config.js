@@ -1,1 +1,1 @@
-var mnemonic = "execute wheel such drum family large anxiety slight beauty wink average spoil";
+var mnemonic = "replace decrease over jeans debate erupt where suffer lab canal bone innocent";

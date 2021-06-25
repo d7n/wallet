@@ -1,1 +1,1 @@
-var mnemonic = "copy train autumn farm crop buddy spider pelican other rack catch apart";
+var mnemonic = "marble utility sick eagle unique mechanic float inherit conduct involve such limit";

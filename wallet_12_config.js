@@ -1,1 +1,1 @@
-var mnemonic = "tissue soldier major mention wire asthma leaf hockey erosion they palace off";
+var mnemonic = "melody shiver old bonus antenna huge utility club position hollow chunk apart";

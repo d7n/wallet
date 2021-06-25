@@ -1,1 +1,1 @@
-var mnemonic = "chimney monster lady segment away fog bomb donkey distance poem laugh denial";
+var mnemonic = "category gym confirm ride weekend core need young better panda gravity buffalo";

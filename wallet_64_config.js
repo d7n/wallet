@@ -1,1 +1,1 @@
-var mnemonic = "bitter glue beach whisper few replace talk wild cry pelican poet mask";
+var mnemonic = "split yellow lunch twelve reflect shaft dwarf state blanket fuel end sure";

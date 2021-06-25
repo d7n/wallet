@@ -1,1 +1,1 @@
-var mnemonic = "donkey confirm sauce reason robust prevent waste method symptom chest mask error";
+var mnemonic = "civil announce brave volcano march arrange avocado call disease knee flip filter";

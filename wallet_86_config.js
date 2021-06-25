@@ -1,1 +1,1 @@
-var mnemonic = "blame fossil liberty luggage quality piano viable host walk purpose young injury";
+var mnemonic = "ahead actress dismiss broccoli defy project lobster leg ski dynamic guide asthma";

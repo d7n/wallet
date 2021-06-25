@@ -1,1 +1,1 @@
-var mnemonic = "segment disorder rubber maze coffee must video forget stamp agree fame patrol";
+var mnemonic = "churn baby stock throw broken pool merit increase opera enough become enact";

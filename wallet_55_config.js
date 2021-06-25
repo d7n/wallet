@@ -1,1 +1,1 @@
-var mnemonic = "spy rotate choose frequent parent unveil outer view warrior invest much young";
+var mnemonic = "inside leopard decide girl engage shiver glimpse still couch private apology key";

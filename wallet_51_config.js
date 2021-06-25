@@ -1,1 +1,1 @@
-var mnemonic = "napkin dignity regular tenant final fantasy police avocado same inhale loop glass";
+var mnemonic = "maid behind domain volume love movie coconut merge expand fluid spice inch";

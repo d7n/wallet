@@ -1,1 +1,1 @@
-var mnemonic = "already endorse holiday rocket orient table custom goose lunar edit enjoy anxiety";
+var mnemonic = "frozen verb arctic shift option interest donkey push fashion once peasant stadium";

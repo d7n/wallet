@@ -1,1 +1,1 @@
-var mnemonic = "hazard unknown silk team nose lunar corn occur coach memory deer opera";
+var mnemonic = "time surface beef police reopen inside camera remind prepare law spot worry";

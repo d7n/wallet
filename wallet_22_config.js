@@ -1,1 +1,1 @@
-var mnemonic = "ring upon shift bulb bulb bring recipe cool surge gravity clerk offer";
+var mnemonic = "valid deal unknown model silly frequent sword person oblige dice know vicious";

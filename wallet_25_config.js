@@ -1,1 +1,1 @@
-var mnemonic = "ripple journey pattern clown park tennis unknown laundry teach dial sell senior";
+var mnemonic = "shove feel open grape grain term intact usual man tongue endorse satisfy";

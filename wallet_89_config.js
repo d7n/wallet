@@ -1,1 +1,1 @@
-var mnemonic = "gorilla stuff young valley wonder magnet nose nut solar lunar anxiety mean";
+var mnemonic = "taxi taste dismiss blush ahead giraffe develop veteran angle ball sibling soda";

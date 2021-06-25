@@ -1,1 +1,1 @@
-var mnemonic = "victory light bid hour kid tell because lazy call squirrel century exit";
+var mnemonic = "tooth increase absent fan find firm vessel pattern hub reform dirt corn";

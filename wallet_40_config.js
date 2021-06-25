@@ -1,1 +1,1 @@
-var mnemonic = "lazy faculty chunk naive elbow walk social black such blouse top cargo";
+var mnemonic = "cattle round tourist drift weird uncle expand honey fantasy strong dance celery";

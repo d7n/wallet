@@ -1,1 +1,1 @@
-var mnemonic = "faith sock smart cricket bacon roof wagon venture erosion upgrade crumble meat";
+var mnemonic = "hair hybrid museum lounge void position payment face blind bring circle sun";

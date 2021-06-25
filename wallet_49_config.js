@@ -1,1 +1,1 @@
-var mnemonic = "spice blouse ghost inspire brass become believe lesson grocery keep shell absorb";
+var mnemonic = "home egg hill thumb spare junior become snow candy grid win despair";

@@ -1,1 +1,1 @@
-var mnemonic = "bargain sight gospel reason sustain leg idea piece kidney rotate valve render";
+var mnemonic = "risk green thrive effort boat distance act volume lawn put connect gesture";

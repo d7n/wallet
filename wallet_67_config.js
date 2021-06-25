@@ -1,1 +1,1 @@
-var mnemonic = "emerge casual live neutral muscle match south height cheap special tray travel";
+var mnemonic = "thrive danger wash device faint hair drop gate laptop pause inform exotic";

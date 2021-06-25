@@ -1,1 +1,1 @@
-var mnemonic = "fiscal mutual correct razor table snake tortoise net toe predict spatial soon";
+var mnemonic = "bean coyote reunion dog snap essay mule fruit fortune loud wheel rally";

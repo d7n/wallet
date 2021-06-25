@@ -1,1 +1,1 @@
-var mnemonic = "habit night fiction draft great bar range thank doll annual note hat";
+var mnemonic = "focus strategy onion apple mosquito reunion ticket brush awful corn prepare whisper";

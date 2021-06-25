@@ -1,1 +1,1 @@
-var mnemonic = "vapor gospel cup reduce sting poet mesh memory galaxy skirt later bench";
+var mnemonic = "open frown panel same oppose glad road rubber bachelor goddess latin suggest";

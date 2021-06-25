@@ -1,1 +1,1 @@
-var mnemonic = "pluck drift antenna dust draft enlist cook taste tonight empower tip extend";
+var mnemonic = "fever trash genuine nasty bracket win side quarter give catch retire bonus";

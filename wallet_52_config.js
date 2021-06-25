@@ -1,1 +1,1 @@
-var mnemonic = "recall salmon rather fury fragile desert voyage gym drip coral charge nerve";
+var mnemonic = "budget shoe fun false thumb cash impulse laundry hat believe still pair";

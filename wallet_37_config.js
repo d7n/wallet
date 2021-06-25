@@ -1,1 +1,1 @@
-var mnemonic = "settle kind side school lobster tooth mosquito bargain record easy winner rescue";
+var mnemonic = "endless else plug mule meadow dwarf pond prosper fuel bamboo shiver galaxy";

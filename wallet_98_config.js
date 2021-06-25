@@ -1,1 +1,1 @@
-var mnemonic = "dentist rival corn predict shine color open tragic little knife mandate sell";
+var mnemonic = "together recipe bunker pledge task path day glide skill sadness govern ketchup";

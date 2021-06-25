@@ -1,1 +1,1 @@
-var mnemonic = "weather buyer stereo record erosion clerk unfair old panther curious cram celery";
+var mnemonic = "illness august urge siege icon apology response visa range tent melody discover";

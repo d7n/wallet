@@ -1,1 +1,1 @@
-var mnemonic = "gap elephant perfect wet fluid utility culture auction income camp gesture regret";
+var mnemonic = "execute check betray fork open antique long shiver alone cruise large boat";

@@ -1,1 +1,1 @@
-var mnemonic = "across vanish great plug couple piece snow inject clinic alley act black";
+var mnemonic = "crane camera ahead digital raise flat scissors biology camera live exchange east";

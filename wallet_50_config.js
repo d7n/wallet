@@ -1,1 +1,1 @@
-var mnemonic = "uncover family birth pave brain trend family case very setup round couch";
+var mnemonic = "green response exhaust dutch disease wisdom net leg orange soldier define giraffe";

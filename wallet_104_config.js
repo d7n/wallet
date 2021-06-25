@@ -1,1 +1,1 @@
-var mnemonic = "ugly leg wonder master luxury nest liar scare off lecture runway unfair";
+var mnemonic = "vacant route message vague museum bus easily genius pig spawn erupt venue";

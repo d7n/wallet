@@ -1,1 +1,1 @@
-var mnemonic = "scare chest repair carpet reason moment fragile spoon devote solid modify nice";
+var mnemonic = "sugar measure riot depend marriage animal uphold twice agent increase next blame";

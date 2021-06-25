@@ -1,1 +1,1 @@
-var mnemonic = "wife before seven infant trouble pelican daring peanut system tower over enroll";
+var mnemonic = "tongue seven fortune smart discover camera seat mountain juice raven chair choice";

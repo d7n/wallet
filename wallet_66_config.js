@@ -1,1 +1,1 @@
-var mnemonic = "today also desk behind film rhythm gorilla salute voice armed voyage embark";
+var mnemonic = "verify wrist liquid cupboard sea blouse dirt wall damp garden donate quit";

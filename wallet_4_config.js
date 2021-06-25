@@ -1,1 +1,1 @@
-var mnemonic = "hotel speed envelope shrimp reason universe country glass outside hill cry kingdom";
+var mnemonic = "lava topple common thing damage already parrot fury elder leave innocent frost";

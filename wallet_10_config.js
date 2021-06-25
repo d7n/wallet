@@ -1,1 +1,1 @@
-var mnemonic = "hamster random blanket fall gospel tiger charge room into identify recall chronic";
+var mnemonic = "confirm taxi script element lumber satisfy phone orange club asthma exile history";

@@ -1,1 +1,1 @@
-var mnemonic = "resemble coral ribbon battle table battle sniff night border ship suspect suggest";
+var mnemonic = "garment forest action hint hotel find silk chef pencil learn cause also";

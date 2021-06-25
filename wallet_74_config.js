@@ -1,1 +1,1 @@
-var mnemonic = "belt spider fashion bike kiwi symbol melt inject excite good feel retreat";
+var mnemonic = "lemon warrior lab oxygen myself latin caution cake move reunion flush short";

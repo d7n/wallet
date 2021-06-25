@@ -1,1 +1,1 @@
-var mnemonic = "stereo key dwarf turn ozone man fever miss jungle conduct match anxiety";
+var mnemonic = "clutch coast ticket laundry birth combine decide kingdom rigid amount essay autumn";

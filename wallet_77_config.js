@@ -1,1 +1,1 @@
-var mnemonic = "produce umbrella trash unveil push liberty expect fury indoor envelope chimney mix";
+var mnemonic = "unique almost oak tumble note oxygen iron apple stage oyster conduct demand";

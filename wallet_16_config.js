@@ -1,1 +1,1 @@
-var mnemonic = "grocery comfort knee spot tray elite noise nature limb butter grab machine";
+var mnemonic = "pave paddle income unlock risk palace pen gas undo apart pottery loud";

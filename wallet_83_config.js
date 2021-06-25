@@ -1,1 +1,1 @@
-var mnemonic = "salon milk venue half ahead air pattern sponsor bench survey inquiry behave";
+var mnemonic = "page pact try birth link frown kitten habit alien fade name industry";

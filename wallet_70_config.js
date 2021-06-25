@@ -1,1 +1,1 @@
-var mnemonic = "sail jaguar kiss cactus much weekend increase rude jealous innocent rural marble";
+var mnemonic = "scheme gallery army provide beach forum current fan outer spoon tooth cheese";

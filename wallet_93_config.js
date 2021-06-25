@@ -1,1 +1,1 @@
-var mnemonic = "burger patient rough school nasty source route fruit certain gate plastic syrup";
+var mnemonic = "theme swallow similar mango check clock engage foster eight equip hello wagon";

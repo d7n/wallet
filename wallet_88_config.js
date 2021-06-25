@@ -1,1 +1,1 @@
-var mnemonic = "age element toy uphold clip across mean clever behave put female endless";
+var mnemonic = "mandate enact grief absent person rail drift gas whale tent lumber alert";

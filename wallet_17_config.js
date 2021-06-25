@@ -1,1 +1,1 @@
-var mnemonic = "please cancel leader battle repeat prosper come balance truck initial believe brave";
+var mnemonic = "firm hundred water gospel frog thing crawl civil icon spice view change";

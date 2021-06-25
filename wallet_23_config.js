@@ -1,1 +1,1 @@
-var mnemonic = "special upgrade alert between normal final cross oval nominee brass increase emotion";
+var mnemonic = "arctic write accuse autumn sand sunny young female bag traffic find book";

@@ -1,1 +1,1 @@
-var mnemonic = "flock piece flame genius punch furnace pattern depend movie crash caution true";
+var mnemonic = "fantasy tribe pet shell video glad humor since smoke leopard issue crisp";

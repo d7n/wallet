@@ -1,1 +1,1 @@
-var mnemonic = "rural bless alarm excess afford mutual explain muffin surge help brief cactus";
+var mnemonic = "venture sphere flock breeze text seat utility notable critic strong embody bench";

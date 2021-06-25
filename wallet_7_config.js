@@ -1,1 +1,1 @@
-var mnemonic = "board unusual harbor abandon acquire onion early idea amazing link liar casual";
+var mnemonic = "access shoulder pole clump tenant aunt deny joke witness round social border";
