@@ -1,1 +1,1 @@
-var mnemonic = "caught fluid faint abuse pilot sorry napkin until because chapter doll oak";
+var mnemonic = "weekend pull cannon valid urban laundry isolate harvest grace mystery hammer host";

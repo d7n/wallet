@@ -1,1 +1,1 @@
-var mnemonic = "finish guitar icon sponsor parade idle retire utility label slight around more";
+var mnemonic = "promote twenty carbon pear drama list crisp work mistake unknown swap note";

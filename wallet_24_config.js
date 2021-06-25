@@ -1,1 +1,1 @@
-var mnemonic = "avoid easily pull once theory stay donkey crash cotton grid magnet share";
+var mnemonic = "divorce clap glove atom garden gasp joke decline glow faculty car opinion";

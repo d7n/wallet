@@ -1,1 +1,1 @@
-var mnemonic = "decade outdoor law sketch garbage among afford curve dry fiscal nasty solid";
+var mnemonic = "old picnic wave pet genre buffalo seminar wear slow dirt robust exit";

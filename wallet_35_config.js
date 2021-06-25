@@ -1,1 +1,1 @@
-var mnemonic = "security visual circle stereo time dog sauce island duck frost hotel once";
+var mnemonic = "moon lawsuit electric diamond nest hamster salmon myth forward depend act march";

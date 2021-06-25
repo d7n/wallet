@@ -1,1 +1,1 @@
-var mnemonic = "beyond hurry frost bean fun action exact dust cereal meat pencil vehicle";
+var mnemonic = "element hen patient episode render turtle kick sad lumber enough decline near";

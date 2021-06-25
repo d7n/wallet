@@ -1,1 +1,1 @@
-var mnemonic = "mixture position explain lumber pig neither cry style once furnace scare whale";
+var mnemonic = "system twist print friend indicate siege melt glance uncover axis december spell";

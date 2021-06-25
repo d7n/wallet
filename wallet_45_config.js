@@ -1,1 +1,1 @@
-var mnemonic = "youth toast bean buzz slot section enlist tray slot extra fortune saddle";
+var mnemonic = "ethics grape globe rate weapon pretty organ ozone crater cliff close tobacco";

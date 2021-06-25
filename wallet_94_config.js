@@ -1,1 +1,1 @@
-var mnemonic = "famous rate potato fit grant smile skirt ride across unable output wisdom";
+var mnemonic = "rain tool arrive patch merry liberty wage badge same episode bread today";

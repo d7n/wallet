@@ -1,1 +1,1 @@
-var mnemonic = "taxi sun fog tower actress oppose athlete leopard cover struggle aerobic inch";
+var mnemonic = "hill wage this innocent pear velvet category embody thought offer moon snack";

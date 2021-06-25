@@ -1,1 +1,1 @@
-var mnemonic = "escape other time horn spin odor action deliver bounce device punch horror";
+var mnemonic = "noodle mass enforce market avoid crew record inhale middle method acid pottery";

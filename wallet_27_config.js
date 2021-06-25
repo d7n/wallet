@@ -1,1 +1,1 @@
-var mnemonic = "recall banana grape youth conduct above patrol top pulp neglect wonder ball";
+var mnemonic = "three ethics flash awesome luggage gaze select pride asthma sauce type bonus";

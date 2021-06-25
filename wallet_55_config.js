@@ -1,1 +1,1 @@
-var mnemonic = "blame power super ketchup nasty hunt appear major chase shaft party very";
+var mnemonic = "grief middle trust various shoot rival flower test shoe yellow weapon fork";

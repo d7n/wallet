@@ -1,1 +1,1 @@
-var mnemonic = "license corn front bachelor elephant elegant type wear chef empty evidence brother";
+var mnemonic = "mobile purchase merge fun portion alone toilet element collect winter thought whip";

@@ -1,1 +1,1 @@
-var mnemonic = "arctic one hero task bring bonus great illness fantasy myth pilot odor";
+var mnemonic = "baby ceiling report egg fringe loop robust metal alcohol assist protect swing";

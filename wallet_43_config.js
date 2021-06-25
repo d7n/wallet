@@ -1,1 +1,1 @@
-var mnemonic = "car harbor friend antenna immune diesel dignity edge ski foam insect can";
+var mnemonic = "expect spice cake bid era leg wrist text force split pistol arrow";

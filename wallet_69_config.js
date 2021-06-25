@@ -1,1 +1,1 @@
-var mnemonic = "palm reason fitness wrong swamp churn sudden infant spy surround summer suspect";
+var mnemonic = "oxygen neck deny rug diamond inner enjoy hidden box mango hospital grace";

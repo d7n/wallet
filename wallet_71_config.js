@@ -1,1 +1,1 @@
-var mnemonic = "evoke reform original shock govern spoil wink harbor milk banner that comfort";
+var mnemonic = "unveil express burst alcohol much warm hurt avoid evoke powder cement system";

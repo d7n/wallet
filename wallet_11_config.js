@@ -1,1 +1,1 @@
-var mnemonic = "slender surprise wrist boring dance damage model curve diamond dinner bless cattle";
+var mnemonic = "attract health coin acid edge record pioneer egg update drive conduct correct";

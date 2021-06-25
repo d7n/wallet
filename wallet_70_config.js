@@ -1,1 +1,1 @@
-var mnemonic = "pair latin under tape item turn area crime choice chronic decline absent";
+var mnemonic = "people armed between lizard improve famous icon body left clerk meadow summer";

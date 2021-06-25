@@ -1,1 +1,1 @@
-var mnemonic = "define average pelican say fatigue example fancy luggage armed burden cement month";
+var mnemonic = "feed album swarm indicate shiver bar health what gorilla before love culture";

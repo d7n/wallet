@@ -1,1 +1,1 @@
-var mnemonic = "black opera suffer unique gun save dove soup stairs mistake edit practice";
+var mnemonic = "ride need crumble zero goddess item effort muffin dinosaur grow industry because";

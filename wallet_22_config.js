@@ -1,1 +1,1 @@
-var mnemonic = "vocal assault offer suit ecology sunset task drive paper praise chalk canvas";
+var mnemonic = "seat glove weather monitor caught rail camera tennis swift rather knock month";

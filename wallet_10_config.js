@@ -1,1 +1,1 @@
-var mnemonic = "giant hurry avocado chaos document useless lawn fruit include second behind nurse";
+var mnemonic = "clinic knife trend danger scrap tuna true spoil foil sword swamp foot";

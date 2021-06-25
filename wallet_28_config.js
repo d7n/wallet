@@ -1,1 +1,1 @@
-var mnemonic = "online give still tribe sudden judge nominee fee hospital only funny sea";
+var mnemonic = "island across bar unveil grass series betray dirt actress walk celery bag";

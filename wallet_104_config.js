@@ -1,1 +1,1 @@
-var mnemonic = "final exit carry knock waste orphan mother dress scene inner bronze can";
+var mnemonic = "dawn hour always pencil insane trade author sure blur render fatal ivory";

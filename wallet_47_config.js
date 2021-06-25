@@ -1,1 +1,1 @@
-var mnemonic = "aunt speak mercy aerobic egg shuffle release family penalty either insect accident";
+var mnemonic = "cook detect stool angle turkey sister decrease category chief legend effort exile";

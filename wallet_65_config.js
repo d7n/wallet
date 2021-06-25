@@ -1,1 +1,1 @@
-var mnemonic = "property favorite reunion giant owner steel letter coffee smooth equal cheese clay";
+var mnemonic = "label report poet smoke mechanic tide buyer shiver purity amateur sausage digital";

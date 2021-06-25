@@ -1,1 +1,1 @@
-var mnemonic = "orphan letter exact able purpose network pink split slide wing series arrange";
+var mnemonic = "demise breeze engine veteran wet banana another tower issue enjoy clay fabric";

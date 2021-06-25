@@ -1,1 +1,1 @@
-var mnemonic = "cattle library female rough hair replace claim misery perfect medal mesh key";
+var mnemonic = "fresh trip syrup dizzy treat clarify clarify father spell universe paddle walnut";

@@ -1,1 +1,1 @@
-var mnemonic = "sting local boat shoe allow tennis educate submit truth have blanket hazard";
+var mnemonic = "gravity obscure smart evolve fitness transfer tower zone memory pole roof congress";

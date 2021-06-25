@@ -1,1 +1,1 @@
-var mnemonic = "private inspire inform unit twin tourist prosper series winter tenant police hire";
+var mnemonic = "sight couple change wheat chimney venture brand put avoid enough lawsuit hood";

@@ -1,1 +1,1 @@
-var mnemonic = "kind hawk blossom purpose peanut escape noble brief smoke curtain theory bubble";
+var mnemonic = "dress goose energy trap evidence prepare beyond shift drip lend zone hood";

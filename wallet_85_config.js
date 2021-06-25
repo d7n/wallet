@@ -1,1 +1,1 @@
-var mnemonic = "napkin surface angle gloom garage grape street elite viable dynamic gain injury";
+var mnemonic = "brother belt between finger wood gain couch parade loop hunt program program";

@@ -1,1 +1,1 @@
-var mnemonic = "enter casino tool neglect march glad album urge lava power soap air";
+var mnemonic = "protect bulk juice habit defy ceiling truth lab mansion device earn narrow";

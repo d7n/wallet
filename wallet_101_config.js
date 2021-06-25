@@ -1,1 +1,1 @@
-var mnemonic = "spread setup unlock display quantum into orchard hope shove cage liberty pudding";
+var mnemonic = "wrap build smile fatigue side pet grain hammer click shy man present";

@@ -1,1 +1,1 @@
-var mnemonic = "power fun hover fee hair differ snow hub play give rule ready";
+var mnemonic = "cradle require spy transfer street guard certain seed box exact black oyster";

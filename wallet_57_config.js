@@ -1,1 +1,1 @@
-var mnemonic = "stomach certain renew middle monster choose submit ostrich anger write hold oxygen";
+var mnemonic = "sibling hawk use season rice rabbit supply usual mistake three board gun";

@@ -1,1 +1,1 @@
-var mnemonic = "enough abuse easy inherit prison wood flower reflect strong senior eagle nice";
+var mnemonic = "oppose afford attack napkin cram gadget menu blue gadget amused permit escape";

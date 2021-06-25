@@ -1,1 +1,1 @@
-var mnemonic = "cost gaze dash logic range squirrel type display book estate public among";
+var mnemonic = "resemble place wash cram puzzle flame cousin veteran accident silly biology now";

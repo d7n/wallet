@@ -1,1 +1,1 @@
-var mnemonic = "genre jacket bracket boss idle slight sail token amount around wire monster";
+var mnemonic = "found core above bike exclude era dawn club usage catch limb tumble";

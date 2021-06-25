@@ -1,1 +1,1 @@
-var mnemonic = "region shine knife waste belt hello mass hurt dirt merit stomach only";
+var mnemonic = "normal globe invest visa okay regret satisfy gown matter knife payment spike";

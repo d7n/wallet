@@ -1,1 +1,1 @@
-var mnemonic = "merit gold pact letter marine divide task basic federal toilet edge witness";
+var mnemonic = "door lounge sustain person expire crazy spell crush surprise museum fantasy consider";

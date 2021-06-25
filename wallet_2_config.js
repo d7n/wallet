@@ -1,1 +1,1 @@
-var mnemonic = "village useless dune core length oyster trouble history host phrase enlist bachelor";
+var mnemonic = "rubber bicycle fossil milk powder odor suggest type candy daring reflect angle";

@@ -1,1 +1,1 @@
-var mnemonic = "busy wine jungle brief labor keep south hobby elbow embrace suit myself";
+var mnemonic = "train very recall cry cover math calm chest impose program amount onion";

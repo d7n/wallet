@@ -1,1 +1,1 @@
-var mnemonic = "need imitate cycle coil simple license general core dog athlete actual shuffle";
+var mnemonic = "shuffle wrap bread adult super beauty drop venue valve onion pulse grow";

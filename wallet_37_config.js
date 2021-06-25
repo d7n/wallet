@@ -1,1 +1,1 @@
-var mnemonic = "tone climb grape paddle clever spring copper eye shoulder payment hill mosquito";
+var mnemonic = "crouch square road when prefer device pottery bunker shock they valid what";

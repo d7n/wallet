@@ -1,1 +1,1 @@
-var mnemonic = "salmon sweet round canyon elegant quality cotton toward flavor feature merge brisk";
+var mnemonic = "twin cake soda dutch eager ancient clean enable ketchup wreck strong matter";

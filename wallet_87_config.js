@@ -1,1 +1,1 @@
-var mnemonic = "emotion clarify hood attract miracle man nephew narrow you cage layer rebel";
+var mnemonic = "beyond forget news short pelican power palace result praise theory pause anger";

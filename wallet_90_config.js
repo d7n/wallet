@@ -1,1 +1,1 @@
-var mnemonic = "empty exhibit float snow prison flip give paddle brush cabbage grass pumpkin";
+var mnemonic = "link split decade entry damp pool security category outside biology awake fold";

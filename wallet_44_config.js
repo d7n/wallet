@@ -1,1 +1,1 @@
-var mnemonic = "animal choose pattern exchange evoke neck patch glare float era raise liquid";
+var mnemonic = "endless fragile clarify comfort hover knee drama capital glad pupil mosquito deliver";

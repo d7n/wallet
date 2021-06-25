@@ -1,1 +1,1 @@
-var mnemonic = "item usage alien web fringe adjust parrot wheat region street much pool";
+var mnemonic = "violin script blush almost toast basket fame copper oblige mixed plate error";

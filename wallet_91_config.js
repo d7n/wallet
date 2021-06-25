@@ -1,1 +1,1 @@
-var mnemonic = "orient seek arrive idle forum heart auto goddess primary door bunker useless";
+var mnemonic = "address unable thing else track monitor robot erode sure sword quote left";

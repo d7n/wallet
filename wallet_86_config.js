@@ -1,1 +1,1 @@
-var mnemonic = "cousin fiction truck youth sick brand purpose shock joke success easy change";
+var mnemonic = "execute crush staff stand employ isolate hood birth render govern teach cherry";

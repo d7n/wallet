@@ -1,1 +1,1 @@
-var mnemonic = "creek travel scissors hawk lunar virtual maze detect slow share quantum side";
+var mnemonic = "noise vast tongue disorder vacuum quit clock upon want pass mistake offer";

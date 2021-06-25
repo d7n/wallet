@@ -1,1 +1,1 @@
-var mnemonic = "sponsor giant copper arrive reject scheme exotic fire tribe embark settle people";
+var mnemonic = "roast transfer quiz solid pottery because fantasy elevator peace visual just cereal";

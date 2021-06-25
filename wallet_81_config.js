@@ -1,1 +1,1 @@
-var mnemonic = "machine gown glory parent labor goat slight decrease interest helmet invest artist";
+var mnemonic = "child clown very train dream invite correct party pattern push advice lunar";

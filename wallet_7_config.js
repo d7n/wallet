@@ -1,1 +1,1 @@
-var mnemonic = "fuel genius snake bird agent coin harvest summer fork jewel require illness";
+var mnemonic = "crash axis beef intact travel what ordinary salute grace material volcano electric";

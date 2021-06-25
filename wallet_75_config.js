@@ -1,1 +1,1 @@
-var mnemonic = "seek chalk blue enjoy elite parade frame bird roof capable silly income";
+var mnemonic = "budget enroll captain holiday minute cross liquid kiss valley easy piano neglect";

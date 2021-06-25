@@ -1,1 +1,1 @@
-var mnemonic = "hat practice stove live bargain giant dutch sustain demand obscure hurdle horn";
+var mnemonic = "novel infant music soldier bench portion near romance drum right social enhance";

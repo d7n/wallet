@@ -1,1 +1,1 @@
-var mnemonic = "dove tortoise prison today surround trap veteran apart correct dutch absorb price";
+var mnemonic = "bone smooth such order mind tonight cross file sand horn miracle swim";

@@ -1,1 +1,1 @@
-var mnemonic = "defy settle manage tired shrimp rhythm mimic spirit innocent monster scare image";
+var mnemonic = "wrong hood term atom bean mushroom clean exhaust error dish target gadget";

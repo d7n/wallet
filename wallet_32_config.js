@@ -1,1 +1,1 @@
-var mnemonic = "twist stage company square gesture scan turtle panda title boring inhale piano";
+var mnemonic = "language involve rather divert proof verify basic ghost present ordinary obey strike";

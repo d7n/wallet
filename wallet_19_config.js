@@ -1,1 +1,1 @@
-var mnemonic = "nation bridge claw catch bone general velvet thunder effort outdoor good require";
+var mnemonic = "quote myth youth can broccoli liberty hour remember aware devote sniff boring";

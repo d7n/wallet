@@ -1,1 +1,1 @@
-var mnemonic = "danger trust physical flip siren column creek use bind supreme aisle celery";
+var mnemonic = "dizzy super slim result antenna canal call ship hip trophy into skate";

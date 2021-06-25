@@ -1,1 +1,1 @@
-var mnemonic = "question bulb panda angle solar frown segment type buyer offer slogan dentist";
+var mnemonic = "hard cousin sauce surprise arch talk agree strike tone fossil submit enjoy";

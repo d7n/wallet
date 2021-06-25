@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur shrug danger solid base dizzy century trim rather ripple salt evil";
+var mnemonic = "catalog quit file guess make pair clip cereal element more lounge quantum";

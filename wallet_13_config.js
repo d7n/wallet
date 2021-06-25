@@ -1,1 +1,1 @@
-var mnemonic = "please toddler match buyer valley demand cash build fun category sleep tooth";
+var mnemonic = "village kick minor quit stadium harbor badge essence trap detect current flag";

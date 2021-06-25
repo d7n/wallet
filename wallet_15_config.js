@@ -1,1 +1,1 @@
-var mnemonic = "key valve napkin canyon pond divide fly poverty pulp source stomach inner";
+var mnemonic = "shiver urban robot dress there gadget tower pulse awake begin merry neutral";

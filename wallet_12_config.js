@@ -1,1 +1,1 @@
-var mnemonic = "earn weather spoon trim input frog start abstract scissors pride pole snap";
+var mnemonic = "side join dad pistol code earn try mercy member lobster alley bless";

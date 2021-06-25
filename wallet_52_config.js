@@ -1,1 +1,1 @@
-var mnemonic = "cross frame oak father airport gloom media length race abandon deposit setup";
+var mnemonic = "struggle seminar jazz dance fall shrimp relief dinner creek tissue avoid admit";

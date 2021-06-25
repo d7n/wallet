@@ -1,1 +1,1 @@
-var mnemonic = "appear exhaust bright marble tip reason science behind hawk cup text oppose";
+var mnemonic = "swim quote acoustic expire credit pottery gossip indoor used winter bread increase";

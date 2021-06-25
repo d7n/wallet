@@ -1,1 +1,1 @@
-var mnemonic = "sight ski author detail gold illness reveal vague arena prevent jeans toast";
+var mnemonic = "huge winner casual wasp bicycle enact onion state expose craft patient icon";

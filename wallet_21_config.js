@@ -1,1 +1,1 @@
-var mnemonic = "atom indoor knock wave father turkey abandon accuse picture loyal alarm symptom";
+var mnemonic = "chuckle olive stay maid sphere level fire fee science coral wrap fuel";

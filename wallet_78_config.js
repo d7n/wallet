@@ -1,1 +1,1 @@
-var mnemonic = "salt wage leisure sail injury warrior economy cluster gravity orient erosion february";
+var mnemonic = "hood scan silver mix twist dumb album erase smooth village rival around";

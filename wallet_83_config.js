@@ -1,1 +1,1 @@
-var mnemonic = "table merry transfer drill make chief gown jacket lady illness peanut modify";
+var mnemonic = "edge cable economy outer belt donor aspect expire gold cement entry response";

@@ -1,1 +1,1 @@
-var mnemonic = "height veteran surround wasp bulb weather way method boy client august satisfy";
+var mnemonic = "spend day jazz earth around diet select penalty unveil blade friend reveal";

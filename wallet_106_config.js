@@ -1,1 +1,1 @@
-var mnemonic = "drive clap welcome oven alter ten current offer social model salon figure";
+var mnemonic = "utility crane benefit water forum canoe symbol liar hope exchange symbol dwarf";

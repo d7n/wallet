@@ -1,1 +1,1 @@
-var mnemonic = "conduct they report twin symptom oval doll memory ocean upgrade tired evil";
+var mnemonic = "over iron insect need nephew enemy tackle grow grief journey clarify wink";

@@ -1,1 +1,1 @@
-var mnemonic = "kite consider marine sleep link cactus crouch clerk hybrid exotic faculty fade";
+var mnemonic = "venue attend lion manage board diet minor borrow blue evoke poem cake";

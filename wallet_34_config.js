@@ -1,1 +1,1 @@
-var mnemonic = "accident skill spirit firm join cattle consider bubble toe sphere predict hurdle";
+var mnemonic = "secret miss maze design novel fuel caution unique very clog sign remove";

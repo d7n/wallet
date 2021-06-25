@@ -1,1 +1,1 @@
-var mnemonic = "ceiling clerk doll chalk junk cross nose bonus cricket symptom level naive";
+var mnemonic = "recycle defense little dynamic share essence hybrid long rival glow much drive";

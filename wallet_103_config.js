@@ -1,1 +1,1 @@
-var mnemonic = "slice seek box skull nephew ship question poet hazard element enjoy mean";
+var mnemonic = "estate relax baby point student leopard limb envelope change degree isolate section";

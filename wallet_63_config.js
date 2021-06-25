@@ -1,1 +1,1 @@
-var mnemonic = "assault demand distance cram town company amateur electric beyond stumble blood view";
+var mnemonic = "method dial example sunset robot hat popular more sting fly open retire";

@@ -1,1 +1,1 @@
-var mnemonic = "fatigue tuna degree repeat sentence task occur among uphold giggle mystery heart";
+var mnemonic = "silk glide trouble scrub mountain nose hand design select subject junior example";

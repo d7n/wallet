@@ -1,1 +1,1 @@
-var mnemonic = "orphan engine another farm chair remind humor van then garment boring quiz";
+var mnemonic = "chicken shove bachelor dance escape verify dentist suffer ripple defense skirt fall";

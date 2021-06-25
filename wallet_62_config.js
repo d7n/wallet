@@ -1,1 +1,1 @@
-var mnemonic = "palm useful diary tonight cannon curious snake fork correct embark program turtle";
+var mnemonic = "process category picnic east pony cheese open prize assist use pioneer decorate";

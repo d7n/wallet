@@ -1,1 +1,1 @@
-var mnemonic = "hand primary witness pistol abandon journey fold flag sing vibrant soon group";
+var mnemonic = "distance surface deposit inspire weather great stem latin doctor raven pulse chase";

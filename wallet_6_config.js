@@ -1,1 +1,1 @@
-var mnemonic = "actress dress atom produce april trust crucial history mechanic remove height runway";
+var mnemonic = "disagree regret iron labor bright tell leisure teach wrap pond cycle coil";

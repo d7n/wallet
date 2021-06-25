@@ -1,1 +1,1 @@
-var mnemonic = "celery trim remain caution prevent skull lunar convince rescue raise crew tree";
+var mnemonic = "lunch side warfare forget sound innocent brass web spray little horse omit";

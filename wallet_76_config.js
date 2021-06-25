@@ -1,1 +1,1 @@
-var mnemonic = "trick happy crazy wash pave duty invest foster chuckle topple run bind";
+var mnemonic = "anger census heavy apart abuse pioneer goat moon badge tunnel excite nuclear";

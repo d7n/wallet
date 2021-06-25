@@ -1,1 +1,1 @@
-var mnemonic = "marine glance assume buffalo body people dish fix female differ fatigue scout";
+var mnemonic = "pulp galaxy sad menu feature dust recipe comic crane bind public model";

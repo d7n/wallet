@@ -1,1 +1,1 @@
-var mnemonic = "one melt loud expire extra grant bundle legend nice hamster run carry";
+var mnemonic = "rent satisfy judge couch weapon rack cradle immense glow south that clerk";

@@ -1,1 +1,1 @@
-var mnemonic = "tape glove depend enemy employ festival captain wire ceiling lesson mouse aerobic";
+var mnemonic = "possible tape day plastic lounge stand combine ride sock other miracle poverty";
