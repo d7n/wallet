@@ -1,1 +1,1 @@
-var mnemonic = "parent host clown resist item floor romance goose cloud daring loyal void";
+var mnemonic = "mask usual soda salad antenna prison major floor divorce torch rough clean";

@@ -1,1 +1,1 @@
-var mnemonic = "brown coffee hurt nest tissue display better donate educate vessel toilet elbow";
+var mnemonic = "maple bid impose meadow exclude exact eager focus make nut ball mouse";

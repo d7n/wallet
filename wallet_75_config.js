@@ -1,1 +1,1 @@
-var mnemonic = "bird diesel magnet crack black alien hood beyond fatigue priority crane shield";
+var mnemonic = "orbit load merry enforce idea captain girl other clutch flee suspect page";

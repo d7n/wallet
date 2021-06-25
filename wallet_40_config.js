@@ -1,1 +1,1 @@
-var mnemonic = "clay measure torch series fantasy flavor airport exist vital belt celery shift";
+var mnemonic = "cycle panel dish science country vibrant suggest vast hollow kid jelly soup";

@@ -1,1 +1,1 @@
-var mnemonic = "base album discover embody exclude wire mosquito alert neglect gold envelope chuckle";
+var mnemonic = "just spirit call initial gain mother trip attend essay long tired skate";

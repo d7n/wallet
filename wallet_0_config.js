@@ -1,1 +1,1 @@
-var mnemonic = "wall firm market betray reopen level security list excuse hold bracket sock";
+var mnemonic = "phrase float electric sand face mirror run monster bamboo spring ball spray";

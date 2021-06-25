@@ -1,1 +1,1 @@
-var mnemonic = "rookie panic economy ripple digital claw fine episode property village cotton injury";
+var mnemonic = "obey actress swear have limit outer win stable alpha evolve seven myself";

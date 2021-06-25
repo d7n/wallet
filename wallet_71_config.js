@@ -1,1 +1,1 @@
-var mnemonic = "effort sea angle execute punch glue annual final rack juice clock mail";
+var mnemonic = "hat soup push razor cute execute giant where happy celery pen choice";

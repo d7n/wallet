@@ -1,1 +1,1 @@
-var mnemonic = "gossip sponsor trade under cause talk track van parrot sing bread shoe";
+var mnemonic = "solution quiz air library garment song devote move unhappy wonder cup april";

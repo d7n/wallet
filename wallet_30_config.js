@@ -1,1 +1,1 @@
-var mnemonic = "target library season click prize ticket estate seat latin foot enable army";
+var mnemonic = "apart answer holiday brisk agent actress rare educate talk fire stand scan";

@@ -1,1 +1,1 @@
-var mnemonic = "convince token innocent beach clog bunker window happy seminar denial young track";
+var mnemonic = "tired observe symptom loyal illegal rather critic leader guess tourist much common";

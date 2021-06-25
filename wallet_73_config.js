@@ -1,1 +1,1 @@
-var mnemonic = "two monster soul trap code barrel sorry rebuild boat joy fire company";
+var mnemonic = "recycle maid useless afraid car trial segment dune axis moon tip adjust";

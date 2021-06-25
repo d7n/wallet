@@ -1,1 +1,1 @@
-var mnemonic = "naive ship raccoon equip magnet typical toward point pelican announce polar jazz";
+var mnemonic = "weird regret crawl affair frame render fossil arena profit stereo pelican recall";

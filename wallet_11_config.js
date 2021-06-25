@@ -1,1 +1,1 @@
-var mnemonic = "layer original grunt corn mention life pluck poem method series mesh soup";
+var mnemonic = "file oblige myself sleep surprise identify blame purity feel fiction style bargain";

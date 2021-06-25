@@ -1,1 +1,1 @@
-var mnemonic = "engage bless rifle denial multiply better sugar foster trumpet shock diet august";
+var mnemonic = "evil pact know taxi rally spider blue neglect possible another sponsor spring";

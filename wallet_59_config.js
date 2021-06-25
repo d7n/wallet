@@ -1,1 +1,1 @@
-var mnemonic = "when stem space settle attend melt tobacco project museum brave fall worry";
+var mnemonic = "design police pretty link hidden exchange surge ability cricket digital promote easy";

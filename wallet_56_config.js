@@ -1,1 +1,1 @@
-var mnemonic = "suggest account jeans onion predict almost captain ladder candy mandate arctic crater";
+var mnemonic = "width doll snake rude cactus trial trim what fiber art arctic soldier";

@@ -1,1 +1,1 @@
-var mnemonic = "loud snap combine steak margin above stool arrive belt cereal trap brief";
+var mnemonic = "relief diagram ill swear captain then beauty lawn illegal fit foil kitchen";

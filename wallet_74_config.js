@@ -1,1 +1,1 @@
-var mnemonic = "heavy liquid true bitter dirt random sorry swim awful village fog rack";
+var mnemonic = "garden used few pistol until obey buddy embody piano eagle math level";

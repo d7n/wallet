@@ -1,1 +1,1 @@
-var mnemonic = "save tortoise habit pair extra naive swift ivory code theme mirror absurd";
+var mnemonic = "learn cheap fade sausage analyst behind salon picnic erase visual prize copy";

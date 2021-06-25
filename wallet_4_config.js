@@ -1,1 +1,1 @@
-var mnemonic = "defy meat deputy stuff tube order goddess grass link luggage coin identify";
+var mnemonic = "prepare phone cloud online assist size retreat blossom cradle since say palace";

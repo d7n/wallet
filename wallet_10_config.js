@@ -1,1 +1,1 @@
-var mnemonic = "venture fun audit fat stove blood swear wish subway argue portion toss";
+var mnemonic = "mutual piece cereal vocal assume grass zone destroy position spirit obscure exchange";

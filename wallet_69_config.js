@@ -1,1 +1,1 @@
-var mnemonic = "grape fortune grocery net move force protect much lock push lesson step";
+var mnemonic = "right cushion crystal raise crumble buddy afraid employ slush skin scare trade";

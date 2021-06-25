@@ -1,1 +1,1 @@
-var mnemonic = "exclude panic decorate deposit squirrel unhappy help smoke tiger uncle buyer identify";
+var mnemonic = "good knife smooth polar process raw submit patient earn warfare canal coach";

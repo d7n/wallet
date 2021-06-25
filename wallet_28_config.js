@@ -1,1 +1,1 @@
-var mnemonic = "wolf naive amazing despair tent trial dutch loan fancy skate hand exhibit";
+var mnemonic = "tiger next word armed muffin quality impulse pink best angle repair thunder";

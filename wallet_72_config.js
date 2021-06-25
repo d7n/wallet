@@ -1,1 +1,1 @@
-var mnemonic = "theory century news tomato tuna suspect enlist grant sadness during lamp never";
+var mnemonic = "arrange merge wolf soup future eight multiply sadness recycle jar coach where";

@@ -1,1 +1,1 @@
-var mnemonic = "fun pizza affair alpha cattle wool keep raw image hold axis require";
+var mnemonic = "fee address cigar horse day glove avoid rich retreat silly flower mesh";

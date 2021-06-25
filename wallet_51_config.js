@@ -1,1 +1,1 @@
-var mnemonic = "snake image brief broken bind talk diagram major sound cancel inhale chaos";
+var mnemonic = "reflect control want child deal clap hip clean exercise print crowd grief";

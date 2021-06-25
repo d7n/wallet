@@ -1,1 +1,1 @@
-var mnemonic = "vibrant match rookie snack gym satisfy stairs knee gospel ridge universe damp";
+var mnemonic = "witness risk option wife hard combine easy brief coffee sister immune veteran";

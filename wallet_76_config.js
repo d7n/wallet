@@ -1,1 +1,1 @@
-var mnemonic = "tourist clip object pepper trick either secret noble valley demise eternal innocent";
+var mnemonic = "benefit salmon brass lazy correct rude bridge excite build voyage trick person";

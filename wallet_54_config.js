@@ -1,1 +1,1 @@
-var mnemonic = "return strong upper force submit arena rocket clerk crucial amused error blouse";
+var mnemonic = "man rifle margin lunch second weekend strategy apart decrease attract alone sister";

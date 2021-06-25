@@ -1,1 +1,1 @@
-var mnemonic = "wreck search pottery rule violin glimpse error concert cable cotton wasp envelope";
+var mnemonic = "actress ticket before genre sample subject inmate shaft review napkin unknown border";

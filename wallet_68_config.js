@@ -1,1 +1,1 @@
-var mnemonic = "lecture energy fruit finger problem rebuild method extra wall life album prosper";
+var mnemonic = "task chair invite derive gossip action valve museum online coin grape dutch";

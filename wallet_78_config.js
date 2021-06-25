@@ -1,1 +1,1 @@
-var mnemonic = "mandate crush cost coffee detect core nasty meadow text spoon learn sick";
+var mnemonic = "farm bamboo unique patient choice light note success service patch foster often";

@@ -1,1 +1,1 @@
-var mnemonic = "name gloom hurdle auction kitchen car clap high vendor ginger will chronic";
+var mnemonic = "account pluck young rhythm cement account rapid rural dose position obvious way";

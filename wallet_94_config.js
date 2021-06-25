@@ -1,1 +1,1 @@
-var mnemonic = "spread curtain giraffe orchard agree fetch mystery announce episode north exclude open";
+var mnemonic = "core badge describe gold duck hunt region wedding okay bunker bicycle figure";

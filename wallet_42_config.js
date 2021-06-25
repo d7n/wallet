@@ -1,1 +1,1 @@
-var mnemonic = "wrong group process kite salon engage popular become arrest equip jaguar coach";
+var mnemonic = "blood almost muscle brother trigger flee middle kiss rug range base purpose";

@@ -1,1 +1,1 @@
-var mnemonic = "advice afford arm motion explain panic chase right bronze alien noodle smooth";
+var mnemonic = "digital office topple setup olympic sell expand rich lamp topic promote gospel";

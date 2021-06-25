@@ -1,1 +1,1 @@
-var mnemonic = "stomach city input rich fluid next jacket noodle faith arrest write bracket";
+var mnemonic = "refuse engage cook congress squirrel cement staff solar churn quit lucky blouse";

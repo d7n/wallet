@@ -1,1 +1,1 @@
-var mnemonic = "swing afraid party bonus series mercy blanket diagram scorpion client egg tortoise";
+var mnemonic = "surface banner fitness detail basket page exile slide parade young oppose error";

@@ -1,1 +1,1 @@
-var mnemonic = "bacon avoid bird exit pet turtle response target hard invest ski little";
+var mnemonic = "garbage occur vocal loyal clean use dismiss scissors artwork rebel ozone local";

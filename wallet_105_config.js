@@ -1,1 +1,1 @@
-var mnemonic = "letter useful silly elephant lunar season fault physical agree burden brief fetch";
+var mnemonic = "toddler diamond tattoo frost century social order ten coil brush unveil result";

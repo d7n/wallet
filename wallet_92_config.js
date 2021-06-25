@@ -1,1 +1,1 @@
-var mnemonic = "health runway peasant announce filter shield athlete shell eyebrow maximum cry moon";
+var mnemonic = "hidden hockey corn remove subway warrior require win monkey receive chronic alarm";

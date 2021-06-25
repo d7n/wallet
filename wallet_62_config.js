@@ -1,1 +1,1 @@
-var mnemonic = "bird gap staff olive industry obey horn spider plunge winner always phone";
+var mnemonic = "peasant door icon coconut goose virtual also behave strong language all mosquito";

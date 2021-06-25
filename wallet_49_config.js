@@ -1,1 +1,1 @@
-var mnemonic = "upon path pretty soda scout control domain rail magnet mail warfare element";
+var mnemonic = "slide cream surround armor safe laundry ring weird exercise push few potato";

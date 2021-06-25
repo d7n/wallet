@@ -1,1 +1,1 @@
-var mnemonic = "impact enhance rubber supreme often clock forum organ depth size kit push";
+var mnemonic = "grid member kitchen welcome hotel december lecture uncover grace judge observe morning";

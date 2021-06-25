@@ -1,1 +1,1 @@
-var mnemonic = "canvas welcome crouch dice try dizzy equal hurt smile pretty alcohol polar";
+var mnemonic = "can fancy between immense twin erosion name ancient awkward guard lesson filter";

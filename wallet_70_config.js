@@ -1,1 +1,1 @@
-var mnemonic = "unknown net infant rent attitude phone radar future rhythm switch baby wolf";
+var mnemonic = "prevent story winter cart attitude wedding feed ball lounge fade scan swap";

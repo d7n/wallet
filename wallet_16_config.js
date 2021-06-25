@@ -1,1 +1,1 @@
-var mnemonic = "zebra vital mosquito spin opera nothing rice swap canyon outer infant skate";
+var mnemonic = "iron human smooth buffalo smooth forget between stove chest actor alcohol ride";

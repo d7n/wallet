@@ -1,1 +1,1 @@
-var mnemonic = "exit crop spot gasp concert furnace key add collect measure switch smooth";
+var mnemonic = "hybrid wheat doctor inherit error rare diamond tone spring soft innocent bicycle";

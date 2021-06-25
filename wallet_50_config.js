@@ -1,1 +1,1 @@
-var mnemonic = "clump marine neck frame enough tank ship garden brain health total cupboard";
+var mnemonic = "knock state current language depend much able arena loud design blossom almost";

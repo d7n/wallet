@@ -1,1 +1,1 @@
-var mnemonic = "analyst cat what half warm blanket draft bubble rely blouse vanish attract";
+var mnemonic = "record follow survey brass trip similar display river amount emotion drama stage";

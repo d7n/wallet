@@ -1,1 +1,1 @@
-var mnemonic = "guitar mail comfort faith soda earth deputy rain model grant main safe";
+var mnemonic = "can act jacket thunder churn snack stadium basic fiction future inspire lunar";

@@ -1,1 +1,1 @@
-var mnemonic = "glimpse chunk grass edit horse square tip sure guess access blanket rebel";
+var mnemonic = "clog hip ability correct neutral tiny despair zebra oyster asset world lake";

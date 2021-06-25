@@ -1,1 +1,1 @@
-var mnemonic = "pluck west hedgehog travel tank venue future journey remain duty amazing void";
+var mnemonic = "symptom blanket ripple double remove polar goat head cup paper prepare blur";

@@ -1,1 +1,1 @@
-var mnemonic = "matrix eternal shine monster pole absorb fabric drama worry ecology fabric violin";
+var mnemonic = "royal mansion pig vicious radio crunch amazing candy sudden smoke planet giggle";

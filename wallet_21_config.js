@@ -1,1 +1,1 @@
-var mnemonic = "torch potato panda wool memory maple grass dial math ugly merry promote";
+var mnemonic = "aim wreck acquire swarm announce half mansion diet enhance odor loan abuse";

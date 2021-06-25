@@ -1,1 +1,1 @@
-var mnemonic = "dream entire tunnel run neglect media need thought volcano budget glory rose";
+var mnemonic = "scissors surprise blush spoil unveil couple spring balcony tail hockey artist paper";

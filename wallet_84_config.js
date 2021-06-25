@@ -1,1 +1,1 @@
-var mnemonic = "tongue prefer use limb gadget bag ivory nose fork miss junk intact";
+var mnemonic = "year into dash worry since forum stamp rich lawsuit poem page banner";

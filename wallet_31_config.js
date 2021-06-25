@@ -1,1 +1,1 @@
-var mnemonic = "bean daughter lake visit film crush grid best rose convince catalog pill";
+var mnemonic = "hair sense decorate beach kitchen junk ticket promote portion muscle win explain";

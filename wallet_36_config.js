@@ -1,1 +1,1 @@
-var mnemonic = "square fantasy tribe liberty boring avocado wedding thought clown lady mammal margin";
+var mnemonic = "alarm trouble kingdom expand erupt portion segment second olive attitude merry shock";

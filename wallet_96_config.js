@@ -1,1 +1,1 @@
-var mnemonic = "figure slide legend impulse raise play cool today breeze report speak galaxy";
+var mnemonic = "real depart other hair cancel lobster organ pill remind glory mass depend";

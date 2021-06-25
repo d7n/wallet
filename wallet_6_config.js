@@ -1,1 +1,1 @@
-var mnemonic = "stamp sweet crunch chat month inquiry produce struggle filter heavy quit truly";
+var mnemonic = "aspect goat puppy muscle vital subway document town okay host drastic fish";

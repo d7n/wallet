@@ -1,1 +1,1 @@
-var mnemonic = "transfer tragic zone forum zoo exotic nurse cheap harbor quarter order boring";
+var mnemonic = "language fuel morning warrior lecture future what myth correct swarm discover science";

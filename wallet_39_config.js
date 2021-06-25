@@ -1,1 +1,1 @@
-var mnemonic = "tired twist regret knock jelly network general uncle hawk april note remain";
+var mnemonic = "drill grape video predict viable divide trigger major rocket addict sketch soccer";

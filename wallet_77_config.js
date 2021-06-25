@@ -1,1 +1,1 @@
-var mnemonic = "lemon grief enlist law elegant spike setup flame miracle cigar master plastic";
+var mnemonic = "voyage rough system easily pudding have dinosaur comic army duty sand trumpet";

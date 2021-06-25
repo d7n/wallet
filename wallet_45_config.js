@@ -1,1 +1,1 @@
-var mnemonic = "seat stable pitch weapon cable shift runway holiday tilt cheap model just";
+var mnemonic = "crash man cage walk scan course tooth book grunt pill zebra only";

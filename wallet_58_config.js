@@ -1,1 +1,1 @@
-var mnemonic = "provide pool evolve spring tiger pride assume ship ivory test glove hidden";
+var mnemonic = "era spread host kick name input what fuel olympic skate reveal dice";

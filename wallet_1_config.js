@@ -1,1 +1,1 @@
-var mnemonic = "uncover punch match chuckle blouse muscle blue garlic invite random gun cotton";
+var mnemonic = "mention attack frozen boil million kangaroo swear system vintage snap try cruel";

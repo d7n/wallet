@@ -1,1 +1,1 @@
-var mnemonic = "live hidden garment horse harsh flavor slight spy since often walnut physical";
+var mnemonic = "equal side vocal fetch job shrug toilet achieve cruise title gossip oil";

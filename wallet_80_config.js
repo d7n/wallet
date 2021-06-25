@@ -1,1 +1,1 @@
-var mnemonic = "tiny expire during combine hurdle rose panther gun ability figure property ginger";
+var mnemonic = "belt live object pink exit diet moon core refuse naive wealth antique";

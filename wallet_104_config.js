@@ -1,1 +1,1 @@
-var mnemonic = "follow purpose endorse final edit connect regret weasel antenna night chimney robot";
+var mnemonic = "enlist play monitor pudding primary install affair moral sister west powder soda";

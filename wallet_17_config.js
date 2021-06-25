@@ -1,1 +1,1 @@
-var mnemonic = "kidney exotic include fabric leopard rare hidden section dutch apple analyst taxi";
+var mnemonic = "decorate carry dutch cash swear metal oak trend pulse wheat human region";

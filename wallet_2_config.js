@@ -1,1 +1,1 @@
-var mnemonic = "glove business raw derive glimpse reason bracket stage asset fame off boat";
+var mnemonic = "ten spare rail invest ecology onion weasel hint glimpse despair vital small";

@@ -1,1 +1,1 @@
-var mnemonic = "little use hill win blame blade spread leopard burst ocean core snake";
+var mnemonic = "scorpion race trigger reduce filter relief warrior physical galaxy insect tilt artwork";

@@ -1,1 +1,1 @@
-var mnemonic = "brown soccer lesson prefer happy beyond repair print before absorb wear chuckle";
+var mnemonic = "inside diamond smoke other grass roof online powder aunt car electric bag";

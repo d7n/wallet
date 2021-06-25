@@ -1,1 +1,1 @@
-var mnemonic = "together vivid mystery hole crunch pudding copper cherry fence female damp approve";
+var mnemonic = "payment phone stumble catalog timber device myself episode magnet pilot trial ribbon";

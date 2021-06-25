@@ -1,1 +1,1 @@
-var mnemonic = "recall lyrics slow violin input service split genius pony park scrap spray";
+var mnemonic = "luxury try captain plug harsh bubble cupboard music weather twist harsh rule";

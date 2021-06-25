@@ -1,1 +1,1 @@
-var mnemonic = "slam stairs come people rug attract confirm wing stadium lake disagree spider";
+var mnemonic = "liberty airport number travel say banner fatal doctor middle exhibit drift actress";

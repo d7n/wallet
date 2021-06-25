@@ -1,1 +1,1 @@
-var mnemonic = "relief cannon alter often gauge poverty access raven peanut minor autumn word";
+var mnemonic = "above involve valley act inch lend farm usual donkey prevent edge indicate";

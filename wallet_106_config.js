@@ -1,1 +1,1 @@
-var mnemonic = "change budget dose cool sketch common layer edit video tired lab casual";
+var mnemonic = "disagree strategy imitate below author famous parrot fine refuse help current devote";

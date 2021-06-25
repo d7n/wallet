@@ -1,1 +1,1 @@
-var mnemonic = "chicken dynamic wave adapt jazz bicycle opinion buyer tip ring increase else";
+var mnemonic = "double father humor honey useless field nurse grid pattern blame observe business";

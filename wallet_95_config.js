@@ -1,1 +1,1 @@
-var mnemonic = "team discover doll save energy possible bottom category poet frozen okay supreme";
+var mnemonic = "plug finish print exotic hospital goddess couch fire clever wolf marine load";

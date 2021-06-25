@@ -1,1 +1,1 @@
-var mnemonic = "piano include decrease initial aisle mimic taste library huge hotel fiscal balcony";
+var mnemonic = "hunt extra fabric vicious wave boy topple season side help august day";

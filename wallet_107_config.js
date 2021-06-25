@@ -1,1 +1,1 @@
-var mnemonic = "hundred keep vote notable enjoy release tiger crawl throw vital grass license";
+var mnemonic = "execute clock super biology throw ridge install guess bag domain horse people";

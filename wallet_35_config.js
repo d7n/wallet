@@ -1,1 +1,1 @@
-var mnemonic = "supreme fish cactus tail learn basket pen eyebrow edge dress fork gym";
+var mnemonic = "embody infant paper country cigar plastic correct crumble bargain misery spawn ketchup";
