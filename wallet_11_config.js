@@ -1,1 +1,1 @@
-var mnemonic = "flock fancy aerobic burst because mirror relax iron shoot sun cheese switch";
+var mnemonic = "trap elevator cinnamon umbrella wrestle taste heavy chunk holiday eye inside polar";

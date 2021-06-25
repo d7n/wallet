@@ -1,1 +1,1 @@
-var mnemonic = "focus strategy onion apple mosquito reunion ticket brush awful corn prepare whisper";
+var mnemonic = "beauty box unknown today cage fortune clump poet defense feel exact walk";

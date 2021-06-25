@@ -1,1 +1,1 @@
-var mnemonic = "payment cave hover chase any swarm account mercy list mystery edit else";
+var mnemonic = "outside enforce state script moment chuckle apple snap universe praise tennis treat";

@@ -1,1 +1,1 @@
-var mnemonic = "inmate defense hundred duty cargo attract message artefact obtain pulse drill valley";
+var mnemonic = "achieve short abandon across affair item senior scout atom goose orient clip";

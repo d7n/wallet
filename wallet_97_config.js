@@ -1,1 +1,1 @@
-var mnemonic = "tooth increase absent fan find firm vessel pattern hub reform dirt corn";
+var mnemonic = "toward sell focus speak apple inner lens transfer caught hundred foster shrug";

@@ -1,1 +1,1 @@
-var mnemonic = "spell happy pear truck coconut ostrich sun intact car general theme soon";
+var mnemonic = "cover unhappy eight rally wool cloud memory travel exist process find fat";

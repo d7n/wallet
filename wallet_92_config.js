@@ -1,1 +1,1 @@
-var mnemonic = "almost garbage suspect pulse girl gas destroy diet minor antenna marble suspect";
+var mnemonic = "arrow inmate taxi agent ivory ugly regular pioneer faith sketch photo frost";

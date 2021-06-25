@@ -1,1 +1,1 @@
-var mnemonic = "split yellow lunch twelve reflect shaft dwarf state blanket fuel end sure";
+var mnemonic = "panda evil system tobacco situate depend call strategy help knife observe slush";

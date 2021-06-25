@@ -1,1 +1,1 @@
-var mnemonic = "frozen verb arctic shift option interest donkey push fashion once peasant stadium";
+var mnemonic = "suffer curtain faculty habit involve cactus thank entry crop subject scrap frog";

@@ -1,1 +1,1 @@
-var mnemonic = "pave paddle income unlock risk palace pen gas undo apart pottery loud";
+var mnemonic = "assist abuse sight number pull hole where spread law bridge expand virus";

@@ -1,1 +1,1 @@
-var mnemonic = "theme swallow similar mango check clock engage foster eight equip hello wagon";
+var mnemonic = "raise laptop reform inch chest narrow build wage insane develop great path";

@@ -1,1 +1,1 @@
-var mnemonic = "benefit trouble guess say pepper elite chaos together milk business sugar snack";
+var mnemonic = "split evidence artist captain phrase movie sound call sign rotate ask address";

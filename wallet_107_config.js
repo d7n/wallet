@@ -1,1 +1,1 @@
-var mnemonic = "bean coyote reunion dog snap essay mule fruit fortune loud wheel rally";
+var mnemonic = "scene bamboo creek subject cage rack final rose dress target drip slide";

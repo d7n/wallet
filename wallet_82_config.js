@@ -1,1 +1,1 @@
-var mnemonic = "beef bread vacuum try trip swim wreck people true crane eternal flash";
+var mnemonic = "distance pool okay shallow acid spend vacuum degree utility frost anchor pledge";

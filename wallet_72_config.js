@@ -1,1 +1,1 @@
-var mnemonic = "used book trap forget soda plastic cricket jaguar airport famous young oyster";
+var mnemonic = "letter husband hero hover sting that person across letter protect fantasy spoon";

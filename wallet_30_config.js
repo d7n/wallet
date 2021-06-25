@@ -1,1 +1,1 @@
-var mnemonic = "mutual valley ability fluid member alley hurry lizard inquiry zoo critic hotel";
+var mnemonic = "acoustic nose throw shield attract consider large proud entry deer genuine copy";

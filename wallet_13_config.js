@@ -1,1 +1,1 @@
-var mnemonic = "future oblige gap mushroom sell hamster maid glide marriage bamboo behind tube";
+var mnemonic = "pen this output system fork eight fetch muscle stool entry meat enjoy";

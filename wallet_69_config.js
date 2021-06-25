@@ -1,1 +1,1 @@
-var mnemonic = "bicycle monitor acid student this pass engine reduce fiber another direct average";
+var mnemonic = "panel arrive tomato also deal glare brass luggage gossip doctor wolf garbage";

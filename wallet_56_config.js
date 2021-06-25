@@ -1,1 +1,1 @@
-var mnemonic = "often figure angry antenna foil steel monkey estate mushroom popular focus wrestle";
+var mnemonic = "dish robust ketchup scout dutch gentle legend myself idle castle add slush";

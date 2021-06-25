@@ -1,1 +1,1 @@
-var mnemonic = "ship raise teach viable crunch cheese other thumb palm add screen mad";
+var mnemonic = "love since camp ecology smoke stool patient laugh curtain cannon axis muffin";

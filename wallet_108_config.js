@@ -1,1 +1,1 @@
-var mnemonic = "rhythm fancy joke knock off night iron print daring attitude two blur";
+var mnemonic = "about kitten enlist catalog blossom hundred curtain canoe pepper trigger now defense";

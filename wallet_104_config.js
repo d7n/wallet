@@ -1,1 +1,1 @@
-var mnemonic = "vacant route message vague museum bus easily genius pig spawn erupt venue";
+var mnemonic = "answer jungle they spirit debate hold consider vapor dad gentle nature horn";

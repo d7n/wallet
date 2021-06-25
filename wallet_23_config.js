@@ -1,1 +1,1 @@
-var mnemonic = "arctic write accuse autumn sand sunny young female bag traffic find book";
+var mnemonic = "catalog plate dinner soul token task certain scan orchard brand pair invest";

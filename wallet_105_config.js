@@ -1,1 +1,1 @@
-var mnemonic = "jacket gate absorb rule bounce update nation chest ancient gloom minimum song";
+var mnemonic = "bag relief whale sniff leopard neither patrol forest voice country wall main";

@@ -1,1 +1,1 @@
-var mnemonic = "execute check betray fork open antique long shiver alone cruise large boat";
+var mnemonic = "early mammal morning aware warm fatigue success stand ahead flush cheese usage";

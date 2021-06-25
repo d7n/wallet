@@ -1,1 +1,1 @@
-var mnemonic = "lava topple common thing damage already parrot fury elder leave innocent frost";
+var mnemonic = "giant taxi protect coin twenty bamboo math ahead update arch baby inject";

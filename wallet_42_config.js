@@ -1,1 +1,1 @@
-var mnemonic = "token walnut car whip differ orange antenna disease deliver throw caution spawn";
+var mnemonic = "feed pact general manage mail favorite now grab confirm confirm pulp aware";

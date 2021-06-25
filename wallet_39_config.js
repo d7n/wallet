@@ -1,1 +1,1 @@
-var mnemonic = "replace equip empower very ordinary squeeze debate under million afford gauge dance";
+var mnemonic = "strike month film border else burger fever surge cube two oxygen work";

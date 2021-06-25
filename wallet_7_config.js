@@ -1,1 +1,1 @@
-var mnemonic = "access shoulder pole clump tenant aunt deny joke witness round social border";
+var mnemonic = "shock birth balcony eagle under book pizza blind lava bridge blur skin";

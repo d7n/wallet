@@ -1,1 +1,1 @@
-var mnemonic = "call control evil box gap surprise romance tragic runway mutual kiss cancel";
+var mnemonic = "matrix myth cricket diesel believe absurd note december thing blind cheese auction";

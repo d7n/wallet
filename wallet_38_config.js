@@ -1,1 +1,1 @@
-var mnemonic = "order garlic swarm long blood enjoy have logic sail odor drama climb";
+var mnemonic = "travel life above put judge enhance rude panic burst inmate honey session";

@@ -1,1 +1,1 @@
-var mnemonic = "category gym confirm ride weekend core need young better panda gravity buffalo";
+var mnemonic = "annual spider auction submit later champion select wash scrub face float safe";

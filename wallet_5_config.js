@@ -1,1 +1,1 @@
-var mnemonic = "august away execute dinner furnace figure orphan rail destroy program grab brass";
+var mnemonic = "teach truck client sure hood survey use glare service horror entry choose";

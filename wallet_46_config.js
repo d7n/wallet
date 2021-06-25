@@ -1,1 +1,1 @@
-var mnemonic = "damp since margin forum swap you detail net movie reform lyrics just";
+var mnemonic = "raise utility this cup puzzle eye entry spot cage fringe title guide";

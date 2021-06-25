@@ -1,1 +1,1 @@
-var mnemonic = "fever trash genuine nasty bracket win side quarter give catch retire bonus";
+var mnemonic = "soon home rough lake marriage wild adult virtual spare hurry affair believe";

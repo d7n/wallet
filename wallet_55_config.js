@@ -1,1 +1,1 @@
-var mnemonic = "inside leopard decide girl engage shiver glimpse still couch private apology key";
+var mnemonic = "ostrich print friend erode cute viable arch bounce valid renew remain cloth";

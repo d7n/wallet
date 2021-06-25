@@ -1,1 +1,1 @@
-var mnemonic = "crane camera ahead digital raise flat scissors biology camera live exchange east";
+var mnemonic = "club reopen deer inch gadget economy valve next column switch poem half";

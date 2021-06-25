@@ -1,1 +1,1 @@
-var mnemonic = "scheme gallery army provide beach forum current fan outer spoon tooth cheese";
+var mnemonic = "draw cereal unknown jewel pull basic ranch gather custom aspect duty pipe";

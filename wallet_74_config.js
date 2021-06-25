@@ -1,1 +1,1 @@
-var mnemonic = "lemon warrior lab oxygen myself latin caution cake move reunion flush short";
+var mnemonic = "brick phrase muscle sun found whip mechanic kite stable clean steel tourist";

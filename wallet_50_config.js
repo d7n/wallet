@@ -1,1 +1,1 @@
-var mnemonic = "green response exhaust dutch disease wisdom net leg orange soldier define giraffe";
+var mnemonic = "nation hole prosper choice mail length distance soup rival antique abuse idle";

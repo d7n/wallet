@@ -1,1 +1,1 @@
-var mnemonic = "page pact try birth link frown kitten habit alien fade name industry";
+var mnemonic = "minor minimum vivid praise dizzy dose deal dentist depart much trap town";

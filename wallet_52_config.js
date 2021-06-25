@@ -1,1 +1,1 @@
-var mnemonic = "budget shoe fun false thumb cash impulse laundry hat believe still pair";
+var mnemonic = "jazz opera purchase sphere method mean excess access later bonus soap kiss";

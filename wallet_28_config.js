@@ -1,1 +1,1 @@
-var mnemonic = "marble utility sick eagle unique mechanic float inherit conduct involve such limit";
+var mnemonic = "digital length double aerobic index nest hole fetch bulb mobile young invite";

@@ -1,1 +1,1 @@
-var mnemonic = "maid behind domain volume love movie coconut merge expand fluid spice inch";
+var mnemonic = "angle cancel marine hole depend want advance oval flush animal sun loud";

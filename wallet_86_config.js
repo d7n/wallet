@@ -1,1 +1,1 @@
-var mnemonic = "ahead actress dismiss broccoli defy project lobster leg ski dynamic guide asthma";
+var mnemonic = "fold sting quick addict type friend dawn wear need mouse fox bicycle";

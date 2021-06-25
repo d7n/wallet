@@ -1,1 +1,1 @@
-var mnemonic = "endless else plug mule meadow dwarf pond prosper fuel bamboo shiver galaxy";
+var mnemonic = "vacant moon collect sphere angry angry deputy hero father wood shrimp rare";

@@ -1,1 +1,1 @@
-var mnemonic = "duty orange day alert brief citizen crash ticket business silver entry angry";
+var mnemonic = "vapor shield panel rookie plunge good swift drill race clown demise comic";

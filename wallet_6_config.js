@@ -1,1 +1,1 @@
-var mnemonic = "humor under library nose hybrid section exchange carry gasp sentence enroll hard";
+var mnemonic = "sponsor uncover world street hold theme world quick good human melody click";

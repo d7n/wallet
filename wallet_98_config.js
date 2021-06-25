@@ -1,1 +1,1 @@
-var mnemonic = "together recipe bunker pledge task path day glide skill sadness govern ketchup";
+var mnemonic = "craft submit bread dutch maid deputy fire derive frown body obey hollow";

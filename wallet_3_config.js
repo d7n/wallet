@@ -1,1 +1,1 @@
-var mnemonic = "kind ghost infant return miss robust install damage maximum dance elder canoe";
+var mnemonic = "like team climb six topple slender frozen cheap usual asset ceiling teach";

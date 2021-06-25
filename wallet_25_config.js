@@ -1,1 +1,1 @@
-var mnemonic = "shove feel open grape grain term intact usual man tongue endorse satisfy";
+var mnemonic = "lens alcohol bundle tongue toast slam depend champion become bundle dawn leg";

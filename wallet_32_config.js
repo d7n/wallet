@@ -1,1 +1,1 @@
-var mnemonic = "hunt cable evolve shoe tent live bottom modify congress process differ moon";
+var mnemonic = "priority vendor dolphin ability huge trade arena renew pelican exercise law grow";

@@ -1,1 +1,1 @@
-var mnemonic = "risk green thrive effort boat distance act volume lawn put connect gesture";
+var mnemonic = "enroll bicycle caution clump pear unique advice spring apology cheap trim peasant";

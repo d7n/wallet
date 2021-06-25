@@ -1,1 +1,1 @@
-var mnemonic = "hint organ arctic leave gold stem talent process phone swap extend best";
+var mnemonic = "enhance female such monitor skirt diet like smart become hood fiscal season";

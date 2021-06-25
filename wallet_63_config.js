@@ -1,1 +1,1 @@
-var mnemonic = "fantasy tribe pet shell video glad humor since smoke leopard issue crisp";
+var mnemonic = "minor play swing gold shock penalty element run order devote soccer mask";

@@ -1,1 +1,1 @@
-var mnemonic = "various work feature black popular correct wife erosion ancient end enrich play";
+var mnemonic = "ritual immune tornado organ disorder belt tail mechanic culture hover march talent";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry acquire spirit end waste length cactus plunge squirrel snow story review";
+var mnemonic = "session blame goose apology same eager buzz manage employ chat master run";

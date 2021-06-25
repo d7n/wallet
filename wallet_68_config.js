@@ -1,1 +1,1 @@
-var mnemonic = "initial deal bring shoe ancient degree enter animal shoulder air unable stable";
+var mnemonic = "summer fantasy find airport include clarify flock transfer pet grain slam nation";

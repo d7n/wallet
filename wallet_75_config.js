@@ -1,1 +1,1 @@
-var mnemonic = "crucial hint announce puppy warrior accuse engage snap learn tell category notice";
+var mnemonic = "sadness impact embody better army sweet damage rotate ability juice estate deputy";

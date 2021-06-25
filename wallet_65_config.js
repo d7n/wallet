@@ -1,1 +1,1 @@
-var mnemonic = "tongue seven fortune smart discover camera seat mountain juice raven chair choice";
+var mnemonic = "cliff thumb hurt misery push dice sunny famous absent crater school joke";

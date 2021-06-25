@@ -1,1 +1,1 @@
-var mnemonic = "menu develop limit horse winner fortune course relief range inspire quality clip";
+var mnemonic = "acoustic achieve spawn satoshi picnic loud pool three hand olive toss hard";

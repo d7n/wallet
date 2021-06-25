@@ -1,1 +1,1 @@
-var mnemonic = "clutch coast ticket laundry birth combine decide kingdom rigid amount essay autumn";
+var mnemonic = "rude purchase trap sadness lucky faith icon degree rate you pet violin";

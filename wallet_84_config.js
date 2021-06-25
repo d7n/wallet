@@ -1,1 +1,1 @@
-var mnemonic = "volume wave tilt quiz spider erosion female boil clap weapon teach ten";
+var mnemonic = "earth payment large depth vendor maze type merry will family reveal fatigue";

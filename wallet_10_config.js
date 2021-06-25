@@ -1,1 +1,1 @@
-var mnemonic = "confirm taxi script element lumber satisfy phone orange club asthma exile history";
+var mnemonic = "still sudden legal sphere length copy zero stereo month license stairs puppy";

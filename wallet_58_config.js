@@ -1,1 +1,1 @@
-var mnemonic = "bundle slab common latin produce mind battle coast worth crop lock mountain";
+var mnemonic = "unit physical foam weapon various panther manage loud capital seek version elegant";

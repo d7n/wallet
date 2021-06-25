@@ -1,1 +1,1 @@
-var mnemonic = "pioneer daughter nasty shoot pave owner goose night banner ostrich blind umbrella";
+var mnemonic = "involve bachelor nation unfold story special gentle trust april output frame expose";

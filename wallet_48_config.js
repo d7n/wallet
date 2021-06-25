@@ -1,1 +1,1 @@
-var mnemonic = "time surface beef police reopen inside camera remind prepare law spot worry";
+var mnemonic = "trust soap snake crouch pool cereal morning coral cream panda print art";

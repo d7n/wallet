@@ -1,1 +1,1 @@
-var mnemonic = "slab fit change special narrow peasant ecology scout tenant help armor brand";
+var mnemonic = "rapid neglect cactus eagle oblige cruel confirm screen maple save salt open";

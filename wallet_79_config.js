@@ -1,1 +1,1 @@
-var mnemonic = "say dignity spoil ladder inside cotton stove hurry convince relax focus brown";
+var mnemonic = "remember loop diet salon safe wagon garlic cricket hospital nature rent virus";

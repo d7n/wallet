@@ -1,1 +1,1 @@
-var mnemonic = "melody shiver old bonus antenna huge utility club position hollow chunk apart";
+var mnemonic = "aspect cake skill path summer fury knife know blame audit target panther";

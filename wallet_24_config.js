@@ -1,1 +1,1 @@
-var mnemonic = "churn baby stock throw broken pool merit increase opera enough become enact";
+var mnemonic = "damage unfold sniff verify ancient toward season test initial smile math admit";

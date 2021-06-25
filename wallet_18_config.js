@@ -1,1 +1,1 @@
-var mnemonic = "hair hybrid museum lounge void position payment face blind bring circle sun";
+var mnemonic = "ribbon trap burden stock beauty claw solid ask grace tuition food expire";

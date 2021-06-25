@@ -1,1 +1,1 @@
-var mnemonic = "educate fury earth moon random lounge diary notice vintage fire depart gift";
+var mnemonic = "expose bone toilet object social rural margin saddle end consider useless safe";

@@ -1,1 +1,1 @@
-var mnemonic = "mandate enact grief absent person rail drift gas whale tent lumber alert";
+var mnemonic = "final leader around grain crawl title elder ginger have double math loyal";

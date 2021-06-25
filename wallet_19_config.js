@@ -1,1 +1,1 @@
-var mnemonic = "patrol drum entire hurdle settle category consider range ordinary parent timber thunder";
+var mnemonic = "inch install torch lift genius decorate grunt nasty humble refuse poverty upset";

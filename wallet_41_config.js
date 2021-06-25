@@ -1,1 +1,1 @@
-var mnemonic = "risk metal beef spare canal apology universe arrive minor window crazy unique";
+var mnemonic = "rotate letter virus strong just buzz dwarf battle tell clog cruel gospel";

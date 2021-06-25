@@ -1,1 +1,1 @@
-var mnemonic = "cool give zebra rule void steak jelly scissors bicycle picnic fringe hurry";
+var mnemonic = "unusual laundry smile either cover number fold keep enhance worry skirt tomorrow";

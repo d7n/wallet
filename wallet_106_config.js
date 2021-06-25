@@ -1,1 +1,1 @@
-var mnemonic = "worry bread table brick notable can umbrella charge grit laptop doctor lady";
+var mnemonic = "stay fiction mango false gasp keen girl midnight abandon key oppose horn";

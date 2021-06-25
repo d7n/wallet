@@ -1,1 +1,1 @@
-var mnemonic = "domain property wish odor need violin extra proof short medal pave wedding";
+var mnemonic = "design scare search step add feed pet shrimp tower surround glimpse future";

@@ -1,1 +1,1 @@
-var mnemonic = "pepper fox dose series tiger large home bulk core little clerk panda";
+var mnemonic = "ceiling coral open fiscal bullet pledge flock seven stage refuse title allow";

@@ -1,1 +1,1 @@
-var mnemonic = "camp marine catalog seminar frog minimum reflect evoke insane giggle fresh number";
+var mnemonic = "list empty defense catalog avoid piece birth donkey hello frost noise surge";

@@ -1,1 +1,1 @@
-var mnemonic = "window tongue dentist charge rose abstract pupil point amateur reduce baby enforce";
+var mnemonic = "aerobic alpha cherry render decade dawn arctic struggle such gate case phrase";

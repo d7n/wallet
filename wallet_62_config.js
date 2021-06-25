@@ -1,1 +1,1 @@
-var mnemonic = "half dutch mercy rely olympic fashion fog thumb stick talent blast release";
+var mnemonic = "runway pill auction rely liquid ask foot excite rural happy belt lock";

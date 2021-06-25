@@ -1,1 +1,1 @@
-var mnemonic = "illness august urge siege icon apology response visa range tent melody discover";
+var mnemonic = "betray doctor borrow wire escape property unhappy atom electric rival bring morning";

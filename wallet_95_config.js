@@ -1,1 +1,1 @@
-var mnemonic = "drum affair burst cargo nothing swarm near just bonus setup mixed tribe";
+var mnemonic = "pull inherit ketchup radar kitchen high tonight heavy thing front pledge force";

@@ -1,1 +1,1 @@
-var mnemonic = "wave federal edge already limit online wave safe treat knee long sample";
+var mnemonic = "enforce bird tenant grunt slush drum boat motor toy digital brother alert";

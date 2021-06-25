@@ -1,1 +1,1 @@
-var mnemonic = "gadget embrace clump viable hunt once birth tornado trip nest tomato describe";
+var mnemonic = "flight citizen need weird fuel funny arrest casino hammer fine crane camp";

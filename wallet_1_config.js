@@ -1,1 +1,1 @@
-var mnemonic = "oak inch tip noble demise view essence trip muffin truck siege patient";
+var mnemonic = "midnight orphan bounce source hand protect concert wish twice main absurd grass";

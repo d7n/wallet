@@ -1,1 +1,1 @@
-var mnemonic = "banner leaf cherry rebuild smoke impulse immune disagree language above essence crawl";
+var mnemonic = "once two live print thrive tongue entry neutral rigid fresh photo boil";
