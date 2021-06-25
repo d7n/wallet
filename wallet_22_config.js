@@ -1,1 +1,1 @@
-var mnemonic = "universe clip slice orchard actress head abandon exit inherit element science grape";
+var mnemonic = "radio kiwi page seek will hobby law essay rally cannon thunder giggle";

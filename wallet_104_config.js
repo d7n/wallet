@@ -1,1 +1,1 @@
-var mnemonic = "walk nation cricket staff control genuine captain wear quiz exercise flush bus";
+var mnemonic = "cactus much surface chair entire roof can enter cupboard science what empty";

@@ -1,1 +1,1 @@
-var mnemonic = "sausage replace visit liar setup rhythm extend have lab bike song hub";
+var mnemonic = "cancel planet cattle hockey foot capable foil define absent oval swamp annual";

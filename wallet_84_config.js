@@ -1,1 +1,1 @@
-var mnemonic = "choose festival vicious detail remind wrong clock word crater panda ivory eager";
+var mnemonic = "twin oval wealth home misery giant letter depth slender spirit twelve bean";

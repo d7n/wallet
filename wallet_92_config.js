@@ -1,1 +1,1 @@
-var mnemonic = "rabbit repeat odor hungry rude boost erosion steak embody panic lake essay";
+var mnemonic = "mad welcome shove blue boss remember make egg guard banner video life";

@@ -1,1 +1,1 @@
-var mnemonic = "neck pilot master shock common endless pluck winter budget trap enlist search";
+var mnemonic = "cat fragile split upper youth pudding outside mirror hammer sock swamp crisp";

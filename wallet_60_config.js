@@ -1,1 +1,1 @@
-var mnemonic = "switch stock identify pen country street recycle note artist consider deliver square";
+var mnemonic = "napkin today trim delay agent mammal tent medal stay useful kid text";

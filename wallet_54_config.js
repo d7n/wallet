@@ -1,1 +1,1 @@
-var mnemonic = "donkey blanket alter bulk floor because wasp recall police limb audit gesture";
+var mnemonic = "favorite indicate valve wise faint wire image then other depth crash orphan";

@@ -1,1 +1,1 @@
-var mnemonic = "torch mercy common stairs fiber parrot engine endless spray denial gesture salmon";
+var mnemonic = "art chaos ecology cross above marriage tackle smooth fish pencil correct march";

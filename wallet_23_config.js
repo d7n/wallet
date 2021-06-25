@@ -1,1 +1,1 @@
-var mnemonic = "lend liar act video stand remember immune walnut success again sudden blush";
+var mnemonic = "bleak hard bone swear mind cage logic erosion winter cash melt town";

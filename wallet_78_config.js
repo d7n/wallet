@@ -1,1 +1,1 @@
-var mnemonic = "maple identify topple ritual act box virtual balcony tired virtual pause visit";
+var mnemonic = "piano around south smart ignore luggage airport pool cigar home able pudding";

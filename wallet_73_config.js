@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow screen noise century town cricket hunt kitchen tobacco drill shine rude";
+var mnemonic = "update feel indoor manage zoo cage dry wheat cave tomato chalk cannon";

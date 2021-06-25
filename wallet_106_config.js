@@ -1,1 +1,1 @@
-var mnemonic = "metal caught slush prosper answer grid kingdom reject cancel book grocery bubble";
+var mnemonic = "tank orbit relax exchange category flavor metal venue fat cool camera cross";

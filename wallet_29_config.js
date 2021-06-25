@@ -1,1 +1,1 @@
-var mnemonic = "alpha snap match draw science twice range among have force twin divide";
+var mnemonic = "moral inspire tongue file resemble soft point major element dinosaur velvet motor";

@@ -1,1 +1,1 @@
-var mnemonic = "day hip weekend better master snap eager doll alcohol orbit section blue";
+var mnemonic = "ramp dumb loan celery girl ensure bamboo wing firm suggest modify people";

@@ -1,1 +1,1 @@
-var mnemonic = "vicious dose faculty trial inhale review property prosper turkey inch alien gauge";
+var mnemonic = "host clump error urge tumble near panda pill decide hollow two turtle";

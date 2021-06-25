@@ -1,1 +1,1 @@
-var mnemonic = "reopen protect chair page media high person shoulder answer merry husband struggle";
+var mnemonic = "omit behind fog cup quiz useless amount rapid solution pistol first quiz";

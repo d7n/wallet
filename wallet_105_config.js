@@ -1,1 +1,1 @@
-var mnemonic = "evil soda speed slow slush sad tail steak sting fragile scout blouse";
+var mnemonic = "air crane alpha wonder thing equal rookie reveal victory tone invite hold";

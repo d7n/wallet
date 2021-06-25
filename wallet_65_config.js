@@ -1,1 +1,1 @@
-var mnemonic = "heart enrich vacant satisfy uphold wrist brain check say search tilt achieve";
+var mnemonic = "employ spoon midnight crouch there elite screen useful primary hurry gym below";

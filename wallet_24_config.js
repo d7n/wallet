@@ -1,1 +1,1 @@
-var mnemonic = "grain noodle town beauty dinosaur clown deny rice paddle lyrics guess hospital";
+var mnemonic = "sketch ceiling nice attack bronze time year tail industry farm engine energy";

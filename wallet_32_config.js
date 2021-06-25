@@ -1,1 +1,1 @@
-var mnemonic = "junior cost model feature reduce knife actress alien inner bean surround country";
+var mnemonic = "van poverty broccoli belt snake shrug august diamond decline dignity dizzy use";

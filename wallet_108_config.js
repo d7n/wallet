@@ -1,1 +1,1 @@
-var mnemonic = "fatigue copper indicate rib rude impact inspire tank bar field rabbit resemble";
+var mnemonic = "flock company alcohol fatigue female obscure athlete crumble glare skin decide eye";

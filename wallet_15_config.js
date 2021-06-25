@@ -1,1 +1,1 @@
-var mnemonic = "diamond cloth pyramid sort attract such animal achieve merge actor match next";
+var mnemonic = "pizza ready tower eight guitar glide garage violin toward hamster frown reason";

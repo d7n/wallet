@@ -1,1 +1,1 @@
-var mnemonic = "armor day bench aim ball rocket west citizen alarm shoe resource wood";
+var mnemonic = "maximum illness stable source umbrella assist defense client maid best orphan bone";

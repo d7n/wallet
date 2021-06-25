@@ -1,1 +1,1 @@
-var mnemonic = "type hedgehog case awesome inside abandon mix network judge stumble labor crush";
+var mnemonic = "fog viable crew local circle bench protect admit chaos glove viable rack";

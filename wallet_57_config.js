@@ -1,1 +1,1 @@
-var mnemonic = "predict shuffle bulk sun patch eight pulse winner pass dry sample strong";
+var mnemonic = "security fiscal easy tent keep arena paddle pencil smile copy common gold";

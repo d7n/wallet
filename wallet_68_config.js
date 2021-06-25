@@ -1,1 +1,1 @@
-var mnemonic = "valve mesh ancient deny cargo uncle effort obtain similar fence ivory book";
+var mnemonic = "cable monkey young please increase rug warfare cluster glow lawsuit found domain";

@@ -1,1 +1,1 @@
-var mnemonic = "miracle fine luxury crack width main endorse ordinary need venture promote runway";
+var mnemonic = "autumn mammal loan story raven jewel dress easy medal convince where review";

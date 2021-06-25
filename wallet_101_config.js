@@ -1,1 +1,1 @@
-var mnemonic = "visual same wish fancy marine cash force vague legend problem mention mask";
+var mnemonic = "beach such venue basic shiver prosper rice coil jeans file menu glance";

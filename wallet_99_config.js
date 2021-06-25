@@ -1,1 +1,1 @@
-var mnemonic = "distance aware manage sport retire business someone dust flavor marriage keen volcano";
+var mnemonic = "ranch slice lecture envelope lava minor cover vintage guilt cost borrow awesome";

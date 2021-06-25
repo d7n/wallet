@@ -1,1 +1,1 @@
-var mnemonic = "horse planet wheat camp mimic weapon air length topple office cereal worry";
+var mnemonic = "baby clean ethics injury camera clean name spell burst gate latin miracle";

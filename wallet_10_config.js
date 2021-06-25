@@ -1,1 +1,1 @@
-var mnemonic = "health note mobile ship enlist route member spell people photo ostrich muffin";
+var mnemonic = "until suffer announce amazing equal gown coral ridge dog high strategy measure";

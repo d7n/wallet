@@ -1,1 +1,1 @@
-var mnemonic = "humble crane fog artefact parent spoon average bubble unit puppy mandate appear";
+var mnemonic = "one horse exchange now topple anxiety iron word melt stem meadow seat";

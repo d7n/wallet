@@ -1,1 +1,1 @@
-var mnemonic = "aunt stand believe until honey dice wine banana erosion plate biology erase";
+var mnemonic = "bachelor account damage skin air bag staff major script antenna report sport";

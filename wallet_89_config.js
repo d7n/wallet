@@ -1,1 +1,1 @@
-var mnemonic = "label bid latin upon tackle dose buzz online receive network soccer limb";
+var mnemonic = "journey brush lawn town bottom between mesh midnight cabbage crack output gorilla";

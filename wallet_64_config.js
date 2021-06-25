@@ -1,1 +1,1 @@
-var mnemonic = "ethics example foam cherry duty loop before puppy grass system barely voice";
+var mnemonic = "room symbol cable box nuclear inspire guard accuse blade actor bread heavy";

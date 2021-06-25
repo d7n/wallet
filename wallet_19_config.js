@@ -1,1 +1,1 @@
-var mnemonic = "venue afford rookie vendor wall leg confirm bone rural always giraffe easy";
+var mnemonic = "tornado wisdom false sugar roast use arrive brother burst tobacco ice consider";

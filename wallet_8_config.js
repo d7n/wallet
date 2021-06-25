@@ -1,1 +1,1 @@
-var mnemonic = "lion dismiss toe armor slam come ketchup radio keep either village north";
+var mnemonic = "laugh teach banner lunar employ certain speak rent circle three more deputy";

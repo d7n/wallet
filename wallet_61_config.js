@@ -1,1 +1,1 @@
-var mnemonic = "path wise zoo story potato artist have lawsuit coast cigar million empower";
+var mnemonic = "gravity radio reopen until wonder enter clown trash giant arena arch buzz";

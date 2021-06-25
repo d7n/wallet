@@ -1,1 +1,1 @@
-var mnemonic = "soon chest blush decline shoot basic silly young fever trophy win easily";
+var mnemonic = "crystal donate agent melt asthma throw milk cliff rookie machine into long";

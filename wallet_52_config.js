@@ -1,1 +1,1 @@
-var mnemonic = "list cancel laugh rabbit require special sand visa pumpkin enact million ghost";
+var mnemonic = "state income below upon random joy various gown dynamic army spike zebra";

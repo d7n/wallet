@@ -1,1 +1,1 @@
-var mnemonic = "actress short february unknown fade science have sentence pony suspect plate erase";
+var mnemonic = "blanket step invite skirt armed agent industry strike mention omit view buffalo";

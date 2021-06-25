@@ -1,1 +1,1 @@
-var mnemonic = "popular purchase ski brown bus undo false banner curve poem trigger manage";
+var mnemonic = "film dune letter state fiber eye egg trick ritual solid atom history";

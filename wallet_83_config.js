@@ -1,1 +1,1 @@
-var mnemonic = "tongue impose metal cream kangaroo target step accuse doctor isolate nasty mind";
+var mnemonic = "seat human result cluster diesel lamp park answer enable cube truth tunnel";

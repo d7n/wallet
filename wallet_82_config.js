@@ -1,1 +1,1 @@
-var mnemonic = "orbit shallow during squirrel vanish kind tomato evoke wait fitness detect orient";
+var mnemonic = "oven aerobic coach sustain salad sausage vicious coffee core custom eagle indicate";

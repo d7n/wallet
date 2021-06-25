@@ -1,1 +1,1 @@
-var mnemonic = "blame female person mesh narrow power wear tooth fabric pelican dish verb";
+var mnemonic = "suffer wealth someone hybrid runway gospel seed mandate three response dry track";

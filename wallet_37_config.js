@@ -1,1 +1,1 @@
-var mnemonic = "harbor horn type couch benefit token vanish wreck credit luxury hip silent";
+var mnemonic = "error theory coral forward brain analyst notable profit best swarm guard until";

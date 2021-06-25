@@ -1,1 +1,1 @@
-var mnemonic = "glue security team salmon random lamp sheriff cat skate slight seminar autumn";
+var mnemonic = "bread gather luxury palm arctic behind consider essence diagram warrior glad movie";

@@ -1,1 +1,1 @@
-var mnemonic = "please basket furnace around infant senior betray tone crop side file penalty";
+var mnemonic = "trash usual permit castle praise fun sweet wrist tilt unusual powder ski";

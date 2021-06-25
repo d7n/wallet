@@ -1,1 +1,1 @@
-var mnemonic = "goddess moon tattoo walk demise memory symbol push absent whale any aunt";
+var mnemonic = "bid giggle amused exact prevent message yellow letter vehicle saddle jar cousin";

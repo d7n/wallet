@@ -1,1 +1,1 @@
-var mnemonic = "afraid never found left fuel luggage huge junk recipe romance kit hill";
+var mnemonic = "gauge brown toward link chuckle swift true chronic thing orange team kitchen";

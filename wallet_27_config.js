@@ -1,1 +1,1 @@
-var mnemonic = "taste donate velvet like spawn pelican outside cereal wide odor online reason";
+var mnemonic = "clinic invest lazy weekend crawl page tennis earth warm play gaze zero";

@@ -1,1 +1,1 @@
-var mnemonic = "steel category hold sphere age bomb hard like beef attend senior search";
+var mnemonic = "clarify cotton kid inspire main neutral strike genuine this doll this sausage";

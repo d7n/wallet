@@ -1,1 +1,1 @@
-var mnemonic = "august grid blood cube jelly opera west sibling very antique woman width";
+var mnemonic = "earth engine guide mix alert profit letter tent already lizard rebuild prepare";

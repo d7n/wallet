@@ -1,1 +1,1 @@
-var mnemonic = "arrow gentle heart isolate cream work obvious private parrot trick high another";
+var mnemonic = "castle happy casino can dream shift major protect object picture scissors retreat";

@@ -1,1 +1,1 @@
-var mnemonic = "magic elite method nothing idle rocket region thumb cool rail voyage service";
+var mnemonic = "arch cable soup buffalo profit mouse treat old version draw barely gadget";

@@ -1,1 +1,1 @@
-var mnemonic = "around rapid common song check surprise always desert witness maximum monster outside";
+var mnemonic = "deer plunge wall lecture frog never hungry frozen member attack gate poverty";

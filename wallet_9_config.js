@@ -1,1 +1,1 @@
-var mnemonic = "fatal wagon laptop any yard act smile slab develop quit metal nothing";
+var mnemonic = "net mother mad anchor witness rebuild lab world spider proud dentist abandon";

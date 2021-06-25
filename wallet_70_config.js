@@ -1,1 +1,1 @@
-var mnemonic = "rotate wall express smile save benefit attract east child evolve pumpkin ship";
+var mnemonic = "license love banner kind resource viable session wire iron utility connect funny";

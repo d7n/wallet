@@ -1,1 +1,1 @@
-var mnemonic = "tragic illness dash bright degree awkward over gospel all orphan orchard gas";
+var mnemonic = "fatal blade deposit soup dutch tail lesson truck view pulse arrive ceiling";

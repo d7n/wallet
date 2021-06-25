@@ -1,1 +1,1 @@
-var mnemonic = "firm nature sorry affair salute auction model lesson target beef govern stock";
+var mnemonic = "canyon kit prize liberty cancel argue script problem squirrel minor group learn";

@@ -1,1 +1,1 @@
-var mnemonic = "despair appear chase arctic around basic diesel fantasy trumpet team crane shuffle";
+var mnemonic = "predict network stem own analyst risk learn try exile audit hundred kid";

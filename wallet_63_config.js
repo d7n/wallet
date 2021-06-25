@@ -1,1 +1,1 @@
-var mnemonic = "hen jump ill social usage elder genre later throw sock antenna omit";
+var mnemonic = "addict task powder unfold ancient spell language output orient glide lonely eyebrow";

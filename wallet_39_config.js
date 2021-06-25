@@ -1,1 +1,1 @@
-var mnemonic = "kit shed reopen pen width lunch wrist panther canvas diagram physical about";
+var mnemonic = "rebuild uniform pipe kind usage recycle over stadium coffee mad tuna execute";

@@ -1,1 +1,1 @@
-var mnemonic = "reject reward flush pride grab bicycle bubble crucial hazard tip gun frown";
+var mnemonic = "nature simple roast hawk goddess rabbit subway salt intact mirror task decide";

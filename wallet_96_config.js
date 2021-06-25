@@ -1,1 +1,1 @@
-var mnemonic = "behave solution school trick toy change museum stool path review uphold any";
+var mnemonic = "fee fatal siren glad olympic please shop grape view volcano raven brown";

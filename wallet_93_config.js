@@ -1,1 +1,1 @@
-var mnemonic = "remind aunt aim only turtle adjust cram text resist urban mobile unhappy";
+var mnemonic = "lend library rule media enrich exile reform recycle soldier divert limit little";

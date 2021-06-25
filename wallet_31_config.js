@@ -1,1 +1,1 @@
-var mnemonic = "invest deputy aware plunge drill fine marine robust remain sleep tourist stone";
+var mnemonic = "super romance wish sample glue soul advance clutch dove twelve anxiety salmon";

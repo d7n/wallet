@@ -1,1 +1,1 @@
-var mnemonic = "voyage multiply current immune arctic cannon pole blade diet cloth cliff correct";
+var mnemonic = "caution orphan bird lesson dentist talent leopard raccoon shop faith between emerge";

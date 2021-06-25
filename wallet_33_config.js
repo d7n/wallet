@@ -1,1 +1,1 @@
-var mnemonic = "eagle loan pottery display expect detail guitar screen tip water game patrol";
+var mnemonic = "pair baby again prepare junk small possible rich grid ribbon over pioneer";

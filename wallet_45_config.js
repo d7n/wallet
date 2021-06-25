@@ -1,1 +1,1 @@
-var mnemonic = "vendor panther train various slogan timber fee turtle boat brush casino august";
+var mnemonic = "infant north accident apology bulk step law ethics bright pulp matrix dizzy";

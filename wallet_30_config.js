@@ -1,1 +1,1 @@
-var mnemonic = "salon december damage bind domain ensure reward review arrest measure left bench";
+var mnemonic = "divert sadness typical special girl such solid social sphere dune basket file";

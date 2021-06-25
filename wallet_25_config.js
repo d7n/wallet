@@ -1,1 +1,1 @@
-var mnemonic = "patient spy jungle expire coconut believe deputy popular inject flag dish fantasy";
+var mnemonic = "shine harsh balcony muffin donkey cook please leopard myth stairs erase issue";

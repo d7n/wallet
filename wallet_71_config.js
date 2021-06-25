@@ -1,1 +1,1 @@
-var mnemonic = "divorce ten absorb steel glow civil wish shell can merit rib sound";
+var mnemonic = "boss vague mind perfect exile lock convince trial universe quality liar tunnel";

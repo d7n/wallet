@@ -1,1 +1,1 @@
-var mnemonic = "west salute bronze bunker humor diesel talk acquire chief all simple odor";
+var mnemonic = "squirrel fine forward pudding tiger output harbor help hungry kid media crazy";

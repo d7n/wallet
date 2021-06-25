@@ -1,1 +1,1 @@
-var mnemonic = "insane evoke cat ivory draw banner ability model page illegal voice vapor";
+var mnemonic = "fresh trash film engage twelve enemy lyrics cupboard leader bubble hour design";

@@ -1,1 +1,1 @@
-var mnemonic = "grief twin normal nature height helmet file dust year much seat fruit";
+var mnemonic = "bag man gaze dizzy glance ketchup curve force update dune seven caught";

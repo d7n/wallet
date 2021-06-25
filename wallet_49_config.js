@@ -1,1 +1,1 @@
-var mnemonic = "slot slice tool predict type record reveal shrimp bind august pond either";
+var mnemonic = "copy frame project still later route hub disorder someone alter trial danger";

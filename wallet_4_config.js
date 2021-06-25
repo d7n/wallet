@@ -1,1 +1,1 @@
-var mnemonic = "diary pact raccoon various strike marriage minor jealous patient problem spot setup";
+var mnemonic = "wave match cliff tattoo afford ritual aspect treat evidence adult april broccoli";

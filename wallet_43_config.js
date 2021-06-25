@@ -1,1 +1,1 @@
-var mnemonic = "size expand energy suffer essay rely rebuild walk dice lucky sense neck";
+var mnemonic = "junk nominee garlic horse today enact allow misery chimney skin now mesh";

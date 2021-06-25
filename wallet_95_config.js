@@ -1,1 +1,1 @@
-var mnemonic = "bronze artwork pulp amateur river profit rare mixed wrap stay find horror";
+var mnemonic = "pudding armor speak tent blade innocent about announce crush attend again wait";

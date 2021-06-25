@@ -1,1 +1,1 @@
-var mnemonic = "process arrange tackle announce useful where early motion danger erode receive between";
+var mnemonic = "transfer unable praise canyon shine begin december morning dwarf genius text borrow";

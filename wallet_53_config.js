@@ -1,1 +1,1 @@
-var mnemonic = "thunder oxygen mention salmon demise tourist renew able diamond believe zebra race";
+var mnemonic = "dilemma clown lunch trial water logic expose text mushroom hurdle electric local";

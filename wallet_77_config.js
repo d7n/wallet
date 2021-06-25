@@ -1,1 +1,1 @@
-var mnemonic = "attack little cannon clown melt six brain bitter husband switch push awesome";
+var mnemonic = "sunny fetch blast embark tortoise agent law ostrich tourist also beauty pattern";

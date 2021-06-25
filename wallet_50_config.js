@@ -1,1 +1,1 @@
-var mnemonic = "song curve shoe safe inform spin special transfer life finger afraid stomach";
+var mnemonic = "mail scare bronze cinnamon harvest school dragon budget addict goddess fitness exhaust";

@@ -1,1 +1,1 @@
-var mnemonic = "name swing marine toddler elbow grain elegant old dutch future fossil copy";
+var mnemonic = "debate nest hotel defense hair coin crowd opinion gaze choose asthma work";

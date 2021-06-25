@@ -1,1 +1,1 @@
-var mnemonic = "hold insane sick apple describe crack mass assume buyer charge burden beach";
+var mnemonic = "result pigeon alarm protect believe limit autumn multiply between latin legal mystery";

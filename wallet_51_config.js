@@ -1,1 +1,1 @@
-var mnemonic = "eager anger very alley doctor resource find spoil melt kick ordinary crowd";
+var mnemonic = "wild paddle human mom ride install blame worry rookie spread globe huge";
