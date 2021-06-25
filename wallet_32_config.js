@@ -1,1 +1,1 @@
-var mnemonic = "runway shock illegal tattoo possible symbol stay hen panel woman fat object";
+var mnemonic = "twist stage company square gesture scan turtle panda title boring inhale piano";

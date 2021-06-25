@@ -1,1 +1,1 @@
-var mnemonic = "onion island comfort start auction infant bullet worth shrimp join admit fine";
+var mnemonic = "salt wage leisure sail injury warrior economy cluster gravity orient erosion february";

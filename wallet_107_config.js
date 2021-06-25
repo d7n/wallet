@@ -1,1 +1,1 @@
-var mnemonic = "tennis raw upon book know baby save stage round away draw filter";
+var mnemonic = "finish guitar icon sponsor parade idle retire utility label slight around more";

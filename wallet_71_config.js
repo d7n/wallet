@@ -1,1 +1,1 @@
-var mnemonic = "lesson ignore power hollow yellow stick heavy plate protect permit catch grunt";
+var mnemonic = "evoke reform original shock govern spoil wink harbor milk banner that comfort";

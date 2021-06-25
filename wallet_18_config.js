@@ -1,1 +1,1 @@
-var mnemonic = "avoid distance solar flash actual half artefact initial glass hobby oyster logic";
+var mnemonic = "conduct they report twin symptom oval doll memory ocean upgrade tired evil";

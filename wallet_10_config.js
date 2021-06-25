@@ -1,1 +1,1 @@
-var mnemonic = "dirt crystal slender market cactus firm jaguar field grief thunder price virtual";
+var mnemonic = "giant hurry avocado chaos document useless lawn fruit include second behind nurse";

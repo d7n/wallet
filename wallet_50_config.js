@@ -1,1 +1,1 @@
-var mnemonic = "drama multiply riot owner wealth fancy choose spring sugar april diagram heavy";
+var mnemonic = "torch sugar school beef enroll width slender lion prize april tone mountain";

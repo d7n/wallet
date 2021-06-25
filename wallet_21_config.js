@@ -1,1 +1,1 @@
-var mnemonic = "type venue desert advice excuse rice public horse dress february resist vapor";
+var mnemonic = "atom indoor knock wave father turkey abandon accuse picture loyal alarm symptom";

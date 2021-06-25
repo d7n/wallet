@@ -1,1 +1,1 @@
-var mnemonic = "uncover youth alley vehicle zebra similar public fiber moral start long blush";
+var mnemonic = "orient seek arrive idle forum heart auto goddess primary door bunker useless";

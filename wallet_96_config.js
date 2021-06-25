@@ -1,1 +1,1 @@
-var mnemonic = "pause route soft original hospital woman stairs bid issue vast inside enemy";
+var mnemonic = "danger trust physical flip siren column creek use bind supreme aisle celery";

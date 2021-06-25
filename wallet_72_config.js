@@ -1,1 +1,1 @@
-var mnemonic = "swim party brother edge crystal now flee orchard fossil orchard claim gun";
+var mnemonic = "easy vehicle bottom gloom ring flip monitor hazard method rural prize citizen";

@@ -1,1 +1,1 @@
-var mnemonic = "view flush swim steel rough moon pretty detect below foil acid spider";
+var mnemonic = "mixture position explain lumber pig neither cry style once furnace scare whale";

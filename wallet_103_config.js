@@ -1,1 +1,1 @@
-var mnemonic = "engine pencil cover stool trigger diet cable return ankle dish leisure heart";
+var mnemonic = "slice seek box skull nephew ship question poet hazard element enjoy mean";

@@ -1,1 +1,1 @@
-var mnemonic = "post city toss typical kick rate hotel below one stadium damp beef";
+var mnemonic = "seek chalk blue enjoy elite parade frame bird roof capable silly income";

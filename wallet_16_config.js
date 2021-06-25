@@ -1,1 +1,1 @@
-var mnemonic = "toss odor shift lava market sell include catalog list saddle oil pizza";
+var mnemonic = "define average pelican say fatigue example fancy luggage armed burden cement month";

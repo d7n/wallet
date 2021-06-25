@@ -1,1 +1,1 @@
-var mnemonic = "carry before monkey merit blade entry annual library effort napkin brass toe";
+var mnemonic = "spread setup unlock display quantum into orchard hope shove cage liberty pudding";

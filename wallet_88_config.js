@@ -1,1 +1,1 @@
-var mnemonic = "giraffe bitter warfare useful ethics junior unveil all cable way leader culture";
+var mnemonic = "food end humor maple beef cousin same team shaft lucky play short";

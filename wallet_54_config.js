@@ -1,1 +1,1 @@
-var mnemonic = "lonely umbrella cook provide physical ranch quote sad urban upon coil wise";
+var mnemonic = "midnight wonder catch chest soup street decorate critic found column trial shy";

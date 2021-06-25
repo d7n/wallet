@@ -1,1 +1,1 @@
-var mnemonic = "alarm dose bless fluid wolf tongue monkey speed rich lock gaze spin";
+var mnemonic = "marine glance assume buffalo body people dish fix female differ fatigue scout";

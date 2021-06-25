@@ -1,1 +1,1 @@
-var mnemonic = "use unique rubber can pause host suit whale mask ozone prison reflect";
+var mnemonic = "caught fluid faint abuse pilot sorry napkin until because chapter doll oak";

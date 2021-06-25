@@ -1,1 +1,1 @@
-var mnemonic = "model net craft cricket fox sauce rookie human dutch slice evidence print";
+var mnemonic = "napkin surface angle gloom garage grape street elite viable dynamic gain injury";

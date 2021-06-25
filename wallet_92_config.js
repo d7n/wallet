@@ -1,1 +1,1 @@
-var mnemonic = "exit size glare pretty faint open soap evolve eight course width open";
+var mnemonic = "like street appear welcome list behave cave stable valley join walnut fossil";

@@ -1,1 +1,1 @@
-var mnemonic = "awkward riot exhaust reveal choose harsh start vendor oven child among indicate";
+var mnemonic = "orphan engine another farm chair remind humor van then garment boring quiz";

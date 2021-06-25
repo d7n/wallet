@@ -1,1 +1,1 @@
-var mnemonic = "around few sample half armor marriage income pioneer perfect false stable march";
+var mnemonic = "slender surprise wrist boring dance damage model curve diamond dinner bless cattle";

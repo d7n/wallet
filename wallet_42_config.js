@@ -1,1 +1,1 @@
-var mnemonic = "vapor reveal kick assume galaxy depth coral carbon shaft giant adapt write";
+var mnemonic = "fatigue tuna degree repeat sentence task occur among uphold giggle mystery heart";

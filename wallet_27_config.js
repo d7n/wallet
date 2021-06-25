@@ -1,1 +1,1 @@
-var mnemonic = "ozone what knock ordinary session push mixed spoil calm edit step rescue";
+var mnemonic = "recall banana grape youth conduct above patrol top pulp neglect wonder ball";

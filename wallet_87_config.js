@@ -1,1 +1,1 @@
-var mnemonic = "noble alpha miss wire ignore patch tobacco street dumb wagon deer skirt";
+var mnemonic = "emotion clarify hood attract miracle man nephew narrow you cage layer rebel";

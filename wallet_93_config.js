@@ -1,1 +1,1 @@
-var mnemonic = "endorse sadness stadium unfold huge march there trouble loan stairs near video";
+var mnemonic = "power fun hover fee hair differ snow hub play give rule ready";

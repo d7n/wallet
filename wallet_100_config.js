@@ -1,1 +1,1 @@
-var mnemonic = "brass swamp bronze ship night test image immune uphold artwork behind program";
+var mnemonic = "cost gaze dash logic range squirrel type display book estate public among";

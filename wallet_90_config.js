@@ -1,1 +1,1 @@
-var mnemonic = "analyst bullet arrive table invest day dad deputy clutch black ship dinosaur";
+var mnemonic = "empty exhibit float snow prison flip give paddle brush cabbage grass pumpkin";

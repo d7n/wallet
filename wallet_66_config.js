@@ -1,1 +1,1 @@
-var mnemonic = "birth dinner swap absorb fuel artefact lucky amazing diagram deer more behind";
+var mnemonic = "height veteran surround wasp bulb weather way method boy client august satisfy";

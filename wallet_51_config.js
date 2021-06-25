@@ -1,1 +1,1 @@
-var mnemonic = "exhaust person pull drastic profit snap total wing execute clinic hole glare";
+var mnemonic = "arctic one hero task bring bonus great illness fantasy myth pilot odor";

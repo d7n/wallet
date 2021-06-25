@@ -1,1 +1,1 @@
-var mnemonic = "elder scale talk april among pool cinnamon buddy barrel bronze divide extra";
+var mnemonic = "aunt speak mercy aerobic egg shuffle release family penalty either insect accident";

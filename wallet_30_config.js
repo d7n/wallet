@@ -1,1 +1,1 @@
-var mnemonic = "hello leader kite noise until quote wait only over atom doll critic";
+var mnemonic = "owner outdoor jazz cycle special merge shove interest suffer history crisp melody";

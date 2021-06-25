@@ -1,1 +1,1 @@
-var mnemonic = "nerve enemy sound north retire random burden enjoy can useful confirm diesel";
+var mnemonic = "inspire lawn smoke viable behind mixture enforce donkey muscle want dignity cliff";

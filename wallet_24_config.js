@@ -1,1 +1,1 @@
-var mnemonic = "fork special change permit clinic casual concert eight spy trophy witness surge";
+var mnemonic = "avoid easily pull once theory stay donkey crash cotton grid magnet share";

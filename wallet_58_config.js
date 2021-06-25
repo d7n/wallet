@@ -1,1 +1,1 @@
-var mnemonic = "kidney surge front crack wish rib situate sail fantasy kick couch direct";
+var mnemonic = "enter casino tool neglect march glad album urge lava power soap air";

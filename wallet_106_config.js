@@ -1,1 +1,1 @@
-var mnemonic = "project symbol office force kind magnet original artist load civil work unknown";
+var mnemonic = "drive clap welcome oven alter ten current offer social model salon figure";

@@ -1,1 +1,1 @@
-var mnemonic = "anxiety now nation impulse tide kangaroo tourist during blue rocket shrimp blossom";
+var mnemonic = "property favorite reunion giant owner steel letter coffee smooth equal cheese clay";

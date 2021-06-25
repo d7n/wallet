@@ -1,1 +1,1 @@
-var mnemonic = "indicate exclude scare suggest seat humble result acquire ramp jazz october sustain";
+var mnemonic = "animal choose pattern exchange evoke neck patch glare float era raise liquid";

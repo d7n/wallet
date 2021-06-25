@@ -1,1 +1,1 @@
-var mnemonic = "dream into close stick soldier country because artefact cricket silly roof eyebrow";
+var mnemonic = "ancient field alley junk juice solve tissue view sword plastic into tree";

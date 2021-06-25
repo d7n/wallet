@@ -1,1 +1,1 @@
-var mnemonic = "weekend slam tired immune immense steak cycle narrow adjust short eagle corn";
+var mnemonic = "question bulb panda angle solar frown segment type buyer offer slogan dentist";

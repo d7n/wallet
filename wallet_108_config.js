@@ -1,1 +1,1 @@
-var mnemonic = "explain stove ensure damage moral affair embrace neutral sauce woman laugh scorpion";
+var mnemonic = "lobster aerobic feel knife bid wheel borrow source desk hockey pencil blind";

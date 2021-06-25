@@ -1,1 +1,1 @@
-var mnemonic = "use year thought ill odor wrestle explain couple buddy language radar direct";
+var mnemonic = "salmon sweet round canyon elegant quality cotton toward flavor feature merge brisk";

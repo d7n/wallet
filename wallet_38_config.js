@@ -1,1 +1,1 @@
-var mnemonic = "common birth frame document ladder legend lava chase direct license add great";
+var mnemonic = "dinosaur shrug danger solid base dizzy century trim rather ripple salt evil";

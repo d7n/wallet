@@ -1,1 +1,1 @@
-var mnemonic = "hazard column useful ugly school fence october veteran smile explain depend angry";
+var mnemonic = "defy settle manage tired shrimp rhythm mimic spirit innocent monster scare image";

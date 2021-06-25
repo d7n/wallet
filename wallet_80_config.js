@@ -1,1 +1,1 @@
-var mnemonic = "talent fee science eagle lumber unaware song embody large holiday egg pond";
+var mnemonic = "busy wine jungle brief labor keep south hobby elbow embrace suit myself";

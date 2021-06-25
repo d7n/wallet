@@ -1,1 +1,1 @@
-var mnemonic = "enact rigid shift key nature either fabric betray offer loyal empower pioneer";
+var mnemonic = "trick happy crazy wash pave duty invest foster chuckle topple run bind";

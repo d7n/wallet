@@ -1,1 +1,1 @@
-var mnemonic = "siege labor dove orient flat penalty virus owner main prefer rhythm cousin";
+var mnemonic = "license corn front bachelor elephant elegant type wear chef empty evidence brother";

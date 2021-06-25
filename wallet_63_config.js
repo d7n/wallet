@@ -1,1 +1,1 @@
-var mnemonic = "forest palm wealth second impose half tape choice belt palace appear puppy";
+var mnemonic = "assault demand distance cram town company amateur electric beyond stumble blood view";

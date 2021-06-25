@@ -1,1 +1,1 @@
-var mnemonic = "crisp monitor scan base shuffle fortune hard better join hawk street shy";
+var mnemonic = "famous rate potato fit grant smile skirt ride across unable output wisdom";

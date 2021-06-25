@@ -1,1 +1,1 @@
-var mnemonic = "cereal quote perfect language suffer idea poet plastic buzz danger skull ritual";
+var mnemonic = "please toddler match buyer valley demand cash build fun category sleep tooth";

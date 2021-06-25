@@ -1,1 +1,1 @@
-var mnemonic = "patrol jelly regular acid maid vessel valley genuine subway usual primary detect";
+var mnemonic = "car harbor friend antenna immune diesel dignity edge ski foam insect can";

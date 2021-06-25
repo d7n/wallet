@@ -1,1 +1,1 @@
-var mnemonic = "around hammer fragile notice certain pupil reward often nose satoshi improve sun";
+var mnemonic = "escape other time horn spin odor action deliver bounce device punch horror";

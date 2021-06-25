@@ -1,1 +1,1 @@
-var mnemonic = "unknown enlist stem local skirt cage chaos bread display level nation art";
+var mnemonic = "ceiling clerk doll chalk junk cross nose bonus cricket symptom level naive";

@@ -1,1 +1,1 @@
-var mnemonic = "approve awesome pear car sausage enforce carbon since notice shrimp castle alert";
+var mnemonic = "village useless dune core length oyster trouble history host phrase enlist bachelor";

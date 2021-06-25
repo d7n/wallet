@@ -1,1 +1,1 @@
-var mnemonic = "shove movie welcome slush visit index derive gym network debate burst boss";
+var mnemonic = "online give still tribe sudden judge nominee fee hospital only funny sea";

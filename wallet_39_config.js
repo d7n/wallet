@@ -1,1 +1,1 @@
-var mnemonic = "shallow garment intact know rate gas valve pole deal pupil buyer such";
+var mnemonic = "celery trim remain caution prevent skull lunar convince rescue raise crew tree";

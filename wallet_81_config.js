@@ -1,1 +1,1 @@
-var mnemonic = "notable panic umbrella raven dune circle strong cactus valve frequent analyst cable";
+var mnemonic = "machine gown glory parent labor goat slight decrease interest helmet invest artist";

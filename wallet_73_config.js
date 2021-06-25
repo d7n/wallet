@@ -1,1 +1,1 @@
-var mnemonic = "unique true pink require panel cruel assault rescue palace fit liquid frequent";
+var mnemonic = "title rifle derive minute rug work off offer water silk boil harsh";

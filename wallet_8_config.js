@@ -1,1 +1,1 @@
-var mnemonic = "grain sunny paper polar ski learn accuse admit act blood found price";
+var mnemonic = "merit gold pact letter marine divide task basic federal toilet edge witness";

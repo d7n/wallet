@@ -1,1 +1,1 @@
-var mnemonic = "west monkey deer amused slender payment sudden diamond nut advice rubber fan";
+var mnemonic = "table merry transfer drill make chief gown jacket lady illness peanut modify";

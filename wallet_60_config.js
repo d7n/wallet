@@ -1,1 +1,1 @@
-var mnemonic = "fold post video trap lava sure impact foam bind click much aspect";
+var mnemonic = "item usage alien web fringe adjust parrot wheat region street much pool";

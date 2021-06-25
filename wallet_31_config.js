@@ -1,1 +1,1 @@
-var mnemonic = "safe neutral wasp position pottery magic shoot select quick shop cute october";
+var mnemonic = "one melt loud expire extra grant bundle legend nice hamster run carry";

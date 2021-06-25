@@ -1,1 +1,1 @@
-var mnemonic = "skin print gap man gravity shrug stock draw celery surface hollow wheel";
+var mnemonic = "enough abuse easy inherit prison wood flower reflect strong senior eagle nice";

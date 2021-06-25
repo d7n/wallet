@@ -1,1 +1,1 @@
-var mnemonic = "couch excuse salute occur point dash rural input spin cage physical school";
+var mnemonic = "blame power super ketchup nasty hunt appear major chase shaft party very";

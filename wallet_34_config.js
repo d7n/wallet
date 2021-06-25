@@ -1,1 +1,1 @@
-var mnemonic = "crawl payment brisk dawn topple famous fiction day filter impact pupil air";
+var mnemonic = "accident skill spirit firm join cattle consider bubble toe sphere predict hurdle";

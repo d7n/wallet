@@ -1,1 +1,1 @@
-var mnemonic = "check message love pigeon render warrior soft abuse supreme describe first expect";
+var mnemonic = "creek travel scissors hawk lunar virtual maze detect slow share quantum side";

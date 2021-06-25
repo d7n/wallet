@@ -1,1 +1,1 @@
-var mnemonic = "brain corn fury truck hen play right okay tag runway problem refuse";
+var mnemonic = "cross frame oak father airport gloom media length race abandon deposit setup";

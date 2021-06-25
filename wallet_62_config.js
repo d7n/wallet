@@ -1,1 +1,1 @@
-var mnemonic = "defy total split rhythm maple giant neither daring banana absurd stick minimum";
+var mnemonic = "palm useful diary tonight cannon curious snake fork correct embark program turtle";

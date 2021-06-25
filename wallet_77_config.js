@@ -1,1 +1,1 @@
-var mnemonic = "oyster excite airport dinosaur length sort pledge episode mandate air add absorb";
+var mnemonic = "hat practice stove live bargain giant dutch sustain demand obscure hurdle horn";

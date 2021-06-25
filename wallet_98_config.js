@@ -1,1 +1,1 @@
-var mnemonic = "face argue fiber march useless tissue voice quantum claim giant six alien";
+var mnemonic = "need imitate cycle coil simple license general core dog athlete actual shuffle";

@@ -1,1 +1,1 @@
-var mnemonic = "worry armor same verify quantum humor license fiction differ melt sheriff estate";
+var mnemonic = "black opera suffer unique gun save dove soup stairs mistake edit practice";

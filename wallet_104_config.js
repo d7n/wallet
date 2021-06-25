@@ -1,1 +1,1 @@
-var mnemonic = "divide ugly door size punch elephant skate prefer buzz ready combine predict";
+var mnemonic = "final exit carry knock waste orphan mother dress scene inner bronze can";

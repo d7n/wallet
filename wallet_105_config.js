@@ -1,1 +1,1 @@
-var mnemonic = "globe motion leg filter track limb trip waste crazy differ stomach hill";
+var mnemonic = "dove tortoise prison today surround trap veteran apart correct dutch absorb price";

@@ -1,1 +1,1 @@
-var mnemonic = "acid elegant boost moment parade blush tilt asset current loop boy mandate";
+var mnemonic = "actress dress atom produce april trust crucial history mechanic remove height runway";

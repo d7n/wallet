@@ -1,1 +1,1 @@
-var mnemonic = "topple engine aunt two shrug lady spare romance oxygen stomach arena comfort";
+var mnemonic = "sight ski author detail gold illness reveal vague arena prevent jeans toast";

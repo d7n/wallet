@@ -1,1 +1,1 @@
-var mnemonic = "raw license where page expire game come spare ability agent glare wear";
+var mnemonic = "cloth ski script capital carpet cable company bring certain monkey wave own";

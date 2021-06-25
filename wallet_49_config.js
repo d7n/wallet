@@ -1,1 +1,1 @@
-var mnemonic = "jelly drive gap rebel profit survey acquire spoon able merge dry donor";
+var mnemonic = "decade outdoor law sketch garbage among afford curve dry fiscal nasty solid";

@@ -1,1 +1,1 @@
-var mnemonic = "tank rule click humble left crane stone rule more price elite banner";
+var mnemonic = "vocal assault offer suit ecology sunset task drive paper praise chalk canvas";

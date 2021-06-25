@@ -1,1 +1,1 @@
-var mnemonic = "shrimp monkey child piano memory obey point craft balcony capital depend quote";
+var mnemonic = "region shine knife waste belt hello mass hurt dirt merit stomach only";

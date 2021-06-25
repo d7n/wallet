@@ -1,1 +1,1 @@
-var mnemonic = "antique gravity electric shock warm trick exotic ignore repeat nerve debate body";
+var mnemonic = "earn weather spoon trim input frog start abstract scissors pride pole snap";

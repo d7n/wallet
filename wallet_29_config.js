@@ -1,1 +1,1 @@
-var mnemonic = "deal rose citizen unhappy stuff cream trigger hard chaos round trigger crop";
+var mnemonic = "orphan letter exact able purpose network pink split slide wing series arrange";

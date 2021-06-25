@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog reason thumb vibrant figure network magic broom acquire focus wait industry";
+var mnemonic = "hand primary witness pistol abandon journey fold flag sing vibrant soon group";

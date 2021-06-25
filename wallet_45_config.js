@@ -1,1 +1,1 @@
-var mnemonic = "before tip gather motion imitate monitor strong fade leg pony young whip";
+var mnemonic = "youth toast bean buzz slot section enlist tray slot extra fortune saddle";

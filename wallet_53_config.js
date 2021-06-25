@@ -1,1 +1,1 @@
-var mnemonic = "north proof core lobster merge side ugly this project picture silent master";
+var mnemonic = "museum lonely game motion legend doll riot rough salad zone winner express";

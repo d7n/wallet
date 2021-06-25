@@ -1,1 +1,1 @@
-var mnemonic = "excuse film rocket evidence soft human thing shaft dolphin slim hunt bracket";
+var mnemonic = "palm reason fitness wrong swamp churn sudden infant spy surround summer suspect";

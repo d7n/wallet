@@ -1,1 +1,1 @@
-var mnemonic = "liquid idea reduce catalog approve mercy guitar flush near danger three flower";
+var mnemonic = "key valve napkin canyon pond divide fly poverty pulp source stomach inner";

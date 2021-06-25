@@ -1,1 +1,1 @@
-var mnemonic = "canyon animal unveil poem tide borrow bacon spray toss initial robot punch";
+var mnemonic = "taxi sun fog tower actress oppose athlete leopard cover struggle aerobic inch";

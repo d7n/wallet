@@ -1,1 +1,1 @@
-var mnemonic = "error other patch arrest silk good begin lock hundred item custom puzzle";
+var mnemonic = "tape glove depend enemy employ festival captain wire ceiling lesson mouse aerobic";

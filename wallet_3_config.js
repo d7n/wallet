@@ -1,1 +1,1 @@
-var mnemonic = "hen valid exchange also grow educate boy wrestle pear sustain error buffalo";
+var mnemonic = "private inspire inform unit twin tourist prosper series winter tenant police hire";
