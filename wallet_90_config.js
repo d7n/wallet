@@ -1,1 +1,1 @@
-var mnemonic = "bamboo cross federal emerge scrub avoid hawk hello cross bamboo measure summer";
+var mnemonic = "pause era permit attack lawn toast immune exhaust fiction verify danger measure";

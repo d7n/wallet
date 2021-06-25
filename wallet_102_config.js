@@ -1,1 +1,1 @@
-var mnemonic = "chaos kiwi mind thank clip genius body acoustic hover tunnel long industry";
+var mnemonic = "desert soldier course approve boss develop harvest cream sound special hidden avoid";

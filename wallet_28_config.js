@@ -1,1 +1,1 @@
-var mnemonic = "matrix picnic awake accident april laugh enjoy omit lift vibrant physical word";
+var mnemonic = "labor replace matrix guilt between hazard aerobic popular time company endless skin";

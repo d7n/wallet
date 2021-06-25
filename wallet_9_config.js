@@ -1,1 +1,1 @@
-var mnemonic = "spoon charge boil magnet brain wage club know attitude usage divert slab";
+var mnemonic = "yard drop pepper cool galaxy deal axis north mountain legal way alone";

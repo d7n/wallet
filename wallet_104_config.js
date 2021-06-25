@@ -1,1 +1,1 @@
-var mnemonic = "wave cigar rare select purse weird liar airport rebuild virus evidence error";
+var mnemonic = "canal normal put ordinary design height pet garment turn task inform keen";

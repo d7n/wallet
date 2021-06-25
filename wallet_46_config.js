@@ -1,1 +1,1 @@
-var mnemonic = "medal walk fade ski wink reveal despair capable very bamboo frown affair";
+var mnemonic = "wasp slot pitch vital evidence casual bag ritual body rack issue bus";

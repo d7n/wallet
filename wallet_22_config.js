@@ -1,1 +1,1 @@
-var mnemonic = "leopard nurse initial noble loyal scorpion subject flee silk game wreck zone";
+var mnemonic = "become toss wolf hockey blind science use good damp desk fuel provide";

@@ -1,1 +1,1 @@
-var mnemonic = "social today liberty swift rack worth repair device chef excite bless dwarf";
+var mnemonic = "half gospel media medal blue renew ribbon interest tower lemon claw general";

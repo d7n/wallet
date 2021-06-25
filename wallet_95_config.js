@@ -1,1 +1,1 @@
-var mnemonic = "spike abandon creek biology empty vapor rabbit search cause burden pilot fossil";
+var mnemonic = "moral train ecology high pizza theme weasel clown harsh hedgehog skirt win";

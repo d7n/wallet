@@ -1,1 +1,1 @@
-var mnemonic = "retire slender glove orphan adapt assist casino begin resemble add coyote alcohol";
+var mnemonic = "program gap decade throw shop language lamp wolf chunk stuff exile dawn";

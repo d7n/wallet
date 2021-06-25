@@ -1,1 +1,1 @@
-var mnemonic = "sadness route step sing hope long area stereo scout chalk dirt sand";
+var mnemonic = "palace episode just physical oven snow fun swim dutch garment hunt extend";

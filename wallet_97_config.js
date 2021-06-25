@@ -1,1 +1,1 @@
-var mnemonic = "else talent must gadget worth blanket orange venture ride slam know tired";
+var mnemonic = "cattle burden ghost snake sign stove digital share march quit talent dolphin";

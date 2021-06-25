@@ -1,1 +1,1 @@
-var mnemonic = "bring copper fantasy grunt theme apology derive sting suspect twice sustain throw";
+var mnemonic = "slogan wait welcome senior warrior hunt excess tip dial dad shadow violin";

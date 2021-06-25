@@ -1,1 +1,1 @@
-var mnemonic = "space truck suit coconut atom robot stone coil sweet net profit fluid";
+var mnemonic = "call shield gold patrol target airport wrong hundred model uncle upgrade estate";

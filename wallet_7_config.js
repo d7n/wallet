@@ -1,1 +1,1 @@
-var mnemonic = "help torch emotion weapon zone conduct student found debris fence forest hard";
+var mnemonic = "toward pond earn frost fiscal tornado refuse income tail fun distance head";

@@ -1,1 +1,1 @@
-var mnemonic = "enjoy canvas demand panic dragon normal torch belt nurse expose toy tragic";
+var mnemonic = "sell plunge utility loan above share amateur pulp nurse music stereo fuel";

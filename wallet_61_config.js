@@ -1,1 +1,1 @@
-var mnemonic = "ready twelve carbon pyramid baby match stem setup basket bench soda ranch";
+var mnemonic = "evidence teach vehicle smile science allow swear thumb error fine album million";

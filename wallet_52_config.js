@@ -1,1 +1,1 @@
-var mnemonic = "coral heavy upper ski purse frozen help volume lab horn kiwi silver";
+var mnemonic = "special wool sudden primary icon simple poet giggle faculty source pretty giggle";

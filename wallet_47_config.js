@@ -1,1 +1,1 @@
-var mnemonic = "suggest sweet dumb loop zero cheese together unfold abuse trophy express pigeon";
+var mnemonic = "certain express basic nose flash critic zero learn reopen battle session drastic";

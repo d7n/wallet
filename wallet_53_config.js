@@ -1,1 +1,1 @@
-var mnemonic = "sun surround mercy ill crack kitchen good smile soft atom inch steel";
+var mnemonic = "wrong conduct capital noble mercy kiss doll rural confirm bring enjoy federal";

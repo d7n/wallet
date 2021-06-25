@@ -1,1 +1,1 @@
-var mnemonic = "spare cricket crater enroll mask because upset final antenna moral hurdle insane";
+var mnemonic = "fault appear velvet palm slogan skull author amazing wisdom game debate metal";

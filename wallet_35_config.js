@@ -1,1 +1,1 @@
-var mnemonic = "machine say position around chuckle possible slim transfer word song enable chronic";
+var mnemonic = "million snack oval depend shine child language planet produce energy lottery mystery";

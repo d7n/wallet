@@ -1,1 +1,1 @@
-var mnemonic = "kind dilemma predict neglect decrease donkey long marble milk panda burden bachelor";
+var mnemonic = "correct whisper medal venture amazing sun display rescue outdoor body goose turkey";

@@ -1,1 +1,1 @@
-var mnemonic = "audit replace lift science daughter safe annual cave laptop steak license kind";
+var mnemonic = "can pizza process primary advance negative rate echo student census choice praise";

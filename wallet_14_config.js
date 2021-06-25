@@ -1,1 +1,1 @@
-var mnemonic = "apology mosquito aunt build slim churn amazing drop aisle current wheel naive";
+var mnemonic = "sail pool word ozone decorate skill pudding below dog push goat ethics";

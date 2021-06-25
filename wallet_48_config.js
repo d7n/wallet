@@ -1,1 +1,1 @@
-var mnemonic = "this magic best road relief normal hole velvet build arrive snake meat";
+var mnemonic = "bread clay cloud gesture town crater dash gas find present captain dismiss";

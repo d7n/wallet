@@ -1,1 +1,1 @@
-var mnemonic = "myth brown village true among poverty present cement earth genuine panther pride";
+var mnemonic = "text exchange only ticket amazing orbit all idea inch popular magnet color";

@@ -1,1 +1,1 @@
-var mnemonic = "where divide salmon mango purity rib vapor mosquito erosion build involve mask";
+var mnemonic = "fancy mom okay corn trumpet tail loyal dignity title solid fatal evoke";

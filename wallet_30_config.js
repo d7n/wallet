@@ -1,1 +1,1 @@
-var mnemonic = "news squirrel issue neck flat adjust source lamp someone envelope general apology";
+var mnemonic = "move soda female setup velvet heart detail scan gentle exclude faculty salute";

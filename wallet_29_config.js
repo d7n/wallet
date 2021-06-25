@@ -1,1 +1,1 @@
-var mnemonic = "identify divorce master gold turkey extra found file advice banner record volcano";
+var mnemonic = "album seat mouse prize defense vapor endorse swing month symbol level script";

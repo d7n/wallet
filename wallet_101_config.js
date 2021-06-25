@@ -1,1 +1,1 @@
-var mnemonic = "together fatigue city bargain float task swap then dash aspect immense elite";
+var mnemonic = "member amazing auction pistol asset use differ dune immune enable rack special";

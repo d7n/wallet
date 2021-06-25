@@ -1,1 +1,1 @@
-var mnemonic = "ring tennis ticket social rose soul bullet battle quantum word tomorrow oval";
+var mnemonic = "march suspect release april leaf giggle episode elevator mail system normal cherry";

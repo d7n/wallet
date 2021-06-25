@@ -1,1 +1,1 @@
-var mnemonic = "father pelican mosquito senior island teach vehicle long behave nominee reunion movie";
+var mnemonic = "jar clean custom document sauce mom oppose ghost fluid burst large focus";

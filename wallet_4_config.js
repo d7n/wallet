@@ -1,1 +1,1 @@
-var mnemonic = "mountain eyebrow elbow business boat intact bullet course position wrestle scene name";
+var mnemonic = "panel visa limb melody monster owner receive vibrant omit split onion danger";

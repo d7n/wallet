@@ -1,1 +1,1 @@
-var mnemonic = "happy photo forest bullet arctic scorpion want fee noise armed regret faint";
+var mnemonic = "stereo amount develop fringe goddess gossip rally young duty expect essence more";

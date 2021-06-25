@@ -1,1 +1,1 @@
-var mnemonic = "price name harvest clean goddess confirm marine foot lounge praise vibrant planet";
+var mnemonic = "party hole name elite rifle home merry firm boy tennis valve total";

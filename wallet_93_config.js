@@ -1,1 +1,1 @@
-var mnemonic = "double wheat modify marine hair grain fiber wink position person insect eternal";
+var mnemonic = "height reform split plug tone arrive furnace hover fuel rate orphan word";

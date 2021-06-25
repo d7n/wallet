@@ -1,1 +1,1 @@
-var mnemonic = "antique slot dice during together rose cluster net rookie switch sort step";
+var mnemonic = "knee night clump mobile jungle inner mule pig author light extend glance";

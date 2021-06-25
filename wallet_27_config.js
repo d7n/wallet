@@ -1,1 +1,1 @@
-var mnemonic = "afraid certain connect olive leaf jelly nasty air typical stove rebel palm";
+var mnemonic = "ridge denial amount road venture still taste extend game there angle false";

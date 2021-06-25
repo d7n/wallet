@@ -1,1 +1,1 @@
-var mnemonic = "column slim engage marble bulb exotic proud account salon cash spring crawl";
+var mnemonic = "ankle tornado crazy frozen lesson minor gaze elite edge ankle chunk license";

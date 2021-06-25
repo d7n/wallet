@@ -1,1 +1,1 @@
-var mnemonic = "symbol roof camp donate palm grid move solar above paddle sort doll";
+var mnemonic = "fix lava desk rapid angle train join tunnel hedgehog blame jewel gorilla";

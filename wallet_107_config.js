@@ -1,1 +1,1 @@
-var mnemonic = "pride seven explain tired excuse yard differ work swamp cram lava visual";
+var mnemonic = "sport shrimp brief learn maid meadow blue lucky danger ozone arm maze";

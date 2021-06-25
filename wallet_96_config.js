@@ -1,1 +1,1 @@
-var mnemonic = "nuclear outdoor table penalty link flee lady region asset feed assist perfect";
+var mnemonic = "decide dog shoe patrol shell skull expire slam atom vote deal system";

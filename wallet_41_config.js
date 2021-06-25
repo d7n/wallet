@@ -1,1 +1,1 @@
-var mnemonic = "beyond blur alcohol wedding stool cushion expand ball series donate giant quality";
+var mnemonic = "animal quick cycle account palm step vacant decide captain lounge under valve";

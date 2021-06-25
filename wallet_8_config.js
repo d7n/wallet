@@ -1,1 +1,1 @@
-var mnemonic = "behave barrel practice day suspect vocal ordinary lady silly slot actual risk";
+var mnemonic = "dismiss industry pact carbon mask matrix lab swap lab toilet seed scale";

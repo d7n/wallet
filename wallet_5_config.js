@@ -1,1 +1,1 @@
-var mnemonic = "access actual summer page intact smooth innocent crouch leisure atom ribbon finger";
+var mnemonic = "dish garbage hurt any crucial sauce butter much wife during fine title";

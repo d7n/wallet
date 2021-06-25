@@ -1,1 +1,1 @@
-var mnemonic = "inch fortune pyramid hundred decline nest bless tank history news property chase";
+var mnemonic = "viable spray busy leader chronic slab output barely prevent photo vanish end";

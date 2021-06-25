@@ -1,1 +1,1 @@
-var mnemonic = "village patient version marriage labor kit bind city electric check impact hurry";
+var mnemonic = "dutch soup rent invest try sweet absent tourist puzzle above liberty lady";

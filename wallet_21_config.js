@@ -1,1 +1,1 @@
-var mnemonic = "tool verify quote awkward twelve else insane tunnel chat fitness mad culture";
+var mnemonic = "exist wrong season dutch swarm aim throw outer visa unveil keep sentence";

@@ -1,1 +1,1 @@
-var mnemonic = "divorce cost logic family frown chaos chimney mammal super certain never heavy";
+var mnemonic = "voice pig advance girl choice despair shove ice scout hero text matter";

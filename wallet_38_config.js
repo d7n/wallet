@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow giraffe mass autumn frozen system embark drip slide minor begin favorite";
+var mnemonic = "jar spare release remove coffee deliver nurse fiber accuse solar dilemma orphan";

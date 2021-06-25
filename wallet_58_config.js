@@ -1,1 +1,1 @@
-var mnemonic = "talent when harbor sand roast muscle settle egg mirror burger page put";
+var mnemonic = "poverty cream occur awkward airport wait gas adjust fiscal trade actress paper";

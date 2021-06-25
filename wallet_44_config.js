@@ -1,1 +1,1 @@
-var mnemonic = "seed position inflict warm people crane hour boring crash filter spoil page";
+var mnemonic = "female laptop vintage select lawn south clinic person snake easily push bleak";

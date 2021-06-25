@@ -1,1 +1,1 @@
-var mnemonic = "bomb news spend squeeze scene sure wood sword bulk video summer mention";
+var mnemonic = "eagle zebra room bullet immense dizzy health team bind magic fee episode";

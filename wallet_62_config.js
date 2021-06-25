@@ -1,1 +1,1 @@
-var mnemonic = "demise together practice shell eager library tonight sunset like interest priority shaft";
+var mnemonic = "genre soldier kid hat speed patrol device science region measure gold ranch";

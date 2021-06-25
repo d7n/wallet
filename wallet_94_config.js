@@ -1,1 +1,1 @@
-var mnemonic = "reflect film load critic easy exercise drama obvious adjust gate emotion mirror";
+var mnemonic = "buzz reflect impose fuel unveil cabin girl volcano hunt flush setup bridge";

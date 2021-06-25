@@ -1,1 +1,1 @@
-var mnemonic = "horn bus search indicate intact program weird canal letter weasel together fringe";
+var mnemonic = "sea number pulp notice review cheap admit addict approve problem wonder once";

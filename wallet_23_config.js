@@ -1,1 +1,1 @@
-var mnemonic = "ocean select cluster crime nice debate now maple wide elephant ensure kiwi";
+var mnemonic = "return result want ice gasp below drip used waste addict merge artist";

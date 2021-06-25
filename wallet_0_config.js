@@ -1,1 +1,1 @@
-var mnemonic = "park cliff illegal energy level rookie reject spring earth mouse roof genius";
+var mnemonic = "cause like patrol negative city sing thumb pen gorilla lend hidden gravity";

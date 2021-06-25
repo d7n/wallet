@@ -1,1 +1,1 @@
-var mnemonic = "attack either smooth until canvas spot avocado vivid taste install will wire";
+var mnemonic = "sun ritual option syrup planet rookie market glimpse lion aim search receive";

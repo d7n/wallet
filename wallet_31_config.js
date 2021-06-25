@@ -1,1 +1,1 @@
-var mnemonic = "damage jewel slender emotion jelly glide canyon lazy arctic symbol neither hospital";
+var mnemonic = "cat swear nose media slam usual river asset reflect damage charge pottery";

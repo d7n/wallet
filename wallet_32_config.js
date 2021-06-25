@@ -1,1 +1,1 @@
-var mnemonic = "sound gold because above dinner fire switch midnight tower satisfy clutch reduce";
+var mnemonic = "man chronic host lumber weird blame machine own pilot drill cigar shuffle";

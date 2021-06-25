@@ -1,1 +1,1 @@
-var mnemonic = "congress ignore castle curtain word total person barely salt earn glory cube";
+var mnemonic = "basic version blind useless truth culture second west crush shy unveil rotate";

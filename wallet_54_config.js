@@ -1,1 +1,1 @@
-var mnemonic = "cart silly mirror tomorrow doll beyond street edge bunker excess badge kitten";
+var mnemonic = "canal ride reform tray quality vacant kangaroo gravity connect motor inhale zebra";

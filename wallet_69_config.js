@@ -1,1 +1,1 @@
-var mnemonic = "ivory lava cause glimpse luggage try long drastic salute keen tool coil";
+var mnemonic = "battle hello develop pulse pole crouch ribbon length quit genius delay absorb";

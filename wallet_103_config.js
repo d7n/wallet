@@ -1,1 +1,1 @@
-var mnemonic = "electric weekend current economy slide venture error expire limb adult fish viable";
+var mnemonic = "someone width system aisle pupil fiscal venture group veteran private extra rule";

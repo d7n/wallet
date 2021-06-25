@@ -1,1 +1,1 @@
-var mnemonic = "buffalo sphere public enhance clog staff property liberty cupboard bacon remember sock";
+var mnemonic = "trouble relax few cost sport foot surface erase hospital meat toward law";

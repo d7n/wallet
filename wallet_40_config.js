@@ -1,1 +1,1 @@
-var mnemonic = "blue alone ball power novel sample private double hero mutual clean dirt";
+var mnemonic = "search hand diet rate ring bean sight remind neutral march original brick";

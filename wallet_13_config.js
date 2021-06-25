@@ -1,1 +1,1 @@
-var mnemonic = "normal outdoor success loyal slice wise buzz arrest pencil flame episode ladder";
+var mnemonic = "borrow hotel other swarm miss fantasy dune rate siren section riot verify";

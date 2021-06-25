@@ -1,1 +1,1 @@
-var mnemonic = "wolf morning cereal guess decorate screen town goat pond spare genius question";
+var mnemonic = "icon clean key enforce grow tonight employ home modify elevator mansion quarter";

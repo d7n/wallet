@@ -1,1 +1,1 @@
-var mnemonic = "gown first chief expand exact magic prosper imitate buyer funny chief dolphin";
+var mnemonic = "hub enemy wish autumn find rifle ranch axis improve avocado innocent spy";

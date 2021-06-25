@@ -1,1 +1,1 @@
-var mnemonic = "holiday buffalo soap curious flame stairs tornado welcome inherit fabric exhibit jealous";
+var mnemonic = "trend jealous patrol lady bamboo sausage crack rate exit piece duty depart";

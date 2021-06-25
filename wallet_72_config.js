@@ -1,1 +1,1 @@
-var mnemonic = "tennis empower license opinion echo orange tide glide course field artefact hunt";
+var mnemonic = "clerk prefer decade slender corn diet lecture reason hybrid area please word";

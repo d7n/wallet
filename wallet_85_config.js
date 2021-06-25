@@ -1,1 +1,1 @@
-var mnemonic = "buffalo claim interest obtain mushroom wrist crush ivory little nerve vapor news";
+var mnemonic = "vicious normal palace science protect still praise rule arctic unique guess become";

@@ -1,1 +1,1 @@
-var mnemonic = "figure shine detail zoo motion own embrace brave uncle display rival shuffle";
+var mnemonic = "prosper nose visa session tip question decide glow hub venture lion army";

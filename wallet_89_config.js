@@ -1,1 +1,1 @@
-var mnemonic = "host machine donkey argue worry rabbit joy cat loan expect nut romance";
+var mnemonic = "digital farm alpha glad page raccoon exile tackle message limb scale material";

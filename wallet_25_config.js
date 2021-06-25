@@ -1,1 +1,1 @@
-var mnemonic = "deliver fancy hero dawn open chair illness wrist door bitter repair twelve";
+var mnemonic = "flat boy submit tortoise parrot meat movie minimum grocery gate loud group";

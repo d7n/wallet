@@ -1,1 +1,1 @@
-var mnemonic = "arctic tomorrow genre junk wing toast mountain coast finish delay illegal neutral";
+var mnemonic = "creek march spawn balcony age shed miracle virus narrow room ribbon oval";

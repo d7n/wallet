@@ -1,1 +1,1 @@
-var mnemonic = "skill lawsuit olympic nasty fence hunt example try response say balcony stone";
+var mnemonic = "truth hockey cliff purity pluck dog elder great museum canvas hobby hidden";

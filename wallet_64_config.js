@@ -1,1 +1,1 @@
-var mnemonic = "spread often release dirt wet tuition decline badge comic castle fiscal celery";
+var mnemonic = "wear ball earth hill palm diesel husband spare heavy confirm above treat";

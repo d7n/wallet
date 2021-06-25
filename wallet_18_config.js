@@ -1,1 +1,1 @@
-var mnemonic = "grab casino struggle load tilt habit home peace wild domain priority innocent";
+var mnemonic = "anchor gasp sheriff squeeze torch matter elder toddler lift taxi switch save";
