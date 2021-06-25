@@ -1,1 +1,1 @@
-var mnemonic = "copper verify hidden tone mule dismiss annual vocal shed dress garment window";
+var mnemonic = "where robot ability hole muffin direct own current people control glove case";

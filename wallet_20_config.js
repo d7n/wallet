@@ -1,1 +1,1 @@
-var mnemonic = "surge reject right thought exhibit puppy engage pond mule garment slab badge";
+var mnemonic = "panel logic street slow kick panda eternal book slot night lava ten";

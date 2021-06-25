@@ -1,1 +1,1 @@
-var mnemonic = "dynamic valid budget pause thank scrap cattle dad address pencil figure ghost";
+var mnemonic = "reject spatial base refuse electric render dizzy brief canyon palm way social";

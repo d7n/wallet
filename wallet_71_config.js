@@ -1,1 +1,1 @@
-var mnemonic = "tumble drama main arrange ordinary south pig law prosper phone cute else";
+var mnemonic = "brief interest mention loop prosper obscure alter add embody favorite music forward";

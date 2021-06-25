@@ -1,1 +1,1 @@
-var mnemonic = "improve wide mask stool feed gasp parent wheel latin guess summer aware";
+var mnemonic = "marriage legal promote month drop fun local three load congress unveil twelve";

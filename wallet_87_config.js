@@ -1,1 +1,1 @@
-var mnemonic = "mad camera spirit museum never boss sing gas focus rubber farm aerobic";
+var mnemonic = "actual direct dawn body cricket nature strong ship return mandate vendor such";

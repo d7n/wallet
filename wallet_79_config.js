@@ -1,1 +1,1 @@
-var mnemonic = "depth antique shallow clever divorce lounge crew obscure rival ecology lazy grape";
+var mnemonic = "strong left slam hybrid dizzy royal region aware supply cover document what";

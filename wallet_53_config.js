@@ -1,1 +1,1 @@
-var mnemonic = "yard until portion tag catalog bonus timber honey distance vacuum kingdom unusual";
+var mnemonic = "ski secret slam digital cash ring coffee repeat combine pledge result umbrella";

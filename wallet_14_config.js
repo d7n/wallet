@@ -1,1 +1,1 @@
-var mnemonic = "loud mask biology usage earn episode space other decrease liberty stumble bracket";
+var mnemonic = "live force open vote link author harsh private vehicle motion team midnight";

@@ -1,1 +1,1 @@
-var mnemonic = "lake electric pause horse museum list hundred toss logic wire upset link";
+var mnemonic = "devote vocal story trade crash gaze banana camera more expire smart slam";

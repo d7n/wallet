@@ -1,1 +1,1 @@
-var mnemonic = "invite various cradle crazy acoustic shoe cost second swarm visual fluid output";
+var mnemonic = "birth prepare winter fiscal civil lend almost invite swear only focus train";

@@ -1,1 +1,1 @@
-var mnemonic = "actual pledge embark unfair huge cross comic symptom actor vanish glove suspect";
+var mnemonic = "scatter afraid sad civil ocean sponsor left remain fetch cricket grain voice";

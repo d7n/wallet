@@ -1,1 +1,1 @@
-var mnemonic = "state metal tackle grant pilot glide eyebrow derive fluid camera sniff basket";
+var mnemonic = "cook valve cook buyer silver adapt brother small pause abuse odor zone";

@@ -1,1 +1,1 @@
-var mnemonic = "obey tackle avoid broom sibling lobster kiss twin forum off ripple air";
+var mnemonic = "ritual fiber become crunch grace hamster loop rocket february glad another safe";

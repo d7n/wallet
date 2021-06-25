@@ -1,1 +1,1 @@
-var mnemonic = "poem salute merit usage page globe reform stick riot admit connect laundry";
+var mnemonic = "large vocal observe cruel oven short wood donkey wage burst evoke horse";

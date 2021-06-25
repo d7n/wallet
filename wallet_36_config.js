@@ -1,1 +1,1 @@
-var mnemonic = "lonely smooth table drop lend travel have lottery charge tomorrow game silk";
+var mnemonic = "acquire ritual school broom skill force double final laugh team arrest survey";

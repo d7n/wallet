@@ -1,1 +1,1 @@
-var mnemonic = "bench drink weekend crater rapid job today process crisp churn version kick";
+var mnemonic = "hat pink project bar name split either alley salute puzzle oven organ";

@@ -1,1 +1,1 @@
-var mnemonic = "web awkward combine angle patch glide legend brave remove close hybrid beef";
+var mnemonic = "library swear skate riot slogan casual lunar nasty rate cash blouse identify";

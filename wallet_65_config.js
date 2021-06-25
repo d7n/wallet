@@ -1,1 +1,1 @@
-var mnemonic = "execute science couch balance mail beach topic gasp issue position pill fossil";
+var mnemonic = "type depart float skin beyond fresh learn bicycle cave tumble earn grief";

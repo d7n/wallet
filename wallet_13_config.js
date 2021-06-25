@@ -1,1 +1,1 @@
-var mnemonic = "decorate void gossip potato drip blossom involve damage pony nephew safe fix";
+var mnemonic = "trend sense dilemma museum hidden inspire mouse pencil garlic rebuild brother any";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost museum deal toast transfer range fade silly cruise heart south draft";
+var mnemonic = "manual type cage lamp avoid nephew pledge wash cross typical dust ribbon";

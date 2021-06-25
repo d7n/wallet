@@ -1,1 +1,1 @@
-var mnemonic = "lock social news ceiling chair balcony license wreck expire cave kiss chef";
+var mnemonic = "bargain clap jelly middle slim orphan speed rack area warrior foam admit";

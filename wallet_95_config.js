@@ -1,1 +1,1 @@
-var mnemonic = "anger neglect phrase panel face gas sustain tide vibrant index motion illegal";
+var mnemonic = "give knife text cook tragic valve lend tomato nasty midnight pipe someone";

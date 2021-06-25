@@ -1,1 +1,1 @@
-var mnemonic = "mansion buddy bottom forward ensure derive echo giant file talent exit life";
+var mnemonic = "frozen lizard payment boring catch squirrel reject pupil swallow leopard obscure dog";

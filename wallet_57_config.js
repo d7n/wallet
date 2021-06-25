@@ -1,1 +1,1 @@
-var mnemonic = "liquid tragic air alien before solid trap inhale length until seek north";
+var mnemonic = "victory cruise still oven bamboo tag ring mule crater first pelican reveal";

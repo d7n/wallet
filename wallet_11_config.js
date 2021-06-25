@@ -1,1 +1,1 @@
-var mnemonic = "garlic twice evolve train bargain tuna elephant taste object other furnace shallow";
+var mnemonic = "ghost world hunt radar document bridge average era peace damp above relief";

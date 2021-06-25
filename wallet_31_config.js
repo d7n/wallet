@@ -1,1 +1,1 @@
-var mnemonic = "citizen fiber despair snack industry clock piano expect divert heavy quick type";
+var mnemonic = "model access visit inquiry chat note chase march abstract display enjoy minute";

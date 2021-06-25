@@ -1,1 +1,1 @@
-var mnemonic = "divert trash valley retreat toward soul dwarf news basic ability jump scissors";
+var mnemonic = "what shop escape picnic kiss purchase hen lizard advance bone spray hero";

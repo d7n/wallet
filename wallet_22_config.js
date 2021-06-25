@@ -1,1 +1,1 @@
-var mnemonic = "snap army input expect erase index all chunk polar clutch wrestle involve";
+var mnemonic = "diet brave brush mandate panic when staff parent prefer rice solar average";

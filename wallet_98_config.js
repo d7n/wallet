@@ -1,1 +1,1 @@
-var mnemonic = "hurt guilt fire clever layer laundry forum agent vast cable tunnel differ";
+var mnemonic = "this mad industry base wide soul bring afford genuine time dial economy";

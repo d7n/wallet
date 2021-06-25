@@ -1,1 +1,1 @@
-var mnemonic = "clock way sun either neck choice street matter frequent basket slow hurry";
+var mnemonic = "elevator aisle chronic elite loud purpose dog observe airport segment jar enable";

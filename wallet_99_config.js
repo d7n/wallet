@@ -1,1 +1,1 @@
-var mnemonic = "chicken track maze measure job ladder legal pig faith field birth remember";
+var mnemonic = "prefer road panic output kind retreat treat day method similar warm stand";

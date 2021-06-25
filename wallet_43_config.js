@@ -1,1 +1,1 @@
-var mnemonic = "top goose gaze mandate lab team discover globe critic pelican sting sight";
+var mnemonic = "chest stage split around range company cargo affair oppose melody aisle right";

@@ -1,1 +1,1 @@
-var mnemonic = "utility sign equal pilot control shoot sauce spot depend weather congress cart";
+var mnemonic = "adjust chef catch whisper spin wild destroy screen edge tide stay drastic";

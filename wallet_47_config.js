@@ -1,1 +1,1 @@
-var mnemonic = "erupt mix solve peace work quarter name sell wire skirt bargain into";
+var mnemonic = "receive click private lend girl number strategy aim rebuild antique supply perfect";

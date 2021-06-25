@@ -1,1 +1,1 @@
-var mnemonic = "panic frame income section prison source dwarf claim bar letter drip lady";
+var mnemonic = "gossip suggest smart spatial kite energy assume legal pioneer federal ten humor";

@@ -1,1 +1,1 @@
-var mnemonic = "enlist oak budget kitchen rude bind few prosper tell various summer provide";
+var mnemonic = "clip green employ august much select path bike rich fluid coconut cable";

@@ -1,1 +1,1 @@
-var mnemonic = "replace frequent program ceiling copy hedgehog motion grunt labor cave lecture dance";
+var mnemonic = "verb soccer net nose guilt lion pyramid rely dentist dwarf between traffic";

@@ -1,1 +1,1 @@
-var mnemonic = "stick language arch reflect reduce blur hill coin crazy rifle abuse guard";
+var mnemonic = "general marble sudden comfort divorce much amount type brass brass pull twin";

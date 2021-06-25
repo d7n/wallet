@@ -1,1 +1,1 @@
-var mnemonic = "pretty quality foil valve obvious opinion staff year amount smoke more calm";
+var mnemonic = "river ripple fitness high emerge smoke amazing company select split notable play";

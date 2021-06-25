@@ -1,1 +1,1 @@
-var mnemonic = "daughter miss sign seat siege tragic denial erase design siren travel trap";
+var mnemonic = "unveil survey spatial grit pottery picture artist space bacon foot meadow govern";

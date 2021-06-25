@@ -1,1 +1,1 @@
-var mnemonic = "waste enlist candy horn slush film strategy trick way rack stove moon";
+var mnemonic = "maple rice clay offer midnight notable ripple arrest boy cushion winter initial";

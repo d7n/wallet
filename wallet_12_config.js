@@ -1,1 +1,1 @@
-var mnemonic = "salt shield visual fortune rain execute scrap process subject denial damage country";
+var mnemonic = "brisk appear hand sock gold motor true track enjoy future uncle coyote";

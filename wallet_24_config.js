@@ -1,1 +1,1 @@
-var mnemonic = "palm ramp confirm suffer draft adult wire reopen elephant base general scissors";
+var mnemonic = "inflict coin duty violin omit tooth device better aerobic drill pill lake";

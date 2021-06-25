@@ -1,1 +1,1 @@
-var mnemonic = "economy forum open rotate amazing ostrich depth carry slot add forget grow";
+var mnemonic = "repeat apple thing purchase shove ritual imitate either green glow lounge travel";

@@ -1,1 +1,1 @@
-var mnemonic = "loan emotion breeze civil ticket donor skin another garlic general stamp summer";
+var mnemonic = "claw slide learn govern tattoo minute funny stomach mushroom gossip fox valley";

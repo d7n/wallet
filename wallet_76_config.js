@@ -1,1 +1,1 @@
-var mnemonic = "someone battle possible razor example moment grid pyramid clock garbage check task";
+var mnemonic = "mammal mango question build mushroom whisper flip keep close jelly label vessel";

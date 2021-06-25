@@ -1,1 +1,1 @@
-var mnemonic = "shaft defense globe bridge grass penalty oak certain throw glance copper night";
+var mnemonic = "myself salute theory thunder husband main point pottery young sock thumb never";

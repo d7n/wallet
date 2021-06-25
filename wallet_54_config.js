@@ -1,1 +1,1 @@
-var mnemonic = "zebra patch home modify auction fancy tuition tuition danger velvet garbage mom";
+var mnemonic = "used viable demise average ladder cabin pitch furnace stadium video mind mammal";

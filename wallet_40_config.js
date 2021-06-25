@@ -1,1 +1,1 @@
-var mnemonic = "drink pulse brief book swallow trophy found divorce chalk cannon enter mercy";
+var mnemonic = "sadness miracle govern sketch mixed extend result gown pulp fatigue provide sphere";

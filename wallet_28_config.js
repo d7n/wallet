@@ -1,1 +1,1 @@
-var mnemonic = "inmate surge runway mosquito latin smoke moment wall way child talk unable";
+var mnemonic = "sight ankle stable advice transfer shy scrap elevator legend fire salad raccoon";

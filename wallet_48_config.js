@@ -1,1 +1,1 @@
-var mnemonic = "bundle must firm neglect fresh tomorrow weather diet awake truth pilot home";
+var mnemonic = "arrange brown shoot near easy what adult pill romance foil outdoor glance";

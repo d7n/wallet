@@ -1,1 +1,1 @@
-var mnemonic = "best cabbage feed enough theory another payment umbrella pave lecture rain manual";
+var mnemonic = "aisle post muscle alter connect weekend confirm brave attitude guide exact edge";

@@ -1,1 +1,1 @@
-var mnemonic = "toy spoon skull artwork nothing fence mail cube vote hedgehog engine kit";
+var mnemonic = "require tenant point ordinary face gauge defy traffic strategy actress alley actress";

@@ -1,1 +1,1 @@
-var mnemonic = "input canal live foam gospel cave hour rebel million current donor emerge";
+var mnemonic = "mixture fire city industry welcome few where upset trigger deny pair struggle";

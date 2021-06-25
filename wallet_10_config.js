@@ -1,1 +1,1 @@
-var mnemonic = "repair share planet display wonder pool federal breeze vendor save blouse behind";
+var mnemonic = "cabbage enlist member castle short letter system loyal shock alley exclude pair";

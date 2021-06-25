@@ -1,1 +1,1 @@
-var mnemonic = "cage bread enough charge refuse cage wise ranch cigar magnet kid romance";
+var mnemonic = "once round tortoise lunch fault average unique regret session seven chicken resource";

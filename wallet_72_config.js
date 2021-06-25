@@ -1,1 +1,1 @@
-var mnemonic = "burden birth odor earn trend system tenant position output idea bacon index";
+var mnemonic = "congress dismiss spot broom enlist series circle audit dumb salute own receive";

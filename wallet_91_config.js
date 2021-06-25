@@ -1,1 +1,1 @@
-var mnemonic = "chimney wild wolf copy door thunder thrive urban main clinic air obey";
+var mnemonic = "tired gossip pact razor fortune muffin floor pistol rural nerve visit review";

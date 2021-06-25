@@ -1,1 +1,1 @@
-var mnemonic = "forward gaze answer devote rose dice maze vault control brief agree rally";
+var mnemonic = "shop grape squeeze matter mango round resource outer glide diet sausage flash";

@@ -1,1 +1,1 @@
-var mnemonic = "slim page anxiety glow nasty pear rely glad conduct wage animal quick";
+var mnemonic = "cigar fashion jealous improve bundle banana toddler silent bundle exchange stairs update";

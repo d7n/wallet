@@ -1,1 +1,1 @@
-var mnemonic = "farm hotel just group taxi antique plastic human nice enter loan please";
+var mnemonic = "grass power okay control glimpse embrace wagon myth mandate better mystery material";

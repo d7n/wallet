@@ -1,1 +1,1 @@
-var mnemonic = "trick dinner mail minimum volcano jealous sand project finish energy salute swear";
+var mnemonic = "coil taste entire cliff fever physical swarm agree regular enhance cradle unusual";

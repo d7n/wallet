@@ -1,1 +1,1 @@
-var mnemonic = "tone stand liquid whale frequent noodle taste bless west lab advice useless";
+var mnemonic = "arena romance food pig ready rural soap plastic olympic detail priority cannon";

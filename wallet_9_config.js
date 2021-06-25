@@ -1,1 +1,1 @@
-var mnemonic = "limit shoulder assist silly legend skull myself rule warfare novel lady age";
+var mnemonic = "now since solve glimpse loyal brush differ noodle universe deer cluster tilt";

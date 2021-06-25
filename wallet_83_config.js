@@ -1,1 +1,1 @@
-var mnemonic = "text panther purchase certain love run unhappy demise latin crater aerobic citizen";
+var mnemonic = "earn slim inmate hockey shrimp taxi illegal cactus globe scissors ensure inmate";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny trash fish final start skirt say boil invest casino place solve";
+var mnemonic = "long photo tobacco gather turkey stable buzz noble artefact reject culture legal";

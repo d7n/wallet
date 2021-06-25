@@ -1,1 +1,1 @@
-var mnemonic = "doctor exclude rocket laptop ancient range system puppy fitness glance frequent nephew";
+var mnemonic = "case shed fish brave beyond month enjoy elegant quiz enlist swap weird";

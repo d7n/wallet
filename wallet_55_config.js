@@ -1,1 +1,1 @@
-var mnemonic = "slice tag twice female special dismiss chalk rather dial pipe disorder manual";
+var mnemonic = "rapid gift object immense repeat rice again talk tornado spare mutual car";

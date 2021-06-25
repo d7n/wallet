@@ -1,1 +1,1 @@
-var mnemonic = "resemble account stool depend include retire wedding that rice island lemon smile";
+var mnemonic = "over floor air tongue wealth lazy scrap giant walk animal example aunt";

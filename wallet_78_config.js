@@ -1,1 +1,1 @@
-var mnemonic = "someone pioneer nuclear truck tonight floor weasel dentist round market blind gospel";
+var mnemonic = "proud glance deposit job major lonely acquire only rate alien junk soft";

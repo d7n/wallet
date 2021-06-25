@@ -1,1 +1,1 @@
-var mnemonic = "cliff perfect door eternal grab pass attract tomato clever scrub wagon provide";
+var mnemonic = "today coast index board uphold country asset century source pattern man autumn";

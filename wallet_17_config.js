@@ -1,1 +1,1 @@
-var mnemonic = "bachelor cabin worry media tortoise cliff trophy power during inform crime pitch";
+var mnemonic = "village parent small assist winner capable dove rubber seat cute gesture journey";

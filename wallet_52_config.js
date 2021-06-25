@@ -1,1 +1,1 @@
-var mnemonic = "memory price capable window pudding camera hollow beyond mention planet session protect";
+var mnemonic = "promote valley real cause scrap stand process stay secret absent easily language";

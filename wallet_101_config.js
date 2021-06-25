@@ -1,1 +1,1 @@
-var mnemonic = "exercise random grape city glory record join spike polar version jacket remind";
+var mnemonic = "rebel curve menu knee news hundred lobster thrive nothing shed tide few";

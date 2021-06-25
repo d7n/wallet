@@ -1,1 +1,1 @@
-var mnemonic = "two edit awake payment crowd program dice cabbage noble label slow resemble";
+var mnemonic = "shoe marble pass horse scare double diagram loop base public digital audit";

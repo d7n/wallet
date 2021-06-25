@@ -1,1 +1,1 @@
-var mnemonic = "stadium cave twelve shy goat pill industry pink chief aware nation spy";
+var mnemonic = "east cactus rally crime human lab trim swear dilemma thunder snow hard";

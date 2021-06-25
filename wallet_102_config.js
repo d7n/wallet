@@ -1,1 +1,1 @@
-var mnemonic = "shrug nature lab mechanic fever else envelope target corn recycle slender museum";
+var mnemonic = "alarm swing erupt close mushroom save fuel vehicle strike sniff include coin";

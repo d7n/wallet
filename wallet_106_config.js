@@ -1,1 +1,1 @@
-var mnemonic = "force deputy fat rough improve awesome pitch name drum ski improve slender";
+var mnemonic = "rely quit junior zoo never blame flat nose clarify cotton fault valley";

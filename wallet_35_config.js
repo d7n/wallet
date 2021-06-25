@@ -1,1 +1,1 @@
-var mnemonic = "best brother horse govern forest portion decorate income thumb bright august world";
+var mnemonic = "oyster pig jelly head quiz better ramp canyon accident lucky flame gap";

@@ -1,1 +1,1 @@
-var mnemonic = "grit acoustic crane taxi trend reward ocean six whale stamp paper parent";
+var mnemonic = "neglect warrior current amused couch giraffe punch web trash pact base okay";

@@ -1,1 +1,1 @@
-var mnemonic = "weekend festival elevator napkin letter manual vacuum donkey pottery syrup alert insect";
+var mnemonic = "license they civil rural gift fortune arm improve cram diary album vessel";

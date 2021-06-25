@@ -1,1 +1,1 @@
-var mnemonic = "music cross half hurdle glad lock foster void clarify someone inspire duck";
+var mnemonic = "taxi one unveil rude saddle like glove occur few runway holiday apple";

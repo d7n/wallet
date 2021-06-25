@@ -1,1 +1,1 @@
-var mnemonic = "fence cherry finish pear vocal broccoli tag grocery jar dentist sting report";
+var mnemonic = "trophy depart winter trap layer grain force simple seven sunny innocent circle";

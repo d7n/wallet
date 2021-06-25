@@ -1,1 +1,1 @@
-var mnemonic = "bottom glare soon pelican duck cake chicken gap action notice focus bone";
+var mnemonic = "ice avoid nuclear point february state artefact cherry help loud iron still";

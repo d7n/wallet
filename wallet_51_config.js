@@ -1,1 +1,1 @@
-var mnemonic = "evolve peasant fitness room faith nest sting faint wild vibrant logic kidney";
+var mnemonic = "boat topple garden phrase service law box fitness smart name bounce venture";

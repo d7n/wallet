@@ -1,1 +1,1 @@
-var mnemonic = "brush flower manage ceiling moral fashion material essay illegal sight pottery genius";
+var mnemonic = "sister patient rescue shop woman enable youth fish believe sock awesome tent";

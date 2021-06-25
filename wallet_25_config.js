@@ -1,1 +1,1 @@
-var mnemonic = "drama swing fish add actor parade gate panic air giant census fiction";
+var mnemonic = "crew volume thunder jealous inherit violin strategy measure always very quiz promote";
