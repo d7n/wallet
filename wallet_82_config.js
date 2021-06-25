@@ -1,1 +1,1 @@
-var mnemonic = "live adult dinosaur palace kangaroo wave field theory earth any typical face";
+var mnemonic = "sock crush garage favorite quote discover private indicate arrange cream lounge found";

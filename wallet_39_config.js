@@ -1,1 +1,1 @@
-var mnemonic = "glimpse timber vague answer spike junk art fragile reward rare enforce autumn";
+var mnemonic = "portion art furnace rail doll assault roast approve brush federal evidence vast";

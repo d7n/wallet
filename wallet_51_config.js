@@ -1,1 +1,1 @@
-var mnemonic = "start tape ghost badge slender honey weather life distance merry marriage cheese";
+var mnemonic = "weekend shallow other grow inch citizen absorb omit step grocery toward giant";

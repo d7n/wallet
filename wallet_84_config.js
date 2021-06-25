@@ -1,1 +1,1 @@
-var mnemonic = "middle syrup index tennis gorilla remind exclude mountain candy nose accident ketchup";
+var mnemonic = "guilt damp box peace blur draw pave honey body pelican ancient word";

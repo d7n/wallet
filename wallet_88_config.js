@@ -1,1 +1,1 @@
-var mnemonic = "leader total blush disagree fly famous person there bonus lucky corn fever";
+var mnemonic = "hollow beach normal dad race bottom viable enroll holiday forum token subway";

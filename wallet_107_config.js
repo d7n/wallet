@@ -1,1 +1,1 @@
-var mnemonic = "soap shoe foot maximum attend rookie weather cherry fold shrimp recycle loud";
+var mnemonic = "negative idle bottom leaf found potato need mixed throw open item skate";

@@ -1,1 +1,1 @@
-var mnemonic = "apology bus motion industry spawn decade liquid budget child pencil ring about";
+var mnemonic = "lumber lift lemon benefit dutch again drama pretty salt future sure cloud";

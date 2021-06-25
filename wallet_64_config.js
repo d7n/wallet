@@ -1,1 +1,1 @@
-var mnemonic = "buyer theme crane among turtle soldier release join burst stock island annual";
+var mnemonic = "start success near hungry toss before output sing person speak inherit inflict";

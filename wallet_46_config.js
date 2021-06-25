@@ -1,1 +1,1 @@
-var mnemonic = "undo insect pupil couple lake claw wide debate learn ride build river";
+var mnemonic = "topic ladder park correct album swallow alarm staff beauty select error awesome";

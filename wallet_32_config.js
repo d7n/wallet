@@ -1,1 +1,1 @@
-var mnemonic = "glove uphold syrup retire morning owner step similar print trumpet name girl";
+var mnemonic = "protect beef farm sausage unaware clap slight sell destroy art elephant harbor";

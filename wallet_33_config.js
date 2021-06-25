@@ -1,1 +1,1 @@
-var mnemonic = "team labor brick sweet armed adult ribbon notice blade divorce will leisure";
+var mnemonic = "section plunge tilt drama wing virus firm produce exotic lizard ocean charge";

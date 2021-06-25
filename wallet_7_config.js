@@ -1,1 +1,1 @@
-var mnemonic = "circle ladder climb smooth manual vintage festival dance under wet drum head";
+var mnemonic = "repeat chat exhaust tuna hire abuse radar theory ginger margin tip fragile";

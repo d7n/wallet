@@ -1,1 +1,1 @@
-var mnemonic = "absorb soap release garden faint exact hockey panther glimpse settle style color";
+var mnemonic = "bounce three curious enemy rescue inherit swear clay survey mass device grunt";

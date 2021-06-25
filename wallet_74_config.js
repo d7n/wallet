@@ -1,1 +1,1 @@
-var mnemonic = "wall evidence cannon pave input slide potato sphere issue ranch call coral";
+var mnemonic = "clutch advice ritual ranch space present ball there exhaust brand purpose biology";

@@ -1,1 +1,1 @@
-var mnemonic = "seed become nephew endless gift surface novel dinner traffic stumble february favorite";
+var mnemonic = "food coin tape sound total neck field note fancy learn blanket ceiling";

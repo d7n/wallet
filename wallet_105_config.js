@@ -1,1 +1,1 @@
-var mnemonic = "motor tongue price exhibit owner dose garage cry economy force biology dad";
+var mnemonic = "secret exact that output anxiety guard circle aim jar frame process shift";

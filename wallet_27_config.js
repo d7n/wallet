@@ -1,1 +1,1 @@
-var mnemonic = "heavy six choose garbage urban sport lens lottery absent card month alert";
+var mnemonic = "design guitar exact century unusual swift trade glove gate gain math try";

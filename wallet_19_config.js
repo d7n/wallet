@@ -1,1 +1,1 @@
-var mnemonic = "symptom entire item finish muffin legend burst cherry position pink loyal green";
+var mnemonic = "situate frost arch gun fetch empower clarify between lake angry analyst deposit";

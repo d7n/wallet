@@ -1,1 +1,1 @@
-var mnemonic = "history grain chalk witness spot wolf what royal title upper mammal neck";
+var mnemonic = "window pull endorse three tree verb average audit relief firm cash endless";

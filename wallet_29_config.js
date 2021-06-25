@@ -1,1 +1,1 @@
-var mnemonic = "agree thing core ordinary leopard call quantum topic slide fringe tooth multiply";
+var mnemonic = "repair wheel forest combine decide butter sea tennis post collect life sponsor";

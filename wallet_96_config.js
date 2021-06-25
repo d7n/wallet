@@ -1,1 +1,1 @@
-var mnemonic = "define august fabric suspect outdoor shrimp giggle punch budget solid nation twenty";
+var mnemonic = "field increase clerk goat silly praise essay anchor stove organ cram viable";

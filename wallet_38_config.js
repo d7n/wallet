@@ -1,1 +1,1 @@
-var mnemonic = "aspect memory task light dirt one august pepper horse nose fitness disagree";
+var mnemonic = "doctor access latin drive green vanish autumn scale sudden wise cable siren";

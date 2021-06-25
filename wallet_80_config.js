@@ -1,1 +1,1 @@
-var mnemonic = "nest sample secret manual sheriff infant motion escape learn strategy release only";
+var mnemonic = "smoke faith surprise industry spin maximum lizard nut tuna cash model later";

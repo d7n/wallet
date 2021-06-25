@@ -1,1 +1,1 @@
-var mnemonic = "easy hawk castle bonus cheap shallow near manual together fashion seed tent";
+var mnemonic = "defense cook outer museum cushion sadness time swallow enemy kitchen devote erode";

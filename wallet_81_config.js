@@ -1,1 +1,1 @@
-var mnemonic = "furnace vague sense cruise zebra trumpet other unknown agree pact doctor correct";
+var mnemonic = "hello claw board coyote damp differ alley one then hill live camp";

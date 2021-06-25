@@ -1,1 +1,1 @@
-var mnemonic = "payment tobacco stamp when civil crisp ketchup trust note pink enact lobster";
+var mnemonic = "snow apart rug same swing about describe palm luggage birth pill century";

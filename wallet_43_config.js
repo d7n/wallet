@@ -1,1 +1,1 @@
-var mnemonic = "organ grocery purse payment garage cancel kind false winter reject stick truck";
+var mnemonic = "warfare festival sibling chase electric real avocado shove away issue seed rent";

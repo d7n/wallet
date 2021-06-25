@@ -1,1 +1,1 @@
-var mnemonic = "goat flee habit siege spare scissors inch render ostrich sting output air";
+var mnemonic = "industry forward wash garment friend deliver volcano wheel matter able space human";

@@ -1,1 +1,1 @@
-var mnemonic = "city correct magnet embody unknown card business write fork item assault poet";
+var mnemonic = "hair start material garment chunk polar height aware talk bachelor drop truth";

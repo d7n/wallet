@@ -1,1 +1,1 @@
-var mnemonic = "know clog spirit panda cheese speed series dawn basket false flight corn";
+var mnemonic = "coffee huge access wonder impulse bundle animal crane vendor utility festival tennis";

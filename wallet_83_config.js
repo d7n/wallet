@@ -1,1 +1,1 @@
-var mnemonic = "record vast victory frost museum battle wheel pipe wrong left evidence junior";
+var mnemonic = "coin lady coyote define control soccer pride yard mystery delay armor valid";

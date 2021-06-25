@@ -1,1 +1,1 @@
-var mnemonic = "split minimum opinion fantasy burst mistake question bronze walnut dragon auction awake";
+var mnemonic = "ski athlete exile ceiling seminar cabbage tag glance casual oval decide bamboo";

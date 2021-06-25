@@ -1,1 +1,1 @@
-var mnemonic = "napkin mixed olympic profit hurt laundry seek head connect spider melody since";
+var mnemonic = "unhappy injury bright pipe belt cute major goddess embody bronze brick cave";

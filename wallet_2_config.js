@@ -1,1 +1,1 @@
-var mnemonic = "apart south social laundry evidence valid solve fiber thought airport regular license";
+var mnemonic = "real speed ramp horn coin athlete found client laugh welcome bunker script";

@@ -1,1 +1,1 @@
-var mnemonic = "result race sort mean income inflict mean weird tuna burst own list";
+var mnemonic = "lamp offer include industry behave cake upset frame balance slot album result";

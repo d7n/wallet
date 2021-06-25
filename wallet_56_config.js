@@ -1,1 +1,1 @@
-var mnemonic = "faith repeat unfold trial camera goddess choice thumb charge dutch earth praise";
+var mnemonic = "glue crush else citizen miss primary almost always unaware supreme view roof";

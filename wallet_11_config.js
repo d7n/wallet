@@ -1,1 +1,1 @@
-var mnemonic = "ring tobacco layer bomb fatigue trap depth large broom vibrant clip melt";
+var mnemonic = "globe glare unique dentist ocean maid stomach asset outside bird detail crystal";

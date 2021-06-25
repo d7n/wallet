@@ -1,1 +1,1 @@
-var mnemonic = "april ribbon pink can sock rail agent cruise sleep twice panic faint";
+var mnemonic = "century narrow praise uniform fossil mask call raven jungle pitch strong return";

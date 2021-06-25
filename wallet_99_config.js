@@ -1,1 +1,1 @@
-var mnemonic = "supply display again upgrade move erupt icon real budget text monster logic";
+var mnemonic = "nose argue drip kit sun tornado lumber awkward stage captain renew notice";

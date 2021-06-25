@@ -1,1 +1,1 @@
-var mnemonic = "pencil wild lava belt food oval turtle airport rare excite birth water";
+var mnemonic = "muffin wagon desert strategy obtain dynamic tool remind mango wild brand carpet";

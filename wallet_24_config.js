@@ -1,1 +1,1 @@
-var mnemonic = "mansion female spread parent absent capable invite derive rigid ice never ripple";
+var mnemonic = "sadness rule apology lava budget license claim victory slam end engine super";

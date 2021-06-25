@@ -1,1 +1,1 @@
-var mnemonic = "sense typical cupboard fetch flee night window learn chimney slide drink impact";
+var mnemonic = "physical win frog together come mountain flag bag move drink excuse devote";

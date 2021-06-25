@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow merit thumb silly nut fee bird juice split essay local symptom";
+var mnemonic = "forum mixture burden young shiver inherit army envelope ripple absent chunk negative";

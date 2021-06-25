@@ -1,1 +1,1 @@
-var mnemonic = "champion cry coffee pepper vapor unable axis pepper museum mass gas despair";
+var mnemonic = "initial fatal sphere boy twist where random senior vast achieve example left";

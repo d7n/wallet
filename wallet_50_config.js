@@ -1,1 +1,1 @@
-var mnemonic = "kitten stick gap expire arctic six stable duck nose hospital swallow surge";
+var mnemonic = "about year almost scrub clarify immune major omit clap monster boat remove";

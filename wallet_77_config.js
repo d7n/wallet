@@ -1,1 +1,1 @@
-var mnemonic = "symbol cry piano grid cart anxiety bread aunt taxi annual face gospel";
+var mnemonic = "day grass zero trust ghost already outside village hurry ticket hold summer";

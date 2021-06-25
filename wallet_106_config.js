@@ -1,1 +1,1 @@
-var mnemonic = "climb twist access captain loop dumb window wire grant volcano silver chalk";
+var mnemonic = "mango pupil adult sentence unfold aim island thank honey rapid alarm cupboard";

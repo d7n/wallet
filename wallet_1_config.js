@@ -1,1 +1,1 @@
-var mnemonic = "resource differ reform secret orchard salt stool obtain critic below load short";
+var mnemonic = "require language about across book omit forum argue blame depend wash fame";

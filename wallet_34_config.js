@@ -1,1 +1,1 @@
-var mnemonic = "grass surprise cake fault cute cat above learn spare seminar dice castle";
+var mnemonic = "nose virtual raise horn suspect remind cushion access museum diary citizen sail";

@@ -1,1 +1,1 @@
-var mnemonic = "yard endless bulk inhale marine rival aware hover weather ahead sunny wink";
+var mnemonic = "color melt credit hire betray beef visa man anchor tonight dance clever";

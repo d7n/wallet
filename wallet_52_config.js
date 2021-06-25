@@ -1,1 +1,1 @@
-var mnemonic = "evil plunge damage lemon advance deer north one lift icon glad life";
+var mnemonic = "food dutch treat blood knee chase nerve trend amazing wet explain taste";

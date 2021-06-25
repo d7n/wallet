@@ -1,1 +1,1 @@
-var mnemonic = "love candy pottery net group load fetch festival spell diamond rice plunge";
+var mnemonic = "agent balcony shove prison because seed clever olive medal poet grid switch";

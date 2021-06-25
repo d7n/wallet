@@ -1,1 +1,1 @@
-var mnemonic = "area violin kit differ wolf tape wool bubble torch suggest negative have";
+var mnemonic = "addict acquire frost pencil rib fog slight expose concert jar special debris";

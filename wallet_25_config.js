@@ -1,1 +1,1 @@
-var mnemonic = "east oval region forest cancel flash hidden dish clump travel episode route";
+var mnemonic = "concert party slender syrup gloom normal coin across clinic follow buddy glad";

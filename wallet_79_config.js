@@ -1,1 +1,1 @@
-var mnemonic = "yard worry sibling long boy vague deputy burger globe theory vault tone";
+var mnemonic = "key quantum festival dad current bleak rib roast okay crowd ketchup crystal";

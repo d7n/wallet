@@ -1,1 +1,1 @@
-var mnemonic = "arena inquiry alter disorder what box define apart give cruise close father";
+var mnemonic = "kiss snap lecture satisfy trophy average nominee spray poverty wrestle spatial wrong";

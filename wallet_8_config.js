@@ -1,1 +1,1 @@
-var mnemonic = "flight alien inform wave famous rule abuse cream amused aspect arena muffin";
+var mnemonic = "gather caution gentle rather arrange swift upon nation dry leg remain north";

@@ -1,1 +1,1 @@
-var mnemonic = "shield paper proud verb pitch hazard price other subject arch message size";
+var mnemonic = "tilt radar chunk budget cousin elbow chase trumpet series hole stage laugh";

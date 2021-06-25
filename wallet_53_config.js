@@ -1,1 +1,1 @@
-var mnemonic = "reject filter vanish siren story bid neglect lab hat push wall solar";
+var mnemonic = "suit few honey siren quantum knife town hungry dwarf proud blouse dress";

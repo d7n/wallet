@@ -1,1 +1,1 @@
-var mnemonic = "fall angry rib attend skate surprise control monkey minimum army enough wheat";
+var mnemonic = "elbow confirm illness relax plug fever damage swamp almost rain cycle live";

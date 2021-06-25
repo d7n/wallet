@@ -1,1 +1,1 @@
-var mnemonic = "stamp enemy craft sheriff area cricket liberty enjoy mix wine code face";
+var mnemonic = "dress detect cute ridge delay much true render siege leader someone plug";

@@ -1,1 +1,1 @@
-var mnemonic = "more behave chase lazy friend goat people permit prefer leaf clay ten";
+var mnemonic = "whisper stable bargain fitness agent invest proof ill spring release puzzle grid";

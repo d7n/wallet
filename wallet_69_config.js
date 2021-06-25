@@ -1,1 +1,1 @@
-var mnemonic = "castle slush aware machine oven pudding trap bridge happy subject wait awake";
+var mnemonic = "shallow zebra round announce island add marble sand ordinary repair ugly moral";

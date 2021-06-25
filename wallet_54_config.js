@@ -1,1 +1,1 @@
-var mnemonic = "exact remove rifle shrimp enough protect cabin bench quit head sign ethics";
+var mnemonic = "artwork april huge garlic kick pave lyrics acoustic vivid clay element copper";

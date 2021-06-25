@@ -1,1 +1,1 @@
-var mnemonic = "bicycle turtle album stand census announce cousin quarter found arrange hurt version";
+var mnemonic = "denial coin settle trash museum piano rice dentist laptop peace crash tired";

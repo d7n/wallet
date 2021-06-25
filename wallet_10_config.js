@@ -1,1 +1,1 @@
-var mnemonic = "magic ripple brave table winter lunar shoot typical velvet sting marble test";
+var mnemonic = "fire patch tired talent pet resist never giraffe electric fury ethics analyst";

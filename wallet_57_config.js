@@ -1,1 +1,1 @@
-var mnemonic = "three feel tiger mule miss sketch equip proof treat leisure disorder couch";
+var mnemonic = "govern carbon fruit obtain demise crane around hand shiver someone south modify";

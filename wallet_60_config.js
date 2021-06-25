@@ -1,1 +1,1 @@
-var mnemonic = "love barrel female blast route coyote chuckle talk bonus purity basic material";
+var mnemonic = "hover glide case remain awake busy plug symptom link liberty wheel survey";

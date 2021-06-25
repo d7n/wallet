@@ -1,1 +1,1 @@
-var mnemonic = "proof swift salad mushroom quick boy quit else drip vendor ski belt";
+var mnemonic = "tiger lift corn identify congress divorce sun leader silk hour prosper fortune";

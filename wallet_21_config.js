@@ -1,1 +1,1 @@
-var mnemonic = "foot behind nominee tired silent elevator any life season taste figure casino";
+var mnemonic = "enjoy obtain unable bundle together blame antenna story where quote hero pluck";

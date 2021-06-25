@@ -1,1 +1,1 @@
-var mnemonic = "labor service crucial wheat calm want relief soldier outside favorite stem remove";
+var mnemonic = "ensure quality aerobic caution subject amused person sample coyote welcome arrange meat";

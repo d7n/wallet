@@ -1,1 +1,1 @@
-var mnemonic = "divide skull goddess scale screen belt patrol kiss depart unhappy blast barrel";
+var mnemonic = "define soup collect ask wasp sword rescue number slim lake nominee member";

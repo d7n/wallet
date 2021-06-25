@@ -1,1 +1,1 @@
-var mnemonic = "shuffle match width cage wreck gesture exhibit nest fame glue trial federal";
+var mnemonic = "outdoor fortune link source damage naive panther license shrimp ivory diary typical";

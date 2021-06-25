@@ -1,1 +1,1 @@
-var mnemonic = "review emerge order diet hill music remain valve alley nominee express unit";
+var mnemonic = "daughter tide term bar reopen thank trial today harvest tip settle harbor";

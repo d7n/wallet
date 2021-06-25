@@ -1,1 +1,1 @@
-var mnemonic = "volume gospel happy eager cherry unable lady nation aim horn slogan office";
+var mnemonic = "merge jealous view group middle faith flee consider reform better always snow";

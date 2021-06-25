@@ -1,1 +1,1 @@
-var mnemonic = "target enrich holiday imitate survey learn gospel deny error drill clap blanket";
+var mnemonic = "two trick chalk tonight timber timber arrow check bread frame anxiety poet";

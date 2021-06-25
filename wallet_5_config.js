@@ -1,1 +1,1 @@
-var mnemonic = "carry random real civil foil tube blur tortoise iron rally weird repeat";
+var mnemonic = "taxi plunge fork merit verify pulse few among aim nation rare lucky";

@@ -1,1 +1,1 @@
-var mnemonic = "beyond blind insane nature clean accuse polar wild catalog size similar since";
+var mnemonic = "zebra civil inspire praise cheese pact unhappy laugh inject bag rent weapon";

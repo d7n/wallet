@@ -1,1 +1,1 @@
-var mnemonic = "invest leave blossom roast junk truth razor clerk ten like cabbage scene";
+var mnemonic = "denial west atom fox clerk town aspect lawsuit visa uniform impact forward";

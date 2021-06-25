@@ -1,1 +1,1 @@
-var mnemonic = "section system language alone outdoor virtual arena gesture learn tumble police pig";
+var mnemonic = "patient ribbon flock glare lady stable citizen engage claw toy error pact";

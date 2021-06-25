@@ -1,1 +1,1 @@
-var mnemonic = "injury drink usual bracket virtual scare flip august unaware dash flock ethics";
+var mnemonic = "school gate stool day punch tuna biology safe cause toward unknown canyon";

@@ -1,1 +1,1 @@
-var mnemonic = "before nut whisper assist menu park fix essay awful example common obscure";
+var mnemonic = "notable grunt fold woman actress agree frozen valid clutch ignore security bacon";

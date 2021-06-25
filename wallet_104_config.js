@@ -1,1 +1,1 @@
-var mnemonic = "gift cotton card vibrant lemon attack purity large rug motor brief rebel";
+var mnemonic = "service state noble any lyrics cup loop fatigue tortoise express predict lion";

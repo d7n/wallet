@@ -1,1 +1,1 @@
-var mnemonic = "keen exchange gossip crumble nothing jaguar arctic neck now fame dutch disagree";
+var mnemonic = "still report six other slim check beach above future bicycle alone visual";

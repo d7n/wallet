@@ -1,1 +1,1 @@
-var mnemonic = "coconut arrive already oxygen loop reason firm youth acid elevator camp section";
+var mnemonic = "thrive miracle shift weapon movie boat race abuse indicate divide slice tape";

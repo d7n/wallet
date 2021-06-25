@@ -1,1 +1,1 @@
-var mnemonic = "crack nasty pledge vacuum usage mixed whale page peanut cage episode inquiry";
+var mnemonic = "point thumb hurdle filter poem deputy inquiry nasty begin cement muscle rookie";

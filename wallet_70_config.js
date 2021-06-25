@@ -1,1 +1,1 @@
-var mnemonic = "ripple gain grain skull hospital mobile sister east day shock radar slam";
+var mnemonic = "increase pause abuse letter produce tongue lawsuit salt crunch innocent target hurdle";

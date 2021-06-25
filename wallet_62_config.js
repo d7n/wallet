@@ -1,1 +1,1 @@
-var mnemonic = "face ramp cost ethics stadium worth video airport thumb because give sniff";
+var mnemonic = "walk law fringe gesture gloom annual erupt wet inch spy balance hour";

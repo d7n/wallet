@@ -1,1 +1,1 @@
-var mnemonic = "town sibling short shock debate normal inner wait loop jacket cinnamon tiny";
+var mnemonic = "walk slice expire insect word shrimp burden town panther whisper stamp stadium";

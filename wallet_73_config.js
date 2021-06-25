@@ -1,1 +1,1 @@
-var mnemonic = "alert maid save trouble exclude elegant grid fee cupboard tunnel rib silly";
+var mnemonic = "clerk armor virtual gossip vote tip eyebrow minimum ignore list captain lion";

@@ -1,1 +1,1 @@
-var mnemonic = "tongue picnic arena extra news notable shaft frozen expand little hard negative";
+var mnemonic = "magic local cabin pass grape this family employ film firm crash awesome";

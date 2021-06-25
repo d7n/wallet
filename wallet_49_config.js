@@ -1,1 +1,1 @@
-var mnemonic = "sound sketch front cave cry end rich protect program divert input enact";
+var mnemonic = "grit road asset border clinic ticket great shallow intact damp pencil toe";

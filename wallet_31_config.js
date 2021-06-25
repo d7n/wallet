@@ -1,1 +1,1 @@
-var mnemonic = "laugh year match guilt reward airport hen federal gift mandate maple return";
+var mnemonic = "hybrid rabbit never leaf horn venture remain alpha liquid brother gap purchase";

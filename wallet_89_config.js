@@ -1,1 +1,1 @@
-var mnemonic = "roof item truck debris canal net online pepper vacuum volcano welcome talk";
+var mnemonic = "permit choice rabbit book volume spider panel aerobic onion rich layer vehicle";

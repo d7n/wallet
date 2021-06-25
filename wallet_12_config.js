@@ -1,1 +1,1 @@
-var mnemonic = "during seat tent awake culture mask regret impact clever flash crouch between";
+var mnemonic = "wink rubber super exchange emotion donate bacon quiz sun rice prize little";
