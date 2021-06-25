@@ -1,1 +1,1 @@
-var mnemonic = "gloom flee inspire topic thing dismiss pluck pistol fold young fortune churn";
+var mnemonic = "wedding round surface panic olympic bitter million network lady core luxury attend";

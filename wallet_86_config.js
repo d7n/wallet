@@ -1,1 +1,1 @@
-var mnemonic = "meadow eight patrol rebuild inform rescue lab heart combine machine water possible";
+var mnemonic = "evidence hire code apple praise parrot story attack scan rely whip learn";

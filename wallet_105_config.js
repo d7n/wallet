@@ -1,1 +1,1 @@
-var mnemonic = "neglect write describe thought main between plate holiday have horn balcony struggle";
+var mnemonic = "hotel differ desert bitter second quote task more silk fiber cup champion";

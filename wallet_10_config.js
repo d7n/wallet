@@ -1,1 +1,1 @@
-var mnemonic = "direct strike bullet dirt swallow crystal candy smart cement kit gate diamond";
+var mnemonic = "clump fan gesture tattoo scene stairs project neglect marriage nerve amount fluid";

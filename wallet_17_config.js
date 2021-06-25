@@ -1,1 +1,1 @@
-var mnemonic = "voice layer dress estate fatal raven oil width cake series foster famous";
+var mnemonic = "toe inside lend match coil perfect patient glide betray milk twist thank";

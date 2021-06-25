@@ -1,1 +1,1 @@
-var mnemonic = "damp hip sail tourist width run fruit april rigid party trim model";
+var mnemonic = "random chimney begin ability emerge chat turtle history explain normal album anchor";

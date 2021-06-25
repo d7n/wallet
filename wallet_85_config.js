@@ -1,1 +1,1 @@
-var mnemonic = "mention excite act bubble nothing final amazing divert wild shock turkey segment";
+var mnemonic = "dynamic decline taxi yard cage jump outside ability process outer neutral picture";

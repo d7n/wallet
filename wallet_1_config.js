@@ -1,1 +1,1 @@
-var mnemonic = "pepper normal maximum physical exclude flee roof skull awful woman patient tuition";
+var mnemonic = "license corn since proud screen wrap dragon diagram artwork kingdom often spoil";

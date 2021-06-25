@@ -1,1 +1,1 @@
-var mnemonic = "father top attack alert recipe person write action pulse inmate effort mention";
+var mnemonic = "praise stem wealth vanish kingdom quarter salad security minute soon fatigue script";

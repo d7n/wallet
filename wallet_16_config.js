@@ -1,1 +1,1 @@
-var mnemonic = "decline hour ability help share lonely annual sting either pause purpose apart";
+var mnemonic = "major evoke laundry spoon empower swim raccoon media attract trophy sense fluid";

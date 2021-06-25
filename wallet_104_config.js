@@ -1,1 +1,1 @@
-var mnemonic = "cruise wet pigeon basket fortune cruise congress original super hill weird husband";
+var mnemonic = "whisper hockey lock output fence minute soft suggest hurry toilet pencil staff";

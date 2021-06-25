@@ -1,1 +1,1 @@
-var mnemonic = "mother debris nurse apology define wish letter valve sign theme poverty tornado";
+var mnemonic = "hammer judge enjoy urban vintage raven win filter jar coach prefer flag";

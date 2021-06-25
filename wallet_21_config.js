@@ -1,1 +1,1 @@
-var mnemonic = "spot elevator fox mad own anxiety scare punch window answer begin donor";
+var mnemonic = "hip ensure brother whip recall neglect common fire other own trap shed";

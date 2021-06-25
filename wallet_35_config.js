@@ -1,1 +1,1 @@
-var mnemonic = "castle practice easily target market cage enrich worth approve trap curious retreat";
+var mnemonic = "walnut damage point baby civil clerk useful skull trap merit myself scene";

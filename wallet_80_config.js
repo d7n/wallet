@@ -1,1 +1,1 @@
-var mnemonic = "envelope spread cabin cement rate picnic tattoo ready cradle welcome brother mass";
+var mnemonic = "lion rug comic kid corn coconut essay february promote public vivid fruit";

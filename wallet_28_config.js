@@ -1,1 +1,1 @@
-var mnemonic = "ocean marble sausage echo vacuum pen there endless wonder mule palace sleep";
+var mnemonic = "weapon exchange solve initial case across steak young upon donor farm category";

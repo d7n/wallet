@@ -1,1 +1,1 @@
-var mnemonic = "tank service object inflict lesson knife normal laundry cable entire industry wing";
+var mnemonic = "island legal horn train pizza because brand swear muscle camp chuckle enemy";

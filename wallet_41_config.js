@@ -1,1 +1,1 @@
-var mnemonic = "script utility drama autumn defense urge dutch wait palace police claw connect";
+var mnemonic = "donor quick marriage stairs caution climb close decorate suit side easily turn";

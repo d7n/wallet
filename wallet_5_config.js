@@ -1,1 +1,1 @@
-var mnemonic = "spike review boy swap hotel zone slight main crowd column local menu";
+var mnemonic = "train slush position shove cinnamon proud uncle whisper present entry sunset still";

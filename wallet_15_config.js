@@ -1,1 +1,1 @@
-var mnemonic = "clay spoil cover chuckle purpose mule announce have uncover problem issue thrive";
+var mnemonic = "rain silly upon accuse lonely own focus naive audit naive nuclear rent";

@@ -1,1 +1,1 @@
-var mnemonic = "plastic acquire unfold heart mystery pipe mixed expect salute diagram disagree tortoise";
+var mnemonic = "reopen deliver leg soccer evil barrel advance kind catalog puppy tired laptop";

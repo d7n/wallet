@@ -1,1 +1,1 @@
-var mnemonic = "tuna scrap kind nature basic ankle garbage stable mistake build old inner";
+var mnemonic = "hazard title abstract hurt sell wage ancient lazy steak dance swarm float";

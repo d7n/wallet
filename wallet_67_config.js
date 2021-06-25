@@ -1,1 +1,1 @@
-var mnemonic = "vacant medal win arena dumb shallow price memory labor split legal region";
+var mnemonic = "style item number execute deal radar side antique leave upper magic alpha";

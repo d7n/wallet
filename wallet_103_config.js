@@ -1,1 +1,1 @@
-var mnemonic = "subway play thing issue churn decorate valve winner increase gas grief bunker";
+var mnemonic = "october crazy cake glove put scrub misery east cricket dog fragile moment";

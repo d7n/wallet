@@ -1,1 +1,1 @@
-var mnemonic = "drastic spring host corn ladder journey defense decorate lumber innocent gift walk";
+var mnemonic = "amateur universe segment crystal assume glimpse penalty clerk deputy obey fade vendor";

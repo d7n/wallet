@@ -1,1 +1,1 @@
-var mnemonic = "swallow decide toe meadow safe disease unaware wrong trophy erode asthma airport";
+var mnemonic = "image gas torch seed trip girl other magnet child little thumb push";

@@ -1,1 +1,1 @@
-var mnemonic = "fortune office elephant sand song never pact tourist neglect head sister fatal";
+var mnemonic = "canal clarify air aerobic gun over impose pulse jaguar connect cash farm";

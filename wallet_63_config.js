@@ -1,1 +1,1 @@
-var mnemonic = "arctic theme clump penalty differ wine olive weird car fit before indicate";
+var mnemonic = "consider smart abuse bulb only fire civil bean absent dwarf educate chest";

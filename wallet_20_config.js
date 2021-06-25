@@ -1,1 +1,1 @@
-var mnemonic = "spawn arch rocket pitch story trophy pipe venue eyebrow worry certain talk";
+var mnemonic = "normal seat reunion walk dumb destroy winner crisp sword organ surprise chapter";

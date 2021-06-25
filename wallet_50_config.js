@@ -1,1 +1,1 @@
-var mnemonic = "kind system help chaos capital apology soon six useless injury fit cabin";
+var mnemonic = "weather play today brick gallery tail solve agent champion case source muscle";

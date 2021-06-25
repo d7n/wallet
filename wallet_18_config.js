@@ -1,1 +1,1 @@
-var mnemonic = "citizen fury twelve region seminar trouble buffalo bottom goose mystery victory next";
+var mnemonic = "romance runway simple cigar grape regret bird year neglect local giant final";

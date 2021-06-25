@@ -1,1 +1,1 @@
-var mnemonic = "husband base pyramid month total bright dog pattern crumble pulp disorder task";
+var mnemonic = "blood delay group giant truck message purpose reason royal thumb ice normal";

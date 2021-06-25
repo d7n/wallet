@@ -1,1 +1,1 @@
-var mnemonic = "harbor idea basic weather panther dentist timber side mix crawl plug civil";
+var mnemonic = "derive case skull giraffe noble point never burden grain tribe game fold";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar forget circle swim voice mechanic finger clog wreck reflect volcano pepper";
+var mnemonic = "artefact desk object area dose moment hover process praise frame sheriff educate";

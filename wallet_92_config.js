@@ -1,1 +1,1 @@
-var mnemonic = "matter jungle forget fame robot explain garage donkey sick text reunion letter";
+var mnemonic = "power gold note film ring tragic high uncover hidden people parrot charge";

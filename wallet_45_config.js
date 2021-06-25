@@ -1,1 +1,1 @@
-var mnemonic = "barrel bracket section firm knife embrace neck pool ancient hidden cover cost";
+var mnemonic = "pelican minute multiply liquid surround chronic tiger loop finish goddess cancel pyramid";

@@ -1,1 +1,1 @@
-var mnemonic = "cargo anger jelly tag desert impose wolf tip brave grocery pool good";
+var mnemonic = "cake law pioneer child element alone clay column sudden eight regular curtain";

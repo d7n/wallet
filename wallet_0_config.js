@@ -1,1 +1,1 @@
-var mnemonic = "useful already cruel fame suffer jar loud immune economy later crime upgrade";
+var mnemonic = "wife random wrong quarter relax monkey robust boss income file fit lava";

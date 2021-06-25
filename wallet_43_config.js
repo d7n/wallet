@@ -1,1 +1,1 @@
-var mnemonic = "race nurse put document weekend pen inhale grit sock hedgehog mind domain";
+var mnemonic = "gospel ship earn same half rally winner link matrix payment ceiling curve";

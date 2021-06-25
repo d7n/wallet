@@ -1,1 +1,1 @@
-var mnemonic = "stool guide confirm access firm very struggle hope board weather digital sad";
+var mnemonic = "gallery confirm figure zero ecology pole excess major celery genre stem mutual";

@@ -1,1 +1,1 @@
-var mnemonic = "render thank force eyebrow vague episode evolve trigger exact record will milk";
+var mnemonic = "pitch pen state pool put brisk blast myth evil tenant member car";

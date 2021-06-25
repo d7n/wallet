@@ -1,1 +1,1 @@
-var mnemonic = "isolate believe clump winner bean zone demise cat target cat rain false";
+var mnemonic = "parade prevent alley apart trip antenna north corn park orange brick trust";

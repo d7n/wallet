@@ -1,1 +1,1 @@
-var mnemonic = "dinner achieve liar transfer merit garage blame announce blanket shove quote defy";
+var mnemonic = "web sauce scan program caught critic unfair wedding north raven opinion twist";

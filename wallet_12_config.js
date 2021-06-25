@@ -1,1 +1,1 @@
-var mnemonic = "tail avoid sense wool dismiss gentle bracket please river couch use select";
+var mnemonic = "kangaroo shuffle section birth custom owner purpose intact win actress marriage lecture";

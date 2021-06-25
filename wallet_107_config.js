@@ -1,1 +1,1 @@
-var mnemonic = "process fee issue submit aware upgrade favorite tilt drastic review guard quiz";
+var mnemonic = "one regular royal drum panda owner wing issue decade nest loan explain";

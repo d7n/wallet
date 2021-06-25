@@ -1,1 +1,1 @@
-var mnemonic = "neck gaze bless party forest yard nuclear all track fluid icon average";
+var mnemonic = "dance pig pool record taxi acoustic senior gather summer enroll side strong";

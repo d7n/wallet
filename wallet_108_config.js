@@ -1,1 +1,1 @@
-var mnemonic = "nice chapter hockey involve fantasy segment boost mosquito loyal dynamic fork okay";
+var mnemonic = "ticket shift electric envelope assist exile basic hurdle note since muffin camera";

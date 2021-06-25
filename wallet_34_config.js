@@ -1,1 +1,1 @@
-var mnemonic = "icon sort either sunny pact pen jungle sock tumble recycle mass device";
+var mnemonic = "lucky brush talk field swear trumpet nephew stage misery praise uniform physical";

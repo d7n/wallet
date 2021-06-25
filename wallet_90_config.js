@@ -1,1 +1,1 @@
-var mnemonic = "fall vital property lottery funny engine royal income retreat minute oven abuse";
+var mnemonic = "foot sustain attitude net infant apart alter reunion guilt carry chair square";

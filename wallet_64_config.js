@@ -1,1 +1,1 @@
-var mnemonic = "away seed certain fame mystery wide cluster mango blossom nuclear love fold";
+var mnemonic = "small card squeeze hidden boil roast logic spike health spy damage lizard";

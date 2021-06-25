@@ -1,1 +1,1 @@
-var mnemonic = "note prevent flee swarm toward entire hole crash moon brass bicycle drink";
+var mnemonic = "middle return absorb undo vibrant unable clog harsh empower joke spoil cherry";

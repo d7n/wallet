@@ -1,1 +1,1 @@
-var mnemonic = "response matter moon divide isolate modify turn spice quantum birth spatial observe";
+var mnemonic = "speak favorite suffer parrot verify case cool liberty royal hole search scorpion";

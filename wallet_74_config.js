@@ -1,1 +1,1 @@
-var mnemonic = "local side kid drastic remember solve vendor attack ancient marble mass execute";
+var mnemonic = "vanish cook drip oven certain giggle blossom ozone melody control enlist benefit";

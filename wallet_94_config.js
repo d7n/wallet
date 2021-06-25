@@ -1,1 +1,1 @@
-var mnemonic = "board initial desert clip valley blue sure machine baby roast vast common";
+var mnemonic = "amazing spend trigger mushroom wasp squeeze key soap patrol tiger alpha collect";

@@ -1,1 +1,1 @@
-var mnemonic = "web panel harbor abstract remember dream salt banner glare vague become army";
+var mnemonic = "borrow avocado blue blue treat fault brown spray swing meat stable cradle";

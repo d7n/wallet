@@ -1,1 +1,1 @@
-var mnemonic = "taste tilt gorilla escape hero pistol inside fat come garage plastic next";
+var mnemonic = "drum story arrow enhance distance leader tuna vapor advance clown file neutral";

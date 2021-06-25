@@ -1,1 +1,1 @@
-var mnemonic = "pact company vintage casual permit peanut magnet quality rookie special balcony apart";
+var mnemonic = "there stone clay spring zero find cricket use swarm area thought close";

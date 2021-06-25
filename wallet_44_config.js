@@ -1,1 +1,1 @@
-var mnemonic = "evil fresh solve rack twist nut mix dignity clock then boy gossip";
+var mnemonic = "century sunny foam burden shell brother prison ginger dutch junior furnace merge";

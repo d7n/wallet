@@ -1,1 +1,1 @@
-var mnemonic = "brain old swing head cup resemble letter clown ride code cushion parade";
+var mnemonic = "together auto vacuum worry security planet local rescue all kiwi mass melt";

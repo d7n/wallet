@@ -1,1 +1,1 @@
-var mnemonic = "first clap style web arctic ankle uncle review quarter laugh nose fine";
+var mnemonic = "mad town normal aspect forward print script husband gospel mixed potato senior";

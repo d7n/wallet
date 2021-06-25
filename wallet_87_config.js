@@ -1,1 +1,1 @@
-var mnemonic = "usage own input tragic cram dumb brush clap hidden oval play sentence";
+var mnemonic = "stool real buyer mixed credit vivid chief view attract lucky hint cannon";

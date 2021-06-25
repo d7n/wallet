@@ -1,1 +1,1 @@
-var mnemonic = "female year athlete banana portion fresh achieve force vast civil code business";
+var mnemonic = "height armor word urge sword moral edge market taste key latin spray";

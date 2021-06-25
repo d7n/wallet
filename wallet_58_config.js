@@ -1,1 +1,1 @@
-var mnemonic = "oyster gesture tissue law rubber rifle remember infant hurt law trumpet myself";
+var mnemonic = "avoid knee victory uncle squirrel dentist woman kangaroo husband fury taste better";

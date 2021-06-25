@@ -1,1 +1,1 @@
-var mnemonic = "medal color record spoil fly daughter squirrel bulb office advance famous unique";
+var mnemonic = "hub dolphin solution bargain airport text elite venue apple agree timber chef";

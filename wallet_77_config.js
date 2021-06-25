@@ -1,1 +1,1 @@
-var mnemonic = "fiscal acquire ostrich enable outer indoor cake verb warfare friend pencil bar";
+var mnemonic = "leopard prosper peace equal column faith crop power sentence impulse park way";

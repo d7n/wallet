@@ -1,1 +1,1 @@
-var mnemonic = "fashion lamp awful hen renew oil hunt south salmon dinner skin traffic";
+var mnemonic = "teach journey paper raw amused leave farm number furnace drop expect scrap";

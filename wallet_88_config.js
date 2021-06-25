@@ -1,1 +1,1 @@
-var mnemonic = "invite life border nurse industry rescue master shoot pride cost mutual alone";
+var mnemonic = "raw deposit busy faith shy spirit medal again trouble rocket wrong life";

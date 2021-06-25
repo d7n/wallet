@@ -1,1 +1,1 @@
-var mnemonic = "deliver mail response gun fly roof stand chair dinosaur original grid awkward";
+var mnemonic = "indoor question sphere arctic expand enlist image soda chase display dizzy panther";

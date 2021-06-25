@@ -1,1 +1,1 @@
-var mnemonic = "title harbor iron harvest hockey hint evolve box badge basket will news";
+var mnemonic = "law access snack bid mention train wasp spin knock novel coral purpose";

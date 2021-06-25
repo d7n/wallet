@@ -1,1 +1,1 @@
-var mnemonic = "drill inject coconut miss fever giraffe push ice guess crew hunt width";
+var mnemonic = "attract bonus mixture mobile glory thing creek suspect sting slab exchange cram";

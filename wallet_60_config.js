@@ -1,1 +1,1 @@
-var mnemonic = "myself vote tomorrow shock craft inflict debate daring panther action valve visit";
+var mnemonic = "atom rival meat doll fold cake town issue inch try noble forget";

@@ -1,1 +1,1 @@
-var mnemonic = "source update stomach vanish december same budget coffee quality rail surround around";
+var mnemonic = "cute marine bullet deal heart frame addict blossom imitate lucky hammer purpose";

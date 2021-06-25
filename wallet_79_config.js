@@ -1,1 +1,1 @@
-var mnemonic = "frame cart convince market bitter spike capital middle unfold spirit industry rabbit";
+var mnemonic = "robust quiz rate round capable habit radio honey helmet depth link deal";

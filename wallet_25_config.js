@@ -1,1 +1,1 @@
-var mnemonic = "deliver cave fly act window knock dad accident blouse sail upgrade play";
+var mnemonic = "subject perfect paddle bag fade add glad amateur disease mixed erosion latin";

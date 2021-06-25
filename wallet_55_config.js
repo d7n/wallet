@@ -1,1 +1,1 @@
-var mnemonic = "mechanic afraid misery beyond cat absorb popular aware cigar task lady maximum";
+var mnemonic = "level win seed include fury lava rescue appear always mutual renew iron";

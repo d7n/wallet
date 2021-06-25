@@ -1,1 +1,1 @@
-var mnemonic = "where other person cargo bleak hockey system figure target peasant small wool";
+var mnemonic = "capital scan above nurse sample frost sphere gesture pigeon pilot peanut retreat";

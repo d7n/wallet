@@ -1,1 +1,1 @@
-var mnemonic = "silly please start scan captain face wonder common barrel chef solve club";
+var mnemonic = "effort work tiger thrive always radio subway sort build toe gadget bonus";

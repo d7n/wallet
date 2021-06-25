@@ -1,1 +1,1 @@
-var mnemonic = "salon ginger miss educate inherit post awake vast choose heart draft renew";
+var mnemonic = "roast orient display embody cigar cause cook require letter alert grow jeans";

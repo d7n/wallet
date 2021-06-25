@@ -1,1 +1,1 @@
-var mnemonic = "excuse jaguar foam mushroom meat valve coast drama rebuild correct cost acid";
+var mnemonic = "media giant food grow master transfer fatigue keen cycle toast control coil";

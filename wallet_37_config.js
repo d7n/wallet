@@ -1,1 +1,1 @@
-var mnemonic = "lemon spot identify neither focus weekend expire match patient solar rubber head";
+var mnemonic = "index permit void gloom congress oppose robust artist domain crane pig trophy";

@@ -1,1 +1,1 @@
-var mnemonic = "good elite amazing head film hat chat suffer agree armed off powder";
+var mnemonic = "quick lab seat require frame decide eagle harvest orchard cactus awful alarm";

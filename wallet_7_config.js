@@ -1,1 +1,1 @@
-var mnemonic = "ranch harsh end genuine original salute table calm night foster spot choice";
+var mnemonic = "grass lamp poet design detect follow enable whisper toilet spoon spend drive";

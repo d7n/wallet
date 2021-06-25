@@ -1,1 +1,1 @@
-var mnemonic = "ivory party jungle crater barely child camera identify table edge device off";
+var mnemonic = "nurse address ready possible clip calm oven mix three cotton hybrid celery";
