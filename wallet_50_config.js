@@ -1,1 +1,1 @@
-var mnemonic = "frog spot rural soup minimum easily strike execute spend stand income innocent";
+var mnemonic = "bundle expand useful melt science december cherry drastic earth good melody ability";

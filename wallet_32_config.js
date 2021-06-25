@@ -1,1 +1,1 @@
-var mnemonic = "that gorilla open loud hood music join casino air must float tenant";
+var mnemonic = "crush memory power demise sound often surprise accuse material tone gold loan";

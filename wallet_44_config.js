@@ -1,1 +1,1 @@
-var mnemonic = "december mom impact kind enhance reopen banner naive embody salt word climb";
+var mnemonic = "swim boring yard asthma tenant replace bamboo maid laugh chunk wrong person";

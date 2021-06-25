@@ -1,1 +1,1 @@
-var mnemonic = "major wrap multiply enforce lemon crowd dose hidden donor body pill excess";
+var mnemonic = "loud meat annual lab blind dance artwork student demise erupt blame slam";

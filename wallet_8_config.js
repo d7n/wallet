@@ -1,1 +1,1 @@
-var mnemonic = "stick earn seed easy around during auto demand illegal concert fat piece";
+var mnemonic = "offer endorse extend total attack tennis luxury super turtle claim tumble depart";

@@ -1,1 +1,1 @@
-var mnemonic = "banner arctic grocery clown story neck reform diesel junk recycle liar olive";
+var mnemonic = "volume old warrior blind horn nurse mercy hotel live enhance blue cherry";

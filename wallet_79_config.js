@@ -1,1 +1,1 @@
-var mnemonic = "ready audit blade dinner great tail palm hurry chapter soldier purchase reflect";
+var mnemonic = "initial because refuse ignore seek coach whisper seminar curve crazy urge debris";

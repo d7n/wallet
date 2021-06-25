@@ -1,1 +1,1 @@
-var mnemonic = "figure chief useless alley high siren together useless dust funny example popular";
+var mnemonic = "audit foam case apart food uphold they acid lady monkey grain ice";

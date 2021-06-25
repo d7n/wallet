@@ -1,1 +1,1 @@
-var mnemonic = "spray afford defy anger panda judge resemble decline country ship nuclear night";
+var mnemonic = "payment brisk over canal total lake donor august struggle village garage corn";

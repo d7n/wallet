@@ -1,1 +1,1 @@
-var mnemonic = "bomb equip fine scorpion hover royal bridge junk dolphin fury soldier fan";
+var mnemonic = "speed under music local custom model camera speak armor cradle shoot absurd";

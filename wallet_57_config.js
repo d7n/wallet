@@ -1,1 +1,1 @@
-var mnemonic = "trigger kick crazy tube convince pen guitar sick embrace type hard this";
+var mnemonic = "solve cross practice sick ribbon note grape oval lunar mystery regret fantasy";

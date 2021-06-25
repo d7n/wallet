@@ -1,1 +1,1 @@
-var mnemonic = "biology clog tuna session remain athlete sort analyst toast vendor merry surface";
+var mnemonic = "loud misery capable pill taste judge nice scene sail stairs insect fury";

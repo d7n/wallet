@@ -1,1 +1,1 @@
-var mnemonic = "ladder audit network acid region off december slice evoke churn loop under";
+var mnemonic = "whale auto link manage movie trap slim middle main meat umbrella village";

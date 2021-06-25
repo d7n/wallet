@@ -1,1 +1,1 @@
-var mnemonic = "abuse monster trouble abstract refuse gravity wing pill walnut banana fall spot";
+var mnemonic = "because gorilla output bicycle interest tooth mystery enforce friend laptop fine liquid";

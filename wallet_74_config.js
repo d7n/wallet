@@ -1,1 +1,1 @@
-var mnemonic = "own occur wave unfold aisle dinosaur robust veteran minute pyramid say token";
+var mnemonic = "keen vendor flip dash pave circle noodle infant sound rely sweet dizzy";

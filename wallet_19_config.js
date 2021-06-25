@@ -1,1 +1,1 @@
-var mnemonic = "staff achieve bronze goddess horror upper vital pass balance cupboard option disease";
+var mnemonic = "rebuild hero front manual shiver odor analyst garlic wet silk meat patch";

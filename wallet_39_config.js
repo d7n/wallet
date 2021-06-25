@@ -1,1 +1,1 @@
-var mnemonic = "poet chimney reunion member crime hidden invest harbor toddler jungle december ankle";
+var mnemonic = "rapid robot dentist question leaf solution reduce young grocery net hold away";

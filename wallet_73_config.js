@@ -1,1 +1,1 @@
-var mnemonic = "artwork snake invest marble opinion return lazy pair lava remove thrive beauty";
+var mnemonic = "chief walk aunt grab bacon raw layer real brisk asset leisure host";

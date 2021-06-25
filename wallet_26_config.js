@@ -1,1 +1,1 @@
-var mnemonic = "load feel deal tumble narrow climb artefact deposit soul melody gravity crawl";
+var mnemonic = "pair build require include marriage wrap year census come base enlist remove";

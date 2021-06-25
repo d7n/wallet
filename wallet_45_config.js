@@ -1,1 +1,1 @@
-var mnemonic = "physical traffic adjust tree planet apology venue clay winner meadow dance cash";
+var mnemonic = "body mind oil quit chief vibrant fold citizen awake creek menu flower";

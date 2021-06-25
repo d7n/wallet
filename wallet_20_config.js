@@ -1,1 +1,1 @@
-var mnemonic = "have edit turn tattoo swear unlock collect hurdle grit walk seven spread";
+var mnemonic = "spin pumpkin nut into blush raccoon what idea hammer cross ugly brief";

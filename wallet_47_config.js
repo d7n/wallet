@@ -1,1 +1,1 @@
-var mnemonic = "punch eagle sun knife neutral talent learn view extra find ticket garment";
+var mnemonic = "budget eternal parent giant bottom eagle wasp rail spy mule ostrich lava";

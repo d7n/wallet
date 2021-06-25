@@ -1,1 +1,1 @@
-var mnemonic = "educate father spot theory squirrel spray brush negative suspect feed enroll used";
+var mnemonic = "flame gauge play thought vacant sign muscle trash able width shallow soldier";

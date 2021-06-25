@@ -1,1 +1,1 @@
-var mnemonic = "loud skirt addict loan math reason help soul banana increase ramp zero";
+var mnemonic = "busy extend weird stable bleak coral sail trouble boost muscle pride tongue";

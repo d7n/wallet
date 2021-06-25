@@ -1,1 +1,1 @@
-var mnemonic = "cluster run silver fever bottom cloud chief reflect lamp release uncle soda";
+var mnemonic = "laugh thunder law rival sugar divorce join away fiction inspire bleak rigid";

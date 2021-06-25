@@ -1,1 +1,1 @@
-var mnemonic = "lecture utility blush swarm fluid bench walk resist asset bitter camp guess";
+var mnemonic = "fury chalk issue floor urge oven bracket fix catalog call anchor service";

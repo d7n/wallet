@@ -1,1 +1,1 @@
-var mnemonic = "audit laugh rude girl wild robust antique surge estate supply deer december";
+var mnemonic = "stand rapid bread plug wheel bottom deliver mercy vibrant love cannon recycle";

@@ -1,1 +1,1 @@
-var mnemonic = "fly loop open reflect lumber angry razor render evidence outer clarify gaze";
+var mnemonic = "now script tired shoulder wealth federal father else host toward now father";

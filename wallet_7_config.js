@@ -1,1 +1,1 @@
-var mnemonic = "walk black style price awful credit budget explain purpose weekend sample seminar";
+var mnemonic = "access dwarf lemon kid fiber letter practice alarm leopard float used endless";

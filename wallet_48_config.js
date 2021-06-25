@@ -1,1 +1,1 @@
-var mnemonic = "version paddle matter cup ignore dish monitor hard helmet topic engage reveal";
+var mnemonic = "marine bid zero street balcony street soup castle skull fashion clump snake";

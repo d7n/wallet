@@ -1,1 +1,1 @@
-var mnemonic = "giraffe depth property urge burger zone movie seek amateur knife evolve frequent";
+var mnemonic = "panel luxury negative clay soup wrestle catalog damp vibrant draft cannon west";

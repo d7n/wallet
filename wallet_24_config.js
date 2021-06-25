@@ -1,1 +1,1 @@
-var mnemonic = "video adjust filter transfer clarify night couple olympic tilt field oil begin";
+var mnemonic = "prevent shove fortune forward zoo share cradle damp speed wool use clever";

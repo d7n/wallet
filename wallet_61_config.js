@@ -1,1 +1,1 @@
-var mnemonic = "solve truck learn method settle notice federal tape rude fade large dust";
+var mnemonic = "fee broom edge safe uniform spy crane runway immense demise deny force";

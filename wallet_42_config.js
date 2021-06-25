@@ -1,1 +1,1 @@
-var mnemonic = "credit whale shrimp chunk situate tone protect ahead badge wear forget bar";
+var mnemonic = "ribbon chaos face bulb three draft life refuse enforce winter student rice";

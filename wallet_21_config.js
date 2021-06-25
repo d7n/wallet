@@ -1,1 +1,1 @@
-var mnemonic = "liberty fence assist sunset express explain diesel confirm ghost fresh space muscle";
+var mnemonic = "silver outer copper mixture coil all brain quiz track sport happy corn";

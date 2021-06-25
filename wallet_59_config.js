@@ -1,1 +1,1 @@
-var mnemonic = "industry reward humble gravity south dad cat axis unit digital hazard sure";
+var mnemonic = "uphold depend margin razor face treat skirt carry empower effort wait twenty";

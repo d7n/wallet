@@ -1,1 +1,1 @@
-var mnemonic = "table hollow devote shoulder ketchup essence sound muffin mad crater deliver address";
+var mnemonic = "uniform tackle ahead among crush easy scan switch cousin put tape merry";

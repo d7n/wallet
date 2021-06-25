@@ -1,1 +1,1 @@
-var mnemonic = "squeeze fetch dance must earth clerk three earth clay valid produce earth";
+var mnemonic = "deliver fragile accident exact bar drastic business check human art clog never";

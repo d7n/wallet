@@ -1,1 +1,1 @@
-var mnemonic = "fabric jeans basket frozen swift sort document fortune mystery girl abandon half";
+var mnemonic = "peanut bid chief engage dismiss dust media sweet upset olive bench life";

@@ -1,1 +1,1 @@
-var mnemonic = "rude method nature sadness lend immune drama pet language skate cross fish";
+var mnemonic = "special copy keep gadget alley cage suggest hip entire develop divide cave";

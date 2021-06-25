@@ -1,1 +1,1 @@
-var mnemonic = "imitate tourist pause dream wage agent bone glory oil filter expire puzzle";
+var mnemonic = "mixture cherry crack coral girl kit broccoli benefit limb civil equal grace";

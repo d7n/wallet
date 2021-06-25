@@ -1,1 +1,1 @@
-var mnemonic = "veteran easy menu trip oxygen foster ticket hunt pulp century rigid pipe";
+var mnemonic = "purity quick resemble tornado isolate syrup elevator minor song social coyote salute";

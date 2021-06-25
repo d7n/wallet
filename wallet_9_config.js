@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow approve pizza tornado city boring beach shadow humble proud blind upper";
+var mnemonic = "warfare build smooth material clutch identify try hip disagree among peasant village";

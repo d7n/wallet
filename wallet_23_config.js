@@ -1,1 +1,1 @@
-var mnemonic = "disagree spirit there side rapid rhythm vapor remember until skin jaguar chicken";
+var mnemonic = "churn mean document pave upset prefer observe convince replace boil patient harsh";

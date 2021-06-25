@@ -1,1 +1,1 @@
-var mnemonic = "bridge carry avocado icon shoe useful become cargo margin daughter stumble laundry";
+var mnemonic = "swing virus margin sentence stumble order inherit mimic occur kick still fresh";

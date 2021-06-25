@@ -1,1 +1,1 @@
-var mnemonic = "shed again critic enlist office color myth proof scheme wheel burst year";
+var mnemonic = "surge walk snow explain capable chef capable hover symptom pitch enlist ladder";

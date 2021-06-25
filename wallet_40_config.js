@@ -1,1 +1,1 @@
-var mnemonic = "one village race gossip visit raccoon burst around pipe glance comic open";
+var mnemonic = "impact used retreat dinosaur canvas limit visa recycle smart that produce arm";

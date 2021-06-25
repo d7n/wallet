@@ -1,1 +1,1 @@
-var mnemonic = "bike social banner shrimp foam embark immense rhythm flag morning engage silly";
+var mnemonic = "grid horse verb meadow potato trash wise time snap faint clown cherry";

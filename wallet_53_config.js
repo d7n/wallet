@@ -1,1 +1,1 @@
-var mnemonic = "butter pool coffee retreat east cabin aspect cat human oil guess escape";
+var mnemonic = "shoot unknown first raise hedgehog pyramid vehicle rocket thought flee amateur pen";

@@ -1,1 +1,1 @@
-var mnemonic = "riot soup jazz certain broom fine aim myth together lonely bullet debate";
+var mnemonic = "cactus outdoor squirrel bulk wire knee problem toss vessel mirror hospital culture";

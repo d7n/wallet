@@ -1,1 +1,1 @@
-var mnemonic = "supreme cram embark beef artwork plug strong nose yard inflict mechanic drink";
+var mnemonic = "shoe flight soup keep wire glad shoot mimic firm water account service";

@@ -1,1 +1,1 @@
-var mnemonic = "mansion real wish follow plastic dove argue clutch unique agent shallow demand";
+var mnemonic = "opinion hidden mix corn cotton smooth island age goose unfold road example";

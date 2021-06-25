@@ -1,1 +1,1 @@
-var mnemonic = "exact language search beach shy casual grief misery quit parrot direct swing";
+var mnemonic = "unusual still donor crowd size modify travel snack argue shock kick rail";

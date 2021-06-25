@@ -1,1 +1,1 @@
-var mnemonic = "faith muffin west mom scrub submit kiss glide approve tank brain then";
+var mnemonic = "squeeze month topic yard price potato organ crystal pledge avocado butter layer";

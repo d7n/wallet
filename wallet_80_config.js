@@ -1,1 +1,1 @@
-var mnemonic = "chat arch tumble marble atom minimum later tool avoid boil all found";
+var mnemonic = "grow breeze teach ignore small energy impose purse world economy cry limit";

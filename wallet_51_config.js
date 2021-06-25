@@ -1,1 +1,1 @@
-var mnemonic = "buzz bubble sibling enroll warfare renew venue riot weird metal replace bamboo";
+var mnemonic = "stone tragic nation unable ocean cloth slide ceiling joke hand naive board";

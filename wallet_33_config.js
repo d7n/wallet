@@ -1,1 +1,1 @@
-var mnemonic = "enrich culture inquiry try six law pool jeans milk enforce rapid family";
+var mnemonic = "gold still fiber frog stomach custom spoon enforce survey twenty tail top";

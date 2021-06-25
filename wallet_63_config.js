@@ -1,1 +1,1 @@
-var mnemonic = "speed expand flag donkey gain vacant donate cinnamon truck hundred language all";
+var mnemonic = "one ability second license nothing bind lawn pottery planet limit kid miss";

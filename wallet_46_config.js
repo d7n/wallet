@@ -1,1 +1,1 @@
-var mnemonic = "dumb noodle town vehicle know glare dumb ranch tape pool mean expect";
+var mnemonic = "pitch upon depth alley worry alter neutral wrong system key alpha absorb";

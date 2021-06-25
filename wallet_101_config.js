@@ -1,1 +1,1 @@
-var mnemonic = "fossil kangaroo enable ribbon hover permit hobby fog venue usual goddess shaft";
+var mnemonic = "used security dragon direct badge guitar sun today sugar quiz child world";

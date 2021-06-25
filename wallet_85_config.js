@@ -1,1 +1,1 @@
-var mnemonic = "scan pool burst hero task fade disorder enemy grab brown flag glory";
+var mnemonic = "subject element rally govern attack marble climb sick bounce nest must cream";

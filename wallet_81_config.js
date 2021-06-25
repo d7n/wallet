@@ -1,1 +1,1 @@
-var mnemonic = "era staff wing minor elder broccoli outdoor door drink security diet vehicle";
+var mnemonic = "trophy hobby plunge other lounge easy isolate pact transfer flower tomato crush";

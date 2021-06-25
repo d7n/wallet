@@ -1,1 +1,1 @@
-var mnemonic = "average embark pumpkin drink decade wet lunar erase cotton source club guard";
+var mnemonic = "orange write sun core mosquito buddy win arctic tonight frog oxygen camera";

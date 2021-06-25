@@ -1,1 +1,1 @@
-var mnemonic = "blade student member brush kind bonus immense bridge leaf polar toddler mention";
+var mnemonic = "chimney fatigue nuclear stereo stem prosper detail tank taxi gas stand meat";

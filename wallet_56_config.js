@@ -1,1 +1,1 @@
-var mnemonic = "local castle gossip skull unit bring accuse blast oyster october neutral snow";
+var mnemonic = "jeans hero please only attend wage asthma hire spawn rebuild library donkey";

@@ -1,1 +1,1 @@
-var mnemonic = "car custom advance aware trash slow despair situate peasant december sunny permit";
+var mnemonic = "utility worth total final shy scan wait dirt broccoli benefit bracket afford";

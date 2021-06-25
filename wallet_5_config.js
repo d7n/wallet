@@ -1,1 +1,1 @@
-var mnemonic = "arrest view dune escape first proud gaze spirit truth armor sense wagon";
+var mnemonic = "turn tourist strategy pretty fiscal main noise you actor utility income unlock";

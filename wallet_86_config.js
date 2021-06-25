@@ -1,1 +1,1 @@
-var mnemonic = "ecology glide banana oval budget captain employ rather bulk fade job cheese";
+var mnemonic = "hamster civil face silk trap grit allow west flight work banner mad";

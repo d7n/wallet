@@ -1,1 +1,1 @@
-var mnemonic = "law earn blouse world actor dentist more vicious kangaroo north stand gas";
+var mnemonic = "blade vault find rug run over cigar theme nerve glare clean wave";

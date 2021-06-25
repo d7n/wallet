@@ -1,1 +1,1 @@
-var mnemonic = "throw cream example dinner novel cute rent argue fault valid suggest virtual";
+var mnemonic = "train organ face crystal right fit human draft fun thought auction want";

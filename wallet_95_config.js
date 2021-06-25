@@ -1,1 +1,1 @@
-var mnemonic = "know winter lucky erupt art midnight piece balance mistake basic casino clarify";
+var mnemonic = "science high noodle wonder monitor vicious vendor bus board shiver reform student";

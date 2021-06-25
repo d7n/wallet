@@ -1,1 +1,1 @@
-var mnemonic = "chaos mix torch enforce off love cheap demise elder angry phone rent";
+var mnemonic = "inherit relax basket close burger during swim lazy roof cycle lake wonder";

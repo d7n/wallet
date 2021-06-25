@@ -1,1 +1,1 @@
-var mnemonic = "quantum skull plate salad fork goddess squirrel gap pool post resemble nasty";
+var mnemonic = "canoe observe crash into surround cereal rhythm else layer shield drum industry";

@@ -1,1 +1,1 @@
-var mnemonic = "say man rely check assume output minor denial where dinner damage exact";
+var mnemonic = "jump hunt ticket bridge myth sunset alien indoor opinion tomorrow bring curve";

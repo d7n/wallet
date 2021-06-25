@@ -1,1 +1,1 @@
-var mnemonic = "bomb normal drive build flight liberty save athlete slice drink clump fall";
+var mnemonic = "guitar lawn feature ancient clip pull champion half waste moral empower shoot";

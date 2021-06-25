@@ -1,1 +1,1 @@
-var mnemonic = "crunch virus gather outer cross steak annual author tilt jealous hover opinion";
+var mnemonic = "reason second business black isolate neglect ribbon lawn bean kitten clip alone";

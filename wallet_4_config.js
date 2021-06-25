@@ -1,1 +1,1 @@
-var mnemonic = "virtual truly town badge scout security damp olive aim junk fog smile";
+var mnemonic = "aerobic shine across ski only fiscal large dash payment find copy sadness";

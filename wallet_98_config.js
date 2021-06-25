@@ -1,1 +1,1 @@
-var mnemonic = "produce lamp report off essay snake pride supreme mimic garden knife chimney";
+var mnemonic = "immune swallow joke alarm bamboo gloom hip bulk peanut soldier route high";

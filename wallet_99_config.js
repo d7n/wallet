@@ -1,1 +1,1 @@
-var mnemonic = "drama hundred daring farm member slim square trip chuckle rally anchor world";
+var mnemonic = "soccer toilet naive idea east fault major filter assist picture pool solid";

@@ -1,1 +1,1 @@
-var mnemonic = "oyster toddler foam curve kit group chalk month jaguar capable cushion athlete";
+var mnemonic = "whip broccoli exercise blame suggest champion circle aware unknown rug six term";

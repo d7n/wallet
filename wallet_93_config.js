@@ -1,1 +1,1 @@
-var mnemonic = "purity awful heavy approve floor client scrap flush amateur rally custom step";
+var mnemonic = "shop cook multiply together develop country rack slide glory year twist spice";

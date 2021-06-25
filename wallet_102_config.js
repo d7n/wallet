@@ -1,1 +1,1 @@
-var mnemonic = "mask audit regret split car motor provide problem potato urban wear melt";
+var mnemonic = "mail where detect pass suffer lottery famous violin seat upper limb used";

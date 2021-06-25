@@ -1,1 +1,1 @@
-var mnemonic = "angry taxi unveil pluck twin exist tongue piano album carpet cage canoe";
+var mnemonic = "rug aerobic world prize autumn awesome culture sail wagon broom basic gas";

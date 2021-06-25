@@ -1,1 +1,1 @@
-var mnemonic = "hollow festival buyer leg worth okay glue useful east attract echo double";
+var mnemonic = "always future master cool crush maze seed dog prison slush cruise law";

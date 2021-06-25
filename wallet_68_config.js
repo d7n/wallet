@@ -1,1 +1,1 @@
-var mnemonic = "board surge leader volume else window now resource inspire tilt royal hamster";
+var mnemonic = "boat flip humor safe spoil merge purse shell meadow caught fetch you";

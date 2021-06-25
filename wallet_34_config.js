@@ -1,1 +1,1 @@
-var mnemonic = "summer tape task scatter reduce fortune fee bundle round design fatal price";
+var mnemonic = "three embody maximum jeans analyst flash zoo disagree exotic rail hockey volume";

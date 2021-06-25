@@ -1,1 +1,1 @@
-var mnemonic = "deny galaxy parade else consider venture plate else transfer canvas since belt";
+var mnemonic = "bar prize approve open tool legal nature next bridge reject uncover fence";

@@ -1,1 +1,1 @@
-var mnemonic = "problem remain palace village street decorate harvest spell frown liberty mercy mountain";
+var mnemonic = "cattle say movie disagree beef soldier autumn witness daring rally hood milk";
