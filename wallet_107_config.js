@@ -1,1 +1,1 @@
-var mnemonic = "negative idle bottom leaf found potato need mixed throw open item skate";
+var mnemonic = "flock evoke crack slab robust medal venture brave problem afford scout slide";

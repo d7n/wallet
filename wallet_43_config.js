@@ -1,1 +1,1 @@
-var mnemonic = "warfare festival sibling chase electric real avocado shove away issue seed rent";
+var mnemonic = "test north crew match economy slice uncle segment fragile surround topic distance";

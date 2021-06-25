@@ -1,1 +1,1 @@
-var mnemonic = "weekend shallow other grow inch citizen absorb omit step grocery toward giant";
+var mnemonic = "foam toy athlete north beyond estate wear region bone million title marble";

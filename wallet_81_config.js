@@ -1,1 +1,1 @@
-var mnemonic = "hello claw board coyote damp differ alley one then hill live camp";
+var mnemonic = "fly flash oyster marine shell outside exotic review price repair spike treat";

@@ -1,1 +1,1 @@
-var mnemonic = "day grass zero trust ghost already outside village hurry ticket hold summer";
+var mnemonic = "before test theme bicycle save dolphin inject vague problem timber velvet gas";

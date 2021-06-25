@@ -1,1 +1,1 @@
-var mnemonic = "sock crush garage favorite quote discover private indicate arrange cream lounge found";
+var mnemonic = "poverty foot draw assault shrimp screen source punch keep embody faculty forest";

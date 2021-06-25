@@ -1,1 +1,1 @@
-var mnemonic = "smoke faith surprise industry spin maximum lizard nut tuna cash model later";
+var mnemonic = "sand else bracket wolf fan knock dog second pioneer cushion crystal chaos";

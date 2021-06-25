@@ -1,1 +1,1 @@
-var mnemonic = "globe glare unique dentist ocean maid stomach asset outside bird detail crystal";
+var mnemonic = "about mosquito vehicle index young awkward real address verb ghost hospital polar";

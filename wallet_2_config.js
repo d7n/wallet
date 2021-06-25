@@ -1,1 +1,1 @@
-var mnemonic = "real speed ramp horn coin athlete found client laugh welcome bunker script";
+var mnemonic = "ill mountain prosper rely velvet spice display combine tuna economy unfold scout";

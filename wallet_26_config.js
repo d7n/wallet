@@ -1,1 +1,1 @@
-var mnemonic = "stay dolphin economy ivory steel seven owner rather silk vacuum token access";
+var mnemonic = "onion fiber spin broom puppy atom water rule train original rain check";

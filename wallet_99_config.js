@@ -1,1 +1,1 @@
-var mnemonic = "nose argue drip kit sun tornado lumber awkward stage captain renew notice";
+var mnemonic = "wreck skin master sister bonus echo devote powder border style banner outside";

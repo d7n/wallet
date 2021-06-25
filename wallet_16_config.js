@@ -1,1 +1,1 @@
-var mnemonic = "food coin tape sound total neck field note fancy learn blanket ceiling";
+var mnemonic = "mixed reward young plunge twice inspire ethics gate observe wash mesh swamp";

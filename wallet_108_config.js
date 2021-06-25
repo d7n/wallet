@@ -1,1 +1,1 @@
-var mnemonic = "drift soft dutch hurt page random twenty evoke yellow disorder eager violin";
+var mnemonic = "minute catch when volume breeze rural hungry home sugar credit tourist finger";

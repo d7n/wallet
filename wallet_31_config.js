@@ -1,1 +1,1 @@
-var mnemonic = "hybrid rabbit never leaf horn venture remain alpha liquid brother gap purchase";
+var mnemonic = "slim fog clown health decorate carry bounce glass roast sustain point legend";

@@ -1,1 +1,1 @@
-var mnemonic = "walk slice expire insect word shrimp burden town panther whisper stamp stadium";
+var mnemonic = "fragile believe traffic million soup never rough song once swing off modify";

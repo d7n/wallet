@@ -1,1 +1,1 @@
-var mnemonic = "grit road asset border clinic ticket great shallow intact damp pencil toe";
+var mnemonic = "shiver diesel snake holiday bright acid oil carry april mass survey pelican";

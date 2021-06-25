@@ -1,1 +1,1 @@
-var mnemonic = "ski athlete exile ceiling seminar cabbage tag glance casual oval decide bamboo";
+var mnemonic = "lemon tuna sail awkward list pulse search drum place anchor wet steel";

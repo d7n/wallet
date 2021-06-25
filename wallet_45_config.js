@@ -1,1 +1,1 @@
-var mnemonic = "chef kiwi snake ramp immune inspire reveal release spread again jewel ice";
+var mnemonic = "oval cradle diesel peasant orchard motion employ physical opinion crack beach ignore";

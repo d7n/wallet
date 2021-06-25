@@ -1,1 +1,1 @@
-var mnemonic = "agent balcony shove prison because seed clever olive medal poet grid switch";
+var mnemonic = "raise deposit polar radio snake minor kitchen merge crunch accuse frame remember";

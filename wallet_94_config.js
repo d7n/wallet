@@ -1,1 +1,1 @@
-var mnemonic = "coffee huge access wonder impulse bundle animal crane vendor utility festival tennis";
+var mnemonic = "random language focus crack tilt daughter pact swing gentle object peanut height";

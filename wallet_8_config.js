@@ -1,1 +1,1 @@
-var mnemonic = "gather caution gentle rather arrange swift upon nation dry leg remain north";
+var mnemonic = "vapor coconut try master sibling make fiscal similar web lion cash swarm";

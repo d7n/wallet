@@ -1,1 +1,1 @@
-var mnemonic = "sadness rule apology lava budget license claim victory slam end engine super";
+var mnemonic = "there gun weekend rug emotion custom tornado mandate argue dawn result victory";

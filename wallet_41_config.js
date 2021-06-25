@@ -1,1 +1,1 @@
-var mnemonic = "denial coin settle trash museum piano rice dentist laptop peace crash tired";
+var mnemonic = "immense wasp across throw flavor clock wrist manage bread awkward inform arena";

@@ -1,1 +1,1 @@
-var mnemonic = "outdoor fortune link source damage naive panther license shrimp ivory diary typical";
+var mnemonic = "reform mandate car diet pumpkin nasty end humor fish immense knife marble";

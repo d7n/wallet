@@ -1,1 +1,1 @@
-var mnemonic = "window pull endorse three tree verb average audit relief firm cash endless";
+var mnemonic = "behave update cherry soap session mask cage radar rookie poem ethics magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "submit panda vast inner bachelor silver beauty future cost narrow foil about";
+var mnemonic = "nerve upset maid fame science creek door sense pave quantum cloth antique";

@@ -1,1 +1,1 @@
-var mnemonic = "wink rubber super exchange emotion donate bacon quiz sun rice prize little";
+var mnemonic = "jacket merit youth mirror lucky chuckle firm example stumble ability someone oven";

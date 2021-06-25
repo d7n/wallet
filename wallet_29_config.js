@@ -1,1 +1,1 @@
-var mnemonic = "repair wheel forest combine decide butter sea tennis post collect life sponsor";
+var mnemonic = "seven section any fine drip spy lecture equip beef century below spoon";

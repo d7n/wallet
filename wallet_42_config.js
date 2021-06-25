@@ -1,1 +1,1 @@
-var mnemonic = "hair start material garment chunk polar height aware talk bachelor drop truth";
+var mnemonic = "develop skill knee office spend mesh quit riot secret fever favorite achieve";

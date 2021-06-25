@@ -1,1 +1,1 @@
-var mnemonic = "daughter tide term bar reopen thank trial today harvest tip settle harbor";
+var mnemonic = "finger snack earn favorite latin acid clutch nice lecture festival movie witness";

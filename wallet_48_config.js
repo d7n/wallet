@@ -1,1 +1,1 @@
-var mnemonic = "merge jealous view group middle faith flee consider reform better always snow";
+var mnemonic = "fork pulse mandate matter spin intact pool wheat resemble praise affair vacant";

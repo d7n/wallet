@@ -1,1 +1,1 @@
-var mnemonic = "define soup collect ask wasp sword rescue number slim lake nominee member";
+var mnemonic = "denial child warm ski hurry imitate business shine close ability forward remember";

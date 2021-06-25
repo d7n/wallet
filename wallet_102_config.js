@@ -1,1 +1,1 @@
-var mnemonic = "notable grunt fold woman actress agree frozen valid clutch ignore security bacon";
+var mnemonic = "guide gather clerk home arrow exact clip coffee shaft kiss track junk";

@@ -1,1 +1,1 @@
-var mnemonic = "portion art furnace rail doll assault roast approve brush federal evidence vast";
+var mnemonic = "among focus siege develop usual already bless uncover wool odor spatial rally";

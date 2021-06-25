@@ -1,1 +1,1 @@
-var mnemonic = "patient ribbon flock glare lady stable citizen engage claw toy error pact";
+var mnemonic = "clinic liquid detect welcome expire piece kitten menu spend pony sunset spatial";

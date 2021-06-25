@@ -1,1 +1,1 @@
-var mnemonic = "tilt radar chunk budget cousin elbow chase trumpet series hole stage laugh";
+var mnemonic = "arrange whip arena long erupt cheap since penalty ski stable effort leg";

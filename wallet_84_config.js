@@ -1,1 +1,1 @@
-var mnemonic = "guilt damp box peace blur draw pave honey body pelican ancient word";
+var mnemonic = "little mango crystal eagle flash neglect obscure tuna gain solve long fit";

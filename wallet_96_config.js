@@ -1,1 +1,1 @@
-var mnemonic = "field increase clerk goat silly praise essay anchor stove organ cram viable";
+var mnemonic = "inside envelope alert release student casino start drill wheat another dwarf prevent";

@@ -1,1 +1,1 @@
-var mnemonic = "color melt credit hire betray beef visa man anchor tonight dance clever";
+var mnemonic = "film maximum suspect layer sell confirm run economy cancel master brisk giraffe";

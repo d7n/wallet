@@ -1,1 +1,1 @@
-var mnemonic = "doctor access latin drive green vanish autumn scale sudden wise cable siren";
+var mnemonic = "artist excite prize happy monitor leave moment still staff coconut daring dizzy";

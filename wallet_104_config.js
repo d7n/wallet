@@ -1,1 +1,1 @@
-var mnemonic = "service state noble any lyrics cup loop fatigue tortoise express predict lion";
+var mnemonic = "lava deputy satoshi auction slide honey genuine answer wall risk party rival";

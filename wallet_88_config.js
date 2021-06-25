@@ -1,1 +1,1 @@
-var mnemonic = "hollow beach normal dad race bottom viable enroll holiday forum token subway";
+var mnemonic = "what rural dutch happy author stick mountain drive road woman noise property";

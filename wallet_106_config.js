@@ -1,1 +1,1 @@
-var mnemonic = "mango pupil adult sentence unfold aim island thank honey rapid alarm cupboard";
+var mnemonic = "disease guard manual adjust expire any double drama oblige glance sell february";

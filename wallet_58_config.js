@@ -1,1 +1,1 @@
-var mnemonic = "initial fatal sphere boy twist where random senior vast achieve example left";
+var mnemonic = "such inflict stool pilot core tank twenty purse genius stage slow six";

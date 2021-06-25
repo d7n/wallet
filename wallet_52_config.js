@@ -1,1 +1,1 @@
-var mnemonic = "food dutch treat blood knee chase nerve trend amazing wet explain taste";
+var mnemonic = "bless sound doctor shell novel double version wet beef myth merit chat";

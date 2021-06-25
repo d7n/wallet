@@ -1,1 +1,1 @@
-var mnemonic = "misery weather warm display drop clever next transfer quick essay celery rack";
+var mnemonic = "industry beauty fetch spatial law shed retire ketchup awake enhance apple column";

@@ -1,1 +1,1 @@
-var mnemonic = "school gate stool day punch tuna biology safe cause toward unknown canyon";
+var mnemonic = "never someone window direct employ match indicate library blood minor beyond champion";

@@ -1,1 +1,1 @@
-var mnemonic = "denial west atom fox clerk town aspect lawsuit visa uniform impact forward";
+var mnemonic = "mercy online middle shallow wolf funny spare tube clerk excite axis foot";

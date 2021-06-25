@@ -1,1 +1,1 @@
-var mnemonic = "pact face oyster punch thing faculty rose short sheriff multiply apart disease";
+var mnemonic = "cost ostrich bottom spoil path civil beef honey barely breeze drift split";

@@ -1,1 +1,1 @@
-var mnemonic = "still report six other slim check beach above future bicycle alone visual";
+var mnemonic = "noise isolate limit brisk draft awake load hood rather pilot eagle office";

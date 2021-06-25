@@ -1,1 +1,1 @@
-var mnemonic = "kiss snap lecture satisfy trophy average nominee spray poverty wrestle spatial wrong";
+var mnemonic = "joke disorder medal federal gossip neutral salmon defy bread ring hedgehog category";

@@ -1,1 +1,1 @@
-var mnemonic = "key quantum festival dad current bleak rib roast okay crowd ketchup crystal";
+var mnemonic = "square van furnace maze flock home photo elite spin census celery tilt";

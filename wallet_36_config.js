@@ -1,1 +1,1 @@
-var mnemonic = "whisper stable bargain fitness agent invest proof ill spring release puzzle grid";
+var mnemonic = "midnight toast gadget bag decade auction oak crisp zero pool midnight job";

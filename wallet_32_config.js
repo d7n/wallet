@@ -1,1 +1,1 @@
-var mnemonic = "protect beef farm sausage unaware clap slight sell destroy art elephant harbor";
+var mnemonic = "detect caution primary talent give alone kingdom myself expand over gas anxiety";

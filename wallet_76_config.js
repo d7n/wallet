@@ -1,1 +1,1 @@
-var mnemonic = "castle hobby wrestle spike anchor nominee walnut home inject joy stage tiny";
+var mnemonic = "split exit vessel swim boat physical ramp error online remind process office";

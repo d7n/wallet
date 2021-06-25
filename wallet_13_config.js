@@ -1,1 +1,1 @@
-var mnemonic = "dress detect cute ridge delay much true render siege leader someone plug";
+var mnemonic = "tuition engine social elephant behave base group hair mystery patient entry cash";

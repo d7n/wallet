@@ -1,1 +1,1 @@
-var mnemonic = "lamp offer include industry behave cake upset frame balance slot album result";
+var mnemonic = "test cruise media venue uncle square census inject strong aspect quality reward";

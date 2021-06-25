@@ -1,1 +1,1 @@
-var mnemonic = "clutch advice ritual ranch space present ball there exhaust brand purpose biology";
+var mnemonic = "poet snow discover home render shock solution term orange fantasy situate twenty";

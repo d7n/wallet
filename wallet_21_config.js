@@ -1,1 +1,1 @@
-var mnemonic = "enjoy obtain unable bundle together blame antenna story where quote hero pluck";
+var mnemonic = "admit obvious theme coast depend immense need february bleak choice copper moment";

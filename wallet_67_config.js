@@ -1,1 +1,1 @@
-var mnemonic = "physical win frog together come mountain flag bag move drink excuse devote";
+var mnemonic = "crisp leaf defense fossil leg suffer radar nut area ankle lumber solve";

@@ -1,1 +1,1 @@
-var mnemonic = "two trick chalk tonight timber timber arrow check bread frame anxiety poet";
+var mnemonic = "wrist artwork nuclear drum mammal vintage verify spider recall sunset cause strategy";

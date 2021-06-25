@@ -1,1 +1,1 @@
-var mnemonic = "hover glide case remain awake busy plug symptom link liberty wheel survey";
+var mnemonic = "kangaroo fluid bright indoor canyon fold acquire fun then buzz luxury era";

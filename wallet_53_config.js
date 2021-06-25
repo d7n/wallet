@@ -1,1 +1,1 @@
-var mnemonic = "suit few honey siren quantum knife town hungry dwarf proud blouse dress";
+var mnemonic = "reunion ecology noble excess oblige solution chaos bounce reduce syrup object business";

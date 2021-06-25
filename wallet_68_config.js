@@ -1,1 +1,1 @@
-var mnemonic = "lumber lift lemon benefit dutch again drama pretty salt future sure cloud";
+var mnemonic = "burger session action next meadow adjust upset fantasy nature yellow symbol census";

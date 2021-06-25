@@ -1,1 +1,1 @@
-var mnemonic = "about year almost scrub clarify immune major omit clap monster boat remove";
+var mnemonic = "wall dune suit again couple code motion whale track antenna apology race";

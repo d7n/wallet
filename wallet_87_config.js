@@ -1,1 +1,1 @@
-var mnemonic = "attend gloom knee flavor armor tree advance jeans palm boat iron assault";
+var mnemonic = "party next vote thought frequent lens truly mad meadow unable ill explain";

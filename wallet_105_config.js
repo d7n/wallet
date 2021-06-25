@@ -1,1 +1,1 @@
-var mnemonic = "secret exact that output anxiety guard circle aim jar frame process shift";
+var mnemonic = "fossil you afraid gospel damage beauty blast capital feel dutch lock brush";

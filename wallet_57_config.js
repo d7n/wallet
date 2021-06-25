@@ -1,1 +1,1 @@
-var mnemonic = "govern carbon fruit obtain demise crane around hand shiver someone south modify";
+var mnemonic = "glue carry blossom situate vibrant enlist day love patch angry immense fever";

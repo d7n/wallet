@@ -1,1 +1,1 @@
-var mnemonic = "elbow confirm illness relax plug fever damage swamp almost rain cycle live";
+var mnemonic = "sentence boy silver cloth cream fringe salad square forest funny initial amount";

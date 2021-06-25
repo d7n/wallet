@@ -1,1 +1,1 @@
-var mnemonic = "unhappy injury bright pipe belt cute major goddess embody bronze brick cave";
+var mnemonic = "gossip shoulder history spot believe speak annual lobster magnet desert social title";

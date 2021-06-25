@@ -1,1 +1,1 @@
-var mnemonic = "bounce three curious enemy rescue inherit swear clay survey mass device grunt";
+var mnemonic = "deer scan permit piece rice joy drive riot thunder apology virus side";

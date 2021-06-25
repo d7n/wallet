@@ -1,1 +1,1 @@
-var mnemonic = "glue crush else citizen miss primary almost always unaware supreme view roof";
+var mnemonic = "attack online violin sure furnace recycle blur sport purchase suspect cherry owner";

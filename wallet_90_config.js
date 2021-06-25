@@ -1,1 +1,1 @@
-var mnemonic = "point thumb hurdle filter poem deputy inquiry nasty begin cement muscle rookie";
+var mnemonic = "expose spy tuna shoe pyramid room use dial common tobacco wrist crew";

@@ -1,1 +1,1 @@
-var mnemonic = "design guitar exact century unusual swift trade glove gate gain math try";
+var mnemonic = "clever cart punch river coast human require almost coach become fruit doctor";

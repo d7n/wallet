@@ -1,1 +1,1 @@
-var mnemonic = "below mad patient shallow season coconut scale enter boost young sign stove";
+var mnemonic = "guess enhance globe enlist emerge maximum average find thumb scale arrive season";

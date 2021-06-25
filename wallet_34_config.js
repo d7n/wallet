@@ -1,1 +1,1 @@
-var mnemonic = "nose virtual raise horn suspect remind cushion access museum diary citizen sail";
+var mnemonic = "magic agent kingdom direct buffalo elbow trouble balance whip giant carbon hurt";

@@ -1,1 +1,1 @@
-var mnemonic = "zebra civil inspire praise cheese pact unhappy laugh inject bag rent weapon";
+var mnemonic = "patch afraid fresh little either bean parade holiday wrestle proud sphere soap";

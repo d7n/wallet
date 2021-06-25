@@ -1,1 +1,1 @@
-var mnemonic = "shallow zebra round announce island add marble sand ordinary repair ugly moral";
+var mnemonic = "allow teach purse seed catch vanish oven process engage stay mix fuel";

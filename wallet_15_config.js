@@ -1,1 +1,1 @@
-var mnemonic = "tiger lift corn identify congress divorce sun leader silk hour prosper fortune";
+var mnemonic = "mirror split matrix icon post suit ancient collect cause museum exclude replace";
