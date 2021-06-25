@@ -1,1 +1,1 @@
-var mnemonic = "bulk nose spider grant glory abandon rent seek welcome uphold enact vocal";
+var mnemonic = "another now leopard steak invest valley sugar empower anxiety ability cover industry";

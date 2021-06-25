@@ -1,1 +1,1 @@
-var mnemonic = "venue sea spy toilet sustain wash verb hover elite sunny step rent";
+var mnemonic = "major among vacuum logic inmate crazy fan dignity wild chunk maze cricket";

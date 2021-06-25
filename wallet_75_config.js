@@ -1,1 +1,1 @@
-var mnemonic = "pyramid fence oak office sad above brain empty trophy excess cable diagram";
+var mnemonic = "resemble size crater smart hidden burst fault universe hedgehog online wonder road";

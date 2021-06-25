@@ -1,1 +1,1 @@
-var mnemonic = "worry usage kit depend goddess bachelor dune group cloud radio step sick";
+var mnemonic = "fog wedding vocal diamond silver illness pass off bicycle choice among citizen";

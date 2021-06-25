@@ -1,1 +1,1 @@
-var mnemonic = "coin shock frozen olympic edge spell salute name recycle usual emotion vendor";
+var mnemonic = "kangaroo age cup swear carry enforce hurt stage boat remain quit taste";

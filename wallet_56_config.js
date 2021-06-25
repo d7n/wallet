@@ -1,1 +1,1 @@
-var mnemonic = "sun smart erosion steel knock leader enroll what mushroom security cook jazz";
+var mnemonic = "rent fade stadium clever metal muscle possible labor hamster bulb slight curtain";

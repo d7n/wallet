@@ -1,1 +1,1 @@
-var mnemonic = "oven family field mandate praise oval echo abuse kidney success glue common";
+var mnemonic = "acquire snap liquid midnight action another glimpse truly protect exact sample camp";

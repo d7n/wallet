@@ -1,1 +1,1 @@
-var mnemonic = "blast vague degree spawn tortoise exclude salt imitate citizen taxi unit town";
+var mnemonic = "this heavy crowd couple close radio soccer shaft license inside open bounce";

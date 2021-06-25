@@ -1,1 +1,1 @@
-var mnemonic = "equip gorilla isolate finger broccoli company squirrel federal solar bird scrub fork";
+var mnemonic = "work next opera like heavy obvious pretty enlist syrup dwarf glimpse avocado";

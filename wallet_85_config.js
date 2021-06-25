@@ -1,1 +1,1 @@
-var mnemonic = "cause filter search leader much oil young practice spice aerobic order dinosaur";
+var mnemonic = "secret cage economy wage demand increase miracle twelve change couple stool portion";

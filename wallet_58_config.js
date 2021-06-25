@@ -1,1 +1,1 @@
-var mnemonic = "double trigger pause idea edit spice abuse rich okay income dad crew";
+var mnemonic = "genuine hole plate success good wine arch drive shoot invite word involve";

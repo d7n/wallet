@@ -1,1 +1,1 @@
-var mnemonic = "useful engine file scrub retire drive silk argue receive elegant learn bless";
+var mnemonic = "walk renew elephant develop loop shop winter relax common thought strike slide";

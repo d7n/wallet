@@ -1,1 +1,1 @@
-var mnemonic = "cattle cheap capable train antenna exotic stock adjust upper prepare chalk crazy";
+var mnemonic = "tiny glad explain ship jeans desert hero portion lazy orphan term find";

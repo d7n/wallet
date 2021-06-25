@@ -1,1 +1,1 @@
-var mnemonic = "tragic picture aerobic view basic embody super invest sponsor pill fat endorse";
+var mnemonic = "entry bright chimney damp vessel door minute green claw feed universe alone";

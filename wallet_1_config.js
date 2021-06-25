@@ -1,1 +1,1 @@
-var mnemonic = "merit inject strike where now dice size harvest rug process fabric trumpet";
+var mnemonic = "note assault shy furnace consider eternal loyal climb rather broom uncover supply";

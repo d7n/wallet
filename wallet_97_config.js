@@ -1,1 +1,1 @@
-var mnemonic = "churn enable duck wrap promote soul denial mistake wall panther rotate junk";
+var mnemonic = "memory kitten sea resource screen unusual shy fitness frame measure art acoustic";

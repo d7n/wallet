@@ -1,1 +1,1 @@
-var mnemonic = "truck buzz bachelor photo have sense boring chat reduce husband curious obtain";
+var mnemonic = "demand doll brass kidney pilot middle before web icon correct frown tray";

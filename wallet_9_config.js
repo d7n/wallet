@@ -1,1 +1,1 @@
-var mnemonic = "page unique refuse picture unknown adapt include humor sister nation adjust decrease";
+var mnemonic = "neutral refuse cradle nurse about merit brass peasant lunch mind throw person";

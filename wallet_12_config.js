@@ -1,1 +1,1 @@
-var mnemonic = "gun ripple next timber resist sight suit gospel inflict orphan clown airport";
+var mnemonic = "degree struggle novel universe ahead diagram diamond divide fuel inflict evolve maid";

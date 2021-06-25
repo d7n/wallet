@@ -1,1 +1,1 @@
-var mnemonic = "guess invest acoustic lion canvas quantum purity oxygen imitate memory bracket ramp";
+var mnemonic = "metal layer shrimp artist garlic yard shoe trend shield prosper person undo";

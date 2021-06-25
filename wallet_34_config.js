@@ -1,1 +1,1 @@
-var mnemonic = "invest right bottom universe mixed easily air myself snap olive salmon action";
+var mnemonic = "digital cloth hurt finish acid cruise again dress museum wear slight face";

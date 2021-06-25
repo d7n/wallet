@@ -1,1 +1,1 @@
-var mnemonic = "portion trouble sell orbit dry eye day unusual spot bundle program draw";
+var mnemonic = "worry brass mansion relax mix swing frost sauce regular husband moon hat";

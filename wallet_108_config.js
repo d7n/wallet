@@ -1,1 +1,1 @@
-var mnemonic = "evolve weird hire skate tape merry target romance pigeon furnace misery enter";
+var mnemonic = "pair online grape volcano put curve fresh penalty aerobic pair reject renew";

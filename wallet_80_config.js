@@ -1,1 +1,1 @@
-var mnemonic = "belt squeeze peanut cotton crack tragic search neglect involve table clever someone";
+var mnemonic = "crash nice foot chuckle check roof obvious excite wonder capital desert strategy";

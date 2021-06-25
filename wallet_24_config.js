@@ -1,1 +1,1 @@
-var mnemonic = "kitchen audit lamp ramp brisk dog planet fit carpet useful black wedding";
+var mnemonic = "window exit switch leopard common trouble brisk piano sadness approve frame bread";

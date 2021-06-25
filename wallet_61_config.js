@@ -1,1 +1,1 @@
-var mnemonic = "cheese leaf roof sail company front dream hotel police viable someone rate";
+var mnemonic = "clerk deputy theory tiny message impact dad cram mechanic offer behind kite";

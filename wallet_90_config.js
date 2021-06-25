@@ -1,1 +1,1 @@
-var mnemonic = "giant west hunt fortune autumn ill fashion elegant decade renew transfer almost";
+var mnemonic = "blade laugh price siege fat crowd flee hundred april thing smart chunk";

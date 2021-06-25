@@ -1,1 +1,1 @@
-var mnemonic = "chat street small whisper meat fold visit scan legend badge enough divorce";
+var mnemonic = "dove south inspire bright budget way patrol such roast lounge bottom false";

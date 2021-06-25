@@ -1,1 +1,1 @@
-var mnemonic = "armor song hurry jacket metal minimum disorder bitter fetch shove matrix forum";
+var mnemonic = "bargain silly trick monitor toy retreat half shoe point path clarify rhythm";

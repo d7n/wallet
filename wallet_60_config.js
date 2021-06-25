@@ -1,1 +1,1 @@
-var mnemonic = "model shop bread wave pond put indicate cheese sniff grit saddle gate";
+var mnemonic = "lecture slush garage ski response deer weather pig old ice cargo kind";

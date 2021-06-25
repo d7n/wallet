@@ -1,1 +1,1 @@
-var mnemonic = "south jump fuel endless angry person body token inherit maze border arch";
+var mnemonic = "include draft dash ski involve glance unfold choice behave miss road around";

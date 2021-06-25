@@ -1,1 +1,1 @@
-var mnemonic = "tell sea begin depend dash foster cause century indoor zero gossip bless";
+var mnemonic = "advance barely rival response oxygen range outer nasty clip ecology venue appear";

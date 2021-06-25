@@ -1,1 +1,1 @@
-var mnemonic = "ginger word explain organ normal pear like raise waste enrich snake laptop";
+var mnemonic = "model include duty skin blue foam claim learn fall strike rib flight";

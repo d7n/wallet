@@ -1,1 +1,1 @@
-var mnemonic = "position crime notable memory theory pitch network impose addict input coin ocean";
+var mnemonic = "roof country apple sketch slide glad another soccer flat become hill accuse";

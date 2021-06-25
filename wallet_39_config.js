@@ -1,1 +1,1 @@
-var mnemonic = "birth envelope champion aspect owner maid upgrade crunch music swear female robust";
+var mnemonic = "pioneer relax judge smooth crew crater devote travel dad crew tenant release";

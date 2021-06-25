@@ -1,1 +1,1 @@
-var mnemonic = "phone flush used february frozen black copy drill next fame firm panther";
+var mnemonic = "item canal clock drip drastic void tourist hello measure fault strike carbon";

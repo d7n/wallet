@@ -1,1 +1,1 @@
-var mnemonic = "cotton people bar twenty tonight oil secret bus couch uncle refuse burst";
+var mnemonic = "off grid goose dog purse warm castle orphan start also phrase canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "desk person bunker tenant leader vapor repeat pact laugh refuse disease adapt";
+var mnemonic = "fire pave buffalo charge gym mass usual talk rescue will ozone orbit";

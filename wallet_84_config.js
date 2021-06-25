@@ -1,1 +1,1 @@
-var mnemonic = "insane stick able idle relax wall state rent will cook essence outside";
+var mnemonic = "river version coil wood utility float leisure churn escape exhibit meadow cool";

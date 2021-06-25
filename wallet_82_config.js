@@ -1,1 +1,1 @@
-var mnemonic = "slide honey delay wise nuclear measure enter bubble avocado curtain stumble whip";
+var mnemonic = "mixed puppy menu embrace friend fluid dune deliver village rally chronic pull";

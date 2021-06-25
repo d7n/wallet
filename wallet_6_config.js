@@ -1,1 +1,1 @@
-var mnemonic = "employ debris length diary velvet orient jazz faculty above need tomato barely";
+var mnemonic = "whip network front panel build infant bone say love often risk close";

@@ -1,1 +1,1 @@
-var mnemonic = "purse marriage rib recall antique poem still plug gasp hen high spot";
+var mnemonic = "risk collect fatal medal reject onion real raise nation february shrug dizzy";

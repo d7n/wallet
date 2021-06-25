@@ -1,1 +1,1 @@
-var mnemonic = "remain trade radar good vintage noise track inject slush autumn future dignity";
+var mnemonic = "palace fly punch dignity merit enter alter pledge sand detect either salon";

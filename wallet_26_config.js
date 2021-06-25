@@ -1,1 +1,1 @@
-var mnemonic = "retreat chase resist enter hill stock budget during female sponsor slide resemble";
+var mnemonic = "grant unique sort shine labor act hamster forest kit chapter fame sample";

@@ -1,1 +1,1 @@
-var mnemonic = "enforce pill innocent you aspect rifle crucial wet crime pave enter distance";
+var mnemonic = "garage elder travel climb chief dirt jealous gadget clap term weird chaos";

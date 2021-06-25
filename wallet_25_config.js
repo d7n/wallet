@@ -1,1 +1,1 @@
-var mnemonic = "grape dust dynamic usual vapor view network wedding depart disagree laptop ethics";
+var mnemonic = "hunt seek design bracket element trophy until hollow decline alter faculty include";

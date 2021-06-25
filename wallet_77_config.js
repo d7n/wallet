@@ -1,1 +1,1 @@
-var mnemonic = "shield gate video cool plate pony castle only maid sorry crunch decrease";
+var mnemonic = "door require end identify blame wing like possible entry normal word flee";

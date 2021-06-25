@@ -1,1 +1,1 @@
-var mnemonic = "faint claim repeat myself stock jungle visual wish wear meadow loan twelve";
+var mnemonic = "glow attend short road odor purpose outer asset bread believe hard sea";

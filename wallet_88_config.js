@@ -1,1 +1,1 @@
-var mnemonic = "amazing labor awkward noise venture camp happy help blast winner brief apart";
+var mnemonic = "advance life castle coin skull voyage race surround mass quarter survey oxygen";

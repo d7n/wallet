@@ -1,1 +1,1 @@
-var mnemonic = "pipe party tag blind shrimp squirrel again news police educate scene once";
+var mnemonic = "subject noble shoulder this mountain term hub mind dial mushroom search barely";

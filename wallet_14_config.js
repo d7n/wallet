@@ -1,1 +1,1 @@
-var mnemonic = "leopard heart riot flight route swarm barely sure same shy inherit enforce";
+var mnemonic = "curve hybrid october bread kidney live uncover yard normal job real only";

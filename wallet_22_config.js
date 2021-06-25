@@ -1,1 +1,1 @@
-var mnemonic = "hat quit solution call upper assault dignity million degree exhibit next nature";
+var mnemonic = "matter job medal feel buddy major gravity make assault divorce zero glue";

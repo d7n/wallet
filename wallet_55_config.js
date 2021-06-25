@@ -1,1 +1,1 @@
-var mnemonic = "mercy zoo harbor cotton nuclear cry fold believe eight afford nerve reopen";
+var mnemonic = "volume bundle that another veteran parrot dentist crop digital reopen ketchup stick";

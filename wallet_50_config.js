@@ -1,1 +1,1 @@
-var mnemonic = "practice ancient such couch title conduct undo confirm junk concert culture system";
+var mnemonic = "hood nurse humor perfect hurdle destroy exile artwork glide connect save royal";

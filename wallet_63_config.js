@@ -1,1 +1,1 @@
-var mnemonic = "olive govern globe flee legal choice clap filter humble favorite sense flash";
+var mnemonic = "blanket pig noodle draft decade month interest best relief match wise protect";

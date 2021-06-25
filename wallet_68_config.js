@@ -1,1 +1,1 @@
-var mnemonic = "vehicle tower sort mutual exit smart palace street embody text also afraid";
+var mnemonic = "urban blanket accuse blade example vintage cash what sauce expect off action";

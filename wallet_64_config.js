@@ -1,1 +1,1 @@
-var mnemonic = "ask waste spike meadow imitate sugar lonely purchase soda sick glove toast";
+var mnemonic = "payment write sick leader keen cross coil wage flame end acquire bus";

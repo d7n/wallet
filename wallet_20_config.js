@@ -1,1 +1,1 @@
-var mnemonic = "oil worth twenty flash birth direct happy pledge piece tragic jaguar damp";
+var mnemonic = "tool desert board garlic frog filter hammer absent broom another grunt airport";

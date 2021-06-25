@@ -1,1 +1,1 @@
-var mnemonic = "minimum gravity satoshi gentle degree harbor dizzy wagon cool into jar pupil";
+var mnemonic = "cricket title beyond hello undo void magic various flee accuse feature result";

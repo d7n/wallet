@@ -1,1 +1,1 @@
-var mnemonic = "limit cancel guilt effort sphere budget genre acid system bargain pupil answer";
+var mnemonic = "mechanic approve congress movie blossom comic return design crisp adapt symbol april";

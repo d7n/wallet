@@ -1,1 +1,1 @@
-var mnemonic = "hazard month curious trash announce orchard resource prevent check elephant cricket federal";
+var mnemonic = "position taste brain obvious truck lucky major ignore range code borrow deputy";

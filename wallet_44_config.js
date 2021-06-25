@@ -1,1 +1,1 @@
-var mnemonic = "pencil rocket mix broccoli cabbage tomorrow angry silly grab bounce hotel scrub";
+var mnemonic = "catch same vendor dragon jazz action magic quiz father humor useful city";

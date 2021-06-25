@@ -1,1 +1,1 @@
-var mnemonic = "rely flee cousin reopen wink charge blossom rose moral cactus essence blast";
+var mnemonic = "cabin brown brain dwarf thing among term rebuild auto income ridge spray";

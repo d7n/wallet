@@ -1,1 +1,1 @@
-var mnemonic = "manage relief search uncle trophy clock agree random poverty modify lawn manage";
+var mnemonic = "shaft nose candy champion busy region faith company alone soft review admit";

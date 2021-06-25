@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin talk practice rain soup table lift town eagle increase work topple";
+var mnemonic = "vehicle price poverty december board fly ridge puppy hero size banana document";

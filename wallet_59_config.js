@@ -1,1 +1,1 @@
-var mnemonic = "napkin zone divert master cement virtual myth identify cave more laptop aerobic";
+var mnemonic = "kitten coffee response shine vibrant race later news resource border curve perfect";

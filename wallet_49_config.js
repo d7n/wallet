@@ -1,1 +1,1 @@
-var mnemonic = "alert crack mercy perfect blanket sell capable record ostrich little craft expire";
+var mnemonic = "cheap country silk imitate program trouble mammal boy ghost prevent jaguar cute";

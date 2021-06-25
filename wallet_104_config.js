@@ -1,1 +1,1 @@
-var mnemonic = "pluck choice business fit maximum engage achieve disease flavor enough bachelor essence";
+var mnemonic = "spread only confirm wise puzzle stuff piece clarify dose actual task marine";

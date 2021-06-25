@@ -1,1 +1,1 @@
-var mnemonic = "melt flock critic ship settle need obscure enable enforce second punch during";
+var mnemonic = "another trouble one pattern poem clown wool output bicycle size obvious core";

@@ -1,1 +1,1 @@
-var mnemonic = "bottom seed consider disagree glove captain race slam misery nephew enrich giraffe";
+var mnemonic = "taxi fluid barrel submit wheat scatter oyster raccoon oak sting first miss";

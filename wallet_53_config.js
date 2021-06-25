@@ -1,1 +1,1 @@
-var mnemonic = "plug lemon rotate basket brass behave jeans unknown quarter thing round advice";
+var mnemonic = "sun moral liquid orbit foster clog borrow deputy jealous tide long flip";

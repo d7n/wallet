@@ -1,1 +1,1 @@
-var mnemonic = "other clutch later odor leaf custom bundle law tree vote off lava";
+var mnemonic = "soon lazy blur deny right reward negative science wine evidence ship slogan";

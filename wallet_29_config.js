@@ -1,1 +1,1 @@
-var mnemonic = "desk arrow quit crane chalk three spring wet repair soul cause spot";
+var mnemonic = "rival boring nice govern grab fiscal modify answer addict exit immense outer";

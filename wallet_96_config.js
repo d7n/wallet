@@ -1,1 +1,1 @@
-var mnemonic = "effort crew scissors beach face jealous club shoe oval quick lens report";
+var mnemonic = "blanket park borrow stumble truck between horse guard minute find soup sugar";

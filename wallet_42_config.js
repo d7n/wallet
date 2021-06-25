@@ -1,1 +1,1 @@
-var mnemonic = "exchange carpet dwarf unable invest mosquito add more all letter brisk food";
+var mnemonic = "movie update school shock day change fatal foam invest one auction square";

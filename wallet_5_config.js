@@ -1,1 +1,1 @@
-var mnemonic = "crop clown huge device account asset analyst pet add clerk balance prosper";
+var mnemonic = "begin width town empower layer hockey blouse olympic sketch expire next baby";

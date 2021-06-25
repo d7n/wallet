@@ -1,1 +1,1 @@
-var mnemonic = "illegal glue harvest lunch race flush chef lemon because concert host guilt";
+var mnemonic = "garment right flame hungry height alcohol umbrella danger pottery vote crowd broom";

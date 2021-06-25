@@ -1,1 +1,1 @@
-var mnemonic = "again verify drama switch differ alter violin meadow extend diamond donkey vivid";
+var mnemonic = "item property jar screen side lazy glance position farm silent save fetch";

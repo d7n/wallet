@@ -1,1 +1,1 @@
-var mnemonic = "trumpet dream pudding kidney ceiling salmon marriage timber border accuse huge crack";
+var mnemonic = "tree toast time wall staff ramp demise wall unaware steak liberty rack";

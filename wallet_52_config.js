@@ -1,1 +1,1 @@
-var mnemonic = "extra brave palm industry concert route universe labor repair shop urge already";
+var mnemonic = "shed glide master owner attack wear annual brick town engine genuine flock";

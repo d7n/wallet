@@ -1,1 +1,1 @@
-var mnemonic = "good repair stick tag anxiety pill object avoid retire range small curious";
+var mnemonic = "sustain dwarf rival soap bright insect misery snow spell cradle omit lizard";

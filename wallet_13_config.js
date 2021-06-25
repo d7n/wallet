@@ -1,1 +1,1 @@
-var mnemonic = "seek border teach dragon skate useless wine pepper merit coconut budget glare";
+var mnemonic = "fame metal medal hammer proud keen trial blouse possible picnic route flat";

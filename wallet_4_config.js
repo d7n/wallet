@@ -1,1 +1,1 @@
-var mnemonic = "best end laptop switch foot genius theme ignore stove useless caution glory";
+var mnemonic = "actress hard cheap wage recipe fetch umbrella book filter eternal indicate language";

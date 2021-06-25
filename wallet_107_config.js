@@ -1,1 +1,1 @@
-var mnemonic = "jar employ height dentist tent excess similar butter grape employ vicious option";
+var mnemonic = "glare sail burger replace shield resemble dizzy aim coach hedgehog trap essay";

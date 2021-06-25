@@ -1,1 +1,1 @@
-var mnemonic = "mesh flat trigger tornado leg scout duck taxi learn select judge police";
+var mnemonic = "kit trial false absurd also suit clinic license between clean below grain";

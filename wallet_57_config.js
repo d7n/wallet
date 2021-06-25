@@ -1,1 +1,1 @@
-var mnemonic = "among brief someone infant lucky brief boost angry exhibit during traffic fever";
+var mnemonic = "ginger uphold wagon scale because grunt expose puzzle express cake apart hospital";

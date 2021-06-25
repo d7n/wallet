@@ -1,1 +1,1 @@
-var mnemonic = "speak pulp exchange blood asthma talk guitar stem abstract party shy pause";
+var mnemonic = "core jealous primary tattoo tide jaguar call dust dolphin slam antenna learn";

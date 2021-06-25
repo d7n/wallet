@@ -1,1 +1,1 @@
-var mnemonic = "bundle despair alley win width asset earn prison loop lawn group shock";
+var mnemonic = "entire cabbage throw swamp slice smooth escape sponsor measure pepper brass under";
