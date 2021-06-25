@@ -1,1 +1,1 @@
-var mnemonic = "bulb aware fragile ignore success silver average advance hurry culture essay extend";
+var mnemonic = "supreme subject disorder ability clip connect marriage job yard original divorce arctic";

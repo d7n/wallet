@@ -1,1 +1,1 @@
-var mnemonic = "insane kidney smart earth mammal still firm scissors together mail entire inner";
+var mnemonic = "number swallow phone zone flight record flip hard like unveil old dirt";

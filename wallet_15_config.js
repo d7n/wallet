@@ -1,1 +1,1 @@
-var mnemonic = "breeze strong second wage garbage library unfold own orbit put cloth rely";
+var mnemonic = "horn trap stuff fashion call trouble drink glide dinosaur toddler ready gospel";

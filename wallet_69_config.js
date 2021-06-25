@@ -1,1 +1,1 @@
-var mnemonic = "occur pause spike group biology upper alone inch fish orchard ancient maximum";
+var mnemonic = "simple dice valve embody empower suggest enact prevent advance asthma embody machine";

@@ -1,1 +1,1 @@
-var mnemonic = "admit betray avocado tone ladder apple diamond asset slim merit satoshi mercy";
+var mnemonic = "culture name science book slide fashion split dish absorb group city motion";

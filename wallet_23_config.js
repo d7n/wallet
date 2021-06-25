@@ -1,1 +1,1 @@
-var mnemonic = "year citizen crack exile hybrid ribbon deal awake marine sting million hen";
+var mnemonic = "gallery garment horror amused swift afraid step floor toss voice ask crucial";

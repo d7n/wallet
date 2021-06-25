@@ -1,1 +1,1 @@
-var mnemonic = "oppose field service allow luggage they fury dose envelope menu uphold tide";
+var mnemonic = "fluid result trick normal code eager physical squirrel insect crunch patch hollow";

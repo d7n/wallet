@@ -1,1 +1,1 @@
-var mnemonic = "water remain ranch depth caught material grain nurse high lucky pole vault";
+var mnemonic = "wheat student pride bachelor rapid bomb resist panic ability post brush exercise";

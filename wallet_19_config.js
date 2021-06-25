@@ -1,1 +1,1 @@
-var mnemonic = "wrist labor palm damage oval domain help actual youth theory copy aerobic";
+var mnemonic = "canvas wild setup autumn taste aspect multiply tray unveil inside fitness nest";

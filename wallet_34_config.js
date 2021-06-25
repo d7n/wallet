@@ -1,1 +1,1 @@
-var mnemonic = "leg chief chapter random toward similar refuse acid genius girl permit turn";
+var mnemonic = "black gate dune upper hole fashion aerobic extend subway cricket victory illness";

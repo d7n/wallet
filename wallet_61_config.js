@@ -1,1 +1,1 @@
-var mnemonic = "bunker tone nice rescue monitor clay okay favorite rescue narrow bean balcony";
+var mnemonic = "ranch one invite enable peanut scorpion chaos beauty zebra start casino fitness";

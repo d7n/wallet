@@ -1,1 +1,1 @@
-var mnemonic = "ahead zero cousin iron breeze model render quarter blood situate frown kit";
+var mnemonic = "cluster inhale now woman more output filter stem essence scale parrot member";

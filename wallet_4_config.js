@@ -1,1 +1,1 @@
-var mnemonic = "grain area scare manage usage same total beyond recipe chest sound process";
+var mnemonic = "fish oak couch fashion tackle craft hover scheme crime picture liar announce";

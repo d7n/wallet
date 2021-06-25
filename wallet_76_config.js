@@ -1,1 +1,1 @@
-var mnemonic = "solar scheme cable uncle rice coil situate rare under margin develop treat";
+var mnemonic = "decrease repeat gorilla spirit rail piece play until simple exhaust huge rabbit";

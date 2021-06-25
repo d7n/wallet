@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo asthma pass warfare oval joke analyst spoon field topic injury clutch";
+var mnemonic = "mobile author still distance inform blade mango virus enable simple must bless";

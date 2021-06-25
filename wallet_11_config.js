@@ -1,1 +1,1 @@
-var mnemonic = "border tomato similar judge weasel region certain like rent spike index cargo";
+var mnemonic = "gate choose lock despair grab spray aspect predict wheel steak maze trick";

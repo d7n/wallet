@@ -1,1 +1,1 @@
-var mnemonic = "shadow museum dynamic matrix index song basic novel wear skin keen couch";
+var mnemonic = "rain pizza calm peasant method drill wait gather thumb street album divert";

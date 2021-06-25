@@ -1,1 +1,1 @@
-var mnemonic = "silly snack catch follow chaos ready drop sell river used beyond exit";
+var mnemonic = "lesson real bounce simple other fold marine chimney disorder lend huge cliff";

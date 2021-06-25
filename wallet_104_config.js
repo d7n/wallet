@@ -1,1 +1,1 @@
-var mnemonic = "verb title slender differ train rare sell orchard fee nation marriage tortoise";
+var mnemonic = "shield expose history oyster say monster tunnel shaft phrase clown able nerve";

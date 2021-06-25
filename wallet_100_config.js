@@ -1,1 +1,1 @@
-var mnemonic = "box health such deputy fit false merit final artist predict crazy private";
+var mnemonic = "choice trim lock decide dinosaur answer another sudden cabbage bench nose error";

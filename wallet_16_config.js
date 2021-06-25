@@ -1,1 +1,1 @@
-var mnemonic = "scrub need universe series nut shield culture visa clown replace weasel ketchup";
+var mnemonic = "glare short cram west unfair decide cabin warm swarm habit eternal frown";

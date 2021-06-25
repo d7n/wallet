@@ -1,1 +1,1 @@
-var mnemonic = "humor special umbrella again reduce donkey south nature welcome virus rival buyer";
+var mnemonic = "problem frog thing weapon cousin coil hunt win pottery clown tennis harsh";

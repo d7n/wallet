@@ -1,1 +1,1 @@
-var mnemonic = "under sweet razor armor talent usual attend wear clean quantum eye chunk";
+var mnemonic = "female canvas buffalo raw swallow grace marble cliff wolf cruise private guitar";

@@ -1,1 +1,1 @@
-var mnemonic = "nothing crane vintage predict survey object culture length burger cute wear bar";
+var mnemonic = "resist opera average tide cancel assault east alien crisp lunar couch sound";

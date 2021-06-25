@@ -1,1 +1,1 @@
-var mnemonic = "thing genuine deny noodle best naive credit marriage seed update six half";
+var mnemonic = "initial barrel crew notice prepare diagram cute effort volume rubber oven seed";

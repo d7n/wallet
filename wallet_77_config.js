@@ -1,1 +1,1 @@
-var mnemonic = "birth sport final portion below maple sand cousin impulse pledge autumn ignore";
+var mnemonic = "attract dune someone catalog draw indicate minor rifle column grocery dentist guard";

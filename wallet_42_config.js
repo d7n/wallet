@@ -1,1 +1,1 @@
-var mnemonic = "pony cloth birth dizzy when love minute pistol turkey usual excite more";
+var mnemonic = "crowd cup install mirror bar seat risk noble address host you clap";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk ethics need scatter young enhance wish air grocery couple bulb fault";
+var mnemonic = "tribe under empower visual offer start differ crisp hood limb core alcohol";

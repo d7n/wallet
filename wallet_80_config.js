@@ -1,1 +1,1 @@
-var mnemonic = "agent quality include patient garage model venue differ object basket like alien";
+var mnemonic = "calm doll myself elegant primary soldier conduct coconut regular glide ability metal";

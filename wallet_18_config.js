@@ -1,1 +1,1 @@
-var mnemonic = "welcome interest amazing letter tourist wrist effort put payment about banana faith";
+var mnemonic = "divide judge motor thank leg spawn cruise road skill clump local eternal";

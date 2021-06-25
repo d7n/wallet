@@ -1,1 +1,1 @@
-var mnemonic = "drop nasty member sand hobby uniform helmet crop myself flavor shoulder type";
+var mnemonic = "flag increase expire grant punch trumpet city retire pyramid ready illness life";

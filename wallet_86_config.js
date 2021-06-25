@@ -1,1 +1,1 @@
-var mnemonic = "frozen butter fossil harsh obscure season shaft mango cost mind bid bronze";
+var mnemonic = "twin daughter insane bone mix buddy clap slide typical cliff update evil";

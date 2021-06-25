@@ -1,1 +1,1 @@
-var mnemonic = "advice program float change unlock inspire imitate deposit boss space brown left";
+var mnemonic = "prison whip force combine shrimp tent hard apology oven dolphin arctic van";

@@ -1,1 +1,1 @@
-var mnemonic = "sell clarify wrap easily child father female marine resemble avoid domain eternal";
+var mnemonic = "actor few actor siren price claim strategy argue float rocket palace wise";

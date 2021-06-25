@@ -1,1 +1,1 @@
-var mnemonic = "great initial matter rare airport mechanic urban mind inflict knife strategy velvet";
+var mnemonic = "bubble beef blue grocery actor pond slush motor river put voice artefact";

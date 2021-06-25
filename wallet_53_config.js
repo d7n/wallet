@@ -1,1 +1,1 @@
-var mnemonic = "material shoe nothing fault enjoy own vague volume flock practice cliff girl";
+var mnemonic = "theory addict unaware evil weasel hammer list bus kiss present trick mind";

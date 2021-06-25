@@ -1,1 +1,1 @@
-var mnemonic = "cigar used asset warfare whip miracle main addict enhance soda help divide";
+var mnemonic = "hour still hollow deny shy struggle return toward anger region purity admit";

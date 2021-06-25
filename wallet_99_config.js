@@ -1,1 +1,1 @@
-var mnemonic = "various battle length film rice balcony cricket suffer destroy vehicle remain soon";
+var mnemonic = "warrior lift protect exist athlete client cruel fatigue simple volcano few book";

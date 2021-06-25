@@ -1,1 +1,1 @@
-var mnemonic = "follow horn zoo stamp pilot lecture enact poverty earth sorry letter crystal";
+var mnemonic = "orange swallow essay clerk tilt now decrease slim orphan phone like cushion";

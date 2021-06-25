@@ -1,1 +1,1 @@
-var mnemonic = "middle divorce various nothing clutch subject cement tuition define protect perfect ceiling";
+var mnemonic = "sign wheat world session damp ahead crucial liberty flush jazz wall describe";

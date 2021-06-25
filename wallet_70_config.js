@@ -1,1 +1,1 @@
-var mnemonic = "confirm solid bachelor rally diesel solar envelope cup asthma ticket master impulse";
+var mnemonic = "pig cage near lift fan frame fancy plastic key trade comic squirrel";

@@ -1,1 +1,1 @@
-var mnemonic = "across lyrics enough wire dynamic scrap throw click weather provide mail super";
+var mnemonic = "cram guard cry auto helmet river squirrel case relief emerge romance evidence";

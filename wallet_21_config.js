@@ -1,1 +1,1 @@
-var mnemonic = "garbage grant whale custom replace basic acoustic bonus author weasel buzz miss";
+var mnemonic = "tree arrow tenant kitchen differ bubble topple early permit elder accident option";

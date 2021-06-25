@@ -1,1 +1,1 @@
-var mnemonic = "joy volume zero track code comfort dynamic true provide monkey equal gate";
+var mnemonic = "choice matter speed frozen this trash sea jungle choice venture unfair wear";

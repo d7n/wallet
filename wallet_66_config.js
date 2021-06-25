@@ -1,1 +1,1 @@
-var mnemonic = "guitar dilemma perfect list fish bicycle happy fit brush erase laundry reward";
+var mnemonic = "hen dutch teach concert lunch pride rapid sting unit insane confirm neglect";

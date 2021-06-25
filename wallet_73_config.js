@@ -1,1 +1,1 @@
-var mnemonic = "solve carry day globe middle few tourist minute foot culture page pioneer";
+var mnemonic = "mouse exhaust arena also noise actress flush episode lift mobile screen man";

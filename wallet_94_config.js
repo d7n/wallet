@@ -1,1 +1,1 @@
-var mnemonic = "film badge siren select lunch cake hungry sting mushroom trophy inspire team";
+var mnemonic = "globe cruise sudden that file phone borrow balcony onion recall robust proud";

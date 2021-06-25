@@ -1,1 +1,1 @@
-var mnemonic = "liar aspect crater farm sorry primary prison crime pulp drink snack neutral";
+var mnemonic = "slide process amateur pear inquiry pyramid start plastic sudden test aware endless";

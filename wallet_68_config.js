@@ -1,1 +1,1 @@
-var mnemonic = "letter detect muscle deal faculty stand plug quiz valve buffalo album double";
+var mnemonic = "sting decide teach glue prepare negative aspect fragile below shift ice chef";

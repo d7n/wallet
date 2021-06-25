@@ -1,1 +1,1 @@
-var mnemonic = "regret zone noodle river defense color cinnamon plunge scout have grow stock";
+var mnemonic = "certain gesture nephew work antique mechanic army token brain broom people live";

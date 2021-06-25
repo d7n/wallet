@@ -1,1 +1,1 @@
-var mnemonic = "mushroom improve unfair consider annual barely cycle art road column blur normal";
+var mnemonic = "salad seminar push split gossip yellow manual achieve friend solve shrimp couple";

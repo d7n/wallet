@@ -1,1 +1,1 @@
-var mnemonic = "glory sunset utility chunk fire cruise uphold earth whisper maid lamp emerge";
+var mnemonic = "puppy mouse brief nasty search thought thing upon ride venue absorb culture";

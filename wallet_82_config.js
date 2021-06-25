@@ -1,1 +1,1 @@
-var mnemonic = "corn ozone merry figure now negative limb crush arrange win bubble dirt";
+var mnemonic = "shield bless summer engine combine tumble frozen city three slice kid maple";

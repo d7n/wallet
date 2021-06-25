@@ -1,1 +1,1 @@
-var mnemonic = "token bounce term grass fitness sock village raw drill mercy toast pool";
+var mnemonic = "round inner gate kangaroo earn antenna upper shed minute solve foil carry";

@@ -1,1 +1,1 @@
-var mnemonic = "siren arm honey hold uncle pottery lyrics ten announce venture great flight";
+var mnemonic = "tornado slam harsh soft pear drip grape lab hazard clutch panic gravity";

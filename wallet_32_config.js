@@ -1,1 +1,1 @@
-var mnemonic = "naive congress advance hole hour honey cup danger brain never chair company";
+var mnemonic = "soul know ribbon opera youth mouse muscle punch physical tenant still choice";

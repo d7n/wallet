@@ -1,1 +1,1 @@
-var mnemonic = "injury ignore true aware want loud ghost boat weapon cheese tape moment";
+var mnemonic = "pride castle lumber time gloom wisdom illness buyer happy pass power loud";

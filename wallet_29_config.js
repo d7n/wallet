@@ -1,1 +1,1 @@
-var mnemonic = "stumble position stumble sister debris solution warrior equal tilt stumble vapor carry";
+var mnemonic = "safe catch consider quiz quarter century chair timber check front earn pet";

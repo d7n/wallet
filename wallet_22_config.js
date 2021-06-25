@@ -1,1 +1,1 @@
-var mnemonic = "knock letter situate proud doctor ethics honey fiber town south mask three";
+var mnemonic = "repair gain arrive crater gadget target update apple tray torch fly april";

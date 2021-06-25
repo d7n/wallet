@@ -1,1 +1,1 @@
-var mnemonic = "poverty sick cement wreck chapter act fun best top rigid fun alien";
+var mnemonic = "truth bullet lava enemy obey shuffle physical awesome romance when cave lawn";

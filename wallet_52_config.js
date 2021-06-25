@@ -1,1 +1,1 @@
-var mnemonic = "crack apology acid sick duck audit crowd find fox blast defense faith";
+var mnemonic = "satisfy define cupboard energy health fold thought trust conduct consider spin suffer";

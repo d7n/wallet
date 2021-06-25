@@ -1,1 +1,1 @@
-var mnemonic = "argue leisure weekend region okay mechanic tennis control chicken game caught boy";
+var mnemonic = "arrest guilt cool chunk symbol enact clean legend reflect meat elite shock";

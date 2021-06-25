@@ -1,1 +1,1 @@
-var mnemonic = "decline roast wrestle spray sponsor holiday thing order rent true rose salad";
+var mnemonic = "myself cabbage glow educate acid glance mango relief high unable strategy gloom";

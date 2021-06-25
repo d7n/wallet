@@ -1,1 +1,1 @@
-var mnemonic = "oxygen brain blast cradle decade ancient lunar hill upon novel slender egg";
+var mnemonic = "tide welcome decorate pudding pull enable cruel meat elevator spot clinic enhance";

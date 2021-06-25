@@ -1,1 +1,1 @@
-var mnemonic = "swim claw little draft color inform giggle valley coin rib hip oyster";
+var mnemonic = "learn treat inhale sponsor penalty typical canvas law legend scatter possible six";

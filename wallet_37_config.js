@@ -1,1 +1,1 @@
-var mnemonic = "sell field doctor radar impose jewel multiply stand net guess wool twenty";
+var mnemonic = "advice raw magnet crowd february doctor this young other sting leaf sniff";

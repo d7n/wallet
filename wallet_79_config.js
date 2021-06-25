@@ -1,1 +1,1 @@
-var mnemonic = "tooth leaf maid sustain reject mouse junior flush fortune logic dirt diagram";
+var mnemonic = "angle pact angry collect bronze dune comic extra cram there window rent";

@@ -1,1 +1,1 @@
-var mnemonic = "deal address gesture neglect artwork father magnet fossil close frown armor deposit";
+var mnemonic = "person power option monitor tide bulk spare visa ski visa alpha more";

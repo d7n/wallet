@@ -1,1 +1,1 @@
-var mnemonic = "enroll clock skate fault depart season start enroll pitch injury better siege";
+var mnemonic = "friend glue valid switch aunt fix broom perfect steak early asset save";

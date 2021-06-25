@@ -1,1 +1,1 @@
-var mnemonic = "language plastic trend web filter differ return escape stay truth they detect";
+var mnemonic = "hood devote tumble arrange spirit casual major water patch try time human";

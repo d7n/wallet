@@ -1,1 +1,1 @@
-var mnemonic = "small cabin arrest person mechanic afford visa fly maximum supreme fiber riot";
+var mnemonic = "public debate example term then glory shallow region decide magic core grocery";

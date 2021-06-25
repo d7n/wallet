@@ -1,1 +1,1 @@
-var mnemonic = "decrease engine cement awesome level chalk play subway truck october today output";
+var mnemonic = "access jeans adjust resist expose pencil foil faint limb biology start roast";

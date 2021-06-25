@@ -1,1 +1,1 @@
-var mnemonic = "near diet rotate island transfer kite violin route garment prison wave give";
+var mnemonic = "fog table few business style wrap protect reward arm purchase oak stuff";

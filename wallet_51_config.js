@@ -1,1 +1,1 @@
-var mnemonic = "evolve reunion gain drive measure erase federal spin catalog air fault harsh";
+var mnemonic = "plastic agent worth artist tornado spring subway crazy into exile cable defy";

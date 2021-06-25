@@ -1,1 +1,1 @@
-var mnemonic = "frog enhance motion ordinary program obtain guide elite that wait fork gaze";
+var mnemonic = "aim birth mercy mass child melody retire better sight velvet wink alter";

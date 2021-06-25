@@ -1,1 +1,1 @@
-var mnemonic = "tag follow safe source move cycle razor bring exile car immune stool";
+var mnemonic = "atom planet cloud glow staff tortoise predict current sauce lion bunker sketch";

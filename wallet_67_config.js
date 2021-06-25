@@ -1,1 +1,1 @@
-var mnemonic = "huge loyal rude rifle gasp trigger horn pig reform van news wet";
+var mnemonic = "parade tragic alley dizzy scene horse remove salmon gallery chaos husband party";

@@ -1,1 +1,1 @@
-var mnemonic = "okay roof end worth risk school print churn romance smoke picture door";
+var mnemonic = "evil option season race lunch aisle dust tuna nurse mouse puppy middle";

@@ -1,1 +1,1 @@
-var mnemonic = "select deny faith enrich humble still flock limb blush emerge solve aspect";
+var mnemonic = "forward effort light steel more what cable lawn sunset awake village obey";

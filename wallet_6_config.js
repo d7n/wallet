@@ -1,1 +1,1 @@
-var mnemonic = "taste item unlock liquid divorce robust company promote armor useful myself hobby";
+var mnemonic = "cannon brief slam normal uphold special jaguar cigar ozone frozen bitter merit";

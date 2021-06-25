@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow spend describe social fall excess lab culture need spread noble uphold";
+var mnemonic = "text afraid exile roof immense debate base random lend cream upon limit";

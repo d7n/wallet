@@ -1,1 +1,1 @@
-var mnemonic = "carpet library region school baby toast enlist castle super farm fun bachelor";
+var mnemonic = "poem print engage lazy when hero pear antenna hurry mystery sniff bag";

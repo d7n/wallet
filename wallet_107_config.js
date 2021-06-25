@@ -1,1 +1,1 @@
-var mnemonic = "load swear lamp jelly dwarf bronze still apart bamboo inner music social";
+var mnemonic = "game camp cover echo human indoor hedgehog symbol infant key item leave";

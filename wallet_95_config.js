@@ -1,1 +1,1 @@
-var mnemonic = "own theory legal float mirror trap gravity pencil recycle clip gate person";
+var mnemonic = "rent change film promote horror crush power final coffee three erosion useless";

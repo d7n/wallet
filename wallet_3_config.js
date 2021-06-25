@@ -1,1 +1,1 @@
-var mnemonic = "sun fetch main learn smooth remind region dinner sense fee aerobic diamond";
+var mnemonic = "village head bulk gold match silent snap salad artefact chief describe pupil";

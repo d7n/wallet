@@ -1,1 +1,1 @@
-var mnemonic = "nothing inherit useless reform winter light festival recall marble section patrol reform";
+var mnemonic = "either swing actual pupil heavy hamster screen image hurt crop leader able";

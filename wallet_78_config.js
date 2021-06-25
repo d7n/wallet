@@ -1,1 +1,1 @@
-var mnemonic = "belt add unit once room leader prefer envelope side hamster ugly misery";
+var mnemonic = "slide please popular setup clown life guilt test cement arrange option crime";

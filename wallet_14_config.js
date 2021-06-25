@@ -1,1 +1,1 @@
-var mnemonic = "season sun dash north sauce patch earn peace jar confirm diary grocery";
+var mnemonic = "run label spider avoid brand scissors say alcohol accuse stem tissue father";

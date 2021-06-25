@@ -1,1 +1,1 @@
-var mnemonic = "grant dog insect ridge elephant bring ordinary obey estate peanut omit grow";
+var mnemonic = "wait denial begin team finish park gift main treat brown belt female";

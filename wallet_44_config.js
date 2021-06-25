@@ -1,1 +1,1 @@
-var mnemonic = "scorpion cart void voyage hand sound fringe catalog orange pistol guide cram";
+var mnemonic = "enact broom gloom unfair market script proud media weather clutch episode affair";

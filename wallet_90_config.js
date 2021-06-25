@@ -1,1 +1,1 @@
-var mnemonic = "elder upset adjust position faint enhance tank dry lunch shove remove garage";
+var mnemonic = "hat float country apology hollow mystery wet attack city crisp danger disagree";
