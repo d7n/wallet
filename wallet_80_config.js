@@ -1,1 +1,1 @@
-var mnemonic = "cliff mule warrior luggage crowd settle mobile bread divide delay orphan slice";
+var mnemonic = "marine tattoo palm dolphin unveil truth obtain super modify long special true";

@@ -1,1 +1,1 @@
-var mnemonic = "weekend fork face steak desk hobby about sorry thank speed history observe";
+var mnemonic = "ahead soccer level ready submit trip athlete base cattle have boat letter";

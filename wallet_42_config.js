@@ -1,1 +1,1 @@
-var mnemonic = "olive merry carbon avoid window mountain toddler corn zebra delay believe enact";
+var mnemonic = "stage economy dial energy little effort spawn jelly flight flip place void";

@@ -1,1 +1,1 @@
-var mnemonic = "deal walk moon hen wood opera document average acoustic spend mail mother";
+var mnemonic = "daughter age pride better frozen sauce burger nose lobster intact rally local";

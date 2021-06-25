@@ -1,1 +1,1 @@
-var mnemonic = "walk style blood stereo connect ring goose must lawsuit merge wrist trophy";
+var mnemonic = "volcano stable erase limb swing swift girl manage field resemble boil miss";

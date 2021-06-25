@@ -1,1 +1,1 @@
-var mnemonic = "fan fetch voyage spring giraffe october riot letter swamp mass attend pear";
+var mnemonic = "need ritual pattern side plunge crime model enroll bike over network odor";

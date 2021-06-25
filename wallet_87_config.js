@@ -1,1 +1,1 @@
-var mnemonic = "antenna arrive wall little gown diesel hope sorry kind spend soldier argue";
+var mnemonic = "recycle brain family talent light dune forum learn region require rotate guide";

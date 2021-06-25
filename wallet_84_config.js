@@ -1,1 +1,1 @@
-var mnemonic = "arena blush behind lion romance bag olive tower talent make illness sock";
+var mnemonic = "van purpose vessel jar undo torch sketch gorilla will unfold tip emotion";

@@ -1,1 +1,1 @@
-var mnemonic = "depth acid carbon conduct twelve brass cabbage liar problem possible amateur much";
+var mnemonic = "panel outdoor tray express swim win hour census benefit vapor lunch artefact";

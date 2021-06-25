@@ -1,1 +1,1 @@
-var mnemonic = "announce prize sauce glass trophy mix cotton farm rotate deposit shallow old";
+var mnemonic = "equip document flush hungry parrot update throw summer better gap merit educate";

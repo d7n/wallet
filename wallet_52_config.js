@@ -1,1 +1,1 @@
-var mnemonic = "music skin live enable bread almost poverty agent mask scene palace tennis";
+var mnemonic = "example fat surround fee wide swarm joy velvet ugly kangaroo year virtual";

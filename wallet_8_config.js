@@ -1,1 +1,1 @@
-var mnemonic = "stairs illness unveil select solid chuckle dutch domain jungle away improve scout";
+var mnemonic = "ginger bubble advice faculty drive electric increase rely depend clump tumble subject";

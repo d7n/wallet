@@ -1,1 +1,1 @@
-var mnemonic = "ridge parade move practice hammer adapt peace plunge matrix brush cousin song";
+var mnemonic = "into endless latin nephew negative ankle prevent husband maximum item knife loan";

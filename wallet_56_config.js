@@ -1,1 +1,1 @@
-var mnemonic = "exile switch art lizard funny garlic dumb trial math firm people hip";
+var mnemonic = "menu vote local juice notable doctor reunion narrow naive reform glance inject";

@@ -1,1 +1,1 @@
-var mnemonic = "afford bullet medal bike tool rabbit copy hotel recall key jelly brand";
+var mnemonic = "grass puppy defy together rude bind twenty aware merge word blanket budget";

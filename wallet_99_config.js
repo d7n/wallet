@@ -1,1 +1,1 @@
-var mnemonic = "crash horse inspire pause heart fan craft vapor company family plastic ozone";
+var mnemonic = "oppose weasel lizard attend day reunion achieve blind cannon bacon gallery elevator";

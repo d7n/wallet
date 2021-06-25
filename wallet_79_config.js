@@ -1,1 +1,1 @@
-var mnemonic = "venue salute already electric daring pretty tuna smooth author usage cannon base";
+var mnemonic = "peace stumble letter anchor owner garden holiday grief snap stick cost relax";

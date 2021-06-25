@@ -1,1 +1,1 @@
-var mnemonic = "duty unfold what winter attend addict require square planet meadow vicious story";
+var mnemonic = "city bright device jungle gift today argue client post board network upper";

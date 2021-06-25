@@ -1,1 +1,1 @@
-var mnemonic = "fun never clay myth lumber recycle test canvas must solution illegal social";
+var mnemonic = "chapter orchard leg vapor collect patrol vacant fame leopard size cash scatter";

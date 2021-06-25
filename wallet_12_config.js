@@ -1,1 +1,1 @@
-var mnemonic = "agree gallery acid youth faint salmon elder genre feature virus chair gather";
+var mnemonic = "kingdom pioneer smoke impact absent add keep axis smart apology farm flag";

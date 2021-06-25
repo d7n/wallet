@@ -1,1 +1,1 @@
-var mnemonic = "vibrant access upper shove gas walnut biology torch gentle urge pencil paper";
+var mnemonic = "pear glove deliver truck fire grace verify liar alarm repeat explain tide";

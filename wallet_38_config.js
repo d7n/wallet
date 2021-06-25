@@ -1,1 +1,1 @@
-var mnemonic = "novel car museum nothing student permit umbrella theme salon face machine segment";
+var mnemonic = "buyer acid cattle aisle sorry assume move faculty caught surge gift acid";

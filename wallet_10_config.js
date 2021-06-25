@@ -1,1 +1,1 @@
-var mnemonic = "another finger notable someone flee arrive fiscal brick maple donate gather claim";
+var mnemonic = "point planet force theme swing staff island jungle meadow lizard state morning";

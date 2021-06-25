@@ -1,1 +1,1 @@
-var mnemonic = "find you ticket trash love napkin ensure steak marine avocado summer nerve";
+var mnemonic = "photo before ceiling chef swamp horror relax quit talent monster during decorate";

@@ -1,1 +1,1 @@
-var mnemonic = "blood despair resemble seven thought cost door style vital earth year hire";
+var mnemonic = "world scatter twist pigeon move corn march swap ocean income small cargo";

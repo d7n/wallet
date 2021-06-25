@@ -1,1 +1,1 @@
-var mnemonic = "vivid correct mercy feed execute trigger question total trim chair spread human";
+var mnemonic = "escape jewel host eyebrow divide basic flame lunar shove book defy nuclear";

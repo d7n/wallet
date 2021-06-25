@@ -1,1 +1,1 @@
-var mnemonic = "oppose odor sort vivid mango reason invest tide skate health rifle peasant";
+var mnemonic = "palm merge please bridge limit that gaze cigar rifle pitch pumpkin element";

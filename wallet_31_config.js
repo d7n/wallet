@@ -1,1 +1,1 @@
-var mnemonic = "belt mail valve heavy accuse cotton rice sport jewel stumble double way";
+var mnemonic = "wife track error broken memory smooth thumb quality beef fortune danger draft";

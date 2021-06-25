@@ -1,1 +1,1 @@
-var mnemonic = "loan sing call cradle inquiry adjust foil pave tenant dynamic light daring";
+var mnemonic = "hospital man ridge peanut pumpkin alpha perfect like burger grain year casual";

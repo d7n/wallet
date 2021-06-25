@@ -1,1 +1,1 @@
-var mnemonic = "hole spawn guilt equal common learn script polar addict never school rib";
+var mnemonic = "tip giraffe real dirt degree all service room turkey salad tourist turn";

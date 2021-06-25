@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur hotel drill daughter vacuum cute subway pair piano very unable volcano";
+var mnemonic = "setup mixture move lazy speak detect glow term bag sell tell average";

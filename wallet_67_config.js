@@ -1,1 +1,1 @@
-var mnemonic = "bacon ordinary lens exist armor fury airport vacant seven nice normal refuse";
+var mnemonic = "embody state potato street valve place setup library usage duty ginger quick";

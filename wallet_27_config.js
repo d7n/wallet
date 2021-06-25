@@ -1,1 +1,1 @@
-var mnemonic = "whip nuclear finish depart truly alarm bulb canal waste obtain gym warfare";
+var mnemonic = "rude payment liar rate laundry scrub laugh result aerobic emotion coyote parent";

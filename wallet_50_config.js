@@ -1,1 +1,1 @@
-var mnemonic = "exchange oven useless thing brass slide dice spot okay clap romance poem";
+var mnemonic = "age enrich pave abstract exotic hip raven regret boost awkward pioneer detect";

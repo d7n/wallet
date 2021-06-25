@@ -1,1 +1,1 @@
-var mnemonic = "skin biology say gorilla observe outdoor wise wire crane write release daughter";
+var mnemonic = "second process enough bacon reason obscure alley near palm result bleak fever";

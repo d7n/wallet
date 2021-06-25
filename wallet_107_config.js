@@ -1,1 +1,1 @@
-var mnemonic = "poet earn ostrich wasp hero network crawl casino club laptop family velvet";
+var mnemonic = "dog yellow original frown spy round hour area flush napkin pact autumn";

@@ -1,1 +1,1 @@
-var mnemonic = "road slogan scissors whisper toast vintage pattern round body liberty undo churn";
+var mnemonic = "eagle stomach right express alcohol position letter field write expire light coin";

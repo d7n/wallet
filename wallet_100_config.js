@@ -1,1 +1,1 @@
-var mnemonic = "route thrive dog onion oak record pill anger insane tip tobacco exile";
+var mnemonic = "subway plate cycle below salt april narrow swarm deputy rug drastic strategy";

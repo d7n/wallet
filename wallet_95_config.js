@@ -1,1 +1,1 @@
-var mnemonic = "pigeon silly kick warrior rival click object staff pet wear devote wish";
+var mnemonic = "whisper minor oval romance around venue fossil salt actual vast pluck envelope";

@@ -1,1 +1,1 @@
-var mnemonic = "laptop shield mansion brief abuse green wine include always happy leave ritual";
+var mnemonic = "valve hurdle destroy board devote armed treat cry blouse divide melody common";

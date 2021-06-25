@@ -1,1 +1,1 @@
-var mnemonic = "powder vague rocket swarm job smart surprise code voice trust symptom tobacco";
+var mnemonic = "quality sail case sniff gaze general parade very infant elder team cabin";

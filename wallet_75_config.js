@@ -1,1 +1,1 @@
-var mnemonic = "coil anger universe used property coconut differ call arm slush cattle cement";
+var mnemonic = "affair tip runway goose february remain master special tip prepare idea sort";

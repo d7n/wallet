@@ -1,1 +1,1 @@
-var mnemonic = "myself surround seat spin wheat spare minute awkward scale butter round pencil";
+var mnemonic = "goat know satisfy usual lift foil concert occur entire physical process replace";

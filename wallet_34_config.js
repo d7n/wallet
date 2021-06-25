@@ -1,1 +1,1 @@
-var mnemonic = "drum rival already casual below rose draft guilt track rapid today split";
+var mnemonic = "usage adjust arrow wealth flat burger morning solve convince example eight fatal";

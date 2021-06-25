@@ -1,1 +1,1 @@
-var mnemonic = "trust engage have eagle usage together liar talent truck tooth atom forget";
+var mnemonic = "matter when endless talk push witness depend expect cart rebel void slow";

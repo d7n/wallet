@@ -1,1 +1,1 @@
-var mnemonic = "adapt wise inquiry tortoise pelican pet boil song between alone mixed clutch";
+var mnemonic = "make protect marriage hood another rotate gospel pledge feel quote awkward chief";

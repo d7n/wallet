@@ -1,1 +1,1 @@
-var mnemonic = "minute auction hub prison token cloth media canvas armed piano small choose";
+var mnemonic = "wild spatial deposit enroll arena assist long online phrase remind pigeon vote";

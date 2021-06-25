@@ -1,1 +1,1 @@
-var mnemonic = "hat auto cabbage anchor arrest suggest glow crack gallery age harbor hidden";
+var mnemonic = "dog chief column lunar frequent globe lift state candy tourist pottery segment";

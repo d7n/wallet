@@ -1,1 +1,1 @@
-var mnemonic = "across eternal brush kick myself autumn ghost street pelican pottery spoon hobby";
+var mnemonic = "exit before morning coin grid fitness roof naive genre hen toward patch";

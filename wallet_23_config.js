@@ -1,1 +1,1 @@
-var mnemonic = "park addict occur cover attend elephant sleep remove canal resemble tongue what";
+var mnemonic = "armor price split cinnamon define truth beef toast arrange device friend cost";

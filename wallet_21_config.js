@@ -1,1 +1,1 @@
-var mnemonic = "decide result depth this soap sponsor orphan immune lumber ethics mail ankle";
+var mnemonic = "team gas soft ethics ecology man deny remind patch glue color senior";

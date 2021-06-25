@@ -1,1 +1,1 @@
-var mnemonic = "behave produce skill anxiety auto gold fire fabric execute clever stomach panel";
+var mnemonic = "maple various clinic use sport exercise page attitude pair slush spray shine";

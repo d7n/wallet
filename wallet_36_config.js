@@ -1,1 +1,1 @@
-var mnemonic = "jungle tattoo service eagle enlist walk tackle ladder panel memory left fiber";
+var mnemonic = "very bomb robust holiday lunar bulb another auto outdoor employ sense street";

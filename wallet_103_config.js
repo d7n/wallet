@@ -1,1 +1,1 @@
-var mnemonic = "paper shuffle asthma fetch license goddess evolve machine subject flight silk sister";
+var mnemonic = "trip citizen supreme theory pioneer nasty member paddle blossom weekend need obscure";

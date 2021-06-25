@@ -1,1 +1,1 @@
-var mnemonic = "tag spatial public usual weird bus cloud record near forest festival rule";
+var mnemonic = "fancy original grace swift pink festival business sponsor oyster match patrol office";

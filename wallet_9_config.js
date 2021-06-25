@@ -1,1 +1,1 @@
-var mnemonic = "unfold boring lazy short climb library topic twice journey note split shield";
+var mnemonic = "focus mammal moment filter insane october rebel wife mouse gallery athlete finish";

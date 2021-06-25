@@ -1,1 +1,1 @@
-var mnemonic = "bus baby loud immune elephant skill cover original hero calm tackle grape";
+var mnemonic = "gift chicken logic divert tool kit guard injury empower time spell razor";

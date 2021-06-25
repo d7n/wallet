@@ -1,1 +1,1 @@
-var mnemonic = "maid puzzle long pond spatial scale match meat young tool ramp slush";
+var mnemonic = "trend million artwork gym left report time gain arrive mixture term mechanic";

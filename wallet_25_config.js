@@ -1,1 +1,1 @@
-var mnemonic = "team fiber neutral gap table exact sight panic pride average novel giant";
+var mnemonic = "echo anxiety pretty release scene glance arrow depth pattern project gravity height";

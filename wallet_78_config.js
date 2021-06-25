@@ -1,1 +1,1 @@
-var mnemonic = "hurdle twenty oppose library slush gold release subway track blade floor quit";
+var mnemonic = "night advice hammer vapor differ put vote priority bus arrow ranch artist";

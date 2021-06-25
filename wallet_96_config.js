@@ -1,1 +1,1 @@
-var mnemonic = "current ivory fossil misery daughter hotel offer father coral impact orbit surface";
+var mnemonic = "tell decrease table nature dilemma blood service monitor huge gift lizard subway";

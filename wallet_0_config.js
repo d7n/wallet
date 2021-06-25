@@ -1,1 +1,1 @@
-var mnemonic = "tenant uncover will chapter genius dinosaur rare zero dice soft later olympic";
+var mnemonic = "field entry media anxiety adjust vivid damp exact hand ten business dice";

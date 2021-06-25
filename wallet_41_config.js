@@ -1,1 +1,1 @@
-var mnemonic = "glow actor culture pattern enter only drastic evidence dad blue frog wet";
+var mnemonic = "trash stage world autumn neither dose cost rubber hold chase hurt caught";

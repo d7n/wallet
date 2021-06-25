@@ -1,1 +1,1 @@
-var mnemonic = "arrest black wait find lemon educate walk pulse setup wage butter syrup";
+var mnemonic = "sentence state model athlete record primary window trophy reward excite logic wear";

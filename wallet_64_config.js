@@ -1,1 +1,1 @@
-var mnemonic = "monitor blanket capable joy young pool same dwarf cigar laugh boil sentence";
+var mnemonic = "core ugly pulp want live crater voice plate multiply miracle example chief";

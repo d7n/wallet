@@ -1,1 +1,1 @@
-var mnemonic = "emerge elephant vicious force ensure until fantasy pact lawsuit anxiety magnet august";
+var mnemonic = "urban fine chef escape fragile cushion convince grid chat warrior knock episode";

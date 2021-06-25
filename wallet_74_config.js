@@ -1,1 +1,1 @@
-var mnemonic = "swamp october afford reject make pass kind finger cancel mesh usage license";
+var mnemonic = "toddler same dad submit whisper place odor kiwi earn cloth mutual misery";

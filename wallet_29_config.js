@@ -1,1 +1,1 @@
-var mnemonic = "remember razor tray primary category ill ostrich cage club vapor crack funny";
+var mnemonic = "ivory lady process style yard thunder window piano wreck opinion empower wisdom";

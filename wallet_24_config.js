@@ -1,1 +1,1 @@
-var mnemonic = "tail couch river change diamond sniff trip tiny enemy planet daring soon";
+var mnemonic = "broccoli lobster arrange estate choice device vacuum palace shy glide start claw";

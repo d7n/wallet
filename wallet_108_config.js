@@ -1,1 +1,1 @@
-var mnemonic = "board bottom cross unfold resource final display scrub morning budget seat frown";
+var mnemonic = "spatial marine ocean act over almost trade crack method hill year live";

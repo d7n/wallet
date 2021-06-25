@@ -1,1 +1,1 @@
-var mnemonic = "nominee blur swallow salad lounge cake release coconut innocent cross practice similar";
+var mnemonic = "decade make elegant easily split tribe sister fine breeze rib fetch civil";

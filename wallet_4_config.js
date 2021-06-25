@@ -1,1 +1,1 @@
-var mnemonic = "practice garden climb result purpose coyote sniff woman screen child lizard certain";
+var mnemonic = "crunch neutral caution hammer chase member spice slush find bread movie small";

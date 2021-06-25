@@ -1,1 +1,1 @@
-var mnemonic = "plate fury spy pave tragic know crystal segment flush object manual exotic";
+var mnemonic = "birth inhale cancel crawl enrich run whisper tackle other rib hold good";

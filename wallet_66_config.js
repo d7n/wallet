@@ -1,1 +1,1 @@
-var mnemonic = "mad lady lab broccoli lizard can duck fever strategy wealth open lens";
+var mnemonic = "square bitter myself clutch six such group arrest switch arch hedgehog old";

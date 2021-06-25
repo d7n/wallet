@@ -1,1 +1,1 @@
-var mnemonic = "outside atom render crouch fault flight chef powder speed ecology story bamboo";
+var mnemonic = "timber ginger spray airport boy decline loyal shoulder prevent asset tattoo family";

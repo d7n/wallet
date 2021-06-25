@@ -1,1 +1,1 @@
-var mnemonic = "wink moment december dragon crane online phone walk vintage ladder custom little";
+var mnemonic = "lens obey exclude modify day shallow brain ozone autumn cigar toilet sister";

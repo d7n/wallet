@@ -1,1 +1,1 @@
-var mnemonic = "hole client oblige grant sketch heart quantum family fault unusual useless reject";
+var mnemonic = "rose raccoon finger announce slam media reward teach drum nice tenant chef";

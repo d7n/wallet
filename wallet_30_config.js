@@ -1,1 +1,1 @@
-var mnemonic = "exact acoustic gap worth improve chalk liquid skull bless recycle fall bonus";
+var mnemonic = "viable either sausage ivory prison prepare violin play clump nurse visit inject";

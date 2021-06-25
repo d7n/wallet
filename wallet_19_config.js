@@ -1,1 +1,1 @@
-var mnemonic = "also leader awesome deny humor female trip grain reopen mercy please garment";
+var mnemonic = "immense typical cheap birth antique torch elder perfect wait problem spread merge";

@@ -1,1 +1,1 @@
-var mnemonic = "confirm stay kit relief lizard illegal pyramid push length dinosaur local venture";
+var mnemonic = "render history garlic hundred deny voice evidence iron smoke reopen length author";

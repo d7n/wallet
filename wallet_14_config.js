@@ -1,1 +1,1 @@
-var mnemonic = "hint office fault dismiss lab drum describe admit raw shop inner race";
+var mnemonic = "mosquito item toward sentence bike speed sugar field replace buzz limb sport";

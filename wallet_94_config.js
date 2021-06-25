@@ -1,1 +1,1 @@
-var mnemonic = "fantasy gadget damp raise balance month almost chase square gentle wealth skull";
+var mnemonic = "loyal afford search october giraffe cup egg pride net crawl chapter put";

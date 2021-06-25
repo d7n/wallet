@@ -1,1 +1,1 @@
-var mnemonic = "soft puzzle theme dry measure defy clip napkin visit blanket fun drum";
+var mnemonic = "garden resource negative size unfold nominee empty category reason police parent egg";

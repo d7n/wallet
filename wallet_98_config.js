@@ -1,1 +1,1 @@
-var mnemonic = "travel radio retire garden hub multiply initial choice lab trip envelope country";
+var mnemonic = "medal print priority impose curtain cargo story ready talk zoo vibrant cement";

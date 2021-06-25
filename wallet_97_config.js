@@ -1,1 +1,1 @@
-var mnemonic = "goddess civil token rocket indicate define wrap divorce option fresh deny leopard";
+var mnemonic = "spice jazz minor addict bunker diet coin mobile doll noodle mercy rival";

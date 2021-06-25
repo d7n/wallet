@@ -1,1 +1,1 @@
-var mnemonic = "mixed pelican daring cube depart pole easy appear hurdle city cushion fiction";
+var mnemonic = "gentle review tell medal sweet clay adult client gun achieve genius ski";
