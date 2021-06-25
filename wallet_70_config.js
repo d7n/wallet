@@ -1,1 +1,1 @@
-var mnemonic = "scene palm hobby trouble wire thunder canvas champion solid roof until club";
+var mnemonic = "blur dry cousin hold labor dog sing match dizzy learn sting hunt";

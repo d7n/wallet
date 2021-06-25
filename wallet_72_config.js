@@ -1,1 +1,1 @@
-var mnemonic = "fresh family dash flee good quit space carpet winner drama slim innocent";
+var mnemonic = "burden birth odor earn trend system tenant position output idea bacon index";

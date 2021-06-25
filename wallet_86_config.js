@@ -1,1 +1,1 @@
-var mnemonic = "few slogan unit capable impulse swarm trick creek fury before comic advice";
+var mnemonic = "bottom glare soon pelican duck cake chicken gap action notice focus bone";

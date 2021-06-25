@@ -1,1 +1,1 @@
-var mnemonic = "orange monitor report bus fiber sport mandate stumble scissors file mail couch";
+var mnemonic = "toy spoon skull artwork nothing fence mail cube vote hedgehog engine kit";

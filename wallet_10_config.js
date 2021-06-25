@@ -1,1 +1,1 @@
-var mnemonic = "accuse divorce ring bundle grace number track element damp sphere interest hundred";
+var mnemonic = "repair share planet display wonder pool federal breeze vendor save blouse behind";

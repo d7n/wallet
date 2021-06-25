@@ -1,1 +1,1 @@
-var mnemonic = "twist click submit curve quote bind divide spoil frown salon plug begin";
+var mnemonic = "mansion buddy bottom forward ensure derive echo giant file talent exit life";

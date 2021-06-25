@@ -1,1 +1,1 @@
-var mnemonic = "connect course spirit sudden wash problem tornado reward test quit clip top";
+var mnemonic = "comfort hurdle remind final actual nerve drama fame stem crumble brain artefact";

@@ -1,1 +1,1 @@
-var mnemonic = "mother raw equal cool budget endless fox roof dad nation wrist apology";
+var mnemonic = "shoe dirt visa focus govern cake balcony able chair ivory space canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "trick purpose disorder tennis exist father bottom misery file confirm hedgehog silk";
+var mnemonic = "shaft defense globe bridge grass penalty oak certain throw glance copper night";

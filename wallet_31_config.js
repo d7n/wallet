@@ -1,1 +1,1 @@
-var mnemonic = "false carpet country because huge when market shy among limit road crouch";
+var mnemonic = "citizen fiber despair snack industry clock piano expect divert heavy quick type";

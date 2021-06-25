@@ -1,1 +1,1 @@
-var mnemonic = "orchard beef cake fuel category motion shallow chapter trash antenna hair away";
+var mnemonic = "chicken track maze measure job ladder legal pig faith field birth remember";

@@ -1,1 +1,1 @@
-var mnemonic = "cruel project weird apology true guitar soul firm convince clap goat fish";
+var mnemonic = "surge reject right thought exhibit puppy engage pond mule garment slab badge";

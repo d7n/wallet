@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur powder wrist divide private carbon verify scheme crazy sand business wisdom";
+var mnemonic = "toss fragile thing cannon surge knock utility couple bicycle inquiry sausage crumble";

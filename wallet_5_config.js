@@ -1,1 +1,1 @@
-var mnemonic = "help deal annual pact fit deal path knock diesel express monster beach";
+var mnemonic = "beef baby culture trap sight cash assume unfold beach truth involve awake";

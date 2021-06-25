@@ -1,1 +1,1 @@
-var mnemonic = "disagree diagram glide blame city acquire duck erode town goose hurt spot";
+var mnemonic = "snap army input expect erase index all chunk polar clutch wrestle involve";

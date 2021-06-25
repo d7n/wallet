@@ -1,1 +1,1 @@
-var mnemonic = "used brass safe argue burden multiply tower casual sibling mimic chef bridge";
+var mnemonic = "dynamic valid budget pause thank scrap cattle dad address pencil figure ghost";

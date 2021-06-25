@@ -1,1 +1,1 @@
-var mnemonic = "alarm disease dirt secret ostrich sense jewel despair coffee happy allow basic";
+var mnemonic = "drama swing fish add actor parade gate panic air giant census fiction";

@@ -1,1 +1,1 @@
-var mnemonic = "fringe alert memory climb phone book disagree paddle sorry enemy egg become";
+var mnemonic = "best brother horse govern forest portion decorate income thumb bright august world";

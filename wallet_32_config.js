@@ -1,1 +1,1 @@
-var mnemonic = "broccoli online whip wish shadow wagon rather motion group seven save outside";
+var mnemonic = "lake electric pause horse museum list hundred toss logic wire upset link";

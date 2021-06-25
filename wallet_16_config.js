@@ -1,1 +1,1 @@
-var mnemonic = "struggle soap have island barely tomorrow pizza girl runway nothing early top";
+var mnemonic = "trick dinner mail minimum volcano jealous sand project finish energy salute swear";

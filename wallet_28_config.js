@@ -1,1 +1,1 @@
-var mnemonic = "want bench tattoo brain similar enrich tribe simple clap collect educate kitchen";
+var mnemonic = "inmate surge runway mosquito latin smoke moment wall way child talk unable";

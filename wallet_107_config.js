@@ -1,1 +1,1 @@
-var mnemonic = "risk security little before version exact win elder leisure spray saddle motion";
+var mnemonic = "weekend festival elevator napkin letter manual vacuum donkey pottery syrup alert insect";

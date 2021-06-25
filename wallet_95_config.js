@@ -1,1 +1,1 @@
-var mnemonic = "planet tenant disorder history expand deliver blast bus energy mercy small ahead";
+var mnemonic = "anger neglect phrase panel face gas sustain tide vibrant index motion illegal";

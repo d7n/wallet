@@ -1,1 +1,1 @@
-var mnemonic = "fabric power cement tip clog dice shrimp purpose point gain drop glad";
+var mnemonic = "lock social news ceiling chair balcony license wreck expire cave kiss chef";

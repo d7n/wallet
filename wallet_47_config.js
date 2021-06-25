@@ -1,1 +1,1 @@
-var mnemonic = "pipe blood zone craft early wish mule much heavy region shell beauty";
+var mnemonic = "erupt mix solve peace work quarter name sell wire skirt bargain into";

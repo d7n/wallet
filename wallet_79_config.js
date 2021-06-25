@@ -1,1 +1,1 @@
-var mnemonic = "oak capital symbol humble initial notice soda boat material transfer toward vague";
+var mnemonic = "depth antique shallow clever divorce lounge crew obscure rival ecology lazy grape";

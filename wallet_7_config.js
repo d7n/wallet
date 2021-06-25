@@ -1,1 +1,1 @@
-var mnemonic = "liberty liar kitten slender hungry punch beyond holiday curious great erupt wide";
+var mnemonic = "follow slice system illegal cup term luggage dismiss ordinary interest holiday clay";

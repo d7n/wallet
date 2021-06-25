@@ -1,1 +1,1 @@
-var mnemonic = "fluid glow poet lift thrive pool beyond crack fragile pudding file claim";
+var mnemonic = "chimney wild wolf copy door thunder thrive urban main clinic air obey";

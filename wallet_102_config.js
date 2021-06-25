@@ -1,1 +1,1 @@
-var mnemonic = "ice safe used aisle divide tilt armor resist box desk phrase junk";
+var mnemonic = "shrug nature lab mechanic fever else envelope target corn recycle slender museum";

@@ -1,1 +1,1 @@
-var mnemonic = "vanish social dutch skin essence shed often sure exchange noble divide kick";
+var mnemonic = "forward gaze answer devote rose dice maze vault control brief agree rally";

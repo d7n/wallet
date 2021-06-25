@@ -1,1 +1,1 @@
-var mnemonic = "virus volcano atom seat regular color almost seat salt depart bonus powder";
+var mnemonic = "text panther purchase certain love run unhappy demise latin crater aerobic citizen";

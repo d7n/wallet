@@ -1,1 +1,1 @@
-var mnemonic = "edge labor license antenna retire argue board barely gaze discover clay faith";
+var mnemonic = "bargain trash response valve beyond worry fitness mushroom elbow breeze lucky blossom";

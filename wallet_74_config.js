@@ -1,1 +1,1 @@
-var mnemonic = "struggle evil palm else wish group staff fork wheel small course draft";
+var mnemonic = "two edit awake payment crowd program dice cabbage noble label slow resemble";

@@ -1,1 +1,1 @@
-var mnemonic = "good memory paper island sunny useful man power pledge lounge demand donor";
+var mnemonic = "bench drink weekend crater rapid job today process crisp churn version kick";

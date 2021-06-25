@@ -1,1 +1,1 @@
-var mnemonic = "sign flower arrest broom option very fan embark best master false radar";
+var mnemonic = "grit acoustic crane taxi trend reward ocean six whale stamp paper parent";

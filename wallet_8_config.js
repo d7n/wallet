@@ -1,1 +1,1 @@
-var mnemonic = "obscure aunt mind recall enrich leaf state feature rural milk moral state";
+var mnemonic = "era valve castle toe drink polar silly repeat canvas baby multiply claw";

@@ -1,1 +1,1 @@
-var mnemonic = "find steel derive unique pepper ripple actor any snake rough right dust";
+var mnemonic = "someone battle possible razor example moment grid pyramid clock garbage check task";

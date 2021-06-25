@@ -1,1 +1,1 @@
-var mnemonic = "frozen gallery leg head clutch episode distance vapor race essence before idle";
+var mnemonic = "utility sign equal pilot control shoot sauce spot depend weather congress cart";

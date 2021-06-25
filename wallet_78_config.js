@@ -1,1 +1,1 @@
-var mnemonic = "save seed wage wreck pattern mammal boat foot thought winner pipe plunge";
+var mnemonic = "someone pioneer nuclear truck tonight floor weasel dentist round market blind gospel";

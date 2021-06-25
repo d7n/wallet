@@ -1,1 +1,1 @@
-var mnemonic = "pepper differ call river void dove arm diet federal liberty mansion ostrich";
+var mnemonic = "waste enlist candy horn slush film strategy trick way rack stove moon";

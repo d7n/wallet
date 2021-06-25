@@ -1,1 +1,1 @@
-var mnemonic = "unknown family myself source game control budget grow chalk found ahead excuse";
+var mnemonic = "sunny trash fish final start skirt say boil invest casino place solve";

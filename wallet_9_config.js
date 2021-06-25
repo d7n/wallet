@@ -1,1 +1,1 @@
-var mnemonic = "siren coral hen speak puzzle daughter aerobic useful roof clever middle rate";
+var mnemonic = "limit shoulder assist silly legend skull myself rule warfare novel lady age";

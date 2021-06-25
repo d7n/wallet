@@ -1,1 +1,1 @@
-var mnemonic = "taste ability knock engine mirror ankle crazy peace lift empty apology license";
+var mnemonic = "still gorilla convince uphold assume sugar false orchard intact february damp blame";

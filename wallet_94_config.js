@@ -1,1 +1,1 @@
-var mnemonic = "crisp math push danger human pistol hire mail retire tattoo impact question";
+var mnemonic = "stick language arch reflect reduce blur hill coin crazy rifle abuse guard";

@@ -1,1 +1,1 @@
-var mnemonic = "timber ensure later author fuel exhaust weapon praise strike toss boss offer";
+var mnemonic = "divert trash valley retreat toward soul dwarf news basic ability jump scissors";

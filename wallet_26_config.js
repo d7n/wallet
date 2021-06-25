@@ -1,1 +1,1 @@
-var mnemonic = "can maple token offer suffer clever yard spawn embark leaf trial emotion";
+var mnemonic = "panic frame income section prison source dwarf claim bar letter drip lady";

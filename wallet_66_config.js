@@ -1,1 +1,1 @@
-var mnemonic = "manual position bone achieve slide shop record fabric seven aware brush crucial";
+var mnemonic = "ghost museum deal toast transfer range fade silly cruise heart south draft";

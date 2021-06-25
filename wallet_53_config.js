@@ -1,1 +1,1 @@
-var mnemonic = "awake crystal figure elite legal uncle tissue warfare apology mad gravity excuse";
+var mnemonic = "yard until portion tag catalog bonus timber honey distance vacuum kingdom unusual";

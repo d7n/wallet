@@ -1,1 +1,1 @@
-var mnemonic = "eagle sadness chair illegal cereal cancel omit update battle fringe now front";
+var mnemonic = "bundle must firm neglect fresh tomorrow weather diet awake truth pilot home";

@@ -1,1 +1,1 @@
-var mnemonic = "funny skate kitchen crawl viable thing link trouble situate invest digital answer";
+var mnemonic = "bachelor cabin worry media tortoise cliff trophy power during inform crime pitch";

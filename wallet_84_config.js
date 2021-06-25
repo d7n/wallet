@@ -1,1 +1,1 @@
-var mnemonic = "culture trust lend replace equip degree raven barely eyebrow palace list bamboo";
+var mnemonic = "resemble account stool depend include retire wedding that rice island lemon smile";

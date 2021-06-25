@@ -1,1 +1,1 @@
-var mnemonic = "pulse traffic release green tissue cruel lonely position dumb fresh spread reduce";
+var mnemonic = "economy forum open rotate amazing ostrich depth carry slot add forget grow";

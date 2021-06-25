@@ -1,1 +1,1 @@
-var mnemonic = "super comic decorate try violin display apart provide casual stage remain gym";
+var mnemonic = "invite various cradle crazy acoustic shoe cost second swarm visual fluid output";

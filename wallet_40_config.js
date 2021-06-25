@@ -1,1 +1,1 @@
-var mnemonic = "plunge either rude olympic peasant disease awake clean door unhappy wild eyebrow";
+var mnemonic = "drink pulse brief book swallow trophy found divorce chalk cannon enter mercy";

@@ -1,1 +1,1 @@
-var mnemonic = "peasant entry crush hobby enter father give wine endorse coral page sample";
+var mnemonic = "pretty quality foil valve obvious opinion staff year amount smoke more calm";

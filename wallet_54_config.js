@@ -1,1 +1,1 @@
-var mnemonic = "river topic ketchup mirror gate strategy repeat copy catch bird emerge just";
+var mnemonic = "zebra patch home modify auction fancy tuition tuition danger velvet garbage mom";

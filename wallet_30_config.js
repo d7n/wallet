@@ -1,1 +1,1 @@
-var mnemonic = "wheat envelope prosper hen void limb clap just climb music evil all";
+var mnemonic = "doctor exclude rocket laptop ancient range system puppy fitness glance frequent nephew";

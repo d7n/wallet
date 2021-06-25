@@ -1,1 +1,1 @@
-var mnemonic = "tourist kid orphan slow reopen agree any old exhaust dove endorse balcony";
+var mnemonic = "palm ramp confirm suffer draft adult wire reopen elephant base general scissors";

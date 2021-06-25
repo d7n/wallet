@@ -1,1 +1,1 @@
-var mnemonic = "genre angle skate another seed roof ivory toddler legend autumn vibrant worry";
+var mnemonic = "peace tissue diary adult trumpet fever blood rebel hand series buzz fancy";

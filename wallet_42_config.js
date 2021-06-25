@@ -1,1 +1,1 @@
-var mnemonic = "vote much mansion wrist obscure cement add crash dignity gas spy obvious";
+var mnemonic = "brush flower manage ceiling moral fashion material essay illegal sight pottery genius";

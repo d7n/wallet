@@ -1,1 +1,1 @@
-var mnemonic = "erosion scene aim crumble quick fan group refuse furnace degree airport royal";
+var mnemonic = "force deputy fat rough improve awesome pitch name drum ski improve slender";

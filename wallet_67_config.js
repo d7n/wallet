@@ -1,1 +1,1 @@
-var mnemonic = "cream square unable dad empower need say coral document sugar space dizzy";
+var mnemonic = "country admit language powder live dog seed travel crazy tiger monster blast";

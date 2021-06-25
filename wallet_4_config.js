@@ -1,1 +1,1 @@
-var mnemonic = "remind cat camera canyon father tower pudding such swear pet north balance";
+var mnemonic = "fence cherry finish pear vocal broccoli tag grocery jar dentist sting report";

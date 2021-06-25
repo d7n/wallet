@@ -1,1 +1,1 @@
-var mnemonic = "joke similar wasp cigar spirit will slush detail amazing garage cause time";
+var mnemonic = "clock way sun either neck choice street matter frequent basket slow hurry";

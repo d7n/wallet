@@ -1,1 +1,1 @@
-var mnemonic = "naive mule frequent stem sea dream glance truly spoil rough fine drip";
+var mnemonic = "gas ozone picture pole erase indoor bench coyote warfare marine suffer idea";

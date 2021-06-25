@@ -1,1 +1,1 @@
-var mnemonic = "before oppose squirrel cheap glove waste draft ten shoot rocket oak vote";
+var mnemonic = "glide retreat wet spirit myth push flavor ozone spawn peasant describe gas";

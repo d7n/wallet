@@ -1,1 +1,1 @@
-var mnemonic = "purchase coin argue symptom castle all brown panda obtain soccer special regular";
+var mnemonic = "exercise random grape city glory record join spike polar version jacket remind";

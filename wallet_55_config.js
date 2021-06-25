@@ -1,1 +1,1 @@
-var mnemonic = "version west robust sweet antenna transfer carry license sunset genre raccoon human";
+var mnemonic = "slice tag twice female special dismiss chalk rather dial pipe disorder manual";

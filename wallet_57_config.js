@@ -1,1 +1,1 @@
-var mnemonic = "cat load forest around laundry destroy wink wish cheese behind wedding extend";
+var mnemonic = "liquid tragic air alien before solid trap inhale length until seek north";

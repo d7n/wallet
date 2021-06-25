@@ -1,1 +1,1 @@
-var mnemonic = "robot visa female panda crane board ceiling figure usage day decline winter";
+var mnemonic = "music cross half hurdle glad lock foster void clarify someone inspire duck";

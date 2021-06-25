@@ -1,1 +1,1 @@
-var mnemonic = "sell bike check fat ridge orient guitar tornado social salon inside stand";
+var mnemonic = "lonely smooth table drop lend travel have lottery charge tomorrow game silk";

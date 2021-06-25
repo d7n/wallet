@@ -1,1 +1,1 @@
-var mnemonic = "apple reward balance once chimney head current home fatal occur nurse expect";
+var mnemonic = "soccer powder enroll tone brick climb fine extra artist such boss web";

@@ -1,1 +1,1 @@
-var mnemonic = "already jump rent champion know junior goddess ocean farm bottom theme soul";
+var mnemonic = "alien immense blue angry trend fee dune camera economy pear source polar";

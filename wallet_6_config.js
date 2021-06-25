@@ -1,1 +1,1 @@
-var mnemonic = "inside awesome kick federal mixture afford actor place floor front fade love";
+var mnemonic = "grunt congress lamp trumpet lyrics edit stumble oil depend near garage truly";

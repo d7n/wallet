@@ -1,1 +1,1 @@
-var mnemonic = "velvet veteran lesson antenna rate donor gentle focus zone sure symbol sense";
+var mnemonic = "best cabbage feed enough theory another payment umbrella pave lecture rain manual";

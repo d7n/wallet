@@ -1,1 +1,1 @@
-var mnemonic = "bid carbon black antenna toilet buzz police advance faculty gossip chase baby";
+var mnemonic = "improve wide mask stool feed gasp parent wheel latin guess summer aware";

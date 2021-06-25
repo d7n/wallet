@@ -1,1 +1,1 @@
-var mnemonic = "cliff night pride sting common truth vault elder shop sand public evoke";
+var mnemonic = "cage bread enough charge refuse cage wise ranch cigar magnet kid romance";

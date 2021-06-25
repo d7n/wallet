@@ -1,1 +1,1 @@
-var mnemonic = "wisdom advance high sing foster nest speak crush bulb soldier check develop";
+var mnemonic = "actual pledge embark unfair huge cross comic symptom actor vanish glove suspect";

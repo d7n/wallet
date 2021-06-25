@@ -1,1 +1,1 @@
-var mnemonic = "debris wrap when range loop position soldier buffalo poet shadow family maid";
+var mnemonic = "state metal tackle grant pilot glide eyebrow derive fluid camera sniff basket";

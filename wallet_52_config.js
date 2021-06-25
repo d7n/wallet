@@ -1,1 +1,1 @@
-var mnemonic = "slam width style cabbage prevent wine aerobic broccoli suspect ahead that barrel";
+var mnemonic = "memory price capable window pudding camera hollow beyond mention planet session protect";

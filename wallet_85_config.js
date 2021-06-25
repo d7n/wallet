@@ -1,1 +1,1 @@
-var mnemonic = "cheap powder merit glide jealous helmet obtain hand diet dwarf foster act";
+var mnemonic = "daughter miss sign seat siege tragic denial erase design siren travel trap";

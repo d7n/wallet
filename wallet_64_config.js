@@ -1,1 +1,1 @@
-var mnemonic = "misery champion subway stumble portion pledge gorilla anchor forum differ zone buzz";
+var mnemonic = "farm hotel just group taxi antique plastic human nice enter loan please";

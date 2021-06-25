@@ -1,1 +1,1 @@
-var mnemonic = "negative shield admit grain stereo biology pulse typical human worth future rug";
+var mnemonic = "decorate void gossip potato drip blossom involve damage pony nephew safe fix";

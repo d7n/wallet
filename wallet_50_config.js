@@ -1,1 +1,1 @@
-var mnemonic = "romance split best erupt broom twenty crazy invite nation autumn capital knock";
+var mnemonic = "poem salute merit usage page globe reform stick riot admit connect laundry";

@@ -1,1 +1,1 @@
-var mnemonic = "income train electric exercise few glass vapor wolf blood dismiss stem cheese";
+var mnemonic = "tone stand liquid whale frequent noodle taste bless west lab advice useless";

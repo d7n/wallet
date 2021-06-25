@@ -1,1 +1,1 @@
-var mnemonic = "mule universe health detect neutral alien evolve void sniff proof circle hollow";
+var mnemonic = "false decade pair cash glance cute teach fade music cable student unfair";

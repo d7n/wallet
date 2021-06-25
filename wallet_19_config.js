@@ -1,1 +1,1 @@
-var mnemonic = "energy body mystery seat among sad media curtain glory dust talent join";
+var mnemonic = "replace frequent program ceiling copy hedgehog motion grunt labor cave lecture dance";

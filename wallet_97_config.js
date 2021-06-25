@@ -1,1 +1,1 @@
-var mnemonic = "report chef boil simple lecture below two biology desert rally expand glue";
+var mnemonic = "debate walk stable question abandon fuel sword poverty because acid surge bean";

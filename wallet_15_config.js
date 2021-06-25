@@ -1,1 +1,1 @@
-var mnemonic = "crack bubble become tourist mercy clean that analyst oxygen police rely dutch";
+var mnemonic = "broom cross blade weasel rival general panel buzz birth venture know fluid";

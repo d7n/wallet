@@ -1,1 +1,1 @@
-var mnemonic = "smoke they iron reflect daughter combine fancy mom seminar release common column";
+var mnemonic = "tumble drama main arrange ordinary south pig law prosper phone cute else";

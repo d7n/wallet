@@ -1,1 +1,1 @@
-var mnemonic = "husband series enhance credit vast tool load cousin bullet spell essence cart";
+var mnemonic = "evolve peasant fitness room faith nest sting faint wild vibrant logic kidney";
