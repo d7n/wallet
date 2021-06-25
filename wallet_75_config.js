@@ -1,1 +1,1 @@
-var mnemonic = "impulse evidence beach over like stereo sea move sample glow box romance";
+var mnemonic = "circle recycle enrich ice right lounge remind wing brief health night mass";

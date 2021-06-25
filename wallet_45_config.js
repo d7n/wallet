@@ -1,1 +1,1 @@
-var mnemonic = "pelican minute multiply liquid surround chronic tiger loop finish goddess cancel pyramid";
+var mnemonic = "great initial matter rare airport mechanic urban mind inflict knife strategy velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "borrow avocado blue blue treat fault brown spray swing meat stable cradle";
+var mnemonic = "solve carry day globe middle few tourist minute foot culture page pioneer";

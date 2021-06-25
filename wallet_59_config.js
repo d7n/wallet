@@ -1,1 +1,1 @@
-var mnemonic = "teach journey paper raw amused leave farm number furnace drop expect scrap";
+var mnemonic = "when connect absorb panda burger maid hurt today device jazz empty powder";

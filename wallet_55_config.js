@@ -1,1 +1,1 @@
-var mnemonic = "level win seed include fury lava rescue appear always mutual renew iron";
+var mnemonic = "advice program float change unlock inspire imitate deposit boss space brown left";

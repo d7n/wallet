@@ -1,1 +1,1 @@
-var mnemonic = "effort work tiger thrive always radio subway sort build toe gadget bonus";
+var mnemonic = "pony cloth birth dizzy when love minute pistol turkey usual excite more";

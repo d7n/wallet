@@ -1,1 +1,1 @@
-var mnemonic = "minimum people drama hint fruit list orange size park lamp master witness";
+var mnemonic = "glory sunset utility chunk fire cruise uphold earth whisper maid lamp emerge";

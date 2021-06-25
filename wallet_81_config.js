@@ -1,1 +1,1 @@
-var mnemonic = "mansion reflect across defy valve foot divide craft monkey water mixed hundred";
+var mnemonic = "bulb aware fragile ignore success silver average advance hurry culture essay extend";

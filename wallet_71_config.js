@@ -1,1 +1,1 @@
-var mnemonic = "speak favorite suffer parrot verify case cool liberty royal hole search scorpion";
+var mnemonic = "small cabin arrest person mechanic afford visa fly maximum supreme fiber riot";

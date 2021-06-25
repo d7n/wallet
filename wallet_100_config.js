@@ -1,1 +1,1 @@
-var mnemonic = "derive case skull giraffe noble point never burden grain tribe game fold";
+var mnemonic = "box health such deputy fit false merit final artist predict crazy private";

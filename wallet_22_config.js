@@ -1,1 +1,1 @@
-var mnemonic = "middle return absorb undo vibrant unable clog harsh empower joke spoil cherry";
+var mnemonic = "knock letter situate proud doctor ethics honey fiber town south mask three";

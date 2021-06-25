@@ -1,1 +1,1 @@
-var mnemonic = "diesel idea rescue accident grief age canvas flight intact leopard inherit airport";
+var mnemonic = "letter detect muscle deal faculty stand plug quiz valve buffalo album double";

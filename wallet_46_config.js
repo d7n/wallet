@@ -1,1 +1,1 @@
-var mnemonic = "ready outdoor caught affair nose awkward style cigar maid surprise salon rhythm";
+var mnemonic = "oppose field service allow luggage they fury dose envelope menu uphold tide";

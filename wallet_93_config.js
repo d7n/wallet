@@ -1,1 +1,1 @@
-var mnemonic = "grocery basket liar animal mom coil error beef enhance lizard sign lock";
+var mnemonic = "nothing inherit useless reform winter light festival recall marble section patrol reform";

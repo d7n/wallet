@@ -1,1 +1,1 @@
-var mnemonic = "bitter evolve arena genre help bronze welcome balance giant daughter atom pipe";
+var mnemonic = "belt add unit once room leader prefer envelope side hamster ugly misery";

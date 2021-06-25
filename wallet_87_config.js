@@ -1,1 +1,1 @@
-var mnemonic = "stool real buyer mixed credit vivid chief view attract lucky hint cannon";
+var mnemonic = "admit betray avocado tone ladder apple diamond asset slim merit satoshi mercy";

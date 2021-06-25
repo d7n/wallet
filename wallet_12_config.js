@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo shuffle section birth custom owner purpose intact win actress marriage lecture";
+var mnemonic = "regret zone noodle river defense color cinnamon plunge scout have grow stock";

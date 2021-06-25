@@ -1,1 +1,1 @@
-var mnemonic = "mean three sphere wine crush gorilla little august same trigger once kid";
+var mnemonic = "crack apology acid sick duck audit crowd find fox blast defense faith";

@@ -1,1 +1,1 @@
-var mnemonic = "gospel ship earn same half rally winner link matrix payment ceiling curve";
+var mnemonic = "sell clarify wrap easily child father female marine resemble avoid domain eternal";

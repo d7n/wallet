@@ -1,1 +1,1 @@
-var mnemonic = "hip ensure brother whip recall neglect common fire other own trap shed";
+var mnemonic = "garbage grant whale custom replace basic acoustic bonus author weasel buzz miss";

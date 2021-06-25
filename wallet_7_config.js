@@ -1,1 +1,1 @@
-var mnemonic = "grass lamp poet design detect follow enable whisper toilet spoon spend drive";
+var mnemonic = "range double easy blind warm boost extra shift thought guess clever quote";

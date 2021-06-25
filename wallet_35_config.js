@@ -1,1 +1,1 @@
-var mnemonic = "walnut damage point baby civil clerk useful skull trap merit myself scene";
+var mnemonic = "advance work build bread trial bunker umbrella fluid raven flee slight almost";

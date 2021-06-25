@@ -1,1 +1,1 @@
-var mnemonic = "consider smart abuse bulb only fire civil bean absent dwarf educate chest";
+var mnemonic = "chalk ethics need scatter young enhance wish air grocery couple bulb fault";

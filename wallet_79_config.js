@@ -1,1 +1,1 @@
-var mnemonic = "robust quiz rate round capable habit radio honey helmet depth link deal";
+var mnemonic = "tooth leaf maid sustain reject mouse junior flush fortune logic dirt diagram";

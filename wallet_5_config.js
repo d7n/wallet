@@ -1,1 +1,1 @@
-var mnemonic = "train slush position shove cinnamon proud uncle whisper present entry sunset still";
+var mnemonic = "swim claw little draft color inform giggle valley coin rib hip oyster";

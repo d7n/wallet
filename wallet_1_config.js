@@ -1,1 +1,1 @@
-var mnemonic = "license corn since proud screen wrap dragon diagram artwork kingdom often spoil";
+var mnemonic = "tag follow safe source move cycle razor bring exile car immune stool";

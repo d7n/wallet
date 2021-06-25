@@ -1,1 +1,1 @@
-var mnemonic = "praise stem wealth vanish kingdom quarter salad security minute soon fatigue script";
+var mnemonic = "grant dog insect ridge elephant bring ordinary obey estate peanut omit grow";

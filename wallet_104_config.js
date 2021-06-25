@@ -1,1 +1,1 @@
-var mnemonic = "whisper hockey lock output fence minute soft suggest hurry toilet pencil staff";
+var mnemonic = "verb title slender differ train rare sell orchard fee nation marriage tortoise";

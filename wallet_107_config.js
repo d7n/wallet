@@ -1,1 +1,1 @@
-var mnemonic = "one regular royal drum panda owner wing issue decade nest loan explain";
+var mnemonic = "load swear lamp jelly dwarf bronze still apart bamboo inner music social";

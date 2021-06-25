@@ -1,1 +1,1 @@
-var mnemonic = "parade prevent alley apart trip antenna north corn park orange brick trust";
+var mnemonic = "confirm solid bachelor rally diesel solar envelope cup asthma ticket master impulse";

@@ -1,1 +1,1 @@
-var mnemonic = "raw deposit busy faith shy spirit medal again trouble rocket wrong life";
+var mnemonic = "middle divorce various nothing clutch subject cement tuition define protect perfect ceiling";

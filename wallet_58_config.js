@@ -1,1 +1,1 @@
-var mnemonic = "avoid knee victory uncle squirrel dentist woman kangaroo husband fury taste better";
+var mnemonic = "decrease engine cement awesome level chalk play subway truck october today output";

@@ -1,1 +1,1 @@
-var mnemonic = "together auto vacuum worry security planet local rescue all kiwi mass melt";
+var mnemonic = "material shoe nothing fault enjoy own vague volume flock practice cliff girl";

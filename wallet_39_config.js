@@ -1,1 +1,1 @@
-var mnemonic = "luxury silk call power breeze impact siege clay desk detect crash mail";
+var mnemonic = "tomorrow spend describe social fall excess lab culture need spread noble uphold";

@@ -1,1 +1,1 @@
-var mnemonic = "enroll pole heavy doll clinic outside thrive enhance present couple element insane";
+var mnemonic = "year citizen crack exile hybrid ribbon deal awake marine sting million hen";

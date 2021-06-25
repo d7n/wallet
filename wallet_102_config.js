@@ -1,1 +1,1 @@
-var mnemonic = "drastic camera parrot hollow retire exile choose snake tackle elite cube amazing";
+var mnemonic = "cigar used asset warfare whip miracle main addict enhance soda help divide";

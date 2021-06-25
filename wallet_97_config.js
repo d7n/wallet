@@ -1,1 +1,1 @@
-var mnemonic = "inhale enter sample budget suggest risk love pool sauce margin grocery mixed";
+var mnemonic = "marine clap one latin whip like anxiety liar duty question process essay";

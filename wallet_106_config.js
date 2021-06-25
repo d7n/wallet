@@ -1,1 +1,1 @@
-var mnemonic = "mad town normal aspect forward print script husband gospel mixed potato senior";
+var mnemonic = "oxygen brain blast cradle decade ancient lunar hill upon novel slender egg";

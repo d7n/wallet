@@ -1,1 +1,1 @@
-var mnemonic = "mean wait vibrant crystal grape few actress fee unknown defense just wing";
+var mnemonic = "frog enhance motion ordinary program obtain guide elite that wait fork gaze";

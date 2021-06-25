@@ -1,1 +1,1 @@
-var mnemonic = "nurse address ready possible clip calm oven mix three cotton hybrid celery";
+var mnemonic = "under sweet razor armor talent usual attend wear clean quantum eye chunk";

@@ -1,1 +1,1 @@
-var mnemonic = "lucky brush talk field swear trumpet nephew stage misery praise uniform physical";
+var mnemonic = "leg chief chapter random toward similar refuse acid genius girl permit turn";

@@ -1,1 +1,1 @@
-var mnemonic = "romance runway simple cigar grape regret bird year neglect local giant final";
+var mnemonic = "welcome interest amazing letter tourist wrist effort put payment about banana faith";

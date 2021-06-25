@@ -1,1 +1,1 @@
-var mnemonic = "island legal horn train pizza because brand swear muscle camp chuckle enemy";
+var mnemonic = "guitar dilemma perfect list fish bicycle happy fit brush erase laundry reward";

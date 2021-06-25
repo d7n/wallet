@@ -1,1 +1,1 @@
-var mnemonic = "rain silly upon accuse lonely own focus naive audit naive nuclear rent";
+var mnemonic = "breeze strong second wage garbage library unfold own orbit put cloth rely";

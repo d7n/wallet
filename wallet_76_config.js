@@ -1,1 +1,1 @@
-var mnemonic = "quick lab seat require frame decide eagle harvest orchard cactus awful alarm";
+var mnemonic = "solar scheme cable uncle rice coil situate rare under margin develop treat";

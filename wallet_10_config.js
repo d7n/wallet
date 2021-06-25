@@ -1,1 +1,1 @@
-var mnemonic = "clump fan gesture tattoo scene stairs project neglect marriage nerve amount fluid";
+var mnemonic = "near diet rotate island transfer kite violin route garment prison wave give";

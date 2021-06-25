@@ -1,1 +1,1 @@
-var mnemonic = "job old tomato brisk mouse doctor fiber faith position glance beach please";
+var mnemonic = "across lyrics enough wire dynamic scrap throw click weather provide mail super";

@@ -1,1 +1,1 @@
-var mnemonic = "amazing spend trigger mushroom wasp squeeze key soap patrol tiger alpha collect";
+var mnemonic = "film badge siren select lunch cake hungry sting mushroom trophy inspire team";

@@ -1,1 +1,1 @@
-var mnemonic = "roast orient display embody cigar cause cook require letter alert grow jeans";
+var mnemonic = "thing genuine deny noodle best naive credit marriage seed update six half";

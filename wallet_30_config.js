@@ -1,1 +1,1 @@
-var mnemonic = "letter hen file slide again drip inch aware trust market tooth business";
+var mnemonic = "deputy lake blur heavy awful ski merit reject naive captain such apology";

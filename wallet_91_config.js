@@ -1,1 +1,1 @@
-var mnemonic = "blood delay group giant truck message purpose reason royal thumb ice normal";
+var mnemonic = "swear survey plastic man license fury recall load velvet solution cloth file";

@@ -1,1 +1,1 @@
-var mnemonic = "atom rival meat doll fold cake town issue inch try noble forget";
+var mnemonic = "imitate knock ramp antique expire dwarf apple coil tray universe biology salt";

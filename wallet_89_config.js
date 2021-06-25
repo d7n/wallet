@@ -1,1 +1,1 @@
-var mnemonic = "story trumpet essence quote argue art police appear material soup sudden push";
+var mnemonic = "blush february crane liar aisle slot simple just nothing sense scrub short";

@@ -1,1 +1,1 @@
-var mnemonic = "lion rug comic kid corn coconut essay february promote public vivid fruit";
+var mnemonic = "agent quality include patient garage model venue differ object basket like alien";

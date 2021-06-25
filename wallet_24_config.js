@@ -1,1 +1,1 @@
-var mnemonic = "height armor word urge sword moral edge market taste key latin spray";
+var mnemonic = "hollow essence enhance banana fancy impose next advance host flock equip rally";

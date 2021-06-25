@@ -1,1 +1,1 @@
-var mnemonic = "image gas torch seed trip girl other magnet child little thumb push";
+var mnemonic = "bunker tone nice rescue monitor clay okay favorite rescue narrow bean balcony";

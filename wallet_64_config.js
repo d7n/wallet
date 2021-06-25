@@ -1,1 +1,1 @@
-var mnemonic = "small card squeeze hidden boil roast logic spike health spy damage lizard";
+var mnemonic = "enroll clock skate fault depart season start enroll pitch injury better siege";

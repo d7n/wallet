@@ -1,1 +1,1 @@
-var mnemonic = "erosion title sell canyon math glance attract drill shoulder gym vessel item";
+var mnemonic = "deal address gesture neglect artwork father magnet fossil close frown armor deposit";

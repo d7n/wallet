@@ -1,1 +1,1 @@
-var mnemonic = "hotel differ desert bitter second quote task more silk fiber cup champion";
+var mnemonic = "kangaroo asthma pass warfare oval joke analyst spoon field topic injury clutch";

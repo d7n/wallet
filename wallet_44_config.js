@@ -1,1 +1,1 @@
-var mnemonic = "century sunny foam burden shell brother prison ginger dutch junior furnace merge";
+var mnemonic = "scorpion cart void voyage hand sound fringe catalog orange pistol guide cram";

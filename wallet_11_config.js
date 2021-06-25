@@ -1,1 +1,1 @@
-var mnemonic = "web sauce scan program caught critic unfair wedding north raven opinion twist";
+var mnemonic = "border tomato similar judge weasel region certain like rent spike index cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "drum story arrow enhance distance leader tuna vapor advance clown file neutral";
+var mnemonic = "season sun dash north sauce patch earn peace jar confirm diary grocery";

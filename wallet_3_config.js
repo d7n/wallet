@@ -1,1 +1,1 @@
-var mnemonic = "cute marine bullet deal heart frame addict blossom imitate lucky hammer purpose";
+var mnemonic = "sun fetch main learn smooth remind region dinner sense fee aerobic diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "rapid enact pudding fly tenant cradle differ empty index paper sport render";
+var mnemonic = "arena party hospital shed doctor reason budget junk twin pigeon alcohol upper";

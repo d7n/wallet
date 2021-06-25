@@ -1,1 +1,1 @@
-var mnemonic = "donor quick marriage stairs caution climb close decorate suit side easily turn";
+var mnemonic = "insane kidney smart earth mammal still firm scissors together mail entire inner";

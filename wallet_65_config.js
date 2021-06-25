@@ -1,1 +1,1 @@
-var mnemonic = "fuel helmet bar stool blossom wage clerk uncover slush actress buddy enough";
+var mnemonic = "language plastic trend web filter differ return escape stay truth they detect";

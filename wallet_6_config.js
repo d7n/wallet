@@ -1,1 +1,1 @@
-var mnemonic = "indoor question sphere arctic expand enlist image soda chase display dizzy panther";
+var mnemonic = "taste item unlock liquid divorce robust company promote armor useful myself hobby";

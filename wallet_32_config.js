@@ -1,1 +1,1 @@
-var mnemonic = "dance pig pool record taxi acoustic senior gather summer enroll side strong";
+var mnemonic = "naive congress advance hole hour honey cup danger brain never chair company";

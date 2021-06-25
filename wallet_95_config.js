@@ -1,1 +1,1 @@
-var mnemonic = "hub dolphin solution bargain airport text elite venue apple agree timber chef";
+var mnemonic = "own theory legal float mirror trap gravity pencil recycle clip gate person";

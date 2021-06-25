@@ -1,1 +1,1 @@
-var mnemonic = "assist melt mother common damp orange critic spray parrot physical grape garden";
+var mnemonic = "corn ozone merry figure now negative limb crush arrange win bubble dirt";

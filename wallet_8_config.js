@@ -1,1 +1,1 @@
-var mnemonic = "capital scan above nurse sample frost sphere gesture pigeon pilot peanut retreat";
+var mnemonic = "drop nasty member sand hobby uniform helmet crop myself flavor shoulder type";

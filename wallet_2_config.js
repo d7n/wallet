@@ -1,1 +1,1 @@
-var mnemonic = "amateur universe segment crystal assume glimpse penalty clerk deputy obey fade vendor";
+var mnemonic = "mushroom improve unfair consider annual barely cycle art road column blur normal";

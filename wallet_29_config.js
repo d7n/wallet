@@ -1,1 +1,1 @@
-var mnemonic = "video dice foam merge bomb spatial output amateur forget vivid what crystal";
+var mnemonic = "stumble position stumble sister debris solution warrior equal tilt stumble vapor carry";

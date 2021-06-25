@@ -1,1 +1,1 @@
-var mnemonic = "foot sustain attitude net infant apart alter reunion guilt carry chair square";
+var mnemonic = "elder upset adjust position faint enhance tank dry lunch shove remove garage";

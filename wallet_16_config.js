@@ -1,1 +1,1 @@
-var mnemonic = "major evoke laundry spoon empower swim raccoon media attract trophy sense fluid";
+var mnemonic = "scrub need universe series nut shield culture visa clown replace weasel ketchup";

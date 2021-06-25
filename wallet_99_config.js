@@ -1,1 +1,1 @@
-var mnemonic = "owner minimum alien question indoor trouble second soccer upgrade brain rival clean";
+var mnemonic = "various battle length film rice balcony cricket suffer destroy vehicle remain soon";

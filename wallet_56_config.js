@@ -1,1 +1,1 @@
-var mnemonic = "glass flush never elite dignity mean pipe hospital dignity pigeon install tuna";
+var mnemonic = "nothing crane vintage predict survey object culture length burger cute wear bar";

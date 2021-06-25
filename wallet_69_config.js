@@ -1,1 +1,1 @@
-var mnemonic = "attract bonus mixture mobile glory thing creek suspect sting slab exchange cram";
+var mnemonic = "occur pause spike group biology upper alone inch fish orchard ancient maximum";

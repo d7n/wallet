@@ -1,1 +1,1 @@
-var mnemonic = "tattoo daughter balcony win improve imitate fringe crystal craft afford loud permit";
+var mnemonic = "silly snack catch follow chaos ready drop sell river used beyond exit";

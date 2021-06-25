@@ -1,1 +1,1 @@
-var mnemonic = "vanish cook drip oven certain giggle blossom ozone melody control enlist benefit";
+var mnemonic = "actual truck roof swim shuffle kick great garlic embark bitter volcano item";

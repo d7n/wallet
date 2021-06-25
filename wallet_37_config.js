@@ -1,1 +1,1 @@
-var mnemonic = "index permit void gloom congress oppose robust artist domain crane pig trophy";
+var mnemonic = "sell field doctor radar impose jewel multiply stand net guess wool twenty";

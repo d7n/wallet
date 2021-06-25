@@ -1,1 +1,1 @@
-var mnemonic = "dynamic decline taxi yard cage jump outside ability process outer neutral picture";
+var mnemonic = "siren game panther chimney among chicken stadium credit pizza laugh polar romance";

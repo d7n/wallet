@@ -1,1 +1,1 @@
-var mnemonic = "law access snack bid mention train wasp spin knock novel coral purpose";
+var mnemonic = "evolve reunion gain drive measure erase federal spin catalog air fault harsh";

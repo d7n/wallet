@@ -1,1 +1,1 @@
-var mnemonic = "false cross wheat focus scrap envelope game major venue net cart minor";
+var mnemonic = "ahead zero cousin iron breeze model render quarter blood situate frown kit";

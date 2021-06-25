@@ -1,1 +1,1 @@
-var mnemonic = "hazard title abstract hurt sell wage ancient lazy steak dance swarm float";
+var mnemonic = "shadow museum dynamic matrix index song basic novel wear skin keen couch";

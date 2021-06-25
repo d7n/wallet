@@ -1,1 +1,1 @@
-var mnemonic = "random chimney begin ability emerge chat turtle history explain normal album anchor";
+var mnemonic = "grain area scare manage usage same total beyond recipe chest sound process";

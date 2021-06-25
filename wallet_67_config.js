@@ -1,1 +1,1 @@
-var mnemonic = "style item number execute deal radar side antique leave upper magic alpha";
+var mnemonic = "huge loyal rude rifle gasp trigger horn pig reform van news wet";

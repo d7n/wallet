@@ -1,1 +1,1 @@
-var mnemonic = "artefact desk object area dose moment hover process praise frame sheriff educate";
+var mnemonic = "injury ignore true aware want loud ghost boat weapon cheese tape moment";

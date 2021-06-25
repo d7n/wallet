@@ -1,1 +1,1 @@
-var mnemonic = "reopen deliver leg soccer evil barrel advance kind catalog puppy tired laptop";
+var mnemonic = "wrist labor palm damage oval domain help actual youth theory copy aerobic";

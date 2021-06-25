@@ -1,1 +1,1 @@
-var mnemonic = "toe inside lend match coil perfect patient glide betray milk twist thank";
+var mnemonic = "argue leisure weekend region okay mechanic tennis control chicken game caught boy";

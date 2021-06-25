@@ -1,1 +1,1 @@
-var mnemonic = "ticket shift electric envelope assist exile basic hurdle note since muffin camera";
+var mnemonic = "joy volume zero track code comfort dynamic true provide monkey equal gate";

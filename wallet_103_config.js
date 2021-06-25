@@ -1,1 +1,1 @@
-var mnemonic = "october crazy cake glove put scrub misery east cricket dog fragile moment";
+var mnemonic = "common clap valley mule foam cherry road inch century track immune february";

@@ -1,1 +1,1 @@
-var mnemonic = "subject perfect paddle bag fade add glad amateur disease mixed erosion latin";
+var mnemonic = "decline roast wrestle spray sponsor holiday thing order rent true rose salad";

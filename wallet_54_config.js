@@ -1,1 +1,1 @@
-var mnemonic = "pitch pen state pool put brisk blast myth evil tenant member car";
+var mnemonic = "select deny faith enrich humble still flock limb blush emerge solve aspect";

@@ -1,1 +1,1 @@
-var mnemonic = "canal clarify air aerobic gun over impose pulse jaguar connect cash farm";
+var mnemonic = "satisfy session bottom finger photo reunion label assist weather resist volcano endless";
