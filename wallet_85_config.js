@@ -1,1 +1,1 @@
-var mnemonic = "machine cigar extra local toddler loop expose pen region sunset brain harvest";
+var mnemonic = "model net craft cricket fox sauce rookie human dutch slice evidence print";

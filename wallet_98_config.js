@@ -1,1 +1,1 @@
-var mnemonic = "bike second quality little vote afford era office width august enforce direct";
+var mnemonic = "face argue fiber march useless tissue voice quantum claim giant six alien";

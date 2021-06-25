@@ -1,1 +1,1 @@
-var mnemonic = "range heavy fragile hurt gospel rhythm news nerve spider settle hope timber";
+var mnemonic = "fiscal system flame box reflect alarm gadget syrup spike execute zebra express";

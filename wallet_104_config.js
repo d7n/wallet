@@ -1,1 +1,1 @@
-var mnemonic = "forum mystery second matter very word note resist camp damage praise awesome";
+var mnemonic = "divide ugly door size punch elephant skate prefer buzz ready combine predict";

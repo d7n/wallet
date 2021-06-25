@@ -1,1 +1,1 @@
-var mnemonic = "zone idle plastic vapor slow refuse enroll only ancient peace grunt lift";
+var mnemonic = "color script push student mind funny rug episode hint diary style input";

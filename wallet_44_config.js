@@ -1,1 +1,1 @@
-var mnemonic = "noble essay open absorb amused loop critic attitude wave ridge tag forest";
+var mnemonic = "indicate exclude scare suggest seat humble result acquire ramp jazz october sustain";

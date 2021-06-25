@@ -1,1 +1,1 @@
-var mnemonic = "cool today ignore curious cart front excite mushroom people invite sentence behave";
+var mnemonic = "endorse sadness stadium unfold huge march there trouble loan stairs near video";

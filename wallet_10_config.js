@@ -1,1 +1,1 @@
-var mnemonic = "color item glove real object riot kit pride jazz record behave fold";
+var mnemonic = "dirt crystal slender market cactus firm jaguar field grief thunder price virtual";

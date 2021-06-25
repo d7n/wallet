@@ -1,1 +1,1 @@
-var mnemonic = "pull tiger ozone peanut dial fruit mask lock impose pole struggle note";
+var mnemonic = "fork special change permit clinic casual concert eight spy trophy witness surge";

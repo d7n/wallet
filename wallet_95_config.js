@@ -1,1 +1,1 @@
-var mnemonic = "charge curious van chuckle member baby place you miracle gather penalty satisfy";
+var mnemonic = "pelican doctor food secret bus soldier jewel elephant plastic prize exile account";

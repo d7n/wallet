@@ -1,1 +1,1 @@
-var mnemonic = "dumb stage seminar join tiny tip nasty luxury shadow plate assist tomorrow";
+var mnemonic = "crisp monitor scan base shuffle fortune hard better join hawk street shy";

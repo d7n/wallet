@@ -1,1 +1,1 @@
-var mnemonic = "tape hundred jacket enact ancient tissue sting charge range tilt escape behind";
+var mnemonic = "hen valid exchange also grow educate boy wrestle pear sustain error buffalo";

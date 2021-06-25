@@ -1,1 +1,1 @@
-var mnemonic = "vacuum inherit fatigue enroll boring tourist random other dragon sword drive grant";
+var mnemonic = "defy total split rhythm maple giant neither daring banana absurd stick minimum";

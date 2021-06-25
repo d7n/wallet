@@ -1,1 +1,1 @@
-var mnemonic = "identify toss settle case insect old cactus keen between wave turkey wrong";
+var mnemonic = "uncover youth alley vehicle zebra similar public fiber moral start long blush";

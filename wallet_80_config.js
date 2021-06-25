@@ -1,1 +1,1 @@
-var mnemonic = "finger assault ability spray caught vague aunt angle meat walnut since basic";
+var mnemonic = "talent fee science eagle lumber unaware song embody large holiday egg pond";

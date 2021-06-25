@@ -1,1 +1,1 @@
-var mnemonic = "then road nurse phone mountain negative rose wool dentist equip short myself";
+var mnemonic = "hazard column useful ugly school fence october veteran smile explain depend angry";

@@ -1,1 +1,1 @@
-var mnemonic = "cupboard noodle noise payment fade oxygen artefact garment pill drop elbow sing";
+var mnemonic = "lesson ignore power hollow yellow stick heavy plate protect permit catch grunt";

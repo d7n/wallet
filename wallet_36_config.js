@@ -1,1 +1,1 @@
-var mnemonic = "wrap rely crane clerk photo survey insane reject stamp fly tragic poet";
+var mnemonic = "weekend slam tired immune immense steak cycle narrow adjust short eagle corn";

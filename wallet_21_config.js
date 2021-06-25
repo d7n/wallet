@@ -1,1 +1,1 @@
-var mnemonic = "script spot general enemy vacuum buyer social era defense depend rib useful";
+var mnemonic = "type venue desert advice excuse rice public horse dress february resist vapor";

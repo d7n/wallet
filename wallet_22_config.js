@@ -1,1 +1,1 @@
-var mnemonic = "spatial gas expose swim protect spray eyebrow gain first riot movie ripple";
+var mnemonic = "tank rule click humble left crane stone rule more price elite banner";

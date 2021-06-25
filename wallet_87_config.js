@@ -1,1 +1,1 @@
-var mnemonic = "anchor gown much corn silent coffee room output nose ability unable vanish";
+var mnemonic = "noble alpha miss wire ignore patch tobacco street dumb wagon deer skirt";

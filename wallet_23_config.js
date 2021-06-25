@@ -1,1 +1,1 @@
-var mnemonic = "broken hold tilt idea tackle napkin rifle monkey garlic clown arch chicken";
+var mnemonic = "shoulder often resource crawl cause learn junk menu toward safe return argue";

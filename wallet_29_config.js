@@ -1,1 +1,1 @@
-var mnemonic = "wasp top warrior steak crystal bracket phone arrest feel friend clarify tribe";
+var mnemonic = "deal rose citizen unhappy stuff cream trigger hard chaos round trigger crop";

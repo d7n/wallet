@@ -1,1 +1,1 @@
-var mnemonic = "boost zebra season source spider fruit modify innocent metal talent pepper cotton";
+var mnemonic = "alarm dose bless fluid wolf tongue monkey speed rich lock gaze spin";

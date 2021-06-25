@@ -1,1 +1,1 @@
-var mnemonic = "observe happy pear task today age frog harbor abuse tray muscle swamp";
+var mnemonic = "approve awesome pear car sausage enforce carbon since notice shrimp castle alert";

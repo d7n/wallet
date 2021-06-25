@@ -1,1 +1,1 @@
-var mnemonic = "suggest peasant lava grass piano tent above trend puppy device program draw";
+var mnemonic = "onion island comfort start auction infant bullet worth shrimp join admit fine";

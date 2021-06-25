@@ -1,1 +1,1 @@
-var mnemonic = "dune eager hand swap aim wash amazing similar spell boat gain sense";
+var mnemonic = "engine pencil cover stool trigger diet cable return ankle dish leisure heart";

@@ -1,1 +1,1 @@
-var mnemonic = "neck lamp arrow crush soul chat meadow eyebrow add income assist dumb";
+var mnemonic = "birth dinner swap absorb fuel artefact lucky amazing diagram deer more behind";

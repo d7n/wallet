@@ -1,1 +1,1 @@
-var mnemonic = "view reward process grunt wash leisure scan reveal rate clerk recycle cabin";
+var mnemonic = "ozone what knock ordinary session push mixed spoil calm edit step rescue";

@@ -1,1 +1,1 @@
-var mnemonic = "black fatal warfare fold tiny arrive sheriff frog elephant melt mandate control";
+var mnemonic = "duty enjoy option arch hurt eight during fog plunge yellow quit flag";

@@ -1,1 +1,1 @@
-var mnemonic = "divide float spike staff crater camp skirt merit lizard front coconut deer";
+var mnemonic = "unique true pink require panel cruel assault rescue palace fit liquid frequent";

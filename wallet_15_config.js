@@ -1,1 +1,1 @@
-var mnemonic = "outside popular aspect mom tissue eagle bottom reform pledge pull island sad";
+var mnemonic = "liquid idea reduce catalog approve mercy guitar flush near danger three flower";

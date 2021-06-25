@@ -1,1 +1,1 @@
-var mnemonic = "error outside original mistake burst gauge silver main elephant garment range admit";
+var mnemonic = "common birth frame document ladder legend lava chase direct license add great";

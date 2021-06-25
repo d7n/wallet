@@ -1,1 +1,1 @@
-var mnemonic = "weather either exit host fork random canoe smoke blanket else resource obtain";
+var mnemonic = "initial divert weather practice endorse toward tilt steak carry job give foam";

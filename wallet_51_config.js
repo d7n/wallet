@@ -1,1 +1,1 @@
-var mnemonic = "olympic since card reflect loyal post bleak main pig apology nice night";
+var mnemonic = "exhaust person pull drastic profit snap total wing execute clinic hole glare";

@@ -1,1 +1,1 @@
-var mnemonic = "retire panic gauge school twin kind sample must network quiz accuse egg";
+var mnemonic = "notable panic umbrella raven dune circle strong cactus valve frequent analyst cable";

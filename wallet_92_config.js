@@ -1,1 +1,1 @@
-var mnemonic = "project cheap nephew build lion eager orient merry mango rice dilemma mixture";
+var mnemonic = "exit size glare pretty faint open soap evolve eight course width open";

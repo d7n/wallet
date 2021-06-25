@@ -1,1 +1,1 @@
-var mnemonic = "cook become comic upper color east trash essay typical script item mandate";
+var mnemonic = "patrol jelly regular acid maid vessel valley genuine subway usual primary detect";

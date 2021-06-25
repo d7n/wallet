@@ -1,1 +1,1 @@
-var mnemonic = "raccoon major receive weekend theme reform sentence labor business require access mixed";
+var mnemonic = "front code chaos day mail benefit mushroom cable violin mansion crime skin";

@@ -1,1 +1,1 @@
-var mnemonic = "outer practice note smooth execute thumb food symbol yard helmet reopen dinosaur";
+var mnemonic = "use unique rubber can pause host suit whale mask ozone prison reflect";

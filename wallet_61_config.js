@@ -1,1 +1,1 @@
-var mnemonic = "embark magic cigar february panel laugh success arctic radar tiny stuff satisfy";
+var mnemonic = "shrimp monkey child piano memory obey point craft balcony capital depend quote";

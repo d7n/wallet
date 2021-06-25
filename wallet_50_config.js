@@ -1,1 +1,1 @@
-var mnemonic = "repeat orchard boost senior galaxy easily axis laugh mobile hamster core small";
+var mnemonic = "drama multiply riot owner wealth fancy choose spring sugar april diagram heavy";

@@ -1,1 +1,1 @@
-var mnemonic = "insane tackle ship skill wet essay enforce chair voice other able purse";
+var mnemonic = "fold post video trap lava sure impact foam bind click much aspect";

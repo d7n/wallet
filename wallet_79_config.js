@@ -1,1 +1,1 @@
-var mnemonic = "churn media salmon math net exhaust coast notable picture alley scheme salad";
+var mnemonic = "siege labor dove orient flat penalty virus owner main prefer rhythm cousin";

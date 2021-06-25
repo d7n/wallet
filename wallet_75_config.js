@@ -1,1 +1,1 @@
-var mnemonic = "rich crew brand canoe left float sign envelope chicken hen turkey filter";
+var mnemonic = "post city toss typical kick rate hotel below one stadium damp beef";

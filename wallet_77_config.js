@@ -1,1 +1,1 @@
-var mnemonic = "gym what wheat divide face tongue gap tissue exhaust iron target say";
+var mnemonic = "oyster excite airport dinosaur length sort pledge episode mandate air add absorb";

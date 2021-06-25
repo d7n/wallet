@@ -1,1 +1,1 @@
-var mnemonic = "traffic visit food wrap attitude lounge fly athlete strategy daring version general";
+var mnemonic = "acid elegant boost moment parade blush tilt asset current loop boy mandate";

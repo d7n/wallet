@@ -1,1 +1,1 @@
-var mnemonic = "detail theme typical inner laundry exotic head vacant own boy remember boring";
+var mnemonic = "north proof core lobster merge side ugly this project picture silent master";

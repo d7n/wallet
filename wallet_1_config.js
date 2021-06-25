@@ -1,1 +1,1 @@
-var mnemonic = "secret mask utility ride script brown divorce math open mercy broccoli vanish";
+var mnemonic = "canyon animal unveil poem tide borrow bacon spray toss initial robot punch";

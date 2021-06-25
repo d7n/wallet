@@ -1,1 +1,1 @@
-var mnemonic = "glance guitar bike idea soda link profit ability cat again impose great";
+var mnemonic = "west monkey deer amused slender payment sudden diamond nut advice rubber fan";

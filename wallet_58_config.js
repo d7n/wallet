@@ -1,1 +1,1 @@
-var mnemonic = "area road ten shaft zoo hair useful adult lunar click stick smile";
+var mnemonic = "kidney surge front crack wish rib situate sail fantasy kick couch direct";

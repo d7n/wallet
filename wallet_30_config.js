@@ -1,1 +1,1 @@
-var mnemonic = "grape female powder struggle any east autumn talk plastic enter chest over";
+var mnemonic = "hello leader kite noise until quote wait only over atom doll critic";

@@ -1,1 +1,1 @@
-var mnemonic = "way inspire chaos find buffalo theory melt question sock labor husband devote";
+var mnemonic = "use year thought ill odor wrestle explain couple buddy language radar direct";

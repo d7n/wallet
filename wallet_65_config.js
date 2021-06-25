@@ -1,1 +1,1 @@
-var mnemonic = "tongue dutch lonely boy blossom ten husband prefer junk quantum glance sword";
+var mnemonic = "anxiety now nation impulse tide kangaroo tourist during blue rocket shrimp blossom";

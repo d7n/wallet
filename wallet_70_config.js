@@ -1,1 +1,1 @@
-var mnemonic = "army pull fade egg angry unique welcome exit soon celery diagram mother";
+var mnemonic = "lesson slim room vault three chair among garment dwarf legend mesh adult";

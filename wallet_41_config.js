@@ -1,1 +1,1 @@
-var mnemonic = "vault ancient answer cement error shuffle medal leisure neck crawl language behind";
+var mnemonic = "gesture monster one cigar attack water capital section decrease lonely jewel wet";

@@ -1,1 +1,1 @@
-var mnemonic = "arrange forum catalog recycle peace shoot wasp peasant trumpet tilt horse electric";
+var mnemonic = "hedgehog reason thumb vibrant figure network magic broom acquire focus wait industry";

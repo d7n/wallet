@@ -1,1 +1,1 @@
-var mnemonic = "focus gun glow runway search hat crystal keep enrich royal arena hurdle";
+var mnemonic = "antique gravity electric shock warm trick exotic ignore repeat nerve debate body";

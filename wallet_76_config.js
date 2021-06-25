@@ -1,1 +1,1 @@
-var mnemonic = "modify voyage baby jeans lock utility fault joke favorite man banana symptom";
+var mnemonic = "enact rigid shift key nature either fabric betray offer loyal empower pioneer";

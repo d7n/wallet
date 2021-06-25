@@ -1,1 +1,1 @@
-var mnemonic = "claim alter lesson seminar ranch neck balcony artefact trip vanish endless hunt";
+var mnemonic = "elder scale talk april among pool cinnamon buddy barrel bronze divide extra";

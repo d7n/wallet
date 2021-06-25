@@ -1,1 +1,1 @@
-var mnemonic = "shed own kiwi wolf gun rack emotion trigger topic syrup unable toss";
+var mnemonic = "tooth list clock fitness doctor metal blade badge filter asthma tortoise spike";

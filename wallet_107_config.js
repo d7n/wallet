@@ -1,1 +1,1 @@
-var mnemonic = "toward giant salon section hero gap bonus suggest stumble debate ride wasp";
+var mnemonic = "tennis raw upon book know baby save stage round away draw filter";

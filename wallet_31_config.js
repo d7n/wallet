@@ -1,1 +1,1 @@
-var mnemonic = "cart hockey gravity midnight rubber dilemma chef lumber rude mix frown sleep";
+var mnemonic = "safe neutral wasp position pottery magic shoot select quick shop cute october";

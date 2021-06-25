@@ -1,1 +1,1 @@
-var mnemonic = "pitch blade globe hammer weather garbage assist sock pave winter gasp fiber";
+var mnemonic = "lonely umbrella cook provide physical ranch quote sad urban upon coil wise";

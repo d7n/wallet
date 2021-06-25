@@ -1,1 +1,1 @@
-var mnemonic = "work embrace rude sorry easy canvas diet menu system eyebrow actress worry";
+var mnemonic = "estate actual daring scrub dose october knock message catch curtain tumble math";

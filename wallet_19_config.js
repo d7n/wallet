@@ -1,1 +1,1 @@
-var mnemonic = "random moment prevent chief fiction question maple comic provide ordinary swear easily";
+var mnemonic = "dynamic spring story tumble quality twice sudden food virtual library lyrics dutch";

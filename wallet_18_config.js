@@ -1,1 +1,1 @@
-var mnemonic = "nice giggle lawn deer great august filter move supreme venture battle daughter";
+var mnemonic = "avoid distance solar flash actual half artefact initial glass hobby oyster logic";

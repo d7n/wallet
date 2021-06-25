@@ -1,1 +1,1 @@
-var mnemonic = "omit submit group local soap vault seminar movie buyer riot brave supply";
+var mnemonic = "explain stove ensure damage moral affair embrace neutral sauce woman laugh scorpion";

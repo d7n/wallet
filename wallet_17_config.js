@@ -1,1 +1,1 @@
-var mnemonic = "shift dust park cliff ceiling happy canoe now session plastic junk angry";
+var mnemonic = "error other patch arrest silk good begin lock hundred item custom puzzle";

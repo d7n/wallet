@@ -1,1 +1,1 @@
-var mnemonic = "give faculty castle wing illness tray under spirit window domain upon orient";
+var mnemonic = "excuse film rocket evidence soft human thing shaft dolphin slim hunt bracket";

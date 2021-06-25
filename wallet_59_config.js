@@ -1,1 +1,1 @@
-var mnemonic = "super chest chaos general belt loop reveal biology hockey panther degree excite";
+var mnemonic = "alarm rice sample nuclear yellow idea various unfair suggest ramp twelve rural";

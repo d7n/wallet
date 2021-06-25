@@ -1,1 +1,1 @@
-var mnemonic = "purse bid arrest eternal derive company welcome predict obvious pause design height";
+var mnemonic = "analyst bullet arrive table invest day dad deputy clutch black ship dinosaur";

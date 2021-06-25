@@ -1,1 +1,1 @@
-var mnemonic = "radar bonus equal fossil breeze foot feature iron exile orphan monitor gift";
+var mnemonic = "shove movie welcome slush visit index derive gym network debate burst boss";

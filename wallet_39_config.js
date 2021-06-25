@@ -1,1 +1,1 @@
-var mnemonic = "course accuse garage town cricket because visa blood frozen comic memory you";
+var mnemonic = "shallow garment intact know rate gas valve pole deal pupil buyer such";

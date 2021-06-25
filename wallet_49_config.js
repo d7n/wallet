@@ -1,1 +1,1 @@
-var mnemonic = "combine wall dutch guess adult game toy please drastic belt layer size";
+var mnemonic = "jelly drive gap rebel profit survey acquire spoon able merge dry donor";

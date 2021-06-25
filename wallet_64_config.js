@@ -1,1 +1,1 @@
-var mnemonic = "salt fame thing unique idea nuclear myth layer twenty divert field tag";
+var mnemonic = "worry armor same verify quantum humor license fiction differ melt sheriff estate";

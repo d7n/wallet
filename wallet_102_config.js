@@ -1,1 +1,1 @@
-var mnemonic = "include core normal ring hub alone search miss monkey pencil allow insect";
+var mnemonic = "nerve enemy sound north retire random burden enjoy can useful confirm diesel";

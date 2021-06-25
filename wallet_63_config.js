@@ -1,1 +1,1 @@
-var mnemonic = "insane fan safe connect staff diagram zoo noble display battle fire anchor";
+var mnemonic = "forest palm wealth second impose half tape choice belt palace appear puppy";

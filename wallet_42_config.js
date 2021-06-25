@@ -1,1 +1,1 @@
-var mnemonic = "boy fancy solid vocal broom accuse jazz position unveil nuclear cruel attitude";
+var mnemonic = "vapor reveal kick assume galaxy depth coral carbon shaft giant adapt write";

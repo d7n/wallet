@@ -1,1 +1,1 @@
-var mnemonic = "jacket situate picture turkey window skull begin tower maximum sunset clean dignity";
+var mnemonic = "unknown enlist stem local skirt cage chaos bread display level nation art";

@@ -1,1 +1,1 @@
-var mnemonic = "firm chunk warm domain cricket ivory wet day van check laugh disagree";
+var mnemonic = "pause route soft original hospital woman stairs bid issue vast inside enemy";

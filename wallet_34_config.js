@@ -1,1 +1,1 @@
-var mnemonic = "drink buddy kiwi mother enemy foster six original large spider abstract decade";
+var mnemonic = "crawl payment brisk dawn topple famous fiction day filter impact pupil air";

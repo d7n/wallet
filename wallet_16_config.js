@@ -1,1 +1,1 @@
-var mnemonic = "twist trick balance pond adapt fold help reveal work leg suggest merge";
+var mnemonic = "toss odor shift lava market sell include catalog list saddle oil pizza";

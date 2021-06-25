@@ -1,1 +1,1 @@
-var mnemonic = "multiply lyrics goat crane mechanic negative seed matter prefer riot couch cigar";
+var mnemonic = "project symbol office force kind magnet original artist load civil work unknown";

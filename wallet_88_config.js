@@ -1,1 +1,1 @@
-var mnemonic = "once crunch mandate gloom scan camp donate diagram private letter blush drift";
+var mnemonic = "giraffe bitter warfare useful ethics junior unveil all cable way leader culture";

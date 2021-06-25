@@ -1,1 +1,1 @@
-var mnemonic = "spider year heart sea metal grain arrow solar stable tomato atom morning";
+var mnemonic = "skin print gap man gravity shrug stock draw celery surface hollow wheel";

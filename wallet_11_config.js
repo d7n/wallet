@@ -1,1 +1,1 @@
-var mnemonic = "shrug exchange champion business demise orphan quiz prevent flock enrich slim path";
+var mnemonic = "around few sample half armor marriage income pioneer perfect false stable march";

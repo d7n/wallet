@@ -1,1 +1,1 @@
-var mnemonic = "cattle judge copper census dash expect tank cave hurt warrior runway someone";
+var mnemonic = "leopard shop vault swarm connect alley cave mercy elder phrase silly budget";

@@ -1,1 +1,1 @@
-var mnemonic = "cloud learn rifle example mystery tired matrix online great inner region film";
+var mnemonic = "around hammer fragile notice certain pupil reward often nose satoshi improve sun";

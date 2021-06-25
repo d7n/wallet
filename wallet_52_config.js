@@ -1,1 +1,1 @@
-var mnemonic = "swear casino photo medal rifle garbage grain weird book myth laundry enhance";
+var mnemonic = "brain corn fury truck hen play right okay tag runway problem refuse";

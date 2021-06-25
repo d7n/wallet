@@ -1,1 +1,1 @@
-var mnemonic = "aisle rib autumn select share until leave under cradle must noble inmate";
+var mnemonic = "brass swamp bronze ship night test image immune uphold artwork behind program";

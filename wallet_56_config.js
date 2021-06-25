@@ -1,1 +1,1 @@
-var mnemonic = "agree clock script struggle float alter strong furnace siege step loud citizen";
+var mnemonic = "program leg position olympic input aerobic gasp squirrel child dismiss group jump";

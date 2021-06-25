@@ -1,1 +1,1 @@
-var mnemonic = "bleak slim pole post broken negative print mule virus nuclear warm update";
+var mnemonic = "cereal quote perfect language suffer idea poet plastic buzz danger skull ritual";

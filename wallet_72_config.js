@@ -1,1 +1,1 @@
-var mnemonic = "step coral quick pride meat relief burst night walnut laundry top upon";
+var mnemonic = "swim party brother edge crystal now flee orchard fossil orchard claim gun";

@@ -1,1 +1,1 @@
-var mnemonic = "skin essay mother actress either position source gown dress expand fiction chef";
+var mnemonic = "globe motion leg filter track limb trip waste crazy differ stomach hill";

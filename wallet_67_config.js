@@ -1,1 +1,1 @@
-var mnemonic = "that feature excess crack example seed nature solar tilt float sort volume";
+var mnemonic = "dream into close stick soldier country because artefact cricket silly roof eyebrow";

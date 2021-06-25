@@ -1,1 +1,1 @@
-var mnemonic = "fox dolphin raccoon risk scale amused three retire kitchen pilot food unknown";
+var mnemonic = "check message love pigeon render warrior soft abuse supreme describe first expect";
