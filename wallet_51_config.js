@@ -1,1 +1,1 @@
-var mnemonic = "foam toy athlete north beyond estate wear region bone million title marble";
+var mnemonic = "derive slight account ivory inmate empower grief resemble cream equal pet steel";

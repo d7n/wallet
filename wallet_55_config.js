@@ -1,1 +1,1 @@
-var mnemonic = "arrange whip arena long erupt cheap since penalty ski stable effort leg";
+var mnemonic = "bring wheel poet attend loud alcohol love forest cloud grab since basket";

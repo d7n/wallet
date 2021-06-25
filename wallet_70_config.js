@@ -1,1 +1,1 @@
-var mnemonic = "lend garment apology item help hobby organ grass auction injury ecology eight";
+var mnemonic = "job issue dumb weather engine retreat frequent assist then torch okay grant";

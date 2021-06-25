@@ -1,1 +1,1 @@
-var mnemonic = "seven section any fine drip spy lecture equip beef century below spoon";
+var mnemonic = "design affair cargo cross input prepare person wait armor program symptom casual";

@@ -1,1 +1,1 @@
-var mnemonic = "test north crew match economy slice uncle segment fragile surround topic distance";
+var mnemonic = "boring business under kiwi like labor congress hurdle burger busy security drink";

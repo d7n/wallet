@@ -1,1 +1,1 @@
-var mnemonic = "slim fog clown health decorate carry bounce glass roast sustain point legend";
+var mnemonic = "entry trick edge stock side rifle unfair unfold quote unfair vibrant moral";

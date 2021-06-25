@@ -1,1 +1,1 @@
-var mnemonic = "before test theme bicycle save dolphin inject vague problem timber velvet gas";
+var mnemonic = "poverty tiger reform eager evoke bicycle chapter soda silver benefit hamster spirit";

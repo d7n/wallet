@@ -1,1 +1,1 @@
-var mnemonic = "deer scan permit piece rice joy drive riot thunder apology virus side";
+var mnemonic = "helmet dwarf define motor boss kind verify panic nuclear better total elegant";

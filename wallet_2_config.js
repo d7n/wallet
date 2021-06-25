@@ -1,1 +1,1 @@
-var mnemonic = "ill mountain prosper rely velvet spice display combine tuna economy unfold scout";
+var mnemonic = "concert crumble coffee dentist general joy usual baby arrive crew wise opera";

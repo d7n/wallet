@@ -1,1 +1,1 @@
-var mnemonic = "afford verb illegal load pool office kite battle minor skill profit prosper";
+var mnemonic = "small armor cricket wisdom eight climb train scorpion ginger diet latin remove";

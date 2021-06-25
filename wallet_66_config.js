@@ -1,1 +1,1 @@
-var mnemonic = "denial child warm ski hurry imitate business shine close ability forward remember";
+var mnemonic = "then flame ranch under rely adjust wrestle collect glance spot glue soft";

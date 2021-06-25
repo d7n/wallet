@@ -1,1 +1,1 @@
-var mnemonic = "mixed reward young plunge twice inspire ethics gate observe wash mesh swamp";
+var mnemonic = "fury custom organ motor office letter approve banner awkward between educate shaft";

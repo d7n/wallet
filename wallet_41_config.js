@@ -1,1 +1,1 @@
-var mnemonic = "immense wasp across throw flavor clock wrist manage bread awkward inform arena";
+var mnemonic = "tuna menu day hat audit perfect pilot hockey brief street adapt ethics";

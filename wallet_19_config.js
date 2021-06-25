@@ -1,1 +1,1 @@
-var mnemonic = "reward crater melt hungry spoil congress fiction pilot slim alert eyebrow clock";
+var mnemonic = "repair embrace sorry couch father wool limit snack gown trend burger fog";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket merit youth mirror lucky chuckle firm example stumble ability someone oven";
+var mnemonic = "fluid rose team list artwork car casino ancient first thumb test speak";

@@ -1,1 +1,1 @@
-var mnemonic = "south mask surprise letter sphere toddler fence town any hawk lion alpha";
+var mnemonic = "diary expire shed cable word cinnamon crop bamboo turkey vague increase paddle";

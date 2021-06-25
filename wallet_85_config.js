@@ -1,1 +1,1 @@
-var mnemonic = "gossip shoulder history spot believe speak annual lobster magnet desert social title";
+var mnemonic = "knee middle swift ball place canvas fresh ocean public advance pattern random";

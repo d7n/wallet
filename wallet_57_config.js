@@ -1,1 +1,1 @@
-var mnemonic = "glue carry blossom situate vibrant enlist day love patch angry immense fever";
+var mnemonic = "good tiny chicken network arrange room spoil hybrid pattern soul industry robust";

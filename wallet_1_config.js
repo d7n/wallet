@@ -1,1 +1,1 @@
-var mnemonic = "invest fame wagon orbit cook hello suit any measure object enemy cushion";
+var mnemonic = "rely ski market forum valley crouch grunt apple nasty opera siren pledge";

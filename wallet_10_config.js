@@ -1,1 +1,1 @@
-var mnemonic = "wait roof crush apple very sugar key since picnic faint rule depend";
+var mnemonic = "aisle bright layer champion pair village chest judge motion title canal barrel";

@@ -1,1 +1,1 @@
-var mnemonic = "expose spy tuna shoe pyramid room use dial common tobacco wrist crew";
+var mnemonic = "current dismiss people element cave trophy mesh country agent angry better upper";

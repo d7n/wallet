@@ -1,1 +1,1 @@
-var mnemonic = "aerobic cry afraid position thumb brush master bargain tomato dial siege pyramid";
+var mnemonic = "panic belt treat vanish put own female damage inside earn ankle same";

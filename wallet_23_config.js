@@ -1,1 +1,1 @@
-var mnemonic = "raise deposit polar radio snake minor kitchen merge crunch accuse frame remember";
+var mnemonic = "predict knife able off aerobic fossil avocado please collect maze antique oyster";

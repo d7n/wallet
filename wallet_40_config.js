@@ -1,1 +1,1 @@
-var mnemonic = "vacuum skin squirrel dream resist book pony weasel raw expose story rely";
+var mnemonic = "shoot budget pepper patient birth ocean arrow awesome odor candy sibling whisper";

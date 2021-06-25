@@ -1,1 +1,1 @@
-var mnemonic = "poverty foot draw assault shrimp screen source punch keep embody faculty forest";
+var mnemonic = "renew female space siren video rally float song dance wear work eager";

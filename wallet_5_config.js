@@ -1,1 +1,1 @@
-var mnemonic = "crunch index street kid any much couple name giant sell into require";
+var mnemonic = "donate magnet voyage venue hat flip delay dress barely recall follow cruise";

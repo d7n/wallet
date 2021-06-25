@@ -1,1 +1,1 @@
-var mnemonic = "vague inform knock cup genius start crush portion you search elder avocado";
+var mnemonic = "keen crane grit initial abstract inform notable image cigar cushion where wide";

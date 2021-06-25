@@ -1,1 +1,1 @@
-var mnemonic = "elephant notable later sleep door relief royal stove income border race core";
+var mnemonic = "magnet fat act toss current clever melody bounce dragon split power three";

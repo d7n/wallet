@@ -1,1 +1,1 @@
-var mnemonic = "detect caution primary talent give alone kingdom myself expand over gas anxiety";
+var mnemonic = "vacuum enhance bracket story mushroom thought citizen craft neutral excite stay embody";

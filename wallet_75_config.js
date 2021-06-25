@@ -1,1 +1,1 @@
-var mnemonic = "fit hammer online tribe glove cupboard settle tiny unique web medal robust";
+var mnemonic = "brush labor card gospel forest tumble neglect noise six grant shed control";

@@ -1,1 +1,1 @@
-var mnemonic = "little mango crystal eagle flash neglect obscure tuna gain solve long fit";
+var mnemonic = "base breeze drive mirror fresh patch film frown barely end eager panda";

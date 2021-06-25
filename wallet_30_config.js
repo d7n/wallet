@@ -1,1 +1,1 @@
-var mnemonic = "payment oyster rebel hamster tree view supply solid eternal jeans usual pyramid";
+var mnemonic = "pottery panda major garbage venture palm tortoise valid genius friend capital blanket";

@@ -1,1 +1,1 @@
-var mnemonic = "lava deputy satoshi auction slide honey genuine answer wall risk party rival";
+var mnemonic = "zebra legal fitness program arrive weapon grape sister since shift ridge assist";

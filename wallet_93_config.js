@@ -1,1 +1,1 @@
-var mnemonic = "wrist artwork nuclear drum mammal vintage verify spider recall sunset cause strategy";
+var mnemonic = "broom egg have tackle major gold fruit alpha junior region stool exhibit";

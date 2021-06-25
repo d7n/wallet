@@ -1,1 +1,1 @@
-var mnemonic = "nerve upset maid fame science creek door sense pave quantum cloth antique";
+var mnemonic = "deliver settle stuff minute deny desert client increase hollow salon because cushion";

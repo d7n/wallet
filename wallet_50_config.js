@@ -1,1 +1,1 @@
-var mnemonic = "wall dune suit again couple code motion whale track antenna apology race";
+var mnemonic = "monitor curtain basic ankle media cluster good behave machine tooth refuse sail";

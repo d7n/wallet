@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo fluid bright indoor canyon fold acquire fun then buzz luxury era";
+var mnemonic = "fiber actress adult fiction sing hobby dash blade case trial brave room";

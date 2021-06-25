@@ -1,1 +1,1 @@
-var mnemonic = "guess enhance globe enlist emerge maximum average find thumb scale arrive season";
+var mnemonic = "crouch cruel road seed guess that bench duck seminar whip omit armed";

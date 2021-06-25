@@ -1,1 +1,1 @@
-var mnemonic = "rely quit seven demand stable again cabbage side welcome shoot snow embrace";
+var mnemonic = "illegal give face someone rain neglect quarter media entire liar manual autumn";

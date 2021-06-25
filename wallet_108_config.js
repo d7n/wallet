@@ -1,1 +1,1 @@
-var mnemonic = "minute catch when volume breeze rural hungry home sugar credit tourist finger";
+var mnemonic = "mad frequent recipe gaze horn ocean luggage income car smooth spawn main";

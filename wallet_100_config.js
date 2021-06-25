@@ -1,1 +1,1 @@
-var mnemonic = "clinic liquid detect welcome expire piece kitten menu spend pony sunset spatial";
+var mnemonic = "piano cute dinner shock trouble mushroom urban pyramid salon anxiety rib tired";

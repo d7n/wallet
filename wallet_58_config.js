@@ -1,1 +1,1 @@
-var mnemonic = "such inflict stool pilot core tank twenty purse genius stage slow six";
+var mnemonic = "believe stool describe border organ trouble this retire crowd rack buddy extra";

@@ -1,1 +1,1 @@
-var mnemonic = "fossil you afraid gospel damage beauty blast capital feel dutch lock brush";
+var mnemonic = "coconut sphere oxygen sick wrap security survey choice kind clock resist desk";

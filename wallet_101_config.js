@@ -1,1 +1,1 @@
-var mnemonic = "noise isolate limit brisk draft awake load hood rather pilot eagle office";
+var mnemonic = "addict affair tilt slow claim festival relax health session patrol vintage myself";

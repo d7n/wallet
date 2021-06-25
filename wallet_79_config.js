@@ -1,1 +1,1 @@
-var mnemonic = "square van furnace maze flock home photo elite spin census celery tilt";
+var mnemonic = "property thought drink advance finger device crop crop image arch library asthma";

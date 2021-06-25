@@ -1,1 +1,1 @@
-var mnemonic = "bless sound doctor shell novel double version wet beef myth merit chat";
+var mnemonic = "goose room act absurd feature alone clutch silent modify onion coin bulb";

@@ -1,1 +1,1 @@
-var mnemonic = "pill injury trip talent hat wild fold cool exit attack useful enlist";
+var mnemonic = "route lady rice arena chair one once flame correct survey champion ramp";

@@ -1,1 +1,1 @@
-var mnemonic = "onion fiber spin broom puppy atom water rule train original rain check";
+var mnemonic = "chimney tray panda disorder mule electric drama dose reveal tube blade coil";

@@ -1,1 +1,1 @@
-var mnemonic = "garlic drill rail service hamster hotel reform old vocal spider galaxy dolphin";
+var mnemonic = "tray giggle twist approve dragon symbol cliff similar vintage primary load sort";

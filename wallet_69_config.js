@@ -1,1 +1,1 @@
-var mnemonic = "allow teach purse seed catch vanish oven process engage stay mix fuel";
+var mnemonic = "meadow enhance wife script caught acoustic crucial travel label accuse donor want";

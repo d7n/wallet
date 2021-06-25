@@ -1,1 +1,1 @@
-var mnemonic = "magic agent kingdom direct buffalo elbow trouble balance whip giant carbon hurt";
+var mnemonic = "evolve dog blame master quantum error unique tray legal unusual squirrel obtain";

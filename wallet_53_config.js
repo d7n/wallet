@@ -1,1 +1,1 @@
-var mnemonic = "reunion ecology noble excess oblige solution chaos bounce reduce syrup object business";
+var mnemonic = "wage slide glide goddess swamp sister wet release absurd alcohol lyrics merit";

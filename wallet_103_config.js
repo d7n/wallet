@@ -1,1 +1,1 @@
-var mnemonic = "mercy online middle shallow wolf funny spare tube clerk excite axis foot";
+var mnemonic = "ugly common become six few menu napkin police switch sweet express fortune";

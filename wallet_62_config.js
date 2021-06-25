@@ -1,1 +1,1 @@
-var mnemonic = "plug spread elbow nice rain blind gallery team pill trade winner bring";
+var mnemonic = "mandate carry hawk cute grunt special vacant century shoulder dash fat special";

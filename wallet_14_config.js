@@ -1,1 +1,1 @@
-var mnemonic = "reform mandate car diet pumpkin nasty end humor fish immense knife marble";
+var mnemonic = "acid orbit quantum pluck away pause usage brand start wide thrive card";

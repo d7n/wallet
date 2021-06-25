@@ -1,1 +1,1 @@
-var mnemonic = "tuition engine social elephant behave base group hair mystery patient entry cash";
+var mnemonic = "column seat survey require cloud wrestle dash replace phrase gate derive excuse";

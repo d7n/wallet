@@ -1,1 +1,1 @@
-var mnemonic = "patch afraid fresh little either bean parade holiday wrestle proud sphere soap";
+var mnemonic = "cage depth machine fox spoon swim slab plate easily jacket please ill";

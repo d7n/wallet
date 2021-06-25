@@ -1,1 +1,1 @@
-var mnemonic = "vapor coconut try master sibling make fiscal similar web lion cash swarm";
+var mnemonic = "master target bicycle number cry you tank parent soldier argue cloth input";

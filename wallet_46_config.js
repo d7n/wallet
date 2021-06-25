@@ -1,1 +1,1 @@
-var mnemonic = "monster alert soldier ankle sing pitch plate shadow response violin decrease into";
+var mnemonic = "display walnut gift draw scatter session machine finger topple order exhaust tag";

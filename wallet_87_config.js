@@ -1,1 +1,1 @@
-var mnemonic = "party next vote thought frequent lens truly mad meadow unable ill explain";
+var mnemonic = "mutual step sail upon wife organ cute kind panda simple soda soda";

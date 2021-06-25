@@ -1,1 +1,1 @@
-var mnemonic = "decide segment reopen there ocean chalk above cake give distance crush move";
+var mnemonic = "destroy current account citizen will neutral public food verify ugly column lizard";

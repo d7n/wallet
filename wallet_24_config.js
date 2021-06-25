@@ -1,1 +1,1 @@
-var mnemonic = "there gun weekend rug emotion custom tornado mandate argue dawn result victory";
+var mnemonic = "result account isolate great bird rose hero ocean flag damp travel atom";

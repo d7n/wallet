@@ -1,1 +1,1 @@
-var mnemonic = "wrap apple profit retire ribbon moral rude inquiry survey quiz ranch fine";
+var mnemonic = "drastic carry start negative monkey clerk industry emotion moment device version wheat";

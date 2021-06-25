@@ -1,1 +1,1 @@
-var mnemonic = "test cruise media venue uncle square census inject strong aspect quality reward";
+var mnemonic = "rail unhappy cave unaware april knee wheel badge infant crash skill group";

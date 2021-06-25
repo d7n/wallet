@@ -1,1 +1,1 @@
-var mnemonic = "oval cradle diesel peasant orchard motion employ physical opinion crack beach ignore";
+var mnemonic = "range property birth hire grass present trouble absent valley license employ liberty";

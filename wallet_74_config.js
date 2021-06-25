@@ -1,1 +1,1 @@
-var mnemonic = "poet snow discover home render shock solution term orange fantasy situate twenty";
+var mnemonic = "vibrant direct invest hedgehog soda kidney common pipe woman matrix situate tool";

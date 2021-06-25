@@ -1,1 +1,1 @@
-var mnemonic = "lemon tuna sail awkward list pulse search drum place anchor wet steel";
+var mnemonic = "only panel cram novel wing ankle grace novel milk coconut tank solid";

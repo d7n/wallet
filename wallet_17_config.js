@@ -1,1 +1,1 @@
-var mnemonic = "cost ostrich bottom spoil path civil beef honey barely breeze drift split";
+var mnemonic = "what humor battle gospel floor giant example auto bottom stock silk silent";

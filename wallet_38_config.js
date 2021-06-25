@@ -1,1 +1,1 @@
-var mnemonic = "artist excite prize happy monitor leave moment still staff coconut daring dizzy";
+var mnemonic = "angry aerobic add design method undo wash cook pumpkin assume tube jar";

@@ -1,1 +1,1 @@
-var mnemonic = "debate filter include enroll action predict wire leisure fine theory leaf glue";
+var mnemonic = "angry economy base output door waste call thrive clump bounce fade chair";

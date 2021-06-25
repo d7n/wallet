@@ -1,1 +1,1 @@
-var mnemonic = "develop skill knee office spend mesh quit riot secret fever favorite achieve";
+var mnemonic = "dust sample furnace reveal scan misery puzzle sand mistake supreme consider focus";

@@ -1,1 +1,1 @@
-var mnemonic = "melt option first alter reform shoot cement virus focus antique fence slide";
+var mnemonic = "traffic warrior cheese holiday wear simple brain rough ice parrot arm butter";

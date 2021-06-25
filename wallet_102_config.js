@@ -1,1 +1,1 @@
-var mnemonic = "guide gather clerk home arrow exact clip coffee shaft kiss track junk";
+var mnemonic = "pretty pact shoot bulb review file insect various enact across cheap sheriff";

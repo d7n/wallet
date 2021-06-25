@@ -1,1 +1,1 @@
-var mnemonic = "tiger bird romance boring recall best indicate member system reopen fun control";
+var mnemonic = "eight unable embody project pilot evidence whale crane nature industry razor park";

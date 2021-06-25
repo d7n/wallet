@@ -1,1 +1,1 @@
-var mnemonic = "shiver diesel snake holiday bright acid oil carry april mass survey pelican";
+var mnemonic = "lemon kite enroll hope version card produce change demise paper car damp";

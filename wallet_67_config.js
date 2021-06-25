@@ -1,1 +1,1 @@
-var mnemonic = "crisp leaf defense fossil leg suffer radar nut area ankle lumber solve";
+var mnemonic = "eagle van pumpkin dolphin bind awesome mercy turkey assist close dinosaur denial";

@@ -1,1 +1,1 @@
-var mnemonic = "midnight toast gadget bag decade auction oak crisp zero pool midnight job";
+var mnemonic = "fall popular mimic direct spawn fine hurt essay just embrace blood they";

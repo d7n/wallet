@@ -1,1 +1,1 @@
-var mnemonic = "clever cart punch river coast human require almost coach become fruit doctor";
+var mnemonic = "parrot admit camp cactus border lazy hurry laundry true festival ordinary little";

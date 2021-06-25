@@ -1,1 +1,1 @@
-var mnemonic = "sentence boy silver cloth cream fringe salad square forest funny initial amount";
+var mnemonic = "offer guitar awake winter pilot churn give ginger identify tilt power boost";

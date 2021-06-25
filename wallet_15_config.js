@@ -1,1 +1,1 @@
-var mnemonic = "mirror split matrix icon post suit ancient collect cause museum exclude replace";
+var mnemonic = "clap fashion wife entry actor fire interest impose arrest wedding lock rough";

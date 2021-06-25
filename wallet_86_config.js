@@ -1,1 +1,1 @@
-var mnemonic = "behave update cherry soap session mask cage radar rookie poem ethics magnet";
+var mnemonic = "wrap kit armor again slender indicate dismiss wasp cushion diary cube sun";

@@ -1,1 +1,1 @@
-var mnemonic = "random language focus crack tilt daughter pact swing gentle object peanut height";
+var mnemonic = "smoke quality flower kite base camera style solve rose foil census cliff";

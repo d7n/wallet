@@ -1,1 +1,1 @@
-var mnemonic = "attack online violin sure furnace recycle blur sport purchase suspect cherry owner";
+var mnemonic = "snake recipe talk walk donkey trophy empty steak believe purpose below oak";

@@ -1,1 +1,1 @@
-var mnemonic = "admit obvious theme coast depend immense need february bleak choice copper moment";
+var mnemonic = "ridge hawk student limit brisk rural twin post jaguar army cost expect";

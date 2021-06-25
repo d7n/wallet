@@ -1,1 +1,1 @@
-var mnemonic = "industry beauty fetch spatial law shed retire ketchup awake enhance apple column";
+var mnemonic = "idle enact ethics board meadow teach finish adjust fine ten floor still";

@@ -1,1 +1,1 @@
-var mnemonic = "flock evoke crack slab robust medal venture brave problem afford scout slide";
+var mnemonic = "order depart digital ripple smoke fiber local bone midnight utility oppose post";

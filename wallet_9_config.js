@@ -1,1 +1,1 @@
-var mnemonic = "film maximum suspect layer sell confirm run economy cancel master brisk giraffe";
+var mnemonic = "report modify case plug situate lava promote economy tent bubble blame omit";

@@ -1,1 +1,1 @@
-var mnemonic = "fly flash oyster marine shell outside exotic review price repair spike treat";
+var mnemonic = "model yard modify donkey west opinion blue gauge glow couch juice country";

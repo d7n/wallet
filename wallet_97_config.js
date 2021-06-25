@@ -1,1 +1,1 @@
-var mnemonic = "joke disorder medal federal gossip neutral salmon defy bread ring hedgehog category";
+var mnemonic = "front ill penalty any clown attend predict weapon eye myth demand palace";

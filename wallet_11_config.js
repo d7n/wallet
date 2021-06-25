@@ -1,1 +1,1 @@
-var mnemonic = "about mosquito vehicle index young awkward real address verb ghost hospital polar";
+var mnemonic = "resist three elite digital sun debris salmon merge travel such one lab";

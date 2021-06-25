@@ -1,1 +1,1 @@
-var mnemonic = "fragile believe traffic million soup never rough song once swing off modify";
+var mnemonic = "brush item inhale voice choose senior license hunt lock sleep jaguar palace";

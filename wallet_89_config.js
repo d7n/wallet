@@ -1,1 +1,1 @@
-var mnemonic = "multiply still mix funny protect silk wait solution mimic hundred garbage sunset";
+var mnemonic = "kitten veteran gossip canoe bone spy security chalk awkward human good name";

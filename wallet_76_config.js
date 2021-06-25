@@ -1,1 +1,1 @@
-var mnemonic = "split exit vessel swim boat physical ramp error online remind process office";
+var mnemonic = "wide extend near ahead dove response robust stand awkward elevator turkey bicycle";
