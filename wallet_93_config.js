@@ -1,1 +1,1 @@
-var mnemonic = "steak reason rocket festival agree acoustic scan alarm stock artwork gold unusual";
+var mnemonic = "cool today ignore curious cart front excite mushroom people invite sentence behave";

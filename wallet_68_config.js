@@ -1,1 +1,1 @@
-var mnemonic = "caution peanut submit injury observe scare noise target escape clerk clay city";
+var mnemonic = "fox dolphin raccoon risk scale amused three retire kitchen pilot food unknown";

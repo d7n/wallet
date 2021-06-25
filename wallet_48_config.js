@@ -1,1 +1,1 @@
-var mnemonic = "glimpse alone merry noble impulse guard best fame finish skirt save behave";
+var mnemonic = "hawk slow nephew valve debris wise general baby observe pig leave demise";

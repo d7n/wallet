@@ -1,1 +1,1 @@
-var mnemonic = "marriage excuse start current stick click fix drum hawk ski salmon cube";
+var mnemonic = "detail theme typical inner laundry exotic head vacant own boy remember boring";

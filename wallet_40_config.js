@@ -1,1 +1,1 @@
-var mnemonic = "buddy evidence mix address pupil phrase panel garden doll velvet job various";
+var mnemonic = "tip submit box embody swarm eagle style believe will amazing roast keen";

@@ -1,1 +1,1 @@
-var mnemonic = "year faith sadness reason brick item provide sense maple scene salad undo";
+var mnemonic = "letter hard month stand salon wife arch pioneer loud uncle sheriff pave";

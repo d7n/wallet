@@ -1,1 +1,1 @@
-var mnemonic = "core kidney replace burger fury off scorpion sibling sunset sentence mind sustain";
+var mnemonic = "way inspire chaos find buffalo theory melt question sock labor husband devote";

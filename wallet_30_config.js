@@ -1,1 +1,1 @@
-var mnemonic = "genre family castle citizen lounge gentle chat false erode lawsuit winter purity";
+var mnemonic = "grape female powder struggle any east autumn talk plastic enter chest over";

@@ -1,1 +1,1 @@
-var mnemonic = "obscure pride genuine sword pelican hour gaze heavy shoe improve trap find";
+var mnemonic = "gym what wheat divide face tongue gap tissue exhaust iron target say";

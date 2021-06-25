@@ -1,1 +1,1 @@
-var mnemonic = "mask awake gather miss idea hammer goose fit tunnel detect list camp";
+var mnemonic = "swear casino photo medal rifle garbage grain weird book myth laundry enhance";

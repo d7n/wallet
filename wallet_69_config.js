@@ -1,1 +1,1 @@
-var mnemonic = "corn globe tone couch end meadow near include have language morning mix";
+var mnemonic = "give faculty castle wing illness tray under spirit window domain upon orient";

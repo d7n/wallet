@@ -1,1 +1,1 @@
-var mnemonic = "stereo divorce decorate arrive busy excite also rhythm metal destroy chair mail";
+var mnemonic = "tumble sentence pioneer neglect ivory trigger squirrel reform then prison antique web";

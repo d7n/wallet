@@ -1,1 +1,1 @@
-var mnemonic = "tunnel easily tobacco burst bacon prepare tiger episode mule winner green vacuum";
+var mnemonic = "aisle rib autumn select share until leave under cradle must noble inmate";

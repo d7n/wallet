@@ -1,1 +1,1 @@
-var mnemonic = "describe summer gallery spatial sign sausage what price feel place that host";
+var mnemonic = "script spot general enemy vacuum buyer social era defense depend rib useful";

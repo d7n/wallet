@@ -1,1 +1,1 @@
-var mnemonic = "hint case twice neutral one anger combine orchard major cargo stick egg";
+var mnemonic = "radar bonus equal fossil breeze foot feature iron exile orphan monitor gift";

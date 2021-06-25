@@ -1,1 +1,1 @@
-var mnemonic = "torch minor craft write drip draft ahead inner coconut wheat vehicle elite";
+var mnemonic = "shift dust park cliff ceiling happy canoe now session plastic junk angry";

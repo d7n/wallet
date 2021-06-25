@@ -1,1 +1,1 @@
-var mnemonic = "adapt evoke fog absorb panel harsh category abuse become abuse sunny own";
+var mnemonic = "forum mystery second matter very word note resist camp damage praise awesome";

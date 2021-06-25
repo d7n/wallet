@@ -1,1 +1,1 @@
-var mnemonic = "effort rocket sea wash must prefer firm nuclear fame write normal notice";
+var mnemonic = "chronic stage very symbol push expire swift record smile upper mobile armor";

@@ -1,1 +1,1 @@
-var mnemonic = "bronze scorpion caught lab unaware wealth used harvest setup impulse panel climb";
+var mnemonic = "churn media salmon math net exhaust coast notable picture alley scheme salad";

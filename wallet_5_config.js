@@ -1,1 +1,1 @@
-var mnemonic = "zone oven dismiss fluid trouble mandate green wrist wood reject obscure swing";
+var mnemonic = "spider year heart sea metal grain arrow solar stable tomato atom morning";

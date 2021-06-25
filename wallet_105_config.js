@@ -1,1 +1,1 @@
-var mnemonic = "nasty supply decide valid intact turn release excuse stage sister praise hero";
+var mnemonic = "skin essay mother actress either position source gown dress expand fiction chef";

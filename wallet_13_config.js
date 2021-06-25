@@ -1,1 +1,1 @@
-var mnemonic = "innocent novel cover purpose attract mystery arrest eager old blouse attract warrior";
+var mnemonic = "bleak slim pole post broken negative print mule virus nuclear warm update";

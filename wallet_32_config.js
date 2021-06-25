@@ -1,1 +1,1 @@
-var mnemonic = "captain audit photo galaxy morning tumble balcony high submit catalog forum amateur";
+var mnemonic = "door boss analyst pluck stone message mercy three eye food found wait";

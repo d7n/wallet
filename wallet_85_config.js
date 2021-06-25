@@ -1,1 +1,1 @@
-var mnemonic = "atom alley mind surge repair ankle simple ritual spell broom panther hundred";
+var mnemonic = "machine cigar extra local toddler loop expose pen region sunset brain harvest";

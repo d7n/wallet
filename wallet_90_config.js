@@ -1,1 +1,1 @@
-var mnemonic = "three already injury gate skull essay snack engage protect palace hope dog";
+var mnemonic = "purse bid arrest eternal derive company welcome predict obvious pause design height";

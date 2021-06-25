@@ -1,1 +1,1 @@
-var mnemonic = "dash remind mistake balance describe moral silver change want load uncle flag";
+var mnemonic = "dune eager hand swap aim wash amazing similar spell boat gain sense";

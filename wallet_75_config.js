@@ -1,1 +1,1 @@
-var mnemonic = "suspect leisure shoulder wear engage lend elevator ring region yard permit artist";
+var mnemonic = "rich crew brand canoe left float sign envelope chicken hen turkey filter";

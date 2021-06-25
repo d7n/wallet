@@ -1,1 +1,1 @@
-var mnemonic = "ridge tower space lock put bulk sphere travel kingdom goddess typical scissors";
+var mnemonic = "view reward process grunt wash leisure scan reveal rate clerk recycle cabin";

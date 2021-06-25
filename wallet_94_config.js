@@ -1,1 +1,1 @@
-var mnemonic = "scorpion volume final seven ozone toy artefact fade oval deal entire occur";
+var mnemonic = "dumb stage seminar join tiny tip nasty luxury shadow plate assist tomorrow";

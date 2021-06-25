@@ -1,1 +1,1 @@
-var mnemonic = "mule mechanic tomato sing matrix debate winner genuine rebuild beauty tone desk";
+var mnemonic = "modify voyage baby jeans lock utility fault joke favorite man banana symptom";

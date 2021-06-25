@@ -1,1 +1,1 @@
-var mnemonic = "present turn wheel frame voice inflict unknown country muscle black elevator job";
+var mnemonic = "claim alter lesson seminar ranch neck balcony artefact trip vanish endless hunt";

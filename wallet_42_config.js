@@ -1,1 +1,1 @@
-var mnemonic = "memory adapt drive sort beach basket amazing mixed reveal special skull swamp";
+var mnemonic = "boy fancy solid vocal broom accuse jazz position unveil nuclear cruel attitude";

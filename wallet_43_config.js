@@ -1,1 +1,1 @@
-var mnemonic = "fork trade flame crumble huge exile office rice vague caught reflect sibling";
+var mnemonic = "cook become comic upper color east trash essay typical script item mandate";

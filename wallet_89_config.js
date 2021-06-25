@@ -1,1 +1,1 @@
-var mnemonic = "soft cute blouse rate nasty torch soccer sheriff ripple usual bench sting";
+var mnemonic = "zone idle plastic vapor slow refuse enroll only ancient peace grunt lift";

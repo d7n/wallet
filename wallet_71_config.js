@@ -1,1 +1,1 @@
-var mnemonic = "job suspect leader trade fiber voice reflect family agent august castle address";
+var mnemonic = "cupboard noodle noise payment fade oxygen artefact garment pill drop elbow sing";

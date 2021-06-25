@@ -1,1 +1,1 @@
-var mnemonic = "cabbage shop glass path denial essence tornado donate steel spoil exchange oven";
+var mnemonic = "identify toss settle case insect old cactus keen between wave turkey wrong";

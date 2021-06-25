@@ -1,1 +1,1 @@
-var mnemonic = "quote into uniform topic balcony seek twelve bubble embrace hope spin setup";
+var mnemonic = "rich fashion speak teach hold slide metal waste purchase truck letter bright";

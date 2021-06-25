@@ -1,1 +1,1 @@
-var mnemonic = "profit diagram spin tenant squeeze ranch sunny where region novel siege verb";
+var mnemonic = "anchor gown much corn silent coffee room output nose ability unable vanish";

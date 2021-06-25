@@ -1,1 +1,1 @@
-var mnemonic = "tray submit garage repair coffee maid crack engine kidney snow trick truth";
+var mnemonic = "dial like wink cake age attack autumn unfair edit salon tissue audit";

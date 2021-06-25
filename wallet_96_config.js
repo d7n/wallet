@@ -1,1 +1,1 @@
-var mnemonic = "flavor bar sugar nose giraffe people beef sentence mushroom action plate soap";
+var mnemonic = "firm chunk warm domain cricket ivory wet day van check laugh disagree";

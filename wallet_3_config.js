@@ -1,1 +1,1 @@
-var mnemonic = "walk improve chalk fragile hover mandate stool portion earn bone brain damage";
+var mnemonic = "tape hundred jacket enact ancient tissue sting charge range tilt escape behind";

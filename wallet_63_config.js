@@ -1,1 +1,1 @@
-var mnemonic = "parent venture discover expand upgrade word problem impulse soul wash muscle design";
+var mnemonic = "insane fan safe connect staff diagram zoo noble display battle fire anchor";

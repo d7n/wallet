@@ -1,1 +1,1 @@
-var mnemonic = "repair eyebrow seven process victory bar carry decade young umbrella stand around";
+var mnemonic = "chunk door domain swing nephew explain tragic garment ranch setup typical artefact";

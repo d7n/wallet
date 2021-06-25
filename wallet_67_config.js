@@ -1,1 +1,1 @@
-var mnemonic = "cable quit rescue bleak hurry milk else wood movie forget advance off";
+var mnemonic = "that feature excess crack example seed nature solar tilt float sort volume";

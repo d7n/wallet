@@ -1,1 +1,1 @@
-var mnemonic = "strong bag river rhythm mean lumber error chuckle ceiling salute fury flavor";
+var mnemonic = "random moment prevent chief fiction question maple comic provide ordinary swear easily";

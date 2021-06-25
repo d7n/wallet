@@ -1,1 +1,1 @@
-var mnemonic = "exchange syrup hollow danger achieve holiday twelve rely card dinosaur episode decrease";
+var mnemonic = "include core normal ring hub alone search miss monkey pencil allow insect";

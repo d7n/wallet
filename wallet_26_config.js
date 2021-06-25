@@ -1,1 +1,1 @@
-var mnemonic = "giggle subject recall frown balcony travel insect person abandon brisk milk crash";
+var mnemonic = "arrange forum catalog recycle peace shoot wasp peasant trumpet tilt horse electric";

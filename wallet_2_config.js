@@ -1,1 +1,1 @@
-var mnemonic = "science citizen stamp picture coin drop also measure ivory ability basic hedgehog";
+var mnemonic = "observe happy pear task today age frog harbor abuse tray muscle swamp";

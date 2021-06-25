@@ -1,1 +1,1 @@
-var mnemonic = "nerve dismiss front pen dry famous lizard power person lawn small human";
+var mnemonic = "divide float spike staff crater camp skirt merit lizard front coconut deer";

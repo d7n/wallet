@@ -1,1 +1,1 @@
-var mnemonic = "repair small canal despair ball learn destroy melody tattoo clerk marine tide";
+var mnemonic = "raccoon major receive weekend theme reform sentence labor business require access mixed";

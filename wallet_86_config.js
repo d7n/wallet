@@ -1,1 +1,1 @@
-var mnemonic = "affair blue case gather toddler habit inmate float mom glimpse kiwi wasp";
+var mnemonic = "range heavy fragile hurt gospel rhythm news nerve spider settle hope timber";

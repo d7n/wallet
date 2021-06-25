@@ -1,1 +1,1 @@
-var mnemonic = "involve fame enjoy little piano wide zone celery grocery fruit danger oval";
+var mnemonic = "toward giant salon section hero gap bonus suggest stumble debate ride wasp";

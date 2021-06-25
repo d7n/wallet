@@ -1,1 +1,1 @@
-var mnemonic = "love fruit pupil joke add they word issue waste three position lottery";
+var mnemonic = "nice giggle lawn deer great august filter move supreme venture battle daughter";

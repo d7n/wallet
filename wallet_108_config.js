@@ -1,1 +1,1 @@
-var mnemonic = "absurd betray tackle fiber robot cricket stand silent squirrel hurry obtain final";
+var mnemonic = "omit submit group local soap vault seminar movie buyer riot brave supply";

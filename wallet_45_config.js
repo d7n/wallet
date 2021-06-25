@@ -1,1 +1,1 @@
-var mnemonic = "inflict rhythm crowd village bronze aim close swamp film rhythm grief embark";
+var mnemonic = "style then burst notice affair opinion occur black kangaroo pepper illness mixed";

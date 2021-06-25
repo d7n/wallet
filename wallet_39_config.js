@@ -1,1 +1,1 @@
-var mnemonic = "mom doll globe junk host dwarf cannon ladder bacon neck enrich hint";
+var mnemonic = "course accuse garage town cricket because visa blood frozen comic memory you";

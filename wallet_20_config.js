@@ -1,1 +1,1 @@
-var mnemonic = "help clerk push ahead resemble north coral find worth that wash wave";
+var mnemonic = "drift deliver credit marriage thumb dove kite wall because treat economy will";

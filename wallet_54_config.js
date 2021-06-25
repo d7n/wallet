@@ -1,1 +1,1 @@
-var mnemonic = "mosquito mushroom inmate basic early spot fiber okay pink fox orange bright";
+var mnemonic = "pitch blade globe hammer weather garbage assist sock pave winter gasp fiber";

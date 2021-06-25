@@ -1,1 +1,1 @@
-var mnemonic = "exist eight attack parrot tail rubber only alien brand ripple lion faith";
+var mnemonic = "shrug exchange champion business demise orphan quiz prevent flock enrich slim path";

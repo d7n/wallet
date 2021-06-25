@@ -1,1 +1,1 @@
-var mnemonic = "frequent mosquito offer cloth story phrase goat two brave usual once strike";
+var mnemonic = "cart hockey gravity midnight rubber dilemma chef lumber rude mix frown sleep";

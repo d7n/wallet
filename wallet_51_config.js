@@ -1,1 +1,1 @@
-var mnemonic = "elephant faith humble decrease cruise foam render marriage cart muscle turn license";
+var mnemonic = "olympic since card reflect loyal post bleak main pig apology nice night";

@@ -1,1 +1,1 @@
-var mnemonic = "satoshi wash shoe bench talent polar laptop avoid entry balance chimney state";
+var mnemonic = "spatial gas expose swim protect spray eyebrow gain first riot movie ripple";

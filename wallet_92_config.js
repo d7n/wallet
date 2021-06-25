@@ -1,1 +1,1 @@
-var mnemonic = "summer peasant reveal off dizzy crumble include pyramid renew mimic family glove";
+var mnemonic = "project cheap nephew build lion eager orient merry mango rice dilemma mixture";

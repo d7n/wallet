@@ -1,1 +1,1 @@
-var mnemonic = "ethics armor rigid afford method woman sense aunt tree punch true sort";
+var mnemonic = "vacuum inherit fatigue enroll boring tourist random other dragon sword drive grant";

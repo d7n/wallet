@@ -1,1 +1,1 @@
-var mnemonic = "vault unable case swallow thrive help copper joke cost roast prepare avoid";
+var mnemonic = "neck lamp arrow crush soul chat meadow eyebrow add income assist dumb";

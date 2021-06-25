@@ -1,1 +1,1 @@
-var mnemonic = "donkey illegal acid harsh buddy baby flee speak alley effort hybrid shield";
+var mnemonic = "weather either exit host fork random canoe smoke blanket else resource obtain";

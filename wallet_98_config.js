@@ -1,1 +1,1 @@
-var mnemonic = "river warrior spawn sell boil draw twice bottom syrup fashion rather giggle";
+var mnemonic = "bike second quality little vote afford era office width august enforce direct";

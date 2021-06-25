@@ -1,1 +1,1 @@
-var mnemonic = "tape trim odor behave edit weapon two differ sunset sword toe hundred";
+var mnemonic = "error outside original mistake burst gauge silver main elephant garment range admit";

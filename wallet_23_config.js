@@ -1,1 +1,1 @@
-var mnemonic = "ordinary bottom sport excess relax until spend save forest waste buddy purity";
+var mnemonic = "broken hold tilt idea tackle napkin rifle monkey garlic clown arch chicken";

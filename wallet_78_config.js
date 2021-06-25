@@ -1,1 +1,1 @@
-var mnemonic = "pistol sunset radar gorilla flush possible warrior tomorrow town achieve speak gadget";
+var mnemonic = "suggest peasant lava grass piano tent above trend puppy device program draw";

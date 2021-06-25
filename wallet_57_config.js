@@ -1,1 +1,1 @@
-var mnemonic = "hill false panic wide ordinary suspect expire detail view purse spend grape";
+var mnemonic = "work embrace rude sorry easy canvas diet menu system eyebrow actress worry";

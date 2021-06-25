@@ -1,1 +1,1 @@
-var mnemonic = "silver crunch awful hand screen normal rabbit peanut such daughter earth emerge";
+var mnemonic = "noble essay open absorb amused loop critic attitude wave ridge tag forest";

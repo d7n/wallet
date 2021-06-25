@@ -1,1 +1,1 @@
-var mnemonic = "oil trumpet seed together girl trial unhappy dignity raven wing art violin";
+var mnemonic = "then road nurse phone mountain negative rose wool dentist equip short myself";

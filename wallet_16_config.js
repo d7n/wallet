@@ -1,1 +1,1 @@
-var mnemonic = "gather fancy legend already draft dawn meat final honey rural board rebel";
+var mnemonic = "twist trick balance pond adapt fold help reveal work leg suggest merge";

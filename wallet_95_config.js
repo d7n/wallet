@@ -1,1 +1,1 @@
-var mnemonic = "mango metal surface proud leg super first miracle ordinary maximum world fog";
+var mnemonic = "charge curious van chuckle member baby place you miracle gather penalty satisfy";

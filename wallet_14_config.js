@@ -1,1 +1,1 @@
-var mnemonic = "cabin siren extra flip castle rigid hill hobby duty nuclear noble debate";
+var mnemonic = "boost zebra season source spider fruit modify innocent metal talent pepper cotton";

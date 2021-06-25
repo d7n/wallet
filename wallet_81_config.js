@@ -1,1 +1,1 @@
-var mnemonic = "scene shrimp purse tunnel thrive venture void virus earth priority situate aerobic";
+var mnemonic = "retire panic gauge school twin kind sample must network quiz accuse egg";

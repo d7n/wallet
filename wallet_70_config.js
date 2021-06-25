@@ -1,1 +1,1 @@
-var mnemonic = "mansion armed blush wave plunge mad maze cross together air jump review";
+var mnemonic = "army pull fade egg angry unique welcome exit soon celery diagram mother";

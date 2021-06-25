@@ -1,1 +1,1 @@
-var mnemonic = "canal puzzle spatial scene blue solid harvest lounge oval fortune ginger trend";
+var mnemonic = "step coral quick pride meat relief burst night walnut laundry top upon";

@@ -1,1 +1,1 @@
-var mnemonic = "present jeans primary element pond change comic stove dismiss can remain version";
+var mnemonic = "multiply lyrics goat crane mechanic negative seed matter prefer riot couch cigar";

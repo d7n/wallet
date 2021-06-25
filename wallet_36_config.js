@@ -1,1 +1,1 @@
-var mnemonic = "tape mass squeeze grain grit please sight alpha faculty resemble couch width";
+var mnemonic = "wrap rely crane clerk photo survey insane reject stamp fly tragic poet";

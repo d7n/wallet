@@ -1,1 +1,1 @@
-var mnemonic = "buddy verb glove alter legal phone visual inherit tilt shy alcohol feed";
+var mnemonic = "pull tiger ozone peanut dial fruit mask lock impose pole struggle note";

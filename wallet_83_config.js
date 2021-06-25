@@ -1,1 +1,1 @@
-var mnemonic = "ride vehicle miracle public rural bitter still future siren tent garbage coin";
+var mnemonic = "glance guitar bike idea soda link profit ability cat again impose great";

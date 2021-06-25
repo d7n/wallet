@@ -1,1 +1,1 @@
-var mnemonic = "loud gown enjoy cable diamond refuse health picnic token have slow lecture";
+var mnemonic = "cattle judge copper census dash expect tank cave hurt warrior runway someone";

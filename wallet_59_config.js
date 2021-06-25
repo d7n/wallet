@@ -1,1 +1,1 @@
-var mnemonic = "provide limit few drill cat couch number cover swap garage script depart";
+var mnemonic = "super chest chaos general belt loop reveal biology hockey panther degree excite";

@@ -1,1 +1,1 @@
-var mnemonic = "kingdom lion hammer inflict staff cluster avoid oppose describe betray immune mad";
+var mnemonic = "outer practice note smooth execute thumb food symbol yard helmet reopen dinosaur";

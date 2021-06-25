@@ -1,1 +1,1 @@
-var mnemonic = "lottery oxygen north van tape awesome guilt mean slim height large address";
+var mnemonic = "wasp top warrior steak crystal bracket phone arrest feel friend clarify tribe";

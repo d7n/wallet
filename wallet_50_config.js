@@ -1,1 +1,1 @@
-var mnemonic = "olive strong mule buzz use income vessel legend night venue rhythm indoor";
+var mnemonic = "repeat orchard boost senior galaxy easily axis laugh mobile hamster core small";

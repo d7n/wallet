@@ -1,1 +1,1 @@
-var mnemonic = "onion like nephew seed provide siege miracle hazard alley train spell nurse";
+var mnemonic = "agree clock script struggle float alter strong furnace siege step loud citizen";

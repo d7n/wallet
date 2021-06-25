@@ -1,1 +1,1 @@
-var mnemonic = "bubble broccoli sauce volume breeze solution invest panel patrol neither speak gather";
+var mnemonic = "color item glove real object riot kit pride jazz record behave fold";

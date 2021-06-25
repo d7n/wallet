@@ -1,1 +1,1 @@
-var mnemonic = "tape evoke shove source relief skate custom elbow jazz cheap another chalk";
+var mnemonic = "tongue dutch lonely boy blossom ten husband prefer junk quantum glance sword";

@@ -1,1 +1,1 @@
-var mnemonic = "pause kid enrich text brisk bullet lunar gentle reject enjoy wage lizard";
+var mnemonic = "vault ancient answer cement error shuffle medal leisure neck crawl language behind";

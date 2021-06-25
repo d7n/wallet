@@ -1,1 +1,1 @@
-var mnemonic = "tortoise output time witness wool luxury sail minimum until useful vibrant coral";
+var mnemonic = "jacket situate picture turkey window skull begin tower maximum sunset clean dignity";

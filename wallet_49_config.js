@@ -1,1 +1,1 @@
-var mnemonic = "joy lab thank seat vendor flash end wet country mixture patch reject";
+var mnemonic = "combine wall dutch guess adult game toy please drastic belt layer size";
