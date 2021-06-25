@@ -1,1 +1,1 @@
-var mnemonic = "seat human result cluster diesel lamp park answer enable cube truth tunnel";
+var mnemonic = "sadness route step sing hope long area stereo scout chalk dirt sand";

@@ -1,1 +1,1 @@
-var mnemonic = "employ spoon midnight crouch there elite screen useful primary hurry gym below";
+var mnemonic = "resemble foot arrow chapter kind brave bounce east absent question soup begin";

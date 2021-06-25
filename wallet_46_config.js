@@ -1,1 +1,1 @@
-var mnemonic = "trash usual permit castle praise fun sweet wrist tilt unusual powder ski";
+var mnemonic = "medal walk fade ski wink reveal despair capable very bamboo frown affair";

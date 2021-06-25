@@ -1,1 +1,1 @@
-var mnemonic = "above denial puppy dice link twin elder record tourist view betray sauce";
+var mnemonic = "skill lawsuit olympic nasty fence hunt example try response say balcony stone";

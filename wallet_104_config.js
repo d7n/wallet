@@ -1,1 +1,1 @@
-var mnemonic = "cactus much surface chair entire roof can enter cupboard science what empty";
+var mnemonic = "wave cigar rare select purse weird liar airport rebuild virus evidence error";

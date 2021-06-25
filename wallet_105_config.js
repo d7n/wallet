@@ -1,1 +1,1 @@
-var mnemonic = "air crane alpha wonder thing equal rookie reveal victory tone invite hold";
+var mnemonic = "govern kiwi ring thank holiday outer egg opinion silk genuine harvest spin";

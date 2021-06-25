@@ -1,1 +1,1 @@
-var mnemonic = "sketch ceiling nice attack bronze time year tail industry farm engine energy";
+var mnemonic = "arctic tomorrow genre junk wing toast mountain coast finish delay illegal neutral";

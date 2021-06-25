@@ -1,1 +1,1 @@
-var mnemonic = "result pigeon alarm protect believe limit autumn multiply between latin legal mystery";
+var mnemonic = "blue alone ball power novel sample private double hero mutual clean dirt";

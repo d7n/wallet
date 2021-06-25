@@ -1,1 +1,1 @@
-var mnemonic = "fog viable crew local circle bench protect admit chaos glove viable rack";
+var mnemonic = "myth brown village true among poverty present cement earth genuine panther pride";

@@ -1,1 +1,1 @@
-var mnemonic = "net mother mad anchor witness rebuild lab world spider proud dentist abandon";
+var mnemonic = "spoon charge boil magnet brain wage club know attitude usage divert slab";

@@ -1,1 +1,1 @@
-var mnemonic = "art chaos ecology cross above marriage tackle smooth fish pencil correct march";
+var mnemonic = "matrix picnic awake accident april laugh enjoy omit lift vibrant physical word";

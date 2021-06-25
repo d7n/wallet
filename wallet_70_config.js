@@ -1,1 +1,1 @@
-var mnemonic = "license love banner kind resource viable session wire iron utility connect funny";
+var mnemonic = "horn bus search indicate intact program weird canal letter weasel together fringe";

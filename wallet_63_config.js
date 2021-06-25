@@ -1,1 +1,1 @@
-var mnemonic = "addict task powder unfold ancient spell language output orient glide lonely eyebrow";
+var mnemonic = "final spoil stumble sadness bike antenna glue episode enrich heart undo assume";

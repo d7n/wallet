@@ -1,1 +1,1 @@
-var mnemonic = "wave match cliff tattoo afford ritual aspect treat evidence adult april broccoli";
+var mnemonic = "mountain eyebrow elbow business boat intact bullet course position wrestle scene name";

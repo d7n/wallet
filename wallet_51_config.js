@@ -1,1 +1,1 @@
-var mnemonic = "wild paddle human mom ride install blame worry rookie spread globe huge";
+var mnemonic = "bomb news spend squeeze scene sure wood sword bulk video summer mention";

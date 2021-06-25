@@ -1,1 +1,1 @@
-var mnemonic = "blanket step invite skirt armed agent industry strike mention omit view buffalo";
+var mnemonic = "wolf morning cereal guess decorate screen town goat pond spare genius question";

@@ -1,1 +1,1 @@
-var mnemonic = "payment birth shoe boost rhythm ride soda firm ahead symbol dust large";
+var mnemonic = "box shrug float excite just trial fit wonder scissors kite correct biology";

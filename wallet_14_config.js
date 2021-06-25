@@ -1,1 +1,1 @@
-var mnemonic = "bag man gaze dizzy glance ketchup curve force update dune seven caught";
+var mnemonic = "apology mosquito aunt build slim churn amazing drop aisle current wheel naive";

@@ -1,1 +1,1 @@
-var mnemonic = "infant north accident apology bulk step law ethics bright pulp matrix dizzy";
+var mnemonic = "buffalo sphere public enhance clog staff property liberty cupboard bacon remember sock";

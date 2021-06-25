@@ -1,1 +1,1 @@
-var mnemonic = "napkin today trim delay agent mammal tent medal stay useful kid text";
+var mnemonic = "divorce cost logic family frown chaos chimney mammal super certain never heavy";

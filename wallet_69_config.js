@@ -1,1 +1,1 @@
-var mnemonic = "fatal blade deposit soup dutch tail lesson truck view pulse arrive ceiling";
+var mnemonic = "ivory lava cause glimpse luggage try long drastic salute keen tool coil";

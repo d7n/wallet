@@ -1,1 +1,1 @@
-var mnemonic = "verb ecology secret dinosaur dinosaur butter essay awful pause sand fun lawn";
+var mnemonic = "reflect film load critic easy exercise drama obvious adjust gate emotion mirror";

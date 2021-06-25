@@ -1,1 +1,1 @@
-var mnemonic = "omit behind fog cup quiz useless amount rapid solution pistol first quiz";
+var mnemonic = "social today liberty swift rack worth repair device chef excite bless dwarf";

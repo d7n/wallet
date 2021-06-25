@@ -1,1 +1,1 @@
-var mnemonic = "journey brush lawn town bottom between mesh midnight cabbage crack output gorilla";
+var mnemonic = "host machine donkey argue worry rabbit joy cat loan expect nut romance";

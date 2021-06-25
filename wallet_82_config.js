@@ -1,1 +1,1 @@
-var mnemonic = "oven aerobic coach sustain salad sausage vicious coffee core custom eagle indicate";
+var mnemonic = "lady rough heart perfect brain hour smoke coin advance anger solar must";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak hard bone swear mind cage logic erosion winter cash melt town";
+var mnemonic = "ocean select cluster crime nice debate now maple wide elephant ensure kiwi";

@@ -1,1 +1,1 @@
-var mnemonic = "piano around south smart ignore luggage airport pool cigar home able pudding";
+var mnemonic = "inch fortune pyramid hundred decline nest bless tank history news property chase";

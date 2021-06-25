@@ -1,1 +1,1 @@
-var mnemonic = "shine harsh balcony muffin donkey cook please leopard myth stairs erase issue";
+var mnemonic = "deliver fancy hero dawn open chair illness wrist door bitter repair twelve";

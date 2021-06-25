@@ -1,1 +1,1 @@
-var mnemonic = "update feel indoor manage zoo cage dry wheat cave tomato chalk cannon";
+var mnemonic = "fossil scan obtain stove thumb home robot extra write vocal crazy absent";

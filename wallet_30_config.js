@@ -1,1 +1,1 @@
-var mnemonic = "divert sadness typical special girl such solid social sphere dune basket file";
+var mnemonic = "news squirrel issue neck flat adjust source lamp someone envelope general apology";

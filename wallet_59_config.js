@@ -1,1 +1,1 @@
-var mnemonic = "ramp dumb loan celery girl ensure bamboo wing firm suggest modify people";
+var mnemonic = "rare upper clap random sunny throw often mule warm blind slab net";

@@ -1,1 +1,1 @@
-var mnemonic = "surface uncover success spell fun common trigger trip ladder shoe home hockey";
+var mnemonic = "cup member unaware grief real utility dream across dumb aspect harvest obvious";

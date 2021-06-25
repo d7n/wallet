@@ -1,1 +1,1 @@
-var mnemonic = "milk walk huge short glide regret actual hospital alone math unlock modify";
+var mnemonic = "eyebrow giraffe mass autumn frozen system embark drip slide minor begin favorite";

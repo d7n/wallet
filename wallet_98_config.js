@@ -1,1 +1,1 @@
-var mnemonic = "nature simple roast hawk goddess rabbit subway salt intact mirror task decide";
+var mnemonic = "father pelican mosquito senior island teach vehicle long behave nominee reunion movie";

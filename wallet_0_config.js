@@ -1,1 +1,1 @@
-var mnemonic = "transfer unable praise canyon shine begin december morning dwarf genius text borrow";
+var mnemonic = "park cliff illegal energy level rookie reject spring earth mouse roof genius";

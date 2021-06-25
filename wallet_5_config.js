@@ -1,1 +1,1 @@
-var mnemonic = "deer plunge wall lecture frog never hungry frozen member attack gate poverty";
+var mnemonic = "access actual summer page intact smooth innocent crouch leisure atom ribbon finger";

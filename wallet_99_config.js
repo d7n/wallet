@@ -1,1 +1,1 @@
-var mnemonic = "ranch slice lecture envelope lava minor cover vintage guilt cost borrow awesome";
+var mnemonic = "kind dilemma predict neglect decrease donkey long marble milk panda burden bachelor";

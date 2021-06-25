@@ -1,1 +1,1 @@
-var mnemonic = "flock company alcohol fatigue female obscure athlete crumble glare skin decide eye";
+var mnemonic = "apart mosquito warm royal pet uncover call license youth ski symptom record";

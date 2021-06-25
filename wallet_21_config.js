@@ -1,1 +1,1 @@
-var mnemonic = "common wet arrest basic orange share balance blur cute genius potato few";
+var mnemonic = "tool verify quote awkward twelve else insane tunnel chat fitness mad culture";

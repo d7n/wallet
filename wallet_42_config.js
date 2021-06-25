@@ -1,1 +1,1 @@
-var mnemonic = "law tongue inspire obtain cliff among unhappy snake aim wet tongue amateur";
+var mnemonic = "holiday buffalo soap curious flame stairs tornado welcome inherit fabric exhibit jealous";

@@ -1,1 +1,1 @@
-var mnemonic = "bread gather luxury palm arctic behind consider essence diagram warrior glad movie";
+var mnemonic = "audit replace lift science daughter safe annual cave laptop steak license kind";

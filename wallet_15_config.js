@@ -1,1 +1,1 @@
-var mnemonic = "pizza ready tower eight guitar glide garage violin toward hamster frown reason";
+var mnemonic = "mobile direct unusual obey dinner wonder theme school mansion gossip rigid replace";

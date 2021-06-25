@@ -1,1 +1,1 @@
-var mnemonic = "film dune letter state fiber eye egg trick ritual solid atom history";
+var mnemonic = "grab casino struggle load tilt habit home peace wild domain priority innocent";

@@ -1,1 +1,1 @@
-var mnemonic = "room symbol cable box nuclear inspire guard accuse blade actor bread heavy";
+var mnemonic = "spread often release dirt wet tuition decline badge comic castle fiscal celery";

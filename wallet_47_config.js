@@ -1,1 +1,1 @@
-var mnemonic = "autumn mammal loan story raven jewel dress easy medal convince where review";
+var mnemonic = "suggest sweet dumb loop zero cheese together unfold abuse trophy express pigeon";

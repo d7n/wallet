@@ -1,1 +1,1 @@
-var mnemonic = "cable monkey young please increase rug warfare cluster glow lawsuit found domain";
+var mnemonic = "space truck suit coconut atom robot stone coil sweet net profit fluid";

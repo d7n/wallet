@@ -1,1 +1,1 @@
-var mnemonic = "super romance wish sample glue soul advance clutch dove twelve anxiety salmon";
+var mnemonic = "damage jewel slender emotion jelly glide canyon lazy arctic symbol neither hospital";

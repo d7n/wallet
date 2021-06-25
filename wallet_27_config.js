@@ -1,1 +1,1 @@
-var mnemonic = "clinic invest lazy weekend crawl page tennis earth warm play gaze zero";
+var mnemonic = "afraid certain connect olive leaf jelly nasty air typical stove rebel palm";

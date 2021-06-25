@@ -1,1 +1,1 @@
-var mnemonic = "van poverty broccoli belt snake shrug august diamond decline dignity dizzy use";
+var mnemonic = "sound gold because above dinner fire switch midnight tower satisfy clutch reduce";

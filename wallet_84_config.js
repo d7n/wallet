@@ -1,1 +1,1 @@
-var mnemonic = "twin oval wealth home misery giant letter depth slender spirit twelve bean";
+var mnemonic = "attack either smooth until canvas spot avocado vivid taste install will wire";

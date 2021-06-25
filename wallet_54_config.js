@@ -1,1 +1,1 @@
-var mnemonic = "favorite indicate valve wise faint wire image then other depth crash orphan";
+var mnemonic = "cart silly mirror tomorrow doll beyond street edge bunker excess badge kitten";

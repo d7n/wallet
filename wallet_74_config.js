@@ -1,1 +1,1 @@
-var mnemonic = "debate nest hotel defense hair coin crowd opinion gaze choose asthma work";
+var mnemonic = "once jump impulse inmate obey word daring search decline deliver tooth dish";

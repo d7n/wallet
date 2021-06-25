@@ -1,1 +1,1 @@
-var mnemonic = "crystal donate agent melt asthma throw milk cliff rookie machine into long";
+var mnemonic = "tennis empower license opinion echo orange tide glide course field artefact hunt";

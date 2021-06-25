@@ -1,1 +1,1 @@
-var mnemonic = "one horse exchange now topple anxiety iron word melt stem meadow seat";
+var mnemonic = "bring copper fantasy grunt theme apology derive sting suspect twice sustain throw";

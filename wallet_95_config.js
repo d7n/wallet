@@ -1,1 +1,1 @@
-var mnemonic = "pudding armor speak tent blade innocent about announce crush attend again wait";
+var mnemonic = "spike abandon creek biology empty vapor rabbit search cause burden pilot fossil";

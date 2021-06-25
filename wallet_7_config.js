@@ -1,1 +1,1 @@
-var mnemonic = "fresh trash film engage twelve enemy lyrics cupboard leader bubble hour design";
+var mnemonic = "help torch emotion weapon zone conduct student found debris fence forest hard";

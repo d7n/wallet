@@ -1,1 +1,1 @@
-var mnemonic = "gauge brown toward link chuckle swift true chronic thing orange team kitchen";
+var mnemonic = "buffalo claim interest obtain mushroom wrist crush ivory little nerve vapor news";

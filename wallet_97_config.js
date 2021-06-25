@@ -1,1 +1,1 @@
-var mnemonic = "castle happy casino can dream shift major protect object picture scissors retreat";
+var mnemonic = "else talent must gadget worth blanket orange venture ride slam know tired";

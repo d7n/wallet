@@ -1,1 +1,1 @@
-var mnemonic = "caution orphan bird lesson dentist talent leopard raccoon shop faith between emerge";
+var mnemonic = "pause shaft alone hundred museum polar party thing use thrive expect pear";

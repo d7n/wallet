@@ -1,1 +1,1 @@
-var mnemonic = "stand feature caution rule pitch hockey spare stove across duck drink fly";
+var mnemonic = "pride seven explain tired excuse yard differ work swamp cram lava visual";

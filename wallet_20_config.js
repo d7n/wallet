@@ -1,1 +1,1 @@
-var mnemonic = "clarify process risk perfect basic involve material off alley cattle toilet cruel";
+var mnemonic = "scare bounce canoe cost regular breeze earth spot what frost salon engage";

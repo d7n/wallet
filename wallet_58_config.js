@@ -1,1 +1,1 @@
-var mnemonic = "wonder middle grid polar early crystal bird immense number auto soap feel";
+var mnemonic = "talent when harbor sand roast muscle settle egg mirror burger page put";

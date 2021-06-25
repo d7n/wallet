@@ -1,1 +1,1 @@
-var mnemonic = "hair road again fitness mean miracle cricket word lesson orphan sunny sea";
+var mnemonic = "apology police endorse very plug emerge half ancient rice steel run hello";

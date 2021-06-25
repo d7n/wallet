@@ -1,1 +1,1 @@
-var mnemonic = "laugh teach banner lunar employ certain speak rent circle three more deputy";
+var mnemonic = "behave barrel practice day suspect vocal ordinary lady silly slot actual risk";

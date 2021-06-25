@@ -1,1 +1,1 @@
-var mnemonic = "gravity radio reopen until wonder enter clown trash giant arena arch buzz";
+var mnemonic = "ready twelve carbon pyramid baby match stem setup basket bench soda ranch";

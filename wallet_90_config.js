@@ -1,1 +1,1 @@
-var mnemonic = "suffer wealth someone hybrid runway gospel seed mandate three response dry track";
+var mnemonic = "bamboo cross federal emerge scrub avoid hawk hello cross bamboo measure summer";

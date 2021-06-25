@@ -1,1 +1,1 @@
-var mnemonic = "cat fragile split upper youth pudding outside mirror hammer sock swamp crisp";
+var mnemonic = "general apart gentle father simple snake indoor tower crop join giant switch";

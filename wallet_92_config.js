@@ -1,1 +1,1 @@
-var mnemonic = "mad welcome shove blue boss remember make egg guard banner video life";
+var mnemonic = "talk butter ticket chronic swallow market parade buzz rookie away maid palm";

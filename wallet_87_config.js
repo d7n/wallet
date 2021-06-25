@@ -1,1 +1,1 @@
-var mnemonic = "squirrel fine forward pudding tiger output harbor help hungry kid media crazy";
+var mnemonic = "maze earth inside soap silver direct seven kid token dad whip bind";

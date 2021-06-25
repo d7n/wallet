@@ -1,1 +1,1 @@
-var mnemonic = "rebuild uniform pipe kind usage recycle over stadium coffee mad tuna execute";
+var mnemonic = "symbol roof camp donate palm grid move solar above paddle sort doll";

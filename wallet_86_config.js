@@ -1,1 +1,1 @@
-var mnemonic = "arch cable soup buffalo profit mouse treat old version draw barely gadget";
+var mnemonic = "spare cricket crater enroll mask because upset final antenna moral hurdle insane";

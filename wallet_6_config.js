@@ -1,1 +1,1 @@
-var mnemonic = "eight knock news amused core chaos provide chuckle inner erode split idea";
+var mnemonic = "ensure coral fluid table paper room false orphan install cave tide cheese";

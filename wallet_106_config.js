@@ -1,1 +1,1 @@
-var mnemonic = "tank orbit relax exchange category flavor metal venue fat cool camera cross";
+var mnemonic = "warrior initial alert width absurd craft cricket service come casino law alone";

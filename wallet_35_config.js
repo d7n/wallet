@@ -1,1 +1,1 @@
-var mnemonic = "bachelor account damage skin air bag staff major script antenna report sport";
+var mnemonic = "machine say position around chuckle possible slim transfer word song enable chronic";

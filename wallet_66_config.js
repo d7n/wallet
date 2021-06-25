@@ -1,1 +1,1 @@
-var mnemonic = "before atom curtain powder thunder language struggle neck above coffee weapon lonely";
+var mnemonic = "crash side boil ostrich slight service lift follow piano veteran genuine day";

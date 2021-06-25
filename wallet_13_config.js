@@ -1,1 +1,1 @@
-var mnemonic = "baby clean ethics injury camera clean name spell burst gate latin miracle";
+var mnemonic = "normal outdoor success loyal slice wise buzz arrest pencil flame episode ladder";

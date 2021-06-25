@@ -1,1 +1,1 @@
-var mnemonic = "junk nominee garlic horse today enact allow misery chimney skin now mesh";
+var mnemonic = "cover cause shaft twelve tennis pretty detect auto figure have scatter fever";

@@ -1,1 +1,1 @@
-var mnemonic = "fee fatal siren glad olympic please shop grape view volcano raven brown";
+var mnemonic = "nuclear outdoor table penalty link flee lady region asset feed assist perfect";

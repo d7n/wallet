@@ -1,1 +1,1 @@
-var mnemonic = "error theory coral forward brain analyst notable profit best swarm guard until";
+var mnemonic = "congress ignore castle curtain word total person barely salt earn glory cube";

@@ -1,1 +1,1 @@
-var mnemonic = "radio kiwi page seek will hobby law essay rally cannon thunder giggle";
+var mnemonic = "leopard nurse initial noble loyal scorpion subject flee silk game wreck zone";

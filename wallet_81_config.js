@@ -1,1 +1,1 @@
-var mnemonic = "clarify cotton kid inspire main neutral strike genuine this doll this sausage";
+var mnemonic = "remind mosquito school scan math school human visual rose nature system crop";

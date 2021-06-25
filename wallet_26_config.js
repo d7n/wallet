@@ -1,1 +1,1 @@
-var mnemonic = "civil weasel moment blush absent clutch green raw business pair citizen salt";
+var mnemonic = "village patient version marriage labor kit bind city electric check impact hurry";

@@ -1,1 +1,1 @@
-var mnemonic = "copy frame project still later route hub disorder someone alter trial danger";
+var mnemonic = "happy photo forest bullet arctic scorpion want fee noise armed regret faint";

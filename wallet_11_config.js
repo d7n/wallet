@@ -1,1 +1,1 @@
-var mnemonic = "bid giggle amused exact prevent message yellow letter vehicle saddle jar cousin";
+var mnemonic = "enjoy canvas demand panic dragon normal torch belt nurse expose toy tragic";

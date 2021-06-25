@@ -1,1 +1,1 @@
-var mnemonic = "earth engine guide mix alert profit letter tent already lizard rebuild prepare";
+var mnemonic = "antique slot dice during together rose cluster net rookie switch sort step";

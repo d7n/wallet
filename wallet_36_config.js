@@ -1,1 +1,1 @@
-var mnemonic = "debate nuclear finish name blur slush obvious lecture know protect jewel coral";
+var mnemonic = "figure shine detail zoo motion own embrace brave uncle display rival shuffle";

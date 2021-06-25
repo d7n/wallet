@@ -1,1 +1,1 @@
-var mnemonic = "moral inspire tongue file resemble soft point major element dinosaur velvet motor";
+var mnemonic = "identify divorce master gold turkey extra found file advice banner record volcano";

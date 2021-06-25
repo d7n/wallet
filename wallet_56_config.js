@@ -1,1 +1,1 @@
-var mnemonic = "casino marriage easily meat bridge depart frame dizzy around nuclear feed control";
+var mnemonic = "price name harvest clean goddess confirm marine foot lounge praise vibrant planet";

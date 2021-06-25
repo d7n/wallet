@@ -1,1 +1,1 @@
-var mnemonic = "pair baby again prepare junk small possible rich grid ribbon over pioneer";
+var mnemonic = "found cabin actress leaf trouble bid control paddle tower blanket rapid shy";
