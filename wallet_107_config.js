@@ -1,1 +1,1 @@
-var mnemonic = "glare sail burger replace shield resemble dizzy aim coach hedgehog trap essay";
+var mnemonic = "desert finish judge fan arch design blast fresh eager nuclear edit notable";

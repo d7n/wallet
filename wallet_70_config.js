@@ -1,1 +1,1 @@
-var mnemonic = "report toddler rebel guide carry excite betray drastic two ski hero answer";
+var mnemonic = "require unlock session naive police reduce broccoli total barely puppy random mixture";

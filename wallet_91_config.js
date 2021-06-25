@@ -1,1 +1,1 @@
-var mnemonic = "another trouble one pattern poem clown wool output bicycle size obvious core";
+var mnemonic = "true mobile copy summer alley day toward develop cricket just olympic right";

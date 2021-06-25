@@ -1,1 +1,1 @@
-var mnemonic = "include draft dash ski involve glance unfold choice behave miss road around";
+var mnemonic = "auction shoe decade federal pig prosper outer inmate candy arch toward top";

@@ -1,1 +1,1 @@
-var mnemonic = "auto copper any heart poem come roof bunker recycle razor gadget virtual";
+var mnemonic = "gym sword click scout divert later hero april device direct beauty science";

@@ -1,1 +1,1 @@
-var mnemonic = "ginger uphold wagon scale because grunt expose puzzle express cake apart hospital";
+var mnemonic = "divorce clerk oxygen close tourist citizen melody chaos deal ordinary glass devote";

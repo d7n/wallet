@@ -1,1 +1,1 @@
-var mnemonic = "bargain silly trick monitor toy retreat half shoe point path clarify rhythm";
+var mnemonic = "wink resemble degree anxiety battle tell glad joy robust found use edit";

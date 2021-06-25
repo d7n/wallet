@@ -1,1 +1,1 @@
-var mnemonic = "hole review summer return horn throw bench double youth elephant lift blush";
+var mnemonic = "veteran expect hockey snap arrow then food above fade fantasy ancient aim";

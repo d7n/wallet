@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo age cup swear carry enforce hurt stage boat remain quit taste";
+var mnemonic = "salute dust riot inquiry pause shuffle reopen win until nature length slim";

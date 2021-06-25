@@ -1,1 +1,1 @@
-var mnemonic = "window exit switch leopard common trouble brisk piano sadness approve frame bread";
+var mnemonic = "sun caution tip drop stairs inherit ball bind segment asset stuff final";

@@ -1,1 +1,1 @@
-var mnemonic = "pioneer relax judge smooth crew crater devote travel dad crew tenant release";
+var mnemonic = "crowd elephant hamster alley surface chef ball install sweet time vicious honey";

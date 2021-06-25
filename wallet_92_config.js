@@ -1,1 +1,1 @@
-var mnemonic = "shaft nose candy champion busy region faith company alone soft review admit";
+var mnemonic = "hollow panel anchor other pretty observe tongue close word total across wheel";

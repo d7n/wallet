@@ -1,1 +1,1 @@
-var mnemonic = "rent fade stadium clever metal muscle possible labor hamster bulb slight curtain";
+var mnemonic = "breeze duty inhale fluid open else extra build absorb pumpkin bridge april";

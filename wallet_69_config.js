@@ -1,1 +1,1 @@
-var mnemonic = "position taste brain obvious truck lucky major ignore range code borrow deputy";
+var mnemonic = "ten water work fabric dust basic topple junior must leave gospel solve";

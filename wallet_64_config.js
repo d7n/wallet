@@ -1,1 +1,1 @@
-var mnemonic = "payment write sick leader keen cross coil wage flame end acquire bus";
+var mnemonic = "injury option equal honey early violin claim squirrel payment situate amateur fork";

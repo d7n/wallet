@@ -1,1 +1,1 @@
-var mnemonic = "connect speak faint judge guilt brand since whisper future useful wrap crush";
+var mnemonic = "split charge reflect begin squeeze mansion plate skull hill thrive burst soon";

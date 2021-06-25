@@ -1,1 +1,1 @@
-var mnemonic = "clerk deputy theory tiny message impact dad cram mechanic offer behind kite";
+var mnemonic = "game knock payment room fan keep taxi emotion patrol seven fall endless";

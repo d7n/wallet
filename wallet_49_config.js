@@ -1,1 +1,1 @@
-var mnemonic = "cheap country silk imitate program trouble mammal boy ghost prevent jaguar cute";
+var mnemonic = "grit stereo absent round join skirt usual radio fabric box cherry another";

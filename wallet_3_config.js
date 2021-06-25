@@ -1,1 +1,1 @@
-var mnemonic = "cricket title beyond hello undo void magic various flee accuse feature result";
+var mnemonic = "dwarf find sport anxiety primary blood message fence hollow device equal magnet";

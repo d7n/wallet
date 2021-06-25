@@ -1,1 +1,1 @@
-var mnemonic = "shed glide master owner attack wear annual brick town engine genuine flock";
+var mnemonic = "rough fury fashion agent exchange erupt what car almost hunt fit antique";

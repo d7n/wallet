@@ -1,1 +1,1 @@
-var mnemonic = "much remain pattern patient mule swarm patch need blast cause angry shadow";
+var mnemonic = "clip common prize original move pass rookie vintage toddler capable trap prize";

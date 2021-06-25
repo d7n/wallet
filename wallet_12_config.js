@@ -1,1 +1,1 @@
-var mnemonic = "degree struggle novel universe ahead diagram diamond divide fuel inflict evolve maid";
+var mnemonic = "observe flush maple sentence sport stomach firm bonus rebuild effort already bright";

@@ -1,1 +1,1 @@
-var mnemonic = "walk renew elephant develop loop shop winter relax common thought strike slide";
+var mnemonic = "current mail wedding confirm clean label flash other throw moon click emotion";

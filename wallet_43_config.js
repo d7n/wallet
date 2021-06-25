@@ -1,1 +1,1 @@
-var mnemonic = "major among vacuum logic inmate crazy fan dignity wild chunk maze cricket";
+var mnemonic = "category trust turtle liberty blast essence boil echo remember gorilla rely eagle";

@@ -1,1 +1,1 @@
-var mnemonic = "catch same vendor dragon jazz action magic quiz father humor useful city";
+var mnemonic = "spend alpha story island buzz bacon truly test spend twelve employ deer";

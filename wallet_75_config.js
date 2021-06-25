@@ -1,1 +1,1 @@
-var mnemonic = "resemble size crater smart hidden burst fault universe hedgehog online wonder road";
+var mnemonic = "reveal surprise motor avoid hub project dinner gather supply wasp observe lift";

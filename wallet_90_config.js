@@ -1,1 +1,1 @@
-var mnemonic = "blade laugh price siege fat crowd flee hundred april thing smart chunk";
+var mnemonic = "universe pass student balance carbon strategy globe usual index search cupboard route";

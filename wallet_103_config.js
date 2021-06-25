@@ -1,1 +1,1 @@
-var mnemonic = "tiny glad explain ship jeans desert hero portion lazy orphan term find";
+var mnemonic = "group jewel broccoli because amused attend ahead trial large arm tackle trigger";

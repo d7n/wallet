@@ -1,1 +1,1 @@
-var mnemonic = "risk collect fatal medal reject onion real raise nation february shrug dizzy";
+var mnemonic = "all toe armor below forward swear anchor afford joy romance decrease bid";

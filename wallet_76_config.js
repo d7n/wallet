@@ -1,1 +1,1 @@
-var mnemonic = "stock stamp diary bus raise double thunder flower leaf speed fly push";
+var mnemonic = "sport flavor oval reunion also envelope era decrease either language wall bicycle";

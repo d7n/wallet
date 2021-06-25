@@ -1,1 +1,1 @@
-var mnemonic = "grant unique sort shine labor act hamster forest kit chapter fame sample";
+var mnemonic = "taste later sorry wet injury until foam nominee relief card term pen";

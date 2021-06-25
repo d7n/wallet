@@ -1,1 +1,1 @@
-var mnemonic = "off grid goose dog purse warm castle orphan start also phrase canvas";
+var mnemonic = "extend horror business theory equal gossip pear visa curve oil trip way";

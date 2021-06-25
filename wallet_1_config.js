@@ -1,1 +1,1 @@
-var mnemonic = "note assault shy furnace consider eternal loyal climb rather broom uncover supply";
+var mnemonic = "clever flight tonight shock glory sword meadow fancy miracle fun solve hill";

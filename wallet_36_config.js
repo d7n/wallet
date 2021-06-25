@@ -1,1 +1,1 @@
-var mnemonic = "account boring purity behind learn elegant captain left typical unknown liquid cupboard";
+var mnemonic = "depend travel spot pride foil napkin debris magnet simple mercy switch cook";

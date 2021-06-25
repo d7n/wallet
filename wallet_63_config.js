@@ -1,1 +1,1 @@
-var mnemonic = "blanket pig noodle draft decade month interest best relief match wise protect";
+var mnemonic = "summer useful wheat sample crucial coach leg sand ankle error result chaos";

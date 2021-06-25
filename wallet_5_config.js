@@ -1,1 +1,1 @@
-var mnemonic = "begin width town empower layer hockey blouse olympic sketch expire next baby";
+var mnemonic = "prison solar beef sick hub keen jump miracle artefact ethics flavor material";

@@ -1,1 +1,1 @@
-var mnemonic = "cabin brown brain dwarf thing among term rebuild auto income ridge spray";
+var mnemonic = "scare divide until resemble exotic embark purse robust wear deal unfair result";

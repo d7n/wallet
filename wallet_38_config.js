@@ -1,1 +1,1 @@
-var mnemonic = "tree toast time wall staff ramp demise wall unaware steak liberty rack";
+var mnemonic = "evolve human patient write animal journey retire innocent pink time zebra fashion";

@@ -1,1 +1,1 @@
-var mnemonic = "work next opera like heavy obvious pretty enlist syrup dwarf glimpse avocado";
+var mnemonic = "lucky sheriff purpose apart multiply jelly jealous lumber donate magic chaos latin";

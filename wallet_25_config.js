@@ -1,1 +1,1 @@
-var mnemonic = "hunt seek design bracket element trophy until hollow decline alter faculty include";
+var mnemonic = "cheese consider fee say file wagon cargo claw try discover pause unhappy";

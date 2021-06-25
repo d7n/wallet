@@ -1,1 +1,1 @@
-var mnemonic = "metal layer shrimp artist garlic yard shoe trend shield prosper person undo";
+var mnemonic = "relief disagree walnut march rug doctor rely soul reward color boil liberty";

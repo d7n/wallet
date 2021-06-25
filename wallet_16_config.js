@@ -1,1 +1,1 @@
-var mnemonic = "core jealous primary tattoo tide jaguar call dust dolphin slam antenna learn";
+var mnemonic = "athlete pattern doctor blood photo apology target leaf private hair grace embrace";

@@ -1,1 +1,1 @@
-var mnemonic = "soon lazy blur deny right reward negative science wine evidence ship slogan";
+var mnemonic = "swift spawn reform infant cousin ripple oppose pole bicycle remember depend truth";

@@ -1,1 +1,1 @@
-var mnemonic = "guess cream stairs cereal dynamic thrive blame monkey marble jealous peanut either";
+var mnemonic = "infant salt scan cactus owner tower cruel near attack blue document balcony";

@@ -1,1 +1,1 @@
-var mnemonic = "volume bundle that another veteran parrot dentist crop digital reopen ketchup stick";
+var mnemonic = "jewel scatter shrimp include lava finish trend sing kick initial grab banana";

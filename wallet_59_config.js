@@ -1,1 +1,1 @@
-var mnemonic = "kitten coffee response shine vibrant race later news resource border curve perfect";
+var mnemonic = "unit fortune vote render ask south ridge taxi slab laundry earn rug";

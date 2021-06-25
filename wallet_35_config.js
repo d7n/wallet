@@ -1,1 +1,1 @@
-var mnemonic = "kit trial false absurd also suit clinic license between clean below grain";
+var mnemonic = "differ hybrid sweet loop foil head undo diamond actor chef need believe";

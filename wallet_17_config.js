@@ -1,1 +1,1 @@
-var mnemonic = "mechanic approve congress movie blossom comic return design crisp adapt symbol april";
+var mnemonic = "flush wish ramp together skin oppose sphere scrap entire mask fall swift";

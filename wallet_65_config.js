@@ -1,1 +1,1 @@
-var mnemonic = "this heavy crowd couple close radio soccer shaft license inside open bounce";
+var mnemonic = "organ useless sock certain wool absent burger robust boil general muscle account";

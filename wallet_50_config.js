@@ -1,1 +1,1 @@
-var mnemonic = "hood nurse humor perfect hurdle destroy exile artwork glide connect save royal";
+var mnemonic = "canal fish submit wolf over divert profit witness clog menu bone truth";

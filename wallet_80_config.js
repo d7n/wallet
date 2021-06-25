@@ -1,1 +1,1 @@
-var mnemonic = "crash nice foot chuckle check roof obvious excite wonder capital desert strategy";
+var mnemonic = "safe cargo develop jewel salmon poem stage donate lamp index bar attend";

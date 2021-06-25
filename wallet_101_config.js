@@ -1,1 +1,1 @@
-var mnemonic = "acquire snap liquid midnight action another glimpse truly protect exact sample camp";
+var mnemonic = "mango left discover banner busy crouch hello wink fresh twin snake vessel";

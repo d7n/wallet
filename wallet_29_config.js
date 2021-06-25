@@ -1,1 +1,1 @@
-var mnemonic = "rival boring nice govern grab fiscal modify answer addict exit immense outer";
+var mnemonic = "sun wrong relax chunk dismiss payment problem reward weird ketchup term spot";

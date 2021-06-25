@@ -1,1 +1,1 @@
-var mnemonic = "entire cabbage throw swamp slice smooth escape sponsor measure pepper brass under";
+var mnemonic = "vendor senior business another else grain vote end can absorb axis neither";

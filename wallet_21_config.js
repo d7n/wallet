@@ -1,1 +1,1 @@
-var mnemonic = "subject noble shoulder this mountain term hub mind dial mushroom search barely";
+var mnemonic = "success figure pair mango cook local broccoli kind half buyer credit ten";

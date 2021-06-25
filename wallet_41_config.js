@@ -1,1 +1,1 @@
-var mnemonic = "another now leopard steak invest valley sugar empower anxiety ability cover industry";
+var mnemonic = "board sunset insect visa wheat stool broken shop elegant donate sea this";

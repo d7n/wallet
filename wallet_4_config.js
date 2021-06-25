@@ -1,1 +1,1 @@
-var mnemonic = "actress hard cheap wage recipe fetch umbrella book filter eternal indicate language";
+var mnemonic = "salute salmon area again stable analyst add cram tuna wage tone rare";

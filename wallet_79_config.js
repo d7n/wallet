@@ -1,1 +1,1 @@
-var mnemonic = "crazy scout noise clay other weapon afford coil ancient unhappy major awake";
+var mnemonic = "end scene bamboo ceiling celery vote interest song fiction orange false nasty";

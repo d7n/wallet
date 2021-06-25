@@ -1,1 +1,1 @@
-var mnemonic = "rather gasp number ritual please grain charge strategy patrol broccoli pause marble";
+var mnemonic = "crazy response priority green match kiss soap pen lazy rival auction text";

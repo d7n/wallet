@@ -1,1 +1,1 @@
-var mnemonic = "door require end identify blame wing like possible entry normal word flee";
+var mnemonic = "onion knee rough play invest private unfair shine ahead result forget sugar";

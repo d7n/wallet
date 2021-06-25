@@ -1,1 +1,1 @@
-var mnemonic = "cool ensure honey room head camp question rhythm nerve maple trial first";
+var mnemonic = "foster faculty hurt address payment replace hunt gloom wire rifle chase vanish";

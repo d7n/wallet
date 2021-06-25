@@ -1,1 +1,1 @@
-var mnemonic = "vehicle price poverty december board fly ridge puppy hero size banana document";
+var mnemonic = "lens bronze bottom reunion helmet pudding spirit aware fatal decide improve hotel";

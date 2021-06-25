@@ -1,1 +1,1 @@
-var mnemonic = "palace fly punch dignity merit enter alter pledge sand detect either salon";
+var mnemonic = "vocal clip steak divide search vanish frame crazy melt admit paper real";

@@ -1,1 +1,1 @@
-var mnemonic = "curve hybrid october bread kidney live uncover yard normal job real only";
+var mnemonic = "erupt permit ball exit sword horror obey tuna about jeans educate aerobic";

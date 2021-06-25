@@ -1,1 +1,1 @@
-var mnemonic = "beach opera meadow dynamic panel canal enough artefact stable pitch term during";
+var mnemonic = "dinner paper atom dose social help rabbit ginger retire pledge vocal head";

@@ -1,1 +1,1 @@
-var mnemonic = "memory kitten sea resource screen unusual shy fitness frame measure art acoustic";
+var mnemonic = "more tomorrow pencil friend fruit dial matter hurry nephew often leg quantum";

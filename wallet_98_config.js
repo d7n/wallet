@@ -1,1 +1,1 @@
-var mnemonic = "demand doll brass kidney pilot middle before web icon correct frown tray";
+var mnemonic = "frog attract axis service crane someone acoustic sense march utility again alone";

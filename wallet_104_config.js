@@ -1,1 +1,1 @@
-var mnemonic = "spread only confirm wise puzzle stuff piece clarify dose actual task marine";
+var mnemonic = "opera pistol sausage struggle hockey rural same circle fuel waste session rib";

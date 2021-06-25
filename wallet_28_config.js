@@ -1,1 +1,1 @@
-var mnemonic = "fog wedding vocal diamond silver illness pass off bicycle choice among citizen";
+var mnemonic = "right normal calm today park casino demand coil carpet wagon veteran observe";

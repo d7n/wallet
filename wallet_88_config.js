@@ -1,1 +1,1 @@
-var mnemonic = "advance life castle coin skull voyage race surround mass quarter survey oxygen";
+var mnemonic = "olympic actor monitor tower oyster polar impose dice strike behind light depend";

@@ -1,1 +1,1 @@
-var mnemonic = "sock load apple cannon deliver before glimpse draw affair cycle govern solve";
+var mnemonic = "glow lake crystal vague media tennis doctor volume original patch hero ride";

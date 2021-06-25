@@ -1,1 +1,1 @@
-var mnemonic = "movie update school shock day change fatal foam invest one auction square";
+var mnemonic = "forum pumpkin junk level ribbon float bag ivory poem use track cry";

@@ -1,1 +1,1 @@
-var mnemonic = "fire pave buffalo charge gym mass usual talk rescue will ozone orbit";
+var mnemonic = "dilemma mechanic claw swarm process health grape actress danger neutral vague vacant";

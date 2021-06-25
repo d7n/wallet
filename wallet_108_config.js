@@ -1,1 +1,1 @@
-var mnemonic = "pair online grape volcano put curve fresh penalty aerobic pair reject renew";
+var mnemonic = "accident advice point best mad aware random enroll afford audit forum charge";

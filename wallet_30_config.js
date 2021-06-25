@@ -1,1 +1,1 @@
-var mnemonic = "front assault total ride primary moment execute muscle pistol rose crystal exhibit";
+var mnemonic = "output nice frog then tourist turkey capable arm tooth ahead space moment";

@@ -1,1 +1,1 @@
-var mnemonic = "item canal clock drip drastic void tourist hello measure fault strike carbon";
+var mnemonic = "eternal creek learn mule cargo equal valley repair sell knee decrease together";

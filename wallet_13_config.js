@@ -1,1 +1,1 @@
-var mnemonic = "fame metal medal hammer proud keen trial blouse possible picnic route flat";
+var mnemonic = "betray sound echo unable test power law pond asset alley pass tornado";

@@ -1,1 +1,1 @@
-var mnemonic = "roof country apple sketch slide glad another soccer flat become hill accuse";
+var mnemonic = "snack culture unfair short exit inhale trust tortoise embark race estate auto";

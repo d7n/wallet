@@ -1,1 +1,1 @@
-var mnemonic = "taxi fluid barrel submit wheat scatter oyster raccoon oak sting first miss";
+var mnemonic = "switch now cherry shove crane pottery main grid screen inject treat someone";

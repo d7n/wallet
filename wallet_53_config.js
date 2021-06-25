@@ -1,1 +1,1 @@
-var mnemonic = "sun moral liquid orbit foster clog borrow deputy jealous tide long flip";
+var mnemonic = "rack usage ivory dentist dinner pyramid transfer never neither desk fortune announce";

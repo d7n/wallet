@@ -1,1 +1,1 @@
-var mnemonic = "entry bright chimney damp vessel door minute green claw feed universe alone";
+var mnemonic = "pulse army brick album bundle camera bachelor much mask scene venue hub";

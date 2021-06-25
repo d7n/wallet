@@ -1,1 +1,1 @@
-var mnemonic = "urban blanket accuse blade example vintage cash what sauce expect off action";
+var mnemonic = "trip window valley stool seminar defy try tower much album coconut coil";

@@ -1,1 +1,1 @@
-var mnemonic = "river version coil wood utility float leisure churn escape exhibit meadow cool";
+var mnemonic = "material hazard also base stay taxi trim whip sunny relax page town";

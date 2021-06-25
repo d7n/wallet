@@ -1,1 +1,1 @@
-var mnemonic = "model include duty skin blue foam claim learn fall strike rib flight";
+var mnemonic = "actor garden express comic body shock miss air dash brick wing fiscal";

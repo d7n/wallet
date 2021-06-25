@@ -1,1 +1,1 @@
-var mnemonic = "tool desert board garlic frog filter hammer absent broom another grunt airport";
+var mnemonic = "bulk know bounce salute depth dad tourist belt rifle skin pact word";

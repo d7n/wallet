@@ -1,1 +1,1 @@
-var mnemonic = "glow attend short road odor purpose outer asset bread believe hard sea";
+var mnemonic = "biology rich vital goddess borrow clog pond cram dove bless insect clog";

@@ -1,1 +1,1 @@
-var mnemonic = "garage elder travel climb chief dirt jealous gadget clap term weird chaos";
+var mnemonic = "urban recall lizard disorder energy episode chase relax scan dolphin chest rail";

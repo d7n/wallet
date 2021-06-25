@@ -1,1 +1,1 @@
-var mnemonic = "garment right flame hungry height alcohol umbrella danger pottery vote crowd broom";
+var mnemonic = "design charge dizzy matter lumber rail venue fiber pigeon secret tower sail";

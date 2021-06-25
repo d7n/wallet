@@ -1,1 +1,1 @@
-var mnemonic = "peanut violin spare lottery law label coach wheat scrub chef convince license";
+var mnemonic = "salad flock receive enact fit either final coyote song video tip fresh";

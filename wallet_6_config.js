@@ -1,1 +1,1 @@
-var mnemonic = "whip network front panel build infant bone say love often risk close";
+var mnemonic = "dash skirt bronze inflict real cool advice bridge great enroll dragon turtle";

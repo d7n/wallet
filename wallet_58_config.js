@@ -1,1 +1,1 @@
-var mnemonic = "genuine hole plate success good wine arch drive shoot invite word involve";
+var mnemonic = "rigid jacket shield stage timber tiger latin resist behave dog canvas monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "kiss order flat afraid assume judge awesome twenty increase soldier walk repeat";
+var mnemonic = "purity theory afford empower menu valley next ranch behind car grief fat";

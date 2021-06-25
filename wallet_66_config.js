@@ -1,1 +1,1 @@
-var mnemonic = "advance barely rival response oxygen range outer nasty clip ecology venue appear";
+var mnemonic = "yellow bottom excuse arrive cherry access own invite attack regret depart report";

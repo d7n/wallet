@@ -1,1 +1,1 @@
-var mnemonic = "worry brass mansion relax mix swing frost sauce regular husband moon hat";
+var mnemonic = "attack spell choice adjust photo term major tortoise float joke click cruel";

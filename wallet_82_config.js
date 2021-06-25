@@ -1,1 +1,1 @@
-var mnemonic = "mixed puppy menu embrace friend fluid dune deliver village rally chronic pull";
+var mnemonic = "genius sadness burst clock once annual wrap favorite embody whisper element fox";

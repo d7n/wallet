@@ -1,1 +1,1 @@
-var mnemonic = "neutral refuse cradle nurse about merit brass peasant lunch mind throw person";
+var mnemonic = "twenty neck slush invite tag wheel copy alert tobacco warfare baby forget";

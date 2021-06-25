@@ -1,1 +1,1 @@
-var mnemonic = "item property jar screen side lazy glance position farm silent save fetch";
+var mnemonic = "day hero until elder perfect civil sunset detail injury topple asthma sphere";

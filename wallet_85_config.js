@@ -1,1 +1,1 @@
-var mnemonic = "secret cage economy wage demand increase miracle twelve change couple stool portion";
+var mnemonic = "place evil cook approve indoor into focus weather glare wheel alpha spawn";
