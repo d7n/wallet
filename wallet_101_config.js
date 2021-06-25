@@ -1,1 +1,1 @@
-var mnemonic = "mango left discover banner busy crouch hello wink fresh twin snake vessel";
+var mnemonic = "learn blur aerobic teach lazy clerk remain iron appear famous result spike";

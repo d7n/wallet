@@ -1,1 +1,1 @@
-var mnemonic = "prison solar beef sick hub keen jump miracle artefact ethics flavor material";
+var mnemonic = "tongue document clock rifle check unhappy trade guitar artwork exhaust calm ribbon";

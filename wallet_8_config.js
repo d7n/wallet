@@ -1,1 +1,1 @@
-var mnemonic = "eternal creek learn mule cargo equal valley repair sell knee decrease together";
+var mnemonic = "receive volume glory crunch color moral hero slush daughter address mango wolf";

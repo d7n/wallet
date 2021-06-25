@@ -1,1 +1,1 @@
-var mnemonic = "forum pumpkin junk level ribbon float bag ivory poem use track cry";
+var mnemonic = "steel suspect dry donor sunny ketchup toss amazing mask hurt fantasy door";

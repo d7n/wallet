@@ -1,1 +1,1 @@
-var mnemonic = "differ hybrid sweet loop foil head undo diamond actor chef need believe";
+var mnemonic = "empower draft surprise gravity boat ordinary lava bag actual invest banana prepare";

@@ -1,1 +1,1 @@
-var mnemonic = "observe flush maple sentence sport stomach firm bonus rebuild effort already bright";
+var mnemonic = "cat airport subway swing system time excess radar laundry approve mobile leader";

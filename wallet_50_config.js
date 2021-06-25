@@ -1,1 +1,1 @@
-var mnemonic = "canal fish submit wolf over divert profit witness clog menu bone truth";
+var mnemonic = "head people tuna upon useless fragile priority cube pizza pipe grid quantum";

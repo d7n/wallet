@@ -1,1 +1,1 @@
-var mnemonic = "snack culture unfair short exit inhale trust tortoise embark race estate auto";
+var mnemonic = "swear float scatter tumble oppose moment harbor tip usage glue divide slogan";

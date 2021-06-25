@@ -1,1 +1,1 @@
-var mnemonic = "category trust turtle liberty blast essence boil echo remember gorilla rely eagle";
+var mnemonic = "seed crisp ethics walk hen hole either risk spend agree visual second";

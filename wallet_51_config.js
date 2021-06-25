@@ -1,1 +1,1 @@
-var mnemonic = "gym sword click scout divert later hero april device direct beauty science";
+var mnemonic = "ribbon amazing goose nominee feature rookie until letter blood later hold ill";

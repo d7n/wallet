@@ -1,1 +1,1 @@
-var mnemonic = "safe cargo develop jewel salmon poem stage donate lamp index bar attend";
+var mnemonic = "nothing afraid typical over skate win venture regret ensure illegal among that";

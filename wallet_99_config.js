@@ -1,1 +1,1 @@
-var mnemonic = "attack spell choice adjust photo term major tortoise float joke click cruel";
+var mnemonic = "exile venture exercise rotate essence gaze subway truck kidney other capable segment";

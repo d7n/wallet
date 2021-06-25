@@ -1,1 +1,1 @@
-var mnemonic = "onion knee rough play invest private unfair shine ahead result forget sugar";
+var mnemonic = "squeeze fun quit sorry mimic fall twice repair dawn couple garlic sheriff";

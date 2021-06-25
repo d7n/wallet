@@ -1,1 +1,1 @@
-var mnemonic = "spend alpha story island buzz bacon truly test spend twelve employ deer";
+var mnemonic = "permit close head nuclear era regret code next pulp believe alert space";

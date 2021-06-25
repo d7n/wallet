@@ -1,1 +1,1 @@
-var mnemonic = "maze polar offer credit then layer catch state erode derive squeeze quick";
+var mnemonic = "scan aspect kiwi disorder control valley alien type remove foil suffer burger";

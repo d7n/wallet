@@ -1,1 +1,1 @@
-var mnemonic = "require unlock session naive police reduce broccoli total barely puppy random mixture";
+var mnemonic = "erode shop ball elevator tell mixture rose beyond nominee beach tell public";

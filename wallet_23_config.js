@@ -1,1 +1,1 @@
-var mnemonic = "auction shoe decade federal pig prosper outer inmate candy arch toward top";
+var mnemonic = "position pen garment almost festival speak unable finger language have mom benefit";

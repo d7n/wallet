@@ -1,1 +1,1 @@
-var mnemonic = "purity theory afford empower menu valley next ranch behind car grief fat";
+var mnemonic = "carry impact reform ugly glance stomach wasp text syrup calm door orient";

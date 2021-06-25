@@ -1,1 +1,1 @@
-var mnemonic = "depend travel spot pride foil napkin debris magnet simple mercy switch cook";
+var mnemonic = "fancy salad frozen question enlist arm away near author leader bring candy";

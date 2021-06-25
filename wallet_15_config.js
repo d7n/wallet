@@ -1,1 +1,1 @@
-var mnemonic = "glow lake crystal vague media tennis doctor volume original patch hero ride";
+var mnemonic = "loop clump since ghost level defy pride lottery egg carry dad off";

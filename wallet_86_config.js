@@ -1,1 +1,1 @@
-var mnemonic = "switch now cherry shove crane pottery main grid screen inject treat someone";
+var mnemonic = "pencil model purse kiwi enough flight disagree lonely bargain song filter immense";

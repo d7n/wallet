@@ -1,1 +1,1 @@
-var mnemonic = "actor garden express comic body shock miss air dash brick wing fiscal";
+var mnemonic = "arch country crumble assist input skill chest soda breeze liquid blanket cruel";

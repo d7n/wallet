@@ -1,1 +1,1 @@
-var mnemonic = "hollow panel anchor other pretty observe tongue close word total across wheel";
+var mnemonic = "dress plastic kidney frog chronic ocean magic melt sense diary dwarf stay";

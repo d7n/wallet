@@ -1,1 +1,1 @@
-var mnemonic = "leg lazy news type toddler online one differ off cousin fox cinnamon";
+var mnemonic = "filter ritual chalk satoshi fish diagram tornado close blouse oval escape hollow";

@@ -1,1 +1,1 @@
-var mnemonic = "pulse army brick album bundle camera bachelor much mask scene venue hub";
+var mnemonic = "milk put frog panther clean survey useless egg custom boil legend vacant";

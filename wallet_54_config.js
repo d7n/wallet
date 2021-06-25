@@ -1,1 +1,1 @@
-var mnemonic = "biology rich vital goddess borrow clog pond cram dove bless insect clog";
+var mnemonic = "fortune relax three word earth major seed learn list weasel knee weird";

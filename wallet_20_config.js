@@ -1,1 +1,1 @@
-var mnemonic = "bulk know bounce salute depth dad tourist belt rifle skin pact word";
+var mnemonic = "uniform net today lumber drum media cage offer squirrel diagram polar trophy";

@@ -1,1 +1,1 @@
-var mnemonic = "evolve human patient write animal journey retire innocent pink time zebra fashion";
+var mnemonic = "warfare horn about grid gate garden measure kind renew quote about door";

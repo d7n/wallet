@@ -1,1 +1,1 @@
-var mnemonic = "lizard crunch story bamboo behave face appear summer rib burden window wage";
+var mnemonic = "deliver kidney merry cube blue grow eye faint evil arrange fee style";

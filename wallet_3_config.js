@@ -1,1 +1,1 @@
-var mnemonic = "dwarf find sport anxiety primary blood message fence hollow device equal magnet";
+var mnemonic = "prosper caution pigeon record snow music cargo bottom engine pear actress shine";

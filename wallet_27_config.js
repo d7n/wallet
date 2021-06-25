@@ -1,1 +1,1 @@
-var mnemonic = "salad flock receive enact fit either final coyote song video tip fresh";
+var mnemonic = "forum suit delay praise sport peace blur notable inspire small cram praise";

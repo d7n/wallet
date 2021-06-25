@@ -1,1 +1,1 @@
-var mnemonic = "true mobile copy summer alley day toward develop cricket just olympic right";
+var mnemonic = "truck ready parade diesel punch couch material cram broom bone demand practice";

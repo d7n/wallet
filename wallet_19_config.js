@@ -1,1 +1,1 @@
-var mnemonic = "vocal clip steak divide search vanish frame crazy melt admit paper real";
+var mnemonic = "head rhythm imitate concert medal mail cruel ask describe zebra husband analyst";

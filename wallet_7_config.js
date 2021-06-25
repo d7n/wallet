@@ -1,1 +1,1 @@
-var mnemonic = "clip common prize original move pass rookie vintage toddler capable trap prize";
+var mnemonic = "usage ripple normal throw decade book wash soon escape tower purity under";

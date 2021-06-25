@@ -1,1 +1,1 @@
-var mnemonic = "vendor senior business another else grain vote end can absorb axis neither";
+var mnemonic = "wild gaze define blur faint opera maximum axis silly luggage sauce evolve";

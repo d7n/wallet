@@ -1,1 +1,1 @@
-var mnemonic = "dilemma mechanic claw swarm process health grape actress danger neutral vague vacant";
+var mnemonic = "require awkward gospel accident father voice donate define gain sniff drip wife";

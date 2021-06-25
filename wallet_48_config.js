@@ -1,1 +1,1 @@
-var mnemonic = "day hero until elder perfect civil sunset detail injury topple asthma sphere";
+var mnemonic = "produce term hire alert prize minor visual nasty antique engage hockey kidney";

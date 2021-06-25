@@ -1,1 +1,1 @@
-var mnemonic = "salute salmon area again stable analyst add cram tuna wage tone rare";
+var mnemonic = "select hurt tattoo jelly unhappy shoulder rotate range neck goddess concert isolate";

@@ -1,1 +1,1 @@
-var mnemonic = "taste later sorry wet injury until foam nominee relief card term pen";
+var mnemonic = "romance urge combine fire chicken lemon perfect three hen coffee stone glove";

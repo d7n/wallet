@@ -1,1 +1,1 @@
-var mnemonic = "universe pass student balance carbon strategy globe usual index search cupboard route";
+var mnemonic = "aim champion decrease shuffle heart near segment notice goat play armed buzz";

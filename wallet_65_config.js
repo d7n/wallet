@@ -1,1 +1,1 @@
-var mnemonic = "organ useless sock certain wool absent burger robust boil general muscle account";
+var mnemonic = "because wrong burden length sell violin comfort client east mass proof hurt";

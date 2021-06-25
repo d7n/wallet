@@ -1,1 +1,1 @@
-var mnemonic = "kit seven sauce rescue auction slice divide rail skirt resemble argue tank";
+var mnemonic = "ensure master neutral fire furnace salon unusual chicken response volume cruise arm";

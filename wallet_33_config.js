@@ -1,1 +1,1 @@
-var mnemonic = "lucky sheriff purpose apart multiply jelly jealous lumber donate magic chaos latin";
+var mnemonic = "yellow tower letter over twenty plug pizza glove alone tide choice expect";

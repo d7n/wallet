@@ -1,1 +1,1 @@
-var mnemonic = "urban recall lizard disorder energy episode chase relax scan dolphin chest rail";
+var mnemonic = "tired virus lyrics true media wool taxi chuckle promote own slush raccoon";

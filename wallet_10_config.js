@@ -1,1 +1,1 @@
-var mnemonic = "current mail wedding confirm clean label flash other throw moon click emotion";
+var mnemonic = "april artwork razor arrive utility crazy fine frequent caught road tobacco flag";

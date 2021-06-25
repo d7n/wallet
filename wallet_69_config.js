@@ -1,1 +1,1 @@
-var mnemonic = "ten water work fabric dust basic topple junior must leave gospel solve";
+var mnemonic = "sunny prepare announce useful layer paddle violin coach festival void model bachelor";

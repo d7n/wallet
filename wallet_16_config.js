@@ -1,1 +1,1 @@
-var mnemonic = "athlete pattern doctor blood photo apology target leaf private hair grace embrace";
+var mnemonic = "leisure axis bacon evoke pyramid lock add trumpet talent nerve defense stage";

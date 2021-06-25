@@ -1,1 +1,1 @@
-var mnemonic = "place evil cook approve indoor into focus weather glare wheel alpha spawn";
+var mnemonic = "neither flash length weasel shell pumpkin scrap giggle rack convince supreme enroll";

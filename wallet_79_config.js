@@ -1,1 +1,1 @@
-var mnemonic = "end scene bamboo ceiling celery vote interest song fiction orange false nasty";
+var mnemonic = "oven guitar deliver poverty moon warm custom ecology cause another project daring";

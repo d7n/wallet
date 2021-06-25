@@ -1,1 +1,1 @@
-var mnemonic = "grit stereo absent round join skirt usual radio fabric box cherry another";
+var mnemonic = "click document own damp assist silver grocery emerge onion total sell twice";

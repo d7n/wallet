@@ -1,1 +1,1 @@
-var mnemonic = "infant salt scan cactus owner tower cruel near attack blue document balcony";
+var mnemonic = "false beauty near invite together peanut trim arrive marine input column skirt";

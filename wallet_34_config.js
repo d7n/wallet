@@ -1,1 +1,1 @@
-var mnemonic = "race very lawn exercise wash feature orange resource brand charge test cloth";
+var mnemonic = "omit mistake kidney era shaft absurd virtual grace slice skin canvas expose";

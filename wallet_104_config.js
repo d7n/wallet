@@ -1,1 +1,1 @@
-var mnemonic = "opera pistol sausage struggle hockey rural same circle fuel waste session rib";
+var mnemonic = "talk label proud hat avoid outer arrow possible settle upper ensure miracle";

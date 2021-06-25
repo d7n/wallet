@@ -1,1 +1,1 @@
-var mnemonic = "relief disagree walnut march rug doctor rely soul reward color boil liberty";
+var mnemonic = "fame cage spread expect slab dirt hero skate fury brown garlic hidden";

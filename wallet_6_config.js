@@ -1,1 +1,1 @@
-var mnemonic = "dash skirt bronze inflict real cool advice bridge great enroll dragon turtle";
+var mnemonic = "web discover chunk smooth original ribbon access retire ordinary attend blame arctic";

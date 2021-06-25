@@ -1,1 +1,1 @@
-var mnemonic = "trip window valley stool seminar defy try tower much album coconut coil";
+var mnemonic = "thunder mobile stamp fatigue antique goose broccoli travel sphere plunge settle runway";

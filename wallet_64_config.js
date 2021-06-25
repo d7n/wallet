@@ -1,1 +1,1 @@
-var mnemonic = "injury option equal honey early violin claim squirrel payment situate amateur fork";
+var mnemonic = "approve inmate sentence dismiss domain few sword skull reveal rhythm snake virus";

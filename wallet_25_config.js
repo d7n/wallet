@@ -1,1 +1,1 @@
-var mnemonic = "cheese consider fee say file wagon cargo claw try discover pause unhappy";
+var mnemonic = "habit hole ask style civil mercy during spoon plug genre mountain dice";

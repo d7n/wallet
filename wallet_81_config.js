@@ -1,1 +1,1 @@
-var mnemonic = "dinner paper atom dose social help rabbit ginger retire pledge vocal head";
+var mnemonic = "year island depend vehicle steel patch daughter evoke grow seminar edit sun";

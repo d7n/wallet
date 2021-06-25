@@ -1,1 +1,1 @@
-var mnemonic = "breeze duty inhale fluid open else extra build absorb pumpkin bridge april";
+var mnemonic = "need liberty palm brick curve wink change penalty tourist focus harsh situate";

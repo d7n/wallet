@@ -1,1 +1,1 @@
-var mnemonic = "acquire angle sauce welcome unknown wine cluster alcohol before album photo calm";
+var mnemonic = "famous survey castle used act comfort repair diesel bike senior person relief";

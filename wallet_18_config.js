@@ -1,1 +1,1 @@
-var mnemonic = "swift spawn reform infant cousin ripple oppose pole bicycle remember depend truth";
+var mnemonic = "bunker public logic lend clog ridge elevator wink chat cousin limit upon";

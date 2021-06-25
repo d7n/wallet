@@ -1,1 +1,1 @@
-var mnemonic = "summer useful wheat sample crucial coach leg sand ankle error result chaos";
+var mnemonic = "ocean truck myself scout music reward issue soon hazard decorate alone arrive";

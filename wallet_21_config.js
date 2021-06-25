@@ -1,1 +1,1 @@
-var mnemonic = "success figure pair mango cook local broccoli kind half buyer credit ten";
+var mnemonic = "expand flower cram fly toy negative stand wheat blast ignore swing link";

@@ -1,1 +1,1 @@
-var mnemonic = "desert finish judge fan arch design blast fresh eager nuclear edit notable";
+var mnemonic = "security project river mesh topple public deposit hen view raven despair mechanic";

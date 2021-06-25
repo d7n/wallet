@@ -1,1 +1,1 @@
-var mnemonic = "right normal calm today park casino demand coil carpet wagon veteran observe";
+var mnemonic = "rib lyrics merit comic smart burger fish pledge confirm point ivory social";

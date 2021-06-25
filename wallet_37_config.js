@@ -1,1 +1,1 @@
-var mnemonic = "extend horror business theory equal gossip pear visa curve oil trip way";
+var mnemonic = "fury path fresh police arrive oxygen myth illness tree include topic convince";

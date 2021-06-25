@@ -1,1 +1,1 @@
-var mnemonic = "jewel scatter shrimp include lava finish trend sing kick initial grab banana";
+var mnemonic = "shy plunge beauty oven quality hawk doll awful crumble travel during ready";

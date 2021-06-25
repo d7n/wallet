@@ -1,1 +1,1 @@
-var mnemonic = "crowd elephant hamster alley surface chef ball install sweet time vicious honey";
+var mnemonic = "album pluck silk they loud game category sock dune output elephant devote";

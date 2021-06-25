@@ -1,1 +1,1 @@
-var mnemonic = "club decrease step cup harsh image pizza act rug local vacuum where";
+var mnemonic = "repair produce tomorrow opinion minor record emotion place jar bottom sheriff present";

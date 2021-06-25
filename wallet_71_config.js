@@ -1,1 +1,1 @@
-var mnemonic = "veteran expect hockey snap arrow then food above fade fantasy ancient aim";
+var mnemonic = "pumpkin found resemble group curious alien cricket tribe happy ski vehicle accuse";

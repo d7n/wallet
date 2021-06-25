@@ -1,1 +1,1 @@
-var mnemonic = "bulk second canoe runway husband okay strategy demise wet erosion merge myself";
+var mnemonic = "lunar lend track artist ripple cover enable wave cousin piano engage someone";

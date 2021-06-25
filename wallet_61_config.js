@@ -1,1 +1,1 @@
-var mnemonic = "game knock payment room fan keep taxi emotion patrol seven fall endless";
+var mnemonic = "pave cigar ocean clever certain copper unfair trip six mandate divide tired";

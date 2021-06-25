@@ -1,1 +1,1 @@
-var mnemonic = "olympic actor monitor tower oyster polar impose dice strike behind light depend";
+var mnemonic = "great great clinic bright bachelor output cloth soup amused urge staff tired";

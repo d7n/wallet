@@ -1,1 +1,1 @@
-var mnemonic = "unit fortune vote render ask south ridge taxi slab laundry earn rug";
+var mnemonic = "zero lunch fiscal medal lawn nephew color tumble question gossip super object";

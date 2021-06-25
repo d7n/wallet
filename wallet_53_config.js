@@ -1,1 +1,1 @@
-var mnemonic = "rack usage ivory dentist dinner pyramid transfer never neither desk fortune announce";
+var mnemonic = "lady grab bid paddle never blush chase soccer result odor survey talk";

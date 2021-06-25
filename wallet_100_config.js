@@ -1,1 +1,1 @@
-var mnemonic = "foster faculty hurt address payment replace hunt gloom wire rifle chase vanish";
+var mnemonic = "tank jungle immense pizza witness ginger pencil slight moment upper opinion old";

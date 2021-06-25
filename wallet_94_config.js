@@ -1,1 +1,1 @@
-var mnemonic = "lens bronze bottom reunion helmet pudding spirit aware fatal decide improve hotel";
+var mnemonic = "myself fox desert pet photo area until aunt filter alien cable skin";

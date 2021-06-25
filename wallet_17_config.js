@@ -1,1 +1,1 @@
-var mnemonic = "flush wish ramp together skin oppose sphere scrap entire mask fall swift";
+var mnemonic = "sense print cargo refuse protect device track stuff like risk ship matter";

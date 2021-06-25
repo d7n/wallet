@@ -1,1 +1,1 @@
-var mnemonic = "accident advice point best mad aware random enroll afford audit forum charge";
+var mnemonic = "humble innocent impose milk baby powder envelope flash detect disease shoulder amateur";

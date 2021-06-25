@@ -1,1 +1,1 @@
-var mnemonic = "wink resemble degree anxiety battle tell glad joy robust found use edit";
+var mnemonic = "paddle fever merge dance family fault couple gold prosper history property muscle";

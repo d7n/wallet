@@ -1,1 +1,1 @@
-var mnemonic = "sun wrong relax chunk dismiss payment problem reward weird ketchup term spot";
+var mnemonic = "balance hybrid false shift control enroll alter duty cabbage junior screen major";

@@ -1,1 +1,1 @@
-var mnemonic = "rough fury fashion agent exchange erupt what car almost hunt fit antique";
+var mnemonic = "armed bench found luggage mix release cool height finger response entry world";

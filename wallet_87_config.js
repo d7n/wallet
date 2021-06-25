@@ -1,1 +1,1 @@
-var mnemonic = "split charge reflect begin squeeze mansion plate skull hill thrive burst soon";
+var mnemonic = "surprise reduce addict approve worry struggle hospital pause elevator famous myself suit";

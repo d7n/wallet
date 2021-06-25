@@ -1,1 +1,1 @@
-var mnemonic = "sport flavor oval reunion also envelope era decrease either language wall bicycle";
+var mnemonic = "foot defense crucial eager roast park harsh sick skirt what spawn glimpse";

@@ -1,1 +1,1 @@
-var mnemonic = "material hazard also base stay taxi trim whip sunny relax page town";
+var mnemonic = "easy prepare metal fossil glad feed science cream idle lady stool birth";

@@ -1,1 +1,1 @@
-var mnemonic = "betray sound echo unable test power law pond asset alley pass tornado";
+var mnemonic = "orchard milk easily exist scissors fantasy angle physical game child better shift";
