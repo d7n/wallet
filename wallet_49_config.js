@@ -1,1 +1,1 @@
-var mnemonic = "stick aerobic aisle crumble runway torch carbon tattoo letter garlic tiny injury";
+var mnemonic = "sheriff guard message struggle swarm foam story toward enjoy rude mother again";

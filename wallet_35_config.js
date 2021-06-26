@@ -1,1 +1,1 @@
-var mnemonic = "auction lock dose feature cannon bounce body eyebrow usual injury above source";
+var mnemonic = "iron control fly raw leg orchard banana pigeon flame there shallow wedding";

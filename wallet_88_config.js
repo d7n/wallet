@@ -1,1 +1,1 @@
-var mnemonic = "naive health economy what divide chaos sea page doll raven topple half";
+var mnemonic = "apart world gossip model hand meadow cash slide away token employ before";

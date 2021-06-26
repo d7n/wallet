@@ -1,1 +1,1 @@
-var mnemonic = "fat swim general pluck moment mansion know reward mistake upset photo trap";
+var mnemonic = "safe scan solar brave book eight start wine loud anchor state benefit";

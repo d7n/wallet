@@ -1,1 +1,1 @@
-var mnemonic = "fiscal sad agent short symptom ship nephew harbor tray intact quarter stumble";
+var mnemonic = "invite scale business tray annual lady equal decline frog use robot surface";

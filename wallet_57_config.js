@@ -1,1 +1,1 @@
-var mnemonic = "draw kick strategy cliff month unique left dust cause around spot surprise";
+var mnemonic = "purpose fortune dynamic weather scare width position fold winter learn select upgrade";

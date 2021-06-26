@@ -1,1 +1,1 @@
-var mnemonic = "gauge coral speed behind onion school recipe success virus away uncle print";
+var mnemonic = "ankle bargain then enjoy math ripple gadget sauce sentence barely remove ancient";

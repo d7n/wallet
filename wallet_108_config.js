@@ -1,1 +1,1 @@
-var mnemonic = "december fury obtain reflect apple cupboard mention kitchen nothing trumpet armor hotel";
+var mnemonic = "grow shock name coffee hen route good camp surround wood sadness type";

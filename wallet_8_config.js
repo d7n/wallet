@@ -1,1 +1,1 @@
-var mnemonic = "note follow veteran cradle rent come sheriff cause aspect photo jelly reveal";
+var mnemonic = "alert crumble equal patch spring doctor artist emotion spider joke rude expire";

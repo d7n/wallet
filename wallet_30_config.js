@@ -1,1 +1,1 @@
-var mnemonic = "hidden already metal steel charge erosion ecology glad swap hub bag cabin";
+var mnemonic = "bulk pair spirit skin trash pluck gorilla sleep lecture best mouse advice";

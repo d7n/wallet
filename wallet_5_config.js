@@ -1,1 +1,1 @@
-var mnemonic = "theory junior cloth volcano sponsor gauge fortune oak scale almost index ball";
+var mnemonic = "pact coast shoe dream surprise skirt jaguar catch talent maze crunch bracket";

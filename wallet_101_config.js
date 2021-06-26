@@ -1,1 +1,1 @@
-var mnemonic = "faith time table bottom shiver west episode top oxygen tide term flat";
+var mnemonic = "walk spend list amateur print vital curtain scatter extra acquire duck empower";

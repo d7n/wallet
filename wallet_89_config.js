@@ -1,1 +1,1 @@
-var mnemonic = "lens welcome refuse ghost profit note hip seven enjoy beauty pig leopard";
+var mnemonic = "suit adult uphold whip aware cage virtual describe cannon filter embark check";

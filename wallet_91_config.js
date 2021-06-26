@@ -1,1 +1,1 @@
-var mnemonic = "beyond improve actor sketch follow throw session permit egg lucky recycle lawn";
+var mnemonic = "drill sorry elegant range devote arctic owner brain useful warm essay pitch";

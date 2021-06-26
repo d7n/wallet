@@ -1,1 +1,1 @@
-var mnemonic = "vintage physical rabbit violin reduce creek surround display garden plug wing gesture";
+var mnemonic = "you doctor expect badge kid shrug inmate cloth wall load renew art";

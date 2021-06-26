@@ -1,1 +1,1 @@
-var mnemonic = "dream only bar degree chalk auction video link hazard harbor almost year";
+var mnemonic = "negative surprise oven since call elephant image ten earth hard infant bone";

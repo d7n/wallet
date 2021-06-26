@@ -1,1 +1,1 @@
-var mnemonic = "repair pelican ramp frog acquire index subject soldier time describe popular velvet";
+var mnemonic = "simple taste special used crush spell chunk cloth swallow reduce beauty immense";

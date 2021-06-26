@@ -1,1 +1,1 @@
-var mnemonic = "flash midnight custom gloom together awkward situate grant feed shoot joke horror";
+var mnemonic = "funny recipe lake silver order catalog core swallow run steak small suit";

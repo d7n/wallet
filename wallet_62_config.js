@@ -1,1 +1,1 @@
-var mnemonic = "fresh whip behave acid renew supply taxi club ripple lobster wing people";
+var mnemonic = "bone target motor unlock oval patient brown truly dumb sure balance drink";

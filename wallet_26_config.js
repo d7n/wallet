@@ -1,1 +1,1 @@
-var mnemonic = "final raccoon clown grant proud punch distance frost neither bamboo front frown";
+var mnemonic = "unhappy tower lake rice lesson dignity delay sentence gown clip warm topic";

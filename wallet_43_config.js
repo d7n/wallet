@@ -1,1 +1,1 @@
-var mnemonic = "hurdle praise mean galaxy series hundred satisfy water sort skirt spring surge";
+var mnemonic = "post expand infant motor address mercy pink announce height follow nest common";

@@ -1,1 +1,1 @@
-var mnemonic = "foam chimney finish brush birth lonely energy benefit energy broccoli prosper virtual";
+var mnemonic = "such gravity tool save silent october resource keen daring bid crazy arm";

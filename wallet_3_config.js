@@ -1,1 +1,1 @@
-var mnemonic = "ring fragile steak pig cereal stairs carry fame recycle car shop bamboo";
+var mnemonic = "analyst airport silent this spatial day noise hurry split canyon anchor wagon";

@@ -1,1 +1,1 @@
-var mnemonic = "unknown coconut draw together fee until hen inherit tray ranch raven bus";
+var mnemonic = "invite tiger electric often suspect gather meadow since loud blast skate desk";

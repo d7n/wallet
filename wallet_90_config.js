@@ -1,1 +1,1 @@
-var mnemonic = "slow orange film cube bid mammal various loan banner taxi build when";
+var mnemonic = "weapon robot grain rib charge dwarf connect destroy eagle rough fluid lift";

@@ -1,1 +1,1 @@
-var mnemonic = "fever rifle always steak relief pilot steel brand comic festival anxiety bench";
+var mnemonic = "voyage total luxury remind face floor club innocent degree that gym puppy";

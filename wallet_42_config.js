@@ -1,1 +1,1 @@
-var mnemonic = "fan shy mercy cause verify film business obtain please advance chef control";
+var mnemonic = "flag diesel universe coyote clutch march cute unhappy jealous desert false organ";

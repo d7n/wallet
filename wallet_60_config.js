@@ -1,1 +1,1 @@
-var mnemonic = "venue stadium dolphin appear fall crane lumber exile reduce upset october taxi";
+var mnemonic = "alert horse wish bubble vital stomach immense broccoli knife flavor possible lyrics";

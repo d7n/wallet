@@ -1,1 +1,1 @@
-var mnemonic = "yard tunnel relief dumb rival cloth ill win stove biology wood hawk";
+var mnemonic = "render fever youth layer delay sustain engine ocean must uncle include one";

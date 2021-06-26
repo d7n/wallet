@@ -1,1 +1,1 @@
-var mnemonic = "green horse wood vessel slam into license develop fatal celery resist mutual";
+var mnemonic = "order muscle jazz lend defy double erase gift tunnel secret swim joke";

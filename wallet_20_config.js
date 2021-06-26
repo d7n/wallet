@@ -1,1 +1,1 @@
-var mnemonic = "annual lab defy ecology word cereal merit beach spray negative learn unit";
+var mnemonic = "wide skin slender tumble purpose armed lawn pigeon disorder skin tragic head";

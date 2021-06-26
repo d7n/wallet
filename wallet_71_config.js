@@ -1,1 +1,1 @@
-var mnemonic = "fever such rabbit model degree suffer kiwi green shrug random subway between";
+var mnemonic = "assault beauty maid gorilla disagree canal ten admit repair robust high easily";

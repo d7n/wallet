@@ -1,1 +1,1 @@
-var mnemonic = "gospel service major rely outer cause you skull return tragic bulk dog";
+var mnemonic = "agent decide amused you clarify crouch boring escape depend scissors toilet basket";

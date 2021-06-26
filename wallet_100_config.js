@@ -1,1 +1,1 @@
-var mnemonic = "vanish load affair mother rookie cradle clip boost milk pyramid iron artefact";
+var mnemonic = "wash million other minute child wall art year asthma midnight exhaust man";

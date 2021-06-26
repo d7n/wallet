@@ -1,1 +1,1 @@
-var mnemonic = "thought wife face coconut sort jeans news feel payment type boss punch";
+var mnemonic = "later answer antenna olympic glue flight weird dune bunker diary author estate";

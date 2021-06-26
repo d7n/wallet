@@ -1,1 +1,1 @@
-var mnemonic = "animal prosper tell bid save image slim helmet endless core example visit";
+var mnemonic = "walk rally garden run crack tank zoo inch praise hawk hollow mix";

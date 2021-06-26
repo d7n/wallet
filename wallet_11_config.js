@@ -1,1 +1,1 @@
-var mnemonic = "cart faculty violin kiwi news venture party suit vessel super amount afraid";
+var mnemonic = "invite load section profit lesson noodle refuse dumb wood update sausage mixed";

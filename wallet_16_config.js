@@ -1,1 +1,1 @@
-var mnemonic = "menu twenty gorilla naive pill wagon treat square drastic vague math toilet";
+var mnemonic = "enlist exhaust sauce initial laundry cabin silly front picture early blame tennis";

@@ -1,1 +1,1 @@
-var mnemonic = "ride loud wire track guide catalog arrange garment relax helmet fruit picnic";
+var mnemonic = "gift road legal tenant else naive grain oval time forum tomato poverty";

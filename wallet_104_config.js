@@ -1,1 +1,1 @@
-var mnemonic = "bike gentle stairs grab sleep damage brisk awful cake biology opinion prosper";
+var mnemonic = "problem surround extend cost half panda business bleak type settle injury nephew";

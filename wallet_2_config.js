@@ -1,1 +1,1 @@
-var mnemonic = "dust prison athlete pen deal skirt border music top picture absent pause";
+var mnemonic = "hand cat protect explain hedgehog put witness cushion question include cable witness";

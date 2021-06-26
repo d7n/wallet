@@ -1,1 +1,1 @@
-var mnemonic = "away green eight enroll grief differ under custom idle inside polar equip";
+var mnemonic = "bone winner morning century wonder add window renew invest learn gloom general";

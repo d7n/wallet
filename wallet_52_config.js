@@ -1,1 +1,1 @@
-var mnemonic = "lemon glance name hand cement indoor blossom pause dish hobby sea dish";
+var mnemonic = "sport crawl circle bench always candy host flock luggage dry wagon sound";

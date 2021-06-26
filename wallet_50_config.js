@@ -1,1 +1,1 @@
-var mnemonic = "art patient prison render pride among soccer nut balcony captain student ribbon";
+var mnemonic = "metal fresh misery obey height axis must ring benefit wagon require bench";

@@ -1,1 +1,1 @@
-var mnemonic = "nephew zoo nominee lunar chunk supreme ceiling wonder claw farm super label";
+var mnemonic = "design exchange razor drip trap decline humor decorate radar tobacco purpose lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "vast turtle dignity win duty carpet devote result junk casual cause account";
+var mnemonic = "lucky peasant smooth during dizzy you liar input noodle exercise judge admit";

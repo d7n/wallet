@@ -1,1 +1,1 @@
-var mnemonic = "asthma rug mean slow inner grow flag south used pattern survey galaxy";
+var mnemonic = "world upon anger planet miss angry smooth man embark ketchup leg peace";

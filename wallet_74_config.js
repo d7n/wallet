@@ -1,1 +1,1 @@
-var mnemonic = "cool runway fragile flame effort hire argue change insect indoor mind nest";
+var mnemonic = "recall tomato language harbor rebuild trumpet busy unveil sudden puzzle turkey stamp";

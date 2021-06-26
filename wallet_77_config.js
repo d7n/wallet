@@ -1,1 +1,1 @@
-var mnemonic = "muffin member symbol only nose float push orchard slight fashion unique sustain";
+var mnemonic = "project shed park leisure ice charge repair you pulp bus behave unhappy";

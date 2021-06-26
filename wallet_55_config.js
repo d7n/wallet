@@ -1,1 +1,1 @@
-var mnemonic = "assist elder rice outside off supreme evil truck aspect inch topic width";
+var mnemonic = "bird peanut elephant always mom flower demise spider ankle enlist surge engine";

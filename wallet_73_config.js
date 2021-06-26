@@ -1,1 +1,1 @@
-var mnemonic = "toward impose major junk green language extend output can attack radio hard";
+var mnemonic = "impose aim argue elder fan erode alter popular abuse possible vacant edit";

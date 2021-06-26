@@ -1,1 +1,1 @@
-var mnemonic = "cancel first pig canal shine umbrella ship fold history travel fiber trigger";
+var mnemonic = "wrap solid hub refuse shuffle melt receive admit cake forest lawsuit ensure";

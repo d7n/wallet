@@ -1,1 +1,1 @@
-var mnemonic = "health admit super security skull venue rebel capable rookie prepare found hint";
+var mnemonic = "matrix solution equip off divide lens urge punch guard ripple write symptom";

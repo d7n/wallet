@@ -1,1 +1,1 @@
-var mnemonic = "ship fox romance neutral another snake trumpet cram replace confirm wild entire";
+var mnemonic = "top guard icon knock common grant fly aspect easily client analyst admit";

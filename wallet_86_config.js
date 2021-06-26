@@ -1,1 +1,1 @@
-var mnemonic = "wild mandate weasel matter sing weekend autumn mouse sheriff lounge bacon initial";
+var mnemonic = "kangaroo retreat top awesome abandon weather install scale below piece fit bench";

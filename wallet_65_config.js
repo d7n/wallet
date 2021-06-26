@@ -1,1 +1,1 @@
-var mnemonic = "attract cage pudding adult object setup erosion people can scene census water";
+var mnemonic = "limit cable step alcohol very era clutch second salmon ramp teach confirm";

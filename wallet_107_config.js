@@ -1,1 +1,1 @@
-var mnemonic = "theme observe phrase sword depart nation advance mom prevent like vacant fresh";
+var mnemonic = "unfold south rose soccer extra cliff paper ball delay hard stick lemon";

@@ -1,1 +1,1 @@
-var mnemonic = "aunt quarter pattern ivory giggle umbrella manual kick museum payment hope virus";
+var mnemonic = "ship rapid potato lounge inhale knee thing drastic army demand romance trap";

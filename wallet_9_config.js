@@ -1,1 +1,1 @@
-var mnemonic = "throw awful bread cable subject grid group suspect trend upper fun false";
+var mnemonic = "nasty orbit north april patch permit ball kit soda huge rotate mean";

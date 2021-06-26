@@ -1,1 +1,1 @@
-var mnemonic = "ill recall birth south correct rich such spice summer zebra erupt tide";
+var mnemonic = "floor save sunset solution walk intact finish reason circle grass initial game";

@@ -1,1 +1,1 @@
-var mnemonic = "feature uphold exile tomato mule isolate regret enable olympic once idea when";
+var mnemonic = "mutual hobby hotel surround lesson modify wire business innocent awesome strike cushion";

@@ -1,1 +1,1 @@
-var mnemonic = "east salute nut crawl void oak ranch jungle pioneer egg winter neither";
+var mnemonic = "section spirit slight logic metal flower borrow city barrel tilt usual claw";

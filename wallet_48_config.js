@@ -1,1 +1,1 @@
-var mnemonic = "agent illness capital garlic tide thunder topic hip camera loan one remind";
+var mnemonic = "lake coyote battle cabin expand long zebra gold tennis asthma wood divorce";

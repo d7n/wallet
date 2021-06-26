@@ -1,1 +1,1 @@
-var mnemonic = "cause festival audit loop clown result sorry forest empower coral stamp elbow";
+var mnemonic = "neither leader force excess chef struggle story mistake nephew power lounge lesson";

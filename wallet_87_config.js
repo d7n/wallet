@@ -1,1 +1,1 @@
-var mnemonic = "solve horror west heavy prosper picnic man screen borrow degree mercy bubble";
+var mnemonic = "nature miss combine bridge rib idle shuffle arrange black pyramid north visa";

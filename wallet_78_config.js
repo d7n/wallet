@@ -1,1 +1,1 @@
-var mnemonic = "sing post differ sibling ability slam virus eight curtain crunch oblige foil";
+var mnemonic = "front that soup nest win bid carry sport depth annual leave siege";

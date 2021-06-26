@@ -1,1 +1,1 @@
-var mnemonic = "false metal slot hair october mountain pigeon pitch item enjoy glory supply";
+var mnemonic = "focus empty topic label attitude avocado estate sauce fury primary educate play";

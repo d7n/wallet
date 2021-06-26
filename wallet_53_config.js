@@ -1,1 +1,1 @@
-var mnemonic = "avoid grape pudding play curtain cat wool fragile tube laugh alone forum";
+var mnemonic = "surprise typical vendor expire argue memory night idea leopard cotton indicate sausage";

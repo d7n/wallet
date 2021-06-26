@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit size panther suffer surprise leisure shoe leader oblige animal unfold season";
+var mnemonic = "daring choose large amount split service bunker slide marriage kitten enough share";

@@ -1,1 +1,1 @@
-var mnemonic = "leg urge buddy color onion rebuild disagree deputy catch secret hello original";
+var mnemonic = "fluid achieve team imitate card object custom display fragile audit total license";

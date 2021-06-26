@@ -1,1 +1,1 @@
-var mnemonic = "clump result twenty vast fiber private deer clever prefer radar fee snap";
+var mnemonic = "disorder ostrich hamster tower material print produce harsh merit virtual tide secret";

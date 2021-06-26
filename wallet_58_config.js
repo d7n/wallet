@@ -1,1 +1,1 @@
-var mnemonic = "share deposit maze wrap cluster wave quote can bean page light gasp";
+var mnemonic = "rapid rib attend cool knee purpose liar flavor opinion typical either admit";

@@ -1,1 +1,1 @@
-var mnemonic = "noble parent fringe ten view spell expire call obtain extend hobby next";
+var mnemonic = "two coral recycle crawl loyal alter inspire stable letter season artist flee";

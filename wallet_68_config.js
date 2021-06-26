@@ -1,1 +1,1 @@
-var mnemonic = "never breeze wait section screen knife noble estate verb assist denial season";
+var mnemonic = "radar negative reveal ketchup cable afraid exotic nature excuse anger figure dance";

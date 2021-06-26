@@ -1,1 +1,1 @@
-var mnemonic = "myself panther party shy seed dust hammer crime panda border urge alien";
+var mnemonic = "zoo spend jump weasel tiger capital snake crunch catch fix similar pupil";

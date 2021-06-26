@@ -1,1 +1,1 @@
-var mnemonic = "pond angle that address grant lecture win course base girl amateur example";
+var mnemonic = "scare erase zebra silk notice cat tree ask rug slam patrol parade";

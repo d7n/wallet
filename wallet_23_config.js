@@ -1,1 +1,1 @@
-var mnemonic = "average deal power donor gospel helmet track stable keep prefer clinic attend";
+var mnemonic = "guilt gorilla buddy inner task song idle appear camera slam way skirt";

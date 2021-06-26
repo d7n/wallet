@@ -1,1 +1,1 @@
-var mnemonic = "make flat venture bike cover sing enforce phrase horror visual poet ignore";
+var mnemonic = "private bleak gravity range update food table reason wait civil fault kid";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn piece reopen outer type brief paddle fiscal extra damage rapid address";
+var mnemonic = "detect noodle aware winter burger jaguar service genre civil maze later eternal";

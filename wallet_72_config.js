@@ -1,1 +1,1 @@
-var mnemonic = "work apology balcony opera mule crystal ignore giant near security excuse correct";
+var mnemonic = "immense belt despair dose brown this train fame resist remove disorder web";

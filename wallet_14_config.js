@@ -1,1 +1,1 @@
-var mnemonic = "runway cotton crane message once toilet diet skate health tomorrow lend slide";
+var mnemonic = "drop live rigid couch measure seminar young choice typical winner shell between";

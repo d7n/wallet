@@ -1,1 +1,1 @@
-var mnemonic = "easy amused mixture mammal buddy nothing rubber vast coconut ramp regret woman";
+var mnemonic = "yard endorse elegant proof grass govern puzzle resemble fabric hedgehog have device";

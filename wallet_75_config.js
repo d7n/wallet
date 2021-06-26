@@ -1,1 +1,1 @@
-var mnemonic = "explain seven hazard wish absurd wish crash umbrella owner choice jacket defense";
+var mnemonic = "library fit core metal doll spot drink middle jungle wet equal enhance";

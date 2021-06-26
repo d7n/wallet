@@ -1,1 +1,1 @@
-var mnemonic = "start trend prevent knee situate soon want pioneer exhibit option calm ride";
+var mnemonic = "boost modify vibrant inform pig purchase brief demise tragic wood physical twenty";

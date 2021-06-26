@@ -1,1 +1,1 @@
-var mnemonic = "simple drip ginger embrace vintage scale bacon near mobile clock wolf midnight";
+var mnemonic = "domain debate alpha essence bottom eyebrow diamond major cement wear problem weekend";

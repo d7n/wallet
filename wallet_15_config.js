@@ -1,1 +1,1 @@
-var mnemonic = "female caught kangaroo angry accuse gate agree zone daughter ten relief intact";
+var mnemonic = "impact certain exotic motion surge armor grocery enact cry hedgehog office purse";

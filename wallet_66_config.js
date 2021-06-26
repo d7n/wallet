@@ -1,1 +1,1 @@
-var mnemonic = "piece era lemon laundry reveal gauge hover best fee addict essay detect";
+var mnemonic = "enforce neither country focus weird unfold cube around critic oppose robot mango";

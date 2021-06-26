@@ -1,1 +1,1 @@
-var mnemonic = "cousin away picture orange kick cancel razor sample long select dwarf segment";
+var mnemonic = "enemy step fiber try item exist six truly assist proud stay bicycle";

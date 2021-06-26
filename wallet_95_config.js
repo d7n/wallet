@@ -1,1 +1,1 @@
-var mnemonic = "talent hobby rail cream ten diary pepper ecology shrimp illness vivid crucial";
+var mnemonic = "cradle approve bless coach print case birth snap green celery under youth";

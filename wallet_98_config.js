@@ -1,1 +1,1 @@
-var mnemonic = "shallow climb woman scissors royal logic orchard dutch congress enlist fan purity";
+var mnemonic = "tent charge when powder survey item mistake program glove stadium bus afford";

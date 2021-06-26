@@ -1,1 +1,1 @@
-var mnemonic = "inhale virtual stage nephew ritual paper fold clown robot start teach music";
+var mnemonic = "cat relax twenty feel ginger hip antenna next control organ service security";

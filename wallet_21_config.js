@@ -1,1 +1,1 @@
-var mnemonic = "pencil thing phrase ghost biology biology ice loop drip couch flight flip";
+var mnemonic = "floor toy cabin promote sweet favorite patch broccoli month relief board steel";

@@ -1,1 +1,1 @@
-var mnemonic = "memory disease unveil rule broom captain arctic rack kidney sing mixture moon";
+var mnemonic = "fall between crouch stereo report dial glad afraid forum crack latin blue";

@@ -1,1 +1,1 @@
-var mnemonic = "crystal engage brief post other excuse suggest text yellow iron vanish liquid";
+var mnemonic = "keen enable pulp begin proof since tape glory flush spatial mesh space";

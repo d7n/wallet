@@ -1,1 +1,1 @@
-var mnemonic = "clinic engine hazard will vote woman that armed liquid bonus fantasy jewel";
+var mnemonic = "mass differ love unfold orbit device congress cricket immune concert lens point";
