@@ -1,1 +1,1 @@
-var mnemonic = "long sheriff sing smile used smoke crack father glue cruel flag mind";
+var mnemonic = "again lyrics practice embark average verb echo spot pepper hotel vendor giraffe";

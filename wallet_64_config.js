@@ -1,1 +1,1 @@
-var mnemonic = "permit subject float delay grain attend property donor man budget crawl jewel";
+var mnemonic = "giant eternal fall mobile way wait board urge battle dragon good age";

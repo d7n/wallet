@@ -1,1 +1,1 @@
-var mnemonic = "differ sad quarter owner tennis shrug side staff convince field toddler engage";
+var mnemonic = "oblige mushroom flavor cloth parrot magic endorse weapon actor digital peasant thrive";

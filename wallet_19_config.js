@@ -1,1 +1,1 @@
-var mnemonic = "student trip urge install battle position staff stand plate weird soft recycle";
+var mnemonic = "jelly various voice buffalo tube cross flame random over awkward anxiety response";

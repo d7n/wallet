@@ -1,1 +1,1 @@
-var mnemonic = "valve knee east luggage visa ostrich figure problem video enroll onion total";
+var mnemonic = "benefit between possible someone farm mosquito worry all enact flee face forest";

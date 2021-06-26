@@ -1,1 +1,1 @@
-var mnemonic = "junk prevent trumpet spot sorry horse cage myself baby used vivid safe";
+var mnemonic = "myth inflict kiss detail embark buddy cannon mixture cute medal hole critic";

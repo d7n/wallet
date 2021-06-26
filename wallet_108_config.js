@@ -1,1 +1,1 @@
-var mnemonic = "drastic vendor six fever lumber wrong end swift oxygen diesel lonely today";
+var mnemonic = "strong load lucky matrix dismiss replace stone violin employ sorry already since";

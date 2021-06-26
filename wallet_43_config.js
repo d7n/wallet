@@ -1,1 +1,1 @@
-var mnemonic = "candy you abandon luxury loud trash trust pole session wrist raven bitter";
+var mnemonic = "syrup fury another party charge hole clock tongue length melody hidden address";

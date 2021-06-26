@@ -1,1 +1,1 @@
-var mnemonic = "awful dutch neck kitchen horse surround frame real office fine link duck";
+var mnemonic = "mask mask common stamp wasp paddle rocket easy under exotic proof ceiling";

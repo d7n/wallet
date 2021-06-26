@@ -1,1 +1,1 @@
-var mnemonic = "seat mixed voyage dismiss old pet fork turn link box frozen wrap";
+var mnemonic = "select winner art dismiss elegant found camp bounce inspire train cherry include";

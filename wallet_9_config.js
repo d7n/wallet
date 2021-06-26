@@ -1,1 +1,1 @@
-var mnemonic = "teach hub loan welcome vacant sting blanket kangaroo until mirror dream creek";
+var mnemonic = "gun kidney safe boil nose track drive slush produce club cool retire";

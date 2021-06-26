@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow cradle drip parent blanket glue spider response recipe wreck vivid undo";
+var mnemonic = "axis diesel abstract cluster rival arrest nation dinner city shy orient middle";

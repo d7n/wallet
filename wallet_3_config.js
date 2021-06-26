@@ -1,1 +1,1 @@
-var mnemonic = "visa flush defense burden jump over place reopen cigar text friend slush";
+var mnemonic = "gasp sting any element aisle dolphin busy pact ignore upgrade trend explain";

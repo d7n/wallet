@@ -1,1 +1,1 @@
-var mnemonic = "guitar drip window deputy joke labor public galaxy cactus deputy range knee";
+var mnemonic = "betray crime curtain evolve obvious join walnut congress enough evidence view convince";

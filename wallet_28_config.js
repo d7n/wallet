@@ -1,1 +1,1 @@
-var mnemonic = "peasant cheap blue rotate royal young large cross slab thumb pumpkin copper";
+var mnemonic = "skin floor monster tourist figure lab forest blind stamp bundle shoot car";

@@ -1,1 +1,1 @@
-var mnemonic = "bottom gown grow wage sail green expose output taste black oil often";
+var mnemonic = "melt defense ivory lady hold say goose tuna sting license door beauty";

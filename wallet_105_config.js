@@ -1,1 +1,1 @@
-var mnemonic = "fitness spare captain trumpet creek latin artist country multiply fringe chimney pluck";
+var mnemonic = "spell actual upgrade shy pet filter upset dutch mountain actress humble neck";

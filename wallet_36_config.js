@@ -1,1 +1,1 @@
-var mnemonic = "because outdoor lumber banana swarm blame erupt egg shine ribbon vacuum satoshi";
+var mnemonic = "limit antenna nest category sudden scorpion cabbage net bridge evolve segment bid";

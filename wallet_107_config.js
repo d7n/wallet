@@ -1,1 +1,1 @@
-var mnemonic = "canal attract twist air capable day knee engine kid grocery key minute";
+var mnemonic = "perfect layer noble idea mind ecology entry insect general math monitor marriage";

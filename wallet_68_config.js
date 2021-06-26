@@ -1,1 +1,1 @@
-var mnemonic = "around good milk slam clap north despair stick alone pelican monitor sweet";
+var mnemonic = "swallow motion solar danger miss ordinary device essence reject aspect quarter lava";

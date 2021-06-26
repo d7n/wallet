@@ -1,1 +1,1 @@
-var mnemonic = "wealth object minimum include fox security wasp intact butter unfold quick filter";
+var mnemonic = "antenna vicious buyer rebel gym leisure coyote ribbon school impact virtual shuffle";

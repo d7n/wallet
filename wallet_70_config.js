@@ -1,1 +1,1 @@
-var mnemonic = "race fade trash inspire certain clerk speed order host blame escape idle";
+var mnemonic = "notable wonder old drastic clinic seek spin apple evil sword car crouch";

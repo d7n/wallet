@@ -1,1 +1,1 @@
-var mnemonic = "virus evolve polar invest alcohol north coffee diesel put record train alarm";
+var mnemonic = "entry pyramid chalk volcano rhythm hurt join earn immense panel delay immune";

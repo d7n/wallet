@@ -1,1 +1,1 @@
-var mnemonic = "shiver rule grunt select crunch defy over safe start affair spawn indoor";
+var mnemonic = "pear tilt cupboard shield collect lock coffee toast artefact offer output lunar";

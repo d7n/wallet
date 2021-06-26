@@ -1,1 +1,1 @@
-var mnemonic = "version weekend anger ensure south beach pistol coyote pave fun test other";
+var mnemonic = "cherry dizzy turtle earn brush develop gallery bracket pair inform task boil";

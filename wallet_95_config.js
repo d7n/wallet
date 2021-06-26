@@ -1,1 +1,1 @@
-var mnemonic = "still lazy sentence recycle enhance december forum able cruise inject milk believe";
+var mnemonic = "surge legal slice garbage mosquito trip leave mistake soldier glad tongue sheriff";

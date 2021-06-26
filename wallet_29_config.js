@@ -1,1 +1,1 @@
-var mnemonic = "chapter layer charge brown keen high symbol spot chief lizard collect spawn";
+var mnemonic = "slight accident collect awkward great burden cliff model green include staff kit";

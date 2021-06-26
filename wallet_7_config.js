@@ -1,1 +1,1 @@
-var mnemonic = "youth legend rug more donor destroy fantasy robust drop property organ hint";
+var mnemonic = "chunk crack praise dress gas tragic flee poverty smooth puzzle swamp slam";

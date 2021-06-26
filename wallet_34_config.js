@@ -1,1 +1,1 @@
-var mnemonic = "popular angry action tired beyond such divorce frequent must check scout town";
+var mnemonic = "ski reveal aisle blind cradle moon message small simple vault canal village";

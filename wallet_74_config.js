@@ -1,1 +1,1 @@
-var mnemonic = "powder also monkey issue only neglect broom smile pelican fitness hotel inherit";
+var mnemonic = "include summer also fever crazy grant aim horse length damage innocent street";

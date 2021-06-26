@@ -1,1 +1,1 @@
-var mnemonic = "echo brisk crater success useful syrup east young merry tissue tenant claw";
+var mnemonic = "barely fiction empty miracle unknown series soul boost faint glide elephant wear";

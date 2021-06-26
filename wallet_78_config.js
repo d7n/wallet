@@ -1,1 +1,1 @@
-var mnemonic = "resemble know suffer child ivory step around high comic auction shift pioneer";
+var mnemonic = "area staff nose ranch flag math cram fruit mass giggle truly ecology";

@@ -1,1 +1,1 @@
-var mnemonic = "double eye rare armor cricket edit patient miracle very drift forum credit";
+var mnemonic = "cost general give notice sample still convince system dragon picnic dash hour";

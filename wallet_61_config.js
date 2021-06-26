@@ -1,1 +1,1 @@
-var mnemonic = "round rain reflect fringe strategy pink drink mail cup inquiry giant crater";
+var mnemonic = "meat average shield true business model mobile pepper reward awkward flip depart";

@@ -1,1 +1,1 @@
-var mnemonic = "upon cost announce weekend flock clay blanket acid finish like frown maple";
+var mnemonic = "identify plastic profit tuition reduce stone slide upgrade toe cable abuse siren";

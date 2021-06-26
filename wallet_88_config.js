@@ -1,1 +1,1 @@
-var mnemonic = "soccer olive clinic tissue memory galaxy inquiry net disagree kitchen surround echo";
+var mnemonic = "mother diary join special pen anxiety dune adjust key angle nerve response";

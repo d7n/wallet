@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin involve river rocket dinner helmet suspect setup civil embody donkey recall";
+var mnemonic = "opinion ship quick mix tonight whisper mobile stool sort drill pair stairs";

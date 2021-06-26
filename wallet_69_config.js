@@ -1,1 +1,1 @@
-var mnemonic = "mushroom salt inmate alien rookie nest affair fossil result render drive any";
+var mnemonic = "solution primary slot decorate say spread leisure scale behind blood grass easy";

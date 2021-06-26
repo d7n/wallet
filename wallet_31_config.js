@@ -1,1 +1,1 @@
-var mnemonic = "dish devote answer coconut will virtual vocal until reopen rifle eagle west";
+var mnemonic = "curious repeat plastic plug agent wrestle dream glow seed clean theory canyon";

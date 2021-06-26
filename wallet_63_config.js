@@ -1,1 +1,1 @@
-var mnemonic = "angle stumble repair unveil gym leaf trouble faculty sadness error minimum nephew";
+var mnemonic = "banner slender snack gun spawn wrestle topple kind bone view protect analyst";

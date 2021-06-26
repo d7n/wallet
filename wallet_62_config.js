@@ -1,1 +1,1 @@
-var mnemonic = "napkin hour cherry race surprise nice knock section twice idea also option";
+var mnemonic = "divide swallow blast toilet traffic mesh remain slow essay weasel clip swift";

@@ -1,1 +1,1 @@
-var mnemonic = "ankle harvest ring term rescue floor scorpion buzz human super siege invest";
+var mnemonic = "fever lazy victory enter coin switch paper desk bundle mad smile flush";

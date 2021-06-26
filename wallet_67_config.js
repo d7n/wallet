@@ -1,1 +1,1 @@
-var mnemonic = "cool congress rich anxiety copper furnace world modify party deny worry ten";
+var mnemonic = "armed oblige faith sentence setup future merit edit now kit party you";

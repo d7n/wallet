@@ -1,1 +1,1 @@
-var mnemonic = "rocket life error section mushroom nasty replace moon oak scrap cave figure";
+var mnemonic = "define mosquito awesome grant lava prison rain old utility predict thought goat";

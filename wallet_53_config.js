@@ -1,1 +1,1 @@
-var mnemonic = "lesson force glide spatial tomato flavor admit cupboard addict glare staff canyon";
+var mnemonic = "wedding bunker point chuckle chef rhythm joke ill cherry rifle can illegal";

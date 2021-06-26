@@ -1,1 +1,1 @@
-var mnemonic = "barrel emerge wire negative hope bind frost match lucky jaguar skate state";
+var mnemonic = "detect parade skill net question stove stairs boat kitchen mail maximum stamp";

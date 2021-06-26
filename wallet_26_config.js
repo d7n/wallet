@@ -1,1 +1,1 @@
-var mnemonic = "marble kind coast human pigeon front merit wreck bottom embrace wisdom bubble";
+var mnemonic = "rule steel drip above panel afraid draft jacket worry review opinion ice";

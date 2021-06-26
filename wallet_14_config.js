@@ -1,1 +1,1 @@
-var mnemonic = "address nurse soon supreme patch tourist spike isolate ripple nasty tank protect";
+var mnemonic = "brisk sister move donor ritual merry skin vapor useless current order make";

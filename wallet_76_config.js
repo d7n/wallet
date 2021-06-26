@@ -1,1 +1,1 @@
-var mnemonic = "hill uncover horse believe core govern reunion festival warrior early flush ceiling";
+var mnemonic = "spring sword nest next opinion option park flush journey divide divorce only";

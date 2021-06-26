@@ -1,1 +1,1 @@
-var mnemonic = "easily surface inherit shadow walk net icon shy home return solution knee";
+var mnemonic = "reject cloth crouch iron acid knock liberty cannon hobby crash effort whip";

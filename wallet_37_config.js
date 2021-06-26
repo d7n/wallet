@@ -1,1 +1,1 @@
-var mnemonic = "furnace grab weekend start captain fit face love bleak safe protect control";
+var mnemonic = "thought jungle trust total same cross mechanic forward banana clinic piano divert";

@@ -1,1 +1,1 @@
-var mnemonic = "need aim affair gap fortune behave stumble once issue immense brain glue";
+var mnemonic = "february lift zebra change afford lawsuit walnut foil strike inhale say ketchup";

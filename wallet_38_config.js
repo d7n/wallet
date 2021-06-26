@@ -1,1 +1,1 @@
-var mnemonic = "wrong used jacket course matrix hockey good pencil liquid sunny stem project";
+var mnemonic = "calm giggle drive flush like round south catch kick symbol will they";

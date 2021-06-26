@@ -1,1 +1,1 @@
-var mnemonic = "brush rug visa key worth hurry matrix output often infant spy erase";
+var mnemonic = "piano endorse decrease spider index fly point inmate fine ripple grant prize";

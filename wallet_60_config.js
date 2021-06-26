@@ -1,1 +1,1 @@
-var mnemonic = "path pig share grunt truth matrix rail disorder length oil same fun";
+var mnemonic = "record income honey great route car flash thought liar dance company summer";

@@ -1,1 +1,1 @@
-var mnemonic = "file warfare injury surge aspect electric spread eye opinion hold sample merit";
+var mnemonic = "club practice mistake sadness detail enough verb release angry base exist more";

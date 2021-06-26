@@ -1,1 +1,1 @@
-var mnemonic = "panel carbon found bachelor public merit canoe undo round polar absent oak";
+var mnemonic = "impact tired aerobic brand silver grief aim wasp pudding crucial innocent public";

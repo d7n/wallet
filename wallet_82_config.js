@@ -1,1 +1,1 @@
-var mnemonic = "indicate hold eager mask cream fresh bridge miracle area divide right delay";
+var mnemonic = "help flip riot glide lizard method hotel elegant crew grain humble early";

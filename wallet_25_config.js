@@ -1,1 +1,1 @@
-var mnemonic = "glory orange laptop size open know protect detail other monster prosper antenna";
+var mnemonic = "symptom success essay meadow hold lounge street top bounce cereal educate firm";

@@ -1,1 +1,1 @@
-var mnemonic = "dash theme erase drip comfort magnet write boy ten muffin pond purpose";
+var mnemonic = "teach spend treat goddess cotton ship oven thank labor teach wave index";

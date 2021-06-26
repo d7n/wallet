@@ -1,1 +1,1 @@
-var mnemonic = "pistol right sudden camp amazing art exile stick control end picnic chat";
+var mnemonic = "tomorrow exact fun miracle sadness junk acid between cart differ february toe";

@@ -1,1 +1,1 @@
-var mnemonic = "gather hammer metal canal journey viable sugar melody trend meadow task alley";
+var mnemonic = "cradle trophy bird slogan remain uncover useful inherit jealous pen cram case";

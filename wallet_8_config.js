@@ -1,1 +1,1 @@
-var mnemonic = "ceiling brush fan dynamic bachelor boy degree friend shiver someone gain dust";
+var mnemonic = "label hollow vote ocean give torch still bubble derive lamp stand spatial";

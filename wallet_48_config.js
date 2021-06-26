@@ -1,1 +1,1 @@
-var mnemonic = "west angry promote purity basic debris width core wheel possible wing grass";
+var mnemonic = "water air begin fitness renew bounce solve garden govern tiny tornado vacuum";

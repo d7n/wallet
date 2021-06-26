@@ -1,1 +1,1 @@
-var mnemonic = "wish rotate glory exclude this put spring time stumble leaf rice regret";
+var mnemonic = "glove pair ivory hand boat siren guide hill zone upgrade ancient usage";

@@ -1,1 +1,1 @@
-var mnemonic = "purse diary patrol mountain item zone clarify mountain leaf increase elephant dash";
+var mnemonic = "average improve verb snack wrong guard monitor update real rival endorse lift";

@@ -1,1 +1,1 @@
-var mnemonic = "obtain grape mandate broom note casual song oppose van keen pond ten";
+var mnemonic = "fix twelve stuff fade couch approve radio moon genre city gather pig";

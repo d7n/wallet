@@ -1,1 +1,1 @@
-var mnemonic = "tilt dust hamster now immense toilet tuna drum panel panel panther arctic";
+var mnemonic = "long home fine regret wait wonder sunset cupboard economy pony text circle";

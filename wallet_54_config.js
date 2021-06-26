@@ -1,1 +1,1 @@
-var mnemonic = "antenna eager unknown team enrich about because riot much sound grunt member";
+var mnemonic = "embark photo wrong such health rally code top clean negative volume call";

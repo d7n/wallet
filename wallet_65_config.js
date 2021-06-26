@@ -1,1 +1,1 @@
-var mnemonic = "text master evolve farm topple result drink guard ship mom pledge vehicle";
+var mnemonic = "tool forest amount mix mercy upon tent vote sun dish bulb spot";

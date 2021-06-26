@@ -1,1 +1,1 @@
-var mnemonic = "traffic split drip vicious ticket clay forest point host enemy distance pretty";
+var mnemonic = "laptop inmate chief situate bike buzz obey width play useful tomato today";

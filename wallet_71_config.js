@@ -1,1 +1,1 @@
-var mnemonic = "buyer cloud expect unusual enjoy foil remind absent tide sense horn south";
+var mnemonic = "large future crowd real potato capable carpet swift setup awful upper violin";

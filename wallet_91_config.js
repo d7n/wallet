@@ -1,1 +1,1 @@
-var mnemonic = "immune answer worth spatial increase laundry deliver affair vacuum power appear clock";
+var mnemonic = "web advice oxygen flat horn tomato quality cream proof winter love cousin";

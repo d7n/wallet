@@ -1,1 +1,1 @@
-var mnemonic = "during exclude poem vast mass plate behave disagree often vast tiger visa";
+var mnemonic = "rate gesture canyon ozone conduct visual forward involve love stage law century";

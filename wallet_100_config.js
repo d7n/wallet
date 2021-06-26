@@ -1,1 +1,1 @@
-var mnemonic = "nuclear provide kitchen search script elbow bitter puppy avocado lucky trophy must";
+var mnemonic = "else say solution emerge stock join lobster civil school once wood benefit";

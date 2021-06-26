@@ -1,1 +1,1 @@
-var mnemonic = "wolf output critic midnight bar bundle shoulder excuse metal swim giggle picnic";
+var mnemonic = "similar champion crumble phone wage master garden spend pepper tray visual denial";

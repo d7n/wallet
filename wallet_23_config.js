@@ -1,1 +1,1 @@
-var mnemonic = "clarify vicious solid faculty note april guitar radio private point measure frame";
+var mnemonic = "decrease hollow audit true ask priority imitate margin culture property today box";

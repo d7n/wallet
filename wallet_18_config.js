@@ -1,1 +1,1 @@
-var mnemonic = "phrase toast saddle curtain parent abstract evidence impact clerk unusual twice waste";
+var mnemonic = "apart must mimic buzz answer town rubber assist shuffle twist copy goat";

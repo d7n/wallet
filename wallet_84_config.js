@@ -1,1 +1,1 @@
-var mnemonic = "wedding wisdom must detail rural curtain neutral hire other moon survey scrub";
+var mnemonic = "mimic bind course pulse ugly genius knee security claim recall fruit hair";

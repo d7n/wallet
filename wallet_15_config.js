@@ -1,1 +1,1 @@
-var mnemonic = "regret hurt symptom trial boil until truly glare ignore search program easily";
+var mnemonic = "eye earth sample feed turtle puzzle climb hover oven custom nurse prosper";

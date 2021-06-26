@@ -1,1 +1,1 @@
-var mnemonic = "neutral convince decline warfare cake draw neutral hire seven feel copy coyote";
+var mnemonic = "rich picture slice grape uphold when label orbit thrive twenty blanket increase";

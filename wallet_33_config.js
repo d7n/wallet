@@ -1,1 +1,1 @@
-var mnemonic = "ankle session humble iron rather control narrow sort frog labor goat hamster";
+var mnemonic = "share network sudden mother chef flavor three hybrid kiss novel pupil boil";

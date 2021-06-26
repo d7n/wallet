@@ -1,1 +1,1 @@
-var mnemonic = "demise drip digital average unfair sphere receive buyer crack judge birth crime";
+var mnemonic = "author title next mass story festival zoo field entry top point portion";

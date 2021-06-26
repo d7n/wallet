@@ -1,1 +1,1 @@
-var mnemonic = "foil ivory mixed protect excuse swamp input grab puzzle nose ski harsh";
+var mnemonic = "loud live property elephant walk sign market nature sock drive isolate party";

@@ -1,1 +1,1 @@
-var mnemonic = "estate skate invite mercy labor file leg humor slender word eye trouble";
+var mnemonic = "depend deposit hole thunder need crash border traffic cycle banana young object";

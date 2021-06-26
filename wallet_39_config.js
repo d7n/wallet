@@ -1,1 +1,1 @@
-var mnemonic = "argue other spike medal polar chronic waste mobile there reflect claim sword";
+var mnemonic = "strategy shoot fever give home spirit theme loyal option youth roof sleep";

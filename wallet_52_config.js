@@ -1,1 +1,1 @@
-var mnemonic = "vacuum inherit bind earth leaf avocado urban act royal broccoli foam unhappy";
+var mnemonic = "dwarf orchard century creek clutch cruise dad neck grunt observe soup kidney";

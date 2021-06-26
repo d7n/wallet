@@ -1,1 +1,1 @@
-var mnemonic = "power first switch deer grunt nominee crash uncle van popular citizen cruel";
+var mnemonic = "one hotel hazard glance film lab common kangaroo account honey earth breeze";

@@ -1,1 +1,1 @@
-var mnemonic = "during doll series diesel price grab primary liberty animal slush alert swallow";
+var mnemonic = "before morning innocent taste tank scatter explain extend demand kingdom fun omit";

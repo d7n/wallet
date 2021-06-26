@@ -1,1 +1,1 @@
-var mnemonic = "belt wild street vibrant lunar gospel live surge wreck gold hundred better";
+var mnemonic = "add venue relief attack bargain liar swear dose rude pistol filter grace";

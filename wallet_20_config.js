@@ -1,1 +1,1 @@
-var mnemonic = "off egg index myth document vicious chaos bar nuclear doctor kitten visit";
+var mnemonic = "convince fun orchard lazy mammal mask pool cross guide host move crouch";

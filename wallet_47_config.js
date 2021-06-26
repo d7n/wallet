@@ -1,1 +1,1 @@
-var mnemonic = "merit below loyal typical process wire cruise salad genius payment glow absurd";
+var mnemonic = "average stereo day wreck version remind humor burger maze hungry stairs argue";

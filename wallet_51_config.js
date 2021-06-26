@@ -1,1 +1,1 @@
-var mnemonic = "box emotion someone benefit select sentence need width approve cram peasant idle";
+var mnemonic = "credit there wink tape denial desert autumn ladder list walk put shuffle";

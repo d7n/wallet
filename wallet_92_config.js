@@ -1,1 +1,1 @@
-var mnemonic = "job arm enough diet journey leader basic mango violin account smoke balance";
+var mnemonic = "decorate jaguar naive truck just bless also check tone buzz naive soldier";
