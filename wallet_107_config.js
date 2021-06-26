@@ -1,1 +1,1 @@
-var mnemonic = "used park until state weekend soldier sort refuse arctic popular detail air";
+var mnemonic = "canal attract twist air capable day knee engine kid grocery key minute";

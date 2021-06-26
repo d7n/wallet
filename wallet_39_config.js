@@ -1,1 +1,1 @@
-var mnemonic = "donkey mandate enact vintage two banner price bomb erase slush ostrich brisk";
+var mnemonic = "argue other spike medal polar chronic waste mobile there reflect claim sword";

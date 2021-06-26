@@ -1,1 +1,1 @@
-var mnemonic = "lizard maple exclude melt slow boring cloud glare purity belt liberty cloud";
+var mnemonic = "echo brisk crater success useful syrup east young merry tissue tenant claw";

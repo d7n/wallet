@@ -1,1 +1,1 @@
-var mnemonic = "phrase shrug private wet special raise inspire poet lend wet target arrest";
+var mnemonic = "hill uncover horse believe core govern reunion festival warrior early flush ceiling";

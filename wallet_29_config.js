@@ -1,1 +1,1 @@
-var mnemonic = "better taxi diagram enjoy clip margin hunt proud scheme recall talk violin";
+var mnemonic = "chapter layer charge brown keen high symbol spot chief lizard collect spawn";

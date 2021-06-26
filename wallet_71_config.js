@@ -1,1 +1,1 @@
-var mnemonic = "system trigger used roof silver north burst cancel toy logic file lounge";
+var mnemonic = "buyer cloud expect unusual enjoy foil remind absent tide sense horn south";

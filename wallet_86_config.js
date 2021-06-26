@@ -1,1 +1,1 @@
-var mnemonic = "spring erode love field myself venue laugh ocean net syrup october staff";
+var mnemonic = "purse diary patrol mountain item zone clarify mountain leaf increase elephant dash";

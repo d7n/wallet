@@ -1,1 +1,1 @@
-var mnemonic = "pet divorce emerge enforce hen inch matrix trash detail top lens develop";
+var mnemonic = "belt wild street vibrant lunar gospel live surge wreck gold hundred better";

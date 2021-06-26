@@ -1,1 +1,1 @@
-var mnemonic = "awesome olive begin hub axis tuna success decline impulse silly fiscal submit";
+var mnemonic = "raise spray have lab insect during gloom bunker diamond have nominee inject";

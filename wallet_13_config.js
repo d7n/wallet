@@ -1,1 +1,1 @@
-var mnemonic = "salon soda drink mixed invest curious hero grain bread dinner pen exit";
+var mnemonic = "wolf output critic midnight bar bundle shoulder excuse metal swim giggle picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "stomach sister bundle picnic expose accuse hotel away town grab someone truck";
+var mnemonic = "eyebrow cradle drip parent blanket glue spider response recipe wreck vivid undo";

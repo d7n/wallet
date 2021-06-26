@@ -1,1 +1,1 @@
-var mnemonic = "century mirror unlock minimum labor couple company spring repair icon mobile citizen";
+var mnemonic = "regret hurt symptom trial boil until truly glare ignore search program easily";

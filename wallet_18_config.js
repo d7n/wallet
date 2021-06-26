@@ -1,1 +1,1 @@
-var mnemonic = "save talent luxury alley copy meat call refuse fever modify initial win";
+var mnemonic = "phrase toast saddle curtain parent abstract evidence impact clerk unusual twice waste";

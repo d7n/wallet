@@ -1,1 +1,1 @@
-var mnemonic = "roast core solid sea skull tragic cook sun tag mango add stone";
+var mnemonic = "barrel emerge wire negative hope bind frost match lucky jaguar skate state";

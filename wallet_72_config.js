@@ -1,1 +1,1 @@
-var mnemonic = "tattoo attend rare awkward usage empower document orient exile video mother vivid";
+var mnemonic = "double eye rare armor cricket edit patient miracle very drift forum credit";

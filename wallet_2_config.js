@@ -1,1 +1,1 @@
-var mnemonic = "inch spray crunch panic select connect cargo enrich inner order powder wire";
+var mnemonic = "panel carbon found bachelor public merit canoe undo round polar absent oak";

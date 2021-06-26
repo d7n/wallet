@@ -1,1 +1,1 @@
-var mnemonic = "hollow amateur casino exist truly water spirit ordinary trash collect oxygen panic";
+var mnemonic = "power first switch deer grunt nominee crash uncle van popular citizen cruel";

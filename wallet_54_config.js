@@ -1,1 +1,1 @@
-var mnemonic = "borrow vintage atom together around climb ridge gym apart tooth gun annual";
+var mnemonic = "antenna eager unknown team enrich about because riot much sound grunt member";

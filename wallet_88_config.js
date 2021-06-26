@@ -1,1 +1,1 @@
-var mnemonic = "blade garage notice saddle decrease cigar drama better inform skirt switch smoke";
+var mnemonic = "soccer olive clinic tissue memory galaxy inquiry net disagree kitchen surround echo";

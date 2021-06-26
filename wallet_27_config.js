@@ -1,1 +1,1 @@
-var mnemonic = "wash quote pull pole mammal injury mammal please become split distance join";
+var mnemonic = "upon cost announce weekend flock clay blanket acid finish like frown maple";

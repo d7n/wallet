@@ -1,1 +1,1 @@
-var mnemonic = "snap museum sorry purpose switch surprise catalog brave below shoe security senior";
+var mnemonic = "bottom gown grow wage sail green expose output taste black oil often";

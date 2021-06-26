@@ -1,1 +1,1 @@
-var mnemonic = "hamster buddy write thing mule bike casino bid range control ahead spray";
+var mnemonic = "napkin hour cherry race surprise nice knock section twice idea also option";

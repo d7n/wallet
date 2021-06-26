@@ -1,1 +1,1 @@
-var mnemonic = "negative drastic effort must fox mandate catalog annual pigeon hybrid ecology february";
+var mnemonic = "indicate hold eager mask cream fresh bridge miracle area divide right delay";

@@ -1,1 +1,1 @@
-var mnemonic = "limb record road vocal scrap garage sound reject clean option essence hurry";
+var mnemonic = "file warfare injury surge aspect electric spread eye opinion hold sample merit";

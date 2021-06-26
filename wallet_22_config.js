@@ -1,1 +1,1 @@
-var mnemonic = "sad over must bird model sword usage cup exchange brown legal image";
+var mnemonic = "junk daring skirt behave task donkey cousin bullet gospel invest barrel history";

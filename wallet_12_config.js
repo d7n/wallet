@@ -1,1 +1,1 @@
-var mnemonic = "unfold myself doctor height scrub april twelve patient twist seek mask aspect";
+var mnemonic = "guitar drip window deputy joke labor public galaxy cactus deputy range knee";

@@ -1,1 +1,1 @@
-var mnemonic = "hazard scout rate ice term across catalog vast auction patient review select";
+var mnemonic = "powder also monkey issue only neglect broom smile pelican fitness hotel inherit";

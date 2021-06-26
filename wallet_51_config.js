@@ -1,1 +1,1 @@
-var mnemonic = "catalog mesh awkward border soul ostrich venue noble tree erode alley gold";
+var mnemonic = "box emotion someone benefit select sentence need width approve cram peasant idle";

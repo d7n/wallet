@@ -1,1 +1,1 @@
-var mnemonic = "benefit rice inject motor dad thank cliff proud battle submit budget toward";
+var mnemonic = "reopen slam jacket abandon wheat inject salt eight dust spray switch public";

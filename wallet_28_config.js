@@ -1,1 +1,1 @@
-var mnemonic = "during aerobic today dizzy street enlist machine ramp sadness note people follow";
+var mnemonic = "peasant cheap blue rotate royal young large cross slab thumb pumpkin copper";

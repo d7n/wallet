@@ -1,1 +1,1 @@
-var mnemonic = "fold hurry way december noise grit elephant drum usage cliff stomach ranch";
+var mnemonic = "pumpkin involve river rocket dinner helmet suspect setup civil embody donkey recall";

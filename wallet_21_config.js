@@ -1,1 +1,1 @@
-var mnemonic = "fatigue canal other save genre hundred lounge ball cycle add rifle mule";
+var mnemonic = "squirrel ginger emerge torch iron level bright skull lawn galaxy later beyond";

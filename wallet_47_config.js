@@ -1,1 +1,1 @@
-var mnemonic = "will sound stadium vapor hurdle tongue discover then flame layer eight nice";
+var mnemonic = "merit below loyal typical process wire cruise salad genius payment glow absurd";

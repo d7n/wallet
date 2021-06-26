@@ -1,1 +1,1 @@
-var mnemonic = "badge circle inform box cruise scorpion leisure arena twin advance prepare sort";
+var mnemonic = "text master evolve farm topple result drink guard ship mom pledge vehicle";

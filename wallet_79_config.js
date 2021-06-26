@@ -1,1 +1,1 @@
-var mnemonic = "valley entire network jewel crunch desk outdoor direct twelve cousin guitar arrow";
+var mnemonic = "differ sad quarter owner tennis shrug side staff convince field toddler engage";

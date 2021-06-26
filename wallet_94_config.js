@@ -1,1 +1,1 @@
-var mnemonic = "strike shallow chunk cherry unfold type sad latin ramp lunar version vanish";
+var mnemonic = "need aim affair gap fortune behave stumble once issue immense brain glue";

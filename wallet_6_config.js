@@ -1,1 +1,1 @@
-var mnemonic = "genuine lecture essence seminar rent abandon flat endorse verb husband insect trust";
+var mnemonic = "rocket life error section mushroom nasty replace moon oak scrap cave figure";

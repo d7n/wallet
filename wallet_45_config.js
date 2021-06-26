@@ -1,1 +1,1 @@
-var mnemonic = "carry job amount icon museum shoe veteran must funny game hire fork";
+var mnemonic = "misery club energy space arrive uncover task warm firm acquire rain cousin";

@@ -1,1 +1,1 @@
-var mnemonic = "tissue pencil regular column affair equip sick normal brisk desk feel churn";
+var mnemonic = "during exclude poem vast mass plate behave disagree often vast tiger visa";

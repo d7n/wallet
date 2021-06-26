@@ -1,1 +1,1 @@
-var mnemonic = "garlic metal drift comic renew sleep neck evoke outdoor blood often seek";
+var mnemonic = "angle stumble repair unveil gym leaf trouble faculty sadness error minimum nephew";

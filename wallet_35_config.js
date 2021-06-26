@@ -1,1 +1,1 @@
-var mnemonic = "become sudden you endorse foam yard pole choose lobster family broken mixture";
+var mnemonic = "voice repeat divorce talk sister jelly list pull work royal antenna sustain";

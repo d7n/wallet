@@ -1,1 +1,1 @@
-var mnemonic = "swift host humble moon tobacco green scatter dog rug benefit purchase usage";
+var mnemonic = "drastic vendor six fever lumber wrong end swift oxygen diesel lonely today";

@@ -1,1 +1,1 @@
-var mnemonic = "deputy vicious smooth stove rude where grow practice curious latin arm boil";
+var mnemonic = "wrong used jacket course matrix hockey good pencil liquid sunny stem project";

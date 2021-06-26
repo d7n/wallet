@@ -1,1 +1,1 @@
-var mnemonic = "escape weekend elite right pattern absurd bird above vanish minute fever uphold";
+var mnemonic = "dish devote answer coconut will virtual vocal until reopen rifle eagle west";

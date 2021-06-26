@@ -1,1 +1,1 @@
-var mnemonic = "negative velvet else amazing car asset boost nice renew grit person convince";
+var mnemonic = "teach hub loan welcome vacant sting blanket kangaroo until mirror dream creek";

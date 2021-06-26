@@ -1,1 +1,1 @@
-var mnemonic = "remember subway furnace captain soap surge jar rose merge invest obtain discover";
+var mnemonic = "resemble know suffer child ivory step around high comic auction shift pioneer";

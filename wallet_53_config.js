@@ -1,1 +1,1 @@
-var mnemonic = "donor notice trend pool good sword host mouse flight job wire kind";
+var mnemonic = "lesson force glide spatial tomato flavor admit cupboard addict glare staff canyon";

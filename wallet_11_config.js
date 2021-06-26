@@ -1,1 +1,1 @@
-var mnemonic = "device creek maze stock industry easily couch verify follow cupboard seven gauge";
+var mnemonic = "brush rug visa key worth hurry matrix output often infant spy erase";

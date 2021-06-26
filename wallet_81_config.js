@@ -1,1 +1,1 @@
-var mnemonic = "struggle steak first hood mistake load ugly ticket fever buddy wet cupboard";
+var mnemonic = "basket source mail used nest over stove add awkward glow item tortoise";

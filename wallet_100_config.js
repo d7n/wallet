@@ -1,1 +1,1 @@
-var mnemonic = "clutch border copy rubber grunt about vacuum refuse north face earth scheme";
+var mnemonic = "nuclear provide kitchen search script elbow bitter puppy avocado lucky trophy must";

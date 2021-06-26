@@ -1,1 +1,1 @@
-var mnemonic = "antique carbon stomach country until chef industry behave adult milk father rhythm";
+var mnemonic = "shiver rule grunt select crunch defy over safe start affair spawn indoor";

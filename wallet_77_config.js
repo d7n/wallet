@@ -1,1 +1,1 @@
-var mnemonic = "clever chat tackle front secret off arctic vanish odor essence grunt glare";
+var mnemonic = "tilt dust hamster now immense toilet tuna drum panel panel panther arctic";

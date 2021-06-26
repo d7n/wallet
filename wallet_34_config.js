@@ -1,1 +1,1 @@
-var mnemonic = "witness island mad beach jeans truly wreck peasant garage ranch come device";
+var mnemonic = "popular angry action tired beyond such divorce frequent must check scout town";

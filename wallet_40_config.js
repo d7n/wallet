@@ -1,1 +1,1 @@
-var mnemonic = "citizen decrease mixture carry soup enemy east spread problem unveil toddler rich";
+var mnemonic = "rebuild foot lamp false coast warrior punch student awful submit journey copper";

@@ -1,1 +1,1 @@
-var mnemonic = "heavy refuse know tired visa protect attitude fame engine arena divert crack";
+var mnemonic = "demise drip digital average unfair sphere receive buyer crack judge birth crime";

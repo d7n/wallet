@@ -1,1 +1,1 @@
-var mnemonic = "govern party sudden absent slice asset village regular firm amount garlic doll";
+var mnemonic = "furnace grab weekend start captain fit face love bleak safe protect control";

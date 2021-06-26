@@ -1,1 +1,1 @@
-var mnemonic = "table copper stomach rally all excuse damp autumn liquid choose hundred frequent";
+var mnemonic = "glory orange laptop size open know protect detail other monster prosper antenna";

@@ -1,1 +1,1 @@
-var mnemonic = "demand shiver friend wild they moral lawsuit robot minimum mule seed coast";
+var mnemonic = "because outdoor lumber banana swarm blame erupt egg shine ribbon vacuum satoshi";

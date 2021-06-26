@@ -1,1 +1,1 @@
-var mnemonic = "shadow pole what attitude faith devote derive trigger imitate nest garbage biology";
+var mnemonic = "country shaft ginger marble steak verify lion slice album flag coral speak";

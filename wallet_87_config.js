@@ -1,1 +1,1 @@
-var mnemonic = "wait pink delay cram notable scrap room able now raccoon puzzle fire";
+var mnemonic = "awful dutch neck kitchen horse surround frame real office fine link duck";

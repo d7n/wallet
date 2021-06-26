@@ -1,1 +1,1 @@
-var mnemonic = "tomato image broom bunker avoid jealous science glow permit sting keen arena";
+var mnemonic = "vacuum inherit bind earth leaf avocado urban act royal broccoli foam unhappy";

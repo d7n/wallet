@@ -1,1 +1,1 @@
-var mnemonic = "loyal silly infant chest symptom cushion reward length gasp damp already harsh";
+var mnemonic = "more barrel random lift danger mixture copper noodle security ivory belt survey";

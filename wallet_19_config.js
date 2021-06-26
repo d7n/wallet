@@ -1,1 +1,1 @@
-var mnemonic = "swear beyond stage rival fabric tornado talk script observe betray slender gasp";
+var mnemonic = "student trip urge install battle position staff stand plate weird soft recycle";

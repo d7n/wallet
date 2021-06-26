@@ -1,1 +1,1 @@
-var mnemonic = "fever filter carbon solution moment wasp square upgrade life ghost position barrel";
+var mnemonic = "job arm enough diet journey leader basic mango violin account smoke balance";

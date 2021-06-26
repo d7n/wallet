@@ -1,1 +1,1 @@
-var mnemonic = "party survey wave place motion remain axis proud lift submit zone damp";
+var mnemonic = "traffic split drip vicious ticket clay forest point host enemy distance pretty";

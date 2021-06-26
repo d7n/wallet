@@ -1,1 +1,1 @@
-var mnemonic = "another pretty reveal smart climb upper weekend case legal primary more print";
+var mnemonic = "enough powder thunder give dice large enact mercy bunker pattern nature wide";

@@ -1,1 +1,1 @@
-var mnemonic = "casual beyond main praise mouse rhythm measure hedgehog mind coffee have they";
+var mnemonic = "address nurse soon supreme patch tourist spike isolate ripple nasty tank protect";

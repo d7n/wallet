@@ -1,1 +1,1 @@
-var mnemonic = "parrot hold typical illegal woman crazy aspect cannon clump sudden cousin tree";
+var mnemonic = "permit subject float delay grain attend property donor man budget crawl jewel";

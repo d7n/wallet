@@ -1,1 +1,1 @@
-var mnemonic = "winner off join crawl resist body pretty almost note tone coral alert";
+var mnemonic = "race fade trash inspire certain clerk speed order host blame escape idle";

@@ -1,1 +1,1 @@
-var mnemonic = "mule rapid beef describe casual media chalk frequent unit siege there solar";
+var mnemonic = "wish rotate glory exclude this put spring time stumble leaf rice regret";

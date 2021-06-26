@@ -1,1 +1,1 @@
-var mnemonic = "glove tube dilemma curious observe verify list notable collect benefit ten plunge";
+var mnemonic = "marble kind coast human pigeon front merit wreck bottom embrace wisdom bubble";

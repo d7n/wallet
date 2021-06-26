@@ -1,1 +1,1 @@
-var mnemonic = "plunge traffic immense control fee start potato device riot unable pretty sunny";
+var mnemonic = "clarify vicious solid faculty note april guitar radio private point measure frame";

@@ -1,1 +1,1 @@
-var mnemonic = "uncover judge random web age inherit miss valid legend game double dial";
+var mnemonic = "neutral convince decline warfare cake draw neutral hire seven feel copy coyote";

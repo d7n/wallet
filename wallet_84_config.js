@@ -1,1 +1,1 @@
-var mnemonic = "scrap message risk final audit bomb antique shove sudden hire audit inherit";
+var mnemonic = "wedding wisdom must detail rural curtain neutral hire other moon survey scrub";

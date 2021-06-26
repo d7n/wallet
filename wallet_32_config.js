@@ -1,1 +1,1 @@
-var mnemonic = "woman recipe forum ten can habit easy abandon panic slight romance deliver";
+var mnemonic = "unaware behave utility orient weasel upper entry wall angry icon differ scale";

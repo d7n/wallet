@@ -1,1 +1,1 @@
-var mnemonic = "trumpet before unhappy super attitude balcony opera property high soap damage conduct";
+var mnemonic = "still lazy sentence recycle enhance december forum able cruise inject milk believe";

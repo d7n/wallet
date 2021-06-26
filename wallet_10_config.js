@@ -1,1 +1,1 @@
-var mnemonic = "buyer cheap input enable mammal swamp write drift elder warfare clown cheese";
+var mnemonic = "long sheriff sing smile used smoke crack father glue cruel flag mind";

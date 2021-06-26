@@ -1,1 +1,1 @@
-var mnemonic = "adjust east reopen humble sphere upset foil glare visa punch imitate disorder";
+var mnemonic = "fitness spare captain trumpet creek latin artist country multiply fringe chimney pluck";

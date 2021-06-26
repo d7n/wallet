@@ -1,1 +1,1 @@
-var mnemonic = "wagon similar wealth student close item unknown love road sun toddler disorder";
+var mnemonic = "around good milk slam clap north despair stick alone pelican monitor sweet";

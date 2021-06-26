@@ -1,1 +1,1 @@
-var mnemonic = "seat sun federal step source slim neglect club flavor hundred wine pink";
+var mnemonic = "version weekend anger ensure south beach pistol coyote pave fun test other";

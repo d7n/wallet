@@ -1,1 +1,1 @@
-var mnemonic = "vessel hurt give toddler material lobster rally little upgrade adapt innocent verify";
+var mnemonic = "mushroom salt inmate alien rookie nest affair fossil result render drive any";

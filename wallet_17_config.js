@@ -1,1 +1,1 @@
-var mnemonic = "sister powder series life purse attend tuna then general tissue forest fun";
+var mnemonic = "estate skate invite mercy labor file leg humor slender word eye trouble";

@@ -1,1 +1,1 @@
-var mnemonic = "scrub sausage bargain glad private brain there buyer boil meat clean project";
+var mnemonic = "method vehicle august bubble black reform crime shed blast mention invest youth";

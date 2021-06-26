@@ -1,1 +1,1 @@
-var mnemonic = "pole enable box tent ridge spell kangaroo olympic observe replace grace vital";
+var mnemonic = "during doll series diesel price grab primary liberty animal slush alert swallow";

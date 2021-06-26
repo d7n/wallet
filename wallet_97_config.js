@@ -1,1 +1,1 @@
-var mnemonic = "win captain trap appear quarter capable analyst fancy draft myth novel able";
+var mnemonic = "virus evolve polar invest alcohol north coffee diesel put record train alarm";

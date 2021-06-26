@@ -1,1 +1,1 @@
-var mnemonic = "sorry foil music science leisure old valley birth draft vote polar bring";
+var mnemonic = "immune answer worth spatial increase laundry deliver affair vacuum power appear clock";

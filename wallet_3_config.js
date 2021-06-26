@@ -1,1 +1,1 @@
-var mnemonic = "sausage polar inquiry table uniform ski element nothing route alpha spot industry";
+var mnemonic = "visa flush defense burden jump over place reopen cigar text friend slush";

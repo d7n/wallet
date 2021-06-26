@@ -1,1 +1,1 @@
-var mnemonic = "pride inquiry impulse bounce pupil throw second dilemma easy skin top crunch";
+var mnemonic = "obtain grape mandate broom note casual song oppose van keen pond ten";

@@ -1,1 +1,1 @@
-var mnemonic = "eight mom edit stuff west alter lend pig alpha foster element depart";
+var mnemonic = "smile solid dash salon stereo bundle tip loyal excite tank mango plunge";

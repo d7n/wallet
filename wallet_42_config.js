@@ -1,1 +1,1 @@
-var mnemonic = "comfort image review borrow object warfare ozone credit risk castle negative crouch";
+var mnemonic = "easily surface inherit shadow walk net icon shy home return solution knee";

@@ -1,1 +1,1 @@
-var mnemonic = "way sorry mammal kite mimic before slush lab ice true arch broccoli";
+var mnemonic = "pistol right sudden camp amazing art exile stick control end picnic chat";
