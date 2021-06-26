@@ -1,1 +1,1 @@
-var mnemonic = "glide harsh vibrant alpha reject drum pipe finish napkin guide organ width";
+var mnemonic = "field monitor push lab cotton vacant tube bounce notice armed govern junk";

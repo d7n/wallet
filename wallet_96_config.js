@@ -1,1 +1,1 @@
-var mnemonic = "ankle rather better swap mind unable private close gentle explain depth scrub";
+var mnemonic = "green young sphere bamboo destroy enlist parent pig range robot skin garage";

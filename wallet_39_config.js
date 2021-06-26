@@ -1,1 +1,1 @@
-var mnemonic = "mask unique dumb embrace ankle cup exile solar sand evoke call boss";
+var mnemonic = "erode lava scan mechanic similar fabric cheese remove hurry analyst knock galaxy";

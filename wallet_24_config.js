@@ -1,1 +1,1 @@
-var mnemonic = "noodle good sugar device journey sure hollow together orange awkward require attitude";
+var mnemonic = "raven aware cluster dog list cigar bless bulk pizza defense clown memory";

@@ -1,1 +1,1 @@
-var mnemonic = "fury slight crisp large kid run dilemma critic trim record spoil noble";
+var mnemonic = "earth arctic usage upper lend proof payment curtain eternal final bounce ostrich";

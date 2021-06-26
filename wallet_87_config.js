@@ -1,1 +1,1 @@
-var mnemonic = "error turn twenty patient void know picnic earn purchase couch advice moral";
+var mnemonic = "nurse traffic prison argue person wisdom smile abandon olympic eager palace office";

@@ -1,1 +1,1 @@
-var mnemonic = "sing torch slight warfare loop health fetch protect seven crumble will beef";
+var mnemonic = "pole antenna blouse clock window doll pull royal viable arm finish boil";

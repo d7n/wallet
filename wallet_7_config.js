@@ -1,1 +1,1 @@
-var mnemonic = "void stable pulp aerobic other slot pear van athlete piece kick solar";
+var mnemonic = "accident game seed album pear dentist puzzle ranch stadium enemy fog burger";

@@ -1,1 +1,1 @@
-var mnemonic = "layer frozen naive pave permit state milk around olive enjoy debate ball";
+var mnemonic = "card neglect enrich tortoise estate deer tunnel pond rose six team bridge";

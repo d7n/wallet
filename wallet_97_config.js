@@ -1,1 +1,1 @@
-var mnemonic = "have dog remain trophy payment orange swallow south action normal lava phone";
+var mnemonic = "snack stuff couch marble main column drip climb stage cause argue clever";

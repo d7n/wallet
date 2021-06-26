@@ -1,1 +1,1 @@
-var mnemonic = "thunder cabin joy buyer swap story garage era witness capital soft double";
+var mnemonic = "balance maximum message flat engine wheat recall cable asthma broken arrange sphere";

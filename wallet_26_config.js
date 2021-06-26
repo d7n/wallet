@@ -1,1 +1,1 @@
-var mnemonic = "torch such split silent situate unfair proud awkward rally monkey dust sunny";
+var mnemonic = "child dutch actual method blind mixture tooth depth vendor antique ocean rebel";

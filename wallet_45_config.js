@@ -1,1 +1,1 @@
-var mnemonic = "twist version earth mind save riot trash jungle document notable maple near";
+var mnemonic = "mention cloth rebuild rookie fetch dust amazing artefact suffer fuel elephant nature";

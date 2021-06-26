@@ -1,1 +1,1 @@
-var mnemonic = "assault rent piano afford window know eternal spell rifle female produce lion";
+var mnemonic = "true young fence priority color stairs friend rely possible truck message sorry";

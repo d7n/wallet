@@ -1,1 +1,1 @@
-var mnemonic = "squeeze game smoke ready acid lunar sustain female position clay siege cloth";
+var mnemonic = "various border walk glad soft payment settle gaze genre wash bitter jeans";

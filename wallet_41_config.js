@@ -1,1 +1,1 @@
-var mnemonic = "ramp urban become shrug method body example abstract human laugh meadow orchard";
+var mnemonic = "pioneer nature evidence girl give april trigger cinnamon small biology dry sample";

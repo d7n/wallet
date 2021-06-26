@@ -1,1 +1,1 @@
-var mnemonic = "chair wave marble mercy mass sad pen wide congress thrive hurry write";
+var mnemonic = "label floor march plug juice fame hope lock sauce sure dinosaur horse";

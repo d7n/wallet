@@ -1,1 +1,1 @@
-var mnemonic = "grunt grace stairs collect globe simple scout language buddy apart copper furnace";
+var mnemonic = "balcony fiction occur angle labor enable boss cherry quarter cannon glory state";

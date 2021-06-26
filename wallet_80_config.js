@@ -1,1 +1,1 @@
-var mnemonic = "now pledge check slice exotic civil push scale truck derive pond check";
+var mnemonic = "wild rely glare muffin beach mix bleak snow timber again sniff radar";

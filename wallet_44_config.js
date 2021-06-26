@@ -1,1 +1,1 @@
-var mnemonic = "shiver pelican myth hurdle beyond network chapter high style middle night evolve";
+var mnemonic = "involve into toward frown actress destroy flavor theory flee protect yard evil";

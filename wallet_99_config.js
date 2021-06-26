@@ -1,1 +1,1 @@
-var mnemonic = "actor taxi used cat ripple shell surface exit sword drastic unknown dry";
+var mnemonic = "execute intact office birth camera desert mistake focus toss school humor seat";

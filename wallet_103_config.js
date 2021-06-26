@@ -1,1 +1,1 @@
-var mnemonic = "vicious circle clarify shine invite distance sand tower dragon write foster wire";
+var mnemonic = "forget kiss solar file ethics eight filter pitch display install exit mention";

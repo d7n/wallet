@@ -1,1 +1,1 @@
-var mnemonic = "steel call payment lend island steel hawk age theme fashion divorce lemon";
+var mnemonic = "marine such love oxygen neutral misery secret floor boat resemble dawn venue";

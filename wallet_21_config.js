@@ -1,1 +1,1 @@
-var mnemonic = "soldier still dragon expand boil scrap elbow obtain trust lava gain run";
+var mnemonic = "side topic receive lawn usage allow disagree paddle cave keen flip brave";

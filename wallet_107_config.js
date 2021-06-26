@@ -1,1 +1,1 @@
-var mnemonic = "control appear subject wink lunch carpet output trust ripple tackle network squeeze";
+var mnemonic = "dice load old fork stereo smooth alarm immune fox chunk mistake dance";

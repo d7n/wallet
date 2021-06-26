@@ -1,1 +1,1 @@
-var mnemonic = "giraffe wolf sentence donate income mix often supply belt skill coral supply";
+var mnemonic = "thumb company science artist split engine innocent life trial burst icon just";

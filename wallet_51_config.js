@@ -1,1 +1,1 @@
-var mnemonic = "nurse genuine plate wild noble grid jealous rug cattle damp click deposit";
+var mnemonic = "beauty couch bulb vocal truly pony antique arrow exist dismiss recycle wolf";

@@ -1,1 +1,1 @@
-var mnemonic = "stage enemy pepper onion void own pride act drive polar midnight keen";
+var mnemonic = "soon pipe local doll fluid business match embrace blind hurry rule flag";

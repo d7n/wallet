@@ -1,1 +1,1 @@
-var mnemonic = "school example stage neither inner eagle aspect disagree excess response piece vanish";
+var mnemonic = "warfare myself speed crouch hungry program spawn nature blind million fish seven";

@@ -1,1 +1,1 @@
-var mnemonic = "patient apple soup blast will meadow lift shoe olympic glass alert hurt";
+var mnemonic = "genre scrap retreat pride involve kitchen spider pipe shed dream ignore pizza";

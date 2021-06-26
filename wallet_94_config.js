@@ -1,1 +1,1 @@
-var mnemonic = "loop cat cricket claw jelly boil cruel topic lyrics inmate detail plug";
+var mnemonic = "bulb bless rice word explain rug refuse fault exact limb people axis";

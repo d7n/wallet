@@ -1,1 +1,1 @@
-var mnemonic = "garment trash west orient claim file mandate sibling salmon teach image build";
+var mnemonic = "blanket eager fault tool crouch duck message sun betray public knife kiwi";

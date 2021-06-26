@@ -1,1 +1,1 @@
-var mnemonic = "before faint valid cloud motion shuffle tray maple mention runway run behind";
+var mnemonic = "ordinary profit soda sell picture fold pipe initial twelve lady moral derive";

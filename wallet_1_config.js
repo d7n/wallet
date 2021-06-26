@@ -1,1 +1,1 @@
-var mnemonic = "admit cruel more swamp brown female dial stick choice helmet lift horn";
+var mnemonic = "upset awake daring slow length simple stove tent shield inherit day bitter";

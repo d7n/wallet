@@ -1,1 +1,1 @@
-var mnemonic = "roof deny coin elder pulse soda wire sail oval basket leaf artefact";
+var mnemonic = "tackle hybrid supreme twist pretty mistake breeze cave ski twin begin wife";

@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin buzz vague axis wink banner clinic net tomato damp story result";
+var mnemonic = "review pool first leave agree confirm flee dance palm safe assault captain";

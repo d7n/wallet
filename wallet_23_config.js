@@ -1,1 +1,1 @@
-var mnemonic = "sleep hero garlic wise bachelor bachelor kit image easily surround cotton depth";
+var mnemonic = "human decline tribe abstract panda few party lab fortune organ conduct merit";

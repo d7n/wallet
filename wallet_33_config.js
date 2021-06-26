@@ -1,1 +1,1 @@
-var mnemonic = "husband fortune feature ocean frog tape census trouble only answer talk fury";
+var mnemonic = "biology custom spawn vendor head exit crop welcome physical pulse buddy talk";

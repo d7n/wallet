@@ -1,1 +1,1 @@
-var mnemonic = "cross citizen wing story praise upon embark option cotton bamboo under moon";
+var mnemonic = "drink flight acid napkin rib scrap clip holiday negative holiday rubber comfort";

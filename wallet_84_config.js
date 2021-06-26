@@ -1,1 +1,1 @@
-var mnemonic = "ocean loyal bind unusual render wide inflict dish dose rival meat wear";
+var mnemonic = "young tell cook upon victory strategy version company screen crime digital blouse";

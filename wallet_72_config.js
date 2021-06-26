@@ -1,1 +1,1 @@
-var mnemonic = "fashion gravity equal home stock scout vital acoustic river juice urban group";
+var mnemonic = "bone time salad mom crush scorpion series inflict educate milk flee load";

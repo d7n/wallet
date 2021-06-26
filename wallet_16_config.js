@@ -1,1 +1,1 @@
-var mnemonic = "firm security purse diamond cliff all filter unit distance blade dutch aunt";
+var mnemonic = "issue code aim copper exhaust gauge gown position romance output balcony extra";

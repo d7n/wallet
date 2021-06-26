@@ -1,1 +1,1 @@
-var mnemonic = "various wait owner grass remove globe credit fire market mosquito curious ocean";
+var mnemonic = "unusual valve kitten evoke candy prison acoustic infant fiscal elite shaft coral";

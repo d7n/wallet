@@ -1,1 +1,1 @@
-var mnemonic = "snake now twice swift select upon garment ready search sell luggage paper";
+var mnemonic = "claw fitness squeeze gap weasel eagle gown inherit dance lonely humble grief";

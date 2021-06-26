@@ -1,1 +1,1 @@
-var mnemonic = "onion immune cigar shuffle ribbon liquid nerve hire owner noise lift sad";
+var mnemonic = "tunnel pass initial give confirm stand balcony peace write small sand control";

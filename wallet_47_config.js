@@ -1,1 +1,1 @@
-var mnemonic = "slender situate imitate useless forest wear choice earn winter tortoise few mom";
+var mnemonic = "boat client hurry column guitar combine claim giant local case letter minimum";

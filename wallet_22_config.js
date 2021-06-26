@@ -1,1 +1,1 @@
-var mnemonic = "squirrel bulk unfair random now quiz ethics bubble mesh buyer exercise dash";
+var mnemonic = "matrix sphere slot session announce express cancel dinosaur media uncover act control";

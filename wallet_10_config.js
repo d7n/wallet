@@ -1,1 +1,1 @@
-var mnemonic = "gap slot able grain argue layer vessel wine shove own eight trigger";
+var mnemonic = "vast tooth crumble prevent three life subway knee cradle silk give history";

@@ -1,1 +1,1 @@
-var mnemonic = "jar wolf push tone recall cake shrug destroy flame spoon buzz evil";
+var mnemonic = "lottery expire laptop slight major fire seminar ticket chef bundle green mirror";

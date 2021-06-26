@@ -1,1 +1,1 @@
-var mnemonic = "faith entire effort core toast dry manage great tool team hair toe";
+var mnemonic = "swim idea please coach deputy test theory stuff atom wheat pink upon";

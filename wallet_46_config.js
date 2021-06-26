@@ -1,1 +1,1 @@
-var mnemonic = "spirit mother pear age fashion title faculty ship smoke recipe awkward carpet";
+var mnemonic = "model diet divide dynamic seek juice canal park slight dentist elder hero";

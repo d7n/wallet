@@ -1,1 +1,1 @@
-var mnemonic = "trust draft olive limb jewel course render life upgrade pen mesh fashion";
+var mnemonic = "message funny term crime party gown execute mechanic chef box park execute";

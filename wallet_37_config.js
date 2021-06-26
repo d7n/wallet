@@ -1,1 +1,1 @@
-var mnemonic = "system prosper robot order order boat tired grunt toddler drip lunar often";
+var mnemonic = "unknown fitness alter endorse else flower tuna treat casino bird guilt hello";

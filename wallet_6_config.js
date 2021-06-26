@@ -1,1 +1,1 @@
-var mnemonic = "melody fabric verb say lobster give inherit gallery crouch alley like seek";
+var mnemonic = "journey sustain deer hurdle stool decrease extend tuna coconut hazard foot maid";

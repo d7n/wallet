@@ -1,1 +1,1 @@
-var mnemonic = "above odor cross holiday whale game piece swamp step shaft lunar snack";
+var mnemonic = "safe abandon ticket lucky job very husband erase spell stadium hidden harvest";

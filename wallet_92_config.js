@@ -1,1 +1,1 @@
-var mnemonic = "world real diagram unknown maze task elephant peanut flight initial brand evoke";
+var mnemonic = "mail risk refuse page cousin scheme snow unit life peace saddle dizzy";

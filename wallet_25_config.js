@@ -1,1 +1,1 @@
-var mnemonic = "bunker glide quiz knock frown legal guess final kiss produce marble match";
+var mnemonic = "diamond vague portion tackle enroll stock silly basket economy shell april reason";

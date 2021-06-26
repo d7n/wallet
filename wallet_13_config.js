@@ -1,1 +1,1 @@
-var mnemonic = "script isolate century funny correct broken host radar trick lake crystal island";
+var mnemonic = "man wagon public soda pool tape color mango paddle swear draw canvas";

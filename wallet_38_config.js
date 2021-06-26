@@ -1,1 +1,1 @@
-var mnemonic = "pupil cause liquid concert tiger bicycle idea spoon insect inmate wrestle stage";
+var mnemonic = "cake host meat humor use today sick fade anger ostrich observe item";

@@ -1,1 +1,1 @@
-var mnemonic = "frame cheese short sibling canyon fox animal undo snow broccoli coin issue";
+var mnemonic = "dance attack ensure candy raise breeze bleak identify problem cloth eagle decide";

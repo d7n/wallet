@@ -1,1 +1,1 @@
-var mnemonic = "snack faith power boring chief today mistake oxygen present husband visa basket";
+var mnemonic = "code wreck weird cattle vote ask february retreat often antique silent wet";

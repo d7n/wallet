@@ -1,1 +1,1 @@
-var mnemonic = "reopen pipe wrestle tennis sentence lamp output supply meadow announce degree concert";
+var mnemonic = "pottery carpet provide tourist yellow sure entry story credit order comic train";

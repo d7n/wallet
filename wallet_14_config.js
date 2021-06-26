@@ -1,1 +1,1 @@
-var mnemonic = "oblige sight grow athlete kick there grass hello repeat afraid zoo afford";
+var mnemonic = "rifle forum chef seek torch region simple later pull carry garden favorite";

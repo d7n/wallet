@@ -1,1 +1,1 @@
-var mnemonic = "steak avocado that arrow path flat short exist increase reduce best math";
+var mnemonic = "hamster custom zebra ski phrase market net shrimp gold anger property deal";

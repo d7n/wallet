@@ -1,1 +1,1 @@
-var mnemonic = "vapor sponsor parade fix warfare install sleep gesture broom monkey just tape";
+var mnemonic = "snap album off split pioneer effort lunar slab age soldier tortoise issue";

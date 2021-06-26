@@ -1,1 +1,1 @@
-var mnemonic = "warm maple prison ice demise toddler bulb kind evil element shy census";
+var mnemonic = "collect total bargain museum menu answer side float weasel casino surround lobster";

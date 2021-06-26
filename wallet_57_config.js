@@ -1,1 +1,1 @@
-var mnemonic = "blossom devote tail kick diagram mask diagram coyote affair globe ozone lottery";
+var mnemonic = "slice course toilet soft raccoon wear mobile quiz barely sunny agree wet";

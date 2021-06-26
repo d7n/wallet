@@ -1,1 +1,1 @@
-var mnemonic = "rate drum puzzle fancy midnight injury modify awkward magic come hour input";
+var mnemonic = "gap maze bag join group screen profit wing riot bird cherry hybrid";

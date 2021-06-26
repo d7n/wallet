@@ -1,1 +1,1 @@
-var mnemonic = "magic century lawsuit obtain young venue sketch advice ill bundle giant ten";
+var mnemonic = "balance pipe you yellow egg edit certain roast color merry panel weapon";

@@ -1,1 +1,1 @@
-var mnemonic = "extra rhythm tobacco deer marriage width zebra security someone hundred napkin clutch";
+var mnemonic = "salmon notable sniff vault material west found wash squeeze process sport census";

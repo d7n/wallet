@@ -1,1 +1,1 @@
-var mnemonic = "weasel horse struggle title naive throw final sad ethics food grape summer";
+var mnemonic = "north firm legal business grit edge crystal bus alcohol session street pledge";

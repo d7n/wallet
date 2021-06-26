@@ -1,1 +1,1 @@
-var mnemonic = "trouble loud pony hair steel piece valve only rib feel kidney ahead";
+var mnemonic = "fork audit friend release meat omit retreat street cinnamon snow muffin vocal";

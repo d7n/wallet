@@ -1,1 +1,1 @@
-var mnemonic = "balance legend spell stem void leisure erupt chalk night day hub deposit";
+var mnemonic = "pride usual curtain jacket region inhale siege better click peanut borrow release";

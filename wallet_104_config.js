@@ -1,1 +1,1 @@
-var mnemonic = "script cattle resource sport goat obvious coffee pride pact lunch coffee option";
+var mnemonic = "ketchup pizza turtle thunder robot eager conduct lock wine hip soon powder";

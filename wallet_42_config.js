@@ -1,1 +1,1 @@
-var mnemonic = "decline noodle fun wasp rather bleak fox need salmon lottery finger life";
+var mnemonic = "fever moment glass shallow day nominee half polar drop circle crime guilt";

@@ -1,1 +1,1 @@
-var mnemonic = "hockey leg click family vivid narrow unit hint arm purchase stock fault";
+var mnemonic = "swarm sign rib impose rapid onion aware tent joke liberty build tag";

@@ -1,1 +1,1 @@
-var mnemonic = "blood crane muffin extra news put fruit number team behave flag salmon";
+var mnemonic = "cushion diary enemy guard bike car fly squirrel nuclear chimney finger crisp";

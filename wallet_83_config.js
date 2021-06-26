@@ -1,1 +1,1 @@
-var mnemonic = "afford eight glory essay chase salon fence often recipe add tennis nasty";
+var mnemonic = "submit estate answer unhappy shy uncle march local retire say say utility";

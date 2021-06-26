@@ -1,1 +1,1 @@
-var mnemonic = "pilot hunt coin under van shaft oval opera claim citizen gap curtain";
+var mnemonic = "guilt magic length super pulp agree shoulder gaze degree undo tackle stadium";

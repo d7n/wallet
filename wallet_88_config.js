@@ -1,1 +1,1 @@
-var mnemonic = "cage canyon mobile jewel around melody predict day food brass program judge";
+var mnemonic = "logic legend amused equip alter venture assist coconut mule split million pistol";

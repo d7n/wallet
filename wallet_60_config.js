@@ -1,1 +1,1 @@
-var mnemonic = "love exact usage annual cart bullet ten dynamic six logic boil chief";
+var mnemonic = "health approve join dice manual angry vendor allow gloom special naive faith";

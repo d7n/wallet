@@ -1,1 +1,1 @@
-var mnemonic = "drop patient tool toe faint law can tilt paddle zebra rain torch";
+var mnemonic = "shaft census kingdom poet cradle live derive dial whip insect promote drink";

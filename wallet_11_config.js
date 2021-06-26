@@ -1,1 +1,1 @@
-var mnemonic = "nut empower industry bitter bless empty enhance scheme awkward light zone sleep";
+var mnemonic = "option prevent intact resemble scrub trade scissors happy symptom real answer file";

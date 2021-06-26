@@ -1,1 +1,1 @@
-var mnemonic = "twelve adult focus barrel trap tuition asset remember glare vault muffin sunset";
+var mnemonic = "monitor erode cattle volcano remember vocal voyage bitter exchange element laugh napkin";

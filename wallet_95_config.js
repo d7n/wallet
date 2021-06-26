@@ -1,1 +1,1 @@
-var mnemonic = "reopen urban blood lawsuit elder famous require heart urge issue black safe";
+var mnemonic = "surface ozone swap fatal decade crowd style mercy wreck life work depart";

@@ -1,1 +1,1 @@
-var mnemonic = "flower usual help lawsuit soul shoe flavor face rhythm galaxy excuse squeeze";
+var mnemonic = "brief elegant bamboo legend blast axis pipe powder once truck confirm token";

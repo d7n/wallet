@@ -1,1 +1,1 @@
-var mnemonic = "embody asset tilt popular damage change album feed inside uncle finger east";
+var mnemonic = "paper drink flee jungle offer unfold spot turkey rookie sea affair seat";

@@ -1,1 +1,1 @@
-var mnemonic = "slow brass hotel brief plate alter hollow vendor nephew laundry arrest vacant";
+var mnemonic = "fuel also frog stomach walnut dizzy toss flag quiz will foil denial";

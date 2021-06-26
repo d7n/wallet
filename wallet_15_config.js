@@ -1,1 +1,1 @@
-var mnemonic = "elite demand regret flower mean situate umbrella recipe they smooth forget kite";
+var mnemonic = "agent shiver climb loan proof actress alien wagon bulb cream six mixed";

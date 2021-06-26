@@ -1,1 +1,1 @@
-var mnemonic = "dirt nothing then energy dry profit logic champion enroll follow click shaft";
+var mnemonic = "whale evoke present remember lab satoshi media spy tribe mixture lens rate";

@@ -1,1 +1,1 @@
-var mnemonic = "sorry cinnamon welcome make endless wood help cycle danger airport tribe split";
+var mnemonic = "trophy abandon scheme rib engage wink chicken lecture shrug swift retire little";

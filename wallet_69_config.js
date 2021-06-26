@@ -1,1 +1,1 @@
-var mnemonic = "bulb cluster eyebrow attack cycle tower ceiling ensure punch avocado butter project";
+var mnemonic = "suspect wrap diesel swarm mixture spoon chicken grow lounge lesson spice kid";
