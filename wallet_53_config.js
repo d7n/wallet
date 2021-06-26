@@ -1,1 +1,1 @@
-var mnemonic = "virtual loyal buffalo worry october boat curve hero into bid bright believe";
+var mnemonic = "tent stage bottom laugh suffer rhythm hold stamp fly sand parrot prevent";

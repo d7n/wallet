@@ -1,1 +1,1 @@
-var mnemonic = "praise denial morning hammer panel scene reveal because select decide flame chief";
+var mnemonic = "bounce denial section achieve goddess yellow flush kick drive glimpse urban measure";

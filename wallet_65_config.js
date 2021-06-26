@@ -1,1 +1,1 @@
-var mnemonic = "license hard jump tent unfold honey shiver edit rhythm expire hood cactus";
+var mnemonic = "return maple level ring giggle vague adult swarm muscle leisure squirrel mixture";

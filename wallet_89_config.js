@@ -1,1 +1,1 @@
-var mnemonic = "pattern trumpet child horse system expand fluid common trial town renew layer";
+var mnemonic = "funny smile logic grief clerk guess slush spray action since put sheriff";

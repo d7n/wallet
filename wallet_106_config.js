@@ -1,1 +1,1 @@
-var mnemonic = "explain off citizen faith birth turtle clap accident split fish usage core";
+var mnemonic = "budget forget govern used october confirm work december result slogan mother focus";

@@ -1,1 +1,1 @@
-var mnemonic = "simple topic night lens what maze pass impulse file friend fringe quarter";
+var mnemonic = "culture witness evoke filter satisfy layer stem visit impulse item casino bounce";

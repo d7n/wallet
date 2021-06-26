@@ -1,1 +1,1 @@
-var mnemonic = "onion half shine can cereal small lucky praise organ impose senior melody";
+var mnemonic = "rent warfare art trumpet bid cube heavy feed law twenty appear mammal";

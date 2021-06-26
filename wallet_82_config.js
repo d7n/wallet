@@ -1,1 +1,1 @@
-var mnemonic = "boy expand wheat exist federal illegal client forward mesh ramp curtain defy";
+var mnemonic = "gun caution syrup voyage monitor mention sunset gain engage curtain damage carbon";

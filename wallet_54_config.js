@@ -1,1 +1,1 @@
-var mnemonic = "buddy later usual jelly swear useless hedgehog wagon welcome supreme bike father";
+var mnemonic = "laptop dinosaur rail virtual gauge catalog theory negative boost kingdom harbor neutral";

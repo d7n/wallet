@@ -1,1 +1,1 @@
-var mnemonic = "know clock neck name split point diamond people sphere bleak bicycle slight";
+var mnemonic = "build label camp throw scene swarm lumber pen pattern ethics organ elder";

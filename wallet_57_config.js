@@ -1,1 +1,1 @@
-var mnemonic = "invest clarify scrub disease nephew refuse history employ end goat usage assault";
+var mnemonic = "prison foil steak ugly diesel acid defense cotton faint beauty aim first";

@@ -1,1 +1,1 @@
-var mnemonic = "confirm cherry pioneer discover verify permit toss address disagree arm glow pulse";
+var mnemonic = "fee hobby jewel pepper dwarf entire manual chalk thrive alarm review twice";

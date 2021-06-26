@@ -1,1 +1,1 @@
-var mnemonic = "outside gasp evil bachelor ripple amount real pilot route visit hobby lazy";
+var mnemonic = "patrol upgrade ozone foam remove pact fly case audit goddess silver tobacco";

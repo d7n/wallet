@@ -1,1 +1,1 @@
-var mnemonic = "patch debate glance exit mixed purpose army angry tip engage chalk danger";
+var mnemonic = "glad target surface resemble capable neglect fold trend two level abstract super";

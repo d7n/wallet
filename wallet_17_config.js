@@ -1,1 +1,1 @@
-var mnemonic = "jungle badge source infant grocery senior spice moon fiscal action away estate";
+var mnemonic = "cook pumpkin mix bridge know woman pottery fat better flame faith enhance";

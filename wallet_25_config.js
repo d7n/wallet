@@ -1,1 +1,1 @@
-var mnemonic = "pass habit zone medal merge scorpion tuna surprise rifle runway mass benefit";
+var mnemonic = "pink feel trim girl digital chronic scheme ready pyramid congress upon differ";

@@ -1,1 +1,1 @@
-var mnemonic = "hunt turn trophy surround fetch honey art youth between life lock sport";
+var mnemonic = "share coyote crunch today crumble swamp jaguar all hazard popular affair kiss";

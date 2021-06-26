@@ -1,1 +1,1 @@
-var mnemonic = "human across seat ostrich episode position mail neglect opinion inherit damp bunker";
+var mnemonic = "bridge print entire cycle minute fuel cigar frown example session digital remind";

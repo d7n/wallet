@@ -1,1 +1,1 @@
-var mnemonic = "naive ridge dust crop danger diagram sea any crime crew rose oil";
+var mnemonic = "repair tuition lizard slow anxiety pudding end analyst atom injury benefit midnight";

@@ -1,1 +1,1 @@
-var mnemonic = "name pill cinnamon borrow expand develop repair jelly sea panda alien gate";
+var mnemonic = "tail capable cheese arrest shell label coffee trouble online tiny alien soda";

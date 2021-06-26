@@ -1,1 +1,1 @@
-var mnemonic = "sleep ship bread reject angry village under chicken under news blood option";
+var mnemonic = "young caution corn cloud caught tunnel exhibit once prepare injury keen spread";

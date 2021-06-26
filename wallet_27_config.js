@@ -1,1 +1,1 @@
-var mnemonic = "bone update idle boost virus volcano glad recall salt disease hybrid hazard";
+var mnemonic = "senior tobacco master physical express divorce annual insect blanket legal edit detail";

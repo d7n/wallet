@@ -1,1 +1,1 @@
-var mnemonic = "fruit apple glare grid race recipe help segment able curtain below coin";
+var mnemonic = "effort crush allow pumpkin cheap wide menu glass sense fancy manual clarify";

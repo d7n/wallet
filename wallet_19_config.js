@@ -1,1 +1,1 @@
-var mnemonic = "tube install wasp stem author come deny install pistol chapter slogan hazard";
+var mnemonic = "like insect enter open arrive sample wide speak total random spread swing";

@@ -1,1 +1,1 @@
-var mnemonic = "belt sister faint aisle tackle sustain say tape airport orient reward feature";
+var mnemonic = "pave warfare brief capable round rack width skill obey garden hammer sand";

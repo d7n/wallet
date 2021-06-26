@@ -1,1 +1,1 @@
-var mnemonic = "nerve scorpion struggle lounge liquid smile grocery truly wage exchange chaos cupboard";
+var mnemonic = "toddler wreck betray minute dilemma luggage color human glass lawsuit unhappy hill";

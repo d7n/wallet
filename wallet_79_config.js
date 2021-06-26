@@ -1,1 +1,1 @@
-var mnemonic = "dash bring field possible auction olympic claim pluck muffin artwork angry ranch";
+var mnemonic = "chuckle business frog tomorrow ecology obtain hill print prefer abstract oyster tomorrow";

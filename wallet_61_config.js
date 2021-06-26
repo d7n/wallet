@@ -1,1 +1,1 @@
-var mnemonic = "universe bag lobster owner section usage marriage giggle sudden toe fox dwarf";
+var mnemonic = "caught garment account ivory hungry rib drip west virus shed risk note";

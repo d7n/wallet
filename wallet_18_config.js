@@ -1,1 +1,1 @@
-var mnemonic = "merge bleak frost arrive input roast control thank vault tribe farm engage";
+var mnemonic = "welcome vacant tornado message square spatial phrase welcome test reunion north tomato";

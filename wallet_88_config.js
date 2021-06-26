@@ -1,1 +1,1 @@
-var mnemonic = "lonely ocean chase wreck adapt poem render palm race tennis segment remain";
+var mnemonic = "market rebuild replace aisle donkey cross eight found tiny hospital onion path";

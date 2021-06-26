@@ -1,1 +1,1 @@
-var mnemonic = "south term mystery shell loan settle offer forget clump chimney powder lizard";
+var mnemonic = "entry wide vivid tide profit pulse coast spot core know organ ramp";

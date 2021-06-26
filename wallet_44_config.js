@@ -1,1 +1,1 @@
-var mnemonic = "empty unveil huge include magnet bus venture candy vintage knee prison thumb";
+var mnemonic = "forget runway awkward practice shop vacant wear memory boost rubber apology luxury";

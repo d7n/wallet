@@ -1,1 +1,1 @@
-var mnemonic = "umbrella title local slender fluid trade truly one add return left speed";
+var mnemonic = "absurd produce vicious wine rich permit adult scorpion age estate good decline";

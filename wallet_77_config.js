@@ -1,1 +1,1 @@
-var mnemonic = "oyster rural replace easy tag crawl crowd nurse bread tide sound response";
+var mnemonic = "define question derive dismiss fever asset balcony catalog once pioneer portion exit";

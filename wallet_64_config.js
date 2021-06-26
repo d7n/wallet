@@ -1,1 +1,1 @@
-var mnemonic = "nasty myth love chair traffic ladder rather veteran close repair common fee";
+var mnemonic = "clinic gallery cloud obscure arrange term require problem special tip crawl faculty";

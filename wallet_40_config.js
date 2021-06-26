@@ -1,1 +1,1 @@
-var mnemonic = "radar asset flee buddy six wine used ability twist hill special nose";
+var mnemonic = "walnut split angle tackle amused change state gospel duck nasty crime upgrade";

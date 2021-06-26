@@ -1,1 +1,1 @@
-var mnemonic = "floor forward expire mercy play nephew myself then cruise dune faculty invite";
+var mnemonic = "empower adapt ivory treat hen air satisfy ill exhibit turkey harsh kite";

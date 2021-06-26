@@ -1,1 +1,1 @@
-var mnemonic = "soda dad crew problem medal power almost whisper nut seminar link valley";
+var mnemonic = "end dial consider dance trash slam diary leopard patrol vapor jar harsh";

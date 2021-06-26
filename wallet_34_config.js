@@ -1,1 +1,1 @@
-var mnemonic = "gap forum found dove normal electric simple average upgrade genuine way flight";
+var mnemonic = "silent diamond gather outdoor chase abuse arrow awake badge daring kitten follow";

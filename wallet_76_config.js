@@ -1,1 +1,1 @@
-var mnemonic = "ramp about mechanic frog unusual prevent hundred mammal dune void neither juice";
+var mnemonic = "receive today shuffle what stomach fence rescue margin sugar unusual brush parent";

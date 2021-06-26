@@ -1,1 +1,1 @@
-var mnemonic = "seed noodle pyramid find question tunnel rifle ancient since follow anchor catch";
+var mnemonic = "flower match rescue swim gap sausage odor extra tired raise shed rich";

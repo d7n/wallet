@@ -1,1 +1,1 @@
-var mnemonic = "stamp album assist where raise bottom lucky safe version term transfer kidney";
+var mnemonic = "floor tribe dizzy remain sibling patrol balcony tide federal emerge year crazy";

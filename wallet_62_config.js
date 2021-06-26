@@ -1,1 +1,1 @@
-var mnemonic = "judge into error local charge hover axis style gaze access bulk dynamic";
+var mnemonic = "fence room similar obey badge silver uncover injury rain wreck only sponsor";

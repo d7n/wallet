@@ -1,1 +1,1 @@
-var mnemonic = "practice matrix notable bamboo wink enemy finish minute give ride garlic bless";
+var mnemonic = "dice favorite tower cage tell absorb impulse random decline bulb song banana";

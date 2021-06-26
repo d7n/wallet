@@ -1,1 +1,1 @@
-var mnemonic = "crack more bullet stumble draw subject saddle morning gentle silver render abstract";
+var mnemonic = "defy crash dutch neither rough wood devote tortoise sail enforce scheme frog";

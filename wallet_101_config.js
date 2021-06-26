@@ -1,1 +1,1 @@
-var mnemonic = "cute famous upgrade eyebrow choose impact secret spider remain sponsor panda keep";
+var mnemonic = "round help slice toddler grape giraffe october female reform dentist agree virtual";

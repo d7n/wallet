@@ -1,1 +1,1 @@
-var mnemonic = "giraffe rotate measure useful success census jealous shrimp rival drum foster horror";
+var mnemonic = "budget awake reunion between thumb agree enhance mechanic latin ranch scene cluster";

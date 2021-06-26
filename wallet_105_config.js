@@ -1,1 +1,1 @@
-var mnemonic = "enter fat bid aim junior kite property orient item whale legal couple";
+var mnemonic = "stick magnet snack holiday harvest profit win hello use reason peace blue";

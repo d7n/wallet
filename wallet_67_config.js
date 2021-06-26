@@ -1,1 +1,1 @@
-var mnemonic = "van fitness thrive hour impose spend banana blast hub alcohol hybrid ivory";
+var mnemonic = "fog honey casual home wrap palm stand elevator door inform shiver over";

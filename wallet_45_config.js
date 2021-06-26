@@ -1,1 +1,1 @@
-var mnemonic = "donkey jaguar brick exist rocket blush brush palm woman more safe auto";
+var mnemonic = "shaft table silver fish jungle two divorce before bundle decline random album";

@@ -1,1 +1,1 @@
-var mnemonic = "traffic tourist tuna ugly add industry orange bullet fluid usual acoustic history";
+var mnemonic = "visual famous essay access clip fuel claim life copper kitten kitchen remain";

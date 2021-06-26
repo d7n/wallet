@@ -1,1 +1,1 @@
-var mnemonic = "vessel uniform summer rent puppy extra cabin change absurd will upon loud";
+var mnemonic = "defense dragon party antenna spirit early idea brick biology embark dress soccer";

@@ -1,1 +1,1 @@
-var mnemonic = "grocery outside invest say narrow payment age badge crime orbit wing short";
+var mnemonic = "input uniform trim chicken sick foil dirt rebuild hurry frog wisdom imitate";

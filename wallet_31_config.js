@@ -1,1 +1,1 @@
-var mnemonic = "eye list camera slight expand hazard left miracle deal jazz flavor century";
+var mnemonic = "potato sure illegal cool pig asset kiss bubble wink poet table ivory";

@@ -1,1 +1,1 @@
-var mnemonic = "kitten diamond apple prepare polar long poem rabbit sponsor stem venture knock";
+var mnemonic = "mango easy zoo punch across nominee sphere deer youth again apple gravity";

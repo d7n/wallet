@@ -1,1 +1,1 @@
-var mnemonic = "humor same fat claim corn spin display curtain tape photo height market";
+var mnemonic = "hybrid then cupboard cross relax ask kick soap lesson often student dial";

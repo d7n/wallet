@@ -1,1 +1,1 @@
-var mnemonic = "busy slab duck spin trash ivory crumble foil mercy online time kiss";
+var mnemonic = "infant saddle group twice coyote weasel hard crane effort leisure smoke cruel";

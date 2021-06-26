@@ -1,1 +1,1 @@
-var mnemonic = "chronic expect clock injury stuff sand soda cheap rival utility define foam";
+var mnemonic = "lunar height increase obvious glue sentence chair summer become hobby joke unlock";

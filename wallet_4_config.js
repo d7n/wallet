@@ -1,1 +1,1 @@
-var mnemonic = "source smoke joke bicycle stay hollow dice public airport estate today stage";
+var mnemonic = "then force child beef onion casino sunset silly gossip photo weapon husband";

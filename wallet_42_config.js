@@ -1,1 +1,1 @@
-var mnemonic = "visual sun pelican must govern over brief swift pattern slim digital title";
+var mnemonic = "tennis fancy come guide world vital blue spatial million home crime you";

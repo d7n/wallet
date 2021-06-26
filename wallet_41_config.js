@@ -1,1 +1,1 @@
-var mnemonic = "order major build blue measure artwork mad can rent include peanut slender";
+var mnemonic = "floor note fantasy border regular beyond badge element reopen change street win";

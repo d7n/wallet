@@ -1,1 +1,1 @@
-var mnemonic = "intact upset match model march profit wonder harsh sauce pupil rule below";
+var mnemonic = "track armed unique hawk ugly wink walk trigger tent voice inquiry weapon";

@@ -1,1 +1,1 @@
-var mnemonic = "ocean rifle human insane belt sea woman dynamic evoke drink liar soap";
+var mnemonic = "salute token warfare arena connect credit palm pause april man proof narrow";

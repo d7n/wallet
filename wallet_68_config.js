@@ -1,1 +1,1 @@
-var mnemonic = "real space cruel chaos car distance satoshi letter marble matrix foam catalog";
+var mnemonic = "tree profit various bread ride when man bird effort egg estate burst";

@@ -1,1 +1,1 @@
-var mnemonic = "script canvas phrase shed theme industry want foil voice bar season trick";
+var mnemonic = "program load check bundle deer open brave concert pact exotic trigger entire";

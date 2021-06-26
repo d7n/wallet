@@ -1,1 +1,1 @@
-var mnemonic = "cry side proud dinosaur planet festival mechanic sun coconut market myself affair";
+var mnemonic = "orange bind reject reveal pigeon home author wine left such patient chaos";

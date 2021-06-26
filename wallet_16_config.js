@@ -1,1 +1,1 @@
-var mnemonic = "stage tree use winter physical humor program victory claim gauge runway gown";
+var mnemonic = "jelly firm inspire patch extra normal dirt excess kite author join urban";

@@ -1,1 +1,1 @@
-var mnemonic = "jar moment marine demise hotel soldier glove awful combine real clump hip";
+var mnemonic = "food hurt cry oven spread oppose skill kitchen stomach wealth stand food";

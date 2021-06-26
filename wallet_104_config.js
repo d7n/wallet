@@ -1,1 +1,1 @@
-var mnemonic = "consider siren endorse play annual deputy fringe kitchen step twenty rhythm pistol";
+var mnemonic = "around tomorrow lazy identify now wrong hold song poverty lava project basket";

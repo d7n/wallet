@@ -1,1 +1,1 @@
-var mnemonic = "sock slab fat attack sustain pen primary alpha best bicycle flip useless";
+var mnemonic = "concert lawn view clown artefact scissors scissors ladder awake riot illness inject";

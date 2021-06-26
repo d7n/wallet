@@ -1,1 +1,1 @@
-var mnemonic = "monkey film disorder brass leopard pencil have barrel rifle vapor kidney crop";
+var mnemonic = "rival they apart broken witness shrimp coach cheese enlist chat dismiss task";

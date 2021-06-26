@@ -1,1 +1,1 @@
-var mnemonic = "vocal february engage autumn random fancy announce sphere case notice topple awake";
+var mnemonic = "maple turn mail cloud wait reopen uncle public pill analyst people air";

@@ -1,1 +1,1 @@
-var mnemonic = "chase note truck flip language silver air carpet bundle aerobic chair bean";
+var mnemonic = "version unlock patrol tray fly upgrade verb wall tired seven work sister";

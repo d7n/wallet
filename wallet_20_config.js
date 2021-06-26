@@ -1,1 +1,1 @@
-var mnemonic = "autumn edge diesel tonight work chalk catch wing initial lyrics tackle moral";
+var mnemonic = "morning primary country know trip fox appear smile inner unusual casual juice";

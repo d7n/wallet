@@ -1,1 +1,1 @@
-var mnemonic = "word hold electric typical tower undo lion message sorry crop list note";
+var mnemonic = "grow hole service sea exile idle spell monitor bulb snow long casual";

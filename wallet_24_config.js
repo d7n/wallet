@@ -1,1 +1,1 @@
-var mnemonic = "fiscal boil slogan polar size innocent host video mother mask weapon remove";
+var mnemonic = "summer coast dizzy chest stage weapon pass sort rhythm excuse mom blood";

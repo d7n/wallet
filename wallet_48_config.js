@@ -1,1 +1,1 @@
-var mnemonic = "giant legal travel dress mobile truth sweet pact front scheme insect then";
+var mnemonic = "either breeze size purpose defense velvet urban shadow rural horn aspect visual";

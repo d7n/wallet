@@ -1,1 +1,1 @@
-var mnemonic = "proud educate exclude spawn hundred hospital wagon tilt olive jelly holiday million";
+var mnemonic = "middle drill clip ball lizard mass genuine certain fashion shield grace neither";

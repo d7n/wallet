@@ -1,1 +1,1 @@
-var mnemonic = "wasp pig ski arena taxi control link ready into movie patch thought";
+var mnemonic = "today side exile farm dawn capable lounge peanut mango slow loud clinic";

@@ -1,1 +1,1 @@
-var mnemonic = "grief south owner zebra initial glue alone dish oil brand reopen crumble";
+var mnemonic = "stumble network matter liquid door puzzle arrange flush crumble zero also cloud";

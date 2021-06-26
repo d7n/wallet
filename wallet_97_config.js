@@ -1,1 +1,1 @@
-var mnemonic = "monkey oppose palace thunder collect garbage disorder figure alpha cash drama width";
+var mnemonic = "blast any raccoon knee holiday tiger blade that nice garbage transfer host";

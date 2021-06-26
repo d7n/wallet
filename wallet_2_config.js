@@ -1,1 +1,1 @@
-var mnemonic = "badge slim ask exotic together pencil dune daring weasel fuel flower napkin";
+var mnemonic = "junior chest crack ugly female snow hollow orient author option notable behind";

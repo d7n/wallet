@@ -1,1 +1,1 @@
-var mnemonic = "excite supply ship feature skill language machine pelican razor six faith soldier";
+var mnemonic = "excite scatter denial fruit share wrong limb remind brave boss oxygen upon";

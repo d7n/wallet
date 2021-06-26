@@ -1,1 +1,1 @@
-var mnemonic = "toward lamp carbon omit bacon top digital exhaust vault buddy soccer glide";
+var mnemonic = "coin solve antique bread party ocean follow receive equip shed affair wash";

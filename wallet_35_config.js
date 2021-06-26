@@ -1,1 +1,1 @@
-var mnemonic = "elephant rather orbit bamboo adjust throw cause recipe inherit axis focus okay";
+var mnemonic = "tooth slush poverty paddle danger ranch labor lawsuit candy exile trust cook";

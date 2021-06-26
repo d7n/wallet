@@ -1,1 +1,1 @@
-var mnemonic = "viable situate news valley dynamic noble blind ostrich defense table used clip";
+var mnemonic = "moment people baby piece timber beauty uncover toilet cream need lift various";

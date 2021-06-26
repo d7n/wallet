@@ -1,1 +1,1 @@
-var mnemonic = "hour anger crazy glimpse law either wrap speed alpha amount during alley";
+var mnemonic = "below humble account feed fish lazy swallow toilet merge this punch news";

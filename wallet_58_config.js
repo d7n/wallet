@@ -1,1 +1,1 @@
-var mnemonic = "taste sponsor pattern lonely scrub squirrel carbon rigid tell volcano tower rain";
+var mnemonic = "bargain deliver grape muffin afford rotate famous thing mean surface truth voyage";

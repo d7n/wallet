@@ -1,1 +1,1 @@
-var mnemonic = "chat remind plug woman jelly home gesture genre civil track eye truck";
+var mnemonic = "clinic yard sheriff blade fan zone crash nerve industry promote gesture body";

@@ -1,1 +1,1 @@
-var mnemonic = "rack front cost erode ten doll decide begin mango various scrub embark";
+var mnemonic = "dial buddy fossil ride apple jungle abandon effort fresh debris hint bread";

@@ -1,1 +1,1 @@
-var mnemonic = "injury nice average caught autumn have scatter host jeans approve bounce beach";
+var mnemonic = "evil erosion race bright misery swear husband cricket symptom trumpet reform board";
