@@ -1,1 +1,1 @@
-var mnemonic = "universe inform other other achieve champion unique door fabric sheriff web praise";
+var mnemonic = "clump idea trash surface dance snack unable mom scrub deal token diesel";

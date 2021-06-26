@@ -1,1 +1,1 @@
-var mnemonic = "kingdom method one pet warfare solar alone auto spoil angry scale embrace";
+var mnemonic = "ocean admit blouse retreat poet point forest hunt tone pill wash soon";

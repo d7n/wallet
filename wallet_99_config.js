@@ -1,1 +1,1 @@
-var mnemonic = "network today marine alley uncover canvas pumpkin fox joke saddle now stool";
+var mnemonic = "tree wage clever foil grace swear sphere pledge fox napkin plug front";

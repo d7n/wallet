@@ -1,1 +1,1 @@
-var mnemonic = "love social refuse wide rather glare pull cherry october artefact cable cradle";
+var mnemonic = "smooth mushroom city shine tackle episode over exclude shrimp water deposit fiscal";

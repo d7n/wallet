@@ -1,1 +1,1 @@
-var mnemonic = "penalty net swallow wire north eye clean huge insect sugar dismiss diet";
+var mnemonic = "despair inner media world scan remain spend cannon century sport weekend shock";

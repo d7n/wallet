@@ -1,1 +1,1 @@
-var mnemonic = "blue member acid floor offer crop edge wedding cluster churn level wrong";
+var mnemonic = "sport horse digital village symptom caught regular drama region agree valid car";

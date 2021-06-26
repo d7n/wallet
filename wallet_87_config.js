@@ -1,1 +1,1 @@
-var mnemonic = "fold category sausage guide mixed club apology loop version hat resemble steak";
+var mnemonic = "radar gate core cry slice liar copy under shell easy economy curtain";

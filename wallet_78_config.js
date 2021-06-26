@@ -1,1 +1,1 @@
-var mnemonic = "usage parent venture adult laugh siren doctor author choice convince true game";
+var mnemonic = "attend balcony shrimp clean parade effort matrix victory wet cupboard deposit auction";

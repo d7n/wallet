@@ -1,1 +1,1 @@
-var mnemonic = "cream leaf pill version media warfare material park cave income lady legal";
+var mnemonic = "outer expand sausage start question time trigger aim alien curtain draw sauce";

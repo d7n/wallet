@@ -1,1 +1,1 @@
-var mnemonic = "alley wrist flee attack tissue primary happy hope dawn unfold sick planet";
+var mnemonic = "square lake boat spawn grant auto reject post way dial middle rival";

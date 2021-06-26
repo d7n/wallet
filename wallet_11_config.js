@@ -1,1 +1,1 @@
-var mnemonic = "oil expand sell save series magnet impact wool canal lamp chat lens";
+var mnemonic = "relief tortoise topple loan letter must reunion fish jealous stamp dawn base";

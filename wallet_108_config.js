@@ -1,1 +1,1 @@
-var mnemonic = "talent water team vicious trigger engage connect manage figure torch tank remember";
+var mnemonic = "illness crazy need elite act crystal feature dry stock guilt canal off";

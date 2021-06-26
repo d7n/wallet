@@ -1,1 +1,1 @@
-var mnemonic = "topple prepare assault series surge scale pledge pledge until normal story snow";
+var mnemonic = "drum tourist select alien view size survey faint ritual because street lounge";

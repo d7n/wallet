@@ -1,1 +1,1 @@
-var mnemonic = "skate loop runway mix pen grit educate ginger moral pattern over imitate";
+var mnemonic = "jump slight cannon nurse federal capable fault pattern trip dance rule worth";

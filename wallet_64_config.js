@@ -1,1 +1,1 @@
-var mnemonic = "taste equip collect parrot buzz birth also inner marriage air design control";
+var mnemonic = "hint regular become comic range crash engine argue express coil artefact roast";

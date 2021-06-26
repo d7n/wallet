@@ -1,1 +1,1 @@
-var mnemonic = "purity come layer exercise stove defense camera level clever gun gas little";
+var mnemonic = "ensure soldier deer inherit layer skate citizen road chair goat endless million";

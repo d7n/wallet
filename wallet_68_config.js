@@ -1,1 +1,1 @@
-var mnemonic = "prize proud kiss laugh athlete guitar round artist field churn theme october";
+var mnemonic = "cram universe frog maple citizen draft brand latin tennis rescue bitter solution";

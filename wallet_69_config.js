@@ -1,1 +1,1 @@
-var mnemonic = "inflict cram voice anger lunar avocado meat history stuff oak bonus axis";
+var mnemonic = "tide pear fiction you rug tornado regret dirt ripple tray cube enough";

@@ -1,1 +1,1 @@
-var mnemonic = "visa column diagram toward huge skull aim table split cake iron verb";
+var mnemonic = "inside key punch spider pull virtual hint hard outer shove humor tiger";

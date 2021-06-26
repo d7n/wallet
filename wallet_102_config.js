@@ -1,1 +1,1 @@
-var mnemonic = "double brisk child barrel nurse urban oak switch million retire build promote";
+var mnemonic = "fault method human fire zebra number little glance great stuff olive drama";

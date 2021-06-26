@@ -1,1 +1,1 @@
-var mnemonic = "quit plunge purchase obvious require error bubble music layer depart crumble vicious";
+var mnemonic = "laptop crazy know exact mix south duck harvest clever wait club exit";

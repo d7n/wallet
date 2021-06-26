@@ -1,1 +1,1 @@
-var mnemonic = "turn cotton plug decide attitude during bulb defense orange soup stool rice";
+var mnemonic = "dizzy south thunder replace giggle shoulder spare minimum blur cannon give movie";

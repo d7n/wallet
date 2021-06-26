@@ -1,1 +1,1 @@
-var mnemonic = "opinion section toilet lazy force panic wagon rally dream point give cannon";
+var mnemonic = "tornado robust genuine shaft fuel grocery immense immune theory rare comic owner";

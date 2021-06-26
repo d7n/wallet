@@ -1,1 +1,1 @@
-var mnemonic = "milk plate swallow suggest segment virus cousin liberty first spoil pretty bargain";
+var mnemonic = "priority strategy drift napkin hub company mutual invite regret insane spawn ball";

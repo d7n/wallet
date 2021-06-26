@@ -1,1 +1,1 @@
-var mnemonic = "green produce armor rely avoid pepper winter vehicle improve pistol alpha frown";
+var mnemonic = "venture comfort target outer pen sweet image inherit cart napkin news pottery";

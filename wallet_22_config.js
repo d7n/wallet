@@ -1,1 +1,1 @@
-var mnemonic = "toe violin black blind visa oxygen tide educate cream history mother cloth";
+var mnemonic = "lift foil glare year ask shoe snap toss slice critic used choose";

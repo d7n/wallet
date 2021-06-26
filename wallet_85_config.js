@@ -1,1 +1,1 @@
-var mnemonic = "major swear basket expect cabbage stereo silly purpose brown recipe invest follow";
+var mnemonic = "tide better spike myself oppose mechanic sunset memory swarm future ignore acquire";

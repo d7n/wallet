@@ -1,1 +1,1 @@
-var mnemonic = "crime sign all emerge mix rural pretty expire afraid job document puzzle";
+var mnemonic = "bamboo life certain barely cheese suggest shadow pizza service inspire chalk narrow";

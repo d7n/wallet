@@ -1,1 +1,1 @@
-var mnemonic = "legal fit shy erase review essay burden network grass damp senior cigar";
+var mnemonic = "neglect sense cram humble feature crater twelve deny loan shop shed swallow";

@@ -1,1 +1,1 @@
-var mnemonic = "family engage soon clever fruit job bargain document inflict soup lecture tunnel";
+var mnemonic = "attract carry shell exact slender student impact fork sick present foil tennis";

@@ -1,1 +1,1 @@
-var mnemonic = "south will heart again object shell end trust deputy hold start age";
+var mnemonic = "wave strategy day deny summer soda ivory answer round paper affair lens";

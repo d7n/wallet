@@ -1,1 +1,1 @@
-var mnemonic = "question kidney coconut deal amazing west divert praise income melt front thought";
+var mnemonic = "involve hand surge tiger require shed case surge knee proud produce notice";

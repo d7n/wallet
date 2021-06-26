@@ -1,1 +1,1 @@
-var mnemonic = "view focus afford spray try drive extend invite robust rhythm unusual blanket";
+var mnemonic = "anxiety evil filter tragic excite shield capable again champion music reveal mask";

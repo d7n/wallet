@@ -1,1 +1,1 @@
-var mnemonic = "similar tenant adjust exhaust soup coil smoke document fancy between glance mango";
+var mnemonic = "sight define chat valve rifle orbit knock flat identify deposit notice loyal";

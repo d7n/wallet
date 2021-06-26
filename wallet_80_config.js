@@ -1,1 +1,1 @@
-var mnemonic = "armor force anger coffee roast father advance myself near notice calm into";
+var mnemonic = "swear glare planet rare kingdom dragon marble theory welcome hollow found pride";

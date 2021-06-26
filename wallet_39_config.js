@@ -1,1 +1,1 @@
-var mnemonic = "loyal tunnel unveil tooth believe crouch frame auction file source that off";
+var mnemonic = "noise alert giraffe inhale rose special raise castle busy luggage drill escape";

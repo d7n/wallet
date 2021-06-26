@@ -1,1 +1,1 @@
-var mnemonic = "west quote stomach video gym lady claim scare they dirt chapter autumn";
+var mnemonic = "achieve concert usage hill drill roast illness flame elder decorate prepare fiscal";

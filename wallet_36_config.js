@@ -1,1 +1,1 @@
-var mnemonic = "prize steel salute curtain cover virus cement route guilt since achieve garage";
+var mnemonic = "pattern blanket fee cool parrot mesh rule measure random tiny final bean";

@@ -1,1 +1,1 @@
-var mnemonic = "tip blame theme kitchen bunker caution two merit move worry defy case";
+var mnemonic = "vacant ship quit exist exotic size noble tattoo venue response embrace awesome";

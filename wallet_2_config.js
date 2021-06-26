@@ -1,1 +1,1 @@
-var mnemonic = "puzzle regular canvas soft enough labor derive canvas public glue kick similar";
+var mnemonic = "vote pioneer spy yellow speak zoo ring pink digital diamond leisure fault";

@@ -1,1 +1,1 @@
-var mnemonic = "embody target six odor pitch bless valley report animal unable rice check";
+var mnemonic = "direct meat december small review creek cash asthma illegal library twin clinic";

@@ -1,1 +1,1 @@
-var mnemonic = "grocery excite blur deputy climb used sustain below act option shop around";
+var mnemonic = "loan easy clip ladder people enter field catch life scorpion tobacco ivory";

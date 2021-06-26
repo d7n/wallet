@@ -1,1 +1,1 @@
-var mnemonic = "minimum tomorrow poem lonely gym embark anxiety menu squeeze pluck holiday now";
+var mnemonic = "volcano kangaroo fork throw flat prison wool history brisk swallow patient local";

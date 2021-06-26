@@ -1,1 +1,1 @@
-var mnemonic = "salt slogan spoon truly payment certain crazy public expect shell manage eager";
+var mnemonic = "federal window poet furnace decide furnace hip kit educate extra debate black";

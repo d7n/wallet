@@ -1,1 +1,1 @@
-var mnemonic = "mirror mask misery benefit truth coffee beyond announce critic case exercise final";
+var mnemonic = "mixed carbon sword thrive tell alcohol door trigger volume innocent actress gate";

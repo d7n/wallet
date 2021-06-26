@@ -1,1 +1,1 @@
-var mnemonic = "battle run escape seat ladder grab stool bracket uniform edge poverty romance";
+var mnemonic = "portion cube imitate cotton alpha live hazard bright goddess coral salon stairs";

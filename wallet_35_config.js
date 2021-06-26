@@ -1,1 +1,1 @@
-var mnemonic = "column burst replace oppose midnight diary twin bag utility trim unique ask";
+var mnemonic = "unknown top stand eye citizen bleak warm click point shock grief rent";

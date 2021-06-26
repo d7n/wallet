@@ -1,1 +1,1 @@
-var mnemonic = "winter episode toddler apple divide analyst fitness agent custom glow fox salon";
+var mnemonic = "slush naive roast alien ocean work access cable venture occur short obscure";

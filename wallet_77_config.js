@@ -1,1 +1,1 @@
-var mnemonic = "motion april fold thrive topple duck accident census come crouch error height";
+var mnemonic = "broccoli rather empty student come library castle van tree toddler nation debate";

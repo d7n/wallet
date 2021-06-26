@@ -1,1 +1,1 @@
-var mnemonic = "sheriff wink atom weapon coast scale sing media uniform glare brave van";
+var mnemonic = "extend penalty release believe guide pole age drive gospel kid choose blade";

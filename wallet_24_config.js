@@ -1,1 +1,1 @@
-var mnemonic = "will under file bring antenna library rhythm mouse bacon mushroom friend case";
+var mnemonic = "country model goddess reflect private sign prevent small clog champion snap orbit";

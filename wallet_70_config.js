@@ -1,1 +1,1 @@
-var mnemonic = "point badge type coconut witness lava erode hole cricket shove spring base";
+var mnemonic = "vacant vacuum foster travel industry mobile deposit stairs patient cement venture range";

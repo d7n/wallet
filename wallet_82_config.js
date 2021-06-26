@@ -1,1 +1,1 @@
-var mnemonic = "manual fold maximum pony farm trend spoil cat online knock reopen giant";
+var mnemonic = "list either nut outdoor dentist venue asthma tattoo crystal novel lecture weapon";

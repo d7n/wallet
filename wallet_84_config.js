@@ -1,1 +1,1 @@
-var mnemonic = "dance prosper pear analyst whale loud into awesome grocery deputy defense dignity";
+var mnemonic = "wide silent present hungry replace busy clump artist gasp bamboo enforce coil";

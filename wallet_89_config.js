@@ -1,1 +1,1 @@
-var mnemonic = "stereo find young birth weather work chronic tissue assist finish cupboard belt";
+var mnemonic = "portion very mouse enact skate antenna thought electric slogan begin park depth";

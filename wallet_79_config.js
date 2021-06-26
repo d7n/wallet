@@ -1,1 +1,1 @@
-var mnemonic = "canyon equip toast option lab cattle smoke scrub achieve short embark then";
+var mnemonic = "focus they minor drill doll choose grant danger divide famous behind stadium";

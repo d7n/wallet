@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow rubber inherit manage deputy seek tilt caught giggle butter scheme arrive";
+var mnemonic = "forward oblige blue defy board rack sun deposit similar prepare knife stereo";

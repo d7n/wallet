@@ -1,1 +1,1 @@
-var mnemonic = "rude taxi diary endorse zoo gap slab wait accuse depth skate nerve";
+var mnemonic = "price during position hamster jar type live unaware crumble aspect year mixture";

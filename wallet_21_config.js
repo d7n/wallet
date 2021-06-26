@@ -1,1 +1,1 @@
-var mnemonic = "hurry exclude destroy motion female cube soft fitness lemon toy brief atom";
+var mnemonic = "earth glare combine accident erosion pipe print scissors travel there corn shoulder";

@@ -1,1 +1,1 @@
-var mnemonic = "lumber vacuum muscle crime split dentist kitten orbit walk excess foot resemble";
+var mnemonic = "blade bridge private ranch legal north cat before pluck wash sketch turn";

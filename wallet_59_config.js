@@ -1,1 +1,1 @@
-var mnemonic = "update donor arrest goat rule drink split number talent maze ketchup crack";
+var mnemonic = "produce obscure flight message since cover helmet antique absurd spring focus polar";

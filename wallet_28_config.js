@@ -1,1 +1,1 @@
-var mnemonic = "diary walk pear accident price consider jungle buffalo oval sauce column order";
+var mnemonic = "edge fantasy identify best tomorrow loud submit can floor junk name curious";

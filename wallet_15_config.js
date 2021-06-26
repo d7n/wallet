@@ -1,1 +1,1 @@
-var mnemonic = "jewel fire expire blade property tomorrow axis announce saddle crouch pilot charge";
+var mnemonic = "palace there bottom jelly idle security isolate talent bar grass grab between";

@@ -1,1 +1,1 @@
-var mnemonic = "pair mango video spare dawn flock rough smoke trumpet mobile dash nice";
+var mnemonic = "angry crash street fly blind typical bicycle target near dream slab runway";

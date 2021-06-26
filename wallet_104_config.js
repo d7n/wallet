@@ -1,1 +1,1 @@
-var mnemonic = "impact fish use inherit save gorilla uphold oven diary amazing forum sweet";
+var mnemonic = "round album myself purse repair horse swear glass beach ensure again pear";

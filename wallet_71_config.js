@@ -1,1 +1,1 @@
-var mnemonic = "below portion talent rain solar lounge melody label divide picnic dash primary";
+var mnemonic = "shrug perfect reduce card impose rude round raw assault divorce intact leave";

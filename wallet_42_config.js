@@ -1,1 +1,1 @@
-var mnemonic = "rabbit direct soul badge correct pitch bonus shine fly cool toe worry";
+var mnemonic = "custom thought cave tank rhythm truly leader relax soul session thank basic";

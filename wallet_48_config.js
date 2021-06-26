@@ -1,1 +1,1 @@
-var mnemonic = "special onion maple check actual patrol south pigeon betray pen oak expand";
+var mnemonic = "pudding bread maximum try rather shoe dolphin foam suit umbrella lunch tag";

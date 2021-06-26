@@ -1,1 +1,1 @@
-var mnemonic = "casual final special bag brass junk forum fury walk client grief alcohol";
+var mnemonic = "seminar amount front earth prize noble cricket sell wagon oyster until shoot";

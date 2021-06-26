@@ -1,1 +1,1 @@
-var mnemonic = "force problem device unit tone tell ritual type border brush glance chalk";
+var mnemonic = "head odor boost run squeeze receive wing student achieve design afraid delay";

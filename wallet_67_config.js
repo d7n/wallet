@@ -1,1 +1,1 @@
-var mnemonic = "capital truth install harvest thought genuine valid culture fiber flag actress skill";
+var mnemonic = "index lab program tag delay estate cushion margin sell save also glide";

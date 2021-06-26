@@ -1,1 +1,1 @@
-var mnemonic = "vacuum avocado birth choose link chef health turkey human amateur coffee december";
+var mnemonic = "glimpse clay ranch spoil thumb perfect earth husband hour public sport prosper";

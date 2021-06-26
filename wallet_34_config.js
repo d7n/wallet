@@ -1,1 +1,1 @@
-var mnemonic = "floor blade expose have oven surge element peace quit oblige cover surprise";
+var mnemonic = "shrimp portion health conduct want make wait rival iron glow vicious seed";

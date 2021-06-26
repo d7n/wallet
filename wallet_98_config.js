@@ -1,1 +1,1 @@
-var mnemonic = "minute exhibit season diary wrap embrace harsh ticket damage broom soap infant";
+var mnemonic = "country immune extend fiber foot swim space pave zero snack used stable";

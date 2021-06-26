@@ -1,1 +1,1 @@
-var mnemonic = "clay subway soccer trip acoustic fruit harbor accident hurdle twelve novel monster";
+var mnemonic = "glare slab protect grace scale regret genius fury planet once husband noise";

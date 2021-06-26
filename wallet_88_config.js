@@ -1,1 +1,1 @@
-var mnemonic = "champion goddess expect photo bitter dial win opinion march unknown junk upset";
+var mnemonic = "senior grape arena lift forget fatal practice chapter umbrella month orange market";

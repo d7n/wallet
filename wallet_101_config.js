@@ -1,1 +1,1 @@
-var mnemonic = "vague crack twenty crime plastic cry lamp hello lyrics receive endorse despair";
+var mnemonic = "enable teach simple alone embrace kite coral need tissue pact analyst oval";

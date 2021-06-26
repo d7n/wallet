@@ -1,1 +1,1 @@
-var mnemonic = "accident nerve equip cat bread off toddler pause vessel until palm mansion";
+var mnemonic = "wire chat brief wood fringe sort case horn head hidden candy bronze";

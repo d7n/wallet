@@ -1,1 +1,1 @@
-var mnemonic = "prize pair detail holiday diesel vivid renew cement dust host sweet they";
+var mnemonic = "demise weasel protect bid wrong celery atom gas huge amateur midnight monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "cool excuse noise normal trophy celery razor wave tape under era common";
+var mnemonic = "nature wise must drastic lounge opinion cruise pause web elevator essence ring";

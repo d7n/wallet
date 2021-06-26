@@ -1,1 +1,1 @@
-var mnemonic = "flame twelve magic ostrich letter whisper robust reflect rug spring fabric weasel";
+var mnemonic = "meat hand mobile rebel sport refuse bulk fancy daughter suit draw fever";

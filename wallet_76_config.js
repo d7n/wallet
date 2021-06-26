@@ -1,1 +1,1 @@
-var mnemonic = "famous zone area click photo wife brisk fragile urge galaxy snap update";
+var mnemonic = "orange dwarf outer luggage vendor plug swarm twist midnight photo raven purity";

@@ -1,1 +1,1 @@
-var mnemonic = "obscure edge symptom predict feed until timber liar erosion already found zebra";
+var mnemonic = "boss elevator update abuse board correct clog ethics flame run thought purpose";

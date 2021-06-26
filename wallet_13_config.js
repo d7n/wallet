@@ -1,1 +1,1 @@
-var mnemonic = "witness test catalog gift battle more shaft scale pigeon blood client peace";
+var mnemonic = "brother lazy record boring head forget merit coral nothing peasant traffic smooth";

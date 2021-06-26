@@ -1,1 +1,1 @@
-var mnemonic = "gym badge code film above abandon spread safe cool bar aspect plate";
+var mnemonic = "space urban grace hint lottery exotic maple short exile found office blast";

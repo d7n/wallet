@@ -1,1 +1,1 @@
-var mnemonic = "shine magnet just ecology sign orient vacuum short reopen donate economy hello";
+var mnemonic = "verb south book width adjust crystal father business desert lazy parade tenant";

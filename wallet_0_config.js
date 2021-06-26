@@ -1,1 +1,1 @@
-var mnemonic = "promote still museum lyrics try patrol pizza glad learn example brief supreme";
+var mnemonic = "dinosaur today receive diet doll mandate decade goddess method horn enact sport";
