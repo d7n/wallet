@@ -1,1 +1,1 @@
-var mnemonic = "carry attract estate goat luxury symptom simple wide school theory decline exercise";
+var mnemonic = "vague sample path clerk assume brother desert shine around danger sausage paper";

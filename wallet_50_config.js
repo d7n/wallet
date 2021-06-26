@@ -1,1 +1,1 @@
-var mnemonic = "limb elevator letter helmet latin gravity lunar swift broccoli drum dial shadow";
+var mnemonic = "runway mule enjoy angry goat sadness boy client deputy fence primary eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "else say solution emerge stock join lobster civil school once wood benefit";
+var mnemonic = "muffin pipe spell enter filter liar catalog aunt opera two solution cheap";

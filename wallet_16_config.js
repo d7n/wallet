@@ -1,1 +1,1 @@
-var mnemonic = "loud live property elephant walk sign market nature sock drive isolate party";
+var mnemonic = "magic sea idea other middle hidden neither long owner crisp alcohol trigger";

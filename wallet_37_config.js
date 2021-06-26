@@ -1,1 +1,1 @@
-var mnemonic = "thought jungle trust total same cross mechanic forward banana clinic piano divert";
+var mnemonic = "chief can together over vibrant mule found reduce dentist chuckle milk episode";

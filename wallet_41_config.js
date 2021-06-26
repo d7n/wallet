@@ -1,1 +1,1 @@
-var mnemonic = "barely fiction empty miracle unknown series soul boost faint glide elephant wear";
+var mnemonic = "crush wheel pigeon mirror earth beauty polar kangaroo about social clap jar";

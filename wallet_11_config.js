@@ -1,1 +1,1 @@
-var mnemonic = "piano endorse decrease spider index fly point inmate fine ripple grant prize";
+var mnemonic = "warm strategy please come fire label radar rail shield donkey peasant rude";

@@ -1,1 +1,1 @@
-var mnemonic = "oblige mushroom flavor cloth parrot magic endorse weapon actor digital peasant thrive";
+var mnemonic = "math unlock original color vendor ketchup ginger wall attack bounce dish owner";

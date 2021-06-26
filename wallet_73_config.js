@@ -1,1 +1,1 @@
-var mnemonic = "cup seed draw melody clap chunk stone quiz become rocket tonight swift";
+var mnemonic = "glad hungry letter shrimp denial innocent sting list easy offer include secret";

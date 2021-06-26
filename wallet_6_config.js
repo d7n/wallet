@@ -1,1 +1,1 @@
-var mnemonic = "define mosquito awesome grant lava prison rain old utility predict thought goat";
+var mnemonic = "tide defy adult scale case assume camera float find cigar festival stadium";

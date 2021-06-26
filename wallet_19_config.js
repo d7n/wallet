@@ -1,1 +1,1 @@
-var mnemonic = "jelly various voice buffalo tube cross flame random over awkward anxiety response";
+var mnemonic = "enlist asset space seek brain wrong wrestle pupil busy voice visit mail";

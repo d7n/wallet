@@ -1,1 +1,1 @@
-var mnemonic = "fever lazy victory enter coin switch paper desk bundle mad smile flush";
+var mnemonic = "achieve device pride donate very submit stick surface about endless vault magic";

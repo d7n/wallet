@@ -1,1 +1,1 @@
-var mnemonic = "myth inflict kiss detail embark buddy cannon mixture cute medal hole critic";
+var mnemonic = "suspect hazard visit glad depth mango shrimp duty topic laptop poem sense";

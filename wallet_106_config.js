@@ -1,1 +1,1 @@
-var mnemonic = "all face awkward slam lawn street jazz clay laptop pull catch citizen";
+var mnemonic = "magic sentence casino knee merge original endorse blush metal bid already mixture";

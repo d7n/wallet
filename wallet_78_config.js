@@ -1,1 +1,1 @@
-var mnemonic = "area staff nose ranch flag math cram fruit mass giggle truly ecology";
+var mnemonic = "similar supreme doctor typical gown acoustic sibling twin length ugly laptop woman";

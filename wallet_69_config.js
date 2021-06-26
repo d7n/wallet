@@ -1,1 +1,1 @@
-var mnemonic = "solution primary slot decorate say spread leisure scale behind blood grass easy";
+var mnemonic = "vapor sweet flag music alone plate inner unfold scrub quarter worth baby";

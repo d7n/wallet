@@ -1,1 +1,1 @@
-var mnemonic = "voyage toilet wink focus process cattle few truly fall target giraffe flip";
+var mnemonic = "paper mansion state thought sugar wheel bronze bomb uniform assault junk repair";

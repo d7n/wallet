@@ -1,1 +1,1 @@
-var mnemonic = "axis diesel abstract cluster rival arrest nation dinner city shy orient middle";
+var mnemonic = "title viable multiply lens bamboo similar impose dwarf vivid include identify imitate";

@@ -1,1 +1,1 @@
-var mnemonic = "wedding bunker point chuckle chef rhythm joke ill cherry rifle can illegal";
+var mnemonic = "now output cake vault ripple target check quick fault daring just arrest";

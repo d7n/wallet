@@ -1,1 +1,1 @@
-var mnemonic = "again lyrics practice embark average verb echo spot pepper hotel vendor giraffe";
+var mnemonic = "soft jewel sting fluid yard skill extend nephew glide lumber virtual spin";

@@ -1,1 +1,1 @@
-var mnemonic = "cost general give notice sample still convince system dragon picnic dash hour";
+var mnemonic = "excuse sugar orphan describe dirt shrimp video kingdom dutch ride unlock repair";

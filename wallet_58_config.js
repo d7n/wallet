@@ -1,1 +1,1 @@
-var mnemonic = "antenna vicious buyer rebel gym leisure coyote ribbon school impact virtual shuffle";
+var mnemonic = "lake alcohol bulk sting transfer stable payment fluid hockey media raise list";

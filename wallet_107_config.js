@@ -1,1 +1,1 @@
-var mnemonic = "perfect layer noble idea mind ecology entry insect general math monitor marriage";
+var mnemonic = "glide hint renew view law candy twin fossil grow blossom stone oppose";

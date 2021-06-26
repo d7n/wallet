@@ -1,1 +1,1 @@
-var mnemonic = "eye earth sample feed turtle puzzle climb hover oven custom nurse prosper";
+var mnemonic = "egg album obtain deposit turtle engine caution strong poverty health judge build";

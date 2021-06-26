@@ -1,1 +1,1 @@
-var mnemonic = "february lift zebra change afford lawsuit walnut foil strike inhale say ketchup";
+var mnemonic = "gallery error today congress hello master plug easy energy dolphin despair top";

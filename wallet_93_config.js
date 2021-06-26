@@ -1,1 +1,1 @@
-var mnemonic = "author title next mass story festival zoo field entry top point portion";
+var mnemonic = "borrow rotate tilt dish over tooth machine flock lady lift have urban";

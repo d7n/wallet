@@ -1,1 +1,1 @@
-var mnemonic = "decrease hollow audit true ask priority imitate margin culture property today box";
+var mnemonic = "harvest leave arena learn pull diary immense coyote police walnut circle taxi";

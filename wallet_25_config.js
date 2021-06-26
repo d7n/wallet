@@ -1,1 +1,1 @@
-var mnemonic = "symptom success essay meadow hold lounge street top bounce cereal educate firm";
+var mnemonic = "rebel vault cruel federal lake lazy remind venture extra force spend similar";

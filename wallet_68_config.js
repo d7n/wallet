@@ -1,1 +1,1 @@
-var mnemonic = "swallow motion solar danger miss ordinary device essence reject aspect quarter lava";
+var mnemonic = "output wild smile coyote canvas advice purchase sun popular window royal tide";

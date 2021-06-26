@@ -1,1 +1,1 @@
-var mnemonic = "laptop inmate chief situate bike buzz obey width play useful tomato today";
+var mnemonic = "phone fruit brick cloud forum term twin upon need service jungle input";

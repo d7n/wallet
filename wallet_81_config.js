@@ -1,1 +1,1 @@
-var mnemonic = "front wedding slab marble alley cause best fish pyramid always west ugly";
+var mnemonic = "bunker list joke salad juice work economy shrimp poem denial other crack";

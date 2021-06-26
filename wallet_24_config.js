@@ -1,1 +1,1 @@
-var mnemonic = "teach spend treat goddess cotton ship oven thank labor teach wave index";
+var mnemonic = "uncover retreat infant warfare buddy timber month kingdom allow paper unusual recycle";

@@ -1,1 +1,1 @@
-var mnemonic = "average stereo day wreck version remind humor burger maze hungry stairs argue";
+var mnemonic = "truck confirm october vague innocent volume candy strategy mask snack hat lake";

@@ -1,1 +1,1 @@
-var mnemonic = "record income honey great route car flash thought liar dance company summer";
+var mnemonic = "master divert tell quality pair cart gap glass deliver latin soon increase";

@@ -1,1 +1,1 @@
-var mnemonic = "chunk crack praise dress gas tragic flee poverty smooth puzzle swamp slam";
+var mnemonic = "black must depart summer iron luxury innocent away swift smooth add share";

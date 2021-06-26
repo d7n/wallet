@@ -1,1 +1,1 @@
-var mnemonic = "impact tired aerobic brand silver grief aim wasp pudding crucial innocent public";
+var mnemonic = "entire lock upset title dentist slogan tuition okay tenant gym narrow aware";

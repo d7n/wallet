@@ -1,1 +1,1 @@
-var mnemonic = "melt defense ivory lady hold say goose tuna sting license door beauty";
+var mnemonic = "visa salon warfare dice dismiss junior industry buyer dismiss chronic relax tool";

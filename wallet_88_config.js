@@ -1,1 +1,1 @@
-var mnemonic = "mother diary join special pen anxiety dune adjust key angle nerve response";
+var mnemonic = "december visit artefact draw use trophy skill scan casual dash smoke penalty";

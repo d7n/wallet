@@ -1,1 +1,1 @@
-var mnemonic = "convince fun orchard lazy mammal mask pool cross guide host move crouch";
+var mnemonic = "left journey caught produce wood knock gas laundry cigar swim average charge";

@@ -1,1 +1,1 @@
-var mnemonic = "banner slender snack gun spawn wrestle topple kind bone view protect analyst";
+var mnemonic = "solve segment student solar detail salt cross skate quality plug salt chaos";

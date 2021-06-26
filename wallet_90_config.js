@@ -1,1 +1,1 @@
-var mnemonic = "opinion ship quick mix tonight whisper mobile stool sort drill pair stairs";
+var mnemonic = "like zoo baby coin film food cry repair equal mango good hood";

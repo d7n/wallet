@@ -1,1 +1,1 @@
-var mnemonic = "rule steel drip above panel afraid draft jacket worry review opinion ice";
+var mnemonic = "brick trumpet system urge giggle cupboard fan salt wrap across feel tank";

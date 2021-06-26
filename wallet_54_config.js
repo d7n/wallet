@@ -1,1 +1,1 @@
-var mnemonic = "embark photo wrong such health rally code top clean negative volume call";
+var mnemonic = "screen shell begin pipe someone napkin dwarf eye assume mutual crawl unhappy";

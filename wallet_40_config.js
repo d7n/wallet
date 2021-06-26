@@ -1,1 +1,1 @@
-var mnemonic = "behind whisper version slight unit mechanic eager actress catch blush pitch faint";
+var mnemonic = "fire hen february wisdom cannon also edit dune bright crumble wagon able";

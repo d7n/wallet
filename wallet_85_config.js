@@ -1,1 +1,1 @@
-var mnemonic = "cherry dizzy turtle earn brush develop gallery bracket pair inform task boil";
+var mnemonic = "fantasy that spatial head depth veteran soul bicycle pull fine alter shop";

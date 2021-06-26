@@ -1,1 +1,1 @@
-var mnemonic = "curious repeat plastic plug agent wrestle dream glow seed clean theory canyon";
+var mnemonic = "awful lesson gadget lumber walk rent digital float fringe humble impact frog";

@@ -1,1 +1,1 @@
-var mnemonic = "help flip riot glide lizard method hotel elegant crew grain humble early";
+var mnemonic = "ketchup join latin bone trick rice film attack scene venture drama hospital";

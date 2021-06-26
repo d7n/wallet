@@ -1,1 +1,1 @@
-var mnemonic = "surge legal slice garbage mosquito trip leave mistake soldier glad tongue sheriff";
+var mnemonic = "veteran butter flip sadness occur learn forum trust convince canyon fade spoil";

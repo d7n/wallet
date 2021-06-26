@@ -1,1 +1,1 @@
-var mnemonic = "share network sudden mother chef flavor three hybrid kiss novel pupil boil";
+var mnemonic = "hint lobster panel laptop next gun cattle add wrestle cream party glad";

@@ -1,1 +1,1 @@
-var mnemonic = "one hotel hazard glance film lab common kangaroo account honey earth breeze";
+var mnemonic = "sauce solve ring jungle label that crowd picture left cat defy dawn";

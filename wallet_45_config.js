@@ -1,1 +1,1 @@
-var mnemonic = "mystery arrest elite piece feed outer inherit hunt zone force immune rigid";
+var mnemonic = "useful blossom run bitter frozen loop prosper stairs lottery above axis short";

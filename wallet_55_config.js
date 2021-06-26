@@ -1,1 +1,1 @@
-var mnemonic = "rich picture slice grape uphold when label orbit thrive twenty blanket increase";
+var mnemonic = "matrix pottery speed exhibit music stool creek bulb define measure youth urban";

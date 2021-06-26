@@ -1,1 +1,1 @@
-var mnemonic = "rate gesture canyon ozone conduct visual forward involve love stage law century";
+var mnemonic = "film pupil bronze mail ring problem retreat electric exist hour orange lunar";

@@ -1,1 +1,1 @@
-var mnemonic = "pear tilt cupboard shield collect lock coffee toast artefact offer output lunar";
+var mnemonic = "input bunker stumble father only country sport wise swift donor board urge";

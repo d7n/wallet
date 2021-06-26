@@ -1,1 +1,1 @@
-var mnemonic = "web advice oxygen flat horn tomato quality cream proof winter love cousin";
+var mnemonic = "come combine jeans print situate sick machine token idle little fetch glance";

@@ -1,1 +1,1 @@
-var mnemonic = "giant eternal fall mobile way wait board urge battle dragon good age";
+var mnemonic = "napkin wool obscure review stereo fish program culture domain provide sheriff differ";

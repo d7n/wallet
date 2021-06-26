@@ -1,1 +1,1 @@
-var mnemonic = "before morning innocent taste tank scatter explain extend demand kingdom fun omit";
+var mnemonic = "sound trick feed clever away critic utility network trip myself rail ten";

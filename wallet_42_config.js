@@ -1,1 +1,1 @@
-var mnemonic = "reject cloth crouch iron acid knock liberty cannon hobby crash effort whip";
+var mnemonic = "wide alcohol rally valley century bulk device planet board gap horse design";

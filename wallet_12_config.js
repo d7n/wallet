@@ -1,1 +1,1 @@
-var mnemonic = "betray crime curtain evolve obvious join walnut congress enough evidence view convince";
+var mnemonic = "concert notice sort under lava noise mom coast loud click case kingdom";

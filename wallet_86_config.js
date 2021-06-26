@@ -1,1 +1,1 @@
-var mnemonic = "average improve verb snack wrong guard monitor update real rival endorse lift";
+var mnemonic = "dizzy until camp shuffle segment orphan gown ring lawsuit jelly educate bacon";

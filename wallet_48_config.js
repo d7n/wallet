@@ -1,1 +1,1 @@
-var mnemonic = "water air begin fitness renew bounce solve garden govern tiny tornado vacuum";
+var mnemonic = "normal leader fit grunt rent menu pair erosion float basket ketchup fluid";

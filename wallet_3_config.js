@@ -1,1 +1,1 @@
-var mnemonic = "gasp sting any element aisle dolphin busy pact ignore upgrade trend explain";
+var mnemonic = "joke boil puppy urge couple tomato jazz tortoise arrow garage dignity guide";

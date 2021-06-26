@@ -1,1 +1,1 @@
-var mnemonic = "similar champion crumble phone wage master garden spend pepper tray visual denial";
+var mnemonic = "crouch echo decline link verify mirror guitar knife match diet truly claw";

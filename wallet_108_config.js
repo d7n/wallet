@@ -1,1 +1,1 @@
-var mnemonic = "strong load lucky matrix dismiss replace stone violin employ sorry already since";
+var mnemonic = "skate champion supply cancel fish belt century olympic swim trouble ordinary cross";

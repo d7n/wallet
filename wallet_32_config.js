@@ -1,1 +1,1 @@
-var mnemonic = "rain twist ecology food claw toward apple village nuclear visual stable gorilla";
+var mnemonic = "before spend save hover powder runway member aerobic giant cotton leave flag";

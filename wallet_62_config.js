@@ -1,1 +1,1 @@
-var mnemonic = "divide swallow blast toilet traffic mesh remain slow essay weasel clip swift";
+var mnemonic = "surge alert machine doctor consider speed kitchen ginger minor omit crop model";

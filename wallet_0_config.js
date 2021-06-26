@@ -1,1 +1,1 @@
-var mnemonic = "select winner art dismiss elegant found camp bounce inspire train cherry include";
+var mnemonic = "urge rural business tourist sentence split case supply crop always critic clap";

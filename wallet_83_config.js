@@ -1,1 +1,1 @@
-var mnemonic = "shock canyon announce dizzy reunion erode harbor soul flat goat firm ladder";
+var mnemonic = "useful frame lawn park voice horror beach emotion tomato slight unique recipe";

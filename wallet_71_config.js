@@ -1,1 +1,1 @@
-var mnemonic = "large future crowd real potato capable carpet swift setup awful upper violin";
+var mnemonic = "alone sand elbow reduce velvet city lunch mechanic banana tool purse strong";

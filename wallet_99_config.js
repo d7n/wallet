@@ -1,1 +1,1 @@
-var mnemonic = "impact coil unable future vessel earth frown skate chronic damage insect width";
+var mnemonic = "pizza wear trouble initial news circle brown clip midnight give please crash";

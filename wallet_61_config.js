@@ -1,1 +1,1 @@
-var mnemonic = "meat average shield true business model mobile pepper reward awkward flip depart";
+var mnemonic = "electric hip glove illness soap dentist buyer quarter tag bottom bulb slush";

@@ -1,1 +1,1 @@
-var mnemonic = "spring sword nest next opinion option park flush journey divide divorce only";
+var mnemonic = "sketch absent where mercy duck female afford member volume net fork nurse";

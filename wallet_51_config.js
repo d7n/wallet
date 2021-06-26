@@ -1,1 +1,1 @@
-var mnemonic = "credit there wink tape denial desert autumn ladder list walk put shuffle";
+var mnemonic = "second taste figure stool flag bring lyrics fatigue garbage worry work gasp";

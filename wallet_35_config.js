@@ -1,1 +1,1 @@
-var mnemonic = "medal ocean sugar margin adult cargo wife dinosaur author betray smoke path";
+var mnemonic = "loud legend pole poverty civil until soft muffin above ignore inflict describe";

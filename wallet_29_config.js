@@ -1,1 +1,1 @@
-var mnemonic = "slight accident collect awkward great burden cliff model green include staff kit";
+var mnemonic = "that couch crowd spy year during key sorry slogan south lawn teach";

@@ -1,1 +1,1 @@
-var mnemonic = "apart must mimic buzz answer town rubber assist shuffle twist copy goat";
+var mnemonic = "chat hello maid play what target harbor permit feel reopen income horse";

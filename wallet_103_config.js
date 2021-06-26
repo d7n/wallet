@@ -1,1 +1,1 @@
-var mnemonic = "cradle trophy bird slogan remain uncover useful inherit jealous pen cram case";
+var mnemonic = "velvet soul filter connect drip online toilet pupil infant modify tone plunge";

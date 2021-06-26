@@ -1,1 +1,1 @@
-var mnemonic = "entry pyramid chalk volcano rhythm hurt join earn immense panel delay immune";
+var mnemonic = "since piano click mammal scan man quality area nature music sound crunch";

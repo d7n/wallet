@@ -1,1 +1,1 @@
-var mnemonic = "syrup fury another party charge hole clock tongue length melody hidden address";
+var mnemonic = "reform title behind soda spin side avocado spy flip pole express since";

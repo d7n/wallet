@@ -1,1 +1,1 @@
-var mnemonic = "fix twelve stuff fade couch approve radio moon genre city gather pig";
+var mnemonic = "warrior among fix engine more liberty announce digital favorite chest dust plate";

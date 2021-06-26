@@ -1,1 +1,1 @@
-var mnemonic = "limit antenna nest category sudden scorpion cabbage net bridge evolve segment bid";
+var mnemonic = "elite tide problem absorb require mad ski genuine foot arrow collect vanish";

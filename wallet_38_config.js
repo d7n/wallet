@@ -1,1 +1,1 @@
-var mnemonic = "calm giggle drive flush like round south catch kick symbol will they";
+var mnemonic = "view word carpet poem jelly boost easily unveil visa receive ribbon pottery";

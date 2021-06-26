@@ -1,1 +1,1 @@
-var mnemonic = "leave chimney remind word limb stereo increase neither into trash trust clutch";
+var mnemonic = "beef label sock always winter merry explain pear wreck engage coast method";

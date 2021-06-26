@@ -1,1 +1,1 @@
-var mnemonic = "strategy shoot fever give home spirit theme loyal option youth roof sleep";
+var mnemonic = "winner insane detect arm drift sure unlock hungry stem merge ahead swing";

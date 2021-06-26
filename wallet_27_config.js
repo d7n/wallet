@@ -1,1 +1,1 @@
-var mnemonic = "identify plastic profit tuition reduce stone slide upgrade toe cable abuse siren";
+var mnemonic = "hero marine mutual awful vapor virus load menu way moon loan elevator";

@@ -1,1 +1,1 @@
-var mnemonic = "ski reveal aisle blind cradle moon message small simple vault canal village";
+var mnemonic = "unique square injury blue tobacco system topple output enjoy truth ride worry";

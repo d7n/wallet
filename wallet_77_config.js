@@ -1,1 +1,1 @@
-var mnemonic = "long home fine regret wait wonder sunset cupboard economy pony text circle";
+var mnemonic = "deputy sail indicate bag antique wheel parent skill skate royal leisure shy";

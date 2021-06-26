@@ -1,1 +1,1 @@
-var mnemonic = "notable wonder old drastic clinic seek spin apple evil sword car crouch";
+var mnemonic = "dynamic voice dust betray try gown save bronze isolate border super strike";

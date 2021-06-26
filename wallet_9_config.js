@@ -1,1 +1,1 @@
-var mnemonic = "gun kidney safe boil nose track drive slush produce club cool retire";
+var mnemonic = "document buffalo grief divert camp another impact among genuine avoid deliver collect";

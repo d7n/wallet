@@ -1,1 +1,1 @@
-var mnemonic = "add venue relief attack bargain liar swear dose rude pistol filter grace";
+var mnemonic = "code news impulse cake core cross key hospital edge people grace phone";

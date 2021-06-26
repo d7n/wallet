@@ -1,1 +1,1 @@
-var mnemonic = "mimic bind course pulse ugly genius knee security claim recall fruit hair";
+var mnemonic = "sunset satoshi fire stay net speed lion setup glad antenna enforce index";
