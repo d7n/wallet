@@ -1,1 +1,1 @@
-var mnemonic = "punch topic around inside bind winner doll nice action fever traffic phone";
+var mnemonic = "about between cover rival print impulse shallow focus venue control defense news";

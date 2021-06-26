@@ -1,1 +1,1 @@
-var mnemonic = "crop police isolate suspect wire aunt rail hurry normal camera flash drink";
+var mnemonic = "insect nephew fatigue usage woman situate script old deny special matrix salad";

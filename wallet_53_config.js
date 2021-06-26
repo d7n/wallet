@@ -1,1 +1,1 @@
-var mnemonic = "hello element phrase unique length recall toddler bronze mouse luxury myth swamp";
+var mnemonic = "stairs fabric ceiling cereal approve media angry convince visa glow chat true";

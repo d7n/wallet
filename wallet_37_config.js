@@ -1,1 +1,1 @@
-var mnemonic = "autumn essay make bitter visa drop person ski valve above fold flight";
+var mnemonic = "together pudding trip claw board purse saddle you divide garment prison jaguar";

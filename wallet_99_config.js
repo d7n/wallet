@@ -1,1 +1,1 @@
-var mnemonic = "trip wall opera soon present jazz miracle cheese real firm trick stick";
+var mnemonic = "catalog audit bench sun city envelope claim deal cycle narrow prison situate";

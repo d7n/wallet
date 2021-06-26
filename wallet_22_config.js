@@ -1,1 +1,1 @@
-var mnemonic = "supreme deer slender soccer vivid vehicle arrive right risk possible bicycle dance";
+var mnemonic = "lyrics aim you fish dinosaur range poverty sustain finger anxiety among dove";

@@ -1,1 +1,1 @@
-var mnemonic = "confirm vacant obvious awful predict design virtual library lottery obvious cushion scout";
+var mnemonic = "supreme turn club deliver cargo slice boring tourist claw sad acquire member";

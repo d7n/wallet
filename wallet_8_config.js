@@ -1,1 +1,1 @@
-var mnemonic = "sudden general tourist casual parent grit glance naive strong frozen dragon waste";
+var mnemonic = "what affair merry must build bind duck verify round hold photo tired";

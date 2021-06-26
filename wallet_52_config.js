@@ -1,1 +1,1 @@
-var mnemonic = "pony tower census evolve damage symbol cost oxygen ostrich material scrap sibling";
+var mnemonic = "middle picnic hover walk spring uniform zebra income cabin undo orchard voyage";

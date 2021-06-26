@@ -1,1 +1,1 @@
-var mnemonic = "innocent humble design what blast giraffe sport ketchup reject blanket celery jump";
+var mnemonic = "smooth vanish noise crowd ski people note mushroom soap divide yellow treat";

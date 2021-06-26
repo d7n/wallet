@@ -1,1 +1,1 @@
-var mnemonic = "clinic dream chronic witness shock industry fade chunk resource stand page fish";
+var mnemonic = "together isolate emerge nephew blush wear apology input brain utility inherit age";

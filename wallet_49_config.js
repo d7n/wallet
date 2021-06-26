@@ -1,1 +1,1 @@
-var mnemonic = "pencil pact morning expand human thrive priority harvest basket use similar search";
+var mnemonic = "old sign witness below club gown priority never hamster worth aware patient";

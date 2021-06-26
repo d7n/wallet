@@ -1,1 +1,1 @@
-var mnemonic = "clever near crater seed replace wasp sight purchase say west concert puppy";
+var mnemonic = "resemble current enrich topic double stay quick direct come maple horse network";

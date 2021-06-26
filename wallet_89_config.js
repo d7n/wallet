@@ -1,1 +1,1 @@
-var mnemonic = "picnic source apart umbrella violin sniff make public lottery shell absorb praise";
+var mnemonic = "route vivid oxygen west humble enforce ask strike oppose have alone gold";

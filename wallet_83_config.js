@@ -1,1 +1,1 @@
-var mnemonic = "butter response lumber faith valve liar either angle tail harbor merry border";
+var mnemonic = "taxi man patrol design feature horse else gather struggle swear swing harsh";

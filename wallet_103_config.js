@@ -1,1 +1,1 @@
-var mnemonic = "target trap cause exclude confirm damage settle leg couple satisfy picture night";
+var mnemonic = "slam correct deal leopard wear round ugly acoustic melt scissors glass clip";

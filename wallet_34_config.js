@@ -1,1 +1,1 @@
-var mnemonic = "shell angry behind clean renew nose tobacco shrimp spoon vault clinic flag";
+var mnemonic = "journey tourist wasp tribe uphold wear bonus glimpse undo april armor climb";

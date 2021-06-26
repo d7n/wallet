@@ -1,1 +1,1 @@
-var mnemonic = "adapt exit lottery pluck method rookie nothing gauge reason bring cart inquiry";
+var mnemonic = "ship mirror mesh direct extra hospital attend square type vapor crime onion";

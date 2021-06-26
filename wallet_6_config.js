@@ -1,1 +1,1 @@
-var mnemonic = "salad rotate goose enroll year fatal sick pet gasp occur focus athlete";
+var mnemonic = "tank dog egg zoo punch cattle napkin broccoli knife outdoor pistol acoustic";

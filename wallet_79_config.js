@@ -1,1 +1,1 @@
-var mnemonic = "tag leave oven heavy bench case unlock have drink property board behave";
+var mnemonic = "upon december spy note fold upon fade drop ribbon evoke fold more";

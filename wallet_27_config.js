@@ -1,1 +1,1 @@
-var mnemonic = "toward prison behave ensure hero father guilt family judge fatigue sponsor ill";
+var mnemonic = "vanish bind shrug crew pledge tomorrow warm flower news deer scrub shoe";

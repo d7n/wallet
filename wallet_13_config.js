@@ -1,1 +1,1 @@
-var mnemonic = "comfort venture appear carry brother sun kingdom hope tribe diagram walk tenant";
+var mnemonic = "area emerge napkin tag cube tuition property swamp reform sword biology risk";

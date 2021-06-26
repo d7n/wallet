@@ -1,1 +1,1 @@
-var mnemonic = "permit click moral obtain orient slush banana melt more tree grain unaware";
+var mnemonic = "sight wine online inch ask include hidden rifle visit drift before champion";

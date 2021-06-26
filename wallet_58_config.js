@@ -1,1 +1,1 @@
-var mnemonic = "cradle same round click process august bridge all sell royal alarm sand";
+var mnemonic = "liberty adapt hello stomach unit memory notable knee breeze slender boost census";

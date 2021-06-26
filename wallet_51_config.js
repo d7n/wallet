@@ -1,1 +1,1 @@
-var mnemonic = "body remind social local useful ceiling denial check pencil business remind zero";
+var mnemonic = "bunker label spoil tortoise deny water resist middle anger opinion oblige magic";

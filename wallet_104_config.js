@@ -1,1 +1,1 @@
-var mnemonic = "vessel series vague butter erosion toast denial carpet attend stable february come";
+var mnemonic = "quiz upper morning express select stable close artefact snake stage argue region";

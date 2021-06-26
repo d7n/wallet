@@ -1,1 +1,1 @@
-var mnemonic = "bulk maple reduce master truly wealth amazing cancel wild mean hair ecology";
+var mnemonic = "fade basic reveal width gift tooth horn culture rescue pool open equal";

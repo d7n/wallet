@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog leaf drum monkey input toward subject erase affair success olympic route";
+var mnemonic = "scene demand vote drop foam regular bacon simple trip skill curtain injury";

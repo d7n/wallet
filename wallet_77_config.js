@@ -1,1 +1,1 @@
-var mnemonic = "humble usage surface point eyebrow fee bottom feed coral capable seed stand";
+var mnemonic = "hero gloom miss option airport found web fatal street neck coil false";

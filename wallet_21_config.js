@@ -1,1 +1,1 @@
-var mnemonic = "glue deer ask debate around odor decide auto exclude theme into few";
+var mnemonic = "parade collect romance riot cotton excess first analyst family reward damage void";

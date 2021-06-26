@@ -1,1 +1,1 @@
-var mnemonic = "exchange scare arrive bunker vacant squeeze utility surround sing bamboo toe mixture";
+var mnemonic = "pencil injury stove file panda distance soup luggage dose candy gossip live";

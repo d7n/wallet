@@ -1,1 +1,1 @@
-var mnemonic = "exercise jewel offer spare harvest crawl radar error sand soccer often flag";
+var mnemonic = "lock detail sun earth banner mass faint garment diary great tourist goddess";

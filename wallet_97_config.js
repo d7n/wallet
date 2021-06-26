@@ -1,1 +1,1 @@
-var mnemonic = "nothing poverty great have force noodle decide dinosaur wage parent blossom goat";
+var mnemonic = "brown sweet capable female people prefer lake stomach acquire blade airport main";

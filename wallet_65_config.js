@@ -1,1 +1,1 @@
-var mnemonic = "public welcome weird acoustic gaze sweet lumber run dune admit sphere echo";
+var mnemonic = "december doll quit session flip half palm pride baby brush oyster wage";

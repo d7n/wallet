@@ -1,1 +1,1 @@
-var mnemonic = "ordinary novel lunar grow finish gain sound wedding zone piece front abandon";
+var mnemonic = "grow stable amount kit matter lucky mandate still romance tuna abuse witness";

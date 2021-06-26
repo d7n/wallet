@@ -1,1 +1,1 @@
-var mnemonic = "betray sport shoe whale city such push alert erupt network sample humble";
+var mnemonic = "common lottery asset access wet fantasy social swing peasant magnet armed immense";

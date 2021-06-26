@@ -1,1 +1,1 @@
-var mnemonic = "clap wasp sad dust cake cigar clever involve shell entry husband legend";
+var mnemonic = "scrap idle blanket music bag paddle muffin vacant blood stereo clog audit";

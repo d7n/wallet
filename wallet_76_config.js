@@ -1,1 +1,1 @@
-var mnemonic = "pride snow recall proof trim disease much scan dove gain adjust entry";
+var mnemonic = "valley burst super toilet museum siren despair impose crouch cradle normal lady";

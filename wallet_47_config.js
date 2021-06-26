@@ -1,1 +1,1 @@
-var mnemonic = "please spy hole noble depth under alcohol tongue donkey fresh universe pistol";
+var mnemonic = "rebel rebuild denial elite glass shift invest vacuum damage sea bird ancient";

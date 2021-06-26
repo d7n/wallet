@@ -1,1 +1,1 @@
-var mnemonic = "involve prison salt this exact total noise parade soap twist wash valve";
+var mnemonic = "review ginger festival fatigue antenna captain trumpet topple job regular image ball";

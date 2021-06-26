@@ -1,1 +1,1 @@
-var mnemonic = "sudden nice web limit rotate allow mistake extend venue better season snap";
+var mnemonic = "tiger proof sphere police april liquid miracle patch review solution shy aerobic";

@@ -1,1 +1,1 @@
-var mnemonic = "country ritual lottery elevator squirrel dignity habit fatigue oxygen round owner runway";
+var mnemonic = "gun cricket confirm stomach cry nuclear embark giant laundry dinner next dad";

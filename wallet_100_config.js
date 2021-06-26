@@ -1,1 +1,1 @@
-var mnemonic = "fuel work choice treat network slam pluck fringe road slab clever aware";
+var mnemonic = "lecture collect before cattle memory gift local solution erupt rich place plunge";

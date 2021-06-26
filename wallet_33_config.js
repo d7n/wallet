@@ -1,1 +1,1 @@
-var mnemonic = "sport stage region soup shadow inside frost exhaust dilemma olive ill check";
+var mnemonic = "total glad fold lunar train betray shaft group sphere pole belt flame";

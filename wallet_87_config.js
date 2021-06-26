@@ -1,1 +1,1 @@
-var mnemonic = "desert phrase funny put govern cotton sad guess include museum differ promote";
+var mnemonic = "push before prefer taste bike label diamond pole brick honey echo victory";

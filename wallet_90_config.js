@@ -1,1 +1,1 @@
-var mnemonic = "wait bottom seat seminar erode obscure all ozone half wink coffee dust";
+var mnemonic = "pact case legend thunder steak exchange goat moment south blush move collect";

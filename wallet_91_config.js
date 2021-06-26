@@ -1,1 +1,1 @@
-var mnemonic = "code flat cushion canoe broccoli actress phone bulk cheese history jacket garment";
+var mnemonic = "tail win aisle cake opinion ecology govern area mechanic good edge punch";

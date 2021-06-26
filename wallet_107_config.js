@@ -1,1 +1,1 @@
-var mnemonic = "sell fix dawn glance rescue fan screen zero pencil super shoe urge";
+var mnemonic = "artefact snake festival indoor taste satoshi ahead cargo fruit jaguar pig layer";

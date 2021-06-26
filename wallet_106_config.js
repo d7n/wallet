@@ -1,1 +1,1 @@
-var mnemonic = "follow romance must find muffin amount little excuse coconut impose huge inspire";
+var mnemonic = "zoo slide delay alarm impulse guitar jeans cigar erode birth fetch before";

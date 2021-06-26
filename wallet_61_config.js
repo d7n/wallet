@@ -1,1 +1,1 @@
-var mnemonic = "library place net save twin island friend shine firm renew rib exile";
+var mnemonic = "share parent render loud hollow element add service cinnamon morning fish cabin";

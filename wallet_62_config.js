@@ -1,1 +1,1 @@
-var mnemonic = "silly virus kingdom fashion blossom toss great company normal eagle arrest school";
+var mnemonic = "dentist silver coil shield web symbol pepper shiver wine proof arrive emotion";

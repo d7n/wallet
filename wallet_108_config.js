@@ -1,1 +1,1 @@
-var mnemonic = "purse brown tank congress kidney rubber neglect lawsuit silver cruel gadget oil";
+var mnemonic = "equal steel august region dinner enrich suspect critic october vague month picture";

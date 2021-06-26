@@ -1,1 +1,1 @@
-var mnemonic = "sustain kid final sausage pill task banner unlock alcohol remember scrub bus";
+var mnemonic = "creek lake elbow shed gun junior extra repeat physical other visual canoe";

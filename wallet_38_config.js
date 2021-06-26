@@ -1,1 +1,1 @@
-var mnemonic = "run mask circle athlete concert jelly direct vital pair sudden clog tell";
+var mnemonic = "holiday drift fury decorate blossom muscle impulse parade balance tragic exhibit minor";

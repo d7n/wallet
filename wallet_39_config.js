@@ -1,1 +1,1 @@
-var mnemonic = "web abstract item never symbol galaxy what aware kitchen wasp donate age";
+var mnemonic = "frown admit infant angle large cash online type walk giant salt zebra";

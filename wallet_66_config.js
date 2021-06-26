@@ -1,1 +1,1 @@
-var mnemonic = "involve board mirror host debate squeeze model arch power vital grid crime";
+var mnemonic = "distance soup coral place riot copy tilt hollow frost visit fragile prepare";

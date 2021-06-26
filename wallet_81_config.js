@@ -1,1 +1,1 @@
-var mnemonic = "good left consider warm crowd chaos remain search situate liquid oven cover";
+var mnemonic = "clay robot soap protect trim enough cave tooth aerobic throw entire wire";

@@ -1,1 +1,1 @@
-var mnemonic = "talent adult want maze isolate title balance flower organ screen sure crater";
+var mnemonic = "cruise tomato arm hungry turn ill flush behave verify flush fuel rail";

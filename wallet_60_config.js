@@ -1,1 +1,1 @@
-var mnemonic = "crowd city allow surge nature perfect that clever must resemble motor concert";
+var mnemonic = "example lobster series reopen viable strike deny merit method fame human ability";

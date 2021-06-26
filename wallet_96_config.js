@@ -1,1 +1,1 @@
-var mnemonic = "angle brush deposit artist topple ill goddess deal palm eagle correct army";
+var mnemonic = "beyond celery pluck myself credit immense glad hover social help throw wrong";

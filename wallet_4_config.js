@@ -1,1 +1,1 @@
-var mnemonic = "uniform little fault tackle staff nerve capable piano match eagle differ project";
+var mnemonic = "urge lunar priority diagram use caution ship pact position clutch zebra total";

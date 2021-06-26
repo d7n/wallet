@@ -1,1 +1,1 @@
-var mnemonic = "sibling sign silver infant theme disagree slush survey sustain prison affair verb";
+var mnemonic = "diagram rotate depart day ladder enter chalk obtain remain lend sugar apart";

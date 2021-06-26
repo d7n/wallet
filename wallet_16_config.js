@@ -1,1 +1,1 @@
-var mnemonic = "radio zoo frozen spirit final lady era auto snack busy copy uphold";
+var mnemonic = "taste hat word copper demise plunge best damage inner will improve kit";

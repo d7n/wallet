@@ -1,1 +1,1 @@
-var mnemonic = "midnight laundry silly ethics bullet prosper master acquire degree dwarf churn tiny";
+var mnemonic = "ship draw okay gospel search buffalo elbow clever peanut tray wealth come";

@@ -1,1 +1,1 @@
-var mnemonic = "witness state tenant gasp sheriff sick symptom turn buffalo time piece jelly";
+var mnemonic = "gold cage rebel behave typical toy century tip fortune brand latin mechanic";

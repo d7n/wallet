@@ -1,1 +1,1 @@
-var mnemonic = "click car effort daring light ugly often copper hockey catalog grape happy";
+var mnemonic = "horror swim ritual exhaust fox current illegal occur public ginger high talent";

@@ -1,1 +1,1 @@
-var mnemonic = "toss tired sorry thumb cargo box minor prevent subway margin agree rescue";
+var mnemonic = "fat flee voyage banana ketchup shuffle valve test mom find shed seek";

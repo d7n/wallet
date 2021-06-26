@@ -1,1 +1,1 @@
-var mnemonic = "pink issue figure bomb sunset guilt cherry program snap lizard verify island";
+var mnemonic = "unknown expose table enjoy sun soon mistake defense trap orchard range fiber";

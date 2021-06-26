@@ -1,1 +1,1 @@
-var mnemonic = "survey almost blouse program present brief banana amused pool turtle flip lady";
+var mnemonic = "finger swim process notice cube genuine goddess pride large attack double effort";

@@ -1,1 +1,1 @@
-var mnemonic = "jungle stumble now clever have impact apart upper retreat list leave light";
+var mnemonic = "hold vessel duty police boy frozen road almost faith bicycle melody truth";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar someone card comfort nerve tail car dwarf sausage range clip rain";
+var mnemonic = "quiz safe random whip promote upper promote rescue try pact tree bomb";

@@ -1,1 +1,1 @@
-var mnemonic = "sausage nuclear basic egg morning valve slam excess logic horn rapid reform";
+var mnemonic = "load banner crack normal agent oyster vocal convince husband mountain okay ill";

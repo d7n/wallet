@@ -1,1 +1,1 @@
-var mnemonic = "humble tube art label gentle cage real honey notable lumber board adult";
+var mnemonic = "silent pencil impact gasp eager meat horn hurdle cinnamon report super innocent";

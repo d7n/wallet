@@ -1,1 +1,1 @@
-var mnemonic = "color clutch stadium ice patrol when isolate route equal accident embrace license";
+var mnemonic = "sauce surge clarify slot motion notable tennis reflect sugar ignore zero abuse";

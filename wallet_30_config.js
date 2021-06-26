@@ -1,1 +1,1 @@
-var mnemonic = "reveal mouse margin boat tonight sunset gossip rose shed measure effort wrap";
+var mnemonic = "chicken tape vibrant worry manage attitude minor twelve typical extend document salt";

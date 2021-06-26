@@ -1,1 +1,1 @@
-var mnemonic = "beach spread slice sun burst hire speak disease trend fever void torch";
+var mnemonic = "foil swamp shove potato sauce roast debris hungry wreck decline then sleep";

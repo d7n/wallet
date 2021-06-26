@@ -1,1 +1,1 @@
-var mnemonic = "candy scissors collect object raven oven scene remain thumb nut fitness celery";
+var mnemonic = "nephew humor moon rib aim hawk jacket upset ahead option olympic trophy";

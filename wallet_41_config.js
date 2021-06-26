@@ -1,1 +1,1 @@
-var mnemonic = "envelope tiger milk pupil prize various blast regret appear apology security material";
+var mnemonic = "approve ocean syrup jeans tired ozone huge humble payment focus layer dignity";

@@ -1,1 +1,1 @@
-var mnemonic = "offer coast kiss veteran nose peace mesh duck soon salon eight super";
+var mnemonic = "minor breeze pitch tray cabbage green dose industry mom increase truck trouble";

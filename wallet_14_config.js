@@ -1,1 +1,1 @@
-var mnemonic = "ride mirror mammal argue paper grocery entire similar rural flush velvet mobile";
+var mnemonic = "gather smooth public estate valve escape supply side glad cake marine caution";

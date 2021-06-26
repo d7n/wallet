@@ -1,1 +1,1 @@
-var mnemonic = "dash brain inform upset bundle volcano giraffe service fault nuclear layer comfort";
+var mnemonic = "require dilemma giggle distance unique giggle fit hobby tragic repair only divert";

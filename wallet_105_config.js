@@ -1,1 +1,1 @@
-var mnemonic = "marine torch oxygen feel comfort snow lake fossil tuna bomb found fire";
+var mnemonic = "design trade nephew feed sail demise poet remember rough bacon material identify";

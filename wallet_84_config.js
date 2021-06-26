@@ -1,1 +1,1 @@
-var mnemonic = "cluster beach pill patient memory cook nose enough crash oblige cube focus";
+var mnemonic = "brand game success lamp crew legend abuse cabbage board stairs sock gold";

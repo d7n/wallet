@@ -1,1 +1,1 @@
-var mnemonic = "hurry short stomach motor bone movie elbow dinner notable flat process version";
+var mnemonic = "canal six video dinner check thumb toward book library truly toilet rookie";

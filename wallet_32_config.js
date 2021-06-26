@@ -1,1 +1,1 @@
-var mnemonic = "such wine question gaze evoke crucial worth cement about glide panic suit";
+var mnemonic = "web minor soda poem door forget payment tourist seminar toilet border alpha";

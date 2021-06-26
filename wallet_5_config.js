@@ -1,1 +1,1 @@
-var mnemonic = "grit south celery bundle wish knee fantasy lift crime remember session reopen";
+var mnemonic = "fish despair depth volcano order frame grow lunar object undo wisdom stuff";

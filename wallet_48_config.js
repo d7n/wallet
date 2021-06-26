@@ -1,1 +1,1 @@
-var mnemonic = "decade party fault maid point ancient marriage measure trust render circle want";
+var mnemonic = "foil town wrap stay word ketchup organ unfair topple turtle retire jump";

@@ -1,1 +1,1 @@
-var mnemonic = "stereo stairs snap middle elevator olive wise silver police hungry helmet donor";
+var mnemonic = "what settle copy impose fury this solution want column future exhibit lab";

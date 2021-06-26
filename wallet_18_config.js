@@ -1,1 +1,1 @@
-var mnemonic = "shadow girl lab clerk laugh ability learn monster tortoise dial anger fish";
+var mnemonic = "people mean three humor hard fever toe arrow trust oval broccoli federal";

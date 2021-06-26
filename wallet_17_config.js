@@ -1,1 +1,1 @@
-var mnemonic = "wasp trumpet regular isolate unfold snap disease jaguar ugly educate ride oven";
+var mnemonic = "yellow recipe peasant frequent point now saddle duty phrase gorilla couple light";

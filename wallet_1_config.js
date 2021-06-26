@@ -1,1 +1,1 @@
-var mnemonic = "husband quote between ice flower item island peasant embody thing stomach answer";
+var mnemonic = "stumble symptom great sing ostrich market column loop pelican vehicle original fantasy";

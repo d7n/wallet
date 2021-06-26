@@ -1,1 +1,1 @@
-var mnemonic = "distance ensure total novel neither party buzz blind letter into brief upgrade";
+var mnemonic = "divert hockey siren belt lunch rail start alcohol essence faith expect armed";

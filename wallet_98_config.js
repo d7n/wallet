@@ -1,1 +1,1 @@
-var mnemonic = "inject people trap ostrich kite simple palm garlic good split pulp ignore";
+var mnemonic = "orphan save zone oxygen rocket raise front cart scatter they regret problem";

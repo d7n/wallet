@@ -1,1 +1,1 @@
-var mnemonic = "science soap impact innocent tent undo essence bus rule window open smoke";
+var mnemonic = "pony submit genuine pumpkin marine pen shed disagree top label hurdle promote";

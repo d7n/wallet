@@ -1,1 +1,1 @@
-var mnemonic = "space better name faint belt normal history dose rabbit zebra squeeze leave";
+var mnemonic = "online during special pony claw notice say attack earn bargain chaos goose";
