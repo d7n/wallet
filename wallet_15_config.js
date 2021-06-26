@@ -1,1 +1,1 @@
-var mnemonic = "tag relax shove stomach decline busy cross purchase foot ring sword wait";
+var mnemonic = "remember faith enemy wink destroy orbit expand tomato mosquito food same cute";

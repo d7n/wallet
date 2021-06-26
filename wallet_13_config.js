@@ -1,1 +1,1 @@
-var mnemonic = "then shuffle happy hidden slim behave pair electric keen rescue extra fabric";
+var mnemonic = "blur citizen cup pattern spy glue beyond ribbon slush crash all choice";

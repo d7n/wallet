@@ -1,1 +1,1 @@
-var mnemonic = "follow eight culture race lawsuit antenna side program family kingdom marine cart";
+var mnemonic = "rocket rookie when move clog gain couple hill diagram live depart wrestle";

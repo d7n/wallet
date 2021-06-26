@@ -1,1 +1,1 @@
-var mnemonic = "final record meat census avoid pipe shed skull attend vendor screen nut";
+var mnemonic = "eager glory long merge day need know usual must prize across recall";

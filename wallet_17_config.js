@@ -1,1 +1,1 @@
-var mnemonic = "genuine bulb symbol shed talk elegant diet harvest away south mother seed";
+var mnemonic = "eagle gloom flee lecture predict exist neutral flight announce usage rain meat";

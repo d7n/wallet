@@ -1,1 +1,1 @@
-var mnemonic = "pupil slush chef awkward raccoon curve else review genuine secret message repeat";
+var mnemonic = "marine feed print clay yard wonder erosion leisure number funny dress load";

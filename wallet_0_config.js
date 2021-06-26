@@ -1,1 +1,1 @@
-var mnemonic = "dune truck split chunk abstract laptop victory memory gasp ceiling dish correct";
+var mnemonic = "bring smoke physical hour crisp sponsor biology mixture pink vacant brief boss";

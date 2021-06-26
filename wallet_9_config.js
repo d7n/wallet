@@ -1,1 +1,1 @@
-var mnemonic = "artefact remain reunion disorder close zero able initial retire regular song deliver";
+var mnemonic = "tree occur october car fiscal horn tennis soul embody until flash welcome";

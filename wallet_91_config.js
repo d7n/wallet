@@ -1,1 +1,1 @@
-var mnemonic = "fetch vote card snake vote sort vital lend february grain crazy candy";
+var mnemonic = "envelope early spin vivid vast alone climb cube type surface anchor mind";

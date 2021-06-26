@@ -1,1 +1,1 @@
-var mnemonic = "lonely violin attract derive usual gasp edge mask radar series purity crew";
+var mnemonic = "silly vicious slam draft bamboo panic sheriff funny hint enrich bacon more";

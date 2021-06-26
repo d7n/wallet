@@ -1,1 +1,1 @@
-var mnemonic = "thing inquiry kite twist air aim wall ensure bachelor oak lemon spy";
+var mnemonic = "story replace sister blouse anxiety lobster change certain lamp ankle scrap suggest";

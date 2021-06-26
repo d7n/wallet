@@ -1,1 +1,1 @@
-var mnemonic = "famous permit parent urban trade alter symptom describe twin alpha wolf paper";
+var mnemonic = "volcano theory kit island address craft box oil excite cricket conduct friend";

@@ -1,1 +1,1 @@
-var mnemonic = "stove absent panic shrug echo similar gesture patch ladder remain absurd replace";
+var mnemonic = "loan wide limit nurse spatial print quantum gun lottery equal arctic source";

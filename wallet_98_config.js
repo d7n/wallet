@@ -1,1 +1,1 @@
-var mnemonic = "palm shed detect swamp spawn two arctic knife zoo pull fall camp";
+var mnemonic = "stamp rabbit boil couple jazz add under risk discover patient awesome unusual";

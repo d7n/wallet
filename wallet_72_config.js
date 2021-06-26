@@ -1,1 +1,1 @@
-var mnemonic = "track fragile crouch permit celery shy general first tornado screen cotton invite";
+var mnemonic = "time soda sample second knock loan clay marine define tuition slide cave";

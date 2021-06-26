@@ -1,1 +1,1 @@
-var mnemonic = "inject smoke excuse olive whip summer awful dolphin rare eager fan jeans";
+var mnemonic = "purse cereal gate acquire bid escape fame then marriage more fun shaft";

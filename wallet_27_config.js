@@ -1,1 +1,1 @@
-var mnemonic = "boring above obscure cigar rice receive rubber honey another panel velvet carbon";
+var mnemonic = "guitar loyal tail people arrest obscure cigar private wealth vapor screen butter";

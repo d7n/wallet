@@ -1,1 +1,1 @@
-var mnemonic = "crazy lazy demise person chase cricket family inch veteran silly knife deny";
+var mnemonic = "rifle doctor nurse hood cupboard vessel easily trigger nuclear author phrase soul";

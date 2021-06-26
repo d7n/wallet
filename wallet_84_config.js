@@ -1,1 +1,1 @@
-var mnemonic = "perfect vendor card wood author alpha limb execute yard learn goat figure";
+var mnemonic = "gate whale fiber shine rather alien ridge glove sausage fatal target van";

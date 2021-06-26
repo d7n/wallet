@@ -1,1 +1,1 @@
-var mnemonic = "sign stove laugh decorate ancient fiscal wine young online innocent sorry asset";
+var mnemonic = "fix wrist keep place alpha omit best flower foster hard hundred bulk";

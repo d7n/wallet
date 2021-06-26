@@ -1,1 +1,1 @@
-var mnemonic = "nose own funny power program gentle elder pudding jacket ostrich shield retire";
+var mnemonic = "powder wood toast shaft skill luggage refuse endless box remove when canyon";

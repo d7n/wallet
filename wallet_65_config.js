@@ -1,1 +1,1 @@
-var mnemonic = "bicycle ramp egg void size clock right shock almost atom rain risk";
+var mnemonic = "endless cotton gorilla faint luxury gentle short attack fade rent trouble enough";

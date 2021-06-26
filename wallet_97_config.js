@@ -1,1 +1,1 @@
-var mnemonic = "unable fish alone anger spare library endless whisper desert dust palace matter";
+var mnemonic = "memory labor mom assume control powder elevator ability giraffe roof child upgrade";

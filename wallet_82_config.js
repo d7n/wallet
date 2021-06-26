@@ -1,1 +1,1 @@
-var mnemonic = "twist chunk tomato choose tuition code regular entry wage ribbon catch original";
+var mnemonic = "visual mother alley rare only describe direct bullet inmate teach jacket fatal";

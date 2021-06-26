@@ -1,1 +1,1 @@
-var mnemonic = "witness orange word example actor juice result nation life average party orbit";
+var mnemonic = "stick away buddy salmon spoil office tail arrive you welcome inhale hello";

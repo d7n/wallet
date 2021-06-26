@@ -1,1 +1,1 @@
-var mnemonic = "entire blind repeat rural case valid rival usual movie promote loop room";
+var mnemonic = "palm lemon motion river sausage shrimp ghost swift over pair valley iron";

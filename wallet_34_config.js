@@ -1,1 +1,1 @@
-var mnemonic = "upgrade spend slim ostrich defense pumpkin learn drop shoulder solution laundry parade";
+var mnemonic = "earth feed treat fossil obvious govern waste oppose wreck empty vicious patch";

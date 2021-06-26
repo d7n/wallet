@@ -1,1 +1,1 @@
-var mnemonic = "grape wise loan coffee jump lobster ghost pledge absurd shoe seat enter";
+var mnemonic = "dinner flat casino artist rose often flash large kit furnace mask prevent";

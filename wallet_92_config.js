@@ -1,1 +1,1 @@
-var mnemonic = "young payment aware virtual expand clap bird captain satoshi face second rack";
+var mnemonic = "float maple test anxiety rebuild hotel begin tumble jazz clinic vanish blue";

@@ -1,1 +1,1 @@
-var mnemonic = "witness quiz announce flame remain august capital double athlete release start slam";
+var mnemonic = "heart aim resist margin wet wrong response base debate peasant little gown";

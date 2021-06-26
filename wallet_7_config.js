@@ -1,1 +1,1 @@
-var mnemonic = "able pig legend ball legend rain private dune shove daughter twenty nuclear";
+var mnemonic = "kind pigeon visit climb grape arrest patient doll wage sheriff radar false";

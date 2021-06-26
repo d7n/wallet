@@ -1,1 +1,1 @@
-var mnemonic = "liquid panther goddess retire gesture drop candy buzz mutual lizard urge stone";
+var mnemonic = "produce know intact youth achieve dish strike lyrics tennis print trip suspect";

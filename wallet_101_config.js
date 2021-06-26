@@ -1,1 +1,1 @@
-var mnemonic = "effort stable inject august drink must dash approve wise teach choice ostrich";
+var mnemonic = "dawn mail silk bamboo online develop penalty announce unfold wing sell hair";

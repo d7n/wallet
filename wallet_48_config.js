@@ -1,1 +1,1 @@
-var mnemonic = "arrow agree chair rally pilot settle angle want winner battle fortune security";
+var mnemonic = "common indoor theme spend first oblige celery airport chase remain nice wonder";

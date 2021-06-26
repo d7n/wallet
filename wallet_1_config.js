@@ -1,1 +1,1 @@
-var mnemonic = "forest benefit wing grit wet glimpse bonus snake track sniff bamboo area";
+var mnemonic = "client practice raven mad vacuum device orange huge casual digital rail corn";

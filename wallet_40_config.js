@@ -1,1 +1,1 @@
-var mnemonic = "lava fatigue emerge clip cinnamon snow tone argue confirm shoe egg release";
+var mnemonic = "symbol camera decline mention galaxy able oppose bless infant expire dry crazy";

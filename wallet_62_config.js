@@ -1,1 +1,1 @@
-var mnemonic = "room sniff scout color typical tattoo thing letter omit industry bar embark";
+var mnemonic = "cluster credit grid walnut melody puzzle soul satisfy review fun hurt bean";

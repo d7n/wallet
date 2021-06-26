@@ -1,1 +1,1 @@
-var mnemonic = "quote clay add total position earth abuse web erode economy cactus manage";
+var mnemonic = "food buddy enable print lounge oval copper father vacuum broccoli seven clutch";

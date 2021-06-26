@@ -1,1 +1,1 @@
-var mnemonic = "buffalo aunt unlock enjoy second entire elevator prefer route feature lazy piece";
+var mnemonic = "face imitate stumble salute square spread better wild duck age size biology";

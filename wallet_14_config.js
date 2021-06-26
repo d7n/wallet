@@ -1,1 +1,1 @@
-var mnemonic = "close south symptom steak kidney win strategy income shoulder that very pear";
+var mnemonic = "test essence thrive cheap quality smile boost enjoy want lend acid pelican";

@@ -1,1 +1,1 @@
-var mnemonic = "flag regret security pottery duty consider tumble swift grid consider claim sustain";
+var mnemonic = "blush diagram electric wonder feel minute disorder pluck comfort confirm excite forward";

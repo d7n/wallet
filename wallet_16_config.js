@@ -1,1 +1,1 @@
-var mnemonic = "palm plug toward dove sign become input theme energy measure subject remember";
+var mnemonic = "tornado bounce path stone learn fox diet mouse hospital clap gun fetch";

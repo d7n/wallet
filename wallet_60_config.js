@@ -1,1 +1,1 @@
-var mnemonic = "adapt cute inquiry crucial deliver identify dragon labor rally garlic salt south";
+var mnemonic = "vague comfort network injury correct title leave coin domain shine face frozen";

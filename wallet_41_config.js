@@ -1,1 +1,1 @@
-var mnemonic = "lock rebuild travel stage hungry chronic fluid pull bitter enlist humble cruel";
+var mnemonic = "chief grape immune simple evoke gloom catalog pear shuffle vacant gaze pig";

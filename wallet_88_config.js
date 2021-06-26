@@ -1,1 +1,1 @@
-var mnemonic = "type segment hurt purse armed pumpkin visit chase vacant mechanic purity conduct";
+var mnemonic = "worry awesome cotton modify annual dragon hand source obtain gesture judge solar";

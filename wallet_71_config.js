@@ -1,1 +1,1 @@
-var mnemonic = "music lock gather brain review nuclear orbit frog finger that globe swallow";
+var mnemonic = "flock dust proof track fabric please stay upon replace pottery horse extend";

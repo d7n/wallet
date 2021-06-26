@@ -1,1 +1,1 @@
-var mnemonic = "test cattle catch spend amused slogan stool pepper fabric wage volume eyebrow";
+var mnemonic = "day render swarm giggle boat mercy neglect timber exercise seminar sketch evidence";

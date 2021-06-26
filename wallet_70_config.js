@@ -1,1 +1,1 @@
-var mnemonic = "gossip unknown affair unfold ostrich sunset will average slight faint pioneer enable";
+var mnemonic = "goddess test venture axis lab amateur setup asthma achieve road grocery route";

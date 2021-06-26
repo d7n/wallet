@@ -1,1 +1,1 @@
-var mnemonic = "grape sphere foam ship laundry entire chef call tank pattern quality jelly";
+var mnemonic = "father direct marriage clown judge pass outside trumpet drink about book wrap";

@@ -1,1 +1,1 @@
-var mnemonic = "hybrid gentle eager noise assume increase knife jazz beef apple rail flame";
+var mnemonic = "general six move pact clap police raise begin army bridge regret bless";

@@ -1,1 +1,1 @@
-var mnemonic = "tiger damage agree donkey switch improve stomach gauge awkward nose person annual";
+var mnemonic = "nuclear version soda tortoise left speak giant gaze sunset leopard skate giraffe";

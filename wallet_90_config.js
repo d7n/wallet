@@ -1,1 +1,1 @@
-var mnemonic = "audit gossip enrich laptop age tool deposit maze exercise fine sense country";
+var mnemonic = "exotic lawn output know ivory room suspect carbon reflect will voice avoid";

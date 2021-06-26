@@ -1,1 +1,1 @@
-var mnemonic = "remain crack box capable orient thrive dove essence ribbon churn slender betray";
+var mnemonic = "seat police door system travel essay dentist color enact warm naive wheel";

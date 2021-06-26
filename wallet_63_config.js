@@ -1,1 +1,1 @@
-var mnemonic = "grace grow essay nephew drop spoil tiny defy never drip game fever";
+var mnemonic = "want open local palace recycle glare file winter online identify bunker rib";

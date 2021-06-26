@@ -1,1 +1,1 @@
-var mnemonic = "detect boost ice clerk tissue cabin coyote fluid monkey daughter put push";
+var mnemonic = "glide crazy cruise crush goat taxi tape hover addict bitter stereo endless";

@@ -1,1 +1,1 @@
-var mnemonic = "idea junior try sun used acquire oxygen illegal arctic squeeze key glare";
+var mnemonic = "ceiling venue federal assault save club also this frown chicken regular bachelor";

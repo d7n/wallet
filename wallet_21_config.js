@@ -1,1 +1,1 @@
-var mnemonic = "slice awake young crater tissue desert expire immune pelican rely aware october";
+var mnemonic = "churn host gasp apple force ridge feel tomorrow miss ripple ceiling minimum";

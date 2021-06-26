@@ -1,1 +1,1 @@
-var mnemonic = "penalty process never flee broom hammer mammal lawsuit urge slight victory copper";
+var mnemonic = "one home tongue collect keen claim poverty accident any inner cricket permit";

@@ -1,1 +1,1 @@
-var mnemonic = "immune portion child trend vague clump magic history ski grunt luxury tomorrow";
+var mnemonic = "mercy between page custom glass daring drill animal diary slide retire note";

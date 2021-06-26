@@ -1,1 +1,1 @@
-var mnemonic = "calm left then rare window guess blood latin wheel search civil pioneer";
+var mnemonic = "try case fly casual hurdle tent galaxy whisper rude glare mixture all";

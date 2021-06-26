@@ -1,1 +1,1 @@
-var mnemonic = "amused cluster van roof clip uniform ceiling ice scheme ritual mean garlic";
+var mnemonic = "order little bike nice bullet base mix wet lamp autumn regular bounce";

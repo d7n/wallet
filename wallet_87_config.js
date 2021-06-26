@@ -1,1 +1,1 @@
-var mnemonic = "deposit increase bottom pitch candy social whisper toy delay snake mystery nuclear";
+var mnemonic = "intact wood upon immense ladder island disagree report item actual learn front";

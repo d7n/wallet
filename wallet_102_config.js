@@ -1,1 +1,1 @@
-var mnemonic = "resemble mail beauty visa desert biology curious supreme crew flight then pet";
+var mnemonic = "verb situate front betray aware burger hotel design hour green shock boss";

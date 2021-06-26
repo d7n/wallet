@@ -1,1 +1,1 @@
-var mnemonic = "expire jeans critic combine salon shove dolphin share salon yellow utility view";
+var mnemonic = "often still cycle skirt jar disorder brother tent credit age light evidence";

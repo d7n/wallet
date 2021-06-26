@@ -1,1 +1,1 @@
-var mnemonic = "dog either orphan over frequent candy okay cruise hire dance bonus extra";
+var mnemonic = "engage media fan that only main broken tone genius govern inject math";

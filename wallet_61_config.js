@@ -1,1 +1,1 @@
-var mnemonic = "provide myself harvest doctor wife found human learn note shield clarify upon";
+var mnemonic = "admit glove once blanket reason tissue before artist despair picture early crucial";

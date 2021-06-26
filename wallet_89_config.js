@@ -1,1 +1,1 @@
-var mnemonic = "merge behind lawn canal vault zoo trim april income explain lazy orange";
+var mnemonic = "trend now violin above screen lecture yellow autumn finish glide assume harvest";

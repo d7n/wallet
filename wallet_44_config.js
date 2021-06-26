@@ -1,1 +1,1 @@
-var mnemonic = "river able private immense train canal copy athlete already apple segment raise";
+var mnemonic = "around twice drift raw coconut select swap middle evidence bind garage wait";

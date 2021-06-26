@@ -1,1 +1,1 @@
-var mnemonic = "walk liquid position rent idea cabin congress coast immune chef hire forget";
+var mnemonic = "accident property bitter life reject era december express category tool receive hint";

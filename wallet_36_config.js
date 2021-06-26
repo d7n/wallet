@@ -1,1 +1,1 @@
-var mnemonic = "heavy burden empty wedding guide twelve immense absurd divert cup issue simple";
+var mnemonic = "truly focus muffin tragic hundred student high cruel gate sick annual valve";

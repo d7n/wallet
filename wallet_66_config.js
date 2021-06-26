@@ -1,1 +1,1 @@
-var mnemonic = "rabbit always author inch confirm car army ticket beach iron retire cactus";
+var mnemonic = "until aim diamond dumb around syrup want jazz bitter novel text soft";

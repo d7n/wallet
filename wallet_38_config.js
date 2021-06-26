@@ -1,1 +1,1 @@
-var mnemonic = "road tuna sudden fence naive equip order super horse glove away curve";
+var mnemonic = "perfect scene loop lounge security violin creek hybrid tonight oyster sunset mask";

@@ -1,1 +1,1 @@
-var mnemonic = "defy time lunar action capable chimney income common rent tuition initial visa";
+var mnemonic = "evidence void logic region divorce token assault disorder depth cinnamon ice truly";

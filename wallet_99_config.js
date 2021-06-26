@@ -1,1 +1,1 @@
-var mnemonic = "swallow blade robust float cage firm police burden car dice leg sense";
+var mnemonic = "lizard coconut find actor timber viable chalk search maid skirt voice hour";

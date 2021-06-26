@@ -1,1 +1,1 @@
-var mnemonic = "chunk walk guard correct economy lyrics patient valley measure lottery quantum elephant";
+var mnemonic = "cruel lobster draw fossil fence struggle wealth escape huge feed wrap danger";

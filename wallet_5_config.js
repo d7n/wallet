@@ -1,1 +1,1 @@
-var mnemonic = "shiver modify tired shove crucial fame trust noise dad tiger six chaos";
+var mnemonic = "scrap feed inspire romance badge buyer hidden shock input motor delay dream";

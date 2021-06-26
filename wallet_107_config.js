@@ -1,1 +1,1 @@
-var mnemonic = "wild oak argue chief goose butter style spread utility copy intact mobile";
+var mnemonic = "upper teach raise edge slow jungle cart depth embark reduce normal pear";

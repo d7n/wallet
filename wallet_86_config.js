@@ -1,1 +1,1 @@
-var mnemonic = "draft into priority garage hard job rabbit current convince scare venture fragile";
+var mnemonic = "cash avoid movie any network horse twin inherit kiss patrol leisure fatal";

@@ -1,1 +1,1 @@
-var mnemonic = "rookie sock canoe mix category million sadness marble spoon health enhance potato";
+var mnemonic = "daring return shallow fine time young slender common mimic miss supreme action";

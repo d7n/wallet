@@ -1,1 +1,1 @@
-var mnemonic = "judge carbon success verify ketchup among swamp seven cruise avoid donkey dutch";
+var mnemonic = "game web pet question below quiz drive provide fluid pattern waste drink";

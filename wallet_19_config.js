@@ -1,1 +1,1 @@
-var mnemonic = "response angry arrow face arch tonight marble pepper valley dinosaur black mother";
+var mnemonic = "cushion spring rice knee resist inherit erupt useless half race project kite";

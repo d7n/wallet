@@ -1,1 +1,1 @@
-var mnemonic = "pencil rifle acid oil increase suffer april journey inner bonus pair multiply";
+var mnemonic = "they setup chapter move achieve jeans snow west trumpet pyramid sight wall";

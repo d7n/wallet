@@ -1,1 +1,1 @@
-var mnemonic = "chicken group join wool term evolve wage hazard leave despair item oyster";
+var mnemonic = "staff upper album piece track submit ecology parrot close company cloud scrub";

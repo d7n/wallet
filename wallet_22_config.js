@@ -1,1 +1,1 @@
-var mnemonic = "snap group adjust talk afraid alcohol loop eagle sketch help giant monster";
+var mnemonic = "midnight boring badge check million monitor manage enlist buzz pony glide wave";

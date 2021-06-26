@@ -1,1 +1,1 @@
-var mnemonic = "ethics print multiply nothing sort relax poem unit snap obey benefit feed";
+var mnemonic = "churn fruit mask simple confirm sport august add business bind vocal civil";

@@ -1,1 +1,1 @@
-var mnemonic = "modify deny snack shift club forward loop barely expire high divorce laugh";
+var mnemonic = "camp bridge lounge urge fire slender angle almost journey future pulse scissors";

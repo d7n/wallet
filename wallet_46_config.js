@@ -1,1 +1,1 @@
-var mnemonic = "cram check giraffe assault wing thrive shy trash unveil come element venue";
+var mnemonic = "charge elevator puzzle goose test umbrella feature february make stone violin heavy";
