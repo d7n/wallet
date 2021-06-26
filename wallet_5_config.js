@@ -1,1 +1,1 @@
-var mnemonic = "banana myth mixed agree exotic truck make can when edge boy diesel";
+var mnemonic = "nation alley found reveal kit reduce aspect material panther use pyramid hold";

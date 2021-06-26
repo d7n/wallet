@@ -1,1 +1,1 @@
-var mnemonic = "case taste video comic antique loan reunion frequent debate bone whale decline";
+var mnemonic = "effort wedding burst praise senior because verb chuckle alone face ritual chest";

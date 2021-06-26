@@ -1,1 +1,1 @@
-var mnemonic = "near soon noble below potato monkey wonder rib palace impact nephew surprise";
+var mnemonic = "normal dinner half august circle damp hobby soccer funny place size scrub";

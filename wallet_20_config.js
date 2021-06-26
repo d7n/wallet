@@ -1,1 +1,1 @@
-var mnemonic = "time piece donate magic inquiry tuna execute cattle disagree joke cave horror";
+var mnemonic = "fluid frown client evoke foil gesture because benefit squirrel grace exist service";

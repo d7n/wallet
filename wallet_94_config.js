@@ -1,1 +1,1 @@
-var mnemonic = "load palace spawn grape spike raccoon clutch ship best cattle film grab";
+var mnemonic = "urban dream peace bamboo lottery light lion swear transfer impose depart disease";

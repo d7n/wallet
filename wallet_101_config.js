@@ -1,1 +1,1 @@
-var mnemonic = "century clown village lunar cruel burden file expect skill able float hat";
+var mnemonic = "double industry parent awkward fun trim mesh slot toward holiday spawn rubber";

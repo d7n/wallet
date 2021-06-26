@@ -1,1 +1,1 @@
-var mnemonic = "better what shove aisle crazy victory still will outer legal ancient sense";
+var mnemonic = "mandate book frozen basket pass glory food medal draft debate liar lumber";

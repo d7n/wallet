@@ -1,1 +1,1 @@
-var mnemonic = "garden ankle lumber mom ordinary dumb shop record there warfare rack cook";
+var mnemonic = "nature joke maze enable differ tape grid congress hunt marble cave jungle";

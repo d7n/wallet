@@ -1,1 +1,1 @@
-var mnemonic = "situate magnet fuel donate floor coconut acoustic royal food language jump want";
+var mnemonic = "bag raise piece salon exact album audit pioneer panic spin vibrant pioneer";

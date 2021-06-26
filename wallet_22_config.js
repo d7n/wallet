@@ -1,1 +1,1 @@
-var mnemonic = "family age trust raise pitch bargain vote swift forum injury ski butter";
+var mnemonic = "honey frozen hen recycle mimic fold turtle limit play way dad iron";

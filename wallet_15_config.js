@@ -1,1 +1,1 @@
-var mnemonic = "huge valley panda throw action omit century anchor valid poem easy bright";
+var mnemonic = "valley coast balcony best dove carry arch tourist elbow loyal crunch size";

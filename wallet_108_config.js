@@ -1,1 +1,1 @@
-var mnemonic = "mule boat muffin churn monitor begin museum topple response congress fall uphold";
+var mnemonic = "control apology express prison vacuum forget hour abstract paper border stem blur";

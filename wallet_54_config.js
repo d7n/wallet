@@ -1,1 +1,1 @@
-var mnemonic = "awful budget need eyebrow peace between supply pen observe target odor link";
+var mnemonic = "alter dismiss photo three settle coyote dirt verb duck honey shrimp metal";

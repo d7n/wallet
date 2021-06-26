@@ -1,1 +1,1 @@
-var mnemonic = "pulp pulp actress giant dial viable vintage sound once one style sword";
+var mnemonic = "into deliver grid account daring width luggage public toward air gossip banana";

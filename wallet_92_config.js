@@ -1,1 +1,1 @@
-var mnemonic = "total vault short wise oil mammal shop coffee thrive duty fault bracket";
+var mnemonic = "doll supreme resist age abandon rifle cruel teach dumb soon guitar toward";

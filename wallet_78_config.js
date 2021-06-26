@@ -1,1 +1,1 @@
-var mnemonic = "regret wing recycle lamp expect around enemy parrot diamond local average favorite";
+var mnemonic = "episode taste robot borrow turtle gorilla lunar satisfy soup miracle loyal theme";

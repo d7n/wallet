@@ -1,1 +1,1 @@
-var mnemonic = "program cargo dad crop fantasy income race virtual tuna pudding april chronic";
+var mnemonic = "jungle affair rice trim chapter vague daring brisk enroll orphan income canyon";

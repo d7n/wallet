@@ -1,1 +1,1 @@
-var mnemonic = "tip radar sausage grant antenna shoe lawsuit nice dial walnut truly parrot";
+var mnemonic = "vote enforce punch best brass dizzy idle matrix physical lab cable addict";

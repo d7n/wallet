@@ -1,1 +1,1 @@
-var mnemonic = "you jeans race spice depart pepper favorite sleep fancy wife announce faint";
+var mnemonic = "sugar balcony detect become cube wool leisure rude physical dinner slot term";

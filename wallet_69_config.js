@@ -1,1 +1,1 @@
-var mnemonic = "swift cliff captain waste include alert rich market narrow blue bike dress";
+var mnemonic = "clog repeat urge glue bunker else dance misery couch pet lemon demand";

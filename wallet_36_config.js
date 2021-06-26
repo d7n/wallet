@@ -1,1 +1,1 @@
-var mnemonic = "hockey clap pony three hello talent secret climb swing notice broccoli guard";
+var mnemonic = "local enact move want retire large nut liberty rebel country pattern cash";

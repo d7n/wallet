@@ -1,1 +1,1 @@
-var mnemonic = "gold feature version smile claw outdoor stuff reveal trumpet you embrace spare";
+var mnemonic = "shy resource never brave shoulder damp inject symptom camp skull upgrade route";

@@ -1,1 +1,1 @@
-var mnemonic = "lunar negative fetch fluid spin thrive behave depend razor gallery priority weapon";
+var mnemonic = "butter siren tape trouble kitten add swamp extra little movie despair slab";

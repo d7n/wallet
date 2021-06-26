@@ -1,1 +1,1 @@
-var mnemonic = "farm outside flat draw effort hunt pair enter intact glass senior flash";
+var mnemonic = "sister hard mango trend kitchen valve vacant coyote forum private stuff valve";

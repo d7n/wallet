@@ -1,1 +1,1 @@
-var mnemonic = "build organ sort slice cliff wire tilt dream guard guess system gossip";
+var mnemonic = "grant sustain flee toast expect choose milk era permit leg museum furnace";

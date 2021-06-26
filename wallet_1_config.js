@@ -1,1 +1,1 @@
-var mnemonic = "pole eight rich attitude favorite cement diamond humor assume blush glory biology";
+var mnemonic = "illegal spare brick flavor exhibit economy dizzy father emerge indoor gate traffic";

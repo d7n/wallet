@@ -1,1 +1,1 @@
-var mnemonic = "frozen defense benefit access sugar glow version opinion reduce stadium armor team";
+var mnemonic = "vital post defense goat sock engage puzzle oppose reward file side knee";

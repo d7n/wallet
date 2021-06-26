@@ -1,1 +1,1 @@
-var mnemonic = "marble response agent torch extend draw catalog write nation marine sweet suffer";
+var mnemonic = "sausage theme choice escape abuse jelly creek tent audit long matter page";

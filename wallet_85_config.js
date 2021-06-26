@@ -1,1 +1,1 @@
-var mnemonic = "any nose upgrade deposit draw pelican order jealous capital slim pluck knife";
+var mnemonic = "fragile pink pair jeans cover repeat predict funny they umbrella spin estate";

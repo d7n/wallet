@@ -1,1 +1,1 @@
-var mnemonic = "vanish square food move garbage cargo hire deliver wedding truly pig grant";
+var mnemonic = "special general mango chaos grid jazz orchard sadness iron hamster joy bitter";

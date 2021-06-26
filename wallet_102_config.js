@@ -1,1 +1,1 @@
-var mnemonic = "sight path subject intact ivory short inmate split captain used immense scorpion";
+var mnemonic = "what region worry begin dish syrup unaware ocean wrap scan fox fluid";

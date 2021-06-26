@@ -1,1 +1,1 @@
-var mnemonic = "afford quantum endless vanish trap undo tuna net cupboard until frequent screen";
+var mnemonic = "number arrest tenant inhale collect stool brand mango phone romance nation pass";

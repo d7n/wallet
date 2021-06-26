@@ -1,1 +1,1 @@
-var mnemonic = "auction wolf indicate climb ticket daughter royal romance hedgehog adult fine stage";
+var mnemonic = "violin peanut police surround blast bacon erase misery put vacuum crew purity";

@@ -1,1 +1,1 @@
-var mnemonic = "close empower veteran mystery silk endless electric uphold sweet field reduce flavor";
+var mnemonic = "health raw female slender tenant ivory antenna deny hammer win spirit awful";

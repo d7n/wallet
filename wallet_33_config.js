@@ -1,1 +1,1 @@
-var mnemonic = "any leisure caution company gesture brief retire resist scale blood hint fault";
+var mnemonic = "mountain claw vacuum frozen cart tree oyster try control tissue immense comfort";

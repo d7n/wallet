@@ -1,1 +1,1 @@
-var mnemonic = "onion domain security wise nose rice neutral velvet purity coral polar will";
+var mnemonic = "ill toy husband neither insane dawn wall become pig hill build order";

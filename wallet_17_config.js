@@ -1,1 +1,1 @@
-var mnemonic = "decline museum fold elbow swap leave input inner violin lift solar connect";
+var mnemonic = "struggle tool switch odor october bulk grab glue vehicle author flash sibling";

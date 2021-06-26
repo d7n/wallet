@@ -1,1 +1,1 @@
-var mnemonic = "route expose involve debris veteran cattle medal glove peasant remind approve oppose";
+var mnemonic = "bid upset neutral tilt cupboard duck clown oppose soda spawn rocket sugar";

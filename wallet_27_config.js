@@ -1,1 +1,1 @@
-var mnemonic = "sugar shallow banana nuclear spoon filter furnace slice success ring arctic cable";
+var mnemonic = "able better ill misery acoustic elevator elephant left lottery gentle desk version";

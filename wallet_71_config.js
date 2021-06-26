@@ -1,1 +1,1 @@
-var mnemonic = "brisk power unique lift scheme normal neutral section resemble labor wolf weasel";
+var mnemonic = "friend innocent movie toward melody venture mesh crane slogan bounce staff hip";

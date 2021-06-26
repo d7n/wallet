@@ -1,1 +1,1 @@
-var mnemonic = "scatter hard live slam predict kitten depart volcano jewel kick clinic eternal";
+var mnemonic = "track plastic unfold palace conduct palm mixture margin inflict stock pioneer champion";

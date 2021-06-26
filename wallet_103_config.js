@@ -1,1 +1,1 @@
-var mnemonic = "step horse congress crush month measure enlist cherry rapid olive rib lounge";
+var mnemonic = "retreat exist artist picnic doctor bicycle sweet embody slush power swap only";

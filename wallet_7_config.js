@@ -1,1 +1,1 @@
-var mnemonic = "napkin vapor yellow among surge eight rally circle mass puzzle orphan pelican";
+var mnemonic = "alien upper alley custom account truck point garage food neither away exhibit";

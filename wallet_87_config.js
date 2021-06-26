@@ -1,1 +1,1 @@
-var mnemonic = "often unlock pupil struggle crop novel ethics broccoli inspire organ august sorry";
+var mnemonic = "bargain guess insect finger mystery mushroom brass orange tonight report young address";

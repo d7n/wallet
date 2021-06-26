@@ -1,1 +1,1 @@
-var mnemonic = "viable suggest reason other hen legend develop drop minimum chaos cannon prefer";
+var mnemonic = "dilemma switch wing buddy street question convince victory hour current payment bottom";

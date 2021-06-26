@@ -1,1 +1,1 @@
-var mnemonic = "human enroll master convince patient produce warm valley badge suit defy ordinary";
+var mnemonic = "town frame dinner cart place bus number enforce usage story tomato bean";

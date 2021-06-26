@@ -1,1 +1,1 @@
-var mnemonic = "subject amused fitness hurry kangaroo vanish among this nice coach worry tired";
+var mnemonic = "annual first flush coast gesture buzz dice blame grab puppy club kite";

@@ -1,1 +1,1 @@
-var mnemonic = "volcano observe tumble nuclear tube thought auto anxiety eyebrow legend desert knock";
+var mnemonic = "cannon ribbon dawn desk best wealth piano food smoke mushroom attitude car";

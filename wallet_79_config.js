@@ -1,1 +1,1 @@
-var mnemonic = "click occur marble lyrics crew loyal pumpkin just venue nut custom outer";
+var mnemonic = "dust thrive little install primary foster forest way raven food skin battle";

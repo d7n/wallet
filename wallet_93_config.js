@@ -1,1 +1,1 @@
-var mnemonic = "reason tide ozone document when group ring ball address lamp rifle mystery";
+var mnemonic = "pelican indicate oak express print profit home bubble exclude degree deny weird";

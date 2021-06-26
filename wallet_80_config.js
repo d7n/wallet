@@ -1,1 +1,1 @@
-var mnemonic = "layer cat tobacco humble layer gospel faculty visual road govern concert claw";
+var mnemonic = "crash vote tumble kiss again simple physical veteran dinner flee aunt debris";

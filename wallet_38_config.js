@@ -1,1 +1,1 @@
-var mnemonic = "curve muffin boat proud power injury rose mobile ethics unveil page mystery";
+var mnemonic = "young judge action dice sphere tumble affair grief draw allow youth garage";

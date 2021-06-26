@@ -1,1 +1,1 @@
-var mnemonic = "strong skin blast sample ocean focus supply deal bounce later seek park";
+var mnemonic = "current company monster private tomorrow help episode egg super stand option diamond";

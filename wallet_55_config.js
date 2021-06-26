@@ -1,1 +1,1 @@
-var mnemonic = "mixed adult illness eight avoid laptop float island online truth bargain robot";
+var mnemonic = "correct decrease spread loop load hawk bind twice brand wide harsh birth";

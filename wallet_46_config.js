@@ -1,1 +1,1 @@
-var mnemonic = "bullet mesh cream gas success flock outer surface degree quality exercise gaze";
+var mnemonic = "own accuse patrol siege globe song capital help soldier service inhale decorate";

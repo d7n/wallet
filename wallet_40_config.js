@@ -1,1 +1,1 @@
-var mnemonic = "moral fit two chimney power fun huge evoke upset cradle black laugh";
+var mnemonic = "prize side prevent credit scatter scare coral arrow trim holiday treat vanish";

@@ -1,1 +1,1 @@
-var mnemonic = "roof hockey milk scene chief poem charge note empower bench dinosaur taxi";
+var mnemonic = "first marine sentence solve once merge victory joy tuna various crouch pond";

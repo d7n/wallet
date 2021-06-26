@@ -1,1 +1,1 @@
-var mnemonic = "rebel danger tragic trend modify narrow major bunker bulb style pulp museum";
+var mnemonic = "panic require soul prepare impose aisle embody sausage sadness firm heavy gentle";

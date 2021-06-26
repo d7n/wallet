@@ -1,1 +1,1 @@
-var mnemonic = "struggle make mesh invite swim tree gain laundry draw busy tomorrow safe";
+var mnemonic = "young tornado invest require escape math castle fresh below tip roof concert";

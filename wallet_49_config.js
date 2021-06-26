@@ -1,1 +1,1 @@
-var mnemonic = "video waste album wage page rigid mad anger want same cage super";
+var mnemonic = "palace moon pull soap radio farm stamp jealous slush sad vote skirt";

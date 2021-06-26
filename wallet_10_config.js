@@ -1,1 +1,1 @@
-var mnemonic = "muffin tip rate tomato grass govern fatal teach thing agree grit invite";
+var mnemonic = "library modify rather guide eager need into royal inhale receive industry amateur";

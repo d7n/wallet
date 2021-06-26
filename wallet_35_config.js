@@ -1,1 +1,1 @@
-var mnemonic = "surprise clip scrap runway depth mobile silly orange much that patch surge";
+var mnemonic = "dove furnace junk balance chef dial anchor ugly radar news rotate puzzle";

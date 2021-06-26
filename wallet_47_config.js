@@ -1,1 +1,1 @@
-var mnemonic = "soldier certain play spell key total puppy engine oven differ reveal civil";
+var mnemonic = "sketch under still case reveal almost defense foam parent space domain caught";

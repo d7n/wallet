@@ -1,1 +1,1 @@
-var mnemonic = "chimney mix army shift toddler beef cousin maze lunch analyst bronze guard";
+var mnemonic = "consider wood reject bridge fit reject conduct faith volcano artwork bright bargain";

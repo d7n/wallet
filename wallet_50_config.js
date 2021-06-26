@@ -1,1 +1,1 @@
-var mnemonic = "fiction flame metal moment someone include boil august chronic tortoise action off";
+var mnemonic = "elegant remember account tornado motion time inject document reform laugh auto quit";

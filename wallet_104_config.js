@@ -1,1 +1,1 @@
-var mnemonic = "network profit sting jacket hotel chair abandon neither various buyer slight trust";
+var mnemonic = "coffee minor curtain echo elbow rival flavor end urge impulse strong girl";

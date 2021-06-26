@@ -1,1 +1,1 @@
-var mnemonic = "clock arrest now drill media galaxy wrong multiply human buffalo tell model";
+var mnemonic = "aunt upper inside guitar hello olive initial sense inhale pencil omit latin";

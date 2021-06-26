@@ -1,1 +1,1 @@
-var mnemonic = "slush feed melt sign glory jeans busy renew castle pill hybrid garden";
+var mnemonic = "mad spend head craft simple hair gasp luggage simple trophy switch luxury";

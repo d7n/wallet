@@ -1,1 +1,1 @@
-var mnemonic = "hole alpha novel toe crop blame ceiling winner paddle awkward october bright";
+var mnemonic = "inject alter client walnut taste caution fade bless merge celery response spot";

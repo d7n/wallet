@@ -1,1 +1,1 @@
-var mnemonic = "victory seed review good interest category knock border cigar bicycle wink pen";
+var mnemonic = "leader ladder exhaust tourist silent spoon ghost myth initial educate document miracle";

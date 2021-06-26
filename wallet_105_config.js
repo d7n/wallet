@@ -1,1 +1,1 @@
-var mnemonic = "payment when blanket taste close slush banner pride tonight prepare firm fog";
+var mnemonic = "alarm pluck junk embody expire effort deliver media fame super regret danger";

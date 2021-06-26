@@ -1,1 +1,1 @@
-var mnemonic = "problem brand loan shop tail old orange oxygen divorce outside visit decide";
+var mnemonic = "image elder smile picture minute despair three fruit fragile cross shock wrong";

@@ -1,1 +1,1 @@
-var mnemonic = "twist artist hamster major expose vivid target rate neither burger random control";
+var mnemonic = "safe flush guide another marble notice dune board accident render usage ugly";

@@ -1,1 +1,1 @@
-var mnemonic = "leader mirror law debate side cool exile wage matter series mean party";
+var mnemonic = "betray inmate spread sister speed combine angle robust snap satisfy piano side";

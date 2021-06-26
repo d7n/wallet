@@ -1,1 +1,1 @@
-var mnemonic = "someone dawn negative admit edge guilt woman recipe brand humble finger crawl";
+var mnemonic = "twenty shrimp lesson series uncover wrestle rather season donate repeat tenant domain";

@@ -1,1 +1,1 @@
-var mnemonic = "actor trouble fashion mosquito diary frozen say awkward misery deer obey mix";
+var mnemonic = "mean toss lunar loan quote setup give bread glove profit have trophy";

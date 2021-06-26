@@ -1,1 +1,1 @@
-var mnemonic = "cause shrug such short fiction man soda doll shy spoil fix analyst";
+var mnemonic = "repair able thrive fat shine enable relax accuse save tissue bottom twelve";

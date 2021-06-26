@@ -1,1 +1,1 @@
-var mnemonic = "else affair helmet salute school swing remember cotton invest beef regular discover";
+var mnemonic = "sun buddy wet laugh rival puzzle smile denial mention trend error busy";

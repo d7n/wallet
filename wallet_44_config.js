@@ -1,1 +1,1 @@
-var mnemonic = "canyon scale border flame oven thrive maple clerk afford recall board topple";
+var mnemonic = "unusual cotton corn orchard midnight october virus print dream garbage moon ranch";

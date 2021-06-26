@@ -1,1 +1,1 @@
-var mnemonic = "struggle cannon later shield home coach huge deny float unique build outer";
+var mnemonic = "quantum skull dizzy napkin blind frame tube access tortoise another slow suit";

@@ -1,1 +1,1 @@
-var mnemonic = "glad tiger scale swallow shield price repeat syrup broken erode grocery way";
+var mnemonic = "buyer rent test force spice rebel school bright orient museum flag only";

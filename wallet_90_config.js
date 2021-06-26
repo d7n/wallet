@@ -1,1 +1,1 @@
-var mnemonic = "victory attitude chicken fox discover noise tackle party fruit hero shuffle ocean";
+var mnemonic = "shed uncover wide lift arrow remain together absurd glare together client click";

@@ -1,1 +1,1 @@
-var mnemonic = "license buffalo siege express window melody foil silly club panel border warfare";
+var mnemonic = "other bean rotate icon knee calm chalk recall tail rally sadness future";

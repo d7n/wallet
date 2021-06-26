@@ -1,1 +1,1 @@
-var mnemonic = "slam little curve such arctic finger pipe later shed random april novel";
+var mnemonic = "unable settle bargain area million fault merit despair crane evolve lock exact";

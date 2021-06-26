@@ -1,1 +1,1 @@
-var mnemonic = "inhale toast menu faculty valid eagle vital actress ridge math erode food";
+var mnemonic = "blind truth perfect fragile bomb bird bitter idle staff genuine image junior";

@@ -1,1 +1,1 @@
-var mnemonic = "ostrich banana desk exact shiver emerge web casino veteran cotton century degree";
+var mnemonic = "elite public shuffle carpet picture when decline humble witness wet yard flee";

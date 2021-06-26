@@ -1,1 +1,1 @@
-var mnemonic = "tobacco enforce search screen scare symptom olive furnace because choice search knock";
+var mnemonic = "then similar version topple detect say negative step slot own cereal law";

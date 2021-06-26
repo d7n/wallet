@@ -1,1 +1,1 @@
-var mnemonic = "angry expire canoe discover fee embrace lunch earth derive current try bitter";
+var mnemonic = "miss garden joke boat snap purse rough usual keen hard force script";

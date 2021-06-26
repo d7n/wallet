@@ -1,1 +1,1 @@
-var mnemonic = "order reopen broken mind cover armor woman festival reunion grass motion piece";
+var mnemonic = "old honey useless mask antenna usual music close pledge gadget crater roof";

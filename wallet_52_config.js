@@ -1,1 +1,1 @@
-var mnemonic = "tribe legal theme retire steak manage column celery warm friend neck corn";
+var mnemonic = "current ankle stomach giant liquid olympic gun street black series retreat forum";

@@ -1,1 +1,1 @@
-var mnemonic = "horror tone upper broom left bring behind zoo unknown shock loud wisdom";
+var mnemonic = "exact art category smoke gorilla anchor steak clown empower proud ugly host";

@@ -1,1 +1,1 @@
-var mnemonic = "clarify fire nation joke devote inflict bamboo wall orange symbol giraffe series";
+var mnemonic = "pottery giggle text attack opera column almost divide edit normal very pepper";
