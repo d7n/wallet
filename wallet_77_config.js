@@ -1,1 +1,1 @@
-var mnemonic = "card moral smile buddy steel hero sleep snow cliff creek chapter veteran";
+var mnemonic = "motion april fold thrive topple duck accident census come crouch error height";

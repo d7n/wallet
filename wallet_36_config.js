@@ -1,1 +1,1 @@
-var mnemonic = "pool adjust grit fitness urge erosion zone predict wage autumn fatal puppy";
+var mnemonic = "prize steel salute curtain cover virus cement route guilt since achieve garage";

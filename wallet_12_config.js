@@ -1,1 +1,1 @@
-var mnemonic = "glimpse mean kidney above tomato tiger sand harbor heart situate museum legend";
+var mnemonic = "tomorrow rubber inherit manage deputy seek tilt caught giggle butter scheme arrive";

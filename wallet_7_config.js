@@ -1,1 +1,1 @@
-var mnemonic = "exercise accident nest practice want stereo reject radio marble antenna swarm code";
+var mnemonic = "minimum tomorrow poem lonely gym embark anxiety menu squeeze pluck holiday now";

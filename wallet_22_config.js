@@ -1,1 +1,1 @@
-var mnemonic = "ready price rebel syrup rapid urban normal eight human mobile radio grain";
+var mnemonic = "toe violin black blind visa oxygen tide educate cream history mother cloth";

@@ -1,1 +1,1 @@
-var mnemonic = "news margin crisp forward crucial pave reveal screen bubble hazard hockey ramp";
+var mnemonic = "love social refuse wide rather glare pull cherry october artefact cable cradle";

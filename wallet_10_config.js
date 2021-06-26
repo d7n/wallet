@@ -1,1 +1,1 @@
-var mnemonic = "dumb prevent exact mandate later various scheme world slam hunt guide grass";
+var mnemonic = "resemble fruit tenant come saddle salt catalog diamond club mandate warfare awake";

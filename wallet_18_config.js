@@ -1,1 +1,1 @@
-var mnemonic = "learn job swim lady ripple this music noble oppose name upon alien";
+var mnemonic = "force problem device unit tone tell ritual type border brush glance chalk";

@@ -1,1 +1,1 @@
-var mnemonic = "enact kick peace minor gown rebel answer shock civil hip kitchen other";
+var mnemonic = "vacuum avocado birth choose link chef health turkey human amateur coffee december";

@@ -1,1 +1,1 @@
-var mnemonic = "leisure gun robust top chaos furnace receive creek sell print height rival";
+var mnemonic = "famous zone area click photo wife brisk fragile urge galaxy snap update";

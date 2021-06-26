@@ -1,1 +1,1 @@
-var mnemonic = "sea brief wagon cause gloom zone midnight render vital limb all hello";
+var mnemonic = "impact fish use inherit save gorilla uphold oven diary amazing forum sweet";

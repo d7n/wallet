@@ -1,1 +1,1 @@
-var mnemonic = "innocent skirt okay apple chronic symptom health day kid idle roof glove";
+var mnemonic = "visa column diagram toward huge skull aim table split cake iron verb";

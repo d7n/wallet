@@ -1,1 +1,1 @@
-var mnemonic = "similar broccoli pretty patrol elite doctor shop donor cute tower blush correct";
+var mnemonic = "major swear basket expect cabbage stereo silly purpose brown recipe invest follow";

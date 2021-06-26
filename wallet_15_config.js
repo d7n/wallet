@@ -1,1 +1,1 @@
-var mnemonic = "dream habit marble river pass slim toward machine tennis defy sea grace";
+var mnemonic = "jewel fire expire blade property tomorrow axis announce saddle crouch pilot charge";

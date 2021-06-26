@@ -1,1 +1,1 @@
-var mnemonic = "top venture toe recycle such tray front clock notice assume nature dawn";
+var mnemonic = "guilt chair bright remain embody stage volume bread combine suit fancy close";

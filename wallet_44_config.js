@@ -1,1 +1,1 @@
-var mnemonic = "can multiply story rate clinic poverty essence either silk cup axis feed";
+var mnemonic = "obscure edge symptom predict feed until timber liar erosion already found zebra";

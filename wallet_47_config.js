@@ -1,1 +1,1 @@
-var mnemonic = "viable market chimney crazy woman basic interest supply finish equip right tomato";
+var mnemonic = "shine magnet just ecology sign orient vacuum short reopen donate economy hello";

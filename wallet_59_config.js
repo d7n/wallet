@@ -1,1 +1,1 @@
-var mnemonic = "help enrich lottery husband pitch also guide panther panic then wonder theory";
+var mnemonic = "update donor arrest goat rule drink split number talent maze ketchup crack";

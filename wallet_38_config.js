@@ -1,1 +1,1 @@
-var mnemonic = "rare jeans vocal recall tortoise vast valid derive orange slow expire liquid";
+var mnemonic = "salt slogan spoon truly payment certain crazy public expect shell manage eager";

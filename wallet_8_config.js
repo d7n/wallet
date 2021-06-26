@@ -1,1 +1,1 @@
-var mnemonic = "food banana enjoy market radio stairs slam elephant badge regret tiny version";
+var mnemonic = "slab pluck version goose know normal project public lumber area summer laugh";

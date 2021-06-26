@@ -1,1 +1,1 @@
-var mnemonic = "jacket muffin visual test upgrade trip clerk scheme rough column ankle liberty";
+var mnemonic = "promote still museum lyrics try patrol pizza glad learn example brief supreme";

@@ -1,1 +1,1 @@
-var mnemonic = "twin twelve document glove ramp voice bracket poem still risk distance oak";
+var mnemonic = "winter episode toddler apple divide analyst fitness agent custom glow fox salon";

@@ -1,1 +1,1 @@
-var mnemonic = "camera alley public mutual lunar shrimp middle embrace oak spin digital genius";
+var mnemonic = "stereo find young birth weather work chronic tissue assist finish cupboard belt";

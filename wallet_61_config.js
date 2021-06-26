@@ -1,1 +1,1 @@
-var mnemonic = "south viable pet ride gift cat crime bamboo rebel lab rice desk";
+var mnemonic = "stairs owner violin tourist glide output letter hint course tower lizard cotton";

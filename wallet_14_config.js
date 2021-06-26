@@ -1,1 +1,1 @@
-var mnemonic = "when another flash near wash winter exchange resemble enrich stairs animal cradle";
+var mnemonic = "topple prepare assault series surge scale pledge pledge until normal story snow";

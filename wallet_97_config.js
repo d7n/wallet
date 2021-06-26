@@ -1,1 +1,1 @@
-var mnemonic = "online firm stove decide elbow patrol horse chief pear retire eye height";
+var mnemonic = "alley wrist flee attack tissue primary happy hope dawn unfold sick planet";

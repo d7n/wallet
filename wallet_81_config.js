@@ -1,1 +1,1 @@
-var mnemonic = "vivid drink answer soft viable iron certain butter announce sheriff among antenna";
+var mnemonic = "tip blame theme kitchen bunker caution two merit move worry defy case";

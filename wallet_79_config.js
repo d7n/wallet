@@ -1,1 +1,1 @@
-var mnemonic = "drink library slide liar giggle antenna hedgehog capital fringe olive true follow";
+var mnemonic = "canyon equip toast option lab cattle smoke scrub achieve short embark then";

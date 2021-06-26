@@ -1,1 +1,1 @@
-var mnemonic = "stand walnut recycle exclude valley near hold toast lady state song jazz";
+var mnemonic = "very napkin auto harsh chalk pottery vocal indicate stadium honey execute unknown";

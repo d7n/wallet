@@ -1,1 +1,1 @@
-var mnemonic = "approve program mammal enemy three pepper equip alert pear rebel pistol inspire";
+var mnemonic = "confirm general culture flat harvest bird master skull skate alert team coconut";

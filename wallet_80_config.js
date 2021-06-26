@@ -1,1 +1,1 @@
-var mnemonic = "embark police column impose sock tunnel senior learn master excuse morning day";
+var mnemonic = "armor force anger coffee roast father advance myself near notice calm into";

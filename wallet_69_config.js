@@ -1,1 +1,1 @@
-var mnemonic = "moon brother velvet matter predict math hybrid camp million ethics dog lesson";
+var mnemonic = "inflict cram voice anger lunar avocado meat history stuff oak bonus axis";

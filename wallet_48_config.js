@@ -1,1 +1,1 @@
-var mnemonic = "account pull rain kite assume reject quick ancient seek into fold mistake";
+var mnemonic = "special onion maple check actual patrol south pigeon betray pen oak expand";

@@ -1,1 +1,1 @@
-var mnemonic = "genuine feed maple right proof off there story country install crop project";
+var mnemonic = "harsh draft daring liar tank mimic famous wagon blade surround fiber shine";

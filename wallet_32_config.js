@@ -1,1 +1,1 @@
-var mnemonic = "state kiwi brave surface sword bracket cup august section must path badge";
+var mnemonic = "view focus afford spray try drive extend invite robust rhythm unusual blanket";

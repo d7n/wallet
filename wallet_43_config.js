@@ -1,1 +1,1 @@
-var mnemonic = "upgrade tongue relax transfer wrong venture eye artefact glance final gentle boss";
+var mnemonic = "twelve one mail license sadness govern sock barely throw dinner scheme violin";

@@ -1,1 +1,1 @@
-var mnemonic = "rhythm detect lock february stage nurse ivory wear fault paper gun meat";
+var mnemonic = "crime sign all emerge mix rural pretty expire afraid job document puzzle";

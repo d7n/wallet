@@ -1,1 +1,1 @@
-var mnemonic = "husband cycle sense pepper nephew demise cycle year blood liquid human sustain";
+var mnemonic = "artefact night card remove cruel anger salute early surround settle gun office";

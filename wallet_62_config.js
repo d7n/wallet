@@ -1,1 +1,1 @@
-var mnemonic = "sick fossil speak play improve purity dune faint error thought cradle wife";
+var mnemonic = "skate loop runway mix pen grit educate ginger moral pattern over imitate";

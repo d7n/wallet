@@ -1,1 +1,1 @@
-var mnemonic = "stumble dolphin veteran attack wave client spoon cherry february race usage settle";
+var mnemonic = "design neither copper bar domain slot discover erode snap number siren body";

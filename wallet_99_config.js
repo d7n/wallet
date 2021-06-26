@@ -1,1 +1,1 @@
-var mnemonic = "sunny piano orphan tomato prosper rabbit lumber hope abstract antique office guitar";
+var mnemonic = "network today marine alley uncover canvas pumpkin fox joke saddle now stool";

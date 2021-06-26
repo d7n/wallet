@@ -1,1 +1,1 @@
-var mnemonic = "false tribe stuff expand glow expect verify identify onion super birth oyster";
+var mnemonic = "diary walk pear accident price consider jungle buffalo oval sauce column order";

@@ -1,1 +1,1 @@
-var mnemonic = "clown village flower help village wear mammal useful weekend climb second poet";
+var mnemonic = "cool excuse noise normal trophy celery razor wave tape under era common";

@@ -1,1 +1,1 @@
-var mnemonic = "edge faint cabin clarify render drastic interest setup woman middle outside palm";
+var mnemonic = "talent water team vicious trigger engage connect manage figure torch tank remember";

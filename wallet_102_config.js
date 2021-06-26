@@ -1,1 +1,1 @@
-var mnemonic = "today cargo dress badge crystal fine rubber recycle mercy moral emerge daring";
+var mnemonic = "double brisk child barrel nurse urban oak switch million retire build promote";

@@ -1,1 +1,1 @@
-var mnemonic = "page maze hard weapon camp indoor plastic option clump surface jungle identify";
+var mnemonic = "dance prosper pear analyst whale loud into awesome grocery deputy defense dignity";

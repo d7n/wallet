@@ -1,1 +1,1 @@
-var mnemonic = "churn response battle crime delay fuel render forum dilemma come coffee slow";
+var mnemonic = "emerge bulk arrow prefer account culture balcony close rare emotion rescue sample";

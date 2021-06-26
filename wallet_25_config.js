@@ -1,1 +1,1 @@
-var mnemonic = "virus aim arrange alarm follow lizard gesture lion element kiwi nice afford";
+var mnemonic = "universe inform other other achieve champion unique door fabric sheriff web praise";

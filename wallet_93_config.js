@@ -1,1 +1,1 @@
-var mnemonic = "bless mirror attitude hole scorpion castle grow lawn duty tide plastic ready";
+var mnemonic = "abandon live eager tiny night misery trash chicken luggage muffin shiver broom";

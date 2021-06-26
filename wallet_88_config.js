@@ -1,1 +1,1 @@
-var mnemonic = "amused mimic napkin emotion theme say one prevent move divert kidney venture";
+var mnemonic = "champion goddess expect photo bitter dial win opinion march unknown junk upset";

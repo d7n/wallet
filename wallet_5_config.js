@@ -1,1 +1,1 @@
-var mnemonic = "crater begin carbon romance mansion swing spread witness flee rare matter garage";
+var mnemonic = "mirror mask misery benefit truth coffee beyond announce critic case exercise final";

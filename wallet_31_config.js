@@ -1,1 +1,1 @@
-var mnemonic = "joke car between exclude evidence element brush submit disorder obscure staff silk";
+var mnemonic = "area waste celery luxury comic endorse digital tiger sphere mind police result";

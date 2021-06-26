@@ -1,1 +1,1 @@
-var mnemonic = "nasty draw guitar town monkey expose slow bicycle inner insect expose enough";
+var mnemonic = "sheriff wink atom weapon coast scale sing media uniform glare brave van";

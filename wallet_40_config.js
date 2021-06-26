@@ -1,1 +1,1 @@
-var mnemonic = "pizza fiction antenna cruise destroy version enjoy income link diesel silly update";
+var mnemonic = "grocery excite blur deputy climb used sustain below act option shop around";

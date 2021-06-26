@@ -1,1 +1,1 @@
-var mnemonic = "orbit answer letter extend accident fluid film auction entire mandate buddy reform";
+var mnemonic = "clay subway soccer trip acoustic fruit harbor accident hurdle twelve novel monster";

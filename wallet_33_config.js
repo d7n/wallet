@@ -1,1 +1,1 @@
-var mnemonic = "excess repeat clever scan sweet brief mix trip vacant vacuum phrase nominee";
+var mnemonic = "case space load milk conduct mystery volcano more pilot emotion way amazing";

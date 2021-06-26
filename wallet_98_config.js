@@ -1,1 +1,1 @@
-var mnemonic = "amused crane good absent file elegant salad museum wrist drop seven kid";
+var mnemonic = "minute exhibit season diary wrap embrace harsh ticket damage broom soap infant";

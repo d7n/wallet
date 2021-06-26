@@ -1,1 +1,1 @@
-var mnemonic = "hunt limb arm three clean keen taste siren silk luxury spoon hurdle";
+var mnemonic = "opinion section toilet lazy force panic wagon rally dream point give cannon";

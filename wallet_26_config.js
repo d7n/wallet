@@ -1,1 +1,1 @@
-var mnemonic = "drop call saddle auto shrug frown soft kitten diary select label aware";
+var mnemonic = "rude taxi diary endorse zoo gap slab wait accuse depth skate nerve";

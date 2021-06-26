@@ -1,1 +1,1 @@
-var mnemonic = "winter solar vapor marine egg awkward screen speak shuffle neutral shoulder cave";
+var mnemonic = "blue member acid floor offer crop edge wedding cluster churn level wrong";

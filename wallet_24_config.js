@@ -1,1 +1,1 @@
-var mnemonic = "equal demand oval shallow galaxy acid trouble soft garden excess nephew apart";
+var mnemonic = "will under file bring antenna library rhythm mouse bacon mushroom friend case";

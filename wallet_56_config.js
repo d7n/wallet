@@ -1,1 +1,1 @@
-var mnemonic = "reflect crumble poverty shock robot olympic notable impact behind rack year coconut";
+var mnemonic = "cream leaf pill version media warfare material park cave income lady legal";

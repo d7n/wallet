@@ -1,1 +1,1 @@
-var mnemonic = "become agent plastic inner wide match critic method trigger second pistol fatal";
+var mnemonic = "green produce armor rely avoid pepper winter vehicle improve pistol alpha frown";

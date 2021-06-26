@@ -1,1 +1,1 @@
-var mnemonic = "initial pact wheat actual quick between sponsor online diary nation barely expect";
+var mnemonic = "floor blade expose have oven surge element peace quit oblige cover surprise";

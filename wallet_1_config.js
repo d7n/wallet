@@ -1,1 +1,1 @@
-var mnemonic = "vote popular roast dentist reunion guitar under boring media quit wage border";
+var mnemonic = "already victory gap engine result seven stay surface pause ski angry olympic";

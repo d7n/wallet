@@ -1,1 +1,1 @@
-var mnemonic = "bachelor famous walk coconut actress accident hen skate submit divert aware hand";
+var mnemonic = "casual final special bag brass junk forum fury walk client grief alcohol";

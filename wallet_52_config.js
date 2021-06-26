@@ -1,1 +1,1 @@
-var mnemonic = "struggle refuse raise forward cart answer alert screen once always chimney bind";
+var mnemonic = "quit plunge purchase obvious require error bubble music layer depart crumble vicious";

@@ -1,1 +1,1 @@
-var mnemonic = "noodle home search field arctic fade leg tool tribe ensure chicken tape";
+var mnemonic = "space board clerk arrange tuna love mystery save marble steak master swift";

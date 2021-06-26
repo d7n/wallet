@@ -1,1 +1,1 @@
-var mnemonic = "time endorse atom topic ghost armor delay robust learn enable warrior analyst";
+var mnemonic = "oil expand sell save series magnet impact wool canal lamp chat lens";

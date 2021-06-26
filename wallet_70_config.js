@@ -1,1 +1,1 @@
-var mnemonic = "annual dial put buzz patch depth kiss primary hidden oak present slow";
+var mnemonic = "point badge type coconut witness lava erode hole cricket shove spring base";

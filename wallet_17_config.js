@@ -1,1 +1,1 @@
-var mnemonic = "choose drop stumble crash scorpion net ship aim acquire arena circle canvas";
+var mnemonic = "gym badge code film above abandon spread safe cool bar aspect plate";

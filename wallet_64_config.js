@@ -1,1 +1,1 @@
-var mnemonic = "airport glass soldier kiss budget cousin quiz million mutual erode soccer disagree";
+var mnemonic = "taste equip collect parrot buzz birth also inner marriage air design control";

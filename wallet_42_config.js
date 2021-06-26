@@ -1,1 +1,1 @@
-var mnemonic = "insane rookie famous bundle car book vacuum wonder arctic orbit staff license";
+var mnemonic = "rabbit direct soul badge correct pitch bonus shine fly cool toe worry";

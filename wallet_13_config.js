@@ -1,1 +1,1 @@
-var mnemonic = "isolate antenna life wing act retreat promote fitness page shrug ripple wolf";
+var mnemonic = "witness test catalog gift battle more shaft scale pigeon blood client peace";

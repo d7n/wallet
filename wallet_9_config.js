@@ -1,1 +1,1 @@
-var mnemonic = "vacant elevator calm jeans extra sister cannon opera limit choose office pond";
+var mnemonic = "judge equal solution present omit recycle slogan claw alien arrow model spawn";

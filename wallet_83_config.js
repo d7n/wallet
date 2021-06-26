@@ -1,1 +1,1 @@
-var mnemonic = "elbow finish mesh lazy pause oven child slab wet hotel rather prevent";
+var mnemonic = "flame twelve magic ostrich letter whisper robust reflect rug spring fabric weasel";

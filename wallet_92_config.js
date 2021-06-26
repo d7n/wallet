@@ -1,1 +1,1 @@
-var mnemonic = "stone same weapon pigeon wheel must forward job ship modify blossom coyote";
+var mnemonic = "south will heart again object shell end trust deputy hold start age";

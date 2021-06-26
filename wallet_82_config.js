@@ -1,1 +1,1 @@
-var mnemonic = "find champion link position vacuum width live busy debate secret hurry want";
+var mnemonic = "manual fold maximum pony farm trend spoil cat online knock reopen giant";

@@ -1,1 +1,1 @@
-var mnemonic = "velvet involve topic cover regular uphold seed fiction figure plunge lunch wear";
+var mnemonic = "legal fit shy erase review essay burden network grass damp senior cigar";

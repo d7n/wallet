@@ -1,1 +1,1 @@
-var mnemonic = "lava problem glance grocery brisk champion parade silly prevent brief way amateur";
+var mnemonic = "similar tenant adjust exhaust soup coil smoke document fancy between glance mango";

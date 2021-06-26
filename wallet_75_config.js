@@ -1,1 +1,1 @@
-var mnemonic = "moon filter wrap often critic tiger gain soft grab toy saddle notice";
+var mnemonic = "west quote stomach video gym lady claim scare they dirt chapter autumn";

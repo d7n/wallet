@@ -1,1 +1,1 @@
-var mnemonic = "senior raise inside core skill wire august rough ticket empower genius ecology";
+var mnemonic = "kingdom method one pet warfare solar alone auto spoil angry scale embrace";

@@ -1,1 +1,1 @@
-var mnemonic = "bunker cause clock where oxygen inch tortoise bulb grain earth mountain usage";
+var mnemonic = "capital truth install harvest thought genuine valid culture fiber flag actress skill";

@@ -1,1 +1,1 @@
-var mnemonic = "camp gorilla behind pact swift champion expect number bread leopard chase pencil";
+var mnemonic = "result canyon hold inspire embark shoulder into laugh often lens almost delay";

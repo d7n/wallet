@@ -1,1 +1,1 @@
-var mnemonic = "erase chair unit music main north foot point pave setup install nuclear";
+var mnemonic = "below portion talent rain solar lounge melody label divide picnic dash primary";

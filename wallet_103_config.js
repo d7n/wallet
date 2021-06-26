@@ -1,1 +1,1 @@
-var mnemonic = "repair element expand unknown host surround ritual ketchup ecology detect become sorry";
+var mnemonic = "vapor fuel helmet fade estate chef box action dwarf produce blossom annual";

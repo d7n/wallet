@@ -1,1 +1,1 @@
-var mnemonic = "erupt argue ostrich roast tool deer lottery warrior choose pole mass shine";
+var mnemonic = "battle run escape seat ladder grab stool bracket uniform edge poverty romance";

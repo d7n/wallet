@@ -1,1 +1,1 @@
-var mnemonic = "observe virtual absurd detail base slot estate zebra resist junk blue vapor";
+var mnemonic = "puzzle regular canvas soft enough labor derive canvas public glue kick similar";

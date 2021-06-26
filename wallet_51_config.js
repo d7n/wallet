@@ -1,1 +1,1 @@
-var mnemonic = "amazing orbit poet remind corn machine term system stone wedding else have";
+var mnemonic = "decorate nest quarter attract february suggest inhale thing cable dice inform clean";

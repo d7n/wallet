@@ -1,1 +1,1 @@
-var mnemonic = "sudden punch yard clarify ghost chief fall neutral sweet kitchen awful alley";
+var mnemonic = "prize pair detail holiday diesel vivid renew cement dust host sweet they";

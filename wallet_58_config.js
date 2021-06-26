@@ -1,1 +1,1 @@
-var mnemonic = "caution only slot faint remember gap canoe enlist team flip drill agent";
+var mnemonic = "purity come layer exercise stove defense camera level clever gun gas little";

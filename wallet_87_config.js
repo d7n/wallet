@@ -1,1 +1,1 @@
-var mnemonic = "myself solve clerk banana virus sea today negative turn dress door crane";
+var mnemonic = "fold category sausage guide mixed club apology loop version hat resemble steak";
