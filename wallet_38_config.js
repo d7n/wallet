@@ -1,1 +1,1 @@
-var mnemonic = "federal window poet furnace decide furnace hip kit educate extra debate black";
+var mnemonic = "ranch hire front roof erosion permit purchase dove veteran when dress eight";

@@ -1,1 +1,1 @@
-var mnemonic = "list either nut outdoor dentist venue asthma tattoo crystal novel lecture weapon";
+var mnemonic = "festival fall manual gasp piece retreat guard donor grape dizzy humor online";

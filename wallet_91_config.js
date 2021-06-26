@@ -1,1 +1,1 @@
-var mnemonic = "mistake purpose tail attack camp require impulse drink boost language bridge diet";
+var mnemonic = "sock dust bargain little uncover slot cube industry width consider record outer";

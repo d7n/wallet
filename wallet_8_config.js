@@ -1,1 +1,1 @@
-var mnemonic = "age copper rib excite field typical crack round head brain swap comfort";
+var mnemonic = "topple axis oppose guess only torch decrease crane senior weapon baby limit";

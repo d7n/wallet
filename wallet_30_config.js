@@ -1,1 +1,1 @@
-var mnemonic = "bamboo life certain barely cheese suggest shadow pizza service inspire chalk narrow";
+var mnemonic = "actress ancient screen virtual small involve isolate face diet maze street ship";

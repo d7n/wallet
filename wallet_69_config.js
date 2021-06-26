@@ -1,1 +1,1 @@
-var mnemonic = "tide pear fiction you rug tornado regret dirt ripple tray cube enough";
+var mnemonic = "behind legal strong tobacco monster hotel say risk digital similar movie pink";

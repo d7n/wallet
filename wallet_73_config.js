@@ -1,1 +1,1 @@
-var mnemonic = "tornado robust genuine shaft fuel grocery immense immune theory rare comic owner";
+var mnemonic = "predict furnace lava educate useful ginger exclude shell dog sadness word napkin";

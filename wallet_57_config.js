@@ -1,1 +1,1 @@
-var mnemonic = "spell cactus mention glove move sound group foil excess sweet endorse obscure";
+var mnemonic = "student toast oval prison spin section pigeon column hello found observe hand";

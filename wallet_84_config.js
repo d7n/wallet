@@ -1,1 +1,1 @@
-var mnemonic = "wide silent present hungry replace busy clump artist gasp bamboo enforce coil";
+var mnemonic = "display reunion borrow symptom myself sheriff normal veteran have nose tongue govern";

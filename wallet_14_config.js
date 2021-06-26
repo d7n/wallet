@@ -1,1 +1,1 @@
-var mnemonic = "drum tourist select alien view size survey faint ritual because street lounge";
+var mnemonic = "guilt dolphin always unaware violin stick box burden when eagle clay museum";

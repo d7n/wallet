@@ -1,1 +1,1 @@
-var mnemonic = "light unveil rural obey will push zone silver junk below tuition clock";
+var mnemonic = "amount since weapon eternal inquiry shrug save orchard zebra wall crawl lend";

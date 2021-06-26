@@ -1,1 +1,1 @@
-var mnemonic = "relief tortoise topple loan letter must reunion fish jealous stamp dawn base";
+var mnemonic = "okay liar foam common extra recall again snack delay call manual adapt";

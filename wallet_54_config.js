@@ -1,1 +1,1 @@
-var mnemonic = "despair inner media world scan remain spend cannon century sport weekend shock";
+var mnemonic = "dilemma coconut hurdle spirit clever item banana puppy island eye owner dash";

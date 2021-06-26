@@ -1,1 +1,1 @@
-var mnemonic = "average valid ready satisfy pair save aim better liquid hurdle bid turtle";
+var mnemonic = "pottery system paper mansion boss make super guitar step chef iron rice";

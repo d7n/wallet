@@ -1,1 +1,1 @@
-var mnemonic = "price during position hamster jar type live unaware crumble aspect year mixture";
+var mnemonic = "expect feature license tenant injury speak essence jar resemble pink current gadget";

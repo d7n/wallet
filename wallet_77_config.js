@@ -1,1 +1,1 @@
-var mnemonic = "broccoli rather empty student come library castle van tree toddler nation debate";
+var mnemonic = "menu laptop limit used disease skate van wish soft zoo fruit promote";

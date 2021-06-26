@@ -1,1 +1,1 @@
-var mnemonic = "mixed carbon sword thrive tell alcohol door trigger volume innocent actress gate";
+var mnemonic = "stereo shine advice column flat deliver rug cinnamon resource dress uncle manage";

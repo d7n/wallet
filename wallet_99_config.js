@@ -1,1 +1,1 @@
-var mnemonic = "tree wage clever foil grace swear sphere pledge fox napkin plug front";
+var mnemonic = "glory village catch someone clever ignore fish scrub junior salad brick hurry";

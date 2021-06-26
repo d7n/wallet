@@ -1,1 +1,1 @@
-var mnemonic = "security camera found voice skirt castle parade tired genre fatal lunar cereal";
+var mnemonic = "pelican gloom hip grab reveal raccoon obey obtain doll feed work autumn";

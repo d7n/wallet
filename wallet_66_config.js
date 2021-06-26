@@ -1,1 +1,1 @@
-var mnemonic = "extend penalty release believe guide pole age drive gospel kid choose blade";
+var mnemonic = "confirm comfort enrich network have duck mosquito clump minute success police future";

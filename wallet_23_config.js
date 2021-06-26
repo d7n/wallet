@@ -1,1 +1,1 @@
-var mnemonic = "sun claim circle toward unaware hobby tooth rice copy youth donor kitten";
+var mnemonic = "right cotton pencil acid subway panic truth dog cake south stereo oblige";

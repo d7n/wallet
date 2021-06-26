@@ -1,1 +1,1 @@
-var mnemonic = "country model goddess reflect private sign prevent small clog champion snap orbit";
+var mnemonic = "want spell liar economy dolphin hint illegal stomach insane eyebrow black curtain";

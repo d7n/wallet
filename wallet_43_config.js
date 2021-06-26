@@ -1,1 +1,1 @@
-var mnemonic = "smile throw pair inspire cruise unknown dove make wing member float clip";
+var mnemonic = "loud hero cement edit fancy make fancy refuse pioneer ocean blur all";

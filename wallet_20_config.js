@@ -1,1 +1,1 @@
-var mnemonic = "attract carry shell exact slender student impact fork sick present foil tennis";
+var mnemonic = "offer depart suffer beach easy jaguar offer hire because ramp list trial";

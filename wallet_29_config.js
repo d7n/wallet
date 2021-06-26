@@ -1,1 +1,1 @@
-var mnemonic = "inside key punch spider pull virtual hint hard outer shove humor tiger";
+var mnemonic = "conduct afford hospital debate lunch scan exchange sea remain fire witness can";

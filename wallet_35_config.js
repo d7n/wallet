@@ -1,1 +1,1 @@
-var mnemonic = "unknown top stand eye citizen bleak warm click point shock grief rent";
+var mnemonic = "canoe innocent price pass exercise leader trash net manual quarter camp hungry";

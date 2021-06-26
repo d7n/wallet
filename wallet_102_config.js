@@ -1,1 +1,1 @@
-var mnemonic = "fault method human fire zebra number little glance great stuff olive drama";
+var mnemonic = "during color ready shove air above police issue general found inspire neglect";

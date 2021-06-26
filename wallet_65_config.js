@@ -1,1 +1,1 @@
-var mnemonic = "dizzy south thunder replace giggle shoulder spare minimum blur cannon give movie";
+var mnemonic = "coil spoon across mean survey ladder ignore dry flight focus movie choose";

@@ -1,1 +1,1 @@
-var mnemonic = "head odor boost run squeeze receive wing student achieve design afraid delay";
+var mnemonic = "lava praise chef arrest upper exotic ozone debris abstract town hollow renew";

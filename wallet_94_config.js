@@ -1,1 +1,1 @@
-var mnemonic = "angry crash street fly blind typical bicycle target near dream slab runway";
+var mnemonic = "oyster cave cross symbol manual grace panel soda path float web lawsuit";

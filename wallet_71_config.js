@@ -1,1 +1,1 @@
-var mnemonic = "shrug perfect reduce card impose rude round raw assault divorce intact leave";
+var mnemonic = "myself sauce talent flash galaxy miss sense faith nephew area fiscal latin";

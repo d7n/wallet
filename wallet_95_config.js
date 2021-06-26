@@ -1,1 +1,1 @@
-var mnemonic = "portion cube imitate cotton alpha live hazard bright goddess coral salon stairs";
+var mnemonic = "choice cousin retire face upon below social velvet supreme dentist also earth";

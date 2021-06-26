@@ -1,1 +1,1 @@
-var mnemonic = "attend balcony shrimp clean parade effort matrix victory wet cupboard deposit auction";
+var mnemonic = "mesh symptom coconut square invite dog valley hill deliver monster nasty boy";

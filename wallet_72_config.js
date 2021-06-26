@@ -1,1 +1,1 @@
-var mnemonic = "direct meat december small review creek cash asthma illegal library twin clinic";
+var mnemonic = "trend promote voyage truly shop actual gold chunk size quality saddle average";

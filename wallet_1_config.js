@@ -1,1 +1,1 @@
-var mnemonic = "plunge inhale example thank become crew nose captain broken doctor field correct";
+var mnemonic = "van deal more appear portion mass bottom arena portion arrow actor can";

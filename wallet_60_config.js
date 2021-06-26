@@ -1,1 +1,1 @@
-var mnemonic = "milk era try more someone square glory foot toast barely shiver aisle";
+var mnemonic = "quit vehicle ring evidence spare coach produce boss genius monster hurdle youth";

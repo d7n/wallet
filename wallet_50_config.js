@@ -1,1 +1,1 @@
-var mnemonic = "glare slab protect grace scale regret genius fury planet once husband noise";
+var mnemonic = "pave lonely axis deposit animal boss liberty armed bring december pole pause";

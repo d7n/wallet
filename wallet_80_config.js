@@ -1,1 +1,1 @@
-var mnemonic = "swear glare planet rare kingdom dragon marble theory welcome hollow found pride";
+var mnemonic = "spray ship card clarify twist maze board detail garlic seat gadget more";

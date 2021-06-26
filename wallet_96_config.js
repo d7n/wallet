@@ -1,1 +1,1 @@
-var mnemonic = "labor oil oval excite physical calm target flag trim violin salt green";
+var mnemonic = "pledge praise purpose tide bacon submit tragic series next audit situate help";

@@ -1,1 +1,1 @@
-var mnemonic = "custom thought cave tank rhythm truly leader relax soul session thank basic";
+var mnemonic = "video fold picture receive buzz economy birth resemble tomorrow salon best hour";

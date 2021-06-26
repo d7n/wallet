@@ -1,1 +1,1 @@
-var mnemonic = "clump idea trash surface dance snack unable mom scrub deal token diesel";
+var mnemonic = "supreme agree field firm design have flip ladder drift icon text gadget";

@@ -1,1 +1,1 @@
-var mnemonic = "spend effort venue fit friend never cram magnet team problem burden adapt";
+var mnemonic = "nothing cash few write energy require burden century dune device grow increase";

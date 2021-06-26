@@ -1,1 +1,1 @@
-var mnemonic = "radar gate core cry slice liar copy under shell easy economy curtain";
+var mnemonic = "debate rail always cool embark struggle gate loop toilet stem sweet never";

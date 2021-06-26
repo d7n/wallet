@@ -1,1 +1,1 @@
-var mnemonic = "avocado verify father visit reduce annual tuition burger live smooth question garbage";
+var mnemonic = "deal question engine erode dice sock wasp slice stamp advice sadness speed";

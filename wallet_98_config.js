@@ -1,1 +1,1 @@
-var mnemonic = "country immune extend fiber foot swim space pave zero snack used stable";
+var mnemonic = "dust explain age lady box follow voyage spot vicious pull style embrace";

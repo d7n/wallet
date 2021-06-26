@@ -1,1 +1,1 @@
-var mnemonic = "brother lazy record boring head forget merit coral nothing peasant traffic smooth";
+var mnemonic = "chest raccoon ill curve lamp spend legend punch harbor license miracle speak";

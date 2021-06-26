@@ -1,1 +1,1 @@
-var mnemonic = "hint regular become comic range crash engine argue express coil artefact roast";
+var mnemonic = "melody dinner road admit rather shuffle peasant someone flower master hidden defy";

@@ -1,1 +1,1 @@
-var mnemonic = "noise alert giraffe inhale rose special raise castle busy luggage drill escape";
+var mnemonic = "crystal turn satisfy indoor adapt slender mobile program cup life duty laptop";

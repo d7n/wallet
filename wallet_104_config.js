@@ -1,1 +1,1 @@
-var mnemonic = "round album myself purse repair horse swear glass beach ensure again pear";
+var mnemonic = "illegal scrap dynamic amazing inflict fatigue giraffe zero echo crisp dwarf pet";

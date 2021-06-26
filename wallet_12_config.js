@@ -1,1 +1,1 @@
-var mnemonic = "forward oblige blue defy board rack sun deposit similar prepare knife stereo";
+var mnemonic = "dinosaur aisle orange option elephant tenant lady copper mountain window minor pond";

@@ -1,1 +1,1 @@
-var mnemonic = "verb south book width adjust crystal father business desert lazy parade tenant";
+var mnemonic = "gauge desk ridge buyer sadness envelope fiber almost strike unaware rhythm prosper";

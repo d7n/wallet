@@ -1,1 +1,1 @@
-var mnemonic = "neglect sense cram humble feature crater twelve deny loan shop shed swallow";
+var mnemonic = "local extra frozen current forget net keep six taxi drastic shed rabbit";

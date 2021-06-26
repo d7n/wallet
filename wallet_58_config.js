@@ -1,1 +1,1 @@
-var mnemonic = "ensure soldier deer inherit layer skate citizen road chair goat endless million";
+var mnemonic = "mom knife rally day dish labor turn collect swing write visual surprise";

@@ -1,1 +1,1 @@
-var mnemonic = "edge fantasy identify best tomorrow loud submit can floor junk name curious";
+var mnemonic = "shield cash track maid plunge casual shoe session topic clinic romance vast";

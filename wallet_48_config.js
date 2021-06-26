@@ -1,1 +1,1 @@
-var mnemonic = "pudding bread maximum try rather shoe dolphin foam suit umbrella lunch tag";
+var mnemonic = "feel mushroom away head evil frame tank guilt school milk harbor stick";

@@ -1,1 +1,1 @@
-var mnemonic = "enable teach simple alone embrace kite coral need tissue pact analyst oval";
+var mnemonic = "fantasy impact motor balcony subway render invest tourist yard squirrel print kick";

@@ -1,1 +1,1 @@
-var mnemonic = "outer expand sausage start question time trigger aim alien curtain draw sauce";
+var mnemonic = "below endorse peace copper job candy cake notable agree forum sword arena";

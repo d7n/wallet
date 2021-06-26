@@ -1,1 +1,1 @@
-var mnemonic = "blade bridge private ranch legal north cat before pluck wash sketch turn";
+var mnemonic = "frog amateur century swallow sleep board enforce primary sudden camp tone stage";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk exact green crisp nut refuse chief click sell error light first";
+var mnemonic = "hockey thunder account river grid quarter sleep mad swift that divert twice";

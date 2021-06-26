@@ -1,1 +1,1 @@
-var mnemonic = "involve hand surge tiger require shed case surge knee proud produce notice";
+var mnemonic = "convince yellow beach flight future poem attract over pear lend exact wrist";

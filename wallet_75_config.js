@@ -1,1 +1,1 @@
-var mnemonic = "achieve concert usage hill drill roast illness flame elder decorate prepare fiscal";
+var mnemonic = "comic plastic cave language jungle announce affair surprise august pigeon question layer";

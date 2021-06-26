@@ -1,1 +1,1 @@
-var mnemonic = "tide better spike myself oppose mechanic sunset memory swarm future ignore acquire";
+var mnemonic = "source thing this predict amused fee muscle endorse monitor into theme design";

@@ -1,1 +1,1 @@
-var mnemonic = "demise weasel protect bid wrong celery atom gas huge amateur midnight monitor";
+var mnemonic = "loan icon question popular ability wagon tool weird color inhale cinnamon rose";

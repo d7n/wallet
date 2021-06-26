@@ -1,1 +1,1 @@
-var mnemonic = "seminar amount front earth prize noble cricket sell wagon oyster until shoot";
+var mnemonic = "wood artefact gun balance fitness ritual doll depth shiver reject theory auction";

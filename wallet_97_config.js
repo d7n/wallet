@@ -1,1 +1,1 @@
-var mnemonic = "square lake boat spawn grant auto reject post way dial middle rival";
+var mnemonic = "tone quick floor parrot apple fold menu hockey cry lunar eagle sail";

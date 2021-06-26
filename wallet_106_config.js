@@ -1,1 +1,1 @@
-var mnemonic = "sight define chat valve rifle orbit knock flat identify deposit notice loyal";
+var mnemonic = "another flee nurse problem leg choose defy ride destroy step mad blast";

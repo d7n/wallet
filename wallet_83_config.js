@@ -1,1 +1,1 @@
-var mnemonic = "meat hand mobile rebel sport refuse bulk fancy daughter suit draw fever";
+var mnemonic = "mobile opinion live enroll move save fade fetch easily bitter cry vicious";

@@ -1,1 +1,1 @@
-var mnemonic = "jump slight cannon nurse federal capable fault pattern trip dance rule worth";
+var mnemonic = "goose poverty engine great ugly remind onion unit zoo pretty party daring";

@@ -1,1 +1,1 @@
-var mnemonic = "produce obscure flight message since cover helmet antique absurd spring focus polar";
+var mnemonic = "pear pumpkin damp tribe rule opinion describe opinion able firm donor brown";

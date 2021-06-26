@@ -1,1 +1,1 @@
-var mnemonic = "cram universe frog maple citizen draft brand latin tennis rescue bitter solution";
+var mnemonic = "stairs flock derive mushroom similar twist luggage angle flavor coconut trophy citizen";

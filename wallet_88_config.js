@@ -1,1 +1,1 @@
-var mnemonic = "senior grape arena lift forget fatal practice chapter umbrella month orange market";
+var mnemonic = "squeeze slice toe broccoli cheese next minute eye waste embody glimpse journey";

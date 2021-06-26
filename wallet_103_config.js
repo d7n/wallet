@@ -1,1 +1,1 @@
-var mnemonic = "decorate purse escape slam property welcome save voyage civil bargain busy enter";
+var mnemonic = "medal august dinner easy void what walk surge bracket index narrow okay";

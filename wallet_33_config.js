@@ -1,1 +1,1 @@
-var mnemonic = "lyrics erupt loyal claw pioneer despair horror punch wedding remind laptop foot";
+var mnemonic = "uniform tumble axis recipe play first essay oak lazy squirrel poet trim";

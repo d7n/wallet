@@ -1,1 +1,1 @@
-var mnemonic = "nature wise must drastic lounge opinion cruise pause web elevator essence ring";
+var mnemonic = "suggest basic rigid lend engine ivory peanut law final clever law cloth";

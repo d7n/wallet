@@ -1,1 +1,1 @@
-var mnemonic = "illness crazy need elite act crystal feature dry stock guilt canal off";
+var mnemonic = "bomb drastic know giant buyer keen guide trigger faith rare use angry";

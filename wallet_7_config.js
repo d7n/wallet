@@ -1,1 +1,1 @@
-var mnemonic = "volcano kangaroo fork throw flat prison wool history brisk swallow patient local";
+var mnemonic = "jump speed pen wealth wire minor between define exclude strong question cupboard";

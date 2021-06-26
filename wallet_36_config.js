@@ -1,1 +1,1 @@
-var mnemonic = "pattern blanket fee cool parrot mesh rule measure random tiny final bean";
+var mnemonic = "atom volcano funny lizard lounge floor material hawk crop put vessel veteran";

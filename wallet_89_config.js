@@ -1,1 +1,1 @@
-var mnemonic = "portion very mouse enact skate antenna thought electric slogan begin park depth";
+var mnemonic = "fashion uncover slam midnight auction giggle jaguar hybrid ball inch scale regular";

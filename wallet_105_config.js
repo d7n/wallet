@@ -1,1 +1,1 @@
-var mnemonic = "slush naive roast alien ocean work access cable venture occur short obscure";
+var mnemonic = "hint isolate bright cactus public sick emotion hybrid know green evoke busy";

@@ -1,1 +1,1 @@
-var mnemonic = "venture comfort target outer pen sweet image inherit cart napkin news pottery";
+var mnemonic = "zebra minimum stock swing debris spawn render design lift manual used uncover";

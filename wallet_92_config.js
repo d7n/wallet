@@ -1,1 +1,1 @@
-var mnemonic = "wave strategy day deny summer soda ivory answer round paper affair lens";
+var mnemonic = "budget card treat seek afraid fame minimum page museum monkey better sun";

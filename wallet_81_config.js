@@ -1,1 +1,1 @@
-var mnemonic = "vacant ship quit exist exotic size noble tattoo venue response embrace awesome";
+var mnemonic = "any curious quick squeeze trip there burden car position wet scout boat";

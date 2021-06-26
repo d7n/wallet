@@ -1,1 +1,1 @@
-var mnemonic = "lift foil glare year ask shoe snap toss slice critic used choose";
+var mnemonic = "want auto aisle pipe run jar inhale once lion vast iron parent";

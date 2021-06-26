@@ -1,1 +1,1 @@
-var mnemonic = "occur vast blood valve method fabric old art clean earth fox lazy";
+var mnemonic = "promote increase speak license bulk hybrid slight visa element grow wine pet";

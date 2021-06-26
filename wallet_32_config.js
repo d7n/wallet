@@ -1,1 +1,1 @@
-var mnemonic = "anxiety evil filter tragic excite shield capable again champion music reveal mask";
+var mnemonic = "victory brown twenty brass tomato stick exchange inch release salmon fragile stick";

@@ -1,1 +1,1 @@
-var mnemonic = "sport horse digital village symptom caught regular drama region agree valid car";
+var mnemonic = "rival sight seat lizard erupt stereo december pave clean risk convince leg";

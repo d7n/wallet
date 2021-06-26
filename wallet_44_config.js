@@ -1,1 +1,1 @@
-var mnemonic = "boss elevator update abuse board correct clog ethics flame run thought purpose";
+var mnemonic = "snow rubber burger spring obey choose cricket lemon defy follow outside problem";

@@ -1,1 +1,1 @@
-var mnemonic = "loan easy clip ladder people enter field catch life scorpion tobacco ivory";
+var mnemonic = "dress fix vault dismiss okay garlic appear cart usual seek undo guard";

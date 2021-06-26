@@ -1,1 +1,1 @@
-var mnemonic = "shrimp portion health conduct want make wait rival iron glow vicious seed";
+var mnemonic = "prize iron monitor spell act crucial zoo pottery toilet buddy close eager";

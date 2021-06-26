@@ -1,1 +1,1 @@
-var mnemonic = "vote pioneer spy yellow speak zoo ring pink digital diamond leisure fault";
+var mnemonic = "grief airport elder primary mosquito jungle absurd panda govern trend dust decline";

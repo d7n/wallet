@@ -1,1 +1,1 @@
-var mnemonic = "index lab program tag delay estate cushion margin sell save also glide";
+var mnemonic = "wear language off bean parade tenant suggest oven spoil humble bomb wreck";

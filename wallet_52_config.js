@@ -1,1 +1,1 @@
-var mnemonic = "laptop crazy know exact mix south duck harvest clever wait club exit";
+var mnemonic = "collect palm young daughter only heavy attitude tuition split airport unable indoor";

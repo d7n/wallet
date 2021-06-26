@@ -1,1 +1,1 @@
-var mnemonic = "undo purity frame awful install glow lawsuit pair wall eager congress local";
+var mnemonic = "almost lonely require artist lecture roof make action assault cover enjoy witness";

@@ -1,1 +1,1 @@
-var mnemonic = "ocean admit blouse retreat poet point forest hunt tone pill wash soon";
+var mnemonic = "couple ocean suggest avocado reunion crucial mammal turn crisp broken run chunk";

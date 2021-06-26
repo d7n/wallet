@@ -1,1 +1,1 @@
-var mnemonic = "wire chat brief wood fringe sort case horn head hidden candy bronze";
+var mnemonic = "exchange ribbon emerge version olympic range expose argue garlic muscle wasp clip";
