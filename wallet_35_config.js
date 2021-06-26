@@ -1,1 +1,1 @@
-var mnemonic = "barrel disorder first turtle eye casual airport art apology front decide quit";
+var mnemonic = "carry blue mention almost review control brief heavy exhibit web tumble remain";

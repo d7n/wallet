@@ -1,1 +1,1 @@
-var mnemonic = "decline visa letter since crucial vanish father vacant neglect dish miracle target";
+var mnemonic = "large culture blouse pool loyal mother trip margin acoustic struggle grid clap";

@@ -1,1 +1,1 @@
-var mnemonic = "hour update expand hover ice fragile transfer near onion car ask major";
+var mnemonic = "lawsuit pudding twenty craft bind art bulb skull hundred awake ivory regret";

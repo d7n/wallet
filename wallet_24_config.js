@@ -1,1 +1,1 @@
-var mnemonic = "fragile ready stable fence anchor priority media era click festival wedding video";
+var mnemonic = "silk salt unknown reduce give copper buzz water hat ridge electric jacket";

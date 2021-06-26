@@ -1,1 +1,1 @@
-var mnemonic = "coral rhythm spray matter soon debate risk inject plug vote peace erode";
+var mnemonic = "lumber easily deny shrimp search burden body movie reason maximum direct erupt";

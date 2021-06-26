@@ -1,1 +1,1 @@
-var mnemonic = "large phrase avocado stick army decade audit shadow record chicken collect reveal";
+var mnemonic = "desk version vendor sport episode hint bunker expose decade snake mesh glue";

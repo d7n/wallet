@@ -1,1 +1,1 @@
-var mnemonic = "feed grit negative loop govern dinosaur forest mimic canyon iron extra sadness";
+var mnemonic = "crucial elder salute shine wealth fan depth quiz antenna title avoid diary";

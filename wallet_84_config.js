@@ -1,1 +1,1 @@
-var mnemonic = "clown father never win circle client marble huge shell finger mix firm";
+var mnemonic = "caution panda casual phrase congress input grape tree wage crumble stumble garlic";

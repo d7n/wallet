@@ -1,1 +1,1 @@
-var mnemonic = "dove earth toward favorite rookie maple slight resource reward jelly bring margin";
+var mnemonic = "impact hello marine ability miracle like ghost infant air reject bright joke";

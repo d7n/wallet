@@ -1,1 +1,1 @@
-var mnemonic = "eight ecology wheat baby reward baby renew spoil bamboo crowd have can";
+var mnemonic = "jeans economy above celery clean onion scene carpet party high embody person";

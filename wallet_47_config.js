@@ -1,1 +1,1 @@
-var mnemonic = "slam innocent acoustic stomach exhaust roast between pet search vendor behave embark";
+var mnemonic = "note squeeze trust neither topple artefact disease domain bench monster awful coin";

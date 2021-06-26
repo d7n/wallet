@@ -1,1 +1,1 @@
-var mnemonic = "lawn arch tone october cool error meat cabin carbon subway truck avoid";
+var mnemonic = "ankle review balcony various south size legal vessel drink chaos weather crowd";

@@ -1,1 +1,1 @@
-var mnemonic = "tell jewel hollow city gas cube card uncover sail lock defense super";
+var mnemonic = "giggle bamboo pottery food kingdom slush price exhibit ethics glance shine forget";

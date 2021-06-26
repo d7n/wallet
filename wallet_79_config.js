@@ -1,1 +1,1 @@
-var mnemonic = "park develop upgrade mammal suggest world attract shoulder measure gossip hat fortune";
+var mnemonic = "harvest street black harbor begin parent mansion ride guard stool crane dice";

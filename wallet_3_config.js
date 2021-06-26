@@ -1,1 +1,1 @@
-var mnemonic = "live toss matrix amount repair provide dizzy loop honey consider piano afford";
+var mnemonic = "soul wave panel post napkin kick tent write crack then exist romance";

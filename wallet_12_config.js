@@ -1,1 +1,1 @@
-var mnemonic = "surge kingdom anxiety bullet loyal soda gauge any spell cigar rather slam";
+var mnemonic = "infant plunge exclude slab assault stumble word burst salon leaf radar hospital";

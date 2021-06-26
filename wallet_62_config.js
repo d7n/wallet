@@ -1,1 +1,1 @@
-var mnemonic = "evolve image hybrid still emotion praise grant smart victory upset edit drip";
+var mnemonic = "tree garage actress people catalog rebuild animal uncover govern profit lock math";

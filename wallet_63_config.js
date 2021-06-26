@@ -1,1 +1,1 @@
-var mnemonic = "left grace oil wool isolate harvest negative ocean album verb start enough";
+var mnemonic = "faith dash bundle convince under news ride conduct minor engage become cream";

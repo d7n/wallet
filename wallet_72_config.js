@@ -1,1 +1,1 @@
-var mnemonic = "they horse dice first trust aim wet comic alone demise grace account";
+var mnemonic = "number vault spend fee carpet vote aspect ski matrix entire scrap about";

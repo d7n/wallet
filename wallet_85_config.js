@@ -1,1 +1,1 @@
-var mnemonic = "sleep strategy radio render fruit buzz file culture medal near evidence donkey";
+var mnemonic = "trip health grain pig east shove hundred bonus setup ball cage pole";

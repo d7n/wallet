@@ -1,1 +1,1 @@
-var mnemonic = "seek silk fun cheap toe robot wet pave vanish foster smart lion";
+var mnemonic = "ice index slice funny real reward pioneer mystery project void size patrol";

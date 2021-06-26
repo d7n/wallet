@@ -1,1 +1,1 @@
-var mnemonic = "cradle point direct goat dog eternal link degree fury demand slim piece";
+var mnemonic = "pony whip camp carbon often snow rice fresh pencil whisper teach harsh";

@@ -1,1 +1,1 @@
-var mnemonic = "mask benefit fade copper master oxygen people secret whale burden teach venture";
+var mnemonic = "alcohol sibling armed casino liquid course also blouse film feature cage fancy";

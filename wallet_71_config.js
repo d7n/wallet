@@ -1,1 +1,1 @@
-var mnemonic = "other protect awake stadium wire cigar theme another ostrich cry traffic jeans";
+var mnemonic = "asthma song scorpion volcano stick glance air dash gloom mercy ostrich slush";

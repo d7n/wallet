@@ -1,1 +1,1 @@
-var mnemonic = "peanut concert tired theme pulse diet damp tilt chimney nature mechanic turkey";
+var mnemonic = "combine comfort choice wrong actual lake health boost afford rather music absent";

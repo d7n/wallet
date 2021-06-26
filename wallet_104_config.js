@@ -1,1 +1,1 @@
-var mnemonic = "tired learn topple cereal crack furnace west cricket hundred cereal various sail";
+var mnemonic = "crouch later mask pelican retreat lava seven patient planet video clog earn";

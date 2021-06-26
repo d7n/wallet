@@ -1,1 +1,1 @@
-var mnemonic = "run bean robust glare prevent trip clinic allow voice return media timber";
+var mnemonic = "lonely across recipe tip cloud topic advice plug bronze gift gaze answer";

@@ -1,1 +1,1 @@
-var mnemonic = "special enlist soft human furnace away betray call soda fuel blind require";
+var mnemonic = "weapon legal blame turtle laundry cute garbage egg token citizen dress wear";

@@ -1,1 +1,1 @@
-var mnemonic = "polar album mesh scrap achieve game wreck genuine shoulder sad end amount";
+var mnemonic = "lens citizen enter tool start sing tonight result visa conduct cake total";

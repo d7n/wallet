@@ -1,1 +1,1 @@
-var mnemonic = "stem chief absorb laugh okay skate wire light civil reflect antique crouch";
+var mnemonic = "swing legal road slot bargain universe second design buzz relax accident tent";

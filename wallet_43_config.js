@@ -1,1 +1,1 @@
-var mnemonic = "cabbage leave stumble spread alarm hole focus lazy demise mixed debris giant";
+var mnemonic = "beach cheap spirit lend moral crowd december brand method equal ski regret";

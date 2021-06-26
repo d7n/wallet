@@ -1,1 +1,1 @@
-var mnemonic = "spare twice exist basic wagon unable solar swim addict tape vapor tank";
+var mnemonic = "goddess input churn beef eye apart father caught unfair diagram script aspect";

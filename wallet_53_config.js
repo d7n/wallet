@@ -1,1 +1,1 @@
-var mnemonic = "detect market company lift zebra sweet high head edge jelly category soda";
+var mnemonic = "cover nut siege siege glove eager usual way tip now visual chaos";

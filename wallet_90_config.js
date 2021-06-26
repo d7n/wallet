@@ -1,1 +1,1 @@
-var mnemonic = "reveal change robot execute sunset chat tattoo champion bird angle daughter thought";
+var mnemonic = "skirt consider snap rotate panda pepper oxygen acid fan era copy slight";

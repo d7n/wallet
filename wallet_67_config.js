@@ -1,1 +1,1 @@
-var mnemonic = "cause youth daughter long knife punch theme hundred surface excite spell toast";
+var mnemonic = "hello song athlete reform setup bullet material endless head sphere shop neither";

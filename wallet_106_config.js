@@ -1,1 +1,1 @@
-var mnemonic = "wedding topple tribe horn juice blade speak forward exchange name sunny boss";
+var mnemonic = "word fee quantum garden sword rack end average ostrich develop ritual plug";

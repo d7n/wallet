@@ -1,1 +1,1 @@
-var mnemonic = "meadow follow soap network theory ahead build fashion market loyal over simple";
+var mnemonic = "unable elegant battle whale pyramid blame boss lunch parent drill enjoy copper";

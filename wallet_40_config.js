@@ -1,1 +1,1 @@
-var mnemonic = "human earth between obey cost glow tag tail swear float craft measure";
+var mnemonic = "agree beach denial whale trade quiz verb traffic pet prefer hello devote";

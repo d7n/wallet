@@ -1,1 +1,1 @@
-var mnemonic = "glow venue tooth hero coffee knee six pill that aerobic employ sure";
+var mnemonic = "valid put multiply sleep jeans often perfect mandate turn very crew real";

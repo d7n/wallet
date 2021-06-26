@@ -1,1 +1,1 @@
-var mnemonic = "couch position boy churn wisdom flash lawsuit physical umbrella endless security affair";
+var mnemonic = "turkey pill furnace swear just impose notable umbrella solar news quiz invite";

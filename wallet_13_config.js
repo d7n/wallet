@@ -1,1 +1,1 @@
-var mnemonic = "sphere raccoon divide naive ill rifle shine level warfare final project shy";
+var mnemonic = "property park fever duty thumb quote cash sand damage luxury minute upon";

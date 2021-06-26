@@ -1,1 +1,1 @@
-var mnemonic = "inject shrimp myth life act furnace arrow canyon fitness gesture arch staff";
+var mnemonic = "pumpkin boil flock stairs skin capable female tide sibling empty enrich torch";

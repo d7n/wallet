@@ -1,1 +1,1 @@
-var mnemonic = "glare divide field before okay patrol apart cabin speed confirm critic aware";
+var mnemonic = "clay clump seat battle scatter lion ozone obscure stumble permit hurry art";

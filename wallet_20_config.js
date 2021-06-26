@@ -1,1 +1,1 @@
-var mnemonic = "rose destroy smart guess toy scout iron candy hurry kingdom panda lucky";
+var mnemonic = "margin inspire dutch miracle ugly town leg outside come forward upgrade song";

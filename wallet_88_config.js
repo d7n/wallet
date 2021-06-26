@@ -1,1 +1,1 @@
-var mnemonic = "wink anchor people marble electric rule soon pizza eagle where sick youth";
+var mnemonic = "vendor assume hip update recycle this budget right neglect attend someone under";

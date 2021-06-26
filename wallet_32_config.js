@@ -1,1 +1,1 @@
-var mnemonic = "sample economy desk ahead salad sausage sword tiger doll check stock debate";
+var mnemonic = "snake quantum young promote slender rose famous april other ramp tattoo shy";

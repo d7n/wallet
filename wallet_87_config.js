@@ -1,1 +1,1 @@
-var mnemonic = "good ability arena noise city maximum canvas reject decide agree warfare travel";
+var mnemonic = "brown detect fit hip position bus record airport vault kangaroo tooth skill";

@@ -1,1 +1,1 @@
-var mnemonic = "liberty gallery family denial friend close elder limit chef siren today vacuum";
+var mnemonic = "doll style ghost secret silver heavy object hobby innocent visual raven oval";

@@ -1,1 +1,1 @@
-var mnemonic = "airport whisper genius poem basket produce pyramid juice tank fine recycle carbon";
+var mnemonic = "credit segment survey acoustic margin skull load can body elbow direct evoke";

@@ -1,1 +1,1 @@
-var mnemonic = "brush account maple client dove have crumble slab message later merge ripple";
+var mnemonic = "receive start foam live middle quick casual cruel property example pluck tackle";

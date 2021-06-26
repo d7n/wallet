@@ -1,1 +1,1 @@
-var mnemonic = "hope online shift lobster rookie asthma honey offer fly define calm cupboard";
+var mnemonic = "fitness switch interest bundle pill pilot scorpion pledge pluck utility random keep";

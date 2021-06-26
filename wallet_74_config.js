@@ -1,1 +1,1 @@
-var mnemonic = "sample pledge iron present organ deny cash random worry crew antique feel";
+var mnemonic = "cereal fortune smooth gospel first layer this abandon firm crucial idea damp";

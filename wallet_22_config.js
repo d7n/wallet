@@ -1,1 +1,1 @@
-var mnemonic = "fade mesh aware diary bomb foil addict clap pizza firm birth coral";
+var mnemonic = "leisure jealous stand absurd ozone energy plate blood toast cabin monitor obey";

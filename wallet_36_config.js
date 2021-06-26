@@ -1,1 +1,1 @@
-var mnemonic = "reform gorilla destroy must weasel close razor expect moral patient glow rival";
+var mnemonic = "noodle name lesson brief crime sweet transfer child trip bundle essay minimum";

@@ -1,1 +1,1 @@
-var mnemonic = "gaze drop mirror chat actor trial error sure cinnamon kingdom sudden quarter";
+var mnemonic = "joy slush tragic venue panic depart give screen trumpet deny build false";

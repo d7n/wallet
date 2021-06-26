@@ -1,1 +1,1 @@
-var mnemonic = "garage coconut episode come science business member twenty mouse access seat front";
+var mnemonic = "organ fold ostrich repair famous soft come recycle candy ignore gas impulse";

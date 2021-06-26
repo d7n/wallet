@@ -1,1 +1,1 @@
-var mnemonic = "dish sail congress engage inch rebuild wrestle young tide open say cruise";
+var mnemonic = "dog unable general april fish write awful park service kingdom cat example";

@@ -1,1 +1,1 @@
-var mnemonic = "salad bid submit sunset company drama say nasty million tomorrow alien bronze";
+var mnemonic = "breeze dinosaur trophy book wet detail elite frequent sustain life around canoe";

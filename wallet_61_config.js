@@ -1,1 +1,1 @@
-var mnemonic = "inherit daughter club desk pulp tribe copper lunar sample blood film order";
+var mnemonic = "bamboo tank jewel organ enrich noise program engine true duty vivid atom";

@@ -1,1 +1,1 @@
-var mnemonic = "prize fabric dragon episode drastic gentle injury stage vote announce scrub discover";
+var mnemonic = "wasp valid fossil neither monitor include lazy flat virus pill prosper scrub";

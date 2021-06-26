@@ -1,1 +1,1 @@
-var mnemonic = "ready fabric network convince figure grit wage real nation diary ball globe";
+var mnemonic = "fog decade deny shed skin boy prevent edge rate filter diet rather";

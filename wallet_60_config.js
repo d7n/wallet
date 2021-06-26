@@ -1,1 +1,1 @@
-var mnemonic = "dry glow rude fatigue diamond position give program olympic beyond hotel arrange";
+var mnemonic = "scare blush viable try end crumble source any movie burden crucial skate";

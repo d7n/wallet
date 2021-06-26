@@ -1,1 +1,1 @@
-var mnemonic = "margin craft swap cost width argue human useless that arrive flower inflict";
+var mnemonic = "patch spray pulp blade energy essay lunch swift own mask surround ski";

@@ -1,1 +1,1 @@
-var mnemonic = "bottom educate stuff dinosaur rotate certain tool steel tackle volume level proof";
+var mnemonic = "fuel moon glass history seminar grocery chair beef rural behave icon diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "entry edge cause travel essence ball adult cheese swift write stool athlete";
+var mnemonic = "board couch price robot nurse upset scale ten stable elite whip tent";

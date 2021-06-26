@@ -1,1 +1,1 @@
-var mnemonic = "purchase depart museum flower decline pony bunker rack inner wait always wide";
+var mnemonic = "page clinic peasant rely urge office country powder absorb cargo jazz river";

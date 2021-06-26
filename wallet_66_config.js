@@ -1,1 +1,1 @@
-var mnemonic = "attitude idle short general limit game minimum chef nose crime winter supply";
+var mnemonic = "custom curve giant ecology casual green inner poem lend friend hidden antique";

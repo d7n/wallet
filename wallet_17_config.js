@@ -1,1 +1,1 @@
-var mnemonic = "search quiz zero spirit digital gadget image march parent advance better verb";
+var mnemonic = "jacket twist slab cause raw cave ocean effort sphere chair release soft";

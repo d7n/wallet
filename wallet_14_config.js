@@ -1,1 +1,1 @@
-var mnemonic = "math loyal divert sell grace turtle index family crash elbow lesson wheel";
+var mnemonic = "over bar tribe season cactus unfold pull soon grain barrel build wall";

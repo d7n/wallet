@@ -1,1 +1,1 @@
-var mnemonic = "baby pioneer actual exact arch detail clay clay detail twelve mad garden";
+var mnemonic = "document butter guitar admit angle beach stem any alpha ramp genre bracket";

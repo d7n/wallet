@@ -1,1 +1,1 @@
-var mnemonic = "before squirrel say social tell garage course exit proud wonder razor isolate";
+var mnemonic = "session sad dad student govern note diesel mushroom disorder sick stage nominee";

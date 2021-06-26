@@ -1,1 +1,1 @@
-var mnemonic = "clean oblige nasty bring finish menu install payment open slot six nature";
+var mnemonic = "supreme suspect dish long wish believe alert diary report culture ring pony";

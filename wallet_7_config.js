@@ -1,1 +1,1 @@
-var mnemonic = "shadow test lunch grow practice meat embrace talk domain select huge transfer";
+var mnemonic = "alien polar fancy bulb subway cram patch mixed awake armed satisfy lucky";

@@ -1,1 +1,1 @@
-var mnemonic = "yellow panda empower life north aerobic wolf patrol pause rent mix grass";
+var mnemonic = "better robot asthma unlock juice output sock asset dog glance tag crop";

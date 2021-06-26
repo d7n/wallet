@@ -1,1 +1,1 @@
-var mnemonic = "broccoli hard sail lobster insane predict churn service private library jelly prepare";
+var mnemonic = "airport avocado illness gift tail boss typical scene retreat injury mass fresh";

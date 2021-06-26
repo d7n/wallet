@@ -1,1 +1,1 @@
-var mnemonic = "prefer trial match razor pull sing zebra gloom rabbit circle march cube";
+var mnemonic = "jeans car clay noodle smile wheat rocket add say lend laugh domain";

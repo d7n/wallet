@@ -1,1 +1,1 @@
-var mnemonic = "marine doll smoke donor picture crouch basket smoke canyon hold quality exercise";
+var mnemonic = "identify tag swim stone empty tragic level pair sea nation abandon crunch";

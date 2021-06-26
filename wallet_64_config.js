@@ -1,1 +1,1 @@
-var mnemonic = "arch corn define bullet rather element gentle flower trigger prison fiber cat";
+var mnemonic = "wife six mother bleak fitness actual hidden judge canyon gallery party trash";

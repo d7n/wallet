@@ -1,1 +1,1 @@
-var mnemonic = "melt assault early mean medal celery material glare cook ginger venture cruise";
+var mnemonic = "design area cheese weapon traffic also excuse dumb awful swim more climb";

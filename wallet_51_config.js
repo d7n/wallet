@@ -1,1 +1,1 @@
-var mnemonic = "monitor scan exhaust cup fetch wait opera civil topic combine want conduct";
+var mnemonic = "narrow whip satoshi frog vehicle retire captain bronze include vague sausage toast";

@@ -1,1 +1,1 @@
-var mnemonic = "mammal hair peace notable point destroy capital local ship flight plastic face";
+var mnemonic = "license stick hospital away renew resemble cost insect pledge marriage address frost";

@@ -1,1 +1,1 @@
-var mnemonic = "drop net shop replace load cradle first moment coil boring ordinary child";
+var mnemonic = "cute engage foster another cherry convince pulse safe age bubble fragile hero";

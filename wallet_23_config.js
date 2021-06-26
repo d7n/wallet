@@ -1,1 +1,1 @@
-var mnemonic = "doctor opinion there word dirt topic display ginger caught surround castle flower";
+var mnemonic = "humor seed butter cram ticket magnet cloud scorpion organ bring risk today";

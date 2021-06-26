@@ -1,1 +1,1 @@
-var mnemonic = "exhibit angry vital stove affair wish april strike runway audit weasel pumpkin";
+var mnemonic = "umbrella race account chest punch educate clog hand law pause night portion";

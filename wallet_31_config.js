@@ -1,1 +1,1 @@
-var mnemonic = "melody draft security weekend orient still number resource garlic ball corn wagon";
+var mnemonic = "lake disorder awake height crush save cheese elevator sibling virus divert once";

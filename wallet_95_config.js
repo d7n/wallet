@@ -1,1 +1,1 @@
-var mnemonic = "lion paper bonus yard dice demise bottom stone couch butter laugh derive";
+var mnemonic = "guilt panther flat half garage dignity hat shy verb common final dinosaur";

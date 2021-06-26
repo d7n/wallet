@@ -1,1 +1,1 @@
-var mnemonic = "energy mind pause amateur answer bottom jewel such flower expire viable emotion";
+var mnemonic = "tragic eager crop brother false skin cover avocado matrix pattern night machine";

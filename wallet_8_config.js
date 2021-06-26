@@ -1,1 +1,1 @@
-var mnemonic = "search weasel foot dignity couple velvet such photo exile copy blouse hen";
+var mnemonic = "peanut survey table carry garment trouble dad upgrade air erupt deliver dash";

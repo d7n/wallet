@@ -1,1 +1,1 @@
-var mnemonic = "melody move shallow similar tiger pepper endorse cereal during remain visit live";
+var mnemonic = "fringe bitter range amateur vast talent warfare large waste chalk picture leg";

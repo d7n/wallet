@@ -1,1 +1,1 @@
-var mnemonic = "simple runway vacuum wheat obscure aware cry loud price scrub bubble awake";
+var mnemonic = "dynamic acoustic depth cotton thunder leopard love reunion reason august casino hover";

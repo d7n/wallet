@@ -1,1 +1,1 @@
-var mnemonic = "jungle zero funny ride crawl hedgehog vendor dance clock traffic olympic arrange";
+var mnemonic = "wet liquid weekend pipe marine hotel curve raise typical desk arm kiwi";

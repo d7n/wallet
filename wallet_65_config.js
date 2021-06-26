@@ -1,1 +1,1 @@
-var mnemonic = "toss blame critic spoil clinic master sleep vendor road road innocent churn";
+var mnemonic = "birth talent nut agent blur erosion boil pioneer apology edit proof visit";
