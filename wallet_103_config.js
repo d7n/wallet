@@ -1,1 +1,1 @@
-var mnemonic = "burden evoke view hover copper pepper off lazy anxiety vivid major document";
+var mnemonic = "carbon cheese hole staff seminar stairs wait eternal dignity pen nephew punch";

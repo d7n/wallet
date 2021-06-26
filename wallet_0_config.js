@@ -1,1 +1,1 @@
-var mnemonic = "school remind shove ignore now layer fiscal mushroom vintage brave jealous bracket";
+var mnemonic = "car share april eternal reflect senior resist regret flee east around ozone";

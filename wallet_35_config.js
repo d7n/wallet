@@ -1,1 +1,1 @@
-var mnemonic = "title receive move setup stone theme prize board lawsuit unveil museum scorpion";
+var mnemonic = "dismiss scatter try envelope theory note label wolf call denial snack allow";

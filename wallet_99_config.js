@@ -1,1 +1,1 @@
-var mnemonic = "engage room text skin require rail jazz supply afford endless brief achieve";
+var mnemonic = "reason wolf puppy old demand siege nest umbrella space wage stool horn";

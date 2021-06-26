@@ -1,1 +1,1 @@
-var mnemonic = "pole throw off power tool siren elegant summer copper position reunion lunar";
+var mnemonic = "worth snow simple suspect panther dinner harvest ask fix enforce fold mosquito";

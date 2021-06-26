@@ -1,1 +1,1 @@
-var mnemonic = "clown blame pool kite nuclear estate record shift moral ridge wise desert";
+var mnemonic = "grit garlic entry mule fitness kind vast abuse fat submit sea force";

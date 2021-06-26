@@ -1,1 +1,1 @@
-var mnemonic = "anger badge diary tobacco sunset indicate small minimum panic boat silent subway";
+var mnemonic = "mixture case unaware whisper cancel very nurse domain magnet mistake minor custom";

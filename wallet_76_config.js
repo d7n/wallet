@@ -1,1 +1,1 @@
-var mnemonic = "earn slender adjust street elegant purchase explain senior gold stereo host smoke";
+var mnemonic = "cat cluster twin jar tongue soon frown ride ribbon load minor enrich";

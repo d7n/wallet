@@ -1,1 +1,1 @@
-var mnemonic = "tuna enrich slim athlete vehicle unfold force attitude voice mosquito jelly notable";
+var mnemonic = "rack modify know scene announce warrior indoor kiss divide mimic holiday worth";

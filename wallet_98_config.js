@@ -1,1 +1,1 @@
-var mnemonic = "ask address cabin panda admit idea subway slush buddy hidden dress legal";
+var mnemonic = "vault child invite basic travel oven prefer fork rotate risk soft planet";

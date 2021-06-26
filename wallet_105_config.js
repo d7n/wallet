@@ -1,1 +1,1 @@
-var mnemonic = "dragon pause elegant birth release eyebrow lunch task theory shiver shy pistol";
+var mnemonic = "olive slab cotton minimum reform resemble rely train priority basket copper exist";

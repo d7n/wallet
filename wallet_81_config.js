@@ -1,1 +1,1 @@
-var mnemonic = "know enroll glory thrive flight travel moral check gold illegal peanut diet";
+var mnemonic = "stool short extend reflect jar town crazy virus marble million permit tomato";

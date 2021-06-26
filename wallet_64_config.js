@@ -1,1 +1,1 @@
-var mnemonic = "vocal physical purpose family timber select phone assist wagon boring sunny drastic";
+var mnemonic = "banana cactus glory drum dash slab one ice also math surge only";

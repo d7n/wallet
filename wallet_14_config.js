@@ -1,1 +1,1 @@
-var mnemonic = "mind walnut tissue empower amateur harsh video retreat day fiction dune legal";
+var mnemonic = "loud stereo old dirt boy pigeon describe total street coffee jacket faculty";

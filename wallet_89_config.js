@@ -1,1 +1,1 @@
-var mnemonic = "make dinosaur shine awesome inflict reduce only legend tube police lunar unable";
+var mnemonic = "iron sketch industry lounge primary raise sponsor gentle rookie section place top";

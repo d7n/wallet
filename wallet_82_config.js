@@ -1,1 +1,1 @@
-var mnemonic = "zone void change alone strike agree sign fiction torch erase jealous almost";
+var mnemonic = "page shaft all genius scale village clap episode pudding what bomb true";

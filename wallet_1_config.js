@@ -1,1 +1,1 @@
-var mnemonic = "tackle consider cigar music rural fury update crunch winner resemble fan spend";
+var mnemonic = "noodle atom correct require legal ecology pottery brief science vault focus pave";

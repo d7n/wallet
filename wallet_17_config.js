@@ -1,1 +1,1 @@
-var mnemonic = "spider recall monster rule beauty drum fossil remind sort boat lava asthma";
+var mnemonic = "click negative panda mix ship accident coffee repeat trap novel tortoise few";

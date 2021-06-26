@@ -1,1 +1,1 @@
-var mnemonic = "process month flee grief message eternal wait solar best daughter oxygen immense";
+var mnemonic = "suggest shove effort appear reward lawn canoe grit antique mutual tilt sense";

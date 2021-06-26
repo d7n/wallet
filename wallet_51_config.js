@@ -1,1 +1,1 @@
-var mnemonic = "plastic already round usual march never sound taxi resemble limit pilot shiver";
+var mnemonic = "human style huge swift welcome retreat zero skill shine brand catalog culture";

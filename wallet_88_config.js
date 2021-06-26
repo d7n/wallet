@@ -1,1 +1,1 @@
-var mnemonic = "economy plug range industry unique second essence ordinary still change across silly";
+var mnemonic = "stem owner salad include ice winter state please spike damp pelican artefact";

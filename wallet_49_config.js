@@ -1,1 +1,1 @@
-var mnemonic = "strategy hawk copy stomach blind clean staff toss memory hold mom eagle";
+var mnemonic = "snow finger twice stamp cupboard tiny syrup road cross subway crumble jeans";

@@ -1,1 +1,1 @@
-var mnemonic = "supply noodle typical spare lend pen execute candy scatter raw token give";
+var mnemonic = "senior bird vast scare rapid couch curtain welcome smile inflict wonder figure";

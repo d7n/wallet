@@ -1,1 +1,1 @@
-var mnemonic = "lumber target friend reflect distance second flock identify excite unknown guard actual";
+var mnemonic = "note child demise electric amateur august sight frozen monster hope flag traffic";

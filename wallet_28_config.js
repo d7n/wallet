@@ -1,1 +1,1 @@
-var mnemonic = "dutch short pipe joke advance gym once note judge load novel hat";
+var mnemonic = "puppy live entry piano clap legal lift eye scatter digital sugar message";

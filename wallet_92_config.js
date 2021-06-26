@@ -1,1 +1,1 @@
-var mnemonic = "sad recipe monster east wrist ugly leaf scrap violin mom wedding point";
+var mnemonic = "cattle ring cousin hour brisk ten glad lyrics try absent donor acoustic";

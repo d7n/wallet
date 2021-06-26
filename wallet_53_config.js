@@ -1,1 +1,1 @@
-var mnemonic = "cargo plate cabin sponsor version acid there tornado cactus raccoon rally afraid";
+var mnemonic = "arrive review cradle garden pass service athlete summer upset detail rookie health";

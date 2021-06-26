@@ -1,1 +1,1 @@
-var mnemonic = "width gravity rebuild state cloth hen space achieve maze exotic amazing duty";
+var mnemonic = "march dinosaur hole mushroom earn appear danger shallow flat spice embrace innocent";

@@ -1,1 +1,1 @@
-var mnemonic = "donkey hybrid omit pipe laugh alone tail junk where token wolf only";
+var mnemonic = "solid patrol shine excuse become velvet spirit borrow already tourist render invite";

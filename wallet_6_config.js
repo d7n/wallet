@@ -1,1 +1,1 @@
-var mnemonic = "donate twelve rural jaguar stomach reopen method amount magic wolf slot swim";
+var mnemonic = "stand this present abuse disorder spice business fetch pizza forest curious ranch";

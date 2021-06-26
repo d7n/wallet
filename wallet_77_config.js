@@ -1,1 +1,1 @@
-var mnemonic = "render round urban oblige engine seek erosion rough labor ten shallow motor";
+var mnemonic = "until subway board strike crawl exclude drastic drum learn birth identify quantum";

@@ -1,1 +1,1 @@
-var mnemonic = "weather fragile swallow two analyst way lucky remove fiction section absurd canyon";
+var mnemonic = "delay frog friend phrase scheme soup key clinic unfold crouch mountain give";

@@ -1,1 +1,1 @@
-var mnemonic = "pond shiver embark brother comic girl arena clay prison bright page anxiety";
+var mnemonic = "treat float screen mutual magic angry panda soccer south faith clutch average";

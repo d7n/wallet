@@ -1,1 +1,1 @@
-var mnemonic = "mesh scene outdoor lucky master draft curve flip album settle hard boil";
+var mnemonic = "input sad ahead orphan trip boost kick first client also chunk bamboo";

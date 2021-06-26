@@ -1,1 +1,1 @@
-var mnemonic = "shoe trash angry carbon gasp wool carbon develop sort salt twenty inspire";
+var mnemonic = "language pretty connect dismiss junior jungle hard custom fever ozone girl diamond";

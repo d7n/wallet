@@ -1,1 +1,1 @@
-var mnemonic = "draft recipe error bundle gallery review rare chuckle hover fiber hint animal";
+var mnemonic = "drastic flavor ocean rhythm adapt exotic return narrow rigid faith prosper chaos";

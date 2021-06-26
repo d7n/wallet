@@ -1,1 +1,1 @@
-var mnemonic = "trend almost path faint trouble party roof mimic indicate correct siren canyon";
+var mnemonic = "clown laundry chimney pink project census hold list grief bonus table indicate";

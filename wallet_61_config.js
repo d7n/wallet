@@ -1,1 +1,1 @@
-var mnemonic = "muffin segment suspect nature snap gather popular type misery silver blast business";
+var mnemonic = "rib romance chuckle patch legal reunion rally usage year candy twice fall";

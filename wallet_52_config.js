@@ -1,1 +1,1 @@
-var mnemonic = "win various furnace dream panda lab clap casual oyster improve hope fetch";
+var mnemonic = "plate jungle angry woman empower split issue surge law brief food sock";

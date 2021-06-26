@@ -1,1 +1,1 @@
-var mnemonic = "prison satisfy glad trade script fantasy boy insect display obtain kiss toss";
+var mnemonic = "proof lake hello plunge logic kiwi melt choose cluster curtain comic caution";

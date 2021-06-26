@@ -1,1 +1,1 @@
-var mnemonic = "coral remember dirt hair pledge burden enemy actress doctor parade lawsuit lunar";
+var mnemonic = "slogan awake sudden anchor shift response inject village hero voyage circle flock";

@@ -1,1 +1,1 @@
-var mnemonic = "project rail market fresh absurd subway sword suggest table web decline perfect";
+var mnemonic = "alcohol essence wine source match arctic captain ball coast century real used";

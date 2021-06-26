@@ -1,1 +1,1 @@
-var mnemonic = "coach name work spatial drop dove dinner result visit caught slam dirt";
+var mnemonic = "ice hero giggle party spider salute matter unknown suit vague tackle flame";

@@ -1,1 +1,1 @@
-var mnemonic = "pizza close soap output decline atom wreck bulk cruel hip napkin review";
+var mnemonic = "lottery cause tone senior unveil found express reduce sting couch bonus base";

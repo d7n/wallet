@@ -1,1 +1,1 @@
-var mnemonic = "chief pretty moon scale clump leaf analyst when random act rival wet";
+var mnemonic = "hybrid execute large helmet gospel master proof defy orbit avoid rate glove";

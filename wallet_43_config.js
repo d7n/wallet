@@ -1,1 +1,1 @@
-var mnemonic = "tissue kitchen route enact ski token fold romance chaos surface during hand";
+var mnemonic = "sting coffee blossom asset crew clerk lend label lobster inner fiscal swallow";

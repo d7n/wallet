@@ -1,1 +1,1 @@
-var mnemonic = "gossip hair tennis ivory warrior enjoy job inside lady eyebrow long raccoon";
+var mnemonic = "sun marine stone aunt fantasy lesson believe mistake royal dwarf notice divorce";

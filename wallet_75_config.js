@@ -1,1 +1,1 @@
-var mnemonic = "siren order pony soldier rich air please wave fun coffee turkey cycle";
+var mnemonic = "loan cat they limit vessel wine embrace dry tornado movie stool cargo";

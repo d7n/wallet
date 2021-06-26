@@ -1,1 +1,1 @@
-var mnemonic = "mesh depart tiny rail rookie sound noodle magic under tide transfer range";
+var mnemonic = "shoulder eight unknown right upon cave strong shrimp neither drive evidence turkey";

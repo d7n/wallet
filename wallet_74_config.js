@@ -1,1 +1,1 @@
-var mnemonic = "client night lab horn mesh reopen name unique combine similar motor what";
+var mnemonic = "swamp coyote clock rapid frog airport vessel decline head rich later idea";

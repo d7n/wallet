@@ -1,1 +1,1 @@
-var mnemonic = "ten small ecology spice equip law number scrap inquiry diagram betray nose";
+var mnemonic = "corn range laugh gym display early intact chest foil lake category way";

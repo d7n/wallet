@@ -1,1 +1,1 @@
-var mnemonic = "invite arrive orbit curve diagram vote parrot fire lonely view sister abstract";
+var mnemonic = "name point exclude blood ugly hybrid print solar trouble yard weather blue";

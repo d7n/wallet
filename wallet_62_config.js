@@ -1,1 +1,1 @@
-var mnemonic = "hamster exit ensure talk husband polar bar glass merry adult goose beef";
+var mnemonic = "pole deposit staff cost more afford dream coil review outdoor close gentle";

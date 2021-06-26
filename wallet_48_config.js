@@ -1,1 +1,1 @@
-var mnemonic = "video radar august girl identify easy power butter network lobster pumpkin define";
+var mnemonic = "immune course clog ozone enter clump squeeze dry defense wisdom soft mean";

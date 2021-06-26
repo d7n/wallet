@@ -1,1 +1,1 @@
-var mnemonic = "demand shove inspire merit actress huge raven spike bubble upgrade style express";
+var mnemonic = "grass favorite orbit wire turtle fat happy balcony panic note that width";

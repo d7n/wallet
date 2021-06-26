@@ -1,1 +1,1 @@
-var mnemonic = "hint transfer palm obvious alley elephant appear faint treat guilt switch dinner";
+var mnemonic = "fun ocean dinner today little potato divide bid safe gloom effort crowd";

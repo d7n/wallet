@@ -1,1 +1,1 @@
-var mnemonic = "view version window brisk combine track pair anchor drive jazz able canvas";
+var mnemonic = "coconut lock pledge fog penalty blade price medal invite base gate network";

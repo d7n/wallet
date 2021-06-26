@@ -1,1 +1,1 @@
-var mnemonic = "train end like air evidence three buyer usual leaf cargo frog annual";
+var mnemonic = "float lock indicate robust bullet mule style kick toilet couple prosper office";

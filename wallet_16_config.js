@@ -1,1 +1,1 @@
-var mnemonic = "rain frequent oyster immense exclude nasty bird endorse thank hunt draft catch";
+var mnemonic = "raven spot disease aware replace evolve fluid zoo unknown confirm tiny way";

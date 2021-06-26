@@ -1,1 +1,1 @@
-var mnemonic = "balcony truly foil spend enter wage attitude sword skin leader ocean theme";
+var mnemonic = "quick bomb glance rose frog work era snake reject helmet zone infant";

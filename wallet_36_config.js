@@ -1,1 +1,1 @@
-var mnemonic = "claw yard brain alter crawl dog fringe absorb mesh insect average provide";
+var mnemonic = "powder deputy own pride appear hawk virus skate loyal bacon crunch marriage";

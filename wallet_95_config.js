@@ -1,1 +1,1 @@
-var mnemonic = "eye brother argue frog action stairs stable fan virus tourist someone decorate";
+var mnemonic = "combine blood heart segment toddler snap federal hunt spawn morning snack volcano";

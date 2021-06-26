@@ -1,1 +1,1 @@
-var mnemonic = "scale sketch dove lounge ghost cargo tongue impulse eternal old hint melt";
+var mnemonic = "property render eager lava course helmet time truly orchard legal elephant sport";

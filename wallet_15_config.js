@@ -1,1 +1,1 @@
-var mnemonic = "sign move inmate rough cycle yellow lucky lawn control fury rocket brand";
+var mnemonic = "run scout column lazy raven fit lens peasant unaware tobacco depend mind";

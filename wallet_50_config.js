@@ -1,1 +1,1 @@
-var mnemonic = "shy river cereal rotate blanket sad improve jeans actor basket flock pig";
+var mnemonic = "culture ribbon pluck insane fame vote diet relax issue trend liberty blade";

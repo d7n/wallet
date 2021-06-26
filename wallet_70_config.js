@@ -1,1 +1,1 @@
-var mnemonic = "rubber chuckle fabric tag kingdom vehicle worry guilt skill raw donkey stadium";
+var mnemonic = "already prepare roof farm slush pink water maple either month elite olympic";

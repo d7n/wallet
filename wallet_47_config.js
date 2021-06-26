@@ -1,1 +1,1 @@
-var mnemonic = "mandate satisfy clean rent series student armed wrong balcony toast atom assist";
+var mnemonic = "chimney cinnamon summer bubble core harbor about rate seminar river invest local";

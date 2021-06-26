@@ -1,1 +1,1 @@
-var mnemonic = "lemon earn blossom unaware ripple sand trick keen kit broom potato velvet";
+var mnemonic = "pony option tonight quantum photo weasel obey extend doll toss define replace";

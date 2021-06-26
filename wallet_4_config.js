@@ -1,1 +1,1 @@
-var mnemonic = "turtle gas inquiry cheap master mix disease ahead brass chapter desk rail";
+var mnemonic = "tornado admit mango garlic alien run gather digital twin peace wonder already";

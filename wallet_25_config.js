@@ -1,1 +1,1 @@
-var mnemonic = "carry venture tissue faculty report shrug region rather cat frog regular taste";
+var mnemonic = "peanut flash seek health girl gun carpet uphold latin genius crack exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "short adult into corn sweet angle virtual blanket tennis labor dutch rival";
+var mnemonic = "hungry connect balance limit phone puppy stairs permit smile push damp garbage";

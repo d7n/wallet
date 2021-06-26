@@ -1,1 +1,1 @@
-var mnemonic = "language extend kidney cupboard benefit chase boil miss attend matrix mask trick";
+var mnemonic = "lens clarify obvious alcohol another swamp staff stick gather trim fitness satisfy";

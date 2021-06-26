@@ -1,1 +1,1 @@
-var mnemonic = "beach buffalo sea arrange crystal access cook card turkey flame enrich hazard";
+var mnemonic = "waste kid expose frozen interest try cattle ostrich grief course satoshi panic";

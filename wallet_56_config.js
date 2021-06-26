@@ -1,1 +1,1 @@
-var mnemonic = "thrive avoid trip tower hand harsh candy list vintage pond viable mango";
+var mnemonic = "peanut post relief grunt drift blouse private left quit tumble scout cotton";

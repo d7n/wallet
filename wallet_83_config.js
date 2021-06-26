@@ -1,1 +1,1 @@
-var mnemonic = "wait seed decorate move lobster track scout danger walk process key horror";
+var mnemonic = "tortoise woman crunch pause hole elevator clutch dune select fiction jacket purchase";

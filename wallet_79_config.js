@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin round wisdom fetch fortune live hole omit skull book carbon steel";
+var mnemonic = "dance town gun phrase quarter update face draw enter denial onion exercise";

@@ -1,1 +1,1 @@
-var mnemonic = "calm fiscal portion pulp paddle this network pair level sheriff cave viable";
+var mnemonic = "thunder afford illegal culture video kite engine forum turkey diary aunt glimpse";

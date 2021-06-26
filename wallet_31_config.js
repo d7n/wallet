@@ -1,1 +1,1 @@
-var mnemonic = "output decide thunder canoe antenna inflict fluid armor depart motor swift choose";
+var mnemonic = "attack eternal hamster cactus web pyramid base page cinnamon sheriff worth mountain";

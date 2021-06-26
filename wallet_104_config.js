@@ -1,1 +1,1 @@
-var mnemonic = "minute intact atom broom stem popular emotion wreck ladder certain primary fork";
+var mnemonic = "rebel genre master trophy salad carpet glare vast arena acid dog hip";

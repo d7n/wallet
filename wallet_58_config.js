@@ -1,1 +1,1 @@
-var mnemonic = "cable toward awful under credit awful over duty mixture response protect riot";
+var mnemonic = "famous visit switch client latin push job weekend ten earn better embrace";

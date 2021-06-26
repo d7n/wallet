@@ -1,1 +1,1 @@
-var mnemonic = "escape puppy accident nature dirt winner else cousin order quote run pepper";
+var mnemonic = "earn model design noble network lunch trust spatial aware first payment client";

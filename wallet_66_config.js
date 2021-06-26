@@ -1,1 +1,1 @@
-var mnemonic = "piano panda seminar credit extra provide innocent item ladder bench naive kit";
+var mnemonic = "crush worry veteran cargo vibrant valve horror erupt before rural tray horse";

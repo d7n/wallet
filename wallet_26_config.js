@@ -1,1 +1,1 @@
-var mnemonic = "sword sure cherry wrap hybrid deny proof quarter remain surface cotton type";
+var mnemonic = "physical general talent timber song nose violin grace obscure shallow outside weapon";

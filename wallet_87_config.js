@@ -1,1 +1,1 @@
-var mnemonic = "unaware bench naive match approve wine repeat false else diet maple arrive";
+var mnemonic = "twin goat audit inch fringe split bottom minor frame business gown unaware";
