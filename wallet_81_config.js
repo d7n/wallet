@@ -1,1 +1,1 @@
-var mnemonic = "army ticket gasp afraid treat shell shine liar version ahead federal action";
+var mnemonic = "myself panther party shy seed dust hammer crime panda border urge alien";

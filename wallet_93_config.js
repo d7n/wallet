@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo cotton garlic just music series stick make tonight myth art stone";
+var mnemonic = "green horse wood vessel slam into license develop fatal celery resist mutual";

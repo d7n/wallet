@@ -1,1 +1,1 @@
-var mnemonic = "hour casual escape sail steel now rice first magnet phrase amateur inner";
+var mnemonic = "share deposit maze wrap cluster wave quote can bean page light gasp";

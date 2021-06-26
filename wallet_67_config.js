@@ -1,1 +1,1 @@
-var mnemonic = "bunker pink kiss diet change snake female course trash away torch napkin";
+var mnemonic = "repair pelican ramp frog acquire index subject soldier time describe popular velvet";

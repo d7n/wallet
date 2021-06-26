@@ -1,1 +1,1 @@
-var mnemonic = "shove vital run dust divert mule build lemon enhance cereal fancy pill";
+var mnemonic = "ride loud wire track guide catalog arrange garment relax helmet fruit picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "window patch emotion pact awful sign toast frost myself mesh crazy opera";
+var mnemonic = "start trend prevent knee situate soon want pioneer exhibit option calm ride";

@@ -1,1 +1,1 @@
-var mnemonic = "correct scare earn trend account inhale person home outdoor dove ancient loan";
+var mnemonic = "lemon glance name hand cement indoor blossom pause dish hobby sea dish";

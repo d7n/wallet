@@ -1,1 +1,1 @@
-var mnemonic = "anchor memory merge boat furnace drama fancy scare mercy library select vicious";
+var mnemonic = "average deal power donor gospel helmet track stable keep prefer clinic attend";

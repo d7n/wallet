@@ -1,1 +1,1 @@
-var mnemonic = "result innocent lizard problem honey during mosquito pipe extend sport vivid forest";
+var mnemonic = "explain seven hazard wish absurd wish crash umbrella owner choice jacket defense";

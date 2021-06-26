@@ -1,1 +1,1 @@
-var mnemonic = "reward enlist hybrid always identify chapter rely space bitter merit glimpse fork";
+var mnemonic = "reduce robot morning legal shock boil minor music scrub spider hand love";

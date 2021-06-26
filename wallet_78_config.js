@@ -1,1 +1,1 @@
-var mnemonic = "zone milk chase lecture employ whale wagon prefer goddess stone thrive guilt";
+var mnemonic = "sing post differ sibling ability slam virus eight curtain crunch oblige foil";

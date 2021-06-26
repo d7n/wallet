@@ -1,1 +1,1 @@
-var mnemonic = "yellow sock select stamp pistol fire early all pull salon stem diary";
+var mnemonic = "fat swim general pluck moment mansion know reward mistake upset photo trap";

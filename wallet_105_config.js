@@ -1,1 +1,1 @@
-var mnemonic = "more crawl exact piece lab once cook embrace reopen illegal sound stove";
+var mnemonic = "wasp apple avoid patient wait attend wish govern ritual super muscle boring";

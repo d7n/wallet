@@ -1,1 +1,1 @@
-var mnemonic = "jeans since current debris fossil office mobile start pizza orbit trouble settle";
+var mnemonic = "vast turtle dignity win duty carpet devote result junk casual cause account";

@@ -1,1 +1,1 @@
-var mnemonic = "census tower crew dynamic float trade lake nose flavor sense punch purity";
+var mnemonic = "auction lock dose feature cannon bounce body eyebrow usual injury above source";

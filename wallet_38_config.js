@@ -1,1 +1,1 @@
-var mnemonic = "machine offer void purchase pitch retire era tip stamp tragic tissue cereal";
+var mnemonic = "yard tunnel relief dumb rival cloth ill win stove biology wood hawk";

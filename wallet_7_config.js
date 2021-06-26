@@ -1,1 +1,1 @@
-var mnemonic = "multiply pumpkin trash risk depart identify wrap armed pudding seed boost rapid";
+var mnemonic = "east salute nut crawl void oak ranch jungle pioneer egg winter neither";

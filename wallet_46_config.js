@@ -1,1 +1,1 @@
-var mnemonic = "mirror luggage hen hat lift convince glare final render rookie lawsuit clap";
+var mnemonic = "make flat venture bike cover sing enforce phrase horror visual poet ignore";

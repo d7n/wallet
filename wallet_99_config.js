@@ -1,1 +1,1 @@
-var mnemonic = "nature civil admit lamp slender opinion sense supply quality steak muffin suspect";
+var mnemonic = "harbor gossip much process reward end gauge you pepper soldier small crazy";

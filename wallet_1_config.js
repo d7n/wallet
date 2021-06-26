@@ -1,1 +1,1 @@
-var mnemonic = "warm kidney tissue cruel trend melt prize merge trim urge dial immune";
+var mnemonic = "leg urge buddy color onion rebuild disagree deputy catch secret hello original";

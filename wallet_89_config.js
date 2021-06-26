@@ -1,1 +1,1 @@
-var mnemonic = "equip unlock gap spin island betray zone tape napkin wheat choose stand";
+var mnemonic = "lens welcome refuse ghost profit note hip seven enjoy beauty pig leopard";

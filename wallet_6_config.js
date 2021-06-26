@@ -1,1 +1,1 @@
-var mnemonic = "milk truly biology real scheme biology poem load shell number release shrimp";
+var mnemonic = "ill recall birth south correct rich such spice summer zebra erupt tide";

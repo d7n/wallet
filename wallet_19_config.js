@@ -1,1 +1,1 @@
-var mnemonic = "tribe decline since guide aunt enforce use salmon traffic grant call wild";
+var mnemonic = "fever rifle always steak relief pilot steel brand comic festival anxiety bench";

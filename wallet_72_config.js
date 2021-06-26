@@ -1,1 +1,1 @@
-var mnemonic = "large adapt course acoustic october infant canyon novel unable tent blade yard";
+var mnemonic = "work apology balcony opera mule crystal ignore giant near security excuse correct";

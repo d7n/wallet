@@ -1,1 +1,1 @@
-var mnemonic = "rebel move tape friend improve employ message ability about clarify pulse addict";
+var mnemonic = "naive health economy what divide chaos sea page doll raven topple half";

@@ -1,1 +1,1 @@
-var mnemonic = "advance frame time affair upgrade waste second actual debris school hungry media";
+var mnemonic = "assist elder rice outside off supreme evil truck aspect inch topic width";

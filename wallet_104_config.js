@@ -1,1 +1,1 @@
-var mnemonic = "endless bracket fancy reflect you fence dwarf snack shine seat wise gospel";
+var mnemonic = "bike gentle stairs grab sleep damage brisk awful cake biology opinion prosper";

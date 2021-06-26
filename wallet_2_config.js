@@ -1,1 +1,1 @@
-var mnemonic = "roof leopard taxi naive machine era cement olive fit glue dance perfect";
+var mnemonic = "dust prison athlete pen deal skirt border music top picture absent pause";

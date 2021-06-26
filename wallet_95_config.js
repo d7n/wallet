@@ -1,1 +1,1 @@
-var mnemonic = "brand hamster laptop rocket trim prevent rent output album endorse treat spoon";
+var mnemonic = "talent hobby rail cream ten diary pepper ecology shrimp illness vivid crucial";

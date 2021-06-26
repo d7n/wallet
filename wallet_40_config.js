@@ -1,1 +1,1 @@
-var mnemonic = "book judge license heavy drama blossom lady hurry gather hurry cinnamon craft";
+var mnemonic = "health admit super security skull venue rebel capable rookie prepare found hint";

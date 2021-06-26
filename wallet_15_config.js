@@ -1,1 +1,1 @@
-var mnemonic = "excuse palace potato spin close ladder august equal cluster height movie welcome";
+var mnemonic = "female caught kangaroo angry accuse gate agree zone daughter ten relief intact";

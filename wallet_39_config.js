@@ -1,1 +1,1 @@
-var mnemonic = "enlist distance judge mammal club mechanic super sugar shift risk wrap figure";
+var mnemonic = "proud decorate stadium ship infant year dinner together velvet trial carry remind";

@@ -1,1 +1,1 @@
-var mnemonic = "refuse curve food clown viable twin cigar thank pledge imitate main tomorrow";
+var mnemonic = "away green eight enroll grief differ under custom idle inside polar equip";

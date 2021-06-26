@@ -1,1 +1,1 @@
-var mnemonic = "ethics steak grace key square have cube rifle slogan alone ocean van";
+var mnemonic = "ask cotton render mimic scale palace cricket fence attitude hidden infant juice";

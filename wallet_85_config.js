@@ -1,1 +1,1 @@
-var mnemonic = "inside agree canal trouble fitness town page asset move fat shoulder rack";
+var mnemonic = "clinic engine hazard will vote woman that armed liquid bonus fantasy jewel";

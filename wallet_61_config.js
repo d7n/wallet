@@ -1,1 +1,1 @@
-var mnemonic = "country switch dose absorb prepare extra toss autumn anchor service dad elder";
+var mnemonic = "cancel first pig canal shine umbrella ship fold history travel fiber trigger";

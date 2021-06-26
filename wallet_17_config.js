@@ -1,1 +1,1 @@
-var mnemonic = "coin labor dinosaur rifle program lab despair intact device vote aspect marine";
+var mnemonic = "aunt quarter pattern ivory giggle umbrella manual kick museum payment hope virus";

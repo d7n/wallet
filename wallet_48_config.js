@@ -1,1 +1,1 @@
-var mnemonic = "cruise present link stay dignity rabbit wild pool future almost laugh inch";
+var mnemonic = "agent illness capital garlic tide thunder topic hip camera loan one remind";

@@ -1,1 +1,1 @@
-var mnemonic = "climb private shield option order execute capital public symptom camp evidence early";
+var mnemonic = "throw awful bread cable subject grid group suspect trend upper fun false";

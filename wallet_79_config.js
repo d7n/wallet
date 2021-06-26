@@ -1,1 +1,1 @@
-var mnemonic = "limit before town group swamp involve cage fiber amateur monitor promote boil";
+var mnemonic = "gauge coral speed behind onion school recipe success virus away uncle print";

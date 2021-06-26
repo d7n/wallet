@@ -1,1 +1,1 @@
-var mnemonic = "cruel magnet happy mean mix claim glare pig audit error beach deputy";
+var mnemonic = "dream only bar degree chalk auction video link hazard harbor almost year";

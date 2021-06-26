@@ -1,1 +1,1 @@
-var mnemonic = "merit zero cloth curious there kidney sponsor forum alpha rough ocean trophy";
+var mnemonic = "menu twenty gorilla naive pill wagon treat square drastic vague math toilet";

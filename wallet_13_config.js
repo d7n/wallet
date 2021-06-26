@@ -1,1 +1,1 @@
-var mnemonic = "donkey outdoor clip method visit pulse core reunion educate aim clip army";
+var mnemonic = "access deer gaze eye few whisper spring reopen float dress disagree office";

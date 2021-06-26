@@ -1,1 +1,1 @@
-var mnemonic = "emerge leopard slow erode cool belt night alone little number boost place";
+var mnemonic = "theme observe phrase sword depart nation advance mom prevent like vacant fresh";

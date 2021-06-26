@@ -1,1 +1,1 @@
-var mnemonic = "midnight they athlete blast wet soap clerk insane clay hello rent onion";
+var mnemonic = "solve horror west heavy prosper picnic man screen borrow degree mercy bubble";

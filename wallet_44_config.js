@@ -1,1 +1,1 @@
-var mnemonic = "medal excuse globe best duty dizzy loyal recall asthma salad kingdom organ";
+var mnemonic = "cause festival audit loop clown result sorry forest empower coral stamp elbow";

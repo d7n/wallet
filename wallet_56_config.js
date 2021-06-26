@@ -1,1 +1,1 @@
-var mnemonic = "hero essay swing negative wall suit whip rice earth degree valve exotic";
+var mnemonic = "ice cloud balcony ocean aspect situate autumn bring parade amazing leopard immune";

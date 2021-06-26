@@ -1,1 +1,1 @@
-var mnemonic = "fix stool type glare smart wonder live blossom enforce appear huge pink";
+var mnemonic = "ring fragile steak pig cereal stairs carry fame recycle car shop bamboo";

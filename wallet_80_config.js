@@ -1,1 +1,1 @@
-var mnemonic = "erode exotic doctor victory humor squirrel economy name neutral butter october crumble";
+var mnemonic = "ship fox romance neutral another snake trumpet cram replace confirm wild entire";

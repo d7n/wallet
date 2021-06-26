@@ -1,1 +1,1 @@
-var mnemonic = "actress sail panther retire attitude foot mind ugly fossil patient beyond appear";
+var mnemonic = "slow orange film cube bid mammal various loan banner taxi build when";

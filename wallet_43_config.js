@@ -1,1 +1,1 @@
-var mnemonic = "era tuna stereo lucky pulse coil copper frost abandon goose state donkey";
+var mnemonic = "hurdle praise mean galaxy series hundred satisfy water sort skirt spring surge";

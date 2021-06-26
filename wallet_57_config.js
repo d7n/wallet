@@ -1,1 +1,1 @@
-var mnemonic = "fall own genius tag mystery regret bubble ice smart remind bean maple";
+var mnemonic = "draw kick strategy cliff month unique left dust cause around spot surprise";

@@ -1,1 +1,1 @@
-var mnemonic = "depart deposit leave sample reopen exhaust draft bulk between lecture wild silent";
+var mnemonic = "beyond improve actor sketch follow throw session permit egg lucky recycle lawn";

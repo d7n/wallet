@@ -1,1 +1,1 @@
-var mnemonic = "sweet kick phrase sorry top payment profit rebel torch piano treat anxiety";
+var mnemonic = "art patient prison render pride among soccer nut balcony captain student ribbon";

@@ -1,1 +1,1 @@
-var mnemonic = "actress puzzle mail morning theory lobster index people solution among nerve taxi";
+var mnemonic = "avoid grape pudding play curtain cat wool fragile tube laugh alone forum";

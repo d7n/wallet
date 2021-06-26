@@ -1,1 +1,1 @@
-var mnemonic = "baby verify scrub dance cradle moon daughter volume regular frog coast text";
+var mnemonic = "asthma rug mean slow inner grow flag south used pattern survey galaxy";

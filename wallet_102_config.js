@@ -1,1 +1,1 @@
-var mnemonic = "cheese digital section give urge smooth opinion section ahead frame split own";
+var mnemonic = "false metal slot hair october mountain pigeon pitch item enjoy glory supply";

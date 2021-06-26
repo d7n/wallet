@@ -1,1 +1,1 @@
-var mnemonic = "update gas sentence flavor educate huge distance cry suffer know more ivory";
+var mnemonic = "kind sunset disorder spawn swear detect toss potato speak hunt advance fan";

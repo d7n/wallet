@@ -1,1 +1,1 @@
-var mnemonic = "spot organ spoon orbit maple same boy public boring boring dutch ethics";
+var mnemonic = "fan shy mercy cause verify film business obtain please advance chef control";

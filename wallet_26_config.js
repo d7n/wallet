@@ -1,1 +1,1 @@
-var mnemonic = "ice snow inherit various infant accident motor smart forum sing gate cotton";
+var mnemonic = "final raccoon clown grant proud punch distance frost neither bamboo front frown";

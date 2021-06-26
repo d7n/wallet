@@ -1,1 +1,1 @@
-var mnemonic = "grain sunset bitter orphan between jaguar unable theory seek tail excess shallow";
+var mnemonic = "foam chimney finish brush birth lonely energy benefit energy broccoli prosper virtual";

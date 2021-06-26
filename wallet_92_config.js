@@ -1,1 +1,1 @@
-var mnemonic = "copy private uncle shoulder ocean primary purse sport pet travel orange unique";
+var mnemonic = "clump result twenty vast fiber private deer clever prefer radar fee snap";

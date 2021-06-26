@@ -1,1 +1,1 @@
-var mnemonic = "camera gauge height faith age rescue spin struggle beef fun donkey question";
+var mnemonic = "spawn piece reopen outer type brief paddle fiscal extra damage rapid address";

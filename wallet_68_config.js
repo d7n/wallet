@@ -1,1 +1,1 @@
-var mnemonic = "nasty soup organ solid phone work leaf file gun punch tag cattle";
+var mnemonic = "never breeze wait section screen knife noble estate verb assist denial season";

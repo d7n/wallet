@@ -1,1 +1,1 @@
-var mnemonic = "owner caught chalk talent monster tortoise more permit weekend odor stomach buddy";
+var mnemonic = "unknown coconut draw together fee until hen inherit tray ranch raven bus";

@@ -1,1 +1,1 @@
-var mnemonic = "taste happy grit tag error frost eye ankle apple decade oppose tooth";
+var mnemonic = "stick aerobic aisle crumble runway torch carbon tattoo letter garlic tiny injury";

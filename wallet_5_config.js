@@ -1,1 +1,1 @@
-var mnemonic = "witness debris fun horse trip novel produce vote old simple pole gap";
+var mnemonic = "theory junior cloth volcano sponsor gauge fortune oak scale almost index ball";

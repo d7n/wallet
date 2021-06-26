@@ -1,1 +1,1 @@
-var mnemonic = "unaware biology dust chaos voice three couple firm broken retire shoulder expand";
+var mnemonic = "cousin away picture orange kick cancel razor sample long select dwarf segment";

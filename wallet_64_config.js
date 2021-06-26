@@ -1,1 +1,1 @@
-var mnemonic = "calm media argue earth voyage stadium catch female what portion sphere allow";
+var mnemonic = "vintage physical rabbit violin reduce creek surround display garden plug wing gesture";

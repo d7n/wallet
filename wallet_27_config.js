@@ -1,1 +1,1 @@
-var mnemonic = "useful famous castle actress stereo volume capable toward fresh ankle early actual";
+var mnemonic = "nephew zoo nominee lunar chunk supreme ceiling wonder claw farm super label";

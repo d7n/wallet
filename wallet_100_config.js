@@ -1,1 +1,1 @@
-var mnemonic = "shaft during away leaf discover frozen eager juice tray cheap twice shrimp";
+var mnemonic = "vanish load affair mother rookie cradle clip boost milk pyramid iron artefact";

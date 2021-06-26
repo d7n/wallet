@@ -1,1 +1,1 @@
-var mnemonic = "wash river trip proud grunt rice prison height slice oven swim later";
+var mnemonic = "cart faculty violin kiwi news venture party suit vessel super amount afraid";

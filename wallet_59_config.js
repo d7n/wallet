@@ -1,1 +1,1 @@
-var mnemonic = "piano clarify job alone cradle exile short sail mistake birth crack fossil";
+var mnemonic = "trigger fossil gloom diesel various cave axis member summer rookie child nation";

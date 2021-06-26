@@ -1,1 +1,1 @@
-var mnemonic = "believe night shiver provide fox exit food gift major subject brush excite";
+var mnemonic = "pencil thing phrase ghost biology biology ice loop drip couch flight flip";

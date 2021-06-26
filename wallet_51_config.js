@@ -1,1 +1,1 @@
-var mnemonic = "visual element tree supply cover monster consider saddle awkward pig next unveil";
+var mnemonic = "coconut picture web lock visit buyer relax salad find lecture sea employ";

@@ -1,1 +1,1 @@
-var mnemonic = "craft involve ghost allow story meat equip rabbit fossil nerve cheese enforce";
+var mnemonic = "lawsuit size panther suffer surprise leisure shoe leader oblige animal unfold season";

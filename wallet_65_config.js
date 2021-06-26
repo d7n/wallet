@@ -1,1 +1,1 @@
-var mnemonic = "sport hood turtle cereal cherry heavy toward pyramid addict warm destroy north";
+var mnemonic = "attract cage pudding adult object setup erosion people can scene census water";

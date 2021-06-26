@@ -1,1 +1,1 @@
-var mnemonic = "lunch salute board noble dish owner spoil eager fun stand feed industry";
+var mnemonic = "toward impose major junk green language extend output can attack radio hard";

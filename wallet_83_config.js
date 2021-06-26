@@ -1,1 +1,1 @@
-var mnemonic = "heart boat camp mean erode orchard small rebuild render oyster town derive";
+var mnemonic = "noble parent fringe ten view spell expire call obtain extend hobby next";

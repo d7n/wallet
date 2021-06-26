@@ -1,1 +1,1 @@
-var mnemonic = "flush valid move onion latin protect cash six liar favorite nasty merry";
+var mnemonic = "melt essence century tide near interest kidney trigger choose brave dish tunnel";

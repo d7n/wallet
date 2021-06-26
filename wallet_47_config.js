@@ -1,1 +1,1 @@
-var mnemonic = "exist glimpse battle helmet lyrics lunar lunch acoustic open blur spare weapon";
+var mnemonic = "danger timber cloud ladder humble custom win popular good stick valve crunch";

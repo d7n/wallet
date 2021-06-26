@@ -1,1 +1,1 @@
-var mnemonic = "doll journey idea cup nasty erosion client elite left owner write remove";
+var mnemonic = "faith time table bottom shiver west episode top oxygen tide term flat";

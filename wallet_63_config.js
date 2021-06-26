@@ -1,1 +1,1 @@
-var mnemonic = "claim fossil average robust envelope nominee drift marble topple athlete reason gym";
+var mnemonic = "dice about garlic episode robot normal robust donor arctic panic grocery hat";

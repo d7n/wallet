@@ -1,1 +1,1 @@
-var mnemonic = "attitude usage brand anchor great around lonely urge viable economy divide spend";
+var mnemonic = "gospel service major rely outer cause you skull return tragic bulk dog";

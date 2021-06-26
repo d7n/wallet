@@ -1,1 +1,1 @@
-var mnemonic = "curious basic they dog void purpose brush manual ginger wage biology oblige";
+var mnemonic = "fever such rabbit model degree suffer kiwi green shrug random subway between";

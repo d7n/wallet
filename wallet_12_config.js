@@ -1,1 +1,1 @@
-var mnemonic = "warfare eye wagon crumble napkin fresh forum shed cargo era sniff mimic";
+var mnemonic = "memory disease unveil rule broom captain arctic rack kidney sing mixture moon";

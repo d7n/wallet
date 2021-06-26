@@ -1,1 +1,1 @@
-var mnemonic = "trumpet ill memory force ability churn smooth silent ozone pitch resource know";
+var mnemonic = "runway cotton crane message once toilet diet skate health tomorrow lend slide";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest traffic inner idle clinic swarm minute present whisper crime ritual industry";
+var mnemonic = "pond angle that address grant lecture win course base girl amateur example";

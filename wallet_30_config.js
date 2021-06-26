@@ -1,1 +1,1 @@
-var mnemonic = "area oven utility twice also goat baby shiver spare bless poem behave";
+var mnemonic = "hidden already metal steel charge erosion ecology glad swap hub bag cabin";
