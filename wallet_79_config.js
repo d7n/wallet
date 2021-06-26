@@ -1,1 +1,1 @@
-var mnemonic = "decorate flame estate joke tiny doctor frost bounce entire option harvest response";
+var mnemonic = "affair two leaf domain vicious claw life apple govern shrug mesh stamp";

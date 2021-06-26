@@ -1,1 +1,1 @@
-var mnemonic = "plastic clarify owner stomach matter fatigue marine human better advance brown kit";
+var mnemonic = "pretty hurry link garlic square exercise provide alcohol verify eye add sauce";

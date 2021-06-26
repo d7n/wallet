@@ -1,1 +1,1 @@
-var mnemonic = "moment acoustic voice helmet empower beyond prize expire square average goat real";
+var mnemonic = "train inspire tobacco razor wing regular veteran focus cloud exit struggle nasty";

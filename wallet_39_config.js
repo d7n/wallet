@@ -1,1 +1,1 @@
-var mnemonic = "denial fade when ride skill awful either audit labor clump vague bicycle";
+var mnemonic = "melody scissors napkin benefit monster clock security unit mammal parrot soft canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "critic stadium soon slice lemon easy gym welcome paper poverty you village";
+var mnemonic = "damage hint gun term spread letter burger wall guilt genre nerve budget";

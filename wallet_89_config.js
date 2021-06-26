@@ -1,1 +1,1 @@
-var mnemonic = "jealous frame summer picture inhale holiday library neutral edit click arctic comfort";
+var mnemonic = "agent barely help sweet change situate peace census wage art slender surge";

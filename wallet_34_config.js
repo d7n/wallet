@@ -1,1 +1,1 @@
-var mnemonic = "announce arrow opinion spice myself modify vacant arrive rookie ketchup motion risk";
+var mnemonic = "green stumble injury bird poet fashion airport process swing toilet morning pupil";

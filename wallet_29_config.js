@@ -1,1 +1,1 @@
-var mnemonic = "nerve hedgehog deposit cotton door digital author law victory taste garage clock";
+var mnemonic = "cook turn ship aisle ship critic afraid audit skirt metal hamster accuse";

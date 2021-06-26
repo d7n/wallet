@@ -1,1 +1,1 @@
-var mnemonic = "carpet focus task sausage year basket vapor group width develop lecture cactus";
+var mnemonic = "discover warrior erase frequent spend bus boring auto drastic relief detect power";

@@ -1,1 +1,1 @@
-var mnemonic = "filter drill alter scatter solution van divide exact bleak corn slab mammal";
+var mnemonic = "sausage typical tool script sister orchard velvet will spend only equal motion";

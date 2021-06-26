@@ -1,1 +1,1 @@
-var mnemonic = "audit chunk dish flock enact point habit health visit asset defy crush";
+var mnemonic = "acid lady wild drink lion middle promote various melt monkey domain maid";

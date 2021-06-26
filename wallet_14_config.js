@@ -1,1 +1,1 @@
-var mnemonic = "street month stem gym issue little produce trumpet steak kiss omit explain";
+var mnemonic = "regular cash step educate season little eight news major sentence usage heart";

@@ -1,1 +1,1 @@
-var mnemonic = "action cricket move still chief renew evidence plastic basket park sample blame";
+var mnemonic = "cry blind relax cool clutch enhance path desert flower bag notable dove";

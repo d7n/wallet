@@ -1,1 +1,1 @@
-var mnemonic = "enrich control stomach ability silly design harbor hazard cabbage birth wine crouch";
+var mnemonic = "horror cool snack survey adult else mosquito beauty join nerve fever infant";

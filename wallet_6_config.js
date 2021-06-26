@@ -1,1 +1,1 @@
-var mnemonic = "forward chef hood fat need wing donor casual wait under harbor aerobic";
+var mnemonic = "hospital taxi uncover polar angle history occur copy deer cement episode chase";

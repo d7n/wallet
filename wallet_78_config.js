@@ -1,1 +1,1 @@
-var mnemonic = "trumpet shiver crater hint breeze own attack erode execute scout token tired";
+var mnemonic = "illegal output dash quiz rebuild entire build truck fire water evil tribe";

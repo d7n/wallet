@@ -1,1 +1,1 @@
-var mnemonic = "senior sunset aware whip move void access lock salt alcohol palace seven";
+var mnemonic = "ivory blanket bronze deposit six buddy dynamic border scatter sibling stock predict";

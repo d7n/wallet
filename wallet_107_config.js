@@ -1,1 +1,1 @@
-var mnemonic = "what major blind twin custom umbrella cost vacuum tomorrow avocado artwork paper";
+var mnemonic = "pact multiply festival outdoor lunch screen jaguar month filter sleep club intact";

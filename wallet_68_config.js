@@ -1,1 +1,1 @@
-var mnemonic = "little afraid security torch ceiling garden cement frost grit what stomach wear";
+var mnemonic = "require equip observe glad pulp transfer possible rate quit mosquito clever idle";

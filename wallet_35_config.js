@@ -1,1 +1,1 @@
-var mnemonic = "fade hundred snack lottery rally use fold coast fresh boost concert state";
+var mnemonic = "tone obey airport federal weapon shed syrup glad image mix where hen";

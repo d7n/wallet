@@ -1,1 +1,1 @@
-var mnemonic = "can web display young coin piano crawl relax pilot curious giraffe unfold";
+var mnemonic = "doll develop repair screen success expose upper armed eager bar found decline";

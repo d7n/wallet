@@ -1,1 +1,1 @@
-var mnemonic = "journey abuse coffee increase duty skirt senior orange miss style regular heavy";
+var mnemonic = "weapon tide jewel motor make home race carry snack lottery dad onion";

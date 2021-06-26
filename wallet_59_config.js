@@ -1,1 +1,1 @@
-var mnemonic = "rude source fit steak they royal jewel vendor clerk pulp vicious garage";
+var mnemonic = "same toward maple buzz winter spatial december tennis exact slim soldier cliff";

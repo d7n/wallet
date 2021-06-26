@@ -1,1 +1,1 @@
-var mnemonic = "brave twenty slight fire rib thing rural grid grace violin spell situate";
+var mnemonic = "oak eternal upset traffic pulse ritual deputy bird shuffle view legend video";

@@ -1,1 +1,1 @@
-var mnemonic = "exile spider wage spider brick search welcome ring humble pelican neck blossom";
+var mnemonic = "apart visa fever fringe recycle plug episode share change infant leader rubber";

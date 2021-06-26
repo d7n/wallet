@@ -1,1 +1,1 @@
-var mnemonic = "hover truck pony cash convince render torch wheat castle forget zoo derive";
+var mnemonic = "address attract onion duck victory nurse stay disagree endorse wisdom able flag";

@@ -1,1 +1,1 @@
-var mnemonic = "hungry ticket era equal bargain taste sense syrup potato silly stove diary";
+var mnemonic = "plunge mistake business smile owner absorb clip time turtle social acoustic inquiry";

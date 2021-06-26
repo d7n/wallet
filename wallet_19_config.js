@@ -1,1 +1,1 @@
-var mnemonic = "kitten fix primary toddler nice car expire talent busy canyon light laugh";
+var mnemonic = "learn fix kid dune usage sea road hole share vacant express embrace";

@@ -1,1 +1,1 @@
-var mnemonic = "better level ketchup horse twin bracket name state very evoke bonus weekend";
+var mnemonic = "coin grit wire twice evolve inspire whale wild other faint choose mass";

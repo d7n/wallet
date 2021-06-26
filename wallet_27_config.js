@@ -1,1 +1,1 @@
-var mnemonic = "retreat mammal world announce stuff engine cave broken suit dinosaur theory pepper";
+var mnemonic = "census tube admit lake upon brave sad ketchup reveal enroll proud chair";

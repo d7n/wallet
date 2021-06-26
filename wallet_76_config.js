@@ -1,1 +1,1 @@
-var mnemonic = "entry chapter rice cupboard twin nuclear wheat bread powder usage course type";
+var mnemonic = "more mixture enhance shiver erase tiny galaxy garbage oyster hamster share quote";

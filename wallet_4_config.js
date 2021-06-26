@@ -1,1 +1,1 @@
-var mnemonic = "feed case air gossip disorder season about fog crime fringe dignity ugly";
+var mnemonic = "fiscal coin song express tennis invite wave album zebra receive senior suit";

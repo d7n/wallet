@@ -1,1 +1,1 @@
-var mnemonic = "hazard topic noble release sugar round uniform latin barrel record mixture shallow";
+var mnemonic = "unable erupt ball board obtain globe second glad virtual palace name where";

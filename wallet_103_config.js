@@ -1,1 +1,1 @@
-var mnemonic = "aerobic shiver able expand alter manage tape uniform breeze sibling left brass";
+var mnemonic = "adapt wedding drive stove scheme damage alert peanut stand quality interest off";

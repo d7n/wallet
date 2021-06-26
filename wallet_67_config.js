@@ -1,1 +1,1 @@
-var mnemonic = "hub disorder limb diesel kangaroo worth mail cushion original apart damage virus";
+var mnemonic = "either logic together harvest tragic number feed minor need nose ankle goddess";

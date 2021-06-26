@@ -1,1 +1,1 @@
-var mnemonic = "canvas wrap slush theme also elder turtle require child fringe comfort cancel";
+var mnemonic = "miss outside pig window problem wisdom magic crumble panther soldier chest fiscal";

@@ -1,1 +1,1 @@
-var mnemonic = "assist expose pond cable forget cost display genius will rain hello duty";
+var mnemonic = "ignore slim timber group defense pyramid expire despair laundry pact what sound";

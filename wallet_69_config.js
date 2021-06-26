@@ -1,1 +1,1 @@
-var mnemonic = "life innocent dove mutual patrol inch danger blast task addict comfort random";
+var mnemonic = "response chunk situate tomorrow loud smile correct conduct like ivory scale spot";

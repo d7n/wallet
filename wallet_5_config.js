@@ -1,1 +1,1 @@
-var mnemonic = "banana boat produce sport still safe butter limit meat calm remain interest";
+var mnemonic = "plastic earth give heart leopard post jacket daughter ivory train treat impact";

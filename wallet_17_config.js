@@ -1,1 +1,1 @@
-var mnemonic = "puppy pretty around pass empty accident enemy now eagle marine what famous";
+var mnemonic = "wall limit minor then poem burden cabin dinner matter pet switch leaf";

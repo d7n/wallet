@@ -1,1 +1,1 @@
-var mnemonic = "fuel offer suffer left alien scan finish east glass script guess doll";
+var mnemonic = "wife tool antique faint affair palace nurse act aware series vanish beach";

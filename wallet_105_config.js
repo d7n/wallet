@@ -1,1 +1,1 @@
-var mnemonic = "spoon major stick bone little love index famous adult release slogan exclude";
+var mnemonic = "certain more culture friend debate glad arrow olympic panda march fault state";

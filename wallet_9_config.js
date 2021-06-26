@@ -1,1 +1,1 @@
-var mnemonic = "section boat weird earn tell grab thank bless sunny toy impulse inherit";
+var mnemonic = "ankle leader quit lottery tunnel gain winter volume egg level decline simple";

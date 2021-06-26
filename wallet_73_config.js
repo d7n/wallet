@@ -1,1 +1,1 @@
-var mnemonic = "clinic health clump romance suspect name puppy surround reward increase fuel absorb";
+var mnemonic = "enter ranch planet ethics kidney wrong salt zoo client loyal arrange neutral";

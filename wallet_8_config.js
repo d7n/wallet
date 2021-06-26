@@ -1,1 +1,1 @@
-var mnemonic = "property valley luxury still chuckle music silent witness demise alien snake quote";
+var mnemonic = "word immune mimic left announce senior play feature awful exercise chunk cupboard";

@@ -1,1 +1,1 @@
-var mnemonic = "pudding theme rhythm wall they wrist fox force try foot jacket hobby";
+var mnemonic = "urban series vehicle afford melt toward leaf loud drift patrol hire own";

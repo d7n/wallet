@@ -1,1 +1,1 @@
-var mnemonic = "develop female outer lunar ritual silly tumble early unaware income radio metal";
+var mnemonic = "visual glow wheel tribe empty credit improve remember master wear midnight high";

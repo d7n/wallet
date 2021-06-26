@@ -1,1 +1,1 @@
-var mnemonic = "cloud nice humor leaf staff assault assist innocent knock neutral invite universe";
+var mnemonic = "unhappy album evil student render lizard achieve still goat convince lottery sunny";

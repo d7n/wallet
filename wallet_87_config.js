@@ -1,1 +1,1 @@
-var mnemonic = "bind begin vessel armed permit quote lake shuffle endorse fire increase decade";
+var mnemonic = "east soda police venue wet vault crowd waste two blast execute neutral";

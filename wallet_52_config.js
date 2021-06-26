@@ -1,1 +1,1 @@
-var mnemonic = "amazing spray simple catch when exact resemble future zoo estate trouble grit";
+var mnemonic = "actress penalty breeze flavor record turtle turtle brand shaft pear robust zoo";

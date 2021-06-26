@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon power good used taxi same goat expose ugly enact mango unlock";
+var mnemonic = "truck treat pledge impact sleep shiver problem rude tell helmet rather forum";

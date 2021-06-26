@@ -1,1 +1,1 @@
-var mnemonic = "pepper narrow step limit empower laugh tape summer invest safe amused retreat";
+var mnemonic = "file suggest deliver present flavor prevent engine black eternal dragon air twelve";

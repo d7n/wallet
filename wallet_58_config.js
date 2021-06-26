@@ -1,1 +1,1 @@
-var mnemonic = "genre camera street metal indoor obey trophy emotion bulk vague six brave";
+var mnemonic = "pond movie right fatigue one combine fine empty title approve okay charge";

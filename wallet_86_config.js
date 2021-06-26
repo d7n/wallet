@@ -1,1 +1,1 @@
-var mnemonic = "asthma lawsuit blush rescue ginger absorb future design cook lunar season torch";
+var mnemonic = "entire crop matrix ketchup coach tragic blouse panic pen category stick diagram";

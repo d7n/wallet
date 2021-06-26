@@ -1,1 +1,1 @@
-var mnemonic = "category wedding critic timber viable apology attend lion weapon tissue force family";
+var mnemonic = "brand toilet gloom book appear goddess student grow jaguar case lumber dizzy";

@@ -1,1 +1,1 @@
-var mnemonic = "movie can during skin moon cat verify oblige tray indoor cushion rifle";
+var mnemonic = "swim text similar brain upgrade submit vintage clever maple flame survey jump";

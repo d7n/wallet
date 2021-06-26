@@ -1,1 +1,1 @@
-var mnemonic = "movie analyst material leisure sign genuine legend expire average custom myself lumber";
+var mnemonic = "wealth glance next order unaware more game hammer sea resist jump demise";

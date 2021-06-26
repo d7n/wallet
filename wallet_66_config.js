@@ -1,1 +1,1 @@
-var mnemonic = "humor regret parent ceiling zero pole biology spare garbage neutral lunch rescue";
+var mnemonic = "lounge gather clown salon come isolate silent resemble city face rich act";

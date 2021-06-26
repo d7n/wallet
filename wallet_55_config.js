@@ -1,1 +1,1 @@
-var mnemonic = "choice code exit course skull topple humble infant pride memory civil view";
+var mnemonic = "endorse gather nice there require input earth cup menu movie harbor defense";

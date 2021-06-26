@@ -1,1 +1,1 @@
-var mnemonic = "toddler empower rigid truth usage noise ecology test entire romance law arrow";
+var mnemonic = "bullet bundle glow delay fragile indicate grocery hen walnut cream load minimum";

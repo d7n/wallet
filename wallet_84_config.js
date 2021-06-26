@@ -1,1 +1,1 @@
-var mnemonic = "arena grape maple bottom ski measure target spider athlete east royal enough";
+var mnemonic = "dawn orchard butter grunt term hedgehog first torch country tuna kidney giant";

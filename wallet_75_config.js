@@ -1,1 +1,1 @@
-var mnemonic = "august circle food next guide rely inner ability auction pudding pact skill";
+var mnemonic = "rude unfair juice grass loop trap spot account garage source rare rival";

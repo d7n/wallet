@@ -1,1 +1,1 @@
-var mnemonic = "access onion mean crouch define fence blue trash hold mother west style";
+var mnemonic = "leave business million rate unfold praise shrug hedgehog order wrong draw exclude";

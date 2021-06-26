@@ -1,1 +1,1 @@
-var mnemonic = "parade address monster indicate hurt panel help elder usual catalog offer quantum";
+var mnemonic = "artwork absorb alcohol deposit decade price vicious audit pilot garage speed exchange";

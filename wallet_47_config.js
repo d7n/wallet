@@ -1,1 +1,1 @@
-var mnemonic = "height wolf hood tired divide process arctic mention bring salmon risk cross";
+var mnemonic = "they ramp auto season match logic shuffle steel online idle ticket convince";

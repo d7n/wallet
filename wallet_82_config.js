@@ -1,1 +1,1 @@
-var mnemonic = "bamboo glass try say across worth abstract crunch can stomach capital can";
+var mnemonic = "shed oil eagle will ceiling wheat theme large stumble cheap shell avoid";

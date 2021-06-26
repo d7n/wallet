@@ -1,1 +1,1 @@
-var mnemonic = "simple fancy motor sport rhythm print census tooth cause fiber police awful";
+var mnemonic = "wrong sleep forward base put episode retire husband wall various orange sea";

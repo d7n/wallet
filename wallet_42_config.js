@@ -1,1 +1,1 @@
-var mnemonic = "devote vault burden vehicle stereo spice bottom insect same case cable remember";
+var mnemonic = "harsh steel minute monitor tomorrow swift lift width call kind trend belt";

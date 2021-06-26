@@ -1,1 +1,1 @@
-var mnemonic = "stay tube fresh section member donor case jungle wage verify dad kite";
+var mnemonic = "luggage glue setup occur exchange birth struggle honey worth cross husband glove";

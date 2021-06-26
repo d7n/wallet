@@ -1,1 +1,1 @@
-var mnemonic = "curious concert random news tribe screen supply viable over curve dynamic throw";
+var mnemonic = "strong swap car country unusual wrong large gain victory juice humble tube";

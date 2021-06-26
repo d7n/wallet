@@ -1,1 +1,1 @@
-var mnemonic = "hint anxiety grace liberty bargain way black regret invest parade usage vague";
+var mnemonic = "genre human cat source unusual illness reason wear various unable clarify company";

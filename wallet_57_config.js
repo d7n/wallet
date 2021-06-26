@@ -1,1 +1,1 @@
-var mnemonic = "dignity mandate hazard shove welcome offer response nature such cook genuine universe";
+var mnemonic = "believe blouse secret original toddler assist poverty enough vehicle until runway quantum";

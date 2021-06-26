@@ -1,1 +1,1 @@
-var mnemonic = "bronze pyramid noise harsh put ignore tape endless wrestle fantasy mask degree";
+var mnemonic = "month route nice stadium grab route fringe wheel marriage problem thumb horn";

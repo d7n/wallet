@@ -1,1 +1,1 @@
-var mnemonic = "hurdle smooth always fatal guilt iron spirit million cage kangaroo ribbon boss";
+var mnemonic = "clutch undo hammer attend nothing disease demise unhappy between raw venture tomato";

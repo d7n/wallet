@@ -1,1 +1,1 @@
-var mnemonic = "quarter sister jewel brick supply traffic tank wise phone impulse bamboo guide";
+var mnemonic = "shuffle price test rack hotel yellow holiday keep deer romance now mansion";

@@ -1,1 +1,1 @@
-var mnemonic = "picnic unfold soon resist flush cheap wreck brief theory chunk pistol pistol";
+var mnemonic = "peasant tomorrow slot gas rally hen often dawn crew clock close all";

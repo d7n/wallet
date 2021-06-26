@@ -1,1 +1,1 @@
-var mnemonic = "drift attack caught smart ribbon sign fault hamster sun dismiss loyal left";
+var mnemonic = "field finger obtain escape wrap dance raccoon artefact drip like conduct hobby";

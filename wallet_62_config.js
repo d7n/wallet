@@ -1,1 +1,1 @@
-var mnemonic = "worry shove adult rose silly also road merge involve twin august direct";
+var mnemonic = "erosion learn acquire paddle lunch alpha tuition divide lumber media stuff west";

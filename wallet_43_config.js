@@ -1,1 +1,1 @@
-var mnemonic = "upset fly acoustic crater owner lawn reflect fury crucial life shield can";
+var mnemonic = "advance volume attack hen wedding chat pair shuffle certain over thunder noble";

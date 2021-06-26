@@ -1,1 +1,1 @@
-var mnemonic = "neck half price orient skate hurt taxi six one choice toe daring";
+var mnemonic = "salad involve target ozone wet lecture panda monster device time grape glad";

@@ -1,1 +1,1 @@
-var mnemonic = "device art put awkward arrange kitchen merit outer system zoo quick melt";
+var mnemonic = "expect slow obey border december omit foil alter update pony valid parent";

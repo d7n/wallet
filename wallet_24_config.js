@@ -1,1 +1,1 @@
-var mnemonic = "merry pair gloom edge silly cake shaft pioneer kingdom toddler range often";
+var mnemonic = "potato immense edit drill weird hope cat tiger faint tower balcony game";

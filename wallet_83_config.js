@@ -1,1 +1,1 @@
-var mnemonic = "liar bullet figure buffalo humble wall lock vivid engine measure barrel boring";
+var mnemonic = "monkey better regular route balcony brisk fun knock eye uniform warfare top";

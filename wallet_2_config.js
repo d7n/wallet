@@ -1,1 +1,1 @@
-var mnemonic = "bundle resist climb loop seat concert tape car diary merit course collect";
+var mnemonic = "flower bone diesel tone bleak twin violin shoulder amused forward bench two";

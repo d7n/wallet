@@ -1,1 +1,1 @@
-var mnemonic = "shrimp kiss inquiry intact credit weapon uncle update cool security album drink";
+var mnemonic = "ridge you remove join chase rocket reveal modify blouse warm paper conduct";

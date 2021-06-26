@@ -1,1 +1,1 @@
-var mnemonic = "around endless like mandate child wet skate carbon pupil bone auction pottery";
+var mnemonic = "stay seek right west fish picnic eager mention electric sheriff shiver mad";

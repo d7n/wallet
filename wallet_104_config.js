@@ -1,1 +1,1 @@
-var mnemonic = "liar tuition update shock sister door health hill banana diary ritual gain";
+var mnemonic = "more add wrap brain drama soccer lake bid buyer pact step tornado";

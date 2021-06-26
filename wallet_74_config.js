@@ -1,1 +1,1 @@
-var mnemonic = "grocery bench adjust menu neck garden leopard mandate hand hint ice surprise";
+var mnemonic = "strong pioneer blast very round embody confirm grid fluid promote elephant salad";
