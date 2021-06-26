@@ -1,1 +1,1 @@
-var mnemonic = "raven spot disease aware replace evolve fluid zoo unknown confirm tiny way";
+var mnemonic = "angry expire canoe discover fee embrace lunch earth derive current try bitter";

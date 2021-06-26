@@ -1,1 +1,1 @@
-var mnemonic = "hybrid execute large helmet gospel master proof defy orbit avoid rate glove";
+var mnemonic = "brisk power unique lift scheme normal neutral section resemble labor wolf weasel";

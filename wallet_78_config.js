@@ -1,1 +1,1 @@
-var mnemonic = "language pretty connect dismiss junior jungle hard custom fever ozone girl diamond";
+var mnemonic = "regret wing recycle lamp expect around enemy parrot diamond local average favorite";

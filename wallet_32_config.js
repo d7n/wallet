@@ -1,1 +1,1 @@
-var mnemonic = "senior bird vast scare rapid couch curtain welcome smile inflict wonder figure";
+var mnemonic = "garlic guitar load intact memory ladder learn clay normal opera young develop";

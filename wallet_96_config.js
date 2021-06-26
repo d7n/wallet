@@ -1,1 +1,1 @@
-var mnemonic = "slogan awake sudden anchor shift response inject village hero voyage circle flock";
+var mnemonic = "glad tiger scale swallow shield price repeat syrup broken erode grocery way";

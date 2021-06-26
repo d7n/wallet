@@ -1,1 +1,1 @@
-var mnemonic = "cool grant castle upper sand crouch add pluck rocket one case whale";
+var mnemonic = "canyon scale border flame oven thrive maple clerk afford recall board topple";

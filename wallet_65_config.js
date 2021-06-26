@@ -1,1 +1,1 @@
-var mnemonic = "rack modify know scene announce warrior indoor kiss divide mimic holiday worth";
+var mnemonic = "clock arrest now drill media galaxy wrong multiply human buffalo tell model";

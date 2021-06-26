@@ -1,1 +1,1 @@
-var mnemonic = "stand this present abuse disorder spice business fetch pizza forest curious ranch";
+var mnemonic = "twist artist hamster major expose vivid target rate neither burger random control";

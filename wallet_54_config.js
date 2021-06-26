@@ -1,1 +1,1 @@
-var mnemonic = "clown laundry chimney pink project census hold list grief bonus table indicate";
+var mnemonic = "awful budget need eyebrow peace between supply pen observe target odor link";

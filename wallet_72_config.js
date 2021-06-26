@@ -1,1 +1,1 @@
-var mnemonic = "corn range laugh gym display early intact chest foil lake category way";
+var mnemonic = "auction wolf indicate climb ticket daughter royal romance hedgehog adult fine stage";

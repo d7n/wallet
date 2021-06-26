@@ -1,1 +1,1 @@
-var mnemonic = "physical general talent timber song nose violin grace obscure shallow outside weapon";
+var mnemonic = "near soon noble below potato monkey wonder rib palace impact nephew surprise";

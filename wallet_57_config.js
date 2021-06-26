@@ -1,1 +1,1 @@
-var mnemonic = "embrace abuse forum under jump venture normal foil result egg arch tiger";
+var mnemonic = "time fat midnight pull health merge road behave camera loan good endorse";

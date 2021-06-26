@@ -1,1 +1,1 @@
-var mnemonic = "hungry connect balance limit phone puppy stairs permit smile push damp garbage";
+var mnemonic = "volcano observe tumble nuclear tube thought auto anxiety eyebrow legend desert knock";

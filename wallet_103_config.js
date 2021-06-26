@@ -1,1 +1,1 @@
-var mnemonic = "carbon cheese hole staff seminar stairs wait eternal dignity pen nephew punch";
+var mnemonic = "step horse congress crush month measure enlist cherry rapid olive rib lounge";

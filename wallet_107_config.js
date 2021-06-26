@@ -1,1 +1,1 @@
-var mnemonic = "across wedding taxi skate build aunt very lyrics famous indoor priority guess";
+var mnemonic = "hole alpha novel toe crop blame ceiling winner paddle awkward october bright";

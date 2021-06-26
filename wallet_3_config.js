@@ -1,1 +1,1 @@
-var mnemonic = "alcohol essence wine source match arctic captain ball coast century real used";
+var mnemonic = "vast trial task tiny hub window version asset bike tribe lock weapon";

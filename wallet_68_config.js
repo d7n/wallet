@@ -1,1 +1,1 @@
-var mnemonic = "float lock indicate robust bullet mule style kick toilet couple prosper office";
+var mnemonic = "struggle cannon later shield home coach huge deny float unique build outer";

@@ -1,1 +1,1 @@
-var mnemonic = "stool short extend reflect jar town crazy virus marble million permit tomato";
+var mnemonic = "build organ sort slice cliff wire tilt dream guard guess system gossip";

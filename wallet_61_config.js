@@ -1,1 +1,1 @@
-var mnemonic = "rib romance chuckle patch legal reunion rally usage year candy twice fall";
+var mnemonic = "salute toss draft blast maid note bar poverty picture clever concert mosquito";

@@ -1,1 +1,1 @@
-var mnemonic = "chimney arrange injury theme young worry collect permit attack hen uncle hen";
+var mnemonic = "problem brand loan shop tail old orange oxygen divorce outside visit decide";

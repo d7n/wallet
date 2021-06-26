@@ -1,1 +1,1 @@
-var mnemonic = "sun marine stone aunt fantasy lesson believe mistake royal dwarf notice divorce";
+var mnemonic = "load palace spawn grape spike raccoon clutch ship best cattle film grab";

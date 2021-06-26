@@ -1,1 +1,1 @@
-var mnemonic = "rebuild juice emerge voice joy lunch shadow extend course crumble casual girl";
+var mnemonic = "moral fit two chimney power fun huge evoke upset cradle black laugh";

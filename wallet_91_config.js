@@ -1,1 +1,1 @@
-var mnemonic = "suggest shove effort appear reward lawn canoe grit antique mutual tilt sense";
+var mnemonic = "slam little curve such arctic finger pipe later shed random april novel";

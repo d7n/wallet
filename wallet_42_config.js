@@ -1,1 +1,1 @@
-var mnemonic = "tornado term castle evoke duty wagon silver vague winner universe concert fantasy";
+var mnemonic = "captain half cousin usage cool proof assist then update alone sad ice";

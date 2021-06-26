@@ -1,1 +1,1 @@
-var mnemonic = "sting coffee blossom asset crew clerk lend label lobster inner fiscal swallow";
+var mnemonic = "program cargo dad crop fantasy income race virtual tuna pudding april chronic";

@@ -1,1 +1,1 @@
-var mnemonic = "bundle unhappy system wait spray romance leg come nice achieve trial toddler";
+var mnemonic = "tip radar sausage grant antenna shoe lawsuit nice dial walnut truly parrot";

@@ -1,1 +1,1 @@
-var mnemonic = "dance town gun phrase quarter update face draw enter denial onion exercise";
+var mnemonic = "click occur marble lyrics crew loyal pumpkin just venue nut custom outer";

@@ -1,1 +1,1 @@
-var mnemonic = "delay frog friend phrase scheme soup key clinic unfold crouch mountain give";
+var mnemonic = "reason tide ozone document when group ring ball address lamp rifle mystery";

@@ -1,1 +1,1 @@
-var mnemonic = "pony option tonight quantum photo weasel obey extend doll toss define replace";
+var mnemonic = "curve muffin boat proud power injury rose mobile ethics unveil page mystery";

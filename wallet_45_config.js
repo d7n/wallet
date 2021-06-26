@@ -1,1 +1,1 @@
-var mnemonic = "inspire panic seminar always manage aspect copper female uniform fun minute arrive";
+var mnemonic = "order reopen broken mind cover armor woman festival reunion grass motion piece";

@@ -1,1 +1,1 @@
-var mnemonic = "august strategy visa matrix trick riot utility stay motor tip umbrella mesh";
+var mnemonic = "rebel danger tragic trend modify narrow major bunker bulb style pulp museum";

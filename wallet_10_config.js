@@ -1,1 +1,1 @@
-var mnemonic = "input sad ahead orphan trip boost kick first client also chunk bamboo";
+var mnemonic = "muffin tip rate tomato grass govern fatal teach thing agree grit invite";

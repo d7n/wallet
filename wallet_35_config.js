@@ -1,1 +1,1 @@
-var mnemonic = "dismiss scatter try envelope theory note label wolf call denial snack allow";
+var mnemonic = "surprise clip scrap runway depth mobile silly orange much that patch surge";

@@ -1,1 +1,1 @@
-var mnemonic = "tornado admit mango garlic alien run gather digital twin peace wonder already";
+var mnemonic = "marble response agent torch extend draw catalog write nation marine sweet suffer";

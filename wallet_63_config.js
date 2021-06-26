@@ -1,1 +1,1 @@
-var mnemonic = "team clown useless sponsor jelly cargo then involve list put cook sleep";
+var mnemonic = "afford quantum endless vanish trap undo tuna net cupboard until frequent screen";

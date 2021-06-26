@@ -1,1 +1,1 @@
-var mnemonic = "goat unhappy enter twice pull injury sheriff camp evolve chalk hammer dynamic";
+var mnemonic = "inhale toast menu faculty valid eagle vital actress ridge math erode food";

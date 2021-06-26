@@ -1,1 +1,1 @@
-var mnemonic = "quick bomb glance rose frog work era snake reject helmet zone infant";
+var mnemonic = "route expose involve debris veteran cattle medal glove peasant remind approve oppose";

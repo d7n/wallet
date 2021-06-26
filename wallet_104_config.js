@@ -1,1 +1,1 @@
-var mnemonic = "rebel genre master trophy salad carpet glare vast arena acid dog hip";
+var mnemonic = "network profit sting jacket hotel chair abandon neither various buyer slight trust";

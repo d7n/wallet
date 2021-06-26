@@ -1,1 +1,1 @@
-var mnemonic = "crush worry veteran cargo vibrant valve horror erupt before rural tray horse";
+var mnemonic = "curious focus cruise smooth ozone confirm bike gift hurry morning sail flee";

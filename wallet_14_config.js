@@ -1,1 +1,1 @@
-var mnemonic = "loud stereo old dirt boy pigeon describe total street coffee jacket faculty";
+var mnemonic = "ostrich banana desk exact shiver emerge web casino veteran cotton century degree";

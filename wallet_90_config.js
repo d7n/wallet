@@ -1,1 +1,1 @@
-var mnemonic = "kitten expose document tiger start fitness admit tray mean brain gun narrow";
+var mnemonic = "victory attitude chicken fox discover noise tackle party fruit hero shuffle ocean";

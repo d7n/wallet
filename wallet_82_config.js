@@ -1,1 +1,1 @@
-var mnemonic = "page shaft all genius scale village clap episode pudding what bomb true";
+var mnemonic = "license buffalo siege express window melody foil silly club panel border warfare";

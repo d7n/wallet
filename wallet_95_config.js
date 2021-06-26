@@ -1,1 +1,1 @@
-var mnemonic = "combine blood heart segment toddler snap federal hunt spawn morning snack volcano";
+var mnemonic = "slush feed melt sign glory jeans busy renew castle pill hybrid garden";

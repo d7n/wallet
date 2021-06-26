@@ -1,1 +1,1 @@
-var mnemonic = "immune course clog ozone enter clump squeeze dry defense wisdom soft mean";
+var mnemonic = "situate magnet fuel donate floor coconut acoustic royal food language jump want";

@@ -1,1 +1,1 @@
-var mnemonic = "snow finger twice stamp cupboard tiny syrup road cross subway crumble jeans";
+var mnemonic = "video waste album wage page rigid mad anger want same cage super";

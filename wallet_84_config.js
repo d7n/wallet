@@ -1,1 +1,1 @@
-var mnemonic = "thunder afford illegal culture video kite engine forum turkey diary aunt glimpse";
+var mnemonic = "chimney mix army shift toddler beef cousin maze lunch analyst bronze guard";

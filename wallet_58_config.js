@@ -1,1 +1,1 @@
-var mnemonic = "famous visit switch client latin push job weekend ten earn better embrace";
+var mnemonic = "struggle make mesh invite swim tree gain laundry draw busy tomorrow safe";

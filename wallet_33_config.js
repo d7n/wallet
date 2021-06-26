@@ -1,1 +1,1 @@
-var mnemonic = "grit garlic entry mule fitness kind vast abuse fat submit sea force";
+var mnemonic = "any leisure caution company gesture brief retire resist scale blood hint fault";

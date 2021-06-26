@@ -1,1 +1,1 @@
-var mnemonic = "car share april eternal reflect senior resist regret flee east around ozone";
+var mnemonic = "subject amused fitness hurry kangaroo vanish among this nice coach worry tired";

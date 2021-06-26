@@ -1,1 +1,1 @@
-var mnemonic = "culture ribbon pluck insane fame vote diet relax issue trend liberty blade";
+var mnemonic = "fiction flame metal moment someone include boil august chronic tortoise action off";

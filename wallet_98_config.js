@@ -1,1 +1,1 @@
-var mnemonic = "vault child invite basic travel oven prefer fork rotate risk soft planet";
+var mnemonic = "cause shrug such short fiction man soda doll shy spoil fix analyst";

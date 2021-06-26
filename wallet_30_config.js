@@ -1,1 +1,1 @@
-var mnemonic = "earn model design noble network lunch trust spatial aware first payment client";
+var mnemonic = "human enroll master convince patient produce warm valley badge suit defy ordinary";

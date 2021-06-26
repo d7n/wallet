@@ -1,1 +1,1 @@
-var mnemonic = "olive slab cotton minimum reform resemble rely train priority basket copper exist";
+var mnemonic = "payment when blanket taste close slush banner pride tonight prepare firm fog";

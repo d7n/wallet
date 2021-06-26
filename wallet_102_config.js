@@ -1,1 +1,1 @@
-var mnemonic = "lottery cause tone senior unveil found express reduce sting couch bonus base";
+var mnemonic = "sight path subject intact ivory short inmate split captain used immense scorpion";

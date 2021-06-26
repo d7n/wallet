@@ -1,1 +1,1 @@
-var mnemonic = "text air unveil cruel steel crumble gravity behind tide entry stomach fat";
+var mnemonic = "lunar negative fetch fluid spin thrive behave depend razor gallery priority weapon";

@@ -1,1 +1,1 @@
-var mnemonic = "chimney cinnamon summer bubble core harbor about rate seminar river invest local";
+var mnemonic = "soldier certain play spell key total puppy engine oven differ reveal civil";

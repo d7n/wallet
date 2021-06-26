@@ -1,1 +1,1 @@
-var mnemonic = "pole deposit staff cost more afford dream coil review outdoor close gentle";
+var mnemonic = "frozen defense benefit access sugar glow version opinion reduce stadium armor team";

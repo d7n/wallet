@@ -1,1 +1,1 @@
-var mnemonic = "arrive review cradle garden pass service athlete summer upset detail rookie health";
+var mnemonic = "case taste video comic antique loan reunion frequent debate bone whale decline";

@@ -1,1 +1,1 @@
-var mnemonic = "peanut post relief grunt drift blouse private left quit tumble scout cotton";
+var mnemonic = "victory seed review good interest category knock border cigar bicycle wink pen";

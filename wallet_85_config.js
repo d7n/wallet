@@ -1,1 +1,1 @@
-var mnemonic = "street kiwi pipe away sort flip grace cousin sauce special gospel scrap";
+var mnemonic = "any nose upgrade deposit draw pelican order jealous capital slim pluck knife";

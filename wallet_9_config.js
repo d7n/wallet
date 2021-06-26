@@ -1,1 +1,1 @@
-var mnemonic = "proof lake hello plunge logic kiwi melt choose cluster curtain comic caution";
+var mnemonic = "clarify fire nation joke devote inflict bamboo wall orange symbol giraffe series";

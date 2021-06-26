@@ -1,1 +1,1 @@
-var mnemonic = "shoulder eight unknown right upon cave strong shrimp neither drive evidence turkey";
+var mnemonic = "swift cliff captain waste include alert rich market narrow blue bike dress";

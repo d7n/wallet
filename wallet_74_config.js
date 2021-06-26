@@ -1,1 +1,1 @@
-var mnemonic = "swamp coyote clock rapid frog airport vessel decline head rich later idea";
+var mnemonic = "garden ankle lumber mom ordinary dumb shop record there warfare rack cook";

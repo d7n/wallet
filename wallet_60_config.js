@@ -1,1 +1,1 @@
-var mnemonic = "coyote prefer tilt version rose siren cup purse clerk sister city cricket";
+var mnemonic = "grow own host gospel galaxy grunt fury orbit hungry silver change simple";

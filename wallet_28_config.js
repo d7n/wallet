@@ -1,1 +1,1 @@
-var mnemonic = "puppy live entry piano clap legal lift eye scatter digital sugar message";
+var mnemonic = "you jeans race spice depart pepper favorite sleep fancy wife announce faint";

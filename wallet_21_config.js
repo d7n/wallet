@@ -1,1 +1,1 @@
-var mnemonic = "drastic flavor ocean rhythm adapt exotic return narrow rigid faith prosper chaos";
+var mnemonic = "midnight advance fine acid pole chef peanut artwork opera vendor forward catch";

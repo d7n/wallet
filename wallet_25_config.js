@@ -1,1 +1,1 @@
-var mnemonic = "peanut flash seek health girl gun carpet uphold latin genius crack exclude";
+var mnemonic = "tuition okay reopen enlist crime lend gallery thumb palace place mail wire";

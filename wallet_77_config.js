@@ -1,1 +1,1 @@
-var mnemonic = "until subway board strike crawl exclude drastic drum learn birth identify quantum";
+var mnemonic = "motor earth assume sand crunch sock ring explain enroll lazy talent warfare";

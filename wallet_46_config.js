@@ -1,1 +1,1 @@
-var mnemonic = "property render eager lava course helmet time truly orchard legal elephant sport";
+var mnemonic = "bullet mesh cream gas success flock outer surface degree quality exercise gaze";

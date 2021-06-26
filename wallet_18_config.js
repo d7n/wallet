@@ -1,1 +1,1 @@
-var mnemonic = "note child demise electric amateur august sight frozen monster hope flag traffic";
+var mnemonic = "gold feature version smile claw outdoor stuff reveal trumpet you embrace spare";

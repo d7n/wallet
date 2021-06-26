@@ -1,1 +1,1 @@
-var mnemonic = "edit excess father tragic drastic inhale skill stem inhale upper cook detect";
+var mnemonic = "banana myth mixed agree exotic truck make can when edge boy diesel";

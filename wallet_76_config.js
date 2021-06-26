@@ -1,1 +1,1 @@
-var mnemonic = "cat cluster twin jar tongue soon frown ride ribbon load minor enrich";
+var mnemonic = "tuition change crater primary stereo shed render observe slice winter label slide";

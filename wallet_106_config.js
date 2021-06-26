@@ -1,1 +1,1 @@
-var mnemonic = "waste kid expose frozen interest try cattle ostrich grief course satoshi panic";
+var mnemonic = "strong skin blast sample ocean focus supply deal bounce later seek park";

@@ -1,1 +1,1 @@
-var mnemonic = "twin goat audit inch fringe split bottom minor frame business gown unaware";
+var mnemonic = "often unlock pupil struggle crop novel ethics broccoli inspire organ august sorry";

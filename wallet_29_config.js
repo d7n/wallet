@@ -1,1 +1,1 @@
-var mnemonic = "betray water into pencil pioneer hurt bargain enlist luxury pigeon regular hill";
+var mnemonic = "close empower veteran mystery silk endless electric uphold sweet field reduce flavor";

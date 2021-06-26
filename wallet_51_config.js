@@ -1,1 +1,1 @@
-var mnemonic = "human style huge swift welcome retreat zero skill shine brand catalog culture";
+var mnemonic = "viable suggest reason other hen legend develop drop minimum chaos cannon prefer";

@@ -1,1 +1,1 @@
-var mnemonic = "reason wolf puppy old demand siege nest umbrella space wage stool horn";
+var mnemonic = "glare mouse debris sunset mass zone forget reform antenna dad march panic";

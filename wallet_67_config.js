@@ -1,1 +1,1 @@
-var mnemonic = "rotate brisk loyal eager face wisdom cook royal shock elbow author tool";
+var mnemonic = "tobacco enforce search screen scare symptom olive furnace because choice search knock";

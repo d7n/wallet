@@ -1,1 +1,1 @@
-var mnemonic = "exercise glare giant suffer team curious suffer side visit love flower glue";
+var mnemonic = "pulp pulp actress giant dial viable vintage sound once one style sword";

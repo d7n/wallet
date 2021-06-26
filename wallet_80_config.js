@@ -1,1 +1,1 @@
-var mnemonic = "lens clarify obvious alcohol another swamp staff stick gather trim fitness satisfy";
+var mnemonic = "layer cat tobacco humble layer gospel faculty visual road govern concert claw";

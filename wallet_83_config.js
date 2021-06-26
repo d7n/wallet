@@ -1,1 +1,1 @@
-var mnemonic = "tortoise woman crunch pause hole elevator clutch dune select fiction jacket purchase";
+var mnemonic = "pistol act minimum public guilt treat casual myth lecture bid hen write";

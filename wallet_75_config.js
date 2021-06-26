@@ -1,1 +1,1 @@
-var mnemonic = "loan cat they limit vessel wine embrace dry tornado movie stool cargo";
+var mnemonic = "assault photo noodle auction destroy summer thing diary bind half eagle correct";

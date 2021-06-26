@@ -1,1 +1,1 @@
-var mnemonic = "eight repair eagle behind beach injury solid lyrics huge trade rug token";
+var mnemonic = "sugar shallow banana nuclear spoon filter furnace slice success ring arctic cable";

@@ -1,1 +1,1 @@
-var mnemonic = "attack eternal hamster cactus web pyramid base page cinnamon sheriff worth mountain";
+var mnemonic = "horror tone upper broom left bring behind zoo unknown shock loud wisdom";

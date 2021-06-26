@@ -1,1 +1,1 @@
-var mnemonic = "run scout column lazy raven fit lens peasant unaware tobacco depend mind";
+var mnemonic = "huge valley panda throw action omit century anchor valid poem easy bright";

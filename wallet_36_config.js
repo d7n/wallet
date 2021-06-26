@@ -1,1 +1,1 @@
-var mnemonic = "powder deputy own pride appear hawk virus skate loyal bacon crunch marriage";
+var mnemonic = "hockey clap pony three hello talent secret climb swing notice broccoli guard";

@@ -1,1 +1,1 @@
-var mnemonic = "worth snow simple suspect panther dinner harvest ask fix enforce fold mosquito";
+var mnemonic = "farm outside flat draw effort hunt pair enter intact glass senior flash";

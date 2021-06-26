@@ -1,1 +1,1 @@
-var mnemonic = "click negative panda mix ship accident coffee repeat trap novel tortoise few";
+var mnemonic = "decline museum fold elbow swap leave input inner violin lift solar connect";

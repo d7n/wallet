@@ -1,1 +1,1 @@
-var mnemonic = "already prepare roof farm slush pink water maple either month elite olympic";
+var mnemonic = "glimpse dizzy february under control stove during garlic undo exit hollow awful";

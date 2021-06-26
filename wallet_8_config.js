@@ -1,1 +1,1 @@
-var mnemonic = "volcano creek quit blind multiply library lamp test ribbon gloom fancy allow";
+var mnemonic = "leader mirror law debate side cool exile wage matter series mean party";
