@@ -1,1 +1,1 @@
-var mnemonic = "stumble symptom great sing ostrich market column loop pelican vehicle original fantasy";
+var mnemonic = "common save rent unlock easily nurse dry arrive sword tattoo three valid";

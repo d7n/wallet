@@ -1,1 +1,1 @@
-var mnemonic = "liberty adapt hello stomach unit memory notable knee breeze slender boost census";
+var mnemonic = "patrol maid glad rather purchase leave six across figure erosion sheriff swim";

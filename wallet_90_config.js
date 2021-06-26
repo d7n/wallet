@@ -1,1 +1,1 @@
-var mnemonic = "pact case legend thunder steak exchange goat moment south blush move collect";
+var mnemonic = "rather brief bridge outer urban season utility tiger ugly program creek begin";

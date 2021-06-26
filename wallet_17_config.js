@@ -1,1 +1,1 @@
-var mnemonic = "yellow recipe peasant frequent point now saddle duty phrase gorilla couple light";
+var mnemonic = "miss code index food face oyster gate spread almost engine wood educate";

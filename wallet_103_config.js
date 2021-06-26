@@ -1,1 +1,1 @@
-var mnemonic = "slam correct deal leopard wear round ugly acoustic melt scissors glass clip";
+var mnemonic = "chuckle federal smile afford surprise live learn lunch violin daughter castle shell";

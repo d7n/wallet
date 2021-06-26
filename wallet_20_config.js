@@ -1,1 +1,1 @@
-var mnemonic = "load banner crack normal agent oyster vocal convince husband mountain okay ill";
+var mnemonic = "melody fence rib diagram soon wonder method unit off seminar large guard";

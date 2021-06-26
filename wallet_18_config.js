@@ -1,1 +1,1 @@
-var mnemonic = "people mean three humor hard fever toe arrow trust oval broccoli federal";
+var mnemonic = "illness feature inside any crumble vibrant gift palace liberty member fringe catch";

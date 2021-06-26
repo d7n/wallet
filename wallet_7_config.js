@@ -1,1 +1,1 @@
-var mnemonic = "solar pass donkey crucial track army dash stereo distance bullet baby roast";
+var mnemonic = "cloud dry rubber picture click pulse velvet oxygen auto seek december scale";

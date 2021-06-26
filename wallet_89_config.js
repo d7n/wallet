@@ -1,1 +1,1 @@
-var mnemonic = "route vivid oxygen west humble enforce ask strike oppose have alone gold";
+var mnemonic = "acquire dog napkin muffin joy credit poet resource warrior resist area dust";

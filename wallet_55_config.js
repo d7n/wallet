@@ -1,1 +1,1 @@
-var mnemonic = "creek lake elbow shed gun junior extra repeat physical other visual canoe";
+var mnemonic = "enter crowd blue peasant decade blue sure among symbol detail upon tornado";

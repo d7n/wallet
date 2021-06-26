@@ -1,1 +1,1 @@
-var mnemonic = "fat flee voyage banana ketchup shuffle valve test mom find shed seek";
+var mnemonic = "umbrella simple rotate stool possible fetch enrich begin begin pause adjust item";

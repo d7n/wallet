@@ -1,1 +1,1 @@
-var mnemonic = "chicken tape vibrant worry manage attitude minor twelve typical extend document salt";
+var mnemonic = "three dutch frozen battle produce urban media message air young upon heart";

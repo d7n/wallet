@@ -1,1 +1,1 @@
-var mnemonic = "gather smooth public estate valve escape supply side glad cake marine caution";
+var mnemonic = "stock fever trophy rent monster ship sail deal pet safe peasant fabric";

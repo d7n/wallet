@@ -1,1 +1,1 @@
-var mnemonic = "artefact snake festival indoor taste satoshi ahead cargo fruit jaguar pig layer";
+var mnemonic = "soccer illegal physical reflect together such left into fever turn else sea";

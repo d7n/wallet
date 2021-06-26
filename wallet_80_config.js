@@ -1,1 +1,1 @@
-var mnemonic = "online during special pony claw notice say attack earn bargain chaos goose";
+var mnemonic = "still engage exchange diet blue brush zoo pizza hint gauge minute enable";

@@ -1,1 +1,1 @@
-var mnemonic = "lecture collect before cattle memory gift local solution erupt rich place plunge";
+var mnemonic = "toy curtain width inherit copy purse leopard pact awake game balance music";

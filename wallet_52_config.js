@@ -1,1 +1,1 @@
-var mnemonic = "middle picnic hover walk spring uniform zebra income cabin undo orchard voyage";
+var mnemonic = "dragon enable mechanic apart disorder rocket february answer garlic print display comic";

@@ -1,1 +1,1 @@
-var mnemonic = "catalog audit bench sun city envelope claim deal cycle narrow prison situate";
+var mnemonic = "round record thought differ taste budget badge myth minor time common advice";

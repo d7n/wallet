@@ -1,1 +1,1 @@
-var mnemonic = "tank dog egg zoo punch cattle napkin broccoli knife outdoor pistol acoustic";
+var mnemonic = "valley tower fuel bench slogan minute worth know planet film neither brass";

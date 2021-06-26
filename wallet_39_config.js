@@ -1,1 +1,1 @@
-var mnemonic = "frown admit infant angle large cash online type walk giant salt zebra";
+var mnemonic = "system fruit island huge crisp giraffe stick tower local salute purity foam";

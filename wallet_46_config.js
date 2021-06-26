@@ -1,1 +1,1 @@
-var mnemonic = "ship draw okay gospel search buffalo elbow clever peanut tray wealth come";
+var mnemonic = "inhale home heart hello track police title valve shrimp worry mix sea";

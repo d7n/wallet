@@ -1,1 +1,1 @@
-var mnemonic = "hero gloom miss option airport found web fatal street neck coil false";
+var mnemonic = "truth equip treat top mesh cannon slender live actress quality ugly congress";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi man patrol design feature horse else gather struggle swear swing harsh";
+var mnemonic = "regret link chair own name waste divide effort stone order begin vocal";

@@ -1,1 +1,1 @@
-var mnemonic = "divert hockey siren belt lunch rail start alcohol essence faith expect armed";
+var mnemonic = "divide hedgehog alien budget twice afraid couple huge quantum tower shadow stay";

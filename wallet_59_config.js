@@ -1,1 +1,1 @@
-var mnemonic = "scene demand vote drop foam regular bacon simple trip skill curtain injury";
+var mnemonic = "ostrich word despair plug leisure nature special raise laugh seed bind harvest";

@@ -1,1 +1,1 @@
-var mnemonic = "taste hat word copper demise plunge best damage inner will improve kit";
+var mnemonic = "scorpion slab success twin hospital wood fragile bundle glue veteran fatal patrol";

@@ -1,1 +1,1 @@
-var mnemonic = "horror swim ritual exhaust fox current illegal occur public ginger high talent";
+var mnemonic = "nurse fine attitude pear pride feature sea rescue bless matter abandon lizard";

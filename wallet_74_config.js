@@ -1,1 +1,1 @@
-var mnemonic = "smooth vanish noise crowd ski people note mushroom soap divide yellow treat";
+var mnemonic = "purpose load burger few verb museum life wealth roof people turkey rough";

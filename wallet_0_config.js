@@ -1,1 +1,1 @@
-var mnemonic = "common lottery asset access wet fantasy social swing peasant magnet armed immense";
+var mnemonic = "omit garden parade install citizen dog puppy ugly position balcony noodle trim";

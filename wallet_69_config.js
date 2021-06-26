@@ -1,1 +1,1 @@
-var mnemonic = "minor breeze pitch tray cabbage green dose industry mom increase truck trouble";
+var mnemonic = "advance sick depart pigeon ability road scrap practice venture equip use gym";

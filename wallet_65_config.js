@@ -1,1 +1,1 @@
-var mnemonic = "december doll quit session flip half palm pride baby brush oyster wage";
+var mnemonic = "solve tribe barely add grace buddy pumpkin fan alert squirrel crop display";

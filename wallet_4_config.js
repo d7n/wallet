@@ -1,1 +1,1 @@
-var mnemonic = "urge lunar priority diagram use caution ship pact position clutch zebra total";
+var mnemonic = "submit man stadium hard suggest spoon amount sleep bronze camp advice cram";

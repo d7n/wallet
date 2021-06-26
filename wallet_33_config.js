@@ -1,1 +1,1 @@
-var mnemonic = "total glad fold lunar train betray shaft group sphere pole belt flame";
+var mnemonic = "remember dumb level history spray hard protect book believe cube crop wolf";

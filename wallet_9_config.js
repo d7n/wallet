@@ -1,1 +1,1 @@
-var mnemonic = "armor reflect into reason palm easily ability predict alien book defense mind";
+var mnemonic = "awesome tiny baby chronic annual phone winter demise steak pluck portion employ";

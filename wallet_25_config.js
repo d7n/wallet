@@ -1,1 +1,1 @@
-var mnemonic = "grow stable amount kit matter lucky mandate still romance tuna abuse witness";
+var mnemonic = "diary audit pool squeeze sound other cause crash panel peasant punch brass";

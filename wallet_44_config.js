@@ -1,1 +1,1 @@
-var mnemonic = "what settle copy impose fury this solution want column future exhibit lab";
+var mnemonic = "lemon parade normal weather rude repair practice purpose taxi palm ancient hotel";

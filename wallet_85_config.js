@@ -1,1 +1,1 @@
-var mnemonic = "cram kiss slush device other economy pole rubber elevator topic pig doll";
+var mnemonic = "weapon upon zone hungry approve foil wisdom stomach tribe vehicle diamond number";

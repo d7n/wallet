@@ -1,1 +1,1 @@
-var mnemonic = "brand game success lamp crew legend abuse cabbage board stairs sock gold";
+var mnemonic = "window jealous enroll soft voyage proof become thing next december muscle window";

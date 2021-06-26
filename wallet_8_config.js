@@ -1,1 +1,1 @@
-var mnemonic = "what affair merry must build bind duck verify round hold photo tired";
+var mnemonic = "original dial cruel doctor there license spell apology banner thought alcohol duty";

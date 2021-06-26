@@ -1,1 +1,1 @@
-var mnemonic = "undo expire limb jacket future mind cat hope march script kitchen moon";
+var mnemonic = "finish zoo defy consider suggest switch spice explain flush kitchen waste multiply";

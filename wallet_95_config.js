@@ -1,1 +1,1 @@
-var mnemonic = "deputy matrix find ball because icon perfect carbon tomato elegant faint museum";
+var mnemonic = "attack royal country almost flock vessel music vivid reflect public couple reveal";

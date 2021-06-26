@@ -1,1 +1,1 @@
-var mnemonic = "pony submit genuine pumpkin marine pen shed disagree top label hurdle promote";
+var mnemonic = "parent fever such hood velvet impact indoor fury nothing identify debate cradle";

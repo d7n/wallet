@@ -1,1 +1,1 @@
-var mnemonic = "fade basic reveal width gift tooth horn culture rescue pool open equal";
+var mnemonic = "table glass snow wet machine exhaust also stick safe copper service cinnamon";

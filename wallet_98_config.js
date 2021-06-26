@@ -1,1 +1,1 @@
-var mnemonic = "orphan save zone oxygen rocket raise front cart scatter they regret problem";
+var mnemonic = "ginger use glass ride wolf weasel rapid siren tornado possible fat shine";

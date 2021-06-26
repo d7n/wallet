@@ -1,1 +1,1 @@
-var mnemonic = "insect nephew fatigue usage woman situate script old deny special matrix salad";
+var mnemonic = "today rifle pretty west solar lizard frost jelly light remind safe evidence";

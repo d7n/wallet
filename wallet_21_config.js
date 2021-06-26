@@ -1,1 +1,1 @@
-var mnemonic = "parade collect romance riot cotton excess first analyst family reward damage void";
+var mnemonic = "mule switch receive tilt amused scene library diary claim hard anger rate";

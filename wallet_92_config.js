@@ -1,1 +1,1 @@
-var mnemonic = "visit weasel slush unusual crater pattern fish inspire coin winner used pudding";
+var mnemonic = "sadness hunt athlete penalty latin stool change chat admit purity deposit april";

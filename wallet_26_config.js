@@ -1,1 +1,1 @@
-var mnemonic = "about between cover rival print impulse shallow focus venue control defense news";
+var mnemonic = "beauty solar firm control oyster future judge awful goat cube gospel unique";

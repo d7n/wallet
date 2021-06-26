@@ -1,1 +1,1 @@
-var mnemonic = "sight wine online inch ask include hidden rifle visit drift before champion";
+var mnemonic = "empower mansion smoke room federal brisk thank lunar reopen exclude stomach motion";

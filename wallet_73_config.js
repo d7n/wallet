@@ -1,1 +1,1 @@
-var mnemonic = "silent pencil impact gasp eager meat horn hurdle cinnamon report super innocent";
+var mnemonic = "police lady sudden humor stage neither banner favorite space tongue expect awkward";

@@ -1,1 +1,1 @@
-var mnemonic = "ship mirror mesh direct extra hospital attend square type vapor crime onion";
+var mnemonic = "ceiling mother elephant ring echo talk rice weapon valley acid unfold cricket";

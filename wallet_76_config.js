@@ -1,1 +1,1 @@
-var mnemonic = "valley burst super toilet museum siren despair impose crouch cradle normal lady";
+var mnemonic = "letter unfold fire seed home crystal brass envelope extra embody canal final";

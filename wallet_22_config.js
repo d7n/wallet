@@ -1,1 +1,1 @@
-var mnemonic = "lyrics aim you fish dinosaur range poverty sustain finger anxiety among dove";
+var mnemonic = "mind judge gospel garden artwork damp knock senior punch rule random symptom";

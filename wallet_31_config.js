@@ -1,1 +1,1 @@
-var mnemonic = "hold vessel duty police boy frozen road almost faith bicycle melody truth";
+var mnemonic = "pill street crash around mammal lecture page width raccoon bone mountain say";

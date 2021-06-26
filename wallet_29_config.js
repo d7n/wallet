@@ -1,1 +1,1 @@
-var mnemonic = "scrap idle blanket music bag paddle muffin vacant blood stereo clog audit";
+var mnemonic = "gather educate beef shock jar lift recycle uncle diet remind attract rabbit";

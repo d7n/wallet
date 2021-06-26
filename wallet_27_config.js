@@ -1,1 +1,1 @@
-var mnemonic = "vanish bind shrug crew pledge tomorrow warm flower news deer scrub shoe";
+var mnemonic = "arch tobacco high gorilla casual bulk mammal seven omit jungle march silent";

@@ -1,1 +1,1 @@
-var mnemonic = "zoo slide delay alarm impulse guitar jeans cigar erode birth fetch before";
+var mnemonic = "shoot milk awake enhance antique catalog grass picture pulp thought way february";

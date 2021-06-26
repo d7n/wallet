@@ -1,1 +1,1 @@
-var mnemonic = "push before prefer taste bike label diamond pole brick honey echo victory";
+var mnemonic = "much swarm expand tell analyst case offer habit screen slender trend start";

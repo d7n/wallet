@@ -1,1 +1,1 @@
-var mnemonic = "stairs fabric ceiling cereal approve media angry convince visa glow chat true";
+var mnemonic = "curious siege course aerobic miss earn dismiss shell suggest drop grab stuff";

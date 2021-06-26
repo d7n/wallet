@@ -1,1 +1,1 @@
-var mnemonic = "nation cheese guitar high zero matter wage sibling candy sight thank tissue";
+var mnemonic = "run extra sell claim outdoor letter scissors shine mixture deputy monster attitude";

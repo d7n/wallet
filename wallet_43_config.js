@@ -1,1 +1,1 @@
-var mnemonic = "vague barely zebra ceiling battle step smoke traffic column cash toddler unknown";
+var mnemonic = "vast elevator bulk magic miracle local famous guard essay make fuel awesome";

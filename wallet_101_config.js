@@ -1,1 +1,1 @@
-var mnemonic = "cruise tomato arm hungry turn ill flush behave verify flush fuel rail";
+var mnemonic = "anxiety lab trend sock cereal away bachelor pelican spy kiss exchange eyebrow";

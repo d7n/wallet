@@ -1,1 +1,1 @@
-var mnemonic = "holiday drift fury decorate blossom muscle impulse parade balance tragic exhibit minor";
+var mnemonic = "rival arrive traffic vanish apple frost bacon accident sell couch fetch undo";

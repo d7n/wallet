@@ -1,1 +1,1 @@
-var mnemonic = "diagram rotate depart day ladder enter chalk obtain remain lend sugar apart";
+var mnemonic = "skate image fortune toast cook unlock near cool ancient wing plunge rescue";

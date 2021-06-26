@@ -1,1 +1,1 @@
-var mnemonic = "rebel rebuild denial elite glass shift invest vacuum damage sea bird ancient";
+var mnemonic = "rely comfort alert oven special response impose staff glare history ready above";

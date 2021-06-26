@@ -1,1 +1,1 @@
-var mnemonic = "design trade nephew feed sail demise poet remember rough bacon material identify";
+var mnemonic = "walk meat furnace wife opera mass tower pass business ancient siege body";

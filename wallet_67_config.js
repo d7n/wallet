@@ -1,1 +1,1 @@
-var mnemonic = "finger swim process notice cube genuine goddess pride large attack double effort";
+var mnemonic = "gospel eager flash wrong delay follow usual attitude possible frame anchor soda";

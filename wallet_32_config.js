@@ -1,1 +1,1 @@
-var mnemonic = "web minor soda poem door forget payment tourist seminar toilet border alpha";
+var mnemonic = "govern spare afraid junior lottery series kid element note call royal lizard";

@@ -1,1 +1,1 @@
-var mnemonic = "brown sweet capable female people prefer lake stomach acquire blade airport main";
+var mnemonic = "trust gorilla upgrade unique home cage sadness maple foil quantum soldier add";

@@ -1,1 +1,1 @@
-var mnemonic = "distance soup coral place riot copy tilt hollow frost visit fragile prepare";
+var mnemonic = "stove creek pepper record mixed entire concert before glass top practice winter";

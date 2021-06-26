@@ -1,1 +1,1 @@
-var mnemonic = "review ginger festival fatigue antenna captain trumpet topple job regular image ball";
+var mnemonic = "drill little toast dance logic puppy vendor spoon swift aunt buddy monitor";

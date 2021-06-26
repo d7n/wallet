@@ -1,1 +1,1 @@
-var mnemonic = "sauce surge clarify slot motion notable tennis reflect sugar ignore zero abuse";
+var mnemonic = "final slam vault scrub frozen release cancel laundry weird recycle brick pulp";

@@ -1,1 +1,1 @@
-var mnemonic = "clay robot soap protect trim enough cave tooth aerobic throw entire wire";
+var mnemonic = "diesel woman client blast avoid armor spider bind achieve pole animal riot";

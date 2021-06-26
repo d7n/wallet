@@ -1,1 +1,1 @@
-var mnemonic = "gun cricket confirm stomach cry nuclear embark giant laundry dinner next dad";
+var mnemonic = "uniform thought office citizen hello october category practice feed giant timber urge";

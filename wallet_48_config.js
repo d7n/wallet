@@ -1,1 +1,1 @@
-var mnemonic = "foil town wrap stay word ketchup organ unfair topple turtle retire jump";
+var mnemonic = "ignore vanish depth shrimp gorilla reject aerobic cable ritual brush web bubble";

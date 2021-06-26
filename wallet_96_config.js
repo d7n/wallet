@@ -1,1 +1,1 @@
-var mnemonic = "beyond celery pluck myself credit immense glad hover social help throw wrong";
+var mnemonic = "shrug allow earth fury lunar extra middle abandon midnight system hat boost";

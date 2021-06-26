@@ -1,1 +1,1 @@
-var mnemonic = "gold cage rebel behave typical toy century tip fortune brand latin mechanic";
+var mnemonic = "inquiry elbow off trash frame help cotton music cigar guitar trip spell";

@@ -1,1 +1,1 @@
-var mnemonic = "nephew humor moon rib aim hawk jacket upset ahead option olympic trophy";
+var mnemonic = "rhythm milk satoshi way cook width zebra voice bundle midnight layer fork";

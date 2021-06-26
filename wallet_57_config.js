@@ -1,1 +1,1 @@
-var mnemonic = "quiz safe random whip promote upper promote rescue try pact tree bomb";
+var mnemonic = "maximum hurry neutral title buffalo face armed pen shaft task auto solve";

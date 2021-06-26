@@ -1,1 +1,1 @@
-var mnemonic = "dentist silver coil shield web symbol pepper shiver wine proof arrive emotion";
+var mnemonic = "urban rate goose taste lady provide one mail pipe wealth utility valve";

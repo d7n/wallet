@@ -1,1 +1,1 @@
-var mnemonic = "curious slight arrest very phone verb action settle invest parrot mango turkey";
+var mnemonic = "ancient blanket sea tunnel always comic loop grunt mosquito vanish corn lobster";

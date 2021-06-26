@@ -1,1 +1,1 @@
-var mnemonic = "nerve exhibit hurdle glue dose coil prize busy more glare ahead voyage";
+var mnemonic = "gossip wire mirror term discover quit tape weird lunch repeat slight whale";

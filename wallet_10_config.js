@@ -1,1 +1,1 @@
-var mnemonic = "unknown expose table enjoy sun soon mistake defense trap orchard range fiber";
+var mnemonic = "small shock upset spot cross ostrich youth smooth arena length mail airport";

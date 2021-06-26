@@ -1,1 +1,1 @@
-var mnemonic = "canal act detail deputy stem large fall torch segment stage clap toy";
+var mnemonic = "ticket degree grow rebel bulb behind grab wrap avocado night scrub mushroom";

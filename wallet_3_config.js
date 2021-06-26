@@ -1,1 +1,1 @@
-var mnemonic = "together isolate emerge nephew blush wear apology input brain utility inherit age";
+var mnemonic = "sure spirit between today arrow fox vast spray bind situate moral leg";

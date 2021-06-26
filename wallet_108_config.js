@@ -1,1 +1,1 @@
-var mnemonic = "equal steel august region dinner enrich suspect critic october vague month picture";
+var mnemonic = "fruit rubber nest unit cupboard hint test famous deny wood donate catch";

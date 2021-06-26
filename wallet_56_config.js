@@ -1,1 +1,1 @@
-var mnemonic = "canoe okay any convince nerve fork staff razor attend victory century help";
+var mnemonic = "predict private pact borrow bottom crater vibrant bag armor gesture water rebel";
