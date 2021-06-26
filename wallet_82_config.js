@@ -1,1 +1,1 @@
-var mnemonic = "inspire cost amazing explain double age organ piece special catalog weapon people";
+var mnemonic = "negative drastic effort must fox mandate catalog annual pigeon hybrid ecology february";

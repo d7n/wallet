@@ -1,1 +1,1 @@
-var mnemonic = "ship kick chef grow then crunch twist column wrist shiver shield bargain";
+var mnemonic = "wagon similar wealth student close item unknown love road sun toddler disorder";

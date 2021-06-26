@@ -1,1 +1,1 @@
-var mnemonic = "destroy express approve impose gas surprise defy manage fantasy maple month shop";
+var mnemonic = "blame rural border prepare mobile fringe orphan puzzle smoke federal found goose";

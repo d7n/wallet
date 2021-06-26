@@ -1,1 +1,1 @@
-var mnemonic = "right polar divide obey bomb banana veteran coach elite weasel pretty gentle";
+var mnemonic = "seat sun federal step source slim neglect club flavor hundred wine pink";

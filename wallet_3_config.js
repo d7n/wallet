@@ -1,1 +1,1 @@
-var mnemonic = "spare matrix achieve noodle pledge lunch flip extend record firm walnut casual";
+var mnemonic = "sausage polar inquiry table uniform ski element nothing route alpha spot industry";

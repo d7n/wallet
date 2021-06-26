@@ -1,1 +1,1 @@
-var mnemonic = "sibling worry arrive genre lift hundred interest bubble cool estate valve glass";
+var mnemonic = "fold hurry way december noise grit elephant drum usage cliff stomach ranch";

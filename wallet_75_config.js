@@ -1,1 +1,1 @@
-var mnemonic = "there scan boost void excess together demand injury menu rescue profit faculty";
+var mnemonic = "awesome olive begin hub axis tuna success decline impulse silly fiscal submit";

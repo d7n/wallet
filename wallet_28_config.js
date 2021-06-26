@@ -1,1 +1,1 @@
-var mnemonic = "ocean ten among shaft prepare fun risk sunset fantasy top now paper";
+var mnemonic = "during aerobic today dizzy street enlist machine ramp sadness note people follow";

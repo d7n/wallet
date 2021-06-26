@@ -1,1 +1,1 @@
-var mnemonic = "dynamic fine pipe occur letter wish angry output way steak call range";
+var mnemonic = "carry job amount icon museum shoe veteran must funny game hire fork";

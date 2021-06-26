@@ -1,1 +1,1 @@
-var mnemonic = "stairs effort liar picnic exhaust exhaust reunion core silent vapor giant shove";
+var mnemonic = "valid people tattoo pair mystery hold draw end wreck wisdom kind agree";

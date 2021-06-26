@@ -1,1 +1,1 @@
-var mnemonic = "elevator skate work gun catalog color answer ancient trend nut same economy";
+var mnemonic = "fatigue canal other save genre hundred lounge ball cycle add rifle mule";

@@ -1,1 +1,1 @@
-var mnemonic = "trade iron marine slim drift gossip inside grain arena negative army bronze";
+var mnemonic = "demand shiver friend wild they moral lawsuit robot minimum mule seed coast";

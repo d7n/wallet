@@ -1,1 +1,1 @@
-var mnemonic = "soon phrase trade rhythm syrup tonight bring toddler disorder day bar stove";
+var mnemonic = "better taxi diagram enjoy clip margin hunt proud scheme recall talk violin";

@@ -1,1 +1,1 @@
-var mnemonic = "vehicle drip quit practice offer brown april slot dignity mail submit pistol";
+var mnemonic = "buyer cheap input enable mammal swamp write drift elder warfare clown cheese";

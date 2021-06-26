@@ -1,1 +1,1 @@
-var mnemonic = "aisle tomato shoe ketchup snack better trim autumn venture text deer gown";
+var mnemonic = "heavy refuse know tired visa protect attitude fame engine arena divert crack";

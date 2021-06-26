@@ -1,1 +1,1 @@
-var mnemonic = "like magnet blanket suspect long nose check normal diagram program hawk canal";
+var mnemonic = "spring erode love field myself venue laugh ocean net syrup october staff";

@@ -1,1 +1,1 @@
-var mnemonic = "party evil edit such decrease loyal estate glare sense tonight section hip";
+var mnemonic = "way sorry mammal kite mimic before slush lab ice true arch broccoli";

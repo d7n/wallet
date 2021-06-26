@@ -1,1 +1,1 @@
-var mnemonic = "purity knee flavor spatial smooth panel cruise grape miss coffee orange oblige";
+var mnemonic = "genuine lecture essence seminar rent abandon flat endorse verb husband insect trust";

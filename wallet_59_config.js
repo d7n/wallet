@@ -1,1 +1,1 @@
-var mnemonic = "fragile cry torch wide very soup current runway loop tomorrow grab confirm";
+var mnemonic = "tissue pencil regular column affair equip sick normal brisk desk feel churn";

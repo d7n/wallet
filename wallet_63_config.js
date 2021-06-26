@@ -1,1 +1,1 @@
-var mnemonic = "coast knee mushroom mad bus obvious snap analyst goat point access visit";
+var mnemonic = "garlic metal drift comic renew sleep neck evoke outdoor blood often seek";

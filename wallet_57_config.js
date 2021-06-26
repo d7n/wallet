@@ -1,1 +1,1 @@
-var mnemonic = "roof silver inhale friend desk toy stereo have lamp cinnamon police isolate";
+var mnemonic = "similar gravity thank fan virus lock pause glide pill athlete dizzy glance";

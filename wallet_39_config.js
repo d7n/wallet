@@ -1,1 +1,1 @@
-var mnemonic = "behind unit afford brass isolate cheap vivid whisper allow roof alone exhibit";
+var mnemonic = "donkey mandate enact vintage two banner price bomb erase slush ostrich brisk";

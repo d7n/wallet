@@ -1,1 +1,1 @@
-var mnemonic = "client patch half nominee ice solar salute book million blood time item";
+var mnemonic = "traffic jewel coconut pulp space pond position unaware security educate crime clever";

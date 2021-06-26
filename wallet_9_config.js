@@ -1,1 +1,1 @@
-var mnemonic = "trigger meat park index dolphin space farm matrix spring vehicle grab access";
+var mnemonic = "negative velvet else amazing car asset boost nice renew grit person convince";

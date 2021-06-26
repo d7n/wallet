@@ -1,1 +1,1 @@
-var mnemonic = "evolve parade social sail borrow patch speed cause renew robust ahead judge";
+var mnemonic = "plunge traffic immense control fee start potato device riot unable pretty sunny";

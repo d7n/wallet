@@ -1,1 +1,1 @@
-var mnemonic = "erase room toddler sad gasp tilt blade bean super edit gloom fabric";
+var mnemonic = "phrase shrug private wet special raise inspire poet lend wet target arrest";

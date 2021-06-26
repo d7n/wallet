@@ -1,1 +1,1 @@
-var mnemonic = "wonder adult mesh there basket lion speed love enter plate topple glass";
+var mnemonic = "roast core solid sea skull tragic cook sun tag mango add stone";

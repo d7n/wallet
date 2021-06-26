@@ -1,1 +1,1 @@
-var mnemonic = "gauge double coin cargo grid shoe trial solid enforce glare steak wrestle";
+var mnemonic = "witness island mad beach jeans truly wreck peasant garage ranch come device";

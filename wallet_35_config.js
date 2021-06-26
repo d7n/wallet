@@ -1,1 +1,1 @@
-var mnemonic = "flash airport diagram negative skin unveil where ride brush right bid garden";
+var mnemonic = "become sudden you endorse foam yard pole choose lobster family broken mixture";

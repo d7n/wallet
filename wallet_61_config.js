@@ -1,1 +1,1 @@
-var mnemonic = "exist valley clown neglect unlock poem system soda bright suspect mix huge";
+var mnemonic = "super aunt sunset message draw green loud combine axis whip grief misery";

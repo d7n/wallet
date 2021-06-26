@@ -1,1 +1,1 @@
-var mnemonic = "tone jump patrol sheriff pull family frown security minimum chef marriage giggle";
+var mnemonic = "win captain trap appear quarter capable analyst fancy draft myth novel able";

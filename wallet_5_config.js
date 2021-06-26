@@ -1,1 +1,1 @@
-var mnemonic = "render estate aerobic basket planet road identify giant humor grit arctic urban";
+var mnemonic = "limb record road vocal scrap garage sound reject clean option essence hurry";

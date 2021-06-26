@@ -1,1 +1,1 @@
-var mnemonic = "genre crane amazing dinosaur smooth hurt minute siege isolate real black area";
+var mnemonic = "vessel hurt give toddler material lobster rally little upgrade adapt innocent verify";

@@ -1,1 +1,1 @@
-var mnemonic = "smoke banana leg casual spray dune era ill drill close laundry nature";
+var mnemonic = "catalog mesh awkward border soul ostrich venue noble tree erode alley gold";

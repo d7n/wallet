@@ -1,1 +1,1 @@
-var mnemonic = "purity warm spirit clinic future discover prefer kingdom merry sustain venue trigger";
+var mnemonic = "lizard maple exclude melt slow boring cloud glare purity belt liberty cloud";

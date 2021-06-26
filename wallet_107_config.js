@@ -1,1 +1,1 @@
-var mnemonic = "capable walk exist spawn film rail thought opera warfare twin teach social";
+var mnemonic = "used park until state weekend soldier sort refuse arctic popular detail air";

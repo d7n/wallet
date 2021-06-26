@@ -1,1 +1,1 @@
-var mnemonic = "market jewel range lounge fan change swamp deal basic fade sorry congress";
+var mnemonic = "digital view vacant case marriage buffalo exit embark camp balance section manual";

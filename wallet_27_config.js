@@ -1,1 +1,1 @@
-var mnemonic = "pulse symbol fringe soft mosquito burst across entry frost vanish mention copper";
+var mnemonic = "wash quote pull pole mammal injury mammal please become split distance join";

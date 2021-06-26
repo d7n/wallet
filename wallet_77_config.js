@@ -1,1 +1,1 @@
-var mnemonic = "report solid suit rich cycle sphere tuition fork myth first wrong sense";
+var mnemonic = "clever chat tackle front secret off arctic vanish odor essence grunt glare";

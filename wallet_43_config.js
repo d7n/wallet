@@ -1,1 +1,1 @@
-var mnemonic = "tiger pear purchase such sight crouch scissors candy hope web donor enjoy";
+var mnemonic = "sausage thrive luxury chalk office toss parrot blush share story focus thunder";

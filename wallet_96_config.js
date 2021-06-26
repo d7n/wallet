@@ -1,1 +1,1 @@
-var mnemonic = "teach basket voice again solar asset jacket label oyster already lion seven";
+var mnemonic = "party survey wave place motion remain axis proud lift submit zone damp";

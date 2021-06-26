@@ -1,1 +1,1 @@
-var mnemonic = "victory topic risk bless math garden energy yard cliff atom foot robot";
+var mnemonic = "stomach sister bundle picnic expose accuse hotel away town grab someone truck";

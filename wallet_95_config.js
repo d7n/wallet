@@ -1,1 +1,1 @@
-var mnemonic = "ketchup this scale suffer bone fix dial chicken before injury canal family";
+var mnemonic = "trumpet before unhappy super attitude balcony opera property high soap damage conduct";

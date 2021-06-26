@@ -1,1 +1,1 @@
-var mnemonic = "pitch comic rabbit parade birth medal anger magnet make lottery noise velvet";
+var mnemonic = "scrub sausage bargain glad private brain there buyer boil meat clean project";

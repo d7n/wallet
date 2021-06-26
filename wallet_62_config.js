@@ -1,1 +1,1 @@
-var mnemonic = "suit icon host type brand ill impact paddle eye setup gun very";
+var mnemonic = "hamster buddy write thing mule bike casino bid range control ahead spray";

@@ -1,1 +1,1 @@
-var mnemonic = "undo zebra raise cage news promote lamp submit promote joy letter reunion";
+var mnemonic = "wait pink delay cram notable scrap room able now raccoon puzzle fire";

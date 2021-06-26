@@ -1,1 +1,1 @@
-var mnemonic = "clay market spot tone quit art please moral close aisle sight number";
+var mnemonic = "woman recipe forum ten can habit easy abandon panic slight romance deliver";

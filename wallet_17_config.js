@@ -1,1 +1,1 @@
-var mnemonic = "decline cushion enforce dirt romance excess amazing void cabin horn enter daring";
+var mnemonic = "sister powder series life purse attend tuna then general tissue forest fun";

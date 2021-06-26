@@ -1,1 +1,1 @@
-var mnemonic = "arrest dizzy auction alert gather surge trade goose layer enemy often ghost";
+var mnemonic = "save talent luxury alley copy meat call refuse fever modify initial win";

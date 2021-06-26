@@ -1,1 +1,1 @@
-var mnemonic = "feature famous myself team exclude kiwi oven evolve brave sport sing tail";
+var mnemonic = "parrot hold typical illegal woman crazy aspect cannon clump sudden cousin tree";

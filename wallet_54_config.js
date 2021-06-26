@@ -1,1 +1,1 @@
-var mnemonic = "unfair sample rural news element flag crew olympic gap celery blossom oppose";
+var mnemonic = "borrow vintage atom together around climb ridge gym apart tooth gun annual";

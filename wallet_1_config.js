@@ -1,1 +1,1 @@
-var mnemonic = "walnut erode rubber video load pretty exhaust hint elbow indoor ski include";
+var mnemonic = "toward pull multiply minor soup correct fancy top cave call work west";

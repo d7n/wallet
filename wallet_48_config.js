@@ -1,1 +1,1 @@
-var mnemonic = "left pudding blast rookie ecology inject light fit resource feel vast vicious";
+var mnemonic = "flame party install ordinary praise fire portion digital soul trust dawn afford";

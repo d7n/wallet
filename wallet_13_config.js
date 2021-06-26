@@ -1,1 +1,1 @@
-var mnemonic = "crumble rebuild situate cram cargo myth fantasy cross rescue crunch behave shallow";
+var mnemonic = "salon soda drink mixed invest curious hero grain bread dinner pen exit";

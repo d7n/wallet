@@ -1,1 +1,1 @@
-var mnemonic = "ordinary patch vintage tip among bread morning wedding arch junior quote junior";
+var mnemonic = "blade garage notice saddle decrease cigar drama better inform skirt switch smoke";

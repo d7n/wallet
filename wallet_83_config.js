@@ -1,1 +1,1 @@
-var mnemonic = "system matter pledge spend rigid junk flower exotic dose best toilet add";
+var mnemonic = "another pretty reveal smart climb upper weekend case legal primary more print";

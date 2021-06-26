@@ -1,1 +1,1 @@
-var mnemonic = "noise rug window click image copy book have lawsuit bracket arrest embark";
+var mnemonic = "fever filter carbon solution moment wasp square upgrade life ghost position barrel";

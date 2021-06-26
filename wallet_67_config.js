@@ -1,1 +1,1 @@
-var mnemonic = "quit laptop tree mosquito home victory chapter act never cancel swear jaguar";
+var mnemonic = "dream door advance urge own child fiber leg bubble then nominee meadow";

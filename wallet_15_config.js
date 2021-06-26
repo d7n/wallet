@@ -1,1 +1,1 @@
-var mnemonic = "guard circle stereo supply near absurd option cousin unhappy describe virus student";
+var mnemonic = "century mirror unlock minimum labor couple company spring repair icon mobile citizen";

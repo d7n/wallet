@@ -1,1 +1,1 @@
-var mnemonic = "boss soda embrace athlete sample address bubble thunder spring tattoo any border";
+var mnemonic = "pole enable box tent ridge spell kangaroo olympic observe replace grace vital";

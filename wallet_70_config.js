@@ -1,1 +1,1 @@
-var mnemonic = "sustain entry wreck treat author erupt eager size prefer wait normal example";
+var mnemonic = "winner off join crawl resist body pretty almost note tone coral alert";

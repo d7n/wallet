@@ -1,1 +1,1 @@
-var mnemonic = "cup gravity bachelor version quantum diesel keep tilt anchor write truth dog";
+var mnemonic = "valley entire network jewel crunch desk outdoor direct twelve cousin guitar arrow";

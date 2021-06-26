@@ -1,1 +1,1 @@
-var mnemonic = "tomato faith torch jeans milk keen match junk squirrel unlock pumpkin radio";
+var mnemonic = "tattoo attend rare awkward usage empower document orient exile video mother vivid";

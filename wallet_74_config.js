@@ -1,1 +1,1 @@
-var mnemonic = "oven gallery autumn tiny topple depth census acquire sponsor ramp budget ribbon";
+var mnemonic = "hazard scout rate ice term across catalog vast auction patient review select";

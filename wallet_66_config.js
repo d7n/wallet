@@ -1,1 +1,1 @@
-var mnemonic = "slogan firm gravity color travel blush bubble chuckle wide yard dutch flee";
+var mnemonic = "snap museum sorry purpose switch surprise catalog brave below shoe security senior";

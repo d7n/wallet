@@ -1,1 +1,1 @@
-var mnemonic = "box organ rival love odor blade cargo clarify okay street knock early";
+var mnemonic = "badge circle inform box cruise scorpion leisure arena twin advance prepare sort";

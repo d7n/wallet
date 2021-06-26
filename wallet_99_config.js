@@ -1,1 +1,1 @@
-var mnemonic = "coconut rose ivory sweet recipe model dinner during amateur sunny mix goddess";
+var mnemonic = "eight mom edit stuff west alter lend pig alpha foster element depart";

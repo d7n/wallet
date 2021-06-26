@@ -1,1 +1,1 @@
-var mnemonic = "unit aunt range rally valve snack use skirt token crash between expand";
+var mnemonic = "tomato image broom bunker avoid jealous science glow permit sting keen arena";

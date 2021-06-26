@@ -1,1 +1,1 @@
-var mnemonic = "ridge reflect ecology purchase slogan hunt trigger trash lucky salad puppy vessel";
+var mnemonic = "loyal silly infant chest symptom cushion reward length gasp damp already harsh";

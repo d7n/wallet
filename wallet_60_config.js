@@ -1,1 +1,1 @@
-var mnemonic = "curious rocket tonight stamp occur dance nature subway timber leaf avoid brave";
+var mnemonic = "ankle height collect civil glow citizen gift saddle helmet calm nut nasty";

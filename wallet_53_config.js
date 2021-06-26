@@ -1,1 +1,1 @@
-var mnemonic = "recipe parent expire major camp crush judge robust price thumb toddler review";
+var mnemonic = "donor notice trend pool good sword host mouse flight job wire kind";

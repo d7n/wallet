@@ -1,1 +1,1 @@
-var mnemonic = "resist accuse inside flip potato dynamic assist muffin normal unfair pool repeat";
+var mnemonic = "meat exist tourist wreck easy reunion cloth wild artefact silent riot oblige";

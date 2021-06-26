@@ -1,1 +1,1 @@
-var mnemonic = "business scrub cage mean provide divert ten text page orange rookie easily";
+var mnemonic = "will sound stadium vapor hurdle tongue discover then flame layer eight nice";

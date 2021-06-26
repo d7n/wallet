@@ -1,1 +1,1 @@
-var mnemonic = "crime okay stomach crawl gap echo genre gauge figure exist moment paper";
+var mnemonic = "clutch border copy rubber grunt about vacuum refuse north face earth scheme";

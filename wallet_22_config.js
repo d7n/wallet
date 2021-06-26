@@ -1,1 +1,1 @@
-var mnemonic = "question enroll avocado silk example rally cliff napkin oblige between turn chapter";
+var mnemonic = "sad over must bird model sword usage cup exchange brown legal image";

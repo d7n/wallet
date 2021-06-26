@@ -1,1 +1,1 @@
-var mnemonic = "beach club that web rather agent unlock please onion unhappy cover choice";
+var mnemonic = "pet divorce emerge enforce hen inch matrix trash detail top lens develop";

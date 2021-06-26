@@ -1,1 +1,1 @@
-var mnemonic = "broccoli trap identify junk ethics mask muffin reunion upgrade alcohol glare submit";
+var mnemonic = "rail pause cannon feed soup bind helmet define science present banner fame";

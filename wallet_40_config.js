@@ -1,1 +1,1 @@
-var mnemonic = "inch post loan cradle pyramid vehicle estate random wood stone advice cart";
+var mnemonic = "citizen decrease mixture carry soup enemy east spread problem unveil toddler rich";

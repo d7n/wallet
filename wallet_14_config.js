@@ -1,1 +1,1 @@
-var mnemonic = "include short hamster glad clinic digital never script grab plunge catalog heart";
+var mnemonic = "casual beyond main praise mouse rhythm measure hedgehog mind coffee have they";

@@ -1,1 +1,1 @@
-var mnemonic = "stock wet frequent twelve immune zebra wild property hour surface gun coffee";
+var mnemonic = "swift host humble moon tobacco green scatter dog rug benefit purchase usage";

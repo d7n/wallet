@@ -1,1 +1,1 @@
-var mnemonic = "cricket blouse car apology coconut accident marine ten dumb picnic reveal pull";
+var mnemonic = "remember subway furnace captain soap surge jar rose merge invest obtain discover";

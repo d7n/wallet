@@ -1,1 +1,1 @@
-var mnemonic = "repeat desert object pipe cradle post virus doll bamboo breeze hospital point";
+var mnemonic = "swear beyond stage rival fabric tornado talk script observe betray slender gasp";

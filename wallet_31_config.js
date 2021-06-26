@@ -1,1 +1,1 @@
-var mnemonic = "ghost afraid limb oak rebuild keen strategy spread asthma enact shaft share";
+var mnemonic = "escape weekend elite right pattern absurd bird above vanish minute fever uphold";

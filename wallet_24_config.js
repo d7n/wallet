@@ -1,1 +1,1 @@
-var mnemonic = "pistol blood sound sunny erosion void cereal garden spoil dress tobacco lazy";
+var mnemonic = "forward soap salon twist open own soul dish fiction envelope army easily";

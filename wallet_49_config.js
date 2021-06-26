@@ -1,1 +1,1 @@
-var mnemonic = "thrive icon paddle common crazy elbow smart target stand spring total cave";
+var mnemonic = "antique carbon stomach country until chef industry behave adult milk father rhythm";

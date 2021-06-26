@@ -1,1 +1,1 @@
-var mnemonic = "spawn humble ketchup screen general mammal coconut path able pioneer video pencil";
+var mnemonic = "inch spray crunch panic select connect cargo enrich inner order powder wire";

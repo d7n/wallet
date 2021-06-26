@@ -1,1 +1,1 @@
-var mnemonic = "orchard buzz cargo group primary decide legal build employ rude subway input";
+var mnemonic = "shadow pole what attitude faith devote derive trigger imitate nest garbage biology";

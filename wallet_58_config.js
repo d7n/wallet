@@ -1,1 +1,1 @@
-var mnemonic = "inspire matter step salt twist youth arrest denial shock abandon project dish";
+var mnemonic = "cabin also short aisle modify goddess laundry surface tumble modify account unveil";

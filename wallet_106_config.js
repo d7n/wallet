@@ -1,1 +1,1 @@
-var mnemonic = "aware surprise helmet stadium relax curve discover flag deliver soup alert index";
+var mnemonic = "benefit rice inject motor dad thank cliff proud battle submit budget toward";

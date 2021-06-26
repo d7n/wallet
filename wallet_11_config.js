@@ -1,1 +1,1 @@
-var mnemonic = "jaguar cricket know rather jaguar auction bachelor slim olive document recycle blush";
+var mnemonic = "device creek maze stock industry easily couch verify follow cupboard seven gauge";

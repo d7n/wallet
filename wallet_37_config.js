@@ -1,1 +1,1 @@
-var mnemonic = "prepare congress honey again panel insect quiz uncover arrive lawn usual grid";
+var mnemonic = "govern party sudden absent slice asset village regular firm amount garlic doll";

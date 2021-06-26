@@ -1,1 +1,1 @@
-var mnemonic = "abstract mosquito damage ridge angry bid timber bubble aisle ladder mercy work";
+var mnemonic = "mule rapid beef describe casual media chalk frequent unit siege there solar";

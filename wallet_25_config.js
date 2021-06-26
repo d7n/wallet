@@ -1,1 +1,1 @@
-var mnemonic = "muffin follow purpose table rug remember ride slice resemble stove page attitude";
+var mnemonic = "table copper stomach rally all excuse damp autumn liquid choose hundred frequent";

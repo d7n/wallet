@@ -1,1 +1,1 @@
-var mnemonic = "absent drill candy drill hair whisper warm detect quality miracle tent borrow";
+var mnemonic = "sorry foil music science leisure old valley birth draft vote polar bring";

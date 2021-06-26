@@ -1,1 +1,1 @@
-var mnemonic = "ivory quick remain banner mad panel market share actress manage trip drop";
+var mnemonic = "scrap message risk final audit bomb antique shove sudden hire audit inherit";

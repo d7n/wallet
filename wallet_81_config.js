@@ -1,1 +1,1 @@
-var mnemonic = "rent bounce paper arm tiger width three arena whip mouse life consider";
+var mnemonic = "struggle steak first hood mistake load ugly ticket fever buddy wet cupboard";

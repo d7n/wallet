@@ -1,1 +1,1 @@
-var mnemonic = "park proof hub hunt wonder galaxy switch aspect source asset praise damp";
+var mnemonic = "news sister open regret total throw dream cram recall dress digital agree";
