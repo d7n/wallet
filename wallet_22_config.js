@@ -1,1 +1,1 @@
-var mnemonic = "grape conduct often jeans vendor morning sudden leg exile ability cabbage replace";
+var mnemonic = "gap concert entire wealth pool give exact car guilt caught garment ice";

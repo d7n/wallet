@@ -1,1 +1,1 @@
-var mnemonic = "head senior dove toward vault youth warrior crystal brother meadow trend iron";
+var mnemonic = "service gloom multiply divide alley pass satisfy story crane dynamic glimpse nominee";

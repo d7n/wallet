@@ -1,1 +1,1 @@
-var mnemonic = "embark hurry exact market put vacant honey share dinner kitchen october more";
+var mnemonic = "mobile unknown sister lake auction plug tank kite edge neglect tent coin";

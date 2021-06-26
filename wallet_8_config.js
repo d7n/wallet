@@ -1,1 +1,1 @@
-var mnemonic = "tribe video pupil able exile grit raven fatigue shadow leave palace man";
+var mnemonic = "rebuild noodle veteran swamp swift large rib flower three cement extra magic";

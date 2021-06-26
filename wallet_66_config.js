@@ -1,1 +1,1 @@
-var mnemonic = "claw concert sick corn urge walnut amazing rural damp math actor unveil";
+var mnemonic = "predict bread mimic kiwi ahead allow sustain fury robot shrimp whale later";

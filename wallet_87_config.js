@@ -1,1 +1,1 @@
-var mnemonic = "leader open grace sauce scrap other tide critic gadget uniform inquiry fiber";
+var mnemonic = "empty grass better either essence control tube move razor awkward club side";

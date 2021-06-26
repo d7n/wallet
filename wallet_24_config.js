@@ -1,1 +1,1 @@
-var mnemonic = "merge december dwarf hobby ring sister knee runway tuna ability mechanic lock";
+var mnemonic = "trial garment view luggage abandon load hire glow organ august rain muscle";

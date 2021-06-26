@@ -1,1 +1,1 @@
-var mnemonic = "sunny twenty polar vague now noise cook travel hope reveal sock salad";
+var mnemonic = "patient spirit endorse kiwi rough tube taxi room brown spread armed domain";

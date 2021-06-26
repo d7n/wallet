@@ -1,1 +1,1 @@
-var mnemonic = "toilet security slow guilt ancient sheriff swift lonely pond clutch relief rigid";
+var mnemonic = "crunch general victory wagon silver where common knock toddler quantum end egg";

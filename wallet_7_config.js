@@ -1,1 +1,1 @@
-var mnemonic = "grace inflict garden submit palm chef setup immune adjust real fantasy friend";
+var mnemonic = "used family when erode crunch juice know course matrix orbit nephew slim";

@@ -1,1 +1,1 @@
-var mnemonic = "robust prepare unfair salt spin pen popular uphold ostrich bracket divide penalty";
+var mnemonic = "culture pudding solve myself monitor double loud issue scissors admit antique eye";

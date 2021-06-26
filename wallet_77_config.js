@@ -1,1 +1,1 @@
-var mnemonic = "expect quality jeans skull lizard cactus nasty ostrich reward ready jazz mistake";
+var mnemonic = "neutral swift tumble legend afraid apology upset situate keep oppose beach advance";

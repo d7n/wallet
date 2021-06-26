@@ -1,1 +1,1 @@
-var mnemonic = "picture gap retire right install illness kiss payment crater affair spread giant";
+var mnemonic = "street level goat prosper capable diet assist process jelly shock whip mixed";

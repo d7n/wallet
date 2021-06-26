@@ -1,1 +1,1 @@
-var mnemonic = "borrow toilet point cram release voyage extend lunar repeat address case frequent";
+var mnemonic = "analyst mass divide cliff cruise under odor ostrich village hybrid mouse hill";

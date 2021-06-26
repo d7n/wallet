@@ -1,1 +1,1 @@
-var mnemonic = "beauty nephew judge few staff again maple cliff upset earn common unveil";
+var mnemonic = "nice tourist muffin exercise burst card setup minimum inform alter wreck issue";

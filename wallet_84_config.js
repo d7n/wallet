@@ -1,1 +1,1 @@
-var mnemonic = "doll horn refuse voice tobacco unusual blue emerge page observe assault captain";
+var mnemonic = "immense trim electric depend pluck lemon rail man acoustic merit meat patch";

@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin access ladder vehicle village genuine know risk right joy hurdle fit";
+var mnemonic = "core lyrics bird dad barrel adult again stay item around sibling rifle";

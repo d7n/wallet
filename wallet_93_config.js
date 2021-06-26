@@ -1,1 +1,1 @@
-var mnemonic = "shoot obtain scrap grab shell want valid boss relax equip cotton giraffe";
+var mnemonic = "express chapter level feature kitten proud wing clarify wink humble region include";

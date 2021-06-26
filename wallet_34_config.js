@@ -1,1 +1,1 @@
-var mnemonic = "inspire chunk erode remind pattern cousin guess ride rack crunch idle record";
+var mnemonic = "fee hockey load beach buffalo grief argue oval luxury waste dumb quit";

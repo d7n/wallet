@@ -1,1 +1,1 @@
-var mnemonic = "summer divert extra heart uniform pear umbrella honey myself drip output omit";
+var mnemonic = "start spot stem payment review mean extend recycle shock tip exhaust box";

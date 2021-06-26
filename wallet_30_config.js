@@ -1,1 +1,1 @@
-var mnemonic = "grant flower modify special couch faculty avoid milk rude chuckle ability feed";
+var mnemonic = "grow reason develop write latin lawn unknown powder update visa bag uphold";

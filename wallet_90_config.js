@@ -1,1 +1,1 @@
-var mnemonic = "stick unhappy pepper casual tongue gospel find nuclear poet busy lemon piano";
+var mnemonic = "fetch viable tube charge vacuum sudden shallow town connect fence panda private";

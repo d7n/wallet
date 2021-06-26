@@ -1,1 +1,1 @@
-var mnemonic = "blood butter uncle empower humor rotate glide range obscure wash trumpet insane";
+var mnemonic = "begin drastic priority canal unique message stumble beyond dizzy ivory gorilla robot";

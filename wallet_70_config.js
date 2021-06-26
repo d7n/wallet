@@ -1,1 +1,1 @@
-var mnemonic = "hover fault chalk catalog super december belt used flag reveal north swim";
+var mnemonic = "oven proud mixture good stone script scan know immense tomato tunnel glue";

@@ -1,1 +1,1 @@
-var mnemonic = "burger tobacco cruise wedding stand poverty obvious pistol burden occur brain april";
+var mnemonic = "book library insect champion galaxy rubber evoke until radio orient time rifle";

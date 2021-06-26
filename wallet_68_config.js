@@ -1,1 +1,1 @@
-var mnemonic = "magic duty safe gate ten fury north prevent crisp grab treat embark";
+var mnemonic = "kick strong range grace session cart salute inherit suggest primary position rich";

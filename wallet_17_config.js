@@ -1,1 +1,1 @@
-var mnemonic = "minimum parade essay above hat next mask detect imitate spawn unique cabin";
+var mnemonic = "daring rose fall ancient immune panel dentist crew monkey huge jealous shock";

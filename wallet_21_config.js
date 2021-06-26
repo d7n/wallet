@@ -1,1 +1,1 @@
-var mnemonic = "response kind robust exhaust equal crawl cabbage chapter cargo square travel smoke";
+var mnemonic = "sausage mixed bronze dress repeat deer entire vicious antenna skull angry coil";

@@ -1,1 +1,1 @@
-var mnemonic = "hire orient daring orchard charge pink wheel age mistake spider because approve";
+var mnemonic = "lab symbol small liberty age orient robust morning vapor glimpse elbow frequent";

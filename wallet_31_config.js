@@ -1,1 +1,1 @@
-var mnemonic = "staff online midnight swing hand culture goddess leave acoustic three select change";
+var mnemonic = "inspire custom genre nose skill birth east rescue panel sign enter meadow";

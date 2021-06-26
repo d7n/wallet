@@ -1,1 +1,1 @@
-var mnemonic = "anxiety dirt resist race fragile gift act sentence elephant achieve equip pretty";
+var mnemonic = "discover identify claim deposit account flush around blouse this youth genre minor";

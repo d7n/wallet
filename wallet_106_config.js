@@ -1,1 +1,1 @@
-var mnemonic = "job cable always beef feature divert decade liberty drip fresh horror glance";
+var mnemonic = "manual grain animal capital other blast tribe enjoy truth close fantasy result";

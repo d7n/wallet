@@ -1,1 +1,1 @@
-var mnemonic = "gospel school lawsuit vessel farm arrange column conduct thing upon squeeze couch";
+var mnemonic = "bid simple chunk miss vapor pulp suggest wash armed dune leisure upon";

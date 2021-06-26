@@ -1,1 +1,1 @@
-var mnemonic = "copy dynamic secret spot extend lecture example royal globe waste interest enemy";
+var mnemonic = "scissors miss sure ramp fortune pluck subject sniff resource law first pear";

@@ -1,1 +1,1 @@
-var mnemonic = "finish half animal plastic coffee few receive slab van recall tube three";
+var mnemonic = "essence gauge rack genius cluster shoulder burst time achieve art clever security";

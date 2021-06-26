@@ -1,1 +1,1 @@
-var mnemonic = "brass aerobic increase mountain pumpkin label they tip spawn deputy rent quit";
+var mnemonic = "swift pistol merry office jungle stock dizzy hope jaguar giant fancy liquid";

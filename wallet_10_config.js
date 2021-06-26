@@ -1,1 +1,1 @@
-var mnemonic = "february enhance step yellow settle moon mean stem cloth smooth unique toilet";
+var mnemonic = "diary mule ring couple valve pencil crime tragic rule among track must";

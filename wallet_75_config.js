@@ -1,1 +1,1 @@
-var mnemonic = "armor argue repeat firm crack peace decline render hint control same lawsuit";
+var mnemonic = "arrest marriage speed giggle pill act obvious mystery lawn maple canoe art";

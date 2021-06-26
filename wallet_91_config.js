@@ -1,1 +1,1 @@
-var mnemonic = "check divide buddy manual window squeeze law critic team border nurse then";
+var mnemonic = "paddle faith decide gift math bread present hill master type chief relax";

@@ -1,1 +1,1 @@
-var mnemonic = "admit dynamic runway toast antique burst ice lucky toe bridge bind diesel";
+var mnemonic = "poverty atom tumble purity proud kit asthma endorse pave warfare ecology diesel";

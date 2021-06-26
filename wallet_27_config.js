@@ -1,1 +1,1 @@
-var mnemonic = "toddler elevator between sleep amount pair build dose wagon dwarf orphan section";
+var mnemonic = "never hospital endless warrior mention point barely female buddy salad weekend steak";

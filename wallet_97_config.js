@@ -1,1 +1,1 @@
-var mnemonic = "soup zebra affair brother whip rapid milk asthma hip install pencil present";
+var mnemonic = "west velvet cupboard concert opinion result village salad peanut tiny business soda";

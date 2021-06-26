@@ -1,1 +1,1 @@
-var mnemonic = "capable valve company chest umbrella cool income magnet space satisfy finish else";
+var mnemonic = "siege make forum today degree foam shop kid idea almost dynamic another";

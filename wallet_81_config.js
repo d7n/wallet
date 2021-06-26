@@ -1,1 +1,1 @@
-var mnemonic = "spawn rookie lounge boss junior liar illness armed turkey soup mountain accident";
+var mnemonic = "cable tower sock frequent digital north chicken what narrow member hawk express";

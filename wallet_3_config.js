@@ -1,1 +1,1 @@
-var mnemonic = "duck meadow guitar cup obscure physical lunch desk weird now giant fork";
+var mnemonic = "bronze resource chapter earn vehicle ritual stamp guitar change tenant cement reopen";

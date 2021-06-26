@@ -1,1 +1,1 @@
-var mnemonic = "pear snack photo swim knife win like empty inside ritual select moon";
+var mnemonic = "alarm leopard muscle barely habit label argue rally badge defense jaguar sense";

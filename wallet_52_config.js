@@ -1,1 +1,1 @@
-var mnemonic = "connect hurt lizard execute crowd laugh pole very cram upper sibling tomato";
+var mnemonic = "island pigeon canyon admit release wide helmet again gown horn acid industry";

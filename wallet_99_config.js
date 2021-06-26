@@ -1,1 +1,1 @@
-var mnemonic = "raccoon figure pause drift kitchen faculty faint flight curtain wide tunnel vicious";
+var mnemonic = "artwork curtain crunch direct pledge test talent sniff hour prize poem blouse";

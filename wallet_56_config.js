@@ -1,1 +1,1 @@
-var mnemonic = "invite burden cream until total pretty nominee share drastic amused grain assist";
+var mnemonic = "message romance speak kiwi unusual artist novel another private rabbit evidence satisfy";

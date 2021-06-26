@@ -1,1 +1,1 @@
-var mnemonic = "pill sure ready stairs fever village inner wink crowd tuition spirit danger";
+var mnemonic = "argue clock problem daughter rare dice farm diesel crunch grant stairs pole";

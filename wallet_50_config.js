@@ -1,1 +1,1 @@
-var mnemonic = "mass empower novel laugh argue maximum best merit salute combine cherry donate";
+var mnemonic = "menu gold laptop oven north summer wall tonight congress rookie target shuffle";

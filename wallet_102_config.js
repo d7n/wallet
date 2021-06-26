@@ -1,1 +1,1 @@
-var mnemonic = "race item equip degree fiscal judge arena grid six aerobic pair intact";
+var mnemonic = "fall napkin draw safe inch magic decorate deposit surge news side shrug";

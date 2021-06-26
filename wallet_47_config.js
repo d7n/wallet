@@ -1,1 +1,1 @@
-var mnemonic = "speak core moment ride wise answer claw derive ship camp hover inquiry";
+var mnemonic = "arch photo napkin album artist orient bamboo shaft blue that city employ";

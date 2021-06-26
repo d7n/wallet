@@ -1,1 +1,1 @@
-var mnemonic = "brother punch laugh enter check upper cattle comfort wolf medal sunset tongue";
+var mnemonic = "excess thank glove hire prevent movie behind believe crazy orphan urge ghost";

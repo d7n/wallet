@@ -1,1 +1,1 @@
-var mnemonic = "amazing music giraffe govern play surprise genre fringe rookie dwarf youth iron";
+var mnemonic = "chef shy life stock session prepare relax lawn search waste plunge race";

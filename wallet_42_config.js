@@ -1,1 +1,1 @@
-var mnemonic = "bag power equip essence tobacco retreat burst shift fabric funny pigeon argue";
+var mnemonic = "cannon home wing cram ski giant seat day eager frequent hire horror";

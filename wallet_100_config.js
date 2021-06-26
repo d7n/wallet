@@ -1,1 +1,1 @@
-var mnemonic = "love fox edge skirt layer ritual pave device laptop sand garbage bullet";
+var mnemonic = "bachelor peasant mesh museum want aisle stem hotel unaware demise winner pelican";

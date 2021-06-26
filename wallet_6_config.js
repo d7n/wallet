@@ -1,1 +1,1 @@
-var mnemonic = "plastic alert shift wise wear clinic knock cloth urge fabric adapt silk";
+var mnemonic = "craft alarm lawn virus bring armed twin copper crunch spend chimney donor";

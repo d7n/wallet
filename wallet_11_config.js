@@ -1,1 +1,1 @@
-var mnemonic = "road project unhappy stay north super proud huge kite orphan pattern fuel";
+var mnemonic = "receive vital market decline tattoo distance strike feature brief remember never spoil";

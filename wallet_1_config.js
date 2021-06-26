@@ -1,1 +1,1 @@
-var mnemonic = "sponsor suggest oak emerge field nuclear baby boring praise relief index balance";
+var mnemonic = "video rhythm opinion horror dismiss office bonus arrow theory unaware random ball";

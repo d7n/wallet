@@ -1,1 +1,1 @@
-var mnemonic = "update ignore mammal dad renew caught snap reject shoulder camera wealth tiger";
+var mnemonic = "pitch relief image open guess metal bitter stumble cup quantum roast poem";

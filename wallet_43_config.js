@@ -1,1 +1,1 @@
-var mnemonic = "warm gas oppose ramp potato pride gain magic race fold actress candy";
+var mnemonic = "chalk borrow price protect frozen tool body clean satoshi close work jewel";

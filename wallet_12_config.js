@@ -1,1 +1,1 @@
-var mnemonic = "first side upgrade solid online window ugly spot interest minor crouch other";
+var mnemonic = "grunt race response super idle blur shine cheese tragic never axis turkey";

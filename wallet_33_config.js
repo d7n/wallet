@@ -1,1 +1,1 @@
-var mnemonic = "green crime draw field home cake boil nerve expose like comfort story";
+var mnemonic = "purse neck lizard diesel amateur disagree great mind match motion obey artwork";

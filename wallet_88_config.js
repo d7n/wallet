@@ -1,1 +1,1 @@
-var mnemonic = "sample furnace fault fire title label member liquid spoil elder select rough";
+var mnemonic = "depend cloth winner spirit picture broccoli cross legend unaware gorilla escape behind";

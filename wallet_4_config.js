@@ -1,1 +1,1 @@
-var mnemonic = "cave daughter army boy barely organ island safe panic unique leg butter";
+var mnemonic = "afraid shiver case bounce grocery harvest much dismiss very cheese rice slogan";

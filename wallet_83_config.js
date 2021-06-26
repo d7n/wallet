@@ -1,1 +1,1 @@
-var mnemonic = "embrace sleep monster expand marble mercy glove human heart light clerk grow";
+var mnemonic = "law casino post gravity amount sphere thrive endorse material ridge below broom";

@@ -1,1 +1,1 @@
-var mnemonic = "shaft solution side tree zoo baby east picture guard toddler club blast";
+var mnemonic = "meadow arrange display churn idle train addict post salute celery replace dirt";

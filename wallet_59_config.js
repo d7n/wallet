@@ -1,1 +1,1 @@
-var mnemonic = "job upset modify chunk dune measure sleep bean very juice can flip";
+var mnemonic = "nuclear mammal hill crucial buddy lawsuit know punch scissors call chapter magic";

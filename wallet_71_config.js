@@ -1,1 +1,1 @@
-var mnemonic = "maze you clever dice recipe connect recall lobster express vacant opera tunnel";
+var mnemonic = "afraid clever regular involve neglect assist glare crowd yellow symptom spot polar";

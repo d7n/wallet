@@ -1,1 +1,1 @@
-var mnemonic = "front mimic ocean lemon raven filter vanish security path piece pudding comic";
+var mnemonic = "flock very harbor token daring under spread rhythm hurt illegal gospel drastic";

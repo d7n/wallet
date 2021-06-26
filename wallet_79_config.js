@@ -1,1 +1,1 @@
-var mnemonic = "grape swift dice antique judge train erase left shoot stove rubber custom";
+var mnemonic = "update announce crack just silly obvious meat behave matter denial volcano wrestle";

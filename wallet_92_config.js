@@ -1,1 +1,1 @@
-var mnemonic = "this reject cotton must camp canoe scout nothing family loud review book";
+var mnemonic = "analyst upon magic piece object myth build network blame goddess face fashion";

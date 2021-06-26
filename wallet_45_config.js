@@ -1,1 +1,1 @@
-var mnemonic = "defy interest seek rather palm chat hello result pen soccer summer lottery";
+var mnemonic = "whip grass multiply faculty beauty egg seek earn divide duty theory arrange";

@@ -1,1 +1,1 @@
-var mnemonic = "lens music lock tree assault civil side parrot multiply van behave ethics";
+var mnemonic = "awful bitter three ribbon inform omit lock embrace visa horse slab finger";

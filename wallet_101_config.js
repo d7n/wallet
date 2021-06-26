@@ -1,1 +1,1 @@
-var mnemonic = "fee cattle peasant visit ethics include glove domain top muscle bring brain";
+var mnemonic = "aisle vessel helmet run stereo seed phrase reward enrich jazz useless art";

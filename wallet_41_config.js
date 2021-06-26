@@ -1,1 +1,1 @@
-var mnemonic = "scrub faculty wave balcony return scale behave bag soul chief metal gather";
+var mnemonic = "load spatial liquid bone awake process pilot tissue sauce rapid tail tower";

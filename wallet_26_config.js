@@ -1,1 +1,1 @@
-var mnemonic = "salt witness nature resource awful famous twist pattern cable okay burger admit";
+var mnemonic = "together obey canal swim mother affair tool lyrics wall amount multiply gift";

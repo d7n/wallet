@@ -1,1 +1,1 @@
-var mnemonic = "story roof dragon arrest feed vacant glory nest silent palm luxury account";
+var mnemonic = "very arctic enact dish debate grid mother parrot stereo expire moon item";

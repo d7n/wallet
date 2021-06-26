@@ -1,1 +1,1 @@
-var mnemonic = "change maple million woman timber column veteran motor trigger luggage daring bonus";
+var mnemonic = "shift brother country amount oxygen try submit party crunch since shaft elder";

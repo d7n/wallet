@@ -1,1 +1,1 @@
-var mnemonic = "drastic already appear clap alcohol original photo promote wall access three dilemma";
+var mnemonic = "common clump candy grace window method daring wolf final echo type income";

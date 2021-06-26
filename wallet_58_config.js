@@ -1,1 +1,1 @@
-var mnemonic = "hollow bean zoo more sketch conduct mosquito permit then gentle gloom prefer";
+var mnemonic = "vacuum able giggle alcohol student island auto kingdom crash afraid huge plate";

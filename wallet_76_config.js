@@ -1,1 +1,1 @@
-var mnemonic = "wrap uncle exit shine theory woman evidence wait clock forest guard adult";
+var mnemonic = "trim sun worth turkey conduct judge much behind among glow foam jungle";

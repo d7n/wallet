@@ -1,1 +1,1 @@
-var mnemonic = "feel medal emotion foam task level kit brand eager planet bachelor chaos";
+var mnemonic = "lounge plunge enjoy spoon jeans young holiday immense box federal clump enroll";

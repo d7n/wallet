@@ -1,1 +1,1 @@
-var mnemonic = "leave draft pudding quarter clutch throw remember elder relax edit whip approve";
+var mnemonic = "fruit kitchen skirt then metal energy effort dinner ghost talk craft moment";

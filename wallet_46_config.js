@@ -1,1 +1,1 @@
-var mnemonic = "because blast puzzle denial crash exhibit garden state box away grain orange";
+var mnemonic = "weasel mango grass satisfy voice whip medal clip dynamic galaxy bid faith";

@@ -1,1 +1,1 @@
-var mnemonic = "surround define coyote observe region black level payment aisle neglect drive settle";
+var mnemonic = "arrest pulp design cage dune west soul explain bomb bar diesel banana";

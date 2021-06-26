@@ -1,1 +1,1 @@
-var mnemonic = "mad sheriff lady balcony eager august ill gorilla tell wagon damage endorse";
+var mnemonic = "smart want similar major athlete access nephew december cream lamp swamp matter";

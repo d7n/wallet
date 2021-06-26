@@ -1,1 +1,1 @@
-var mnemonic = "flag reward seminar practice tennis voice smile confirm ski vapor round upgrade";
+var mnemonic = "doll ramp grab better fuel under term zoo design uncle icon dose";

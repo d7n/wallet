@@ -1,1 +1,1 @@
-var mnemonic = "release mean promote chicken index spot soup elevator involve predict dentist art";
+var mnemonic = "art crumble winter fence behind spy pole script ocean lounge involve pizza";

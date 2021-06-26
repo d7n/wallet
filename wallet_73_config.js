@@ -1,1 +1,1 @@
-var mnemonic = "filter firm fee mushroom behind lounge original umbrella hurry myth fan trim";
+var mnemonic = "direct holiday off valid actor income pluck panther ghost solar utility mule";

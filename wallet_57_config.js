@@ -1,1 +1,1 @@
-var mnemonic = "good divert damp fade unveil rack collect couple jaguar gun fiber tourist";
+var mnemonic = "live duty upon perfect focus album salute maple sign brisk nephew behave";

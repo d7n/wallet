@@ -1,1 +1,1 @@
-var mnemonic = "pitch wild master dismiss jeans rate toe hat pistol bone solid discover";
+var mnemonic = "argue better when firm repeat rare model pattern occur blind boss goose";

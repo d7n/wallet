@@ -1,1 +1,1 @@
-var mnemonic = "wink good column stage coffee flush clown clarify accident buyer credit clap";
+var mnemonic = "deposit flight polar edit negative globe range coach verify claw rotate frost";
