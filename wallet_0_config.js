@@ -1,1 +1,1 @@
-var mnemonic = "coach august reward dolphin raise label busy okay two east path globe";
+var mnemonic = "neck figure caught such payment clock nature rival raw clown arctic axis";

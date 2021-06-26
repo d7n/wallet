@@ -1,1 +1,1 @@
-var mnemonic = "year season cabbage faculty aunt diamond alpha rather novel memory waste ready";
+var mnemonic = "open glare cotton erode lucky top barrel lava one nation guard disease";

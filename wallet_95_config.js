@@ -1,1 +1,1 @@
-var mnemonic = "there raccoon over develop zebra lady match estate sand betray upon settle";
+var mnemonic = "twelve vague ensure clinic bubble claw that cigar crystal real insect word";

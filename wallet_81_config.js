@@ -1,1 +1,1 @@
-var mnemonic = "crack shift alcohol audit bunker shoulder voice ocean dose garden firm march";
+var mnemonic = "away swift wool alone park father stomach zebra earth carry divert gloom";

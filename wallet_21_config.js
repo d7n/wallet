@@ -1,1 +1,1 @@
-var mnemonic = "special civil symbol sign ginger route laundry reject basket beach exotic pride";
+var mnemonic = "inhale enlist someone powder flower alien owner select reward coin absorb subway";

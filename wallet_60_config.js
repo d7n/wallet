@@ -1,1 +1,1 @@
-var mnemonic = "chunk cactus garage rice differ frown wild champion enable heavy iron return";
+var mnemonic = "tilt suffer visa math address physical brand happy runway mechanic fold merge";

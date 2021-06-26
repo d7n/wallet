@@ -1,1 +1,1 @@
-var mnemonic = "poet purpose robust control essence oven season run shell attract safe limb";
+var mnemonic = "blame adult hurt outer patient actor wrong welcome sleep already limit sweet";

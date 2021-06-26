@@ -1,1 +1,1 @@
-var mnemonic = "travel idle brick phrase dish tattoo mask happy renew coyote faith legend";
+var mnemonic = "ecology fragile stuff share fiscal stem excite pencil door crucial clinic reject";

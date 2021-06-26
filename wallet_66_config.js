@@ -1,1 +1,1 @@
-var mnemonic = "spatial wheat scout cram crush chalk impose flight emotion spray unaware transfer";
+var mnemonic = "biology vague mammal visual rifle demise view stuff laptop goddess list mutual";

@@ -1,1 +1,1 @@
-var mnemonic = "shed curve kiwi bench manual canvas apart olive sight flip chronic weather";
+var mnemonic = "drum tilt approve one ride father metal valley rug verify thunder decorate";

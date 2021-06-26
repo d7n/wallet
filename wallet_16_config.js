@@ -1,1 +1,1 @@
-var mnemonic = "frog enforce cycle stay else erupt chunk aisle leave purchase cash limit";
+var mnemonic = "soul core limit genius pepper symptom idea meadow fluid push tattoo bone";

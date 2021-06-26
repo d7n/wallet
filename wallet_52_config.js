@@ -1,1 +1,1 @@
-var mnemonic = "manual puzzle gaze smart note light trim feel wheat want pink torch";
+var mnemonic = "truck immune beach destroy chimney debris prison radio bean silly law hidden";

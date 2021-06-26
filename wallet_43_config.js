@@ -1,1 +1,1 @@
-var mnemonic = "sugar famous never require rubber blood wish steel gadget island electric later";
+var mnemonic = "gold cousin choose reward fluid involve clarify harvest night web victory grass";

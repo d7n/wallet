@@ -1,1 +1,1 @@
-var mnemonic = "inspire romance concert barely type kidney stadium neck shy east kangaroo use";
+var mnemonic = "flee trophy grit utility middle magnet glide course hope ripple almost ball";

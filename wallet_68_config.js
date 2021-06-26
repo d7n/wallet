@@ -1,1 +1,1 @@
-var mnemonic = "behind garbage govern glance cinnamon tree cousin bike road lonely sustain broken";
+var mnemonic = "unit chase mom online easily mountain almost shoot clown apart calm dial";

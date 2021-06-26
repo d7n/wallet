@@ -1,1 +1,1 @@
-var mnemonic = "rule almost teach bind afraid paddle arch attend ecology company spring member";
+var mnemonic = "maximum employ shoot mesh spot clay donor coconut best artwork among drastic";

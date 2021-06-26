@@ -1,1 +1,1 @@
-var mnemonic = "auction tube whip animal width autumn board swim extra lounge moral palace";
+var mnemonic = "equip cactus upset hint body measure drama casual useful habit vault surround";

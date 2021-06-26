@@ -1,1 +1,1 @@
-var mnemonic = "pelican company since barrel visa cliff night filter ill rate entire scrub";
+var mnemonic = "pause surround stick spring cash live add genius fossil dinosaur boring leave";

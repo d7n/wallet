@@ -1,1 +1,1 @@
-var mnemonic = "wild yard myself laptop toast wasp raise shop invite kiwi execute scan";
+var mnemonic = "radio utility route differ coin debate caught surge solve indoor village zone";

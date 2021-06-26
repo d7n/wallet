@@ -1,1 +1,1 @@
-var mnemonic = "trust dawn net age random output credit hobby wall chuckle nose lake";
+var mnemonic = "save disorder drastic slot match capable warrior device vehicle awful print token";

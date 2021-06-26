@@ -1,1 +1,1 @@
-var mnemonic = "tape hammer tonight gorilla smooth argue human ball educate kit toilet seed";
+var mnemonic = "punch gallery engine ignore track document economy display cave knock fee snow";

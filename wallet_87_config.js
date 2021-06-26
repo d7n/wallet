@@ -1,1 +1,1 @@
-var mnemonic = "case style harbor stumble juice sunset jealous kitten width price shove artist";
+var mnemonic = "manage cake want theme argue nominee puzzle empty before box also lounge";

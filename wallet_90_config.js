@@ -1,1 +1,1 @@
-var mnemonic = "other cost weasel absurd infant bar three expect hurt unfold buzz final";
+var mnemonic = "merit fire fame public sunset loop alter stage near sorry elephant opinion";

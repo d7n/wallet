@@ -1,1 +1,1 @@
-var mnemonic = "warm faith reduce improve motion rapid human expand meadow dog derive cannon";
+var mnemonic = "uncle skate effort almost hood crystal fat damp unfair fiber proof sing";

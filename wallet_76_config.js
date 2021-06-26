@@ -1,1 +1,1 @@
-var mnemonic = "indoor loan settle subject boss caught second input valley curious language clump";
+var mnemonic = "robot fold above way scale speed aspect awful wheel close innocent logic";

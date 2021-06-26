@@ -1,1 +1,1 @@
-var mnemonic = "submit connect before swear lunar sense retire used subject crew whip report";
+var mnemonic = "honey deputy fluid ivory salon unfold ketchup intact december erupt gesture quiz";

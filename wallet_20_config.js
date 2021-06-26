@@ -1,1 +1,1 @@
-var mnemonic = "walk tissue pet derive achieve sun soda slogan purse wisdom female video";
+var mnemonic = "canvas ghost swing future weapon life rebuild cat mix token demand gate";

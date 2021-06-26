@@ -1,1 +1,1 @@
-var mnemonic = "indicate labor piano truly cute exercise ankle wedding spare post ship doctor";
+var mnemonic = "true blood fun cheap risk discover say stand relax hybrid major pudding";

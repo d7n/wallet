@@ -1,1 +1,1 @@
-var mnemonic = "small excuse hard nominee steel destroy setup truth rate million police trouble";
+var mnemonic = "harvest wrong setup start tray fashion method trim child govern enrich catch";

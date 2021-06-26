@@ -1,1 +1,1 @@
-var mnemonic = "lazy spare ranch extend shine jewel gloom sister crowd coach tag above";
+var mnemonic = "transfer chair inch engage side marble fish noise blush cradle obtain mosquito";

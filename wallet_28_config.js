@@ -1,1 +1,1 @@
-var mnemonic = "creek split dirt quiz spread curve stick room identify dignity blur kidney";
+var mnemonic = "sausage dinner curtain talent valid ketchup melody purity sugar mention call suspect";

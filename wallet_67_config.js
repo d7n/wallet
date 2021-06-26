@@ -1,1 +1,1 @@
-var mnemonic = "oak case certain six ice other scatter crucial vivid iron atom unfair";
+var mnemonic = "canal project pull dance diamond dice mouse possible wedding tuition race category";

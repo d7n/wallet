@@ -1,1 +1,1 @@
-var mnemonic = "syrup question demise certain alarm detail insane multiply sight chicken cause buddy";
+var mnemonic = "grass system stick screen shallow wait census fame will know father frog";

@@ -1,1 +1,1 @@
-var mnemonic = "orphan resist heavy deliver apart wheel electric sugar congress rose skill lunch";
+var mnemonic = "secret pluck midnight noble bird olympic card peasant screen rose carpet hat";

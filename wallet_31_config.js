@@ -1,1 +1,1 @@
-var mnemonic = "slot jeans copper penalty soccer timber member song supreme link pledge deputy";
+var mnemonic = "tragic silly boost system library buyer rude foil tooth fancy tomorrow champion";

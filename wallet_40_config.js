@@ -1,1 +1,1 @@
-var mnemonic = "job minimum toss length erode wing arctic head medal shed style betray";
+var mnemonic = "stairs wish connect start timber weasel adapt seat security opinion episode portion";

@@ -1,1 +1,1 @@
-var mnemonic = "client effort powder liberty analyst cinnamon next below entry ignore casual illness";
+var mnemonic = "twice mule bomb funny spend nephew bridge purpose enforce orphan kitten amateur";

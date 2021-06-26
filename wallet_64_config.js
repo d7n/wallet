@@ -1,1 +1,1 @@
-var mnemonic = "wire gate ghost jaguar spell panel express copy cinnamon age siege flash";
+var mnemonic = "weird oval advice post beef convince sand ocean test lumber credit upon";

@@ -1,1 +1,1 @@
-var mnemonic = "already awesome expire once sketch lawsuit master acid menu hockey outer name";
+var mnemonic = "orchard where attract fabric opinion cricket alley tennis peasant drift creek butter";

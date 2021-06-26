@@ -1,1 +1,1 @@
-var mnemonic = "good frost survey inform identify what method mountain birth upset capable neutral";
+var mnemonic = "rookie pill seed rubber draw basic derive sponsor fun blind capable crowd";

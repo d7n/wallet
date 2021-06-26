@@ -1,1 +1,1 @@
-var mnemonic = "simple lobster corn wish tissue please acoustic dinner muscle edge sleep apple";
+var mnemonic = "leisure faint flip stairs labor govern sketch spoon sunset unique govern try";

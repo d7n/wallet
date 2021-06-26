@@ -1,1 +1,1 @@
-var mnemonic = "require service setup peanut garlic remind host defense story window cricket witness";
+var mnemonic = "hat cupboard artefact danger grit wine game salute grief find orient truth";

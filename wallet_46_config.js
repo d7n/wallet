@@ -1,1 +1,1 @@
-var mnemonic = "someone flock mail gadget force violin pizza guilt regret nuclear stairs mango";
+var mnemonic = "olympic license evil airport ecology elevator keep other nerve diet alert tennis";

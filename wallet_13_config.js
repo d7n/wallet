@@ -1,1 +1,1 @@
-var mnemonic = "tent victory pact plunge ceiling extra quantum deer quit fatal raven tree";
+var mnemonic = "fiscal genuine liquid member swing coconut habit census sting frost execute dutch";

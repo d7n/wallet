@@ -1,1 +1,1 @@
-var mnemonic = "match wrist deny chaos trust quantum estate essay situate ghost inject say";
+var mnemonic = "call notice play example tomato brisk grid claw shoulder veteran opera gravity";

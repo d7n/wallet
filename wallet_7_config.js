@@ -1,1 +1,1 @@
-var mnemonic = "charge salt regret bind cigar theory icon walnut dad police correct devote";
+var mnemonic = "negative climb element salon upon marine knock combine worth north era wool";

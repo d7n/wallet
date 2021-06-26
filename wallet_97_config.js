@@ -1,1 +1,1 @@
-var mnemonic = "run heavy copper ostrich section tribe book bag unveil prize goddess behind";
+var mnemonic = "belt outside jelly chunk hair viable doll tissue slender normal curtain talent";

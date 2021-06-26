@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow grow public noise peanut faint join coconut saddle work draw tattoo";
+var mnemonic = "wagon seek method noble federal bulk silver raven insect egg bag toe";

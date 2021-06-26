@@ -1,1 +1,1 @@
-var mnemonic = "scheme possible only clean anchor illegal decorate drill box fit relief siren";
+var mnemonic = "ridge whisper december hope trick shrimp axis cement author scheme polar cancel";

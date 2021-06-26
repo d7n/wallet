@@ -1,1 +1,1 @@
-var mnemonic = "volcano intact ill robust inform gather cool because hazard attack mesh jazz";
+var mnemonic = "marriage vacant avoid act pulp drink trick nominee alarm book exchange cradle";

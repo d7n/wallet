@@ -1,1 +1,1 @@
-var mnemonic = "tiny word vocal mammal modify wire size olive arm lonely hood accuse";
+var mnemonic = "protect belt menu beef pool warfare field despair inflict riot shift brief";

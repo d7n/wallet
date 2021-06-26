@@ -1,1 +1,1 @@
-var mnemonic = "fun uphold craft surprise indicate wealth awful frequent bread win vivid bacon";
+var mnemonic = "celery hour glad brother neglect axis away use sentence virus month february";

@@ -1,1 +1,1 @@
-var mnemonic = "blossom dumb agree copy junior kingdom chapter diagram master arrest carry olympic";
+var mnemonic = "oven wait minute lake voyage tag grain neutral churn assist bike foil";

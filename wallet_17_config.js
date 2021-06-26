@@ -1,1 +1,1 @@
-var mnemonic = "wing admit flower share ten edge fury deal public proud ivory army";
+var mnemonic = "trade glory flag innocent area used off opera capital south oak ecology";

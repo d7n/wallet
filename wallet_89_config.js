@@ -1,1 +1,1 @@
-var mnemonic = "category load rally mixture exclude fix nose egg solve since body attack";
+var mnemonic = "solve bulb video lady donate year program regular cycle desk apple fold";

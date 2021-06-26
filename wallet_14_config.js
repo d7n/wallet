@@ -1,1 +1,1 @@
-var mnemonic = "crowd patrol produce copy dirt guess clown valley tiny front silent south";
+var mnemonic = "vacuum viable cigar wire mad media select supreme cushion share fiber rain";

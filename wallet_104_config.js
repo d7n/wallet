@@ -1,1 +1,1 @@
-var mnemonic = "dose visa lift north index opinion utility curve tumble essay canoe prize";
+var mnemonic = "economy tortoise movie detect erosion nuclear lab kid unfair aspect broken coil";

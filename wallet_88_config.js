@@ -1,1 +1,1 @@
-var mnemonic = "regular shed train jaguar grunt earn pizza patch link benefit advice venture";
+var mnemonic = "tattoo garden reveal select thing stand fruit usual yellow frog wait hero";

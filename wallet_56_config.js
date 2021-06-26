@@ -1,1 +1,1 @@
-var mnemonic = "submit fiction imitate spend custom motion wrong agree tired organ boy illegal";
+var mnemonic = "hidden number strategy such uncle make major deer kid ahead decrease bundle";

@@ -1,1 +1,1 @@
-var mnemonic = "behind couple peasant hour problem gaze earn fish focus zero coin nest";
+var mnemonic = "toy school critic floor diagram fuel boat legal hover unusual trade pet";

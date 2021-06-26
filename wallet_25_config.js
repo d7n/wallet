@@ -1,1 +1,1 @@
-var mnemonic = "bless divide meadow dinner border bless guilt what slow morning story unfair";
+var mnemonic = "symptom shine vacant decide relax electric where crazy ensure enter person rapid";

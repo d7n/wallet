@@ -1,1 +1,1 @@
-var mnemonic = "inspire fit dose unit empty crouch invest sell olive fury crumble lecture";
+var mnemonic = "before boy response leader leaf rocket civil file symbol width useful receive";

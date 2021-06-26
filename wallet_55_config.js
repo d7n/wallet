@@ -1,1 +1,1 @@
-var mnemonic = "nuclear permit uniform sponsor family stairs medal soap reform lazy elder arrange";
+var mnemonic = "bird govern oil wife upset pulp consider horror motion rebuild design enemy";

@@ -1,1 +1,1 @@
-var mnemonic = "stock session machine two episode force honey similar weird moral social upon";
+var mnemonic = "naive early question airport hen stage proof crowd mad enroll mystery apart";

@@ -1,1 +1,1 @@
-var mnemonic = "consider inform soon bundle cinnamon gym swear sunset jazz label strategy lizard";
+var mnemonic = "only option swim easily stamp monster decrease live second fashion grace birth";

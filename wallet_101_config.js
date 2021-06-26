@@ -1,1 +1,1 @@
-var mnemonic = "plastic wave fashion month rural come inner miss cave move vote nut";
+var mnemonic = "sniff abuse circle title click add captain opera early test present alone";

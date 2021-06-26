@@ -1,1 +1,1 @@
-var mnemonic = "donkey stand limb lady reduce pen web faith fork devote junior puzzle";
+var mnemonic = "palm skirt yellow usage cereal stable utility sun refuse soda someone boost";

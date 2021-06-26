@@ -1,1 +1,1 @@
-var mnemonic = "fold involve dance crazy sport garage aisle sign echo gasp rapid regret";
+var mnemonic = "tattoo insane front february hedgehog sibling master call crumble limb useless unique";

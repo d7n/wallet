@@ -1,1 +1,1 @@
-var mnemonic = "spider close head bean catch paddle wait era upgrade chapter silver soap";
+var mnemonic = "romance ancient noble dose seat super borrow pole advance exhaust innocent trim";

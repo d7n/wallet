@@ -1,1 +1,1 @@
-var mnemonic = "spend crack auction scissors decorate science steak any glimpse cactus lucky friend";
+var mnemonic = "quote another drink net light wolf ticket antique inject setup snow length";

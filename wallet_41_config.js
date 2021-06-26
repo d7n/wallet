@@ -1,1 +1,1 @@
-var mnemonic = "inch winner feature fiber agent jealous chef jazz twist cigar loan click";
+var mnemonic = "parent maple during picnic mansion maid resource cloth indoor airport garden fiscal";

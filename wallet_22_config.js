@@ -1,1 +1,1 @@
-var mnemonic = "rose obey emotion wool water heavy machine attend thumb defense domain stock";
+var mnemonic = "leopard subject analyst major globe pink alpha device embrace settle bind vehicle";

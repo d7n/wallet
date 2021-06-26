@@ -1,1 +1,1 @@
-var mnemonic = "raven else spring want news system second twist stem various claim aware";
+var mnemonic = "excite abandon lunch vanish broom tiny vital response mandate monster nose equal";

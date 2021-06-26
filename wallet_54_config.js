@@ -1,1 +1,1 @@
-var mnemonic = "decorate suggest direct champion mosquito fruit until scale whip twelve gasp repeat";
+var mnemonic = "collect spawn gaze gravity tower insane service size ankle tribe identify improve";

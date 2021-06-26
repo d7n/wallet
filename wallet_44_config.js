@@ -1,1 +1,1 @@
-var mnemonic = "salt asset tooth gloom swamp volcano orbit tourist off promote help slender";
+var mnemonic = "innocent error loop clog tray sight myth flash neck solar humor monster";

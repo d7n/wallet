@@ -1,1 +1,1 @@
-var mnemonic = "mother soda empty problem endorse because have tomorrow kind casual bamboo bicycle";
+var mnemonic = "token cute trick climb nation length vivid dog among join report little";

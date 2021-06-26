@@ -1,1 +1,1 @@
-var mnemonic = "pipe crime ring spatial release venture outside yard demise journey mirror road";
+var mnemonic = "improve shy kitchen gas floor absent frozen session confirm mansion oyster arm";

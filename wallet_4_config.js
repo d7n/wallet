@@ -1,1 +1,1 @@
-var mnemonic = "upgrade lyrics snow nuclear motion throw harbor sound adult harbor robot oak";
+var mnemonic = "erode flip tilt ankle first polar august candy tennis secret engage immune";

@@ -1,1 +1,1 @@
-var mnemonic = "chunk neutral chicken enact olive mountain trouble employ zoo virus organ enact";
+var mnemonic = "erode tennis diary mirror interest crack treat air solid adult sibling learn";

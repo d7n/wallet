@@ -1,1 +1,1 @@
-var mnemonic = "source venture upgrade payment pact cake produce flight endorse crew weapon oppose";
+var mnemonic = "lyrics boy chuckle exhibit crane rug skin twin million baby upon goose";

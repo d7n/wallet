@@ -1,1 +1,1 @@
-var mnemonic = "fly panther phrase omit nose load south fish pitch put occur mobile";
+var mnemonic = "rug boss month universe repair grape metal soon final typical decide rate";

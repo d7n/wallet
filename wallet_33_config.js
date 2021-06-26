@@ -1,1 +1,1 @@
-var mnemonic = "oppose salute tragic poverty provide height wide soda wall deposit raise wine";
+var mnemonic = "hour mixture lion tip labor avoid grocery lawn immense arm explain fine";

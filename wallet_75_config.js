@@ -1,1 +1,1 @@
-var mnemonic = "poem spider sphere runway off all ethics talk swear business tribe scare";
+var mnemonic = "access need include episode axis pink arrow envelope provide reason rhythm curtain";

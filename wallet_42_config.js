@@ -1,1 +1,1 @@
-var mnemonic = "method scale saddle ankle finish essay bag token spring tunnel muffin exile";
+var mnemonic = "couch toe glass garden left accident sustain occur canyon budget brick attend";

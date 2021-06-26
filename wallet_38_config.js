@@ -1,1 +1,1 @@
-var mnemonic = "between can reform cushion undo exit cricket attract east fossil improve endorse";
+var mnemonic = "course always glance train case scorpion plastic alley bus maple climb belt";

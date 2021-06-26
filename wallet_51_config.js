@@ -1,1 +1,1 @@
-var mnemonic = "soap profit trick plug mirror lawn click ivory bounce session labor daring";
+var mnemonic = "identify knife excess catch force gasp giggle annual escape silent picture venture";

@@ -1,1 +1,1 @@
-var mnemonic = "expose wrestle warm rice trumpet hip grain expand doll plastic super food";
+var mnemonic = "work giant tape seek lecture reason tide farm noise connect slim digital";

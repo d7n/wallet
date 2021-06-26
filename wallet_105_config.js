@@ -1,1 +1,1 @@
-var mnemonic = "govern drama lamp borrow very whip giraffe jazz increase edit march cereal";
+var mnemonic = "robot buyer modify excite eye identify shoulder athlete light ride mandate wall";

@@ -1,1 +1,1 @@
-var mnemonic = "language east off feed gallery siege rural banner cause enjoy online bundle";
+var mnemonic = "office trim stick vivid critic blind today foot giant dune alpha salt";

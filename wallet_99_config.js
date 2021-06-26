@@ -1,1 +1,1 @@
-var mnemonic = "pottery spread giant arena winner craft shy hospital local inmate until bachelor";
+var mnemonic = "derive current sauce aspect engage cabbage card cereal weather hard bless human";

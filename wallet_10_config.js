@@ -1,1 +1,1 @@
-var mnemonic = "liar today disorder oyster supreme oak risk ski truck dune pipe convince";
+var mnemonic = "grocery put absent amount normal crush erupt horn poem used damage film";
