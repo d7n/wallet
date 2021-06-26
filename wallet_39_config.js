@@ -1,1 +1,1 @@
-var mnemonic = "vote enforce punch best brass dizzy idle matrix physical lab cable addict";
+var mnemonic = "evidence brick shadow trigger typical size alert clump during stomach brand theory";

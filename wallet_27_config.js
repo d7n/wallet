@@ -1,1 +1,1 @@
-var mnemonic = "able better ill misery acoustic elevator elephant left lottery gentle desk version";
+var mnemonic = "swallow quote quit hurt head bitter equal chaos raven toy sock kid";

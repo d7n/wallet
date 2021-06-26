@@ -1,1 +1,1 @@
-var mnemonic = "mad spend head craft simple hair gasp luggage simple trophy switch luxury";
+var mnemonic = "during egg kick hollow supreme cycle unveil truck olive regret wear stairs";

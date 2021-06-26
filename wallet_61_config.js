@@ -1,1 +1,1 @@
-var mnemonic = "wear avocado panel lobster real warfare media path gossip zoo effort often";
+var mnemonic = "shrug heavy fat effort spell next air spell place dream tunnel belt";

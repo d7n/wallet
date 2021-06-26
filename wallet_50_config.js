@@ -1,1 +1,1 @@
-var mnemonic = "elegant remember account tornado motion time inject document reform laugh auto quit";
+var mnemonic = "soon office legal hurry file cup mean list rib confirm pass cool";

@@ -1,1 +1,1 @@
-var mnemonic = "sister hard mango trend kitchen valve vacant coyote forum private stuff valve";
+var mnemonic = "tape nice fire blame during seek obscure toddler whip gentle balance huge";

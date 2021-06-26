@@ -1,1 +1,1 @@
-var mnemonic = "library modify rather guide eager need into royal inhale receive industry amateur";
+var mnemonic = "nasty inquiry purse imitate weapon story dust glue alley cannon junior kiss";

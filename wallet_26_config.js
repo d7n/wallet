@@ -1,1 +1,1 @@
-var mnemonic = "normal dinner half august circle damp hobby soccer funny place size scrub";
+var mnemonic = "isolate crop video lobster old wrong dial penalty trigger grass giggle argue";

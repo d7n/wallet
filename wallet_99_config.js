@@ -1,1 +1,1 @@
-var mnemonic = "wool vibrant flower because panda retreat sock erosion north glide crazy rotate";
+var mnemonic = "equal curtain maze wise cluster stable finger picture help flock under tribe";

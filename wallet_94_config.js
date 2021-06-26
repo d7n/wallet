@@ -1,1 +1,1 @@
-var mnemonic = "urban dream peace bamboo lottery light lion swear transfer impose depart disease";
+var mnemonic = "lift mammal toss vicious fog strategy tool pair burst liquid resource example";

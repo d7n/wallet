@@ -1,1 +1,1 @@
-var mnemonic = "device sister habit siren inspire party cherry fantasy dune music mystery assist";
+var mnemonic = "absorb mango electric fitness gossip hospital knee idle impulse trial recall pupil";

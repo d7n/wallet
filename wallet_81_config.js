@@ -1,1 +1,1 @@
-var mnemonic = "grant sustain flee toast expect choose milk era permit leg museum furnace";
+var mnemonic = "already same gate ride mystery decrease day door bring infant citizen better";

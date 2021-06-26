@@ -1,1 +1,1 @@
-var mnemonic = "valley coast balcony best dove carry arch tourist elbow loyal crunch size";
+var mnemonic = "expire service observe excess pupil during wool trick emerge cargo expand bonus";

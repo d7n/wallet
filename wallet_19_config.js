@@ -1,1 +1,1 @@
-var mnemonic = "image elder smile picture minute despair three fruit fragile cross shock wrong";
+var mnemonic = "three holiday cart tuition fuel success sniff purity buyer exact risk cement";

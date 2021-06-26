@@ -1,1 +1,1 @@
-var mnemonic = "betray inmate spread sister speed combine angle robust snap satisfy piano side";
+var mnemonic = "task run behave endorse shell slogan snow frog burst obey ill tenant";

@@ -1,1 +1,1 @@
-var mnemonic = "alter dismiss photo three settle coyote dirt verb duck honey shrimp metal";
+var mnemonic = "giant face involve gain fence history mosquito attend caution bleak buyer code";

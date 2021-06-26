@@ -1,1 +1,1 @@
-var mnemonic = "panic require soul prepare impose aisle embody sausage sadness firm heavy gentle";
+var mnemonic = "strategy phone child regular chaos hospital depend brass evil link empower deputy";

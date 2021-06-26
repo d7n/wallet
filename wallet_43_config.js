@@ -1,1 +1,1 @@
-var mnemonic = "jungle affair rice trim chapter vague daring brisk enroll orphan income canyon";
+var mnemonic = "poem upset cause remove divide shy spray camp benefit army mercy over";

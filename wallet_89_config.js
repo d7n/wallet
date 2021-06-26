@@ -1,1 +1,1 @@
-var mnemonic = "ill toy husband neither insane dawn wall become pig hill build order";
+var mnemonic = "bright glory slow spice oven impose own smile muffin final lend december";

@@ -1,1 +1,1 @@
-var mnemonic = "struggle tool switch odor october bulk grab glue vehicle author flash sibling";
+var mnemonic = "curious hair adjust embody nerve brown tip will casino into music build";

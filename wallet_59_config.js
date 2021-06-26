@@ -1,1 +1,1 @@
-var mnemonic = "sun buddy wet laugh rival puzzle smile denial mention trend error busy";
+var mnemonic = "advice toy color urge casual embrace find pass dune host cancel fancy";

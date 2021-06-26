@@ -1,1 +1,1 @@
-var mnemonic = "mountain claw vacuum frozen cart tree oyster try control tissue immense comfort";
+var mnemonic = "patient borrow tool infant joke lecture stick ocean satisfy endless vibrant monitor";

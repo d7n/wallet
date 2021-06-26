@@ -1,1 +1,1 @@
-var mnemonic = "repair able thrive fat shine enable relax accuse save tissue bottom twelve";
+var mnemonic = "flavor series want tiny woman sauce stairs lobster morning couch piano useless";

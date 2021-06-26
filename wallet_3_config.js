@@ -1,1 +1,1 @@
-var mnemonic = "marine lizard middle wrong domain raise hungry town ill palace mimic model";
+var mnemonic = "poverty hole ahead interest enlist enrich bean angle vivid night culture clap";

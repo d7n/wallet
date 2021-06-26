@@ -1,1 +1,1 @@
-var mnemonic = "deliver endorse parade drink symbol pulse clock margin exhibit jealous flush verb";
+var mnemonic = "endless will forum jelly dynamic expose private thought humble shoe general animal";

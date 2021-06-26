@@ -1,1 +1,1 @@
-var mnemonic = "blind truth perfect fragile bomb bird bitter idle staff genuine image junior";
+var mnemonic = "weekend ignore pond man illness this wisdom team behind donkey govern drama";

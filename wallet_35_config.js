@@ -1,1 +1,1 @@
-var mnemonic = "dove furnace junk balance chef dial anchor ugly radar news rotate puzzle";
+var mnemonic = "wine mango machine actual fragile gadget skull prefer voice sunny depart original";

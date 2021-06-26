@@ -1,1 +1,1 @@
-var mnemonic = "slam maple path add change dune copper riot tooth hover cancel conduct";
+var mnemonic = "verb govern genius pelican ginger armor push jump consider large myself purity";

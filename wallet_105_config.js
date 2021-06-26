@@ -1,1 +1,1 @@
-var mnemonic = "alarm pluck junk embody expire effort deliver media fame super regret danger";
+var mnemonic = "fancy devote minor consider dance force jar lunch broken afford what please";

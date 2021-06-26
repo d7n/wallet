@@ -1,1 +1,1 @@
-var mnemonic = "local enact move want retire large nut liberty rebel country pattern cash";
+var mnemonic = "cereal female vacant fun maid alpha hover husband permit mercy excite wrestle";

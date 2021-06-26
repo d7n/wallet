@@ -1,1 +1,1 @@
-var mnemonic = "mean toss lunar loan quote setup give bread glove profit have trophy";
+var mnemonic = "boil fly detail render elbow anchor sound scene wave enrich exotic frozen";

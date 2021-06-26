@@ -1,1 +1,1 @@
-var mnemonic = "safe flush guide another marble notice dune board accident render usage ugly";
+var mnemonic = "surface wink object six youth great device calm relax chuckle client become";

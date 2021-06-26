@@ -1,1 +1,1 @@
-var mnemonic = "coffee minor curtain echo elbow rival flavor end urge impulse strong girl";
+var mnemonic = "divide sausage vapor theory diesel evidence roast fog train grow pudding special";

@@ -1,1 +1,1 @@
-var mnemonic = "health raw female slender tenant ivory antenna deny hammer win spirit awful";
+var mnemonic = "celery drastic lake chaos radar hotel egg avocado oyster hub hover assist";

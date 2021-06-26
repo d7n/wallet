@@ -1,1 +1,1 @@
-var mnemonic = "sausage theme choice escape abuse jelly creek tent audit long matter page";
+var mnemonic = "earn cup cement scare hour question wagon kitchen gift nature permit during";

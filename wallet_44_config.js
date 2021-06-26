@@ -1,1 +1,1 @@
-var mnemonic = "unusual cotton corn orchard midnight october virus print dream garbage moon ranch";
+var mnemonic = "argue hazard million artist couple mutual hybrid initial curtain piano can diesel";

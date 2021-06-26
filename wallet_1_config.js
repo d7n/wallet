@@ -1,1 +1,1 @@
-var mnemonic = "illegal spare brick flavor exhibit economy dizzy father emerge indoor gate traffic";
+var mnemonic = "song inch avocado check below trend arctic market dinosaur access swear movie";

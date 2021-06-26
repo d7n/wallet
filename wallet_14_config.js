@@ -1,1 +1,1 @@
-var mnemonic = "elite public shuffle carpet picture when decline humble witness wet yard flee";
+var mnemonic = "donate diet palace tattoo enjoy hidden hundred practice scout ring bless champion";

@@ -1,1 +1,1 @@
-var mnemonic = "effort wedding burst praise senior because verb chuckle alone face ritual chest";
+var mnemonic = "nerve express luxury minor weird walk sad second price smooth lemon sting";

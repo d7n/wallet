@@ -1,1 +1,1 @@
-var mnemonic = "frog slush dry couch weasel gate energy liar affair solid hawk front";
+var mnemonic = "pilot benefit hand candy short vocal gadget deputy suit toddler shield fruit";

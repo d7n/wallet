@@ -1,1 +1,1 @@
-var mnemonic = "clog repeat urge glue bunker else dance misery couch pet lemon demand";
+var mnemonic = "suspect result mistake indoor video cabbage dutch kick census egg list potato";

@@ -1,1 +1,1 @@
-var mnemonic = "dilemma switch wing buddy street question convince victory hour current payment bottom";
+var mnemonic = "frown primary faint better shine violin cook illness item material media review";

@@ -1,1 +1,1 @@
-var mnemonic = "town frame dinner cart place bus number enforce usage story tomato bean";
+var mnemonic = "tag stuff minute spot horn trust hamster winner hope nephew begin worry";

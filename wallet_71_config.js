@@ -1,1 +1,1 @@
-var mnemonic = "friend innocent movie toward melody venture mesh crane slogan bounce staff hip";
+var mnemonic = "shaft punch absurd caution alcohol recycle guitar have ten romance coffee industry";

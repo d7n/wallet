@@ -1,1 +1,1 @@
-var mnemonic = "omit onion twenty unhappy night cake carbon lounge alarm tackle sea shed";
+var mnemonic = "film cross cabin skull tilt click hazard shallow much valley coach stomach";

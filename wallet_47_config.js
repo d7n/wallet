@@ -1,1 +1,1 @@
-var mnemonic = "sketch under still case reveal almost defense foam parent space domain caught";
+var mnemonic = "capital cycle envelope napkin convince elevator hire economy twelve announce naive front";

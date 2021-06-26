@@ -1,1 +1,1 @@
-var mnemonic = "dust thrive little install primary foster forest way raven food skin battle";
+var mnemonic = "knife treat team toilet nephew goose input spider power cage report off";

@@ -1,1 +1,1 @@
-var mnemonic = "aunt upper inside guitar hello olive initial sense inhale pencil omit latin";
+var mnemonic = "humor online force thrive lawsuit tube fame cash damage doll spoon student";

@@ -1,1 +1,1 @@
-var mnemonic = "cannon ribbon dawn desk best wealth piano food smoke mushroom attitude car";
+var mnemonic = "thrive reveal spike capable guide prefer share spider jazz derive retreat profit";

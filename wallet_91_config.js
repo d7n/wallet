@@ -1,1 +1,1 @@
-var mnemonic = "unable settle bargain area million fault merit despair crane evolve lock exact";
+var mnemonic = "model affair repair throw license can theme express picnic dove flight guitar";

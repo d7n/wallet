@@ -1,1 +1,1 @@
-var mnemonic = "vital post defense goat sock engage puzzle oppose reward file side knee";
+var mnemonic = "olive include audit humor baby street journey bring unhappy cheap seminar park";

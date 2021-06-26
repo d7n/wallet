@@ -1,1 +1,1 @@
-var mnemonic = "element copper side despair office naive garage slice cloud make renew ring";
+var mnemonic = "grant popular stadium attend hand depth isolate april penalty anxiety girl enact";

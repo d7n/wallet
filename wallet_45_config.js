@@ -1,1 +1,1 @@
-var mnemonic = "old honey useless mask antenna usual music close pledge gadget crater roof";
+var mnemonic = "jeans always eye width news sing congress coil actor hill silent humble";

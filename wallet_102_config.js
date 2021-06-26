@@ -1,1 +1,1 @@
-var mnemonic = "what region worry begin dish syrup unaware ocean wrap scan fox fluid";
+var mnemonic = "nephew ability holiday obtain demand orbit verify glad illness fruit rally stand";

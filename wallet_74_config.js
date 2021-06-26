@@ -1,1 +1,1 @@
-var mnemonic = "nature joke maze enable differ tape grid congress hunt marble cave jungle";
+var mnemonic = "insect nothing wrist glow elephant panda chat tumble lawsuit hope wife kidney";

@@ -1,1 +1,1 @@
-var mnemonic = "govern blame estate measure supreme cabin tonight sort palace mask search betray";
+var mnemonic = "federal bundle famous impose nose river verify wear absorb curious delay surprise";

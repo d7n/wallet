@@ -1,1 +1,1 @@
-var mnemonic = "first marine sentence solve once merge victory joy tuna various crouch pond";
+var mnemonic = "concert early tackle profit argue pattern impact capital submit banner witness increase";

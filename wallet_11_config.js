@@ -1,1 +1,1 @@
-var mnemonic = "shadow patch orchard doll better increase program arm wasp maid junk nurse";
+var mnemonic = "now recycle meadow because cliff share language climb sudden mesh social surge";

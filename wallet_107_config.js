@@ -1,1 +1,1 @@
-var mnemonic = "inject alter client walnut taste caution fade bless merge celery response spot";
+var mnemonic = "wonder brown thrive sense govern radio mom patch arrest soda elegant produce";

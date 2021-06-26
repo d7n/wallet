@@ -1,1 +1,1 @@
-var mnemonic = "stuff situate dragon buzz miss make urge scan usual trick cute rather";
+var mnemonic = "where improve ritual search square near interest flag forum jungle ring ice";

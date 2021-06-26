@@ -1,1 +1,1 @@
-var mnemonic = "double industry parent awkward fun trim mesh slot toward holiday spawn rubber";
+var mnemonic = "slow ladder office bachelor appear nerve all unveil minor veteran fence security";

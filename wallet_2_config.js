@@ -1,1 +1,1 @@
-var mnemonic = "mandate book frozen basket pass glory food medal draft debate liar lumber";
+var mnemonic = "interest orphan dog race tissue trim uphold deputy track rare vacant silver";

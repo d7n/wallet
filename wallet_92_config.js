@@ -1,1 +1,1 @@
-var mnemonic = "doll supreme resist age abandon rifle cruel teach dumb soon guitar toward";
+var mnemonic = "throw tag embark happy daring possible because begin interest win erupt hunt";

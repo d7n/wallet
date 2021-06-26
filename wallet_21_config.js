@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin regret whip plastic pencil crumble add random dolphin giggle session grape";
+var mnemonic = "lake history apart notable tomato trust grit spin goat bounce noise convince";

@@ -1,1 +1,1 @@
-var mnemonic = "leader ladder exhaust tourist silent spoon ghost myth initial educate document miracle";
+var mnemonic = "castle recall solid ride hockey enroll ceiling extra essay alone renew limit";

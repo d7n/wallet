@@ -1,1 +1,1 @@
-var mnemonic = "episode taste robot borrow turtle gorilla lunar satisfy soup miracle loyal theme";
+var mnemonic = "magnet scale vote sunny struggle shine legend decade accident affair mixed impose";

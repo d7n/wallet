@@ -1,1 +1,1 @@
-var mnemonic = "retreat exist artist picnic doctor bicycle sweet embody slush power swap only";
+var mnemonic = "august frame okay plunge amateur shaft fun mushroom display plunge alcohol pluck";

@@ -1,1 +1,1 @@
-var mnemonic = "nation alley found reveal kit reduce aspect material panther use pyramid hold";
+var mnemonic = "nut bid enforce bunker lonely two talk grocery render able radar garden";

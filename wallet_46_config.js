@@ -1,1 +1,1 @@
-var mnemonic = "own accuse patrol siege globe song capital help soldier service inhale decorate";
+var mnemonic = "prosper forward frown pulp mean uncle gadget lend kind asthma rhythm wedding";

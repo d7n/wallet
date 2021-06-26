@@ -1,1 +1,1 @@
-var mnemonic = "bag raise piece salon exact album audit pioneer panic spin vibrant pioneer";
+var mnemonic = "frost pudding bean either next produce immune fitness rich cross struggle exchange";

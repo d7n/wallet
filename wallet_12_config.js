@@ -1,1 +1,1 @@
-var mnemonic = "butter siren tape trouble kitten add swamp extra little movie despair slab";
+var mnemonic = "garden genuine multiply follow frost absent letter toddler sword brand tooth start";

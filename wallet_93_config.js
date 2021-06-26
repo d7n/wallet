@@ -1,1 +1,1 @@
-var mnemonic = "pelican indicate oak express print profit home bubble exclude degree deny weird";
+var mnemonic = "shift short bounce exist slab conduct shield mesh river glory hospital cram";

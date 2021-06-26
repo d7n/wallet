@@ -1,1 +1,1 @@
-var mnemonic = "annual first flush coast gesture buzz dice blame grab puppy club kite";
+var mnemonic = "frame yellow venue crumble dirt sketch fuel logic harbor space soccer leopard";

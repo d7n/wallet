@@ -1,1 +1,1 @@
-var mnemonic = "shy resource never brave shoulder damp inject symptom camp skull upgrade route";
+var mnemonic = "maximum first hope eyebrow humble push staff edge electric room cotton trigger";

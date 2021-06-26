@@ -1,1 +1,1 @@
-var mnemonic = "shed uncover wide lift arrow remain together absurd glare together client click";
+var mnemonic = "feed lyrics alpha insect unhappy throw jewel fine stool method almost cook";

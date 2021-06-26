@@ -1,1 +1,1 @@
-var mnemonic = "palace moon pull soap radio farm stamp jealous slush sad vote skirt";
+var mnemonic = "sweet vessel miracle twice unaware wink equal harbor horn before excite zone";

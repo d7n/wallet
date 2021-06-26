@@ -1,1 +1,1 @@
-var mnemonic = "fragile pink pair jeans cover repeat predict funny they umbrella spin estate";
+var mnemonic = "country road napkin village burger swing laundry okay admit stage equal payment";

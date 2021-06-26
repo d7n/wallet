@@ -1,1 +1,1 @@
-var mnemonic = "buyer rent test force spice rebel school bright orient museum flag only";
+var mnemonic = "assist doll south job evil coast donate will fault addict outer treat";

@@ -1,1 +1,1 @@
-var mnemonic = "young judge action dice sphere tumble affair grief draw allow youth garage";
+var mnemonic = "wide gospel cliff marriage economy govern tissue harsh click often seed scissors";

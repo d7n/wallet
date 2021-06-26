@@ -1,1 +1,1 @@
-var mnemonic = "violin peanut police surround blast bacon erase misery put vacuum crew purity";
+var mnemonic = "soda sword bottom robust flat pact fall athlete tell cliff search victory";

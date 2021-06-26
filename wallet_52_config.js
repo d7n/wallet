@@ -1,1 +1,1 @@
-var mnemonic = "current ankle stomach giant liquid olympic gun street black series retreat forum";
+var mnemonic = "turkey process hamster destroy valve dose bike theme napkin whisper around amused";

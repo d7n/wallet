@@ -1,1 +1,1 @@
-var mnemonic = "consider wood reject bridge fit reject conduct faith volcano artwork bright bargain";
+var mnemonic = "wrong matrix roof they dirt uncover vicious behave peace select cheap resource";

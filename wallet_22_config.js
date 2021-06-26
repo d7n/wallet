@@ -1,1 +1,1 @@
-var mnemonic = "honey frozen hen recycle mimic fold turtle limit play way dad iron";
+var mnemonic = "ski toss tag vibrant mouse auction giant deposit jaguar result swallow tonight";

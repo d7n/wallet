@@ -1,1 +1,1 @@
-var mnemonic = "oblige kangaroo transfer blast panic destroy stadium nut pilot filter gospel viable";
+var mnemonic = "bright frequent clip zero peanut beauty brief hub grit school shadow equip";

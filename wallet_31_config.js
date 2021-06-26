@@ -1,1 +1,1 @@
-var mnemonic = "exact art category smoke gorilla anchor steak clown empower proud ugly host";
+var mnemonic = "twenty hip equal elder nasty egg nominee sound genuine excess random regular";

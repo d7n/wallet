@@ -1,1 +1,1 @@
-var mnemonic = "prize side prevent credit scatter scare coral arrow trim holiday treat vanish";
+var mnemonic = "brain liquid program tobacco mutual exercise sunset code country hollow sauce fabric";

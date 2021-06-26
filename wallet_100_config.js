@@ -1,1 +1,1 @@
-var mnemonic = "into deliver grid account daring width luggage public toward air gossip banana";
+var mnemonic = "salute whisper asset syrup borrow decide slogan else stuff february clip robot";

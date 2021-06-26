@@ -1,1 +1,1 @@
-var mnemonic = "other bean rotate icon knee calm chalk recall tail rally sadness future";
+var mnemonic = "spike small bone ladder test south common silly ensure fame spike harbor";

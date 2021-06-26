@@ -1,1 +1,1 @@
-var mnemonic = "special general mango chaos grid jazz orchard sadness iron hamster joy bitter";
+var mnemonic = "strong camera card access brown silly reunion room sail original hill refuse";
