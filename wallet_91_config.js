@@ -1,1 +1,1 @@
-var mnemonic = "drill sorry elegant range devote arctic owner brain useful warm essay pitch";
+var mnemonic = "acid earn column menu end control vote mutual satoshi million permit sight";

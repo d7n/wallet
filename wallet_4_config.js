@@ -1,1 +1,1 @@
-var mnemonic = "boost modify vibrant inform pig purchase brief demise tragic wood physical twenty";
+var mnemonic = "cliff tape silent swap together actress stomach vault you school candy nut";

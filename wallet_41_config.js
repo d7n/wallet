@@ -1,1 +1,1 @@
-var mnemonic = "crowd month alarm vivid craft burger december venture slow dune until direct";
+var mnemonic = "detail cause lizard cool liberty food father bird draft all twin space";

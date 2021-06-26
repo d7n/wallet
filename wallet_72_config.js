@@ -1,1 +1,1 @@
-var mnemonic = "immense belt despair dose brown this train fame resist remove disorder web";
+var mnemonic = "index flip raise speed anger umbrella muffin auto spoon vessel panther fuel";

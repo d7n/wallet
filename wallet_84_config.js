@@ -1,1 +1,1 @@
-var mnemonic = "scare erase zebra silk notice cat tree ask rug slam patrol parade";
+var mnemonic = "post crack absorb fun plug fish off planet initial potato tower renew";

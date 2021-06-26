@@ -1,1 +1,1 @@
-var mnemonic = "unfold south rose soccer extra cliff paper ball delay hard stick lemon";
+var mnemonic = "furnace absent patch glory lunch talk invite gate praise torch divide shed";

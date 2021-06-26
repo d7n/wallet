@@ -1,1 +1,1 @@
-var mnemonic = "floor toy cabin promote sweet favorite patch broccoli month relief board steel";
+var mnemonic = "receive lobster retire taste found tattoo remember armor breeze give planet estate";

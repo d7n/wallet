@@ -1,1 +1,1 @@
-var mnemonic = "guess bid merit sister vehicle skin beef length heavy front federal alley";
+var mnemonic = "faint exhibit betray cloth always upon slush help subject exit offer ladder";

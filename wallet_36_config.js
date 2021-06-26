@@ -1,1 +1,1 @@
-var mnemonic = "safe scan solar brave book eight start wine loud anchor state benefit";
+var mnemonic = "film monitor taste cloud grace staff twenty village monster cabin phone stone";

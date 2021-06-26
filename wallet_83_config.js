@@ -1,1 +1,1 @@
-var mnemonic = "two coral recycle crawl loyal alter inspire stable letter season artist flee";
+var mnemonic = "adapt hard differ pigeon cattle scare weasel thrive pole above reflect share";

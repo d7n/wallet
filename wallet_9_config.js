@@ -1,1 +1,1 @@
-var mnemonic = "nasty orbit north april patch permit ball kit soda huge rotate mean";
+var mnemonic = "girl old acoustic canvas royal sad local circle chair comfort among lounge";

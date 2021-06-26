@@ -1,1 +1,1 @@
-var mnemonic = "alert horse wish bubble vital stomach immense broccoli knife flavor possible lyrics";
+var mnemonic = "twelve dust urban warfare pupil tunnel found knee tissue close jealous dilemma";

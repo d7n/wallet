@@ -1,1 +1,1 @@
-var mnemonic = "walk rally garden run crack tank zoo inch praise hawk hollow mix";
+var mnemonic = "dune act melody magnet found fold aunt broom kind oval bomb model";

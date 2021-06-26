@@ -1,1 +1,1 @@
-var mnemonic = "guilt gorilla buddy inner task song idle appear camera slam way skirt";
+var mnemonic = "doll unveil common attract remove eager round craft plate insect impulse chase";

@@ -1,1 +1,1 @@
-var mnemonic = "impact certain exotic motion surge armor grocery enact cry hedgehog office purse";
+var mnemonic = "blush local immune law office fiber valley now bicycle breeze suit social";

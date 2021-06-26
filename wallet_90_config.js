@@ -1,1 +1,1 @@
-var mnemonic = "weapon robot grain rib charge dwarf connect destroy eagle rough fluid lift";
+var mnemonic = "ugly east human join gate way stove embrace review squirrel road confirm";

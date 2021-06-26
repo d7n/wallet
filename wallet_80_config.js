@@ -1,1 +1,1 @@
-var mnemonic = "top guard icon knock common grant fly aspect easily client analyst admit";
+var mnemonic = "drive drink soda soup pumpkin catalog corn power rely idle own alter";

@@ -1,1 +1,1 @@
-var mnemonic = "pact coast shoe dream surprise skirt jaguar catch talent maze crunch bracket";
+var mnemonic = "office call genius village century jar program engage frequent first heavy verify";

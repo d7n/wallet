@@ -1,1 +1,1 @@
-var mnemonic = "enemy step fiber try item exist six truly assist proud stay bicycle";
+var mnemonic = "prevent process jar slot enjoy raven picture usual leaf visual risk grow";

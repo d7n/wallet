@@ -1,1 +1,1 @@
-var mnemonic = "wash million other minute child wall art year asthma midnight exhaust man";
+var mnemonic = "phrase follow curve swallow speak buzz rib lecture also cake mansion balance";

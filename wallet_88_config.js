@@ -1,1 +1,1 @@
-var mnemonic = "apart world gossip model hand meadow cash slide away token employ before";
+var mnemonic = "blood avocado apple love give addict hammer anchor flip camp fit dove";

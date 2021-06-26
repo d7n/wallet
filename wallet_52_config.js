@@ -1,1 +1,1 @@
-var mnemonic = "sport crawl circle bench always candy host flock luggage dry wagon sound";
+var mnemonic = "teach organ tilt scheme hollow cheap situate foster teach steak pill dolphin";

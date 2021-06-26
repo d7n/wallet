@@ -1,1 +1,1 @@
-var mnemonic = "glass lazy tent host multiply child hurry fortune wink actress matrix loop";
+var mnemonic = "foster peace slight oval later toddler tape midnight into pull kid feature";

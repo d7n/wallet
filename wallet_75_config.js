@@ -1,1 +1,1 @@
-var mnemonic = "library fit core metal doll spot drink middle jungle wet equal enhance";
+var mnemonic = "hobby throw deal age resist unknown annual quit match hip reduce differ";

@@ -1,1 +1,1 @@
-var mnemonic = "detect noodle aware winter burger jaguar service genre civil maze later eternal";
+var mnemonic = "segment feed toward loop learn food mercy globe pen trend east reform";

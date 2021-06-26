@@ -1,1 +1,1 @@
-var mnemonic = "suit adult uphold whip aware cage virtual describe cannon filter embark check";
+var mnemonic = "sound ensure envelope web bind rude pupil escape input whip aspect palace";

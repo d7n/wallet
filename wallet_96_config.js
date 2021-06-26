@@ -1,1 +1,1 @@
-var mnemonic = "cat relax twenty feel ginger hip antenna next control organ service security";
+var mnemonic = "capable outside search razor mouse rigid army heart panic multiply vanish huge";

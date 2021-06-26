@@ -1,1 +1,1 @@
-var mnemonic = "wide skin slender tumble purpose armed lawn pigeon disorder skin tragic head";
+var mnemonic = "little useless village valid about pride finger eight panda once put script";

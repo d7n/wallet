@@ -1,1 +1,1 @@
-var mnemonic = "ankle bargain then enjoy math ripple gadget sauce sentence barely remove ancient";
+var mnemonic = "dry recipe elegant diamond color minimum trash coach flush artist punch radar";

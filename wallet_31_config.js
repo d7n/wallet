@@ -1,1 +1,1 @@
-var mnemonic = "world upon anger planet miss angry smooth man embark ketchup leg peace";
+var mnemonic = "bunker similar absent master purity avocado blade cross fragile asthma river snack";

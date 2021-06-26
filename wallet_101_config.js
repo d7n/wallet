@@ -1,1 +1,1 @@
-var mnemonic = "walk spend list amateur print vital curtain scatter extra acquire duck empower";
+var mnemonic = "chapter rich lion phrase chair such uncover dynamic people someone afraid domain";

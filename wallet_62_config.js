@@ -1,1 +1,1 @@
-var mnemonic = "bone target motor unlock oval patient brown truly dumb sure balance drink";
+var mnemonic = "shop donate nominee ginger split uncle ribbon wet genuine say insane essence";

@@ -1,1 +1,1 @@
-var mnemonic = "sheriff guard message struggle swarm foam story toward enjoy rude mother again";
+var mnemonic = "vessel night congress umbrella annual law segment original tree dune visual journey";

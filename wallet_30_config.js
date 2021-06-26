@@ -1,1 +1,1 @@
-var mnemonic = "bulk pair spirit skin trash pluck gorilla sleep lecture best mouse advice";
+var mnemonic = "citizen abuse broom pave width large blue legal echo angry able grief";

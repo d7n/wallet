@@ -1,1 +1,1 @@
-var mnemonic = "recall tomato language harbor rebuild trumpet busy unveil sudden puzzle turkey stamp";
+var mnemonic = "crouch food armed ceiling muffin story comfort silly hire jewel impact success";

@@ -1,1 +1,1 @@
-var mnemonic = "agent decide amused you clarify crouch boring escape depend scissors toilet basket";
+var mnemonic = "mercy harvest predict bundle sign donkey tired key bonus morning ten feed";

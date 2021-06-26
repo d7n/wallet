@@ -1,1 +1,1 @@
-var mnemonic = "invite scale business tray annual lady equal decline frog use robot surface";
+var mnemonic = "bubble rhythm supply seven genuine deputy life day novel laptop spin mirror";

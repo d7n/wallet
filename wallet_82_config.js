@@ -1,1 +1,1 @@
-var mnemonic = "yard endorse elegant proof grass govern puzzle resemble fabric hedgehog have device";
+var mnemonic = "sense program blanket smoke tonight figure dose valley trim drastic problem march";

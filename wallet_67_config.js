@@ -1,1 +1,1 @@
-var mnemonic = "simple taste special used crush spell chunk cloth swallow reduce beauty immense";
+var mnemonic = "hollow before inflict grow pizza ribbon audit knock drink upon column actor";

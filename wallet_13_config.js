@@ -1,1 +1,1 @@
-var mnemonic = "insect safe tooth room leisure view burden enact miracle august art duty";
+var mnemonic = "spatial dad ketchup hold cream age sugar biology ten educate narrow pond";

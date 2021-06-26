@@ -1,1 +1,1 @@
-var mnemonic = "invite load section profit lesson noodle refuse dumb wood update sausage mixed";
+var mnemonic = "double loyal machine risk audit tone hospital life champion repeat screen zone";

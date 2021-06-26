@@ -1,1 +1,1 @@
-var mnemonic = "interest cool banner mixture elite valve vicious range device gravity brain dawn";
+var mnemonic = "shiver capable quit material tenant travel stereo stick wheat indoor critic accuse";

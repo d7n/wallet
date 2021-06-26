@@ -1,1 +1,1 @@
-var mnemonic = "lake coyote battle cabin expand long zebra gold tennis asthma wood divorce";
+var mnemonic = "error visual doll any peanut latin broom write favorite brain arrow humble";

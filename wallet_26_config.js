@@ -1,1 +1,1 @@
-var mnemonic = "unhappy tower lake rice lesson dignity delay sentence gown clip warm topic";
+var mnemonic = "any have key glow arm garlic dinosaur mistake box make filter despair";

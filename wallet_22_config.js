@@ -1,1 +1,1 @@
-var mnemonic = "invite tiger electric often suspect gather meadow since loud blast skate desk";
+var mnemonic = "type human talk divide culture camp wood skull survey van biology nephew";

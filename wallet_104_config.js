@@ -1,1 +1,1 @@
-var mnemonic = "problem surround extend cost half panda business bleak type settle injury nephew";
+var mnemonic = "hope vendor lawn right razor scan gun style deposit buyer proof express";

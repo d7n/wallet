@@ -1,1 +1,1 @@
-var mnemonic = "keen enable pulp begin proof since tape glory flush spatial mesh space";
+var mnemonic = "refuse nephew valid agree improve major merit alone zone regret gallery photo";

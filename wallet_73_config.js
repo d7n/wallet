@@ -1,1 +1,1 @@
-var mnemonic = "impose aim argue elder fan erode alter popular abuse possible vacant edit";
+var mnemonic = "annual sleep labor lift seek clutch life furnace chalk hawk snap six";

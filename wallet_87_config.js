@@ -1,1 +1,1 @@
-var mnemonic = "nature miss combine bridge rib idle shuffle arrange black pyramid north visa";
+var mnemonic = "juice develop exact royal bomb grit tower flash favorite other maximum chalk";

@@ -1,1 +1,1 @@
-var mnemonic = "negative surprise oven since call elephant image ten earth hard infant bone";
+var mnemonic = "wrap novel memory smoke traffic lemon canvas cruel asset come client piece";

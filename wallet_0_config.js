@@ -1,1 +1,1 @@
-var mnemonic = "castle cable brand mind chaos wash monkey pause job shrug alter belt";
+var mnemonic = "seat sell traffic elevator bunker child rough moment dream thumb common whisper";

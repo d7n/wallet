@@ -1,1 +1,1 @@
-var mnemonic = "focus empty topic label attitude avocado estate sauce fury primary educate play";
+var mnemonic = "source venue panda arch teach detect sense thrive fashion sight wide confirm";

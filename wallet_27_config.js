@@ -1,1 +1,1 @@
-var mnemonic = "design exchange razor drip trap decline humor decorate radar tobacco purpose lesson";
+var mnemonic = "uphold portion sponsor diet another grant light alter final expand rigid path";

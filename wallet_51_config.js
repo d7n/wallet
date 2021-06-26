@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog wear ability now swamp infant leaf kidney service federal celery brisk";
+var mnemonic = "skull reform meadow vocal glory flee oppose erosion inhale clown frog bachelor";

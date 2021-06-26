@@ -1,1 +1,1 @@
-var mnemonic = "assault beauty maid gorilla disagree canal ten admit repair robust high easily";
+var mnemonic = "replace female pole kiss spike such fire permit mountain post woman inspire";

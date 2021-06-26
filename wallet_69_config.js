@@ -1,1 +1,1 @@
-var mnemonic = "ready cupboard toy advice innocent stay damage sort unable palm manual over";
+var mnemonic = "indoor verify diamond fee scissors purchase climb above arm month december quiz";

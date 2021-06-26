@@ -1,1 +1,1 @@
-var mnemonic = "tent charge when powder survey item mistake program glove stadium bus afford";
+var mnemonic = "follow essay egg regular help dove february fan pluck term creek home";

@@ -1,1 +1,1 @@
-var mnemonic = "hand cat protect explain hedgehog put witness cushion question include cable witness";
+var mnemonic = "drift moral stairs knife capable hero release movie army extra grape until";

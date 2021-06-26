@@ -1,1 +1,1 @@
-var mnemonic = "domain debate alpha essence bottom eyebrow diamond major cement wear problem weekend";
+var mnemonic = "when woman eager veteran spin spring best monitor winter foster cupboard between";

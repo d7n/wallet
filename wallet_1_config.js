@@ -1,1 +1,1 @@
-var mnemonic = "fluid achieve team imitate card object custom display fragile audit total license";
+var mnemonic = "follow error garment typical filter earn best use salute better advice goddess";

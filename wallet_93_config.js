@@ -1,1 +1,1 @@
-var mnemonic = "order muscle jazz lend defy double erase gift tunnel secret swim joke";
+var mnemonic = "pelican engage payment boss affair estate spread jewel issue click market frost";

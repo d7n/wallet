@@ -1,1 +1,1 @@
-var mnemonic = "grow shock name coffee hen route good camp surround wood sadness type";
+var mnemonic = "visual awful tree vault code awful spare meat betray board innocent defense";

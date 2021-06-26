@@ -1,1 +1,1 @@
-var mnemonic = "radar negative reveal ketchup cable afraid exotic nature excuse anger figure dance";
+var mnemonic = "music action ranch edge sea joy hybrid amateur hole film rifle piece";

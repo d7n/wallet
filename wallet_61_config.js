@@ -1,1 +1,1 @@
-var mnemonic = "wrap solid hub refuse shuffle melt receive admit cake forest lawsuit ensure";
+var mnemonic = "client dog hire sure general alcohol essence model vintage panic marble double";

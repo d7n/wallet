@@ -1,1 +1,1 @@
-var mnemonic = "enlist exhaust sauce initial laundry cabin silly front picture early blame tennis";
+var mnemonic = "relax carry type old card unfair alien hello moment universe skill angry";

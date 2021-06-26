@@ -1,1 +1,1 @@
-var mnemonic = "such gravity tool save silent october resource keen daring bid crazy arm";
+var mnemonic = "sudden fence accident violin couple another soon dove animal unlock engine cycle";

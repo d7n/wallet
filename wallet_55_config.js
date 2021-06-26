@@ -1,1 +1,1 @@
-var mnemonic = "bird peanut elephant always mom flower demise spider ankle enlist surge engine";
+var mnemonic = "upper behave ahead angle crack present flower job term height memory unfair";

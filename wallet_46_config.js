@@ -1,1 +1,1 @@
-var mnemonic = "private bleak gravity range update food table reason wait civil fault kid";
+var mnemonic = "rare deer feature grass market fortune pause raise try tide heart tent";

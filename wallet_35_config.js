@@ -1,1 +1,1 @@
-var mnemonic = "iron control fly raw leg orchard banana pigeon flame there shallow wedding";
+var mnemonic = "color ensure knee ankle robust robust mushroom domain culture develop network clever";

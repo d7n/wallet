@@ -1,1 +1,1 @@
-var mnemonic = "project shed park leisure ice charge repair you pulp bus behave unhappy";
+var mnemonic = "entry strike beach deposit misery that toy globe mix harbor life adjust";

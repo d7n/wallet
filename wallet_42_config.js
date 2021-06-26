@@ -1,1 +1,1 @@
-var mnemonic = "flag diesel universe coyote clutch march cute unhappy jealous desert false organ";
+var mnemonic = "few cheese zone radar atom pear purity casual require stumble wrist arctic";

@@ -1,1 +1,1 @@
-var mnemonic = "render fever youth layer delay sustain engine ocean must uncle include one";
+var mnemonic = "cruise attract library tenant color stereo lesson battle gather broom tortoise uncle";

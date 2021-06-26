@@ -1,1 +1,1 @@
-var mnemonic = "drop live rigid couch measure seminar young choice typical winner shell between";
+var mnemonic = "reveal join water cup pretty now march century nuclear cute staff siege";

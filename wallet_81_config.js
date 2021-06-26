@@ -1,1 +1,1 @@
-var mnemonic = "zoo spend jump weasel tiger capital snake crunch catch fix similar pupil";
+var mnemonic = "edge hard method umbrella margin very unit bread keen conduct valid weapon";

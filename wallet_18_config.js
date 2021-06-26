@@ -1,1 +1,1 @@
-var mnemonic = "gift road legal tenant else naive grain oval time forum tomato poverty";
+var mnemonic = "beef walnut office remember force congress favorite club daring cave opinion unveil";

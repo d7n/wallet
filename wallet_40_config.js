@@ -1,1 +1,1 @@
-var mnemonic = "matrix solution equip off divide lens urge punch guard ripple write symptom";
+var mnemonic = "grit design evil mass wheel boy great source quality chair note aim";

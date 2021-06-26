@@ -1,1 +1,1 @@
-var mnemonic = "where parrot glove scheme giant foot decrease diagram replace element canvas mango";
+var mnemonic = "clip main bulb clinic eager setup enter example spot erupt junior sunset";

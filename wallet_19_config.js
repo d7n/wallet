@@ -1,1 +1,1 @@
-var mnemonic = "voyage total luxury remind face floor club innocent degree that gym puppy";
+var mnemonic = "hurt space half normal friend cycle problem april amused want twin defy";

@@ -1,1 +1,1 @@
-var mnemonic = "floor save sunset solution walk intact finish reason circle grass initial game";
+var mnemonic = "acid chunk raven cover above infant bamboo fruit phone change peasant supply";

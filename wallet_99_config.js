@@ -1,1 +1,1 @@
-var mnemonic = "shine soldier drift seed word chalk found master hip sister alert share";
+var mnemonic = "jump keen stage volume enact employ unknown off quantum future strong total";

@@ -1,1 +1,1 @@
-var mnemonic = "later answer antenna olympic glue flight weird dune bunker diary author estate";
+var mnemonic = "purchase clarify loop mouse narrow maze doctor fence prosper gaze trap item";

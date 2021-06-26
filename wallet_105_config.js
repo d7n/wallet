@@ -1,1 +1,1 @@
-var mnemonic = "bind equip chief intact fire frozen equip pen awesome lemon ozone confirm";
+var mnemonic = "poet grow edge number add panther explain trash arrange arm corn alley";

@@ -1,1 +1,1 @@
-var mnemonic = "hover link number aisle replace found confirm drink breeze eternal whip issue";
+var mnemonic = "track hello cat exist evil guard ship problem deal day lava ticket";

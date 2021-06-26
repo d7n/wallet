@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo retreat top awesome abandon weather install scale below piece fit bench";
+var mnemonic = "chair guess canoe correct december source blast various leave depend antenna hundred";
