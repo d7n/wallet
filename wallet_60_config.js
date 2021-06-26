@@ -1,1 +1,1 @@
-var mnemonic = "short universe chronic loop inner bulb west tobacco sand movie blossom leisure";
+var mnemonic = "coconut few boss enemy eight flame seed spot craft slush person stadium";

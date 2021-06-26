@@ -1,1 +1,1 @@
-var mnemonic = "make program spirit disease festival address sentence minute brother away rifle author";
+var mnemonic = "chicken sibling legend beyond wide cluster marble trophy tooth plug frame brother";

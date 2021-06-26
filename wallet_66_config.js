@@ -1,1 +1,1 @@
-var mnemonic = "adult medal shallow bind gospel grunt toward point license reject curve manual";
+var mnemonic = "oil staff athlete hill fly home boy conduct twelve tenant hollow range";

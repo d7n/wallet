@@ -1,1 +1,1 @@
-var mnemonic = "ramp lecture victory gun safe stomach search gap april sad protect term";
+var mnemonic = "loyal chase bread infant control bounce expire useless innocent dirt guide escape";

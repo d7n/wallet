@@ -1,1 +1,1 @@
-var mnemonic = "abandon dinner goat fiber alien uncover raise scatter scheme sound turtle state";
+var mnemonic = "view differ absorb icon online onion destroy have purpose cost involve adapt";

@@ -1,1 +1,1 @@
-var mnemonic = "kingdom emotion rookie remind volcano extra fire neither party device party usage";
+var mnemonic = "dumb call noise combine drive enrich hungry lava curtain eye feel width";

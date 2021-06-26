@@ -1,1 +1,1 @@
-var mnemonic = "exhaust sail ancient correct include woman void layer remember piano observe cargo";
+var mnemonic = "raise vital isolate milk choice warm blossom potato mean mouse note dose";

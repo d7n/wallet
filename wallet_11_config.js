@@ -1,1 +1,1 @@
-var mnemonic = "month stage update paddle regular suspect cannon pair tiny beauty opera anger";
+var mnemonic = "output mule dilemma capital reward ship magic void also result faint shaft";

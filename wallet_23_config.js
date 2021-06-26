@@ -1,1 +1,1 @@
-var mnemonic = "wrestle movie near lemon alpha build great ice play atom observe outer";
+var mnemonic = "monkey mirror offer sun supply end sense citizen avoid cinnamon cruise receive";

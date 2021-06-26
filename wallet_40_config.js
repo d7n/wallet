@@ -1,1 +1,1 @@
-var mnemonic = "traffic grid wish horn three swear trick plunge bamboo boss sunny arrow";
+var mnemonic = "deal favorite squirrel domain pause vivid auto welcome oyster ski october potato";

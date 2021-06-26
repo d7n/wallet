@@ -1,1 +1,1 @@
-var mnemonic = "awesome improve door crater festival mandate grab urge gate length clarify practice";
+var mnemonic = "right exist blind acoustic taste slide rug visual brain super goose away";

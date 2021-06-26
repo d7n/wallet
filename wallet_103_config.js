@@ -1,1 +1,1 @@
-var mnemonic = "barrel twist trash disagree frown average olympic gather athlete ordinary document vague";
+var mnemonic = "scrap drum ancient dress case ceiling sentence awesome little quiz laugh carry";

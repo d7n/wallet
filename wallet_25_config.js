@@ -1,1 +1,1 @@
-var mnemonic = "task patch rail vessel divide final general farm enrich bulb submit coyote";
+var mnemonic = "mouse raise olympic bacon gather hero pen waste salt beauty fire flat";

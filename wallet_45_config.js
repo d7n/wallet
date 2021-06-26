@@ -1,1 +1,1 @@
-var mnemonic = "van embody twelve layer guilt wine absent common wealth december vocal attitude";
+var mnemonic = "prevent carry shift farm pencil junior early notice gauge goose survey crucial";

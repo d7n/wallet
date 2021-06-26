@@ -1,1 +1,1 @@
-var mnemonic = "diet duty allow edge where turkey swear wool attitude midnight split wagon";
+var mnemonic = "verify ripple need coyote oval guide spot marine miss capital warm north";

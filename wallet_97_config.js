@@ -1,1 +1,1 @@
-var mnemonic = "salt genuine armed grant useless photo army timber average unknown long reduce";
+var mnemonic = "escape much gadget reunion inflict glue horse chase robot lion tree street";

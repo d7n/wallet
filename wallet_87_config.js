@@ -1,1 +1,1 @@
-var mnemonic = "screen army script frost ability burst indoor hero fog reform jeans more";
+var mnemonic = "toddler path market syrup upon soda stamp coil fire priority imitate scout";

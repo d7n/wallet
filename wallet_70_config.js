@@ -1,1 +1,1 @@
-var mnemonic = "oak cabbage humble shed swamp captain toss tattoo hazard mystery forward panic";
+var mnemonic = "pulse toast bread always cable frown journey embody empty ribbon soul sound";

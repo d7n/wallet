@@ -1,1 +1,1 @@
-var mnemonic = "error wheat unfold opera basic shrimp select brisk piano increase drastic mercy";
+var mnemonic = "layer horse else pledge skirt purity fury already coast chef glance stay";

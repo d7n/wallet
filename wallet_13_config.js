@@ -1,1 +1,1 @@
-var mnemonic = "alarm hip avocado curious diesel tattoo knock lava main twelve wrestle latin";
+var mnemonic = "cloud core bean plunge army clean diet cause laundry quit solid kiwi";

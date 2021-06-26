@@ -1,1 +1,1 @@
-var mnemonic = "hen drastic congress stand frozen stadium silk column warrior rifle turtle problem";
+var mnemonic = "piece index exile swing extend decrease flag affair mom shoot worry until";

@@ -1,1 +1,1 @@
-var mnemonic = "behave sphere bread erupt calm vault february exercise session test element figure";
+var mnemonic = "swallow train morning abandon carbon fiction exist crew version rubber impact panic";

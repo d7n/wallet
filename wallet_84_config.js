@@ -1,1 +1,1 @@
-var mnemonic = "apology mandate actual plastic frog eyebrow snow height park prison sweet patient";
+var mnemonic = "napkin believe void digital any law throw say thunder merry inject athlete";

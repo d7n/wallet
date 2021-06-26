@@ -1,1 +1,1 @@
-var mnemonic = "way check require victory plate cable bunker upper crucial nest rug quality";
+var mnemonic = "vacant water coin among smoke stand woman hair rule obvious bulb strategy";

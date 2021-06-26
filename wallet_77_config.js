@@ -1,1 +1,1 @@
-var mnemonic = "vivid giant decide ship elite tonight slab harsh correct flame conduct flash";
+var mnemonic = "raven mix hat depth verb marriage sister creek seat unveil start raise";

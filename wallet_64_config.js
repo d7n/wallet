@@ -1,1 +1,1 @@
-var mnemonic = "rookie foot odor room tornado double blind fine equal you reveal curious";
+var mnemonic = "donate mouse side sight inhale toward girl eight motor oblige predict oppose";

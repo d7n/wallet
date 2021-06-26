@@ -1,1 +1,1 @@
-var mnemonic = "twice shadow brief dial joy build sadness pipe decide panther kitchen win";
+var mnemonic = "logic mechanic foam toast budget grace fashion easy girl symptom educate rally";

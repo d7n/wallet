@@ -1,1 +1,1 @@
-var mnemonic = "park horn like life brain spatial lobster color harsh river jeans close";
+var mnemonic = "sword inject salt sound nice afford project harvest hunt estate seminar file";

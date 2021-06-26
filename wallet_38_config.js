@@ -1,1 +1,1 @@
-var mnemonic = "trash trade burst jacket large account inquiry manual heart ahead blossom permit";
+var mnemonic = "party crime pottery heart limit video excess curve duck violin corn eye";

@@ -1,1 +1,1 @@
-var mnemonic = "crystal rib arrive world art nation often wise still prepare frozen under";
+var mnemonic = "unable trade elbow village cement toward lizard runway hockey ready zoo citizen";

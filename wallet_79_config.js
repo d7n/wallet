@@ -1,1 +1,1 @@
-var mnemonic = "sunny tube toe fatal tortoise corn fan news brisk motor phone solid";
+var mnemonic = "job embrace jungle manage lens chronic shine clog best vault mirror service";

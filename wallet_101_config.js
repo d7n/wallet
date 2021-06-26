@@ -1,1 +1,1 @@
-var mnemonic = "drama absorb sell quarter rapid text pilot enemy area frost heart actor";
+var mnemonic = "text divorce lucky february deputy renew ridge attitude south occur close occur";

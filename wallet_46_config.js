@@ -1,1 +1,1 @@
-var mnemonic = "bus key antenna weapon planet dumb comic six differ great panther balcony";
+var mnemonic = "market inside frog artist model donkey later used iron panther spray lion";

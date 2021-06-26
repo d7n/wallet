@@ -1,1 +1,1 @@
-var mnemonic = "museum crawl involve bubble december annual frost true letter hope inmate control";
+var mnemonic = "bounce theme tower yellow sausage hybrid eyebrow winner fog nose nasty renew";

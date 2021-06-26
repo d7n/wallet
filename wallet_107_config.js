@@ -1,1 +1,1 @@
-var mnemonic = "sting tuition sure mouse oyster volcano push pattern tomorrow robust inherit exile";
+var mnemonic = "ticket snack finish jelly cricket ozone balance kite repair long mammal lion";

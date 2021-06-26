@@ -1,1 +1,1 @@
-var mnemonic = "poem seed hundred tribe candy else dash stool master grab diagram lawsuit";
+var mnemonic = "trick what rough grocery property seven innocent slot evil column defense chief";

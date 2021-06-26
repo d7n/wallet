@@ -1,1 +1,1 @@
-var mnemonic = "harsh dynamic welcome hurdle okay garlic volcano wealth already copy chuckle shell";
+var mnemonic = "video ignore pulp lesson final daring april search orchard pupil remain negative";

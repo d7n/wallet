@@ -1,1 +1,1 @@
-var mnemonic = "sound cycle asthma cable arrest pill hero taste photo coin village snap";
+var mnemonic = "symptom alter dust win poet eternal wealth border misery assault trim warfare";

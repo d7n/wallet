@@ -1,1 +1,1 @@
-var mnemonic = "fashion high produce race ivory orient vivid planet trade dry fish forest";
+var mnemonic = "obscure forum rack album lake solid office deputy alcohol salmon elephant inch";

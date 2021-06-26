@@ -1,1 +1,1 @@
-var mnemonic = "rich expose narrow profit essay ski process device insect bench ivory brave";
+var mnemonic = "divide asthma next author crowd squeeze toddler opinion dentist rhythm truth thank";

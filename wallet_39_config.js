@@ -1,1 +1,1 @@
-var mnemonic = "aim stumble wreck found depth tenant siege major van frost pool drop";
+var mnemonic = "family major fault stomach gospel payment unique arrow deer top toe melt";

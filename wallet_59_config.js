@@ -1,1 +1,1 @@
-var mnemonic = "ski drink cool video gospel boring salt point nominee pass story burger";
+var mnemonic = "change arm fragile knock pluck assault polar trigger raven catalog obey normal";

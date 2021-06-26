@@ -1,1 +1,1 @@
-var mnemonic = "raven code solution razor easy couple correct figure ginger ivory toast satoshi";
+var mnemonic = "snow infant capable float unknown traffic satoshi faculty mixture hello west true";

@@ -1,1 +1,1 @@
-var mnemonic = "issue cycle melody benefit glare blouse another caught rent dawn soon merry";
+var mnemonic = "hood toss field nuclear vintage host team there topic person onion gold";

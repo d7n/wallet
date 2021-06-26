@@ -1,1 +1,1 @@
-var mnemonic = "wreck fruit essence pulp fragile rent captain size public follow wash jazz";
+var mnemonic = "wool top wrist forget federal able quote since online fruit member airport";

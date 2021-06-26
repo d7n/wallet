@@ -1,1 +1,1 @@
-var mnemonic = "must unique follow know risk reject link spike enough language service ceiling";
+var mnemonic = "firm hazard twenty rally offer reflect punch owner step leisure photo cage";

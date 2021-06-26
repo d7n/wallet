@@ -1,1 +1,1 @@
-var mnemonic = "wink decorate eyebrow miracle fix capable impose future stamp glove region river";
+var mnemonic = "mixed visual entry fringe aim service rural ranch slow mad tail code";

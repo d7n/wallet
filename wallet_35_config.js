@@ -1,1 +1,1 @@
-var mnemonic = "obvious distance bid sun enjoy chat taxi neck park photo pulse margin";
+var mnemonic = "thrive useful track assault brain scorpion sport metal slight surface envelope wheel";

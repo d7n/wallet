@@ -1,1 +1,1 @@
-var mnemonic = "theory piece attend drill polar flame liquid team spare write evolve beauty";
+var mnemonic = "fade else noble sketch ladder motor spike profit disorder sustain skirt sock";

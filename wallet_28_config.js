@@ -1,1 +1,1 @@
-var mnemonic = "latin hurt bulb crack fee permit various siren dinner area ability occur";
+var mnemonic = "denial tongue just acoustic during dust inherit youth episode cheese orphan depend";

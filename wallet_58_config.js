@@ -1,1 +1,1 @@
-var mnemonic = "slight opera orient illegal violin world mechanic square erupt sport giggle jelly";
+var mnemonic = "match wire voyage soup tumble engine own beef option melody mother between";

@@ -1,1 +1,1 @@
-var mnemonic = "picnic woman casual coach interest select toast winter truck into select meadow";
+var mnemonic = "bench search rather regret label teach patient busy mean cherry cave only";

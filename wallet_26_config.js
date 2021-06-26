@@ -1,1 +1,1 @@
-var mnemonic = "harbor enough decrease ocean require envelope supply pulse legal north tribe uncle";
+var mnemonic = "veteran make hood increase eager hotel kitten morning reopen chase object february";

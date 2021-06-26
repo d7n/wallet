@@ -1,1 +1,1 @@
-var mnemonic = "auto farm false spice math cement room upon erode correct choice annual";
+var mnemonic = "avoid ladder code hire fade daring old pottery bind accident tuition over";

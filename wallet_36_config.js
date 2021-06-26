@@ -1,1 +1,1 @@
-var mnemonic = "illness butter noble repair clarify oval still rescue music board limb shoulder";
+var mnemonic = "general item occur soap pool inspire tray satisfy shiver sound tilt arm";

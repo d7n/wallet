@@ -1,1 +1,1 @@
-var mnemonic = "exile pool logic rail horn brush gossip round sphere suspect keep cotton";
+var mnemonic = "grass exile typical answer stone poet wheat cupboard doll vital girl sibling";

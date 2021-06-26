@@ -1,1 +1,1 @@
-var mnemonic = "erupt damage fury girl relax blind paddle dad spice bonus citizen version";
+var mnemonic = "tomato scrap voyage document crater square swarm soldier fall fringe future certain";

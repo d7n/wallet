@@ -1,1 +1,1 @@
-var mnemonic = "cost curious regret life pen bunker color maid apple clever ridge brass";
+var mnemonic = "skill ecology ostrich various attract salad heavy soap carpet inmate industry ask";

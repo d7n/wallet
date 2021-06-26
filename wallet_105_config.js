@@ -1,1 +1,1 @@
-var mnemonic = "garment economy ridge render jacket rich light small truck finish elephant swear";
+var mnemonic = "behave snap topple oxygen tunnel occur frozen total awkward cloth shaft chat";

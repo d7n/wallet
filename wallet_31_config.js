@@ -1,1 +1,1 @@
-var mnemonic = "stereo outside similar lucky wisdom village cloth achieve miracle that garlic reject";
+var mnemonic = "govern estate fine account refuse bacon interest dignity another just arctic ladder";

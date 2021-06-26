@@ -1,1 +1,1 @@
-var mnemonic = "grit enable boat moon what monster unveil head mail report kite truly";
+var mnemonic = "milk long nothing way sort debris fog curious drink balance network garage";

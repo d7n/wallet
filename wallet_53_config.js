@@ -1,1 +1,1 @@
-var mnemonic = "among recipe dose seek stone write arena school remind hint august assume";
+var mnemonic = "someone solve stick keep school typical donor angry because spirit try east";

@@ -1,1 +1,1 @@
-var mnemonic = "time element noodle pair mountain predict alpha possible sea primary deal ski";
+var mnemonic = "depend drop radar river noodle taxi cruise damage unique bright ankle rather";

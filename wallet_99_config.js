@@ -1,1 +1,1 @@
-var mnemonic = "swear pencil dragon someone agent gain crush step six dwarf lawn carpet";
+var mnemonic = "century isolate sadness teach tunnel derive physical glue kingdom real man weekend";

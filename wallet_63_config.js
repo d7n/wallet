@@ -1,1 +1,1 @@
-var mnemonic = "vapor sell gorilla exit sausage later peasant extra trust shy spider pistol";
+var mnemonic = "alter cry metal tomato case shoulder verify nerve play live limit tank";

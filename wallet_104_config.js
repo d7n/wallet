@@ -1,1 +1,1 @@
-var mnemonic = "pill awake brisk course include multiply panther flock bamboo giant lawn purchase";
+var mnemonic = "gasp defense they muscle crazy copper today wool what rice door arrange";

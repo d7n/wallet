@@ -1,1 +1,1 @@
-var mnemonic = "victory scale body mosquito state slender keep fragile gap recycle bleak cycle";
+var mnemonic = "celery affair carry gun base stable feature skate bitter creek evoke method";

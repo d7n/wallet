@@ -1,1 +1,1 @@
-var mnemonic = "canyon answer sponsor fit chapter diagram valve vessel west zone item tank";
+var mnemonic = "vacuum charge fish swap cereal citizen pig multiply two prefer weekend morning";

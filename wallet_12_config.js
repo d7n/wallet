@@ -1,1 +1,1 @@
-var mnemonic = "canvas banana room deliver coach trip fame soap father future tomato buyer";
+var mnemonic = "engine learn actor news detail across resemble spring dizzy begin width menu";

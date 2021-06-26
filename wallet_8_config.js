@@ -1,1 +1,1 @@
-var mnemonic = "typical topic design guilt coconut poem right priority negative mixed anchor topple";
+var mnemonic = "regret trend figure behind like bonus perfect trial mango flight harvest toe";

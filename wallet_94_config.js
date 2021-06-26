@@ -1,1 +1,1 @@
-var mnemonic = "holiday inject allow wool cabbage gather shop merry evil angle other garage";
+var mnemonic = "party castle west execute fiction fine fly curve cart together recall vintage";

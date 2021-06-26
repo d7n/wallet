@@ -1,1 +1,1 @@
-var mnemonic = "silly mom grit zoo vast window index uncle copy trophy violin book";
+var mnemonic = "quarter two jump thank connect dragon elevator glance glow age there endless";

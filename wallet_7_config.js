@@ -1,1 +1,1 @@
-var mnemonic = "noble upon crowd nothing news rescue diary slender debate lazy update quantum";
+var mnemonic = "envelope case suffer twelve economy bless salon squeeze real weapon merry intact";

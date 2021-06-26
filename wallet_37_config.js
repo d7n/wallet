@@ -1,1 +1,1 @@
-var mnemonic = "swift copy fish spatial midnight unfair cricket couch awesome real bracket raise";
+var mnemonic = "echo worth badge forward fantasy jacket useless student pelican sight urge inherit";

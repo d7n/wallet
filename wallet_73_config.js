@@ -1,1 +1,1 @@
-var mnemonic = "connect car web average issue use novel card immune earth animal siege";
+var mnemonic = "mail style orphan win claw radio regular north draft pilot ankle until";

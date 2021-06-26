@@ -1,1 +1,1 @@
-var mnemonic = "room fashion board close region kind same dust trip unable accuse render";
+var mnemonic = "secret artist burger hurdle answer account meadow wife ill joy energy board";

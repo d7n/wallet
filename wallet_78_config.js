@@ -1,1 +1,1 @@
-var mnemonic = "quiz tornado social copy penalty output raise trash yellow math lyrics warrior";
+var mnemonic = "salon deer shove reflect offer civil mouse pride grass bundle impact child";

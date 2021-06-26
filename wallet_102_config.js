@@ -1,1 +1,1 @@
-var mnemonic = "quote letter fresh maid eager joke direct bright winner guess powder cake";
+var mnemonic = "citizen camp twist path monitor town dream wheel icon race twelve coach";

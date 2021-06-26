@@ -1,1 +1,1 @@
-var mnemonic = "believe scout found pair auto resist century portion insane divide dish glide";
+var mnemonic = "arena ritual clutch fatigue note reunion transfer typical parent undo orphan fever";

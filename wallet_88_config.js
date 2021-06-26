@@ -1,1 +1,1 @@
-var mnemonic = "toast embody logic eye interest wrist drink involve relief collect lion sausage";
+var mnemonic = "success hole holiday wear vibrant senior merry between ghost cargo message fuel";

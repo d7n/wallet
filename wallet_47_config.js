@@ -1,1 +1,1 @@
-var mnemonic = "around broom fiscal tool dwarf brief initial swarm clay stick prefer hazard";
+var mnemonic = "legend wrestle gain dose pretty bleak frown maze okay east garden nation";

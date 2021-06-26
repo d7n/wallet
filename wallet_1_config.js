@@ -1,1 +1,1 @@
-var mnemonic = "shed wet trophy ranch galaxy catch van prepare real photo lumber weasel";
+var mnemonic = "famous say enroll erase refuse gospel produce anger quantum save arch must";

@@ -1,1 +1,1 @@
-var mnemonic = "torch hero victory cloth involve hat elevator inflict issue tomato dose misery";
+var mnemonic = "average refuse goat quick view emotion early stuff recipe bus crack pig";

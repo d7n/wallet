@@ -1,1 +1,1 @@
-var mnemonic = "dream album speak property flip custom obvious large adjust outside stay file";
+var mnemonic = "believe comfort camera goat remind ugly real agree frequent knee place behave";

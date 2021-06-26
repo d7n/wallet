@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow very blur grass chair figure exile thank material jelly crater pony";
+var mnemonic = "whale stay soul zoo level chief bacon hurdle return orbit foster evolve";

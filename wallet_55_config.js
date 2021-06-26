@@ -1,1 +1,1 @@
-var mnemonic = "open search spoon before struggle toe piano air client romance good about";
+var mnemonic = "same glimpse flip nothing gossip common trap elegant fee spike spell swap";

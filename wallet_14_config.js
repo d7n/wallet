@@ -1,1 +1,1 @@
-var mnemonic = "faith army board crack box industry piece pink narrow family display barely";
+var mnemonic = "label simple undo beyond sphere ring lounge inside attract rebuild behind vanish";

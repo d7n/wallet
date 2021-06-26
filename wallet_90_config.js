@@ -1,1 +1,1 @@
-var mnemonic = "glad knife curtain setup devote upset fall dirt alien patrol symptom sunny";
+var mnemonic = "child render nose reason february romance breeze add hazard fork mansion also";

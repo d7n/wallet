@@ -1,1 +1,1 @@
-var mnemonic = "gain bamboo snap pumpkin pear erode blade soup forest sport kick blame";
+var mnemonic = "disorder lunar across suggest always tonight group minimum athlete brother impulse antenna";

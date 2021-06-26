@@ -1,1 +1,1 @@
-var mnemonic = "coast umbrella coffee smoke wash auto viable question depend mutual accuse amazing";
+var mnemonic = "van inch indoor fruit obey phrase man kingdom fit slush endorse hunt";

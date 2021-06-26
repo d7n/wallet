@@ -1,1 +1,1 @@
-var mnemonic = "path put grab tip word glory doctor include sign champion void nuclear";
+var mnemonic = "network grass wash grunt great usual brand sustain sweet join talk awkward";

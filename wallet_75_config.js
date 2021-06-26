@@ -1,1 +1,1 @@
-var mnemonic = "puppy feed trend room tip catch raven blast pond curious early envelope";
+var mnemonic = "twelve chair master bread install expose seek circle position quit unable enable";

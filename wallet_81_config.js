@@ -1,1 +1,1 @@
-var mnemonic = "consider speed birth angle hundred custom lonely erase grab subject excuse glass";
+var mnemonic = "dice boy people link fatigue elder syrup nurse tray throw parade east";

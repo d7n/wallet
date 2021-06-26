@@ -1,1 +1,1 @@
-var mnemonic = "fancy play father awesome venture season word discover tone relax series render";
+var mnemonic = "depend awful genuine muscle bottom strike clean salt depend fever guilt sketch";

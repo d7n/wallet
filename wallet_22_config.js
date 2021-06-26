@@ -1,1 +1,1 @@
-var mnemonic = "calm ocean pyramid consider wide glue rubber grant midnight puppy guilt orphan";
+var mnemonic = "essay symbol laugh legend negative link bamboo come hold glory govern collect";

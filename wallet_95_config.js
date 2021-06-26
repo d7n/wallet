@@ -1,1 +1,1 @@
-var mnemonic = "update ladder pretty act mixture extra moral flower spread put album resemble";
+var mnemonic = "edge age picnic reflect river current science raccoon wonder rebel major exact";

@@ -1,1 +1,1 @@
-var mnemonic = "champion turkey wink woman embody gym lizard lab merry clown bird possible";
+var mnemonic = "daring ethics input century excite help saddle potato famous total dragon journey";
