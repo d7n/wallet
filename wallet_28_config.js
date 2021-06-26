@@ -1,1 +1,1 @@
-var mnemonic = "sausage dinner curtain talent valid ketchup melody purity sugar mention call suspect";
+var mnemonic = "world humor detect cactus imitate burst differ reunion industry rack dance mosquito";

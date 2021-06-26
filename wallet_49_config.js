@@ -1,1 +1,1 @@
-var mnemonic = "open glare cotton erode lucky top barrel lava one nation guard disease";
+var mnemonic = "helmet toddler august mansion glass shrug museum pudding invest survey follow dice";

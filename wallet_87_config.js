@@ -1,1 +1,1 @@
-var mnemonic = "manage cake want theme argue nominee puzzle empty before box also lounge";
+var mnemonic = "awake way health lucky valley inherit erosion weasel huge blanket square reveal";

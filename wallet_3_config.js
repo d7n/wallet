@@ -1,1 +1,1 @@
-var mnemonic = "improve shy kitchen gas floor absent frozen session confirm mansion oyster arm";
+var mnemonic = "whisper you leopard still wisdom sort flavor execute online broken gold turtle";

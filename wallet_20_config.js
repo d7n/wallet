@@ -1,1 +1,1 @@
-var mnemonic = "canvas ghost swing future weapon life rebuild cat mix token demand gate";
+var mnemonic = "inflict reopen enhance stadium practice empower infant museum spread accident roof fame";

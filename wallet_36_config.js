@@ -1,1 +1,1 @@
-var mnemonic = "web unveil merit morning wrong wet marriage dignity cradle universe enroll menu";
+var mnemonic = "ankle clay mouse hammer when fatal castle change frozen eye rug patient";

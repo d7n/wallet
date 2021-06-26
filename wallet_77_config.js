@@ -1,1 +1,1 @@
-var mnemonic = "sense blame inherit orbit drive modify water spatial energy travel mercy toss";
+var mnemonic = "any novel marble outside check exotic word olympic response cram truck slide";

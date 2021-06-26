@@ -1,1 +1,1 @@
-var mnemonic = "oven wait minute lake voyage tag grain neutral churn assist bike foil";
+var mnemonic = "exercise hole skill blind action emerge spoon wing glue sound whisper team";

@@ -1,1 +1,1 @@
-var mnemonic = "wagon seek method noble federal bulk silver raven insect egg bag toe";
+var mnemonic = "wish gaze surround snap pulse illness spin idle clog student detect list";

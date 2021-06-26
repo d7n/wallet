@@ -1,1 +1,1 @@
-var mnemonic = "fiscal genuine liquid member swing coconut habit census sting frost execute dutch";
+var mnemonic = "lottery vivid toward garage force auction mercy pear chase weasel must claim";

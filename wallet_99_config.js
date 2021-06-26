@@ -1,1 +1,1 @@
-var mnemonic = "derive current sauce aspect engage cabbage card cereal weather hard bless human";
+var mnemonic = "regret laptop recipe merge tank midnight girl sleep when donor only coast";

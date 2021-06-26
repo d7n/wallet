@@ -1,1 +1,1 @@
-var mnemonic = "menu fashion year into mixture debris buzz insect busy cube copy fold";
+var mnemonic = "umbrella shine cart habit badge predict foam narrow blush jaguar price eagle";

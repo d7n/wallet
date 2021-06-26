@@ -1,1 +1,1 @@
-var mnemonic = "vacuum viable cigar wire mad media select supreme cushion share fiber rain";
+var mnemonic = "resist ankle nuclear divorce grow ankle dust erosion exchange slice pilot saddle";

@@ -1,1 +1,1 @@
-var mnemonic = "trade glory flag innocent area used off opera capital south oak ecology";
+var mnemonic = "tenant canvas obtain sniff correct link drift teach bonus amount moral disagree";

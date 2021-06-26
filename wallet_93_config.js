@@ -1,1 +1,1 @@
-var mnemonic = "only option swim easily stamp monster decrease live second fashion grace birth";
+var mnemonic = "endorse jewel firm refuse wide use arm infant rice since early slide";

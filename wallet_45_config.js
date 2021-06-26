@@ -1,1 +1,1 @@
-var mnemonic = "twice mule bomb funny spend nephew bridge purpose enforce orphan kitten amateur";
+var mnemonic = "slot useless step energy alert raccoon fox thunder silly curious grief athlete";

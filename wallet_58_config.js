@@ -1,1 +1,1 @@
-var mnemonic = "rookie pill seed rubber draw basic derive sponsor fun blind capable crowd";
+var mnemonic = "rough forget rifle surge provide roof ordinary worry favorite able object senior";

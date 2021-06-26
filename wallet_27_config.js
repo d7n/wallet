@@ -1,1 +1,1 @@
-var mnemonic = "ecology fragile stuff share fiscal stem excite pencil door crucial clinic reject";
+var mnemonic = "gravity loan wheel float merge resist swallow major curious embody grain tornado";

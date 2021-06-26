@@ -1,1 +1,1 @@
-var mnemonic = "course always glance train case scorpion plastic alley bus maple climb belt";
+var mnemonic = "solid arm hunt equal entire hire memory canal cool lesson soda obvious";

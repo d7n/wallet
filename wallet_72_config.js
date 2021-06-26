@@ -1,1 +1,1 @@
-var mnemonic = "true blood fun cheap risk discover say stand relax hybrid major pudding";
+var mnemonic = "skirt target frown open vessel cliff cost dynamic pledge pass actual online";

@@ -1,1 +1,1 @@
-var mnemonic = "access need include episode axis pink arrow envelope provide reason rhythm curtain";
+var mnemonic = "fade south pony anger verb guide dream rib ginger receive valid budget";

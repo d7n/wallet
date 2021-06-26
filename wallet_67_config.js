@@ -1,1 +1,1 @@
-var mnemonic = "canal project pull dance diamond dice mouse possible wedding tuition race category";
+var mnemonic = "exotic solid rigid frozen ahead inch want vicious left pilot language true";

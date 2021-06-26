@@ -1,1 +1,1 @@
-var mnemonic = "bird govern oil wife upset pulp consider horror motion rebuild design enemy";
+var mnemonic = "excess ticket connect top knock eager tackle soap corn shine advance breeze";

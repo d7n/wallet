@@ -1,1 +1,1 @@
-var mnemonic = "token cute trick climb nation length vivid dog among join report little";
+var mnemonic = "culture nature engine web announce else breeze kick since wasp dwarf manage";

@@ -1,1 +1,1 @@
-var mnemonic = "negative climb element salon upon marine knock combine worth north era wool";
+var mnemonic = "coach pen bright metal card garage match debate deliver chimney comfort habit";

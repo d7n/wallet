@@ -1,1 +1,1 @@
-var mnemonic = "equip cactus upset hint body measure drama casual useful habit vault surround";
+var mnemonic = "one owner media also dream fitness exact drift merge north response utility";

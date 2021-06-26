@@ -1,1 +1,1 @@
-var mnemonic = "tattoo garden reveal select thing stand fruit usual yellow frog wait hero";
+var mnemonic = "arch cream this assume skate borrow expire spring smart sword raw shell";

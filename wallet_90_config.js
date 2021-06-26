@@ -1,1 +1,1 @@
-var mnemonic = "merit fire fame public sunset loop alter stage near sorry elephant opinion";
+var mnemonic = "retreat jazz gallery swarm twelve retreat tool owner supply viable electric grab";

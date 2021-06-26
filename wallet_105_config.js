@@ -1,1 +1,1 @@
-var mnemonic = "robot buyer modify excite eye identify shoulder athlete light ride mandate wall";
+var mnemonic = "fold size elevator elbow federal margin license false evidence sight beach tank";

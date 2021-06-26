@@ -1,1 +1,1 @@
-var mnemonic = "toy school critic floor diagram fuel boat legal hover unusual trade pet";
+var mnemonic = "winter monkey eternal price purse inmate phrase journey road olympic sketch typical";

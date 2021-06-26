@@ -1,1 +1,1 @@
-var mnemonic = "punch gallery engine ignore track document economy display cave knock fee snow";
+var mnemonic = "dog garbage green entire vacuum various marine earn extra visit assault fee";

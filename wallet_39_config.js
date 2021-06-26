@@ -1,1 +1,1 @@
-var mnemonic = "melody various bounce sort panel february misery tongue glue cluster thing screen";
+var mnemonic = "undo normal time team style guard various deliver furnace buffalo ring shed";

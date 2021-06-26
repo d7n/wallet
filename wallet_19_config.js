@@ -1,1 +1,1 @@
-var mnemonic = "hat cupboard artefact danger grit wine game salute grief find orient truth";
+var mnemonic = "insane subway peasant slush despair account depth buddy liberty cradle entire govern";

@@ -1,1 +1,1 @@
-var mnemonic = "ridge whisper december hope trick shrimp axis cement author scheme polar cancel";
+var mnemonic = "short web piano raccoon input adjust crash defense humble napkin wild chase";

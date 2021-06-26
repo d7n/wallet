@@ -1,1 +1,1 @@
-var mnemonic = "gold cousin choose reward fluid involve clarify harvest night web victory grass";
+var mnemonic = "satoshi ask then script trash shy under dwarf mechanic autumn chef trick";

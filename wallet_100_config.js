@@ -1,1 +1,1 @@
-var mnemonic = "share hollow grace night foot patient same fringe bridge scene wine flight";
+var mnemonic = "ignore forum license banner believe treat hockey gesture liquid height convince useless";

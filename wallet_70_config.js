@@ -1,1 +1,1 @@
-var mnemonic = "tuition crush buzz orchard jacket opera fee math tone cupboard satoshi interest";
+var mnemonic = "cinnamon modify analyst slogan increase renew inherit square lobster oval lunch click";

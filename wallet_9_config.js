@@ -1,1 +1,1 @@
-var mnemonic = "law major treat meat ceiling vast south muscle alter visual say flower";
+var mnemonic = "game fox quick mandate ride artefact daring gallery antenna tuna slim word";

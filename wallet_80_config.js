@@ -1,1 +1,1 @@
-var mnemonic = "patrol grunt rotate trial silly talk common puzzle lunar chunk fault sibling";
+var mnemonic = "crumble voyage sister strike water once promote odor silent humble forum say";

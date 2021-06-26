@@ -1,1 +1,1 @@
-var mnemonic = "tragic silly boost system library buyer rude foil tooth fancy tomorrow champion";
+var mnemonic = "tennis weasel chimney wheat result soft travel reflect another maid shiver purse";

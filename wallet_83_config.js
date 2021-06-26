@@ -1,1 +1,1 @@
-var mnemonic = "drum tilt approve one ride father metal valley rug verify thunder decorate";
+var mnemonic = "reject solid dilemma dirt version direct pond raw solve life dove ability";

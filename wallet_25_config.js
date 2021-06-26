@@ -1,1 +1,1 @@
-var mnemonic = "symptom shine vacant decide relax electric where crazy ensure enter person rapid";
+var mnemonic = "pen valley ticket speak result settle joy fatal process define arch frog";

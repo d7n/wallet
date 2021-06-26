@@ -1,1 +1,1 @@
-var mnemonic = "tilt suffer visa math address physical brand happy runway mechanic fold merge";
+var mnemonic = "banana bundle tooth satoshi broken year nice dirt clog egg jacket crystal";

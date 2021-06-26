@@ -1,1 +1,1 @@
-var mnemonic = "marriage vacant avoid act pulp drink trick nominee alarm book exchange cradle";
+var mnemonic = "scheme moral zone trouble lucky vendor island private defense suffer uncover then";

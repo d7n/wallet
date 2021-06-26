@@ -1,1 +1,1 @@
-var mnemonic = "palm skirt yellow usage cereal stable utility sun refuse soda someone boost";
+var mnemonic = "warrior victory sister sad remember asset follow isolate virus metal olive worry";

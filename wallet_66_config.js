@@ -1,1 +1,1 @@
-var mnemonic = "biology vague mammal visual rifle demise view stuff laptop goddess list mutual";
+var mnemonic = "onion orchard stem organ north flee ignore appear tide cement glad topic";

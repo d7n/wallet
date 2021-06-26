@@ -1,1 +1,1 @@
-var mnemonic = "radio utility route differ coin debate caught surge solve indoor village zone";
+var mnemonic = "jeans kitchen isolate senior resource detect surprise wood banner concert office much";

@@ -1,1 +1,1 @@
-var mnemonic = "pause surround stick spring cash live add genius fossil dinosaur boring leave";
+var mnemonic = "all blouse canvas code steel glove piano exchange utility truly jaguar stereo";

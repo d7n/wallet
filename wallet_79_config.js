@@ -1,1 +1,1 @@
-var mnemonic = "celery hour glad brother neglect axis away use sentence virus month february";
+var mnemonic = "amateur walk sense more giant cave envelope zebra own staff own assume";

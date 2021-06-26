@@ -1,1 +1,1 @@
-var mnemonic = "parent maple during picnic mansion maid resource cloth indoor airport garden fiscal";
+var mnemonic = "vivid rapid clip cushion welcome mimic bullet bean riot delay perfect office";

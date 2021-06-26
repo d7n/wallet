@@ -1,1 +1,1 @@
-var mnemonic = "identify knife excess catch force gasp giggle annual escape silent picture venture";
+var mnemonic = "amazing cigar frown unaware owner submit cotton age blood dismiss super popular";

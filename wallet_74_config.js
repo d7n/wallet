@@ -1,1 +1,1 @@
-var mnemonic = "maximum employ shoot mesh spot clay donor coconut best artwork among drastic";
+var mnemonic = "piece proof remember cereal blade rose sense dust alert spot chief deliver";

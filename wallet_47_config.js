@@ -1,1 +1,1 @@
-var mnemonic = "leisure faint flip stairs labor govern sketch spoon sunset unique govern try";
+var mnemonic = "figure side cost awesome animal patrol castle tail cabin muscle monkey shoe";

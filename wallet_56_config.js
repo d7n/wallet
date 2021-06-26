@@ -1,1 +1,1 @@
-var mnemonic = "hidden number strategy such uncle make major deer kid ahead decrease bundle";
+var mnemonic = "limb deposit trust edge divorce advance enjoy diagram danger depart wagon finger";

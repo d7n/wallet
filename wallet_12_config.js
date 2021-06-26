@@ -1,1 +1,1 @@
-var mnemonic = "naive early question airport hen stage proof crowd mad enroll mystery apart";
+var mnemonic = "kid scrap kitchen three mail sunset animal wet husband museum fluid program";

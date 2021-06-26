@@ -1,1 +1,1 @@
-var mnemonic = "swing sleep illegal exotic satisfy canyon damage huge cigar rib weapon squeeze";
+var mnemonic = "dose stay novel matrix pottery maze rose visa oak differ fuel electric";

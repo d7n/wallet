@@ -1,1 +1,1 @@
-var mnemonic = "blame adult hurt outer patient actor wrong welcome sleep already limit sweet";
+var mnemonic = "regular win fish proof case dance sorry squirrel brief assume game impact";

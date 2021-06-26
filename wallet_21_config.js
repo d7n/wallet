@@ -1,1 +1,1 @@
-var mnemonic = "inhale enlist someone powder flower alien owner select reward coin absorb subway";
+var mnemonic = "before answer trip leg rude velvet dizzy denial meadow garment fetch clip";

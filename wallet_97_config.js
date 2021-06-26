@@ -1,1 +1,1 @@
-var mnemonic = "belt outside jelly chunk hair viable doll tissue slender normal curtain talent";
+var mnemonic = "squeeze connect canoe eager common comfort average bunker angle favorite audit census";

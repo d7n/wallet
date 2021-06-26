@@ -1,1 +1,1 @@
-var mnemonic = "soul core limit genius pepper symptom idea meadow fluid push tattoo bone";
+var mnemonic = "clap grid pole episode fly purity tide cargo you useless casino ostrich";

@@ -1,1 +1,1 @@
-var mnemonic = "honey deputy fluid ivory salon unfold ketchup intact december erupt gesture quiz";
+var mnemonic = "snow better fit review clutch planet strong bean decrease saddle december pretty";

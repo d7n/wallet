@@ -1,1 +1,1 @@
-var mnemonic = "swing tree lecture change electric zero bundle brick kid age roast elevator";
+var mnemonic = "mountain letter slab uncle vague swim mouse ostrich require village judge remain";

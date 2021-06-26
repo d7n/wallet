@@ -1,1 +1,1 @@
-var mnemonic = "grass system stick screen shallow wait census fame will know father frog";
+var mnemonic = "hybrid atom plastic present valid person skin great notice grab supply lion";

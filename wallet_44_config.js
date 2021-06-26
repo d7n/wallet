@@ -1,1 +1,1 @@
-var mnemonic = "innocent error loop clog tray sight myth flash neck solar humor monster";
+var mnemonic = "attitude genuine man run cross join brief kiwi license pride music annual";

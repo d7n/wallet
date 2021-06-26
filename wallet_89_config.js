@@ -1,1 +1,1 @@
-var mnemonic = "solve bulb video lady donate year program regular cycle desk apple fold";
+var mnemonic = "march tomorrow tooth year siege cotton satoshi discover jaguar slender daughter image";

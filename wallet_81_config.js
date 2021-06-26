@@ -1,1 +1,1 @@
-var mnemonic = "away swift wool alone park father stomach zebra earth carry divert gloom";
+var mnemonic = "farm senior spin tackle labor upper lawn physical obscure dream crawl october";

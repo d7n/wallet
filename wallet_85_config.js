@@ -1,1 +1,1 @@
-var mnemonic = "work giant tape seek lecture reason tide farm noise connect slim digital";
+var mnemonic = "thumb achieve jealous donkey pulp long swim tattoo dumb crater start symbol";

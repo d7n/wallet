@@ -1,1 +1,1 @@
-var mnemonic = "twelve vague ensure clinic bubble claw that cigar crystal real insect word";
+var mnemonic = "approve grief almost whip trap fat poet devote drip will human occur";

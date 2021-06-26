@@ -1,1 +1,1 @@
-var mnemonic = "elegant warrior waste old tool almost silk blind giraffe bullet garbage inhale";
+var mnemonic = "height mango prevent reject sausage twelve dice way glue flat diagram soft";

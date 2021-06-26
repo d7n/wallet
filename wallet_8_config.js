@@ -1,1 +1,1 @@
-var mnemonic = "office trim stick vivid critic blind today foot giant dune alpha salt";
+var mnemonic = "goddess deny august sniff safe fruit myself melt hockey zero barely amused";

@@ -1,1 +1,1 @@
-var mnemonic = "economy tortoise movie detect erosion nuclear lab kid unfair aspect broken coil";
+var mnemonic = "minimum kitchen sausage sword behind taste vacant champion auction smooth prevent spin";

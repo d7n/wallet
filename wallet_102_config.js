@@ -1,1 +1,1 @@
-var mnemonic = "hundred sell kid oblige caution stone drink similar drastic debate muscle bomb";
+var mnemonic = "foot worry razor tomorrow pull design drama salt grace swim wave chapter";

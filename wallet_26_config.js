@@ -1,1 +1,1 @@
-var mnemonic = "protect belt menu beef pool warfare field despair inflict riot shift brief";
+var mnemonic = "response glove uphold federal flower problem farm gospel eternal into jeans trouble";

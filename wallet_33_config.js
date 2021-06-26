@@ -1,1 +1,1 @@
-var mnemonic = "hour mixture lion tip labor avoid grocery lawn immense arm explain fine";
+var mnemonic = "retreat mass bottom relax twice broken dilemma finger blind smooth bargain grit";

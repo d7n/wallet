@@ -1,1 +1,1 @@
-var mnemonic = "neck figure caught such payment clock nature rival raw clown arctic axis";
+var mnemonic = "clarify matter office glass cinnamon fitness noise excess mix glove foil august";

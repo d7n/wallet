@@ -1,1 +1,1 @@
-var mnemonic = "secret pluck midnight noble bird olympic card peasant screen rose carpet hat";
+var mnemonic = "napkin hover filter nerve appear brisk honey what have abandon oven across";

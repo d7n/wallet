@@ -1,1 +1,1 @@
-var mnemonic = "lyrics boy chuckle exhibit crane rug skin twin million baby upon goose";
+var mnemonic = "medal purse light split bitter mom delay guilt ability pair perfect honey";

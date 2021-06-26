@@ -1,1 +1,1 @@
-var mnemonic = "tattoo insane front february hedgehog sibling master call crumble limb useless unique";
+var mnemonic = "pole output venue burst firm auction reject shy rebel ball party skirt";

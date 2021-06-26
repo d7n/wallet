@@ -1,1 +1,1 @@
-var mnemonic = "transfer chair inch engage side marble fish noise blush cradle obtain mosquito";
+var mnemonic = "truly cement eye elbow clown enact clock scheme melt general dad dance";

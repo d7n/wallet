@@ -1,1 +1,1 @@
-var mnemonic = "truck immune beach destroy chimney debris prison radio bean silly law hidden";
+var mnemonic = "jungle kitten stadium fringe acquire weird moral duck update situate ready wild";

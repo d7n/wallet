@@ -1,1 +1,1 @@
-var mnemonic = "erode tennis diary mirror interest crack treat air solid adult sibling learn";
+var mnemonic = "cover repeat spare aspect bulk noble project tide soon impact green tray";

@@ -1,1 +1,1 @@
-var mnemonic = "cupboard meat lemon foam gather candy jungle patient army return sponsor dry";
+var mnemonic = "student patch spend illness nuclear lonely antenna army hub pigeon milk ketchup";

@@ -1,1 +1,1 @@
-var mnemonic = "pass carbon original slide reject clerk quality abandon organ trim much injury";
+var mnemonic = "guilt detail toss crumble identify pumpkin reject best have normal picture orphan";

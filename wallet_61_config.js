@@ -1,1 +1,1 @@
-var mnemonic = "before boy response leader leaf rocket civil file symbol width useful receive";
+var mnemonic = "venture service cushion water lab slot ceiling income mind subway chicken upon";

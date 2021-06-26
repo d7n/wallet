@@ -1,1 +1,1 @@
-var mnemonic = "leopard subject analyst major globe pink alpha device embrace settle bind vehicle";
+var mnemonic = "round bounce stool connect desert couch explain awake eye story retreat fever";

@@ -1,1 +1,1 @@
-var mnemonic = "uncle skate effort almost hood crystal fat damp unfair fiber proof sing";
+var mnemonic = "head erode raccoon ranch monitor pink ill upset myself more state matter";

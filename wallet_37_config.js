@@ -1,1 +1,1 @@
-var mnemonic = "call notice play example tomato brisk grid claw shoulder veteran opera gravity";
+var mnemonic = "afford dove good chalk door air lady faculty two tumble frequent duck";
