@@ -1,1 +1,1 @@
-var mnemonic = "gentle hill divorce drill rookie bread machine split region junior opinion list";
+var mnemonic = "citizen dilemma laundry usage silver surround away spike act protect solve piece";

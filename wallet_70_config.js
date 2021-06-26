@@ -1,1 +1,1 @@
-var mnemonic = "unlock walk board hollow blood general tornado snack iron holiday grace floor";
+var mnemonic = "inflict team myself click spoil apart retire this wall engine alarm return";

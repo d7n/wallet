@@ -1,1 +1,1 @@
-var mnemonic = "captain goose hurdle glide world citizen advance relax mammal dune paddle world";
+var mnemonic = "defense tongue cup original sleep fork lucky empty owner firm walnut hello";

@@ -1,1 +1,1 @@
-var mnemonic = "giggle describe physical edge decline grunt replace round teach pipe inform leaf";
+var mnemonic = "risk cart apology valley ivory skirt turtle lift fetch increase swing pole";

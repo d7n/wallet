@@ -1,1 +1,1 @@
-var mnemonic = "fury damage earth luggage evidence tobacco sock confirm repair allow clarify salad";
+var mnemonic = "screen kangaroo divide secret miss sell loud ranch exclude vessel section reform";

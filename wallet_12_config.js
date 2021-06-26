@@ -1,1 +1,1 @@
-var mnemonic = "hunt wrap tomorrow shallow matrix ginger expand music moral need second absent";
+var mnemonic = "omit crash plunge volume eager detect collect kick typical will gain put";

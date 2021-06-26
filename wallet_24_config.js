@@ -1,1 +1,1 @@
-var mnemonic = "engine offer sick code unfair member simple margin chunk voyage light trend";
+var mnemonic = "punch rally armed vast just test comic inmate squirrel bitter sight need";

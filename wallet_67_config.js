@@ -1,1 +1,1 @@
-var mnemonic = "latin sponsor chief deal congress dentist gun north paper agent claw liquid";
+var mnemonic = "silly click trophy arrest upon leisure chicken tackle doll donate paddle long";

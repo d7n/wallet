@@ -1,1 +1,1 @@
-var mnemonic = "destroy daring merit draw about brief token appear swear body drift dove";
+var mnemonic = "chat repeat song town eyebrow border rely wolf spoil milk leg secret";

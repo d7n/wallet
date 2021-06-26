@@ -1,1 +1,1 @@
-var mnemonic = "shrug possible essay tube good smooth clean slice pet gym soul rack";
+var mnemonic = "deliver any stadium crop embark silent sting bulb crime egg sheriff recall";

@@ -1,1 +1,1 @@
-var mnemonic = "upset nature charge begin special stereo spend fold minor mosquito frown group";
+var mnemonic = "maple month heavy abandon aim hub zero long dad universe female garlic";

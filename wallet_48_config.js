@@ -1,1 +1,1 @@
-var mnemonic = "turn puppy shop illness canyon column lend normal door broken gesture group";
+var mnemonic = "weapon medal hurry model dish peasant hurt dentist february hazard sea search";

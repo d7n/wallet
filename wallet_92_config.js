@@ -1,1 +1,1 @@
-var mnemonic = "hollow lizard wall shine ramp muscle south wolf depth moon join void";
+var mnemonic = "banner fence shadow offer rare unique napkin bounce reduce bicycle until olympic";

@@ -1,1 +1,1 @@
-var mnemonic = "afraid midnight sorry oblige expect banner topple hidden ridge flower fee height";
+var mnemonic = "normal beyond dial enforce tower muffin buyer symptom army useless action deal";

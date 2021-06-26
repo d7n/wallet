@@ -1,1 +1,1 @@
-var mnemonic = "deny express spread sweet stone cram breeze prevent shoe interest omit raw";
+var mnemonic = "seek loop trophy clay abuse combine welcome mixed donate gospel task wood";

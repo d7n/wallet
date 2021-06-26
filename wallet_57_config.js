@@ -1,1 +1,1 @@
-var mnemonic = "middle dune subject boring test seed erupt future piece random race gentle";
+var mnemonic = "grant repair spray cycle brick elegant dash poverty mercy mobile renew census";

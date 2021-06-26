@@ -1,1 +1,1 @@
-var mnemonic = "beauty amount olympic market apart hospital rabbit grab hundred gesture push hospital";
+var mnemonic = "fan okay sick earth arrive age wild crack brand toward off sail";

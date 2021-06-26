@@ -1,1 +1,1 @@
-var mnemonic = "festival size awful shield canal chuckle slogan call broken caught load drink";
+var mnemonic = "giggle sadness fortune pyramid congress remember mixed diary brush dry gravity pond";

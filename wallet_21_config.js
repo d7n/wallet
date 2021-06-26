@@ -1,1 +1,1 @@
-var mnemonic = "coffee confirm ski random matrix magic rice drill enjoy ability wise aunt";
+var mnemonic = "hen egg expect pioneer suit waste later entry rule gun hunt question";

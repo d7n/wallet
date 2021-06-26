@@ -1,1 +1,1 @@
-var mnemonic = "lift slab head vendor attack orphan police quiz assist sick valid frown";
+var mnemonic = "excuse lift roof require hurt van sight pond teach crane salad left";

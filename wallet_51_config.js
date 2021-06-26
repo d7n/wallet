@@ -1,1 +1,1 @@
-var mnemonic = "shock chimney veteran okay iron grace love hero top list wrong clip";
+var mnemonic = "robot boil radio mango dish reform answer rival dawn bread grain portion";

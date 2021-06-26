@@ -1,1 +1,1 @@
-var mnemonic = "jungle walnut insect jeans fold hockey derive sausage broom social way enable";
+var mnemonic = "equip merge write clinic ecology cloth tomorrow bring cry empty snow fire";

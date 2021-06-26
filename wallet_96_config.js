@@ -1,1 +1,1 @@
-var mnemonic = "file spread guess shell build cruel permit clump novel across indoor seed";
+var mnemonic = "furnace again satoshi kitten electric section toy violin acid wedding correct mean";

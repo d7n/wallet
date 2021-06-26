@@ -1,1 +1,1 @@
-var mnemonic = "cage melt pistol twice copper tip combine race female panther tube blade";
+var mnemonic = "flip local soldier spawn arrive distance case split coconut bean black solution";

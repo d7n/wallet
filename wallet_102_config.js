@@ -1,1 +1,1 @@
-var mnemonic = "hour tumble fall flee nice deal canvas tool pulp what celery road";
+var mnemonic = "tribe time glimpse letter develop collect inner coach price matrix donkey affair";

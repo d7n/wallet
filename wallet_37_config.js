@@ -1,1 +1,1 @@
-var mnemonic = "slab labor room sister party ketchup flock robust only try sail act";
+var mnemonic = "wolf use great popular sort raccoon motion ready dynamic whip common walnut";

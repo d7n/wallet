@@ -1,1 +1,1 @@
-var mnemonic = "human chief improve wish danger force bag naive burger enter industry coach";
+var mnemonic = "junior pill screen spy draft soul habit amateur twenty window strong galaxy";

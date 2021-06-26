@@ -1,1 +1,1 @@
-var mnemonic = "excuse style network assault sea pink foot gift twelve effort vacuum baby";
+var mnemonic = "talk depend text develop boost suit trip used vast sand office collect";

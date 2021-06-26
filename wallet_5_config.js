@@ -1,1 +1,1 @@
-var mnemonic = "million elegant shaft measure balance next legal renew couple able actual shed";
+var mnemonic = "short hedgehog gold fire kid secret confirm grunt airport lend oven jungle";

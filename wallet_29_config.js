@@ -1,1 +1,1 @@
-var mnemonic = "all garlic salmon monitor bridge assist welcome notable quick anxiety admit ahead";
+var mnemonic = "video motor wood merry tuition brush frog upper climb impact aisle door";

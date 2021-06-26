@@ -1,1 +1,1 @@
-var mnemonic = "decorate humble excuse market female snake pill infant choose banner thrive stereo";
+var mnemonic = "flavor leisure coral smart enrich chaos retire lumber gossip actress reform blur";

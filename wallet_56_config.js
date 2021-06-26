@@ -1,1 +1,1 @@
-var mnemonic = "dry apple sight when dice logic target protect refuse thumb erupt blade";
+var mnemonic = "bamboo express mirror siren dawn west occur offer age elder edge evoke";

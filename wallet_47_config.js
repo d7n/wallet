@@ -1,1 +1,1 @@
-var mnemonic = "knife alien hawk bless awkward must journey kind enrich enroll cushion artwork";
+var mnemonic = "boy ozone cover soft skirt accident salon march member devote chuckle sister";

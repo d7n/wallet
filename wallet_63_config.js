@@ -1,1 +1,1 @@
-var mnemonic = "tired void easily describe car scorpion umbrella flavor sample verify pull final";
+var mnemonic = "tail sand tray enjoy believe nothing ensure drama silly cradle retire device";

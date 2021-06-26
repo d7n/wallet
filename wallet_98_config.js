@@ -1,1 +1,1 @@
-var mnemonic = "local dash motion rare this clump couple crisp table hedgehog awake typical";
+var mnemonic = "allow barely job buffalo gaze decorate want team stay normal symbol staff";

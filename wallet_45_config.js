@@ -1,1 +1,1 @@
-var mnemonic = "donate segment organ domain extend promote legend family bus zebra wedding order";
+var mnemonic = "more slice real veteran paddle sock judge emotion poem attend amused denial";

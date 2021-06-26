@@ -1,1 +1,1 @@
-var mnemonic = "bridge liquid stomach tornado coral slush junk destroy powder grape soldier security";
+var mnemonic = "guard wrong height loan breeze tissue hover sentence session bleak practice brain";

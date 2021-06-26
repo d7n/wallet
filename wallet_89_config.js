@@ -1,1 +1,1 @@
-var mnemonic = "pencil gap knock enable please knock furnace crack bullet fire merit cool";
+var mnemonic = "alone again where dial soap lawn club vacuum space diagram meadow illness";

@@ -1,1 +1,1 @@
-var mnemonic = "duty scissors early ride ready tuition picture frequent desk solar canvas exclude";
+var mnemonic = "urge sell sauce budget raccoon symbol force animal trend judge frost segment";

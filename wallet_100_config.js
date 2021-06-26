@@ -1,1 +1,1 @@
-var mnemonic = "stock soap error churn admit mask only answer neither seven prize rely";
+var mnemonic = "banana lounge purity daring open hello goat upgrade common owner mind stand";

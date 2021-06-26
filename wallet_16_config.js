@@ -1,1 +1,1 @@
-var mnemonic = "frost owner airport moment trick segment glow update physical brick exist angle";
+var mnemonic = "that review ask cloud rain recipe disease vendor canoe vault inquiry deputy";

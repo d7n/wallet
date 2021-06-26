@@ -1,1 +1,1 @@
-var mnemonic = "fit prefer proud cup tool breeze glass acquire opinion update video rubber";
+var mnemonic = "promote income season romance benefit tip real update athlete dirt dilemma piano";

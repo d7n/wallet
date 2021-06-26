@@ -1,1 +1,1 @@
-var mnemonic = "invite tortoise unfair pony mercy pitch amazing sell uncover decrease color fine";
+var mnemonic = "square urban tuition theory oval crunch eye sea coil alone control banana";

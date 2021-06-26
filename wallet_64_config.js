@@ -1,1 +1,1 @@
-var mnemonic = "toddler leopard fluid priority bitter hover pepper cable remain huge setup return";
+var mnemonic = "people excite muscle crater palace point proof breeze soft lava coffee remain";

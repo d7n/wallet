@@ -1,1 +1,1 @@
-var mnemonic = "wide switch hazard display enforce vintage error cover key hawk frequent supply";
+var mnemonic = "cloud hello random media print nuclear penalty kit crawl stable estate appear";

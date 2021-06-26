@@ -1,1 +1,1 @@
-var mnemonic = "practice enemy cram enemy calm title claw twice fatal gas light blanket";
+var mnemonic = "pumpkin pink afraid grant vacuum sentence scout ability discover decade reflect bleak";

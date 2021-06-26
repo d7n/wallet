@@ -1,1 +1,1 @@
-var mnemonic = "wood window pact frame prosper throw east traffic inner balance kid cherry";
+var mnemonic = "reject ladder boy share relief retreat deer else pilot gift choice siege";

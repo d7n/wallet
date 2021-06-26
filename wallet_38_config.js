@@ -1,1 +1,1 @@
-var mnemonic = "gift butter say swap live puppy stable boring tumble tool prosper odor";
+var mnemonic = "nephew visa axis august pass type diesel spot surface twist under client";

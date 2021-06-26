@@ -1,1 +1,1 @@
-var mnemonic = "fame busy balcony make soccer display gift paddle upset trial mail language";
+var mnemonic = "disorder glue embark chicken wage leave admit you odor forget aunt kiwi";

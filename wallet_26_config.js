@@ -1,1 +1,1 @@
-var mnemonic = "story museum swing crunch cargo fine old grunt dash flight urban left";
+var mnemonic = "throw unfold abuse copper peace shrimp heart brick seek refuse blouse metal";

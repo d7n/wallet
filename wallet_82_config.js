@@ -1,1 +1,1 @@
-var mnemonic = "roof city wrestle end south write cram denial spirit dwarf seed wine";
+var mnemonic = "arena sudden foam also nose budget distance feed valley cancel rude six";

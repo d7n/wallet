@@ -1,1 +1,1 @@
-var mnemonic = "scheme monkey merit razor hobby amazing art language common junior supply suffer";
+var mnemonic = "rule razor world school brown lion cousin swallow insane glimpse dumb person";

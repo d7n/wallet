@@ -1,1 +1,1 @@
-var mnemonic = "unfair twenty chest fuel scale fork wool river doll always tank vehicle";
+var mnemonic = "struggle rude region that wealth math great have cross obtain today blouse";

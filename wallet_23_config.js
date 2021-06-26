@@ -1,1 +1,1 @@
-var mnemonic = "real autumn join lonely harsh unit urge stove genius odor cruise hobby";
+var mnemonic = "east hospital shoe kidney insane maple scare original lizard rebuild bubble faint";

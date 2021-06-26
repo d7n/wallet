@@ -1,1 +1,1 @@
-var mnemonic = "woman thumb notable profit casual oval write club can popular blame trim";
+var mnemonic = "defense viable merit truth wreck city arrange unique hurdle gold arctic reason";

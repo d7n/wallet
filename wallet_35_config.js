@@ -1,1 +1,1 @@
-var mnemonic = "couch frozen shadow review absurd garbage amazing crack peace grocery drift tilt";
+var mnemonic = "custom rocket saddle volcano staff citizen umbrella bid negative diet behave guitar";

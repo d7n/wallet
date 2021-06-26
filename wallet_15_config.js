@@ -1,1 +1,1 @@
-var mnemonic = "aim elbow turtle valley riot weekend boil giant swing response crop lion";
+var mnemonic = "mixed effort casual city giggle critic decrease garbage seminar spend leisure mango";

@@ -1,1 +1,1 @@
-var mnemonic = "top pupil pelican rival clever elegant ensure clay slot key casino flush";
+var mnemonic = "sting debris edge paper ugly limit exotic void admit noodle blade already";

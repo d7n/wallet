@@ -1,1 +1,1 @@
-var mnemonic = "hawk obtain talk oblige tip you advice ship visual regular various earth";
+var mnemonic = "tube black bacon elephant seat senior icon term orbit onion tunnel kingdom";

@@ -1,1 +1,1 @@
-var mnemonic = "tag toward advance upset clinic super crawl word target stuff fence strike";
+var mnemonic = "visual treat inside crack cart duck crush custom cloud baby helmet mobile";

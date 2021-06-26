@@ -1,1 +1,1 @@
-var mnemonic = "virtual setup alcohol obvious tomorrow debris shift orange dice vehicle zoo raw";
+var mnemonic = "what myth valve bag breeze car club enjoy dirt capital make okay";

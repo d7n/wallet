@@ -1,1 +1,1 @@
-var mnemonic = "jacket inspire primary border addict banner notable spawn reunion click toy glue";
+var mnemonic = "milk worry carbon denial oppose shiver run sight rebel rabbit view primary";

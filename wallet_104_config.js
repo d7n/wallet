@@ -1,1 +1,1 @@
-var mnemonic = "luxury laptop problem school start atom language mirror wait toast topple vocal";
+var mnemonic = "broom heavy push scatter daughter grit travel anchor hover random quit slam";

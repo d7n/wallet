@@ -1,1 +1,1 @@
-var mnemonic = "seed margin develop under maze barrel goose dash transfer unlock seed arctic";
+var mnemonic = "alarm curve dilemma develop short skin little sock lunar boost weather arch";

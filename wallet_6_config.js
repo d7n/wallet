@@ -1,1 +1,1 @@
-var mnemonic = "hair like describe assume helmet card pattern exist cute rebel spend replace";
+var mnemonic = "busy orchard fit drill nice girl appear brass undo tuna leaf capable";

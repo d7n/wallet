@@ -1,1 +1,1 @@
-var mnemonic = "curious trap clip film erase shoe unusual green journey check album cargo";
+var mnemonic = "ten affair virtual coyote hole fit please enjoy reflect october fox health";

@@ -1,1 +1,1 @@
-var mnemonic = "arrive author ready wool only skill trend stem behind keen truly envelope";
+var mnemonic = "ethics bright file page question loop laundry tired gloom west pink very";

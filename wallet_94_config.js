@@ -1,1 +1,1 @@
-var mnemonic = "balcony drive horse taxi idea cute brown style ride now noodle combine";
+var mnemonic = "labor never analyst moon hover easily jazz name license loyal helmet kit";

@@ -1,1 +1,1 @@
-var mnemonic = "intact sign section weather fiber tired cable gravity super clown wing bundle";
+var mnemonic = "beauty govern limit sand copy local egg saddle warrior merge soft absurd";

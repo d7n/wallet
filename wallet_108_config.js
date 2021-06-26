@@ -1,1 +1,1 @@
-var mnemonic = "ten kite mimic sword sample enforce child another jar view jewel miss";
+var mnemonic = "monitor inhale road host brave miss shoulder over mercy opera bamboo rookie";

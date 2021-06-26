@@ -1,1 +1,1 @@
-var mnemonic = "behind blush subway abstract tiger name fatigue achieve palm bitter image inspire";
+var mnemonic = "service solution nice resemble whisper young course torch inherit train manual oven";

@@ -1,1 +1,1 @@
-var mnemonic = "adapt mix fortune protect step debate early trend two napkin shift have";
+var mnemonic = "syrup buddy soon admit interest symbol cake improve october flash convince found";

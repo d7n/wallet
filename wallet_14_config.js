@@ -1,1 +1,1 @@
-var mnemonic = "journey wrestle awake detect cheap six perfect cousin industry laundry wife exit";
+var mnemonic = "sting service wine club also screen velvet kangaroo improve salt senior struggle";

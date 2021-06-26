@@ -1,1 +1,1 @@
-var mnemonic = "cram rubber lottery peasant theme eye wood adult vanish silver onion spread";
+var mnemonic = "fine rescue allow tennis detail absent gift various wreck endorse possible easy";

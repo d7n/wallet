@@ -1,1 +1,1 @@
-var mnemonic = "cereal advice secret torch junior quote grunt under theory sunset bright fun";
+var mnemonic = "plunge recycle grace city never round mandate truth hub antique beyond yellow";

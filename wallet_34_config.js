@@ -1,1 +1,1 @@
-var mnemonic = "front sail teach flavor target police devote toast almost fatal sausage car";
+var mnemonic = "keen echo burden attitude clutch cactus wood lesson never recycle fragile add";

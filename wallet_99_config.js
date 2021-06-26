@@ -1,1 +1,1 @@
-var mnemonic = "hint gauge same possible private delay such beauty december clog deputy dream";
+var mnemonic = "sudden purpose embody water satisfy cattle valve erupt walnut empower square lecture";

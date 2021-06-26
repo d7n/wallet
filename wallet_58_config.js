@@ -1,1 +1,1 @@
-var mnemonic = "own where scrap wide embark lottery sign slow tiny raccoon skin vibrant";
+var mnemonic = "cry relief cheese clutch crunch mom cart sister casino there wheel echo";

@@ -1,1 +1,1 @@
-var mnemonic = "kid elder neglect book surge trade reopen panic pact cradle light brisk";
+var mnemonic = "fan december rapid design yellow maximum place detail near acquire orchard simple";

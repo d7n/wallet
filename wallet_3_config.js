@@ -1,1 +1,1 @@
-var mnemonic = "cram raven token eyebrow alarm wash sick cruel pizza pledge match strong";
+var mnemonic = "sell hundred bomb muffin sheriff under paper lend exact kiss west always";

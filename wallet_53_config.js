@@ -1,1 +1,1 @@
-var mnemonic = "virus magnet later quote ladder bless rail three memory twelve hunt text";
+var mnemonic = "sun profit plate advice sail panic rigid message fragile clay alert awkward";

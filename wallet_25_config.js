@@ -1,1 +1,1 @@
-var mnemonic = "cook oven area alley safe shock hollow lend monkey exact champion border";
+var mnemonic = "desert else index more machine submit gasp change token account rescue stumble";

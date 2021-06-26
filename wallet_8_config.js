@@ -1,1 +1,1 @@
-var mnemonic = "fix sudden error question maple dirt fetch trumpet citizen perfect pretty margin";
+var mnemonic = "shallow opinion exhaust season slice theory weird result rude shiver point select";

@@ -1,1 +1,1 @@
-var mnemonic = "live radio shallow prison define debate rail swim mystery powder invest later";
+var mnemonic = "region upon dust hawk antique scene power ask nurse staff true visa";

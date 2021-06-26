@@ -1,1 +1,1 @@
-var mnemonic = "argue apart culture desk march warrior hour burst immune enough divert frozen";
+var mnemonic = "pyramid tiny body rookie state later promote believe dad dragon bird gravity";

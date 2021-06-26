@@ -1,1 +1,1 @@
-var mnemonic = "discover wing orchard old wrap city high wheat way elevator noodle rival";
+var mnemonic = "wait galaxy exchange today impulse glove strategy matrix original identify give furnace";

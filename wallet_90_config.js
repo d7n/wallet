@@ -1,1 +1,1 @@
-var mnemonic = "solar stumble kitchen resemble exercise anxiety modify time spoil moral uphold across";
+var mnemonic = "champion chronic garbage throw snow sphere gallery juice poem floor trash disagree";

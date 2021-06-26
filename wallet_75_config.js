@@ -1,1 +1,1 @@
-var mnemonic = "bronze huge cruise crumble inhale symptom miracle fall square later double quick";
+var mnemonic = "salon announce submit frequent abstract purity horror pipe original hotel oblige hour";

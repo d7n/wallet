@@ -1,1 +1,1 @@
-var mnemonic = "burger degree city august help leg horn food guard various predict fiber";
+var mnemonic = "suit sword hill salon nice venture collect consider drive pulp sail gospel";

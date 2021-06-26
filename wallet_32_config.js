@@ -1,1 +1,1 @@
-var mnemonic = "clever harsh boring what accident gap scrap bottom local teach fuel hammer";
+var mnemonic = "alone boost order dilemma toddler teach ghost home angle boat fancy humble";

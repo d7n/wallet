@@ -1,1 +1,1 @@
-var mnemonic = "axis polar thank leader neglect depth layer fuel wheat turn client badge";
+var mnemonic = "farm pilot tonight any perfect help pelican image buddy foster pudding dove";

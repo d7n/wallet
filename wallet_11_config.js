@@ -1,1 +1,1 @@
-var mnemonic = "trap cram session ill marine chat work stick expose disagree tenant planet";
+var mnemonic = "dial coast keen subway churn predict fix garlic hip amazing mesh fog";

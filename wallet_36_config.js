@@ -1,1 +1,1 @@
-var mnemonic = "avocado family aisle rose deer wish party situate street diet vehicle quit";
+var mnemonic = "bacon warm clown focus country shoot choose special pioneer phone thank aisle";
