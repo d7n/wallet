@@ -1,1 +1,1 @@
-var mnemonic = "skate image fortune toast cook unlock near cool ancient wing plunge rescue";
+var mnemonic = "inject smoke excuse olive whip summer awful dolphin rare eager fan jeans";

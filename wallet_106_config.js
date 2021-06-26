@@ -1,1 +1,1 @@
-var mnemonic = "shoot milk awake enhance antique catalog grass picture pulp thought way february";
+var mnemonic = "motor tree space replace black quarter road dignity release brave develop furnace";

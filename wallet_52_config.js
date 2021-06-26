@@ -1,1 +1,1 @@
-var mnemonic = "dragon enable mechanic apart disorder rocket february answer garlic print display comic";
+var mnemonic = "test cattle catch spend amused slogan stool pepper fabric wage volume eyebrow";

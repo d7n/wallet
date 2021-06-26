@@ -1,1 +1,1 @@
-var mnemonic = "rhythm milk satoshi way cook width zebra voice bundle midnight layer fork";
+var mnemonic = "resemble mail beauty visa desert biology curious supreme crew flight then pet";

@@ -1,1 +1,1 @@
-var mnemonic = "submit man stadium hard suggest spoon amount sleep bronze camp advice cram";
+var mnemonic = "follow eight culture race lawsuit antenna side program family kingdom marine cart";

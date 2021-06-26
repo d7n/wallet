@@ -1,1 +1,1 @@
-var mnemonic = "cloud dry rubber picture click pulse velvet oxygen auto seek december scale";
+var mnemonic = "able pig legend ball legend rain private dune shove daughter twenty nuclear";

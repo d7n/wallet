@@ -1,1 +1,1 @@
-var mnemonic = "attack royal country almost flock vessel music vivid reflect public couple reveal";
+var mnemonic = "calm left then rare window guess blood latin wheel search civil pioneer";

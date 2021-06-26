@@ -1,1 +1,1 @@
-var mnemonic = "awesome tiny baby chronic annual phone winter demise steak pluck portion employ";
+var mnemonic = "artefact remain reunion disorder close zero able initial retire regular song deliver";

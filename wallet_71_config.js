@@ -1,1 +1,1 @@
-var mnemonic = "ancient blanket sea tunnel always comic loop grunt mosquito vanish corn lobster";
+var mnemonic = "music lock gather brain review nuclear orbit frog finger that globe swallow";

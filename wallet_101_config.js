@@ -1,1 +1,1 @@
-var mnemonic = "anxiety lab trend sock cereal away bachelor pelican spy kiss exchange eyebrow";
+var mnemonic = "effort stable inject august drink must dash approve wise teach choice ostrich";

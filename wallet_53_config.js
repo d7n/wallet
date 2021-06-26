@@ -1,1 +1,1 @@
-var mnemonic = "curious siege course aerobic miss earn dismiss shell suggest drop grab stuff";
+var mnemonic = "chunk walk guard correct economy lyrics patient valley measure lottery quantum elephant";

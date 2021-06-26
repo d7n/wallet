@@ -1,1 +1,1 @@
-var mnemonic = "finish zoo defy consider suggest switch spice explain flush kitchen waste multiply";
+var mnemonic = "heavy burden empty wedding guide twelve immense absurd divert cup issue simple";

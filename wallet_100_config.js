@@ -1,1 +1,1 @@
-var mnemonic = "toy curtain width inherit copy purse leopard pact awake game balance music";
+var mnemonic = "aware skull wife belt donkey convince sword season evoke pulp tunnel reunion";

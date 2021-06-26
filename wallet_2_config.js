@@ -1,1 +1,1 @@
-var mnemonic = "empower mansion smoke room federal brisk thank lunar reopen exclude stomach motion";
+var mnemonic = "amused cluster van roof clip uniform ceiling ice scheme ritual mean garlic";

@@ -1,1 +1,1 @@
-var mnemonic = "ladder clutch wrap sentence aerobic fabric twist tiger chuckle swarm bacon slot";
+var mnemonic = "thing inquiry kite twist air aim wall ensure bachelor oak lemon spy";

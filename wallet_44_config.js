@@ -1,1 +1,1 @@
-var mnemonic = "lemon parade normal weather rude repair practice purpose taxi palm ancient hotel";
+var mnemonic = "river able private immense train canal copy athlete already apple segment raise";

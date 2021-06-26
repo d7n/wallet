@@ -1,1 +1,1 @@
-var mnemonic = "today rifle pretty west solar lizard frost jelly light remind safe evidence";
+var mnemonic = "witness quiz announce flame remain august capital double athlete release start slam";

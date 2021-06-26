@@ -1,1 +1,1 @@
-var mnemonic = "ostrich word despair plug leisure nature special raise laugh seed bind harvest";
+var mnemonic = "grape sphere foam ship laundry entire chef call tank pattern quality jelly";

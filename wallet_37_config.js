@@ -1,1 +1,1 @@
-var mnemonic = "erase empty blossom nut sheriff feel kind sad orphan tent monitor program";
+var mnemonic = "remain crack box capable orient thrive dove essence ribbon churn slender betray";

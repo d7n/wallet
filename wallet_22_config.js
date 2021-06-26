@@ -1,1 +1,1 @@
-var mnemonic = "mind judge gospel garden artwork damp knock senior punch rule random symptom";
+var mnemonic = "snap group adjust talk afraid alcohol loop eagle sketch help giant monster";

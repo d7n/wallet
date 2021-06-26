@@ -1,1 +1,1 @@
-var mnemonic = "final slam vault scrub frozen release cancel laundry weird recycle brick pulp";
+var mnemonic = "gossip unknown affair unfold ostrich sunset will average slight faint pioneer enable";

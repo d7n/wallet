@@ -1,1 +1,1 @@
-var mnemonic = "truth equip treat top mesh cannon slender live actress quality ugly congress";
+var mnemonic = "pupil slush chef awkward raccoon curve else review genuine secret message repeat";

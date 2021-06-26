@@ -1,1 +1,1 @@
-var mnemonic = "diary audit pool squeeze sound other cause crash panel peasant punch brass";
+var mnemonic = "ethics print multiply nothing sort relax poem unit snap obey benefit feed";

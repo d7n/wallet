@@ -1,1 +1,1 @@
-var mnemonic = "approve gym earth rival chalk avocado gauge unhappy female govern veteran knock";
+var mnemonic = "lock rebuild travel stage hungry chronic fluid pull bitter enlist humble cruel";

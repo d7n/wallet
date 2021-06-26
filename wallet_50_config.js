@@ -1,1 +1,1 @@
-var mnemonic = "gossip wire mirror term discover quit tape weird lunch repeat slight whale";
+var mnemonic = "liar mask drill hand vanish riot roast cool tilt village young tuna";

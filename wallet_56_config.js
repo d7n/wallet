@@ -1,1 +1,1 @@
-var mnemonic = "predict private pact borrow bottom crater vibrant bag armor gesture water rebel";
+var mnemonic = "raw sail noble cliff provide bean gossip kiwi denial wheat grass ketchup";

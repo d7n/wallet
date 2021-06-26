@@ -1,1 +1,1 @@
-var mnemonic = "sure spirit between today arrow fox vast spray bind situate moral leg";
+var mnemonic = "liquid panther goddess retire gesture drop candy buzz mutual lizard urge stone";

@@ -1,1 +1,1 @@
-var mnemonic = "rather brief bridge outer urban season utility tiger ugly program creek begin";
+var mnemonic = "audit gossip enrich laptop age tool deposit maze exercise fine sense country";

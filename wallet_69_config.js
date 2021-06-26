@@ -1,1 +1,1 @@
-var mnemonic = "advance sick depart pigeon ability road scrap practice venture equip use gym";
+var mnemonic = "lonely violin attract derive usual gasp edge mask radar series purity crew";

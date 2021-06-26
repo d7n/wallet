@@ -1,1 +1,1 @@
-var mnemonic = "weapon upon zone hungry approve foil wisdom stomach tribe vehicle diamond number";
+var mnemonic = "weird fuel ordinary possible weekend true run first tuition bone among sick";

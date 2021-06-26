@@ -1,1 +1,1 @@
-var mnemonic = "round record thought differ taste budget badge myth minor time common advice";
+var mnemonic = "swallow blade robust float cage firm police burden car dice leg sense";

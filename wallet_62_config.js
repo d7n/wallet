@@ -1,1 +1,1 @@
-var mnemonic = "urban rate goose taste lady provide one mail pipe wealth utility valve";
+var mnemonic = "room sniff scout color typical tattoo thing letter omit industry bar embark";

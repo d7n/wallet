@@ -1,1 +1,1 @@
-var mnemonic = "ticket degree grow rebel bulb behind grab wrap avocado night scrub mushroom";
+var mnemonic = "response angry arrow face arch tonight marble pepper valley dinosaur black mother";

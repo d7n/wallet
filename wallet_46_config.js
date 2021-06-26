@@ -1,1 +1,1 @@
-var mnemonic = "inhale home heart hello track police title valve shrimp worry mix sea";
+var mnemonic = "cram check giraffe assault wing thrive shy trash unveil come element venue";

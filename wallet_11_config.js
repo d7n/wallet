@@ -1,1 +1,1 @@
-var mnemonic = "run extra sell claim outdoor letter scissors shine mixture deputy monster attitude";
+var mnemonic = "hybrid gentle eager noise assume increase knife jazz beef apple rail flame";

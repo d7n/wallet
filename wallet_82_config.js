@@ -1,1 +1,1 @@
-var mnemonic = "stumble turkey clean lounge canvas polar fiction pupil piano jelly fat admit";
+var mnemonic = "twist chunk tomato choose tuition code regular entry wage ribbon catch original";

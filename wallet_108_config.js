@@ -1,1 +1,1 @@
-var mnemonic = "fruit rubber nest unit cupboard hint test famous deny wood donate catch";
+var mnemonic = "dynamic coin proof soap method giraffe tide pole spider matrix minor exile";

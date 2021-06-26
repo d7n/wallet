@@ -1,1 +1,1 @@
-var mnemonic = "regret link chair own name waste divide effort stone order begin vocal";
+var mnemonic = "dog either orphan over frequent candy okay cruise hire dance bonus extra";

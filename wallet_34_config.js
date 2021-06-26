@@ -1,1 +1,1 @@
-var mnemonic = "faith violin hood stock empty turtle target must frost weapon rich blind";
+var mnemonic = "upgrade spend slim ostrich defense pumpkin learn drop shoulder solution laundry parade";

@@ -1,1 +1,1 @@
-var mnemonic = "remember dumb level history spray hard protect book believe cube crop wolf";
+var mnemonic = "famous permit parent urban trade alter symptom describe twin alpha wolf paper";

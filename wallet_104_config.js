@@ -1,1 +1,1 @@
-var mnemonic = "disorder govern snake square welcome resist flame salad rich trouble proud mutual";
+var mnemonic = "original injury huge rail result mixture figure soccer flee peanut problem bright";

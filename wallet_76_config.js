@@ -1,1 +1,1 @@
-var mnemonic = "letter unfold fire seed home crystal brass envelope extra embody canal final";
+var mnemonic = "penalty process never flee broom hammer mammal lawsuit urge slight victory copper";

@@ -1,1 +1,1 @@
-var mnemonic = "much swarm expand tell analyst case offer habit screen slender trend start";
+var mnemonic = "deposit increase bottom pitch candy social whisper toy delay snake mystery nuclear";

@@ -1,1 +1,1 @@
-var mnemonic = "divide hedgehog alien budget twice afraid couple huge quantum tower shadow stay";
+var mnemonic = "modify deny snack shift club forward loop barely expire high divorce laugh";

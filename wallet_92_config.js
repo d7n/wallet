@@ -1,1 +1,1 @@
-var mnemonic = "sadness hunt athlete penalty latin stool change chat admit purity deposit april";
+var mnemonic = "young payment aware virtual expand clap bird captain satoshi face second rack";

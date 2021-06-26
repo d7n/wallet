@@ -1,1 +1,1 @@
-var mnemonic = "table glass snow wet machine exhaust also stick safe copper service cinnamon";
+var mnemonic = "grace grow essay nephew drop spoil tiny defy never drip game fever";

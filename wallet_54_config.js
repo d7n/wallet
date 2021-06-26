@@ -1,1 +1,1 @@
-var mnemonic = "parent fever such hood velvet impact indoor fury nothing identify debate cradle";
+var mnemonic = "tiger damage agree donkey switch improve stomach gauge awkward nose person annual";

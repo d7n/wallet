@@ -1,1 +1,1 @@
-var mnemonic = "scorpion slab success twin hospital wood fragile bundle glue veteran fatal patrol";
+var mnemonic = "palm plug toward dove sign become input theme energy measure subject remember";

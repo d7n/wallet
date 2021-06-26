@@ -1,1 +1,1 @@
-var mnemonic = "miss code index food face oyster gate spread almost engine wood educate";
+var mnemonic = "genuine bulb symbol shed talk elegant diet harvest away south mother seed";

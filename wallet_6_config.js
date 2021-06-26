@@ -1,1 +1,1 @@
-var mnemonic = "valley tower fuel bench slogan minute worth know planet film neither brass";
+var mnemonic = "author diamond bid curve wait arrive damp donkey spawn situate rough hospital";

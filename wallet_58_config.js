@@ -1,1 +1,1 @@
-var mnemonic = "patrol maid glad rather purchase leave six across figure erosion sheriff swim";
+var mnemonic = "expire jeans critic combine salon shove dolphin share salon yellow utility view";

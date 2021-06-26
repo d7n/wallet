@@ -1,1 +1,1 @@
-var mnemonic = "liquid autumn spatial hazard gravity receive entire fragile high range harsh govern";
+var mnemonic = "fetch vote card snake vote sort vital lend february grain crazy candy";

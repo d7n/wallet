@@ -1,1 +1,1 @@
-var mnemonic = "drill little toast dance logic puppy vendor spoon swift aunt buddy monitor";
+var mnemonic = "lava fatigue emerge clip cinnamon snow tone argue confirm shoe egg release";

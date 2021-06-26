@@ -1,1 +1,1 @@
-var mnemonic = "melody fence rib diagram soon wonder method unit off seminar large guard";
+var mnemonic = "swear upper tired field edge animal rapid ritual project enhance desk divide";

@@ -1,1 +1,1 @@
-var mnemonic = "mule switch receive tilt amused scene library diary claim hard anger rate";
+var mnemonic = "slice awake young crater tissue desert expire immune pelican rely aware october";

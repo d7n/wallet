@@ -1,1 +1,1 @@
-var mnemonic = "police lady sudden humor stage neither banner favorite space tongue expect awkward";
+var mnemonic = "suit blossom pottery clinic woman throw hybrid whip merge curve insane fiction";

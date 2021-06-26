@@ -1,1 +1,1 @@
-var mnemonic = "fit cool exact ignore catalog hollow draft master puzzle soap harvest vivid";
+var mnemonic = "rather deposit one enable prize country achieve grain logic faint repeat creek";

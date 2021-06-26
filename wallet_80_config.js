@@ -1,1 +1,1 @@
-var mnemonic = "still engage exchange diet blue brush zoo pizza hint gauge minute enable";
+var mnemonic = "defy time lunar action capable chimney income common rent tuition initial visa";

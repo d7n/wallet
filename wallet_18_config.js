@@ -1,1 +1,1 @@
-var mnemonic = "illness feature inside any crumble vibrant gift palace liberty member fringe catch";
+var mnemonic = "witness orange word example actor juice result nation life average party orbit";

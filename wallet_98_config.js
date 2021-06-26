@@ -1,1 +1,1 @@
-var mnemonic = "ginger use glass ride wolf weasel rapid siren tornado possible fat shine";
+var mnemonic = "palm shed detect swamp spawn two arctic knife zoo pull fall camp";

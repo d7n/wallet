@@ -1,1 +1,1 @@
-var mnemonic = "throw armor outdoor kiss bind february exist reduce allow diesel adult clog";
+var mnemonic = "adapt cute inquiry crucial deliver identify dragon labor rally garlic salt south";

@@ -1,1 +1,1 @@
-var mnemonic = "urban dish supply source sell trust strike cereal cube pigeon sudden ivory";
+var mnemonic = "grape wise loan coffee jump lobster ghost pledge absurd shoe seat enter";

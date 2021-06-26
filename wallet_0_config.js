@@ -1,1 +1,1 @@
-var mnemonic = "omit garden parade install citizen dog puppy ugly position balcony noodle trim";
+var mnemonic = "dune truck split chunk abstract laptop victory memory gasp ceiling dish correct";

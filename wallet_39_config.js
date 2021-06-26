@@ -1,1 +1,1 @@
-var mnemonic = "system fruit island huge crisp giraffe stick tower local salute purity foam";
+var mnemonic = "flag regret security pottery duty consider tumble swift grid consider claim sustain";

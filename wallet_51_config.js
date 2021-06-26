@@ -1,1 +1,1 @@
-var mnemonic = "prevent control view lizard negative kid width about gown husband kangaroo appear";
+var mnemonic = "detect boost ice clerk tissue cabin coyote fluid monkey daughter put push";

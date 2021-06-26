@@ -1,1 +1,1 @@
-var mnemonic = "acquire dog napkin muffin joy credit poet resource warrior resist area dust";
+var mnemonic = "merge behind lawn canal vault zoo trim april income explain lazy orange";

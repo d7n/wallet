@@ -1,1 +1,1 @@
-var mnemonic = "solve tribe barely add grace buddy pumpkin fan alert squirrel crop display";
+var mnemonic = "bicycle ramp egg void size clock right shock almost atom rain risk";

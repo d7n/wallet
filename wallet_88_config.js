@@ -1,1 +1,1 @@
-var mnemonic = "invite latin breeze firm edge cave banana valid intact flush section movie";
+var mnemonic = "type segment hurt purse armed pumpkin visit chase vacant mechanic purity conduct";

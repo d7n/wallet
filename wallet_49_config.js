@@ -1,1 +1,1 @@
-var mnemonic = "this open address credit wool matter february agree neck figure gospel march";
+var mnemonic = "walk liquid position rent idea cabin congress coast immune chef hire forget";

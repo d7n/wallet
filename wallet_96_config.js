@@ -1,1 +1,1 @@
-var mnemonic = "shrug allow earth fury lunar extra middle abandon midnight system hat boost";
+var mnemonic = "immune portion child trend vague clump magic history ski grunt luxury tomorrow";

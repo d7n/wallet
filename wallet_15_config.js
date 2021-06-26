@@ -1,1 +1,1 @@
-var mnemonic = "hurdle rug brass nasty pig congress unhappy trend strategy pear sock crop";
+var mnemonic = "tag relax shove stomach decline busy cross purchase foot ring sword wait";

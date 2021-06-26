@@ -1,1 +1,1 @@
-var mnemonic = "chuckle federal smile afford surprise live learn lunch violin daughter castle shell";
+var mnemonic = "crazy lazy demise person chase cricket family inch veteran silly knife deny";

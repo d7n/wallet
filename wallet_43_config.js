@@ -1,1 +1,1 @@
-var mnemonic = "vast elevator bulk magic miracle local famous guard essay make fuel awesome";
+var mnemonic = "stove absent panic shrug echo similar gesture patch ladder remain absurd replace";

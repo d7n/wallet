@@ -1,1 +1,1 @@
-var mnemonic = "common save rent unlock easily nurse dry arrive sword tattoo three valid";
+var mnemonic = "forest benefit wing grit wet glimpse bonus snake track sniff bamboo area";

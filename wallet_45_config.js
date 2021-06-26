@@ -1,1 +1,1 @@
-var mnemonic = "mountain prefer logic kangaroo twenty assist tortoise decrease remain cover tent near";
+var mnemonic = "buffalo aunt unlock enjoy second entire elevator prefer route feature lazy piece";

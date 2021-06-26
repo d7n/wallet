@@ -1,1 +1,1 @@
-var mnemonic = "trust gorilla upgrade unique home cage sadness maple foil quantum soldier add";
+var mnemonic = "unable fish alone anger spare library endless whisper desert dust palace matter";

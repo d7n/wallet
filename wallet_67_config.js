@@ -1,1 +1,1 @@
-var mnemonic = "gospel eager flash wrong delay follow usual attitude possible frame anchor soda";
+var mnemonic = "success rabbit grape derive oyster patient basket beef exact crop helmet near";

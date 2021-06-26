@@ -1,1 +1,1 @@
-var mnemonic = "umbrella simple rotate stool possible fetch enrich begin begin pause adjust item";
+var mnemonic = "finish whisper retreat senior happy fat betray helmet slam volume dream latin";

@@ -1,1 +1,1 @@
-var mnemonic = "diesel woman client blast avoid armor spider bind achieve pole animal riot";
+var mnemonic = "sign stove laugh decorate ancient fiscal wine young online innocent sorry asset";

@@ -1,1 +1,1 @@
-var mnemonic = "gather educate beef shock jar lift recycle uncle diet remind attract rabbit";
+var mnemonic = "busy eyebrow hold whale add index focus borrow industry real truck sunny";

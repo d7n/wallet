@@ -1,1 +1,1 @@
-var mnemonic = "achieve cinnamon all shell check release reduce mango sunny dust legend science";
+var mnemonic = "draft into priority garage hard job rabbit current convince scare venture fragile";

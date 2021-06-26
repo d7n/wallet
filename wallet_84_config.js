@@ -1,1 +1,1 @@
-var mnemonic = "window jealous enroll soft voyage proof become thing next december muscle window";
+var mnemonic = "perfect vendor card wood author alpha limb execute yard learn goat figure";

@@ -1,1 +1,1 @@
-var mnemonic = "govern spare afraid junior lottery series kid element note call royal lizard";
+var mnemonic = "entire blind repeat rural case valid rival usual movie promote loop room";

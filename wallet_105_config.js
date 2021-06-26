@@ -1,1 +1,1 @@
-var mnemonic = "walk meat furnace wife opera mass tower pass business ancient siege body";
+var mnemonic = "soon board brief menu enforce category finger gift advance guilt then blur";

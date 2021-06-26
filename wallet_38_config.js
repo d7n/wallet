@@ -1,1 +1,1 @@
-var mnemonic = "rival arrive traffic vanish apple frost bacon accident sell couch fetch undo";
+var mnemonic = "road tuna sudden fence naive equip order super horse glove away curve";

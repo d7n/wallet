@@ -1,1 +1,1 @@
-var mnemonic = "soccer illegal physical reflect together such left into fever turn else sea";
+var mnemonic = "wild oak argue chief goose butter style spread utility copy intact mobile";

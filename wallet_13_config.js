@@ -1,1 +1,1 @@
-var mnemonic = "gather electric tiger grab bread measure impose thumb fit devote tomorrow ladder";
+var mnemonic = "then shuffle happy hidden slim behave pair electric keen rescue extra fabric";

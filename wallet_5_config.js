@@ -1,1 +1,1 @@
-var mnemonic = "switch cube there six next action spin hope domain record myself enforce";
+var mnemonic = "shiver modify tired shove crucial fame trust noise dad tiger six chaos";

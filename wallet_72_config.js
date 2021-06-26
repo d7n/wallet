@@ -1,1 +1,1 @@
-var mnemonic = "whale early gun earth burden stool balance square wait window common bar";
+var mnemonic = "track fragile crouch permit celery shy general first tornado screen cotton invite";

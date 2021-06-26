@@ -1,1 +1,1 @@
-var mnemonic = "maximum hurry neutral title buffalo face armed pen shaft task auto solve";
+var mnemonic = "injury demise chalk depth manual jungle bless vocal strategy memory man maple";

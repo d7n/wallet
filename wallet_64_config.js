@@ -1,1 +1,1 @@
-var mnemonic = "fiber wedding model betray walnut gadget merry symptom discover convince egg orchard";
+var mnemonic = "ski coffee slush nephew forest front blue skin behind pupil hurry spot";

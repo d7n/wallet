@@ -1,1 +1,1 @@
-var mnemonic = "three dutch frozen battle produce urban media message air young upon heart";
+var mnemonic = "glue tilt sound diet upon stereo iron crew push assume winter junior";
