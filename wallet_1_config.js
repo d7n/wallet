@@ -1,1 +1,1 @@
-var mnemonic = "tank episode flame anger mask party betray pull host climb wild merry";
+var mnemonic = "tennis achieve brick fiction scissors case twice jealous eight advice rebel harbor";

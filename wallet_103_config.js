@@ -1,1 +1,1 @@
-var mnemonic = "mango sing sound process album seek smart check crash gate lucky satisfy";
+var mnemonic = "wash valid noodle yellow actress fatal cage bronze dinosaur trade open unusual";

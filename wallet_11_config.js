@@ -1,1 +1,1 @@
-var mnemonic = "claim fatigue blade tumble option short choice snake silly among pause spice";
+var mnemonic = "link sweet sword cinnamon gasp diamond cabbage rib invite route illness also";

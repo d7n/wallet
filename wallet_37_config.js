@@ -1,1 +1,1 @@
-var mnemonic = "piece story subject body text better correct first trash old zone pride";
+var mnemonic = "excite analyst usual bamboo normal opera evil will ignore embrace clinic victory";

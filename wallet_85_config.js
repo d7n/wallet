@@ -1,1 +1,1 @@
-var mnemonic = "online wing taste any income juice pilot large off sleep increase fatigue";
+var mnemonic = "mass range leaf silver gun emerge lesson super program coffee swing change";

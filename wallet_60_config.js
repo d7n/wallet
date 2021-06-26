@@ -1,1 +1,1 @@
-var mnemonic = "rural sell audit morning curve loop science orange coconut injury public home";
+var mnemonic = "thunder ball fringe horn captain song desk radar season juice brick person";

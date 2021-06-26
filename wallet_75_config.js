@@ -1,1 +1,1 @@
-var mnemonic = "van comic camera spring danger flat primary narrow harbor silly crater pistol";
+var mnemonic = "goddess manual trial diesel fall material fade nominee device violin misery panther";

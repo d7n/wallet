@@ -1,1 +1,1 @@
-var mnemonic = "timber exile artist prefer outside cruel ice ankle chimney desk wisdom trick";
+var mnemonic = "pony success jaguar onion crumble predict girl quiz sing giggle emotion predict";

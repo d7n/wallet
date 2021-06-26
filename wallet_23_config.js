@@ -1,1 +1,1 @@
-var mnemonic = "peace deny medal oven bachelor recall emotion patient vehicle sudden refuse frozen";
+var mnemonic = "clock orphan artefact wheel lend believe athlete outside jar follow remain sleep";

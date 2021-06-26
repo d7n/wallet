@@ -1,1 +1,1 @@
-var mnemonic = "quit arrive panel wait blade crop fancy promote limb category harvest three";
+var mnemonic = "fold security total mercy fade begin food avoid convince bamboo custom else";

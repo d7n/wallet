@@ -1,1 +1,1 @@
-var mnemonic = "rotate dinner hungry squirrel net behind whisper rigid they hard word grocery";
+var mnemonic = "remain ensure palm town slab palm despair orchard home impulse window forum";

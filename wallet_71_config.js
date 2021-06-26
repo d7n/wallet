@@ -1,1 +1,1 @@
-var mnemonic = "design sick simple cup travel page cabbage whisper timber used together kangaroo";
+var mnemonic = "close age blood very public grant ketchup enable swarm elevator sister orphan";

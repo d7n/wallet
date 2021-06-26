@@ -1,1 +1,1 @@
-var mnemonic = "afraid tobacco forget false just half soccer tattoo hollow liquid achieve butter";
+var mnemonic = "kit fork cousin leg project noise seek differ kite cat voice tent";

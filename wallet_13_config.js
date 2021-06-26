@@ -1,1 +1,1 @@
-var mnemonic = "genuine recycle settle hockey unfair initial normal say fever question amateur remind";
+var mnemonic = "promote library welcome space pistol obvious deliver jump post kick inherit broom";

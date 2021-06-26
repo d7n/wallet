@@ -1,1 +1,1 @@
-var mnemonic = "similar field tribe devote hazard neutral analyst gloom laptop art north salon";
+var mnemonic = "daughter surprise lunch similar horn margin crowd noodle execute pet tone major";

@@ -1,1 +1,1 @@
-var mnemonic = "tissue garlic debate ahead chimney sort twin mosquito home fold field egg";
+var mnemonic = "annual mean tuna worry drip twist this onion rich galaxy arrive slab";

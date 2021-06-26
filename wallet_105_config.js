@@ -1,1 +1,1 @@
-var mnemonic = "code census popular fat accident obtain amazing staff absent chapter fork group";
+var mnemonic = "sugar poet chat snake cause drive parade depend february possible unfold long";

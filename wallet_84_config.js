@@ -1,1 +1,1 @@
-var mnemonic = "runway target original bunker accuse moment sustain intact bag man crop long";
+var mnemonic = "submit system trial deputy angry space opinion dirt acquire monkey winter youth";

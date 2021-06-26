@@ -1,1 +1,1 @@
-var mnemonic = "broken another trumpet social kangaroo genuine crush day pioneer tortoise ice fade";
+var mnemonic = "vocal future crawl dumb list harsh inside bargain violin behave oak wrong";

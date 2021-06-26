@@ -1,1 +1,1 @@
-var mnemonic = "soul donkey amateur yellow scrub cool myth night amateur fatal floor brand";
+var mnemonic = "define aisle idea sword across owner exhaust correct exchange move spring float";

@@ -1,1 +1,1 @@
-var mnemonic = "task artist adapt miracle right expose capital loop lady enemy cause pumpkin";
+var mnemonic = "rough donor airport rookie rib cat shell inflict fruit indoor talent warfare";

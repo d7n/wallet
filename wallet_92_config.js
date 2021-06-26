@@ -1,1 +1,1 @@
-var mnemonic = "fortune coral tennis urban unique float vapor attend crash shove jazz mesh";
+var mnemonic = "giggle combine rule proud sick mandate design such loan oven expose cost";

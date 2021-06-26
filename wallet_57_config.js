@@ -1,1 +1,1 @@
-var mnemonic = "bag theory divert expand lady length lesson manual clog hungry avoid expect";
+var mnemonic = "angle where shadow output nominee exist sad party shine clean taxi utility";

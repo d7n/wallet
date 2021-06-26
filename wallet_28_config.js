@@ -1,1 +1,1 @@
-var mnemonic = "enhance tackle island runway crew bag fabric owner cactus often auto afford";
+var mnemonic = "stuff concert trend initial produce exhibit bulb ribbon sword bubble police vacuum";

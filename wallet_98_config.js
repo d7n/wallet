@@ -1,1 +1,1 @@
-var mnemonic = "century sting tip chicken rabbit fault divert deliver warm horse water jar";
+var mnemonic = "chase deliver salon memory meadow write know believe cruise wrap baby rain";

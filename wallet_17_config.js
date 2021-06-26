@@ -1,1 +1,1 @@
-var mnemonic = "lawn post gallery lottery recipe target stadium tribe awake slogan farm success";
+var mnemonic = "burden leisure human day jungle fashion orient scene powder human catch box";

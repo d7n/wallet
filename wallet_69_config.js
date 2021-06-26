@@ -1,1 +1,1 @@
-var mnemonic = "become differ tuna cradle maze post gas snack favorite wrong butter shaft";
+var mnemonic = "involve only smile burger fog enroll great sadness foot record pool magnet";

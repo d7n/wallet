@@ -1,1 +1,1 @@
-var mnemonic = "bachelor measure suspect draw danger library camp capable belt bracket safe keen";
+var mnemonic = "festival dose arrive filter tunnel cushion youth lunar trigger cross defense dragon";

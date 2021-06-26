@@ -1,1 +1,1 @@
-var mnemonic = "brick bean average slab sunset sausage piano face final alien cousin village";
+var mnemonic = "lamp flavor lizard theory useful abuse bachelor dentist north crucial sting ostrich";

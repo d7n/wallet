@@ -1,1 +1,1 @@
-var mnemonic = "remind rubber company hint proud sense pepper flat spot wage shield sight";
+var mnemonic = "mountain deliver whisper trash mouse world habit inspire outside between disorder sadness";

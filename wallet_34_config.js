@@ -1,1 +1,1 @@
-var mnemonic = "corn friend cereal expire say bring train inform bar auction liquid explain";
+var mnemonic = "deposit sugar path alpha wait view code economy grain person ability panther";

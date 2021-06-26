@@ -1,1 +1,1 @@
-var mnemonic = "dizzy stage base horse express credit stable evil inquiry wood retire put";
+var mnemonic = "peasant frame verb prize iron genuine anxiety common excess lounge obvious life";

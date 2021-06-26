@@ -1,1 +1,1 @@
-var mnemonic = "bitter spare stock absurd exile welcome verb awake teach make strong patient";
+var mnemonic = "ready always weird seminar cannon typical switch champion when mansion payment attract";

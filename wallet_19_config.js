@@ -1,1 +1,1 @@
-var mnemonic = "sponsor despair glimpse tank rural seed belt effort crash rebel captain split";
+var mnemonic = "gold couch arrange satoshi nurse snake minimum garbage slender cotton surface blush";

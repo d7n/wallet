@@ -1,1 +1,1 @@
-var mnemonic = "inch doll diamond accident gold kid image unhappy lonely soup lonely web";
+var mnemonic = "pole ready utility choice zero useless vote loan riot elephant scout perfect";

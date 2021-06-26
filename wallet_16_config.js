@@ -1,1 +1,1 @@
-var mnemonic = "quantum weasel grape add team fiscal cruise ship million cliff clump visual";
+var mnemonic = "seek critic borrow chuckle super follow tomato barrel scale genius bid replace";

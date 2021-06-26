@@ -1,1 +1,1 @@
-var mnemonic = "robot rocket innocent reunion pitch slush curve record pen bag health misery";
+var mnemonic = "candy liar small need hub basic rack sentence display nominee provide process";

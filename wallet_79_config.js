@@ -1,1 +1,1 @@
-var mnemonic = "cousin prevent skill alcohol wood wheel picnic robot accident then pair save";
+var mnemonic = "ocean jealous sunset tube dawn distance host mansion slot motor table layer";

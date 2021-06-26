@@ -1,1 +1,1 @@
-var mnemonic = "divert mad cross glass finger give together piece fortune alone bicycle acid";
+var mnemonic = "gown future leg myself useful uniform absorb response van alcohol favorite fiction";

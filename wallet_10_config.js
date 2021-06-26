@@ -1,1 +1,1 @@
-var mnemonic = "soap trend harvest satisfy enact evolve mango hurry aunt wealth shed ladder";
+var mnemonic = "connect exclude can glory minimum funny pioneer novel digital sibling audit away";

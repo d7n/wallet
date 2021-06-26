@@ -1,1 +1,1 @@
-var mnemonic = "nation slush subway dinner gauge coffee timber phone melt purpose girl tiny";
+var mnemonic = "gravity quantum sphere champion knock reduce taste skill control access drum letter";

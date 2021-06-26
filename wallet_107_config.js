@@ -1,1 +1,1 @@
-var mnemonic = "pig become sustain only wasp shift appear cute fog luxury belt output";
+var mnemonic = "toilet frown seat clown shoulder table winner response actress juice inmate language";

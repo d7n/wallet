@@ -1,1 +1,1 @@
-var mnemonic = "accident forum fluid help trip seminar fire trust wrestle escape art own";
+var mnemonic = "tornado cushion lizard crash width ivory rebel level build gun august satoshi";

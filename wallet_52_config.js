@@ -1,1 +1,1 @@
-var mnemonic = "fatigue scare work swim put certain victory ready debris clean axis off";
+var mnemonic = "prefer game uniform delay render possible torch film puzzle tube artist toy";

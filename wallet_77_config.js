@@ -1,1 +1,1 @@
-var mnemonic = "solid general beef deer glide busy master edit limit dizzy motion label";
+var mnemonic = "perfect possible bunker knee spot camera negative train token trade foster inject";

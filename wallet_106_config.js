@@ -1,1 +1,1 @@
-var mnemonic = "gaze task circle type equip chapter subway icon acoustic window point cradle";
+var mnemonic = "suffer broccoli capable gauge oppose ethics fossil object vibrant ensure camp rotate";

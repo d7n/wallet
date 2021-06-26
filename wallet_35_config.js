@@ -1,1 +1,1 @@
-var mnemonic = "good agree warrior chunk horse joy love neither defy rib museum sheriff";
+var mnemonic = "various salad quick decide lunar miss combine carry dwarf inquiry tongue rigid";

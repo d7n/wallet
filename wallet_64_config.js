@@ -1,1 +1,1 @@
-var mnemonic = "success cactus asthma party mountain auction expire galaxy forget liar degree flush";
+var mnemonic = "cube theme visual segment curtain plate mother weasel festival convince history chef";

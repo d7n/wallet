@@ -1,1 +1,1 @@
-var mnemonic = "excuse rubber oval attitude heart style chicken west squeeze syrup prepare behind";
+var mnemonic = "style bike spin table author mango move accuse company bean field submit";

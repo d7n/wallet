@@ -1,1 +1,1 @@
-var mnemonic = "section pyramid dignity another leisure donkey found street balance wire over fabric";
+var mnemonic = "knock enrich noodle bracket grain letter fancy try roast room balcony shell";

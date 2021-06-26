@@ -1,1 +1,1 @@
-var mnemonic = "verify cage before olive crouch error hawk black tenant normal remember pulse";
+var mnemonic = "humble globe myth usage public butter decade base forward please profit weather";

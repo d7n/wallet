@@ -1,1 +1,1 @@
-var mnemonic = "risk melt expand pigeon humor tumble buffalo model genuine comic obtain actress";
+var mnemonic = "almost build salt birth rate breeze okay actor space tip knife panther";

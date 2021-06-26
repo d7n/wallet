@@ -1,1 +1,1 @@
-var mnemonic = "model rocket metal member spoil tape fade grief artwork clog lemon behind";
+var mnemonic = "shift mutual ill phone coral swim add judge junior limit snake hybrid";

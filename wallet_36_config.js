@@ -1,1 +1,1 @@
-var mnemonic = "cage section piece smoke captain miracle fade flash vanish design valid ranch";
+var mnemonic = "energy inquiry idea risk guilt assume alley trial grace pudding sail access";

@@ -1,1 +1,1 @@
-var mnemonic = "hobby stay cream enact stomach clay high coffee taste lunch jar pause";
+var mnemonic = "enough west budget paddle nest second unfold kingdom prevent tuna master front";

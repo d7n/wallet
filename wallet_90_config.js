@@ -1,1 +1,1 @@
-var mnemonic = "seek develop fire harsh broken tip interest shiver until idle faith plunge";
+var mnemonic = "ethics various hope involve seminar traffic stick slim obvious odor clever baby";

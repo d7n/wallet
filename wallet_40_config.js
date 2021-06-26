@@ -1,1 +1,1 @@
-var mnemonic = "level despair sad romance you image screen water base into ugly jungle";
+var mnemonic = "latin twice ozone estate ozone fuel add nothing appear hurdle razor interest";

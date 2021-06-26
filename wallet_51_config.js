@@ -1,1 +1,1 @@
-var mnemonic = "dice fork round rebel decrease device enemy axis furnace icon another legend";
+var mnemonic = "saddle mosquito team ribbon simple flash apology object captain grunt lamp disorder";

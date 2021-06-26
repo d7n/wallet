@@ -1,1 +1,1 @@
-var mnemonic = "clay twelve whisper evoke already key panther toast talent main pudding correct";
+var mnemonic = "vote dizzy stand aim bless dog armed pattern sudden capable donate assist";

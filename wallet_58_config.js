@@ -1,1 +1,1 @@
-var mnemonic = "ride domain glad squeeze embark menu oblige elder trust deal alone aware";
+var mnemonic = "again visit language second occur script drink first kid reflect arch begin";

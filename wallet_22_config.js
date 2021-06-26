@@ -1,1 +1,1 @@
-var mnemonic = "extra twin together wrist render announce mansion fluid meadow fork answer fragile";
+var mnemonic = "embark crush purchase merge age list weapon light doctor candy develop atom";

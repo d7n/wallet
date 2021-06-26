@@ -1,1 +1,1 @@
-var mnemonic = "strategy best current beyond fun erosion media pull shop traffic captain candy";
+var mnemonic = "sock monster banner travel surface rate build brush expose benefit library make";

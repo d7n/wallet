@@ -1,1 +1,1 @@
-var mnemonic = "breeze snow citizen animal embrace purse blanket wash shy force hen gesture";
+var mnemonic = "story dwarf rotate fruit kit effort effort ring enemy rival fold frown";

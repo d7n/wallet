@@ -1,1 +1,1 @@
-var mnemonic = "roast inch please cabbage come junk outside behind portion glass slice hand";
+var mnemonic = "swear bulb wink harvest come sniff song fragile verb lucky beauty ethics";

@@ -1,1 +1,1 @@
-var mnemonic = "relax gift silly dwarf away gesture light social later neither vanish eye";
+var mnemonic = "top palace suffer sweet light plastic fit question method palace spirit slight";

@@ -1,1 +1,1 @@
-var mnemonic = "rude dentist comfort hour alien forget liar uniform ability tomorrow novel law";
+var mnemonic = "gain silent anchor unveil visual ignore grocery slam unfold mass vast video";

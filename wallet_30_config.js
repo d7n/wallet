@@ -1,1 +1,1 @@
-var mnemonic = "awful shock steel prosper advice melody release anchor hospital penalty amateur repair";
+var mnemonic = "snow retreat moral visa wage moral rescue lend future subject hover veteran";

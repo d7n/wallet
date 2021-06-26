@@ -1,1 +1,1 @@
-var mnemonic = "toast common more grain any book enact brain midnight twelve guess erupt";
+var mnemonic = "someone bomb note elder over mammal tiger whip fame nature hint barely";

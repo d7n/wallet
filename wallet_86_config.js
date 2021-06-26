@@ -1,1 +1,1 @@
-var mnemonic = "wide stove shy surge nut digital elegant road blouse dial eight famous";
+var mnemonic = "sad pepper month depart latin theme civil limb patrol fix wisdom hawk";

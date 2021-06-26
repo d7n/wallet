@@ -1,1 +1,1 @@
-var mnemonic = "cotton detail radar enjoy film notable cabbage hobby decline filter crater online";
+var mnemonic = "farm direct spy chuckle brick genius cannon congress frog crouch crumble expect";

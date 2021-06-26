@@ -1,1 +1,1 @@
-var mnemonic = "witness immense misery destroy fog kidney behave buffalo tower receive rent deal";
+var mnemonic = "left gown income pet double rich umbrella ocean vanish connect arrange park";

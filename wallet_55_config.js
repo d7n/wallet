@@ -1,1 +1,1 @@
-var mnemonic = "chapter hundred elevator surprise shallow dawn couple pepper royal proof initial witness";
+var mnemonic = "afford country devote auction illegal park skill clock venture swear bitter pistol";

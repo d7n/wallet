@@ -1,1 +1,1 @@
-var mnemonic = "mercy chest motor armor one index chief surge round kite lonely dignity";
+var mnemonic = "dinosaur zero smoke grass income assume hat aware praise test lemon dream";

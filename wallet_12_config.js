@@ -1,1 +1,1 @@
-var mnemonic = "first grain regret reunion way home prize patch display liquid path zone";
+var mnemonic = "midnight obtain garage lecture host mad cruise comfort polar punch pave erase";

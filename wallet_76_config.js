@@ -1,1 +1,1 @@
-var mnemonic = "leopard honey sentence room patient sister valid trouble crazy note debris curtain";
+var mnemonic = "denial elite hungry damage pole sing risk among color hedgehog scrap fit";

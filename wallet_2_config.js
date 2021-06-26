@@ -1,1 +1,1 @@
-var mnemonic = "clown sniff coral expire beef spin civil artist sauce payment rookie figure";
+var mnemonic = "rude rigid law park list desert shrimp eight dinner fatal hawk vapor";

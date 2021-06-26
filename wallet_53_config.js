@@ -1,1 +1,1 @@
-var mnemonic = "escape zone engine heavy sad hood confirm still taste tissue remove royal";
+var mnemonic = "hobby defense accident skate lend develop fresh sudden box sudden galaxy shove";

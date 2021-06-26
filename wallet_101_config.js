@@ -1,1 +1,1 @@
-var mnemonic = "hollow tail slab hire pledge risk envelope critic jump poem rely supreme";
+var mnemonic = "mixture unique middle april jelly umbrella van stage check scare misery venue";

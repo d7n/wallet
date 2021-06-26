@@ -1,1 +1,1 @@
-var mnemonic = "energy episode lend eye mercy frequent someone fragile resist sun assume enemy";
+var mnemonic = "film cheap pupil mushroom hawk trade student scatter addict nasty home boil";

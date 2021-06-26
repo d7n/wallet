@@ -1,1 +1,1 @@
-var mnemonic = "rival gorilla extra violin virtual gallery wool exile camp pulse crouch oxygen";
+var mnemonic = "banana program attract slot hip hollow claim nerve frown craft inflict dinner";
