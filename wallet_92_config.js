@@ -1,1 +1,1 @@
-var mnemonic = "health solution collect whip sea illegal hen car unveil delay first bench";
+var mnemonic = "wink decorate eyebrow miracle fix capable impose future stamp glove region river";

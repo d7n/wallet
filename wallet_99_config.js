@@ -1,1 +1,1 @@
-var mnemonic = "coyote dragon exchange depth valley sense caught spell define marriage pact mixture";
+var mnemonic = "swear pencil dragon someone agent gain crush step six dwarf lawn carpet";

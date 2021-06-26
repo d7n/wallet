@@ -1,1 +1,1 @@
-var mnemonic = "rescue nest cloud sketch secret across used solid round vital advice bus";
+var mnemonic = "gain tilt silver develop slow bid spirit video subway purchase curtain enroll";

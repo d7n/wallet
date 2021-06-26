@@ -1,1 +1,1 @@
-var mnemonic = "trend aisle leisure license baby intact mountain endorse copper wasp reunion whisper";
+var mnemonic = "quiz tornado social copy penalty output raise trash yellow math lyrics warrior";

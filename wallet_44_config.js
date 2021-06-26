@@ -1,1 +1,1 @@
-var mnemonic = "flip cigar elegant cheese depth edge achieve soldier pluck lizard duty history";
+var mnemonic = "sound cycle asthma cable arrest pill hero taste photo coin village snap";

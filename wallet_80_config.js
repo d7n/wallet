@@ -1,1 +1,1 @@
-var mnemonic = "own secret fuel spawn lend kidney inch stock book young wheat chunk";
+var mnemonic = "bring lizard stage miss penalty produce gentle stay van soul dwarf never";

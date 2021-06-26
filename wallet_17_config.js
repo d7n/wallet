@@ -1,1 +1,1 @@
-var mnemonic = "spin shadow taste excuse snow repair disagree embark ecology ghost bulk castle";
+var mnemonic = "panic box discover erosion father cabin diet upon income top boring able";

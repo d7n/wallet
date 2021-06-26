@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo jazz muscle bring medal taste student obscure next muffin capital mesh";
+var mnemonic = "icon east certain absent comfort win olive glance mosquito already expand pill";

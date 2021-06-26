@@ -1,1 +1,1 @@
-var mnemonic = "item surge verb victory wish used angle salute combine marriage abuse gorilla";
+var mnemonic = "canvas banana room deliver coach trip fame soap father future tomato buyer";

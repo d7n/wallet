@@ -1,1 +1,1 @@
-var mnemonic = "essay barrel auction brick deliver abuse sweet narrow movie bone cable detect";
+var mnemonic = "exhaust sail ancient correct include woman void layer remember piano observe cargo";

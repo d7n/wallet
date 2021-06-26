@@ -1,1 +1,1 @@
-var mnemonic = "marriage tail report gauge yard claw stamp foil affair switch reduce mirror";
+var mnemonic = "victory scale body mosquito state slender keep fragile gap recycle bleak cycle";

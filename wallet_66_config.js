@@ -1,1 +1,1 @@
-var mnemonic = "flip lift ceiling address wrong afraid tonight alarm alarm time present member";
+var mnemonic = "adult medal shallow bind gospel grunt toward point license reject curve manual";

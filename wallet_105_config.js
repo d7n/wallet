@@ -1,1 +1,1 @@
-var mnemonic = "auction season alarm lyrics cloud super under gorilla stem fan gun island";
+var mnemonic = "garment economy ridge render jacket rich light small truck finish elephant swear";

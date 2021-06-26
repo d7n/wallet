@@ -1,1 +1,1 @@
-var mnemonic = "enjoy avoid say way busy process topple proud giraffe trap initial small";
+var mnemonic = "connect car web average issue use novel card immune earth animal siege";

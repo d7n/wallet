@@ -1,1 +1,1 @@
-var mnemonic = "draft dignity also adult wide drink day member direct ten armor mother";
+var mnemonic = "consider speed birth angle hundred custom lonely erase grab subject excuse glass";

@@ -1,1 +1,1 @@
-var mnemonic = "large license spring neglect sword vintage expire jar smooth pet economy viable";
+var mnemonic = "believe scout found pair auto resist century portion insane divide dish glide";

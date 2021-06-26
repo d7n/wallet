@@ -1,1 +1,1 @@
-var mnemonic = "cancel time sniff slight gentle aisle obvious kitchen ethics bonus exhibit matter";
+var mnemonic = "twice shadow brief dial joy build sadness pipe decide panther kitchen win";

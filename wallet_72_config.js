@@ -1,1 +1,1 @@
-var mnemonic = "escape ancient vibrant domain air brown nothing require bargain room honey public";
+var mnemonic = "fancy play father awesome venture season word discover tone relax series render";

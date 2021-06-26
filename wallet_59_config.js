@@ -1,1 +1,1 @@
-var mnemonic = "empower heavy please payment brush purity inmate frozen spice key neutral metal";
+var mnemonic = "ski drink cool video gospel boring salt point nominee pass story burger";

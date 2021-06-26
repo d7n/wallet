@@ -1,1 +1,1 @@
-var mnemonic = "swim broccoli jewel share cluster outer slogan pony movie table float borrow";
+var mnemonic = "harsh dynamic welcome hurdle okay garlic volcano wealth already copy chuckle shell";

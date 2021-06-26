@@ -1,1 +1,1 @@
-var mnemonic = "twist afford seven mom key run you torch element obscure sponsor clever";
+var mnemonic = "trash trade burst jacket large account inquiry manual heart ahead blossom permit";

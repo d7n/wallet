@@ -1,1 +1,1 @@
-var mnemonic = "begin wedding bench decline dash address drop strong enroll shy cross ignore";
+var mnemonic = "dream album speak property flip custom obvious large adjust outside stay file";

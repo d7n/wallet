@@ -1,1 +1,1 @@
-var mnemonic = "inner august ball betray draft bulb lecture favorite image slow scare dust";
+var mnemonic = "erupt damage fury girl relax blind paddle dad spice bonus citizen version";

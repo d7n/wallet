@@ -1,1 +1,1 @@
-var mnemonic = "gadget clip bring plunge peanut favorite wink guilt isolate improve man pass";
+var mnemonic = "room fashion board close region kind same dust trip unable accuse render";

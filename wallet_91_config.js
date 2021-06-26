@@ -1,1 +1,1 @@
-var mnemonic = "ancient sorry ensure umbrella tide marriage ribbon devote mutual warfare trend canoe";
+var mnemonic = "abandon dinner goat fiber alien uncover raise scatter scheme sound turtle state";

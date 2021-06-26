@@ -1,1 +1,1 @@
-var mnemonic = "awful skirt hour mystery reveal mirror valve unfair detail fine inhale kingdom";
+var mnemonic = "earn double clever busy skirt spin scheme private awesome blast visit dice";

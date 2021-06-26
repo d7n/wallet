@@ -1,1 +1,1 @@
-var mnemonic = "play actress visa vital text turkey age bulk any high mixture video";
+var mnemonic = "short universe chronic loop inner bulb west tobacco sand movie blossom leisure";

@@ -1,1 +1,1 @@
-var mnemonic = "guitar pudding patch wagon people wrong label hello flee extra fragile render";
+var mnemonic = "grit enable boat moon what monster unveil head mail report kite truly";

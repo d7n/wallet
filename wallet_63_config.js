@@ -1,1 +1,1 @@
-var mnemonic = "cross walnut sing shuffle various spoon void merge museum pilot able waste";
+var mnemonic = "vapor sell gorilla exit sausage later peasant extra trust shy spider pistol";

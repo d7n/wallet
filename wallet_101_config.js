@@ -1,1 +1,1 @@
-var mnemonic = "attend man lift spider behind ginger nice choose biology firm raw normal";
+var mnemonic = "drama absorb sell quarter rapid text pilot enemy area frost heart actor";

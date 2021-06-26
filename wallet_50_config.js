@@ -1,1 +1,1 @@
-var mnemonic = "pizza capable solid mass clinic paddle bone loan frozen crazy lunar code";
+var mnemonic = "theory piece attend drill polar flame liquid team spare write evolve beauty";

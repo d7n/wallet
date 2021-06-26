@@ -1,1 +1,1 @@
-var mnemonic = "immense among vintage despair foster embark renew joy similar today cradle claw";
+var mnemonic = "patrol embody member velvet strategy you adult prefer auction program during theme";

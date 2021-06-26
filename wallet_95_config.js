@@ -1,1 +1,1 @@
-var mnemonic = "promote save bean tuition silent radar moral chase visual custom album select";
+var mnemonic = "update ladder pretty act mixture extra moral flower spread put album resemble";

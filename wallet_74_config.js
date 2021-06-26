@@ -1,1 +1,1 @@
-var mnemonic = "heavy father laundry notice fall purity cover track clever arm put cup";
+var mnemonic = "park horn like life brain spatial lobster color harsh river jeans close";

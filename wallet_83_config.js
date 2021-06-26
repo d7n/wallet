@@ -1,1 +1,1 @@
-var mnemonic = "distance virtual document title today achieve congress foil patient valid host dizzy";
+var mnemonic = "ramp lecture victory gun safe stomach search gap april sad protect term";

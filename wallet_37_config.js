@@ -1,1 +1,1 @@
-var mnemonic = "couple carry ghost follow knife peanut life nerve purse canyon square build";
+var mnemonic = "swift copy fish spatial midnight unfair cricket couch awesome real bracket raise";

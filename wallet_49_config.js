@@ -1,1 +1,1 @@
-var mnemonic = "neglect lunch push brisk tired mercy dose diamond police silk drama laugh";
+var mnemonic = "auto farm false spice math cement room upon erode correct choice annual";

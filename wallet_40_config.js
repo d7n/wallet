@@ -1,1 +1,1 @@
-var mnemonic = "grit board express mystery turtle identify deputy confirm timber miracle define alcohol";
+var mnemonic = "traffic grid wish horn three swear trick plunge bamboo boss sunny arrow";

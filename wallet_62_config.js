@@ -1,1 +1,1 @@
-var mnemonic = "tortoise fish fly breeze october satoshi room all wave wool town offer";
+var mnemonic = "time element noodle pair mountain predict alpha possible sea primary deal ski";

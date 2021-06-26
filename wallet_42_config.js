@@ -1,1 +1,1 @@
-var mnemonic = "april course wrestle apology apology exotic switch border follow auto gown slow";
+var mnemonic = "issue cycle melody benefit glare blouse another caught rent dawn soon merry";

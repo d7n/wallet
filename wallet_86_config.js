@@ -1,1 +1,1 @@
-var mnemonic = "catch soap tattoo resist pattern budget doll because mouse danger museum erosion";
+var mnemonic = "hen drastic congress stand frozen stadium silk column warrior rifle turtle problem";

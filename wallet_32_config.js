@@ -1,1 +1,1 @@
-var mnemonic = "quick guide range normal grocery farm sweet comic idea filter absent dragon";
+var mnemonic = "poem seed hundred tribe candy else dash stool master grab diagram lawsuit";

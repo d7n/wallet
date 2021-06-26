@@ -1,1 +1,1 @@
-var mnemonic = "outer race nut motion program boring avocado hen february ladder juice donor";
+var mnemonic = "must unique follow know risk reject link spike enough language service ceiling";

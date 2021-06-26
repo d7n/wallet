@@ -1,1 +1,1 @@
-var mnemonic = "extra wool portion hood april slab flip manage zero smile deal country";
+var mnemonic = "barrel twist trash disagree frown average olympic gather athlete ordinary document vague";

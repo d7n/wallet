@@ -1,1 +1,1 @@
-var mnemonic = "minor worth spell once market common country hungry grow search alley remember";
+var mnemonic = "way check require victory plate cable bunker upper crucial nest rug quality";

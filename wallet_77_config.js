@@ -1,1 +1,1 @@
-var mnemonic = "coin reopen orange noise lemon reveal glue human honey morning size grid";
+var mnemonic = "vivid giant decide ship elite tonight slab harsh correct flame conduct flash";

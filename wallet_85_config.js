@@ -1,1 +1,1 @@
-var mnemonic = "aspect tortoise either riot proof general they dynamic only hip story vast";
+var mnemonic = "diet duty allow edge where turkey swear wool attitude midnight split wagon";

@@ -1,1 +1,1 @@
-var mnemonic = "never follow jazz echo uncle myself dynamic clap spoon thing end rival";
+var mnemonic = "aim stumble wreck found depth tenant siege major van frost pool drop";

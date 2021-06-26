@@ -1,1 +1,1 @@
-var mnemonic = "airport day awkward lens length forest tongue humble custom response direct concert";
+var mnemonic = "task patch rail vessel divide final general farm enrich bulb submit coyote";

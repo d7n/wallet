@@ -1,1 +1,1 @@
-var mnemonic = "brand engage despair bridge arrest move property bean cereal ankle blast nut";
+var mnemonic = "harbor enough decrease ocean require envelope supply pulse legal north tribe uncle";

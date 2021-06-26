@@ -1,1 +1,1 @@
-var mnemonic = "innocent then lumber rival ozone educate daring pigeon judge modify couch creek";
+var mnemonic = "open search spoon before struggle toe piano air client romance good about";

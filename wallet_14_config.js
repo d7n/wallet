@@ -1,1 +1,1 @@
-var mnemonic = "over camera family genius sugar exist raccoon tone assist stand subway virus";
+var mnemonic = "faith army board crack box industry piece pink narrow family display barely";

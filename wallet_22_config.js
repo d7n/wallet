@@ -1,1 +1,1 @@
-var mnemonic = "giant impose absurd river giraffe genius parent coin axis half crunch dynamic";
+var mnemonic = "calm ocean pyramid consider wide glue rubber grant midnight puppy guilt orphan";

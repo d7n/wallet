@@ -1,1 +1,1 @@
-var mnemonic = "define fortune mail catalog humor casino choose bargain orphan pyramid verify leader";
+var mnemonic = "museum crawl involve bubble december annual frost true letter hope inmate control";

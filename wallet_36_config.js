@@ -1,1 +1,1 @@
-var mnemonic = "main dune recipe jump quit fossil like magic injury until valve glory";
+var mnemonic = "illness butter noble repair clarify oval still rescue music board limb shoulder";

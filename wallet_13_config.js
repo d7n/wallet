@@ -1,1 +1,1 @@
-var mnemonic = "skirt plunge guilt three trust boat aspect excite trade return laundry multiply";
+var mnemonic = "alarm hip avocado curious diesel tattoo knock lava main twelve wrestle latin";

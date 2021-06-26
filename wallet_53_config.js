@@ -1,1 +1,1 @@
-var mnemonic = "attend wall soccer entire saddle stay rather rifle lunch blush behave roast";
+var mnemonic = "among recipe dose seek stone write arena school remind hint august assume";

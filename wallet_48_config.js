@@ -1,1 +1,1 @@
-var mnemonic = "boat artefact ability crunch combine amused shed keen prosper nuclear witness atom";
+var mnemonic = "champion turkey wink woman embody gym lizard lab merry clown bird possible";

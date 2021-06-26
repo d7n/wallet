@@ -1,1 +1,1 @@
-var mnemonic = "hobby sense sing liar mansion tape behind onion trash craft oil water";
+var mnemonic = "tomorrow very blur grass chair figure exile thank material jelly crater pony";

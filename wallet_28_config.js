@@ -1,1 +1,1 @@
-var mnemonic = "weird margin galaxy gather talent inform wash cause outdoor orbit barrel fold";
+var mnemonic = "latin hurt bulb crack fee permit various siren dinner area ability occur";

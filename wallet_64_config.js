@@ -1,1 +1,1 @@
-var mnemonic = "clown apology candy eager grit pizza remember drastic extend clip bunker win";
+var mnemonic = "rookie foot odor room tornado double blind fine equal you reveal curious";

@@ -1,1 +1,1 @@
-var mnemonic = "admit prosper only defy couple number aspect unfair tackle novel salute awkward";
+var mnemonic = "puppy feed trend room tip catch raven blast pond curious early envelope";

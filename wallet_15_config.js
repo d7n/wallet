@@ -1,1 +1,1 @@
-var mnemonic = "travel chat egg grief metal cage knee resource pottery window grid bind";
+var mnemonic = "kingdom emotion rookie remind volcano extra fire neither party device party usage";

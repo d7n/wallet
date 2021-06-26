@@ -1,1 +1,1 @@
-var mnemonic = "unaware luggage army diagram arm chronic city bind home safe dish hammer";
+var mnemonic = "make program spirit disease festival address sentence minute brother away rifle author";

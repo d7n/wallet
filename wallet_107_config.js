@@ -1,1 +1,1 @@
-var mnemonic = "purpose agent stairs toy dismiss connect squeeze often tissue region carpet bicycle";
+var mnemonic = "sting tuition sure mouse oyster volcano push pattern tomorrow robust inherit exile";

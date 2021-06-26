@@ -1,1 +1,1 @@
-var mnemonic = "voice lonely stock happy convince obtain album client stove rubber trial current";
+var mnemonic = "silly mom grit zoo vast window index uncle copy trophy violin book";

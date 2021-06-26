@@ -1,1 +1,1 @@
-var mnemonic = "orphan want execute leader earth logic bar coin interest wasp wasp sorry";
+var mnemonic = "pact negative air gym output rare alcohol stock lecture sadness squirrel buddy";

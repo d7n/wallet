@@ -1,1 +1,1 @@
-var mnemonic = "room book chat diamond thought property clip busy fashion bird wing furnace";
+var mnemonic = "rose drip layer embark lake soap chronic priority balance modify casino detail";

@@ -1,1 +1,1 @@
-var mnemonic = "earth solar poverty identify congress off upper stay business razor ignore glory";
+var mnemonic = "fashion high produce race ivory orient vivid planet trade dry fish forest";

@@ -1,1 +1,1 @@
-var mnemonic = "prepare claim matrix degree elbow battle charge riot afford october avocado brother";
+var mnemonic = "exile pool logic rail horn brush gossip round sphere suspect keep cotton";

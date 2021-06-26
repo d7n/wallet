@@ -1,1 +1,1 @@
-var mnemonic = "summer naive talent decrease mesh blue ceiling strong outside health teach ladder";
+var mnemonic = "raven code solution razor easy couple correct figure ginger ivory toast satoshi";

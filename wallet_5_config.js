@@ -1,1 +1,1 @@
-var mnemonic = "pledge honey mimic youth safe replace fork theory thing because express machine";
+var mnemonic = "canyon answer sponsor fit chapter diagram valve vessel west zone item tank";

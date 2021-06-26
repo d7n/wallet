@@ -1,1 +1,1 @@
-var mnemonic = "movie horror light else frog chunk opera script rich bless math pulp";
+var mnemonic = "tone innocent when era uniform try explain umbrella monkey solution reveal link";

@@ -1,1 +1,1 @@
-var mnemonic = "symbol language scrub wave sister combine minute crop midnight bundle resist mimic";
+var mnemonic = "bus key antenna weapon planet dumb comic six differ great panther balcony";

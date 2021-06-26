@@ -1,1 +1,1 @@
-var mnemonic = "twelve observe fluid prefer plastic parrot sun artefact file tribe immense pen";
+var mnemonic = "slight opera orient illegal violin world mechanic square erupt sport giggle jelly";

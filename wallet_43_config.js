@@ -1,1 +1,1 @@
-var mnemonic = "candy leader issue utility hood glide surface hobby city kingdom travel crash";
+var mnemonic = "awesome improve door crater festival mandate grab urge gate length clarify practice";

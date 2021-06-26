@@ -1,1 +1,1 @@
-var mnemonic = "range goddess pioneer pair flush right tribe sea weekend control embrace actress";
+var mnemonic = "quote letter fresh maid eager joke direct bright winner guess powder cake";

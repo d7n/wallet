@@ -1,1 +1,1 @@
-var mnemonic = "author track service crater fee midnight taxi health tobacco crucial parrot bubble";
+var mnemonic = "shed wet trophy ranch galaxy catch van prepare real photo lumber weasel";

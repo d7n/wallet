@@ -1,1 +1,1 @@
-var mnemonic = "lens apple oil water forest secret reject right sing digital call useful";
+var mnemonic = "pill awake brisk course include multiply panther flock bamboo giant lawn purchase";

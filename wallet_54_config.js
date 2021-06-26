@@ -1,1 +1,1 @@
-var mnemonic = "elegant arrow maze drop adjust globe evil suggest run lobster receive congress";
+var mnemonic = "gain bamboo snap pumpkin pear erode blade soup forest sport kick blame";

@@ -1,1 +1,1 @@
-var mnemonic = "actual ready morning goddess ignore menu pool salon where insect tomato festival";
+var mnemonic = "obvious distance bid sun enjoy chat taxi neck park photo pulse margin";

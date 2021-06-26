@@ -1,1 +1,1 @@
-var mnemonic = "reveal match unfair hover salute just april crawl empower vacant become drill";
+var mnemonic = "oak cabbage humble shed swamp captain toss tattoo hazard mystery forward panic";

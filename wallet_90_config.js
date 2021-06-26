@@ -1,1 +1,1 @@
-var mnemonic = "duck upgrade leaf solar rail also float material inhale meat math cluster";
+var mnemonic = "glad knife curtain setup devote upset fall dirt alien patrol symptom sunny";

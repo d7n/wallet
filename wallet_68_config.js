@@ -1,1 +1,1 @@
-var mnemonic = "spider begin below divert under gossip sponsor science border speak pig amount";
+var mnemonic = "torch hero victory cloth involve hat elevator inflict issue tomato dose misery";

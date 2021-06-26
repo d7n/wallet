@@ -1,1 +1,1 @@
-var mnemonic = "result stumble bean around way cancel relax horn release unique veteran endless";
+var mnemonic = "hair velvet rare cable reward crisp fury kitten crater coin hurry choice";

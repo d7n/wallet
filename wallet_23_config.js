@@ -1,1 +1,1 @@
-var mnemonic = "bounce dove cereal kingdom two coin ginger slice corn radar beauty flight";
+var mnemonic = "wrestle movie near lemon alpha build great ice play atom observe outer";

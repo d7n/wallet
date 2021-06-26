@@ -1,1 +1,1 @@
-var mnemonic = "annual taste jar rabbit grace hand bonus nominee cube ginger multiply lounge";
+var mnemonic = "picnic woman casual coach interest select toast winter truck into select meadow";

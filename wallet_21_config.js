@@ -1,1 +1,1 @@
-var mnemonic = "bag ensure length suffer renew expand medal ship hood tank add message";
+var mnemonic = "path put grab tip word glory doctor include sign champion void nuclear";

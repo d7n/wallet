@@ -1,1 +1,1 @@
-var mnemonic = "good nice kid spread genius gadget beach old lock way enroll insane";
+var mnemonic = "mother armor song know orbit home husband stable cloth casual quiz country";

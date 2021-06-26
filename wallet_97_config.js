@@ -1,1 +1,1 @@
-var mnemonic = "review add area garden purchase twice sheriff hidden bundle behave guess clog";
+var mnemonic = "salt genuine armed grant useless photo army timber average unknown long reduce";

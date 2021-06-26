@@ -1,1 +1,1 @@
-var mnemonic = "oblige solar naive hawk reject author slot safe picnic item legal seven";
+var mnemonic = "apology mandate actual plastic frog eyebrow snow height park prison sweet patient";

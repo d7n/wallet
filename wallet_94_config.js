@@ -1,1 +1,1 @@
-var mnemonic = "error injury immense tone magnet fame garden section muscle ribbon crime goose";
+var mnemonic = "holiday inject allow wool cabbage gather shop merry evil angle other garage";
