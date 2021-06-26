@@ -1,1 +1,1 @@
-var mnemonic = "three holiday cart tuition fuel success sniff purity buyer exact risk cement";
+var mnemonic = "tooth about pyramid garden lock text asthma year bone garbage dinner person";

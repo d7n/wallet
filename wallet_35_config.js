@@ -1,1 +1,1 @@
-var mnemonic = "wine mango machine actual fragile gadget skull prefer voice sunny depart original";
+var mnemonic = "hedgehog clog promote churn emotion meadow eyebrow upgrade rude laugh later copy";

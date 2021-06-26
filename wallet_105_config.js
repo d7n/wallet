@@ -1,1 +1,1 @@
-var mnemonic = "fancy devote minor consider dance force jar lunch broken afford what please";
+var mnemonic = "brave power cheese meadow help pony skirt amount chalk romance oblige bus";

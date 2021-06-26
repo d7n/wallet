@@ -1,1 +1,1 @@
-var mnemonic = "suspect result mistake indoor video cabbage dutch kick census egg list potato";
+var mnemonic = "logic upset judge alpha august else slogan diet same soul demise balance";

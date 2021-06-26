@@ -1,1 +1,1 @@
-var mnemonic = "tag stuff minute spot horn trust hamster winner hope nephew begin worry";
+var mnemonic = "arch age ribbon input output emotion maple average receive powder crunch satoshi";

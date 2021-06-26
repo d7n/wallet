@@ -1,1 +1,1 @@
-var mnemonic = "nerve express luxury minor weird walk sad second price smooth lemon sting";
+var mnemonic = "expose choice predict sand shift sunset leisure broken boy fiber swing chuckle";

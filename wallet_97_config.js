@@ -1,1 +1,1 @@
-var mnemonic = "ivory page height fragile all tuna diesel long dial target tree dragon";
+var mnemonic = "wait scorpion dinosaur relax legal basket clinic floor width learn genius meat";

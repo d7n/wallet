@@ -1,1 +1,1 @@
-var mnemonic = "kiwi total luggage room sunny wear crane day unveil decide smile airport";
+var mnemonic = "crumble today pass indoor hover gold clever goat globe expose upper runway";

@@ -1,1 +1,1 @@
-var mnemonic = "absorb mango electric fitness gossip hospital knee idle impulse trial recall pupil";
+var mnemonic = "crop front gold canyon food vote already network trip random shift bachelor";

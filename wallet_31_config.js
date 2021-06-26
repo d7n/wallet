@@ -1,1 +1,1 @@
-var mnemonic = "twenty hip equal elder nasty egg nominee sound genuine excess random regular";
+var mnemonic = "run foil youth metal useful never rice piece lonely already design syrup";

@@ -1,1 +1,1 @@
-var mnemonic = "divide sausage vapor theory diesel evidence roast fog train grow pudding special";
+var mnemonic = "eyebrow dish mail tree cruise olive achieve romance mutual plug venture annual";

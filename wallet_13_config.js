@@ -1,1 +1,1 @@
-var mnemonic = "thrive reveal spike capable guide prefer share spider jazz derive retreat profit";
+var mnemonic = "episode dawn wine normal burger similar actress ugly cruel squirrel kidney jacket";

@@ -1,1 +1,1 @@
-var mnemonic = "join balance divorce secret kitten pitch input behave nephew ozone private reopen";
+var mnemonic = "strong syrup kiss already trumpet actor visual emotion chimney sound become warm";

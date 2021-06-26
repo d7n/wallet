@@ -1,1 +1,1 @@
-var mnemonic = "country road napkin village burger swing laundry okay admit stage equal payment";
+var mnemonic = "act just move shiver ghost reunion whale inherit mention help velvet borrow";

@@ -1,1 +1,1 @@
-var mnemonic = "lake history apart notable tomato trust grit spin goat bounce noise convince";
+var mnemonic = "arrow left trend relax lonely punch foil couple riot addict hold shield";

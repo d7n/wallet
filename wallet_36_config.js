@@ -1,1 +1,1 @@
-var mnemonic = "cereal female vacant fun maid alpha hover husband permit mercy excite wrestle";
+var mnemonic = "stick cannon odor curtain copy talent dove drastic jealous hood flash half";

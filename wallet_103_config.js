@@ -1,1 +1,1 @@
-var mnemonic = "august frame okay plunge amateur shaft fun mushroom display plunge alcohol pluck";
+var mnemonic = "increase engage dirt spider merit elite art key sure angry liar useful";

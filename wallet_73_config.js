@@ -1,1 +1,1 @@
-var mnemonic = "concert early tackle profit argue pattern impact capital submit banner witness increase";
+var mnemonic = "ahead prevent chef consider laptop attitude shoulder paper runway knee grunt become";

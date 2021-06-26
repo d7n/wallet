@@ -1,1 +1,1 @@
-var mnemonic = "poverty hole ahead interest enlist enrich bean angle vivid night culture clap";
+var mnemonic = "party emotion expect inject song afford swing jeans during ugly style rotate";

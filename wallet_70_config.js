@@ -1,1 +1,1 @@
-var mnemonic = "shadow leg praise priority manage glance frame cat quiz text castle arrange";
+var mnemonic = "help tackle urge engine monitor diamond nation arrange conduct blood utility file";

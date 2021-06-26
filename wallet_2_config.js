@@ -1,1 +1,1 @@
-var mnemonic = "interest orphan dog race tissue trim uphold deputy track rare vacant silver";
+var mnemonic = "hazard salon wise fork raw crazy panic seminar purpose trumpet tuition goat";

@@ -1,1 +1,1 @@
-var mnemonic = "shaft punch absurd caution alcohol recycle guitar have ten romance coffee industry";
+var mnemonic = "pretty pole devote again black parade lunch when puppy alone stamp fire";

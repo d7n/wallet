@@ -1,1 +1,1 @@
-var mnemonic = "table ecology alien fix either voyage setup model desert library neutral jungle";
+var mnemonic = "loan that ecology liquid boss family figure casino nerve phrase sniff illegal";

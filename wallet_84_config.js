@@ -1,1 +1,1 @@
-var mnemonic = "wrong matrix roof they dirt uncover vicious behave peace select cheap resource";
+var mnemonic = "mystery rescue cake fame loud bargain immense anger buyer atom fever canvas";

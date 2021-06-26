@@ -1,1 +1,1 @@
-var mnemonic = "belt clutch twelve black about thing snap eternal tooth elephant find dolphin";
+var mnemonic = "will tomato curious outside way ozone swing cheese dust blush uncover latin";

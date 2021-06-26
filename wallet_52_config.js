@@ -1,1 +1,1 @@
-var mnemonic = "turkey process hamster destroy valve dose bike theme napkin whisper around amused";
+var mnemonic = "artefact salt elevator swing wise under tackle shallow plastic link concert claw";

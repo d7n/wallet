@@ -1,1 +1,1 @@
-var mnemonic = "evidence brick shadow trigger typical size alert clump during stomach brand theory";
+var mnemonic = "gold ski pelican slogan glove device lumber ivory verify fatal motion destroy";

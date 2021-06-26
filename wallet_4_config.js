@@ -1,1 +1,1 @@
-var mnemonic = "earn cup cement scare hour question wagon kitchen gift nature permit during";
+var mnemonic = "atom near brand alien judge forward wood citizen enforce route random video";

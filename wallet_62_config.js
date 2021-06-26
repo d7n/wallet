@@ -1,1 +1,1 @@
-var mnemonic = "olive include audit humor baby street journey bring unhappy cheap seminar park";
+var mnemonic = "cupboard pool annual curtain kite elite theme vital final beyond sign cat";

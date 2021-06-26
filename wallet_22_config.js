@@ -1,1 +1,1 @@
-var mnemonic = "ski toss tag vibrant mouse auction giant deposit jaguar result swallow tonight";
+var mnemonic = "lion birth tool horn vibrant ankle rather crystal hint question private fat";

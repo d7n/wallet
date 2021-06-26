@@ -1,1 +1,1 @@
-var mnemonic = "expire service observe excess pupil during wool trick emerge cargo expand bonus";
+var mnemonic = "giant day before fitness unfair labor raw current arch twenty chef clarify";

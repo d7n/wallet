@@ -1,1 +1,1 @@
-var mnemonic = "gas tragic sadness chicken pyramid payment goat replace domain inflict hip owner";
+var mnemonic = "fluid drive use cost estate among begin tragic supreme empower assault language";

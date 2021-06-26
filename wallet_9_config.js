@@ -1,1 +1,1 @@
-var mnemonic = "hire eagle treat soon decline border wild depend crane want panic simple";
+var mnemonic = "human fresh trust little shrimp mammal rifle lottery arrive sudden orbit pyramid";

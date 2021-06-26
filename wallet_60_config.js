@@ -1,1 +1,1 @@
-var mnemonic = "grant popular stadium attend hand depth isolate april penalty anxiety girl enact";
+var mnemonic = "turn cute path heavy grunt season level today embody begin novel gate";

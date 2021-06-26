@@ -1,1 +1,1 @@
-var mnemonic = "feed lyrics alpha insect unhappy throw jewel fine stool method almost cook";
+var mnemonic = "ask blade critic bacon extend kit novel cook exhaust sail stereo mushroom";

@@ -1,1 +1,1 @@
-var mnemonic = "maximum first hope eyebrow humble push staff edge electric room cotton trigger";
+var mnemonic = "adult culture same lizard kick weapon hover exotic casual glimpse title hint";

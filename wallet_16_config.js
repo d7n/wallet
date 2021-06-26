@@ -1,1 +1,1 @@
-var mnemonic = "grow luggage scout item draw venue pepper melt ozone afraid purchase love";
+var mnemonic = "run decade foam buffalo yard rib twin stove pair abstract section fox";

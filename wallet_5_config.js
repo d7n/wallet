@@ -1,1 +1,1 @@
-var mnemonic = "nut bid enforce bunker lonely two talk grocery render able radar garden";
+var mnemonic = "real craft chaos bonus strike key shadow rough empty ribbon world exhibit";

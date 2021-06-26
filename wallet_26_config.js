@@ -1,1 +1,1 @@
-var mnemonic = "isolate crop video lobster old wrong dial penalty trigger grass giggle argue";
+var mnemonic = "tag shrimp muffin chef letter creek effort opera frozen minute involve sign";

@@ -1,1 +1,1 @@
-var mnemonic = "beauty script opinion height kitten hurt eagle time home soap ketchup dust";
+var mnemonic = "foster stereo special antique way desk ramp desert rural empty pole check";

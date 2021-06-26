@@ -1,1 +1,1 @@
-var mnemonic = "equal curtain maze wise cluster stable finger picture help flock under tribe";
+var mnemonic = "kitten video surprise surround lumber wrestle ignore foil romance veteran vault oppose";

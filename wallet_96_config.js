@@ -1,1 +1,1 @@
-var mnemonic = "assist doll south job evil coast donate will fault addict outer treat";
+var mnemonic = "crop artefact certain very direct ethics knife month mosquito scatter basket diary";

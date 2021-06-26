@@ -1,1 +1,1 @@
-var mnemonic = "throw tag embark happy daring possible because begin interest win erupt hunt";
+var mnemonic = "early symptom develop else moment tenant portion legal core hybrid crater small";

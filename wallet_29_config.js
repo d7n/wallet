@@ -1,1 +1,1 @@
-var mnemonic = "celery drastic lake chaos radar hotel egg avocado oyster hub hover assist";
+var mnemonic = "daughter private crunch autumn useless tomorrow nurse until naive spatial brain relief";

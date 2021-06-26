@@ -1,1 +1,1 @@
-var mnemonic = "castle recall solid ride hockey enroll ceiling extra essay alone renew limit";
+var mnemonic = "stomach ancient tongue attitude urban high gallery miracle electric razor hood execute";

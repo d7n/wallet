@@ -1,1 +1,1 @@
-var mnemonic = "song inch avocado check below trend arctic market dinosaur access swear movie";
+var mnemonic = "give raise protect cream hamster render trigger scrap among tuna want inch";

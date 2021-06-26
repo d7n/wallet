@@ -1,1 +1,1 @@
-var mnemonic = "shaft burden spot horror worth antique net sponsor glow estate fatigue swap";
+var mnemonic = "spider saddle child inject story game horror general autumn kid copy expand";

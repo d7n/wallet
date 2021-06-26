@@ -1,1 +1,1 @@
-var mnemonic = "capital cycle envelope napkin convince elevator hire economy twelve announce naive front";
+var mnemonic = "skull pole term consider unit return purity leader away spell chief weapon";

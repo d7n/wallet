@@ -1,1 +1,1 @@
-var mnemonic = "brain liquid program tobacco mutual exercise sunset code country hollow sauce fabric";
+var mnemonic = "teach kiwi glass crop cricket pool unhappy trend luggage duck ocean destroy";

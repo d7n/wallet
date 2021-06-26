@@ -1,1 +1,1 @@
-var mnemonic = "shift short bounce exist slab conduct shield mesh river glory hospital cram";
+var mnemonic = "damp minor lava island level business place tragic hover trap else lift";

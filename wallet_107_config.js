@@ -1,1 +1,1 @@
-var mnemonic = "wonder brown thrive sense govern radio mom patch arrest soda elegant produce";
+var mnemonic = "hurt letter jungle tobacco menu intact upon render peace doctor advance cruel";

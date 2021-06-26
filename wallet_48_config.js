@@ -1,1 +1,1 @@
-var mnemonic = "frost pudding bean either next produce immune fitness rich cross struggle exchange";
+var mnemonic = "session drop innocent case repeat voyage venture mad width gallery trigger famous";

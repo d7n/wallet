@@ -1,1 +1,1 @@
-var mnemonic = "jeans always eye width news sing congress coil actor hill silent humble";
+var mnemonic = "upset couch category vessel absorb exact journey minimum drift crawl resource make";

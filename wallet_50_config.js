@@ -1,1 +1,1 @@
-var mnemonic = "soon office legal hurry file cup mean list rib confirm pass cool";
+var mnemonic = "misery food flash patch vital valid avoid child wide practice general wool";

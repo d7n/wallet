@@ -1,1 +1,1 @@
-var mnemonic = "frame yellow venue crumble dirt sketch fuel logic harbor space soccer leopard";
+var mnemonic = "runway unhappy menu castle like window dad shoe under find vanish dutch";

@@ -1,1 +1,1 @@
-var mnemonic = "shrug heavy fat effort spell next air spell place dream tunnel belt";
+var mnemonic = "tired someone ready pupil remain violin project chair october april vote wash";

@@ -1,1 +1,1 @@
-var mnemonic = "garden genuine multiply follow frost absent letter toddler sword brand tooth start";
+var mnemonic = "spring alter practice brown evil panther insane game slender height blood capable";

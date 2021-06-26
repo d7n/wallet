@@ -1,1 +1,1 @@
-var mnemonic = "where improve ritual search square near interest flag forum jungle ring ice";
+var mnemonic = "since path display beef snake method brother drum frost catch ketchup ice";

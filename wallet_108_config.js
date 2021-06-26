@@ -1,1 +1,1 @@
-var mnemonic = "garden bus fork ancient impact afraid fresh shift quit wish viable slab";
+var mnemonic = "code gentle orchard prepare length spirit hen hobby shine meat sphere nest";

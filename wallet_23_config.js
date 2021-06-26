@@ -1,1 +1,1 @@
-var mnemonic = "tape nice fire blame during seek obscure toddler whip gentle balance huge";
+var mnemonic = "lonely head rebel cage resemble mushroom flight scan adjust music weasel fetch";

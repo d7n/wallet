@@ -1,1 +1,1 @@
-var mnemonic = "now recycle meadow because cliff share language climb sudden mesh social surge";
+var mnemonic = "roof original modify wrestle start solar vacant hunt lemon album snow sorry";

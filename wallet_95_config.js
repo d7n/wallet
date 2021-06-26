@@ -1,1 +1,1 @@
-var mnemonic = "during egg kick hollow supreme cycle unveil truck olive regret wear stairs";
+var mnemonic = "chuckle already alcohol soul daughter ketchup enough husband glory common duck gallery";

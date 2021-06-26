@@ -1,1 +1,1 @@
-var mnemonic = "bright frequent clip zero peanut beauty brief hub grit school shadow equip";
+var mnemonic = "minimum leopard enhance pelican wife catch length balance organ roof taste become";

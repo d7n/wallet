@@ -1,1 +1,1 @@
-var mnemonic = "task run behave endorse shell slogan snow frog burst obey ill tenant";
+var mnemonic = "funny aerobic derive vapor drama grief mother extend ritual between unknown scrub";

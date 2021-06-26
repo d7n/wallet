@@ -1,1 +1,1 @@
-var mnemonic = "year crucial dune fine magnet cushion parade rude sadness lunar vague traffic";
+var mnemonic = "tonight warm useful bulb rely unique library sleep runway indicate improve strike";

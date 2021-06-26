@@ -1,1 +1,1 @@
-var mnemonic = "advice toy color urge casual embrace find pass dune host cancel fancy";
+var mnemonic = "toast left talent again six fee click pond pelican sand couple stomach";

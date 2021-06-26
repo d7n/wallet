@@ -1,1 +1,1 @@
-var mnemonic = "bright glory slow spice oven impose own smile muffin final lend december";
+var mnemonic = "proof lyrics onion bulk slot foot amateur arm caught wire swallow relax";

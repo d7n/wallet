@@ -1,1 +1,1 @@
-var mnemonic = "curious hair adjust embody nerve brown tip will casino into music build";
+var mnemonic = "town rubber normal bless owner man sorry diamond paddle winter slow wing";

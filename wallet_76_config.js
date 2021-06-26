@@ -1,1 +1,1 @@
-var mnemonic = "verb govern genius pelican ginger armor push jump consider large myself purity";
+var mnemonic = "token account smoke poverty kitten foot liquid bomb speak room whisper chat";

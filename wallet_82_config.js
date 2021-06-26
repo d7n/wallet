@@ -1,1 +1,1 @@
-var mnemonic = "spike small bone ladder test south common silly ensure fame spike harbor";
+var mnemonic = "dad robust dragon ecology real cost security bunker tool need census drink";

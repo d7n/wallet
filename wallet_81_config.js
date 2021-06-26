@@ -1,1 +1,1 @@
-var mnemonic = "already same gate ride mystery decrease day door bring infant citizen better";
+var mnemonic = "cram nose there tooth skin myself eight session cupboard pony aisle noble";

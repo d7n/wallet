@@ -1,1 +1,1 @@
-var mnemonic = "argue hazard million artist couple mutual hybrid initial curtain piano can diesel";
+var mnemonic = "dial pyramid weasel firm exist cinnamon proof frequent basket control tourist effort";

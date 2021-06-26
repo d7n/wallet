@@ -1,1 +1,1 @@
-var mnemonic = "donate diet palace tattoo enjoy hidden hundred practice scout ring bless champion";
+var mnemonic = "solid future bonus acid forest bamboo era simple bone artwork legal tragic";

@@ -1,1 +1,1 @@
-var mnemonic = "soda sword bottom robust flat pact fall athlete tell cliff search victory";
+var mnemonic = "wrap inner merit equal trade donkey baby crunch rib federal morning track";

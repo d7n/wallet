@@ -1,1 +1,1 @@
-var mnemonic = "favorite good absurd board actor goose fun yard sketch pilot fork town";
+var mnemonic = "smart dinosaur refuse prevent reform steak choose divorce zoo medal mandate picture";

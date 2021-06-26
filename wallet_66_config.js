@@ -1,1 +1,1 @@
-var mnemonic = "federal bundle famous impose nose river verify wear absorb curious delay surprise";
+var mnemonic = "other popular obtain sketch vague legend arrive course mail bar fortune cherry";

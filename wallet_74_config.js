@@ -1,1 +1,1 @@
-var mnemonic = "insect nothing wrist glow elephant panda chat tumble lawsuit hope wife kidney";
+var mnemonic = "sleep flip average tomorrow lamp opinion switch exclude split barrel between current";

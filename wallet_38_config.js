@@ -1,1 +1,1 @@
-var mnemonic = "wide gospel cliff marriage economy govern tissue harsh click often seed scissors";
+var mnemonic = "high one say maze network sugar party empower cricket want message bargain";

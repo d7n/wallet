@@ -1,1 +1,1 @@
-var mnemonic = "nasty inquiry purse imitate weapon story dust glue alley cannon junior kiss";
+var mnemonic = "report advice turn galaxy song gloom salad often remember dance around square";

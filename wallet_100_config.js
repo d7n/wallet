@@ -1,1 +1,1 @@
-var mnemonic = "salute whisper asset syrup borrow decide slogan else stuff february clip robot";
+var mnemonic = "member urban slam cream copper width afford soda twin cancel space fresh";

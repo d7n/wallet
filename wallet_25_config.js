@@ -1,1 +1,1 @@
-var mnemonic = "film cross cabin skull tilt click hazard shallow much valley coach stomach";
+var mnemonic = "ski hand range begin vibrant payment liar slim cart enjoy expire rather";

@@ -1,1 +1,1 @@
-var mnemonic = "endless will forum jelly dynamic expose private thought humble shoe general animal";
+var mnemonic = "quality price coffee child weird sting power medal join where pitch error";

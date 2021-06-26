@@ -1,1 +1,1 @@
-var mnemonic = "slow ladder office bachelor appear nerve all unveil minor veteran fence security";
+var mnemonic = "title random try curve entry crane much search basket chef rather debate";

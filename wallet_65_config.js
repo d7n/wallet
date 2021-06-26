@@ -1,1 +1,1 @@
-var mnemonic = "humor online force thrive lawsuit tube fame cash damage doll spoon student";
+var mnemonic = "vocal jump arrest prosper movie admit broken loyal fuel mom run design";

@@ -1,1 +1,1 @@
-var mnemonic = "make final present puzzle spatial gift rocket confirm crash blush distance check";
+var mnemonic = "cheap pledge define escape alter found owner link rescue verify speed emerge";

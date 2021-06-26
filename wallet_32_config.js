@@ -1,1 +1,1 @@
-var mnemonic = "pilot benefit hand candy short vocal gadget deputy suit toddler shield fruit";
+var mnemonic = "aunt airport embark omit guilt daughter chaos oblige jeans chief original explain";

@@ -1,1 +1,1 @@
-var mnemonic = "giant face involve gain fence history mosquito attend caution bleak buyer code";
+var mnemonic = "report sign network sunny scene bunker wage nest bid hotel era eager";

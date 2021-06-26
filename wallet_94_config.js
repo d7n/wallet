@@ -1,1 +1,1 @@
-var mnemonic = "lift mammal toss vicious fog strategy tool pair burst liquid resource example";
+var mnemonic = "soft stick exclude below isolate grid coin worry clown inform pigeon ball";
