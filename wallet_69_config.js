@@ -1,1 +1,1 @@
-var mnemonic = "coin solve antique bread party ocean follow receive equip shed affair wash";
+var mnemonic = "mesh depart tiny rail rookie sound noodle magic under tide transfer range";

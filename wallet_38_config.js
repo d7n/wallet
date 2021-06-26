@@ -1,1 +1,1 @@
-var mnemonic = "concert lawn view clown artefact scissors scissors ladder awake riot illness inject";
+var mnemonic = "lemon earn blossom unaware ripple sand trick keen kit broom potato velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "glad target surface resemble capable neglect fold trend two level abstract super";
+var mnemonic = "client night lab horn mesh reopen name unique combine similar motor what";

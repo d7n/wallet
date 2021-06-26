@@ -1,1 +1,1 @@
-var mnemonic = "repair tuition lizard slow anxiety pudding end analyst atom injury benefit midnight";
+var mnemonic = "tape category mad public biology happy tongue sick hockey judge zero fade";

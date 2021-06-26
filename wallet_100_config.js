@@ -1,1 +1,1 @@
-var mnemonic = "flower match rescue swim gap sausage odor extra tired raise shed rich";
+var mnemonic = "super glad oppose vital tattoo reform wealth song tone lottery begin nephew";

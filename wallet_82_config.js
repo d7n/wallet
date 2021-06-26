@@ -1,1 +1,1 @@
-var mnemonic = "gun caution syrup voyage monitor mention sunset gain engage curtain damage carbon";
+var mnemonic = "zone void change alone strike agree sign fiction torch erase jealous almost";

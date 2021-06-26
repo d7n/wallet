@@ -1,1 +1,1 @@
-var mnemonic = "light father obey keep cotton outer forum grit romance require lion blossom";
+var mnemonic = "eye brother argue frog action stairs stable fan virus tourist someone decorate";

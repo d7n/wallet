@@ -1,1 +1,1 @@
-var mnemonic = "fence room similar obey badge silver uncover injury rain wreck only sponsor";
+var mnemonic = "hamster exit ensure talk husband polar bar glass merry adult goose beef";

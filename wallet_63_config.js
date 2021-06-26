@@ -1,1 +1,1 @@
-var mnemonic = "program load check bundle deer open brave concert pact exotic trigger entire";
+var mnemonic = "put fine assault truth sun weasel alter taxi urge nerve monkey hundred";

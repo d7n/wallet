@@ -1,1 +1,1 @@
-var mnemonic = "track armed unique hawk ugly wink walk trigger tent voice inquiry weapon";
+var mnemonic = "furnace vivid print deny dream visit omit thank goose slush dash lava";

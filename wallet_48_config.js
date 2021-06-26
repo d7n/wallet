@@ -1,1 +1,1 @@
-var mnemonic = "either breeze size purpose defense velvet urban shadow rural horn aspect visual";
+var mnemonic = "video radar august girl identify easy power butter network lobster pumpkin define";

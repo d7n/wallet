@@ -1,1 +1,1 @@
-var mnemonic = "empower adapt ivory treat hen air satisfy ill exhibit turkey harsh kite";
+var mnemonic = "prison satisfy glad trade script fantasy boy insect display obtain kiss toss";

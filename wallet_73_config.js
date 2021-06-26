@@ -1,1 +1,1 @@
-var mnemonic = "bounce denial section achieve goddess yellow flush kick drive glimpse urban measure";
+var mnemonic = "donkey hybrid omit pipe laugh alone tail junk where token wolf only";

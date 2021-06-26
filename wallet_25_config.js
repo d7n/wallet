@@ -1,1 +1,1 @@
-var mnemonic = "pink feel trim girl digital chronic scheme ready pyramid congress upon differ";
+var mnemonic = "carry venture tissue faculty report shrug region rather cat frog regular taste";

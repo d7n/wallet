@@ -1,1 +1,1 @@
-var mnemonic = "patrol upgrade ozone foam remove pact fly case audit goddess silver tobacco";
+var mnemonic = "observe fence tiny motion report skate certain media talent deliver agree boil";

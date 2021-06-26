@@ -1,1 +1,1 @@
-var mnemonic = "today side exile farm dawn capable lounge peanut mango slow loud clinic";
+var mnemonic = "sword sure cherry wrap hybrid deny proof quarter remain surface cotton type";

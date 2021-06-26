@@ -1,1 +1,1 @@
-var mnemonic = "receive today shuffle what stomach fence rescue margin sugar unusual brush parent";
+var mnemonic = "earn slender adjust street elegant purchase explain senior gold stereo host smoke";

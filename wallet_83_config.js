@@ -1,1 +1,1 @@
-var mnemonic = "input uniform trim chicken sick foil dirt rebuild hurry frog wisdom imitate";
+var mnemonic = "wait seed decorate move lobster track scout danger walk process key horror";

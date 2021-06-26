@@ -1,1 +1,1 @@
-var mnemonic = "infant saddle group twice coyote weasel hard crane effort leisure smoke cruel";
+var mnemonic = "strategy hawk copy stomach blind clean staff toss memory hold mom eagle";

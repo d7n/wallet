@@ -1,1 +1,1 @@
-var mnemonic = "walnut split angle tackle amused change state gospel duck nasty crime upgrade";
+var mnemonic = "snake pudding weather fiber start approve copy glory spy awesome museum gauge";

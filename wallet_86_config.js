@@ -1,1 +1,1 @@
-var mnemonic = "defy crash dutch neither rough wood devote tortoise sail enforce scheme frog";
+var mnemonic = "balcony truly foil spend enter wage attitude sword skin leader ocean theme";

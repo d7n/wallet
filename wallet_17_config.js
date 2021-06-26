@@ -1,1 +1,1 @@
-var mnemonic = "cook pumpkin mix bridge know woman pottery fat better flame faith enhance";
+var mnemonic = "spider recall monster rule beauty drum fossil remind sort boat lava asthma";

@@ -1,1 +1,1 @@
-var mnemonic = "potato sure illegal cool pig asset kiss bubble wink poet table ivory";
+var mnemonic = "output decide thunder canoe antenna inflict fluid armor depart motor swift choose";

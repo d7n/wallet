@@ -1,1 +1,1 @@
-var mnemonic = "share coyote crunch today crumble swamp jaguar all hazard popular affair kiss";
+var mnemonic = "gossip hair tennis ivory warrior enjoy job inside lady eyebrow long raccoon";

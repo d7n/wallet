@@ -1,1 +1,1 @@
-var mnemonic = "custom spoon issue please color crowd expire accuse glance need heavy copper";
+var mnemonic = "school remind shove ignore now layer fiscal mushroom vintage brave jealous bracket";

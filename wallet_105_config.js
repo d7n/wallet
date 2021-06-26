@@ -1,1 +1,1 @@
-var mnemonic = "stick magnet snack holiday harvest profit win hello use reason peace blue";
+var mnemonic = "dragon pause elegant birth release eyebrow lunch task theory shiver shy pistol";

@@ -1,1 +1,1 @@
-var mnemonic = "riot until ten angle script tent can butter face light inch swap";
+var mnemonic = "mind walnut tissue empower amateur harsh video retreat day fiction dune legal";

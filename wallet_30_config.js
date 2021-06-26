@@ -1,1 +1,1 @@
-var mnemonic = "entry wide vivid tide profit pulse coast spot core know organ ramp";
+var mnemonic = "escape puppy accident nature dirt winner else cousin order quote run pepper";

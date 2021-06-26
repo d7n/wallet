@@ -1,1 +1,1 @@
-var mnemonic = "junior chest crack ugly female snow hollow orient author option notable behind";
+var mnemonic = "view version window brisk combine track pair anchor drive jazz able canvas";

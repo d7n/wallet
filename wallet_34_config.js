@@ -1,1 +1,1 @@
-var mnemonic = "silent diamond gather outdoor chase abuse arrow awake badge daring kitten follow";
+var mnemonic = "rather wreck team sentence fatal car bird brain rival oxygen clock gloom";

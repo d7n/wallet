@@ -1,1 +1,1 @@
-var mnemonic = "mango easy zoo punch across nominee sphere deer youth again apple gravity";
+var mnemonic = "unaware bench naive match approve wine repeat false else diet maple arrive";

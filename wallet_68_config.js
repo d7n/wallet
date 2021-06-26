@@ -1,1 +1,1 @@
-var mnemonic = "tree profit various bread ride when man bird effort egg estate burst";
+var mnemonic = "train end like air evidence three buyer usual leaf cargo frog annual";

@@ -1,1 +1,1 @@
-var mnemonic = "dice favorite tower cage tell absorb impulse random decline bulb song banana";
+var mnemonic = "anger badge diary tobacco sunset indicate small minimum panic boat silent subway";

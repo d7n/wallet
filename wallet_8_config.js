@@ -1,1 +1,1 @@
-var mnemonic = "clinic yard sheriff blade fan zone crash nerve industry promote gesture body";
+var mnemonic = "action orchard roast lottery retire lava nurse answer left state bind special";

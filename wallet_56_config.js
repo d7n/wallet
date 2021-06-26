@@ -1,1 +1,1 @@
-var mnemonic = "tail capable cheese arrest shell label coffee trouble online tiny alien soda";
+var mnemonic = "thrive avoid trip tower hand harsh candy list vintage pond viable mango";

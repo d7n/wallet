@@ -1,1 +1,1 @@
-var mnemonic = "fee hobby jewel pepper dwarf entire manual chalk thrive alarm review twice";
+var mnemonic = "attitude cram typical obey broccoli crack cradle put frog crash artwork moment";

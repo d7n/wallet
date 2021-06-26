@@ -1,1 +1,1 @@
-var mnemonic = "broccoli nephew trick cake ghost snake smooth pig exclude area fall desk";
+var mnemonic = "chief pretty moon scale clump leaf analyst when random act rival wet";

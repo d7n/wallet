@@ -1,1 +1,1 @@
-var mnemonic = "hybrid then cupboard cross relax ask kick soap lesson often student dial";
+var mnemonic = "coral remember dirt hair pledge burden enemy actress doctor parade lawsuit lunar";

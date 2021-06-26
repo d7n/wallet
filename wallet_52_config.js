@@ -1,1 +1,1 @@
-var mnemonic = "local budget mandate conduct diary item bread pig prepare toddler hollow neck";
+var mnemonic = "win various furnace dream panda lab clap casual oyster improve hope fetch";

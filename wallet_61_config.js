@@ -1,1 +1,1 @@
-var mnemonic = "caught garment account ivory hungry rib drip west virus shed risk note";
+var mnemonic = "muffin segment suspect nature snap gather popular type misery silver blast business";

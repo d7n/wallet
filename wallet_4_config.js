@@ -1,1 +1,1 @@
-var mnemonic = "then force child beef onion casino sunset silly gossip photo weapon husband";
+var mnemonic = "turtle gas inquiry cheap master mix disease ahead brass chapter desk rail";

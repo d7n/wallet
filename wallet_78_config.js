@@ -1,1 +1,1 @@
-var mnemonic = "stumble network matter liquid door puzzle arrange flush crumble zero also cloud";
+var mnemonic = "shoe trash angry carbon gasp wool carbon develop sort salt twenty inspire";

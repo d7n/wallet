@@ -1,1 +1,1 @@
-var mnemonic = "moment people baby piece timber beauty uncover toilet cream need lift various";
+var mnemonic = "short adult into corn sweet angle virtual blanket tennis labor dutch rival";

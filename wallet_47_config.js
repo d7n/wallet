@@ -1,1 +1,1 @@
-var mnemonic = "maple turn mail cloud wait reopen uncle public pill analyst people air";
+var mnemonic = "mandate satisfy clean rent series student armed wrong balcony toast atom assist";

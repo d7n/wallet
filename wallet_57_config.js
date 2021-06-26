@@ -1,1 +1,1 @@
-var mnemonic = "prison foil steak ugly diesel acid defense cotton faint beauty aim first";
+var mnemonic = "turkey fog silver swing misery erosion clip bless entire blind vacuum obtain";

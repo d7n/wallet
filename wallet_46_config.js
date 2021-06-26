@@ -1,1 +1,1 @@
-var mnemonic = "orange bind reject reveal pigeon home author wine left such patient chaos";
+var mnemonic = "scale sketch dove lounge ghost cargo tongue impulse eternal old hint melt";

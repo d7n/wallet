@@ -1,1 +1,1 @@
-var mnemonic = "middle drill clip ball lizard mass genuine certain fashion shield grace neither";
+var mnemonic = "invite arrive orbit curve diagram vote parrot fire lonely view sister abstract";

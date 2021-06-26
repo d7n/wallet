@@ -1,1 +1,1 @@
-var mnemonic = "net abstract trust debris crisp off width during vocal train journey gloom";
+var mnemonic = "tackle hospital boat pencil hospital marine embrace flavor hood robust boil measure";

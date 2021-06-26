@@ -1,1 +1,1 @@
-var mnemonic = "below humble account feed fish lazy swallow toilet merge this punch news";
+var mnemonic = "claw yard brain alter crawl dog fringe absorb mesh insect average provide";

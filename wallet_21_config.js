@@ -1,1 +1,1 @@
-var mnemonic = "ship bicycle toy produce apology note valve crane flash enough essence symbol";
+var mnemonic = "draft recipe error bundle gallery review rare chuckle hover fiber hint animal";

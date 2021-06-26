@@ -1,1 +1,1 @@
-var mnemonic = "sure service middle elephant uncle bean equip tube ordinary reward rabbit topic";
+var mnemonic = "process month flee grief message eternal wait solar best daughter oxygen immense";

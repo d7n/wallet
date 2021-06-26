@@ -1,1 +1,1 @@
-var mnemonic = "summer coast dizzy chest stage weapon pass sort rhythm excuse mom blood";
+var mnemonic = "wave armor mixture grab coil chaos release exotic hunt borrow junk stone";

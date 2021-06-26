@@ -1,1 +1,1 @@
-var mnemonic = "food hurt cry oven spread oppose skill kitchen stomach wealth stand food";
+var mnemonic = "lazy wear achieve rescue mail reunion dish expand worry entire roof delay";

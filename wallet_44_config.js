@@ -1,1 +1,1 @@
-var mnemonic = "forget runway awkward practice shop vacant wear memory boost rubber apology luxury";
+var mnemonic = "magnet puzzle sense walnut clutch diamond jump off rebel glare position culture";

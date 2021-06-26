@@ -1,1 +1,1 @@
-var mnemonic = "visual famous essay access clip fuel claim life copper kitten kitchen remain";
+var mnemonic = "same lunch decide way crash resemble benefit casino wool employ coach blind";

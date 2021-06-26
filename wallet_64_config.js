@@ -1,1 +1,1 @@
-var mnemonic = "clinic gallery cloud obscure arrange term require problem special tip crawl faculty";
+var mnemonic = "vocal physical purpose family timber select phone assist wagon boring sunny drastic";

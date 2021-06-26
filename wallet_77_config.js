@@ -1,1 +1,1 @@
-var mnemonic = "define question derive dismiss fever asset balcony catalog once pioneer portion exit";
+var mnemonic = "render round urban oblige engine seek erosion rough labor ten shallow motor";

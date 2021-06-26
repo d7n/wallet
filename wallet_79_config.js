@@ -1,1 +1,1 @@
-var mnemonic = "chuckle business frog tomorrow ecology obtain hill print prefer abstract oyster tomorrow";
+var mnemonic = "pumpkin round wisdom fetch fortune live hole omit skull book carbon steel";

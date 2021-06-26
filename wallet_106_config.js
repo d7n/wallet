@@ -1,1 +1,1 @@
-var mnemonic = "budget forget govern used october confirm work december result slogan mother focus";
+var mnemonic = "beach buffalo sea arrange crystal access cook card turkey flame enrich hazard";

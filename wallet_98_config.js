@@ -1,1 +1,1 @@
-var mnemonic = "idea guard actor curtain wing equip aerobic outdoor pact helmet trumpet pig";
+var mnemonic = "ask address cabin panda admit idea subway slush buddy hidden dress legal";

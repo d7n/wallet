@@ -1,1 +1,1 @@
-var mnemonic = "rival they apart broken witness shrimp coach cheese enlist chat dismiss task";
+var mnemonic = "piano panda seminar credit extra provide innocent item ladder bench naive kit";

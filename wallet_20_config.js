@@ -1,1 +1,1 @@
-var mnemonic = "morning primary country know trip fox appear smile inner unusual casual juice";
+var mnemonic = "width gravity rebuild state cloth hen space achieve maze exotic amazing duty";

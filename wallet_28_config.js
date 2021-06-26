@@ -1,1 +1,1 @@
-var mnemonic = "rug guilt crystal elegant thought guilt common illness skirt abandon trend strong";
+var mnemonic = "dutch short pipe joke advance gym once note judge load novel hat";

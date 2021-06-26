@@ -1,1 +1,1 @@
-var mnemonic = "floor tribe dizzy remain sibling patrol balcony tide federal emerge year crazy";
+var mnemonic = "meadow pride priority bag two elder goose unfair spawn super ribbon mistake";

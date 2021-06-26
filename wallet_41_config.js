@@ -1,1 +1,1 @@
-var mnemonic = "floor note fantasy border regular beyond badge element reopen change street win";
+var mnemonic = "valid film normal flavor hundred green harvest title thank chapter coral knee";

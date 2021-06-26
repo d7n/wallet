@@ -1,1 +1,1 @@
-var mnemonic = "funny smile logic grief clerk guess slush spray action since put sheriff";
+var mnemonic = "make dinosaur shine awesome inflict reduce only legend tube police lunar unable";

@@ -1,1 +1,1 @@
-var mnemonic = "excite scatter denial fruit share wrong limb remind brave boss oxygen upon";
+var mnemonic = "buyer over grocery craft notice music extend cloud wagon energy trigger property";

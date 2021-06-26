@@ -1,1 +1,1 @@
-var mnemonic = "rent warfare art trumpet bid cube heavy feed law twenty appear mammal";
+var mnemonic = "language extend kidney cupboard benefit chase boil miss attend matrix mask trick";

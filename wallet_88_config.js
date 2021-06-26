@@ -1,1 +1,1 @@
-var mnemonic = "market rebuild replace aisle donkey cross eight found tiny hospital onion path";
+var mnemonic = "economy plug range industry unique second essence ordinary still change across silly";

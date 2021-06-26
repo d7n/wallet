@@ -1,1 +1,1 @@
-var mnemonic = "dial buddy fossil ride apple jungle abandon effort fresh debris hint bread";
+var mnemonic = "siren order pony soldier rich air please wave fun coffee turkey cycle";

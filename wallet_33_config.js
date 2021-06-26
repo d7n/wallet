@@ -1,1 +1,1 @@
-var mnemonic = "verb boil video tiny until eight whisper valve nest isolate wet hurt";
+var mnemonic = "clown blame pool kite nuclear estate record shift moral ridge wise desert";

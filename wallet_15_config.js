@@ -1,1 +1,1 @@
-var mnemonic = "grow hole service sea exile idle spell monitor bulb snow long casual";
+var mnemonic = "sign move inmate rough cycle yellow lucky lawn control fury rocket brand";

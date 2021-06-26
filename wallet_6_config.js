@@ -1,1 +1,1 @@
-var mnemonic = "salute token warfare arena connect credit palm pause april man proof narrow";
+var mnemonic = "donate twelve rural jaguar stomach reopen method amount magic wolf slot swim";

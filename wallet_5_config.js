@@ -1,1 +1,1 @@
-var mnemonic = "evil erosion race bright misery swear husband cricket symptom trumpet reform board";
+var mnemonic = "artefact enter rain purpose sausage lumber quarter regular enter dismiss swamp runway";

@@ -1,1 +1,1 @@
-var mnemonic = "around tomorrow lazy identify now wrong hold song poverty lava project basket";
+var mnemonic = "minute intact atom broom stem popular emotion wreck ladder certain primary fork";

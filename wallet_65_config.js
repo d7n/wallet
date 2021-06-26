@@ -1,1 +1,1 @@
-var mnemonic = "return maple level ring giggle vague adult swarm muscle leisure squirrel mixture";
+var mnemonic = "tuna enrich slim athlete vehicle unfold force attitude voice mosquito jelly notable";

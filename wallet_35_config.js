@@ -1,1 +1,1 @@
-var mnemonic = "tooth slush poverty paddle danger ranch labor lawsuit candy exile trust cook";
+var mnemonic = "title receive move setup stone theme prize board lawsuit unveil museum scorpion";

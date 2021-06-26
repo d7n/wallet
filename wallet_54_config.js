@@ -1,1 +1,1 @@
-var mnemonic = "laptop dinosaur rail virtual gauge catalog theory negative boost kingdom harbor neutral";
+var mnemonic = "trend almost path faint trouble party roof mimic indicate correct siren canyon";

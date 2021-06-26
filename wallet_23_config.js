@@ -1,1 +1,1 @@
-var mnemonic = "bridge print entire cycle minute fuel cigar frown example session digital remind";
+var mnemonic = "pole throw off power tool siren elegant summer copper position reunion lunar";

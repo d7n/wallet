@@ -1,1 +1,1 @@
-var mnemonic = "like insect enter open arrive sample wide speak total random spread swing";
+var mnemonic = "dune miss feed brisk play beef notable treat hawk response submit voice";

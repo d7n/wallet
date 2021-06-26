@@ -1,1 +1,1 @@
-var mnemonic = "effort crush allow pumpkin cheap wide menu glass sense fancy manual clarify";
+var mnemonic = "plastic already round usual march never sound taxi resemble limit pilot shiver";

@@ -1,1 +1,1 @@
-var mnemonic = "pave warfare brief capable round rack width skill obey garden hammer sand";
+var mnemonic = "hint transfer palm obvious alley elephant appear faint treat guilt switch dinner";

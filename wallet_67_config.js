@@ -1,1 +1,1 @@
-var mnemonic = "fog honey casual home wrap palm stand elevator door inform shiver over";
+var mnemonic = "tiny fall pulse name season result whisper adjust clock limit can reduce";

@@ -1,1 +1,1 @@
-var mnemonic = "defense dragon party antenna spirit early idea brick biology embark dress soccer";
+var mnemonic = "sad recipe monster east wrist ugly leaf scrap violin mom wedding point";

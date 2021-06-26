@@ -1,1 +1,1 @@
-var mnemonic = "tent stage bottom laugh suffer rhythm hold stamp fly sand parrot prevent";
+var mnemonic = "cargo plate cabin sponsor version acid there tornado cactus raccoon rally afraid";

@@ -1,1 +1,1 @@
-var mnemonic = "decorate hold journey degree biology wealth smooth glue cabbage seat top essence";
+var mnemonic = "project rail market fresh absurd subway sword suggest table web decline perfect";

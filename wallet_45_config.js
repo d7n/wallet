@@ -1,1 +1,1 @@
-var mnemonic = "shaft table silver fish jungle two divorce before bundle decline random album";
+var mnemonic = "empty half bounce purchase exit exclude squirrel evidence frown infant donkey twenty";

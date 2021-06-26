@@ -1,1 +1,1 @@
-var mnemonic = "welcome vacant tornado message square spatial phrase welcome test reunion north tomato";
+var mnemonic = "lumber target friend reflect distance second flock identify excite unknown guard actual";

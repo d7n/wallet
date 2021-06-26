@@ -1,1 +1,1 @@
-var mnemonic = "round help slice toddler grape giraffe october female reform dentist agree virtual";
+var mnemonic = "demand shove inspire merit actress huge raven spike bubble upgrade style express";
