@@ -1,1 +1,1 @@
-var mnemonic = "chief can together over vibrant mule found reduce dentist chuckle milk episode";
+var mnemonic = "enact kick peace minor gown rebel answer shock civil hip kitchen other";

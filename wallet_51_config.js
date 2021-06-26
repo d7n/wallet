@@ -1,1 +1,1 @@
-var mnemonic = "second taste figure stool flag bring lyrics fatigue garbage worry work gasp";
+var mnemonic = "amazing orbit poet remind corn machine term system stone wedding else have";

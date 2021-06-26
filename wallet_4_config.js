@@ -1,1 +1,1 @@
-var mnemonic = "answer shy cotton notable again old moment liar quote travel visa tourist";
+var mnemonic = "velvet involve topic cover regular uphold seed fiction figure plunge lunch wear";

@@ -1,1 +1,1 @@
-var mnemonic = "solve segment student solar detail salt cross skate quality plug salt chaos";
+var mnemonic = "top venture toe recycle such tray front clock notice assume nature dawn";

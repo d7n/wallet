@@ -1,1 +1,1 @@
-var mnemonic = "napkin wool obscure review stereo fish program culture domain provide sheriff differ";
+var mnemonic = "airport glass soldier kiss budget cousin quiz million mutual erode soccer disagree";

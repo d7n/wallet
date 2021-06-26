@@ -1,1 +1,1 @@
-var mnemonic = "runway recycle loyal fine silver eager rubber dream powder monitor saddle couch";
+var mnemonic = "choose drop stumble crash scorpion net ship aim acquire arena circle canvas";

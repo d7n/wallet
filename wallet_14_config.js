@@ -1,1 +1,1 @@
-var mnemonic = "gravity reduce run engine globe swing kind language expire stock gaze draw";
+var mnemonic = "when another flash near wash winter exchange resemble enrich stairs animal cradle";

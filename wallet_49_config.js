@@ -1,1 +1,1 @@
-var mnemonic = "input bunker stumble father only country sport wise swift donor board urge";
+var mnemonic = "sudden punch yard clarify ghost chief fall neutral sweet kitchen awful alley";

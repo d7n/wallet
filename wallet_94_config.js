@@ -1,1 +1,1 @@
-var mnemonic = "gallery error today congress hello master plug easy energy dolphin despair top";
+var mnemonic = "action exhibit click wood shoe adult wrist blouse subject chaos sad midnight";

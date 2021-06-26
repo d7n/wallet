@@ -1,1 +1,1 @@
-var mnemonic = "december visit artefact draw use trophy skill scan casual dash smoke penalty";
+var mnemonic = "amused mimic napkin emotion theme say one prevent move divert kidney venture";

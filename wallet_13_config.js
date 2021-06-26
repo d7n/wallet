@@ -1,1 +1,1 @@
-var mnemonic = "crouch echo decline link verify mirror guitar knife match diet truly claw";
+var mnemonic = "isolate antenna life wing act retreat promote fitness page shrug ripple wolf";

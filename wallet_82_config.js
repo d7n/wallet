@@ -1,1 +1,1 @@
-var mnemonic = "ketchup join latin bone trick rice film attack scene venture drama hospital";
+var mnemonic = "find champion link position vacuum width live busy debate secret hurry want";

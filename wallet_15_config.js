@@ -1,1 +1,1 @@
-var mnemonic = "egg album obtain deposit turtle engine caution strong poverty health judge build";
+var mnemonic = "dream habit marble river pass slim toward machine tennis defy sea grace";

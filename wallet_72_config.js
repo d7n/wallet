@@ -1,1 +1,1 @@
-var mnemonic = "excuse sugar orphan describe dirt shrimp video kingdom dutch ride unlock repair";
+var mnemonic = "delay leg adult eager speed behind hotel know vessel zero outer inner";

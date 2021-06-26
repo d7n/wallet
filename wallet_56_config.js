@@ -1,1 +1,1 @@
-var mnemonic = "decrease small will undo virus pencil lyrics rabbit banner afford apart climb";
+var mnemonic = "reflect crumble poverty shock robot olympic notable impact behind rack year coconut";

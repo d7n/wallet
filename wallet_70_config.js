@@ -1,1 +1,1 @@
-var mnemonic = "dynamic voice dust betray try gown save bronze isolate border super strike";
+var mnemonic = "annual dial put buzz patch depth kiss primary hidden oak present slow";

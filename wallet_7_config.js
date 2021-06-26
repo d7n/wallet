@@ -1,1 +1,1 @@
-var mnemonic = "black must depart summer iron luxury innocent away swift smooth add share";
+var mnemonic = "exercise accident nest practice want stereo reject radio marble antenna swarm code";

@@ -1,1 +1,1 @@
-var mnemonic = "runway mule enjoy angry goat sadness boy client deputy fence primary eternal";
+var mnemonic = "orbit answer letter extend accident fluid film auction entire mandate buddy reform";

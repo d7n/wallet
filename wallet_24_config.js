@@ -1,1 +1,1 @@
-var mnemonic = "uncover retreat infant warfare buddy timber month kingdom allow paper unusual recycle";
+var mnemonic = "equal demand oval shallow galaxy acid trouble soft garden excess nephew apart";

@@ -1,1 +1,1 @@
-var mnemonic = "warrior among fix engine more liberty announce digital favorite chest dust plate";
+var mnemonic = "february flush assume couple pumpkin dolphin mansion useless push connect winter broccoli";

@@ -1,1 +1,1 @@
-var mnemonic = "sauce solve ring jungle label that crowd picture left cat defy dawn";
+var mnemonic = "sea brief wagon cause gloom zone midnight render vital limb all hello";

@@ -1,1 +1,1 @@
-var mnemonic = "film pupil bronze mail ring problem retreat electric exist hour orange lunar";
+var mnemonic = "help enrich lottery husband pitch also guide panther panic then wonder theory";

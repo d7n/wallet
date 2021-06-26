@@ -1,1 +1,1 @@
-var mnemonic = "hero marine mutual awful vapor virus load menu way moon loan elevator";
+var mnemonic = "suffer sample stone bike spike pass evolve income color empty portion meat";

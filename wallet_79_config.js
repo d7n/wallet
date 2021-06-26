@@ -1,1 +1,1 @@
-var mnemonic = "math unlock original color vendor ketchup ginger wall attack bounce dish owner";
+var mnemonic = "drink library slide liar giggle antenna hedgehog capital fringe olive true follow";

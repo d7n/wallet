@@ -1,1 +1,1 @@
-var mnemonic = "document buffalo grief divert camp another impact among genuine avoid deliver collect";
+var mnemonic = "vacant elevator calm jeans extra sister cannon opera limit choose office pond";

@@ -1,1 +1,1 @@
-var mnemonic = "fire hen february wisdom cannon also edit dune bright crumble wagon able";
+var mnemonic = "pizza fiction antenna cruise destroy version enjoy income link diesel silly update";

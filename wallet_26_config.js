@@ -1,1 +1,1 @@
-var mnemonic = "brick trumpet system urge giggle cupboard fan salt wrap across feel tank";
+var mnemonic = "drop call saddle auto shrug frown soft kitten diary select label aware";

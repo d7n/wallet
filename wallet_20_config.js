@@ -1,1 +1,1 @@
-var mnemonic = "left journey caught produce wood knock gas laundry cigar swim average charge";
+var mnemonic = "ribbon elite frequent inform toss pizza grocery visit globe wagon tower animal";

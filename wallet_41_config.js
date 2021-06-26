@@ -1,1 +1,1 @@
-var mnemonic = "crush wheel pigeon mirror earth beauty polar kangaroo about social clap jar";
+var mnemonic = "winter solar vapor marine egg awkward screen speak shuffle neutral shoulder cave";

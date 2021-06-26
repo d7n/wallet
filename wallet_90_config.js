@@ -1,1 +1,1 @@
-var mnemonic = "like zoo baby coin film food cry repair equal mango good hood";
+var mnemonic = "patient kangaroo shuffle prosper void water cousin leopard client symptom fancy promote";

@@ -1,1 +1,1 @@
-var mnemonic = "similar supreme doctor typical gown acoustic sibling twin length ugly laptop woman";
+var mnemonic = "junk shoe school equal wing opinion source violin broom simple beauty invite";

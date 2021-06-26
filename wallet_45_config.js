@@ -1,1 +1,1 @@
-var mnemonic = "useful blossom run bitter frozen loop prosper stairs lottery above axis short";
+var mnemonic = "become agent plastic inner wide match critic method trigger second pistol fatal";

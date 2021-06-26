@@ -1,1 +1,1 @@
-var mnemonic = "patrol ordinary mobile ability duty buyer beach upper either pledge kiss column";
+var mnemonic = "run banner welcome hole load hurt require tree space shaft soccer ecology";

@@ -1,1 +1,1 @@
-var mnemonic = "ship mammal ecology jump rack marble drama clinic balance library nut exile";
+var mnemonic = "camera alley public mutual lunar shrimp middle embrace oak spin digital genius";

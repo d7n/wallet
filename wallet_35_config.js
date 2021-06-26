@@ -1,1 +1,1 @@
-var mnemonic = "loud legend pole poverty civil until soft muffin above ignore inflict describe";
+var mnemonic = "dance across hello illegal permit expose jealous gentle bus divide feel viable";

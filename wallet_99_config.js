@@ -1,1 +1,1 @@
-var mnemonic = "pizza wear trouble initial news circle brown clip midnight give please crash";
+var mnemonic = "sunny piano orphan tomato prosper rabbit lumber hope abstract antique office guitar";

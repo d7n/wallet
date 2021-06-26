@@ -1,1 +1,1 @@
-var mnemonic = "joke boil puppy urge couple tomato jazz tortoise arrow garage dignity guide";
+var mnemonic = "camp gorilla behind pact swift champion expect number bread leopard chase pencil";

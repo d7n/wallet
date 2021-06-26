@@ -1,1 +1,1 @@
-var mnemonic = "now output cake vault ripple target check quick fault daring just arrest";
+var mnemonic = "news margin crisp forward crucial pave reveal screen bubble hazard hockey ramp";

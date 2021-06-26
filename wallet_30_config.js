@@ -1,1 +1,1 @@
-var mnemonic = "code news impulse cake core cross key hospital edge people grace phone";
+var mnemonic = "rhythm detect lock february stage nurse ivory wear fault paper gun meat";

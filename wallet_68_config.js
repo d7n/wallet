@@ -1,1 +1,1 @@
-var mnemonic = "output wild smile coyote canvas advice purchase sun popular window royal tide";
+var mnemonic = "gospel just staff ride wine unable region memory bacon original potato tape";

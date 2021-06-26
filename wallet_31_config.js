@@ -1,1 +1,1 @@
-var mnemonic = "awful lesson gadget lumber walk rent digital float fringe humble impact frog";
+var mnemonic = "joke car between exclude evidence element brush submit disorder obscure staff silk";

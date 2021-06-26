@@ -1,1 +1,1 @@
-var mnemonic = "vague sample path clerk assume brother desert shine around danger sausage paper";
+var mnemonic = "moon filter wrap often critic tiger gain soft grab toy saddle notice";

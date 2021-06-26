@@ -1,1 +1,1 @@
-var mnemonic = "tone vanish village enlist satoshi draw foam match pioneer tackle return change";
+var mnemonic = "crater begin carbon romance mansion swing spread witness flee rare matter garage";

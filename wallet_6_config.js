@@ -1,1 +1,1 @@
-var mnemonic = "tide defy adult scale case assume camera float find cigar festival stadium";
+var mnemonic = "clown village flower help village wear mammal useful weekend climb second poet";

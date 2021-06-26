@@ -1,1 +1,1 @@
-var mnemonic = "magic sentence casino knee merge original endorse blush metal bid already mixture";
+var mnemonic = "lava problem glance grocery brisk champion parade silly prevent brief way amateur";

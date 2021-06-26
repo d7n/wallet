@@ -1,1 +1,1 @@
-var mnemonic = "bunker list joke salad juice work economy shrimp poem denial other crack";
+var mnemonic = "vivid drink answer soft viable iron certain butter announce sheriff among antenna";

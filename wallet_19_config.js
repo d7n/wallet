@@ -1,1 +1,1 @@
-var mnemonic = "enlist asset space seek brain wrong wrestle pupil busy voice visit mail";
+var mnemonic = "material dutch vacant injury canyon unhappy weather please summer detail obvious mango";

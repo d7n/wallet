@@ -1,1 +1,1 @@
-var mnemonic = "decrease left hour blossom ski normal vanish castle parrot exotic talent fruit";
+var mnemonic = "stand walnut recycle exclude valley near hold toast lady state song jazz";

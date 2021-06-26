@@ -1,1 +1,1 @@
-var mnemonic = "patient zero addict insane language west hamster canoe spoil scale nice cram";
+var mnemonic = "false tribe stuff expand glow expect verify identify onion super birth oyster";

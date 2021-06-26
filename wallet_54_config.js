@@ -1,1 +1,1 @@
-var mnemonic = "screen shell begin pipe someone napkin dwarf eye assume mutual crawl unhappy";
+var mnemonic = "relax ghost once estate hunt denial glad peasant rally name raw squirrel";

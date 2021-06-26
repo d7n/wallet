@@ -1,1 +1,1 @@
-var mnemonic = "paper mansion state thought sugar wheel bronze bomb uniform assault junk repair";
+var mnemonic = "ready price rebel syrup rapid urban normal eight human mobile radio grain";

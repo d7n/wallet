@@ -1,1 +1,1 @@
-var mnemonic = "deputy sail indicate bag antique wheel parent skill skate royal leisure shy";
+var mnemonic = "card moral smile buddy steel hero sleep snow cliff creek chapter veteran";

@@ -1,1 +1,1 @@
-var mnemonic = "before spend save hover powder runway member aerobic giant cotton leave flag";
+var mnemonic = "state kiwi brave surface sword bracket cup august section must path badge";

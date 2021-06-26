@@ -1,1 +1,1 @@
-var mnemonic = "view word carpet poem jelly boost easily unveil visa receive ribbon pottery";
+var mnemonic = "rare jeans vocal recall tortoise vast valid derive orange slow expire liquid";

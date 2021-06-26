@@ -1,1 +1,1 @@
-var mnemonic = "veteran butter flip sadness occur learn forum trust convince canyon fade spoil";
+var mnemonic = "erupt argue ostrich roast tool deer lottery warrior choose pole mass shine";

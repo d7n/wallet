@@ -1,1 +1,1 @@
-var mnemonic = "awake foam since thought cattle strike arrow gasp foot guess believe panic";
+var mnemonic = "struggle refuse raise forward cart answer alert screen once always chimney bind";

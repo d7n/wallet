@@ -1,1 +1,1 @@
-var mnemonic = "whisper vast differ beyond crazy dawn fresh present pair budget olive slush";
+var mnemonic = "can multiply story rate clinic poverty essence either silk cup axis feed";

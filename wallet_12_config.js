@@ -1,1 +1,1 @@
-var mnemonic = "concert notice sort under lava noise mom coast loud click case kingdom";
+var mnemonic = "glimpse mean kidney above tomato tiger sand harbor heart situate museum legend";

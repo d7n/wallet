@@ -1,1 +1,1 @@
-var mnemonic = "chat hello maid play what target harbor permit feel reopen income horse";
+var mnemonic = "learn job swim lady ripple this music noble oppose name upon alien";

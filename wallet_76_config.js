@@ -1,1 +1,1 @@
-var mnemonic = "sketch absent where mercy duck female afford member volume net fork nurse";
+var mnemonic = "leisure gun robust top chaos furnace receive creek sell print height rival";

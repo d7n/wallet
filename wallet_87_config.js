@@ -1,1 +1,1 @@
-var mnemonic = "bracket know panel rib oxygen sound embody gun hello grape eager mouse";
+var mnemonic = "myself solve clerk banana virus sea today negative turn dress door crane";

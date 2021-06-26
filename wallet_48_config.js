@@ -1,1 +1,1 @@
-var mnemonic = "normal leader fit grunt rent menu pair erosion float basket ketchup fluid";
+var mnemonic = "account pull rain kite assume reject quick ancient seek into fold mistake";

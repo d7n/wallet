@@ -1,1 +1,1 @@
-var mnemonic = "achieve device pride donate very submit stick surface about endless vault magic";
+var mnemonic = "vote popular roast dentist reunion guitar under boring media quit wage border";

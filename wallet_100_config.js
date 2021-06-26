@@ -1,1 +1,1 @@
-var mnemonic = "muffin pipe spell enter filter liar catalog aunt opera two solution cheap";
+var mnemonic = "bachelor famous walk coconut actress accident hen skate submit divert aware hand";

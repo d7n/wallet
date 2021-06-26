@@ -1,1 +1,1 @@
-var mnemonic = "unique square injury blue tobacco system topple output enjoy truth ride worry";
+var mnemonic = "initial pact wheat actual quick between sponsor online diary nation barely expect";

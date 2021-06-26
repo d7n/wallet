@@ -1,1 +1,1 @@
-var mnemonic = "wonder admit flight eyebrow such fortune athlete squirrel yellow climb egg genre";
+var mnemonic = "twin twelve document glove ramp voice bracket poem still risk distance oak";

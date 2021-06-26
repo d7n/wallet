@@ -1,1 +1,1 @@
-var mnemonic = "trouble monkey verify sponsor laugh need engine service aspect author satisfy limb";
+var mnemonic = "stone same weapon pigeon wheel must forward job ship modify blossom coyote";

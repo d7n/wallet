@@ -1,1 +1,1 @@
-var mnemonic = "skate champion supply cancel fish belt century olympic swim trouble ordinary cross";
+var mnemonic = "edge faint cabin clarify render drastic interest setup woman middle outside palm";

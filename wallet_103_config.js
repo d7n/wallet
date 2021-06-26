@@ -1,1 +1,1 @@
-var mnemonic = "velvet soul filter connect drip online toilet pupil infant modify tone plunge";
+var mnemonic = "repair element expand unknown host surround ritual ketchup ecology detect become sorry";

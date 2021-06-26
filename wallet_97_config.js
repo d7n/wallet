@@ -1,1 +1,1 @@
-var mnemonic = "since piano click mammal scan man quality area nature music sound crunch";
+var mnemonic = "online firm stove decide elbow patrol horse chief pear retire eye height";

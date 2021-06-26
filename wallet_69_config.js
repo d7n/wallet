@@ -1,1 +1,1 @@
-var mnemonic = "vapor sweet flag music alone plate inner unfold scrub quarter worth baby";
+var mnemonic = "moon brother velvet matter predict math hybrid camp million ethics dog lesson";

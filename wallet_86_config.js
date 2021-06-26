@@ -1,1 +1,1 @@
-var mnemonic = "dizzy until camp shuffle segment orphan gown ring lawsuit jelly educate bacon";
+var mnemonic = "wealth shiver guess aim embark document moment current rebuild jacket old friend";

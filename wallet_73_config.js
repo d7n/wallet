@@ -1,1 +1,1 @@
-var mnemonic = "glad hungry letter shrimp denial innocent sting list easy offer include secret";
+var mnemonic = "hunt limb arm three clean keen taste siren silk luxury spoon hurdle";

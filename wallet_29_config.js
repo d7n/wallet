@@ -1,1 +1,1 @@
-var mnemonic = "that couch crowd spy year during key sorry slogan south lawn teach";
+var mnemonic = "innocent skirt okay apple chronic symptom health day kid idle roof glove";

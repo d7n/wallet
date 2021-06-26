@@ -1,1 +1,1 @@
-var mnemonic = "master divert tell quality pair cart gap glass deliver latin soon increase";
+var mnemonic = "noodle home search field arctic fade leg tool tribe ensure chicken tape";

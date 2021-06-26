@@ -1,1 +1,1 @@
-var mnemonic = "urge rural business tourist sentence split case supply crop always critic clap";
+var mnemonic = "jacket muffin visual test upgrade trip clerk scheme rough column ankle liberty";

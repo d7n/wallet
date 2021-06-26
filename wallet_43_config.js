@@ -1,1 +1,1 @@
-var mnemonic = "reform title behind soda spin side avocado spy flip pole express since";
+var mnemonic = "upgrade tongue relax transfer wrong venture eye artefact glance final gentle boss";

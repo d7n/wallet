@@ -1,1 +1,1 @@
-var mnemonic = "glide hint renew view law candy twin fossil grow blossom stone oppose";
+var mnemonic = "genuine feed maple right proof off there story country install crop project";

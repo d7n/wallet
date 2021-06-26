@@ -1,1 +1,1 @@
-var mnemonic = "sound trick feed clever away critic utility network trip myself rail ten";
+var mnemonic = "today cargo dress badge crystal fine rubber recycle mercy moral emerge daring";

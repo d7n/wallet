@@ -1,1 +1,1 @@
-var mnemonic = "warm strategy please come fire label radar rail shield donkey peasant rude";
+var mnemonic = "time endorse atom topic ghost armor delay robust learn enable warrior analyst";

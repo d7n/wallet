@@ -1,1 +1,1 @@
-var mnemonic = "wide alcohol rally valley century bulk device planet board gap horse design";
+var mnemonic = "insane rookie famous bundle car book vacuum wonder arctic orbit staff license";

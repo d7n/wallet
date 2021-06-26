@@ -1,1 +1,1 @@
-var mnemonic = "borrow rotate tilt dish over tooth machine flock lady lift have urban";
+var mnemonic = "bless mirror attitude hole scorpion castle grow lawn duty tide plastic ready";

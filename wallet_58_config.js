@@ -1,1 +1,1 @@
-var mnemonic = "lake alcohol bulk sting transfer stable payment fluid hockey media raise list";
+var mnemonic = "caution only slot faint remember gap canoe enlist team flip drill agent";

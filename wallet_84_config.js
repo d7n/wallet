@@ -1,1 +1,1 @@
-var mnemonic = "sunset satoshi fire stay net speed lion setup glad antenna enforce index";
+var mnemonic = "page maze hard weapon camp indoor plastic option clump surface jungle identify";

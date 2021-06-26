@@ -1,1 +1,1 @@
-var mnemonic = "matrix pottery speed exhibit music stool creek bulb define measure youth urban";
+var mnemonic = "stumble dolphin veteran attack wave client spoon cherry february race usage settle";

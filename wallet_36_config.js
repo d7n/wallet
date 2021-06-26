@@ -1,1 +1,1 @@
-var mnemonic = "elite tide problem absorb require mad ski genuine foot arrow collect vanish";
+var mnemonic = "pool adjust grit fitness urge erosion zone predict wage autumn fatal puppy";

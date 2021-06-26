@@ -1,1 +1,1 @@
-var mnemonic = "useful frame lawn park voice horror beach emotion tomato slight unique recipe";
+var mnemonic = "elbow finish mesh lazy pause oven child slab wet hotel rather prevent";

@@ -1,1 +1,1 @@
-var mnemonic = "title viable multiply lens bamboo similar impose dwarf vivid include identify imitate";
+var mnemonic = "apology swim sketch pigeon wet initial book paddle left air number slide";

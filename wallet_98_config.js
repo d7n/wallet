@@ -1,1 +1,1 @@
-var mnemonic = "inject poverty average hawk mesh water any still unfold faith size left";
+var mnemonic = "amused crane good absent file elegant salad museum wrist drop seven kid";
