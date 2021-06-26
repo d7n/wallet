@@ -1,1 +1,1 @@
-var mnemonic = "human fresh trust little shrimp mammal rifle lottery arrive sudden orbit pyramid";
+var mnemonic = "mercy mule analyst extend home noble bicycle shop loud rice joke piano";

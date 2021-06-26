@@ -1,1 +1,1 @@
-var mnemonic = "betray below knee gift outdoor vague fever toward unveil cave cargo reason";
+var mnemonic = "hurry short stomach motor bone movie elbow dinner notable flat process version";

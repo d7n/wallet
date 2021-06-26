@@ -1,1 +1,1 @@
-var mnemonic = "dial pyramid weasel firm exist cinnamon proof frequent basket control tourist effort";
+var mnemonic = "stereo stairs snap middle elevator olive wise silver police hungry helmet donor";

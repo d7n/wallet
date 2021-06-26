@@ -1,1 +1,1 @@
-var mnemonic = "atom near brand alien judge forward wood citizen enforce route random video";
+var mnemonic = "uniform little fault tackle staff nerve capable piano match eagle differ project";

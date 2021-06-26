@@ -1,1 +1,1 @@
-var mnemonic = "ski hand range begin vibrant payment liar slim cart enjoy expire rather";
+var mnemonic = "ordinary novel lunar grow finish gain sound wedding zone piece front abandon";

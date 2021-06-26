@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow dish mail tree cruise olive achieve romance mutual plug venture annual";
+var mnemonic = "vessel series vague butter erosion toast denial carpet attend stable february come";

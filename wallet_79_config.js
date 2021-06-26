@@ -1,1 +1,1 @@
-var mnemonic = "hybrid title despair fiction dial pulp focus avocado easy odor goat silk";
+var mnemonic = "tag leave oven heavy bench case unlock have drink property board behave";

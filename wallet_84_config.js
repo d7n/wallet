@@ -1,1 +1,1 @@
-var mnemonic = "mystery rescue cake fame loud bargain immense anger buyer atom fever canvas";
+var mnemonic = "cluster beach pill patient memory cook nose enough crash oblige cube focus";

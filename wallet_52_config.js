@@ -1,1 +1,1 @@
-var mnemonic = "artefact salt elevator swing wise under tackle shallow plastic link concert claw";
+var mnemonic = "pony tower census evolve damage symbol cost oxygen ostrich material scrap sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "swing surge idle zoo afraid ring leave stove uniform poverty combine kite";
+var mnemonic = "code flat cushion canoe broccoli actress phone bulk cheese history jacket garment";

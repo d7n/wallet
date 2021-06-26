@@ -1,1 +1,1 @@
-var mnemonic = "crop front gold canyon food vote already network trip random shift bachelor";
+var mnemonic = "humble usage surface point eyebrow fee bottom feed coral capable seed stand";

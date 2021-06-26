@@ -1,1 +1,1 @@
-var mnemonic = "upset couch category vessel absorb exact journey minimum drift crawl resource make";
+var mnemonic = "reopen play soccer deposit disorder piano remind crush net off shrimp finish";

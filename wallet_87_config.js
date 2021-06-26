@@ -1,1 +1,1 @@
-var mnemonic = "foster stereo special antique way desk ramp desert rural empty pole check";
+var mnemonic = "desert phrase funny put govern cotton sad guess include museum differ promote";

@@ -1,1 +1,1 @@
-var mnemonic = "lonely head rebel cage resemble mushroom flight scan adjust music weasel fetch";
+var mnemonic = "adapt exit lottery pluck method rookie nothing gauge reason bring cart inquiry";

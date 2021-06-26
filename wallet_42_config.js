@@ -1,1 +1,1 @@
-var mnemonic = "since path display beef snake method brother drum frost catch ketchup ice";
+var mnemonic = "beach spread slice sun burst hire speak disease trend fever void torch";

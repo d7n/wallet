@@ -1,1 +1,1 @@
-var mnemonic = "strong syrup kiss already trumpet actor visual emotion chimney sound become warm";
+var mnemonic = "space better name faint belt normal history dose rabbit zebra squeeze leave";

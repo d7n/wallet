@@ -1,1 +1,1 @@
-var mnemonic = "try leave digital such push gauge solution card brave when edge run";
+var mnemonic = "body remind social local useful ceiling denial check pencil business remind zero";

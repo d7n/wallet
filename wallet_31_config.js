@@ -1,1 +1,1 @@
-var mnemonic = "run foil youth metal useful never rice piece lonely already design syrup";
+var mnemonic = "jungle stumble now clever have impact apart upper retreat list leave light";

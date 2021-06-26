@@ -1,1 +1,1 @@
-var mnemonic = "damp minor lava island level business place tragic hover trap else lift";
+var mnemonic = "click car effort daring light ugly often copper hockey catalog grape happy";

@@ -1,1 +1,1 @@
-var mnemonic = "arrow left trend relax lonely punch foil couple riot addict hold shield";
+var mnemonic = "glue deer ask debate around odor decide auto exclude theme into few";

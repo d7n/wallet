@@ -1,1 +1,1 @@
-var mnemonic = "quality price coffee child weird sting power medal join where pitch error";
+var mnemonic = "confirm vacant obvious awful predict design virtual library lottery obvious cushion scout";

@@ -1,1 +1,1 @@
-var mnemonic = "real craft chaos bonus strike key shadow rough empty ribbon world exhibit";
+var mnemonic = "grit south celery bundle wish knee fantasy lift crime remember session reopen";

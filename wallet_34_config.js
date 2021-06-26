@@ -1,1 +1,1 @@
-var mnemonic = "drip stock awkward core utility power oblige curve pause hospital group twelve";
+var mnemonic = "shell angry behind clean renew nose tobacco shrimp spoon vault clinic flag";

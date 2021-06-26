@@ -1,1 +1,1 @@
-var mnemonic = "upper vintage bid worth flower rain toy divide adult brave chair jungle";
+var mnemonic = "inject people trap ostrich kite simple palm garlic good split pulp ignore";

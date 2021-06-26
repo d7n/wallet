@@ -1,1 +1,1 @@
-var mnemonic = "turn cute path heavy grunt season level today embody begin novel gate";
+var mnemonic = "crowd city allow surge nature perfect that clever must resemble motor concert";

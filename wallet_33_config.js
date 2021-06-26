@@ -1,1 +1,1 @@
-var mnemonic = "awake gentle icon spot buzz upgrade high grit document cushion climb blur";
+var mnemonic = "sport stage region soup shadow inside frost exhaust dilemma olive ill check";

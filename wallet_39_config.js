@@ -1,1 +1,1 @@
-var mnemonic = "gold ski pelican slogan glove device lumber ivory verify fatal motion destroy";
+var mnemonic = "web abstract item never symbol galaxy what aware kitchen wasp donate age";

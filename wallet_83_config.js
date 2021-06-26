@@ -1,1 +1,1 @@
-var mnemonic = "fashion faith into novel canal broken subway render finger okay drift expose";
+var mnemonic = "butter response lumber faith valve liar either angle tail harbor merry border";

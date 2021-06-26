@@ -1,1 +1,1 @@
-var mnemonic = "early symptom develop else moment tenant portion legal core hybrid crater small";
+var mnemonic = "genre lecture name trust gorilla moral design wheel season among fringe basic";

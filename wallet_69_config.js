@@ -1,1 +1,1 @@
-var mnemonic = "logic upset judge alpha august else slogan diet same soul demise balance";
+var mnemonic = "offer coast kiss veteran nose peace mesh duck soon salon eight super";

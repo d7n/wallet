@@ -1,1 +1,1 @@
-var mnemonic = "high one say maze network sugar party empower cricket want message bargain";
+var mnemonic = "run mask circle athlete concert jelly direct vital pair sudden clog tell";

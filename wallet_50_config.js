@@ -1,1 +1,1 @@
-var mnemonic = "misery food flash patch vital valid avoid child wide practice general wool";
+var mnemonic = "balance amused slow metal elite erase pear chest family breeze spot cliff";

@@ -1,1 +1,1 @@
-var mnemonic = "party emotion expect inject song afford swing jeans during ugly style rotate";
+var mnemonic = "clinic dream chronic witness shock industry fade chunk resource stand page fish";

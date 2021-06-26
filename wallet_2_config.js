@@ -1,1 +1,1 @@
-var mnemonic = "hazard salon wise fork raw crazy panic seminar purpose trumpet tuition goat";
+var mnemonic = "permit click moral obtain orient slush banana melt more tree grain unaware";

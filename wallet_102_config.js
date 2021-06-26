@@ -1,1 +1,1 @@
-var mnemonic = "actual process ring strategy dune flag ignore deal layer dwarf fiscal tube";
+var mnemonic = "candy scissors collect object raven oven scene remain thumb nut fitness celery";

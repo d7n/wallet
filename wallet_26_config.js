@@ -1,1 +1,1 @@
-var mnemonic = "tag shrimp muffin chef letter creek effort opera frozen minute involve sign";
+var mnemonic = "punch topic around inside bind winner doll nice action fever traffic phone";

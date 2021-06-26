@@ -1,1 +1,1 @@
-var mnemonic = "expose choice predict sand shift sunset leisure broken boy fiber swing chuckle";
+var mnemonic = "hello element phrase unique length recall toddler bronze mouse luxury myth swamp";

@@ -1,1 +1,1 @@
-var mnemonic = "code gentle orchard prepare length spirit hen hobby shine meat sphere nest";
+var mnemonic = "purse brown tank congress kidney rubber neglect lawsuit silver cruel gadget oil";

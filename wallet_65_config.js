@@ -1,1 +1,1 @@
-var mnemonic = "vocal jump arrest prosper movie admit broken loyal fuel mom run design";
+var mnemonic = "public welcome weird acoustic gaze sweet lumber run dune admit sphere echo";

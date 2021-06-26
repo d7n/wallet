@@ -1,1 +1,1 @@
-var mnemonic = "stick cannon odor curtain copy talent dove drastic jealous hood flash half";
+var mnemonic = "ball hole palace enrich once food twist talent twist stage cool cushion";

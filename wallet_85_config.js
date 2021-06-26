@@ -1,1 +1,1 @@
-var mnemonic = "act just move shiver ghost reunion whale inherit mention help velvet borrow";
+var mnemonic = "ecology phrase script build tumble chapter chunk stock leave embody swamp boss";

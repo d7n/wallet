@@ -1,1 +1,1 @@
-var mnemonic = "proof lyrics onion bulk slot foot amateur arm caught wire swallow relax";
+var mnemonic = "picnic source apart umbrella violin sniff make public lottery shell absorb praise";

@@ -1,1 +1,1 @@
-var mnemonic = "episode cart system roast mystery level calm girl maximum prepare juice indicate";
+var mnemonic = "envelope tiger milk pupil prize various blast regret appear apology security material";

@@ -1,1 +1,1 @@
-var mnemonic = "funny aerobic derive vapor drama grief mother extend ritual between unknown scrub";
+var mnemonic = "sudden general tourist casual parent grit glance naive strong frozen dragon waste";

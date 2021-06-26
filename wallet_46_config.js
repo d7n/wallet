@@ -1,1 +1,1 @@
-var mnemonic = "same sight pledge aspect hungry gesture coin void bleak govern isolate rebel";
+var mnemonic = "midnight laundry silly ethics bullet prosper master acquire degree dwarf churn tiny";

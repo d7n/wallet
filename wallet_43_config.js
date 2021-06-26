@@ -1,1 +1,1 @@
-var mnemonic = "vital pretty verb giggle until lock primary music recall arena aware hockey";
+var mnemonic = "prison economy crumble post smoke team worry spider naive symptom female garden";

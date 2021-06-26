@@ -1,1 +1,1 @@
-var mnemonic = "tonight warm useful bulb rely unique library sleep runway indicate improve strike";
+var mnemonic = "sustain kid final sausage pill task banner unlock alcohol remember scrub bus";

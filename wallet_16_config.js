@@ -1,1 +1,1 @@
-var mnemonic = "run decade foam buffalo yard rib twin stove pair abstract section fox";
+var mnemonic = "radio zoo frozen spirit final lady era auto snack busy copy uphold";

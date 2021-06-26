@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog clog promote churn emotion meadow eyebrow upgrade rude laugh later copy";
+var mnemonic = "clever near crater seed replace wasp sight purchase say west concert puppy";

@@ -1,1 +1,1 @@
-var mnemonic = "arch age ribbon input output emotion maple average receive powder crunch satoshi";
+var mnemonic = "reveal mouse margin boat tonight sunset gossip rose shed measure effort wrap";

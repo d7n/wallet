@@ -1,1 +1,1 @@
-var mnemonic = "tooth about pyramid garden lock text asthma year bone garbage dinner person";
+var mnemonic = "arrive hamster entire grant valve mercy guide jelly ship neutral six rapid";

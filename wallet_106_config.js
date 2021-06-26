@@ -1,1 +1,1 @@
-var mnemonic = "robot initial stereo duck can valley project cruel test universe pudding clarify";
+var mnemonic = "follow romance must find muffin amount little excuse coconut impose huge inspire";

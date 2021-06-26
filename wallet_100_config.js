@@ -1,1 +1,1 @@
-var mnemonic = "member urban slam cream copper width afford soda twin cancel space fresh";
+var mnemonic = "fuel work choice treat network slam pluck fringe road slab clever aware";

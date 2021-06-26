@@ -1,1 +1,1 @@
-var mnemonic = "spring alter practice brown evil panther insane game slender height blood capable";
+var mnemonic = "sibling sign silver infant theme disagree slush survey sustain prison affair verb";

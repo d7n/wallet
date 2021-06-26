@@ -1,1 +1,1 @@
-var mnemonic = "cheap pledge define escape alter found owner link rescue verify speed emerge";
+var mnemonic = "witness state tenant gasp sheriff sick symptom turn buffalo time piece jelly";

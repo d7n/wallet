@@ -1,1 +1,1 @@
-var mnemonic = "ask blade critic bacon extend kit novel cook exhaust sail stereo mushroom";
+var mnemonic = "wait bottom seat seminar erode obscure all ozone half wink coffee dust";

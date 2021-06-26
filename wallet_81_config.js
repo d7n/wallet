@@ -1,1 +1,1 @@
-var mnemonic = "cram nose there tooth skin myself eight session cupboard pony aisle noble";
+var mnemonic = "good left consider warm crowd chaos remain search situate liquid oven cover";

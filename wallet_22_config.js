@@ -1,1 +1,1 @@
-var mnemonic = "lion birth tool horn vibrant ankle rather crystal hint question private fat";
+var mnemonic = "supreme deer slender soccer vivid vehicle arrive right risk possible bicycle dance";

@@ -1,1 +1,1 @@
-var mnemonic = "stomach ancient tongue attitude urban high gallery miracle electric razor hood execute";
+var mnemonic = "old goat height resource black damp robust print truly cycle custom fly";

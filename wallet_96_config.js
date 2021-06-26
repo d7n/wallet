@@ -1,1 +1,1 @@
-var mnemonic = "crop artefact certain very direct ethics knife month mosquito scatter basket diary";
+var mnemonic = "angle brush deposit artist topple ill goddess deal palm eagle correct army";

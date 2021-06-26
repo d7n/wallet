@@ -1,1 +1,1 @@
-var mnemonic = "stone tourist plug pyramid fruit enroll used salad toe lonely sword vacuum";
+var mnemonic = "pencil pact morning expand human thrive priority harvest basket use similar search";

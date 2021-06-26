@@ -1,1 +1,1 @@
-var mnemonic = "tired someone ready pupil remain violin project chair october april vote wash";
+var mnemonic = "library place net save twin island friend shine firm renew rib exile";

@@ -1,1 +1,1 @@
-var mnemonic = "help tackle urge engine monitor diamond nation arrange conduct blood utility file";
+var mnemonic = "color clutch stadium ice patrol when isolate route equal accident embrace license";

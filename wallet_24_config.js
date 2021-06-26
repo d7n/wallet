@@ -1,1 +1,1 @@
-var mnemonic = "usage jacket invite armor century early finger walk photo pig merry cricket";
+var mnemonic = "country ritual lottery elevator squirrel dignity habit fatigue oxygen round owner runway";

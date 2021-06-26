@@ -1,1 +1,1 @@
-var mnemonic = "increase engage dirt spider merit elite art key sure angry liar useful";
+var mnemonic = "target trap cause exclude confirm damage settle leg couple satisfy picture night";

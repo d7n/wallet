@@ -1,1 +1,1 @@
-var mnemonic = "giant day before fitness unfair labor raw current arch twenty chef clarify";
+var mnemonic = "employ prize account space zoo hammer second social bubble rare fiber spray";

@@ -1,1 +1,1 @@
-var mnemonic = "angle pull unlock beauty obscure disorder hobby spy pear wide second today";
+var mnemonic = "salad rotate goose enroll year fatal sick pet gasp occur focus athlete";

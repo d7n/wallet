@@ -1,1 +1,1 @@
-var mnemonic = "teach kiwi glass crop cricket pool unhappy trend luggage duck ocean destroy";
+var mnemonic = "involve prison salt this exact total noise parade soap twist wash valve";

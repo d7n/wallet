@@ -1,1 +1,1 @@
-var mnemonic = "dad robust dragon ecology real cost security bunker tool need census drink";
+var mnemonic = "dash brain inform upset bundle volcano giraffe service fault nuclear layer comfort";

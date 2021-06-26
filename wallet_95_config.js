@@ -1,1 +1,1 @@
-var mnemonic = "chuckle already alcohol soul daughter ketchup enough husband glory common duck gallery";
+var mnemonic = "wink give imitate sweet treat nuclear prosper receive artwork mask riot sniff";

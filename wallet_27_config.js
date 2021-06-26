@@ -1,1 +1,1 @@
-var mnemonic = "happy health sentence margin patch empower pattern dynamic orbit modify sphere eight";
+var mnemonic = "toward prison behave ensure hero father guilt family judge fatigue sponsor ill";

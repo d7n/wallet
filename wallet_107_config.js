@@ -1,1 +1,1 @@
-var mnemonic = "hurt letter jungle tobacco menu intact upon render peace doctor advance cruel";
+var mnemonic = "sell fix dawn glance rescue fan screen zero pencil super shoe urge";

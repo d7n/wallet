@@ -1,1 +1,1 @@
-var mnemonic = "cupboard pool annual curtain kite elite theme vital final beyond sign cat";
+var mnemonic = "silly virus kingdom fashion blossom toss great company normal eagle arrest school";

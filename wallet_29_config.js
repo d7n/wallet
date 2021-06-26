@@ -1,1 +1,1 @@
-var mnemonic = "daughter private crunch autumn useless tomorrow nurse until naive spatial brain relief";
+var mnemonic = "clap wasp sad dust cake cigar clever involve shell entry husband legend";

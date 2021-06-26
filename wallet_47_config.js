@@ -1,1 +1,1 @@
-var mnemonic = "skull pole term consider unit return purity leader away spell chief weapon";
+var mnemonic = "please spy hole noble depth under alcohol tongue donkey fresh universe pistol";

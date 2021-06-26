@@ -1,1 +1,1 @@
-var mnemonic = "nation gloom broccoli lab conduct monkey ostrich transfer hello wild bounce adult";
+var mnemonic = "autumn essay make bitter visa drop person ski valve above fold flight";

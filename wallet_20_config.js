@@ -1,1 +1,1 @@
-var mnemonic = "smart dinosaur refuse prevent reform steak choose divorce zoo medal mandate picture";
+var mnemonic = "sausage nuclear basic egg morning valve slam excess logic horn rapid reform";

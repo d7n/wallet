@@ -1,1 +1,1 @@
-var mnemonic = "object spawn ski sport basket hat clarify chief sock fury crane flight";
+var mnemonic = "bulk maple reduce master truly wealth amazing cancel wild mean hair ecology";

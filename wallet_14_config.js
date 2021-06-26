@@ -1,1 +1,1 @@
-var mnemonic = "solid future bonus acid forest bamboo era simple bone artwork legal tragic";
+var mnemonic = "ride mirror mammal argue paper grocery entire similar rural flush velvet mobile";

@@ -1,1 +1,1 @@
-var mnemonic = "wrap inner merit equal trade donkey baby crunch rib federal morning track";
+var mnemonic = "sudden nice web limit rotate allow mistake extend venue better season snap";

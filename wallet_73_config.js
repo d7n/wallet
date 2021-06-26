@@ -1,1 +1,1 @@
-var mnemonic = "ahead prevent chef consider laptop attitude shoulder paper runway knee grunt become";
+var mnemonic = "humble tube art label gentle cage real honey notable lumber board adult";

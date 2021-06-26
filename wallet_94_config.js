@@ -1,1 +1,1 @@
-var mnemonic = "soft stick exclude below isolate grid coin worry clown inform pigeon ball";
+var mnemonic = "crop police isolate suspect wire aunt rail hurry normal camera flash drink";

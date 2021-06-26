@@ -1,1 +1,1 @@
-var mnemonic = "spider saddle child inject story game horror general autumn kid copy expand";
+var mnemonic = "distance ensure total novel neither party buzz blind letter into brief upgrade";

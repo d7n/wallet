@@ -1,1 +1,1 @@
-var mnemonic = "title random try curve entry crane much search basket chef rather debate";
+var mnemonic = "talent adult want maze isolate title balance flower organ screen sure crater";

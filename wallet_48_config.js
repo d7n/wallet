@@ -1,1 +1,1 @@
-var mnemonic = "session drop innocent case repeat voyage venture mad width gallery trigger famous";
+var mnemonic = "decade party fault maid point ancient marriage measure trust render circle want";

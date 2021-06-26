@@ -1,1 +1,1 @@
-var mnemonic = "price glove annual answer crowd vital chef often conduct knife wrap kingdom";
+var mnemonic = "truck assault forward emotion ritual brain creek between flight resemble mom icon";

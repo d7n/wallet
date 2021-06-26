@@ -1,1 +1,1 @@
-var mnemonic = "minimum leopard enhance pelican wife catch length balance organ roof taste become";
+var mnemonic = "cigar someone card comfort nerve tail car dwarf sausage range clip rain";

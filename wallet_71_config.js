@@ -1,1 +1,1 @@
-var mnemonic = "pretty pole devote again black parade lunch when puppy alone stamp fire";
+var mnemonic = "second camera gesture ball glow cage glory lazy idea accident double seed";

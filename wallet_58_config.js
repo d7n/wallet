@@ -1,1 +1,1 @@
-var mnemonic = "maze law message spike moon law verify fire direct umbrella snack hockey";
+var mnemonic = "cradle same round click process august bridge all sell royal alarm sand";

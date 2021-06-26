@@ -1,1 +1,1 @@
-var mnemonic = "give raise protect cream hamster render trigger scrap among tuna want inch";
+var mnemonic = "husband quote between ice flower item island peasant embody thing stomach answer";

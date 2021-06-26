@@ -1,1 +1,1 @@
-var mnemonic = "episode dawn wine normal burger similar actress ugly cruel squirrel kidney jacket";
+var mnemonic = "comfort venture appear carry brother sun kingdom hope tribe diagram walk tenant";

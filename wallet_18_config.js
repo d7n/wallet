@@ -1,1 +1,1 @@
-var mnemonic = "adult culture same lizard kick weapon hover exotic casual glimpse title hint";
+var mnemonic = "shadow girl lab clerk laugh ability learn monster tortoise dial anger fish";

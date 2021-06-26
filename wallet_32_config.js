@@ -1,1 +1,1 @@
-var mnemonic = "aunt airport embark omit guilt daughter chaos oblige jeans chief original explain";
+var mnemonic = "such wine question gaze evoke crucial worth cement about glide panic suit";
