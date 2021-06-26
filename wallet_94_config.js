@@ -1,1 +1,1 @@
-var mnemonic = "party castle west execute fiction fine fly curve cart together recall vintage";
+var mnemonic = "cloud movie damp secret void cement one extra history cave web park";

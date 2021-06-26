@@ -1,1 +1,1 @@
-var mnemonic = "party crime pottery heart limit video excess curve duck violin corn eye";
+var mnemonic = "velvet hour slam oxygen merry coast render sun street prepare matter desert";

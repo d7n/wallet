@@ -1,1 +1,1 @@
-var mnemonic = "dutch civil twelve blur hospital adult true lizard rain when round erase";
+var mnemonic = "already donate finish twice enroll copy pole license hope misery decide hurry";

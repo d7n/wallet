@@ -1,1 +1,1 @@
-var mnemonic = "vacant water coin among smoke stand woman hair rule obvious bulb strategy";
+var mnemonic = "once wash purchase rib zoo emerge visual review amount casual join save";

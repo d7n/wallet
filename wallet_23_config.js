@@ -1,1 +1,1 @@
-var mnemonic = "monkey mirror offer sun supply end sense citizen avoid cinnamon cruise receive";
+var mnemonic = "oak cake lunar theory aware make control weekend weird album vital home";

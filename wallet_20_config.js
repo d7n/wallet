@@ -1,1 +1,1 @@
-var mnemonic = "tomato scrap voyage document crater square swarm soldier fall fringe future certain";
+var mnemonic = "filter exercise ripple shoe lemon sniff still conduct rally grab soon swallow";

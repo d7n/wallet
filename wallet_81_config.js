@@ -1,1 +1,1 @@
-var mnemonic = "dice boy people link fatigue elder syrup nurse tray throw parade east";
+var mnemonic = "boss pond turtle gym expose unit juice lift fox ten solid promote";

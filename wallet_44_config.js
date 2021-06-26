@@ -1,1 +1,1 @@
-var mnemonic = "symptom alter dust win poet eternal wealth border misery assault trim warfare";
+var mnemonic = "note congress thumb best pyramid tail shoulder change party chimney olympic zone";

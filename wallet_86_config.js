@@ -1,1 +1,1 @@
-var mnemonic = "piece index exile swing extend decrease flag affair mom shoot worry until";
+var mnemonic = "prevent tumble emerge circle estate nephew palace effort banana vote decrease keen";

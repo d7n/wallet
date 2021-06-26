@@ -1,1 +1,1 @@
-var mnemonic = "orphan kite arctic fitness tail cabin cluster wear betray office vault aspect";
+var mnemonic = "crater thank escape left dilemma present wagon large degree rough buffalo hover";

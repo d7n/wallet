@@ -1,1 +1,1 @@
-var mnemonic = "oil staff athlete hill fly home boy conduct twelve tenant hollow range";
+var mnemonic = "engine mean once luggage reveal resemble stick answer witness spawn arctic suspect";

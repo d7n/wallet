@@ -1,1 +1,1 @@
-var mnemonic = "canoe hire humor junior various topic tail ladder almost follow amazing come";
+var mnemonic = "apology entry include annual mutual security pitch spice foster elegant donkey angle";

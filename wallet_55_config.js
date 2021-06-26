@@ -1,1 +1,1 @@
-var mnemonic = "same glimpse flip nothing gossip common trap elegant fee spike spell swap";
+var mnemonic = "twelve video extend lumber vapor spend hood night denial satoshi desk farm";

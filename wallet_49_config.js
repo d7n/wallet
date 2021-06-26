@@ -1,1 +1,1 @@
-var mnemonic = "avoid ladder code hire fade daring old pottery bind accident tuition over";
+var mnemonic = "innocent media police traffic toy meadow amount tell purpose narrow jeans wish";

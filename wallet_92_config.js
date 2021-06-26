@@ -1,1 +1,1 @@
-var mnemonic = "mixed visual entry fringe aim service rural ranch slow mad tail code";
+var mnemonic = "web cluster wreck year price twenty liquid forget tired army finish urge";

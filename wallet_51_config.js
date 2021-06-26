@@ -1,1 +1,1 @@
-var mnemonic = "believe comfort camera goat remind ugly real agree frequent knee place behave";
+var mnemonic = "very occur wheat food raven hockey loan erupt kick swear habit will";

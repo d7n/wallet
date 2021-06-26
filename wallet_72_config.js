@@ -1,1 +1,1 @@
-var mnemonic = "depend awful genuine muscle bottom strike clean salt depend fever guilt sketch";
+var mnemonic = "heart wash jelly real dance sense catalog behave easy steak thought gold";

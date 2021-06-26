@@ -1,1 +1,1 @@
-var mnemonic = "essay symbol laugh legend negative link bamboo come hold glory govern collect";
+var mnemonic = "shrug divide wall juice clap priority region trade remove purse rookie sand";

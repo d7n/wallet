@@ -1,1 +1,1 @@
-var mnemonic = "bench search rather regret label teach patient busy mean cherry cave only";
+var mnemonic = "nation wet ladder chair unhappy purity shine stay agent betray entire salmon";

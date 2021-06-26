@@ -1,1 +1,1 @@
-var mnemonic = "fade else noble sketch ladder motor spike profit disorder sustain skirt sock";
+var mnemonic = "rich agree penalty nature pave clay twelve option wage head coach mistake";

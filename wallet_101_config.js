@@ -1,1 +1,1 @@
-var mnemonic = "text divorce lucky february deputy renew ridge attitude south occur close occur";
+var mnemonic = "north charge hero absent define uncle candy wagon rare hundred nature captain";

@@ -1,1 +1,1 @@
-var mnemonic = "arena ritual clutch fatigue note reunion transfer typical parent undo orphan fever";
+var mnemonic = "review gas sell hidden rose appear yard cross puzzle green shrimp film";

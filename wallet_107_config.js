@@ -1,1 +1,1 @@
-var mnemonic = "ticket snack finish jelly cricket ozone balance kite repair long mammal lion";
+var mnemonic = "aware below dirt security cushion dismiss bench today second before tag trial";

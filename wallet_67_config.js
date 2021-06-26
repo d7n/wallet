@@ -1,1 +1,1 @@
-var mnemonic = "property robot oak lazy brown mind mention obtain bubble veteran idea shock";
+var mnemonic = "brother comfort chalk anxiety describe casual turkey notice door mom diary deny";

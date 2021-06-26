@@ -1,1 +1,1 @@
-var mnemonic = "suffer female mix december churn knife regret maid multiply second aunt deal";
+var mnemonic = "nominee lemon glove program loud sample habit steel pet physical ride caution";

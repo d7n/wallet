@@ -1,1 +1,1 @@
-var mnemonic = "quarter two jump thank connect dragon elevator glance glow age there endless";
+var mnemonic = "neither sunset sign case modify trigger fun tornado aisle bamboo outside dash";

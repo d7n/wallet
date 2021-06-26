@@ -1,1 +1,1 @@
-var mnemonic = "vacuum charge fish swap cereal citizen pig multiply two prefer weekend morning";
+var mnemonic = "certain office decline normal worth slow similar lobster person sea include insane";

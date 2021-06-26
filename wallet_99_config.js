@@ -1,1 +1,1 @@
-var mnemonic = "century isolate sadness teach tunnel derive physical glue kingdom real man weekend";
+var mnemonic = "diamond point country hamster float mystery jazz absorb blossom token crisp snack";

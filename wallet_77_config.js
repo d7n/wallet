@@ -1,1 +1,1 @@
-var mnemonic = "raven mix hat depth verb marriage sister creek seat unveil start raise";
+var mnemonic = "when noise cry pattern rocket point ordinary slam winter shine mixture wish";

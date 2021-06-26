@@ -1,1 +1,1 @@
-var mnemonic = "clay foil kind orange model refuse must decrease reform hybrid mosquito table";
+var mnemonic = "keen school engine outer install usage document diet monkey draw kitten buzz";

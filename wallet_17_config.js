@@ -1,1 +1,1 @@
-var mnemonic = "tunnel crucial rural combine borrow episode affair ivory mad spike castle coral";
+var mnemonic = "candy typical update maid inflict smooth viable eternal gift point index grit";

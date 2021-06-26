@@ -1,1 +1,1 @@
-var mnemonic = "celery affair carry gun base stable feature skate bitter creek evoke method";
+var mnemonic = "odor later feed lunch enter glow series again slush ribbon attack swim";

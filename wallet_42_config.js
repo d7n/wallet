@@ -1,1 +1,1 @@
-var mnemonic = "hood toss field nuclear vintage host team there topic person onion gold";
+var mnemonic = "flash alpha system reflect floor much ring kind rocket glare auction come";

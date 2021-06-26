@@ -1,1 +1,1 @@
-var mnemonic = "video ignore pulp lesson final daring april search orchard pupil remain negative";
+var mnemonic = "upset bitter topple nest antenna tuna fiscal fame icon turkey ask ring";

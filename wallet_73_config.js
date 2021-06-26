@@ -1,1 +1,1 @@
-var mnemonic = "mail style orphan win claw radio regular north draft pilot ankle until";
+var mnemonic = "diamond abuse tongue chef silver ribbon cave used tourist measure blanket denial";

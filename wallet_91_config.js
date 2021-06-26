@@ -1,1 +1,1 @@
-var mnemonic = "view differ absorb icon online onion destroy have purpose cost involve adapt";
+var mnemonic = "spin pulp want resist divorce find invite devote promote list august doll";

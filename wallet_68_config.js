@@ -1,1 +1,1 @@
-var mnemonic = "average refuse goat quick view emotion early stuff recipe bus crack pig";
+var mnemonic = "chair frown what dog sketch spatial advice symptom thunder gorilla forget blur";

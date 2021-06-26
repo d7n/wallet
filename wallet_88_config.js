@@ -1,1 +1,1 @@
-var mnemonic = "success hole holiday wear vibrant senior merry between ghost cargo message fuel";
+var mnemonic = "soap hurdle ready smart uphold snack achieve people enemy join upgrade source";

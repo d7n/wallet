@@ -1,1 +1,1 @@
-var mnemonic = "unable trade elbow village cement toward lizard runway hockey ready zoo citizen";
+var mnemonic = "behave state access know penalty boost champion immense able online fuel hole";

@@ -1,1 +1,1 @@
-var mnemonic = "someone solve stick keep school typical donor angry because spirit try east";
+var mnemonic = "valid exact better twin chest spin scan embrace duty project hedgehog popular";

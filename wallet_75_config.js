@@ -1,1 +1,1 @@
-var mnemonic = "twelve chair master bread install expose seek circle position quit unable enable";
+var mnemonic = "siren north bird pet uniform robust differ can idea lemon dinosaur half";

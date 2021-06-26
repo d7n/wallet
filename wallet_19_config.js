@@ -1,1 +1,1 @@
-var mnemonic = "eager box buzz brisk innocent number access apart crop tiger mistake youth";
+var mnemonic = "portion student heart drastic jump toe practice actor demand tornado trap mad";

@@ -1,1 +1,1 @@
-var mnemonic = "general item occur soap pool inspire tray satisfy shiver sound tilt arm";
+var mnemonic = "dismiss grab oven they huge turtle harsh stay various quantum together legend";

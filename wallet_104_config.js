@@ -1,1 +1,1 @@
-var mnemonic = "gasp defense they muscle crazy copper today wool what rice door arrange";
+var mnemonic = "festival more other evidence will reopen step grant absorb board tree weather";

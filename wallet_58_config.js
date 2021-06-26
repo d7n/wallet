@@ -1,1 +1,1 @@
-var mnemonic = "match wire voyage soup tumble engine own beef option melody mother between";
+var mnemonic = "tilt exact stumble trial clock subject wreck truck nose slush close where";

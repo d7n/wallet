@@ -1,1 +1,1 @@
-var mnemonic = "echo worth badge forward fantasy jacket useless student pelican sight urge inherit";
+var mnemonic = "health wife program bike easily begin alley music together keen affair ghost";

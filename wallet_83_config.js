@@ -1,1 +1,1 @@
-var mnemonic = "loyal chase bread infant control bounce expire useless innocent dirt guide escape";
+var mnemonic = "weasel opinion dwarf wedding student inspire unhappy clinic dream couch seminar cross";

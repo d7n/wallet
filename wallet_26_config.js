@@ -1,1 +1,1 @@
-var mnemonic = "veteran make hood increase eager hotel kitten morning reopen chase object february";
+var mnemonic = "aisle visit flight stone solve time crystal puppy need web alert chair";

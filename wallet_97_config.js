@@ -1,1 +1,1 @@
-var mnemonic = "escape much gadget reunion inflict glue horse chase robot lion tree street";
+var mnemonic = "talk area profit notice number kingdom rhythm easily since undo winner zebra";

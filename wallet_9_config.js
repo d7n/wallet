@@ -1,1 +1,1 @@
-var mnemonic = "short october half elevator depth model midnight inform supply orphan swamp fame";
+var mnemonic = "core strike crew bubble judge step moment lion brass meadow grocery feed";

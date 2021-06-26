@@ -1,1 +1,1 @@
-var mnemonic = "output mule dilemma capital reward ship magic void also result faint shaft";
+var mnemonic = "uphold iron series tonight quarter odor chat embody ski rail erase message";

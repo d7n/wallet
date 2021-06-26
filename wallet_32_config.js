@@ -1,1 +1,1 @@
-var mnemonic = "trick what rough grocery property seven innocent slot evil column defense chief";
+var mnemonic = "captain hawk brisk boss weapon dizzy hair boy game essay olive dose";

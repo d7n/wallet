@@ -1,1 +1,1 @@
-var mnemonic = "snow infant capable float unknown traffic satoshi faculty mixture hello west true";
+var mnemonic = "nut equip arctic bread own fix hill crumble salute flower conduct snap";

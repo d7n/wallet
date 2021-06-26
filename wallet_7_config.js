@@ -1,1 +1,1 @@
-var mnemonic = "envelope case suffer twelve economy bless salon squeeze real weapon merry intact";
+var mnemonic = "absent ramp salute shoulder menu intact drive car song uniform artwork dry";

@@ -1,1 +1,1 @@
-var mnemonic = "mouse raise olympic bacon gather hero pen waste salt beauty fire flat";
+var mnemonic = "balance keen glance method leopard crop idea circle napkin begin clip bag";

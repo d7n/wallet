@@ -1,1 +1,1 @@
-var mnemonic = "denial tongue just acoustic during dust inherit youth episode cheese orphan depend";
+var mnemonic = "ride regular enroll busy question nation vendor talk bulb voice cost husband";

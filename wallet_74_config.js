@@ -1,1 +1,1 @@
-var mnemonic = "sword inject salt sound nice afford project harvest hunt estate seminar file";
+var mnemonic = "over defy oil tattoo argue father true hero near latin figure thought";

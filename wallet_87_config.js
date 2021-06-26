@@ -1,1 +1,1 @@
-var mnemonic = "toddler path market syrup upon soda stamp coil fire priority imitate scout";
+var mnemonic = "final february digital oil atom rib shop surround note cave hazard kitchen";

@@ -1,1 +1,1 @@
-var mnemonic = "job embrace jungle manage lens chronic shine clog best vault mirror service";
+var mnemonic = "know body august snack vote addict water garage layer cement carry salute";

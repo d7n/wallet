@@ -1,1 +1,1 @@
-var mnemonic = "engine learn actor news detail across resemble spring dizzy begin width menu";
+var mnemonic = "unknown taste dress van thing tray cross social once extra time radar";

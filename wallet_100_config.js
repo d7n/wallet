@@ -1,1 +1,1 @@
-var mnemonic = "divide asthma next author crowd squeeze toddler opinion dentist rhythm truth thank";
+var mnemonic = "language immense finish crash solar stove scout violin giraffe mutual ethics nut";

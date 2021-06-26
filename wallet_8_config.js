@@ -1,1 +1,1 @@
-var mnemonic = "regret trend figure behind like bonus perfect trial mango flight harvest toe";
+var mnemonic = "winter yard auction local unit same trip you cattle ozone venue hen";

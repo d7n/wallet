@@ -1,1 +1,1 @@
-var mnemonic = "whale stay soul zoo level chief bacon hurdle return orbit foster evolve";
+var mnemonic = "diamond engine lab mosquito vacant stuff priority lunch decline grab artist alarm";

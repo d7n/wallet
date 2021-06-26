@@ -1,1 +1,1 @@
-var mnemonic = "scrap drum ancient dress case ceiling sentence awesome little quiz laugh carry";
+var mnemonic = "orange bitter agent crash kangaroo approve kiss mixture lounge genre input blast";

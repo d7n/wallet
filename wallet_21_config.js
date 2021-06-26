@@ -1,1 +1,1 @@
-var mnemonic = "network grass wash grunt great usual brand sustain sweet join talk awkward";
+var mnemonic = "ancient divorce gasp final awesome vehicle canyon crumble chair dose close mixture";

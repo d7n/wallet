@@ -1,1 +1,1 @@
-var mnemonic = "swallow train morning abandon carbon fiction exist crew version rubber impact panic";
+var mnemonic = "stay inmate anchor stairs skull inform ticket plug earn gate pottery amazing";

@@ -1,1 +1,1 @@
-var mnemonic = "family major fault stomach gospel payment unique arrow deer top toe melt";
+var mnemonic = "admit stay ancient crunch legend swarm major avoid day night lesson miracle";

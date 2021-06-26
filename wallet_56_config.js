@@ -1,1 +1,1 @@
-var mnemonic = "firm hazard twenty rally offer reflect punch owner step leisure photo cage";
+var mnemonic = "sail raise slush fiber rabbit plug marble volcano process pulse symptom december";

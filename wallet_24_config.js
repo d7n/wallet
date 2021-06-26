@@ -1,1 +1,1 @@
-var mnemonic = "milk long nothing way sort debris fog curious drink balance network garage";
+var mnemonic = "tone elite bomb congress slab when march spoon twist exclude vacant alien";

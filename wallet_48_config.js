@@ -1,1 +1,1 @@
-var mnemonic = "daring ethics input century excite help saddle potato famous total dragon journey";
+var mnemonic = "feature metal banner climb sugar proof stomach rural unique remember solution typical";

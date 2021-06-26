@@ -1,1 +1,1 @@
-var mnemonic = "secret artist burger hurdle answer account meadow wife ill joy energy board";
+var mnemonic = "fog wild pretty decorate dismiss suggest ability discover warfare window lend lift";

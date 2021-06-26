@@ -1,1 +1,1 @@
-var mnemonic = "coconut few boss enemy eight flame seed spot craft slush person stadium";
+var mnemonic = "divide width few sight car cause focus minute walk puppy apology drastic";

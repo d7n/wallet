@@ -1,1 +1,1 @@
-var mnemonic = "edge age picnic reflect river current science raccoon wonder rebel major exact";
+var mnemonic = "library lonely bubble own banana satisfy prevent pitch midnight enlist pigeon flash";

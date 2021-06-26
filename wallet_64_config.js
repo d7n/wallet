@@ -1,1 +1,1 @@
-var mnemonic = "donate mouse side sight inhale toward girl eight motor oblige predict oppose";
+var mnemonic = "sound erupt say fan include glory bind horse glass total nuclear element";

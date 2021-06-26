@@ -1,1 +1,1 @@
-var mnemonic = "disorder lunar across suggest always tonight group minimum athlete brother impulse antenna";
+var mnemonic = "letter broken rule height vessel giant purity mystery just frown blossom outer";

@@ -1,1 +1,1 @@
-var mnemonic = "bounce theme tower yellow sausage hybrid eyebrow winner fog nose nasty renew";
+var mnemonic = "elder hawk hamster canoe hurry uphold fade fortune mutual cheap pig cactus";

@@ -1,1 +1,1 @@
-var mnemonic = "deal favorite squirrel domain pause vivid auto welcome oyster ski october potato";
+var mnemonic = "kite antenna front print wrap vanish bronze defense spread celery original earth";

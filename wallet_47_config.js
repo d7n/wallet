@@ -1,1 +1,1 @@
-var mnemonic = "legend wrestle gain dose pretty bleak frown maze okay east garden nation";
+var mnemonic = "ramp twin liberty pole unaware crucial sauce episode unveil dust key estate";

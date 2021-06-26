@@ -1,1 +1,1 @@
-var mnemonic = "grass exile typical answer stone poet wheat cupboard doll vital girl sibling";
+var mnemonic = "wet all sting chief differ birth net lock beach apology suggest similar";

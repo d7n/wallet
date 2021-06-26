@@ -1,1 +1,1 @@
-var mnemonic = "right exist blind acoustic taste slide rug visual brain super goose away";
+var mnemonic = "bitter jacket video blast shine absurd couch exhaust rich pave test round";

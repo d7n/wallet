@@ -1,1 +1,1 @@
-var mnemonic = "govern estate fine account refuse bacon interest dignity another just arctic ladder";
+var mnemonic = "shaft tip prize walk entry industry cattle have salad bamboo gold picnic";

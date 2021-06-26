@@ -1,1 +1,1 @@
-var mnemonic = "napkin believe void digital any law throw say thunder merry inject athlete";
+var mnemonic = "clean banner decide slam affair tuition puppy great electric increase grace vapor";

@@ -1,1 +1,1 @@
-var mnemonic = "layer horse else pledge skirt purity fury already coast chef glance stay";
+var mnemonic = "trap rotate transfer sort sample heavy ivory under hero oak survey donkey";

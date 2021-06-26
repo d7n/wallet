@@ -1,1 +1,1 @@
-var mnemonic = "night erode network rug ship wheat ethics pride awful among vessel license";
+var mnemonic = "gaze slide phone shrug sense city cheap clown scale snap solid sock";

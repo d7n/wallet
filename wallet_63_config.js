@@ -1,1 +1,1 @@
-var mnemonic = "alter cry metal tomato case shoulder verify nerve play live limit tank";
+var mnemonic = "buyer issue pole dose time purpose screen banana unit gallery bullet basic";
