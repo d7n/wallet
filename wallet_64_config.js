@@ -1,1 +1,1 @@
-var mnemonic = "news absurd super pause strike home kiwi cart mystery vapor primary buzz";
+var mnemonic = "feature famous myself team exclude kiwi oven evolve brave sport sing tail";

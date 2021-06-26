@@ -1,1 +1,1 @@
-var mnemonic = "oyster convince advance intact cannon audit almost soup skill hotel pony title";
+var mnemonic = "ketchup this scale suffer bone fix dial chicken before injury canal family";

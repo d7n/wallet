@@ -1,1 +1,1 @@
-var mnemonic = "rather beauty label detect pudding run oxygen essence shock fruit split industry";
+var mnemonic = "bullet vital globe just hammer curtain person rug nominee cat scan shock";

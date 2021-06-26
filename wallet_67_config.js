@@ -1,1 +1,1 @@
-var mnemonic = "warm picnic cover scissors hello wink attack follow hour unit snake speed";
+var mnemonic = "quit laptop tree mosquito home victory chapter act never cancel swear jaguar";

@@ -1,1 +1,1 @@
-var mnemonic = "turkey group stairs fog retreat grant kite aware small forum divorce dilemma";
+var mnemonic = "fragile cry torch wide very soup current runway loop tomorrow grab confirm";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow gesture sphere orient danger drum celery erode embark decade right wire";
+var mnemonic = "decline cushion enforce dirt romance excess amazing void cabin horn enter daring";

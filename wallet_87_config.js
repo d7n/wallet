@@ -1,1 +1,1 @@
-var mnemonic = "trim normal pulse rough maze more bulk drastic tiny envelope fiscal bag";
+var mnemonic = "undo zebra raise cage news promote lamp submit promote joy letter reunion";

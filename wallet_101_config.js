@@ -1,1 +1,1 @@
-var mnemonic = "faith kangaroo agree marine lady brass glad gift access travel claw flee";
+var mnemonic = "twelve lazy local shell area river joke art civil chuckle sugar vote";

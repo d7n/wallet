@@ -1,1 +1,1 @@
-var mnemonic = "extra castle picture shock wait dutch destroy decorate orange muffin indicate chalk";
+var mnemonic = "unit aunt range rally valve snack use skirt token crash between expand";

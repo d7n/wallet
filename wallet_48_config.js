@@ -1,1 +1,1 @@
-var mnemonic = "winter speak error undo issue guess assault ankle south parade monitor clip";
+var mnemonic = "left pudding blast rookie ecology inject light fit resource feel vast vicious";

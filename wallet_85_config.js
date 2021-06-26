@@ -1,1 +1,1 @@
-var mnemonic = "dune expect explain moment demand tuition must daughter example sugar there boring";
+var mnemonic = "right polar divide obey bomb banana veteran coach elite weasel pretty gentle";

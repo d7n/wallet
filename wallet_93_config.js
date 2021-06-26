@@ -1,1 +1,1 @@
-var mnemonic = "gospel finish tooth pumpkin middle there tonight plug spawn employ urge sort";
+var mnemonic = "aisle tomato shoe ketchup snack better trim autumn venture text deer gown";

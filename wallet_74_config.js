@@ -1,1 +1,1 @@
-var mnemonic = "entry actress quiz code unlock knife tube trumpet arrow pulse focus this";
+var mnemonic = "oven gallery autumn tiny topple depth census acquire sponsor ramp budget ribbon";

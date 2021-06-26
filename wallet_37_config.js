@@ -1,1 +1,1 @@
-var mnemonic = "hood protect net swarm filter man admit sunset table month have soccer";
+var mnemonic = "prepare congress honey again panel insect quiz uncover arrive lawn usual grid";

@@ -1,1 +1,1 @@
-var mnemonic = "loop grain tuna kitchen force uphold use bridge pet disorder huge drip";
+var mnemonic = "stairs effort liar picnic exhaust exhaust reunion core silent vapor giant shove";

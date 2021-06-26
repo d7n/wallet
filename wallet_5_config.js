@@ -1,1 +1,1 @@
-var mnemonic = "tell square shift seed wink detail convince theory design desert trigger pear";
+var mnemonic = "render estate aerobic basket planet road identify giant humor grit arctic urban";

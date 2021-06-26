@@ -1,1 +1,1 @@
-var mnemonic = "cry what angry dolphin stool quiz salt vacuum ramp awesome destroy admit";
+var mnemonic = "pulse symbol fringe soft mosquito burst across entry frost vanish mention copper";

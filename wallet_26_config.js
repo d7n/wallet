@@ -1,1 +1,1 @@
-var mnemonic = "short off lesson sunny radar desk vibrant swamp slice adapt peanut treat";
+var mnemonic = "trade purity ocean feature address fantasy inflict doll combine cause unaware feed";

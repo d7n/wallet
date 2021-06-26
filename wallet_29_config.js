@@ -1,1 +1,1 @@
-var mnemonic = "witness sea witness physical wet pattern calm shadow path humble picnic birth";
+var mnemonic = "soon phrase trade rhythm syrup tonight bring toddler disorder day bar stove";

@@ -1,1 +1,1 @@
-var mnemonic = "penalty fluid bulk stage penalty artist merge coach illegal cereal ahead true";
+var mnemonic = "cup gravity bachelor version quantum diesel keep tilt anchor write truth dog";

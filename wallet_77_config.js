@@ -1,1 +1,1 @@
-var mnemonic = "trick cousin fragile sunny material cotton guard settle rebuild estate marriage album";
+var mnemonic = "report solid suit rich cycle sphere tuition fork myth first wrong sense";

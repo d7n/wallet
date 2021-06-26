@@ -1,1 +1,1 @@
-var mnemonic = "harsh nice depart knock post latin crush nose lava letter ethics bargain";
+var mnemonic = "evolve parade social sail borrow patch speed cause renew robust ahead judge";

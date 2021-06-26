@@ -1,1 +1,1 @@
-var mnemonic = "attack aunt sniff upper clip wealth trust mercy arm hub ask once";
+var mnemonic = "include short hamster glad clinic digital never script grab plunge catalog heart";

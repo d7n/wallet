@@ -1,1 +1,1 @@
-var mnemonic = "bench seed mixture plug correct glove forget outdoor pupil company adult hotel";
+var mnemonic = "trade iron marine slim drift gossip inside grain arena negative army bronze";

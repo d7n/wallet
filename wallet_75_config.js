@@ -1,1 +1,1 @@
-var mnemonic = "chase sunset lion aim super enemy label runway round regret mean actual";
+var mnemonic = "there scan boost void excess together demand injury menu rescue profit faculty";

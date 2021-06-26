@@ -1,1 +1,1 @@
-var mnemonic = "giggle whip hood thumb scrap frown slot glimpse donor delay print lab";
+var mnemonic = "aware surprise helmet stadium relax curve discover flag deliver soup alert index";

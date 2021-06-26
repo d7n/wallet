@@ -1,1 +1,1 @@
-var mnemonic = "deal voice quantum soon paper shed cancel income diet eight repeat tooth";
+var mnemonic = "elevator skate work gun catalog color answer ancient trend nut same economy";

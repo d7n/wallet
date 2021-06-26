@@ -1,1 +1,1 @@
-var mnemonic = "area spread country material weekend wisdom wage domain cricket cross parade sun";
+var mnemonic = "like magnet blanket suspect long nose check normal diagram program hawk canal";

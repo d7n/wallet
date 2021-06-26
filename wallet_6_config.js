@@ -1,1 +1,1 @@
-var mnemonic = "glad siege leisure grit yellow electric donkey west wash hundred develop inmate";
+var mnemonic = "purity knee flavor spatial smooth panel cruise grape miss coffee orange oblige";

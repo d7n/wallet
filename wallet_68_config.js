@@ -1,1 +1,1 @@
-var mnemonic = "indicate false problem feature people jealous misery found drum achieve donkey day";
+var mnemonic = "ship kick chef grow then crunch twist column wrist shiver shield bargain";

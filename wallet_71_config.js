@@ -1,1 +1,1 @@
-var mnemonic = "humor night weather laptop dune wear gorilla unit initial belt fun fluid";
+var mnemonic = "orient artefact celery decorate spend live very time disease model consider bleak";

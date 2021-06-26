@@ -1,1 +1,1 @@
-var mnemonic = "broom album blanket voice couple veteran reduce inside physical eyebrow render fringe";
+var mnemonic = "absent drill candy drill hair whisper warm detect quality miracle tent borrow";

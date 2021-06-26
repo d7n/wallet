@@ -1,1 +1,1 @@
-var mnemonic = "faint try stumble inject rich spare horror beauty furnace text always address";
+var mnemonic = "sibling worry arrive genre lift hundred interest bubble cool estate valve glass";

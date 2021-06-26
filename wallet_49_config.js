@@ -1,1 +1,1 @@
-var mnemonic = "ecology assume joy more junk win note use welcome hunt cram cause";
+var mnemonic = "thrive icon paddle common crazy elbow smart target stand spring total cave";

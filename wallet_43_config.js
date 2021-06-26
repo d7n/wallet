@@ -1,1 +1,1 @@
-var mnemonic = "lemon pill frozen knee october lobster wrap phone region truck caught horse";
+var mnemonic = "tiger pear purchase such sight crouch scissors candy hope web donor enjoy";

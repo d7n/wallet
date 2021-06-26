@@ -1,1 +1,1 @@
-var mnemonic = "crowd museum lion shrug toss biology actual ticket lesson tilt solar top";
+var mnemonic = "capable walk exist spawn film rail thought opera warfare twin teach social";

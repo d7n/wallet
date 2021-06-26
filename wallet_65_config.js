@@ -1,1 +1,1 @@
-var mnemonic = "gun alien moral squeeze noble six firm liquid recall myself weird letter";
+var mnemonic = "box organ rival love odor blade cargo clarify okay street knock early";

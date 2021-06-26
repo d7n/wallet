@@ -1,1 +1,1 @@
-var mnemonic = "glance document safe small culture state deliver jungle title cereal maid happy";
+var mnemonic = "muffin follow purpose table rug remember ride slice resemble stove page attitude";

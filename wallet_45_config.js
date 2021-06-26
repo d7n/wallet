@@ -1,1 +1,1 @@
-var mnemonic = "volcano trash rail physical solution treat exist traffic romance thumb beach economy";
+var mnemonic = "dynamic fine pipe occur letter wish angry output way steak call range";

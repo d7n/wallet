@@ -1,1 +1,1 @@
-var mnemonic = "obvious predict enter fork canoe thank reflect stairs ability skirt primary primary";
+var mnemonic = "walnut erode rubber video load pretty exhaust hint elbow indoor ski include";

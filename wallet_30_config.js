@@ -1,1 +1,1 @@
-var mnemonic = "dutch spike horse any soap cry slender weird list distance mix panther";
+var mnemonic = "beach club that web rather agent unlock please onion unhappy cover choice";

@@ -1,1 +1,1 @@
-var mnemonic = "useful refuse birth forum teach flee couch cage silly volume famous fresh";
+var mnemonic = "client patch half nominee ice solar salute book million blood time item";

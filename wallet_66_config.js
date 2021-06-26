@@ -1,1 +1,1 @@
-var mnemonic = "wife belt remove dutch much type hospital example vivid chuckle method inhale";
+var mnemonic = "slogan firm gravity color travel blush bubble chuckle wide yard dutch flee";

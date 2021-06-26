@@ -1,1 +1,1 @@
-var mnemonic = "wash total lab sadness empty mention item cross pilot marine bacon frown";
+var mnemonic = "tomato faith torch jeans milk keen match junk squirrel unlock pumpkin radio";

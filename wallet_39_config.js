@@ -1,1 +1,1 @@
-var mnemonic = "machine avoid sense engage tool rug room into east thrive island thank";
+var mnemonic = "behind unit afford brass isolate cheap vivid whisper allow roof alone exhibit";

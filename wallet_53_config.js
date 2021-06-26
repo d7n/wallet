@@ -1,1 +1,1 @@
-var mnemonic = "future debate more cry demand update smooth elder shoe absent naive bind";
+var mnemonic = "recipe parent expire major camp crush judge robust price thumb toddler review";

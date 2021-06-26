@@ -1,1 +1,1 @@
-var mnemonic = "sentence script ordinary violin torch lemon submit key climb surprise gallery crash";
+var mnemonic = "jaguar cricket know rather jaguar auction bachelor slim olive document recycle blush";

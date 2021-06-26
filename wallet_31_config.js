@@ -1,1 +1,1 @@
-var mnemonic = "tuition chef fork raw recall early good donkey evoke voyage youth cluster";
+var mnemonic = "ghost afraid limb oak rebuild keen strategy spread asthma enact shaft share";

@@ -1,1 +1,1 @@
-var mnemonic = "horse cram soul drop ritual marble render sand fame circle uphold song";
+var mnemonic = "ivory quick remain banner mad panel market share actress manage trip drop";

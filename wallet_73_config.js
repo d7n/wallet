@@ -1,1 +1,1 @@
-var mnemonic = "ahead increase put rate solar nuclear oven credit absurd fun sudden industry";
+var mnemonic = "ridge reflect ecology purchase slogan hunt trigger trash lucky salad puppy vessel";

@@ -1,1 +1,1 @@
-var mnemonic = "desert inhale merry owner lift first amateur sign yard chef hint legend";
+var mnemonic = "inspire matter step salt twist youth arrest denial shock abandon project dish";

@@ -1,1 +1,1 @@
-var mnemonic = "city raw brown board submit apple chuckle dream fog giant staff nature";
+var mnemonic = "clay market spot tone quit art please moral close aisle sight number";

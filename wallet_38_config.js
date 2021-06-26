@@ -1,1 +1,1 @@
-var mnemonic = "snap song nation rifle balcony dad soon case weekend must inflict unfair";
+var mnemonic = "virtual quantum tattoo chicken skin conduct cheese salon ring satoshi beauty fabric";

@@ -1,1 +1,1 @@
-var mnemonic = "unfold unaware soul save pupil parent velvet cross super example junior wrist";
+var mnemonic = "gauge double coin cargo grid shoe trial solid enforce glare steak wrestle";

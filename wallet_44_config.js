@@ -1,1 +1,1 @@
-var mnemonic = "brave such above pelican mango brief slender recall absorb thought album fatigue";
+var mnemonic = "wonder adult mesh there basket lion speed love enter plate topple glass";

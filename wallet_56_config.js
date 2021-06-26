@@ -1,1 +1,1 @@
-var mnemonic = "move keep quick impact column stool sudden power turtle beach erosion tilt";
+var mnemonic = "pitch comic rabbit parade birth medal anger magnet make lottery noise velvet";

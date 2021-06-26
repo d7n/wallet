@@ -1,1 +1,1 @@
-var mnemonic = "company normal jealous dance naive time ginger number soup market field beyond";
+var mnemonic = "park proof hub hunt wonder galaxy switch aspect source asset praise damp";

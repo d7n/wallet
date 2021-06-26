@@ -1,1 +1,1 @@
-var mnemonic = "digital shadow crane sport guilt wrap glory deposit cave giraffe bitter level";
+var mnemonic = "pistol blood sound sunny erosion void cereal garden spoil dress tobacco lazy";

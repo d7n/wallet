@@ -1,1 +1,1 @@
-var mnemonic = "someone alpha picnic trash just visual blush bomb famous confirm flash check";
+var mnemonic = "genre crane amazing dinosaur smooth hurt minute siege isolate real black area";

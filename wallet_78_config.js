@@ -1,1 +1,1 @@
-var mnemonic = "render exotic attack future educate swarm decorate cheese swift prison arch quality";
+var mnemonic = "cricket blouse car apology coconut accident marine ten dumb picnic reveal pull";

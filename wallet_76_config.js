@@ -1,1 +1,1 @@
-var mnemonic = "exile light matrix actress credit pelican hotel thing orbit tower chunk senior";
+var mnemonic = "erase room toddler sad gasp tilt blade bean super edit gloom fabric";

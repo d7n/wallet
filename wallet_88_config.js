@@ -1,1 +1,1 @@
-var mnemonic = "enemy interest define special strike talent olive genius bomb want dog public";
+var mnemonic = "ordinary patch vintage tip among bread morning wedding arch junior quote junior";

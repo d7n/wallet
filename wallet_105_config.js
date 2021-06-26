@@ -1,1 +1,1 @@
-var mnemonic = "infant core vote wrap april divorce pig hunt cream segment when such";
+var mnemonic = "guess meadow tank enable enrich rough wagon basic margin pulp plug like";

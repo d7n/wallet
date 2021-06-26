@@ -1,1 +1,1 @@
-var mnemonic = "spike jewel badge beauty quit simple mean orchard pact west hello silly";
+var mnemonic = "inspire cost amazing explain double age organ piece special catalog weapon people";

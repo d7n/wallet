@@ -1,1 +1,1 @@
-var mnemonic = "cliff rose rookie drama disagree win hamster car mistake reform decline wrestle";
+var mnemonic = "suit icon host type brand ill impact paddle eye setup gun very";

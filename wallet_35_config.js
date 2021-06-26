@@ -1,1 +1,1 @@
-var mnemonic = "sausage mass chalk own mind drop envelope cherry utility pause destroy champion";
+var mnemonic = "flash airport diagram negative skin unveil where ride brush right bid garden";

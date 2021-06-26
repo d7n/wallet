@@ -1,1 +1,1 @@
-var mnemonic = "index emotion eagle express sad waste staff effort response usage goddess clump";
+var mnemonic = "party evil edit such decrease loyal estate glare sense tonight section hip";

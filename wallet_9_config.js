@@ -1,1 +1,1 @@
-var mnemonic = "quote essence tuna half special company menu gravity fork drink code crew";
+var mnemonic = "trigger meat park index dolphin space farm matrix spring vehicle grab access";

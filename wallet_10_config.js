@@ -1,1 +1,1 @@
-var mnemonic = "chicken trouble relief stone list tumble soap draw gorilla absorb sound spoon";
+var mnemonic = "vehicle drip quit practice offer brown april slot dignity mail submit pistol";

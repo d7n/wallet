@@ -1,1 +1,1 @@
-var mnemonic = "approve power lottery blood above boil service latin unveil pyramid harbor problem";
+var mnemonic = "remain urban destroy cup ostrich hungry illness remain word fiscal tilt august";

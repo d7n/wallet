@@ -1,1 +1,1 @@
-var mnemonic = "coin hotel icon govern cup sunset talk raccoon super relief fitness drive";
+var mnemonic = "sustain entry wreck treat author erupt eager size prefer wait normal example";

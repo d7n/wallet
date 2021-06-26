@@ -1,1 +1,1 @@
-var mnemonic = "shy road impose dust shrug reflect vocal bike picnic pear trend since";
+var mnemonic = "together polar castle choice pool swear learn general clinic fork property expire";

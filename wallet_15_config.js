@@ -1,1 +1,1 @@
-var mnemonic = "pizza dumb potato fault flavor strategy develop foster denial endorse hold today";
+var mnemonic = "guard circle stereo supply near absurd option cousin unhappy describe virus student";

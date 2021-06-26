@@ -1,1 +1,1 @@
-var mnemonic = "monster little eye gather fiction hub rapid inherit one model safe connect";
+var mnemonic = "ocean ten among shaft prepare fun risk sunset fantasy top now paper";

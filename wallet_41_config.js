@@ -1,1 +1,1 @@
-var mnemonic = "buzz space play minor hill follow motor sun enlist turn dinner side";
+var mnemonic = "purity warm spirit clinic future discover prefer kingdom merry sustain venue trigger";

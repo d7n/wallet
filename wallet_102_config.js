@@ -1,1 +1,1 @@
-var mnemonic = "lab benefit father flock wealth turkey pony puzzle poet time polar uncle";
+var mnemonic = "boss soda embrace athlete sample address bubble thunder spring tattoo any border";

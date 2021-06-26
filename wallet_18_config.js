@@ -1,1 +1,1 @@
-var mnemonic = "outer deliver edge year useless divorce inject phone replace fiscal long blast";
+var mnemonic = "arrest dizzy auction alert gather surge trade goose layer enemy often ghost";

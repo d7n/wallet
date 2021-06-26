@@ -1,1 +1,1 @@
-var mnemonic = "garment mutual cousin fault egg aspect ridge shock height artwork novel ill";
+var mnemonic = "inspire citizen struggle text anxiety apart exclude fetch route access snow island";

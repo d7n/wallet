@@ -1,1 +1,1 @@
-var mnemonic = "any mandate input category enhance lecture bag obscure human special income expand";
+var mnemonic = "repeat desert object pipe cradle post virus doll bamboo breeze hospital point";

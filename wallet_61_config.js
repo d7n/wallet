@@ -1,1 +1,1 @@
-var mnemonic = "neglect food play attract warm nut wasp weather private mask random paddle";
+var mnemonic = "exist valley clown neglect unlock poem system soda bright suspect mix huge";

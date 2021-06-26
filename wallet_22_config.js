@@ -1,1 +1,1 @@
-var mnemonic = "bird year butter ranch voyage soft scheme spare treat again pluck leaf";
+var mnemonic = "question enroll avocado silk example rally cliff napkin oblige between turn chapter";

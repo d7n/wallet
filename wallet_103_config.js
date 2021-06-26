@@ -1,1 +1,1 @@
-var mnemonic = "creek remember input modify boring response reunion cause dice asset mandate gift";
+var mnemonic = "market jewel range lounge fan change swamp deal basic fade sorry congress";

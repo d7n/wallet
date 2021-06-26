@@ -1,1 +1,1 @@
-var mnemonic = "melt need supreme festival segment argue poem island rookie regret valve program";
+var mnemonic = "crime okay stomach crawl gap echo genre gauge figure exist moment paper";

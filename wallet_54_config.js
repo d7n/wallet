@@ -1,1 +1,1 @@
-var mnemonic = "culture polar steak usual depth clock goat digital member uphold thrive setup";
+var mnemonic = "unfair sample rural news element flag crew olympic gap celery blossom oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "metal symptom wink science wet disagree finish cash amazing garden myth buddy";
+var mnemonic = "smoke banana leg casual spray dune era ill drill close laundry nature";

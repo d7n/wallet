@@ -1,1 +1,1 @@
-var mnemonic = "inner alarm guess sunset whisper magic ramp vocal scrap holiday notice spend";
+var mnemonic = "rent bounce paper arm tiger width three arena whip mouse life consider";

@@ -1,1 +1,1 @@
-var mnemonic = "asthma swarm ketchup collect try firm discover alert violin rain flag fly";
+var mnemonic = "stock wet frequent twelve immune zebra wild property hour surface gun coffee";

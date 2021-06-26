@@ -1,1 +1,1 @@
-var mnemonic = "turkey truth ivory arctic wear dress attend seven invest fiction now slot";
+var mnemonic = "tone jump patrol sheriff pull family frown security minimum chef marriage giggle";

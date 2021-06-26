@@ -1,1 +1,1 @@
-var mnemonic = "stumble all attend artwork quick pulse bracket remove final key antique crisp";
+var mnemonic = "curious rocket tonight stamp occur dance nature subway timber leaf avoid brave";

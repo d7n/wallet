@@ -1,1 +1,1 @@
-var mnemonic = "thought erode cool bullet high canoe broccoli mix gloom select caught clap";
+var mnemonic = "travel amateur evolve merge what now bench cram casino suspect gas endless";

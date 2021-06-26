@@ -1,1 +1,1 @@
-var mnemonic = "drama swift odor exhibit width chunk dwarf stage girl hand gown run";
+var mnemonic = "spare matrix achieve noodle pledge lunch flip extend record firm walnut casual";
