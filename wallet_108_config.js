@@ -1,1 +1,1 @@
-var mnemonic = "angle vendor canal suspect layer cargo steel sibling rack dress win obscure";
+var mnemonic = "recall nose energy border meadow flower govern awkward stool feature smile mystery";

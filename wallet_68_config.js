@@ -1,1 +1,1 @@
-var mnemonic = "chair frown what dog sketch spatial advice symptom thunder gorilla forget blur";
+var mnemonic = "nasty soup organ solid phone work leaf file gun punch tag cattle";

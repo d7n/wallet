@@ -1,1 +1,1 @@
-var mnemonic = "velvet hour slam oxygen merry coast render sun street prepare matter desert";
+var mnemonic = "machine offer void purchase pitch retire era tip stamp tragic tissue cereal";

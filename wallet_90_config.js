@@ -1,1 +1,1 @@
-var mnemonic = "shock execute ankle museum fiscal mansion quantum thunder method rough charge settle";
+var mnemonic = "actress sail panther retire attitude foot mind ugly fossil patient beyond appear";

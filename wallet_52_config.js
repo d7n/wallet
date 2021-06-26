@@ -1,1 +1,1 @@
-var mnemonic = "stay inmate anchor stairs skull inform ticket plug earn gate pottery amazing";
+var mnemonic = "correct scare earn trend account inhale person home outdoor dove ancient loan";

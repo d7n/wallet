@@ -1,1 +1,1 @@
-var mnemonic = "creek multiply jump whale such place print hope demise economy melody sniff";
+var mnemonic = "craft involve ghost allow story meat equip rabbit fossil nerve cheese enforce";

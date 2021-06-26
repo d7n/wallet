@@ -1,1 +1,1 @@
-var mnemonic = "twelve video extend lumber vapor spend hood night denial satoshi desk farm";
+var mnemonic = "advance frame time affair upgrade waste second actual debris school hungry media";

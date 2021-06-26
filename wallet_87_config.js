@@ -1,1 +1,1 @@
-var mnemonic = "final february digital oil atom rib shop surround note cave hazard kitchen";
+var mnemonic = "midnight they athlete blast wet soap clerk insane clay hello rent onion";

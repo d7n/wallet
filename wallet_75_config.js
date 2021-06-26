@@ -1,1 +1,1 @@
-var mnemonic = "siren north bird pet uniform robust differ can idea lemon dinosaur half";
+var mnemonic = "result innocent lizard problem honey during mosquito pipe extend sport vivid forest";

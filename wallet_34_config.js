@@ -1,1 +1,1 @@
-var mnemonic = "diamond engine lab mosquito vacant stuff priority lunch decline grab artist alarm";
+var mnemonic = "movie child alley wild actress tail figure bike improve keep reopen market";

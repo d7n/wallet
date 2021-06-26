@@ -1,1 +1,1 @@
-var mnemonic = "height advice six push menu core orange cattle buddy wear leave hollow";
+var mnemonic = "area oven utility twice also goat baby shiver spare bless poem behave";

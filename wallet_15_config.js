@@ -1,1 +1,1 @@
-var mnemonic = "pact essence destroy glide photo dutch spot walk problem skin decrease kiss";
+var mnemonic = "excuse palace potato spin close ladder august equal cluster height movie welcome";

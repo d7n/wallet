@@ -1,1 +1,1 @@
-var mnemonic = "winter yard auction local unit same trip you cattle ozone venue hen";
+var mnemonic = "state copper clever north cream south cute burger cool viable kick refuse";

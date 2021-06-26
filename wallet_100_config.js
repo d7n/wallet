@@ -1,1 +1,1 @@
-var mnemonic = "language immense finish crash solar stove scout violin giraffe mutual ethics nut";
+var mnemonic = "shaft during away leaf discover frozen eager juice tray cheap twice shrimp";

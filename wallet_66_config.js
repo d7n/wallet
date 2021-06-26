@@ -1,1 +1,1 @@
-var mnemonic = "engine mean once luggage reveal resemble stick answer witness spawn arctic suspect";
+var mnemonic = "luggage replace lion height siege series unit penalty wrap insane hole cake";

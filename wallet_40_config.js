@@ -1,1 +1,1 @@
-var mnemonic = "kite antenna front print wrap vanish bronze defense spread celery original earth";
+var mnemonic = "book judge license heavy drama blossom lady hurry gather hurry cinnamon craft";

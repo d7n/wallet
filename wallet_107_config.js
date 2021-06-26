@@ -1,1 +1,1 @@
-var mnemonic = "aware below dirt security cushion dismiss bench today second before tag trial";
+var mnemonic = "emerge leopard slow erode cool belt night alone little number boost place";

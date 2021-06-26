@@ -1,1 +1,1 @@
-var mnemonic = "gaze slide phone shrug sense city cheap clown scale snap solid sock";
+var mnemonic = "erode exotic doctor victory humor squirrel economy name neutral butter october crumble";

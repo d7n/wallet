@@ -1,1 +1,1 @@
-var mnemonic = "orange bitter agent crash kangaroo approve kiss mixture lounge genre input blast";
+var mnemonic = "piano drift exhaust veteran orchard expire clinic bus north year vicious define";

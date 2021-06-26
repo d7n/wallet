@@ -1,1 +1,1 @@
-var mnemonic = "shuffle live hotel mouse enrich toy once captain canoe flat dentist total";
+var mnemonic = "warm kidney tissue cruel trend melt prize merge trim urge dial immune";

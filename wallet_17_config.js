@@ -1,1 +1,1 @@
-var mnemonic = "candy typical update maid inflict smooth viable eternal gift point index grit";
+var mnemonic = "coin labor dinosaur rifle program lab despair intact device vote aspect marine";

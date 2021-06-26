@@ -1,1 +1,1 @@
-var mnemonic = "north charge hero absent define uncle candy wagon rare hundred nature captain";
+var mnemonic = "doll journey idea cup nasty erosion client elite left owner write remove";

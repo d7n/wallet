@@ -1,1 +1,1 @@
-var mnemonic = "obscure stock sound great laundry mansion tool domain mansion drum elephant sound";
+var mnemonic = "zone milk chase lecture employ whale wagon prefer goddess stone thrive guilt";

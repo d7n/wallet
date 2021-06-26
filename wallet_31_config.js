@@ -1,1 +1,1 @@
-var mnemonic = "shaft tip prize walk entry industry cattle have salad bamboo gold picnic";
+var mnemonic = "baby verify scrub dance cradle moon daughter volume regular frog coast text";

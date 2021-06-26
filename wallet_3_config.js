@@ -1,1 +1,1 @@
-var mnemonic = "fragile disease pony reopen vessel wrap slide pudding cook cousin gate stone";
+var mnemonic = "fix stool type glare smart wonder live blossom enforce appear huge pink";

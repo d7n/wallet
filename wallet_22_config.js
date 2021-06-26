@@ -1,1 +1,1 @@
-var mnemonic = "shrug divide wall juice clap priority region trade remove purse rookie sand";
+var mnemonic = "owner caught chalk talent monster tortoise more permit weekend odor stomach buddy";

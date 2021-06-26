@@ -1,1 +1,1 @@
-var mnemonic = "balance keen glance method leopard crop idea circle napkin begin clip bag";
+var mnemonic = "jeans since current debris fossil office mobile start pizza orbit trouble settle";

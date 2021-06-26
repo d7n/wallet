@@ -1,1 +1,1 @@
-var mnemonic = "suspect ribbon chapter move feed dune scrub system lunch barrel anchor stable";
+var mnemonic = "census tower crew dynamic float trade lake nose flavor sense punch purity";

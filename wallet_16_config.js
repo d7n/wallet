@@ -1,1 +1,1 @@
-var mnemonic = "nation wet ladder chair unhappy purity shine stay agent betray entire salmon";
+var mnemonic = "merit zero cloth curious there kidney sponsor forum alpha rough ocean trophy";

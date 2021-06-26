@@ -1,1 +1,1 @@
-var mnemonic = "review gas sell hidden rose appear yard cross puzzle green shrimp film";
+var mnemonic = "caught kiss ski wasp acid high stock bounce chef that annual melody";

@@ -1,1 +1,1 @@
-var mnemonic = "health wife program bike easily begin alley music together keen affair ghost";
+var mnemonic = "six ripple scissors short august stuff inject few admit horse sponsor gentle";

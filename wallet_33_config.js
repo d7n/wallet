@@ -1,1 +1,1 @@
-var mnemonic = "apology entry include annual mutual security pitch spice foster elegant donkey angle";
+var mnemonic = "camera gauge height faith age rescue spin struggle beef fun donkey question";

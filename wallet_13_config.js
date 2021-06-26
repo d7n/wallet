@@ -1,1 +1,1 @@
-var mnemonic = "pear tennis fine grow park master dilemma equal axis turn emerge garbage";
+var mnemonic = "donkey outdoor clip method visit pulse core reunion educate aim clip army";

@@ -1,1 +1,1 @@
-var mnemonic = "already donate finish twice enroll copy pole license hope misery decide hurry";
+var mnemonic = "fall own genius tag mystery regret bubble ice smart remind bean maple";

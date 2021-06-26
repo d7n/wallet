@@ -1,1 +1,1 @@
-var mnemonic = "divide width few sight car cause focus minute walk puppy apology drastic";
+var mnemonic = "knee upper draft business knee effort ceiling history place coyote swift shuffle";

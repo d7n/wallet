@@ -1,1 +1,1 @@
-var mnemonic = "rough siege crawl task cash concert wide rabbit cricket venture measure nurse";
+var mnemonic = "mirror luggage hen hat lift convince glare final render rookie lawsuit clap";

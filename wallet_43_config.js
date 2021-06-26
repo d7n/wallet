@@ -1,1 +1,1 @@
-var mnemonic = "bitter jacket video blast shine absurd couch exhaust rich pave test round";
+var mnemonic = "era tuna stereo lucky pulse coil copper frost abandon goose state donkey";

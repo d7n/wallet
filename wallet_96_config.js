@@ -1,1 +1,1 @@
-var mnemonic = "behave state access know penalty boost champion immense able online fuel hole";
+var mnemonic = "include adult wet pepper spoon miracle raven salon vanish soccer vehicle topic";

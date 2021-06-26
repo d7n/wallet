@@ -1,1 +1,1 @@
-var mnemonic = "over defy oil tattoo argue father true hero near latin figure thought";
+var mnemonic = "trouble merit submit core alley false scene employ expect high sponsor mercy";

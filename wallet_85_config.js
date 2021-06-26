@@ -1,1 +1,1 @@
-var mnemonic = "stone surge excuse shoot pole badge identify roof delay undo scene frozen";
+var mnemonic = "inside agree canal trouble fitness town page asset move fat shoulder rack";

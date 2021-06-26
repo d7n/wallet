@@ -1,1 +1,1 @@
-var mnemonic = "aisle visit flight stone solve time crystal puppy need web alert chair";
+var mnemonic = "ice snow inherit various infant accident motor smart forum sing gate cotton";

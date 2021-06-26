@@ -1,1 +1,1 @@
-var mnemonic = "unknown taste dress van thing tray cross social once extra time radar";
+var mnemonic = "warfare eye wagon crumble napkin fresh forum shed cargo era sniff mimic";

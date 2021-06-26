@@ -1,1 +1,1 @@
-var mnemonic = "fog wild pretty decorate dismiss suggest ability discover warfare window lend lift";
+var mnemonic = "milk truly biology real scheme biology poem load shell number release shrimp";

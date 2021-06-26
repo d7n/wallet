@@ -1,1 +1,1 @@
-var mnemonic = "weasel opinion dwarf wedding student inspire unhappy clinic dream couch seminar cross";
+var mnemonic = "heart boat camp mean erode orchard small rebuild render oyster town derive";

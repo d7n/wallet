@@ -1,1 +1,1 @@
-var mnemonic = "trap rotate transfer sort sample heavy ivory under hero oak survey donkey";
+var mnemonic = "curious basic they dog void purpose brush manual ginger wage biology oblige";

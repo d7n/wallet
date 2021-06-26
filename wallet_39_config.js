@@ -1,1 +1,1 @@
-var mnemonic = "admit stay ancient crunch legend swarm major avoid day night lesson miracle";
+var mnemonic = "enlist distance judge mammal club mechanic super sugar shift risk wrap figure";

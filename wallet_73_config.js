@@ -1,1 +1,1 @@
-var mnemonic = "diamond abuse tongue chef silver ribbon cave used tourist measure blanket denial";
+var mnemonic = "lunch salute board noble dish owner spoil eager fun stand feed industry";

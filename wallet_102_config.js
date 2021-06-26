@@ -1,1 +1,1 @@
-var mnemonic = "ignore smile later sponsor dash glance truly pig pave round congress silver";
+var mnemonic = "cheese digital section give urge smooth opinion section ahead frame split own";

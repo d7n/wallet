@@ -1,1 +1,1 @@
-var mnemonic = "feature metal banner climb sugar proof stomach rural unique remember solution typical";
+var mnemonic = "cruise present link stay dignity rabbit wild pool future almost laugh inch";

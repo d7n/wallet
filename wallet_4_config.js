@@ -1,1 +1,1 @@
-var mnemonic = "keen school engine outer install usage document diet monkey draw kitten buzz";
+var mnemonic = "window patch emotion pact awful sign toast frost myself mesh crazy opera";

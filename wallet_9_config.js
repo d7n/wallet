@@ -1,1 +1,1 @@
-var mnemonic = "core strike crew bubble judge step moment lion brass meadow grocery feed";
+var mnemonic = "climb private shield option order execute capital public symptom camp evidence early";

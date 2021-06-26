@@ -1,1 +1,1 @@
-var mnemonic = "annual salt lawn work music wisdom engage ozone client rose alpha panic";
+var mnemonic = "trumpet ill memory force ability churn smooth silent ozone pitch resource know";

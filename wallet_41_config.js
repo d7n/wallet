@@ -1,1 +1,1 @@
-var mnemonic = "nut equip arctic bread own fix hill crumble salute flower conduct snap";
+var mnemonic = "flush valid move onion latin protect cash six liar favorite nasty merry";

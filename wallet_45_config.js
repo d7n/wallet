@@ -1,1 +1,1 @@
-var mnemonic = "face gap winter draw tuition quantum approve response opinion jump grit under";
+var mnemonic = "donkey cave brand virtual million broom rely lava cube whale usage hip";

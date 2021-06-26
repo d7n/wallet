@@ -1,1 +1,1 @@
-var mnemonic = "odor later feed lunch enter glow series again slush ribbon attack swim";
+var mnemonic = "kangaroo cotton garlic just music series stick make tonight myth art stone";

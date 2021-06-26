@@ -1,1 +1,1 @@
-var mnemonic = "nominee lemon glove program loud sample habit steel pet physical ride caution";
+var mnemonic = "equip unlock gap spin island betray zone tape napkin wheat choose stand";

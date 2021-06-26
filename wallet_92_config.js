@@ -1,1 +1,1 @@
-var mnemonic = "web cluster wreck year price twenty liquid forget tired army finish urge";
+var mnemonic = "copy private uncle shoulder ocean primary purse sport pet travel orange unique";

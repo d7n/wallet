@@ -1,1 +1,1 @@
-var mnemonic = "tone elite bomb congress slab when march spoon twist exclude vacant alien";
+var mnemonic = "update gas sentence flavor educate huge distance cry suffer know more ivory";

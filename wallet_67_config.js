@@ -1,1 +1,1 @@
-var mnemonic = "brother comfort chalk anxiety describe casual turkey notice door mom diary deny";
+var mnemonic = "bunker pink kiss diet change snake female course trash away torch napkin";

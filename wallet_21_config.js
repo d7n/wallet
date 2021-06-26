@@ -1,1 +1,1 @@
-var mnemonic = "ancient divorce gasp final awesome vehicle canyon crumble chair dose close mixture";
+var mnemonic = "believe night shiver provide fox exit food gift major subject brush excite";

@@ -1,1 +1,1 @@
-var mnemonic = "uphold iron series tonight quarter odor chat embody ski rail erase message";
+var mnemonic = "wash river trip proud grunt rice prison height slice oven swim later";

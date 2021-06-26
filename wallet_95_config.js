@@ -1,1 +1,1 @@
-var mnemonic = "library lonely bubble own banana satisfy prevent pitch midnight enlist pigeon flash";
+var mnemonic = "brand hamster laptop rocket trim prevent rent output album endorse treat spoon";

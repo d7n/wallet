@@ -1,1 +1,1 @@
-var mnemonic = "upset bitter topple nest antenna tuna fiscal fame icon turkey ask ring";
+var mnemonic = "useful famous castle actress stereo volume capable toward fresh ankle early actual";

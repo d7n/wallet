@@ -1,1 +1,1 @@
-var mnemonic = "very occur wheat food raven hockey loan erupt kick swear habit will";
+var mnemonic = "visual element tree supply cover monster consider saddle awkward pig next unveil";

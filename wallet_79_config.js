@@ -1,1 +1,1 @@
-var mnemonic = "know body august snack vote addict water garage layer cement carry salute";
+var mnemonic = "limit before town group swamp involve cage fiber amateur monitor promote boil";

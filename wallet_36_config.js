@@ -1,1 +1,1 @@
-var mnemonic = "dismiss grab oven they huge turtle harsh stay various quantum together legend";
+var mnemonic = "yellow sock select stamp pistol fire early all pull salon stem diary";

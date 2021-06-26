@@ -1,1 +1,1 @@
-var mnemonic = "note congress thumb best pyramid tail shoulder change party chimney olympic zone";
+var mnemonic = "medal excuse globe best duty dizzy loyal recall asthma salad kingdom organ";

@@ -1,1 +1,1 @@
-var mnemonic = "ramp twin liberty pole unaware crucial sauce episode unveil dust key estate";
+var mnemonic = "exist glimpse battle helmet lyrics lunar lunch acoustic open blur spare weapon";

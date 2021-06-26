@@ -1,1 +1,1 @@
-var mnemonic = "soap hurdle ready smart uphold snack achieve people enemy join upgrade source";
+var mnemonic = "rebel move tape friend improve employ message ability about clarify pulse addict";

@@ -1,1 +1,1 @@
-var mnemonic = "exhibit tonight resemble have fossil kiwi tortoise picnic tray satisfy toddler climb";
+var mnemonic = "any glimpse coast topic bus spoil security glue oxygen wagon gallery lunch";

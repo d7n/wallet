@@ -1,1 +1,1 @@
-var mnemonic = "oak cake lunar theory aware make control weekend weird album vital home";
+var mnemonic = "anchor memory merge boat furnace drama fancy scare mercy library select vicious";

@@ -1,1 +1,1 @@
-var mnemonic = "talk area profit notice number kingdom rhythm easily since undo winner zebra";
+var mnemonic = "cruel magnet happy mean mix claim glare pig audit error beach deputy";

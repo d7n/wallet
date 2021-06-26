@@ -1,1 +1,1 @@
-var mnemonic = "sail raise slush fiber rabbit plug marble volcano process pulse symptom december";
+var mnemonic = "hero essay swing negative wall suit whip rice earth degree valve exotic";

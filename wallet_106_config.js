@@ -1,1 +1,1 @@
-var mnemonic = "crater thank escape left dilemma present wagon large degree rough buffalo hover";
+var mnemonic = "refuse curve food clown viable twin cigar thank pledge imitate main tomorrow";

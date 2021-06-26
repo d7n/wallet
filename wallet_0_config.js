@@ -1,1 +1,1 @@
-var mnemonic = "party build divorce music dinosaur setup foam rain ice popular trust govern";
+var mnemonic = "ethics steak grace key square have cube rifle slogan alone ocean van";

@@ -1,1 +1,1 @@
-var mnemonic = "verb screen alarm duck own flavor behind balcony arrest remember prepare hungry";
+var mnemonic = "bottom mistake put satoshi deliver venue enjoy drink fruit detect whale edit";

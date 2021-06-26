@@ -1,1 +1,1 @@
-var mnemonic = "innocent media police traffic toy meadow amount tell purpose narrow jeans wish";
+var mnemonic = "taste happy grit tag error frost eye ankle apple decade oppose tooth";

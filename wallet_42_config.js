@@ -1,1 +1,1 @@
-var mnemonic = "flash alpha system reflect floor much ring kind rocket glare auction come";
+var mnemonic = "spot organ spoon orbit maple same boy public boring boring dutch ethics";

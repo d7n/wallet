@@ -1,1 +1,1 @@
-var mnemonic = "genius long liberty fog salmon credit short kitten ten script sketch bone";
+var mnemonic = "piano clarify job alone cradle exile short sail mistake birth crack fossil";

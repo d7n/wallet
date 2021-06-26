@@ -1,1 +1,1 @@
-var mnemonic = "once wash purchase rib zoo emerge visual review amount casual join save";
+var mnemonic = "carbon afraid artwork adjust anchor true ankle castle risk item wing canoe";

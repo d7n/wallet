@@ -1,1 +1,1 @@
-var mnemonic = "rich agree penalty nature pave clay twelve option wage head coach mistake";
+var mnemonic = "sweet kick phrase sorry top payment profit rebel torch piano treat anxiety";

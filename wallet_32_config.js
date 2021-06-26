@@ -1,1 +1,1 @@
-var mnemonic = "captain hawk brisk boss weapon dizzy hair boy game essay olive dose";
+var mnemonic = "nest worry spice tornado security fatal oven squeeze gloom coin punch there";

@@ -1,1 +1,1 @@
-var mnemonic = "gossip library alone voyage mistake issue educate equip funny weather adjust pig";
+var mnemonic = "reward enlist hybrid always identify chapter rely space bitter merit glimpse fork";

@@ -1,1 +1,1 @@
-var mnemonic = "boss pond turtle gym expose unit juice lift fox ten solid promote";
+var mnemonic = "army ticket gasp afraid treat shell shine liar version ahead federal action";

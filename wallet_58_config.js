@@ -1,1 +1,1 @@
-var mnemonic = "tilt exact stumble trial clock subject wreck truck nose slush close where";
+var mnemonic = "hour casual escape sail steel now rice first magnet phrase amateur inner";

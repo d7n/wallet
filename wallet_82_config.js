@@ -1,1 +1,1 @@
-var mnemonic = "elder hawk hamster canoe hurry uphold fade fortune mutual cheap pig cactus";
+var mnemonic = "lawsuit edge bridge wrist time slim run stable report car squeeze south";

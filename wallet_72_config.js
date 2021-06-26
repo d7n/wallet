@@ -1,1 +1,1 @@
-var mnemonic = "heart wash jelly real dance sense catalog behave easy steak thought gold";
+var mnemonic = "large adapt course acoustic october infant canyon novel unable tent blade yard";

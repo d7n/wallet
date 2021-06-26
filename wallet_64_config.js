@@ -1,1 +1,1 @@
-var mnemonic = "sound erupt say fan include glory bind horse glass total nuclear element";
+var mnemonic = "calm media argue earth voyage stadium catch female what portion sphere allow";

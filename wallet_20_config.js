@@ -1,1 +1,1 @@
-var mnemonic = "filter exercise ripple shoe lemon sniff still conduct rally grab soon swallow";
+var mnemonic = "stove into mosquito ill six siege pulse sniff explain want insane motor";

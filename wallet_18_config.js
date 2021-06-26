@@ -1,1 +1,1 @@
-var mnemonic = "garlic march fiber giggle panic unhappy relief short slight balance vanish park";
+var mnemonic = "shove vital run dust divert mule build lemon enhance cereal fancy pill";

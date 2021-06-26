@@ -1,1 +1,1 @@
-var mnemonic = "portion student heart drastic jump toe practice actor demand tornado trap mad";
+var mnemonic = "tribe decline since guide aunt enforce use salmon traffic grant call wild";

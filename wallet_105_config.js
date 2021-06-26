@@ -1,1 +1,1 @@
-var mnemonic = "drastic limb sound tape loan foot body hobby grab three duck gift";
+var mnemonic = "more crawl exact piece lab once cook embrace reopen illegal sound stove";

@@ -1,1 +1,1 @@
-var mnemonic = "mix again burger key prevent love marble federal black enjoy glide enemy";
+var mnemonic = "attitude usage brand anchor great around lonely urge viable economy divide spend";

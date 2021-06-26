@@ -1,1 +1,1 @@
-var mnemonic = "cloud movie damp secret void cement one extra history cave web park";
+var mnemonic = "skull solar artwork ready race fabric mixture pledge crunch absent try photo";
