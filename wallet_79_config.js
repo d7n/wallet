@@ -1,1 +1,1 @@
-var mnemonic = "bench bind again spell swift table tragic swarm suffer woman add dizzy";
+var mnemonic = "document address reject forward toe season frozen depend toilet upset industry horror";

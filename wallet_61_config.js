@@ -1,1 +1,1 @@
-var mnemonic = "admit glove once blanket reason tissue before artist despair picture early crucial";
+var mnemonic = "brass simple burger thunder diary electric raccoon love bus combine typical obvious";

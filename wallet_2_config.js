@@ -1,1 +1,1 @@
-var mnemonic = "order little bike nice bullet base mix wet lamp autumn regular bounce";
+var mnemonic = "draw car shoot heavy payment chest total mail owner tuna winner throw";

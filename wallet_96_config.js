@@ -1,1 +1,1 @@
-var mnemonic = "mercy between page custom glass daring drill animal diary slide retire note";
+var mnemonic = "pause various venture chief slight private grow forum evil relax episode frequent";

@@ -1,1 +1,1 @@
-var mnemonic = "know knife filter parade accident position diagram crouch truly voyage ancient omit";
+var mnemonic = "crunch level between open credit tooth fuel attack action gym execute paddle";

@@ -1,1 +1,1 @@
-var mnemonic = "keen fresh estate raccoon present priority strong walnut whale mobile monster general";
+var mnemonic = "render razor ancient twelve skin trend sniff humble debate extra zoo ecology";

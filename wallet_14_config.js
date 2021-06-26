@@ -1,1 +1,1 @@
-var mnemonic = "test essence thrive cheap quality smile boost enjoy want lend acid pelican";
+var mnemonic = "cactus improve arrive million happy swarm fabric super used fall flavor lyrics";

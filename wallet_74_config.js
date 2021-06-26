@@ -1,1 +1,1 @@
-var mnemonic = "service gadget cook cruel scatter music faint apology holiday mushroom library coil";
+var mnemonic = "direct puppy home danger razor monitor olympic engage ghost easy health language";

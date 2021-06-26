@@ -1,1 +1,1 @@
-var mnemonic = "charge elevator puzzle goose test umbrella feature february make stone violin heavy";
+var mnemonic = "join slide mule survey error swap object major catch sketch odor route";

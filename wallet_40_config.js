@@ -1,1 +1,1 @@
-var mnemonic = "symbol camera decline mention galaxy able oppose bless infant expire dry crazy";
+var mnemonic = "orbit file vintage wasp super inherit island fever suggest bottom myth net";

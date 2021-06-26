@@ -1,1 +1,1 @@
-var mnemonic = "one home tongue collect keen claim poverty accident any inner cricket permit";
+var mnemonic = "fluid erosion balcony ball exotic media pluck road math olympic type awkward";

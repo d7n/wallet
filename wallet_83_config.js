@@ -1,1 +1,1 @@
-var mnemonic = "engage media fan that only main broken tone genius govern inject math";
+var mnemonic = "husband focus stable inject music army manual shove grid wing case install";

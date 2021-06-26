@@ -1,1 +1,1 @@
-var mnemonic = "puzzle slide silly gas knock miracle sound sock ladder pigeon fetch confirm";
+var mnemonic = "injury problem expire kitten reopen flat nuclear mandate define figure humble syrup";

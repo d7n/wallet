@@ -1,1 +1,1 @@
-var mnemonic = "gate whale fiber shine rather alien ridge glove sausage fatal target van";
+var mnemonic = "together cattle wash video picnic enroll what boat flock cluster ski width";

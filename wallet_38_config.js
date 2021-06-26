@@ -1,1 +1,1 @@
-var mnemonic = "perfect scene loop lounge security violin creek hybrid tonight oyster sunset mask";
+var mnemonic = "enhance toss vault screen festival wreck primary page only grit market camp";

@@ -1,1 +1,1 @@
-var mnemonic = "until aim diamond dumb around syrup want jazz bitter novel text soft";
+var mnemonic = "end better among innocent detect scene still cement pepper drink endless subway";

@@ -1,1 +1,1 @@
-var mnemonic = "endless cotton gorilla faint luxury gentle short attack fade rent trouble enough";
+var mnemonic = "ball record total culture tuna soul cross slender avoid soldier truly until";

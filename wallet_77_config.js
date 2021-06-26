@@ -1,1 +1,1 @@
-var mnemonic = "marine feed print clay yard wonder erosion leisure number funny dress load";
+var mnemonic = "defy virtual wolf panther eight settle myself vessel harsh pull cycle dish";

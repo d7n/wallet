@@ -1,1 +1,1 @@
-var mnemonic = "exotic lawn output know ivory room suspect carbon reflect will voice avoid";
+var mnemonic = "tennis mandate man bright ginger bullet sniff machine much vast call range";

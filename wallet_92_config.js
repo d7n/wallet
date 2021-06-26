@@ -1,1 +1,1 @@
-var mnemonic = "float maple test anxiety rebuild hotel begin tumble jazz clinic vanish blue";
+var mnemonic = "innocent imitate hockey evolve rubber grass three license inherit vessel square ramp";

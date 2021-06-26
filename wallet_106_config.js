@@ -1,1 +1,1 @@
-var mnemonic = "injury witness artefact all shock dose absent faith view canal move credit";
+var mnemonic = "timber across penalty lobster odor slogan office tissue bundle gown cable wink";

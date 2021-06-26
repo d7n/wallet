@@ -1,1 +1,1 @@
-var mnemonic = "unfold various bomb prize sunset faculty adjust guitar close define super between";
+var mnemonic = "hero ride exhaust split awkward ethics shrimp supply panel electric combine stock";

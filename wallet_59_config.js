@@ -1,1 +1,1 @@
-var mnemonic = "father direct marriage clown judge pass outside trumpet drink about book wrap";
+var mnemonic = "orbit prepare donkey grunt lab bid enhance smart laptop pause level message";

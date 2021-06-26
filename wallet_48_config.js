@@ -1,1 +1,1 @@
-var mnemonic = "common indoor theme spend first oblige celery airport chase remain nice wonder";
+var mnemonic = "question mean miracle cricket release prize oak bless alcohol drip drip harsh";

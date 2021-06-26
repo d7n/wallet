@@ -1,1 +1,1 @@
-var mnemonic = "flock dust proof track fabric please stay upon replace pottery horse extend";
+var mnemonic = "ostrich trip uncle argue script myself mad humor dry fossil flight mass";

@@ -1,1 +1,1 @@
-var mnemonic = "rocket rookie when move clog gain couple hill diagram live depart wrestle";
+var mnemonic = "february sunny deer tilt version rude endorse sting zero used fire muscle";

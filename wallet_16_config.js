@@ -1,1 +1,1 @@
-var mnemonic = "tornado bounce path stone learn fox diet mouse hospital clap gun fetch";
+var mnemonic = "upset corn unfair dinner mechanic erupt renew print hurt liberty jeans place";

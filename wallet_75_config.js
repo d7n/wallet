@@ -1,1 +1,1 @@
-var mnemonic = "brand arrange buffalo spatial poverty uphold dinner accuse wall replace until trick";
+var mnemonic = "silver slight panel such rail receive feed nest nice dune brother economy";

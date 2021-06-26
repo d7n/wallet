@@ -1,1 +1,1 @@
-var mnemonic = "game web pet question below quiz drive provide fluid pattern waste drink";
+var mnemonic = "warrior leave scene save length shallow effort poverty adult name amount shield";

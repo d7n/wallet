@@ -1,1 +1,1 @@
-var mnemonic = "churn host gasp apple force ridge feel tomorrow miss ripple ceiling minimum";
+var mnemonic = "deal prefer guess swift eagle spice ride filter lift same language pilot";

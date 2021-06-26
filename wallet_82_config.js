@@ -1,1 +1,1 @@
-var mnemonic = "visual mother alley rare only describe direct bullet inmate teach jacket fatal";
+var mnemonic = "scale law obtain guilt frost below maze capital surprise same cattle message";

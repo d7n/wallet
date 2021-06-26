@@ -1,1 +1,1 @@
-var mnemonic = "forget sight current visual limb goddess reveal either prison kid decrease park";
+var mnemonic = "situate negative future model this snow sea neck great typical strike phrase";

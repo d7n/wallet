@@ -1,1 +1,1 @@
-var mnemonic = "gun dash jazz liberty journey fantasy lava space pottery steel wish battle";
+var mnemonic = "canvas oblige umbrella metal frame income sausage oppose giraffe essay excuse situate";

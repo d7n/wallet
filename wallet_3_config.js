@@ -1,1 +1,1 @@
-var mnemonic = "produce know intact youth achieve dish strike lyrics tennis print trip suspect";
+var mnemonic = "develop differ stamp dad cricket faculty message piece retreat scene brass smile";

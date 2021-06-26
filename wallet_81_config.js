@@ -1,1 +1,1 @@
-var mnemonic = "fix wrist keep place alpha omit best flower foster hard hundred bulk";
+var mnemonic = "biology bundle width gorilla pattern eye nerve time endorse boring squirrel pulp";

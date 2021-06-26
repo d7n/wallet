@@ -1,1 +1,1 @@
-var mnemonic = "intact wood upon immense ladder island disagree report item actual learn front";
+var mnemonic = "recipe siren arrow enemy whisper stem maximum elegant edge rookie limit furnace";

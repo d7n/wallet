@@ -1,1 +1,1 @@
-var mnemonic = "nuclear version soda tortoise left speak giant gaze sunset leopard skate giraffe";
+var mnemonic = "simple wing until wife tail program distance gospel number inflict border couple";

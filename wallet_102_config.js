@@ -1,1 +1,1 @@
-var mnemonic = "verb situate front betray aware burger hotel design hour green shock boss";
+var mnemonic = "couch dance vivid pact rhythm kick brisk spike length fiction egg south";

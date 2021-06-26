@@ -1,1 +1,1 @@
-var mnemonic = "hover buzz service october gift cloud season include crew candy rival supply";
+var mnemonic = "cabbage wave limit pole obtain wine tonight already demand early connect surround";

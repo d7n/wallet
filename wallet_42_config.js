@@ -1,1 +1,1 @@
-var mnemonic = "story replace sister blouse anxiety lobster change certain lamp ankle scrap suggest";
+var mnemonic = "reopen fortune visual repair supreme arm orange firm aim cannon antenna fashion";

@@ -1,1 +1,1 @@
-var mnemonic = "truly focus muffin tragic hundred student high cruel gate sick annual valve";
+var mnemonic = "cannon pyramid napkin claim velvet core cancel hour atom jacket nature clog";

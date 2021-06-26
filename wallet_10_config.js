@@ -1,1 +1,1 @@
-var mnemonic = "eager glory long merge day need know usual must prize across recall";
+var mnemonic = "page pride success vast poet sick color desk label burst oak virus";

@@ -1,1 +1,1 @@
-var mnemonic = "upper teach raise edge slow jungle cart depth embark reduce normal pear";
+var mnemonic = "sing olive size word cycle boat online fire dress aerobic leaf gate";

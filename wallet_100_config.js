@@ -1,1 +1,1 @@
-var mnemonic = "biology bronze skull notable atom tragic cement mutual then stage wasp brown";
+var mnemonic = "various tuna neglect rude report duty device ethics inch traffic festival smooth";

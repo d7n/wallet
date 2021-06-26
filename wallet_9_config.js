@@ -1,1 +1,1 @@
-var mnemonic = "tree occur october car fiscal horn tennis soul embody until flash welcome";
+var mnemonic = "stairs crawl unhappy ozone time armed admit enable olive account alert method";

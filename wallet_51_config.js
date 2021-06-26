@@ -1,1 +1,1 @@
-var mnemonic = "glide crazy cruise crush goat taxi tape hover addict bitter stereo endless";
+var mnemonic = "mango stage still first student believe toe license viable average glance tag";

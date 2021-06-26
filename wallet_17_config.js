@@ -1,1 +1,1 @@
-var mnemonic = "eagle gloom flee lecture predict exist neutral flight announce usage rain meat";
+var mnemonic = "element honey pipe cross apology receive lizard noodle drama hat question next";

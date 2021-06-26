@@ -1,1 +1,1 @@
-var mnemonic = "bring smoke physical hour crisp sponsor biology mixture pink vacant brief boss";
+var mnemonic = "endorse snake twin acid same sick erupt viable panther tent sorry swarm";

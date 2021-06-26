@@ -1,1 +1,1 @@
-var mnemonic = "blush diagram electric wonder feel minute disorder pluck comfort confirm excite forward";
+var mnemonic = "debris unknown second club course village pen enlist shuffle sponsor connect burst";

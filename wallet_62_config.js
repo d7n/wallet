@@ -1,1 +1,1 @@
-var mnemonic = "cluster credit grid walnut melody puzzle soul satisfy review fun hurt bean";
+var mnemonic = "benefit oil strike ticket uncover grid birth room adapt senior cable slogan";

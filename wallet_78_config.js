@@ -1,1 +1,1 @@
-var mnemonic = "dinner flat casino artist rose often flash large kit furnace mask prevent";
+var mnemonic = "pond glad moment disorder picnic bus acquire ladder north share exhaust lounge";

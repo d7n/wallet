@@ -1,1 +1,1 @@
-var mnemonic = "around twice drift raw coconut select swap middle evidence bind garage wait";
+var mnemonic = "rose afford ability adult cabbage genius ocean leisure furnace confirm treat battle";

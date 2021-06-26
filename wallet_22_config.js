@@ -1,1 +1,1 @@
-var mnemonic = "midnight boring badge check million monitor manage enlist buzz pony glide wave";
+var mnemonic = "disagree wrist debate test shine torch claim produce bridge estate violin sustain";

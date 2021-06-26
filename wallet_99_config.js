@@ -1,1 +1,1 @@
-var mnemonic = "lizard coconut find actor timber viable chalk search maid skirt voice hour";
+var mnemonic = "fit forget giraffe employ trade power virtual baby avoid arctic tomato gorilla";

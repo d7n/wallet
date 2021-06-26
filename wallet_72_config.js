@@ -1,1 +1,1 @@
-var mnemonic = "time soda sample second knock loan clay marine define tuition slide cave";
+var mnemonic = "predict actual position gain hire tiger shrug input innocent grief smart twist";

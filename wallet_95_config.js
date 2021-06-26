@@ -1,1 +1,1 @@
-var mnemonic = "try case fly casual hurdle tent galaxy whisper rude glare mixture all";
+var mnemonic = "empower bean ankle leaf please donor silly marriage coast wish update about";

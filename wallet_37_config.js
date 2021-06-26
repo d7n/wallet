@@ -1,1 +1,1 @@
-var mnemonic = "seat police door system travel essay dentist color enact warm naive wheel";
+var mnemonic = "latin friend talent material grief supreme weapon jazz stamp future inch giggle";

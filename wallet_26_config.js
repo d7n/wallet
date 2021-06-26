@@ -1,1 +1,1 @@
-var mnemonic = "gaze artwork laugh crime shock quality above rate picnic repair provide thunder";
+var mnemonic = "hobby radio much goddess abuse great blur similar fix any close magic";

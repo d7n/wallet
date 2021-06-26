@@ -1,1 +1,1 @@
-var mnemonic = "worry awesome cotton modify annual dragon hand source obtain gesture judge solar";
+var mnemonic = "horse harsh now whisper host organ basic concert reason bulk bitter air";

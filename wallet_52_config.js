@@ -1,1 +1,1 @@
-var mnemonic = "day render swarm giggle boat mercy neglect timber exercise seminar sketch evidence";
+var mnemonic = "legal side rain helmet panda future dress cash smoke jar bulk essay";

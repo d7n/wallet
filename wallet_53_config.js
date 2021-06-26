@@ -1,1 +1,1 @@
-var mnemonic = "cruel lobster draw fossil fence struggle wealth escape huge feed wrap danger";
+var mnemonic = "pride company churn cheese traffic comfort situate toilet coffee proof amount choose";

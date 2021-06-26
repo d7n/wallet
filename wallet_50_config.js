@@ -1,1 +1,1 @@
-var mnemonic = "pig umbrella bomb capable cable island ski protect left someone ketchup busy";
+var mnemonic = "execute surface bus grain square code pair drop fetch interest gauge meat";

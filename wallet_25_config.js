@@ -1,1 +1,1 @@
-var mnemonic = "churn fruit mask simple confirm sport august add business bind vocal civil";
+var mnemonic = "various snake always skate vote aware humble poet property unveil magnet battle";

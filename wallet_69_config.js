@@ -1,1 +1,1 @@
-var mnemonic = "silly vicious slam draft bamboo panic sheriff funny hint enrich bacon more";
+var mnemonic = "essay gown burger cotton photo defy wire alarm furnace august license taxi";

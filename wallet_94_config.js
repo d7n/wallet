@@ -1,1 +1,1 @@
-var mnemonic = "heart aim resist margin wet wrong response base debate peasant little gown";
+var mnemonic = "rate chunk other salute strategy dragon squirrel rookie affair tomato there dutch";

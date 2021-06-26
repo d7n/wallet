@@ -1,1 +1,1 @@
-var mnemonic = "want open local palace recycle glare file winter online identify bunker rib";
+var mnemonic = "echo spirit unhappy virus boat yard mimic once prize enlist board casino";

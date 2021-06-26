@@ -1,1 +1,1 @@
-var mnemonic = "empty hello sunny choose connect electric rib disorder vehicle kind dance grunt";
+var mnemonic = "elder hollow grief great slice finish tank evil team process beauty suffer";

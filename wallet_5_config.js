@@ -1,1 +1,1 @@
-var mnemonic = "scrap feed inspire romance badge buyer hidden shock input motor delay dream";
+var mnemonic = "install odor nephew humor evil broken nest dirt knee royal process inhale";

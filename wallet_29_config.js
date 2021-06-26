@@ -1,1 +1,1 @@
-var mnemonic = "capital announce custom orchard canvas gain solve must myth pizza door nice";
+var mnemonic = "ugly lottery upper frozen brand ancient exclude industry tone solve shuffle believe";

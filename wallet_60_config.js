@@ -1,1 +1,1 @@
-var mnemonic = "vague comfort network injury correct title leave coin domain shine face frozen";
+var mnemonic = "put alien left bench couch leopard robot feature globe script spy depth";

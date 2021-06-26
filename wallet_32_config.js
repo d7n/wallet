@@ -1,1 +1,1 @@
-var mnemonic = "palm lemon motion river sausage shrimp ghost swift over pair valley iron";
+var mnemonic = "swift video sound owner north crisp blast warfare guide melody problem grunt";

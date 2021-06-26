@@ -1,1 +1,1 @@
-var mnemonic = "goddess test venture axis lab amateur setup asthma achieve road grocery route";
+var mnemonic = "issue apart target youth quantum slot eight fat avoid main degree mixture";

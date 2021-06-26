@@ -1,1 +1,1 @@
-var mnemonic = "volcano theory kit island address craft box oil excite cricket conduct friend";
+var mnemonic = "because kidney pottery yard arena hunt symbol weasel catch ensure gun lazy";

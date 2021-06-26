@@ -1,1 +1,1 @@
-var mnemonic = "envelope early spin vivid vast alone climb cube type surface anchor mind";
+var mnemonic = "current claw often harbor lemon sister pulp planet laptop blast pumpkin brown";

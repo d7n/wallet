@@ -1,1 +1,1 @@
-var mnemonic = "purse cereal gate acquire bid escape fame then marriage more fun shaft";
+var mnemonic = "execute neck screen hundred clinic fiber desert opinion axis habit green embrace";

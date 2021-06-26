@@ -1,1 +1,1 @@
-var mnemonic = "empty tilt bounce whip clap symbol rival dove brisk when world kangaroo";
+var mnemonic = "congress beauty invite employ way digital reward grace fork absorb learn exist";

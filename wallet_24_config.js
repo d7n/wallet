@@ -1,1 +1,1 @@
-var mnemonic = "they setup chapter move achieve jeans snow west trumpet pyramid sight wall";
+var mnemonic = "latin tide resist thunder enemy endorse inside gap pyramid joke fame table";

@@ -1,1 +1,1 @@
-var mnemonic = "powder wood toast shaft skill luggage refuse endless box remove when canyon";
+var mnemonic = "record baby alien parent element cabbage crumble coast essence acoustic recall garment";

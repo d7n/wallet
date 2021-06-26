@@ -1,1 +1,1 @@
-var mnemonic = "remember faith enemy wink destroy orbit expand tomato mosquito food same cute";
+var mnemonic = "pipe tiger alpha render wait special doll argue recipe iron turtle various";

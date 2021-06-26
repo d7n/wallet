@@ -1,1 +1,1 @@
-var mnemonic = "cash avoid movie any network horse twin inherit kiss patrol leisure fatal";
+var mnemonic = "leaf claim humble unknown increase picture then balcony define butter keep total";

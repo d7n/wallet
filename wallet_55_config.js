@@ -1,1 +1,1 @@
-var mnemonic = "ceiling venue federal assault save club also this frown chicken regular bachelor";
+var mnemonic = "hunt kiwi exhibit exile pair pond punch hood april coil evolve hole";

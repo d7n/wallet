@@ -1,1 +1,1 @@
-var mnemonic = "staff upper album piece track submit ecology parrot close company cloud scrub";
+var mnemonic = "excuse churn link cloud actress inflict paper burger glimpse nothing hub clarify";

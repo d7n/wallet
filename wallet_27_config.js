@@ -1,1 +1,1 @@
-var mnemonic = "guitar loyal tail people arrest obscure cigar private wealth vapor screen butter";
+var mnemonic = "miracle drive cricket travel moon guide foil visit pole motor journey online";

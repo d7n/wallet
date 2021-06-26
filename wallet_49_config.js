@@ -1,1 +1,1 @@
-var mnemonic = "accident property bitter life reject era december express category tool receive hint";
+var mnemonic = "elevator february forum online tiger scout fortune path toy all brave pave";

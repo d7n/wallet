@@ -1,1 +1,1 @@
-var mnemonic = "stick away buddy salmon spoil office tail arrive you welcome inhale hello";
+var mnemonic = "garage waste zone panel gesture long match divide add sell wasp roast";

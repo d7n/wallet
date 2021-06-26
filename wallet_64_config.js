@@ -1,1 +1,1 @@
-var mnemonic = "amused uncle whip eyebrow alarm bonus wage velvet replace fence charge eight";
+var mnemonic = "clerk level smart welcome earth merit tired shoot cheap fog bullet arena";

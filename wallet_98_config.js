@@ -1,1 +1,1 @@
-var mnemonic = "stamp rabbit boil couple jazz add under risk discover patient awesome unusual";
+var mnemonic = "lesson ghost wage turtle owner movie rhythm truly disease lab faith spider";

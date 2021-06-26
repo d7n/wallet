@@ -1,1 +1,1 @@
-var mnemonic = "trend now violin above screen lecture yellow autumn finish glide assume harvest";
+var mnemonic = "assault into derive pistol sausage throw horn reason wait desert blind creek";

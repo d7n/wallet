@@ -1,1 +1,1 @@
-var mnemonic = "rebel ready always current cinnamon shaft sudden slice pause response kiss direct";
+var mnemonic = "near leave grid reveal onion denial middle steak axis course thunder dilemma";

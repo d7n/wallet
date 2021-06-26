@@ -1,1 +1,1 @@
-var mnemonic = "evidence void logic region divorce token assault disorder depth cinnamon ice truly";
+var mnemonic = "door arch spare hub struggle jaguar spread scale luggage myth regret foster";

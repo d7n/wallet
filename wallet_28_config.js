@@ -1,1 +1,1 @@
-var mnemonic = "camp bridge lounge urge fire slender angle almost journey future pulse scissors";
+var mnemonic = "demand odor immense fiscal acquire autumn exclude angle only elbow endless aunt";

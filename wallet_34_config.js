@@ -1,1 +1,1 @@
-var mnemonic = "earth feed treat fossil obvious govern waste oppose wreck empty vicious patch";
+var mnemonic = "review advice soda hobby innocent ship speak chimney pig knock analyst trick";

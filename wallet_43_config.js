@@ -1,1 +1,1 @@
-var mnemonic = "loan wide limit nurse spatial print quantum gun lottery equal arctic source";
+var mnemonic = "decrease result reform course say powder holiday person toward waste innocent aisle";
