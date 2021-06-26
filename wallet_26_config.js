@@ -1,1 +1,1 @@
-var mnemonic = "world scatter twist pigeon move corn march swap ocean income small cargo";
+var mnemonic = "brand engage despair bridge arrest move property bean cereal ankle blast nut";

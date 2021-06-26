@@ -1,1 +1,1 @@
-var mnemonic = "pear glove deliver truck fire grace verify liar alarm repeat explain tide";
+var mnemonic = "spin shadow taste excuse snow repair disagree embark ecology ghost bulk castle";

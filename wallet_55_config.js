@@ -1,1 +1,1 @@
-var mnemonic = "decade make elegant easily split tribe sister fine breeze rib fetch civil";
+var mnemonic = "innocent then lumber rival ozone educate daring pigeon judge modify couch creek";

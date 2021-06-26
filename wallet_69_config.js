@@ -1,1 +1,1 @@
-var mnemonic = "hub correct link season decorate fringe fortune peanut fall puzzle sketch coral";
+var mnemonic = "minor worth spell once market common country hungry grow search alley remember";

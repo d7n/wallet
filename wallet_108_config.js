@@ -1,1 +1,1 @@
-var mnemonic = "spatial marine ocean act over almost trade crack method hill year live";
+var mnemonic = "cancel time sniff slight gentle aisle obvious kitchen ethics bonus exhibit matter";

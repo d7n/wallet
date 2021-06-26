@@ -1,1 +1,1 @@
-var mnemonic = "trash stage world autumn neither dose cost rubber hold chase hurt caught";
+var mnemonic = "summer naive talent decrease mesh blue ceiling strong outside health teach ladder";

@@ -1,1 +1,1 @@
-var mnemonic = "focus mammal moment filter insane october rebel wife mouse gallery athlete finish";
+var mnemonic = "movie horror light else frog chunk opera script rich bless math pulp";

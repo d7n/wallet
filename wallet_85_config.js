@@ -1,1 +1,1 @@
-var mnemonic = "sentence state model athlete record primary window trophy reward excite logic wear";
+var mnemonic = "aspect tortoise either riot proof general they dynamic only hip story vast";

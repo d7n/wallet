@@ -1,1 +1,1 @@
-var mnemonic = "into endless latin nephew negative ankle prevent husband maximum item knife loan";
+var mnemonic = "elegant arrow maze drop adjust globe evil suggest run lobster receive congress";

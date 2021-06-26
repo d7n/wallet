@@ -1,1 +1,1 @@
-var mnemonic = "photo before ceiling chef swamp horror relax quit talent monster during decorate";
+var mnemonic = "tortoise fish fly breeze october satoshi room all wave wool town offer";

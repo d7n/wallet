@@ -1,1 +1,1 @@
-var mnemonic = "equip document flush hungry parrot update throw summer better gap merit educate";
+var mnemonic = "inner august ball betray draft bulb lecture favorite image slow scare dust";

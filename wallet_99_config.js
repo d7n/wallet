@@ -1,1 +1,1 @@
-var mnemonic = "oppose weasel lizard attend day reunion achieve blind cannon bacon gallery elevator";
+var mnemonic = "coyote dragon exchange depth valley sense caught spell define marriage pact mixture";

@@ -1,1 +1,1 @@
-var mnemonic = "wife track error broken memory smooth thumb quality beef fortune danger draft";
+var mnemonic = "amount cigar tag sail cigar must patch shaft harsh miss glass disagree";

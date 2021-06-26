@@ -1,1 +1,1 @@
-var mnemonic = "night advice hammer vapor differ put vote priority bus arrow ranch artist";
+var mnemonic = "trend aisle leisure license baby intact mountain endorse copper wasp reunion whisper";

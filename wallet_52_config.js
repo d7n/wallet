@@ -1,1 +1,1 @@
-var mnemonic = "example fat surround fee wide swarm joy velvet ugly kangaroo year virtual";
+var mnemonic = "oxygen since kidney glance material promote question private knee rebuild start utility";

@@ -1,1 +1,1 @@
-var mnemonic = "garden resource negative size unfold nominee empty category reason police parent egg";
+var mnemonic = "space symbol again combine alarm fly nerve help test choice waste exotic";

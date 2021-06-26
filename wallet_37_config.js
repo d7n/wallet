@@ -1,1 +1,1 @@
-var mnemonic = "dignity work ceiling mercy royal west account armor nose online teach cave";
+var mnemonic = "couple carry ghost follow knife peanut life nerve purse canyon square build";

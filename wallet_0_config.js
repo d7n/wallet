@@ -1,1 +1,1 @@
-var mnemonic = "field entry media anxiety adjust vivid damp exact hand ten business dice";
+var mnemonic = "ten scout lawsuit enable elbow sugar famous pipe judge wet fun poverty";

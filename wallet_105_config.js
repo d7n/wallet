@@ -1,1 +1,1 @@
-var mnemonic = "render history garlic hundred deny voice evidence iron smoke reopen length author";
+var mnemonic = "auction season alarm lyrics cloud super under gorilla stem fan gun island";

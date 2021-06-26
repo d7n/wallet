@@ -1,1 +1,1 @@
-var mnemonic = "tip giraffe real dirt degree all service room turkey salad tourist turn";
+var mnemonic = "travel chat egg grief metal cage knee resource pottery window grid bind";

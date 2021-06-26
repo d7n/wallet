@@ -1,1 +1,1 @@
-var mnemonic = "make protect marriage hood another rotate gospel pledge feel quote awkward chief";
+var mnemonic = "problem spawn silly ignore treat bike furnace soft meat destroy rhythm kick";

@@ -1,1 +1,1 @@
-var mnemonic = "ahead soccer level ready submit trip athlete base cattle have boat letter";
+var mnemonic = "poem fortune scout dune tone service grow baby actor mad mandate reward";

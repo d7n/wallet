@@ -1,1 +1,1 @@
-var mnemonic = "dove enroll fence anchor nation slender edge impulse success asset differ measure";
+var mnemonic = "duck upgrade leaf solar rail also float material inhale meat math cluster";

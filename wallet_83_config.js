@@ -1,1 +1,1 @@
-var mnemonic = "smart hand drum notable initial husband envelope neutral deal stand crash swim";
+var mnemonic = "distance virtual document title today achieve congress foil patient valid host dizzy";

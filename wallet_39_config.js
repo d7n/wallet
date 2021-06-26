@@ -1,1 +1,1 @@
-var mnemonic = "exit before morning coin grid fitness roof naive genre hen toward patch";
+var mnemonic = "never follow jazz echo uncle myself dynamic clap spoon thing end rival";

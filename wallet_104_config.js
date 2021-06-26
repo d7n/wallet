@@ -1,1 +1,1 @@
-var mnemonic = "east shed curtain panther detail sustain nothing shiver wedding episode strategy kangaroo";
+var mnemonic = "lens apple oil water forest secret reject right sing digital call useful";

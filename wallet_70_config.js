@@ -1,1 +1,1 @@
-var mnemonic = "gift chicken logic divert tool kit guard injury empower time spell razor";
+var mnemonic = "reveal match unfair hover salute just april crawl empower vacant become drill";

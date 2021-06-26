@@ -1,1 +1,1 @@
-var mnemonic = "valve hurdle destroy board devote armed treat cry blouse divide melody common";
+var mnemonic = "grit board express mystery turtle identify deputy confirm timber miracle define alcohol";

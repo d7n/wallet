@@ -1,1 +1,1 @@
-var mnemonic = "daughter age pride better frozen sauce burger nose lobster intact rally local";
+var mnemonic = "neglect lunch push brisk tired mercy dose diamond police silk drama laugh";

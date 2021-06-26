@@ -1,1 +1,1 @@
-var mnemonic = "bomb task mention bubble mango rate bubble tank tip ask vast mercy";
+var mnemonic = "spider begin below divert under gossip sponsor science border speak pig amount";

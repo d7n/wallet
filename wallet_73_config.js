@@ -1,1 +1,1 @@
-var mnemonic = "city bright device jungle gift today argue client post board network upper";
+var mnemonic = "enjoy avoid say way busy process topple proud giraffe trap initial small";

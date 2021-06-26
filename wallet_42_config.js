@@ -1,1 +1,1 @@
-var mnemonic = "stage economy dial energy little effort spawn jelly flight flip place void";
+var mnemonic = "april course wrestle apology apology exotic switch border follow auto gown slow";

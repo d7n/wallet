@@ -1,1 +1,1 @@
-var mnemonic = "kingdom pioneer smoke impact absent add keep axis smart apology farm flag";
+var mnemonic = "item surge verb victory wish used angle salute combine marriage abuse gorilla";

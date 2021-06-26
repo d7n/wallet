@@ -1,1 +1,1 @@
-var mnemonic = "crunch neutral caution hammer chase member spice slush find bread movie small";
+var mnemonic = "result stumble bean around way cancel relax horn release unique veteran endless";

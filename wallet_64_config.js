@@ -1,1 +1,1 @@
-var mnemonic = "core ugly pulp want live crater voice plate multiply miracle example chief";
+var mnemonic = "clown apology candy eager grit pizza remember drastic extend clip bunker win";

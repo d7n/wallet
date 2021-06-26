@@ -1,1 +1,1 @@
-var mnemonic = "panel outdoor tray express swim win hour census benefit vapor lunch artefact";
+var mnemonic = "catch soap tattoo resist pattern budget doll because mouse danger museum erosion";

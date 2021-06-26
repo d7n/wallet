@@ -1,1 +1,1 @@
-var mnemonic = "eagle stomach right express alcohol position letter field write expire light coin";
+var mnemonic = "empower heavy please payment brush purity inmate frozen spice key neutral metal";

@@ -1,1 +1,1 @@
-var mnemonic = "fancy original grace swift pink festival business sponsor oyster match patrol office";
+var mnemonic = "marriage tail report gauge yard claw stamp foil affair switch reduce mirror";

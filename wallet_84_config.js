@@ -1,1 +1,1 @@
-var mnemonic = "van purpose vessel jar undo torch sketch gorilla will unfold tip emotion";
+var mnemonic = "oblige solar naive hawk reject author slot safe picnic item legal seven";

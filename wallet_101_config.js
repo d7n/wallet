@@ -1,1 +1,1 @@
-var mnemonic = "embody fan gaze cloud call bone remain spider argue toss any engage";
+var mnemonic = "attend man lift spider behind ginger nice choose biology firm raw normal";

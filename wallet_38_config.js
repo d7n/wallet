@@ -1,1 +1,1 @@
-var mnemonic = "buyer acid cattle aisle sorry assume move faculty caught surge gift acid";
+var mnemonic = "twist afford seven mom key run you torch element obscure sponsor clever";

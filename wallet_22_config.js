@@ -1,1 +1,1 @@
-var mnemonic = "setup mixture move lazy speak detect glow term bag sell tell average";
+var mnemonic = "giant impose absurd river giraffe genius parent coin axis half crunch dynamic";

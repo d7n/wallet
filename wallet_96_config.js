@@ -1,1 +1,1 @@
-var mnemonic = "tell decrease table nature dilemma blood service monitor huge gift lizard subway";
+var mnemonic = "inmate siren oven silk law survey eight flavor round domain diet olympic";

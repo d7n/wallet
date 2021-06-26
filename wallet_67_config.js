@@ -1,1 +1,1 @@
-var mnemonic = "embody state potato street valve place setup library usage duty ginger quick";
+var mnemonic = "orphan want execute leader earth logic bar coin interest wasp wasp sorry";

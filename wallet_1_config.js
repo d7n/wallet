@@ -1,1 +1,1 @@
-var mnemonic = "second process enough bacon reason obscure alley near palm result bleak fever";
+var mnemonic = "author track service crater fee midnight taxi health tobacco crucial parrot bubble";

@@ -1,1 +1,1 @@
-var mnemonic = "broccoli lobster arrange estate choice device vacuum palace shy glide start claw";
+var mnemonic = "guitar pudding patch wagon people wrong label hello flee extra fragile render";

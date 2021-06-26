@@ -1,1 +1,1 @@
-var mnemonic = "team gas soft ethics ecology man deny remind patch glue color senior";
+var mnemonic = "bag ensure length suffer renew expand medal ship hood tank add message";

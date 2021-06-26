@@ -1,1 +1,1 @@
-var mnemonic = "civil casino loop finish tornado pilot mechanic consider argue joy letter cloud";
+var mnemonic = "tilt island shy arena ketchup beyond major ready capable genius right execute";

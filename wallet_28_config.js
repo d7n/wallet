@@ -1,1 +1,1 @@
-var mnemonic = "chapter orchard leg vapor collect patrol vacant fame leopard size cash scatter";
+var mnemonic = "weird margin galaxy gather talent inform wash cause outdoor orbit barrel fold";

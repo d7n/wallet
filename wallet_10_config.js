@@ -1,1 +1,1 @@
-var mnemonic = "point planet force theme swing staff island jungle meadow lizard state morning";
+var mnemonic = "earth solar poverty identify congress off upper stay business razor ignore glory";

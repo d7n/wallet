@@ -1,1 +1,1 @@
-var mnemonic = "give rough swarm digital tired company rent charge behave bounce brave antenna";
+var mnemonic = "join glance belt awful very bench mouse venture program violin pool office";

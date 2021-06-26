@@ -1,1 +1,1 @@
-var mnemonic = "forget maximum dawn exotic people common unknown belt process ketchup erosion truly";
+var mnemonic = "define fortune mail catalog humor casino choose bargain orphan pyramid verify leader";

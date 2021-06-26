@@ -1,1 +1,1 @@
-var mnemonic = "deer feature enlist purchase mammal hybrid noble wine mask shoulder join pole";
+var mnemonic = "attend wall soccer entire saddle stay rather rifle lunch blush behave roast";

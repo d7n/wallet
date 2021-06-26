@@ -1,1 +1,1 @@
-var mnemonic = "affair tip runway goose february remain master special tip prepare idea sort";
+var mnemonic = "admit prosper only defy couple number aspect unfair tackle novel salute awkward";

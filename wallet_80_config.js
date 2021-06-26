@@ -1,1 +1,1 @@
-var mnemonic = "marine tattoo palm dolphin unveil truth obtain super modify long special true";
+var mnemonic = "own secret fuel spawn lend kidney inch stock book young wheat chunk";

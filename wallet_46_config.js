@@ -1,1 +1,1 @@
-var mnemonic = "tiger fork benefit symbol maple drive rapid alley acoustic appear junk tribe";
+var mnemonic = "symbol language scrub wave sister combine minute crop midnight bundle resist mimic";

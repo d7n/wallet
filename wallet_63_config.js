@@ -1,1 +1,1 @@
-var mnemonic = "dog chief column lunar frequent globe lift state candy tourist pottery segment";
+var mnemonic = "cross walnut sing shuffle various spoon void merge museum pilot able waste";

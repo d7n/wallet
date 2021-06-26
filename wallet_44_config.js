@@ -1,1 +1,1 @@
-var mnemonic = "march solution legend reduce help limb goose twin firm fork eager length";
+var mnemonic = "flip cigar elegant cheese depth edge achieve soldier pluck lizard duty history";

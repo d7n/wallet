@@ -1,1 +1,1 @@
-var mnemonic = "rose raccoon finger announce slam media reward teach drum nice tenant chef";
+var mnemonic = "annual taste jar rabbit grace hand bonus nominee cube ginger multiply lounge";

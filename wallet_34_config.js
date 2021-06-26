@@ -1,1 +1,1 @@
-var mnemonic = "usage adjust arrow wealth flat burger morning solve convince example eight fatal";
+var mnemonic = "hobby sense sing liar mansion tape behind onion trash craft oil water";

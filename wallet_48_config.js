@@ -1,1 +1,1 @@
-var mnemonic = "maple various clinic use sport exercise page attitude pair slush spray shine";
+var mnemonic = "boat artefact ability crunch combine amused shed keen prosper nuclear witness atom";

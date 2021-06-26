@@ -1,1 +1,1 @@
-var mnemonic = "quality sail case sniff gaze general parade very infant elder team cabin";
+var mnemonic = "immense among vintage despair foster embark renew joy similar today cradle claw";

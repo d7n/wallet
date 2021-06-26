@@ -1,1 +1,1 @@
-var mnemonic = "medal print priority impose curtain cargo story ready talk zoo vibrant cement";
+var mnemonic = "large license spring neglect sword vintage expire jar smooth pet economy viable";

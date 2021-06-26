@@ -1,1 +1,1 @@
-var mnemonic = "armor price split cinnamon define truth beef toast arrange device friend cost";
+var mnemonic = "bounce dove cereal kingdom two coin ginger slice corn radar beauty flight";

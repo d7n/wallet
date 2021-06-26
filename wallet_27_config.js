@@ -1,1 +1,1 @@
-var mnemonic = "rude payment liar rate laundry scrub laugh result aerobic emotion coyote parent";
+var mnemonic = "swim broccoli jewel share cluster outer slogan pony movie table float borrow";

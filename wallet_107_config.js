@@ -1,1 +1,1 @@
-var mnemonic = "dog yellow original frown spy round hour area flush napkin pact autumn";
+var mnemonic = "purpose agent stairs toy dismiss connect squeeze often tissue region carpet bicycle";

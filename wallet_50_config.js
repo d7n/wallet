@@ -1,1 +1,1 @@
-var mnemonic = "age enrich pave abstract exotic hip raven regret boost awkward pioneer detect";
+var mnemonic = "pizza capable solid mass clinic paddle bone loan frozen crazy lunar code";

@@ -1,1 +1,1 @@
-var mnemonic = "loyal afford search october giraffe cup egg pride net crawl chapter put";
+var mnemonic = "error injury immense tone magnet fame garden section muscle ribbon crime goose";

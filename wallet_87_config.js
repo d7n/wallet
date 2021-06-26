@@ -1,1 +1,1 @@
-var mnemonic = "recycle brain family talent light dune forum learn region require rotate guide";
+var mnemonic = "sketch sunset ability drill canyon fitness industry curtain track erode wash feature";

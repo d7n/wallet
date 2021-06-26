@@ -1,1 +1,1 @@
-var mnemonic = "subway plate cycle below salt april narrow swarm deputy rug drastic strategy";
+var mnemonic = "rely gravity push expect other all angle top blood rally joy broom";

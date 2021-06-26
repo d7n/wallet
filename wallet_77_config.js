@@ -1,1 +1,1 @@
-var mnemonic = "october viable fitness carbon punch about success blossom setup buyer service diet";
+var mnemonic = "coin reopen orange noise lemon reveal glue human honey morning size grid";

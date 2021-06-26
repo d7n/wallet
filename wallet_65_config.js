@@ -1,1 +1,1 @@
-var mnemonic = "chronic shove trend potato wink recycle fatigue never consider battle enter breeze";
+var mnemonic = "prepare claim matrix degree elbow battle charge riot afford october avocado brother";

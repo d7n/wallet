@@ -1,1 +1,1 @@
-var mnemonic = "direct force lunch safe soap empower curtain mouse mobile chuckle start chair";
+var mnemonic = "draft dignity also adult wide drink day member direct ten armor mother";

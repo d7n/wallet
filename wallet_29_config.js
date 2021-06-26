@@ -1,1 +1,1 @@
-var mnemonic = "ivory lady process style yard thunder window piano wreck opinion empower wisdom";
+var mnemonic = "good nice kid spread genius gadget beach old lock way enroll insane";

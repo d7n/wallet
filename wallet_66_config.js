@@ -1,1 +1,1 @@
-var mnemonic = "square bitter myself clutch six such group arrest switch arch hedgehog old";
+var mnemonic = "flip lift ceiling address wrong afraid tonight alarm alarm time present member";

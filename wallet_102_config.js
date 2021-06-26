@@ -1,1 +1,1 @@
-var mnemonic = "either skate debate shield soon unfold stone void foster zoo blanket grace";
+var mnemonic = "range goddess pioneer pair flush right tribe sea weekend control embrace actress";

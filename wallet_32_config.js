@@ -1,1 +1,1 @@
-var mnemonic = "wild spatial deposit enroll arena assist long online phrase remind pigeon vote";
+var mnemonic = "quick guide range normal grocery farm sweet comic idea filter absent dragon";

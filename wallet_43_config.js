@@ -1,1 +1,1 @@
-var mnemonic = "goat know satisfy usual lift foil concert occur entire physical process replace";
+var mnemonic = "candy leader issue utility hood glide surface hobby city kingdom travel crash";

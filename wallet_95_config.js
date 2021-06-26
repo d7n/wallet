@@ -1,1 +1,1 @@
-var mnemonic = "whisper minor oval romance around venue fossil salt actual vast pluck envelope";
+var mnemonic = "promote save bean tuition silent radar moral chase visual custom album select";

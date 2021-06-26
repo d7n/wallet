@@ -1,1 +1,1 @@
-var mnemonic = "palm merge please bridge limit that gaze cigar rifle pitch pumpkin element";
+var mnemonic = "skirt plunge guilt three trust boat aspect excite trade return laundry multiply";

@@ -1,1 +1,1 @@
-var mnemonic = "peace stumble letter anchor owner garden holiday grief snap stick cost relax";
+var mnemonic = "canvas actress bomb good topple segment amazing runway advice tray host produce";

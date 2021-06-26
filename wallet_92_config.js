@@ -1,1 +1,1 @@
-var mnemonic = "urban fine chef escape fragile cushion convince grid chat warrior knock episode";
+var mnemonic = "health solution collect whip sea illegal hen car unveil delay first bench";

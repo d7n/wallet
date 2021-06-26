@@ -1,1 +1,1 @@
-var mnemonic = "trip citizen supreme theory pioneer nasty member paddle blossom weekend need obscure";
+var mnemonic = "extra wool portion hood april slab flip manage zero smile deal country";

@@ -1,1 +1,1 @@
-var mnemonic = "crucial material favorite cupboard harvest metal august minimum quantum just border daughter";
+var mnemonic = "awful skirt hour mystery reveal mirror valve unfair detail fine inhale kingdom";
