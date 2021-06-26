@@ -1,1 +1,1 @@
-var mnemonic = "suit sword hill salon nice venture collect consider drive pulp sail gospel";
+var mnemonic = "minimum parade essay above hat next mask detect imitate spawn unique cabin";

@@ -1,1 +1,1 @@
-var mnemonic = "guitar anxiety ordinary impose glove donor athlete famous broken ketchup radio card";
+var mnemonic = "mass empower novel laugh argue maximum best merit salute combine cherry donate";

@@ -1,1 +1,1 @@
-var mnemonic = "throw unfold abuse copper peace shrimp heart brick seek refuse blouse metal";
+var mnemonic = "salt witness nature resource awful famous twist pattern cable okay burger admit";

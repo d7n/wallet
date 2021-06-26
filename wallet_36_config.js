@@ -1,1 +1,1 @@
-var mnemonic = "bacon warm clown focus country shoot choose special pioneer phone thank aisle";
+var mnemonic = "copy dynamic secret spot extend lecture example royal globe waste interest enemy";

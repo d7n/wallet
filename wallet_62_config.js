@@ -1,1 +1,1 @@
-var mnemonic = "purpose girl cram front steel parent range citizen video pause above isolate";
+var mnemonic = "hire orient daring orchard charge pink wheel age mistake spider because approve";

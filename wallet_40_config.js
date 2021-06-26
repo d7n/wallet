@@ -1,1 +1,1 @@
-var mnemonic = "reject ladder boy share relief retreat deer else pilot gift choice siege";
+var mnemonic = "cheap awake absurd ladder sing apart idle express mountain wait output stomach";

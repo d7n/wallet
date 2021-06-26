@@ -1,1 +1,1 @@
-var mnemonic = "beauty govern limit sand copy local egg saddle warrior merge soft absurd";
+var mnemonic = "toilet security slow guilt ancient sheriff swift lonely pond clutch relief rigid";

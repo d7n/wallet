@@ -1,1 +1,1 @@
-var mnemonic = "equip merge write clinic ecology cloth tomorrow bring cry empty snow fire";
+var mnemonic = "grace inflict garden submit palm chef setup immune adjust real fantasy friend";

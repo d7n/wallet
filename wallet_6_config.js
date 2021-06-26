@@ -1,1 +1,1 @@
-var mnemonic = "busy orchard fit drill nice girl appear brass undo tuna leaf capable";
+var mnemonic = "plastic alert shift wise wear clinic knock cloth urge fabric adapt silk";

@@ -1,1 +1,1 @@
-var mnemonic = "sell hundred bomb muffin sheriff under paper lend exact kiss west always";
+var mnemonic = "duck meadow guitar cup obscure physical lunch desk weird now giant fork";

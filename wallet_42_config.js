@@ -1,1 +1,1 @@
-var mnemonic = "screen kangaroo divide secret miss sell loud ranch exclude vessel section reform";
+var mnemonic = "bag power equip essence tobacco retreat burst shift fabric funny pigeon argue";

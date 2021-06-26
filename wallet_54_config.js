@@ -1,1 +1,1 @@
-var mnemonic = "normal beyond dial enforce tower muffin buyer symptom army useless action deal";
+var mnemonic = "story roof dragon arrest feed vacant glory nest silent palm luxury account";

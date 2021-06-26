@@ -1,1 +1,1 @@
-var mnemonic = "keen echo burden attitude clutch cactus wood lesson never recycle fragile add";
+var mnemonic = "inspire chunk erode remind pattern cousin guess ride rack crunch idle record";

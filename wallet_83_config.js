@@ -1,1 +1,1 @@
-var mnemonic = "cloud hello random media print nuclear penalty kit crawl stable estate appear";
+var mnemonic = "embrace sleep monster expand marble mercy glove human heart light clerk grow";

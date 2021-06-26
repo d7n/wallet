@@ -1,1 +1,1 @@
-var mnemonic = "fan december rapid design yellow maximum place detail near acquire orchard simple";
+var mnemonic = "grant flower modify special couch faculty avoid milk rude chuckle ability feed";

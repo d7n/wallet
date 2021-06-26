@@ -1,1 +1,1 @@
-var mnemonic = "pyramid tiny body rookie state later promote believe dad dragon bird gravity";
+var mnemonic = "expect quality jeans skull lizard cactus nasty ostrich reward ready jazz mistake";

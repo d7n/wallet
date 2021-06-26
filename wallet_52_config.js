@@ -1,1 +1,1 @@
-var mnemonic = "defense viable merit truth wreck city arrange unique hurdle gold arctic reason";
+var mnemonic = "connect hurt lizard execute crowd laugh pole very cram upper sibling tomato";

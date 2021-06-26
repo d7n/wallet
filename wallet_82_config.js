@@ -1,1 +1,1 @@
-var mnemonic = "arena sudden foam also nose budget distance feed valley cancel rude six";
+var mnemonic = "virtual chef caught slogan weapon armed detail dinner stove guide abstract hope";

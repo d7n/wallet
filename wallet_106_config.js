@@ -1,1 +1,1 @@
-var mnemonic = "fan okay sick earth arrive age wild crack brand toward off sail";
+var mnemonic = "job cable always beef feature divert decade liberty drip fresh horror glance";

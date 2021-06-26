@@ -1,1 +1,1 @@
-var mnemonic = "rule razor world school brown lion cousin swallow insane glimpse dumb person";
+var mnemonic = "grape swift dice antique judge train erase left shoot stove rubber custom";

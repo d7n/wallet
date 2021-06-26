@@ -1,1 +1,1 @@
-var mnemonic = "cry relief cheese clutch crunch mom cart sister casino there wheel echo";
+var mnemonic = "hollow bean zoo more sketch conduct mosquito permit then gentle gloom prefer";

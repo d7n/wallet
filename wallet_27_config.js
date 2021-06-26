@@ -1,1 +1,1 @@
-var mnemonic = "indoor battle garment pepper wedding dumb warrior parent uncle corn next mask";
+var mnemonic = "toddler elevator between sleep amount pair build dose wagon dwarf orphan section";

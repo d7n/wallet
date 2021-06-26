@@ -1,1 +1,1 @@
-var mnemonic = "broom heavy push scatter daughter grit travel anchor hover random quit slam";
+var mnemonic = "drastic already appear clap alcohol original photo promote wall access three dilemma";

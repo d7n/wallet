@@ -1,1 +1,1 @@
-var mnemonic = "service solution nice resemble whisper young course torch inherit train manual oven";
+var mnemonic = "job upset modify chunk dune measure sleep bean very juice can flip";

@@ -1,1 +1,1 @@
-var mnemonic = "talk depend text develop boost suit trip used vast sand office collect";
+var mnemonic = "brass aerobic increase mountain pumpkin label they tip spawn deputy rent quit";

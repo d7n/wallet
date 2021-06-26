@@ -1,1 +1,1 @@
-var mnemonic = "defense tongue cup original sleep fork lucky empty owner firm walnut hello";
+var mnemonic = "blood butter uncle empower humor rotate glide range obscure wash trumpet insane";

@@ -1,1 +1,1 @@
-var mnemonic = "reform dinosaur scrap remove elder beauty lava write grape trouble grow vast";
+var mnemonic = "staff online midnight swing hand culture goddess leave acoustic three select change";

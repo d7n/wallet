@@ -1,1 +1,1 @@
-var mnemonic = "mixed effort casual city giggle critic decrease garbage seminar spend leisure mango";
+var mnemonic = "brother punch laugh enter check upper cattle comfort wolf medal sunset tongue";

@@ -1,1 +1,1 @@
-var mnemonic = "tribe time glimpse letter develop collect inner coach price matrix donkey affair";
+var mnemonic = "race item equip degree fiscal judge arena grid six aerobic pair intact";

@@ -1,1 +1,1 @@
-var mnemonic = "omit crash plunge volume eager detect collect kick typical will gain put";
+var mnemonic = "first side upgrade solid online window ugly spot interest minor crouch other";

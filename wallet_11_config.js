@@ -1,1 +1,1 @@
-var mnemonic = "dial coast keen subway churn predict fix garlic hip amazing mesh fog";
+var mnemonic = "road project unhappy stay north super proud huge kite orphan pattern fuel";

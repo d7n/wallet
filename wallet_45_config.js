@@ -1,1 +1,1 @@
-var mnemonic = "more slice real veteran paddle sock judge emotion poem attend amused denial";
+var mnemonic = "defy interest seek rather palm chat hello result pen soccer summer lottery";

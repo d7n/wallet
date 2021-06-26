@@ -1,1 +1,1 @@
-var mnemonic = "video motor wood merry tuition brush frog upper climb impact aisle door";
+var mnemonic = "burger tobacco cruise wedding stand poverty obvious pistol burden occur brain april";

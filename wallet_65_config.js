@@ -1,1 +1,1 @@
-var mnemonic = "wait galaxy exchange today impulse glove strategy matrix original identify give furnace";
+var mnemonic = "amazing music giraffe govern play surprise genre fringe rookie dwarf youth iron";

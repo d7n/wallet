@@ -1,1 +1,1 @@
-var mnemonic = "gospel analyst unhappy exercise blur regular arctic response unlock cement rebel window";
+var mnemonic = "magic duty safe gate ten fury north prevent crisp grab treat embark";

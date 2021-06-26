@@ -1,1 +1,1 @@
-var mnemonic = "what myth valve bag breeze car club enjoy dirt capital make okay";
+var mnemonic = "picture gap retire right install illness kiss payment crater affair spread giant";

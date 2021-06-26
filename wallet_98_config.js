@@ -1,1 +1,1 @@
-var mnemonic = "allow barely job buffalo gaze decorate want team stay normal symbol staff";
+var mnemonic = "decorate dutch claw hamster envelope vendor bronze turkey motion image mouse absurd";

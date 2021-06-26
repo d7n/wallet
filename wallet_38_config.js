@@ -1,1 +1,1 @@
-var mnemonic = "nephew visa axis august pass type diesel spot surface twist under client";
+var mnemonic = "change maple million woman timber column veteran motor trigger luggage daring bonus";

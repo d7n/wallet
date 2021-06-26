@@ -1,1 +1,1 @@
-var mnemonic = "custom rocket saddle volcano staff citizen umbrella bid negative diet behave guitar";
+var mnemonic = "anxiety dirt resist race fragile gift act sentence elephant achieve equip pretty";

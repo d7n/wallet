@@ -1,1 +1,1 @@
-var mnemonic = "path hospital mandate chunk cactus document business holiday require leader plastic coil";
+var mnemonic = "wink good column stage coffee flush clown clarify accident buyer credit clap";

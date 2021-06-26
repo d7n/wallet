@@ -1,1 +1,1 @@
-var mnemonic = "guard wrong height loan breeze tissue hover sentence session bleak practice brain";
+var mnemonic = "ring monitor employ field sauce trigger nuclear milk come episode shell endless";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse lift roof require hurt van sight pond teach crane salad left";
+var mnemonic = "leader open grace sauce scrap other tide critic gadget uniform inquiry fiber";

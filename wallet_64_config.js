@@ -1,1 +1,1 @@
-var mnemonic = "people excite muscle crater palace point proof breeze soft lava coffee remain";
+var mnemonic = "borrow toilet point cram release voyage extend lunar repeat address case frequent";

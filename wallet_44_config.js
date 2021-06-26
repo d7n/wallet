@@ -1,1 +1,1 @@
-var mnemonic = "flavor leisure coral smart enrich chaos retire lumber gossip actress reform blur";
+var mnemonic = "capable valve company chest umbrella cool income magnet space satisfy finish else";

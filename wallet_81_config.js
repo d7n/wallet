@@ -1,1 +1,1 @@
-var mnemonic = "vendor gloom lens seat multiply know control apology fabric rubber sister winter";
+var mnemonic = "spawn rookie lounge boss junior liar illness armed turkey soup mountain accident";

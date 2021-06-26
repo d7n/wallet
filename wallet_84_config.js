@@ -1,1 +1,1 @@
-var mnemonic = "oval tennis visual milk relax scissors soft index rifle dumb bus erupt";
+var mnemonic = "doll horn refuse voice tobacco unusual blue emerge page observe assault captain";

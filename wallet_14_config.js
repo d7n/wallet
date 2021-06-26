@@ -1,1 +1,1 @@
-var mnemonic = "sting service wine club also screen velvet kangaroo improve salt senior struggle";
+var mnemonic = "robust prepare unfair salt spin pen popular uphold ostrich bracket divide penalty";

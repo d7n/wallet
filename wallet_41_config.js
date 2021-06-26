@@ -1,1 +1,1 @@
-var mnemonic = "struggle rude region that wealth math great have cross obtain today blouse";
+var mnemonic = "scrub faculty wave balcony return scale behave bag soul chief metal gather";

@@ -1,1 +1,1 @@
-var mnemonic = "sure robust symptom tourist steel blood science capable prize beyond mistake fruit";
+var mnemonic = "cave daughter army boy barely organ island safe panic unique leg butter";

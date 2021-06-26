@@ -1,1 +1,1 @@
-var mnemonic = "syrup buddy soon admit interest symbol cake improve october flash convince found";
+var mnemonic = "gravity frequent breeze sail master slam profit egg hunt twice plastic radar";

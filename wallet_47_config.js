@@ -1,1 +1,1 @@
-var mnemonic = "boy ozone cover soft skirt accident salon march member devote chuckle sister";
+var mnemonic = "speak core moment ride wise answer claw derive ship camp hover inquiry";

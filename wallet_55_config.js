@@ -1,1 +1,1 @@
-var mnemonic = "visual treat inside crack cart duck crush custom cloud baby helmet mobile";
+var mnemonic = "vibrant powder behave ethics one craft pulp conduct lyrics crazy doll middle";

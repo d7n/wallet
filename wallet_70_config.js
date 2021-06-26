@@ -1,1 +1,1 @@
-var mnemonic = "inflict team myself click spoil apart retire this wall engine alarm return";
+var mnemonic = "hover fault chalk catalog super december belt used flag reveal north swim";

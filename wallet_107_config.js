@@ -1,1 +1,1 @@
-var mnemonic = "alarm curve dilemma develop short skin little sock lunar boost weather arch";
+var mnemonic = "pumpkin access ladder vehicle village genuine know risk right joy hurdle fit";

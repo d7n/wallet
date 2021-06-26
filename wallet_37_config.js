@@ -1,1 +1,1 @@
-var mnemonic = "wolf use great popular sort raccoon motion ready dynamic whip common walnut";
+var mnemonic = "lens music lock tree assault civil side parrot multiply van behave ethics";

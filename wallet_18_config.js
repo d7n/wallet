@@ -1,1 +1,1 @@
-var mnemonic = "ethics bright file page question loop laundry tired gloom west pink very";
+var mnemonic = "update ignore mammal dad renew caught snap reject shoulder camera wealth tiger";

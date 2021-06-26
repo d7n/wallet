@@ -1,1 +1,1 @@
-var mnemonic = "salon announce submit frequent abstract purity horror pipe original hotel oblige hour";
+var mnemonic = "armor argue repeat firm crack peace decline render hint control same lawsuit";

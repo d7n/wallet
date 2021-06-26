@@ -1,1 +1,1 @@
-var mnemonic = "sting debris edge paper ugly limit exotic void admit noodle blade already";
+var mnemonic = "fee cattle peasant visit ethics include glove domain top muscle bring brain";

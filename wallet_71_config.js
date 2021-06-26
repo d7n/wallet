@@ -1,1 +1,1 @@
-var mnemonic = "fury neglect festival lens avoid burden zoo defy obscure attract message easy";
+var mnemonic = "maze you clever dice recipe connect recall lobster express vacant opera tunnel";

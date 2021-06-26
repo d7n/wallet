@@ -1,1 +1,1 @@
-var mnemonic = "silly click trophy arrest upon leisure chicken tackle doll donate paddle long";
+var mnemonic = "pear snack photo swim knife win like empty inside ritual select moon";

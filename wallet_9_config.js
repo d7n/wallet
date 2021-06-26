@@ -1,1 +1,1 @@
-var mnemonic = "citizen dilemma laundry usage silver surround away spike act protect solve piece";
+var mnemonic = "kid target tuition camp try boil interest burden trim lock cram letter";

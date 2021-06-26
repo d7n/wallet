@@ -1,1 +1,1 @@
-var mnemonic = "region upon dust hawk antique scene power ask nurse staff true visa";
+var mnemonic = "check divide buddy manual window squeeze law critic team border nurse then";

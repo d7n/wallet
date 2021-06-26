@@ -1,1 +1,1 @@
-var mnemonic = "banana lounge purity daring open hello goat upgrade common owner mind stand";
+var mnemonic = "love fox edge skirt layer ritual pave device laptop sand garbage bullet";

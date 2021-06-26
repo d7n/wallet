@@ -1,1 +1,1 @@
-var mnemonic = "disorder glue embark chicken wage leave admit you odor forget aunt kiwi";
+var mnemonic = "grape conduct often jeans vendor morning sudden leg exile ability cabbage replace";

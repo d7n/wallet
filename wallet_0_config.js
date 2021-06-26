@@ -1,1 +1,1 @@
-var mnemonic = "plunge recycle grace city never round mandate truth hub antique beyond yellow";
+var mnemonic = "beauty nephew judge few staff again maple cliff upset earn common unveil";

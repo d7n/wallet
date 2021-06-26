@@ -1,1 +1,1 @@
-var mnemonic = "tube black bacon elephant seat senior icon term orbit onion tunnel kingdom";
+var mnemonic = "summer divert extra heart uniform pear umbrella honey myself drip output omit";

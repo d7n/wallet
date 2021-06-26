@@ -1,1 +1,1 @@
-var mnemonic = "urge sell sauce budget raccoon symbol force animal trend judge frost segment";
+var mnemonic = "front mimic ocean lemon raven filter vanish security path piece pudding comic";

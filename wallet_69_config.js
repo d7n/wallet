@@ -1,1 +1,1 @@
-var mnemonic = "farm pilot tonight any perfect help pelican image buddy foster pudding dove";
+var mnemonic = "leave draft pudding quarter clutch throw remember elder relax edit whip approve";

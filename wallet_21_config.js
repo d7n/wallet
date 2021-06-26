@@ -1,1 +1,1 @@
-var mnemonic = "hen egg expect pioneer suit waste later entry rule gun hunt question";
+var mnemonic = "response kind robust exhaust equal crawl cabbage chapter cargo square travel smoke";

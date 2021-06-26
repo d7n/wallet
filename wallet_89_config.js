@@ -1,1 +1,1 @@
-var mnemonic = "alone again where dial soap lawn club vacuum space diagram meadow illness";
+var mnemonic = "flag reward seminar practice tennis voice smile confirm ski vapor round upgrade";

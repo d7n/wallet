@@ -1,1 +1,1 @@
-var mnemonic = "monitor inhale road host brave miss shoulder over mercy opera bamboo rookie";
+var mnemonic = "bullet kingdom poem similar short stereo purse calm style space foil cool";

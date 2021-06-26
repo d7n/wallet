@@ -1,1 +1,1 @@
-var mnemonic = "that review ask cloud rain recipe disease vendor canoe vault inquiry deputy";
+var mnemonic = "admit dynamic runway toast antique burst ice lucky toe bridge bind diesel";

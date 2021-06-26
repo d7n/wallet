@@ -1,1 +1,1 @@
-var mnemonic = "must joy slice budget blouse mom funny wasp attack enforce cradle clarify";
+var mnemonic = "sunny twenty polar vague now noise cook travel hope reveal sock salad";

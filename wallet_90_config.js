@@ -1,1 +1,1 @@
-var mnemonic = "champion chronic garbage throw snow sphere gallery juice poem floor trash disagree";
+var mnemonic = "stick unhappy pepper casual tongue gospel find nuclear poet busy lemon piano";

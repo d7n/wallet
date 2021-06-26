@@ -1,1 +1,1 @@
-var mnemonic = "labor never analyst moon hover easily jazz name license loyal helmet kit";
+var mnemonic = "head senior dove toward vault youth warrior crystal brother meadow trend iron";

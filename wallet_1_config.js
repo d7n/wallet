@@ -1,1 +1,1 @@
-var mnemonic = "square urban tuition theory oval crunch eye sea coil alone control banana";
+var mnemonic = "sponsor suggest oak emerge field nuclear baby boring praise relief index balance";

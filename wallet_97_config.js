@@ -1,1 +1,1 @@
-var mnemonic = "history dilemma spray toe similar street kit boy enrich ethics impose alert";
+var mnemonic = "soup zebra affair brother whip rapid milk asthma hip install pencil present";

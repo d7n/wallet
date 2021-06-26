@@ -1,1 +1,1 @@
-var mnemonic = "giggle sadness fortune pyramid congress remember mixed diary brush dry gravity pond";
+var mnemonic = "shaft solution side tree zoo baby east picture guard toddler club blast";

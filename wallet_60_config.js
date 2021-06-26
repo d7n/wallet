@@ -1,1 +1,1 @@
-var mnemonic = "fine rescue allow tennis detail absent gift various wreck endorse possible easy";
+var mnemonic = "orchard someone tornado wage city snack ribbon crazy gate ahead observe seat";

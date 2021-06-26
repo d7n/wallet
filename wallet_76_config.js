@@ -1,1 +1,1 @@
-var mnemonic = "flip local soldier spawn arrive distance case split coconut bean black solution";
+var mnemonic = "wrap uncle exit shine theory woman evidence wait clock forest guard adult";

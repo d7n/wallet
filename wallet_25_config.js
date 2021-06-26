@@ -1,1 +1,1 @@
-var mnemonic = "desert else index more machine submit gasp change token account rescue stumble";
+var mnemonic = "frame infant sea cactus leg surge expire margin glass force hub aerobic";

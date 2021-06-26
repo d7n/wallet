@@ -1,1 +1,1 @@
-var mnemonic = "punch rally armed vast just test comic inmate squirrel bitter sight need";
+var mnemonic = "merge december dwarf hobby ring sister knee runway tuna ability mechanic lock";

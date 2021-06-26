@@ -1,1 +1,1 @@
-var mnemonic = "banner fence shadow offer rare unique napkin bounce reduce bicycle until olympic";
+var mnemonic = "this reject cotton must camp canoe scout nothing family loud review book";

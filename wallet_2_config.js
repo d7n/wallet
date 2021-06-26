@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin pink afraid grant vacuum sentence scout ability discover decade reflect bleak";
+var mnemonic = "release mean promote chicken index spot soup elevator involve predict dentist art";

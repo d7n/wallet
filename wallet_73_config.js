@@ -1,1 +1,1 @@
-var mnemonic = "deliver any stadium crop embark silent sting bulb crime egg sheriff recall";
+var mnemonic = "filter firm fee mushroom behind lounge original umbrella hurry myth fan trim";

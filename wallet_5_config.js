@@ -1,1 +1,1 @@
-var mnemonic = "short hedgehog gold fire kid secret confirm grunt airport lend oven jungle";
+var mnemonic = "pink jump excess chief weapon region baby ring host muscle walnut drive";

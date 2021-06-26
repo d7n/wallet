@@ -1,1 +1,1 @@
-var mnemonic = "sun profit plate advice sail panic rigid message fragile clay alert awkward";
+var mnemonic = "hard appear also welcome piano wild patch expose cream orphan strategy poet";

@@ -1,1 +1,1 @@
-var mnemonic = "robot boil radio mango dish reform answer rival dawn bread grain portion";
+var mnemonic = "pill sure ready stairs fever village inner wink crowd tuition spirit danger";

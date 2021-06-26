@@ -1,1 +1,1 @@
-var mnemonic = "shallow opinion exhaust season slice theory weird result rude shiver point select";
+var mnemonic = "tribe video pupil able exile grit raven fatigue shadow leave palace man";

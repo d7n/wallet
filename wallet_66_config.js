@@ -1,1 +1,1 @@
-var mnemonic = "junior pill screen spy draft soul habit amateur twenty window strong galaxy";
+var mnemonic = "claw concert sick corn urge walnut amazing rural damp math actor unveil";

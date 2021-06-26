@@ -1,1 +1,1 @@
-var mnemonic = "chat repeat song town eyebrow border rely wolf spoil milk leg secret";
+var mnemonic = "crane youth pool defy merit anchor salt rotate harvest leader magic dial";
