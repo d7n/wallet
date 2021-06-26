@@ -1,1 +1,1 @@
-var mnemonic = "shift mutual ill phone coral swim add judge junior limit snake hybrid";
+var mnemonic = "sand scout gather tonight vital diet coconut hungry tired inherit trick client";

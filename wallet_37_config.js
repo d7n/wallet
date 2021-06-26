@@ -1,1 +1,1 @@
-var mnemonic = "excite analyst usual bamboo normal opera evil will ignore embrace clinic victory";
+var mnemonic = "system prosper robot order order boat tired grunt toddler drip lunar often";

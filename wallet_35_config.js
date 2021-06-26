@@ -1,1 +1,1 @@
-var mnemonic = "various salad quick decide lunar miss combine carry dwarf inquiry tongue rigid";
+var mnemonic = "school example stage neither inner eagle aspect disagree excess response piece vanish";

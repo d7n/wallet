@@ -1,1 +1,1 @@
-var mnemonic = "permit piano forget action cave what soda dumb response regular wall into";
+var mnemonic = "vapor sponsor parade fix warfare install sleep gesture broom monkey just tape";

@@ -1,1 +1,1 @@
-var mnemonic = "almost build salt birth rate breeze okay actor space tip knife panther";
+var mnemonic = "pumpkin buzz vague axis wink banner clinic net tomato damp story result";

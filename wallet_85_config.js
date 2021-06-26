@@ -1,1 +1,1 @@
-var mnemonic = "mass range leaf silver gun emerge lesson super program coffee swing change";
+var mnemonic = "flower usual help lawsuit soul shoe flavor face rhythm galaxy excuse squeeze";

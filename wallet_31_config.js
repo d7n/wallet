@@ -1,1 +1,1 @@
-var mnemonic = "holiday impose object coil inmate salon what simple account raw soup shrimp";
+var mnemonic = "dirt nothing then energy dry profit logic champion enroll follow click shaft";

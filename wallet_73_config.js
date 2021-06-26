@@ -1,1 +1,1 @@
-var mnemonic = "photo industry renew unit enemy erosion join bag glove pen casino ridge";
+var mnemonic = "drop patient tool toe faint law can tilt paddle zebra rain torch";

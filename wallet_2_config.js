@@ -1,1 +1,1 @@
-var mnemonic = "rude rigid law park list desert shrimp eight dinner fatal hawk vapor";
+var mnemonic = "snack faith power boring chief today mistake oxygen present husband visa basket";

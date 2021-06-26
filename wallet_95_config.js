@@ -1,1 +1,1 @@
-var mnemonic = "peasant frame verb prize iron genuine anxiety common excess lounge obvious life";
+var mnemonic = "reopen urban blood lawsuit elder famous require heart urge issue black safe";

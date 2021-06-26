@@ -1,1 +1,1 @@
-var mnemonic = "afford country devote auction illegal park skill clock venture swear bitter pistol";
+var mnemonic = "glide harsh vibrant alpha reject drum pipe finish napkin guide organ width";

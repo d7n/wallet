@@ -1,1 +1,1 @@
-var mnemonic = "embark crush purchase merge age list weapon light doctor candy develop atom";
+var mnemonic = "squirrel bulk unfair random now quiz ethics bubble mesh buyer exercise dash";

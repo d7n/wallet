@@ -1,1 +1,1 @@
-var mnemonic = "farm direct spy chuckle brick genius cannon congress frog crouch crumble expect";
+var mnemonic = "mask unique dumb embrace ankle cup exile solar sand evoke call boss";

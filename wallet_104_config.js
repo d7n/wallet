@@ -1,1 +1,1 @@
-var mnemonic = "humble globe myth usage public butter decade base forward please profit weather";
+var mnemonic = "script cattle resource sport goat obvious coffee pride pact lunch coffee option";

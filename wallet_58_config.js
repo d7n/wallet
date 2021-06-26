@@ -1,1 +1,1 @@
-var mnemonic = "again visit language second occur script drink first kid reflect arch begin";
+var mnemonic = "good display timber juice have entry fiction blouse badge stable arrow upset";

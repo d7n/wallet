@@ -1,1 +1,1 @@
-var mnemonic = "rough donor airport rookie rib cat shell inflict fruit indoor talent warfare";
+var mnemonic = "pupil cause liquid concert tiger bicycle idea spoon insect inmate wrestle stage";

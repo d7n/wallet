@@ -1,1 +1,1 @@
-var mnemonic = "giggle combine rule proud sick mandate design such loan oven expose cost";
+var mnemonic = "world real diagram unknown maze task elephant peanut flight initial brand evoke";

@@ -1,1 +1,1 @@
-var mnemonic = "pony success jaguar onion crumble predict girl quiz sing giggle emotion predict";
+var mnemonic = "holiday dragon gain wheat deliver frequent bunker host oval blast agree gloom";

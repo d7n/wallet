@@ -1,1 +1,1 @@
-var mnemonic = "region where minor angry design man horse health public element gap machine";
+var mnemonic = "slender situate imitate useless forest wear choice earn winter tortoise few mom";

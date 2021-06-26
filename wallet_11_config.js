@@ -1,1 +1,1 @@
-var mnemonic = "link sweet sword cinnamon gasp diamond cabbage rib invite route illness also";
+var mnemonic = "nut empower industry bitter bless empty enhance scheme awkward light zone sleep";

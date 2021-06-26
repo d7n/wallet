@@ -1,1 +1,1 @@
-var mnemonic = "client subway subject glide tongue wire wall bright inch rude future trial";
+var mnemonic = "bunker glide quiz knock frown legal guess final kiss produce marble match";

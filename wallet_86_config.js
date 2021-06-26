@@ -1,1 +1,1 @@
-var mnemonic = "sad pepper month depart latin theme civil limb patrol fix wisdom hawk";
+var mnemonic = "hockey leg click family vivid narrow unit hint arm purchase stock fault";

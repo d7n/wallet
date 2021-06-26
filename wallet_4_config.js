@@ -1,1 +1,1 @@
-var mnemonic = "enough west budget paddle nest second unfold kingdom prevent tuna master front";
+var mnemonic = "twelve adult focus barrel trap tuition asset remember glare vault muffin sunset";

@@ -1,1 +1,1 @@
-var mnemonic = "film cheap pupil mushroom hawk trade student scatter addict nasty home boil";
+var mnemonic = "embody asset tilt popular damage change album feed inside uncle finger east";

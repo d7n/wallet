@@ -1,1 +1,1 @@
-var mnemonic = "sock monster banner travel surface rate build brush expose benefit library make";
+var mnemonic = "steak avocado that arrow path flat short exist increase reduce best math";

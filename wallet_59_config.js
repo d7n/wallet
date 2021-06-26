@@ -1,1 +1,1 @@
-var mnemonic = "fitness pond squirrel mystery chaos oak sun whisper fire cricket guitar review";
+var mnemonic = "weasel horse struggle title naive throw final sad ethics food grape summer";

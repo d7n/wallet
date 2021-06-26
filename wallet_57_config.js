@@ -1,1 +1,1 @@
-var mnemonic = "angle where shadow output nominee exist sad party shine clean taxi utility";
+var mnemonic = "blossom devote tail kick diagram mask diagram coyote affair globe ozone lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "twist catalog front elegant enemy swift title edge access jump potato target";
+var mnemonic = "now pledge check slice exotic civil push scale truck derive pond check";

@@ -1,1 +1,1 @@
-var mnemonic = "denial elite hungry damage pole sing risk among color hedgehog scrap fit";
+var mnemonic = "obscure ten device food sibling identify impose maid path fish shield poem";

@@ -1,1 +1,1 @@
-var mnemonic = "rain fade lobster auction talk weasel soccer gap sea garden cup bitter";
+var mnemonic = "decline noodle fun wasp rather bleak fox need salmon lottery finger life";

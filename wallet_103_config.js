@@ -1,1 +1,1 @@
-var mnemonic = "wash valid noodle yellow actress fatal cage bronze dinosaur trade open unusual";
+var mnemonic = "vicious circle clarify shine invite distance sand tower dragon write foster wire";

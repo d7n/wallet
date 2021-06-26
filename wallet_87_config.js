@@ -1,1 +1,1 @@
-var mnemonic = "festival dose arrive filter tunnel cushion youth lunar trigger cross defense dragon";
+var mnemonic = "error turn twenty patient void know picnic earn purchase couch advice moral";

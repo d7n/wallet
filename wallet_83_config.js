@@ -1,1 +1,1 @@
-var mnemonic = "remain ensure palm town slab palm despair orchard home impulse window forum";
+var mnemonic = "afford eight glory essay chase salon fence often recipe add tennis nasty";

@@ -1,1 +1,1 @@
-var mnemonic = "energy inquiry idea risk guilt assume alley trial grace pudding sail access";
+var mnemonic = "before faint valid cloud motion shuffle tray maple mention runway run behind";

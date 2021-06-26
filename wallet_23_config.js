@@ -1,1 +1,1 @@
-var mnemonic = "clock orphan artefact wheel lend believe athlete outside jar follow remain sleep";
+var mnemonic = "sleep hero garlic wise bachelor bachelor kit image easily surround cotton depth";

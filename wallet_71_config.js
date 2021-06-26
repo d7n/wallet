@@ -1,1 +1,1 @@
-var mnemonic = "close age blood very public grant ketchup enable swarm elevator sister orphan";
+var mnemonic = "work diet hamster gift quit orphan video desert negative cry fancy diesel";

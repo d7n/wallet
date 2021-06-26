@@ -1,1 +1,1 @@
-var mnemonic = "dizzy embody dismiss private devote reject seed very cradle absorb sunset rare";
+var mnemonic = "fashion gravity equal home stock scout vital acoustic river juice urban group";

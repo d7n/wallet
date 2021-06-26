@@ -1,1 +1,1 @@
-var mnemonic = "annual mean tuna worry drip twist this onion rich galaxy arrive slab";
+var mnemonic = "steel call payment lend island steel hawk age theme fashion divorce lemon";

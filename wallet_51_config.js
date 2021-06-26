@@ -1,1 +1,1 @@
-var mnemonic = "saddle mosquito team ribbon simple flash apology object captain grunt lamp disorder";
+var mnemonic = "nurse genuine plate wild noble grid jealous rug cattle damp click deposit";

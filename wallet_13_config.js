@@ -1,1 +1,1 @@
-var mnemonic = "promote library welcome space pistol obvious deliver jump post kick inherit broom";
+var mnemonic = "script isolate century funny correct broken host radar trick lake crystal island";

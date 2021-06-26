@@ -1,1 +1,1 @@
-var mnemonic = "tourist gesture anchor section sense pulse wet venue away rail over doll";
+var mnemonic = "chair wave marble mercy mass sad pen wide congress thrive hurry write";

@@ -1,1 +1,1 @@
-var mnemonic = "goddess manual trial diesel fall material fade nominee device violin misery panther";
+var mnemonic = "warm maple prison ice demise toddler bulb kind evil element shy census";

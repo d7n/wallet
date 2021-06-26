@@ -1,1 +1,1 @@
-var mnemonic = "sugar poet chat snake cause drive parade depend february possible unfold long";
+var mnemonic = "layer frozen naive pave permit state milk around olive enjoy debate ball";

@@ -1,1 +1,1 @@
-var mnemonic = "pole ready utility choice zero useless vote loan riot elephant scout perfect";
+var mnemonic = "thunder cabin joy buyer swap story garage era witness capital soft double";

@@ -1,1 +1,1 @@
-var mnemonic = "tornado cushion lizard crash width ivory rebel level build gun august satoshi";
+var mnemonic = "oblige sight grow athlete kick there grass hello repeat afraid zoo afford";

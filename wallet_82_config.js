@@ -1,1 +1,1 @@
-var mnemonic = "bargain situate table acid purpose valve wheel group forest catalog capital stone";
+var mnemonic = "various wait owner grass remove globe credit fire market mosquito curious ocean";

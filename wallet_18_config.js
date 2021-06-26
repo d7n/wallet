@@ -1,1 +1,1 @@
-var mnemonic = "story dwarf rotate fruit kit effort effort ring enemy rival fold frown";
+var mnemonic = "trouble loud pony hair steel piece valve only rib feel kidney ahead";

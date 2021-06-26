@@ -1,1 +1,1 @@
-var mnemonic = "cube theme visual segment curtain plate mother weasel festival convince history chef";
+var mnemonic = "rate drum puzzle fancy midnight injury modify awkward magic come hour input";

@@ -1,1 +1,1 @@
-var mnemonic = "zone tiger camp obtain acoustic erupt taste allow between ladder foil kitchen";
+var mnemonic = "elite demand regret flower mean situate umbrella recipe they smooth forget kite";

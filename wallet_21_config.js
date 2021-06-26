@@ -1,1 +1,1 @@
-var mnemonic = "culture inch conduct royal dynamic hedgehog urge swallow monkey steak horn swamp";
+var mnemonic = "soldier still dragon expand boil scrap elbow obtain trust lava gain run";

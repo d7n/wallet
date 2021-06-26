@@ -1,1 +1,1 @@
-var mnemonic = "tennis achieve brick fiction scissors case twice jealous eight advice rebel harbor";
+var mnemonic = "admit cruel more swamp brown female dial stick choice helmet lift horn";

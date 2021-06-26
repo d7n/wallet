@@ -1,1 +1,1 @@
-var mnemonic = "submit system trial deputy angry space opinion dirt acquire monkey winter youth";
+var mnemonic = "ocean loyal bind unusual render wide inflict dish dose rival meat wear";

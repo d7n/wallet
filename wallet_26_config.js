@@ -1,1 +1,1 @@
-var mnemonic = "absorb steak announce prefer drink jewel amazing pudding hover drift then symbol";
+var mnemonic = "torch such split silent situate unfair proud awkward rally monkey dust sunny";

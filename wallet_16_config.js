@@ -1,1 +1,1 @@
-var mnemonic = "seek critic borrow chuckle super follow tomato barrel scale genius bid replace";
+var mnemonic = "firm security purse diamond cliff all filter unit distance blade dutch aunt";

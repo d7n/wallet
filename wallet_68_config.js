@@ -1,1 +1,1 @@
-var mnemonic = "usage pretty unique match found route pigeon language trigger inner huge wisdom";
+var mnemonic = "onion immune cigar shuffle ribbon liquid nerve hire owner noise lift sad";

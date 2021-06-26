@@ -1,1 +1,1 @@
-var mnemonic = "kit fork cousin leg project noise seek differ kite cat voice tent";
+var mnemonic = "magic century lawsuit obtain young venue sketch advice ill bundle giant ten";

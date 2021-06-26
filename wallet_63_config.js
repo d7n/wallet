@@ -1,1 +1,1 @@
-var mnemonic = "gasp system inhale burger shy sense cheese glance globe evolve impose december";
+var mnemonic = "fury slight crisp large kid run dilemma critic trim record spoil noble";

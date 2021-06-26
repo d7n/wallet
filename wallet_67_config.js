@@ -1,1 +1,1 @@
-var mnemonic = "gown future leg myself useful uniform absorb response van alcohol favorite fiction";
+var mnemonic = "draft pen detect mistake actress among client present exhaust begin act connect";

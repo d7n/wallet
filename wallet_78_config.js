@@ -1,1 +1,1 @@
-var mnemonic = "quick pyramid enjoy pair venture enrich mean cook badge culture baby erupt";
+var mnemonic = "stage enemy pepper onion void own pride act drive polar midnight keen";

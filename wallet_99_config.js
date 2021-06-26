@@ -1,1 +1,1 @@
-var mnemonic = "fitness acid govern jump cement song marine assist frame cost burger loan";
+var mnemonic = "actor taxi used cat ripple shell surface exit sword drastic unknown dry";

@@ -1,1 +1,1 @@
-var mnemonic = "shell police decrease disorder piano ozone sorry robot trigger real essay nest";
+var mnemonic = "spirit mother pear age fashion title faculty ship smoke recipe awkward carpet";

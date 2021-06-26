@@ -1,1 +1,1 @@
-var mnemonic = "ocean jealous sunset tube dawn distance host mansion slot motor table layer";
+var mnemonic = "reopen pipe wrestle tennis sentence lamp output supply meadow announce degree concert";

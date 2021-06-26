@@ -1,1 +1,1 @@
-var mnemonic = "left gown income pet double rich umbrella ocean vanish connect arrange park";
+var mnemonic = "pilot hunt coin under van shaft oval opera claim citizen gap curtain";

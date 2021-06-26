@@ -1,1 +1,1 @@
-var mnemonic = "prefer game uniform delay render possible torch film puzzle tube artist toy";
+var mnemonic = "giraffe wolf sentence donate income mix often supply belt skill coral supply";

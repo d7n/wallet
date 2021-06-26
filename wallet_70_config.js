@@ -1,1 +1,1 @@
-var mnemonic = "banana program attract slot hip hollow claim nerve frown craft inflict dinner";
+var mnemonic = "parrot extra ten rubber october inmate floor repeat slab anchor access soccer";

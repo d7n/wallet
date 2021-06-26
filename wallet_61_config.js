@@ -1,1 +1,1 @@
-var mnemonic = "gravity quantum sphere champion knock reduce taste skill control access drum letter";
+var mnemonic = "blood crane muffin extra news put fruit number team behave flag salmon";

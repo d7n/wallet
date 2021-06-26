@@ -1,1 +1,1 @@
-var mnemonic = "stuff concert trend initial produce exhibit bulb ribbon sword bubble police vacuum";
+var mnemonic = "snake now twice swift select upon garment ready search sell luggage paper";

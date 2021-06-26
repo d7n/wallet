@@ -1,1 +1,1 @@
-var mnemonic = "hobby defense accident skate lend develop fresh sudden box sudden galaxy shove";
+var mnemonic = "maze loyal wealth crowd spider valley spare mesh timber swing bone blush";

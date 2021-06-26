@@ -1,1 +1,1 @@
-var mnemonic = "gain silent anchor unveil visual ignore grocery slam unfold mass vast video";
+var mnemonic = "poem wine position echo opinion virtual drive market benefit client winner drum";

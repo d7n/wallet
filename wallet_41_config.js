@@ -1,1 +1,1 @@
-var mnemonic = "knock enrich noodle bracket grain letter fancy try roast room balcony shell";
+var mnemonic = "ramp urban become shrug method body example abstract human laugh meadow orchard";

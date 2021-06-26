@@ -1,1 +1,1 @@
-var mnemonic = "mixture unique middle april jelly umbrella van stage check scare misery venue";
+var mnemonic = "dumb solid domain figure usage arctic arena year vault moment suspect egg";

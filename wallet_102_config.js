@@ -1,1 +1,1 @@
-var mnemonic = "mountain deliver whisper trash mouse world habit inspire outside between disorder sadness";
+var mnemonic = "jar wolf push tone recall cake shrug destroy flame spoon buzz evil";

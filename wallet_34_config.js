@@ -1,1 +1,1 @@
-var mnemonic = "deposit sugar path alpha wait view code economy grain person ability panther";
+var mnemonic = "patient apple soup blast will meadow lift shoe olympic glass alert hurt";

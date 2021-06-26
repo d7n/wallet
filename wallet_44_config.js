@@ -1,1 +1,1 @@
-var mnemonic = "someone bomb note elder over mammal tiger whip fame nature hint barely";
+var mnemonic = "shiver pelican myth hurdle beyond network chapter high style middle night evolve";

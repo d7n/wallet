@@ -1,1 +1,1 @@
-var mnemonic = "daughter surprise lunch similar horn margin crowd noodle execute pet tone major";
+var mnemonic = "have dog remain trophy payment orange swallow south action normal lava phone";

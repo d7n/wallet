@@ -1,1 +1,1 @@
-var mnemonic = "connect exclude can glory minimum funny pioneer novel digital sibling audit away";
+var mnemonic = "gap slot able grain argue layer vessel wine shove own eight trigger";

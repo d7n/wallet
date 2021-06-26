@@ -1,1 +1,1 @@
-var mnemonic = "candy liar small need hub basic rack sentence display nominee provide process";
+var mnemonic = "noodle good sugar device journey sure hollow together orange awkward require attitude";

@@ -1,1 +1,1 @@
-var mnemonic = "script pitch click surge spatial victory junior mixed stem board soft put";
+var mnemonic = "husband fortune feature ocean frog tape census trouble only answer talk fury";

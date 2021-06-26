@@ -1,1 +1,1 @@
-var mnemonic = "ritual owner forest album letter shrimp plug matter leopard hobby ocean require";
+var mnemonic = "fossil tail banana walk fuel one sausage save bomb image pride chair";

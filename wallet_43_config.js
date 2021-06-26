@@ -1,1 +1,1 @@
-var mnemonic = "vote dizzy stand aim bless dog armed pattern sudden capable donate assist";
+var mnemonic = "spawn drop orange venue palm arena number news parent rate barely supply";

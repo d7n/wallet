@@ -1,1 +1,1 @@
-var mnemonic = "blast source tower cruel offer bread machine genre sell budget middle stadium";
+var mnemonic = "trust draft olive limb jewel course render life upgrade pen mesh fashion";

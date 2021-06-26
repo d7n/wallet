@@ -1,1 +1,1 @@
-var mnemonic = "gold couch arrange satoshi nurse snake minimum garbage slender cotton surface blush";
+var mnemonic = "frame cheese short sibling canyon fox animal undo snow broccoli coin issue";

@@ -1,1 +1,1 @@
-var mnemonic = "heart weasel cabin normal curtain rib monitor yellow twenty age decline fantasy";
+var mnemonic = "cage canyon mobile jewel around melody predict day food brass program judge";

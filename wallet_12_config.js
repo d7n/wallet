@@ -1,1 +1,1 @@
-var mnemonic = "midnight obtain garage lecture host mad cruise comfort polar punch pave erase";
+var mnemonic = "roof deny coin elder pulse soda wire sail oval basket leaf artefact";

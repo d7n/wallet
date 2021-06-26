@@ -1,1 +1,1 @@
-var mnemonic = "fold security total mercy fade begin food avoid convince bamboo custom else";
+var mnemonic = "cross citizen wing story praise upon embark option cotton bamboo under moon";

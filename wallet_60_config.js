@@ -1,1 +1,1 @@
-var mnemonic = "thunder ball fringe horn captain song desk radar season juice brick person";
+var mnemonic = "love exact usage annual cart bullet ten dynamic six logic boil chief";

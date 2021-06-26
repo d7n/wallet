@@ -1,1 +1,1 @@
-var mnemonic = "snow retreat moral visa wage moral rescue lend future subject hover veteran";
+var mnemonic = "crucial genius tone tiny skull enjoy taxi fever problem indoor vast hair";

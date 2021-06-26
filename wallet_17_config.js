@@ -1,1 +1,1 @@
-var mnemonic = "burden leisure human day jungle fashion orient scene powder human catch box";
+var mnemonic = "above odor cross holiday whale game piece swamp step shaft lunar snack";

@@ -1,1 +1,1 @@
-var mnemonic = "toilet frown seat clown shoulder table winner response actress juice inmate language";
+var mnemonic = "control appear subject wink lunch carpet output trust ripple tackle network squeeze";

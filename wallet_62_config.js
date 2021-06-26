@@ -1,1 +1,1 @@
-var mnemonic = "lamp flavor lizard theory useful abuse bachelor dentist north crucial sting ostrich";
+var mnemonic = "slow brass hotel brief plate alter hollow vendor nephew laundry arrest vacant";
