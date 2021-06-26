@@ -1,1 +1,1 @@
-var mnemonic = "dog garbage green entire vacuum various marine earn extra visit assault fee";
+var mnemonic = "seek silk fun cheap toe robot wet pave vanish foster smart lion";

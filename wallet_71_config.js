@@ -1,1 +1,1 @@
-var mnemonic = "siren whisper orphan curtain grow upgrade cage kiss between swarm panel uniform";
+var mnemonic = "other protect awake stadium wire cigar theme another ostrich cry traffic jeans";

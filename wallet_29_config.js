@@ -1,1 +1,1 @@
-var mnemonic = "february swing find bless industry width hockey layer only rate fabric spike";
+var mnemonic = "garage coconut episode come science business member twenty mouse access seat front";

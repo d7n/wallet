@@ -1,1 +1,1 @@
-var mnemonic = "gravity loan wheel float merge resist swallow major curious embody grain tornado";
+var mnemonic = "baby pioneer actual exact arch detail clay clay detail twelve mad garden";

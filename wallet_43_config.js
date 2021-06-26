@@ -1,1 +1,1 @@
-var mnemonic = "satoshi ask then script trash shy under dwarf mechanic autumn chef trick";
+var mnemonic = "cabbage leave stumble spread alarm hole focus lazy demise mixed debris giant";

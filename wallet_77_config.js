@@ -1,1 +1,1 @@
-var mnemonic = "any novel marble outside check exotic word olympic response cram truck slide";
+var mnemonic = "hope online shift lobster rookie asthma honey offer fly define calm cupboard";

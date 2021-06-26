@@ -1,1 +1,1 @@
-var mnemonic = "march tomorrow tooth year siege cotton satoshi discover jaguar slender daughter image";
+var mnemonic = "purchase depart museum flower decline pony bunker rack inner wait always wide";

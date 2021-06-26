@@ -1,1 +1,1 @@
-var mnemonic = "insane subway peasant slush despair account depth buddy liberty cradle entire govern";
+var mnemonic = "yellow panda empower life north aerobic wolf patrol pause rent mix grass";

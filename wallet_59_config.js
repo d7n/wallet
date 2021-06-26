@@ -1,1 +1,1 @@
-var mnemonic = "all blouse canvas code steel glove piano exchange utility truly jaguar stereo";
+var mnemonic = "bone feel profit leave media enrich destroy coach rocket resemble diary bulk";

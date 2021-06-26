@@ -1,1 +1,1 @@
-var mnemonic = "kid scrap kitchen three mail sunset animal wet husband museum fluid program";
+var mnemonic = "surge kingdom anxiety bullet loyal soda gauge any spell cigar rather slam";

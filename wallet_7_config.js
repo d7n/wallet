@@ -1,1 +1,1 @@
-var mnemonic = "coach pen bright metal card garage match debate deliver chimney comfort habit";
+var mnemonic = "shadow test lunch grow practice meat embrace talk domain select huge transfer";

@@ -1,1 +1,1 @@
-var mnemonic = "neutral rebel ridge what lend budget repair quick topic nominee multiply surprise";
+var mnemonic = "sample economy desk ahead salad sausage sword tiger doll check stock debate";

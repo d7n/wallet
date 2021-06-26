@@ -1,1 +1,1 @@
-var mnemonic = "jungle kitten stadium fringe acquire weird moral duck update situate ready wild";
+var mnemonic = "prize fabric dragon episode drastic gentle injury stage vote announce scrub discover";

@@ -1,1 +1,1 @@
-var mnemonic = "amateur walk sense more giant cave envelope zebra own staff own assume";
+var mnemonic = "park develop upgrade mammal suggest world attract shoulder measure gossip hat fortune";

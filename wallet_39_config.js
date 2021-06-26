@@ -1,1 +1,1 @@
-var mnemonic = "undo normal time team style guard various deliver furnace buffalo ring shed";
+var mnemonic = "appear page length soda puzzle issue nasty delay client blush fury veteran";

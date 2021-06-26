@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow sign mystery rug assume addict member quick pause ice ghost seed";
+var mnemonic = "gaze drop mirror chat actor trial error sure cinnamon kingdom sudden quarter";

@@ -1,1 +1,1 @@
-var mnemonic = "arch cream this assume skate borrow expire spring smart sword raw shell";
+var mnemonic = "wink anchor people marble electric rule soon pizza eagle where sick youth";

@@ -1,1 +1,1 @@
-var mnemonic = "jeans kitchen isolate senior resource detect surprise wood banner concert office much";
+var mnemonic = "left grace oil wool isolate harvest negative ocean album verb start enough";

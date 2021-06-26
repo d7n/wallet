@@ -1,1 +1,1 @@
-var mnemonic = "truly cement eye elbow clown enact clock scheme melt general dad dance";
+var mnemonic = "marine doll smoke donor picture crouch basket smoke canyon hold quality exercise";

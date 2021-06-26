@@ -1,1 +1,1 @@
-var mnemonic = "dose stay novel matrix pottery maze rose visa oak differ fuel electric";
+var mnemonic = "salad bid submit sunset company drama say nasty million tomorrow alien bronze";

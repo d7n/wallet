@@ -1,1 +1,1 @@
-var mnemonic = "virus melody range lazy anxiety seminar couple tortoise clever old profit easy";
+var mnemonic = "ocean slab whip axis capable purse victory song desert reflect paper prevent";

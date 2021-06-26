@@ -1,1 +1,1 @@
-var mnemonic = "regret laptop recipe merge tank midnight girl sleep when donor only coast";
+var mnemonic = "glow venue tooth hero coffee knee six pill that aerobic employ sure";

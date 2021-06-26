@@ -1,1 +1,1 @@
-var mnemonic = "reject solid dilemma dirt version direct pond raw solve life dove ability";
+var mnemonic = "update alcohol asset canal riot penalty focus recipe across have diamond one";

@@ -1,1 +1,1 @@
-var mnemonic = "umbrella shine cart habit badge predict foam narrow blush jaguar price eagle";
+var mnemonic = "polar album mesh scrap achieve game wreck genuine shoulder sad end amount";

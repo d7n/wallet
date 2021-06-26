@@ -1,1 +1,1 @@
-var mnemonic = "amazing cigar frown unaware owner submit cotton age blood dismiss super popular";
+var mnemonic = "monitor scan exhaust cup fetch wait opera civil topic combine want conduct";

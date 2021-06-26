@@ -1,1 +1,1 @@
-var mnemonic = "thumb achieve jealous donkey pulp long swim tattoo dumb crater start symbol";
+var mnemonic = "sleep strategy radio render fruit buzz file culture medal near evidence donkey";

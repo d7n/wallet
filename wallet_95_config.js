@@ -1,1 +1,1 @@
-var mnemonic = "approve grief almost whip trap fat poet devote drip will human occur";
+var mnemonic = "lion paper bonus yard dice demise bottom stone couch butter laugh derive";

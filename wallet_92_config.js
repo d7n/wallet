@@ -1,1 +1,1 @@
-var mnemonic = "winter monkey eternal price purse inmate phrase journey road olympic sketch typical";
+var mnemonic = "melt assault early mean medal celery material glare cook ginger venture cruise";

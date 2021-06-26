@@ -1,1 +1,1 @@
-var mnemonic = "whisper you leopard still wisdom sort flavor execute online broken gold turtle";
+var mnemonic = "live toss matrix amount repair provide dizzy loop honey consider piano afford";

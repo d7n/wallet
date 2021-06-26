@@ -1,1 +1,1 @@
-var mnemonic = "one owner media also dream fitness exact drift merge north response utility";
+var mnemonic = "ready fabric network convince figure grit wage real nation diary ball globe";

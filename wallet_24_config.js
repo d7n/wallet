@@ -1,1 +1,1 @@
-var mnemonic = "rack coyote scare peace song scene panther palace rocket swap define mandate";
+var mnemonic = "fragile ready stable fence anchor priority media era click festival wedding video";

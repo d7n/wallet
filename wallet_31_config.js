@@ -1,1 +1,1 @@
-var mnemonic = "tennis weasel chimney wheat result soft travel reflect another maid shiver purse";
+var mnemonic = "melody draft security weekend orient still number resource garlic ball corn wagon";

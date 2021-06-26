@@ -1,1 +1,1 @@
-var mnemonic = "squeeze connect canoe eager common comfort average bunker angle favorite audit census";
+var mnemonic = "airport whisper genius poem basket produce pyramid juice tank fine recycle carbon";

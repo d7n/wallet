@@ -1,1 +1,1 @@
-var mnemonic = "fade south pony anger verb guide dream rib ginger receive valid budget";
+var mnemonic = "online veteran egg kiss few embrace happy item copper able trophy grass";

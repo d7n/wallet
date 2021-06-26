@@ -1,1 +1,1 @@
-var mnemonic = "deposit change peanut turtle plunge vapor seed once skill farm tip fuel";
+var mnemonic = "toss blame critic spoil clinic master sleep vendor road road innocent churn";

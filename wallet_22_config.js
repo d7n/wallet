@@ -1,1 +1,1 @@
-var mnemonic = "round bounce stool connect desert couch explain awake eye story retreat fever";
+var mnemonic = "fade mesh aware diary bomb foil addict clap pizza firm birth coral";

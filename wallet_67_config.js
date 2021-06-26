@@ -1,1 +1,1 @@
-var mnemonic = "exotic solid rigid frozen ahead inch want vicious left pilot language true";
+var mnemonic = "cause youth daughter long knife punch theme hundred surface excite spell toast";

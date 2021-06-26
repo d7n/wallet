@@ -1,1 +1,1 @@
-var mnemonic = "patrol flock forest number comfort outdoor bacon push diagram safe recipe dizzy";
+var mnemonic = "brush account maple client dove have crumble slab message later merge ripple";

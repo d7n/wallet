@@ -1,1 +1,1 @@
-var mnemonic = "fold size elevator elbow federal margin license false evidence sight beach tank";
+var mnemonic = "clean oblige nasty bring finish menu install payment open slot six nature";

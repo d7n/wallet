@@ -1,1 +1,1 @@
-var mnemonic = "pole output venue burst firm auction reject shy rebel ball party skirt";
+var mnemonic = "entry edge cause travel essence ball adult cheese swift write stool athlete";

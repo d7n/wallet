@@ -1,1 +1,1 @@
-var mnemonic = "air skill tornado purity cloud north other boil all jaguar resemble trial";
+var mnemonic = "spare twice exist basic wagon unable solar swim addict tape vapor tank";

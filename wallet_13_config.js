@@ -1,1 +1,1 @@
-var mnemonic = "lottery vivid toward garage force auction mercy pear chase weasel must claim";
+var mnemonic = "sphere raccoon divide naive ill rifle shine level warfare final project shy";

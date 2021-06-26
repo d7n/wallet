@@ -1,1 +1,1 @@
-var mnemonic = "figure side cost awesome animal patrol castle tail cabin muscle monkey shoe";
+var mnemonic = "slam innocent acoustic stomach exhaust roast between pet search vendor behave embark";

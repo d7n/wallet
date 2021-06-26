@@ -1,1 +1,1 @@
-var mnemonic = "husband west chaos task front risk sign valid board resist actual infant";
+var mnemonic = "inject shrimp myth life act furnace arrow canyon fitness gesture arch staff";

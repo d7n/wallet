@@ -1,1 +1,1 @@
-var mnemonic = "rhythm enhance soft butter return surge insect fish daughter wrestle panther woman";
+var mnemonic = "arch corn define bullet rather element gentle flower trigger prison fiber cat";

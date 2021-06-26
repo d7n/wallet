@@ -1,1 +1,1 @@
-var mnemonic = "retreat jazz gallery swarm twelve retreat tool owner supply viable electric grab";
+var mnemonic = "reveal change robot execute sunset chat tattoo champion bird angle daughter thought";

@@ -1,1 +1,1 @@
-var mnemonic = "short web piano raccoon input adjust crash defense humble napkin wild chase";
+var mnemonic = "evolve image hybrid still emotion praise grant smart victory upset edit drip";

@@ -1,1 +1,1 @@
-var mnemonic = "inflict reopen enhance stadium practice empower infant museum spread accident roof fame";
+var mnemonic = "rose destroy smart guess toy scout iron candy hurry kingdom panda lucky";

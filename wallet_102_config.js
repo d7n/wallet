@@ -1,1 +1,1 @@
-var mnemonic = "foot worry razor tomorrow pull design drama salt grace swim wave chapter";
+var mnemonic = "decline visa letter since crucial vanish father vacant neglect dish miracle target";

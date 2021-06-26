@@ -1,1 +1,1 @@
-var mnemonic = "napkin hover filter nerve appear brisk honey what have abandon oven across";
+var mnemonic = "fat aspect alert plunge analyst lesson stereo nice away scan clog pool";

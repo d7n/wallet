@@ -1,1 +1,1 @@
-var mnemonic = "minimum kitchen sausage sword behind taste vacant champion auction smooth prevent spin";
+var mnemonic = "tired learn topple cereal crack furnace west cricket hundred cereal various sail";

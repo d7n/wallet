@@ -1,1 +1,1 @@
-var mnemonic = "solid arm hunt equal entire hire memory canal cool lesson soda obvious";
+var mnemonic = "margin craft swap cost width argue human useless that arrive flower inflict";

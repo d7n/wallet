@@ -1,1 +1,1 @@
-var mnemonic = "banana bundle tooth satoshi broken year nice dirt clog egg jacket crystal";
+var mnemonic = "dry glow rude fatigue diamond position give program olympic beyond hotel arrange";

@@ -1,1 +1,1 @@
-var mnemonic = "awake way health lucky valley inherit erosion weasel huge blanket square reveal";
+var mnemonic = "good ability arena noise city maximum canvas reject decide agree warfare travel";

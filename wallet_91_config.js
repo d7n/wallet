@@ -1,1 +1,1 @@
-var mnemonic = "hybrid atom plastic present valid person skin great notice grab supply lion";
+var mnemonic = "jungle zero funny ride crawl hedgehog vendor dance clock traffic olympic arrange";

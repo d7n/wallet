@@ -1,1 +1,1 @@
-var mnemonic = "cover repeat spare aspect bulk noble project tide soon impact green tray";
+var mnemonic = "clown father never win circle client marble huge shell finger mix firm";

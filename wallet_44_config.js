@@ -1,1 +1,1 @@
-var mnemonic = "attitude genuine man run cross join brief kiwi license pride music annual";
+var mnemonic = "bottom educate stuff dinosaur rotate certain tool steel tackle volume level proof";

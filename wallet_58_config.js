@@ -1,1 +1,1 @@
-var mnemonic = "rough forget rifle surge provide roof ordinary worry favorite able object senior";
+var mnemonic = "eight ecology wheat baby reward baby renew spoil bamboo crowd have can";

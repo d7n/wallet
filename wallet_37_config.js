@@ -1,1 +1,1 @@
-var mnemonic = "afford dove good chalk door air lady faculty two tumble frequent duck";
+var mnemonic = "couch position boy churn wisdom flash lawsuit physical umbrella endless security affair";

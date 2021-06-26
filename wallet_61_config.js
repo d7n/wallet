@@ -1,1 +1,1 @@
-var mnemonic = "venture service cushion water lab slot ceiling income mind subway chicken upon";
+var mnemonic = "inherit daughter club desk pulp tribe copper lunar sample blood film order";

@@ -1,1 +1,1 @@
-var mnemonic = "endorse jewel firm refuse wide use arm infant rice since early slide";
+var mnemonic = "energy mind pause amateur answer bottom jewel such flower expire viable emotion";

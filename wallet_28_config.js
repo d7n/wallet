@@ -1,1 +1,1 @@
-var mnemonic = "world humor detect cactus imitate burst differ reunion industry rack dance mosquito";
+var mnemonic = "age brother ring normal thrive vivid loyal rather expire plug review where";

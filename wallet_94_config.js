@@ -1,1 +1,1 @@
-var mnemonic = "medal purse light split bitter mom delay guilt ability pair perfect honey";
+var mnemonic = "stem chief absorb laugh okay skate wire light civil reflect antique crouch";

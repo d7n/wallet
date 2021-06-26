@@ -1,1 +1,1 @@
-var mnemonic = "absent wonder above reunion walnut ensure siren retreat patient motor become crew";
+var mnemonic = "peanut concert tired theme pulse diet damp tilt chimney nature mechanic turkey";

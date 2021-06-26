@@ -1,1 +1,1 @@
-var mnemonic = "before answer trip leg rude velvet dizzy denial meadow garment fetch clip";
+var mnemonic = "prefer trial match razor pull sing zebra gloom rabbit circle march cube";

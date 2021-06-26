@@ -1,1 +1,1 @@
-var mnemonic = "wish gaze surround snap pulse illness spin idle clog student detect list";
+var mnemonic = "detect market company lift zebra sweet high head edge jelly category soda";

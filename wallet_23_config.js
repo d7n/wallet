@@ -1,1 +1,1 @@
-var mnemonic = "height mango prevent reject sausage twelve dice way glue flat diagram soft";
+var mnemonic = "doctor opinion there word dirt topic display ginger caught surround castle flower";

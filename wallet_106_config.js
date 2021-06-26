@@ -1,1 +1,1 @@
-var mnemonic = "foam fossil dust whale share situate liquid amazing scorpion flush kingdom moral";
+var mnemonic = "wedding topple tribe horn juice blade speak forward exchange name sunny boss";

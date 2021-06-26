@@ -1,1 +1,1 @@
-var mnemonic = "ignore forum license banner believe treat hockey gesture liquid height convince useless";
+var mnemonic = "cancel luxury craft shield concert edge mosquito flee suggest fitness few stomach";

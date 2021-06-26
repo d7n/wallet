@@ -1,1 +1,1 @@
-var mnemonic = "exercise hole skill blind action emerge spoon wing glue sound whisper team";
+var mnemonic = "barrel disorder first turtle eye casual airport art apology front decide quit";

@@ -1,1 +1,1 @@
-var mnemonic = "retreat mass bottom relax twice broken dilemma finger blind smooth bargain grit";
+var mnemonic = "coral rhythm spray matter soon debate risk inject plug vote peace erode";

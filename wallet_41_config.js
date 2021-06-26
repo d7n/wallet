@@ -1,1 +1,1 @@
-var mnemonic = "vivid rapid clip cushion welcome mimic bullet bean riot delay perfect office";
+var mnemonic = "lawn arch tone october cool error meat cabin carbon subway truck avoid";

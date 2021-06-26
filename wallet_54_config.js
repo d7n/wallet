@@ -1,1 +1,1 @@
-var mnemonic = "assume century anger suggest believe arctic margin neutral fabric flip extra chimney";
+var mnemonic = "dish sail congress engage inch rebuild wrestle young tide open say cruise";

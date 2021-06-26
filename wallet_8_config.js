@@ -1,1 +1,1 @@
-var mnemonic = "goddess deny august sniff safe fruit myself melt hockey zero barely amused";
+var mnemonic = "search weasel foot dignity couple velvet such photo exile copy blouse hen";

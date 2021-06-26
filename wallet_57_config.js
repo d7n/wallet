@@ -1,1 +1,1 @@
-var mnemonic = "head erode raccoon ranch monitor pink ill upset myself more state matter";
+var mnemonic = "dove earth toward favorite rookie maple slight resource reward jelly bring margin";

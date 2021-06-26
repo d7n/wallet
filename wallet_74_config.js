@@ -1,1 +1,1 @@
-var mnemonic = "piece proof remember cereal blade rose sense dust alert spot chief deliver";
+var mnemonic = "sample pledge iron present organ deny cash random worry crew antique feel";

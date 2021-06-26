@@ -1,1 +1,1 @@
-var mnemonic = "farm senior spin tackle labor upper lawn physical obscure dream crawl october";
+var mnemonic = "feed grit negative loop govern dinosaur forest mimic canyon iron extra sadness";

@@ -1,1 +1,1 @@
-var mnemonic = "helmet toddler august mansion glass shrug museum pudding invest survey follow dice";
+var mnemonic = "mammal hair peace notable point destroy capital local ship flight plastic face";

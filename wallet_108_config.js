@@ -1,1 +1,1 @@
-var mnemonic = "regular win fish proof case dance sorry squirrel brief assume game impact";
+var mnemonic = "melody move shallow similar tiger pepper endorse cereal during remain visit live";

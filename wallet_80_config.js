@@ -1,1 +1,1 @@
-var mnemonic = "crumble voyage sister strike water once promote odor silent humble forum say";
+var mnemonic = "mask benefit fade copper master oxygen people secret whale burden teach venture";

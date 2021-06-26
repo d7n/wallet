@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon modify analyst slogan increase renew inherit square lobster oval lunch click";
+var mnemonic = "simple runway vacuum wheat obscure aware cry loud price scrub bubble awake";

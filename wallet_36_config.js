@@ -1,1 +1,1 @@
-var mnemonic = "ankle clay mouse hammer when fatal castle change frozen eye rug patient";
+var mnemonic = "reform gorilla destroy must weasel close razor expect moral patient glow rival";

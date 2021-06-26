@@ -1,1 +1,1 @@
-var mnemonic = "guilt detail toss crumble identify pumpkin reject best have normal picture orphan";
+var mnemonic = "broccoli hard sail lobster insane predict churn service private library jelly prepare";

@@ -1,1 +1,1 @@
-var mnemonic = "clarify matter office glass cinnamon fitness noise excess mix glove foil august";
+var mnemonic = "exhibit angry vital stove affair wish april strike runway audit weasel pumpkin";

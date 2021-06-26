@@ -1,1 +1,1 @@
-var mnemonic = "pen valley ticket speak result settle joy fatal process define arch frog";
+var mnemonic = "large phrase avocado stick army decade audit shadow record chicken collect reveal";

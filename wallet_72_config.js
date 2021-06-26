@@ -1,1 +1,1 @@
-var mnemonic = "skirt target frown open vessel cliff cost dynamic pledge pass actual online";
+var mnemonic = "they horse dice first trust aim wet comic alone demise grace account";

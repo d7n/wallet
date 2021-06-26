@@ -1,1 +1,1 @@
-var mnemonic = "mountain letter slab uncle vague swim mouse ostrich require village judge remain";
+var mnemonic = "entry either jaguar oval faculty subway van photo cook crew panic immune";

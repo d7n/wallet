@@ -1,1 +1,1 @@
-var mnemonic = "clap grid pole episode fly purity tide cargo you useless casino ostrich";
+var mnemonic = "grit crystal book enter jeans misery attack antenna fantasy danger bind high";

@@ -1,1 +1,1 @@
-var mnemonic = "scheme moral zone trouble lucky vendor island private defense suffer uncover then";
+var mnemonic = "any mosquito fog escape employ mixed length time butter magic pyramid length";

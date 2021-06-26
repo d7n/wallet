@@ -1,1 +1,1 @@
-var mnemonic = "fluid angry explain return salute detail benefit treat lift endless pet absurd";
+var mnemonic = "run bean robust glare prevent trip clinic allow voice return media timber";

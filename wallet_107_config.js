@@ -1,1 +1,1 @@
-var mnemonic = "okay volume peasant relax debris inhale planet seminar large summer arrive sun";
+var mnemonic = "hour update expand hover ice fragile transfer near onion car ask major";

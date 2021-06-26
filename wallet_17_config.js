@@ -1,1 +1,1 @@
-var mnemonic = "tenant canvas obtain sniff correct link drift teach bonus amount moral disagree";
+var mnemonic = "search quiz zero spirit digital gadget image march parent advance better verb";

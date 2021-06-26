@@ -1,1 +1,1 @@
-var mnemonic = "warrior victory sister sad remember asset follow isolate virus metal olive worry";
+var mnemonic = "sheriff scan gadget chef minor endless now hip hill charge wisdom flash";
