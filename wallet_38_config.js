@@ -1,1 +1,1 @@
-var mnemonic = "cruise attract library tenant color stereo lesson battle gather broom tortoise uncle";
+var mnemonic = "task artist adapt miracle right expose capital loop lady enemy cause pumpkin";

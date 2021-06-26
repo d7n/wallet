@@ -1,1 +1,1 @@
-var mnemonic = "pelican engage payment boss affair estate spread jewel issue click market frost";
+var mnemonic = "venue embody puzzle nurse deposit beyond shoulder rural vital nurse crane repair";

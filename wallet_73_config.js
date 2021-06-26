@@ -1,1 +1,1 @@
-var mnemonic = "annual sleep labor lift seek clutch life furnace chalk hawk snap six";
+var mnemonic = "neutral make kite region magnet like cherry exit script one siege vehicle";

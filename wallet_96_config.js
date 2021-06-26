@@ -1,1 +1,1 @@
-var mnemonic = "capable outside search razor mouse rigid army heart panic multiply vanish huge";
+var mnemonic = "bitter spare stock absurd exile welcome verb awake teach make strong patient";

@@ -1,1 +1,1 @@
-var mnemonic = "wrap novel memory smoke traffic lemon canvas cruel asset come client piece";
+var mnemonic = "similar field tribe devote hazard neutral analyst gloom laptop art north salon";

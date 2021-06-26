@@ -1,1 +1,1 @@
-var mnemonic = "when woman eager veteran spin spring best monitor winter foster cupboard between";
+var mnemonic = "corn friend cereal expire say bring train inform bar auction liquid explain";

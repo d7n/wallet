@@ -1,1 +1,1 @@
-var mnemonic = "office call genius village century jar program engage frequent first heavy verify";
+var mnemonic = "amount destroy liar lend lawn scrap club robust write witness intact seven";

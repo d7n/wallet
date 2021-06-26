@@ -1,1 +1,1 @@
-var mnemonic = "color ensure knee ankle robust robust mushroom domain culture develop network clever";
+var mnemonic = "good agree warrior chunk horse joy love neither defy rib museum sheriff";

@@ -1,1 +1,1 @@
-var mnemonic = "detail cause lizard cool liberty food father bird draft all twin space";
+var mnemonic = "section pyramid dignity another leisure donkey found street balance wire over fabric";

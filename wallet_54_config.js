@@ -1,1 +1,1 @@
-var mnemonic = "sudden fence accident violin couple another soon dove animal unlock engine cycle";
+var mnemonic = "weapon morning runway include owner game prosper warrior spy behave spider odor";

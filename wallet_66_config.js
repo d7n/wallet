@@ -1,1 +1,1 @@
-var mnemonic = "copper floor marriage fantasy electric drama pioneer find act luggage despair confirm";
+var mnemonic = "afraid tobacco forget false just half soccer tattoo hollow liquid achieve butter";

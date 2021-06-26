@@ -1,1 +1,1 @@
-var mnemonic = "edge hard method umbrella margin very unit bread keen conduct valid weapon";
+var mnemonic = "model rocket metal member spoil tape fade grief artwork clog lemon behind";

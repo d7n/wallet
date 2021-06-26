@@ -1,1 +1,1 @@
-var mnemonic = "citizen abuse broom pave width large blue legal echo angry able grief";
+var mnemonic = "awful shock steel prosper advice melody release anchor hospital penalty amateur repair";

@@ -1,1 +1,1 @@
-var mnemonic = "blood avocado apple love give addict hammer anchor flip camp fit dove";
+var mnemonic = "finger small struggle salute various gather point list birth pet weapon keep";

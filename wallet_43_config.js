@@ -1,1 +1,1 @@
-var mnemonic = "priority squeeze brown humor base deny hole carbon initial frame fish hub";
+var mnemonic = "clay twelve whisper evoke already key panther toast talent main pudding correct";

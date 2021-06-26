@@ -1,1 +1,1 @@
-var mnemonic = "entry strike beach deposit misery that toy globe mix harbor life adjust";
+var mnemonic = "solid general beef deer glide busy master edit limit dizzy motion label";

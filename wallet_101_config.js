@@ -1,1 +1,1 @@
-var mnemonic = "chapter rich lion phrase chair such uncover dynamic people someone afraid domain";
+var mnemonic = "hollow tail slab hire pledge risk envelope critic jump poem rely supreme";

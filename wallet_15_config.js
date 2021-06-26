@@ -1,1 +1,1 @@
-var mnemonic = "blush local immune law office fiber valley now bicycle breeze suit social";
+var mnemonic = "snow brick security now outdoor motion parrot tooth junior exotic that hard";

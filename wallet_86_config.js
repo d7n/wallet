@@ -1,1 +1,1 @@
-var mnemonic = "chair guess canoe correct december source blast various leave depend antenna hundred";
+var mnemonic = "wide stove shy surge nut digital elegant road blouse dial eight famous";

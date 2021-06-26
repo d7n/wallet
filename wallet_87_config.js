@@ -1,1 +1,1 @@
-var mnemonic = "juice develop exact royal bomb grit tower flash favorite other maximum chalk";
+var mnemonic = "bachelor measure suspect draw danger library camp capable belt bracket safe keen";

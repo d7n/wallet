@@ -1,1 +1,1 @@
-var mnemonic = "follow essay egg regular help dove february fan pluck term creek home";
+var mnemonic = "century sting tip chicken rabbit fault divert deliver warm horse water jar";

@@ -1,1 +1,1 @@
-var mnemonic = "crouch food armed ceiling muffin story comfort silly hire jewel impact success";
+var mnemonic = "hurt spider all sell velvet orbit end orbit theory scan pelican either";

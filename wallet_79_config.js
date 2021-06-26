@@ -1,1 +1,1 @@
-var mnemonic = "dry recipe elegant diamond color minimum trash coach flush artist punch radar";
+var mnemonic = "cousin prevent skill alcohol wood wheel picnic robot accident then pair save";

@@ -1,1 +1,1 @@
-var mnemonic = "relax carry type old card unfair alien hello moment universe skill angry";
+var mnemonic = "quantum weasel grape add team fiscal cruise ship million cliff clump visual";

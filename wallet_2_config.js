@@ -1,1 +1,1 @@
-var mnemonic = "drift moral stairs knife capable hero release movie army extra grape until";
+var mnemonic = "clown sniff coral expire beef spin civil artist sauce payment rookie figure";

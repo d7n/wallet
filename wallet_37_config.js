@@ -1,1 +1,1 @@
-var mnemonic = "bubble rhythm supply seven genuine deputy life day novel laptop spin mirror";
+var mnemonic = "piece story subject body text better correct first trash old zone pride";

@@ -1,1 +1,1 @@
-var mnemonic = "cliff tape silent swap together actress stomach vault you school candy nut";
+var mnemonic = "hobby stay cream enact stomach clay high coffee taste lunch jar pause";

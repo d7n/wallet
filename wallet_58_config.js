@@ -1,1 +1,1 @@
-var mnemonic = "birth unfold expand collect crystal quality tail climb fantasy negative lesson turtle";
+var mnemonic = "ride domain glad squeeze embark menu oblige elder trust deal alone aware";

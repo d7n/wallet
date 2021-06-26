@@ -1,1 +1,1 @@
-var mnemonic = "reveal join water cup pretty now march century nuclear cute staff siege";
+var mnemonic = "accident forum fluid help trip seminar fire trust wrestle escape art own";

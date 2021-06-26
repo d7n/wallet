@@ -1,1 +1,1 @@
-var mnemonic = "scatter various rail sport alter you adjust improve trap organ core sport";
+var mnemonic = "mango sing sound process album seek smart check crash gate lucky satisfy";

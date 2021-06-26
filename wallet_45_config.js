@@ -1,1 +1,1 @@
-var mnemonic = "refuse nephew valid agree improve major merit alone zone regret gallery photo";
+var mnemonic = "powder spike brief response hard idea glare silk shoot kitten crater auto";

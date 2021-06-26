@@ -1,1 +1,1 @@
-var mnemonic = "sound ensure envelope web bind rude pupil escape input whip aspect palace";
+var mnemonic = "relax gift silly dwarf away gesture light social later neither vanish eye";

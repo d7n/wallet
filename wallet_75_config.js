@@ -1,1 +1,1 @@
-var mnemonic = "hobby throw deal age resist unknown annual quit match hip reduce differ";
+var mnemonic = "van comic camera spring danger flat primary narrow harbor silly crater pistol";

@@ -1,1 +1,1 @@
-var mnemonic = "dune act melody magnet found fold aunt broom kind oval bomb model";
+var mnemonic = "rival gorilla extra violin virtual gallery wool exile camp pulse crouch oxygen";

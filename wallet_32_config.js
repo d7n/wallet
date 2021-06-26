@@ -1,1 +1,1 @@
-var mnemonic = "credit enable purity tiny dust plate pluck pulp achieve donate amazing popular";
+var mnemonic = "canal occur bubble renew around twenty cargo make naive remember sand vacuum";

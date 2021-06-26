@@ -1,1 +1,1 @@
-var mnemonic = "track hello cat exist evil guard ship problem deal day lava ticket";
+var mnemonic = "relax fury rocket critic belt giggle forget general enemy biology orchard blanket";

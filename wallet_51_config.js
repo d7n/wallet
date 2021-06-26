@@ -1,1 +1,1 @@
-var mnemonic = "skull reform meadow vocal glory flee oppose erosion inhale clown frog bachelor";
+var mnemonic = "dice fork round rebel decrease device enemy axis furnace icon another legend";

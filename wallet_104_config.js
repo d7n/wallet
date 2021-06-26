@@ -1,1 +1,1 @@
-var mnemonic = "hope vendor lawn right razor scan gun style deposit buyer proof express";
+var mnemonic = "verify cage before olive crouch error hawk black tenant normal remember pulse";

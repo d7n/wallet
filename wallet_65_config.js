@@ -1,1 +1,1 @@
-var mnemonic = "invest evoke observe diagram end deliver worth price always museum member law";
+var mnemonic = "quit arrive panel wait blade crop fancy promote limb category harvest three";

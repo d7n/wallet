@@ -1,1 +1,1 @@
-var mnemonic = "hollow before inflict grow pizza ribbon audit knock drink upon column actor";
+var mnemonic = "divert mad cross glass finger give together piece fortune alone bicycle acid";

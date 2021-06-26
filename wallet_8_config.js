@@ -1,1 +1,1 @@
-var mnemonic = "illegal chef recipe alcohol wild above promote alone recall huge husband soul";
+var mnemonic = "rude dentist comfort hour alien forget liar uniform ability tomorrow novel law";

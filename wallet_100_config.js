@@ -1,1 +1,1 @@
-var mnemonic = "phrase follow curve swallow speak buzz rib lecture also cake mansion balance";
+var mnemonic = "soul donkey amateur yellow scrub cool myth night amateur fatal floor brand";

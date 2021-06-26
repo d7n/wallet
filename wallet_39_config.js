@@ -1,1 +1,1 @@
-var mnemonic = "clip main bulb clinic eager setup enter example spot erupt junior sunset";
+var mnemonic = "cotton detail radar enjoy film notable cabbage hobby decline filter crater online";

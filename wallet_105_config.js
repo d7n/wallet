@@ -1,1 +1,1 @@
-var mnemonic = "poet grow edge number add panther explain trash arrange arm corn alley";
+var mnemonic = "code census popular fat accident obtain amazing staff absent chapter fork group";

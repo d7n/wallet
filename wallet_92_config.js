@@ -1,1 +1,1 @@
-var mnemonic = "salon argue over pencil shrug grunt pilot drop indoor stairs hazard harsh";
+var mnemonic = "fortune coral tennis urban unique float vapor attend crash shove jazz mesh";

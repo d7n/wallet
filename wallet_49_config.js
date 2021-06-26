@@ -1,1 +1,1 @@
-var mnemonic = "vessel night congress umbrella annual law segment original tree dune visual journey";
+var mnemonic = "mercy chest motor armor one index chief surge round kite lonely dignity";

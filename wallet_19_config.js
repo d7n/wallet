@@ -1,1 +1,1 @@
-var mnemonic = "hurt space half normal friend cycle problem april amused want twin defy";
+var mnemonic = "sponsor despair glimpse tank rural seed belt effort crash rebel captain split";

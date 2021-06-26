@@ -1,1 +1,1 @@
-var mnemonic = "follow error garment typical filter earn best use salute better advice goddess";
+var mnemonic = "tank episode flame anger mask party betray pull host climb wild merry";

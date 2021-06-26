@@ -1,1 +1,1 @@
-var mnemonic = "travel outside weird harvest visa axis van donkey velvet nation oxygen this";
+var mnemonic = "lawn post gallery lottery recipe target stadium tribe awake slogan farm success";

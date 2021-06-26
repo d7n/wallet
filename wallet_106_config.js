@@ -1,1 +1,1 @@
-var mnemonic = "file problem spoil nurse debate kid ripple giant exhaust mean laptop push";
+var mnemonic = "gaze task circle type equip chapter subway icon acoustic window point cradle";

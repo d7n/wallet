@@ -1,1 +1,1 @@
-var mnemonic = "acid chunk raven cover above infant bamboo fruit phone change peasant supply";
+var mnemonic = "broken another trumpet social kangaroo genuine crush day pioneer tortoise ice fade";

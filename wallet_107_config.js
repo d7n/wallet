@@ -1,1 +1,1 @@
-var mnemonic = "furnace absent patch glory lunch talk invite gate praise torch divide shed";
+var mnemonic = "pig become sustain only wasp shift appear cute fog luxury belt output";

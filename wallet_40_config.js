@@ -1,1 +1,1 @@
-var mnemonic = "grit design evil mass wheel boy great source quality chair note aim";
+var mnemonic = "level despair sad romance you image screen water base into ugly jungle";

@@ -1,1 +1,1 @@
-var mnemonic = "foster peace slight oval later toddler tape midnight into pull kid feature";
+var mnemonic = "soap trend harvest satisfy enact evolve mango hurry aunt wealth shed ladder";

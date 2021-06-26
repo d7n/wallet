@@ -1,1 +1,1 @@
-var mnemonic = "receive lobster retire taste found tattoo remember armor breeze give planet estate";
+var mnemonic = "charge mechanic elevator host oxygen raven work focus defense ability tragic crystal";

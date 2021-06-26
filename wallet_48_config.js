@@ -1,1 +1,1 @@
-var mnemonic = "error visual doll any peanut latin broom write favorite brain arrow humble";
+var mnemonic = "tragic twelve stadium trouble juice together victory coast suffer island pelican hundred";

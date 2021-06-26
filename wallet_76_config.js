@@ -1,1 +1,1 @@
-var mnemonic = "long network chuckle muscle torch fame naive august joke trouble apple wreck";
+var mnemonic = "leopard honey sentence room patient sister valid trouble crazy note debris curtain";

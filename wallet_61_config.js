@@ -1,1 +1,1 @@
-var mnemonic = "client dog hire sure general alcohol essence model vintage panic marble double";
+var mnemonic = "nation slush subway dinner gauge coffee timber phone melt purpose girl tiny";

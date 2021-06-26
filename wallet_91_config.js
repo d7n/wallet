@@ -1,1 +1,1 @@
-var mnemonic = "acid earn column menu end control vote mutual satoshi million permit sight";
+var mnemonic = "inch doll diamond accident gold kid image unhappy lonely soup lonely web";

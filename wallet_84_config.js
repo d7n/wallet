@@ -1,1 +1,1 @@
-var mnemonic = "post crack absorb fun plug fish off planet initial potato tower renew";
+var mnemonic = "runway target original bunker accuse moment sustain intact bag man crop long";

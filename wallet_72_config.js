@@ -1,1 +1,1 @@
-var mnemonic = "index flip raise speed anger umbrella muffin auto spoon vessel panther fuel";
+var mnemonic = "abuse velvet smile reveal bachelor cage upset decide siren smooth oyster giggle";

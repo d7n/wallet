@@ -1,1 +1,1 @@
-var mnemonic = "faint exhibit betray cloth always upon slush help subject exit offer ladder";
+var mnemonic = "timber exile artist prefer outside cruel ice ankle chimney desk wisdom trick";

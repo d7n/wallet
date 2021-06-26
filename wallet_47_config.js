@@ -1,1 +1,1 @@
-var mnemonic = "shiver capable quit material tenant travel stereo stick wheat indoor critic accuse";
+var mnemonic = "sand glimpse flower amused famous drum share wish poem pottery ticket cliff";

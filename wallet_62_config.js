@@ -1,1 +1,1 @@
-var mnemonic = "shop donate nominee ginger split uncle ribbon wet genuine say insane essence";
+var mnemonic = "brick bean average slab sunset sausage piano face final alien cousin village";

@@ -1,1 +1,1 @@
-var mnemonic = "source venue panda arch teach detect sense thrive fashion sight wide confirm";
+var mnemonic = "remind rubber company hint proud sense pepper flat spot wage shield sight";

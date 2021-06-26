@@ -1,1 +1,1 @@
-var mnemonic = "prevent process jar slot enjoy raven picture usual leaf visual risk grow";
+var mnemonic = "enhance tackle island runway crew bag fabric owner cactus often auto afford";

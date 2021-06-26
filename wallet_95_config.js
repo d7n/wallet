@@ -1,1 +1,1 @@
-var mnemonic = "involve jelly media entire camera enjoy hard purity soup supply flash outer";
+var mnemonic = "dizzy stage base horse express credit stable evil inquiry wood retire put";

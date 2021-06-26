@@ -1,1 +1,1 @@
-var mnemonic = "indoor verify diamond fee scissors purchase climb above arm month december quiz";
+var mnemonic = "become differ tuna cradle maze post gas snack favorite wrong butter shaft";

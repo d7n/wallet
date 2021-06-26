@@ -1,1 +1,1 @@
-var mnemonic = "twelve dust urban warfare pupil tunnel found knee tissue close jealous dilemma";
+var mnemonic = "rural sell audit morning curve loop science orange coconut injury public home";

@@ -1,1 +1,1 @@
-var mnemonic = "ugly east human join gate way stove embrace review squirrel road confirm";
+var mnemonic = "seek develop fire harsh broken tip interest shiver until idle faith plunge";

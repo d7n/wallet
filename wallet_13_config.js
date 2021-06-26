@@ -1,1 +1,1 @@
-var mnemonic = "spatial dad ketchup hold cream age sugar biology ten educate narrow pond";
+var mnemonic = "genuine recycle settle hockey unfair initial normal say fever question amateur remind";

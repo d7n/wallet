@@ -1,1 +1,1 @@
-var mnemonic = "welcome east original phone lift phrase space love stove obscure spot still";
+var mnemonic = "excuse rubber oval attitude heart style chicken west squeeze syrup prepare behind";

@@ -1,1 +1,1 @@
-var mnemonic = "wet floor turtle carry fuel jaguar movie cancel yard drum there shrug";
+var mnemonic = "bag theory divert expand lady length lesson manual clog hungry avoid expect";

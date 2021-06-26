@@ -1,1 +1,1 @@
-var mnemonic = "doll unveil common attract remove eager round craft plate insect impulse chase";
+var mnemonic = "peace deny medal oven bachelor recall emotion patient vehicle sudden refuse frozen";

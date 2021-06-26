@@ -1,1 +1,1 @@
-var mnemonic = "replace female pole kiss spike such fire permit mountain post woman inspire";
+var mnemonic = "design sick simple cup travel page cabbage whisper timber used together kangaroo";

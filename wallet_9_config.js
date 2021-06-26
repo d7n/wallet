@@ -1,1 +1,1 @@
-var mnemonic = "girl old acoustic canvas royal sad local circle chair comfort among lounge";
+var mnemonic = "risk melt expand pigeon humor tumble buffalo model genuine comic obtain actress";

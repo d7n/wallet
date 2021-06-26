@@ -1,1 +1,1 @@
-var mnemonic = "segment feed toward loop learn food mercy globe pen trend east reform";
+var mnemonic = "give wasp fashion doctor catch dry feature include mother cube can photo";

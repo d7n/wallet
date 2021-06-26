@@ -1,1 +1,1 @@
-var mnemonic = "bunker similar absent master purity avocado blade cross fragile asthma river snack";
+var mnemonic = "toward excuse security cross normal hood sense flash member beef tape safe";

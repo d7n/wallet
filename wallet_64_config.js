@@ -1,1 +1,1 @@
-var mnemonic = "estate race better lava loan since holiday twin bird give oak female";
+var mnemonic = "success cactus asthma party mountain auction expire galaxy forget liar degree flush";

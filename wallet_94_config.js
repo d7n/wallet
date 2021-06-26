@@ -1,1 +1,1 @@
-var mnemonic = "purchase clarify loop mouse narrow maze doctor fence prosper gaze trap item";
+var mnemonic = "seed essence pause reunion noodle capable early abandon hotel disagree labor mind";

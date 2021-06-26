@@ -1,1 +1,1 @@
-var mnemonic = "film monitor taste cloud grace staff twenty village monster cabin phone stone";
+var mnemonic = "cage section piece smoke captain miracle fade flash vanish design valid ranch";

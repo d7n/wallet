@@ -1,1 +1,1 @@
-var mnemonic = "afraid muffin refuse polar exact when arctic swamp object ring corn exotic";
+var mnemonic = "idea grass lake such pink describe direct excuse inside apart pilot wheel";

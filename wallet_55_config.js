@@ -1,1 +1,1 @@
-var mnemonic = "upper behave ahead angle crack present flower job term height memory unfair";
+var mnemonic = "chapter hundred elevator surprise shallow dawn couple pepper royal proof initial witness";

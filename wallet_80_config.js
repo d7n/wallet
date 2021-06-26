@@ -1,1 +1,1 @@
-var mnemonic = "drive drink soda soup pumpkin catalog corn power rely idle own alter";
+var mnemonic = "hidden lamp receive tape light always goose cycle huge dutch scorpion forget";

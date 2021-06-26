@@ -1,1 +1,1 @@
-var mnemonic = "twelve awkward soccer birth dog age faculty harvest zone drift love box";
+var mnemonic = "net forest ill pet suspect exact marine toilet this sort enlist chef";

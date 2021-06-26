@@ -1,1 +1,1 @@
-var mnemonic = "beef walnut office remember force congress favorite club daring cave opinion unveil";
+var mnemonic = "breeze snow citizen animal embrace purse blanket wash shy force hen gesture";

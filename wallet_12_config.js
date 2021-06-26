@@ -1,1 +1,1 @@
-var mnemonic = "science scale truth broken fortune old walnut mix gravity consider mention floor";
+var mnemonic = "first grain regret reunion way home prize patch display liquid path zone";

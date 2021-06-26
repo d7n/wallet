@@ -1,1 +1,1 @@
-var mnemonic = "seat sell traffic elevator bunker child rough moment dream thumb common whisper";
+var mnemonic = "film tribe mad poet matrix crisp grab call abandon disagree energy point";

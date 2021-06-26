@@ -1,1 +1,1 @@
-var mnemonic = "border road fault eight exchange early kitchen multiply humble bubble jelly nut";
+var mnemonic = "tissue garlic debate ahead chimney sort twin mosquito home fold field egg";

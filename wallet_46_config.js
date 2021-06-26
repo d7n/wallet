@@ -1,1 +1,1 @@
-var mnemonic = "rare deer feature grass market fortune pause raise try tide heart tent";
+var mnemonic = "shaft alcohol point universe wheat oil piece exhibit alpha toe pause ritual";

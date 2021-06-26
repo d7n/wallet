@@ -1,1 +1,1 @@
-var mnemonic = "brick estate bundle harsh quit priority annual journey kiss later patrol fog";
+var mnemonic = "escape zone engine heavy sad hood confirm still taste tissue remove royal";
