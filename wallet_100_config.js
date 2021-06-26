@@ -1,1 +1,1 @@
-var mnemonic = "fossil glory inhale renew lonely peace memory bachelor foot waste cry melody";
+var mnemonic = "melt need supreme festival segment argue poem island rookie regret valve program";

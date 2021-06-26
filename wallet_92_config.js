@@ -1,1 +1,1 @@
-var mnemonic = "minute pelican learn rate story burst mixture brief venture inquiry lake inch";
+var mnemonic = "sail near parent decorate trip exist fiber organ hazard clog hamster oyster";

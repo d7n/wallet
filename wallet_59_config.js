@@ -1,1 +1,1 @@
-var mnemonic = "repeat sadness pencil umbrella jar ridge cart found express test blood pipe";
+var mnemonic = "turkey group stairs fog retreat grant kite aware small forum divorce dilemma";

@@ -1,1 +1,1 @@
-var mnemonic = "ecology shield move entry also barrel capable van squeeze figure pond rescue";
+var mnemonic = "turkey truth ivory arctic wear dress attend seven invest fiction now slot";

@@ -1,1 +1,1 @@
-var mnemonic = "zone believe blossom also eight special ketchup often today now poet virus";
+var mnemonic = "warm picnic cover scissors hello wink attack follow hour unit snake speed";

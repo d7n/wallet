@@ -1,1 +1,1 @@
-var mnemonic = "ask butter exhaust token awkward sad donkey lake attract private motion seven";
+var mnemonic = "bench seed mixture plug correct glove forget outdoor pupil company adult hotel";

@@ -1,1 +1,1 @@
-var mnemonic = "marble warfare inside embody thing wire wait broccoli rigid ring usage roast";
+var mnemonic = "wash total lab sadness empty mention item cross pilot marine bacon frown";

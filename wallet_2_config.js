@@ -1,1 +1,1 @@
-var mnemonic = "awful replace join slab deer depend trend essence junk over simple humble";
+var mnemonic = "label useful minimum kick neck produce royal solve select unaware venture chair";

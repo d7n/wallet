@@ -1,1 +1,1 @@
-var mnemonic = "danger stereo bacon badge sphere simple clarify combine minute federal illness eye";
+var mnemonic = "wife belt remove dutch much type hospital example vivid chuckle method inhale";

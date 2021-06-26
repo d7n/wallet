@@ -1,1 +1,1 @@
-var mnemonic = "picnic basic hip scale sadness soda hole insane child actor blush salad";
+var mnemonic = "broom album blanket voice couple veteran reduce inside physical eyebrow render fringe";

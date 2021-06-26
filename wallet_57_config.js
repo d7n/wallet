@@ -1,1 +1,1 @@
-var mnemonic = "castle actress supreme curious mad result music fiber practice turtle insane shield";
+var mnemonic = "van miracle latin network chair flip vibrant diagram involve recall city ramp";

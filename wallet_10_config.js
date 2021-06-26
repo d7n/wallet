@@ -1,1 +1,1 @@
-var mnemonic = "violin argue climb law carpet resource few aspect amateur pitch ozone swarm";
+var mnemonic = "chicken trouble relief stone list tumble soap draw gorilla absorb sound spoon";

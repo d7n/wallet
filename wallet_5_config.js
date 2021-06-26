@@ -1,1 +1,1 @@
-var mnemonic = "novel renew memory jeans gauge pistol speak emotion cat daughter actress wasp";
+var mnemonic = "tell square shift seed wink detail convince theory design desert trigger pear";

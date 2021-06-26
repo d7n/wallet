@@ -1,1 +1,1 @@
-var mnemonic = "spin good topple almost either spot advance awful social address marine service";
+var mnemonic = "glance document safe small culture state deliver jungle title cereal maid happy";

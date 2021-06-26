@@ -1,1 +1,1 @@
-var mnemonic = "flip trip favorite volcano split penalty damp penalty kitten radio pride make";
+var mnemonic = "city raw brown board submit apple chuckle dream fog giant staff nature";

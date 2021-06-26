@@ -1,1 +1,1 @@
-var mnemonic = "summer addict aunt face dish pink brisk buzz ten shy fence sail";
+var mnemonic = "oyster convince advance intact cannon audit almost soup skill hotel pony title";

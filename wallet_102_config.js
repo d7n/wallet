@@ -1,1 +1,1 @@
-var mnemonic = "slot crash banana orient actress destroy music abstract wave media vacuum gap";
+var mnemonic = "lab benefit father flock wealth turkey pony puzzle poet time polar uncle";

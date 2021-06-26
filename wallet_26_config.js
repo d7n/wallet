@@ -1,1 +1,1 @@
-var mnemonic = "stand ordinary gaze shed patch friend please drip kangaroo token wear reason";
+var mnemonic = "short off lesson sunny radar desk vibrant swamp slice adapt peanut treat";

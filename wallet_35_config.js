@@ -1,1 +1,1 @@
-var mnemonic = "main hedgehog party man sausage escape bless armed cabin among lemon quote";
+var mnemonic = "sausage mass chalk own mind drop envelope cherry utility pause destroy champion";

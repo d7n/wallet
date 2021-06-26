@@ -1,1 +1,1 @@
-var mnemonic = "mesh raven jewel curious wool enlist horn march limb betray tenant debris";
+var mnemonic = "birth annual gadget soul describe rail thing blame shoot dragon master sound";

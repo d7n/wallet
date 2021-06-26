@@ -1,1 +1,1 @@
-var mnemonic = "inject fatigue valid detail breeze cake acoustic zero tell convince typical thunder";
+var mnemonic = "exile light matrix actress credit pelican hotel thing orbit tower chunk senior";

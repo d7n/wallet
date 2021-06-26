@@ -1,1 +1,1 @@
-var mnemonic = "air expire chronic dirt fortune lunar album game genius symptom jungle rescue";
+var mnemonic = "rail jealous churn pyramid satoshi output dish desk very fat round august";

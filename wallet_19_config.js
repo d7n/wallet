@@ -1,1 +1,1 @@
-var mnemonic = "raw maximum demand hen volume ginger together theory drip bar metal clever";
+var mnemonic = "any mandate input category enhance lecture bag obscure human special income expand";

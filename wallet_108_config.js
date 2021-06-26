@@ -1,1 +1,1 @@
-var mnemonic = "cook main true cannon cart isolate merge cotton erode lobster orient stand";
+var mnemonic = "asthma swarm ketchup collect try firm discover alert violin rain flag fly";

@@ -1,1 +1,1 @@
-var mnemonic = "false dance test sketch lady reveal knee giraffe thank peace infant door";
+var mnemonic = "future debate more cry demand update smooth elder shoe absent naive bind";

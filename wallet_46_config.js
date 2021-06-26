@@ -1,1 +1,1 @@
-var mnemonic = "sort smart whale zone afford scan heavy ring ice total metal connect";
+var mnemonic = "seven betray owner summer clown draw tennis miracle mother pulse tongue toy";

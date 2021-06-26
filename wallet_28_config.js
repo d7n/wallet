@@ -1,1 +1,1 @@
-var mnemonic = "unique vacant interest coil father float differ trial intact edit sausage yard";
+var mnemonic = "monster little eye gather fiction hub rapid inherit one model safe connect";

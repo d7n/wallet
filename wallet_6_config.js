@@ -1,1 +1,1 @@
-var mnemonic = "dutch together margin monitor need cup rookie seven unknown mad purity worry";
+var mnemonic = "glad siege leisure grit yellow electric donkey west wash hundred develop inmate";

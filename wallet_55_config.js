@@ -1,1 +1,1 @@
-var mnemonic = "kitten old brain grain zone total above crawl upset patient silver satisfy";
+var mnemonic = "rather beauty label detect pudding run oxygen essence shock fruit split industry";

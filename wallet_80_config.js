@@ -1,1 +1,1 @@
-var mnemonic = "image cement crane retire combine unlock situate light chair merit congress flavor";
+var mnemonic = "remain blur evoke rocket collect home paper inner demise river obtain chunk";

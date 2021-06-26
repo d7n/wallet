@@ -1,1 +1,1 @@
-var mnemonic = "example notable actor have crumble pet suffer bike barely exclude ask entire";
+var mnemonic = "gun alien moral squeeze noble six firm liquid recall myself weird letter";

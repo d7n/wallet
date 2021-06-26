@@ -1,1 +1,1 @@
-var mnemonic = "grab attend rapid cabbage drift brother someone inflict dismiss daughter elephant kid";
+var mnemonic = "coin hotel icon govern cup sunset talk raccoon super relief fitness drive";

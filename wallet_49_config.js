@@ -1,1 +1,1 @@
-var mnemonic = "curve script raven enough anchor apology token clip twist half boss inflict";
+var mnemonic = "ecology assume joy more junk win note use welcome hunt cram cause";

@@ -1,1 +1,1 @@
-var mnemonic = "mixed wood pig cheap south process best still sense put next fury";
+var mnemonic = "faith kangaroo agree marine lady brass glad gift access travel claw flee";

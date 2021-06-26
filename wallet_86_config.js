@@ -1,1 +1,1 @@
-var mnemonic = "life cause ecology beef riot extend nephew scare message annual emerge surge";
+var mnemonic = "area spread country material weekend wisdom wage domain cricket cross parade sun";

@@ -1,1 +1,1 @@
-var mnemonic = "creek car cattle abuse scrap hockey timber discover zoo blossom beyond roast";
+var mnemonic = "move keep quick impact column stool sudden power turtle beach erosion tilt";

@@ -1,1 +1,1 @@
-var mnemonic = "oak dentist sight visual speed dream spend company ostrich pattern illness bring";
+var mnemonic = "index emotion eagle express sad waste staff effort response usage goddess clump";

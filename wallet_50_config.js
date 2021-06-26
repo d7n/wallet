@@ -1,1 +1,1 @@
-var mnemonic = "armed limb wheat athlete type drum never modify suspect defy atom wage";
+var mnemonic = "text spoon charge puppy cry appear thrive foil spike armor angry guitar";

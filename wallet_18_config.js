@@ -1,1 +1,1 @@
-var mnemonic = "panda talent question face skate common fold casino tag notice market weather";
+var mnemonic = "outer deliver edge year useless divorce inject phone replace fiscal long blast";

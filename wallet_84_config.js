@@ -1,1 +1,1 @@
-var mnemonic = "major pond unhappy shuffle genre glare enough act flash among more crush";
+var mnemonic = "horse cram soul drop ritual marble render sand fame circle uphold song";

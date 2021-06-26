@@ -1,1 +1,1 @@
-var mnemonic = "online rack jealous before vocal filter vivid learn three make aware room";
+var mnemonic = "catalog option become tonight public giraffe eagle escape figure pole weird gossip";

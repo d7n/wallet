@@ -1,1 +1,1 @@
-var mnemonic = "suspect hub doctor junior check human maximum define vacant track invest swing";
+var mnemonic = "neglect food play attract warm nut wasp weather private mask random paddle";

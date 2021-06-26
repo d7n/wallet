@@ -1,1 +1,1 @@
-var mnemonic = "opera spoon print road debate until bird motion ozone whale nation quality";
+var mnemonic = "tuition chef fork raw recall early good donkey evoke voyage youth cluster";

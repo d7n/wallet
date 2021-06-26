@@ -1,1 +1,1 @@
-var mnemonic = "method twelve broom milk recall enter eyebrow fashion social draw sport jaguar";
+var mnemonic = "humor night weather laptop dune wear gorilla unit initial belt fun fluid";

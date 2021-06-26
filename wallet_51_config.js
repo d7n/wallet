@@ -1,1 +1,1 @@
-var mnemonic = "practice ketchup benefit sing mention sign garbage party captain smoke material forward";
+var mnemonic = "metal symptom wink science wet disagree finish cash amazing garden myth buddy";

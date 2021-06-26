@@ -1,1 +1,1 @@
-var mnemonic = "view field series jealous stadium silent simple gold parent alien between hat";
+var mnemonic = "chase sunset lion aim super enemy label runway round regret mean actual";

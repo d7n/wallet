@@ -1,1 +1,1 @@
-var mnemonic = "addict minute razor icon adult box review peanut gain lens gold dial";
+var mnemonic = "hood protect net swarm filter man admit sunset table month have soccer";

@@ -1,1 +1,1 @@
-var mnemonic = "rough body potato play monster uphold wise hospital spell acid scatter stage";
+var mnemonic = "loop grain tuna kitchen force uphold use bridge pet disorder huge drip";

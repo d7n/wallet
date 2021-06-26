@@ -1,1 +1,1 @@
-var mnemonic = "humble wave equip album ski ketchup erode reduce panda theory sister patch";
+var mnemonic = "faint try stumble inject rich spare horror beauty furnace text always address";

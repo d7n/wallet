@@ -1,1 +1,1 @@
-var mnemonic = "deposit scan base ski govern help midnight matter fee permit point expose";
+var mnemonic = "digital shadow crane sport guilt wrap glory deposit cave giraffe bitter level";

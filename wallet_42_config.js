@@ -1,1 +1,1 @@
-var mnemonic = "elbow expand measure stone sure pupil inch pumpkin adult impulse expect stumble";
+var mnemonic = "approve power lottery blood above boil service latin unveil pyramid harbor problem";

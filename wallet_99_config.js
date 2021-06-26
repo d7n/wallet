@@ -1,1 +1,1 @@
-var mnemonic = "script curtain owner horse caught random language rally utility brick insect will";
+var mnemonic = "chalk benefit diamond tuition lend carbon oppose lunch topple silent general enable";

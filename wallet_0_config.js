@@ -1,1 +1,1 @@
-var mnemonic = "output awake music hobby inside gorilla history sorry find average opera defy";
+var mnemonic = "useful refuse birth forum teach flee couch cage silly volume famous fresh";

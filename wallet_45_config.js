@@ -1,1 +1,1 @@
-var mnemonic = "phone bonus off pistol rate act write rough segment snow material credit";
+var mnemonic = "volcano trash rail physical solution treat exist traffic romance thumb beach economy";

@@ -1,1 +1,1 @@
-var mnemonic = "material skin loop task cake spell public swamp bargain empty below soldier";
+var mnemonic = "quote essence tuna half special company menu gravity fork drink code crew";

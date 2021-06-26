@@ -1,1 +1,1 @@
-var mnemonic = "pretty tired dad situate report act walnut whip display abuse plate hill";
+var mnemonic = "spike jewel badge beauty quit simple mean orchard pact west hello silly";

@@ -1,1 +1,1 @@
-var mnemonic = "once bless amount early steel high tuition puppy famous silk first spice";
+var mnemonic = "culture polar steak usual depth clock goat digital member uphold thrive setup";

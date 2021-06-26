@@ -1,1 +1,1 @@
-var mnemonic = "mad avoid steel prevent october lock car love shiver despair sick runway";
+var mnemonic = "twelve giraffe talent indicate transfer bonus roast unhappy please mixture source armor";

@@ -1,1 +1,1 @@
-var mnemonic = "wonder car mention royal fix soldier object ill coil video pepper blood";
+var mnemonic = "witness sea witness physical wet pattern calm shadow path humble picnic birth";

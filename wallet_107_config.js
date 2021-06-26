@@ -1,1 +1,1 @@
-var mnemonic = "wool spawn refuse practice attract idle mansion clown ethics crystal sniff dizzy";
+var mnemonic = "crowd museum lion shrug toss biology actual ticket lesson tilt solar top";

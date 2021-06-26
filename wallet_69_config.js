@@ -1,1 +1,1 @@
-var mnemonic = "math neutral fitness sustain human benefit salon cat juice nominee enforce arena";
+var mnemonic = "someone alpha picnic trash just visual blush bomb famous confirm flash check";

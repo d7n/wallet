@@ -1,1 +1,1 @@
-var mnemonic = "sick dutch bulk warfare average trumpet month lumber fee author resemble save";
+var mnemonic = "brave such above pelican mango brief slender recall absorb thought album fatigue";

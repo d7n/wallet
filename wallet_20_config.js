@@ -1,1 +1,1 @@
-var mnemonic = "old stadium foster tumble task depth puzzle cereal average fish social submit";
+var mnemonic = "cotton doll ceiling nice eagle west ranch ceiling soul fox unlock frequent";

@@ -1,1 +1,1 @@
-var mnemonic = "forward stereo supply rate share save dial price glory police boil bright";
+var mnemonic = "render exotic attack future educate swarm decorate cheese swift prison arch quality";

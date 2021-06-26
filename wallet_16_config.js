@@ -1,1 +1,1 @@
-var mnemonic = "pair spike cage fever solve choose heart fashion lamp script slim call";
+var mnemonic = "valid gloom stereo peanut repeat insane shallow page hazard sell juice good";

@@ -1,1 +1,1 @@
-var mnemonic = "note agent neutral bunker hill caution broccoli reject logic alter mix derive";
+var mnemonic = "indicate false problem feature people jealous misery found drum achieve donkey day";

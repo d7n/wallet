@@ -1,1 +1,1 @@
-var mnemonic = "various near roof rack argue long hover quality kitchen eager horn birth";
+var mnemonic = "hammer ginger olympic law coyote this response neglect shock prevent crime exile";

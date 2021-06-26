@@ -1,1 +1,1 @@
-var mnemonic = "member cliff thumb visa stomach anchor power space absorb jazz mosquito evolve";
+var mnemonic = "supreme wrist hurry hat bike early craft owner harbor rely steak excite";

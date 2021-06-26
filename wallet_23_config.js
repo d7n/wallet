@@ -1,1 +1,1 @@
-var mnemonic = "web metal rich husband chief tiny spot nuclear life siren ahead radio";
+var mnemonic = "harsh nice depart knock post latin crush nose lava letter ethics bargain";

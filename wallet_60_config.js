@@ -1,1 +1,1 @@
-var mnemonic = "umbrella upon endorse face rural forward trigger seat ethics peanut auto topic";
+var mnemonic = "stumble all attend artwork quick pulse bracket remove final key antique crisp";

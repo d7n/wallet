@@ -1,1 +1,1 @@
-var mnemonic = "limb boat various december cigar person naive typical elite agent busy kitten";
+var mnemonic = "drama swift odor exhibit width chunk dwarf stage girl hand gown run";

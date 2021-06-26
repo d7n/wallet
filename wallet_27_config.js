@@ -1,1 +1,1 @@
-var mnemonic = "fuel liquid cement caution tragic foam thank violin badge path subject under";
+var mnemonic = "cry what angry dolphin stool quiz salt vacuum ramp awesome destroy admit";

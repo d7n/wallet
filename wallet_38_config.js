@@ -1,1 +1,1 @@
-var mnemonic = "beauty bachelor flavor arrow divert analyst pumpkin dose witness join captain butter";
+var mnemonic = "snap song nation rifle balcony dad soon case weekend must inflict unfair";

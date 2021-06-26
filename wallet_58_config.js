@@ -1,1 +1,1 @@
-var mnemonic = "slab ocean poet feature laptop pistol hundred twist antenna spice stem hat";
+var mnemonic = "desert inhale merry owner lift first amateur sign yard chef hint legend";

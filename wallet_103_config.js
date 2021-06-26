@@ -1,1 +1,1 @@
-var mnemonic = "awkward unfair exercise metal supreme athlete extra sea steak brisk primary federal";
+var mnemonic = "creek remember input modify boring response reunion cause dice asset mandate gift";

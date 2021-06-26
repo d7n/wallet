@@ -1,1 +1,1 @@
-var mnemonic = "help marine fiscal hover shallow manual clutch funny merit void wagon rebel";
+var mnemonic = "unfold unaware soul save pupil parent velvet cross super example junior wrist";

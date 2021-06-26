@@ -1,1 +1,1 @@
-var mnemonic = "bunker must provide gain chimney garbage aware sad patch admit live dust";
+var mnemonic = "inner alarm guess sunset whisper magic ramp vocal scrap holiday notice spend";

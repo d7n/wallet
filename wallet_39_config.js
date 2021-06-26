@@ -1,1 +1,1 @@
-var mnemonic = "order lock fetch fee profit hour faculty champion dumb twist mirror crime";
+var mnemonic = "machine avoid sense engage tool rug room into east thrive island thank";

@@ -1,1 +1,1 @@
-var mnemonic = "false biology slim install dutch chef squeeze logic round dentist truth skate";
+var mnemonic = "attack aunt sniff upper clip wealth trust mercy arm hub ask once";

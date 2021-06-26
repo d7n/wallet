@@ -1,1 +1,1 @@
-var mnemonic = "deposit online used buzz journey such kitchen trigger riot chapter virus close";
+var mnemonic = "elbow gesture sphere orient danger drum celery erode embark decade right wire";

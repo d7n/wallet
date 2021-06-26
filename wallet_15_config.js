@@ -1,1 +1,1 @@
-var mnemonic = "grit mimic doctor capable huge sand rebuild meadow tool approve return space";
+var mnemonic = "pizza dumb potato fault flavor strategy develop foster denial endorse hold today";

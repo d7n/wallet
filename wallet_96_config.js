@@ -1,1 +1,1 @@
-var mnemonic = "ensure armor image patient range dirt gesture purchase cluster hidden mirror switch";
+var mnemonic = "assist vault cabin initial mask delay tortoise punch language unknown expand whisper";

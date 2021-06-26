@@ -1,1 +1,1 @@
-var mnemonic = "confirm enhance ancient myth empty woman nerve want tuition dice vicious treat";
+var mnemonic = "penalty fluid bulk stage penalty artist merge coach illegal cereal ahead true";

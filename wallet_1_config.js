@@ -1,1 +1,1 @@
-var mnemonic = "cherry end solution sphere nothing cliff mule remember bundle hub wood only";
+var mnemonic = "obvious predict enter fork canoe thank reflect stairs ability skirt primary primary";

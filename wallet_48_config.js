@@ -1,1 +1,1 @@
-var mnemonic = "trap extra source kick creek knee obey laugh weird keep blast album";
+var mnemonic = "winter speak error undo issue guess assault ankle south parade monitor clip";

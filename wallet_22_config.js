@@ -1,1 +1,1 @@
-var mnemonic = "breeze civil supply unhappy punch find trend marine hip island parade day";
+var mnemonic = "bird year butter ranch voyage soft scheme spare treat again pluck leaf";

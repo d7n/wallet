@@ -1,1 +1,1 @@
-var mnemonic = "panel usual staff science range business elephant type method obvious elite fantasy";
+var mnemonic = "thought erode cool bullet high canoe broccoli mix gloom select caught clap";

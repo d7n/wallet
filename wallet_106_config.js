@@ -1,1 +1,1 @@
-var mnemonic = "ginger copy neither slot feed gesture sense sample style cable bulk success";
+var mnemonic = "giggle whip hood thumb scrap frown slot glimpse donor delay print lab";
