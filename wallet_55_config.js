@@ -1,1 +1,1 @@
-var mnemonic = "pelican gloom hip grab reveal raccoon obey obtain doll feed work autumn";
+var mnemonic = "choice code exit course skull topple humble infant pride memory civil view";

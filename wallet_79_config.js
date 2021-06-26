@@ -1,1 +1,1 @@
-var mnemonic = "giant problem educate dwarf blanket cereal zebra library river learn clump potato";
+var mnemonic = "decorate flame estate joke tiny doctor frost bounce entire option harvest response";

@@ -1,1 +1,1 @@
-var mnemonic = "sense embrace piece ankle steel butter tattoo vanish slender empower false vault";
+var mnemonic = "grocery bench adjust menu neck garden leopard mandate hand hint ice surprise";

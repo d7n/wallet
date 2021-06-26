@@ -1,1 +1,1 @@
-var mnemonic = "topple axis oppose guess only torch decrease crane senior weapon baby limit";
+var mnemonic = "property valley luxury still chuckle music silent witness demise alien snake quote";

@@ -1,1 +1,1 @@
-var mnemonic = "robot acoustic retreat oven lend moon comfort tortoise divorce fancy popular winner";
+var mnemonic = "donor erase tail glory firm main wet leisure pizza install auto setup";

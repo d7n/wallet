@@ -1,1 +1,1 @@
-var mnemonic = "below endorse peace copper job candy cake notable agree forum sword arena";
+var mnemonic = "aunt melody vapor office federal foster trick force item hospital cushion feed";

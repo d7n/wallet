@@ -1,1 +1,1 @@
-var mnemonic = "sock dust bargain little uncover slot cube industry width consider record outer";
+var mnemonic = "lift vanish boat input parent brass cycle render adult arrange assume idle";

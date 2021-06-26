@@ -1,1 +1,1 @@
-var mnemonic = "frog amateur century swallow sleep board enforce primary sudden camp tone stage";
+var mnemonic = "asthma lawsuit blush rescue ginger absorb future design cook lunar season torch";

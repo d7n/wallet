@@ -1,1 +1,1 @@
-var mnemonic = "almost lonely require artist lecture roof make action assault cover enjoy witness";
+var mnemonic = "movie can during skin moon cat verify oblige tray indoor cushion rifle";

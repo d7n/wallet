@@ -1,1 +1,1 @@
-var mnemonic = "van deal more appear portion mass bottom arena portion arrow actor can";
+var mnemonic = "brave twenty slight fire rib thing rural grid grace violin spell situate";

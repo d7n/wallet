@@ -1,1 +1,1 @@
-var mnemonic = "menu laptop limit used disease skate van wish soft zoo fruit promote";
+var mnemonic = "toddler empower rigid truth usage noise ecology test entire romance law arrow";

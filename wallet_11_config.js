@@ -1,1 +1,1 @@
-var mnemonic = "okay liar foam common extra recall again snack delay call manual adapt";
+var mnemonic = "parade address monster indicate hurt panel help elder usual catalog offer quantum";

@@ -1,1 +1,1 @@
-var mnemonic = "promote increase speak license bulk hybrid slight visa element grow wine pet";
+var mnemonic = "senior sunset aware whip move void access lock salt alcohol palace seven";

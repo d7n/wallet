@@ -1,1 +1,1 @@
-var mnemonic = "any curious quick squeeze trip there burden car position wet scout boat";
+var mnemonic = "wait surface doctor thumb check test cloud marine disagree snap boat purpose";

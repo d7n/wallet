@@ -1,1 +1,1 @@
-var mnemonic = "fantasy impact motor balcony subway render invest tourist yard squirrel print kick";
+var mnemonic = "carpet focus task sausage year basket vapor group width develop lecture cactus";

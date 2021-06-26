@@ -1,1 +1,1 @@
-var mnemonic = "during color ready shove air above police issue general found inspire neglect";
+var mnemonic = "pepper narrow step limit empower laugh tape summer invest safe amused retreat";

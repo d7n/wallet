@@ -1,1 +1,1 @@
-var mnemonic = "pottery system paper mansion boss make super guitar step chef iron rice";
+var mnemonic = "pudding theme rhythm wall they wrist fox force try foot jacket hobby";

@@ -1,1 +1,1 @@
-var mnemonic = "spray ship card clarify twist maze board detail garlic seat gadget more";
+var mnemonic = "device art put awkward arrange kitchen merit outer system zoo quick melt";

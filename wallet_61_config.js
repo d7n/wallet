@@ -1,1 +1,1 @@
-var mnemonic = "yellow auction donkey spell talent stable project maid glare blue slice pipe";
+var mnemonic = "journey abuse coffee increase duty skirt senior orange miss style regular heavy";

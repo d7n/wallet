@@ -1,1 +1,1 @@
-var mnemonic = "display reunion borrow symptom myself sheriff normal veteran have nose tongue govern";
+var mnemonic = "arena grape maple bottom ski measure target spider athlete east royal enough";

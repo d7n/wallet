@@ -1,1 +1,1 @@
-var mnemonic = "mobile opinion live enroll move save fade fetch easily bitter cry vicious";
+var mnemonic = "liar bullet figure buffalo humble wall lock vivid engine measure barrel boring";

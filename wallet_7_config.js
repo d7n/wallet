@@ -1,1 +1,1 @@
-var mnemonic = "jump speed pen wealth wire minor between define exclude strong question cupboard";
+var mnemonic = "moment acoustic voice helmet empower beyond prize expire square average goat real";

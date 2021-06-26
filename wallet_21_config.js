@@ -1,1 +1,1 @@
-var mnemonic = "once sick figure potato turkey tide cereal focus social stamp fix wide";
+var mnemonic = "better level ketchup horse twin bracket name state very evoke bonus weekend";

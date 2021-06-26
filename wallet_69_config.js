@@ -1,1 +1,1 @@
-var mnemonic = "behind legal strong tobacco monster hotel say risk digital similar movie pink";
+var mnemonic = "life innocent dove mutual patrol inch danger blast task addict comfort random";

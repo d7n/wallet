@@ -1,1 +1,1 @@
-var mnemonic = "hockey thunder account river grid quarter sleep mad swift that divert twice";
+var mnemonic = "category wedding critic timber viable apology attend lion weapon tissue force family";

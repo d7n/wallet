@@ -1,1 +1,1 @@
-var mnemonic = "prize iron monitor spell act crucial zoo pottery toilet buddy close eager";
+var mnemonic = "announce arrow opinion spice myself modify vacant arrive rookie ketchup motion risk";

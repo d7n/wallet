@@ -1,1 +1,1 @@
-var mnemonic = "wood artefact gun balance fitness ritual doll depth shiver reject theory auction";
+var mnemonic = "master wise fashion wrestle buzz news globe session trash glad venture fox";

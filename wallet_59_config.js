@@ -1,1 +1,1 @@
-var mnemonic = "pear pumpkin damp tribe rule opinion describe opinion able firm donor brown";
+var mnemonic = "rude source fit steak they royal jewel vendor clerk pulp vicious garage";

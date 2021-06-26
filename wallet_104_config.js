@@ -1,1 +1,1 @@
-var mnemonic = "illegal scrap dynamic amazing inflict fatigue giraffe zero echo crisp dwarf pet";
+var mnemonic = "liar tuition update shock sister door health hill banana diary ritual gain";

@@ -1,1 +1,1 @@
-var mnemonic = "feel mushroom away head evil frame tank guilt school milk harbor stick";
+var mnemonic = "abstract erosion error kind wash gap embrace shrug baby vague leave pen";

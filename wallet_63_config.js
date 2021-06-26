@@ -1,1 +1,1 @@
-var mnemonic = "nothing cash few write energy require burden century dune device grow increase";
+var mnemonic = "around endless like mandate child wet skate carbon pupil bone auction pottery";

@@ -1,1 +1,1 @@
-var mnemonic = "squeeze slice toe broccoli cheese next minute eye waste embody glimpse journey";
+var mnemonic = "cinnamon power good used taxi same goat expose ugly enact mango unlock";

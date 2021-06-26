@@ -1,1 +1,1 @@
-var mnemonic = "dress fix vault dismiss okay garlic appear cart usual seek undo guard";
+var mnemonic = "hurdle smooth always fatal guilt iron spirit million cage kangaroo ribbon boss";

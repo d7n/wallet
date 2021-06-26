@@ -1,1 +1,1 @@
-var mnemonic = "grief airport elder primary mosquito jungle absurd panda govern trend dust decline";
+var mnemonic = "bundle resist climb loop seat concert tape car diary merit course collect";

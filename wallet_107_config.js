@@ -1,1 +1,1 @@
-var mnemonic = "amount since weapon eternal inquiry shrug save orchard zebra wall crawl lend";
+var mnemonic = "what major blind twin custom umbrella cost vacuum tomorrow avocado artwork paper";

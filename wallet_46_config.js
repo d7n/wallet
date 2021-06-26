@@ -1,1 +1,1 @@
-var mnemonic = "exchange ribbon emerge version olympic range expose argue garlic muscle wasp clip";
+var mnemonic = "police such caution essay buzz ice analyst lab treat voice impose discover";

@@ -1,1 +1,1 @@
-var mnemonic = "lava praise chef arrest upper exotic ozone debris abstract town hollow renew";
+var mnemonic = "puppy lemon rose local diesel happy best rally stand deal brand erode";

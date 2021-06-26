@@ -1,1 +1,1 @@
-var mnemonic = "gauge desk ridge buyer sadness envelope fiber almost strike unaware rhythm prosper";
+var mnemonic = "height wolf hood tired divide process arctic mention bring salmon risk cross";

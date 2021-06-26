@@ -1,1 +1,1 @@
-var mnemonic = "ranch hire front roof erosion permit purchase dove veteran when dress eight";
+var mnemonic = "plastic clarify owner stomach matter fatigue marine human better advance brown kit";

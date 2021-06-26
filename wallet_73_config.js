@@ -1,1 +1,1 @@
-var mnemonic = "predict furnace lava educate useful ginger exclude shell dog sadness word napkin";
+var mnemonic = "clinic health clump romance suspect name puppy surround reward increase fuel absorb";

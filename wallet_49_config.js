@@ -1,1 +1,1 @@
-var mnemonic = "loan icon question popular ability wagon tool weird color inhale cinnamon rose";
+var mnemonic = "inspire essence visual coin rent decorate acid immune film scan goddess federal";

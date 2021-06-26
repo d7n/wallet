@@ -1,1 +1,1 @@
-var mnemonic = "source thing this predict amused fee muscle endorse monitor into theme design";
+var mnemonic = "curious concert random news tribe screen supply viable over curve dynamic throw";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe innocent price pass exercise leader trash net manual quarter camp hungry";
+var mnemonic = "fade hundred snack lottery rally use fold coast fresh boost concert state";

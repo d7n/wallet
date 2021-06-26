@@ -1,1 +1,1 @@
-var mnemonic = "dove night genuine rich drop ridge jaguar giant rookie begin glimpse unhappy";
+var mnemonic = "expose long market rich nothing equal globe staff jazz cloth valve gauge";

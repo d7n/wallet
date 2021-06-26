@@ -1,1 +1,1 @@
-var mnemonic = "guilt dolphin always unaware violin stick box burden when eagle clay museum";
+var mnemonic = "street month stem gym issue little produce trumpet steak kiss omit explain";

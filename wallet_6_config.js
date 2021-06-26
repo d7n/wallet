@@ -1,1 +1,1 @@
-var mnemonic = "suggest basic rigid lend engine ivory peanut law final clever law cloth";
+var mnemonic = "forward chef hood fat need wing donor casual wait under harbor aerobic";

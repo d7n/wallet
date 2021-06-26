@@ -1,1 +1,1 @@
-var mnemonic = "dilemma coconut hurdle spirit clever item banana puppy island eye owner dash";
+var mnemonic = "gas kingdom mimic loud raven remove odor path giraffe siren pretty upper";

@@ -1,1 +1,1 @@
-var mnemonic = "trend promote voyage truly shop actual gold chunk size quality saddle average";
+var mnemonic = "retreat then harsh carpet mandate year elder lounge intact wire forward ugly";

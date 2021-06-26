@@ -1,1 +1,1 @@
-var mnemonic = "stereo shine advice column flat deliver rug cinnamon resource dress uncle manage";
+var mnemonic = "banana boat produce sport still safe butter limit meat calm remain interest";

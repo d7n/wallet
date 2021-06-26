@@ -1,1 +1,1 @@
-var mnemonic = "expect feature license tenant injury speak essence jar resemble pink current gadget";
+var mnemonic = "thought budget echo emerge ozone mutual mule extend nurse diesel submit smoke";

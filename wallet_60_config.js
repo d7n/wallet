@@ -1,1 +1,1 @@
-var mnemonic = "quit vehicle ring evidence spare coach produce boss genius monster hurdle youth";
+var mnemonic = "drift attack caught smart ribbon sign fault hamster sun dismiss loyal left";

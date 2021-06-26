@@ -1,1 +1,1 @@
-var mnemonic = "medal august dinner easy void what walk surge bracket index narrow okay";
+var mnemonic = "aerobic shiver able expand alter manage tape uniform breeze sibling left brass";

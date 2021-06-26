@@ -1,1 +1,1 @@
-var mnemonic = "uniform tumble axis recipe play first essay oak lazy squirrel poet trim";
+var mnemonic = "hover truck pony cash convince render torch wheat castle forget zoo derive";

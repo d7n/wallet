@@ -1,1 +1,1 @@
-var mnemonic = "tray ready monkey lock task same target silver camera broken maximum dizzy";
+var mnemonic = "entry chapter rice cupboard twin nuclear wheat bread powder usage course type";

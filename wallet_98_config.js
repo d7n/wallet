@@ -1,1 +1,1 @@
-var mnemonic = "dust explain age lady box follow voyage spot vicious pull style embrace";
+var mnemonic = "engine hurry save solid spoil avocado home glimpse upset proud flavor place";

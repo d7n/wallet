@@ -1,1 +1,1 @@
-var mnemonic = "wear language off bean parade tenant suggest oven spoil humble bomb wreck";
+var mnemonic = "hub disorder limb diesel kangaroo worth mail cushion original apart damage virus";

@@ -1,1 +1,1 @@
-var mnemonic = "choice cousin retire face upon below social velvet supreme dentist also earth";
+var mnemonic = "taste wine height laugh dream slot belt rabbit draft genuine club coffee";

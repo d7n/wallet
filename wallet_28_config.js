@@ -1,1 +1,1 @@
-var mnemonic = "shield cash track maid plunge casual shoe session topic clinic romance vast";
+var mnemonic = "cloud nice humor leaf staff assault assist innocent knock neutral invite universe";

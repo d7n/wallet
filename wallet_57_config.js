@@ -1,1 +1,1 @@
-var mnemonic = "student toast oval prison spin section pigeon column hello found observe hand";
+var mnemonic = "dignity mandate hazard shove welcome offer response nature such cook genuine universe";

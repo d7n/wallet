@@ -1,1 +1,1 @@
-var mnemonic = "want spell liar economy dolphin hint illegal stomach insane eyebrow black curtain";
+var mnemonic = "merry pair gloom edge silly cake shaft pioneer kingdom toddler range often";

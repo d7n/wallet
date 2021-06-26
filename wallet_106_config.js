@@ -1,1 +1,1 @@
-var mnemonic = "another flee nurse problem leg choose defy ride destroy step mad blast";
+var mnemonic = "critic stadium soon slice lemon easy gym welcome paper poverty you village";

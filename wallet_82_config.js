@@ -1,1 +1,1 @@
-var mnemonic = "festival fall manual gasp piece retreat guard donor grape dizzy humor online";
+var mnemonic = "bamboo glass try say across worth abstract crunch can stomach capital can";

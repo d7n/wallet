@@ -1,1 +1,1 @@
-var mnemonic = "stairs flock derive mushroom similar twist luggage angle flavor coconut trophy citizen";
+var mnemonic = "little afraid security torch ceiling garden cement frost grit what stomach wear";

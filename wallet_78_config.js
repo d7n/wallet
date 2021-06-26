@@ -1,1 +1,1 @@
-var mnemonic = "mesh symptom coconut square invite dog valley hill deliver monster nasty boy";
+var mnemonic = "trumpet shiver crater hint breeze own attack erode execute scout token tired";

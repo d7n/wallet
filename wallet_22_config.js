@@ -1,1 +1,1 @@
-var mnemonic = "want auto aisle pipe run jar inhale once lion vast iron parent";
+var mnemonic = "hazard topic noble release sugar round uniform latin barrel record mixture shallow";

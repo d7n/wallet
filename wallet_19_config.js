@@ -1,1 +1,1 @@
-var mnemonic = "convince yellow beach flight future poem attract over pear lend exact wrist";
+var mnemonic = "kitten fix primary toddler nice car expire talent busy canyon light laugh";

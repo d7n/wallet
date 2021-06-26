@@ -1,1 +1,1 @@
-var mnemonic = "focus marine empty blanket eyebrow spot sense tilt ripple siege bunker weapon";
+var mnemonic = "filter drill alter scatter solution van divide exact bleak corn slab mammal";

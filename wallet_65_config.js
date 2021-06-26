@@ -1,1 +1,1 @@
-var mnemonic = "coil spoon across mean survey ladder ignore dry flight focus movie choose";
+var mnemonic = "develop female outer lunar ritual silly tumble early unaware income radio metal";

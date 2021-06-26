@@ -1,1 +1,1 @@
-var mnemonic = "local extra frozen current forget net keep six taxi drastic shed rabbit";
+var mnemonic = "feed case air gossip disorder season about fog crime fringe dignity ugly";

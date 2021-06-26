@@ -1,1 +1,1 @@
-var mnemonic = "oyster cave cross symbol manual grace panel soda path float web lawsuit";
+var mnemonic = "neck half price orient skate hurt taxi six one choice toe daring";

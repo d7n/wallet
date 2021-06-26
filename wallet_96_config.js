@@ -1,1 +1,1 @@
-var mnemonic = "pledge praise purpose tide bacon submit tragic series next audit situate help";
+var mnemonic = "bronze pyramid noise harsh put ignore tape endless wrestle fantasy mask degree";

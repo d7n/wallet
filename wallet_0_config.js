@@ -1,1 +1,1 @@
-var mnemonic = "noble domain lab seat bonus web bind drama venture they gloom oak";
+var mnemonic = "assist expose pond cable forget cost display genius will rain hello duty";

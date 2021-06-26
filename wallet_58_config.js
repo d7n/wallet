@@ -1,1 +1,1 @@
-var mnemonic = "mom knife rally day dish labor turn collect swing write visual surprise";
+var mnemonic = "genre camera street metal indoor obey trophy emotion bulk vague six brave";

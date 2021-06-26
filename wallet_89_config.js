@@ -1,1 +1,1 @@
-var mnemonic = "fashion uncover slam midnight auction giggle jaguar hybrid ball inch scale regular";
+var mnemonic = "jealous frame summer picture inhale holiday library neutral edit click arctic comfort";

@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur aisle orange option elephant tenant lady copper mountain window minor pond";
+var mnemonic = "canvas wrap slush theme also elder turtle require child fringe comfort cancel";

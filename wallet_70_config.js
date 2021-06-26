@@ -1,1 +1,1 @@
-var mnemonic = "minor arena suggest below when property crowd essence rice behave hammer weekend";
+var mnemonic = "picnic unfold soon resist flush cheap wreck brief theory chunk pistol pistol";

@@ -1,1 +1,1 @@
-var mnemonic = "budget card treat seek afraid fame minimum page museum monkey better sun";
+var mnemonic = "action cricket move still chief renew evidence plastic basket park sample blame";

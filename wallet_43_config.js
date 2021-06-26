@@ -1,1 +1,1 @@
-var mnemonic = "loud hero cement edit fancy make fancy refuse pioneer ocean blur all";
+var mnemonic = "upset fly acoustic crater owner lawn reflect fury crucial life shield can";

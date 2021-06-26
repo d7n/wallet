@@ -1,1 +1,1 @@
-var mnemonic = "rival sight seat lizard erupt stereo december pave clean risk convince leg";
+var mnemonic = "fuel offer suffer left alien scan finish east glass script guess doll";

@@ -1,1 +1,1 @@
-var mnemonic = "goose poverty engine great ugly remind onion unit zoo pretty party daring";
+var mnemonic = "worry shove adult rose silly also road merge involve twin august direct";

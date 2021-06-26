@@ -1,1 +1,1 @@
-var mnemonic = "offer depart suffer beach easy jaguar offer hire because ramp list trial";
+var mnemonic = "shrimp kiss inquiry intact credit weapon uncle update cool security album drink";

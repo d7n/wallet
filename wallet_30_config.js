@@ -1,1 +1,1 @@
-var mnemonic = "actress ancient screen virtual small involve isolate face diet maze street ship";
+var mnemonic = "enrich control stomach ability silly design harbor hazard cabbage birth wine crouch";

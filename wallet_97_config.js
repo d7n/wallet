@@ -1,1 +1,1 @@
-var mnemonic = "tone quick floor parrot apple fold menu hockey cry lunar eagle sail";
+var mnemonic = "hungry ticket era equal bargain taste sense syrup potato silly stove diary";

@@ -1,1 +1,1 @@
-var mnemonic = "snow rubber burger spring obey choose cricket lemon defy follow outside problem";
+var mnemonic = "quarter sister jewel brick supply traffic tank wise phone impulse bamboo guide";

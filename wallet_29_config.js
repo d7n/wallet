@@ -1,1 +1,1 @@
-var mnemonic = "conduct afford hospital debate lunch scan exchange sea remain fire witness can";
+var mnemonic = "nerve hedgehog deposit cotton door digital author law victory taste garage clock";

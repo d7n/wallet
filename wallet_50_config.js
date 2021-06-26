@@ -1,1 +1,1 @@
-var mnemonic = "pave lonely axis deposit animal boss liberty armed bring december pole pause";
+var mnemonic = "drill helmet birth scrub eternal tower tank series cross column learn truck";

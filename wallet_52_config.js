@@ -1,1 +1,1 @@
-var mnemonic = "collect palm young daughter only heavy attitude tuition split airport unable indoor";
+var mnemonic = "amazing spray simple catch when exact resemble future zoo estate trouble grit";

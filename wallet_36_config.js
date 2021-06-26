@@ -1,1 +1,1 @@
-var mnemonic = "atom volcano funny lizard lounge floor material hawk crop put vessel veteran";
+var mnemonic = "odor ocean tennis fence gift bone thank screen shine mixed divert normal";

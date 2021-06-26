@@ -1,1 +1,1 @@
-var mnemonic = "confirm comfort enrich network have duck mosquito clump minute success police future";
+var mnemonic = "humor regret parent ceiling zero pole biology spare garbage neutral lunch rescue";

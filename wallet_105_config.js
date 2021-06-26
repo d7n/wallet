@@ -1,1 +1,1 @@
-var mnemonic = "hint isolate bright cactus public sick emotion hybrid know green evoke busy";
+var mnemonic = "spoon major stick bone little love index famous adult release slogan exclude";
