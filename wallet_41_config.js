@@ -1,1 +1,1 @@
-var mnemonic = "load spatial liquid bone awake process pilot tissue sauce rapid tail tower";
+var mnemonic = "inch winner feature fiber agent jealous chef jazz twist cigar loan click";

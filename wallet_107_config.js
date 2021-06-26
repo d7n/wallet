@@ -1,1 +1,1 @@
-var mnemonic = "core lyrics bird dad barrel adult again stay item around sibling rifle";
+var mnemonic = "already awesome expire once sketch lawsuit master acid menu hockey outer name";

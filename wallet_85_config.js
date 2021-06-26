@@ -1,1 +1,1 @@
-var mnemonic = "smart want similar major athlete access nephew december cream lamp swamp matter";
+var mnemonic = "expose wrestle warm rice trumpet hip grain expand doll plastic super food";

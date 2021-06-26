@@ -1,1 +1,1 @@
-var mnemonic = "island pigeon canyon admit release wide helmet again gown horn acid industry";
+var mnemonic = "manual puzzle gaze smart note light trim feel wheat want pink torch";

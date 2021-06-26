@@ -1,1 +1,1 @@
-var mnemonic = "shift brother country amount oxygen try submit party crunch since shaft elder";
+var mnemonic = "between can reform cushion undo exit cricket attract east fossil improve endorse";

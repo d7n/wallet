@@ -1,1 +1,1 @@
-var mnemonic = "start spot stem payment review mean extend recycle shock tip exhaust box";
+var mnemonic = "tent victory pact plunge ceiling extra quantum deer quit fatal raven tree";

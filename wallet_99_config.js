@@ -1,1 +1,1 @@
-var mnemonic = "artwork curtain crunch direct pledge test talent sniff hour prize poem blouse";
+var mnemonic = "pottery spread giant arena winner craft shy hospital local inmate until bachelor";

@@ -1,1 +1,1 @@
-var mnemonic = "used family when erode crunch juice know course matrix orbit nephew slim";
+var mnemonic = "charge salt regret bind cigar theory icon walnut dad police correct devote";

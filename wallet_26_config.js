@@ -1,1 +1,1 @@
-var mnemonic = "together obey canal swim mother affair tool lyrics wall amount multiply gift";
+var mnemonic = "tiny word vocal mammal modify wire size olive arm lonely hood accuse";

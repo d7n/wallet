@@ -1,1 +1,1 @@
-var mnemonic = "afraid clever regular involve neglect assist glare crowd yellow symptom spot polar";
+var mnemonic = "desk resource antique cave heart nurse sort school worry blame daughter appear";

@@ -1,1 +1,1 @@
-var mnemonic = "lab symbol small liberty age orient robust morning vapor glimpse elbow frequent";
+var mnemonic = "scheme possible only clean anchor illegal decorate drill box fit relief siren";

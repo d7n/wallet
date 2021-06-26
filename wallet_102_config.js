@@ -1,1 +1,1 @@
-var mnemonic = "fall napkin draw safe inch magic decorate deposit surge news side shrug";
+var mnemonic = "can bring pupil sign sample rival fee suspect cabin wheel honey sell";

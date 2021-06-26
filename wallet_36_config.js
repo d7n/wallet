@@ -1,1 +1,1 @@
-var mnemonic = "scissors miss sure ramp fortune pluck subject sniff resource law first pear";
+var mnemonic = "supply view bulb deputy primary range ticket notice caution pet mad iron";

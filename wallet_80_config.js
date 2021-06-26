@@ -1,1 +1,1 @@
-var mnemonic = "swift pistol merry office jungle stock dizzy hope jaguar giant fancy liquid";
+var mnemonic = "style napkin crucial steel paper review remember clerk vocal cute walk hour";

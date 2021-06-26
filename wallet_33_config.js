@@ -1,1 +1,1 @@
-var mnemonic = "purse neck lizard diesel amateur disagree great mind match motion obey artwork";
+var mnemonic = "oppose salute tragic poverty provide height wide soda wall deposit raise wine";

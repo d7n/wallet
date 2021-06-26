@@ -1,1 +1,1 @@
-var mnemonic = "alarm leopard muscle barely habit label argue rally badge defense jaguar sense";
+var mnemonic = "oak case certain six ice other scatter crucial vivid iron atom unfair";

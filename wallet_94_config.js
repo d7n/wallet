@@ -1,1 +1,1 @@
-var mnemonic = "service gloom multiply divide alley pass satisfy story crane dynamic glimpse nominee";
+var mnemonic = "source venture upgrade payment pact cake produce flight endorse crew weapon oppose";

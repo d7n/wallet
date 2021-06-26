@@ -1,1 +1,1 @@
-var mnemonic = "trial garment view luggage abandon load hire glow organ august rain muscle";
+var mnemonic = "spend crack auction scissors decorate science steak any glimpse cactus lucky friend";

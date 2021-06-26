@@ -1,1 +1,1 @@
-var mnemonic = "essence gauge rack genius cluster shoulder burst time achieve art clever security";
+var mnemonic = "inspire romance concert barely type kidney stadium neck shy east kangaroo use";

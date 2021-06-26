@@ -1,1 +1,1 @@
-var mnemonic = "bronze resource chapter earn vehicle ritual stamp guitar change tenant cement reopen";
+var mnemonic = "pipe crime ring spatial release venture outside yard demise journey mirror road";

@@ -1,1 +1,1 @@
-var mnemonic = "inspire custom genre nose skill birth east rescue panel sign enter meadow";
+var mnemonic = "slot jeans copper penalty soccer timber member song supreme link pledge deputy";

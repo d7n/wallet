@@ -1,1 +1,1 @@
-var mnemonic = "neutral swift tumble legend afraid apology upset situate keep oppose beach advance";
+var mnemonic = "remove old hamster affair large ten involve fever fiber strategy enough toilet";

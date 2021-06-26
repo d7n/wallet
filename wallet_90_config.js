@@ -1,1 +1,1 @@
-var mnemonic = "fetch viable tube charge vacuum sudden shallow town connect fence panda private";
+var mnemonic = "other cost weasel absurd infant bar three expect hurt unfold buzz final";

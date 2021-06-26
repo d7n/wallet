@@ -1,1 +1,1 @@
-var mnemonic = "west velvet cupboard concert opinion result village salad peanut tiny business soda";
+var mnemonic = "run heavy copper ostrich section tribe book bag unveil prize goddess behind";

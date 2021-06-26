@@ -1,1 +1,1 @@
-var mnemonic = "analyst upon magic piece object myth build network blame goddess face fashion";
+var mnemonic = "behind couple peasant hour problem gaze earn fish focus zero coin nest";

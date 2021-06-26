@@ -1,1 +1,1 @@
-var mnemonic = "theory bench donor license crater trick vacant replace solve flee canyon ribbon";
+var mnemonic = "nuclear permit uniform sponsor family stairs medal soap reform lazy elder arrange";

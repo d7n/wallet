@@ -1,1 +1,1 @@
-var mnemonic = "message romance speak kiwi unusual artist novel another private rabbit evidence satisfy";
+var mnemonic = "submit fiction imitate spend custom motion wrong agree tired organ boy illegal";

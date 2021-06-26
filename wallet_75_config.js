@@ -1,1 +1,1 @@
-var mnemonic = "arrest marriage speed giggle pill act obvious mystery lawn maple canoe art";
+var mnemonic = "poem spider sphere runway off all ethics talk swear business tribe scare";

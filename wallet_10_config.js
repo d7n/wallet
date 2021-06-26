@@ -1,1 +1,1 @@
-var mnemonic = "diary mule ring couple valve pencil crime tragic rule among track must";
+var mnemonic = "liar today disorder oyster supreme oak risk ski truck dune pipe convince";

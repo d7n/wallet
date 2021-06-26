@@ -1,1 +1,1 @@
-var mnemonic = "bid simple chunk miss vapor pulp suggest wash armed dune leisure upon";
+var mnemonic = "raven else spring want news system second twist stem various claim aware";

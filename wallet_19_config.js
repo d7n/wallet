@@ -1,1 +1,1 @@
-var mnemonic = "deposit flight polar edit negative globe range coach verify claw rotate frost";
+var mnemonic = "require service setup peanut garlic remind host defense story window cricket witness";

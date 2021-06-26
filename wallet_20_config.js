@@ -1,1 +1,1 @@
-var mnemonic = "crunch general victory wagon silver where common knock toddler quantum end egg";
+var mnemonic = "walk tissue pet derive achieve sun soda slogan purse wisdom female video";

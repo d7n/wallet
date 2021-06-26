@@ -1,1 +1,1 @@
-var mnemonic = "argue clock problem daughter rare dice farm diesel crunch grant stairs pole";
+var mnemonic = "soap profit trick plug mirror lawn click ivory bounce session labor daring";

@@ -1,1 +1,1 @@
-var mnemonic = "remove car setup vehicle brass foam flight casual frequent seat enjoy outdoor";
+var mnemonic = "position couch abstract attack obvious crime carpet ignore deal room person success";

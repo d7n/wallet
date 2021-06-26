@@ -1,1 +1,1 @@
-var mnemonic = "very arctic enact dish debate grid mother parrot stereo expire moon item";
+var mnemonic = "decorate suggest direct champion mosquito fruit until scale whip twelve gasp repeat";

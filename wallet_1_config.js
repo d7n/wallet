@@ -1,1 +1,1 @@
-var mnemonic = "video rhythm opinion horror dismiss office bonus arrow theory unaware random ball";
+var mnemonic = "volcano intact ill robust inform gather cool because hazard attack mesh jazz";

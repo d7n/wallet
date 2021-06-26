@@ -1,1 +1,1 @@
-var mnemonic = "direct holiday off valid actor income pluck panther ghost solar utility mule";
+var mnemonic = "hollow void under vanish bicycle famous judge amount finger finger buffalo badge";

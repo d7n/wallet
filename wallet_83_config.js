@@ -1,1 +1,1 @@
-var mnemonic = "law casino post gravity amount sphere thrive endorse material ridge below broom";
+var mnemonic = "shed curve kiwi bench manual canvas apart olive sight flip chronic weather";

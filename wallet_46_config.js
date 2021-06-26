@@ -1,1 +1,1 @@
-var mnemonic = "weasel mango grass satisfy voice whip medal clip dynamic galaxy bid faith";
+var mnemonic = "someone flock mail gadget force violin pizza guilt regret nuclear stairs mango";

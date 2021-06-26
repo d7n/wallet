@@ -1,1 +1,1 @@
-var mnemonic = "meadow arrange display churn idle train addict post salute celery replace dirt";
+var mnemonic = "govern drama lamp borrow very whip giraffe jazz increase edit march cereal";

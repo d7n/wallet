@@ -1,1 +1,1 @@
-var mnemonic = "manual grain animal capital other blast tribe enjoy truth close fantasy result";
+var mnemonic = "fly panther phrase omit nose load south fish pitch put occur mobile";

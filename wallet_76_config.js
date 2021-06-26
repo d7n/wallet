@@ -1,1 +1,1 @@
-var mnemonic = "trim sun worth turkey conduct judge much behind among glow foam jungle";
+var mnemonic = "indoor loan settle subject boss caught second input valley curious language clump";

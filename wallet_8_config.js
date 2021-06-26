@@ -1,1 +1,1 @@
-var mnemonic = "rebuild noodle veteran swamp swift large rib flower three cement extra magic";
+var mnemonic = "language east off feed gallery siege rural banner cause enjoy online bundle";

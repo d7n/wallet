@@ -1,1 +1,1 @@
-var mnemonic = "spend atom addict key orange notice wrist extra pupil toddler sadness pelican";
+var mnemonic = "bless divide meadow dinner border bless guilt what slow morning story unfair";

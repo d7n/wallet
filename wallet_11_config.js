@@ -1,1 +1,1 @@
-var mnemonic = "receive vital market decline tattoo distance strike feature brief remember never spoil";
+var mnemonic = "auction tube whip animal width autumn board swim extra lounge moral palace";

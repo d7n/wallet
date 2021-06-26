@@ -1,1 +1,1 @@
-var mnemonic = "scale mesh antenna tobacco toast north media smart metal credit fee slide";
+var mnemonic = "submit connect before swear lunar sense retire used subject crew whip report";

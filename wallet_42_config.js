@@ -1,1 +1,1 @@
-var mnemonic = "cannon home wing cram ski giant seat day eager frequent hire horror";
+var mnemonic = "method scale saddle ankle finish essay bag token spring tunnel muffin exile";

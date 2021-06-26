@@ -1,1 +1,1 @@
-var mnemonic = "vacuum able giggle alcohol student island auto kingdom crash afraid huge plate";
+var mnemonic = "good frost survey inform identify what method mountain birth upset capable neutral";

@@ -1,1 +1,1 @@
-var mnemonic = "art crumble winter fence behind spy pole script ocean lounge involve pizza";
+var mnemonic = "spider close head bean catch paddle wait era upgrade chapter silver soap";

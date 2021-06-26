@@ -1,1 +1,1 @@
-var mnemonic = "cable tower sock frequent digital north chicken what narrow member hawk express";
+var mnemonic = "crack shift alcohol audit bunker shoulder voice ocean dose garden firm march";

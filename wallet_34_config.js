@@ -1,1 +1,1 @@
-var mnemonic = "fee hockey load beach buffalo grief argue oval luxury waste dumb quit";
+var mnemonic = "must fan ordinary wise modify wave trouble enjoy obey lens mixed danger";

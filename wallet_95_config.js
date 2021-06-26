@@ -1,1 +1,1 @@
-var mnemonic = "ready arctic again ginger general broom panic aerobic avocado news phrase rack";
+var mnemonic = "there raccoon over develop zebra lady match estate sand betray upon settle";

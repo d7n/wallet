@@ -1,1 +1,1 @@
-var mnemonic = "afraid shiver case bounce grocery harvest much dismiss very cheese rice slogan";
+var mnemonic = "upgrade lyrics snow nuclear motion throw harbor sound adult harbor robot oak";

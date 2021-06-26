@@ -1,1 +1,1 @@
-var mnemonic = "never hospital endless warrior mention point barely female buddy salad weekend steak";
+var mnemonic = "travel idle brick phrase dish tattoo mask happy renew coyote faith legend";

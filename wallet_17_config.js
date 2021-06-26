@@ -1,1 +1,1 @@
-var mnemonic = "daring rose fall ancient immune panel dentist crew monkey huge jealous shock";
+var mnemonic = "wing admit flower share ten edge fury deal public proud ivory army";

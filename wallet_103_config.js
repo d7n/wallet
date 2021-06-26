@@ -1,1 +1,1 @@
-var mnemonic = "mobile unknown sister lake auction plug tank kite edge neglect tent coin";
+var mnemonic = "mother soda empty problem endorse because have tomorrow kind casual bamboo bicycle";

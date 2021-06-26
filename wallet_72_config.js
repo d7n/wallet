@@ -1,1 +1,1 @@
-var mnemonic = "odor toward hint narrow salad dynamic blue jewel lazy daughter outside normal";
+var mnemonic = "indicate labor piano truly cute exercise ankle wedding spare post ship doctor";

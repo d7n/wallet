@@ -1,1 +1,1 @@
-var mnemonic = "predict bread mimic kiwi ahead allow sustain fury robot shrimp whale later";
+var mnemonic = "spatial wheat scout cram crush chalk impose flight emotion spray unaware transfer";

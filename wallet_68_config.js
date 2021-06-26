@@ -1,1 +1,1 @@
-var mnemonic = "kick strong range grace session cart salute inherit suggest primary position rich";
+var mnemonic = "behind garbage govern glance cinnamon tree cousin bike road lonely sustain broken";

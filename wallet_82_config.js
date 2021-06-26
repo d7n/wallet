@@ -1,1 +1,1 @@
-var mnemonic = "dust diesel clap food noble echo fix treat athlete lift chunk decline";
+var mnemonic = "fold involve dance crazy sport garage aisle sign echo gasp rapid regret";

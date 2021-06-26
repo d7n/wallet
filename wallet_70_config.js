@@ -1,1 +1,1 @@
-var mnemonic = "oven proud mixture good stone script scan know immense tomato tunnel glue";
+var mnemonic = "canal cattle wage used lunch crumble ski veteran use allow elbow social";

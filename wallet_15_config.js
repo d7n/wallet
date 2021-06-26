@@ -1,1 +1,1 @@
-var mnemonic = "excess thank glove hire prevent movie behind believe crazy orphan urge ghost";
+var mnemonic = "donkey stand limb lady reduce pen web faith fork devote junior puzzle";

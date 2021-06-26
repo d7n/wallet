@@ -1,1 +1,1 @@
-var mnemonic = "depend cloth winner spirit picture broccoli cross legend unaware gorilla escape behind";
+var mnemonic = "regular shed train jaguar grunt earn pizza patch link benefit advice venture";

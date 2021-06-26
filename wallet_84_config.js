@@ -1,1 +1,1 @@
-var mnemonic = "immense trim electric depend pluck lemon rail man acoustic merit meat patch";
+var mnemonic = "chunk neutral chicken enact olive mountain trouble employ zoo virus organ enact";

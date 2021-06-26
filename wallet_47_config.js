@@ -1,1 +1,1 @@
-var mnemonic = "arch photo napkin album artist orient bamboo shaft blue that city employ";
+var mnemonic = "simple lobster corn wish tissue please acoustic dinner muscle edge sleep apple";

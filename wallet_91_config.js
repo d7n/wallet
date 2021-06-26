@@ -1,1 +1,1 @@
-var mnemonic = "paddle faith decide gift math bread present hill master type chief relax";
+var mnemonic = "syrup question demise certain alarm detail insane multiply sight chicken cause buddy";

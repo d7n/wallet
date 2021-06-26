@@ -1,1 +1,1 @@
-var mnemonic = "gap concert entire wealth pool give exact car guilt caught garment ice";
+var mnemonic = "rose obey emotion wool water heavy machine attend thumb defense domain stock";

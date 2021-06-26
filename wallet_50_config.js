@@ -1,1 +1,1 @@
-var mnemonic = "menu gold laptop oven north summer wall tonight congress rookie target shuffle";
+var mnemonic = "kangaroo voice code load bread lecture size runway board fly banana hidden";

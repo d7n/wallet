@@ -1,1 +1,1 @@
-var mnemonic = "position typical jewel human cheap engine access daring luxury loop devote audit";
+var mnemonic = "chunk cactus garage rice differ frown wild champion enable heavy iron return";

@@ -1,1 +1,1 @@
-var mnemonic = "update announce crack just silly obvious meat behave matter denial volcano wrestle";
+var mnemonic = "fun uphold craft surprise indicate wealth awful frequent bread win vivid bacon";

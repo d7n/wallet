@@ -1,1 +1,1 @@
-var mnemonic = "brick trigger sting burst post glimpse razor reason canyon two actress hand";
+var mnemonic = "poet purpose robust control essence oven season run shell attract safe limb";

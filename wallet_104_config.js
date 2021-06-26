@@ -1,1 +1,1 @@
-var mnemonic = "common clump candy grace window method daring wolf final echo type income";
+var mnemonic = "dose visa lift north index opinion utility curve tumble essay canoe prize";

@@ -1,1 +1,1 @@
-var mnemonic = "chef shy life stock session prepare relax lawn search waste plunge race";
+var mnemonic = "nut nut story civil century curve pigeon mutual hard finger dynamic milk";

@@ -1,1 +1,1 @@
-var mnemonic = "grunt race response super idle blur shine cheese tragic never axis turkey";
+var mnemonic = "stock session machine two episode force honey similar weird moral social upon";

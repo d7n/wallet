@@ -1,1 +1,1 @@
-var mnemonic = "poverty atom tumble purity proud kit asthma endorse pave warfare ecology diesel";
+var mnemonic = "frog enforce cycle stay else erupt chunk aisle leave purchase cash limit";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk borrow price protect frozen tool body clean satoshi close work jewel";
+var mnemonic = "sugar famous never require rubber blood wish steel gadget island electric later";

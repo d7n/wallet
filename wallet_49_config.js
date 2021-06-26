@@ -1,1 +1,1 @@
-var mnemonic = "begin drastic priority canal unique message stumble beyond dizzy ivory gorilla robot";
+var mnemonic = "year season cabbage faculty aunt diamond alpha rather novel memory waste ready";

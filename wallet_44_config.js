@@ -1,1 +1,1 @@
-var mnemonic = "siege make forum today degree foam shop kid idea almost dynamic another";
+var mnemonic = "salt asset tooth gloom swamp volcano orbit tourist off promote help slender";

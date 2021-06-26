@@ -1,1 +1,1 @@
-var mnemonic = "tortoise kit hedgehog dirt fiction certain fish trouble donor add super section";
+var mnemonic = "tomorrow grow public noise peanut faint join coconut saddle work draw tattoo";

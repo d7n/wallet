@@ -1,1 +1,1 @@
-var mnemonic = "grow reason develop write latin lawn unknown powder update visa bag uphold";
+var mnemonic = "speak rely pioneer nation vehicle mechanic token craft crime skill group armed";

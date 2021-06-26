@@ -1,1 +1,1 @@
-var mnemonic = "flock very harbor token daring under spread rhythm hurt illegal gospel drastic";
+var mnemonic = "creek split dirt quiz spread curve stick room identify dignity blur kidney";

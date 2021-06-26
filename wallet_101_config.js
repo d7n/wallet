@@ -1,1 +1,1 @@
-var mnemonic = "aisle vessel helmet run stereo seed phrase reward enrich jazz useless art";
+var mnemonic = "plastic wave fashion month rural come inner miss cave move vote nut";

@@ -1,1 +1,1 @@
-var mnemonic = "awful bitter three ribbon inform omit lock embrace visa horse slab finger";
+var mnemonic = "match wrist deny chaos trust quantum estate essay situate ghost inject say";

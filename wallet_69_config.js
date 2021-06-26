@@ -1,1 +1,1 @@
-var mnemonic = "fruit kitchen skirt then metal energy effort dinner ghost talk craft moment";
+var mnemonic = "bitter erosion clay diagram inner clarify nephew fuel razor best thumb dawn";

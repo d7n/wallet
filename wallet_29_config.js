@@ -1,1 +1,1 @@
-var mnemonic = "book library insect champion galaxy rubber evoke until radio orient time rifle";
+var mnemonic = "trust dawn net age random output credit hobby wall chuckle nose lake";

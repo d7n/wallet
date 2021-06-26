@@ -1,1 +1,1 @@
-var mnemonic = "analyst mass divide cliff cruise under odor ostrich village hybrid mouse hill";
+var mnemonic = "wire gate ghost jaguar spell panel express copy cinnamon age siege flash";

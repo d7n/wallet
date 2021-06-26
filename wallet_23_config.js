@@ -1,1 +1,1 @@
-var mnemonic = "argue better when firm repeat rare model pattern occur blind boss goose";
+var mnemonic = "alone surround venue merge horror innocent nephew tongue lift broom execute myself";

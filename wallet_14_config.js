@@ -1,1 +1,1 @@
-var mnemonic = "culture pudding solve myself monitor double loud issue scissors admit antique eye";
+var mnemonic = "crowd patrol produce copy dirt guess clown valley tiny front silent south";

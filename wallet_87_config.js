@@ -1,1 +1,1 @@
-var mnemonic = "empty grass better either essence control tube move razor awkward club side";
+var mnemonic = "case style harbor stumble juice sunset jealous kitten width price shove artist";

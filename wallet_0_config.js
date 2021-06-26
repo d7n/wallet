@@ -1,1 +1,1 @@
-var mnemonic = "nice tourist muffin exercise burst card setup minimum inform alter wreck issue";
+var mnemonic = "coach august reward dolphin raise label busy okay two east path globe";
