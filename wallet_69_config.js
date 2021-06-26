@@ -1,1 +1,1 @@
-var mnemonic = "essay gown burger cotton photo defy wire alarm furnace august license taxi";
+var mnemonic = "math neutral fitness sustain human benefit salon cat juice nominee enforce arena";

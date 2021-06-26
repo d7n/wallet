@@ -1,1 +1,1 @@
-var mnemonic = "empower bean ankle leaf please donor silly marriage coast wish update about";
+var mnemonic = "summer addict aunt face dish pink brisk buzz ten shy fence sail";

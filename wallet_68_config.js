@@ -1,1 +1,1 @@
-var mnemonic = "warrior leave scene save length shallow effort poverty adult name amount shield";
+var mnemonic = "note agent neutral bunker hill caution broccoli reject logic alter mix derive";

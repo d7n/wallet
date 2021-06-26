@@ -1,1 +1,1 @@
-var mnemonic = "crunch level between open credit tooth fuel attack action gym execute paddle";
+var mnemonic = "creek car cattle abuse scrap hockey timber discover zoo blossom beyond roast";

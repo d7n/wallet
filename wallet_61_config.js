@@ -1,1 +1,1 @@
-var mnemonic = "brass simple burger thunder diary electric raccoon love bus combine typical obvious";
+var mnemonic = "suspect hub doctor junior check human maximum define vacant track invest swing";

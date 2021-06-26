@@ -1,1 +1,1 @@
-var mnemonic = "latin friend talent material grief supreme weapon jazz stamp future inch giggle";
+var mnemonic = "addict minute razor icon adult box review peanut gain lens gold dial";

@@ -1,1 +1,1 @@
-var mnemonic = "recipe siren arrow enemy whisper stem maximum elegant edge rookie limit furnace";
+var mnemonic = "level reflect motor happy else cover vessel venture advance panic three misery";

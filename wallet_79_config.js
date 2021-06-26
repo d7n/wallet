@@ -1,1 +1,1 @@
-var mnemonic = "document address reject forward toe season frozen depend toilet upset industry horror";
+var mnemonic = "confirm enhance ancient myth empty woman nerve want tuition dice vicious treat";

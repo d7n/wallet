@@ -1,1 +1,1 @@
-var mnemonic = "change naive actor market color ginger defense anger image burst energy zero";
+var mnemonic = "target mesh crew kid scorpion call turtle comfort rice turtle wear casual";

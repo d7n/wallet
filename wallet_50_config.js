@@ -1,1 +1,1 @@
-var mnemonic = "execute surface bus grain square code pair drop fetch interest gauge meat";
+var mnemonic = "armed limb wheat athlete type drum never modify suspect defy atom wage";

@@ -1,1 +1,1 @@
-var mnemonic = "margin hobby cabin insect trigger roof gospel surge bright mad vital deer";
+var mnemonic = "online rack jealous before vocal filter vivid learn three make aware room";

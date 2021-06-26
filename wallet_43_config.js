@@ -1,1 +1,1 @@
-var mnemonic = "decrease result reform course say powder holiday person toward waste innocent aisle";
+var mnemonic = "vapor sauce ordinary modify squeeze cart tuition quick glide example sibling imitate";

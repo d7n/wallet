@@ -1,1 +1,1 @@
-var mnemonic = "pond glad moment disorder picnic bus acquire ladder north share exhaust lounge";
+var mnemonic = "forward stereo supply rate share save dial price glory police boil bright";

@@ -1,1 +1,1 @@
-var mnemonic = "render razor ancient twelve skin trend sniff humble debate extra zoo ecology";
+var mnemonic = "zone believe blossom also eight special ketchup often today now poet virus";

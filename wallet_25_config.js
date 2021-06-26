@@ -1,1 +1,1 @@
-var mnemonic = "various snake always skate vote aware humble poet property unveil magnet battle";
+var mnemonic = "spin good topple almost either spot advance awful social address marine service";

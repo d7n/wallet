@@ -1,1 +1,1 @@
-var mnemonic = "elevator february forum online tiger scout fortune path toy all brave pave";
+var mnemonic = "curve script raven enough anchor apology token clip twist half boss inflict";

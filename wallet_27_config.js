@@ -1,1 +1,1 @@
-var mnemonic = "miracle drive cricket travel moon guide foil visit pole motor journey online";
+var mnemonic = "fuel liquid cement caution tragic foam thank violin badge path subject under";

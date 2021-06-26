@@ -1,1 +1,1 @@
-var mnemonic = "stairs crawl unhappy ozone time armed admit enable olive account alert method";
+var mnemonic = "material skin loop task cake spell public swamp bargain empty below soldier";

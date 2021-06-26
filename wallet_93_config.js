@@ -1,1 +1,1 @@
-var mnemonic = "situate negative future model this snow sea neck great typical strike phrase";
+var mnemonic = "picnic embark smooth expire captain note boost october green neutral panther whip";

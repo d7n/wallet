@@ -1,1 +1,1 @@
-var mnemonic = "proud cloud layer planet youth quick force govern cage open depart volcano";
+var mnemonic = "hat habit decorate direct volume across alone gloom price senior decade wool";

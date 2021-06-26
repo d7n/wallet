@@ -1,1 +1,1 @@
-var mnemonic = "innocent imitate hockey evolve rubber grass three license inherit vessel square ramp";
+var mnemonic = "minute pelican learn rate story burst mixture brief venture inquiry lake inch";

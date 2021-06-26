@@ -1,1 +1,1 @@
-var mnemonic = "predict actual position gain hire tiger shrug input innocent grief smart twist";
+var mnemonic = "marble warfare inside embody thing wire wait broccoli rigid ring usage roast";

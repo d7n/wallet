@@ -1,1 +1,1 @@
-var mnemonic = "chef hat swarm drive angry hungry key jazz comfort park kiwi tilt";
+var mnemonic = "raw maximum demand hen volume ginger together theory drip bar metal clever";

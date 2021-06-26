@@ -1,1 +1,1 @@
-var mnemonic = "canvas oblige umbrella metal frame income sausage oppose giraffe essay excuse situate";
+var mnemonic = "spider spatial sister cycle sail cable census crumble ripple nasty move bench";

@@ -1,1 +1,1 @@
-var mnemonic = "put alien left bench couch leopard robot feature globe script spy depth";
+var mnemonic = "umbrella upon endorse face rural forward trigger seat ethics peanut auto topic";

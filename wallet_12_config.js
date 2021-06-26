@@ -1,1 +1,1 @@
-var mnemonic = "execute neck screen hundred clinic fiber desert opinion axis habit green embrace";
+var mnemonic = "stable science fruit bacon inner surface trumpet radar science thumb vacuum oak";

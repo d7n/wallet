@@ -1,1 +1,1 @@
-var mnemonic = "husband focus stable inject music army manual shove grid wing case install";
+var mnemonic = "various near roof rack argue long hover quality kitchen eager horn birth";

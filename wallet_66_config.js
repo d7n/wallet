@@ -1,1 +1,1 @@
-var mnemonic = "end better among innocent detect scene still cement pepper drink endless subway";
+var mnemonic = "danger stereo bacon badge sphere simple clarify combine minute federal illness eye";

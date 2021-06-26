@@ -1,1 +1,1 @@
-var mnemonic = "elder hollow grief great slice finish tank evil team process beauty suffer";
+var mnemonic = "help three evil remind slim elbow suspect usage asthma gap cross puppy";

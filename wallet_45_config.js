@@ -1,1 +1,1 @@
-var mnemonic = "know cheap client blanket century endorse nose wrist bag aerobic globe joy";
+var mnemonic = "phone bonus off pistol rate act write rough segment snow material credit";

@@ -1,1 +1,1 @@
-var mnemonic = "draw car shoot heavy payment chest total mail owner tuna winner throw";
+var mnemonic = "awful replace join slab deer depend trend essence junk over simple humble";

@@ -1,1 +1,1 @@
-var mnemonic = "mango stage still first student believe toe license viable average glance tag";
+var mnemonic = "practice ketchup benefit sing mention sign garbage party captain smoke material forward";

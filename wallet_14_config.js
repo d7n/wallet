@@ -1,1 +1,1 @@
-var mnemonic = "cactus improve arrive million happy swarm fabric super used fall flavor lyrics";
+var mnemonic = "false biology slim install dutch chef squeeze logic round dentist truth skate";

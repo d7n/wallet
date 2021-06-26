@@ -1,1 +1,1 @@
-var mnemonic = "near leave grid reveal onion denial middle steak axis course thunder dilemma";
+var mnemonic = "main hedgehog party man sausage escape bless armed cabin among lemon quote";

@@ -1,1 +1,1 @@
-var mnemonic = "pipe tiger alpha render wait special doll argue recipe iron turtle various";
+var mnemonic = "grit mimic doctor capable huge sand rebuild meadow tool approve return space";

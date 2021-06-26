@@ -1,1 +1,1 @@
-var mnemonic = "page pride success vast poet sick color desk label burst oak virus";
+var mnemonic = "violin argue climb law carpet resource few aspect amateur pitch ozone swarm";

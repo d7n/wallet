@@ -1,1 +1,1 @@
-var mnemonic = "swift video sound owner north crisp blast warfare guide melody problem grunt";
+var mnemonic = "flip trip favorite volcano split penalty damp penalty kitten radio pride make";

@@ -1,1 +1,1 @@
-var mnemonic = "hobby radio much goddess abuse great blur similar fix any close magic";
+var mnemonic = "stand ordinary gaze shed patch friend please drip kangaroo token wear reason";

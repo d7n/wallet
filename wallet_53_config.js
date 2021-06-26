@@ -1,1 +1,1 @@
-var mnemonic = "pride company churn cheese traffic comfort situate toilet coffee proof amount choose";
+var mnemonic = "false dance test sketch lady reveal knee giraffe thank peace infant door";

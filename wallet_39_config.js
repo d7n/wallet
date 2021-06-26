@@ -1,1 +1,1 @@
-var mnemonic = "debris unknown second club course village pen enlist shuffle sponsor connect burst";
+var mnemonic = "order lock fetch fee profit hour faculty champion dumb twist mirror crime";

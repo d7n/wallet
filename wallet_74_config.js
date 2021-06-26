@@ -1,1 +1,1 @@
-var mnemonic = "direct puppy home danger razor monitor olympic engage ghost easy health language";
+var mnemonic = "spot father panther dentist zoo genuine breeze still sing play there tank";

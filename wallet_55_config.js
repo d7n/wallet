@@ -1,1 +1,1 @@
-var mnemonic = "hunt kiwi exhibit exile pair pond punch hood april coil evolve hole";
+var mnemonic = "kitten old brain grain zone total above crawl upset patient silver satisfy";

@@ -1,1 +1,1 @@
-var mnemonic = "silver slight panel such rail receive feed nest nice dune brother economy";
+var mnemonic = "view field series jealous stadium silent simple gold parent alien between hat";

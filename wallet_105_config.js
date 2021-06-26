@@ -1,1 +1,1 @@
-var mnemonic = "cabbage wave limit pole obtain wine tonight already demand early connect surround";
+var mnemonic = "desk network alcohol useless jaguar street claim chimney resist clutch file rude";

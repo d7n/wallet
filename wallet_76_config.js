@@ -1,1 +1,1 @@
-var mnemonic = "fluid erosion balcony ball exotic media pluck road math olympic type awkward";
+var mnemonic = "inject fatigue valid detail breeze cake acoustic zero tell convince typical thunder";

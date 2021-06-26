@@ -1,1 +1,1 @@
-var mnemonic = "issue apart target youth quantum slot eight fat avoid main degree mixture";
+var mnemonic = "grab attend rapid cabbage drift brother someone inflict dismiss daughter elephant kid";

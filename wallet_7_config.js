@@ -1,1 +1,1 @@
-var mnemonic = "husband length aspect gloom topic shaft tree public fit camera feed change";
+var mnemonic = "pear drip bamboo twice book bounce kit across kidney cancel between flee";

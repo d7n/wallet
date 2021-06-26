@@ -1,1 +1,1 @@
-var mnemonic = "echo spirit unhappy virus boat yard mimic once prize enlist board casino";
+var mnemonic = "air expire chronic dirt fortune lunar album game genius symptom jungle rescue";

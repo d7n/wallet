@@ -1,1 +1,1 @@
-var mnemonic = "upset corn unfair dinner mechanic erupt renew print hurt liberty jeans place";
+var mnemonic = "pair spike cage fever solve choose heart fashion lamp script slim call";

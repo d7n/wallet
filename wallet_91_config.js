@@ -1,1 +1,1 @@
-var mnemonic = "current claw often harbor lemon sister pulp planet laptop blast pumpkin brown";
+var mnemonic = "picnic basic hip scale sadness soda hole insane child actor blush salad";

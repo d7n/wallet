@@ -1,1 +1,1 @@
-var mnemonic = "record baby alien parent element cabbage crumble coast essence acoustic recall garment";
+var mnemonic = "web metal rich husband chief tiny spot nuclear life siren ahead radio";

@@ -1,1 +1,1 @@
-var mnemonic = "cannon pyramid napkin claim velvet core cancel hour atom jacket nature clog";
+var mnemonic = "ask butter exhaust token awkward sad donkey lake attract private motion seven";

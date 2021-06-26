@@ -1,1 +1,1 @@
-var mnemonic = "medal scan come spoil word syrup corn erupt borrow derive hover fold";
+var mnemonic = "syrup before toward around cute pelican beach congress wet claim amount guard";

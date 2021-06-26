@@ -1,1 +1,1 @@
-var mnemonic = "sing olive size word cycle boat online fire dress aerobic leaf gate";
+var mnemonic = "wool spawn refuse practice attract idle mansion clown ethics crystal sniff dizzy";

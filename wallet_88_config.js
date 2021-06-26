@@ -1,1 +1,1 @@
-var mnemonic = "horse harsh now whisper host organ basic concert reason bulk bitter air";
+var mnemonic = "weekend level retire guilt spice angle child twice cricket pig report dismiss";

@@ -1,1 +1,1 @@
-var mnemonic = "garage waste zone panel gesture long match divide add sell wasp roast";
+var mnemonic = "panda talent question face skate common fold casino tag notice market weather";

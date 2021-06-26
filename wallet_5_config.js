@@ -1,1 +1,1 @@
-var mnemonic = "install odor nephew humor evil broken nest dirt knee royal process inhale";
+var mnemonic = "novel renew memory jeans gauge pistol speak emotion cat daughter actress wasp";

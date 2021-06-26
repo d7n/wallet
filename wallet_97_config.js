@@ -1,1 +1,1 @@
-var mnemonic = "bid doctor nuclear gesture regret crisp lens primary replace great chicken vibrant";
+var mnemonic = "ecology shield move entry also barrel capable van squeeze figure pond rescue";

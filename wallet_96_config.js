@@ -1,1 +1,1 @@
-var mnemonic = "pause various venture chief slight private grow forum evil relax episode frequent";
+var mnemonic = "ensure armor image patient range dirt gesture purchase cluster hidden mirror switch";

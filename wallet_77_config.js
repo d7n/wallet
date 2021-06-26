@@ -1,1 +1,1 @@
-var mnemonic = "defy virtual wolf panther eight settle myself vessel harsh pull cycle dish";
+var mnemonic = "inhale creek victory wife bicycle quality desk lonely enrich cloth shrug grow";

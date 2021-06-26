@@ -1,1 +1,1 @@
-var mnemonic = "ship carbon often next phone trend wise stove tone front intact arctic";
+var mnemonic = "awkward unfair exercise metal supreme athlete extra sea steak brisk primary federal";

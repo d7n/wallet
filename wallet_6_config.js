@@ -1,1 +1,1 @@
-var mnemonic = "pill insect office provide foot genre episode solution history captain ticket razor";
+var mnemonic = "dutch together margin monitor need cup rookie seven unknown mad purity worry";

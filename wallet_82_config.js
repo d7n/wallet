@@ -1,1 +1,1 @@
-var mnemonic = "scale law obtain guilt frost below maze capital surprise same cattle message";
+var mnemonic = "pretty tired dad situate report act walnut whip display abuse plate hill";

@@ -1,1 +1,1 @@
-var mnemonic = "leaf claim humble unknown increase picture then balcony define butter keep total";
+var mnemonic = "life cause ecology beef riot extend nephew scare message annual emerge surge";

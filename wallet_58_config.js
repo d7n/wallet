@@ -1,1 +1,1 @@
-var mnemonic = "attract tackle arch trick section again boring blame monster lobster rebuild expect";
+var mnemonic = "slab ocean poet feature laptop pistol hundred twist antenna spice stem hat";

@@ -1,1 +1,1 @@
-var mnemonic = "deal prefer guess swift eagle spice ride filter lift same language pilot";
+var mnemonic = "forward morning walnut island wear turn woman nurse carpet same skin orient";

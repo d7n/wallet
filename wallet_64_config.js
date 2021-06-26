@@ -1,1 +1,1 @@
-var mnemonic = "clerk level smart welcome earth merit tired shoot cheap fog bullet arena";
+var mnemonic = "scorpion brain vessel during measure runway shadow weasel start concert monitor peace";

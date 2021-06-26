@@ -1,1 +1,1 @@
-var mnemonic = "simple wing until wife tail program distance gospel number inflict border couple";
+var mnemonic = "once bless amount early steel high tuition puppy famous silk first spice";

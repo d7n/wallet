@@ -1,1 +1,1 @@
-var mnemonic = "various tuna neglect rude report duty device ethics inch traffic festival smooth";
+var mnemonic = "fossil glory inhale renew lonely peace memory bachelor foot waste cry melody";

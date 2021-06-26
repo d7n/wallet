@@ -1,1 +1,1 @@
-var mnemonic = "review advice soda hobby innocent ship speak chimney pig knock analyst trick";
+var mnemonic = "help marine fiscal hover shallow manual clutch funny merit void wagon rebel";

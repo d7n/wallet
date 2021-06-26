@@ -1,1 +1,1 @@
-var mnemonic = "assault into derive pistol sausage throw horn reason wait desert blind creek";
+var mnemonic = "oak dentist sight visual speed dream spend company ostrich pattern illness bring";

@@ -1,1 +1,1 @@
-var mnemonic = "initial total shrug twist fall aunt cream relax later orchard property pride";
+var mnemonic = "castle actress supreme curious mad result music fiber practice turtle insane shield";

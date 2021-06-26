@@ -1,1 +1,1 @@
-var mnemonic = "demand odor immense fiscal acquire autumn exclude angle only elbow endless aunt";
+var mnemonic = "unique vacant interest coil father float differ trial intact edit sausage yard";

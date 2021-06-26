@@ -1,1 +1,1 @@
-var mnemonic = "latin tide resist thunder enemy endorse inside gap pyramid joke fame table";
+var mnemonic = "deposit scan base ski govern help midnight matter fee permit point expose";

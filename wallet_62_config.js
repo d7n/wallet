@@ -1,1 +1,1 @@
-var mnemonic = "benefit oil strike ticket uncover grid birth room adapt senior cable slogan";
+var mnemonic = "reform salad puzzle seed absorb chuckle stumble strong they engage distance mistake";

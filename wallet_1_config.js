@@ -1,1 +1,1 @@
-var mnemonic = "isolate bracket analyst way today hotel become jazz gather bitter obey chaos";
+var mnemonic = "cherry end solution sphere nothing cliff mule remember bundle hub wood only";

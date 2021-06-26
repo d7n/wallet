@@ -1,1 +1,1 @@
-var mnemonic = "timber across penalty lobster odor slogan office tissue bundle gown cable wink";
+var mnemonic = "ginger copy neither slot feed gesture sense sample style cable bulk success";

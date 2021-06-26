@@ -1,1 +1,1 @@
-var mnemonic = "reopen fortune visual repair supreme arm orange firm aim cannon antenna fashion";
+var mnemonic = "elbow expand measure stone sure pupil inch pumpkin adult impulse expect stumble";

@@ -1,1 +1,1 @@
-var mnemonic = "found shoulder orient veteran symbol portion base chicken crime link discover fantasy";
+var mnemonic = "opera spoon print road debate until bird motion ozone whale nation quality";

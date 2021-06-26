@@ -1,1 +1,1 @@
-var mnemonic = "ball record total culture tuna soul cross slender avoid soldier truly until";
+var mnemonic = "example notable actor have crumble pet suffer bike barely exclude ask entire";

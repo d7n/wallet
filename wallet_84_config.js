@@ -1,1 +1,1 @@
-var mnemonic = "together cattle wash video picnic enroll what boat flock cluster ski width";
+var mnemonic = "major pond unhappy shuffle genre glare enough act flash among more crush";

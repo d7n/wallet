@@ -1,1 +1,1 @@
-var mnemonic = "enhance toss vault screen festival wreck primary page only grit market camp";
+var mnemonic = "beauty bachelor flavor arrow divert analyst pumpkin dose witness join captain butter";

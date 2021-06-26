@@ -1,1 +1,1 @@
-var mnemonic = "rose afford ability adult cabbage genius ocean leisure furnace confirm treat battle";
+var mnemonic = "sick dutch bulk warfare average trumpet month lumber fee author resemble save";

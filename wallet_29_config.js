@@ -1,1 +1,1 @@
-var mnemonic = "ugly lottery upper frozen brand ancient exclude industry tone solve shuffle believe";
+var mnemonic = "wonder car mention royal fix soldier object ill coil video pepper blood";

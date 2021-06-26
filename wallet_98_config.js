@@ -1,1 +1,1 @@
-var mnemonic = "lesson ghost wage turtle owner movie rhythm truly disease lab faith spider";
+var mnemonic = "member cliff thumb visa stomach anchor power space absorb jazz mosquito evolve";

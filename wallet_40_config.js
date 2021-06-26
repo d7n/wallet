@@ -1,1 +1,1 @@
-var mnemonic = "orbit file vintage wasp super inherit island fever suggest bottom myth net";
+var mnemonic = "mesh raven jewel curious wool enlist horn march limb betray tenant debris";
