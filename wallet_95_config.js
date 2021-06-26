@@ -1,1 +1,1 @@
-var mnemonic = "blood expose poverty deposit lock strategy elbow cute auto urban fire pumpkin";
+var mnemonic = "bridge liquid stomach tornado coral slush junk destroy powder grape soldier security";

@@ -1,1 +1,1 @@
-var mnemonic = "flower bone diesel tone bleak twin violin shoulder amused forward bench two";
+var mnemonic = "practice enemy cram enemy calm title claw twice fatal gas light blanket";

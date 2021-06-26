@@ -1,1 +1,1 @@
-var mnemonic = "erosion learn acquire paddle lunch alpha tuition divide lumber media stuff west";
+var mnemonic = "enter parent burden faint ancient valid carbon saddle turn novel december eagle";

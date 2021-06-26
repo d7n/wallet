@@ -1,1 +1,1 @@
-var mnemonic = "fault fog poet gym adjust riot tip defy depth unfold dinner patch";
+var mnemonic = "stock soap error churn admit mask only answer neither seven prize rely";

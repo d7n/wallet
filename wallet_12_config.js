@@ -1,1 +1,1 @@
-var mnemonic = "miss outside pig window problem wisdom magic crumble panther soldier chest fiscal";
+var mnemonic = "hunt wrap tomorrow shallow matrix ginger expand music moral need second absent";

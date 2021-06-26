@@ -1,1 +1,1 @@
-var mnemonic = "illegal output dash quiz rebuild entire build truck fire water evil tribe";
+var mnemonic = "virtual setup alcohol obvious tomorrow debris shift orange dice vehicle zoo raw";

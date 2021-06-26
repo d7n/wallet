@@ -1,1 +1,1 @@
-var mnemonic = "same toward maple buzz winter spatial december tennis exact slim soldier cliff";
+var mnemonic = "behind blush subway abstract tiger name fatigue achieve palm bitter image inspire";

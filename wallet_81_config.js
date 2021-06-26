@@ -1,1 +1,1 @@
-var mnemonic = "pattern upper dream chest pride health shy carbon road change acid join";
+var mnemonic = "lawn biology birth annual allow receive elite pioneer horror pizza cruise wise";

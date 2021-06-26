@@ -1,1 +1,1 @@
-var mnemonic = "diagram pyramid explain cliff lucky derive certain blanket medal load nose strategy";
+var mnemonic = "cram raven token eyebrow alarm wash sick cruel pizza pledge match strong";

@@ -1,1 +1,1 @@
-var mnemonic = "damage hint gun term spread letter burger wall guilt genre nerve budget";
+var mnemonic = "beauty amount olympic market apart hospital rabbit grab hundred gesture push hospital";

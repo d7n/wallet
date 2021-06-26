@@ -1,1 +1,1 @@
-var mnemonic = "enter ranch planet ethics kidney wrong salt zoo client loyal arrange neutral";
+var mnemonic = "shrug possible essay tube good smooth clean slice pet gym soul rack";

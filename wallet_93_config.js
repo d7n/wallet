@@ -1,1 +1,1 @@
-var mnemonic = "swim text similar brain upgrade submit vintage clever maple flame survey jump";
+var mnemonic = "jacket inspire primary border addict banner notable spawn reunion click toy glue";

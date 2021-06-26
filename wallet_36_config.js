@@ -1,1 +1,1 @@
-var mnemonic = "render shine upset sponsor sing jaguar canvas observe dice old empty unfold";
+var mnemonic = "avocado family aisle rose deer wish party situate street diet vehicle quit";

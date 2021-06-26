@@ -1,1 +1,1 @@
-var mnemonic = "clutch undo hammer attend nothing disease demise unhappy between raw venture tomato";
+var mnemonic = "wood window pact frame prosper throw east traffic inner balance kid cherry";

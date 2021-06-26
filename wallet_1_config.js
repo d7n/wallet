@@ -1,1 +1,1 @@
-var mnemonic = "oak eternal upset traffic pulse ritual deputy bird shuffle view legend video";
+var mnemonic = "invite tortoise unfair pony mercy pitch amazing sell uncover decrease color fine";

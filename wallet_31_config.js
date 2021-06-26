@@ -1,1 +1,1 @@
-var mnemonic = "brand toilet gloom book appear goddess student grow jaguar case lumber dizzy";
+var mnemonic = "school social stay isolate scale uncover where trip fabric verify arctic say";

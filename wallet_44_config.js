@@ -1,1 +1,1 @@
-var mnemonic = "shuffle price test rack hotel yellow holiday keep deer romance now mansion";
+var mnemonic = "decorate humble excuse market female snake pill infant choose banner thrive stereo";

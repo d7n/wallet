@@ -1,1 +1,1 @@
-var mnemonic = "peasant tomorrow slot gas rally hen often dawn crew clock close all";
+var mnemonic = "unlock walk board hollow blood general tornado snack iron holiday grace floor";

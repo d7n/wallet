@@ -1,1 +1,1 @@
-var mnemonic = "expect slow obey border december omit foil alter update pony valid parent";
+var mnemonic = "excuse style network assault sea pink foot gift twelve effort vacuum baby";

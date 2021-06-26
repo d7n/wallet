@@ -1,1 +1,1 @@
-var mnemonic = "ignore slim timber group defense pyramid expire despair laundry pact what sound";
+var mnemonic = "cereal advice secret torch junior quote grunt under theory sunset bright fun";

@@ -1,1 +1,1 @@
-var mnemonic = "learn fix kid dune usage sea road hole share vacant express embrace";
+var mnemonic = "law pass wood lock obvious turtle typical cream unknown tilt message pledge";

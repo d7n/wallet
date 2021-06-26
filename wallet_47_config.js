@@ -1,1 +1,1 @@
-var mnemonic = "they ramp auto season match logic shuffle steel online idle ticket convince";
+var mnemonic = "knife alien hawk bless awkward must journey kind enrich enroll cushion artwork";

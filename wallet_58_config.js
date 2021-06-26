@@ -1,1 +1,1 @@
-var mnemonic = "pond movie right fatigue one combine fine empty title approve okay charge";
+var mnemonic = "own where scrap wide embark lottery sign slow tiny raccoon skin vibrant";

@@ -1,1 +1,1 @@
-var mnemonic = "asthma cash erosion execute tornado basic carpet judge illegal enforce leaf where";
+var mnemonic = "dry apple sight when dice logic target protect refuse thumb erupt blade";

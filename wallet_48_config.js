@@ -1,1 +1,1 @@
-var mnemonic = "crane among leopard work minor antique stand bubble skate deliver song estate";
+var mnemonic = "turn puppy shop illness canyon column lend normal door broken gesture group";

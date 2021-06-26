@@ -1,1 +1,1 @@
-var mnemonic = "discover warrior erase frequent spend bus boring auto drastic relief detect power";
+var mnemonic = "top pupil pelican rival clever elegant ensure clay slot key casino flush";

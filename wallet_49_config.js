@@ -1,1 +1,1 @@
-var mnemonic = "hill edge cricket float reveal burst mistake conduct magic spray pill wall";
+var mnemonic = "captain goose hurdle glide world citizen advance relax mammal dune paddle world";

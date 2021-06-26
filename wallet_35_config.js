@@ -1,1 +1,1 @@
-var mnemonic = "tone obey airport federal weapon shed syrup glad image mix where hen";
+var mnemonic = "couch frozen shadow review absurd garbage amazing crack peace grocery drift tilt";

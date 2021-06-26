@@ -1,1 +1,1 @@
-var mnemonic = "regular cash step educate season little eight news major sentence usage heart";
+var mnemonic = "journey wrestle awake detect cheap six perfect cousin industry laundry wife exit";

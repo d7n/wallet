@@ -1,1 +1,1 @@
-var mnemonic = "unable erupt ball board obtain globe second glad virtual palace name where";
+var mnemonic = "fame busy balcony make soccer display gift paddle upset trial mail language";

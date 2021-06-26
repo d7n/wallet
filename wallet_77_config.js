@@ -1,1 +1,1 @@
-var mnemonic = "bullet bundle glow delay fragile indicate grocery hen walnut cream load minimum";
+var mnemonic = "argue apart culture desk march warrior hour burst immune enough divert frozen";

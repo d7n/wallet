@@ -1,1 +1,1 @@
-var mnemonic = "shed oil eagle will ceiling wheat theme large stumble cheap shell avoid";
+var mnemonic = "roof city wrestle end south write cram denial spirit dwarf seed wine";

@@ -1,1 +1,1 @@
-var mnemonic = "plunge mistake business smile owner absorb clip time turtle social acoustic inquiry";
+var mnemonic = "canoe despair arm cloth lab submit pet zebra umbrella true eagle climb";

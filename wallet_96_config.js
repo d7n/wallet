@@ -1,1 +1,1 @@
-var mnemonic = "month route nice stadium grab route fringe wheel marriage problem thumb horn";
+var mnemonic = "file spread guess shell build cruel permit clump novel across indoor seed";

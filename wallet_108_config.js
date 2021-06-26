@@ -1,1 +1,1 @@
-var mnemonic = "acid lady wild drink lion middle promote various melt monkey domain maid";
+var mnemonic = "ten kite mimic sword sample enforce child another jar view jewel miss";

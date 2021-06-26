@@ -1,1 +1,1 @@
-var mnemonic = "apart visa fever fringe recycle plug episode share change infant leader rubber";
+var mnemonic = "toddler leopard fluid priority bitter hover pepper cable remain huge setup return";

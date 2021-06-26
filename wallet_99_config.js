@@ -1,1 +1,1 @@
-var mnemonic = "luggage glue setup occur exchange birth struggle honey worth cross husband glove";
+var mnemonic = "hint gauge same possible private delay such beauty december clog deputy dream";

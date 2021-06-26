@@ -1,1 +1,1 @@
-var mnemonic = "satoshi vast average combine electric demise crumble bleak funny manual credit fabric";
+var mnemonic = "local dash motion rare this clump couple crisp table hedgehog awake typical";

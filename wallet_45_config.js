@@ -1,1 +1,1 @@
-var mnemonic = "wealth glance next order unaware more game hammer sea resist jump demise";
+var mnemonic = "donate segment organ domain extend promote legend family bus zebra wedding order";

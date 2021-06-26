@@ -1,1 +1,1 @@
-var mnemonic = "cook turn ship aisle ship critic afraid audit skirt metal hamster accuse";
+var mnemonic = "all garlic salmon monitor bridge assist welcome notable quick anxiety admit ahead";

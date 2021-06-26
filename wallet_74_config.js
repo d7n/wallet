@@ -1,1 +1,1 @@
-var mnemonic = "strong pioneer blast very round embody confirm grid fluid promote elephant salad";
+var mnemonic = "envelope remove winner raw tail country recipe sentence mix shoot wage mind";

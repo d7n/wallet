@@ -1,1 +1,1 @@
-var mnemonic = "more add wrap brain drama soccer lake bid buyer pact step tornado";
+var mnemonic = "luxury laptop problem school start atom language mirror wait toast topple vocal";

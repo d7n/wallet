@@ -1,1 +1,1 @@
-var mnemonic = "either logic together harvest tragic number feed minor need nose ankle goddess";
+var mnemonic = "latin sponsor chief deal congress dentist gun north paper agent claw liquid";

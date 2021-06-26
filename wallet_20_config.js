@@ -1,1 +1,1 @@
-var mnemonic = "ridge you remove join chase rocket reveal modify blouse warm paper conduct";
+var mnemonic = "intact sign section weather fiber tired cable gravity super clown wing bundle";

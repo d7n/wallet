@@ -1,1 +1,1 @@
-var mnemonic = "genre human cat source unusual illness reason wear various unable clarify company";
+var mnemonic = "frost owner airport moment trick segment glow update physical brick exist angle";

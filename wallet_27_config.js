@@ -1,1 +1,1 @@
-var mnemonic = "census tube admit lake upon brave sad ketchup reveal enroll proud chair";
+var mnemonic = "wisdom afford extra magnet process bone another theory carpet click door agree";

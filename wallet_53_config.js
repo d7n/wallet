@@ -1,1 +1,1 @@
-var mnemonic = "sausage typical tool script sister orchard velvet will spend only equal motion";
+var mnemonic = "virus magnet later quote ladder bless rail three memory twelve hunt text";

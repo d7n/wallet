@@ -1,1 +1,1 @@
-var mnemonic = "entire crop matrix ketchup coach tragic blouse panic pen category stick diagram";
+var mnemonic = "deny express spread sweet stone cram breeze prevent shoe interest omit raw";

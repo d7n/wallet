@@ -1,1 +1,1 @@
-var mnemonic = "agent barely help sweet change situate peace census wage art slender surge";
+var mnemonic = "pencil gap knock enable please knock furnace crack bullet fire merit cool";

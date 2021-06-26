@@ -1,1 +1,1 @@
-var mnemonic = "ankle leader quit lottery tunnel gain winter volume egg level decline simple";
+var mnemonic = "gentle hill divorce drill rookie bread machine split region junior opinion list";

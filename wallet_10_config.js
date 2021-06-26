@@ -1,1 +1,1 @@
-var mnemonic = "urban series vehicle afford melt toward leaf loud drift patrol hire own";
+var mnemonic = "upset nature charge begin special stereo spend fold minor mosquito frown group";

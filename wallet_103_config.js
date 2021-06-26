@@ -1,1 +1,1 @@
-var mnemonic = "adapt wedding drive stove scheme damage alert peanut stand quality interest off";
+var mnemonic = "milk anger rebuild remind code scrap brisk sustain vacant gold sniff merge";

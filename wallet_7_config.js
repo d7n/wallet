@@ -1,1 +1,1 @@
-var mnemonic = "train inspire tobacco razor wing regular veteran focus cloud exit struggle nasty";
+var mnemonic = "jungle walnut insect jeans fold hockey derive sausage broom social way enable";

@@ -1,1 +1,1 @@
-var mnemonic = "require equip observe glad pulp transfer possible rate quit mosquito clever idle";
+var mnemonic = "document tail inch divert render used plug hint arch weird height gasp";

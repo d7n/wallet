@@ -1,1 +1,1 @@
-var mnemonic = "lounge gather clown salon come isolate silent resemble city face rich act";
+var mnemonic = "human chief improve wish danger force bag naive burger enter industry coach";

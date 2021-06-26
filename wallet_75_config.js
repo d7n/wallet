@@ -1,1 +1,1 @@
-var mnemonic = "rude unfair juice grass loop trap spot account garage source rare rival";
+var mnemonic = "bronze huge cruise crumble inhale symptom miracle fall square later double quick";

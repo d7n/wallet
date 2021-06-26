@@ -1,1 +1,1 @@
-var mnemonic = "spread treat vault scene into guilt faint prosper smooth bright industry success";
+var mnemonic = "cook oven area alley safe shock hollow lend monkey exact champion border";

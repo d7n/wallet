@@ -1,1 +1,1 @@
-var mnemonic = "ribbon health code snow build rookie citizen fiber miss powder vast step";
+var mnemonic = "story museum swing crunch cargo fine old grunt dash flight urban left";

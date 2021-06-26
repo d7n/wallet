@@ -1,1 +1,1 @@
-var mnemonic = "salad involve target ozone wet lecture panda monster device time grape glad";
+var mnemonic = "balcony drive horse taxi idea cute brown style ride now noodle combine";

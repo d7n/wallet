@@ -1,1 +1,1 @@
-var mnemonic = "monkey better regular route balcony brisk fun knock eye uniform warfare top";
+var mnemonic = "wide switch hazard display enforce vintage error cover key hawk frequent supply";

@@ -1,1 +1,1 @@
-var mnemonic = "glove future priority topple slot pluck ability sad inside company woman grant";
+var mnemonic = "arrive author ready wool only skill trend stem behind keen truly envelope";

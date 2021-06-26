@@ -1,1 +1,1 @@
-var mnemonic = "response chunk situate tomorrow loud smile correct conduct like ivory scale spot";
+var mnemonic = "axis polar thank leader neglect depth layer fuel wheat turn client badge";

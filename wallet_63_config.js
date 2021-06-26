@@ -1,1 +1,1 @@
-var mnemonic = "stay seek right west fish picnic eager mention electric sheriff shiver mad";
+var mnemonic = "tired void easily describe car scorpion umbrella flavor sample verify pull final";

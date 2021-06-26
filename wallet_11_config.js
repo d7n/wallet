@@ -1,1 +1,1 @@
-var mnemonic = "artwork absorb alcohol deposit decade price vicious audit pilot garage speed exchange";
+var mnemonic = "trap cram session ill marine chat work stick expose disagree tenant planet";

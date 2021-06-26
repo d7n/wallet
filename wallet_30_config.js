@@ -1,1 +1,1 @@
-var mnemonic = "horror cool snack survey adult else mosquito beauty join nerve fever infant";
+var mnemonic = "kid elder neglect book surge trade reopen panic pact cradle light brisk";

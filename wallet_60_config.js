@@ -1,1 +1,1 @@
-var mnemonic = "field finger obtain escape wrap dance raccoon artefact drip like conduct hobby";
+var mnemonic = "cram rubber lottery peasant theme eye wood adult vanish silver onion spread";

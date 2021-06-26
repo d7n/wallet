@@ -1,1 +1,1 @@
-var mnemonic = "leave business million rate unfold praise shrug hedgehog order wrong draw exclude";
+var mnemonic = "clever harsh boring what accident gap scrap bottom local teach fuel hammer";

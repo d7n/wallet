@@ -1,1 +1,1 @@
-var mnemonic = "affair two leaf domain vicious claw life apple govern shrug mesh stamp";
+var mnemonic = "scheme monkey merit razor hobby amazing art language common junior supply suffer";

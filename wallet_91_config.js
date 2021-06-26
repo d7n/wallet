@@ -1,1 +1,1 @@
-var mnemonic = "dial try still duty energy drama disorder check tower vote tackle rain";
+var mnemonic = "live radio shallow prison define debate rail swim mystery powder invest later";

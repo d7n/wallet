@@ -1,1 +1,1 @@
-var mnemonic = "marriage pottery donkey trigger letter marble labor denial raw load budget tennis";
+var mnemonic = "aim elbow turtle valley riot weekend boil giant swing response crop lion";

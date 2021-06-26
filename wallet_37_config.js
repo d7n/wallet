@@ -1,1 +1,1 @@
-var mnemonic = "cute funny lens genre struggle spider gasp wear super soldier refuse between";
+var mnemonic = "slab labor room sister party ketchup flock robust only try sail act";

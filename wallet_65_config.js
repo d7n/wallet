@@ -1,1 +1,1 @@
-var mnemonic = "visual glow wheel tribe empty credit improve remember master wear midnight high";
+var mnemonic = "discover wing orchard old wrap city high wheat way elevator noodle rival";

@@ -1,1 +1,1 @@
-var mnemonic = "weapon tide jewel motor make home race carry snack lottery dad onion";
+var mnemonic = "destroy daring merit draw about brief token appear swear body drift dove";

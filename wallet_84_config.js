@@ -1,1 +1,1 @@
-var mnemonic = "dawn orchard butter grunt term hedgehog first torch country tuna kidney giant";
+var mnemonic = "gloom welcome theory trophy shed animal sort mosquito embark march struggle infant";

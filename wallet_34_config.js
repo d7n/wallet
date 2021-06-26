@@ -1,1 +1,1 @@
-var mnemonic = "green stumble injury bird poet fashion airport process swing toilet morning pupil";
+var mnemonic = "front sail teach flavor target police devote toast almost fatal sausage car";

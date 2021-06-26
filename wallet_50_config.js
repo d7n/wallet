@@ -1,1 +1,1 @@
-var mnemonic = "humor core edit undo lesson walnut north place pulse escape height purity";
+var mnemonic = "agree flag artefact young expose fix tragic love alter depend actual elephant";

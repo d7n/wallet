@@ -1,1 +1,1 @@
-var mnemonic = "actress penalty breeze flavor record turtle turtle brand shaft pear robust zoo";
+var mnemonic = "woman thumb notable profit casual oval write club can popular blame trim";

@@ -1,1 +1,1 @@
-var mnemonic = "fiscal coin song express tennis invite wave album zebra receive senior suit";
+var mnemonic = "fantasy polar track similar moment flee ski mandate identify wing amused atom";

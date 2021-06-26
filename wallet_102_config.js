@@ -1,1 +1,1 @@
-var mnemonic = "file suggest deliver present flavor prevent engine black eternal dragon air twelve";
+var mnemonic = "hour tumble fall flee nice deal canvas tool pulp what celery road";

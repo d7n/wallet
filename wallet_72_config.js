@@ -1,1 +1,1 @@
-var mnemonic = "cloth venture result laundry night acid ancient caught process stable capable hockey";
+var mnemonic = "adapt mix fortune protect step debate early trend two napkin shift have";

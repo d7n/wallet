@@ -1,1 +1,1 @@
-var mnemonic = "potato immense edit drill weird hope cat tiger faint tower balcony game";
+var mnemonic = "engine offer sick code unfair member simple margin chunk voyage light trend";

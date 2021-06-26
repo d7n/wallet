@@ -1,1 +1,1 @@
-var mnemonic = "more mixture enhance shiver erase tiny galaxy garbage oyster hamster share quote";
+var mnemonic = "cage melt pistol twice copper tip combine race female panther tube blade";

@@ -1,1 +1,1 @@
-var mnemonic = "hip reform style cool urban walk parade until birth pigeon approve gaze";
+var mnemonic = "hawk obtain talk oblige tip you advice ship visual regular various earth";

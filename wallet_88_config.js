@@ -1,1 +1,1 @@
-var mnemonic = "truck treat pledge impact sleep shiver problem rude tell helmet rather forum";
+var mnemonic = "curious trap clip film erase shoe unusual green journey check album cargo";

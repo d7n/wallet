@@ -1,1 +1,1 @@
-var mnemonic = "laundry aspect clarify spatial jump globe pulp mule pride pond door hunt";
+var mnemonic = "near wasp asthma maid wheat smooth ball notice cigar reform coyote come";

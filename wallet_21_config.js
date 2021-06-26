@@ -1,1 +1,1 @@
-var mnemonic = "coin grit wire twice evolve inspire whale wild other faint choose mass";
+var mnemonic = "coffee confirm ski random matrix magic rice drill enjoy ability wise aunt";

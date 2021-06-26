@@ -1,1 +1,1 @@
-var mnemonic = "true remain kingdom private noise update churn maximum cheap fiber found estate";
+var mnemonic = "afraid midnight sorry oblige expect banner topple hidden ridge flower fee height";

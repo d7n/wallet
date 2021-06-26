@@ -1,1 +1,1 @@
-var mnemonic = "strong swap car country unusual wrong large gain victory juice humble tube";
+var mnemonic = "warfare alert course cream text satoshi tenant deposit brave depart sibling cradle";

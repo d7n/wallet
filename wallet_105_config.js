@@ -1,1 +1,1 @@
-var mnemonic = "certain more culture friend debate glad arrow olympic panda march fault state";
+var mnemonic = "festival size awful shield canal chuckle slogan call broken caught load drink";

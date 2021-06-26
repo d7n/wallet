@@ -1,1 +1,1 @@
-var mnemonic = "wrong sleep forward base put episode retire husband wall various orange sea";
+var mnemonic = "solar stumble kitchen resemble exercise anxiety modify time spoil moral uphold across";

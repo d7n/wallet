@@ -1,1 +1,1 @@
-var mnemonic = "weapon drum you protect someone capital worth couple inside body jazz miss";
+var mnemonic = "primary fancy business cave token peasant that double scissors bonus assume live";

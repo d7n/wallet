@@ -1,1 +1,1 @@
-var mnemonic = "word immune mimic left announce senior play feature awful exercise chunk cupboard";
+var mnemonic = "fix sudden error question maple dirt fetch trumpet citizen perfect pretty margin";

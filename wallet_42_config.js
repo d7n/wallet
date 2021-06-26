@@ -1,1 +1,1 @@
-var mnemonic = "harsh steel minute monitor tomorrow swift lift width call kind trend belt";
+var mnemonic = "fury damage earth luggage evidence tobacco sock confirm repair allow clarify salad";

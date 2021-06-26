@@ -1,1 +1,1 @@
-var mnemonic = "advance volume attack hen wedding chat pair shuffle certain over thunder noble";
+var mnemonic = "arrow dragon build rabbit census draw miss cycle cave wife seek advance";

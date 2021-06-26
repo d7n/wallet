@@ -1,1 +1,1 @@
-var mnemonic = "wife tool antique faint affair palace nurse act aware series vanish beach";
+var mnemonic = "unfair twenty chest fuel scale fork wool river doll always tank vehicle";

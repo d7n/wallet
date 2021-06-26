@@ -1,1 +1,1 @@
-var mnemonic = "hospital taxi uncover polar angle history occur copy deer cement episode chase";
+var mnemonic = "hair like describe assume helmet card pattern exist cute rebel spend replace";
