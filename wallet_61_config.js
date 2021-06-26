@@ -1,1 +1,1 @@
-var mnemonic = "cushion diary enemy guard bike car fly squirrel nuclear chimney finger crisp";
+var mnemonic = "universe bag lobster owner section usage marriage giggle sudden toe fox dwarf";

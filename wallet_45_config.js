@@ -1,1 +1,1 @@
-var mnemonic = "mention cloth rebuild rookie fetch dust amazing artefact suffer fuel elephant nature";
+var mnemonic = "donkey jaguar brick exist rocket blush brush palm woman more safe auto";

@@ -1,1 +1,1 @@
-var mnemonic = "true young fence priority color stairs friend rely possible truck message sorry";
+var mnemonic = "buddy later usual jelly swear useless hedgehog wagon welcome supreme bike father";

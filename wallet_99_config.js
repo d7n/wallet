@@ -1,1 +1,1 @@
-var mnemonic = "execute intact office birth camera desert mistake focus toss school humor seat";
+var mnemonic = "lounge decorate fetch club sunset token expand bubble phone wage robust vocal";

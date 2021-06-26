@@ -1,1 +1,1 @@
-var mnemonic = "forget kiss solar file ethics eight filter pitch display install exit mention";
+var mnemonic = "giraffe rotate measure useful success census jealous shrimp rival drum foster horror";

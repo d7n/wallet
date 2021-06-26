@@ -1,1 +1,1 @@
-var mnemonic = "involve into toward frown actress destroy flavor theory flee protect yard evil";
+var mnemonic = "empty unveil huge include magnet bus venture candy vintage knee prison thumb";

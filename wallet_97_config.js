@@ -1,1 +1,1 @@
-var mnemonic = "snack stuff couch marble main column drip climb stage cause argue clever";
+var mnemonic = "monkey oppose palace thunder collect garbage disorder figure alpha cash drama width";

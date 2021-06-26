@@ -1,1 +1,1 @@
-var mnemonic = "bone time salad mom crush scorpion series inflict educate milk flee load";
+var mnemonic = "fortune clog hotel argue snap sad flock where mixed city absent grief";

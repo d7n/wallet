@@ -1,1 +1,1 @@
-var mnemonic = "dismiss again post coyote slow matter time awake evoke identify enroll buyer";
+var mnemonic = "taste sponsor pattern lonely scrub squirrel carbon rigid tell volcano tower rain";

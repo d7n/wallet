@@ -1,1 +1,1 @@
-var mnemonic = "balance maximum message flat engine wheat recall cable asthma broken arrange sphere";
+var mnemonic = "garlic filter matrix belt dream victory section original regret across asset energy";

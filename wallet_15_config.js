@@ -1,1 +1,1 @@
-var mnemonic = "agent shiver climb loan proof actress alien wagon bulb cream six mixed";
+var mnemonic = "word hold electric typical tower undo lion message sorry crop list note";

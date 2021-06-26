@@ -1,1 +1,1 @@
-var mnemonic = "thumb company science artist split engine innocent life trial burst icon just";
+var mnemonic = "squeeze scheme kind achieve violin mechanic have parent pupil stem sketch absorb";

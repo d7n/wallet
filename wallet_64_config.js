@@ -1,1 +1,1 @@
-var mnemonic = "gap maze bag join group screen profit wing riot bird cherry hybrid";
+var mnemonic = "nasty myth love chair traffic ladder rather veteran close repair common fee";

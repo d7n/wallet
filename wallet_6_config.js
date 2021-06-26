@@ -1,1 +1,1 @@
-var mnemonic = "journey sustain deer hurdle stool decrease extend tuna coconut hazard foot maid";
+var mnemonic = "ocean rifle human insane belt sea woman dynamic evoke drink liar soap";

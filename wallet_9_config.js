@@ -1,1 +1,1 @@
-var mnemonic = "review pool first leave agree confirm flee dance palm safe assault captain";
+var mnemonic = "floor forward expire mercy play nephew myself then cruise dune faculty invite";

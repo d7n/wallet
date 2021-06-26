@@ -1,1 +1,1 @@
-var mnemonic = "suspect wrap diesel swarm mixture spoon chicken grow lounge lesson spice kid";
+var mnemonic = "toward lamp carbon omit bacon top digital exhaust vault buddy soccer glide";

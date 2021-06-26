@@ -1,1 +1,1 @@
-var mnemonic = "nurse traffic prison argue person wisdom smile abandon olympic eager palace office";
+var mnemonic = "kitten diamond apple prepare polar long poem rabbit sponsor stem venture knock";

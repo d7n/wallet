@@ -1,1 +1,1 @@
-var mnemonic = "various border walk glad soft payment settle gaze genre wash bitter jeans";
+var mnemonic = "explain off citizen faith birth turtle clap accident split fish usage core";

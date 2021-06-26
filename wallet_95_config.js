@@ -1,1 +1,1 @@
-var mnemonic = "surface ozone swap fatal decade crowd style mercy wreck life work depart";
+var mnemonic = "item spread suggest clip skate inquiry coil awful gun lesson royal normal";

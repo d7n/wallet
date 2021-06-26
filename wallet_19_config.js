@@ -1,1 +1,1 @@
-var mnemonic = "dance attack ensure candy raise breeze bleak identify problem cloth eagle decide";
+var mnemonic = "tube install wasp stem author come deny install pistol chapter slogan hazard";

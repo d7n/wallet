@@ -1,1 +1,1 @@
-var mnemonic = "guilt magic length super pulp agree shoulder gaze degree undo tackle stadium";
+var mnemonic = "olive slender quarter various acoustic visual script violin cruise step teach odor";

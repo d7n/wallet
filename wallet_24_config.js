@@ -1,1 +1,1 @@
-var mnemonic = "raven aware cluster dog list cigar bless bulk pizza defense clown memory";
+var mnemonic = "fiscal boil slogan polar size innocent host video mother mask weapon remove";

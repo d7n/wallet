@@ -1,1 +1,1 @@
-var mnemonic = "health approve join dice manual angry vendor allow gloom special naive faith";
+var mnemonic = "naive ridge dust crop danger diagram sea any crime crew rose oil";

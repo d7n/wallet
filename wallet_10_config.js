@@ -1,1 +1,1 @@
-var mnemonic = "vast tooth crumble prevent three life subway knee cradle silk give history";
+var mnemonic = "chronic expect clock injury stuff sand soda cheap rival utility define foam";

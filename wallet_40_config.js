@@ -1,1 +1,1 @@
-var mnemonic = "bottom gasp legal domain steak worth brief town stable uphold relax outer";
+var mnemonic = "radar asset flee buddy six wine used ability twist hill special nose";

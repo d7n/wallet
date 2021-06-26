@@ -1,1 +1,1 @@
-var mnemonic = "please audit entry spot demand since rocket regular manual stem hard recycle";
+var mnemonic = "cheap trap radio stock glory bomb cloud unique skin miss twice need";

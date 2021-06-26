@@ -1,1 +1,1 @@
-var mnemonic = "balance pipe you yellow egg edit certain roast color merry panel weapon";
+var mnemonic = "monkey film disorder brass leopard pencil have barrel rifle vapor kidney crop";

@@ -1,1 +1,1 @@
-var mnemonic = "safe abandon ticket lucky job very husband erase spell stadium hidden harvest";
+var mnemonic = "jungle badge source infant grocery senior spice moon fiscal action away estate";

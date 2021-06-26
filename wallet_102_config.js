@@ -1,1 +1,1 @@
-var mnemonic = "lottery expire laptop slight major fire seminar ticket chef bundle green mirror";
+var mnemonic = "know clock neck name split point diamond people sphere bleak bicycle slight";

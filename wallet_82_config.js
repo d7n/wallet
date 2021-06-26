@@ -1,1 +1,1 @@
-var mnemonic = "unusual valve kitten evoke candy prison acoustic infant fiscal elite shaft coral";
+var mnemonic = "boy expand wheat exist federal illegal client forward mesh ramp curtain defy";

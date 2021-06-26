@@ -1,1 +1,1 @@
-var mnemonic = "pottery carpet provide tourist yellow sure entry story credit order comic train";
+var mnemonic = "dash bring field possible auction olympic claim pluck muffin artwork angry ranch";

@@ -1,1 +1,1 @@
-var mnemonic = "update punch night proud scare cruise word useful message arctic amazing flash";
+var mnemonic = "simple topic night lens what maze pass impulse file friend fringe quarter";

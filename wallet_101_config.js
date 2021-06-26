@@ -1,1 +1,1 @@
-var mnemonic = "provide snap ill snow treat beyond negative six asthma off ready evolve";
+var mnemonic = "cute famous upgrade eyebrow choose impact secret spider remain sponsor panda keep";

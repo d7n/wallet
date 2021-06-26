@@ -1,1 +1,1 @@
-var mnemonic = "any hungry endless dutch cabin kite weapon vast alcohol ostrich story gain";
+var mnemonic = "nerve scorpion struggle lounge liquid smile grocery truly wage exchange chaos cupboard";

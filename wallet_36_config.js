@@ -1,1 +1,1 @@
-var mnemonic = "ordinary profit soda sell picture fold pipe initial twelve lady moral derive";
+var mnemonic = "hour anger crazy glimpse law either wrap speed alpha amount during alley";

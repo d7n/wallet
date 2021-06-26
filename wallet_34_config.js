@@ -1,1 +1,1 @@
-var mnemonic = "genre scrap retreat pride involve kitchen spider pipe shed dream ignore pizza";
+var mnemonic = "gap forum found dove normal electric simple average upgrade genuine way flight";

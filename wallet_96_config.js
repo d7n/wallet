@@ -1,1 +1,1 @@
-var mnemonic = "green young sphere bamboo destroy enlist parent pig range robot skin garage";
+var mnemonic = "humor same fat claim corn spin display curtain tape photo height market";

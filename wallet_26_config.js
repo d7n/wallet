@@ -1,1 +1,1 @@
-var mnemonic = "child dutch actual method blind mixture tooth depth vendor antique ocean rebel";
+var mnemonic = "wasp pig ski arena taxi control link ready into movie patch thought";

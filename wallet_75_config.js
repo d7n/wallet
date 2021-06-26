@@ -1,1 +1,1 @@
-var mnemonic = "collect total bargain museum menu answer side float weasel casino surround lobster";
+var mnemonic = "rack front cost erode ten doll decide begin mango various scrub embark";

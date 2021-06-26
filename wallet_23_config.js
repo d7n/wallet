@@ -1,1 +1,1 @@
-var mnemonic = "human decline tribe abstract panda few party lab fortune organ conduct merit";
+var mnemonic = "human across seat ostrich episode position mail neglect opinion inherit damp bunker";

@@ -1,1 +1,1 @@
-var mnemonic = "swim idea please coach deputy test theory stuff atom wheat pink upon";
+var mnemonic = "busy slab duck spin trash ivory crumble foil mercy online time kiss";

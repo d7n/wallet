@@ -1,1 +1,1 @@
-var mnemonic = "code wreck weird cattle vote ask february retreat often antique silent wet";
+var mnemonic = "badge slim ask exotic together pencil dune daring weasel fuel flower napkin";

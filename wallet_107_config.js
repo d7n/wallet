@@ -1,1 +1,1 @@
-var mnemonic = "dice load old fork stereo smooth alarm immune fox chunk mistake dance";
+var mnemonic = "confirm cherry pioneer discover verify permit toss address disagree arm glow pulse";

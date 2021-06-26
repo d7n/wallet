@@ -1,1 +1,1 @@
-var mnemonic = "matrix sphere slot session announce express cancel dinosaur media uncover act control";
+var mnemonic = "practice matrix notable bamboo wink enemy finish minute give ride garlic bless";

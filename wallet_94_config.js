@@ -1,1 +1,1 @@
-var mnemonic = "bulb bless rice word explain rug refuse fault exact limb people axis";
+var mnemonic = "hunt turn trophy surround fetch honey art youth between life lock sport";

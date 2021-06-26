@@ -1,1 +1,1 @@
-var mnemonic = "side topic receive lawn usage allow disagree paddle cave keen flip brave";
+var mnemonic = "bargain own wrong liquid beyond drip ability benefit egg turkey empower review";

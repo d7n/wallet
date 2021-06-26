@@ -1,1 +1,1 @@
-var mnemonic = "warfare myself speed crouch hungry program spawn nature blind million fish seven";
+var mnemonic = "elephant rather orbit bamboo adjust throw cause recipe inherit axis focus okay";

@@ -1,1 +1,1 @@
-var mnemonic = "wild rely glare muffin beach mix bleak snow timber again sniff radar";
+var mnemonic = "onion half shine can cereal small lucky praise organ impose senior melody";

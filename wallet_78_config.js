@@ -1,1 +1,1 @@
-var mnemonic = "soon pipe local doll fluid business match embrace blind hurry rule flag";
+var mnemonic = "grief south owner zebra initial glue alone dish oil brand reopen crumble";

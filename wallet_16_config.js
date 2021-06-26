@@ -1,1 +1,1 @@
-var mnemonic = "issue code aim copper exhaust gauge gown position romance output balcony extra";
+var mnemonic = "stage tree use winter physical humor program victory claim gauge runway gown";

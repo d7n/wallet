@@ -1,1 +1,1 @@
-var mnemonic = "card neglect enrich tortoise estate deer tunnel pond rose six team bridge";
+var mnemonic = "enter fat bid aim junior kite property orient item whale legal couple";

@@ -1,1 +1,1 @@
-var mnemonic = "marine such love oxygen neutral misery secret floor boat resemble dawn venue";
+var mnemonic = "say spell increase remove yard flag box engine element oxygen firm clutch";

@@ -1,1 +1,1 @@
-var mnemonic = "man wagon public soda pool tape color mango paddle swear draw canvas";
+var mnemonic = "viable situate news valley dynamic noble blind ostrich defense table used clip";

@@ -1,1 +1,1 @@
-var mnemonic = "boat client hurry column guitar combine claim giant local case letter minimum";
+var mnemonic = "vocal february engage autumn random fancy announce sphere case notice topple awake";

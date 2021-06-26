@@ -1,1 +1,1 @@
-var mnemonic = "logic legend amused equip alter venture assist coconut mule split million pistol";
+var mnemonic = "lonely ocean chase wreck adapt poem render palm race tennis segment remain";

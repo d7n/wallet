@@ -1,1 +1,1 @@
-var mnemonic = "brief elegant bamboo legend blast axis pipe powder once truck confirm token";
+var mnemonic = "excite supply ship feature skill language machine pelican razor six faith soldier";

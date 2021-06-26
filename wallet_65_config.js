@@ -1,1 +1,1 @@
-var mnemonic = "drink flight acid napkin rib scrap clip holiday negative holiday rubber comfort";
+var mnemonic = "license hard jump tent unfold honey shiver edit rhythm expire hood cactus";

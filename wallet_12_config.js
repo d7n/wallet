@@ -1,1 +1,1 @@
-var mnemonic = "tackle hybrid supreme twist pretty mistake breeze cave ski twin begin wife";
+var mnemonic = "jar moment marine demise hotel soldier glove awful combine real clump hip";

@@ -1,1 +1,1 @@
-var mnemonic = "claw fitness squeeze gap weasel eagle gown inherit dance lonely humble grief";
+var mnemonic = "disorder gap table notice manage penalty force paper lecture sauce frequent slam";

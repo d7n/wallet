@@ -1,1 +1,1 @@
-var mnemonic = "ketchup pizza turtle thunder robot eager conduct lock wine hip soon powder";
+var mnemonic = "consider siren endorse play annual deputy fringe kitchen step twenty rhythm pistol";

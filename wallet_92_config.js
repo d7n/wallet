@@ -1,1 +1,1 @@
-var mnemonic = "mail risk refuse page cousin scheme snow unit life peace saddle dizzy";
+var mnemonic = "vessel uniform summer rent puppy extra cabin change absurd will upon loud";

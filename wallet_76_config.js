@@ -1,1 +1,1 @@
-var mnemonic = "wish velvet eight toward dutch entire shed arrive tragic alien tenant resist";
+var mnemonic = "ramp about mechanic frog unusual prevent hundred mammal dune void neither juice";

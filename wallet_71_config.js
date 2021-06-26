@@ -1,1 +1,1 @@
-var mnemonic = "scrub mom grass remind park gun unaware apple abandon silent medal harvest";
+var mnemonic = "marble burden quick elite cupboard donkey roast attack curious merit garage step";

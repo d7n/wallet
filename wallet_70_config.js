@@ -1,1 +1,1 @@
-var mnemonic = "pond blush perfect that member trouble version genre float capable keep real";
+var mnemonic = "chase note truck flip language silver air carpet bundle aerobic chair bean";

@@ -1,1 +1,1 @@
-var mnemonic = "hub train bleak camera level worry supply believe glad sell program close";
+var mnemonic = "virtual loyal buffalo worry october boat curve hero into bid bright believe";

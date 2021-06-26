@@ -1,1 +1,1 @@
-var mnemonic = "submit estate answer unhappy shy uncle march local retire say say utility";
+var mnemonic = "grocery outside invest say narrow payment age badge crime orbit wing short";

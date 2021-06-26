@@ -1,1 +1,1 @@
-var mnemonic = "beauty couch bulb vocal truly pony antique arrow exist dismiss recycle wolf";
+var mnemonic = "fruit apple glare grid race recipe help segment able curtain below coin";

@@ -1,1 +1,1 @@
-var mnemonic = "message funny term crime party gown execute mechanic chef box park execute";
+var mnemonic = "hotel donkey slow indoor trip piano lake drum wrestle tired merry unique";

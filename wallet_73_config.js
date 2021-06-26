@@ -1,1 +1,1 @@
-var mnemonic = "shaft census kingdom poet cradle live derive dial whip insect promote drink";
+var mnemonic = "praise denial morning hammer panel scene reveal because select decide flame chief";

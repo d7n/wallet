@@ -1,1 +1,1 @@
-var mnemonic = "monitor erode cattle volcano remember vocal voyage bitter exchange element laugh napkin";
+var mnemonic = "source smoke joke bicycle stay hollow dice public airport estate today stage";

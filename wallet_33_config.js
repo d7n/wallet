@@ -1,1 +1,1 @@
-var mnemonic = "biology custom spawn vendor head exit crop welcome physical pulse buddy talk";
+var mnemonic = "rail planet crew chef nice age night rescue sunset exit castle decide";

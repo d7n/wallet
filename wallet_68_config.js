@@ -1,1 +1,1 @@
-var mnemonic = "tunnel pass initial give confirm stand balcony peace write small sand control";
+var mnemonic = "real space cruel chaos car distance satoshi letter marble matrix foam catalog";

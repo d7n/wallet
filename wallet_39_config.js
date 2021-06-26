@@ -1,1 +1,1 @@
-var mnemonic = "erode lava scan mechanic similar fabric cheese remove hurry analyst knock galaxy";
+var mnemonic = "traffic tourist tuna ugly add industry orange bullet fluid usual acoustic history";

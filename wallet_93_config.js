@@ -1,1 +1,1 @@
-var mnemonic = "pole antenna blouse clock window doll pull royal viable arm finish boil";
+var mnemonic = "bacon crush pilot goat broom custom armed boost monster silent cover column";

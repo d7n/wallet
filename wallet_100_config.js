@@ -1,1 +1,1 @@
-var mnemonic = "salmon notable sniff vault material west found wash squeeze process sport census";
+var mnemonic = "seed noodle pyramid find question tunnel rifle ancient since follow anchor catch";

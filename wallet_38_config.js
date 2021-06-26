@@ -1,1 +1,1 @@
-var mnemonic = "cake host meat humor use today sick fade anger ostrich observe item";
+var mnemonic = "sock slab fat attack sustain pen primary alpha best bicycle flip useless";

@@ -1,1 +1,1 @@
-var mnemonic = "north firm legal business grit edge crystal bus alcohol session street pledge";
+var mnemonic = "purpose love blur fox crane lamp talk fiscal spread romance deputy fox";

@@ -1,1 +1,1 @@
-var mnemonic = "upset awake daring slow length simple stove tent shield inherit day bitter";
+var mnemonic = "sleep ship bread reject angry village under chicken under news blood option";

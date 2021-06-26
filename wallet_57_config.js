@@ -1,1 +1,1 @@
-var mnemonic = "slice course toilet soft raccoon wear mobile quiz barely sunny agree wet";
+var mnemonic = "invest clarify scrub disease nephew refuse history employ end goat usage assault";

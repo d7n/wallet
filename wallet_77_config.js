@@ -1,1 +1,1 @@
-var mnemonic = "blanket eager fault tool crouch duck message sun betray public knife kiwi";
+var mnemonic = "oyster rural replace easy tag crawl crowd nurse bread tide sound response";

@@ -1,1 +1,1 @@
-var mnemonic = "pride usual curtain jacket region inhale siege better click peanut borrow release";
+var mnemonic = "outside gasp evil bachelor ripple amount real pilot route visit hobby lazy";

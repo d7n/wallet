@@ -1,1 +1,1 @@
-var mnemonic = "fork audit friend release meat omit retreat street cinnamon snow muffin vocal";
+var mnemonic = "merge bleak frost arrive input roast control thank vault tribe farm engage";

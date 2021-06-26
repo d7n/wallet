@@ -1,1 +1,1 @@
-var mnemonic = "option prevent intact resemble scrub trade scissors happy symptom real answer file";
+var mnemonic = "proud educate exclude spawn hundred hospital wagon tilt olive jelly holiday million";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster custom zebra ski phrase market net shrimp gold anger property deal";
+var mnemonic = "stamp album assist where raise bottom lucky safe version term transfer kidney";

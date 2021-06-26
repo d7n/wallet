@@ -1,1 +1,1 @@
-var mnemonic = "swarm sign rib impose rapid onion aware tent joke liberty build tag";
+var mnemonic = "crack more bullet stumble draw subject saddle morning gentle silver render abstract";

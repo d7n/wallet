@@ -1,1 +1,1 @@
-var mnemonic = "fever moment glass shallow day nominee half polar drop circle crime guilt";
+var mnemonic = "visual sun pelican must govern over brief swift pattern slim digital title";

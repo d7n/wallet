@@ -1,1 +1,1 @@
-var mnemonic = "attack disease harvest cram grass enable reunion invest flight slight leave robot";
+var mnemonic = "patch debate glance exit mixed purpose army angry tip engage chalk danger";

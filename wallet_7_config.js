@@ -1,1 +1,1 @@
-var mnemonic = "accident game seed album pear dentist puzzle ranch stadium enemy fog burger";
+var mnemonic = "belt sister faint aisle tackle sustain say tape airport orient reward feature";
