@@ -1,1 +1,1 @@
-var mnemonic = "urban maple piece wing rather patch gentle umbrella salt pulp drastic talent";
+var mnemonic = "butter alley oyster snack cover feature choose evidence truly pluck patch muscle";

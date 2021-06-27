@@ -1,1 +1,1 @@
-var mnemonic = "pony car possible believe whisper cry fog wash mention scissors circle hat";
+var mnemonic = "ivory embark club media truck expire dinner green bulb broken knife general";

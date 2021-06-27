@@ -1,1 +1,1 @@
-var mnemonic = "nest forum airport retreat mother echo salmon hurry black spike once canvas";
+var mnemonic = "fat sail ritual cloud loyal fantasy satisfy have foot member lamp carbon";

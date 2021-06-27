@@ -1,1 +1,1 @@
-var mnemonic = "fun forum club april meat offer mansion mother vicious retire spike trash";
+var mnemonic = "acquire flame tiger already path present galaxy thing feel estate topple moral";

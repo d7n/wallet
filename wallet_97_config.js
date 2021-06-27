@@ -1,1 +1,1 @@
-var mnemonic = "erosion sell hair symptom morning tumble shaft frost local moment width mushroom";
+var mnemonic = "jump useful huge play scrub remember lucky net blanket decorate siege chat";

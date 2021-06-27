@@ -1,1 +1,1 @@
-var mnemonic = "liquid fat toddler round enhance segment apple bulk vacant slogan enter shrug";
+var mnemonic = "hard once tank cabin option antique shiver grace tuition voyage assault female";

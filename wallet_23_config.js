@@ -1,1 +1,1 @@
-var mnemonic = "rail seek twist improve guilt fox tomorrow novel rich series clarify rude";
+var mnemonic = "arrow banner burger unfold distance solar account they sense erase funny play";

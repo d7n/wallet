@@ -1,1 +1,1 @@
-var mnemonic = "reveal stairs worth tent fiscal month dash vague cook tooth box side";
+var mnemonic = "bleak carbon solar cliff boy school cruise horror meat gown sauce only";

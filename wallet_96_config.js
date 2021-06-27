@@ -1,1 +1,1 @@
-var mnemonic = "canal theme observe liquid tunnel festival target despair sugar kiwi mule use";
+var mnemonic = "judge tide fit swing sail boat wrong volume alter kiwi chicken educate";

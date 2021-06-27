@@ -1,1 +1,1 @@
-var mnemonic = "kiwi seek photo month panda endless notable cheese flame good valve midnight";
+var mnemonic = "almost denial grid build tunnel seminar draw choice step warfare universe cup";

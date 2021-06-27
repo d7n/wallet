@@ -1,1 +1,1 @@
-var mnemonic = "fall ticket kangaroo exhaust believe wife volcano goose exile cage pride error";
+var mnemonic = "alpha share tell jelly above office skill office loan twist team churn";

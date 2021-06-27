@@ -1,1 +1,1 @@
-var mnemonic = "crime neither narrow fence thing chief engine worth garbage remember piece scene";
+var mnemonic = "cargo town boil direct bring engine spare air art all oppose pluck";

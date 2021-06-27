@@ -1,1 +1,1 @@
-var mnemonic = "fly little hidden citizen swear youth wild learn dinosaur require culture observe";
+var mnemonic = "sail decide ensure curtain smoke laugh maze cliff lyrics urge muffin clay";

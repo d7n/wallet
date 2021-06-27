@@ -1,1 +1,1 @@
-var mnemonic = "rescue universe coyote celery craft thrive slow crush trash unlock work expand";
+var mnemonic = "narrow firm corn flat capable absurd lend neck kitchen snack lawn stool";

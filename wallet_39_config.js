@@ -1,1 +1,1 @@
-var mnemonic = "shy guess empty merry option butter vocal please sure math render cement";
+var mnemonic = "sunset credit require turtle infant slam priority tool wolf valve glove antenna";

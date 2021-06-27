@@ -1,1 +1,1 @@
-var mnemonic = "eager flower mountain cave swamp steel lunar boost mutual kid able female";
+var mnemonic = "produce evil chief quarter holiday sausage rocket trade space hard novel save";

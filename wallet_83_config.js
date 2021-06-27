@@ -1,1 +1,1 @@
-var mnemonic = "volume goat purchase this lumber mushroom tuna glance expose evolve chunk alcohol";
+var mnemonic = "flash try report fiscal awkward already echo arch common inch sight later";

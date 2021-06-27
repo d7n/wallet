@@ -1,1 +1,1 @@
-var mnemonic = "bar add random dose cave possible great now recall resist blade canvas";
+var mnemonic = "doctor summer retire hospital banner spell frog coach add utility rifle purpose";

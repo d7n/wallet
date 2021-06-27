@@ -1,1 +1,1 @@
-var mnemonic = "carpet crouch vibrant vendor dutch inmate ticket dry weekend maple umbrella artwork";
+var mnemonic = "hobby illegal away hurdle wide teach uphold desk distance system switch speed";

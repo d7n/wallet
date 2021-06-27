@@ -1,1 +1,1 @@
-var mnemonic = "dumb animal crunch hero edge dentist regret foot table knock excite point";
+var mnemonic = "spice sauce obey trade bus timber famous anchor monitor diet place fat";

@@ -1,1 +1,1 @@
-var mnemonic = "hard antenna volume please island regular light wise balcony evolve antique midnight";
+var mnemonic = "mansion absent dizzy more marble essence gauge gravity foam latin carpet chase";

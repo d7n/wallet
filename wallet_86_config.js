@@ -1,1 +1,1 @@
-var mnemonic = "reveal empower truck interest hope shoulder caught prevent daring menu vendor suggest";
+var mnemonic = "faculty camp pencil leaf balance upset wrist program indicate three staff bitter";

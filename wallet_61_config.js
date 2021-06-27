@@ -1,1 +1,1 @@
-var mnemonic = "episode vast memory reason plate despair toy local reject student frozen green";
+var mnemonic = "ability lobster club verify dry crumble sword ancient brother easily cup admit";

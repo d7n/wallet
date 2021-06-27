@@ -1,1 +1,1 @@
-var mnemonic = "loan senior nation husband lens sword attract romance pistol talk pill awkward";
+var mnemonic = "supreme age mammal please upper pigeon behind cream attend shell desk shiver";

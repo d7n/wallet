@@ -1,1 +1,1 @@
-var mnemonic = "praise hip cross blade law pepper bachelor nation robust husband wool blue";
+var mnemonic = "rocket feed journey coin obscure anchor test shock unveil when chuckle other";

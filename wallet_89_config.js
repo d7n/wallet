@@ -1,1 +1,1 @@
-var mnemonic = "element change prevent crumble off walk loan tuna enhance asset island decline";
+var mnemonic = "gadget analyst suspect legal chicken column used reflect public grunt when differ";

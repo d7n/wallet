@@ -1,1 +1,1 @@
-var mnemonic = "warrior jeans unhappy act battle topple alert second vocal stay friend garden";
+var mnemonic = "soldier runway bounce strike village poet spatial soup giraffe concert sign shift";

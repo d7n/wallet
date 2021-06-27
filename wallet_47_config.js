@@ -1,1 +1,1 @@
-var mnemonic = "pretty toilet spike pattern kind blue clock turtle film digital planet exotic";
+var mnemonic = "labor kite swarm best secret buffalo dog rival lift bundle feed double";

@@ -1,1 +1,1 @@
-var mnemonic = "canal rail surface slight disagree outdoor tonight royal wreck unit drink smooth";
+var mnemonic = "bid drill space liberty arrow city dwarf person hover shrimp canyon ranch";

@@ -1,1 +1,1 @@
-var mnemonic = "human salad hawk deal peace clump sniff tilt injury cover front garden";
+var mnemonic = "come random tray sun punch swarm cradle marine shuffle such noodle there";

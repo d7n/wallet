@@ -1,1 +1,1 @@
-var mnemonic = "above tonight inhale process hybrid captain edit belt suspect split vacuum afford";
+var mnemonic = "cherry tortoise harvest reopen cherry suit crime waste price feature adjust barrel";

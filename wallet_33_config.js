@@ -1,1 +1,1 @@
-var mnemonic = "virtual sugar very asthma purse this stem amazing sad fine pyramid era";
+var mnemonic = "song relax youth solution mask material upon insect fantasy before sponsor dawn";

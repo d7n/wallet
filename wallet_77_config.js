@@ -1,1 +1,1 @@
-var mnemonic = "rebuild tide exotic humble shoulder bridge setup output sunny awake ancient kid";
+var mnemonic = "valid denial half shrimp purity ozone raccoon maid frequent wisdom crowd peasant";

@@ -1,1 +1,1 @@
-var mnemonic = "giraffe notice lottery slender frog front pipe setup tribe gadget mix tonight";
+var mnemonic = "enforce shift whisper intact snake oyster topple wild clown slender crime angry";

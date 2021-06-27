@@ -1,1 +1,1 @@
-var mnemonic = "volume grid render web address nominee ocean wage atom among glare warrior";
+var mnemonic = "alley barely spoon grid flower merry brisk canoe physical fragile barrel search";

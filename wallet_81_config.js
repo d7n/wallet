@@ -1,1 +1,1 @@
-var mnemonic = "moral ostrich egg tag song point armor bridge rich lock cloth absurd";
+var mnemonic = "velvet labor ask engine champion favorite above engine sign march crash price";

@@ -1,1 +1,1 @@
-var mnemonic = "sentence boy eye same depend calm isolate erupt client extend bid salon";
+var mnemonic = "catch army erode settle magic lake cancel fly diamond prefer father nominee";

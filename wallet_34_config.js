@@ -1,1 +1,1 @@
-var mnemonic = "under snap limit oblige riot tonight expand roof allow swap absurd toddler";
+var mnemonic = "emotion photo tobacco tide clap hair jaguar marine cigar great another blade";

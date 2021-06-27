@@ -1,1 +1,1 @@
-var mnemonic = "upgrade spice cash warrior arm that long pen draw mercy foster omit";
+var mnemonic = "pistol begin sibling minute ugly solve carbon team buddy push foster win";

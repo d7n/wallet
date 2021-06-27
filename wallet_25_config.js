@@ -1,1 +1,1 @@
-var mnemonic = "scale add awake squirrel biology correct idle hold novel lawsuit outdoor volcano";
+var mnemonic = "thrive review bamboo common gasp occur example rich buddy assault hire weasel";

@@ -1,1 +1,1 @@
-var mnemonic = "kidney object either arrest gas topple walnut seek click emerge sweet undo";
+var mnemonic = "tilt inspire omit abandon odor adapt spirit excess clock mixed asset word";

@@ -1,1 +1,1 @@
-var mnemonic = "vibrant name recycle reason feed much broken black green pudding shoulder page";
+var mnemonic = "rich chest liberty file nose observe box vital match record flavor ridge";

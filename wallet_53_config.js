@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow staff clay cup chalk always shadow mad robot away leg glimpse";
+var mnemonic = "burger stone swear cabbage that rally art survey skill loop neither claw";

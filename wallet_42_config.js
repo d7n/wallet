@@ -1,1 +1,1 @@
-var mnemonic = "shoulder easy dress ocean pool accident pen sleep mule aisle dawn device";
+var mnemonic = "top pact siren orange obey room frame chest update degree gaze story";

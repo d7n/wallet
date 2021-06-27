@@ -1,1 +1,1 @@
-var mnemonic = "cat unveil pupil denial clutch daring powder table federal scheme brain fault";
+var mnemonic = "table timber type staff mixed egg gap village fancy pioneer example blossom";

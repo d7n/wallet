@@ -1,1 +1,1 @@
-var mnemonic = "crop time clay hotel crater myself matrix genuine lamp clown despair task";
+var mnemonic = "thing neutral assault belt measure online undo coffee lecture grain jungle carry";

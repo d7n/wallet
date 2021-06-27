@@ -1,1 +1,1 @@
-var mnemonic = "limit multiply cinnamon pair acid there act message shrimp cruise silver twist";
+var mnemonic = "sponsor type napkin danger riot supply east spell shuffle rural fence dice";

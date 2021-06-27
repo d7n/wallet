@@ -1,1 +1,1 @@
-var mnemonic = "size confirm cotton laugh wedding topple sadness deal car garment glove reward";
+var mnemonic = "situate angry pudding ugly enforce blur dentist chief off glance chair mandate";

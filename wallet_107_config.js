@@ -1,1 +1,1 @@
-var mnemonic = "auto call winter observe tribe release naive patient connect sponsor capable august";
+var mnemonic = "useless pottery alien digital impulse please hazard awkward robust awkward odor flight";

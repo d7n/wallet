@@ -1,1 +1,1 @@
-var mnemonic = "heart tattoo broom seven obtain dilemma minute fence total direct fame increase";
+var mnemonic = "duck odor convince emotion dilemma action famous mercy year mobile glare wish";

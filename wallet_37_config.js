@@ -1,1 +1,1 @@
-var mnemonic = "scrap uncover lift mammal print child credit citizen art pretty ocean ethics";
+var mnemonic = "bitter input long man slam blanket cable unique manual immune chef destroy";

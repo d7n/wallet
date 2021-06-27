@@ -1,1 +1,1 @@
-var mnemonic = "author length depth echo hundred alert huge adapt romance foot absent chat";
+var mnemonic = "lion awake lesson belt reflect rookie good upper mandate crane spike cave";

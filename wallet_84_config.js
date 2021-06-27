@@ -1,1 +1,1 @@
-var mnemonic = "poverty dry impact advice grape core swap exhaust length toy steak athlete";
+var mnemonic = "scissors retreat satoshi penalty cargo horse grit axis trim powder control sponsor";

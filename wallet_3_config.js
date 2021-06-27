@@ -1,1 +1,1 @@
-var mnemonic = "winter february crush giant brush saddle grid december have design supreme water";
+var mnemonic = "canvas flee brown vibrant maple warm popular educate foster soon annual code";

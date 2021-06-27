@@ -1,1 +1,1 @@
-var mnemonic = "story expire funny worry scatter swallow sheriff wagon gather review artwork drift";
+var mnemonic = "there mix advance topic praise jacket crack gift round trumpet noble below";

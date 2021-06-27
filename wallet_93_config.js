@@ -1,1 +1,1 @@
-var mnemonic = "stamp agree laptop lonely buffalo win brisk insane win enhance nest source";
+var mnemonic = "caught raise female detail cliff time donate alien awake exile heavy someone";

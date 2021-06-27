@@ -1,1 +1,1 @@
-var mnemonic = "sunny worth almost casual ill enact noodle portion winter goat check theme";
+var mnemonic = "dilemma good night author road unhappy buyer crack sibling surge session tourist";

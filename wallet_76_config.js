@@ -1,1 +1,1 @@
-var mnemonic = "deliver taxi feature teach dust float fragile climb put echo member surround";
+var mnemonic = "refuse gym abstract remind joy planet size walnut veteran conduct episode wrestle";

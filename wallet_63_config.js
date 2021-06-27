@@ -1,1 +1,1 @@
-var mnemonic = "verify stand palm drop avoid crouch moon lonely frequent wife grace polar";
+var mnemonic = "hub summer repeat moral pave grass abuse fox walnut laundry window yard";

@@ -1,1 +1,1 @@
-var mnemonic = "fortune exist silent artefact hour angry tribe refuse dutch knock oblige cake";
+var mnemonic = "pig sting shoot idea seek very home used merit verb eagle level";

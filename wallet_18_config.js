@@ -1,1 +1,1 @@
-var mnemonic = "thunder develop head river cave ivory fit help increase lens silly pipe";
+var mnemonic = "cabin helmet bench strike fit vague fuel decline leader riot cloth document";

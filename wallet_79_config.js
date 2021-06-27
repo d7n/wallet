@@ -1,1 +1,1 @@
-var mnemonic = "gorilla canyon conduct kitten visual report tiny muffin glance rhythm during milk";
+var mnemonic = "proof person physical tomorrow exist process sad distance frog renew smooth claw";

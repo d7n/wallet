@@ -1,1 +1,1 @@
-var mnemonic = "nasty knife top weekend kind word wing false climb lady kind bleak";
+var mnemonic = "spare vague above educate pull limb produce finger skull breeze spring regret";

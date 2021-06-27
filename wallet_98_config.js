@@ -1,1 +1,1 @@
-var mnemonic = "final flavor cabin else tribe save settle consider robot vehicle bundle large";
+var mnemonic = "time favorite issue ugly bargain flat novel elegant inner pill help obtain";

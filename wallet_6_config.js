@@ -1,1 +1,1 @@
-var mnemonic = "charge spoil sad evidence about ocean subject symbol board grab panel advance";
+var mnemonic = "area decorate first pretty piano muscle wealth leader device bounce pudding dwarf";

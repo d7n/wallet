@@ -1,1 +1,1 @@
-var mnemonic = "onion brain want bag vintage rival delay pencil borrow prevent solution move";
+var mnemonic = "provide dinner situate curious curious weapon worry jaguar visual tip enhance night";

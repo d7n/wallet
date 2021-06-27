@@ -1,1 +1,1 @@
-var mnemonic = "jewel album benefit wasp horror quiz pulp road peanut wild tongue drill";
+var mnemonic = "polar cash pride recycle define wrap change gloom cash armed soap fetch";

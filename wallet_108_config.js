@@ -1,1 +1,1 @@
-var mnemonic = "puzzle ring cigar once easily riot lonely water cannon point universe twice";
+var mnemonic = "test pig tragic erosion believe orphan protect learn sister earth mule hour";

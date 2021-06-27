@@ -1,1 +1,1 @@
-var mnemonic = "stereo north miracle response keen eye candy canal pear battle learn rail";
+var mnemonic = "amateur basket prevent garlic wife theory pool floor speed company public festival";

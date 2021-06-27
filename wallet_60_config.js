@@ -1,1 +1,1 @@
-var mnemonic = "invest tilt heavy deny always joke churn rack mistake promote stick outdoor";
+var mnemonic = "math kiwi melt toddler double toward deny little board jump satoshi argue";

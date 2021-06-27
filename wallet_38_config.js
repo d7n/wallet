@@ -1,1 +1,1 @@
-var mnemonic = "slide pave lecture blouse unknown machine embark since crater quarter genuine distance";
+var mnemonic = "idle swift step pilot miss taxi escape bundle thumb brain primary check";

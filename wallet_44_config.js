@@ -1,1 +1,1 @@
-var mnemonic = "depth quit wagon clock frog spoon name version derive hood pottery keen";
+var mnemonic = "misery cargo achieve normal toss hen pudding disease hurry horn shoulder cake";

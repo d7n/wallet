@@ -1,1 +1,1 @@
-var mnemonic = "plug close better remind replace view social human bamboo barely mother hello";
+var mnemonic = "shell color rich distance stable net shoulder social genre scatter lobster south";

@@ -1,1 +1,1 @@
-var mnemonic = "master sand write ankle rapid vehicle wall job rose sort thank audit";
+var mnemonic = "candy wolf stairs select wage lend young collect sad dash gown apart";

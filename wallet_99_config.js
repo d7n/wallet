@@ -1,1 +1,1 @@
-var mnemonic = "nothing pen night dice demand object position argue royal powder blossom ten";
+var mnemonic = "exercise divert avocado rule mixture romance measure bleak dance charge robot decline";

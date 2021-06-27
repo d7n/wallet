@@ -1,1 +1,1 @@
-var mnemonic = "turn state decade hill brass grab helmet fence donkey fragile poem size";
+var mnemonic = "clog grunt twenty undo mask you syrup barrel job deer cloud runway";

@@ -1,1 +1,1 @@
-var mnemonic = "renew between unaware note jewel goat diet verb embody toward model symptom";
+var mnemonic = "sting noise charge nurse bleak pear seven window divorce cigar scrub level";

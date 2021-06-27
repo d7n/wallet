@@ -1,1 +1,1 @@
-var mnemonic = "sphere hen kiwi margin swamp toss divide cost aerobic galaxy language envelope";
+var mnemonic = "donor coil green family polar clerk cousin wrist relax frequent bless action";

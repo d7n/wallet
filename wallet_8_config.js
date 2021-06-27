@@ -1,1 +1,1 @@
-var mnemonic = "dice theory gasp where sausage drink useless other bracket shoulder double position";
+var mnemonic = "end dumb adapt flight allow join fossil sell punch fever ethics depth";

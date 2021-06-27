@@ -1,1 +1,1 @@
-var mnemonic = "sand crumble lucky crash couple board bounce burst cube model mobile degree";
+var mnemonic = "squirrel danger cotton apart appear skirt scan defy repair ice silent left";

@@ -1,1 +1,1 @@
-var mnemonic = "hobby sausage horse loan permit soap day top unfold calm tag sorry";
+var mnemonic = "mutual private people spot health retreat become coral bus struggle seed gossip";

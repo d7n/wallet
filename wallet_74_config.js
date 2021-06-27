@@ -1,1 +1,1 @@
-var mnemonic = "marble awful edge stove tuition endless taste size good practice armor hammer";
+var mnemonic = "sleep wide melt charge silent ice unit open current immune alcohol salmon";

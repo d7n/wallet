@@ -1,1 +1,1 @@
-var mnemonic = "over invest toast crumble state staff delay diagram combine boat hurdle million";
+var mnemonic = "suit lawsuit already old response bread barely season situate flag satisfy virtual";

@@ -1,1 +1,1 @@
-var mnemonic = "sentence steak country barely dress two view anger thrive delay side tuna";
+var mnemonic = "exotic swarm entire capable hole chronic swim stay unfair input energy barrel";

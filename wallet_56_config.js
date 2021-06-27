@@ -1,1 +1,1 @@
-var mnemonic = "clean reunion produce very robust small guess rule view east lounge glide";
+var mnemonic = "giant ghost atom scrap potato metal start misery wait vapor box govern";

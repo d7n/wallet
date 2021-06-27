@@ -1,1 +1,1 @@
-var mnemonic = "drama accident place blame thumb admit damp believe achieve property bleak castle";
+var mnemonic = "favorite army find series width walnut museum appear shallow cover monster note";

@@ -1,1 +1,1 @@
-var mnemonic = "right people silver evolve biology soup stock century clump use provide approve";
+var mnemonic = "neck rose act wisdom alley actual unaware head tray balance phrase stamp";

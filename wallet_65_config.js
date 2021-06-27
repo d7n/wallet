@@ -1,1 +1,1 @@
-var mnemonic = "fashion crack share drum defense robust boat rebel monkey family echo cost";
+var mnemonic = "dose task system velvet fancy glory suffer brand divorce liquid ridge food";

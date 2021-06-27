@@ -1,1 +1,1 @@
-var mnemonic = "cloud notice hood later mutual maple shoe sibling rude purity chief orbit";
+var mnemonic = "expose mammal office catalog dwarf economy enable loop dizzy balcony magnet film";

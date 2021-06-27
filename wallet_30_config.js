@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog section obvious meadow argue sad small woman hospital insect two quote";
+var mnemonic = "equip snow deliver dune ski audit wrestle glass rain peanut energy divorce";

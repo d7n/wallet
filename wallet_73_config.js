@@ -1,1 +1,1 @@
-var mnemonic = "drive suggest problem brave bronze join between police fiber strike aim insane";
+var mnemonic = "essence produce iron album glance spawn over method viable skate month market";

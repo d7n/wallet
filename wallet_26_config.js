@@ -1,1 +1,1 @@
-var mnemonic = "ugly donor lava urban tide bunker legend atom agent trip spatial media";
+var mnemonic = "choose slogan guide rebuild crucial maximum chimney carry oppose author solution embrace";

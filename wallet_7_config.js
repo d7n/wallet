@@ -1,1 +1,1 @@
-var mnemonic = "become aunt shrug coin menu tent surface flight clutch mad mom front";
+var mnemonic = "salt census rapid draft brown tone author bus move oak modify shoe";

@@ -1,1 +1,1 @@
-var mnemonic = "expose drip rib hard pair quality cat moral pumpkin sure quantum solid";
+var mnemonic = "describe spread trend razor inch fault ghost knock lumber unusual tissue aisle";
