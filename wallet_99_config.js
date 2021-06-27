@@ -1,1 +1,1 @@
-var mnemonic = "neutral mouse tape depart predict stage type upset forget shift require army";
+var mnemonic = "write ecology vivid reunion laptop label engine brisk crystal rail afraid foam";

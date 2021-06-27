@@ -1,1 +1,1 @@
-var mnemonic = "seek fold traffic lawn section mind slogan biology gather erosion faith cheap";
+var mnemonic = "oven cement whale secret kiwi name oak hip pepper stumble owner divorce";

@@ -1,1 +1,1 @@
-var mnemonic = "universe screen world skirt ready portion choose claw provide trial behave belt";
+var mnemonic = "wrong hour cabin loud away solve blush ankle differ endorse deposit harbor";

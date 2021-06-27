@@ -1,1 +1,1 @@
-var mnemonic = "daughter globe vacuum adult sample debris plug collect stock angle wreck cabin";
+var mnemonic = "edit pencil cream rebuild venue situate train glare project truck better total";

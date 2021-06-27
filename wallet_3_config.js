@@ -1,1 +1,1 @@
-var mnemonic = "quit birth stock prosper note lottery cover tower outer awful educate toddler";
+var mnemonic = "minute museum glide push system focus fish price neither urge remain small";

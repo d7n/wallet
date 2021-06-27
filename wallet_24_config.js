@@ -1,1 +1,1 @@
-var mnemonic = "tornado input net salute flip desk dove certain cricket topic laundry pet";
+var mnemonic = "flee jungle offer tag congress tube ticket ahead until cabbage laundry town";

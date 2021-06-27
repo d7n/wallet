@@ -1,1 +1,1 @@
-var mnemonic = "pudding escape kitten degree quality fetch cruise gaze thank exact vague valley";
+var mnemonic = "sound never vintage blind always cause home mystery diet about trick choice";

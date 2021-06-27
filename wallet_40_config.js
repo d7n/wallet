@@ -1,1 +1,1 @@
-var mnemonic = "prosper undo enforce drastic runway pilot clerk mad ticket destroy waste sauce";
+var mnemonic = "wagon major crush radio process talk can jacket fork lumber hire cost";

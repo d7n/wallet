@@ -1,1 +1,1 @@
-var mnemonic = "kidney brush shrug talent slogan chief library major light stool section sustain";
+var mnemonic = "weapon exhaust assume jazz melt treat inhale soft inflict burger universe charge";

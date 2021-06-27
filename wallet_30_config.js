@@ -1,1 +1,1 @@
-var mnemonic = "cave crisp cargo knock offer sudden beach major lounge bomb cannon water";
+var mnemonic = "surround finger tobacco among nut rifle bulb dad dove purchase arrange step";

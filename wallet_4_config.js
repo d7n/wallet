@@ -1,1 +1,1 @@
-var mnemonic = "junk fault area alcohol car where arrange setup pig harbor neither mountain";
+var mnemonic = "pilot cover family chimney victory bacon sign jewel series pelican toilet leader";

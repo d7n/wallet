@@ -1,1 +1,1 @@
-var mnemonic = "relief allow step foam core squeeze basket blast detail help green volcano";
+var mnemonic = "spell area chronic lounge glance acid photo fold tennis much oxygen differ";

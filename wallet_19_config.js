@@ -1,1 +1,1 @@
-var mnemonic = "lemon ball tiny wedding story clinic pig smoke panel mail subject april";
+var mnemonic = "patch session silly crunch immune surface fitness endless ritual carbon pear denial";

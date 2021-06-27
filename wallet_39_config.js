@@ -1,1 +1,1 @@
-var mnemonic = "february young salmon plunge region lemon forest potato keen use lyrics neck";
+var mnemonic = "olive ocean artwork mesh vital skin latin slush sail render because cruel";

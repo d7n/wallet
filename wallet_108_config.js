@@ -1,1 +1,1 @@
-var mnemonic = "sell innocent garment bundle sniff flower modify culture drive divide common render";
+var mnemonic = "fence hundred polar upon adult present thing shrug area crane snow essay";

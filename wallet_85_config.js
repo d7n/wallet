@@ -1,1 +1,1 @@
-var mnemonic = "hub ten cactus limit rib lawsuit face ripple cable oblige hurt dirt";
+var mnemonic = "athlete armor true rug embrace main champion wire donkey success carry note";

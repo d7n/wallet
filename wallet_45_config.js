@@ -1,1 +1,1 @@
-var mnemonic = "exchange used code strong mouse solve festival daughter whip huge size ugly";
+var mnemonic = "chimney same adjust slide orbit garage segment bacon three twenty bomb name";

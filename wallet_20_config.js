@@ -1,1 +1,1 @@
-var mnemonic = "pulp tennis obey art problem volcano club quality first purity design gun";
+var mnemonic = "concert permit chief pitch upgrade soda lava robot floor chest insect puppy";

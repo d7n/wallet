@@ -1,1 +1,1 @@
-var mnemonic = "south noodle devote pyramid phrase abstract nominee sweet recipe actor mind floor";
+var mnemonic = "category tackle indoor immense wrong canyon moment grace pyramid ritual diary enable";

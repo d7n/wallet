@@ -1,1 +1,1 @@
-var mnemonic = "zero farm any faint ignore unveil accuse symptom sphere since electric example";
+var mnemonic = "fever broccoli model room dilemma doctor prefer midnight slot stove chat lucky";

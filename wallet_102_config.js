@@ -1,1 +1,1 @@
-var mnemonic = "duck priority uniform vague reject smooth animal law stool adapt state impact";
+var mnemonic = "sense asthma scrap sport ahead expose clever left black protect laundry inject";

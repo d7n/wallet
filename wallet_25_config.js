@@ -1,1 +1,1 @@
-var mnemonic = "enough battle infant tennis churn spice upgrade ugly pause hidden little story";
+var mnemonic = "draft master shift coconut hammer image detail rather scene soul garden need";

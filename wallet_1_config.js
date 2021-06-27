@@ -1,1 +1,1 @@
-var mnemonic = "carbon cupboard matter exist alpha ride expect boil second level custom transfer";
+var mnemonic = "item ready record chef knee across people apple lock forum west debate";

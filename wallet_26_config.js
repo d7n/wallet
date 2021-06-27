@@ -1,1 +1,1 @@
-var mnemonic = "figure decide wrong vivid wolf floor leaf vacuum icon school wash click";
+var mnemonic = "pattern estate kingdom receive enable flavor such aunt pretty second dad chuckle";

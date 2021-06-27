@@ -1,1 +1,1 @@
-var mnemonic = "exercise meadow chase crumble raw enough next defense spawn broom proof december";
+var mnemonic = "harbor despair swarm hobby inform rely anchor fat concert grief bronze wheat";

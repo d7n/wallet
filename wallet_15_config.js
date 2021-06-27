@@ -1,1 +1,1 @@
-var mnemonic = "baby title track knife annual breeze click hospital edit robust dice govern";
+var mnemonic = "monkey alcohol upper sphere boy fade season enlist hockey protect quote indoor";

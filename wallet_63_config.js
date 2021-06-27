@@ -1,1 +1,1 @@
-var mnemonic = "awful stock arrive fish ozone music brick reduce announce leisure olive unique";
+var mnemonic = "bonus twin again embark slogan blush accident chronic happy unable rough shaft";

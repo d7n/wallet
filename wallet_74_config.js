@@ -1,1 +1,1 @@
-var mnemonic = "duck game party defy hen water annual spell lend best couch embody";
+var mnemonic = "civil door urban banner axis tent welcome ahead unique blouse silver filter";

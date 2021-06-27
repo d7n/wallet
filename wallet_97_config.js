@@ -1,1 +1,1 @@
-var mnemonic = "slight fit badge false escape sample reveal cliff pulse buffalo penalty electric";
+var mnemonic = "bottom rail call luggage horn learn miss fuel reward lift mom physical";

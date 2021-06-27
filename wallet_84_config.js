@@ -1,1 +1,1 @@
-var mnemonic = "obey heart prize afford melody ski april depart destroy misery element supply";
+var mnemonic = "kingdom spare funny eye recycle obscure wear purity borrow power hole brief";

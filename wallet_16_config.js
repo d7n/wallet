@@ -1,1 +1,1 @@
-var mnemonic = "canal scout order check today bamboo piano topple cloth kidney fruit oven";
+var mnemonic = "game body abandon hello faculty dog demand extend squeeze food lesson city";

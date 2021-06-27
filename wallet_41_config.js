@@ -1,1 +1,1 @@
-var mnemonic = "cable clock trim myth pioneer news first small uncle cry where correct";
+var mnemonic = "dirt spy barrel whisper gym solution dune opinion cup exit crater valid";

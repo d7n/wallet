@@ -1,1 +1,1 @@
-var mnemonic = "welcome behind wasp broccoli invite kiss giraffe waste reward patient color purity";
+var mnemonic = "female tail hurt thumb photo time call snack sign seminar print october";

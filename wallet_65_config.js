@@ -1,1 +1,1 @@
-var mnemonic = "blood abandon knife merry museum effort sick unveil skull peasant rice planet";
+var mnemonic = "grief laptop correct guard great sweet cart acquire mule poet any situate";

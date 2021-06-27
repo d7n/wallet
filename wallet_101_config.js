@@ -1,1 +1,1 @@
-var mnemonic = "arm wreck home near slot exchange mention bulb ski deny popular nut";
+var mnemonic = "earth trial noble total payment melody enforce heart dose goose purity wagon";

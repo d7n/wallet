@@ -1,1 +1,1 @@
-var mnemonic = "pilot joy cluster blouse pulse smooth skirt garbage excite fee palm educate";
+var mnemonic = "gravity tip blind danger cube walnut approve double bird shoulder tooth spy";

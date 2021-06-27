@@ -1,1 +1,1 @@
-var mnemonic = "share section toe apple slice parade calm dry warm melt trend camp";
+var mnemonic = "spin toilet version cup beyond stuff oval monitor zebra style index diamond";

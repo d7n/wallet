@@ -1,1 +1,1 @@
-var mnemonic = "lion apple error hospital rally salute banana kit reform physical glide motion";
+var mnemonic = "bleak boy digital belt diary outer useless tuition turkey minute cram poem";

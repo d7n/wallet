@@ -1,1 +1,1 @@
-var mnemonic = "million wait renew milk web broken piece poverty total better metal also";
+var mnemonic = "mimic jealous favorite faculty desert high dwarf window thumb make property stomach";

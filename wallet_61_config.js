@@ -1,1 +1,1 @@
-var mnemonic = "catch merge arrange purpose carbon secret shield noble funny carry world muffin";
+var mnemonic = "bar toward suggest error popular pole card observe glide rookie drive occur";

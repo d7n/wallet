@@ -1,1 +1,1 @@
-var mnemonic = "tiny disorder husband action light voyage slab axis inflict level remind artist";
+var mnemonic = "keen betray oblige foot avocado three snake horn owner someone bamboo popular";

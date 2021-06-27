@@ -1,1 +1,1 @@
-var mnemonic = "diagram crash vintage harbor image strong clever captain join badge chunk word";
+var mnemonic = "cause list uniform decrease cost black unveil jazz image flag depth lecture";

@@ -1,1 +1,1 @@
-var mnemonic = "bus slush indicate utility snow express trust cotton tell half pill put";
+var mnemonic = "duck ginger story jelly must gaze admit pistol roof paddle nose spare";

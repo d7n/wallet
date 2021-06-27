@@ -1,1 +1,1 @@
-var mnemonic = "check own stand dirt shock merge prosper luxury room horror retire avocado";
+var mnemonic = "identify turtle strong possible clap bunker pluck final letter green large brand";

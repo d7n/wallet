@@ -1,1 +1,1 @@
-var mnemonic = "question cruise canoe analyst mixture swim achieve shield blind sketch project begin";
+var mnemonic = "frequent own any merit liberty rely good turkey travel crash cupboard between";

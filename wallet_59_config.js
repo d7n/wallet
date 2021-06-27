@@ -1,1 +1,1 @@
-var mnemonic = "raven vote round staff local shine casual various admit price series large";
+var mnemonic = "sausage tobacco attract album giant season noble fiscal alert change friend surprise";

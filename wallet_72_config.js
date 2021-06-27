@@ -1,1 +1,1 @@
-var mnemonic = "blur shy carbon very fall jacket civil tortoise man wool more teach";
+var mnemonic = "nest suggest own play roast buddy unaware black clever syrup midnight gate";

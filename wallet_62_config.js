@@ -1,1 +1,1 @@
-var mnemonic = "very glue obvious reveal raise siren cup cluster mango easily drum practice";
+var mnemonic = "demand grief guilt invite charge run you merge sweet erosion note insane";

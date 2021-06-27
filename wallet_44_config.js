@@ -1,1 +1,1 @@
-var mnemonic = "carry napkin walnut fancy target year twenty benefit random flavor access valve";
+var mnemonic = "idle grab merit find pear now globe profit mix pact express reopen";

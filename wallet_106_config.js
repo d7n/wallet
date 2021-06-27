@@ -1,1 +1,1 @@
-var mnemonic = "sweet fitness use payment owner call rebel fee have brother twenty pelican";
+var mnemonic = "enact illness quarter day hub fork emerge often battle include good weapon";

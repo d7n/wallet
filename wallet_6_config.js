@@ -1,1 +1,1 @@
-var mnemonic = "supreme accident brick injury review grid panther dance hurry recycle call mixture";
+var mnemonic = "hammer box across assault winner tomorrow where reveal oblige primary oxygen attend";

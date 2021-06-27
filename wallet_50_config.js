@@ -1,1 +1,1 @@
-var mnemonic = "child frame fan drop cream emerge access mad reject goose street question";
+var mnemonic = "above armor sign dutch seminar loan tissue holiday happy write album zero";

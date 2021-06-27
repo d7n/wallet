@@ -1,1 +1,1 @@
-var mnemonic = "inmate tired solid claim nephew bridge garbage figure verb ridge rookie answer";
+var mnemonic = "any pelican engine typical crystal soul tortoise describe unusual switch impose virus";

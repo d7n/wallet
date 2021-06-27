@@ -1,1 +1,1 @@
-var mnemonic = "toy image bag this stadium village noble wish summer case reunion burden";
+var mnemonic = "course media area random carbon thank mystery pen satoshi balance muscle cash";

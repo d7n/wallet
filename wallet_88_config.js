@@ -1,1 +1,1 @@
-var mnemonic = "exercise lottery virtual huge smoke diesel connect torch uniform abandon copy purpose";
+var mnemonic = "green dish describe round price upon field uncover bread galaxy thought ivory";

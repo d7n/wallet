@@ -1,1 +1,1 @@
-var mnemonic = "memory border impulse bulk symbol maple bitter exotic blossom abandon plug rib";
+var mnemonic = "oval rookie bread pet torch mass offer collect ordinary twice length proof";

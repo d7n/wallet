@@ -1,1 +1,1 @@
-var mnemonic = "illegal earth busy armed concert salute wagon cream drama girl direct hobby";
+var mnemonic = "name renew original double amount draft balcony salon icon memory govern pilot";

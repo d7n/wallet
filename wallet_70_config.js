@@ -1,1 +1,1 @@
-var mnemonic = "beyond once moment end grunt siren rose lend bonus gather peasant grocery";
+var mnemonic = "country donate laugh awful enhance toe tape armor crumble two title style";

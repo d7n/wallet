@@ -1,1 +1,1 @@
-var mnemonic = "rotate disagree eternal south fiber thumb buyer glory exotic buddy electric minute";
+var mnemonic = "gas bid also industry spot into amazing adjust beef demand dance doll";

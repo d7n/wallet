@@ -1,1 +1,1 @@
-var mnemonic = "obey puppy small bag abuse left orient photo clinic cabin salt flock";
+var mnemonic = "uniform raccoon glance wing start spend cement gossip panic useful apology notice";

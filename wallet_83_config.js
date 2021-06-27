@@ -1,1 +1,1 @@
-var mnemonic = "science butter arrow business elegant plate doctor require inject velvet unfold tackle";
+var mnemonic = "volume clump whale inch figure popular doctor planet fuel equip carry debate";

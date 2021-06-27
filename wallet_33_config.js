@@ -1,1 +1,1 @@
-var mnemonic = "hover family case summer test legend use loyal scissors shrug mountain whip";
+var mnemonic = "company vocal spawn cloud asthma hope render pluck scrap grunt off devote";

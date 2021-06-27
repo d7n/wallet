@@ -1,1 +1,1 @@
-var mnemonic = "tunnel gauge liquid hope dose edit because hockey captain buddy achieve rack";
+var mnemonic = "grocery next early result gate vacuum fatigue common cattle play only wire";

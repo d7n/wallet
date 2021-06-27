@@ -1,1 +1,1 @@
-var mnemonic = "inspire horn love firm because reward indicate annual chalk focus myth sort";
+var mnemonic = "absurd elbow mobile hold bar neutral spring royal tongue valve pledge race";

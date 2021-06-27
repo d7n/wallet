@@ -1,1 +1,1 @@
-var mnemonic = "oppose chapter spoil dinosaur attack payment float quality lava traffic monkey skin";
+var mnemonic = "afraid shed utility tank useless runway comic razor laundry abstract hidden scissors";

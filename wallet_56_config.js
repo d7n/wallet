@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur candy primary evoke curtain arrow until random fit snack pudding file";
+var mnemonic = "badge rice sleep right elevator quality grit fork dizzy helmet true ill";

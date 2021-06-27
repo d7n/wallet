@@ -1,1 +1,1 @@
-var mnemonic = "alone useful swallow luxury drink brand rack tissue truly trophy dignity face";
+var mnemonic = "potato athlete point shine monster section giggle phone core timber quantum outdoor";

@@ -1,1 +1,1 @@
-var mnemonic = "modify allow word flock wool razor yellow page focus boat increase bread";
+var mnemonic = "one sting rude limb work tennis side body dinner water carry ridge";

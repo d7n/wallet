@@ -1,1 +1,1 @@
-var mnemonic = "lobster expand kit lecture view wink giraffe taxi universe hub beyond clog";
+var mnemonic = "excuse judge junk novel often flee kick drink push uncover convince chalk";

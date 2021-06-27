@@ -1,1 +1,1 @@
-var mnemonic = "hidden twenty must summer squeeze pistol shell element food make opera damage";
+var mnemonic = "ordinary rain chief rich exile certain laptop face begin much analyst auction";

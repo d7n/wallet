@@ -1,1 +1,1 @@
-var mnemonic = "glare orient chunk donate purse clinic chair pull also finger alarm word";
+var mnemonic = "merge term congress elevator taxi online knock city snap file absent left";

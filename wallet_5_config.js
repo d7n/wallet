@@ -1,1 +1,1 @@
-var mnemonic = "search clinic tribe galaxy aisle woman lawn coil soda speak wine film";
+var mnemonic = "clerk mandate era thrive other tackle wonder outside inside celery soldier clerk";

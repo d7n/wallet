@@ -1,1 +1,1 @@
-var mnemonic = "sunset payment surface boost evil seed attack change symbol danger buyer during";
+var mnemonic = "emotion dance sport manage october monster success indicate target clever attend nest";

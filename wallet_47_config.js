@@ -1,1 +1,1 @@
-var mnemonic = "promote taxi bless venue okay sibling october jewel script metal include crunch";
+var mnemonic = "dawn bird miracle round jaguar envelope lonely urban tattoo convince news margin";

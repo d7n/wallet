@@ -1,1 +1,1 @@
-var mnemonic = "coin mind infant tube dust mixture marine dose praise destroy hawk scout";
+var mnemonic = "shell valid robust mesh salon tourist purchase forget hazard welcome try inform";

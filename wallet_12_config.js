@@ -1,1 +1,1 @@
-var mnemonic = "crouch silk box pill business orient early hen fine column stamp above";
+var mnemonic = "defense travel else garage solve accuse lemon alcohol segment they lion project";

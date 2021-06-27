@@ -1,1 +1,1 @@
-var mnemonic = "rebel grit gift column spray world cake anxiety kitchen dismiss table resemble";
+var mnemonic = "supply learn excite exotic draft trial analyst step congress carry reject sausage";

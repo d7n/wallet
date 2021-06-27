@@ -1,1 +1,1 @@
-var mnemonic = "razor slush dash urban symptom foot book betray vote fame gift negative";
+var mnemonic = "young dynamic evil over hockey stairs blanket join depart vapor mask potato";

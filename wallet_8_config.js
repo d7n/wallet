@@ -1,1 +1,1 @@
-var mnemonic = "excess weird agent axis head digital minute liberty dragon enrich mystery sibling";
+var mnemonic = "muffin reform identify essay alpha giggle load advance print rain polar assault";

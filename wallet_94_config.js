@@ -1,1 +1,1 @@
-var mnemonic = "cruise taxi scene gift marriage boost cluster jacket marine abuse scale idea";
+var mnemonic = "net patrol bunker exist affair monkey expire network hold habit walk album";

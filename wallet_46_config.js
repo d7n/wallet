@@ -1,1 +1,1 @@
-var mnemonic = "orange faculty series exile witness below crucial expand word picnic tip wonder";
+var mnemonic = "decorate whip cousin heavy digital myth recycle switch dignity tumble relief divorce";

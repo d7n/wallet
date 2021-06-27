@@ -1,1 +1,1 @@
-var mnemonic = "enemy morning decide scatter coil pulse layer eight country mobile duty inspire";
+var mnemonic = "tomato frozen opera saddle people excuse exotic network make tell dad punch";

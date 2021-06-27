@@ -1,1 +1,1 @@
-var mnemonic = "token boil corn digital sell cannon potato will mistake deliver wing dog";
+var mnemonic = "fold visit then round note athlete boost river flat very guard stomach";

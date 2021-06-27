@@ -1,1 +1,1 @@
-var mnemonic = "pact jacket leg upper butter organ strike illness trigger urge swing want";
+var mnemonic = "bonus toss aspect scan pitch title friend fog view job swarm wood";

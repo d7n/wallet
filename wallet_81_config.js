@@ -1,1 +1,1 @@
-var mnemonic = "pave panda embark loyal pepper address month truth unable busy mouse table";
+var mnemonic = "weapon boy tail motion lift section exact column credit hammer jeans thumb";

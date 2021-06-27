@@ -1,1 +1,1 @@
-var mnemonic = "old poet link kick noodle bone wear symbol occur axis issue struggle";
+var mnemonic = "clock plate ramp else admit deputy slim talk tongue soft green soda";
