@@ -1,1 +1,1 @@
-var mnemonic = "satisfy chase property leader shine drastic tuna fiber shallow error room stone";
+var mnemonic = "kingdom hole loop runway sort polar grow fury foil permit banana sniff";

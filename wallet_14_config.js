@@ -1,1 +1,1 @@
-var mnemonic = "example baby clever document roof happy choose cheap hard prepare grit urban";
+var mnemonic = "renew rigid round news dove enjoy blush friend caution wait slice conduct";

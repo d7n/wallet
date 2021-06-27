@@ -1,1 +1,1 @@
-var mnemonic = "orphan solid silk sea canal educate ordinary quality any invest crane embrace";
+var mnemonic = "genuine stuff destroy chair knife novel damp bamboo wish essay company impose";

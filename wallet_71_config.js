@@ -1,1 +1,1 @@
-var mnemonic = "orchard milk electric asset great cement try sail exotic smoke vanish stay";
+var mnemonic = "tongue proud net banana escape silk action chalk catalog lamp drum mixture";

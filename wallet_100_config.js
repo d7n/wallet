@@ -1,1 +1,1 @@
-var mnemonic = "only truly knee food warfare drill rich close foam code snack accident";
+var mnemonic = "pull rotate toward acid season ability pause taxi tomorrow tissue behind venue";

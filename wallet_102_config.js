@@ -1,1 +1,1 @@
-var mnemonic = "century birth stone drive better asthma actress dice garbage smart doll model";
+var mnemonic = "lab rubber wait tourist render belt wave slide grow voyage certain immense";

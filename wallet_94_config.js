@@ -1,1 +1,1 @@
-var mnemonic = "sample poem nuclear system modify soul potato resist dress auction picnic case";
+var mnemonic = "tired basic deny switch base swamp arena attend outside fever must sunset";

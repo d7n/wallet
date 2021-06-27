@@ -1,1 +1,1 @@
-var mnemonic = "steak awake matter essay menu flip fantasy badge during street stone barrel";
+var mnemonic = "soon poem journey gossip grit dilemma child rubber wolf gorilla cereal shoot";

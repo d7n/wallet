@@ -1,1 +1,1 @@
-var mnemonic = "trap trial script object print achieve accident noble kid pizza now air";
+var mnemonic = "another curious pulp dad corn food token glad helmet elite snap danger";

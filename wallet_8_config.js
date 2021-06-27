@@ -1,1 +1,1 @@
-var mnemonic = "equip grief false verify disease unlock fruit venue envelope visual grain category";
+var mnemonic = "soft mouse borrow body predict hint fatigue seat car away pitch crouch";

@@ -1,1 +1,1 @@
-var mnemonic = "tomato history will awkward trend cliff someone cement athlete attract champion castle";
+var mnemonic = "girl tail horn require typical celery swamp champion fence guard manual morning";

@@ -1,1 +1,1 @@
-var mnemonic = "gallery black truck sugar torch dance sense give ski post truth into";
+var mnemonic = "purity enroll swing shell sweet fresh elbow sight diesel damp snack mobile";

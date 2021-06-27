@@ -1,1 +1,1 @@
-var mnemonic = "skirt judge judge arrow average engage equip scatter coconut piano nothing ability";
+var mnemonic = "real throw earth despair silk spawn month hurdle cash next delay holiday";

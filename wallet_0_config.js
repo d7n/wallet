@@ -1,1 +1,1 @@
-var mnemonic = "note napkin citizen top track demise under catch spy practice drop little";
+var mnemonic = "guilt exotic wash project lady shrug advice oval castle limit canoe dragon";

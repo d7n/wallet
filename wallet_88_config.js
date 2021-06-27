@@ -1,1 +1,1 @@
-var mnemonic = "excuse rhythm enforce execute someone direct video leader judge blue margin abandon";
+var mnemonic = "decorate either dawn future want hawk reduce fiction firm seed clever other";

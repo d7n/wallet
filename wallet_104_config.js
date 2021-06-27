@@ -1,1 +1,1 @@
-var mnemonic = "winner magnet limb client green liberty patient food fossil barrel indoor museum";
+var mnemonic = "december lazy shiver promote enhance pull enrich have float memory act record";

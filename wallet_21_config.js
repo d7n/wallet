@@ -1,1 +1,1 @@
-var mnemonic = "evoke toilet embrace item civil dry subject festival verb kick demand same";
+var mnemonic = "vivid delay almost city olympic math distance account genuine general banner february";

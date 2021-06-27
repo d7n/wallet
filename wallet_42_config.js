@@ -1,1 +1,1 @@
-var mnemonic = "keen raccoon prosper divorce chuckle urge broom glory dash radio suffer pride";
+var mnemonic = "flower nest piano video long enact miss scheme rally april broken capable";

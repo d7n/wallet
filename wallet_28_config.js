@@ -1,1 +1,1 @@
-var mnemonic = "image elevator credit whisper margin buzz luxury portion special bounce flight panther";
+var mnemonic = "rent scissors twist soon lake peace hunt final fan usual news minimum";

@@ -1,1 +1,1 @@
-var mnemonic = "option inject fury card chaos pudding limit evoke run round normal forget";
+var mnemonic = "educate sniff green tray weird insane join reform clarify train timber melt";

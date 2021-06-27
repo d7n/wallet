@@ -1,1 +1,1 @@
-var mnemonic = "elephant heavy tool shaft vote raccoon seat vacuum hedgehog spike nature talent";
+var mnemonic = "affair useful stable outside brave proud throw rude oval burger combine side";

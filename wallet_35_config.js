@@ -1,1 +1,1 @@
-var mnemonic = "busy pulp correct suspect axis fit liar indicate slice idea soda school";
+var mnemonic = "laundry today total tip anxiety tribe truly all guess banner burst group";

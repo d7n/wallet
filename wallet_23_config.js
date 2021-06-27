@@ -1,1 +1,1 @@
-var mnemonic = "ensure galaxy soft slow cigar mansion hint alien fit dentist behind vocal";
+var mnemonic = "zoo sauce grit hundred sword junior solar brick twenty bus once churn";

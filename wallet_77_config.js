@@ -1,1 +1,1 @@
-var mnemonic = "divorce laundry oak one ill soldier violin trust park cruise indicate thought";
+var mnemonic = "rent bag canyon leave lesson symptom dress secret motion nothing flat category";

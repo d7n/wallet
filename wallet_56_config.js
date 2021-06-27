@@ -1,1 +1,1 @@
-var mnemonic = "sauce frozen young pulse before eternal cause merge exhaust dynamic cement squeeze";
+var mnemonic = "oyster artist usual rebuild license repair affair unlock trial panic guilt harvest";

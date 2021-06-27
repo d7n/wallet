@@ -1,1 +1,1 @@
-var mnemonic = "obvious animal rally rescue shoe ability tray advice voyage melt glad oil";
+var mnemonic = "laugh spray ginger chimney claim avoid race clap trap salmon leaf someone";

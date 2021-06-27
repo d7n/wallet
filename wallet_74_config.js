@@ -1,1 +1,1 @@
-var mnemonic = "orbit federal chicken choice burden pen fragile labor female refuse oyster unveil";
+var mnemonic = "debate elephant float winner bread basic found boil guard car habit jeans";

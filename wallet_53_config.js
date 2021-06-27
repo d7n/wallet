@@ -1,1 +1,1 @@
-var mnemonic = "giraffe check ability beyond exhaust will south cry cereal method feed fun";
+var mnemonic = "category chest design shallow forum horror story expect pepper coyote layer fly";

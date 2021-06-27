@@ -1,1 +1,1 @@
-var mnemonic = "renew enlist sense trade pill curve transfer chair gesture frame cage unlock";
+var mnemonic = "cereal monkey solve predict front real blossom blood half cereal hammer poverty";

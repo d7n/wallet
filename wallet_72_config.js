@@ -1,1 +1,1 @@
-var mnemonic = "earth unfair palace catch eye like bundle fever behind keep curve main";
+var mnemonic = "cinnamon dad rescue weapon interest armed helmet protect glove exile exchange course";

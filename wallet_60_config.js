@@ -1,1 +1,1 @@
-var mnemonic = "nature certain sketch slush hill caution vendor burden joke sustain brush twenty";
+var mnemonic = "oven ability million medal glad pioneer object addict hen valid person victory";

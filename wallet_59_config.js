@@ -1,1 +1,1 @@
-var mnemonic = "coconut prefer tube into enforce biology young whale drop spider cat drastic";
+var mnemonic = "topic favorite casino nut undo ozone clerk vacant sure inner era uphold";

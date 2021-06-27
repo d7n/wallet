@@ -1,1 +1,1 @@
-var mnemonic = "swarm primary draw paper top rebuild spatial miracle phrase hood hundred today";
+var mnemonic = "tuition negative photo kingdom ship valve search picnic file gauge ocean muscle";

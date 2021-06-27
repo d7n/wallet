@@ -1,1 +1,1 @@
-var mnemonic = "clerk focus mouse junior twin jaguar improve opera girl swamp pumpkin shadow";
+var mnemonic = "struggle year real february issue glue giggle rain movie frost venue shock";

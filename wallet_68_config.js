@@ -1,1 +1,1 @@
-var mnemonic = "soap photo topple fortune hurdle bag common april limb relief spider swap";
+var mnemonic = "lava rate frog merit depend box stumble magnet box poverty title hybrid";

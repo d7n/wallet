@@ -1,1 +1,1 @@
-var mnemonic = "syrup apology rapid chief cross lunar dentist shed outdoor omit film cereal";
+var mnemonic = "sauce leopard come run type alley teach hub panther cost unhappy mind";

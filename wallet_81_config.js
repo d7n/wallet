@@ -1,1 +1,1 @@
-var mnemonic = "six urge much people rocket normal husband awkward lizard they candy you";
+var mnemonic = "icon unfold super color gorilla glory pear wool believe pretty ancient runway";

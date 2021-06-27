@@ -1,1 +1,1 @@
-var mnemonic = "shiver animal stuff demand endorse sure drink can gasp match step kiwi";
+var mnemonic = "hero boil humble upon tone token human lift bring this shell upgrade";

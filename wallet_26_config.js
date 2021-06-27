@@ -1,1 +1,1 @@
-var mnemonic = "two fault satoshi bacon head creek witness attend grain length observe road";
+var mnemonic = "sight emotion meadow over decide typical boring toss clap chuckle dizzy draft";

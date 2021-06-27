@@ -1,1 +1,1 @@
-var mnemonic = "text copper milk magnet circle taste chunk bench left trust route february";
+var mnemonic = "vibrant jungle wall resist market inner illegal margin busy roof thank identify";

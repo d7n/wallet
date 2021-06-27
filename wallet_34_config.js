@@ -1,1 +1,1 @@
-var mnemonic = "dirt blush planet gown hint three friend pulp foot chest section saddle";
+var mnemonic = "copy sting unable wine result goat common allow all wood industry warrior";

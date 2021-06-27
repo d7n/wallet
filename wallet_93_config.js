@@ -1,1 +1,1 @@
-var mnemonic = "wrap cradle bottom nothing grid inform once limit door notice family enrich";
+var mnemonic = "orbit trash six toast elegant mimic give air stairs spot zoo pear";

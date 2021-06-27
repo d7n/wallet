@@ -1,1 +1,1 @@
-var mnemonic = "month vital wrap promote latin adjust sand unique turn essence pepper sugar";
+var mnemonic = "arm room rifle hungry yellow blouse over load destroy praise slush priority";

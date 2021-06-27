@@ -1,1 +1,1 @@
-var mnemonic = "together spike wood mobile finish artwork cushion hobby upon envelope alert enable";
+var mnemonic = "pass swallow admit nice eight royal mixed link session pill symbol exchange";

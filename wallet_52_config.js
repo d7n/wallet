@@ -1,1 +1,1 @@
-var mnemonic = "glow square hour captain crush gentle solid ankle educate jungle again green";
+var mnemonic = "praise main detail tunnel trick tooth else accident when erosion peace kit";

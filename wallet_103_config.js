@@ -1,1 +1,1 @@
-var mnemonic = "chat bridge found dirt reason lunch shield guide awesome orbit vivid turkey";
+var mnemonic = "have hurt timber similar unable car vapor auto crucial grunt neglect spare";

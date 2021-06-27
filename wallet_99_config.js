@@ -1,1 +1,1 @@
-var mnemonic = "doll fun switch spell dinner pet favorite index enter prepare guard confirm";
+var mnemonic = "edit wrist civil collect mansion asthma device ensure husband square mouse describe";

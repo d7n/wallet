@@ -1,1 +1,1 @@
-var mnemonic = "build tip edge away air emotion badge peace vibrant together autumn recipe";
+var mnemonic = "bike castle drop market mesh quick crouch twist gentle penalty camera faith";

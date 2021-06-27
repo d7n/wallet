@@ -1,1 +1,1 @@
-var mnemonic = "rhythm arrange point lawsuit tooth barely stock pencil dose raven fatigue oyster";
+var mnemonic = "capable pencil shine off hidden canyon boil entry skin armor power spell";

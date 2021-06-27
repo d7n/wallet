@@ -1,1 +1,1 @@
-var mnemonic = "adult track city session piano alien lamp cabbage under live abstract ranch";
+var mnemonic = "cancel muscle birth will sentence blood strategy enjoy device execute rather purse";

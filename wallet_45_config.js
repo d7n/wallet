@@ -1,1 +1,1 @@
-var mnemonic = "anchor cousin narrow awesome fence electric daring engine coach wing marine morning";
+var mnemonic = "globe govern utility arctic exercise total coil total mandate rookie affair change";

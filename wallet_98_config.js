@@ -1,1 +1,1 @@
-var mnemonic = "afford owner island space update festival electric arrest toast please pass enact";
+var mnemonic = "puzzle hub unveil return team gorilla grit aspect offer economy fury edge";

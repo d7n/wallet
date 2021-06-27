@@ -1,1 +1,1 @@
-var mnemonic = "soccer burden bag gun lend soap lunar pair dad seek luxury dentist";
+var mnemonic = "grocery identify uniform odor stem foot nut soap naive metal artefact pigeon";

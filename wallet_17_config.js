@@ -1,1 +1,1 @@
-var mnemonic = "fancy light engine group rent rebuild man first silent tree bitter quit";
+var mnemonic = "label ring kangaroo jacket remember similar resemble aspect face steel combine topic";

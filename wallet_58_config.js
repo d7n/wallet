@@ -1,1 +1,1 @@
-var mnemonic = "autumn real panel lounge olympic father among fix shaft draw face reform";
+var mnemonic = "spare green economy best provide inflict prefer oyster turkey ceiling diamond raise";

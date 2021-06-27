@@ -1,1 +1,1 @@
-var mnemonic = "vast music news match jar crane cruise category thumb riot fish staff";
+var mnemonic = "obvious fantasy gloom industry beef spirit mad rapid cat afford side shiver";

@@ -1,1 +1,1 @@
-var mnemonic = "prepare produce admit artefact bid spice device wisdom lecture tube gospel cactus";
+var mnemonic = "range era border clown seat funny remind tone horror slender grid goddess";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber liberty social local coconut cousin soda icon vacant moment member robot";
+var mnemonic = "vintage street rain tomato sadness feel tongue practice fiction float mountain fancy";

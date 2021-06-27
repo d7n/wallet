@@ -1,1 +1,1 @@
-var mnemonic = "satoshi club spatial vibrant tongue hurdle moral response hunt license adult stove";
+var mnemonic = "now pet awful such any spike coffee gorilla praise bus void extra";

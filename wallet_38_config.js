@@ -1,1 +1,1 @@
-var mnemonic = "fox girl soda guess eager impact never sauce because wreck apple toy";
+var mnemonic = "spirit thumb ignore chaos defense job drastic magnet balcony alcohol ice sight";

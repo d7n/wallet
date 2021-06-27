@@ -1,1 +1,1 @@
-var mnemonic = "inspire job shadow reopen exact giggle across inflict lizard around world fish";
+var mnemonic = "help connect search vicious please agent toast ill cook pulse agent cereal";

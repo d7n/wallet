@@ -1,1 +1,1 @@
-var mnemonic = "gate earn subject onion naive elegant cancel force twelve rough because alter";
+var mnemonic = "mad monster nest undo kite summer pitch frequent country puppy jelly celery";

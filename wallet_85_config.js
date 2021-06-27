@@ -1,1 +1,1 @@
-var mnemonic = "cute deal sphere black soccer swamp rigid find account choice usage base";
+var mnemonic = "approve lady genuine nurse myself capital globe gentle eyebrow squirrel audit crane";

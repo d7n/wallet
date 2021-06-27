@@ -1,1 +1,1 @@
-var mnemonic = "man setup license crime reunion want angle true float congress garden relief";
+var mnemonic = "curious start mention walnut combine curious claim dawn kidney pen price job";

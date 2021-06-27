@@ -1,1 +1,1 @@
-var mnemonic = "rare inner truly hint melt devote garage mansion menu velvet mix barrel";
+var mnemonic = "print recall finger frequent toss cradle enrich siege rebel isolate review above";

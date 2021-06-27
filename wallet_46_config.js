@@ -1,1 +1,1 @@
-var mnemonic = "shrimp prepare during clever rabbit member biology poverty fruit donate runway train";
+var mnemonic = "ill vital mercy resemble shield blind second crush seek treat ill leopard";

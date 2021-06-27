@@ -1,1 +1,1 @@
-var mnemonic = "engine meat coral battle clown reject harvest engine pyramid lunar steak high";
+var mnemonic = "exchange use scorpion erosion buyer night cinnamon title logic tribe oppose noodle";

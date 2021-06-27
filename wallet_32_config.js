@@ -1,1 +1,1 @@
-var mnemonic = "genuine truth absorb tree culture fiber mail barely observe february strong lady";
+var mnemonic = "limit then stool afford craft fox cream oak stove civil habit dad";

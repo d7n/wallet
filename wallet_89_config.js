@@ -1,1 +1,1 @@
-var mnemonic = "shallow turtle amused rack pass loyal rough duck ball grape attract maple";
+var mnemonic = "write exit zero shiver half coyote advance shove glory video adult state";

@@ -1,1 +1,1 @@
-var mnemonic = "cake survey lecture unveil innocent coyote rubber year jeans churn secret design";
+var mnemonic = "squirrel code front faculty neglect addict record predict journey embark corn repeat";

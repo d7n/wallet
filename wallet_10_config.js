@@ -1,1 +1,1 @@
-var mnemonic = "galaxy excite push armed drive caution trophy patch desk garment rally stairs";
+var mnemonic = "dance exhibit practice sock find imitate change announce good smile solar reject";

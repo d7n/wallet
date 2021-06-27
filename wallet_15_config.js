@@ -1,1 +1,1 @@
-var mnemonic = "blood close excess virtual sugar twelve response lift web list doll program";
+var mnemonic = "stuff drastic fall party bright frame liquid wrap creek cheap ill emerge";

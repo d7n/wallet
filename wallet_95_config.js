@@ -1,1 +1,1 @@
-var mnemonic = "lemon business addict broom north offer coral shrug surge antenna toast alcohol";
+var mnemonic = "guitar employ february venue record ocean clown birth remember stamp patrol olive";

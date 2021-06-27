@@ -1,1 +1,1 @@
-var mnemonic = "patch person cheap exit pipe dawn when kiwi faint language charge include";
+var mnemonic = "dust camp toe salmon loop library shoe stool very differ eyebrow floor";

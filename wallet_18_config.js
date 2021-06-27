@@ -1,1 +1,1 @@
-var mnemonic = "giraffe speed paper stock cook learn gadget stuff arrive negative extend motor";
+var mnemonic = "loud refuse picnic maximum party equal notice case credit equip awake course";

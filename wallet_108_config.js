@@ -1,1 +1,1 @@
-var mnemonic = "surprise never silent slab mix grant above matrix member grief pipe genius";
+var mnemonic = "liberty nominee vanish very envelope lesson kiss focus place wage country banana";

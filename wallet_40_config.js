@@ -1,1 +1,1 @@
-var mnemonic = "dolphin until slogan exchange hockey print warrior other drop tunnel tennis menu";
+var mnemonic = "belt old refuse theme juice census spatial brush pool tired harbor warm";

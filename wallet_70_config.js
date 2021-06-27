@@ -1,1 +1,1 @@
-var mnemonic = "visa have lobster process bench spend battle guide protect cushion laptop need";
+var mnemonic = "novel useless demand trash cram merry squirrel clutch clinic crane vacuum current";

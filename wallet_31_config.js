@@ -1,1 +1,1 @@
-var mnemonic = "speed use ceiling lend island venture diagram aware treat decline pigeon mouse";
+var mnemonic = "obscure cannon royal snake daughter motor target phone nurse together voyage repeat";

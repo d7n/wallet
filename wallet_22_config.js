@@ -1,1 +1,1 @@
-var mnemonic = "fork must essence box insect suggest lawsuit reveal cancel address helmet sort";
+var mnemonic = "wide sunny focus media endorse stable lab spawn grant unit crawl answer";

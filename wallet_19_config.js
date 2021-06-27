@@ -1,1 +1,1 @@
-var mnemonic = "sheriff blossom tornado coconut harbor rib develop lab spread minute math mobile";
+var mnemonic = "address fruit cycle mass during grow excuse parrot federal erupt cupboard web";

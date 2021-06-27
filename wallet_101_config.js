@@ -1,1 +1,1 @@
-var mnemonic = "trim cliff shadow twist please assist choose unhappy pluck indoor until dolphin";
+var mnemonic = "invite minor weird blur wink drama transfer fall embrace clay police cabbage";
