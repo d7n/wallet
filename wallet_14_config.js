@@ -1,1 +1,1 @@
-var mnemonic = "kite bar merge thunder token oxygen favorite beach muscle enough artwork file";
+var mnemonic = "boring table coyote occur pond park couch primary pluck mass middle mix";

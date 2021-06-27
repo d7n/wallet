@@ -1,1 +1,1 @@
-var mnemonic = "solar gown civil choose jungle shoulder coach float hotel govern home royal";
+var mnemonic = "abuse matrix bubble drip nature hard tide aisle buyer antique desk book";

@@ -1,1 +1,1 @@
-var mnemonic = "very blade jaguar best slush rely weekend punch change scene peasant another";
+var mnemonic = "much peasant wheel total garden paddle toward domain castle armed whip benefit";

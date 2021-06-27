@@ -1,1 +1,1 @@
-var mnemonic = "grain elevator air repair mention play chaos right father aim profit bus";
+var mnemonic = "load coyote penalty measure zero route ask chase tonight another prosper hawk";

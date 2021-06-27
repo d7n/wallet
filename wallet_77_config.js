@@ -1,1 +1,1 @@
-var mnemonic = "wealth tired impose grief flock feel gospel defense nurse tourist suspect dutch";
+var mnemonic = "near biology wealth energy lunch weather kangaroo bind noodle adult fold diet";

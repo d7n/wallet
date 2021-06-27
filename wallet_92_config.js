@@ -1,1 +1,1 @@
-var mnemonic = "target ahead such nothing until option trend adult genuine post mean fee";
+var mnemonic = "move crush trouble property regular unit stage one assume strong glove dog";

@@ -1,1 +1,1 @@
-var mnemonic = "luggage purchase warm alert bus brush nominee upper print broom cushion green";
+var mnemonic = "bomb mixed escape law side avocado frame media easy slab grass glare";

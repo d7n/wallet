@@ -1,1 +1,1 @@
-var mnemonic = "truly grape program load spoon pelican segment flee connect skirt machine bundle";
+var mnemonic = "slush major fetch casino noble figure riot ostrich sketch disease vague moral";

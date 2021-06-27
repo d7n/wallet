@@ -1,1 +1,1 @@
-var mnemonic = "scout adult once hero reunion oak kiss annual puzzle food vicious column";
+var mnemonic = "tube horror reveal cradle shoulder balcony raw pattern embody thunder taste lemon";

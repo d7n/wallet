@@ -1,1 +1,1 @@
-var mnemonic = "oyster nut quit start symptom output river coil picnic eight magic defy";
+var mnemonic = "priority demise foil off couple letter whip wood plastic sudden achieve escape";

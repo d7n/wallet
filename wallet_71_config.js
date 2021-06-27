@@ -1,1 +1,1 @@
-var mnemonic = "outdoor razor lawsuit inner lab match nice digital expose such arch left";
+var mnemonic = "bring pilot master novel globe truck bubble congress barrel record once diet";

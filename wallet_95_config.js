@@ -1,1 +1,1 @@
-var mnemonic = "journey absorb despair rack pony enough audit alien shop near poem garage";
+var mnemonic = "very coral sort pave solid bench monitor fee shallow issue woman door";

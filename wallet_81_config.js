@@ -1,1 +1,1 @@
-var mnemonic = "carbon tag outer wife walk bread lawn book fiction photo nasty panel";
+var mnemonic = "stick elbow mountain scene system wedding attitude large useful olympic bracket uncover";

@@ -1,1 +1,1 @@
-var mnemonic = "hour chapter marine addict liquid want phrase review decrease rich mountain truck";
+var mnemonic = "boy practice wisdom tennis trigger olympic game describe main school vicious utility";

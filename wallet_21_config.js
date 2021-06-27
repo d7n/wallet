@@ -1,1 +1,1 @@
-var mnemonic = "fuel nice dawn cycle chuckle gesture there abstract crack olympic ribbon opinion";
+var mnemonic = "uncover crime cannon mention pill win valid exact exotic chef humor warrior";

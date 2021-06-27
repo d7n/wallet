@@ -1,1 +1,1 @@
-var mnemonic = "twin fruit verb deal follow vendor zone security demand glimpse cook fit";
+var mnemonic = "smoke fruit hybrid bamboo depart copy board step tourist hazard angle style";

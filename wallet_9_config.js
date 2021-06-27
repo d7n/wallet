@@ -1,1 +1,1 @@
-var mnemonic = "lounge liar goose shrug push also stem marble business music company thunder";
+var mnemonic = "ritual then drip include twist stock food baby improve purse kiss van";

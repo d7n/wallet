@@ -1,1 +1,1 @@
-var mnemonic = "cargo duty test enjoy old position broccoli breeze concert evidence athlete arctic";
+var mnemonic = "phone upper winner mass joke correct fine okay guess atom deer devote";

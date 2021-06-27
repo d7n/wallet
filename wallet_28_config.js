@@ -1,1 +1,1 @@
-var mnemonic = "congress arctic detect picnic warm stove bar vendor curious police alert purse";
+var mnemonic = "soap curtain obvious client body put repeat toy motion remain prison east";

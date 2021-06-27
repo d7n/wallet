@@ -1,1 +1,1 @@
-var mnemonic = "license gospel rug unhappy sun clarify obey say flash become reflect talent";
+var mnemonic = "rabbit pelican ceiling already luxury master today bomb mule chase comfort wrong";

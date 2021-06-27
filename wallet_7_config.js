@@ -1,1 +1,1 @@
-var mnemonic = "lucky plunge upset vital husband space meat dumb calm brush hope embrace";
+var mnemonic = "issue width suffer aisle describe swallow flavor account pupil share unfair memory";

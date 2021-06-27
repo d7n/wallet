@@ -1,1 +1,1 @@
-var mnemonic = "vibrant maximum laptop congress dove purse pelican target small legal catch people";
+var mnemonic = "rifle raccoon web observe left rifle chef dynamic devote yard piece bread";

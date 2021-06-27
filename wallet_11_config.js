@@ -1,1 +1,1 @@
-var mnemonic = "jelly dawn question client olive entry risk path supply gauge network chaos";
+var mnemonic = "shift scheme jaguar enroll develop few annual coil tennis gallery real length";

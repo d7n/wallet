@@ -1,1 +1,1 @@
-var mnemonic = "devote dismiss custom glove riot october suit soft border degree sugar decline";
+var mnemonic = "nasty network execute galaxy hockey vehicle ridge secret marine loan there option";

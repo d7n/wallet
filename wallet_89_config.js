@@ -1,1 +1,1 @@
-var mnemonic = "ladder pulse daughter wear sing escape replace month web render illness miss";
+var mnemonic = "senior unveil broken deny clip ugly inmate body present slogan cash crystal";

@@ -1,1 +1,1 @@
-var mnemonic = "capital pizza oval horror auction mammal wait together fiction leisure empower outdoor";
+var mnemonic = "wrap pretty zero slogan original gain dream olive abuse oven license gaze";

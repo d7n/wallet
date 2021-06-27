@@ -1,1 +1,1 @@
-var mnemonic = "defy addict daring limb forum buffalo wheel cable top ensure room reunion";
+var mnemonic = "ranch recycle phrase stuff village shy thrive smooth latin dress crucial easily";

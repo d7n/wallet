@@ -1,1 +1,1 @@
-var mnemonic = "wood motion chair affair sense lizard torch intact moral near path market";
+var mnemonic = "unfair slot dwarf during mad budget dawn ridge idle require world trick";

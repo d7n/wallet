@@ -1,1 +1,1 @@
-var mnemonic = "outside mammal require tiny erase finish final dice december silk sport gorilla";
+var mnemonic = "monitor repeat later chalk debate repeat comic put slide capable collect guess";

@@ -1,1 +1,1 @@
-var mnemonic = "receive shock bleak inside era heart interest endorse reason govern satoshi income";
+var mnemonic = "year bread frown tower pulse trip simple hip glare gorilla wish spawn";

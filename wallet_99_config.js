@@ -1,1 +1,1 @@
-var mnemonic = "glide warrior lyrics pave ladder critic pair evil body face muscle stock";
+var mnemonic = "accuse food woman repeat wear palace game patch weird acid diary dance";

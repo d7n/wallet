@@ -1,1 +1,1 @@
-var mnemonic = "tiger snake capable grace knee outer ranch luxury essay meadow tower promote";
+var mnemonic = "grief chief injury involve bitter group picture cart trend south drama photo";

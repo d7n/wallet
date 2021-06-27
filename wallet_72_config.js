@@ -1,1 +1,1 @@
-var mnemonic = "trust major mammal hair novel grant erupt minimum motor eight wedding afford";
+var mnemonic = "term obey swear coin broccoli spike mixture butter bitter power diagram pride";

@@ -1,1 +1,1 @@
-var mnemonic = "lion car trip blade spatial gauge smooth flag under indoor process pond";
+var mnemonic = "oxygen aware cigar balance assist during exercise document danger clump dismiss execute";

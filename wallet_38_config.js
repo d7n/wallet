@@ -1,1 +1,1 @@
-var mnemonic = "rely shoulder search dawn estate hurdle stage useless poverty circle shell element";
+var mnemonic = "vague dizzy figure risk tape shallow hybrid innocent water hundred link edit";

@@ -1,1 +1,1 @@
-var mnemonic = "liar tribe trophy female athlete subway brain drop animal repair fun elephant";
+var mnemonic = "aerobic develop state artwork broccoli chronic polar enough flash sing tobacco woman";

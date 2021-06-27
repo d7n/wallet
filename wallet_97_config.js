@@ -1,1 +1,1 @@
-var mnemonic = "shy onion audit gain unfair major satoshi radio debate clap lunch twenty";
+var mnemonic = "ordinary february leader sad prevent frown sausage fence ribbon tape kitchen digital";

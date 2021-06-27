@@ -1,1 +1,1 @@
-var mnemonic = "bracket bulk length ankle deny vault seven buzz delay such initial edge";
+var mnemonic = "thought carbon jewel funny soap slogan sock minute major deal iron ready";

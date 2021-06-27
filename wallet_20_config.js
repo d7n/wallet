@@ -1,1 +1,1 @@
-var mnemonic = "lab harsh water stick easy rookie vivid promote flag dice sister sure";
+var mnemonic = "festival wait glare pig bring kidney palm shuffle similar tongue ripple ceiling";

@@ -1,1 +1,1 @@
-var mnemonic = "elephant moon victory stay insane pink cash depth coconut measure burst wealth";
+var mnemonic = "claim suit avocado exist slender neutral bomb injury mountain coach satoshi salon";

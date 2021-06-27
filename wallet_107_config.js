@@ -1,1 +1,1 @@
-var mnemonic = "cube drum icon critic night buyer ribbon claw fresh iron thunder lawn";
+var mnemonic = "tuna wild glide canvas umbrella audit language hurdle burden bulk human meat";

@@ -1,1 +1,1 @@
-var mnemonic = "sweet sad tomorrow age fiction feature angry ten chair giggle inmate lemon";
+var mnemonic = "damp body apple dial display science inmate oak high crowd canal monkey";

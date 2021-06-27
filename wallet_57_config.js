@@ -1,1 +1,1 @@
-var mnemonic = "shrimp give abuse duty step wing you license shine like slow digital";
+var mnemonic = "input remain sport axis tomato adjust major invite clerk mansion unit device";

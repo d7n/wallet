@@ -1,1 +1,1 @@
-var mnemonic = "essence jelly front surface fancy tortoise penalty rabbit matrix long course click";
+var mnemonic = "rookie long million vendor color rubber proud spin vault gentle dial process";

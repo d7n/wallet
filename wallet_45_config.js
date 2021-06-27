@@ -1,1 +1,1 @@
-var mnemonic = "begin empower rely target town just jeans repair cube yellow soda rug";
+var mnemonic = "about link dress notable summer gentle dinosaur electric loan coffee brand base";

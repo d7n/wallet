@@ -1,1 +1,1 @@
-var mnemonic = "concert churn exercise nice gospel usage open dish stay multiply sing genius";
+var mnemonic = "mosquito scene dynamic half punch earn timber order bring filter couple purchase";

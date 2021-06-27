@@ -1,1 +1,1 @@
-var mnemonic = "birth immune leaf soldier tenant truly absurd cool ticket hello disagree screen";
+var mnemonic = "suspect say useless ankle boat census you pulse special six kit trick";

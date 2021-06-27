@@ -1,1 +1,1 @@
-var mnemonic = "slot novel view robot exercise cotton noodle valve spring cabbage limit wing";
+var mnemonic = "zoo brick approve valid toe nephew dwarf arch spot guide ethics large";

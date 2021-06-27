@@ -1,1 +1,1 @@
-var mnemonic = "theory client ecology light piano faint gun fire holiday toast cook blouse";
+var mnemonic = "crisp license pencil oyster muscle voice violin slim seven act option purchase";

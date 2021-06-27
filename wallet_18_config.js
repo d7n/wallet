@@ -1,1 +1,1 @@
-var mnemonic = "reason front volume amused pact depend jacket gauge portion vintage sense sweet";
+var mnemonic = "absorb planet say mountain raw amateur salmon quick shove seven chalk cream";

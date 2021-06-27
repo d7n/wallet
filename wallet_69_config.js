@@ -1,1 +1,1 @@
-var mnemonic = "easily enact decide excuse icon unfold spirit mystery eternal scissors lottery rocket";
+var mnemonic = "elephant remember loop example hire crime question winter junior catch gesture team";

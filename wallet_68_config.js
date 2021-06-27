@@ -1,1 +1,1 @@
-var mnemonic = "sauce forum net curve shoulder inherit club parade right envelope twist security";
+var mnemonic = "nominee face feature jungle forest disease panic nose song flip result wall";

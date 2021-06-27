@@ -1,1 +1,1 @@
-var mnemonic = "kick melody junk wet clerk fetch bleak zebra system drastic hole barrel";
+var mnemonic = "forum inquiry novel glance town surface stool orchard slide elevator basic skill";

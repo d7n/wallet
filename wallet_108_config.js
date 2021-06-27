@@ -1,1 +1,1 @@
-var mnemonic = "crush soldier bean because find charge invest globe doll raccoon eternal super";
+var mnemonic = "best arctic month guitar royal carry cupboard practice repeat figure hip balance";

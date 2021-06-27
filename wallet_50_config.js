@@ -1,1 +1,1 @@
-var mnemonic = "input advance husband reopen include powder vessel gallery fan mango deliver balance";
+var mnemonic = "silly push move initial absorb stove toss flip stock lucky group bread";

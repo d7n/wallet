@@ -1,1 +1,1 @@
-var mnemonic = "boost edit better head oil syrup view example jewel awful rather chapter";
+var mnemonic = "cousin chest hurry jacket turn wolf chef release source arrive police mass";

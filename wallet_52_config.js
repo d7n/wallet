@@ -1,1 +1,1 @@
-var mnemonic = "doctor write quiz fish catch start diagram torch marine crack again news";
+var mnemonic = "shed prison time avocado depart crystal cash adult boat custom humor destroy";

@@ -1,1 +1,1 @@
-var mnemonic = "shock museum lawsuit spatial fragile panel excess pass defense clean during divide";
+var mnemonic = "leg must arctic giraffe vacant federal window sort hard depart emotion gravity";

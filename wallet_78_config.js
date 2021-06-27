@@ -1,1 +1,1 @@
-var mnemonic = "deal cause bright flower boil isolate erupt message panel inflict champion meadow";
+var mnemonic = "coach casual heart canal eager fantasy head kitten evoke rally price ice";

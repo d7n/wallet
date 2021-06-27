@@ -1,1 +1,1 @@
-var mnemonic = "fresh noise fit yard figure marble endless charge mention life learn brain";
+var mnemonic = "trend another crime pencil poem seed crop aware tumble dilemma earn number";

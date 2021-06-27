@@ -1,1 +1,1 @@
-var mnemonic = "pear quiz mutual top summer sense where road play tomorrow friend walk";
+var mnemonic = "mind toss few cup zebra level leopard start hammer short since trip";

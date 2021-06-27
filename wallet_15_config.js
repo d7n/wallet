@@ -1,1 +1,1 @@
-var mnemonic = "spike ghost dial price jealous cement hill clown camp evoke october grape";
+var mnemonic = "victory immense similar father torch sell catalog casual adult object pulse shy";

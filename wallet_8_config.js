@@ -1,1 +1,1 @@
-var mnemonic = "air brand acquire venue funny move metal select unknown enlist flavor flag";
+var mnemonic = "before organ bamboo blind habit candy wool text pull person make fall";

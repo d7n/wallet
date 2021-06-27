@@ -1,1 +1,1 @@
-var mnemonic = "office hawk charge whale mom keep grab prefer program cotton keen travel";
+var mnemonic = "capital blood effort aspect rent together initial conduct crumble plastic harvest rude";

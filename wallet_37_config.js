@@ -1,1 +1,1 @@
-var mnemonic = "pact parent hotel animal govern theory swim dice client steel jump pledge";
+var mnemonic = "gesture still clay report defense arch trash pelican bachelor kit mask magnet";

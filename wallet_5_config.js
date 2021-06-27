@@ -1,1 +1,1 @@
-var mnemonic = "room kind enroll father fringe broom swift tone elite attitude bless list";
+var mnemonic = "north fluid grass dice lamp mountain round cook call already already canoe";

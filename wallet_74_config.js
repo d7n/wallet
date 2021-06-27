@@ -1,1 +1,1 @@
-var mnemonic = "exchange scorpion teach discover gesture burst welcome minimum bottom panda jelly bulb";
+var mnemonic = "spin shoot walk various maximum hood weekend pudding crime chapter arm wide";

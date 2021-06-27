@@ -1,1 +1,1 @@
-var mnemonic = "frequent aisle page until wise loyal reward learn scan robust clog grant";
+var mnemonic = "mechanic achieve hint chronic student quantum crystal order truth illness sibling melody";

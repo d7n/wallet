@@ -1,1 +1,1 @@
-var mnemonic = "goddess sunny often total bulb easy false glove vanish lunar whip alarm";
+var mnemonic = "picnic purity device jelly vacuum employ alert session science aim art trust";

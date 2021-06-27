@@ -1,1 +1,1 @@
-var mnemonic = "repair day teach federal economy north erase sell error senior asthma gym";
+var mnemonic = "truly spatial edge you cross report brief label future knee cash bubble";

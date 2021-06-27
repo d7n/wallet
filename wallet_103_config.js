@@ -1,1 +1,1 @@
-var mnemonic = "vibrant foam twelve lizard ethics badge clump public art chase adapt uphold";
+var mnemonic = "garbage animal print text boil jazz auto off work circle scatter bring";

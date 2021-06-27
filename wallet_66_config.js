@@ -1,1 +1,1 @@
-var mnemonic = "flock cargo give poem review net giraffe science space element dune struggle";
+var mnemonic = "reopen whale lonely cost marine escape subway wagon knee true mechanic elder";

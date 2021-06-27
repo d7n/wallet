@@ -1,1 +1,1 @@
-var mnemonic = "document hundred bundle drip athlete decorate duty cup menu coral marble song";
+var mnemonic = "vicious surface thank keen spike champion wing elegant fluid hungry plug fade";

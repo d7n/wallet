@@ -1,1 +1,1 @@
-var mnemonic = "veteran accuse profit science mad reopen escape victory invest space daring oak";
+var mnemonic = "woman chalk spoon control turtle innocent picnic rose salon hood worry essence";

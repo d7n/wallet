@@ -1,1 +1,1 @@
-var mnemonic = "wisdom august human try express elder alarm soldier trap panda pen race";
+var mnemonic = "flight olive merry visit clown shiver machine erupt target square lottery rail";

@@ -1,1 +1,1 @@
-var mnemonic = "section hard rib govern expire lobster dust awful strong exit goddess head";
+var mnemonic = "text chronic laptop boring island rapid hollow soldier trip cinnamon snake churn";

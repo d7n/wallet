@@ -1,1 +1,1 @@
-var mnemonic = "radar forest purity tongue double kite lecture act boat clay divide below";
+var mnemonic = "long daughter cross wool van jump toward sight sudden opinion grow remember";

@@ -1,1 +1,1 @@
-var mnemonic = "quality leaf sock visa mask peanut record diesel where rubber jelly orbit";
+var mnemonic = "cheese vague unlock museum sea sock renew unfold syrup poet fan brand";

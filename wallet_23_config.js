@@ -1,1 +1,1 @@
-var mnemonic = "extend ketchup salmon client room foil toilet hobby dad fence upper click";
+var mnemonic = "gun ignore wheel blossom sell draw social income anxiety quit report fog";

@@ -1,1 +1,1 @@
-var mnemonic = "expect joke van vehicle predict mix card ginger acoustic snake base raise";
+var mnemonic = "hold coconut audit dignity observe above few vapor slice ribbon flower magnet";

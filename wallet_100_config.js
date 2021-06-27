@@ -1,1 +1,1 @@
-var mnemonic = "lady solar wage drum diary afraid deliver virus topple sound floor deal";
+var mnemonic = "knee spray frog shuffle saddle chief sort census live orphan fiber wife";

@@ -1,1 +1,1 @@
-var mnemonic = "obscure mom latin machine improve buzz prize inject farm fault library predict";
+var mnemonic = "leader scheme flat sketch soul network boring layer deposit life elite circle";

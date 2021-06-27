@@ -1,1 +1,1 @@
-var mnemonic = "fuel mimic base dish inquiry absent thought pupil draw stage person egg";
+var mnemonic = "october hair cute ready major cricket virtual kitten window gauge rain direct";

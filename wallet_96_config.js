@@ -1,1 +1,1 @@
-var mnemonic = "tank south wish fish miracle few piano valley comfort surprise prevent jeans";
+var mnemonic = "inject relax sustain depart dinosaur build merge notable track ask brother salad";

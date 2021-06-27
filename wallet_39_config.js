@@ -1,1 +1,1 @@
-var mnemonic = "tourist coconut fiction egg benefit state surround away wisdom lion cube river";
+var mnemonic = "crumble chicken crisp candy illness cause argue planet helmet guess blood ask";

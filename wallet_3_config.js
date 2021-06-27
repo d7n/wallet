@@ -1,1 +1,1 @@
-var mnemonic = "hill park live glass wrist coyote nurse eyebrow skate video page april";
+var mnemonic = "tool sunset arrive drift senior genius tuition food curious dinner bench piano";

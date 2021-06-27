@@ -1,1 +1,1 @@
-var mnemonic = "project plug sight gap fold brand finger place there abandon lazy symbol";
+var mnemonic = "jump exact orange fall crawl isolate rapid oppose thrive vote dish proud";

@@ -1,1 +1,1 @@
-var mnemonic = "crucial check exit destroy spider dilemma flower polar dynamic vicious olive fury";
+var mnemonic = "doll worry wonder forget lesson frozen enjoy sail level oak carry same";

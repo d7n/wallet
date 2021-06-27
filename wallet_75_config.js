@@ -1,1 +1,1 @@
-var mnemonic = "give rubber inner chalk caught right spike biology oblige visit cloth spread";
+var mnemonic = "error eye wrist spider resist hard direct example whip sleep blur novel";

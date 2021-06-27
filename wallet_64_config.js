@@ -1,1 +1,1 @@
-var mnemonic = "extend electric fiber unaware walnut mistake soap planet flavor rocket picnic under";
+var mnemonic = "sphere access drip expect cushion little youth hover among idle fee harvest";

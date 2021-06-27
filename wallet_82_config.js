@@ -1,1 +1,1 @@
-var mnemonic = "only stamp buffalo extend gentle mutual bicycle palm iron raccoon autumn dizzy";
+var mnemonic = "purity birth palace divert lift wait soon club city village happy art";

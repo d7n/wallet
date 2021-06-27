@@ -1,1 +1,1 @@
-var mnemonic = "soon equal brown lyrics unknown crunch power blanket library select rather thank";
+var mnemonic = "estate supreme bleak claw later patrol surge satoshi clerk cause south uphold";

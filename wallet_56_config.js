@@ -1,1 +1,1 @@
-var mnemonic = "obey fringe rely extend season scene give renew plunge argue idea visit";
+var mnemonic = "theory crouch priority choose accident edit river party topic noise orient gadget";

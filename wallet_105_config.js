@@ -1,1 +1,1 @@
-var mnemonic = "earth grief slam differ donor spy idle enemy unveil rain girl pumpkin";
+var mnemonic = "camp able stuff test cable armor allow public indoor kitchen thing mind";

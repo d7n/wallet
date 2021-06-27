@@ -1,1 +1,1 @@
-var mnemonic = "empty vehicle mom fall lawn shuffle bless royal enough file enroll other";
+var mnemonic = "effort fan fever other obvious thrive talent flower estate solve erode hard";

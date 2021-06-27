@@ -1,1 +1,1 @@
-var mnemonic = "avocado mouse major since globe live jungle siege idle dash unknown elite";
+var mnemonic = "snap flock ugly stable daring drill tongue spike until noble melt ghost";
