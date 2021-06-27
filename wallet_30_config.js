@@ -1,1 +1,1 @@
-var mnemonic = "slush major fetch casino noble figure riot ostrich sketch disease vague moral";
+var mnemonic = "romance render hood method able cargo nephew foot figure consider dawn find";

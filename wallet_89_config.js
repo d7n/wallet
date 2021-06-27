@@ -1,1 +1,1 @@
-var mnemonic = "senior unveil broken deny clip ugly inmate body present slogan cash crystal";
+var mnemonic = "true column wink benefit require void inherit tongue hill result taxi rug";

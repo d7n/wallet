@@ -1,1 +1,1 @@
-var mnemonic = "leader scheme flat sketch soul network boring layer deposit life elite circle";
+var mnemonic = "glad cinnamon twenty chicken accuse august place vital lazy country resemble grief";

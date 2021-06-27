@@ -1,1 +1,1 @@
-var mnemonic = "tuna wild glide canvas umbrella audit language hurdle burden bulk human meat";
+var mnemonic = "unveil puppy gasp index admit protect skate express bubble call rebuild someone";

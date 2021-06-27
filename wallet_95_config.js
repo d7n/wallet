@@ -1,1 +1,1 @@
-var mnemonic = "very coral sort pave solid bench monitor fee shallow issue woman door";
+var mnemonic = "rabbit skirt visa almost knock tree robot list other cup flower just";

@@ -1,1 +1,1 @@
-var mnemonic = "shed prison time avocado depart crystal cash adult boat custom humor destroy";
+var mnemonic = "snake win taste rookie spy zero garment whip unable crystal trigger height";

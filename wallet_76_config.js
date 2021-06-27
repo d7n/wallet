@@ -1,1 +1,1 @@
-var mnemonic = "wrap pretty zero slogan original gain dream olive abuse oven license gaze";
+var mnemonic = "hole peanut wild abandon rocket burden just cement accident dove vanish lecture";

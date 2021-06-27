@@ -1,1 +1,1 @@
-var mnemonic = "load coyote penalty measure zero route ask chase tonight another prosper hawk";
+var mnemonic = "frog spawn ghost keep cube praise door parrot indoor inquiry width glad";

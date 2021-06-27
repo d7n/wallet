@@ -1,1 +1,1 @@
-var mnemonic = "jacket illegal chaos ugly topic spice text uphold subway job merit sort";
+var mnemonic = "topic universe double comfort swap denial group scatter kitchen insane utility pumpkin";

@@ -1,1 +1,1 @@
-var mnemonic = "robust eye deny alarm must taste smooth expect noise fox maze denial";
+var mnemonic = "mixed lunch early trial figure boring happy fortune minor space police electric";

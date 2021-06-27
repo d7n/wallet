@@ -1,1 +1,1 @@
-var mnemonic = "long daughter cross wool van jump toward sight sudden opinion grow remember";
+var mnemonic = "write update slide cannon physical host easily fresh soap hobby jar switch";

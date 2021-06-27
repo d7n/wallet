@@ -1,1 +1,1 @@
-var mnemonic = "rifle raccoon web observe left rifle chef dynamic devote yard piece bread";
+var mnemonic = "head kite confirm reject sadness volcano supreme season middle rain lunar almost";

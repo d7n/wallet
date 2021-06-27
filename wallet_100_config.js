@@ -1,1 +1,1 @@
-var mnemonic = "knee spray frog shuffle saddle chief sort census live orphan fiber wife";
+var mnemonic = "scatter case artwork tomorrow just answer present peasant seed captain faculty behind";

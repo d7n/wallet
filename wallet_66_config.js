@@ -1,1 +1,1 @@
-var mnemonic = "reopen whale lonely cost marine escape subway wagon knee true mechanic elder";
+var mnemonic = "arrest power snack color circle police protect still jewel invite iron farm";

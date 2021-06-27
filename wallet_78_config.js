@@ -1,1 +1,1 @@
-var mnemonic = "coach casual heart canal eager fantasy head kitten evoke rally price ice";
+var mnemonic = "easy pole must defy fringe immense blouse doll olive oblige cloud name";

@@ -1,1 +1,1 @@
-var mnemonic = "error eye wrist spider resist hard direct example whip sleep blur novel";
+var mnemonic = "sniff satisfy auto steak coffee inside call sell purse height mandate gold";

@@ -1,1 +1,1 @@
-var mnemonic = "stick elbow mountain scene system wedding attitude large useful olympic bracket uncover";
+var mnemonic = "hospital evidence reopen control because gauge vanish coral manage million oppose undo";

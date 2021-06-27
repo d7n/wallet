@@ -1,1 +1,1 @@
-var mnemonic = "leg must arctic giraffe vacant federal window sort hard depart emotion gravity";
+var mnemonic = "outer opinion water soap record team autumn horror slogan bulb crouch sadness";

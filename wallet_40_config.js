@@ -1,1 +1,1 @@
-var mnemonic = "damp body apple dial display science inmate oak high crowd canal monkey";
+var mnemonic = "dynamic egg gossip panel oxygen junior violin obvious manage beach destroy spike";

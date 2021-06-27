@@ -1,1 +1,1 @@
-var mnemonic = "blossom moral fresh metal flower lab kind about chuckle minute fiction round";
+var mnemonic = "master genius raise control trumpet faint govern desk next throw assume royal";

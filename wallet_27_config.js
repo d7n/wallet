@@ -1,1 +1,1 @@
-var mnemonic = "bomb mixed escape law side avocado frame media easy slab grass glare";
+var mnemonic = "pitch spice drift cousin find inside vast blast wisdom south blind fluid";

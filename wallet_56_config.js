@@ -1,1 +1,1 @@
-var mnemonic = "theory crouch priority choose accident edit river party topic noise orient gadget";
+var mnemonic = "romance found strong tuition child birth history fancy stool refuse stay focus";

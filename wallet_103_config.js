@@ -1,1 +1,1 @@
-var mnemonic = "garbage animal print text boil jazz auto off work circle scatter bring";
+var mnemonic = "source industry sting genius lobster private betray amateur away insane never service";

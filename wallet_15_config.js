@@ -1,1 +1,1 @@
-var mnemonic = "victory immense similar father torch sell catalog casual adult object pulse shy";
+var mnemonic = "foil stage total present struggle lonely chapter fever come width home trim";

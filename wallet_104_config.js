@@ -1,1 +1,1 @@
-var mnemonic = "estate supreme bleak claw later patrol surge satoshi clerk cause south uphold";
+var mnemonic = "inquiry barely debate maximum pulp aspect mutual mandate fantasy minute virtual garlic";

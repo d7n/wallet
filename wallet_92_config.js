@@ -1,1 +1,1 @@
-var mnemonic = "move crush trouble property regular unit stage one assume strong glove dog";
+var mnemonic = "sponsor valve issue wall notable horn fee sentence punch skin laptop learn";

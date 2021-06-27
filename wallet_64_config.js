@@ -1,1 +1,1 @@
-var mnemonic = "sphere access drip expect cushion little youth hover among idle fee harvest";
+var mnemonic = "enrich fatigue basic cream anger exclude join polar agree price famous pupil";

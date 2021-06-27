@@ -1,1 +1,1 @@
-var mnemonic = "capital blood effort aspect rent together initial conduct crumble plastic harvest rude";
+var mnemonic = "silk century casino fossil produce deputy return predict pair common income nature";

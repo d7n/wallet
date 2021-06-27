@@ -1,1 +1,1 @@
-var mnemonic = "unfair slot dwarf during mad budget dawn ridge idle require world trick";
+var mnemonic = "ribbon royal fork innocent cat fee speed pause double section jewel ancient";

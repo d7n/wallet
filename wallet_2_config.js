@@ -1,1 +1,1 @@
-var mnemonic = "flight olive merry visit clown shiver machine erupt target square lottery rail";
+var mnemonic = "broom strike decrease cruise craft monster marriage flag tilt one amused million";

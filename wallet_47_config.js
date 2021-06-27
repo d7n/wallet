@@ -1,1 +1,1 @@
-var mnemonic = "rabbit pelican ceiling already luxury master today bomb mule chase comfort wrong";
+var mnemonic = "tornado denial museum body advance error topic paper leisure autumn silk sign";

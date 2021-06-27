@@ -1,1 +1,1 @@
-var mnemonic = "tube horror reveal cradle shoulder balcony raw pattern embody thunder taste lemon";
+var mnemonic = "modify border leaf minor hawk tonight blanket patch defy short wash forum";

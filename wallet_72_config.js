@@ -1,1 +1,1 @@
-var mnemonic = "term obey swear coin broccoli spike mixture butter bitter power diagram pride";
+var mnemonic = "garment mango magic sense february ladder sting genius often enemy twist problem";

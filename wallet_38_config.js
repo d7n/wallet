@@ -1,1 +1,1 @@
-var mnemonic = "vague dizzy figure risk tape shallow hybrid innocent water hundred link edit";
+var mnemonic = "correct dragon kangaroo slide cross eye select repeat garbage pond youth radar";

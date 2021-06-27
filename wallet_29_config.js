@@ -1,1 +1,1 @@
-var mnemonic = "crisp license pencil oyster muscle voice violin slim seven act option purchase";
+var mnemonic = "notable shallow custom doll bag panic title retreat turtle accuse visa gift";

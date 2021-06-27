@@ -1,1 +1,1 @@
-var mnemonic = "crouch bike water burst slight news response enrich obscure street travel neither";
+var mnemonic = "liberty panel defense ceiling carry model night deposit potato wine hover verify";

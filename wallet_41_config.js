@@ -1,1 +1,1 @@
-var mnemonic = "antique hawk promote acid common duty chicken lift ticket inner kingdom squirrel";
+var mnemonic = "design toy six multiply bulk knock ancient vivid book chimney venue dinner";

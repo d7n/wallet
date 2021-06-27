@@ -1,1 +1,1 @@
-var mnemonic = "crumble chicken crisp candy illness cause argue planet helmet guess blood ask";
+var mnemonic = "water stamp diesel eternal must round travel dentist open hidden deposit husband";

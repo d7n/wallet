@@ -1,1 +1,1 @@
-var mnemonic = "purity birth palace divert lift wait soon club city village happy art";
+var mnemonic = "alone core ribbon absorb december age select imitate basket cause home amused";

@@ -1,1 +1,1 @@
-var mnemonic = "trend another crime pencil poem seed crop aware tumble dilemma earn number";
+var mnemonic = "similar horror pill ill update organ domain verb increase banner virtual trial";

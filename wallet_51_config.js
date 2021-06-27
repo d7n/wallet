@@ -1,1 +1,1 @@
-var mnemonic = "mind toss few cup zebra level leopard start hammer short since trip";
+var mnemonic = "spy later crowd super drink grid brand one sponsor track guide faculty";

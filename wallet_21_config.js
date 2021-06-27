@@ -1,1 +1,1 @@
-var mnemonic = "uncover crime cannon mention pill win valid exact exotic chef humor warrior";
+var mnemonic = "bachelor bonus slogan where alcohol off axis invite burst utility flash emotion";

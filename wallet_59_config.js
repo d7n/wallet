@@ -1,1 +1,1 @@
-var mnemonic = "nasty network execute galaxy hockey vehicle ridge secret marine loan there option";
+var mnemonic = "sponsor radio twenty shoe bubble settle industry woman step virtual loyal inch";

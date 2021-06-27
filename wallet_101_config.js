@@ -1,1 +1,1 @@
-var mnemonic = "ranch recycle phrase stuff village shy thrive smooth latin dress crucial easily";
+var mnemonic = "barely large there view identify sunny weird puppy outer mountain history kick";

@@ -1,1 +1,1 @@
-var mnemonic = "grief chief injury involve bitter group picture cart trend south drama photo";
+var mnemonic = "citizen old list word corn renew sound drama beef goose month dish";

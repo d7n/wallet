@@ -1,1 +1,1 @@
-var mnemonic = "shift scheme jaguar enroll develop few annual coil tennis gallery real length";
+var mnemonic = "spread pipe bracket deny doctor lemon happy people laptop august wheat mosquito";

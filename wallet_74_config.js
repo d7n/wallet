@@ -1,1 +1,1 @@
-var mnemonic = "spin shoot walk various maximum hood weekend pudding crime chapter arm wide";
+var mnemonic = "master girl light actress prepare convince spin spread antique slow duty concert";

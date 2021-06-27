@@ -1,1 +1,1 @@
-var mnemonic = "hold coconut audit dignity observe above few vapor slice ribbon flower magnet";
+var mnemonic = "ribbon ginger fence social flat patient lamp stand foot cancel accident cake";

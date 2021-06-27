@@ -1,1 +1,1 @@
-var mnemonic = "mosquito scene dynamic half punch earn timber order bring filter couple purchase";
+var mnemonic = "return bounce impose country polar joke normal able trial certain strategy census";

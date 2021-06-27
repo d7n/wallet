@@ -1,1 +1,1 @@
-var mnemonic = "cupboard allow aware hello sea cable pear virus tragic nuclear frown box";
+var mnemonic = "oppose move owner apology peasant ice feel defy index audit level toy";

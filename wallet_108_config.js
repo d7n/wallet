@@ -1,1 +1,1 @@
-var mnemonic = "best arctic month guitar royal carry cupboard practice repeat figure hip balance";
+var mnemonic = "admit hobby rocket erosion kit cost whip remain dolphin focus bicycle note";

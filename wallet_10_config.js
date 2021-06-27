@@ -1,1 +1,1 @@
-var mnemonic = "snap flock ugly stable daring drill tongue spike until noble melt ghost";
+var mnemonic = "tree wonder vital can cargo voice skill fix dream base vital left";

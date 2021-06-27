@@ -1,1 +1,1 @@
-var mnemonic = "smoke fruit hybrid bamboo depart copy board step tourist hazard angle style";
+var mnemonic = "victory tornado width exact recall cereal ask play silent behave rich alert";

@@ -1,1 +1,1 @@
-var mnemonic = "doll worry wonder forget lesson frozen enjoy sail level oak carry same";
+var mnemonic = "you awkward grocery oblige unfair section across blade shine purse fatal fantasy";

@@ -1,1 +1,1 @@
-var mnemonic = "gesture still clay report defense arch trash pelican bachelor kit mask magnet";
+var mnemonic = "opera olympic senior cable notice bracket month expect ozone travel prison cousin";

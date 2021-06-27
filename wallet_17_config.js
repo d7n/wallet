@@ -1,1 +1,1 @@
-var mnemonic = "foil noise country east need silly shaft social nut awful cost rail";
+var mnemonic = "also brother convince inquiry multiply pluck flash cross category sting bounce rural";

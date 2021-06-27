@@ -1,1 +1,1 @@
-var mnemonic = "woman chalk spoon control turtle innocent picnic rose salon hood worry essence";
+var mnemonic = "buddy hood left mail endless cabbage fiscal myself hold segment pioneer keep";

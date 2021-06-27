@@ -1,1 +1,1 @@
-var mnemonic = "abuse matrix bubble drip nature hard tide aisle buyer antique desk book";
+var mnemonic = "wrong citizen chest diamond around flip object surge net glow wool hollow";

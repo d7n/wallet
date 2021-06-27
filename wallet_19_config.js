@@ -1,1 +1,1 @@
-var mnemonic = "jump exact orange fall crawl isolate rapid oppose thrive vote dish proud";
+var mnemonic = "weapon noble erosion save bless window cost vault parent cave legal boring";

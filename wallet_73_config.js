@@ -1,1 +1,1 @@
-var mnemonic = "much peasant wheel total garden paddle toward domain castle armed whip benefit";
+var mnemonic = "buzz sing alert degree top umbrella clown mercy allow water boy pet";

@@ -1,1 +1,1 @@
-var mnemonic = "trash parade endless echo transfer arctic chase myth motion lion acoustic series";
+var mnemonic = "husband pool length relax safe offer enter tomorrow have merry ocean rose";

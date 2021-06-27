@@ -1,1 +1,1 @@
-var mnemonic = "bring pilot master novel globe truck bubble congress barrel record once diet";
+var mnemonic = "fuel inner aerobic belt ribbon unveil crowd verb improve snack hint tray";

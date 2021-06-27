@@ -1,1 +1,1 @@
-var mnemonic = "october hair cute ready major cricket virtual kitten window gauge rain direct";
+var mnemonic = "lab duty donkey off window debate hat hurdle vanish eager dish spirit";

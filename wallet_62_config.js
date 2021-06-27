@@ -1,1 +1,1 @@
-var mnemonic = "phone upper winner mass joke correct fine okay guess atom deer devote";
+var mnemonic = "rate scheme wrist intact guess dry apart melt code vanish physical gesture";

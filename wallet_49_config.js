@@ -1,1 +1,1 @@
-var mnemonic = "rookie long million vendor color rubber proud spin vault gentle dial process";
+var mnemonic = "soft cause bubble arrive depart maple diamond dignity crucial illegal short shrimp";

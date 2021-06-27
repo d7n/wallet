@@ -1,1 +1,1 @@
-var mnemonic = "silly push move initial absorb stove toss flip stock lucky group bread";
+var mnemonic = "three popular when nasty century fog guard stamp normal define loud width";

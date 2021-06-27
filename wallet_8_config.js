@@ -1,1 +1,1 @@
-var mnemonic = "before organ bamboo blind habit candy wool text pull person make fall";
+var mnemonic = "around true size deliver soup april system adapt fortune bid culture taste";

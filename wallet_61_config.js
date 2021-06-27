@@ -1,1 +1,1 @@
-var mnemonic = "thought carbon jewel funny soap slogan sock minute major deal iron ready";
+var mnemonic = "shoe unit finger duty iron exist trade repeat come tray narrow question";

@@ -1,1 +1,1 @@
-var mnemonic = "near biology wealth energy lunch weather kangaroo bind noodle adult fold diet";
+var mnemonic = "cart cannon nose vehicle laptop response scout sleep joy badge asset brown";

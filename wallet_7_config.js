@@ -1,1 +1,1 @@
-var mnemonic = "issue width suffer aisle describe swallow flavor account pupil share unfair memory";
+var mnemonic = "oyster ridge almost very second loan excuse donkey enemy hub once area";

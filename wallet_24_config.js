@@ -1,1 +1,1 @@
-var mnemonic = "priority demise foil off couple letter whip wood plastic sudden achieve escape";
+var mnemonic = "giraffe scout indicate void snap slim wise office tube always area audit";

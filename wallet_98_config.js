@@ -1,1 +1,1 @@
-var mnemonic = "oxygen aware cigar balance assist during exercise document danger clump dismiss execute";
+var mnemonic = "reduce benefit potato someone seek hurry uphold staff noise charge fat tank";

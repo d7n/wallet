@@ -1,1 +1,1 @@
-var mnemonic = "skate oxygen joy radio defense craft advance police category stuff another dawn";
+var mnemonic = "inform crazy inner define shed six undo lunar used palm credit word";

@@ -1,1 +1,1 @@
-var mnemonic = "mechanic achieve hint chronic student quantum crystal order truth illness sibling melody";
+var mnemonic = "task become fever lunar april desk now pupil man suffer trip develop";

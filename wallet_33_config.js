@@ -1,1 +1,1 @@
-var mnemonic = "monitor repeat later chalk debate repeat comic put slide capable collect guess";
+var mnemonic = "come runway exist peanut rebel upper quantum chest humble knee example fall";

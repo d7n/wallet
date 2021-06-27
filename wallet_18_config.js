@@ -1,1 +1,1 @@
-var mnemonic = "absorb planet say mountain raw amateur salmon quick shove seven chalk cream";
+var mnemonic = "trim walnut whisper rude column scout valve debris lab idle fitness hybrid";

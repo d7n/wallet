@@ -1,1 +1,1 @@
-var mnemonic = "boy practice wisdom tennis trigger olympic game describe main school vicious utility";
+var mnemonic = "rival gate run giggle leisure air direct length category reveal brain crew";

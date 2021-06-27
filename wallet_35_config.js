@@ -1,1 +1,1 @@
-var mnemonic = "claim suit avocado exist slender neutral bomb injury mountain coach satoshi salon";
+var mnemonic = "come parade float hover range wasp velvet erase frost just cycle cricket";

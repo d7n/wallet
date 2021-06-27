@@ -1,1 +1,1 @@
-var mnemonic = "text chronic laptop boring island rapid hollow soldier trip cinnamon snake churn";
+var mnemonic = "refuse token vivid tooth survey smooth trumpet border antique scatter frost lake";

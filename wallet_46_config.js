@@ -1,1 +1,1 @@
-var mnemonic = "suspect say useless ankle boat census you pulse special six kit trick";
+var mnemonic = "utility antique found satoshi real story awkward dismiss reunion match tornado rent";

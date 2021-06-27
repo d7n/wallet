@@ -1,1 +1,1 @@
-var mnemonic = "about link dress notable summer gentle dinosaur electric loan coffee brand base";
+var mnemonic = "amazing alpha expire sense gravity ostrich device alien bird spoil enrich broken";

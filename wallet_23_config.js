@@ -1,1 +1,1 @@
-var mnemonic = "gun ignore wheel blossom sell draw social income anxiety quit report fog";
+var mnemonic = "country wide figure link rude need income awkward sketch average flock farm";

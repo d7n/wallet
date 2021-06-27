@@ -1,1 +1,1 @@
-var mnemonic = "cousin chest hurry jacket turn wolf chef release source arrive police mass";
+var mnemonic = "champion grow response position assault priority present onion smart document clip parrot";

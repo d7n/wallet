@@ -1,1 +1,1 @@
-var mnemonic = "north fluid grass dice lamp mountain round cook call already already canoe";
+var mnemonic = "glory glow front select jaguar grief lunch secret name claim pulse usual";

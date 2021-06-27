@@ -1,1 +1,1 @@
-var mnemonic = "accuse food woman repeat wear palace game patch weird acid diary dance";
+var mnemonic = "napkin april mean detail butter kingdom venture glass tree pole alter unlock";

@@ -1,1 +1,1 @@
-var mnemonic = "sauce jump follow prison giggle wish asthma team apart brisk cinnamon jealous";
+var mnemonic = "thrive paper plastic fan obscure expire ceiling despair ahead oven canyon hover";

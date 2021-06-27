@@ -1,1 +1,1 @@
-var mnemonic = "input remain sport axis tomato adjust major invite clerk mansion unit device";
+var mnemonic = "give spice fragile any perfect attack tenant entire custom allow basket enforce";

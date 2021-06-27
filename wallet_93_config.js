@@ -1,1 +1,1 @@
-var mnemonic = "zoo brick approve valid toe nephew dwarf arch spot guide ethics large";
+var mnemonic = "slide ozone client slim use melt civil game kitten message gather casual";

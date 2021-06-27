@@ -1,1 +1,1 @@
-var mnemonic = "soap curtain obvious client body put repeat toy motion remain prison east";
+var mnemonic = "nominee remain banner sentence gadget torch segment spider elder junk option labor";

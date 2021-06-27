@@ -1,1 +1,1 @@
-var mnemonic = "ordinary february leader sad prevent frown sausage fence ribbon tape kitchen digital";
+var mnemonic = "fog various concert educate escape length vendor circle under ribbon flock harvest";

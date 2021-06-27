@@ -1,1 +1,1 @@
-var mnemonic = "mammal reduce rail screen area buyer energy veteran lend crunch inherit limit";
+var mnemonic = "rack lesson hurdle reflect meat mule know second together potato raw jar";

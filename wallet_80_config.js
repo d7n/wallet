@@ -1,1 +1,1 @@
-var mnemonic = "picnic purity device jelly vacuum employ alert session science aim art trust";
+var mnemonic = "off often enhance suit step pigeon spice visa job vague setup artefact";

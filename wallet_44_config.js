@@ -1,1 +1,1 @@
-var mnemonic = "forum inquiry novel glance town surface stool orchard slide elevator basic skill";
+var mnemonic = "forget staff decrease survey bracket pipe treat sweet pyramid awkward adapt love";

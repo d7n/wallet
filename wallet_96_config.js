@@ -1,1 +1,1 @@
-var mnemonic = "inject relax sustain depart dinosaur build merge notable track ask brother salad";
+var mnemonic = "pink dad theory ranch notable stone hungry zero stool power rookie that";

@@ -1,1 +1,1 @@
-var mnemonic = "vicious surface thank keen spike champion wing elegant fluid hungry plug fade";
+var mnemonic = "spend ill cruise nurse fall glove awesome property travel amateur fiber output";

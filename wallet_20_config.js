@@ -1,1 +1,1 @@
-var mnemonic = "festival wait glare pig bring kidney palm shuffle similar tongue ripple ceiling";
+var mnemonic = "wise blood ill picnic early depend flip actual hood blouse foster issue";
