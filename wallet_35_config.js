@@ -1,1 +1,1 @@
-var mnemonic = "fashion solar erode company mandate chuckle naive make hip school purity escape";
+var mnemonic = "gold sunny flush garden tribe guilt danger setup receive produce ghost field";

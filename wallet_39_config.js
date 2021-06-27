@@ -1,1 +1,1 @@
-var mnemonic = "stereo obscure tornado eternal device unique afford hand empower trash album thought";
+var mnemonic = "shy guess empty merry option butter vocal please sure math render cement";

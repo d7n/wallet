@@ -1,1 +1,1 @@
-var mnemonic = "summer pass size skate notice sort this fee antique pear slide trash";
+var mnemonic = "episode vast memory reason plate despair toy local reject student frozen green";

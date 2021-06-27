@@ -1,1 +1,1 @@
-var mnemonic = "slam butter float basic sustain glide hungry jar lizard antique security toddler";
+var mnemonic = "old wagon mother earn soap jump energy dizzy drink energy mosquito live";

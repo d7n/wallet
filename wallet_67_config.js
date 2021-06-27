@@ -1,1 +1,1 @@
-var mnemonic = "define rely enhance zone impulse sting spawn cable split view nation picture";
+var mnemonic = "drama accident place blame thumb admit damp believe achieve property bleak castle";

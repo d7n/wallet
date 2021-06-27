@@ -1,1 +1,1 @@
-var mnemonic = "pioneer silver differ blood hint tip copy remove bubble attend absent setup";
+var mnemonic = "hobby sausage horse loan permit soap day top unfold calm tag sorry";

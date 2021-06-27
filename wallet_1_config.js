@@ -1,1 +1,1 @@
-var mnemonic = "nice old deputy mosquito occur deliver begin thing sing business boss fog";
+var mnemonic = "fortune exist silent artefact hour angry tribe refuse dutch knock oblige cake";

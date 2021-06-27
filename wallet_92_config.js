@@ -1,1 +1,1 @@
-var mnemonic = "canal fog emerge link fitness vital believe camp paper peasant manual crowd";
+var mnemonic = "volume grid render web address nominee ocean wage atom among glare warrior";

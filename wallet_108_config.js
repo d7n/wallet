@@ -1,1 +1,1 @@
-var mnemonic = "spy alley auction pig endorse decide blur lecture disorder adult sniff live";
+var mnemonic = "puzzle ring cigar once easily riot lonely water cannon point universe twice";

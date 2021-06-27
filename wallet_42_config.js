@@ -1,1 +1,1 @@
-var mnemonic = "viable garlic current embody explain heart notable raise arrow black next label";
+var mnemonic = "shoulder easy dress ocean pool accident pen sleep mule aisle dawn device";

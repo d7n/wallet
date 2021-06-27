@@ -1,1 +1,1 @@
-var mnemonic = "panic draft seat message adjust place neutral staff because vast awful detect";
+var mnemonic = "invest tilt heavy deny always joke churn rack mistake promote stick outdoor";

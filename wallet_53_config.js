@@ -1,1 +1,1 @@
-var mnemonic = "blind hybrid addict improve hundred gravity glad tired cushion accuse absorb still";
+var mnemonic = "tomorrow staff clay cup chalk always shadow mad robot away leg glimpse";

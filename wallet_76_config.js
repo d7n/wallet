@@ -1,1 +1,1 @@
-var mnemonic = "timber general letter toilet chat enter elder shed secret hub field extra";
+var mnemonic = "deliver taxi feature teach dust float fragile climb put echo member surround";

@@ -1,1 +1,1 @@
-var mnemonic = "over lazy clinic guitar acoustic helmet salad weird orchard such vehicle tool";
+var mnemonic = "canoe rain audit fly kiss ahead deposit sudden fantasy struggle express segment";

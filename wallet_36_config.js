@@ -1,1 +1,1 @@
-var mnemonic = "bless oval inner resource demise first melody evil forest quote endless candy";
+var mnemonic = "cat unveil pupil denial clutch daring powder table federal scheme brain fault";

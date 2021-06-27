@@ -1,1 +1,1 @@
-var mnemonic = "track gate arena kick daring annual rent ginger arctic crumble transfer inherit";
+var mnemonic = "canal theme observe liquid tunnel festival target despair sugar kiwi mule use";

@@ -1,1 +1,1 @@
-var mnemonic = "display initial federal survey bless expire choice marriage quote that surface toilet";
+var mnemonic = "drive suggest problem brave bronze join between police fiber strike aim insane";

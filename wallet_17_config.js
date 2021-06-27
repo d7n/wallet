@@ -1,1 +1,1 @@
-var mnemonic = "end discover economy birth rhythm evidence little suggest appear domain what easy";
+var mnemonic = "turn state decade hill brass grab helmet fence donkey fragile poem size";

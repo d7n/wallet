@@ -1,1 +1,1 @@
-var mnemonic = "tourist wild play album miracle peasant proof color pigeon fox morning village";
+var mnemonic = "sentence boy eye same depend calm isolate erupt client extend bid salon";

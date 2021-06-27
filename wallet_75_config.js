@@ -1,1 +1,1 @@
-var mnemonic = "provide gym dry ginger among orbit often spot life drama cloud maze";
+var mnemonic = "giraffe notice lottery slender frog front pipe setup tribe gadget mix tonight";

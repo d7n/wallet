@@ -1,1 +1,1 @@
-var mnemonic = "civil mixed planet magnet pizza else excess walnut gorilla enemy believe vacant";
+var mnemonic = "scheme domain hour combine rice grass grow enhance bring december vague youth";

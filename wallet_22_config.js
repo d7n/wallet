@@ -1,1 +1,1 @@
-var mnemonic = "curtain horn arm suffer column cross quality caution income between smooth genre";
+var mnemonic = "pony car possible believe whisper cry fog wash mention scissors circle hat";

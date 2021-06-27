@@ -1,1 +1,1 @@
-var mnemonic = "human visa during label shoot month snack average city rice later evil";
+var mnemonic = "scrap uncover lift mammal print child credit citizen art pretty ocean ethics";

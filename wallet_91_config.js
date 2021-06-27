@@ -1,1 +1,1 @@
-var mnemonic = "ball hat main brief bone road decorate rotate any fault zoo drastic";
+var mnemonic = "loan senior nation husband lens sword attract romance pistol talk pill awkward";

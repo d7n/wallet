@@ -1,1 +1,1 @@
-var mnemonic = "recipe correct sniff fence category medal heavy lava coil coral hood sight";
+var mnemonic = "master sand write ankle rapid vehicle wall job rose sort thank audit";

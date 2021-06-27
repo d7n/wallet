@@ -1,1 +1,1 @@
-var mnemonic = "alert phrase soccer fantasy slow oxygen cereal kitchen rubber bitter onion three";
+var mnemonic = "cloud notice hood later mutual maple shoe sibling rude purity chief orbit";

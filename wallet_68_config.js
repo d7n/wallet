@@ -1,1 +1,1 @@
-var mnemonic = "end vacant dove base tank child patch today material mirror ribbon tunnel";
+var mnemonic = "hotel soda piano trumpet zebra ivory absurd plate annual naive guitar tide";

@@ -1,1 +1,1 @@
-var mnemonic = "immense ready warm stairs what thought culture describe alley fantasy blossom lab";
+var mnemonic = "nasty knife top weekend kind word wing false climb lady kind bleak";

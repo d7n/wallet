@@ -1,1 +1,1 @@
-var mnemonic = "solar brand lawsuit lawn puzzle patrol census banner obvious split brisk door";
+var mnemonic = "sentence steak country barely dress two view anger thrive delay side tuna";

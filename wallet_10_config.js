@@ -1,1 +1,1 @@
-var mnemonic = "survey doctor inside phrase clutch album hamster cereal solid crater type media";
+var mnemonic = "urban maple piece wing rather patch gentle umbrella salt pulp drastic talent";

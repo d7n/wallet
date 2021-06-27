@@ -1,1 +1,1 @@
-var mnemonic = "ice allow paper hungry hint wasp exile nuclear fork glimpse invite awesome";
+var mnemonic = "reveal empower truck interest hope shoulder caught prevent daring menu vendor suggest";

@@ -1,1 +1,1 @@
-var mnemonic = "return tunnel bargain cram clever truth nerve bundle true street cattle transfer";
+var mnemonic = "thunder develop head river cave ivory fit help increase lens silly pipe";

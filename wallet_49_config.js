@@ -1,1 +1,1 @@
-var mnemonic = "below excuse gasp obvious bitter holiday thumb spin exclude card rescue round";
+var mnemonic = "warrior jeans unhappy act battle topple alert second vocal stay friend garden";

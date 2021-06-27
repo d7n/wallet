@@ -1,1 +1,1 @@
-var mnemonic = "round hire female model spoil swear illegal swift nurse lazy favorite rate";
+var mnemonic = "sand crumble lucky crash couple board bounce burst cube model mobile degree";

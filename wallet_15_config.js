@@ -1,1 +1,1 @@
-var mnemonic = "glove they walnut salon nominee minimum strong angry reflect parent laugh wheat";
+var mnemonic = "canal rail surface slight disagree outdoor tonight royal wreck unit drink smooth";

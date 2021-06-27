@@ -1,1 +1,1 @@
-var mnemonic = "uniform exit over pony breeze such wing float capable cement one year";
+var mnemonic = "fall ticket kangaroo exhaust believe wife volcano goose exile cage pride error";

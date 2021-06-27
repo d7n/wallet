@@ -1,1 +1,1 @@
-var mnemonic = "ball either film omit monster often dish spare wage panda labor sheriff";
+var mnemonic = "crime neither narrow fence thing chief engine worth garbage remember piece scene";

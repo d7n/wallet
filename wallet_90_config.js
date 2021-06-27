@@ -1,1 +1,1 @@
-var mnemonic = "uniform monkey dizzy orbit female brother veteran swing episode language ginger physical";
+var mnemonic = "carpet crouch vibrant vendor dutch inmate ticket dry weekend maple umbrella artwork";

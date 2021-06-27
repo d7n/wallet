@@ -1,1 +1,1 @@
-var mnemonic = "error smooth wheel stove junior scissors secret cliff forward know suffer bitter";
+var mnemonic = "eager flower mountain cave swamp steel lunar boost mutual kid able female";

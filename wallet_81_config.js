@@ -1,1 +1,1 @@
-var mnemonic = "stadium tribe lyrics idle whale lens wrap wool valid concert vacuum live";
+var mnemonic = "moral ostrich egg tag song point armor bridge rich lock cloth absurd";

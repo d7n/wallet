@@ -1,1 +1,1 @@
-var mnemonic = "bounce enlist fancy monitor derive mom whale virtual electric found dream industry";
+var mnemonic = "ridge service fever foam dragon slam solar renew coach nurse when custom";

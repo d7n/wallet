@@ -1,1 +1,1 @@
-var mnemonic = "involve stove clean this demise reflect lunar believe same merit lyrics decrease";
+var mnemonic = "month detect announce depth scare cotton drama wait visa economy elbow upgrade";

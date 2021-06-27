@@ -1,1 +1,1 @@
-var mnemonic = "assume upset miss dress cat render mango champion moment reveal walnut post";
+var mnemonic = "onion brain want bag vintage rival delay pencil borrow prevent solution move";

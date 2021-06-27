@@ -1,1 +1,1 @@
-var mnemonic = "verb nose bread wheat uphold viable orange top symptom bottom blur faculty";
+var mnemonic = "element change prevent crumble off walk loan tuna enhance asset island decline";

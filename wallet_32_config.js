@@ -1,1 +1,1 @@
-var mnemonic = "omit muffin burst replace guitar enforce cinnamon usual veteran mixture tooth wish";
+var mnemonic = "story expire funny worry scatter swallow sheriff wagon gather review artwork drift";

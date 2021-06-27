@@ -1,1 +1,1 @@
-var mnemonic = "risk orphan endless can immune dinner thought theory found borrow fit twist";
+var mnemonic = "fly little hidden citizen swear youth wild learn dinosaur require culture observe";

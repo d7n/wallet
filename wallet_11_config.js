@@ -1,1 +1,1 @@
-var mnemonic = "divorce strategy fuel close silver various tape film setup sail job family";
+var mnemonic = "hard antenna volume please island regular light wise balcony evolve antique midnight";

@@ -1,1 +1,1 @@
-var mnemonic = "speak rigid dog satoshi animal shrug fruit cinnamon decorate apple flavor speed";
+var mnemonic = "gorilla canyon conduct kitten visual report tiny muffin glance rhythm during milk";

@@ -1,1 +1,1 @@
-var mnemonic = "recycle rabbit rain brown board master palm airport legend bench impact special";
+var mnemonic = "open produce east laugh evoke firm avocado novel minor lunar episode lesson";

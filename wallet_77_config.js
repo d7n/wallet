@@ -1,1 +1,1 @@
-var mnemonic = "resist thing address sudden alter swallow hungry brown check sort daring version";
+var mnemonic = "rebuild tide exotic humble shoulder bridge setup output sunny awake ancient kid";

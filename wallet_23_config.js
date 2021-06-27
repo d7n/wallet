@@ -1,1 +1,1 @@
-var mnemonic = "hero young young inform path salad spare web tired ranch ten stay";
+var mnemonic = "rail seek twist improve guilt fox tomorrow novel rich series clarify rude";

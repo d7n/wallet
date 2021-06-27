@@ -1,1 +1,1 @@
-var mnemonic = "start bridge amused camera hair feed guilt check always mammal bench lawn";
+var mnemonic = "wall page cat spatial battle gallery mirror random rescue atom shoulder hundred";

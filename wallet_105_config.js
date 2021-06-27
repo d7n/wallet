@@ -1,1 +1,1 @@
-var mnemonic = "sausage please decline skate butter bargain smile dog wait transfer dismiss taxi";
+var mnemonic = "size confirm cotton laugh wedding topple sadness deal car garment glove reward";

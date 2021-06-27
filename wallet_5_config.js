@@ -1,1 +1,1 @@
-var mnemonic = "practice kitten evoke crunch suit guess grape legal coffee humble diagram citizen";
+var mnemonic = "reveal stairs worth tent fiscal month dash vague cook tooth box side";

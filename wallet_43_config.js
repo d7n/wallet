@@ -1,1 +1,1 @@
-var mnemonic = "cabbage useful cradle aim script tape consider waste segment off reform wave";
+var mnemonic = "jewel album benefit wasp horror quiz pulp road peanut wild tongue drill";

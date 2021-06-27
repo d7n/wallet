@@ -1,1 +1,1 @@
-var mnemonic = "wrong shoulder distance coral pretty coyote below hurry clock humor drop retire";
+var mnemonic = "vibrant name recycle reason feed much broken black green pudding shoulder page";

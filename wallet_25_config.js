@@ -1,1 +1,1 @@
-var mnemonic = "code wheel obey dizzy myth space joke salmon orbit embark tunnel program";
+var mnemonic = "scale add awake squirrel biology correct idle hold novel lawsuit outdoor volcano";

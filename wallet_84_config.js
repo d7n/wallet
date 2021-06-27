@@ -1,1 +1,1 @@
-var mnemonic = "age style pipe tortoise burst escape horn nation under search lottery february";
+var mnemonic = "poverty dry impact advice grape core swap exhaust length toy steak athlete";

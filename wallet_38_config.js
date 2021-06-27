@@ -1,1 +1,1 @@
-var mnemonic = "price unusual destroy luggage patrol struggle love donkey coach that maze evolve";
+var mnemonic = "slide pave lecture blouse unknown machine embark since crater quarter genuine distance";

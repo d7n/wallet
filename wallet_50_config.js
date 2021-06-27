@@ -1,1 +1,1 @@
-var mnemonic = "giraffe drift tape roast pass tail awkward noise acoustic section enroll humble";
+var mnemonic = "author length depth echo hundred alert huge adapt romance foot absent chat";

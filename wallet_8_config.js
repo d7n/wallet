@@ -1,1 +1,1 @@
-var mnemonic = "seminar educate fault slender reason wrestle bright relief grocery miss wait frequent";
+var mnemonic = "dice theory gasp where sausage drink useless other bracket shoulder double position";

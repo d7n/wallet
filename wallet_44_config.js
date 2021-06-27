@@ -1,1 +1,1 @@
-var mnemonic = "holiday dish narrow boring timber install anchor medal evoke suit gown jewel";
+var mnemonic = "depth quit wagon clock frog spoon name version derive hood pottery keen";

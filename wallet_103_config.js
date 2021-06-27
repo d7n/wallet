@@ -1,1 +1,1 @@
-var mnemonic = "party teach inhale limb stereo obscure book pizza safe cricket library marriage";
+var mnemonic = "city glove emotion hat acoustic path hip miracle enhance ripple unique suffer";

@@ -1,1 +1,1 @@
-var mnemonic = "helmet insane cheese find month clever smoke sure when purchase night frown";
+var mnemonic = "charge spoil sad evidence about ocean subject symbol board grab panel advance";

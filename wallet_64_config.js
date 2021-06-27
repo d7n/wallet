@@ -1,1 +1,1 @@
-var mnemonic = "scout derive letter example fee unaware rookie fly chicken diet celery tray";
+var mnemonic = "bar add random dose cave possible great now recall resist blade canvas";

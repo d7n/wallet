@@ -1,1 +1,1 @@
-var mnemonic = "announce impose option critic property cross agent stumble try inside mansion armor";
+var mnemonic = "kiwi seek photo month panda endless notable cheese flame good valve midnight";

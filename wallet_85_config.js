@@ -1,1 +1,1 @@
-var mnemonic = "doll pass hood wave tower coin gauge corn mesh million sibling rabbit";
+var mnemonic = "plug close better remind replace view social human bamboo barely mother hello";

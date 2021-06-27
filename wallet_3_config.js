@@ -1,1 +1,1 @@
-var mnemonic = "middle idle question hint misery color arena season festival budget express domain";
+var mnemonic = "winter february crush giant brush saddle grid december have design supreme water";

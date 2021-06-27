@@ -1,1 +1,1 @@
-var mnemonic = "setup hour face saddle divide there hobby cannon describe drama poet gas";
+var mnemonic = "renew between unaware note jewel goat diet verb embody toward model symptom";

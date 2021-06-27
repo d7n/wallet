@@ -1,1 +1,1 @@
-var mnemonic = "torch stool mad erupt rib trip taste melody cream alcohol awful tired";
+var mnemonic = "above tonight inhale process hybrid captain edit belt suspect split vacuum afford";

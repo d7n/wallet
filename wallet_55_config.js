@@ -1,1 +1,1 @@
-var mnemonic = "okay country eternal level diary display habit book apple script property galaxy";
+var mnemonic = "sphere hen kiwi margin swamp toss divide cost aerobic galaxy language envelope";

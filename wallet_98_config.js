@@ -1,1 +1,1 @@
-var mnemonic = "daring speed hood little radio scissors winter fork fiscal sock opinion panda";
+var mnemonic = "final flavor cabin else tribe save settle consider robot vehicle bundle large";

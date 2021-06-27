@@ -1,1 +1,1 @@
-var mnemonic = "wild enhance cry link hello van card insect hand mass gym best";
+var mnemonic = "fun forum club april meat offer mansion mother vicious retire spike trash";

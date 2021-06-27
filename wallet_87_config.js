@@ -1,1 +1,1 @@
-var mnemonic = "tissue pond purity giant park sun disagree access remove canal shine tattoo";
+var mnemonic = "nest forum airport retreat mother echo salmon hurry black spike once canvas";

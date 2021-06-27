@@ -1,1 +1,1 @@
-var mnemonic = "olive raccoon they trumpet salute together debate recipe cereal pulp shoe drift";
+var mnemonic = "marble awful edge stove tuition endless taste size good practice armor hammer";

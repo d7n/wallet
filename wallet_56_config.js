@@ -1,1 +1,1 @@
-var mnemonic = "farm weekend walnut spring sadness quiz purchase parade knife someone element coast";
+var mnemonic = "clean reunion produce very robust small guess rule view east lounge glide";

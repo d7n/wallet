@@ -1,1 +1,1 @@
-var mnemonic = "fire suggest remember bird fork ramp own accident bargain fiber sorry explain";
+var mnemonic = "auto call winter observe tribe release naive patient connect sponsor capable august";

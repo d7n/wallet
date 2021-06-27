@@ -1,1 +1,1 @@
-var mnemonic = "nation refuse broccoli donkey extra vault mention room soldier office electric fly";
+var mnemonic = "rescue universe coyote celery craft thrive slow crush trash unlock work expand";

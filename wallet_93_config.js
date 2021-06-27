@@ -1,1 +1,1 @@
-var mnemonic = "sadness index guide net panda obvious inhale virtual together ticket awake spring";
+var mnemonic = "stamp agree laptop lonely buffalo win brisk insane win enhance nest source";

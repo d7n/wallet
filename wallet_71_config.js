@@ -1,1 +1,1 @@
-var mnemonic = "bind arrow mango team police use bonus expect stem way orange rotate";
+var mnemonic = "crop time clay hotel crater myself matrix genuine lamp clown despair task";

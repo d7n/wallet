@@ -1,1 +1,1 @@
-var mnemonic = "jelly nation plug note harvest regular soft essence emotion hip someone cruise";
+var mnemonic = "heart tattoo broom seven obtain dilemma minute fence total direct fame increase";

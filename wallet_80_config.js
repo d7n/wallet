@@ -1,1 +1,1 @@
-var mnemonic = "badge endorse host item blanket eagle cool correct pass large tuition close";
+var mnemonic = "limit multiply cinnamon pair acid there act message shrimp cruise silver twist";

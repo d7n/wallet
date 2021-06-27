@@ -1,1 +1,1 @@
-var mnemonic = "mind obey tape damage metal outer arch short rare fiber fever just";
+var mnemonic = "fashion crack share drum defense robust boat rebel monkey family echo cost";

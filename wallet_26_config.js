@@ -1,1 +1,1 @@
-var mnemonic = "demise method just depart naive increase acid mechanic awesome supreme alcohol depart";
+var mnemonic = "ugly donor lava urban tide bunker legend atom agent trip spatial media";

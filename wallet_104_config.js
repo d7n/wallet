@@ -1,1 +1,1 @@
-var mnemonic = "proof enroll home lab broccoli civil olympic deputy lens member around better";
+var mnemonic = "isolate shop length donate subject maid all body detect lunch traffic fashion";

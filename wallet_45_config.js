@@ -1,1 +1,1 @@
-var mnemonic = "beach misery genius alley model merit humble sport sunset gold chronic indicate";
+var mnemonic = "right people silver evolve biology soup stock century clump use provide approve";

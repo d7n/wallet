@@ -1,1 +1,1 @@
-var mnemonic = "chest boy permit bus hybrid run bread cram normal wire brisk change";
+var mnemonic = "trophy test misery admit achieve ship mystery ginger way aerobic close iron";

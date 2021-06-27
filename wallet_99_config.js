@@ -1,1 +1,1 @@
-var mnemonic = "salt wing depend acid slam clay soup stuff raw inspire company utility";
+var mnemonic = "nothing pen night dice demand object position argue royal powder blossom ten";

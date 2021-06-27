@@ -1,1 +1,1 @@
-var mnemonic = "over inform pistol seed aerobic day cabin penalty river student will snake";
+var mnemonic = "liquid fat toddler round enhance segment apple bulk vacant slogan enter shrug";

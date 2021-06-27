@@ -1,1 +1,1 @@
-var mnemonic = "chief option surprise matter stage maid sock hello alert plunge identify cabbage";
+var mnemonic = "under snap limit oblige riot tonight expand roof allow swap absurd toddler";
