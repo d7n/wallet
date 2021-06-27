@@ -1,1 +1,1 @@
-var mnemonic = "ride shop holiday vessel base snow duty puzzle shrimp various position dream";
+var mnemonic = "empty vehicle mom fall lawn shuffle bless royal enough file enroll other";

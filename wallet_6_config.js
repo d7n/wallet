@@ -1,1 +1,1 @@
-var mnemonic = "seminar smart acid write helmet season charge whisper satisfy cheap unit evidence";
+var mnemonic = "shock museum lawsuit spatial fragile panel excess pass defense clean during divide";

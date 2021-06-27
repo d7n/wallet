@@ -1,1 +1,1 @@
-var mnemonic = "bracket primary penalty vocal tunnel height board occur poet melody resource paper";
+var mnemonic = "radar forest purity tongue double kite lecture act boat clay divide below";

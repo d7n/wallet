@@ -1,1 +1,1 @@
-var mnemonic = "slam mail east dawn enact wage mule chalk narrow velvet just horse";
+var mnemonic = "index vague brief embody trade uniform hollow weird page mail daring vehicle";

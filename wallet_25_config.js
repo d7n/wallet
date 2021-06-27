@@ -1,1 +1,1 @@
-var mnemonic = "blade pole draft device soccer urge cradle height motion achieve history mutual";
+var mnemonic = "crucial check exit destroy spider dilemma flower polar dynamic vicious olive fury";

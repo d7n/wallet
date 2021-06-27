@@ -1,1 +1,1 @@
-var mnemonic = "memory usual planet decline during staff bike print tube illegal city monkey";
+var mnemonic = "casual party crouch giggle order cheese elevator treat useless already shrimp auto";

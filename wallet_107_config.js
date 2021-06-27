@@ -1,1 +1,1 @@
-var mnemonic = "mention exit vibrant risk poverty crumble weather bridge bar nature then minute";
+var mnemonic = "cube drum icon critic night buyer ribbon claw fresh iron thunder lawn";

@@ -1,1 +1,1 @@
-var mnemonic = "pipe roof wave employ coach goddess omit extra goose term flat fame";
+var mnemonic = "vibrant foam twelve lizard ethics badge clump public art chase adapt uphold";

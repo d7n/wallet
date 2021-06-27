@@ -1,1 +1,1 @@
-var mnemonic = "lock grid tattoo behave wink remain churn age wheel lecture live ecology";
+var mnemonic = "fresh noise fit yard figure marble endless charge mention life learn brain";

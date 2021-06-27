@@ -1,1 +1,1 @@
-var mnemonic = "health purpose hill bacon chase test shell left aisle glimpse lend witness";
+var mnemonic = "pact parent hotel animal govern theory swim dice client steel jump pledge";

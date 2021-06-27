@@ -1,1 +1,1 @@
-var mnemonic = "message tell entire repeat bind muscle target proud artist narrow siege half";
+var mnemonic = "deal cause bright flower boil isolate erupt message panel inflict champion meadow";

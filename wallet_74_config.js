@@ -1,1 +1,1 @@
-var mnemonic = "broken detect sadness clarify exhaust height peace violin project laundry current link";
+var mnemonic = "exchange scorpion teach discover gesture burst welcome minimum bottom panda jelly bulb";

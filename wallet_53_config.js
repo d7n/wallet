@@ -1,1 +1,1 @@
-var mnemonic = "question youth offer labor sight diary cousin mechanic exotic depart evidence dance";
+var mnemonic = "frequent aisle page until wise loyal reward learn scan robust clog grant";

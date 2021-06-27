@@ -1,1 +1,1 @@
-var mnemonic = "worry short sample unusual chimney apple alter long pear warrior ticket need";
+var mnemonic = "kick melody junk wet clerk fetch bleak zebra system drastic hole barrel";

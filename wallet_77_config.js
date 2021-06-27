@@ -1,1 +1,1 @@
-var mnemonic = "pupil mirror case recall concert identify foam dog soap learn transfer nuclear";
+var mnemonic = "wealth tired impose grief flock feel gospel defense nurse tourist suspect dutch";

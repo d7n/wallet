@@ -1,1 +1,1 @@
-var mnemonic = "enough avoid pulp little double office range verb crisp accident vocal hand";
+var mnemonic = "solar gown civil choose jungle shoulder coach float hotel govern home royal";

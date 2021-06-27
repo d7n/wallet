@@ -1,1 +1,1 @@
-var mnemonic = "left mercy invite balcony bring neglect puzzle siege blind brass mandate source";
+var mnemonic = "lounge liar goose shrug push also stem marble business music company thunder";

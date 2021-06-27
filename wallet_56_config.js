@@ -1,1 +1,1 @@
-var mnemonic = "panic toy roast tortoise tooth praise discover lift mercy fun route loan";
+var mnemonic = "obey fringe rely extend season scene give renew plunge argue idea visit";

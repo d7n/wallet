@@ -1,1 +1,1 @@
-var mnemonic = "bronze purpose squirrel destroy lava cruise smile supply explain glimpse liberty deny";
+var mnemonic = "furnace soldier photo lawn ignore truck secret vault pluck mammal glue snap";

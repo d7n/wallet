@@ -1,1 +1,1 @@
-var mnemonic = "century lemon cream snow energy twelve burst dial alter debris luggage cake";
+var mnemonic = "lucky plunge upset vital husband space meat dumb calm brush hope embrace";

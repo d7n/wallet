@@ -1,1 +1,1 @@
-var mnemonic = "move doll mutual debate image wild seek punch cost cat swallow nice";
+var mnemonic = "input advance husband reopen include powder vessel gallery fan mango deliver balance";

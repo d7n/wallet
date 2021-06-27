@@ -1,1 +1,1 @@
-var mnemonic = "pause subway carry laptop until bless dress price upon miracle wolf mountain";
+var mnemonic = "verify burst still panther correct expand basket file sight angry tray copy";

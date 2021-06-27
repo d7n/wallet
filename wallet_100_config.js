@@ -1,1 +1,1 @@
-var mnemonic = "choice razor find token fantasy lady process medal acid miracle pact crumble";
+var mnemonic = "lady solar wage drum diary afraid deliver virus topple sound floor deal";

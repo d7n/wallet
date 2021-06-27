@@ -1,1 +1,1 @@
-var mnemonic = "magic shield wedding mistake young cheap tortoise hope fetch coffee path air";
+var mnemonic = "receive shock bleak inside era heart interest endorse reason govern satoshi income";

@@ -1,1 +1,1 @@
-var mnemonic = "ten dragon sweet brief tobacco mad patrol eagle sample avocado guess join";
+var mnemonic = "minimum such airport oyster innocent luxury faculty music odor panther flight swap";

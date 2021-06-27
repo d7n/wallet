@@ -1,1 +1,1 @@
-var mnemonic = "firm hybrid party tired veteran gather crack arctic become what giraffe lizard";
+var mnemonic = "room kind enroll father fringe broom swift tone elite attitude bless list";

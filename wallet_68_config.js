@@ -1,1 +1,1 @@
-var mnemonic = "bring example door weather mention canvas pave tornado symbol odor worth original";
+var mnemonic = "sauce forum net curve shoulder inherit club parade right envelope twist security";

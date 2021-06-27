@@ -1,1 +1,1 @@
-var mnemonic = "point burger puppy demise gym call grocery mandate clog unhappy crawl engine";
+var mnemonic = "truly grape program load spoon pelican segment flee connect skirt machine bundle";

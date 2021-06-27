@@ -1,1 +1,1 @@
-var mnemonic = "devote baby roast skirt bench happy diary bread else flip staff deal";
+var mnemonic = "devote dismiss custom glove riot october suit soft border degree sugar decline";

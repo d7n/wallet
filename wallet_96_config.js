@@ -1,1 +1,1 @@
-var mnemonic = "exercise turn job again start what merge fetch board usual master floor";
+var mnemonic = "tank south wish fish miracle few piano valley comfort surprise prevent jeans";

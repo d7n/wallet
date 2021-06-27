@@ -1,1 +1,1 @@
-var mnemonic = "jewel evolve snake bamboo nuclear august blast crush fatal bunker worry major";
+var mnemonic = "grain elevator air repair mention play chaos right father aim profit bus";

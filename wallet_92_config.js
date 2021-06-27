@@ -1,1 +1,1 @@
-var mnemonic = "punch cigar exercise method ridge cattle fold resist shell february soft target";
+var mnemonic = "target ahead such nothing until option trend adult genuine post mean fee";

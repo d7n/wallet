@@ -1,1 +1,1 @@
-var mnemonic = "coil solve need ability fetch scan element insane brief act return smoke";
+var mnemonic = "birth immune leaf soldier tenant truly absurd cool ticket hello disagree screen";

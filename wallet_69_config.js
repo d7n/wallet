@@ -1,1 +1,1 @@
-var mnemonic = "pipe pigeon season color crucial treat effort situate spend caught glance find";
+var mnemonic = "easily enact decide excuse icon unfold spirit mystery eternal scissors lottery rocket";

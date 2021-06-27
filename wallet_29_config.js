@@ -1,1 +1,1 @@
-var mnemonic = "athlete render female shoulder sudden visa banner labor pulp plastic broken caution";
+var mnemonic = "theory client ecology light piano faint gun fire holiday toast cook blouse";

@@ -1,1 +1,1 @@
-var mnemonic = "pact web business ramp tomato gadget noise client obtain acid insane key";
+var mnemonic = "essence jelly front surface fancy tortoise penalty rabbit matrix long course click";

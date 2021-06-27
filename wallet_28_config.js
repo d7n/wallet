@@ -1,1 +1,1 @@
-var mnemonic = "shift virtual stairs filter outside pigeon bamboo quarter trim mass army mandate";
+var mnemonic = "congress arctic detect picnic warm stove bar vendor curious police alert purse";

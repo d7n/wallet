@@ -1,1 +1,1 @@
-var mnemonic = "stairs try zebra cherry slide ceiling next perfect version expect current region";
+var mnemonic = "doctor write quiz fish catch start diagram torch marine crack again news";

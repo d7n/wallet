@@ -1,1 +1,1 @@
-var mnemonic = "inquiry desert sun day second stone repeat island draw mixture cancel victory";
+var mnemonic = "motor monitor prevent drum office keen loud bracket hollow dry frequent stereo";

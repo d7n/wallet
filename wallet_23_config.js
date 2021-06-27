@@ -1,1 +1,1 @@
-var mnemonic = "topple regular tobacco talent slogan moral bunker sing voice genuine dress great";
+var mnemonic = "extend ketchup salmon client room foil toilet hobby dad fence upper click";

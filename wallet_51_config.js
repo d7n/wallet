@@ -1,1 +1,1 @@
-var mnemonic = "memory afford obvious pink hat universe vendor observe salmon cost senior hedgehog";
+var mnemonic = "pear quiz mutual top summer sense where road play tomorrow friend walk";

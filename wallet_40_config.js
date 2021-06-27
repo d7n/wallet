@@ -1,1 +1,1 @@
-var mnemonic = "game slam umbrella eye rose improve employ traffic sound warm review genius";
+var mnemonic = "sweet sad tomorrow age fiction feature angry ten chair giggle inmate lemon";

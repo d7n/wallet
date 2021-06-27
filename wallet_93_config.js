@@ -1,1 +1,1 @@
-var mnemonic = "brief gun minimum venue warm chalk budget mail electric ladder lamp keen";
+var mnemonic = "slot novel view robot exercise cotton noodle valve spring cabbage limit wing";

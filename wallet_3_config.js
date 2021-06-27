@@ -1,1 +1,1 @@
-var mnemonic = "wrong girl rose debate medal spy obvious stand brother brick assault weasel";
+var mnemonic = "hill park live glass wrist coyote nurse eyebrow skate video page april";

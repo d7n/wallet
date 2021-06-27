@@ -1,1 +1,1 @@
-var mnemonic = "fruit cycle track column exile vital egg away lazy pipe table sauce";
+var mnemonic = "lion car trip blade spatial gauge smooth flag under indoor process pond";

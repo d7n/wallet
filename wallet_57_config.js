@@ -1,1 +1,1 @@
-var mnemonic = "decline carbon quality gloom exhibit labor wife tool shift vote adapt nose";
+var mnemonic = "shrimp give abuse duty step wing you license shine like slow digital";

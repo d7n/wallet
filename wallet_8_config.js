@@ -1,1 +1,1 @@
-var mnemonic = "all sport problem reform female thrive trouble cover turn left toward famous";
+var mnemonic = "air brand acquire venue funny move metal select unknown enlist flavor flag";

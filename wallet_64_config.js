@@ -1,1 +1,1 @@
-var mnemonic = "speed card early divide chimney wash ribbon theme picnic humble chapter birth";
+var mnemonic = "extend electric fiber unaware walnut mistake soap planet flavor rocket picnic under";

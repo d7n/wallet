@@ -1,1 +1,1 @@
-var mnemonic = "parrot plate mercy ozone discover embrace earth miracle senior course federal strike";
+var mnemonic = "veteran accuse profit science mad reopen escape victory invest space daring oak";

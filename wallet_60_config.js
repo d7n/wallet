@@ -1,1 +1,1 @@
-var mnemonic = "vibrant lounge keep approve actor wreck skin safe elbow egg female antenna";
+var mnemonic = "document hundred bundle drip athlete decorate duty cup menu coral marble song";

@@ -1,1 +1,1 @@
-var mnemonic = "merit umbrella dentist elephant law erupt offer fat divert property balance throw";
+var mnemonic = "carbon tag outer wife walk bread lawn book fiction photo nasty panel";

@@ -1,1 +1,1 @@
-var mnemonic = "ill zone bone noodle vault armed enemy hip cook brown fashion broccoli";
+var mnemonic = "expect joke van vehicle predict mix card ginger acoustic snake base raise";

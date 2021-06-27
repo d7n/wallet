@@ -1,1 +1,1 @@
-var mnemonic = "merit ankle tired clip image frequent shift tower dutch happy resemble ramp";
+var mnemonic = "scare asset ignore trust gaze empower radio inner history ripple peasant just";

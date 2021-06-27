@@ -1,1 +1,1 @@
-var mnemonic = "surround neglect attitude gather change youth exact biology elder among nominee left";
+var mnemonic = "rely shoulder search dawn estate hurdle stage useless poverty circle shell element";

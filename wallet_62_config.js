@@ -1,1 +1,1 @@
-var mnemonic = "entire eye submit mad gift mystery grab mail palace broken lobster risk";
+var mnemonic = "cargo duty test enjoy old position broccoli breeze concert evidence athlete arctic";

@@ -1,1 +1,1 @@
-var mnemonic = "sing stable mutual virus age subject bulk space tortoise above toward unknown";
+var mnemonic = "section hard rib govern expire lobster dust awful strong exit goddess head";

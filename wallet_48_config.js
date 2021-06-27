@@ -1,1 +1,1 @@
-var mnemonic = "tuition cruel grid afford tongue visual solve style tip hotel help zoo";
+var mnemonic = "office hawk charge whale mom keep grab prefer program cotton keen travel";

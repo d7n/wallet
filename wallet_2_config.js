@@ -1,1 +1,1 @@
-var mnemonic = "moon lamp elite say nerve similar sure antenna million pond inflict axis";
+var mnemonic = "wisdom august human try express elder alarm soldier trap panda pen race";

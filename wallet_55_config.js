@@ -1,1 +1,1 @@
-var mnemonic = "wire vague hunt invest north ramp spider skull blue exchange grant sorry";
+var mnemonic = "scout adult once hero reunion oak kiss annual puzzle food vicious column";

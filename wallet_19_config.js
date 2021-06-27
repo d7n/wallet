@@ -1,1 +1,1 @@
-var mnemonic = "heavy menu thrive square example clean predict recall much duck kidney oil";
+var mnemonic = "project plug sight gap fold brand finger place there abandon lazy symbol";

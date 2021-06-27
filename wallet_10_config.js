@@ -1,1 +1,1 @@
-var mnemonic = "quiz flock ordinary diesel noodle hybrid town abstract monitor cinnamon gown ecology";
+var mnemonic = "avocado mouse major since globe live jungle siege idle dash unknown elite";

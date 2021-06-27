@@ -1,1 +1,1 @@
-var mnemonic = "noodle basket wise leader hero only true tissue permit busy stock gauge";
+var mnemonic = "ladder pulse daughter wear sing escape replace month web render illness miss";

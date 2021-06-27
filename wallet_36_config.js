@@ -1,1 +1,1 @@
-var mnemonic = "zebra indicate lazy enroll curious switch search actual rain fury dress kick";
+var mnemonic = "concert churn exercise nice gospel usage open dish stay multiply sing genius";

@@ -1,1 +1,1 @@
-var mnemonic = "expose example ranch account own sweet next fault crucial better winner banner";
+var mnemonic = "kite bar merge thunder token oxygen favorite beach muscle enough artwork file";

@@ -1,1 +1,1 @@
-var mnemonic = "goat slender invite slice rival hollow exit shiver click rough penalty bottom";
+var mnemonic = "jelly dawn question client olive entry risk path supply gauge network chaos";

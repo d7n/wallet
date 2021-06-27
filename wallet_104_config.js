@@ -1,1 +1,1 @@
-var mnemonic = "forget omit forget faint sunny bulb wet decide educate similar lady furnace";
+var mnemonic = "soon equal brown lyrics unknown crunch power blanket library select rather thank";

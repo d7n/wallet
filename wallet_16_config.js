@@ -1,1 +1,1 @@
-var mnemonic = "dance narrow library gather tent educate imitate walnut mirror gloom session dilemma";
+var mnemonic = "repair day teach federal economy north erase sell error senior asthma gym";

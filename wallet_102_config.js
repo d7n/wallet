@@ -1,1 +1,1 @@
-var mnemonic = "soup maple soap sugar moment guide concert rubber mushroom smile law garlic";
+var mnemonic = "utility ability scare feature between audit primary blind size total worry spike";

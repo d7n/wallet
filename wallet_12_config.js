@@ -1,1 +1,1 @@
-var mnemonic = "shed finger shoulder cricket myself idea input arena frost vicious hen evoke";
+var mnemonic = "life marine fatal rain host wash stool entry window ridge toilet rib";

@@ -1,1 +1,1 @@
-var mnemonic = "deliver ride brick noodle thrive survey power skill saddle common impact venture";
+var mnemonic = "bacon music swallow gift breeze laugh polar legal traffic govern settle tonight";

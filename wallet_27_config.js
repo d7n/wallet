@@ -1,1 +1,1 @@
-var mnemonic = "budget brain hidden evolve battle excite tape fine hello annual solution advice";
+var mnemonic = "luggage purchase warm alert bus brush nominee upper print broom cushion green";

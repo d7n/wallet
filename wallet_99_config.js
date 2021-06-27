@@ -1,1 +1,1 @@
-var mnemonic = "aware disorder forward warm tired movie venture forum supply note corn whale";
+var mnemonic = "glide warrior lyrics pave ladder critic pair evil body face muscle stock";

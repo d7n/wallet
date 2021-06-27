@@ -1,1 +1,1 @@
-var mnemonic = "liquid trigger catalog movie wage rent hundred pause spell soul rival moon";
+var mnemonic = "loyal nothing border there glad huge glide distance radar lake test crucial";

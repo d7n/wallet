@@ -1,1 +1,1 @@
-var mnemonic = "provide lucky hole drama album door history special mention stick envelope lend";
+var mnemonic = "lab harsh water stick easy rookie vivid promote flag dice sister sure";

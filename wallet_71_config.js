@@ -1,1 +1,1 @@
-var mnemonic = "heavy where beef faith erupt jacket keen found lamp insane leader predict";
+var mnemonic = "outdoor razor lawsuit inner lab match nice digital expose such arch left";

@@ -1,1 +1,1 @@
-var mnemonic = "maple rate heart theory benefit debris extend aim face increase govern survey";
+var mnemonic = "tourist coconut fiction egg benefit state surround away wisdom lion cube river";

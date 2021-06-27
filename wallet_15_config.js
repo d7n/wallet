@@ -1,1 +1,1 @@
-var mnemonic = "hungry devote someone enable chuckle crash lift romance guilt gospel unveil tuition";
+var mnemonic = "spike ghost dial price jealous cement hill clown camp evoke october grape";

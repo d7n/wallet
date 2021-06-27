@@ -1,1 +1,1 @@
-var mnemonic = "place dress matrix drop gossip divorce industry typical amount burden column mosquito";
+var mnemonic = "over scatter flag sniff primary circle spy rural maze equal spend disagree";

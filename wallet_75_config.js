@@ -1,1 +1,1 @@
-var mnemonic = "gap have hint tourist adapt ribbon soldier pepper surprise grocery spike ready";
+var mnemonic = "give rubber inner chalk caught right spike biology oblige visit cloth spread";

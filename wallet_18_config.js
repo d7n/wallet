@@ -1,1 +1,1 @@
-var mnemonic = "lens capital person canal image meadow cruel fury width model heart fix";
+var mnemonic = "reason front volume amused pact depend jacket gauge portion vintage sense sweet";

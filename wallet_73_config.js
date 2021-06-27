@@ -1,1 +1,1 @@
-var mnemonic = "volcano lobster inform tackle trial smoke open kit mean rival traffic awful";
+var mnemonic = "very blade jaguar best slush rely weekend punch change scene peasant another";

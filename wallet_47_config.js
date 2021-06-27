@@ -1,1 +1,1 @@
-var mnemonic = "gravity oxygen ladder claim aunt illness travel pizza undo network produce stairs";
+var mnemonic = "license gospel rug unhappy sun clarify obey say flash become reflect talent";

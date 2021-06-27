@@ -1,1 +1,1 @@
-var mnemonic = "pulp purchase strategy abstract goat area sock trash cry alert mammal easy";
+var mnemonic = "oyster nut quit start symptom output river coil picnic eight magic defy";

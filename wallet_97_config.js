@@ -1,1 +1,1 @@
-var mnemonic = "duty camp uphold bicycle wheat coyote arctic legal assault cargo job piece";
+var mnemonic = "shy onion audit gain unfair major satoshi radio debate clap lunch twenty";

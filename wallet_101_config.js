@@ -1,1 +1,1 @@
-var mnemonic = "foot mind involve turkey mixed engage dash same connect quality setup nerve";
+var mnemonic = "defy addict daring limb forum buffalo wheel cable top ensure room reunion";

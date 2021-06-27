@@ -1,1 +1,1 @@
-var mnemonic = "across axis inquiry audit stem dry toward left conduct laundry print lecture";
+var mnemonic = "fuel nice dawn cycle chuckle gesture there abstract crack olympic ribbon opinion";

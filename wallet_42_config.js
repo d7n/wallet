@@ -1,1 +1,1 @@
-var mnemonic = "soda fragile asset elbow link mimic egg sleep fire struggle wagon arrest";
+var mnemonic = "obscure mom latin machine improve buzz prize inject farm fault library predict";

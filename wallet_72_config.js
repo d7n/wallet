@@ -1,1 +1,1 @@
-var mnemonic = "whale swim vanish share write inner oyster dragon indicate common potato know";
+var mnemonic = "trust major mammal hair novel grant erupt minimum motor eight wedding afford";

@@ -1,1 +1,1 @@
-var mnemonic = "twice payment august dentist shock fade yard floor corn globe wing artwork";
+var mnemonic = "quality leaf sock visa mask peanut record diesel where rubber jelly orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "response jungle pledge zone lift desert mail prize arrive dragon fitness elder";
+var mnemonic = "begin empower rely target town just jeans repair cube yellow soda rug";

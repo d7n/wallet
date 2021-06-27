@@ -1,1 +1,1 @@
-var mnemonic = "orbit climb history blood hurt sea inside fold banana turkey museum also";
+var mnemonic = "bracket bulk length ankle deny vault seven buzz delay such initial edge";

@@ -1,1 +1,1 @@
-var mnemonic = "elevator merge cactus defy thank nut lake chicken little census whale south";
+var mnemonic = "lunch innocent debris bundle dial umbrella census ill pear relax enlist text";

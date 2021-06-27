@@ -1,1 +1,1 @@
-var mnemonic = "region furnace second lady drip rice excuse assist maze donkey depart garden";
+var mnemonic = "twin fruit verb deal follow vendor zone security demand glimpse cook fit";

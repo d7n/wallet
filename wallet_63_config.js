@@ -1,1 +1,1 @@
-var mnemonic = "first season fortune explain garbage once laptop six stadium goddess table glad";
+var mnemonic = "hour chapter marine addict liquid want phrase review decrease rich mountain truck";
