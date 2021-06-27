@@ -1,1 +1,1 @@
-var mnemonic = "candy behave never annual spike hip hockey useless depend this expose betray";
+var mnemonic = "reveal absurd remind bargain video motor carry survey vendor coach dress apology";

@@ -1,1 +1,1 @@
-var mnemonic = "regular target virus spread oxygen update length attack sort next roof shoulder";
+var mnemonic = "same turn empower system hard announce bronze basket fan climb brisk visit";

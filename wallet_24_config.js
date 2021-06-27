@@ -1,1 +1,1 @@
-var mnemonic = "gate print industry disagree embody weekend milk pen lounge taste worry bag";
+var mnemonic = "bunker brass security verify liberty group season sense super clip melody pet";

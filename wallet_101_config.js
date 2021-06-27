@@ -1,1 +1,1 @@
-var mnemonic = "salon kit worry three course summer trash elder credit few strategy market";
+var mnemonic = "front visit nasty curve base enlist century olympic tide clock soda dust";

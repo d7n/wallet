@@ -1,1 +1,1 @@
-var mnemonic = "over maid wait prosper disorder road oven stable feature floor shrug main";
+var mnemonic = "trumpet term pond disorder uncle today menu buyer foot enemy rookie puzzle";

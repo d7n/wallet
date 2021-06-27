@@ -1,1 +1,1 @@
-var mnemonic = "impose since wild boring remind region charge curious width brief salute close";
+var mnemonic = "banana disease road mountain prosper era wild float camp undo raw bridge";

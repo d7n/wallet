@@ -1,1 +1,1 @@
-var mnemonic = "barely pool resemble kiwi stairs sheriff subway replace foil initial sock bleak";
+var mnemonic = "subject host observe spy era wool grocery gauge comic happy ghost radar";

@@ -1,1 +1,1 @@
-var mnemonic = "web garage total alert morning admit echo rail plate arrive butter bulk";
+var mnemonic = "slide consider clap aerobic hope view invite excuse loop dentist category bike";

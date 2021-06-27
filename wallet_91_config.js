@@ -1,1 +1,1 @@
-var mnemonic = "effort fork raw yellow must three verb diamond rice stumble various spoil";
+var mnemonic = "mean input adjust father scrub survey come pond exact silk actor come";

@@ -1,1 +1,1 @@
-var mnemonic = "love safe dress divorce census clutch rescue reduce cabin focus cargo rotate";
+var mnemonic = "prevent win skill medal divorce invite vital diet pole view humor behind";

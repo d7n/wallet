@@ -1,1 +1,1 @@
-var mnemonic = "bubble image girl humor army minute pulp upon body gossip scare taxi";
+var mnemonic = "cry kite athlete view prize alien claim dice flower leopard page wheel";

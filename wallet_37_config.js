@@ -1,1 +1,1 @@
-var mnemonic = "ranch bronze clay mean oval chief bid early exact sense gesture valid";
+var mnemonic = "decorate produce toddler blame destroy distance ship afraid tank drill wage confirm";

@@ -1,1 +1,1 @@
-var mnemonic = "mansion govern wave february dust brick board wagon train gentle culture now";
+var mnemonic = "pull slogan people fringe office daring chicken tongue degree orient tape during";

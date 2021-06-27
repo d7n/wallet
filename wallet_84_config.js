@@ -1,1 +1,1 @@
-var mnemonic = "ice exclude library believe volcano car thank pepper oval urge safe predict";
+var mnemonic = "detect absurd nut extend mercy absurd sock example bonus catalog feel rotate";

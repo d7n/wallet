@@ -1,1 +1,1 @@
-var mnemonic = "equip cup state minute behind call tragic brand toward scare trumpet tuna";
+var mnemonic = "drift dolphin horse item pen sister mask favorite machine chief civil mad";

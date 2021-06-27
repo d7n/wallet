@@ -1,1 +1,1 @@
-var mnemonic = "six matrix thunder drip dose force pull wine sword top police modify";
+var mnemonic = "cluster question repeat usage what more vote laugh nothing stuff book teach";

@@ -1,1 +1,1 @@
-var mnemonic = "duty retreat surface engine travel grass metal wood alley swear member absurd";
+var mnemonic = "abuse hand egg merry leisure liquid chat unit moon crisp vote motor";

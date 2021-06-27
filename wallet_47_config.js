@@ -1,1 +1,1 @@
-var mnemonic = "arrest file accuse bid uniform advice retreat artefact boost north absurd advice";
+var mnemonic = "hope siege allow vanish rare stem spatial kiwi under glow move crystal";

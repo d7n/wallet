@@ -1,1 +1,1 @@
-var mnemonic = "spirit where quantum bullet lottery truth witness aunt claw merit yellow teach";
+var mnemonic = "movie flower hedgehog output room prefer will random decide ribbon when scout";

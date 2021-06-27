@@ -1,1 +1,1 @@
-var mnemonic = "foster mobile reveal clutch extend shop elegant spice excuse metal devote solve";
+var mnemonic = "slow acid stock common cover hunt castle whale boil cake balcony cloth";

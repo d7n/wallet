@@ -1,1 +1,1 @@
-var mnemonic = "soldier school dust apple earth raise teach medal follow trigger alley forget";
+var mnemonic = "crew bamboo remember employ slot walnut scout script solar danger issue tourist";

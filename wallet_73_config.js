@@ -1,1 +1,1 @@
-var mnemonic = "father grass session pony olive actress canvas account give crawl pact napkin";
+var mnemonic = "digital robust garden ginger industry wreck belt idea piece spoon hundred elder";

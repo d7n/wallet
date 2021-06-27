@@ -1,1 +1,1 @@
-var mnemonic = "learn wrestle flock tenant nominee case tobacco gadget bonus thought any gap";
+var mnemonic = "ceiling escape educate banner inner sword join ignore brass witness twelve pattern";

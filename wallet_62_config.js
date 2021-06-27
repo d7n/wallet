@@ -1,1 +1,1 @@
-var mnemonic = "disorder pipe key salon edit cheese absurd whip grunt special basket birth";
+var mnemonic = "inherit spray amazing able manual brown dog poet immune barely arch hero";

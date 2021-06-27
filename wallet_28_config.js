@@ -1,1 +1,1 @@
-var mnemonic = "page master valley rate supreme hurt kangaroo sustain wall train warfare river";
+var mnemonic = "original spring pet million obvious marble pioneer blame nice quit scan noise";

@@ -1,1 +1,1 @@
-var mnemonic = "pull real hero curious chat pact polar amount bring mechanic avoid pigeon";
+var mnemonic = "upgrade miracle symptom dad mimic hair alarm chaos avocado depart idea pool";

@@ -1,1 +1,1 @@
-var mnemonic = "jungle flat dust physical health crystal end spot success simple cotton eye";
+var mnemonic = "various space pony clarify angle pioneer range birth track cattle brisk used";

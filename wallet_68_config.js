@@ -1,1 +1,1 @@
-var mnemonic = "eagle forest interest goat fog turtle door hole robust flight jealous equal";
+var mnemonic = "sniff radio flame pumpkin leave eager high mouse bridge cherry moral alter";

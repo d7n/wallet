@@ -1,1 +1,1 @@
-var mnemonic = "black soup gentle dolphin almost brave bamboo salt give supreme convince shed";
+var mnemonic = "error enable right snap decline need throw pupil honey floor boy scrap";

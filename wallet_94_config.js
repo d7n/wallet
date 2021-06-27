@@ -1,1 +1,1 @@
-var mnemonic = "unhappy put purpose attack audit moment merge shoe forum exile upper bullet";
+var mnemonic = "uncover axis dirt drip render clerk bless abuse tool resist jeans gown";

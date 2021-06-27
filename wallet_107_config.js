@@ -1,1 +1,1 @@
-var mnemonic = "begin shoe lizard mosquito panel wide great slab air describe lock exit";
+var mnemonic = "ticket usage detail phone cat decide spend view build caution brass beauty";

@@ -1,1 +1,1 @@
-var mnemonic = "insane sword junior slight present oval bundle use fence horse short final";
+var mnemonic = "ability walk action profit mix alcohol violin print leisure economy club recipe";

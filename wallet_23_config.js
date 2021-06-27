@@ -1,1 +1,1 @@
-var mnemonic = "leave shadow silly combine shine round net metal asset page suspect federal";
+var mnemonic = "wink bitter snap boring night curtain page velvet gaze outside assault during";

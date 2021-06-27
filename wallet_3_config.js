@@ -1,1 +1,1 @@
-var mnemonic = "situate diamond hidden cradle situate tomato galaxy curtain curious sword bracket resist";
+var mnemonic = "ready scene kit stage found uncle sketch favorite flock child country deny";

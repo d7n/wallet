@@ -1,1 +1,1 @@
-var mnemonic = "bread spread fence cousin army tribe legal century flash bundle one aspect";
+var mnemonic = "panic member cable illness slam social holiday ball dynamic steel reduce very";

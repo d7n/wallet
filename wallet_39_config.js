@@ -1,1 +1,1 @@
-var mnemonic = "equip faculty rule crunch warrior monster frame success survey choice alien bulk";
+var mnemonic = "student found cement despair entire chase tower capital job ladder culture sun";

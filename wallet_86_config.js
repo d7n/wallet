@@ -1,1 +1,1 @@
-var mnemonic = "receive mail prosper jazz clip trick stock reopen bean lunch want lesson";
+var mnemonic = "square ramp brief gallery finish broom limb toast deputy flash foil quality";

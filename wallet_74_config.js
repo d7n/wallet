@@ -1,1 +1,1 @@
-var mnemonic = "slot energy blind echo excess ask bonus blast dawn cash company drama";
+var mnemonic = "sentence warm trial trade edit album find genuine garlic reward old lyrics";

@@ -1,1 +1,1 @@
-var mnemonic = "region opera blur ostrich power oak athlete knee joke input slide idea";
+var mnemonic = "curtain unfair margin mind game settle sport vital aunt distance robot state";

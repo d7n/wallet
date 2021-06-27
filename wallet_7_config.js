@@ -1,1 +1,1 @@
-var mnemonic = "cattle paddle satoshi forest poet state state lyrics borrow trick sketch speak";
+var mnemonic = "enough swarm video tennis any race problem case eight layer zoo connect";

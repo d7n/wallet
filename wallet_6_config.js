@@ -1,1 +1,1 @@
-var mnemonic = "number clock tree visual planet bottom prepare clay cook duty punch erode";
+var mnemonic = "gate adult mountain cricket shield farm volcano cross canal circle tray punch";

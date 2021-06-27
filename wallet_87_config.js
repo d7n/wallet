@@ -1,1 +1,1 @@
-var mnemonic = "magnet glare lion distance design season shell rookie average strike clay person";
+var mnemonic = "drama federal minor glimpse fluid lucky soldier clutch arrange swift visa arctic";

@@ -1,1 +1,1 @@
-var mnemonic = "pudding never thank cereal expose typical film vendor exhibit left vague notice";
+var mnemonic = "print sweet find lottery situate summer marine tide door donkey faint staff";

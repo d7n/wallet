@@ -1,1 +1,1 @@
-var mnemonic = "tomato vessel purchase peanut lion special matter solution office tortoise bag dutch";
+var mnemonic = "predict indoor huge avoid rail vault advice close finger column tomorrow common";

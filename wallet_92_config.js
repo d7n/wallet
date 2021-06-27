@@ -1,1 +1,1 @@
-var mnemonic = "copy parent near sting green demand scale wife artist split solar edit";
+var mnemonic = "behind only real misery carpet cluster chuckle echo that chimney cricket force";

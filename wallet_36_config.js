@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow increase off ticket layer sure horn start entire bitter route insane";
+var mnemonic = "pyramid chief guilt again acid proof resource salute join prevent current exchange";

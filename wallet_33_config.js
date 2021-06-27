@@ -1,1 +1,1 @@
-var mnemonic = "invite possible aerobic bargain blood tone wedding column rhythm fade chalk clean";
+var mnemonic = "vintage into tonight jazz stone tourist cushion tail leader spot inherit jump";

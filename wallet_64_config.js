@@ -1,1 +1,1 @@
-var mnemonic = "day equal night raccoon royal cabbage hybrid fork candy vanish buffalo mammal";
+var mnemonic = "flock input spread cup index modify saddle flame outside fiber million fade";

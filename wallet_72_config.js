@@ -1,1 +1,1 @@
-var mnemonic = "supreme reopen laptop round present casual kiwi silver skull runway equal resource";
+var mnemonic = "fit client wink rate average inspire run cruise lock vacuum box cheap";

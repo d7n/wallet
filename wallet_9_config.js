@@ -1,1 +1,1 @@
-var mnemonic = "number script indicate exact agree deer rate media mountain beyond season unlock";
+var mnemonic = "garden correct script boy panel limb involve property visual sand usage jungle";

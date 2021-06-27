@@ -1,1 +1,1 @@
-var mnemonic = "child swap fever double path ritual age critic curious disagree mail gift";
+var mnemonic = "throw please shiver play voyage ceiling hundred crouch tiger enter girl unaware";

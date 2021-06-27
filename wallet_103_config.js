@@ -1,1 +1,1 @@
-var mnemonic = "omit law deputy forget unusual void wise luxury panther raccoon blue crew";
+var mnemonic = "paddle hole certain web crumble bid price deny great scale long roof";

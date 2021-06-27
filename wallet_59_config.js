@@ -1,1 +1,1 @@
-var mnemonic = "blood tower raccoon wonder private funny thumb canvas fiction bargain lend elegant";
+var mnemonic = "sauce urban educate husband until inhale fee giant bag brain empty ritual";

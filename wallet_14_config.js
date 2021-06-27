@@ -1,1 +1,1 @@
-var mnemonic = "afford mobile estate notable dolphin obscure cricket adult antenna gallery thunder wolf";
+var mnemonic = "screen glow ladder boost peasant lend plug quality also luggage fault trip";

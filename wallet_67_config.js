@@ -1,1 +1,1 @@
-var mnemonic = "notice book photo rally roof master wing bag input off enter floor";
+var mnemonic = "box trip possible future stereo normal above sand clip mimic acid drill";

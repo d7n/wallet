@@ -1,1 +1,1 @@
-var mnemonic = "syrup almost armed month weather autumn retreat wise ribbon obscure supply little";
+var mnemonic = "dwarf ability blind wear crucial chalk girl follow lobster reform express drive";

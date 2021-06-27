@@ -1,1 +1,1 @@
-var mnemonic = "stand flag pave charge engage ready moment base destroy tower pony purchase";
+var mnemonic = "olive boy happy fragile brother parrot receive armed awful episode girl range";

@@ -1,1 +1,1 @@
-var mnemonic = "depart casino nation chair pig type soldier noble lecture cage fiscal inform";
+var mnemonic = "bean play birth cart before anchor nuclear maid fit name interest park";

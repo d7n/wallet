@@ -1,1 +1,1 @@
-var mnemonic = "bunker message kingdom pitch remind goddess excuse evil release mask perfect vote";
+var mnemonic = "plug cloud huge erase valley eye ticket teach capital cliff concert noise";

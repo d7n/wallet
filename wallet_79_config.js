@@ -1,1 +1,1 @@
-var mnemonic = "harvest peace useless like mother visa sausage sell web venture notable able";
+var mnemonic = "boss disorder point left mosquito quantum rate away slab tiny muscle asthma";

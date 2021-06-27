@@ -1,1 +1,1 @@
-var mnemonic = "detail receive gadget grace tuition voice season security crouch cloth drastic snap";
+var mnemonic = "message tray corn attitude improve reunion twice diagram exotic long reason stone";

@@ -1,1 +1,1 @@
-var mnemonic = "divide impact bar advice crunch answer put avocado mad metal across horn";
+var mnemonic = "fiber bean hill oak cricket flat brass melt client stool thunder corn";

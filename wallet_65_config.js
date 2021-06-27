@@ -1,1 +1,1 @@
-var mnemonic = "coconut bind two trim random another gentle stairs cream rather bike spell";
+var mnemonic = "company echo subject camera major old patrol fever cream fossil nuclear great";

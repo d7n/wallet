@@ -1,1 +1,1 @@
-var mnemonic = "school upper blood force elevator describe describe pioneer calm problem measure purchase";
+var mnemonic = "occur room decade pass act inquiry bitter behave post various kite quantum";

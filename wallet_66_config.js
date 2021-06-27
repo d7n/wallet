@@ -1,1 +1,1 @@
-var mnemonic = "hole swarm typical album today analyst nose way guess later slot pool";
+var mnemonic = "claim spike refuse win notable portion rigid few pledge crystal pilot legend";

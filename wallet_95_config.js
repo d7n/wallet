@@ -1,1 +1,1 @@
-var mnemonic = "spike fun quality half raise liar soon salad reason friend recycle bus";
+var mnemonic = "exit leisure gold impact juice print erase behind decorate weapon foot wasp";

@@ -1,1 +1,1 @@
-var mnemonic = "episode key seek sketch fever spare core scheme drastic engage bar dune";
+var mnemonic = "purchase tribe turtle dawn swift miss increase silent electric ill sunny rack";

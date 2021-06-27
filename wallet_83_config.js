@@ -1,1 +1,1 @@
-var mnemonic = "million voyage concert damp usual grid timber inside fruit siege when frame";
+var mnemonic = "inspire picture empower sudden skill double spoil target start call warrior throw";

@@ -1,1 +1,1 @@
-var mnemonic = "wisdom cable bitter coyote picture spy market online cigar upper goose shift";
+var mnemonic = "kick grow betray until follow aunt victory sadness enforce update until afford";

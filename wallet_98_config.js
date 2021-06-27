@@ -1,1 +1,1 @@
-var mnemonic = "olive valid during ring time detail stuff emerge fault master crazy tribe";
+var mnemonic = "olive hole token street bring elbow zebra sight flag afford scorpion lava";

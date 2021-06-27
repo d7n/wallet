@@ -1,1 +1,1 @@
-var mnemonic = "device zebra buddy mammal display notice code lunar crime garage sting edge";
+var mnemonic = "maze whip exact shrimp wide green vast cancel column rare prefer forest";

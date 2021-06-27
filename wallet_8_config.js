@@ -1,1 +1,1 @@
-var mnemonic = "reunion boring wide first census blossom capital open tribe mountain acquire rocket";
+var mnemonic = "test large black fury report analyst model magnet twin charge pupil often";

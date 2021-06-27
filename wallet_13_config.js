@@ -1,1 +1,1 @@
-var mnemonic = "harvest renew hunt famous cereal snap oyster pull goddess need deputy tunnel";
+var mnemonic = "mansion wisdom armor near board oak scrub mass marriage assume connect sunny";

@@ -1,1 +1,1 @@
-var mnemonic = "razor access master endorse power layer define lab identify shrimp coconut fiction";
+var mnemonic = "picture improve predict three critic result journey bean material lesson dizzy acoustic";

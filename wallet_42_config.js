@@ -1,1 +1,1 @@
-var mnemonic = "shaft expose fault enrich rug champion photo helmet sand abuse used bean";
+var mnemonic = "stuff month where antenna jungle soul manage wear pluck that key rail";

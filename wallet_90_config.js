@@ -1,1 +1,1 @@
-var mnemonic = "impact balance together solar dog random submit thrive gate example silly bread";
+var mnemonic = "side frequent nice card forum salmon consider ripple bulb public hungry elevator";

@@ -1,1 +1,1 @@
-var mnemonic = "kind equal end tissue device divide suit social people appear inmate mango";
+var mnemonic = "veteran hint black brisk vague icon minor rocket route mind sport vintage";

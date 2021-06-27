@@ -1,1 +1,1 @@
-var mnemonic = "emerge garden wear equip fetch health grid carpet valley border crush people";
+var mnemonic = "baby member security course list decade shove claim invite prevent idea dust";

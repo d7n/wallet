@@ -1,1 +1,1 @@
-var mnemonic = "sing kingdom artist view law vague fold design tower scatter casino castle";
+var mnemonic = "youth sugar humor found execute famous tuna chat club morning one regret";

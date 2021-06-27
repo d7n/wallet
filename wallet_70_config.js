@@ -1,1 +1,1 @@
-var mnemonic = "traffic mixed owner penalty breeze garlic law sock method hire switch clay";
+var mnemonic = "alcohol outside vault bulk federal spatial liberty miracle online surge absorb matter";

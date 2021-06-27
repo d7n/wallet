@@ -1,1 +1,1 @@
-var mnemonic = "huge horror tilt slender tent melody off rival glass canal desk unaware";
+var mnemonic = "balcony conduct install ice quick crumble fat exhibit improve hospital between observe";

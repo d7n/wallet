@@ -1,1 +1,1 @@
-var mnemonic = "find riot update van parade defy rural group tackle aunt wild weapon";
+var mnemonic = "carpet involve walk humble rubber coffee naive mother client robot job play";

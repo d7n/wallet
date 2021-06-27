@@ -1,1 +1,1 @@
-var mnemonic = "tissue sort magnet basic allow melody swim rude setup stool brain fit";
+var mnemonic = "ensure response velvet diamond sunset birth energy portion host okay consider cabin";

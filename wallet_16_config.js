@@ -1,1 +1,1 @@
-var mnemonic = "portion super bridge office card clip provide pilot few noble shell busy";
+var mnemonic = "above bind prepare tragic grit giant vast open crucial mom trap depart";

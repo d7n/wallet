@@ -1,1 +1,1 @@
-var mnemonic = "fall make bacon feature law unknown gaze steel edge dry train bring";
+var mnemonic = "fork napkin nuclear supply helmet debris shrimp ridge usual fruit heart spread";
