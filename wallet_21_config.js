@@ -1,1 +1,1 @@
-var mnemonic = "injury winner quality twist aspect chicken six glad scene purse couple crash";
+var mnemonic = "insane vast fruit process million price school faint wasp wood bunker vibrant";

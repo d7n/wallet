@@ -1,1 +1,1 @@
-var mnemonic = "canoe alone hammer kitchen talent able front cannon yard shallow juice path";
+var mnemonic = "grit kit drip snack empty stone have zero film cost basic wasp";

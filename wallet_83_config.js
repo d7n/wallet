@@ -1,1 +1,1 @@
-var mnemonic = "seven virtual mobile mixed matrix demise myth pyramid basket barely resist rate";
+var mnemonic = "picnic sponsor pen chef season current pair foster tenant olympic demand faith";

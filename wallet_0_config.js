@@ -1,1 +1,1 @@
-var mnemonic = "parade sort absurd yard code various abandon filter solve copper fetch expect";
+var mnemonic = "apart fringe thrive liberty still miss yard large wheat smile celery bulk";

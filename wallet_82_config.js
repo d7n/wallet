@@ -1,1 +1,1 @@
-var mnemonic = "better finish lecture swim bubble supply nothing busy bunker cake weekend tornado";
+var mnemonic = "auction become regular kite stool joy also wrap wreck alert army huge";

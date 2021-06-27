@@ -1,1 +1,1 @@
-var mnemonic = "elder minor fetch chronic buyer slice purpose fence door under spare orbit";
+var mnemonic = "choose exact typical artwork circle desert decorate stage gentle cherry scrap metal";

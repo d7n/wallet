@@ -1,1 +1,1 @@
-var mnemonic = "cherry abandon taste genius noble pair oak demise clap side holiday decrease";
+var mnemonic = "chapter web version local tape loop drive artefact aisle mechanic giant frost";

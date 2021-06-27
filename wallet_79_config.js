@@ -1,1 +1,1 @@
-var mnemonic = "fragile curtain gift young topple trust fetch carbon prepare wolf interest mask";
+var mnemonic = "measure absorb practice youth equal dove legal hub attitude shiver aisle trial";

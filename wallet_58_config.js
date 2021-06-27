@@ -1,1 +1,1 @@
-var mnemonic = "donate animal deliver crater pond good cube alone slot garment describe dilemma";
+var mnemonic = "submit pole nut resource about squeeze rigid always fortune sorry attitude physical";

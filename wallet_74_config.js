@@ -1,1 +1,1 @@
-var mnemonic = "check jump curtain furnace bulk position manual file illness phone cactus easily";
+var mnemonic = "fit antique soup supply rhythm laptop settle dial train job clown ready";

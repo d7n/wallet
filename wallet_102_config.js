@@ -1,1 +1,1 @@
-var mnemonic = "crew addict august black twist comfort scan twin output thought glass student";
+var mnemonic = "hour material olive all silk correct old mean loud garment all tragic";

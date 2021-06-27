@@ -1,1 +1,1 @@
-var mnemonic = "elegant glad jazz pave mad nerve source cat sister frost soup people";
+var mnemonic = "flower ask three season insect banner rose rail horse control cattle someone";

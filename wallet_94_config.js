@@ -1,1 +1,1 @@
-var mnemonic = "left seek grape return include glimpse prevent obey power good develop tongue";
+var mnemonic = "recipe tired strategy pig farm usage smooth engage peace air away glide";

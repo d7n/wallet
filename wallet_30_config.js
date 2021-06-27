@@ -1,1 +1,1 @@
-var mnemonic = "this charge can section train leaf output denial camp differ glare still";
+var mnemonic = "coconut solution across piece omit scrap agree inhale entire hospital yellow pencil";

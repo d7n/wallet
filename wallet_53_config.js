@@ -1,1 +1,1 @@
-var mnemonic = "basic dance obvious body ski orphan drastic net parent cycle width fox";
+var mnemonic = "cinnamon patch target slim retire judge burger scorpion isolate exist hamster wide";

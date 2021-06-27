@@ -1,1 +1,1 @@
-var mnemonic = "crane olive twin between save cycle soul clog dynamic ripple axis parade";
+var mnemonic = "broccoli learn festival gas enemy orbit east horror employ noble ivory sick";

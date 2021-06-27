@@ -1,1 +1,1 @@
-var mnemonic = "game coral boss salon miracle slow company common upper sphere meadow next";
+var mnemonic = "mirror baby delay silent bar any mango arm dirt east stove dinosaur";

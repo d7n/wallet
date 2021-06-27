@@ -1,1 +1,1 @@
-var mnemonic = "announce sock spoon quantum cousin water appear police outside cherry caution cake";
+var mnemonic = "travel fashion replace round card rose cement move grant awake enhance hobby";

@@ -1,1 +1,1 @@
-var mnemonic = "snap ski iron obscure sport sketch clump pottery pen strong antenna head";
+var mnemonic = "draft naive chair end beauty gadget drift design ill jump float vendor";

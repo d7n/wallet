@@ -1,1 +1,1 @@
-var mnemonic = "comfort bleak satisfy chef hire wrong segment pill budget morning air lake";
+var mnemonic = "discover hybrid piece ecology under all fiction friend burger summer small misery";

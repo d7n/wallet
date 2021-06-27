@@ -1,1 +1,1 @@
-var mnemonic = "leaf aware endorse over give fury wild exile blossom leisure split unfair";
+var mnemonic = "paper vapor soul shrimp hurry genius brass funny empower few picnic divert";

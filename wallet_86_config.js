@@ -1,1 +1,1 @@
-var mnemonic = "weapon guess end address umbrella resource gossip disease enact future human only";
+var mnemonic = "symptom cabin use sock man cargo marble begin educate regular explain illness";

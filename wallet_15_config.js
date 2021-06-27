@@ -1,1 +1,1 @@
-var mnemonic = "segment maple fashion garlic wreck canvas choice fever secret nation kitchen used";
+var mnemonic = "risk slice genre carry sudden resemble cotton action mushroom ship current play";

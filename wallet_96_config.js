@@ -1,1 +1,1 @@
-var mnemonic = "scare liar canal salon machine special kangaroo security stand dust country walnut";
+var mnemonic = "over gun end gadget primary space hair recycle tower empty olympic mad";

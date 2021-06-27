@@ -1,1 +1,1 @@
-var mnemonic = "wrestle electric oil soon search urge pepper excite wine dog rice then";
+var mnemonic = "level decade slight foam silly crop claw deposit urge can wish unable";

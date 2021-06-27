@@ -1,1 +1,1 @@
-var mnemonic = "shift foster sick sight morning entry install morning citizen pink bring coach";
+var mnemonic = "payment frog frozen olympic obscure pass wife zebra scheme pulse advance zoo";

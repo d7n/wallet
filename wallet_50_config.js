@@ -1,1 +1,1 @@
-var mnemonic = "turkey harbor traffic inquiry narrow guess badge orchard frost quit guilt candy";
+var mnemonic = "craft defense dinner suggest occur borrow napkin tank quiz minimum immune decline";

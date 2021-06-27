@@ -1,1 +1,1 @@
-var mnemonic = "action exhaust protect bird quote blast like wish like project excuse recall";
+var mnemonic = "little husband fury umbrella slow oxygen scorpion drive army monster enemy advice";

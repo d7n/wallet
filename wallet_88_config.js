@@ -1,1 +1,1 @@
-var mnemonic = "sunny fetch regular middle journey state bike vacuum slight orbit good boring";
+var mnemonic = "salute woman example undo castle misery report charge siren drama index cart";

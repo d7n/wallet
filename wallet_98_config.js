@@ -1,1 +1,1 @@
-var mnemonic = "bomb blouse tower romance word alpha solution name better chimney shoulder thank";
+var mnemonic = "alert trip muscle normal symptom gasp acquire height verify theory merry wool";

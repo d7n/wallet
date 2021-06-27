@@ -1,1 +1,1 @@
-var mnemonic = "run minimum drink cute drama acquire arena van divide say portion evolve";
+var mnemonic = "reunion obvious valley dash can shadow congress dad jungle burger digital rule";

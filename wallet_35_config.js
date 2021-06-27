@@ -1,1 +1,1 @@
-var mnemonic = "tissue smoke unusual medal hold river roast large title bullet task own";
+var mnemonic = "hood make unfold stuff cannon enact ladder same vital regular fee act";

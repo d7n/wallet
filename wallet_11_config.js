@@ -1,1 +1,1 @@
-var mnemonic = "enough search cup menu foil puzzle luggage hurt laugh bleak unveil bench";
+var mnemonic = "dry exile lesson good blouse neglect shoe opinion prize vault tell evoke";

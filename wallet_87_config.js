@@ -1,1 +1,1 @@
-var mnemonic = "cave emerge grab code mule trial hybrid arrive code cram exotic laundry";
+var mnemonic = "dove drastic pitch pen satisfy jacket only orphan kit law empower burst";

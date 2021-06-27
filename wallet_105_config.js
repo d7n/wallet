@@ -1,1 +1,1 @@
-var mnemonic = "axis forest traffic caution pond clever water cargo essay domain brush between";
+var mnemonic = "absent exile current tortoise panel ice void pitch yellow blind notice oyster";

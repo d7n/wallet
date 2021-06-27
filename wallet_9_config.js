@@ -1,1 +1,1 @@
-var mnemonic = "bench ecology machine injury bullet negative jelly space october wire cave decline";
+var mnemonic = "lazy cushion test believe person vote fox measure purpose annual pulp nominee";

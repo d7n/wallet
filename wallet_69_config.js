@@ -1,1 +1,1 @@
-var mnemonic = "expect future wave argue swear shrug setup start alert river dentist west";
+var mnemonic = "wonder memory immense also health merge great hurry tube since rifle federal";

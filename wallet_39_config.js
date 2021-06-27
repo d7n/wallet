@@ -1,1 +1,1 @@
-var mnemonic = "oven virtual remain basket celery address current undo draw dynamic minimum thrive";
+var mnemonic = "found sock sample cigar drink grape cluster lonely tail wheat magnet upgrade";

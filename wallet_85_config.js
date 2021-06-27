@@ -1,1 +1,1 @@
-var mnemonic = "pass price inspire accident invite awful aim brick humor talk spring smoke";
+var mnemonic = "warm visit stumble enable hair total guitar dentist comic rifle drink total";

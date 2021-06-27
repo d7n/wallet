@@ -1,1 +1,1 @@
-var mnemonic = "install marine trend empty try ripple real twist soon mimic jeans volcano";
+var mnemonic = "fashion swim more picture exact century draft pizza pizza knife slush trophy";

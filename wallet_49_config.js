@@ -1,1 +1,1 @@
-var mnemonic = "call lava moment drip fabric home unaware recipe cradle tooth crush orphan";
+var mnemonic = "arm basket opera universe acid board wood wasp dust decade injury tail";

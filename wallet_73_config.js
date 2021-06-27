@@ -1,1 +1,1 @@
-var mnemonic = "ceiling piece advice awake spot drift erupt arch royal slogan produce goose";
+var mnemonic = "fit tomorrow crash click swing shallow area foam reveal logic knee hockey";

@@ -1,1 +1,1 @@
-var mnemonic = "rebuild pair coral forget any cloth zone creek hub inform sausage bag";
+var mnemonic = "used hold orbit meat town modify hamster maximum letter tissue upgrade uphold";

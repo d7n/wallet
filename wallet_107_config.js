@@ -1,1 +1,1 @@
-var mnemonic = "current antenna damp timber smile surround atom exact story heart mango cricket";
+var mnemonic = "coast thought voyage across indicate material side couple pear ranch put stool";

@@ -1,1 +1,1 @@
-var mnemonic = "excess glare chase average gauge olive umbrella tail travel ill uphold tape";
+var mnemonic = "cause near appear business useless grit case mule aunt noble rifle grunt";

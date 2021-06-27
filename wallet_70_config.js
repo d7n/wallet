@@ -1,1 +1,1 @@
-var mnemonic = "element cloud when few one truth tuna guitar pond major ritual alpha";
+var mnemonic = "front second settle typical clay palm key ask attack agent hockey hammer";

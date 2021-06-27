@@ -1,1 +1,1 @@
-var mnemonic = "brown judge tuition scrub shallow snack deposit bracket jaguar digital strategy tail";
+var mnemonic = "name coin loyal agree muffin extra better arch spoil delay slight expire";

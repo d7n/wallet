@@ -1,1 +1,1 @@
-var mnemonic = "violin detail anchor art fiber razor price miss vital family inquiry forward";
+var mnemonic = "depend twenty car tortoise elder share inherit soon appear daughter confirm battle";

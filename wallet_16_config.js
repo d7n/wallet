@@ -1,1 +1,1 @@
-var mnemonic = "peasant write trend nasty wool embody must slush satoshi garment blur repair";
+var mnemonic = "traffic unlock lift luxury behind scout outside pear pave final south omit";

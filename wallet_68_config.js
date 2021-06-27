@@ -1,1 +1,1 @@
-var mnemonic = "dwarf ticket gesture deputy recipe movie sentence client gift autumn boy kitchen";
+var mnemonic = "march check situate animal scene noodle doll ostrich improve axis hip drama";

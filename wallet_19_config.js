@@ -1,1 +1,1 @@
-var mnemonic = "agent hurt tiny toilet cricket audit weird nose park curtain suspect carbon";
+var mnemonic = "jazz access heart burger table voice else fiscal zoo west tide rug";

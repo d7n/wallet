@@ -1,1 +1,1 @@
-var mnemonic = "office visit pen strong screen candy deer awesome syrup mesh maid satoshi";
+var mnemonic = "basic still because napkin add orange ranch harbor corn since alert acoustic";

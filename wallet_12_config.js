@@ -1,1 +1,1 @@
-var mnemonic = "robust group tackle aspect glow differ raw carbon camera upgrade hill tattoo";
+var mnemonic = "ignore own logic transfer cable travel face title typical bread sponsor defy";

@@ -1,1 +1,1 @@
-var mnemonic = "turtle affair anchor disease chuckle truth often glimpse ghost orchard cool oil";
+var mnemonic = "crowd daring mammal naive better inflict unveil couple peace nuclear unusual tortoise";

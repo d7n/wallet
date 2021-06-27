@@ -1,1 +1,1 @@
-var mnemonic = "gasp unhappy museum engage language unknown brave machine focus usage gentle mirror";
+var mnemonic = "suit riot dove lonely avoid robot engage cannon burst flush artist margin";

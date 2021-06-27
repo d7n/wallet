@@ -1,1 +1,1 @@
-var mnemonic = "essence kind dish road abuse panda metal strategy citizen phrase seek soon";
+var mnemonic = "floor use boy fall useful mosquito soccer innocent crater omit concert stomach";

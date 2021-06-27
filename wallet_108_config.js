@@ -1,1 +1,1 @@
-var mnemonic = "shift action impact spray child expose siege that silent goddess hotel citizen";
+var mnemonic = "now wave small bus sadness oval economy pave nice win endorse stadium";

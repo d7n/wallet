@@ -1,1 +1,1 @@
-var mnemonic = "home depth science flush pyramid valley human rose chapter wire enjoy source";
+var mnemonic = "sister canal mercy ecology talent illness axis menu pluck stereo provide tackle";

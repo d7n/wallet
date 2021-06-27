@@ -1,1 +1,1 @@
-var mnemonic = "bracket hawk shine cannon patient must angry project churn law search hammer";
+var mnemonic = "kitchen dolphin above rally myself patch target tenant whale catch bonus crouch";

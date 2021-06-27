@@ -1,1 +1,1 @@
-var mnemonic = "run girl engine embrace bridge category insect nephew provide fossil comic giant";
+var mnemonic = "razor exit parent update topic girl access erode vacant arrive talk clay";

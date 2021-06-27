@@ -1,1 +1,1 @@
-var mnemonic = "undo pet business deal filter oval toast runway sweet human distance valve";
+var mnemonic = "flock tumble brass theory track drift earn tonight focus tortoise help great";

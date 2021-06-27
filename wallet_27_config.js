@@ -1,1 +1,1 @@
-var mnemonic = "client flame february fatal baby brown measure beach great surround wink neither";
+var mnemonic = "tiger reveal almost pink side fee risk bicycle matrix keep visa burden";

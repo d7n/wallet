@@ -1,1 +1,1 @@
-var mnemonic = "power evidence tuition thing tank bitter sheriff volume stone waste spider distance";
+var mnemonic = "bitter summer inch design outdoor muffin another danger pride chunk salute absorb";

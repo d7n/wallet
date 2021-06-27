@@ -1,1 +1,1 @@
-var mnemonic = "shrug smart cigar ice general amused rail athlete goddess hover cluster oyster";
+var mnemonic = "clap primary fancy approve depth suspect pulp intact dog spider original carpet";

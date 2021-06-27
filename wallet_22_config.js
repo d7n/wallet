@@ -1,1 +1,1 @@
-var mnemonic = "ten mutual dwarf pumpkin satoshi dragon fantasy vast grass tray essence negative";
+var mnemonic = "bitter remove play wise skate corn merit erosion column post oven faith";

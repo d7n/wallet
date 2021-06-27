@@ -1,1 +1,1 @@
-var mnemonic = "outer farm track nuclear pony idea inhale cart suggest inquiry elevator notable";
+var mnemonic = "auction uncle gather steak oak engine pole spot various ordinary puzzle emerge";

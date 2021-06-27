@@ -1,1 +1,1 @@
-var mnemonic = "flee slice armor man imitate spatial among marriage elder salt rough domain";
+var mnemonic = "volume reject cannon toward section peace loud design sell gym voice expand";

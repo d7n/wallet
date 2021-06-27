@@ -1,1 +1,1 @@
-var mnemonic = "banana adult mansion hammer noodle pact mind tank echo usual advice siren";
+var mnemonic = "forward patient want tail sudden school comic close define bless brother diet";

@@ -1,1 +1,1 @@
-var mnemonic = "robust timber plastic cash fatal govern scheme bench cattle screen crawl hurdle";
+var mnemonic = "melody heart desert dilemma example tobacco planet current slim method pole kitchen";

@@ -1,1 +1,1 @@
-var mnemonic = "lady unique wall capital vacuum mercy impact version library pledge cancel people";
+var mnemonic = "virtual summer found mansion replace trade maze window spare giant shift north";

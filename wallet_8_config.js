@@ -1,1 +1,1 @@
-var mnemonic = "town sick hammer mobile direct guilt knife frame pulp grass owner vanish";
+var mnemonic = "detail object border comfort legend stairs lesson uncle void license enter junior";

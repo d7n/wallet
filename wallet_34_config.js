@@ -1,1 +1,1 @@
-var mnemonic = "wealth high creek object jealous rough infant mix torch corn smart clock";
+var mnemonic = "army cheese exclude stereo surround roof tool cake split maze alley amused";

@@ -1,1 +1,1 @@
-var mnemonic = "diamond client palm nominee hurry claw reduce below what refuse various multiply";
+var mnemonic = "before alien enact lyrics believe network joke away lottery knife pretty castle";

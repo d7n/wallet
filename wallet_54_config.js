@@ -1,1 +1,1 @@
-var mnemonic = "actor always slender among present issue bring young repair salon ankle fall";
+var mnemonic = "thunder trigger nice slim shell theory mixture neglect reunion satoshi job milk";

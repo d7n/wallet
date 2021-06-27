@@ -1,1 +1,1 @@
-var mnemonic = "quality april describe debris sick region crane power indoor ankle trial casino";
+var mnemonic = "public debris hundred maid orphan regular gap punch write riot marble enforce";

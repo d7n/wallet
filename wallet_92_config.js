@@ -1,1 +1,1 @@
-var mnemonic = "entry exchange avocado dish paddle relax chat reflect gym during pelican tag";
+var mnemonic = "guilt motion install depart regular toe turn blue merit narrow follow first";

@@ -1,1 +1,1 @@
-var mnemonic = "punch federal fade rotate mandate bring like tube stock jump what curious";
+var mnemonic = "stereo raise drift balcony purity welcome alien trigger atom cheese six depart";

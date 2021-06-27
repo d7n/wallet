@@ -1,1 +1,1 @@
-var mnemonic = "visa popular uniform soft estate health vault moon prepare weapon bonus virus";
+var mnemonic = "exist opinion enemy cement museum boring tuna cool account group hard top";

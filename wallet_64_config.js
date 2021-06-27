@@ -1,1 +1,1 @@
-var mnemonic = "myth bring brand sick slam lion suit submit movie ring lucky animal";
+var mnemonic = "dash borrow salmon price copper paddle total breeze steel client axis position";

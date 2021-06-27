@@ -1,1 +1,1 @@
-var mnemonic = "cross clog blur match team mesh gravity hole grape impulse jaguar build";
+var mnemonic = "olympic paddle entire tribe brass enforce tobacco impose direct coil man quote";

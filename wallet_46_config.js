@@ -1,1 +1,1 @@
-var mnemonic = "liquid current sketch skin hazard smile edit jealous engage bracket outside clog";
+var mnemonic = "leaf depth crouch pause impose kit beef letter sense ship gloom giggle";

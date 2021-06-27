@@ -1,1 +1,1 @@
-var mnemonic = "episode physical option dilemma ridge love evoke suspect imitate gain page drastic";
+var mnemonic = "child cable acquire camera series tuna imitate guilt alley monkey skull because";

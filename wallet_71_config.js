@@ -1,1 +1,1 @@
-var mnemonic = "tornado aerobic usage element obey raven bridge today execute broken either flavor";
+var mnemonic = "gain merit little blame skate coin buffalo vivid fly divorce churn swear";

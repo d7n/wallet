@@ -1,1 +1,1 @@
-var mnemonic = "climb normal panel proud chicken biology exact dry atom village truck dad";
+var mnemonic = "betray exotic truly view ridge satoshi climb volume address mammal forum amazing";

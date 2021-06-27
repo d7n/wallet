@@ -1,1 +1,1 @@
-var mnemonic = "become avocado brand gate near broken nasty lecture salmon easy pink bullet";
+var mnemonic = "bomb polar avocado trial winner invite case first anchor child box wagon";

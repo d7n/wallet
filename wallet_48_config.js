@@ -1,1 +1,1 @@
-var mnemonic = "wedding craft ketchup that fruit seat maze clinic rival obvious silly super";
+var mnemonic = "home card elder holiday icon mobile scout fringe tiger head rotate height";

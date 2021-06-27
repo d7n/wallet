@@ -1,1 +1,1 @@
-var mnemonic = "food exact husband laptop input gentle smooth inch brisk flip hip pact";
+var mnemonic = "flash evil figure catch rifle sting oak poem swim install mind promote";

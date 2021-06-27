@@ -1,1 +1,1 @@
-var mnemonic = "funny cat pole across shoot inform ladder depth craft keep business donor";
+var mnemonic = "sort mind close flush floor width card panic casino canvas inmate kitchen";

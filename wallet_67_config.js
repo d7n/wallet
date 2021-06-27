@@ -1,1 +1,1 @@
-var mnemonic = "boss glare sting tide initial law cart skin obvious fire balcony deer";
+var mnemonic = "hello relax pulse dismiss trouble surround can vague cycle world clinic door";

@@ -1,1 +1,1 @@
-var mnemonic = "toward gate food hub defense salad disagree wood dirt brick what basic";
+var mnemonic = "love sheriff title picnic inmate movie napkin piece install venture equip alarm";

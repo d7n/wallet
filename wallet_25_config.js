@@ -1,1 +1,1 @@
-var mnemonic = "donate vessel plate thumb grant boil match fiber crack slow reward swallow";
+var mnemonic = "usage butter opinion program attract spread core margin cancel right glide ahead";

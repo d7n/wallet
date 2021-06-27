@@ -1,1 +1,1 @@
-var mnemonic = "alley bonus action stand spin suffer current weekend camera another midnight street";
+var mnemonic = "food galaxy slide educate loyal flight inch fade clay puzzle life open";
