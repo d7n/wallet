@@ -1,1 +1,1 @@
-var mnemonic = "enjoy loop assault library saddle shield giraffe impulse label room brick dragon";
+var mnemonic = "shiver animal stuff demand endorse sure drink can gasp match step kiwi";

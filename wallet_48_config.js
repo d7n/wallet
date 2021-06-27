@@ -1,1 +1,1 @@
-var mnemonic = "youth sugar humor found execute famous tuna chat club morning one regret";
+var mnemonic = "obvious animal rally rescue shoe ability tray advice voyage melt glad oil";

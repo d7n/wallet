@@ -1,1 +1,1 @@
-var mnemonic = "plug cloud huge erase valley eye ticket teach capital cliff concert noise";
+var mnemonic = "month vital wrap promote latin adjust sand unique turn essence pepper sugar";

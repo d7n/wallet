@@ -1,1 +1,1 @@
-var mnemonic = "mean input adjust father scrub survey come pond exact silk actor come";
+var mnemonic = "rigid inhale grow grocery setup share nominee example brown broom island champion";

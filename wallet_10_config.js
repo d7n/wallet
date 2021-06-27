@@ -1,1 +1,1 @@
-var mnemonic = "prevent win skill medal divorce invite vital diet pole view humor behind";
+var mnemonic = "galaxy excite push armed drive caution trophy patch desk garment rally stairs";

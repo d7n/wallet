@@ -1,1 +1,1 @@
-var mnemonic = "crew bamboo remember employ slot walnut scout script solar danger issue tourist";
+var mnemonic = "rubber liberty social local coconut cousin soda icon vacant moment member robot";

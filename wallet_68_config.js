@@ -1,1 +1,1 @@
-var mnemonic = "sniff radio flame pumpkin leave eager high mouse bridge cherry moral alter";
+var mnemonic = "soap photo topple fortune hurdle bag common april limb relief spider swap";

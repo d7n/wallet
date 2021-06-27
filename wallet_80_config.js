@@ -1,1 +1,1 @@
-var mnemonic = "slow acid stock common cover hunt castle whale boil cake balcony cloth";
+var mnemonic = "belt afford reflect obscure travel display spot ivory tomato trouble night rib";

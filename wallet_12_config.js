@@ -1,1 +1,1 @@
-var mnemonic = "bean play birth cart before anchor nuclear maid fit name interest park";
+var mnemonic = "pumpkin enact bean stay dry team flat amazing sadness bullet horror rate";

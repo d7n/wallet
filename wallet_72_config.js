@@ -1,1 +1,1 @@
-var mnemonic = "fit client wink rate average inspire run cruise lock vacuum box cheap";
+var mnemonic = "earth unfair palace catch eye like bundle fever behind keep curve main";

@@ -1,1 +1,1 @@
-var mnemonic = "original spring pet million obvious marble pioneer blame nice quit scan noise";
+var mnemonic = "image elevator credit whisper margin buzz luxury portion special bounce flight panther";

@@ -1,1 +1,1 @@
-var mnemonic = "dentist hospital actress achieve shuffle injury edge physical palm liar guess tuition";
+var mnemonic = "speed use ceiling lend island venture diagram aware treat decline pigeon mouse";

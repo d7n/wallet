@@ -1,1 +1,1 @@
-var mnemonic = "same turn empower system hard announce bronze basket fan climb brisk visit";
+var mnemonic = "satoshi club spatial vibrant tongue hurdle moral response hunt license adult stove";

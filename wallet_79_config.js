@@ -1,1 +1,1 @@
-var mnemonic = "boss disorder point left mosquito quantum rate away slab tiny muscle asthma";
+var mnemonic = "hobby alcohol tomato because globe ice sunset twelve opera upon choice fire";

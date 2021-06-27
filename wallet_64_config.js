@@ -1,1 +1,1 @@
-var mnemonic = "flock input spread cup index modify saddle flame outside fiber million fade";
+var mnemonic = "stove click kingdom gas resource burst year grass wave add capital basic";

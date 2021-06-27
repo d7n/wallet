@@ -1,1 +1,1 @@
-var mnemonic = "lab service side rely legal energy monitor scrap slim erode ice cloud";
+var mnemonic = "skirt judge judge arrow average engage equip scatter coconut piano nothing ability";

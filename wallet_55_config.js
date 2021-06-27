@@ -1,1 +1,1 @@
-var mnemonic = "craft trial sweet earth pattern cloth salad chat garden lens core erase";
+var mnemonic = "valid century cheese cinnamon actor flat flame grow hour ill kit slab";

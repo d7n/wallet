@@ -1,1 +1,1 @@
-var mnemonic = "fork napkin nuclear supply helmet debris shrimp ridge usual fruit heart spread";
+var mnemonic = "evoke toilet embrace item civil dry subject festival verb kick demand same";

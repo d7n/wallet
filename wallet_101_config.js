@@ -1,1 +1,1 @@
-var mnemonic = "front visit nasty curve base enlist century olympic tide clock soda dust";
+var mnemonic = "trim cliff shadow twist please assist choose unhappy pluck indoor until dolphin";

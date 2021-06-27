@@ -1,1 +1,1 @@
-var mnemonic = "olive boy happy fragile brother parrot receive armed awful episode girl range";
+var mnemonic = "trap trial script object print achieve accident noble kid pizza now air";

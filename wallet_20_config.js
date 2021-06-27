@@ -1,1 +1,1 @@
-var mnemonic = "dwarf ability blind wear crucial chalk girl follow lobster reform express drive";
+var mnemonic = "adult track city session piano alien lamp cabbage under live abstract ranch";

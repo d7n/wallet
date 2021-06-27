@@ -1,1 +1,1 @@
-var mnemonic = "trumpet term pond disorder uncle today menu buyer foot enemy rookie puzzle";
+var mnemonic = "broken skill result inflict home broom cliff monitor depth situate flame weasel";

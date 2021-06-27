@@ -1,1 +1,1 @@
-var mnemonic = "drama federal minor glimpse fluid lucky soldier clutch arrange swift visa arctic";
+var mnemonic = "rhythm arrange point lawsuit tooth barely stock pencil dose raven fatigue oyster";

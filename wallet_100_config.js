@@ -1,1 +1,1 @@
-var mnemonic = "cluster question repeat usage what more vote laugh nothing stuff book teach";
+var mnemonic = "only truly knee food warfare drill rich close foam code snack accident";

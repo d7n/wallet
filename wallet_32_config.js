@@ -1,1 +1,1 @@
-var mnemonic = "occur room decade pass act inquiry bitter behave post various kite quantum";
+var mnemonic = "genuine truth absorb tree culture fiber mail barely observe february strong lady";

@@ -1,1 +1,1 @@
-var mnemonic = "snake fiscal motor science damage save text glue spare hard job tilt";
+var mnemonic = "satisfy chase property leader shine drastic tuna fiber shallow error room stone";

@@ -1,1 +1,1 @@
-var mnemonic = "ticket usage detail phone cat decide spend view build caution brass beauty";
+var mnemonic = "until hair news joy famous decorate end scan tomato sweet call evidence";

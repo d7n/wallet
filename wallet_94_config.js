@@ -1,1 +1,1 @@
-var mnemonic = "uncover axis dirt drip render clerk bless abuse tool resist jeans gown";
+var mnemonic = "sample poem nuclear system modify soul potato resist dress auction picnic case";

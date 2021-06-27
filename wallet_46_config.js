@@ -1,1 +1,1 @@
-var mnemonic = "idle direct people prepare dust scare resemble daughter inform coffee cactus zebra";
+var mnemonic = "shrimp prepare during clever rabbit member biology poverty fruit donate runway train";

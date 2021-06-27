@@ -1,1 +1,1 @@
-var mnemonic = "exit leisure gold impact juice print erase behind decorate weapon foot wasp";
+var mnemonic = "lemon business addict broom north offer coral shrug surge antenna toast alcohol";

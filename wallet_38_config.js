@@ -1,1 +1,1 @@
-var mnemonic = "tank umbrella avocado voice wait crime boss tiny venue need produce guard";
+var mnemonic = "fox girl soda guess eager impact never sauce because wreck apple toy";

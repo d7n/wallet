@@ -1,1 +1,1 @@
-var mnemonic = "error enable right snap decline need throw pupil honey floor boy scrap";
+var mnemonic = "link make such bike pistol real license original capable solid travel arrange";

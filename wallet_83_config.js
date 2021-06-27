@@ -1,1 +1,1 @@
-var mnemonic = "inspire picture empower sudden skill double spoil target start call warrior throw";
+var mnemonic = "gate earn subject onion naive elegant cancel force twelve rough because alter";

@@ -1,1 +1,1 @@
-var mnemonic = "veteran hint black brisk vague icon minor rocket route mind sport vintage";
+var mnemonic = "autumn real panel lounge olympic father among fix shaft draw face reform";

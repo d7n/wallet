@@ -1,1 +1,1 @@
-var mnemonic = "humor inject tragic soup arm monitor cause student attend sphere retreat bone";
+var mnemonic = "surprise never silent slab mix grant above matrix member grief pipe genius";

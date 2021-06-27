@@ -1,1 +1,1 @@
-var mnemonic = "balcony conduct install ice quick crumble fat exhibit improve hospital between observe";
+var mnemonic = "prepare produce admit artefact bid spice device wisdom lecture tube gospel cactus";

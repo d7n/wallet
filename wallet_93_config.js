@@ -1,1 +1,1 @@
-var mnemonic = "nasty noodle promote smooth occur interest zone sing genuine federal budget time";
+var mnemonic = "wrap cradle bottom nothing grid inform once limit door notice family enrich";

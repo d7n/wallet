@@ -1,1 +1,1 @@
-var mnemonic = "decorate produce toddler blame destroy distance ship afraid tank drill wage confirm";
+var mnemonic = "output foot roast flush skate torch submit alcohol thunder virus dinner intact";

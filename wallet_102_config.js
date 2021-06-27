@@ -1,1 +1,1 @@
-var mnemonic = "abuse hand egg merry leisure liquid chat unit moon crisp vote motor";
+var mnemonic = "century birth stone drive better asthma actress dice garbage smart doll model";

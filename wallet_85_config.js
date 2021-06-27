@@ -1,1 +1,1 @@
-var mnemonic = "slide consider clap aerobic hope view invite excuse loop dentist category bike";
+var mnemonic = "cute deal sphere black soccer swamp rigid find account choice usage base";

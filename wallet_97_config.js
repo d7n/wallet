@@ -1,1 +1,1 @@
-var mnemonic = "furnace spice primary radio absent barrel cook mistake tobacco during coffee curve";
+var mnemonic = "gallery black truck sugar torch dance sense give ski post truth into";

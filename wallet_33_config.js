@@ -1,1 +1,1 @@
-var mnemonic = "vintage into tonight jazz stone tourist cushion tail leader spot inherit jump";
+var mnemonic = "orphan solid silk sea canal educate ordinary quality any invest crane embrace";

@@ -1,1 +1,1 @@
-var mnemonic = "pull slogan people fringe office daring chicken tongue degree orient tape during";
+var mnemonic = "busy pulp correct suspect axis fit liar indicate slice idea soda school";

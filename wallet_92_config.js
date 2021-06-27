@@ -1,1 +1,1 @@
-var mnemonic = "behind only real misery carpet cluster chuckle echo that chimney cricket force";
+var mnemonic = "soccer burden bag gun lend soap lunar pair dad seek luxury dentist";

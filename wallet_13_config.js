@@ -1,1 +1,1 @@
-var mnemonic = "mansion wisdom armor near board oak scrub mass marriage assume connect sunny";
+var mnemonic = "option inject fury card chaos pudding limit evoke run round normal forget";

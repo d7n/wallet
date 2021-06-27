@@ -1,1 +1,1 @@
-var mnemonic = "detect absurd nut extend mercy absurd sock example bonus catalog feel rotate";
+var mnemonic = "cake survey lecture unveil innocent coyote rubber year jeans churn secret design";

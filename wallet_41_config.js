@@ -1,1 +1,1 @@
-var mnemonic = "kick grow betray until follow aunt victory sadness enforce update until afford";
+var mnemonic = "hat bullet amount maid tomato truly angry caution reopen toward bus gaze";

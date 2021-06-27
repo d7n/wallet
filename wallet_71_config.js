@@ -1,1 +1,1 @@
-var mnemonic = "silent noble reason urban fetch cash dress more sunset mail spy boring";
+var mnemonic = "orchard milk electric asset great cement try sail exotic smoke vanish stay";

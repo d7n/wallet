@@ -1,1 +1,1 @@
-var mnemonic = "upgrade miracle symptom dad mimic hair alarm chaos avocado depart idea pool";
+var mnemonic = "shallow turtle amused rack pass loyal rough duck ball grape attract maple";

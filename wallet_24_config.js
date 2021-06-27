@@ -1,1 +1,1 @@
-var mnemonic = "bunker brass security verify liberty group season sense super clip melody pet";
+var mnemonic = "cross surround claw aisle immune admit gadget victory identify idle frozen neither";

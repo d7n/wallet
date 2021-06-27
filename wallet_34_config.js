@@ -1,1 +1,1 @@
-var mnemonic = "picture improve predict three critic result journey bean material lesson dizzy acoustic";
+var mnemonic = "dirt blush planet gown hint three friend pulp foot chest section saddle";

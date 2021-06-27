@@ -1,1 +1,1 @@
-var mnemonic = "wink bitter snap boring night curtain page velvet gaze outside assault during";
+var mnemonic = "ensure galaxy soft slow cigar mansion hint alien fit dentist behind vocal";

@@ -1,1 +1,1 @@
-var mnemonic = "sauce urban educate husband until inhale fee giant bag brain empty ritual";
+var mnemonic = "coconut prefer tube into enforce biology young whale drop spider cat drastic";

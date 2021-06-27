@@ -1,1 +1,1 @@
-var mnemonic = "baby member security course list decade shove claim invite prevent idea dust";
+var mnemonic = "glow square hour captain crush gentle solid ankle educate jungle again green";

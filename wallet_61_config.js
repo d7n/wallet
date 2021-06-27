@@ -1,1 +1,1 @@
-var mnemonic = "curtain unfair margin mind game settle sport vital aunt distance robot state";
+var mnemonic = "razor private blue glove insect all issue next urban crane powder all";

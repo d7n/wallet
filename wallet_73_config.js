@@ -1,1 +1,1 @@
-var mnemonic = "digital robust garden ginger industry wreck belt idea piece spoon hundred elder";
+var mnemonic = "stomach skin allow walnut oppose direct cricket fever gift pull olive hockey";

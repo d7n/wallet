@@ -1,1 +1,1 @@
-var mnemonic = "side frequent nice card forum salmon consider ripple bulb public hungry elevator";
+var mnemonic = "tomato history will awkward trend cliff someone cement athlete attract champion castle";

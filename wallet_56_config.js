@@ -1,1 +1,1 @@
-var mnemonic = "print sweet find lottery situate summer marine tide door donkey faint staff";
+var mnemonic = "sauce frozen young pulse before eternal cause merge exhaust dynamic cement squeeze";

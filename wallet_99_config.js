@@ -1,1 +1,1 @@
-var mnemonic = "few atom noise flock better robot lion tomorrow wear chase warfare segment";
+var mnemonic = "doll fun switch spell dinner pet favorite index enter prepare guard confirm";

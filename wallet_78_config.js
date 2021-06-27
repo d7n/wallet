@@ -1,1 +1,1 @@
-var mnemonic = "purchase tribe turtle dawn swift miss increase silent electric ill sunny rack";
+var mnemonic = "engine meat coral battle clown reject harvest engine pyramid lunar steak high";

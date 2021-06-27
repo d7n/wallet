@@ -1,1 +1,1 @@
-var mnemonic = "surface cabbage sugar enforce armor slogan vacant hope credit suggest virtual visit";
+var mnemonic = "away reopen auto pretty panther recall insect glad riot victory slogan hair";

@@ -1,1 +1,1 @@
-var mnemonic = "above bind prepare tragic grit giant vast open crucial mom trap depart";
+var mnemonic = "shield hour parent floor problem panda turn debate opinion pipe noble tackle";

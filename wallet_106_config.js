@@ -1,1 +1,1 @@
-var mnemonic = "carpet involve walk humble rubber coffee naive mother client robot job play";
+var mnemonic = "increase build text hungry gun cube obtain donor order open grab laundry";

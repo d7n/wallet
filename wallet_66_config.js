@@ -1,1 +1,1 @@
-var mnemonic = "claim spike refuse win notable portion rigid few pledge crystal pilot legend";
+var mnemonic = "burger slide plate lazy lion tool tired again silk spice execute safe";

@@ -1,1 +1,1 @@
-var mnemonic = "banana disease road mountain prosper era wild float camp undo raw bridge";
+var mnemonic = "excuse rhythm enforce execute someone direct video leader judge blue margin abandon";

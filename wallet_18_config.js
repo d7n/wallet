@@ -1,1 +1,1 @@
-var mnemonic = "wage mystery logic omit hazard stable benefit fatigue usage pizza daring prepare";
+var mnemonic = "giraffe speed paper stock cook learn gadget stuff arrive negative extend motor";

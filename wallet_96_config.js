@@ -1,1 +1,1 @@
-var mnemonic = "fiber bean hill oak cricket flat brass melt client stool thunder corn";
+var mnemonic = "cave know relax sketch width few doctor empower domain elbow clean monster";

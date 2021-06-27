@@ -1,1 +1,1 @@
-var mnemonic = "various space pony clarify angle pioneer range birth track cattle brisk used";
+var mnemonic = "dolphin until slogan exchange hockey print warrior other drop tunnel tennis menu";

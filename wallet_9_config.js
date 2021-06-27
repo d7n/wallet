@@ -1,1 +1,1 @@
-var mnemonic = "garden correct script boy panel limb involve property visual sand usage jungle";
+var mnemonic = "syrup apology rapid chief cross lunar dentist shed outdoor omit film cereal";

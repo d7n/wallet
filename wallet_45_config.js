@@ -1,1 +1,1 @@
-var mnemonic = "border agree beauty soap powder waste spring profit large blur feature umbrella";
+var mnemonic = "anchor cousin narrow awesome fence electric daring engine coach wing marine morning";

@@ -1,1 +1,1 @@
-var mnemonic = "box trip possible future stereo normal above sand clip mimic acid drill";
+var mnemonic = "tank royal admit track exit giant outer soft shoe install wheel metal";

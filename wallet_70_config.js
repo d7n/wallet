@@ -1,1 +1,1 @@
-var mnemonic = "alcohol outside vault bulk federal spatial liberty miracle online surge absorb matter";
+var mnemonic = "visa have lobster process bench spend battle guide protect cushion laptop need";

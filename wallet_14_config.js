@@ -1,1 +1,1 @@
-var mnemonic = "screen glow ladder boost peasant lend plug quality also luggage fault trip";
+var mnemonic = "example baby clever document roof happy choose cheap hard prepare grit urban";

@@ -1,1 +1,1 @@
-var mnemonic = "foster sign over auction awkward squirrel anger donate citizen vocal rate follow";
+var mnemonic = "giraffe check ability beyond exhaust will south cry cereal method feed fun";

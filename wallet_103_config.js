@@ -1,1 +1,1 @@
-var mnemonic = "paddle hole certain web crumble bid price deny great scale long roof";
+var mnemonic = "chat bridge found dirt reason lunch shield guide awesome orbit vivid turkey";

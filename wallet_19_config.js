@@ -1,1 +1,1 @@
-var mnemonic = "ensure response velvet diamond sunset birth energy portion host okay consider cabin";
+var mnemonic = "sheriff blossom tornado coconut harbor rib develop lab spread minute math mobile";

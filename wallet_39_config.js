@@ -1,1 +1,1 @@
-var mnemonic = "student found cement despair entire chase tower capital job ladder culture sun";
+var mnemonic = "able position exotic omit march oppose rebuild tennis lecture turn day dirt";

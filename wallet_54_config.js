@@ -1,1 +1,1 @@
-var mnemonic = "panic member cable illness slam social holiday ball dynamic steel reduce very";
+var mnemonic = "vast music news match jar crane cruise category thumb riot fish staff";

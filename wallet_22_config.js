@@ -1,1 +1,1 @@
-var mnemonic = "theory able guess dash govern eight jar latin local inject budget gospel";
+var mnemonic = "fork must essence box insect suggest lawsuit reveal cancel address helmet sort";

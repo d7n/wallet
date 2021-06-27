@@ -1,1 +1,1 @@
-var mnemonic = "test large black fury report analyst model magnet twin charge pupil often";
+var mnemonic = "equip grief false verify disease unlock fruit venue envelope visual grain category";

@@ -1,1 +1,1 @@
-var mnemonic = "ceiling escape educate banner inner sword join ignore brass witness twelve pattern";
+var mnemonic = "swarm primary draw paper top rebuild spatial miracle phrase hood hundred today";

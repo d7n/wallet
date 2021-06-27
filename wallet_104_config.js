@@ -1,1 +1,1 @@
-var mnemonic = "term sound march crisp clerk sun kid aerobic dismiss crane glance fox";
+var mnemonic = "winner magnet limb client green liberty patient food fossil barrel indoor museum";

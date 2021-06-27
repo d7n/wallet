@@ -1,1 +1,1 @@
-var mnemonic = "message tray corn attitude improve reunion twice diagram exotic long reason stone";
+var mnemonic = "six urge much people rocket normal husband awkward lizard they candy you";

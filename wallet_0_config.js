@@ -1,1 +1,1 @@
-var mnemonic = "right news grocery spice region cage thank inspire pledge cargo avocado desk";
+var mnemonic = "note napkin citizen top track demise under catch spy practice drop little";

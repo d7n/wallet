@@ -1,1 +1,1 @@
-var mnemonic = "stuff month where antenna jungle soul manage wear pluck that key rail";
+var mnemonic = "keen raccoon prosper divorce chuckle urge broom glory dash radio suffer pride";

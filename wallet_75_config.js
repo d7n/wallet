@@ -1,1 +1,1 @@
-var mnemonic = "room middle approve inform coffee dove bird slab excuse hidden citizen useless";
+var mnemonic = "open net autumn oval aware usage rebuild clock silent hungry when old";

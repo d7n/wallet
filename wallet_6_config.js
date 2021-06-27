@@ -1,1 +1,1 @@
-var mnemonic = "gate adult mountain cricket shield farm volcano cross canal circle tray punch";
+var mnemonic = "patch person cheap exit pipe dawn when kiwi faint language charge include";

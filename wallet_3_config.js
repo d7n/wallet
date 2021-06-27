@@ -1,1 +1,1 @@
-var mnemonic = "ready scene kit stage found uncle sketch favorite flock child country deny";
+var mnemonic = "build tip edge away air emotion badge peace vibrant together autumn recipe";

@@ -1,1 +1,1 @@
-var mnemonic = "drift dolphin horse item pen sister mask favorite machine chief civil mad";
+var mnemonic = "fancy light engine group rent rebuild man first silent tree bitter quit";

@@ -1,1 +1,1 @@
-var mnemonic = "cry kite athlete view prize alien claim dice flower leopard page wheel";
+var mnemonic = "man setup license crime reunion want angle true float congress garden relief";

@@ -1,1 +1,1 @@
-var mnemonic = "coyote chalk song spring record elephant pretty gap anchor orbit toddler roast";
+var mnemonic = "two fault satoshi bacon head creek witness attend grain length observe road";

@@ -1,1 +1,1 @@
-var mnemonic = "enough swarm video tennis any race problem case eight layer zoo connect";
+var mnemonic = "together spike wood mobile finish artwork cushion hobby upon envelope alert enable";

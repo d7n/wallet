@@ -1,1 +1,1 @@
-var mnemonic = "ability walk action profit mix alcohol violin print leisure economy club recipe";
+var mnemonic = "nature certain sketch slush hill caution vendor burden joke sustain brush twenty";

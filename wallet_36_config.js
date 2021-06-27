@@ -1,1 +1,1 @@
-var mnemonic = "pyramid chief guilt again acid proof resource salute join prevent current exchange";
+var mnemonic = "height mountain laptop blast tattoo weasel shiver merit weasel clump perfect bench";

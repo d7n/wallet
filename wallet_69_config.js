@@ -1,1 +1,1 @@
-var mnemonic = "distance mind field priority spatial bubble else salad panic lawn phrase stay";
+var mnemonic = "elephant heavy tool shaft vote raccoon seat vacuum hedgehog spike nature talent";
