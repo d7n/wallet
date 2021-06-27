@@ -1,1 +1,1 @@
-var mnemonic = "expose enhance two world energy soup voyage address logic slender pulp sight";
+var mnemonic = "wrap capital satoshi receive south push rug lyrics stable congress stem remain";

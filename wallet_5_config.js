@@ -1,1 +1,1 @@
-var mnemonic = "vapor oyster fiction kidney industry muscle portion castle above essay become goat";
+var mnemonic = "wire leisure truck photo school proof note much amount skate case trial";

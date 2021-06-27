@@ -1,1 +1,1 @@
-var mnemonic = "defy rifle clog bronze test bleak diagram all nest shed canal inherit";
+var mnemonic = "pupil gate hello disorder swim opera squeeze mammal half scout chimney gloom";

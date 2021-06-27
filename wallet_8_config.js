@@ -1,1 +1,1 @@
-var mnemonic = "parrot hill vanish lyrics illegal pumpkin street skill artwork path friend fix";
+var mnemonic = "dutch walnut burst observe taxi enable anger ski wool luggage pitch noble";

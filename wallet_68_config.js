@@ -1,1 +1,1 @@
-var mnemonic = "symptom dentist setup typical chef kangaroo you baby invest brand innocent guilt";
+var mnemonic = "offer true require another drip depart ridge spawn actual grow number knee";

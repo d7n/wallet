@@ -1,1 +1,1 @@
-var mnemonic = "clerk train tunnel weather tourist garden worry crystal joy ensure crouch peanut";
+var mnemonic = "talent grief shaft nurse biology tool cliff phone upgrade famous economy scheme";

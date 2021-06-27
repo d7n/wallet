@@ -1,1 +1,1 @@
-var mnemonic = "obey twenty hood annual pact waste pepper service scale warrior spider egg";
+var mnemonic = "believe connect battle find boring fury again sponsor human jewel hunt apology";

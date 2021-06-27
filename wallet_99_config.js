@@ -1,1 +1,1 @@
-var mnemonic = "fine coral police math left harsh water arrest rent math wait home";
+var mnemonic = "rib make install antique illegal insect worry olive rival butter surge desk";

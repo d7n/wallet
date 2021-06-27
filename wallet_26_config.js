@@ -1,1 +1,1 @@
-var mnemonic = "absorb before notice repeat blood exchange travel soft vibrant surround unveil egg";
+var mnemonic = "bitter broccoli hungry art train cat impose brick pumpkin sport valve patch";

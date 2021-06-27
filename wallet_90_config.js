@@ -1,1 +1,1 @@
-var mnemonic = "tube child amount guide chief resist mesh critic audit duck armor there";
+var mnemonic = "task brain achieve catalog double saddle prosper rally frame hurry remind note";

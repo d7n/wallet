@@ -1,1 +1,1 @@
-var mnemonic = "keep tree fee narrow divide tree intact dice purchase avoid wide rule";
+var mnemonic = "scatter soccer output mail edge own flight label wasp trophy family fix";

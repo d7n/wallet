@@ -1,1 +1,1 @@
-var mnemonic = "practice night solution modify garden frequent solve inspire work tattoo barrel slight";
+var mnemonic = "north bomb tiger gloom hello smoke asset mechanic enforce envelope magic demand";

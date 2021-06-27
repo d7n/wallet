@@ -1,1 +1,1 @@
-var mnemonic = "denial scatter mass region quiz runway royal toy leader offer stock lend";
+var mnemonic = "undo emotion market eye squirrel cruise mind group lyrics clump isolate lucky";

@@ -1,1 +1,1 @@
-var mnemonic = "boost faculty network ugly pull bright ranch accuse scheme already task history";
+var mnemonic = "sock amateur ice plate alter promote nation base tree drop early circle";

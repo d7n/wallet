@@ -1,1 +1,1 @@
-var mnemonic = "beef ramp swarm inner tone swing add camera dish gaze envelope figure";
+var mnemonic = "cargo expose color spy rack nest mandate dry mansion diesel lobster coin";

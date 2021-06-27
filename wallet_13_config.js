@@ -1,1 +1,1 @@
-var mnemonic = "deer stool session mango head quantum water pluck table wage illness siege";
+var mnemonic = "retire month image inside flee picnic clap net unique burger rather little";

@@ -1,1 +1,1 @@
-var mnemonic = "shock bus elevator exact violin such aisle ask select fade stay firm";
+var mnemonic = "faint wave attract seven bachelor soft exile text naive dinner coyote chase";

@@ -1,1 +1,1 @@
-var mnemonic = "bag lyrics glass blush chuckle this feature bike chunk answer dash must";
+var mnemonic = "choose rival oblige eagle essay office hospital dawn struggle omit peace neck";

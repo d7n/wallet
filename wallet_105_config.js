@@ -1,1 +1,1 @@
-var mnemonic = "token slush swap outdoor vicious equal mango culture pact online february hammer";
+var mnemonic = "stable favorite insect rent roof night switch life meat talent pattern behind";

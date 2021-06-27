@@ -1,1 +1,1 @@
-var mnemonic = "they soap security nut citizen cushion execute fatigue time endorse marriage primary";
+var mnemonic = "swamp cake lawsuit scale alien olive select oven benefit enrich seed try";

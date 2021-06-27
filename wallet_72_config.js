@@ -1,1 +1,1 @@
-var mnemonic = "carpet cousin melt skirt trigger cupboard agree stem silver refuse monster jazz";
+var mnemonic = "grain craft bounce journey outdoor jump early hammer route empty breeze betray";

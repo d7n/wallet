@@ -1,1 +1,1 @@
-var mnemonic = "group wheat chapter logic glow token skin diary century someone acid doll";
+var mnemonic = "defense brick rural gossip vanish lumber tornado surprise enable final cushion brush";

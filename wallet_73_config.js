@@ -1,1 +1,1 @@
-var mnemonic = "crazy fruit kingdom sponsor trick siren fancy age rib message shine input";
+var mnemonic = "step grocery seminar excuse rail arm exotic velvet network special nothing clever";

@@ -1,1 +1,1 @@
-var mnemonic = "brick worth blur appear because inherit winner hub jungle civil egg term";
+var mnemonic = "sentence two symbol cannon athlete exclude inspire sniff travel trigger arrest exotic";

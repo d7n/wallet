@@ -1,1 +1,1 @@
-var mnemonic = "normal bus lyrics memory random siege increase silent course success unaware waste";
+var mnemonic = "chuckle ladder sting treat angle soup business elite orbit armed arrow hungry";

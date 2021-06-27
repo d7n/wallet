@@ -1,1 +1,1 @@
-var mnemonic = "net skin spy cluster brain wreck else kidney stumble cream sort hill";
+var mnemonic = "blue envelope ocean oppose inflict lonely govern move spring object oak main";

@@ -1,1 +1,1 @@
-var mnemonic = "monster cattle practice east grace edit season price cupboard exit smoke swear";
+var mnemonic = "game neck tone country zone father peace sudden view resemble crack already";

@@ -1,1 +1,1 @@
-var mnemonic = "intact fever equal enable shell garment crop century noble question balance ability";
+var mnemonic = "people mask young physical globe tribe myself liberty episode luxury worth muffin";

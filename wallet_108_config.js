@@ -1,1 +1,1 @@
-var mnemonic = "fortune skin vibrant again warfare uncle survey predict account shallow soul usual";
+var mnemonic = "make very woman carbon trigger duck bamboo cup magic usual reveal stamp";

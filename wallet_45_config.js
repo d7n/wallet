@@ -1,1 +1,1 @@
-var mnemonic = "shell unique cactus birth fun valley actor idea blouse police lottery bread";
+var mnemonic = "decade wrong warfare tobacco hub use witness physical call crumble night crop";

@@ -1,1 +1,1 @@
-var mnemonic = "total smooth rate soft year board bacon pioneer prosper pyramid little over";
+var mnemonic = "meat grid warfare cabbage weapon magic quick seat slide window seek setup";

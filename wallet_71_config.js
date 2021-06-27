@@ -1,1 +1,1 @@
-var mnemonic = "bracket type appear acquire black super dog pencil where frame witness crew";
+var mnemonic = "wrist echo violin loud match acid wagon retreat slice general dry pistol";

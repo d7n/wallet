@@ -1,1 +1,1 @@
-var mnemonic = "build razor kidney digital execute stove tower hockey dirt bullet run test";
+var mnemonic = "prefer regular wood tag resemble first roast ranch shell great sausage current";

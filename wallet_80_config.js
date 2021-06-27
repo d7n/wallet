@@ -1,1 +1,1 @@
-var mnemonic = "cricket sketch illegal flame nasty oil neck answer hen that world strike";
+var mnemonic = "estate close dash fall trend clay below embark only silk smart traffic";

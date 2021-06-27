@@ -1,1 +1,1 @@
-var mnemonic = "split sheriff exclude congress foil execute ill arctic produce load cruel burst";
+var mnemonic = "morning awesome stool bottom tube marriage gorilla frame discover fade unhappy twelve";

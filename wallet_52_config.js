@@ -1,1 +1,1 @@
-var mnemonic = "bone disease stairs marriage range drink flame version below mixed sentence orient";
+var mnemonic = "misery pair improve biology answer endorse there october glove shoulder wise dirt";

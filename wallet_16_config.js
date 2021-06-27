@@ -1,1 +1,1 @@
-var mnemonic = "system property august spike trade delay actual satoshi crew chef seat episode";
+var mnemonic = "ghost song hero awful pepper plastic drink finger logic execute major escape";

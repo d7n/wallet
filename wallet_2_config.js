@@ -1,1 +1,1 @@
-var mnemonic = "rain silver level verb asset there face switch boy bulk time ahead";
+var mnemonic = "neutral noble online manual giggle zoo bracket cement diagram thrive original eager";

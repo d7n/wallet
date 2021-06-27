@@ -1,1 +1,1 @@
-var mnemonic = "differ invite security sock electric pink spot soda six hood joy tilt";
+var mnemonic = "field desk pig dust record trap monster process such snap tattoo tray";

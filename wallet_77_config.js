@@ -1,1 +1,1 @@
-var mnemonic = "behind embrace taxi patrol plug situate pistol neck range win expose smooth";
+var mnemonic = "wool harsh vapor arctic industry large target network youth exotic park maple";

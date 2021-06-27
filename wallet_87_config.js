@@ -1,1 +1,1 @@
-var mnemonic = "decline actress ocean tell lumber lottery patient birth move smoke bachelor ball";
+var mnemonic = "denial beyond crime include climb dignity dawn kid coast breeze inform dove";

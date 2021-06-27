@@ -1,1 +1,1 @@
-var mnemonic = "awful polar card flock hidden supply advice jelly credit kind enemy credit";
+var mnemonic = "able maximum tuition certain gaze repair large enough stairs neutral canal damp";

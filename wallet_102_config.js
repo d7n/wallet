@@ -1,1 +1,1 @@
-var mnemonic = "cheese dose velvet parade senior lazy spare unit lunar hour ahead smooth";
+var mnemonic = "hover garbage act endless gloom useful shiver render start canal service kitten";

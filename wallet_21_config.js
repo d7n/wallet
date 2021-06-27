@@ -1,1 +1,1 @@
-var mnemonic = "suffer prison equal gas audit sound stay enact stuff correct struggle evoke";
+var mnemonic = "library diamond smooth unable empower rude assault corn tourist glass entire kind";

@@ -1,1 +1,1 @@
-var mnemonic = "crime invite project paddle pen citizen educate useful animal cake diary damage";
+var mnemonic = "spare gun knee endorse slim aunt walnut alpha glass side expect noodle";

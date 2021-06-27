@@ -1,1 +1,1 @@
-var mnemonic = "elbow swarm fabric drive tiny orient cannon bus magnet hold thought toss";
+var mnemonic = "choose strong hundred purse conduct figure popular acoustic immune spoil fish license";

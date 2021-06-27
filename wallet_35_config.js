@@ -1,1 +1,1 @@
-var mnemonic = "spare dignity olympic taxi grid tuna ask sail oblige solar reflect balcony";
+var mnemonic = "mix animal track process shield harvest husband gather stick thing blouse over";

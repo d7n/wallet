@@ -1,1 +1,1 @@
-var mnemonic = "actual diesel reopen adult knock range section close blame kit alcohol cart";
+var mnemonic = "kid shy sample climb annual peasant claw flip nature post trust slim";

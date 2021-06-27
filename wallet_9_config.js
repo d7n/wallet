@@ -1,1 +1,1 @@
-var mnemonic = "chapter dash able direct modify bless double immune stereo taste clog stick";
+var mnemonic = "where appear client rival cross now window example shop merge foam measure";

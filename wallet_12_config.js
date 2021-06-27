@@ -1,1 +1,1 @@
-var mnemonic = "torch soul reward betray patient leader coil wing panel buddy document danger";
+var mnemonic = "tank upon network sheriff naive suspect excess fatigue eagle chase kitten disease";

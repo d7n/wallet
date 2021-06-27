@@ -1,1 +1,1 @@
-var mnemonic = "myth bird domain inherit patient kitchen audit army decide craft luggage stable";
+var mnemonic = "usual space crystal foot pigeon wedding base crouch enact bacon exhaust vehicle";

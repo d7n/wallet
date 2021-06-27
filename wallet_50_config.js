@@ -1,1 +1,1 @@
-var mnemonic = "merge vendor balance motor long abandon exit barrel lift summer intact cherry";
+var mnemonic = "begin short ethics later flight recycle strong unfair expand mistake notable order";

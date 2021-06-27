@@ -1,1 +1,1 @@
-var mnemonic = "orphan across ranch segment thank obtain penalty thumb rabbit blue art chimney";
+var mnemonic = "wisdom pelican gloom pet destroy check true stamp evidence sheriff bamboo wait";

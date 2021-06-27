@@ -1,1 +1,1 @@
-var mnemonic = "decrease black decrease sick bridge animal buyer effort moral mobile antique language";
+var mnemonic = "regular humor candy squeeze image clinic melt water claim lyrics possible hold";

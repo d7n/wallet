@@ -1,1 +1,1 @@
-var mnemonic = "wish push scrap juice antique afraid asset visual replace situate junior calm";
+var mnemonic = "portion emerge axis drive crew length trash solve accident west blame cream";

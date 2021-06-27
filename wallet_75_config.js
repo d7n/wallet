@@ -1,1 +1,1 @@
-var mnemonic = "worry pilot ordinary define they art where choose foil jelly arrange journey";
+var mnemonic = "photo sphere gaze can lawn across attitude language snow siren repeat gentle";

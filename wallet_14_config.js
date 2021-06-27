@@ -1,1 +1,1 @@
-var mnemonic = "inch monster catalog onion narrow fly firm fiber robust cricket advance health";
+var mnemonic = "circle price strong service man liquid jealous maid found goose bread case";

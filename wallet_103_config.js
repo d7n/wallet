@@ -1,1 +1,1 @@
-var mnemonic = "season birth country globe exhibit spatial chuckle today misery current abandon tail";
+var mnemonic = "predict goose lock develop detail yellow you volcano distance result pact crouch";

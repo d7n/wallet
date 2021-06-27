@@ -1,1 +1,1 @@
-var mnemonic = "seed fall assume reflect glimpse cry coach better turkey token damage era";
+var mnemonic = "engine buffalo lunch base light horse clay odor venture inflict leisure wisdom";

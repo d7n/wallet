@@ -1,1 +1,1 @@
-var mnemonic = "govern beach sort topic another above symbol true jealous kind grit music";
+var mnemonic = "sunset defense panel knee eight pony situate beyond express color among festival";

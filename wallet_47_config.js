@@ -1,1 +1,1 @@
-var mnemonic = "hunt sing call sun mango fault move mistake garage connect omit table";
+var mnemonic = "access scissors upset scout upset promote above gap atom tower violin report";

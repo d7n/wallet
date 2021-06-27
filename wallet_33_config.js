@@ -1,1 +1,1 @@
-var mnemonic = "vicious grain net wide member post cause chaos oak depend cash expect";
+var mnemonic = "apple sunset range doctor error gadget inject book bleak pizza pair sword";

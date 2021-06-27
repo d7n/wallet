@@ -1,1 +1,1 @@
-var mnemonic = "neutral two south barrel tragic road rural boost fashion lady symptom world";
+var mnemonic = "guilt mean transfer jaguar custom derive tuition wink chaos skate steel top";

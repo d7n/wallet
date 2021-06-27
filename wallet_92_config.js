@@ -1,1 +1,1 @@
-var mnemonic = "focus love correct odor forum primary melt myself virtual chunk exile arrange";
+var mnemonic = "reward sausage fiscal prosper subway unfold elite area garbage put priority become";

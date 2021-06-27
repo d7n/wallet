@@ -1,1 +1,1 @@
-var mnemonic = "bronze ball wrap punch immense umbrella category shy stomach soda betray uncle";
+var mnemonic = "custom pony horn prefer wise lobster organ grocery involve aspect urban crush";

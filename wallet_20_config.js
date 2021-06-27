@@ -1,1 +1,1 @@
-var mnemonic = "various pizza stool table asthma loyal bean now rigid monkey ski lottery";
+var mnemonic = "reunion oil winter end clever ship target census employ time toilet napkin";

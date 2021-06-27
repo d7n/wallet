@@ -1,1 +1,1 @@
-var mnemonic = "permit target hair same volume two innocent undo emerge comfort reunion latin";
+var mnemonic = "base eternal bitter burger thank skill crystal anchor organ wish know exit";

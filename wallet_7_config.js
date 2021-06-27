@@ -1,1 +1,1 @@
-var mnemonic = "night gas club curtain demise tired grab any puzzle affair blanket loud";
+var mnemonic = "perfect way ensure swear nation blouse noble render margin hub fly initial";

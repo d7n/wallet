@@ -1,1 +1,1 @@
-var mnemonic = "license erupt future balcony pudding maid sock elephant scissors wrist tiger embody";
+var mnemonic = "bleak shaft pride lecture defense teach palm stereo project animal where ranch";

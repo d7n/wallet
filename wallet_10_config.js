@@ -1,1 +1,1 @@
-var mnemonic = "lonely embody sphere interest display noble later taxi flat liquid warm cash";
+var mnemonic = "mountain say loud answer food fox adult section member actress soda avocado";

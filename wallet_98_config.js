@@ -1,1 +1,1 @@
-var mnemonic = "split desk robust type setup century crew clock pave round pond inhale";
+var mnemonic = "tuition angle swift sword merit lumber glance mosquito response stumble evoke nose";

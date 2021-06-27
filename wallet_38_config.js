@@ -1,1 +1,1 @@
-var mnemonic = "next bar spoon puppy under cross actual butter boost viable wife plate";
+var mnemonic = "spring frost dawn pause impulse neglect coast wrap door jacket into vessel";

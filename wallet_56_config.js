@@ -1,1 +1,1 @@
-var mnemonic = "portion shield route picture salad ancient example hour all appear civil fortune";
+var mnemonic = "uphold seek ability voice broom kingdom undo scene need mandate amused quality";

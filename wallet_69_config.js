@@ -1,1 +1,1 @@
-var mnemonic = "reunion bottom toss rotate valley spare release vehicle able float casual life";
+var mnemonic = "crew second baby pill erase casino same inside exile angry crane seed";

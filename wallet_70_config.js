@@ -1,1 +1,1 @@
-var mnemonic = "lobster obscure second music visa twice cloth sea phrase segment dragon nut";
+var mnemonic = "taxi polar video eager flame tag document shrug when blouse replace shop";

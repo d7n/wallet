@@ -1,1 +1,1 @@
-var mnemonic = "hawk now element border dilemma cage kingdom pole federal trap food margin";
+var mnemonic = "siege try tone wish entire expand entry pluck scan crack patrol august";

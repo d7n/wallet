@@ -1,1 +1,1 @@
-var mnemonic = "marine volcano cliff erase knife casino pattern find hold double knock draw";
+var mnemonic = "owner chronic burden attack celery welcome bleak powder spin acoustic unhappy ridge";

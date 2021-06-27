@@ -1,1 +1,1 @@
-var mnemonic = "scissors helmet black gain mobile organ gesture minor vault lunar minute mother";
+var mnemonic = "please dial ready limit penalty talent walk slab traffic make pretty dwarf";

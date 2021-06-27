@@ -1,1 +1,1 @@
-var mnemonic = "man stumble bar corn crime cook sport robust tomato human phrase share";
+var mnemonic = "chief ask coconut miss aerobic bulb plate noise pill fence upgrade manual";

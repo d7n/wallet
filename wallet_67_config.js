@@ -1,1 +1,1 @@
-var mnemonic = "hungry collect fold enlist unable swamp pepper cradle doctor prepare access side";
+var mnemonic = "inner reduce purse attack glass unhappy bread record innocent cable fitness beef";

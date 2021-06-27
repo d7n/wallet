@@ -1,1 +1,1 @@
-var mnemonic = "keen gown attack kite fee divorce allow child badge identify caught swarm";
+var mnemonic = "current tunnel entry cave sweet feed blind between ethics another ignore bitter";

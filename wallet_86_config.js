@@ -1,1 +1,1 @@
-var mnemonic = "ten dry venue swing master lawsuit jar grab object faint unlock spatial";
+var mnemonic = "grunt coil vital easy thumb inspire exhaust border faculty sleep coconut depart";

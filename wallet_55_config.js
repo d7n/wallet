@@ -1,1 +1,1 @@
-var mnemonic = "depth there rule adapt hand measure favorite lesson arrow update poet rude";
+var mnemonic = "hood tone divert minor fox great upgrade nothing prefer use lamp cushion";

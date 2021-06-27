@@ -1,1 +1,1 @@
-var mnemonic = "athlete tenant sister clay mechanic success dog horror auto resemble try excite";
+var mnemonic = "ball december ring clock music smile great grab van journey stage cliff";

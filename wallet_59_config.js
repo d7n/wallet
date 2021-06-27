@@ -1,1 +1,1 @@
-var mnemonic = "clarify garbage medal narrow strategy buyer horror reunion term gauge peace crisp";
+var mnemonic = "table spin shift spot fuel tourist cigar benefit envelope end ecology shy";

@@ -1,1 +1,1 @@
-var mnemonic = "reform alter artefact tone exchange dilemma weasel rookie sphere more bean stock";
+var mnemonic = "fiber recall custom rabbit people saddle lottery virus bulb ladder minor tribe";

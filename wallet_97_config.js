@@ -1,1 +1,1 @@
-var mnemonic = "route during message increase dizzy abuse mask people oppose april large kitchen";
+var mnemonic = "divorce surface glass minor ethics soup wonder able dignity car faculty output";
