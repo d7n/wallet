@@ -1,1 +1,1 @@
-var mnemonic = "achieve talent simple fabric copy truly conduct faint wise winter physical settle";
+var mnemonic = "point exclude giggle match embark census cloud canoe prison soccer grow glare";

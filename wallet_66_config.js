@@ -1,1 +1,1 @@
-var mnemonic = "kidney camp game island solution damp decline give equip dizzy brave suggest";
+var mnemonic = "phrase crew walnut fossil fine tell inform hundred faint quit blind milk";

@@ -1,1 +1,1 @@
-var mnemonic = "draw episode sort chronic window supply catch focus viable meat stand mixture";
+var mnemonic = "reform sport evoke upgrade paddle course tiger notice custom jazz primary cycle";

@@ -1,1 +1,1 @@
-var mnemonic = "orphan home wolf recall mandate include world audit zebra shoot meat glare";
+var mnemonic = "differ snap inmate mobile fortune remain give seven velvet teach survey spell";

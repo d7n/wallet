@@ -1,1 +1,1 @@
-var mnemonic = "cool area vicious hint flower sauce cram sketch stomach rather extra mosquito";
+var mnemonic = "gas dumb recall twelve panic shallow blood smile garlic water rescue birth";

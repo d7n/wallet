@@ -1,1 +1,1 @@
-var mnemonic = "comfort token alone tilt uphold road fuel stool math film era casual";
+var mnemonic = "wing exchange aware blue promote crime chapter crack shrug weasel ankle meat";

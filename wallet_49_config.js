@@ -1,1 +1,1 @@
-var mnemonic = "tribe market delay jungle devote same parrot ozone fragile borrow hawk crisp";
+var mnemonic = "blast gravity buddy report chat opinion ketchup spread whisper repeat curious vintage";

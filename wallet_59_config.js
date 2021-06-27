@@ -1,1 +1,1 @@
-var mnemonic = "gauge laptop asset depend sugar work entry defy orphan boss chief bundle";
+var mnemonic = "stool mule nose arrow goose easily warrior tunnel chaos agent recycle accuse";

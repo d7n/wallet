@@ -1,1 +1,1 @@
-var mnemonic = "risk labor phone burden vintage husband hammer repeat cart pole dignity grain";
+var mnemonic = "edit mass merry car canoe link feed napkin tiger device outside train";

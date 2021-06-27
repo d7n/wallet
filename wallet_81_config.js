@@ -1,1 +1,1 @@
-var mnemonic = "deposit drum such fatal noble goddess sphere rather echo explain path squeeze";
+var mnemonic = "festival edit manual game hip profit avocado crush effort switch luxury more";

@@ -1,1 +1,1 @@
-var mnemonic = "secret tragic ignore august that shine gossip fetch lamp across mistake pass";
+var mnemonic = "thank torch vanish brass belt give remain town gorilla story edge insect";

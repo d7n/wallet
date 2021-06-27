@@ -1,1 +1,1 @@
-var mnemonic = "myth unable cloth believe denial brown reform load club asthma heart ozone";
+var mnemonic = "circle general rule pear there host poverty settle negative cheese aware cloud";

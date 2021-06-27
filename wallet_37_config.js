@@ -1,1 +1,1 @@
-var mnemonic = "develop old income fruit grid panther elegant rigid upper fiber glare where";
+var mnemonic = "real car rural anchor squeeze slender learn smart jewel brother angle echo";

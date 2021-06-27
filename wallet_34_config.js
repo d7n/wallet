@@ -1,1 +1,1 @@
-var mnemonic = "injury liar recipe frog walnut destroy cake olympic actor milk price desert";
+var mnemonic = "boil equip ticket fossil asset private brief army episode direct token sand";

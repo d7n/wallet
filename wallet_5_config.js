@@ -1,1 +1,1 @@
-var mnemonic = "goat tissue you gate course body detail smile employ case sock side";
+var mnemonic = "hockey still hold dynamic avoid velvet green super bounce lesson toward unveil";

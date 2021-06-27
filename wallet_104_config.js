@@ -1,1 +1,1 @@
-var mnemonic = "aunt pelican eight dragon anger sniff rural birth winner digital belt daughter";
+var mnemonic = "amazing hurry crisp van vintage news topic sad wall duck parade figure";

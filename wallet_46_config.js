@@ -1,1 +1,1 @@
-var mnemonic = "scout decade offer great galaxy column purpose pen kit aunt crystal gentle";
+var mnemonic = "hover total desert arrange find engine lock soup guess royal puppy enjoy";

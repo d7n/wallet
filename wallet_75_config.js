@@ -1,1 +1,1 @@
-var mnemonic = "wool expand what way bench erosion sphere remove message rent vicious prosper";
+var mnemonic = "erode seek play hello owner fold tuna grab crash marble debris dragon";

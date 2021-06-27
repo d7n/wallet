@@ -1,1 +1,1 @@
-var mnemonic = "erosion toilet either sister differ system rapid join danger sting punch answer";
+var mnemonic = "shrug beach pencil exact chaos insane burger stay final nest exercise layer";

@@ -1,1 +1,1 @@
-var mnemonic = "hen found hub record stock company various shine olive thank chunk fence";
+var mnemonic = "indicate slight laptop race wage such warm tool trophy crack derive someone";

@@ -1,1 +1,1 @@
-var mnemonic = "sure real render empower maple become throw feed pause ladder eye broccoli";
+var mnemonic = "acoustic east always interest door dad render you brown upgrade squeeze uphold";

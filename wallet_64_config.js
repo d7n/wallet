@@ -1,1 +1,1 @@
-var mnemonic = "file estate right glass bunker unit woman advance eternal urban oval poverty";
+var mnemonic = "autumn parent staff offer lucky jealous grant movie multiply coyote near plunge";

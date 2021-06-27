@@ -1,1 +1,1 @@
-var mnemonic = "chef fantasy volcano provide truth tide pledge picture slight suit first trip";
+var mnemonic = "tobacco shine swarm frown main public draft appear salmon garment sick girl";

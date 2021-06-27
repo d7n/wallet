@@ -1,1 +1,1 @@
-var mnemonic = "blade render fly obey fiction same army expire canal leader wing brain";
+var mnemonic = "disagree onion pottery sniff approve giggle primary valid apple federal tip swear";

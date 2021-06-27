@@ -1,1 +1,1 @@
-var mnemonic = "example benefit camp rude defy follow salute orange rice lamp deal usual";
+var mnemonic = "ankle armed carbon kitten laptop humble giraffe kite dial inflict grab alter";

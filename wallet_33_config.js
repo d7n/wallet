@@ -1,1 +1,1 @@
-var mnemonic = "screen panel spatial foot frozen invite approve frost hungry hard danger crouch";
+var mnemonic = "curtain glue garbage suggest match leave sock tuna vapor acid unfold fashion";

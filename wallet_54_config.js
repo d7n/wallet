@@ -1,1 +1,1 @@
-var mnemonic = "nature drama topple surface gloom joy autumn diamond evolve kitten episode rain";
+var mnemonic = "similar debris divert develop announce busy task collect elder stamp flip ugly";

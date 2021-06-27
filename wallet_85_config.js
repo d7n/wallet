@@ -1,1 +1,1 @@
-var mnemonic = "demise sun fetch mail rose course custom pottery settle vicious smoke wrestle";
+var mnemonic = "sauce cherry blood coil push congress combine steak aim draft creek mass";

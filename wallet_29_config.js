@@ -1,1 +1,1 @@
-var mnemonic = "miss seat desk lake trial suit patient phrase jump prepare noodle kidney";
+var mnemonic = "alert wish patch render walnut age limit receive empower keen word coral";

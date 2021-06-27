@@ -1,1 +1,1 @@
-var mnemonic = "lava nature abandon thunder misery surface flame reflect search just reward spice";
+var mnemonic = "extend forward diesel excite wrist swap fatal neutral priority mystery adjust remember";

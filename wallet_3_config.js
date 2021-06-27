@@ -1,1 +1,1 @@
-var mnemonic = "crawl december maze grow island brother pave vehicle warfare drift ice obey";
+var mnemonic = "couple discover hint voice base pride identify master degree brass visit eagle";

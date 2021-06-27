@@ -1,1 +1,1 @@
-var mnemonic = "shield leaf increase trophy bag fetch survey answer fat venture cancel steel";
+var mnemonic = "define tongue hurry energy explain father retire oval auction keep depend timber";

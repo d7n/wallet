@@ -1,1 +1,1 @@
-var mnemonic = "push multiply april palm verb scan garbage supply snack original letter turn";
+var mnemonic = "exist surprise pilot midnight collect wreck series love inner rule fly hurry";

@@ -1,1 +1,1 @@
-var mnemonic = "gold sadness clean apology away remind dwarf task upper angle useless latin";
+var mnemonic = "fame shop security genre decade bike shock hammer stadium sail run funny";

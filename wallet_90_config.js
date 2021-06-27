@@ -1,1 +1,1 @@
-var mnemonic = "bid genius possible wrong salon fog whale sample gentle agree empty vessel";
+var mnemonic = "arch twenty device cycle ozone catch pledge bitter modify anxiety calm anchor";

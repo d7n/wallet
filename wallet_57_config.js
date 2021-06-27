@@ -1,1 +1,1 @@
-var mnemonic = "tip become gesture announce joke mercy pencil hybrid web keep describe truck";
+var mnemonic = "enjoy firm result trim act eager hobby depend wait river wealth glimpse";

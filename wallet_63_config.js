@@ -1,1 +1,1 @@
-var mnemonic = "north bomb analyst circle ivory assist success small resist water cheap include";
+var mnemonic = "cash large blossom buffalo icon tomorrow chief cousin else advice stuff priority";

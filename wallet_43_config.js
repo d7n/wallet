@@ -1,1 +1,1 @@
-var mnemonic = "fog blush design have decide elephant sorry myth path distance lunar palace";
+var mnemonic = "turtle gas age common act brisk patient result ensure valve club divert";

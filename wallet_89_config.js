@@ -1,1 +1,1 @@
-var mnemonic = "delay minimum gym swear hazard husband during depend behave reject quiz stem";
+var mnemonic = "impulse drive indicate much where path front unveil artist ask treat flip";

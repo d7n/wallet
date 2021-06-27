@@ -1,1 +1,1 @@
-var mnemonic = "captain cradle force blush position gallery drum lawsuit apology track midnight net";
+var mnemonic = "rude act suit viable moral hamster width regret distance tornado suspect upon";

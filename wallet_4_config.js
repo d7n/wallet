@@ -1,1 +1,1 @@
-var mnemonic = "bridge divorce enlist excuse alert seed agent public avoid oven become crush";
+var mnemonic = "increase library feature budget change leaf lawn cinnamon shoe eye zero use";

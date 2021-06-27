@@ -1,1 +1,1 @@
-var mnemonic = "little sausage view polar pole budget measure orchard scale music tower sample";
+var mnemonic = "sand lesson reject grab young ribbon future bacon boat ski subway enough";

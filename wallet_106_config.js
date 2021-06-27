@@ -1,1 +1,1 @@
-var mnemonic = "exchange mango mass coffee fury hat assist news suggest dilemma phone visa";
+var mnemonic = "list hat bulk release seven derive stay length witness buffalo license focus";

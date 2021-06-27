@@ -1,1 +1,1 @@
-var mnemonic = "giraffe forest online mango family hockey hazard reunion make chicken exhibit enough";
+var mnemonic = "special broom broken brisk vehicle ketchup obey skill diary hungry exchange banner";

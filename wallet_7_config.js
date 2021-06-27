@@ -1,1 +1,1 @@
-var mnemonic = "company enjoy hundred language fever owner castle cruel just trade involve prosper";
+var mnemonic = "palm loud fuel focus crucial law clip hill pig approve busy phrase";

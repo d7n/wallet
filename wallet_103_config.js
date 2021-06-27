@@ -1,1 +1,1 @@
-var mnemonic = "guitar autumn dilemma elevator goddess phone convince buyer opera left acid tree";
+var mnemonic = "primary ecology arena town differ sand net impact crazy surge nation ensure";

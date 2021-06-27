@@ -1,1 +1,1 @@
-var mnemonic = "crop tower mansion tattoo act lava wasp race census warrior idle broom";
+var mnemonic = "dance measure kick few crisp hospital toy arena office monitor solution much";

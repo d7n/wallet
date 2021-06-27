@@ -1,1 +1,1 @@
-var mnemonic = "cloth security much glow exile art east deposit inch prison shy color";
+var mnemonic = "call fossil twin umbrella velvet manage vanish poet helmet good pelican adapt";

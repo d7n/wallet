@@ -1,1 +1,1 @@
-var mnemonic = "gap summer buzz promote focus verify debate fuel manual emerge smooth sweet";
+var mnemonic = "boss brand soup mention inject onion shallow venue flavor annual notable picnic";

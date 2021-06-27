@@ -1,1 +1,1 @@
-var mnemonic = "sketch warm wreck midnight blood ripple chief tongue bunker harsh service nephew";
+var mnemonic = "earn skate sister wine track defy acquire coyote ball gas rescue blossom";

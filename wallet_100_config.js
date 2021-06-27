@@ -1,1 +1,1 @@
-var mnemonic = "when promote winter approve drum friend pride mimic between chest soon olympic";
+var mnemonic = "mystery wolf gather tenant nominee auction grace valley banana infant escape bachelor";

@@ -1,1 +1,1 @@
-var mnemonic = "royal cinnamon series poverty chimney tragic radio bridge obey satoshi carbon thank";
+var mnemonic = "domain attract tiger outer purity service crime rose grow spray museum invite";

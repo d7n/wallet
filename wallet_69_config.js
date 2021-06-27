@@ -1,1 +1,1 @@
-var mnemonic = "address better service gallery tomato amused arch dutch thrive cushion lamp gaze";
+var mnemonic = "never rude jeans asset tomorrow type lounge local dress cabbage honey switch";

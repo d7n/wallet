@@ -1,1 +1,1 @@
-var mnemonic = "taste monster above other tumble nephew improve panda blood win wall dumb";
+var mnemonic = "globe electric junior relax device toddler dismiss woman load shadow popular fatal";

@@ -1,1 +1,1 @@
-var mnemonic = "plug grow debris boil shed during drip once execute ensure math spirit";
+var mnemonic = "permit code palace payment glow replace pattern capital grow angry tumble fan";

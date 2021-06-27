@@ -1,1 +1,1 @@
-var mnemonic = "image auction item build way sad seek beyond fire comfort equip material";
+var mnemonic = "cause resist unhappy toward evil tower million follow drive luggage female text";

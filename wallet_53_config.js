@@ -1,1 +1,1 @@
-var mnemonic = "wait crystal easily end history pencil praise hope stove clay alcohol virtual";
+var mnemonic = "canyon add card guess garlic crumble sure affair layer since jewel baby";

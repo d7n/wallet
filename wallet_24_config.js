@@ -1,1 +1,1 @@
-var mnemonic = "cover alien sun shrug clown poverty normal velvet mutual fabric muffin rate";
+var mnemonic = "tumble gaze easy nephew decrease talk choice heart bicycle rhythm diagram upper";

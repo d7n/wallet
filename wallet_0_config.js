@@ -1,1 +1,1 @@
-var mnemonic = "miss together reject prefer pencil produce average delay attack remind aim speed";
+var mnemonic = "enough bus letter box sail blur purity truck exile pyramid broom route";

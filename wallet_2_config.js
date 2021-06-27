@@ -1,1 +1,1 @@
-var mnemonic = "remain hurt rival limit exile laundry alien track swing virtual winner peanut";
+var mnemonic = "wagon risk cave enemy truck they acquire route clown river wedding horror";

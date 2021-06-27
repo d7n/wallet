@@ -1,1 +1,1 @@
-var mnemonic = "today alcohol forward another quit web left sight this degree fish junk";
+var mnemonic = "cancel never blood clap asthma horn mesh throw post obey mistake keen";

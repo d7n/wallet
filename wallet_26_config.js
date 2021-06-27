@@ -1,1 +1,1 @@
-var mnemonic = "ramp artist move live cycle flower normal horse acquire merge volume valid";
+var mnemonic = "horn math regret job exclude rifle once section machine win process noble";

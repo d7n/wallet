@@ -1,1 +1,1 @@
-var mnemonic = "snap awkward salad between truly hamster regular candy tilt sauce disagree outdoor";
+var mnemonic = "mechanic fiscal nuclear range scene often atom edit arctic act invite divert";

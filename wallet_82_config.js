@@ -1,1 +1,1 @@
-var mnemonic = "lady medal fire lonely sheriff private finger zone silk canoe silly coffee";
+var mnemonic = "repeat common fitness rich torch put mystery chase inch congress often apology";

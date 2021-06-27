@@ -1,1 +1,1 @@
-var mnemonic = "alien furnace obey guard execute below chief logic hold cloud meat people";
+var mnemonic = "dream beyond caution wet gauge boil city draw trap sting say exercise";

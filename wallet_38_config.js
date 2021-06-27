@@ -1,1 +1,1 @@
-var mnemonic = "buddy eager update blouse protect consider reason opinion barrel huge plunge until";
+var mnemonic = "foil vacuum dwarf rescue praise ancient average already federal when what midnight";

@@ -1,1 +1,1 @@
-var mnemonic = "solar tiger trust impulse hospital maze captain clay issue gather vicious bread";
+var mnemonic = "nothing rely sad account topple major inject unit rice faint wagon myself";

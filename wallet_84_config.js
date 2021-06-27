@@ -1,1 +1,1 @@
-var mnemonic = "provide income yellow birth blossom decrease visual genuine place limb sense bomb";
+var mnemonic = "snake script enact height comic nasty often forum whip cart keep ordinary";

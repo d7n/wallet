@@ -1,1 +1,1 @@
-var mnemonic = "list ordinary enhance business detect dance comfort industry police donate bind prize";
+var mnemonic = "miracle wet cigar slush wall grow awful time pilot side sugar claim";

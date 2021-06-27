@@ -1,1 +1,1 @@
-var mnemonic = "holiday order supreme family uniform peasant essence print sphere dove mind spirit";
+var mnemonic = "fine before beef pond wage decrease payment parade space dial chuckle favorite";

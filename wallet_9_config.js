@@ -1,1 +1,1 @@
-var mnemonic = "excess type drive faith civil scorpion super art gadget gain aim music";
+var mnemonic = "speed breeze country liar code kit bottom arm stand guard size confirm";

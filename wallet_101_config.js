@@ -1,1 +1,1 @@
-var mnemonic = "shuffle friend when emotion genius palm kid decide silver myself salad hollow";
+var mnemonic = "siege improve employ alter top whip wash jazz lion robust gospel movie";

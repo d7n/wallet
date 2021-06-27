@@ -1,1 +1,1 @@
-var mnemonic = "vast body disagree door approve vacuum air gallery mobile pluck slow hair";
+var mnemonic = "try kite crystal concert hammer guitar arctic crunch post capital match capital";

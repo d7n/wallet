@@ -1,1 +1,1 @@
-var mnemonic = "grow erosion carry position vast faculty canal climb enforce organ section buzz";
+var mnemonic = "wash wreck olympic have humble item forget job verb mutual coffee wear";

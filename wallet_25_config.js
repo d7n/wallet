@@ -1,1 +1,1 @@
-var mnemonic = "note piece tattoo multiply vivid sentence step tissue rocket lawn style seat";
+var mnemonic = "north gravity issue famous sting weapon gift bottom empower stadium screen bring";

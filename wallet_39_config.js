@@ -1,1 +1,1 @@
-var mnemonic = "vicious chef film like craft tenant lawsuit reunion income shoulder hero mother";
+var mnemonic = "genuine poet dynamic aisle beef afford history gravity jar cupboard old sniff";

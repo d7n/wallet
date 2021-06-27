@@ -1,1 +1,1 @@
-var mnemonic = "laptop educate gauge wood seek brown toy skill purity payment marriage law";
+var mnemonic = "aspect evoke fit other trust fringe hard erosion cereal cricket hunt motion";

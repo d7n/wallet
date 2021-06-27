@@ -1,1 +1,1 @@
-var mnemonic = "trend doctor giraffe half sunset fence gaze involve rotate share pattern tornado";
+var mnemonic = "chicken vanish visual void praise harvest whip quick service borrow wrestle talent";

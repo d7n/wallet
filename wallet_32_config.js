@@ -1,1 +1,1 @@
-var mnemonic = "begin exotic work tell dress want combine violin seven walk vicious slab";
+var mnemonic = "era saddle lion blue review rapid pipe auto divert chapter secret weasel";

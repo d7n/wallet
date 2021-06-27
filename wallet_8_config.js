@@ -1,1 +1,1 @@
-var mnemonic = "drive they add focus siege skate salt lab scorpion food clever husband";
+var mnemonic = "file party disagree autumn among trend afford wear window dose van adult";

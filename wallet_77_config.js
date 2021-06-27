@@ -1,1 +1,1 @@
-var mnemonic = "police tattoo jar prosper nest bar group will galaxy egg employ common";
+var mnemonic = "build derive slow pipe angry earth right sketch phone symptom despair duty";

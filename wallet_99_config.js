@@ -1,1 +1,1 @@
-var mnemonic = "spell earn develop wave renew more junk cave gallery master rhythm fruit";
+var mnemonic = "market theme empty unique demand park sniff skate credit rough candy mountain";

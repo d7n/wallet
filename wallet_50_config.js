@@ -1,1 +1,1 @@
-var mnemonic = "plunge rifle hip cloud news gun all resist girl dinner supreme figure";
+var mnemonic = "flock ginger divorce mammal inquiry vital enough sound bag action tide action";

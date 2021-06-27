@@ -1,1 +1,1 @@
-var mnemonic = "avoid just state crash civil junior jungle resemble pudding print poet milk";
+var mnemonic = "twelve float detect snake industry pink enlist section warm avocado pepper club";

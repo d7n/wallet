@@ -1,1 +1,1 @@
-var mnemonic = "level mixed rabbit impact waste chalk nothing dune cream inject egg noble";
+var mnemonic = "hobby beauty punch reveal disagree seek dream pipe rice load beef banner";

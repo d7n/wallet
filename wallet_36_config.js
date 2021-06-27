@@ -1,1 +1,1 @@
-var mnemonic = "slight brass now federal tilt reward stomach gap chapter when tunnel deputy";
+var mnemonic = "viable palm smooth south coin cactus woman general quit hire wish wise";

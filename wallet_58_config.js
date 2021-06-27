@@ -1,1 +1,1 @@
-var mnemonic = "risk control obvious laptop rack define fine over marble double shoulder flash";
+var mnemonic = "robust window text syrup latin sea impulse perfect burger switch iron december";

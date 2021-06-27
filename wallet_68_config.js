@@ -1,1 +1,1 @@
-var mnemonic = "taxi reward rubber wrist usage toast coconut glove metal stable adapt swift";
+var mnemonic = "dolphin pepper imitate swamp update hole belt clip essence fiscal arrow cook";

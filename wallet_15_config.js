@@ -1,1 +1,1 @@
-var mnemonic = "flee exercise brother job defy joy diamond argue laptop effort turtle carpet";
+var mnemonic = "pole inherit destroy gown evoke grape image december acoustic sea marine route";

@@ -1,1 +1,1 @@
-var mnemonic = "chef crucial quiz cradle deputy grocery hood release key dish episode police";
+var mnemonic = "enroll busy race loan erode chronic space amazing thought flower above jewel";

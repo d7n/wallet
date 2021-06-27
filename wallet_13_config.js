@@ -1,1 +1,1 @@
-var mnemonic = "sock estate loud trust course cheese promote ready track attract rookie hat";
+var mnemonic = "mystery away chef file cousin salute flash stock display logic cross mosquito";

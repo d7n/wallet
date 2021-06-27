@@ -1,1 +1,1 @@
-var mnemonic = "scale beauty jungle praise fashion actor domain trophy focus scrap half grant";
+var mnemonic = "wrap tent thunder twice scale body hint alert bind remember spike own";
