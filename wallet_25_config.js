@@ -1,1 +1,1 @@
-var mnemonic = "fashion ranch aunt try effort joy dress bag tortoise squirrel effort predict";
+var mnemonic = "bubble image girl humor army minute pulp upon body gossip scare taxi";

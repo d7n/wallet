@@ -1,1 +1,1 @@
-var mnemonic = "ball december ring clock music smile great grab van journey stage cliff";
+var mnemonic = "child swap fever double path ritual age critic curious disagree mail gift";

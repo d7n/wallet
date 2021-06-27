@@ -1,1 +1,1 @@
-var mnemonic = "uphold seek ability voice broom kingdom undo scene need mandate amused quality";
+var mnemonic = "pudding never thank cereal expose typical film vendor exhibit left vague notice";

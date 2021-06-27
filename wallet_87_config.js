@@ -1,1 +1,1 @@
-var mnemonic = "denial beyond crime include climb dignity dawn kid coast breeze inform dove";
+var mnemonic = "magnet glare lion distance design season shell rookie average strike clay person";

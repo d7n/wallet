@@ -1,1 +1,1 @@
-var mnemonic = "usual space crystal foot pigeon wedding base crouch enact bacon exhaust vehicle";
+var mnemonic = "insane sword junior slight present oval bundle use fence horse short final";

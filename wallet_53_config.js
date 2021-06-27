@@ -1,1 +1,1 @@
-var mnemonic = "believe connect battle find boring fury again sponsor human jewel hunt apology";
+var mnemonic = "beef deposit what mystery curtain radio monster avoid raw art warrior copper";

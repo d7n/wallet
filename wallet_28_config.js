@@ -1,1 +1,1 @@
-var mnemonic = "cargo expose color spy rack nest mandate dry mansion diesel lobster coin";
+var mnemonic = "page master valley rate supreme hurt kangaroo sustain wall train warfare river";

@@ -1,1 +1,1 @@
-var mnemonic = "people mask young physical globe tribe myself liberty episode luxury worth muffin";
+var mnemonic = "black soup gentle dolphin almost brave bamboo salt give supreme convince shed";

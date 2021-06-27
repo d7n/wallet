@@ -1,1 +1,1 @@
-var mnemonic = "retire month image inside flee picnic clap net unique burger rather little";
+var mnemonic = "harvest renew hunt famous cereal snap oyster pull goddess need deputy tunnel";

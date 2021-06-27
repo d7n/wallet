@@ -1,1 +1,1 @@
-var mnemonic = "portion emerge axis drive crew length trash solve accident west blame cream";
+var mnemonic = "ice exclude library believe volcano car thank pepper oval urge safe predict";

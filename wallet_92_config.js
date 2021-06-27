@@ -1,1 +1,1 @@
-var mnemonic = "reward sausage fiscal prosper subway unfold elite area garbage put priority become";
+var mnemonic = "copy parent near sting green demand scale wife artist split solar edit";

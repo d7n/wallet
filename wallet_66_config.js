@@ -1,1 +1,1 @@
-var mnemonic = "please dial ready limit penalty talent walk slab traffic make pretty dwarf";
+var mnemonic = "hole swarm typical album today analyst nose way guess later slot pool";

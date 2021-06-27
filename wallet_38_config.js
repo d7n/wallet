@@ -1,1 +1,1 @@
-var mnemonic = "spring frost dawn pause impulse neglect coast wrap door jacket into vessel";
+var mnemonic = "wasp lady put cluster logic safe laptop ivory casino pull fossil soccer";

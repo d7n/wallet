@@ -1,1 +1,1 @@
-var mnemonic = "sentence two symbol cannon athlete exclude inspire sniff travel trigger arrest exotic";
+var mnemonic = "gate print industry disagree embody weekend milk pen lounge taste worry bag";

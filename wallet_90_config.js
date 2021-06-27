@@ -1,1 +1,1 @@
-var mnemonic = "task brain achieve catalog double saddle prosper rally frame hurry remind note";
+var mnemonic = "impact balance together solar dog random submit thrive gate example silly bread";

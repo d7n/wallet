@@ -1,1 +1,1 @@
-var mnemonic = "ghost song hero awful pepper plastic drink finger logic execute major escape";
+var mnemonic = "portion super bridge office card clip provide pilot few noble shell busy";

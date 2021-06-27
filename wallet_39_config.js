@@ -1,1 +1,1 @@
-var mnemonic = "asthma move voyage axis evil bag govern weird elegant mobile punch degree";
+var mnemonic = "equip faculty rule crunch warrior monster frame success survey choice alien bulk";

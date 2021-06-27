@@ -1,1 +1,1 @@
-var mnemonic = "dutch walnut burst observe taxi enable anger ski wool luggage pitch noble";
+var mnemonic = "reunion boring wide first census blossom capital open tribe mountain acquire rocket";

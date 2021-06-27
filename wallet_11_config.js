@@ -1,1 +1,1 @@
-var mnemonic = "prefer regular wood tag resemble first roast ranch shell great sausage current";
+var mnemonic = "cruel arm fiber lunch slim level mammal tissue deputy mouse lava save";

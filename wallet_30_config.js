@@ -1,1 +1,1 @@
-var mnemonic = "chief ask coconut miss aerobic bulb plate noise pill fence upgrade manual";
+var mnemonic = "huge horror tilt slender tent melody off rival glass canal desk unaware";

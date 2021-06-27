@@ -1,1 +1,1 @@
-var mnemonic = "library win add game garment nut chunk behave brass private call salad";
+var mnemonic = "slot energy blind echo excess ask bonus blast dawn cash company drama";

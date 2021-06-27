@@ -1,1 +1,1 @@
-var mnemonic = "human upgrade stamp bird slender mesh rapid comic there book shadow proud";
+var mnemonic = "day equal night raccoon royal cabbage hybrid fork candy vanish buffalo mammal";

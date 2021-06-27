@@ -1,1 +1,1 @@
-var mnemonic = "scatter soccer output mail edge own flight label wasp trophy family fix";
+var mnemonic = "jungle flat dust physical health crystal end spot success simple cotton eye";

@@ -1,1 +1,1 @@
-var mnemonic = "divorce surface glass minor ethics soup wonder able dignity car faculty output";
+var mnemonic = "auto lab gun cannon adjust hip pause manual common endorse hurt eye";

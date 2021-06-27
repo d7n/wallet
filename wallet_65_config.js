@@ -1,1 +1,1 @@
-var mnemonic = "undo emotion market eye squirrel cruise mind group lyrics clump isolate lucky";
+var mnemonic = "coconut bind two trim random another gentle stairs cream rather bike spell";

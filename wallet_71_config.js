@@ -1,1 +1,1 @@
-var mnemonic = "wrist echo violin loud match acid wagon retreat slice general dry pistol";
+var mnemonic = "sentence slim guilt hour effort sea gown smoke road rival opera speak";

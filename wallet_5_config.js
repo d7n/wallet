@@ -1,1 +1,1 @@
-var mnemonic = "wire leisure truck photo school proof note much amount skate case trial";
+var mnemonic = "bunker message kingdom pitch remind goddess excuse evil release mask perfect vote";

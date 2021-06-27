@@ -1,1 +1,1 @@
-var mnemonic = "blue envelope ocean oppose inflict lonely govern move spring object oak main";
+var mnemonic = "travel bulb admit agree wash paddle aware adjust scorpion tuition mimic jaguar";

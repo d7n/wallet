@@ -1,1 +1,1 @@
-var mnemonic = "inner reduce purse attack glass unhappy bread record innocent cable fitness beef";
+var mnemonic = "notice book photo rally roof master wing bag input off enter floor";

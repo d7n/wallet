@@ -1,1 +1,1 @@
-var mnemonic = "circle price strong service man liquid jealous maid found goose bread case";
+var mnemonic = "afford mobile estate notable dolphin obscure cricket adult antenna gallery thunder wolf";

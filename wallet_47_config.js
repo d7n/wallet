@@ -1,1 +1,1 @@
-var mnemonic = "access scissors upset scout upset promote above gap atom tower violin report";
+var mnemonic = "arrest file accuse bid uniform advice retreat artefact boost north absurd advice";

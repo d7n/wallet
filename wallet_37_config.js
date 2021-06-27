@@ -1,1 +1,1 @@
-var mnemonic = "sock amateur ice plate alter promote nation base tree drop early circle";
+var mnemonic = "ranch bronze clay mean oval chief bid early exact sense gesture valid";

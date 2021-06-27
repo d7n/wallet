@@ -1,1 +1,1 @@
-var mnemonic = "upset pluck direct ivory below business remind voice gauge shadow fault obscure";
+var mnemonic = "harvest peace useless like mother visa sausage sell web venture notable able";

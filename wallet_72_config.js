@@ -1,1 +1,1 @@
-var mnemonic = "grain craft bounce journey outdoor jump early hammer route empty breeze betray";
+var mnemonic = "supreme reopen laptop round present casual kiwi silver skull runway equal resource";

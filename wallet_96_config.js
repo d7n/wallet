@@ -1,1 +1,1 @@
-var mnemonic = "journey satoshi swear doll daring surround vital box alter concert crawl logic";
+var mnemonic = "divide impact bar advice crunch answer put avocado mad metal across horn";

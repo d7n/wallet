@@ -1,1 +1,1 @@
-var mnemonic = "turkey very dinner keen thought pig tide mixture stand plastic weasel employ";
+var mnemonic = "harbor else paper output crime jacket cousin trigger aim anchor off want";

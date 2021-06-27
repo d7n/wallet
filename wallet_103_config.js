@@ -1,1 +1,1 @@
-var mnemonic = "predict goose lock develop detail yellow you volcano distance result pact crouch";
+var mnemonic = "omit law deputy forget unusual void wise luxury panther raccoon blue crew";

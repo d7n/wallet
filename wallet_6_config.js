@@ -1,1 +1,1 @@
-var mnemonic = "current tunnel entry cave sweet feed blind between ethics another ignore bitter";
+var mnemonic = "number clock tree visual planet bottom prepare clay cook duty punch erode";

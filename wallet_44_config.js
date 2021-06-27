@@ -1,1 +1,1 @@
-var mnemonic = "defense rude rose bundle this ticket shaft uncover crush swear civil pipe";
+var mnemonic = "over maid wait prosper disorder road oven stable feature floor shrug main";

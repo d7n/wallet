@@ -1,1 +1,1 @@
-var mnemonic = "engine buffalo lunch base light horse clay odor venture inflict leisure wisdom";
+var mnemonic = "october corn ethics square fun wrist mercy salute pony vast stove owner";

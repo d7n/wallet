@@ -1,1 +1,1 @@
-var mnemonic = "begin short ethics later flight recycle strong unfair expand mistake notable order";
+var mnemonic = "defense false cook season pattern absurd record issue best whip enjoy plunge";

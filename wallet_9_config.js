@@ -1,1 +1,1 @@
-var mnemonic = "where appear client rival cross now window example shop merge foam measure";
+var mnemonic = "number script indicate exact agree deer rate media mountain beyond season unlock";

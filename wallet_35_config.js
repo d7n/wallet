@@ -1,1 +1,1 @@
-var mnemonic = "mix animal track process shield harvest husband gather stick thing blouse over";
+var mnemonic = "mansion govern wave february dust brick board wagon train gentle culture now";

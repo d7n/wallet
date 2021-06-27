@@ -1,1 +1,1 @@
-var mnemonic = "photo sphere gaze can lawn across attitude language snow siren repeat gentle";
+var mnemonic = "farm pink frozen oyster liar refuse urban quit dolphin thought vague ketchup";

@@ -1,1 +1,1 @@
-var mnemonic = "grunt coil vital easy thumb inspire exhaust border faculty sleep coconut depart";
+var mnemonic = "receive mail prosper jazz clip trick stock reopen bean lunch want lesson";

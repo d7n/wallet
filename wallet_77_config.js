@@ -1,1 +1,1 @@
-var mnemonic = "wool harsh vapor arctic industry large target network youth exotic park maple";
+var mnemonic = "candy behave never annual spike hip hockey useless depend this expose betray";

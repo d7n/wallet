@@ -1,1 +1,1 @@
-var mnemonic = "base eternal bitter burger thank skill crystal anchor organ wish know exit";
+var mnemonic = "impose since wild boring remind region charge curious width brief salute close";

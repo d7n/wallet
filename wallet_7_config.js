@@ -1,1 +1,1 @@
-var mnemonic = "perfect way ensure swear nation blouse noble render margin hub fly initial";
+var mnemonic = "cattle paddle satoshi forest poet state state lyrics borrow trick sketch speak";

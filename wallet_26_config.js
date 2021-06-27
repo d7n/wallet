@@ -1,1 +1,1 @@
-var mnemonic = "bitter broccoli hungry art train cat impose brick pumpkin sport valve patch";
+var mnemonic = "ski tuition ketchup task slab sign regret dinosaur unhappy crowd cover coffee";

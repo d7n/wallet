@@ -1,1 +1,1 @@
-var mnemonic = "dilemma still slice pudding tackle open sphere license ladder about breeze cross";
+var mnemonic = "wisdom cable bitter coyote picture spy market online cigar upper goose shift";

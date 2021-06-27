@@ -1,1 +1,1 @@
-var mnemonic = "able maximum tuition certain gaze repair large enough stairs neutral canal damp";
+var mnemonic = "region opera blur ostrich power oak athlete knee joke input slide idea";

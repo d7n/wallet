@@ -1,1 +1,1 @@
-var mnemonic = "now pretty defense term pipe later buddy elite sample festival cousin fluid";
+var mnemonic = "disorder pipe key salon edit cheese absurd whip grunt special basket birth";

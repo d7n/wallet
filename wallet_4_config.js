@@ -1,1 +1,1 @@
-var mnemonic = "north bomb tiger gloom hello smoke asset mechanic enforce envelope magic demand";
+var mnemonic = "excess shoe ball buyer month treat inform crunch fitness enable utility quality";

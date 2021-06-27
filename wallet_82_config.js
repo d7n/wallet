@@ -1,1 +1,1 @@
-var mnemonic = "talent grief shaft nurse biology tool cliff phone upgrade famous economy scheme";
+var mnemonic = "stand flag pave charge engage ready moment base destroy tower pony purchase";

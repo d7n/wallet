@@ -1,1 +1,1 @@
-var mnemonic = "estate close dash fall trend clay below embark only silk smart traffic";
+var mnemonic = "foster mobile reveal clutch extend shop elegant spice excuse metal devote solve";

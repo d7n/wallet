@@ -1,1 +1,1 @@
-var mnemonic = "taxi polar video eager flame tag document shrug when blouse replace shop";
+var mnemonic = "traffic mixed owner penalty breeze garlic law sock method hire switch clay";

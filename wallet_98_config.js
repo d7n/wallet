@@ -1,1 +1,1 @@
-var mnemonic = "tuition angle swift sword merit lumber glance mosquito response stumble evoke nose";
+var mnemonic = "olive valid during ring time detail stuff emerge fault master crazy tribe";

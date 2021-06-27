@@ -1,1 +1,1 @@
-var mnemonic = "muffin ribbon brand cable mad wasp index truly purpose blush teach range";
+var mnemonic = "salon kit worry three course summer trash elder credit few strategy market";

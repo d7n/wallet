@@ -1,1 +1,1 @@
-var mnemonic = "pupil gate hello disorder swim opera squeeze mammal half scout chimney gloom";
+var mnemonic = "unhappy put purpose attack audit moment merge shoe forum exile upper bullet";

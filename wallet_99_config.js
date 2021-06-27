@@ -1,1 +1,1 @@
-var mnemonic = "rib make install antique illegal insect worry olive rival butter surge desk";
+var mnemonic = "february spare foot fly tomorrow whip leg beauty couple fish wear update";

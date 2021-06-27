@@ -1,1 +1,1 @@
-var mnemonic = "library diamond smooth unable empower rude assault corn tourist glass entire kind";
+var mnemonic = "fall make bacon feature law unknown gaze steel edge dry train bring";

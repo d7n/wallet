@@ -1,1 +1,1 @@
-var mnemonic = "husband humble dilemma twenty exercise arctic vendor replace clip defense gown repair";
+var mnemonic = "million voyage concert damp usual grid timber inside fruit siege when frame";

@@ -1,1 +1,1 @@
-var mnemonic = "stable favorite insect rent roof night switch life meat talent pattern behind";
+var mnemonic = "mercy snow clog disagree whisper elegant nature body man desert deputy know";

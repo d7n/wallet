@@ -1,1 +1,1 @@
-var mnemonic = "sunset defense panel knee eight pony situate beyond express color among festival";
+var mnemonic = "barely pool resemble kiwi stairs sheriff subway replace foil initial sock bleak";

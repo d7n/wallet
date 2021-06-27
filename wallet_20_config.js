@@ -1,1 +1,1 @@
-var mnemonic = "reunion oil winter end clever ship target census employ time toilet napkin";
+var mnemonic = "syrup almost armed month weather autumn retreat wise ribbon obscure supply little";

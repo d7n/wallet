@@ -1,1 +1,1 @@
-var mnemonic = "arrow general program ghost heart finger salt radio spare output balance always";
+var mnemonic = "learn wrestle flock tenant nominee case tobacco gadget bonus thought any gap";

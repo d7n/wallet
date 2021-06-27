@@ -1,1 +1,1 @@
-var mnemonic = "misery pair improve biology answer endorse there october glove shoulder wise dirt";
+var mnemonic = "emerge garden wear equip fetch health grid carpet valley border crush people";

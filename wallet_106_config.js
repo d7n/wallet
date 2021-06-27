@@ -1,1 +1,1 @@
-var mnemonic = "wrap capital satoshi receive south push rug lyrics stable congress stem remain";
+var mnemonic = "find riot update van parade defy rural group tackle aunt wild weapon";

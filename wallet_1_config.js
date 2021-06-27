@@ -1,1 +1,1 @@
-var mnemonic = "custom pony horn prefer wise lobster organ grocery involve aspect urban crush";
+var mnemonic = "device zebra buddy mammal display notice code lunar crime garage sting edge";

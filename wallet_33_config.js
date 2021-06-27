@@ -1,1 +1,1 @@
-var mnemonic = "apple sunset range doctor error gadget inject book bleak pizza pair sword";
+var mnemonic = "invite possible aerobic bargain blood tone wedding column rhythm fade chalk clean";

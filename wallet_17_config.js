@@ -1,1 +1,1 @@
-var mnemonic = "bicycle anchor consider seminar shadow crawl web lazy suspect explain metal six";
+var mnemonic = "equip cup state minute behind call tragic brand toward scare trumpet tuna";

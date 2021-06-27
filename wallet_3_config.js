@@ -1,1 +1,1 @@
-var mnemonic = "siege try tone wish entire expand entry pluck scan crack patrol august";
+var mnemonic = "situate diamond hidden cradle situate tomato galaxy curtain curious sword bracket resist";

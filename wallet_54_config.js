@@ -1,1 +1,1 @@
-var mnemonic = "stable grow quote credit dinner start blanket wasp ranch imitate cup fat";
+var mnemonic = "bread spread fence cousin army tribe legal century flash bundle one aspect";

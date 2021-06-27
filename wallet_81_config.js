@@ -1,1 +1,1 @@
-var mnemonic = "chuckle ladder sting treat angle soup business elite orbit armed arrow hungry";
+var mnemonic = "detail receive gadget grace tuition voice season security crouch cloth drastic snap";

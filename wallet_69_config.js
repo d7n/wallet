@@ -1,1 +1,1 @@
-var mnemonic = "crew second baby pill erase casino same inside exile angry crane seed";
+var mnemonic = "maple kiwi tunnel rose deposit cushion walnut fancy water viable husband urge";

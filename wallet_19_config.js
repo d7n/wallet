@@ -1,1 +1,1 @@
-var mnemonic = "defense brick rural gossip vanish lumber tornado surprise enable final cushion brush";
+var mnemonic = "tissue sort magnet basic allow melody swim rude setup stool brain fit";

@@ -1,1 +1,1 @@
-var mnemonic = "hover garbage act endless gloom useful shiver render start canal service kitten";
+var mnemonic = "duty retreat surface engine travel grass metal wood alley swear member absurd";

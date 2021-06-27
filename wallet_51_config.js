@@ -1,1 +1,1 @@
-var mnemonic = "fiber recall custom rabbit people saddle lottery virus bulb ladder minor tribe";
+var mnemonic = "spirit where quantum bullet lottery truth witness aunt claw merit yellow teach";

@@ -1,1 +1,1 @@
-var mnemonic = "kid shy sample climb annual peasant claw flip nature post trust slim";
+var mnemonic = "flee choice must carbon wreck toast multiply tortoise sense acquire explain number";

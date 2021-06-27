@@ -1,1 +1,1 @@
-var mnemonic = "table spin shift spot fuel tourist cigar benefit envelope end ecology shy";
+var mnemonic = "blood tower raccoon wonder private funny thumb canvas fiction bargain lend elegant";

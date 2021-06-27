@@ -1,1 +1,1 @@
-var mnemonic = "deliver embrace shock vote aware early opinion bike rent plastic check tuition";
+var mnemonic = "average vault focus album cruise draw impact village utility tackle core sun";

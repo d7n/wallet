@@ -1,1 +1,1 @@
-var mnemonic = "owner chronic burden attack celery welcome bleak powder spin acoustic unhappy ridge";
+var mnemonic = "leave shadow silly combine shine round net metal asset page suspect federal";

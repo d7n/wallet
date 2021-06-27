@@ -1,1 +1,1 @@
-var mnemonic = "tank upon network sheriff naive suspect excess fatigue eagle chase kitten disease";
+var mnemonic = "depart casino nation chair pig type soldier noble lecture cage fiscal inform";

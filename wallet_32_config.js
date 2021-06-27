@@ -1,1 +1,1 @@
-var mnemonic = "inject main prefer bid ecology paper lab potato skill bitter quiz category";
+var mnemonic = "school upper blood force elevator describe describe pioneer calm problem measure purchase";

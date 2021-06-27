@@ -1,1 +1,1 @@
-var mnemonic = "faint wave attract seven bachelor soft exile text naive dinner coyote chase";
+var mnemonic = "shaft expose fault enrich rug champion photo helmet sand abuse used bean";
