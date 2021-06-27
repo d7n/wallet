@@ -1,1 +1,1 @@
-var mnemonic = "urge unable agree trick satoshi double elegant divert invite between guitar fatal";
+var mnemonic = "scan drop student abstract dirt sort furnace list envelope kingdom air wheel";

@@ -1,1 +1,1 @@
-var mnemonic = "argue monitor tide valid shiver rebuild distance hub panda favorite once trigger";
+var mnemonic = "transfer cruel ecology rug buddy novel index pause helmet wood cactus dilemma";

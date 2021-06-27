@@ -1,1 +1,1 @@
-var mnemonic = "into column spirit flock adapt gain joy admit column nose drip hire";
+var mnemonic = "october cloud bomb track wagon force fashion capital borrow rent depart olympic";

@@ -1,1 +1,1 @@
-var mnemonic = "cotton cluster heart grid sentence fatal fiscal keen snap pelican provide artefact";
+var mnemonic = "office random crane excess father escape scorpion angle prefer orient embark capable";

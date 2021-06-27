@@ -1,1 +1,1 @@
-var mnemonic = "walk rain relax fiction law ecology quantum stove mandate kid monitor enemy";
+var mnemonic = "monitor pill muscle wonder rescue anger tooth change wagon elbow memory pledge";

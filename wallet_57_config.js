@@ -1,1 +1,1 @@
-var mnemonic = "bind crazy wasp blood frequent hip path naive volcano protect holiday bus";
+var mnemonic = "cage major wreck chicken ginger must find mystery skate ghost length pull";

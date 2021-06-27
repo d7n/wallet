@@ -1,1 +1,1 @@
-var mnemonic = "shadow total ghost volcano grass squeeze fever cream link shine cruise involve";
+var mnemonic = "hawk angry seek follow pause injury range nut bronze ostrich error reopen";

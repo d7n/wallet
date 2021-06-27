@@ -1,1 +1,1 @@
-var mnemonic = "opera father goose virus pass eyebrow pave renew embrace absent step number";
+var mnemonic = "weekend floor invest fee soldier bachelor glove narrow deposit setup vapor giant";

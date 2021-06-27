@@ -1,1 +1,1 @@
-var mnemonic = "wash express twice couple actual fringe ethics casual firm pioneer identify left";
+var mnemonic = "apple black fine rhythm elite absurd swift pigeon magic treat account certain";

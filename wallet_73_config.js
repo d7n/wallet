@@ -1,1 +1,1 @@
-var mnemonic = "mixed typical invest multiply toilet shy valley lobster rival achieve slam jump";
+var mnemonic = "crater panda entry strong swamp junk seat upper century health hungry beyond";

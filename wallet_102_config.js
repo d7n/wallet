@@ -1,1 +1,1 @@
-var mnemonic = "help ritual stick hard size pet junior treat expect hazard infant thrive";
+var mnemonic = "very crucial cube enrich limb mouse indicate knee evoke rescue claw bargain";

@@ -1,1 +1,1 @@
-var mnemonic = "grief spirit tower neither ankle unlock veteran know total draw ring veteran";
+var mnemonic = "mask sugar earth naive that belt puzzle eight toe tennis enrich snow";

@@ -1,1 +1,1 @@
-var mnemonic = "speak panther corn speed frozen wool north twenty initial caught crunch asthma";
+var mnemonic = "tent history bless mercy strike order brave focus essence angle analyst matter";

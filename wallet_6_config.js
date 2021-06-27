@@ -1,1 +1,1 @@
-var mnemonic = "cruel palace rival citizen foster enhance loud home easily chief law neither";
+var mnemonic = "copper front exist pull hip speak that lock year hazard search leopard";

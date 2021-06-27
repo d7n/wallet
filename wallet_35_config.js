@@ -1,1 +1,1 @@
-var mnemonic = "nothing actress twist depart stadium fruit lab assault arrange element page burst";
+var mnemonic = "valid leaf imitate boat hint horn huge phone reform taxi trap priority";

@@ -1,1 +1,1 @@
-var mnemonic = "club smooth disagree tree coffee phone alarm canyon image cook thumb supply";
+var mnemonic = "have jealous ask place smoke doll result yard vital hotel alcohol van";

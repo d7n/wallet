@@ -1,1 +1,1 @@
-var mnemonic = "call autumn pig corn garage ketchup lawn echo animal silver trap life";
+var mnemonic = "turkey seven ski burst trip imitate fly chaos response donate lesson carpet";

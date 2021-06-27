@@ -1,1 +1,1 @@
-var mnemonic = "sorry dynamic there outer replace inch ordinary snake depart helmet recall float";
+var mnemonic = "excite repeat demand swing film link include royal unaware buyer pull velvet";

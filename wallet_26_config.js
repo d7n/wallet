@@ -1,1 +1,1 @@
-var mnemonic = "crush rail world execute parent alley cinnamon quantum useful uniform where exile";
+var mnemonic = "diet avocado kingdom orient someone month forget letter impulse disease dish indicate";

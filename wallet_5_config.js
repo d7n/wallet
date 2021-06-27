@@ -1,1 +1,1 @@
-var mnemonic = "stereo expose burden educate endorse hat myself current siren pass mushroom omit";
+var mnemonic = "zebra during veteran will coral bachelor orient arrange dose idea humble text";

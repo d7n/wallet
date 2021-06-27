@@ -1,1 +1,1 @@
-var mnemonic = "close divorce nest double toast pass screen police element aisle lake orbit";
+var mnemonic = "material woman able pause company wage amateur resist system skirt tomorrow case";

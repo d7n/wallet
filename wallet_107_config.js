@@ -1,1 +1,1 @@
-var mnemonic = "afford coffee recipe inhale anchor truck aim razor biology lift angry ivory";
+var mnemonic = "cheese theme chief soft list trouble skin ginger train uphold fury thank";

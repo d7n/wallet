@@ -1,1 +1,1 @@
-var mnemonic = "funny sport strike junior media music cluster tennis food audit wage intact";
+var mnemonic = "harbor pony air best layer message garbage release such into acquire decrease";

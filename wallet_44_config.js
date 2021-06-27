@@ -1,1 +1,1 @@
-var mnemonic = "reason wood bread light behave noodle balcony abuse once pigeon cover border";
+var mnemonic = "cook hire scissors crisp profit kangaroo slam grace route door sunny bitter";

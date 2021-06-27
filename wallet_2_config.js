@@ -1,1 +1,1 @@
-var mnemonic = "weird wire coin deal uphold depart park isolate hand sword online skill";
+var mnemonic = "bleak kingdom kitten yard month increase famous spin jelly jump risk excuse";

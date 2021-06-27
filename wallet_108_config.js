@@ -1,1 +1,1 @@
-var mnemonic = "grid wreck correct claim minimum mule figure soda property party gate confirm";
+var mnemonic = "wish pony world effort cement spawn winter road hollow private color avocado";

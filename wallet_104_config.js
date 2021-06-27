@@ -1,1 +1,1 @@
-var mnemonic = "glance hello goose pond robust pitch garage border enemy limb six stock";
+var mnemonic = "fiscal joke baby faint unknown solid oyster museum begin enhance mean fame";

@@ -1,1 +1,1 @@
-var mnemonic = "type dish hidden pave same hole patch congress next donkey because inspire";
+var mnemonic = "summer party account term arrest because build federal idle else shift rain";

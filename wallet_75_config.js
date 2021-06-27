@@ -1,1 +1,1 @@
-var mnemonic = "capital gossip bracket dinosaur carry cruise retreat laundry fiber fruit segment soccer";
+var mnemonic = "sea endless dry urban attend style risk mixture frost egg burger book";

@@ -1,1 +1,1 @@
-var mnemonic = "typical ozone used clarify pluck biology youth biology dog bracket badge oxygen";
+var mnemonic = "divorce crunch cabin banana cram atom step flag jelly you engine prepare";

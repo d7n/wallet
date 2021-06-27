@@ -1,1 +1,1 @@
-var mnemonic = "dismiss exhaust employ glove still blouse exile distance gap captain desert lobster";
+var mnemonic = "total treat math tooth pulse tiger immense december glance wide again weapon";

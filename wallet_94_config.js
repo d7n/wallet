@@ -1,1 +1,1 @@
-var mnemonic = "various grace company matrix mesh reward favorite absorb rubber unable cross flat";
+var mnemonic = "sell timber rocket trend armor table grab glove step talk carpet file";

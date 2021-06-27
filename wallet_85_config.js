@@ -1,1 +1,1 @@
-var mnemonic = "bind vicious rubber federal critic nation replace library enroll canal join stone";
+var mnemonic = "sentence impulse toddler mixed wide engage tiny soup gorilla rigid cushion brown";

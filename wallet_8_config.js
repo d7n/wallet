@@ -1,1 +1,1 @@
-var mnemonic = "pulp portion demise cat round island tribe jacket daughter smooth reunion corn";
+var mnemonic = "decide team sign pioneer exhaust harsh scrub usual submit cry equal glance";

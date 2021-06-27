@@ -1,1 +1,1 @@
-var mnemonic = "fashion enemy magic rabbit age present shy crane protect little bacon clip";
+var mnemonic = "soul network squeeze more punch family already soldier raccoon capital eye demand";

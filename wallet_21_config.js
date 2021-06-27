@@ -1,1 +1,1 @@
-var mnemonic = "lesson promote stomach shrimp void bike disagree tuition ranch lock cotton beef";
+var mnemonic = "silly robot buffalo reform extra when leader galaxy tell luxury idle valid";

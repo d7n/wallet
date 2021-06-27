@@ -1,1 +1,1 @@
-var mnemonic = "hat artwork unhappy laugh wreck reveal frame drink provide replace help panther";
+var mnemonic = "display raven vague coach script nut skin bounce debate jelly eye muffin";

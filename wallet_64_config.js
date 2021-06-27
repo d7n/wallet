@@ -1,1 +1,1 @@
-var mnemonic = "crazy cream frost robot danger gate paddle win random report notable become";
+var mnemonic = "focus wisdom normal universe engine hotel elder grid sweet vicious crack anchor";

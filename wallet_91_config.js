@@ -1,1 +1,1 @@
-var mnemonic = "tenant regular beef library dizzy valve mom drama tired car alley pear";
+var mnemonic = "chef amateur nut display busy jacket equal mention episode sudden crazy ecology";

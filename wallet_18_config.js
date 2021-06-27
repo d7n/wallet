@@ -1,1 +1,1 @@
-var mnemonic = "reward canyon flee volume outdoor dish ice resist frog pelican barrel point";
+var mnemonic = "post pond process jewel couch punch artist seven flat ridge sweet upgrade";

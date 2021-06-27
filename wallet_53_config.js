@@ -1,1 +1,1 @@
-var mnemonic = "measure avoid column rain aunt width wrong modify add design buddy degree";
+var mnemonic = "debris patrol divide cart accuse grass shoulder talent doctor initial atom rude";

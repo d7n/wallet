@@ -1,1 +1,1 @@
-var mnemonic = "manage behave near beef cream soon identify sound fly object cake skin";
+var mnemonic = "merge fury faint brick drink turtle inform spread ugly ignore latin piece";

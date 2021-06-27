@@ -1,1 +1,1 @@
-var mnemonic = "wise cancel inquiry erase apple panic extend wine kangaroo trade master throw";
+var mnemonic = "repeat wide better stool weird coach salmon another example decorate sudden month";

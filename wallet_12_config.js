@@ -1,1 +1,1 @@
-var mnemonic = "pyramid else inflict obtain tuition foster mandate wonder one heavy depth potato";
+var mnemonic = "often spare label bleak pitch deposit devote congress captain claim ensure firm";

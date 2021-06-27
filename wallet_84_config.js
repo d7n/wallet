@@ -1,1 +1,1 @@
-var mnemonic = "delay lonely sing monitor kingdom winner pony carpet flash fluid armor lend";
+var mnemonic = "genius world blade sing morning merge virus gospel bachelor chef moon bind";

@@ -1,1 +1,1 @@
-var mnemonic = "winter guide market social chef gloom near flee domain hat borrow muscle";
+var mnemonic = "vintage charge slam magic motor glass spot unlock still tragic license predict";

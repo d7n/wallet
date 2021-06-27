@@ -1,1 +1,1 @@
-var mnemonic = "surprise describe immune multiply scene exist rude march tattoo gain travel say";
+var mnemonic = "april foster joy olive foam canvas armor ramp option noble inch drive";

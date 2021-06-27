@@ -1,1 +1,1 @@
-var mnemonic = "tilt tobacco patch trick idea seat save train famous direct divide plastic";
+var mnemonic = "monitor style soft either multiply coconut tunnel balance toast salute ghost guide";

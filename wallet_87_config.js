@@ -1,1 +1,1 @@
-var mnemonic = "cart again armed version dignity purity cube market armor smart rifle sock";
+var mnemonic = "often mass valve holiday pioneer index burst sun voyage tree much drama";

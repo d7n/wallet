@@ -1,1 +1,1 @@
-var mnemonic = "coin radio wine then old whale protect stereo intact february special weird";
+var mnemonic = "spawn guess tail gift riot conduct board actor human virtual glow awake";

@@ -1,1 +1,1 @@
-var mnemonic = "place genre typical mouse twelve near cash update green egg current chat";
+var mnemonic = "visit burden beach burst reopen animal explain usage dignity charge marine capital";

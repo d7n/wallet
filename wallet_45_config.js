@@ -1,1 +1,1 @@
-var mnemonic = "right badge riot final green patch lion motion process hungry double student";
+var mnemonic = "noise seek ugly leader potato gentle happy habit siege wrong sketch diagram";

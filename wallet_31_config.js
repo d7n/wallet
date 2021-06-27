@@ -1,1 +1,1 @@
-var mnemonic = "lift private rebuild chimney heavy enjoy deposit curtain length skull expand make";
+var mnemonic = "betray elite plunge favorite raven utility damage fantasy entire six spray ozone";

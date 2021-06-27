@@ -1,1 +1,1 @@
-var mnemonic = "voice fuel cinnamon angry observe rib valley minute burst sentence talent phrase";
+var mnemonic = "label boat theory inhale open crop base secret expire hurdle bicycle whale";

@@ -1,1 +1,1 @@
-var mnemonic = "trick clarify post armed execute board reject fine change devote fluid annual";
+var mnemonic = "suffer collect magnet candy auto dolphin local giraffe there gift jump bacon";

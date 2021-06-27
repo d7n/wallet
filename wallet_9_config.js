@@ -1,1 +1,1 @@
-var mnemonic = "twist skull despair keen dismiss hurry general art tackle breeze cool anxiety";
+var mnemonic = "journey next rigid produce lesson tube one leaf doll wrong among about";

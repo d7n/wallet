@@ -1,1 +1,1 @@
-var mnemonic = "ostrich dress pass used anxiety impose trade exhaust clutch cave giraffe casual";
+var mnemonic = "spin garden crowd host alone badge powder scan park desert addict void";

@@ -1,1 +1,1 @@
-var mnemonic = "curious print hero age first wasp diary replace demand intact nurse visit";
+var mnemonic = "nuclear sorry trim client cherry monster differ snow video effort violin father";

@@ -1,1 +1,1 @@
-var mnemonic = "swamp rough exercise they blue cigar electric bread waste awake swamp december";
+var mnemonic = "rifle comfort hill matrix chase scheme kind mercy voyage buddy alter original";

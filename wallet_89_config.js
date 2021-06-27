@@ -1,1 +1,1 @@
-var mnemonic = "today slide pride wash hello flame myth grief door face broom reward";
+var mnemonic = "garbage design icon scorpion margin gym element jewel project pear supreme judge";

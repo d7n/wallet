@@ -1,1 +1,1 @@
-var mnemonic = "tone pledge monkey tuna elevator basket involve fiber mansion excess dutch awake";
+var mnemonic = "cousin mom humor stand crater surround example space traffic napkin ankle chair";

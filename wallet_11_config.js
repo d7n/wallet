@@ -1,1 +1,1 @@
-var mnemonic = "future toe salt table reflect mimic insane chief cost decrease bind inflict";
+var mnemonic = "element cover shock mandate expose shiver tell mouse awesome illegal prize exotic";

@@ -1,1 +1,1 @@
-var mnemonic = "juice worry melt dolphin tube derive speed portion find lock hedgehog kit";
+var mnemonic = "kind popular nation jeans neutral expect wild digital cover cluster stamp measure";

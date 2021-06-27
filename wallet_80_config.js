@@ -1,1 +1,1 @@
-var mnemonic = "pass still syrup search nurse tenant mother truth absurd vibrant swift valid";
+var mnemonic = "fury glue oil scorpion either kitchen drift gun castle scissors pool across";

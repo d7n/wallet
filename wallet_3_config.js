@@ -1,1 +1,1 @@
-var mnemonic = "park palm reopen belt path reason exhibit symptom lawn bundle zebra update";
+var mnemonic = "space glue medal ring amazing often frost cliff choose palm parent weather";

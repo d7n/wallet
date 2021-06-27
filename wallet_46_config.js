@@ -1,1 +1,1 @@
-var mnemonic = "frown include welcome basic heart switch supply holiday effort into loud rural";
+var mnemonic = "expire canoe volume zone above approve waste tower noise humor assist tonight";

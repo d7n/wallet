@@ -1,1 +1,1 @@
-var mnemonic = "yard kiss pass squirrel leader escape autumn cereal balcony learn feature humble";
+var mnemonic = "penalty race debris key burger ghost mix appear order few plunge acid";

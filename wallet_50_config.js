@@ -1,1 +1,1 @@
-var mnemonic = "invest olympic hat height swallow shine aware balcony fatal aware entire belt";
+var mnemonic = "flower cactus tumble gorilla arch wedding ring kit pattern welcome humble bridge";

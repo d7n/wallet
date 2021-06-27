@@ -1,1 +1,1 @@
-var mnemonic = "pigeon brick old clarify crime panda shoot warrior toast call turtle twice";
+var mnemonic = "empower melt fruit supreme vital prize common labor people fall tag canvas";

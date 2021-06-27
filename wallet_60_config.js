@@ -1,1 +1,1 @@
-var mnemonic = "absurd spatial proof infant smooth fan bike hidden social occur upgrade toddler";
+var mnemonic = "rent lottery social interest student squeeze frog inform stage use wet rug";

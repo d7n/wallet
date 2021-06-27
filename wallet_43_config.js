@@ -1,1 +1,1 @@
-var mnemonic = "either cube alcohol second spread shop rapid parade plastic space veteran subway";
+var mnemonic = "female craft logic office acid fall essence atom survey wide media body";

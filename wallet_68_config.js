@@ -1,1 +1,1 @@
-var mnemonic = "grocery defense salute vibrant sand riot rib keep cabin teach pride capital";
+var mnemonic = "beach myself brass motor help expect night laptop mule comic quick monkey";

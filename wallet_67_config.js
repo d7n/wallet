@@ -1,1 +1,1 @@
-var mnemonic = "chase badge depart chicken maple blind explain usual display lens sport quality";
+var mnemonic = "initial tragic thank film strong local trust refuse lyrics one focus blue";

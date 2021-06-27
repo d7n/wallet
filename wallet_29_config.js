@@ -1,1 +1,1 @@
-var mnemonic = "aunt obey lens autumn focus broken verb meadow betray dismiss letter provide";
+var mnemonic = "marine wedding clean still nation stumble polar piano breeze alley fox spy";

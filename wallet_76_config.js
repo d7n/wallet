@@ -1,1 +1,1 @@
-var mnemonic = "cry army swamp sort spoon shrimp find gallery toward pony glance spawn";
+var mnemonic = "miss will drink error neither toward machine gun valid snap screen turkey";

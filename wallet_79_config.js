@@ -1,1 +1,1 @@
-var mnemonic = "garage island bridge limb suit extend install gravity beef two income recipe";
+var mnemonic = "process biology primary loud there top test appear stool swarm illness shell";

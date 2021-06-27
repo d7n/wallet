@@ -1,1 +1,1 @@
-var mnemonic = "slush popular engine hockey sudden leave destroy chalk hotel affair taxi endless";
+var mnemonic = "farm book dismiss forum hurdle length comfort false weekend lens tag metal";

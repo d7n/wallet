@@ -1,1 +1,1 @@
-var mnemonic = "gather dilemma tenant nerve citizen paper voice chair impose material spoon tip";
+var mnemonic = "ensure remember almost frame traffic error salt sound bitter medal fame brown";

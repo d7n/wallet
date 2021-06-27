@@ -1,1 +1,1 @@
-var mnemonic = "drastic actor doll small tuna head fantasy local fly cattle inherit impulse";
+var mnemonic = "casino another genre magnet blast pause bracket ball author advance obscure pill";

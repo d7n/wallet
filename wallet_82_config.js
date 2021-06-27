@@ -1,1 +1,1 @@
-var mnemonic = "resemble man about banana wild scale garage diary age text curious aerobic";
+var mnemonic = "next february grunt rice ancient print valve allow they setup memory fly";

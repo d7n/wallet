@@ -1,1 +1,1 @@
-var mnemonic = "segment live predict squirrel mind until wash alcohol merge proud journey review";
+var mnemonic = "brand cancel vendor absorb reflect resemble opinion opinion step estate machine caution";

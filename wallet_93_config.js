@@ -1,1 +1,1 @@
-var mnemonic = "ice hub music badge track desk math dwarf immune quick core dignity";
+var mnemonic = "helmet improve symbol setup finish visa measure scan pair foil bag weekend";

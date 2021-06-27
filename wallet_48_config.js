@@ -1,1 +1,1 @@
-var mnemonic = "buffalo enemy few garden nut fix mean join voice exclude flee remind";
+var mnemonic = "erode egg trap cost degree merit motion slogan faint recycle cricket topic";

@@ -1,1 +1,1 @@
-var mnemonic = "flame certain smart problem carpet gadget pond pass scrub hover range public";
+var mnemonic = "danger twist false stamp author nephew what ginger random gallery science knee";

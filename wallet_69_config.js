@@ -1,1 +1,1 @@
-var mnemonic = "unit ill menu kitten rice cost depend wave spatial hole vivid stereo";
+var mnemonic = "tragic cool correct inside intact become sick describe volume involve boss lion";

@@ -1,1 +1,1 @@
-var mnemonic = "antenna exact thank autumn culture visa grape error bamboo unusual hold patch";
+var mnemonic = "congress general great smoke brush census arrest claw alone earth arrow tragic";

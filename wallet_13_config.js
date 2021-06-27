@@ -1,1 +1,1 @@
-var mnemonic = "chair table client nerve flash when addict balance senior fitness rhythm cousin";
+var mnemonic = "craft utility scene birth congress what gown medal strike wolf royal tattoo";

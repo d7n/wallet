@@ -1,1 +1,1 @@
-var mnemonic = "obey bone trick cradle country cannon legend review soccer gloom express camera";
+var mnemonic = "above inform danger round memory tired grass fun review virus thing cruise";

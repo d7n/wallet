@@ -1,1 +1,1 @@
-var mnemonic = "tool until job imitate night gasp antenna cabin rare hint arrest luxury";
+var mnemonic = "half another foster rule clever exhibit distance deputy repeat wait artefact other";

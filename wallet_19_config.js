@@ -1,1 +1,1 @@
-var mnemonic = "gun system sand never torch lab target surge repair birth tiny lazy";
+var mnemonic = "offer festival giggle you dutch tourist slight glance slam divert drop carpet";

@@ -1,1 +1,1 @@
-var mnemonic = "radar cement planet oxygen square crush word hill find poem curve sound";
+var mnemonic = "lounge steel cream goose squirrel canyon tiger cause immune odor wrist liar";
