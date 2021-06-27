@@ -1,1 +1,1 @@
-var mnemonic = "cancel fever text winner arrive hero shaft monster wonder defense valley narrow";
+var mnemonic = "tribe market delay jungle devote same parrot ozone fragile borrow hawk crisp";

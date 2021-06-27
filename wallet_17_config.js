@@ -1,1 +1,1 @@
-var mnemonic = "usage hurry business program exchange fitness pottery harbor expect winner awake country";
+var mnemonic = "orphan home wolf recall mandate include world audit zebra shoot meat glare";

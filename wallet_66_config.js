@@ -1,1 +1,1 @@
-var mnemonic = "cluster night result genuine flip ivory shield bamboo snap injury trip leaf";
+var mnemonic = "kidney camp game island solution damp decline give equip dizzy brave suggest";

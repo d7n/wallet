@@ -1,1 +1,1 @@
-var mnemonic = "news exchange goddess treat chimney alert tomato knife peanut favorite shoulder borrow";
+var mnemonic = "solar tiger trust impulse hospital maze captain clay issue gather vicious bread";

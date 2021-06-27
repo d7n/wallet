@@ -1,1 +1,1 @@
-var mnemonic = "merry girl act spray depth trial course salmon artwork cash trim poverty";
+var mnemonic = "risk control obvious laptop rack define fine over marble double shoulder flash";

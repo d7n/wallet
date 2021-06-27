@@ -1,1 +1,1 @@
-var mnemonic = "silent chicken key elder confirm hundred satoshi sell length tiny embody carpet";
+var mnemonic = "draw episode sort chronic window supply catch focus viable meat stand mixture";

@@ -1,1 +1,1 @@
-var mnemonic = "novel elbow there tool nation flavor possible tone snap tackle key romance";
+var mnemonic = "grow erosion carry position vast faculty canal climb enforce organ section buzz";

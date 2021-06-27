@@ -1,1 +1,1 @@
-var mnemonic = "already city ignore calm bag doll swim custom depend lazy despair bus";
+var mnemonic = "address better service gallery tomato amused arch dutch thrive cushion lamp gaze";

@@ -1,1 +1,1 @@
-var mnemonic = "athlete gesture tortoise harbor another stone whisper aunt ball space chest cushion";
+var mnemonic = "plug grow debris boil shed during drip once execute ensure math spirit";

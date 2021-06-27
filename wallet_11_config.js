@@ -1,1 +1,1 @@
-var mnemonic = "page oak rabbit clutch wisdom drip stumble quote legal remember cube tonight";
+var mnemonic = "today alcohol forward another quit web left sight this degree fish junk";

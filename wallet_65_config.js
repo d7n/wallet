@@ -1,1 +1,1 @@
-var mnemonic = "flee long wish club head worth skull robust cart dwarf tortoise expose";
+var mnemonic = "sure real render empower maple become throw feed pause ladder eye broccoli";

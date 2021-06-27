@@ -1,1 +1,1 @@
-var mnemonic = "kind desert earth ring caution female tank oyster token metal impose lamp";
+var mnemonic = "fatal hunt glass kiwi trigger mercy summer found organ lesson online jewel";

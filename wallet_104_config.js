@@ -1,1 +1,1 @@
-var mnemonic = "adjust husband little eager buddy clown ceiling spread license brush auto fat";
+var mnemonic = "aunt pelican eight dragon anger sniff rural birth winner digital belt daughter";

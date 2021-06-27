@@ -1,1 +1,1 @@
-var mnemonic = "magnet spare observe cage original carry relax around exercise insane taxi prison";
+var mnemonic = "little sausage view polar pole budget measure orchard scale music tower sample";

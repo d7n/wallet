@@ -1,1 +1,1 @@
-var mnemonic = "account virtual wink lunar sign snap honey wrestle ill pistol garment boat";
+var mnemonic = "captain cradle force blush position gallery drum lawsuit apology track midnight net";

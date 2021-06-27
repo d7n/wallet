@@ -1,1 +1,1 @@
-var mnemonic = "cycle gentle order banana swap child garlic vehicle assault adapt hero state";
+var mnemonic = "drive they add focus siege skate salt lab scorpion food clever husband";

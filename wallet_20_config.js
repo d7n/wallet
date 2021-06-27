@@ -1,1 +1,1 @@
-var mnemonic = "trade gap quarter antenna loud final mix phone swarm evil display animal";
+var mnemonic = "list ordinary enhance business detect dance comfort industry police donate bind prize";

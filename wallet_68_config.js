@@ -1,1 +1,1 @@
-var mnemonic = "middle train distance situate found earth special advice bench alarm help spoil";
+var mnemonic = "taxi reward rubber wrist usage toast coconut glove metal stable adapt swift";

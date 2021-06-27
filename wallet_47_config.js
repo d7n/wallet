@@ -1,1 +1,1 @@
-var mnemonic = "cube world coffee senior wild acid arctic custom tell cactus stadium van";
+var mnemonic = "east census orchard whisper exile avoid pigeon glare same elite silver coil";

@@ -1,1 +1,1 @@
-var mnemonic = "blame exhibit isolate tag tourist cannon pitch can vanish grape easily ugly";
+var mnemonic = "gauge laptop asset depend sugar work entry defy orphan boss chief bundle";

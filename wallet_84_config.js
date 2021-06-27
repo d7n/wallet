@@ -1,1 +1,1 @@
-var mnemonic = "market heavy always twice asset wide admit equip obtain twin galaxy aunt";
+var mnemonic = "provide income yellow birth blossom decrease visual genuine place limb sense bomb";

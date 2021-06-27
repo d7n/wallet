@@ -1,1 +1,1 @@
-var mnemonic = "swim guard little arctic drift theory around eye kick almost carry human";
+var mnemonic = "demise sun fetch mail rose course custom pottery settle vicious smoke wrestle";

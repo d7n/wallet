@@ -1,1 +1,1 @@
-var mnemonic = "width between marriage dose mango hotel dream foot earn area because tragic";
+var mnemonic = "delay minimum gym swear hazard husband during depend behave reject quiz stem";

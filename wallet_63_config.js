@@ -1,1 +1,1 @@
-var mnemonic = "hat solar slab rhythm coil unusual bonus decade era hard nothing blur";
+var mnemonic = "north bomb analyst circle ivory assist success small resist water cheap include";

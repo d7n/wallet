@@ -1,1 +1,1 @@
-var mnemonic = "bus lumber portion produce tuna lunch live aware busy knife enough earn";
+var mnemonic = "scale beauty jungle praise fashion actor domain trophy focus scrap half grant";

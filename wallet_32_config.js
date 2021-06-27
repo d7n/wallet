@@ -1,1 +1,1 @@
-var mnemonic = "shell source avocado wash phrase garment tomorrow proof cabin bind swear either";
+var mnemonic = "begin exotic work tell dress want combine violin seven walk vicious slab";

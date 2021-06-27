@@ -1,1 +1,1 @@
-var mnemonic = "radar height tonight cabin expand salmon dirt term script glimpse smoke correct";
+var mnemonic = "guitar autumn dilemma elevator goddess phone convince buyer opera left acid tree";

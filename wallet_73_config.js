@@ -1,1 +1,1 @@
-var mnemonic = "adapt wife vital spoil toilet pill magic exclude quote mansion scrap give";
+var mnemonic = "image auction item build way sad seek beyond fire comfort equip material";

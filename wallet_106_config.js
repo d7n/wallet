@@ -1,1 +1,1 @@
-var mnemonic = "limb need exact harvest else fly system tomato addict peace search salmon";
+var mnemonic = "exchange mango mass coffee fury hat assist news suggest dilemma phone visa";

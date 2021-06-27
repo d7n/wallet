@@ -1,1 +1,1 @@
-var mnemonic = "post minimum unlock forget meadow category rally day coral later pumpkin hospital";
+var mnemonic = "clarify gas flash scissors effort biology crush cause elder maid puppy kite";

@@ -1,1 +1,1 @@
-var mnemonic = "enact lab patient detect join attract lemon divorce crystal jealous lawsuit light";
+var mnemonic = "push multiply april palm verb scan garbage supply snack original letter turn";

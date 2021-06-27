@@ -1,1 +1,1 @@
-var mnemonic = "unhappy remove state front across purpose frost cigar expect random drip ecology";
+var mnemonic = "injury liar recipe frog walnut destroy cake olympic actor milk price desert";

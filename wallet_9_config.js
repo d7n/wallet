@@ -1,1 +1,1 @@
-var mnemonic = "tag wool captain wool reward equip guard away scatter sauce screen dirt";
+var mnemonic = "excess type drive faith civil scorpion super art gadget gain aim music";

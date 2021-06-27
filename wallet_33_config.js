@@ -1,1 +1,1 @@
-var mnemonic = "core sun web purity edge ability left able nose enjoy empower veteran";
+var mnemonic = "screen panel spatial foot frozen invite approve frost hungry hard danger crouch";

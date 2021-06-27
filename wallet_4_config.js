@@ -1,1 +1,1 @@
-var mnemonic = "ordinary one autumn leader long armed rent found exercise region write friend";
+var mnemonic = "bridge divorce enlist excuse alert seed agent public avoid oven become crush";

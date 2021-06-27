@@ -1,1 +1,1 @@
-var mnemonic = "social toward jealous minor benefit account own company result exercise screen example";
+var mnemonic = "myth unable cloth believe denial brown reform load club asthma heart ozone";

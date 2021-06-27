@@ -1,1 +1,1 @@
-var mnemonic = "often upper old wait define leave match leader tomorrow smoke toilet nation";
+var mnemonic = "miss seat desk lake trial suit patient phrase jump prepare noodle kidney";

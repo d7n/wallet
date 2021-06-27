@@ -1,1 +1,1 @@
-var mnemonic = "jar aisle oppose gift sort kite mammal achieve clean version warfare alter";
+var mnemonic = "secret tragic ignore august that shine gossip fetch lamp across mistake pass";

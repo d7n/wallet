@@ -1,1 +1,1 @@
-var mnemonic = "promote chaos bargain barely account empower wine ride odor maid ugly acoustic";
+var mnemonic = "slight brass now federal tilt reward stomach gap chapter when tunnel deputy";

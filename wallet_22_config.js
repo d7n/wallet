@@ -1,1 +1,1 @@
-var mnemonic = "always public ceiling poet valid injury one news doctor fine option high";
+var mnemonic = "chef fantasy volcano provide truth tide pledge picture slight suit first trip";

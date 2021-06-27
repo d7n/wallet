@@ -1,1 +1,1 @@
-var mnemonic = "draft coil fat someone butter science record peanut plastic advice fatigue summer";
+var mnemonic = "risk labor phone burden vintage husband hammer repeat cart pole dignity grain";

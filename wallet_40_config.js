@@ -1,1 +1,1 @@
-var mnemonic = "winter force artist youth pizza boil episode gesture faith kingdom grace modify";
+var mnemonic = "pelican embody priority pilot unveil hundred crumble staff assault illegal captain huge";

@@ -1,1 +1,1 @@
-var mnemonic = "property lyrics confirm present ten bulk humble canyon desert live decorate alien";
+var mnemonic = "canal milk dentist winter scheme only voyage swarm print gallery cover alien";

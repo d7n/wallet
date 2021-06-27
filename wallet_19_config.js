@@ -1,1 +1,1 @@
-var mnemonic = "orange rent embrace desert meadow tomorrow pizza wash middle turkey liquid shield";
+var mnemonic = "erosion toilet either sister differ system rapid join danger sting punch answer";

@@ -1,1 +1,1 @@
-var mnemonic = "feed dog behind repair merry evolve bunker drink theme attract valve crucial";
+var mnemonic = "gold sadness clean apology away remind dwarf task upper angle useless latin";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster own flavor obtain swallow dawn toilet car plastic enemy process amazing";
+var mnemonic = "sock estate loud trust course cheese promote ready track attract rookie hat";

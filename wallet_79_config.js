@@ -1,1 +1,1 @@
-var mnemonic = "stool december notice manual rifle hand together ostrich evil spend joke guilt";
+var mnemonic = "adjust fold merit purse goat fence kiwi modify method weekend pet control";

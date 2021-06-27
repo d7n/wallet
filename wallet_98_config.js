@@ -1,1 +1,1 @@
-var mnemonic = "misery install high color envelope ordinary guess brush scene example hobby pudding";
+var mnemonic = "achieve talent simple fabric copy truly conduct faint wise winter physical settle";

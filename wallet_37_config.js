@@ -1,1 +1,1 @@
-var mnemonic = "subway vacuum shoot satisfy panda number consider response good choose empty company";
+var mnemonic = "develop old income fruit grid panther elegant rigid upper fiber glare where";

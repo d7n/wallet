@@ -1,1 +1,1 @@
-var mnemonic = "cherry answer science vote park vote naive bag ordinary nothing myth enhance";
+var mnemonic = "strike garden naive media release top abstract steak hat hair universe client";

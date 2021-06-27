@@ -1,1 +1,1 @@
-var mnemonic = "love rail panda save guard rigid zero worry mention antenna sand claim";
+var mnemonic = "gap summer buzz promote focus verify debate fuel manual emerge smooth sweet";

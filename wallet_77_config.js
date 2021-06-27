@@ -1,1 +1,1 @@
-var mnemonic = "hobby person lobster spawn blind virtual grace online team disorder swamp space";
+var mnemonic = "police tattoo jar prosper nest bar group will galaxy egg employ common";

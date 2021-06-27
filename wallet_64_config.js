@@ -1,1 +1,1 @@
-var mnemonic = "private typical replace midnight hotel stereo scare betray uphold culture race venture";
+var mnemonic = "file estate right glass bunker unit woman advance eternal urban oval poverty";

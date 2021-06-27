@@ -1,1 +1,1 @@
-var mnemonic = "best above dove wise unusual result damage sorry victory climb shuffle peace";
+var mnemonic = "lady medal fire lonely sheriff private finger zone silk canoe silly coffee";

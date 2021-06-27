@@ -1,1 +1,1 @@
-var mnemonic = "rare iron hungry frost mask error turkey reveal inflict august glide crop";
+var mnemonic = "close verify hope mandate public thank rude morning hockey shallow prosper drive";

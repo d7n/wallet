@@ -1,1 +1,1 @@
-var mnemonic = "section opinion charge ridge fork please echo service level artist danger chef";
+var mnemonic = "blade render fly obey fiction same army expire canal leader wing brain";

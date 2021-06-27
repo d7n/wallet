@@ -1,1 +1,1 @@
-var mnemonic = "roast twice coral tired romance return alcohol dumb delay toddler balcony virus";
+var mnemonic = "snap awkward salad between truly hamster regular candy tilt sauce disagree outdoor";

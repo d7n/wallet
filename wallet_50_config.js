@@ -1,1 +1,1 @@
-var mnemonic = "apart grit tail you harvest dirt repeat donate bridge public dune next";
+var mnemonic = "plunge rifle hip cloud news gun all resist girl dinner supreme figure";

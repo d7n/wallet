@@ -1,1 +1,1 @@
-var mnemonic = "escape trumpet inform pool story rocket deposit cute nut simple turn safe";
+var mnemonic = "cool area vicious hint flower sauce cram sketch stomach rather extra mosquito";

@@ -1,1 +1,1 @@
-var mnemonic = "grass scatter radar tell glare flush legal utility there shine enact portion";
+var mnemonic = "chef crucial quiz cradle deputy grocery hood release key dish episode police";

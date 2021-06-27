@@ -1,1 +1,1 @@
-var mnemonic = "curious unaware tooth often antenna ancient spoon chief review boss crucial split";
+var mnemonic = "goat tissue you gate course body detail smile employ case sock side";

@@ -1,1 +1,1 @@
-var mnemonic = "cube gesture measure trend worry fringe blush rough enhance sight member sadness";
+var mnemonic = "miss together reject prefer pencil produce average delay attack remind aim speed";

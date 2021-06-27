@@ -1,1 +1,1 @@
-var mnemonic = "blossom dinner lava actor lounge copy act clutch neglect mystery hollow birth";
+var mnemonic = "crop tower mansion tattoo act lava wasp race census warrior idle broom";

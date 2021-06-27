@@ -1,1 +1,1 @@
-var mnemonic = "ordinary cruel famous health guilt upset trigger prepare plate bicycle permit ignore";
+var mnemonic = "example benefit camp rude defy follow salute orange rice lamp deal usual";

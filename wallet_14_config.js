@@ -1,1 +1,1 @@
-var mnemonic = "frame balance task relax alien system subway brief engine flame script please";
+var mnemonic = "cloth security much glow exile art east deposit inch prison shy color";

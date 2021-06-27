@@ -1,1 +1,1 @@
-var mnemonic = "skin favorite motion dial crawl key one rely pumpkin code talent toe";
+var mnemonic = "embark already will pistol smooth drop salute sorry salad hand inside demand";

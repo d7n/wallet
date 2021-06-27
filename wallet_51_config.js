@@ -1,1 +1,1 @@
-var mnemonic = "ship once rather moment trend mirror celery machine sick that oxygen pumpkin";
+var mnemonic = "shield leaf increase trophy bag fetch survey answer fat venture cancel steel";

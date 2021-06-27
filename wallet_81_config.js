@@ -1,1 +1,1 @@
-var mnemonic = "episode artefact double address garbage sister sword address destroy expect clip host";
+var mnemonic = "deposit drum such fatal noble goddess sphere rather echo explain path squeeze";

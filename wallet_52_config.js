@@ -1,1 +1,1 @@
-var mnemonic = "aspect trap pluck outdoor vague sunny thing this frequent puzzle floor salmon";
+var mnemonic = "royal cinnamon series poverty chimney tragic radio bridge obey satoshi carbon thank";

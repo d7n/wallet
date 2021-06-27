@@ -1,1 +1,1 @@
-var mnemonic = "burger doctor iron poet cost awesome comic enter cat pizza fit option";
+var mnemonic = "comfort token alone tilt uphold road fuel stool math film era casual";

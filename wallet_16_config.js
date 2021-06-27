@@ -1,1 +1,1 @@
-var mnemonic = "crater satisfy jelly forget radio wagon sheriff analyst define mail phone kit";
+var mnemonic = "airport balcony carbon claim holiday giggle oblige maximum else abandon split enemy";

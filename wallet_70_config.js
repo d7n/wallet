@@ -1,1 +1,1 @@
-var mnemonic = "ketchup permit teach sheriff smile sponsor path cost impose material visit pair";
+var mnemonic = "police tongue rural sketch song cruel canvas produce still rain trip apart";

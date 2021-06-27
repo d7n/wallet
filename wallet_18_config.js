@@ -1,1 +1,1 @@
-var mnemonic = "modify plastic frog figure fatal about chief range affair bench involve fancy";
+var mnemonic = "celery cinnamon chimney thumb lizard athlete fiscal foster argue ski answer buyer";

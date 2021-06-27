@@ -1,1 +1,1 @@
-var mnemonic = "merit fiscal network soda exist escape firm address unfold relief flight lucky";
+var mnemonic = "avoid just state crash civil junior jungle resemble pudding print poet milk";

@@ -1,1 +1,1 @@
-var mnemonic = "judge reduce hurry despair indicate violin pulp supply near surface pool focus";
+var mnemonic = "giraffe forest online mango family hockey hazard reunion make chicken exhibit enough";

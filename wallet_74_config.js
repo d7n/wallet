@@ -1,1 +1,1 @@
-var mnemonic = "resemble spawn say wool stone wrong erode drift evil leisure embark slim";
+var mnemonic = "hen found hub record stock company various shine olive thank chunk fence";

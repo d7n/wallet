@@ -1,1 +1,1 @@
-var mnemonic = "wing harsh jacket shift bomb arrow race wreck pulse they tiny grow";
+var mnemonic = "tip become gesture announce joke mercy pencil hybrid web keep describe truck";

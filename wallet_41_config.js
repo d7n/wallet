@@ -1,1 +1,1 @@
-var mnemonic = "door juice north confirm tissue boil valid dry token receive oil question";
+var mnemonic = "laptop educate gauge wood seek brown toy skill purity payment marriage law";

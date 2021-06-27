@@ -1,1 +1,1 @@
-var mnemonic = "grass sound hunt hungry syrup motion census range swift six beach cost";
+var mnemonic = "taste monster above other tumble nephew improve panda blood win wall dumb";

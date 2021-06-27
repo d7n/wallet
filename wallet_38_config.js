@@ -1,1 +1,1 @@
-var mnemonic = "dizzy write tornado episode exile raise improve divorce oxygen expand board auction";
+var mnemonic = "buddy eager update blouse protect consider reason opinion barrel huge plunge until";

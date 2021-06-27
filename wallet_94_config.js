@@ -1,1 +1,1 @@
-var mnemonic = "despair gain tourist refuse icon fashion comfort drop easily mouse spoil review";
+var mnemonic = "stand great bundle unfold tag fatigue early silver smooth ketchup kidney usual";

@@ -1,1 +1,1 @@
-var mnemonic = "head patch gossip burger ice much token spoil bargain shaft matrix actual";
+var mnemonic = "now town vast salon subway tissue blast upgrade forest twin gadget slice";

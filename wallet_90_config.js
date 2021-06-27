@@ -1,1 +1,1 @@
-var mnemonic = "nose pair proof merit destroy wise spray camera thing warm emerge tell";
+var mnemonic = "bid genius possible wrong salon fog whale sample gentle agree empty vessel";

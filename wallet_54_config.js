@@ -1,1 +1,1 @@
-var mnemonic = "total arctic brain can plunge intact west leisure crane door estate oxygen";
+var mnemonic = "nature drama topple surface gloom joy autumn diamond evolve kitten episode rain";

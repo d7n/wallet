@@ -1,1 +1,1 @@
-var mnemonic = "ancient metal still circle remain catch exist trend cross one basket crater";
+var mnemonic = "spell earn develop wave renew more junk cave gallery master rhythm fruit";

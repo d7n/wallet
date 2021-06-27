@@ -1,1 +1,1 @@
-var mnemonic = "power start sure supreme ketchup tuna attitude multiply drop agree affair burst";
+var mnemonic = "vast body disagree door approve vacuum air gallery mobile pluck slow hair";

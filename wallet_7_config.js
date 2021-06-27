@@ -1,1 +1,1 @@
-var mnemonic = "radar produce comfort section quit cotton cotton what sunny razor grow present";
+var mnemonic = "company enjoy hundred language fever owner castle cruel just trade involve prosper";

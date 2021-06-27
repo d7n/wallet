@@ -1,1 +1,1 @@
-var mnemonic = "embrace original almost dutch brother eye fatal equal injury wish absorb hip";
+var mnemonic = "remain hurt rival limit exile laundry alien track swing virtual winner peanut";

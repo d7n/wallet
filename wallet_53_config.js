@@ -1,1 +1,1 @@
-var mnemonic = "melt wire dice fame bread thunder call oppose turn skull provide noodle";
+var mnemonic = "wait crystal easily end history pencil praise hope stove clay alcohol virtual";

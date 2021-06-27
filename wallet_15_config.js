@@ -1,1 +1,1 @@
-var mnemonic = "weekend age improve plunge region churn wolf then near basket brother source";
+var mnemonic = "flee exercise brother job defy joy diamond argue laptop effort turtle carpet";

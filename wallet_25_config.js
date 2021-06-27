@@ -1,1 +1,1 @@
-var mnemonic = "oval notable service demise found exhibit subway pledge cash smile better under";
+var mnemonic = "note piece tattoo multiply vivid sentence step tissue rocket lawn style seat";

@@ -1,1 +1,1 @@
-var mnemonic = "wealth stone target warfare crumble engine helmet ill humor mercy crystal mosquito";
+var mnemonic = "scout decade offer great galaxy column purpose pen kit aunt crystal gentle";

@@ -1,1 +1,1 @@
-var mnemonic = "cabin sugar stairs slam frog thunder tiny lab huge wink priority virtual";
+var mnemonic = "lava nature abandon thunder misery surface flame reflect search just reward spice";

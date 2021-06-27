@@ -1,1 +1,1 @@
-var mnemonic = "resist kite edge upgrade peasant pelican chapter clerk cheap general venture parent";
+var mnemonic = "when promote winter approve drum friend pride mimic between chest soon olympic";

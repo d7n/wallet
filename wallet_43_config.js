@@ -1,1 +1,1 @@
-var mnemonic = "amazing borrow skate sense airport maple avocado teach flag piano rebel coral";
+var mnemonic = "fog blush design have decide elephant sorry myth path distance lunar palace";

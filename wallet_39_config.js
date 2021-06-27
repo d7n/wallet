@@ -1,1 +1,1 @@
-var mnemonic = "ethics gentle donor result vicious patient finger unable type symptom region feature";
+var mnemonic = "vicious chef film like craft tenant lawsuit reunion income shoulder hero mother";
