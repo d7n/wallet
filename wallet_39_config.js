@@ -1,1 +1,1 @@
-var mnemonic = "brain camera egg perfect fuel since recipe deal rookie birth describe please";
+var mnemonic = "term east asthma certain fish coconut rebuild address vendor scene range multiply";

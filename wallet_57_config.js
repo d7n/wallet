@@ -1,1 +1,1 @@
-var mnemonic = "about kiwi mail life display position usual parent text upgrade apart cart";
+var mnemonic = "orchard together bless credit lucky sword security monitor fuel property foam digital";

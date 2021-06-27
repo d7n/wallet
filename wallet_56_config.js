@@ -1,1 +1,1 @@
-var mnemonic = "inform submit antique grace govern exhibit genuine super time inflict degree cradle";
+var mnemonic = "learn sort garment more leader piece fashion liar excess fix sugar grit";

@@ -1,1 +1,1 @@
-var mnemonic = "before sudden legend tag sleep common illegal flame green garlic foster another";
+var mnemonic = "feature camp wife captain bundle orange pattern common bronze tackle hint enjoy";

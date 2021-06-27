@@ -1,1 +1,1 @@
-var mnemonic = "dash glad sweet snack figure banana property edit tent nasty mango utility";
+var mnemonic = "foil demise coral sea huge coast elite reason boost deputy odor antenna";

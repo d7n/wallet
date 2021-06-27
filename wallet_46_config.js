@@ -1,1 +1,1 @@
-var mnemonic = "muscle risk beach pool knock gift gentle adjust portion illegal will milk";
+var mnemonic = "young boost solar object enemy lock vendor apple shallow ordinary change inner";

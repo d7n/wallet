@@ -1,1 +1,1 @@
-var mnemonic = "about trouble vapor grass heart glance civil fiber report unfold mushroom vacant";
+var mnemonic = "south file machine media cushion gospel laugh grief almost dismiss claw parade";

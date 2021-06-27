@@ -1,1 +1,1 @@
-var mnemonic = "prize ten excite badge among swear bacon night view zoo stuff jazz";
+var mnemonic = "park armor answer desert federal vessel earn fence type alert near hope";

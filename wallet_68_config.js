@@ -1,1 +1,1 @@
-var mnemonic = "bind found size tobacco save climb shell kingdom wheat razor present casino";
+var mnemonic = "cart derive mask zoo fabric card brave company potato flip crystal act";

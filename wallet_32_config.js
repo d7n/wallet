@@ -1,1 +1,1 @@
-var mnemonic = "kitchen tennis color trouble tone buffalo maid mistake canvas question tower later";
+var mnemonic = "art village alter voice brush attract six pottery win nerve recall protect";

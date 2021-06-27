@@ -1,1 +1,1 @@
-var mnemonic = "glove feel draft cover best alter much just shadow pattern crane antique";
+var mnemonic = "rely pony trophy time holiday robust member waste man purpose custom mention";

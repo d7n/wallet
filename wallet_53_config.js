@@ -1,1 +1,1 @@
-var mnemonic = "economy result stage prize ability gym only heart help entry intact suspect";
+var mnemonic = "champion spare chicken figure together mail position guard cram what belt tone";

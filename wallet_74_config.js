@@ -1,1 +1,1 @@
-var mnemonic = "fix coin engage humble control real prosper alarm candy remove snake spoil";
+var mnemonic = "tornado zebra sing trophy slide jacket infant long appear salute there culture";

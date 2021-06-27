@@ -1,1 +1,1 @@
-var mnemonic = "swear degree nasty candy timber appear neutral theory sphere hospital skate name";
+var mnemonic = "ladder coin tower happy tank ripple casual stomach trim acoustic bacon auto";

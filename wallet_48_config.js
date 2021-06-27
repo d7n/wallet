@@ -1,1 +1,1 @@
-var mnemonic = "rail arena hidden rebel fuel upon sheriff state cement clay outside life";
+var mnemonic = "bless shrimp embark current common print drift parrot process athlete decide weasel";

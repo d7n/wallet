@@ -1,1 +1,1 @@
-var mnemonic = "waste order boost hello benefit accident original save float mean item annual";
+var mnemonic = "theme candy negative quantum soldier obscure soul crouch motor place hobby question";

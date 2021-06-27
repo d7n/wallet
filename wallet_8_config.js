@@ -1,1 +1,1 @@
-var mnemonic = "olympic blouse start result orient humble tragic pumpkin evoke rural slender exclude";
+var mnemonic = "stable scene shell bind tired provide flash sing private cup caught credit";

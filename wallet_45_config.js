@@ -1,1 +1,1 @@
-var mnemonic = "gallery seek pet dawn vicious million fold surge inject keen space ramp";
+var mnemonic = "cushion artist category jump pumpkin near embody exhaust apple female balance soda";

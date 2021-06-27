@@ -1,1 +1,1 @@
-var mnemonic = "section green risk tattoo piece goose crime two mom feel silent hard";
+var mnemonic = "illegal grunt border true job oven seat dizzy practice engage visa impulse";

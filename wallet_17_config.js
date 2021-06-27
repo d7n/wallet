@@ -1,1 +1,1 @@
-var mnemonic = "glare under early discover elegant dry post cash trumpet raw city bubble";
+var mnemonic = "fuel portion icon shoe man note switch ensure dutch clinic dolphin duck";

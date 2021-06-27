@@ -1,1 +1,1 @@
-var mnemonic = "organ soup oppose beef foster choose music angry enrich poem chronic adjust";
+var mnemonic = "child cram novel object garbage welcome purchase shrug float screen era path";

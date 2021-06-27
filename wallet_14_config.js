@@ -1,1 +1,1 @@
-var mnemonic = "demise fish room hill survey bid lunar pitch mosquito venture royal soup";
+var mnemonic = "never jaguar clown lock like scissors morning balcony glass ritual shoulder width";

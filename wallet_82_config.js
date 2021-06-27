@@ -1,1 +1,1 @@
-var mnemonic = "sock mixed zero idle wasp spread husband boil total wet just refuse";
+var mnemonic = "doctor couch wasp mirror picture lens lunar mom dinner proud polar eyebrow";

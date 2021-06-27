@@ -1,1 +1,1 @@
-var mnemonic = "trouble foster away salmon you piece seminar welcome shoot drive else own";
+var mnemonic = "rookie fiscal route toy person palm legend cloth cheese cigar half over";

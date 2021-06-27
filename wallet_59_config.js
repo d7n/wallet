@@ -1,1 +1,1 @@
-var mnemonic = "lens inner acid hood frost birth witness pepper grocery soldier orient toss";
+var mnemonic = "glass language laugh predict piece twist panther vibrant equal cannon anxiety jeans";

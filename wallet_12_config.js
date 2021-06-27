@@ -1,1 +1,1 @@
-var mnemonic = "assault labor put pole lottery possible swing again rail spawn enact manual";
+var mnemonic = "wall guitar quote boy misery cousin slogan height engine dash flock iron";

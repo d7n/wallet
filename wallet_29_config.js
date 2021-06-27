@@ -1,1 +1,1 @@
-var mnemonic = "actress giant stone hidden vendor reunion opinion visit public egg kingdom you";
+var mnemonic = "cabin boat next height antenna oak fitness couch metal aspect biology bone";

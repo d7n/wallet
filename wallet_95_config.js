@@ -1,1 +1,1 @@
-var mnemonic = "fog auto voyage bind learn only avocado drama solve digital country cover";
+var mnemonic = "turn airport gesture anger race feed more best maple edit cheap verify";

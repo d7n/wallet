@@ -1,1 +1,1 @@
-var mnemonic = "dizzy volcano wish cute visit old wood try original manage bunker buddy";
+var mnemonic = "sick plate flock border entire learn shrimp code dose budget mechanic text";

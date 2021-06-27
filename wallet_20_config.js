@@ -1,1 +1,1 @@
-var mnemonic = "raccoon repeat predict olympic rice chronic hint sudden ugly check room crawl";
+var mnemonic = "upper return wink disorder awkward evidence hen potato organ awkward between business";

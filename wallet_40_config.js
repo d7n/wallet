@@ -1,1 +1,1 @@
-var mnemonic = "result fuel prepare minimum arrest similar inner private novel marine increase bone";
+var mnemonic = "pupil family casino meat river gravity surface palm nothing divide scene brother";

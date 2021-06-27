@@ -1,1 +1,1 @@
-var mnemonic = "add notable pretty delay marriage potato angry worry thunder arena enough talk";
+var mnemonic = "forward stomach dash silent detect repeat limit keep shrug element youth resource";

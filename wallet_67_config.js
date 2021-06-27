@@ -1,1 +1,1 @@
-var mnemonic = "switch loop clinic stereo relief where that airport burst able science cigar";
+var mnemonic = "step level axis any waste habit approve drill mix eight flee install";

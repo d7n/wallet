@@ -1,1 +1,1 @@
-var mnemonic = "try shift lobster reflect volcano once escape monitor book curve sing garlic";
+var mnemonic = "absorb human good letter erode maple elder mail nest popular wisdom leg";

@@ -1,1 +1,1 @@
-var mnemonic = "wash baby this ticket catch view fix spray frame become print hover";
+var mnemonic = "hat page gain walk topple chalk method vague enlist sell maze pool";

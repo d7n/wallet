@@ -1,1 +1,1 @@
-var mnemonic = "pink able soon primary among cannon truth dragon success mobile afford immune";
+var mnemonic = "bright forest tragic hero fun soup bright reform quantum width attack knee";

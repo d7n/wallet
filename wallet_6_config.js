@@ -1,1 +1,1 @@
-var mnemonic = "require glow salt all smooth shift ghost pilot chronic engage rifle dove";
+var mnemonic = "among option machine hope any output spare tired wolf boss rude love";

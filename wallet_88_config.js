@@ -1,1 +1,1 @@
-var mnemonic = "honey remind bag flower price morning shop person version record major canyon";
+var mnemonic = "exotic mention cliff crop erase upgrade weasel merit maximum stumble shoulder artist";

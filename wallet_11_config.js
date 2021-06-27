@@ -1,1 +1,1 @@
-var mnemonic = "squirrel secret drastic curve blind void drop observe twenty virtual observe bachelor";
+var mnemonic = "oxygen author album cement emerge napkin ocean useful discover lamp follow acoustic";

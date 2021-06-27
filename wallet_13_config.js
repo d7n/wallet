@@ -1,1 +1,1 @@
-var mnemonic = "bleak talk shop loan bonus squeeze spy clerk ranch shoot great play";
+var mnemonic = "used hurt tragic marine end swarm able recipe town winter catch screen";

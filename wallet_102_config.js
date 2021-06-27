@@ -1,1 +1,1 @@
-var mnemonic = "employ around village modify pioneer cancel shine clean protect easy there annual";
+var mnemonic = "cash swing bounce cousin silver goose token tired embrace citizen visual idle";

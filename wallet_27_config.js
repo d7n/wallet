@@ -1,1 +1,1 @@
-var mnemonic = "venture syrup theory orbit begin various tide offer empty vendor expire chicken";
+var mnemonic = "dove oval claim allow wash disease provide neglect cross trash winter baby";

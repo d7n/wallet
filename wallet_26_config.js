@@ -1,1 +1,1 @@
-var mnemonic = "tuna rural local trap marriage inform plate cotton device drive seven token";
+var mnemonic = "globe divorce hurry umbrella strike length relax earn jewel coach barely success";

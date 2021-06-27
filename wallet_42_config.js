@@ -1,1 +1,1 @@
-var mnemonic = "sound identify vault find infant enable bind loop danger camp tube car";
+var mnemonic = "leader exotic album warrior exchange planet kiwi angry behind route million resist";

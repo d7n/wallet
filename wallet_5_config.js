@@ -1,1 +1,1 @@
-var mnemonic = "ceiling atom almost amateur roast juice derive gate embrace couple impact skirt";
+var mnemonic = "donor junior file gap output final best eye perfect onion convince absent";

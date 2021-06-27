@@ -1,1 +1,1 @@
-var mnemonic = "visit beyond utility expect smart lumber that trick scorpion latin disease patrol";
+var mnemonic = "ask tray spring aunt version engage rack bright enemy rebuild close what";

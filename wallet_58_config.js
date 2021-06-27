@@ -1,1 +1,1 @@
-var mnemonic = "inmate drastic embrace enough model relief pelican oblige cheap boost gloom slide";
+var mnemonic = "boost fall simple alcohol visa fine silent okay kick balcony buffalo novel";

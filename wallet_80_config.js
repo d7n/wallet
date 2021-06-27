@@ -1,1 +1,1 @@
-var mnemonic = "review frog adult garbage deal valid suggest bunker throw fantasy width sick";
+var mnemonic = "final result sweet spend rally upon donate nose nasty security alcohol leader";

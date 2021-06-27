@@ -1,1 +1,1 @@
-var mnemonic = "script sock denial clock isolate rhythm science tip inflict virus explain connect";
+var mnemonic = "matrix rude alter interest catch deny six ticket frequent frozen dice become";

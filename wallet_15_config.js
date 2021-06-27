@@ -1,1 +1,1 @@
-var mnemonic = "tray range snack resemble put media hat air wealth possible feel more";
+var mnemonic = "organ sword vocal true motor buffalo carpet jaguar upgrade autumn cloud welcome";

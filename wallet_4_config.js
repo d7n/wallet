@@ -1,1 +1,1 @@
-var mnemonic = "share unlock bubble fun soap vendor company staff match diagram bundle three";
+var mnemonic = "brisk blue marble position hamster movie inch direct rain aisle cotton letter";

@@ -1,1 +1,1 @@
-var mnemonic = "nephew increase seed main tray empower worry drill milk comic build volcano";
+var mnemonic = "tissue pilot private load fun tube snap giggle urge depend useful mimic";

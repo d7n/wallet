@@ -1,1 +1,1 @@
-var mnemonic = "build supreme dinner point denial unaware half dwarf bonus sugar want cat";
+var mnemonic = "oval rural blur bronze skull gold depend book owner melody scatter bracket";

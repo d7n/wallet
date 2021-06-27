@@ -1,1 +1,1 @@
-var mnemonic = "swallow deposit piano today correct omit expect undo chuckle sport jump when";
+var mnemonic = "apple toss isolate tube warfare trophy debate rural guitar mystery extend bench";

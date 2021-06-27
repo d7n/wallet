@@ -1,1 +1,1 @@
-var mnemonic = "half warm shift food outside adapt desert purchase ski minimum rule flip";
+var mnemonic = "private next divert toast pole only merry grape input then example silver";

@@ -1,1 +1,1 @@
-var mnemonic = "bean orient clutch pony bulb odor embrace fault casual put south wool";
+var mnemonic = "pencil coast wall water glad address glory they mercy fiscal busy science";

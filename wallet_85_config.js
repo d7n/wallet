@@ -1,1 +1,1 @@
-var mnemonic = "estate chimney sense typical pistol tell work consider find lab today hurdle";
+var mnemonic = "hover useful finish charge detect turkey logic fold boy sentence burden follow";

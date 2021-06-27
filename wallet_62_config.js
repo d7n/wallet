@@ -1,1 +1,1 @@
-var mnemonic = "obscure illness special cinnamon birth dice garden like verb tip soul december";
+var mnemonic = "desk gravity cost cook slogan wear rather heart dove fabric truly gun";

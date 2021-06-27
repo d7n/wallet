@@ -1,1 +1,1 @@
-var mnemonic = "during image adjust return craft clarify ecology lawsuit garden regret diagram bread";
+var mnemonic = "pelican smart patrol sport palm spirit indicate kid nice buffalo injury number";

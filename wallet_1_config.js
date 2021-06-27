@@ -1,1 +1,1 @@
-var mnemonic = "blur remember pumpkin venture ski zebra tube task giant doctor rally sun";
+var mnemonic = "recipe seven excuse credit achieve topple burden fall awkward will boss base";

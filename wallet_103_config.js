@@ -1,1 +1,1 @@
-var mnemonic = "tent unlock dizzy season vital size rose anxiety medal pear region orange";
+var mnemonic = "hard column will cattle shop away nut unfair artefact swamp region protect";

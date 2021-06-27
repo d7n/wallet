@@ -1,1 +1,1 @@
-var mnemonic = "fat harbor federal charge section dish helmet earn enemy pipe aisle exclude";
+var mnemonic = "hole grocery glass caution insane omit brush recall polar naive march chat";

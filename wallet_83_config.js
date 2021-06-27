@@ -1,1 +1,1 @@
-var mnemonic = "injury glance vessel jewel mind arrow depend stereo misery cattle frozen rabbit";
+var mnemonic = "income shallow cycle inherit file fitness old team adapt rural minute dizzy";

@@ -1,1 +1,1 @@
-var mnemonic = "pigeon modify summer rare stuff wave mistake assume egg sock village cement";
+var mnemonic = "total hunt scrap scorpion venue enrich rely sell six novel live sail";

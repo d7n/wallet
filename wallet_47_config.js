@@ -1,1 +1,1 @@
-var mnemonic = "disorder traffic wash above object special blossom mountain over sister end outer";
+var mnemonic = "patient raven shrug fatigue under repair mistake female term hurry flag plastic";

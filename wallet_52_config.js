@@ -1,1 +1,1 @@
-var mnemonic = "lesson marriage use middle embrace tiger nuclear volume palace rate entire antique";
+var mnemonic = "easy afraid era eagle bind answer rack this lift space exact dice";

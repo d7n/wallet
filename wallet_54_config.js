@@ -1,1 +1,1 @@
-var mnemonic = "cry subway erosion child box this tackle object deposit blouse extra soup";
+var mnemonic = "picnic gauge current coast sun until sausage satisfy pear share fox glimpse";

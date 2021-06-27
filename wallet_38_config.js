@@ -1,1 +1,1 @@
-var mnemonic = "orange enter welcome fame clump mom nasty lake raw violin latin powder";
+var mnemonic = "shield call protect tenant jelly note skirt guess water reason barely odor";

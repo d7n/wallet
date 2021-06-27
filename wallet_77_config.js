@@ -1,1 +1,1 @@
-var mnemonic = "sunny suffer electric road chest first element parade size develop miss season";
+var mnemonic = "boost nerve earn frost smooth lift disorder dutch cereal unaware umbrella fabric";

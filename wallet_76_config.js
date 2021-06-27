@@ -1,1 +1,1 @@
-var mnemonic = "rely federal gossip else page connect teach list lucky force gym bullet";
+var mnemonic = "kite solve ill leisure gym decide present six success view tray board";

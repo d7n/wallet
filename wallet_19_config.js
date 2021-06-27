@@ -1,1 +1,1 @@
-var mnemonic = "exclude siege fruit expect venture skirt diary hawk fragile suit attract invite";
+var mnemonic = "couch talent jealous adult essay lonely cram permit road actual chicken drop";

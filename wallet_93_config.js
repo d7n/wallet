@@ -1,1 +1,1 @@
-var mnemonic = "ketchup rain inherit element wolf wolf kick social fence direct entry speed";
+var mnemonic = "skull height social umbrella patrol argue theory opera symptom test swamp reward";

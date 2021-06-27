@@ -1,1 +1,1 @@
-var mnemonic = "exit action daring air assist strategy horror violin family stable else front";
+var mnemonic = "cereal smoke panther conduct notable ethics click aspect nephew woman reject miracle";

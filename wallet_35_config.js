@@ -1,1 +1,1 @@
-var mnemonic = "swamp embrace better orange glove all hospital calm double sniff want guide";
+var mnemonic = "protect include cat dwarf reopen version praise able daring extend safe enlist";

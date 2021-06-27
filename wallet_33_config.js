@@ -1,1 +1,1 @@
-var mnemonic = "dismiss grace winter iron ladder observe plug area amount harbor credit okay";
+var mnemonic = "grunt stock diesel demand join sea target inside theme wool learn catalog";

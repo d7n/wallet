@@ -1,1 +1,1 @@
-var mnemonic = "festival phrase hundred clean radio skull involve credit chef drop two crazy";
+var mnemonic = "thumb legal hurt retire uncover stove easily change focus onion student element";

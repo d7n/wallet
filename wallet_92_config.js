@@ -1,1 +1,1 @@
-var mnemonic = "where patient maximum glide shrug weather powder hood strike knee able april";
+var mnemonic = "wink goat crowd frame armed nasty book stock black ethics super section";

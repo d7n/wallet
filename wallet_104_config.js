@@ -1,1 +1,1 @@
-var mnemonic = "panel answer curious bonus upset stove mesh sentence glue world fog abstract";
+var mnemonic = "soccer trash alcohol priority mistake blade snow lunch cream undo argue move";

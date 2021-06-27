@@ -1,1 +1,1 @@
-var mnemonic = "cabbage they angle float tomorrow weekend tray patient sugar ladder source venture";
+var mnemonic = "unique region flush they fluid announce before mountain width whale scan bring";

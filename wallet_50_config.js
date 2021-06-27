@@ -1,1 +1,1 @@
-var mnemonic = "blade sorry age history crew thought clip balance then layer fine bone";
+var mnemonic = "lucky loan wide giant emerge permit until move ensure awake evoke dignity";

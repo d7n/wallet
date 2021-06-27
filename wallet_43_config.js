@@ -1,1 +1,1 @@
-var mnemonic = "garment ready talk update define still atom you reform admit word arena";
+var mnemonic = "exclude inmate prefer paper primary convince cable carbon abstract kick leader laundry";

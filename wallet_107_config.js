@@ -1,1 +1,1 @@
-var mnemonic = "there outer proud tumble wish cluster typical live cherry portion gun balcony";
+var mnemonic = "shell mammal dice turkey broken soda either exclude hunt owner sister warm";

@@ -1,1 +1,1 @@
-var mnemonic = "reject trumpet van reason dress kidney betray regular shaft emotion blind elegant";
+var mnemonic = "elegant exhibit access coast submit unit badge orient jewel rose airport adult";

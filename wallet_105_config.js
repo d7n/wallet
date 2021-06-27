@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin word tongue grab goddess rapid cross remind eager draw rescue reject";
+var mnemonic = "boost feel level march corn sauce beyond between gesture risk convince candy";

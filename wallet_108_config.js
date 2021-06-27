@@ -1,1 +1,1 @@
-var mnemonic = "vivid maximum intact roof jungle chapter junior jazz issue hospital law clown";
+var mnemonic = "engage time spoon column pledge era kid tail recall result wise quiz";

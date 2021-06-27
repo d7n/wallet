@@ -1,1 +1,1 @@
-var mnemonic = "fish social resemble doll such keep laptop then section leopard certain slush";
+var mnemonic = "artwork real auto cloth miss wing daring wall question swallow hurdle model";

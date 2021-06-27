@@ -1,1 +1,1 @@
-var mnemonic = "click skin build spoon youth tail fade gospel sure banner rocket oven";
+var mnemonic = "market august genius asset rookie ankle tiny armed win fan owner practice";

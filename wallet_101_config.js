@@ -1,1 +1,1 @@
-var mnemonic = "heavy keep hobby outer raccoon curve wink front where theory control feed";
+var mnemonic = "update combine clip scale expose magic prefer silver portion tribe aware library";

@@ -1,1 +1,1 @@
-var mnemonic = "memory pizza social absurd leader diet resource daughter spatial expose board trap";
+var mnemonic = "wreck jealous net olive chair scale intact casino nurse friend alone plate";

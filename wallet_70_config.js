@@ -1,1 +1,1 @@
-var mnemonic = "spatial maze admit say bamboo sniff army final wink chicken tent pole";
+var mnemonic = "patrol evidence innocent march census coyote bench sad gospel stomach autumn parent";
