@@ -1,1 +1,1 @@
-var mnemonic = "tomato rubber exercise erosion share liquid space olympic focus leg excite drip";
+var mnemonic = "enemy include syrup talent river write double acquire ill section lake weapon";

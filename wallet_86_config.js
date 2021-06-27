@@ -1,1 +1,1 @@
-var mnemonic = "roast pipe fire valid laundry practice aim health patch strategy only flight";
+var mnemonic = "unusual orchard math seat trial silk wheat gallery mystery public plunge gospel";

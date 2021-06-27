@@ -1,1 +1,1 @@
-var mnemonic = "cancel vapor isolate grass wine ancient install poverty fold magnet bus boil";
+var mnemonic = "scrub average embody brand joy strategy chicken element common vocal october hole";

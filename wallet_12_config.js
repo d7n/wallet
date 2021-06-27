@@ -1,1 +1,1 @@
-var mnemonic = "ordinary flash devote cool bread angry apple donkey pistol quality draw ice";
+var mnemonic = "type leave agent goddess swim popular whip anxiety glide like bean one";

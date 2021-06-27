@@ -1,1 +1,1 @@
-var mnemonic = "build toward prepare lamp artefact faint buyer general dutch illness solid dilemma";
+var mnemonic = "consider essay paper festival fit horror keep potato manage junk ahead neither";

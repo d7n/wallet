@@ -1,1 +1,1 @@
-var mnemonic = "addict metal able cherry tooth topic true must absorb topic civil rich";
+var mnemonic = "faint try erode cheap ask meat true chase kitten bag call scene";

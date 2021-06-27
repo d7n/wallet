@@ -1,1 +1,1 @@
-var mnemonic = "invite globe priority witness foam fall company scare slide drill bottom immune";
+var mnemonic = "manual return hungry hill assault steel toy fault guilt execute exhibit muffin";

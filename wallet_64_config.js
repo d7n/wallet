@@ -1,1 +1,1 @@
-var mnemonic = "trial conduct coil hat fish proof vendor dose final worry employ biology";
+var mnemonic = "city dash employ mirror phrase second range dice shoot mind loyal liberty";

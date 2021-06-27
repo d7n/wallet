@@ -1,1 +1,1 @@
-var mnemonic = "unfold avoid meat sand menu royal happy spring discover empty volcano middle";
+var mnemonic = "race ordinary tired boat decrease grit fine armor ozone horror range boil";

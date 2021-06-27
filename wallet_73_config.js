@@ -1,1 +1,1 @@
-var mnemonic = "trim retreat venue balcony sword favorite luxury hotel acquire crunch crime bargain";
+var mnemonic = "drive metal sponsor burger violin system source make muscle ecology between divide";

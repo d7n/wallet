@@ -1,1 +1,1 @@
-var mnemonic = "federal endorse assume mesh dwarf certain double glow farm carbon shy inner";
+var mnemonic = "explain bubble turtle future inherit execute fix invest lawn success modify zebra";

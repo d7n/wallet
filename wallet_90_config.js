@@ -1,1 +1,1 @@
-var mnemonic = "vote coin acid tube habit chaos dwarf life narrow sphere discover cradle";
+var mnemonic = "fury uphold flag patient pyramid music point avoid erase goat dove phrase";

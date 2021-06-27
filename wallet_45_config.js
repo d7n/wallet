@@ -1,1 +1,1 @@
-var mnemonic = "laundry usual youth athlete flush water cross lazy slab custom found whisper";
+var mnemonic = "zebra that join effort size express during funny fetch boost double lake";

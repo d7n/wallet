@@ -1,1 +1,1 @@
-var mnemonic = "egg random sting axis firm dinner margin erosion phrase dawn powder cherry";
+var mnemonic = "pair pudding mask hundred buddy tilt lyrics citizen stuff one curtain food";

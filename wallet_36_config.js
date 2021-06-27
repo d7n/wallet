@@ -1,1 +1,1 @@
-var mnemonic = "fever concert dilemma mistake borrow quantum day half degree topic gas doctor";
+var mnemonic = "goose rain entire host major task slow brass trend vast only sock";

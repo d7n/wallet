@@ -1,1 +1,1 @@
-var mnemonic = "seat digital orbit leaf tunnel resemble trend theory solution penalty purpose vague";
+var mnemonic = "cigar peace churn raccoon hurdle silly menu letter resemble bulk utility screen";

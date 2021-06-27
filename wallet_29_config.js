@@ -1,1 +1,1 @@
-var mnemonic = "usage rather rifle apology shuffle sentence excite shrug ready sustain travel amazing";
+var mnemonic = "gaze female animal illegal below coast donor casual eager winner misery fly";

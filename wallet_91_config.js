@@ -1,1 +1,1 @@
-var mnemonic = "universe calm obscure dumb primary mansion inject cup tuna exotic album grab";
+var mnemonic = "initial level screen bean eager panel toast decrease system control song network";

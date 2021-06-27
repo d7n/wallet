@@ -1,1 +1,1 @@
-var mnemonic = "leisure truly spider dawn service pear jump trend cinnamon rent reflect minimum";
+var mnemonic = "buffalo slender heavy muscle hybrid push rapid age tiny axis amount speed";

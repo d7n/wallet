@@ -1,1 +1,1 @@
-var mnemonic = "develop gloom laugh gown horror viable kitten case alone order view person";
+var mnemonic = "bachelor attitude portion distance swamp erode change property gas march another napkin";

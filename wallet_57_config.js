@@ -1,1 +1,1 @@
-var mnemonic = "six coin luggage slice tree match all pulp crawl unknown grab vault";
+var mnemonic = "napkin waste resist evil mother half chronic way buffalo want boring monkey";

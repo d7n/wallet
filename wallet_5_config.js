@@ -1,1 +1,1 @@
-var mnemonic = "luggage unit wrestle modify gap vibrant because devote lake glory action switch";
+var mnemonic = "correct exile cannon stock dish work seven usual clump ring artist weasel";

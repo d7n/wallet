@@ -1,1 +1,1 @@
-var mnemonic = "bring ill eagle unlock permit exit legal siege liberty allow season ostrich";
+var mnemonic = "modify pumpkin enlist spray lazy bread slush middle together viable orchard runway";

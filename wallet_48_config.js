@@ -1,1 +1,1 @@
-var mnemonic = "obey honey antenna acid draft guard glad mosquito scene wall expose disorder";
+var mnemonic = "syrup juice invite dial decorate favorite deliver side net okay merge elephant";

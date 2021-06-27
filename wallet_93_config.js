@@ -1,1 +1,1 @@
-var mnemonic = "shy afford nephew wise wasp rain direct mystery risk sock laugh torch";
+var mnemonic = "budget three humble jaguar weird game initial protect blue brand blur release";

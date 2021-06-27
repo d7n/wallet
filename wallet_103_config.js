@@ -1,1 +1,1 @@
-var mnemonic = "advice asset begin depart rifle island skin crunch silent already cousin among";
+var mnemonic = "equal execute letter vapor frost pencil shoulder marble crumble twist spell situate";

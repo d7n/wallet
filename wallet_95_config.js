@@ -1,1 +1,1 @@
-var mnemonic = "attract hire reopen ahead seminar crawl law swallow earth render diamond alcohol";
+var mnemonic = "mountain card pair sign capable own camera because boat hold little crop";

@@ -1,1 +1,1 @@
-var mnemonic = "depend write life hole phrase police carry naive smoke floor tent forest";
+var mnemonic = "wheat hospital party pipe tag shrimp obvious wrong bottom enemy glance maximum";

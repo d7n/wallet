@@ -1,1 +1,1 @@
-var mnemonic = "admit orphan subject crush bench staff rally ill lazy patch below traffic";
+var mnemonic = "rapid bitter know coyote warm you burger large eager head design nuclear";

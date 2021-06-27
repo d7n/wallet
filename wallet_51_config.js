@@ -1,1 +1,1 @@
-var mnemonic = "force plunge pupil gesture device delay off rather peace urge kiwi occur";
+var mnemonic = "filter immune rib very orange urge memory drink hedgehog random liberty science";

@@ -1,1 +1,1 @@
-var mnemonic = "baby sort theory pilot estate sheriff fever rural hen another gallery ill";
+var mnemonic = "legal impulse brave hobby plug reason sphere ticket stick purpose legend bag";

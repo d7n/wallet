@@ -1,1 +1,1 @@
-var mnemonic = "journey foil ball flip trial truck sport cream trouble tooth trap wash";
+var mnemonic = "knee chuckle noble permit shell stove satoshi hello castle differ flock congress";

@@ -1,1 +1,1 @@
-var mnemonic = "auction lift pattern defy culture term carry bacon sweet wagon security foster";
+var mnemonic = "neck spring layer fit elegant midnight range real today biology trap guess";

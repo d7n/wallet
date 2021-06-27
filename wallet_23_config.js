@@ -1,1 +1,1 @@
-var mnemonic = "antique canal table sponsor valve world menu faith train own boat medal";
+var mnemonic = "young staff weather trend hello deposit damp when clump plate real mesh";

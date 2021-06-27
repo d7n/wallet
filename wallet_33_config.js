@@ -1,1 +1,1 @@
-var mnemonic = "budget clay mention faint version rack claim abstract jealous disagree tackle pepper";
+var mnemonic = "lecture crop series punch penalty educate express fragile pepper remind poem match";

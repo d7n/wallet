@@ -1,1 +1,1 @@
-var mnemonic = "lumber hour wisdom already culture session boil buzz bag coffee credit gain";
+var mnemonic = "soap ecology indoor nephew eight regret clap ill city aerobic swarm trophy";

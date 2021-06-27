@@ -1,1 +1,1 @@
-var mnemonic = "sea matrix season avoid neglect lobster false type plastic viable decrease utility";
+var mnemonic = "elephant bike crop close shrug sustain crumble fish physical lobster spoil accident";

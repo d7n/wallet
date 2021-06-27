@@ -1,1 +1,1 @@
-var mnemonic = "general bulk toss scare face tumble cloth uncle submit palace possible own";
+var mnemonic = "toy deputy tongue hockey quarter photo consider insect initial violin canyon appear";

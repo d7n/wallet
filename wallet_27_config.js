@@ -1,1 +1,1 @@
-var mnemonic = "soup copy luggage tomorrow hurt enlist pipe rotate silly coast design cause";
+var mnemonic = "spy life bring boy staff solid caution ignore oppose detail tank once";

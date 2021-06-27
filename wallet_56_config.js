@@ -1,1 +1,1 @@
-var mnemonic = "claw exclude manage attitude aunt split census escape path clever arena ordinary";
+var mnemonic = "ready audit witness tower senior exhaust spin citizen guilt notable drink flash";

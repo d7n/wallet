@@ -1,1 +1,1 @@
-var mnemonic = "kiwi alarm volume recipe solid mobile toy forum swear kidney hungry drum";
+var mnemonic = "nature ecology chicken better universe mail together eight custom skate build fish";

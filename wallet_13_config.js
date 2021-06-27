@@ -1,1 +1,1 @@
-var mnemonic = "fish adapt fashion embrace tree fat uncle ghost leisure charge remove square";
+var mnemonic = "medal average dinner muffin rare ketchup diet fox rare swap crystal tower";

@@ -1,1 +1,1 @@
-var mnemonic = "cover web talk until test alert rack carbon tomorrow science result frost";
+var mnemonic = "ring ridge price vacuum include tooth cruel merit home twice defense army";

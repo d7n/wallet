@@ -1,1 +1,1 @@
-var mnemonic = "ignore dice pact mystery banana domain crane differ crouch stool field episode";
+var mnemonic = "hotel quantum time congress useful spice wire distance domain whip village dwarf";

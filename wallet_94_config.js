@@ -1,1 +1,1 @@
-var mnemonic = "win narrow sentence shock taste duck various illness update torch heart begin";
+var mnemonic = "cinnamon write pencil stand knock hill riot warrior share cupboard neutral zebra";

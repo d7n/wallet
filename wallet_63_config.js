@@ -1,1 +1,1 @@
-var mnemonic = "link talk accident prepare chunk air engage gravity develop page rate region";
+var mnemonic = "goat monitor attend slam enjoy betray elevator interest narrow february sight fence";

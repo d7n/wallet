@@ -1,1 +1,1 @@
-var mnemonic = "original write spoon code valid note lock occur sunset head wink juice";
+var mnemonic = "grunt swift finish frozen tiger derive remember myself summer tone hour trap";

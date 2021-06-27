@@ -1,1 +1,1 @@
-var mnemonic = "east hospital owner trigger shoot market tip tree deposit whisper timber garage";
+var mnemonic = "lecture correct drill review castle wait entry symptom shoot tattoo doctor despair";

@@ -1,1 +1,1 @@
-var mnemonic = "remember job ankle okay dentist entry street smoke spy lunch vital lounge";
+var mnemonic = "empty repeat battle brick soda cargo minimum predict select grocery tonight scheme";

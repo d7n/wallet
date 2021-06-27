@@ -1,1 +1,1 @@
-var mnemonic = "under arrive breeze power soon reward spring unit blanket tongue elder tube";
+var mnemonic = "boil patient cotton remove hero drop love apart kind cement resemble acquire";

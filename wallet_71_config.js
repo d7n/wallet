@@ -1,1 +1,1 @@
-var mnemonic = "someone evoke just actor struggle comfort method under hill crop ribbon empower";
+var mnemonic = "odor buddy initial repair day either pear pond virus plastic interest radio";

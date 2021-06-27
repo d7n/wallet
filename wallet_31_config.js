@@ -1,1 +1,1 @@
-var mnemonic = "hello unusual romance wait evoke alter little lecture apple then rocket velvet";
+var mnemonic = "taste hollow eager card rule second base boat possible forest join brother";

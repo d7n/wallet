@@ -1,1 +1,1 @@
-var mnemonic = "awkward ability nation window hidden produce mule struggle apple boat property oblige";
+var mnemonic = "symptom tunnel chase between shoe street juice unable silver say suggest mixture";

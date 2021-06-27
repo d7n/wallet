@@ -1,1 +1,1 @@
-var mnemonic = "rookie wage satoshi exhaust own peanut check thing love gospel insect nose";
+var mnemonic = "wing correct logic theme bone yard saddle direct column vast buffalo sell";

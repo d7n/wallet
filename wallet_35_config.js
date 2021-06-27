@@ -1,1 +1,1 @@
-var mnemonic = "junk penalty breeze indicate leave tell rival asthma seek wife tone clutch";
+var mnemonic = "update miss column verb labor husband surprise glow lecture insane wool duty";

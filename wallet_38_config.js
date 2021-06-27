@@ -1,1 +1,1 @@
-var mnemonic = "sock wheat enforce wink emotion donkey desert grass burger tomorrow sing surge";
+var mnemonic = "okay undo child large bike panda push wisdom fever salon hundred town";

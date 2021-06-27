@@ -1,1 +1,1 @@
-var mnemonic = "clever velvet away access aerobic marine nothing blue recall shed home divorce";
+var mnemonic = "alert visit tooth accuse else already proof settle people cricket become act";

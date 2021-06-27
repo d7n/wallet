@@ -1,1 +1,1 @@
-var mnemonic = "horror dolphin this impact tornado draft guide fold youth expand usual universe";
+var mnemonic = "prize silly grant traffic guitar window consider clean bless use arrange polar";

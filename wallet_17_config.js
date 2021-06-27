@@ -1,1 +1,1 @@
-var mnemonic = "rapid hip rather gadget lucky dice priority amount science strong swap coconut";
+var mnemonic = "also blue ready erode common shock useful pass popular jelly dignity year";

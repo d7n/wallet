@@ -1,1 +1,1 @@
-var mnemonic = "gentle lawn evoke spend worry face vicious december soldier pledge exist anxiety";
+var mnemonic = "snack remind jacket pond bulb voice effort element unusual castle defense seek";

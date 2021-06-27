@@ -1,1 +1,1 @@
-var mnemonic = "render hurt response pull melody sunny vital sign lamp deny song hungry";
+var mnemonic = "verb agent fog quantum easily split lava laptop then box hope pizza";

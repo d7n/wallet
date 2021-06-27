@@ -1,1 +1,1 @@
-var mnemonic = "mesh target tunnel subway oak exile chat hand inherit soon label vocal";
+var mnemonic = "essay produce search pride joy music impulse rigid exhaust erase guess valley";

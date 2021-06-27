@@ -1,1 +1,1 @@
-var mnemonic = "butter indicate benefit impose report apple tired bean target season shock grocery";
+var mnemonic = "six helmet supreme orchard image cry lock more resemble butter minute parade";

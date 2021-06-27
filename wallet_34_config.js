@@ -1,1 +1,1 @@
-var mnemonic = "clock silver charge utility erosion surprise initial want blur expand joke faith";
+var mnemonic = "text garlic drill praise image match hamster buddy museum chef sight radio";

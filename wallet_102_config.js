@@ -1,1 +1,1 @@
-var mnemonic = "hint vague flag put nut sibling since accuse sense file weekend border";
+var mnemonic = "family ensure impulse fresh subway select will balcony welcome object hurdle lottery";

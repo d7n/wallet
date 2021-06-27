@@ -1,1 +1,1 @@
-var mnemonic = "garlic bright carbon slide loud plastic trip logic zoo wedding picnic puppy";
+var mnemonic = "boss parade table culture ability fiction input ski fossil crime spoon axis";

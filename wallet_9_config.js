@@ -1,1 +1,1 @@
-var mnemonic = "treat pigeon search wisdom harvest walnut toward engine similar empower tongue april";
+var mnemonic = "grab absurd material minute exotic balcony virtual early better critic vague breeze";

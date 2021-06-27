@@ -1,1 +1,1 @@
-var mnemonic = "attack bamboo sauce crack music main forward tree perfect accuse record harsh";
+var mnemonic = "disease sting mule casual over resist valid opinion balcony mail oval display";

@@ -1,1 +1,1 @@
-var mnemonic = "pig void pet country cause dragon aspect dash elite night spring ripple";
+var mnemonic = "novel pet south city extra hedgehog salad entire bulk eyebrow pony asset";

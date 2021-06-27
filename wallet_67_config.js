@@ -1,1 +1,1 @@
-var mnemonic = "balance eye glue make kangaroo silent capital crew novel secret anger disagree";
+var mnemonic = "give special erode one kiwi measure admit document view verb trade seed";

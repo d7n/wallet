@@ -1,1 +1,1 @@
-var mnemonic = "steel imitate mention kidney twist liar nerve example memory economy rocket escape";
+var mnemonic = "final limit message orange nothing search aware exist vault tag coil weather";

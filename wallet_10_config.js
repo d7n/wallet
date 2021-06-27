@@ -1,1 +1,1 @@
-var mnemonic = "solution few short bus stool parrot duck green nerve kitchen stuff vehicle";
+var mnemonic = "crystal domain tongue any story cable blue deal bitter obvious moral melt";

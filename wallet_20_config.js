@@ -1,1 +1,1 @@
-var mnemonic = "stove cupboard shuffle whale angry walk brain enrich fiscal reopen business door";
+var mnemonic = "hat cigar soda road client system loyal adjust seek abuse menu affair";

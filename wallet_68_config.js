@@ -1,1 +1,1 @@
-var mnemonic = "oxygen resemble various enable mind gun dignity skin enemy tip stool shuffle";
+var mnemonic = "large obvious swear shadow word boss matter sense crawl athlete myth toward";

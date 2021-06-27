@@ -1,1 +1,1 @@
-var mnemonic = "coffee ancient they tag tourist shed sample cherry shoot flavor credit awkward";
+var mnemonic = "sock sadness music solid dinosaur tank tank catch patrol roast rack wet";

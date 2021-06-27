@@ -1,1 +1,1 @@
-var mnemonic = "poet link output thought steak rally spider video exclude quit various cigar";
+var mnemonic = "donkey before blast absent hair wolf brand tiny love impulse long two";

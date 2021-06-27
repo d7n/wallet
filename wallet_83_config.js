@@ -1,1 +1,1 @@
-var mnemonic = "detect can walnut poverty distance vault normal subject vast federal illness burden";
+var mnemonic = "blood tip mass brave lyrics brain fiction spring oval obtain welcome embody";

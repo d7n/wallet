@@ -1,1 +1,1 @@
-var mnemonic = "outdoor depart cross hood omit hockey comfort spread become monkey olympic useful";
+var mnemonic = "pepper mechanic visit inmate canal napkin indoor where eyebrow orbit person below";

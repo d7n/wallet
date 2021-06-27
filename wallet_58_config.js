@@ -1,1 +1,1 @@
-var mnemonic = "salmon robust fall business glad general pipe van also client dwarf vast";
+var mnemonic = "amount else frozen diary gorilla about pulse bullet opera owner absurd mom";

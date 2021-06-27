@@ -1,1 +1,1 @@
-var mnemonic = "sight surge pave seat business film cousin ride laundry tiger speak timber";
+var mnemonic = "typical curtain water tent rack rebuild embrace utility bind charge empower repair";

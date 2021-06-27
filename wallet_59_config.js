@@ -1,1 +1,1 @@
-var mnemonic = "emotion flight pipe fatal wedding output ill denial usual fashion frog inform";
+var mnemonic = "leave milk cloud state decline nation chicken champion call slogan flower romance";

@@ -1,1 +1,1 @@
-var mnemonic = "drop gown luxury buddy cinnamon reveal century sell clap habit kite erase";
+var mnemonic = "luxury daughter regret vault height viable final urban such material borrow camp";

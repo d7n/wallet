@@ -1,1 +1,1 @@
-var mnemonic = "spoil process depart error ensure magic earth predict below check rent issue";
+var mnemonic = "release soul mean dentist slush purity off joy find broom oak eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "bubble input strong victory kiwi weird trim segment similar program rich pelican";
+var mnemonic = "follow polar imitate rescue pepper today elite report raise box bronze slender";

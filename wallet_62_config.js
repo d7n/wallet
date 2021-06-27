@@ -1,1 +1,1 @@
-var mnemonic = "acoustic horror brave mutual economy thumb gospel top monster scan put twenty";
+var mnemonic = "toast prison hundred worry oven inform master toss layer happy boil weekend";

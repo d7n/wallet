@@ -1,1 +1,1 @@
-var mnemonic = "fame ceiling second rack give artwork echo sample swarm great crew apart";
+var mnemonic = "reflect title afraid average myself ill tobacco future come display dad dentist";

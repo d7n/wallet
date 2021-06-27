@@ -1,1 +1,1 @@
-var mnemonic = "ladder song hat orange visit fluid evidence poet dumb energy laugh city";
+var mnemonic = "interest hen cannon exit crazy try endorse excuse glow response nephew stem";

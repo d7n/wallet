@@ -1,1 +1,1 @@
-var mnemonic = "dismiss glory scrub finish mail few update tell reveal raw laundry else";
+var mnemonic = "piece tongue load thumb rotate cabbage ahead capable envelope fragile season purity";
