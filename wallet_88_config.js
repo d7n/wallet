@@ -1,1 +1,1 @@
-var mnemonic = "snack remind jacket pond bulb voice effort element unusual castle defense seek";
+var mnemonic = "rural kidney mention valid save nature fantasy assume tip debris floor draw";

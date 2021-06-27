@@ -1,1 +1,1 @@
-var mnemonic = "cost open credit fantasy mean day tunnel melody leaf admit clinic text";
+var mnemonic = "trap taxi awkward flame grass either warm moment lonely nature enter suspect";

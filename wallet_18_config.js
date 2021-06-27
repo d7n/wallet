@@ -1,1 +1,1 @@
-var mnemonic = "rapid bitter know coyote warm you burger large eager head design nuclear";
+var mnemonic = "allow shallow club same twice flower slice sphere east have equal ocean";

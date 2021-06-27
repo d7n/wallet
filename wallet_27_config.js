@@ -1,1 +1,1 @@
-var mnemonic = "spy life bring boy staff solid caution ignore oppose detail tank once";
+var mnemonic = "mountain guilt strong ostrich cry stick boat spend cement portion tourist secret";

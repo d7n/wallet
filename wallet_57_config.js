@@ -1,1 +1,1 @@
-var mnemonic = "napkin waste resist evil mother half chronic way buffalo want boring monkey";
+var mnemonic = "wagon float loud phrase evolve wheat cargo bone desert force pass worth";

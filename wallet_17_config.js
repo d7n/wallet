@@ -1,1 +1,1 @@
-var mnemonic = "also blue ready erode common shock useful pass popular jelly dignity year";
+var mnemonic = "blood area forget track shoot axis split puzzle slight dwarf festival hospital";

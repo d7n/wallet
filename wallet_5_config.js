@@ -1,1 +1,1 @@
-var mnemonic = "correct exile cannon stock dish work seven usual clump ring artist weasel";
+var mnemonic = "rally junk bind budget puzzle lumber fancy simple mechanic dignity arrange thank";

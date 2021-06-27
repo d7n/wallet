@@ -1,1 +1,1 @@
-var mnemonic = "nature ecology chicken better universe mail together eight custom skate build fish";
+var mnemonic = "enforce blast roast inhale nerve violin luggage between fuel scrub slogan alert";

@@ -1,1 +1,1 @@
-var mnemonic = "taste hollow eager card rule second base boat possible forest join brother";
+var mnemonic = "absorb exercise cheese cousin pull kick misery network face alien brass moment";

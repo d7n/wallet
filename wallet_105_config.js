@@ -1,1 +1,1 @@
-var mnemonic = "release soul mean dentist slush purity off joy find broom oak eternal";
+var mnemonic = "faith antenna feed science push issue cube depend canoe crazy below silk";

@@ -1,1 +1,1 @@
-var mnemonic = "typical curtain water tent rack rebuild embrace utility bind charge empower repair";
+var mnemonic = "ill coin modify fish town grit chronic pitch boil success flip verb";

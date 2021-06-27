@@ -1,1 +1,1 @@
-var mnemonic = "young staff weather trend hello deposit damp when clump plate real mesh";
+var mnemonic = "service flag frown tonight fire elbow midnight spice latin donkey rigid author";

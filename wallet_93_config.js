@@ -1,1 +1,1 @@
-var mnemonic = "budget three humble jaguar weird game initial protect blue brand blur release";
+var mnemonic = "plastic tiger room quarter wear rigid version quantum sort future thought tumble";

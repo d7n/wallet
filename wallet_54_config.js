@@ -1,1 +1,1 @@
-var mnemonic = "explain bubble turtle future inherit execute fix invest lawn success modify zebra";
+var mnemonic = "apart license knee street tomato wine offer design fashion better charge fall";

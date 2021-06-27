@@ -1,1 +1,1 @@
-var mnemonic = "luxury daughter regret vault height viable final urban such material borrow camp";
+var mnemonic = "rubber reunion series mass nut share cram secret staff broom raise spatial";

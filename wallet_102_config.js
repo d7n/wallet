@@ -1,1 +1,1 @@
-var mnemonic = "family ensure impulse fresh subway select will balcony welcome object hurdle lottery";
+var mnemonic = "stuff love team ostrich cabin potato way find wet trick reform enter";

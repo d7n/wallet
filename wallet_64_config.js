@@ -1,1 +1,1 @@
-var mnemonic = "city dash employ mirror phrase second range dice shoot mind loyal liberty";
+var mnemonic = "worry window fox wing afraid fatal rare reject simple betray differ often";

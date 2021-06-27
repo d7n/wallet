@@ -1,1 +1,1 @@
-var mnemonic = "mountain card pair sign capable own camera because boat hold little crop";
+var mnemonic = "witness essay cheap thing universe concert man gold hurry glue grid march";

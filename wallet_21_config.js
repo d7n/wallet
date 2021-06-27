@@ -1,1 +1,1 @@
-var mnemonic = "prize silly grant traffic guitar window consider clean bless use arrange polar";
+var mnemonic = "cram gate match border copper coral imitate crane beach ghost grass despair";

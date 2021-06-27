@@ -1,1 +1,1 @@
-var mnemonic = "filter immune rib very orange urge memory drink hedgehog random liberty science";
+var mnemonic = "hole illness slice burger select joke dolphin honey hello donor used excess";

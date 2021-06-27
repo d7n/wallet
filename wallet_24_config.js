@@ -1,1 +1,1 @@
-var mnemonic = "hotel quantum time congress useful spice wire distance domain whip village dwarf";
+var mnemonic = "plug hair canvas cabin beauty dash hockey multiply case vacant school trend";

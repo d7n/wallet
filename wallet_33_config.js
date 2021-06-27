@@ -1,1 +1,1 @@
-var mnemonic = "lecture crop series punch penalty educate express fragile pepper remind poem match";
+var mnemonic = "cage pluck element romance small author water design capable guard surface destroy";

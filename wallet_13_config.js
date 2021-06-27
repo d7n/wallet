@@ -1,1 +1,1 @@
-var mnemonic = "medal average dinner muffin rare ketchup diet fox rare swap crystal tower";
+var mnemonic = "silver axis toe fiction tooth dinosaur palm ignore buffalo two whip magnet";

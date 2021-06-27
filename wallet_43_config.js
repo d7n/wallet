@@ -1,1 +1,1 @@
-var mnemonic = "follow polar imitate rescue pepper today elite report raise box bronze slender";
+var mnemonic = "twist fog east burden cube cluster ritual stand oblige polar rain fury";

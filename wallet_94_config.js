@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon write pencil stand knock hill riot warrior share cupboard neutral zebra";
+var mnemonic = "control night abstract retreat isolate tomato grid wide ancient sorry negative review";

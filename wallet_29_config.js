@@ -1,1 +1,1 @@
-var mnemonic = "gaze female animal illegal below coast donor casual eager winner misery fly";
+var mnemonic = "today balcony left mechanic fruit wasp celery lumber radio universe stone drip";

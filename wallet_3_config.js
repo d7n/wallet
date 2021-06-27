@@ -1,1 +1,1 @@
-var mnemonic = "control program victory still shield enable visual saddle dolphin actual sword tenant";
+var mnemonic = "ticket truly hen exist despair kitten trigger swarm vacuum salt abandon random";

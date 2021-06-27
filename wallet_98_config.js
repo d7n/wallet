@@ -1,1 +1,1 @@
-var mnemonic = "involve magic chimney hill judge dwarf bid senior there cave mutual trust";
+var mnemonic = "talent pottery result conduct chest ankle right endorse undo glide balance detect";

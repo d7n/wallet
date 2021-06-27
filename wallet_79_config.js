@@ -1,1 +1,1 @@
-var mnemonic = "wing correct logic theme bone yard saddle direct column vast buffalo sell";
+var mnemonic = "above bunker spread resist tank resemble toe exclude liar bar erode small";

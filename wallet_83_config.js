@@ -1,1 +1,1 @@
-var mnemonic = "blood tip mass brave lyrics brain fiction spring oval obtain welcome embody";
+var mnemonic = "few orbit charge author dynamic proud fresh entire planet pupil model demise";

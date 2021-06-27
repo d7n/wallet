@@ -1,1 +1,1 @@
-var mnemonic = "train ivory they pattern rug outside seven ancient actress kitchen visa victory";
+var mnemonic = "because crop squeeze snake rebel absurd palm surge manage secret satoshi interest";

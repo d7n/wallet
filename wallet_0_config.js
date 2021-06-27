@@ -1,1 +1,1 @@
-var mnemonic = "pair pudding mask hundred buddy tilt lyrics citizen stuff one curtain food";
+var mnemonic = "final shrimp fatal print vehicle resist doctor unit truck situate depth boring";

@@ -1,1 +1,1 @@
-var mnemonic = "consider essay paper festival fit horror keep potato manage junk ahead neither";
+var mnemonic = "device sauce cause ice flush duty transfer category dutch ride pipe better";

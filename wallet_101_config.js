@@ -1,1 +1,1 @@
-var mnemonic = "wheat hospital party pipe tag shrimp obvious wrong bottom enemy glance maximum";
+var mnemonic = "clown supply negative release city moral brain taste remember vintage jungle essay";

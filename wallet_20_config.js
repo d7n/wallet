@@ -1,1 +1,1 @@
-var mnemonic = "hat cigar soda road client system loyal adjust seek abuse menu affair";
+var mnemonic = "skirt museum once kit brush pattern catalog symptom learn roast shadow choose";

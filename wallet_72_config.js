@@ -1,1 +1,1 @@
-var mnemonic = "grunt swift finish frozen tiger derive remember myself summer tone hour trap";
+var mnemonic = "replace lizard middle similar cigar swift milk distance youth result machine evidence";

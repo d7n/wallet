@@ -1,1 +1,1 @@
-var mnemonic = "ring ridge price vacuum include tooth cruel merit home twice defense army";
+var mnemonic = "stamp crack card siege dragon rally silent mechanic profit gym excite safe";

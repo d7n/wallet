@@ -1,1 +1,1 @@
-var mnemonic = "spoon dilemma cake burden yellow column hurdle drive detect domain phrase century";
+var mnemonic = "knife loyal oppose stem laptop load noodle rail trim melody small major";

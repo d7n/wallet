@@ -1,1 +1,1 @@
-var mnemonic = "chapter turn element prize blanket age excuse omit fabric that setup ship";
+var mnemonic = "salad amused damp degree assume wait noble guide aim caution upgrade brisk";

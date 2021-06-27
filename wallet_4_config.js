@@ -1,1 +1,1 @@
-var mnemonic = "six helmet supreme orchard image cry lock more resemble butter minute parade";
+var mnemonic = "thrive hotel blanket clarify tired medal cash radio excite rib salute blame";

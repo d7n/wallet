@@ -1,1 +1,1 @@
-var mnemonic = "leave milk cloud state decline nation chicken champion call slogan flower romance";
+var mnemonic = "tool margin oppose hockey glory accuse pear step wet adjust crucial roast";

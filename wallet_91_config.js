@@ -1,1 +1,1 @@
-var mnemonic = "initial level screen bean eager panel toast decrease system control song network";
+var mnemonic = "kingdom purpose town genius naive pipe setup outer creek answer axis idea";

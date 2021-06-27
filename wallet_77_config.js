@@ -1,1 +1,1 @@
-var mnemonic = "knee chuckle noble permit shell stove satoshi hello castle differ flock congress";
+var mnemonic = "auto any insane way tortoise record car squirrel bike file gauge address";

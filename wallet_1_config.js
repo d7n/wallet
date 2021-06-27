@@ -1,1 +1,1 @@
-var mnemonic = "click usage rocket kingdom solution melt myself demand room crowd autumn build";
+var mnemonic = "cancel arena cushion ceiling volcano wave film salad embark shield put payment";

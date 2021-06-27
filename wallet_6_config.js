@@ -1,1 +1,1 @@
-var mnemonic = "piece tongue load thumb rotate cabbage ahead capable envelope fragile season purity";
+var mnemonic = "evidence priority amount benefit series over silent daughter bread misery popular fee";

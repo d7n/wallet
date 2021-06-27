@@ -1,1 +1,1 @@
-var mnemonic = "drive metal sponsor burger violin system source make muscle ecology between divide";
+var mnemonic = "inmate success frown zone mad pilot skirt smart supply state struggle situate";

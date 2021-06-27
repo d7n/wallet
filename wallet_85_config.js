@@ -1,1 +1,1 @@
-var mnemonic = "novel pet south city extra hedgehog salad entire bulk eyebrow pony asset";
+var mnemonic = "turkey comic utility already nurse floor size angry core evil sign oil";

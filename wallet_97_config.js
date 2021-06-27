@@ -1,1 +1,1 @@
-var mnemonic = "better city slender net soul core pilot fatal drink faculty vacuum wire";
+var mnemonic = "gain senior attract fury debate income echo syrup iron tube south voyage";

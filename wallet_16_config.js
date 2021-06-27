@@ -1,1 +1,1 @@
-var mnemonic = "rib case spice offer squeeze main immune whisper choose toilet regular nation";
+var mnemonic = "either core virus broccoli clump shoot bar question label pitch fiber frequent";

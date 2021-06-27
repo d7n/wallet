@@ -1,1 +1,1 @@
-var mnemonic = "donkey before blast absent hair wolf brand tiny love impulse long two";
+var mnemonic = "battle weekend build busy trigger adjust kitchen mammal mandate toast dinner cannon";

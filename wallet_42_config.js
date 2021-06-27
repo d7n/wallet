@@ -1,1 +1,1 @@
-var mnemonic = "task anchor merit holiday exclude solar warrior heart flame once surround seek";
+var mnemonic = "nice position price example soft arch donate give foot arctic brain blast";

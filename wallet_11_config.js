@@ -1,1 +1,1 @@
-var mnemonic = "lecture correct drill review castle wait entry symptom shoot tattoo doctor despair";
+var mnemonic = "goose bulk boss tiger style airport country like vast wash ask sense";

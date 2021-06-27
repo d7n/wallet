@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur orange rib place end hole zero cube erode negative resemble boring";
+var mnemonic = "derive bone toss raise bunker unusual pond saddle physical best about tunnel";

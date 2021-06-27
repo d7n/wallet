@@ -1,1 +1,1 @@
-var mnemonic = "amount else frozen diary gorilla about pulse bullet opera owner absurd mom";
+var mnemonic = "legend nest swing undo student liberty force year brother blast give anchor";

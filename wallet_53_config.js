@@ -1,1 +1,1 @@
-var mnemonic = "manual return hungry hill assault steel toy fault guilt execute exhibit muffin";
+var mnemonic = "today purpose marble tomato glad burst afford swarm rebel hat beyond gap";

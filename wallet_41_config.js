@@ -1,1 +1,1 @@
-var mnemonic = "scrub average embody brand joy strategy chicken element common vocal october hole";
+var mnemonic = "number custom indoor leg galaxy fold magnet rail fat relief fringe endless";

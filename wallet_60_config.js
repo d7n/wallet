@@ -1,1 +1,1 @@
-var mnemonic = "race ordinary tired boat decrease grit fine armor ozone horror range boil";
+var mnemonic = "afraid object essence life tilt okay essence bar refuse seminar imitate sheriff";

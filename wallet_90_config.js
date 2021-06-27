@@ -1,1 +1,1 @@
-var mnemonic = "fury uphold flag patient pyramid music point avoid erase goat dove phrase";
+var mnemonic = "vote apple grocery already addict north course ready sting bacon source accident";

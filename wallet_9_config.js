@@ -1,1 +1,1 @@
-var mnemonic = "grab absurd material minute exotic balcony virtual early better critic vague breeze";
+var mnemonic = "vital silver pet attend small forget leave program raven unusual mosquito ill";

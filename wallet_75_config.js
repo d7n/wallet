@@ -1,1 +1,1 @@
-var mnemonic = "nice frequent naive long lens skirt gossip solid visual essay kit crew";
+var mnemonic = "gold this term worry manage head turn frame help depend bomb jazz";

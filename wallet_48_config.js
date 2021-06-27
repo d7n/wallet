@@ -1,1 +1,1 @@
-var mnemonic = "syrup juice invite dial decorate favorite deliver side net okay merge elephant";
+var mnemonic = "two genre dolphin feed labor joke keep van earth crack power produce";

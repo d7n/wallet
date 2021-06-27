@@ -1,1 +1,1 @@
-var mnemonic = "crystal domain tongue any story cable blue deal bitter obvious moral melt";
+var mnemonic = "coconut manual toddler drama lumber hood together toy wagon bounce spin bonus";

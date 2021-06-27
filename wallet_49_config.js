@@ -1,1 +1,1 @@
-var mnemonic = "mixed sign alcohol behave eyebrow mistake brief limb boost replace exist lyrics";
+var mnemonic = "soft siege glance matter win stem couple please profit steel segment level";

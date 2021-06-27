@@ -1,1 +1,1 @@
-var mnemonic = "give special erode one kiwi measure admit document view verb trade seed";
+var mnemonic = "cry fancy orient already remain physical zero empty injury width ignore buzz";

@@ -1,1 +1,1 @@
-var mnemonic = "toy deputy tongue hockey quarter photo consider insect initial violin canyon appear";
+var mnemonic = "beauty tribe vehicle notable inch idea mention pilot lock pupil thunder spawn";

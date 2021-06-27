@@ -1,1 +1,1 @@
-var mnemonic = "disease sting mule casual over resist valid opinion balcony mail oval display";
+var mnemonic = "swallow noble amateur allow recipe judge obtain knife ritual series predict alley";

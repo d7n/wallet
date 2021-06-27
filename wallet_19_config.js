@@ -1,1 +1,1 @@
-var mnemonic = "chicken solid grain lecture combine slam coast hurdle else pelican yard message";
+var mnemonic = "warrior village long mandate spider private bullet develop husband live age galaxy";

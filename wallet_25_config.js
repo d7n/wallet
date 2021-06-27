@@ -1,1 +1,1 @@
-var mnemonic = "pepper mechanic visit inmate canal napkin indoor where eyebrow orbit person below";
+var mnemonic = "prevent blame exercise match diagram benefit onion come silver purity hurt accident";

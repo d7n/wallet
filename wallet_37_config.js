@@ -1,1 +1,1 @@
-var mnemonic = "soap ecology indoor nephew eight regret clap ill city aerobic swarm trophy";
+var mnemonic = "pig present obvious neglect valve limb mutual father olympic volume equip finger";

@@ -1,1 +1,1 @@
-var mnemonic = "unusual orchard math seat trial silk wheat gallery mystery public plunge gospel";
+var mnemonic = "universe pottery merry jealous must crisp elephant cereal broccoli turkey ramp narrow";

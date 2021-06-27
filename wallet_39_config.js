@@ -1,1 +1,1 @@
-var mnemonic = "final limit message orange nothing search aware exist vault tag coil weather";
+var mnemonic = "rocket gesture absorb perfect dream slim foil phrase into slender flight all";

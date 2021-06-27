@@ -1,1 +1,1 @@
-var mnemonic = "escape match vintage human popular wood bar piece border auction pen popular";
+var mnemonic = "scrub public matter lunch material horse wink west drip tool curtain blade";

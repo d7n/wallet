@@ -1,1 +1,1 @@
-var mnemonic = "push ripple rescue hope shine outside arrow click angle chalk stairs domain";
+var mnemonic = "lion net layer birth add scan gas puzzle river item patrol shadow";

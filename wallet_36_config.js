@@ -1,1 +1,1 @@
-var mnemonic = "goose rain entire host major task slow brass trend vast only sock";
+var mnemonic = "taxi scan flash helmet glove piano reject teach gift feature motion loop";

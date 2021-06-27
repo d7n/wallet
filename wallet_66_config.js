@@ -1,1 +1,1 @@
-var mnemonic = "cigar peace churn raccoon hurdle silly menu letter resemble bulk utility screen";
+var mnemonic = "scatter door recall coral survey finish spider genius ignore notice cook rifle";

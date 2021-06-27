@@ -1,1 +1,1 @@
-var mnemonic = "update miss column verb labor husband surprise glow lecture insane wool duty";
+var mnemonic = "ginger decrease grab pen artist pluck leave scissors busy volcano soda toss";

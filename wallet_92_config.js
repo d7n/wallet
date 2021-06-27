@@ -1,1 +1,1 @@
-var mnemonic = "alert visit tooth accuse else already proof settle people cricket become act";
+var mnemonic = "wagon flash vivid write inner wasp cargo breeze pause empower owner pass";

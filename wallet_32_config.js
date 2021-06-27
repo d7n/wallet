@@ -1,1 +1,1 @@
-var mnemonic = "enemy include syrup talent river write double acquire ill section lake weapon";
+var mnemonic = "asthma enlist bicycle surge anger business best much web range split mammal";

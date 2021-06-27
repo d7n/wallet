@@ -1,1 +1,1 @@
-var mnemonic = "modify pumpkin enlist spray lazy bread slush middle together viable orchard runway";
+var mnemonic = "orphan only year turkey hurry imitate test public fault card original stove";

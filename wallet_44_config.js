@@ -1,1 +1,1 @@
-var mnemonic = "buffalo slender heavy muscle hybrid push rapid age tiny axis amount speed";
+var mnemonic = "clean artefact crystal nerve gas valley item evil ribbon web exclude face";

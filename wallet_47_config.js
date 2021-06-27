@@ -1,1 +1,1 @@
-var mnemonic = "nut text fluid explain burger session spirit smile embark million spend crisp";
+var mnemonic = "adult bind rib elbow figure fatal question perfect shallow about bread seminar";

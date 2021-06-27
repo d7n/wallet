@@ -1,1 +1,1 @@
-var mnemonic = "symptom tunnel chase between shoe street juice unable silver say suggest mixture";
+var mnemonic = "cushion rebuild again rhythm gentle key usage glimpse elephant bid juice muffin";

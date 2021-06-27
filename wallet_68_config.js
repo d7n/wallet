@@ -1,1 +1,1 @@
-var mnemonic = "large obvious swear shadow word boss matter sense crawl athlete myth toward";
+var mnemonic = "amused coconut potato badge silent fitness artist code gaze rocket loud mixed";

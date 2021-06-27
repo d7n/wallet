@@ -1,1 +1,1 @@
-var mnemonic = "okay undo child large bike panda push wisdom fever salon hundred town";
+var mnemonic = "betray race payment split hurdle misery hidden net credit ready ladder judge";

@@ -1,1 +1,1 @@
-var mnemonic = "verb agent fog quantum easily split lava laptop then box hope pizza";
+var mnemonic = "choose matrix crush umbrella story unlock dirt subject shove okay escape turtle";

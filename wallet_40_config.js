@@ -1,1 +1,1 @@
-var mnemonic = "empty repeat battle brick soda cargo minimum predict select grocery tonight scheme";
+var mnemonic = "entire rotate fetch eight creek hire physical olympic inflict wreck rough umbrella";

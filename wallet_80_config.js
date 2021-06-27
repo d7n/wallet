@@ -1,1 +1,1 @@
-var mnemonic = "bachelor attitude portion distance swamp erode change property gas march another napkin";
+var mnemonic = "have rug liquid lunch enemy shadow sweet mirror mixture combine document example";

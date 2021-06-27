@@ -1,1 +1,1 @@
-var mnemonic = "boss parade table culture ability fiction input ski fossil crime spoon axis";
+var mnemonic = "dragon eyebrow route embrace used control cake rocket clog actor harsh salmon";

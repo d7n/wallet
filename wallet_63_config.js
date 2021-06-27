@@ -1,1 +1,1 @@
-var mnemonic = "goat monitor attend slam enjoy betray elevator interest narrow february sight fence";
+var mnemonic = "crop sugar simple actual choice proof flush weasel merit envelope such video";

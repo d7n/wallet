@@ -1,1 +1,1 @@
-var mnemonic = "odor buddy initial repair day either pear pond virus plastic interest radio";
+var mnemonic = "eager arrow betray enlist mix body volume congress must stock penalty admit";
