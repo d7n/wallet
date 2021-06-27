@@ -1,1 +1,1 @@
-var mnemonic = "sail decide ensure curtain smoke laugh maze cliff lyrics urge muffin clay";
+var mnemonic = "drive market pledge tribe mail home assume habit blood episode ripple prison";

@@ -1,1 +1,1 @@
-var mnemonic = "supreme age mammal please upper pigeon behind cream attend shell desk shiver";
+var mnemonic = "prepare tiny clap damp month blade chaos tired nose title quality famous";

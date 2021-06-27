@@ -1,1 +1,1 @@
-var mnemonic = "end dumb adapt flight allow join fossil sell punch fever ethics depth";
+var mnemonic = "soldier coyote ski link choice oppose desert affair doll adjust control hair";

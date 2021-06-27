@@ -1,1 +1,1 @@
-var mnemonic = "burden good hood spot pencil essence come vanish add shrimp deer camp";
+var mnemonic = "hobby angle design camp robot stamp lizard invite guard file under utility";

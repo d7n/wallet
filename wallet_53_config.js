@@ -1,1 +1,1 @@
-var mnemonic = "burger stone swear cabbage that rally art survey skill loop neither claw";
+var mnemonic = "music stereo cheap injury maple prefer amused fame brain actress wrap chimney";

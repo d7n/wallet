@@ -1,1 +1,1 @@
-var mnemonic = "cargo town boil direct bring engine spare air art all oppose pluck";
+var mnemonic = "early girl carpet choice drill beauty peanut thrive enable wasp october size";

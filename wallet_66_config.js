@@ -1,1 +1,1 @@
-var mnemonic = "spare vague above educate pull limb produce finger skull breeze spring regret";
+var mnemonic = "congress canal thought rookie laugh change elite sniff wool paddle purity alien";

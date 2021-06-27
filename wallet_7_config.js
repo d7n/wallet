@@ -1,1 +1,1 @@
-var mnemonic = "salt census rapid draft brown tone author bus move oak modify shoe";
+var mnemonic = "safe census earth bargain author agree cereal famous camera hill burst march";

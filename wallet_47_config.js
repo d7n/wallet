@@ -1,1 +1,1 @@
-var mnemonic = "labor kite swarm best secret buffalo dog rival lift bundle feed double";
+var mnemonic = "snake ship blouse image tide favorite lesson canoe sunny icon session cereal";

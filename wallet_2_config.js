@@ -1,1 +1,1 @@
-var mnemonic = "exotic swarm entire capable hole chronic swim stay unfair input energy barrel";
+var mnemonic = "fetch waste lottery ritual student mimic clean lobster clump jacket replace garlic";

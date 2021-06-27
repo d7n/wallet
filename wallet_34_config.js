@@ -1,1 +1,1 @@
-var mnemonic = "emotion photo tobacco tide clap hair jaguar marine cigar great another blade";
+var mnemonic = "diary pill wish bright boring plastic just school alley buffalo laugh bean";

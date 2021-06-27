@@ -1,1 +1,1 @@
-var mnemonic = "lion awake lesson belt reflect rookie good upper mandate crane spike cave";
+var mnemonic = "fetch song creek army method process slab radar misery bleak scrub mansion";

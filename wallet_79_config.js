@@ -1,1 +1,1 @@
-var mnemonic = "proof person physical tomorrow exist process sad distance frog renew smooth claw";
+var mnemonic = "dose lyrics force soccer zoo immense prosper clock enemy system tower reject";

@@ -1,1 +1,1 @@
-var mnemonic = "toddler romance inch wish impose track wreck urge admit swarm avocado range";
+var mnemonic = "hill frequent goose helmet trumpet middle cage nerve grant column goddess maximum";

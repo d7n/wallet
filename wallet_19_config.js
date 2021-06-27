@@ -1,1 +1,1 @@
-var mnemonic = "duck odor convince emotion dilemma action famous mercy year mobile glare wish";
+var mnemonic = "fiber goat mix approve blanket attend auto stool hurdle divert replace fuel";

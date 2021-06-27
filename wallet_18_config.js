@@ -1,1 +1,1 @@
-var mnemonic = "cabin helmet bench strike fit vague fuel decline leader riot cloth document";
+var mnemonic = "sheriff device burden term reflect owner suggest animal coffee clever safe rocket";

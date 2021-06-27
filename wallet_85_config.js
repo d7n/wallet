@@ -1,1 +1,1 @@
-var mnemonic = "shell color rich distance stable net shoulder social genre scatter lobster south";
+var mnemonic = "pig sock gaze purchase boat fly reduce picnic party situate today fancy";

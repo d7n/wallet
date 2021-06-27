@@ -1,1 +1,1 @@
-var mnemonic = "time favorite issue ugly bargain flat novel elegant inner pill help obtain";
+var mnemonic = "license bind quality route fluid wild remain flight bind dutch opera shoot";

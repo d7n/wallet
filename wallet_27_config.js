@@ -1,1 +1,1 @@
-var mnemonic = "come random tray sun punch swarm cradle marine shuffle such noodle there";
+var mnemonic = "wisdom eagle rely brief rely gain memory lava donkey flat minute naive";

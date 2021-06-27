@@ -1,1 +1,1 @@
-var mnemonic = "ivory embark club media truck expire dinner green bulb broken knife general";
+var mnemonic = "bomb you purse polar dinosaur height memory wait strong denial scene jar";

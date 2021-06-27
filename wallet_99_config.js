@@ -1,1 +1,1 @@
-var mnemonic = "exercise divert avocado rule mixture romance measure bleak dance charge robot decline";
+var mnemonic = "bonus swift hub soon symptom blossom phone among cat bunker chaos misery";

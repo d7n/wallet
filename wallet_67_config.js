@@ -1,1 +1,1 @@
-var mnemonic = "favorite army find series width walnut museum appear shallow cover monster note";
+var mnemonic = "animal already glove learn settle dash tank rabbit august bus harbor noble";

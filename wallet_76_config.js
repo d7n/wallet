@@ -1,1 +1,1 @@
-var mnemonic = "refuse gym abstract remind joy planet size walnut veteran conduct episode wrestle";
+var mnemonic = "project jaguar roast clerk prize illegal canyon occur lamp battle can fossil";

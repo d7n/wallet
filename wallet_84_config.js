@@ -1,1 +1,1 @@
-var mnemonic = "scissors retreat satoshi penalty cargo horse grit axis trim powder control sponsor";
+var mnemonic = "feed gate join test system hamster polar desk invest vintage thunder indicate";

@@ -1,1 +1,1 @@
-var mnemonic = "bitter input long man slam blanket cable unique manual immune chef destroy";
+var mnemonic = "enforce fire unhappy know duck cousin sausage end snack nose winner process";

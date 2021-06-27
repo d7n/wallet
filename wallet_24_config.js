@@ -1,1 +1,1 @@
-var mnemonic = "pistol begin sibling minute ugly solve carbon team buddy push foster win";
+var mnemonic = "judge stamp decade inherit trap muffin manage surface toilet rookie woman visa";

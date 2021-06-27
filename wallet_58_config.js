@@ -1,1 +1,1 @@
-var mnemonic = "tilt inspire omit abandon odor adapt spirit excess clock mixed asset word";
+var mnemonic = "area screen recycle flat enemy vehicle swarm actual project flower equal group";

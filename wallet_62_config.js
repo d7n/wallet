@@ -1,1 +1,1 @@
-var mnemonic = "produce evil chief quarter holiday sausage rocket trade space hard novel save";
+var mnemonic = "slot canyon cruel resemble double civil history garbage tip actual grain cat";

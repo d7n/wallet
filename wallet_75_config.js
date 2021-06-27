@@ -1,1 +1,1 @@
-var mnemonic = "enforce shift whisper intact snake oyster topple wild clown slender crime angry";
+var mnemonic = "snap volcano insane student twenty effort slam debate buddy rural palm picture";

@@ -1,1 +1,1 @@
-var mnemonic = "hard once tank cabin option antique shiver grace tuition voyage assault female";
+var mnemonic = "basket alcohol puppy bonus early element priority law little exotic output catch";

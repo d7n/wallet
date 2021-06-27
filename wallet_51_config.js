@@ -1,1 +1,1 @@
-var mnemonic = "sting noise charge nurse bleak pear seven window divorce cigar scrub level";
+var mnemonic = "doll island prison era sketch object left draft size actor license chronic";

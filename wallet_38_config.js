@@ -1,1 +1,1 @@
-var mnemonic = "idle swift step pilot miss taxi escape bundle thumb brain primary check";
+var mnemonic = "one phrase erosion give banana sweet keen garage strong mass tank scrap";

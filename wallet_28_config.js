@@ -1,1 +1,1 @@
-var mnemonic = "cherry tortoise harvest reopen cherry suit crime waste price feature adjust barrel";
+var mnemonic = "version critic upset rifle pupil rapid elbow aspect gorilla liar other power";

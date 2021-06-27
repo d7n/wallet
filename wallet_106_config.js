@@ -1,1 +1,1 @@
-var mnemonic = "amateur basket prevent garlic wife theory pool floor speed company public festival";
+var mnemonic = "click coconut quick treat park stock cigar fine balcony cricket tattoo purse";

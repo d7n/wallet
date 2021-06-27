@@ -1,1 +1,1 @@
-var mnemonic = "table timber type staff mixed egg gap village fancy pioneer example blossom";
+var mnemonic = "appear usual hen welcome virus initial patient nation cram arrange awkward rail";

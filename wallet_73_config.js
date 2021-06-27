@@ -1,1 +1,1 @@
-var mnemonic = "essence produce iron album glance spawn over method viable skate month market";
+var mnemonic = "top hire excuse into luxury quality bicycle regular senior ready nest shoe";

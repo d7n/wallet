@@ -1,1 +1,1 @@
-var mnemonic = "canvas flee brown vibrant maple warm popular educate foster soon annual code";
+var mnemonic = "target rack business flock drill between mobile fiscal beyond enact fine gauge";

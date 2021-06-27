@@ -1,1 +1,1 @@
-var mnemonic = "clog grunt twenty undo mask you syrup barrel job deer cloud runway";
+var mnemonic = "scale ecology shock say tribe federal shop rough fabric neither cart lion";

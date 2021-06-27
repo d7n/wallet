@@ -1,1 +1,1 @@
-var mnemonic = "area decorate first pretty piano muscle wealth leader device bounce pudding dwarf";
+var mnemonic = "mother wrong deal doctor little suggest slow various effort gap body bronze";

@@ -1,1 +1,1 @@
-var mnemonic = "gadget analyst suspect legal chicken column used reflect public grunt when differ";
+var mnemonic = "sadness believe swamp march gym hedgehog crumble lady shadow tell push once";

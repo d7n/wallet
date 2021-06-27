@@ -1,1 +1,1 @@
-var mnemonic = "mutual private people spot health retreat become coral bus struggle seed gossip";
+var mnemonic = "stuff blossom exercise cash catch dolphin kiwi mind tornado online agree muffin";

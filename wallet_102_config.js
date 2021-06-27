@@ -1,1 +1,1 @@
-var mnemonic = "potato dream true dizzy year check venue shoe annual logic over virtual";
+var mnemonic = "sniff exhaust phone police below velvet crop drastic monitor blame ankle daughter";

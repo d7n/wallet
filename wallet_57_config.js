@@ -1,1 +1,1 @@
-var mnemonic = "click medal wolf wink attack flame license donkey era paddle cable awkward";
+var mnemonic = "antenna powder hip pond setup fly peanut smooth title above panel scene";

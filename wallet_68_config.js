@@ -1,1 +1,1 @@
-var mnemonic = "finish tree angle argue age sea birth maple chat enroll stomach liberty";
+var mnemonic = "bless hello gun obtain render grit round pledge gown december thumb mercy";

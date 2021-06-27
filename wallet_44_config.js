@@ -1,1 +1,1 @@
-var mnemonic = "misery cargo achieve normal toss hen pudding disease hurry horn shoulder cake";
+var mnemonic = "tube flush flock sell host awake scare swap smoke fit paddle frozen";

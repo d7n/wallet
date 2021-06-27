@@ -1,1 +1,1 @@
-var mnemonic = "catch army erode settle magic lake cancel fly diamond prefer father nominee";
+var mnemonic = "ice nation juice slogan winner essence denial exotic board spend hero order";

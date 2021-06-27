@@ -1,1 +1,1 @@
-var mnemonic = "mansion absent dizzy more marble essence gauge gravity foam latin carpet chase";
+var mnemonic = "hockey enrich giant dwarf entire cheap decrease mouse direct inside truth ecology";

@@ -1,1 +1,1 @@
-var mnemonic = "cattle initial install caution win else dust myth tornado way permit congress";
+var mnemonic = "cool satoshi green gap dentist mechanic dentist member notable fault basic common";

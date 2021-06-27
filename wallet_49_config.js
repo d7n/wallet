@@ -1,1 +1,1 @@
-var mnemonic = "soldier runway bounce strike village poet spatial soup giraffe concert sign shift";
+var mnemonic = "hamster ostrich rather town motor orphan write exercise bag there target uphold";

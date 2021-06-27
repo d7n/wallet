@@ -1,1 +1,1 @@
-var mnemonic = "rack victory amount brain seat salute act also half promote party glory";
+var mnemonic = "scrap food join success chef panda wish short quantum jealous odor vacant";

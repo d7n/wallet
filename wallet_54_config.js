@@ -1,1 +1,1 @@
-var mnemonic = "spice sauce obey trade bus timber famous anchor monitor diet place fat";
+var mnemonic = "valve photo true recycle social song grocery decline margin fit opera neither";

@@ -1,1 +1,1 @@
-var mnemonic = "narrow firm corn flat capable absurd lend neck kitchen snack lawn stool";
+var mnemonic = "erupt pink capital afraid shift floor detect skill soup drill bicycle pioneer";

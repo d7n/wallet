@@ -1,1 +1,1 @@
-var mnemonic = "test pig tragic erosion believe orphan protect learn sister earth mule hour";
+var mnemonic = "increase artist candy need close act mass gentle chaos paper kite view";

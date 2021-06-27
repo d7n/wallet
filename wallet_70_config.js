@@ -1,1 +1,1 @@
-var mnemonic = "rocket feed journey coin obscure anchor test shock unveil when chuckle other";
+var mnemonic = "motion loyal trick audit ozone garden aim off electric solar volume repeat";

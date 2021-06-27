@@ -1,1 +1,1 @@
-var mnemonic = "song relax youth solution mask material upon insect fantasy before sponsor dawn";
+var mnemonic = "actor indoor embody cream diagram tone pepper poverty tornado jump shoe nation";

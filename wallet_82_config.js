@@ -1,1 +1,1 @@
-var mnemonic = "bread grow evil leopard lake scare arrow wreck reflect maximum prevent tuna";
+var mnemonic = "chase subway require law lunch print again angle market weapon frog earth";

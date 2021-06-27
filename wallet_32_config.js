@@ -1,1 +1,1 @@
-var mnemonic = "there mix advance topic praise jacket crack gift round trumpet noble below";
+var mnemonic = "deer chuckle utility sentence crystal fatigue kangaroo occur kingdom truly coral dizzy";

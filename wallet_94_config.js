@@ -1,1 +1,1 @@
-var mnemonic = "buyer coral pause sock spider barrel knee industry arrive gap kind slight";
+var mnemonic = "almost mistake ride section invest bracket arrest member gas lonely fancy material";

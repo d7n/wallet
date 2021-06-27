@@ -1,1 +1,1 @@
-var mnemonic = "robust present danger rubber usage crucial sweet bike welcome broken absorb harsh";
+var mnemonic = "blade robot acid assume episode couch acid vendor glance video such tube";

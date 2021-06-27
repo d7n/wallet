@@ -1,1 +1,1 @@
-var mnemonic = "cart tower road virus olive sound note attract race resist rice two";
+var mnemonic = "kid ten fault evolve cruise cube behind neutral smile noble present drum";

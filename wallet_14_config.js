@@ -1,1 +1,1 @@
-var mnemonic = "candy wolf stairs select wage lend young collect sad dash gown apart";
+var mnemonic = "debate glory broom raven day drip season polar canoe local truly thumb";

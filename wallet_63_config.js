@@ -1,1 +1,1 @@
-var mnemonic = "hub summer repeat moral pave grass abuse fox walnut laundry window yard";
+var mnemonic = "wolf vault deputy onion behind culture dumb tribe congress advice fire wash";

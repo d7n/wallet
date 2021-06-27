@@ -1,1 +1,1 @@
-var mnemonic = "faith excess nation museum era choice crystal scatter valid miracle grab sign";
+var mnemonic = "struggle execute garment region label chest pact entire father rich rebuild clinic";

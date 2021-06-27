@@ -1,1 +1,1 @@
-var mnemonic = "velvet labor ask engine champion favorite above engine sign march crash price";
+var mnemonic = "silver convince ticket lobster worry job field another recycle six balance mesh";

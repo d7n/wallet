@@ -1,1 +1,1 @@
-var mnemonic = "situate angry pudding ugly enforce blur dentist chief off glance chair mandate";
+var mnemonic = "material intact next idle danger above state stomach beach exile combine calm";

@@ -1,1 +1,1 @@
-var mnemonic = "sponsor type napkin danger riot supply east spell shuffle rural fence dice";
+var mnemonic = "armor few wolf planet comfort artwork april need flee tomorrow until wine";

@@ -1,1 +1,1 @@
-var mnemonic = "arrow banner burger unfold distance solar account they sense erase funny play";
+var mnemonic = "update depend twice render tree jealous fee van loyal orphan gold love";

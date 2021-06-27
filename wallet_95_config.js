@@ -1,1 +1,1 @@
-var mnemonic = "dilemma good night author road unhappy buyer crack sibling surge session tourist";
+var mnemonic = "spare pride birth staff reject delay rhythm jelly manage treat apart day";

@@ -1,1 +1,1 @@
-var mnemonic = "squirrel danger cotton apart appear skirt scan defy repair ice silent left";
+var mnemonic = "local cake object planet labor lottery proof assault antenna tired stage sick";

@@ -1,1 +1,1 @@
-var mnemonic = "auction butter palm prepare camp alcohol pledge remain near turn noble age";
+var mnemonic = "gloom robust unique fan fiction oxygen average equal miracle absorb wheat aerobic";

@@ -1,1 +1,1 @@
-var mnemonic = "ability lobster club verify dry crumble sword ancient brother easily cup admit";
+var mnemonic = "trim ready coral rally gown wheel tuition potato reopen real ski razor";

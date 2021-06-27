@@ -1,1 +1,1 @@
-var mnemonic = "judge tide fit swing sail boat wrong volume alter kiwi chicken educate";
+var mnemonic = "chase any home soccer try country party fly come purchase crime minute";

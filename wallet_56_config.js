@@ -1,1 +1,1 @@
-var mnemonic = "giant ghost atom scrap potato metal start misery wait vapor box govern";
+var mnemonic = "salt wide soft recipe belt tide priority hammer unlock scare lawn blue";

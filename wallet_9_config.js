@@ -1,1 +1,1 @@
-var mnemonic = "provide dinner situate curious curious weapon worry jaguar visual tip enhance night";
+var mnemonic = "infant describe retreat height orbit unhappy bright ridge bullet hunt fiction gesture";

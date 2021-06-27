@@ -1,1 +1,1 @@
-var mnemonic = "acquire flame tiger already path present galaxy thing feel estate topple moral";
+var mnemonic = "sibling area mosquito cause truck ginger that pluck tank ribbon success hammer";

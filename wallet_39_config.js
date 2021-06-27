@@ -1,1 +1,1 @@
-var mnemonic = "sunset credit require turtle infant slam priority tool wolf valve glove antenna";
+var mnemonic = "glide symptom insect eternal already goat share fun morning favorite palace uniform";

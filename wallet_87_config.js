@@ -1,1 +1,1 @@
-var mnemonic = "fat sail ritual cloud loyal fantasy satisfy have foot member lamp carbon";
+var mnemonic = "pencil amused rocket wreck orphan bracket day congress language modify defy nasty";

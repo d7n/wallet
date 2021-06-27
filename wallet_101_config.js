@@ -1,1 +1,1 @@
-var mnemonic = "describe spread trend razor inch fault ghost knock lumber unusual tissue aisle";
+var mnemonic = "jungle engage oxygen message scene bring gun little awkward gaze crack mango";

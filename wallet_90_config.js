@@ -1,1 +1,1 @@
-var mnemonic = "hobby illegal away hurdle wide teach uphold desk distance system switch speed";
+var mnemonic = "half square cute ride shove vibrant robust often shiver robot verb weekend";

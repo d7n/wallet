@@ -1,1 +1,1 @@
-var mnemonic = "rich chest liberty file nose observe box vital match record flavor ridge";
+var mnemonic = "voyage risk wonder mimic solar parrot muscle bottom uncle update island weekend";

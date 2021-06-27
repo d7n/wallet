@@ -1,1 +1,1 @@
-var mnemonic = "bid drill space liberty arrow city dwarf person hover shrimp canyon ranch";
+var mnemonic = "girl rebel say essence initial host soda satoshi coast ensure cute bike";

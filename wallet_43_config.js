@@ -1,1 +1,1 @@
-var mnemonic = "polar cash pride recycle define wrap change gloom cash armed soap fetch";
+var mnemonic = "tag blush cry remind popular swarm cross sketch subject accuse mixed blossom";

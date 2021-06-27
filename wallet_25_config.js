@@ -1,1 +1,1 @@
-var mnemonic = "thrive review bamboo common gasp occur example rich buddy assault hire weasel";
+var mnemonic = "edge double orphan nice mix brown laugh real vacuum purchase combine length";

@@ -1,1 +1,1 @@
-var mnemonic = "expose mammal office catalog dwarf economy enable loop dizzy balcony magnet film";
+var mnemonic = "dignity vibrant select before edit twist iron stick reveal recycle injury angry";

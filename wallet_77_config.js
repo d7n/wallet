@@ -1,1 +1,1 @@
-var mnemonic = "valid denial half shrimp purity ozone raccoon maid frequent wisdom crowd peasant";
+var mnemonic = "flip define vehicle awake chase plug wing life liquid cloth meadow couch";

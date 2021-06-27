@@ -1,1 +1,1 @@
-var mnemonic = "top pact siren orange obey room frame chest update degree gaze story";
+var mnemonic = "matter nephew turkey make exotic chronic remember raven fault way crane ladder";

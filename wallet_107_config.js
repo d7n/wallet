@@ -1,1 +1,1 @@
-var mnemonic = "useless pottery alien digital impulse please hazard awkward robust awkward odor flight";
+var mnemonic = "service celery impulse phrase beef marine library reason wise black exist smart";

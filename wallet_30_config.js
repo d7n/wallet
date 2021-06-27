@@ -1,1 +1,1 @@
-var mnemonic = "equip snow deliver dune ski audit wrestle glass rain peanut energy divorce";
+var mnemonic = "sick cram lonely oil raven elbow chunk easy turn nasty spike cost";

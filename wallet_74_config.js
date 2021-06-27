@@ -1,1 +1,1 @@
-var mnemonic = "sleep wide melt charge silent ice unit open current immune alcohol salmon";
+var mnemonic = "spot paper surge danger virus mechanic impulse lumber rate search identify deposit";
