@@ -1,1 +1,1 @@
-var mnemonic = "spoil roof cool venture increase fancy post trust town badge knife frost";
+var mnemonic = "push want exist harsh target weasel caution shoe that flee mechanic edit";

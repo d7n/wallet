@@ -1,1 +1,1 @@
-var mnemonic = "alley volcano element daring inquiry hurry hockey spare oppose argue warfare inquiry";
+var mnemonic = "impact evolve cool mansion chuckle gaze link behind swear breeze learn garlic";

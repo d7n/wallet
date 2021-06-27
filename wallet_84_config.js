@@ -1,1 +1,1 @@
-var mnemonic = "absorb poem caught disorder anchor layer vanish certain stereo duty crowd much";
+var mnemonic = "novel ecology vault refuse engine ride heavy dial day hungry inject dwarf";

@@ -1,1 +1,1 @@
-var mnemonic = "height trumpet retreat teach photo dutch intact shed spread business boat illness";
+var mnemonic = "depart theme matter venture bridge picture alert initial parent easily baby strategy";

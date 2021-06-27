@@ -1,1 +1,1 @@
-var mnemonic = "defense hope race affair hen senior artwork shop borrow paper sand image";
+var mnemonic = "pattern night involve cloud issue hockey step safe close wink large cook";

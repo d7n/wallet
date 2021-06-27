@@ -1,1 +1,1 @@
-var mnemonic = "three frown tongue bring idle pyramid forget fitness maximum noise work lobster";
+var mnemonic = "mad hurt empty sword leg ritual eye mesh evolve enact call reveal";

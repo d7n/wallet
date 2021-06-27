@@ -1,1 +1,1 @@
-var mnemonic = "rather aware mesh oblige velvet town door caution village bounce vessel offer";
+var mnemonic = "sport snake electric nasty fabric civil effort route merit trophy unaware fire";

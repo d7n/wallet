@@ -1,1 +1,1 @@
-var mnemonic = "churn bamboo laugh nasty cost survey able narrow modify misery pyramid inner";
+var mnemonic = "annual ripple brand chimney employ question enhance success boat tornado mail song";

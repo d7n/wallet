@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog mention veteran index sorry salon age vacuum stereo dove mirror coconut";
+var mnemonic = "shock muffin ceiling parade arm exhaust tell dismiss between dilemma amateur require";

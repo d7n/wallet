@@ -1,1 +1,1 @@
-var mnemonic = "farm error life rib file tiny glimpse upset step casual rally grow";
+var mnemonic = "engine attack tortoise cricket cute relief brand village collect desk clog immense";

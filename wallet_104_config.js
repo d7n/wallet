@@ -1,1 +1,1 @@
-var mnemonic = "torch carbon beauty mixed ghost lizard crime library famous power that crane";
+var mnemonic = "album share inhale despair tobacco cluster avoid exist promote talk owner below";

@@ -1,1 +1,1 @@
-var mnemonic = "feature job rhythm hollow tree myth inject rate roast horror dutch oxygen";
+var mnemonic = "dismiss rely luggage upper pencil crater stone eagle input resource summer wish";

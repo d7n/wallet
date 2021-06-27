@@ -1,1 +1,1 @@
-var mnemonic = "wood shed woman sample loop head kit where cushion fee elder resist";
+var mnemonic = "during soul earn lens forest outside climb fancy salmon witness allow mango";

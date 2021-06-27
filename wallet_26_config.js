@@ -1,1 +1,1 @@
-var mnemonic = "draw alter mask sell hover height canal number fee anxiety mistake jeans";
+var mnemonic = "hole hundred uncle ecology enrich slide winter decide theory trophy fire item";

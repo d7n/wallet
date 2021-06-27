@@ -1,1 +1,1 @@
-var mnemonic = "observe seminar flag cannon few car measure volume flip voyage ginger seven";
+var mnemonic = "main alcohol curious glory ship damp liberty guess sport moment jealous excite";

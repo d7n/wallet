@@ -1,1 +1,1 @@
-var mnemonic = "nurse accuse inner nerve south route ankle kit elder pretty quarter shrimp";
+var mnemonic = "carbon subway sell sleep diet normal receive paper flock rhythm dwarf access";

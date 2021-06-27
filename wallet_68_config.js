@@ -1,1 +1,1 @@
-var mnemonic = "flee wait work trap entry scrub laugh weapon pink stairs harsh story";
+var mnemonic = "unfair maximum file recall pelican stick mad silver quick vast sustain squeeze";

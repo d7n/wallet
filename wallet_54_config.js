@@ -1,1 +1,1 @@
-var mnemonic = "tragic hope poverty brown thought abandon cotton anchor region beach mask soon";
+var mnemonic = "envelope ocean margin possible adjust elder winter task kidney kit mistake moment";

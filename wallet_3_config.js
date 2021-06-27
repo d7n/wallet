@@ -1,1 +1,1 @@
-var mnemonic = "museum talk another drum invest height fossil bless lottery dad any measure";
+var mnemonic = "capable inhale step language water aspect addict tree dentist divorce van salon";

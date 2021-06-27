@@ -1,1 +1,1 @@
-var mnemonic = "true spoon earn kitchen inch robot width own youth kick duty garment";
+var mnemonic = "hunt clerk steak lazy infant horror kid level chalk goose draft cause";

@@ -1,1 +1,1 @@
-var mnemonic = "apology chalk museum retreat camp ranch column robot outdoor arch search empower";
+var mnemonic = "minute funny cart finish skate inherit kitchen shaft rapid topic network worry";

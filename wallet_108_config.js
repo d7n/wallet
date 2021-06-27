@@ -1,1 +1,1 @@
-var mnemonic = "stable notice exact absorb penalty squeeze include vapor push man initial favorite";
+var mnemonic = "distance column summer across lesson version tooth float scan able wash term";

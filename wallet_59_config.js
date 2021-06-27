@@ -1,1 +1,1 @@
-var mnemonic = "vapor pledge sample siege priority arena sail choose chuckle artefact dish keep";
+var mnemonic = "need stable funny wild luggage disagree dumb bracket sting cinnamon surface truth";

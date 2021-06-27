@@ -1,1 +1,1 @@
-var mnemonic = "person unit embark heart slight wish spike head cake move father joke";
+var mnemonic = "taste crash unfair umbrella seek diet dose exact ranch mammal casual flush";

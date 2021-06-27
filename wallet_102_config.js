@@ -1,1 +1,1 @@
-var mnemonic = "spot nerve sphere boost elite three key inside fan hollow always blast";
+var mnemonic = "drum invite guard inform amused wise fashion olympic rail family cup spike";

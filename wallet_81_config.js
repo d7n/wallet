@@ -1,1 +1,1 @@
-var mnemonic = "prosper baby cheese visa bar lady offer door happy trumpet bleak unfold";
+var mnemonic = "weather fat boat analyst year iron media stick cross crawl bike cupboard";

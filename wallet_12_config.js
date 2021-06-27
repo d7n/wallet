@@ -1,1 +1,1 @@
-var mnemonic = "faith finger silk monitor general tooth polar talk replace print march universe";
+var mnemonic = "slide rotate smart mushroom tent symptom venture truck metal boring hand burger";

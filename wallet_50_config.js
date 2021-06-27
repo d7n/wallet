@@ -1,1 +1,1 @@
-var mnemonic = "flush priority delay thunder betray tower come shy sure all wheat alcohol";
+var mnemonic = "dove option noble aspect slot shy soon turtle fiber useful tooth ritual";

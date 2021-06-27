@@ -1,1 +1,1 @@
-var mnemonic = "smart paddle cycle creek fox wisdom voice dutch awake coffee mimic shoe";
+var mnemonic = "seminar net anger filter clerk dial trap basket mind sleep present load";

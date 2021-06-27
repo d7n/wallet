@@ -1,1 +1,1 @@
-var mnemonic = "mango airport inside bean run immense trigger gold fiber detail cave fork";
+var mnemonic = "general price oil romance insane boss basic nominee pelican ramp embark shrug";

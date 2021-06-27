@@ -1,1 +1,1 @@
-var mnemonic = "bomb kingdom slice length attack machine juice primary loud welcome seven crush";
+var mnemonic = "silver flower scare pepper join increase hat job around spike school chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "charge normal giggle rebel recall flush rescue napkin abuse table excuse confirm";
+var mnemonic = "fan cabin crowd remove survey bubble wool engage flower nation spawn economy";

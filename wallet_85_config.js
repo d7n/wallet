@@ -1,1 +1,1 @@
-var mnemonic = "piece coconut art lazy ribbon depart link edit exclude detect monkey sorry";
+var mnemonic = "load avoid rail grunt inquiry merry oval decrease chunk parade auto one";

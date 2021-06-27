@@ -1,1 +1,1 @@
-var mnemonic = "spawn bench diesel ridge range junior autumn any awkward satisfy lizard derive";
+var mnemonic = "spike vacant strong leaf awesome athlete kidney force proof vacuum gravity annual";

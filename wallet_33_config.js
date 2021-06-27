@@ -1,1 +1,1 @@
-var mnemonic = "artefact public make gadget attend foot ball sing walnut repair claim whip";
+var mnemonic = "tired video waste oxygen giraffe gaze better invite drastic elephant march river";

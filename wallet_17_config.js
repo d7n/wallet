@@ -1,1 +1,1 @@
-var mnemonic = "combine smoke own april monkey elevator rookie glue much minute swarm enemy";
+var mnemonic = "sting trade visa student great like worry oil wish young more kite";

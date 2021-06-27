@@ -1,1 +1,1 @@
-var mnemonic = "athlete birth license vanish lawn upper exist unfold kitchen bicycle cheese grow";
+var mnemonic = "proud cost canal tissue panda gold tissue open zebra morning flame method";

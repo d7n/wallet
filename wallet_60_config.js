@@ -1,1 +1,1 @@
-var mnemonic = "salute siren dismiss jazz promote ring wolf shift trim noble pelican hole";
+var mnemonic = "library sniff aim staff dad disorder project hope trim fold chair limb";

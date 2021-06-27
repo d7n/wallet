@@ -1,1 +1,1 @@
-var mnemonic = "world annual setup circle lift prison pretty company again similar trash fall";
+var mnemonic = "lunar list skull amateur elegant hospital whale sphere arrow clip receive fine";

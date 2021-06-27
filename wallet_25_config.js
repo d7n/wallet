@@ -1,1 +1,1 @@
-var mnemonic = "mechanic solution coin human awake bread forget raise gloom north clutch creek";
+var mnemonic = "delay arrow tired stand trumpet mango height cram next flee forest sugar";

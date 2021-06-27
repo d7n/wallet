@@ -1,1 +1,1 @@
-var mnemonic = "couple bargain motor two tennis phone wealth banner bright device faculty thing";
+var mnemonic = "february deposit broccoli task limit begin silly couch gas stamp road away";

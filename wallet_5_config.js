@@ -1,1 +1,1 @@
-var mnemonic = "begin era reopen cry regret dress clap glad pipe film huge excess";
+var mnemonic = "price pair wreck shoulder dinner bubble nominee easy drop grow uniform glare";

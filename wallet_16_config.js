@@ -1,1 +1,1 @@
-var mnemonic = "access inspire palm area rice chaos virtual because mask wash roof extend";
+var mnemonic = "lyrics safe surround device undo mammal feature boil collect praise luggage vanish";

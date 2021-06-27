@@ -1,1 +1,1 @@
-var mnemonic = "win drop bamboo slim seek inch capable arrive define neither champion genre";
+var mnemonic = "crater approve amused food satoshi chalk dance essay shaft burst hire cycle";

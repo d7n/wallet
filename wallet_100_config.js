@@ -1,1 +1,1 @@
-var mnemonic = "present adult unit fiscal sword pistol trend ready affair endless leopard address";
+var mnemonic = "jar rose worry ginger eyebrow measure actress melt limb dial camera clay";

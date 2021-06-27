@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo night urge display miracle unveil discover quarter method happy mouse achieve";
+var mnemonic = "over ill position view card embark mass team hunt plunge flock salmon";

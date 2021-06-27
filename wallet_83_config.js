@@ -1,1 +1,1 @@
-var mnemonic = "delay gift boring shoulder envelope because snow public plunge sunset wonder finger";
+var mnemonic = "analyst gate pen excite cram control slight room dawn banner canoe wasp";

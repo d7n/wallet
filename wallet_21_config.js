@@ -1,1 +1,1 @@
-var mnemonic = "hen noodle air sense sail insect eager swarm brand spider popular fly";
+var mnemonic = "lecture antenna reopen furnace lion turn save throw aim eager useful matrix";

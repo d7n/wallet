@@ -1,1 +1,1 @@
-var mnemonic = "local arena own nest problem settle knock make pistol cannon minor wear";
+var mnemonic = "vendor slab flag side elder perfect already song apart wonder supply attitude";

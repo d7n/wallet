@@ -1,1 +1,1 @@
-var mnemonic = "flavor fatigue bargain fold another visa old edge kite pull scatter brief";
+var mnemonic = "doll fresh motion judge session dial carbon kit swallow cereal item jeans";

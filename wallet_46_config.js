@@ -1,1 +1,1 @@
-var mnemonic = "family hen floor plug chair perfect sing profit million grid purse hammer";
+var mnemonic = "deal detail icon east spice smoke toddler response earth crane glance finish";

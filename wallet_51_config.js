@@ -1,1 +1,1 @@
-var mnemonic = "into exhaust panda mobile simple bread silly maximum cotton bounce cat devote";
+var mnemonic = "drill system inherit correct nuclear civil inside staff match welcome license radar";

@@ -1,1 +1,1 @@
-var mnemonic = "eager enough embark general garment learn scheme talent wise ranch plunge bag";
+var mnemonic = "pig swallow shrimp jeans three joke renew giant situate cupboard cook mouse";

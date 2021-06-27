@@ -1,1 +1,1 @@
-var mnemonic = "advance among there canoe panic useless sunset number dignity unknown myth crater";
+var mnemonic = "because hockey health sample cousin happy side egg pulse busy mouse lava";

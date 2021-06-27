@@ -1,1 +1,1 @@
-var mnemonic = "learn sight food punch pupil cotton slab huge recipe else brick awake";
+var mnemonic = "youth they scan sniff cycle race state power slam forget other original";

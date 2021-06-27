@@ -1,1 +1,1 @@
-var mnemonic = "lady snack power quarter snap almost glide rail bird wash gasp furnace";
+var mnemonic = "web cactus length dish essay dust voyage rubber desk gesture bike siege";

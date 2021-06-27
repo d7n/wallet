@@ -1,1 +1,1 @@
-var mnemonic = "proud diamond census deal monster toe crater token craft garbage hat february";
+var mnemonic = "short scrub expire duck olive crater multiply problem ocean planet ritual eternal";

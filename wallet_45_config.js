@@ -1,1 +1,1 @@
-var mnemonic = "wisdom remember sphere intact debate aunt tattoo ship adapt affair margin april";
+var mnemonic = "remember envelope soup crisp boost toss fashion heavy pause have drink inform";

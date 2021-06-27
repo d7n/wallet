@@ -1,1 +1,1 @@
-var mnemonic = "task net nurse blur alien veteran chimney engine capable liquid illness prefer";
+var mnemonic = "bright modify gauge claim reject isolate few case today media into siren";

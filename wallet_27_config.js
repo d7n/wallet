@@ -1,1 +1,1 @@
-var mnemonic = "portion nose winter twice misery obscure argue honey delay stomach worry join";
+var mnemonic = "brave street title twenty old trial element world want job suspect maple";

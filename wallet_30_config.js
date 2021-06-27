@@ -1,1 +1,1 @@
-var mnemonic = "knife cute club talk eyebrow world erosion dust punch review casino wrong";
+var mnemonic = "muffin lava identify horror acquire smile post meat love repair trumpet blind";

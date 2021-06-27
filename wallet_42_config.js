@@ -1,1 +1,1 @@
-var mnemonic = "gossip melt series caught when cover antenna surround office average track powder";
+var mnemonic = "holiday lab dentist message trouble foil safe sugar still toe general snack";

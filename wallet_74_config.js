@@ -1,1 +1,1 @@
-var mnemonic = "estate step swift local nasty border evoke general old ethics frog raise";
+var mnemonic = "orbit outside distance shrimp service little arrive animal urban benefit glove robust";

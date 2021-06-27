@@ -1,1 +1,1 @@
-var mnemonic = "duty resource call morning border what slush still clerk jewel chair improve";
+var mnemonic = "aspect law diet ecology cannon chef silver bamboo exit friend one appear";

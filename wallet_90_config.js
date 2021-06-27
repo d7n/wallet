@@ -1,1 +1,1 @@
-var mnemonic = "filter depend enrich snake tiger champion wrap welcome frown unit beauty vast";
+var mnemonic = "drum boy sample resist turkey pact favorite number marine recall menu upgrade";

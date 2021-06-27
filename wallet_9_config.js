@@ -1,1 +1,1 @@
-var mnemonic = "grunt few bracket coach three critic clap figure inmate opera toe rate";
+var mnemonic = "hero lemon width area public solar arctic festival online leader solid output";

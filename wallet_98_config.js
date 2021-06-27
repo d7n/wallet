@@ -1,1 +1,1 @@
-var mnemonic = "fatal strong speak game clarify depend patient combine auction guess brush chat";
+var mnemonic = "finger ginger lava amount habit balcony tent hood increase draft furnace syrup";

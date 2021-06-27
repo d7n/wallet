@@ -1,1 +1,1 @@
-var mnemonic = "term pulp pipe until slice west tunnel away response catch village above";
+var mnemonic = "trigger budget bar then what valve gravity rate volcano crash sight primary";

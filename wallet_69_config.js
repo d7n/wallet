@@ -1,1 +1,1 @@
-var mnemonic = "swarm curious crater agree dutch casual stamp that wing group local soul";
+var mnemonic = "hundred finger indicate payment victory point snow crisp slogan rocket write agent";

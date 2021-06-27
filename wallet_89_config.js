@@ -1,1 +1,1 @@
-var mnemonic = "vague whisper coach laundry honey twist oak crash federal plastic sign broom";
+var mnemonic = "evidence teach ancient aisle myself price midnight acquire wait best bulk hurt";

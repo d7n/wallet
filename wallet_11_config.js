@@ -1,1 +1,1 @@
-var mnemonic = "mind toss father grant head list since dad coffee crowd person double";
+var mnemonic = "bid choose bind that success cube rifle group hidden famous donate sock";

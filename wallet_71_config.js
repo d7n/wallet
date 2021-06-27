@@ -1,1 +1,1 @@
-var mnemonic = "stem grit recycle obscure transfer mammal roof royal chuckle witness lucky chat";
+var mnemonic = "enforce trip distance open update warfare robust object annual begin sunset day";

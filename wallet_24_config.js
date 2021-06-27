@@ -1,1 +1,1 @@
-var mnemonic = "fluid cute satoshi harsh put depend palm bundle summer smooth pear raise";
+var mnemonic = "ostrich refuse whisper machine alcohol abandon cat suspect abstract vessel install member";

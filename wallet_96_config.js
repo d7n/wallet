@@ -1,1 +1,1 @@
-var mnemonic = "online spring afford whip want sauce dose search file loyal awake alpha";
+var mnemonic = "tunnel blush sight glance panic keen lunar beyond fan viable idle deliver";

@@ -1,1 +1,1 @@
-var mnemonic = "silk cat warm minute trap advice lobster window buddy meat hour clinic";
+var mnemonic = "twist cool casino skate short person year song dice betray donor used";

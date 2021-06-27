@@ -1,1 +1,1 @@
-var mnemonic = "easy flee grant crater unaware hurdle notable summer alert project outer scheme";
+var mnemonic = "village tunnel gorilla pear sugar also luxury stove laugh airport special usage";

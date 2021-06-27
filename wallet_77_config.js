@@ -1,1 +1,1 @@
-var mnemonic = "ball clay mimic fog economy copper toward curve student coconut ginger ill";
+var mnemonic = "rookie tape flat toy copper sign sample dutch badge cute deny deposit";

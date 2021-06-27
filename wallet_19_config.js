@@ -1,1 +1,1 @@
-var mnemonic = "heavy daring mercy razor local damage accident smart oval story feel trend";
+var mnemonic = "exercise loop celery obtain sand strong august soap refuse sketch second forget";

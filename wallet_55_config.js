@@ -1,1 +1,1 @@
-var mnemonic = "save apology razor assist message man disease candy voice green beauty chronic";
+var mnemonic = "unfold city broken dose dial dog list hill slight knee where remember";

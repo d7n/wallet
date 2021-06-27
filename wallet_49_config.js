@@ -1,1 +1,1 @@
-var mnemonic = "subway chronic supply turkey tongue fatal trap double choice face limb fork";
+var mnemonic = "radar mistake quit pupil aware rack same urban viable enough zoo bacon";

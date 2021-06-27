@@ -1,1 +1,1 @@
-var mnemonic = "evil owner language steel pupil valve submit mom hawk capital myth crop";
+var mnemonic = "mass drop expect pause consider welcome race tunnel august east among entry";

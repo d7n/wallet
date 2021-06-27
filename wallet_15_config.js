@@ -1,1 +1,1 @@
-var mnemonic = "random what drink eight wife organ grant critic negative mean aware famous";
+var mnemonic = "cattle panther void universe certain seed page actress night moon bubble enter";

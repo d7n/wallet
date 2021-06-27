@@ -1,1 +1,1 @@
-var mnemonic = "road cry borrow ignore hammer select feature worth wear fox energy athlete";
+var mnemonic = "crawl century coach cloth decide cannon state curious ugly boost relax enforce";

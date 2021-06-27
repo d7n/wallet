@@ -1,1 +1,1 @@
-var mnemonic = "group brave vapor limb remain field sister horn pause digital carry tattoo";
+var mnemonic = "mean fine amateur sock frog quantum middle wagon mushroom portion people average";

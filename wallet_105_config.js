@@ -1,1 +1,1 @@
-var mnemonic = "sure release capital gallery snap west maple tank steel error priority meat";
+var mnemonic = "cook finish aware concert giraffe powder demise hybrid crunch delay hedgehog three";

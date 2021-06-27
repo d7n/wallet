@@ -1,1 +1,1 @@
-var mnemonic = "crumble fork valid pause win island plate balcony liberty atom theme ozone";
+var mnemonic = "crystal iron fiscal outdoor lawn jazz physical clerk practice catch ugly easily";

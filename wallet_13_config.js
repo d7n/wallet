@@ -1,1 +1,1 @@
-var mnemonic = "dismiss echo buddy spoil coast catalog correct topple genius park close sister";
+var mnemonic = "destroy motion vacant lady blade design skate track copy shrimp monitor utility";

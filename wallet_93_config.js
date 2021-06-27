@@ -1,1 +1,1 @@
-var mnemonic = "lesson purity mind dizzy shaft yard census lawsuit common hair spell rug";
+var mnemonic = "village elevator exclude away unfair mandate until device figure blur observe kit";

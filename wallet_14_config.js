@@ -1,1 +1,1 @@
-var mnemonic = "shallow vessel lava heart live tornado smoke become relax illness cactus idea";
+var mnemonic = "guess soon snow trust possible tomato torch ignore vital electric sugar level";

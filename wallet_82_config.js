@@ -1,1 +1,1 @@
-var mnemonic = "lounge they patch resource enter manual room museum produce air bicycle knee";
+var mnemonic = "address decide alter lawn federal expect work exile left parent october another";

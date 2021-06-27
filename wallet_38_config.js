@@ -1,1 +1,1 @@
-var mnemonic = "level violin spy novel wide tomorrow deal august push intact grit teach";
+var mnemonic = "extra blur word gift coil galaxy insect access accident wonder grass mistake";

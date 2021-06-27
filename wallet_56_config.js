@@ -1,1 +1,1 @@
-var mnemonic = "frown pond dentist earn neutral maple pave tube inform chat tail february";
+var mnemonic = "fat stool cool tooth paddle imitate topic salute ahead trial key fan";

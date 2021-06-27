@@ -1,1 +1,1 @@
-var mnemonic = "blood yellow design useful rough spare inch language one must caught sort";
+var mnemonic = "roast fish aunt reject wheat achieve caution quiz decide brown tenant alone";

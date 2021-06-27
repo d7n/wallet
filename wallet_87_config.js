@@ -1,1 +1,1 @@
-var mnemonic = "force clay corn exchange unable mercy mass three effort federal report pause";
+var mnemonic = "mechanic approve casual inflict canoe artwork find maze rubber face shift travel";

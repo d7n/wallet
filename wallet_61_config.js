@@ -1,1 +1,1 @@
-var mnemonic = "fish quiz surface ask door shock income ticket error label coyote flush";
+var mnemonic = "oppose useless trade build evolve monkey clinic vague hollow exist water vague";
