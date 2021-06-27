@@ -1,1 +1,1 @@
-var mnemonic = "crouch later mask pelican retreat lava seven patient planet video clog earn";
+var mnemonic = "fox inquiry camera minute include ordinary lawsuit dismiss spoil caution chunk eagle";

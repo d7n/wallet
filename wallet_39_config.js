@@ -1,1 +1,1 @@
-var mnemonic = "friend truly culture labor once milk rebuild burden donkey you barely width";
+var mnemonic = "marble find notable side major split donate upgrade monster leg praise infant";

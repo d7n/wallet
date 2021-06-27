@@ -1,1 +1,1 @@
-var mnemonic = "noodle name lesson brief crime sweet transfer child trip bundle essay minimum";
+var mnemonic = "total almost popular vendor circle cheese jar lift siren kiss physical embody";

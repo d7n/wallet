@@ -1,1 +1,1 @@
-var mnemonic = "valid put multiply sleep jeans often perfect mandate turn very crew real";
+var mnemonic = "naive morning domain strategy obvious target envelope motor hen mountain absent gym";

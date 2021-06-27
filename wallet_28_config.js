@@ -1,1 +1,1 @@
-var mnemonic = "tooth any warm win course sibling glory abandon south never erosion theory";
+var mnemonic = "fancy staff buddy empower venue ignore left excuse fiction supply middle among";

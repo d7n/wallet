@@ -1,1 +1,1 @@
-var mnemonic = "lens citizen enter tool start sing tonight result visa conduct cake total";
+var mnemonic = "govern social weird ripple cargo hip picture promote crew person begin alley";

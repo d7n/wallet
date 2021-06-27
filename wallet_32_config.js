@@ -1,1 +1,1 @@
-var mnemonic = "snake quantum young promote slender rose famous april other ramp tattoo shy";
+var mnemonic = "useful tourist lady giraffe rubber speed desk farm retreat all gas inject";

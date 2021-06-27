@@ -1,1 +1,1 @@
-var mnemonic = "impact hello marine ability miracle like ghost infant air reject bright joke";
+var mnemonic = "bracket iron ride van dinosaur drip jewel present spy goose wonder burger";

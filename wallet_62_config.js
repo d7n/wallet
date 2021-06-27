@@ -1,1 +1,1 @@
-var mnemonic = "tree garage actress people catalog rebuild animal uncover govern profit lock math";
+var mnemonic = "sudden element umbrella notice remain cost decide margin dutch buffalo recall destroy";

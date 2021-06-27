@@ -1,1 +1,1 @@
-var mnemonic = "fitness switch interest bundle pill pilot scorpion pledge pluck utility random keep";
+var mnemonic = "force other cream despair trouble addict fringe lift young manage eight brother";

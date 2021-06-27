@@ -1,1 +1,1 @@
-var mnemonic = "jeans car clay noodle smile wheat rocket add say lend laugh domain";
+var mnemonic = "supply silent enact uniform rebel first design motor vehicle clever unusual sweet";

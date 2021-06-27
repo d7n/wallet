@@ -1,1 +1,1 @@
-var mnemonic = "asthma song scorpion volcano stick glance air dash gloom mercy ostrich slush";
+var mnemonic = "balance course neglect enhance gloom cabin rain cross space mask trouble evil";

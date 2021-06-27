@@ -1,1 +1,1 @@
-var mnemonic = "giggle bamboo pottery food kingdom slush price exhibit ethics glance shine forget";
+var mnemonic = "motor iron ostrich mixed sponsor scrub million unveil conduct correct symptom energy";

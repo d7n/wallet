@@ -1,1 +1,1 @@
-var mnemonic = "doll style ghost secret silver heavy object hobby innocent visual raven oval";
+var mnemonic = "half nest evolve panther weather minute have online funny sunny always job";

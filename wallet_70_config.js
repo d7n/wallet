@@ -1,1 +1,1 @@
-var mnemonic = "dynamic acoustic depth cotton thunder leopard love reunion reason august casino hover";
+var mnemonic = "inflict hollow impulse siren filter expect sense junk excess such volcano buffalo";

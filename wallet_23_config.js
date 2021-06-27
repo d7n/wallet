@@ -1,1 +1,1 @@
-var mnemonic = "humor seed butter cram ticket magnet cloud scorpion organ bring risk today";
+var mnemonic = "student audit chapter click broccoli praise room mean volume term firm jaguar";

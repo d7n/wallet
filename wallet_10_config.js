@@ -1,1 +1,1 @@
-var mnemonic = "combine comfort choice wrong actual lake health boost afford rather music absent";
+var mnemonic = "silent smoke profit clever feel shrimp cook kiss movie neglect million prevent";

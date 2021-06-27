@@ -1,1 +1,1 @@
-var mnemonic = "lake disorder awake height crush save cheese elevator sibling virus divert once";
+var mnemonic = "garment protect wide someone parade father combine please marriage enrich journey snake";

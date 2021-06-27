@@ -1,1 +1,1 @@
-var mnemonic = "page clinic peasant rely urge office country powder absorb cargo jazz river";
+var mnemonic = "pair enlist wild gesture vehicle bleak nominee law all bone twist point";

@@ -1,1 +1,1 @@
-var mnemonic = "brown detect fit hip position bus record airport vault kangaroo tooth skill";
+var mnemonic = "spirit broken benefit quote drum tennis security glow act joy trial planet";

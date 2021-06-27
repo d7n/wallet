@@ -1,1 +1,1 @@
-var mnemonic = "silk level fish cereal truly weird fatigue hand base caution napkin flight";
+var mnemonic = "record camp prize real leisure social deal brass siren hard catalog viable";

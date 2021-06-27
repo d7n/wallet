@@ -1,1 +1,1 @@
-var mnemonic = "hungry swim quote ethics wealth scale tourist royal find blind fury mistake";
+var mnemonic = "wrap flame pigeon network merge knife road wall giant author learn barrel";

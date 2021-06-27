@@ -1,1 +1,1 @@
-var mnemonic = "ice index slice funny real reward pioneer mystery project void size patrol";
+var mnemonic = "alert roof long naive snake year lawn biology citizen fuel cinnamon decline";

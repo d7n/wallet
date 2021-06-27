@@ -1,1 +1,1 @@
-var mnemonic = "credit segment survey acoustic margin skull load can body elbow direct evoke";
+var mnemonic = "quarter cram surge confirm cement prison clean rib envelope proud marble stool";

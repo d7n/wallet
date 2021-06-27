@@ -1,1 +1,1 @@
-var mnemonic = "hold fall dad float human decade cost action loan orchard convince raw";
+var mnemonic = "inject excess urban gospel choice rigid palm company bright clump echo pen";

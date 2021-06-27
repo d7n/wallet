@@ -1,1 +1,1 @@
-var mnemonic = "large culture blouse pool loyal mother trip margin acoustic struggle grid clap";
+var mnemonic = "faith business limb easily problem tip depth faith guitar olive water clump";

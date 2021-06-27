@@ -1,1 +1,1 @@
-var mnemonic = "caution panda casual phrase congress input grape tree wage crumble stumble garlic";
+var mnemonic = "scrap twice scatter expose people still rough ill oven hedgehog album advance";

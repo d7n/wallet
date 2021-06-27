@@ -1,1 +1,1 @@
-var mnemonic = "fuel moon glass history seminar grocery chair beef rural behave icon diamond";
+var mnemonic = "key rug glance mention tip emerge pause toward busy pelican alien elder";

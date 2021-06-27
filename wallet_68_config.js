@@ -1,1 +1,1 @@
-var mnemonic = "weapon legal blame turtle laundry cute garbage egg token citizen dress wear";
+var mnemonic = "eyebrow protect timber recycle region alone prefer undo viable burden mango tourist";

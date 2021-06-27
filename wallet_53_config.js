@@ -1,1 +1,1 @@
-var mnemonic = "cover nut siege siege glove eager usual way tip now visual chaos";
+var mnemonic = "mango jeans case derive maze junk latin monkey spy acid bitter sense";

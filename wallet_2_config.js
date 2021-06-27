@@ -1,1 +1,1 @@
-var mnemonic = "joy slush tragic venue panic depart give screen trumpet deny build false";
+var mnemonic = "media sauce brisk once nuclear select talk demand home occur erosion surge";

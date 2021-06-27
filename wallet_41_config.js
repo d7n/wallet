@@ -1,1 +1,1 @@
-var mnemonic = "ankle review balcony various south size legal vessel drink chaos weather crowd";
+var mnemonic = "erosion master oval wise shy damage happy goat rail sound draw task";

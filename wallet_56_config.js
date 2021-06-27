@@ -1,1 +1,1 @@
-var mnemonic = "session sad dad student govern note diesel mushroom disorder sick stage nominee";
+var mnemonic = "enrich receive bunker fossil educate pave clerk hockey please health town raise";

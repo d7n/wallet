@@ -1,1 +1,1 @@
-var mnemonic = "valid arch dizzy woman salmon milk hole machine inquiry combine ostrich smooth";
+var mnemonic = "around gesture envelope meat security loud verify surface search effort sell ketchup";

@@ -1,1 +1,1 @@
-var mnemonic = "agree beach denial whale trade quiz verb traffic pet prefer hello devote";
+var mnemonic = "enlist pitch project sudden return protect early violin police slice rigid job";

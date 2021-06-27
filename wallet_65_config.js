@@ -1,1 +1,1 @@
-var mnemonic = "birth talent nut agent blur erosion boil pioneer apology edit proof visit";
+var mnemonic = "dumb goat interest pole spoon now pool glide chronic awful photo victory";

@@ -1,1 +1,1 @@
-var mnemonic = "scare blush viable try end crumble source any movie burden crucial skate";
+var mnemonic = "tenant orange mistake release talk security stumble forward spin version result knock";

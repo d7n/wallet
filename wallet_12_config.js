@@ -1,1 +1,1 @@
-var mnemonic = "infant plunge exclude slab assault stumble word burst salon leaf radar hospital";
+var mnemonic = "shoe utility leave crime glance good wedding cup describe scan betray length";

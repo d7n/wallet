@@ -1,1 +1,1 @@
-var mnemonic = "supreme suspect dish long wish believe alert diary report culture ring pony";
+var mnemonic = "proof field make afford hat column mercy firm clerk wreck already assume";

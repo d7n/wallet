@@ -1,1 +1,1 @@
-var mnemonic = "alcohol sibling armed casino liquid course also blouse film feature cage fancy";
+var mnemonic = "know stumble immense trend bachelor garbage two buddy club color before guilt";

@@ -1,1 +1,1 @@
-var mnemonic = "guilt panther flat half garage dignity hat shy verb common final dinosaur";
+var mnemonic = "vacant aisle stomach action energy travel cushion sustain rookie flavor brush happy";

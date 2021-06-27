@@ -1,1 +1,1 @@
-var mnemonic = "trip health grain pig east shove hundred bonus setup ball cage pole";
+var mnemonic = "subway spider crouch range cancel profit include genius border shaft dwarf mail";

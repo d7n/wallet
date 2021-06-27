@@ -1,1 +1,1 @@
-var mnemonic = "lonely across recipe tip cloud topic advice plug bronze gift gaze answer";
+var mnemonic = "jump satisfy giggle gym together sheriff nephew transfer visual define escape leopard";

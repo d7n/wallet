@@ -1,1 +1,1 @@
-var mnemonic = "vendor assume hip update recycle this budget right neglect attend someone under";
+var mnemonic = "series usage pizza physical link during spare basket sugar this pause tumble";

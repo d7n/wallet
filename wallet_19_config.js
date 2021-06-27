@@ -1,1 +1,1 @@
-var mnemonic = "better robot asthma unlock juice output sock asset dog glance tag crop";
+var mnemonic = "earth virtual smooth tunnel useful second rib topple track credit supply vacuum";

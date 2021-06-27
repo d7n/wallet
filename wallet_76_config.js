@@ -1,1 +1,1 @@
-var mnemonic = "latin zero cheap sword act wolf tide hero senior report dress solar";
+var mnemonic = "profit catalog price birth deer cousin bring script swear drop visual genre";

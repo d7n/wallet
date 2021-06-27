@@ -1,1 +1,1 @@
-var mnemonic = "soul wave panel post napkin kick tent write crack then exist romance";
+var mnemonic = "dawn recipe real praise interest spike sign picture tray return clog lawn";

@@ -1,1 +1,1 @@
-var mnemonic = "note squeeze trust neither topple artefact disease domain bench monster awful coin";
+var mnemonic = "barrel obtain interest hat inhale hundred swarm liar bean super awful cube";

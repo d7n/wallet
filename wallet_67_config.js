@@ -1,1 +1,1 @@
-var mnemonic = "hello song athlete reform setup bullet material endless head sphere shop neither";
+var mnemonic = "history clerk winter quote husband giraffe come raw inform creek load aware";

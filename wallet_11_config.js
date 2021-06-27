@@ -1,1 +1,1 @@
-var mnemonic = "fog decade deny shed skin boy prevent edge rate filter diet rather";
+var mnemonic = "scatter clog aspect dignity various blind merit float curtain bargain intact explain";

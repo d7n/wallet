@@ -1,1 +1,1 @@
-var mnemonic = "faith dash bundle convince under news ride conduct minor engage become cream";
+var mnemonic = "strong debate wild ensure air popular digital dice lottery web matter stage";

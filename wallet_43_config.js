@@ -1,1 +1,1 @@
-var mnemonic = "beach cheap spirit lend moral crowd december brand method equal ski regret";
+var mnemonic = "elite trip leader fancy idle prize loud aerobic marble logic brisk whale";

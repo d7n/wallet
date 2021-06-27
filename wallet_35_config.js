@@ -1,1 +1,1 @@
-var mnemonic = "carry blue mention almost review control brief heavy exhibit web tumble remain";
+var mnemonic = "tape celery foil deny rally snow essay vacant usual vendor blossom owner";

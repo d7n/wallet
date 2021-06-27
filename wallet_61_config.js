@@ -1,1 +1,1 @@
-var mnemonic = "bamboo tank jewel organ enrich noise program engine true duty vivid atom";
+var mnemonic = "master sibling drift doll disagree click object bid tumble stone smile mansion";

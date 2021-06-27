@@ -1,1 +1,1 @@
-var mnemonic = "swing legal road slot bargain universe second design buzz relax accident tent";
+var mnemonic = "trade system bind minute creek build sport topic trash tumble brisk broken";

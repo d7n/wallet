@@ -1,1 +1,1 @@
-var mnemonic = "license stick hospital away renew resemble cost insect pledge marriage address frost";
+var mnemonic = "enact excuse scatter give close cliff country crunch ignore wool midnight regret";

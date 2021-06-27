@@ -1,1 +1,1 @@
-var mnemonic = "cereal fortune smooth gospel first layer this abandon firm crucial idea damp";
+var mnemonic = "liar retreat fence swim fold come stereo soldier perfect unveil trumpet cover";

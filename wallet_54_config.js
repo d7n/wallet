@@ -1,1 +1,1 @@
-var mnemonic = "dog unable general april fish write awful park service kingdom cat example";
+var mnemonic = "worth motion horse gown rebel laugh style sunny crack soap plug student";

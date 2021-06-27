@@ -1,1 +1,1 @@
-var mnemonic = "teach alien basic vintage helmet husband visual spike shadow vault color table";
+var mnemonic = "catch lab real mushroom beef neutral bind coast cost hair stove clarify";

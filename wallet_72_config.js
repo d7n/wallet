@@ -1,1 +1,1 @@
-var mnemonic = "number vault spend fee carpet vote aspect ski matrix entire scrap about";
+var mnemonic = "veteran toast utility blue liar plate pig swarm skill when solar congress";

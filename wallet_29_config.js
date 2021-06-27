@@ -1,1 +1,1 @@
-var mnemonic = "organ fold ostrich repair famous soft come recycle candy ignore gas impulse";
+var mnemonic = "chef dutch wet elephant kidney faculty catalog wolf chronic lens dial save";

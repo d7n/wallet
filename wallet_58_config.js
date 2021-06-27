@@ -1,1 +1,1 @@
-var mnemonic = "jeans economy above celery clean onion scene carpet party high embody person";
+var mnemonic = "hotel cushion common reopen defense demand height stumble giraffe truly borrow tail";

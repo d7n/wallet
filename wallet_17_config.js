@@ -1,1 +1,1 @@
-var mnemonic = "jacket twist slab cause raw cave ocean effort sphere chair release soft";
+var mnemonic = "shiver black high ski private because potato scout black crane rail sausage";

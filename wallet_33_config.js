@@ -1,1 +1,1 @@
-var mnemonic = "lumber easily deny shrimp search burden body movie reason maximum direct erupt";
+var mnemonic = "ahead marine thank tourist teach chaos consider kit near broccoli range deputy";

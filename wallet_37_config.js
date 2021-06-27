@@ -1,1 +1,1 @@
-var mnemonic = "turkey pill furnace swear just impose notable umbrella solar news quiz invite";
+var mnemonic = "dignity tent verify dog basic arrow become crop curious connect number basic";

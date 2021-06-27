@@ -1,1 +1,1 @@
-var mnemonic = "patch spray pulp blade energy essay lunch swift own mask surround ski";
+var mnemonic = "reject tent solar cricket aerobic venture test nerve fat lemon shed glare";

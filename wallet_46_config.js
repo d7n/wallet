@@ -1,1 +1,1 @@
-var mnemonic = "detail report seek rigid appear piano often element frame subway energy time";
+var mnemonic = "tongue addict hockey slab famous devote uncover reflect power salad pig level";

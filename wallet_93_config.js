@@ -1,1 +1,1 @@
-var mnemonic = "tragic eager crop brother false skin cover avocado matrix pattern night machine";
+var mnemonic = "empower embark quick model alien knife fantasy bubble stamp walk nose discover";

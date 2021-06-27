@@ -1,1 +1,1 @@
-var mnemonic = "design area cheese weapon traffic also excuse dumb awful swim more climb";
+var mnemonic = "super fabric hidden name seat area kid guilt fantasy domain require twin";

@@ -1,1 +1,1 @@
-var mnemonic = "silk salt unknown reduce give copper buzz water hat ridge electric jacket";
+var mnemonic = "boss heavy cattle congress tool element shrimp skirt pave skill goose abstract";

@@ -1,1 +1,1 @@
-var mnemonic = "unable elegant battle whale pyramid blame boss lunch parent drill enjoy copper";
+var mnemonic = "derive rely hazard family fatigue basket family business material fruit month mosquito";

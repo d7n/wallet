@@ -1,1 +1,1 @@
-var mnemonic = "pony whip camp carbon often snow rice fresh pencil whisper teach harsh";
+var mnemonic = "topple opinion blush pyramid attract peanut secret teach dynamic elegant acoustic vicious";

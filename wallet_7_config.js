@@ -1,1 +1,1 @@
-var mnemonic = "alien polar fancy bulb subway cram patch mixed awake armed satisfy lucky";
+var mnemonic = "moral before mercy wool farm firm toy base vague carry silent identify";

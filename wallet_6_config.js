@@ -1,1 +1,1 @@
-var mnemonic = "identify tag swim stone empty tragic level pair sea nation abandon crunch";
+var mnemonic = "off forest off illness rubber salad menu wood claw husband vendor swallow";

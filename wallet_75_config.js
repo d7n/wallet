@@ -1,1 +1,1 @@
-var mnemonic = "legal volcano shift cigar organ primary early major switch stove peasant payment";
+var mnemonic = "pepper recipe kangaroo pulp come used start deer original frequent garage domain";

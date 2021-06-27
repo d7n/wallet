@@ -1,1 +1,1 @@
-var mnemonic = "breeze dinosaur trophy book wet detail elite frequent sustain life around canoe";
+var mnemonic = "loan grit hub safe quarter great sand segment fox vanish shift nature";

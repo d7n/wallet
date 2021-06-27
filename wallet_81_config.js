@@ -1,1 +1,1 @@
-var mnemonic = "crucial elder salute shine wealth fan depth quiz antenna title avoid diary";
+var mnemonic = "addict window attitude miss mammal grab roast sausage exercise minute target forest";

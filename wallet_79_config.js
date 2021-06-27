@@ -1,1 +1,1 @@
-var mnemonic = "harvest street black harbor begin parent mansion ride guard stool crane dice";
+var mnemonic = "flip buddy august forum ability intact emerge mosquito list spin defy unhappy";

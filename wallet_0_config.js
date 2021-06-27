@@ -1,1 +1,1 @@
-var mnemonic = "umbrella race account chest punch educate clog hand law pause night portion";
+var mnemonic = "payment fan vocal pattern end school social fabric coyote cost what labor";

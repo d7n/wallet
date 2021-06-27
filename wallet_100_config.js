@@ -1,1 +1,1 @@
-var mnemonic = "garden hub poverty soon venture crystal maple cement vault test firm race";
+var mnemonic = "veteran axis genuine silly puzzle elbow armed expand oil put stable reason";

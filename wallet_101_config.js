@@ -1,1 +1,1 @@
-var mnemonic = "goddess input churn beef eye apart father caught unfair diagram script aspect";
+var mnemonic = "predict unaware midnight best umbrella host adapt canvas climb prison ring hard";

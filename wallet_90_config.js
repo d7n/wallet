@@ -1,1 +1,1 @@
-var mnemonic = "skirt consider snap rotate panda pepper oxygen acid fan era copy slight";
+var mnemonic = "history settle age path verb travel wage adult chalk recycle awkward imitate";

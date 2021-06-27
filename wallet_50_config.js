@@ -1,1 +1,1 @@
-var mnemonic = "airport avocado illness gift tail boss typical scene retreat injury mass fresh";
+var mnemonic = "solar sausage moral buzz affair case tonight luggage bike million taxi tail";

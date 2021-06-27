@@ -1,1 +1,1 @@
-var mnemonic = "document butter guitar admit angle beach stem any alpha ramp genre bracket";
+var mnemonic = "review reflect humor check photo ability crop hurt satoshi vessel maximum express";

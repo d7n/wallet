@@ -1,1 +1,1 @@
-var mnemonic = "minute over skate fine frozen drum debris draw until barrel armed choose";
+var mnemonic = "term recipe sibling alpha unhappy vault display joy horse zone hospital absorb";

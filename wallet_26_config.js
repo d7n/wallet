@@ -1,1 +1,1 @@
-var mnemonic = "cute engage foster another cherry convince pulse safe age bubble fragile hero";
+var mnemonic = "soon food expect zone news unable field swarm imitate issue pear hero";

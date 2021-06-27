@@ -1,1 +1,1 @@
-var mnemonic = "peanut survey table carry garment trouble dad upgrade air erupt deliver dash";
+var mnemonic = "local piece talk couple region moon olive prefer spin flash long vicious";

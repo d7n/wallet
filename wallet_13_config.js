@@ -1,1 +1,1 @@
-var mnemonic = "property park fever duty thumb quote cash sand damage luxury minute upon";
+var mnemonic = "pink soul cabbage tackle prosper pretty history outer ivory mom west love";

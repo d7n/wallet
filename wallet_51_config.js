@@ -1,1 +1,1 @@
-var mnemonic = "narrow whip satoshi frog vehicle retire captain bronze include vague sausage toast";
+var mnemonic = "amused penalty divide prevent need rubber box bid review enroll elephant drill";

@@ -1,1 +1,1 @@
-var mnemonic = "sing rude trap trend room swing grant coffee key custom appear alley";
+var mnemonic = "wheel faint cool recipe captain enable strategy vast brave harsh task truth";

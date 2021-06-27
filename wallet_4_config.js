@@ -1,1 +1,1 @@
-var mnemonic = "clay clump seat battle scatter lion ozone obscure stumble permit hurry art";
+var mnemonic = "outside umbrella vital enlist sun museum walk adjust million famous pottery rose";

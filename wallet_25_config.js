@@ -1,1 +1,1 @@
-var mnemonic = "desk version vendor sport episode hint bunker expose decade snake mesh glue";
+var mnemonic = "lonely muffin swamp round excess pair degree gas sell debris habit trick";
