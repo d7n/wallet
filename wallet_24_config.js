@@ -1,1 +1,1 @@
-var mnemonic = "clean license magic office design stadium fiscal hybrid lava daughter crime taste";
+var mnemonic = "chalk chalk loud badge dutch mention swallow leaf cross gun learn exile";

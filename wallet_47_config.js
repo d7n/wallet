@@ -1,1 +1,1 @@
-var mnemonic = "sight retire race tornado wrap material area august stage scissors lobster liberty";
+var mnemonic = "disorder traffic wash above object special blossom mountain over sister end outer";

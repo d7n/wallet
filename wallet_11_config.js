@@ -1,1 +1,1 @@
-var mnemonic = "attack maple search concert skirt purpose unaware dirt slam vibrant table there";
+var mnemonic = "squirrel secret drastic curve blind void drop observe twenty virtual observe bachelor";

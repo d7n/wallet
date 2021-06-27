@@ -1,1 +1,1 @@
-var mnemonic = "face lonely cat obey print spice prepare spy else cherry square record";
+var mnemonic = "adjust year pupil lens unable circle trophy husband ritual license blast vocal";

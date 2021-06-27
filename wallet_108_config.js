@@ -1,1 +1,1 @@
-var mnemonic = "wink ribbon cry fiction repeat confirm bundle elite dolphin camera finger play";
+var mnemonic = "vivid maximum intact roof jungle chapter junior jazz issue hospital law clown";

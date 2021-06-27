@@ -1,1 +1,1 @@
-var mnemonic = "obey answer tornado champion this muffin caught crazy shell mutual canyon nerve";
+var mnemonic = "fish social resemble doll such keep laptop then section leopard certain slush";

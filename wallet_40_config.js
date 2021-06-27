@@ -1,1 +1,1 @@
-var mnemonic = "peanut lens answer siege scrub renew develop zone impact laptop again hint";
+var mnemonic = "result fuel prepare minimum arrest similar inner private novel marine increase bone";

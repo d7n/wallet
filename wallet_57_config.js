@@ -1,1 +1,1 @@
-var mnemonic = "diet foil pilot flower ginger renew before mandate tomato climb flock resist";
+var mnemonic = "about kiwi mail life display position usual parent text upgrade apart cart";

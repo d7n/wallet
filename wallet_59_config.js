@@ -1,1 +1,1 @@
-var mnemonic = "chef siege abandon weapon since subject market bitter organ desert meadow inflict";
+var mnemonic = "lens inner acid hood frost birth witness pepper grocery soldier orient toss";

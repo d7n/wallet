@@ -1,1 +1,1 @@
-var mnemonic = "tortoise plastic train purchase cart lucky super define wheat unaware seek movie";
+var mnemonic = "muscle risk beach pool knock gift gentle adjust portion illegal will milk";

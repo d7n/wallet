@@ -1,1 +1,1 @@
-var mnemonic = "manual uphold math typical dumb december wrestle sugar tribe rely cross spin";
+var mnemonic = "pink able soon primary among cannon truth dragon success mobile afford immune";

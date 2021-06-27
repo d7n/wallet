@@ -1,1 +1,1 @@
-var mnemonic = "clean exchange flavor actor lift provide fatal palm ticket live scout gadget";
+var mnemonic = "blur remember pumpkin venture ski zebra tube task giant doctor rally sun";

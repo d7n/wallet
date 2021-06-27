@@ -1,1 +1,1 @@
-var mnemonic = "shrimp neutral badge drink hungry key artwork assault awake ship bulb congress";
+var mnemonic = "glare under early discover elegant dry post cash trumpet raw city bubble";

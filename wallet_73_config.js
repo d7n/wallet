@@ -1,1 +1,1 @@
-var mnemonic = "dress dance army often leave obvious cereal same husband question step shove";
+var mnemonic = "night spatial push cabin reunion burden museum cancel peace duty bridge amused";

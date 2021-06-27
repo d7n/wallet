@@ -1,1 +1,1 @@
-var mnemonic = "bounce advice prefer unique wish sauce material accident turkey salute menu edge";
+var mnemonic = "demise fish room hill survey bid lunar pitch mosquito venture royal soup";

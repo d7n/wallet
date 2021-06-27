@@ -1,1 +1,1 @@
-var mnemonic = "awake mail trend glimpse text damage trust armed ramp exchange sleep inner";
+var mnemonic = "rail arena hidden rebel fuel upon sheriff state cement clay outside life";

@@ -1,1 +1,1 @@
-var mnemonic = "table rice august lion pigeon lady fee again panda second inspire uniform";
+var mnemonic = "dash glad sweet snack figure banana property edit tent nasty mango utility";

@@ -1,1 +1,1 @@
-var mnemonic = "banner uncle stairs grass buddy one isolate snap time inquiry voice job";
+var mnemonic = "employ around village modify pioneer cancel shine clean protect easy there annual";

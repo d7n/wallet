@@ -1,1 +1,1 @@
-var mnemonic = "second refuse useful input immense adjust genius drop decrease service advance audit";
+var mnemonic = "venture syrup theory orbit begin various tide offer empty vendor expire chicken";

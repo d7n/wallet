@@ -1,1 +1,1 @@
-var mnemonic = "beauty script congress vintage diamond loyal rabbit pause require hand game maze";
+var mnemonic = "bleak talk shop loan bonus squeeze spy clerk ranch shoot great play";

@@ -1,1 +1,1 @@
-var mnemonic = "erode slim advice add monkey salad sustain clock movie toward industry invest";
+var mnemonic = "about trouble vapor grass heart glance civil fiber report unfold mushroom vacant";

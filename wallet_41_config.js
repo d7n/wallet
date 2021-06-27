@@ -1,1 +1,1 @@
-var mnemonic = "timber galaxy loud bread imitate stamp situate runway cake gun trumpet era";
+var mnemonic = "liberty slab senior midnight friend tree auction useful crop accident design case";

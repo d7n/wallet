@@ -1,1 +1,1 @@
-var mnemonic = "minimum possible guilt mansion trigger erode woman sort harvest nominee match pitch";
+var mnemonic = "assault labor put pole lottery possible swing again rail spawn enact manual";

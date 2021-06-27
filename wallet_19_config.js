@@ -1,1 +1,1 @@
-var mnemonic = "ginger puzzle cake swim drum mixed horse slab nature member come escape";
+var mnemonic = "exclude siege fruit expect venture skirt diary hawk fragile suit attract invite";

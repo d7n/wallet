@@ -1,1 +1,1 @@
-var mnemonic = "stable keep habit sting expect accident course ignore custom embrace permit culture";
+var mnemonic = "dismiss grace winter iron ladder observe plug area amount harbor credit okay";

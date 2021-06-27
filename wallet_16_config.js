@@ -1,1 +1,1 @@
-var mnemonic = "above sorry key fine clean noise mosquito begin blood tree child renew";
+var mnemonic = "waste order boost hello benefit accident original save float mean item annual";

@@ -1,1 +1,1 @@
-var mnemonic = "wood skill odor cupboard invest praise warm whale liar myth twist frost";
+var mnemonic = "bind found size tobacco save climb shell kingdom wheat razor present casino";

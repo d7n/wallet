@@ -1,1 +1,1 @@
-var mnemonic = "canyon rebel sail waste alley sadness leg above random senior soldier sister";
+var mnemonic = "section green risk tattoo piece goose crime two mom feel silent hard";

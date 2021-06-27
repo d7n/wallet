@@ -1,1 +1,1 @@
-var mnemonic = "book response much loan search omit funny lawn fog wild end force";
+var mnemonic = "trouble foster away salmon you piece seminar welcome shoot drive else own";

@@ -1,1 +1,1 @@
-var mnemonic = "tongue erode afraid tilt adjust bracket bicycle merry force pupil spray quality";
+var mnemonic = "pigeon modify summer rare stuff wave mistake assume egg sock village cement";

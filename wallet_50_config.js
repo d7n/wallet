@@ -1,1 +1,1 @@
-var mnemonic = "car pilot fancy crop wear confirm update quiz orchard fantasy wisdom virtual";
+var mnemonic = "blade sorry age history crew thought clip balance then layer fine bone";

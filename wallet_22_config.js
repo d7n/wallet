@@ -1,1 +1,1 @@
-var mnemonic = "blood trim lesson pledge ancient zoo cloth version divert purpose strike ginger";
+var mnemonic = "build supreme dinner point denial unaware half dwarf bonus sugar want cat";

@@ -1,1 +1,1 @@
-var mnemonic = "venue load damp build scout eight lottery dish manage film fitness situate";
+var mnemonic = "rib scrub hen glad school adjust kingdom ivory dad square hill pledge";

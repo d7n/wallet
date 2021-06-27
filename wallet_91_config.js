@@ -1,1 +1,1 @@
-var mnemonic = "cannon dilemma stable near cover swear almost helmet limit cute chunk fly";
+var mnemonic = "wash baby this ticket catch view fix spray frame become print hover";

@@ -1,1 +1,1 @@
-var mnemonic = "naive elder spawn erase develop journey skull huge reward blouse cattle prefer";
+var mnemonic = "kitchen tennis color trouble tone buffalo maid mistake canvas question tower later";

@@ -1,1 +1,1 @@
-var mnemonic = "repeat grief void bachelor gun buffalo athlete grid material this confirm tag";
+var mnemonic = "tray range snack resemble put media hat air wealth possible feel more";

@@ -1,1 +1,1 @@
-var mnemonic = "build dolphin shoulder snack enjoy journey inspire disease desert review tobacco candy";
+var mnemonic = "frequent sphere crumble heart song proof staff legal gauge simple chunk this";

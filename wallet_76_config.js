@@ -1,1 +1,1 @@
-var mnemonic = "gossip hill gain spice toy time retreat intact leisure wild sample process";
+var mnemonic = "rely federal gossip else page connect teach list lucky force gym bullet";

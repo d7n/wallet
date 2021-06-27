@@ -1,1 +1,1 @@
-var mnemonic = "once garage speak garlic badge office edge give together answer build damage";
+var mnemonic = "economy result stage prize ability gym only heart help entry intact suspect";

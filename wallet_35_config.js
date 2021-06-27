@@ -1,1 +1,1 @@
-var mnemonic = "clip address bone turn strike catch gadget edit fish sun rebuild audit";
+var mnemonic = "swamp embrace better orange glove all hospital calm double sniff want guide";

@@ -1,1 +1,1 @@
-var mnemonic = "eye gorilla erosion approve cute tired amused word genre egg music rude";
+var mnemonic = "ketchup rain inherit element wolf wolf kick social fence direct entry speed";

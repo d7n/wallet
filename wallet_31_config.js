@@ -1,1 +1,1 @@
-var mnemonic = "inform kid plunge seat infant fresh neutral message fossil silk august nut";
+var mnemonic = "exit action daring air assist strategy horror violin family stable else front";

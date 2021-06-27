@@ -1,1 +1,1 @@
-var mnemonic = "misery essay expect holiday twin park arena wonder tool small lift busy";
+var mnemonic = "fog auto voyage bind learn only avocado drama solve digital country cover";

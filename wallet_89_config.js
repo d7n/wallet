@@ -1,1 +1,1 @@
-var mnemonic = "movie collect buddy spatial logic undo fantasy muscle section pluck wheel explain";
+var mnemonic = "organ soup oppose beef foster choose music angry enrich poem chronic adjust";

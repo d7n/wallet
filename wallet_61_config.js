@@ -1,1 +1,1 @@
-var mnemonic = "pole proud bike vivid skirt estate popular gap start saddle relax radar";
+var mnemonic = "half warm shift food outside adapt desert purchase ski minimum rule flip";

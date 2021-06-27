@@ -1,1 +1,1 @@
-var mnemonic = "match clinic subway great virus spring nuclear cabbage subway uniform diesel object";
+var mnemonic = "bean orient clutch pony bulb odor embrace fault casual put south wool";

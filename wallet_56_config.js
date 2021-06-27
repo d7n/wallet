@@ -1,1 +1,1 @@
-var mnemonic = "story erosion endless rhythm snake orbit eyebrow fame state hammer bone prison";
+var mnemonic = "inform submit antique grace govern exhibit genuine super time inflict degree cradle";

@@ -1,1 +1,1 @@
-var mnemonic = "record snap shaft sell mother mule measure stem consider hybrid nature inform";
+var mnemonic = "festival phrase hundred clean radio skull involve credit chef drop two crazy";

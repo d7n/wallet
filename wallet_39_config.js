@@ -1,1 +1,1 @@
-var mnemonic = "kick edit end clap candy maximum liberty bar include that kingdom swallow";
+var mnemonic = "brain camera egg perfect fuel since recipe deal rookie birth describe please";

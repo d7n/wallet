@@ -1,1 +1,1 @@
-var mnemonic = "pride wedding together bamboo peanut slogan brush habit alarm depend blouse donate";
+var mnemonic = "during image adjust return craft clarify ecology lawsuit garden regret diagram bread";

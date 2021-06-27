@@ -1,1 +1,1 @@
-var mnemonic = "tissue green debris skate denial angry poverty congress spin century depend core";
+var mnemonic = "glove feel draft cover best alter much just shadow pattern crane antique";

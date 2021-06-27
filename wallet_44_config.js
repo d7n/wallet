@@ -1,1 +1,1 @@
-var mnemonic = "gap you coyote capable method age roof prepare stairs spot brother memory";
+var mnemonic = "marriage twice isolate ask math shoe coil glass swing gauge dumb clip";

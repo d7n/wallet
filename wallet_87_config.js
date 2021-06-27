@@ -1,1 +1,1 @@
-var mnemonic = "spice seek onion hard cry hand hero wood sure round plug win";
+var mnemonic = "base stumble dizzy bulk decline cheese wire grunt grief sponsor split patient";

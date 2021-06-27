@@ -1,1 +1,1 @@
-var mnemonic = "window cereal goat tip raccoon change trust tomorrow stuff banner elbow reunion";
+var mnemonic = "there outer proud tumble wish cluster typical live cherry portion gun balcony";

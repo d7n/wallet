@@ -1,1 +1,1 @@
-var mnemonic = "void luggage tooth total sudden close industry engine lemon small true steak";
+var mnemonic = "share unlock bubble fun soap vendor company staff match diagram bundle three";

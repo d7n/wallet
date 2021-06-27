@@ -1,1 +1,1 @@
-var mnemonic = "position uphold stamp quiz mansion vital elevator bench jeans right magic source";
+var mnemonic = "orange enter welcome fame clump mom nasty lake raw violin latin powder";

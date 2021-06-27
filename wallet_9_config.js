@@ -1,1 +1,1 @@
-var mnemonic = "burger wisdom robot will iron clinic dinosaur same car wrist extra turkey";
+var mnemonic = "try shift lobster reflect volcano once escape monitor book curve sing garlic";

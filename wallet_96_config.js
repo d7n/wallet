@@ -1,1 +1,1 @@
-var mnemonic = "universe universe month expand stem uniform flee region trick lyrics fitness express";
+var mnemonic = "flight absorb scale uniform scout library square betray proud cart walnut wonder";

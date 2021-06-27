@@ -1,1 +1,1 @@
-var mnemonic = "warrior convince evil toilet zebra lottery discover wear repeat forget husband begin";
+var mnemonic = "oblige rough drive ostrich drink planet mother broom aerobic minor unaware vivid";

@@ -1,1 +1,1 @@
-var mnemonic = "globe river flower clinic attitude famous mean open scorpion sign normal illness";
+var mnemonic = "nephew increase seed main tray empower worry drill milk comic build volcano";

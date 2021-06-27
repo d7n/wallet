@@ -1,1 +1,1 @@
-var mnemonic = "solution solid hub emotion dignity deal genre filter glue pact digital calm";
+var mnemonic = "require glow salt all smooth shift ghost pilot chronic engage rifle dove";

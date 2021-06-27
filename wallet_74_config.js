@@ -1,1 +1,1 @@
-var mnemonic = "stumble suggest check roast flame wonder unable media scatter suggest uphold oppose";
+var mnemonic = "fix coin engage humble control real prosper alarm candy remove snake spoil";

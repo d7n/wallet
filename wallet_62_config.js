@@ -1,1 +1,1 @@
-var mnemonic = "sort bird guitar river twenty end crouch quality enhance cluster talk early";
+var mnemonic = "obscure illness special cinnamon birth dice garden like verb tip soul december";

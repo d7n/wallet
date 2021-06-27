@@ -1,1 +1,1 @@
-var mnemonic = "build horse fresh lava february before ceiling what connect share tornado grace";
+var mnemonic = "click skin build spoon youth tail fade gospel sure banner rocket oven";

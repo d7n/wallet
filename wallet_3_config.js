@@ -1,1 +1,1 @@
-var mnemonic = "melody dress list emerge nothing deer elegant cave burger time guess abandon";
+var mnemonic = "dizzy volcano wish cute visit old wood try original manage bunker buddy";

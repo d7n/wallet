@@ -1,1 +1,1 @@
-var mnemonic = "vocal wave unaware grow mobile acoustic trash awkward leave armor gate artwork";
+var mnemonic = "honey remind bag flower price morning shop person version record major canyon";

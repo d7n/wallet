@@ -1,1 +1,1 @@
-var mnemonic = "hungry naive beach torch depart inflict lock embrace together food grunt dust";
+var mnemonic = "estate chimney sense typical pistol tell work consider find lab today hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "biology where harbor loyal drop season orphan margin cart pottery goat beyond";
+var mnemonic = "sound identify vault find infant enable bind loop danger camp tube car";

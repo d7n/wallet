@@ -1,1 +1,1 @@
-var mnemonic = "shell relax grit mind churn angry people sand stone inform violin better";
+var mnemonic = "add notable pretty delay marriage potato angry worry thunder arena enough talk";

@@ -1,1 +1,1 @@
-var mnemonic = "donor sing mirror energy diamond remove harsh soon corn cube sell favorite";
+var mnemonic = "memory pizza social absurd leader diet resource daughter spatial expose board trap";

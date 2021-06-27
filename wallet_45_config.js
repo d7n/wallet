@@ -1,1 +1,1 @@
-var mnemonic = "game destroy clay pull fish finger gesture route deputy ordinary draw net";
+var mnemonic = "gallery seek pet dawn vicious million fold surge inject keen space ramp";

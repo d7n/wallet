@@ -1,1 +1,1 @@
-var mnemonic = "lonely frame dynamic bag garment disagree vacant toward planet skin clog damage";
+var mnemonic = "tent unlock dizzy season vital size rose anxiety medal pear region orange";

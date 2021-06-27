@@ -1,1 +1,1 @@
-var mnemonic = "cousin tip cupboard labor series more tribe flock junior upper road pipe";
+var mnemonic = "sound pass tattoo reward beach shop session front step throw phone wash";

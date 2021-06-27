@@ -1,1 +1,1 @@
-var mnemonic = "illegal match forward obscure denial bread glide squirrel become original cannon patrol";
+var mnemonic = "before sudden legend tag sleep common illegal flame green garlic foster another";

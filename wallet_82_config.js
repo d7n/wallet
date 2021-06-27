@@ -1,1 +1,1 @@
-var mnemonic = "author involve cheese bronze oxygen anger manual zebra protect decide walk question";
+var mnemonic = "sock mixed zero idle wasp spread husband boil total wet just refuse";

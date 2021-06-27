@@ -1,1 +1,1 @@
-var mnemonic = "open rack faculty reject subject screen ignore blame awesome devote twin bid";
+var mnemonic = "prize ten excite badge among swear bacon night view zoo stuff jazz";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar pause barrel cook myth resemble angle spice clown fan when suggest";
+var mnemonic = "struggle swift kid skirt abstract weather tip rent lamp limit size anxiety";

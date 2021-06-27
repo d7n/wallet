@@ -1,1 +1,1 @@
-var mnemonic = "under address toss bridge bike must wire auction slow kitchen uniform nuclear";
+var mnemonic = "tired frequent exotic vapor gold cluster deal violin bullet tail exotic twenty";

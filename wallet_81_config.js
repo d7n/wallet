@@ -1,1 +1,1 @@
-var mnemonic = "grass force beef almost fury call bean village curtain rebel yard hold";
+var mnemonic = "script sock denial clock isolate rhythm science tip inflict virus explain connect";
