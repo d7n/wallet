@@ -1,1 +1,1 @@
-var mnemonic = "lunch shield clinic source derive tilt kid famous settle reason swallow fetch";
+var mnemonic = "awful sight edit mandate finger proud clay aware divert globe suspect tank";

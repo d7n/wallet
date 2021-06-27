@@ -1,1 +1,1 @@
-var mnemonic = "object heavy tent bachelor interest admit road chair agree doctor bargain dress";
+var mnemonic = "palm mention note oval purity deny normal hello obscure weasel charge strategy";

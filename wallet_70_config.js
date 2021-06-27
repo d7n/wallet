@@ -1,1 +1,1 @@
-var mnemonic = "dirt valid vehicle move eager rally fiction castle vanish orange strategy garlic";
+var mnemonic = "antique humor donor spatial crater ginger save penalty rate injury bless corn";

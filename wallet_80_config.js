@@ -1,1 +1,1 @@
-var mnemonic = "flavor exercise air aspect unlock seven diet casino educate identify season cluster";
+var mnemonic = "coast auction taste success dentist rail usual chapter dolphin pass announce napkin";

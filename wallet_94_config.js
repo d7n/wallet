@@ -1,1 +1,1 @@
-var mnemonic = "detect false issue fold slow group antenna goddess dilemma they laugh axis";
+var mnemonic = "antique boy adult claim risk side flee hedgehog cruel pear inherit crisp";

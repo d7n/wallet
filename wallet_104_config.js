@@ -1,1 +1,1 @@
-var mnemonic = "clap divorce reveal cancel size artwork tumble pioneer immune girl solve unable";
+var mnemonic = "climb chair first soccer wrong stamp cruise police amazing pepper deposit fragile";

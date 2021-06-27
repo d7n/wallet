@@ -1,1 +1,1 @@
-var mnemonic = "pudding solution region permit mirror wagon gather field cattle alarm uncle curious";
+var mnemonic = "hazard lizard hundred rocket shop shove mercy cable marriage siren body child";

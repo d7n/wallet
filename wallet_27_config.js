@@ -1,1 +1,1 @@
-var mnemonic = "doll hobby property today trash please lesson way demand grace accuse car";
+var mnemonic = "oven dinner soap together laptop dry school vibrant attend reopen world chicken";

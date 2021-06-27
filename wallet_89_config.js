@@ -1,1 +1,1 @@
-var mnemonic = "word flip injury hint ketchup modify bracket flavor master negative nut wreck";
+var mnemonic = "addict used script bulb nation cupboard recipe off couch museum marble reflect";

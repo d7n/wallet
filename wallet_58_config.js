@@ -1,1 +1,1 @@
-var mnemonic = "prosper rare hat tongue sample amount joy cool member tiny setup grace";
+var mnemonic = "estate gossip split rigid huge notable normal mixed guess receive share night";

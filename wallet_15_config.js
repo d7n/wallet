@@ -1,1 +1,1 @@
-var mnemonic = "dust pole fire doll dwarf photo kitchen little stock cloth until village";
+var mnemonic = "ridge dove claw mystery perfect total month process drastic usual warfare spawn";

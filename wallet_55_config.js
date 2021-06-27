@@ -1,1 +1,1 @@
-var mnemonic = "fury solution common east rebel amused ski weekend business fish cliff regular";
+var mnemonic = "update render plug write document art like faint ask then clog song";

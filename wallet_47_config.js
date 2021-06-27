@@ -1,1 +1,1 @@
-var mnemonic = "ribbon inherit cruel elevator senior holiday balcony claw amazing wall glue worth";
+var mnemonic = "coast employ leaf maple guitar fabric tiger wreck eagle orient gallery rebuild";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter future you tumble afford february true pipe honey remain town report";
+var mnemonic = "caught portion badge athlete amount ring witness donate grit abandon network bitter";

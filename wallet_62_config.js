@@ -1,1 +1,1 @@
-var mnemonic = "inherit push tag lamp badge fitness corn address weapon foster afraid erase";
+var mnemonic = "limit royal coin puzzle gentle select open pigeon stereo produce sentence fluid";

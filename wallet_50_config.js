@@ -1,1 +1,1 @@
-var mnemonic = "fox senior document memory scatter clap travel language lizard cycle weasel trade";
+var mnemonic = "material identify zoo ecology lunar stomach detail obey blouse sheriff forward mention";

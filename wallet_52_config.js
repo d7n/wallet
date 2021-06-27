@@ -1,1 +1,1 @@
-var mnemonic = "wagon thank vault expose give still fish forum sleep laptop syrup clog";
+var mnemonic = "basket clip whip attitude audit coconut charge kid giant cluster fame shell";

@@ -1,1 +1,1 @@
-var mnemonic = "biology predict trend parent spawn beauty system ahead amazing melody width debate";
+var mnemonic = "give office situate clutch vault hello april glad behave mad river total";

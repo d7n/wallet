@@ -1,1 +1,1 @@
-var mnemonic = "exhibit reject rescue injury unknown message morning dove olympic envelope frozen tell";
+var mnemonic = "caution true rice trap risk age minor update talk seminar estate fresh";

@@ -1,1 +1,1 @@
-var mnemonic = "episode radio canoe acoustic romance cinnamon employ unhappy absurd tragic used rookie";
+var mnemonic = "alien alcohol chapter alcohol decrease inner gospel obtain buddy jaguar viable away";

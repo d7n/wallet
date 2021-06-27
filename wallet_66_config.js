@@ -1,1 +1,1 @@
-var mnemonic = "stamp youth stomach total climb average sad snake ritual monster desk review";
+var mnemonic = "grass rice onion hollow near nose party leopard text wreck luxury return";

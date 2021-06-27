@@ -1,1 +1,1 @@
-var mnemonic = "slow jar lazy any hub manage pledge baby medal bacon lottery man";
+var mnemonic = "derive expire guitar over pulp joy brass work slam nasty mention trade";

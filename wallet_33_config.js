@@ -1,1 +1,1 @@
-var mnemonic = "since refuse blue blue hobby pumpkin keen trash list fatal equal asset";
+var mnemonic = "fashion pulse chef system auction energy tragic average follow hazard oil pepper";

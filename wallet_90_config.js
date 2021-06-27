@@ -1,1 +1,1 @@
-var mnemonic = "wet abandon beauty friend enhance away two fog unknown believe grape winner";
+var mnemonic = "scale gossip behave someone jar drink sign wink vibrant diesel abandon sponsor";

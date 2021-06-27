@@ -1,1 +1,1 @@
-var mnemonic = "because lab magnet clinic hunt during crunch crunch defy exhaust all wrap";
+var mnemonic = "space long tennis flag step struggle tower dinosaur skull blue rotate clap";

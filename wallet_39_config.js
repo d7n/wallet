@@ -1,1 +1,1 @@
-var mnemonic = "water hard float later history airport code upgrade awkward top carbon trust";
+var mnemonic = "client gift rude high spider fuel century snack cupboard bomb learn cherry";

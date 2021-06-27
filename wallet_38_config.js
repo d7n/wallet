@@ -1,1 +1,1 @@
-var mnemonic = "quick radar laptop lottery weird theory crunch shuffle spice coil hint trouble";
+var mnemonic = "bottom shock truck rabbit gauge firm miss easy cushion once pave evolve";

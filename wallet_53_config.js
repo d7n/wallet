@@ -1,1 +1,1 @@
-var mnemonic = "east salon hungry reward welcome share keen bid run music forget conduct";
+var mnemonic = "day mail catch tourist scrub youth reason retreat small tomorrow hollow loop";

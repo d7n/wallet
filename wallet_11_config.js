@@ -1,1 +1,1 @@
-var mnemonic = "need poem announce easily speak join omit across upon load educate again";
+var mnemonic = "never public snake now fruit prize drift roof huge kitchen major expire";

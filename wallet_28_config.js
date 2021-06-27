@@ -1,1 +1,1 @@
-var mnemonic = "maze nuclear awful forward winner delay arctic fee target magic very move";
+var mnemonic = "furnace casino warfare reunion stereo pill entire tree swallow join square dignity";

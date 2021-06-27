@@ -1,1 +1,1 @@
-var mnemonic = "forget letter car drive camera race fork bean term myself alley fruit";
+var mnemonic = "resist myth winner salad shadow delay replace hurdle liar much weasel begin";

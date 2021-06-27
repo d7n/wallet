@@ -1,1 +1,1 @@
-var mnemonic = "zebra gravity fun affair divert vital audit recall fragile sorry mirror renew";
+var mnemonic = "gas civil imitate impulse door more bulk human hood unusual slab old";

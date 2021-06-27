@@ -1,1 +1,1 @@
-var mnemonic = "grunt puzzle prepare monkey lunch bridge matrix exit mutual material nasty gossip";
+var mnemonic = "biology famous hole auto nose engine useful hold diet atom news pulp";

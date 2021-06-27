@@ -1,1 +1,1 @@
-var mnemonic = "tattoo item onion hold sad auction whisper excite giraffe suffer give tribe";
+var mnemonic = "normal sweet dream green vehicle famous undo tissue camera law dynamic wire";

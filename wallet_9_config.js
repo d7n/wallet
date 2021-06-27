@@ -1,1 +1,1 @@
-var mnemonic = "impact give panel museum two derive dice evoke before panther eager wasp";
+var mnemonic = "ugly crush enforce input retire bachelor cage length stereo cube nice tribe";

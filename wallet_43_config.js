@@ -1,1 +1,1 @@
-var mnemonic = "almost obtain surface predict drop basic monitor cigar atom naive curtain impact";
+var mnemonic = "hand slush suspect grocery cinnamon churn lazy chat junk demand uncover fiscal";

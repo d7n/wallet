@@ -1,1 +1,1 @@
-var mnemonic = "twice april story reject slab siege jealous salmon shine collect usage sick";
+var mnemonic = "rural year wood spirit gap tribe buzz wait strategy breeze number glimpse";

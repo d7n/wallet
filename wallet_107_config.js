@@ -1,1 +1,1 @@
-var mnemonic = "seat siren unfair cram news melt van ostrich control later burst drum";
+var mnemonic = "sauce develop private mobile safe nice absent rib resist fiber bulk home";

@@ -1,1 +1,1 @@
-var mnemonic = "cupboard copper journey pilot still fan supreme film rigid lift mouse erode";
+var mnemonic = "riot coconut toss romance crop glimpse sweet idle color cat ordinary kiwi";

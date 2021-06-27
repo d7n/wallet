@@ -1,1 +1,1 @@
-var mnemonic = "valve error miss word ready mechanic ceiling rabbit cancel exact wild inch";
+var mnemonic = "broom ceiling trash quality panda genre pact assist puzzle wealth shift spirit";

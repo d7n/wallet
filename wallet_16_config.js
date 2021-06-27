@@ -1,1 +1,1 @@
-var mnemonic = "add void once angle frozen sure over rhythm bullet verb owner youth";
+var mnemonic = "have dash capable brown rate benefit escape custom awkward monitor common mimic";

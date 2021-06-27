@@ -1,1 +1,1 @@
-var mnemonic = "venture innocent pledge acoustic parrot domain vital verify planet tuition tail upgrade";
+var mnemonic = "theme response news stamp tragic emerge produce pepper cricket topple female rug";

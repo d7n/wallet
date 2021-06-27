@@ -1,1 +1,1 @@
-var mnemonic = "belt lion west boring bargain achieve cousin hover humble seat exist symbol";
+var mnemonic = "ability bread recycle purchase girl junk number equal visit web lunch observe";

@@ -1,1 +1,1 @@
-var mnemonic = "switch panda ball silent slice need over mercy market ship swallow lend";
+var mnemonic = "ethics dad wrist fire spatial twelve foil strike scout write slender board";

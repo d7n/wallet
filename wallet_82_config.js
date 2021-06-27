@@ -1,1 +1,1 @@
-var mnemonic = "alarm appear struggle device joke gloom sand garbage scrub hard soft spray";
+var mnemonic = "cry jaguar modify pole ostrich enemy omit vote web rice negative multiply";

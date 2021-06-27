@@ -1,1 +1,1 @@
-var mnemonic = "misery hotel west okay chapter novel hope affair body diagram sad butter";
+var mnemonic = "paddle begin glow bomb trim regular predict end hundred trouble wing salmon";

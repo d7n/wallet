@@ -1,1 +1,1 @@
-var mnemonic = "blanket balance deer expire album imitate arrive black guide unlock since rely";
+var mnemonic = "club toss smooth twelve danger million ship parade tonight like inch damage";

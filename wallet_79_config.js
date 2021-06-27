@@ -1,1 +1,1 @@
-var mnemonic = "script tool snap dirt page crowd plug loop train lemon over unable";
+var mnemonic = "leopard eye mix repeat clerk found chuckle panel squeeze muscle skin bonus";

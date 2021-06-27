@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow weapon jacket borrow hover glad public brand turtle possible dumb skill";
+var mnemonic = "victory priority lift differ jungle sudden goat update horror sting leisure ride";

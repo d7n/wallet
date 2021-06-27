@@ -1,1 +1,1 @@
-var mnemonic = "fortune bright chapter call drop exile develop gorilla man phrase soda circle";
+var mnemonic = "upset toe neglect eyebrow you camera sorry elite regular latin observe trigger";

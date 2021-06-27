@@ -1,1 +1,1 @@
-var mnemonic = "whale metal matrix guitar whip island hobby busy exclude above uncover source";
+var mnemonic = "inform minimum forum birth infant tide uncover cost physical message room gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "leg gain barrel friend inform maximum butter solution consider day stereo output";
+var mnemonic = "mammal citizen misery bike damage prepare genius acoustic amount leaf museum lawn";

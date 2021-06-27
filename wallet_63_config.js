@@ -1,1 +1,1 @@
-var mnemonic = "scare cupboard crowd disorder stay aerobic keep chaos hold damp unknown slot";
+var mnemonic = "rotate follow merge glad ancient fee image inform require fun butter motion";

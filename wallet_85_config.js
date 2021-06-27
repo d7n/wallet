@@ -1,1 +1,1 @@
-var mnemonic = "tenant talent between crane hedgehog below work maze base awful cinnamon denial";
+var mnemonic = "honey climb decade boss focus ghost record spirit sugar stable cry spend";

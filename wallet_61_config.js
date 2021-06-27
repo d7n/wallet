@@ -1,1 +1,1 @@
-var mnemonic = "merry hungry access scene person abuse region bargain oval fringe seat leisure";
+var mnemonic = "biology ancient erupt dish salute turtle record chaos twelve surface float alert";

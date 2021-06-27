@@ -1,1 +1,1 @@
-var mnemonic = "survey kitten proud lunar churn payment phone spring access solution obtain exotic";
+var mnemonic = "twelve direct ketchup swing clog walnut setup cattle net icon essay inhale";

@@ -1,1 +1,1 @@
-var mnemonic = "error cover snake faculty faint fabric story lonely stem craft much boss";
+var mnemonic = "pause office any vocal equip law wire warm dinner term budget pioneer";

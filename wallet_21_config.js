@@ -1,1 +1,1 @@
-var mnemonic = "treat ugly ocean bottom mind sleep rotate river oyster myself brass inspire";
+var mnemonic = "amount leave screen first net world source suspect head opinion above evidence";

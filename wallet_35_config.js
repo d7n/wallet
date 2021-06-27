@@ -1,1 +1,1 @@
-var mnemonic = "season party pepper void shine lonely truck vessel worth empower arrange blame";
+var mnemonic = "clever undo aunt enter success juice donkey foot gloom utility grab dirt";

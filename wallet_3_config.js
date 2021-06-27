@@ -1,1 +1,1 @@
-var mnemonic = "journey winner oppose divorce charge whisper caution nominee kit track intact run";
+var mnemonic = "subject shiver limb angry egg pledge pledge rude diagram trash tip illness";

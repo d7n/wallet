@@ -1,1 +1,1 @@
-var mnemonic = "slide machine exercise tell cinnamon february arena card position next volcano square";
+var mnemonic = "escape defy monkey only catch sad zoo feed hero maximum comic happy";

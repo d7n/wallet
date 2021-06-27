@@ -1,1 +1,1 @@
-var mnemonic = "script foster day bottom budget abuse knock vital walnut anger whale popular";
+var mnemonic = "orbit hen parade desert kite twin caution siege snap display broccoli pig";

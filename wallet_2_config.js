@@ -1,1 +1,1 @@
-var mnemonic = "deny palace bamboo occur city child lounge federal bulb surge dice solve";
+var mnemonic = "panther chunk visual abstract stove find hat type thunder horn pioneer patient";

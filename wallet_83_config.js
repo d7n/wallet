@@ -1,1 +1,1 @@
-var mnemonic = "quantum minute enroll obey blush panic hour drive obey annual maid all";
+var mnemonic = "small shrug floor volcano joy awesome enlist example saddle chase gain jar";

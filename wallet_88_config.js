@@ -1,1 +1,1 @@
-var mnemonic = "cricket scene start muffin frame gym bike gather office sport skill slim";
+var mnemonic = "rookie detail guide excuse fury copy side evolve multiply fly upon frog";

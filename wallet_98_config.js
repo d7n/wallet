@@ -1,1 +1,1 @@
-var mnemonic = "impose purity ahead ten sense forest captain worry company deputy genius follow";
+var mnemonic = "top calm worth bless immune horse stomach sunset foot room easily exchange";

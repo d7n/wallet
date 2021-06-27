@@ -1,1 +1,1 @@
-var mnemonic = "chat hen nasty collect marriage awful talent connect right enough scatter kid";
+var mnemonic = "milk merge easy cousin cream history thumb cheap ring foot upgrade open";

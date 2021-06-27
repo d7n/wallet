@@ -1,1 +1,1 @@
-var mnemonic = "flight adapt word detail fine coffee hover snow churn sorry ability kidney";
+var mnemonic = "solid coach truck weird hill luxury nurse ticket start rubber process arena";

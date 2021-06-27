@@ -1,1 +1,1 @@
-var mnemonic = "tumble soldier decade initial farm borrow memory slam mango way hard elegant";
+var mnemonic = "garlic autumn fluid universe bean farm seminar omit neither wave test inflict";

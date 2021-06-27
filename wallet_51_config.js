@@ -1,1 +1,1 @@
-var mnemonic = "lucky degree wife bonus athlete drive one main oval trophy image bridge";
+var mnemonic = "place lawn chalk genre dignity vacant grant song staff narrow keep shoulder";

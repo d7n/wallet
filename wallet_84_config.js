@@ -1,1 +1,1 @@
-var mnemonic = "vacant climb maximum before veteran label hope athlete melody daring elevator bottom";
+var mnemonic = "ritual loud drastic become market mountain cross prosper whip sail runway include";

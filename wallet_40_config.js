@@ -1,1 +1,1 @@
-var mnemonic = "then beef peace crater pear multiply vote drip regular bind crucial used";
+var mnemonic = "grocery cricket amount fabric donate rely border layer middle anchor enter north";

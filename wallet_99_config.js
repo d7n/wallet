@@ -1,1 +1,1 @@
-var mnemonic = "angle husband mail become crew august wrap issue leg input chimney rigid";
+var mnemonic = "august champion science hole master half during spray hurdle harbor envelope broken";

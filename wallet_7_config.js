@@ -1,1 +1,1 @@
-var mnemonic = "shield cruel ocean that way foot melt west comfort already can security";
+var mnemonic = "kitten fabric art picture asset anxiety giggle hockey defense appear notable cattle";

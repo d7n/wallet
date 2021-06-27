@@ -1,1 +1,1 @@
-var mnemonic = "tortoise where gossip attract odor movie imitate denial puzzle radio flat birth";
+var mnemonic = "obvious violin meadow laptop ball fiber cement stem jar stage aspect daughter";

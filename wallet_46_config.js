@@ -1,1 +1,1 @@
-var mnemonic = "stay company champion hawk issue avoid top siren eagle observe toward emerge";
+var mnemonic = "left peace route feature detail wife foot swallow exist warm romance prize";

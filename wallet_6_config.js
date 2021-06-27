@@ -1,1 +1,1 @@
-var mnemonic = "uncle pledge hold celery always true horn cook garage spice decade jelly";
+var mnemonic = "quarter barrel mystery follow almost never tenant license travel uniform eight glory";

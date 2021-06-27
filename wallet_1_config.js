@@ -1,1 +1,1 @@
-var mnemonic = "demise mandate almost glory gather jar harvest repeat agree strategy owner burger";
+var mnemonic = "label noble parent refuse unhappy crush ginger admit brisk voice faith chuckle";

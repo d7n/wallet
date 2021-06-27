@@ -1,1 +1,1 @@
-var mnemonic = "bomb cloud salon shoe crack kitten false finish bundle nature gaze picnic";
+var mnemonic = "loop mountain column lake scheme crack arctic bitter cash pride various march";

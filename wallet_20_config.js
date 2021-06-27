@@ -1,1 +1,1 @@
-var mnemonic = "neither keen alpha enrich butter toddler discover dignity rack bless rice pen";
+var mnemonic = "repeat gallery glide wing short abandon same devote air token spawn custom";

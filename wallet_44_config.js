@@ -1,1 +1,1 @@
-var mnemonic = "table tail burger tunnel juice valid tomato practice devote ranch effort husband";
+var mnemonic = "secret memory grid trap asthma install jazz exhibit word broom wild wasp";

@@ -1,1 +1,1 @@
-var mnemonic = "cargo accident vacuum exist vault lend kiss sweet cause fortune auction phrase";
+var mnemonic = "point anchor labor destroy boy file dignity battle flush youth ethics truly";

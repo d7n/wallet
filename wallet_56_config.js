@@ -1,1 +1,1 @@
-var mnemonic = "metal false label age weapon notice put surge giggle call maple amazing";
+var mnemonic = "manual slide indoor true two margin barrel roof cradle seminar legal dirt";

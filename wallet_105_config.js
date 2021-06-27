@@ -1,1 +1,1 @@
-var mnemonic = "century arch side yard rigid mother glide omit cave amateur now index";
+var mnemonic = "around element gate aspect access copy swing obscure arena hurt satisfy icon";

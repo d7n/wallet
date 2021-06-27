@@ -1,1 +1,1 @@
-var mnemonic = "want diamond betray october alone inmate neutral proud cabbage blanket tissue swarm";
+var mnemonic = "act wet profit husband cabin observe miss slush shock assault attitude health";

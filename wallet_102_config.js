@@ -1,1 +1,1 @@
-var mnemonic = "airport chief select myth rain apart sorry repair modify elder gallery check";
+var mnemonic = "resemble amateur energy spoon gun knee select swamp sense cycle hazard core";

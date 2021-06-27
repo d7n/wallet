@@ -1,1 +1,1 @@
-var mnemonic = "lyrics shock lumber chat holiday rug top bundle royal creek amateur jungle";
+var mnemonic = "coil equal family voice actress harsh coconut liquid shrimp snap life auto";

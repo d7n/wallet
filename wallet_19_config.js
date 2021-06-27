@@ -1,1 +1,1 @@
-var mnemonic = "surface involve crunch pride youth hire stable husband oil maple shy screen";
+var mnemonic = "floor jacket forget settle spot auto plunge lyrics second harsh file speak";

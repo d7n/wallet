@@ -1,1 +1,1 @@
-var mnemonic = "field build bamboo ginger leisure ten year mind damage install quantum beef";
+var mnemonic = "valley know attend pen echo merry license horn museum awkward board stuff";

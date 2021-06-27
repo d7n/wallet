@@ -1,1 +1,1 @@
-var mnemonic = "fringe coral sample rescue between weird divert fringe magnet length tree fragile";
+var mnemonic = "pave grunt rack immune gift rotate oxygen submit exhaust today ripple sample";

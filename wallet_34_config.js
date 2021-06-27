@@ -1,1 +1,1 @@
-var mnemonic = "pony middle crawl slight rug scan knee easy agent ensure window edge";
+var mnemonic = "differ jungle smart thing rubber diesel donor sort health pudding please scrap";

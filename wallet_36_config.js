@@ -1,1 +1,1 @@
-var mnemonic = "debate undo super gather lava stage purse twenty luggage nurse head execute";
+var mnemonic = "mixed neither clown guilt slow involve hint snack shoe claw scare column";

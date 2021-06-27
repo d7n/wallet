@@ -1,1 +1,1 @@
-var mnemonic = "fury smart push gym pattern laundry trouble minor affair home oak atom";
+var mnemonic = "canoe evil liberty quality acoustic solve wheat whale vacuum portion slim behind";

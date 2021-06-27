@@ -1,1 +1,1 @@
-var mnemonic = "opinion stereo book unit puzzle anger spoil bar stage advance sorry ticket";
+var mnemonic = "purchase moment question remind grape able endorse photo harbor alert begin pulp";

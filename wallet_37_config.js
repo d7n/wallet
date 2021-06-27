@@ -1,1 +1,1 @@
-var mnemonic = "tree glance forward settle enroll afraid can onion office casual impulse increase";
+var mnemonic = "picture ivory crater lottery spell catch vocal correct only illness core enhance";

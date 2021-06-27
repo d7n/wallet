@@ -1,1 +1,1 @@
-var mnemonic = "head stuff kitten cry summer nature soup organ ill never vessel frog";
+var mnemonic = "alcohol lobster endorse talent proud clap turkey series harvest memory large relief";

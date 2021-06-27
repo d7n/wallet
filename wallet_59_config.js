@@ -1,1 +1,1 @@
-var mnemonic = "turn trash perfect extra father supreme vicious scare soda love sudden stock";
+var mnemonic = "burden hip try fire afford boost melody bulb kite raw walnut language";

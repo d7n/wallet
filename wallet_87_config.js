@@ -1,1 +1,1 @@
-var mnemonic = "rookie sudden scorpion laundry filter say cute add attitude flat donor pink";
+var mnemonic = "hurdle divide dice impulse elite update adult reveal proof aspect angry weird";

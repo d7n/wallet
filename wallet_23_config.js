@@ -1,1 +1,1 @@
-var mnemonic = "stumble cluster record mass surround more often silk share uphold escape until";
+var mnemonic = "neither chase math cruel square gauge abandon nice rocket just gun sauce";

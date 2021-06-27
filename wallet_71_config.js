@@ -1,1 +1,1 @@
-var mnemonic = "genuine turtle nation scout toward weasel liar meadow craft battle mad room";
+var mnemonic = "field clap cinnamon sun face insane alarm coil cloth spatial then dream";

@@ -1,1 +1,1 @@
-var mnemonic = "urban group swamp execute seed silver about artefact artefact pond balcony victory";
+var mnemonic = "adjust farm fade hobby indoor key bronze shrug provide feel catalog garden";

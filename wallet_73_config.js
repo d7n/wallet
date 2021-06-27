@@ -1,1 +1,1 @@
-var mnemonic = "estate bicycle apple direct raccoon brown trend into fitness ride solid unfold";
+var mnemonic = "exhibit toast fat scout announce fiber average clean alien know harvest tube";

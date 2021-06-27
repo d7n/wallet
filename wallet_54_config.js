@@ -1,1 +1,1 @@
-var mnemonic = "accuse steel tackle stage chronic provide install mirror slim twenty tail loan";
+var mnemonic = "ghost sport picnic buzz fly casual camera emotion raw develop flame width";
