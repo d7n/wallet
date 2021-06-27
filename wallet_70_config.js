@@ -1,1 +1,1 @@
-var mnemonic = "guide museum scale choose duty cattle glare clutch seat antenna salt question";
+var mnemonic = "fringe broken poverty forward remember seven focus neglect obey lesson piece neutral";

@@ -1,1 +1,1 @@
-var mnemonic = "pattern night involve cloud issue hockey step safe close wink large cook";
+var mnemonic = "eternal energy damage borrow ski horror animal affair actor sail describe cinnamon";

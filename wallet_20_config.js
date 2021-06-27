@@ -1,1 +1,1 @@
-var mnemonic = "breeze settle excess security kitchen giggle venue shift cereal interest obtain boost";
+var mnemonic = "nation refuse broccoli donkey extra vault mention room soldier office electric fly";

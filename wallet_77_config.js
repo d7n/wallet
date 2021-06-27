@@ -1,1 +1,1 @@
-var mnemonic = "rookie tape flat toy copper sign sample dutch badge cute deny deposit";
+var mnemonic = "resist thing address sudden alter swallow hungry brown check sort daring version";

@@ -1,1 +1,1 @@
-var mnemonic = "lecture antenna reopen furnace lion turn save throw aim eager useful matrix";
+var mnemonic = "announce impose option critic property cross agent stumble try inside mansion armor";

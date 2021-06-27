@@ -1,1 +1,1 @@
-var mnemonic = "need stable funny wild luggage disagree dumb bracket sting cinnamon surface truth";
+var mnemonic = "crouch service surface spell scrub then ozone kit pond tuna accuse demand";

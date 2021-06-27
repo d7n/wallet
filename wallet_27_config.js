@@ -1,1 +1,1 @@
-var mnemonic = "brave street title twenty old trial element world want job suspect maple";
+var mnemonic = "wish weather flee shell inch lobster bridge tube syrup tray cushion decade";

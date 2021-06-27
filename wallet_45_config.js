@@ -1,1 +1,1 @@
-var mnemonic = "remember envelope soup crisp boost toss fashion heavy pause have drink inform";
+var mnemonic = "beach misery genius alley model merit humble sport sunset gold chronic indicate";

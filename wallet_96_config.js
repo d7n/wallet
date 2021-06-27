@@ -1,1 +1,1 @@
-var mnemonic = "tunnel blush sight glance panic keen lunar beyond fan viable idle deliver";
+var mnemonic = "track gate arena kick daring annual rent ginger arctic crumble transfer inherit";

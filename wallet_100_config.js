@@ -1,1 +1,1 @@
-var mnemonic = "jar rose worry ginger eyebrow measure actress melt limb dial camera clay";
+var mnemonic = "wild enhance cry link hello van card insect hand mass gym best";

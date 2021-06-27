@@ -1,1 +1,1 @@
-var mnemonic = "dove option noble aspect slot shy soon turtle fiber useful tooth ritual";
+var mnemonic = "giraffe drift tape roast pass tail awkward noise acoustic section enroll humble";

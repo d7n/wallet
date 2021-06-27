@@ -1,1 +1,1 @@
-var mnemonic = "unfold city broken dose dial dog list hill slight knee where remember";
+var mnemonic = "okay country eternal level diary display habit book apple script property galaxy";

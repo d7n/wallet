@@ -1,1 +1,1 @@
-var mnemonic = "tired video waste oxygen giraffe gaze better invite drastic elephant march river";
+var mnemonic = "general review negative rare beyond doll solution snap snap shine napkin curious";

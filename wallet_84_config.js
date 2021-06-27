@@ -1,1 +1,1 @@
-var mnemonic = "novel ecology vault refuse engine ride heavy dial day hungry inject dwarf";
+var mnemonic = "age style pipe tortoise burst escape horn nation under search lottery february";

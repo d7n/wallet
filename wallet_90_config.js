@@ -1,1 +1,1 @@
-var mnemonic = "drum boy sample resist turkey pact favorite number marine recall menu upgrade";
+var mnemonic = "uniform monkey dizzy orbit female brother veteran swing episode language ginger physical";

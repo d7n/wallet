@@ -1,1 +1,1 @@
-var mnemonic = "owner between innocent castle can guilt velvet choose patrol rapid common market";
+var mnemonic = "human visa during label shoot month snack average city rice later evil";

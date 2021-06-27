@@ -1,1 +1,1 @@
-var mnemonic = "address decide alter lawn federal expect work exile left parent october another";
+var mnemonic = "involve stove clean this demise reflect lunar believe same merit lyrics decrease";

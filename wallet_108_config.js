@@ -1,1 +1,1 @@
-var mnemonic = "distance column summer across lesson version tooth float scan able wash term";
+var mnemonic = "spy alley auction pig endorse decide blur lecture disorder adult sniff live";

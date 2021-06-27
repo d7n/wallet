@@ -1,1 +1,1 @@
-var mnemonic = "library sniff aim staff dad disorder project hope trim fold chair limb";
+var mnemonic = "panic draft seat message adjust place neutral staff because vast awful detect";

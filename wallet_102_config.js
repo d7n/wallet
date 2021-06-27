@@ -1,1 +1,1 @@
-var mnemonic = "drum invite guard inform amused wise fashion olympic rail family cup spike";
+var mnemonic = "chest boy permit bus hybrid run bread cram normal wire brisk change";

@@ -1,1 +1,1 @@
-var mnemonic = "sport snake electric nasty fabric civil effort route merit trophy unaware fire";
+var mnemonic = "state useful repeat company glory pelican food enhance success rug injury collect";

@@ -1,1 +1,1 @@
-var mnemonic = "flat abuse trust alpha coil left morning nut midnight furnace quantum best";
+var mnemonic = "risk orphan endless can immune dinner thought theory found borrow fit twist";

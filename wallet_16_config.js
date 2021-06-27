@@ -1,1 +1,1 @@
-var mnemonic = "lyrics safe surround device undo mammal feature boil collect praise luggage vanish";
+var mnemonic = "all emerge always tuna south lake thought doll visa alien stick catch";

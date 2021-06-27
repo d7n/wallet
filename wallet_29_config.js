@@ -1,1 +1,1 @@
-var mnemonic = "roast fish aunt reject wheat achieve caution quiz decide brown tenant alone";
+var mnemonic = "over inform pistol seed aerobic day cabin penalty river student will snake";

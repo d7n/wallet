@@ -1,1 +1,1 @@
-var mnemonic = "vendor slab flag side elder perfect already song apart wonder supply attitude";
+var mnemonic = "mind obey tape damage metal outer arch short rare fiber fever just";

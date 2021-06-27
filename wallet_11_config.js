@@ -1,1 +1,1 @@
-var mnemonic = "bid choose bind that success cube rifle group hidden famous donate sock";
+var mnemonic = "divorce strategy fuel close silver various tape film setup sail job family";

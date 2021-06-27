@@ -1,1 +1,1 @@
-var mnemonic = "main alcohol curious glory ship damp liberty guess sport moment jealous excite";
+var mnemonic = "nice old deputy mosquito occur deliver begin thing sing business boss fog";

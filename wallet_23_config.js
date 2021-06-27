@@ -1,1 +1,1 @@
-var mnemonic = "general price oil romance insane boss basic nominee pelican ramp embark shrug";
+var mnemonic = "hero young young inform path salad spare web tired ranch ten stay";

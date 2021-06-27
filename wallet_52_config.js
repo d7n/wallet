@@ -1,1 +1,1 @@
-var mnemonic = "spike vacant strong leaf awesome athlete kidney force proof vacuum gravity annual";
+var mnemonic = "over lazy clinic guitar acoustic helmet salad weird orchard such vehicle tool";

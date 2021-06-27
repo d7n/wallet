@@ -1,1 +1,1 @@
-var mnemonic = "short scrub expire duck olive crater multiply problem ocean planet ritual eternal";
+var mnemonic = "pioneer silver differ blood hint tip copy remove bubble attend absent setup";

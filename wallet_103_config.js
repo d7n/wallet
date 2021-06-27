@@ -1,1 +1,1 @@
-var mnemonic = "mass drop expect pause consider welcome race tunnel august east among entry";
+var mnemonic = "party teach inhale limb stereo obscure book pizza safe cricket library marriage";

@@ -1,1 +1,1 @@
-var mnemonic = "fat stool cool tooth paddle imitate topic salute ahead trial key fan";
+var mnemonic = "farm weekend walnut spring sadness quiz purchase parade knife someone element coast";

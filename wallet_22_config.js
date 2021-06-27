@@ -1,1 +1,1 @@
-var mnemonic = "trigger budget bar then what valve gravity rate volcano crash sight primary";
+var mnemonic = "curtain horn arm suffer column cross quality caution income between smooth genre";

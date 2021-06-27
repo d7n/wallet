@@ -1,1 +1,1 @@
-var mnemonic = "push want exist harsh target weasel caution shoe that flee mechanic edit";
+var mnemonic = "torch stool mad erupt rib trip taste melody cream alcohol awful tired";

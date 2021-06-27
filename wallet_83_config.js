@@ -1,1 +1,1 @@
-var mnemonic = "analyst gate pen excite cram control slight room dawn banner canoe wasp";
+var mnemonic = "nose flock little marine ride alone bracket decorate rug library kick decorate";

@@ -1,1 +1,1 @@
-var mnemonic = "hunt clerk steak lazy infant horror kid level chalk goose draft cause";
+var mnemonic = "speak rigid dog satoshi animal shrug fruit cinnamon decorate apple flavor speed";

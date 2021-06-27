@@ -1,1 +1,1 @@
-var mnemonic = "crawl century coach cloth decide cannon state curious ugly boost relax enforce";
+var mnemonic = "bread critic inform tissue aspect what boat cliff violin ginger adult young";

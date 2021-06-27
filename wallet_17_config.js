@@ -1,1 +1,1 @@
-var mnemonic = "sting trade visa student great like worry oil wish young more kite";
+var mnemonic = "end discover economy birth rhythm evidence little suggest appear domain what easy";

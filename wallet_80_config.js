@@ -1,1 +1,1 @@
-var mnemonic = "doll fresh motion judge session dial carbon kit swallow cereal item jeans";
+var mnemonic = "badge endorse host item blanket eagle cool correct pass large tuition close";

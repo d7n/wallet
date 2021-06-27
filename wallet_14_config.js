@@ -1,1 +1,1 @@
-var mnemonic = "guess soon snow trust possible tomato torch ignore vital electric sugar level";
+var mnemonic = "recipe correct sniff fence category medal heavy lava coil coral hood sight";

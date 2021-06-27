@@ -1,1 +1,1 @@
-var mnemonic = "hole hundred uncle ecology enrich slide winter decide theory trophy fire item";
+var mnemonic = "demise method just depart naive increase acid mechanic awesome supreme alcohol depart";

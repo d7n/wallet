@@ -1,1 +1,1 @@
-var mnemonic = "fan cabin crowd remove survey bubble wool engage flower nation spawn economy";
+var mnemonic = "provide gym dry ginger among orbit often spot life drama cloud maze";

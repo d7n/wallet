@@ -1,1 +1,1 @@
-var mnemonic = "aspect law diet ecology cannon chef silver bamboo exit friend one appear";
+var mnemonic = "recycle rabbit rain brown board master palm airport legend bench impact special";

@@ -1,1 +1,1 @@
-var mnemonic = "mule exact receive october swing brand pumpkin foam region siren clog table";
+var mnemonic = "immense ready warm stairs what thought culture describe alley fantasy blossom lab";

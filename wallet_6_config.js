@@ -1,1 +1,1 @@
-var mnemonic = "pig swallow shrimp jeans three joke renew giant situate cupboard cook mouse";
+var mnemonic = "helmet insane cheese find month clever smoke sure when purchase night frown";

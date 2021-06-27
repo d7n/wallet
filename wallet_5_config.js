@@ -1,1 +1,1 @@
-var mnemonic = "price pair wreck shoulder dinner bubble nominee easy drop grow uniform glare";
+var mnemonic = "practice kitten evoke crunch suit guess grape legal coffee humble diagram citizen";

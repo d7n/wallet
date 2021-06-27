@@ -1,1 +1,1 @@
-var mnemonic = "seminar net anger filter clerk dial trap basket mind sleep present load";
+var mnemonic = "sponsor sniff oyster feature tenant chair grain senior giant bomb zero devote";

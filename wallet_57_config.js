@@ -1,1 +1,1 @@
-var mnemonic = "youth they scan sniff cycle race state power slam forget other original";
+var mnemonic = "civil mixed planet magnet pizza else excess walnut gorilla enemy believe vacant";

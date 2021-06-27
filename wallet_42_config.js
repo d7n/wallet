@@ -1,1 +1,1 @@
-var mnemonic = "holiday lab dentist message trouble foil safe sugar still toe general snack";
+var mnemonic = "viable garlic current embody explain heart notable raise arrow black next label";

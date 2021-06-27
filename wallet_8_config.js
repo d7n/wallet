@@ -1,1 +1,1 @@
-var mnemonic = "depart theme matter venture bridge picture alert initial parent easily baby strategy";
+var mnemonic = "seminar educate fault slender reason wrestle bright relief grocery miss wait frequent";

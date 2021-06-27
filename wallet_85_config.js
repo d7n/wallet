@@ -1,1 +1,1 @@
-var mnemonic = "load avoid rail grunt inquiry merry oval decrease chunk parade auto one";
+var mnemonic = "doll pass hood wave tower coin gauge corn mesh million sibling rabbit";

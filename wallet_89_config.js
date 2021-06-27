@@ -1,1 +1,1 @@
-var mnemonic = "evidence teach ancient aisle myself price midnight acquire wait best bulk hurt";
+var mnemonic = "verb nose bread wheat uphold viable orange top symptom bottom blur faculty";

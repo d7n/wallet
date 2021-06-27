@@ -1,1 +1,1 @@
-var mnemonic = "impact evolve cool mansion chuckle gaze link behind swear breeze learn garlic";
+var mnemonic = "define rely enhance zone impulse sting spawn cable split view nation picture";

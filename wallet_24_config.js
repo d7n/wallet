@@ -1,1 +1,1 @@
-var mnemonic = "ostrich refuse whisper machine alcohol abandon cat suspect abstract vessel install member";
+var mnemonic = "brave hill custom mammal carry battle clump across demise true teach imitate";

@@ -1,1 +1,1 @@
-var mnemonic = "dismiss rely luggage upper pencil crater stone eagle input resource summer wish";
+var mnemonic = "error smooth wheel stove junior scissors secret cliff forward know suffer bitter";

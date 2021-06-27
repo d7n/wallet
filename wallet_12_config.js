@@ -1,1 +1,1 @@
-var mnemonic = "slide rotate smart mushroom tent symptom venture truck metal boring hand burger";
+var mnemonic = "round hire female model spoil swear illegal swift nurse lazy favorite rate";

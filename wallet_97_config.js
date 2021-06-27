@@ -1,1 +1,1 @@
-var mnemonic = "erosion van sadness apple dove labor absurd excuse pilot furnace giggle doctor";
+var mnemonic = "close artwork planet dolphin joy vivid pupil enlist spoil ensure snack steak";

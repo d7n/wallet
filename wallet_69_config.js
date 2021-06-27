@@ -1,1 +1,1 @@
-var mnemonic = "hundred finger indicate payment victory point snow crisp slogan rocket write agent";
+var mnemonic = "uniform exit over pony breeze such wing float capable cement one year";

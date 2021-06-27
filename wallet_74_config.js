@@ -1,1 +1,1 @@
-var mnemonic = "orbit outside distance shrimp service little arrive animal urban benefit glove robust";
+var mnemonic = "olive raccoon they trumpet salute together debate recipe cereal pulp shoe drift";

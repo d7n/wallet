@@ -1,1 +1,1 @@
-var mnemonic = "village elevator exclude away unfair mandate until device figure blur observe kit";
+var mnemonic = "sadness index guide net panda obvious inhale virtual together ticket awake spring";

@@ -1,1 +1,1 @@
-var mnemonic = "during soul earn lens forest outside climb fancy salmon witness allow mango";
+var mnemonic = "fire suggest remember bird fork ramp own accident bargain fiber sorry explain";

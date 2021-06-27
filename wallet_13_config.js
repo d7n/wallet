@@ -1,1 +1,1 @@
-var mnemonic = "destroy motion vacant lady blade design skate track copy shrimp monitor utility";
+var mnemonic = "wrong shoulder distance coral pretty coyote below hurry clock humor drop retire";

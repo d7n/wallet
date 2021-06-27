@@ -1,1 +1,1 @@
-var mnemonic = "ocean kitchen tuna thrive addict laundry train goose float dance mimic total";
+var mnemonic = "bless oval inner resource demise first melody evil forest quote endless candy";

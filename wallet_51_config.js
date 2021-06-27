@@ -1,1 +1,1 @@
-var mnemonic = "drill system inherit correct nuclear civil inside staff match welcome license radar";
+var mnemonic = "setup hour face saddle divide there hobby cannon describe drama poet gas";

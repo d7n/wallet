@@ -1,1 +1,1 @@
-var mnemonic = "lunar list skull amateur elegant hospital whale sphere arrow clip receive fine";
+var mnemonic = "bounce enlist fancy monitor derive mom whale virtual electric found dream industry";

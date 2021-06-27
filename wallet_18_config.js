@@ -1,1 +1,1 @@
-var mnemonic = "twist cool casino skate short person year song dice betray donor used";
+var mnemonic = "return tunnel bargain cram clever truth nerve bundle true street cattle transfer";

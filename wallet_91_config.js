@@ -1,1 +1,1 @@
-var mnemonic = "shock muffin ceiling parade arm exhaust tell dismiss between dilemma amateur require";
+var mnemonic = "ball hat main brief bone road decorate rotate any fault zoo drastic";

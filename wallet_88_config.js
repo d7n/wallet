@@ -1,1 +1,1 @@
-var mnemonic = "taste crash unfair umbrella seek diet dose exact ranch mammal casual flush";
+var mnemonic = "tourist wild play album miracle peasant proof color pigeon fox morning village";

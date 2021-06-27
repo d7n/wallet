@@ -1,1 +1,1 @@
-var mnemonic = "proud cost canal tissue panda gold tissue open zebra morning flame method";
+var mnemonic = "chief option surprise matter stage maid sock hello alert plunge identify cabbage";

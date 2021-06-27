@@ -1,1 +1,1 @@
-var mnemonic = "because hockey health sample cousin happy side egg pulse busy mouse lava";
+var mnemonic = "ball either film omit monster often dish spare wage panda labor sheriff";

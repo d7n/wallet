@@ -1,1 +1,1 @@
-var mnemonic = "annual ripple brand chimney employ question enhance success boat tornado mail song";
+var mnemonic = "cabbage useful cradle aim script tape consider waste segment off reform wave";

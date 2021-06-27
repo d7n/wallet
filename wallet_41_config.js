@@ -1,1 +1,1 @@
-var mnemonic = "over ill position view card embark mass team hunt plunge flock salmon";
+var mnemonic = "start bridge amused camera hair feed guilt check always mammal bench lawn";

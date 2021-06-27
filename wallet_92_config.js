@@ -1,1 +1,1 @@
-var mnemonic = "engine attack tortoise cricket cute relief brand village collect desk clog immense";
+var mnemonic = "canal fog emerge link fitness vital believe camp paper peasant manual crowd";

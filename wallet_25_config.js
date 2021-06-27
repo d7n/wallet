@@ -1,1 +1,1 @@
-var mnemonic = "delay arrow tired stand trumpet mango height cram next flee forest sugar";
+var mnemonic = "code wheel obey dizzy myth space joke salmon orbit embark tunnel program";

@@ -1,1 +1,1 @@
-var mnemonic = "uncover before spatial amount choice syrup glare road pair mixed butter begin";
+var mnemonic = "slam butter float basic sustain glide hungry jar lizard antique security toddler";

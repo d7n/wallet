@@ -1,1 +1,1 @@
-var mnemonic = "cook finish aware concert giraffe powder demise hybrid crunch delay hedgehog three";
+var mnemonic = "sausage please decline skate butter bargain smile dog wait transfer dismiss taxi";

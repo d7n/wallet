@@ -1,1 +1,1 @@
-var mnemonic = "village tunnel gorilla pear sugar also luxury stove laugh airport special usage";
+var mnemonic = "survey rely forget circle nephew giraffe letter plate tackle coin oval shove";

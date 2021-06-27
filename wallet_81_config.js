@@ -1,1 +1,1 @@
-var mnemonic = "weather fat boat analyst year iron media stick cross crawl bike cupboard";
+var mnemonic = "stadium tribe lyrics idle whale lens wrap wool valid concert vacuum live";

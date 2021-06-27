@@ -1,1 +1,1 @@
-var mnemonic = "album share inhale despair tobacco cluster avoid exist promote talk owner below";
+var mnemonic = "proof enroll home lab broccoli civil olympic deputy lens member around better";

@@ -1,1 +1,1 @@
-var mnemonic = "crater approve amused food satoshi chalk dance essay shaft burst hire cycle";
+var mnemonic = "timber general letter toilet chat enter elder shed secret hub field extra";

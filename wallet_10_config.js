@@ -1,1 +1,1 @@
-var mnemonic = "february deposit broccoli task limit begin silly couch gas stamp road away";
+var mnemonic = "survey doctor inside phrase clutch album hamster cereal solid crater type media";

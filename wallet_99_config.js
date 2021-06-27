@@ -1,1 +1,1 @@
-var mnemonic = "silver flower scare pepper join increase hat job around spike school chicken";
+var mnemonic = "salt wing depend acid slam clay soup stuff raw inspire company utility";

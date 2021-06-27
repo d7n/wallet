@@ -1,1 +1,1 @@
-var mnemonic = "muffin lava identify horror acquire smile post meat love repair trumpet blind";
+var mnemonic = "egg head buyer obvious then bargain angry dove disorder town divert puppy";

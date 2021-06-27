@@ -1,1 +1,1 @@
-var mnemonic = "repair table that afraid amount erode warm vital fatal knock omit mistake";
+var mnemonic = "omit muffin burst replace guitar enforce cinnamon usual veteran mixture tooth wish";

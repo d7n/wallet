@@ -1,1 +1,1 @@
-var mnemonic = "finger ginger lava amount habit balcony tent hood increase draft furnace syrup";
+var mnemonic = "daring speed hood little radio scissors winter fork fiscal sock opinion panda";

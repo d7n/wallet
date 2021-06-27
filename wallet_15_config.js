@@ -1,1 +1,1 @@
-var mnemonic = "cattle panther void universe certain seed page actress night moon bubble enter";
+var mnemonic = "glove they walnut salon nominee minimum strong angry reflect parent laugh wheat";

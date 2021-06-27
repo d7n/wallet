@@ -1,1 +1,1 @@
-var mnemonic = "oppose useless trade build evolve monkey clinic vague hollow exist water vague";
+var mnemonic = "summer pass size skate notice sort this fee antique pear slide trash";

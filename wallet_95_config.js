@@ -1,1 +1,1 @@
-var mnemonic = "rack rose symbol will goose can produce corn expose gaze gasp destroy";
+var mnemonic = "blind crowd estate fever hold patch scrub what narrow custom history valid";

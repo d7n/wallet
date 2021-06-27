@@ -1,1 +1,1 @@
-var mnemonic = "envelope ocean margin possible adjust elder winter task kidney kit mistake moment";
+var mnemonic = "model flavor logic brother eyebrow sword stomach naive banner weapon marble winter";

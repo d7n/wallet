@@ -1,1 +1,1 @@
-var mnemonic = "gap festival tuition brother icon climb differ tape energy volcano animal great";
+var mnemonic = "barrel topple curious cradle umbrella answer reward flag bamboo beyond zero fuel";

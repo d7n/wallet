@@ -1,1 +1,1 @@
-var mnemonic = "web cactus length dish essay dust voyage rubber desk gesture bike siege";
+var mnemonic = "scout derive letter example fee unaware rookie fly chicken diet celery tray";

@@ -1,1 +1,1 @@
-var mnemonic = "extra blur word gift coil galaxy insect access accident wonder grass mistake";
+var mnemonic = "price unusual destroy luggage patrol struggle love donkey coach that maze evolve";

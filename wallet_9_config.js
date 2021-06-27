@@ -1,1 +1,1 @@
-var mnemonic = "hero lemon width area public solar arctic festival online leader solid output";
+var mnemonic = "assume upset miss dress cat render mango champion moment reveal walnut post";

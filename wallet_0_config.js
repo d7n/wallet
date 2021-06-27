@@ -1,1 +1,1 @@
-var mnemonic = "carbon subway sell sleep diet normal receive paper flock rhythm dwarf access";
+var mnemonic = "alert phrase soccer fantasy slow oxygen cereal kitchen rubber bitter onion three";

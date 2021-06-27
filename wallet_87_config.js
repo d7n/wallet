@@ -1,1 +1,1 @@
-var mnemonic = "mechanic approve casual inflict canoe artwork find maze rubber face shift travel";
+var mnemonic = "tissue pond purity giant park sun disagree access remove canal shine tattoo";
