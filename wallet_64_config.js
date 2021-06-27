@@ -1,1 +1,1 @@
-var mnemonic = "chase state exchange govern exact energy fresh regular margin jar spend palm";
+var mnemonic = "speed card early divide chimney wash ribbon theme picnic humble chapter birth";

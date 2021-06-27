@@ -1,1 +1,1 @@
-var mnemonic = "belt begin owner crime method essay solar mean flavor memory easily window";
+var mnemonic = "foot mind involve turkey mixed engage dash same connect quality setup nerve";

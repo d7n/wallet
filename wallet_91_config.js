@@ -1,1 +1,1 @@
-var mnemonic = "coconut august portion evil office retire snake divorce teach analyst almost saddle";
+var mnemonic = "magic shield wedding mistake young cheap tortoise hope fetch coffee path air";

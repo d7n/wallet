@@ -1,1 +1,1 @@
-var mnemonic = "oxygen trouble devote goose ancient pizza tourist club couple embark faculty captain";
+var mnemonic = "secret lyrics answer ski about cradle enjoy yard festival change select budget";

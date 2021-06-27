@@ -1,1 +1,1 @@
-var mnemonic = "worth very refuse blame unusual absent float fine disease pyramid intact lend";
+var mnemonic = "worry short sample unusual chimney apple alter long pear warrior ticket need";

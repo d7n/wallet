@@ -1,1 +1,1 @@
-var mnemonic = "rate solve world bulb hat decorate silk under festival equip float wave";
+var mnemonic = "panic toy roast tortoise tooth praise discover lift mercy fun route loan";

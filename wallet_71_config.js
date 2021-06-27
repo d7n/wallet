@@ -1,1 +1,1 @@
-var mnemonic = "project flat curve weekend guilt awesome exchange moral salad early congress squirrel";
+var mnemonic = "heavy where beef faith erupt jacket keen found lamp insane leader predict";

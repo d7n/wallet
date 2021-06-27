@@ -1,1 +1,1 @@
-var mnemonic = "relief lens drive kiwi inject siren curtain used moon soul wait negative";
+var mnemonic = "flower rocket fantasy ensure enlist aspect response soap glory crop swing asset";

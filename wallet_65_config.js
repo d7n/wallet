@@ -1,1 +1,1 @@
-var mnemonic = "organ upon regret artwork involve pink injury napkin arrive torch maid box";
+var mnemonic = "sign claw lady laundry wool airport wet chicken always fresh combine liar";

@@ -1,1 +1,1 @@
-var mnemonic = "business shock faint into about follow holiday group library farm jacket clip";
+var mnemonic = "pipe pigeon season color crucial treat effort situate spend caught glance find";

@@ -1,1 +1,1 @@
-var mnemonic = "endorse warm private amused right suffer wait emerge load board stone public";
+var mnemonic = "conduct athlete salmon weekend outside polar donkey frown because nurse fossil clog";

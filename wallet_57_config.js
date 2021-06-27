@@ -1,1 +1,1 @@
-var mnemonic = "daughter okay library sort sad thrive buyer sketch find junk wash myself";
+var mnemonic = "decline carbon quality gloom exhibit labor wife tool shift vote adapt nose";

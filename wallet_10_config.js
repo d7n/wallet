@@ -1,1 +1,1 @@
-var mnemonic = "jewel ask answer link have attitude excuse snack pudding depend target unfair";
+var mnemonic = "quiz flock ordinary diesel noodle hybrid town abstract monitor cinnamon gown ecology";

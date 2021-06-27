@@ -1,1 +1,1 @@
-var mnemonic = "draw moment please wisdom sorry degree average assault fine target organ depart";
+var mnemonic = "coil solve need ability fetch scan element insane brief act return smoke";

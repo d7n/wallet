@@ -1,1 +1,1 @@
-var mnemonic = "consider tobacco drip negative bunker suit excuse evoke voice walnut limit reveal";
+var mnemonic = "twice payment august dentist shock fade yard floor corn globe wing artwork";

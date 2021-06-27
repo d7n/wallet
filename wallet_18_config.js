@@ -1,1 +1,1 @@
-var mnemonic = "buffalo mixed divert delay stone science caught edge fitness harbor length shallow";
+var mnemonic = "lens capital person canal image meadow cruel fury width model heart fix";

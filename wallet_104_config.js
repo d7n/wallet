@@ -1,1 +1,1 @@
-var mnemonic = "claim lock sustain glue trap answer naive royal habit answer hybrid globe";
+var mnemonic = "forget omit forget faint sunny bulb wet decide educate similar lady furnace";

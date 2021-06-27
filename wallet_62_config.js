@@ -1,1 +1,1 @@
-var mnemonic = "lyrics jeans tumble bright text virtual soul beyond enrich wrong question news";
+var mnemonic = "entire eye submit mad gift mystery grab mail palace broken lobster risk";

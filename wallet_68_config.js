@@ -1,1 +1,1 @@
-var mnemonic = "intact today group public blind cat certain palace liquid soup tilt setup";
+var mnemonic = "bring example door weather mention canvas pave tornado symbol odor worth original";

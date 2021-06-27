@@ -1,1 +1,1 @@
-var mnemonic = "spare voyage chaos crop apple impose tired coconut ugly symbol modify cage";
+var mnemonic = "inquiry desert sun day second stone repeat island draw mixture cancel victory";

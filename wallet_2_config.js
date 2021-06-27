@@ -1,1 +1,1 @@
-var mnemonic = "squeeze romance foster swap call rebel awkward palace true silver dash helmet";
+var mnemonic = "moon lamp elite say nerve similar sure antenna million pond inflict axis";

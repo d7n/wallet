@@ -1,1 +1,1 @@
-var mnemonic = "isolate blade critic armor rigid struggle fan image year worry defense original";
+var mnemonic = "exercise turn job again start what merge fetch board usual master floor";

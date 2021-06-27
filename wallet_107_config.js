@@ -1,1 +1,1 @@
-var mnemonic = "ten planet space wife pulp tissue adult amused city velvet congress opera";
+var mnemonic = "mention exit vibrant risk poverty crumble weather bridge bar nature then minute";

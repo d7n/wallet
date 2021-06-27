@@ -1,1 +1,1 @@
-var mnemonic = "clown pattern pluck panther meadow maid tide biology train earth frown parade";
+var mnemonic = "duty camp uphold bicycle wheat coyote arctic legal assault cargo job piece";

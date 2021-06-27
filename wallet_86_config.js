@@ -1,1 +1,1 @@
-var mnemonic = "exile street click much topic maze kite rail trash cause convince all";
+var mnemonic = "jewel evolve snake bamboo nuclear august blast crush fatal bunker worry major";

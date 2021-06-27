@@ -1,1 +1,1 @@
-var mnemonic = "enter original fresh indoor alley easily junk aim jazz miracle pulse give";
+var mnemonic = "soda fragile asset elbow link mimic egg sleep fire struggle wagon arrest";

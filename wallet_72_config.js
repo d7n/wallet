@@ -1,1 +1,1 @@
-var mnemonic = "chef ice client jelly tiny crime onion garlic awesome social canal between";
+var mnemonic = "whale swim vanish share write inner oyster dragon indicate common potato know";

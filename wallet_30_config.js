@@ -1,1 +1,1 @@
-var mnemonic = "royal update gym clean fossil lawn pudding health hour explain letter service";
+var mnemonic = "point burger puppy demise gym call grocery mandate clog unhappy crawl engine";

@@ -1,1 +1,1 @@
-var mnemonic = "wire grief learn famous surround caution sun gun frog join sing valve";
+var mnemonic = "choice razor find token fantasy lady process medal acid miracle pact crumble";

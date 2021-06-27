@@ -1,1 +1,1 @@
-var mnemonic = "skate prevent choice shell solve concert aware net lemon flame small plate";
+var mnemonic = "live endless sock silver fruit winter load visual know snow genuine say";

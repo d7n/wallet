@@ -1,1 +1,1 @@
-var mnemonic = "anchor believe weasel invite cool own bus together cream ceiling income tattoo";
+var mnemonic = "pulp purchase strategy abstract goat area sock trash cry alert mammal easy";

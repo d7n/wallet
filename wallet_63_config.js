@@ -1,1 +1,1 @@
-var mnemonic = "fly cube episode friend monster smile right nature observe runway soldier suffer";
+var mnemonic = "first season fortune explain garbage once laptop six stadium goddess table glad";

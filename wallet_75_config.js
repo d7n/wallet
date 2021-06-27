@@ -1,1 +1,1 @@
-var mnemonic = "border manual over acid often motion arm service swear review reflect stem";
+var mnemonic = "gap have hint tourist adapt ribbon soldier pepper surprise grocery spike ready";

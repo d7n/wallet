@@ -1,1 +1,1 @@
-var mnemonic = "awkward eight moon when dice story cry turkey vessel confirm whisper regular";
+var mnemonic = "health purpose hill bacon chase test shell left aisle glimpse lend witness";

@@ -1,1 +1,1 @@
-var mnemonic = "cool caution west quick maximum repair dune chapter size depart someone culture";
+var mnemonic = "merit umbrella dentist elephant law erupt offer fat divert property balance throw";

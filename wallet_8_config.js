@@ -1,1 +1,1 @@
-var mnemonic = "ramp panda organ knock trumpet loan lyrics medal muscle cloud dinner end";
+var mnemonic = "all sport problem reform female thrive trouble cover turn left toward famous";

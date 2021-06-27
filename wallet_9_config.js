@@ -1,1 +1,1 @@
-var mnemonic = "amazing lonely suspect hybrid old catch uncover moment mule rebel glory edge";
+var mnemonic = "left mercy invite balcony bring neglect puzzle siege blind brass mandate source";

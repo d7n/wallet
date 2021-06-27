@@ -1,1 +1,1 @@
-var mnemonic = "subject law van violin often park more popular vivid power symbol fashion";
+var mnemonic = "budget brain hidden evolve battle excite tape fine hello annual solution advice";

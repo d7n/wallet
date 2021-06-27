@@ -1,1 +1,1 @@
-var mnemonic = "flip sister choice penalty bright gesture body present coast coral eyebrow melt";
+var mnemonic = "pact web business ramp tomato gadget noise client obtain acid insane key";

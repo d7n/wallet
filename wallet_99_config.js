@@ -1,1 +1,1 @@
-var mnemonic = "leisure resource current melody decide else dial asthma monkey maximum mixture erode";
+var mnemonic = "aware disorder forward warm tired movie venture forum supply note corn whale";

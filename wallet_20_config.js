@@ -1,1 +1,1 @@
-var mnemonic = "lock innocent robust blind heart vault infant knife good swamp chest onion";
+var mnemonic = "provide lucky hole drama album door history special mention stick envelope lend";

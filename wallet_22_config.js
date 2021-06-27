@@ -1,1 +1,1 @@
-var mnemonic = "curious fortune smart capital salad double elbow raw wedding ivory turtle elder";
+var mnemonic = "slam mail east dawn enact wage mule chalk narrow velvet just horse";

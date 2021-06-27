@@ -1,1 +1,1 @@
-var mnemonic = "mixed suggest tiger session subway west enlist short club poem great way";
+var mnemonic = "region furnace second lady drip rice excuse assist maze donkey depart garden";

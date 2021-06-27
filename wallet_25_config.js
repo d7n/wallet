@@ -1,1 +1,1 @@
-var mnemonic = "submit bulb kiss monkey reduce crisp modify disagree cram assume rookie host";
+var mnemonic = "blade pole draft device soccer urge cradle height motion achieve history mutual";

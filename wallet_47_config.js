@@ -1,1 +1,1 @@
-var mnemonic = "history rent front powder dial uncover genius fox minute arm foil flavor";
+var mnemonic = "gravity oxygen ladder claim aunt illness travel pizza undo network produce stairs";

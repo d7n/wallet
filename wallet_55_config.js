@@ -1,1 +1,1 @@
-var mnemonic = "nominee apart winner riot cloud force curious canvas group system hotel marriage";
+var mnemonic = "wire vague hunt invest north ramp spider skull blue exchange grant sorry";

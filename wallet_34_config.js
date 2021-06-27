@@ -1,1 +1,1 @@
-var mnemonic = "work jaguar fatigue pupil suffer defy engage dial brass case fragile wonder";
+var mnemonic = "merit ankle tired clip image frequent shift tower dutch happy resemble ramp";

@@ -1,1 +1,1 @@
-var mnemonic = "universe crash scan turkey flock affair stove champion trial surge slogan blossom";
+var mnemonic = "broken detect sadness clarify exhaust height peace violin project laundry current link";

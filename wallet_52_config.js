@@ -1,1 +1,1 @@
-var mnemonic = "muscle birth cage sister north ship ship youth marriage derive shoulder nut";
+var mnemonic = "stairs try zebra cherry slide ceiling next perfect version expect current region";

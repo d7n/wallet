@@ -1,1 +1,1 @@
-var mnemonic = "quit patient vacant note cruel picnic pluck salt bus maximum arrow orchard";
+var mnemonic = "expose example ranch account own sweet next fault crucial better winner banner";

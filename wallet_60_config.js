@@ -1,1 +1,1 @@
-var mnemonic = "theme gentle parrot envelope just wait fashion early milk deliver pass renew";
+var mnemonic = "vibrant lounge keep approve actor wreck skin safe elbow egg female antenna";

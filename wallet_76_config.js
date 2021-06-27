@@ -1,1 +1,1 @@
-var mnemonic = "divert antenna ice meadow soccer tape nature welcome protect twice space toward";
+var mnemonic = "lobster dress census march dash bronze injury material tobacco hill chest sad";

@@ -1,1 +1,1 @@
-var mnemonic = "hood list dial buyer roof deposit movie silk kiwi surface angle answer";
+var mnemonic = "liquid trigger catalog movie wage rent hundred pause spell soul rival moon";

@@ -1,1 +1,1 @@
-var mnemonic = "core eight describe obtain butter chunk text hunt glare olympic oxygen vault";
+var mnemonic = "brief gun minimum venue warm chalk budget mail electric ladder lamp keen";

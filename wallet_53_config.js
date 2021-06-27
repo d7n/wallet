@@ -1,1 +1,1 @@
-var mnemonic = "direct warrior leave ball youth brief habit transfer bulb ranch thing crumble";
+var mnemonic = "question youth offer labor sight diary cousin mechanic exotic depart evidence dance";

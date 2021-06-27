@@ -1,1 +1,1 @@
-var mnemonic = "nerve stumble proud coral luggage rally faint decrease old liar game siege";
+var mnemonic = "wrong girl rose debate medal spy obvious stand brother brick assault weasel";

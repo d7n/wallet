@@ -1,1 +1,1 @@
-var mnemonic = "medal spend regret peasant brown wool lesson leopard tribe grant swing grocery";
+var mnemonic = "immense taxi bird uncover scissors business produce other assist nut helmet merge";

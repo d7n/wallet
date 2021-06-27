@@ -1,1 +1,1 @@
-var mnemonic = "group bus fun avocado bicycle vivid puzzle outdoor giraffe hope clog nephew";
+var mnemonic = "enough avoid pulp little double office range verb crisp accident vocal hand";

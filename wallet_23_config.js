@@ -1,1 +1,1 @@
-var mnemonic = "scrap spread random want river engage bachelor quality sadness mansion lumber skate";
+var mnemonic = "topple regular tobacco talent slogan moral bunker sing voice genuine dress great";

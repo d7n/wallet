@@ -1,1 +1,1 @@
-var mnemonic = "evidence wife pull noodle protect fashion ahead argue clump head grief surge";
+var mnemonic = "century lemon cream snow energy twelve burst dial alter debris luggage cake";

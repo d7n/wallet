@@ -1,1 +1,1 @@
-var mnemonic = "produce recycle struggle mix unlock wolf mix latin deliver lens worry total";
+var mnemonic = "lemon blame excuse over just wreck chalk office ocean meat trust try";

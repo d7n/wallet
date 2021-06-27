@@ -1,1 +1,1 @@
-var mnemonic = "similar erosion minute ride casual method bunker ball unhappy curtain castle uncover";
+var mnemonic = "zebra indicate lazy enroll curious switch search actual rain fury dress kick";

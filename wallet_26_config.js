@@ -1,1 +1,1 @@
-var mnemonic = "pipe pipe leg favorite response syrup appear wide ticket habit grape annual";
+var mnemonic = "lock grid tattoo behave wink remain churn age wheel lecture live ecology";

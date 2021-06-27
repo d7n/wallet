@@ -1,1 +1,1 @@
-var mnemonic = "wealth fatal harsh opera cabbage helmet hedgehog video shadow adjust glow wood";
+var mnemonic = "roof donor ill anger child poet good job fire between clinic female";

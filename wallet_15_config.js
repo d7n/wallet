@@ -1,1 +1,1 @@
-var mnemonic = "garbage unfair short hundred dream arrest rural remain gaze pass victory sail";
+var mnemonic = "hungry devote someone enable chuckle crash lift romance guilt gospel unveil tuition";

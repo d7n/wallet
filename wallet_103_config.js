@@ -1,1 +1,1 @@
-var mnemonic = "clog rather vote health hold unique home wine jeans consider clock pizza";
+var mnemonic = "pipe roof wave employ coach goddess omit extra goose term flat fame";

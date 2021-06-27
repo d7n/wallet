@@ -1,1 +1,1 @@
-var mnemonic = "include fault banana valve card fresh benefit debris cable maple fury ritual";
+var mnemonic = "pause subway carry laptop until bless dress price upon miracle wolf mountain";

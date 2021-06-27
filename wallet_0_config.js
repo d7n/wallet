@@ -1,1 +1,1 @@
-var mnemonic = "calm hair cheese object become discover snack frequent setup toddler dilemma hazard";
+var mnemonic = "parrot plate mercy ozone discover embrace earth miracle senior course federal strike";

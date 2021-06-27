@@ -1,1 +1,1 @@
-var mnemonic = "climb eye hello hard iron salute latin swap pave produce crunch right";
+var mnemonic = "place dress matrix drop gossip divorce industry typical amount burden column mosquito";

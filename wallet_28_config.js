@@ -1,1 +1,1 @@
-var mnemonic = "assume stem modify brave girl balance ladder helmet unfold sick whisper bike";
+var mnemonic = "shift virtual stairs filter outside pigeon bamboo quarter trim mass army mandate";

@@ -1,1 +1,1 @@
-var mnemonic = "club thing broccoli midnight ranch minute apology shadow broccoli exotic option omit";
+var mnemonic = "shed finger shoulder cricket myself idea input arena frost vicious hen evoke";

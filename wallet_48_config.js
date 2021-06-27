@@ -1,1 +1,1 @@
-var mnemonic = "someone half clean attend member poem improve earth team embody end address";
+var mnemonic = "tuition cruel grid afford tongue visual solve style tip hotel help zoo";

@@ -1,1 +1,1 @@
-var mnemonic = "puppy around excuse crouch gold ahead rude roast wasp manual taxi spike";
+var mnemonic = "athlete render female shoulder sudden visa banner labor pulp plastic broken caution";

@@ -1,1 +1,1 @@
-var mnemonic = "box earth pass install dragon old cousin news cake rack gadget clerk";
+var mnemonic = "ill zone bone noodle vault armed enemy hip cook brown fashion broccoli";

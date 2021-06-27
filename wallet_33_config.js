@@ -1,1 +1,1 @@
-var mnemonic = "salmon bread garment gospel absurd hybrid action pet tube code grow virus";
+var mnemonic = "obvious bracket chalk love treat silent cargo fortune hover since spoil nephew";

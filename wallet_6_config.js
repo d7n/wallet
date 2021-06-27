@@ -1,1 +1,1 @@
-var mnemonic = "lyrics gun depart pilot air need tumble van junk mammal drop fall";
+var mnemonic = "seminar smart acid write helmet season charge whisper satisfy cheap unit evidence";

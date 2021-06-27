@@ -1,1 +1,1 @@
-var mnemonic = "system original moral people cable quarter winner invite noble real estate ski";
+var mnemonic = "soup maple soap sugar moment guide concert rubber mushroom smile law garlic";

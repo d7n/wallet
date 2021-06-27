@@ -1,1 +1,1 @@
-var mnemonic = "trophy destroy project smoke vacuum advance game outer struggle traffic grape puppy";
+var mnemonic = "remove finish humor social deliver glad same fury cloth refuse next pistol";

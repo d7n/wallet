@@ -1,1 +1,1 @@
-var mnemonic = "industry seminar sight math bless hole assault guitar blouse auto remind fatal";
+var mnemonic = "goat slender invite slice rival hollow exit shiver click rough penalty bottom";

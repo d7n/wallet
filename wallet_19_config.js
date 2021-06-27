@@ -1,1 +1,1 @@
-var mnemonic = "huge delay buddy autumn long can canal circle monitor oak online stage";
+var mnemonic = "heavy menu thrive square example clean predict recall much duck kidney oil";

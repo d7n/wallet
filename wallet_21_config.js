@@ -1,1 +1,1 @@
-var mnemonic = "husband zebra asset mind emotion again fever scorpion option pretty pizza eager";
+var mnemonic = "across axis inquiry audit stem dry toward left conduct laundry print lecture";

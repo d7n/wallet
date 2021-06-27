@@ -1,1 +1,1 @@
-var mnemonic = "book saddle text dinner portion distance garbage anchor winner blind mercy minor";
+var mnemonic = "maple rate heart theory benefit debris extend aim face increase govern survey";

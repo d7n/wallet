@@ -1,1 +1,1 @@
-var mnemonic = "blossom globe strategy armed need faith remind timber over image dentist need";
+var mnemonic = "orbit climb history blood hurt sea inside fold banana turkey museum also";

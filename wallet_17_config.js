@@ -1,1 +1,1 @@
-var mnemonic = "ticket verb festival pilot stereo bench surface area bitter chef autumn recipe";
+var mnemonic = "memory usual planet decline during staff bike print tube illegal city monkey";

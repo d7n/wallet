@@ -1,1 +1,1 @@
-var mnemonic = "hire cousin cost tail decide rail flock join attend actress ordinary patch";
+var mnemonic = "elevator merge cactus defy thank nut lake chicken little census whale south";

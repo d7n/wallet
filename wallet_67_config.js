@@ -1,1 +1,1 @@
-var mnemonic = "actress wild model twenty panther gather bachelor bench boy reform eight atom";
+var mnemonic = "sing stable mutual virus age subject bulk space tortoise above toward unknown";

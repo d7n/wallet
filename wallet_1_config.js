@@ -1,1 +1,1 @@
-var mnemonic = "rubber blouse seek path spirit order vendor idea famous divorce build expose";
+var mnemonic = "deliver ride brick noodle thrive survey power skill saddle common impact venture";

@@ -1,1 +1,1 @@
-var mnemonic = "shoulder cream remove normal bounce wrong caution brother planet sting enlist unit";
+var mnemonic = "game slam umbrella eye rose improve employ traffic sound warm review genius";

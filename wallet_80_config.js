@@ -1,1 +1,1 @@
-var mnemonic = "vast basket speak slab fragile become coil life length pact maple aerobic";
+var mnemonic = "capital wild loop hello dolphin project armed hedgehog advice festival label awesome";

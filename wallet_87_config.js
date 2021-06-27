@@ -1,1 +1,1 @@
-var mnemonic = "maid attitude note artwork eyebrow stamp develop bitter say victory bicycle april";
+var mnemonic = "bronze purpose squirrel destroy lava cruise smile supply explain glimpse liberty deny";

@@ -1,1 +1,1 @@
-var mnemonic = "force game pledge custom leave funny evidence book utility story lion nature";
+var mnemonic = "pumpkin glide sweet convince shiver license narrow amount faith cabin tent ignore";

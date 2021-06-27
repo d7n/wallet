@@ -1,1 +1,1 @@
-var mnemonic = "knife keep feed give theory royal cement pyramid flight other proud salmon";
+var mnemonic = "dance narrow library gather tent educate imitate walnut mirror gloom session dilemma";
