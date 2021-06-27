@@ -1,1 +1,1 @@
-var mnemonic = "galaxy bus crop ceiling erase asset fortune absorb fun unaware inmate guess";
+var mnemonic = "alter skull best green two small spice today wait message struggle present";

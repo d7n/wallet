@@ -1,1 +1,1 @@
-var mnemonic = "alter claim pistol ring peanut exile dolphin amount abuse urge holiday walnut";
+var mnemonic = "hat artwork unhappy laugh wreck reveal frame drink provide replace help panther";

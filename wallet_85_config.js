@@ -1,1 +1,1 @@
-var mnemonic = "book pill witness ready mixed boss soccer cancel ramp scan rich vast";
+var mnemonic = "bind vicious rubber federal critic nation replace library enroll canal join stone";

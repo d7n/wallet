@@ -1,1 +1,1 @@
-var mnemonic = "envelope address main prepare lunch magnet edge acoustic usual tired auction replace";
+var mnemonic = "close divorce nest double toast pass screen police element aisle lake orbit";

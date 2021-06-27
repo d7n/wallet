@@ -1,1 +1,1 @@
-var mnemonic = "inform dignity hungry stable joy mystery usual feed number between wrap purpose";
+var mnemonic = "circle afford mimic desert inject candy follow breeze grape veteran eagle swamp";

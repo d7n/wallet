@@ -1,1 +1,1 @@
-var mnemonic = "bitter tent judge minimum rail involve butter echo able road swear refuse";
+var mnemonic = "grocery defense salute vibrant sand riot rib keep cabin teach pride capital";

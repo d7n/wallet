@@ -1,1 +1,1 @@
-var mnemonic = "latin junk ecology permit maid panda turkey impulse state capital between hotel";
+var mnemonic = "invest olympic hat height swallow shine aware balcony fatal aware entire belt";

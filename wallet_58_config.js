@@ -1,1 +1,1 @@
-var mnemonic = "because feel coyote crisp traffic device kitten detect member page chunk benefit";
+var mnemonic = "fashion enemy magic rabbit age present shy crane protect little bacon clip";

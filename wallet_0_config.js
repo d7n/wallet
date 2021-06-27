@@ -1,1 +1,1 @@
-var mnemonic = "element gift cactus charge give tortoise increase peasant please crouch poverty panda";
+var mnemonic = "obey bone trick cradle country cannon legend review soccer gloom express camera";

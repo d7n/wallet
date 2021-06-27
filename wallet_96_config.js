@@ -1,1 +1,1 @@
-var mnemonic = "human capital know welcome portion question company air roof run say quote";
+var mnemonic = "flame certain smart problem carpet gadget pond pass scrub hover range public";

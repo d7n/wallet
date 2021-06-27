@@ -1,1 +1,1 @@
-var mnemonic = "disorder gas lens cruel spatial donkey essay organ flee broccoli act opinion";
+var mnemonic = "lesson promote stomach shrimp void bike disagree tuition ranch lock cotton beef";

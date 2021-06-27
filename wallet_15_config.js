@@ -1,1 +1,1 @@
-var mnemonic = "carbon green undo cable furnace umbrella deal actor plug actress december produce";
+var mnemonic = "fiscal coral wave panel cement food advice draft mask fox office double";

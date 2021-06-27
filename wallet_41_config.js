@@ -1,1 +1,1 @@
-var mnemonic = "trend pond unlock dizzy cruel margin drop excuse clay recipe banner ensure";
+var mnemonic = "rapid adult crime similar urban script cinnamon trip junior loop want original";

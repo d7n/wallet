@@ -1,1 +1,1 @@
-var mnemonic = "purse hair dizzy aisle over apple craft settle tennis oppose coast novel";
+var mnemonic = "open fence shine ride update team because garment bean twist bachelor ecology";

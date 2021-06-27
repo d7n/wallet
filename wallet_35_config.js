@@ -1,1 +1,1 @@
-var mnemonic = "vacuum joy pig patch tank endless common name primary gas torch blanket";
+var mnemonic = "nothing actress twist depart stadium fruit lab assault arrange element page burst";

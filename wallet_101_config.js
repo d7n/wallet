@@ -1,1 +1,1 @@
-var mnemonic = "kind body author stove raise ridge iron artefact dog final lend physical";
+var mnemonic = "pigeon brick old clarify crime panda shoot warrior toast call turtle twice";

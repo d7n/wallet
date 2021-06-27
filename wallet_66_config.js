@@ -1,1 +1,1 @@
-var mnemonic = "mail april trim cradle card upgrade decide hungry denial pelican click fiber";
+var mnemonic = "type dish hidden pave same hole patch congress next donkey because inspire";

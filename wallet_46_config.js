@@ -1,1 +1,1 @@
-var mnemonic = "envelope symptom rotate love ethics become north tone game common enable rule";
+var mnemonic = "frown include welcome basic heart switch supply holiday effort into loud rural";

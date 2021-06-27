@@ -1,1 +1,1 @@
-var mnemonic = "next dry purity remember crush sorry version reform nurse lab mirror cream";
+var mnemonic = "typical ozone used clarify pluck biology youth biology dog bracket badge oxygen";

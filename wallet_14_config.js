@@ -1,1 +1,1 @@
-var mnemonic = "mean often mandate guitar name club order siren year road fall slice";
+var mnemonic = "radar cement planet oxygen square crush word hill find poem curve sound";

@@ -1,1 +1,1 @@
-var mnemonic = "find thrive chalk net bulk wrestle churn curious fat green turn wear";
+var mnemonic = "cotton cluster heart grid sentence fatal fiscal keen snap pelican provide artefact";

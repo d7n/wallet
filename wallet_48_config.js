@@ -1,1 +1,1 @@
-var mnemonic = "paddle moment organ mask monitor shy glimpse dynamic inhale hunt panther dice";
+var mnemonic = "buffalo enemy few garden nut fix mean join voice exclude flee remind";

@@ -1,1 +1,1 @@
-var mnemonic = "fever shield jump travel grid divorce object assume best owner rocket badge";
+var mnemonic = "conduct warfare excuse march elevator volume filter bracket noodle month slim lady";

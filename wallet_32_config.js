@@ -1,1 +1,1 @@
-var mnemonic = "soldier monster warfare dry enable citizen image fox grant fee unaware leg";
+var mnemonic = "club smooth disagree tree coffee phone alarm canyon image cook thumb supply";

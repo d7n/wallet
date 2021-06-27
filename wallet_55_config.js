@@ -1,1 +1,1 @@
-var mnemonic = "awake scout island address romance dizzy lab thought ski false lake hammer";
+var mnemonic = "ostrich dress pass used anxiety impose trade exhaust clutch cave giraffe casual";

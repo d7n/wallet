@@ -1,1 +1,1 @@
-var mnemonic = "shoot current check world swallow reform check correct deposit net fork edge";
+var mnemonic = "shadow total ghost volcano grass squeeze fever cream link shine cruise involve";

@@ -1,1 +1,1 @@
-var mnemonic = "suffer already nerve animal pistol duty escape west toddler pig nation kiwi";
+var mnemonic = "manage behave near beef cream soon identify sound fly object cake skin";

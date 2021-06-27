@@ -1,1 +1,1 @@
-var mnemonic = "clock report trade thank decorate double rebuild genius pass casual detail rhythm";
+var mnemonic = "cart again armed version dignity purity cube market armor smart rifle sock";

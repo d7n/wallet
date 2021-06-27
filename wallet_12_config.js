@@ -1,1 +1,1 @@
-var mnemonic = "phone gaze record better suit swap advice check proof travel enough ten";
+var mnemonic = "pyramid else inflict obtain tuition foster mandate wonder one heavy depth potato";

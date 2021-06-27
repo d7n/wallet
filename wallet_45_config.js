@@ -1,1 +1,1 @@
-var mnemonic = "stadium squirrel robust pilot field chef certain bid tray hand cliff across";
+var mnemonic = "right badge riot final green patch lion motion process hungry double student";

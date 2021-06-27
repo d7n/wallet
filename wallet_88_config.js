@@ -1,1 +1,1 @@
-var mnemonic = "nice clean remember next shrug real drastic elder bird tone spin thumb";
+var mnemonic = "juice company echo release simple dry select amateur slam spring orchard bulb";

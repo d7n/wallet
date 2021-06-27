@@ -1,1 +1,1 @@
-var mnemonic = "history insect earn cruel pluck eight endorse wild always crash garbage inject";
+var mnemonic = "park palm reopen belt path reason exhibit symptom lawn bundle zebra update";

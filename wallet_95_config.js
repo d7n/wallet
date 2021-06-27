@@ -1,1 +1,1 @@
-var mnemonic = "notable laugh airport series logic duty quantum check scrub push destroy casino";
+var mnemonic = "winter guide market social chef gloom near flee domain hat borrow muscle";

@@ -1,1 +1,1 @@
-var mnemonic = "scale reflect tornado amazing various address achieve police display finger foot kiwi";
+var mnemonic = "coin radio wine then old whale protect stereo intact february special weird";

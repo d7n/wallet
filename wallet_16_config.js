@@ -1,1 +1,1 @@
-var mnemonic = "infant way phone deliver affair moon clay hammer flower blossom chunk hello";
+var mnemonic = "into column spirit flock adapt gain joy admit column nose drip hire";

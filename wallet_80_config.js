@@ -1,1 +1,1 @@
-var mnemonic = "toy lab spoil orchard sure mass hard vicious borrow chicken blanket axis";
+var mnemonic = "pass still syrup search nurse tenant mother truth absurd vibrant swift valid";

@@ -1,1 +1,1 @@
-var mnemonic = "grit holiday business where creek walnut brother gentle mix prefer clarify embark";
+var mnemonic = "cruel palace rival citizen foster enhance loud home easily chief law neither";

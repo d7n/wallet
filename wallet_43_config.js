@@ -1,1 +1,1 @@
-var mnemonic = "border bench borrow cinnamon change fire screen clever only long install beef";
+var mnemonic = "either cube alcohol second spread shop rapid parade plastic space veteran subway";

@@ -1,1 +1,1 @@
-var mnemonic = "acoustic cotton strong advice young ceiling matter poverty one gown amused fee";
+var mnemonic = "surprise describe immune multiply scene exist rude march tattoo gain travel say";

@@ -1,1 +1,1 @@
-var mnemonic = "easily kit benefit pause slender nurse core palace kitten impulse receive ribbon";
+var mnemonic = "curious print hero age first wasp diary replace demand intact nurse visit";

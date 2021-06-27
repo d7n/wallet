@@ -1,1 +1,1 @@
-var mnemonic = "resemble genuine speak fuel spread gather hover rely evil garden dove cement";
+var mnemonic = "dismiss exhaust employ glove still blouse exile distance gap captain desert lobster";

@@ -1,1 +1,1 @@
-var mnemonic = "federal rival usage violin gown logic alpha nut machine pilot purpose infant";
+var mnemonic = "bind crazy wasp blood frequent hip path naive volcano protect holiday bus";

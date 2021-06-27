@@ -1,1 +1,1 @@
-var mnemonic = "dilemma bitter nothing wine link then bounce school replace gas alcohol tent";
+var mnemonic = "delay lonely sing monitor kingdom winner pony carpet flash fluid armor lend";

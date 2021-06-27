@@ -1,1 +1,1 @@
-var mnemonic = "burden elbow junk jacket drop end demand above ankle run sorry unable";
+var mnemonic = "swamp rough exercise they blue cigar electric bread waste awake swamp december";

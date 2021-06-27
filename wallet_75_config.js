@@ -1,1 +1,1 @@
-var mnemonic = "ring trend usage fortune salmon spike cement village sing chimney dove size";
+var mnemonic = "capital gossip bracket dinosaur carry cruise retreat laundry fiber fruit segment soccer";

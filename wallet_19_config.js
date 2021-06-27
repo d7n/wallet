@@ -1,1 +1,1 @@
-var mnemonic = "brave copper town dignity dutch accuse once session bright update clock upon";
+var mnemonic = "gun system sand never torch lab target surge repair birth tiny lazy";

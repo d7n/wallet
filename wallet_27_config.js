@@ -1,1 +1,1 @@
-var mnemonic = "eternal place curtain power depend shift debris prize during join tomato victory";
+var mnemonic = "dust empty ceiling traffic present poet prosper title all deer reject embark";

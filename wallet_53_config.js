@@ -1,1 +1,1 @@
-var mnemonic = "waste wage case fresh okay three jealous license glue earth together goose";
+var mnemonic = "measure avoid column rain aunt width wrong modify add design buddy degree";

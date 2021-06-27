@@ -1,1 +1,1 @@
-var mnemonic = "boss fluid float guitar siren orange car news snow quarter leisure century";
+var mnemonic = "lift private rebuild chimney heavy enjoy deposit curtain length skull expand make";

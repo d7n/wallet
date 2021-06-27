@@ -1,1 +1,1 @@
-var mnemonic = "stem coin gasp peace prepare glory brand rare melody brush assault toe";
+var mnemonic = "afford coffee recipe inhale anchor truck aim razor biology lift angry ivory";

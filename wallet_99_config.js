@@ -1,1 +1,1 @@
-var mnemonic = "scheme pulse kidney elbow flower alone sustain broken answer pass alpha law";
+var mnemonic = "drastic actor doll small tuna head fantasy local fly cattle inherit impulse";

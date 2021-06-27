@@ -1,1 +1,1 @@
-var mnemonic = "quantum museum mango oil critic crush motor talk jacket state radar whisper";
+var mnemonic = "argue monitor tide valid shiver rebuild distance hub panda favorite once trigger";

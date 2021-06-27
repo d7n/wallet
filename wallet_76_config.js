@@ -1,1 +1,1 @@
-var mnemonic = "mind echo oven elite already eternal myself awkward steel option need post";
+var mnemonic = "cry army swamp sort spoon shrimp find gallery toward pony glance spawn";

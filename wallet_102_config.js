@@ -1,1 +1,1 @@
-var mnemonic = "foil shrug disease system annual winter ahead original patch ugly item habit";
+var mnemonic = "help ritual stick hard size pet junior treat expect hazard infant thrive";

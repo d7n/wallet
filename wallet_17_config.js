@@ -1,1 +1,1 @@
-var mnemonic = "twin hire market lounge adapt humble loyal shy clay dolphin olympic odor";
+var mnemonic = "antenna exact thank autumn culture visa grape error bamboo unusual hold patch";

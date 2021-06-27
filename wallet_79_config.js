@@ -1,1 +1,1 @@
-var mnemonic = "cash fuel price enforce pond entire artefact book peasant radar island assist";
+var mnemonic = "garage island bridge limb suit extend install gravity beef two income recipe";

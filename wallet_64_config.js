@@ -1,1 +1,1 @@
-var mnemonic = "estate shrimp family bind fox elite year spider blanket hover whip space";
+var mnemonic = "crazy cream frost robot danger gate paddle win random report notable become";

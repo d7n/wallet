@@ -1,1 +1,1 @@
-var mnemonic = "kiss way satisfy tray fat goose sustain oval clog bundle summer skull";
+var mnemonic = "sorry dynamic there outer replace inch ordinary snake depart helmet recall float";

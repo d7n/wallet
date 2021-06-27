@@ -1,1 +1,1 @@
-var mnemonic = "scale neck ankle fault globe near situate uncle hedgehog royal enable kangaroo";
+var mnemonic = "future toe salt table reflect mimic insane chief cost decrease bind inflict";

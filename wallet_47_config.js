@@ -1,1 +1,1 @@
-var mnemonic = "crumble clown turtle daughter argue embrace wagon grain say huge galaxy discover";
+var mnemonic = "juice worry melt dolphin tube derive speed portion find lock hedgehog kit";

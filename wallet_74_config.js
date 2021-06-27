@@ -1,1 +1,1 @@
-var mnemonic = "giggle sadness amazing assault setup scare manual pottery voice exact volume general";
+var mnemonic = "tilt tobacco patch trick idea seat save train famous direct divide plastic";

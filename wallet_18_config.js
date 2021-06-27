@@ -1,1 +1,1 @@
-var mnemonic = "celery invest rack clarify cake aspect twenty usage burst obtain space police";
+var mnemonic = "reward canyon flee volume outdoor dish ice resist frog pelican barrel point";

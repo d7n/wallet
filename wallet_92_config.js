@@ -1,1 +1,1 @@
-var mnemonic = "rotate pledge unusual liquid sentence wheat anxiety link physical ice chalk energy";
+var mnemonic = "tool until job imitate night gasp antenna cabin rare hint arrest luxury";

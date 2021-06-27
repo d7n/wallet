@@ -1,1 +1,1 @@
-var mnemonic = "gospel check envelope earn pair feature truck merry travel require hint fame";
+var mnemonic = "opera father goose virus pass eyebrow pave renew embrace absent step number";

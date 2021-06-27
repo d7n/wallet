@@ -1,1 +1,1 @@
-var mnemonic = "ugly remind ramp oyster zero eyebrow online toy trigger legal bronze sand";
+var mnemonic = "various grace company matrix mesh reward favorite absorb rubber unable cross flat";

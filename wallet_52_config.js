@@ -1,1 +1,1 @@
-var mnemonic = "collect squirrel follow season client merge weapon senior emotion tornado quarter seat";
+var mnemonic = "wash express twice couple actual fringe ethics casual firm pioneer identify left";

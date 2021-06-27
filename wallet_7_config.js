@@ -1,1 +1,1 @@
-var mnemonic = "icon betray sense source address cloth about can team strong witness domain";
+var mnemonic = "place genre typical mouse twelve near cash update green egg current chat";

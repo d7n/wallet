@@ -1,1 +1,1 @@
-var mnemonic = "rocket choice pencil file belt unusual trip wedding neglect ordinary silk scheme";
+var mnemonic = "segment live predict squirrel mind until wash alcohol merge proud journey review";

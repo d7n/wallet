@@ -1,1 +1,1 @@
-var mnemonic = "capital town inject pledge give denial diagram undo yard work ball together";
+var mnemonic = "tenant regular beef library dizzy valve mom drama tired car alley pear";

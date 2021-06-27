@@ -1,1 +1,1 @@
-var mnemonic = "dinner creek spot vote caught artist face cancel entire suggest lesson audit";
+var mnemonic = "tone pledge monkey tuna elevator basket involve fiber mansion excess dutch awake";

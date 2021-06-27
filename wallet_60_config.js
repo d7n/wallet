@@ -1,1 +1,1 @@
-var mnemonic = "father wrestle ketchup awake coast hair banner walnut region fringe common army";
+var mnemonic = "absurd spatial proof infant smooth fan bike hidden social occur upgrade toddler";

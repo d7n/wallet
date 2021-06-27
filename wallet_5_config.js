@@ -1,1 +1,1 @@
-var mnemonic = "bacon merge lawn agree couple alien better piano quit inmate eyebrow pig";
+var mnemonic = "stereo expose burden educate endorse hat myself current siren pass mushroom omit";

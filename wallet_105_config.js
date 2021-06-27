@@ -1,1 +1,1 @@
-var mnemonic = "maximum panel prosper slab advance yellow spoil visual disorder cry master boost";
+var mnemonic = "walk rain relax fiction law ecology quantum stove mandate kid monitor enemy";

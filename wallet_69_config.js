@@ -1,1 +1,1 @@
-var mnemonic = "print dose assault zero pulse safe ozone grunt desk danger library common";
+var mnemonic = "unit ill menu kitten rice cost depend wave spatial hole vivid stereo";

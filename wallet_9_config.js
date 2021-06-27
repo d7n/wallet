@@ -1,1 +1,1 @@
-var mnemonic = "left all surprise hammer tennis whisper tool quiz pelican armor twin age";
+var mnemonic = "twist skull despair keen dismiss hurry general art tackle breeze cool anxiety";

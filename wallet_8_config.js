@@ -1,1 +1,1 @@
-var mnemonic = "fat inflict slender view unaware drip delay swap pull juice pink profit";
+var mnemonic = "pulp portion demise cat round island tribe jacket daughter smooth reunion corn";

@@ -1,1 +1,1 @@
-var mnemonic = "lecture nature unknown alter task daughter dirt public leave record core buyer";
+var mnemonic = "notable stick undo hobby worry orbit endorse awkward same visa avoid ritual";

@@ -1,1 +1,1 @@
-var mnemonic = "inform pulp add photo income tourist exercise dumb burst term coil foam";
+var mnemonic = "chair table client nerve flash when addict balance senior fitness rhythm cousin";

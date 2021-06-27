@@ -1,1 +1,1 @@
-var mnemonic = "valid middle ketchup chuckle kit force since coconut rotate visa abandon dilemma";
+var mnemonic = "taste remove barely odor creek repair plunge song quit gentle budget column";

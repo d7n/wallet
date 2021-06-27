@@ -1,1 +1,1 @@
-var mnemonic = "enemy disagree confirm twin human solve rookie grief pupil rail interest sketch";
+var mnemonic = "yard kiss pass squirrel leader escape autumn cereal balcony learn feature humble";

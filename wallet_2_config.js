@@ -1,1 +1,1 @@
-var mnemonic = "divert blue tobacco stereo return chimney parrot cover mixture tape shield trumpet";
+var mnemonic = "weird wire coin deal uphold depart park isolate hand sword online skill";

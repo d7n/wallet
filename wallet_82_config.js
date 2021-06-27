@@ -1,1 +1,1 @@
-var mnemonic = "unknown theory pet hunt range remove absent craft neglect bounce museum cost";
+var mnemonic = "resemble man about banana wild scale garage diary age text curious aerobic";

@@ -1,1 +1,1 @@
-var mnemonic = "popular vacant aerobic uncle finish range account metal rubber permit tone enhance";
+var mnemonic = "mixed typical invest multiply toilet shy valley lobster rival achieve slam jump";

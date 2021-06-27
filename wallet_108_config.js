@@ -1,1 +1,1 @@
-var mnemonic = "seminar crunch blanket lawn answer smoke broccoli arctic blade hood acquire boost";
+var mnemonic = "grid wreck correct claim minimum mule figure soda property party gate confirm";

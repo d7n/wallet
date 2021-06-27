@@ -1,1 +1,1 @@
-var mnemonic = "dish polar defense toe buffalo gather rare layer update clinic pioneer repeat";
+var mnemonic = "weird oak wait matrix typical debris oyster gather liar shadow twice gym";

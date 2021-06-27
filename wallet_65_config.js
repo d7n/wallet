@@ -1,1 +1,1 @@
-var mnemonic = "move client island dog juice combine area hidden need catch host proud";
+var mnemonic = "funny sport strike junior media music cluster tennis food audit wage intact";

@@ -1,1 +1,1 @@
-var mnemonic = "gate typical differ father start bulk goat similar legend lottery lonely receive";
+var mnemonic = "wise cancel inquiry erase apple panic extend wine kangaroo trade master throw";

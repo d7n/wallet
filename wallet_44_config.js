@@ -1,1 +1,1 @@
-var mnemonic = "situate wasp wisdom burger stove aware slender limit enact unaware lawn concert";
+var mnemonic = "reason wood bread light behave noodle balcony abuse once pigeon cover border";

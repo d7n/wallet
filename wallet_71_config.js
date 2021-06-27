@@ -1,1 +1,1 @@
-var mnemonic = "retire good mom upgrade slogan stay inspire matrix tattoo modify cattle accident";
+var mnemonic = "ensure law cake people hill total sleep wreck jacket sample hundred casual";

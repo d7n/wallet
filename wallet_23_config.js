@@ -1,1 +1,1 @@
-var mnemonic = "magnet opinion expect skate top leave summer rescue uphold melody auto fish";
+var mnemonic = "easily firm oval ability remove confirm size impulse vivid void sphere portion";

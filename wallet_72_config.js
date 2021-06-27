@@ -1,1 +1,1 @@
-var mnemonic = "leader arena power text empty hair twelve diamond viable loud violin junk";
+var mnemonic = "call autumn pig corn garage ketchup lawn echo animal silver trap life";

@@ -1,1 +1,1 @@
-var mnemonic = "team input spirit sentence example olympic pencil sing work garbage special elbow";
+var mnemonic = "weird strategy dish peace permit distance unhappy half muscle remain gain attract";
