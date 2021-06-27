@@ -1,1 +1,1 @@
-var mnemonic = "emotion finish myth execute sick plunge order erosion fit hip effort taste";
+var mnemonic = "stool chaos trip trumpet duck item impose wave alpha velvet survey input";

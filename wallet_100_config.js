@@ -1,1 +1,1 @@
-var mnemonic = "citizen umbrella announce top leg hurry enact rich keen special believe lobster";
+var mnemonic = "effort surface detect aerobic bring frown disagree flee street reward hotel disorder";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal grocery gown shiver wash glue wolf armed tattoo path shed toward";
+var mnemonic = "raven talent camp whale decade force bulk robot budget refuse avocado island";

@@ -1,1 +1,1 @@
-var mnemonic = "like riot input retreat jump service goddess carpet project venue tumble tornado";
+var mnemonic = "print loud flush wire subway reunion version shrimp spike core cherry index";

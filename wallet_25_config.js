@@ -1,1 +1,1 @@
-var mnemonic = "child snack coil imitate rubber snake fashion morning crisp one horse tonight";
+var mnemonic = "nasty coin decide monitor then cricket apple piece two genre unknown patrol";

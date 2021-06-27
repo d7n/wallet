@@ -1,1 +1,1 @@
-var mnemonic = "hold chase coil oval identify rude control conduct object trouble swarm soft";
+var mnemonic = "old trick history praise tooth extra cliff prize squirrel border reveal swarm";

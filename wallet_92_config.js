@@ -1,1 +1,1 @@
-var mnemonic = "shield ensure never frog walnut link salon step tip silent judge cattle";
+var mnemonic = "answer skin coach cave web resemble claim hammer total wagon fence brain";

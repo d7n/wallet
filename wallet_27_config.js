@@ -1,1 +1,1 @@
-var mnemonic = "key evidence coconut boy fatal parrot dress order accident start soda success";
+var mnemonic = "success universe version ice stuff prosper setup twenty jacket skull sniff trouble";

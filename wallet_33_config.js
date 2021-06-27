@@ -1,1 +1,1 @@
-var mnemonic = "dinner bright early fiction bargain debris tower book short tree sail front";
+var mnemonic = "glare argue pledge expire keen foam tobacco sniff track kidney gather question";

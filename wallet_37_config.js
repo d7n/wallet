@@ -1,1 +1,1 @@
-var mnemonic = "kid onion destroy mom bubble dry blue crop embrace photo follow chest";
+var mnemonic = "shoulder exchange know fee peace powder emerge order monitor find bus baby";

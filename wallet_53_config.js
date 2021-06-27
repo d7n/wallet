@@ -1,1 +1,1 @@
-var mnemonic = "outside honey slim inhale approve vocal width nasty please unaware public topic";
+var mnemonic = "smoke shadow chaos depend notable around skirt gun evoke random problem kit";

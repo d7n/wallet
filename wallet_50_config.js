@@ -1,1 +1,1 @@
-var mnemonic = "illegal cheese inquiry plate pluck eagle scrap patch globe urban pet flat";
+var mnemonic = "melody urban tiny chat globe vocal minimum dumb seed build pulse blood";

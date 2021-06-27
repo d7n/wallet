@@ -1,1 +1,1 @@
-var mnemonic = "absent minute panda country blur illness pill first alpha six history fat";
+var mnemonic = "tell comfort off joy post rate conduct display include enforce pulp skull";

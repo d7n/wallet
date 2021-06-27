@@ -1,1 +1,1 @@
-var mnemonic = "swim combine argue wreck woman resource usual morning surround right roast short";
+var mnemonic = "output abandon clutch stone hat midnight clown sugar earn border profit once";

@@ -1,1 +1,1 @@
-var mnemonic = "lion record work only park leaf catalog harvest wrong post volume series";
+var mnemonic = "property wreck despair anger daughter often slam true decade skirt select mad";

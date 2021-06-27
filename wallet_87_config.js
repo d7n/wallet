@@ -1,1 +1,1 @@
-var mnemonic = "duck ripple say cart sort twelve emerge team tennis digital demise vessel";
+var mnemonic = "nuclear divert dentist moon glimpse element spin defy spawn frozen tonight perfect";

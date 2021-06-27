@@ -1,1 +1,1 @@
-var mnemonic = "insane slide permit ignore odor garden wild modify address magic argue tired";
+var mnemonic = "twelve view turn tennis sibling long crowd tape bundle charge rule express";

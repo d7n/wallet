@@ -1,1 +1,1 @@
-var mnemonic = "skin brown other interest stairs purpose unable rent flush ahead mushroom order";
+var mnemonic = "leader ozone damage repeat rebuild forum quiz input two pause milk sister";

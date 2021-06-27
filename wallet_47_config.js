@@ -1,1 +1,1 @@
-var mnemonic = "right logic snake tongue fame boost company winter security broken update drift";
+var mnemonic = "audit swamp kick endorse float leaf floor cool common kind conduct trigger";

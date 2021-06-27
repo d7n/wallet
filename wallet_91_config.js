@@ -1,1 +1,1 @@
-var mnemonic = "biology tourist hat woman bless legend gesture edit palace situate unable claw";
+var mnemonic = "install gentle apart track verify file hip joy genuine rubber aerobic tortoise";

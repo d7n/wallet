@@ -1,1 +1,1 @@
-var mnemonic = "renew sugar alley female hospital depth confirm provide fatal satoshi awkward marriage";
+var mnemonic = "winner anxiety harvest recipe choice exhibit crucial salon fiscal mad school multiply";

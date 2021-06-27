@@ -1,1 +1,1 @@
-var mnemonic = "yard brain eternal flavor awake burger lava envelope file segment cruel impact";
+var mnemonic = "left sport post upgrade office similar crop mirror chat trim cart crystal";

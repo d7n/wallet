@@ -1,1 +1,1 @@
-var mnemonic = "rely lemon abstract often boss monkey dream hurry motor economy egg build";
+var mnemonic = "bulb owner audit retire sense tattoo foster squirrel tribe inside spider weekend";

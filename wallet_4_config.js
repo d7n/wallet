@@ -1,1 +1,1 @@
-var mnemonic = "purpose like body grocery limb much protect magnet awkward valve common awesome";
+var mnemonic = "laundry novel fog divide venue exit field connect divide city doctor foil";

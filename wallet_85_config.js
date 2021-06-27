@@ -1,1 +1,1 @@
-var mnemonic = "cream object monkey unhappy ridge craft above sorry wrap addict target heart";
+var mnemonic = "abuse above leopard crash all essence awkward praise clog kite text name";

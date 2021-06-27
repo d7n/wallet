@@ -1,1 +1,1 @@
-var mnemonic = "jealous crumble thought shaft forget farm copy lyrics pottery ecology ring junk";
+var mnemonic = "pact era swamp grocery mountain illness steak they put emerge warm once";

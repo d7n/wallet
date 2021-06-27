@@ -1,1 +1,1 @@
-var mnemonic = "iron category imitate resemble cement buffalo junk chief victory canyon process program";
+var mnemonic = "blue country truck inflict ketchup coyote jar short inside false rule found";

@@ -1,1 +1,1 @@
-var mnemonic = "blue matter insect renew husband nurse picture electric arrest ecology ski figure";
+var mnemonic = "garment script brisk educate scale cave grow merit furnace mechanic exclude creek";

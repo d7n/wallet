@@ -1,1 +1,1 @@
-var mnemonic = "heavy laugh stay add wet praise sustain echo pass patrol brush mistake";
+var mnemonic = "jazz budget artwork diet organ flush glove choose wire indoor august dilemma";

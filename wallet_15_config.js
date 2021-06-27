@@ -1,1 +1,1 @@
-var mnemonic = "tail spoil retreat brain essence report fish army orient animal wife aware";
+var mnemonic = "inspire orange process adult during decorate vast heavy equal join sail around";

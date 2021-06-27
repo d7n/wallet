@@ -1,1 +1,1 @@
-var mnemonic = "mountain genius jungle expire sun ill adapt cinnamon trumpet task bone slot";
+var mnemonic = "text pill honey arm copy wasp reveal outer endless stereo pepper slot";

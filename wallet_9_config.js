@@ -1,1 +1,1 @@
-var mnemonic = "display fatal salad fetch enlist unknown extend resource alert depend vote solve";
+var mnemonic = "stove fuel add retreat idea lens unveil crazy champion injury farm diet";

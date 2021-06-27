@@ -1,1 +1,1 @@
-var mnemonic = "robust comic express blind gain cycle belt minute evidence merge curtain hurry";
+var mnemonic = "lottery deliver maple ranch economy notice will angry addict reopen nut edge";

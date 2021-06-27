@@ -1,1 +1,1 @@
-var mnemonic = "puzzle priority body left buddy clean protect field olive satoshi above inherit";
+var mnemonic = "oval task radio garment discover hedgehog club glue toy brave deposit middle";

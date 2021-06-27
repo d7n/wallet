@@ -1,1 +1,1 @@
-var mnemonic = "cry inflict arch royal proud accuse emotion damp clock convince discover loan";
+var mnemonic = "journey soup amazing tunnel chronic pill chalk help panel mammal patrol blanket";

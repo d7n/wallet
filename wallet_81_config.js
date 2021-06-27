@@ -1,1 +1,1 @@
-var mnemonic = "belt pride tide enroll gravity oil saddle sniff ceiling miracle despair keen";
+var mnemonic = "dust rapid jaguar stereo embark embody onion immense crumble pen high drink";

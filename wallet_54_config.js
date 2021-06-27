@@ -1,1 +1,1 @@
-var mnemonic = "sister vapor inject morning amazing door drift blouse december sorry pledge when";
+var mnemonic = "noodle mass equal carpet then dream leader pupil possible unveil bean nut";

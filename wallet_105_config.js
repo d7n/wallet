@@ -1,1 +1,1 @@
-var mnemonic = "convince brush confirm prevent rigid guess strong armed agent step tuition melody";
+var mnemonic = "spray pause almost journey labor develop cool sniff huge clutch weasel fog";

@@ -1,1 +1,1 @@
-var mnemonic = "brisk foster enlist cluster margin example april resource club this broccoli cloud";
+var mnemonic = "dynamic regret sad help pause panther agree spare prize hand bar region";

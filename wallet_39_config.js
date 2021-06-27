@@ -1,1 +1,1 @@
-var mnemonic = "melody kiwi range entry casino human split neglect brand brass dragon polar";
+var mnemonic = "purity neglect vintage frown arena soul hedgehog profit hood gasp whisper tortoise";

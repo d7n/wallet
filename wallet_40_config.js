@@ -1,1 +1,1 @@
-var mnemonic = "try curtain ethics lizard slogan depart tube possible purse human fancy beyond";
+var mnemonic = "tennis piano cube goat skill athlete artist mind woman quote milk decide";

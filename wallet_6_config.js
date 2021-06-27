@@ -1,1 +1,1 @@
-var mnemonic = "tag economy purchase daughter blast finish picture cradle orchard airport brand steel";
+var mnemonic = "replace frog renew wall sadness jazz twin slender ecology crisp giraffe danger";

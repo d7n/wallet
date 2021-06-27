@@ -1,1 +1,1 @@
-var mnemonic = "chuckle mad tree soft celery garage airport clap upset slab symptom solid";
+var mnemonic = "poem bonus real width oblige scan lava avocado banana fan sword door";

@@ -1,1 +1,1 @@
-var mnemonic = "allow slide empower nephew waste road night amateur boring prize solid quick";
+var mnemonic = "plunge during trim beauty absent glide better improve entire provide loop snack";

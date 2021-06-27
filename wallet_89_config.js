@@ -1,1 +1,1 @@
-var mnemonic = "course nephew same betray orchard velvet pizza service enough tag sketch off";
+var mnemonic = "enforce color question usage boost slim helmet enjoy topic update student tree";

@@ -1,1 +1,1 @@
-var mnemonic = "void close any pig stumble fringe assist drop wrong snow monitor fresh";
+var mnemonic = "orbit concert neck ladder tone notable thumb dose miracle oppose source student";

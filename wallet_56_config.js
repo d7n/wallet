@@ -1,1 +1,1 @@
-var mnemonic = "boy pattern mystery armor combine core strike muffin identify immense awesome cliff";
+var mnemonic = "share above wool napkin prevent rabbit crack donor want friend sponsor water";

@@ -1,1 +1,1 @@
-var mnemonic = "oil meadow any service subject gas slogan album prize sail where always";
+var mnemonic = "victory marble electric road innocent gym oppose inform shell change spare just";

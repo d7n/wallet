@@ -1,1 +1,1 @@
-var mnemonic = "regular remain recipe twelve target suit rhythm month space garbage shaft mind";
+var mnemonic = "oyster bread marine ensure notable bounce moral slow saddle brain debris barrel";

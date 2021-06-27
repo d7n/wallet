@@ -1,1 +1,1 @@
-var mnemonic = "awful employ renew used attitude road brush remember muffin plunge mad category";
+var mnemonic = "cannon dumb olive goat dog vague labor call quote relief wash blue";

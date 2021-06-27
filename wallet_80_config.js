@@ -1,1 +1,1 @@
-var mnemonic = "increase ceiling awful erase kind ritual modify travel rough market one ignore";
+var mnemonic = "solid canvas put recall trend slam approve mountain method matrix census figure";

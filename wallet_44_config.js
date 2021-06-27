@@ -1,1 +1,1 @@
-var mnemonic = "nurse receive song rabbit dress throw bacon illegal topic divorce leisure idea";
+var mnemonic = "trouble improve misery few buyer engine reopen twenty peace public empower ladder";

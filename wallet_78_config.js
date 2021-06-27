@@ -1,1 +1,1 @@
-var mnemonic = "baby extra brisk seminar thrive since permit elbow thunder grape afraid render";
+var mnemonic = "pole tower hand area all wear fox assault moon maid when antenna";

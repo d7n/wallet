@@ -1,1 +1,1 @@
-var mnemonic = "room mandate throw trust leopard only hurt true grow scan come purse";
+var mnemonic = "settle cart just come lawsuit record shed hour uniform glass window minute";

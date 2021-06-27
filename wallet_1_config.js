@@ -1,1 +1,1 @@
-var mnemonic = "attitude reform galaxy excite trumpet pyramid pond reward fuel outside notice plunge";
+var mnemonic = "result panic ritual trend web glow record excuse toss shoe worth artist";

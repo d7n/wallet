@@ -1,1 +1,1 @@
-var mnemonic = "ten member nest need update snack edit orange sing click coil crime";
+var mnemonic = "enjoy photo grace coral blanket tired cabin try harvest item diary blade";

@@ -1,1 +1,1 @@
-var mnemonic = "useful magic kit patrol diamond tattoo broken myself hockey solid rally tail";
+var mnemonic = "tomorrow rotate amount lonely talent seat boss enable swear chuckle enrich convince";

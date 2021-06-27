@@ -1,1 +1,1 @@
-var mnemonic = "woman jump wall whisper north victory stand gorilla fault country cannon clean";
+var mnemonic = "wear between rare daring alarm table rubber embody vintage south blouse secret";

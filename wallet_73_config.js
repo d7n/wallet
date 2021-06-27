@@ -1,1 +1,1 @@
-var mnemonic = "glue coil rely cushion leaf father slow witness acoustic bronze spike gorilla";
+var mnemonic = "soldier despair fade monster ozone mandate sense seat chicken common twist sport";

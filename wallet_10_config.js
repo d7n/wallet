@@ -1,1 +1,1 @@
-var mnemonic = "three oval rate view fragile word satoshi canoe parade object muffin index";
+var mnemonic = "blind plastic deny stamp satisfy outside pitch fix bring much slab analyst";

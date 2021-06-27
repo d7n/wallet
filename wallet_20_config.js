@@ -1,1 +1,1 @@
-var mnemonic = "meadow announce lucky garlic glove above burger tone hurry vivid shoulder vintage";
+var mnemonic = "quantum flip noodle shrug picnic deny world weasel sea chief broken decrease";

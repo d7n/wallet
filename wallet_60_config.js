@@ -1,1 +1,1 @@
-var mnemonic = "food autumn call flash minute prefer bus palace prevent lock inflict display";
+var mnemonic = "caution rather army height island cactus aisle chalk sunset taxi reflect town";

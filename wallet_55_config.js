@@ -1,1 +1,1 @@
-var mnemonic = "coconut october goose essence deputy mind hub bundle symbol diamond seat cinnamon";
+var mnemonic = "exercise payment ticket record absorb host warrior bicycle stove illegal leader decade";

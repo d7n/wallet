@@ -1,1 +1,1 @@
-var mnemonic = "victory finger father online file east what donate example shrug merry old";
+var mnemonic = "vocal ghost note combine orbit pill maid catch nice cliff flip fragile";

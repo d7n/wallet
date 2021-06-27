@@ -1,1 +1,1 @@
-var mnemonic = "ripple cute exchange accuse embody faint auto mother vehicle mandate town dizzy";
+var mnemonic = "lamp wild museum patient draft middle wish subway tunnel purity hard honey";

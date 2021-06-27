@@ -1,1 +1,1 @@
-var mnemonic = "acid twin weasel member woman bird clinic task question damage tribe style";
+var mnemonic = "world legal forest resemble valid aim wait bargain wear post valid cost";

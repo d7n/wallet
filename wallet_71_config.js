@@ -1,1 +1,1 @@
-var mnemonic = "habit drama gym video course custom gap write slender aisle define wash";
+var mnemonic = "acquire hero benefit luxury siren speak share swift hint rural front sting";

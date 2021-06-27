@@ -1,1 +1,1 @@
-var mnemonic = "segment repair mechanic old link window abstract cash acquire oppose blind good";
+var mnemonic = "law before output toy april aware tourist private unveil glimpse deny adapt";

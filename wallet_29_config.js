@@ -1,1 +1,1 @@
-var mnemonic = "approve crystal salon device spatial relax jeans damage fall final idea one";
+var mnemonic = "bonus like frozen secret reopen federal summer initial announce sorry reflect dilemma";

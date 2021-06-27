@@ -1,1 +1,1 @@
-var mnemonic = "false art upgrade pipe crush nest school flee patrol virus risk allow";
+var mnemonic = "siege caution history document peace vehicle camp biology copper educate notice usual";

@@ -1,1 +1,1 @@
-var mnemonic = "jealous time car genius ostrich rhythm write child add cube stand nice";
+var mnemonic = "meadow divert review side hour miss chair romance palm idle topic wrestle";

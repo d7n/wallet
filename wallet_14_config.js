@@ -1,1 +1,1 @@
-var mnemonic = "divorce until run huge vault excuse explain dismiss hood holiday crunch edit";
+var mnemonic = "mercy lava dilemma win caught bean kiwi razor frown draw sister reform";

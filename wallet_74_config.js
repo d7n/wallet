@@ -1,1 +1,1 @@
-var mnemonic = "magic van dumb multiply garbage taxi awesome audit find shoulder bunker fade";
+var mnemonic = "foster saddle boat dragon bullet artist medal unknown say funny taxi ranch";

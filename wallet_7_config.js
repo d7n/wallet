@@ -1,1 +1,1 @@
-var mnemonic = "galaxy medal code milk vote treat hurt lobster atom pill energy ugly";
+var mnemonic = "flash describe energy sea off absurd horn more grace violin cactus cart";

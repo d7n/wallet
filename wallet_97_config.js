@@ -1,1 +1,1 @@
-var mnemonic = "limb champion lobster special nephew idle item nice rigid rebel side rough";
+var mnemonic = "child deer door theory lunch drama early steel side govern arm prefer";

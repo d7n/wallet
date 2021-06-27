@@ -1,1 +1,1 @@
-var mnemonic = "turtle taste aunt hockey physical siren science meat protect patrol path elephant";
+var mnemonic = "flush drastic sunny liberty benefit humble major pumpkin wire member electric uphold";

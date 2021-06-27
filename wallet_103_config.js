@@ -1,1 +1,1 @@
-var mnemonic = "salad size badge assist envelope outdoor oil truck reveal drive junior conduct";
+var mnemonic = "maple toss assume chat equip diet aspect need wage upon fee shed";

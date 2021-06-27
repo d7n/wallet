@@ -1,1 +1,1 @@
-var mnemonic = "sheriff crew keen vocal rebuild body industry moral spread shallow cement decide";
+var mnemonic = "deliver glass gospel jungle stable diagram rely come attack special wash robot";

@@ -1,1 +1,1 @@
-var mnemonic = "produce old barrel soul glass frog chapter unhappy emotion material allow expose";
+var mnemonic = "stomach trial upgrade gospel ramp exclude foot town wing purse profit infant";

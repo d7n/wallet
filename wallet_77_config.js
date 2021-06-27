@@ -1,1 +1,1 @@
-var mnemonic = "trash useless pelican equip glare robot myself citizen wheat rare wash discover";
+var mnemonic = "barely daughter illness honey despair penalty mercy online garden enhance entire six";

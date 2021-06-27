@@ -1,1 +1,1 @@
-var mnemonic = "category finger imitate odor hospital squirrel govern copper artist vacant party valid";
+var mnemonic = "dignity hour east sibling long head bid silk start wall wolf math";

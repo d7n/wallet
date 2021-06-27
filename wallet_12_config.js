@@ -1,1 +1,1 @@
-var mnemonic = "evil potato play siege ridge badge wide glad news choice buzz talk";
+var mnemonic = "sport swallow real easily hover act box rural air valve powder kit";

@@ -1,1 +1,1 @@
-var mnemonic = "belt trip between anchor grain check salmon size sand absurd dynamic oil";
+var mnemonic = "liquid apology remain piece upgrade million focus net kitchen practice olympic purchase";

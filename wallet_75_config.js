@@ -1,1 +1,1 @@
-var mnemonic = "shop search glow document movie enable squeeze lady fee analyst notice sight";
+var mnemonic = "hub truck grass once medal ramp awful fury creek tornado inmate raw";

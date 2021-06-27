@@ -1,1 +1,1 @@
-var mnemonic = "short syrup shuffle must pipe vapor spray side hospital chalk disease one";
+var mnemonic = "expose average gravity deposit powder camera tenant antenna tank sorry imitate spawn";

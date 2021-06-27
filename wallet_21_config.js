@@ -1,1 +1,1 @@
-var mnemonic = "grief purpose update bachelor journey split crush cattle pledge sausage hockey tape";
+var mnemonic = "grunt forward moral surround menu quarter cricket trumpet jealous hope output bomb";

@@ -1,1 +1,1 @@
-var mnemonic = "side whale trap hunt balance melody health path pole fan observe ensure";
+var mnemonic = "nerve true page hold hub bleak scheme exclude neck promote runway alley";

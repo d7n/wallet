@@ -1,1 +1,1 @@
-var mnemonic = "moon cause task deal situate jealous problem know inject disagree owner current";
+var mnemonic = "frog space ghost gaze level clinic long jazz guess fiscal again fortune";

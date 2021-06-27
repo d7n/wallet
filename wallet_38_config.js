@@ -1,1 +1,1 @@
-var mnemonic = "firm body arm vessel private van maple caution miss burden service despair";
+var mnemonic = "corn strategy math glory first february edge limb young bridge boost gallery";

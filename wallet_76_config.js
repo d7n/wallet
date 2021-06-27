@@ -1,1 +1,1 @@
-var mnemonic = "dwarf shield tattoo crazy about craft recall gather churn scheme grid pretty";
+var mnemonic = "forget pretty expire rare adjust awesome exile cabbage luxury flower cute smooth";
