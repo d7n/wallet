@@ -1,1 +1,1 @@
-var mnemonic = "genius world blade sing morning merge virus gospel bachelor chef moon bind";
+var mnemonic = "slam tree rally spin hood uphold alone alcohol holiday summer crack snow";

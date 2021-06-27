@@ -1,1 +1,1 @@
-var mnemonic = "bleak kingdom kitten yard month increase famous spin jelly jump risk excuse";
+var mnemonic = "enact other vacuum nature predict remember visa record cube danger team random";

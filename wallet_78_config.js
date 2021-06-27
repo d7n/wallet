@@ -1,1 +1,1 @@
-var mnemonic = "nuclear sorry trim client cherry monster differ snow video effort violin father";
+var mnemonic = "friend shadow key athlete suggest embrace flee room report volcano play bomb";

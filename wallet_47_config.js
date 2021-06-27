@@ -1,1 +1,1 @@
-var mnemonic = "kind popular nation jeans neutral expect wild digital cover cluster stamp measure";
+var mnemonic = "antique alarm group old jungle uniform custom recipe movie carpet slow video";

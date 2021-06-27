@@ -1,1 +1,1 @@
-var mnemonic = "congress general great smoke brush census arrest claw alone earth arrow tragic";
+var mnemonic = "fatigue firm riot idea open stable cactus amazing morning usual just gentle";

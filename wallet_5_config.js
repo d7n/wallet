@@ -1,1 +1,1 @@
-var mnemonic = "zebra during veteran will coral bachelor orient arrange dose idea humble text";
+var mnemonic = "rent finish round small size smile any offer comic original jeans poverty";

@@ -1,1 +1,1 @@
-var mnemonic = "noise seek ugly leader potato gentle happy habit siege wrong sketch diagram";
+var mnemonic = "parrot solve script place ocean diagram venture slot sausage wire ethics coast";

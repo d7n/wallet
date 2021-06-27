@@ -1,1 +1,1 @@
-var mnemonic = "material woman able pause company wage amateur resist system skirt tomorrow case";
+var mnemonic = "rural million helmet hold symbol denial exit seek chaos gain lion travel";

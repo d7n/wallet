@@ -1,1 +1,1 @@
-var mnemonic = "scan drop student abstract dirt sort furnace list envelope kingdom air wheel";
+var mnemonic = "hill perfect buddy game viable next prize magnet fuel prepare drive gym";

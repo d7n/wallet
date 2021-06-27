@@ -1,1 +1,1 @@
-var mnemonic = "diet avocado kingdom orient someone month forget letter impulse disease dish indicate";
+var mnemonic = "modify panda expect aunt scheme legal save share disease tissue develop filter";

@@ -1,1 +1,1 @@
-var mnemonic = "visit burden beach burst reopen animal explain usage dignity charge marine capital";
+var mnemonic = "bean lady crucial then faith box invite chimney love around invite slush";

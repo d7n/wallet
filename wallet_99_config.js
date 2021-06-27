@@ -1,1 +1,1 @@
-var mnemonic = "casino another genre magnet blast pause bracket ball author advance obscure pill";
+var mnemonic = "actress print south shrug unable wink boat flee switch grocery immense spoon";

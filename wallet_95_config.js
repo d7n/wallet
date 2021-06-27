@@ -1,1 +1,1 @@
-var mnemonic = "vintage charge slam magic motor glass spot unlock still tragic license predict";
+var mnemonic = "bag daughter pond staff comic image mimic school isolate slab alter claw";

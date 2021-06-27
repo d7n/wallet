@@ -1,1 +1,1 @@
-var mnemonic = "cheese theme chief soft list trouble skin ginger train uphold fury thank";
+var mnemonic = "hollow yard orange assist exercise kidney response feature siege sight absurd camp";

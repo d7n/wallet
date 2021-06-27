@@ -1,1 +1,1 @@
-var mnemonic = "transfer cruel ecology rug buddy novel index pause helmet wood cactus dilemma";
+var mnemonic = "swamp desk decline team recipe cruise tomato meat key identify alert weasel";

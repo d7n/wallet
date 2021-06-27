@@ -1,1 +1,1 @@
-var mnemonic = "betray elite plunge favorite raven utility damage fantasy entire six spray ozone";
+var mnemonic = "grape clown chat afraid slogan carpet patrol retire green tag leader loyal";

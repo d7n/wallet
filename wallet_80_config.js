@@ -1,1 +1,1 @@
-var mnemonic = "fury glue oil scorpion either kitchen drift gun castle scissors pool across";
+var mnemonic = "scan orbit hobby there hood anxiety race vast excuse apart dance code";

@@ -1,1 +1,1 @@
-var mnemonic = "expire canoe volume zone above approve waste tower noise humor assist tonight";
+var mnemonic = "cheese maze affair morning area entry walnut trial keen test park lucky";

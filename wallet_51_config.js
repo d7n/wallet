@@ -1,1 +1,1 @@
-var mnemonic = "brand cancel vendor absorb reflect resemble opinion opinion step estate machine caution";
+var mnemonic = "admit curious predict detect vague plate harvest angle panic place grape guitar";

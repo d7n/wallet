@@ -1,1 +1,1 @@
-var mnemonic = "october cloud bomb track wagon force fashion capital borrow rent depart olympic";
+var mnemonic = "accident penalty oppose network table arrow announce eyebrow direct device wine coil";

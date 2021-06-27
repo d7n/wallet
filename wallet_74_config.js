@@ -1,1 +1,1 @@
-var mnemonic = "monitor style soft either multiply coconut tunnel balance toast salute ghost guide";
+var mnemonic = "miracle drive learn stadium current garlic online rich cost calm cement weather";

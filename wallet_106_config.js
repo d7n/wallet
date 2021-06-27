@@ -1,1 +1,1 @@
-var mnemonic = "strong alarm pulse aerobic night detail another soon fault boy awkward library";
+var mnemonic = "bench dream artist over absent lottery urge chalk follow govern glare room";

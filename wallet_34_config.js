@@ -1,1 +1,1 @@
-var mnemonic = "farm book dismiss forum hurdle length comfort false weekend lens tag metal";
+var mnemonic = "eternal skate pass search song banner rhythm have crash danger fetch cement";

@@ -1,1 +1,1 @@
-var mnemonic = "garbage design icon scorpion margin gym element jewel project pear supreme judge";
+var mnemonic = "error tennis race air spawn venture kitten joke ring search renew hope";

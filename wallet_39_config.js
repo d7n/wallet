@@ -1,1 +1,1 @@
-var mnemonic = "oil length business fence country dirt mistake trend common away style broken";
+var mnemonic = "gallery gravity super treat chuckle size bargain engage search goose way brass";

@@ -1,1 +1,1 @@
-var mnemonic = "silly robot buffalo reform extra when leader galaxy tell luxury idle valid";
+var mnemonic = "vessel hire fashion output undo blouse split puzzle pledge silver around banana";

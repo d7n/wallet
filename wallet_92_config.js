@@ -1,1 +1,1 @@
-var mnemonic = "half another foster rule clever exhibit distance deputy repeat wait artefact other";
+var mnemonic = "coffee fiction bullet pear tissue around quit orient ill example style burden";

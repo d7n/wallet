@@ -1,1 +1,1 @@
-var mnemonic = "beach myself brass motor help expect night laptop mule comic quick monkey";
+var mnemonic = "long love garden safe swap invest obey canvas toddler believe clay toy";

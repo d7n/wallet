@@ -1,1 +1,1 @@
-var mnemonic = "sell timber rocket trend armor table grab glove step talk carpet file";
+var mnemonic = "assume acoustic dad much crawl polar season vehicle mesh peace luggage bread";

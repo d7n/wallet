@@ -1,1 +1,1 @@
-var mnemonic = "gas erode despair grocery amount cost spider assume mobile ten hope dance";
+var mnemonic = "shine identify idle shield toddler carry include deposit quit replace license remove";

@@ -1,1 +1,1 @@
-var mnemonic = "erode egg trap cost degree merit motion slogan faint recycle cricket topic";
+var mnemonic = "system normal machine jump raven welcome screen fit ask renew wrap roast";

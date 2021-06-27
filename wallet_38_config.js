@@ -1,1 +1,1 @@
-var mnemonic = "pride sense uncle ostrich cushion swap example bring bid chuckle flame reason";
+var mnemonic = "absorb industry weekend exercise dust corn enforce window tell timber diamond sponsor";

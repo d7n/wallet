@@ -1,1 +1,1 @@
-var mnemonic = "question express green few concert pulse have liberty song tank slender predict";
+var mnemonic = "other way six industry must unfold page duty kiss plastic material truly";

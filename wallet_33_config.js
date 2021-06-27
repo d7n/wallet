@@ -1,1 +1,1 @@
-var mnemonic = "total treat math tooth pulse tiger immense december glance wide again weapon";
+var mnemonic = "faculty enrich exit unable siege pepper orange vintage limit arena provide unable";

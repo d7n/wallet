@@ -1,1 +1,1 @@
-var mnemonic = "weekend floor invest fee soldier bachelor glove narrow deposit setup vapor giant";
+var mnemonic = "brass olive wire height hero chunk remember access bamboo web alter section";

@@ -1,1 +1,1 @@
-var mnemonic = "divorce crunch cabin banana cram atom step flag jelly you engine prepare";
+var mnemonic = "quick clever elite blouse bracket mirror economy stumble mean expose proof episode";

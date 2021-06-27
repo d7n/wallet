@@ -1,1 +1,1 @@
-var mnemonic = "april foster joy olive foam canvas armor ramp option noble inch drive";
+var mnemonic = "soul apple device exist crouch define vault reflect leader firm spirit ticket";

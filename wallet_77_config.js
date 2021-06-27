@@ -1,1 +1,1 @@
-var mnemonic = "penalty race debris key burger ghost mix appear order few plunge acid";
+var mnemonic = "quantum rookie canvas peasant floor term increase absorb whisper mix book mix";

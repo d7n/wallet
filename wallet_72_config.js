@@ -1,1 +1,1 @@
-var mnemonic = "turkey seven ski burst trip imitate fly chaos response donate lesson carpet";
+var mnemonic = "night donkey cloud sort gravity aunt someone secret rib swear waste know";

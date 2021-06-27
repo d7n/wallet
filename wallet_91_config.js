@@ -1,1 +1,1 @@
-var mnemonic = "chef amateur nut display busy jacket equal mention episode sudden crazy ecology";
+var mnemonic = "extra vicious business hip round toss scare runway use fit toast paper";

@@ -1,1 +1,1 @@
-var mnemonic = "recycle wage miracle loyal tornado shift vote faint broccoli twist property learn";
+var mnemonic = "taste salute creek attitude title cinnamon abandon dad remember address typical credit";

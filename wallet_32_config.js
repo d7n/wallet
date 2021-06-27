@@ -1,1 +1,1 @@
-var mnemonic = "have jealous ask place smoke doll result yard vital hotel alcohol van";
+var mnemonic = "tip remove version width fitness mention fluid zone obvious tilt disease much";

@@ -1,1 +1,1 @@
-var mnemonic = "often mass valve holiday pioneer index burst sun voyage tree much drama";
+var mnemonic = "supreme win excess rug below rely local shift post pave hero divorce";

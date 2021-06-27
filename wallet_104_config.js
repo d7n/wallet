@@ -1,1 +1,1 @@
-var mnemonic = "fiscal joke baby faint unknown solid oyster museum begin enhance mean fame";
+var mnemonic = "trial shift rabbit canoe awake pencil crush heavy near process room inmate";

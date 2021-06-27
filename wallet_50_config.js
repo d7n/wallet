@@ -1,1 +1,1 @@
-var mnemonic = "flower cactus tumble gorilla arch wedding ring kit pattern welcome humble bridge";
+var mnemonic = "comfort shuffle salt stone flower guitar small veteran conduct build pistol solve";

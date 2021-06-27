@@ -1,1 +1,1 @@
-var mnemonic = "merge fury faint brick drink turtle inform spread ugly ignore latin piece";
+var mnemonic = "annual bunker length task donate employ clay spike bone muffin peace obey";

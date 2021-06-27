@@ -1,1 +1,1 @@
-var mnemonic = "excite repeat demand swing film link include royal unaware buyer pull velvet";
+var mnemonic = "hat ten bulb embrace reopen glove decrease blast denial obey hole spatial";

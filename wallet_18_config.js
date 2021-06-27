@@ -1,1 +1,1 @@
-var mnemonic = "post pond process jewel couch punch artist seven flat ridge sweet upgrade";
+var mnemonic = "enable shrug hurry emotion plug kind mandate barely private muffin only autumn";

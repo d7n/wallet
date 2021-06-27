@@ -1,1 +1,1 @@
-var mnemonic = "decide team sign pioneer exhaust harsh scrub usual submit cry equal glance";
+var mnemonic = "bitter harbor prison fence little height enlist draw turn shoulder outer animal";

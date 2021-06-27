@@ -1,1 +1,1 @@
-var mnemonic = "tragic cool correct inside intact become sick describe volume involve boss lion";
+var mnemonic = "clog purpose guess crane shrimp guide guilt choose bargain correct pluck click";

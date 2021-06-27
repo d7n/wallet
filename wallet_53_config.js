@@ -1,1 +1,1 @@
-var mnemonic = "debris patrol divide cart accuse grass shoulder talent doctor initial atom rude";
+var mnemonic = "chuckle vanish video escape hope man attend man current close share brush";

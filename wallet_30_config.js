@@ -1,1 +1,1 @@
-var mnemonic = "cousin mom humor stand crater surround example space traffic napkin ankle chair";
+var mnemonic = "swarm peace unable pet mercy protect help inspire rug click betray museum";

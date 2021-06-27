@@ -1,1 +1,1 @@
-var mnemonic = "danger twist false stamp author nephew what ginger random gallery science knee";
+var mnemonic = "woman aspect farm tag unknown armed grape tail double debris monitor atom";

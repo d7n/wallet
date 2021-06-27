@@ -1,1 +1,1 @@
-var mnemonic = "next february grunt rice ancient print valve allow they setup memory fly";
+var mnemonic = "february pumpkin into prize twice shop human book lobster arrest letter improve";

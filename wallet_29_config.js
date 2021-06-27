@@ -1,1 +1,1 @@
-var mnemonic = "marine wedding clean still nation stumble polar piano breeze alley fox spy";
+var mnemonic = "case negative diamond brief picnic design educate smart bid lady cancel skull";

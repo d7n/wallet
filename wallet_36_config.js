@@ -1,1 +1,1 @@
-var mnemonic = "repeat wide better stool weird coach salmon another example decorate sudden month";
+var mnemonic = "push rifle tonight sentence sketch peasant home tone silly choose spice catch";

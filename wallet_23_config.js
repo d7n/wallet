@@ -1,1 +1,1 @@
-var mnemonic = "whale describe fix claw focus ugly gift domain setup market purse vacuum";
+var mnemonic = "either weapon panic accuse improve gap purity hill capable shiver need boss";

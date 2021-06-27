@@ -1,1 +1,1 @@
-var mnemonic = "sea endless dry urban attend style risk mixture frost egg burger book";
+var mnemonic = "life describe wealth sibling present boil churn film rule buzz puzzle print";

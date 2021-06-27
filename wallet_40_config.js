@@ -1,1 +1,1 @@
-var mnemonic = "ensure remember almost frame traffic error salt sound bitter medal fame brown";
+var mnemonic = "return actress orphan betray stadium hockey spot outer next sell broken depth";

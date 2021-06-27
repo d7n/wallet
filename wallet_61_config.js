@@ -1,1 +1,1 @@
-var mnemonic = "giggle omit tortoise west foil dish hello wink usage skate code senior";
+var mnemonic = "lawn orphan ill scorpion delay lamp asset timber fantasy phrase tomato camp";

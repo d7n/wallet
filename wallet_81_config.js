@@ -1,1 +1,1 @@
-var mnemonic = "skate ribbon guilt jeans assault same lens glad skin always tool express";
+var mnemonic = "chuckle extend main index apple train dizzy misery ski neck industry venture";

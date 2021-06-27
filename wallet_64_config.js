@@ -1,1 +1,1 @@
-var mnemonic = "focus wisdom normal universe engine hotel elder grid sweet vicious crack anchor";
+var mnemonic = "fashion galaxy thumb coffee draft fit marriage ugly fitness sort assault drive";

@@ -1,1 +1,1 @@
-var mnemonic = "element cover shock mandate expose shiver tell mouse awesome illegal prize exotic";
+var mnemonic = "lion grass diet column clown resource sister blue list area picture game";

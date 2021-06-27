@@ -1,1 +1,1 @@
-var mnemonic = "empower melt fruit supreme vital prize common labor people fall tag canvas";
+var mnemonic = "shrimp gaze zero wear remember absorb midnight game fragile front jewel direct";

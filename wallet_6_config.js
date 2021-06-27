@@ -1,1 +1,1 @@
-var mnemonic = "copper front exist pull hip speak that lock year hazard search leopard";
+var mnemonic = "inspire cricket assault stone stool tobacco mushroom uncover jazz able ticket awkward";

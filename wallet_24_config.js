@@ -1,1 +1,1 @@
-var mnemonic = "office random crane excess father escape scorpion angle prefer orient embark capable";
+var mnemonic = "light pledge blast vacuum check shoe method drive autumn cattle smooth jealous";

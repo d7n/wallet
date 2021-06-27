@@ -1,1 +1,1 @@
-var mnemonic = "spawn guess tail gift riot conduct board actor human virtual glow awake";
+var mnemonic = "fall vivid lumber gaze fee song unit salad vacant spirit puzzle labor";

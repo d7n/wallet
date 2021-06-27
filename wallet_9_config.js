@@ -1,1 +1,1 @@
-var mnemonic = "journey next rigid produce lesson tube one leaf doll wrong among about";
+var mnemonic = "session slogan depth crucial spell warm river fence sock noodle vague actress";

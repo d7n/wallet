@@ -1,1 +1,1 @@
-var mnemonic = "universe chase armed great shy spike orange demand fade wolf chapter mad";
+var mnemonic = "define arctic puzzle tunnel crawl eagle firm minor syrup jealous science suggest";

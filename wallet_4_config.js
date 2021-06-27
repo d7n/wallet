@@ -1,1 +1,1 @@
-var mnemonic = "fatigue quantum nasty into pioneer supply hamster sing setup surge cannon mad";
+var mnemonic = "author pact dad hurt negative quote step loan tomorrow civil finish island";

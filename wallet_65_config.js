@@ -1,1 +1,1 @@
-var mnemonic = "harbor pony air best layer message garbage release such into acquire decrease";
+var mnemonic = "cat glow gospel tribe mouse cupboard search ramp sad crystal first claim";

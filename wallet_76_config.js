@@ -1,1 +1,1 @@
-var mnemonic = "miss will drink error neither toward machine gun valid snap screen turkey";
+var mnemonic = "kind scissors plug face wage deer orbit short climb yellow mule nephew";

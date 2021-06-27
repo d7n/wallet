@@ -1,1 +1,1 @@
-var mnemonic = "above inform danger round memory tired grass fun review virus thing cruise";
+var mnemonic = "penalty brass miracle october luxury phone high warm inner sing corn era";

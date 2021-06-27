@@ -1,1 +1,1 @@
-var mnemonic = "space glue medal ring amazing often frost cliff choose palm parent weather";
+var mnemonic = "pair viable blue certain reform phrase silk bread shoot slow achieve art";

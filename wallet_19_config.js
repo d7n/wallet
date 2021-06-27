@@ -1,1 +1,1 @@
-var mnemonic = "offer festival giggle you dutch tourist slight glance slam divert drop carpet";
+var mnemonic = "taste option hurry south item unknown flight notice talk absurd lawn distance";

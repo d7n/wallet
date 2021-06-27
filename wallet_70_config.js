@@ -1,1 +1,1 @@
-var mnemonic = "display raven vague coach script nut skin bounce debate jelly eye muffin";
+var mnemonic = "roof equip fog flash aisle attract same elbow pumpkin shiver embody move";

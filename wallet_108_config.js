@@ -1,1 +1,1 @@
-var mnemonic = "wish pony world effort cement spawn winter road hollow private color avocado";
+var mnemonic = "bulb leaf shrug hungry vacuum flip state cotton whale meadow aerobic screen";

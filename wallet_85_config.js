@@ -1,1 +1,1 @@
-var mnemonic = "sentence impulse toddler mixed wide engage tiny soup gorilla rigid cushion brown";
+var mnemonic = "kiwi vague salmon prize tooth sample farm announce dish flight armor motion";

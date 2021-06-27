@@ -1,1 +1,1 @@
-var mnemonic = "apple black fine rhythm elite absurd swift pigeon magic treat account certain";
+var mnemonic = "chunk grid bicycle panel misery whisper already assume cool nut crime emerge";

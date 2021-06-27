@@ -1,1 +1,1 @@
-var mnemonic = "lounge steel cream goose squirrel canyon tiger cause immune odor wrist liar";
+var mnemonic = "liquid maze armor repeat sauce spawn enable under slight taste shed snake";

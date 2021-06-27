@@ -1,1 +1,1 @@
-var mnemonic = "summer party account term arrest because build federal idle else shift rain";
+var mnemonic = "welcome benefit sight stomach require entry crisp yellow slender cram bring mercy";

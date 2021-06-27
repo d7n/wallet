@@ -1,1 +1,1 @@
-var mnemonic = "soul network squeeze more punch family already soldier raccoon capital eye demand";
+var mnemonic = "inflict style neck warm icon illness envelope cream speed swim lab evoke";

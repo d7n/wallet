@@ -1,1 +1,1 @@
-var mnemonic = "base left magnet gold legal verify avocado spoil empower finger derive blossom";
+var mnemonic = "melody spy absorb priority suggest unique wrong increase talent spy now protect";
