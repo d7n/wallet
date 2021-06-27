@@ -1,1 +1,1 @@
-var mnemonic = "range era border clown seat funny remind tone horror slender grid goddess";
+var mnemonic = "cave crisp cargo knock offer sudden beach major lounge bomb cannon water";

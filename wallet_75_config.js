@@ -1,1 +1,1 @@
-var mnemonic = "equal vault frozen employ save rapid spend wave desert flash rack claw";
+var mnemonic = "glare orient chunk donate purse clinic chair pull also finger alarm word";

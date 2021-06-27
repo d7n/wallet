@@ -1,1 +1,1 @@
-var mnemonic = "laugh spray ginger chimney claim avoid race clap trap salmon leaf someone";
+var mnemonic = "lion apple error hospital rally salute banana kit reform physical glide motion";

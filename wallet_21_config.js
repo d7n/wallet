@@ -1,1 +1,1 @@
-var mnemonic = "vivid delay almost city olympic math distance account genuine general banner february";
+var mnemonic = "diagram crash vintage harbor image strong clever captain join badge chunk word";

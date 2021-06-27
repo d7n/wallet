@@ -1,1 +1,1 @@
-var mnemonic = "rookie six anchor ready move bonus divert ketchup gift focus ocean pretty";
+var mnemonic = "library hollow card bachelor amount visual child bottom mercy kiss tray crawl";

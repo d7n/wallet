@@ -1,1 +1,1 @@
-var mnemonic = "oyster artist usual rebuild license repair affair unlock trial panic guilt harvest";
+var mnemonic = "dinosaur candy primary evoke curtain arrow until random fit snack pudding file";

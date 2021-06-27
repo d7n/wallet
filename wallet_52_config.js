@@ -1,1 +1,1 @@
-var mnemonic = "praise main detail tunnel trick tooth else accident when erosion peace kit";
+var mnemonic = "alone useful swallow luxury drink brand rack tissue truly trophy dignity face";

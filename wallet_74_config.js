@@ -1,1 +1,1 @@
-var mnemonic = "debate elephant float winner bread basic found boil guard car habit jeans";
+var mnemonic = "duck game party defy hen water annual spell lend best couch embody";

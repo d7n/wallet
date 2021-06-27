@@ -1,1 +1,1 @@
-var mnemonic = "dance exhibit practice sock find imitate change announce good smile solar reject";
+var mnemonic = "universe screen world skirt ready portion choose claw provide trial behave belt";

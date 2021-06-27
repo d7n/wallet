@@ -1,1 +1,1 @@
-var mnemonic = "print recall finger frequent toss cradle enrich siege rebel isolate review above";
+var mnemonic = "very glue obvious reveal raise siren cup cluster mango easily drum practice";

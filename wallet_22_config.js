@@ -1,1 +1,1 @@
-var mnemonic = "wide sunny focus media endorse stable lab spawn grant unit crawl answer";
+var mnemonic = "mesh you husband human steel away episode man often deliver leopard snack";

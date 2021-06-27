@@ -1,1 +1,1 @@
-var mnemonic = "icon unfold super color gorilla glory pear wool believe pretty ancient runway";
+var mnemonic = "pave panda embark loyal pepper address month truth unable busy mouse table";

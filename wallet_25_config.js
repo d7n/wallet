@@ -1,1 +1,1 @@
-var mnemonic = "curious start mention walnut combine curious claim dawn kidney pen price job";
+var mnemonic = "enough battle infant tennis churn spice upgrade ugly pause hidden little story";

@@ -1,1 +1,1 @@
-var mnemonic = "spare green economy best provide inflict prefer oyster turkey ceiling diamond raise";
+var mnemonic = "welcome behind wasp broccoli invite kiss giraffe waste reward patient color purity";

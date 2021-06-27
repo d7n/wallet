@@ -1,1 +1,1 @@
-var mnemonic = "know web green elephant cherry display champion reject tongue gentle rely involve";
+var mnemonic = "brother razor exhaust melody damp hover brisk north cake major van move";

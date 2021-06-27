@@ -1,1 +1,1 @@
-var mnemonic = "flower nest piano video long enact miss scheme rally april broken capable";
+var mnemonic = "token boil corn digital sell cannon potato will mistake deliver wing dog";

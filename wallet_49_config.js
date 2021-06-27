@@ -1,1 +1,1 @@
-var mnemonic = "case between garage elder zebra middle warrior ostrich betray trade vehicle emotion";
+var mnemonic = "kidney brush shrug talent slogan chief library major light stool section sustain";

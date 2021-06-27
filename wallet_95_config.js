@@ -1,1 +1,1 @@
-var mnemonic = "guitar employ february venue record ocean clown birth remember stamp patrol olive";
+var mnemonic = "hidden twenty must summer squeeze pistol shell element food make opera damage";

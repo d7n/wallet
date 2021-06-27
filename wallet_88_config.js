@@ -1,1 +1,1 @@
-var mnemonic = "decorate either dawn future want hawk reduce fiction firm seed clever other";
+var mnemonic = "exercise lottery virtual huge smoke diesel connect torch uniform abandon copy purpose";

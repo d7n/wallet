@@ -1,1 +1,1 @@
-var mnemonic = "december lazy shiver promote enhance pull enrich have float memory act record";
+var mnemonic = "tunnel gauge liquid hope dose edit because hockey captain buddy achieve rack";

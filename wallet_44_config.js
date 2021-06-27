@@ -1,1 +1,1 @@
-var mnemonic = "stuff limb obscure table use fiber sadness alarm curve use army wreck";
+var mnemonic = "carry napkin walnut fancy target year twenty benefit random flavor access valve";

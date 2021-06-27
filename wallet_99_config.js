@@ -1,1 +1,1 @@
-var mnemonic = "edit wrist civil collect mansion asthma device ensure husband square mouse describe";
+var mnemonic = "neutral mouse tape depart predict stage type upset forget shift require army";

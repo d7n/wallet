@@ -1,1 +1,1 @@
-var mnemonic = "struggle year real february issue glue giggle rain movie frost venue shock";
+var mnemonic = "zero farm any faint ignore unveil accuse symptom sphere since electric example";

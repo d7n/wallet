@@ -1,1 +1,1 @@
-var mnemonic = "grocery identify uniform odor stem foot nut soap naive metal artefact pigeon";
+var mnemonic = "toy image bag this stadium village noble wish summer case reunion burden";

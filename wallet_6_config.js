@@ -1,1 +1,1 @@
-var mnemonic = "dust camp toe salmon loop library shoe stool very differ eyebrow floor";
+var mnemonic = "supreme accident brick injury review grid panther dance hurry recycle call mixture";

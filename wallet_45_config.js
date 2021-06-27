@@ -1,1 +1,1 @@
-var mnemonic = "globe govern utility arctic exercise total coil total mandate rookie affair change";
+var mnemonic = "exchange used code strong mouse solve festival daughter whip huge size ugly";

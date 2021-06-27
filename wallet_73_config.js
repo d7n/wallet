@@ -1,1 +1,1 @@
-var mnemonic = "cotton february bomb crop fade hundred girl hover palace inspire ten vital";
+var mnemonic = "rebel grit gift column spray world cake anxiety kitchen dismiss table resemble";

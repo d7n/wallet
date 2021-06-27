@@ -1,1 +1,1 @@
-var mnemonic = "limit then stool afford craft fox cream oak stove civil habit dad";
+var mnemonic = "this year match detect stairs engine canal walk reveal cheese rule hamster";

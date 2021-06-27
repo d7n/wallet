@@ -1,1 +1,1 @@
-var mnemonic = "label ring kangaroo jacket remember similar resemble aspect face steel combine topic";
+var mnemonic = "alarm exotic price trophy bunker situate dentist vanish lonely seat casual zebra";

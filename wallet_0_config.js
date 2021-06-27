@@ -1,1 +1,1 @@
-var mnemonic = "guilt exotic wash project lady shrug advice oval castle limit canoe dragon";
+var mnemonic = "pudding escape kitten degree quality fetch cruise gaze thank exact vague valley";

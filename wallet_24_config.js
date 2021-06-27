@@ -1,1 +1,1 @@
-var mnemonic = "omit brain health guide actress decline leaf stem guide lesson knee network";
+var mnemonic = "tornado input net salute flip desk dove certain cricket topic laundry pet";

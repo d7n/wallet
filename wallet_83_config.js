@@ -1,1 +1,1 @@
-var mnemonic = "mad monster nest undo kite summer pitch frequent country puppy jelly celery";
+var mnemonic = "science butter arrow business elegant plate doctor require inject velvet unfold tackle";

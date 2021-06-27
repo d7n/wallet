@@ -1,1 +1,1 @@
-var mnemonic = "loud refuse picnic maximum party equal notice case credit equip awake course";
+var mnemonic = "gauge harbor asthma swap warfare myself front gossip merry wrong clock split";

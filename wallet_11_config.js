@@ -1,1 +1,1 @@
-var mnemonic = "vibrant jungle wall resist market inner illegal margin busy roof thank identify";
+var mnemonic = "coin mind infant tube dust mixture marine dose praise destroy hawk scout";

@@ -1,1 +1,1 @@
-var mnemonic = "engine require crater pumpkin boring verb action ceiling finger attack ill lunar";
+var mnemonic = "illegal earth busy armed concert salute wagon cream drama girl direct hobby";

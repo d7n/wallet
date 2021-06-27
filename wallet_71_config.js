@@ -1,1 +1,1 @@
-var mnemonic = "tongue proud net banana escape silk action chalk catalog lamp drum mixture";
+var mnemonic = "inspire horn love firm because reward indicate annual chalk focus myth sort";

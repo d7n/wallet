@@ -1,1 +1,1 @@
-var mnemonic = "have hurt timber similar unable car vapor auto crucial grunt neglect spare";
+var mnemonic = "memory border impulse bulk symbol maple bitter exotic blossom abandon plug rib";

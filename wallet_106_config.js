@@ -1,1 +1,1 @@
-var mnemonic = "dutch action fun aunt token myth property waste glove prize main name";
+var mnemonic = "sweet fitness use payment owner call rebel fee have brother twenty pelican";

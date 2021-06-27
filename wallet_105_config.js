@@ -1,1 +1,1 @@
-var mnemonic = "hero boil humble upon tone token human lift bring this shell upgrade";
+var mnemonic = "bridge young gift tomorrow size camera price rebuild ancient prison beyond actress";

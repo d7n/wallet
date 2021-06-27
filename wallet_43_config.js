@@ -1,1 +1,1 @@
-var mnemonic = "soon poem journey gossip grit dilemma child rubber wolf gorilla cereal shoot";
+var mnemonic = "dance someone arena better film deer thank puppy virtual zone air tired";

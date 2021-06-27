@@ -1,1 +1,1 @@
-var mnemonic = "invest there tiny dynamic chronic gown hedgehog glad south remind trial choose";
+var mnemonic = "rotate disagree eternal south fiber thumb buyer glory exotic buddy electric minute";

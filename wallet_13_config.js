@@ -1,1 +1,1 @@
-var mnemonic = "educate sniff green tray weird insane join reform clarify train timber melt";
+var mnemonic = "south noodle devote pyramid phrase abstract nominee sweet recipe actor mind floor";

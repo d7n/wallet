@@ -1,1 +1,1 @@
-var mnemonic = "write exit zero shiver half coyote advance shove glory video adult state";
+var mnemonic = "sunset payment surface boost evil seed attack change symbol danger buyer during";

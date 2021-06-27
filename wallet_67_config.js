@@ -1,1 +1,1 @@
-var mnemonic = "group gadget stairs alter wild country dish nothing drift silent width behind";
+var mnemonic = "flag fitness milk radar fault hockey ball summer oil busy strategy share";

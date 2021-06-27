@@ -1,1 +1,1 @@
-var mnemonic = "address fruit cycle mass during grow excuse parrot federal erupt cupboard web";
+var mnemonic = "lemon ball tiny wedding story clinic pig smoke panel mail subject april";

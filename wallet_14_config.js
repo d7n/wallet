@@ -1,1 +1,1 @@
-var mnemonic = "renew rigid round news dove enjoy blush friend caution wait slice conduct";
+var mnemonic = "ahead dynamic property attitude cabbage angry wild shuffle reject hollow wage peace";

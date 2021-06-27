@@ -1,1 +1,1 @@
-var mnemonic = "matter timber breeze extend oxygen solar retreat execute debris promote canvas ribbon";
+var mnemonic = "seek fold traffic lawn section mind slogan biology gather erosion faith cheap";

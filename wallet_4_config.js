@@ -1,1 +1,1 @@
-var mnemonic = "real throw earth despair silk spawn month hurdle cash next delay holiday";
+var mnemonic = "junk fault area alcohol car where arrange setup pig harbor neither mountain";

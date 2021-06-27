@@ -1,1 +1,1 @@
-var mnemonic = "topic favorite casino nut undo ozone clerk vacant sure inner era uphold";
+var mnemonic = "raven vote round staff local shine casual various admit price series large";

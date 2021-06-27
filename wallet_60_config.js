@@ -1,1 +1,1 @@
-var mnemonic = "oven ability million medal glad pioneer object addict hen valid person victory";
+var mnemonic = "daughter globe vacuum adult sample debris plug collect stock angle wreck cabin";

@@ -1,1 +1,1 @@
-var mnemonic = "invite minor weird blur wink drama transfer fall embrace clay police cabbage";
+var mnemonic = "arm wreck home near slot exchange mention bulb ski deny popular nut";

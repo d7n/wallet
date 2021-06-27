@@ -1,1 +1,1 @@
-var mnemonic = "now pet awful such any spike coffee gorilla praise bus void extra";
+var mnemonic = "modify allow word flock wool razor yellow page focus boat increase bread";

@@ -1,1 +1,1 @@
-var mnemonic = "capable pencil shine off hidden canyon boil entry skin armor power spell";
+var mnemonic = "share section toe apple slice parade calm dry warm melt trend camp";

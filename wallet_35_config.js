@@ -1,1 +1,1 @@
-var mnemonic = "laundry today total tip anxiety tribe truly all guess banner burst group";
+var mnemonic = "tiny disorder husband action light voyage slab axis inflict level remind artist";

@@ -1,1 +1,1 @@
-var mnemonic = "cancel muscle birth will sentence blood strategy enjoy device execute rather purse";
+var mnemonic = "pulp tennis obey art problem volcano club quality first purity design gun";

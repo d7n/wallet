@@ -1,1 +1,1 @@
-var mnemonic = "vintage street rain tomato sadness feel tongue practice fiction float mountain fancy";
+var mnemonic = "awful stock arrive fish ozone music brick reduce announce leisure olive unique";

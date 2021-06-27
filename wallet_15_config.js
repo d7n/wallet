@@ -1,1 +1,1 @@
-var mnemonic = "stuff drastic fall party bright frame liquid wrap creek cheap ill emerge";
+var mnemonic = "baby title track knife annual breeze click hospital edit robust dice govern";

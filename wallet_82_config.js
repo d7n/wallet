@@ -1,1 +1,1 @@
-var mnemonic = "another curious pulp dad corn food token glad helmet elite snap danger";
+var mnemonic = "relief allow step foam core squeeze basket blast detail help green volcano";

@@ -1,1 +1,1 @@
-var mnemonic = "stand cruel bounce print excite spider save galaxy zebra rookie pig frozen";
+var mnemonic = "crouch silk box pill business orient early hen fine column stamp above";

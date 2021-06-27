@@ -1,1 +1,1 @@
-var mnemonic = "craft over mesh day swallow prevent explain extra dad green modify illness";
+var mnemonic = "cable clock trim myth pioneer news first small uncle cry where correct";

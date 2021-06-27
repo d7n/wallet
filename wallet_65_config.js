@@ -1,1 +1,1 @@
-var mnemonic = "raven side okay nerve mutual absurd still pitch bone spread zone olympic";
+var mnemonic = "blood abandon knife merry museum effort sick unveil skull peasant rice planet";

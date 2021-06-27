@@ -1,1 +1,1 @@
-var mnemonic = "rent bag canyon leave lesson symptom dress secret motion nothing flat category";
+var mnemonic = "enemy morning decide scatter coil pulse layer eight country mobile duty inspire";

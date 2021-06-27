@@ -1,1 +1,1 @@
-var mnemonic = "pass swallow admit nice eight royal mixed link session pill symbol exchange";
+var mnemonic = "cable hawk hour shoulder alert broom expand defy coach assault drip uphold";

@@ -1,1 +1,1 @@
-var mnemonic = "lab rubber wait tourist render belt wave slide grow voyage certain immense";
+var mnemonic = "duck priority uniform vague reject smooth animal law stool adapt state impact";

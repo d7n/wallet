@@ -1,1 +1,1 @@
-var mnemonic = "copy sting unable wine result goat common allow all wood industry warrior";
+var mnemonic = "sting today nothing inner picnic century travel rose pistol bamboo famous embrace";

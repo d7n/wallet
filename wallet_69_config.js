@@ -1,1 +1,1 @@
-var mnemonic = "affair useful stable outside brave proud throw rude oval burger combine side";
+var mnemonic = "million wait renew milk web broken piece poverty total better metal also";

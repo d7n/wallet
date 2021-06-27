@@ -1,1 +1,1 @@
-var mnemonic = "approve lady genuine nurse myself capital globe gentle eyebrow squirrel audit crane";
+var mnemonic = "hub ten cactus limit rib lawsuit face ripple cable oblige hurt dirt";

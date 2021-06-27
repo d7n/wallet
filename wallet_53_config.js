@@ -1,1 +1,1 @@
-var mnemonic = "category chest design shallow forum horror story expect pepper coyote layer fly";
+var mnemonic = "old poet link kick noodle bone wear symbol occur axis issue struggle";

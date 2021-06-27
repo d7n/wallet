@@ -1,1 +1,1 @@
-var mnemonic = "kingdom hole loop runway sort polar grow fury foil permit banana sniff";
+var mnemonic = "child frame fan drop cream emerge access mad reject goose street question";

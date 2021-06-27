@@ -1,1 +1,1 @@
-var mnemonic = "lava rate frog merit depend box stumble magnet box poverty title hybrid";
+var mnemonic = "shoe bulb sorry exit strong program script short drive cannon use logic";

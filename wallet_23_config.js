@@ -1,1 +1,1 @@
-var mnemonic = "zoo sauce grit hundred sword junior solar brick twenty bus once churn";
+var mnemonic = "brick asset enter banner mercy provide start sphere same mechanic zebra bundle";

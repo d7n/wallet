@@ -1,1 +1,1 @@
-var mnemonic = "cash come laundry merry crop wrestle inspire skate you ecology path again";
+var mnemonic = "exercise meadow chase crumble raw enough next defense spawn broom proof december";

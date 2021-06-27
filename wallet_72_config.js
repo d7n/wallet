@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon dad rescue weapon interest armed helmet protect glove exile exchange course";
+var mnemonic = "blur shy carbon very fall jacket civil tortoise man wool more teach";

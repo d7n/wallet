@@ -1,1 +1,1 @@
-var mnemonic = "novel useless demand trash cram merry squirrel clutch clinic crane vacuum current";
+var mnemonic = "beyond once moment end grunt siren rose lend bonus gather peasant grocery";

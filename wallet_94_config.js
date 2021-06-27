@@ -1,1 +1,1 @@
-var mnemonic = "tired basic deny switch base swamp arena attend outside fever must sunset";
+var mnemonic = "cruise taxi scene gift marriage boost cluster jacket marine abuse scale idea";

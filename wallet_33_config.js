@@ -1,1 +1,1 @@
-var mnemonic = "genuine stuff destroy chair knife novel damp bamboo wish essay company impose";
+var mnemonic = "hover family case summer test legend use loyal scissors shrug mountain whip";

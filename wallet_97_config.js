@@ -1,1 +1,1 @@
-var mnemonic = "purity enroll swing shell sweet fresh elbow sight diesel damp snack mobile";
+var mnemonic = "slight fit badge false escape sample reveal cliff pulse buffalo penalty electric";

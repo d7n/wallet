@@ -1,1 +1,1 @@
-var mnemonic = "orbit trash six toast elegant mimic give air stairs spot zoo pear";
+var mnemonic = "wolf kangaroo ketchup divert boil eternal avocado warm bonus wedding isolate history";

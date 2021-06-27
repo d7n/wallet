@@ -1,1 +1,1 @@
-var mnemonic = "belt old refuse theme juice census spatial brush pool tired harbor warm";
+var mnemonic = "prosper undo enforce drastic runway pilot clerk mad ticket destroy waste sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "hungry mystery august round afford around jaguar monkey ordinary disorder tone water";
+var mnemonic = "check own stand dirt shock merge prosper luxury room horror retire avocado";

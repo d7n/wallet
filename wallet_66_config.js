@@ -1,1 +1,1 @@
-var mnemonic = "enemy price chunk stove twin soft check grape exit assault dragon nation";
+var mnemonic = "snake traffic flame beyond sun sugar major idle gloom steel movie giraffe";

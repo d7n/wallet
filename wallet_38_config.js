@@ -1,1 +1,1 @@
-var mnemonic = "spirit thumb ignore chaos defense job drastic magnet balcony alcohol ice sight";
+var mnemonic = "forest cook deliver exclude harvest inject bag private scout spawn enable crime";

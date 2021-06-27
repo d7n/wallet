@@ -1,1 +1,1 @@
-var mnemonic = "cereal monkey solve predict front real blossom blood half cereal hammer poverty";
+var mnemonic = "pact jacket leg upper butter organ strike illness trigger urge swing want";

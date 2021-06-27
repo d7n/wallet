@@ -1,1 +1,1 @@
-var mnemonic = "cabin degree metal used involve mimic shaft local frog child clerk swing";
+var mnemonic = "immune other leave sense cycle dune bulb salute captain feed bless tool";

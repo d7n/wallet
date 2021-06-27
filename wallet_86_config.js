@@ -1,1 +1,1 @@
-var mnemonic = "cat already fade parrot midnight repeat brisk dice morning bid radio unveil";
+var mnemonic = "obey puppy small bag abuse left orient photo clinic cabin salt flock";

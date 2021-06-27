@@ -1,1 +1,1 @@
-var mnemonic = "help connect search vicious please agent toast ill cook pulse agent cereal";
+var mnemonic = "carbon cupboard matter exist alpha ride expect boil second level custom transfer";

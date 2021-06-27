@@ -1,1 +1,1 @@
-var mnemonic = "gain fantasy build soap alone december utility height flower drum usual color";
+var mnemonic = "promote taxi bless venue okay sibling october jewel script metal include crunch";

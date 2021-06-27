@@ -1,1 +1,1 @@
-var mnemonic = "iron piano case cover final parade capable muffin license balcony cute yellow";
+var mnemonic = "pilot joy cluster blouse pulse smooth skirt garbage excite fee palm educate";

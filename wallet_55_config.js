@@ -1,1 +1,1 @@
-var mnemonic = "deny reward donate arctic pelican delay must reopen next maze forum swear";
+var mnemonic = "master position genius define slice south accident hand bind jar random panel";

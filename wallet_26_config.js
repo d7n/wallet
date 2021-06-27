@@ -1,1 +1,1 @@
-var mnemonic = "sight emotion meadow over decide typical boring toss clap chuckle dizzy draft";
+var mnemonic = "figure decide wrong vivid wolf floor leaf vacuum icon school wash click";

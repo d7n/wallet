@@ -1,1 +1,1 @@
-var mnemonic = "lunar stamp manual caution orchard situate match shadow age mother near pattern";
+var mnemonic = "february young salmon plunge region lemon forest potato keen use lyrics neck";
