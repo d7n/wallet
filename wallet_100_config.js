@@ -1,1 +1,1 @@
-var mnemonic = "shrimp truly lobster asset method quit model fat wire add aim scissors";
+var mnemonic = "glue seat asthma record strong obtain cricket banner quarter satisfy decrease prize";

@@ -1,1 +1,1 @@
-var mnemonic = "frame pottery attitude alone design erase whale cement sleep exclude field mass";
+var mnemonic = "salt also horn earn notice client kingdom romance foot spawn age amount";

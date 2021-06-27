@@ -1,1 +1,1 @@
-var mnemonic = "beef live uncover crack grocery fabric spring random doctor paddle clown shoe";
+var mnemonic = "loan slogan achieve cannon music hurdle crouch fruit figure traffic awful script";

@@ -1,1 +1,1 @@
-var mnemonic = "dice hover put detect advice industry wrong horse sail bring fix reason";
+var mnemonic = "measure traffic merit work venue very fence garden arrow wealth ticket female";

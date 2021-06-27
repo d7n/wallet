@@ -1,1 +1,1 @@
-var mnemonic = "divorce script toddler thunder vivid wrestle beef neither noodle travel rude erode";
+var mnemonic = "glue common live practice lava raven original seven collect paddle erase trouble";

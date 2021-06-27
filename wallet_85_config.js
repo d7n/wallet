@@ -1,1 +1,1 @@
-var mnemonic = "replace great panel alley rubber artefact inner mandate warfare list air maid";
+var mnemonic = "want lazy you soccer travel stone fiscal turkey bid quantum language orphan";

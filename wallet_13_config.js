@@ -1,1 +1,1 @@
-var mnemonic = "steel car elder example tube nation fence glance tonight charge crumble intact";
+var mnemonic = "hope abstract cube daring kiwi harsh month maple near stage label develop";

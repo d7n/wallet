@@ -1,1 +1,1 @@
-var mnemonic = "notice length useless front extra analyst orbit direct school because intact govern";
+var mnemonic = "cry immune muffin nasty inquiry barrel display ridge ski victory oak column";

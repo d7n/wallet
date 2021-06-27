@@ -1,1 +1,1 @@
-var mnemonic = "net taxi fortune gas royal window horror clarify axis firm sustain execute";
+var mnemonic = "eager onion mixture payment liberty defense celery ritual delay hamster arena clay";

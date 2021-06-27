@@ -1,1 +1,1 @@
-var mnemonic = "disorder utility october foam cram analyst news debris siren consider come attend";
+var mnemonic = "exist artist bean wish include ahead venue bamboo suspect embody slice mango";

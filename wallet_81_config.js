@@ -1,1 +1,1 @@
-var mnemonic = "midnight airport guitar exclude alley combine wood surprise salon crumble galaxy decorate";
+var mnemonic = "audit light rail make acoustic tennis twist humor tiger about knock vessel";

@@ -1,1 +1,1 @@
-var mnemonic = "cross regret hurdle coach coin pave suggest crumble slice hole work around";
+var mnemonic = "grape proud middle build crane absent rule husband exercise fluid crystal kick";

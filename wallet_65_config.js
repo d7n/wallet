@@ -1,1 +1,1 @@
-var mnemonic = "jelly key lawsuit mass midnight harsh fetch harbor female ketchup fame pelican";
+var mnemonic = "sea cave banner bullet notable learn night rescue vivid habit rebuild disagree";

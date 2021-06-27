@@ -1,1 +1,1 @@
-var mnemonic = "detect safe inject sphere minute urge alter earn wheel note problem cabbage";
+var mnemonic = "army issue service myself age resist strong tool deliver party spice exchange";

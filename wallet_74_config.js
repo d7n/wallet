@@ -1,1 +1,1 @@
-var mnemonic = "slow ensure matrix practice planet earn agree two property squirrel dignity project";
+var mnemonic = "regular chuckle auto ride security orchard jaguar dinner bronze skin ozone hair";

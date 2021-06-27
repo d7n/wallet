@@ -1,1 +1,1 @@
-var mnemonic = "joy fruit enemy course urge family season height nation pottery marriage close";
+var mnemonic = "stereo earth trouble away section angry inspire smile sign birth ask receive";

@@ -1,1 +1,1 @@
-var mnemonic = "divide rabbit desk gravity lens exercise balance shoulder soap bachelor essay grant";
+var mnemonic = "junior noodle acquire disease lizard omit desert acoustic tray left suit cook";

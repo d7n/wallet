@@ -1,1 +1,1 @@
-var mnemonic = "marine wasp usual popular device street syrup december tonight observe sort kitten";
+var mnemonic = "cereal stick song inject beach guide shoulder insane alert cheap style uniform";

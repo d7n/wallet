@@ -1,1 +1,1 @@
-var mnemonic = "level leg broom invite orange put people truck squeeze option palace strong";
+var mnemonic = "swim insane castle spatial tenant connect ring merit abandon slot immense impact";

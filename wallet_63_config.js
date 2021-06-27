@@ -1,1 +1,1 @@
-var mnemonic = "dignity anger index sadness reopen found educate aware liar fox quote immense";
+var mnemonic = "enjoy exact talk spread dizzy impose loop fee bacon use offer morning";

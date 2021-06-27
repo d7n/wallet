@@ -1,1 +1,1 @@
-var mnemonic = "rural royal weapon pink awake panda scrap science meadow gospel charge winner";
+var mnemonic = "length denial explain section identify exit swallow payment orange either result make";

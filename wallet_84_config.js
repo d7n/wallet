@@ -1,1 +1,1 @@
-var mnemonic = "office stay floor cannon smoke strike clever flame boost joy stove ready";
+var mnemonic = "still frost leopard boat mushroom need purity twenty sudden disease proud love";

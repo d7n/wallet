@@ -1,1 +1,1 @@
-var mnemonic = "bind fiction board grunt excess that moon express ramp regret involve build";
+var mnemonic = "tenant issue warm voyage field coyote dash wreck people hello flee pilot";

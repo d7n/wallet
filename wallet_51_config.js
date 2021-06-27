@@ -1,1 +1,1 @@
-var mnemonic = "peasant install want common near stable teach tilt because decade strike claim";
+var mnemonic = "old fee town cliff disorder multiply deer ice iron project fancy turkey";

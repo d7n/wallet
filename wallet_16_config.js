@@ -1,1 +1,1 @@
-var mnemonic = "bridge typical just small clean juice wrestle shield veteran swift upper tunnel";
+var mnemonic = "spawn room leopard receive unit bid people company unfair devote pattern gown";

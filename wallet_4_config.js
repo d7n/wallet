@@ -1,1 +1,1 @@
-var mnemonic = "portion still first elevator park poet make oval member butter club identify";
+var mnemonic = "phrase hawk brown ocean cross test course people east power choose security";

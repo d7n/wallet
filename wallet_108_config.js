@@ -1,1 +1,1 @@
-var mnemonic = "else bus young parent coyote guilt skirt gift fabric convince option simple";
+var mnemonic = "almost inspire impulse soup kidney wood carbon title victory swap copy belt";

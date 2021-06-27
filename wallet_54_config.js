@@ -1,1 +1,1 @@
-var mnemonic = "issue rapid expect venture bless mixed thought fish develop section country invite";
+var mnemonic = "any seek become sea fall race girl mirror soda burst power lottery";

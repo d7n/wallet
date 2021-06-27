@@ -1,1 +1,1 @@
-var mnemonic = "erosion danger true busy girl depend shaft exhibit hair update life hybrid";
+var mnemonic = "uncle spoon push notable recipe trust such tunnel east neglect proud grid";

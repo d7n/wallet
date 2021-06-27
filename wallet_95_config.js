@@ -1,1 +1,1 @@
-var mnemonic = "farm mule critic odor pride leaf use marine vessel rhythm decade rigid";
+var mnemonic = "parent rice recipe coconut hospital lake fault hammer jacket ordinary gain ramp";

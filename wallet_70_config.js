@@ -1,1 +1,1 @@
-var mnemonic = "square loan box vote pepper seek trumpet open side width turtle forward";
+var mnemonic = "sponsor artefact weird loop sister funny inch broken tank patrol skate local";

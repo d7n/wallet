@@ -1,1 +1,1 @@
-var mnemonic = "buyer alien top spoil express ill initial avocado focus truck gloom foil";
+var mnemonic = "hat cruise bunker naive file bless famous toy protect van energy rail";

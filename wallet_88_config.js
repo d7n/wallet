@@ -1,1 +1,1 @@
-var mnemonic = "front sentence approve entry always outer loop chief chief field family miracle";
+var mnemonic = "flush above crash gun stand busy title estate romance stumble inquiry comfort";

@@ -1,1 +1,1 @@
-var mnemonic = "clever adult area album crawl someone market magnet reform exchange dizzy tank";
+var mnemonic = "govern claim stove correct ostrich copy solution soda palm seat until mind";

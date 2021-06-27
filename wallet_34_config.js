@@ -1,1 +1,1 @@
-var mnemonic = "slam mansion sketch sudden peasant hill toddler dentist boost stomach also arrow";
+var mnemonic = "furnace team weasel slice cupboard cool clump basic car family then sand";

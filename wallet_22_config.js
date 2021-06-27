@@ -1,1 +1,1 @@
-var mnemonic = "gate attend better unusual profit human develop earth hamster hollow sail quote";
+var mnemonic = "abstract canoe fiscal country twist seek symptom caution clean tell spy spatial";

@@ -1,1 +1,1 @@
-var mnemonic = "remove seven people spider mass bulk leader castle gossip wave enroll industry";
+var mnemonic = "alien roof very price scrub grow utility diesel glass click vendor depart";

@@ -1,1 +1,1 @@
-var mnemonic = "split laundry style behind cook camera lottery square hip jaguar dry note";
+var mnemonic = "bind stone lyrics fall impose comfort million yellow garbage supreme damage holiday";

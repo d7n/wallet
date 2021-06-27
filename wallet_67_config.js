@@ -1,1 +1,1 @@
-var mnemonic = "seed dilemma wage picture frown winter scene loan scorpion dirt purchase fossil";
+var mnemonic = "arrow enough share lens nice wreck pilot spray merge veteran tool omit";

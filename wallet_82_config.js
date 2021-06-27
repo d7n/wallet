@@ -1,1 +1,1 @@
-var mnemonic = "switch fox price federal cherry thrive coil shed point capable parrot when";
+var mnemonic = "piece laundry sword mad produce siege feed bottom switch very check gauge";

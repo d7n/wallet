@@ -1,1 +1,1 @@
-var mnemonic = "visit act marriage thunder account weekend guitar impact body promote cross black";
+var mnemonic = "olive banner stand winner swallow ensure manual evil valley allow skirt exhibit";

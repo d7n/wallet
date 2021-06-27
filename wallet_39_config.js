@@ -1,1 +1,1 @@
-var mnemonic = "fold laptop outer patrol tonight match final odor effort purse pluck unhappy";
+var mnemonic = "clinic alarm electric robot swim ritual decrease wrong tide surge few deny";

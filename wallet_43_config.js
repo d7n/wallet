@@ -1,1 +1,1 @@
-var mnemonic = "denial upset visual develop ridge jelly will return object good road exact";
+var mnemonic = "strike long artefact love calm office youth blossom invest company salt neck";

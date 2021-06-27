@@ -1,1 +1,1 @@
-var mnemonic = "ten crater camera cat promote blossom brass dawn dance crane ridge inflict";
+var mnemonic = "search ready apology day aim remain witness often space drama glove crane";

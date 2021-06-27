@@ -1,1 +1,1 @@
-var mnemonic = "heavy repeat glide physical sure mouse unfold angry stool exchange certain knee";
+var mnemonic = "more damp lens lab consider panic kind enact fiscal vocal edge around";

@@ -1,1 +1,1 @@
-var mnemonic = "dinner gallery start borrow praise stable layer acoustic process talk prize copy";
+var mnemonic = "harbor drink toss prevent innocent flock stamp series grocery harvest little purpose";

@@ -1,1 +1,1 @@
-var mnemonic = "penalty open domain cheese wasp shop quick object ceiling pause envelope cram";
+var mnemonic = "young attract need limb sister spice math start stone struggle aim feed";

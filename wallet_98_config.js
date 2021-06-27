@@ -1,1 +1,1 @@
-var mnemonic = "identify angry post define chair impose match forward witness torch panther ankle";
+var mnemonic = "summer game north machine senior coast school key ranch step tone laugh";

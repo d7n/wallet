@@ -1,1 +1,1 @@
-var mnemonic = "custom they nominee outer vanish edge wage lawsuit series note soon mountain";
+var mnemonic = "parade replace divorce year tornado will hen much trumpet unfold cradle inner";

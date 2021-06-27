@@ -1,1 +1,1 @@
-var mnemonic = "water icon earn depart payment notable oyster raise crisp total member original";
+var mnemonic = "hat eagle fortune shift soldier wrist soon orphan rally trophy mesh piece";

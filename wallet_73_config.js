@@ -1,1 +1,1 @@
-var mnemonic = "tunnel media again reduce shift rotate punch gallery ketchup cannon crush kid";
+var mnemonic = "dinner tenant horn extra front suggest blue warrior color remember oval wild";

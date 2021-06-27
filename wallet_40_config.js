@@ -1,1 +1,1 @@
-var mnemonic = "range reward crash tissue blur escape poverty sail arrest join require success";
+var mnemonic = "teach market vendor deny clean indoor wrist just scale bird title town";

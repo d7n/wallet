@@ -1,1 +1,1 @@
-var mnemonic = "hub rule mercy like security abandon outer border reduce hundred frown abandon";
+var mnemonic = "hollow kind marble together crisp dolphin body stomach capable neutral put autumn";

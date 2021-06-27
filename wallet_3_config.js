@@ -1,1 +1,1 @@
-var mnemonic = "soap invest couch sign total relief blouse game giant fork castle lottery";
+var mnemonic = "evidence common cargo kiwi proud drip soap explain mom word allow slogan";

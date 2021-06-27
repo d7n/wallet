@@ -1,1 +1,1 @@
-var mnemonic = "until reveal thumb drama version world warrior way capital spread huge satoshi";
+var mnemonic = "drive angle cannon fade cycle envelope west cloth fury corn curious height";

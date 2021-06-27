@@ -1,1 +1,1 @@
-var mnemonic = "fiber bullet summer rug message flame kitchen cram together behave stomach glad";
+var mnemonic = "trash vicious fortune gap start bullet december castle modify wish neither venue";

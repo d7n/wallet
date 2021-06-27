@@ -1,1 +1,1 @@
-var mnemonic = "common list glory scout enable rapid clay silent click source much laundry";
+var mnemonic = "scout smile organ stand funny come rebel blur found conduct nasty juice";

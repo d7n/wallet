@@ -1,1 +1,1 @@
-var mnemonic = "screen expect cushion horn fun dune transfer change check business pumpkin analyst";
+var mnemonic = "range bean barrel flavor curtain improve avoid poverty piece series snap employ";

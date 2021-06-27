@@ -1,1 +1,1 @@
-var mnemonic = "lottery cost zoo glory initial shaft satisfy fine sketch impact prosper truly";
+var mnemonic = "urban garage steak pencil awesome dragon open infant catch steel common winner";

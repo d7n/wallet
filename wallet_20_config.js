@@ -1,1 +1,1 @@
-var mnemonic = "uncle term table melt attend scale key glance marble radio demise sunny";
+var mnemonic = "birth february lucky crop tomorrow office express economy excuse faith cruise inherit";

@@ -1,1 +1,1 @@
-var mnemonic = "sleep sort tunnel army tired suggest hurdle else electric demise mystery rebel";
+var mnemonic = "fog absent clerk worth museum deposit keep game group olive miracle valve";

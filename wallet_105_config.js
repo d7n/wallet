@@ -1,1 +1,1 @@
-var mnemonic = "people broom other donate carpet torch combine twelve critic sustain short often";
+var mnemonic = "crumble raise panda crunch radar guitar doctor dust need infant timber drip";

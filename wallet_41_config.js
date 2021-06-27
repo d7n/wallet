@@ -1,1 +1,1 @@
-var mnemonic = "uncle cactus sheriff loud dash smile believe rubber issue float turtle banana";
+var mnemonic = "hamster woman lobster hen student chalk thought organ foam start memory stereo";

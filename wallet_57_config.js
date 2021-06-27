@@ -1,1 +1,1 @@
-var mnemonic = "juice easily jazz curtain similar chat already chronic air damp casual fetch";
+var mnemonic = "tragic surprise sound someone hurt stick rocket muscle sphere top hero aunt";

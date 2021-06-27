@@ -1,1 +1,1 @@
-var mnemonic = "vicious plug sweet amount prevent choice utility creek prize cup method crane";
+var mnemonic = "type art cushion door seven gas swing oxygen episode pulp music pond";

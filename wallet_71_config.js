@@ -1,1 +1,1 @@
-var mnemonic = "hope disagree when shrimp dolphin fragile flag timber setup enable little analyst";
+var mnemonic = "waste sphere hamster tuna fee robust patrol divert arrive defy chronic talk";

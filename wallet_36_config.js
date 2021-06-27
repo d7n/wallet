@@ -1,1 +1,1 @@
-var mnemonic = "peasant shadow talk ensure fish crane asthma depend pioneer blanket dawn opinion";
+var mnemonic = "quiz number shock ignore local path goose until rice step element amateur";

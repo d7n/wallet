@@ -1,1 +1,1 @@
-var mnemonic = "crisp divert wish dial lake pizza student recipe luggage smooth poet brand";
+var mnemonic = "length romance power annual bargain measure review minor sentence silk hedgehog network";

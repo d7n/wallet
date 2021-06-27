@@ -1,1 +1,1 @@
-var mnemonic = "tragic correct old spoon winner repair orchard essay save fire toe genuine";
+var mnemonic = "concert south adapt spice smile fence fire destroy clip hour indicate trust";

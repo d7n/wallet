@@ -1,1 +1,1 @@
-var mnemonic = "tenant purity deputy collect harsh ivory frost slight kid aspect soccer lake";
+var mnemonic = "fish burden rather kingdom erode bike visa merry bid hint act speed";

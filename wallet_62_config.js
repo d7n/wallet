@@ -1,1 +1,1 @@
-var mnemonic = "capital space height law message inflict cat trap shy move race invite";
+var mnemonic = "unlock confirm silver window trim cause hundred ranch vanish chapter bronze jazz";

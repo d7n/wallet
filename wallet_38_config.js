@@ -1,1 +1,1 @@
-var mnemonic = "ill kitten basic tell blur vault pet orphan funny sorry marriage flock";
+var mnemonic = "digital ball type faith chief invest involve gauge lottery wool error assist";

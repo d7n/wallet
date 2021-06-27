@@ -1,1 +1,1 @@
-var mnemonic = "engage simple quick rack chat goose olive december funny view thrive describe";
+var mnemonic = "use fold police core around dismiss beach twenty garage renew family seat";

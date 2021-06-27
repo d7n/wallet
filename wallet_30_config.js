@@ -1,1 +1,1 @@
-var mnemonic = "any embrace grocery sound jeans village october onion task cream stuff gown";
+var mnemonic = "market nominee guess jealous wedding avoid marble hundred slender barely observe joke";

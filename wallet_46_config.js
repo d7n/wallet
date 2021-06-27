@@ -1,1 +1,1 @@
-var mnemonic = "finger undo hedgehog equip feed luggage pair collect vintage crunch match already";
+var mnemonic = "man camp there cause artefact warfare famous satoshi worry grid story exist";

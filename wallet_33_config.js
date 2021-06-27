@@ -1,1 +1,1 @@
-var mnemonic = "crisp bag fatal sponsor theory grass lonely relief vehicle vendor salt vehicle";
+var mnemonic = "fish chat museum slam wish prosper frequent rebuild clarify much choose castle";

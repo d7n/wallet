@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow attitude region eagle west pepper manage medal wheat own loyal roast";
+var mnemonic = "buyer hamster blouse patient beach skirt success say cousin kind rival kingdom";

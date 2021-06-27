@@ -1,1 +1,1 @@
-var mnemonic = "decade decorate opinion plunge oil essence valid figure goddess gain drive buffalo";
+var mnemonic = "crane settle street meadow hole youth fade peanut ecology wait ready snow";

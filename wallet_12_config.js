@@ -1,1 +1,1 @@
-var mnemonic = "woman health ocean vital effort path either pencil mix end motor middle";
+var mnemonic = "another above tissue slot baby hill script saddle jelly inquiry crisp apple";

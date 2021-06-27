@@ -1,1 +1,1 @@
-var mnemonic = "split club obey woman toy pen supreme crane orbit print jealous core";
+var mnemonic = "useful cupboard spy episode favorite common world harsh shield rotate shield around";

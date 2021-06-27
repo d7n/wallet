@@ -1,1 +1,1 @@
-var mnemonic = "question age coach host ripple expose diet inhale setup someone zebra special";
+var mnemonic = "gate arctic dutch midnight genius wall orient hurdle worry original survey lock";

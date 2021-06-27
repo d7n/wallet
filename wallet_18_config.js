@@ -1,1 +1,1 @@
-var mnemonic = "day cabin bind tuition grow warrior eager govern vintage senior when sell";
+var mnemonic = "taxi weapon pattern action inside giant hurry doll soon limit drink race";

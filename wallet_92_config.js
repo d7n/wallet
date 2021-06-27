@@ -1,1 +1,1 @@
-var mnemonic = "evil boy hurry expect village skill unusual below lock apology critic flee";
+var mnemonic = "priority situate laugh move phrase always buffalo dutch split payment gain diary";

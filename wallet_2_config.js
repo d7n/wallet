@@ -1,1 +1,1 @@
-var mnemonic = "conduct opera glide column honey fetch burst bacon witness oil language advance";
+var mnemonic = "bread ribbon festival noodle more high face athlete angle favorite stage repeat";

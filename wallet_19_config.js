@@ -1,1 +1,1 @@
-var mnemonic = "stick quick turn cradle pelican country exist much party raise thrive couch";
+var mnemonic = "couple float debris tent amount crucial puppy weekend toe narrow faculty bomb";

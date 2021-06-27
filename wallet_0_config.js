@@ -1,1 +1,1 @@
-var mnemonic = "genius swift denial room hero season casual vault cousin taxi pole essence";
+var mnemonic = "glue ability glass park liberty wage session envelope install settle virus such";

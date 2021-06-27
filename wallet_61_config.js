@@ -1,1 +1,1 @@
-var mnemonic = "immune high drop hazard then pact empty false success code orange bright";
+var mnemonic = "lake skin squeeze situate pink nasty film raise cycle deputy ridge host";

@@ -1,1 +1,1 @@
-var mnemonic = "cactus unhappy lens ceiling assault trust spike cactus impulse angry parrot forum";
+var mnemonic = "sorry supply gloom gospel invest must rose mail unknown normal suspect alarm";
