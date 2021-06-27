@@ -1,1 +1,1 @@
-var mnemonic = "uncle ginger aspect echo vital buzz trial busy sight labor ten magnet";
+var mnemonic = "replace great panel alley rubber artefact inner mandate warfare list air maid";

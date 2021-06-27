@@ -1,1 +1,1 @@
-var mnemonic = "cycle garlic brand search topple treat close permit chalk patrol country help";
+var mnemonic = "nasty planet twin infant tumble steak wash raccoon sample attend kite interest";

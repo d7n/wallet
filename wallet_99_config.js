@@ -1,1 +1,1 @@
-var mnemonic = "size congress deny garden unusual boring bone pledge catch sail achieve day";
+var mnemonic = "sock humor pave comic sight year victory push daring wall response evil";

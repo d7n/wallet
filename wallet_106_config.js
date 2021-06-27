@@ -1,1 +1,1 @@
-var mnemonic = "organ narrow organ know whale vivid genre firm onion tongue inquiry equal";
+var mnemonic = "dice hover put detect advice industry wrong horse sail bring fix reason";

@@ -1,1 +1,1 @@
-var mnemonic = "door observe arch artwork holiday lemon teach forest shine rigid rain neglect";
+var mnemonic = "detect safe inject sphere minute urge alter earn wheel note problem cabbage";

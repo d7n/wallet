@@ -1,1 +1,1 @@
-var mnemonic = "often cushion any absurd step prevent calm runway result vocal olympic core";
+var mnemonic = "end climb ginger chaos brass debate ball chapter between dad unique wedding";

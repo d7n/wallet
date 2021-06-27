@@ -1,1 +1,1 @@
-var mnemonic = "fever awake ensure flock oval peasant opinion spend syrup claw left clutch";
+var mnemonic = "ten crater camera cat promote blossom brass dawn dance crane ridge inflict";

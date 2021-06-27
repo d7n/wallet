@@ -1,1 +1,1 @@
-var mnemonic = "next design snake teach salt tired earth jar inspire degree link select";
+var mnemonic = "custom they nominee outer vanish edge wage lawsuit series note soon mountain";

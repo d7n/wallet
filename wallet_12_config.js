@@ -1,1 +1,1 @@
-var mnemonic = "crime term hospital gaze fix boring deputy slim tribe silk galaxy oblige";
+var mnemonic = "woman health ocean vital effort path either pencil mix end motor middle";

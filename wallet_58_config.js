@@ -1,1 +1,1 @@
-var mnemonic = "silver flush profit focus gospel skin spare behave math churn fever position";
+var mnemonic = "cross regret hurdle coach coin pave suggest crumble slice hole work around";

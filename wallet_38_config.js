@@ -1,1 +1,1 @@
-var mnemonic = "sunny eagle family multiply gym captain that company kiss modify poverty base";
+var mnemonic = "ill kitten basic tell blur vault pet orphan funny sorry marriage flock";

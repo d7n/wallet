@@ -1,1 +1,1 @@
-var mnemonic = "attitude nest picture replace ill ghost economy timber grass orbit model universe";
+var mnemonic = "spoil sport cover artefact toward color oxygen pottery upon rebuild unfair fog";

@@ -1,1 +1,1 @@
-var mnemonic = "claw album decline dutch sunset dune walk minor hungry practice endless stage";
+var mnemonic = "soap invest couch sign total relief blouse game giant fork castle lottery";

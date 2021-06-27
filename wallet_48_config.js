@@ -1,1 +1,1 @@
-var mnemonic = "tilt nurse ranch dwarf midnight move wealth cycle page arrange weird sea";
+var mnemonic = "tragic correct old spoon winner repair orchard essay save fire toe genuine";

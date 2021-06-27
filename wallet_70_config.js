@@ -1,1 +1,1 @@
-var mnemonic = "luxury silent move cheap system feature rough brief tobacco runway lottery broken";
+var mnemonic = "square loan box vote pepper seek trumpet open side width turtle forward";

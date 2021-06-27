@@ -1,1 +1,1 @@
-var mnemonic = "truck steak shield hawk old also text raccoon negative ill they miracle";
+var mnemonic = "sleep sort tunnel army tired suggest hurdle else electric demise mystery rebel";

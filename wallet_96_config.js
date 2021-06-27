@@ -1,1 +1,1 @@
-var mnemonic = "fresh witness debris mention relief sunset random opinion cram rich alien review";
+var mnemonic = "until reveal thumb drama version world warrior way capital spread huge satoshi";

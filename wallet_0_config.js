@@ -1,1 +1,1 @@
-var mnemonic = "gesture prison stone crawl frown problem drastic win nephew memory garment glad";
+var mnemonic = "genius swift denial room hero season casual vault cousin taxi pole essence";

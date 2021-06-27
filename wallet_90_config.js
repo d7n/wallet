@@ -1,1 +1,1 @@
-var mnemonic = "immense faint cigar case visa potato gravity ready inside another decorate wealth";
+var mnemonic = "rural royal weapon pink awake panda scrap science meadow gospel charge winner";

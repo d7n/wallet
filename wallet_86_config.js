@@ -1,1 +1,1 @@
-var mnemonic = "word napkin route decline rug summer mercy proof object peanut smoke call";
+var mnemonic = "tomorrow attitude region eagle west pepper manage medal wheat own loyal roast";

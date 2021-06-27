@@ -1,1 +1,1 @@
-var mnemonic = "south box thing bullet lady scrap broken image guess nature velvet pioneer";
+var mnemonic = "uncle cactus sheriff loud dash smile believe rubber issue float turtle banana";

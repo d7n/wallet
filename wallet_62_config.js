@@ -1,1 +1,1 @@
-var mnemonic = "slim egg dawn suffer globe survey honey debate copper still tiny frequent";
+var mnemonic = "capital space height law message inflict cat trap shy move race invite";

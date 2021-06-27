@@ -1,1 +1,1 @@
-var mnemonic = "switch rent burger size lesson shrug punch brief conduct great garment calm";
+var mnemonic = "shrimp truly lobster asset method quit model fat wire add aim scissors";

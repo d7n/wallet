@@ -1,1 +1,1 @@
-var mnemonic = "face lift famous bicycle warfare art conduct aisle grow maple candy loan";
+var mnemonic = "remove seven people spider mass bulk leader castle gossip wave enroll industry";

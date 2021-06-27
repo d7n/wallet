@@ -1,1 +1,1 @@
-var mnemonic = "legend cloud blossom night pen dish minimum soda wash coast apple material";
+var mnemonic = "office stay floor cannon smoke strike clever flame boost joy stove ready";

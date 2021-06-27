@@ -1,1 +1,1 @@
-var mnemonic = "help fetch access law garbage answer guide spell sentence brand grow lab";
+var mnemonic = "fiber bullet summer rug message flame kitchen cram together behave stomach glad";

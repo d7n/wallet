@@ -1,1 +1,1 @@
-var mnemonic = "hollow leader car gate sport exile eager much syrup develop sister prevent";
+var mnemonic = "bind fiction board grunt excess that moon express ramp regret involve build";

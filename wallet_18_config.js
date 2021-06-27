@@ -1,1 +1,1 @@
-var mnemonic = "ramp flag salad ensure kitten extra afraid moral bonus square little rack";
+var mnemonic = "day cabin bind tuition grow warrior eager govern vintage senior when sell";

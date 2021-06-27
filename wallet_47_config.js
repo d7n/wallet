@@ -1,1 +1,1 @@
-var mnemonic = "yellow vault lyrics dish cool crime carbon again shield damp cage latin";
+var mnemonic = "wedding inflict shoe leave upon viable physical hamster gym calm violin slender";

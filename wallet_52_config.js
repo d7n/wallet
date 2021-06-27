@@ -1,1 +1,1 @@
-var mnemonic = "seed damage bench polar swear logic tone range annual bench actress clown";
+var mnemonic = "question age coach host ripple expose diet inhale setup someone zebra special";

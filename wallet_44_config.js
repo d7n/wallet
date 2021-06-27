@@ -1,1 +1,1 @@
-var mnemonic = "style spike airport test scissors burger dismiss fat gossip flee object peasant";
+var mnemonic = "disorder utility october foam cram analyst news debris siren consider come attend";

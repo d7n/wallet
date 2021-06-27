@@ -1,1 +1,1 @@
-var mnemonic = "true turtle man another cradle involve brain need theme limb winter suspect";
+var mnemonic = "heavy repeat glide physical sure mouse unfold angry stool exchange certain knee";

@@ -1,1 +1,1 @@
-var mnemonic = "orient crack hungry guide produce stuff differ urge beef wrap embody recipe";
+var mnemonic = "water icon earn depart payment notable oyster raise crisp total member original";

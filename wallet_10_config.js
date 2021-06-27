@@ -1,1 +1,1 @@
-var mnemonic = "tip offer remove pizza grocery people image pear oxygen can retreat wing";
+var mnemonic = "engage simple quick rack chat goose olive december funny view thrive describe";

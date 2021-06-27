@@ -1,1 +1,1 @@
-var mnemonic = "worry safe visit reduce dizzy orchard program vendor bonus dwarf such choose";
+var mnemonic = "net taxi fortune gas royal window horror clarify axis firm sustain execute";

@@ -1,1 +1,1 @@
-var mnemonic = "satoshi volume boat wealth jeans tank nose oblige stamp priority begin bag";
+var mnemonic = "farm mule critic odor pride leaf use marine vessel rhythm decade rigid";

@@ -1,1 +1,1 @@
-var mnemonic = "kite plug debris excess science december pumpkin advance swarm hurdle exotic assault";
+var mnemonic = "hope disagree when shrimp dolphin fragile flag timber setup enable little analyst";

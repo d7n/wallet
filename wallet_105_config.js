@@ -1,1 +1,1 @@
-var mnemonic = "trust genius keep hire want jump cigar gaze metal want safe boost";
+var mnemonic = "people broom other donate carpet torch combine twelve critic sustain short often";

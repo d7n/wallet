@@ -1,1 +1,1 @@
-var mnemonic = "water swift satoshi ecology dwarf lecture major trip harbor produce insane glove";
+var mnemonic = "lottery cost zoo glory initial shaft satisfy fine sketch impact prosper truly";

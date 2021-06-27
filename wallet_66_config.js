@@ -1,1 +1,1 @@
-var mnemonic = "service off course artist invest manual emotion exhaust sustain moon hawk broccoli";
+var mnemonic = "split laundry style behind cook camera lottery square hip jaguar dry note";

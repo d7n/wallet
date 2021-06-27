@@ -1,1 +1,1 @@
-var mnemonic = "jelly misery deposit duck little dirt rare race roof eye scrub choice";
+var mnemonic = "jelly key lawsuit mass midnight harsh fetch harbor female ketchup fame pelican";

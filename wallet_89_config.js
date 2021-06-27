@@ -1,1 +1,1 @@
-var mnemonic = "demand exile cake mom glad swamp palace devote middle shield head olive";
+var mnemonic = "divorce script toddler thunder vivid wrestle beef neither noodle travel rude erode";

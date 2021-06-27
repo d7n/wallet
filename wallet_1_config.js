@@ -1,1 +1,1 @@
-var mnemonic = "steak survey rotate wash chronic fence assist april library prosper team warfare";
+var mnemonic = "tenant purity deputy collect harsh ivory frost slight kid aspect soccer lake";

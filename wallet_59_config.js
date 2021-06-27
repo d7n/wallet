@@ -1,1 +1,1 @@
-var mnemonic = "exotic turkey final behave mosquito dentist labor spread mean sand supreme thrive";
+var mnemonic = "joy fruit enemy course urge family season height nation pottery marriage close";

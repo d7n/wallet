@@ -1,1 +1,1 @@
-var mnemonic = "together hip destroy bench employ system punch neck lumber inmate away team";
+var mnemonic = "crop surround diary cannon bus eager spirit play match message winter void";

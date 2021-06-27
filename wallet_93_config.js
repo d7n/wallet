@@ -1,1 +1,1 @@
-var mnemonic = "exchange rib submit candy borrow strike truck display blade sleep approve feature";
+var mnemonic = "frame pottery attitude alone design erase whale cement sleep exclude field mass";

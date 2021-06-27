@@ -1,1 +1,1 @@
-var mnemonic = "gun boss lift shoe clarify evolve manage solid trade chronic weekend prize";
+var mnemonic = "green news riot pigeon also define merit dutch main book height meat";

@@ -1,1 +1,1 @@
-var mnemonic = "blade prefer filter fault ensure crew giant renew release gasp jaguar rescue";
+var mnemonic = "gate attend better unusual profit human develop earth hamster hollow sail quote";

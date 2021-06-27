@@ -1,1 +1,1 @@
-var mnemonic = "rookie solve clog rely engine alien income scene oblige trade garbage can";
+var mnemonic = "divide rabbit desk gravity lens exercise balance shoulder soap bachelor essay grant";

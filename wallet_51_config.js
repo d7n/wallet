@@ -1,1 +1,1 @@
-var mnemonic = "twist emotion mouse traffic erosion virtual frequent meat mom shop spring tone";
+var mnemonic = "peasant install want common near stable teach tilt because decade strike claim";

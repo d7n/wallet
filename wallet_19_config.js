@@ -1,1 +1,1 @@
-var mnemonic = "section violin sign anxiety silly material twice card hammer simple prosper reason";
+var mnemonic = "stick quick turn cradle pelican country exist much party raise thrive couch";

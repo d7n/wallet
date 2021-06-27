@@ -1,1 +1,1 @@
-var mnemonic = "voice network secret abstract pig general language off toddler aerobic knife pond";
+var mnemonic = "seed dilemma wage picture frown winter scene loan scorpion dirt purchase fossil";

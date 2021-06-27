@@ -1,1 +1,1 @@
-var mnemonic = "census sign mule then trim lounge mammal accident adjust enable flame rely";
+var mnemonic = "erosion danger true busy girl depend shaft exhibit hair update life hybrid";

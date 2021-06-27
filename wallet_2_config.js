@@ -1,1 +1,1 @@
-var mnemonic = "sweet exile rookie forward behave kit plastic digital betray road suffer satoshi";
+var mnemonic = "conduct opera glide column honey fetch burst bacon witness oil language advance";

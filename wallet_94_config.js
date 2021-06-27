@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur desert worry caught photo search auto explain expose differ gravity portion";
+var mnemonic = "flip pigeon shove crew eye miss key casino much push ginger lazy";

@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo opera online law panda rough motor poem mind bullet onion suffer";
+var mnemonic = "midnight airport guitar exclude alley combine wood surprise salon crumble galaxy decorate";

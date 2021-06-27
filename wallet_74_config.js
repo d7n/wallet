@@ -1,1 +1,1 @@
-var mnemonic = "theme tape erupt extra elite say route slide child intact six rack";
+var mnemonic = "slow ensure matrix practice planet earn agree two property squirrel dignity project";

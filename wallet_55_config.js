@@ -1,1 +1,1 @@
-var mnemonic = "wing decorate path scan wash kiss amused disagree faith wasp crime captain";
+var mnemonic = "plate across truck luxury method monkey uniform antique evidence spider laugh peasant";

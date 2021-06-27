@@ -1,1 +1,1 @@
-var mnemonic = "roof gym pond system shift connect public drop electric lunar oyster chapter";
+var mnemonic = "dinner gallery start borrow praise stable layer acoustic process talk prize copy";

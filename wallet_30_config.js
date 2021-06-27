@@ -1,1 +1,1 @@
-var mnemonic = "address grab spend heavy tonight rotate inflict busy route patch adult woman";
+var mnemonic = "any embrace grocery sound jeans village october onion task cream stuff gown";

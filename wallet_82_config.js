@@ -1,1 +1,1 @@
-var mnemonic = "message build fashion ticket setup city joke orbit abstract fly tool advice";
+var mnemonic = "switch fox price federal cherry thrive coil shed point capable parrot when";

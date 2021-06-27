@@ -1,1 +1,1 @@
-var mnemonic = "ask valid estate decline hole rival core dynamic crawl crane orbit shield";
+var mnemonic = "common list glory scout enable rapid clay silent click source much laundry";

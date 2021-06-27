@@ -1,1 +1,1 @@
-var mnemonic = "peace deposit word muscle wire absorb fade absent exercise squeeze style quantum";
+var mnemonic = "uncle term table melt attend scale key glance marble radio demise sunny";

@@ -1,1 +1,1 @@
-var mnemonic = "easily wire train puzzle fine poverty fever slush harbor modify express fire";
+var mnemonic = "hub rule mercy like security abandon outer border reduce hundred frown abandon";

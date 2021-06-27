@@ -1,1 +1,1 @@
-var mnemonic = "rocket always hire repeat ladder price text once immune betray special flush";
+var mnemonic = "bridge typical just small clean juice wrestle shield veteran swift upper tunnel";

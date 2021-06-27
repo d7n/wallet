@@ -1,1 +1,1 @@
-var mnemonic = "despair danger tray brief kiwi detail offer wing supreme office venture speed";
+var mnemonic = "naive abstract fancy either patrol doll crunch moment actress two ski perfect";

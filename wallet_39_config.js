@@ -1,1 +1,1 @@
-var mnemonic = "surround loop banana this symptom staff hybrid injury antique switch throw sense";
+var mnemonic = "fold laptop outer patrol tonight match final odor effort purse pluck unhappy";

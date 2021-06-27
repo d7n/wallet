@@ -1,1 +1,1 @@
-var mnemonic = "roast spell lemon vendor april camera result maid ten merry curtain year";
+var mnemonic = "juice easily jazz curtain similar chat already chronic air damp casual fetch";

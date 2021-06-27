@@ -1,1 +1,1 @@
-var mnemonic = "gravity waste insane adult occur celery cruise escape model dizzy bubble vessel";
+var mnemonic = "front sentence approve entry always outer loop chief chief field family miracle";

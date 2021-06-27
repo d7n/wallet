@@ -1,1 +1,1 @@
-var mnemonic = "cook can view medal apple output aspect blossom welcome food universe shine";
+var mnemonic = "violin junior exhibit source knee viable merge report addict absurd foot laugh";

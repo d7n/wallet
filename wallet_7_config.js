@@ -1,1 +1,1 @@
-var mnemonic = "retreat day jeans sleep vehicle poverty chicken arrange shallow evolve repair toast";
+var mnemonic = "flight radar miracle student cactus ancient film brass abandon life foot cheese";

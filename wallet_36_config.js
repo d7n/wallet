@@ -1,1 +1,1 @@
-var mnemonic = "sun village nominee galaxy pony wolf today flock what supply enlist educate";
+var mnemonic = "peasant shadow talk ensure fish crane asthma depend pioneer blanket dawn opinion";

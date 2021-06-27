@@ -1,1 +1,1 @@
-var mnemonic = "tornado excess pill all skill wood corn letter tomorrow buddy know soccer";
+var mnemonic = "release patch sponsor long trap journey alter index banana chronic enjoy high";

@@ -1,1 +1,1 @@
-var mnemonic = "room fiscal hint cage fat cherry reason spin mesh dinosaur island member";
+var mnemonic = "vicious plug sweet amount prevent choice utility creek prize cup method crane";

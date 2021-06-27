@@ -1,1 +1,1 @@
-var mnemonic = "atom enrich apart powder main car attitude wool coffee pool project plunge";
+var mnemonic = "screen expect cushion horn fun dune transfer change check business pumpkin analyst";

@@ -1,1 +1,1 @@
-var mnemonic = "chicken forum daughter core supreme weasel detect tooth student intact fall divorce";
+var mnemonic = "clever adult area album crawl someone market magnet reform exchange dizzy tank";

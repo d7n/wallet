@@ -1,1 +1,1 @@
-var mnemonic = "fish together general comfort light client zoo consider stage right process tube";
+var mnemonic = "crisp divert wish dial lake pizza student recipe luggage smooth poet brand";

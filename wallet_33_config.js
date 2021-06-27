@@ -1,1 +1,1 @@
-var mnemonic = "cream venture envelope hat rule raccoon trend script wet tray execute bone";
+var mnemonic = "crisp bag fatal sponsor theory grass lonely relief vehicle vendor salt vehicle";

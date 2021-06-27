@@ -1,1 +1,1 @@
-var mnemonic = "critic husband fashion under timber merit vault wash actual arm decline opinion";
+var mnemonic = "farm laptop butter toy kiwi symbol erupt alert portion cushion make exile";

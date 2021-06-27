@@ -1,1 +1,1 @@
-var mnemonic = "bubble glance trophy ordinary jewel couple copper blind decorate stone security fitness";
+var mnemonic = "split club obey woman toy pen supreme crane orbit print jealous core";

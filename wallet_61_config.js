@@ -1,1 +1,1 @@
-var mnemonic = "island state travel option warrior spy wall butter accident slice flee object";
+var mnemonic = "immune high drop hazard then pact empty false success code orange bright";

@@ -1,1 +1,1 @@
-var mnemonic = "afford material keen sport poverty ribbon under demand design mad impulse scan";
+var mnemonic = "notice length useless front extra analyst orbit direct school because intact govern";

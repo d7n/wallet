@@ -1,1 +1,1 @@
-var mnemonic = "misery canyon injury leisure blanket wait truly crop knife soon follow tell";
+var mnemonic = "penalty open domain cheese wasp shop quick object ceiling pause envelope cram";
