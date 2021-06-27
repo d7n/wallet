@@ -1,1 +1,1 @@
-var mnemonic = "orchard alpha album off pizza pupil boy strong angry elevator rigid you";
+var mnemonic = "glide elegant gain ozone raccoon elbow scatter sustain material suit fortune sign";

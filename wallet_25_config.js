@@ -1,1 +1,1 @@
-var mnemonic = "example drink script angry hole vivid vote innocent raise mass toast deny";
+var mnemonic = "donate vessel plate thumb grant boil match fiber crack slow reward swallow";

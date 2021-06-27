@@ -1,1 +1,1 @@
-var mnemonic = "neck avoid gap coin pelican hire tail kite galaxy club season minor";
+var mnemonic = "tissue smoke unusual medal hold river roast large title bullet task own";

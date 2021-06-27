@@ -1,1 +1,1 @@
-var mnemonic = "wedding dragon pond vibrant rain mobile onion brisk faint alone involve crystal";
+var mnemonic = "sword loyal minimum sentence slender add arctic improve purchase deputy submit barely";

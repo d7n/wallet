@@ -1,1 +1,1 @@
-var mnemonic = "panda artist spare figure embark pudding garbage kingdom result master vibrant camera";
+var mnemonic = "injury winner quality twist aspect chicken six glad scene purse couple crash";

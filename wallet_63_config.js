@@ -1,1 +1,1 @@
-var mnemonic = "climb hazard motion donor funny pledge limb destroy gauge rigid kidney apart";
+var mnemonic = "outer farm track nuclear pony idea inhale cart suggest inquiry elevator notable";

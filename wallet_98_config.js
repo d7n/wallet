@@ -1,1 +1,1 @@
-var mnemonic = "auto buffalo lady fee wisdom void also elite tide stem now snake";
+var mnemonic = "bomb blouse tower romance word alpha solution name better chimney shoulder thank";

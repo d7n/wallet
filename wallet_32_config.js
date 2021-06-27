@@ -1,1 +1,1 @@
-var mnemonic = "later situate negative tomorrow rocket amazing barely pair bridge near elephant disease";
+var mnemonic = "hover deputy debris soap poverty quiz boring scheme unknown retreat orphan double";

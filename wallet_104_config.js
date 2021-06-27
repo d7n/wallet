@@ -1,1 +1,1 @@
-var mnemonic = "leader cinnamon fresh bind odor thumb option vapor smile urban shiver crucial";
+var mnemonic = "cherry abandon taste genius noble pair oak demise clap side holiday decrease";

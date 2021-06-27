@@ -1,1 +1,1 @@
-var mnemonic = "grape search trade rival question key quit bundle upset slide snow enable";
+var mnemonic = "home depth science flush pyramid valley human rose chapter wire enjoy source";

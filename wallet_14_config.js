@@ -1,1 +1,1 @@
-var mnemonic = "squirrel elbow hungry gym blush umbrella person bulb ready scissors popular swamp";
+var mnemonic = "climb normal panel proud chicken biology exact dry atom village truck dad";

@@ -1,1 +1,1 @@
-var mnemonic = "velvet crash draw dance tent shrug shy weather south dynamic thought fruit";
+var mnemonic = "episode physical option dilemma ridge love evoke suspect imitate gain page drastic";

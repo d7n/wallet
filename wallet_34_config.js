@@ -1,1 +1,1 @@
-var mnemonic = "scene goddess skull runway foil scene fringe ski weather hurdle thunder found";
+var mnemonic = "wealth high creek object jealous rough infant mix torch corn smart clock";

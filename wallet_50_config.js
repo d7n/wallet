@@ -1,1 +1,1 @@
-var mnemonic = "split muffin planet casino heart spread skull cake donate business build beach";
+var mnemonic = "turkey harbor traffic inquiry narrow guess badge orchard frost quit guilt candy";

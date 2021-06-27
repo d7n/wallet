@@ -1,1 +1,1 @@
-var mnemonic = "kit sauce first moon patch truth ridge thing fun pitch stamp link";
+var mnemonic = "lady unique wall capital vacuum mercy impact version library pledge cancel people";

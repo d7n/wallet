@@ -1,1 +1,1 @@
-var mnemonic = "ceiling before amateur column broken salmon analyst private confirm shoot toward lemon";
+var mnemonic = "run girl engine embrace bridge category insect nephew provide fossil comic giant";

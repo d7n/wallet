@@ -1,1 +1,1 @@
-var mnemonic = "glance message jewel supply little verify width smile play grab veteran purity";
+var mnemonic = "basic dance obvious body ski orphan drastic net parent cycle width fox";

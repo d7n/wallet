@@ -1,1 +1,1 @@
-var mnemonic = "slight oval wise ignore source goat music gasp drift lunch degree foil";
+var mnemonic = "gasp unhappy museum engage language unknown brave machine focus usage gentle mirror";

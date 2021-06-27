@@ -1,1 +1,1 @@
-var mnemonic = "settle cluster empty resemble dash teach tongue visit adapt among federal cry";
+var mnemonic = "call lava moment drip fabric home unaware recipe cradle tooth crush orphan";

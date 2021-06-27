@@ -1,1 +1,1 @@
-var mnemonic = "eight glance hub fiber pink oil umbrella move waste about hotel lava";
+var mnemonic = "left seek grape return include glimpse prevent obey power good develop tongue";

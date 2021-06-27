@@ -1,1 +1,1 @@
-var mnemonic = "second sister size song defense review paper steel welcome inquiry ship bomb";
+var mnemonic = "myth bring brand sick slam lion suit submit movie ring lucky animal";

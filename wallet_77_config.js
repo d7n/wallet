@@ -1,1 +1,1 @@
-var mnemonic = "casino dragon sorry violin few depart puzzle radar recall couch old dust";
+var mnemonic = "elder minor fetch chronic buyer slice purpose fence door under spare orbit";

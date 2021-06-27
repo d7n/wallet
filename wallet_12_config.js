@@ -1,1 +1,1 @@
-var mnemonic = "eternal rabbit predict orient year skin zero timber solar welcome advance favorite";
+var mnemonic = "robust group tackle aspect glow differ raw carbon camera upgrade hill tattoo";

@@ -1,1 +1,1 @@
-var mnemonic = "verify record hip health solve casual food rookie grocery poem erase leg";
+var mnemonic = "peasant write trend nasty wool embody must slush satoshi garment blur repair";

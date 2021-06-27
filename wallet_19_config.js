@@ -1,1 +1,1 @@
-var mnemonic = "ivory height library cream giant evil axis cotton clerk hair bicycle music";
+var mnemonic = "agent hurt tiny toilet cricket audit weird nose park curtain suspect carbon";

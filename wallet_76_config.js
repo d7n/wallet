@@ -1,1 +1,1 @@
-var mnemonic = "nuclear sure ask add old credit age again ocean swap coconut mountain";
+var mnemonic = "legend annual brisk zone pool observe view surface artist spice fuel lunch";

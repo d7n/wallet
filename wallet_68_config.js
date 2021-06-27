@@ -1,1 +1,1 @@
-var mnemonic = "firm crowd clean bleak walnut good riot vast prepare what hint better";
+var mnemonic = "dwarf ticket gesture deputy recipe movie sentence client gift autumn boy kitchen";

@@ -1,1 +1,1 @@
-var mnemonic = "woman hockey spy smart present hurry stamp cactus tackle ability response nasty";
+var mnemonic = "ceiling piece advice awake spot drift erupt arch royal slogan produce goose";

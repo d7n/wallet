@@ -1,1 +1,1 @@
-var mnemonic = "ozone nature divide kidney aisle slice cream pattern depth chalk essay cabbage";
+var mnemonic = "leaf aware endorse over give fury wild exile blossom leisure split unfair";

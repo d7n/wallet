@@ -1,1 +1,1 @@
-var mnemonic = "pitch fee crawl robust bacon excuse invest sell reduce duty owner rich";
+var mnemonic = "better finish lecture swim bubble supply nothing busy bunker cake weekend tornado";

@@ -1,1 +1,1 @@
-var mnemonic = "kitchen volcano dress subway short tunnel story verify hurry cash vacuum area";
+var mnemonic = "excess glare chase average gauge olive umbrella tail travel ill uphold tape";

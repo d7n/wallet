@@ -1,1 +1,1 @@
-var mnemonic = "can arm action life move gossip bid track deposit favorite lucky chaos";
+var mnemonic = "punch federal fade rotate mandate bring like tube stock jump what curious";

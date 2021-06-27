@@ -1,1 +1,1 @@
-var mnemonic = "recycle knee solar hobby exit maximum wild notable grocery parade anchor now";
+var mnemonic = "violin detail anchor art fiber razor price miss vital family inquiry forward";

@@ -1,1 +1,1 @@
-var mnemonic = "trend ethics cream grant talk alley repair renew nominee viable remind risk";
+var mnemonic = "shift action impact spray child expose siege that silent goddess hotel citizen";

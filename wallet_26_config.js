@@ -1,1 +1,1 @@
-var mnemonic = "credit long exchange lady okay stereo inject can hill stool control novel";
+var mnemonic = "flee slice armor man imitate spatial among marriage elder salt rough domain";

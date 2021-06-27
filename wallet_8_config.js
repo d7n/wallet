@@ -1,1 +1,1 @@
-var mnemonic = "common earth fix vessel lizard news decline expand route stumble cactus decrease";
+var mnemonic = "town sick hammer mobile direct guilt knife frame pulp grass owner vanish";

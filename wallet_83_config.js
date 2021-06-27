@@ -1,1 +1,1 @@
-var mnemonic = "evolve salon ski hidden recycle brain echo business loan mystery faculty sun";
+var mnemonic = "seven virtual mobile mixed matrix demise myth pyramid basket barely resist rate";

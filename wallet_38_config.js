@@ -1,1 +1,1 @@
-var mnemonic = "maple crystal cabbage echo team climb digital tonight clock huge genre dentist";
+var mnemonic = "front minute earth urban empower garage toward artist put open strategy picture";

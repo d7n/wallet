@@ -1,1 +1,1 @@
-var mnemonic = "sun attract horn bean virus melt ketchup almost cherry syrup fossil delay";
+var mnemonic = "diamond client palm nominee hurry claw reduce below what refuse various multiply";

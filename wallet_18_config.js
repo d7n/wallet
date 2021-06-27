@@ -1,1 +1,1 @@
-var mnemonic = "save model much govern buyer voice narrow chunk beauty final text slam";
+var mnemonic = "essence kind dish road abuse panda metal strategy citizen phrase seek soon";

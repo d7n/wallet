@@ -1,1 +1,1 @@
-var mnemonic = "width skirt brush luggage modify supreme demand gift refuse copy dose gorilla";
+var mnemonic = "rebuild pair coral forget any cloth zone creek hub inform sausage bag";

@@ -1,1 +1,1 @@
-var mnemonic = "close syrup lottery hamster coffee spider vessel shiver scout tower ladder proof";
+var mnemonic = "wrestle electric oil soon search urge pepper excite wine dog rice then";

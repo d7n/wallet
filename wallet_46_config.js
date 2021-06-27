@@ -1,1 +1,1 @@
-var mnemonic = "jazz whisper worth magic supply tortoise gain sheriff coast artefact blanket attend";
+var mnemonic = "liquid current sketch skin hazard smile edit jealous engage bracket outside clog";

@@ -1,1 +1,1 @@
-var mnemonic = "pig misery evoke behave utility swap pride brick bitter street south actress";
+var mnemonic = "action exhaust protect bird quote blast like wish like project excuse recall";

@@ -1,1 +1,1 @@
-var mnemonic = "purchase blame trade almost squirrel circle wide shaft gaze engine sustain target";
+var mnemonic = "despair cute bicycle video avocado airport grant bless maze phrase virtual rural";

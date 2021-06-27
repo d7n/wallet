@@ -1,1 +1,1 @@
-var mnemonic = "swim leg soon chef manage cable heart myself purity turtle monkey tongue";
+var mnemonic = "announce sock spoon quantum cousin water appear police outside cherry caution cake";

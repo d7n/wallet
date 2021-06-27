@@ -1,1 +1,1 @@
-var mnemonic = "trophy option soul select ahead vendor slice sell shell vendor thunder muffin";
+var mnemonic = "visa popular uniform soft estate health vault moon prepare weapon bonus virus";

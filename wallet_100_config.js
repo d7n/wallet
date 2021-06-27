@@ -1,1 +1,1 @@
-var mnemonic = "chest catch spend dilemma focus potato trash pyramid bench matter assume audit";
+var mnemonic = "shift foster sick sight morning entry install morning citizen pink bring coach";

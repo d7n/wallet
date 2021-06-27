@@ -1,1 +1,1 @@
-var mnemonic = "neglect feel gesture ostrich acoustic claim volume tide dose nominee start cup";
+var mnemonic = "chicken want lumber rocket oyster virtual april pigeon shiver motor people gain";

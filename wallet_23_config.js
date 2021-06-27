@@ -1,1 +1,1 @@
-var mnemonic = "climb office path enable quality diary quiz delay alcohol beach inch favorite";
+var mnemonic = "elegant glad jazz pave mad nerve source cat sister frost soup people";

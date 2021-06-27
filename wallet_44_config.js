@@ -1,1 +1,1 @@
-var mnemonic = "swift seek congress rival genius leader dirt solid strong jazz pave true";
+var mnemonic = "sense insect film decide milk marriage empty milk elegant talk promote project";

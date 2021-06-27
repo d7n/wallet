@@ -1,1 +1,1 @@
-var mnemonic = "salad spread rebuild receive hello album traffic practice topple parrot youth stem";
+var mnemonic = "toward gate food hub defense salad disagree wood dirt brick what basic";

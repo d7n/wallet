@@ -1,1 +1,1 @@
-var mnemonic = "injury imitate notice room hip dish funny clock explain february bone ticket";
+var mnemonic = "canoe alone hammer kitchen talent able front cannon yard shallow juice path";

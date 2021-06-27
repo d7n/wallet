@@ -1,1 +1,1 @@
-var mnemonic = "also today peanut rule vocal priority vivid slot tuna behind hidden idle";
+var mnemonic = "office visit pen strong screen candy deer awesome syrup mesh maid satoshi";

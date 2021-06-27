@@ -1,1 +1,1 @@
-var mnemonic = "adapt much spawn rhythm renew seed plunge law disagree blood drive rose";
+var mnemonic = "become avocado brand gate near broken nasty lecture salmon easy pink bullet";

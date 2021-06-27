@@ -1,1 +1,1 @@
-var mnemonic = "lunar legend manage useless dwarf muffin economy buffalo wheel subject reunion fly";
+var mnemonic = "alley bonus action stand spin suffer current weekend camera another midnight street";

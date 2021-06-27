@@ -1,1 +1,1 @@
-var mnemonic = "exact proud carbon village orient width popular filter cotton purse scheme balcony";
+var mnemonic = "check jump curtain furnace bulk position manual file illness phone cactus easily";

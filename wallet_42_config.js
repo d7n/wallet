@@ -1,1 +1,1 @@
-var mnemonic = "meat distance catch rice impose rebuild arm west custom zoo message bag";
+var mnemonic = "game coral boss salon miracle slow company common upper sphere meadow next";

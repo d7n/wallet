@@ -1,1 +1,1 @@
-var mnemonic = "brush skull tribe mention arrive chicken twelve squeeze tired deer small erode";
+var mnemonic = "pass price inspire accident invite awful aim brick humor talk spring smoke";

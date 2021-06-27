@@ -1,1 +1,1 @@
-var mnemonic = "blouse brother outer pact claim prosper wear material cradle bridge stick apology";
+var mnemonic = "crew addict august black twist comfort scan twin output thought glass student";

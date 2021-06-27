@@ -1,1 +1,1 @@
-var mnemonic = "board cotton release tourist belt jungle skull income life avocado health weasel";
+var mnemonic = "ten mutual dwarf pumpkin satoshi dragon fantasy vast grass tray essence negative";

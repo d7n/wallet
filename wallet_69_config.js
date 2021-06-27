@@ -1,1 +1,1 @@
-var mnemonic = "hobby remain gown enact undo become opinion planet hundred jaguar assist turkey";
+var mnemonic = "expect future wave argue swear shrug setup start alert river dentist west";

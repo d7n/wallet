@@ -1,1 +1,1 @@
-var mnemonic = "pond faith enroll latin wealth shift idle fly noise reopen tortoise faith";
+var mnemonic = "donate animal deliver crater pond good cube alone slot garment describe dilemma";

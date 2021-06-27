@@ -1,1 +1,1 @@
-var mnemonic = "retire coral size arctic teach type cruise pool net pear spoil direct";
+var mnemonic = "install marine trend empty try ripple real twist soon mimic jeans volcano";

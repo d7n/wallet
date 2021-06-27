@@ -1,1 +1,1 @@
-var mnemonic = "intact video mom carpet uncle destroy remove slow dog skin addict casual";
+var mnemonic = "tornado aerobic usage element obey raven bridge today execute broken either flavor";

@@ -1,1 +1,1 @@
-var mnemonic = "thing hundred couple razor demand anger salad metal faint height picnic amazing";
+var mnemonic = "weapon guess end address umbrella resource gossip disease enact future human only";

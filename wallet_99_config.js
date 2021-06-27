@@ -1,1 +1,1 @@
-var mnemonic = "ladder smile crash ancient attack tone wide brisk trust beach zebra surface";
+var mnemonic = "trap forward diamond anchor leave reunion nuclear left traffic average dolphin sustain";

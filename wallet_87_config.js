@@ -1,1 +1,1 @@
-var mnemonic = "adult agent balance execute pipe rose obvious awake vocal loud that subway";
+var mnemonic = "cave emerge grab code mule trial hybrid arrive code cram exotic laundry";

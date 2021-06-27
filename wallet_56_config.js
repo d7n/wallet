@@ -1,1 +1,1 @@
-var mnemonic = "strong bag garlic innocent alert moment expire this spread pride easy come";
+var mnemonic = "become device live nerve wreck spend hood fold approve hand buyer melt";

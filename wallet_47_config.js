@@ -1,1 +1,1 @@
-var mnemonic = "fade already eternal drill insane used blast ecology rice display comic correct";
+var mnemonic = "wrestle lumber purpose fine equal forget apology reunion depend oak crumble drama";

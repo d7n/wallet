@@ -1,1 +1,1 @@
-var mnemonic = "evil list midnight divert stuff rebuild enough print annual talent reunion shock";
+var mnemonic = "bracket hawk shine cannon patient must angry project churn law search hammer";

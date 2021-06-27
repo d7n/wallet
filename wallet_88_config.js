@@ -1,1 +1,1 @@
-var mnemonic = "scissors friend doll bird trash enable element roast plunge entry cactus fiber";
+var mnemonic = "sunny fetch regular middle journey state bike vacuum slight orbit good boring";

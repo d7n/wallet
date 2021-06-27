@@ -1,1 +1,1 @@
-var mnemonic = "real future silly ball valid name grocery balcony wide then crumble unlock";
+var mnemonic = "run minimum drink cute drama acquire arena van divide say portion evolve";

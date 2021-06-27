@@ -1,1 +1,1 @@
-var mnemonic = "million crime logic front achieve shallow misery scheme wrestle spoil sister flip";
+var mnemonic = "this charge can section train leaf output denial camp differ glare still";

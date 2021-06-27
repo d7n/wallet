@@ -1,1 +1,1 @@
-var mnemonic = "hamster giggle crumble pretty envelope brother bonus orient card argue degree diesel";
+var mnemonic = "segment maple fashion garlic wreck canvas choice fever secret nation kitchen used";

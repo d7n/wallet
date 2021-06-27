@@ -1,1 +1,1 @@
-var mnemonic = "link address tattoo double sock task wear plug shield gate there cupboard";
+var mnemonic = "turtle affair anchor disease chuckle truth often glimpse ghost orchard cool oil";

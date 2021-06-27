@@ -1,1 +1,1 @@
-var mnemonic = "foam cattle kid garage vocal destroy enough swap park sign annual banana";
+var mnemonic = "comfort bleak satisfy chef hire wrong segment pill budget morning air lake";

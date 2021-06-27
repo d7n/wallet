@@ -1,1 +1,1 @@
-var mnemonic = "cat stem treat sing all own inject popular rocket foot upper draw";
+var mnemonic = "snap ski iron obscure sport sketch clump pottery pen strong antenna head";

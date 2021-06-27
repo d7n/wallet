@@ -1,1 +1,1 @@
-var mnemonic = "trust hollow predict glance body cake someone lottery knock enable gospel street";
+var mnemonic = "laundry thought suffer distance shield bounce door march toward desk fragile goat";

@@ -1,1 +1,1 @@
-var mnemonic = "alley nothing artwork style furnace office whip lizard maximum pride purpose eye";
+var mnemonic = "budget essence topic fetch oven great century page make mammal rich crash";

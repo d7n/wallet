@@ -1,1 +1,1 @@
-var mnemonic = "nothing huge method amazing ahead answer tomorrow mind cupboard picnic position tennis";
+var mnemonic = "oven virtual remain basket celery address current undo draw dynamic minimum thrive";

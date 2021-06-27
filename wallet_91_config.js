@@ -1,1 +1,1 @@
-var mnemonic = "soup cart quiz crystal rival wear snow stumble paper drama group doctor";
+var mnemonic = "undo pet business deal filter oval toast runway sweet human distance valve";

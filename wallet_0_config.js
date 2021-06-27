@@ -1,1 +1,1 @@
-var mnemonic = "cabbage dream balance label trade mirror foam sport alpha attract multiply mosquito";
+var mnemonic = "parade sort absurd yard code various abandon filter solve copper fetch expect";

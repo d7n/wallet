@@ -1,1 +1,1 @@
-var mnemonic = "clip shed own humor fire believe slow rural tone reason thank orchard";
+var mnemonic = "hill harbor sister bulk oil sign tent daughter shoulder cabin chat gather";

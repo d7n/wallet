@@ -1,1 +1,1 @@
-var mnemonic = "group apple circle refuse depart please shy nominee learn dumb depend point";
+var mnemonic = "client flame february fatal baby brown measure beach great surround wink neither";

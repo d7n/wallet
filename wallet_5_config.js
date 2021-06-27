@@ -1,1 +1,1 @@
-var mnemonic = "surface bonus bar melt appear sign discover wheel daring miss jeans hunt";
+var mnemonic = "funny cat pole across shoot inform ladder depth craft keep business donor";

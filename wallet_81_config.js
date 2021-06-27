@@ -1,1 +1,1 @@
-var mnemonic = "manual endorse drill blood doll large exile cricket day island gather sure";
+var mnemonic = "crane olive twin between save cycle soul clog dynamic ripple axis parade";

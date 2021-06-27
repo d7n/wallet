@@ -1,1 +1,1 @@
-var mnemonic = "glue letter thumb burger onion glue shove market neither disorder glory wife";
+var mnemonic = "enough search cup menu foil puzzle luggage hurt laugh bleak unveil bench";

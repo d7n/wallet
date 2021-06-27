@@ -1,1 +1,1 @@
-var mnemonic = "donkey oval lemon cliff rather poverty car twist orbit bench tip angle";
+var mnemonic = "fragile curtain gift young topple trust fetch carbon prepare wolf interest mask";
