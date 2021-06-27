@@ -1,1 +1,1 @@
-var mnemonic = "palm fuel initial vessel invest rather awake link undo swamp civil universe";
+var mnemonic = "dish polar defense toe buffalo gather rare layer update clinic pioneer repeat";

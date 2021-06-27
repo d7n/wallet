@@ -1,1 +1,1 @@
-var mnemonic = "draft master shift coconut hammer image detail rather scene soul garden need";
+var mnemonic = "galaxy bus crop ceiling erase asset fortune absorb fun unaware inmate guess";

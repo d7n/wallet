@@ -1,1 +1,1 @@
-var mnemonic = "excuse judge junk novel often flee kick drink push uncover convince chalk";
+var mnemonic = "easily kit benefit pause slender nurse core palace kitten impulse receive ribbon";

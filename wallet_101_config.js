@@ -1,1 +1,1 @@
-var mnemonic = "earth trial noble total payment melody enforce heart dose goose purity wagon";
+var mnemonic = "kind body author stove raise ridge iron artefact dog final lend physical";

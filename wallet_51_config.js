@@ -1,1 +1,1 @@
-var mnemonic = "bonus toss aspect scan pitch title friend fog view job swarm wood";
+var mnemonic = "rocket choice pencil file belt unusual trip wedding neglect ordinary silk scheme";

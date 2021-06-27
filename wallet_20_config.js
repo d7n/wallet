@@ -1,1 +1,1 @@
-var mnemonic = "concert permit chief pitch upgrade soda lava robot floor chest insect puppy";
+var mnemonic = "kiss way satisfy tray fat goose sustain oval clog bundle summer skull";

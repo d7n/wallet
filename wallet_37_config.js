@@ -1,1 +1,1 @@
-var mnemonic = "gravity tip blind danger cube walnut approve double bird shoulder tooth spy";
+var mnemonic = "next dry purity remember crush sorry version reform nurse lab mirror cream";

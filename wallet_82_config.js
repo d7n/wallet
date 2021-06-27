@@ -1,1 +1,1 @@
-var mnemonic = "spell area chronic lounge glance acid photo fold tennis much oxygen differ";
+var mnemonic = "unknown theory pet hunt range remove absent craft neglect bounce museum cost";

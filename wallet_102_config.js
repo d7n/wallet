@@ -1,1 +1,1 @@
-var mnemonic = "sense asthma scrap sport ahead expose clever left black protect laundry inject";
+var mnemonic = "foil shrug disease system annual winter ahead original patch ugly item habit";

@@ -1,1 +1,1 @@
-var mnemonic = "muffin reform identify essay alpha giggle load advance print rain polar assault";
+var mnemonic = "fat inflict slender view unaware drip delay swap pull juice pink profit";

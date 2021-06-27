@@ -1,1 +1,1 @@
-var mnemonic = "surround finger tobacco among nut rifle bulb dad dove purchase arrange step";
+var mnemonic = "dinner creek spot vote caught artist face cancel entire suggest lesson audit";

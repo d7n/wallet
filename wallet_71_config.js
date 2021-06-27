@@ -1,1 +1,1 @@
-var mnemonic = "absurd elbow mobile hold bar neutral spring royal tongue valve pledge race";
+var mnemonic = "retire good mom upgrade slogan stay inspire matrix tattoo modify cattle accident";

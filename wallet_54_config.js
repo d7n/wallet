@@ -1,1 +1,1 @@
-var mnemonic = "duck ginger story jelly must gaze admit pistol roof paddle nose spare";
+var mnemonic = "keen travel reopen token monster polar prosper urban once super sentence deny";

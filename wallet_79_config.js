@@ -1,1 +1,1 @@
-var mnemonic = "whip know escape snack churn moon inner multiply about throw absent involve";
+var mnemonic = "cash fuel price enforce pond entire artefact book peasant radar island assist";

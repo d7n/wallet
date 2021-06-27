@@ -1,1 +1,1 @@
-var mnemonic = "nest suggest own play roast buddy unaware black clever syrup midnight gate";
+var mnemonic = "leader arena power text empty hair twelve diamond viable loud violin junk";

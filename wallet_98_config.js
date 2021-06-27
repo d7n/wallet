@@ -1,1 +1,1 @@
-var mnemonic = "legend luggage remain seminar furnace truly wise quote pact air find ginger";
+var mnemonic = "beauty dutch occur provide tone skill rib comfort end hour fossil robot";

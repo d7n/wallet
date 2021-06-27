@@ -1,1 +1,1 @@
-var mnemonic = "afraid shed utility tank useless runway comic razor laundry abstract hidden scissors";
+var mnemonic = "obtain feature lawsuit edit you reason unusual neutral setup two upon message";

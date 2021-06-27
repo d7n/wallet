@@ -1,1 +1,1 @@
-var mnemonic = "defense travel else garage solve accuse lemon alcohol segment they lion project";
+var mnemonic = "phone gaze record better suit swap advice check proof travel enough ten";

@@ -1,1 +1,1 @@
-var mnemonic = "chicken resemble isolate heavy obvious topic near index fit clay wrist law";
+var mnemonic = "maximum panel prosper slab advance yellow spoil visual disorder cry master boost";

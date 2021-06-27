@@ -1,1 +1,1 @@
-var mnemonic = "early lens morning about topple leave scan profit quarter rifle season lens";
+var mnemonic = "magnet opinion expect skate top leave summer rescue uphold melody auto fish";

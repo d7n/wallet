@@ -1,1 +1,1 @@
-var mnemonic = "minute museum glide push system focus fish price neither urge remain small";
+var mnemonic = "history insect earn cruel pluck eight endorse wild always crash garbage inject";

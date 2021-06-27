@@ -1,1 +1,1 @@
-var mnemonic = "any pelican engine typical crystal soul tortoise describe unusual switch impose virus";
+var mnemonic = "left all surprise hammer tennis whisper tool quiz pelican armor twin age";

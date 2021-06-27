@@ -1,1 +1,1 @@
-var mnemonic = "decorate whip cousin heavy digital myth recycle switch dignity tumble relief divorce";
+var mnemonic = "envelope symptom rotate love ethics become north tone game common enable rule";

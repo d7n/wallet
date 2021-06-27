@@ -1,1 +1,1 @@
-var mnemonic = "enact illness quarter day hub fork emerge often battle include good weapon";
+var mnemonic = "fever shield jump travel grid divorce object assume best owner rocket badge";

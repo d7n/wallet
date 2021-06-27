@@ -1,1 +1,1 @@
-var mnemonic = "bonus twin again embark slogan blush accident chronic happy unable rough shaft";
+var mnemonic = "gospel check envelope earn pair feature truck merry travel require hint fame";

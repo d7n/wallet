@@ -1,1 +1,1 @@
-var mnemonic = "supply learn excite exotic draft trial analyst step congress carry reject sausage";
+var mnemonic = "popular vacant aerobic uncle finish range account metal rubber permit tone enhance";

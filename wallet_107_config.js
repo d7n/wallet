@@ -1,1 +1,1 @@
-var mnemonic = "harbor despair swarm hobby inform rely anchor fat concert grief bronze wheat";
+var mnemonic = "stem coin gasp peace prepare glory brand rare melody brush assault toe";

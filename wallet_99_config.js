@@ -1,1 +1,1 @@
-var mnemonic = "write ecology vivid reunion laptop label engine brisk crystal rail afraid foam";
+var mnemonic = "scheme pulse kidney elbow flower alone sustain broken answer pass alpha law";

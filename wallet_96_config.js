@@ -1,1 +1,1 @@
-var mnemonic = "oven cement whale secret kiwi name oak hip pepper stumble owner divorce";
+var mnemonic = "human capital know welcome portion question company air roof run say quote";

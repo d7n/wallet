@@ -1,1 +1,1 @@
-var mnemonic = "category tackle indoor immense wrong canyon moment grace pyramid ritual diary enable";
+var mnemonic = "inform pulp add photo income tourist exercise dumb burst term coil foam";

@@ -1,1 +1,1 @@
-var mnemonic = "sausage tobacco attract album giant season noble fiscal alert change friend surprise";
+var mnemonic = "acoustic cotton strong advice young ceiling matter poverty one gown amused fee";

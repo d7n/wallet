@@ -1,1 +1,1 @@
-var mnemonic = "net patrol bunker exist affair monkey expire network hold habit walk album";
+var mnemonic = "ugly remind ramp oyster zero eyebrow online toy trigger legal bronze sand";

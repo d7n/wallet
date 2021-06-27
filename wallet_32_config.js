@@ -1,1 +1,1 @@
-var mnemonic = "cook various october service because cigar aim hidden will culture car share";
+var mnemonic = "soldier monster warfare dry enable citizen image fox grant fee unaware leg";

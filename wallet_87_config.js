@@ -1,1 +1,1 @@
-var mnemonic = "spin toilet version cup beyond stuff oval monitor zebra style index diamond";
+var mnemonic = "clock report trade thank decorate double rebuild genius pass casual detail rhythm";

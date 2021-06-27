@@ -1,1 +1,1 @@
-var mnemonic = "uncover section sustain october bag goddess refuse ice know link wish wrap";
+var mnemonic = "awake scout island address romance dizzy lab thought ski false lake hammer";

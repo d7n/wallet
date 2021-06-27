@@ -1,1 +1,1 @@
-var mnemonic = "one sting rude limb work tennis side body dinner water carry ridge";
+var mnemonic = "mind echo oven elite already eternal myself awkward steel option need post";

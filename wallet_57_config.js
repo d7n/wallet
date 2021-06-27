@@ -1,1 +1,1 @@
-var mnemonic = "young dynamic evil over hockey stairs blanket join depart vapor mask potato";
+var mnemonic = "federal rival usage violin gown logic alpha nut machine pilot purpose infant";

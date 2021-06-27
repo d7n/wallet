@@ -1,1 +1,1 @@
-var mnemonic = "canoe flash tissue edge breeze defense element style win hamster client just";
+var mnemonic = "boss fluid float guitar siren orange car news snow quarter leisure century";

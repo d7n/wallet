@@ -1,1 +1,1 @@
-var mnemonic = "fever broccoli model room dilemma doctor prefer midnight slot stove chat lucky";
+var mnemonic = "eternal place curtain power depend shift debris prize during join tomato victory";

@@ -1,1 +1,1 @@
-var mnemonic = "kingdom spare funny eye recycle obscure wear purity borrow power hole brief";
+var mnemonic = "dilemma bitter nothing wine link then bounce school replace gas alcohol tent";

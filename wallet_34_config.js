@@ -1,1 +1,1 @@
-var mnemonic = "nature person pepper trash west combine island alcohol ordinary invest hour middle";
+var mnemonic = "tag weasel evil come hire frog decrease hold license notice spell soccer";

@@ -1,1 +1,1 @@
-var mnemonic = "civil door urban banner axis tent welcome ahead unique blouse silver filter";
+var mnemonic = "giggle sadness amazing assault setup scare manual pottery voice exact volume general";

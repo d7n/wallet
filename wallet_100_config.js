@@ -1,1 +1,1 @@
-var mnemonic = "sand bachelor circle quick palm subway lava umbrella scene weather fiction prize";
+var mnemonic = "diesel service crucial melt coyote demise dentist club surround depart once will";

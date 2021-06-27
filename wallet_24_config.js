@@ -1,1 +1,1 @@
-var mnemonic = "flee jungle offer tag congress tube ticket ahead until cabbage laundry town";
+var mnemonic = "find thrive chalk net bulk wrestle churn curious fat green turn wear";

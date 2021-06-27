@@ -1,1 +1,1 @@
-var mnemonic = "cause list uniform decrease cost black unveil jazz image flag depth lecture";
+var mnemonic = "disorder gas lens cruel spatial donkey essay organ flee broccoli act opinion";

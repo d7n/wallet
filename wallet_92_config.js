@@ -1,1 +1,1 @@
-var mnemonic = "course media area random carbon thank mystery pen satoshi balance muscle cash";
+var mnemonic = "rotate pledge unusual liquid sentence wheat anxiety link physical ice chalk energy";

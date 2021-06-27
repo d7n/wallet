@@ -1,1 +1,1 @@
-var mnemonic = "gas bid also industry spot into amazing adjust beef demand dance doll";
+var mnemonic = "gate typical differ father start bulk goat similar legend lottery lonely receive";

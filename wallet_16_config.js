@@ -1,1 +1,1 @@
-var mnemonic = "game body abandon hello faculty dog demand extend squeeze food lesson city";
+var mnemonic = "infant way phone deliver affair moon clay hammer flower blossom chunk hello";

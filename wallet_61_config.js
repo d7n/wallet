@@ -1,1 +1,1 @@
-var mnemonic = "bar toward suggest error popular pole card observe glide rookie drive occur";
+var mnemonic = "valid middle ketchup chuckle kit force since coconut rotate visa abandon dilemma";

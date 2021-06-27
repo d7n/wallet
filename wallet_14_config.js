@@ -1,1 +1,1 @@
-var mnemonic = "minimum urban time amazing someone tone wood become output order version flag";
+var mnemonic = "mean often mandate guitar name club order siren year road fall slice";

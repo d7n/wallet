@@ -1,1 +1,1 @@
-var mnemonic = "dance cotton vintage express fiction hand fox main song atom such often";
+var mnemonic = "bitter tent judge minimum rail involve butter echo able road swear refuse";

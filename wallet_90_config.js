@@ -1,1 +1,1 @@
-var mnemonic = "frequent own any merit liberty rely good turkey travel crash cupboard between";
+var mnemonic = "scheme ring omit valve reject right jewel nose office multiply modify anxiety";

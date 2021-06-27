@@ -1,1 +1,1 @@
-var mnemonic = "female tail hurt thumb photo time call snack sign seminar print october";
+var mnemonic = "because feel coyote crisp traffic device kitten detect member page chunk benefit";

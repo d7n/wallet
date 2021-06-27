@@ -1,1 +1,1 @@
-var mnemonic = "kit test possible begin only affair bulk gentle idea ladder arctic raw";
+var mnemonic = "twin hire market lounge adapt humble loyal shy clay dolphin olympic odor";

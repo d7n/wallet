@@ -1,1 +1,1 @@
-var mnemonic = "science health couch upset that guess crazy solar flight sail link caught";
+var mnemonic = "celery invest rack clarify cake aspect twenty usage burst obtain space police";

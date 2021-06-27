@@ -1,1 +1,1 @@
-var mnemonic = "emotion dance sport manage october monster success indicate target clever attend nest";
+var mnemonic = "fly club primary blush gate width casino disagree hockey guide thumb bread";

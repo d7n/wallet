@@ -1,1 +1,1 @@
-var mnemonic = "volume clump whale inch figure popular doctor planet fuel equip carry debate";
+var mnemonic = "quantum museum mango oil critic crush motor talk jacket state radar whisper";

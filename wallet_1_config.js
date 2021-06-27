@@ -1,1 +1,1 @@
-var mnemonic = "item ready record chef knee across people apple lock forum west debate";
+var mnemonic = "diagram wise pledge lonely strong avocado business love ordinary also pencil flock";

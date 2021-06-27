@@ -1,1 +1,1 @@
-var mnemonic = "sound never vintage blind always cause home mystery diet about trick choice";
+var mnemonic = "element gift cactus charge give tortoise increase peasant please crouch poverty panda";

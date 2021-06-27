@@ -1,1 +1,1 @@
-var mnemonic = "fence hundred polar upon adult present thing shrug area crane snow essay";
+var mnemonic = "seminar crunch blanket lawn answer smoke broccoli arctic blade hood acquire boost";

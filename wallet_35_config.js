@@ -1,1 +1,1 @@
-var mnemonic = "keen betray oblige foot avocado three snake horn owner someone bamboo popular";
+var mnemonic = "vacuum joy pig patch tank endless common name primary gas torch blanket";

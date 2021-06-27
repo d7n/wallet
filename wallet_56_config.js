@@ -1,1 +1,1 @@
-var mnemonic = "badge rice sleep right elevator quality grit fork dizzy helmet true ill";
+var mnemonic = "scale reflect tornado amazing various address achieve police display finger foot kiwi";

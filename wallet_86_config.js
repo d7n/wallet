@@ -1,1 +1,1 @@
-var mnemonic = "uniform raccoon glance wing start spend cement gossip panic useful apology notice";
+var mnemonic = "shoot current check world swallow reform check correct deposit net fork edge";

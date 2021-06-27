@@ -1,1 +1,1 @@
-var mnemonic = "olive ocean artwork mesh vital skin latin slush sail render because cruel";
+var mnemonic = "affair hawk define roof brain girl exile version blade marriage bulb engage";

@@ -1,1 +1,1 @@
-var mnemonic = "merge term congress elevator taxi online knock city snap file absent left";
+var mnemonic = "ring trend usage fortune salmon spike cement village sing chimney dove size";

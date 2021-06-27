@@ -1,1 +1,1 @@
-var mnemonic = "grocery next early result gate vacuum fatigue common cattle play only wire";
+var mnemonic = "deny trouble harsh current shoe east advance fall glance subject stay cool";

@@ -1,1 +1,1 @@
-var mnemonic = "shell valid robust mesh salon tourist purchase forget hazard welcome try inform";
+var mnemonic = "scale neck ankle fault globe near situate uncle hedgehog royal enable kangaroo";

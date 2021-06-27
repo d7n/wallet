@@ -1,1 +1,1 @@
-var mnemonic = "wagon major crush radio process talk can jacket fork lumber hire cost";
+var mnemonic = "bargain plunge mechanic library furnace unknown lumber insect empower saddle potato goat";

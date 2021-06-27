@@ -1,1 +1,1 @@
-var mnemonic = "bike dove scale siren valley live float slogan admit curtain private kiwi";
+var mnemonic = "purse hair dizzy aisle over apple craft settle tennis oppose coast novel";

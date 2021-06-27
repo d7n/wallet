@@ -1,1 +1,1 @@
-var mnemonic = "grief laptop correct guard great sweet cart acquire mule poet any situate";
+var mnemonic = "move client island dog juice combine area hidden need catch host proud";

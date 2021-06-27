@@ -1,1 +1,1 @@
-var mnemonic = "potato athlete point shine monster section giggle phone core timber quantum outdoor";
+var mnemonic = "collect squirrel follow season client merge weapon senior emotion tornado quarter seat";

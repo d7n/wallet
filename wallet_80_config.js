@@ -1,1 +1,1 @@
-var mnemonic = "clinic exit trumpet salmon sword fringe spawn peasant public guess wall cover";
+var mnemonic = "toy lab spoil orchard sure mass hard vicious borrow chicken blanket axis";

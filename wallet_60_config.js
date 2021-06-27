@@ -1,1 +1,1 @@
-var mnemonic = "edit pencil cream rebuild venue situate train glare project truck better total";
+var mnemonic = "father wrestle ketchup awake coast hair banner walnut region fringe common army";

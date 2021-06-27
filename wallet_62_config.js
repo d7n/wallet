@@ -1,1 +1,1 @@
-var mnemonic = "demand grief guilt invite charge run you merge sweet erosion note insane";
+var mnemonic = "team input spirit sentence example olympic pencil sing work garbage special elbow";

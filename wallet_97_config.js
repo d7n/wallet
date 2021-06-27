@@ -1,1 +1,1 @@
-var mnemonic = "bottom rail call luggage horn learn miss fuel reward lift mom physical";
+var mnemonic = "range horn shove nuclear come major truth either east destroy law yellow";

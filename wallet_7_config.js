@@ -1,1 +1,1 @@
-var mnemonic = "steel ostrich alley quality welcome lottery athlete jeans witness entry fashion glide";
+var mnemonic = "icon betray sense source address cloth about can team strong witness domain";

@@ -1,1 +1,1 @@
-var mnemonic = "inform concert pilot castle chronic easily plunge asset confirm merge glue orient";
+var mnemonic = "estate shrimp family bind fox elite year spider blanket hover whip space";

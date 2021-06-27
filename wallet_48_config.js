@@ -1,1 +1,1 @@
-var mnemonic = "bleak boy digital belt diary outer useless tuition turkey minute cram poem";
+var mnemonic = "paddle moment organ mask monitor shy glimpse dynamic inhale hunt panther dice";

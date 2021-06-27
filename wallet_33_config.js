@@ -1,1 +1,1 @@
-var mnemonic = "company vocal spawn cloud asthma hope render pluck scrap grunt off devote";
+var mnemonic = "resemble genuine speak fuel spread gather hover rely evil garden dove cement";

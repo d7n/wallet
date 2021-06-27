@@ -1,1 +1,1 @@
-var mnemonic = "hammer box across assault winner tomorrow where reveal oblige primary oxygen attend";
+var mnemonic = "grit holiday business where creek walnut brother gentle mix prefer clarify embark";

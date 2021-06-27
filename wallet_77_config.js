@@ -1,1 +1,1 @@
-var mnemonic = "tomato frozen opera saddle people excuse exotic network make tell dad punch";
+var mnemonic = "enemy disagree confirm twin human solve rookie grief pupil rail interest sketch";

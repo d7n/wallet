@@ -1,1 +1,1 @@
-var mnemonic = "name renew original double amount draft balcony salon icon memory govern pilot";
+var mnemonic = "divert blue tobacco stereo return chimney parrot cover mixture tape shield trumpet";

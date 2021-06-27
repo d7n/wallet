@@ -1,1 +1,1 @@
-var mnemonic = "hello material fix dutch give crowd tell drive next girl detail sausage";
+var mnemonic = "unit author inmate wash traffic service card key adult piano music protect";

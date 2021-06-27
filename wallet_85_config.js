@@ -1,1 +1,1 @@
-var mnemonic = "athlete armor true rug embrace main champion wire donkey success carry note";
+var mnemonic = "book pill witness ready mixed boss soccer cancel ramp scan rich vast";

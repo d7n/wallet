@@ -1,1 +1,1 @@
-var mnemonic = "mimic jealous favorite faculty desert high dwarf window thumb make property stomach";
+var mnemonic = "print dose assault zero pulse safe ozone grunt desk danger library common";

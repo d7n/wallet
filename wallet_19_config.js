@@ -1,1 +1,1 @@
-var mnemonic = "patch session silly crunch immune surface fitness endless ritual carbon pear denial";
+var mnemonic = "brave copper town dignity dutch accuse once session bright update clock upon";

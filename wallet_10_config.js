@@ -1,1 +1,1 @@
-var mnemonic = "wrong hour cabin loud away solve blush ankle differ endorse deposit harbor";
+var mnemonic = "suffer already nerve animal pistol duty escape west toddler pig nation kiwi";

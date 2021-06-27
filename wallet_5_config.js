@@ -1,1 +1,1 @@
-var mnemonic = "clerk mandate era thrive other tackle wonder outside inside celery soldier clerk";
+var mnemonic = "bacon merge lawn agree couple alien better piano quit inmate eyebrow pig";

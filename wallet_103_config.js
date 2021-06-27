@@ -1,1 +1,1 @@
-var mnemonic = "oval rookie bread pet torch mass offer collect ordinary twice length proof";
+var mnemonic = "burden elbow junk jacket drop end demand above ankle run sorry unable";
