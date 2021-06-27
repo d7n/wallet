@@ -1,1 +1,1 @@
-var mnemonic = "imitate equal away grid cannon idea eager city jump jewel truck regular";
+var mnemonic = "athlete gesture tortoise harbor another stone whisper aunt ball space chest cushion";

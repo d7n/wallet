@@ -1,1 +1,1 @@
-var mnemonic = "brand rude make action cart motor nest bachelor one team olive tree";
+var mnemonic = "news exchange goddess treat chimney alert tomato knife peanut favorite shoulder borrow";

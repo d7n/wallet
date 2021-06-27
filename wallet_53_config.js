@@ -1,1 +1,1 @@
-var mnemonic = "cause gather pole decade basic elder pottery kit decorate pet affair behave";
+var mnemonic = "melt wire dice fame bread thunder call oppose turn skull provide noodle";

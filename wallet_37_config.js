@@ -1,1 +1,1 @@
-var mnemonic = "coffee morning insect garbage fever viable neither over horse card age maple";
+var mnemonic = "subway vacuum shoot satisfy panda number consider response good choose empty company";

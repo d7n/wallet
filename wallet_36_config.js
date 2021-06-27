@@ -1,1 +1,1 @@
-var mnemonic = "crater milk mad half omit below velvet wrist invite casual remain poverty";
+var mnemonic = "promote chaos bargain barely account empower wine ride odor maid ugly acoustic";

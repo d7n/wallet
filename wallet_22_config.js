@@ -1,1 +1,1 @@
-var mnemonic = "evoke lounge card raw vague explain trade divert state crawl until trial";
+var mnemonic = "always public ceiling poet valid injury one news doctor fine option high";

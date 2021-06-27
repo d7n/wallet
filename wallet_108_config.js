@@ -1,1 +1,1 @@
-var mnemonic = "undo wedding friend transfer wait dutch pigeon nothing upset essay type setup";
+var mnemonic = "door ticket rotate among razor velvet crisp recycle weapon strike radio tomato";

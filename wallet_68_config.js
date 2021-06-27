@@ -1,1 +1,1 @@
-var mnemonic = "neglect scene sure electric patch expand pyramid clutch wagon bring bracket velvet";
+var mnemonic = "middle train distance situate found earth special advice bench alarm help spoil";

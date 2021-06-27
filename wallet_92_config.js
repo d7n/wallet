@@ -1,1 +1,1 @@
-var mnemonic = "canvas want client catch joke dumb mixture duck talk fish conduct common";
+var mnemonic = "cherry answer science vote park vote naive bag ordinary nothing myth enhance";

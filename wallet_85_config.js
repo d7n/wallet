@@ -1,1 +1,1 @@
-var mnemonic = "solar provide clog nurse loop face hood radar vibrant breeze produce gasp";
+var mnemonic = "swim guard little arctic drift theory around eye kick almost carry human";

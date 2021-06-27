@@ -1,1 +1,1 @@
-var mnemonic = "axis special pave join tower page spike scheme chair coffee brass kitchen";
+var mnemonic = "hat solar slab rhythm coil unusual bonus decade era hard nothing blur";

@@ -1,1 +1,1 @@
-var mnemonic = "private save diary olympic just fiction bless genius today vote embody grunt";
+var mnemonic = "radar produce comfort section quit cotton cotton what sunny razor grow present";

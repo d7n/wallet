@@ -1,1 +1,1 @@
-var mnemonic = "update indicate wrist arm motion better must theme squeeze describe coach insect";
+var mnemonic = "draft coil fat someone butter science record peanut plastic advice fatigue summer";

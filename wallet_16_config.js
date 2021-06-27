@@ -1,1 +1,1 @@
-var mnemonic = "spatial exercise west final ankle soup fall casual broccoli dad join oppose";
+var mnemonic = "crater satisfy jelly forget radio wagon sheriff analyst define mail phone kit";

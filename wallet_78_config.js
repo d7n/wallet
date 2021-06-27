@@ -1,1 +1,1 @@
-var mnemonic = "false display pulse weekend trip journey tragic crouch any winner sample safe";
+var mnemonic = "ordinary cruel famous health guilt upset trigger prepare plate bicycle permit ignore";

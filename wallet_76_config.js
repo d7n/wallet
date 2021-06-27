@@ -1,1 +1,1 @@
-var mnemonic = "favorite bird ordinary acquire zero ahead absurd segment stereo lumber indicate art";
+var mnemonic = "merit fiscal network soda exist escape firm address unfold relief flight lucky";

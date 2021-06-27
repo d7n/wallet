@@ -1,1 +1,1 @@
-var mnemonic = "monster clarify vivid obscure million silly bridge review face canoe donor alley";
+var mnemonic = "fire resource battle robot service draw curtain tattoo change whisper omit arena";

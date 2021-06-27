@@ -1,1 +1,1 @@
-var mnemonic = "increase off noble child tilt inmate extra federal blouse bring buffalo alcohol";
+var mnemonic = "burger doctor iron poet cost awesome comic enter cat pizza fit option";

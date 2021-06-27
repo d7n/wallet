@@ -1,1 +1,1 @@
-var mnemonic = "simple gift tonight this play stage symbol lunch hockey tooth worth vacuum";
+var mnemonic = "cancel fever text winner arrive hero shaft monster wonder defense valley narrow";

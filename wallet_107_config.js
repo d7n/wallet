@@ -1,1 +1,1 @@
-var mnemonic = "valid relax salute scare video vacant bitter increase teach price spider also";
+var mnemonic = "skin favorite motion dial crawl key one rely pumpkin code talent toe";

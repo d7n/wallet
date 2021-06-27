@@ -1,1 +1,1 @@
-var mnemonic = "wide honey lucky usage anger royal potato brief volcano fortune dilemma wreck";
+var mnemonic = "orange rent embrace desert meadow tomorrow pizza wash middle turkey liquid shield";

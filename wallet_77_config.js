@@ -1,1 +1,1 @@
-var mnemonic = "become smoke width length mercy school believe mask reduce motor toy timber";
+var mnemonic = "hobby person lobster spawn blind virtual grace online team disorder swamp space";

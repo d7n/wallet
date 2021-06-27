@@ -1,1 +1,1 @@
-var mnemonic = "spoon entire avoid razor small already fancy remain enlist menu play stove";
+var mnemonic = "tag wool captain wool reward equip guard away scatter sauce screen dirt";

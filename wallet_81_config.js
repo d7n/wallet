@@ -1,1 +1,1 @@
-var mnemonic = "galaxy universe start suggest sting inhale people during smooth argue ignore spell";
+var mnemonic = "episode artefact double address garbage sister sword address destroy expect clip host";

@@ -1,1 +1,1 @@
-var mnemonic = "naive horror during beyond motor dentist foster deposit prize grit toward carry";
+var mnemonic = "embrace original almost dutch brother eye fatal equal injury wish absorb hip";

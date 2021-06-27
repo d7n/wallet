@@ -1,1 +1,1 @@
-var mnemonic = "laptop degree front file usual inside across dress stadium toss boy illness";
+var mnemonic = "already city ignore calm bag doll swim custom depend lazy despair bus";

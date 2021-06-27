@@ -1,1 +1,1 @@
-var mnemonic = "panther donkey mandate connect grab draw wise absorb insane gasp cigar kite";
+var mnemonic = "account virtual wink lunar sign snap honey wrestle ill pistol garment boat";

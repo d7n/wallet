@@ -1,1 +1,1 @@
-var mnemonic = "quality income balance wonder polar online inch clay offer quantum simple wood";
+var mnemonic = "ancient metal still circle remain catch exist trend cross one basket crater";

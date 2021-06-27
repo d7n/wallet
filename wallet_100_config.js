@@ -1,1 +1,1 @@
-var mnemonic = "problem must denial theory mail sail utility certain uphold prison coffee ready";
+var mnemonic = "resist kite edge upgrade peasant pelican chapter clerk cheap general venture parent";

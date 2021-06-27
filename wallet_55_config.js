@@ -1,1 +1,1 @@
-var mnemonic = "decide curious fade egg kid shove crazy lion divide demand genre math";
+var mnemonic = "magnet spare observe cage original carry relax around exercise insane taxi prison";

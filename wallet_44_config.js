@@ -1,1 +1,1 @@
-var mnemonic = "milk upper feature chase purse photo whip piano rather another trend kitten";
+var mnemonic = "grass scatter radar tell glare flush legal utility there shine enact portion";

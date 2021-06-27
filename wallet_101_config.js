@@ -1,1 +1,1 @@
-var mnemonic = "round float sauce soccer clerk just video mirror below floor rug universe";
+var mnemonic = "orient hospital document moment wheat net link version dawn release snap because";

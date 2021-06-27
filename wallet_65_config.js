@@ -1,1 +1,1 @@
-var mnemonic = "page aspect cage glide melt fragile help dune artwork total decide evoke";
+var mnemonic = "flee long wish club head worth skull robust cart dwarf tortoise expose";

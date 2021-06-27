@@ -1,1 +1,1 @@
-var mnemonic = "lounge regular strategy ignore local raccoon south become circle cargo cloth bacon";
+var mnemonic = "grass sound hunt hungry syrup motion census range swift six beach cost";

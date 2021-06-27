@@ -1,1 +1,1 @@
-var mnemonic = "slow rather wolf soft suit only laptop receive size include trigger better";
+var mnemonic = "often upper old wait define leave match leader tomorrow smoke toilet nation";

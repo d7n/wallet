@@ -1,1 +1,1 @@
-var mnemonic = "pig ship ill fabric illegal erode walk auto infant dose usual vapor";
+var mnemonic = "amazing borrow skate sense airport maple avocado teach flag piano rebel coral";

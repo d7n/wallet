@@ -1,1 +1,1 @@
-var mnemonic = "water parade vessel mosquito unveil loan please theory hole enable stick gain";
+var mnemonic = "door juice north confirm tissue boil valid dry token receive oil question";

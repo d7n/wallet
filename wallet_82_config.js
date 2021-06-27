@@ -1,1 +1,1 @@
-var mnemonic = "allow issue route you soda size mammal brief onion parent slush drive";
+var mnemonic = "best above dove wise unusual result damage sorry victory climb shuffle peace";

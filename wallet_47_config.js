@@ -1,1 +1,1 @@
-var mnemonic = "sting room fix need voyage fantasy brick voyage sunset treat enrich immune";
+var mnemonic = "cube world coffee senior wild acid arctic custom tell cactus stadium van";

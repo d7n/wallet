@@ -1,1 +1,1 @@
-var mnemonic = "stick wagon cabin winter glass rocket benefit insane absent weekend network erupt";
+var mnemonic = "usage hurry business program exchange fitness pottery harbor expect winner awake country";

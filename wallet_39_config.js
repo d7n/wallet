@@ -1,1 +1,1 @@
-var mnemonic = "garment plastic february panic brave jaguar rely faith inmate lecture near strike";
+var mnemonic = "ethics gentle donor result vicious patient finger unable type symptom region feature";

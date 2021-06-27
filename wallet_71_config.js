@@ -1,1 +1,1 @@
-var mnemonic = "enemy drum color switch since lift pave machine chest what program trust";
+var mnemonic = "moral later gospel dinner pumpkin camp fan sister accident away primary custom";

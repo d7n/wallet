@@ -1,1 +1,1 @@
-var mnemonic = "cave kangaroo spread extra record detail nasty private cash estate occur hazard";
+var mnemonic = "apart grit tail you harvest dirt repeat donate bridge public dune next";

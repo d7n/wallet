@@ -1,1 +1,1 @@
-var mnemonic = "setup cycle portion sight paper slight number urge enemy figure gun hundred";
+var mnemonic = "section opinion charge ridge fork please echo service level artist danger chef";

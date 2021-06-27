@@ -1,1 +1,1 @@
-var mnemonic = "resist habit hospital family lion display light august tower drum identify fringe";
+var mnemonic = "weekend age improve plunge region churn wolf then near basket brother source";

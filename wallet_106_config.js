@@ -1,1 +1,1 @@
-var mnemonic = "wide clean day grace crew absorb perfect satisfy friend denial reveal timber";
+var mnemonic = "limb need exact harvest else fly system tomato addict peace search salmon";

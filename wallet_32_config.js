@@ -1,1 +1,1 @@
-var mnemonic = "target million media room devote rigid talk tag simple mail tide wolf";
+var mnemonic = "shell source avocado wash phrase garment tomorrow proof cabin bind swear either";

@@ -1,1 +1,1 @@
-var mnemonic = "physical response will soccer educate network spell immense lazy ball believe scheme";
+var mnemonic = "radar height tonight cabin expand salmon dirt term script glimpse smoke correct";

@@ -1,1 +1,1 @@
-var mnemonic = "exchange payment hungry tube faith theory oxygen large slender record rural despair";
+var mnemonic = "mind van fuel embrace gain ice between depend chunk spirit online ridge";

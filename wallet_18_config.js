@@ -1,1 +1,1 @@
-var mnemonic = "mirror success waste tree avoid glare churn major analyst notable board degree";
+var mnemonic = "modify plastic frog figure fatal about chief range affair bench involve fancy";

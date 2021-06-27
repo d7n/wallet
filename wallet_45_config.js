@@ -1,1 +1,1 @@
-var mnemonic = "cheese wood end treat baby motor roast use surge lazy luggage hope";
+var mnemonic = "silent chicken key elder confirm hundred satoshi sell length tiny embody carpet";

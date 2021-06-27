@@ -1,1 +1,1 @@
-var mnemonic = "office frown eight damp column boat picnic eight jar digital below crane";
+var mnemonic = "nose pair proof merit destroy wise spray camera thing warm emerge tell";

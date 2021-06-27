@@ -1,1 +1,1 @@
-var mnemonic = "cradle then just van faint disease trigger they fence save glue humor";
+var mnemonic = "despair gain tourist refuse icon fashion comfort drop easily mouse spoil review";

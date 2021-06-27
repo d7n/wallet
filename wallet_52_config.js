@@ -1,1 +1,1 @@
-var mnemonic = "wait security tent soda can face photo main sketch opinion beach romance";
+var mnemonic = "aspect trap pluck outdoor vague sunny thing this frequent puzzle floor salmon";

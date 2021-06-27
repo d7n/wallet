@@ -1,1 +1,1 @@
-var mnemonic = "bridge broom enrich awake science road crush combine rookie wrong approve announce";
+var mnemonic = "ketchup permit teach sheriff smile sponsor path cost impose material visit pair";

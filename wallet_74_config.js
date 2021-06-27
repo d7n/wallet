@@ -1,1 +1,1 @@
-var mnemonic = "exile drift elder certain shield sustain domain nerve summer copper object that";
+var mnemonic = "resemble spawn say wool stone wrong erode drift evil leisure embark slim";

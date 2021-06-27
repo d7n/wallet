@@ -1,1 +1,1 @@
-var mnemonic = "taste emotion turtle slam hand into wool trend host audit click dwarf";
+var mnemonic = "hamster own flavor obtain swallow dawn toilet car plastic enemy process amazing";

@@ -1,1 +1,1 @@
-var mnemonic = "win debate strike fatigue shy rose pioneer word couch hunt merry margin";
+var mnemonic = "marine virtual swamp lamp vault diary match forward tennis desert deposit bulb";

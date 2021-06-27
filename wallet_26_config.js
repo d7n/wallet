@@ -1,1 +1,1 @@
-var mnemonic = "holiday window gossip milk bachelor sugar immense tip rib coral giggle abuse";
+var mnemonic = "creek success spot destroy pave shadow despair nasty rely tiger sport paddle";

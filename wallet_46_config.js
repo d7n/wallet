@@ -1,1 +1,1 @@
-var mnemonic = "mention return lyrics adapt enter practice lyrics mouse duck swallow forum divorce";
+var mnemonic = "wealth stone target warfare crumble engine helmet ill humor mercy crystal mosquito";

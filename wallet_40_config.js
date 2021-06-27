@@ -1,1 +1,1 @@
-var mnemonic = "filter bless youth lawsuit uniform wait wheat strategy whale pull sorry helmet";
+var mnemonic = "winter force artist youth pizza boil episode gesture faith kingdom grace modify";

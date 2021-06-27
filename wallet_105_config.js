@@ -1,1 +1,1 @@
-var mnemonic = "aerobic evoke upgrade cheap false erase hurt tuition tone midnight nurse achieve";
+var mnemonic = "kind desert earth ring caution female tank oyster token metal impose lamp";

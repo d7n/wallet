@@ -1,1 +1,1 @@
-var mnemonic = "sail kingdom guilt boring october isolate bulk program mass foam dumb media";
+var mnemonic = "cube gesture measure trend worry fringe blush rough enhance sight member sadness";

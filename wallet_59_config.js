@@ -1,1 +1,1 @@
-var mnemonic = "march rich wrap eyebrow position peanut someone baby magic pass limb raccoon";
+var mnemonic = "blame exhibit isolate tag tourist cannon pitch can vanish grape easily ugly";

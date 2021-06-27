@@ -1,1 +1,1 @@
-var mnemonic = "beyond narrow glow produce repeat three wing joke drop wood arena venue";
+var mnemonic = "cycle gentle order banana swap child garlic vehicle assault adapt hero state";

@@ -1,1 +1,1 @@
-var mnemonic = "monster under exact volume huge skate list chaos female elbow useless remove";
+var mnemonic = "vivid fire door pulse raw coach razor usual spy road retreat save";

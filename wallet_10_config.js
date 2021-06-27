@@ -1,1 +1,1 @@
-var mnemonic = "jeans alpha shoot furnace valve uncover barely short real carry table rhythm";
+var mnemonic = "social toward jealous minor benefit account own company result exercise screen example";

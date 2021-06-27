@@ -1,1 +1,1 @@
-var mnemonic = "jealous soon assist length disorder barrel snake evolve debris drip that gospel";
+var mnemonic = "cabin sugar stairs slam frog thunder tiny lab huge wink priority virtual";

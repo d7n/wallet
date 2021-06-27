@@ -1,1 +1,1 @@
-var mnemonic = "pigeon monster right normal mix february blame aspect similar pulse pledge rotate";
+var mnemonic = "protect wasp script okay credit smart dismiss artwork rib trick long answer";

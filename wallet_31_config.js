@@ -1,1 +1,1 @@
-var mnemonic = "dose purse gasp toss between acquire beef roast man rely topic pig";
+var mnemonic = "post minimum unlock forget meadow category rally day coral later pumpkin hospital";

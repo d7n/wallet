@@ -1,1 +1,1 @@
-var mnemonic = "column unit friend benefit member chuckle radar sad pull inflict tilt humble";
+var mnemonic = "private typical replace midnight hotel stereo scare betray uphold culture race venture";

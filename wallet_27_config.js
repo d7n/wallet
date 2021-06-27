@@ -1,1 +1,1 @@
-var mnemonic = "describe easily tumble ski garlic mail forward stand salon pool category enter";
+var mnemonic = "because bundle silver tone quiz odor scorpion kid find now element entry";

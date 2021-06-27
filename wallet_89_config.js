@@ -1,1 +1,1 @@
-var mnemonic = "heavy decide perfect name tree sweet midnight ridge august what chronic sunset";
+var mnemonic = "width between marriage dose mango hotel dream foot earn area because tragic";

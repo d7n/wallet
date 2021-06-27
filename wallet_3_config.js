@@ -1,1 +1,1 @@
-var mnemonic = "agree acoustic member genius artist mind input will crew route eyebrow slogan";
+var mnemonic = "learn area accuse stuff equip disorder wasp across champion drum trip coyote";

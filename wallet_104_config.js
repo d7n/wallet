@@ -1,1 +1,1 @@
-var mnemonic = "alley volume mother rule hundred ten ski security couple wall stamp modify";
+var mnemonic = "adjust husband little eager buddy clown ceiling spread license brush auto fat";

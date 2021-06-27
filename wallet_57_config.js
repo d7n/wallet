@@ -1,1 +1,1 @@
-var mnemonic = "bean scare bonus random portion language track sample similar witness zone lunch";
+var mnemonic = "wing harsh jacket shift bomb arrow race wreck pulse they tiny grow";

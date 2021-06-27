@@ -1,1 +1,1 @@
-var mnemonic = "surprise buzz budget scorpion outer you proof impulse shop client rural soup";
+var mnemonic = "bus lumber portion produce tuna lunch live aware busy knife enough earn";

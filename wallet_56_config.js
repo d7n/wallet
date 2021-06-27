@@ -1,1 +1,1 @@
-var mnemonic = "light garage inner day boss gas limb snap basket clump laugh forget";
+var mnemonic = "rare iron hungry frost mask error turkey reveal inflict august glide crop";

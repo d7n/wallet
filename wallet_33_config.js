@@ -1,1 +1,1 @@
-var mnemonic = "city budget bright divert region check excuse choice state enforce indoor surprise";
+var mnemonic = "core sun web purity edge ability left able nose enjoy empower veteran";

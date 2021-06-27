@@ -1,1 +1,1 @@
-var mnemonic = "globe loop category mask old mobile scrub large lock wheat alley dove";
+var mnemonic = "blossom dinner lava actor lounge copy act clutch neglect mystery hollow birth";

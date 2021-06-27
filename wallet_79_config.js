@@ -1,1 +1,1 @@
-var mnemonic = "pink agree moral enter repeat sudden motion hybrid silver chunk ghost brisk";
+var mnemonic = "stool december notice manual rifle hand together ostrich evil spend joke guilt";

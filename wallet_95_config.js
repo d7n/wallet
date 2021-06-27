@@ -1,1 +1,1 @@
-var mnemonic = "piano dance smile kite glove steak scare rapid faith memory century inform";
+var mnemonic = "head patch gossip burger ice much token spoil bargain shaft matrix actual";

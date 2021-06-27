@@ -1,1 +1,1 @@
-var mnemonic = "wait chat vast prepare jungle radar gun adjust into lens quantum steak";
+var mnemonic = "unhappy remove state front across purpose frost cigar expect random drip ecology";

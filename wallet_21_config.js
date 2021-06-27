@@ -1,1 +1,1 @@
-var mnemonic = "tonight curve awkward seek minor crash profit symptom dirt marble clog convince";
+var mnemonic = "roast twice coral tired romance return alcohol dumb delay toddler balcony virus";

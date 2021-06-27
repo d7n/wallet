@@ -1,1 +1,1 @@
-var mnemonic = "deer truth lion luxury prepare garage evidence bunker rifle lumber afford banana";
+var mnemonic = "power start sure supreme ketchup tuna attitude multiply drop agree affair burst";

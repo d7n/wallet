@@ -1,1 +1,1 @@
-var mnemonic = "again mercy scrub blouse brand wealth panther list aerobic fiction group armor";
+var mnemonic = "number early reject exchange section damp lazy bundle clump enforce voice riot";

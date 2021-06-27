@@ -1,1 +1,1 @@
-var mnemonic = "junior poet aerobic loop crystal bring door basic secret rely nest retreat";
+var mnemonic = "dizzy write tornado episode exile raise improve divorce oxygen expand board auction";

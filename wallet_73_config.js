@@ -1,1 +1,1 @@
-var mnemonic = "hollow art solid latin gather okay december defy foil dentist steak arctic";
+var mnemonic = "adapt wife vital spoil toilet pill magic exclude quote mansion scrap give";

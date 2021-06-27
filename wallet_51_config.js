@@ -1,1 +1,1 @@
-var mnemonic = "patrol reason diagram brain follow final damage expect peanut promote poverty mom";
+var mnemonic = "ship once rather moment trend mirror celery machine sick that oxygen pumpkin";

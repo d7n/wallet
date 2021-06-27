@@ -1,1 +1,1 @@
-var mnemonic = "volcano neck box basic inherit idle chase lamp accuse fall aspect unknown";
+var mnemonic = "ordinary one autumn leader long armed rent found exercise region write friend";

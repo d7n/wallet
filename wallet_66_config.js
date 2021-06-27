@@ -1,1 +1,1 @@
-var mnemonic = "valve parent sphere young among duty off inside dad announce margin observe";
+var mnemonic = "cluster night result genuine flip ivory shield bamboo snap injury trip leaf";

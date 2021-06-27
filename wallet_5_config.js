@@ -1,1 +1,1 @@
-var mnemonic = "ketchup divide frost six twenty sense sunset pride bitter organ castle tip";
+var mnemonic = "curious unaware tooth often antenna ancient spoon chief review boss crucial split";

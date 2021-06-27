@@ -1,1 +1,1 @@
-var mnemonic = "truth code option stairs smoke atom attend into size author because height";
+var mnemonic = "market heavy always twice asset wide admit equip obtain twin galaxy aunt";
