@@ -1,1 +1,1 @@
-var mnemonic = "tuition choice finger era settle clarify gauge lawsuit fold strike bench material";
+var mnemonic = "chuckle mad tree soft celery garage airport clap upset slab symptom solid";

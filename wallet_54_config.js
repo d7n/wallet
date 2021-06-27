@@ -1,1 +1,1 @@
-var mnemonic = "worth motion horse gown rebel laugh style sunny crack soap plug student";
+var mnemonic = "sister vapor inject morning amazing door drift blouse december sorry pledge when";

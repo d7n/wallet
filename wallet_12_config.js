@@ -1,1 +1,1 @@
-var mnemonic = "shoe utility leave crime glance good wedding cup describe scan betray length";
+var mnemonic = "evil potato play siege ridge badge wide glad news choice buzz talk";

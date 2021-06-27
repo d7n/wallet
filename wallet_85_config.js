@@ -1,1 +1,1 @@
-var mnemonic = "subway spider crouch range cancel profit include genius border shaft dwarf mail";
+var mnemonic = "cream object monkey unhappy ridge craft above sorry wrap addict target heart";

@@ -1,1 +1,1 @@
-var mnemonic = "enrich receive bunker fossil educate pave clerk hockey please health town raise";
+var mnemonic = "boy pattern mystery armor combine core strike muffin identify immense awesome cliff";

@@ -1,1 +1,1 @@
-var mnemonic = "silent smoke profit clever feel shrimp cook kiss movie neglect million prevent";
+var mnemonic = "three oval rate view fragile word satoshi canoe parade object muffin index";

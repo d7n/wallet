@@ -1,1 +1,1 @@
-var mnemonic = "supply silent enact uniform rebel first design motor vehicle clever unusual sweet";
+var mnemonic = "grief purpose update bachelor journey split crush cattle pledge sausage hockey tape";

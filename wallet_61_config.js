@@ -1,1 +1,1 @@
-var mnemonic = "master sibling drift doll disagree click object bid tumble stone smile mansion";
+var mnemonic = "brisk foster enlist cluster margin example april resource club this broccoli cloud";

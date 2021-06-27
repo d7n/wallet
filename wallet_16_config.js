@@ -1,1 +1,1 @@
-var mnemonic = "record camp prize real leisure social deal brass siren hard catalog viable";
+var mnemonic = "victory finger father online file east what donate example shrug merry old";

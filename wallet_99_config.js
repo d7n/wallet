@@ -1,1 +1,1 @@
-var mnemonic = "naive morning domain strategy obvious target envelope motor hen mountain absent gym";
+var mnemonic = "oil meadow any service subject gas slogan album prize sail where always";

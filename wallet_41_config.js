@@ -1,1 +1,1 @@
-var mnemonic = "erosion master oval wise shy damage happy goat rail sound draw task";
+var mnemonic = "color tuna finish cushion melody six dizzy valley grit predict check cargo";

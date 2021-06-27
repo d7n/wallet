@@ -1,1 +1,1 @@
-var mnemonic = "amused penalty divide prevent need rubber box bid review enroll elephant drill";
+var mnemonic = "skin brown other interest stairs purpose unable rent flush ahead mushroom order";

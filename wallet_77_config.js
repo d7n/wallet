@@ -1,1 +1,1 @@
-var mnemonic = "force other cream despair trouble addict fringe lift young manage eight brother";
+var mnemonic = "trash useless pelican equip glare robot myself citizen wheat rare wash discover";

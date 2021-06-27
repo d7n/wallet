@@ -1,1 +1,1 @@
-var mnemonic = "tenant orange mistake release talk security stumble forward spin version result knock";
+var mnemonic = "food autumn call flash minute prefer bus palace prevent lock inflict display";

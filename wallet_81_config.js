@@ -1,1 +1,1 @@
-var mnemonic = "addict window attitude miss mammal grab roast sausage exercise minute target forest";
+var mnemonic = "belt pride tide enroll gravity oil saddle sniff ceiling miracle despair keen";

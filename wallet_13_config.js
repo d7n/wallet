@@ -1,1 +1,1 @@
-var mnemonic = "pink soul cabbage tackle prosper pretty history outer ivory mom west love";
+var mnemonic = "transfer junior bag purse naive unusual ride essence face question keep soul";

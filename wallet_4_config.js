@@ -1,1 +1,1 @@
-var mnemonic = "outside umbrella vital enlist sun museum walk adjust million famous pottery rose";
+var mnemonic = "purpose like body grocery limb much protect magnet awkward valve common awesome";

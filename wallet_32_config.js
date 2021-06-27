@@ -1,1 +1,1 @@
-var mnemonic = "useful tourist lady giraffe rubber speed desk farm retreat all gas inject";
+var mnemonic = "awful employ renew used attitude road brush remember muffin plunge mad category";

@@ -1,1 +1,1 @@
-var mnemonic = "mango jeans case derive maze junk latin monkey spy acid bitter sense";
+var mnemonic = "outside honey slim inhale approve vocal width nasty please unaware public topic";

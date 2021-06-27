@@ -1,1 +1,1 @@
-var mnemonic = "vote romance glow defy dwarf win essay average later buffalo install artefact";
+var mnemonic = "broom shell bamboo warrior tuna cereal rent maple bacon decade tomorrow kidney";

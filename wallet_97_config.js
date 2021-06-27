@@ -1,1 +1,1 @@
-var mnemonic = "quarter cram surge confirm cement prison clean rib envelope proud marble stool";
+var mnemonic = "limb champion lobster special nephew idle item nice rigid rebel side rough";

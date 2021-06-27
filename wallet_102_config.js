@@ -1,1 +1,1 @@
-var mnemonic = "faith business limb easily problem tip depth faith guitar olive water clump";
+var mnemonic = "regular remain recipe twelve target suit rhythm month space garbage shaft mind";

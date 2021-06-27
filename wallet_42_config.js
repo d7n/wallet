@@ -1,1 +1,1 @@
-var mnemonic = "term recipe sibling alpha unhappy vault display joy horse zone hospital absorb";
+var mnemonic = "sheriff crew keen vocal rebuild body industry moral spread shallow cement decide";

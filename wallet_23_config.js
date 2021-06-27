@@ -1,1 +1,1 @@
-var mnemonic = "student audit chapter click broccoli praise room mean volume term firm jaguar";
+var mnemonic = "task board card poverty ivory wild ethics bench best ship spike aspect";

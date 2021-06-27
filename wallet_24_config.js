@@ -1,1 +1,1 @@
-var mnemonic = "boss heavy cattle congress tool element shrimp skirt pave skill goose abstract";
+var mnemonic = "purchase mom museum snap initial toilet rail grain bulk around all core";

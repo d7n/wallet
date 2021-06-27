@@ -1,1 +1,1 @@
-var mnemonic = "victory slot salmon virus spread ethics enough cancel voyage social any umbrella";
+var mnemonic = "tail spoil retreat brain essence report fish army orient animal wife aware";

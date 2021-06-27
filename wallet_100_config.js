@@ -1,1 +1,1 @@
-var mnemonic = "veteran axis genuine silly puzzle elbow armed expand oil put stable reason";
+var mnemonic = "citizen umbrella announce top leg hurry enact rich keen special believe lobster";

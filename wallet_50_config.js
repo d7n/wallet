@@ -1,1 +1,1 @@
-var mnemonic = "solar sausage moral buzz affair case tonight luggage bike million taxi tail";
+var mnemonic = "illegal cheese inquiry plate pluck eagle scrap patch globe urban pet flat";

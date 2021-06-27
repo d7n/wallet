@@ -1,1 +1,1 @@
-var mnemonic = "veteran toast utility blue liar plate pig swarm skill when solar congress";
+var mnemonic = "acid twin weasel member woman bird clinic task question damage tribe style";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant aisle stomach action energy travel cushion sustain rookie flavor brush happy";
+var mnemonic = "void close any pig stumble fringe assist drop wrong snow monitor fresh";

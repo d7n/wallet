@@ -1,1 +1,1 @@
-var mnemonic = "inflict hollow impulse siren filter expect sense junk excess such volcano buffalo";
+var mnemonic = "heavy laugh stay add wet praise sustain echo pass patrol brush mistake";

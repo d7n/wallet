@@ -1,1 +1,1 @@
-var mnemonic = "chef dutch wet elephant kidney faculty catalog wolf chronic lens dial save";
+var mnemonic = "approve crystal salon device spatial relax jeans damage fall final idea one";

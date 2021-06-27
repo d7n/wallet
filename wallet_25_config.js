@@ -1,1 +1,1 @@
-var mnemonic = "lonely muffin swamp round excess pair degree gas sell debris habit trick";
+var mnemonic = "child snack coil imitate rubber snake fashion morning crisp one horse tonight";

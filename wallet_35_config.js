@@ -1,1 +1,1 @@
-var mnemonic = "tape celery foil deny rally snow essay vacant usual vendor blossom owner";
+var mnemonic = "blue matter insect renew husband nurse picture electric arrest ecology ski figure";

@@ -1,1 +1,1 @@
-var mnemonic = "hotel cushion common reopen defense demand height stumble giraffe truly borrow tail";
+var mnemonic = "allow slide empower nephew waste road night amateur boring prize solid quick";

@@ -1,1 +1,1 @@
-var mnemonic = "trade system bind minute creek build sport topic trash tumble brisk broken";
+var mnemonic = "useful magic kit patrol diamond tattoo broken myself hockey solid rally tail";

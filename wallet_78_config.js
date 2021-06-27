@@ -1,1 +1,1 @@
-var mnemonic = "alert roof long naive snake year lawn biology citizen fuel cinnamon decline";
+var mnemonic = "baby extra brisk seminar thrive since permit elbow thunder grape afraid render";

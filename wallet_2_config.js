@@ -1,1 +1,1 @@
-var mnemonic = "media sauce brisk once nuclear select talk demand home occur erosion surge";
+var mnemonic = "home spice fat flower scatter dog tooth muffin time obey need power";

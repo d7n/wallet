@@ -1,1 +1,1 @@
-var mnemonic = "remember toy critic canoe panda hood vital disagree leopard scrap domain cradle";
+var mnemonic = "refuse remind infant dinner worth board harbor vintage repeat mountain laptop couple";

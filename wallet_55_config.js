@@ -1,1 +1,1 @@
-var mnemonic = "inject excess urban gospel choice rigid palm company bright clump echo pen";
+var mnemonic = "coconut october goose essence deputy mind hub bundle symbol diamond seat cinnamon";

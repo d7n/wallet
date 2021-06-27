@@ -1,1 +1,1 @@
-var mnemonic = "dumb goat interest pole spoon now pool glide chronic awful photo victory";
+var mnemonic = "yard brain eternal flavor awake burger lava envelope file segment cruel impact";

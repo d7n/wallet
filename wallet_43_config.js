@@ -1,1 +1,1 @@
-var mnemonic = "elite trip leader fancy idle prize loud aerobic marble logic brisk whale";
+var mnemonic = "belt trip between anchor grain check salmon size sand absurd dynamic oil";

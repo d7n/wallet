@@ -1,1 +1,1 @@
-var mnemonic = "game execute erode rent caution winner gravity choice daughter pass rich chunk";
+var mnemonic = "biology tourist hat woman bless legend gesture edit palace situate unable claw";

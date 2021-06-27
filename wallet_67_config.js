@@ -1,1 +1,1 @@
-var mnemonic = "history clerk winter quote husband giraffe come raw inform creek load aware";
+var mnemonic = "turtle taste aunt hockey physical siren science meat protect patrol path elephant";

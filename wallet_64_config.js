@@ -1,1 +1,1 @@
-var mnemonic = "stairs absurd ahead club crawl true tray visit gallery arrest maze combine";
+var mnemonic = "sail arch dentist always slogan powder capable crew sausage sausage history mountain";

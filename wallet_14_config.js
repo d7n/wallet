@@ -1,1 +1,1 @@
-var mnemonic = "wash loan lesson word coffee summer pupil often chair brisk belt turtle";
+var mnemonic = "divorce until run huge vault excuse explain dismiss hood holiday crunch edit";

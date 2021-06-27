@@ -1,1 +1,1 @@
-var mnemonic = "jump satisfy giggle gym together sheriff nephew transfer visual define escape leopard";
+var mnemonic = "hold chase coil oval identify rude control conduct object trouble swarm soft";

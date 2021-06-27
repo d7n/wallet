@@ -1,1 +1,1 @@
-var mnemonic = "payment fan vocal pattern end school social fabric coyote cost what labor";
+var mnemonic = "moon cause task deal situate jealous problem know inject disagree owner current";

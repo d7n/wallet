@@ -1,1 +1,1 @@
-var mnemonic = "empower embark quick model alien knife fantasy bubble stamp walk nose discover";
+var mnemonic = "renew sugar alley female hospital depth confirm provide fatal satoshi awkward marriage";

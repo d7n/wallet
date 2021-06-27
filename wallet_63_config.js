@@ -1,1 +1,1 @@
-var mnemonic = "strong debate wild ensure air popular digital dice lottery web matter stage";
+var mnemonic = "gesture found jazz guitar path mad top source enter pig muscle rely";

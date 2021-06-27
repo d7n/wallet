@@ -1,1 +1,1 @@
-var mnemonic = "wheel faint cool recipe captain enable strategy vast brave harsh task truth";
+var mnemonic = "attitude reform galaxy excite trumpet pyramid pond reward fuel outside notice plunge";

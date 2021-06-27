@@ -1,1 +1,1 @@
-var mnemonic = "soon food expect zone news unable field swarm imitate issue pear hero";
+var mnemonic = "rely lemon abstract often boss monkey dream hurry motor economy egg build";

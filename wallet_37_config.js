@@ -1,1 +1,1 @@
-var mnemonic = "dignity tent verify dog basic arrow become crop curious connect number basic";
+var mnemonic = "kid onion destroy mom bubble dry blue crop embrace photo follow chest";

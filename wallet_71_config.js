@@ -1,1 +1,1 @@
-var mnemonic = "balance course neglect enhance gloom cabin rain cross space mask trouble evil";
+var mnemonic = "habit drama gym video course custom gap write slender aisle define wash";

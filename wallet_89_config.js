@@ -1,1 +1,1 @@
-var mnemonic = "pair enlist wild gesture vehicle bleak nominee law all bone twist point";
+var mnemonic = "course nephew same betray orchard velvet pizza service enough tag sketch off";

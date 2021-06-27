@@ -1,1 +1,1 @@
-var mnemonic = "wrap flame pigeon network merge knife road wall giant author learn barrel";
+var mnemonic = "lion record work only park leaf catalog harvest wrong post volume series";

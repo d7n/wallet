@@ -1,1 +1,1 @@
-var mnemonic = "sudden element umbrella notice remain cost decide margin dutch buffalo recall destroy";
+var mnemonic = "zero power expire frozen crumble easy have slot hamster acquire try elevator";

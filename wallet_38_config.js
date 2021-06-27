@@ -1,1 +1,1 @@
-var mnemonic = "reject tent solar cricket aerobic venture test nerve fat lemon shed glare";
+var mnemonic = "firm body arm vessel private van maple caution miss burden service despair";

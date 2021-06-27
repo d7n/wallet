@@ -1,1 +1,1 @@
-var mnemonic = "moral before mercy wool farm firm toy base vague carry silent identify";
+var mnemonic = "galaxy medal code milk vote treat hurt lobster atom pill energy ugly";

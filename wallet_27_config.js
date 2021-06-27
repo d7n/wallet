@@ -1,1 +1,1 @@
-var mnemonic = "review reflect humor check photo ability crop hurt satoshi vessel maximum express";
+var mnemonic = "key evidence coconut boy fatal parrot dress order accident start soda success";

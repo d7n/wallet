@@ -1,1 +1,1 @@
-var mnemonic = "divert donkey bracket write trouble impact caught evil ahead siren merit resource";
+var mnemonic = "ripple cute exchange accuse embody faint auto mother vehicle mandate town dizzy";

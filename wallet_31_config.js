@@ -1,1 +1,1 @@
-var mnemonic = "garment protect wide someone parade father combine please marriage enrich journey snake";
+var mnemonic = "segment repair mechanic old link window abstract cash acquire oppose blind good";

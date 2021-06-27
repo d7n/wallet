@@ -1,1 +1,1 @@
-var mnemonic = "scrap twice scatter expose people still rough ill oven hedgehog album advance";
+var mnemonic = "woman jump wall whisper north victory stand gorilla fault country cannon clean";

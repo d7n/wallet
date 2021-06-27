@@ -1,1 +1,1 @@
-var mnemonic = "liar retreat fence swim fold come stereo soldier perfect unveil trumpet cover";
+var mnemonic = "magic van dumb multiply garbage taxi awesome audit find shoulder bunker fade";

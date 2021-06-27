@@ -1,1 +1,1 @@
-var mnemonic = "elder poet valid razor glimpse heart coast gap taxi blouse olympic juice";
+var mnemonic = "room mandate throw trust leopard only hurt true grow scan come purse";

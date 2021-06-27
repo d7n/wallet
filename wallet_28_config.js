@@ -1,1 +1,1 @@
-var mnemonic = "fancy staff buddy empower venue ignore left excuse fiction supply middle among";
+var mnemonic = "category finger imitate odor hospital squirrel govern copper artist vacant party valid";

@@ -1,1 +1,1 @@
-var mnemonic = "topple opinion blush pyramid attract peanut secret teach dynamic elegant acoustic vicious";
+var mnemonic = "display fatal salad fetch enlist unknown extend resource alert depend vote solve";

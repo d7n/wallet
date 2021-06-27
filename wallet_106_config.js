@@ -1,1 +1,1 @@
-var mnemonic = "prison bleak fetch future surge borrow unknown artefact punch sauce wheel sweet";
+var mnemonic = "swim combine argue wreck woman resource usual morning surround right roast short";

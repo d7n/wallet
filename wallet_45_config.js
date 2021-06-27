@@ -1,1 +1,1 @@
-var mnemonic = "catch lab real mushroom beef neutral bind coast cost hair stove clarify";
+var mnemonic = "grocery reflect doll burden gallery jump prefer arrest solution release grab garlic";

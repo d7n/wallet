@@ -1,1 +1,1 @@
-var mnemonic = "series usage pizza physical link during spare basket sugar this pause tumble";
+var mnemonic = "have loan skate service soon sorry basic minor quiz decade script ice";

@@ -1,1 +1,1 @@
-var mnemonic = "motor iron ostrich mixed sponsor scrub million unveil conduct correct symptom energy";
+var mnemonic = "illegal grocery gown shiver wash glue wolf armed tattoo path shed toward";

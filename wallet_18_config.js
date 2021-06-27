@@ -1,1 +1,1 @@
-var mnemonic = "govern social weird ripple cargo hip picture promote crew person begin alley";
+var mnemonic = "impact verb duck spin cabbage walnut pony major cave wise drastic cricket";

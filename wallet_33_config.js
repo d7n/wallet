@@ -1,1 +1,1 @@
-var mnemonic = "ahead marine thank tourist teach chaos consider kit near broccoli range deputy";
+var mnemonic = "dinner bright early fiction bargain debris tower book short tree sail front";

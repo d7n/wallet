@@ -1,1 +1,1 @@
-var mnemonic = "rate solid evolve club tree fame clerk differ horse any very wave";
+var mnemonic = "name silk clean crucial butter slow hobby type glory ugly priority such";

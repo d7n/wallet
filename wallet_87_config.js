@@ -1,1 +1,1 @@
-var mnemonic = "spirit broken benefit quote drum tennis security glow act joy trial planet";
+var mnemonic = "duck ripple say cart sort twelve emerge team tennis digital demise vessel";

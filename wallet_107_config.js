@@ -1,1 +1,1 @@
-var mnemonic = "divert volcano dash steel cluster hollow suggest immense maid nuclear language spatial";
+var mnemonic = "produce old barrel soul glass frog chapter unhappy emotion material allow expose";

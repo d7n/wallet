@@ -1,1 +1,1 @@
-var mnemonic = "develop rich odor index violin easy trophy blade tunnel shield loop lamp";
+var mnemonic = "iron category imitate resemble cement buffalo junk chief victory canyon process program";

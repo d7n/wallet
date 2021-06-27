@@ -1,1 +1,1 @@
-var mnemonic = "earth virtual smooth tunnel useful second rib topple track credit supply vacuum";
+var mnemonic = "absent minute panda country blur illness pill first alpha six history fat";

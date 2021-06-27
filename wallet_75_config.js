@@ -1,1 +1,1 @@
-var mnemonic = "pepper recipe kangaroo pulp come used start deer original frequent garage domain";
+var mnemonic = "shop search glow document movie enable squeeze lady fee analyst notice sight";

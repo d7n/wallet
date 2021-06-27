@@ -1,1 +1,1 @@
-var mnemonic = "scatter clog aspect dignity various blind merit float curtain bargain intact explain";
+var mnemonic = "like riot input retreat jump service goddess carpet project venue tumble tornado";

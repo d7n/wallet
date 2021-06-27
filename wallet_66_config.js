@@ -1,1 +1,1 @@
-var mnemonic = "pull web exile fatigue know mosquito shy nation detect heart decrease hammer";
+var mnemonic = "spring merry film vivid dose type defense aim blind object swallow kit";

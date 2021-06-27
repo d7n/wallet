@@ -1,1 +1,1 @@
-var mnemonic = "local piece talk couple region moon olive prefer spin flash long vicious";
+var mnemonic = "surface cloth record alcohol siege cloth pause liberty sentence hour airport alter";

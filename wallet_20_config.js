@@ -1,1 +1,1 @@
-var mnemonic = "powder crazy major voice radar alert tornado note mean axis swift isolate";
+var mnemonic = "meadow announce lucky garlic glove above burger tone hurry vivid shoulder vintage";

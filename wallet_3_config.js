@@ -1,1 +1,1 @@
-var mnemonic = "dawn recipe real praise interest spike sign picture tray return clog lawn";
+var mnemonic = "robust comic express blind gain cycle belt minute evidence merge curtain hurry";

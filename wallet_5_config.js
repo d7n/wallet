@@ -1,1 +1,1 @@
-var mnemonic = "half nest evolve panther weather minute have online funny sunny always job";
+var mnemonic = "short syrup shuffle must pipe vapor spray side hospital chalk disease one";

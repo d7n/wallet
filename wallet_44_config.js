@@ -1,1 +1,1 @@
-var mnemonic = "key rug glance mention tip emerge pause toward busy pelican alien elder";
+var mnemonic = "nurse receive song rabbit dress throw bacon illegal topic divorce leisure idea";

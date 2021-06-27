@@ -1,1 +1,1 @@
-var mnemonic = "barrel obtain interest hat inhale hundred swarm liar bean super awful cube";
+var mnemonic = "right logic snake tongue fame boost company winter security broken update drift";

@@ -1,1 +1,1 @@
-var mnemonic = "marble find notable side major split donate upgrade monster leg praise infant";
+var mnemonic = "melody kiwi range entry casino human split neglect brand brass dragon polar";

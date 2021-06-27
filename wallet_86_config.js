@@ -1,1 +1,1 @@
-var mnemonic = "around gesture envelope meat security loud verify surface search effort sell ketchup";
+var mnemonic = "emotion finish myth execute sick plunge order erosion fit hip effort taste";

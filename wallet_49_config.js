@@ -1,1 +1,1 @@
-var mnemonic = "enact excuse scatter give close cliff country crunch ignore wool midnight regret";
+var mnemonic = "ten member nest need update snack edit orange sing click coil crime";

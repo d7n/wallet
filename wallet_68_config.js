@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow protect timber recycle region alone prefer undo viable burden mango tourist";
+var mnemonic = "mountain genius jungle expire sun ill adapt cinnamon trumpet task bone slot";

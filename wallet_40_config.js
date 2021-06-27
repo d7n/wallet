@@ -1,1 +1,1 @@
-var mnemonic = "enlist pitch project sudden return protect early violin police slice rigid job";
+var mnemonic = "try curtain ethics lizard slogan depart tube possible purse human fancy beyond";

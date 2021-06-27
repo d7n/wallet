@@ -1,1 +1,1 @@
-var mnemonic = "total almost popular vendor circle cheese jar lift siren kiss physical embody";
+var mnemonic = "insane slide permit ignore odor garden wild modify address magic argue tired";

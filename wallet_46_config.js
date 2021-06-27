@@ -1,1 +1,1 @@
-var mnemonic = "tongue addict hockey slab famous devote uncover reflect power salad pig level";
+var mnemonic = "puzzle priority body left buddy clean protect field olive satoshi above inherit";

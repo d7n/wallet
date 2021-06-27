@@ -1,1 +1,1 @@
-var mnemonic = "proof field make afford hat column mercy firm clerk wreck already assume";
+var mnemonic = "convince brush confirm prevent rigid guess strong armed agent step tuition melody";

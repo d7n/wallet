@@ -1,1 +1,1 @@
-var mnemonic = "fox inquiry camera minute include ordinary lawsuit dismiss spoil caution chunk eagle";
+var mnemonic = "jealous crumble thought shaft forget farm copy lyrics pottery ecology ring junk";

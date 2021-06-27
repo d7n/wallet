@@ -1,1 +1,1 @@
-var mnemonic = "know stumble immense trend bachelor garbage two buddy club color before guilt";
+var mnemonic = "increase ceiling awful erase kind ritual modify travel rough market one ignore";

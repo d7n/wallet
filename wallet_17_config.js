@@ -1,1 +1,1 @@
-var mnemonic = "shiver black high ski private because potato scout black crane rail sausage";
+var mnemonic = "false art upgrade pipe crush nest school flee patrol virus risk allow";

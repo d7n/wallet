@@ -1,1 +1,1 @@
-var mnemonic = "predict unaware midnight best umbrella host adapt canvas climb prison ring hard";
+var mnemonic = "away city curve allow size antique stamp woman present size consider dice";

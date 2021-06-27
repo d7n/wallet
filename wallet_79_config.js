@@ -1,1 +1,1 @@
-var mnemonic = "flip buddy august forum ability intact emerge mosquito list spin defy unhappy";
+var mnemonic = "cry inflict arch royal proud accuse emotion damp clock convince discover loan";
