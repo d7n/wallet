@@ -1,1 +1,1 @@
-var mnemonic = "one phrase erosion give banana sweet keen garage strong mass tank scrap";
+var mnemonic = "heavy minor eye scare glove limb guitar good lecture flat kid blush";

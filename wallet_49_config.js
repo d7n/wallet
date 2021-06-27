@@ -1,1 +1,1 @@
-var mnemonic = "hamster ostrich rather town motor orphan write exercise bag there target uphold";
+var mnemonic = "extend sentence snack relief arm eye inherit rose habit shadow material please";

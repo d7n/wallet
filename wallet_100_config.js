@@ -1,1 +1,1 @@
-var mnemonic = "sibling area mosquito cause truck ginger that pluck tank ribbon success hammer";
+var mnemonic = "immense crouch poet fault innocent outer item salmon tilt motion nose poverty";

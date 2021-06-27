@@ -1,1 +1,1 @@
-var mnemonic = "chalk energy apple crane author record mutual notable expect wise zebra camp";
+var mnemonic = "tattoo basic famous inflict monster sentence pull affair local polar west confirm";

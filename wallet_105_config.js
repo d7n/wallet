@@ -1,1 +1,1 @@
-var mnemonic = "material intact next idle danger above state stomach beach exile combine calm";
+var mnemonic = "example century soccer oyster submit spoon prosper stable unhappy grief asthma hold";

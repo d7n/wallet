@@ -1,1 +1,1 @@
-var mnemonic = "bonus swift hub soon symptom blossom phone among cat bunker chaos misery";
+var mnemonic = "question soft photo office damage husband time index wood session perfect lobster";

@@ -1,1 +1,1 @@
-var mnemonic = "icon obvious retire aerobic teach pencil illness average often toilet pave entry";
+var mnemonic = "uncle island benefit radar video usage coffee cancel cruel find physical alpha";

@@ -1,1 +1,1 @@
-var mnemonic = "salt wide soft recipe belt tide priority hammer unlock scare lawn blue";
+var mnemonic = "bulk hawk chicken miss robust wink dolphin focus payment gospel mix safe";

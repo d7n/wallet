@@ -1,1 +1,1 @@
-var mnemonic = "feed gate join test system hamster polar desk invest vintage thunder indicate";
+var mnemonic = "theme jar pupil veteran custom trial tribe dust doctor dumb will federal";

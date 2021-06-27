@@ -1,1 +1,1 @@
-var mnemonic = "wisdom eagle rely brief rely gain memory lava donkey flat minute naive";
+var mnemonic = "youth upper feed alpha dizzy permit resemble traffic member aspect thank purchase";

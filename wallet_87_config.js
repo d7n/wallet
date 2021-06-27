@@ -1,1 +1,1 @@
-var mnemonic = "pencil amused rocket wreck orphan bracket day congress language modify defy nasty";
+var mnemonic = "stage snow web decrease rice surround observe evidence license draw magic farm";

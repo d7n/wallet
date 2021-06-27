@@ -1,1 +1,1 @@
-var mnemonic = "sheriff device burden term reflect owner suggest animal coffee clever safe rocket";
+var mnemonic = "cupboard rubber matrix foil scene sure acoustic bunker decorate fatigue traffic flower";

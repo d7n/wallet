@@ -1,1 +1,1 @@
-var mnemonic = "erupt cricket suffer refuse mixed scan stick leave month sure puzzle bottom";
+var mnemonic = "primary opinion rose blade blue certain ecology mosquito goddess tape size mountain";

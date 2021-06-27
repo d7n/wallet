@@ -1,1 +1,1 @@
-var mnemonic = "hockey enrich giant dwarf entire cheap decrease mouse direct inside truth ecology";
+var mnemonic = "social aspect shove valid pledge world bomb media soldier cash same ladder";

@@ -1,1 +1,1 @@
-var mnemonic = "mass recall trial turn noble buffalo traffic sing salon silent next awkward";
+var mnemonic = "near mixture equip visa there remove dinosaur brown brush target subway oil";

@@ -1,1 +1,1 @@
-var mnemonic = "early girl carpet choice drill beauty peanut thrive enable wasp october size";
+var mnemonic = "keen devote quick layer hollow deny vendor mechanic fever box maple rent";

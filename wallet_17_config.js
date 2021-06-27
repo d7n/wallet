@@ -1,1 +1,1 @@
-var mnemonic = "scale ecology shock say tribe federal shop rough fabric neither cart lion";
+var mnemonic = "enter bundle connect absurd prison bachelor roof amateur fault merry hover steak";

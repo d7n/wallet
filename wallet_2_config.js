@@ -1,1 +1,1 @@
-var mnemonic = "fetch waste lottery ritual student mimic clean lobster clump jacket replace garlic";
+var mnemonic = "coast skull scale ask pride oak soccer luxury now pulp orbit soap";

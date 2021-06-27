@@ -1,1 +1,1 @@
-var mnemonic = "blade robot acid assume episode couch acid vendor glance video such tube";
+var mnemonic = "future scatter way minute robot can pave lyrics agent about giant suit";

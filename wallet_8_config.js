@@ -1,1 +1,1 @@
-var mnemonic = "soldier coyote ski link choice oppose desert affair doll adjust control hair";
+var mnemonic = "surprise cave junior rival alter tide desert choice exit salmon ball find";

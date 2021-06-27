@@ -1,1 +1,1 @@
-var mnemonic = "girl rebel say essence initial host soda satoshi coast ensure cute bike";
+var mnemonic = "allow film matrix summer congress smart alter mother excess almost sure clay";

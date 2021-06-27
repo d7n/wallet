@@ -1,1 +1,1 @@
-var mnemonic = "jungle engage oxygen message scene bring gun little awkward gaze crack mango";
+var mnemonic = "magnet evoke when gospel unable critic assault sentence multiply cradle happy attack";

@@ -1,1 +1,1 @@
-var mnemonic = "slot canyon cruel resemble double civil history garbage tip actual grain cat";
+var mnemonic = "belt write width strategy around want sample crazy hire crystal flag thumb";

@@ -1,1 +1,1 @@
-var mnemonic = "judge stamp decade inherit trap muffin manage surface toilet rookie woman visa";
+var mnemonic = "diagram exile jaguar pelican talk sudden plastic upon prefer improve burden engage";

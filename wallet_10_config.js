@@ -1,1 +1,1 @@
-var mnemonic = "length exile axis whip nest adjust shuffle local note access tide voyage";
+var mnemonic = "machine summer vocal echo derive vehicle ten good salute differ method season";

@@ -1,1 +1,1 @@
-var mnemonic = "snap volcano insane student twenty effort slam debate buddy rural palm picture";
+var mnemonic = "feed type dignity exhaust suffer mix economy clerk mule govern exit army";

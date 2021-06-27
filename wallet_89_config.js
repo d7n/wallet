@@ -1,1 +1,1 @@
-var mnemonic = "sadness believe swamp march gym hedgehog crumble lady shadow tell push once";
+var mnemonic = "detect solar front jealous shrug finish depart tornado ethics novel raw feel";

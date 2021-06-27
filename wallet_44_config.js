@@ -1,1 +1,1 @@
-var mnemonic = "tube flush flock sell host awake scare swap smoke fit paddle frozen";
+var mnemonic = "alpha horn tunnel salon mobile battle peace assist burden galaxy torch learn";

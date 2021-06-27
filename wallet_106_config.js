@@ -1,1 +1,1 @@
-var mnemonic = "click coconut quick treat park stock cigar fine balcony cricket tattoo purse";
+var mnemonic = "lonely sight gallery describe lift tooth boat rack scan display mesh potato";

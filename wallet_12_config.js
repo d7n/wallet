@@ -1,1 +1,1 @@
-var mnemonic = "local cake object planet labor lottery proof assault antenna tired stage sick";
+var mnemonic = "start mercy rural motion hundred canoe chimney matter wave popular dance embark";

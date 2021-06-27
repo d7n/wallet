@@ -1,1 +1,1 @@
-var mnemonic = "glide symptom insect eternal already goat share fun morning favorite palace uniform";
+var mnemonic = "habit gasp giant milk amount foam fetch program major rapid evoke cargo";

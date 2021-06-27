@@ -1,1 +1,1 @@
-var mnemonic = "actor indoor embody cream diagram tone pepper poverty tornado jump shoe nation";
+var mnemonic = "offer discover mention cloth beef useless error lawn innocent dust glory mixture";

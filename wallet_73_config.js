@@ -1,1 +1,1 @@
-var mnemonic = "top hire excuse into luxury quality bicycle regular senior ready nest shoe";
+var mnemonic = "wisdom potato because legal kid clinic session dog innocent involve add bitter";

@@ -1,1 +1,1 @@
-var mnemonic = "achieve grain unique artefact leaf again true angle range goddess lawsuit other";
+var mnemonic = "use copy flock supreme bird pepper exhaust hungry stage lucky hedgehog tide";

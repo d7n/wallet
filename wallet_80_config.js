@@ -1,1 +1,1 @@
-var mnemonic = "armor few wolf planet comfort artwork april need flee tomorrow until wine";
+var mnemonic = "silly quarter witness elder leopard debate scene online fluid liberty field october";

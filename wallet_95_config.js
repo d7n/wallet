@@ -1,1 +1,1 @@
-var mnemonic = "spare pride birth staff reject delay rhythm jelly manage treat apart day";
+var mnemonic = "chronic arctic survey among joke code melody decide female wrong profit good";

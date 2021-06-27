@@ -1,1 +1,1 @@
-var mnemonic = "fetch song creek army method process slab radar misery bleak scrub mansion";
+var mnemonic = "body unlock define visual rural awkward meadow garment object crazy pilot kingdom";

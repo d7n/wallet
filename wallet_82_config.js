@@ -1,1 +1,1 @@
-var mnemonic = "chase subway require law lunch print again angle market weapon frog earth";
+var mnemonic = "tower neglect worth swamp humor cruel planet toy supreme fiction palm fever";

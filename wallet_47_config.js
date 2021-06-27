@@ -1,1 +1,1 @@
-var mnemonic = "snake ship blouse image tide favorite lesson canoe sunny icon session cereal";
+var mnemonic = "team core want around sport anchor guess hollow neck dad kidney exercise";

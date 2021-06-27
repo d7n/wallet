@@ -1,1 +1,1 @@
-var mnemonic = "hill frequent goose helmet trumpet middle cage nerve grant column goddess maximum";
+var mnemonic = "spin bomb wedding basket piano engine super ski same lens layer vacant";

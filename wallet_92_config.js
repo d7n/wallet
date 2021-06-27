@@ -1,1 +1,1 @@
-var mnemonic = "split radio tortoise arch sport cradle deputy awkward derive skill cannon index";
+var mnemonic = "erupt skin crunch tattoo torch panther job side pluck wine laugh habit";

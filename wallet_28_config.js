@@ -1,1 +1,1 @@
-var mnemonic = "version critic upset rifle pupil rapid elbow aspect gorilla liar other power";
+var mnemonic = "adapt grab turtle museum expose noise width vast spread will link tiny";

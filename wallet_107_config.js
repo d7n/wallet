@@ -1,1 +1,1 @@
-var mnemonic = "service celery impulse phrase beef marine library reason wise black exist smart";
+var mnemonic = "aisle oak wear chef forward equal human dice dynamic embody grocery system";

@@ -1,1 +1,1 @@
-var mnemonic = "dignity vibrant select before edit twist iron stick reveal recycle injury angry";
+var mnemonic = "prepare sea soup game syrup salute august resemble rain skate gap wear";

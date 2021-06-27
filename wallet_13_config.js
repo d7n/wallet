@@ -1,1 +1,1 @@
-var mnemonic = "voyage risk wonder mimic solar parrot muscle bottom uncle update island weekend";
+var mnemonic = "bundle swift ecology science october special negative monitor kidney winter piece blade";

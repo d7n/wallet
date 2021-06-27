@@ -1,1 +1,1 @@
-var mnemonic = "diary pill wish bright boring plastic just school alley buffalo laugh bean";
+var mnemonic = "regret pattern exile canvas ordinary canyon finish mansion measure board treat damage";

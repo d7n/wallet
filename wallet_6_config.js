@@ -1,1 +1,1 @@
-var mnemonic = "mother wrong deal doctor little suggest slow various effort gap body bronze";
+var mnemonic = "pupil true hospital apology title tourist claim picnic phrase route gift decade";

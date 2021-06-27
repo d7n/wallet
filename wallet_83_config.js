@@ -1,1 +1,1 @@
-var mnemonic = "bright trend sign brave price drop throw trip pen potato ship toilet";
+var mnemonic = "toward donkey devote budget knee laugh direct viable shuffle where veteran put";

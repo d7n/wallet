@@ -1,1 +1,1 @@
-var mnemonic = "debate glory broom raven day drip season polar canoe local truly thumb";
+var mnemonic = "input sausage lottery test detail wash puzzle pottery arrow focus pact truck";

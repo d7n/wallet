@@ -1,1 +1,1 @@
-var mnemonic = "tag blush cry remind popular swarm cross sketch subject accuse mixed blossom";
+var mnemonic = "wheat tunnel catch man valley planet target material hole champion census auto";

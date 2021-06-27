@@ -1,1 +1,1 @@
-var mnemonic = "will kind increase rate ability walk aim canyon cloth movie wrist scan";
+var mnemonic = "device ketchup mad circle quit able nut fortune zero oil edge tone";

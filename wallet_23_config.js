@@ -1,1 +1,1 @@
-var mnemonic = "update depend twice render tree jealous fee van loyal orphan gold love";
+var mnemonic = "angry receive inspire sentence twice admit name sick mosquito hamster rich bracket";

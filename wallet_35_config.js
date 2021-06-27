@@ -1,1 +1,1 @@
-var mnemonic = "cool satoshi green gap dentist mechanic dentist member notable fault basic common";
+var mnemonic = "flight apple today cattle swim mother response below calm gasp verify marine";

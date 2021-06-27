@@ -1,1 +1,1 @@
-var mnemonic = "alter balcony suggest guilt monster farm arctic orange arrest crime apology immune";
+var mnemonic = "desk shoe peanut task kangaroo aunt dad mansion expose pumpkin pear net";

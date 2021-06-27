@@ -1,1 +1,1 @@
-var mnemonic = "syrup thrive reunion blush ghost taste mention embody cupboard joke usage amount";
+var mnemonic = "degree sort divert public what shoot glance stuff network elephant link chalk";

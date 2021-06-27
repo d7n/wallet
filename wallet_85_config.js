@@ -1,1 +1,1 @@
-var mnemonic = "pig sock gaze purchase boat fly reduce picnic party situate today fancy";
+var mnemonic = "modify half biology boat remove sphere unknown flavor universe edit gesture boat";

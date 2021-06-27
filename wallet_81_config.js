@@ -1,1 +1,1 @@
-var mnemonic = "silver convince ticket lobster worry job field another recycle six balance mesh";
+var mnemonic = "apology result coyote radio aisle future ball satoshi path shoe east rail";

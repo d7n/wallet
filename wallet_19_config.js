@@ -1,1 +1,1 @@
-var mnemonic = "fiber goat mix approve blanket attend auto stool hurdle divert replace fuel";
+var mnemonic = "monster predict bar fine soup true apology face exchange muscle south chat";

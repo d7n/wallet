@@ -1,1 +1,1 @@
-var mnemonic = "spot paper surge danger virus mechanic impulse lumber rate search identify deposit";
+var mnemonic = "genius salmon sad olympic anxiety judge owner latin obscure forget inherit diesel";

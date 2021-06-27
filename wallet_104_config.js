@@ -1,1 +1,1 @@
-var mnemonic = "kid ten fault evolve cruise cube behind neutral smile noble present drum";
+var mnemonic = "flush drip boring spawn shine loop champion actor upset weather maid lion";

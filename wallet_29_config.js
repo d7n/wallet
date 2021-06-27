@@ -1,1 +1,1 @@
-var mnemonic = "basket alcohol puppy bonus early element priority law little exotic output catch";
+var mnemonic = "holiday race eternal left various motion fatigue brave normal model drop settle";

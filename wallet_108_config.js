@@ -1,1 +1,1 @@
-var mnemonic = "increase artist candy need close act mass gentle chaos paper kite view";
+var mnemonic = "cable simple olympic defense insect ball month tool response analyst lamp soap";

@@ -1,1 +1,1 @@
-var mnemonic = "almost mistake ride section invest bracket arrest member gas lonely fancy material";
+var mnemonic = "lock drill retire exile track theory roast across leg claim spike trick";

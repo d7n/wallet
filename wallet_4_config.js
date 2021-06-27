@@ -1,1 +1,1 @@
-var mnemonic = "hobby angle design camp robot stamp lizard invite guard file under utility";
+var mnemonic = "frozen absorb describe manage major nest animal midnight east degree error guilt";

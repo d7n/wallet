@@ -1,1 +1,1 @@
-var mnemonic = "struggle execute garment region label chest pact entire father rich rebuild clinic";
+var mnemonic = "electric anxiety object alter grab ribbon lawn office plate dutch wonder bus";

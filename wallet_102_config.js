@@ -1,1 +1,1 @@
-var mnemonic = "sniff exhaust phone police below velvet crop drastic monitor blame ankle daughter";
+var mnemonic = "today vapor stone fog illness slender pudding throw boost melt stand jewel";

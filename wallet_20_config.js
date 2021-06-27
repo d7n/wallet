@@ -1,1 +1,1 @@
-var mnemonic = "erupt pink capital afraid shift floor detect skill soup drill bicycle pioneer";
+var mnemonic = "inform census animal pear twist behave trap debate slot print reform just";

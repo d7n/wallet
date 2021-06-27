@@ -1,1 +1,1 @@
-var mnemonic = "sick cram lonely oil raven elbow chunk easy turn nasty spike cost";
+var mnemonic = "cupboard road uniform access rice nature transfer express first burger chalk ripple";

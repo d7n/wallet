@@ -1,1 +1,1 @@
-var mnemonic = "area screen recycle flat enemy vehicle swarm actual project flower equal group";
+var mnemonic = "syrup razor stool window mobile mystery blanket exotic fiber small theme ranch";

@@ -1,1 +1,1 @@
-var mnemonic = "prepare tiny clap damp month blade chaos tired nose title quality famous";
+var mnemonic = "vocal smoke gadget thank bundle area prefer basket gorilla insane dose habit";

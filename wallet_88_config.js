@@ -1,1 +1,1 @@
-var mnemonic = "ice nation juice slogan winner essence denial exotic board spend hero order";
+var mnemonic = "frame nephew page baby success else income damp cat input please you";

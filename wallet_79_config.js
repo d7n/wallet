@@ -1,1 +1,1 @@
-var mnemonic = "dose lyrics force soccer zoo immense prosper clock enemy system tower reject";
+var mnemonic = "step install prefer employ foam mother cost fun unhappy zone eagle vehicle";

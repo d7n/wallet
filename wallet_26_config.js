@@ -1,1 +1,1 @@
-var mnemonic = "wait arrive mean leave pelican common fence when kangaroo supreme gravity core";
+var mnemonic = "pear jaguar knife vicious end accuse surface gather sail ridge nest creek";

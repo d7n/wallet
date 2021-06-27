@@ -1,1 +1,1 @@
-var mnemonic = "license bind quality route fluid wild remain flight bind dutch opera shoot";
+var mnemonic = "mean now common envelope oyster truck install angry daring trap course rubber";

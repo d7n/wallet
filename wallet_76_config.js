@@ -1,1 +1,1 @@
-var mnemonic = "project jaguar roast clerk prize illegal canyon occur lamp battle can fossil";
+var mnemonic = "flight choose stuff detail feature shed mother actual gesture short crater sniff";

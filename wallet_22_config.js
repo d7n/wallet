@@ -1,1 +1,1 @@
-var mnemonic = "bomb you purse polar dinosaur height memory wait strong denial scene jar";
+var mnemonic = "vehicle young huge pretty wrong early cycle flame april royal type faculty";

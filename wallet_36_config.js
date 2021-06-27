@@ -1,1 +1,1 @@
-var mnemonic = "appear usual hen welcome virus initial patient nation cram arrange awkward rail";
+var mnemonic = "test believe nation river estate yellow behave innocent gauge educate above solar";

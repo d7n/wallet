@@ -1,1 +1,1 @@
-var mnemonic = "music stereo cheap injury maple prefer amused fame brain actress wrap chimney";
+var mnemonic = "drift weasel warfare gorilla treat find tissue orange punch praise quality couch";

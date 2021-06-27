@@ -1,1 +1,1 @@
-var mnemonic = "chase any home soccer try country party fly come purchase crime minute";
+var mnemonic = "proud journey okay paper like fish naive absorb aim grocery fantasy crowd";

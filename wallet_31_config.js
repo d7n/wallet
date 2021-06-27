@@ -1,1 +1,1 @@
-var mnemonic = "scrap food join success chef panda wish short quantum jealous odor vacant";
+var mnemonic = "miracle anchor ginger offer pattern unusual miracle little giant weasel march cherry";

@@ -1,1 +1,1 @@
-var mnemonic = "motion loyal trick audit ozone garden aim off electric solar volume repeat";
+var mnemonic = "object grid bundle imitate orient reopen goddess feel confirm pitch blouse slot";

@@ -1,1 +1,1 @@
-var mnemonic = "bless hello gun obtain render grit round pledge gown december thumb mercy";
+var mnemonic = "similar federal scheme coyote okay own inspire between dinner reject lemon produce";

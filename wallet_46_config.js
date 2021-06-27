@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin chunk pupil unable before resist menu fold match replace salt work";
+var mnemonic = "final chalk pill guitar aunt exhaust nut coral estate bronze very potato";

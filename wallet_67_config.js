@@ -1,1 +1,1 @@
-var mnemonic = "animal already glove learn settle dash tank rabbit august bus harbor noble";
+var mnemonic = "chronic ranch drastic problem debris fish insect caution item pelican subject huge";

@@ -1,1 +1,1 @@
-var mnemonic = "deer chuckle utility sentence crystal fatigue kangaroo occur kingdom truly coral dizzy";
+var mnemonic = "over clay able pelican novel isolate margin tent lift waste duty tooth";

@@ -1,1 +1,1 @@
-var mnemonic = "gloom robust unique fan fiction oxygen average equal miracle absorb wheat aerobic";
+var mnemonic = "mosquito impulse excite escape table lesson original frog filter duck reunion catch";

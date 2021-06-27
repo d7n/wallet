@@ -1,1 +1,1 @@
-var mnemonic = "job ribbon spend train term during leopard remain wrist suspect raise quarter";
+var mnemonic = "oyster journey dumb special visit sauce reveal decorate wagon vicious beauty expose";

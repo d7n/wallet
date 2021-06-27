@@ -1,1 +1,1 @@
-var mnemonic = "valve photo true recycle social song grocery decline margin fit opera neither";
+var mnemonic = "market guess bonus waste master situate element sister vessel enlist accuse rhythm";
