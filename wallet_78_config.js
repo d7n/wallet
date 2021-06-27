@@ -1,1 +1,1 @@
-var mnemonic = "fat text globe boy own inmate spy equip dizzy add tag clerk";
+var mnemonic = "alley nothing artwork style furnace office whip lizard maximum pride purpose eye";

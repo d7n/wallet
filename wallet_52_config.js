@@ -1,1 +1,1 @@
-var mnemonic = "future scatter way minute robot can pave lyrics agent about giant suit";
+var mnemonic = "close syrup lottery hamster coffee spider vessel shiver scout tower ladder proof";

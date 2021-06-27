@@ -1,1 +1,1 @@
-var mnemonic = "wheat tunnel catch man valley planet target material hole champion census auto";
+var mnemonic = "adapt much spawn rhythm renew seed plunge law disagree blood drive rose";

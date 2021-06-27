@@ -1,1 +1,1 @@
-var mnemonic = "prepare sea soup game syrup salute august resemble rain skate gap wear";
+var mnemonic = "cabbage dream balance label trade mirror foam sport alpha attract multiply mosquito";

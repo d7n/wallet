@@ -1,1 +1,1 @@
-var mnemonic = "vocal smoke gadget thank bundle area prefer basket gorilla insane dose habit";
+var mnemonic = "soup cart quiz crystal rival wear snow stumble paper drama group doctor";

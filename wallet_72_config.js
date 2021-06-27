@@ -1,1 +1,1 @@
-var mnemonic = "keen devote quick layer hollow deny vendor mechanic fever box maple rent";
+var mnemonic = "link address tattoo double sock task wear plug shield gate there cupboard";

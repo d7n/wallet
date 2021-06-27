@@ -1,1 +1,1 @@
-var mnemonic = "flush drip boring spawn shine loop champion actor upset weather maid lion";
+var mnemonic = "leader cinnamon fresh bind odor thumb option vapor smile urban shiver crucial";

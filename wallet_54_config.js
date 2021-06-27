@@ -1,1 +1,1 @@
-var mnemonic = "market guess bonus waste master situate element sister vessel enlist accuse rhythm";
+var mnemonic = "melt broom advice weather idle salt hunt gossip suffer love apart company";

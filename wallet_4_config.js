@@ -1,1 +1,1 @@
-var mnemonic = "frozen absorb describe manage major nest animal midnight east degree error guilt";
+var mnemonic = "grape search trade rival question key quit bundle upset slide snow enable";

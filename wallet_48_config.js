@@ -1,1 +1,1 @@
-var mnemonic = "oyster journey dumb special visit sauce reveal decorate wagon vicious beauty expose";
+var mnemonic = "tomorrow correct license tent gauge unveil voice tobacco extend student term okay";

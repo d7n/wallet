@@ -1,1 +1,1 @@
-var mnemonic = "input sausage lottery test detail wash puzzle pottery arrow focus pact truck";
+var mnemonic = "squirrel elbow hungry gym blush umbrella person bulb ready scissors popular swamp";

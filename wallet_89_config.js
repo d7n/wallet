@@ -1,1 +1,1 @@
-var mnemonic = "detect solar front jealous shrug finish depart tornado ethics novel raw feel";
+var mnemonic = "evil list midnight divert stuff rebuild enough print annual talent reunion shock";

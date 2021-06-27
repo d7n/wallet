@@ -1,1 +1,1 @@
-var mnemonic = "use copy flock supreme bird pepper exhaust hungry stage lucky hedgehog tide";
+var mnemonic = "stuff mobile hungry husband stereo guilt large enact physical snake foot roof";

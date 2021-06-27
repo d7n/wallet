@@ -1,1 +1,1 @@
-var mnemonic = "team core want around sport anchor guess hollow neck dad kidney exercise";
+var mnemonic = "fade already eternal drill insane used blast ecology rice display comic correct";

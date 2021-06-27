@@ -1,1 +1,1 @@
-var mnemonic = "survey aware tool jump emotion candy pulse endorse cash health receive spray";
+var mnemonic = "kitchen volcano dress subway short tunnel story verify hurry cash vacuum area";

@@ -1,1 +1,1 @@
-var mnemonic = "lock drill retire exile track theory roast across leg claim spike trick";
+var mnemonic = "eight glance hub fiber pink oil umbrella move waste about hotel lava";

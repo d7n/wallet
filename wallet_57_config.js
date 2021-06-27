@@ -1,1 +1,1 @@
-var mnemonic = "shift solve today budget chapter tattoo talk casino brick frequent frozen shoe";
+var mnemonic = "width skirt brush luggage modify supreme demand gift refuse copy dose gorilla";

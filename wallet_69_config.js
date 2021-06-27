@@ -1,1 +1,1 @@
-var mnemonic = "mountain fiscal segment engage island across thrive crisp farm control tilt punch";
+var mnemonic = "hobby remain gown enact undo become opinion planet hundred jaguar assist turkey";

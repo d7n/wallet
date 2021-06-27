@@ -1,1 +1,1 @@
-var mnemonic = "bulk hawk chicken miss robust wink dolphin focus payment gospel mix safe";
+var mnemonic = "strong bag garlic innocent alert moment expire this spread pride easy come";

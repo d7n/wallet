@@ -1,1 +1,1 @@
-var mnemonic = "mean now common envelope oyster truck install angry daring trap course rubber";
+var mnemonic = "auto buffalo lady fee wisdom void also elite tide stem now snake";

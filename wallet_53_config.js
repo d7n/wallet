@@ -1,1 +1,1 @@
-var mnemonic = "drift weasel warfare gorilla treat find tissue orange punch praise quality couch";
+var mnemonic = "glance message jewel supply little verify width smile play grab veteran purity";

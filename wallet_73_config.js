@@ -1,1 +1,1 @@
-var mnemonic = "wisdom potato because legal kid clinic session dog innocent involve add bitter";
+var mnemonic = "woman hockey spy smart present hurry stamp cactus tackle ability response nasty";

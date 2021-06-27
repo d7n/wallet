@@ -1,1 +1,1 @@
-var mnemonic = "object grid bundle imitate orient reopen goddess feel confirm pitch blouse slot";
+var mnemonic = "rabbit stage april earn health weird hurt toilet hat faith stuff phrase";

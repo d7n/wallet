@@ -1,1 +1,1 @@
-var mnemonic = "lonely sight gallery describe lift tooth boat rack scan display mesh potato";
+var mnemonic = "refuse interest prepare ask vapor light cart forum real teach quality half";

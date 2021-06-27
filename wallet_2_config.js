@@ -1,1 +1,1 @@
-var mnemonic = "coast skull scale ask pride oak soccer luxury now pulp orbit soap";
+var mnemonic = "waste zebra tomorrow outdoor rich wild laugh decide decrease vocal switch margin";

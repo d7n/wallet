@@ -1,1 +1,1 @@
-var mnemonic = "test believe nation river estate yellow behave innocent gauge educate above solar";
+var mnemonic = "mean drum field allow truck town problem hour claim food tribe ecology";

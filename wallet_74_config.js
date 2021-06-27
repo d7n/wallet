@@ -1,1 +1,1 @@
-var mnemonic = "genius salmon sad olympic anxiety judge owner latin obscure forget inherit diesel";
+var mnemonic = "exact proud carbon village orient width popular filter cotton purse scheme balcony";

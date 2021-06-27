@@ -1,1 +1,1 @@
-var mnemonic = "pear jaguar knife vicious end accuse surface gather sail ridge nest creek";
+var mnemonic = "credit long exchange lady okay stereo inject can hill stool control novel";

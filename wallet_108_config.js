@@ -1,1 +1,1 @@
-var mnemonic = "cable simple olympic defense insect ball month tool response analyst lamp soap";
+var mnemonic = "trend ethics cream grant talk alley repair renew nominee viable remind risk";

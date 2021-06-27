@@ -1,1 +1,1 @@
-var mnemonic = "step install prefer employ foam mother cost fun unhappy zone eagle vehicle";
+var mnemonic = "donkey oval lemon cliff rather poverty car twist orbit bench tip angle";

@@ -1,1 +1,1 @@
-var mnemonic = "allow film matrix summer congress smart alter mother excess almost sure clay";
+var mnemonic = "hamster giggle crumble pretty envelope brother bonus orient card argue degree diesel";

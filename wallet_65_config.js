@@ -1,1 +1,1 @@
-var mnemonic = "primary opinion rose blade blue certain ecology mosquito goddess tape size mountain";
+var mnemonic = "lunar legend manage useless dwarf muffin economy buffalo wheel subject reunion fly";

@@ -1,1 +1,1 @@
-var mnemonic = "adapt grab turtle museum expose noise width vast spread will link tiny";
+var mnemonic = "also today peanut rule vocal priority vivid slot tuna behind hidden idle";

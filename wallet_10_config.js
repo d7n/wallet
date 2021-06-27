@@ -1,1 +1,1 @@
-var mnemonic = "machine summer vocal echo derive vehicle ten good salute differ method season";
+var mnemonic = "foam cattle kid garage vocal destroy enough swap park sign annual banana";

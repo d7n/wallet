@@ -1,1 +1,1 @@
-var mnemonic = "offer discover mention cloth beef useless error lawn innocent dust glory mixture";
+var mnemonic = "identify bench seek key shove absurd slush across cook entry winner truth";

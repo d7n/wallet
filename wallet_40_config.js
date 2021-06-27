@@ -1,1 +1,1 @@
-var mnemonic = "reveal royal lady pitch behave bunker praise valid enlist swallow about rent";
+var mnemonic = "clip shed own humor fire believe slow rural tone reason thank orchard";

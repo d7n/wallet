@@ -1,1 +1,1 @@
-var mnemonic = "unlock fine actual execute benefit casino foot example casino present gadget forest";
+var mnemonic = "example drink script angry hole vivid vote innocent raise mass toast deny";

@@ -1,1 +1,1 @@
-var mnemonic = "during version menu rough animal rail uniform helmet forward behind gossip engine";
+var mnemonic = "else erupt tank region copper fine ancient onion matrix hour air dream";

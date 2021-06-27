@@ -1,1 +1,1 @@
-var mnemonic = "palm pizza snake spice borrow light frame immense explain bounce public wagon";
+var mnemonic = "trophy option soul select ahead vendor slice sell shell vendor thunder muffin";

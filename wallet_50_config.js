@@ -1,1 +1,1 @@
-var mnemonic = "body unlock define visual rural awkward meadow garment object crazy pilot kingdom";
+var mnemonic = "split muffin planet casino heart spread skull cake donate business build beach";

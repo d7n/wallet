@@ -1,1 +1,1 @@
-var mnemonic = "include ahead brisk convince uniform sheriff slogan satisfy just column dad giant";
+var mnemonic = "casino dragon sorry violin few depart puzzle radar recall couch old dust";

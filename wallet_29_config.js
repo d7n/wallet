@@ -1,1 +1,1 @@
-var mnemonic = "holiday race eternal left various motion fatigue brave normal model drop settle";
+var mnemonic = "unfold mandate reduce exact abandon expire fame adult sport ceiling message phrase";

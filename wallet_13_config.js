@@ -1,1 +1,1 @@
-var mnemonic = "bundle swift ecology science october special negative monitor kidney winter piece blade";
+var mnemonic = "purchase blame trade almost squirrel circle wide shaft gaze engine sustain target";

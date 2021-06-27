@@ -1,1 +1,1 @@
-var mnemonic = "miracle anchor ginger offer pattern unusual miracle little giant weasel march cherry";
+var mnemonic = "gauge sweet tired bargain wait valid firm power spin guide dash dose";

@@ -1,1 +1,1 @@
-var mnemonic = "tower neglect worth swamp humor cruel planet toy supreme fiction palm fever";
+var mnemonic = "pitch fee crawl robust bacon excuse invest sell reduce duty owner rich";

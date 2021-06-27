@@ -1,1 +1,1 @@
-var mnemonic = "depend trim bless print raven gas chief afford scrap wrist avoid typical";
+var mnemonic = "can arm action life move gossip bid track deposit favorite lucky chaos";

@@ -1,1 +1,1 @@
-var mnemonic = "theme jar pupil veteran custom trial tribe dust doctor dumb will federal";
+var mnemonic = "slight oval wise ignore source goat music gasp drift lunch degree foil";

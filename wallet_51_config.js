@@ -1,1 +1,1 @@
-var mnemonic = "fan winner rival volume cage famous brief hire online gentle story perfect";
+var mnemonic = "neglect feel gesture ostrich acoustic claim volume tide dose nominee start cup";

@@ -1,1 +1,1 @@
-var mnemonic = "chronic arctic survey among joke code melody decide female wrong profit good";
+var mnemonic = "wedding dragon pond vibrant rain mobile onion brisk faint alone involve crystal";

@@ -1,1 +1,1 @@
-var mnemonic = "service unusual furnace today thunder actress plastic attitude lucky bacon spend discover";
+var mnemonic = "verify record hip health solve casual food rookie grocery poem erase leg";

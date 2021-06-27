@@ -1,1 +1,1 @@
-var mnemonic = "pupil true hospital apology title tourist claim picnic phrase route gift decade";
+var mnemonic = "kit sauce first moon patch truth ridge thing fun pitch stamp link";

@@ -1,1 +1,1 @@
-var mnemonic = "vehicle young huge pretty wrong early cycle flame april royal type faculty";
+var mnemonic = "board cotton release tourist belt jungle skull income life avocado health weasel";

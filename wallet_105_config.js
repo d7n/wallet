@@ -1,1 +1,1 @@
-var mnemonic = "example century soccer oyster submit spoon prosper stable unhappy grief asthma hold";
+var mnemonic = "sponsor seven enrich sadness narrow foam brand expect logic obtain ahead keen";

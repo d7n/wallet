@@ -1,1 +1,1 @@
-var mnemonic = "few live gaze frozen visa exact fee host swift fish soccer fork";
+var mnemonic = "ozone nature divide kidney aisle slice cream pattern depth chalk essay cabbage";

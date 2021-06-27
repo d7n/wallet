@@ -1,1 +1,1 @@
-var mnemonic = "immense crouch poet fault innocent outer item salmon tilt motion nose poverty";
+var mnemonic = "chest catch spend dilemma focus potato trash pyramid bench matter assume audit";

@@ -1,1 +1,1 @@
-var mnemonic = "erupt skin crunch tattoo torch panther job side pluck wine laugh habit";
+var mnemonic = "brisk claim ship stand mountain inside step hair crew tube crack that";

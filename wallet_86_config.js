@@ -1,1 +1,1 @@
-var mnemonic = "eagle focus list sea consider theme delay juice field twenty treat junk";
+var mnemonic = "thing hundred couple razor demand anger salad metal faint height picnic amazing";

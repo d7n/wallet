@@ -1,1 +1,1 @@
-var mnemonic = "near mixture equip visa there remove dinosaur brown brush target subway oil";
+var mnemonic = "swim leg soon chef manage cable heart myself purity turtle monkey tongue";

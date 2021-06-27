@@ -1,1 +1,1 @@
-var mnemonic = "desk shoe peanut task kangaroo aunt dad mansion expose pumpkin pear net";
+var mnemonic = "panda artist spare figure embark pudding garbage kingdom result master vibrant camera";

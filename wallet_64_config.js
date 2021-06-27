@@ -1,1 +1,1 @@
-var mnemonic = "uncle island benefit radar video usage coffee cancel cruel find physical alpha";
+var mnemonic = "second sister size song defense review paper steel welcome inquiry ship bomb";

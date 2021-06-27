@@ -1,1 +1,1 @@
-var mnemonic = "youth upper feed alpha dizzy permit resemble traffic member aspect thank purchase";
+var mnemonic = "group apple circle refuse depart please shy nominee learn dumb depend point";

@@ -1,1 +1,1 @@
-var mnemonic = "question soft photo office damage husband time index wood session perfect lobster";
+var mnemonic = "ladder smile crash ancient attack tone wide brisk trust beach zebra surface";

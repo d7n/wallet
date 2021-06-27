@@ -1,1 +1,1 @@
-var mnemonic = "belt write width strategy around want sample crazy hire crystal flag thumb";
+var mnemonic = "manage either grace comic major kangaroo cannon share truth joke penalty vocal";

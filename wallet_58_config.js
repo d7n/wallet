@@ -1,1 +1,1 @@
-var mnemonic = "syrup razor stool window mobile mystery blanket exotic fiber small theme ranch";
+var mnemonic = "pond faith enroll latin wealth shift idle fly noise reopen tortoise faith";

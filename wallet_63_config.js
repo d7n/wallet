@@ -1,1 +1,1 @@
-var mnemonic = "dust stuff monkey enter soup hard hat infant tobacco kit ticket brave";
+var mnemonic = "climb hazard motion donor funny pledge limb destroy gauge rigid kidney apart";

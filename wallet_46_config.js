@@ -1,1 +1,1 @@
-var mnemonic = "final chalk pill guitar aunt exhaust nut coral estate bronze very potato";
+var mnemonic = "jazz whisper worth magic supply tortoise gain sheriff coast artefact blanket attend";

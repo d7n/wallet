@@ -1,1 +1,1 @@
-var mnemonic = "heavy minor eye scare glove limb guitar good lecture flat kid blush";
+var mnemonic = "maple crystal cabbage echo team climb digital tonight clock huge genre dentist";

@@ -1,1 +1,1 @@
-var mnemonic = "feed type dignity exhaust suffer mix economy clerk mule govern exit army";
+var mnemonic = "recycle knee solar hobby exit maximum wild notable grocery parade anchor now";

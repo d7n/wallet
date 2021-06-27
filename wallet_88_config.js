@@ -1,1 +1,1 @@
-var mnemonic = "frame nephew page baby success else income damp cat input please you";
+var mnemonic = "scissors friend doll bird trash enable element roast plunge entry cactus fiber";

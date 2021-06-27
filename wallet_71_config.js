@@ -1,1 +1,1 @@
-var mnemonic = "river travel lion basic atom neutral drama apart strong ten tongue print";
+var mnemonic = "intact video mom carpet uncle destroy remove slow dog skin addict casual";

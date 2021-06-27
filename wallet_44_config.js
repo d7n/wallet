@@ -1,1 +1,1 @@
-var mnemonic = "alpha horn tunnel salon mobile battle peace assist burden galaxy torch learn";
+var mnemonic = "swift seek congress rival genius leader dirt solid strong jazz pave true";

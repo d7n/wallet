@@ -1,1 +1,1 @@
-var mnemonic = "mosquito impulse excite escape table lesson original frog filter duck reunion catch";
+var mnemonic = "injury imitate notice room hip dish funny clock explain february bone ticket";

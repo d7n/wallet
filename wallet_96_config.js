@@ -1,1 +1,1 @@
-var mnemonic = "proud journey okay paper like fish naive absorb aim grocery fantasy crowd";
+var mnemonic = "primary rich skin grief sound aisle brave tobacco pave flat globe afford";

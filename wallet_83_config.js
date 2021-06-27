@@ -1,1 +1,1 @@
-var mnemonic = "toward donkey devote budget knee laugh direct viable shuffle where veteran put";
+var mnemonic = "evolve salon ski hidden recycle brain echo business loan mystery faculty sun";

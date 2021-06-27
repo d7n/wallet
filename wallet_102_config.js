@@ -1,1 +1,1 @@
-var mnemonic = "today vapor stone fog illness slender pudding throw boost melt stand jewel";
+var mnemonic = "blouse brother outer pact claim prosper wear material cradle bridge stick apology";

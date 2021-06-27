@@ -1,1 +1,1 @@
-var mnemonic = "over clay able pelican novel isolate margin tent lift waste duty tooth";
+var mnemonic = "later situate negative tomorrow rocket amazing barely pair bridge near elephant disease";

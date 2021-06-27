@@ -1,1 +1,1 @@
-var mnemonic = "social aspect shove valid pledge world bomb media soldier cash same ladder";
+var mnemonic = "glue letter thumb burger onion glue shove market neither disorder glory wife";

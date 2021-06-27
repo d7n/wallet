@@ -1,1 +1,1 @@
-var mnemonic = "chronic ranch drastic problem debris fish insect caution item pelican subject huge";
+var mnemonic = "accuse taste logic mechanic pretty pumpkin convince eternal only small wild legend";

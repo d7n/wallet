@@ -1,1 +1,1 @@
-var mnemonic = "flight apple today cattle swim mother response below calm gasp verify marine";
+var mnemonic = "neck avoid gap coin pelican hire tail kite galaxy club season minor";

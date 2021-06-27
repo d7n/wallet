@@ -1,1 +1,1 @@
-var mnemonic = "diagram exile jaguar pelican talk sudden plastic upon prefer improve burden engage";
+var mnemonic = "ceiling before amateur column broken salmon analyst private confirm shoot toward lemon";

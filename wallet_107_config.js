@@ -1,1 +1,1 @@
-var mnemonic = "aisle oak wear chef forward equal human dice dynamic embody grocery system";
+var mnemonic = "public derive sock major extend canoe type bike talk one board laundry";

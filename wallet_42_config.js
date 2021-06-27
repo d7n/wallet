@@ -1,1 +1,1 @@
-var mnemonic = "quick usage flight track stumble profit rich series awake smile amateur arena";
+var mnemonic = "meat distance catch rice impose rebuild arm west custom zoo message bag";

@@ -1,1 +1,1 @@
-var mnemonic = "inform census animal pear twist behave trap debate slot print reform just";
+var mnemonic = "cat stem treat sing all own inject popular rocket foot upper draw";

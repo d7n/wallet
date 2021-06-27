@@ -1,1 +1,1 @@
-var mnemonic = "start mercy rural motion hundred canoe chimney matter wave popular dance embark";
+var mnemonic = "eternal rabbit predict orient year skin zero timber solar welcome advance favorite";

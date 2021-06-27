@@ -1,1 +1,1 @@
-var mnemonic = "stage snow web decrease rice surround observe evidence license draw magic farm";
+var mnemonic = "adult agent balance execute pipe rose obvious awake vocal loud that subway";

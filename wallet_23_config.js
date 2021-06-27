@@ -1,1 +1,1 @@
-var mnemonic = "angry receive inspire sentence twice admit name sick mosquito hamster rich bracket";
+var mnemonic = "climb office path enable quality diary quiz delay alcohol beach inch favorite";

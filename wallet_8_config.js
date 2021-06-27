@@ -1,1 +1,1 @@
-var mnemonic = "surprise cave junior rival alter tide desert choice exit salmon ball find";
+var mnemonic = "common earth fix vessel lizard news decline expand route stumble cactus decrease";

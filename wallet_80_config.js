@@ -1,1 +1,1 @@
-var mnemonic = "silly quarter witness elder leopard debate scene online fluid liberty field october";
+var mnemonic = "salad spread rebuild receive hello album traffic practice topple parrot youth stem";

@@ -1,1 +1,1 @@
-var mnemonic = "spin bomb wedding basket piano engine super ski same lens layer vacant";
+var mnemonic = "trust hollow predict glance body cake someone lottery knock enable gospel street";

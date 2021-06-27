@@ -1,1 +1,1 @@
-var mnemonic = "electric anxiety object alter grab ribbon lawn office plate dutch wonder bus";
+var mnemonic = "retire coral size arctic teach type cruise pool net pear spoil direct";
