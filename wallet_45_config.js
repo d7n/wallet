@@ -1,1 +1,1 @@
-var mnemonic = "hazard lizard hundred rocket shop shove mercy cable marriage siren body child";
+var mnemonic = "wisdom remember sphere intact debate aunt tattoo ship adapt affair margin april";

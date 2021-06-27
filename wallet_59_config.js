@@ -1,1 +1,1 @@
-var mnemonic = "burden hip try fire afford boost melody bulb kite raw walnut language";
+var mnemonic = "vapor pledge sample siege priority arena sail choose chuckle artefact dish keep";

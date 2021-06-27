@@ -1,1 +1,1 @@
-var mnemonic = "fashion pulse chef system auction energy tragic average follow hazard oil pepper";
+var mnemonic = "artefact public make gadget attend foot ball sing walnut repair claim whip";

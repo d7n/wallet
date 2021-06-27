@@ -1,1 +1,1 @@
-var mnemonic = "alien alcohol chapter alcohol decrease inner gospel obtain buddy jaguar viable away";
+var mnemonic = "gossip melt series caught when cover antenna surround office average track powder";

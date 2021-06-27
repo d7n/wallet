@@ -1,1 +1,1 @@
-var mnemonic = "club toss smooth twelve danger million ship parade tonight like inch damage";
+var mnemonic = "lesson purity mind dizzy shaft yard census lawsuit common hair spell rug";

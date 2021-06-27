@@ -1,1 +1,1 @@
-var mnemonic = "leopard eye mix repeat clerk found chuckle panel squeeze muscle skin bonus";
+var mnemonic = "true spoon earn kitchen inch robot width own youth kick duty garment";

@@ -1,1 +1,1 @@
-var mnemonic = "secret memory grid trap asthma install jazz exhibit word broom wild wasp";
+var mnemonic = "horror craft group chronic fringe picnic close ride purse two sheriff bacon";

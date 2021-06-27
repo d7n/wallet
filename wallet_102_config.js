@@ -1,1 +1,1 @@
-var mnemonic = "resemble amateur energy spoon gun knee select swamp sense cycle hazard core";
+var mnemonic = "spot nerve sphere boost elite three key inside fan hollow always blast";

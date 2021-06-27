@@ -1,1 +1,1 @@
-var mnemonic = "subject shiver limb angry egg pledge pledge rude diagram trash tip illness";
+var mnemonic = "museum talk another drum invest height fossil bless lottery dad any measure";

@@ -1,1 +1,1 @@
-var mnemonic = "clever undo aunt enter success juice donkey foot gloom utility grab dirt";
+var mnemonic = "rapid shed agree asset buyer when congress stairs shiver wool debate report";

@@ -1,1 +1,1 @@
-var mnemonic = "basket clip whip attitude audit coconut charge kid giant cluster fame shell";
+var mnemonic = "spawn bench diesel ridge range junior autumn any awkward satisfy lizard derive";

@@ -1,1 +1,1 @@
-var mnemonic = "small shrug floor volcano joy awesome enlist example saddle chase gain jar";
+var mnemonic = "delay gift boring shoulder envelope because snow public plunge sunset wonder finger";

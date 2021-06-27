@@ -1,1 +1,1 @@
-var mnemonic = "derive expire guitar over pulp joy brass work slam nasty mention trade";
+var mnemonic = "knife cute club talk eyebrow world erosion dust punch review casino wrong";

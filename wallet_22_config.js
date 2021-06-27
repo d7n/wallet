@@ -1,1 +1,1 @@
-var mnemonic = "ship bless cigar fashion magic hobby excess tone gaze boss return battle";
+var mnemonic = "term pulp pipe until slice west tunnel away response catch village above";

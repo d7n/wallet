@@ -1,1 +1,1 @@
-var mnemonic = "neither chase math cruel square gauge abandon nice rocket just gun sauce";
+var mnemonic = "mango airport inside bean run immense trigger gold fiber detail cave fork";

@@ -1,1 +1,1 @@
-var mnemonic = "repeat gallery glide wing short abandon same devote air token spawn custom";
+var mnemonic = "morning usual escape subject bullet fossil dirt knife dog save slow fortune";

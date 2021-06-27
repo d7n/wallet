@@ -1,1 +1,1 @@
-var mnemonic = "paddle begin glow bomb trim regular predict end hundred trouble wing salmon";
+var mnemonic = "farm error life rib file tiny glimpse upset step casual rally grow";

@@ -1,1 +1,1 @@
-var mnemonic = "purchase moment question remind grape able endorse photo harbor alert begin pulp";
+var mnemonic = "silk cat warm minute trap advice lobster window buddy meat hour clinic";

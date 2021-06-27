@@ -1,1 +1,1 @@
-var mnemonic = "rotate follow merge glad ancient fee image inform require fun butter motion";
+var mnemonic = "defense hope race affair hen senior artwork shop borrow paper sand image";

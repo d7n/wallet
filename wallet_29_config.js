@@ -1,1 +1,1 @@
-var mnemonic = "point anchor labor destroy boy file dignity battle flush youth ethics truly";
+var mnemonic = "blood yellow design useful rough spare inch language one must caught sort";

@@ -1,1 +1,1 @@
-var mnemonic = "around element gate aspect access copy swing obscure arena hurt satisfy icon";
+var mnemonic = "sure release capital gallery snap west maple tank steel error priority meat";

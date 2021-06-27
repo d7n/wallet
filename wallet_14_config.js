@@ -1,1 +1,1 @@
-var mnemonic = "space long tennis flag step struggle tower dinosaur skull blue rotate clap";
+var mnemonic = "shallow vessel lava heart live tornado smoke become relax illness cactus idea";

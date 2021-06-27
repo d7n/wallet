@@ -1,1 +1,1 @@
-var mnemonic = "climb chair first soccer wrong stamp cruise police amazing pepper deposit fragile";
+var mnemonic = "torch carbon beauty mixed ghost lizard crime library famous power that crane";

@@ -1,1 +1,1 @@
-var mnemonic = "gas civil imitate impulse door more bulk human hood unusual slab old";
+var mnemonic = "evil owner language steel pupil valve submit mom hawk capital myth crop";

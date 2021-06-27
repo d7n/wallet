@@ -1,1 +1,1 @@
-var mnemonic = "tag sleep plug plastic season flavor glass garlic census pilot used size";
+var mnemonic = "prosper baby cheese visa bar lady offer door happy trumpet bleak unfold";

@@ -1,1 +1,1 @@
-var mnemonic = "august champion science hole master half during spray hurdle harbor envelope broken";
+var mnemonic = "bomb kingdom slice length attack machine juice primary loud welcome seven crush";

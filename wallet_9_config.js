@@ -1,1 +1,1 @@
-var mnemonic = "ugly crush enforce input retire bachelor cage length stereo cube nice tribe";
+var mnemonic = "grunt few bracket coach three critic clap figure inmate opera toe rate";

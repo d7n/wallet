@@ -1,1 +1,1 @@
-var mnemonic = "left peace route feature detail wife foot swallow exist warm romance prize";
+var mnemonic = "family hen floor plug chair perfect sing profit million grid purse hammer";

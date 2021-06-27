@@ -1,1 +1,1 @@
-var mnemonic = "top calm worth bless immune horse stomach sunset foot room easily exchange";
+var mnemonic = "fatal strong speak game clarify depend patient combine auction guess brush chat";

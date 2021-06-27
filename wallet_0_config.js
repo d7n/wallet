@@ -1,1 +1,1 @@
-var mnemonic = "caution true rice trap risk age minor update talk seminar estate fresh";
+var mnemonic = "nurse accuse inner nerve south route ankle kit elder pretty quarter shrimp";

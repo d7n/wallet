@@ -1,1 +1,1 @@
-var mnemonic = "ability bread recycle purchase girl junk number equal visit web lunch observe";
+var mnemonic = "lady snack power quarter snap almost glide rail bird wash gasp furnace";

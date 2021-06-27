@@ -1,1 +1,1 @@
-var mnemonic = "adjust farm fade hobby indoor key bronze shrug provide feel catalog garden";
+var mnemonic = "duty resource call morning border what slush still clerk jewel chair improve";

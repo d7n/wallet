@@ -1,1 +1,1 @@
-var mnemonic = "twelve direct ketchup swing clog walnut setup cattle net icon essay inhale";
+var mnemonic = "road cry borrow ignore hammer select feature worth wear fox energy athlete";

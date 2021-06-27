@@ -1,1 +1,1 @@
-var mnemonic = "label noble parent refuse unhappy crush ginger admit brisk voice faith chuckle";
+var mnemonic = "observe seminar flag cannon few car measure volume flip voyage ginger seven";

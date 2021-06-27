@@ -1,1 +1,1 @@
-var mnemonic = "hurdle divide dice impulse elite update adult reveal proof aspect angry weird";
+var mnemonic = "force clay corn exchange unable mercy mass three effort federal report pause";

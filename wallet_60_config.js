@@ -1,1 +1,1 @@
-var mnemonic = "act wet profit husband cabin observe miss slush shock assault attitude health";
+var mnemonic = "salute siren dismiss jazz promote ring wolf shift trim noble pelican hole";

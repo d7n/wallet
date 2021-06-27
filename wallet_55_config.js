@@ -1,1 +1,1 @@
-var mnemonic = "update render plug write document art like faint ask then clog song";
+var mnemonic = "save apology razor assist message man disease candy voice green beauty chronic";

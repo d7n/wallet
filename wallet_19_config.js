@@ -1,1 +1,1 @@
-var mnemonic = "floor jacket forget settle spot auto plunge lyrics second harsh file speak";
+var mnemonic = "heavy daring mercy razor local damage accident smart oval story feel trend";

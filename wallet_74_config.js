@@ -1,1 +1,1 @@
-var mnemonic = "normal sweet dream green vehicle famous undo tissue camera law dynamic wire";
+var mnemonic = "estate step swift local nasty border evoke general old ethics frog raise";

@@ -1,1 +1,1 @@
-var mnemonic = "antique humor donor spatial crater ginger save penalty rate injury bless corn";
+var mnemonic = "cousin card replace anger debris reward horror style cage diagram broom hen";

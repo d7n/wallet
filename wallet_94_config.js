@@ -1,1 +1,1 @@
-var mnemonic = "antique boy adult claim risk side flee hedgehog cruel pear inherit crisp";
+var mnemonic = "world annual setup circle lift prison pretty company again similar trash fall";

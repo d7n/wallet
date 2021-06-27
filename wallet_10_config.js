@@ -1,1 +1,1 @@
-var mnemonic = "mammal citizen misery bike damage prepare genius acoustic amount leaf museum lawn";
+var mnemonic = "couple bargain motor two tennis phone wealth banner bright device faculty thing";

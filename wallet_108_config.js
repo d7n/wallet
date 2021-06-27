@@ -1,1 +1,1 @@
-var mnemonic = "give office situate clutch vault hello april glad behave mad river total";
+var mnemonic = "stable notice exact absorb penalty squeeze include vapor push man initial favorite";

@@ -1,1 +1,1 @@
-var mnemonic = "grass rice onion hollow near nose party leopard text wreck luxury return";
+var mnemonic = "venture dwarf drive helmet loan invest frown usual wild judge celery tail";

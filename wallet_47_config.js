@@ -1,1 +1,1 @@
-var mnemonic = "coast employ leaf maple guitar fabric tiger wreck eagle orient gallery rebuild";
+var mnemonic = "group brave vapor limb remain field sister horn pause digital carry tattoo";

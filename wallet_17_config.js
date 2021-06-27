@@ -1,1 +1,1 @@
-var mnemonic = "biology famous hole auto nose engine useful hold diet atom news pulp";
+var mnemonic = "combine smoke own april monkey elevator rookie glue much minute swarm enemy";

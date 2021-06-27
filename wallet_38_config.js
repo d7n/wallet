@@ -1,1 +1,1 @@
-var mnemonic = "bottom shock truck rabbit gauge firm miss easy cushion once pave evolve";
+var mnemonic = "level violin spy novel wide tomorrow deal august push intact grit teach";

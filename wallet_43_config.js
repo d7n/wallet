@@ -1,1 +1,1 @@
-var mnemonic = "hand slush suspect grocery cinnamon churn lazy chat junk demand uncover fiscal";
+var mnemonic = "churn bamboo laugh nasty cost survey able narrow modify misery pyramid inner";

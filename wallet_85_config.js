@@ -1,1 +1,1 @@
-var mnemonic = "honey climb decade boss focus ghost record spirit sugar stable cry spend";
+var mnemonic = "piece coconut art lazy ribbon depart link edit exclude detect monkey sorry";

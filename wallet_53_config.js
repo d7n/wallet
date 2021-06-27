@@ -1,1 +1,1 @@
-var mnemonic = "day mail catch tourist scrub youth reason retreat small tomorrow hollow loop";
+var mnemonic = "task net nurse blur alien veteran chimney engine capable liquid illness prefer";

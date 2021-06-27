@@ -1,1 +1,1 @@
-var mnemonic = "panther chunk visual abstract stove find hat type thunder horn pioneer patient";
+var mnemonic = "crumble fork valid pause win island plate balcony liberty atom theme ozone";

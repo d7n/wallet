@@ -1,1 +1,1 @@
-var mnemonic = "grocery cricket amount fabric donate rely border layer middle anchor enter north";
+var mnemonic = "help spirit bounce velvet anger ladder custom pulp aspect unveil midnight alcohol";

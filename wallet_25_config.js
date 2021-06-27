@@ -1,1 +1,1 @@
-var mnemonic = "upset toe neglect eyebrow you camera sorry elite regular latin observe trigger";
+var mnemonic = "mechanic solution coin human awake bread forget raise gloom north clutch creek";

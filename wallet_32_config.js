@@ -1,1 +1,1 @@
-var mnemonic = "palm mention note oval purity deny normal hello obscure weasel charge strategy";
+var mnemonic = "valley double major ostrich cause frown weird mobile pen wagon prefer razor";

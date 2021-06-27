@@ -1,1 +1,1 @@
-var mnemonic = "valley know attend pen echo merry license horn museum awkward board stuff";
+var mnemonic = "lizard save absent wait endless staff palace type pride olive loud crater";

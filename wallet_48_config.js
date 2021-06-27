@@ -1,1 +1,1 @@
-var mnemonic = "caught portion badge athlete amount ring witness donate grit abandon network bitter";
+var mnemonic = "melt sun odor space world sunset illegal genius word warrior picture burst";

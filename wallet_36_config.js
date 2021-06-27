@@ -1,1 +1,1 @@
-var mnemonic = "mixed neither clown guilt slow involve hint snack shoe claw scare column";
+var mnemonic = "lamp genius hurry hospital element loop cupboard garden screen autumn tide mixed";

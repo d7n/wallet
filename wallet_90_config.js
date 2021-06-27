@@ -1,1 +1,1 @@
-var mnemonic = "scale gossip behave someone jar drink sign wink vibrant diesel abandon sponsor";
+var mnemonic = "filter depend enrich snake tiger champion wrap welcome frown unit beauty vast";

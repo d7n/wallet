@@ -1,1 +1,1 @@
-var mnemonic = "kitten fabric art picture asset anxiety giggle hockey defense appear notable cattle";
+var mnemonic = "smart paddle cycle creek fox wisdom voice dutch awake coffee mimic shoe";

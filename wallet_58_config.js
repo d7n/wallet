@@ -1,1 +1,1 @@
-var mnemonic = "estate gossip split rigid huge notable normal mixed guess receive share night";
+var mnemonic = "rather aware mesh oblige velvet town door caution village bounce vessel offer";

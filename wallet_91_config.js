@@ -1,1 +1,1 @@
-var mnemonic = "coil equal family voice actress harsh coconut liquid shrimp snap life auto";
+var mnemonic = "hedgehog mention veteran index sorry salon age vacuum stereo dove mirror coconut";

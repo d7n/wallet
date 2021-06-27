@@ -1,1 +1,1 @@
-var mnemonic = "body nose oppose glove argue female perfect soda sniff wife horror zoo";
+var mnemonic = "advance among there canoe panic useless sunset number dignity unknown myth crater";

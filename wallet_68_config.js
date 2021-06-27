@@ -1,1 +1,1 @@
-var mnemonic = "brick sell family oak drift unaware script lake human ride pulp bomb";
+var mnemonic = "flee wait work trap entry scrub laugh weapon pink stairs harsh story";

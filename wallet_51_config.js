@@ -1,1 +1,1 @@
-var mnemonic = "place lawn chalk genre dignity vacant grant song staff narrow keep shoulder";
+var mnemonic = "into exhaust panda mobile simple bread silly maximum cotton bounce cat devote";

@@ -1,1 +1,1 @@
-var mnemonic = "client gift rude high spider fuel century snack cupboard bomb learn cherry";
+var mnemonic = "ordinary sadness expand rack poverty tortoise lumber coil renew loan input sorry";

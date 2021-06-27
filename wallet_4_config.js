@@ -1,1 +1,1 @@
-var mnemonic = "pave grunt rack immune gift rotate oxygen submit exhaust today ripple sample";
+var mnemonic = "easy flee grant crater unaware hurdle notable summer alert project outer scheme";

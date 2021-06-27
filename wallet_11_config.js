@@ -1,1 +1,1 @@
-var mnemonic = "never public snake now fruit prize drift roof huge kitchen major expire";
+var mnemonic = "mind toss father grant head list since dad coffee crowd person double";

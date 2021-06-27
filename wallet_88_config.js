@@ -1,1 +1,1 @@
-var mnemonic = "rookie detail guide excuse fury copy side evolve multiply fly upon frog";
+var mnemonic = "person unit embark heart slight wish spike head cake move father joke";

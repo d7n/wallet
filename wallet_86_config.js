@@ -1,1 +1,1 @@
-var mnemonic = "loop mountain column lake scheme crack arctic bitter cash pride various march";
+var mnemonic = "three frown tongue bring idle pyramid forget fitness maximum noise work lobster";

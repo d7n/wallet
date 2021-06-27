@@ -1,1 +1,1 @@
-var mnemonic = "oven dinner soap together laptop dry school vibrant attend reopen world chicken";
+var mnemonic = "portion nose winter twice misery obscure argue honey delay stomach worry join";

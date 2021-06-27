@@ -1,1 +1,1 @@
-var mnemonic = "ritual loud drastic become market mountain cross prosper whip sail runway include";
+var mnemonic = "absorb poem caught disorder anchor layer vanish certain stereo duty crowd much";

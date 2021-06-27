@@ -1,1 +1,1 @@
-var mnemonic = "victory priority lift differ jungle sudden goat update horror sting leisure ride";
+var mnemonic = "learn sight food punch pupil cotton slab huge recipe else brick awake";

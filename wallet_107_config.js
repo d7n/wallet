@@ -1,1 +1,1 @@
-var mnemonic = "sauce develop private mobile safe nice absent rib resist fiber bulk home";
+var mnemonic = "wood shed woman sample loop head kit where cushion fee elder resist";

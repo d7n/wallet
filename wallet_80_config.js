@@ -1,1 +1,1 @@
-var mnemonic = "coast auction taste success dentist rail usual chapter dolphin pass announce napkin";
+var mnemonic = "flavor fatigue bargain fold another visa old edge kite pull scatter brief";

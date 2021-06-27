@@ -1,1 +1,1 @@
-var mnemonic = "consider fiber inside glad arch profit drive curve scene crop chair blame";
+var mnemonic = "height trumpet retreat teach photo dutch intact shed spread business boat illness";

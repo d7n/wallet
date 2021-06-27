@@ -1,1 +1,1 @@
-var mnemonic = "orbit hen parade desert kite twin caution siege snap display broccoli pig";
+var mnemonic = "local arena own nest problem settle knock make pistol cannon minor wear";

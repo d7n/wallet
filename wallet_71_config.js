@@ -1,1 +1,1 @@
-var mnemonic = "field clap cinnamon sun face insane alarm coil cloth spatial then dream";
+var mnemonic = "stem grit recycle obscure transfer mammal roof royal chuckle witness lucky chat";

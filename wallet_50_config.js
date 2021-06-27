@@ -1,1 +1,1 @@
-var mnemonic = "material identify zoo ecology lunar stomach detail obey blouse sheriff forward mention";
+var mnemonic = "flush priority delay thunder betray tower come shy sure all wheat alcohol";

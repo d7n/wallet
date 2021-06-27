@@ -1,1 +1,1 @@
-var mnemonic = "rural year wood spirit gap tribe buzz wait strategy breeze number glimpse";
+var mnemonic = "fluid cute satoshi harsh put depend palm bundle summer smooth pear raise";

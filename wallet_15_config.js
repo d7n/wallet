@@ -1,1 +1,1 @@
-var mnemonic = "ridge dove claw mystery perfect total month process drastic usual warfare spawn";
+var mnemonic = "random what drink eight wife organ grant critic negative mean aware famous";

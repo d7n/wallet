@@ -1,1 +1,1 @@
-var mnemonic = "quarter barrel mystery follow almost never tenant license travel uniform eight glory";
+var mnemonic = "eager enough embark general garment learn scheme talent wise ranch plunge bag";

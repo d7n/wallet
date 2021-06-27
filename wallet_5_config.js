@@ -1,1 +1,1 @@
-var mnemonic = "ethics dad wrist fire spatial twelve foil strike scout write slender board";
+var mnemonic = "begin era reopen cry regret dress clap glad pipe film huge excess";

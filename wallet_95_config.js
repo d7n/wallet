@@ -1,1 +1,1 @@
-var mnemonic = "solid coach truck weird hill luxury nurse ticket start rubber process arena";
+var mnemonic = "deliver educate chief slab joy gas wisdom problem prevent slice version asset";

@@ -1,1 +1,1 @@
-var mnemonic = "theme response news stamp tragic emerge produce pepper cricket topple female rug";
+var mnemonic = "present adult unit fiscal sword pistol trend ready affair endless leopard address";

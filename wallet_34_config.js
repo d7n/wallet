@@ -1,1 +1,1 @@
-var mnemonic = "differ jungle smart thing rubber diesel donor sort health pudding please scrap";
+var mnemonic = "athlete birth license vanish lawn upper exist unfold kitchen bicycle cheese grow";

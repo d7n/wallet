@@ -1,1 +1,1 @@
-var mnemonic = "have dash capable brown rate benefit escape custom awkward monitor common mimic";
+var mnemonic = "access inspire palm area rice chaos virtual because mask wash roof extend";
