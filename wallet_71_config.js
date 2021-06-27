@@ -1,1 +1,1 @@
-var mnemonic = "sea price hurt lizard plastic describe thumb dawn multiply kind wrong ceiling";
+var mnemonic = "tattoo abandon talent way win tuition review manage stage danger system divorce";

@@ -1,1 +1,1 @@
-var mnemonic = "salmon tool tired apart pioneer better demise salmon enough oxygen time average";
+var mnemonic = "same work only sell rival skill before print put napkin boring wish";

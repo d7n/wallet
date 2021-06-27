@@ -1,1 +1,1 @@
-var mnemonic = "twelve float detect snake industry pink enlist section warm avocado pepper club";
+var mnemonic = "cement slide vapor guess manual fever try anger good bamboo kidney rain";

@@ -1,1 +1,1 @@
-var mnemonic = "circle general rule pear there host poverty settle negative cheese aware cloud";
+var mnemonic = "success turn market bubble lyrics sword record evil fiber episode ribbon reduce";

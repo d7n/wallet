@@ -1,1 +1,1 @@
-var mnemonic = "blast gravity buddy report chat opinion ketchup spread whisper repeat curious vintage";
+var mnemonic = "erupt fish pond first vault garage roof jungle race solution enable roast";

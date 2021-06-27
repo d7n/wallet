@@ -1,1 +1,1 @@
-var mnemonic = "build derive slow pipe angry earth right sketch phone symptom despair duty";
+var mnemonic = "setup magnet powder pledge water worth blush neglect sheriff arrive seminar rib";

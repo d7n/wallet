@@ -1,1 +1,1 @@
-var mnemonic = "pill prosper cool awful piano earn coast six cost urge flush apology";
+var mnemonic = "note ride injury hip claim lawsuit invest member buzz hedgehog cigar rich";

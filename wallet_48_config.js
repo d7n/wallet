@@ -1,1 +1,1 @@
-var mnemonic = "dream beyond caution wet gauge boil city draw trap sting say exercise";
+var mnemonic = "vacuum lock arrow naive coral basic twelve because thing coin process cream";

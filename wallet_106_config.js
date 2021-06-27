@@ -1,1 +1,1 @@
-var mnemonic = "list hat bulk release seven derive stay length witness buffalo license focus";
+var mnemonic = "struggle casual gain open merge seven pistol shrimp sadness limb arch future";

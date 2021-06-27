@@ -1,1 +1,1 @@
-var mnemonic = "dynamic poem business train bicycle picture crush soap infant face chair fiscal";
+var mnemonic = "scare sustain choice loop resist frog record assist choice chef royal lion";

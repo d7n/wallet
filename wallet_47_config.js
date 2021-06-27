@@ -1,1 +1,1 @@
-var mnemonic = "video front ensure figure dress undo trash elite cart music snake school";
+var mnemonic = "impact neither figure obtain day agent host ill nut mushroom seed ramp";

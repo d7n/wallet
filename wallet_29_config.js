@@ -1,1 +1,1 @@
-var mnemonic = "alert wish patch render walnut age limit receive empower keen word coral";
+var mnemonic = "jelly pluck camp junk blur fault able smart build cream neglect ethics";

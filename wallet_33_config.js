@@ -1,1 +1,1 @@
-var mnemonic = "curtain glue garbage suggest match leave sock tuna vapor acid unfold fashion";
+var mnemonic = "sentence leaf meat stereo exchange frame hand poet clip child alert pond";

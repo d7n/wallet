@@ -1,1 +1,1 @@
-var mnemonic = "point exclude giggle match embark census cloud canoe prison soccer grow glare";
+var mnemonic = "focus thumb tower assume appear mother all camera million result strike school";

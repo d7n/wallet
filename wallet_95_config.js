@@ -1,1 +1,1 @@
-var mnemonic = "visual army virus van boy axis nut enhance start father hat sport";
+var mnemonic = "leg filter hungry slab large random candy state during inject juice valid";

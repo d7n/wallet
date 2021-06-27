@@ -1,1 +1,1 @@
-var mnemonic = "call fossil twin umbrella velvet manage vanish poet helmet good pelican adapt";
+var mnemonic = "impact steel sketch flash tool swamp inner will loop together swing infant";

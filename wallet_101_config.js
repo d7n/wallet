@@ -1,1 +1,1 @@
-var mnemonic = "siege improve employ alter top whip wash jazz lion robust gospel movie";
+var mnemonic = "keep alcohol image demand mammal tattoo people fit wide host brain denial";

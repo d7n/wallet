@@ -1,1 +1,1 @@
-var mnemonic = "wing able system lake tiny expose electric guide oppose elegant organ game";
+var mnemonic = "globe grape table lumber small spare rally ocean stable aerobic toy honey";

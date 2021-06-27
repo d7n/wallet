@@ -1,1 +1,1 @@
-var mnemonic = "genuine poet dynamic aisle beef afford history gravity jar cupboard old sniff";
+var mnemonic = "parade crumble trouble slogan chat furnace city rich devote voyage smile detail";

@@ -1,1 +1,1 @@
-var mnemonic = "viable palm smooth south coin cactus woman general quit hire wish wise";
+var mnemonic = "ranch depend breeze crumble sudden copy flash winter raven raw december raccoon";

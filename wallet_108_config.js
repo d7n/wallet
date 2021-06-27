@@ -1,1 +1,1 @@
-var mnemonic = "movie video talent bus bonus electric wasp odor citizen riot often shoulder";
+var mnemonic = "neutral post patrol bundle combine flash harbor town judge allow torch shrug";

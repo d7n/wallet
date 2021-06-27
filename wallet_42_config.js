@@ -1,1 +1,1 @@
-var mnemonic = "nothing rely sad account topple major inject unit rice faint wagon myself";
+var mnemonic = "obvious gap rich magic exist web beach wood disease coyote elegant thumb";

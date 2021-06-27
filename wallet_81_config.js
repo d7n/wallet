@@ -1,1 +1,1 @@
-var mnemonic = "festival edit manual game hip profit avocado crush effort switch luxury more";
+var mnemonic = "dinner pig amazing next engine news entry owner shoulder cry flight gym";

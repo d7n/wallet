@@ -1,1 +1,1 @@
-var mnemonic = "globe electric junior relax device toddler dismiss woman load shadow popular fatal";
+var mnemonic = "picture vault educate silk bachelor royal canoe loyal success beef library beef";

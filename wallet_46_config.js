@@ -1,1 +1,1 @@
-var mnemonic = "hover total desert arrange find engine lock soup guess royal puppy enjoy";
+var mnemonic = "draw force stable menu angle invest exclude aerobic battle turtle found finger";

@@ -1,1 +1,1 @@
-var mnemonic = "cause resist unhappy toward evil tower million follow drive luggage female text";
+var mnemonic = "secret sword end maid vibrant supply robust flavor young earth sauce inspire";

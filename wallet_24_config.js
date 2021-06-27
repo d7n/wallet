@@ -1,1 +1,1 @@
-var mnemonic = "tumble gaze easy nephew decrease talk choice heart bicycle rhythm diagram upper";
+var mnemonic = "capital spatial town garment rely sun punch project easily enhance uphold load";

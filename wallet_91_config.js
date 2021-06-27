@@ -1,1 +1,1 @@
-var mnemonic = "chicken vanish visual void praise harvest whip quick service borrow wrestle talent";
+var mnemonic = "muffin negative grid enable river canyon picnic flock produce slim legend ranch";

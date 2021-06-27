@@ -1,1 +1,1 @@
-var mnemonic = "sand lesson reject grab young ribbon future bacon boat ski subway enough";
+var mnemonic = "lecture company maple sample bright valley verb oil trial arrive genre orient";

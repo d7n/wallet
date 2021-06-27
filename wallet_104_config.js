@@ -1,1 +1,1 @@
-var mnemonic = "amazing hurry crisp van vintage news topic sad wall duck parade figure";
+var mnemonic = "ski prevent actor primary marble draw maid position sleep tooth general region";

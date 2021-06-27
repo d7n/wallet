@@ -1,1 +1,1 @@
-var mnemonic = "thank torch vanish brass belt give remain town gorilla story edge insect";
+var mnemonic = "half unable upon recall chair amused seminar fire enact draft security front";

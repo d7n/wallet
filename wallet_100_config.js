@@ -1,1 +1,1 @@
-var mnemonic = "mystery wolf gather tenant nominee auction grace valley banana infant escape bachelor";
+var mnemonic = "antenna page phrase earn tube kitchen unveil spirit grain buzz snack purchase";

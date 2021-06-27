@@ -1,1 +1,1 @@
-var mnemonic = "cash large blossom buffalo icon tomorrow chief cousin else advice stuff priority";
+var mnemonic = "news profit tribe lawn local genius mesh harbor motion lake primary mind";

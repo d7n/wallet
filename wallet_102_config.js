@@ -1,1 +1,1 @@
-var mnemonic = "edit mass merry car canoe link feed napkin tiger device outside train";
+var mnemonic = "hazard risk question clump maximum word bid pitch flag addict reason where";

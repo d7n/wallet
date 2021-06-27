@@ -1,1 +1,1 @@
-var mnemonic = "increase library feature budget change leaf lawn cinnamon shoe eye zero use";
+var mnemonic = "hazard pride margin name face hollow search remind rough tennis actress tool";

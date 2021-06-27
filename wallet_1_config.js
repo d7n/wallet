@@ -1,1 +1,1 @@
-var mnemonic = "dance measure kick few crisp hospital toy arena office monitor solution much";
+var mnemonic = "multiply wheel toilet body model glance invest damp segment portion indicate unable";

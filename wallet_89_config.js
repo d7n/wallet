@@ -1,1 +1,1 @@
-var mnemonic = "impulse drive indicate much where path front unveil artist ask treat flip";
+var mnemonic = "anxiety window gain area repair glove dizzy tip note blame gate fluid";

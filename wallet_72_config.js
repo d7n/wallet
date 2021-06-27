@@ -1,1 +1,1 @@
-var mnemonic = "fame shop security genre decade bike shock hammer stadium sail run funny";
+var mnemonic = "legend actress client panther casino sight before galaxy office drastic era deal";

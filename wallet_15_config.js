@@ -1,1 +1,1 @@
-var mnemonic = "pole inherit destroy gown evoke grape image december acoustic sea marine route";
+var mnemonic = "major process swear tired true meat below rapid engage boil address else";

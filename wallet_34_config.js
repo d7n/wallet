@@ -1,1 +1,1 @@
-var mnemonic = "boil equip ticket fossil asset private brief army episode direct token sand";
+var mnemonic = "question rug crash rent mango market dismiss fade govern cute dolphin gadget";

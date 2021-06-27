@@ -1,1 +1,1 @@
-var mnemonic = "stool mule nose arrow goose easily warrior tunnel chaos agent recycle accuse";
+var mnemonic = "major ensure accident roof knife reform board web grid lyrics soap spell";

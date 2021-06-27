@@ -1,1 +1,1 @@
-var mnemonic = "foil vacuum dwarf rescue praise ancient average already federal when what midnight";
+var mnemonic = "keen planet reopen yard uncover enlist acquire loud reform cost web police";

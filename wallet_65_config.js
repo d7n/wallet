@@ -1,1 +1,1 @@
-var mnemonic = "acoustic east always interest door dad render you brown upgrade squeeze uphold";
+var mnemonic = "dash make exhibit trap awful limit two desert lady hello awake silent";

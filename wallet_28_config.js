@@ -1,1 +1,1 @@
-var mnemonic = "indoor dolphin mandate note front actual body mask aunt mail come mutual";
+var mnemonic = "project bullet control quarter forest flower cupboard bottom design lizard audit skirt";

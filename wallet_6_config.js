@@ -1,1 +1,1 @@
-var mnemonic = "fine before beef pond wage decrease payment parade space dial chuckle favorite";
+var mnemonic = "image north goose scare elegant advance circle early inquiry citizen smart idea";

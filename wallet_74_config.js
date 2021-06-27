@@ -1,1 +1,1 @@
-var mnemonic = "indicate slight laptop race wage such warm tool trophy crack derive someone";
+var mnemonic = "photo lyrics snack mushroom side hamster outdoor endless inside blade soup defense";

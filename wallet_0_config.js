@@ -1,1 +1,1 @@
-var mnemonic = "enough bus letter box sail blur purity truck exile pyramid broom route";
+var mnemonic = "inhale forget loyal ivory parade keen debris bomb unfair belt inspire engine";

@@ -1,1 +1,1 @@
-var mnemonic = "mechanic fiscal nuclear range scene often atom edit arctic act invite divert";
+var mnemonic = "sound only response dawn portion swap prize century huge vivid action family";

@@ -1,1 +1,1 @@
-var mnemonic = "ankle armed carbon kitten laptop humble giraffe kite dial inflict grab alter";
+var mnemonic = "cinnamon train wish arrive snap charge ask weather iron sound soldier tell";

@@ -1,1 +1,1 @@
-var mnemonic = "real car rural anchor squeeze slender learn smart jewel brother angle echo";
+var mnemonic = "apology person nephew flavor elder army fresh frozen label address shaft ahead";

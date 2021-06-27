@@ -1,1 +1,1 @@
-var mnemonic = "phrase crew walnut fossil fine tell inform hundred faint quit blind milk";
+var mnemonic = "brush miracle cigar chase shrug spring boat only student electric deputy ecology";

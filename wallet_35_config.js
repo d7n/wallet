@@ -1,1 +1,1 @@
-var mnemonic = "gas dumb recall twelve panic shallow blood smile garlic water rescue birth";
+var mnemonic = "morning smart vocal visual resist pond winner venture essay snap genius chapter";

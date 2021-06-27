@@ -1,1 +1,1 @@
-var mnemonic = "exist surprise pilot midnight collect wreck series love inner rule fly hurry";
+var mnemonic = "jeans glance pony success please stomach wife first what height cycle planet";

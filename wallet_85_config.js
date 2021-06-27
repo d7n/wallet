@@ -1,1 +1,1 @@
-var mnemonic = "sauce cherry blood coil push congress combine steak aim draft creek mass";
+var mnemonic = "wood genuine bargain retreat above pull stock tired later embody scrap sense";

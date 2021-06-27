@@ -1,1 +1,1 @@
-var mnemonic = "shrug beach pencil exact chaos insane burger stay final nest exercise layer";
+var mnemonic = "coffee assault unaware pool surround pledge stool blast long mesh gesture gentle";

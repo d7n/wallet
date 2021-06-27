@@ -1,1 +1,1 @@
-var mnemonic = "horn math regret job exclude rifle once section machine win process noble";
+var mnemonic = "august satisfy talk celery excite chuckle raw require soup dream maid bamboo";

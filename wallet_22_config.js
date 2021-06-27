@@ -1,1 +1,1 @@
-var mnemonic = "tobacco shine swarm frown main public draft appear salmon garment sick girl";
+var mnemonic = "west digital field gain unaware tube toilet planet axis runway install feature";

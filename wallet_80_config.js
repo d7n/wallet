@@ -1,1 +1,1 @@
-var mnemonic = "hobby beauty punch reveal disagree seek dream pipe rice load beef banner";
+var mnemonic = "birth predict pipe auction zero pottery excuse scrub follow mammal fragile wisdom";

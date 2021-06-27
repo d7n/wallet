@@ -1,1 +1,1 @@
-var mnemonic = "primary ecology arena town differ sand net impact crazy surge nation ensure";
+var mnemonic = "logic rookie seek dinosaur fault warm walnut case forward aisle average tackle";

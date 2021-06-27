@@ -1,1 +1,1 @@
-var mnemonic = "cancel never blood clap asthma horn mesh throw post obey mistake keen";
+var mnemonic = "donor rotate lab guard culture brief ship habit fatal since inform enact";

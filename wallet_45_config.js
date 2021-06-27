@@ -1,1 +1,1 @@
-var mnemonic = "reform sport evoke upgrade paddle course tiger notice custom jazz primary cycle";
+var mnemonic = "cube armed coral arena medal evidence airport hamster during pencil route oil";

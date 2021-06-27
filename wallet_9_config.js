@@ -1,1 +1,1 @@
-var mnemonic = "speed breeze country liar code kit bottom arm stand guard size confirm";
+var mnemonic = "impulse assault boat hand drip huge accuse cherry wait pink option sausage";

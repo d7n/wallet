@@ -1,1 +1,1 @@
-var mnemonic = "upper amateur blue chaos wrist fitness village island dog emotion crane scale";
+var mnemonic = "tail blast crystal oil extra guess case system wood sleep toilet job";

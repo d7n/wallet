@@ -1,1 +1,1 @@
-var mnemonic = "flock ginger divorce mammal inquiry vital enough sound bag action tide action";
+var mnemonic = "invest middle license ill occur emotion review glass regret work speak dynamic";

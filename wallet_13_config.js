@@ -1,1 +1,1 @@
-var mnemonic = "mystery away chef file cousin salute flash stock display logic cross mosquito";
+var mnemonic = "mean town speed thunder clip harsh street pumpkin cliff taste tank target";

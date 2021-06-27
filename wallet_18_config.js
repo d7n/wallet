@@ -1,1 +1,1 @@
-var mnemonic = "sail kite dial column imitate buddy current dwarf about sense armed vault";
+var mnemonic = "boil volcano crumble drill alley cage yellow achieve civil worth endorse chaos";

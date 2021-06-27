@@ -1,1 +1,1 @@
-var mnemonic = "permit code palace payment glow replace pattern capital grow angry tumble fan";
+var mnemonic = "quick replace betray census scissors foam exact behave unusual wife grape monster";

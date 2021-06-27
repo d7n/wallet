@@ -1,1 +1,1 @@
-var mnemonic = "quit recall pill affair loyal man elephant foot curve cheap hamster slot";
+var mnemonic = "cabin surround wage cluster advance chapter arrange bone poverty mobile hat canal";

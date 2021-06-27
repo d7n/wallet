@@ -1,1 +1,1 @@
-var mnemonic = "dolphin pepper imitate swamp update hole belt clip essence fiscal arrow cook";
+var mnemonic = "cause auction absurd assault joy account sunny rifle shine coil dismiss vacuum";

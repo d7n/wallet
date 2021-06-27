@@ -1,1 +1,1 @@
-var mnemonic = "arch twenty device cycle ozone catch pledge bitter modify anxiety calm anchor";
+var mnemonic = "toss secret canoe leg oil luggage december south erosion robust call elevator";

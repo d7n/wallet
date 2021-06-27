@@ -1,1 +1,1 @@
-var mnemonic = "erosion brisk nose warrior quote cushion food mimic tattoo cross option famous";
+var mnemonic = "acquire twenty actual liar project trophy merry secret mistake polar busy good";

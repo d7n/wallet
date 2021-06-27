@@ -1,1 +1,1 @@
-var mnemonic = "try kite crystal concert hammer guitar arctic crunch post capital match capital";
+var mnemonic = "scare decade spice uphold viable arrive dilemma easily blind mask surprise gorilla";

@@ -1,1 +1,1 @@
-var mnemonic = "era saddle lion blue review rapid pipe auto divert chapter secret weasel";
+var mnemonic = "thunder bundle light neutral rookie advice parent approve inner clown melt innocent";

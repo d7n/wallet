@@ -1,1 +1,1 @@
-var mnemonic = "wagon risk cave enemy truck they acquire route clown river wedding horror";
+var mnemonic = "tool unit elbow mom truly leisure nothing bench repeat utility act trigger";

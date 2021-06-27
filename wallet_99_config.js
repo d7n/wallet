@@ -1,1 +1,1 @@
-var mnemonic = "market theme empty unique demand park sniff skate credit rough candy mountain";
+var mnemonic = "lunch unable prosper portion poet sound claim piano between enforce curious sock";

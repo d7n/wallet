@@ -1,1 +1,1 @@
-var mnemonic = "define tongue hurry energy explain father retire oval auction keep depend timber";
+var mnemonic = "case cool boat pumpkin wreck area truly lyrics lock urge wave hurdle";

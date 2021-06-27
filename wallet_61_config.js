@@ -1,1 +1,1 @@
-var mnemonic = "wash wreck olympic have humble item forget job verb mutual coffee wear";
+var mnemonic = "spare bulb language void disagree canyon suit food laundry today sadness cloud";

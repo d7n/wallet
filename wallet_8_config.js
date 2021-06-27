@@ -1,1 +1,1 @@
-var mnemonic = "file party disagree autumn among trend afford wear window dose van adult";
+var mnemonic = "village mule video expose tornado capital broccoli movie couple apple obvious employ";

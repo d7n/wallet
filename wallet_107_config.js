@@ -1,1 +1,1 @@
-var mnemonic = "glue enforce captain stem deputy peasant frozen truck tomorrow define perfect aspect";
+var mnemonic = "level wear once rifle planet divert grow mansion boring ring weather thunder";

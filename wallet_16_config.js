@@ -1,1 +1,1 @@
-var mnemonic = "switch gallery pilot warfare search differ found fancy often shift jacket train";
+var mnemonic = "boring delay tenant ordinary eagle bird radio giant corn usual normal siren";

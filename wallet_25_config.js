@@ -1,1 +1,1 @@
-var mnemonic = "north gravity issue famous sting weapon gift bottom empower stadium screen bring";
+var mnemonic = "hint pill sauce funny heart ranch salute sugar fiction bundle this affair";

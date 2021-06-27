@@ -1,1 +1,1 @@
-var mnemonic = "boss brand soup mention inject onion shallow venue flavor annual notable picnic";
+var mnemonic = "pistol stage strategy over body metal among robot chalk offer vault mean";

@@ -1,1 +1,1 @@
-var mnemonic = "miracle wet cigar slush wall grow awful time pilot side sugar claim";
+var mnemonic = "kind park olive supply goat grain absent brown black reject peasant torch";

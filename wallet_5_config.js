@@ -1,1 +1,1 @@
-var mnemonic = "hockey still hold dynamic avoid velvet green super bounce lesson toward unveil";
+var mnemonic = "select library sand curve bean fame hollow awesome inch daring elevator ill";

@@ -1,1 +1,1 @@
-var mnemonic = "turtle gas age common act brisk patient result ensure valve club divert";
+var mnemonic = "grow fitness cost fire tuition achieve other auction barrel sadness say chapter";

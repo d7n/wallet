@@ -1,1 +1,1 @@
-var mnemonic = "differ snap inmate mobile fortune remain give seven velvet teach survey spell";
+var mnemonic = "matter spawn submit lizard disorder tuition write awesome onion source make marble";

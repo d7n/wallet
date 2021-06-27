@@ -1,1 +1,1 @@
-var mnemonic = "enjoy firm result trim act eager hobby depend wait river wealth glimpse";
+var mnemonic = "bring craft erosion oxygen grunt pave fame cross sugar accuse swap carbon";

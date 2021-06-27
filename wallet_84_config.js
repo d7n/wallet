@@ -1,1 +1,1 @@
-var mnemonic = "snake script enact height comic nasty often forum whip cart keep ordinary";
+var mnemonic = "coral chicken mixed swamp rabbit skull top limb kingdom possible income absorb";

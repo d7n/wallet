@@ -1,1 +1,1 @@
-var mnemonic = "canyon add card guess garlic crumble sure affair layer since jewel baby";
+var mnemonic = "ugly mask when health merge moral dinner bean faint shaft occur assist";

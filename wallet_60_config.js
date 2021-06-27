@@ -1,1 +1,1 @@
-var mnemonic = "extend forward diesel excite wrist swap fatal neutral priority mystery adjust remember";
+var mnemonic = "nose father ten sample bring early group shrimp summer eagle help punch";

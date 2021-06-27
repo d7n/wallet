@@ -1,1 +1,1 @@
-var mnemonic = "robust window text syrup latin sea impulse perfect burger switch iron december";
+var mnemonic = "depart bullet tennis glad twelve oak renew element little hire possible produce";

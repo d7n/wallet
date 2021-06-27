@@ -1,1 +1,1 @@
-var mnemonic = "domain attract tiger outer purity service crime rose grow spray museum invite";
+var mnemonic = "act action people water valve dice candy spray when husband wage armor";

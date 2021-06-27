@@ -1,1 +1,1 @@
-var mnemonic = "palm loud fuel focus crucial law clip hill pig approve busy phrase";
+var mnemonic = "season flower boat boat eight bench erupt armor attitude engine crew floor";

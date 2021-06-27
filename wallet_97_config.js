@@ -1,1 +1,1 @@
-var mnemonic = "wing exchange aware blue promote crime chapter crack shrug weasel ankle meat";
+var mnemonic = "decline crisp eternal abuse horse bargain galaxy raw melody beyond gentle summer";
