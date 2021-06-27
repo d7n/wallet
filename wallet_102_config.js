@@ -1,1 +1,1 @@
-var mnemonic = "hour material olive all silk correct old mean loud garment all tragic";
+var mnemonic = "update indicate wrist arm motion better must theme squeeze describe coach insect";

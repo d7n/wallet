@@ -1,1 +1,1 @@
-var mnemonic = "forward patient want tail sudden school comic close define bless brother diet";
+var mnemonic = "exist fix drink banner wet divorce monster half picnic pig drip banana";

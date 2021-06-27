@@ -1,1 +1,1 @@
-var mnemonic = "picnic sponsor pen chef season current pair foster tenant olympic demand faith";
+var mnemonic = "provide bulk globe smile ball door erase parent kangaroo mule birth step";

@@ -1,1 +1,1 @@
-var mnemonic = "bullet apart seek response begin point paddle diamond wisdom bone tell solution";
+var mnemonic = "leaf wool scale uncover siren mango park outer soda please obey will";

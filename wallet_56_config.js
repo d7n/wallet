@@ -1,1 +1,1 @@
-var mnemonic = "quantum fiction diagram deposit earth craft rhythm squirrel renew basic talent winner";
+var mnemonic = "light garage inner day boss gas limb snap basket clump laugh forget";

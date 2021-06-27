@@ -1,1 +1,1 @@
-var mnemonic = "risk slice genre carry sudden resemble cotton action mushroom ship current play";
+var mnemonic = "resist habit hospital family lion display light august tower drum identify fringe";

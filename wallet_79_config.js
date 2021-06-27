@@ -1,1 +1,1 @@
-var mnemonic = "measure absorb practice youth equal dove legal hub attitude shiver aisle trial";
+var mnemonic = "pink agree moral enter repeat sudden motion hybrid silver chunk ghost brisk";

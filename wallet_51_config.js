@@ -1,1 +1,1 @@
-var mnemonic = "finish void battle range cloud phone tobacco illness argue lounge inch liar";
+var mnemonic = "patrol reason diagram brain follow final damage expect peanut promote poverty mom";

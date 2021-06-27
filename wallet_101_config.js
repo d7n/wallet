@@ -1,1 +1,1 @@
-var mnemonic = "before alien enact lyrics believe network joke away lottery knife pretty castle";
+var mnemonic = "round float sauce soccer clerk just video mirror below floor rug universe";

@@ -1,1 +1,1 @@
-var mnemonic = "detail object border comfort legend stairs lesson uncle void license enter junior";
+var mnemonic = "beyond narrow glow produce repeat three wing joke drop wood arena venue";

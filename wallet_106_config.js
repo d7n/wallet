@@ -1,1 +1,1 @@
-var mnemonic = "bitter summer inch design outdoor muffin another danger pride chunk salute absorb";
+var mnemonic = "wide clean day grace crew absorb perfect satisfy friend denial reveal timber";

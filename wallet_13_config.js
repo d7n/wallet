@@ -1,1 +1,1 @@
-var mnemonic = "original consider dinner crisp finish wish bargain practice patient essence limit radio";
+var mnemonic = "taste emotion turtle slam hand into wool trend host audit click dwarf";

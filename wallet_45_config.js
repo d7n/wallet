@@ -1,1 +1,1 @@
-var mnemonic = "child cable acquire camera series tuna imitate guilt alley monkey skull because";
+var mnemonic = "cheese wood end treat baby motor roast use surge lazy luggage hope";

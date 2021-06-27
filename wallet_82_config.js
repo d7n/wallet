@@ -1,1 +1,1 @@
-var mnemonic = "auction become regular kite stool joy also wrap wreck alert army huge";
+var mnemonic = "allow issue route you soda size mammal brief onion parent slush drive";

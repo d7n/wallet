@@ -1,1 +1,1 @@
-var mnemonic = "mirror baby delay silent bar any mango arm dirt east stove dinosaur";
+var mnemonic = "brand rude make action cart motor nest bachelor one team olive tree";

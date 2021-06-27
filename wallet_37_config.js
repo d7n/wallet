@@ -1,1 +1,1 @@
-var mnemonic = "paper vapor soul shrimp hurry genius brass funny empower few picnic divert";
+var mnemonic = "coffee morning insect garbage fever viable neither over horse card age maple";

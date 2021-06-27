@@ -1,1 +1,1 @@
-var mnemonic = "fashion swim more picture exact century draft pizza pizza knife slush trophy";
+var mnemonic = "water parade vessel mosquito unveil loan please theory hole enable stick gain";

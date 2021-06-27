@@ -1,1 +1,1 @@
-var mnemonic = "hello relax pulse dismiss trouble surround can vague cycle world clinic door";
+var mnemonic = "they vintage breeze surround maid apology clay volcano hub heart anchor enforce";

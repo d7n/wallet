@@ -1,1 +1,1 @@
-var mnemonic = "sort mind close flush floor width card panic casino canvas inmate kitchen";
+var mnemonic = "ketchup divide frost six twenty sense sunset pride bitter organ castle tip";

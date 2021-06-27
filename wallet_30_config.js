@@ -1,1 +1,1 @@
-var mnemonic = "coconut solution across piece omit scrap agree inhale entire hospital yellow pencil";
+var mnemonic = "deer truth lion luxury prepare garage evidence bunker rifle lumber afford banana";

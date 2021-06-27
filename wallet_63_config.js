@@ -1,1 +1,1 @@
-var mnemonic = "auction uncle gather steak oak engine pole spot various ordinary puzzle emerge";
+var mnemonic = "axis special pave join tower page spike scheme chair coffee brass kitchen";

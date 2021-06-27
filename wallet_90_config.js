@@ -1,1 +1,1 @@
-var mnemonic = "exist opinion enemy cement museum boring tuna cool account group hard top";
+var mnemonic = "office frown eight damp column boat picnic eight jar digital below crane";

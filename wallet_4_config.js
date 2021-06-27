@@ -1,1 +1,1 @@
-var mnemonic = "sister canal mercy ecology talent illness axis menu pluck stereo provide tackle";
+var mnemonic = "volcano neck box basic inherit idle chase lamp accuse fall aspect unknown";

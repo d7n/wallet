@@ -1,1 +1,1 @@
-var mnemonic = "melody heart desert dilemma example tobacco planet current slim method pole kitchen";
+var mnemonic = "city budget bright divert region check excuse choice state enforce indoor surprise";

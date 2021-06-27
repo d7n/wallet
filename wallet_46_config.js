@@ -1,1 +1,1 @@
-var mnemonic = "leaf depth crouch pause impose kit beef letter sense ship gloom giggle";
+var mnemonic = "mention return lyrics adapt enter practice lyrics mouse duck swallow forum divorce";

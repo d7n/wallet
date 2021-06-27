@@ -1,1 +1,1 @@
-var mnemonic = "warm visit stumble enable hair total guitar dentist comic rifle drink total";
+var mnemonic = "solar provide clog nurse loop face hood radar vibrant breeze produce gasp";

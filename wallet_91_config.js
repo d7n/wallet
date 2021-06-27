@@ -1,1 +1,1 @@
-var mnemonic = "flock tumble brass theory track drift earn tonight focus tortoise help great";
+var mnemonic = "monster under exact volume huge skate list chaos female elbow useless remove";

@@ -1,1 +1,1 @@
-var mnemonic = "draft naive chair end beauty gadget drift design ill jump float vendor";
+var mnemonic = "allow expire script system husband hint tower viable boil symptom crash mercy";

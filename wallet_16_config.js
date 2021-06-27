@@ -1,1 +1,1 @@
-var mnemonic = "traffic unlock lift luxury behind scout outside pear pave final south omit";
+var mnemonic = "spatial exercise west final ankle soup fall casual broccoli dad join oppose";

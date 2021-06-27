@@ -1,1 +1,1 @@
-var mnemonic = "name coin loyal agree muffin extra better arch spoil delay slight expire";
+var mnemonic = "slow rather wolf soft suit only laptop receive size include trigger better";

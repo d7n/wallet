@@ -1,1 +1,1 @@
-var mnemonic = "wonder memory immense also health merge great hurry tube since rifle federal";
+var mnemonic = "laptop degree front file usual inside across dress stadium toss boy illness";

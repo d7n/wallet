@@ -1,1 +1,1 @@
-var mnemonic = "tiger reveal almost pink side fee risk bicycle matrix keep visa burden";
+var mnemonic = "describe easily tumble ski garlic mail forward stand salon pool category enter";

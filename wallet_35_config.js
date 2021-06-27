@@ -1,1 +1,1 @@
-var mnemonic = "hood make unfold stuff cannon enact ladder same vital regular fee act";
+var mnemonic = "pizza fatigue venture key twice vacant same rifle feed win permit decline";

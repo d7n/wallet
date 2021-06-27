@@ -1,1 +1,1 @@
-var mnemonic = "reunion obvious valley dash can shadow congress dad jungle burger digital rule";
+var mnemonic = "decide curious fade egg kid shove crazy lion divide demand genre math";

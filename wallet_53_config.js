@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon patch target slim retire judge burger scorpion isolate exist hamster wide";
+var mnemonic = "cause gather pole decade basic elder pottery kit decorate pet affair behave";

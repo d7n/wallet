@@ -1,1 +1,1 @@
-var mnemonic = "payment frog frozen olympic obscure pass wife zebra scheme pulse advance zoo";
+var mnemonic = "problem must denial theory mail sail utility certain uphold prison coffee ready";

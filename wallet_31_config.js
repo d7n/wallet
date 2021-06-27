@@ -1,1 +1,1 @@
-var mnemonic = "oil faint risk cinnamon mesh winner stem grief similar borrow destroy riot";
+var mnemonic = "dose purse gasp toss between acquire beef roast man rely topic pig";

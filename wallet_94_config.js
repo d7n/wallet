@@ -1,1 +1,1 @@
-var mnemonic = "recipe tired strategy pig farm usage smooth engage peace air away glide";
+var mnemonic = "cradle then just van faint disease trigger they fence save glue humor";

@@ -1,1 +1,1 @@
-var mnemonic = "gain merit little blame skate coin buffalo vivid fly divorce churn swear";
+var mnemonic = "enemy drum color switch since lift pave machine chest what program trust";

@@ -1,1 +1,1 @@
-var mnemonic = "ignore own logic transfer cable travel face title typical bread sponsor defy";
+var mnemonic = "cigar salad canyon large climb admit hotel tribe one sound review design";

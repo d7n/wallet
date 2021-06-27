@@ -1,1 +1,1 @@
-var mnemonic = "over gun end gadget primary space hair recycle tower empty olympic mad";
+var mnemonic = "setup cycle portion sight paper slight number urge enemy figure gun hundred";

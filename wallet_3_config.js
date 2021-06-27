@@ -1,1 +1,1 @@
-var mnemonic = "little husband fury umbrella slow oxygen scorpion drive army monster enemy advice";
+var mnemonic = "agree acoustic member genius artist mind input will crew route eyebrow slogan";

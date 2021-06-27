@@ -1,1 +1,1 @@
-var mnemonic = "virtual summer found mansion replace trade maze window spare giant shift north";
+var mnemonic = "monster clarify vivid obscure million silly bridge review face canoe donor alley";

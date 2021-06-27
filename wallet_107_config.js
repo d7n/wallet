@@ -1,1 +1,1 @@
-var mnemonic = "coast thought voyage across indicate material side couple pear ranch put stool";
+var mnemonic = "valid relax salute scare video vacant bitter increase teach price spider also";

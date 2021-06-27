@@ -1,1 +1,1 @@
-var mnemonic = "lazy cushion test believe person vote fox measure purpose annual pulp nominee";
+var mnemonic = "spoon entire avoid razor small already fancy remain enlist menu play stove";

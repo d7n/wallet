@@ -1,1 +1,1 @@
-var mnemonic = "level decade slight foam silly crop claw deposit urge can wish unable";
+var mnemonic = "wait security tent soda can face photo main sketch opinion beach romance";

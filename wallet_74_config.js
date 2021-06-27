@@ -1,1 +1,1 @@
-var mnemonic = "fit antique soup supply rhythm laptop settle dial train job clown ready";
+var mnemonic = "exile drift elder certain shield sustain domain nerve summer copper object that";

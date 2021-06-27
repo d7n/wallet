@@ -1,1 +1,1 @@
-var mnemonic = "found sock sample cigar drink grape cluster lonely tail wheat magnet upgrade";
+var mnemonic = "garment plastic february panic brave jaguar rely faith inmate lecture near strike";

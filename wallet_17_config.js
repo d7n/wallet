@@ -1,1 +1,1 @@
-var mnemonic = "flash evil figure catch rifle sting oak poem swim install mind promote";
+var mnemonic = "stick wagon cabin winter glass rocket benefit insane absent weekend network erupt";

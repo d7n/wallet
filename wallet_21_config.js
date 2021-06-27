@@ -1,1 +1,1 @@
-var mnemonic = "insane vast fruit process million price school faint wasp wood bunker vibrant";
+var mnemonic = "tonight curve awkward seek minor crash profit symptom dirt marble clog convince";

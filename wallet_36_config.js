@@ -1,1 +1,1 @@
-var mnemonic = "public debris hundred maid orphan regular gap punch write riot marble enforce";
+var mnemonic = "crater milk mad half omit below velvet wrist invite casual remain poverty";

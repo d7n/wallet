@@ -1,1 +1,1 @@
-var mnemonic = "dry exile lesson good blouse neglect shoe opinion prize vault tell evoke";
+var mnemonic = "love humor earn mixture coffee anger share risk taxi mixed window ethics";

@@ -1,1 +1,1 @@
-var mnemonic = "pride casual word install transfer truck chapter fence stay journey eye zebra";
+var mnemonic = "piano dance smile kite glove steak scare rapid faith memory century inform";

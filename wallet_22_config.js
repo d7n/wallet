@@ -1,1 +1,1 @@
-var mnemonic = "bitter remove play wise skate corn merit erosion column post oven faith";
+var mnemonic = "evoke lounge card raw vague explain trade divert state crawl until trial";

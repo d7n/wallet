@@ -1,1 +1,1 @@
-var mnemonic = "march check situate animal scene noodle doll ostrich improve axis hip drama";
+var mnemonic = "neglect scene sure electric patch expand pyramid clutch wagon bring bracket velvet";

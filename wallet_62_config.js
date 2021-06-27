@@ -1,1 +1,1 @@
-var mnemonic = "olympic paddle entire tribe brass enforce tobacco impose direct coil man quote";
+var mnemonic = "fade test subject clown ramp phone under monster ankle file armor open";

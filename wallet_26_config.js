@@ -1,1 +1,1 @@
-var mnemonic = "volume reject cannon toward section peace loud design sell gym voice expand";
+var mnemonic = "holiday window gossip milk bachelor sugar immense tip rib coral giggle abuse";

@@ -1,1 +1,1 @@
-var mnemonic = "maze parent work guess state guilt earn outside balcony skirt crater gate";
+var mnemonic = "valve parent sphere young among duty off inside dad announce margin observe";

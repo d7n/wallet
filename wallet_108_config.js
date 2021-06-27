@@ -1,1 +1,1 @@
-var mnemonic = "now wave small bus sadness oval economy pave nice win endorse stadium";
+var mnemonic = "undo wedding friend transfer wait dutch pigeon nothing upset essay type setup";

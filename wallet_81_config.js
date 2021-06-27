@@ -1,1 +1,1 @@
-var mnemonic = "broccoli learn festival gas enemy orbit east horror employ noble ivory sick";
+var mnemonic = "galaxy universe start suggest sting inhale people during smooth argue ignore spell";

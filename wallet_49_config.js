@@ -1,1 +1,1 @@
-var mnemonic = "arm basket opera universe acid board wood wasp dust decade injury tail";
+var mnemonic = "simple gift tonight this play stage symbol lunch hockey tooth worth vacuum";

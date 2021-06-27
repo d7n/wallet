@@ -1,1 +1,1 @@
-var mnemonic = "absent exile current tortoise panel ice void pitch yellow blind notice oyster";
+var mnemonic = "aerobic evoke upgrade cheap false erase hurt tuition tone midnight nurse achieve";

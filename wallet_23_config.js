@@ -1,1 +1,1 @@
-var mnemonic = "flower ask three season insect banner rose rail horse control cattle someone";
+var mnemonic = "lounge regular strategy ignore local raccoon south become circle cargo cloth bacon";

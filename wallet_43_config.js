@@ -1,1 +1,1 @@
-var mnemonic = "bomb polar avocado trial winner invite case first anchor child box wagon";
+var mnemonic = "pig ship ill fabric illegal erode walk auto infant dose usual vapor";

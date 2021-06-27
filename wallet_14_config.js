@@ -1,1 +1,1 @@
-var mnemonic = "betray exotic truly view ridge satoshi climb volume address mammal forum amazing";
+var mnemonic = "belt merry season debate employ carbon pen fee gun gun better sand";

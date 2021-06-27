@@ -1,1 +1,1 @@
-var mnemonic = "thunder trigger nice slim shell theory mixture neglect reunion satoshi job milk";
+var mnemonic = "setup tonight alien insane topic able exile sad zone hospital frame blame";

@@ -1,1 +1,1 @@
-var mnemonic = "grit kit drip snack empty stone have zero film cost basic wasp";
+var mnemonic = "march rich wrap eyebrow position peanut someone baby magic pass limb raccoon";

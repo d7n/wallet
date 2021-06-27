@@ -1,1 +1,1 @@
-var mnemonic = "alert trip muscle normal symptom gasp acquire height verify theory merry wool";
+var mnemonic = "skull sibling engine legal tag lesson velvet thing soap industry skin rescue";

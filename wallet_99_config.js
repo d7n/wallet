@@ -1,1 +1,1 @@
-var mnemonic = "dynamic lizard ability lesson demise fiscal trumpet kite audit sport disease chair";
+var mnemonic = "quality income balance wonder polar online inch clay offer quantum simple wood";

@@ -1,1 +1,1 @@
-var mnemonic = "guilt motion install depart regular toe turn blue merit narrow follow first";
+var mnemonic = "canvas want client catch joke dumb mixture duck talk fish conduct common";

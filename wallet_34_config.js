@@ -1,1 +1,1 @@
-var mnemonic = "army cheese exclude stereo surround roof tool cake split maze alley amused";
+var mnemonic = "wait chat vast prepare jungle radar gun adjust into lens quantum steak";

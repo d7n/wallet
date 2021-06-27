@@ -1,1 +1,1 @@
-var mnemonic = "submit pole nut resource about squeeze rigid always fortune sorry attitude physical";
+var mnemonic = "multiply used buyer solution rotate crowd cool note unveil plastic cancel tenant";

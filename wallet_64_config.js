@@ -1,1 +1,1 @@
-var mnemonic = "dash borrow salmon price copper paddle total breeze steel client axis position";
+var mnemonic = "column unit friend benefit member chuckle radar sad pull inflict tilt humble";

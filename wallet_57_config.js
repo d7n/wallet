@@ -1,1 +1,1 @@
-var mnemonic = "used hold orbit meat town modify hamster maximum letter tissue upgrade uphold";
+var mnemonic = "bean scare bonus random portion language track sample similar witness zone lunch";

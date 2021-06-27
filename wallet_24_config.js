@@ -1,1 +1,1 @@
-var mnemonic = "razor exit parent update topic girl access erode vacant arrive talk clay";
+var mnemonic = "exchange payment hungry tube faith theory oxygen large slender record rural despair";

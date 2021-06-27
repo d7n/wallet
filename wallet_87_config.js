@@ -1,1 +1,1 @@
-var mnemonic = "dove drastic pitch pen satisfy jacket only orphan kit law empower burst";
+var mnemonic = "imitate equal away grid cannon idea eager city jump jewel truck regular";

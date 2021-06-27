@@ -1,1 +1,1 @@
-var mnemonic = "torch ability sample camera code basic hint age subject easy quit delay";
+var mnemonic = "filter bless youth lawsuit uniform wait wheat strategy whale pull sorry helmet";

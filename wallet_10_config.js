@@ -1,1 +1,1 @@
-var mnemonic = "discover hybrid piece ecology under all fiction friend burger summer small misery";
+var mnemonic = "jeans alpha shoot furnace valve uncover barely short real carry table rhythm";

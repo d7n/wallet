@@ -1,1 +1,1 @@
-var mnemonic = "stereo raise drift balcony purity welcome alien trigger atom cheese six depart";
+var mnemonic = "jealous soon assist length disorder barrel snake evolve debris drip that gospel";

@@ -1,1 +1,1 @@
-var mnemonic = "depend twenty car tortoise elder share inherit soon appear daughter confirm battle";
+var mnemonic = "again mercy scrub blouse brand wealth panther list aerobic fiction group armor";

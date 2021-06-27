@@ -1,1 +1,1 @@
-var mnemonic = "choose exact typical artwork circle desert decorate stage gentle cherry scrap metal";
+var mnemonic = "become smoke width length mercy school believe mask reduce motor toy timber";

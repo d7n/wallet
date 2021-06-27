@@ -1,1 +1,1 @@
-var mnemonic = "love sheriff title picnic inmate movie napkin piece install venture equip alarm";
+var mnemonic = "win debate strike fatigue shy rose pioneer word couch hunt merry margin";

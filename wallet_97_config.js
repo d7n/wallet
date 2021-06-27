@@ -1,1 +1,1 @@
-var mnemonic = "sign choice lift script dilemma army arch poet another calm keen differ";
+var mnemonic = "increase off noble child tilt inmate extra federal blouse bring buffalo alcohol";

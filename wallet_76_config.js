@@ -1,1 +1,1 @@
-var mnemonic = "liquid round since settle edit method critic anger album pen analyst fiber";
+var mnemonic = "favorite bird ordinary acquire zero ahead absurd segment stereo lumber indicate art";

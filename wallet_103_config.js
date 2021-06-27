@@ -1,1 +1,1 @@
-var mnemonic = "uncover left spare husband naive access ripple nerve ocean solar nominee aunt";
+var mnemonic = "physical response will soccer educate network spell immense lazy ball believe scheme";

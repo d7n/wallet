@@ -1,1 +1,1 @@
-var mnemonic = "cause near appear business useless grit case mule aunt noble rifle grunt";
+var mnemonic = "private save diary olympic just fiction bless genius today vote embody grunt";

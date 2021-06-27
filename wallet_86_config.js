@@ -1,1 +1,1 @@
-var mnemonic = "symptom cabin use sock man cargo marble begin educate regular explain illness";
+var mnemonic = "surprise buzz budget scorpion outer you proof impulse shop client rural soup";

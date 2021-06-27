@@ -1,1 +1,1 @@
-var mnemonic = "kitchen dolphin above rally myself patch target tenant whale catch bonus crouch";
+var mnemonic = "heavy decide perfect name tree sweet midnight ridge august what chronic sunset";

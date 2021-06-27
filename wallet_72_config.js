@@ -1,1 +1,1 @@
-var mnemonic = "crowd daring mammal naive better inflict unveil couple peace nuclear unusual tortoise";
+var mnemonic = "gospel frost motor slender happy veteran admit cluster abuse gentle wet thumb";

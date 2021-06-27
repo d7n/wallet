@@ -1,1 +1,1 @@
-var mnemonic = "clap primary fancy approve depth suspect pulp intact dog spider original carpet";
+var mnemonic = "naive horror during beyond motor dentist foster deposit prize grit toward carry";

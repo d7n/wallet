@@ -1,1 +1,1 @@
-var mnemonic = "goat asthma reward cigar ripple hope kid pistol evoke depth draft stem";
+var mnemonic = "sting room fix need voyage fantasy brick voyage sunset treat enrich immune";
