@@ -1,1 +1,1 @@
-var mnemonic = "engage time spoon column pledge era kid tail recall result wise quiz";
+var mnemonic = "turn melt host ahead text alley kid art lyrics dutch soldier cherry";

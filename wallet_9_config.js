@@ -1,1 +1,1 @@
-var mnemonic = "absorb human good letter erode maple elder mail nest popular wisdom leg";
+var mnemonic = "treat pigeon search wisdom harvest walnut toward engine similar empower tongue april";

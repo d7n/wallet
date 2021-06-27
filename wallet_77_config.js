@@ -1,1 +1,1 @@
-var mnemonic = "boost nerve earn frost smooth lift disorder dutch cereal unaware umbrella fabric";
+var mnemonic = "journey foil ball flip trial truck sport cream trouble tooth trap wash";

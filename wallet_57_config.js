@@ -1,1 +1,1 @@
-var mnemonic = "orchard together bless credit lucky sword security monitor fuel property foam digital";
+var mnemonic = "six coin luggage slice tree match all pulp crawl unknown grab vault";

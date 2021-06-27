@@ -1,1 +1,1 @@
-var mnemonic = "cushion artist category jump pumpkin near embody exhaust apple female balance soda";
+var mnemonic = "laundry usual youth athlete flush water cross lazy slab custom found whisper";

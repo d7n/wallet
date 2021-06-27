@@ -1,1 +1,1 @@
-var mnemonic = "pelican smart patrol sport palm spirit indicate kid nice buffalo injury number";
+var mnemonic = "bird flag fog mobile prepare grab ladder grow local inform emerge hundred";

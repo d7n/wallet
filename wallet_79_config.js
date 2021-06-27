@@ -1,1 +1,1 @@
-var mnemonic = "elegant exhibit access coast submit unit badge orient jewel rose airport adult";
+var mnemonic = "rookie wage satoshi exhaust own peanut check thing love gospel insect nose";

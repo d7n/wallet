@@ -1,1 +1,1 @@
-var mnemonic = "couch talent jealous adult essay lonely cram permit road actual chicken drop";
+var mnemonic = "woman turtle shuffle unlock junior harvest limit country reward galaxy course loop";

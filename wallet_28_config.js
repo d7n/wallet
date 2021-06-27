@@ -1,1 +1,1 @@
-var mnemonic = "illness turkey wing idea goose suggest celery wheat wrist reflect panda talent";
+var mnemonic = "wink mystery style december welcome divorce viable purchase cram emotion squirrel bamboo";

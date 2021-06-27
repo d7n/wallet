@@ -1,1 +1,1 @@
-var mnemonic = "leader exotic album warrior exchange planet kiwi angry behind route million resist";
+var mnemonic = "solution soap rotate stamp report goose citizen excuse crowd human among agent";

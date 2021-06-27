@@ -1,1 +1,1 @@
-var mnemonic = "tornado zebra sing trophy slide jacket infant long appear salute there culture";
+var mnemonic = "mesh target tunnel subway oak exile chat hand inherit soon label vocal";

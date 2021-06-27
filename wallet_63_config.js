@@ -1,1 +1,1 @@
-var mnemonic = "need flight ladder camp bright patrol home wave gorilla salt armor salon";
+var mnemonic = "link talk accident prepare chunk air engage gravity develop page rate region";

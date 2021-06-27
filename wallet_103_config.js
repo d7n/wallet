@@ -1,1 +1,1 @@
-var mnemonic = "hard column will cattle shop away nut unfair artefact swamp region protect";
+var mnemonic = "advice asset begin depart rifle island skin crunch silent already cousin among";

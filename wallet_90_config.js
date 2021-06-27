@@ -1,1 +1,1 @@
-var mnemonic = "glide stomach glory verb parade few scatter that energy ghost alter engage";
+var mnemonic = "vote coin acid tube habit chaos dwarf life narrow sphere discover cradle";

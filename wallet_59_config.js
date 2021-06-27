@@ -1,1 +1,1 @@
-var mnemonic = "glass language laugh predict piece twist panther vibrant equal cannon anxiety jeans";
+var mnemonic = "emotion flight pipe fatal wedding output ill denial usual fashion frog inform";

@@ -1,1 +1,1 @@
-var mnemonic = "animal pill between similar record struggle suspect turkey private explain divorce quarter";
+var mnemonic = "general bulk toss scare face tumble cloth uncle submit palace possible own";

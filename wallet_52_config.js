@@ -1,1 +1,1 @@
-var mnemonic = "easy afraid era eagle bind answer rack this lift space exact dice";
+var mnemonic = "addict metal able cherry tooth topic true must absorb topic civil rich";

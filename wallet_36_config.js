@@ -1,1 +1,1 @@
-var mnemonic = "artwork real auto cloth miss wing daring wall question swallow hurdle model";
+var mnemonic = "fever concert dilemma mistake borrow quantum day half degree topic gas doctor";

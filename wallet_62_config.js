@@ -1,1 +1,1 @@
-var mnemonic = "desk gravity cost cook slogan wear rather heart dove fabric truly gun";
+var mnemonic = "acoustic horror brave mutual economy thumb gospel top monster scan put twenty";

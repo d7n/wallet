@@ -1,1 +1,1 @@
-var mnemonic = "stable scene shell bind tired provide flash sing private cup caught credit";
+var mnemonic = "under arrive breeze power soon reward spring unit blanket tongue elder tube";

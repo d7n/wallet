@@ -1,1 +1,1 @@
-var mnemonic = "same cabin pelican mule involve chalk electric hawk coral possible van receive";
+var mnemonic = "unfold avoid meat sand menu royal happy spring discover empty volcano middle";

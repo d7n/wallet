@@ -1,1 +1,1 @@
-var mnemonic = "kite solve ill leisure gym decide present six success view tray board";
+var mnemonic = "client smoke expose oil abuse slab sustain flee armed model energy north";

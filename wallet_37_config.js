@@ -1,1 +1,1 @@
-var mnemonic = "surprise flight possible clean sponsor harbor sample delay trade found gloom vote";
+var mnemonic = "lumber hour wisdom already culture session boil buzz bag coffee credit gain";

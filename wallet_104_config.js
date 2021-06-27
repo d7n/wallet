@@ -1,1 +1,1 @@
-var mnemonic = "soccer trash alcohol priority mistake blade snow lunch cream undo argue move";
+var mnemonic = "genius trend pattern soda enrich eye pink expand offer what robot spider";

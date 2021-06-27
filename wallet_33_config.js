@@ -1,1 +1,1 @@
-var mnemonic = "grunt stock diesel demand join sea target inside theme wool learn catalog";
+var mnemonic = "budget clay mention faint version rack claim abstract jealous disagree tackle pepper";

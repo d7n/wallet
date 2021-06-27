@@ -1,1 +1,1 @@
-var mnemonic = "apple toss isolate tube warfare trophy debate rural guitar mystery extend bench";
+var mnemonic = "build toward prepare lamp artefact faint buyer general dutch illness solid dilemma";

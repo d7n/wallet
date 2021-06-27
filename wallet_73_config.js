@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo eager ethics find enforce pair height relax derive silly harvest coral";
+var mnemonic = "trim retreat venue balcony sword favorite luxury hotel acquire crunch crime bargain";

@@ -1,1 +1,1 @@
-var mnemonic = "miss rare roast belt reason embody afraid iron goddess replace soap okay";
+var mnemonic = "change fossil visa pair safe wine chimney human ritual dinosaur fancy spell";

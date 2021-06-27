@@ -1,1 +1,1 @@
-var mnemonic = "shield call protect tenant jelly note skirt guess water reason barely odor";
+var mnemonic = "sock wheat enforce wink emotion donkey desert grass burger tomorrow sing surge";

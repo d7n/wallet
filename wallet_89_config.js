@@ -1,1 +1,1 @@
-var mnemonic = "child cram novel object garbage welcome purchase shrug float screen era path";
+var mnemonic = "attack bamboo sauce crack music main forward tree perfect accuse record harsh";

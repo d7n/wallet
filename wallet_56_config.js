@@ -1,1 +1,1 @@
-var mnemonic = "learn sort garment more leader piece fashion liar excess fix sugar grit";
+var mnemonic = "claw exclude manage attitude aunt split census escape path clever arena ordinary";

@@ -1,1 +1,1 @@
-var mnemonic = "gravity anxiety little confirm submit blast half fat scene job false settle";
+var mnemonic = "kiwi alarm volume recipe solid mobile toy forum swear kidney hungry drum";

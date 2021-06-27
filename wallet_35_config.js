@@ -1,1 +1,1 @@
-var mnemonic = "protect include cat dwarf reopen version praise able daring extend safe enlist";
+var mnemonic = "junk penalty breeze indicate leave tell rival asthma seek wife tone clutch";

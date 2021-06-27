@@ -1,1 +1,1 @@
-var mnemonic = "art village alter voice brush attract six pottery win nerve recall protect";
+var mnemonic = "tomato rubber exercise erosion share liquid space olympic focus leg excite drip";

@@ -1,1 +1,1 @@
-var mnemonic = "rely pony trophy time holiday robust member waste man purpose custom mention";
+var mnemonic = "pyramid eager govern transfer glass issue arctic direct hint cloud together group";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal grunt border true job oven seat dizzy practice engage visa impulse";
+var mnemonic = "someone evoke just actor struggle comfort method under hill crop ribbon empower";

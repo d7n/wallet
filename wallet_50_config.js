@@ -1,1 +1,1 @@
-var mnemonic = "lucky loan wide giant emerge permit until move ensure awake evoke dignity";
+var mnemonic = "cover web talk until test alert rack carbon tomorrow science result frost";

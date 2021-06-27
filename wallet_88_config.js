@@ -1,1 +1,1 @@
-var mnemonic = "exotic mention cliff crop erase upgrade weasel merit maximum stumble shoulder artist";
+var mnemonic = "gentle lawn evoke spend worry face vicious december soldier pledge exist anxiety";

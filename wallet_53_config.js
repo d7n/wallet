@@ -1,1 +1,1 @@
-var mnemonic = "champion spare chicken figure together mail position guard cram what belt tone";
+var mnemonic = "invite globe priority witness foam fall company scare slide drill bottom immune";

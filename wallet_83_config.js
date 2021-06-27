@@ -1,1 +1,1 @@
-var mnemonic = "income shallow cycle inherit file fitness old team adapt rural minute dizzy";
+var mnemonic = "detect can walnut poverty distance vault normal subject vast federal illness burden";

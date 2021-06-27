@@ -1,1 +1,1 @@
-var mnemonic = "picnic gauge current coast sun until sausage satisfy pear share fox glimpse";
+var mnemonic = "federal endorse assume mesh dwarf certain double glow farm carbon shy inner";

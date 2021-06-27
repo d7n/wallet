@@ -1,1 +1,1 @@
-var mnemonic = "feature camp wife captain bundle orange pattern common bronze tackle hint enjoy";
+var mnemonic = "roast pipe fire valid laundry practice aim health patch strategy only flight";

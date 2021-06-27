@@ -1,1 +1,1 @@
-var mnemonic = "ladder coin tower happy tank ripple casual stomach trim acoustic bacon auto";
+var mnemonic = "drop gown luxury buddy cinnamon reveal century sell clap habit kite erase";

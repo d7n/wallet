@@ -1,1 +1,1 @@
-var mnemonic = "oval rural blur bronze skull gold depend book owner melody scatter bracket";
+var mnemonic = "coffee ancient they tag tourist shed sample cherry shoot flavor credit awkward";

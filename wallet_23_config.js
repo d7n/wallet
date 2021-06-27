@@ -1,1 +1,1 @@
-var mnemonic = "pave ankle host mesh solve reform mom pear speed stem ankle injury";
+var mnemonic = "antique canal table sponsor valve world menu faith train own boat medal";

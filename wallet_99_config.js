@@ -1,1 +1,1 @@
-var mnemonic = "bright forest tragic hero fun soup bright reform quantum width attack knee";
+var mnemonic = "garlic bright carbon slide loud plastic trip logic zoo wedding picnic puppy";

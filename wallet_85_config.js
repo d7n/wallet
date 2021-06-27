@@ -1,1 +1,1 @@
-var mnemonic = "hover useful finish charge detect turkey logic fold boy sentence burden follow";
+var mnemonic = "pig void pet country cause dragon aspect dash elite night spring ripple";

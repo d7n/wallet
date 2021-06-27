@@ -1,1 +1,1 @@
-var mnemonic = "thumb legal hurt retire uncover stove easily change focus onion student element";
+var mnemonic = "solution few short bus stool parrot duck green nerve kitchen stuff vehicle";

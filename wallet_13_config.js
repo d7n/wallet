@@ -1,1 +1,1 @@
-var mnemonic = "used hurt tragic marine end swarm able recipe town winter catch screen";
+var mnemonic = "fish adapt fashion embrace tree fat uncle ghost leisure charge remove square";

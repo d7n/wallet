@@ -1,1 +1,1 @@
-var mnemonic = "cereal smoke panther conduct notable ethics click aspect nephew woman reject miracle";
+var mnemonic = "hello unusual romance wait evoke alter little lecture apple then rocket velvet";

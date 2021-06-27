@@ -1,1 +1,1 @@
-var mnemonic = "south file machine media cushion gospel laugh grief almost dismiss claw parade";
+var mnemonic = "clock silver charge utility erosion surprise initial want blur expand joke faith";

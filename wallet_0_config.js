@@ -1,1 +1,1 @@
-var mnemonic = "rookie fiscal route toy person palm legend cloth cheese cigar half over";
+var mnemonic = "egg random sting axis firm dinner margin erosion phrase dawn powder cherry";

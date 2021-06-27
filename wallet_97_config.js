@@ -1,1 +1,1 @@
-var mnemonic = "unique region flush they fluid announce before mountain width whale scan bring";
+var mnemonic = "almost feel struggle inflict smile dust this theory gasp oval drive girl";

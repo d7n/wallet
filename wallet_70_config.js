@@ -1,1 +1,1 @@
-var mnemonic = "patrol evidence innocent march census coyote bench sad gospel stomach autumn parent";
+var mnemonic = "baby sort theory pilot estate sheriff fever rural hen another gallery ill";

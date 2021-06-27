@@ -1,1 +1,1 @@
-var mnemonic = "cash swing bounce cousin silver goose token tired embrace citizen visual idle";
+var mnemonic = "hint vague flag put nut sibling since accuse sense file weekend border";

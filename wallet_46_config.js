@@ -1,1 +1,1 @@
-var mnemonic = "young boost solar object enemy lock vendor apple shallow ordinary change inner";
+var mnemonic = "nerve size buffalo hollow spray bounce crash arrest artist tissue follow random";

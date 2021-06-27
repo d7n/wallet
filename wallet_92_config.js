@@ -1,1 +1,1 @@
-var mnemonic = "wink goat crowd frame armed nasty book stock black ethics super section";
+var mnemonic = "clever velvet away access aerobic marine nothing blue recall shed home divorce";

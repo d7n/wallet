@@ -1,1 +1,1 @@
-var mnemonic = "sister ring sell guilt input walnut ivory sail rigid kick perfect news";
+var mnemonic = "leisure truly spider dawn service pear jump trend cinnamon rent reflect minimum";

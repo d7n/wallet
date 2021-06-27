@@ -1,1 +1,1 @@
-var mnemonic = "total hunt scrap scorpion venue enrich rely sell six novel live sail";
+var mnemonic = "garden small vivid sound pair survey ski renew jungle labor fever mule";

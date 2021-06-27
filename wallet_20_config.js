@@ -1,1 +1,1 @@
-var mnemonic = "upper return wink disorder awkward evidence hen potato organ awkward between business";
+var mnemonic = "stove cupboard shuffle whale angry walk brain enrich fiscal reopen business door";

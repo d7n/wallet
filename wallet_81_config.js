@@ -1,1 +1,1 @@
-var mnemonic = "matrix rude alter interest catch deny six ticket frequent frozen dice become";
+var mnemonic = "fame ceiling second rack give artwork echo sample swarm great crew apart";

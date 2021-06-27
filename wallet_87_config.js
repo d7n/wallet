@@ -1,1 +1,1 @@
-var mnemonic = "over lyrics urge transfer cotton night unknown foam coin olive leader flip";
+var mnemonic = "sight surge pave seat business film cousin ride laundry tiger speak timber";

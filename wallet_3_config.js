@@ -1,1 +1,1 @@
-var mnemonic = "sick plate flock border entire learn shrimp code dose budget mechanic text";
+var mnemonic = "youth blanket clarify daughter leisure deposit sign opera tube agree motor kit";

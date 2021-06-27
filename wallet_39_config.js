@@ -1,1 +1,1 @@
-var mnemonic = "term east asthma certain fish coconut rebuild address vendor scene range multiply";
+var mnemonic = "steel imitate mention kidney twist liar nerve example memory economy rocket escape";

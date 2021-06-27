@@ -1,1 +1,1 @@
-var mnemonic = "execute trap march service property garbage uncover beauty profit talent basic ocean";
+var mnemonic = "cancel vapor isolate grass wine ancient install poverty fold magnet bus boil";

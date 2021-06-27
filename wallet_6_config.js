@@ -1,1 +1,1 @@
-var mnemonic = "among option machine hope any output spare tired wolf boss rude love";
+var mnemonic = "dismiss glory scrub finish mail few update tell reveal raw laundry else";

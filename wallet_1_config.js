@@ -1,1 +1,1 @@
-var mnemonic = "recipe seven excuse credit achieve topple burden fall awkward will boss base";
+var mnemonic = "ask hundred air agree deposit access comic wolf repair giggle budget print";

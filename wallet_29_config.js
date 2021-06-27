@@ -1,1 +1,1 @@
-var mnemonic = "cabin boat next height antenna oak fitness couch metal aspect biology bone";
+var mnemonic = "usage rather rifle apology shuffle sentence excite shrug ready sustain travel amazing";

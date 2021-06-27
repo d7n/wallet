@@ -1,1 +1,1 @@
-var mnemonic = "hero churn elbow unable help next width symbol heavy rely chicken foster";
+var mnemonic = "original write spoon code valid note lock occur sunset head wink juice";

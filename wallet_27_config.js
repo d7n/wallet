@@ -1,1 +1,1 @@
-var mnemonic = "dove oval claim allow wash disease provide neglect cross trash winter baby";
+var mnemonic = "soup copy luggage tomorrow hurt enlist pipe rotate silly coast design cause";

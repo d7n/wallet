@@ -1,1 +1,1 @@
-var mnemonic = "hat page gain walk topple chalk method vague enlist sell maze pool";
+var mnemonic = "universe calm obscure dumb primary mansion inject cup tuna exotic album grab";

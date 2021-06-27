@@ -1,1 +1,1 @@
-var mnemonic = "park armor answer desert federal vessel earn fence type alert near hope";
+var mnemonic = "bean elephant legend aim clutch shaft lock plunge rent timber decide device";

@@ -1,1 +1,1 @@
-var mnemonic = "cart derive mask zoo fabric card brave company potato flip crystal act";
+var mnemonic = "oxygen resemble various enable mind gun dignity skin enemy tip stool shuffle";

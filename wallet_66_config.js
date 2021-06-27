@@ -1,1 +1,1 @@
-var mnemonic = "market august genius asset rookie ankle tiny armed win fan owner practice";
+var mnemonic = "seat digital orbit leaf tunnel resemble trend theory solution penalty purpose vague";

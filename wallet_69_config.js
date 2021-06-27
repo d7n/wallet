@@ -1,1 +1,1 @@
-var mnemonic = "hole grocery glass caution insane omit brush recall polar naive march chat";
+var mnemonic = "draw deal purity faculty oak rebel little turkey forum insane legend parrot";

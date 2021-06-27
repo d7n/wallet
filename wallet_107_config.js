@@ -1,1 +1,1 @@
-var mnemonic = "shell mammal dice turkey broken soda either exclude hunt owner sister warm";
+var mnemonic = "render hurt response pull melody sunny vital sign lamp deny song hungry";

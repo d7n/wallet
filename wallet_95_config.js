@@ -1,1 +1,1 @@
-var mnemonic = "turn airport gesture anger race feed more best maple edit cheap verify";
+var mnemonic = "attract hire reopen ahead seminar crawl law swallow earth render diamond alcohol";

@@ -1,1 +1,1 @@
-var mnemonic = "ask tray spring aunt version engage rack bright enemy rebuild close what";
+var mnemonic = "horror dolphin this impact tornado draft guide fold youth expand usual universe";

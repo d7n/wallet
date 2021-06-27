@@ -1,1 +1,1 @@
-var mnemonic = "wreck jealous net olive chair scale intact casino nurse friend alone plate";
+var mnemonic = "hurt pumpkin supply say drill foot plunge junior daughter celery gather adult";

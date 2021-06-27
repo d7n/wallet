@@ -1,1 +1,1 @@
-var mnemonic = "exclude inmate prefer paper primary convince cable carbon abstract kick leader laundry";
+var mnemonic = "bubble input strong victory kiwi weird trim segment similar program rich pelican";

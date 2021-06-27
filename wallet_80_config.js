@@ -1,1 +1,1 @@
-var mnemonic = "final result sweet spend rally upon donate nose nasty security alcohol leader";
+var mnemonic = "develop gloom laugh gown horror viable kitten case alone order view person";

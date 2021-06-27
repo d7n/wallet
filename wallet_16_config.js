@@ -1,1 +1,1 @@
-var mnemonic = "theme candy negative quantum soldier obscure soul crouch motor place hobby question";
+var mnemonic = "mesh subway sound pair cherry slight swap betray myself agent assist issue";

@@ -1,1 +1,1 @@
-var mnemonic = "tissue pilot private load fun tube snap giggle urge depend useful mimic";
+var mnemonic = "globe casino focus taxi valve right water gloom team plunge divorce slow";

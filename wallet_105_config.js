@@ -1,1 +1,1 @@
-var mnemonic = "boost feel level march corn sauce beyond between gesture risk convince candy";
+var mnemonic = "spoil process depart error ensure magic earth predict below check rent issue";

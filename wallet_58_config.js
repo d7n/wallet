@@ -1,1 +1,1 @@
-var mnemonic = "boost fall simple alcohol visa fine silent okay kick balcony buffalo novel";
+var mnemonic = "salmon robust fall business glad general pipe van also client dwarf vast";

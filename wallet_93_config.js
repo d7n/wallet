@@ -1,1 +1,1 @@
-var mnemonic = "skull height social umbrella patrol argue theory opera symptom test swamp reward";
+var mnemonic = "shy afford nephew wise wasp rain direct mystery risk sock laugh torch";

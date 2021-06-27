@@ -1,1 +1,1 @@
-var mnemonic = "foil demise coral sea huge coast elite reason boost deputy odor antenna";
+var mnemonic = "awkward ability nation window hidden produce mule struggle apple boat property oblige";

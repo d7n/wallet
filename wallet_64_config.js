@@ -1,1 +1,1 @@
-var mnemonic = "aim hidden mail drill alley shuffle portion material will athlete pudding payment";
+var mnemonic = "trial conduct coil hat fish proof vendor dose final worry employ biology";

@@ -1,1 +1,1 @@
-var mnemonic = "update combine clip scale expose magic prefer silver portion tribe aware library";
+var mnemonic = "depend write life hole phrase police carry naive smoke floor tent forest";
