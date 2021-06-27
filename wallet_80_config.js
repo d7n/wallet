@@ -1,1 +1,1 @@
-var mnemonic = "scan orbit hobby there hood anxiety race vast excuse apart dance code";
+var mnemonic = "easily wire train puzzle fine poverty fever slush harbor modify express fire";

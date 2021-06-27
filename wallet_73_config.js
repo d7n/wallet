@@ -1,1 +1,1 @@
-var mnemonic = "unhappy evoke brisk acoustic pioneer size lizard sell scan fix bitter castle";
+var mnemonic = "script bacon minute early phone debris blur render flame bulb oak sun";

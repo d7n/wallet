@@ -1,1 +1,1 @@
-var mnemonic = "push rifle tonight sentence sketch peasant home tone silly choose spice catch";
+var mnemonic = "sun village nominee galaxy pony wolf today flock what supply enlist educate";

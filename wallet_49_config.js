@@ -1,1 +1,1 @@
-var mnemonic = "foam oppose cool melt roof method horror reason either acquire flat surprise";
+var mnemonic = "tissue bargain sheriff phrase reform people certain fold tonight check remove nephew";

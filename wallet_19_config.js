@@ -1,1 +1,1 @@
-var mnemonic = "taste option hurry south item unknown flight notice talk absurd lawn distance";
+var mnemonic = "section violin sign anxiety silly material twice card hammer simple prosper reason";

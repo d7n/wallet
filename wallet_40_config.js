@@ -1,1 +1,1 @@
-var mnemonic = "return actress orphan betray stadium hockey spot outer next sell broken depth";
+var mnemonic = "popular kit swallow horn nice rural long tenant reveal fever riot major";

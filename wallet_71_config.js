@@ -1,1 +1,1 @@
-var mnemonic = "melody spy absorb priority suggest unique wrong increase talent spy now protect";
+var mnemonic = "kite plug debris excess science december pumpkin advance swarm hurdle exotic assault";

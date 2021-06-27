@@ -1,1 +1,1 @@
-var mnemonic = "bean lady crucial then faith box invite chimney love around invite slush";
+var mnemonic = "retreat day jeans sleep vehicle poverty chicken arrange shallow evolve repair toast";

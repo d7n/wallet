@@ -1,1 +1,1 @@
-var mnemonic = "fall vivid lumber gaze fee song unit salad vacant spirit puzzle labor";
+var mnemonic = "misery canyon injury leisure blanket wait truly crop knife soon follow tell";

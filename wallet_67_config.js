@@ -1,1 +1,1 @@
-var mnemonic = "fury people beach tape sense flock memory unveil soldier blush pilot tissue";
+var mnemonic = "voice network secret abstract pig general language off toddler aerobic knife pond";

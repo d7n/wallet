@@ -1,1 +1,1 @@
-var mnemonic = "faculty enrich exit unable siege pepper orange vintage limit arena provide unable";
+var mnemonic = "cream venture envelope hat rule raccoon trend script wet tray execute bone";

@@ -1,1 +1,1 @@
-var mnemonic = "inspire cricket assault stone stool tobacco mushroom uncover jazz able ticket awkward";
+var mnemonic = "shoulder general torch meat west clock miracle prepare square rhythm olive surprise";

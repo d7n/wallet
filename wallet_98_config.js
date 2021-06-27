@@ -1,1 +1,1 @@
-var mnemonic = "large sugar arctic approve chair canal chief dilemma electric stable topple arena";
+var mnemonic = "document bracket lunch three head panel romance brush purpose palm seed actual";

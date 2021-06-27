@@ -1,1 +1,1 @@
-var mnemonic = "annual bunker length task donate employ clay spike bone muffin peace obey";
+var mnemonic = "tip offer remove pizza grocery people image pear oxygen can retreat wing";

@@ -1,1 +1,1 @@
-var mnemonic = "awkward repair champion whale gasp water end abuse swallow crystal confirm fork";
+var mnemonic = "door observe arch artwork holiday lemon teach forest shine rigid rain neglect";

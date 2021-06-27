@@ -1,1 +1,1 @@
-var mnemonic = "other way six industry must unfold page duty kiss plastic material truly";
+var mnemonic = "often cushion any absurd step prevent calm runway result vocal olympic core";

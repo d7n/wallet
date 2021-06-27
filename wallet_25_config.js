@@ -1,1 +1,1 @@
-var mnemonic = "rebel cabbage vague cash leave patrol enter solve grow clump copper topic";
+var mnemonic = "embody drop comfort inject guilt tool chalk assume health tomorrow minute gallery";

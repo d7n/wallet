@@ -1,1 +1,1 @@
-var mnemonic = "inflict style neck warm icon illness envelope cream speed swim lab evoke";
+var mnemonic = "silver flush profit focus gospel skin spare behave math churn fever position";

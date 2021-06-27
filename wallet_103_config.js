@@ -1,1 +1,1 @@
-var mnemonic = "hunt arctic range turtle acquire turtle coconut dog cabin solid envelope force";
+var mnemonic = "cycle garlic brand search topple treat close permit chalk patrol country help";

@@ -1,1 +1,1 @@
-var mnemonic = "light pledge blast vacuum check shoe method drive autumn cattle smooth jealous";
+var mnemonic = "predict bone gorilla amazing mention envelope hill setup cluster right all blood";

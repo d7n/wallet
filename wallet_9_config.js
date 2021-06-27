@@ -1,1 +1,1 @@
-var mnemonic = "session slogan depth crucial spell warm river fence sock noodle vague actress";
+var mnemonic = "dad kitten try multiply pave describe alarm quote topple skill dignity inhale";

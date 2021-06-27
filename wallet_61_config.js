@@ -1,1 +1,1 @@
-var mnemonic = "lawn orphan ill scorpion delay lamp asset timber fantasy phrase tomato camp";
+var mnemonic = "island state travel option warrior spy wall butter accident slice flee object";

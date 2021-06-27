@@ -1,1 +1,1 @@
-var mnemonic = "actress print south shrug unable wink boat flee switch grocery immense spoon";
+var mnemonic = "size congress deny garden unusual boring bone pledge catch sail achieve day";

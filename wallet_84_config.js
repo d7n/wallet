@@ -1,1 +1,1 @@
-var mnemonic = "slam tree rally spin hood uphold alone alcohol holiday summer crack snow";
+var mnemonic = "legend cloud blossom night pen dish minimum soda wash coast apple material";

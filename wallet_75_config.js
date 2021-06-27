@@ -1,1 +1,1 @@
-var mnemonic = "life describe wealth sibling present boil churn film rule buzz puzzle print";
+var mnemonic = "despair danger tray brief kiwi detail offer wing supreme office venture speed";

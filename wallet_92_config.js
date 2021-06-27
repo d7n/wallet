@@ -1,1 +1,1 @@
-var mnemonic = "coffee fiction bullet pear tissue around quit orient ill example style burden";
+var mnemonic = "mail poet miracle spider mechanic detail carbon expect obtain sick melody alert";

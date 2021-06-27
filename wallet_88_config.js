@@ -1,1 +1,1 @@
-var mnemonic = "define arctic puzzle tunnel crawl eagle firm minor syrup jealous science suggest";
+var mnemonic = "gravity waste insane adult occur celery cruise escape model dizzy bubble vessel";

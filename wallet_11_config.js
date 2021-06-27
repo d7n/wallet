@@ -1,1 +1,1 @@
-var mnemonic = "lion grass diet column clown resource sister blue list area picture game";
+var mnemonic = "truck steak shield hawk old also text raccoon negative ill they miracle";

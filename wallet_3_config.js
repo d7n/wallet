@@ -1,1 +1,1 @@
-var mnemonic = "pair viable blue certain reform phrase silk bread shoot slow achieve art";
+var mnemonic = "claw album decline dutch sunset dune walk minor hungry practice endless stage";

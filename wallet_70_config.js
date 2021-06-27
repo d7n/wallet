@@ -1,1 +1,1 @@
-var mnemonic = "roof equip fog flash aisle attract same elbow pumpkin shiver embody move";
+var mnemonic = "luxury silent move cheap system feature rough brief tobacco runway lottery broken";

@@ -1,1 +1,1 @@
-var mnemonic = "bag daughter pond staff comic image mimic school isolate slab alter claw";
+var mnemonic = "satoshi volume boat wealth jeans tank nose oblige stamp priority begin bag";

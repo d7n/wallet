@@ -1,1 +1,1 @@
-var mnemonic = "enact other vacuum nature predict remember visa record cube danger team random";
+var mnemonic = "sweet exile rookie forward behave kit plastic digital betray road suffer satoshi";

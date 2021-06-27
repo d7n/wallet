@@ -1,1 +1,1 @@
-var mnemonic = "enjoy sea asthma minor border buffalo venue confirm elegant guitar ski ensure";
+var mnemonic = "fever awake ensure flock oval peasant opinion spend syrup claw left clutch";

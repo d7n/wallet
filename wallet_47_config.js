@@ -1,1 +1,1 @@
-var mnemonic = "antique alarm group old jungle uniform custom recipe movie carpet slow video";
+var mnemonic = "yellow vault lyrics dish cool crime carbon again shield damp cage latin";

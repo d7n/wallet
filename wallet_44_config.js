@@ -1,1 +1,1 @@
-var mnemonic = "rely year biology size outer slim glare fever parrot rapid unable olive";
+var mnemonic = "style spike airport test scissors burger dismiss fat gossip flee object peasant";

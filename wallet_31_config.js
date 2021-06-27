@@ -1,1 +1,1 @@
-var mnemonic = "grape clown chat afraid slogan carpet patrol retire green tag leader loyal";
+var mnemonic = "cabin motor cart battle idea energy pair casual cross sudden patrol region";

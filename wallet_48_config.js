@@ -1,1 +1,1 @@
-var mnemonic = "system normal machine jump raven welcome screen fit ask renew wrap roast";
+var mnemonic = "tilt nurse ranch dwarf midnight move wealth cycle page arrange weird sea";

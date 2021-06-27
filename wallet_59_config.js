@@ -1,1 +1,1 @@
-var mnemonic = "soul apple device exist crouch define vault reflect leader firm spirit ticket";
+var mnemonic = "exotic turkey final behave mosquito dentist labor spread mean sand supreme thrive";

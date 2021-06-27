@@ -1,1 +1,1 @@
-var mnemonic = "muscle maple nasty science lawsuit tornado involve wheat lawsuit three before comic";
+var mnemonic = "crime term hospital gaze fix boring deputy slim tribe silk galaxy oblige";

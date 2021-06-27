@@ -1,1 +1,1 @@
-var mnemonic = "modify panda expect aunt scheme legal save share disease tissue develop filter";
+var mnemonic = "afford material keen sport poverty ribbon under demand design mad impulse scan";

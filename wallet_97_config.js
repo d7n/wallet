@@ -1,1 +1,1 @@
-var mnemonic = "juice insane later end horror fire require economy laugh nation abuse sauce";
+var mnemonic = "faint party tell letter taste green early hurt shrug rug soldier denial";

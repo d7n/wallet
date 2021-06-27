@@ -1,1 +1,1 @@
-var mnemonic = "resist column cupboard reopen section impact blade friend viable damage exclude title";
+var mnemonic = "word napkin route decline rug summer mercy proof object peanut smoke call";

@@ -1,1 +1,1 @@
-var mnemonic = "play canyon leader rhythm coin hotel rural push double glow mad speed";
+var mnemonic = "tunnel daring renew author garlic venue stereo theory giggle gain boring more";

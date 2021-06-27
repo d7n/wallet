@@ -1,1 +1,1 @@
-var mnemonic = "swarm peace unable pet mercy protect help inspire rug click betray museum";
+var mnemonic = "address grab spend heavy tonight rotate inflict busy route patch adult woman";

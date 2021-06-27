@@ -1,1 +1,1 @@
-var mnemonic = "kiwi vague salmon prize tooth sample farm announce dish flight armor motion";
+var mnemonic = "uncle ginger aspect echo vital buzz trial busy sight labor ten magnet";

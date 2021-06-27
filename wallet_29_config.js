@@ -1,1 +1,1 @@
-var mnemonic = "case negative diamond brief picnic design educate smart bid lady cancel skull";
+var mnemonic = "water swift satoshi ecology dwarf lecture major trip harbor produce insane glove";

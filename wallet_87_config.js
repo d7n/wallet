@@ -1,1 +1,1 @@
-var mnemonic = "supreme win excess rug below rely local shift post pave hero divorce";
+var mnemonic = "quit stereo bike enough metal trim present olympic there reflect doctor follow";

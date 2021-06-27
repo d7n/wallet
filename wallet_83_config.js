@@ -1,1 +1,1 @@
-var mnemonic = "swamp desk decline team recipe cruise tomato meat key identify alert weasel";
+var mnemonic = "chicken forum daughter core supreme weasel detect tooth student intact fall divorce";

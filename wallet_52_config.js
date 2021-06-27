@@ -1,1 +1,1 @@
-var mnemonic = "chunk grid bicycle panel misery whisper already assume cool nut crime emerge";
+var mnemonic = "seed damage bench polar swear logic tone range annual bench actress clown";

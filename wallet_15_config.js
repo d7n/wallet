@@ -1,1 +1,1 @@
-var mnemonic = "shine identify idle shield toddler carry include deposit quit replace license remove";
+var mnemonic = "fish together general comfort light client zoo consider stage right process tube";

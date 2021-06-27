@@ -1,1 +1,1 @@
-var mnemonic = "welcome benefit sight stomach require entry crisp yellow slender cram bring mercy";
+var mnemonic = "service off course artist invest manual emotion exhaust sustain moon hawk broccoli";

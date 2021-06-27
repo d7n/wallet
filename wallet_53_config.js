@@ -1,1 +1,1 @@
-var mnemonic = "chuckle vanish video escape hope man attend man current close share brush";
+var mnemonic = "ask valid estate decline hole rival core dynamic crawl crane orbit shield";

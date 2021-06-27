@@ -1,1 +1,1 @@
-var mnemonic = "brass olive wire height hero chunk remember access bamboo web alter section";
+var mnemonic = "tree foot exhaust kite network oblige occur news crime galaxy coffee roast";

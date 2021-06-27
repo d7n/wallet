@@ -1,1 +1,1 @@
-var mnemonic = "miracle drive learn stadium current garlic online rich cost calm cement weather";
+var mnemonic = "theme tape erupt extra elite say route slide child intact six rack";

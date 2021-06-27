@@ -1,1 +1,1 @@
-var mnemonic = "fashion galaxy thumb coffee draft fit marriage ugly fitness sort assault drive";
+var mnemonic = "critic husband fashion under timber merit vault wash actual arm decline opinion";

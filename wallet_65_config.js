@@ -1,1 +1,1 @@
-var mnemonic = "cat glow gospel tribe mouse cupboard search ramp sad crystal first claim";
+var mnemonic = "jelly misery deposit duck little dirt rare race roof eye scrub choice";

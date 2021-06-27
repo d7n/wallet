@@ -1,1 +1,1 @@
-var mnemonic = "cheese maze affair morning area entry walnut trial keen test park lucky";
+var mnemonic = "shop series wedding symptom guilt adult age glimpse jump arrange copy chicken";

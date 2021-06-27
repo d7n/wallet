@@ -1,1 +1,1 @@
-var mnemonic = "parrot solve script place ocean diagram venture slot sausage wire ethics coast";
+var mnemonic = "attitude nest picture replace ill ghost economy timber grass orbit model universe";

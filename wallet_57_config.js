@@ -1,1 +1,1 @@
-var mnemonic = "mind hat burden onion taste tissue case promote over grab use snap";
+var mnemonic = "roast spell lemon vendor april camera result maid ten merry curtain year";

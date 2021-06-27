@@ -1,1 +1,1 @@
-var mnemonic = "extra vicious business hip round toss scare runway use fit toast paper";
+var mnemonic = "next design snake teach salt tired earth jar inspire degree link select";

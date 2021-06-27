@@ -1,1 +1,1 @@
-var mnemonic = "eternal skate pass search song banner rhythm have crash danger fetch cement";
+var mnemonic = "priority slab more lion already favorite position wheat mixed pioneer parade kid";

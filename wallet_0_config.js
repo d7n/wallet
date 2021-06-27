@@ -1,1 +1,1 @@
-var mnemonic = "penalty brass miracle october luxury phone high warm inner sing corn era";
+var mnemonic = "gesture prison stone crawl frown problem drastic win nephew memory garment glad";

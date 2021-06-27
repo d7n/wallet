@@ -1,1 +1,1 @@
-var mnemonic = "either weapon panic accuse improve gap purity hill capable shiver need boss";
+var mnemonic = "roof gym pond system shift connect public drop electric lunar oyster chapter";

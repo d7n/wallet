@@ -1,1 +1,1 @@
-var mnemonic = "hollow yard orange assist exercise kidney response feature siege sight absurd camp";
+var mnemonic = "steel spoil security blade used vintage final meadow venue output enhance orange";

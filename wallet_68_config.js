@@ -1,1 +1,1 @@
-var mnemonic = "long love garden safe swap invest obey canvas toddler believe clay toy";
+var mnemonic = "face lift famous bicycle warfare art conduct aisle grow maple candy loan";

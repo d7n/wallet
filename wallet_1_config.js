@@ -1,1 +1,1 @@
-var mnemonic = "crew pepper hybrid inquiry host question journey switch senior mind dog dirt";
+var mnemonic = "steak survey rotate wash chronic fence assist april library prosper team warfare";

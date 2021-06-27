@@ -1,1 +1,1 @@
-var mnemonic = "fatigue firm riot idea open stable cactus amazing morning usual just gentle";
+var mnemonic = "aisle impose toast raw pipe endorse exercise opera unique race nuclear dragon";

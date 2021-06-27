@@ -1,1 +1,1 @@
-var mnemonic = "absorb industry weekend exercise dust corn enforce window tell timber diamond sponsor";
+var mnemonic = "sunny eagle family multiply gym captain that company kiss modify poverty base";

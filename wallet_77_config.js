@@ -1,1 +1,1 @@
-var mnemonic = "quantum rookie canvas peasant floor term increase absorb whisper mix book mix";
+var mnemonic = "true turtle man another cradle involve brain need theme limb winter suspect";

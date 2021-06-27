@@ -1,1 +1,1 @@
-var mnemonic = "bitter harbor prison fence little height enlist draw turn shoulder outer animal";
+var mnemonic = "rookie solve clog rely engine alien income scene oblige trade garbage can";

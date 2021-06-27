@@ -1,1 +1,1 @@
-var mnemonic = "taste salute creek attitude title cinnamon abandon dad remember address typical credit";
+var mnemonic = "slim egg dawn suffer globe survey honey debate copper still tiny frequent";

@@ -1,1 +1,1 @@
-var mnemonic = "gallery gravity super treat chuckle size bargain engage search goose way brass";
+var mnemonic = "surround loop banana this symptom staff hybrid injury antique switch throw sense";

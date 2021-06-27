@@ -1,1 +1,1 @@
-var mnemonic = "ceiling crane diary ordinary case doll nest hill next blossom soul attract";
+var mnemonic = "gaze people behave job adult remove reduce unknown fortune art focus annual";

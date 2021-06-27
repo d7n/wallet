@@ -1,1 +1,1 @@
-var mnemonic = "chuckle extend main index apple train dizzy misery ski neck industry venture";
+var mnemonic = "kangaroo opera online law panda rough motor poem mind bullet onion suffer";

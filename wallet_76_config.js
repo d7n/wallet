@@ -1,1 +1,1 @@
-var mnemonic = "kind scissors plug face wage deer orbit short climb yellow mule nephew";
+var mnemonic = "orient crack hungry guide produce stuff differ urge beef wrap embody recipe";

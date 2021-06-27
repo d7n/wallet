@@ -1,1 +1,1 @@
-var mnemonic = "trial shift rabbit canoe awake pencil crush heavy near process room inmate";
+var mnemonic = "together hip destroy bench employ system punch neck lumber inmate away team";

@@ -1,1 +1,1 @@
-var mnemonic = "hill perfect buddy game viable next prize magnet fuel prepare drive gym";
+var mnemonic = "switch rent burger size lesson shrug punch brief conduct great garment calm";

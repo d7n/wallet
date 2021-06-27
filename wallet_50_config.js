@@ -1,1 +1,1 @@
-var mnemonic = "comfort shuffle salt stone flower guitar small veteran conduct build pistol solve";
+var mnemonic = "gun boss lift shoe clarify evolve manage solid trade chronic weekend prize";

@@ -1,1 +1,1 @@
-var mnemonic = "error tennis race air spawn venture kitten joke ring search renew hope";
+var mnemonic = "demand exile cake mom glad swamp palace devote middle shield head olive";

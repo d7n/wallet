@@ -1,1 +1,1 @@
-var mnemonic = "liquid maze armor repeat sauce spawn enable under slight taste shed snake";
+var mnemonic = "gasp idle dentist subway shift rebel crane direct inflict tornado vibrant security";

@@ -1,1 +1,1 @@
-var mnemonic = "enable shrug hurry emotion plug kind mandate barely private muffin only autumn";
+var mnemonic = "ramp flag salad ensure kitten extra afraid moral bonus square little rack";

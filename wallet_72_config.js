@@ -1,1 +1,1 @@
-var mnemonic = "night donkey cloud sort gravity aunt someone secret rib swear waste know";
+var mnemonic = "worry safe visit reduce dizzy orchard program vendor bonus dwarf such choose";

@@ -1,1 +1,1 @@
-var mnemonic = "author pact dad hurt negative quote step loan tomorrow civil finish island";
+var mnemonic = "region matter coin raise chunk cycle exhaust shadow elegant pelican hamster party";

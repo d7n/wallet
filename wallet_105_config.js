@@ -1,1 +1,1 @@
-var mnemonic = "welcome gain panic flush top local puzzle nation juice liberty best degree";
+var mnemonic = "trust genius keep hire want jump cigar gaze metal want safe boost";

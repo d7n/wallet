@@ -1,1 +1,1 @@
-var mnemonic = "rural million helmet hold symbol denial exit seek chaos gain lion travel";
+var mnemonic = "tornado excess pill all skill wood corn letter tomorrow buddy know soccer";
