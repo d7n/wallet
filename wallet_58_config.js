@@ -1,1 +1,1 @@
-var mnemonic = "grape proud middle build crane absent rule husband exercise fluid crystal kick";
+var mnemonic = "castle involve curve afraid ten ignore wagon flock connect scorpion resource initial";

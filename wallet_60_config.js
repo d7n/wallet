@@ -1,1 +1,1 @@
-var mnemonic = "night reunion identify neutral other version side coral cat pupil shoot circle";
+var mnemonic = "venue load damp build scout eight lottery dish manage film fitness situate";

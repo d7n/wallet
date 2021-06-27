@@ -1,1 +1,1 @@
-var mnemonic = "joke tiger nasty cancel vehicle submit order feature december ribbon evoke vicious";
+var mnemonic = "car pilot fancy crop wear confirm update quiz orchard fantasy wisdom virtual";

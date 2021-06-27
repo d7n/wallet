@@ -1,1 +1,1 @@
-var mnemonic = "stereo earth trouble away section angry inspire smile sign birth ask receive";
+var mnemonic = "chef siege abandon weapon since subject market bitter organ desert meadow inflict";

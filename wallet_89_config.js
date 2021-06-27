@@ -1,1 +1,1 @@
-var mnemonic = "glue common live practice lava raven original seven collect paddle erase trouble";
+var mnemonic = "movie collect buddy spatial logic undo fantasy muscle section pluck wheel explain";

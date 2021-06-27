@@ -1,1 +1,1 @@
-var mnemonic = "eager onion mixture payment liberty defense celery ritual delay hamster arena clay";
+var mnemonic = "face lonely cat obey print spice prepare spy else cherry square record";

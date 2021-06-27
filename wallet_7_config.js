@@ -1,1 +1,1 @@
-var mnemonic = "juice swear monitor loud horror glimpse bleak recycle there slush midnight favorite";
+var mnemonic = "few brush bus curtain humor item emotion chaos pretty churn marble hold";

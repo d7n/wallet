@@ -1,1 +1,1 @@
-var mnemonic = "couple float debris tent amount crucial puppy weekend toe narrow faculty bomb";
+var mnemonic = "ginger puzzle cake swim drum mixed horse slab nature member come escape";

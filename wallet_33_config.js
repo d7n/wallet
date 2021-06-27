@@ -1,1 +1,1 @@
-var mnemonic = "fish chat museum slam wish prosper frequent rebuild clarify much choose castle";
+var mnemonic = "stable keep habit sting expect accident course ignore custom embrace permit culture";

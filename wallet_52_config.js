@@ -1,1 +1,1 @@
-var mnemonic = "gate arctic dutch midnight genius wall orient hurdle worry original survey lock";
+var mnemonic = "essay seat master season odor fine own pistol chef access prevent jazz";

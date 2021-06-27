@@ -1,1 +1,1 @@
-var mnemonic = "alien roof very price scrub grow utility diesel glass click vendor depart";
+var mnemonic = "wood skill odor cupboard invest praise warm whale liar myth twist frost";

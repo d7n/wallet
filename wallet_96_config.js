@@ -1,1 +1,1 @@
-var mnemonic = "drive angle cannon fade cycle envelope west cloth fury corn curious height";
+var mnemonic = "universe universe month expand stem uniform flee region trick lyrics fitness express";

@@ -1,1 +1,1 @@
-var mnemonic = "govern claim stove correct ostrich copy solution soda palm seat until mind";
+var mnemonic = "bullet trend owner crucial cable still permit broom raven forget salute snow";

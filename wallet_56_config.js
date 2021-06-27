@@ -1,1 +1,1 @@
-var mnemonic = "young attract need limb sister spice math start stone struggle aim feed";
+var mnemonic = "story erosion endless rhythm snake orbit eyebrow fame state hammer bone prison";

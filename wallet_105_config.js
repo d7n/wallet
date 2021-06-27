@@ -1,1 +1,1 @@
-var mnemonic = "crumble raise panda crunch radar guitar doctor dust need infant timber drip";
+var mnemonic = "cost cable duty base risk robust creek initial remember slush boat tenant";

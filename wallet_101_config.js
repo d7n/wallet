@@ -1,1 +1,1 @@
-var mnemonic = "olive banner stand winner swallow ensure manual evil valley allow skirt exhibit";
+var mnemonic = "use sentence light puzzle jaguar dragon scare violin victory pill price poverty";

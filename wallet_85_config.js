@@ -1,1 +1,1 @@
-var mnemonic = "want lazy you soccer travel stone fiscal turkey bid quantum language orphan";
+var mnemonic = "hungry naive beach torch depart inflict lock embrace together food grunt dust";

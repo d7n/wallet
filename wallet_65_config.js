@@ -1,1 +1,1 @@
-var mnemonic = "sea cave banner bullet notable learn night rescue vivid habit rebuild disagree";
+var mnemonic = "industry fiction guitar dragon drip rib cute era robot multiply trust wisdom";

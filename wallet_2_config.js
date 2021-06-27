@@ -1,1 +1,1 @@
-var mnemonic = "bread ribbon festival noodle more high face athlete angle favorite stage repeat";
+var mnemonic = "table rice august lion pigeon lady fee again panda second inspire uniform";

@@ -1,1 +1,1 @@
-var mnemonic = "junior noodle acquire disease lizard omit desert acoustic tray left suit cook";
+var mnemonic = "cabbage immune brave gadget chief front walnut iron snake smart crumble thing";

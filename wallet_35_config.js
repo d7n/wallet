@@ -1,1 +1,1 @@
-var mnemonic = "army issue service myself age resist strong tool deliver party spice exchange";
+var mnemonic = "clip address bone turn strike catch gadget edit fish sun rebuild audit";

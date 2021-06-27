@@ -1,1 +1,1 @@
-var mnemonic = "easily oven reflect occur track employ exit endless fitness shrimp popular town";
+var mnemonic = "oblige suit unaware cliff rookie hip learn pretty mango together cushion dish";

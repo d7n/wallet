@@ -1,1 +1,1 @@
-var mnemonic = "furnace team weasel slice cupboard cool clump basic car family then sand";
+var mnemonic = "erode slim advice add monkey salad sustain clock movie toward industry invest";

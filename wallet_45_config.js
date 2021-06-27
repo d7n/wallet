@@ -1,1 +1,1 @@
-var mnemonic = "people speak daring kitten chicken float dynamic derive basic margin metal verb";
+var mnemonic = "game destroy clay pull fish finger gesture route deputy ordinary draw net";

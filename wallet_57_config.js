@@ -1,1 +1,1 @@
-var mnemonic = "tragic surprise sound someone hurt stick rocket muscle sphere top hero aunt";
+var mnemonic = "diet foil pilot flower ginger renew before mandate tomato climb flock resist";

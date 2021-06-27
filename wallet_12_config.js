@@ -1,1 +1,1 @@
-var mnemonic = "another above tissue slot baby hill script saddle jelly inquiry crisp apple";
+var mnemonic = "minimum possible guilt mansion trigger erode woman sort harvest nominee match pitch";

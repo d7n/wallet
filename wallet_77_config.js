@@ -1,1 +1,1 @@
-var mnemonic = "more damp lens lab consider panic kind enact fiscal vocal edge around";
+var mnemonic = "empty oil prepare mean predict citizen soft goddess repair hungry slow life";

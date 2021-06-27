@@ -1,1 +1,1 @@
-var mnemonic = "pottery about tired lens ski hungry spring fault warm reduce street wrestle";
+var mnemonic = "review hundred boring weasel legal fly skull huge arena finger inhale unusual";

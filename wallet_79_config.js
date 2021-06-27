@@ -1,1 +1,1 @@
-var mnemonic = "hat cruise bunker naive file bless famous toy protect van energy rail";
+var mnemonic = "hand doll sting circle bargain obtain invest lumber list plate match dismiss";

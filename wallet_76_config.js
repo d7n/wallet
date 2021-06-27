@@ -1,1 +1,1 @@
-var mnemonic = "hat eagle fortune shift soldier wrist soon orphan rally trophy mesh piece";
+var mnemonic = "gossip hill gain spice toy time retreat intact leisure wild sample process";

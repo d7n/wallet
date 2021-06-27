@@ -1,1 +1,1 @@
-var mnemonic = "parent rice recipe coconut hospital lake fault hammer jacket ordinary gain ramp";
+var mnemonic = "misery essay expect holiday twin park arena wonder tool small lift busy";

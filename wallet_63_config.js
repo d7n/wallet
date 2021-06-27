@@ -1,1 +1,1 @@
-var mnemonic = "enjoy exact talk spread dizzy impose loop fee bacon use offer morning";
+var mnemonic = "seminar pause barrel cook myth resemble angle spice clown fan when suggest";

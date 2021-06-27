@@ -1,1 +1,1 @@
-var mnemonic = "teach market vendor deny clean indoor wrist just scale bird title town";
+var mnemonic = "peanut lens answer siege scrub renew develop zone impact laptop again hint";

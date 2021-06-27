@@ -1,1 +1,1 @@
-var mnemonic = "use fold police core around dismiss beach twenty garage renew family seat";
+var mnemonic = "record snap shaft sell mother mule measure stem consider hybrid nature inform";

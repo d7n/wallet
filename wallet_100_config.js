@@ -1,1 +1,1 @@
-var mnemonic = "glue seat asthma record strong obtain cricket banner quarter satisfy decrease prize";
+var mnemonic = "pride wedding together bamboo peanut slogan brush habit alarm depend blouse donate";

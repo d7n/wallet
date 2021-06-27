@@ -1,1 +1,1 @@
-var mnemonic = "taxi weapon pattern action inside giant hurry doll soon limit drink race";
+var mnemonic = "shell relax grit mind churn angry people sand stone inform violin better";

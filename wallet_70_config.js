@@ -1,1 +1,1 @@
-var mnemonic = "sponsor artefact weird loop sister funny inch broken tank patrol skate local";
+var mnemonic = "wrap find lesson siege near exhaust bread tomorrow over crucial negative visual";

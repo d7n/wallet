@@ -1,1 +1,1 @@
-var mnemonic = "cry immune muffin nasty inquiry barrel display ridge ski victory oak column";
+var mnemonic = "toe lunch relief trigger happy quarter frown sport chronic fortune cost since";

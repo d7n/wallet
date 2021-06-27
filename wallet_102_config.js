@@ -1,1 +1,1 @@
-var mnemonic = "tenant issue warm voyage field coyote dash wreck people hello flee pilot";
+var mnemonic = "banner uncle stairs grass buddy one isolate snap time inquiry voice job";

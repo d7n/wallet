@@ -1,1 +1,1 @@
-var mnemonic = "urban garage steak pencil awesome dragon open infant catch steel common winner";
+var mnemonic = "elegant humor million stable main parade pilot unique breeze mimic club hazard";

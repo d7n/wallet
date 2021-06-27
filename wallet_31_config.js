@@ -1,1 +1,1 @@
-var mnemonic = "loan slogan achieve cannon music hurdle crouch fruit figure traffic awful script";
+var mnemonic = "inform kid plunge seat infant fresh neutral message fossil silk august nut";

@@ -1,1 +1,1 @@
-var mnemonic = "abstract canoe fiscal country twist seek symptom caution clean tell spy spatial";
+var mnemonic = "blood trim lesson pledge ancient zoo cloth version divert purpose strike ginger";

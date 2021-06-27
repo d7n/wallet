@@ -1,1 +1,1 @@
-var mnemonic = "cereal stick song inject beach guide shoulder insane alert cheap style uniform";
+var mnemonic = "burger wisdom robot will iron clinic dinosaur same car wrist extra turkey";

@@ -1,1 +1,1 @@
-var mnemonic = "arrow enough share lens nice wreck pilot spray merge veteran tool omit";
+var mnemonic = "long disagree equip brown tunnel thrive spoon consider winter hamster pet shy";

@@ -1,1 +1,1 @@
-var mnemonic = "huge walk clutch east hip team aerobic green slam intact hole trophy";
+var mnemonic = "clean license magic office design stadium fiscal hybrid lava daughter crime taste";

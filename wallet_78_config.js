@@ -1,1 +1,1 @@
-var mnemonic = "range bean barrel flavor curtain improve avoid poverty piece series snap employ";
+var mnemonic = "sudden people page jealous dawn mosquito height try never deliver scout boss";

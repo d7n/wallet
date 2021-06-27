@@ -1,1 +1,1 @@
-var mnemonic = "swim insane castle spatial tenant connect ring merit abandon slot immense impact";
+var mnemonic = "rich depart report casual scan tired skate winter garden allow slab mass";

@@ -1,1 +1,1 @@
-var mnemonic = "hollow kind marble together crisp dolphin body stomach capable neutral put autumn";
+var mnemonic = "success potato raise radar behind raven obvious smart shaft remain post unhappy";

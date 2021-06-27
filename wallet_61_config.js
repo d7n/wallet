@@ -1,1 +1,1 @@
-var mnemonic = "lake skin squeeze situate pink nasty film raise cycle deputy ridge host";
+var mnemonic = "pole proud bike vivid skirt estate popular gap start saddle relax radar";

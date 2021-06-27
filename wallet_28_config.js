@@ -1,1 +1,1 @@
-var mnemonic = "popular snake dish scene cat evoke much vanish layer gesture mixed seven";
+var mnemonic = "like grocery pattern lumber skull world eager speed idle envelope planet song";

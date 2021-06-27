@@ -1,1 +1,1 @@
-var mnemonic = "almost inspire impulse soup kidney wood carbon title victory swap copy belt";
+var mnemonic = "wink ribbon cry fiction repeat confirm bundle elite dolphin camera finger play";

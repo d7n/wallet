@@ -1,1 +1,1 @@
-var mnemonic = "spawn room leopard receive unit bid people company unfair devote pattern gown";
+var mnemonic = "above sorry key fine clean noise mosquito begin blood tree child renew";

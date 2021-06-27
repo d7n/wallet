@@ -1,1 +1,1 @@
-var mnemonic = "harbor drink toss prevent innocent flock stamp series grocery harvest little purpose";
+var mnemonic = "negative jar entire surge island lamp such nice moon dose surge merge";

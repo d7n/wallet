@@ -1,1 +1,1 @@
-var mnemonic = "coral merry cliff anger hold eye grace walk place foot timber gift";
+var mnemonic = "manual uphold math typical dumb december wrestle sugar tribe rely cross spin";

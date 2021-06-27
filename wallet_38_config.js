@@ -1,1 +1,1 @@
-var mnemonic = "digital ball type faith chief invest involve gauge lottery wool error assist";
+var mnemonic = "position uphold stamp quiz mansion vital elevator bench jeans right magic source";

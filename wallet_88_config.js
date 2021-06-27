@@ -1,1 +1,1 @@
-var mnemonic = "flush above crash gun stand busy title estate romance stumble inquiry comfort";
+var mnemonic = "vocal wave unaware grow mobile acoustic trash awkward leave armor gate artwork";

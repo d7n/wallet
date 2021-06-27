@@ -1,1 +1,1 @@
-var mnemonic = "length denial explain section identify exit swallow payment orange either result make";
+var mnemonic = "under address toss bridge bike must wire auction slow kitchen uniform nuclear";

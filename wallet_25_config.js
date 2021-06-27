@@ -1,1 +1,1 @@
-var mnemonic = "light ability employ few recall glare hollow normal help olive electric wood";
+var mnemonic = "warrior convince evil toilet zebra lottery discover wear repeat forget husband begin";

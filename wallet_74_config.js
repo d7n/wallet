@@ -1,1 +1,1 @@
-var mnemonic = "regular chuckle auto ride security orchard jaguar dinner bronze skin ozone hair";
+var mnemonic = "stumble suggest check roast flame wonder unable media scatter suggest uphold oppose";

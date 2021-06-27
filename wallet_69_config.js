@@ -1,1 +1,1 @@
-var mnemonic = "trash vicious fortune gap start bullet december castle modify wish neither venue";
+var mnemonic = "patrol ranch december collect fan wire galaxy update obscure roof reflect torch";

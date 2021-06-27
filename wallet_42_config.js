@@ -1,1 +1,1 @@
-var mnemonic = "search ready apology day aim remain witness often space drama glove crane";
+var mnemonic = "biology where harbor loyal drop season orphan margin cart pottery goat beyond";

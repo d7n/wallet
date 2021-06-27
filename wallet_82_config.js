@@ -1,1 +1,1 @@
-var mnemonic = "piece laundry sword mad produce siege feed bottom switch very check gauge";
+var mnemonic = "author involve cheese bronze oxygen anger manual zebra protect decide walk question";

@@ -1,1 +1,1 @@
-var mnemonic = "buyer hamster blouse patient beach skirt success say cousin kind rival kingdom";
+var mnemonic = "illegal match forward obscure denial bread glide squirrel become original cannon patrol";

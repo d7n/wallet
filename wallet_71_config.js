@@ -1,1 +1,1 @@
-var mnemonic = "waste sphere hamster tuna fee robust patrol divert arrive defy chronic talk";
+var mnemonic = "canyon rebel sail waste alley sadness leg above random senior soldier sister";

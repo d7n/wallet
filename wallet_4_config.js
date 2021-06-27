@@ -1,1 +1,1 @@
-var mnemonic = "phrase hawk brown ocean cross test course people east power choose security";
+var mnemonic = "void luggage tooth total sudden close industry engine lemon small true steak";

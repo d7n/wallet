@@ -1,1 +1,1 @@
-var mnemonic = "measure traffic merit work venue very fence garden arrow wealth ticket female";
+var mnemonic = "tissue green debris skate denial angry poverty congress spin century depend core";

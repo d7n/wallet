@@ -1,1 +1,1 @@
-var mnemonic = "sorry supply gloom gospel invest must rose mail unknown normal suspect alarm";
+var mnemonic = "spice seek onion hard cry hand hero wood sure round plug win";

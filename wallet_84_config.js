@@ -1,1 +1,1 @@
-var mnemonic = "still frost leopard boat mushroom need purity twenty sudden disease proud love";
+var mnemonic = "donor sing mirror energy diamond remove harsh soon corn cube sell favorite";

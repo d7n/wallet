@@ -1,1 +1,1 @@
-var mnemonic = "summer game north machine senior coast school key ranch step tone laugh";
+var mnemonic = "tongue erode afraid tilt adjust bracket bicycle merry force pupil spray quality";

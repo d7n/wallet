@@ -1,1 +1,1 @@
-var mnemonic = "any seek become sea fall race girl mirror soda burst power lottery";
+var mnemonic = "field seven bargain adult estate ski sing bring mistake palm zoo lift";

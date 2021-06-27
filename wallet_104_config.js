@@ -1,1 +1,1 @@
-var mnemonic = "rival credit sadness cross outdoor patient divorce urge fiber bus now pause";
+var mnemonic = "sadness true super rain swap green refuse tooth duck blood tuna fog";

@@ -1,1 +1,1 @@
-var mnemonic = "capable hobby input choice lounge yard barely unfair sphere muscle case hold";
+var mnemonic = "open rack faculty reject subject screen ignore blame awesome devote twin bid";

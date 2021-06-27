@@ -1,1 +1,1 @@
-var mnemonic = "type art cushion door seven gas swing oxygen episode pulp music pond";
+var mnemonic = "oven mandate parrot must increase trip rich dial sand palace original sea";

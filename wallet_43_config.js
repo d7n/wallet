@@ -1,1 +1,1 @@
-var mnemonic = "strike long artefact love calm office youth blossom invest company salt neck";
+var mnemonic = "skull nothing nest pill little author top idea social quick top code";

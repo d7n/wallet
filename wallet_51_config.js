@@ -1,1 +1,1 @@
-var mnemonic = "old fee town cliff disorder multiply deer ice iron project fancy turkey";
+var mnemonic = "match clinic subway great virus spring nuclear cabbage subway uniform diesel object";

@@ -1,1 +1,1 @@
-var mnemonic = "true stone lake security timber taste select pet maple much cheap put";
+var mnemonic = "second refuse useful input immense adjust genius drop decrease service advance audit";

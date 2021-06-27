@@ -1,1 +1,1 @@
-var mnemonic = "priority situate laugh move phrase always buffalo dutch split payment gain diary";
+var mnemonic = "include winter hamster hundred shallow home festival inhale common stuff glove dry";

@@ -1,1 +1,1 @@
-var mnemonic = "crane settle street meadow hole youth fade peanut ecology wait ready snow";
+var mnemonic = "shrimp neutral badge drink hungry key artwork assault awake ship bulb congress";

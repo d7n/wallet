@@ -1,1 +1,1 @@
-var mnemonic = "birth february lucky crop tomorrow office express economy excuse faith cruise inherit";
+var mnemonic = "tooth chat add item permit rifle hungry army area portion include stove";

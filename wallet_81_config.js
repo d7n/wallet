@@ -1,1 +1,1 @@
-var mnemonic = "audit light rail make acoustic tennis twist humor tiger about knock vessel";
+var mnemonic = "grass force beef almost fury call bean village curtain rebel yard hold";

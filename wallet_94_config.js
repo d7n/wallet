@@ -1,1 +1,1 @@
-var mnemonic = "host diary swing alarm alien mandate clever flight comfort voyage shaft nothing";
+var mnemonic = "wonder twenty begin wild fee model column thought wrap rate talk stone";

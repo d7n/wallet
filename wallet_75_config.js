@@ -1,1 +1,1 @@
-var mnemonic = "flight tragic catalog another ribbon winter marble dice rabbit ball service word";
+var mnemonic = "build dolphin shoulder snack enjoy journey inspire disease desert review tobacco candy";

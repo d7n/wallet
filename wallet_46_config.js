@@ -1,1 +1,1 @@
-var mnemonic = "man camp there cause artefact warfare famous satoshi worry grid story exist";
+var mnemonic = "tortoise plastic train purchase cart lucky super define wheat unaware seek movie";

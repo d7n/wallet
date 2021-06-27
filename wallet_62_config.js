@@ -1,1 +1,1 @@
-var mnemonic = "unlock confirm silver window trim cause hundred ranch vanish chapter bronze jazz";
+var mnemonic = "sort bird guitar river twenty end crouch quality enhance cluster talk early";

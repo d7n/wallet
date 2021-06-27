@@ -1,1 +1,1 @@
-var mnemonic = "dinner tenant horn extra front suggest blue warrior color remember oval wild";
+var mnemonic = "dress dance army often leave obvious cereal same husband question step shove";

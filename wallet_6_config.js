@@ -1,1 +1,1 @@
-var mnemonic = "online inject old fragile vicious office dolphin human october cry comic strategy";
+var mnemonic = "solution solid hub emotion dignity deal genre filter glue pact digital calm";

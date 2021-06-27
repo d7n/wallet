@@ -1,1 +1,1 @@
-var mnemonic = "vendor weather picnic sniff avoid renew good jazz ostrich bundle people resist";
+var mnemonic = "window cereal goat tip raccoon change trust tomorrow stuff banner elbow reunion";

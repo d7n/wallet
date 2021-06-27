@@ -1,1 +1,1 @@
-var mnemonic = "concert south adapt spice smile fence fire destroy clip hour indicate trust";
+var mnemonic = "awake mail trend glimpse text damage trust armed ramp exchange sleep inner";

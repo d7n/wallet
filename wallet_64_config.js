@@ -1,1 +1,1 @@
-var mnemonic = "scatter hero lucky expose fat shine urge potato sound birth tube tiger";
+var mnemonic = "cousin tip cupboard labor series more tribe flock junior upper road pipe";
