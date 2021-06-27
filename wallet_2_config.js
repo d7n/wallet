@@ -1,1 +1,1 @@
-var mnemonic = "mad summer fiscal friend lottery explain pig have earth canal mistake toddler";
+var mnemonic = "soft panic sound snake volcano dad achieve rural cave split ask burst";

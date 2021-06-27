@@ -1,1 +1,1 @@
-var mnemonic = "exhaust enemy wing already neutral convince seed monster obey gain erode flag";
+var mnemonic = "damage dragon acquire hundred report glue disease brick exhibit dry easy climb";

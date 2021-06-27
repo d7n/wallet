@@ -1,1 +1,1 @@
-var mnemonic = "boat van mango daring uphold demise mechanic accuse exact chronic hood cool";
+var mnemonic = "fan loan effort term rabbit siege success layer render stock satisfy rocket";

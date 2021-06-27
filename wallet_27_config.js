@@ -1,1 +1,1 @@
-var mnemonic = "assault ketchup burst problem radar found sunset drama noodle loud toast twenty";
+var mnemonic = "spot shrug grass endless pilot ladder private drive recipe female budget west";

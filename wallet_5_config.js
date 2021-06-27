@@ -1,1 +1,1 @@
-var mnemonic = "mix gossip turkey photo help hurt diamond repeat regular legal borrow upgrade";
+var mnemonic = "tenant have helmet charge tornado risk fan reopen rival saddle artist solve";

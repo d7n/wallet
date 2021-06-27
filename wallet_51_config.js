@@ -1,1 +1,1 @@
-var mnemonic = "wasp custom ghost tower marine devote wealth open sleep fury fee old";
+var mnemonic = "increase garbage coconut survey speed this poet peace pencil original green venture";

@@ -1,1 +1,1 @@
-var mnemonic = "purse mystery glue skin possible lamp echo decide loan diary sibling huge";
+var mnemonic = "flat silver choose only wagon view lady adult casino cheese argue total";

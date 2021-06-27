@@ -1,1 +1,1 @@
-var mnemonic = "virtual grow stadium mother want apart slush size embark happy hurry pumpkin";
+var mnemonic = "mule safe where balance elite dust add fever siege defy avoid gym";

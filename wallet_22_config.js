@@ -1,1 +1,1 @@
-var mnemonic = "anger battle tobacco emerge citizen style candy there trust cheap jaguar vintage";
+var mnemonic = "develop night regular much vibrant ankle soft require adult annual used mask";

@@ -1,1 +1,1 @@
-var mnemonic = "negative average vault wave arch habit armed you before enrich detect opera";
+var mnemonic = "settle ticket monster sadness party glimpse visual alley load lawsuit debate airport";

@@ -1,1 +1,1 @@
-var mnemonic = "rail trust olive wage loan raise hood negative license bar crazy enroll";
+var mnemonic = "this mix glide frame suit auction patch color soccer total tray fence";

@@ -1,1 +1,1 @@
-var mnemonic = "pottery claw churn quarter burger price broken hurt room hold furnace whisper";
+var mnemonic = "sweet unable wreck large fee web liberty leg clutch kid truly popular";

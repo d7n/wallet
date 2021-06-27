@@ -1,1 +1,1 @@
-var mnemonic = "print bamboo hotel picture ginger legal pencil reward almost mandate sauce rival";
+var mnemonic = "erase bottom benefit symptom school dose debris penalty opinion win endless bid";

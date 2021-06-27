@@ -1,1 +1,1 @@
-var mnemonic = "depth salad gym sustain elephant assume congress clip obvious cash price chaos";
+var mnemonic = "feed olympic bind base spray foster yellow hire mammal reward aisle what";

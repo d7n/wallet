@@ -1,1 +1,1 @@
-var mnemonic = "shoot peasant main meadow order bid quantum police cart clown furnace will";
+var mnemonic = "humor crawl truth vivid artist kite front great giggle sudden subway before";

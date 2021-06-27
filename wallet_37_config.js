@@ -1,1 +1,1 @@
-var mnemonic = "load tobacco decrease mail special long detect puzzle tuition blind once improve";
+var mnemonic = "become taxi consider neck hawk fold happy still found fuel choose capital";

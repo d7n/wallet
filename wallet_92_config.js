@@ -1,1 +1,1 @@
-var mnemonic = "farm road infant short eagle elegant label cover hamster search proof jeans";
+var mnemonic = "cousin tell grass riot toward wide arrange aim moment adjust boost wreck";

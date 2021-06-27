@@ -1,1 +1,1 @@
-var mnemonic = "learn brain occur suffer armed smart will fresh over rigid sausage measure";
+var mnemonic = "mask decline ritual ill outside key easily submit under auction sing soft";

@@ -1,1 +1,1 @@
-var mnemonic = "plunge fee egg person bag ranch outside remind minor still universe october";
+var mnemonic = "gown number oxygen dust feel please glue eight arena truck smile one";

@@ -1,1 +1,1 @@
-var mnemonic = "sand brass aisle scene stick merge bitter dinosaur session loan file turtle";
+var mnemonic = "cherry drama grab siege bless west jump someone achieve hurry smoke matrix";

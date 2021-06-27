@@ -1,1 +1,1 @@
-var mnemonic = "then token layer furnace become poem talk output camera push mandate wing";
+var mnemonic = "scatter near choose club one nuclear mix fashion choose project play project";

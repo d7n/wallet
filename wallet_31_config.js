@@ -1,1 +1,1 @@
-var mnemonic = "middle stone hope bleak journey rebel orchard demise child able animal bacon";
+var mnemonic = "tool outside used that corn mandate rain sugar winner horse legal ice";

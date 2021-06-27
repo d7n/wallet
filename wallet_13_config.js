@@ -1,1 +1,1 @@
-var mnemonic = "client oblige million barrel theme cool prefer concert blame common cause amount";
+var mnemonic = "large issue vivid spider donor dream current winner bullet bleak buyer advice";

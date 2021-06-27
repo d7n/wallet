@@ -1,1 +1,1 @@
-var mnemonic = "trumpet inform speak jewel tortoise airport vague pave unfold neglect border trouble";
+var mnemonic = "forget bind drill game apart spread cover scatter satoshi audit gauge slim";

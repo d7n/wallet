@@ -1,1 +1,1 @@
-var mnemonic = "fire hello elder gesture theory illegal design heavy bird ten chimney when";
+var mnemonic = "month before timber prepare flag zoo column alcohol lift wing cement slide";

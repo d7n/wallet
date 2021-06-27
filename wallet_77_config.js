@@ -1,1 +1,1 @@
-var mnemonic = "tree benefit live patrol save hungry frown settle arctic hair scrap stomach";
+var mnemonic = "palm brief quit trust you gap head basic mushroom frequent tonight legal";

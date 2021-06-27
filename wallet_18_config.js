@@ -1,1 +1,1 @@
-var mnemonic = "extra awkward test into spread charge civil tail depth employ black oyster";
+var mnemonic = "include gravity reopen brisk casino intact fluid indicate head grit skirt govern";

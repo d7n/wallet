@@ -1,1 +1,1 @@
-var mnemonic = "special work clog phrase venture castle custom remove elbow truly south region";
+var mnemonic = "album chalk rabbit ice vague sea idea buddy harsh network pitch tennis";

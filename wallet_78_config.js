@@ -1,1 +1,1 @@
-var mnemonic = "attend filter spice minor bleak priority way open witness fall naive drama";
+var mnemonic = "glance basket hundred proud square dragon poem clock negative artefact salmon ancient";

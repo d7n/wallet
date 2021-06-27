@@ -1,1 +1,1 @@
-var mnemonic = "fox leader cool noble flight elevator olympic banana horror dance fly grit";
+var mnemonic = "current radio pen awkward bargain return fit glance solve repeat prosper burst";

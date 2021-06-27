@@ -1,1 +1,1 @@
-var mnemonic = "weekend material fiber long tobacco frost dash february region quality anxiety oblige";
+var mnemonic = "actress equal resemble rhythm style negative smart office auction tilt dynamic list";

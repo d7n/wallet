@@ -1,1 +1,1 @@
-var mnemonic = "glove hurry excess flock fly wear foot item cup route snap absent";
+var mnemonic = "road dawn answer meat island vocal input almost spoil museum inherit focus";

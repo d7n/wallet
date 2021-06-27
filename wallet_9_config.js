@@ -1,1 +1,1 @@
-var mnemonic = "first script myth sign fashion trust list exhibit marriage vicious hundred culture";
+var mnemonic = "person link silk east breeze analyst wealth ivory latin ramp order network";

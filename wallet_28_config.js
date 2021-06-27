@@ -1,1 +1,1 @@
-var mnemonic = "chef abuse machine will cigar trade tell ship whip tuna response health";
+var mnemonic = "husband embark habit athlete gadget month will notable mother riot luggage gain";

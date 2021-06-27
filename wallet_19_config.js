@@ -1,1 +1,1 @@
-var mnemonic = "fix steak rotate spray alert absorb essence surround tribe draw just nut";
+var mnemonic = "law twin learn blouse van fly cube address hover cushion move crouch";

@@ -1,1 +1,1 @@
-var mnemonic = "crew globe moon health gaze auto unable timber since message arena gown";
+var mnemonic = "debris age voice crush town assault mind tip quiz shrug trumpet used";

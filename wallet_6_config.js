@@ -1,1 +1,1 @@
-var mnemonic = "lens tomorrow loyal lunch fury child letter furnace income chalk trouble lunar";
+var mnemonic = "rare lava attend cupboard excess climb north giant prize guide miracle between";

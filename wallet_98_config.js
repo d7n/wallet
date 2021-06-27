@@ -1,1 +1,1 @@
-var mnemonic = "used final enable zebra present punch outside dizzy actor question album say";
+var mnemonic = "panther harsh dirt swear price forward prefer cry upgrade unfold target device";

@@ -1,1 +1,1 @@
-var mnemonic = "manage onion current dog link system drama alley pull derive canvas damage";
+var mnemonic = "skin harsh spring space attend artist welcome tunnel enough virtual snow find";

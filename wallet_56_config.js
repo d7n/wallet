@@ -1,1 +1,1 @@
-var mnemonic = "rack shove deposit drink night travel twice arrange dash door observe hen";
+var mnemonic = "bracket carbon cereal oak long neutral right skate perfect buyer manage shrimp";

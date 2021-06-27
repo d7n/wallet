@@ -1,1 +1,1 @@
-var mnemonic = "honey absorb sibling transfer transfer awful easy fiction exhibit before heavy donate";
+var mnemonic = "day win february injury melody retreat hedgehog fossil right oppose silk runway";

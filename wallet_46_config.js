@@ -1,1 +1,1 @@
-var mnemonic = "sphere know ordinary update atom creek obscure window disagree high destroy repeat";
+var mnemonic = "final tumble load enact produce attitude whale flat hour rice wait gas";

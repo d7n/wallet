@@ -1,1 +1,1 @@
-var mnemonic = "build dynamic inform year control catch uniform gift dish proud pole utility";
+var mnemonic = "must power caught fetch give boil chair awake laundry amateur inject ancient";

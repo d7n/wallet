@@ -1,1 +1,1 @@
-var mnemonic = "grid thumb slab spoon walnut juice amateur wild fitness song naive two";
+var mnemonic = "push space shiver artefact issue kiwi illegal track noble leg victory trophy";

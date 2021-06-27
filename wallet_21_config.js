@@ -1,1 +1,1 @@
-var mnemonic = "tooth suffer ritual slush clog baby guide polar struggle unfair mail among";
+var mnemonic = "excite security sister aunt chicken skate route seed shuffle horn border jungle";

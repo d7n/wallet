@@ -1,1 +1,1 @@
-var mnemonic = "manual front lava crowd eye kingdom shove fringe speak empower awkward inch";
+var mnemonic = "layer rude sleep client portion pizza play basic forest effort barely raccoon";

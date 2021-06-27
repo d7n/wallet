@@ -1,1 +1,1 @@
-var mnemonic = "truck swear coil term scrap unit escape fruit mimic move wing spirit";
+var mnemonic = "lion fetch theme settle educate valley behind file baby hard slam cattle";

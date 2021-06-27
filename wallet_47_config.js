@@ -1,1 +1,1 @@
-var mnemonic = "satisfy gasp expect option dash level force soda slice riot whip dove";
+var mnemonic = "opinion kitchen fiscal typical month embark barely garlic embody when sign correct";

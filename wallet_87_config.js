@@ -1,1 +1,1 @@
-var mnemonic = "carry crush slow turn fossil cash remove urge glass casual slogan divert";
+var mnemonic = "fever home isolate skate maze harvest comfort cash wasp initial trumpet language";

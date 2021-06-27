@@ -1,1 +1,1 @@
-var mnemonic = "gorilla tumble pear february analyst canoe rotate what onion anxiety ten dumb";
+var mnemonic = "exile six alien cost noise mirror ensure bottom plug middle rice credit";

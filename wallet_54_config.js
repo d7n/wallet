@@ -1,1 +1,1 @@
-var mnemonic = "hamster dose spike shallow exercise fine upgrade sword raven rug whisper pulse";
+var mnemonic = "heart ribbon crack wise unique short solve couple mix much blade glue";

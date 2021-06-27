@@ -1,1 +1,1 @@
-var mnemonic = "bronze frost three hat salute turn royal utility cloud sunset essence marriage";
+var mnemonic = "nut power spirit alien useful file unknown choose energy sponsor witness age";

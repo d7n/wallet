@@ -1,1 +1,1 @@
-var mnemonic = "there coin cliff vibrant explain decrease language bargain smart vehicle mule meat";
+var mnemonic = "adapt bundle claw famous cook casino shield near card elegant eager video";

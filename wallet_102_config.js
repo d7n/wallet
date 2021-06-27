@@ -1,1 +1,1 @@
-var mnemonic = "curve series warm scan sweet crazy need allow connect blouse champion nose";
+var mnemonic = "audit observe slender sugar rule nasty close express improve swear east narrow";

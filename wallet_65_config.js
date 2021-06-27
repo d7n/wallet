@@ -1,1 +1,1 @@
-var mnemonic = "sting turkey tackle you apology also ride warfare loud miracle cute erode";
+var mnemonic = "recall wedding ostrich fade kidney park symbol deer stone harsh engine audit";

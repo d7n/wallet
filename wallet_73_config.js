@@ -1,1 +1,1 @@
-var mnemonic = "else sauce lyrics armed trap sibling mix govern coconut interest bonus inch";
+var mnemonic = "tissue salute marble risk volcano jaguar primary coast wet merge seed animal";

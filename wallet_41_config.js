@@ -1,1 +1,1 @@
-var mnemonic = "ridge solid disorder grain drift raise consider meadow stairs core empty seek";
+var mnemonic = "erase meat combine need mutual race rocket regular road roast pen book";

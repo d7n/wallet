@@ -1,1 +1,1 @@
-var mnemonic = "admit cargo traffic shift tribe raise spirit fun royal web maze demise";
+var mnemonic = "cheap broccoli knee dwarf ladder negative nephew patrol blue grocery desert before";

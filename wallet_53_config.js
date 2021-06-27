@@ -1,1 +1,1 @@
-var mnemonic = "skate trip fog glad knee ride unfair medal curious pause enable gravity";
+var mnemonic = "dove cake file concert give family quit bunker olympic more story improve";

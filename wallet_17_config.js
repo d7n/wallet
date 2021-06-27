@@ -1,1 +1,1 @@
-var mnemonic = "easily lift oyster someone recall quality earn palm crisp forward afford juice";
+var mnemonic = "weather portion display group grit brief churn damage toy much cactus behind";

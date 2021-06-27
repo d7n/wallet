@@ -1,1 +1,1 @@
-var mnemonic = "trial dismiss orient worth green seat include business critic pony misery media";
+var mnemonic = "camp fragile school garage foster morning infant often exhibit photo spoil glide";

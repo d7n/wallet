@@ -1,1 +1,1 @@
-var mnemonic = "detect predict review hat nest large hobby notable stairs open expire enhance";
+var mnemonic = "maple purchase warm insect drip resemble work noodle acquire uphold destroy blood";

@@ -1,1 +1,1 @@
-var mnemonic = "senior glue brief spawn mind accuse pause seven average exit horse marble";
+var mnemonic = "educate relax token local debris matrix skill funny orchard april sock cross";

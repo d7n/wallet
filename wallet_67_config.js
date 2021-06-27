@@ -1,1 +1,1 @@
-var mnemonic = "thank exile still child next segment olive bacon tower clog indoor buddy";
+var mnemonic = "lottery either mean blanket remember fitness funny grant cancel basic draft acquire";

@@ -1,1 +1,1 @@
-var mnemonic = "sorry social cage tobacco void expose lizard chuckle evoke gap kangaroo decline";
+var mnemonic = "casual huge almost month document shaft unable captain beef jar together core";

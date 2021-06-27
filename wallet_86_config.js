@@ -1,1 +1,1 @@
-var mnemonic = "slim roast dream please notable gold aware cheap bronze video turn dune";
+var mnemonic = "pass bacon tooth only misery extend cook monster clutch infant inject asset";

@@ -1,1 +1,1 @@
-var mnemonic = "like tank forget rifle flame device vacuum rare outer viable ten fever";
+var mnemonic = "zebra arctic release scan entry lemon liberty cattle muscle track basket endorse";

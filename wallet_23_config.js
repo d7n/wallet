@@ -1,1 +1,1 @@
-var mnemonic = "scorpion horn feed engine limb apology shove aisle switch mule laugh trim";
+var mnemonic = "burden copper portion sudden century source clean deal ripple rigid fluid dumb";

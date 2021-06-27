@@ -1,1 +1,1 @@
-var mnemonic = "genuine lake find danger ocean gap destroy wolf violin glow boil vacant";
+var mnemonic = "icon tomato arena innocent outside sleep lobster ride flag physical laundry sound";

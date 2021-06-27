@@ -1,1 +1,1 @@
-var mnemonic = "abandon weapon occur bright popular crisp crater fox cart shiver quality trend";
+var mnemonic = "science jar energy indoor essay veteran student quarter vintage plate slender fresh";

@@ -1,1 +1,1 @@
-var mnemonic = "hat muscle trash brain fiscal eternal innocent peasant stock gentle cage alpha";
+var mnemonic = "cereal human menu negative dirt sugar appear business metal attack medal prosper";

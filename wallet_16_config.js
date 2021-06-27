@@ -1,1 +1,1 @@
-var mnemonic = "friend thank humor jacket tomato blood damp entry tonight shell two distance";
+var mnemonic = "admit dream bleak sell once vast lake reward figure curve scout marble";

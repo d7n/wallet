@@ -1,1 +1,1 @@
-var mnemonic = "stay news pill reduce popular shuffle pyramid thunder faculty club erosion spirit";
+var mnemonic = "goddess inner dolphin jump dwarf aisle agent guilt submit admit sustain payment";

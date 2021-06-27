@@ -1,1 +1,1 @@
-var mnemonic = "castle wash movie canoe leisure thumb again wood rotate merry evolve laugh";
+var mnemonic = "muffin ostrich disorder book food crisp trophy exit double crack spot holiday";

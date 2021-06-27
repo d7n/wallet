@@ -1,1 +1,1 @@
-var mnemonic = "choice candy guide annual mansion bamboo cry physical shift wage weasel protect";
+var mnemonic = "chicken behind easy tip leave bachelor adult dove maze air step portion";

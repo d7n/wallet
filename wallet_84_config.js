@@ -1,1 +1,1 @@
-var mnemonic = "design insane prize pear poem trouble rate ask element define trial become";
+var mnemonic = "parent weather degree pilot zebra robot yellow table retire balance drift push";

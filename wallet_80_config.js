@@ -1,1 +1,1 @@
-var mnemonic = "budget public remain setup exhibit night innocent reflect ridge flee draw donate";
+var mnemonic = "learn juice system load mail drama dolphin afraid gentle then topple rain";

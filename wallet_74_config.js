@@ -1,1 +1,1 @@
-var mnemonic = "banana prepare tube finger knife sorry stereo flight rotate hundred foster oil";
+var mnemonic = "warm wrestle grain all bar jewel quit recall street oak when hard";

@@ -1,1 +1,1 @@
-var mnemonic = "circle confirm island orbit plug stock action between flock useless orange private";
+var mnemonic = "fade tunnel drop outer glance pole eternal make bargain crane motion absorb";

@@ -1,1 +1,1 @@
-var mnemonic = "casino bus million face early extend whisper normal change aerobic crew spare";
+var mnemonic = "place clarify grass day coil casual sand action peasant inquiry mind various";

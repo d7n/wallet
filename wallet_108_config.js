@@ -1,1 +1,1 @@
-var mnemonic = "like sign choose tonight sugar maid flag chalk margin either garment since";
+var mnemonic = "fork error parent sting despair transfer exercise media host estate ocean surprise";

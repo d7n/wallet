@@ -1,1 +1,1 @@
-var mnemonic = "fruit flee desk yard type tiny window milk sick dutch praise garbage";
+var mnemonic = "decrease hair nothing during kiss ceiling math glory lunch dinner foil clay";

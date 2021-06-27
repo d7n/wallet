@@ -1,1 +1,1 @@
-var mnemonic = "crazy bright strike learn beauty flavor consider into joke beach pulp hidden";
+var mnemonic = "melt awesome lemon will maple rotate unfair risk deposit noble win rival";

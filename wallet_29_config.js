@@ -1,1 +1,1 @@
-var mnemonic = "perfect gym proud frown cup mansion quote eyebrow anger parrot gift comfort";
+var mnemonic = "drop traffic couple recycle satisfy vicious wife garden toss anger glare mind";

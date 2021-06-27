@@ -1,1 +1,1 @@
-var mnemonic = "cluster cradle another angle exhaust vessel unknown current direct resist drastic loud";
+var mnemonic = "engage winter acquire crop antenna athlete immune cousin barrel feed provide engine";

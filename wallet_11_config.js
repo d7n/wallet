@@ -1,1 +1,1 @@
-var mnemonic = "change typical visit gym bounce twelve market aunt roast stick sun clean";
+var mnemonic = "soul refuse adapt pencil blade solid clog depend advance lift slice sentence";

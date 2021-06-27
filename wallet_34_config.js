@@ -1,1 +1,1 @@
-var mnemonic = "auction basic pulse design ridge minor mimic bulb faculty menu repeat mesh";
+var mnemonic = "select ceiling lend slow replace shed mention parrot glory tell crystal blouse";

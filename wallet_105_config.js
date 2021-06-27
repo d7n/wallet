@@ -1,1 +1,1 @@
-var mnemonic = "view lion agree aunt student twist pig little ordinary intact feed void";
+var mnemonic = "lava ensure can appear camp music april deny canoe liquid dizzy legend";

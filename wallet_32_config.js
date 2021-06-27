@@ -1,1 +1,1 @@
-var mnemonic = "found citizen learn silk able rose eyebrow insane bar material shiver banana";
+var mnemonic = "know garment pilot amazing fresh fork code acid primary option correct clock";

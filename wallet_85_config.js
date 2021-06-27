@@ -1,1 +1,1 @@
-var mnemonic = "fence upper fury breeze cabbage tail wrist bundle spatial tray tortoise portion";
+var mnemonic = "act solar forget city laugh skate warm ketchup ability ring steel total";

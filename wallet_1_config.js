@@ -1,1 +1,1 @@
-var mnemonic = "common garage make tube person image social acid island artwork congress phrase";
+var mnemonic = "ordinary gym clutch bacon taxi sunset flavor height mean crunch proof design";

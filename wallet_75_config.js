@@ -1,1 +1,1 @@
-var mnemonic = "analyst carry unhappy bounce era intact story cannon twelve gift buzz focus";
+var mnemonic = "wheel ocean artwork ritual erode neutral misery obvious broom famous sugar expand";

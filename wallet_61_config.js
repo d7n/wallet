@@ -1,1 +1,1 @@
-var mnemonic = "tribe about citizen truck tower pill dignity gossip front often ocean lens";
+var mnemonic = "pepper review useful trade glimpse now drift side order lab spatial mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "horror edit victory summer traffic hire mimic stove sword husband alien comic";
+var mnemonic = "once original endorse kite sweet shiver syrup hidden fury attack proof unknown";

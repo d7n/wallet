@@ -1,1 +1,1 @@
-var mnemonic = "van alpha doctor reunion hollow pool boy february deer swing code trumpet";
+var mnemonic = "result degree confirm future thank retreat own vivid fruit absorb hole noodle";

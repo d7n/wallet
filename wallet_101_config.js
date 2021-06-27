@@ -1,1 +1,1 @@
-var mnemonic = "test board wine nephew promote canal swap cactus hospital differ utility depart";
+var mnemonic = "hospital lunch naive limb rebuild water supply simple change lunar cute wear";

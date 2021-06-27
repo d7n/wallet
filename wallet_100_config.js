@@ -1,1 +1,1 @@
-var mnemonic = "funny derive remind route blade weekend wrong tower arena sample bar hungry";
+var mnemonic = "jar busy leopard forest uniform move million unit rich picture shrug produce";
