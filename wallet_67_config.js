@@ -1,1 +1,1 @@
-var mnemonic = "half unable upon recall chair amused seminar fire enact draft security front";
+var mnemonic = "hungry collect fold enlist unable swamp pepper cradle doctor prepare access side";

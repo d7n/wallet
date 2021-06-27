@@ -1,1 +1,1 @@
-var mnemonic = "setup magnet powder pledge water worth blush neglect sheriff arrive seminar rib";
+var mnemonic = "behind embrace taxi patrol plug situate pistol neck range win expose smooth";

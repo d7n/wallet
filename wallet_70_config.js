@@ -1,1 +1,1 @@
-var mnemonic = "chat orient field bless innocent annual chunk rely glow future mirror flavor";
+var mnemonic = "lobster obscure second music visa twice cloth sea phrase segment dragon nut";

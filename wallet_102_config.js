@@ -1,1 +1,1 @@
-var mnemonic = "hazard risk question clump maximum word bid pitch flag addict reason where";
+var mnemonic = "cheese dose velvet parade senior lazy spare unit lunar hour ahead smooth";

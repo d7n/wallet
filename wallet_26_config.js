@@ -1,1 +1,1 @@
-var mnemonic = "august satisfy talk celery excite chuckle raw require soup dream maid bamboo";
+var mnemonic = "absorb before notice repeat blood exchange travel soft vibrant surround unveil egg";

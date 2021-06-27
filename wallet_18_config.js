@@ -1,1 +1,1 @@
-var mnemonic = "boil volcano crumble drill alley cage yellow achieve civil worth endorse chaos";
+var mnemonic = "seed fall assume reflect glimpse cry coach better turkey token damage era";

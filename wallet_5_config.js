@@ -1,1 +1,1 @@
-var mnemonic = "select library sand curve bean fame hollow awesome inch daring elevator ill";
+var mnemonic = "vapor oyster fiction kidney industry muscle portion castle above essay become goat";

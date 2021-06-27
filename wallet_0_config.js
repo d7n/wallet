@@ -1,1 +1,1 @@
-var mnemonic = "inhale forget loyal ivory parade keen debris bomb unfair belt inspire engine";
+var mnemonic = "decrease black decrease sick bridge animal buyer effort moral mobile antique language";

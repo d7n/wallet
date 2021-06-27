@@ -1,1 +1,1 @@
-var mnemonic = "tattoo abandon talent way win tuition review manage stage danger system divorce";
+var mnemonic = "bracket type appear acquire black super dog pencil where frame witness crew";

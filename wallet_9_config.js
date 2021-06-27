@@ -1,1 +1,1 @@
-var mnemonic = "impulse assault boat hand drip huge accuse cherry wait pink option sausage";
+var mnemonic = "chapter dash able direct modify bless double immune stereo taste clog stick";

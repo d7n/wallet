@@ -1,1 +1,1 @@
-var mnemonic = "antenna page phrase earn tube kitchen unveil spirit grain buzz snack purchase";
+var mnemonic = "neutral two south barrel tragic road rural boost fashion lady symptom world";

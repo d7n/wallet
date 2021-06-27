@@ -1,1 +1,1 @@
-var mnemonic = "multiply wheel toilet body model glance invest damp segment portion indicate unable";
+var mnemonic = "bronze ball wrap punch immense umbrella category shy stomach soda betray uncle";

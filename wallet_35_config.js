@@ -1,1 +1,1 @@
-var mnemonic = "morning smart vocal visual resist pond winner venture essay snap genius chapter";
+var mnemonic = "spare dignity olympic taxi grid tuna ask sail oblige solar reflect balcony";

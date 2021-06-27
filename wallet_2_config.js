@@ -1,1 +1,1 @@
-var mnemonic = "tool unit elbow mom truly leisure nothing bench repeat utility act trigger";
+var mnemonic = "rain silver level verb asset there face switch boy bulk time ahead";

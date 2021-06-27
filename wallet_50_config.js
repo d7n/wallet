@@ -1,1 +1,1 @@
-var mnemonic = "invest middle license ill occur emotion review glass regret work speak dynamic";
+var mnemonic = "merge vendor balance motor long abandon exit barrel lift summer intact cherry";

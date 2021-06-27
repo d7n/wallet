@@ -1,1 +1,1 @@
-var mnemonic = "cabin surround wage cluster advance chapter arrange bone poverty mobile hat canal";
+var mnemonic = "keep tree fee narrow divide tree intact dice purchase avoid wide rule";

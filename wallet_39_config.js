@@ -1,1 +1,1 @@
-var mnemonic = "parade crumble trouble slogan chat furnace city rich devote voyage smile detail";
+var mnemonic = "misery excite tower civil taste valve buzz crack sort illegal artist crawl";

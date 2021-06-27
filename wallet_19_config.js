@@ -1,1 +1,1 @@
-var mnemonic = "coffee assault unaware pool surround pledge stool blast long mesh gesture gentle";
+var mnemonic = "group wheat chapter logic glow token skin diary century someone acid doll";

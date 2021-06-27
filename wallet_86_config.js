@@ -1,1 +1,1 @@
-var mnemonic = "require tree thunder private merit power frog knife mom chuckle ozone train";
+var mnemonic = "ten dry venue swing master lawsuit jar grab object faint unlock spatial";

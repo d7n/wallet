@@ -1,1 +1,1 @@
-var mnemonic = "brush miracle cigar chase shrug spring boat only student electric deputy ecology";
+var mnemonic = "scissors helmet black gain mobile organ gesture minor vault lunar minute mother";

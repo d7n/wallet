@@ -1,1 +1,1 @@
-var mnemonic = "tail blast crystal oil extra guess case system wood sleep toilet job";
+var mnemonic = "cool quarter wedding food other december industry advice gauge today jump habit";

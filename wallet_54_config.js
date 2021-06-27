@@ -1,1 +1,1 @@
-var mnemonic = "produce hole inch east suffer arrange barrel know palm again average toy";
+var mnemonic = "practice gun dragon trap absent distance hat embrace degree scatter tone tone";

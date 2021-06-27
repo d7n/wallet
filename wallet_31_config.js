@@ -1,1 +1,1 @@
-var mnemonic = "note ride injury hip claim lawsuit invest member buzz hedgehog cigar rich";
+var mnemonic = "obscure bright spell moment gorilla ship garment mango hurry fatal spirit follow";

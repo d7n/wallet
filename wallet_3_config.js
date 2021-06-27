@@ -1,1 +1,1 @@
-var mnemonic = "stay tumble myself suspect cruise blue situate truck prepare beauty blame fortune";
+var mnemonic = "hawk now element border dilemma cage kingdom pole federal trap food margin";

@@ -1,1 +1,1 @@
-var mnemonic = "logic rookie seek dinosaur fault warm walnut case forward aisle average tackle";
+var mnemonic = "season birth country globe exhibit spatial chuckle today misery current abandon tail";

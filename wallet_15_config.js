@@ -1,1 +1,1 @@
-var mnemonic = "major process swear tired true meat below rapid engage boil address else";
+var mnemonic = "online reflect dove borrow cereal wink tell flash bamboo this toast country";

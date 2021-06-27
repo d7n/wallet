@@ -1,1 +1,1 @@
-var mnemonic = "scare sustain choice loop resist frog record assist choice chef royal lion";
+var mnemonic = "federal bronze mean shell purchase dwarf suggest jealous bottom spider pretty mail";

@@ -1,1 +1,1 @@
-var mnemonic = "mean town speed thunder clip harsh street pumpkin cliff taste tank target";
+var mnemonic = "deer stool session mango head quantum water pluck table wage illness siege";

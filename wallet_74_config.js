@@ -1,1 +1,1 @@
-var mnemonic = "photo lyrics snack mushroom side hamster outdoor endless inside blade soup defense";
+var mnemonic = "today bronze forest unknown brand acquire spread shoe own palace reform sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "globe grape table lumber small spare rally ocean stable aerobic toy honey";
+var mnemonic = "defy rifle clog bronze test bleak diagram all nest shed canal inherit";

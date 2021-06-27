@@ -1,1 +1,1 @@
-var mnemonic = "depart bullet tennis glad twelve oak renew element little hire possible produce";
+var mnemonic = "crime invite project paddle pen citizen educate useful animal cake diary damage";

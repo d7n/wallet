@@ -1,1 +1,1 @@
-var mnemonic = "neutral post patrol bundle combine flash harbor town judge allow torch shrug";
+var mnemonic = "fortune skin vibrant again warfare uncle survey predict account shallow soul usual";

@@ -1,1 +1,1 @@
-var mnemonic = "act action people water valve dice candy spray when husband wage armor";
+var mnemonic = "bone disease stairs marriage range drink flame version below mixed sentence orient";

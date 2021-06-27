@@ -1,1 +1,1 @@
-var mnemonic = "across nominee devote ramp knife album cement wheel dream leave employ whisper";
+var mnemonic = "dinosaur clump loop game earn country pluck entire stuff alert only lion";

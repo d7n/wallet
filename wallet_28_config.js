@@ -1,1 +1,1 @@
-var mnemonic = "project bullet control quarter forest flower cupboard bottom design lizard audit skirt";
+var mnemonic = "beef ramp swarm inner tone swing add camera dish gaze envelope figure";

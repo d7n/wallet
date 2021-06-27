@@ -1,1 +1,1 @@
-var mnemonic = "secret sword end maid vibrant supply robust flavor young earth sauce inspire";
+var mnemonic = "crazy fruit kingdom sponsor trick siren fancy age rib message shine input";

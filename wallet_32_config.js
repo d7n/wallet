@@ -1,1 +1,1 @@
-var mnemonic = "thunder bundle light neutral rookie advice parent approve inner clown melt innocent";
+var mnemonic = "laundry unit employ fresh differ virtual avocado giant capable thank mammal napkin";

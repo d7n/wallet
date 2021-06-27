@@ -1,1 +1,1 @@
-var mnemonic = "toss secret canoe leg oil luggage december south erosion robust call elevator";
+var mnemonic = "tube child amount guide chief resist mesh critic audit duck armor there";

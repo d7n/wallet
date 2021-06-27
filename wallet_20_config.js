@@ -1,1 +1,1 @@
-var mnemonic = "kind park olive supply goat grain absent brown black reject peasant torch";
+var mnemonic = "various pizza stool table asthma loyal bean now rigid monkey ski lottery";

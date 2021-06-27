@@ -1,1 +1,1 @@
-var mnemonic = "west digital field gain unaware tube toilet planet axis runway install feature";
+var mnemonic = "actual diesel reopen adult knock range section close blame kit alcohol cart";

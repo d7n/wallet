@@ -1,1 +1,1 @@
-var mnemonic = "obvious gap rich magic exist web beach wood disease coyote elegant thumb";
+var mnemonic = "shock bus elevator exact violin such aisle ask select fade stay firm";

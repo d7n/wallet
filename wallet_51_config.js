@@ -1,1 +1,1 @@
-var mnemonic = "case cool boat pumpkin wreck area truly lyrics lock urge wave hurdle";
+var mnemonic = "reform alter artefact tone exchange dilemma weasel rookie sphere more bean stock";

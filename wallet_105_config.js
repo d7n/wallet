@@ -1,1 +1,1 @@
-var mnemonic = "same work only sell rival skill before print put napkin boring wish";
+var mnemonic = "token slush swap outdoor vicious equal mango culture pact online february hammer";

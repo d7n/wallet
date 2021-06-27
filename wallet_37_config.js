@@ -1,1 +1,1 @@
-var mnemonic = "apology person nephew flavor elder army fresh frozen label address shaft ahead";
+var mnemonic = "boost faculty network ugly pull bright ranch accuse scheme already task history";

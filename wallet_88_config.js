@@ -1,1 +1,1 @@
-var mnemonic = "civil network blind pilot double outdoor chicken tuition tribe deliver coffee fresh";
+var mnemonic = "permit target hair same volume two innocent undo emerge comfort reunion latin";

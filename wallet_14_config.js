@@ -1,1 +1,1 @@
-var mnemonic = "impact steel sketch flash tool swamp inner will loop together swing infant";
+var mnemonic = "inch monster catalog onion narrow fly firm fiber robust cricket advance health";

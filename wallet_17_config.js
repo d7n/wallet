@@ -1,1 +1,1 @@
-var mnemonic = "matter spawn submit lizard disorder tuition write awesome onion source make marble";
+var mnemonic = "okay swing remind indicate clown undo enroll someone route kite dry false";

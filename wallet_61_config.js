@@ -1,1 +1,1 @@
-var mnemonic = "spare bulb language void disagree canyon suit food laundry today sadness cloud";
+var mnemonic = "awful polar card flock hidden supply advice jelly credit kind enemy credit";

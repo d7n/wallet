@@ -1,1 +1,1 @@
-var mnemonic = "draw force stable menu angle invest exclude aerobic battle turtle found finger";
+var mnemonic = "net skin spy cluster brain wreck else kidney stumble cream sort hill";

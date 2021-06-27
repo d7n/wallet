@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon train wish arrive snap charge ask weather iron sound soldier tell";
+var mnemonic = "bag lyrics glass blush chuckle this feature bike chunk answer dash must";

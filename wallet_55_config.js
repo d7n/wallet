@@ -1,1 +1,1 @@
-var mnemonic = "lecture company maple sample bright valley verb oil trial arrive genre orient";
+var mnemonic = "depth there rule adapt hand measure favorite lesson arrow update poet rude";

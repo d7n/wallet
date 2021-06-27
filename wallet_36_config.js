@@ -1,1 +1,1 @@
-var mnemonic = "ranch depend breeze crumble sudden copy flash winter raven raw december raccoon";
+var mnemonic = "they soap security nut citizen cushion execute fatigue time endorse marriage primary";

@@ -1,1 +1,1 @@
-var mnemonic = "village mule video expose tornado capital broccoli movie couple apple obvious employ";
+var mnemonic = "parrot hill vanish lyrics illegal pumpkin street skill artwork path friend fix";

@@ -1,1 +1,1 @@
-var mnemonic = "season flower boat boat eight bench erupt armor attitude engine crew floor";
+var mnemonic = "night gas club curtain demise tired grab any puzzle affair blanket loud";

@@ -1,1 +1,1 @@
-var mnemonic = "mandate inch high fine hybrid system couch include north finish today bike";
+var mnemonic = "romance flag scan episode pave theory donor annual anxiety health quarter reason";

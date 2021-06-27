@@ -1,1 +1,1 @@
-var mnemonic = "question rug crash rent mango market dismiss fade govern cute dolphin gadget";
+var mnemonic = "license erupt future balcony pudding maid sock elephant scissors wrist tiger embody";

@@ -1,1 +1,1 @@
-var mnemonic = "keen planet reopen yard uncover enlist acquire loud reform cost web police";
+var mnemonic = "next bar spoon puppy under cross actual butter boost viable wife plate";

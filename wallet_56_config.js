@@ -1,1 +1,1 @@
-var mnemonic = "tired monitor diagram bicycle worry crush crew ring youth tongue piece essence";
+var mnemonic = "portion shield route picture salad ancient example hour all appear civil fortune";

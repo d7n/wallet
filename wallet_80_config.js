@@ -1,1 +1,1 @@
-var mnemonic = "birth predict pipe auction zero pottery excuse scrub follow mammal fragile wisdom";
+var mnemonic = "cricket sketch illegal flame nasty oil neck answer hen that world strike";

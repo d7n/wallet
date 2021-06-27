@@ -1,1 +1,1 @@
-var mnemonic = "quick replace betray census scissors foam exact behave unusual wife grape monster";
+var mnemonic = "decline actress ocean tell lumber lottery patient birth move smoke bachelor ball";

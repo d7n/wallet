@@ -1,1 +1,1 @@
-var mnemonic = "cement slide vapor guess manual fever try anger good bamboo kidney rain";
+var mnemonic = "differ invite security sock electric pink spot soda six hood joy tilt";

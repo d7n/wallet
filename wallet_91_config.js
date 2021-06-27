@@ -1,1 +1,1 @@
-var mnemonic = "muffin negative grid enable river canyon picnic flock produce slim legend ranch";
+var mnemonic = "outdoor jacket picnic aspect knock twist north elbow special valley use say";

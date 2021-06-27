@@ -1,1 +1,1 @@
-var mnemonic = "wood genuine bargain retreat above pull stock tired later embody scrap sense";
+var mnemonic = "orphan across ranch segment thank obtain penalty thumb rabbit blue art chimney";

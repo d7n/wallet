@@ -1,1 +1,1 @@
-var mnemonic = "mix narrow stable imitate skin sheriff affair barrel leader tip unaware cattle";
+var mnemonic = "clerk train tunnel weather tourist garden worry crystal joy ensure crouch peanut";

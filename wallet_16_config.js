@@ -1,1 +1,1 @@
-var mnemonic = "boring delay tenant ordinary eagle bird radio giant corn usual normal siren";
+var mnemonic = "system property august spike trade delay actual satoshi crew chef seat episode";

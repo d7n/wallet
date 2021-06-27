@@ -1,1 +1,1 @@
-var mnemonic = "acquire twenty actual liar project trophy merry secret mistake polar busy good";
+var mnemonic = "focus love correct odor forum primary melt myself virtual chunk exile arrange";

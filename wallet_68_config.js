@@ -1,1 +1,1 @@
-var mnemonic = "cause auction absurd assault joy account sunny rifle shine coil dismiss vacuum";
+var mnemonic = "symptom dentist setup typical chef kangaroo you baby invest brand innocent guilt";

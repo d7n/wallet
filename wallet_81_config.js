@@ -1,1 +1,1 @@
-var mnemonic = "dinner pig amazing next engine news entry owner shoulder cry flight gym";
+var mnemonic = "normal bus lyrics memory random siege increase silent course success unaware waste";

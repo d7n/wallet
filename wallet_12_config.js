@@ -1,1 +1,1 @@
-var mnemonic = "floor rural talk zebra blouse village awful object plug ahead frozen public";
+var mnemonic = "torch soul reward betray patient leader coil wing panel buddy document danger";

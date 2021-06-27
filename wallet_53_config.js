@@ -1,1 +1,1 @@
-var mnemonic = "ugly mask when health merge moral dinner bean faint shaft occur assist";
+var mnemonic = "obey twenty hood annual pact waste pepper service scale warrior spider egg";

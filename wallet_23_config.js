@@ -1,1 +1,1 @@
-var mnemonic = "picture vault educate silk bachelor royal canoe loyal success beef library beef";
+var mnemonic = "marine volcano cliff erase knife casino pattern find hold double knock draw";

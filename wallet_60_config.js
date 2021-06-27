@@ -1,1 +1,1 @@
-var mnemonic = "nose father ten sample bring early group shrimp summer eagle help punch";
+var mnemonic = "myth bird domain inherit patient kitchen audit army decide craft luggage stable";

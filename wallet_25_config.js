@@ -1,1 +1,1 @@
-var mnemonic = "hint pill sauce funny heart ranch salute sugar fiction bundle this affair";
+var mnemonic = "wreck rival task relax age exotic exhibit notice liar monitor open refuse";

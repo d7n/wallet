@@ -1,1 +1,1 @@
-var mnemonic = "capital spatial town garment rely sun punch project easily enhance uphold load";
+var mnemonic = "brick worth blur appear because inherit winner hub jungle civil egg term";

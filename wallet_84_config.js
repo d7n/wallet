@@ -1,1 +1,1 @@
-var mnemonic = "coral chicken mixed swamp rabbit skull top limb kingdom possible income absorb";
+var mnemonic = "wish push scrap juice antique afraid asset visual replace situate junior calm";

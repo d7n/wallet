@@ -1,1 +1,1 @@
-var mnemonic = "major ensure accident roof knife reform board web grid lyrics soap spell";
+var mnemonic = "clarify garbage medal narrow strategy buyer horror reunion term gauge peace crisp";

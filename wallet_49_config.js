@@ -1,1 +1,1 @@
-var mnemonic = "erupt fish pond first vault garage roof jungle race solution enable roast";
+var mnemonic = "various drama find diesel anxiety crash dream toward ocean atom winner hard";

@@ -1,1 +1,1 @@
-var mnemonic = "jelly pluck camp junk blur fault able smart build cream neglect ethics";
+var mnemonic = "purchase art reward topic whale review bunker bus nerve immune curve become";

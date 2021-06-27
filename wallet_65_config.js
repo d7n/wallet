@@ -1,1 +1,1 @@
-var mnemonic = "dash make exhibit trap awful limit two desert lady hello awake silent";
+var mnemonic = "denial scatter mass region quiz runway royal toy leader offer stock lend";

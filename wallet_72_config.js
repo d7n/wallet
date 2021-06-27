@@ -1,1 +1,1 @@
-var mnemonic = "legend actress client panther casino sight before galaxy office drastic era deal";
+var mnemonic = "carpet cousin melt skirt trigger cupboard agree stem silver refuse monster jazz";

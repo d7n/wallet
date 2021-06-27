@@ -1,1 +1,1 @@
-var mnemonic = "decline crisp eternal abuse horse bargain galaxy raw melody beyond gentle summer";
+var mnemonic = "route during message increase dizzy abuse mask people oppose april large kitchen";

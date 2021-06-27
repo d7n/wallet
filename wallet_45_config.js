@@ -1,1 +1,1 @@
-var mnemonic = "cube armed coral arena medal evidence airport hamster during pencil route oil";
+var mnemonic = "shell unique cactus birth fun valley actor idea blouse police lottery bread";

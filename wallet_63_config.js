@@ -1,1 +1,1 @@
-var mnemonic = "news profit tribe lawn local genius mesh harbor motion lake primary mind";
+var mnemonic = "monster cattle practice east grace edit season price cupboard exit smoke swear";

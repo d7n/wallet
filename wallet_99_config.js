@@ -1,1 +1,1 @@
-var mnemonic = "lunch unable prosper portion poet sound claim piano between enforce curious sock";
+var mnemonic = "fine coral police math left harsh water arrest rent math wait home";

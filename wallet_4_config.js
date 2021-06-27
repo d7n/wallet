@@ -1,1 +1,1 @@
-var mnemonic = "hazard pride margin name face hollow search remind rough tennis actress tool";
+var mnemonic = "practice night solution modify garden frequent solve inspire work tattoo barrel slight";
