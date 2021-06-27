@@ -1,1 +1,1 @@
-var mnemonic = "warrior village long mandate spider private bullet develop husband live age galaxy";
+var mnemonic = "huge delay buddy autumn long can canal circle monitor oak online stage";

@@ -1,1 +1,1 @@
-var mnemonic = "silver axis toe fiction tooth dinosaur palm ignore buffalo two whip magnet";
+var mnemonic = "mixed suggest tiger session subway west enlist short club poem great way";

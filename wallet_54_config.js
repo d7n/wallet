@@ -1,1 +1,1 @@
-var mnemonic = "apart license knee street tomato wine offer design fashion better charge fall";
+var mnemonic = "relief lens drive kiwi inject siren curtain used moon soul wait negative";

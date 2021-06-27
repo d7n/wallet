@@ -1,1 +1,1 @@
-var mnemonic = "today balcony left mechanic fruit wasp celery lumber radio universe stone drip";
+var mnemonic = "puppy around excuse crouch gold ahead rude roast wasp manual taxi spike";

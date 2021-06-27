@@ -1,1 +1,1 @@
-var mnemonic = "note crunch swing depart surprise more jungle chat buzz innocent member interest";
+var mnemonic = "cool caution west quick maximum repair dune chapter size depart someone culture";

@@ -1,1 +1,1 @@
-var mnemonic = "stuff love team ostrich cabin potato way find wet trick reform enter";
+var mnemonic = "system original moral people cable quarter winner invite noble real estate ski";

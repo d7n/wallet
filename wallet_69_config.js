@@ -1,1 +1,1 @@
-var mnemonic = "vapor agent river cause penalty wise firm junk joke honey decade hard";
+var mnemonic = "business shock faint into about follow holiday group library farm jacket clip";

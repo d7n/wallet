@@ -1,1 +1,1 @@
-var mnemonic = "nice position price example soft arch donate give foot arctic brain blast";
+var mnemonic = "enter original fresh indoor alley easily junk aim jazz miracle pulse give";

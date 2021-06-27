@@ -1,1 +1,1 @@
-var mnemonic = "allow shallow club same twice flower slice sphere east have equal ocean";
+var mnemonic = "buffalo mixed divert delay stone science caught edge fitness harbor length shallow";

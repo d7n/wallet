@@ -1,1 +1,1 @@
-var mnemonic = "fashion million napkin system call glance quantum funny ahead elbow moral chief";
+var mnemonic = "clog rather vote health hold unique home wine jeans consider clock pizza";

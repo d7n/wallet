@@ -1,1 +1,1 @@
-var mnemonic = "knife loyal oppose stem laptop load noodle rail trim melody small major";
+var mnemonic = "include fault banana valve card fresh benefit debris cable maple fury ritual";

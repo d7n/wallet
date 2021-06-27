@@ -1,1 +1,1 @@
-var mnemonic = "plug hair canvas cabin beauty dash hockey multiply case vacant school trend";
+var mnemonic = "anchor believe weasel invite cool own bus together cream ceiling income tattoo";

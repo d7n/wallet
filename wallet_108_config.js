@@ -1,1 +1,1 @@
-var mnemonic = "trap taxi awkward flame grass either warm moment lonely nature enter suspect";
+var mnemonic = "wealth fatal harsh opera cabbage helmet hedgehog video shadow adjust glow wood";

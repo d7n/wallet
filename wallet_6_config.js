@@ -1,1 +1,1 @@
-var mnemonic = "evidence priority amount benefit series over silent daughter bread misery popular fee";
+var mnemonic = "lyrics gun depart pilot air need tumble van junk mammal drop fall";

@@ -1,1 +1,1 @@
-var mnemonic = "beauty tribe vehicle notable inch idea mention pilot lock pupil thunder spawn";
+var mnemonic = "isolate blade critic armor rigid struggle fan image year worry defense original";

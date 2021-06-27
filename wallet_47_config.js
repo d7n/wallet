@@ -1,1 +1,1 @@
-var mnemonic = "adult bind rib elbow figure fatal question perfect shallow about bread seminar";
+var mnemonic = "history rent front powder dial uncover genius fox minute arm foil flavor";

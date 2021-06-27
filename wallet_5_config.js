@@ -1,1 +1,1 @@
-var mnemonic = "rally junk bind budget puzzle lumber fancy simple mechanic dignity arrange thank";
+var mnemonic = "want super powder display debris clock news will cry nothing diet powder";

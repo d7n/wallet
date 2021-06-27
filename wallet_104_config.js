@@ -1,1 +1,1 @@
-var mnemonic = "lion net layer birth add scan gas puzzle river item patrol shadow";
+var mnemonic = "claim lock sustain glue trap answer naive royal habit answer hybrid globe";

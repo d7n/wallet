@@ -1,1 +1,1 @@
-var mnemonic = "tool margin oppose hockey glory accuse pear step wet adjust crucial roast";
+var mnemonic = "climb effort raccoon rapid sting mango broom sunset sick frozen degree basic";

@@ -1,1 +1,1 @@
-var mnemonic = "rural kidney mention valid save nature fantasy assume tip debris floor draw";
+var mnemonic = "hire cousin cost tail decide rail flock join attend actress ordinary patch";

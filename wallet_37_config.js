@@ -1,1 +1,1 @@
-var mnemonic = "pig present obvious neglect valve limb mutual father olympic volume equip finger";
+var mnemonic = "awkward eight moon when dice story cry turkey vessel confirm whisper regular";

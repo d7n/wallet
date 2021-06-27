@@ -1,1 +1,1 @@
-var mnemonic = "answer antenna link junk staff crouch voyage odor juice label infant suggest";
+var mnemonic = "royal update gym clean fossil lawn pudding health hour explain letter service";

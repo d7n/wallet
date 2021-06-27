@@ -1,1 +1,1 @@
-var mnemonic = "faith antenna feed science push issue cube depend canoe crazy below silk";
+var mnemonic = "oxygen trouble devote goose ancient pizza tourist club couple embark faculty captain";

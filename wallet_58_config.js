@@ -1,1 +1,1 @@
-var mnemonic = "legend nest swing undo student liberty force year brother blast give anchor";
+var mnemonic = "consider tobacco drip negative bunker suit excuse evoke voice walnut limit reveal";

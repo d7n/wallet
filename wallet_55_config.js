@@ -1,1 +1,1 @@
-var mnemonic = "rubber reunion series mass nut share cram secret staff broom raise spatial";
+var mnemonic = "nominee apart winner riot cloud force curious canvas group system hotel marriage";

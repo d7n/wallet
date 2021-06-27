@@ -1,1 +1,1 @@
-var mnemonic = "above bunker spread resist tank resemble toe exclude liar bar erode small";
+var mnemonic = "medal spend regret peasant brown wool lesson leopard tribe grant swing grocery";

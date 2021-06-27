@@ -1,1 +1,1 @@
-var mnemonic = "control night abstract retreat isolate tomato grid wide ancient sorry negative review";
+var mnemonic = "produce recycle struggle mix unlock wolf mix latin deliver lens worry total";

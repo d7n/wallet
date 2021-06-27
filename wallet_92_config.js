@@ -1,1 +1,1 @@
-var mnemonic = "wagon flash vivid write inner wasp cargo breeze pause empower owner pass";
+var mnemonic = "cliff earn umbrella nasty ridge sick beach hat play outdoor wife chimney";

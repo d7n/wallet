@@ -1,1 +1,1 @@
-var mnemonic = "device sauce cause ice flush duty transfer category dutch ride pipe better";
+var mnemonic = "organ upon regret artwork involve pink injury napkin arrive torch maid box";

@@ -1,1 +1,1 @@
-var mnemonic = "cram gate match border copper coral imitate crane beach ghost grass despair";
+var mnemonic = "husband zebra asset mind emotion again fever scorpion option pretty pizza eager";

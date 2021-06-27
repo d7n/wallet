@@ -1,1 +1,1 @@
-var mnemonic = "orphan only year turkey hurry imitate test public fault card original stove";
+var mnemonic = "endorse warm private amused right suffer wait emerge load board stone public";

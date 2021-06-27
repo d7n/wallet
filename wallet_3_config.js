@@ -1,1 +1,1 @@
-var mnemonic = "ticket truly hen exist despair kitten trigger swarm vacuum salt abandon random";
+var mnemonic = "nerve stumble proud coral luggage rally faint decrease old liar game siege";

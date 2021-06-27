@@ -1,1 +1,1 @@
-var mnemonic = "kingdom purpose town genius naive pipe setup outer creek answer axis idea";
+var mnemonic = "coconut august portion evil office retire snake divorce teach analyst almost saddle";

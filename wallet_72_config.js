@@ -1,1 +1,1 @@
-var mnemonic = "replace lizard middle similar cigar swift milk distance youth result machine evidence";
+var mnemonic = "chef ice client jelly tiny crime onion garlic awesome social canal between";

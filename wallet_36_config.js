@@ -1,1 +1,1 @@
-var mnemonic = "taxi scan flash helmet glove piano reject teach gift feature motion loop";
+var mnemonic = "similar erosion minute ride casual method bunker ball unhappy curtain castle uncover";

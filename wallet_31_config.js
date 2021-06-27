@@ -1,1 +1,1 @@
-var mnemonic = "absorb exercise cheese cousin pull kick misery network face alien brass moment";
+var mnemonic = "group bus fun avocado bicycle vivid puzzle outdoor giraffe hope clog nephew";

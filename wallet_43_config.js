@@ -1,1 +1,1 @@
-var mnemonic = "twist fog east burden cube cluster ritual stand oblige polar rain fury";
+var mnemonic = "force game pledge custom leave funny evidence book utility story lion nature";

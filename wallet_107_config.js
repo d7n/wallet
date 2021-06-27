@@ -1,1 +1,1 @@
-var mnemonic = "choose matrix crush umbrella story unlock dirt subject shove okay escape turtle";
+var mnemonic = "ten planet space wife pulp tissue adult amused city velvet congress opera";

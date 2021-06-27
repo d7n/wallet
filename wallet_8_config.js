@@ -1,1 +1,1 @@
-var mnemonic = "reject certain congress buddy tilt sorry gloom travel sea square area addict";
+var mnemonic = "ramp panda organ knock trumpet loan lyrics medal muscle cloud dinner end";

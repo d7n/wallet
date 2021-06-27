@@ -1,1 +1,1 @@
-var mnemonic = "blood area forget track shoot axis split puzzle slight dwarf festival hospital";
+var mnemonic = "ticket verb festival pilot stereo bench surface area bitter chef autumn recipe";

@@ -1,1 +1,1 @@
-var mnemonic = "final shrimp fatal print vehicle resist doctor unit truck situate depth boring";
+var mnemonic = "calm hair cheese object become discover snack frequent setup toddler dilemma hazard";

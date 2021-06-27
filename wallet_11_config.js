@@ -1,1 +1,1 @@
-var mnemonic = "goose bulk boss tiger style airport country like vast wash ask sense";
+var mnemonic = "industry seminar sight math bless hole assault guitar blouse auto remind fatal";

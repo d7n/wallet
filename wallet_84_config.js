@@ -1,1 +1,1 @@
-var mnemonic = "salad amused damp degree assume wait noble guide aim caution upgrade brisk";
+var mnemonic = "climb eye hello hard iron salute latin swap pave produce crunch right";

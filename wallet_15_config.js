@@ -1,1 +1,1 @@
-var mnemonic = "collect vacuum hunt poet point tuna cricket picture chronic digital atom cat";
+var mnemonic = "garbage unfair short hundred dream arrest rural remain gaze pass victory sail";

@@ -1,1 +1,1 @@
-var mnemonic = "clown supply negative release city moral brain taste remember vintage jungle essay";
+var mnemonic = "belt begin owner crime method essay solar mean flavor memory easily window";

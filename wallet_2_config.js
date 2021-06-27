@@ -1,1 +1,1 @@
-var mnemonic = "cushion rebuild again rhythm gentle key usage glimpse elephant bid juice muffin";
+var mnemonic = "squeeze romance foster swap call rebel awkward palace true silver dash helmet";

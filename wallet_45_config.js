@@ -1,1 +1,1 @@
-var mnemonic = "mesh leader smoke admit enjoy rule opera worth clump glide load chimney";
+var mnemonic = "tuna tackle burst lyrics check eye action pilot kidney ocean pink rule";

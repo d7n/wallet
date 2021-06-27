@@ -1,1 +1,1 @@
-var mnemonic = "drama coil team fame gauge ice confirm payment still photo spin brief";
+var mnemonic = "rate solve world bulb hat decorate silk under festival equip float wave";

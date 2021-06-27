@@ -1,1 +1,1 @@
-var mnemonic = "limb vibrant service item stairs hungry yard practice left radar rotate burden";
+var mnemonic = "pipe pipe leg favorite response syrup appear wide ticket habit grape annual";

@@ -1,1 +1,1 @@
-var mnemonic = "today purpose marble tomato glad burst afford swarm rebel hat beyond gap";
+var mnemonic = "direct warrior leave ball youth brief habit transfer bulb ranch thing crumble";

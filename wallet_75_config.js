@@ -1,1 +1,1 @@
-var mnemonic = "gold this term worry manage head turn frame help depend bomb jazz";
+var mnemonic = "border manual over acid often motion arm service swear review reflect stem";

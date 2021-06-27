@@ -1,1 +1,1 @@
-var mnemonic = "worry window fox wing afraid fatal rare reject simple betray differ often";
+var mnemonic = "chase state exchange govern exact energy fresh regular margin jar spend palm";

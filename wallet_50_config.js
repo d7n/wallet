@@ -1,1 +1,1 @@
-var mnemonic = "stamp crack card siege dragon rally silent mechanic profit gym excite safe";
+var mnemonic = "honey easy surge absurd erupt area human guess melt custom dirt spider";

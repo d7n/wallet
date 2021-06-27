@@ -1,1 +1,1 @@
-var mnemonic = "bean fog stairs toy endorse meat morning thank involve royal mix enact";
+var mnemonic = "universe crash scan turkey flock affair stove champion trial surge slogan blossom";

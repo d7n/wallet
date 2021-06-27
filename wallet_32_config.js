@@ -1,1 +1,1 @@
-var mnemonic = "asthma enlist bicycle surge anger business best much web range split mammal";
+var mnemonic = "box earth pass install dragon old cousin news cake rack gadget clerk";

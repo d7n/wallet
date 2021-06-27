@@ -1,1 +1,1 @@
-var mnemonic = "auto any insane way tortoise record car squirrel bike file gauge address";
+var mnemonic = "salad success harvest crew blush alley holiday subway around fish large village";

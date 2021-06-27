@@ -1,1 +1,1 @@
-var mnemonic = "cancel arena cushion ceiling volcano wave film salad embark shield put payment";
+var mnemonic = "rubber blouse seek path spirit order vendor idea famous divorce build expose";

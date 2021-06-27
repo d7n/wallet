@@ -1,1 +1,1 @@
-var mnemonic = "plastic tiger room quarter wear rigid version quantum sort future thought tumble";
+var mnemonic = "core eight describe obtain butter chunk text hunt glare olympic oxygen vault";

@@ -1,1 +1,1 @@
-var mnemonic = "number custom indoor leg galaxy fold magnet rail fat relief fringe endless";
+var mnemonic = "hood list dial buyer roof deposit movie silk kiwi surface angle answer";

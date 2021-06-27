@@ -1,1 +1,1 @@
-var mnemonic = "rocket gesture absorb perfect dream slim foil phrase into slender flight all";
+var mnemonic = "book saddle text dinner portion distance garbage anchor winner blind mercy minor";

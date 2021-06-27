@@ -1,1 +1,1 @@
-var mnemonic = "thrive hotel blanket clarify tired medal cash radio excite rib salute blame";
+var mnemonic = "fine early about carbon lava fog lock top sustain cargo gentle reunion";

@@ -1,1 +1,1 @@
-var mnemonic = "battle weekend build busy trigger adjust kitchen mammal mandate toast dinner cannon";
+var mnemonic = "quit patient vacant note cruel picnic pluck salt bus maximum arrow orchard";

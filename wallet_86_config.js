@@ -1,1 +1,1 @@
-var mnemonic = "universe pottery merry jealous must crisp elephant cereal broccoli turkey ramp narrow";
+var mnemonic = "exile street click much topic maze kite rail trash cause convince all";

@@ -1,1 +1,1 @@
-var mnemonic = "scatter door recall coral survey finish spider genius ignore notice cook rifle";
+var mnemonic = "skate prevent choice shell solve concert aware net lemon flame small plate";

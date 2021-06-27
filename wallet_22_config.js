@@ -1,1 +1,1 @@
-var mnemonic = "thrive wide amused upper zone forget solid slam water fabric attend route";
+var mnemonic = "curious fortune smart capital salad double elbow raw wedding ivory turtle elder";

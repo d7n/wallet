@@ -1,1 +1,1 @@
-var mnemonic = "soft siege glance matter win stem couple please profit steel segment level";
+var mnemonic = "flip sister choice penalty bright gesture body present coast coral eyebrow melt";

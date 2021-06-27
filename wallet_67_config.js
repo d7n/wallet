@@ -1,1 +1,1 @@
-var mnemonic = "cry fancy orient already remain physical zero empty injury width ignore buzz";
+var mnemonic = "actress wild model twenty panther gather bachelor bench boy reform eight atom";

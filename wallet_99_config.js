@@ -1,1 +1,1 @@
-var mnemonic = "dragon eyebrow route embrace used control cake rocket clog actor harsh salmon";
+var mnemonic = "leisure resource current melody decide else dial asthma monkey maximum mixture erode";

@@ -1,1 +1,1 @@
-var mnemonic = "clean artefact crystal nerve gas valley item evil ribbon web exclude face";
+var mnemonic = "worth very refuse blame unusual absent float fine disease pyramid intact lend";

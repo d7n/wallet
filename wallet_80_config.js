@@ -1,1 +1,1 @@
-var mnemonic = "have rug liquid lunch enemy shadow sweet mirror mixture combine document example";
+var mnemonic = "vast basket speak slab fragile become coil life length pact maple aerobic";

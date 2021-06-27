@@ -1,1 +1,1 @@
-var mnemonic = "cage pluck element romance small author water design capable guard surface destroy";
+var mnemonic = "salmon bread garment gospel absurd hybrid action pet tube code grow virus";

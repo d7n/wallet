@@ -1,1 +1,1 @@
-var mnemonic = "because crop squeeze snake rebel absurd palm surge manage secret satoshi interest";
+var mnemonic = "wire grief learn famous surround caution sun gun frog join sing valve";

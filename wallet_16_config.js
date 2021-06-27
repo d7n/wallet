@@ -1,1 +1,1 @@
-var mnemonic = "either core virus broccoli clump shoot bar question label pitch fiber frequent";
+var mnemonic = "knife keep feed give theory royal cement pyramid flight other proud salmon";

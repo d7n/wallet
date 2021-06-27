@@ -1,1 +1,1 @@
-var mnemonic = "witness essay cheap thing universe concert man gold hurry glue grid march";
+var mnemonic = "trophy destroy project smoke vacuum advance game outer struggle traffic grape puppy";

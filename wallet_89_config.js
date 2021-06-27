@@ -1,1 +1,1 @@
-var mnemonic = "swallow noble amateur allow recipe judge obtain knife ritual series predict alley";
+var mnemonic = "caught banana width notice valley receive food firm bundle rich stick island";

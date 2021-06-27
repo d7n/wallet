@@ -1,1 +1,1 @@
-var mnemonic = "derive bone toss raise bunker unusual pond saddle physical best about tunnel";
+var mnemonic = "draw moment please wisdom sorry degree average assault fine target organ depart";

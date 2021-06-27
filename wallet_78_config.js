@@ -1,1 +1,1 @@
-var mnemonic = "dutch stumble humble problem rookie nuclear secret accuse maze clinic goose tooth";
+var mnemonic = "happy material catalog shed nurse space snap below deer gadget fluid input";

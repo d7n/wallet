@@ -1,1 +1,1 @@
-var mnemonic = "wagon float loud phrase evolve wheat cargo bone desert force pass worth";
+var mnemonic = "daughter okay library sort sad thrive buyer sketch find junk wash myself";

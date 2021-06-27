@@ -1,1 +1,1 @@
-var mnemonic = "roof rug lottery clump make possible wisdom then broccoli forget about electric";
+var mnemonic = "blossom globe strategy armed need faith remind timber over image dentist need";

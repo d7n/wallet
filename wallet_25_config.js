@@ -1,1 +1,1 @@
-var mnemonic = "prevent blame exercise match diagram benefit onion come silver purity hurt accident";
+var mnemonic = "submit bulb kiss monkey reduce crisp modify disagree cram assume rookie host";

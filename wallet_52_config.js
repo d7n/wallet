@@ -1,1 +1,1 @@
-var mnemonic = "poet benefit fine also demand coast develop dad assist oxygen general left";
+var mnemonic = "muscle birth cage sister north ship ship youth marriage derive shoulder nut";

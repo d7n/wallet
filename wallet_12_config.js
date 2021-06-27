@@ -1,1 +1,1 @@
-var mnemonic = "fetch stage cannon frequent sheriff olympic panda tape permit gather vapor fit";
+var mnemonic = "club thing broccoli midnight ranch minute apology shadow broccoli exotic option omit";

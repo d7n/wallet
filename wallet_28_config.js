@@ -1,1 +1,1 @@
-var mnemonic = "mammal vibrant join trade bubble list medal aerobic pause chapter festival nice";
+var mnemonic = "assume stem modify brave girl balance ladder helmet unfold sick whisper bike";

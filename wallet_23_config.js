@@ -1,1 +1,1 @@
-var mnemonic = "service flag frown tonight fire elbow midnight spice latin donkey rigid author";
+var mnemonic = "scrap spread random want river engage bachelor quality sadness mansion lumber skate";

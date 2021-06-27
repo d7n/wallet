@@ -1,1 +1,1 @@
-var mnemonic = "crop sugar simple actual choice proof flush weasel merit envelope such video";
+var mnemonic = "fly cube episode friend monster smile right nature observe runway soldier suffer";

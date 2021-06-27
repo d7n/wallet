@@ -1,1 +1,1 @@
-var mnemonic = "ginger decrease grab pen artist pluck leave scissors busy volcano soda toss";
+var mnemonic = "era spider laugh private assist spawn staff ugly bottom snake unit street";

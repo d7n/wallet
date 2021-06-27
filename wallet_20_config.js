@@ -1,1 +1,1 @@
-var mnemonic = "skirt museum once kit brush pattern catalog symptom learn roast shadow choose";
+var mnemonic = "lock innocent robust blind heart vault infant knife good swamp chest onion";

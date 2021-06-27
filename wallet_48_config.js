@@ -1,1 +1,1 @@
-var mnemonic = "two genre dolphin feed labor joke keep van earth crack power produce";
+var mnemonic = "someone half clean attend member poem improve earth team embody end address";

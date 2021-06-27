@@ -1,1 +1,1 @@
-var mnemonic = "talent pottery result conduct chest ankle right endorse undo glide balance detect";
+var mnemonic = "click rebuild best agent home length right off horse cash cycle goat";
