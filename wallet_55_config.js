@@ -1,1 +1,1 @@
-var mnemonic = "exercise payment ticket record absorb host warrior bicycle stove illegal leader decade";
+var mnemonic = "hat muscle trash brain fiscal eternal innocent peasant stock gentle cage alpha";

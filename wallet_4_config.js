@@ -1,1 +1,1 @@
-var mnemonic = "laundry novel fog divide venue exit field connect divide city doctor foil";
+var mnemonic = "crew globe moon health gaze auto unable timber since message arena gown";

@@ -1,1 +1,1 @@
-var mnemonic = "blue country truck inflict ketchup coyote jar short inside false rule found";
+var mnemonic = "steel vibrant kind satisfy custom column decline evoke genius appear feel movie";

@@ -1,1 +1,1 @@
-var mnemonic = "hub truck grass once medal ramp awful fury creek tornado inmate raw";
+var mnemonic = "analyst carry unhappy bounce era intact story cannon twelve gift buzz focus";

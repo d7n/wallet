@@ -1,1 +1,1 @@
-var mnemonic = "forget pretty expire rare adjust awesome exile cabbage luxury flower cute smooth";
+var mnemonic = "abandon weapon occur bright popular crisp crater fox cart shiver quality trend";

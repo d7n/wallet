@@ -1,1 +1,1 @@
-var mnemonic = "dash follow toddler melody deny feel express brain fat camera grunt puzzle";
+var mnemonic = "depth salad gym sustain elephant assume congress clip obvious cash price chaos";

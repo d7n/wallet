@@ -1,1 +1,1 @@
-var mnemonic = "defense tag august eager carry find glove myth urban hamster clay emerge";
+var mnemonic = "gorilla tumble pear february analyst canoe rotate what onion anxiety ten dumb";

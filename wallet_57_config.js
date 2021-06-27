@@ -1,1 +1,1 @@
-var mnemonic = "nerve true page hold hub bleak scheme exclude neck promote runway alley";
+var mnemonic = "special work clog phrase venture castle custom remove elbow truly south region";

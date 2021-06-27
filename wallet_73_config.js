@@ -1,1 +1,1 @@
-var mnemonic = "soldier despair fade monster ozone mandate sense seat chicken common twist sport";
+var mnemonic = "else sauce lyrics armed trap sibling mix govern coconut interest bonus inch";

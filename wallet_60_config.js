@@ -1,1 +1,1 @@
-var mnemonic = "caution rather army height island cactus aisle chalk sunset taxi reflect town";
+var mnemonic = "choice candy guide annual mansion bamboo cry physical shift wage weasel protect";

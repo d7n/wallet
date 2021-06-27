@@ -1,1 +1,1 @@
-var mnemonic = "install gentle apart track verify file hip joy genuine rubber aerobic tortoise";
+var mnemonic = "fox leader cool noble flight elevator olympic banana horror dance fly grit";

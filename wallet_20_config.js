@@ -1,1 +1,1 @@
-var mnemonic = "quantum flip noodle shrug picnic deny world weasel sea chief broken decrease";
+var mnemonic = "excuse shoe render poet horse imitate cigar chase alien when atom style";

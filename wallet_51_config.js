@@ -1,1 +1,1 @@
-var mnemonic = "leader ozone damage repeat rebuild forum quiz input two pause milk sister";
+var mnemonic = "wasp custom ghost tower marine devote wealth open sleep fury fee old";

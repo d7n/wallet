@@ -1,1 +1,1 @@
-var mnemonic = "climb that sudden device guide thing angle harvest whip absurd intact wall";
+var mnemonic = "casino bus million face early extend whisper normal change aerobic crew spare";

@@ -1,1 +1,1 @@
-var mnemonic = "grunt forward moral surround menu quarter cricket trumpet jealous hope output bomb";
+var mnemonic = "tooth suffer ritual slush clog baby guide polar struggle unfair mail among";

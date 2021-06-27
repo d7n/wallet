@@ -1,1 +1,1 @@
-var mnemonic = "vocal ghost note combine orbit pill maid catch nice cliff flip fragile";
+var mnemonic = "friend thank humor jacket tomato blood damp entry tonight shell two distance";

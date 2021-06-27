@@ -1,1 +1,1 @@
-var mnemonic = "dust rapid jaguar stereo embark embody onion immense crumble pen high drink";
+var mnemonic = "castle wash movie canoe leisure thumb again wood rotate merry evolve laugh";

@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow rotate amount lonely talent seat boss enable swear chuckle enrich convince";
+var mnemonic = "fruit flee desk yard type tiny window milk sick dutch praise garbage";

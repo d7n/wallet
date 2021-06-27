@@ -1,1 +1,1 @@
-var mnemonic = "meadow divert review side hour miss chair romance palm idle topic wrestle";
+var mnemonic = "dilemma slab night dash pole pupil quote fun route chief calm tree";

@@ -1,1 +1,1 @@
-var mnemonic = "child deer door theory lunch drama early steel side govern arm prefer";
+var mnemonic = "then token layer furnace become poem talk output camera push mandate wing";

@@ -1,1 +1,1 @@
-var mnemonic = "sport swallow real easily hover act box rural air valve powder kit";
+var mnemonic = "virtual grow stadium mother want apart slush size embark happy hurry pumpkin";

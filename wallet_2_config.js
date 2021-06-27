@@ -1,1 +1,1 @@
-var mnemonic = "pudding repeat shift enemy poem acquire mango scissors strike old adapt clutch";
+var mnemonic = "mad summer fiscal friend lottery explain pig have earth canal mistake toddler";

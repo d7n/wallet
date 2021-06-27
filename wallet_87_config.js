@@ -1,1 +1,1 @@
-var mnemonic = "nuclear divert dentist moon glimpse element spin defy spawn frozen tonight perfect";
+var mnemonic = "carry crush slow turn fossil cash remove urge glass casual slogan divert";

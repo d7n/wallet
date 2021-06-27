@@ -1,1 +1,1 @@
-var mnemonic = "crew badge bullet warm people wealth victory net clay innocent unveil arrest";
+var mnemonic = "print bamboo hotel picture ginger legal pencil reward almost mandate sauce rival";

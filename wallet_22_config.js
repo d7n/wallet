@@ -1,1 +1,1 @@
-var mnemonic = "earth case focus dish gas lens card then humor garment scrub trial";
+var mnemonic = "anger battle tobacco emerge citizen style candy there trust cheap jaguar vintage";

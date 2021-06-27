@@ -1,1 +1,1 @@
-var mnemonic = "wear between rare daring alarm table rubber embody vintage south blouse secret";
+var mnemonic = "design insane prize pear poem trouble rate ask element define trial become";

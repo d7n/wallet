@@ -1,1 +1,1 @@
-var mnemonic = "noodle mass equal carpet then dream leader pupil possible unveil bean nut";
+var mnemonic = "hamster dose spike shallow exercise fine upgrade sword raven rug whisper pulse";

@@ -1,1 +1,1 @@
-var mnemonic = "stove fuel add retreat idea lens unveil crazy champion injury farm diet";
+var mnemonic = "first script myth sign fashion trust list exhibit marriage vicious hundred culture";

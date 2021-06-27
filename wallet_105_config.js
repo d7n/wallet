@@ -1,1 +1,1 @@
-var mnemonic = "spray pause almost journey labor develop cool sniff huge clutch weasel fog";
+var mnemonic = "view lion agree aunt student twist pig little ordinary intact feed void";

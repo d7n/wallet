@@ -1,1 +1,1 @@
-var mnemonic = "foster saddle boat dragon bullet artist medal unknown say funny taxi ranch";
+var mnemonic = "banana prepare tube finger knife sorry stereo flight rotate hundred foster oil";

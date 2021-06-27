@@ -1,1 +1,1 @@
-var mnemonic = "dignity hour east sibling long head bid silk start wall wolf math";
+var mnemonic = "chef abuse machine will cigar trade tell ship whip tuna response health";

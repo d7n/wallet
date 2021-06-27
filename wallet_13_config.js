@@ -1,1 +1,1 @@
-var mnemonic = "manage goddess awesome joy pride trouble grab object pottery damp acquire below";
+var mnemonic = "client oblige million barrel theme cool prefer concert blame common cause amount";

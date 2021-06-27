@@ -1,1 +1,1 @@
-var mnemonic = "inspire orange process adult during decorate vast heavy equal join sail around";
+var mnemonic = "detect predict review hat nest large hobby notable stairs open expire enhance";

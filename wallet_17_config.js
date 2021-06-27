@@ -1,1 +1,1 @@
-var mnemonic = "siege caution history document peace vehicle camp biology copper educate notice usual";
+var mnemonic = "easily lift oyster someone recall quality earn palm crisp forward afford juice";

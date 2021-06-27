@@ -1,1 +1,1 @@
-var mnemonic = "pole tower hand area all wear fox assault moon maid when antenna";
+var mnemonic = "attend filter spice minor bleak priority way open witness fall naive drama";

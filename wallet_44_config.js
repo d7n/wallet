@@ -1,1 +1,1 @@
-var mnemonic = "trouble improve misery few buyer engine reopen twenty peace public empower ladder";
+var mnemonic = "trumpet inform speak jewel tortoise airport vague pave unfold neglect border trouble";

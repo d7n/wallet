@@ -1,1 +1,1 @@
-var mnemonic = "abuse above leopard crash all essence awkward praise clog kite text name";
+var mnemonic = "fence upper fury breeze cabbage tail wrist bundle spatial tray tortoise portion";

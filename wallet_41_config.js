@@ -1,1 +1,1 @@
-var mnemonic = "benefit short blush dwarf laptop bench awful degree rent blanket bronze leopard";
+var mnemonic = "ridge solid disorder grain drift raise consider meadow stairs core empty seek";

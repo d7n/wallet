@@ -1,1 +1,1 @@
-var mnemonic = "enforce color question usage boost slim helmet enjoy topic update student tree";
+var mnemonic = "build dynamic inform year control catch uniform gift dish proud pole utility";

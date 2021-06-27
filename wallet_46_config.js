@@ -1,1 +1,1 @@
-var mnemonic = "oval task radio garment discover hedgehog club glue toy brave deposit middle";
+var mnemonic = "sphere know ordinary update atom creek obscure window disagree high destroy repeat";

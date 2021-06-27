@@ -1,1 +1,1 @@
-var mnemonic = "audit swamp kick endorse float leaf floor cool common kind conduct trigger";
+var mnemonic = "satisfy gasp expect option dash level force soda slice riot whip dove";

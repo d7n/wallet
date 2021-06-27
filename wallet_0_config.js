@@ -1,1 +1,1 @@
-var mnemonic = "frog space ghost gaze level clinic long jazz guess fiscal again fortune";
+var mnemonic = "weekend material fiber long tobacco frost dash february region quality anxiety oblige";

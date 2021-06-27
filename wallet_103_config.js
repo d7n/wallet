@@ -1,1 +1,1 @@
-var mnemonic = "maple toss assume chat equip diet aspect need wage upon fee shed";
+var mnemonic = "van alpha doctor reunion hollow pool boy february deer swing code trumpet";

@@ -1,1 +1,1 @@
-var mnemonic = "poem bonus real width oblige scan lava avocado banana fan sword door";
+var mnemonic = "athlete unique hole quiz town fashion mansion drop hurry grant industry toss";

@@ -1,1 +1,1 @@
-var mnemonic = "plunge during trim beauty absent glide better improve entire provide loop snack";
+var mnemonic = "rail trust olive wage loan raise hood negative license bar crazy enroll";

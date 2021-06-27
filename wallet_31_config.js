@@ -1,1 +1,1 @@
-var mnemonic = "law before output toy april aware tourist private unveil glimpse deny adapt";
+var mnemonic = "middle stone hope bleak journey rebel orchard demise child able animal bacon";

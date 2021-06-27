@@ -1,1 +1,1 @@
-var mnemonic = "lottery deliver maple ranch economy notice will angry addict reopen nut edge";
+var mnemonic = "admit cargo traffic shift tribe raise spirit fun royal web maze demise";

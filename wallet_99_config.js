@@ -1,1 +1,1 @@
-var mnemonic = "victory marble electric road innocent gym oppose inform shell change spare just";
+var mnemonic = "trial dismiss orient worth green seat include business critic pony misery media";

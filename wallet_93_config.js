@@ -1,1 +1,1 @@
-var mnemonic = "winner anxiety harvest recipe choice exhibit crucial salon fiscal mad school multiply";
+var mnemonic = "boat van mango daring uphold demise mechanic accuse exact chronic hood cool";

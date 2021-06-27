@@ -1,1 +1,1 @@
-var mnemonic = "head flee clerk enjoy photo eager chalk spy joke drop manual grow";
+var mnemonic = "senior glue brief spawn mind accuse pause seven average exit horse marble";

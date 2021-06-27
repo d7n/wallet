@@ -1,1 +1,1 @@
-var mnemonic = "stool chaos trip trumpet duck item impose wave alpha velvet survey input";
+var mnemonic = "slim roast dream please notable gold aware cheap bronze video turn dune";

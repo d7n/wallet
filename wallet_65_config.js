@@ -1,1 +1,1 @@
-var mnemonic = "left sport post upgrade office similar crop mirror chat trim cart crystal";
+var mnemonic = "sting turkey tackle you apology also ride warfare loud miracle cute erode";

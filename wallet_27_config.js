@@ -1,1 +1,1 @@
-var mnemonic = "success universe version ice stuff prosper setup twenty jacket skull sniff trouble";
+var mnemonic = "assault ketchup burst problem radar found sunset drama noodle loud toast twenty";

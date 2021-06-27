@@ -1,1 +1,1 @@
-var mnemonic = "effort surface detect aerobic bring frown disagree flee street reward hotel disorder";
+var mnemonic = "funny derive remind route blade weekend wrong tower arena sample bar hungry";

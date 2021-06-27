@@ -1,1 +1,1 @@
-var mnemonic = "tennis piano cube goat skill athlete artist mind woman quote milk decide";
+var mnemonic = "like tank forget rifle flame device vacuum rare outer viable ten fever";

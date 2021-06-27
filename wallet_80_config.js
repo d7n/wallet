@@ -1,1 +1,1 @@
-var mnemonic = "solid canvas put recall trend slam approve mountain method matrix census figure";
+var mnemonic = "budget public remain setup exhibit night innocent reflect ridge flee draw donate";

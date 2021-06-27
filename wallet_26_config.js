@@ -1,1 +1,1 @@
-var mnemonic = "bulb owner audit retire sense tattoo foster squirrel tribe inside spider weekend";
+var mnemonic = "bamboo salmon warrior reflect save company modify winter box avocado cook fence";

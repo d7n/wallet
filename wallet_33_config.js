@@ -1,1 +1,1 @@
-var mnemonic = "glare argue pledge expire keen foam tobacco sniff track kidney gather question";
+var mnemonic = "blind jar vendor bleak awful magic cabin clutch atom merit pony mother";

@@ -1,1 +1,1 @@
-var mnemonic = "smoke shadow chaos depend notable around skirt gun evoke random problem kit";
+var mnemonic = "skate trip fog glad knee ride unfair medal curious pause enable gravity";

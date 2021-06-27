@@ -1,1 +1,1 @@
-var mnemonic = "oyster bread marine ensure notable bounce moral slow saddle brain debris barrel";
+var mnemonic = "curve series warm scan sweet crazy need allow connect blouse champion nose";

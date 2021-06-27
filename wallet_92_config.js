@@ -1,1 +1,1 @@
-var mnemonic = "answer skin coach cave web resemble claim hammer total wagon fence brain";
+var mnemonic = "farm road infant short eagle elegant label cover hamster search proof jeans";

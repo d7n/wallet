@@ -1,1 +1,1 @@
-var mnemonic = "flush drastic sunny liberty benefit humble major pumpkin wire member electric uphold";
+var mnemonic = "thank exile still child next segment olive bacon tower clog indoor buddy";

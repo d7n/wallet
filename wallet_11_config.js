@@ -1,1 +1,1 @@
-var mnemonic = "print loud flush wire subway reunion version shrimp spike core cherry index";
+var mnemonic = "change typical visit gym bounce twelve market aunt roast stick sun clean";

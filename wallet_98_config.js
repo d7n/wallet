@@ -1,1 +1,1 @@
-var mnemonic = "property wreck despair anger daughter often slam true decade skirt select mad";
+var mnemonic = "used final enable zebra present punch outside dizzy actor question album say";

@@ -1,1 +1,1 @@
-var mnemonic = "maid angle slow gown garden honey market art drastic either expire noodle";
+var mnemonic = "sand brass aisle scene stick merge bitter dinosaur session loan file turtle";

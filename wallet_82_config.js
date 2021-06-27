@@ -1,1 +1,1 @@
-var mnemonic = "roof ugly charge immune spice venue hero deal spike acquire castle tent";
+var mnemonic = "pistol kite wolf riot liberty marriage suit leader chuckle episode oval obvious";

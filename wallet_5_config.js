@@ -1,1 +1,1 @@
-var mnemonic = "expose average gravity deposit powder camera tenant antenna tank sorry imitate spawn";
+var mnemonic = "mix gossip turkey photo help hurt diamond repeat regular legal borrow upgrade";

@@ -1,1 +1,1 @@
-var mnemonic = "old trick history praise tooth extra cliff prize squirrel border reveal swarm";
+var mnemonic = "auction basic pulse design ridge minor mimic bulb faculty menu repeat mesh";

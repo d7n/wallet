@@ -1,1 +1,1 @@
-var mnemonic = "result panic ritual trend web glow record excuse toss shoe worth artist";
+var mnemonic = "common garage make tube person image social acid island artwork congress phrase";

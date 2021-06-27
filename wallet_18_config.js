@@ -1,1 +1,1 @@
-var mnemonic = "bronze plug noble hat weapon rival arctic digital twelve never tomorrow february";
+var mnemonic = "extra awkward test into spread charge civil tail depth employ black oyster";

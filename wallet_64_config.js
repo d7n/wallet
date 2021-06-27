@@ -1,1 +1,1 @@
-var mnemonic = "gospel actress actress month tag festival mistake glimpse poverty image because squeeze";
+var mnemonic = "manage onion current dog link system drama alley pull derive canvas damage";

@@ -1,1 +1,1 @@
-var mnemonic = "dynamic regret sad help pause panther agree spare prize hand bar region";
+var mnemonic = "tribe about citizen truck tower pill dignity gossip front often ocean lens";

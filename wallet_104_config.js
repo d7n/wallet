@@ -1,1 +1,1 @@
-var mnemonic = "pact era swamp grocery mountain illness steak they put emerge warm once";
+var mnemonic = "sorry social cage tobacco void expose lizard chuckle evoke gap kangaroo decline";

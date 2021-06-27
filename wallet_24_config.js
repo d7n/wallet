@@ -1,1 +1,1 @@
-var mnemonic = "eagle state weasel grunt they raccoon wife desert short awake model maple";
+var mnemonic = "horror edit victory summer traffic hire mimic stove sword husband alien comic";

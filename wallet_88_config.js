@@ -1,1 +1,1 @@
-var mnemonic = "inner office announce require allow silver six mountain catalog flavor exact carpet";
+var mnemonic = "glove hurry excess flock fly wear foot item cup route snap absent";

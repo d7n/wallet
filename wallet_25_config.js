@@ -1,1 +1,1 @@
-var mnemonic = "nasty coin decide monitor then cricket apple piece two genre unknown patrol";
+var mnemonic = "negative average vault wave arch habit armed you before enrich detect opera";

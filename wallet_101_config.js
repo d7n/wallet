@@ -1,1 +1,1 @@
-var mnemonic = "anger crack suggest loan source famous symbol dwarf napkin whisper pact clap";
+var mnemonic = "test board wine nephew promote canal swap cactus hospital differ utility depart";

@@ -1,1 +1,1 @@
-var mnemonic = "world legal forest resemble valid aim wait bargain wear post valid cost";
+var mnemonic = "genuine lake find danger ocean gap destroy wolf violin glow boil vacant";

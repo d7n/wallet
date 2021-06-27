@@ -1,1 +1,1 @@
-var mnemonic = "purity neglect vintage frown arena soul hedgehog profit hood gasp whisper tortoise";
+var mnemonic = "humor post switch cream meat whisper follow hollow lecture team effort heavy";

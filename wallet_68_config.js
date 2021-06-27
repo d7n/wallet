@@ -1,1 +1,1 @@
-var mnemonic = "text pill honey arm copy wasp reveal outer endless stereo pepper slot";
+var mnemonic = "pottery claw churn quarter burger price broken hurt room hold furnace whisper";

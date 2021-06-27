@@ -1,1 +1,1 @@
-var mnemonic = "bonus like frozen secret reopen federal summer initial announce sorry reflect dilemma";
+var mnemonic = "perfect gym proud frown cup mansion quote eyebrow anger parrot gift comfort";

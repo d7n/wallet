@@ -1,1 +1,1 @@
-var mnemonic = "garment script brisk educate scale cave grow merit furnace mechanic exclude creek";
+var mnemonic = "grid thumb slab spoon walnut juice amateur wild fitness song naive two";

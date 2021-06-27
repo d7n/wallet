@@ -1,1 +1,1 @@
-var mnemonic = "blind plastic deny stamp satisfy outside pitch fix bring much slab analyst";
+var mnemonic = "plunge fee egg person bag ranch outside remind minor still universe october";

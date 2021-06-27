@@ -1,1 +1,1 @@
-var mnemonic = "journey soup amazing tunnel chronic pill chalk help panel mammal patrol blanket";
+var mnemonic = "song antique magic one inflict robot industry august grace scene element combine";

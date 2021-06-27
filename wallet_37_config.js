@@ -1,1 +1,1 @@
-var mnemonic = "shoulder exchange know fee peace powder emerge order monitor find bus baby";
+var mnemonic = "load tobacco decrease mail special long detect puzzle tuition blind once improve";

@@ -1,1 +1,1 @@
-var mnemonic = "liquid apology remain piece upgrade million focus net kitchen practice olympic purchase";
+var mnemonic = "manual front lava crowd eye kingdom shove fringe speak empower awkward inch";

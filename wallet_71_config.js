@@ -1,1 +1,1 @@
-var mnemonic = "acquire hero benefit luxury siren speak share swift hint rural front sting";
+var mnemonic = "evil grow brush connect voyage cargo device hockey tray rug ozone final";

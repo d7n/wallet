@@ -1,1 +1,1 @@
-var mnemonic = "tell comfort off joy post rate conduct display include enforce pulp skull";
+var mnemonic = "fix steak rotate spray alert absorb essence surround tribe draw just nut";

@@ -1,1 +1,1 @@
-var mnemonic = "settle cart just come lawsuit record shed hour uniform glass window minute";
+var mnemonic = "truck swear coil term scrap unit escape fruit mimic move wing spirit";

@@ -1,1 +1,1 @@
-var mnemonic = "enjoy photo grace coral blanket tired cabin try harvest item diary blade";
+var mnemonic = "bronze frost three hat salute turn royal utility cloud sunset essence marriage";
