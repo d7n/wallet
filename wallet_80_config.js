@@ -1,1 +1,1 @@
-var mnemonic = "learn juice system load mail drama dolphin afraid gentle then topple rain";
+var mnemonic = "flavor exercise air aspect unlock seven diet casino educate identify season cluster";

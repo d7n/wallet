@@ -1,1 +1,1 @@
-var mnemonic = "will square mixture girl engage pretty moment bus code dash develop absurd";
+var mnemonic = "wet abandon beauty friend enhance away two fog unknown believe grape winner";

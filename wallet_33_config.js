@@ -1,1 +1,1 @@
-var mnemonic = "nominee relief still lock expand person march share front trash airport cost";
+var mnemonic = "since refuse blue blue hobby pumpkin keen trash list fatal equal asset";

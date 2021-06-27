@@ -1,1 +1,1 @@
-var mnemonic = "damage dragon acquire hundred report glue disease brick exhibit dry easy climb";
+var mnemonic = "dirt valid vehicle move eager rally fiction castle vanish orange strategy garlic";

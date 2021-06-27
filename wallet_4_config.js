@@ -1,1 +1,1 @@
-var mnemonic = "debris age voice crush town assault mind tip quiz shrug trumpet used";
+var mnemonic = "fringe coral sample rescue between weird divert fringe magnet length tree fragile";

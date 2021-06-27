@@ -1,1 +1,1 @@
-var mnemonic = "adapt bundle claw famous cook casino shield near card elegant eager video";
+var mnemonic = "flight adapt word detail fine coffee hover snow churn sorry ability kidney";

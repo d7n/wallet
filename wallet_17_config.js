@@ -1,1 +1,1 @@
-var mnemonic = "weather portion display group grit brief churn damage toy much cactus behind";
+var mnemonic = "grunt puzzle prepare monkey lunch bridge matrix exit mutual material nasty gossip";

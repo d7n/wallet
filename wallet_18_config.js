@@ -1,1 +1,1 @@
-var mnemonic = "include gravity reopen brisk casino intact fluid indicate head grit skirt govern";
+var mnemonic = "opinion stereo book unit puzzle anger spoil bar stage advance sorry ticket";

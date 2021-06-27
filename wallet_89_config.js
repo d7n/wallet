@@ -1,1 +1,1 @@
-var mnemonic = "must power caught fetch give boil chair awake laundry amateur inject ancient";
+var mnemonic = "word flip injury hint ketchup modify bracket flavor master negative nut wreck";

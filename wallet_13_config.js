@@ -1,1 +1,1 @@
-var mnemonic = "large issue vivid spider donor dream current winner bullet bleak buyer advice";
+var mnemonic = "fury smart push gym pattern laundry trouble minor affair home oak atom";

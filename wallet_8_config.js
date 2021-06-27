@@ -1,1 +1,1 @@
-var mnemonic = "cherry drama grab siege bless west jump someone achieve hurry smoke matrix";
+var mnemonic = "diary already drill decide major harbor forest royal sad arrow first ramp";

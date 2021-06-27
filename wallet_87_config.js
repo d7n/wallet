@@ -1,1 +1,1 @@
-var mnemonic = "fever home isolate skate maze harvest comfort cash wasp initial trumpet language";
+var mnemonic = "rookie sudden scorpion laundry filter say cute add attitude flat donor pink";

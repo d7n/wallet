@@ -1,1 +1,1 @@
-var mnemonic = "cousin tell grass riot toward wide arrange aim moment adjust boost wreck";
+var mnemonic = "misery hotel west okay chapter novel hope affair body diagram sad butter";

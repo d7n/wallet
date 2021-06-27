@@ -1,1 +1,1 @@
-var mnemonic = "melt awesome lemon will maple rotate unfair risk deposit noble win rival";
+var mnemonic = "pudding solution region permit mirror wagon gather field cattle alarm uncle curious";

@@ -1,1 +1,1 @@
-var mnemonic = "science jar energy indoor essay veteran student quarter vintage plate slender fresh";
+var mnemonic = "error cover snake faculty faint fabric story lonely stem craft much boss";

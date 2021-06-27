@@ -1,1 +1,1 @@
-var mnemonic = "become taxi consider neck hawk fold happy still found fuel choose capital";
+var mnemonic = "tree glance forward settle enroll afraid can onion office casual impulse increase";

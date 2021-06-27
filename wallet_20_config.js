@@ -1,1 +1,1 @@
-var mnemonic = "museum stage bunker blossom thing school ginger dwarf endorse traffic all annual";
+var mnemonic = "neither keen alpha enrich butter toddler discover dignity rack bless rice pen";

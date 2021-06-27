@@ -1,1 +1,1 @@
-var mnemonic = "twist broccoli extend liar switch indoor arrive taxi donate gorilla burden sudden";
+var mnemonic = "script tool snap dirt page crowd plug loop train lemon over unable";

@@ -1,1 +1,1 @@
-var mnemonic = "tool outside used that corn mandate rain sugar winner horse legal ice";
+var mnemonic = "urban group swamp execute seed silver about artefact artefact pond balcony victory";

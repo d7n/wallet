@@ -1,1 +1,1 @@
-var mnemonic = "scatter near choose club one nuclear mix fashion choose project play project";
+var mnemonic = "need unfold lock hundred ladder sport electric hill prefer warm fortune engine";

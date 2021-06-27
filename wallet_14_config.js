@@ -1,1 +1,1 @@
-var mnemonic = "cliff canal hold quarter jump nut escape wet curious fiscal example iron";
+var mnemonic = "because lab magnet clinic hunt during crunch crunch defy exhaust all wrap";

@@ -1,1 +1,1 @@
-var mnemonic = "feed olympic bind base spray foster yellow hire mammal reward aisle what";
+var mnemonic = "stamp youth stomach total climb average sad snake ritual monster desk review";

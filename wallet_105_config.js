@@ -1,1 +1,1 @@
-var mnemonic = "lava ensure can appear camp music april deny canoe liquid dizzy legend";
+var mnemonic = "century arch side yard rigid mother glide omit cave amateur now index";

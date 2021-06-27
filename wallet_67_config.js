@@ -1,1 +1,1 @@
-var mnemonic = "lottery either mean blanket remember fitness funny grant cancel basic draft acquire";
+var mnemonic = "valve error miss word ready mechanic ceiling rabbit cancel exact wild inch";

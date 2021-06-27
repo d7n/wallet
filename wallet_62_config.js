@@ -1,1 +1,1 @@
-var mnemonic = "place clarify grass day coil casual sand action peasant inquiry mind various";
+var mnemonic = "inherit push tag lamp badge fitness corn address weapon foster afraid erase";

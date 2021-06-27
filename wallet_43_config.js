@@ -1,1 +1,1 @@
-var mnemonic = "layer rude sleep client portion pizza play basic forest effort barely raccoon";
+var mnemonic = "almost obtain surface predict drop basic monitor cigar atom naive curtain impact";

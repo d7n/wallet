@@ -1,1 +1,1 @@
-var mnemonic = "person link silk east breeze analyst wealth ivory latin ramp order network";
+var mnemonic = "impact give panel museum two derive dice evoke before panther eager wasp";

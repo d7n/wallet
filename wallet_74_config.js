@@ -1,1 +1,1 @@
-var mnemonic = "warm wrestle grain all bar jewel quit recall street oak when hard";
+var mnemonic = "tattoo item onion hold sad auction whisper excite giraffe suffer give tribe";

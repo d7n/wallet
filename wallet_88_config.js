@@ -1,1 +1,1 @@
-var mnemonic = "road dawn answer meat island vocal input almost spoil museum inherit focus";
+var mnemonic = "cricket scene start muffin frame gym bike gather office sport skill slim";

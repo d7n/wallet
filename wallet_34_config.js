@@ -1,1 +1,1 @@
-var mnemonic = "select ceiling lend slow replace shed mention parrot glory tell crystal blouse";
+var mnemonic = "pony middle crawl slight rug scan knee easy agent ensure window edge";

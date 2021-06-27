@@ -1,1 +1,1 @@
-var mnemonic = "fade tunnel drop outer glance pole eternal make bargain crane motion absorb";
+var mnemonic = "quick radar laptop lottery weird theory crunch shuffle spice coil hint trouble";

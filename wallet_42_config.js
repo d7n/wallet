@@ -1,1 +1,1 @@
-var mnemonic = "goddess inner dolphin jump dwarf aisle agent guilt submit admit sustain payment";
+var mnemonic = "episode radio canoe acoustic romance cinnamon employ unhappy absurd tragic used rookie";

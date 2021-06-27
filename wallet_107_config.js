@@ -1,1 +1,1 @@
-var mnemonic = "humor crawl truth vivid artist kite front great giggle sudden subway before";
+var mnemonic = "seat siren unfair cram news melt van ostrich control later burst drum";

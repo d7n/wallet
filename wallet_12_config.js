@@ -1,1 +1,1 @@
-var mnemonic = "mule safe where balance elite dust add fever siege defy avoid gym";
+var mnemonic = "tumble soldier decade initial farm borrow memory slam mango way hard elegant";

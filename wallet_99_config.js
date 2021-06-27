@@ -1,1 +1,1 @@
-var mnemonic = "camp fragile school garage foster morning infant often exhibit photo spoil glide";
+var mnemonic = "angle husband mail become crew august wrap issue leg input chimney rigid";

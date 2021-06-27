@@ -1,1 +1,1 @@
-var mnemonic = "dove cake file concert give family quit bunker olympic more story improve";
+var mnemonic = "east salon hungry reward welcome share keen bid run music forget conduct";

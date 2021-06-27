@@ -1,1 +1,1 @@
-var mnemonic = "casual huge almost month document shaft unable captain beef jar together core";
+var mnemonic = "clap divorce reveal cancel size artwork tumble pioneer immune girl solve unable";

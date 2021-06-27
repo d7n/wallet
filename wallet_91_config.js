@@ -1,1 +1,1 @@
-var mnemonic = "current radio pen awkward bargain return fit glance solve repeat prosper burst";
+var mnemonic = "lyrics shock lumber chat holiday rug top bundle royal creek amateur jungle";

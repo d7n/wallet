@@ -1,1 +1,1 @@
-var mnemonic = "proof wealth budget window raw cargo limb mobile load loan paper slab";
+var mnemonic = "fox senior document memory scatter clap travel language lizard cycle weasel trade";

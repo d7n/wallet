@@ -1,1 +1,1 @@
-var mnemonic = "settle ticket monster sadness party glimpse visual alley load lawsuit debate airport";
+var mnemonic = "fortune bright chapter call drop exile develop gorilla man phrase soda circle";

@@ -1,1 +1,1 @@
-var mnemonic = "flat silver choose only wagon view lady adult casino cheese argue total";
+var mnemonic = "head stuff kitten cry summer nature soup organ ill never vessel frog";

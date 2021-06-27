@@ -1,1 +1,1 @@
-var mnemonic = "this mix glide frame suit auction patch color soccer total tray fence";
+var mnemonic = "prosper rare hat tongue sample amount joy cool member tiny setup grace";

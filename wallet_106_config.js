@@ -1,1 +1,1 @@
-var mnemonic = "engage winter acquire crop antenna athlete immune cousin barrel feed provide engine";
+var mnemonic = "survey kitten proud lunar churn payment phone spring access solution obtain exotic";

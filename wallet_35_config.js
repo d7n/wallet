@@ -1,1 +1,1 @@
-var mnemonic = "push space shiver artefact issue kiwi illegal track noble leg victory trophy";
+var mnemonic = "season party pepper void shine lonely truck vessel worth empower arrange blame";

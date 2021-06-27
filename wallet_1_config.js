@@ -1,1 +1,1 @@
-var mnemonic = "ordinary gym clutch bacon taxi sunset flavor height mean crunch proof design";
+var mnemonic = "demise mandate almost glory gather jar harvest repeat agree strategy owner burger";

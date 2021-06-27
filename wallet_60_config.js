@@ -1,1 +1,1 @@
-var mnemonic = "chicken behind easy tip leave bachelor adult dove maze air step portion";
+var mnemonic = "want diamond betray october alone inmate neutral proud cabbage blanket tissue swarm";

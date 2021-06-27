@@ -1,1 +1,1 @@
-var mnemonic = "once original endorse kite sweet shiver syrup hidden fury attack proof unknown";
+var mnemonic = "twice april story reject slab siege jealous salmon shine collect usage sick";

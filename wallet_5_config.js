@@ -1,1 +1,1 @@
-var mnemonic = "tenant have helmet charge tornado risk fan reopen rival saddle artist solve";
+var mnemonic = "switch panda ball silent slice need over mercy market ship swallow lend";

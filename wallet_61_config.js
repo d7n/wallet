@@ -1,1 +1,1 @@
-var mnemonic = "pepper review useful trade glimpse now drift side order lab spatial mirror";
+var mnemonic = "merry hungry access scene person abuse region bargain oval fringe seat leisure";

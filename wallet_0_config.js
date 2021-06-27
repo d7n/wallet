@@ -1,1 +1,1 @@
-var mnemonic = "actress equal resemble rhythm style negative smart office auction tilt dynamic list";
+var mnemonic = "exhibit reject rescue injury unknown message morning dove olympic envelope frozen tell";

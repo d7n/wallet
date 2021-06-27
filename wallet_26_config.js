@@ -1,1 +1,1 @@
-var mnemonic = "gasp enjoy law labor that butter police style identify portion gold plunge";
+var mnemonic = "cupboard copper journey pilot still fan supreme film rigid lift mouse erode";

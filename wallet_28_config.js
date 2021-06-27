@@ -1,1 +1,1 @@
-var mnemonic = "husband embark habit athlete gadget month will notable mother riot luggage gain";
+var mnemonic = "maze nuclear awful forward winner delay arctic fee target magic very move";

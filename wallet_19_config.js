@@ -1,1 +1,1 @@
-var mnemonic = "law twin learn blouse van fly cube address hover cushion move crouch";
+var mnemonic = "surface involve crunch pride youth hire stable husband oil maple shy screen";

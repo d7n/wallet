@@ -1,1 +1,1 @@
-var mnemonic = "excite security sister aunt chicken skate route seed shuffle horn border jungle";
+var mnemonic = "treat ugly ocean bottom mind sleep rotate river oyster myself brass inspire";

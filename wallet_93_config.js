@@ -1,1 +1,1 @@
-var mnemonic = "fan loan effort term rabbit siege success layer render stock satisfy rocket";
+var mnemonic = "blanket balance deer expire album imitate arrive black guide unlock since rely";

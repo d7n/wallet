@@ -1,1 +1,1 @@
-var mnemonic = "muffin ostrich disorder book food crisp trophy exit double crack spot holiday";
+var mnemonic = "program car scale ivory law earn devote endorse wear comfort account hip";

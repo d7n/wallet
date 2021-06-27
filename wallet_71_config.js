@@ -1,1 +1,1 @@
-var mnemonic = "buffalo initial train sock nephew draw gloom vacant emotion dove erase plug";
+var mnemonic = "genuine turtle nation scout toward weasel liar meadow craft battle mad room";

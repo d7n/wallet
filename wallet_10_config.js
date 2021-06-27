@@ -1,1 +1,1 @@
-var mnemonic = "gown number oxygen dust feel please glue eight arena truck smile one";
+var mnemonic = "leg gain barrel friend inform maximum butter solution consider day stereo output";

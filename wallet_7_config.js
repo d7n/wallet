@@ -1,1 +1,1 @@
-var mnemonic = "day win february injury melody retreat hedgehog fossil right oppose silk runway";
+var mnemonic = "shield cruel ocean that way foot melt west comfort already can security";

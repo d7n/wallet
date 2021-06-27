@@ -1,1 +1,1 @@
-var mnemonic = "glance basket hundred proud square dragon poem clock negative artefact salmon ancient";
+var mnemonic = "chat hen nasty collect marriage awful talent connect right enough scatter kid";

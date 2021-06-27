@@ -1,1 +1,1 @@
-var mnemonic = "drop traffic couple recycle satisfy vicious wife garden toss anger glare mind";
+var mnemonic = "cargo accident vacuum exist vault lend kiss sweet cause fortune auction phrase";

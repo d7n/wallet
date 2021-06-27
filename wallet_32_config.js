@@ -1,1 +1,1 @@
-var mnemonic = "know garment pilot amazing fresh fork code acid primary option correct clock";
+var mnemonic = "object heavy tent bachelor interest admit road chair agree doctor bargain dress";

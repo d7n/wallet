@@ -1,1 +1,1 @@
-var mnemonic = "admit dream bleak sell once vast lake reward figure curve scout marble";
+var mnemonic = "add void once angle frozen sure over rhythm bullet verb owner youth";

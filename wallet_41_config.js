@@ -1,1 +1,1 @@
-var mnemonic = "erase meat combine need mutual race rocket regular road roast pen book";
+var mnemonic = "whale metal matrix guitar whip island hobby busy exclude above uncover source";

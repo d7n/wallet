@@ -1,1 +1,1 @@
-var mnemonic = "decrease hair nothing during kiss ceiling math glory lunch dinner foil clay";
+var mnemonic = "detect false issue fold slow group antenna goddess dilemma they laugh axis";

@@ -1,1 +1,1 @@
-var mnemonic = "soft panic sound snake volcano dad achieve rural cave split ask burst";
+var mnemonic = "deny palace bamboo occur city child lounge federal bulb surge dice solve";

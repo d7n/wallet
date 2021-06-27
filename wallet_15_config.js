@@ -1,1 +1,1 @@
-var mnemonic = "maple purchase warm insect drip resemble work noodle acquire uphold destroy blood";
+var mnemonic = "dust pole fire doll dwarf photo kitchen little stock cloth until village";

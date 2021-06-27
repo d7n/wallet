@@ -1,1 +1,1 @@
-var mnemonic = "mask decline ritual ill outside key easily submit under auction sing soft";
+var mnemonic = "debate undo super gather lava stage purse twenty luggage nurse head execute";

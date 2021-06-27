@@ -1,1 +1,1 @@
-var mnemonic = "heart ribbon crack wise unique short solve couple mix much blade glue";
+var mnemonic = "accuse steel tackle stage chronic provide install mirror slim twenty tail loan";

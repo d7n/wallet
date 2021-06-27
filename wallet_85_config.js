@@ -1,1 +1,1 @@
-var mnemonic = "act solar forget city laugh skate warm ketchup ability ring steel total";
+var mnemonic = "tenant talent between crane hedgehog below work maze base awful cinnamon denial";

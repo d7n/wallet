@@ -1,1 +1,1 @@
-var mnemonic = "album chalk rabbit ice vague sea idea buddy harsh network pitch tennis";
+var mnemonic = "tomorrow weapon jacket borrow hover glad public brand turtle possible dumb skill";

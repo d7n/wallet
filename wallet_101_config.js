@@ -1,1 +1,1 @@
-var mnemonic = "hospital lunch naive limb rebuild water supply simple change lunar cute wear";
+var mnemonic = "field build bamboo ginger leisure ten year mind damage install quantum beef";

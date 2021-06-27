@@ -1,1 +1,1 @@
-var mnemonic = "opinion kitchen fiscal typical month embark barely garlic embody when sign correct";
+var mnemonic = "ribbon inherit cruel elevator senior holiday balcony claw amazing wall glue worth";

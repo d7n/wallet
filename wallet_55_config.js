@@ -1,1 +1,1 @@
-var mnemonic = "cereal human menu negative dirt sugar appear business metal attack medal prosper";
+var mnemonic = "fury solution common east rebel amused ski weekend business fish cliff regular";

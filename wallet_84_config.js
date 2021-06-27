@@ -1,1 +1,1 @@
-var mnemonic = "parent weather degree pilot zebra robot yellow table retire balance drift push";
+var mnemonic = "vacant climb maximum before veteran label hope athlete melody daring elevator bottom";

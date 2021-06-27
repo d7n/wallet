@@ -1,1 +1,1 @@
-var mnemonic = "forget bind drill game apart spread cover scatter satoshi audit gauge slim";
+var mnemonic = "table tail burger tunnel juice valid tomato practice devote ranch effort husband";

@@ -1,1 +1,1 @@
-var mnemonic = "develop night regular much vibrant ankle soft require adult annual used mask";
+var mnemonic = "wet asset mesh armor rural stomach differ timber swift ethics kidney sail";

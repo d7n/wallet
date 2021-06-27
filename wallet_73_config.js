@@ -1,1 +1,1 @@
-var mnemonic = "tissue salute marble risk volcano jaguar primary coast wet merge seed animal";
+var mnemonic = "estate bicycle apple direct raccoon brown trend into fitness ride solid unfold";

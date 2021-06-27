@@ -1,1 +1,1 @@
-var mnemonic = "increase garbage coconut survey speed this poet peace pencil original green venture";
+var mnemonic = "lucky degree wife bonus athlete drive one main oval trophy image bridge";

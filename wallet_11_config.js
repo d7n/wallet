@@ -1,1 +1,1 @@
-var mnemonic = "soul refuse adapt pencil blade solid clog depend advance lift slice sentence";
+var mnemonic = "need poem announce easily speak join omit across upon load educate again";

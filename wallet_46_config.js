@@ -1,1 +1,1 @@
-var mnemonic = "final tumble load enact produce attitude whale flat hour rice wait gas";
+var mnemonic = "stay company champion hawk issue avoid top siren eagle observe toward emerge";

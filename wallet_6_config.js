@@ -1,1 +1,1 @@
-var mnemonic = "rare lava attend cupboard excess climb north giant prize guide miracle between";
+var mnemonic = "uncle pledge hold celery always true horn cook garage spice decade jelly";

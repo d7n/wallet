@@ -1,1 +1,1 @@
-var mnemonic = "burden copper portion sudden century source clean deal ripple rigid fluid dumb";
+var mnemonic = "stumble cluster record mass surround more often silk share uphold escape until";

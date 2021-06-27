@@ -1,1 +1,1 @@
-var mnemonic = "lion fetch theme settle educate valley behind file baby hard slam cattle";
+var mnemonic = "quantum minute enroll obey blush panic hour drive obey annual maid all";

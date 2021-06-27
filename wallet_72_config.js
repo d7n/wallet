@@ -1,1 +1,1 @@
-var mnemonic = "icon tomato arena innocent outside sleep lobster ride flag physical laundry sound";
+var mnemonic = "monster elegant trash extra artefact faint tone also enact relax topple anchor";

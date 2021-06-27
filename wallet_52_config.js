@@ -1,1 +1,1 @@
-var mnemonic = "month before timber prepare flag zoo column alcohol lift wing cement slide";
+var mnemonic = "wagon thank vault expose give still fish forum sleep laptop syrup clog";

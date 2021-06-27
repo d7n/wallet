@@ -1,1 +1,1 @@
-var mnemonic = "cheap broccoli knee dwarf ladder negative nephew patrol blue grocery desert before";
+var mnemonic = "journey winner oppose divorce charge whisper caution nominee kit track intact run";

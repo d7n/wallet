@@ -1,1 +1,1 @@
-var mnemonic = "audit observe slender sugar rule nasty close express improve swear east narrow";
+var mnemonic = "airport chief select myth rain apart sorry repair modify elder gallery check";

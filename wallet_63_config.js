@@ -1,1 +1,1 @@
-var mnemonic = "erase bottom benefit symptom school dose debris penalty opinion win endless bid";
+var mnemonic = "scare cupboard crowd disorder stay aerobic keep chaos hold damp unknown slot";

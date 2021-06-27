@@ -1,1 +1,1 @@
-var mnemonic = "bracket carbon cereal oak long neutral right skate perfect buyer manage shrimp";
+var mnemonic = "metal false label age weapon notice put surge giggle call maple amazing";

@@ -1,1 +1,1 @@
-var mnemonic = "nut power spirit alien useful file unknown choose energy sponsor witness age";
+var mnemonic = "forget letter car drive camera race fork bean term myself alley fruit";

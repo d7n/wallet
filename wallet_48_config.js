@@ -1,1 +1,1 @@
-var mnemonic = "exile six alien cost noise mirror ensure bottom plug middle rice credit";
+var mnemonic = "quarter future you tumble afford february true pipe honey remain town report";

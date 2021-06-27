@@ -1,1 +1,1 @@
-var mnemonic = "palm brief quit trust you gap head basic mushroom frequent tonight legal";
+var mnemonic = "lunch shield clinic source derive tilt kid famous settle reason swallow fetch";
