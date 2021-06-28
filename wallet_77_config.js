@@ -1,1 +1,1 @@
-var mnemonic = "garbage travel ostrich position trigger gate model solar kite spend color mouse";
+var mnemonic = "year depth color already cram brass core couple shadow human rigid choose";

@@ -1,1 +1,1 @@
-var mnemonic = "comfort figure dismiss tide goddess finish fitness praise wife avocado human axis";
+var mnemonic = "wink banana walk sting sheriff ostrich among predict auction much midnight man";

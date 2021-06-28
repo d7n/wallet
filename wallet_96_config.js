@@ -1,1 +1,1 @@
-var mnemonic = "develop total mandate spy square boost slice snake grief thrive stereo aerobic";
+var mnemonic = "grace bacon pattern stairs coconut author size blush order fan rifle employ";

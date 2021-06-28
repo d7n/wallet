@@ -1,1 +1,1 @@
-var mnemonic = "draft grab notable rival must category heart cinnamon clerk humor much brass";
+var mnemonic = "space crisp project car twelve uncover february wood slogan coyote same echo";

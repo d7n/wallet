@@ -1,1 +1,1 @@
-var mnemonic = "acquire pelican escape assist ghost lounge unusual barely remember steak person entry";
+var mnemonic = "call flame cute truly cup employ pond lecture mirror rude country nuclear";

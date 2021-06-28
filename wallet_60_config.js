@@ -1,1 +1,1 @@
-var mnemonic = "symptom sock impose inherit coil shrimp casual dust clinic female laugh hunt";
+var mnemonic = "wage spin plug choice kingdom reunion betray wait delay evidence arrest coin";

@@ -1,1 +1,1 @@
-var mnemonic = "butter scrub resource depend riot almost oblige danger wide hurdle crash enter";
+var mnemonic = "cost two young immense spell you save deny ketchup business boring quiz";

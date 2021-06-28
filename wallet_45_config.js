@@ -1,1 +1,1 @@
-var mnemonic = "talk seed smooth stadium poem chimney stove bag impulse chief exit syrup";
+var mnemonic = "purpose jar faculty dream motion mistake hint stairs bring marble forest want";

@@ -1,1 +1,1 @@
-var mnemonic = "axis island early furnace cluster friend boy object weird dinner rifle hen";
+var mnemonic = "symptom point couch tornado enact simple door tumble tube laptop theme silent";

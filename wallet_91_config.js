@@ -1,1 +1,1 @@
-var mnemonic = "tube trouble basic creek pelican pet surround kiwi casino oxygen neither require";
+var mnemonic = "remain stumble once eye burden unaware have seed enable equip doll dynamic";

@@ -1,1 +1,1 @@
-var mnemonic = "above mechanic taxi envelope solid camera mail sauce what coast solve age";
+var mnemonic = "diary mango juice decline box cry sight boat kit sun height harvest";

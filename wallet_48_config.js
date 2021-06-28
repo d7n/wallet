@@ -1,1 +1,1 @@
-var mnemonic = "chalk source alien pact blossom aspect great cool slender come radio menu";
+var mnemonic = "agent blood toss advance exist dawn romance magic idle humor repeat hazard";

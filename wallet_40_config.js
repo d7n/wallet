@@ -1,1 +1,1 @@
-var mnemonic = "aunt drink agent buyer above unlock weapon another put response solar tornado";
+var mnemonic = "simple shrimp flower senior injury torch glad print loan artist movie biology";

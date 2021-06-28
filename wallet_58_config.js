@@ -1,1 +1,1 @@
-var mnemonic = "window salad tribe man mule library spirit rain catch brown perfect face";
+var mnemonic = "brother earth rhythm uncle analyst brown mimic nurse census tourist guilt elevator";

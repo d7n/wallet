@@ -1,1 +1,1 @@
-var mnemonic = "lecture labor cake final grab ski trial ocean wage dwarf indoor sponsor";
+var mnemonic = "later victory visit speed blouse close athlete project holiday heart roof vessel";

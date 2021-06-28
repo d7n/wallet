@@ -1,1 +1,1 @@
-var mnemonic = "control illness purse festival patch wish pizza settle baby level jacket logic";
+var mnemonic = "parrot silent census wheat anger fortune actor vital clog rather magic exotic";

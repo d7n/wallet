@@ -1,1 +1,1 @@
-var mnemonic = "junior ring drift carpet actress shine dizzy unfair venue option describe cost";
+var mnemonic = "pond page motion nest wrestle maze job tiny letter daring industry raw";

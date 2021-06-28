@@ -1,1 +1,1 @@
-var mnemonic = "category gossip glance head flag talent remain axis clarify over job advice";
+var mnemonic = "admit ridge sand weasel topic yellow arm pass very manage elevator vanish";

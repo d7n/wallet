@@ -1,1 +1,1 @@
-var mnemonic = "weasel canyon hospital deliver prepare depart enroll raven boy all pumpkin swing";
+var mnemonic = "write blanket nation note unfair sock wrong help when punch process logic";

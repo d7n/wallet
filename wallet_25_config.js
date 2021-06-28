@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin shallow side scheme problem board submit teach unable echo glove umbrella";
+var mnemonic = "device net economy neglect cute spy solid daring hunt develop joy birth";

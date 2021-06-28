@@ -1,1 +1,1 @@
-var mnemonic = "bag cupboard hungry more donkey luggage federal state office hospital bench wrong";
+var mnemonic = "wall stomach ketchup alley garment dress derive vicious valid try attitude girl";

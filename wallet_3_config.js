@@ -1,1 +1,1 @@
-var mnemonic = "soup slight route toss outer sand author lawn tilt warfare pulp favorite";
+var mnemonic = "ill record void blouse diagram bike gauge exit insect shoot sugar control";

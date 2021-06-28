@@ -1,1 +1,1 @@
-var mnemonic = "annual off dice ocean wide pact priority major craft sponsor fix boy";
+var mnemonic = "pluck tobacco witness frame jungle drink waste dignity someone garage door near";

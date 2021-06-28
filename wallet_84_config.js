@@ -1,1 +1,1 @@
-var mnemonic = "ask animal agree defy fury live globe cotton ability hero run vintage";
+var mnemonic = "solar arctic guess elite device matter forget such december slice unable crisp";

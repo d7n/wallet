@@ -1,1 +1,1 @@
-var mnemonic = "double sphere skirt brisk bamboo spoon remember vehicle vote various theory casino";
+var mnemonic = "evolve where life chat amazing offer tube beef diamond frown usual danger";

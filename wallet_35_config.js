@@ -1,1 +1,1 @@
-var mnemonic = "acid today sniff gasp jewel good weapon wage truth brush casino miss";
+var mnemonic = "claw range oven hold idle force baby celery arrange front grocery vote";

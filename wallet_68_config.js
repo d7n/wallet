@@ -1,1 +1,1 @@
-var mnemonic = "whip little element mutual pet broken three must admit feature two appear";
+var mnemonic = "suspect cute someone alert trumpet claw music short disease water letter hero";

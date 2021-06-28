@@ -1,1 +1,1 @@
-var mnemonic = "girl faint deal gesture afford mistake replace motor clerk damp help castle";
+var mnemonic = "layer section sunset dream chair chase square inquiry latin expose avoid become";

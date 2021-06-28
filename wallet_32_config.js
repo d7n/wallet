@@ -1,1 +1,1 @@
-var mnemonic = "close combine share diagram soap syrup umbrella clean prize gloom velvet ghost";
+var mnemonic = "mimic return reject because marble virus enlist wrong comfort genuine assume scatter";

@@ -1,1 +1,1 @@
-var mnemonic = "arrange discover credit subject piece real solar behind vanish cinnamon sand obey";
+var mnemonic = "carry suit logic limb normal final canvas choose file lawsuit subway shield";

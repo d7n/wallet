@@ -1,1 +1,1 @@
-var mnemonic = "pencil danger pair cannon dial marine theory exclude reduce torch stay gauge";
+var mnemonic = "again west what twin current group vast panther vicious indicate habit fault";

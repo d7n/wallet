@@ -1,1 +1,1 @@
-var mnemonic = "gentle plug devote awful shop raccoon cousin pave material submit ski famous";
+var mnemonic = "puzzle random image buffalo hat debate crystal note save ticket unhappy loop";

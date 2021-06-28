@@ -1,1 +1,1 @@
-var mnemonic = "ring argue receive magic indicate cook myth faint office shoot margin police";
+var mnemonic = "twist sing close achieve logic anchor midnight dad pigeon leg style call";

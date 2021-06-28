@@ -1,1 +1,1 @@
-var mnemonic = "eager regret actual banner slight green funny weather demise resist choice planet";
+var mnemonic = "banana lesson exact thrive paddle near way diesel begin dish spider fortune";

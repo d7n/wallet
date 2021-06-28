@@ -1,1 +1,1 @@
-var mnemonic = "magic remove birth supreme save stand torch angry heavy share coral scrap";
+var mnemonic = "feature brother manual impulse festival alcohol cattle sound cigar supply type piece";

@@ -1,1 +1,1 @@
-var mnemonic = "rule relief diagram view coach case novel betray crop accident high bean";
+var mnemonic = "luxury arrange prevent original dutch moon fiscal parrot library vintage margin debris";

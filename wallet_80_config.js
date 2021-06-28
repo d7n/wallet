@@ -1,1 +1,1 @@
-var mnemonic = "connect twice forest fame obvious lunch party fluid daring then balance lobster";
+var mnemonic = "nothing fault fish illness sauce toast album surge bicycle patrol engine voyage";

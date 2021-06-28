@@ -1,1 +1,1 @@
-var mnemonic = "regular custom gap practice gasp green vivid camp patrol bounce anchor click";
+var mnemonic = "real useful spoil neck swamp record leader vessel rude daring senior swamp";

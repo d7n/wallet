@@ -1,1 +1,1 @@
-var mnemonic = "frozen eager accuse miss dose absurd brass gadget shock home ring eight";
+var mnemonic = "spirit exit glare super tennis school shrimp absorb whisper tide frozen bid";

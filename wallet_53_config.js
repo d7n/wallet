@@ -1,1 +1,1 @@
-var mnemonic = "plastic planet girl opera salmon basket sting empower donkey abandon edge pony";
+var mnemonic = "drop trash trouble best credit sorry sight olive heart actress betray wash";

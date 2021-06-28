@@ -1,1 +1,1 @@
-var mnemonic = "fury fit flip remember survey base ladder divorce fluid tackle crater license";
+var mnemonic = "helmet cluster unable simple first winner drip sorry vacuum glance caution carry";

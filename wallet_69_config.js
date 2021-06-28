@@ -1,1 +1,1 @@
-var mnemonic = "always minimum era call grain twenty nice dress leopard right wagon heart";
+var mnemonic = "mean canal absorb manual potato slogan siege gospel ring trigger income fortune";

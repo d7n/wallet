@@ -1,1 +1,1 @@
-var mnemonic = "east potato exercise moon shop nest light roof best decide ugly very";
+var mnemonic = "draw minute fiber people diet divert more glide chapter ten couch cruise";

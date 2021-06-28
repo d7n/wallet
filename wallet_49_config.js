@@ -1,1 +1,1 @@
-var mnemonic = "diary route invest speed black announce three demise secret focus cement subway";
+var mnemonic = "transfer sponsor soul stamp verify crop human section globe antenna usage buffalo";

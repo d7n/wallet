@@ -1,1 +1,1 @@
-var mnemonic = "slight jealous hurt south nation gold error express suspect quiz behave river";
+var mnemonic = "frequent sauce rack trap salmon slush feed supply hub wet outdoor iron";

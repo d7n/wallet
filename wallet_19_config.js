@@ -1,1 +1,1 @@
-var mnemonic = "bone security obtain drip nose roast pottery now rural vehicle jewel adjust";
+var mnemonic = "start thought short slice crystal impose better wool fever essay expand lawsuit";

@@ -1,1 +1,1 @@
-var mnemonic = "father trick enable drift into syrup disagree index time size pet rocket";
+var mnemonic = "educate right grain biology box peace smoke diamond lunch guard shoe assault";

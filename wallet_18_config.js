@@ -1,1 +1,1 @@
-var mnemonic = "night furnace dad trophy door multiply fun soul glory pyramid until gift";
+var mnemonic = "snap brief stable depart essence vocal include false fresh gloom enter occur";

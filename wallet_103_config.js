@@ -1,1 +1,1 @@
-var mnemonic = "supply project cruise ketchup stuff color festival imitate define spirit nuclear wild";
+var mnemonic = "deer vote alien boss caution cherry base birth grain energy safe sail";

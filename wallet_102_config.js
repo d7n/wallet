@@ -1,1 +1,1 @@
-var mnemonic = "broom dirt tank warm custom city ladder sadness riot idea kidney void";
+var mnemonic = "few recycle day purity infant insect worry nothing high animal point door";

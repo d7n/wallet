@@ -1,1 +1,1 @@
-var mnemonic = "expire step oven rally live same tribe fatigue call boss segment pudding";
+var mnemonic = "eternal effort pave news fork diamond stay dynamic fun mail congress ahead";

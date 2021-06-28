@@ -1,1 +1,1 @@
-var mnemonic = "velvet blast awesome identify lend alone baby board move leg cliff antique";
+var mnemonic = "turtle panic jacket lava all crack process buzz traffic cupboard gospel liar";

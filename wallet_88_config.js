@@ -1,1 +1,1 @@
-var mnemonic = "topic soccer code tragic phrase matter nerve apart team cup round buffalo";
+var mnemonic = "coffee doctor flight stick deposit next hotel ticket light patch pitch honey";

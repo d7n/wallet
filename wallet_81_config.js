@@ -1,1 +1,1 @@
-var mnemonic = "ability section canal like pear atom flat rug measure regular brass marriage";
+var mnemonic = "six prefer worth disorder slight buzz pond mail upset chicken wool goat";

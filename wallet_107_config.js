@@ -1,1 +1,1 @@
-var mnemonic = "autumn snack public smoke snap sphere yard screen cherry gain order toss";
+var mnemonic = "hunt always wisdom summer sick fatigue announce license copy infant depend retire";

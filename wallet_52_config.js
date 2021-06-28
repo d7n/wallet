@@ -1,1 +1,1 @@
-var mnemonic = "together tortoise outer height garage attitude bench large castle sense notable cave";
+var mnemonic = "kitten echo blossom fat trigger timber choose fiscal voyage raven wasp business";

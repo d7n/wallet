@@ -1,1 +1,1 @@
-var mnemonic = "position knee cry dentist cover foam wheat volume oak give exact damage";
+var mnemonic = "west gorilla diagram tunnel victory yard hurdle stamp fat insect tilt trust";

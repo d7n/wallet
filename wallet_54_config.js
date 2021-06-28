@@ -1,1 +1,1 @@
-var mnemonic = "chunk crowd ice rib badge index cube turkey royal royal easily cannon";
+var mnemonic = "vague movie dog minute kite bird harvest grit observe pepper young gate";

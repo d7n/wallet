@@ -1,1 +1,1 @@
-var mnemonic = "title build cruel great science try suit throw tilt visit rent vintage";
+var mnemonic = "rookie champion slam machine lunar filter robot panther noise leopard pencil decline";

@@ -1,1 +1,1 @@
-var mnemonic = "run jaguar outside boring icon ask sell sing begin age rapid turtle";
+var mnemonic = "pass relax pioneer earn magic west safe mutual napkin glass wagon pupil";

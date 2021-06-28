@@ -1,1 +1,1 @@
-var mnemonic = "settle require episode defy desert umbrella increase welcome penalty camera what pluck";
+var mnemonic = "project rescue raw animal obey protect royal shell float use zoo dove";

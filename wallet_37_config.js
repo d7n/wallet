@@ -1,1 +1,1 @@
-var mnemonic = "one scan nephew organ mass once west faculty female first notice flush";
+var mnemonic = "cup puppy barely spy iron betray key rocket universe steak pumpkin grain";

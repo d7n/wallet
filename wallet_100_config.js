@@ -1,1 +1,1 @@
-var mnemonic = "excite laugh surprise lake napkin uncle range desert brick economy blood bounce";
+var mnemonic = "orchard idea biology mix call below vessel mask angry agent antique feel";

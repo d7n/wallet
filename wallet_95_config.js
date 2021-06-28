@@ -1,1 +1,1 @@
-var mnemonic = "ladder spend deal grief unfold remove leopard humor differ human salmon soda";
+var mnemonic = "year hover danger myself rather achieve damage focus blouse expect school artwork";

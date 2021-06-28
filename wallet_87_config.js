@@ -1,1 +1,1 @@
-var mnemonic = "curtain traffic exhaust gloom maximum credit balance senior frame hello zero library";
+var mnemonic = "grass denial clip tattoo agent proud fold gain type cram party divide";

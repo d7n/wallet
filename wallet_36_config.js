@@ -1,1 +1,1 @@
-var mnemonic = "wink sing tube aisle arch myself category village scissors trick avoid guitar";
+var mnemonic = "faint hidden run garbage spread issue spin width enrich matter master ignore";

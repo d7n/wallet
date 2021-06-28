@@ -1,1 +1,1 @@
-var mnemonic = "that umbrella portion protect mimic favorite box cradle evil slice boring math";
+var mnemonic = "can grief student brass mosquito side drink rigid pyramid brick ocean demand";

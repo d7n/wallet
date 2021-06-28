@@ -1,1 +1,1 @@
-var mnemonic = "valley crystal bulk capital autumn mansion shell pause food left student slight";
+var mnemonic = "drama dolphin love lava beach void more snack merry save dial check";

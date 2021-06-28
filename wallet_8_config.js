@@ -1,1 +1,1 @@
-var mnemonic = "coin two unusual fish real school lyrics sauce orbit destroy name twin";
+var mnemonic = "acoustic pink notable change resource corn weasel unusual now hip amused arrive";

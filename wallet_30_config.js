@@ -1,1 +1,1 @@
-var mnemonic = "reform prevent salad erosion trend adjust bubble struggle future clutch calm polar";
+var mnemonic = "entire skin noodle fluid emotion estate give elegant peanut knock acquire garbage";

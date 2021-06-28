@@ -1,1 +1,1 @@
-var mnemonic = "tail despair bread heavy subject situate scheme food mobile quiz cushion profit";
+var mnemonic = "silent awesome chunk oval green retire glad twice token neck swing online";

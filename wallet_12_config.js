@@ -1,1 +1,1 @@
-var mnemonic = "screen naive century mesh lunar usage embody scan parent dune tip siege";
+var mnemonic = "grape pact whisper whale gesture radio vocal blind upset grant romance apart";

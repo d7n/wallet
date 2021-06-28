@@ -1,1 +1,1 @@
-var mnemonic = "hard defy citizen example immense question tape retire north popular frame crouch";
+var mnemonic = "banner model regret silk reopen episode draw shoe immune session frost shaft";

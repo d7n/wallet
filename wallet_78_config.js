@@ -1,1 +1,1 @@
-var mnemonic = "panel boy fluid supreme come phrase fresh skull rule hedgehog miracle sentence";
+var mnemonic = "favorite old industry lucky spray quarter funny weapon frequent notable exit moral";

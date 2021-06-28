@@ -1,1 +1,1 @@
-var mnemonic = "angry decorate claim burger stock mansion census update sound bubble noodle will";
+var mnemonic = "love there sample appear sick athlete dish latin nurse bonus idle forum";

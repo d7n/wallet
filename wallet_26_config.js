@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog word deer client resource hard peace verb wall average leopard tomato";
+var mnemonic = "hard danger leave milk tell duty copy glare company display chuckle cat";

@@ -1,1 +1,1 @@
-var mnemonic = "neither chaos yellow box bag they glass topic apart arch enable owner";
+var mnemonic = "cloth affair pigeon permit scare mule physical pretty file expire casino web";

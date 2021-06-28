@@ -1,1 +1,1 @@
-var mnemonic = "produce tip volcano whale gap expand window beef mixed fine gun conduct";
+var mnemonic = "mango width return winter antenna obscure bag hole salt brand old switch";

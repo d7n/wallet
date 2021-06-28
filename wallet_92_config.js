@@ -1,1 +1,1 @@
-var mnemonic = "call across fire metal copy curve version explain patient tank street family";
+var mnemonic = "velvet essay student expand embrace student again employ neither bless tree easy";

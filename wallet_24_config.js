@@ -1,1 +1,1 @@
-var mnemonic = "rent office onion enter cross exercise true frequent account frequent lend power";
+var mnemonic = "modify dose zero cube copper wool other evolve poem same able brand";

@@ -1,1 +1,1 @@
-var mnemonic = "dune dolphin stumble inside mansion concert chase clog false chef scissors still";
+var mnemonic = "awkward glow unusual winter reward stool annual coral garden inspire purse disagree";

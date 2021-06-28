@@ -1,1 +1,1 @@
-var mnemonic = "shed night green problem shy embrace tragic favorite unit coin six slab";
+var mnemonic = "slim spider reflect spring foil bleak matter holiday canal certain suggest still";

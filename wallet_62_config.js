@@ -1,1 +1,1 @@
-var mnemonic = "clip flee father wise neither sea wrist coral pen supply ride trophy";
+var mnemonic = "ball deny test logic obey artefact tuna large measure master vast weasel";

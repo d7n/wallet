@@ -1,1 +1,1 @@
-var mnemonic = "gym derive grant stumble mistake tattoo island observe sight surprise swear spy";
+var mnemonic = "cloud leave palace forum jaguar drastic eager kitten come miracle they renew";

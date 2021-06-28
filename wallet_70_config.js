@@ -1,1 +1,1 @@
-var mnemonic = "latin hybrid idle remove ecology dizzy blanket broken level upon hair slender";
+var mnemonic = "swamp wise range grass extra pizza anger idea ivory joy excuse tired";

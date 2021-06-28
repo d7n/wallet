@@ -1,1 +1,1 @@
-var mnemonic = "chapter budget recipe pony chair reopen tenant gown situate glass fatigue great";
+var mnemonic = "picnic polar minor mirror now able final violin this eager lyrics deputy";

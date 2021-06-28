@@ -1,1 +1,1 @@
-var mnemonic = "fresh peasant amazing decline rescue essence announce spot resemble drama label alien";
+var mnemonic = "slab prize excess judge pull grief once twist deposit tube hill include";

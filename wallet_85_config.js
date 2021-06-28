@@ -1,1 +1,1 @@
-var mnemonic = "barrel pretty unfold job pet know inch wisdom modify fury mango stone";
+var mnemonic = "rescue tank short ivory grunt fat easy mixed answer more disorder near";
