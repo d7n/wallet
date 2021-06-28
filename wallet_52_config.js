@@ -1,1 +1,1 @@
-var mnemonic = "entry hope width trick sister sad weather dwarf share image digital mention";
+var mnemonic = "judge strategy bleak sail execute agree coconut route lobster crawl impulse nest";

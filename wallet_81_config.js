@@ -1,1 +1,1 @@
-var mnemonic = "easily rigid real caution enact super scorpion damage hat action disorder tired";
+var mnemonic = "jaguar collect mirror private parade figure tape flame obey future tomorrow fiber";

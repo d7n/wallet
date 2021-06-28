@@ -1,1 +1,1 @@
-var mnemonic = "around basket divide option gentle icon moon rose better share angry social";
+var mnemonic = "dignity motion situate lawn reject odor lion able drop session gesture grape";

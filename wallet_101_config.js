@@ -1,1 +1,1 @@
-var mnemonic = "great canyon express floor provide enact turtle travel hub kiwi tenant ladder";
+var mnemonic = "shaft moon arctic royal mutual pond material undo major rural twenty balcony";

@@ -1,1 +1,1 @@
-var mnemonic = "tip audit own milk oppose opinion rare public uphold wolf crime square";
+var mnemonic = "double cup venture car piece pizza way resist slam razor light cancel";

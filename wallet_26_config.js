@@ -1,1 +1,1 @@
-var mnemonic = "bicycle wish elder sauce speed fruit resource dragon catalog guard demand alley";
+var mnemonic = "excuse holiday matter deal elbow denial seat awesome engine canvas spend margin";

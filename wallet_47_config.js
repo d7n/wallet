@@ -1,1 +1,1 @@
-var mnemonic = "small bachelor hidden praise pilot purchase flavor industry permit today venue famous";
+var mnemonic = "suggest ride multiply pepper loop plate avocado motion mention slogan salute decorate";

@@ -1,1 +1,1 @@
-var mnemonic = "friend glass purity pave person cushion barrel yellow vault unlock left foster";
+var mnemonic = "debris ripple concert salt album lesson glare memory tuna royal phrase engage";

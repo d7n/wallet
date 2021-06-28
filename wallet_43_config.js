@@ -1,1 +1,1 @@
-var mnemonic = "fault gossip allow novel knife yellow wave patient bomb country rhythm hat";
+var mnemonic = "route sketch clown arrive feature pottery switch donkey cushion ankle salad chunk";

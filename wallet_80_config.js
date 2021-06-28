@@ -1,1 +1,1 @@
-var mnemonic = "decrease want rebuild great hazard police maple popular couch use inherit scare";
+var mnemonic = "ahead expose kitchen above riot apart bus digital chimney lyrics gesture sketch";

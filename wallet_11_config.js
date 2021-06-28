@@ -1,1 +1,1 @@
-var mnemonic = "burst vacuum elbow bag royal coast swamp coral chair kingdom transfer lock";
+var mnemonic = "travel problem park runway excuse elder chunk trend feed couple firm blame";

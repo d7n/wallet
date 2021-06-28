@@ -1,1 +1,1 @@
-var mnemonic = "mouse anchor almost segment symptom world attend modify they require room leave";
+var mnemonic = "number motion secret blast base dolphin arrive tool cook corn stable patient";

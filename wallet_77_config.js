@@ -1,1 +1,1 @@
-var mnemonic = "milk feel easily kangaroo dirt gospel buddy display ill unknown ritual muffin";
+var mnemonic = "express scout push pulse broom accident weather pilot december game bright label";

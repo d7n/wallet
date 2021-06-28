@@ -1,1 +1,1 @@
-var mnemonic = "fuel vault pen plate okay chaos vessel moral sort fluid arrow clog";
+var mnemonic = "canyon love grief sausage dumb intact lawn drill shrimp gas jaguar guide";

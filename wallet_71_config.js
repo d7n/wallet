@@ -1,1 +1,1 @@
-var mnemonic = "key end depend behave jazz disease taxi believe goose soft tooth absorb";
+var mnemonic = "foil armed twist frame board indicate daughter laptop habit rate comic inquiry";

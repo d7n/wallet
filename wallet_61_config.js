@@ -1,1 +1,1 @@
-var mnemonic = "federal tag video stove broom essence banana risk consider salon settle juice";
+var mnemonic = "coconut raccoon wait impose jealous height panic canoe shiver pear wool famous";

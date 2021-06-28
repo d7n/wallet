@@ -1,1 +1,1 @@
-var mnemonic = "combine sister desert dismiss rely proud found hello century smart forget asthma";
+var mnemonic = "whisper leaf trust tonight theory true frog tip connect absent accident coin";

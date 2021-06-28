@@ -1,1 +1,1 @@
-var mnemonic = "cage symptom glue dilemma pattern quantum rebuild flavor found cannon better scale";
+var mnemonic = "jar square flame draft double north crystal device social type illness unhappy";

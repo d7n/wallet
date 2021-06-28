@@ -1,1 +1,1 @@
-var mnemonic = "wine tunnel water concert coffee quick behind voyage gap risk autumn define";
+var mnemonic = "summer shoulder clay boat rival try board rug firm glove victory swim";

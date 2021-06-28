@@ -1,1 +1,1 @@
-var mnemonic = "little suffer early bronze toast puzzle include gun liar fault earn enroll";
+var mnemonic = "cushion circle same category dilemma spring claim wrong hunt faculty like inflict";

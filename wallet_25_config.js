@@ -1,1 +1,1 @@
-var mnemonic = "obtain design convince mule squirrel boil provide ancient prefer blood charge only";
+var mnemonic = "decorate image seek couple mirror empower involve setup quiz myself during unaware";

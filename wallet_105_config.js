@@ -1,1 +1,1 @@
-var mnemonic = "umbrella service essay identify attract gentle sword digital actor okay order jungle";
+var mnemonic = "tobacco relax fatigue cake deny leisure cherry short time bread pool fun";

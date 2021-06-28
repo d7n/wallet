@@ -1,1 +1,1 @@
-var mnemonic = "area mind card snow must fame essay second glove engine fall awkward";
+var mnemonic = "usual hip sunset kidney perfect manual depth attract occur rotate mobile change";

@@ -1,1 +1,1 @@
-var mnemonic = "abuse usual polar doll jewel robust review drive elder obscure prosper because";
+var mnemonic = "aim save legal razor clog frequent steak faculty cancel reopen require glory";

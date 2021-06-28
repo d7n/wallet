@@ -1,1 +1,1 @@
-var mnemonic = "gauge crash shed special cloth pilot tenant asthma fit piece pulp inflict";
+var mnemonic = "prefer maple beef leg clinic better provide crunch blind exercise spoon equip";

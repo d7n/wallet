@@ -1,1 +1,1 @@
-var mnemonic = "capable crawl empty husband lumber chaos tenant business wine story plate penalty";
+var mnemonic = "airport drum decrease nut december invest elbow idle unknown ecology salt situate";

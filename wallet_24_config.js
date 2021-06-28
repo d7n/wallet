@@ -1,1 +1,1 @@
-var mnemonic = "skate immune interest inspire east eight ankle sniff used another report humor";
+var mnemonic = "artwork journey turn drive taste country across twenty curious cave flower practice";

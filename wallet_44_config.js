@@ -1,1 +1,1 @@
-var mnemonic = "melody file slim neck segment device water add wood script turkey column";
+var mnemonic = "person mistake saddle hammer good august clump insect room gold unfair eagle";

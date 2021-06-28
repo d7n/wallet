@@ -1,1 +1,1 @@
-var mnemonic = "surface twice pony nephew bronze lunch style void badge umbrella pig daughter";
+var mnemonic = "rebuild clerk suggest unit like shoe planet foster cake tail tray bamboo";

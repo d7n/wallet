@@ -1,1 +1,1 @@
-var mnemonic = "inject dwarf renew cave drink illegal shield direct quick fiction estate today";
+var mnemonic = "betray surround table knock cream sell eight license huge garage float fit";

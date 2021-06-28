@@ -1,1 +1,1 @@
-var mnemonic = "apart paddle hundred wild trip abandon exile hard sibling hundred unfold stairs";
+var mnemonic = "approve draft rule dinner yellow sting test nation mad stage correct canal";

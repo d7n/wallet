@@ -1,1 +1,1 @@
-var mnemonic = "move online monkey behave away cable rebel school broccoli method endorse barely";
+var mnemonic = "void pen tragic behind history another insect fruit security grain language hat";

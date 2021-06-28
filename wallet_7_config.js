@@ -1,1 +1,1 @@
-var mnemonic = "clay panel utility maze person fine rescue few purpose ill butter key";
+var mnemonic = "wrestle nothing vocal hover veteran supreme crater senior owner turtle find hold";

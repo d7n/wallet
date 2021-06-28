@@ -1,1 +1,1 @@
-var mnemonic = "engage model post once pluck remain rival consider chapter over tent empty";
+var mnemonic = "forum one sound search valley taxi clay math trip simple tobacco polar";

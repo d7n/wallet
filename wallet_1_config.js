@@ -1,1 +1,1 @@
-var mnemonic = "label concert suit market agree usual illegal surge chief mention spell delay";
+var mnemonic = "couple diamond traffic marine kind cloud burst energy stone dignity square crew";

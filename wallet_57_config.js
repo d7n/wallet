@@ -1,1 +1,1 @@
-var mnemonic = "safe inquiry useless erupt train level sword area patrol drill gap ready";
+var mnemonic = "transfer include useful exit vague april bike slot snow oxygen industry equip";

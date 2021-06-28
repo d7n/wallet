@@ -1,1 +1,1 @@
-var mnemonic = "clock town media left gate erupt swarm involve kick health diet obvious";
+var mnemonic = "aerobic sponsor envelope timber nothing inform gain valid long chase problem cage";

@@ -1,1 +1,1 @@
-var mnemonic = "genuine erupt senior assist bleak employ junk midnight example sugar bicycle express";
+var mnemonic = "human weather advice auction village raw swarm mandate february torch sick share";

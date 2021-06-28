@@ -1,1 +1,1 @@
-var mnemonic = "crop faculty pony action cube time cup soda impact other power wing";
+var mnemonic = "puzzle ghost rural trim crew mountain cost march shrug slender wreck release";

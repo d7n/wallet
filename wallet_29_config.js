@@ -1,1 +1,1 @@
-var mnemonic = "nasty diary harvest manual album uniform neck nurse hammer arrange hat verify";
+var mnemonic = "govern cycle attract month never deny ripple slight argue allow lesson wait";

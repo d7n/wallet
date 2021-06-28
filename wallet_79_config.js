@@ -1,1 +1,1 @@
-var mnemonic = "crater liberty salmon ticket evolve basket clinic dance orange brief color limb";
+var mnemonic = "length choose obscure cost deposit city shallow hybrid extra isolate parrot easily";

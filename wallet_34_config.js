@@ -1,1 +1,1 @@
-var mnemonic = "crawl coconut mail grid match mercy deposit sure cycle enemy spice spray";
+var mnemonic = "defy cost wrestle jaguar lend hedgehog dog adult ridge meat certain step";

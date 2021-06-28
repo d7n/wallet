@@ -1,1 +1,1 @@
-var mnemonic = "bid all assault source explain animal muscle evidence peanut file buffalo unique";
+var mnemonic = "try peace group social avocado mushroom option hedgehog where nut gather toe";

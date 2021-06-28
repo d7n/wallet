@@ -1,1 +1,1 @@
-var mnemonic = "error cat garage wool power level invest comfort color exit need arctic";
+var mnemonic = "seven reward legend coach grit oblige visual vague woman reduce rule hurry";

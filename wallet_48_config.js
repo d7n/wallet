@@ -1,1 +1,1 @@
-var mnemonic = "media stock display legend option loud enable romance adapt angle remain blur";
+var mnemonic = "roast business kite firm dune weapon mad brother relax moral whip right";

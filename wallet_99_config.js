@@ -1,1 +1,1 @@
-var mnemonic = "abandon expire escape vital park snake mom august walnut stamp flush apology";
+var mnemonic = "cream link make under blur aware world kite resist jewel tank cook";

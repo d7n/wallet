@@ -1,1 +1,1 @@
-var mnemonic = "awkward interest recipe neutral faith pig decade chase hat sleep laundry horse";
+var mnemonic = "negative fee spend tissue crowd near climb pioneer still echo foil result";

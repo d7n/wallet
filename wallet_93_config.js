@@ -1,1 +1,1 @@
-var mnemonic = "again victory wisdom equip extra opera nurse rebel dash stairs isolate alert";
+var mnemonic = "poem profit pill lemon confirm response carpet spare digital lemon win fantasy";

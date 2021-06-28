@@ -1,1 +1,1 @@
-var mnemonic = "gloom ozone have behind law broom unit stem poverty hold twelve pottery";
+var mnemonic = "shadow magic ghost vehicle deliver ketchup document capable depend alpha useless shy";

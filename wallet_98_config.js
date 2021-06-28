@@ -1,1 +1,1 @@
-var mnemonic = "arrive inflict coach carry lunch major park cruel sing weasel analyst violin";
+var mnemonic = "raven divert ready spy sponsor section bag finger girl attack document deal";

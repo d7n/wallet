@@ -1,1 +1,1 @@
-var mnemonic = "display giggle pencil fun champion just pyramid coyote already artist napkin couch";
+var mnemonic = "hungry spare rebuild infant employ assault ocean fan gaze apple clever useless";

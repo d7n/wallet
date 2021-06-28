@@ -1,1 +1,1 @@
-var mnemonic = "power mixture fossil heart express general sign woman false want sight sign";
+var mnemonic = "soldier bench patrol middle escape master need tide mosquito security champion office";

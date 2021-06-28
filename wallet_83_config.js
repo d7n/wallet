@@ -1,1 +1,1 @@
-var mnemonic = "auto crawl grain device merge book immune struggle cause canoe visa airport";
+var mnemonic = "luxury online lake polar donate finger arrive correct predict client dinosaur issue";

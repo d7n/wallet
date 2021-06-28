@@ -1,1 +1,1 @@
-var mnemonic = "loop devote joke funny bargain excuse illness gown nurse afford swim rural";
+var mnemonic = "anger cram apology aware demand jaguar harsh code cotton vehicle defy file";

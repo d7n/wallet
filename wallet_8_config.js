@@ -1,1 +1,1 @@
-var mnemonic = "wild duck rule buzz strategy maze pool display move fringe unknown waste";
+var mnemonic = "limit canvas step attitude heart cherry envelope recycle couch lens culture other";

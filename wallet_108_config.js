@@ -1,1 +1,1 @@
-var mnemonic = "pelican already attitude future jar peanut zone deny obscure puppy parade enforce";
+var mnemonic = "person fitness opera cheap surround core danger tape empty crane tank drill";

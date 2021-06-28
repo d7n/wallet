@@ -1,1 +1,1 @@
-var mnemonic = "purpose image poverty certain drum miracle visual exile swamp sphere next pledge";
+var mnemonic = "still siren spoon drastic lunar canyon view wide choice explain half dinner";

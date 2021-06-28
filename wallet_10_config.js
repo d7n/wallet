@@ -1,1 +1,1 @@
-var mnemonic = "voice scale satoshi bonus hour fall raise comfort ensure model diesel joke";
+var mnemonic = "wrist diagram spatial spike cloth spray mistake reunion expose impose region tool";

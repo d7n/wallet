@@ -1,1 +1,1 @@
-var mnemonic = "delay soccer airport gain explain pistol ribbon protect soup squeeze waste amused";
+var mnemonic = "february social mail maze badge weapon grid lift install inside peasant slight";

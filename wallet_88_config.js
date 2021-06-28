@@ -1,1 +1,1 @@
-var mnemonic = "slide tube turkey dinosaur wire stamp near kite coffee mixture label raw";
+var mnemonic = "ceiling mystery state enemy month chicken stereo history ordinary brass opera pen";

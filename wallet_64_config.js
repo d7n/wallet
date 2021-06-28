@@ -1,1 +1,1 @@
-var mnemonic = "base army hen cliff injury endorse episode slogan era mass popular casual";
+var mnemonic = "insane better turtle asset core blush dial despair blanket make document during";

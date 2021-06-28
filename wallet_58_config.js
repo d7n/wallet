@@ -1,1 +1,1 @@
-var mnemonic = "rate pledge cram exist fame nurse board clip hybrid slogan cart sad";
+var mnemonic = "useless stock barrel north off mutual kit language axis student miracle wing";

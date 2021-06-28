@@ -1,1 +1,1 @@
-var mnemonic = "deliver flower bag virus wife pretty toward switch hurt modify design dawn";
+var mnemonic = "attract target famous curtain sauce adjust exhibit blouse ghost oval absorb sketch";

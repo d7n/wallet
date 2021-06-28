@@ -1,1 +1,1 @@
-var mnemonic = "control balance carry chalk satisfy avoid expect birth address sample paper twenty";
+var mnemonic = "search rude travel vacuum cement snake unhappy busy ready arrange slender pizza";

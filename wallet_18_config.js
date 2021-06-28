@@ -1,1 +1,1 @@
-var mnemonic = "ankle people inspire enforce leopard height trust click valid employ oak regret";
+var mnemonic = "garbage unit sad fitness test insane balance foot embody soon online giggle";

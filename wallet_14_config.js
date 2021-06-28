@@ -1,1 +1,1 @@
-var mnemonic = "shrimp crew enhance grit proof inch below horse theory weasel slim milk";
+var mnemonic = "predict calm correct tobacco scene stay series depart illness fancy denial female";

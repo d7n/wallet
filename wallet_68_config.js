@@ -1,1 +1,1 @@
-var mnemonic = "vague anxiety abandon hill enlist infant market utility combine glance head model";
+var mnemonic = "market real nurse road plate disease steak sustain rally stuff harbor clock";

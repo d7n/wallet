@@ -1,1 +1,1 @@
-var mnemonic = "lonely canvas tag squirrel oppose wheel matter domain gospel float rhythm sadness";
+var mnemonic = "gun liar fun will mix fragile tool note sick wink trap cabbage";

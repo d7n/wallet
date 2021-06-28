@@ -1,1 +1,1 @@
-var mnemonic = "home slogan guard snow alpha item much wonder kitten merry legend broken";
+var mnemonic = "soft boat day kidney turtle october drill inspire nut private equip ten";

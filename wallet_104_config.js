@@ -1,1 +1,1 @@
-var mnemonic = "lunch gown park brick east fashion anchor pottery harbor chat draw toilet";
+var mnemonic = "glow echo lonely add oak hawk believe noble dog wise obvious prize";

@@ -1,1 +1,1 @@
-var mnemonic = "comic raven pledge jungle jazz reopen noble climb canoe margin scorpion file";
+var mnemonic = "mind burden cry hello blouse spoon suit remove mystery series grace spray";

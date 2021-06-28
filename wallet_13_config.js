@@ -1,1 +1,1 @@
-var mnemonic = "wild artist child zebra hollow work grit infant mail exile dolphin intact";
+var mnemonic = "clarify people resource please process forget limit purity decrease tent grace correct";

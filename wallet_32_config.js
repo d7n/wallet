@@ -1,1 +1,1 @@
-var mnemonic = "drop people sudden very receive mother current rail flock famous frequent chicken";
+var mnemonic = "trigger humble setup once aunt will paddle galaxy bench chase zebra aware";

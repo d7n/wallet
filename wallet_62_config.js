@@ -1,1 +1,1 @@
-var mnemonic = "icon keep keen blush whisper innocent boss urban celery cereal attitude cupboard";
+var mnemonic = "few expect bike cargo know nurse tomorrow holiday hidden electric sustain frown";

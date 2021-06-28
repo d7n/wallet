@@ -1,1 +1,1 @@
-var mnemonic = "crowd hungry buyer jump taxi diagram popular panel laugh tortoise cart slice";
+var mnemonic = "coin huge model adjust board private chalk sheriff strategy code napkin rookie";

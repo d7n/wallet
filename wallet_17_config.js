@@ -1,1 +1,1 @@
-var mnemonic = "company left critic eyebrow air slogan kid age urban rule clock iron";
+var mnemonic = "safe quick catalog advice involve satoshi behave turn glimpse destroy coral culture";

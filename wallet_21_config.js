@@ -1,1 +1,1 @@
-var mnemonic = "own bean palace frog motion foot diesel crawl shell crane alley upper";
+var mnemonic = "cement mother mad emerge bean cloud negative swing announce pigeon cruise tobacco";

@@ -1,1 +1,1 @@
-var mnemonic = "like sugar foam crunch parent bronze setup fantasy corn private burden catch";
+var mnemonic = "all shed gospel reduce seed survey chest good force volcano elevator argue";

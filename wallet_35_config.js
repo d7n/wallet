@@ -1,1 +1,1 @@
-var mnemonic = "caught sail marble advance useful element learn sad float become once trip";
+var mnemonic = "shrug sister pig family arena theme demise inquiry family giant elder width";

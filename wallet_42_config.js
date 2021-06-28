@@ -1,1 +1,1 @@
-var mnemonic = "happy add ignore hamster poem guard romance elite blur act silly help";
+var mnemonic = "auction history canyon detail promote salon subway magnet uphold scrub grace vessel";

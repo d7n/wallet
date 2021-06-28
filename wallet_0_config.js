@@ -1,1 +1,1 @@
-var mnemonic = "evidence jeans project exhaust top gain pilot twin pony catalog fatigue physical";
+var mnemonic = "expire search upon grocery harsh prize mutual deer cluster intact trouble devote";

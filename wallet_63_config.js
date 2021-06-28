@@ -1,1 +1,1 @@
-var mnemonic = "address plug plunge eternal car honey latin coffee enter spice bundle truck";
+var mnemonic = "light control water subway trade harbor subject present swift animal midnight alter";

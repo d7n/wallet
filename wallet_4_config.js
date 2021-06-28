@@ -1,1 +1,1 @@
-var mnemonic = "physical patrol moon mystery harvest ring decide submit wet visual wonder soon";
+var mnemonic = "tenant agent bleak sketch bargain pulp maximum unveil nephew oppose twelve lock";

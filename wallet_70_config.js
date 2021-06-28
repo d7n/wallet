@@ -1,1 +1,1 @@
-var mnemonic = "spawn will goose broken wave hedgehog clerk intact rate keep purity ordinary";
+var mnemonic = "inside eyebrow power umbrella gown tube cousin uncover stereo cruel arrest match";

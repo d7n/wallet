@@ -1,1 +1,1 @@
-var mnemonic = "dove matrix puppy ecology casual sail deposit bargain faith gloom family toy";
+var mnemonic = "flash mansion february inflict burden broccoli pave exhibit swing walk wool siren";

@@ -1,1 +1,1 @@
-var mnemonic = "open journey mind member hard assault rely tone pair wise orange milk";
+var mnemonic = "success remember exclude increase mixture video fluid pond town brand secret salmon";

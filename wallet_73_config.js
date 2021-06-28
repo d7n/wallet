@@ -1,1 +1,1 @@
-var mnemonic = "hover vicious flight use female submit device nut bargain lecture make wagon";
+var mnemonic = "spend aim dumb popular undo marble industry book squirrel east produce actor";

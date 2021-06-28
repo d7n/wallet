@@ -1,1 +1,1 @@
-var mnemonic = "hungry kid spoil chase parade crack duty worth split roast embody city";
+var mnemonic = "pioneer master yellow razor song drop inflict toy toss decorate ancient together";

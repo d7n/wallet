@@ -1,1 +1,1 @@
-var mnemonic = "chapter beach shoot hurry slogan luxury much humor capable merge flat indoor";
+var mnemonic = "spy axis purse select annual cricket forest spice often cactus property gown";

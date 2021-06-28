@@ -1,1 +1,1 @@
-var mnemonic = "horror tape sting lecture this copy flavor phrase casino horse advance gospel";
+var mnemonic = "alter success illegal wish follow crew axis wood decade echo tenant balance";

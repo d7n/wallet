@@ -1,1 +1,1 @@
-var mnemonic = "escape diary marriage duty town memory hair jungle father frame right limb";
+var mnemonic = "equip kangaroo almost above unfold such bargain neck defy dice can steel";
