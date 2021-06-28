@@ -1,1 +1,1 @@
-var mnemonic = "maze topic crumble hair advice vehicle fiscal unit trip main army fence";
+var mnemonic = "secret minimum wagon liberty stairs embody shoot perfect sun patient angry ship";

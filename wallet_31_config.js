@@ -1,1 +1,1 @@
-var mnemonic = "lumber modify wrap kingdom direct dust empty purse wealth oppose ticket subject";
+var mnemonic = "never few physical capital update tragic help recycle payment plug return solution";

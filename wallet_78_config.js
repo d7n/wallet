@@ -1,1 +1,1 @@
-var mnemonic = "fortune abandon mystery must prize hamster ugly choice afraid duty spray ritual";
+var mnemonic = "fork meat punch will auction middle dune father skirt steak venue sword";

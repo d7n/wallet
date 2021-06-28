@@ -1,1 +1,1 @@
-var mnemonic = "garbage nasty flat remove lottery common hamster parrot energy notice plate gorilla";
+var mnemonic = "illegal auction flavor priority post obscure exist mandate address dose seat exhibit";

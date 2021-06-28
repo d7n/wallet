@@ -1,1 +1,1 @@
-var mnemonic = "spread torch property labor seven predict left focus spin estate alpha army";
+var mnemonic = "access copper cook proof diary whip drift penalty behave finger disorder key";

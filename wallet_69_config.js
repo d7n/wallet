@@ -1,1 +1,1 @@
-var mnemonic = "fetch say mixture dream radar affair door spike sustain hunt dinosaur diesel";
+var mnemonic = "tonight any cancel rural leisure stuff jealous gift abuse neutral trend illegal";

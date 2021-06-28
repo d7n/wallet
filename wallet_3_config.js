@@ -1,1 +1,1 @@
-var mnemonic = "trick rib chest area six tomato about runway adapt space icon survey";
+var mnemonic = "tonight mirror wide before assist protect pluck measure autumn flight camp cause";

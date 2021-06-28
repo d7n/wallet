@@ -1,1 +1,1 @@
-var mnemonic = "skin drama turtle miss cream athlete unable junk brave mail vast ridge";
+var mnemonic = "wasp code mouse quality shed sword core foot vapor combine deal royal";

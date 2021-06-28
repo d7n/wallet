@@ -1,1 +1,1 @@
-var mnemonic = "bullet weekend husband addict float april craft lounge march skate model can";
+var mnemonic = "stand smooth elder book twenty display wide slot only soup hidden marine";

@@ -1,1 +1,1 @@
-var mnemonic = "humor hello list advance lake scorpion limb orphan sort rebel mix wrist";
+var mnemonic = "duck basket chaos blast science where use fiction want bomb click good";

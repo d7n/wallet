@@ -1,1 +1,1 @@
-var mnemonic = "profit wet drink always wise predict force lion obey salmon plastic buddy";
+var mnemonic = "border display scrub basket corn veteran drop reform border wagon ivory father";

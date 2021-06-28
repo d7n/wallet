@@ -1,1 +1,1 @@
-var mnemonic = "hint slush umbrella news foster pencil quiz degree still wish lock deputy";
+var mnemonic = "can lumber arena fortune vessel globe loud fortune genre web mushroom run";

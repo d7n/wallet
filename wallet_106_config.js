@@ -1,1 +1,1 @@
-var mnemonic = "clerk swift frown deer cigar crime advance company focus arrow expect neglect";
+var mnemonic = "copy cotton embark beyond renew inspire idea chase ice cliff weasel olive";

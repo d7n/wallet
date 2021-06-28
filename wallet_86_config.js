@@ -1,1 +1,1 @@
-var mnemonic = "office margin roof spoon wet matrix fade unique concert tank tell often";
+var mnemonic = "vintage gift portion decorate volume man raven tip raven purchase notice skate";

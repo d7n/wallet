@@ -1,1 +1,1 @@
-var mnemonic = "rice mean industry candy project latin video kitten humble animal endorse wild";
+var mnemonic = "retreat mesh indicate avoid distance cross scorpion model between iron mushroom skate";

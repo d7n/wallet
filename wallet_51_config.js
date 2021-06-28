@@ -1,1 +1,1 @@
-var mnemonic = "among giant diagram aspect soul will raise manage cube analyst act total";
+var mnemonic = "noise nut picnic unlock palace behave shed smooth wink snap pave this";

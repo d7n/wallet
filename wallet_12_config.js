@@ -1,1 +1,1 @@
-var mnemonic = "grocery multiply expose pyramid emerge shoulder there leg debate web wife happy";
+var mnemonic = "cigar august anchor bless earth arm stock immense connect million second edit";

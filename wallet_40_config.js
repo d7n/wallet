@@ -1,1 +1,1 @@
-var mnemonic = "spider thrive dad trick run toddler field opinion tiger daring health citizen";
+var mnemonic = "write machine cloud army over exchange orchard bacon like dinner cabin reopen";

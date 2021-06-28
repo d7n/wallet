@@ -1,1 +1,1 @@
-var mnemonic = "again kid resist jacket build shop unusual moment vehicle pencil nominee wing";
+var mnemonic = "stereo record trophy person witness nation tomato hidden soft shoot coral busy";

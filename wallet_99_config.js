@@ -1,1 +1,1 @@
-var mnemonic = "eight core major vicious hello differ wreck that glue slush silly amateur";
+var mnemonic = "galaxy multiply knee art infant sorry predict expect detail produce silk switch";

@@ -1,1 +1,1 @@
-var mnemonic = "quantum hammer guitar rent tuna tobacco success entire figure express silk check";
+var mnemonic = "very someone vacant buyer session private ancient tell demise swim brief humor";

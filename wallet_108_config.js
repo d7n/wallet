@@ -1,1 +1,1 @@
-var mnemonic = "alert tomorrow column share trouble whip speak impact plate fantasy tide pattern";
+var mnemonic = "parrot hazard jewel junk spawn rhythm turtle fitness pluck coral couch sound";

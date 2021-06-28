@@ -1,1 +1,1 @@
-var mnemonic = "razor race game annual shallow since dawn member lumber under like identify";
+var mnemonic = "awake very wonder awful prison book dress evidence inch faith coyote garden";

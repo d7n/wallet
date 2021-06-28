@@ -1,1 +1,1 @@
-var mnemonic = "slight orange dolphin joy network neck dream kick degree screen elder trophy";
+var mnemonic = "wrist odor left dash robust sweet coin change vendor broccoli call shine";

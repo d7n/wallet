@@ -1,1 +1,1 @@
-var mnemonic = "emerge wide clap sheriff battle decide service thought feature bullet until clay";
+var mnemonic = "nothing float prosper funny dove claim age spider champion frozen person patient";

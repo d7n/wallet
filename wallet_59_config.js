@@ -1,1 +1,1 @@
-var mnemonic = "broom lemon enact drama smile misery can adult result hold couch soap";
+var mnemonic = "cereal prevent turn lawsuit great bird radar scissors exhibit pool sphere cross";

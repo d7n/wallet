@@ -1,1 +1,1 @@
-var mnemonic = "life blossom lunar column simple deposit giant length there idea certain daring";
+var mnemonic = "body disagree trust timber sauce life sing dumb boost grain fog inhale";

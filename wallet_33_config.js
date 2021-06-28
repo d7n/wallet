@@ -1,1 +1,1 @@
-var mnemonic = "upper battle neither survey tackle main flower slogan fly alpha deal exile";
+var mnemonic = "guard yellow solid core present imitate cigar episode one million eyebrow drop";

@@ -1,1 +1,1 @@
-var mnemonic = "surface card fault there walk scout hungry spike screen knife around valve";
+var mnemonic = "hint deny mind shiver budget spread tide icon staff tent stairs cash";

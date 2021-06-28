@@ -1,1 +1,1 @@
-var mnemonic = "airport mountain kite spot inquiry loyal life agree review together celery venue";
+var mnemonic = "language drama radar ecology nice void venture youth wet craft peasant number";

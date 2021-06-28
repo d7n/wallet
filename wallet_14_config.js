@@ -1,1 +1,1 @@
-var mnemonic = "inner run tent child market harbor front mention tennis holiday slogan produce";
+var mnemonic = "spatial enhance coconut jazz remember salmon stumble spot leg car change peace";

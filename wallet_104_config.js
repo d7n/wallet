@@ -1,1 +1,1 @@
-var mnemonic = "wool lava load naive proof science mechanic filter tent point card drastic";
+var mnemonic = "royal solar math member floor upset wash stay banana prize session sadness";

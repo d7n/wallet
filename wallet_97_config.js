@@ -1,1 +1,1 @@
-var mnemonic = "display summer place universe where scissors method local common fatal liar snake";
+var mnemonic = "dial squirrel sword liquid bring shuffle enhance gift first girl taste pact";

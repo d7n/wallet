@@ -1,1 +1,1 @@
-var mnemonic = "amount ranch knee utility judge typical verify duty foil kid muffin reveal";
+var mnemonic = "riot laundry punch wire crunch add inch december hub axis pipe wedding";

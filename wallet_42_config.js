@@ -1,1 +1,1 @@
-var mnemonic = "frame access high virtual just bracket embody robust crew truth side dice";
+var mnemonic = "elegant risk motor simple lamp invite speak submit winner critic acid reason";

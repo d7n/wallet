@@ -1,1 +1,1 @@
-var mnemonic = "useless shrug inherit fabric tennis actual awful olympic index reveal day social";
+var mnemonic = "weather car balance snake panel analyst column amazing gun coconut forest horror";

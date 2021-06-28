@@ -1,1 +1,1 @@
-var mnemonic = "crop across squirrel first proud endless busy case east guide face item";
+var mnemonic = "machine kid mimic anxiety fringe hawk memory thank ivory symptom venue wait";

@@ -1,1 +1,1 @@
-var mnemonic = "pig black dizzy prosper split inside repair zebra swap abuse capable fossil";
+var mnemonic = "broom obtain candy design bar blossom blur unique fashion strong say shift";

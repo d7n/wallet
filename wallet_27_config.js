@@ -1,1 +1,1 @@
-var mnemonic = "suit cake shy nerve pride neglect dwarf apple obey pizza disease input";
+var mnemonic = "nice noodle extend shoot knock forum domain cave list sponsor nature subway";

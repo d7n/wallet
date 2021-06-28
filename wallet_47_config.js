@@ -1,1 +1,1 @@
-var mnemonic = "vivid shoulder clean rhythm copy van mask frame surge engine ride bench";
+var mnemonic = "trick stamp torch cement patient island acquire gossip rib settle champion cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "knife jump order slot shrimp entire panic piece unaware noble verify skirt";
+var mnemonic = "resemble april ecology brain render gate gown fringe rice junior cancel subway";

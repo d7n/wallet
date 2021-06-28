@@ -1,1 +1,1 @@
-var mnemonic = "detail ceiling flip few display forest act moon middle flame fix level";
+var mnemonic = "useless silk design bulb vessel original submit midnight flat find undo mango";

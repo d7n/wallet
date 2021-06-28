@@ -1,1 +1,1 @@
-var mnemonic = "celery morning cloth universe uncle call eager decade pill deputy quit coffee";
+var mnemonic = "clock delay section chaos skull brave wave amazing notable electric still post";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar aware thumb elbow crew seven pair glimpse manual sibling broom laugh";
+var mnemonic = "afraid ill regret foot pipe alarm cycle flight bomb market trip twice";

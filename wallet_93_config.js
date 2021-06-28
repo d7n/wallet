@@ -1,1 +1,1 @@
-var mnemonic = "fun exhaust usual motor tip license spray hidden box process fuel luggage";
+var mnemonic = "oven glance letter famous chunk bachelor health when soda regret soul rough";

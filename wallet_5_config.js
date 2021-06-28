@@ -1,1 +1,1 @@
-var mnemonic = "captain educate friend deal piece average rural assume endorse shoulder become dirt";
+var mnemonic = "armed various orbit tell roast blast fold throw major pluck popular very";

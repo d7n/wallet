@@ -1,1 +1,1 @@
-var mnemonic = "hard latin supply inner force lyrics hotel inform dad cabin heart solid";
+var mnemonic = "wish mushroom purse clap come element atom say picture regret fix gym";

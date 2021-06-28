@@ -1,1 +1,1 @@
-var mnemonic = "spring velvet tragic laugh recipe east absurd odor mother motor network ozone";
+var mnemonic = "able castle huge real hospital liberty volume account ignore pigeon trim attend";

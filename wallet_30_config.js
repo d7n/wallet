@@ -1,1 +1,1 @@
-var mnemonic = "school spread merit anxiety level nurse satoshi flip acid two bench impose";
+var mnemonic = "road gas bird cat mercy sibling swift veteran lamp shock mind spider";

@@ -1,1 +1,1 @@
-var mnemonic = "style avoid immune finish lazy mimic little drama bread number cost used";
+var mnemonic = "label bind era proof august salmon border upper danger priority daughter danger";

@@ -1,1 +1,1 @@
-var mnemonic = "genre stamp swear romance cruise easily diesel solve exhibit robust rapid exist";
+var mnemonic = "like lyrics exercise series demand animal moral iron arrange soon east help";

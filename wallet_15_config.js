@@ -1,1 +1,1 @@
-var mnemonic = "season filter humble damp choose fury spice business police clay mail quick";
+var mnemonic = "glow camp timber round attend canal nut artist talk goddess admit security";

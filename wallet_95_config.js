@@ -1,1 +1,1 @@
-var mnemonic = "long alley gold gravity cover same total world edge shy inside adjust";
+var mnemonic = "flavor clump twin best mixed powder analyst hedgehog alcohol olympic avocado hundred";

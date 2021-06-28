@@ -1,1 +1,1 @@
-var mnemonic = "fold flat bus topic civil force curtain start heavy vacant source family";
+var mnemonic = "arctic raven identify six connect miss skull celery able buzz strong example";

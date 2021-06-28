@@ -1,1 +1,1 @@
-var mnemonic = "gun rapid parent summer blame view claw myself item van analyst maze";
+var mnemonic = "deliver still deputy accident hollow impulse smart cheap yard dynamic bring casino";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow dolphin diary spike civil edit enforce evoke top stove tenant monitor";
+var mnemonic = "aspect ticket vault blur melody siege toe luxury dial peanut fitness where";

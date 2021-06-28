@@ -1,1 +1,1 @@
-var mnemonic = "guide basket awkward fade shed immense aunt film member smoke stem space";
+var mnemonic = "liquid violin emerge gas clog vacant story input inner fitness butter glove";

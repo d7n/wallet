@@ -1,1 +1,1 @@
-var mnemonic = "uniform misery economy subway neither happy enlist note problem rookie wife ocean";
+var mnemonic = "basic grocery harsh lunar wire marriage street answer crisp common weird whale";

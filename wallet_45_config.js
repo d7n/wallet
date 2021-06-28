@@ -1,1 +1,1 @@
-var mnemonic = "pear omit auction catalog flash sister destroy enhance robot zoo inform useless";
+var mnemonic = "unfold good scatter biology fiction invite grocery jealous pyramid street cabin limb";

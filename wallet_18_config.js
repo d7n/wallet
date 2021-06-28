@@ -1,1 +1,1 @@
-var mnemonic = "toilet attitude pink bag junk salmon pool final donor apple tip horn";
+var mnemonic = "winter blush apple news grain remember assist egg eternal eight mountain ribbon";

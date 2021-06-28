@@ -1,1 +1,1 @@
-var mnemonic = "sound cement fashion drill dune machine ice door fashion invite cheap orbit";
+var mnemonic = "sweet cannon margin hill south lumber harvest rocket tuition coffee valve illness";

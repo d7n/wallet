@@ -1,1 +1,1 @@
-var mnemonic = "blade runway journey color lawn glad vacant kitchen carpet detail payment enforce";
+var mnemonic = "today fix guard cargo guard audit top piece uphold wait crumble wave";

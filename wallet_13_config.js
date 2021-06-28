@@ -1,1 +1,1 @@
-var mnemonic = "begin deliver tissue movie market coin sponsor output dragon crowd crouch pass";
+var mnemonic = "agent exile flavor make blue hawk kangaroo guide derive tackle crime snack";

@@ -1,1 +1,1 @@
-var mnemonic = "sight teach jealous custom damage blue reform turtle return coach joy dream";
+var mnemonic = "toss van visit attitude nest minimum paper bright owner lava desk direct";

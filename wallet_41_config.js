@@ -1,1 +1,1 @@
-var mnemonic = "valid pair logic diagram damage drama toe parade slam smooth mammal source";
+var mnemonic = "galaxy habit bronze admit curtain absent side distance caught human tunnel envelope";

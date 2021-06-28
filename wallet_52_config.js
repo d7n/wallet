@@ -1,1 +1,1 @@
-var mnemonic = "ramp ostrich error soon shaft cupboard actual hurry immense faculty kangaroo verify";
+var mnemonic = "elevator wedding obey rare cabin spoon forum tool math obtain when hello";

@@ -1,1 +1,1 @@
-var mnemonic = "quote wink muscle broccoli chicken axis confirm february session uniform anchor address";
+var mnemonic = "drift aspect park bright champion two pledge spice develop frequent glide truly";

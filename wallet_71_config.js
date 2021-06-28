@@ -1,1 +1,1 @@
-var mnemonic = "fabric robot night pitch toast letter bacon mosquito depend sport radio topple";
+var mnemonic = "latin exercise staff giraffe tooth such blossom volume possible supply tribe cycle";

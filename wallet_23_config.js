@@ -1,1 +1,1 @@
-var mnemonic = "celery again keep problem lemon poem vivid sunny mix rapid expand govern";
+var mnemonic = "distance palace advance oppose antenna crunch network sing diet napkin during primary";

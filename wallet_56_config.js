@@ -1,1 +1,1 @@
-var mnemonic = "require clock timber brass taxi load woman base yard joy talent electric";
+var mnemonic = "where cheese blame fold special spy must afford apology twin build uniform";

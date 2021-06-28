@@ -1,1 +1,1 @@
-var mnemonic = "fancy twin tank simple umbrella ask work joy bless true filter day";
+var mnemonic = "wife cargo digital royal trophy join lonely antenna hidden reflect brick issue";

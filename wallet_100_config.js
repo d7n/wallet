@@ -1,1 +1,1 @@
-var mnemonic = "pass wood harvest element decade flee wisdom play garden tomorrow cross prize";
+var mnemonic = "trap awful private flame frown pledge quote bird bracket review twist when";

@@ -1,1 +1,1 @@
-var mnemonic = "vote label seven young destroy best floor twenty error prison agent call";
+var mnemonic = "taste awkward beyond surge can business proud bundle quantum van oak genuine";

@@ -1,1 +1,1 @@
-var mnemonic = "agree hedgehog dinosaur arrive capital present exhibit usage today copy manage brother";
+var mnemonic = "secret dance suit all nation emotion mass voyage mixture pull mammal solution";

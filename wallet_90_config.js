@@ -1,1 +1,1 @@
-var mnemonic = "gain suffer learn globe demise virtual shiver remind over recipe ticket exotic";
+var mnemonic = "pink doll relief bonus neglect mechanic art monitor pond seven sudden near";

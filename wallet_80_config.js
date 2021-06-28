@@ -1,1 +1,1 @@
-var mnemonic = "page reopen birth hedgehog rookie clutch day neck wise congress hope settle";
+var mnemonic = "cost travel wolf absorb pizza stay soap before catalog orange sting wonder";

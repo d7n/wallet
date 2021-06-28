@@ -1,1 +1,1 @@
-var mnemonic = "film dentist beach wasp omit tray stem reward sock border float runway";
+var mnemonic = "butter injury magic sting fire relax purpose emotion robust ripple garment motion";

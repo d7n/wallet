@@ -1,1 +1,1 @@
-var mnemonic = "much absent chunk float creek fly empty shrimp eager strategy ice mansion";
+var mnemonic = "forum satisfy document permit foot demise slam nerve favorite music adjust danger";

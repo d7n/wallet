@@ -1,1 +1,1 @@
-var mnemonic = "way eight victory pumpkin maid double salute solar aware prize wage chapter";
+var mnemonic = "obscure ostrich tomorrow license width travel grunt drum sunny february clean wheel";

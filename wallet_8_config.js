@@ -1,1 +1,1 @@
-var mnemonic = "vast frog cage glass genius remove refuse memory buzz suit smoke meat";
+var mnemonic = "nature bottom mushroom forum century regret forum replace satisfy rescue jazz system";

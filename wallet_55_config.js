@@ -1,1 +1,1 @@
-var mnemonic = "tower cigar artefact gift mercy weapon improve parent woman october kit sell";
+var mnemonic = "client feature nature tilt error limb daring absent situate devote shallow salon";

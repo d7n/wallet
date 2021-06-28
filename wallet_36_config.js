@@ -1,1 +1,1 @@
-var mnemonic = "summer pilot basket magnet consider brown cluster nuclear lecture earn banner core";
+var mnemonic = "identify rain digital chair autumn someone canyon stick virus plunge nasty unique";

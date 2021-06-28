@@ -1,1 +1,1 @@
-var mnemonic = "around fringe salmon mutual crunch settle relief version private much elite iron";
+var mnemonic = "capital curve clarify pear reflect borrow foot arena deer exit current stadium";

@@ -1,1 +1,1 @@
-var mnemonic = "basket chest ostrich weasel apology mushroom screen theory fault runway permit monkey";
+var mnemonic = "deer mansion talk front hat glory make fruit good kitten lounge live";

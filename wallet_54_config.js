@@ -1,1 +1,1 @@
-var mnemonic = "regular hammer type rabbit seed hen planet black derive stand scale agree";
+var mnemonic = "sunny ensure icon juice wide walnut limit game tail grief language kit";

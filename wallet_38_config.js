@@ -1,1 +1,1 @@
-var mnemonic = "kind fat size smooth music interest neutral fabric puzzle salmon horn boss";
+var mnemonic = "yellow absorb icon smooth tongue sure raw today stand lucky awake flock";

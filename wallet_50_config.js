@@ -1,1 +1,1 @@
-var mnemonic = "peanut ball east cushion notice skull laugh term pause anger actual taxi";
+var mnemonic = "name arena review menu kiss brown tray burst kite envelope burden suggest";

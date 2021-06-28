@@ -1,1 +1,1 @@
-var mnemonic = "peace leopard coyote sausage dirt output talent pudding salad hobby orbit range";
+var mnemonic = "ketchup recipe eye banana point razor juice mushroom risk force figure space";

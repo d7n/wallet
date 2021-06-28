@@ -1,1 +1,1 @@
-var mnemonic = "cage wedding dad inmate visual ankle era salon wide column mountain mechanic";
+var mnemonic = "crazy fox law fantasy flash swap adapt myself yellow bag spray risk";

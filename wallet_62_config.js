@@ -1,1 +1,1 @@
-var mnemonic = "square news arrange cycle member market finish example civil same offer secret";
+var mnemonic = "wise skull garden mimic swarm obscure speed gospel beyond allow timber palm";

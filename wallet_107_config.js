@@ -1,1 +1,1 @@
-var mnemonic = "coyote present kiwi behind drink cream charge inform leisure receive hungry hole";
+var mnemonic = "devote film cram wisdom cook rib buffalo vibrant depend cruise consider gate";

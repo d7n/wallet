@@ -1,1 +1,1 @@
-var mnemonic = "leisure maximum jealous fortune banana asset identify slush foster capital lemon car";
+var mnemonic = "supreme style donate animal clerk shield zero ski basic topic better hollow";

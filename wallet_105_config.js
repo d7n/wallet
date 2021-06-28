@@ -1,1 +1,1 @@
-var mnemonic = "twice unusual piece family whisper top busy rather phrase exhibit reflect reject";
+var mnemonic = "praise circle apart polar pet erase trash crucial shaft connect ghost explain";
