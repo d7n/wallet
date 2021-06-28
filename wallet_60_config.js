@@ -1,1 +1,1 @@
-var mnemonic = "gown dice actress champion thumb spin stomach outside glow suggest usual grunt";
+var mnemonic = "hazard eye away climb vacant vanish carpet blur furnace warfare assist cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "find keen differ warfare submit quiz hundred inner vague second output lunar";
+var mnemonic = "such sign toss cave ill scatter aware uncover easy rally alley wage";

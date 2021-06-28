@@ -1,1 +1,1 @@
-var mnemonic = "help hawk depth december sting april sort cable wine consider spoil crawl";
+var mnemonic = "define film dizzy raise gather tank slide area fun flush early must";

@@ -1,1 +1,1 @@
-var mnemonic = "grass morning split drift alarm anchor only screen bonus lumber small track";
+var mnemonic = "finish light slow saddle dismiss normal range champion short chunk sibling this";

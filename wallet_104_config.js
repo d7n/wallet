@@ -1,1 +1,1 @@
-var mnemonic = "chase wide cigar display tape essence inner panther rescue search unit buzz";
+var mnemonic = "soon crew change broccoli lonely pulp retire water sail fold athlete elegant";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow wine harvest hotel learn head attract roof wood glance depth ivory";
+var mnemonic = "sauce help worth program stereo soup govern simple caution author lucky circle";

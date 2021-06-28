@@ -1,1 +1,1 @@
-var mnemonic = "finger blood ice error donate allow despair myself board joke loud kite";
+var mnemonic = "pyramid luxury miss pet fiction frown forum quick fever pride exchange dust";

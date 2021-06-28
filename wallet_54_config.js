@@ -1,1 +1,1 @@
-var mnemonic = "affair fever tail bring spin story still wife swap stand noise admit";
+var mnemonic = "boost ketchup lab veteran tower amazing course deny jacket dash hill swim";

@@ -1,1 +1,1 @@
-var mnemonic = "what birth able visual enforce practice current lift royal hood gloom business";
+var mnemonic = "afraid employ invest nasty echo frown kingdom crush print buzz stove palace";

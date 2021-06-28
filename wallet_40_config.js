@@ -1,1 +1,1 @@
-var mnemonic = "blossom juice usage mushroom erase salad diet sleep trophy allow margin choose";
+var mnemonic = "shell cash network gadget luggage job behave curve position hill sing wheat";

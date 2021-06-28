@@ -1,1 +1,1 @@
-var mnemonic = "abuse sound ketchup faculty envelope pull inch pilot upset spell balance approve";
+var mnemonic = "put door crouch because add atom private dragon helmet grow what foot";

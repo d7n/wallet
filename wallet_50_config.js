@@ -1,1 +1,1 @@
-var mnemonic = "dirt gospel bridge amateur winter sick scan hurdle position knee track enrich";
+var mnemonic = "belt hole near venture fantasy shock mistake body couch often april security";

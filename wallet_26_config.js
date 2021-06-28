@@ -1,1 +1,1 @@
-var mnemonic = "toss soup aisle fog zero evidence old bomb vital squeeze panel coffee";
+var mnemonic = "outer team wire document nose repair earth book notice ball diary height";

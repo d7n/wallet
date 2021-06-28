@@ -1,1 +1,1 @@
-var mnemonic = "smile clutch protect indoor floor prevent foot inside saddle humble reject noise";
+var mnemonic = "limb volcano soft spatial move defense beach weekend mask already frost twelve";

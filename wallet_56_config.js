@@ -1,1 +1,1 @@
-var mnemonic = "debate wine surprise invite cute wolf august night brave canoe game upgrade";
+var mnemonic = "organ mutual satoshi level cave blame moral mass crystal clump tuna horse";

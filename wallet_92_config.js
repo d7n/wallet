@@ -1,1 +1,1 @@
-var mnemonic = "drop loud finger always brand market smooth squirrel effort pottery only veteran";
+var mnemonic = "endless dose tool undo boat save weapon exist bonus dish betray perfect";

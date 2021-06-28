@@ -1,1 +1,1 @@
-var mnemonic = "force length act category bundle mushroom subway extend bomb law tent debate";
+var mnemonic = "cube razor real punch keen ensure course resemble relief topple carry broken";

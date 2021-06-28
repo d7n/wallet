@@ -1,1 +1,1 @@
-var mnemonic = "squeeze unlock alarm baby member purpose immune royal priority artefact network empower";
+var mnemonic = "menu demise gift churn ocean vital faculty giggle spider shrimp scene suggest";

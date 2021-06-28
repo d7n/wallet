@@ -1,1 +1,1 @@
-var mnemonic = "symptom square symbol pipe brave fabric fancy leader wrap pear royal uphold";
+var mnemonic = "sleep such chef because seat coyote miracle hockey deer trade output kind";

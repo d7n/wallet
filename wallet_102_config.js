@@ -1,1 +1,1 @@
-var mnemonic = "sense fever renew ability lesson noodle review bread august federal orphan step";
+var mnemonic = "garbage adjust champion tree royal drop inmate empty pool chuckle boring bargain";

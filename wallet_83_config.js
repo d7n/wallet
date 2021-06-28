@@ -1,1 +1,1 @@
-var mnemonic = "palace weather truth satoshi sell fame purity visa denial bundle like swim";
+var mnemonic = "opera alarm twin crazy work upper novel prosper soon phrase angry tenant";

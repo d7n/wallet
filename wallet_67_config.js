@@ -1,1 +1,1 @@
-var mnemonic = "write menu elegant leave spin minor few snow ordinary attend poem unknown";
+var mnemonic = "base space embark joke silly wing giggle scheme captain simple toilet make";

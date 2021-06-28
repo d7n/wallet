@@ -1,1 +1,1 @@
-var mnemonic = "deny grow will curtain very head rice legal simple fit prevent mercy";
+var mnemonic = "match dawn become drive upset august cube seat month cake flower fiscal";

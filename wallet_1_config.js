@@ -1,1 +1,1 @@
-var mnemonic = "vital ask engage wagon forward stove gallery naive parrot shift ticket dentist";
+var mnemonic = "mechanic bread oven august famous problem always crater spirit palace eight asset";

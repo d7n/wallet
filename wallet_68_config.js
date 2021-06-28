@@ -1,1 +1,1 @@
-var mnemonic = "mean alley market huge wreck coil aisle diamond excuse crash romance modify";
+var mnemonic = "neither trumpet stove occur puppy maze refuse trumpet buyer ancient sorry kind";

@@ -1,1 +1,1 @@
-var mnemonic = "secret slot flame crouch exchange second poem defense wisdom explain innocent pact";
+var mnemonic = "rule winner blade pudding cloud degree truth quantum ship view crane wheel";

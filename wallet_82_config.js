@@ -1,1 +1,1 @@
-var mnemonic = "radio false steel shift avoid holiday enroll resist slim cabin blast issue";
+var mnemonic = "flavor obvious number spray air hint number primary tilt mirror believe reopen";

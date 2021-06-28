@@ -1,1 +1,1 @@
-var mnemonic = "apart daring select grace magnet shiver grain improve involve puzzle cram eyebrow";
+var mnemonic = "cloth day ready timber system amazing oven direct pizza blame faint wood";

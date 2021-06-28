@@ -1,1 +1,1 @@
-var mnemonic = "bean spider equip warfare food dial core fiction potato dismiss smoke alcohol";
+var mnemonic = "rebuild output endless project maximum lake section gesture crunch rapid camp toast";

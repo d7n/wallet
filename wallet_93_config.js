@@ -1,1 +1,1 @@
-var mnemonic = "gas subject find test copper cage regret proud parade clever jaguar kind";
+var mnemonic = "glare long expire broom hint tomato family fatal fold beauty bacon crack";

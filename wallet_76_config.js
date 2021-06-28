@@ -1,1 +1,1 @@
-var mnemonic = "verb shove dial run shiver banana woman screen fossil entire reflect kite";
+var mnemonic = "bunker light mule crucial base stumble leopard enhance cat execute giant hazard";

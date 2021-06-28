@@ -1,1 +1,1 @@
-var mnemonic = "nominee vintage select search lonely wine employ settle unknown expire great sand";
+var mnemonic = "pulp much tool tail lemon town unlock copy green once salt fish";

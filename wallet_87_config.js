@@ -1,1 +1,1 @@
-var mnemonic = "blush flee such loop afford pig lounge market ensure resist blossom love";
+var mnemonic = "assume pulp ivory fossil uncle mass find lucky occur afraid moon awake";

@@ -1,1 +1,1 @@
-var mnemonic = "punch mosquito around lucky hill sting run rotate erode conduct scorpion path";
+var mnemonic = "chapter tongue student orchard surge pig subject initial follow divorce certain amateur";

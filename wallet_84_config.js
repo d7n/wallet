@@ -1,1 +1,1 @@
-var mnemonic = "neck fantasy eager strike method resist famous picnic plastic dismiss cotton shoulder";
+var mnemonic = "kitten artefact unable stomach random blouse edge welcome boost wave bind embark";

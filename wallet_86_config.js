@@ -1,1 +1,1 @@
-var mnemonic = "object fabric demand long chimney tomorrow festival topic scorpion shaft guess quantum";
+var mnemonic = "bird van apart oval mother prison face buffalo found zone dream noble";

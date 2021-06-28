@@ -1,1 +1,1 @@
-var mnemonic = "comfort fold science bless pool shrimp top next idea develop hub fade";
+var mnemonic = "rebel opera scheme warm penalty swamp token rice average height possible castle";

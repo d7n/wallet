@@ -1,1 +1,1 @@
-var mnemonic = "pulp angle rack organ notable violin bachelor stuff office armed boost humor";
+var mnemonic = "pottery law honey between aerobic insane mistake farm sudden safe stand ordinary";

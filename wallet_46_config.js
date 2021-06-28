@@ -1,1 +1,1 @@
-var mnemonic = "lamp punch horse sauce list loop off goat moral pizza sugar unknown";
+var mnemonic = "nest fat damp monster dinosaur deputy vanish idea fly planet possible animal";

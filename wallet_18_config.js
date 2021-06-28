@@ -1,1 +1,1 @@
-var mnemonic = "skill theme biology machine crater cat bleak long moral rigid dynamic wisdom";
+var mnemonic = "distance derive paper shed grocery prepare verb actor slow laugh pizza govern";

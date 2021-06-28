@@ -1,1 +1,1 @@
-var mnemonic = "segment lottery plastic nut exist purpose raw awful hip net skin smooth";
+var mnemonic = "conduct artist demand bean twist tone weasel coffee portion surprise drive volume";

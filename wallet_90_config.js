@@ -1,1 +1,1 @@
-var mnemonic = "return trick lobster ring mesh snap little parent concert crunch jar outer";
+var mnemonic = "charge coin spare quick virus gym message tiger dish mosquito trigger when";

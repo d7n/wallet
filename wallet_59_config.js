@@ -1,1 +1,1 @@
-var mnemonic = "polar top board risk video satisfy village chimney coffee usage stand such";
+var mnemonic = "laugh average stick envelope gift finger dash hill flash dice bean style";

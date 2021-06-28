@@ -1,1 +1,1 @@
-var mnemonic = "axis tiny legend neither grape treat skill actual nature wrap horn pave";
+var mnemonic = "eye lesson coil before unknown tunnel normal hospital kite chef print tone";

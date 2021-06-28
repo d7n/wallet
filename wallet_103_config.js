@@ -1,1 +1,1 @@
-var mnemonic = "merge skate wrist identify novel space junk blast spot random roast duck";
+var mnemonic = "level nasty seven salute glow urge isolate slogan neutral visit anger orient";

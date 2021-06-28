@@ -1,1 +1,1 @@
-var mnemonic = "swing catch multiply lucky trophy helmet blame fall laptop pole piano report";
+var mnemonic = "velvet kiss noodle yard small hurry coach vintage hood poem rude fluid";

@@ -1,1 +1,1 @@
-var mnemonic = "verify hurt decorate hospital aerobic steak problem edge fold trim predict burger";
+var mnemonic = "predict photo spy century analyst clerk side injury movie april ordinary cook";

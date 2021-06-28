@@ -1,1 +1,1 @@
-var mnemonic = "common sustain return thrive custom immune awful breeze awkward sauce simple either";
+var mnemonic = "ginger sauce minute east spike dinosaur pigeon rural middle ribbon movie rude";

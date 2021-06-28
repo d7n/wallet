@@ -1,1 +1,1 @@
-var mnemonic = "melody hockey million holiday music drift decade very drastic song patch connect";
+var mnemonic = "grief trophy coast sponsor exact tourist narrow timber warfare victory admit hundred";

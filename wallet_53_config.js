@@ -1,1 +1,1 @@
-var mnemonic = "elder cannon lab monkey account kangaroo prize gym black step joke scheme";
+var mnemonic = "bamboo task select sphere box assist extend scout lend tiger farm desert";

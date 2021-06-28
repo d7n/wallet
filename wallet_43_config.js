@@ -1,1 +1,1 @@
-var mnemonic = "breeze blue burger fold scheme recipe bid segment april uniform usage clarify";
+var mnemonic = "hybrid aisle general liquid grain reunion victory pond right issue armor alert";

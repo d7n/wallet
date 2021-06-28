@@ -1,1 +1,1 @@
-var mnemonic = "market crazy jealous gain easily annual visa system car gallery pool begin";
+var mnemonic = "buyer two palm unknown salt perfect summer dad render cook tortoise tube";

@@ -1,1 +1,1 @@
-var mnemonic = "north always uniform marine message under ignore common motor disorder pole neither";
+var mnemonic = "page inner dice march twist verb derive lamp sense inherit course someone";

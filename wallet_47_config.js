@@ -1,1 +1,1 @@
-var mnemonic = "keen parent enroll coral voice matrix breeze scare lizard reunion tail pretty";
+var mnemonic = "improve raccoon drill alpha liberty mistake reform address fuel potato deliver blouse";

@@ -1,1 +1,1 @@
-var mnemonic = "path merit muffin tired pencil glory display industry dismiss decline isolate husband";
+var mnemonic = "win bundle unique arrest check record until inmate large sort lemon mammal";

@@ -1,1 +1,1 @@
-var mnemonic = "outside parrot wagon elevator couple resource kidney message dentist poem caution laptop";
+var mnemonic = "involve debris clever siren swarm clap client olympic pluck cotton uncover huge";

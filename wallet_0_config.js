@@ -1,1 +1,1 @@
-var mnemonic = "stereo sense pigeon double rally produce gesture poet leg friend mansion upgrade";
+var mnemonic = "essence few absorb soup six mask mouse gasp pyramid fork extend letter";

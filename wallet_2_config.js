@@ -1,1 +1,1 @@
-var mnemonic = "laptop wrist faith satisfy section punch thank figure august south rice another";
+var mnemonic = "damp hurry cherry gift muscle settle payment inhale vicious broom juice stem";

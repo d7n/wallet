@@ -1,1 +1,1 @@
-var mnemonic = "link wine rocket syrup vast cricket hurdle alpha caution begin flight enjoy";
+var mnemonic = "grid snack silk indicate gospel cotton caught mushroom play rare robust neutral";

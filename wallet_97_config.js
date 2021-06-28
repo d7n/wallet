@@ -1,1 +1,1 @@
-var mnemonic = "derive lock prosper install steel dream velvet mushroom merge lobster purpose return";
+var mnemonic = "movie truly nasty left build noble mule column salmon view churn life";

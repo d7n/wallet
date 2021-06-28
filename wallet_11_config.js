@@ -1,1 +1,1 @@
-var mnemonic = "kidney cover asset reason sadness husband idle village attitude muffin write august";
+var mnemonic = "work loan retreat any enforce script vibrant course bonus aim develop idea";

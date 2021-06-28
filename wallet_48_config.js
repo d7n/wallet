@@ -1,1 +1,1 @@
-var mnemonic = "hire elephant cloth green tower talk veteran woman century guide employ learn";
+var mnemonic = "together pizza direct isolate gift tomorrow mad dog spawn laptop phone spoon";

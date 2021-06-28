@@ -1,1 +1,1 @@
-var mnemonic = "void piece maid what ceiling current during vehicle awkward taxi orchard torch";
+var mnemonic = "spawn fish brain minimum pill tell skull choose code load bird this";

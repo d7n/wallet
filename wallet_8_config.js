@@ -1,1 +1,1 @@
-var mnemonic = "regret music time awkward tired equip junk vehicle clever sample recall pigeon";
+var mnemonic = "message they fade inquiry project ritual alone celery dial desk worry fork";

@@ -1,1 +1,1 @@
-var mnemonic = "trim oxygen tilt coast hold possible gadget artwork rebel segment parrot attract";
+var mnemonic = "shaft desk gauge wolf cave document rain road timber jewel excess evoke";

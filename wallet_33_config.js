@@ -1,1 +1,1 @@
-var mnemonic = "street stomach burden loyal skin casual allow stuff sword corn fever rocket";
+var mnemonic = "drive heavy sword genre light mandate brand solid occur mouse truck unique";

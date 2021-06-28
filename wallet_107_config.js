@@ -1,1 +1,1 @@
-var mnemonic = "eye unique base eternal tornado night primary pencil desert save blame burden";
+var mnemonic = "ugly mix hub fog cross violin message mail best fluid plastic valid";

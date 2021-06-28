@@ -1,1 +1,1 @@
-var mnemonic = "assume joke guard together local vocal choice program ride kingdom elder radio";
+var mnemonic = "column record mouse moment problem lamp primary kiwi dwarf depart real immense";

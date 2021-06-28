@@ -1,1 +1,1 @@
-var mnemonic = "reward various unlock course write account skull ready wealth scare warfare nurse";
+var mnemonic = "upset time snack alone lion boring club march system sauce crowd wet";

@@ -1,1 +1,1 @@
-var mnemonic = "effort begin van antenna garlic ostrich luxury second today ketchup simple vintage";
+var mnemonic = "toilet yellow december coach velvet square gather ramp sting hello grace seven";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow lesson priority forget legal debris leader clinic shy cube gun eager";
+var mnemonic = "stairs simple cherry unfold lesson organ roast lion leave volume portion shoe";

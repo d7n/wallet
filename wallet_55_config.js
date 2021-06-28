@@ -1,1 +1,1 @@
-var mnemonic = "enforce eye riot visit relax imitate shy piano announce before sadness sad";
+var mnemonic = "rapid notable spoon cluster spare unfair secret action absurd shield charge mixture";

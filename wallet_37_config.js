@@ -1,1 +1,1 @@
-var mnemonic = "dose grace admit satisfy random network bundle ready emerge harvest estate admit";
+var mnemonic = "gas pear circle symptom oval ten picture myth alcohol lab aunt tattoo";

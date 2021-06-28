@@ -1,1 +1,1 @@
-var mnemonic = "laundry chair shell then hour install day runway original party animal ugly";
+var mnemonic = "reveal game party antenna essence century example reward wide black flip used";

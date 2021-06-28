@@ -1,1 +1,1 @@
-var mnemonic = "action secret parrot saddle artist wink page excess manage early inflict cause";
+var mnemonic = "blur eagle finish bounce sunny trophy polar matrix click silver utility stove";

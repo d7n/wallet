@@ -1,1 +1,1 @@
-var mnemonic = "hip panther twist admit discover bargain arrest buddy write load exercise sheriff";
+var mnemonic = "below kiss picture moon sand tilt practice essay screen diesel nothing soon";

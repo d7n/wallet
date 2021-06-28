@@ -1,1 +1,1 @@
-var mnemonic = "exercise first burger orbit buffalo melody girl hood fee impose accuse cereal";
+var mnemonic = "veteran purchase street head wife online absent business cost swift onion robust";

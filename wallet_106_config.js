@@ -1,1 +1,1 @@
-var mnemonic = "consider friend major ask disorder away give three drum hobby pigeon when";
+var mnemonic = "wait endorse hockey property shock company right emerge only magnet liar arch";

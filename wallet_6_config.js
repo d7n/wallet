@@ -1,1 +1,1 @@
-var mnemonic = "torch mirror execute mention prevent dial appear warrior must agree hurdle will";
+var mnemonic = "plunge unaware salmon vault piece boil bicycle section drastic siege trial frequent";

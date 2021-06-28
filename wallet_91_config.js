@@ -1,1 +1,1 @@
-var mnemonic = "depend limit ripple three position exist issue brand icon tip flush soda";
+var mnemonic = "violin find select panic people cinnamon such rally debris soap tissue amazing";

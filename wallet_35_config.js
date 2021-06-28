@@ -1,1 +1,1 @@
-var mnemonic = "cage panic marriage sweet market shop normal little gap shop special another";
+var mnemonic = "glance embrace sibling choose animal safe purchase genre evil cargo work advice";

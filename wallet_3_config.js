@@ -1,1 +1,1 @@
-var mnemonic = "venue mouse salad spoil cost portion wasp assist rigid dynamic rally liberty";
+var mnemonic = "tape option symptom ankle divorce phone visit will swallow dilemma safe copper";

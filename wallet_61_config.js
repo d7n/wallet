@@ -1,1 +1,1 @@
-var mnemonic = "squeeze sand benefit love senior style slow time syrup grab solid clever";
+var mnemonic = "mad eternal pulse pipe develop chuckle obvious confirm damage abandon foot column";

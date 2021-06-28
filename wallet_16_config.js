@@ -1,1 +1,1 @@
-var mnemonic = "narrow sport unveil hotel figure round rely donkey wheel material pig doll";
+var mnemonic = "bitter summer display divorce join advice transfer trip solve seat clown name";

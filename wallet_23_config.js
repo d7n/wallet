@@ -1,1 +1,1 @@
-var mnemonic = "alone ostrich carbon leopard prize view south more silly trouble scale sugar";
+var mnemonic = "record beef bachelor audit never champion settle green assist gather tonight cream";

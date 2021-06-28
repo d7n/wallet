@@ -1,1 +1,1 @@
-var mnemonic = "example glare female nominee panel kiss merit shift find cram toilet mimic";
+var mnemonic = "cross habit rival fetch seek sweet ensure depth aisle race present faith";

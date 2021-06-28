@@ -1,1 +1,1 @@
-var mnemonic = "paper goddess autumn lecture moment infant seek jar universe output sentence right";
+var mnemonic = "hurdle know mixed barrel aunt spray ranch fatigue dentist believe sport army";

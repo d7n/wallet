@@ -1,1 +1,1 @@
-var mnemonic = "supreme inner inject catch fire shoe van luxury sort member shove urban";
+var mnemonic = "level creek toast motion quick piano metal winter lottery rival raw gap";

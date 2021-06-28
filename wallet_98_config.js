@@ -1,1 +1,1 @@
-var mnemonic = "print load medal anxiety method surprise physical lobster since brush claw bicycle";
+var mnemonic = "true vocal all just seat grain group file mention sea uncover cycle";
