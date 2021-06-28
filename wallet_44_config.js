@@ -1,1 +1,1 @@
-var mnemonic = "forget staff decrease survey bracket pipe treat sweet pyramid awkward adapt love";
+var mnemonic = "family night above half tower ginger flush index grunt clown tree cool";

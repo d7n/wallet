@@ -1,1 +1,1 @@
-var mnemonic = "glad cinnamon twenty chicken accuse august place vital lazy country resemble grief";
+var mnemonic = "flee ribbon spend crane seek humor butter good rare notable milk picnic";

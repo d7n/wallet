@@ -1,1 +1,1 @@
-var mnemonic = "head kite confirm reject sadness volcano supreme season middle rain lunar almost";
+var mnemonic = "step mobile tennis saddle solar avoid orient rough undo hole skull fringe";

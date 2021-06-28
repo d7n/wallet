@@ -1,1 +1,1 @@
-var mnemonic = "weapon noble erosion save bless window cost vault parent cave legal boring";
+var mnemonic = "sun buyer salute push appear access voice extend cruel leader worry crowd";

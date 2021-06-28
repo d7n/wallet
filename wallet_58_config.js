@@ -1,1 +1,1 @@
-var mnemonic = "beyond zero stem media grace second now dentist decade panda body ready";
+var mnemonic = "cargo start moral helmet copy soup miracle legend rely sketch usage claw";

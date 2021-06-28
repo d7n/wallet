@@ -1,1 +1,1 @@
-var mnemonic = "return bounce impose country polar joke normal able trial certain strategy census";
+var mnemonic = "mimic climb hurdle recall disorder arm tattoo virtual patrol public helmet scan";

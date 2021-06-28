@@ -1,1 +1,1 @@
-var mnemonic = "fuel inner aerobic belt ribbon unveil crowd verb improve snack hint tray";
+var mnemonic = "report lamp earn art wedding alone donate nothing zone insane laptop sketch";

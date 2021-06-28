@@ -1,1 +1,1 @@
-var mnemonic = "barely large there view identify sunny weird puppy outer mountain history kick";
+var mnemonic = "evolve coral state curtain ignore medal suggest problem rocket swarm skate test";

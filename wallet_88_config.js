@@ -1,1 +1,1 @@
-var mnemonic = "liberty panel defense ceiling carry model night deposit potato wine hover verify";
+var mnemonic = "typical annual blossom furnace weapon practice legend orange word extend style notable";

@@ -1,1 +1,1 @@
-var mnemonic = "sponsor valve issue wall notable horn fee sentence punch skin laptop learn";
+var mnemonic = "fine turn wasp humble inform spice brave april method metal curve market";

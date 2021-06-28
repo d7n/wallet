@@ -1,1 +1,1 @@
-var mnemonic = "ribbon royal fork innocent cat fee speed pause double section jewel ancient";
+var mnemonic = "foot pond day then space beauty net cash december fee whip donor";

@@ -1,1 +1,1 @@
-var mnemonic = "crew gift suggest artist buyer wheat view drum useless team orchard surprise";
+var mnemonic = "angry mimic sentence sock neck ostrich admit gun hub denial dune damage";

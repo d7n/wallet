@@ -1,1 +1,1 @@
-var mnemonic = "easy pole must defy fringe immense blouse doll olive oblige cloud name";
+var mnemonic = "agree drop around subject tooth enter kingdom parent either false paper title";

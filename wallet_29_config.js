@@ -1,1 +1,1 @@
-var mnemonic = "notable shallow custom doll bag panic title retreat turtle accuse visa gift";
+var mnemonic = "behind add wink alien jaguar shine exercise swallow virtual social march congress";

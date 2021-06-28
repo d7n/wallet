@@ -1,1 +1,1 @@
-var mnemonic = "shoe unit finger duty iron exist trade repeat come tray narrow question";
+var mnemonic = "reduce display alcohol hint title shift visit pattern fork tail cabin embrace";

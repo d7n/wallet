@@ -1,1 +1,1 @@
-var mnemonic = "victory tornado width exact recall cereal ask play silent behave rich alert";
+var mnemonic = "master thought slender palace mountain grocery amount science trim crush picnic job";

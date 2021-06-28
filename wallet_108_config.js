@@ -1,1 +1,1 @@
-var mnemonic = "admit hobby rocket erosion kit cost whip remain dolphin focus bicycle note";
+var mnemonic = "raccoon flame alert puppy short unfair never only receive glue allow device";

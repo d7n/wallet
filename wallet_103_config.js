@@ -1,1 +1,1 @@
-var mnemonic = "source industry sting genius lobster private betray amateur away insane never service";
+var mnemonic = "afford peasant escape acid hill fortune remember awkward arrest slot gospel action";

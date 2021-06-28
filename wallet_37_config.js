@@ -1,1 +1,1 @@
-var mnemonic = "opera olympic senior cable notice bracket month expect ozone travel prison cousin";
+var mnemonic = "section warm gospel economy execute hurry discover avoid dance bridge kangaroo wild";

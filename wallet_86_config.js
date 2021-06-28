@@ -1,1 +1,1 @@
-var mnemonic = "frog spawn ghost keep cube praise door parrot indoor inquiry width glad";
+var mnemonic = "mistake surprise pizza vocal dirt hello region announce melody stamp wage legend";

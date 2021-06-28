@@ -1,1 +1,1 @@
-var mnemonic = "spend ill cruise nurse fall glove awesome property travel amateur fiber output";
+var mnemonic = "marine solid hip buyer inform genre digital special conduct human pyramid tomato";

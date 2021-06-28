@@ -1,1 +1,1 @@
-var mnemonic = "modify border leaf minor hawk tonight blanket patch defy short wash forum";
+var mnemonic = "ribbon satisfy luggage valve isolate dragon tank evidence timber broom skill box";

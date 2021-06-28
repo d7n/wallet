@@ -1,1 +1,1 @@
-var mnemonic = "buzz sing alert degree top umbrella clown mercy allow water boy pet";
+var mnemonic = "hawk alarm example zoo indoor knife spike build spend table defy ugly";

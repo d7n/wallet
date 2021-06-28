@@ -1,1 +1,1 @@
-var mnemonic = "document fun require logic certain cram index spend moment steel way polar";
+var mnemonic = "shallow rose essence leave genre aunt april tool vicious answer soon rib";

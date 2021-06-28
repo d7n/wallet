@@ -1,1 +1,1 @@
-var mnemonic = "bachelor bonus slogan where alcohol off axis invite burst utility flash emotion";
+var mnemonic = "kid mesh weather defense profit draft cactus expand stool walk liberty supply";

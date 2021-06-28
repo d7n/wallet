@@ -1,1 +1,1 @@
-var mnemonic = "hole peanut wild abandon rocket burden just cement accident dove vanish lecture";
+var mnemonic = "notice direct brief usage flag volume copy retreat test wheat sheriff aim";

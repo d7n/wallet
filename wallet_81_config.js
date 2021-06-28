@@ -1,1 +1,1 @@
-var mnemonic = "hospital evidence reopen control because gauge vanish coral manage million oppose undo";
+var mnemonic = "century field admit tide uncover subject choose possible twelve anchor require trust";

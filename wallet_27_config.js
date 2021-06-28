@@ -1,1 +1,1 @@
-var mnemonic = "pitch spice drift cousin find inside vast blast wisdom south blind fluid";
+var mnemonic = "asset tissue tone series disease struggle bone alpha able demise rose when";

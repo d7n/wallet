@@ -1,1 +1,1 @@
-var mnemonic = "sponsor radio twenty shoe bubble settle industry woman step virtual loyal inch";
+var mnemonic = "catalog current law early balance error voice surge range street tornado creek";

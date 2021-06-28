@@ -1,1 +1,1 @@
-var mnemonic = "inquiry barely debate maximum pulp aspect mutual mandate fantasy minute virtual garlic";
+var mnemonic = "shop nephew mystery alarm diamond orbit private miss spin south high damp";

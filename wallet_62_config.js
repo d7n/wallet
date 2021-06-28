@@ -1,1 +1,1 @@
-var mnemonic = "rate scheme wrist intact guess dry apart melt code vanish physical gesture";
+var mnemonic = "whip fatal crop year rent inquiry verb push run either curve put";

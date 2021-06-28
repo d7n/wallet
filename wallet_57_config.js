@@ -1,1 +1,1 @@
-var mnemonic = "give spice fragile any perfect attack tenant entire custom allow basket enforce";
+var mnemonic = "pact maze noodle system wing next rocket frozen course fork kiss stuff";

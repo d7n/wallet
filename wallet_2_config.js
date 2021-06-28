@@ -1,1 +1,1 @@
-var mnemonic = "broom strike decrease cruise craft monster marriage flag tilt one amused million";
+var mnemonic = "asset eager develop lamp excite foot boss cupboard sure couch castle cook";

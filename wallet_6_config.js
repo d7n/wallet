@@ -1,1 +1,1 @@
-var mnemonic = "outer opinion water soap record team autumn horror slogan bulb crouch sadness";
+var mnemonic = "injury oblige buddy animal unique rare romance pulse cool matrix shine biology";

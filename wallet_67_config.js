@@ -1,1 +1,1 @@
-var mnemonic = "refuse token vivid tooth survey smooth trumpet border antique scatter frost lake";
+var mnemonic = "march say idea van thrive wife toilet busy search issue sheriff stem";

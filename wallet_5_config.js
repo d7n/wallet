@@ -1,1 +1,1 @@
-var mnemonic = "glory glow front select jaguar grief lunch secret name claim pulse usual";
+var mnemonic = "where path clean aunt cannon buzz journey half enforce glory latin evolve";

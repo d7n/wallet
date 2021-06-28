@@ -1,1 +1,1 @@
-var mnemonic = "song boat crouch candy tail actor dog nose table sibling open pact";
+var mnemonic = "satoshi help basket honey alarm elite limb leopard toe vote crack shoe";

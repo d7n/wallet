@@ -1,1 +1,1 @@
-var mnemonic = "reduce benefit potato someone seek hurry uphold staff noise charge fat tank";
+var mnemonic = "little speak evil valid maze now board green dumb shiver author turn";

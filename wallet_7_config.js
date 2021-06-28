@@ -1,1 +1,1 @@
-var mnemonic = "oyster ridge almost very second loan excuse donkey enemy hub once area";
+var mnemonic = "siege pear wood galaxy forum wear this syrup three travel bamboo upper";

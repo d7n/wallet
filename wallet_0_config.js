@@ -1,1 +1,1 @@
-var mnemonic = "buddy hood left mail endless cabbage fiscal myself hold segment pioneer keep";
+var mnemonic = "opera carpet farm blame bus chaos dignity cancel cotton filter direct neutral";

@@ -1,1 +1,1 @@
-var mnemonic = "champion grow response position assault priority present onion smart document clip parrot";
+var mnemonic = "mercy lemon muffin frequent just venture father leg burger turn clerk flower";

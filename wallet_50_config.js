@@ -1,1 +1,1 @@
-var mnemonic = "three popular when nasty century fog guard stamp normal define loud width";
+var mnemonic = "engage floor echo empower judge much old message grape mushroom weapon bright";

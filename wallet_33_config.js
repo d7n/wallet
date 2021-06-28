@@ -1,1 +1,1 @@
-var mnemonic = "come runway exist peanut rebel upper quantum chest humble knee example fall";
+var mnemonic = "slight physical vivid display fiction marine plate three negative attitude liar language";

@@ -1,1 +1,1 @@
-var mnemonic = "tree wonder vital can cargo voice skill fix dream base vital left";
+var mnemonic = "audit coach assist home race shiver story onion expose sell wheel this";

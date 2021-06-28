@@ -1,1 +1,1 @@
-var mnemonic = "silk century casino fossil produce deputy return predict pair common income nature";
+var mnemonic = "reward devote race anxiety tail fault calm earth bracket budget science near";

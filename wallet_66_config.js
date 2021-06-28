@@ -1,1 +1,1 @@
-var mnemonic = "arrest power snack color circle police protect still jewel invite iron farm";
+var mnemonic = "electric fence special easy want radar stand drive predict answer melody quick";

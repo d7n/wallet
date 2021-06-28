@@ -1,1 +1,1 @@
-var mnemonic = "topic universe double comfort swap denial group scatter kitchen insane utility pumpkin";
+var mnemonic = "pride target project mix wave impulse have toast slim lazy twin east";

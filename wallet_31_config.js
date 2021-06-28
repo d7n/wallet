@@ -1,1 +1,1 @@
-var mnemonic = "wrong citizen chest diamond around flip object surge net glow wool hollow";
+var mnemonic = "ship leg soap gown gun link vacant buyer milk ski banana reunion";

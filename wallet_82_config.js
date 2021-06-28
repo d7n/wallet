@@ -1,1 +1,1 @@
-var mnemonic = "alone core ribbon absorb december age select imitate basket cause home amused";
+var mnemonic = "rally column impose venture notice release trash gun sustain aware erase chest";

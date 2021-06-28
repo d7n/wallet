@@ -1,1 +1,1 @@
-var mnemonic = "slide ozone client slim use melt civil game kitten message gather casual";
+var mnemonic = "fatigue picnic trumpet crush faculty swing session spare club woman post token";

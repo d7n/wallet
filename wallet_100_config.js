@@ -1,1 +1,1 @@
-var mnemonic = "scatter case artwork tomorrow just answer present peasant seed captain faculty behind";
+var mnemonic = "venue win acid join sudden busy panic reunion session grunt truly web";

@@ -1,1 +1,1 @@
-var mnemonic = "nominee remain banner sentence gadget torch segment spider elder junk option labor";
+var mnemonic = "ritual item dolphin slow spring float genuine cluster match sun club arch";

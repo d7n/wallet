@@ -1,1 +1,1 @@
-var mnemonic = "reduce energy salmon rural share unaware stay humor thrive buyer retreat arena";
+var mnemonic = "invite near orchard pause gorilla element orbit loyal female inquiry remind degree";

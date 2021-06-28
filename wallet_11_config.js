@@ -1,1 +1,1 @@
-var mnemonic = "spread pipe bracket deny doctor lemon happy people laptop august wheat mosquito";
+var mnemonic = "drop doctor dust trouble add tomato movie happy cry pill curtain lake";

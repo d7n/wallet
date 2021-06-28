@@ -1,1 +1,1 @@
-var mnemonic = "write update slide cannon physical host easily fresh soap hobby jar switch";
+var mnemonic = "birth obtain wire pause casino damp burden open circle broom surprise glance";

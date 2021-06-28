@@ -1,1 +1,1 @@
-var mnemonic = "come parade float hover range wasp velvet erase frost just cycle cricket";
+var mnemonic = "sweet slender merge logic metal squirrel jeans soul super tray filter nuclear";

@@ -1,1 +1,1 @@
-var mnemonic = "lab duty donkey off window debate hat hurdle vanish eager dish spirit";
+var mnemonic = "captain tumble slow captain bacon few neither oil edit august dignity clump";

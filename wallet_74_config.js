@@ -1,1 +1,1 @@
-var mnemonic = "master girl light actress prepare convince spin spread antique slow duty concert";
+var mnemonic = "reunion barrel phone social blouse all injury pupil web garbage outdoor toward";

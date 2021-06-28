@@ -1,1 +1,1 @@
-var mnemonic = "inform crazy inner define shed six undo lunar used palm credit word";
+var mnemonic = "move park paper music rhythm track remain wife vendor enable dust near";

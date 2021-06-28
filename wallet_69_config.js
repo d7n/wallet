@@ -1,1 +1,1 @@
-var mnemonic = "bracket all slow garment drip sibling onion project knee pink much resist";
+var mnemonic = "swap define lend used can grain identify metal build census category swim";

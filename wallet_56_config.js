@@ -1,1 +1,1 @@
-var mnemonic = "romance found strong tuition child birth history fancy stool refuse stay focus";
+var mnemonic = "tomato rapid scan walk burger doctor candy intact below midnight exist wedding";

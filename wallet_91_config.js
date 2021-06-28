@@ -1,1 +1,1 @@
-var mnemonic = "rocket spatial because dignity all giant ankle word mixed little add honey";
+var mnemonic = "labor wave split voice resist club lunch cheap used planet burger indoor";

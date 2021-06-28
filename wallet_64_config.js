@@ -1,1 +1,1 @@
-var mnemonic = "enrich fatigue basic cream anger exclude join polar agree price famous pupil";
+var mnemonic = "garment solid crumble bus ride write ahead fluid admit away conduct key";

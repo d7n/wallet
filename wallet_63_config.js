@@ -1,1 +1,1 @@
-var mnemonic = "rival gate run giggle leisure air direct length category reveal brain crew";
+var mnemonic = "then shell because speak couple arm vintage organ salmon panel wait army";

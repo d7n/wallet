@@ -1,1 +1,1 @@
-var mnemonic = "task become fever lunar april desk now pupil man suffer trip develop";
+var mnemonic = "broom used poem frame leave youth brave ugly keep coin piece gravity";

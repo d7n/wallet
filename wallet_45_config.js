@@ -1,1 +1,1 @@
-var mnemonic = "amazing alpha expire sense gravity ostrich device alien bird spoil enrich broken";
+var mnemonic = "swing extend still isolate spot sheriff offer minimum duty evil lottery alpha";

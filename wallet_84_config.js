@@ -1,1 +1,1 @@
-var mnemonic = "master genius raise control trumpet faint govern desk next throw assume royal";
+var mnemonic = "garbage club photo all anchor glass stomach ghost else glass river apology";

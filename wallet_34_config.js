@@ -1,1 +1,1 @@
-var mnemonic = "thrive paper plastic fan obscure expire ceiling despair ahead oven canyon hover";
+var mnemonic = "asthma debate flat water blade interest medal exercise disagree noise organ faith";

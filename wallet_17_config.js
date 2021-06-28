@@ -1,1 +1,1 @@
-var mnemonic = "also brother convince inquiry multiply pluck flash cross category sting bounce rural";
+var mnemonic = "crucial dad change shrug orphan phrase only own distance behind industry weasel";

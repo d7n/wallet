@@ -1,1 +1,1 @@
-var mnemonic = "giraffe scout indicate void snap slim wise office tube always area audit";
+var mnemonic = "caution veteran vibrant elbow just wisdom rival broccoli float decrease blind rifle";

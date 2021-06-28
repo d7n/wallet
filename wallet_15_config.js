@@ -1,1 +1,1 @@
-var mnemonic = "foil stage total present struggle lonely chapter fever come width home trim";
+var mnemonic = "hawk toast athlete nest envelope talent poem behave copper strike tower clever";

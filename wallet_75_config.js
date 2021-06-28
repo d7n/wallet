@@ -1,1 +1,1 @@
-var mnemonic = "sniff satisfy auto steak coffee inside call sell purse height mandate gold";
+var mnemonic = "enough unknown foot peanut public truth primary arch chicken radar card puppy";

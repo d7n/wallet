@@ -1,1 +1,1 @@
-var mnemonic = "spy later crowd super drink grid brand one sponsor track guide faculty";
+var mnemonic = "enough entry hello flip cotton negative elephant achieve trumpet bubble render deposit";

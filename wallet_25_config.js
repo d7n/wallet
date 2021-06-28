@@ -1,1 +1,1 @@
-var mnemonic = "you awkward grocery oblige unfair section across blade shine purse fatal fantasy";
+var mnemonic = "flee between monitor protect black atom rib curve firm rule speed price";

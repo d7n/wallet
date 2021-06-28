@@ -1,1 +1,1 @@
-var mnemonic = "water stamp diesel eternal must round travel dentist open hidden deposit husband";
+var mnemonic = "unaware reason express flash novel profit suffer tone civil theory glory this";

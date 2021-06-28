@@ -1,1 +1,1 @@
-var mnemonic = "husband pool length relax safe offer enter tomorrow have merry ocean rose";
+var mnemonic = "similar bonus oak hazard filter degree run soup material affair balcony sponsor";

@@ -1,1 +1,1 @@
-var mnemonic = "neutral unfold slide promote situate pattern beach clump there possible artist burger";
+var mnemonic = "accident pass depth team table razor crisp evolve fortune unaware super tongue";

@@ -1,1 +1,1 @@
-var mnemonic = "trim walnut whisper rude column scout valve debris lab idle fitness hybrid";
+var mnemonic = "patrol hockey welcome furnace brick social voice doctor text patient coffee brave";

@@ -1,1 +1,1 @@
-var mnemonic = "help lounge local exit jeans advice liberty live garbage labor total trim";
+var mnemonic = "quarter advice piano shell arrow addict visual will identify slogan loan rookie";

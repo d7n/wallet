@@ -1,1 +1,1 @@
-var mnemonic = "true column wink benefit require void inherit tongue hill result taxi rug";
+var mnemonic = "bomb differ spend gain victory mobile adjust beauty sad summer laugh credit";

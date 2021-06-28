@@ -1,1 +1,1 @@
-var mnemonic = "off often enhance suit step pigeon spice visa job vague setup artefact";
+var mnemonic = "sleep advance devote produce chest latin level capital typical merry crater miss";

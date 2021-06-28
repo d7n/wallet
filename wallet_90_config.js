@@ -1,1 +1,1 @@
-var mnemonic = "skate super razor agent assume phrase orange help expose churn interest festival";
+var mnemonic = "pull garbage anger reject clump guitar beauty gentle derive anchor caught balcony";

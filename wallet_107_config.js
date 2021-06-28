@@ -1,1 +1,1 @@
-var mnemonic = "unveil puppy gasp index admit protect skate express bubble call rebuild someone";
+var mnemonic = "jazz worry bronze glide accuse payment ocean canal spread inmate only dove";

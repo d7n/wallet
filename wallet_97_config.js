@@ -1,1 +1,1 @@
-var mnemonic = "fog various concert educate escape length vendor circle under ribbon flock harvest";
+var mnemonic = "expire bomb easily game prize action high lottery hold heart piece next";

@@ -1,1 +1,1 @@
-var mnemonic = "soft cause bubble arrive depart maple diamond dignity crucial illegal short shrimp";
+var mnemonic = "they evil wide seminar dawn energy panther boring cinnamon venue slide ghost";

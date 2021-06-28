@@ -1,1 +1,1 @@
-var mnemonic = "cart cannon nose vehicle laptop response scout sleep joy badge asset brown";
+var mnemonic = "erode crystal urban focus walnut coral beef crazy cave nominee upset three";

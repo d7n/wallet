@@ -1,1 +1,1 @@
-var mnemonic = "romance render hood method able cargo nephew foot figure consider dawn find";
+var mnemonic = "garment cash century avocado scrub mention half crush surface arrow birth goddess";

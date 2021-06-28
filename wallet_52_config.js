@@ -1,1 +1,1 @@
-var mnemonic = "snake win taste rookie spy zero garment whip unable crystal trigger height";
+var mnemonic = "egg fiction echo future border between advice hold find achieve grief better";

@@ -1,1 +1,1 @@
-var mnemonic = "oppose move owner apology peasant ice feel defy index audit level toy";
+var mnemonic = "margin next host letter brisk carpet right panel flee decrease foil basic";

@@ -1,1 +1,1 @@
-var mnemonic = "dynamic egg gossip panel oxygen junior violin obvious manage beach destroy spike";
+var mnemonic = "obvious side convince brief hen gather wedding saddle remove slab column pudding";

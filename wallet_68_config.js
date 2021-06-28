@@ -1,1 +1,1 @@
-var mnemonic = "glory replace monster stuff property eager twenty equal network canal lazy cost";
+var mnemonic = "fit knife copy huge can sing crush grape pretty elite question boring";

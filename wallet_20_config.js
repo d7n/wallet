@@ -1,1 +1,1 @@
-var mnemonic = "wise blood ill picnic early depend flip actual hood blouse foster issue";
+var mnemonic = "cabbage glad quit toilet link certain royal scale base level type angle";

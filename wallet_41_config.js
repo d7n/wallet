@@ -1,1 +1,1 @@
-var mnemonic = "design toy six multiply bulk knock ancient vivid book chimney venue dinner";
+var mnemonic = "blue tonight beauty fly transfer album afraid feel depart dentist bulk know";
