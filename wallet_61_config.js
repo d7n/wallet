@@ -1,1 +1,1 @@
-var mnemonic = "critic kick holiday glide antique december cause spring wrist grid title spell";
+var mnemonic = "slow solution heart man zebra worth arctic soup when employ behave north";

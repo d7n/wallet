@@ -1,1 +1,1 @@
-var mnemonic = "capable cargo phone devote mechanic rug eyebrow snake lava burst empower special";
+var mnemonic = "harsh wage real oyster slab fix nominee choose vehicle vibrant payment auto";

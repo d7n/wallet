@@ -1,1 +1,1 @@
-var mnemonic = "harsh ridge put grant fun local crane merry athlete kiss behind exchange";
+var mnemonic = "decorate narrow carbon toward palm exact spider certain place wall hood proof";

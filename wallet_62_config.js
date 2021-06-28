@@ -1,1 +1,1 @@
-var mnemonic = "plastic machine adapt wreck rare online panda opera return inform object antenna";
+var mnemonic = "social version grape armed pride enforce brave flush swarm urban half attend";

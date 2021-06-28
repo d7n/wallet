@@ -1,1 +1,1 @@
-var mnemonic = "amount dumb cheap bread drink ask jeans skill pool slight figure license";
+var mnemonic = "tissue example vibrant pink firm flavor police stand void sister give team";

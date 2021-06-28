@@ -1,1 +1,1 @@
-var mnemonic = "belt assault track card mixture camera embody toy kind toilet canoe poverty";
+var mnemonic = "trophy dad like artist focus enforce flame illegal essence supply quantum state";

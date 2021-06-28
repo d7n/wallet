@@ -1,1 +1,1 @@
-var mnemonic = "silk cry receive half recipe blossom sing manual okay volume category such";
+var mnemonic = "choice patient wine crawl word pluck lumber defense reveal resist become suggest";

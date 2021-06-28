@@ -1,1 +1,1 @@
-var mnemonic = "flash repeat small improve goddess need coast obey clean rule strike base";
+var mnemonic = "road snack phone country fit ring game glide hair member rule online";

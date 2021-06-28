@@ -1,1 +1,1 @@
-var mnemonic = "expose rain letter pizza kitchen swift advance genuine scare more vacant bread";
+var mnemonic = "potato wrestle crew lawn way veteran clog culture excuse false screen early";

@@ -1,1 +1,1 @@
-var mnemonic = "cook great doctor hunt web neither capable stereo valve shift shell unique";
+var mnemonic = "few legend assume emotion search shove device purchase ritual mixture steel remember";

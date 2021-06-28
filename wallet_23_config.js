@@ -1,1 +1,1 @@
-var mnemonic = "fashion erase jealous primary express road win attack long sight unveil prepare";
+var mnemonic = "hamster coach broom find sibling follow buffalo huge gadget mechanic effort ship";

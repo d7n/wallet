@@ -1,1 +1,1 @@
-var mnemonic = "recall hat child ensure chaos want gate narrow rail risk maze win";
+var mnemonic = "bind cake ridge coral scorpion target aim harsh section combine slot toe";

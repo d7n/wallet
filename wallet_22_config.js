@@ -1,1 +1,1 @@
-var mnemonic = "confirm jump giant congress swear shift hunt toddler invest grant update blush";
+var mnemonic = "season return bicycle only drama shell glimpse divide vital travel upset purity";

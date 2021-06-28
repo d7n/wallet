@@ -1,1 +1,1 @@
-var mnemonic = "sick below draw copy field imitate blast stool agree equip metal seed";
+var mnemonic = "mercy toe offer ladder work wagon confirm thunder resemble hat action odor";

@@ -1,1 +1,1 @@
-var mnemonic = "praise essence math rather task arctic before ancient update coast twist mother";
+var mnemonic = "disease autumn jar voice veteran fitness select zero unusual sentence entire ice";

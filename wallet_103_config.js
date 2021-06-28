@@ -1,1 +1,1 @@
-var mnemonic = "swap what cheese helmet dawn milk glove thunder permit member mimic public";
+var mnemonic = "quote dove person bulk now gasp position champion real later alcohol misery";

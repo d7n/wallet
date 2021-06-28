@@ -1,1 +1,1 @@
-var mnemonic = "resist tissue certain soft able present captain comic rent day exotic dish";
+var mnemonic = "south clean mixture angle prison slot toilet figure aunt again lava floor";

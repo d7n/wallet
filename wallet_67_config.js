@@ -1,1 +1,1 @@
-var mnemonic = "cousin key decorate baby play easy digital grant ghost avoid roast exercise";
+var mnemonic = "auto banner lamp sad loud culture rigid huge resource concert bind glue";

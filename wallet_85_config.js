@@ -1,1 +1,1 @@
-var mnemonic = "divorce diesel globe exclude core off slim author galaxy nice sample sheriff";
+var mnemonic = "carbon stomach clay tonight allow verb zoo speak squeeze mail jar force";

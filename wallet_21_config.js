@@ -1,1 +1,1 @@
-var mnemonic = "brick joke roof penalty try half myself alcohol exhaust myself deal evoke";
+var mnemonic = "exotic planet useless joke dismiss laugh vocal author later position ribbon wage";

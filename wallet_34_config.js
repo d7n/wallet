@@ -1,1 +1,1 @@
-var mnemonic = "mystery glove video mom scene topple month artefact original fish trash general";
+var mnemonic = "phone way oil flip celery tobacco raw honey doll deer clown grit";

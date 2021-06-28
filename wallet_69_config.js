@@ -1,1 +1,1 @@
-var mnemonic = "sphere regular mail upgrade wedding heavy tragic primary buzz soap trim quality";
+var mnemonic = "wish okay giggle around length divert mind off wait tone exclude candy";

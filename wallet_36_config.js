@@ -1,1 +1,1 @@
-var mnemonic = "file verb churn loud bike organ muscle toss powder bright narrow used";
+var mnemonic = "alarm visit protect smooth lens rookie destroy gaze protect half dawn quality";

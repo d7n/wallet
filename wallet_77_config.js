@@ -1,1 +1,1 @@
-var mnemonic = "cotton deal jazz about tissue heart hedgehog carry tennis monkey feed aspect";
+var mnemonic = "blanket actress advice extra dial armor bubble observe wire collect pause bacon";

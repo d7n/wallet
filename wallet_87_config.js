@@ -1,1 +1,1 @@
-var mnemonic = "wrestle sugar strong lesson flag favorite forum virtual twist cliff occur display";
+var mnemonic = "jungle clog scale seek indicate usage car enrich juice document fine misery";

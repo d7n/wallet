@@ -1,1 +1,1 @@
-var mnemonic = "can domain theory camera dolphin deliver open smooth atom hello clock neutral";
+var mnemonic = "broken fancy globe loan index nerve blood remain company devote mix gadget";

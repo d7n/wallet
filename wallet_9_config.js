@@ -1,1 +1,1 @@
-var mnemonic = "duty finger spring repeat hard spy awful supreme replace angry move island";
+var mnemonic = "magic element this devote theory uncle panic ball tobacco uncle picture banner";

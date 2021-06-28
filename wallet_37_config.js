@@ -1,1 +1,1 @@
-var mnemonic = "zone beach manage foam type naive test nasty critic bridge member copper";
+var mnemonic = "naive wrap retreat canyon window alert century decorate answer detect mean pigeon";

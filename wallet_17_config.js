@@ -1,1 +1,1 @@
-var mnemonic = "start huge tooth private mandate recycle mask view trick festival victory crew";
+var mnemonic = "accident dinner solve program above worth era monkey width spread hobby earth";

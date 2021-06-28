@@ -1,1 +1,1 @@
-var mnemonic = "walnut foster index toilet right scene exercise picnic make buffalo dream bamboo";
+var mnemonic = "poverty puzzle long carpet front defy canal obtain swear square slot dry";

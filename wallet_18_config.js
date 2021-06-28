@@ -1,1 +1,1 @@
-var mnemonic = "you burden model dose utility ordinary under setup matter input cricket warfare";
+var mnemonic = "rent bleak short filter tide oppose course pipe midnight melt buffalo suffer";

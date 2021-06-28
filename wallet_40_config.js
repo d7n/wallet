@@ -1,1 +1,1 @@
-var mnemonic = "zoo cruel drink hint tool great chimney grace impact cannon cage deputy";
+var mnemonic = "side ability since rule hard breeze tray blossom music illness range suggest";

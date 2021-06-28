@@ -1,1 +1,1 @@
-var mnemonic = "shiver start horse rent oven skin flight great boss ribbon ball used";
+var mnemonic = "sword leader poet fault hawk erupt absurd brisk fat sting border approve";

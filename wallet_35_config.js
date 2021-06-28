@@ -1,1 +1,1 @@
-var mnemonic = "process near grass stamp accuse belt idle chimney detect flag urban omit";
+var mnemonic = "jacket blue slogan turtle valley cinnamon donkey silk raw tragic way symbol";

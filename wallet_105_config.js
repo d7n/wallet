@@ -1,1 +1,1 @@
-var mnemonic = "van push decorate indoor exhaust winter strong avocado decide track torch cargo";
+var mnemonic = "wolf margin universe mystery grief one edge ensure glory confirm sphere inspire";

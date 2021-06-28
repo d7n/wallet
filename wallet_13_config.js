@@ -1,1 +1,1 @@
-var mnemonic = "social dash sing waste web note runway science frame vehicle future game";
+var mnemonic = "visa apart stove ritual private talk turkey seminar pet hawk minute glow";

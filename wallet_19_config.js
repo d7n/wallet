@@ -1,1 +1,1 @@
-var mnemonic = "image once client nerve denial dose gather learn express invest relax injury";
+var mnemonic = "patch adjust mushroom repair scare viable twin nut frame demise visa liquid";

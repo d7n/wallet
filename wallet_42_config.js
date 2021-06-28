@@ -1,1 +1,1 @@
-var mnemonic = "toast poem suspect tell cube involve glance laundry disease merge pledge orbit";
+var mnemonic = "slab cave true narrow glue box suspect shuffle idle gate original duty";

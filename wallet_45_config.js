@@ -1,1 +1,1 @@
-var mnemonic = "candy enrich table early mango breeze duck drive present real destroy nut";
+var mnemonic = "novel club giraffe engage creek surprise hazard swear analyst romance hip fog";

@@ -1,1 +1,1 @@
-var mnemonic = "orbit strong obvious water fatal pigeon oil distance sauce acquire economy arrest";
+var mnemonic = "shadow crumble know bracket verify category submit ozone rib crouch spatial visa";

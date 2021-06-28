@@ -1,1 +1,1 @@
-var mnemonic = "palace upper maximum humor payment cruise word diary milk dose torch soccer";
+var mnemonic = "minimum erase real kind actual bread garage just into derive trick solve";

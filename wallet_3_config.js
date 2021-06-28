@@ -1,1 +1,1 @@
-var mnemonic = "chase stereo brisk remove rib glare dolphin purity inner loop anger insect";
+var mnemonic = "wife love chalk rely fire volcano biology number giraffe access creek wide";

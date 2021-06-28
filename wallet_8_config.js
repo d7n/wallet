@@ -1,1 +1,1 @@
-var mnemonic = "panel camera victory pink shell leg enough evil cotton bottom jaguar torch";
+var mnemonic = "visit gadget chair bicycle option history glimpse focus public toilet auto debate";

@@ -1,1 +1,1 @@
-var mnemonic = "input fence pass parrot middle fatigue spring budget beach rescue engage scene";
+var mnemonic = "level cage luxury athlete forward couch panel swing muscle guide bubble embrace";

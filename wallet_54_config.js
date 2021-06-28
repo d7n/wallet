@@ -1,1 +1,1 @@
-var mnemonic = "bulk marble hen echo cushion leaf grocery torch rely chief must kiwi";
+var mnemonic = "wrist cloud body garment adult adjust gain turkey draw right fan laundry";

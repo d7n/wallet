@@ -1,1 +1,1 @@
-var mnemonic = "stool ahead craft maze brave patient shiver glad comfort shaft broom relief";
+var mnemonic = "venture narrow canvas laptop blush sick bulk turtle unit analyst awkward issue";

@@ -1,1 +1,1 @@
-var mnemonic = "food portion glove twin cigar tooth topple match total phrase reject grace";
+var mnemonic = "guide picnic slim tattoo rug brick slice usual vacuum control any eagle";

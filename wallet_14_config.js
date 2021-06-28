@@ -1,1 +1,1 @@
-var mnemonic = "innocent column improve segment ecology shoot tragic swap pioneer december inform expand";
+var mnemonic = "sustain illness cigar holiday hazard rookie renew ecology dynamic fatal fury garbage";

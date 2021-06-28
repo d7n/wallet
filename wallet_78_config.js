@@ -1,1 +1,1 @@
-var mnemonic = "identify dish earth weird earth age end ritual vicious cradle hill armor";
+var mnemonic = "trick educate sock embark famous shallow potato cactus region hundred apple cement";

@@ -1,1 +1,1 @@
-var mnemonic = "damage course cannon profit false solution glory tide enemy number around edit";
+var mnemonic = "pattern aim scatter math enroll tomorrow veteran spell maid tired rookie robust";

@@ -1,1 +1,1 @@
-var mnemonic = "fatigue country indoor reduce gallery extend filter rookie destroy teach hawk fortune";
+var mnemonic = "august change join stay door excess resist great destroy mountain language alpha";

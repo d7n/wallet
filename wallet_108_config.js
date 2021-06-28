@@ -1,1 +1,1 @@
-var mnemonic = "job shy milk fragile gadget peanut dwarf coconut lamp alley brief vendor";
+var mnemonic = "elder much flash guilt course beyond kind hip design divorce coconut light";

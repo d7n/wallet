@@ -1,1 +1,1 @@
-var mnemonic = "chase trick thrive foam abuse believe educate exile secret raven town announce";
+var mnemonic = "coffee spot bring settle invite runway broken typical stool barrel motion sniff";

@@ -1,1 +1,1 @@
-var mnemonic = "north violin stomach vanish chicken valve often citizen panther celery dinner exhaust";
+var mnemonic = "volume scale birth sad cliff pact stamp final weapon garlic swing spy";

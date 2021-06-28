@@ -1,1 +1,1 @@
-var mnemonic = "provide garden stool rally loan top book busy unique waste fun pony";
+var mnemonic = "undo act vivid road rotate junior matrix never audit slab distance cloud";

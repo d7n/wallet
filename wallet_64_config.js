@@ -1,1 +1,1 @@
-var mnemonic = "rough actress twist slab punch odor apart autumn course yellow huge force";
+var mnemonic = "choice woman fat assist payment choose rotate stadium amount olympic conduct strong";

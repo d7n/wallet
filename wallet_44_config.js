@@ -1,1 +1,1 @@
-var mnemonic = "deny sound enroll cigar fine couch option river essay daring submit car";
+var mnemonic = "wing average enforce gate laugh cancel salmon multiply property hunt spell art";

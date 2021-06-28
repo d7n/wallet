@@ -1,1 +1,1 @@
-var mnemonic = "jump aisle uphold bind chair concert output example cabbage menu devote shock";
+var mnemonic = "february embrace slam buddy exercise decorate reform crash farm sugar myself negative";

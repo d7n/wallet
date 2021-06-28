@@ -1,1 +1,1 @@
-var mnemonic = "stick pen fun behave frost recycle around metal skin donkey plastic legal";
+var mnemonic = "chief claim above priority way analyst cliff crucial napkin daring lens angry";

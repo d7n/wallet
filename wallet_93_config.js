@@ -1,1 +1,1 @@
-var mnemonic = "cat text lottery bus live collect easy february rapid wrestle screen define";
+var mnemonic = "spawn design message kid boil image field antenna gravity breeze crime crawl";

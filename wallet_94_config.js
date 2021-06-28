@@ -1,1 +1,1 @@
-var mnemonic = "insane squeeze anger treat right daughter scatter fix what february permit easily";
+var mnemonic = "acoustic rally mix slow spice praise stick spread chest moment rocket slide";

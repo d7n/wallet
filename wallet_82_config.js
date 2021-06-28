@@ -1,1 +1,1 @@
-var mnemonic = "sentence print unfold cream add machine about opinion daughter harbor cave thought";
+var mnemonic = "host skull hammer answer reduce inside lunar arrest risk erosion service invest";

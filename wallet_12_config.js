@@ -1,1 +1,1 @@
-var mnemonic = "coral gaze key dog then liberty gift shoot basket limit gather fault";
+var mnemonic = "bread wait bubble strategy kiss vessel already funny blossom spend bunker digital";

@@ -1,1 +1,1 @@
-var mnemonic = "wedding climb tower teach climb force offer evil giant need clog barely";
+var mnemonic = "educate awesome abuse wheat robot surface dove group accuse panda width alien";

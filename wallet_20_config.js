@@ -1,1 +1,1 @@
-var mnemonic = "brass fantasy situate mesh slot gallery ball outside world ring upper police";
+var mnemonic = "kiss million jar disease maze coconut skate cool pizza anxiety outer result";

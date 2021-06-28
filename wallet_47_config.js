@@ -1,1 +1,1 @@
-var mnemonic = "offer lobster bracket crane cross pool excess book boring estate border mutual";
+var mnemonic = "exercise exhaust flee vacuum trade chair segment dust about able physical roast";

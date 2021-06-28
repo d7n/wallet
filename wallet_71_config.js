@@ -1,1 +1,1 @@
-var mnemonic = "embody rice invite smoke minor still input surge mean else space silly";
+var mnemonic = "motion gesture notable forward pear wheel praise still route trust true fortune";

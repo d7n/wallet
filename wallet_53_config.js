@@ -1,1 +1,1 @@
-var mnemonic = "crowd eye chronic fatal dumb replace limit kingdom receive grant retreat exhibit";
+var mnemonic = "dignity avocado inside upper short cliff arrow enhance reflect trip shock also";

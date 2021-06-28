@@ -1,1 +1,1 @@
-var mnemonic = "welcome spider clog episode check hero spring deer chalk mind diary celery";
+var mnemonic = "fit gallery solid vital move raccoon buffalo glare conduct food supreme squirrel";

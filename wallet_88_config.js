@@ -1,1 +1,1 @@
-var mnemonic = "ranch kid stick casual cannon lend field law curve universe visual face";
+var mnemonic = "onion object resource timber spot gasp twist record fiscal flower become robot";

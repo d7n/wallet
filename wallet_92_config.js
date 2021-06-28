@@ -1,1 +1,1 @@
-var mnemonic = "electric wheat dirt assist impose fruit nut dentist fatigue sorry friend vapor";
+var mnemonic = "worry sunset similar series shaft minimum fuel image short tired nature multiply";

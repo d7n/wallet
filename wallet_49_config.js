@@ -1,1 +1,1 @@
-var mnemonic = "cram cannon purse sustain prosper insane breeze permit pet memory betray rough";
+var mnemonic = "spike hood sunny fish prison exhibit blast zebra riot indicate merry onion";

@@ -1,1 +1,1 @@
-var mnemonic = "promote oblige glass gym inspire fan umbrella cash license cash bean teach";
+var mnemonic = "slab flash patrol again day anchor host argue old cancel couch harbor";

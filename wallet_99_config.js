@@ -1,1 +1,1 @@
-var mnemonic = "scout lawsuit whale jeans flavor nut describe powder sauce recall audit junk";
+var mnemonic = "unable oyster people front fan theory shadow guitar smooth need original path";

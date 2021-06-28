@@ -1,1 +1,1 @@
-var mnemonic = "top taste furnace assault minor oxygen liberty armed fantasy ripple slide chaos";
+var mnemonic = "army occur hotel legal job afford time universe expire draft wrap fragile";

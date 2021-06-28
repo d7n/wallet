@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur bracket rival finish filter truck prize media please cheese team assume";
+var mnemonic = "capital town repair rug upon drama yard over duty girl display glimpse";

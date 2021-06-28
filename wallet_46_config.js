@@ -1,1 +1,1 @@
-var mnemonic = "remain hobby tiny govern shoe head rubber rate thought illness spirit immense";
+var mnemonic = "noodle happy blossom pelican scale vendor begin other print bulk strong fantasy";

@@ -1,1 +1,1 @@
-var mnemonic = "random twice tail own warrior wish ramp talk planet unhappy odor reason";
+var mnemonic = "certain goddess update hard tongue cattle people nest two badge miracle collect";

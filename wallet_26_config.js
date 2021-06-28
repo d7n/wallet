@@ -1,1 +1,1 @@
-var mnemonic = "unaware trouble believe scissors plate you alone water test point chief phone";
+var mnemonic = "vault various witness often boy benefit erupt gaze effort razor round parade";

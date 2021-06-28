@@ -1,1 +1,1 @@
-var mnemonic = "disorder toward reject enough firm ship parade resemble reflect exit hill rough";
+var mnemonic = "bracket coin mimic among come vacant insect brand kiwi arrest awkward quarter";

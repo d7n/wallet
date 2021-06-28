@@ -1,1 +1,1 @@
-var mnemonic = "ice diet library road topic system mean win judge copy buddy world";
+var mnemonic = "solve delay load pond parent huge gas eyebrow enable swamp spike female";

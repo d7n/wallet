@@ -1,1 +1,1 @@
-var mnemonic = "opera click force scout island smart hope toe bullet over ill fault";
+var mnemonic = "peanut account mosquito own toss palace valve prison direct monkey little fancy";

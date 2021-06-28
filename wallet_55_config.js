@@ -1,1 +1,1 @@
-var mnemonic = "creek market sick senior develop text fit glory dish equal bar captain";
+var mnemonic = "detail balance right define category busy smile present soft skull latin mouse";

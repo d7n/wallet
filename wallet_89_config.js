@@ -1,1 +1,1 @@
-var mnemonic = "mystery bless into rubber island cruise urge assist crater region song more";
+var mnemonic = "lounge sustain general leg kit embark lyrics voyage mimic ethics upon ozone";

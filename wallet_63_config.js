@@ -1,1 +1,1 @@
-var mnemonic = "label fantasy barely slice between dose method unveil someone mystery ketchup live";
+var mnemonic = "window champion repeat over author leisure clown venue fluid neck fluid book";

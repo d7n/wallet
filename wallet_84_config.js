@@ -1,1 +1,1 @@
-var mnemonic = "olive repeat talk donkey evolve maid mixture goat bread hobby antenna melody";
+var mnemonic = "subject cave soldier royal home lyrics alcohol daughter thrive journey inform duck";

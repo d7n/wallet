@@ -1,1 +1,1 @@
-var mnemonic = "cruel cave country spread nut often boy vicious kid decrease street daring";
+var mnemonic = "effort imitate taxi during gas clutch cake clump you attend erase robot";

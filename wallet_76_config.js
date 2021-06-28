@@ -1,1 +1,1 @@
-var mnemonic = "romance minor elevator dose exact guitar shed high donor auction brass census";
+var mnemonic = "grain table trip asthma cave keep behave stand flag spider nest prize";
