@@ -1,1 +1,1 @@
-var mnemonic = "champion achieve leader vibrant rail burger promote submit olive dilemma cigar idle";
+var mnemonic = "nest hip cargo fever merit floor cotton poverty type animal loan glare";

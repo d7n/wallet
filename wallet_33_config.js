@@ -1,1 +1,1 @@
-var mnemonic = "expose what stock bean cycle fabric note exhibit stick situate candy list";
+var mnemonic = "derive frozen monster hen spin script lazy fix pretty angle furnace tank";

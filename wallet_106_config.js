@@ -1,1 +1,1 @@
-var mnemonic = "hill toward choose wave property edit echo reunion boss pioneer they cat";
+var mnemonic = "juice fatal daughter margin pizza lunch search vast neglect gesture tooth post";

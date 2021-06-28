@@ -1,1 +1,1 @@
-var mnemonic = "burger away tobacco plunge slow enact else share milk cave chair parrot";
+var mnemonic = "dismiss debate virus hamster vote day heart couple supreme unhappy aerobic area";

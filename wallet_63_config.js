@@ -1,1 +1,1 @@
-var mnemonic = "water weapon prefer audit penalty daring clean settle anchor enroll drill quantum";
+var mnemonic = "equal ripple duty either never snap safe funny judge tennis short viable";

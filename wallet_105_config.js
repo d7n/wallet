@@ -1,1 +1,1 @@
-var mnemonic = "ugly disease sock banana demise fork angry celery cradle please tree asset";
+var mnemonic = "fashion brisk resource rice doctor child fix reopen idle spice soda squeeze";

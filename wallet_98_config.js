@@ -1,1 +1,1 @@
-var mnemonic = "labor sorry stable regret betray talk sniff spot spoil outdoor buffalo wrong";
+var mnemonic = "media hard quote priority hammer duty donate canoe mechanic worry proof pond";

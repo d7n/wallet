@@ -1,1 +1,1 @@
-var mnemonic = "zoo clutch abstract puppy future mountain dust loop monster steak panel weather";
+var mnemonic = "category bleak dash person ignore addict result wrong robust host soul virtual";

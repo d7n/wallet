@@ -1,1 +1,1 @@
-var mnemonic = "damp vicious track season clutch phrase neutral explain puppy pass census dream";
+var mnemonic = "museum energy year upset scissors aisle bamboo secret scan possible sheriff token";

@@ -1,1 +1,1 @@
-var mnemonic = "believe usage traffic goose peasant tennis reward demand cave lens empty three";
+var mnemonic = "transfer thought credit problem resemble buffalo capable arrange urban rely imitate fossil";

@@ -1,1 +1,1 @@
-var mnemonic = "crisp grass toast rubber hover shadow room robot plate team pink race";
+var mnemonic = "body vacant south marriage segment absorb logic chronic carry know lonely item";

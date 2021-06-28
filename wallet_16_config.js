@@ -1,1 +1,1 @@
-var mnemonic = "wide enact flame glow bubble cheap broken good bone lonely refuse vanish";
+var mnemonic = "battle drink thought good exact theory old jump resemble stage guess salmon";

@@ -1,1 +1,1 @@
-var mnemonic = "slab soon town situate receive wolf seven host short tent dolphin inquiry";
+var mnemonic = "wasp whisper chat they actual frozen miss similar box eager space traffic";

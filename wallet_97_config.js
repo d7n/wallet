@@ -1,1 +1,1 @@
-var mnemonic = "raw ball stumble model faith entire dizzy brush early oblige enough menu";
+var mnemonic = "fame unique pole world scan tilt remember cigar involve helmet nuclear trim";

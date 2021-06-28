@@ -1,1 +1,1 @@
-var mnemonic = "express course grape giant basket chimney pond illness core year okay helmet";
+var mnemonic = "grid lizard live cluster inside wait skull scorpion arrive okay where smart";

@@ -1,1 +1,1 @@
-var mnemonic = "cash fun immune taxi estate master business slender sadness uniform lend correct";
+var mnemonic = "play omit mountain hood cover mushroom cause gaze armor regular museum shop";

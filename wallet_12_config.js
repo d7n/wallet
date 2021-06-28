@@ -1,1 +1,1 @@
-var mnemonic = "notable draw imitate wise purse tennis fitness will ketchup security install gadget";
+var mnemonic = "transfer wink resource ready left rare people dutch soap nation gentle drama";

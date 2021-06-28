@@ -1,1 +1,1 @@
-var mnemonic = "arrow tool hidden glue fossil tuition ribbon thunder cause use better image";
+var mnemonic = "tank buyer length model similar solve affair aerobic uphold aunt slender sadness";

@@ -1,1 +1,1 @@
-var mnemonic = "large legend donkey sister test heavy autumn riot uncle reward file hover";
+var mnemonic = "vicious cancel invite catch outdoor nut flag number reunion shiver code salt";

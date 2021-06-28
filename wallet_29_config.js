@@ -1,1 +1,1 @@
-var mnemonic = "sign invite recipe trial arctic piano knee soldier holiday enable critic network";
+var mnemonic = "fire link tone green bargain aerobic next else right anchor dash know";

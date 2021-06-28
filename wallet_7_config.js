@@ -1,1 +1,1 @@
-var mnemonic = "crystal gloom subject dad gather useless shop better increase artefact adult tree";
+var mnemonic = "truly spoon chicken pipe tissue weasel light cook rally tonight voyage random";

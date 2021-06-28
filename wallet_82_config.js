@@ -1,1 +1,1 @@
-var mnemonic = "impact harbor jungle elevator mountain oil ability blossom tackle hungry young squirrel";
+var mnemonic = "unfair drop badge inner suggest crash replace tower scrub brain size three";

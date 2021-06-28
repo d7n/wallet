@@ -1,1 +1,1 @@
-var mnemonic = "notable ask mask model panic myth clarify oyster habit subway spoon ripple";
+var mnemonic = "element dolphin interest bacon garment panther uphold mesh scorpion perfect century protect";

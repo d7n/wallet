@@ -1,1 +1,1 @@
-var mnemonic = "edit neither paper fitness need kid cover legal photo fetch wrap tourist";
+var mnemonic = "cinnamon invest steak feed type burger place walk exclude evil hobby ability";

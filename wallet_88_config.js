@@ -1,1 +1,1 @@
-var mnemonic = "pill humble purpose one three beyond acoustic season crystal destroy drip moral";
+var mnemonic = "charge brown pelican gesture measure slam basic lock ship board valley smart";

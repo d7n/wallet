@@ -1,1 +1,1 @@
-var mnemonic = "nature busy dynamic hundred fiction bacon metal scissors glow maple napkin find";
+var mnemonic = "check logic country drill village again bunker please orphan attend grab slow";

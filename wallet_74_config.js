@@ -1,1 +1,1 @@
-var mnemonic = "dial urban resource tonight output grace report palm fee where labor afford";
+var mnemonic = "snake dish inhale bubble slot legend mutual broccoli canoe repeat rural margin";

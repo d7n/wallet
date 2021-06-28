@@ -1,1 +1,1 @@
-var mnemonic = "shrimp property carbon canvas middle long frozen action civil resist secret switch";
+var mnemonic = "task nest matter century rhythm boost above bracket bright mistake volume write";

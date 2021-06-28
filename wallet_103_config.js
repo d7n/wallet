@@ -1,1 +1,1 @@
-var mnemonic = "talent nose umbrella dinner exist fence income during pilot boil knee find";
+var mnemonic = "dream devote million will ski shoe speed pole album ticket green glass";

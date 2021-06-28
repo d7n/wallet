@@ -1,1 +1,1 @@
-var mnemonic = "shrimp lunar clump cash remove spend direct bread opera accident way one";
+var mnemonic = "garment post screen price pen victory race cat borrow reopen use super";

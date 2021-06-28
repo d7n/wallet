@@ -1,1 +1,1 @@
-var mnemonic = "return antenna slender once inject ahead tape select level mean stuff obscure";
+var mnemonic = "dinosaur trim duck race secret hour like mass purse enjoy fade leaf";

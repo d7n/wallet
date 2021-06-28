@@ -1,1 +1,1 @@
-var mnemonic = "wage crystal dragon captain charge video pair prepare fat sketch idea swap";
+var mnemonic = "milk forget valley glow deer push rice west way useful floor puzzle";

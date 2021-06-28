@@ -1,1 +1,1 @@
-var mnemonic = "boss horror tray mind virus brain hammer possible siege action estate please";
+var mnemonic = "alien office empty fatigue dust tuna wage sport motor click couple amateur";

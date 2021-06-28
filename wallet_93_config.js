@@ -1,1 +1,1 @@
-var mnemonic = "minute carbon increase ready nephew menu pitch found saddle north half science";
+var mnemonic = "bullet buyer bean abstract museum castle guard visit maple hello walnut renew";

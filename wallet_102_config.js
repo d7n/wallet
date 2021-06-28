@@ -1,1 +1,1 @@
-var mnemonic = "now potato fiscal always update resemble echo finger ring invite honey erupt";
+var mnemonic = "bid sure certain must draw receive deer warm pupil bomb require close";

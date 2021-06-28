@@ -1,1 +1,1 @@
-var mnemonic = "outer very believe split goat rebuild raven juice mixed defense federal define";
+var mnemonic = "bubble dynamic bone infant diesel target grain rabbit start toilet bicycle help";

@@ -1,1 +1,1 @@
-var mnemonic = "cruise arrange shy alarm insect ball ranch wood shine actual horror turkey";
+var mnemonic = "limb cabin envelope ball crystal athlete record benefit tattoo lobster alpha hunt";

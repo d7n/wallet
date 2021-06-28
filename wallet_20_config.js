@@ -1,1 +1,1 @@
-var mnemonic = "labor gallery artefact heart element broccoli assault fragile evolve dinner wonder brand";
+var mnemonic = "odor journey hedgehog nation oppose announce evolve income frog shrimp embrace bike";

@@ -1,1 +1,1 @@
-var mnemonic = "weapon luggage will eyebrow hotel matrix demise lion girl ability inmate produce";
+var mnemonic = "offer poet attack giant wait thought flat gym field furnace alarm harbor";

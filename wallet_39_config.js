@@ -1,1 +1,1 @@
-var mnemonic = "vibrant liar grocery champion hole tell learn safe slide series ranch bind";
+var mnemonic = "distance work rose crawl friend insane coast crowd rich axis trick carry";

@@ -1,1 +1,1 @@
-var mnemonic = "patrol isolate return patrol maximum hospital educate debris art regular pact nephew";
+var mnemonic = "orphan mutual gap pipe fork tape shoulder pottery conduct pause canvas struggle";

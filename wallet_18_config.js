@@ -1,1 +1,1 @@
-var mnemonic = "nominee truly stand salt liberty story gym wall shoot seed surface open";
+var mnemonic = "agree fatal crack sea fold zero volcano leave hurt myself spatial project";

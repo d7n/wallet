@@ -1,1 +1,1 @@
-var mnemonic = "draw drink illegal earn bomb total monkey cute real excite congress arena";
+var mnemonic = "odor aunt kiwi document life alarm spoil plate fluid spice festival ahead";

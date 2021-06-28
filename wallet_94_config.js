@@ -1,1 +1,1 @@
-var mnemonic = "lens cool such elevator man easy right visual renew ecology meadow maze";
+var mnemonic = "casual derive pride inside heart now slender goat choice know aisle business";

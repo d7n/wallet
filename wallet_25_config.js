@@ -1,1 +1,1 @@
-var mnemonic = "abstract slush outdoor cover gift guess wool repair document mirror base sword";
+var mnemonic = "equal afraid check rare wolf volcano error detect obey copper apology leisure";

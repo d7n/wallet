@@ -1,1 +1,1 @@
-var mnemonic = "wagon avocado venture awkward kick almost harsh web quit runway snap razor";
+var mnemonic = "bacon paddle walnut symptom city charge fresh future process ramp happy garlic";

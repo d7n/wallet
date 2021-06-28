@@ -1,1 +1,1 @@
-var mnemonic = "large text labor quiz injury fork power friend visual nice during industry";
+var mnemonic = "mobile list online dinner soldier illness purpose price weird portion inform ribbon";

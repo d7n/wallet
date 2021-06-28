@@ -1,1 +1,1 @@
-var mnemonic = "away shaft receive ill grit grunt snap volcano spoil climb trophy dream";
+var mnemonic = "pluck hockey knock unique level essay inflict eternal piano talent luggage behave";

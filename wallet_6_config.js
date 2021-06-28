@@ -1,1 +1,1 @@
-var mnemonic = "void screen control lend this defy simple token time laugh scorpion table";
+var mnemonic = "member option glimpse aunt blade winter bird convince riot daring idle silent";

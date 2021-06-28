@@ -1,1 +1,1 @@
-var mnemonic = "trumpet dinosaur enforce total domain stone junior allow attitude amazing siege rifle";
+var mnemonic = "mobile silk govern sea canal disease resemble expire east window robust tomorrow";

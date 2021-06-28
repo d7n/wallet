@@ -1,1 +1,1 @@
-var mnemonic = "velvet boy coyote primary chair crater claw panda mean chief neutral bulb";
+var mnemonic = "grid wealth reward weird trip weasel piano practice blind neck jaguar noodle";

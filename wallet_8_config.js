@@ -1,1 +1,1 @@
-var mnemonic = "pink leader position laugh group hammer age catch crime level swarm adapt";
+var mnemonic = "heart cash runway inside museum meadow over copper deal public card taste";

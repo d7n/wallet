@@ -1,1 +1,1 @@
-var mnemonic = "royal cage jealous better lucky brush unknown swing asset upgrade acquire during";
+var mnemonic = "turn sort steak arctic young vacant more crush title onion void target";

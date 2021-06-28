@@ -1,1 +1,1 @@
-var mnemonic = "liar desk repeat strong music tail boss dash miracle control park brisk";
+var mnemonic = "summer scheme rough leg drum ten regular glass girl record click title";

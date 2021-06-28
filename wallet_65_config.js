@@ -1,1 +1,1 @@
-var mnemonic = "pudding oil buzz around anxiety junior scissors chaos arctic spatial sausage notable";
+var mnemonic = "desert pioneer more knife unaware cage boring furnace borrow found online powder";

@@ -1,1 +1,1 @@
-var mnemonic = "barrel burden gauge reduce lend pond excuse crucial they economy coyote parrot";
+var mnemonic = "phone hurt crazy install shove result frown park pigeon boil pizza obtain";

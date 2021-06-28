@@ -1,1 +1,1 @@
-var mnemonic = "carbon neutral orbit vintage include recycle diagram input track beef render regular";
+var mnemonic = "nose plastic game plastic easy basket confirm prize else gossip clog float";

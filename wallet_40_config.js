@@ -1,1 +1,1 @@
-var mnemonic = "ring patrol final antenna voice lock fork winner plug trim digital you";
+var mnemonic = "clock apart obtain feature swamp feed sauce clarify notice path there render";

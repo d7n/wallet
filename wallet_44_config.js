@@ -1,1 +1,1 @@
-var mnemonic = "snake flee hope require subway provide protect fitness base pact theme rifle";
+var mnemonic = "pelican barely office knee among type labor rail update almost push there";

@@ -1,1 +1,1 @@
-var mnemonic = "area glory aware ribbon wife artwork current solution bonus pumpkin dilemma exclude";
+var mnemonic = "park way remain eye when fortune helmet tail shell ski battle step";

@@ -1,1 +1,1 @@
-var mnemonic = "normal guard culture arctic peace coral slender record night return attitude pet";
+var mnemonic = "trap confirm alien prison conduct skate intact thought sugar rice release image";

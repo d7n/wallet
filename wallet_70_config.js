@@ -1,1 +1,1 @@
-var mnemonic = "student measure release scatter grit unique clarify urge lesson pig upset useless";
+var mnemonic = "federal tip cream give foster okay champion escape gauge kitchen near devote";

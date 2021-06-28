@@ -1,1 +1,1 @@
-var mnemonic = "scene repeat brick era dinner refuse inquiry announce season portion album interest";
+var mnemonic = "punch report horn candy pill piano setup country page ability shift heart";

@@ -1,1 +1,1 @@
-var mnemonic = "orchard weapon board concert cloth this swamp master iron anger scrub tumble";
+var mnemonic = "dad smoke attitude route same blue please blind cloud lamp awkward steak";

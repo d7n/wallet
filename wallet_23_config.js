@@ -1,1 +1,1 @@
-var mnemonic = "release media impulse betray history ball rabbit harsh evolve mystery annual index";
+var mnemonic = "intact floor hope fatal bacon rival legend price notice image lamp tone";

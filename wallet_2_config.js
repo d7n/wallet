@@ -1,1 +1,1 @@
-var mnemonic = "advice panel immune panel kangaroo matrix umbrella forest canal bulk reduce virus";
+var mnemonic = "inmate art cotton net wise tenant purchase rail ivory grow favorite social";

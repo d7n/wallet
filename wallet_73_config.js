@@ -1,1 +1,1 @@
-var mnemonic = "upon cigar practice evidence uncover tilt car usage remember bread match upset";
+var mnemonic = "vault uniform cook rival gap distance hurry popular spice tent leopard hockey";

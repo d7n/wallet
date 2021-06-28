@@ -1,1 +1,1 @@
-var mnemonic = "logic quality panel cram crop debris hand shadow setup awkward vacuum forward";
+var mnemonic = "oppose recipe develop license expose window safe empower view vacuum arrive coast";

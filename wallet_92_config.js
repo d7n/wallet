@@ -1,1 +1,1 @@
-var mnemonic = "pull grocery bundle divide ladder rude wise onion same stay skill aunt";
+var mnemonic = "false clump apology dose economy endorse able group bottom pill crouch ability";

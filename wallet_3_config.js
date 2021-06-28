@@ -1,1 +1,1 @@
-var mnemonic = "club exit alley deny fatal kitten lounge mushroom sound silver doll bus";
+var mnemonic = "expand figure appear convince century dinosaur hockey manual endorse fire chest talk";

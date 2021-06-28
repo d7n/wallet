@@ -1,1 +1,1 @@
-var mnemonic = "convince speed chef okay allow bone define analyst season bird wait bind";
+var mnemonic = "violin forget stamp neither dust chapter avoid useless embody offer eight picnic";

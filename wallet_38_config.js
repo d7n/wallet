@@ -1,1 +1,1 @@
-var mnemonic = "spare alley goddess skin own allow spread catch number biology domain abandon";
+var mnemonic = "east wrong later cigar talk soft lounge prefer relax shield knee mosquito";

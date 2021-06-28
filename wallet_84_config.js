@@ -1,1 +1,1 @@
-var mnemonic = "convince rescue become diagram frown loud receive remain blanket list parent double";
+var mnemonic = "utility raccoon when flame fly topple crunch artist rival baby quit normal";

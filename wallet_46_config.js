@@ -1,1 +1,1 @@
-var mnemonic = "plastic boil lounge narrow question glare tank elder shoe wedding lion member";
+var mnemonic = "broken dance eight hungry topple adult help sight cereal imitate face mosquito";

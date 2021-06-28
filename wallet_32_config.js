@@ -1,1 +1,1 @@
-var mnemonic = "interest avoid document battle pelican adapt insect twelve parade dutch wool receive";
+var mnemonic = "smile strategy girl rebuild few describe surprise shoe result cave solar sausage";

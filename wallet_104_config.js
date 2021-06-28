@@ -1,1 +1,1 @@
-var mnemonic = "supreme just pattern include depend blouse vote device project film wheel pattern";
+var mnemonic = "quiz possible balance future virtual capable pave alley happy process rural raw";

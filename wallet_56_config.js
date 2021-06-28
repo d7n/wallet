@@ -1,1 +1,1 @@
-var mnemonic = "near acquire essence palace curve candy student sketch eagle damage genre insect";
+var mnemonic = "gadget guess raw snow follow mom drive fruit melody hint blade match";

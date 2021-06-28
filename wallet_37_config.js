@@ -1,1 +1,1 @@
-var mnemonic = "patrol conduct define long survey thrive help any festival heart fence sun";
+var mnemonic = "update discover modify horror brief gain borrow advice mother trial another panel";

@@ -1,1 +1,1 @@
-var mnemonic = "luxury elevator region issue old vote guide daughter large wide spring hybrid";
+var mnemonic = "artefact magnet truly year cute fiscal uncover smile ice giant express repeat";

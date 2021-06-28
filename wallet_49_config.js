@@ -1,1 +1,1 @@
-var mnemonic = "parrot clock tackle differ ribbon script morning trouble flip adult soft evoke";
+var mnemonic = "merge mango bomb donor blush repair era tortoise topple melody visit buddy";

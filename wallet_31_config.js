@@ -1,1 +1,1 @@
-var mnemonic = "satoshi grape fetch ten enable budget paper desk boost stamp coral love";
+var mnemonic = "express cover hazard lift item certain grass uniform unfold antique armed garlic";

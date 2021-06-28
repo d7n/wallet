@@ -1,1 +1,1 @@
-var mnemonic = "portion author path erupt trial horse smart keen ketchup into donate news";
+var mnemonic = "develop sound brand setup wise catch hedgehog tower major river cabbage sunny";

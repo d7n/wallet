@@ -1,1 +1,1 @@
-var mnemonic = "road plate swap hen limb garage ask together cover possible check client";
+var mnemonic = "inform december crowd knife rebel tuition lawn theme spy invest breeze right";

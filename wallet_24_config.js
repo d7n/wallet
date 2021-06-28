@@ -1,1 +1,1 @@
-var mnemonic = "glad meadow almost detect six endless zero frost vault clay swear common";
+var mnemonic = "tenant camp ecology notice mule enroll menu media below north tell ethics";

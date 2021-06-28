@@ -1,1 +1,1 @@
-var mnemonic = "art anger reopen vacant trumpet buffalo airport holiday undo effort quiz mind";
+var mnemonic = "erase crunch limit clinic wish pet attract pear nominee visa retire race";

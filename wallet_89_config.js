@@ -1,1 +1,1 @@
-var mnemonic = "motion neck near rival crunch radar coil nuclear couple sting defy man";
+var mnemonic = "until gloom deal hole resource baby stable sphere scare right song game";

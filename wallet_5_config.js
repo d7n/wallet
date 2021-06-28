@@ -1,1 +1,1 @@
-var mnemonic = "lyrics notice embark outer exclude either patient curtain guard outer choose predict";
+var mnemonic = "shift expand address glide swim design olympic chief chat phone net barely";

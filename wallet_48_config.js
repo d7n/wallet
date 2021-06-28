@@ -1,1 +1,1 @@
-var mnemonic = "energy melt manage method shop today price lounge wise firm veteran couple";
+var mnemonic = "reform invest swap soldier gym element siege wedding tragic festival addict custom";

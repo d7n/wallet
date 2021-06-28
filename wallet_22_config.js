@@ -1,1 +1,1 @@
-var mnemonic = "seven brown audit mandate hope away admit multiply trend wish junior system";
+var mnemonic = "economy shoe gym proud setup kind current blame lab idea trumpet effort";

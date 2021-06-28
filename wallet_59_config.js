@@ -1,1 +1,1 @@
-var mnemonic = "volume salt know rotate shoot fire what innocent dial learn praise traffic";
+var mnemonic = "wave forward canoe earth squeeze swallow theme grant install power come lecture";

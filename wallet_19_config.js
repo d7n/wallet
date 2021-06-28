@@ -1,1 +1,1 @@
-var mnemonic = "length decline mammal vivid govern industry subject record road submit cruise left";
+var mnemonic = "riot idle pupil honey use invite high void still coffee trap chair";

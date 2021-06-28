@@ -1,1 +1,1 @@
-var mnemonic = "morning used library very ignore health cloud scatter noise seek swap meat";
+var mnemonic = "farm entry cloud start daring float thrive rotate move joy fantasy reward";

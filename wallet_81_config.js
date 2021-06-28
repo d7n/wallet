@@ -1,1 +1,1 @@
-var mnemonic = "flock myself car render myself voyage drum thunder split patient list blame";
+var mnemonic = "confirm supreme design bag lobster catch cabin fossil lab blood front loop";

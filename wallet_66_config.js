@@ -1,1 +1,1 @@
-var mnemonic = "honey language elder oval brand sketch quality planet slight universe shaft age";
+var mnemonic = "model truck actor idle garment make exotic settle robot brave novel word";

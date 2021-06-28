@@ -1,1 +1,1 @@
-var mnemonic = "since scissors sail goat nominee junior father east demand knee wife tag";
+var mnemonic = "mountain unique matter summer crash turtle special expose very thing stomach spawn";

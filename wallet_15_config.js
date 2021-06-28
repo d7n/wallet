@@ -1,1 +1,1 @@
-var mnemonic = "mesh collect negative shiver barrel often charge tobacco apology limit gravity clever";
+var mnemonic = "margin west random echo engage one curtain ahead area slam differ absorb";

@@ -1,1 +1,1 @@
-var mnemonic = "salt speak soup melt drift today net spirit acquire supply effort nice";
+var mnemonic = "genuine gauge elevator balance taxi evolve wrong sense grunt benefit charge jelly";
