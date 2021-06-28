@@ -1,1 +1,1 @@
-var mnemonic = "fog paddle oblige hidden urban diamond retreat garlic image clown man tooth";
+var mnemonic = "cheap mosquito bracket nice convince twist galaxy capital tone pass eight view";

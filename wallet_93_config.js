@@ -1,1 +1,1 @@
-var mnemonic = "train turkey drive advice render timber camp also nuclear alarm shoe trash";
+var mnemonic = "budget inch quality festival gate elbow gospel remind envelope romance dawn mutual";

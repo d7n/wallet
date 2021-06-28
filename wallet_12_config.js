@@ -1,1 +1,1 @@
-var mnemonic = "raven program weird across pink elegant peanut weather top pumpkin pact crucial";
+var mnemonic = "circle truly upon palace equip script clever truck high hurt sausage pipe";

@@ -1,1 +1,1 @@
-var mnemonic = "impulse question crime rough actor gain tribe romance arrange mutual rude carbon";
+var mnemonic = "decide nuclear goose boil evolve like yellow cradle measure local hair stick";

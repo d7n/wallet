@@ -1,1 +1,1 @@
-var mnemonic = "jazz dust soft clay sausage leave crisp hat still better winter two";
+var mnemonic = "company mango confirm nasty cluster foot enable cinnamon inch void happy hat";

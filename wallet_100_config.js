@@ -1,1 +1,1 @@
-var mnemonic = "hello mountain now twist grit strike match crew awesome warfare kiss twenty";
+var mnemonic = "survey know canoe search win amused dinosaur shoulder silly awesome cousin bird";

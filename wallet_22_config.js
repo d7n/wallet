@@ -1,1 +1,1 @@
-var mnemonic = "salute faculty squeeze pulp stamp million caution myself bag luggage scorpion celery";
+var mnemonic = "rubber scheme olive outdoor nut kitchen amazing gadget pride sleep parrot this";

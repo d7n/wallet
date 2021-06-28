@@ -1,1 +1,1 @@
-var mnemonic = "sniff mutual affair suit purchase among ribbon father crunch taste during friend";
+var mnemonic = "ocean invite curve monster isolate devote beef daring tail hole romance random";

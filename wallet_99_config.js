@@ -1,1 +1,1 @@
-var mnemonic = "circle token blanket suspect little armor august panel chef copper theory cotton";
+var mnemonic = "waste brisk asset brother drama borrow toss prosper boring consider over best";

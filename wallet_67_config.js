@@ -1,1 +1,1 @@
-var mnemonic = "journey despair nice cradle chief fringe taxi noble approve paddle despair rookie";
+var mnemonic = "recall stick apology injury noodle illness siren uphold duck kangaroo property business";

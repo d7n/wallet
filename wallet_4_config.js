@@ -1,1 +1,1 @@
-var mnemonic = "grow alter paddle sponsor action follow capital soda hazard blanket car inflict";
+var mnemonic = "coyote ivory dutch meat sting skate grass swallow warrior seven abandon rug";

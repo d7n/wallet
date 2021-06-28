@@ -1,1 +1,1 @@
-var mnemonic = "lizard kingdom segment coil transfer happy stage olive dynamic mammal govern panda";
+var mnemonic = "cliff fruit exchange scare theme umbrella harsh repeat forest squeeze kiwi excuse";

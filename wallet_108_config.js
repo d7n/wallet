@@ -1,1 +1,1 @@
-var mnemonic = "neck latin glow aisle dilemma surge fish good mixture rural emotion eight";
+var mnemonic = "antique meadow amazing bar liar spoon tilt option table swarm able dune";

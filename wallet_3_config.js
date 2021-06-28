@@ -1,1 +1,1 @@
-var mnemonic = "system dream bundle hire night lounge leaf double city visit quiz kitten";
+var mnemonic = "claim fix island reform blame guess aisle toward champion scrub sad antenna";

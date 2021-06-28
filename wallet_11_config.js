@@ -1,1 +1,1 @@
-var mnemonic = "enable edit piece caught enroll grant accident base swallow clump chronic chicken";
+var mnemonic = "test merry shiver decline glance behind mercy area renew clutch dress unaware";

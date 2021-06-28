@@ -1,1 +1,1 @@
-var mnemonic = "skin fury obvious clarify zoo bomb fog anxiety blanket security industry glad";
+var mnemonic = "couple frown sheriff nominee fame invite degree just milk happy diesel hour";

@@ -1,1 +1,1 @@
-var mnemonic = "sort sell lounge subway quick praise law name hair wave soda author";
+var mnemonic = "employ share damage move parrot reopen shaft icon journey select issue pear";

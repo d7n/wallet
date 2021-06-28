@@ -1,1 +1,1 @@
-var mnemonic = "pill curtain rack hungry slot buyer secret art exhibit dove almost allow";
+var mnemonic = "movie crew quick segment pluck faint fork history program palm draft enough";

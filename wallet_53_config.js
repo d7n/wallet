@@ -1,1 +1,1 @@
-var mnemonic = "cousin humble antique tattoo tissue jazz grief capital december zone scene palm";
+var mnemonic = "sail item attitude trophy unlock skate galaxy gadget lecture hello float debate";

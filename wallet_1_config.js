@@ -1,1 +1,1 @@
-var mnemonic = "sock notable erase glide attack until mutual chimney alter jaguar youth section";
+var mnemonic = "february coach solar elite okay toward electric above into dinner pact aware";

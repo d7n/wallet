@@ -1,1 +1,1 @@
-var mnemonic = "eight kite panel grape morning patient claw very protect return bring vapor";
+var mnemonic = "aware school couple catalog club document cupboard axis brother ladder pledge grain";

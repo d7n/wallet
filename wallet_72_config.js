@@ -1,1 +1,1 @@
-var mnemonic = "clog genre analyst exchange regular real lion globe couch waste dune suspect";
+var mnemonic = "spike improve extra ship buyer rural clever satoshi expect jacket magnet talk";

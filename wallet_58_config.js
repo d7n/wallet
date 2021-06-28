@@ -1,1 +1,1 @@
-var mnemonic = "manual edit spoon caution cactus shrug remember gold ritual damage random select";
+var mnemonic = "limb crop frown tower way palm paddle pear tone thing mind still";

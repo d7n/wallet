@@ -1,1 +1,1 @@
-var mnemonic = "faint vessel pony argue click youth bacon artwork snow tilt stool arm";
+var mnemonic = "fold attend enable cancel creek speed tool derive grape dress first thought";

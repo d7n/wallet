@@ -1,1 +1,1 @@
-var mnemonic = "search color lonely unhappy promote virus refuse aerobic grunt scout either black";
+var mnemonic = "weather vivid million blouse neither winter motion harsh chef bottom post panic";

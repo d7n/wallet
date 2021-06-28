@@ -1,1 +1,1 @@
-var mnemonic = "universe orange remain siege wrestle opinion unit snake weapon online staff time";
+var mnemonic = "spike rule glass side pupil use innocent age behind tackle cradle song";

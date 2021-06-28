@@ -1,1 +1,1 @@
-var mnemonic = "label witness winter oblige receive dust pave decorate correct lock alcohol flee";
+var mnemonic = "phone home pet object paper crazy silent kiss abuse two final faith";

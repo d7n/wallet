@@ -1,1 +1,1 @@
-var mnemonic = "fire clip organ wedding excess govern dinosaur amateur antique announce ceiling salon";
+var mnemonic = "rail vibrant asthma cloth empty drastic latin drop visual remain hawk goose";

@@ -1,1 +1,1 @@
-var mnemonic = "valley long kangaroo miracle thumb parade noise size select season bundle become";
+var mnemonic = "dolphin valley whip nothing humble confirm win silent define tackle oyster smile";

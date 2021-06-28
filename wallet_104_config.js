@@ -1,1 +1,1 @@
-var mnemonic = "cry ostrich soon feel trade afraid camera perfect lumber child banner motor";
+var mnemonic = "ancient crater still online note throw legend shed immune teach punch rough";

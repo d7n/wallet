@@ -1,1 +1,1 @@
-var mnemonic = "piece ability post miss pupil kid convince capable saddle east frozen belt";
+var mnemonic = "furnace search february year quiz pledge portion radar call render urban warfare";

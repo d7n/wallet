@@ -1,1 +1,1 @@
-var mnemonic = "exhibit armor dove crumble forum laugh cash yard dad hen alcohol upgrade";
+var mnemonic = "lecture sunny move coin foot tortoise cousin mobile boy dish peasant boy";

@@ -1,1 +1,1 @@
-var mnemonic = "siege culture useless crystal company agent pizza room amused govern scatter arch";
+var mnemonic = "okay old slim census dance benefit miss unlock sense broken manage option";

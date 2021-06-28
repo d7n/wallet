@@ -1,1 +1,1 @@
-var mnemonic = "runway assault attack escape scale paper whisper post vicious throw final silly";
+var mnemonic = "abstract proud assist genuine face exact excuse track group iron siege tomato";

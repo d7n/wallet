@@ -1,1 +1,1 @@
-var mnemonic = "more enemy link error soda sunset capable amateur lounge beef manual adult";
+var mnemonic = "tumble slush borrow gorilla room middle fiction loan join index absurd toe";

@@ -1,1 +1,1 @@
-var mnemonic = "lava boat today win outside trip useless away gorilla waste universe will";
+var mnemonic = "helmet common cat hunt sand case jungle hollow immense fog shrug salon";

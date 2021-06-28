@@ -1,1 +1,1 @@
-var mnemonic = "once rate hurdle post sketch burst industry rebel soul angry soon flag";
+var mnemonic = "lend link youth crunch next crater true super pen hard chalk awful";

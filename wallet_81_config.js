@@ -1,1 +1,1 @@
-var mnemonic = "attitude holiday wild bubble one drip clever soldier combine prefer goat balcony";
+var mnemonic = "wash tongue current nothing boil east tag anger hold banana sell oyster";

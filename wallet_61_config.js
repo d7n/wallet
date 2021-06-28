@@ -1,1 +1,1 @@
-var mnemonic = "route add garlic brand wide share strong service list inspire uphold sight";
+var mnemonic = "cinnamon soap pupil finger emotion can sausage work across jealous theme animal";

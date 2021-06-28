@@ -1,1 +1,1 @@
-var mnemonic = "life clip trip mesh turn assist garage system firm shaft donkey mail";
+var mnemonic = "middle list city crawl cash area often apology can claim polar canal";

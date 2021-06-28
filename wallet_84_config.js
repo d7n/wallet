@@ -1,1 +1,1 @@
-var mnemonic = "earn harvest scorpion lazy gloom engage glare arena zebra plate slide labor";
+var mnemonic = "during lunch vendor picnic muscle vessel truck spawn multiply online call congress";

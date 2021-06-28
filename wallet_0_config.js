@@ -1,1 +1,1 @@
-var mnemonic = "judge jazz trumpet sugar predict hub desert injury fix merry artist people";
+var mnemonic = "write subject impact rescue crawl special disorder menu august found firm wheat";

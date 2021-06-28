@@ -1,1 +1,1 @@
-var mnemonic = "lock arena first parent slight paddle skill warm donor quality resource require";
+var mnemonic = "fragile skirt problem miss circle vintage goat ring section possible once position";

@@ -1,1 +1,1 @@
-var mnemonic = "move agree arm view myth rack trust brick paper wasp deliver unveil";
+var mnemonic = "apart ill clip gown confirm rare glad squeeze click fun patrol eagle";

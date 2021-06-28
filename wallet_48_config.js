@@ -1,1 +1,1 @@
-var mnemonic = "dismiss walnut icon whale sustain wealth oil stand blanket cliff vote pave";
+var mnemonic = "walk apple execute panther basket tree lumber stock reward surge come kingdom";

@@ -1,1 +1,1 @@
-var mnemonic = "garage raccoon vivid found own civil trash water measure arrow gravity trigger";
+var mnemonic = "sort make drop subway rude squeeze beauty valve mask prevent cost dwarf";

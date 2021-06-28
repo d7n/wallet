@@ -1,1 +1,1 @@
-var mnemonic = "leisure panic ring law combine false ring funny outdoor tornado dance cycle";
+var mnemonic = "surprise foam pudding endorse swear during behave outside table hammer fancy column";

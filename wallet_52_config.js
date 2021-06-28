@@ -1,1 +1,1 @@
-var mnemonic = "prepare miss brother seed bunker way veteran slender bundle junior trend decline";
+var mnemonic = "banner sibling cancel lens announce coyote adapt party wool spider appear zebra";

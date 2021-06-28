@@ -1,1 +1,1 @@
-var mnemonic = "rack sausage moment this face sell field tomato river palace today tornado";
+var mnemonic = "purchase wasp lady lawsuit decorate buyer year trust bronze voyage economy velvet";

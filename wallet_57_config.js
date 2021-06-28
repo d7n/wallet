@@ -1,1 +1,1 @@
-var mnemonic = "measure derive slogan corn topic obtain property cruise spring know merit quick";
+var mnemonic = "laundry bless nose wife sun blue napkin prepare bulb cause card wait";

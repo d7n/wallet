@@ -1,1 +1,1 @@
-var mnemonic = "job ripple music wagon runway throw wrap exact industry naive notice consider";
+var mnemonic = "whip employ eye table example sugar wrap soon lake report walk suspect";

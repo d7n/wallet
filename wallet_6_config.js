@@ -1,1 +1,1 @@
-var mnemonic = "damage ensure disease spirit analyst claim machine fetch kite input immune million";
+var mnemonic = "mass oyster neglect senior knock oblige squirrel boil enhance caution grant output";

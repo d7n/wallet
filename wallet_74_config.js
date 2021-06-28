@@ -1,1 +1,1 @@
-var mnemonic = "poet endless dumb jar pizza effort large cabin borrow steak suspect logic";
+var mnemonic = "hawk wealth slice cube ordinary purpose benefit economy harbor between nerve midnight";

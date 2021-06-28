@@ -1,1 +1,1 @@
-var mnemonic = "sustain ankle rare sad craft tape ski punch expect twenty act fringe";
+var mnemonic = "machine skill fall roof need noble cause file wheat bachelor mansion salt";

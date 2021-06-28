@@ -1,1 +1,1 @@
-var mnemonic = "plunge clutch praise arrive select congress elder share amateur unit invite globe";
+var mnemonic = "envelope yellow scare eight spend crash immense tattoo resource warfare interest eye";

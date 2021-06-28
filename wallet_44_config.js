@@ -1,1 +1,1 @@
-var mnemonic = "horn finger melody mirror photo solar lucky danger hold roof forest body";
+var mnemonic = "explain acid black ginger pilot cloud radar slab badge camp turkey pool";

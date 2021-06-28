@@ -1,1 +1,1 @@
-var mnemonic = "farm oak doll sock elite scrap blossom message protect hidden rhythm office";
+var mnemonic = "knee deal skin warrior ivory remain foster cotton neutral profit disease unhappy";

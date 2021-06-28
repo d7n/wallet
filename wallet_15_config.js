@@ -1,1 +1,1 @@
-var mnemonic = "spot inform frost alarm goose scare pepper advance clock senior glove vault";
+var mnemonic = "city panel palm tunnel powder trap enable round ready sketch pumpkin hybrid";

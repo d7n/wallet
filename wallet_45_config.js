@@ -1,1 +1,1 @@
-var mnemonic = "snap erase whip brush income pave repeat wrist tube slice prize tiny";
+var mnemonic = "fade group always enter neck unit whisper staff pencil kiwi print common";

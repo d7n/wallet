@@ -1,1 +1,1 @@
-var mnemonic = "under step betray custom bread chunk faith ready flavor garlic year depart";
+var mnemonic = "gesture wolf memory box employ wink exile mad infant pet naive fall";

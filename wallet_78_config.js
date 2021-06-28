@@ -1,1 +1,1 @@
-var mnemonic = "equal increase couple bullet track wing solve jar crucial sorry cash attend";
+var mnemonic = "noodle detail trend organ lake knee jacket crop push mail issue proof";

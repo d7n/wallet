@@ -1,1 +1,1 @@
-var mnemonic = "swing quick silent wolf day regret adult monkey omit funny unfold very";
+var mnemonic = "force midnight please confirm degree praise unique symbol interest dutch economy index";

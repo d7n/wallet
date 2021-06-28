@@ -1,1 +1,1 @@
-var mnemonic = "letter brush slab short castle web faculty boss twenty before road repair";
+var mnemonic = "such code addict lemon number gauge dinosaur fish similar wrist rebel today";

@@ -1,1 +1,1 @@
-var mnemonic = "enough genuine eager camera siege tag pledge water there install gasp mango";
+var mnemonic = "cruel expect cool diet acquire subject path tiger put fringe brisk quote";

@@ -1,1 +1,1 @@
-var mnemonic = "concert couple enter issue body prepare super shaft coyote fabric expire enough";
+var mnemonic = "wet replace depart dentist flame chat capital enforce squirrel shock hood idle";

@@ -1,1 +1,1 @@
-var mnemonic = "dinner smile gorilla hint powder cruel believe giant mesh slim now citizen";
+var mnemonic = "victory apart lawsuit home liberty regret claim spatial december clock chef shallow";

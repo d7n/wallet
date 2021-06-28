@@ -1,1 +1,1 @@
-var mnemonic = "humble then inflict dilemma frequent tunnel dirt enlist copy december pepper around";
+var mnemonic = "direct wink away burden ensure case spare option valve answer absent peace";

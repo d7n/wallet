@@ -1,1 +1,1 @@
-var mnemonic = "pool cousin virtual minute art tissue axis domain mansion nice carbon shoe";
+var mnemonic = "garlic debate space repair eye science select rib whip transfer derive kingdom";

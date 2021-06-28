@@ -1,1 +1,1 @@
-var mnemonic = "shield eye scatter antenna decrease tuition beyond prize public north goddess slab";
+var mnemonic = "copper exhaust embody fresh rice medal honey menu blush chest suffer apart";

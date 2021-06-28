@@ -1,1 +1,1 @@
-var mnemonic = "royal tourist infant talk skin believe fee egg absurd refuse shuffle survey";
+var mnemonic = "seminar afraid renew rabbit soldier legend canyon empty forum breeze surround express";

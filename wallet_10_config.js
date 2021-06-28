@@ -1,1 +1,1 @@
-var mnemonic = "reflect gentle noodle culture way slim joke half develop inside depth situate";
+var mnemonic = "caught child amazing canvas impulse skull resist lazy eight suspect evidence gun";

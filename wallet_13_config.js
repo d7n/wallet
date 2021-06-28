@@ -1,1 +1,1 @@
-var mnemonic = "hole retreat hurry length sell reward nation duty spend broom foster crush";
+var mnemonic = "borrow doctor retreat young pioneer super grass canoe donkey orbit anxiety ship";

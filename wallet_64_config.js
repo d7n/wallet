@@ -1,1 +1,1 @@
-var mnemonic = "kidney traffic pulp want behind hurt stand lemon waste insane prison flash";
+var mnemonic = "protect damp guard point able path brain enlist arctic social bean butter";

@@ -1,1 +1,1 @@
-var mnemonic = "three venture lobster cancel math palace hope boat merit crime dune artist";
+var mnemonic = "rare parrot giggle dance tornado either wire click easy jaguar alien symptom";

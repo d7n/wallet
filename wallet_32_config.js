@@ -1,1 +1,1 @@
-var mnemonic = "sport same sound uphold fantasy poverty basic fox output suspect ketchup fortune";
+var mnemonic = "abuse erupt nothing small mountain fork blade renew envelope transfer safe loan";

@@ -1,1 +1,1 @@
-var mnemonic = "deposit wing subway high desert gesture street clerk flush oven chef garage";
+var mnemonic = "reason key bench attract install oppose fatigue pluck soldier suspect shy ladder";

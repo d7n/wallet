@@ -1,1 +1,1 @@
-var mnemonic = "you action inspire wife behind jungle minor beach special wait scatter lobster";
+var mnemonic = "abstract again wisdom behind coil dirt same illness mix merry emotion person";

@@ -1,1 +1,1 @@
-var mnemonic = "patient meadow cable plunge unaware jump rude very ethics merry dignity season";
+var mnemonic = "possible more matrix visit return patrol duty dove glow online merry tell";

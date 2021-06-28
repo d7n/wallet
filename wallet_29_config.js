@@ -1,1 +1,1 @@
-var mnemonic = "atom spoil civil swing village lucky pull scheme toe tomato recall lock";
+var mnemonic = "female robot magic grit true unaware because cook sign bring battle trouble";

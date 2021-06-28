@@ -1,1 +1,1 @@
-var mnemonic = "random relief render despair wood wink theme reunion explain diet leave trial";
+var mnemonic = "burden garment amazing crowd novel venture vessel skin sibling another sun pluck";

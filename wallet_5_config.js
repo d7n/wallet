@@ -1,1 +1,1 @@
-var mnemonic = "hover knee able senior island path crane hello casual silly siren guilt";
+var mnemonic = "fetch keen transfer access front creek negative where lunch pioneer wrist clog";

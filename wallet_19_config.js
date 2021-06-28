@@ -1,1 +1,1 @@
-var mnemonic = "despair evidence stomach arena salon verb poet broccoli smoke quality patient inform";
+var mnemonic = "convince hurdle tone squirrel hockey smoke crisp tray sweet mechanic verb lens";

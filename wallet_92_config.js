@@ -1,1 +1,1 @@
-var mnemonic = "pluck volcano black boil road update orbit sound soon betray push analyst";
+var mnemonic = "squirrel curve wrong paper zero icon analyst stamp drop crew summer dinosaur";

@@ -1,1 +1,1 @@
-var mnemonic = "artefact code draw gesture chair price consider salad into theory cheap knife";
+var mnemonic = "avocado draft door gesture switch fall bring fine clip frown prize chase";

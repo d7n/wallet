@@ -1,1 +1,1 @@
-var mnemonic = "village spice verb action jump sign edit skate sleep deny gym filter";
+var mnemonic = "wreck hungry cradle mask tone shy blame tell verb banana useful ahead";

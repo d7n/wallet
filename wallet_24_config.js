@@ -1,1 +1,1 @@
-var mnemonic = "quick assault soft breeze flee north tired evoke permit decorate raise expose";
+var mnemonic = "settle dinosaur genre pig oxygen shallow museum review boring dog eagle shock";

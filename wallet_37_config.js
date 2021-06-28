@@ -1,1 +1,1 @@
-var mnemonic = "copy pen silent identify congress chase fresh slim orbit mule bitter hollow";
+var mnemonic = "skate common sock mom affair valley scene bulk rough drastic connect curtain";

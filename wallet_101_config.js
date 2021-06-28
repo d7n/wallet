@@ -1,1 +1,1 @@
-var mnemonic = "height pluck teach find auction mercy spot marble power left small soul";
+var mnemonic = "palace local fantasy movie enlist deny accuse share degree tuition fluid sentence";
