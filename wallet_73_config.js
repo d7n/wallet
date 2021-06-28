@@ -1,1 +1,1 @@
-var mnemonic = "cheap mosquito bracket nice convince twist galaxy capital tone pass eight view";
+var mnemonic = "wink damp pull skate asthma quiz local chimney neck remind hidden close";

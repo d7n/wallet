@@ -1,1 +1,1 @@
-var mnemonic = "victory apart lawsuit home liberty regret claim spatial december clock chef shallow";
+var mnemonic = "primary napkin picture toss awesome winter paddle tell soap cabin answer infant";

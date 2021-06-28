@@ -1,1 +1,1 @@
-var mnemonic = "explain acid black ginger pilot cloud radar slab badge camp turkey pool";
+var mnemonic = "arena degree minor panda trigger estate matter sun taste useless throw symptom";

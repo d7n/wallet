@@ -1,1 +1,1 @@
-var mnemonic = "survey know canoe search win amused dinosaur shoulder silly awesome cousin bird";
+var mnemonic = "emotion gasp second common episode carpet clerk repair essay myth extend capable";

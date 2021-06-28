@@ -1,1 +1,1 @@
-var mnemonic = "laundry bless nose wife sun blue napkin prepare bulb cause card wait";
+var mnemonic = "supply sting orchard short fever jaguar demand acquire envelope section roof luxury";

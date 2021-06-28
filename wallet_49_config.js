@@ -1,1 +1,1 @@
-var mnemonic = "alert guard year worry motor text dice vendor dawn until nuclear glow";
+var mnemonic = "hill danger cradle dream cheap deer fancy clutch write creek fall what";

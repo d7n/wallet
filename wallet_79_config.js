@@ -1,1 +1,1 @@
-var mnemonic = "whale history wedding drama dutch inquiry expand property concert lamp bid that";
+var mnemonic = "father recipe cluster armor focus woman limit retire shell wood shove donate";

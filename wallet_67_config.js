@@ -1,1 +1,1 @@
-var mnemonic = "recall stick apology injury noodle illness siren uphold duck kangaroo property business";
+var mnemonic = "elegant lounge practice oil room bacon dwarf solve spider enemy finish chunk";

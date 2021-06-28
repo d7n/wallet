@@ -1,1 +1,1 @@
-var mnemonic = "action scare spirit three horn detail citizen erupt deputy axis chunk luxury";
+var mnemonic = "gesture unlock fitness innocent happy immune merge color silent parent welcome tide";

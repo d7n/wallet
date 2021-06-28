@@ -1,1 +1,1 @@
-var mnemonic = "toy angle waste super patient tiger top popular nephew anchor skull mountain";
+var mnemonic = "width blame dignity lend sport stem fence cluster bleak clip upon swamp";

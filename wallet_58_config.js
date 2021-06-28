@@ -1,1 +1,1 @@
-var mnemonic = "limb crop frown tower way palm paddle pear tone thing mind still";
+var mnemonic = "eagle frown copy hold jar valve camera there sand spray indicate turkey";

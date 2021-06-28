@@ -1,1 +1,1 @@
-var mnemonic = "claim fix island reform blame guess aisle toward champion scrub sad antenna";
+var mnemonic = "lottery apart alone craft foil arena bitter just curious leave danger avocado";

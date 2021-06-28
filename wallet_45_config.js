@@ -1,1 +1,1 @@
-var mnemonic = "fade group always enter neck unit whisper staff pencil kiwi print common";
+var mnemonic = "access congress tape travel stand tower fresh glad hundred broken argue exhibit";

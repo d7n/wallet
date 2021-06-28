@@ -1,1 +1,1 @@
-var mnemonic = "lend link youth crunch next crater true super pen hard chalk awful";
+var mnemonic = "spider task put east elephant box smooth purity salad arrive outside spy";

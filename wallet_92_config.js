@@ -1,1 +1,1 @@
-var mnemonic = "squirrel curve wrong paper zero icon analyst stamp drop crew summer dinosaur";
+var mnemonic = "snack sing group penalty clump island cereal equal gate maximum regret arrest";

@@ -1,1 +1,1 @@
-var mnemonic = "cliff fruit exchange scare theme umbrella harsh repeat forest squeeze kiwi excuse";
+var mnemonic = "aspect same disorder fun lens just real shuffle tail ignore humble body";

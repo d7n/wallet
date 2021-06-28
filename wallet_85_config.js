@@ -1,1 +1,1 @@
-var mnemonic = "envelope yellow scare eight spend crash immense tattoo resource warfare interest eye";
+var mnemonic = "raise father govern toilet nuclear connect manage shadow nurse taste act come";

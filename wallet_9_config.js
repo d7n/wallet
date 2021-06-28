@@ -1,1 +1,1 @@
-var mnemonic = "glimpse dance rabbit yellow always expire lend drift dignity pole vacant olive";
+var mnemonic = "pond acid dinner peasant boil oyster jealous bring rose route midnight primary";

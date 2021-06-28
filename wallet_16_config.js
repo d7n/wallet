@@ -1,1 +1,1 @@
-var mnemonic = "surprise foam pudding endorse swear during behave outside table hammer fancy column";
+var mnemonic = "mansion unique bulb almost pulp own gym thunder scissors chuckle thumb seven";

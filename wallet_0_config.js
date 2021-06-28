@@ -1,1 +1,1 @@
-var mnemonic = "write subject impact rescue crawl special disorder menu august found firm wheat";
+var mnemonic = "clock stand pull jar best pond shop south army battle tilt media";

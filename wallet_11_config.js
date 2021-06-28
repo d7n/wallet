@@ -1,1 +1,1 @@
-var mnemonic = "test merry shiver decline glance behind mercy area renew clutch dress unaware";
+var mnemonic = "below window all stock layer subject opera bind inside siege step response";

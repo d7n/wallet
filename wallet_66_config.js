@@ -1,1 +1,1 @@
-var mnemonic = "behave noise avocado tonight ice soap crack inch gallery salute intact remember";
+var mnemonic = "glove large sister acoustic salute job detail help rude distance process loop";

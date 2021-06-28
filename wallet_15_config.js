@@ -1,1 +1,1 @@
-var mnemonic = "city panel palm tunnel powder trap enable round ready sketch pumpkin hybrid";
+var mnemonic = "will exist creek famous gloom movie square shy bracket retire short puzzle";

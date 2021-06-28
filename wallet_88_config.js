@@ -1,1 +1,1 @@
-var mnemonic = "spike rule glass side pupil use innocent age behind tackle cradle song";
+var mnemonic = "nice normal sell door tube judge between goddess ethics giraffe era spray";

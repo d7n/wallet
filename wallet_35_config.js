@@ -1,1 +1,1 @@
-var mnemonic = "knee deal skin warrior ivory remain foster cotton neutral profit disease unhappy";
+var mnemonic = "chunk sell today mixed memory boring require jealous link project always nothing";

@@ -1,1 +1,1 @@
-var mnemonic = "february coach solar elite okay toward electric above into dinner pact aware";
+var mnemonic = "enable depend category sponsor region stone beach impose report poem sell egg";

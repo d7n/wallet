@@ -1,1 +1,1 @@
-var mnemonic = "spike improve extra ship buyer rural clever satoshi expect jacket magnet talk";
+var mnemonic = "protect hammer ozone pudding dinosaur domain fossil biology claim title prison into";

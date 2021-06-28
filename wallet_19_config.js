@@ -1,1 +1,1 @@
-var mnemonic = "convince hurdle tone squirrel hockey smoke crisp tray sweet mechanic verb lens";
+var mnemonic = "setup soccer human jewel effort also hero monitor coconut clog style cheese";

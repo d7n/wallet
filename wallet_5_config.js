@@ -1,1 +1,1 @@
-var mnemonic = "fetch keen transfer access front creek negative where lunch pioneer wrist clog";
+var mnemonic = "trophy sound submit quote purpose slab dilemma tired cause rifle immense verb";

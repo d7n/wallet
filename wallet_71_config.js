@@ -1,1 +1,1 @@
-var mnemonic = "lecture sunny move coin foot tortoise cousin mobile boy dish peasant boy";
+var mnemonic = "dinner column boss nephew toward service icon pumpkin fence truth fresh inherit";

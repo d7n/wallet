@@ -1,1 +1,1 @@
-var mnemonic = "abstract again wisdom behind coil dirt same illness mix merry emotion person";
+var mnemonic = "vacant obtain end shiver regular bunker gasp rookie shaft unlock amount dynamic";

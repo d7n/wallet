@@ -1,1 +1,1 @@
-var mnemonic = "seed crawl gentle modify two grunt arch boost office magic despair bus";
+var mnemonic = "cute milk online keen tumble renew common top phone volcano normal scan";

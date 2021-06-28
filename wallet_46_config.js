@@ -1,1 +1,1 @@
-var mnemonic = "helmet common cat hunt sand case jungle hollow immense fog shrug salon";
+var mnemonic = "forward chef tone mutual junior flower purity border welcome alter book acid";

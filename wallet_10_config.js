@@ -1,1 +1,1 @@
-var mnemonic = "caught child amazing canvas impulse skull resist lazy eight suspect evidence gun";
+var mnemonic = "mention festival fatigue thank better square hood mass marriage wheel model brave";

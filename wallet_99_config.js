@@ -1,1 +1,1 @@
-var mnemonic = "waste brisk asset brother drama borrow toss prosper boring consider over best";
+var mnemonic = "mouse arrest length monster fly stool more drop exercise faith always pig";

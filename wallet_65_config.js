@@ -1,1 +1,1 @@
-var mnemonic = "burden garment amazing crowd novel venture vessel skin sibling another sun pluck";
+var mnemonic = "learn pass border loud era brave check fit guide frequent jazz empower";

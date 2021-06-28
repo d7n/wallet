@@ -1,1 +1,1 @@
-var mnemonic = "employ share damage move parrot reopen shaft icon journey select issue pear";
+var mnemonic = "employ convince blade text fence output silent simple champion letter panda special";

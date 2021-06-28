@@ -1,1 +1,1 @@
-var mnemonic = "exclude merry click kingdom mistake fish circle mad chase device capable retire";
+var mnemonic = "energy rabbit pyramid giraffe flock update piano general include chaos horn alter";

@@ -1,1 +1,1 @@
-var mnemonic = "reason key bench attract install oppose fatigue pluck soldier suspect shy ladder";
+var mnemonic = "bird impose arena bamboo bamboo forward color clarify kiwi shock print divide";

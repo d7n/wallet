@@ -1,1 +1,1 @@
-var mnemonic = "borrow doctor retreat young pioneer super grass canoe donkey orbit anxiety ship";
+var mnemonic = "olympic can crater smooth cat bicycle bike chief inspire music cook quiz";

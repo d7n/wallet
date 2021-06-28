@@ -1,1 +1,1 @@
-var mnemonic = "antique meadow amazing bar liar spoon tilt option table swarm able dune";
+var mnemonic = "lecture captain magnet remain depth casual panel play suggest turn pen range";

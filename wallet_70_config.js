@@ -1,1 +1,1 @@
-var mnemonic = "dolphin valley whip nothing humble confirm win silent define tackle oyster smile";
+var mnemonic = "ridge denial decrease limit crater cool giraffe rug dignity light rigid lucky";

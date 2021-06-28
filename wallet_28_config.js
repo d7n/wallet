@@ -1,1 +1,1 @@
-var mnemonic = "cement title pledge pitch earn uncover desert nephew dress cable jealous collect";
+var mnemonic = "cannon useless worry ribbon priority usual prepare cricket sister prison olympic discover";

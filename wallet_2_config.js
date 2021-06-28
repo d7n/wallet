@@ -1,1 +1,1 @@
-var mnemonic = "force midnight please confirm degree praise unique symbol interest dutch economy index";
+var mnemonic = "subject picnic worry truly clog midnight stuff ripple volume clown master artwork";

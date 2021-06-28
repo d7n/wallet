@@ -1,1 +1,1 @@
-var mnemonic = "wet replace depart dentist flame chat capital enforce squirrel shock hood idle";
+var mnemonic = "excuse predict slim loop fiber wreck risk holiday renew slight flip wild";

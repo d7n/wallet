@@ -1,1 +1,1 @@
-var mnemonic = "machine skill fall roof need noble cause file wheat bachelor mansion salt";
+var mnemonic = "rough mango screen dress skirt affair turn hedgehog hundred rural salt spice";

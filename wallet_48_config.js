@@ -1,1 +1,1 @@
-var mnemonic = "walk apple execute panther basket tree lumber stock reward surge come kingdom";
+var mnemonic = "result turn federal future orient bundle repeat purpose laundry rice twin attend";

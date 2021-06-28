@@ -1,1 +1,1 @@
-var mnemonic = "sort make drop subway rude squeeze beauty valve mask prevent cost dwarf";
+var mnemonic = "parrot better equal fiscal embark radar love unhappy airport finger season mansion";

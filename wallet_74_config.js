@@ -1,1 +1,1 @@
-var mnemonic = "hawk wealth slice cube ordinary purpose benefit economy harbor between nerve midnight";
+var mnemonic = "defense observe seek hen public beach brick timber donkey have picnic frozen";

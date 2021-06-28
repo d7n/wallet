@@ -1,1 +1,1 @@
-var mnemonic = "coyote ivory dutch meat sting skate grass swallow warrior seven abandon rug";
+var mnemonic = "rhythm visit toddler scale fire gauge emotion pudding story tortoise siren soul";

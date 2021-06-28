@@ -1,1 +1,1 @@
-var mnemonic = "whip employ eye table example sugar wrap soon lake report walk suspect";
+var mnemonic = "fix naive document eagle net hill elbow pelican casual ordinary life loud";

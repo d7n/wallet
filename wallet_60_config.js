@@ -1,1 +1,1 @@
-var mnemonic = "praise piano half squirrel pupil leisure powder trip gossip cost purse rib";
+var mnemonic = "inflict limit among opera athlete winner hollow candy vintage wrist grunt broccoli";

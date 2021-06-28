@@ -1,1 +1,1 @@
-var mnemonic = "phone home pet object paper crazy silent kiss abuse two final faith";
+var mnemonic = "leisure box donate device sing monitor dumb swing toss ostrich clutch kick";

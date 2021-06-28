@@ -1,1 +1,1 @@
-var mnemonic = "tumble slush borrow gorilla room middle fiction loan join index absurd toe";
+var mnemonic = "garage captain struggle napkin shove bird prefer lava oblige fossil sense wheat";

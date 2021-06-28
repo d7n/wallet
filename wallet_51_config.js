@@ -1,1 +1,1 @@
-var mnemonic = "weather vivid million blouse neither winter motion harsh chef bottom post panic";
+var mnemonic = "situate afraid affair pulse arrow jacket equip pave edge grace profit empty";

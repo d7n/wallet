@@ -1,1 +1,1 @@
-var mnemonic = "garlic debate space repair eye science select rib whip transfer derive kingdom";
+var mnemonic = "helmet later scale there mask coyote surprise east panda boy ride axis";

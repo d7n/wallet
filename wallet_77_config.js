@@ -1,1 +1,1 @@
-var mnemonic = "wreck hungry cradle mask tone shy blame tell verb banana useful ahead";
+var mnemonic = "decline sorry garbage another first tag must brain undo comfort glimpse symptom";

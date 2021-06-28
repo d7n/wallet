@@ -1,1 +1,1 @@
-var mnemonic = "protect damp guard point able path brain enlist arctic social bean butter";
+var mnemonic = "visa height dance drift cheese bunker matrix dream hero skull oxygen orange";

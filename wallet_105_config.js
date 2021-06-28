@@ -1,1 +1,1 @@
-var mnemonic = "purchase wasp lady lawsuit decorate buyer year trust bronze voyage economy velvet";
+var mnemonic = "quote online twenty layer boat illness ginger chaos man exhaust void link";

@@ -1,1 +1,1 @@
-var mnemonic = "middle list city crawl cash area often apology can claim polar canal";
+var mnemonic = "genius just coconut injury undo movie multiply evoke tone frequent turn swim";

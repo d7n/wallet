@@ -1,1 +1,1 @@
-var mnemonic = "during lunch vendor picnic muscle vessel truck spawn multiply online call congress";
+var mnemonic = "cause twenty uniform solution crawl seat device soul mesh october pole comfort";

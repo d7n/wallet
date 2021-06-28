@@ -1,1 +1,1 @@
-var mnemonic = "abstract proud assist genuine face exact excuse track group iron siege tomato";
+var mnemonic = "ball bind square pulp cool slide test mesh tiger timber month brick";

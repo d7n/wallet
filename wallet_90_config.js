@@ -1,1 +1,1 @@
-var mnemonic = "oppose diary busy close enjoy antique vapor celery common buzz blanket initial";
+var mnemonic = "photo core report reform treat parade cattle goose invite indoor attack fancy";

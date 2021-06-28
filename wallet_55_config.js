@@ -1,1 +1,1 @@
-var mnemonic = "eye suspect rough lunar outer fatal wall upper secret inch minimum object";
+var mnemonic = "gravity enroll laugh expose legend lecture photo list topple struggle metal alter";

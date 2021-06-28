@@ -1,1 +1,1 @@
-var mnemonic = "abuse erupt nothing small mountain fork blade renew envelope transfer safe loan";
+var mnemonic = "certain liberty dad cushion radar robot raise slush scan inhale narrow rare";

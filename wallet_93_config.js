@@ -1,1 +1,1 @@
-var mnemonic = "budget inch quality festival gate elbow gospel remind envelope romance dawn mutual";
+var mnemonic = "clean noise nephew sudden doll surge slot shield fly pyramid device certain";

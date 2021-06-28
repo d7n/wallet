@@ -1,1 +1,1 @@
-var mnemonic = "couple frown sheriff nominee fame invite degree just milk happy diesel hour";
+var mnemonic = "soap inject miss hobby marriage spoon talk gorilla nerve thank impact panther";

@@ -1,1 +1,1 @@
-var mnemonic = "wide cherry fruit lava fruit relief defy dry symptom struggle you corn";
+var mnemonic = "absurd crisp gather result dog attend toilet author tiny achieve oval foster";

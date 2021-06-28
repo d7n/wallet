@@ -1,1 +1,1 @@
-var mnemonic = "furnace search february year quiz pledge portion radar call render urban warfare";
+var mnemonic = "strike fan soft behave memory trust talent weather evidence pledge dizzy economy";

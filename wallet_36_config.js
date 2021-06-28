@@ -1,1 +1,1 @@
-var mnemonic = "rail vibrant asthma cloth empty drastic latin drop visual remain hawk goose";
+var mnemonic = "size end divorce target sausage assist vanish autumn west assume mass busy";

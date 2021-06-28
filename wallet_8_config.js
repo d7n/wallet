@@ -1,1 +1,1 @@
-var mnemonic = "okay old slim census dance benefit miss unlock sense broken manage option";
+var mnemonic = "when arrive drill warfare any cup lock figure bargain ribbon hero lucky";

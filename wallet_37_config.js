@@ -1,1 +1,1 @@
-var mnemonic = "skate common sock mom affair valley scene bulk rough drastic connect curtain";
+var mnemonic = "indicate runway artist hunt exist load stairs nothing above project day ghost";

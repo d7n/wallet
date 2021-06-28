@@ -1,1 +1,1 @@
-var mnemonic = "banner sibling cancel lens announce coyote adapt party wool spider appear zebra";
+var mnemonic = "trust member jeans receive surprise click sock early rhythm hill nature bronze";

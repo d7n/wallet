@@ -1,1 +1,1 @@
-var mnemonic = "cruel expect cool diet acquire subject path tiger put fringe brisk quote";
+var mnemonic = "shoot skull immune crater level rack elevator mind degree admit gadget bottom";

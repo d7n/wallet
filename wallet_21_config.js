@@ -1,1 +1,1 @@
-var mnemonic = "decide nuclear goose boil evolve like yellow cradle measure local hair stick";
+var mnemonic = "uncle amount canyon blast decorate left gesture lonely garage absurd cupboard pull";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar afraid renew rabbit soldier legend canyon empty forum breeze surround express";
+var mnemonic = "venture over fiction jar pet pear leopard talk invite glove olive access";

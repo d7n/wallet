@@ -1,1 +1,1 @@
-var mnemonic = "camp frog stable oblige gas blossom favorite vocal category install just dizzy";
+var mnemonic = "eight urge lizard valve kidney toe melody box bean book normal material";

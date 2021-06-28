@@ -1,1 +1,1 @@
-var mnemonic = "apart ill clip gown confirm rare glad squeeze click fun patrol eagle";
+var mnemonic = "tail accident arm detect better kingdom domain large suffer develop doll win";

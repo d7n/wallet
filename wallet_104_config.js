@@ -1,1 +1,1 @@
-var mnemonic = "ancient crater still online note throw legend shed immune teach punch rough";
+var mnemonic = "chat merry carpet pill acoustic lunar badge tree educate diagram know topic";

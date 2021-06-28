@@ -1,1 +1,1 @@
-var mnemonic = "avocado draft door gesture switch fall bring fine clip frown prize chase";
+var mnemonic = "obvious lens brother leg bone unfold color baby wrestle toward baby shove";

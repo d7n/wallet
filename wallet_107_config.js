@@ -1,1 +1,1 @@
-var mnemonic = "subway wife urban rifle mask rent weather deliver evil oppose any auction";
+var mnemonic = "crouch dawn harsh sail fiscal solve offer open fade message toy now";

@@ -1,1 +1,1 @@
-var mnemonic = "cook gasp fame average stairs wisdom ecology prevent math dizzy social road";
+var mnemonic = "globe asthma wing program alien turn inside similar penalty income invite festival";

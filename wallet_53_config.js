@@ -1,1 +1,1 @@
-var mnemonic = "sail item attitude trophy unlock skate galaxy gadget lecture hello float debate";
+var mnemonic = "office early vague inner sea frequent recycle quick satoshi blood idea velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "possible more matrix visit return patrol duty dove glow online merry tell";
+var mnemonic = "slim alley carbon october pencil fever survey rack frown blue top depart";
