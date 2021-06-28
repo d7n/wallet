@@ -1,1 +1,1 @@
-var mnemonic = "shield quick divorce labor receive release roast girl north clerk crazy exclude";
+var mnemonic = "expand have fluid spy wood knee candy coast current tortoise multiply surge";

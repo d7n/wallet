@@ -1,1 +1,1 @@
-var mnemonic = "charge adult donor limit step life deliver gown replace couple engage arch";
+var mnemonic = "culture turn present stereo coral saddle scrub system giggle number mask mango";

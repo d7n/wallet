@@ -1,1 +1,1 @@
-var mnemonic = "mobile shaft bounce banner such away guilt exercise usage cabin fashion quote";
+var mnemonic = "wall early ripple lawn observe error witness begin market burden buddy cheap";

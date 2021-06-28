@@ -1,1 +1,1 @@
-var mnemonic = "oven brave text neck damage toss orphan estate alley reflect dilemma fold";
+var mnemonic = "carpet stomach renew day outer dance stem patrol method idle prosper oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "garage crawl now cousin pelican giraffe legal wrap social solar clinic buzz";
+var mnemonic = "keep noise wear hood one destroy type slow put wisdom knife danger";

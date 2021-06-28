@@ -1,1 +1,1 @@
-var mnemonic = "sniff amazing elder void normal name cigar leisure industry sibling distance metal";
+var mnemonic = "camera mercy summer slab nasty dilemma sphere motion bean beach siren until";

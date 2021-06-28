@@ -1,1 +1,1 @@
-var mnemonic = "caught friend country gym gap penalty regret year author empower wage magic";
+var mnemonic = "ring blush dice approve silent flee repair glare tip lottery flight visual";

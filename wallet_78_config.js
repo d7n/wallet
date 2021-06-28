@@ -1,1 +1,1 @@
-var mnemonic = "fence another utility slender foil above pink worth fury venture rather denial";
+var mnemonic = "west submit bonus average prosper boost sock only wonder couple unusual damp";

@@ -1,1 +1,1 @@
-var mnemonic = "suffer vague ready gravity space hello science educate hotel liar butter safe";
+var mnemonic = "glory yard shy gentle space rack situate thrive churn add member ride";

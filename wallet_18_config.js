@@ -1,1 +1,1 @@
-var mnemonic = "stable outer boost battle firm fly heart friend chapter evolve shock source";
+var mnemonic = "victory review legend kiwi valley urban trade across clock peace receive hair";

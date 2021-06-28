@@ -1,1 +1,1 @@
-var mnemonic = "rib scale this gorilla critic hair vague dilemma eye gather gaze garlic";
+var mnemonic = "wash confirm pink talk return outside crater loyal escape shop heavy shoe";

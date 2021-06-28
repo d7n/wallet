@@ -1,1 +1,1 @@
-var mnemonic = "session cinnamon vapor blind alcohol scene paper warrior sugar outer grow local";
+var mnemonic = "fiber goose ahead urge permit sell flush envelope cruel bone fog alien";

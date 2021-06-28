@@ -1,1 +1,1 @@
-var mnemonic = "lesson gaze stamp holiday idle two tail depth indoor idle lend erase";
+var mnemonic = "real bulk short draft anxiety fashion actress will safe correct december figure";

@@ -1,1 +1,1 @@
-var mnemonic = "demand first fuel cloth seven awesome already comic local tree fuel cricket";
+var mnemonic = "stumble charge jump weird mutual brother goose churn exchange inject bundle crouch";

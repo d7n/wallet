@@ -1,1 +1,1 @@
-var mnemonic = "word avoid scale dinner unfair secret range pulp squeeze jazz absurd vacant";
+var mnemonic = "recall vintage erase oblige traffic clown window prepare letter promote trip knee";

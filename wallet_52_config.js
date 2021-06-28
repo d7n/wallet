@@ -1,1 +1,1 @@
-var mnemonic = "alone toss refuse dismiss reason coconut rack into lunar sell false street";
+var mnemonic = "moon muffin bulb cube cool plate lemon scrub side impose despair ritual";

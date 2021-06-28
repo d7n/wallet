@@ -1,1 +1,1 @@
-var mnemonic = "exhaust furnace burst fiscal field meat arena nothing trust mango pulse blood";
+var mnemonic = "grace echo aim garment hurdle visit can donkey radar picture busy tennis";

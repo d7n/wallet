@@ -1,1 +1,1 @@
-var mnemonic = "orient dance surface reject know popular cheap train usual pyramid pass grace";
+var mnemonic = "awesome science powder grid frame loyal wealth success resist venue under asset";

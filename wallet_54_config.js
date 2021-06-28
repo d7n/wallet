@@ -1,1 +1,1 @@
-var mnemonic = "senior crouch beach fuel artwork catch arrive connect trick ticket artist moon";
+var mnemonic = "violin oxygen roof secret bomb solution stereo jazz wage monitor annual artwork";

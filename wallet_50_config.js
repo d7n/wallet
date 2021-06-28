@@ -1,1 +1,1 @@
-var mnemonic = "pretty wheat danger idle merge staff where utility hood bring noble raise";
+var mnemonic = "same bean escape boss dawn laptop author start detail monkey fancy lady";

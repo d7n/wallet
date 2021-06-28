@@ -1,1 +1,1 @@
-var mnemonic = "east brick unveil brave render ankle usual elder quality tank upset funny";
+var mnemonic = "sail spring public parent paper hidden daring relief depart prevent accuse erupt";

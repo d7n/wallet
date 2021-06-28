@@ -1,1 +1,1 @@
-var mnemonic = "retire exchange rack sunset century glimpse talent crater teach lesson estate raw";
+var mnemonic = "lava strong always logic adapt field warfare client spike stone purity hat";

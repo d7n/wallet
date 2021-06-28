@@ -1,1 +1,1 @@
-var mnemonic = "refuse sorry word edge train april arch cabin blind sweet moon truck";
+var mnemonic = "corn marble enough slice shrimp ranch latin hurry predict convince vacant aspect";

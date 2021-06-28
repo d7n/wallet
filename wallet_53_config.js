@@ -1,1 +1,1 @@
-var mnemonic = "gather peace lyrics gloom frost flip nothing music citizen bacon deal midnight";
+var mnemonic = "grace rebel bone black soft card crisp similar ketchup mobile moment umbrella";

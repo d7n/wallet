@@ -1,1 +1,1 @@
-var mnemonic = "alpha dove discover laugh nation dish plunge trial way flight moment slow";
+var mnemonic = "helmet awkward shy cushion silent unique surface screen dish embrace pave bacon";

@@ -1,1 +1,1 @@
-var mnemonic = "wink believe toss cash into length news problem genuine desk toilet rug";
+var mnemonic = "phone resist hello lesson chief rice employ floor pet club submit lazy";

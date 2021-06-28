@@ -1,1 +1,1 @@
-var mnemonic = "behind uniform loud actual sample humor detect early frost pulse stereo usage";
+var mnemonic = "cargo airport medal pigeon document design floor domain glow weather idea save";

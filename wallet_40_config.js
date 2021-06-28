@@ -1,1 +1,1 @@
-var mnemonic = "family decorate endless ugly flame brand pizza beauty firm certain february whip";
+var mnemonic = "boost economy winter ginger jeans autumn express myth next chest undo next";

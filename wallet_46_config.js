@@ -1,1 +1,1 @@
-var mnemonic = "walnut man endorse jewel bulb certain crumble supreme velvet next weird setup";
+var mnemonic = "sense demand enact off huge argue crumble gaze learn humble common distance";

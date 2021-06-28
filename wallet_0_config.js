@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit area feature chef hold industry inquiry kidney mad front permit involve";
+var mnemonic = "wrestle onion board this elevator whale enroll gold nerve kidney flock salmon";

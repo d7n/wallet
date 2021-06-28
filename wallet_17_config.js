@@ -1,1 +1,1 @@
-var mnemonic = "alone sea nuclear agree much lab thing twenty forward bomb wreck little";
+var mnemonic = "birth pen inhale junior alley tip empty grid black armed trouble area";

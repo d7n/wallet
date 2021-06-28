@@ -1,1 +1,1 @@
-var mnemonic = "tube saddle entry wisdom hundred taxi glide process nothing mystery select glide";
+var mnemonic = "truly chronic timber resource mind tobacco exact lazy alpha calm thought ski";

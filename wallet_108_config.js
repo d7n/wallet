@@ -1,1 +1,1 @@
-var mnemonic = "illness pupil neutral rude error poet climb health color detail gold tourist";
+var mnemonic = "size good inspire ramp forum large duck happy attitude fever option symbol";

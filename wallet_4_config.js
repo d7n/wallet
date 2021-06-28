@@ -1,1 +1,1 @@
-var mnemonic = "ensure visa penalty fish gaze soon child space fun endless thumb asthma";
+var mnemonic = "either drum enable shed lens eternal rude approve wash portion sand climb";

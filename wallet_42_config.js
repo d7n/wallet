@@ -1,1 +1,1 @@
-var mnemonic = "oil warrior throw slow eager forget virtual wedding enforce speak sample debris";
+var mnemonic = "museum law orchard affair rigid story screen sense useful thunder employ green";

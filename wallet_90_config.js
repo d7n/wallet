@@ -1,1 +1,1 @@
-var mnemonic = "forest hint obtain fine bind fit burger license what cushion author recycle";
+var mnemonic = "will deposit crumble length win artwork turn kick acid outside atom royal";

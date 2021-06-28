@@ -1,1 +1,1 @@
-var mnemonic = "bring else run patch release divide stairs tomato give family rich brother";
+var mnemonic = "uniform liar confirm abandon rifle jealous oven rose lesson harsh grocery humble";

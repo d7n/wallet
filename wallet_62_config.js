@@ -1,1 +1,1 @@
-var mnemonic = "metal bless keep spell educate wash board stomach correct chunk scheme top";
+var mnemonic = "nut kangaroo joy occur music horse visit word twist ginger news asset";

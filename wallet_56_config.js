@@ -1,1 +1,1 @@
-var mnemonic = "accuse long junior betray together shoulder print dentist analyst carry claw mixed";
+var mnemonic = "solid frequent valley cry resemble marble strategy country smooth employ bicycle cherry";

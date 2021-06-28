@@ -1,1 +1,1 @@
-var mnemonic = "unknown crowd client favorite talent inject exotic alone museum chapter success over";
+var mnemonic = "custom write diamond library mixed solid comfort inflict deer post token attend";

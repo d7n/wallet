@@ -1,1 +1,1 @@
-var mnemonic = "round limb wink example chronic easily modify sunny daughter hurt style tower";
+var mnemonic = "valid loan gossip kiss sound argue armed trick surface fit draw pause";

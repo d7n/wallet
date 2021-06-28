@@ -1,1 +1,1 @@
-var mnemonic = "decline boat student spot rely easy angry genuine viable taste gas cement";
+var mnemonic = "save air weekend innocent dad cake welcome skin milk goat goddess jaguar";

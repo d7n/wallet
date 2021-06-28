@@ -1,1 +1,1 @@
-var mnemonic = "language sadness olympic biology just excite finish siege when dad hamster field";
+var mnemonic = "spike trust admit organ trophy exercise wild negative giant lonely camp milk";

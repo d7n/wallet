@@ -1,1 +1,1 @@
-var mnemonic = "right pair blossom dynamic trophy always praise fence orphan possible gasp insane";
+var mnemonic = "spike nothing inform wave chicken leisure spot ritual trash hello live seed";

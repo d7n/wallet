@@ -1,1 +1,1 @@
-var mnemonic = "add message garbage analyst adjust mass cage involve mention hybrid give angry";
+var mnemonic = "alter never awesome remain mercy spatial custom champion capable east meadow sad";

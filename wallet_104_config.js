@@ -1,1 +1,1 @@
-var mnemonic = "gather party sell yellow glare work whip giggle danger sunny manual satisfy";
+var mnemonic = "wool search number swift fog cloth year insane seat control merit august";

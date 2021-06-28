@@ -1,1 +1,1 @@
-var mnemonic = "boat cause amateur broccoli devote can twist document core certain science basket";
+var mnemonic = "blind arrive pigeon hope saddle drip panther cluster book add exchange amount";

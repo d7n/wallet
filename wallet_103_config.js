@@ -1,1 +1,1 @@
-var mnemonic = "frog equal stumble pencil wheel girl bicycle shell follow analyst report enter";
+var mnemonic = "garlic assist half cloud require arrive entry coil scale wasp odor dove";

@@ -1,1 +1,1 @@
-var mnemonic = "boil saddle coffee reveal width easy disorder alter item inside hobby laptop";
+var mnemonic = "march portion gesture deposit height minor salad before satoshi fatal health stomach";

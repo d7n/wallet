@@ -1,1 +1,1 @@
-var mnemonic = "punch solve round mango mixed next pottery december reduce leaf famous elegant";
+var mnemonic = "scissors over hood absorb humble unfold barrel pony security entry library famous";

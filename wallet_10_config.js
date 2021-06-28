@@ -1,1 +1,1 @@
-var mnemonic = "empower swarm impose pulp stay energy actual gospel peace method kangaroo october";
+var mnemonic = "fat attend carpet crime diagram topic broken trim luggage tuition birth seat";

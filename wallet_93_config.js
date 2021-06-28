@@ -1,1 +1,1 @@
-var mnemonic = "piece swallow obvious ankle clip control oval pottery vehicle leopard girl make";
+var mnemonic = "claim person antique dynamic project summer elder habit crouch fossil faculty stadium";

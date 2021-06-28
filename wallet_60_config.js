@@ -1,1 +1,1 @@
-var mnemonic = "angle seminar slam toast kind stereo run excess napkin video dash project";
+var mnemonic = "tortoise ranch icon cinnamon fantasy buzz drastic picture liar scrub horse wheat";

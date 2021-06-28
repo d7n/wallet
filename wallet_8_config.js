@@ -1,1 +1,1 @@
-var mnemonic = "average clown client tongue media lizard rug pole toe mad drip domain";
+var mnemonic = "pretty balcony example crowd garment bid dumb marriage together wink forward have";

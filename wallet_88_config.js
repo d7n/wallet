@@ -1,1 +1,1 @@
-var mnemonic = "tenant hungry eager nose illness shield sunset gossip rapid spell boat clever";
+var mnemonic = "happy bulb wood mask cinnamon hard giraffe metal garage apart ranch shrug";

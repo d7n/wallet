@@ -1,1 +1,1 @@
-var mnemonic = "ocean smart bamboo critic useless old hurdle depth quiz soldier pyramid stairs";
+var mnemonic = "clinic idle hobby pepper achieve borrow weird diet height sketch medal evidence";

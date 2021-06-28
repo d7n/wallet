@@ -1,1 +1,1 @@
-var mnemonic = "phrase acid horn staff soup giant reduce deny hair mass water gadget";
+var mnemonic = "they lumber side rather manage melt south select piece wedding hunt tube";

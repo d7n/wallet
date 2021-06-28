@@ -1,1 +1,1 @@
-var mnemonic = "unique merit shuffle mercy bottom skate camp snack parent alone truth insane";
+var mnemonic = "choice link salute improve enrich idle mix lamp tenant hurdle candy claim";

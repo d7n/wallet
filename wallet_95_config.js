@@ -1,1 +1,1 @@
-var mnemonic = "firm meat weasel dinosaur false fashion logic defense piano find chunk crisp";
+var mnemonic = "decade chuckle print employ rocket umbrella entry act ride split win tiny";

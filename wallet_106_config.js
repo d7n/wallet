@@ -1,1 +1,1 @@
-var mnemonic = "domain wet pistol lazy family ladder vault buddy fun dentist salute they";
+var mnemonic = "eight alpha knock divorce metal age keep other cricket conduct lend modify";

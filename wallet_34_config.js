@@ -1,1 +1,1 @@
-var mnemonic = "vanish cube kick myth bring liar obscure virtual pipe arrest wrist happy";
+var mnemonic = "bamboo lawsuit rate praise venue end cream peanut dirt trend split scrap";

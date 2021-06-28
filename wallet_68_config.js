@@ -1,1 +1,1 @@
-var mnemonic = "title task short tube remember minor much teach pride fatigue olympic flash";
+var mnemonic = "wrestle pitch tumble february cricket figure ridge cradle category obscure coast secret";

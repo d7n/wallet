@@ -1,1 +1,1 @@
-var mnemonic = "pull depart drink convince bamboo reason fury lesson knife enlist perfect always";
+var mnemonic = "arm hover normal ranch predict side song devote fringe document devote walnut";

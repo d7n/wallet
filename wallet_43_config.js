@@ -1,1 +1,1 @@
-var mnemonic = "pig rack turn metal strategy input evidence crazy salmon income park aim";
+var mnemonic = "defense imitate adult govern laugh search actor throw wrestle scatter detail term";

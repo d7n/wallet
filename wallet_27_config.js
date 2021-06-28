@@ -1,1 +1,1 @@
-var mnemonic = "total estate peasant robot alert field lava involve basket erupt rubber dice";
+var mnemonic = "caution light owner about labor owner snow choose give identify notable small";

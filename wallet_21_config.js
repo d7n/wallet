@@ -1,1 +1,1 @@
-var mnemonic = "dirt milk shuffle sphere kid glance lens problem chronic intact maple cost";
+var mnemonic = "private slot control seek region fashion gadget absent soft winter liar check";

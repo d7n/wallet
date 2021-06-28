@@ -1,1 +1,1 @@
-var mnemonic = "lunch degree clump rabbit alley depend glare grain chief six fatal region";
+var mnemonic = "ancient couple slab salad draft banner chef reunion earn share fluid palm";

@@ -1,1 +1,1 @@
-var mnemonic = "crystal area cancel promote slice tourist galaxy elegant antique garlic milk hat";
+var mnemonic = "change maple swallow maid cake reveal trash install kitchen upgrade excuse news";

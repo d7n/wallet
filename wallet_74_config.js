@@ -1,1 +1,1 @@
-var mnemonic = "empower snow cotton defense rapid appear recipe protect plate auction side ride";
+var mnemonic = "room birth surround scissors robust total impact tower slogan normal mutual assist";

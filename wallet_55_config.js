@@ -1,1 +1,1 @@
-var mnemonic = "disorder spring digital method island morning report maple used husband day sample";
+var mnemonic = "magic rotate rigid win giggle soap play interest brave horse perfect camp";

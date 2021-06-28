@@ -1,1 +1,1 @@
-var mnemonic = "check cousin bitter inform toddler round again because stable humor thought rapid";
+var mnemonic = "antenna lazy friend eternal cinnamon screen weapon heart cream toss escape mobile";

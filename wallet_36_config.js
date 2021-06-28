@@ -1,1 +1,1 @@
-var mnemonic = "wave barely blouse milk describe amused desk happy before rival price use";
+var mnemonic = "sight chair diary panda myself dream enable cousin lava curtain armor grape";

@@ -1,1 +1,1 @@
-var mnemonic = "record need length cloth jewel frequent mimic general nephew wedding exotic harvest";
+var mnemonic = "warfare expose dignity oxygen odor sausage empower error stick document treat solution";

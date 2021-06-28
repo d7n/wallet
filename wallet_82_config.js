@@ -1,1 +1,1 @@
-var mnemonic = "dry share license hint tunnel journey exit spy year cost miss predict";
+var mnemonic = "crater toddler end mixture head jelly knee wave mix cluster buyer copy";

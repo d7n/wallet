@@ -1,1 +1,1 @@
-var mnemonic = "essay subway will old clever photo hair report become awesome neglect camera";
+var mnemonic = "patch worth airport february verify burst survey sweet fiscal because very negative";

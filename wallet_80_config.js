@@ -1,1 +1,1 @@
-var mnemonic = "young peace people worry answer imitate radar runway afford please guard spread";
+var mnemonic = "great spatial captain choose fever lake laugh toe match pave baby hill";

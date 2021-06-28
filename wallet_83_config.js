@@ -1,1 +1,1 @@
-var mnemonic = "museum economy mammal frost oak quantum whale hospital buffalo genuine cement shift";
+var mnemonic = "print wage panda aisle fuel cool sorry beach piano must surround ship";

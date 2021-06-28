@@ -1,1 +1,1 @@
-var mnemonic = "month sad plastic foster soup accuse public oyster three pretty radar vast";
+var mnemonic = "donkey assist misery hen churn torch mom hub album odor vanish nephew";

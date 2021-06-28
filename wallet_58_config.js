@@ -1,1 +1,1 @@
-var mnemonic = "hero spike mule exotic afford family spell few design beef street grab";
+var mnemonic = "unfair entry hidden fruit post urge lake social rather decorate nurse just";

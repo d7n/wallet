@@ -1,1 +1,1 @@
-var mnemonic = "love vintage route fantasy prosper entire rigid cage tongue endorse surface tourist";
+var mnemonic = "plastic treat success crush secret license share slight coffee equip march rival";

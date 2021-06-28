@@ -1,1 +1,1 @@
-var mnemonic = "feed critic fury travel express guitar miracle theory vessel flush member blouse";
+var mnemonic = "truly fame dumb zero kiss pact angle type already cash yard pelican";

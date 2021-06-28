@@ -1,1 +1,1 @@
-var mnemonic = "elbow tree omit buddy reveal public panic keep now fine piece worry";
+var mnemonic = "tip decrease current smart provide shop coral mutual baby senior caution check";

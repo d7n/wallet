@@ -1,1 +1,1 @@
-var mnemonic = "evolve dish prosper someone menu into dress useless icon student day cube";
+var mnemonic = "hazard pigeon sail tiger time mother man guitar crumble crunch forest shed";

@@ -1,1 +1,1 @@
-var mnemonic = "hub layer theory increase edit learn involve kiwi order order nature fit";
+var mnemonic = "shop elbow canyon wire spoon bench buddy escape muffin story business wife";

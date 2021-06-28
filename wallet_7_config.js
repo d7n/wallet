@@ -1,1 +1,1 @@
-var mnemonic = "fall fatal vicious size canoe balance little popular ethics plate abstract climb";
+var mnemonic = "danger alpha enforce clinic strategy phone enforce bamboo stick manage box quiz";

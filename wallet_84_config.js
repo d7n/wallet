@@ -1,1 +1,1 @@
-var mnemonic = "tribe fix evil rose person bitter notice suggest ecology try will vessel";
+var mnemonic = "worry food sand angle moon dream noise scheme raise guitar head concert";

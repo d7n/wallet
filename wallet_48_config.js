@@ -1,1 +1,1 @@
-var mnemonic = "approve satoshi ethics wall avoid enact table tissue wheel pause tissue absurd";
+var mnemonic = "attack image shadow leave salute era party alert coil hammer permit crane";

@@ -1,1 +1,1 @@
-var mnemonic = "member attitude feel nose marriage lounge clap hope thumb knife turn antenna";
+var mnemonic = "rapid guitar combine person diamond antique employ humble enact attract lunch minor";

@@ -1,1 +1,1 @@
-var mnemonic = "office era where loyal wage cart chimney great imitate inform rain portion";
+var mnemonic = "busy sad brush palace session guard pulse purse finish sport neutral napkin";
