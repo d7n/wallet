@@ -1,1 +1,1 @@
-var mnemonic = "ready grunt final squeeze high rubber mystery bracket expand enhance sort dial";
+var mnemonic = "mobile index attitude cage dentist hint subway alone always chunk quality element";

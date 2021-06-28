@@ -1,1 +1,1 @@
-var mnemonic = "mule cost motor brother just gown jazz mail broccoli mention hotel crunch";
+var mnemonic = "split junior dove potato speak maple reject battle purpose fine tortoise feed";

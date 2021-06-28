@@ -1,1 +1,1 @@
-var mnemonic = "gossip fiction glue grass drift sponsor keep wolf load toast mistake trouble";
+var mnemonic = "anchor firm donkey rival siren region bubble wagon spider cabbage judge slush";

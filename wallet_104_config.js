@@ -1,1 +1,1 @@
-var mnemonic = "deal hamster business pledge hope squeeze author fit fade artefact deputy fence";
+var mnemonic = "movie order pool hand egg surround frost punch salt human minute nephew";

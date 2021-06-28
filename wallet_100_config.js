@@ -1,1 +1,1 @@
-var mnemonic = "grit winter hobby baby menu rug debris motor current search athlete world";
+var mnemonic = "circle spice glow hedgehog latin resemble toast purse latin fan pupil quarter";

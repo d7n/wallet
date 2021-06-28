@@ -1,1 +1,1 @@
-var mnemonic = "tide fiction mansion then twelve observe wall gift portion ivory much exit";
+var mnemonic = "boat tackle muscle timber casual cool radar lesson arch bonus leisure divert";

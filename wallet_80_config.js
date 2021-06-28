@@ -1,1 +1,1 @@
-var mnemonic = "chunk mirror jeans metal vault input cherry town slush special zero elegant";
+var mnemonic = "dutch wagon search injury mountain learn private advice achieve glory execute armed";

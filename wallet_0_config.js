@@ -1,1 +1,1 @@
-var mnemonic = "inflict sick police paddle test stable public rude remind kit couch upper";
+var mnemonic = "clown fine dilemma advance warfare dizzy peasant omit person deny empty attract";

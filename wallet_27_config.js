@@ -1,1 +1,1 @@
-var mnemonic = "dirt inflict ecology type pipe elegant merge category rice absurd cigar people";
+var mnemonic = "hill someone spell famous soda pizza cube zoo hungry summer grace beauty";

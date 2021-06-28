@@ -1,1 +1,1 @@
-var mnemonic = "there eyebrow stock glass mirror pulse truck unable thought knee setup recall";
+var mnemonic = "solve fox bunker school mystery square age leisure coyote december seek gaze";

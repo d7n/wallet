@@ -1,1 +1,1 @@
-var mnemonic = "turn sock theme glimpse cost random helmet parent segment cable fall pitch";
+var mnemonic = "ten minor board fee basic desk rather pond win orange start never";

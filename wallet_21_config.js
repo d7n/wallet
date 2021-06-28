@@ -1,1 +1,1 @@
-var mnemonic = "jealous slight picture ethics track correct eye skill smart desert crazy often";
+var mnemonic = "entry alien flat victory kingdom express now finish possible breeze shiver soldier";

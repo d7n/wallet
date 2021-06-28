@@ -1,1 +1,1 @@
-var mnemonic = "budget switch holiday jar art injury flame satisfy occur night tip remain";
+var mnemonic = "decade fortune seminar idle access double avoid way shadow family fall sister";

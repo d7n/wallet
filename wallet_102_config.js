@@ -1,1 +1,1 @@
-var mnemonic = "matrix casual own coach metal patrol tunnel hover clock behind middle estate";
+var mnemonic = "vibrant wedding tattoo lounge punch pink ready breeze planet increase science salmon";

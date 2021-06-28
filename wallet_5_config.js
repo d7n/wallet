@@ -1,1 +1,1 @@
-var mnemonic = "involve lonely achieve diamond grit diet climb loan chalk giant pill violin";
+var mnemonic = "patrol business crunch illness matrix together snow fuel emerge alcohol enter mule";

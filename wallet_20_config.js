@@ -1,1 +1,1 @@
-var mnemonic = "need lift speed road evidence second soda season oppose carry help tower";
+var mnemonic = "equip virtual body tomorrow duck load lab armor ramp outer cheap pluck";

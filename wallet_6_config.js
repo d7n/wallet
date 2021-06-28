@@ -1,1 +1,1 @@
-var mnemonic = "museum ignore fat ready crisp thank acquire program gate jaguar exhaust drill";
+var mnemonic = "maple confirm summer unaware symptom evolve soldier wave spare enter orange alert";

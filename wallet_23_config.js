@@ -1,1 +1,1 @@
-var mnemonic = "page tourist pottery liar where monitor knock main ocean ceiling clever dose";
+var mnemonic = "repair chronic battle identify scissors domain bracket undo escape adult busy move";

@@ -1,1 +1,1 @@
-var mnemonic = "grass emotion avocado aim shy laugh vicious motor erode melody awkward hurry";
+var mnemonic = "improve abuse bamboo voyage time fluid extra unusual rack monkey obvious mushroom";

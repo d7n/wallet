@@ -1,1 +1,1 @@
-var mnemonic = "rug super liquid hamster forest tobacco shell sponsor welcome once monkey swarm";
+var mnemonic = "rice improve economy actual exchange envelope vivid object share view grunt describe";

@@ -1,1 +1,1 @@
-var mnemonic = "pitch mushroom ridge exist orphan alarm pink rude slow honey feature absurd";
+var mnemonic = "parent school depth maze atom amused okay time awesome toss drama lawn";

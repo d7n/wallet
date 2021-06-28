@@ -1,1 +1,1 @@
-var mnemonic = "scheme soda slice gossip verify sea cactus clay feel mansion caught tongue";
+var mnemonic = "left breeze man proof bleak fire noble limb vivid juice baby vanish";

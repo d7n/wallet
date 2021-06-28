@@ -1,1 +1,1 @@
-var mnemonic = "recall mom pledge satoshi bounce yellow priority visit custom wire cat ring";
+var mnemonic = "motor game century inject sock video diet boil fish love cube carpet";

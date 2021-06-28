@@ -1,1 +1,1 @@
-var mnemonic = "sample rare select wear brass find before since auction vicious health interest";
+var mnemonic = "term young myth swap claw polar trumpet snack smart wealth suspect enjoy";

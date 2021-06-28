@@ -1,1 +1,1 @@
-var mnemonic = "cricket hundred remain toward inhale used immense crystal oil addict into torch";
+var mnemonic = "drastic tube evil march apology bacon armor side churn scrub they desk";

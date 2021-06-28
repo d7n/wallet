@@ -1,1 +1,1 @@
-var mnemonic = "series robot must view core trial flush talent door federal toast fuel";
+var mnemonic = "hurdle rubber address venture exhaust entry bid you flash robust permit orbit";

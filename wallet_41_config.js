@@ -1,1 +1,1 @@
-var mnemonic = "apart chronic world similar wide like often feel canoe inspire toy true";
+var mnemonic = "idea else answer ski false audit involve win expire impose palm south";

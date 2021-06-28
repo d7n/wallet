@@ -1,1 +1,1 @@
-var mnemonic = "idea embark party layer service east predict chalk tip coyote wing pepper";
+var mnemonic = "come ahead smoke define concert people battle since blade gap man winter";

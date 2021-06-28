@@ -1,1 +1,1 @@
-var mnemonic = "open position miss robot result obey fine enter isolate polar phrase south";
+var mnemonic = "tide differ disagree nut together mixture economy fall kitten just victory fantasy";

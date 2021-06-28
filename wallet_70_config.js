@@ -1,1 +1,1 @@
-var mnemonic = "engine mobile health rose delay fiction crouch tip rice creek arctic crawl";
+var mnemonic = "stereo top correct angle couple foam naive orient wife shed place car";

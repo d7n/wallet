@@ -1,1 +1,1 @@
-var mnemonic = "crack stay pulp memory also road artwork gadget outdoor doll easy exhaust";
+var mnemonic = "smart elder adjust dream buffalo adapt lazy grit stool angry capital fly";

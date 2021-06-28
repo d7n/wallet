@@ -1,1 +1,1 @@
-var mnemonic = "equip sunny maze clown monster nation kiwi visual gauge romance thrive velvet";
+var mnemonic = "leopard ride note awful patch tag custom solve sense tomato smoke hand";

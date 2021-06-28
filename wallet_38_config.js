@@ -1,1 +1,1 @@
-var mnemonic = "exit black crowd attract west blood notice match current double truth divorce";
+var mnemonic = "amused spoon glory foil menu floor rib lawsuit ring settle tragic wrestle";

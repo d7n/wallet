@@ -1,1 +1,1 @@
-var mnemonic = "answer museum finger sand diet cabin scorpion laundry member direct isolate lunch";
+var mnemonic = "extra wet advice disorder welcome monitor music game silent cup dress dance";

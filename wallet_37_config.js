@@ -1,1 +1,1 @@
-var mnemonic = "curtain return ski program cable provide health either glimpse switch solution gather";
+var mnemonic = "grow hand sketch gravity nice sell humor divorce village jeans front lazy";

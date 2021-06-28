@@ -1,1 +1,1 @@
-var mnemonic = "humor path paper tobacco rural body portion cage october great box element";
+var mnemonic = "bomb capital hub pioneer february anchor can frequent hamster suit local movie";

@@ -1,1 +1,1 @@
-var mnemonic = "strike have bar position fragile few mention often thank market visit burst";
+var mnemonic = "novel lab fancy life brush hurdle pill cook worth mass vacuum idle";

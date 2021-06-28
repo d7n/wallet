@@ -1,1 +1,1 @@
-var mnemonic = "miss champion super fetch verb spin access bamboo crew volcano found toward";
+var mnemonic = "scatter caution sentence worth cricket code fun click wolf cherry burst fox";

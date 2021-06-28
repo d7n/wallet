@@ -1,1 +1,1 @@
-var mnemonic = "island demise online decade eagle razor physical adapt left retreat increase tennis";
+var mnemonic = "keep dance elite display flame people summer jeans trend omit negative vast";

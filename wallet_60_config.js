@@ -1,1 +1,1 @@
-var mnemonic = "news pink soup amateur quiz inspire impact milk avoid quote march barrel";
+var mnemonic = "cake woman chapter canoe suffer crime option behave abuse decorate also fox";

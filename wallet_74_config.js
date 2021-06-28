@@ -1,1 +1,1 @@
-var mnemonic = "behind domain zone twice bronze must object possible goddess short empower napkin";
+var mnemonic = "lumber trouble detail neither clarify south sauce sniff enact settle noise present";

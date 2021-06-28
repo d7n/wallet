@@ -1,1 +1,1 @@
-var mnemonic = "unfair spice gadget permit permit slot alien indoor few lonely spatial busy";
+var mnemonic = "mobile snake bright hundred skill model gun apart party sunny melody father";

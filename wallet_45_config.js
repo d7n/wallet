@@ -1,1 +1,1 @@
-var mnemonic = "crouch come enter grief cloud sick reward shed blame turtle jeans flame";
+var mnemonic = "table excite skill goat detect valley hover pulp spot clap wrong confirm";

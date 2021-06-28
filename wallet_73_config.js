@@ -1,1 +1,1 @@
-var mnemonic = "profit garlic garbage receive head attend bag above resource shaft purse ceiling";
+var mnemonic = "chronic act tribe settle alpha twist game idea example equip medal debate";

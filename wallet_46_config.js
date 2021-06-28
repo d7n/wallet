@@ -1,1 +1,1 @@
-var mnemonic = "liar life vacant emerge step waste clever grape energy learn month add";
+var mnemonic = "develop foster pair thank hospital into bundle acquire oppose tooth poverty paddle";

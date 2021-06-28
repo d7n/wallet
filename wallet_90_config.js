@@ -1,1 +1,1 @@
-var mnemonic = "morning tattoo day jump alert clay seminar already excite shell flower boring";
+var mnemonic = "baby uniform myself chimney traffic define skill direct august discover lady fancy";

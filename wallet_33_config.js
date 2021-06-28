@@ -1,1 +1,1 @@
-var mnemonic = "roast stone profit stay rubber marriage tone bean chicken eager salt legend";
+var mnemonic = "thought purpose engage axis raw much code cross purchase matrix clarify claw";

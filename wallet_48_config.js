@@ -1,1 +1,1 @@
-var mnemonic = "dizzy powder subject clip annual wear fashion nose corn betray kitten scout";
+var mnemonic = "today neglect include soup letter two stool chronic denial stereo segment daring";

@@ -1,1 +1,1 @@
-var mnemonic = "spirit few garage million tell nature gloom memory transfer fragile liquid craft";
+var mnemonic = "finger foam absent atom hen hello fun decade tomorrow jeans vocal diesel";

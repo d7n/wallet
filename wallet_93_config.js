@@ -1,1 +1,1 @@
-var mnemonic = "area leopard cheap brick cheap ridge job buzz oil split salon sweet";
+var mnemonic = "crucial initial shuffle short off stool tennis daughter glow session cushion rude";

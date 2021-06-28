@@ -1,1 +1,1 @@
-var mnemonic = "imitate parade recall narrow matter outer slim ostrich pudding switch action whip";
+var mnemonic = "canal body unique course enter miracle ozone pledge rescue juice announce because";

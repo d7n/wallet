@@ -1,1 +1,1 @@
-var mnemonic = "whisper apology curious trophy bone vibrant suggest hamster dry sphere label lend";
+var mnemonic = "clever try torch increase egg between fluid law hour traffic consider valid";

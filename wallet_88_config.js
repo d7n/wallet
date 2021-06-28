@@ -1,1 +1,1 @@
-var mnemonic = "kite lunar run estate captain climb congress shiver arrest honey empty obtain";
+var mnemonic = "recycle juice dust borrow kingdom guilt drive wage half crew rifle oak";

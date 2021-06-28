@@ -1,1 +1,1 @@
-var mnemonic = "damage leave hungry lesson travel flag easy push orbit wire faith finger";
+var mnemonic = "hammer family fatigue garlic clerk ceiling weekend online clever absurd inquiry injury";

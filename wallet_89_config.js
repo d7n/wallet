@@ -1,1 +1,1 @@
-var mnemonic = "frog fiber blind follow kind before anchor member more company nuclear reject";
+var mnemonic = "beauty across sudden access envelope broom soccer laugh wet fringe dentist stereo";

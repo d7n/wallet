@@ -1,1 +1,1 @@
-var mnemonic = "crush story crumble sniff stumble already rack close oxygen memory blush cereal";
+var mnemonic = "author sun purchase same reopen note pudding minute fat error rail until";

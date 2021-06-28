@@ -1,1 +1,1 @@
-var mnemonic = "slush autumn cable health shallow blossom fit dash person lab citizen monkey";
+var mnemonic = "claim object easy fiber domain limb swear satisfy pottery divorce normal unit";

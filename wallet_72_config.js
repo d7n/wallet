@@ -1,1 +1,1 @@
-var mnemonic = "damp want sentence angry kid shuffle front sunset share material bottom silent";
+var mnemonic = "snack brand trouble okay fragile member antenna cabbage forum enter narrow peace";

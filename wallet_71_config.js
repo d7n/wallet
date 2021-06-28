@@ -1,1 +1,1 @@
-var mnemonic = "crunch stage fade claw recall sunset banana reunion biology family come life";
+var mnemonic = "duck spawn saddle mix stool spring kingdom fabric attend crisp tornado much";

@@ -1,1 +1,1 @@
-var mnemonic = "build recipe silver exercise stable theory injury avocado alert isolate city cancel";
+var mnemonic = "glass win town answer resemble climb vivid provide barrel chaos wrap tobacco";

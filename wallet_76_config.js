@@ -1,1 +1,1 @@
-var mnemonic = "early cupboard aware three mountain bamboo movie predict model alone light elbow";
+var mnemonic = "rib pistol chunk card own fold ancient alert harvest square match grass";

@@ -1,1 +1,1 @@
-var mnemonic = "clarify leg fury dial grace purchase light harsh rival mansion pilot stuff";
+var mnemonic = "clarify gospel card ranch paper job expose jelly pelican awful dove recycle";

@@ -1,1 +1,1 @@
-var mnemonic = "boring stone advice expose guess rural ladder quantum flame hope lemon gift";
+var mnemonic = "marine idle dream cotton elbow car rate man salad merry ship come";

@@ -1,1 +1,1 @@
-var mnemonic = "romance image access what put rare puzzle sunny mandate reduce pizza name";
+var mnemonic = "isolate sugar hollow enjoy chase rate hedgehog whale panel tuna blind easy";

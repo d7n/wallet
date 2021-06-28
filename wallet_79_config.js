@@ -1,1 +1,1 @@
-var mnemonic = "link pattern rely begin immune fall spell depend fiber original dawn ignore";
+var mnemonic = "road taxi next copper coast riot figure hover essay scorpion window suggest";

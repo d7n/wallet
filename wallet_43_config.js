@@ -1,1 +1,1 @@
-var mnemonic = "acid diamond credit unaware artefact cloud wealth segment family rate talent donor";
+var mnemonic = "oyster tuna that time slide toss assault annual worth dinner already bachelor";

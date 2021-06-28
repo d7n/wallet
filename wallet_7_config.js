@@ -1,1 +1,1 @@
-var mnemonic = "diagram humble wolf husband rabbit ordinary visa scrap bleak piano reward dynamic";
+var mnemonic = "envelope sport apart more kangaroo laugh zero gym during brief magnet sail";

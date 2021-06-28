@@ -1,1 +1,1 @@
-var mnemonic = "image coconut charge census scrub face acquire suggest diagram throw improve spin";
+var mnemonic = "fault kiwi raven cause label cluster mail twist parrot script process aisle";

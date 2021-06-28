@@ -1,1 +1,1 @@
-var mnemonic = "lizard muscle profit subject fiscal lucky whisper run fall record shy drill";
+var mnemonic = "lazy submit scatter frequent surround monkey method cover program shine devote hospital";

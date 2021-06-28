@@ -1,1 +1,1 @@
-var mnemonic = "sad fee doctor mimic paddle brave salon dirt pigeon reflect tunnel deer";
+var mnemonic = "exhaust trim gravity excuse later hold dilemma address position glove memory nothing";

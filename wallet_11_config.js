@@ -1,1 +1,1 @@
-var mnemonic = "burger engine original crunch upgrade zone coach spare logic toward fortune joy";
+var mnemonic = "rabbit stable jaguar pill vote pistol anger demise never police pottery tumble";

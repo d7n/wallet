@@ -1,1 +1,1 @@
-var mnemonic = "away buddy drum earth fiscal pitch actual vault swift economy ensure they";
+var mnemonic = "polar dish group delay knock mad box blur spoil business today sing";

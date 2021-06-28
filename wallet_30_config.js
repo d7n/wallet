@@ -1,1 +1,1 @@
-var mnemonic = "input cause bronze october body tornado teach entire clog faint spell ring";
+var mnemonic = "demise thunder staff glow rescue alpha seed copper away object salmon action";

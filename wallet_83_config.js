@@ -1,1 +1,1 @@
-var mnemonic = "oven shadow taste bulb portion evidence leave behave meat ensure thunder alone";
+var mnemonic = "capital rifle love hurdle split absurd tilt spread cave theory outside swear";

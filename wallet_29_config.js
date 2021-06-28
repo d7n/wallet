@@ -1,1 +1,1 @@
-var mnemonic = "virus tube head razor weird theme guilt awake loop tonight beach that";
+var mnemonic = "wheat maid original lyrics feed coin negative youth later nation lounge prefer";

@@ -1,1 +1,1 @@
-var mnemonic = "turtle denial tuna wrist note cage panther merit spray ketchup climb proof";
+var mnemonic = "best voyage mammal welcome naive save attack what empty nephew word weapon";

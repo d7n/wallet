@@ -1,1 +1,1 @@
-var mnemonic = "child dinner wine business nature panic bus strike want lazy behave food";
+var mnemonic = "patrol bind square enrich toast crop unaware hip oven brown woman invest";

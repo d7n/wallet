@@ -1,1 +1,1 @@
-var mnemonic = "estate round sport tomato blur menu artefact orphan snow soup utility refuse";
+var mnemonic = "food hotel velvet future bundle punch relax above month ship wagon shuffle";

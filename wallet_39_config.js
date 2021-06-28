@@ -1,1 +1,1 @@
-var mnemonic = "ankle menu enroll shoulder angle oval demise fatal dolphin quality rice outdoor";
+var mnemonic = "stamp inject similar whale educate cotton eyebrow update edge embrace green door";

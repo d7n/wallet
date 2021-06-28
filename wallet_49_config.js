@@ -1,1 +1,1 @@
-var mnemonic = "leader grocery item foam actor crisp youth once number minor unit indoor";
+var mnemonic = "admit post cabbage spread tribe robust metal dance reopen calm dismiss dance";

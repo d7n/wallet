@@ -1,1 +1,1 @@
-var mnemonic = "letter caution crazy cattle film blue piano skate this brain risk junk";
+var mnemonic = "midnight outdoor regret infant exclude scissors engine dove demise program current hello";

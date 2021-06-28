@@ -1,1 +1,1 @@
-var mnemonic = "shy engage scout path chicken photo angry fetch steel diamond thunder radio";
+var mnemonic = "visual steel fruit season raven song lamp cloth laptop fold velvet pen";

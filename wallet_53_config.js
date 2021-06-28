@@ -1,1 +1,1 @@
-var mnemonic = "inflict gym insect now lucky city episode unveil vacant extra point employ";
+var mnemonic = "camp inject carry joke frame plastic fiber clay reject neither write design";

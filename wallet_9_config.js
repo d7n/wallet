@@ -1,1 +1,1 @@
-var mnemonic = "hill snack orchard chunk only enrich photo custom rocket atom clarify river";
+var mnemonic = "glide maple embark boring genre shiver ostrich parent off coast behind lawsuit";

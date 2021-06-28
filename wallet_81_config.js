@@ -1,1 +1,1 @@
-var mnemonic = "swear funny fiction grass forget trigger sunset hockey budget chapter joke pepper";
+var mnemonic = "ladder impulse twist pattern motion rack spice soon pull remove category envelope";

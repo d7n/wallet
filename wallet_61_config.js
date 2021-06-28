@@ -1,1 +1,1 @@
-var mnemonic = "vacuum upper beach riot vendor flash virtual crunch drop trumpet front boring";
+var mnemonic = "immense crane deer wool outside pulse essence super debris peanut frown black";

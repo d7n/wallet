@@ -1,1 +1,1 @@
-var mnemonic = "error nice sock issue tilt spider cricket derive lemon elegant catalog dog";
+var mnemonic = "blast sell test thumb frown impact pelican update future spin tornado dinosaur";

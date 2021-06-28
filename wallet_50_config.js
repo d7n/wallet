@@ -1,1 +1,1 @@
-var mnemonic = "rally almost fringe happy canal love adult sister build sleep sunny mosquito";
+var mnemonic = "order crumble quality annual bacon boost proof hard together devote dream crime";

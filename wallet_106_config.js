@@ -1,1 +1,1 @@
-var mnemonic = "comfort false age dune local ivory seven perfect toast spend rigid sadness";
+var mnemonic = "region cream urban village dinosaur select course drill game town wrong female";

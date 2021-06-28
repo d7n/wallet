@@ -1,1 +1,1 @@
-var mnemonic = "coach correct south time raw mandate repair recycle blood pony else increase";
+var mnemonic = "return view fence logic voice faith trust light romance embody color asthma";
