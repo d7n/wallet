@@ -1,1 +1,1 @@
-var mnemonic = "swift saddle client labor gadget stage neglect media marine caught inner isolate";
+var mnemonic = "elephant total library script type unfold squirrel paper viable forward museum casual";

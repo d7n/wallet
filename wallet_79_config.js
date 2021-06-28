@@ -1,1 +1,1 @@
-var mnemonic = "curtain flip sibling attitude talk equip good twist tide sea bullet cream";
+var mnemonic = "nice traffic middle case raccoon drink act crater drastic pluck oak enact";

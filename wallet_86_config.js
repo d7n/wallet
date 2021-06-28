@@ -1,1 +1,1 @@
-var mnemonic = "verb power spirit arrow curtain scale other real owner rent own eagle";
+var mnemonic = "notice rival sibling nerve grit steel arm wagon elevator oval eight crawl";

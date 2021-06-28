@@ -1,1 +1,1 @@
-var mnemonic = "era expire two debris guess thrive fault oval all snack media laundry";
+var mnemonic = "fault gather juice mind prepare client calm life celery possible opera opera";

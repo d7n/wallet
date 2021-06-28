@@ -1,1 +1,1 @@
-var mnemonic = "giggle learn dentist clog always rather damage shine gesture chunk hurdle high";
+var mnemonic = "pass badge shuffle onion cabin jeans gloom above mother visual bag flee";

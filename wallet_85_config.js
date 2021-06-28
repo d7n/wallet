@@ -1,1 +1,1 @@
-var mnemonic = "library sustain used decrease grape voice used mix cement exchange soup live";
+var mnemonic = "mesh cover task wash wasp wrap van ability glue sock coast amazing";

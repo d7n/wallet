@@ -1,1 +1,1 @@
-var mnemonic = "pill expect lift armor toddler relief notable flip harsh humor squirrel crane";
+var mnemonic = "media crane mutual enemy parent farm door young length sick public rapid";

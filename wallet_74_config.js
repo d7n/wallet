@@ -1,1 +1,1 @@
-var mnemonic = "move cannon weapon ride gospel satisfy word search trick hurt eight arrest";
+var mnemonic = "kiss swallow heavy alcohol diet steak board near carpet jacket strong illness";

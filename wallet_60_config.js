@@ -1,1 +1,1 @@
-var mnemonic = "dizzy spy arrow elephant slide exercise lecture hint access social minimum east";
+var mnemonic = "butter harvest toy decline early section treat unknown endorse energy hedgehog mind";

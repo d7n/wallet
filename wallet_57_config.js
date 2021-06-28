@@ -1,1 +1,1 @@
-var mnemonic = "client canyon now own slush object chunk mother quit army wing uniform";
+var mnemonic = "snap aerobic liquid glow elevator ostrich want rather output silly switch abstract";

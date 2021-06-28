@@ -1,1 +1,1 @@
-var mnemonic = "fiscal ghost age latin require faith citizen glimpse drama decorate foster decline";
+var mnemonic = "alcohol bubble swim rookie strong betray action midnight twelve artist trash canal";

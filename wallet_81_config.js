@@ -1,1 +1,1 @@
-var mnemonic = "spike deposit agree dutch escape earn trick focus one party method ticket";
+var mnemonic = "lend symptom juice omit include camera example attend fork tribe repeat glow";

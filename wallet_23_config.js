@@ -1,1 +1,1 @@
-var mnemonic = "merry lyrics grape near vault tower vote moment caught vast become neglect";
+var mnemonic = "tenant above another woman hazard harvest stamp tomato segment guess success acquire";

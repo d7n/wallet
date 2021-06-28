@@ -1,1 +1,1 @@
-var mnemonic = "brass charge attend doll picnic near mistake feel pole shove news giant";
+var mnemonic = "deny possible filter pass amused clean timber unusual cousin march wish learn";

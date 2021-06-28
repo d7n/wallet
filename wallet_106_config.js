@@ -1,1 +1,1 @@
-var mnemonic = "type repeat fashion topple task erosion arrest solar soup gun repair reason";
+var mnemonic = "also begin quality smile mask cute ritual demise lawsuit mansion help trap";

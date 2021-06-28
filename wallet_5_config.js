@@ -1,1 +1,1 @@
-var mnemonic = "life solve erosion domain captain tide modify tongue elephant taste clump night";
+var mnemonic = "bracket exchange scrub harbor unaware emerge cup that alter echo syrup exercise";

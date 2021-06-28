@@ -1,1 +1,1 @@
-var mnemonic = "scheme ritual domain choice lake digital swing bless sphere leg winter ankle";
+var mnemonic = "tragic case more transfer oven shove ahead flame seek visit notable cry";

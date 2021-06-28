@@ -1,1 +1,1 @@
-var mnemonic = "room enjoy surprise armed defense isolate option deer wing air great object";
+var mnemonic = "oval sleep casual oak file fetch rent shadow juice hope yellow vast";

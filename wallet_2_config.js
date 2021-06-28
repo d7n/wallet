@@ -1,1 +1,1 @@
-var mnemonic = "toddler clown view return million key frost solution congress cotton try where";
+var mnemonic = "goddess airport market vicious inherit observe treat swap powder patch amused scrub";

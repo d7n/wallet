@@ -1,1 +1,1 @@
-var mnemonic = "sorry wet thought coconut sudden liberty cotton comic ring leopard soccer cool";
+var mnemonic = "exchange stereo interest cool lobster purchase present mountain modify payment claw tide";

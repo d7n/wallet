@@ -1,1 +1,1 @@
-var mnemonic = "sad choose cover meadow powder race enforce excess exile erase vicious flag";
+var mnemonic = "tennis arrow female series advice stand lawn satisfy evil drill skin void";

@@ -1,1 +1,1 @@
-var mnemonic = "minor trumpet note equal leave source surge build tobacco sausage horror lizard";
+var mnemonic = "ginger valid amazing march push snack video wheel champion timber grace will";

@@ -1,1 +1,1 @@
-var mnemonic = "extra speed first shift jelly female album crater spike obtain era nature";
+var mnemonic = "lecture will appear quiz thunder inform palm nuclear bench aware cereal embark";

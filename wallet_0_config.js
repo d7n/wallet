@@ -1,1 +1,1 @@
-var mnemonic = "poverty fence vendor term huge spare senior super cruise dinner evolve alone";
+var mnemonic = "govern raccoon rare moral crystal warfare wife grid home beauty gold jungle";

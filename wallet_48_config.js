@@ -1,1 +1,1 @@
-var mnemonic = "want illness hen caught town document version fatal sorry price warrior bike";
+var mnemonic = "inflict rural ordinary copy tragic tomorrow lecture short now spy decrease list";

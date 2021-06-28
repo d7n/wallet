@@ -1,1 +1,1 @@
-var mnemonic = "lift spin ship lazy airport glow shield avocado spring stem glove share";
+var mnemonic = "inflict lamp crash table you reflect slot rotate february garden retire stay";

@@ -1,1 +1,1 @@
-var mnemonic = "turtle marriage ice bleak indoor alarm eternal concert disease core web vicious";
+var mnemonic = "medal animal disagree rare wrap zebra book control slice cargo worth tide";

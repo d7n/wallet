@@ -1,1 +1,1 @@
-var mnemonic = "heavy voyage because conduct husband ribbon island need keep enough strategy great";
+var mnemonic = "over before ask main monkey tank lamp man enroll labor swim rib";

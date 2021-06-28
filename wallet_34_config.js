@@ -1,1 +1,1 @@
-var mnemonic = "sugar faculty decline grocery decrease obscure bid fetch describe rebuild estate outdoor";
+var mnemonic = "desk such tackle liar oak thunder lottery ice parade veteran swing soon";

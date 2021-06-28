@@ -1,1 +1,1 @@
-var mnemonic = "soccer because decrease arrange cruise cradle better oven crater fee reduce vacant";
+var mnemonic = "scorpion record exist plug poem play quote prize wedding educate flash auto";

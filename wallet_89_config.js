@@ -1,1 +1,1 @@
-var mnemonic = "trash bridge inform lemon setup tortoise social tobacco judge dish giant couple";
+var mnemonic = "together enlist thrive hub direct half silk buyer salute valve obscure document";

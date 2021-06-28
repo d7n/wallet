@@ -1,1 +1,1 @@
-var mnemonic = "material oppose season language wait inherit setup excuse enemy tired organ trouble";
+var mnemonic = "position draft habit tide steak web explain earn train small spoil thank";

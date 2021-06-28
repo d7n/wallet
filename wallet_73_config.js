@@ -1,1 +1,1 @@
-var mnemonic = "other fee nerve half ethics stone glimpse faculty cable diesel coyote space";
+var mnemonic = "jazz pass palm maze afford dignity betray quick left lecture claw chat";

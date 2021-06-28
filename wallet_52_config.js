@@ -1,1 +1,1 @@
-var mnemonic = "purchase start total mad catalog now maze settle typical onion very bitter";
+var mnemonic = "air tribe artist ignore category orient equal copper ostrich pear claw gas";

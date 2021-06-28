@@ -1,1 +1,1 @@
-var mnemonic = "foster skull room label obey dice wink cat theme around scissors decrease";
+var mnemonic = "gain wagon blossom derive decade decline analyst recall survey december ceiling other";

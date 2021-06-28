@@ -1,1 +1,1 @@
-var mnemonic = "zone subject funny left burden range balance trigger human also pencil above";
+var mnemonic = "diagram vivid lecture warm large sail cube rely whisper lobster favorite slow";

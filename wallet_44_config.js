@@ -1,1 +1,1 @@
-var mnemonic = "symptom crazy shield treat lobster pull merit almost maid melody express tenant";
+var mnemonic = "height still buffalo sketch knee skill slow select pair shine spice sustain";

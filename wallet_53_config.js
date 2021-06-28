@@ -1,1 +1,1 @@
-var mnemonic = "monitor swear sunny ramp bargain accuse when define odor fantasy pen heart";
+var mnemonic = "inform trick myself goose remember strike view claw obscure worry spatial tuna";

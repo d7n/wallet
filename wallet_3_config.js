@@ -1,1 +1,1 @@
-var mnemonic = "plastic urban little hospital already fatigue juice eye deny museum host answer";
+var mnemonic = "duty faith you border wrong couch august symbol radio odor whisper select";

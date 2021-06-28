@@ -1,1 +1,1 @@
-var mnemonic = "exhaust pudding wonder celery chuckle nominee clock toward finger defy vessel unlock";
+var mnemonic = "suffer dragon picture other core result hire cruise deny egg fever embrace";

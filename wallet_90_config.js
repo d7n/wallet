@@ -1,1 +1,1 @@
-var mnemonic = "riot leader control resource absent hamster monkey seminar quantum cook code tragic";
+var mnemonic = "feel oppose trick year crystal word light bachelor embody symptom edge clinic";

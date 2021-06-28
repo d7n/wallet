@@ -1,1 +1,1 @@
-var mnemonic = "lady relax borrow talk render destroy parade fury rent prevent audit captain";
+var mnemonic = "comic wife normal always witness clump found welcome mutual subject glue text";

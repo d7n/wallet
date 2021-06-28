@@ -1,1 +1,1 @@
-var mnemonic = "crop display lift opinion issue tired bean immune rookie young fan exercise";
+var mnemonic = "usual ostrich weasel square raccoon learn exercise system biology high govern kind";

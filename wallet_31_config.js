@@ -1,1 +1,1 @@
-var mnemonic = "penalty imitate path hurdle peanut rookie erosion cage ivory act myth october";
+var mnemonic = "degree worry gift lift grass urban festival theory float before icon total";

@@ -1,1 +1,1 @@
-var mnemonic = "remember afford jelly insect assist boy uncover egg reform panic brown decide";
+var mnemonic = "dice feel coil forward same stem appear victory robot lottery resource goat";

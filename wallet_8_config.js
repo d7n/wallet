@@ -1,1 +1,1 @@
-var mnemonic = "lady deer garage check hungry hub bulb host ritual charge blur glad";
+var mnemonic = "shadow erosion lonely crucial impulse lawsuit shine debate letter actress goddess few";

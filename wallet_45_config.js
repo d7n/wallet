@@ -1,1 +1,1 @@
-var mnemonic = "sound celery saddle modify expect wrap next polar dumb retreat clean fire";
+var mnemonic = "forest maze document cupboard tag denial wise hollow churn match diagram into";

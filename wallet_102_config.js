@@ -1,1 +1,1 @@
-var mnemonic = "crunch mimic aspect will poverty fortune recycle seed october play topic book";
+var mnemonic = "junk find neglect canoe only cage spin utility drastic ribbon when oyster";

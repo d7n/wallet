@@ -1,1 +1,1 @@
-var mnemonic = "ghost pass coyote curtain process ladder toward muffin year olympic daring borrow";
+var mnemonic = "midnight liquid shell nominee lazy feel surprise click unhappy prize couple utility";

@@ -1,1 +1,1 @@
-var mnemonic = "twenty champion cargo fiber output volume initial much actress shoot typical joke";
+var mnemonic = "chicken eyebrow double used hood matter blush catch blue crime gas neutral";

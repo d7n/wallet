@@ -1,1 +1,1 @@
-var mnemonic = "once army style original relief ocean ladder spot element carbon doll airport";
+var mnemonic = "monkey embody library scout hand raw crowd object food lecture naive achieve";

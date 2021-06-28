@@ -1,1 +1,1 @@
-var mnemonic = "coin all salt because cloud bone cream spike cube inspire purpose asthma";
+var mnemonic = "mean edge view mail brand mimic skin host arch system ancient unit";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal tired raven night flush puppy under april congress usual insane twice";
+var mnemonic = "put attack ride strong ceiling dumb library okay pattern school protect have";

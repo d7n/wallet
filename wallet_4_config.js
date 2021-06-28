@@ -1,1 +1,1 @@
-var mnemonic = "zoo analyst run similar lizard illegal explain quiz stadium cotton limit gasp";
+var mnemonic = "comfort spirit muffin image capable shell narrow suffer flock picture sound nasty";

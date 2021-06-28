@@ -1,1 +1,1 @@
-var mnemonic = "valley mountain panda super horn decide inmate badge glow lend hold tiny";
+var mnemonic = "wash whisper coyote width wealth horror hammer have nuclear tape chase minor";

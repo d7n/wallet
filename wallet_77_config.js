@@ -1,1 +1,1 @@
-var mnemonic = "discover pigeon release kingdom wait oak then creek elegant license skin dwarf";
+var mnemonic = "funny expand oil urban ketchup mountain broom badge need habit drill drink";

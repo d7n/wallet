@@ -1,1 +1,1 @@
-var mnemonic = "shaft repeat wash among next clay faith exchange defy unique child shrug";
+var mnemonic = "degree move lens tone glory coral muscle pull glow human fox festival";

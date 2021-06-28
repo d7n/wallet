@@ -1,1 +1,1 @@
-var mnemonic = "episode club divorce off shoot camp garment rate trim unaware water circle";
+var mnemonic = "lesson rose club infant danger under detail warrior wisdom gaze pumpkin spider";

@@ -1,1 +1,1 @@
-var mnemonic = "room force pluck title general degree latin portion display payment usage pencil";
+var mnemonic = "slot link flip float true excess believe crew alpha endless border jaguar";

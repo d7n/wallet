@@ -1,1 +1,1 @@
-var mnemonic = "lava sea hurt monster episode juice citizen spoil eyebrow gap forest inform";
+var mnemonic = "dragon door dentist calm oblige tower fossil symptom reason viable misery wisdom";

@@ -1,1 +1,1 @@
-var mnemonic = "lunch denial cruel entry spider capital hover park warrior danger subway vault";
+var mnemonic = "dinner inflict jar rescue absorb grid team road proof hope renew output";

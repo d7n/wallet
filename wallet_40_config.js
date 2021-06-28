@@ -1,1 +1,1 @@
-var mnemonic = "hope poet kitchen believe grid tell million often know wreck rose noise";
+var mnemonic = "knock destroy crowd reflect head labor emotion mention abuse mule canoe hope";

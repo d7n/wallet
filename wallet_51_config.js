@@ -1,1 +1,1 @@
-var mnemonic = "race crisp shoulder novel bottom cake judge basket leopard voyage broom grow";
+var mnemonic = "once assault coach poem shell depth test misery answer between side pitch";

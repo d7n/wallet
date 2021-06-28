@@ -1,1 +1,1 @@
-var mnemonic = "forget zebra clinic infant fancy youth tragic horror harvest annual cheap tunnel";
+var mnemonic = "engine pepper museum sketch riot chapter popular they curious rapid brisk better";

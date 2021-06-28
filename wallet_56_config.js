@@ -1,1 +1,1 @@
-var mnemonic = "napkin arrow town nature ozone render renew ribbon general minor valid retire";
+var mnemonic = "raw reward oven board clock attack fresh worth erase pass elephant odor";

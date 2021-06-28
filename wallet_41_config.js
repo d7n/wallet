@@ -1,1 +1,1 @@
-var mnemonic = "merry total bounce drift elevator real core impact course target combine trap";
+var mnemonic = "broken airport property scheme media phrase double check capital cube vague middle";

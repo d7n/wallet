@@ -1,1 +1,1 @@
-var mnemonic = "tail robot disease way guess custom scrap unaware surprise network laptop nature";
+var mnemonic = "false detect female scrub exit mom always room aim govern glow canal";

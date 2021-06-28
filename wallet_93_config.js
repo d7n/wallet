@@ -1,1 +1,1 @@
-var mnemonic = "orchard marble lava almost market laptop lab field airport tide material staff";
+var mnemonic = "rack music sting lyrics goddess reject trash moral normal delay nothing wife";

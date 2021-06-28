@@ -1,1 +1,1 @@
-var mnemonic = "segment space wink army leopard shrimp sudden february error pipe produce farm";
+var mnemonic = "cash drip street trick security sight father material myself naive happy fox";

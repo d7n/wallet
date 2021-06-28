@@ -1,1 +1,1 @@
-var mnemonic = "tennis youth enforce flock glad nest other hover moment theme ketchup scorpion";
+var mnemonic = "stone page plate mass away replace asset allow giraffe mountain wrap same";

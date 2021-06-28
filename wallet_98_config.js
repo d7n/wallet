@@ -1,1 +1,1 @@
-var mnemonic = "cotton fuel feed cement avocado frame lift wrist document effort talk author";
+var mnemonic = "online describe salad alien draft cram sniff health chase rent imitate stick";

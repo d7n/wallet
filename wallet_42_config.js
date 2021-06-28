@@ -1,1 +1,1 @@
-var mnemonic = "layer stay wall endless arrow raise seminar river lounge test subject theme";
+var mnemonic = "episode patrol fossil topple sponsor embrace awful learn mammal rail there beef";

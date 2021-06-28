@@ -1,1 +1,1 @@
-var mnemonic = "damp obey scheme menu just stove unhappy hire must near blur essence";
+var mnemonic = "adapt devote surface tree reform slide seminar absurd priority share yard chicken";

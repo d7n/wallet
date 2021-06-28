@@ -1,1 +1,1 @@
-var mnemonic = "essay desert indoor walnut parade day taste arrest wife walk pipe ceiling";
+var mnemonic = "knife try bachelor rely long profit buyer fade cruel misery wise rib";

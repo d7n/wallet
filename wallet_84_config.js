@@ -1,1 +1,1 @@
-var mnemonic = "wagon impact aspect image universe airport bomb tiny path develop follow october";
+var mnemonic = "daring enhance tornado absorb minor rookie denial soft detail crew upon live";

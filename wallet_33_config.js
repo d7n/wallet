@@ -1,1 +1,1 @@
-var mnemonic = "horn cruel chair sword model push laundry curious squeeze canal uncle orchard";
+var mnemonic = "urban seed more sniff message sweet stomach curious zone neglect effort inflict";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder possible trick obey aware belt book bulb lottery dune arm father";
+var mnemonic = "usual okay bargain mass need attend giraffe clinic spike meat tired dumb";

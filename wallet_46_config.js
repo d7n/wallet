@@ -1,1 +1,1 @@
-var mnemonic = "achieve eye jump viable drink kid century next vital menu fabric torch";
+var mnemonic = "click edge school sail sick scale relief swamp tomato knee dice hole";

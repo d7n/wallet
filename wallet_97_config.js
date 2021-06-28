@@ -1,1 +1,1 @@
-var mnemonic = "pupil evoke task among road person chest evil maple menu flee scene";
+var mnemonic = "female render flip shallow ankle develop trip rail year number flip blossom";

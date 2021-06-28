@@ -1,1 +1,1 @@
-var mnemonic = "insect impose subject suspect farm zebra thrive acoustic nurse ribbon mushroom orbit";
+var mnemonic = "title deny neck evoke sight shock whisper kangaroo shoot chest enjoy inspire";

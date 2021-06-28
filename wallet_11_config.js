@@ -1,1 +1,1 @@
-var mnemonic = "swallow immune any special car position cradle mention pass confirm effort intact";
+var mnemonic = "world bleak spice rail acoustic arctic tobacco velvet world tower duck castle";

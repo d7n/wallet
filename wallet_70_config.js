@@ -1,1 +1,1 @@
-var mnemonic = "approve length horror dragon rose drop train excite cupboard reduce toy sauce";
+var mnemonic = "detect master pass arctic renew october churn sheriff garment neither invest someone";

@@ -1,1 +1,1 @@
-var mnemonic = "tiger furnace vanish region employ friend diagram force caught steak fantasy sound";
+var mnemonic = "retire kind prize vast before group high isolate sunny thought inmate cluster";

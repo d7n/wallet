@@ -1,1 +1,1 @@
-var mnemonic = "reunion balcony swallow armor jar virtual rent mail about weather world brain";
+var mnemonic = "farm swamp vapor chair rescue shuffle valid element chef scorpion draft enter";

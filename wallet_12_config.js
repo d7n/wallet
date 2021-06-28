@@ -1,1 +1,1 @@
-var mnemonic = "prize maximum plunge sleep theory robot advance word uphold become vivid symptom";
+var mnemonic = "glove twelve food put soda dutch armor destroy dash bulk ripple wait";

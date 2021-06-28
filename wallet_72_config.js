@@ -1,1 +1,1 @@
-var mnemonic = "letter rent high wolf patient erupt engage glove harsh casino lamp candy";
+var mnemonic = "nurse dynamic skirt bullet culture math similar frog check auction forest remove";

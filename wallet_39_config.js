@@ -1,1 +1,1 @@
-var mnemonic = "purchase elder huge pig setup much renew since cloud village parrot front";
+var mnemonic = "beach rib grief jungle steak knife sort ramp dignity filter spirit minute";

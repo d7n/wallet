@@ -1,1 +1,1 @@
-var mnemonic = "garlic resource bounce device enable cart city argue step smooth civil census";
+var mnemonic = "comic van problem brave produce snap when breeze step empty merry chalk";

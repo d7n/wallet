@@ -1,1 +1,1 @@
-var mnemonic = "federal observe enroll figure safe hurry wrong tone blur clap syrup limit";
+var mnemonic = "legend day orbit inmate pink hedgehog avoid trumpet advice two siege obvious";

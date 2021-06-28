@@ -1,1 +1,1 @@
-var mnemonic = "true strategy better vapor daring crumble early nerve video begin minor outside";
+var mnemonic = "ask chief skin clump poverty east case repeat emerge collect discover tortoise";
