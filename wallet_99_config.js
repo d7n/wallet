@@ -1,1 +1,1 @@
-var mnemonic = "mobile list online dinner soldier illness purpose price weird portion inform ribbon";
+var mnemonic = "circle token blanket suspect little armor august panel chef copper theory cotton";

@@ -1,1 +1,1 @@
-var mnemonic = "bid sure certain must draw receive deer warm pupil bomb require close";
+var mnemonic = "lizard kingdom segment coil transfer happy stage olive dynamic mammal govern panda";

@@ -1,1 +1,1 @@
-var mnemonic = "play omit mountain hood cover mushroom cause gaze armor regular museum shop";
+var mnemonic = "supreme nation hockey episode afford capable badge doctor proud open idle else";

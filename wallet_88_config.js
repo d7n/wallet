@@ -1,1 +1,1 @@
-var mnemonic = "charge brown pelican gesture measure slam basic lock ship board valley smart";
+var mnemonic = "universe orange remain siege wrestle opinion unit snake weapon online staff time";

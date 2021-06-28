@@ -1,1 +1,1 @@
-var mnemonic = "pluck hockey knock unique level essay inflict eternal piano talent luggage behave";
+var mnemonic = "dinner smile gorilla hint powder cruel believe giant mesh slim now citizen";

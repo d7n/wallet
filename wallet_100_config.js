@@ -1,1 +1,1 @@
-var mnemonic = "grid lizard live cluster inside wait skull scorpion arrive okay where smart";
+var mnemonic = "hello mountain now twist grit strike match crew awesome warfare kiss twenty";

@@ -1,1 +1,1 @@
-var mnemonic = "quiz possible balance future virtual capable pave alley happy process rural raw";
+var mnemonic = "cry ostrich soon feel trade afraid camera perfect lumber child banner motor";

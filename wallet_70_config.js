@@ -1,1 +1,1 @@
-var mnemonic = "federal tip cream give foster okay champion escape gauge kitchen near devote";
+var mnemonic = "valley long kangaroo miracle thumb parade noise size select season bundle become";

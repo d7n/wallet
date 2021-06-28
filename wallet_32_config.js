@@ -1,1 +1,1 @@
-var mnemonic = "smile strategy girl rebuild few describe surprise shoe result cave solar sausage";
+var mnemonic = "sport same sound uphold fantasy poverty basic fox output suspect ketchup fortune";

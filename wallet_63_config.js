@@ -1,1 +1,1 @@
-var mnemonic = "equal ripple duty either never snap safe funny judge tennis short viable";
+var mnemonic = "concert couple enter issue body prepare super shaft coyote fabric expire enough";

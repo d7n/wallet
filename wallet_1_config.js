@@ -1,1 +1,1 @@
-var mnemonic = "mountain unique matter summer crash turtle special expose very thing stomach spawn";
+var mnemonic = "sock notable erase glide attack until mutual chimney alter jaguar youth section";

@@ -1,1 +1,1 @@
-var mnemonic = "false clump apology dose economy endorse able group bottom pill crouch ability";
+var mnemonic = "pluck volcano black boil road update orbit sound soon betray push analyst";

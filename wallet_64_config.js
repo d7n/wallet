@@ -1,1 +1,1 @@
-var mnemonic = "treat print city squirrel wide exchange final tape divorce deal sort absurd";
+var mnemonic = "kidney traffic pulp want behind hurt stand lemon waste insane prison flash";

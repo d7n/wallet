@@ -1,1 +1,1 @@
-var mnemonic = "update discover modify horror brief gain borrow advice mother trial another panel";
+var mnemonic = "copy pen silent identify congress chase fresh slim orbit mule bitter hollow";

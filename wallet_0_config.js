@@ -1,1 +1,1 @@
-var mnemonic = "orphan mutual gap pipe fork tape shoulder pottery conduct pause canvas struggle";
+var mnemonic = "judge jazz trumpet sugar predict hub desert injury fix merry artist people";

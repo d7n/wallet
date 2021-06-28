@@ -1,1 +1,1 @@
-var mnemonic = "express cover hazard lift item certain grass uniform unfold antique armed garlic";
+var mnemonic = "once rate hurdle post sketch burst industry rebel soul angry soon flag";

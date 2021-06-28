@@ -1,1 +1,1 @@
-var mnemonic = "race fence soldier whip dice rice meat alien tribe law gorilla decline";
+var mnemonic = "length face copper domain olympic idle limit current proud clerk patient tilt";

@@ -1,1 +1,1 @@
-var mnemonic = "summer scheme rough leg drum ten regular glass girl record click title";
+var mnemonic = "letter brush slab short castle web faculty boss twenty before road repair";

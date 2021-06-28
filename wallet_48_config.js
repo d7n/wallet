@@ -1,1 +1,1 @@
-var mnemonic = "reform invest swap soldier gym element siege wedding tragic festival addict custom";
+var mnemonic = "dismiss walnut icon whale sustain wealth oil stand blanket cliff vote pave";

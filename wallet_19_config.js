@@ -1,1 +1,1 @@
-var mnemonic = "riot idle pupil honey use invite high void still coffee trap chair";
+var mnemonic = "despair evidence stomach arena salon verb poet broccoli smoke quality patient inform";

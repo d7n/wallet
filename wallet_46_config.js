@@ -1,1 +1,1 @@
-var mnemonic = "broken dance eight hungry topple adult help sight cereal imitate face mosquito";
+var mnemonic = "lava boat today win outside trip useless away gorilla waste universe will";

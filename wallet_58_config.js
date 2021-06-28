@@ -1,1 +1,1 @@
-var mnemonic = "violin forget stamp neither dust chapter avoid useless embody offer eight picnic";
+var mnemonic = "manual edit spoon caution cactus shrug remember gold ritual damage random select";

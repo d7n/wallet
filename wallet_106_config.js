@@ -1,1 +1,1 @@
-var mnemonic = "juice fatal daughter margin pizza lunch search vast neglect gesture tooth post";
+var mnemonic = "enough genuine eager camera siege tag pledge water there install gasp mango";

@@ -1,1 +1,1 @@
-var mnemonic = "transfer thought credit problem resemble buffalo capable arrange urban rely imitate fossil";
+var mnemonic = "walk pear point stock solid heart wrap sugar clump winner desk always";

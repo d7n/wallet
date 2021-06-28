@@ -1,1 +1,1 @@
-var mnemonic = "push laugh across raccoon expect school program sure gravity library endless mom";
+var mnemonic = "village spice verb action jump sign edit skate sleep deny gym filter";

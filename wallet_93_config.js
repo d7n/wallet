@@ -1,1 +1,1 @@
-var mnemonic = "bullet buyer bean abstract museum castle guard visit maple hello walnut renew";
+var mnemonic = "train turkey drive advice render timber camp also nuclear alarm shoe trash";

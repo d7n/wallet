@@ -1,1 +1,1 @@
-var mnemonic = "casual derive pride inside heart now slender goat choice know aisle business";
+var mnemonic = "this gun song sick promote engine coyote fuel fine image element egg";

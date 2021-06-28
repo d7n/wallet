@@ -1,1 +1,1 @@
-var mnemonic = "embrace penalty pond top erase clarify warfare express trade bottom vanish opera";
+var mnemonic = "patient meadow cable plunge unaware jump rude very ethics merry dignity season";

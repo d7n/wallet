@@ -1,1 +1,1 @@
-var mnemonic = "expand figure appear convince century dinosaur hockey manual endorse fire chest talk";
+var mnemonic = "system dream bundle hire night lounge leaf double city visit quiz kitten";

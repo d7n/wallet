@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon invest steak feed type burger place walk exclude evil hobby ability";
+var mnemonic = "jazz dust soft clay sausage leave crisp hat still better winter two";

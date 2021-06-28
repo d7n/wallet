@@ -1,1 +1,1 @@
-var mnemonic = "punch report horn candy pill piano setup country page ability shift heart";
+var mnemonic = "sustain ankle rare sad craft tape ski punch expect twenty act fringe";

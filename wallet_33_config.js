@@ -1,1 +1,1 @@
-var mnemonic = "derive frozen monster hen spin script lazy fix pretty angle furnace tank";
+var mnemonic = "job ripple music wagon runway throw wrap exact industry naive notice consider";

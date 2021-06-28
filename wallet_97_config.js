@@ -1,1 +1,1 @@
-var mnemonic = "fame unique pole world scan tilt remember cigar involve helmet nuclear trim";
+var mnemonic = "under step betray custom bread chunk faith ready flavor garlic year depart";

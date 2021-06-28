@@ -1,1 +1,1 @@
-var mnemonic = "vault uniform cook rival gap distance hurry popular spice tent leopard hockey";
+var mnemonic = "fog paddle oblige hidden urban diamond retreat garlic image clown man tooth";

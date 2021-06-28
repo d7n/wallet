@@ -1,1 +1,1 @@
-var mnemonic = "dream devote million will ski shoe speed pole album ticket green glass";
+var mnemonic = "tank worry cute shove bottom junior elevator crucial siege wealth huge human";

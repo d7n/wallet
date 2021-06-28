@@ -1,1 +1,1 @@
-var mnemonic = "tank buyer length model similar solve affair aerobic uphold aunt slender sadness";
+var mnemonic = "label witness winter oblige receive dust pave decorate correct lock alcohol flee";

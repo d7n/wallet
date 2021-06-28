@@ -1,1 +1,1 @@
-var mnemonic = "develop sound brand setup wise catch hedgehog tower major river cabbage sunny";
+var mnemonic = "snap erase whip brush income pave repeat wrist tube slice prize tiny";

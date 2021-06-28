@@ -1,1 +1,1 @@
-var mnemonic = "gentle whisper only horse bar middle slush miracle model tattoo disease few";
+var mnemonic = "runway assault attack escape scale paper whisper post vicious throw final silly";

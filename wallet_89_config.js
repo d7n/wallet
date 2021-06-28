@@ -1,1 +1,1 @@
-var mnemonic = "until gloom deal hole resource baby stable sphere scare right song game";
+var mnemonic = "life clip trip mesh turn assist garage system firm shaft donkey mail";

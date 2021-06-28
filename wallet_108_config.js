@@ -1,1 +1,1 @@
-var mnemonic = "vicious cancel invite catch outdoor nut flag number reunion shiver code salt";
+var mnemonic = "neck latin glow aisle dilemma surge fish good mixture rural emotion eight";

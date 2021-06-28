@@ -1,1 +1,1 @@
-var mnemonic = "bubble dynamic bone infant diesel target grain rabbit start toilet bicycle help";
+var mnemonic = "grow alter paddle sponsor action follow capital soda hazard blanket car inflict";

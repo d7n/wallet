@@ -1,1 +1,1 @@
-var mnemonic = "economy shoe gym proud setup kind current blame lab idea trumpet effort";
+var mnemonic = "salute faculty squeeze pulp stamp million caution myself bag luggage scorpion celery";

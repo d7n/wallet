@@ -1,1 +1,1 @@
-var mnemonic = "unfair drop badge inner suggest crash replace tower scrub brain size three";
+var mnemonic = "move agree arm view myth rack trust brick paper wasp deliver unveil";

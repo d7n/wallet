@@ -1,1 +1,1 @@
-var mnemonic = "distance work rose crawl friend insane coast crowd rich axis trick carry";
+var mnemonic = "artefact code draw gesture chair price consider salad into theory cheap knife";

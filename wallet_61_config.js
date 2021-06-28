@@ -1,1 +1,1 @@
-var mnemonic = "turn sort steak arctic young vacant more crush title onion void target";
+var mnemonic = "route add garlic brand wide share strong service list inspire uphold sight";

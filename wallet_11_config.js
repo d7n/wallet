@@ -1,1 +1,1 @@
-var mnemonic = "farm entry cloud start daring float thrive rotate move joy fantasy reward";
+var mnemonic = "enable edit piece caught enroll grant accident base swallow clump chronic chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "model truck actor idle garment make exotic settle robot brave novel word";
+var mnemonic = "dad essay inner dizzy move marriage course olympic rare join high antique";

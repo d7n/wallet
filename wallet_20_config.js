@@ -1,1 +1,1 @@
-var mnemonic = "odor journey hedgehog nation oppose announce evolve income frog shrimp embrace bike";
+var mnemonic = "more enemy link error soda sunset capable amateur lounge beef manual adult";

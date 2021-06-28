@@ -1,1 +1,1 @@
-var mnemonic = "heart cash runway inside museum meadow over copper deal public card taste";
+var mnemonic = "siege culture useless crystal company agent pizza room amused govern scatter arch";

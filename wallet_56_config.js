@@ -1,1 +1,1 @@
-var mnemonic = "gadget guess raw snow follow mom drive fruit melody hint blade match";
+var mnemonic = "skin fury obvious clarify zoo bomb fog anxiety blanket security industry glad";

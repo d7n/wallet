@@ -1,1 +1,1 @@
-var mnemonic = "orphan diary say cycle marble fine shove mobile buzz know car flee";
+var mnemonic = "plunge clutch praise arrive select congress elder share amateur unit invite globe";

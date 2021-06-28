@@ -1,1 +1,1 @@
-var mnemonic = "genuine gauge elevator balance taxi evolve wrong sense grunt benefit charge jelly";
+var mnemonic = "key panther siren business liberty script ankle recycle call situate leg midnight";

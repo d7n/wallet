@@ -1,1 +1,1 @@
-var mnemonic = "transfer wink resource ready left rare people dutch soap nation gentle drama";
+var mnemonic = "raven program weird across pink elegant peanut weather top pumpkin pact crucial";

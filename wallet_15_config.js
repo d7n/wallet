@@ -1,1 +1,1 @@
-var mnemonic = "margin west random echo engage one curtain ahead area slam differ absorb";
+var mnemonic = "spot inform frost alarm goose scare pepper advance clock senior glove vault";

@@ -1,1 +1,1 @@
-var mnemonic = "wave forward canoe earth squeeze swallow theme grant install power come lecture";
+var mnemonic = "basic escape lamp popular genre eight under visual worry utility bean easy";

@@ -1,1 +1,1 @@
-var mnemonic = "damp nuclear field number guitar zebra priority industry beach dune child off";
+var mnemonic = "eight kite panel grape morning patient claw very protect return bring vapor";

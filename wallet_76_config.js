@@ -1,1 +1,1 @@
-var mnemonic = "oppose recipe develop license expose window safe empower view vacuum arrive coast";
+var mnemonic = "three venture lobster cancel math palace hope boat merit crime dune artist";

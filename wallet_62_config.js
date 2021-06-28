@@ -1,1 +1,1 @@
-var mnemonic = "artefact magnet truly year cute fiscal uncover smile ice giant express repeat";
+var mnemonic = "retire attend spatial about mercy cherry biology wave match trust peanut thank";

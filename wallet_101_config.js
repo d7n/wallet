@@ -1,1 +1,1 @@
-var mnemonic = "odor aunt kiwi document life alarm spoil plate fluid spice festival ahead";
+var mnemonic = "height pluck teach find auction mercy spot marble power left small soul";

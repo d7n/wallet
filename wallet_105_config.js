@@ -1,1 +1,1 @@
-var mnemonic = "fashion brisk resource rice doctor child fix reopen idle spice soda squeeze";
+var mnemonic = "rack sausage moment this face sell field tomato river palace today tornado";

@@ -1,1 +1,1 @@
-var mnemonic = "smoke omit error motion phrase ordinary visual mobile motor nature visit neutral";
+var mnemonic = "royal tourist infant talk skin believe fee egg absurd refuse shuffle survey";

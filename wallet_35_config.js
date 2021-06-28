@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur trim duck race secret hour like mass purse enjoy fade leaf";
+var mnemonic = "farm oak doll sock elite scrap blossom message protect hidden rhythm office";

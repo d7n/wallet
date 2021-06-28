@@ -1,1 +1,1 @@
-var mnemonic = "milk forget valley glow deer push rice west way useful floor puzzle";
+var mnemonic = "sniff mutual affair suit purchase among ribbon father crunch taste during friend";

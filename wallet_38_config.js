@@ -1,1 +1,1 @@
-var mnemonic = "east wrong later cigar talk soft lounge prefer relax shield knee mosquito";
+var mnemonic = "garage raccoon vivid found own civil trash water measure arrow gravity trigger";

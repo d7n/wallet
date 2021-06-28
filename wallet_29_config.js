@@ -1,1 +1,1 @@
-var mnemonic = "fire link tone green bargain aerobic next else right anchor dash know";
+var mnemonic = "atom spoil civil swing village lucky pull scheme toe tomato recall lock";

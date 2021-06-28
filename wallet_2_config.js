@@ -1,1 +1,1 @@
-var mnemonic = "inmate art cotton net wise tenant purchase rail ivory grow favorite social";
+var mnemonic = "swing quick silent wolf day regret adult monkey omit funny unfold very";

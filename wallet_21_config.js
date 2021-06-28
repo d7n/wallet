@@ -1,1 +1,1 @@
-var mnemonic = "phone hurt crazy install shove result frown park pigeon boil pizza obtain";
+var mnemonic = "impulse question crime rough actor gain tribe romance arrange mutual rude carbon";

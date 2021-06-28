@@ -1,1 +1,1 @@
-var mnemonic = "limb cabin envelope ball crystal athlete record benefit tattoo lobster alpha hunt";
+var mnemonic = "measure derive slogan corn topic obtain property cruise spring know merit quick";

@@ -1,1 +1,1 @@
-var mnemonic = "gate swallow sketch canvas hope can boost proof slab album shed carbon";
+var mnemonic = "faint vessel pony argue click youth bacon artwork snow tilt stool arm";

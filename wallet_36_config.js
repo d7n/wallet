@@ -1,1 +1,1 @@
-var mnemonic = "dad smoke attitude route same blue please blind cloud lamp awkward steak";
+var mnemonic = "fire clip organ wedding excess govern dinosaur amateur antique announce ceiling salon";

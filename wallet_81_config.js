@@ -1,1 +1,1 @@
-var mnemonic = "confirm supreme design bag lobster catch cabin fossil lab blood front loop";
+var mnemonic = "attitude holiday wild bubble one drip clever soldier combine prefer goat balcony";

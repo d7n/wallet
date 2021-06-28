@@ -1,1 +1,1 @@
-var mnemonic = "mobile silk govern sea canal disease resemble expire east window robust tomorrow";
+var mnemonic = "search color lonely unhappy promote virus refuse aerobic grunt scout either black";

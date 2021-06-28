@@ -1,1 +1,1 @@
-var mnemonic = "garment post screen price pen victory race cat borrow reopen use super";
+var mnemonic = "cousin humble antique tattoo tissue jazz grief capital december zone scene palm";

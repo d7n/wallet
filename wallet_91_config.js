@@ -1,1 +1,1 @@
-var mnemonic = "dismiss debate virus hamster vote day heart couple supreme unhappy aerobic area";
+var mnemonic = "engine smooth miracle ice cat burger simple just journey nut inch winner";

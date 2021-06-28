@@ -1,1 +1,1 @@
-var mnemonic = "equal afraid check rare wolf volcano error detect obey copper apology leisure";
+var mnemonic = "shield eye scatter antenna decrease tuition beyond prize public north goddess slab";

@@ -1,1 +1,1 @@
-var mnemonic = "offer poet attack giant wait thought flat gym field furnace alarm harbor";
+var mnemonic = "pool cousin virtual minute art tissue axis domain mansion nice carbon shoe";

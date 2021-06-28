@@ -1,1 +1,1 @@
-var mnemonic = "check logic country drill village again bunker please orphan attend grab slow";
+var mnemonic = "reflect gentle noodle culture way slim joke half develop inside depth situate";

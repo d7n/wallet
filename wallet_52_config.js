@@ -1,1 +1,1 @@
-var mnemonic = "nose plastic game plastic easy basket confirm prize else gossip clog float";
+var mnemonic = "prepare miss brother seed bunker way veteran slender bundle junior trend decline";

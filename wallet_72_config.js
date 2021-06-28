@@ -1,1 +1,1 @@
-var mnemonic = "task nest matter century rhythm boost above bracket bright mistake volume write";
+var mnemonic = "clog genre analyst exchange regular real lion globe couch waste dune suspect";

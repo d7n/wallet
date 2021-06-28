@@ -1,1 +1,1 @@
-var mnemonic = "merge mango bomb donor blush repair era tortoise topple melody visit buddy";
+var mnemonic = "pet attend change sick lunch spatial joke mansion cinnamon initial swear farm";

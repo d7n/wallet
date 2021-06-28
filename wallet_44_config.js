@@ -1,1 +1,1 @@
-var mnemonic = "pelican barely office knee among type labor rail update almost push there";
+var mnemonic = "horn finger melody mirror photo solar lucky danger hold roof forest body";

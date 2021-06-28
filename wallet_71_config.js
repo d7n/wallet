@@ -1,1 +1,1 @@
-var mnemonic = "park way remain eye when fortune helmet tail shell ski battle step";
+var mnemonic = "exhibit armor dove crumble forum laugh cash yard dad hen alcohol upgrade";

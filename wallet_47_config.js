@@ -1,1 +1,1 @@
-var mnemonic = "bottom enlist wage lake evoke crystal dry awesome update hybrid exchange mule";
+var mnemonic = "deposit wing subway high desert gesture street clerk flush oven chef garage";

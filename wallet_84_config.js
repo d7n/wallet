@@ -1,1 +1,1 @@
-var mnemonic = "utility raccoon when flame fly topple crunch artist rival baby quit normal";
+var mnemonic = "earn harvest scorpion lazy gloom engage glare arena zebra plate slide labor";

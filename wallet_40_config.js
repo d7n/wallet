@@ -1,1 +1,1 @@
-var mnemonic = "clock apart obtain feature swamp feed sauce clarify notice path there render";
+var mnemonic = "pill curtain rack hungry slot buyer secret art exhibit dove almost allow";

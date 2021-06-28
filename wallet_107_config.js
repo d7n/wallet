@@ -1,1 +1,1 @@
-var mnemonic = "grid wealth reward weird trip weasel piano practice blind neck jaguar noodle";
+var mnemonic = "excite twenty garlic prosper viable begin such horse army caught swim snap";

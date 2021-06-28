@@ -1,1 +1,1 @@
-var mnemonic = "desert pioneer more knife unaware cage boring furnace borrow found online powder";
+var mnemonic = "random relief render despair wood wink theme reunion explain diet leave trial";

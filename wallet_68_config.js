@@ -1,1 +1,1 @@
-var mnemonic = "nest hip cargo fever merit floor cotton poverty type animal loan glare";
+var mnemonic = "sort sell lounge subway quick praise law name hair wave soda author";

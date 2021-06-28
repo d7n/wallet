@@ -1,1 +1,1 @@
-var mnemonic = "near slow gym fault spend fire error upper man radio conduct thrive";
+var mnemonic = "country crucial double box found lesson capable blouse solar measure private stumble";

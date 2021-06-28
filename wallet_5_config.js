@@ -1,1 +1,1 @@
-var mnemonic = "shift expand address glide swim design olympic chief chat phone net barely";
+var mnemonic = "hover knee able senior island path crane hello casual silly siren guilt";

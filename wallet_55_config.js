@@ -1,1 +1,1 @@
-var mnemonic = "body vacant south marriage segment absorb logic chronic carry know lonely item";
+var mnemonic = "stadium cabbage initial giggle busy bubble album soul wear note stove custom";

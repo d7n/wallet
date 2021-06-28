@@ -1,1 +1,1 @@
-var mnemonic = "bacon paddle walnut symptom city charge fresh future process ramp happy garlic";
+var mnemonic = "journey despair nice cradle chief fringe taxi noble approve paddle despair rookie";
