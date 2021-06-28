@@ -1,1 +1,1 @@
-var mnemonic = "skirt fit dog drip sudden still thank raven trust heavy marine wedding";
+var mnemonic = "flash repeat small improve goddess need coast obey clean rule strike base";

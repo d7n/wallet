@@ -1,1 +1,1 @@
-var mnemonic = "caution maple version modify three vanish sight vicious scorpion man casino misery";
+var mnemonic = "mystery bless into rubber island cruise urge assist crater region song more";

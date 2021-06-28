@@ -1,1 +1,1 @@
-var mnemonic = "assault gesture tail disorder loud notable vapor lazy peasant exhibit antique mobile";
+var mnemonic = "cram cannon purse sustain prosper insane breeze permit pet memory betray rough";

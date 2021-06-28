@@ -1,1 +1,1 @@
-var mnemonic = "approve seminar unfold theory spatial bullet filter mimic auction memory potato route";
+var mnemonic = "jump aisle uphold bind chair concert output example cabbage menu devote shock";

@@ -1,1 +1,1 @@
-var mnemonic = "rebuild drop planet domain arctic shine damage brown soft plug divorce salad";
+var mnemonic = "cousin key decorate baby play easy digital grant ghost avoid roast exercise";

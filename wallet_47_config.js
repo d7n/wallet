@@ -1,1 +1,1 @@
-var mnemonic = "plug return seven impact opera violin crumble pluck immune cage fruit sample";
+var mnemonic = "offer lobster bracket crane cross pool excess book boring estate border mutual";

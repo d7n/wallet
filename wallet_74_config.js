@@ -1,1 +1,1 @@
-var mnemonic = "next horse april mix mosquito middle lawsuit kingdom machine spoil trumpet increase";
+var mnemonic = "capable cargo phone devote mechanic rug eyebrow snake lava burst empower special";

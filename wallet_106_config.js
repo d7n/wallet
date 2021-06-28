@@ -1,1 +1,1 @@
-var mnemonic = "edge absurd safe pattern travel toy network liquid athlete order neglect noodle";
+var mnemonic = "can domain theory camera dolphin deliver open smooth atom hello clock neutral";

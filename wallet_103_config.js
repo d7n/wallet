@@ -1,1 +1,1 @@
-var mnemonic = "play affair sense green goose favorite penalty front pulse film regret member";
+var mnemonic = "swap what cheese helmet dawn milk glove thunder permit member mimic public";

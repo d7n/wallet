@@ -1,1 +1,1 @@
-var mnemonic = "sad brave desert civil vacant matter round ignore gold item panel couple";
+var mnemonic = "van push decorate indoor exhaust winter strong avocado decide track torch cargo";

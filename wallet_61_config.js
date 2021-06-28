@@ -1,1 +1,1 @@
-var mnemonic = "twelve culture orchard canoe stand puppy reveal april detect welcome dress awake";
+var mnemonic = "critic kick holiday glide antique december cause spring wrist grid title spell";

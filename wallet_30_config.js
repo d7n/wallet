@@ -1,1 +1,1 @@
-var mnemonic = "ahead kiss tomato angle nature open toward car appear combine peace gate";
+var mnemonic = "letter resist puzzle section leisure exchange smart child cage dragon kite usage";

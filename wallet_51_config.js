@@ -1,1 +1,1 @@
-var mnemonic = "snake wisdom entry glue castle agent essence ice ranch mosquito easy olympic";
+var mnemonic = "stool ahead craft maze brave patient shiver glad comfort shaft broom relief";

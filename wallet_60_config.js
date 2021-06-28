@@ -1,1 +1,1 @@
-var mnemonic = "harbor rookie dog delay swing gossip endorse script exotic sea design vapor";
+var mnemonic = "bounce pill flock advice opinion fish city ostrich rich crowd nurse wedding";

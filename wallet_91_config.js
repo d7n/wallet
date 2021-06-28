@@ -1,1 +1,1 @@
-var mnemonic = "dumb frozen code angle sudden dignity early pulp student merit dog wave";
+var mnemonic = "expose rain letter pizza kitchen swift advance genuine scare more vacant bread";

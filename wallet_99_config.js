@@ -1,1 +1,1 @@
-var mnemonic = "clip stuff bicycle fan plunge stool cupboard analyst setup elegant cook news";
+var mnemonic = "scout lawsuit whale jeans flavor nut describe powder sauce recall audit junk";

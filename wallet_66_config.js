@@ -1,1 +1,1 @@
-var mnemonic = "suffer cross impose match horse grab gorilla notice brush tobacco mosquito list";
+var mnemonic = "food portion glove twin cigar tooth topple match total phrase reject grace";

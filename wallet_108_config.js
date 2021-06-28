@@ -1,1 +1,1 @@
-var mnemonic = "very favorite follow pottery embody coyote humor tiger sing fancy police case";
+var mnemonic = "job shy milk fragile gadget peanut dwarf coconut lamp alley brief vendor";

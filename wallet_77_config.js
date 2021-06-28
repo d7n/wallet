@@ -1,1 +1,1 @@
-var mnemonic = "book badge pudding ridge daughter happy life truck august dune canvas shop";
+var mnemonic = "cotton deal jazz about tissue heart hedgehog carry tennis monkey feed aspect";

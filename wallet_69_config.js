@@ -1,1 +1,1 @@
-var mnemonic = "session boy nominee awful cruise always end ask fox bubble cube stereo";
+var mnemonic = "sphere regular mail upgrade wedding heavy tragic primary buzz soap trim quality";

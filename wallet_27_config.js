@@ -1,1 +1,1 @@
-var mnemonic = "ensure reveal foster two cup strong oppose quiz ridge roof nasty cluster";
+var mnemonic = "welcome spider clog episode check hero spring deer chalk mind diary celery";

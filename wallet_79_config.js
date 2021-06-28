@@ -1,1 +1,1 @@
-var mnemonic = "love virus dish fit orient ramp reason thought sister moment dutch noble";
+var mnemonic = "bargain pigeon awesome zoo add deal drum pudding item vibrant trim square";

@@ -1,1 +1,1 @@
-var mnemonic = "view swallow match settle lake about rally cactus carbon express much flock";
+var mnemonic = "insane squeeze anger treat right daughter scatter fix what february permit easily";

@@ -1,1 +1,1 @@
-var mnemonic = "crash ripple claim step rib evolve surround glove must kitchen unhappy camp";
+var mnemonic = "image once client nerve denial dose gather learn express invest relax injury";

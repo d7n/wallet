@@ -1,1 +1,1 @@
-var mnemonic = "kiss attitude jar witness media hello region owner couple monster inch erosion";
+var mnemonic = "random twice tail own warrior wish ramp talk planet unhappy odor reason";

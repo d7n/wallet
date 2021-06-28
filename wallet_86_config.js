@@ -1,1 +1,1 @@
-var mnemonic = "churn worth celery layer pigeon parade degree iron aisle balcony cable eyebrow";
+var mnemonic = "wedding climb tower teach climb force offer evil giant need clog barely";

@@ -1,1 +1,1 @@
-var mnemonic = "cruel insect away danger three fatal cash host crumble tail fetch buddy";
+var mnemonic = "olive repeat talk donkey evolve maid mixture goat bread hobby antenna melody";

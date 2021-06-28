@@ -1,1 +1,1 @@
-var mnemonic = "urban rich indoor typical service excess soccer story laugh absorb vintage valid";
+var mnemonic = "stairs present raise jaguar scale swear ill solution immense father calm remind";

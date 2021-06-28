@@ -1,1 +1,1 @@
-var mnemonic = "suggest birth safe retire glad boost slim can picture chicken bid betray";
+var mnemonic = "ranch kid stick casual cannon lend field law curve universe visual face";

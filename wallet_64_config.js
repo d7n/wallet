@@ -1,1 +1,1 @@
-var mnemonic = "trade track waste assist pepper stand feel cancel wasp visa vague law";
+var mnemonic = "rough actress twist slab punch odor apart autumn course yellow huge force";

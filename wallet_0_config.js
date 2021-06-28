@@ -1,1 +1,1 @@
-var mnemonic = "pottery focus accident cargo mistake erupt perfect cat ugly practice report sadness";
+var mnemonic = "primary answer absent enroll pair night news provide eager rice silly mix";

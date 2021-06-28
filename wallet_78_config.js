@@ -1,1 +1,1 @@
-var mnemonic = "sight emotion rebuild cross hurdle answer auction sense diagram bicycle exist wedding";
+var mnemonic = "identify dish earth weird earth age end ritual vicious cradle hill armor";

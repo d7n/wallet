@@ -1,1 +1,1 @@
-var mnemonic = "vendor empty girl prefer coyote ostrich fluid song present canyon breeze label";
+var mnemonic = "resist tissue certain soft able present captain comic rent day exotic dish";

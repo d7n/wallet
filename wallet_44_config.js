@@ -1,1 +1,1 @@
-var mnemonic = "pride stove arrest popular dragon crowd donor jacket piano way swallow club";
+var mnemonic = "deny sound enroll cigar fine couch option river essay daring submit car";

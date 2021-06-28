@@ -1,1 +1,1 @@
-var mnemonic = "blast legal dolphin gain gorilla kingdom anxiety city bus ten gesture parent";
+var mnemonic = "toast poem suspect tell cube involve glance laundry disease merge pledge orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "sunset message clever kiss mixed cry expect poverty want awful once letter";
+var mnemonic = "recall hat child ensure chaos want gate narrow rail risk maze win";

@@ -1,1 +1,1 @@
-var mnemonic = "mammal zone jungle popular budget radio dentist pitch envelope rare powder sand";
+var mnemonic = "skill field blame view cereal verify school peanut answer head foot predict";

@@ -1,1 +1,1 @@
-var mnemonic = "science travel twelve work rare abstract rhythm wolf garment barely arm slow";
+var mnemonic = "panel camera victory pink shell leg enough evil cotton bottom jaguar torch";

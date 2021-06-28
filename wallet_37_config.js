@@ -1,1 +1,1 @@
-var mnemonic = "theory join marine aerobic lesson curve dirt noble climb frequent cruel long";
+var mnemonic = "zone beach manage foam type naive test nasty critic bridge member copper";

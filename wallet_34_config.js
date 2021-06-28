@@ -1,1 +1,1 @@
-var mnemonic = "stamp wagon salon table arctic chaos vapor company twelve east erase genre";
+var mnemonic = "mystery glove video mom scene topple month artefact original fish trash general";

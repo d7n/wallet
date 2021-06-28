@@ -1,1 +1,1 @@
-var mnemonic = "until raccoon tunnel wing unit range decline excite elder figure potato mixture";
+var mnemonic = "brass fantasy situate mesh slot gallery ball outside world ring upper police";

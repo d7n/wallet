@@ -1,1 +1,1 @@
-var mnemonic = "clutch awake shock point ribbon balance flame evoke nephew second hurry oak";
+var mnemonic = "romance minor elevator dose exact guitar shed high donor auction brass census";

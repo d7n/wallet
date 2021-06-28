@@ -1,1 +1,1 @@
-var mnemonic = "mother fitness slight hold afraid path child suit critic faint mesh certain";
+var mnemonic = "remain hobby tiny govern shoe head rubber rate thought illness spirit immense";

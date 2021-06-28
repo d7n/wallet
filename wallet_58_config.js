@@ -1,1 +1,1 @@
-var mnemonic = "race output hollow topic transfer south demise physical cloud uphold rough because";
+var mnemonic = "walnut foster index toilet right scene exercise picnic make buffalo dream bamboo";

@@ -1,1 +1,1 @@
-var mnemonic = "secret cheese pizza stomach case improve situate carry oven rebel kiss business";
+var mnemonic = "innocent column improve segment ecology shoot tragic swap pioneer december inform expand";

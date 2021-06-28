@@ -1,1 +1,1 @@
-var mnemonic = "aisle excuse fitness fabric zero trick viable rescue matrix still diagram author";
+var mnemonic = "cash eight economy april check capable seminar ozone moral space cloud daring";

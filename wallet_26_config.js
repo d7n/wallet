@@ -1,1 +1,1 @@
-var mnemonic = "fruit suggest daughter round bleak session into lend random inspire pole doll";
+var mnemonic = "unaware trouble believe scissors plate you alone water test point chief phone";

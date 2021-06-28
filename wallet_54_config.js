@@ -1,1 +1,1 @@
-var mnemonic = "caught tip sure salt reward turn boat walk miracle bachelor veteran south";
+var mnemonic = "bulk marble hen echo cushion leaf grocery torch rely chief must kiwi";

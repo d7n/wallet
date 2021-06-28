@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow engage taxi invest stone over scare bleak apart inmate talk job";
+var mnemonic = "harsh ridge put grant fun local crane merry athlete kiss behind exchange";

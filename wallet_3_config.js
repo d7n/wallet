@@ -1,1 +1,1 @@
-var mnemonic = "upgrade year hurdle resource spatial razor absorb night depart type staff duty";
+var mnemonic = "chase stereo brisk remove rib glare dolphin purity inner loop anger insect";

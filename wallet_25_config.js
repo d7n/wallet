@@ -1,1 +1,1 @@
-var mnemonic = "jeans industry brand neck lake layer crane grid element item mutual machine";
+var mnemonic = "inquiry enrich wrong practice actress sunny simple parent drive sail festival bright";

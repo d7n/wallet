@@ -1,1 +1,1 @@
-var mnemonic = "coin alley denial enhance apart code genius they safe muffin clown mule";
+var mnemonic = "palace upper maximum humor payment cruise word diary milk dose torch soccer";

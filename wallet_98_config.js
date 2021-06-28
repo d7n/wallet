@@ -1,1 +1,1 @@
-var mnemonic = "vessel energy donate box increase beef loop lobster liberty lawsuit harbor habit";
+var mnemonic = "dash live wreck silver nurse where assault auction liquid pet planet gossip";

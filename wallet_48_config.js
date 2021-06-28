@@ -1,1 +1,1 @@
-var mnemonic = "card spoon check obscure shell hotel tongue please stomach rigid girl expose";
+var mnemonic = "ethics acoustic mango any way pony thrive snake leisure always switch mimic";

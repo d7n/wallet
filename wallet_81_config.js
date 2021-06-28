@@ -1,1 +1,1 @@
-var mnemonic = "brain struggle harbor orphan ugly glove fat calm alarm car sound remind";
+var mnemonic = "shiver start horse rent oven skin flight great boss ribbon ball used";

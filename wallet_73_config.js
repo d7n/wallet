@@ -1,1 +1,1 @@
-var mnemonic = "vanish common door wife talk vacuum vapor correct paddle elder taxi evidence";
+var mnemonic = "dinosaur bracket rival finish filter truck prize media please cheese team assume";

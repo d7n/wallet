@@ -1,1 +1,1 @@
-var mnemonic = "focus actor ensure betray impulse quality column attack slice degree phrase together";
+var mnemonic = "fashion erase jealous primary express road win attack long sight unveil prepare";

@@ -1,1 +1,1 @@
-var mnemonic = "crop gallery ankle response morning spider power math high amount water lock";
+var mnemonic = "scale magnet shrimp kind office reveal supply famous organ broken gauge inmate";

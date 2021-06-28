@@ -1,1 +1,1 @@
-var mnemonic = "issue weird cave ugly chief prevent stay taste furnace later act chunk";
+var mnemonic = "confirm jump giant congress swear shift hunt toddler invest grant update blush";

@@ -1,1 +1,1 @@
-var mnemonic = "timber beach liquid easily guilt hen awful anxiety tobacco ready report ramp";
+var mnemonic = "input fence pass parrot middle fatigue spring budget beach rescue engage scene";

@@ -1,1 +1,1 @@
-var mnemonic = "damage hour segment van quick detail hurt blue syrup program diamond drastic";
+var mnemonic = "praise essence math rather task arctic before ancient update coast twist mother";

@@ -1,1 +1,1 @@
-var mnemonic = "joke accuse debate funny sudden clinic board company lucky wrong before staff";
+var mnemonic = "top taste furnace assault minor oxygen liberty armed fantasy ripple slide chaos";

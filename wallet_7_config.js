@@ -1,1 +1,1 @@
-var mnemonic = "flip panel arrest curve share plastic produce high live erase across response";
+var mnemonic = "promote oblige glass gym inspire fan umbrella cash license cash bean teach";

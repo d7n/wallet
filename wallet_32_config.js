@@ -1,1 +1,1 @@
-var mnemonic = "cheese afraid dolphin quiz trophy camera practice announce wonder joy novel vicious";
+var mnemonic = "ice diet library road topic system mean win judge copy buddy world";

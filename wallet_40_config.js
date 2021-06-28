@@ -1,1 +1,1 @@
-var mnemonic = "pause cherry later section isolate sea gown pumpkin author actual cage traffic";
+var mnemonic = "zoo cruel drink hint tool great chimney grace impact cannon cage deputy";

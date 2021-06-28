@@ -1,1 +1,1 @@
-var mnemonic = "oak pen scheme mandate execute original snow hello differ end tray pistol";
+var mnemonic = "belt assault track card mixture camera embody toy kind toilet canoe poverty";

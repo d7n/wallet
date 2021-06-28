@@ -1,1 +1,1 @@
-var mnemonic = "zero puppy chest talent swarm win olympic gather metal gentle cost ball";
+var mnemonic = "badge kidney odor pistol ozone today treat protect snow police measure able";

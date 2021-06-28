@@ -1,1 +1,1 @@
-var mnemonic = "discover bright top tiny away road category hair enroll jeans awkward glare";
+var mnemonic = "piano gap size dilemma entire core people tiger current ice animal start";

@@ -1,1 +1,1 @@
-var mnemonic = "renew funny problem bind crowd knife mention illness ramp goose mind suggest";
+var mnemonic = "divorce diesel globe exclude core off slim author galaxy nice sample sheriff";

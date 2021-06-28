@@ -1,1 +1,1 @@
-var mnemonic = "stock raise energy stand champion rotate flush gain canvas leisure review movie";
+var mnemonic = "disorder toward reject enough firm ship parade resemble reflect exit hill rough";

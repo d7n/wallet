@@ -1,1 +1,1 @@
-var mnemonic = "scale trial execute lawsuit churn wild angle tumble cycle frequent lazy timber";
+var mnemonic = "crowd eye chronic fatal dumb replace limit kingdom receive grant retreat exhibit";

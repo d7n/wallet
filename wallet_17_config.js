@@ -1,1 +1,1 @@
-var mnemonic = "report tape scrub giggle useful novel artwork illegal anger tent rural science";
+var mnemonic = "start huge tooth private mandate recycle mask view trick festival victory crew";

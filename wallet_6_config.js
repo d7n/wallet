@@ -1,1 +1,1 @@
-var mnemonic = "behave shaft frown card ready label bronze never twenty owner excess fly";
+var mnemonic = "armor trip enroll sand audit account curve country mirror title few soap";

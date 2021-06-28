@@ -1,1 +1,1 @@
-var mnemonic = "pink year dirt embark razor notable object menu awesome stadium shield blouse";
+var mnemonic = "embody rice invite smoke minor still input surge mean else space silly";

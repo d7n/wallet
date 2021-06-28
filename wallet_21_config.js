@@ -1,1 +1,1 @@
-var mnemonic = "spread slide pole hire hat virus limb palm guard item key tape";
+var mnemonic = "brick joke roof penalty try half myself alcohol exhaust myself deal evoke";

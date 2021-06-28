@@ -1,1 +1,1 @@
-var mnemonic = "observe spirit hip brass teach tobacco valve choose protect fox gaze coffee";
+var mnemonic = "duty finger spring repeat hard spy awful supreme replace angry move island";

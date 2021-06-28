@@ -1,1 +1,1 @@
-var mnemonic = "confirm agent belt armor federal key ripple about green laugh label purpose";
+var mnemonic = "opera click force scout island smart hope toe bullet over ill fault";

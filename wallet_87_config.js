@@ -1,1 +1,1 @@
-var mnemonic = "measure magnet glory promote fatigue jazz muscle firm relief employ book asthma";
+var mnemonic = "wrestle sugar strong lesson flag favorite forum virtual twist cliff occur display";

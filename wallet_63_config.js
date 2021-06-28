@@ -1,1 +1,1 @@
-var mnemonic = "enhance mesh stairs trick face goose trade replace govern cake float issue";
+var mnemonic = "label fantasy barely slice between dose method unveil someone mystery ketchup live";

@@ -1,1 +1,1 @@
-var mnemonic = "doll wasp desk select eager damp tray core damage equal margin trend";
+var mnemonic = "provide garden stool rally loan top book busy unique waste fun pony";

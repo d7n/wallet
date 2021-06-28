@@ -1,1 +1,1 @@
-var mnemonic = "home insane garden pledge term memory crystal connect member awesome panther enrich";
+var mnemonic = "stick pen fun behave frost recycle around metal skin donkey plastic legal";

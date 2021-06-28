@@ -1,1 +1,1 @@
-var mnemonic = "add recycle ethics swap credit grace crowd fantasy globe critic media grief";
+var mnemonic = "truth club gown source isolate bless auto hip muscle until donate village";

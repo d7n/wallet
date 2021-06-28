@@ -1,1 +1,1 @@
-var mnemonic = "fringe ivory knee peanut casual tube fury consider pair diary organ cause";
+var mnemonic = "creek market sick senior develop text fit glory dish equal bar captain";

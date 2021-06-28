@@ -1,1 +1,1 @@
-var mnemonic = "stove vacuum problem globe ball fragile another utility girl illegal tissue health";
+var mnemonic = "chase trick thrive foam abuse believe educate exile secret raven town announce";

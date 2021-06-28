@@ -1,1 +1,1 @@
-var mnemonic = "race someone blouse seminar mule favorite marble fiber oyster lady loud field";
+var mnemonic = "fatigue country indoor reduce gallery extend filter rookie destroy teach hawk fortune";

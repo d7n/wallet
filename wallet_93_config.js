@@ -1,1 +1,1 @@
-var mnemonic = "figure enrich advance toss couch acoustic physical nurse village tip parade husband";
+var mnemonic = "cat text lottery bus live collect easy february rapid wrestle screen define";

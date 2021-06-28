@@ -1,1 +1,1 @@
-var mnemonic = "across deliver dress snap deny gauge merry swap cry inspire waste moment";
+var mnemonic = "coral gaze key dog then liberty gift shoot basket limit gather fault";

@@ -1,1 +1,1 @@
-var mnemonic = "sword swallow digital pair kitten chapter slide summer cricket girl drive patrol";
+var mnemonic = "you burden model dose utility ordinary under setup matter input cricket warfare";

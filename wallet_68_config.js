@@ -1,1 +1,1 @@
-var mnemonic = "domain curious man rival cabin unaware gun pair submit check wood relief";
+var mnemonic = "blind scan screen dinosaur document essay clip verb tool valid nation evidence";

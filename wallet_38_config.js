@@ -1,1 +1,1 @@
-var mnemonic = "priority fatigue puppy auction neutral vanish rail cousin diagram trash actor minimum";
+var mnemonic = "friend service breeze solid truck dance sing citizen flat arrest energy reduce";

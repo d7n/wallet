@@ -1,1 +1,1 @@
-var mnemonic = "toast acquire learn word stuff pen judge obey jungle supreme innocent disorder";
+var mnemonic = "later zoo maple parade world enter rookie come ranch rural ocean citizen";

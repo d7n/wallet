@@ -1,1 +1,1 @@
-var mnemonic = "wash credit sword shoot urge sword chest damp already confirm detect ethics";
+var mnemonic = "cook great doctor hunt web neither capable stereo valve shift shell unique";

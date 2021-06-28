@@ -1,1 +1,1 @@
-var mnemonic = "voyage mom law hair sauce fashion remain kit clean symptom gasp mass";
+var mnemonic = "process near grass stamp accuse belt idle chimney detect flag urban omit";
