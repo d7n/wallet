@@ -1,1 +1,1 @@
-var mnemonic = "cruel gravity clarify tackle purchase inner pitch relax appear turn hazard marriage";
+var mnemonic = "supply project cruise ketchup stuff color festival imitate define spirit nuclear wild";

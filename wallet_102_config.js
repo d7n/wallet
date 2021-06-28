@@ -1,1 +1,1 @@
-var mnemonic = "vibrant wedding tattoo lounge punch pink ready breeze planet increase science salmon";
+var mnemonic = "broom dirt tank warm custom city ladder sadness riot idea kidney void";

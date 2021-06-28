@@ -1,1 +1,1 @@
-var mnemonic = "clever try torch increase egg between fluid law hour traffic consider valid";
+var mnemonic = "comfort figure dismiss tide goddess finish fitness praise wife avocado human axis";

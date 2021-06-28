@@ -1,1 +1,1 @@
-var mnemonic = "recycle juice dust borrow kingdom guilt drive wage half crew rifle oak";
+var mnemonic = "topic soccer code tragic phrase matter nerve apart team cup round buffalo";

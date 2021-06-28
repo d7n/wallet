@@ -1,1 +1,1 @@
-var mnemonic = "claim object easy fiber domain limb swear satisfy pottery divorce normal unit";
+var mnemonic = "pumpkin shallow side scheme problem board submit teach unable echo glove umbrella";

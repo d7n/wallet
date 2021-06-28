@@ -1,1 +1,1 @@
-var mnemonic = "pizza logic disagree insect happy clog issue illness cherry pull dirt jeans";
+var mnemonic = "bag cupboard hungry more donkey luggage federal state office hospital bench wrong";

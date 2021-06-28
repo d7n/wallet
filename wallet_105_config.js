@@ -1,1 +1,1 @@
-var mnemonic = "canal body unique course enter miracle ozone pledge rescue juice announce because";
+var mnemonic = "magic remove birth supreme save stand torch angry heavy share coral scrap";

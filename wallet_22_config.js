@@ -1,1 +1,1 @@
-var mnemonic = "finger foam absent atom hen hello fun decade tomorrow jeans vocal diesel";
+var mnemonic = "chef waste spider cigar fiction cute such letter casual sorry sadness pear";

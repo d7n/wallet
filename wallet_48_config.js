@@ -1,1 +1,1 @@
-var mnemonic = "today neglect include soup letter two stool chronic denial stereo segment daring";
+var mnemonic = "chalk source alien pact blossom aspect great cool slender come radio menu";

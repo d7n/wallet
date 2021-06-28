@@ -1,1 +1,1 @@
-var mnemonic = "blast sell test thumb frown impact pelican update future spin tornado dinosaur";
+var mnemonic = "ring argue receive magic indicate cook myth faint office shoot margin police";

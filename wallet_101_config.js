@@ -1,1 +1,1 @@
-var mnemonic = "decade fortune seminar idle access double avoid way shadow family fall sister";
+var mnemonic = "rapid practice afraid light doll ride express certain swear enter month valve";

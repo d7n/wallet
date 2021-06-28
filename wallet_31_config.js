@@ -1,1 +1,1 @@
-var mnemonic = "piece tongue debris load achieve fix clerk rib interest region daring cause";
+var mnemonic = "disagree quality oven initial manual strike ball supply artist era proof average";

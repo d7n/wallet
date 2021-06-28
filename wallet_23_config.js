@@ -1,1 +1,1 @@
-var mnemonic = "repair chronic battle identify scissors domain bracket undo escape adult busy move";
+var mnemonic = "ordinary pair vague bicycle promote sell give donkey skate clutch soda sadness";

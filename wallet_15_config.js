@@ -1,1 +1,1 @@
-var mnemonic = "improve abuse bamboo voyage time fluid extra unusual rack monkey obvious mushroom";
+var mnemonic = "fury fit flip remember survey base ladder divorce fluid tackle crater license";

@@ -1,1 +1,1 @@
-var mnemonic = "midnight outdoor regret infant exclude scissors engine dove demise program current hello";
+var mnemonic = "fresh peasant amazing decline rescue essence announce spot resemble drama label alien";

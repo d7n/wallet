@@ -1,1 +1,1 @@
-var mnemonic = "casual relax jewel join top great motor tribe panic knock kid choose";
+var mnemonic = "chapter budget recipe pony chair reopen tenant gown situate glass fatigue great";

@@ -1,1 +1,1 @@
-var mnemonic = "display apology baby lucky eager burger decide category immense execute trash process";
+var mnemonic = "window salad tribe man mule library spirit rain catch brown perfect face";

@@ -1,1 +1,1 @@
-var mnemonic = "note achieve wolf violin sell melt symptom album honey vital fault clap";
+var mnemonic = "clip flee father wise neither sea wrist coral pen supply ride trophy";

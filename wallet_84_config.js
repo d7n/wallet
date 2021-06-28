@@ -1,1 +1,1 @@
-var mnemonic = "keep dance elite display flame people summer jeans trend omit negative vast";
+var mnemonic = "ask animal agree defy fury live globe cotton ability hero run vintage";

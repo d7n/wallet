@@ -1,1 +1,1 @@
-var mnemonic = "split junior dove potato speak maple reject battle purpose fine tortoise feed";
+var mnemonic = "frozen eager accuse miss dose absurd brass gadget shock home ring eight";

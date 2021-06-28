@@ -1,1 +1,1 @@
-var mnemonic = "develop foster pair thank hospital into bundle acquire oppose tooth poverty paddle";
+var mnemonic = "gentle plug devote awful shop raccoon cousin pave material submit ski famous";

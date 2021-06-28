@@ -1,1 +1,1 @@
-var mnemonic = "spike convince olive clock alarm farm venue wish pigeon sister laugh hammer";
+var mnemonic = "control illness purse festival patch wish pizza settle baby level jacket logic";

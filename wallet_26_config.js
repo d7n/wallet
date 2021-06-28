@@ -1,1 +1,1 @@
-var mnemonic = "tumble jazz hood card window scissors path gown wasp toy apology very";
+var mnemonic = "hedgehog word deer client resource hard peace verb wall average leopard tomato";

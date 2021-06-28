@@ -1,1 +1,1 @@
-var mnemonic = "lazy submit scatter frequent surround monkey method cover program shine devote hospital";
+var mnemonic = "gown sword change bomb brass regret assume pottery speak badge liar melody";

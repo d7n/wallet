@@ -1,1 +1,1 @@
-var mnemonic = "simple climb cost identify erase vote subject magnet slab beyond prosper piece";
+var mnemonic = "pulp slice solve peace bird final man scheme bullet spawn mirror upon";

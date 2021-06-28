@@ -1,1 +1,1 @@
-var mnemonic = "clown fine dilemma advance warfare dizzy peasant omit person deny empty attract";
+var mnemonic = "that umbrella portion protect mimic favorite box cradle evil slice boring math";

@@ -1,1 +1,1 @@
-var mnemonic = "boat tackle muscle timber casual cool radar lesson arch bonus leisure divert";
+var mnemonic = "speak bottom guard trick enforce payment pet add picnic become feed world";

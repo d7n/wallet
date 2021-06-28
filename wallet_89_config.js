@@ -1,1 +1,1 @@
-var mnemonic = "beauty across sudden access envelope broom soccer laugh wet fringe dentist stereo";
+var mnemonic = "pencil danger pair cannon dial marine theory exclude reduce torch stay gauge";

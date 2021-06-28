@@ -1,1 +1,1 @@
-var mnemonic = "parent school depth maze atom amused okay time awesome toss drama lawn";
+var mnemonic = "neck eternal midnight expire envelope live clerk crane canyon ten fiscal boil";

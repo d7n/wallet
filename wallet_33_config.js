@@ -1,1 +1,1 @@
-var mnemonic = "thought purpose engage axis raw much code cross purchase matrix clarify claw";
+var mnemonic = "slight jealous hurt south nation gold error express suspect quiz behave river";

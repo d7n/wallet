@@ -1,1 +1,1 @@
-var mnemonic = "rib pistol chunk card own fold ancient alert harvest square match grass";
+var mnemonic = "symptom ankle beach paper quit marine cabin once solution utility glide hair";

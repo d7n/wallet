@@ -1,1 +1,1 @@
-var mnemonic = "order crumble quality annual bacon boost proof hard together devote dream crime";
+var mnemonic = "girl faint deal gesture afford mistake replace motor clerk damp help castle";

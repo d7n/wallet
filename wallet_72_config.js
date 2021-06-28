@@ -1,1 +1,1 @@
-var mnemonic = "snack brand trouble okay fragile member antenna cabbage forum enter narrow peace";
+var mnemonic = "process day race body anger limit rare surge slogan setup faint mammal";

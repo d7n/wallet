@@ -1,1 +1,1 @@
-var mnemonic = "net rebuild music chapter close kid lens book siren immense mask found";
+var mnemonic = "sign gown volcano burger creek build deliver pelican window hard toddler extend";

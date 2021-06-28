@@ -1,1 +1,1 @@
-var mnemonic = "hill someone spell famous soda pizza cube zoo hungry summer grace beauty";
+var mnemonic = "brisk venue bean bench sketch time kitten course actor sunny burden distance";

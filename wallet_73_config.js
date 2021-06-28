@@ -1,1 +1,1 @@
-var mnemonic = "chronic act tribe settle alpha twist game idea example equip medal debate";
+var mnemonic = "sadness under access spoon result crack note chair anchor intact child talk";

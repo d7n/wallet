@@ -1,1 +1,1 @@
-var mnemonic = "mobile index attitude cage dentist hint subway alone always chunk quality element";
+var mnemonic = "valley crystal bulk capital autumn mansion shell pause food left student slight";

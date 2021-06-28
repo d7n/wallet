@@ -1,1 +1,1 @@
-var mnemonic = "point harbor grace cram hunt edge manage atom sea cause become web";
+var mnemonic = "miss material timber fork half cloth reflect pulp mirror deer expect narrow";

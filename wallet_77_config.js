@@ -1,1 +1,1 @@
-var mnemonic = "patrol bind square enrich toast crop unaware hip oven brown woman invest";
+var mnemonic = "garbage travel ostrich position trigger gate model solar kite spend color mouse";

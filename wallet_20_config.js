@@ -1,1 +1,1 @@
-var mnemonic = "equip virtual body tomorrow duck load lab armor ramp outer cheap pluck";
+var mnemonic = "angry decorate claim burger stock mansion census update sound bubble noodle will";

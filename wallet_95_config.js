@@ -1,1 +1,1 @@
-var mnemonic = "bomb capital hub pioneer february anchor can frequent hamster suit local movie";
+var mnemonic = "ladder spend deal grief unfold remove leopard humor differ human salmon soda";

@@ -1,1 +1,1 @@
-var mnemonic = "come ahead smoke define concert people battle since blade gap man winter";
+var mnemonic = "neither chaos yellow box bag they glass topic apart arch enable owner";

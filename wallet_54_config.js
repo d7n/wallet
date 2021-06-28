@@ -1,1 +1,1 @@
-var mnemonic = "nerve diary eagle act wolf toilet clip speak cargo knife shoulder child";
+var mnemonic = "chunk crowd ice rib badge index cube turkey royal royal easily cannon";

@@ -1,1 +1,1 @@
-var mnemonic = "ritual move rabbit skate wet ivory build husband link tower cigar solid";
+var mnemonic = "wink sing tube aisle arch myself category village scissors trick avoid guitar";

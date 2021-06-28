@@ -1,1 +1,1 @@
-var mnemonic = "smart elder adjust dream buffalo adapt lazy grit stool angry capital fly";
+var mnemonic = "always minimum era call grain twenty nice dress leopard right wagon heart";

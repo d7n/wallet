@@ -1,1 +1,1 @@
-var mnemonic = "left breeze man proof bleak fire noble limb vivid juice baby vanish";
+var mnemonic = "arrange discover credit subject piece real solar behind vanish cinnamon sand obey";

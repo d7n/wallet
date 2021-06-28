@@ -1,1 +1,1 @@
-var mnemonic = "isolate sugar hollow enjoy chase rate hedgehog whale panel tuna blind easy";
+var mnemonic = "forum tired old evidence this sponsor diesel agent digital leave evolve ocean";

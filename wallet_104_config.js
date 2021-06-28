@@ -1,1 +1,1 @@
-var mnemonic = "movie order pool hand egg surround frost punch salt human minute nephew";
+var mnemonic = "butter scrub resource depend riot almost oblige danger wide hurdle crash enter";

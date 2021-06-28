@@ -1,1 +1,1 @@
-var mnemonic = "return view fence logic voice faith trust light romance embody color asthma";
+var mnemonic = "hard defy citizen example immense question tape retire north popular frame crouch";

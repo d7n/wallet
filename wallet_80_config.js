@@ -1,1 +1,1 @@
-var mnemonic = "dutch wagon search injury mountain learn private advice achieve glory execute armed";
+var mnemonic = "connect twice forest fame obvious lunch party fluid daring then balance lobster";

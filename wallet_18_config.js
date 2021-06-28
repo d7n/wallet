@@ -1,1 +1,1 @@
-var mnemonic = "extra wet advice disorder welcome monitor music game silent cup dress dance";
+var mnemonic = "night furnace dad trophy door multiply fun soul glory pyramid until gift";

@@ -1,1 +1,1 @@
-var mnemonic = "food hotel velvet future bundle punch relax above month ship wagon shuffle";
+var mnemonic = "rule relief diagram view coach case novel betray crop accident high bean";

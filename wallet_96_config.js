@@ -1,1 +1,1 @@
-var mnemonic = "pool glass reject debris crowd fun else cabin smoke turn yard involve";
+var mnemonic = "develop total mandate spy square boost slice snake grief thrive stereo aerobic";

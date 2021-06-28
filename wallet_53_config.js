@@ -1,1 +1,1 @@
-var mnemonic = "camp inject carry joke frame plastic fiber clay reject neither write design";
+var mnemonic = "plastic planet girl opera salmon basket sting empower donkey abandon edge pony";

@@ -1,1 +1,1 @@
-var mnemonic = "table excite skill goat detect valley hover pulp spot clap wrong confirm";
+var mnemonic = "talk seed smooth stadium poem chimney stove bag impulse chief exit syrup";

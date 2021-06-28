@@ -1,1 +1,1 @@
-var mnemonic = "idea else answer ski false audit involve win expire impose palm south";
+var mnemonic = "acquire pelican escape assist ghost lounge unusual barely remember steak person entry";

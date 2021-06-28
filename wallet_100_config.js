@@ -1,1 +1,1 @@
-var mnemonic = "circle spice glow hedgehog latin resemble toast purse latin fan pupil quarter";
+var mnemonic = "excite laugh surprise lake napkin uncle range desert brick economy blood bounce";

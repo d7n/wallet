@@ -1,1 +1,1 @@
-var mnemonic = "cake woman chapter canoe suffer crime option behave abuse decorate also fox";
+var mnemonic = "symptom sock impose inherit coil shrimp casual dust clinic female laugh hunt";

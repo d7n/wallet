@@ -1,1 +1,1 @@
-var mnemonic = "patrol business crunch illness matrix together snow fuel emerge alcohol enter mule";
+var mnemonic = "title build cruel great science try suit throw tilt visit rent vintage";

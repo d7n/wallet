@@ -1,1 +1,1 @@
-var mnemonic = "reward velvet steak mimic coyote position damage around inject when angle razor";
+var mnemonic = "tube trouble basic creek pelican pet surround kiwi casino oxygen neither require";

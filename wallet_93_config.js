@@ -1,1 +1,1 @@
-var mnemonic = "crucial initial shuffle short off stool tennis daughter glow session cushion rude";
+var mnemonic = "weasel canyon hospital deliver prepare depart enroll raven boy all pumpkin swing";

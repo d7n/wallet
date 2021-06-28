@@ -1,1 +1,1 @@
-var mnemonic = "duck spawn saddle mix stool spring kingdom fabric attend crisp tornado much";
+var mnemonic = "annual off dice ocean wide pact priority major craft sponsor fix boy";

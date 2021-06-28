@@ -1,1 +1,1 @@
-var mnemonic = "region cream urban village dinosaur select course drill game town wrong female";
+var mnemonic = "draft grab notable rival must category heart cinnamon clerk humor much brass";

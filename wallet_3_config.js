@@ -1,1 +1,1 @@
-var mnemonic = "glass win town answer resemble climb vivid provide barrel chaos wrap tobacco";
+var mnemonic = "soup slight route toss outer sand author lawn tilt warfare pulp favorite";

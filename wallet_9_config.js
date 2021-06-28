@@ -1,1 +1,1 @@
-var mnemonic = "glide maple embark boring genre shiver ostrich parent off coast behind lawsuit";
+var mnemonic = "weapon festival slam digital hurdle skin glue video analyst cluster jar argue";

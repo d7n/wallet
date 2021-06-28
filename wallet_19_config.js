@@ -1,1 +1,1 @@
-var mnemonic = "rice improve economy actual exchange envelope vivid object share view grunt describe";
+var mnemonic = "bone security obtain drip nose roast pottery now rural vehicle jewel adjust";

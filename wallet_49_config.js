@@ -1,1 +1,1 @@
-var mnemonic = "admit post cabbage spread tribe robust metal dance reopen calm dismiss dance";
+var mnemonic = "diary route invest speed black announce three demise secret focus cement subway";

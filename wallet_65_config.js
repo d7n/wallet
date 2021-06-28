@@ -1,1 +1,1 @@
-var mnemonic = "motor game century inject sock video diet boil fish love cube carpet";
+var mnemonic = "eager regret actual banner slight green funny weather demise resist choice planet";

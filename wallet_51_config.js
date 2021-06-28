@@ -1,1 +1,1 @@
-var mnemonic = "polar dish group delay knock mad box blur spoil business today sing";
+var mnemonic = "axis island early furnace cluster friend boy object weird dinner rifle hen";

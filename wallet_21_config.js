@@ -1,1 +1,1 @@
-var mnemonic = "entry alien flat victory kingdom express now finish possible breeze shiver soldier";
+var mnemonic = "expire step oven rally live same tribe fatigue call boss segment pudding";

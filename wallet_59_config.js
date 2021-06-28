@@ -1,1 +1,1 @@
-var mnemonic = "special opinion flag object toilet type bulb camera author doll damage inherit";
+var mnemonic = "produce tip volcano whale gap expand window beef mixed fine gun conduct";

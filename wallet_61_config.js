@@ -1,1 +1,1 @@
-var mnemonic = "immense crane deer wool outside pulse essence super debris peanut frown black";
+var mnemonic = "double sphere skirt brisk bamboo spoon remember vehicle vote various theory casino";

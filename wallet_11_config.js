@@ -1,1 +1,1 @@
-var mnemonic = "rabbit stable jaguar pill vote pistol anger demise never police pottery tumble";
+var mnemonic = "lecture labor cake final grab ski trial ocean wage dwarf indoor sponsor";

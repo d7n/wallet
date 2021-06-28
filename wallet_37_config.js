@@ -1,1 +1,1 @@
-var mnemonic = "grow hand sketch gravity nice sell humor divorce village jeans front lazy";
+var mnemonic = "one scan nephew organ mass once west faculty female first notice flush";

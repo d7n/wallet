@@ -1,1 +1,1 @@
-var mnemonic = "lumber trouble detail neither clarify south sauce sniff enact settle noise present";
+var mnemonic = "shed night green problem shy embrace tragic favorite unit coin six slab";

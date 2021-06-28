@@ -1,1 +1,1 @@
-var mnemonic = "novel lab fancy life brush hurdle pill cook worth mass vacuum idle";
+var mnemonic = "close combine share diagram soap syrup umbrella clean prize gloom velvet ghost";

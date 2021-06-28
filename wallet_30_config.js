@@ -1,1 +1,1 @@
-var mnemonic = "demise thunder staff glow rescue alpha seed copper away object salmon action";
+var mnemonic = "reform prevent salad erosion trend adjust bubble struggle future clutch calm polar";

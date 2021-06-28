@@ -1,1 +1,1 @@
-var mnemonic = "author sun purchase same reopen note pudding minute fat error rail until";
+var mnemonic = "barrel pretty unfold job pet know inch wisdom modify fury mango stone";

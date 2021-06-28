@@ -1,1 +1,1 @@
-var mnemonic = "hammer family fatigue garlic clerk ceiling weekend online clever absurd inquiry injury";
+var mnemonic = "father trick enable drift into syrup disagree index time size pet rocket";

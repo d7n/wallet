@@ -1,1 +1,1 @@
-var mnemonic = "mobile snake bright hundred skill model gun apart party sunny melody father";
+var mnemonic = "acid today sniff gasp jewel good weapon wage truth brush casino miss";

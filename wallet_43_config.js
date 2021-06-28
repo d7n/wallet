@@ -1,1 +1,1 @@
-var mnemonic = "oyster tuna that time slide toss assault annual worth dinner already bachelor";
+var mnemonic = "youth obscure alien push weekend save merge carpet mango noodle require ahead";

@@ -1,1 +1,1 @@
-var mnemonic = "marine idle dream cotton elbow car rate man salad merry ship come";
+var mnemonic = "call across fire metal copy curve version explain patient tank street family";

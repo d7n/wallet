@@ -1,1 +1,1 @@
-var mnemonic = "solve fox bunker school mystery square age leisure coyote december seek gaze";
+var mnemonic = "tail despair bread heavy subject situate scheme food mobile quiz cushion profit";

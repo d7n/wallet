@@ -1,1 +1,1 @@
-var mnemonic = "visual steel fruit season raven song lamp cloth laptop fold velvet pen";
+var mnemonic = "panel boy fluid supreme come phrase fresh skull rule hedgehog miracle sentence";

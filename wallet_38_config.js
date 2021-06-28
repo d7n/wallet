@@ -1,1 +1,1 @@
-var mnemonic = "amused spoon glory foil menu floor rib lawsuit ring settle tragic wrestle";
+var mnemonic = "chunk shrimp rhythm protect parent jungle cancel merry reflect energy language evil";

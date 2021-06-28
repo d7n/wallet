@@ -1,1 +1,1 @@
-var mnemonic = "file hello food close become castle snack frequent pluck net expire bubble";
+var mnemonic = "protect ribbon census nurse record hidden easily hotel chunk crane allow inner";

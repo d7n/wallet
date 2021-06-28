@@ -1,1 +1,1 @@
-var mnemonic = "road taxi next copper coast riot figure hover essay scorpion window suggest";
+var mnemonic = "dune dolphin stumble inside mansion concert chase clog false chef scissors still";

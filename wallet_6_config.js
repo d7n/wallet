@@ -1,1 +1,1 @@
-var mnemonic = "maple confirm summer unaware symptom evolve soldier wave spare enter orange alert";
+var mnemonic = "invest guitar bullet obscure crater cute quiz sport speed sentence denial merge";

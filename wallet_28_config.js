@@ -1,1 +1,1 @@
-var mnemonic = "scatter caution sentence worth cricket code fun click wolf cherry burst fox";
+var mnemonic = "gym derive grant stumble mistake tattoo island observe sight surprise swear spy";

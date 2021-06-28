@@ -1,1 +1,1 @@
-var mnemonic = "exhaust trim gravity excuse later hold dilemma address position glove memory nothing";
+var mnemonic = "slide just utility tilt gauge cram cattle effort canvas news nice alarm";

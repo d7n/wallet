@@ -1,1 +1,1 @@
-var mnemonic = "drastic tube evil march apology bacon armor side churn scrub they desk";
+var mnemonic = "curtain traffic exhaust gloom maximum credit balance senior frame hello zero library";

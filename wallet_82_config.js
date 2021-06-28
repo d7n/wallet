@@ -1,1 +1,1 @@
-var mnemonic = "anchor firm donkey rival siren region bubble wagon spider cabbage judge slush";
+var mnemonic = "above mechanic taxi envelope solid camera mail sauce what coast solve age";
