@@ -1,1 +1,1 @@
-var mnemonic = "success remember exclude increase mixture video fluid pond town brand secret salmon";
+var mnemonic = "average champion tide noise actual crush vacant capable text muffin pear suffer";

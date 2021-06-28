@@ -1,1 +1,1 @@
-var mnemonic = "couple diamond traffic marine kind cloud burst energy stone dignity square crew";
+var mnemonic = "adult clarify train ticket proud just normal flower track spread final reopen";

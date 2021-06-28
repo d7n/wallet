@@ -1,1 +1,1 @@
-var mnemonic = "side special nature beach follow dawn denial antique fox balcony spare lava";
+var mnemonic = "tumble tongue ranch mountain latin column obey depth chef erase slight front";

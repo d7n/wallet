@@ -1,1 +1,1 @@
-var mnemonic = "roast business kite firm dune weapon mad brother relax moral whip right";
+var mnemonic = "staff wing game cloud jewel detail craft wood ill latin region loop";

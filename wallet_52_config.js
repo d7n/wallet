@@ -1,1 +1,1 @@
-var mnemonic = "judge strategy bleak sail execute agree coconut route lobster crawl impulse nest";
+var mnemonic = "tenant tongue minute rose gadget diary casual inform warrior dry two mobile";

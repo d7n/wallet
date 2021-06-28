@@ -1,1 +1,1 @@
-var mnemonic = "key doll naive banana spoon lizard curious tumble route salad silk offer";
+var mnemonic = "kit click shop violin kangaroo pencil shell copy place edit toilet about";

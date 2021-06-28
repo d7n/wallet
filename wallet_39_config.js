@@ -1,1 +1,1 @@
-var mnemonic = "when game breeze token attract possible humor topic wheel lawsuit banana tragic";
+var mnemonic = "sense monster fine birth choose tornado tone insect misery double fish wine";

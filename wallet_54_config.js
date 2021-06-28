@@ -1,1 +1,1 @@
-var mnemonic = "still siren spoon drastic lunar canyon view wide choice explain half dinner";
+var mnemonic = "sight file scatter baby census income evoke portion chuckle various token mesh";

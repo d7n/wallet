@@ -1,1 +1,1 @@
-var mnemonic = "poem profit pill lemon confirm response carpet spare digital lemon win fantasy";
+var mnemonic = "cry mesh arrange eye inform amount defense poem damage liar trouble spirit";

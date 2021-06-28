@@ -1,1 +1,1 @@
-var mnemonic = "shadow magic ghost vehicle deliver ketchup document capable depend alpha useless shy";
+var mnemonic = "adapt away identify enrich dawn myth icon midnight damp butter turtle wedding";

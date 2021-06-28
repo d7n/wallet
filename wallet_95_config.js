@@ -1,1 +1,1 @@
-var mnemonic = "number motion secret blast base dolphin arrive tool cook corn stable patient";
+var mnemonic = "shop multiply thought hundred can vehicle kitten wisdom return guess expand meadow";

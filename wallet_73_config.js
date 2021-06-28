@@ -1,1 +1,1 @@
-var mnemonic = "spend aim dumb popular undo marble industry book squirrel east produce actor";
+var mnemonic = "roast stay truck palm talent junk enhance kiwi cycle destroy chronic moment";

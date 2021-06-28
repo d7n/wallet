@@ -1,1 +1,1 @@
-var mnemonic = "jaguar collect mirror private parade figure tape flame obey future tomorrow fiber";
+var mnemonic = "piece hard jelly glare hungry link void can couple success outside caught";

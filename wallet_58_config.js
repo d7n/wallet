@@ -1,1 +1,1 @@
-var mnemonic = "useless stock barrel north off mutual kit language axis student miracle wing";
+var mnemonic = "enable jar submit oxygen assault roof voyage toast task tray industry clog";

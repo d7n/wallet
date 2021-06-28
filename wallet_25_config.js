@@ -1,1 +1,1 @@
-var mnemonic = "decorate image seek couple mirror empower involve setup quiz myself during unaware";
+var mnemonic = "patient try keen quick ozone speed train traffic bubble fade civil recycle";

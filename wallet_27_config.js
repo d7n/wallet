@@ -1,1 +1,1 @@
-var mnemonic = "try peace group social avocado mushroom option hedgehog where nut gather toe";
+var mnemonic = "satoshi logic ivory embody atom consider vehicle until panel fat annual marine";

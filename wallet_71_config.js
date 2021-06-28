@@ -1,1 +1,1 @@
-var mnemonic = "foil armed twist frame board indicate daughter laptop habit rate comic inquiry";
+var mnemonic = "grid crystal wait box govern kiss hood lion void illegal that outside";

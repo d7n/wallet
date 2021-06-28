@@ -1,1 +1,1 @@
-var mnemonic = "flash mansion february inflict burden broccoli pave exhibit swing walk wool siren";
+var mnemonic = "wrap ten bird gold vapor wear monkey anchor animal private theme palm";

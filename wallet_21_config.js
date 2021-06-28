@@ -1,1 +1,1 @@
-var mnemonic = "cement mother mad emerge bean cloud negative swing announce pigeon cruise tobacco";
+var mnemonic = "one divorce sting endless canal duck write story tomato radar air alpha";

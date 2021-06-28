@@ -1,1 +1,1 @@
-var mnemonic = "seven reward legend coach grit oblige visual vague woman reduce rule hurry";
+var mnemonic = "field inhale fun life cake market safe decide giggle symbol chief viable";

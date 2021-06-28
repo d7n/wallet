@@ -1,1 +1,1 @@
-var mnemonic = "mind burden cry hello blouse spoon suit remove mystery series grace spray";
+var mnemonic = "border hundred attitude tell name journey salute submit lamp fly kitchen gate";

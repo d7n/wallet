@@ -1,1 +1,1 @@
-var mnemonic = "tobacco relax fatigue cake deny leisure cherry short time bread pool fun";
+var mnemonic = "clean surprise letter skull celery rare cake parrot box napkin model delay";

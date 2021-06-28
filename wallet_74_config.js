@@ -1,1 +1,1 @@
-var mnemonic = "pioneer master yellow razor song drop inflict toy toss decorate ancient together";
+var mnemonic = "travel volcano payment insect veteran girl very wasp property pioneer double figure";

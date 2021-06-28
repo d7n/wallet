@@ -1,1 +1,1 @@
-var mnemonic = "trigger humble setup once aunt will paddle galaxy bench chase zebra aware";
+var mnemonic = "suspect target where gun seven peanut anchor abuse occur olympic airport scale";

@@ -1,1 +1,1 @@
-var mnemonic = "few expect bike cargo know nurse tomorrow holiday hidden electric sustain frown";
+var mnemonic = "attend match memory achieve water hand imitate cement lunar place elegant edit";

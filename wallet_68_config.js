@@ -1,1 +1,1 @@
-var mnemonic = "market real nurse road plate disease steak sustain rally stuff harbor clock";
+var mnemonic = "buzz document pact supreme nation rose fix chapter woman milk tackle walnut";

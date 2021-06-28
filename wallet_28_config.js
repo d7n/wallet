@@ -1,1 +1,1 @@
-var mnemonic = "february social mail maze badge weapon grid lift install inside peasant slight";
+var mnemonic = "present carpet twelve point witness dove damp crop parent surround blood lock";

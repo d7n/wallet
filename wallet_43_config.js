@@ -1,1 +1,1 @@
-var mnemonic = "route sketch clown arrive feature pottery switch donkey cushion ankle salad chunk";
+var mnemonic = "iron fiscal time opinion glance simple mansion skate bind cement elevator field";

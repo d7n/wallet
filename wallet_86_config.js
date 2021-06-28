@@ -1,1 +1,1 @@
-var mnemonic = "robust goddess trigger lab total large wink stock regular sand vehicle oak";
+var mnemonic = "song truck lens access hidden stereo daughter donor slogan slender ivory skull";

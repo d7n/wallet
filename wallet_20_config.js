@@ -1,1 +1,1 @@
-var mnemonic = "soft boat day kidney turtle october drill inspire nut private equip ten";
+var mnemonic = "they misery fiscal water subject client domain coach spoil chef seven erode";

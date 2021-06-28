@@ -1,1 +1,1 @@
-var mnemonic = "person mistake saddle hammer good august clump insect room gold unfair eagle";
+var mnemonic = "slush fetch kit hamster buffalo design stomach hamster ride excess fuel fever";

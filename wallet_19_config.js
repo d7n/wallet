@@ -1,1 +1,1 @@
-var mnemonic = "negative fee spend tissue crowd near climb pioneer still echo foil result";
+var mnemonic = "coil march intact mansion call lottery lawn fiber flavor aim throw index";

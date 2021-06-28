@@ -1,1 +1,1 @@
-var mnemonic = "whisper leaf trust tonight theory true frog tip connect absent accident coin";
+var mnemonic = "bunker pumpkin soldier body chase car surround hub empty zero draw under";

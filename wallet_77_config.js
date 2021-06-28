@@ -1,1 +1,1 @@
-var mnemonic = "express scout push pulse broom accident weather pilot december game bright label";
+var mnemonic = "term table earth fury usage genuine drum situate garment marble donkey apology";

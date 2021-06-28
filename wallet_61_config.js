@@ -1,1 +1,1 @@
-var mnemonic = "coconut raccoon wait impose jealous height panic canoe shiver pear wool famous";
+var mnemonic = "input arrive leaf cricket million spread senior magnet gospel lawn bulk space";

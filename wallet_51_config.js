@@ -1,1 +1,1 @@
-var mnemonic = "dignity motion situate lawn reject odor lion able drop session gesture grape";
+var mnemonic = "border jeans design firm video denial shy grape base spatial host couch";

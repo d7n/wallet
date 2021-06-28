@@ -1,1 +1,1 @@
-var mnemonic = "luxury online lake polar donate finger arrive correct predict client dinosaur issue";
+var mnemonic = "auto image drink history item bracket someone industry moral rookie sort tattoo";

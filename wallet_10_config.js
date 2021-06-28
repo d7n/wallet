@@ -1,1 +1,1 @@
-var mnemonic = "wrist diagram spatial spike cloth spray mistake reunion expose impose region tool";
+var mnemonic = "segment post napkin certain burst limb peanut fork correct boring whale cherry";

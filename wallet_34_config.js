@@ -1,1 +1,1 @@
-var mnemonic = "defy cost wrestle jaguar lend hedgehog dog adult ridge meat certain step";
+var mnemonic = "tag luxury thought flip discover tattoo shallow lizard penalty winner snake glimpse";

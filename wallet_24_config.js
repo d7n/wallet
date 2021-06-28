@@ -1,1 +1,1 @@
-var mnemonic = "artwork journey turn drive taste country across twenty curious cave flower practice";
+var mnemonic = "choice muffin south escape cradle learn blossom regret tube coin clever window";

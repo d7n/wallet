@@ -1,1 +1,1 @@
-var mnemonic = "swear grant remain slot scare select must play fortune bomb science during";
+var mnemonic = "ankle runway stuff trip under shrug gorilla raven garage clip common pyramid";

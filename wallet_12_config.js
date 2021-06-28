@@ -1,1 +1,1 @@
-var mnemonic = "hungry spare rebuild infant employ assault ocean fan gaze apple clever useless";
+var mnemonic = "thrive awesome shoe clerk monster divorce helmet refuse type flat flag mutual";

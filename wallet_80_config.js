@@ -1,1 +1,1 @@
-var mnemonic = "ahead expose kitchen above riot apart bus digital chimney lyrics gesture sketch";
+var mnemonic = "gap ski upper timber shift proof promote ribbon floor fantasy project blind";

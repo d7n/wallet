@@ -1,1 +1,1 @@
-var mnemonic = "cream link make under blur aware world kite resist jewel tank cook";
+var mnemonic = "soap because ensure love dolphin soup common iron toast chief cook region";

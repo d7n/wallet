@@ -1,1 +1,1 @@
-var mnemonic = "summer shoulder clay boat rival try board rug firm glove victory swim";
+var mnemonic = "vicious letter gun legend wide rice hunt tackle ship eye oyster situate";

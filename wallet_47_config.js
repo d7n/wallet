@@ -1,1 +1,1 @@
-var mnemonic = "suggest ride multiply pepper loop plate avocado motion mention slogan salute decorate";
+var mnemonic = "fitness sample soul fly giant two atom lonely tool obvious rude scan";

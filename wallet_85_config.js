@@ -1,1 +1,1 @@
-var mnemonic = "valve face flock guard retreat sudden wait ensure half pulp kitchen balcony";
+var mnemonic = "romance parrot decade coffee outside object season universe emerge burger open aisle";

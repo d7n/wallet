@@ -1,1 +1,1 @@
-var mnemonic = "spy axis purse select annual cricket forest spice often cactus property gown";
+var mnemonic = "skin rookie subject puppy debris lobster income copy wreck setup victory symptom";

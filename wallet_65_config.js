@@ -1,1 +1,1 @@
-var mnemonic = "depart pluck item salon gadget reopen employ setup monkey this idea spin";
+var mnemonic = "develop display worth timber else polar evolve cactus link tortoise toward sell";

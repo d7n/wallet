@@ -1,1 +1,1 @@
-var mnemonic = "dance program teach clutch weather verify meadow news grow bean seed roof";
+var mnemonic = "drill entry flush ranch auction universe found guilt arch expire stadium attend";

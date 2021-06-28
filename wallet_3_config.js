@@ -1,1 +1,1 @@
-var mnemonic = "jar square flame draft double north crystal device social type illness unhappy";
+var mnemonic = "column visual isolate view piece soon dry shy better surround measure double";

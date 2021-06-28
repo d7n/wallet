@@ -1,1 +1,1 @@
-var mnemonic = "govern cycle attract month never deny ripple slight argue allow lesson wait";
+var mnemonic = "pink rebel evidence pioneer else sand vivid stadium oyster captain spring furnace";

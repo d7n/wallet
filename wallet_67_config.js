@@ -1,1 +1,1 @@
-var mnemonic = "summer much confirm island scale ensure barely lecture yard night earth amused";
+var mnemonic = "divide dolphin opinion uncover rich amateur accident devote diamond surge hope lava";

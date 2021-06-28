@@ -1,1 +1,1 @@
-var mnemonic = "tip blade economy concert word firm execute loud wink produce envelope fatigue";
+var mnemonic = "script mandate vacant armed urge then earth concert topple slot crush elegant";

@@ -1,1 +1,1 @@
-var mnemonic = "anger cram apology aware demand jaguar harsh code cotton vehicle defy file";
+var mnemonic = "rack people puzzle anger again thunder beauty hair own lens problem tortoise";

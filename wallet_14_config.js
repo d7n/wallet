@@ -1,1 +1,1 @@
-var mnemonic = "predict calm correct tobacco scene stay series depart illness fancy denial female";
+var mnemonic = "item glad hollow marine memory never inherit long unfold slender dry father";

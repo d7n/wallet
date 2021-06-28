@@ -1,1 +1,1 @@
-var mnemonic = "garbage unit sad fitness test insane balance foot embody soon online giggle";
+var mnemonic = "once cherry cradle episode sentence yellow marble pulp ask strike trust tongue";

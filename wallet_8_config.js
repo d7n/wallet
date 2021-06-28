@@ -1,1 +1,1 @@
-var mnemonic = "limit canvas step attitude heart cherry envelope recycle couch lens culture other";
+var mnemonic = "arrange morning path grid chronic bread hidden before abstract blast bargain cricket";

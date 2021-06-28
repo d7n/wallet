@@ -1,1 +1,1 @@
-var mnemonic = "equip kangaroo almost above unfold such bargain neck defy dice can steel";
+var mnemonic = "night refuse venue actual own garden fabric cricket cheese spread thumb turtle";

@@ -1,1 +1,1 @@
-var mnemonic = "shrug sister pig family arena theme demise inquiry family giant elder width";
+var mnemonic = "admit citizen field session have feel clap gap ivory vehicle embark document";

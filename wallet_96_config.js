@@ -1,1 +1,1 @@
-var mnemonic = "double cup venture car piece pizza way resist slam razor light cancel";
+var mnemonic = "scheme provide lake holiday pilot behave sentence quiz struggle chief charge wait";

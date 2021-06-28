@@ -1,1 +1,1 @@
-var mnemonic = "mutual ranch essay reform venue unaware smile join flash fossil original tribe";
+var mnemonic = "quarter response say wait sell advice genuine toddler subway friend genre column";

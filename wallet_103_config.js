@@ -1,1 +1,1 @@
-var mnemonic = "east twist clinic tongue spot village wink forum gospel law oil kid";
+var mnemonic = "label way home stock cube actual tool text august shiver pair critic";

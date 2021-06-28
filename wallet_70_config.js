@@ -1,1 +1,1 @@
-var mnemonic = "inside eyebrow power umbrella gown tube cousin uncover stereo cruel arrest match";
+var mnemonic = "mesh cost speak pitch display thrive young trap kiss legal slush school";

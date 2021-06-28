@@ -1,1 +1,1 @@
-var mnemonic = "airport drum decrease nut december invest elbow idle unknown ecology salt situate";
+var mnemonic = "fix fiber secret mean beyond inhale ensure idle avoid clay return first";

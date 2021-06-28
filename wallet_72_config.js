@@ -1,1 +1,1 @@
-var mnemonic = "neck season crane message solar online verify pencil outdoor good flame film";
+var mnemonic = "dose person paddle group cheap climb weapon depend radar head govern sweet";

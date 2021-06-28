@@ -1,1 +1,1 @@
-var mnemonic = "expire search upon grocery harsh prize mutual deer cluster intact trouble devote";
+var mnemonic = "upgrade series envelope unit romance cycle run broom edge worry submit violin";

@@ -1,1 +1,1 @@
-var mnemonic = "safe quick catalog advice involve satoshi behave turn glimpse destroy coral culture";
+var mnemonic = "mimic civil void curious give setup riot replace net hire quiz basket";

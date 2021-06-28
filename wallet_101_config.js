@@ -1,1 +1,1 @@
-var mnemonic = "shaft moon arctic royal mutual pond material undo major rural twenty balcony";
+var mnemonic = "sunny scrap icon eight potato wonder replace jelly erosion recipe boss ginger";

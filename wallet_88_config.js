@@ -1,1 +1,1 @@
-var mnemonic = "ceiling mystery state enemy month chicken stereo history ordinary brass opera pen";
+var mnemonic = "else velvet spin crew breeze cost normal now chest divide umbrella cycle";

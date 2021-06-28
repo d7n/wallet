@@ -1,1 +1,1 @@
-var mnemonic = "rocket iron birth drum dish general fork knee front despair track ancient";
+var mnemonic = "thought pair real suggest mansion prefer rough nephew afraid sound salon able";

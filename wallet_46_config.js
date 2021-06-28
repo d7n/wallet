@@ -1,1 +1,1 @@
-var mnemonic = "gun liar fun will mix fragile tool note sick wink trap cabbage";
+var mnemonic = "worth soccer learn siege pattern desk century oblige spend stamp cause connect";

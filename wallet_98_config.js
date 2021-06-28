@@ -1,1 +1,1 @@
-var mnemonic = "raven divert ready spy sponsor section bag finger girl attack document deal";
+var mnemonic = "pudding dolphin pretty gold obscure spell slam inject shoe easy marriage diet";

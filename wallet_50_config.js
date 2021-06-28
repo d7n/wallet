@@ -1,1 +1,1 @@
-var mnemonic = "betray surround table knock cream sell eight license huge garage float fit";
+var mnemonic = "wagon loan accuse depart decorate artwork illness evolve suffer tragic tray grief";

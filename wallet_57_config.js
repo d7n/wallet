@@ -1,1 +1,1 @@
-var mnemonic = "transfer include useful exit vague april bike slot snow oxygen industry equip";
+var mnemonic = "spy shuffle exile duty soccer document address dinosaur exhaust guess skirt zero";

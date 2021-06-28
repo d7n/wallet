@@ -1,1 +1,1 @@
-var mnemonic = "glow echo lonely add oak hawk believe noble dog wise obvious prize";
+var mnemonic = "cinnamon motion tackle tunnel dose rule traffic distance club involve vacant answer";

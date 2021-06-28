@@ -1,1 +1,1 @@
-var mnemonic = "prefer maple beef leg clinic better provide crunch blind exercise spoon equip";
+var mnemonic = "obvious swamp torch receive order detail math nurse link public dry ship";

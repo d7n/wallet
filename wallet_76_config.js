@@ -1,1 +1,1 @@
-var mnemonic = "soldier bench patrol middle escape master need tide mosquito security champion office";
+var mnemonic = "empty market armor pride tilt hen race pause devote glove soup tomorrow";

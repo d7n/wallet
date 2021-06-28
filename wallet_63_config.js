@@ -1,1 +1,1 @@
-var mnemonic = "light control water subway trade harbor subject present swift animal midnight alter";
+var mnemonic = "room neglect receive wash future lava board amount height orange media carpet";

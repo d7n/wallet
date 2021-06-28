@@ -1,1 +1,1 @@
-var mnemonic = "clarify people resource please process forget limit purity decrease tent grace correct";
+var mnemonic = "bid chimney hedgehog lobster friend reveal multiply pigeon vendor job cycle yard";

@@ -1,1 +1,1 @@
-var mnemonic = "alter success illegal wish follow crew axis wood decade echo tenant balance";
+var mnemonic = "print match art nation vast arrive stove animal thought divorce attract used";

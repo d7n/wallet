@@ -1,1 +1,1 @@
-var mnemonic = "auction history canyon detail promote salon subway magnet uphold scrub grace vessel";
+var mnemonic = "autumn payment swim wreck jazz boss acoustic eternal bicycle lab control crowd";

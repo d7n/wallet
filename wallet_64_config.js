@@ -1,1 +1,1 @@
-var mnemonic = "insane better turtle asset core blush dial despair blanket make document during";
+var mnemonic = "leg average swarm exact giggle crazy identify blush shiver test choice slim";

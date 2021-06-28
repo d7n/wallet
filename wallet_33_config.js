@@ -1,1 +1,1 @@
-var mnemonic = "usual hip sunset kidney perfect manual depth attract occur rotate mobile change";
+var mnemonic = "urban spare sample join stamp fringe midnight inmate join immune repair slim";

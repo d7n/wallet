@@ -1,1 +1,1 @@
-var mnemonic = "aim save legal razor clog frequent steak faculty cancel reopen require glory";
+var mnemonic = "concert zero army around celery uphold ostrich where fall seven heavy humble";

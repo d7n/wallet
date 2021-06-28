@@ -1,1 +1,1 @@
-var mnemonic = "approve draft rule dinner yellow sting test nation mad stage correct canal";
+var mnemonic = "wild execute produce lava friend size donkey matrix tiny scrap broken trap";

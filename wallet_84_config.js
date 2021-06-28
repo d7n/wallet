@@ -1,1 +1,1 @@
-var mnemonic = "chimney love maid sight bar science fan large immense floor expire honey";
+var mnemonic = "program become hip matter virtual maid fine advance february host focus quarter";

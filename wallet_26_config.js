@@ -1,1 +1,1 @@
-var mnemonic = "excuse holiday matter deal elbow denial seat awesome engine canvas spend margin";
+var mnemonic = "angle surround same fashion tongue pool saddle lounge hamster jewel ladder census";

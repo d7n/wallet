@@ -1,1 +1,1 @@
-var mnemonic = "puzzle ghost rural trim crew mountain cost march shrug slender wreck release";
+var mnemonic = "general grit switch history caution surge undo deer dream wisdom act office";

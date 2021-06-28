@@ -1,1 +1,1 @@
-var mnemonic = "void pen tragic behind history another insect fruit security grain language hat";
+var mnemonic = "speak amateur improve other cereal favorite silver oval situate tourist barrel foam";

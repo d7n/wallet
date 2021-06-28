@@ -1,1 +1,1 @@
-var mnemonic = "coin huge model adjust board private chalk sheriff strategy code napkin rookie";
+var mnemonic = "clump seven game soup reward alley diesel stumble twice doll giggle unfold";
