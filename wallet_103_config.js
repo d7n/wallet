@@ -1,1 +1,1 @@
-var mnemonic = "into eight fade dial used jazz elite total solid history april echo";
+var mnemonic = "alert easily riot kind crash vapor viable lesson gadget rally base tissue";

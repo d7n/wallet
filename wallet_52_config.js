@@ -1,1 +1,1 @@
-var mnemonic = "welcome apology whale penalty street unfold shy away toy wage pencil curve";
+var mnemonic = "entry hope width trick sister sad weather dwarf share image digital mention";

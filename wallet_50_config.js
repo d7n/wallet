@@ -1,1 +1,1 @@
-var mnemonic = "divorce basket sell slight heart cluster bomb lawsuit panic pluck biology honey";
+var mnemonic = "inject dwarf renew cave drink illegal shield direct quick fiction estate today";

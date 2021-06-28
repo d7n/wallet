@@ -1,1 +1,1 @@
-var mnemonic = "hammer call cave race abandon fetch own market cream tongue jacket ahead";
+var mnemonic = "error cat garage wool power level invest comfort color exit need arctic";

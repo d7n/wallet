@@ -1,1 +1,1 @@
-var mnemonic = "deal retreat property volcano neutral drip play artefact pencil brother heart lounge";
+var mnemonic = "small bachelor hidden praise pilot purchase flavor industry permit today venue famous";

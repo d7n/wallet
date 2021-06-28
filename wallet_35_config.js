@@ -1,1 +1,1 @@
-var mnemonic = "spy shiver kingdom total frost strong lyrics pottery picture vacant feature noodle";
+var mnemonic = "caught sail marble advance useful element learn sad float become once trip";

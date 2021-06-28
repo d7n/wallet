@@ -1,1 +1,1 @@
-var mnemonic = "toward arena proud shop essence among category second huge insane thought caution";
+var mnemonic = "physical patrol moon mystery harvest ring decide submit wet visual wonder soon";

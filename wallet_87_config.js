@@ -1,1 +1,1 @@
-var mnemonic = "hammer cruel joke adjust rich agent fiction into combine awesome talent health";
+var mnemonic = "dove matrix puppy ecology casual sail deposit bargain faith gloom family toy";

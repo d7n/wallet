@@ -1,1 +1,1 @@
-var mnemonic = "spend patrol change stadium trophy they occur wild toddler intact stone air";
+var mnemonic = "pelican already attitude future jar peanut zone deny obscure puppy parade enforce";

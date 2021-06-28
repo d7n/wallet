@@ -1,1 +1,1 @@
-var mnemonic = "keen syrup laugh elite special top tongue alert album omit ignore broom";
+var mnemonic = "horror tape sting lecture this copy flavor phrase casino horse advance gospel";

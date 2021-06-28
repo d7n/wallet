@@ -1,1 +1,1 @@
-var mnemonic = "north choose shoulder slush toy ladder worry viable century happy that bubble";
+var mnemonic = "power mixture fossil heart express general sign woman false want sight sign";

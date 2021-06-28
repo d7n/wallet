@@ -1,1 +1,1 @@
-var mnemonic = "shrimp turtle endorse leopard possible clump awake melt frame flock deal survey";
+var mnemonic = "crop faculty pony action cube time cup soda impact other power wing";

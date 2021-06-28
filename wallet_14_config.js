@@ -1,1 +1,1 @@
-var mnemonic = "host immune hockey whisper exit young virus correct document surprise digital gap";
+var mnemonic = "shrimp crew enhance grit proof inch below horse theory weasel slim milk";

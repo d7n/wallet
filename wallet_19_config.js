@@ -1,1 +1,1 @@
-var mnemonic = "swift album treat assume rail maximum double rack small rack permit trash";
+var mnemonic = "awkward interest recipe neutral faith pig decade chase hat sleep laundry horse";

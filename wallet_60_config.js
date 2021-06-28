@@ -1,1 +1,1 @@
-var mnemonic = "upset balance fruit ugly net cargo inhale trust rule version quarter cabbage";
+var mnemonic = "crowd hungry buyer jump taxi diagram popular panel laugh tortoise cart slice";

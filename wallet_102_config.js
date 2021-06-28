@@ -1,1 +1,1 @@
-var mnemonic = "online loud sell corn father couple rare pilot deposit oak intact dice";
+var mnemonic = "genuine erupt senior assist bleak employ junk midnight example sugar bicycle express";

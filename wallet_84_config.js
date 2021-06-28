@@ -1,1 +1,1 @@
-var mnemonic = "leaf harvest bottom kick license tone unknown dizzy warm hollow movie away";
+var mnemonic = "bone have flee chat smooth mango plunge lunar slender fuel sick barely";

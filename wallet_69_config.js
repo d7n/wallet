@@ -1,1 +1,1 @@
-var mnemonic = "dice way off jungle hope regret box super glory shrimp crop grit";
+var mnemonic = "ramp ticket ocean gorilla hen proof soldier smart eager verify melt hundred";

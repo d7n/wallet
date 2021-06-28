@@ -1,1 +1,1 @@
-var mnemonic = "scorpion also grief snow search vault outer stage pulp finish celery budget";
+var mnemonic = "wild duck rule buzz strategy maze pool display move fringe unknown waste";

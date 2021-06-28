@@ -1,1 +1,1 @@
-var mnemonic = "chimney accident talk coffee behind ignore lonely symptom rail wheat grab embark";
+var mnemonic = "label concert suit market agree usual illegal surge chief mention spell delay";

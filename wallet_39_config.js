@@ -1,1 +1,1 @@
-var mnemonic = "fun country combine just satisfy rhythm embrace cup way violin regular edit";
+var mnemonic = "gaze tackle omit insane orbit suit tuition basic outside happy various gauge";

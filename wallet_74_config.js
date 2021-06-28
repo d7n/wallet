@@ -1,1 +1,1 @@
-var mnemonic = "mutual radio leg brand useful zero erode dutch loan battle pause magic";
+var mnemonic = "hungry kid spoil chase parade crack duty worth split roast embody city";

@@ -1,1 +1,1 @@
-var mnemonic = "ranch cement simple earth forward alone possible magnet disease blind nurse addict";
+var mnemonic = "session supreme body oak myself eight junk carry weasel guess oppose blossom";

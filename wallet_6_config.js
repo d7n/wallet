@@ -1,1 +1,1 @@
-var mnemonic = "chunk visa dry shield fee such medal music extend measure obey uniform";
+var mnemonic = "comic raven pledge jungle jazz reopen noble climb canoe margin scorpion file";

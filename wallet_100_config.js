@@ -1,1 +1,1 @@
-var mnemonic = "health target arctic roast price suggest patrol turtle come expose husband album";
+var mnemonic = "program tent release light crystal civil series wheel power dove canoe capital";

@@ -1,1 +1,1 @@
-var mnemonic = "dwarf patient relief tone thank enforce sphere junior hood energy nut distance";
+var mnemonic = "obtain design convince mule squirrel boil provide ancient prefer blood charge only";

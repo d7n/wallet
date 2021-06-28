@@ -1,1 +1,1 @@
-var mnemonic = "announce vague detail spoon air cupboard distance pluck shove trap lend margin";
+var mnemonic = "control balance carry chalk satisfy avoid expect birth address sample paper twenty";

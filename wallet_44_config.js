@@ -1,1 +1,1 @@
-var mnemonic = "rhythm pelican sing spot walnut argue bundle tragic end happy bid stock";
+var mnemonic = "melody file slim neck segment device water add wood script turkey column";

@@ -1,1 +1,1 @@
-var mnemonic = "script swarm trigger gasp bulk ocean bubble misery duck garbage boring night";
+var mnemonic = "vague anxiety abandon hill enlist infant market utility combine glance head model";

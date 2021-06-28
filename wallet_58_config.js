@@ -1,1 +1,1 @@
-var mnemonic = "ketchup phrase east wasp rigid mandate vague attend lizard enrich select advance";
+var mnemonic = "rate pledge cram exist fame nurse board clip hybrid slogan cart sad";

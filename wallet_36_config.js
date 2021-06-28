@@ -1,1 +1,1 @@
-var mnemonic = "strike detect wear clean immune amazing consider olive assume lumber long cricket";
+var mnemonic = "capable crawl empty husband lumber chaos tenant business wine story plate penalty";

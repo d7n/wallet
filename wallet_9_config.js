@@ -1,1 +1,1 @@
-var mnemonic = "brick limb proof stand galaxy biology seed alert drip barely steel pair";
+var mnemonic = "file lens later seven call mixture color health grab grit tissue nation";

@@ -1,1 +1,1 @@
-var mnemonic = "awful miracle style ring economy want knife any brown judge price violin";
+var mnemonic = "help fox lottery smile reduce ill topic enlist dawn unique mass coach";

@@ -1,1 +1,1 @@
-var mnemonic = "shiver coil valid neglect sister sentence raccoon clock still great total fence";
+var mnemonic = "easily rigid real caution enact super scorpion damage hat action disorder tired";

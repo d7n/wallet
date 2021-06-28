@@ -1,1 +1,1 @@
-var mnemonic = "soda zebra cattle accuse exact seat text horror success danger genius honey";
+var mnemonic = "around basket divide option gentle icon moon rose better share angry social";

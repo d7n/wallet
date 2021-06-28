@@ -1,1 +1,1 @@
-var mnemonic = "crowd buyer harbor say lonely embark marriage seminar deal pudding april team";
+var mnemonic = "open journey mind member hard assault rely tone pair wise orange milk";

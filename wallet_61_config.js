@@ -1,1 +1,1 @@
-var mnemonic = "nuclear client eyebrow differ coach limb detail slogan supreme pride thumb pave";
+var mnemonic = "federal tag video stove broom essence banana risk consider salon settle juice";

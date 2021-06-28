@@ -1,1 +1,1 @@
-var mnemonic = "link board client artist valve street dynamic stick salmon torch smart choice";
+var mnemonic = "wild artist child zebra hollow work grit infant mail exile dolphin intact";

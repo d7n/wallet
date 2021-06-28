@@ -1,1 +1,1 @@
-var mnemonic = "expire ten number expand ill result mirror peace issue furnace hunt level";
+var mnemonic = "combine sister desert dismiss rely proud found hello century smart forget asthma";

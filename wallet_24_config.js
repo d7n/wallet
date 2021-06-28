@@ -1,1 +1,1 @@
-var mnemonic = "raise throw fluid garlic drive draw window fine unlock know hat coffee";
+var mnemonic = "skate immune interest inspire east eight ankle sniff used another report humor";

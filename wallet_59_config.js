@@ -1,1 +1,1 @@
-var mnemonic = "dog keen illness coin avocado tattoo soft chronic race tool dance hidden";
+var mnemonic = "gauge crash shed special cloth pilot tenant asthma fit piece pulp inflict";

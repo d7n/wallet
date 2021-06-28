@@ -1,1 +1,1 @@
-var mnemonic = "pottery vital faint adjust range sunset permit impact hollow crawl enroll trophy";
+var mnemonic = "company left critic eyebrow air slogan kid age urban rule clock iron";

@@ -1,1 +1,1 @@
-var mnemonic = "cup horn palace orange zero month slow bunker fan avocado acquire rude";
+var mnemonic = "deliver flower bag virus wife pretty toward switch hurt modify design dawn";

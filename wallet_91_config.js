@@ -1,1 +1,1 @@
-var mnemonic = "order moment behave seminar card bubble mimic fruit cover shiver gather wild";
+var mnemonic = "now nasty crop universe protect thought exist panic recipe never hamster achieve";

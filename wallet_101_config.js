@@ -1,1 +1,1 @@
-var mnemonic = "borrow hollow dirt crumble canvas deputy knife arena bomb glad dinosaur upgrade";
+var mnemonic = "great canyon express floor provide enact turtle travel hub kiwi tenant ladder";

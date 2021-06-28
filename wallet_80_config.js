@@ -1,1 +1,1 @@
-var mnemonic = "eight mother enable dream wear divorce observe leopard acid oval gadget unusual";
+var mnemonic = "decrease want rebuild great hazard police maple popular couch use inherit scare";

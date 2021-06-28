@@ -1,1 +1,1 @@
-var mnemonic = "media dad sand reform random stove boy sort wild school relief project";
+var mnemonic = "escape diary marriage duty town memory hair jungle father frame right limb";

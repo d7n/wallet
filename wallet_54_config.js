@@ -1,1 +1,1 @@
-var mnemonic = "dune record carpet category badge spice audit near subject lemon outer unaware";
+var mnemonic = "purpose image poverty certain drum miracle visual exile swamp sphere next pledge";

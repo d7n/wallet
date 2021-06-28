@@ -1,1 +1,1 @@
-var mnemonic = "scare plastic turkey panic satisfy couch solar barrel domain jump deal casino";
+var mnemonic = "fault gossip allow novel knife yellow wave patient bomb country rhythm hat";

@@ -1,1 +1,1 @@
-var mnemonic = "crazy example pigeon miracle flush drum pink enhance often depart trial cigar";
+var mnemonic = "again victory wisdom equip extra opera nurse rebel dash stairs isolate alert";

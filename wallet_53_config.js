@@ -1,1 +1,1 @@
-var mnemonic = "art october element uphold cake common special category old silk nest height";
+var mnemonic = "surface twice pony nephew bronze lunch style void badge umbrella pig daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "advice artwork aim actor pyramid canyon bunker chair odor awkward train prize";
+var mnemonic = "apart paddle hundred wild trip abandon exile hard sibling hundred unfold stairs";

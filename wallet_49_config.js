@@ -1,1 +1,1 @@
-var mnemonic = "meat fan umbrella eyebrow layer input share chair you barely away pride";
+var mnemonic = "give forum buyer stick acquire nation ranch cluster visual tray hockey inmate";

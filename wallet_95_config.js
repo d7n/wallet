@@ -1,1 +1,1 @@
-var mnemonic = "rain blame bench sphere time cheese sentence access zero side van chase";
+var mnemonic = "mouse anchor almost segment symptom world attend modify they require room leave";

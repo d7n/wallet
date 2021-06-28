@@ -1,1 +1,1 @@
-var mnemonic = "deposit forget settle now grid when hand gas flower remind make motor";
+var mnemonic = "clock town media left gate erupt swarm involve kick health diet obvious";

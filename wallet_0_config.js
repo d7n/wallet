@@ -1,1 +1,1 @@
-var mnemonic = "trade author animal hint sunny magic state pass cigar chronic spatial mountain";
+var mnemonic = "evidence jeans project exhaust top gain pilot twin pony catalog fatigue physical";

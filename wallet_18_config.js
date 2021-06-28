@@ -1,1 +1,1 @@
-var mnemonic = "icon glide cram jungle excuse shield sponsor next medal spoil guilt engage";
+var mnemonic = "ankle people inspire enforce leopard height trust click valid employ oak regret";

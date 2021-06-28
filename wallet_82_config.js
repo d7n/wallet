@@ -1,1 +1,1 @@
-var mnemonic = "absent globe aware beyond bus make embark future luggage sock soda biology";
+var mnemonic = "fuel vault pen plate okay chaos vessel moral sort fluid arrow clog";

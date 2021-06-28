@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo base wife mystery kit two scare better weekend lesson cradle ribbon";
+var mnemonic = "home slogan guard snow alpha item much wonder kitten merry legend broken";

@@ -1,1 +1,1 @@
-var mnemonic = "shadow general mountain off gesture stool woman knee stomach mansion latin fluid";
+var mnemonic = "mirror invest gorilla exhaust credit vibrant above again control settle raw file";

@@ -1,1 +1,1 @@
-var mnemonic = "response silver weekend idea pilot mom erode poem profit infant fence salt";
+var mnemonic = "base army hen cliff injury endorse episode slogan era mass popular casual";

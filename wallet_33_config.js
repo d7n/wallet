@@ -1,1 +1,1 @@
-var mnemonic = "avocado select insect concert sweet cave culture between cousin retreat exhaust globe";
+var mnemonic = "area mind card snow must fame essay second glove engine fall awkward";

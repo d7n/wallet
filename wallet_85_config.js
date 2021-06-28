@@ -1,1 +1,1 @@
-var mnemonic = "about street can thing exotic lesson burden mercy estate unfold horn spin";
+var mnemonic = "brick vintage air potato door hammer awake panel trial notice promote volume";

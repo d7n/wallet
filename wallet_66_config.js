@@ -1,1 +1,1 @@
-var mnemonic = "invite shuffle version pass snow uncle obvious tissue laptop quiz mixture devote";
+var mnemonic = "radar keen please access track develop dry ozone awful eternal share drill";

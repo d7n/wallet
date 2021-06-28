@@ -1,1 +1,1 @@
-var mnemonic = "cereal badge because chronic typical unhappy eagle wall slow caution spare dizzy";
+var mnemonic = "crawl coconut mail grid match mercy deposit sure cycle enemy spice spray";

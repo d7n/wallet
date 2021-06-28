@@ -1,1 +1,1 @@
-var mnemonic = "shiver sample fury volcano witness move motor imitate cereal brother grocery reveal";
+var mnemonic = "abuse usual polar doll jewel robust review drive elder obscure prosper because";

@@ -1,1 +1,1 @@
-var mnemonic = "youth ten jump neglect kingdom stone bacon father assume soon energy average";
+var mnemonic = "media stock display legend option loud enable romance adapt angle remain blur";

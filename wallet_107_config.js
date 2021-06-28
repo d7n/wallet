@@ -1,1 +1,1 @@
-var mnemonic = "vital best good invite basic mandate usual speak copper raw review reunion";
+var mnemonic = "damp refuse furnace balance organ opera chronic original wool moon caution calm";

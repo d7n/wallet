@@ -1,1 +1,1 @@
-var mnemonic = "athlete pig token damp orphan enrich today potato wasp draft fitness south";
+var mnemonic = "happy add ignore hamster poem guard romance elite blur act silly help";

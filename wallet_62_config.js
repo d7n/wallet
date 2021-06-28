@@ -1,1 +1,1 @@
-var mnemonic = "trophy clock brass nature connect square slush fetch bargain sun decline gospel";
+var mnemonic = "icon keep keen blush whisper innocent boss urban celery cereal attitude cupboard";

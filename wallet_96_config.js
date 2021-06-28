@@ -1,1 +1,1 @@
-var mnemonic = "myself hybrid genuine alpha stage muscle pyramid ride birth tissue reform sausage";
+var mnemonic = "tip audit own milk oppose opinion rare public uphold wolf crime square";

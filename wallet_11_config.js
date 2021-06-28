@@ -1,1 +1,1 @@
-var mnemonic = "ski police cave issue only online flip outer enemy kiss diagram dream";
+var mnemonic = "burst vacuum elbow bag royal coast swamp coral chair kingdom transfer lock";

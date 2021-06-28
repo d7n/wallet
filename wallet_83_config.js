@@ -1,1 +1,1 @@
-var mnemonic = "afraid oven hobby paper fatigue stomach reveal viable walnut neither food depth";
+var mnemonic = "auto crawl grain device merge book immune struggle cause canoe visa airport";

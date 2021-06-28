@@ -1,1 +1,1 @@
-var mnemonic = "exclude chalk liquid hip sheriff silk wink mule enable ecology help edit";
+var mnemonic = "lunch gown park brick east fashion anchor pottery harbor chat draw toilet";

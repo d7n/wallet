@@ -1,1 +1,1 @@
-var mnemonic = "time tenant slot reopen girl proof gym rapid mobile sea hundred farm";
+var mnemonic = "nasty diary harvest manual album uniform neck nurse hammer arrange hat verify";

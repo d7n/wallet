@@ -1,1 +1,1 @@
-var mnemonic = "scout stadium away save ozone endless sister goddess stairs viable penalty pool";
+var mnemonic = "note address combine awesome recall clump decline settle behind absurd mystery vessel";

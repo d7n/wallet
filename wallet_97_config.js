@@ -1,1 +1,1 @@
-var mnemonic = "vault eight melt purse try ritual outer camp north cheese weather exact";
+var mnemonic = "like sugar foam crunch parent bronze setup fantasy corn private burden catch";

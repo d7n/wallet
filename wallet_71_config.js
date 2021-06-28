@@ -1,1 +1,1 @@
-var mnemonic = "timber attend submit holiday annual aisle amused winner awkward poem elegant mixture";
+var mnemonic = "key end depend behave jazz disease taxi believe goose soft tooth absorb";

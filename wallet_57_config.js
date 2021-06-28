@@ -1,1 +1,1 @@
-var mnemonic = "summer large happy monitor nothing hungry sign swing item stone disease tattoo";
+var mnemonic = "safe inquiry useless erupt train level sword area patrol drill gap ready";

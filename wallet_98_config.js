@@ -1,1 +1,1 @@
-var mnemonic = "light across mix flight mad chief define check recall boil bus execute";
+var mnemonic = "arrive inflict coach carry lunch major park cruel sing weasel analyst violin";

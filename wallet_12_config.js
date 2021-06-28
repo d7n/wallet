@@ -1,1 +1,1 @@
-var mnemonic = "phrase denial grief bachelor head please oval marriage analyst vessel staff cricket";
+var mnemonic = "display giggle pencil fun champion just pyramid coyote already artist napkin couch";

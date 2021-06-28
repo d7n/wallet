@@ -1,1 +1,1 @@
-var mnemonic = "neck fire task trigger salmon antenna have about sound fun shallow recycle";
+var mnemonic = "asthma trial road defy furnace much develop endorse pass flee simple decide";

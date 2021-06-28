@@ -1,1 +1,1 @@
-var mnemonic = "hospital dragon destroy message talent source eager large success history evidence mechanic";
+var mnemonic = "gloom ozone have behind law broom unit stem poverty hold twelve pottery";

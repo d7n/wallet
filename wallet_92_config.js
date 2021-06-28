@@ -1,1 +1,1 @@
-var mnemonic = "chest grape betray game nominee volume naive supreme chuckle dad credit flee";
+var mnemonic = "little suffer early bronze toast puzzle include gun liar fault earn enroll";

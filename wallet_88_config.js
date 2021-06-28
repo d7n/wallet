@@ -1,1 +1,1 @@
-var mnemonic = "column pizza iron hidden pigeon state coconut barely uphold december cave rescue";
+var mnemonic = "slide tube turkey dinosaur wire stamp near kite coffee mixture label raw";

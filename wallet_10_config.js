@@ -1,1 +1,1 @@
-var mnemonic = "ocean narrow patient sting swift source twelve grid motor modify october farm";
+var mnemonic = "voice scale satoshi bonus hour fall raise comfort ensure model diesel joke";
