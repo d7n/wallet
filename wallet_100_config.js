@@ -1,1 +1,1 @@
-var mnemonic = "segment eternal tip link brief end absurd buzz test proof author law";
+var mnemonic = "discover live icon royal shield beauty toddler soccer reform song expect famous";

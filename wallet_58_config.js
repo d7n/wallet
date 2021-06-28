@@ -1,1 +1,1 @@
-var mnemonic = "crime pause pelican slab observe stuff tail high early crime crucial game";
+var mnemonic = "family unlock shuffle jaguar garlic chimney again auto install manage soup boring";

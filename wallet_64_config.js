@@ -1,1 +1,1 @@
-var mnemonic = "dirt move cry shoulder boat gap hawk follow analyst usage imitate range";
+var mnemonic = "achieve embark reform easy maximum night collect enrich ethics hire advice plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "chronic foil issue wave science cluster neglect spot weapon casual cave race";
+var mnemonic = "flame kangaroo target orient bless expect buzz manual depart repeat now real";

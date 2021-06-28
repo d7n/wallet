@@ -1,1 +1,1 @@
-var mnemonic = "clown tobacco soft any eyebrow device sock noodle scan spy dilemma hint";
+var mnemonic = "armed dutch snow predict dumb need ancient file ship length frost corn";

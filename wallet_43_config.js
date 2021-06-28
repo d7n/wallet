@@ -1,1 +1,1 @@
-var mnemonic = "myth alter access idle daring similar author crop benefit lonely grid follow";
+var mnemonic = "spray upgrade turtle reveal physical ticket pottery miss east picture great pattern";

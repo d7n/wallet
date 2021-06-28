@@ -1,1 +1,1 @@
-var mnemonic = "sword rely gesture enter carbon tail lumber kit above hour junk suggest";
+var mnemonic = "once cup accuse captain install baby country adapt penalty discover fence bargain";

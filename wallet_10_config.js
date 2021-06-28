@@ -1,1 +1,1 @@
-var mnemonic = "pact poet carpet husband dentist weapon spell peasant invite sand observe toss";
+var mnemonic = "zoo tissue cinnamon enhance orange clump soon dose dose kitchen sick tooth";

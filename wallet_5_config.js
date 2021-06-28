@@ -1,1 +1,1 @@
-var mnemonic = "tribe icon duck answer giggle soccer piano velvet suggest exact awful fit";
+var mnemonic = "visa attract era expand correct debate autumn hole ring injury clean grocery";

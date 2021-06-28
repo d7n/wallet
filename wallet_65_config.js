@@ -1,1 +1,1 @@
-var mnemonic = "outer close gorilla clarify trash harsh skate affair picnic dilemma reform actress";
+var mnemonic = "fuel level discover genius brief motor rabbit history baby kick enroll mixture";

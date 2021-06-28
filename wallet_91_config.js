@@ -1,1 +1,1 @@
-var mnemonic = "neutral struggle library team already two duck machine pluck wink erode truly";
+var mnemonic = "elder worth nothing slow universe black photo ball pass prison general trap";

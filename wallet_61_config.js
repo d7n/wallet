@@ -1,1 +1,1 @@
-var mnemonic = "beyond warfare canal almost raven maximum auto slide turn rent fashion lady";
+var mnemonic = "much win like heart easy yellow acid bronze adult unveil firm present";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle alarm identify local cluster among flash polar renew bike vocal oak";
+var mnemonic = "inner choice awake capital into earth virtual century able charge box doctor";

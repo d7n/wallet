@@ -1,1 +1,1 @@
-var mnemonic = "wedding venture clock extend arm practice clump sample buffalo clay maple phrase";
+var mnemonic = "clinic fragile visa connect crazy artwork elbow police clever cancel unknown put";

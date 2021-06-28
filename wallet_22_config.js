@@ -1,1 +1,1 @@
-var mnemonic = "claim proof shoe jazz crucial smooth cruel behave slow nice cereal general";
+var mnemonic = "admit clip rival turkey blossom street drive swarm tonight patch myself beyond";

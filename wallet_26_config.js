@@ -1,1 +1,1 @@
-var mnemonic = "siren glide image scare slim twenty picnic diary accuse fence liquid void";
+var mnemonic = "find peasant double burger shrug drop program coral trumpet common direct pulse";

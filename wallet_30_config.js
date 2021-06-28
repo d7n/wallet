@@ -1,1 +1,1 @@
-var mnemonic = "squirrel video suit step common media address remind before vessel bachelor stand";
+var mnemonic = "task actor client choice water cup trust later wire property slide fluid";

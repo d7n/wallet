@@ -1,1 +1,1 @@
-var mnemonic = "forget input concert evolve baby clutch mountain chapter rail celery smile gasp";
+var mnemonic = "luxury connect dance renew forget pyramid angry tragic loyal legend bullet kitten";

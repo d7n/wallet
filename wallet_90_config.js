@@ -1,1 +1,1 @@
-var mnemonic = "chimney way head pitch sorry imitate spatial tube mango mother sell smile";
+var mnemonic = "soda conduct fever menu core correct burst dignity gym fall bring deal";

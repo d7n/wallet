@@ -1,1 +1,1 @@
-var mnemonic = "border admit typical museum pond super nuclear tank scatter isolate guide add";
+var mnemonic = "idea future identify decrease print december select funny about mercy patient settle";

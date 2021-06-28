@@ -1,1 +1,1 @@
-var mnemonic = "demise stadium increase raccoon security notable myth velvet game satoshi excess sword";
+var mnemonic = "train update human tag guard forest supreme horror nasty dragon stamp rose";

@@ -1,1 +1,1 @@
-var mnemonic = "gate moral true benefit where network side filter trade spare special rabbit";
+var mnemonic = "sick ribbon maze autumn replace belt phrase okay attend tent vivid novel";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal dolphin recycle oyster tribe satisfy exclude worry betray result dream sting";
+var mnemonic = "gym buffalo inmate oblige mercy clog core wave pen pole piano upset";

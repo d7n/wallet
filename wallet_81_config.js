@@ -1,1 +1,1 @@
-var mnemonic = "riot pear scale potato raise unique birth city federal magic stick genre";
+var mnemonic = "piece scrap bind rifle truth slice pool earth top chalk imitate about";

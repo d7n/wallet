@@ -1,1 +1,1 @@
-var mnemonic = "almost phone fold slow ketchup toast virus host october invite can three";
+var mnemonic = "adapt budget sell neutral adapt snow dad resist follow govern cake assault";

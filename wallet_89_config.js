@@ -1,1 +1,1 @@
-var mnemonic = "snake scissors turtle exist glass crouch horn elephant pattern cook example mail";
+var mnemonic = "man oxygen gossip rookie rough blouse control mechanic food approve arrive section";

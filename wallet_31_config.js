@@ -1,1 +1,1 @@
-var mnemonic = "party young two miss write novel strong breeze topic clown aunt canvas";
+var mnemonic = "cheese fuel gossip warfare amateur road tray lizard hockey drop witness wisdom";

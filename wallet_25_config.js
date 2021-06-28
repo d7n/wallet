@@ -1,1 +1,1 @@
-var mnemonic = "goddess together bar denial science where long awesome opera brisk uphold parent";
+var mnemonic = "final second space yard enjoy orient exit orient leaf idea wagon marine";

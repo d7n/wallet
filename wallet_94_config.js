@@ -1,1 +1,1 @@
-var mnemonic = "inflict gift since immense uniform six wisdom monkey drastic blue escape chimney";
+var mnemonic = "bunker lizard culture visit spatial reward holiday double bread swim valve stick";

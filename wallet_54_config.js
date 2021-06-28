@@ -1,1 +1,1 @@
-var mnemonic = "parrot aunt dinosaur insect appear huge craft office cabbage slide gorilla electric";
+var mnemonic = "trouble cool slogan husband master ill length dirt build sibling panel unveil";

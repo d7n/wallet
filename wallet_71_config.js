@@ -1,1 +1,1 @@
-var mnemonic = "drill staff alpha myth check fly submit planet supreme analyst soda joke";
+var mnemonic = "company vital prison foster fortune carpet entire canyon issue category thank autumn";

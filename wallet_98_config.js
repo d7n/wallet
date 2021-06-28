@@ -1,1 +1,1 @@
-var mnemonic = "bind expire absent attract trick pool pudding space execute shock cloth roof";
+var mnemonic = "begin insane cushion weasel able educate cattle sting earn discover jelly squeeze";

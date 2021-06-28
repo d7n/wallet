@@ -1,1 +1,1 @@
-var mnemonic = "mimic runway oval foam muffin arrow hobby youth group craft flower cricket";
+var mnemonic = "force tape toast coffee odor antenna vibrant about leg chief start reunion";

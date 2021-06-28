@@ -1,1 +1,1 @@
-var mnemonic = "diamond barrel aisle artwork hobby save among wear fantasy pride sure twelve";
+var mnemonic = "retreat sibling fence bonus gap food obvious poverty dilemma vacuum hurt neck";

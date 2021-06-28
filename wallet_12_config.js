@@ -1,1 +1,1 @@
-var mnemonic = "cream dash require sadness defy truth spoil acid cereal write injury setup";
+var mnemonic = "snack charge begin renew sustain bachelor ordinary diamond bid limit banner alarm";

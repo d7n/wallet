@@ -1,1 +1,1 @@
-var mnemonic = "opera question almost where awesome coral chaos below real concert domain valley";
+var mnemonic = "mixed fetch prosper mango clarify wonder loan pact afraid south rely noble";

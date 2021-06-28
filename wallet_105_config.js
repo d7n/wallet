@@ -1,1 +1,1 @@
-var mnemonic = "discover come song path isolate language grow giraffe sudden snow flush barrel";
+var mnemonic = "expect afford grow before flush luggage lunar rebel bike borrow drop security";

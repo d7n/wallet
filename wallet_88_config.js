@@ -1,1 +1,1 @@
-var mnemonic = "sting eager obey mutual true thought cream banana allow barrel excess crazy";
+var mnemonic = "egg satisfy fury today session bar large paper right humble number organ";

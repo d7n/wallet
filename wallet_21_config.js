@@ -1,1 +1,1 @@
-var mnemonic = "text control enlist prefer fix scheme radio oyster crowd action budget grid";
+var mnemonic = "amateur lunar reform bonus face coast zoo stumble laundry ordinary night aisle";

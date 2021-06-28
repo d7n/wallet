@@ -1,1 +1,1 @@
-var mnemonic = "vessel nice taste excess allow bamboo shy spell coffee decorate sound slogan";
+var mnemonic = "offer tip drop hover pledge smart tail ship scissors soup tower kitten";

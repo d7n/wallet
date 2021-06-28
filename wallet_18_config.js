@@ -1,1 +1,1 @@
-var mnemonic = "fiction phone manage kiwi fashion race usual crew goose rhythm fence cabbage";
+var mnemonic = "ski matter cancel rough over repeat onion cradle dust super transfer surprise";

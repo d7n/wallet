@@ -1,1 +1,1 @@
-var mnemonic = "burst void base project fancy put twenty together antenna buyer loud jar";
+var mnemonic = "artwork giggle pretty game child inspire try corn friend win number describe";

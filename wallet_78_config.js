@@ -1,1 +1,1 @@
-var mnemonic = "thank total business drop buzz volume yellow vote clever kid lyrics pumpkin";
+var mnemonic = "heart raise jaguar planet wall page raven sphere adjust skirt surround flight";

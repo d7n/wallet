@@ -1,1 +1,1 @@
-var mnemonic = "remain disagree unable learn limb hundred season guide space act orchard disease";
+var mnemonic = "moon trouble faint source gauge dilemma surround grass hybrid paper ceiling space";

@@ -1,1 +1,1 @@
-var mnemonic = "worth inhale actual hen blouse penalty donor decrease cabbage hurt doll salt";
+var mnemonic = "fruit fame grass pact curve thank camera amused spirit glide thought type";

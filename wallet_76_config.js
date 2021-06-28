@@ -1,1 +1,1 @@
-var mnemonic = "diesel else odor place hill ecology glide edge useless couch eager bus";
+var mnemonic = "daughter vibrant alpha spider giant police resist gravity song please forest wrong";

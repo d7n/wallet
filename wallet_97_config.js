@@ -1,1 +1,1 @@
-var mnemonic = "tool hold first blossom year lesson luggage put stuff situate wealth street";
+var mnemonic = "spice believe habit tiger hybrid rookie total chaos glow zone sail rotate";

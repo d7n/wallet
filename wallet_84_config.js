@@ -1,1 +1,1 @@
-var mnemonic = "reward liar dynamic vote journey office nuclear perfect pyramid forward wolf curtain";
+var mnemonic = "lyrics broken donkey dawn disease truck lift wet seed require battle shift";

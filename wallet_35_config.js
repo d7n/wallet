@@ -1,1 +1,1 @@
-var mnemonic = "normal you treat void sorry render voyage screen reveal involve famous hundred";
+var mnemonic = "globe usage rural isolate empower ranch shrimp grass fame student slice small";

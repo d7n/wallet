@@ -1,1 +1,1 @@
-var mnemonic = "hospital fancy seat steel mule south impose draft bitter voyage element wheel";
+var mnemonic = "educate unveil grape damage solid huge blast fabric drive shield response change";

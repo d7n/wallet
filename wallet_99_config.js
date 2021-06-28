@@ -1,1 +1,1 @@
-var mnemonic = "grain dragon door insect private buffalo obtain bag olympic hazard idle marble";
+var mnemonic = "tunnel simple weird boost pact mobile virus plate token crash enroll party";

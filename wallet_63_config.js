@@ -1,1 +1,1 @@
-var mnemonic = "add present share cost stool jelly eagle rotate palm raw major impact";
+var mnemonic = "miracle tide thought fruit approve juice tourist okay marriage knife hazard brass";

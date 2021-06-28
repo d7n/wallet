@@ -1,1 +1,1 @@
-var mnemonic = "trigger brush unveil follow envelope gas return virtual drama fit tornado legend";
+var mnemonic = "medal shrug shrimp mammal mimic hurt episode oxygen collect stem flash dance";

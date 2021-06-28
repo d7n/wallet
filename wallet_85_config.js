@@ -1,1 +1,1 @@
-var mnemonic = "napkin deputy snow crime fiction swap betray clown shift employ rescue jewel";
+var mnemonic = "whisper symptom risk inflict tip mountain shoe onion garage autumn differ run";

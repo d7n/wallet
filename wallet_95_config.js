@@ -1,1 +1,1 @@
-var mnemonic = "crowd okay decade bacon advice farm lecture bonus muscle bean excess aim";
+var mnemonic = "custom pattern card pilot title photo insect amazing machine time never manual";

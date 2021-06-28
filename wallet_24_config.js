@@ -1,1 +1,1 @@
-var mnemonic = "illegal machine pizza student topple tragic similar arctic purity provide deer flash";
+var mnemonic = "mammal lobster minor adjust tip link parent hello plunge burst useless hazard";

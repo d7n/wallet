@@ -1,1 +1,1 @@
-var mnemonic = "access lava whip mask put monkey lion ship bid subject initial human";
+var mnemonic = "fiber river donkey decrease again control ship idea orchard curve sphere uncover";

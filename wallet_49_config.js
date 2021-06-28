@@ -1,1 +1,1 @@
-var mnemonic = "route board screen unable warrior worry flame target plunge give timber ring";
+var mnemonic = "pact captain super truth glimpse one mirror duck cactus resist shrimp about";

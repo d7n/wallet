@@ -1,1 +1,1 @@
-var mnemonic = "peanut taxi ugly harvest loyal timber code annual neck account lock defy";
+var mnemonic = "buddy axis solid pause hub spray mule music honey crouch ability practice";

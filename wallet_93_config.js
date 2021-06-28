@@ -1,1 +1,1 @@
-var mnemonic = "vendor ladder exhibit melody dilemma arrange essay detail shine rich cover average";
+var mnemonic = "weather beach safe oppose always live appear unhappy wage fluid leave grief";

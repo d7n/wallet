@@ -1,1 +1,1 @@
-var mnemonic = "champion trial lonely annual reflect ripple leader say favorite enlist divorce vital";
+var mnemonic = "drama often just winner where dirt limb play poem tip receive admit";

@@ -1,1 +1,1 @@
-var mnemonic = "flip usual goose amazing call vehicle great oxygen focus super guilt corn";
+var mnemonic = "essence enroll calm mango issue east bench account video arrive choice what";

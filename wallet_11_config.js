@@ -1,1 +1,1 @@
-var mnemonic = "leader fall comfort fork penalty fox dad snake narrow march order wise";
+var mnemonic = "crack lottery stumble april pottery critic use party spend exist ghost occur";

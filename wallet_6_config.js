@@ -1,1 +1,1 @@
-var mnemonic = "valid repair wild flame foam cushion rebuild vibrant disorder zone magic during";
+var mnemonic = "injury gossip stumble grow wait miss worry grit kind trap plug machine";

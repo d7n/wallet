@@ -1,1 +1,1 @@
-var mnemonic = "mouse fresh link twice pole mind say actual acid steel doll two";
+var mnemonic = "then unaware hedgehog neck fish embrace seven cousin lend iron retreat excite";

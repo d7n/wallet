@@ -1,1 +1,1 @@
-var mnemonic = "time eye essay market drama describe robot amateur dry reopen track rug";
+var mnemonic = "slot figure sting elevator input memory swim bus chunk clap shoot anxiety";

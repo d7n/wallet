@@ -1,1 +1,1 @@
-var mnemonic = "lizard valid menu cliff ugly flower skull drip denial priority way maze";
+var mnemonic = "excite ignore tip toy minimum decline simple jazz whip kid flower resource";

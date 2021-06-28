@@ -1,1 +1,1 @@
-var mnemonic = "eye always capable end swear glad opera used shrimp river gaze mercy";
+var mnemonic = "chalk illness veteran nation pioneer mask meadow ketchup uniform relief valve hire";

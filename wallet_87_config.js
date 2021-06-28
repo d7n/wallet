@@ -1,1 +1,1 @@
-var mnemonic = "sadness seat purpose memory hat cousin dry reflect scatter stuff wrist apart";
+var mnemonic = "fade trust junk lumber myth worth office domain trigger swallow night aisle";

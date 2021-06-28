@@ -1,1 +1,1 @@
-var mnemonic = "train head sunny detect resist struggle quick trash drip scheme enjoy syrup";
+var mnemonic = "climb kitten motion glove measure size wrong shell finish code inside space";

@@ -1,1 +1,1 @@
-var mnemonic = "stock permit shrug inquiry armed width slush rally hollow play whip salute";
+var mnemonic = "silk prosper intact sentence indoor bone right enrich salt suffer lecture exist";

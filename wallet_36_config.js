@@ -1,1 +1,1 @@
-var mnemonic = "mesh alley possible nuclear season garment immune eight human bike list weather";
+var mnemonic = "arm lock will close scheme aunt job alter lens rude attack reform";

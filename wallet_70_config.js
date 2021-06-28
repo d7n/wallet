@@ -1,1 +1,1 @@
-var mnemonic = "organ wood dial gaze subject become busy fresh movie screen cave pink";
+var mnemonic = "lottery discover message pigeon design master dash best void sphere quality mass";

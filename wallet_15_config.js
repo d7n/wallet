@@ -1,1 +1,1 @@
-var mnemonic = "utility sun unaware dentist please about roof where resist normal wrap reason";
+var mnemonic = "across cereal conduct sleep elder edit together nerve cupboard hybrid gasp company";

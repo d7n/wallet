@@ -1,1 +1,1 @@
-var mnemonic = "damage material mouse scan cube stage uniform pass animal doctor blame card";
+var mnemonic = "rain struggle subject outdoor wash naive math victory gospel bracket rain vacuum";

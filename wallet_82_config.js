@@ -1,1 +1,1 @@
-var mnemonic = "excite ice wagon lab usual hammer wrong brand cabbage exhibit tape practice";
+var mnemonic = "sugar notable peasant lock fox select flag measure double best hollow portion";

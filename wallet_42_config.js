@@ -1,1 +1,1 @@
-var mnemonic = "orange female unique medal violin violin push master hammer drift shiver guitar";
+var mnemonic = "behind document merit ripple canoe flush during vague parent gap hold nation";

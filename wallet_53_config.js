@@ -1,1 +1,1 @@
-var mnemonic = "vapor combine people ignore profit among bread word alert hurry quick bridge";
+var mnemonic = "huge age find cactus squeeze tank present juice old divorce upper notice";

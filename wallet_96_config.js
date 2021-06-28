@@ -1,1 +1,1 @@
-var mnemonic = "danger gloom decrease option comic vault wait govern involve surprise cream rib";
+var mnemonic = "peasant decade cattle author stable scrap puzzle ancient van tilt labor chronic";

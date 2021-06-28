@@ -1,1 +1,1 @@
-var mnemonic = "rival worth model donate husband couch manual avoid wing naive enter gravity";
+var mnemonic = "shrug yellow bread trim above casual transfer cause lens leave lizard cabin";

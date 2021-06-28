@@ -1,1 +1,1 @@
-var mnemonic = "shrug seat elevator wait undo cruise demand donate vote obvious wrong crash";
+var mnemonic = "truth lumber knock tray harvest power diesel dose snow picnic chief about";

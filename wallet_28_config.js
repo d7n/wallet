@@ -1,1 +1,1 @@
-var mnemonic = "average year weekend review six youth together mixed robot achieve hill ski";
+var mnemonic = "manage fashion achieve faint hunt brief novel robot enter tooth control ask";

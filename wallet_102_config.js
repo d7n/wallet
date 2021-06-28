@@ -1,1 +1,1 @@
-var mnemonic = "moon spring harbor magic sand say town speak concert census differ agent";
+var mnemonic = "rice shoot kitchen edit swarm globe olive sunny ship ugly leader believe";

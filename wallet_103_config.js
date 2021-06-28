@@ -1,1 +1,1 @@
-var mnemonic = "acid vehicle access purpose addict cargo suffer provide thing style bone future";
+var mnemonic = "year habit nation allow gift warrior inner warrior marine acquire detail elegant";
