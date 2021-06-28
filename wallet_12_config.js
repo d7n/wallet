@@ -1,1 +1,1 @@
-var mnemonic = "anxiety before parrot enable dial sunny coach bar local mom protect dawn";
+var mnemonic = "cream dash require sadness defy truth spoil acid cereal write injury setup";

@@ -1,1 +1,1 @@
-var mnemonic = "acid vital smile bullet bounce mountain net seed perfect cupboard sunset pause";
+var mnemonic = "valley ask goat shock depend bring fall tape strong aunt critic demise";

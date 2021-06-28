@@ -1,1 +1,1 @@
-var mnemonic = "tooth embody car keep lizard mail display course great mad require into";
+var mnemonic = "route board screen unable warrior worry flame target plunge give timber ring";

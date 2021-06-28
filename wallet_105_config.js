@@ -1,1 +1,1 @@
-var mnemonic = "plate blush odor fine library blind pigeon ethics burden crime artwork coil";
+var mnemonic = "discover come song path isolate language grow giraffe sudden snow flush barrel";

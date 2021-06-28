@@ -1,1 +1,1 @@
-var mnemonic = "upon floor plug clump frown unusual hover rifle gospel recipe one merit";
+var mnemonic = "party young two miss write novel strong breeze topic clown aunt canvas";

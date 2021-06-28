@@ -1,1 +1,1 @@
-var mnemonic = "enforce man cattle chimney fatal bridge vague catch zero hockey swing pencil";
+var mnemonic = "sadness seat purpose memory hat cousin dry reflect scatter stuff wrist apart";

@@ -1,1 +1,1 @@
-var mnemonic = "ozone friend combine anxiety live gauge knee flight spice cart galaxy major";
+var mnemonic = "eagle alarm identify local cluster among flash polar renew bike vocal oak";

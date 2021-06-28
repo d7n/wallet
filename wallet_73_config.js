@@ -1,1 +1,1 @@
-var mnemonic = "decorate melt absent what drip hand theory stairs also idle calm tilt";
+var mnemonic = "noise unlock warrior sponsor artefact confirm exchange ship syrup reflect later plunge";

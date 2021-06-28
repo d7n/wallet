@@ -1,1 +1,1 @@
-var mnemonic = "debate voice menu fluid tooth tribe spring congress manage retreat tail market";
+var mnemonic = "fault spread annual mushroom medal chunk topic ripple midnight rose school soul";

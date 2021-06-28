@@ -1,1 +1,1 @@
-var mnemonic = "pave truly avocado dismiss number victory math gift join scrap tunnel ill";
+var mnemonic = "damage material mouse scan cube stage uniform pass animal doctor blame card";

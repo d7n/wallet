@@ -1,1 +1,1 @@
-var mnemonic = "armed safe dust view lizard gesture where salon clarify hen method lady";
+var mnemonic = "shrug seat elevator wait undo cruise demand donate vote obvious wrong crash";

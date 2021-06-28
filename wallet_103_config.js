@@ -1,1 +1,1 @@
-var mnemonic = "layer feature track kit gift avoid humble crucial above end input science";
+var mnemonic = "acid vehicle access purpose addict cargo suffer provide thing style bone future";

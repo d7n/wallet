@@ -1,1 +1,1 @@
-var mnemonic = "admit night cargo enforce video vocal warrior apple strike busy cheap nature";
+var mnemonic = "snake scissors turtle exist glass crouch horn elephant pattern cook example mail";

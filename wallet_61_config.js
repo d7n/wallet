@@ -1,1 +1,1 @@
-var mnemonic = "wealth float flock neither fold call mix pool seek eye correct relief";
+var mnemonic = "beyond warfare canal almost raven maximum auto slide turn rent fashion lady";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare yard mushroom reflect answer whisper select stuff repeat endorse share lift";
+var mnemonic = "worth inhale actual hen blouse penalty donor decrease cabbage hurt doll salt";

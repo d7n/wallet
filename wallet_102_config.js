@@ -1,1 +1,1 @@
-var mnemonic = "gown deliver raccoon wear special intact body cube expire salon endless balance";
+var mnemonic = "moon spring harbor magic sand say town speak concert census differ agent";

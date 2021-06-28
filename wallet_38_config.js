@@ -1,1 +1,1 @@
-var mnemonic = "virus acoustic slice client creek shove bulb curious problem silent moon fresh";
+var mnemonic = "hospital fancy seat steel mule south impose draft bitter voyage element wheel";

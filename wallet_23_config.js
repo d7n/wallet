@@ -1,1 +1,1 @@
-var mnemonic = "dilemma horn discover speed frequent task poem fog found pact food river";
+var mnemonic = "champion trial lonely annual reflect ripple leader say favorite enlist divorce vital";

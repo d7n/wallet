@@ -1,1 +1,1 @@
-var mnemonic = "sponsor tide sheriff empower place squirrel gospel proof black diesel fabric glance";
+var mnemonic = "access lava whip mask put monkey lion ship bid subject initial human";

@@ -1,1 +1,1 @@
-var mnemonic = "assist equip click flower lounge double traffic math document health gadget another";
+var mnemonic = "illegal dolphin recycle oyster tribe satisfy exclude worry betray result dream sting";

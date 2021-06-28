@@ -1,1 +1,1 @@
-var mnemonic = "when proof net yard excite angle blanket radar jelly dog recycle quote";
+var mnemonic = "burst divide replace assist mountain cross embody crime ginger diet blush now";

@@ -1,1 +1,1 @@
-var mnemonic = "nasty panel change seven chunk quality century wasp hollow betray ozone tank";
+var mnemonic = "chronic foil issue wave science cluster neglect spot weapon casual cave race";

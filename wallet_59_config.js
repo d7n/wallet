@@ -1,1 +1,1 @@
-var mnemonic = "scorpion error regret seat clock avoid involve impose victory level offer village";
+var mnemonic = "divorce online small question fox crack patient ceiling noble photo purity that";

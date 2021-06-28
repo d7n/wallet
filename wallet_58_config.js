@@ -1,1 +1,1 @@
-var mnemonic = "motor angle width question zero expand pelican girl blur gorilla marriage exhibit";
+var mnemonic = "crime pause pelican slab observe stuff tail high early crime crucial game";

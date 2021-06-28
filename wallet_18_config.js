@@ -1,1 +1,1 @@
-var mnemonic = "gallery inject train critic possible aspect fiction forum world tell neck fault";
+var mnemonic = "fiction phone manage kiwi fashion race usual crew goose rhythm fence cabbage";

@@ -1,1 +1,1 @@
-var mnemonic = "someone airport upon tag system ceiling kitchen grunt achieve learn welcome tape";
+var mnemonic = "thank total business drop buzz volume yellow vote clever kid lyrics pumpkin";

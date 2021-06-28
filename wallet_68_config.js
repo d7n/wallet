@@ -1,1 +1,1 @@
-var mnemonic = "feature owner level choice lawsuit now enlist earn often strike above slab";
+var mnemonic = "category hidden forward skin pride twist twelve stairs innocent alter kitchen surprise";

@@ -1,1 +1,1 @@
-var mnemonic = "label girl ill wheat hollow pink warfare crystal foil brother aware gym";
+var mnemonic = "vendor ladder exhibit melody dilemma arrange essay detail shine rich cover average";

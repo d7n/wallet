@@ -1,1 +1,1 @@
-var mnemonic = "kitten syrup unfold material outside seat raw sibling include vault belt fiber";
+var mnemonic = "chimney way head pitch sorry imitate spatial tube mango mother sell smile";

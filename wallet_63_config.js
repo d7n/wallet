@@ -1,1 +1,1 @@
-var mnemonic = "coast van zebra open promote spirit habit fix vehicle pumpkin nice loop";
+var mnemonic = "add present share cost stool jelly eagle rotate palm raw major impact";

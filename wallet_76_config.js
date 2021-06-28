@@ -1,1 +1,1 @@
-var mnemonic = "baby equip music outside jazz upgrade deputy magic deer wish version copper";
+var mnemonic = "diesel else odor place hill ecology glide edge useless couch eager bus";

@@ -1,1 +1,1 @@
-var mnemonic = "heavy poverty begin minimum snow fix judge job kangaroo across lunch worry";
+var mnemonic = "tool hold first blossom year lesson luggage put stuff situate wealth street";

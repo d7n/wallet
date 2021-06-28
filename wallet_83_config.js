@@ -1,1 +1,1 @@
-var mnemonic = "guard volcano spirit fall ladder legal flat salt march bridge near dutch";
+var mnemonic = "mimic runway oval foam muffin arrow hobby youth group craft flower cricket";

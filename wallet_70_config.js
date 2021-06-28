@@ -1,1 +1,1 @@
-var mnemonic = "detect tell merry include matrix cost drip liberty kiwi kingdom elephant select";
+var mnemonic = "organ wood dial gaze subject become busy fresh movie screen cave pink";

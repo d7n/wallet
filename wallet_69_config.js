@@ -1,1 +1,1 @@
-var mnemonic = "visa vault economy toddler talent rib soldier search essay illness velvet trap";
+var mnemonic = "impose spin surprise rely pluck thing inherit taste fit hidden letter kingdom";

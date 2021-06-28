@@ -1,1 +1,1 @@
-var mnemonic = "maid genuine erase common wrong twin entire lottery harbor race mechanic gravity";
+var mnemonic = "train head sunny detect resist struggle quick trash drip scheme enjoy syrup";

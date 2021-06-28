@@ -1,1 +1,1 @@
-var mnemonic = "stamp surround arctic moral cruel field evolve become drastic roof merry arch";
+var mnemonic = "leader fall comfort fork penalty fox dad snake narrow march order wise";

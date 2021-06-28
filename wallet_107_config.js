@@ -1,1 +1,1 @@
-var mnemonic = "multiply annual bronze adjust option sleep frequent unhappy lemon cook blouse coyote";
+var mnemonic = "empty fuel swing victory outdoor inherit romance scale tray oven estate decorate";

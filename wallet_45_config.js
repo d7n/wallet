@@ -1,1 +1,1 @@
-var mnemonic = "mention margin enact purse wife chest win grant cash rebuild alien visit";
+var mnemonic = "eye always capable end swear glad opera used shrimp river gaze mercy";

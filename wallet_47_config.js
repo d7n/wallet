@@ -1,1 +1,1 @@
-var mnemonic = "alert verb yellow nut announce fence discover minimum table divide seven wing";
+var mnemonic = "demise stadium increase raccoon security notable myth velvet game satoshi excess sword";

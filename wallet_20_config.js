@@ -1,1 +1,1 @@
-var mnemonic = "evolve wall april disorder pair leg amused aspect solve ketchup rent final";
+var mnemonic = "crouch scan gentle choose crunch vibrant there since metal curious marine earn";

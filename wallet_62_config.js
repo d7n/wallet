@@ -1,1 +1,1 @@
-var mnemonic = "kitten verb absurd setup retreat mouse spawn joke symptom heart loan abstract";
+var mnemonic = "stock permit shrug inquiry armed width slush rally hollow play whip salute";

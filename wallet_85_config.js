@@ -1,1 +1,1 @@
-var mnemonic = "tower birth crater equip carpet labor cost hungry process civil maple wet";
+var mnemonic = "napkin deputy snow crime fiction swap betray clown shift employ rescue jewel";

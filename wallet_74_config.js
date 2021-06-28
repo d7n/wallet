@@ -1,1 +1,1 @@
-var mnemonic = "dust ability object later vacant kangaroo unique garlic ten fabric buyer valid";
+var mnemonic = "physical refuse inspire truth empower shoulder jelly saddle must rural gain couch";

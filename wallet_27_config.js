@@ -1,1 +1,1 @@
-var mnemonic = "orchard casino insect stomach butter supreme bottom future piece tent remain frog";
+var mnemonic = "plunge shoot enrich rather trade oval cement assume dawn energy culture aisle";

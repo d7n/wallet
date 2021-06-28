@@ -1,1 +1,1 @@
-var mnemonic = "crawl talent web enjoy output awful soul define sponsor access defy emerge";
+var mnemonic = "can rail frog coconut alarm humble radio virus hurt tone height mother";

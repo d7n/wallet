@@ -1,1 +1,1 @@
-var mnemonic = "dinner license perfect cart crack clump real snake wage fatigue slot access";
+var mnemonic = "burst void base project fancy put twenty together antenna buyer loud jar";

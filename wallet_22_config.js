@@ -1,1 +1,1 @@
-var mnemonic = "exotic arena vibrant settle orange list remind moon host ill curtain chef";
+var mnemonic = "claim proof shoe jazz crucial smooth cruel behave slow nice cereal general";

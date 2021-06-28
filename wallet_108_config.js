@@ -1,1 +1,1 @@
-var mnemonic = "mushroom frown slow cherry scan extra april sausage injury quit panel glory";
+var mnemonic = "lizard valid menu cliff ugly flower skull drip denial priority way maze";

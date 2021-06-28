@@ -1,1 +1,1 @@
-var mnemonic = "wood ramp sound old help diagram indoor plastic city reject pill coast";
+var mnemonic = "parrot aunt dinosaur insect appear huge craft office cabbage slide gorilla electric";

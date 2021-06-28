@@ -1,1 +1,1 @@
-var mnemonic = "merry depend rigid release cancel ginger divide endorse pigeon glimpse bike fluid";
+var mnemonic = "happy feel kind pony usual great rare master list dilemma school mercy";

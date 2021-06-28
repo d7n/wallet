@@ -1,1 +1,1 @@
-var mnemonic = "cage bottom trim skill habit hood grow tourist flash repair churn arena";
+var mnemonic = "neutral struggle library team already two duck machine pluck wink erode truly";

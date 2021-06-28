@@ -1,1 +1,1 @@
-var mnemonic = "add false concert today curve cigar verify daring shift riot pepper wrong";
+var mnemonic = "forget input concert evolve baby clutch mountain chapter rail celery smile gasp";

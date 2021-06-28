@@ -1,1 +1,1 @@
-var mnemonic = "public cover lonely club film accuse later glance ugly hawk bridge maze";
+var mnemonic = "flip usual goose amazing call vehicle great oxygen focus super guilt corn";

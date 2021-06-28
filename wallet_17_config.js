@@ -1,1 +1,1 @@
-var mnemonic = "faculty knife guide dress ahead forget dumb all ski legend above leisure";
+var mnemonic = "device patch delay danger mouse toilet second yellow middle pattern fluid pipe";

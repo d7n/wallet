@@ -1,1 +1,1 @@
-var mnemonic = "curve always vehicle oblige meat submit vast leaf profit heavy record tower";
+var mnemonic = "drill staff alpha myth check fly submit planet supreme analyst soda joke";

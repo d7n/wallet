@@ -1,1 +1,1 @@
-var mnemonic = "thumb suspect hockey mimic switch office lounge soldier spread present topic solar";
+var mnemonic = "genius tower sorry fitness gain run rely guide reject violin left motor";

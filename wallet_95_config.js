@@ -1,1 +1,1 @@
-var mnemonic = "tongue rebuild spoon swear silly grape behind brave spare myself stumble gift";
+var mnemonic = "crowd okay decade bacon advice farm lecture bonus muscle bean excess aim";

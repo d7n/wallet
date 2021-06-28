@@ -1,1 +1,1 @@
-var mnemonic = "toss record gentle north afford crazy gym pencil increase chat impose hole";
+var mnemonic = "danger gloom decrease option comic vault wait govern involve surprise cream rib";

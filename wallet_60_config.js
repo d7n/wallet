@@ -1,1 +1,1 @@
-var mnemonic = "lady warm enter sunset garbage option label shop art affair erode accuse";
+var mnemonic = "peanut taxi ugly harvest loyal timber code annual neck account lock defy";

@@ -1,1 +1,1 @@
-var mnemonic = "public measure sort enough dream minute utility lazy police else blossom later";
+var mnemonic = "orange female unique medal violin violin push master hammer drift shiver guitar";

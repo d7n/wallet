@@ -1,1 +1,1 @@
-var mnemonic = "rose inspire helmet claim vast victory daring celery strike relax champion opera";
+var mnemonic = "segment eternal tip link brief end absurd buzz test proof author law";

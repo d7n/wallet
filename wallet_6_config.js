@@ -1,1 +1,1 @@
-var mnemonic = "rocket blade token bring display jelly rapid supply grace mistake alarm devote";
+var mnemonic = "valid repair wild flame foam cushion rebuild vibrant disorder zone magic during";

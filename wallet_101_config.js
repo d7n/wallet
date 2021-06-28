@@ -1,1 +1,1 @@
-var mnemonic = "voyage turkey virus fever donkey daughter can keen execute you buddy drop";
+var mnemonic = "time eye essay market drama describe robot amateur dry reopen track rug";

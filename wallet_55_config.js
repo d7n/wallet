@@ -1,1 +1,1 @@
-var mnemonic = "pepper bird make pact surge blast load joy you crane shadow proud";
+var mnemonic = "almost phone fold slow ketchup toast virus host october invite can three";

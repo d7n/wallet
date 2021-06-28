@@ -1,1 +1,1 @@
-var mnemonic = "vibrant will crash muscle exit ski legend plug beach manual barely question";
+var mnemonic = "mouse fresh link twice pole mind say actual acid steel doll two";

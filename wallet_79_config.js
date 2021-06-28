@@ -1,1 +1,1 @@
-var mnemonic = "indoor orient bronze defy march destroy stomach salad actual hero coral glass";
+var mnemonic = "sword rely gesture enter carbon tail lumber kit above hour junk suggest";

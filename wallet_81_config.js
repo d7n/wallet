@@ -1,1 +1,1 @@
-var mnemonic = "mechanic equip salt include approve memory daughter pledge ocean around isolate mom";
+var mnemonic = "riot pear scale potato raise unique birth city federal magic stick genre";

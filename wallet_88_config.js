@@ -1,1 +1,1 @@
-var mnemonic = "chaos net walnut then weekend large share chair patient drive damage vendor";
+var mnemonic = "sting eager obey mutual true thought cream banana allow barrel excess crazy";

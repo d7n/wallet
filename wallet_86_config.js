@@ -1,1 +1,1 @@
-var mnemonic = "flush glue barely sound toe reform plate pudding rifle evoke march civil";
+var mnemonic = "trigger brush unveil follow envelope gas return virtual drama fit tornado legend";

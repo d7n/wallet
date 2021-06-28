@@ -1,1 +1,1 @@
-var mnemonic = "behave crazy kitten hill wrong put muffin head stumble pill deputy blind";
+var mnemonic = "reward liar dynamic vote journey office nuclear perfect pyramid forward wolf curtain";

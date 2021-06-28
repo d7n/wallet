@@ -1,1 +1,1 @@
-var mnemonic = "scrub curve fresh speed country world pudding adjust journey banana debris ill";
+var mnemonic = "gown actual oven purse crumble analyst abstract smooth say tide exit together";

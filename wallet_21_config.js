@@ -1,1 +1,1 @@
-var mnemonic = "smoke upper charge test crater hurt sea demand cable online model step";
+var mnemonic = "text control enlist prefer fix scheme radio oyster crowd action budget grid";

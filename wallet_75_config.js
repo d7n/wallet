@@ -1,1 +1,1 @@
-var mnemonic = "swear runway pencil pizza dust tomorrow setup layer rice floor great hour";
+var mnemonic = "remain disagree unable learn limb hundred season guide space act orchard disease";

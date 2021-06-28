@@ -1,1 +1,1 @@
-var mnemonic = "wear fence shine rude photo only good abuse noodle side wing canal";
+var mnemonic = "siren glide image scare slim twenty picnic diary accuse fence liquid void";

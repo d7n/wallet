@@ -1,1 +1,1 @@
-var mnemonic = "cross drink soda ripple suggest clip sight cruel manage afraid enrich gas";
+var mnemonic = "diamond barrel aisle artwork hobby save among wear fantasy pride sure twelve";

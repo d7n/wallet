@@ -1,1 +1,1 @@
-var mnemonic = "wait decline scorpion banana frozen coil festival hobby trigger shy soup ensure";
+var mnemonic = "bind expire absent attract trick pool pudding space execute shock cloth roof";

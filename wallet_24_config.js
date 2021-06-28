@@ -1,1 +1,1 @@
-var mnemonic = "inquiry soon lab grace breeze journey suffer interest gentle reflect spice pledge";
+var mnemonic = "illegal machine pizza student topple tragic similar arctic purity provide deer flash";

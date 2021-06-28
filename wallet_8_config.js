@@ -1,1 +1,1 @@
-var mnemonic = "panda hospital siege receive interest main liar baby toe jungle among vital";
+var mnemonic = "wedding venture clock extend arm practice clump sample buffalo clay maple phrase";

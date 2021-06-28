@@ -1,1 +1,1 @@
-var mnemonic = "sock tragic seat switch entire build vapor urge dog undo glance similar";
+var mnemonic = "goddess together bar denial science where long awesome opera brisk uphold parent";

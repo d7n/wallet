@@ -1,1 +1,1 @@
-var mnemonic = "awkward pact harsh motion lunch royal dawn pole vault rubber violin away";
+var mnemonic = "mesh alley possible nuclear season garment immune eight human bike list weather";

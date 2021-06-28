@@ -1,1 +1,1 @@
-var mnemonic = "upset double banner response festival reunion wrong jaguar major duck tiger maximum";
+var mnemonic = "outer close gorilla clarify trash harsh skate affair picnic dilemma reform actress";

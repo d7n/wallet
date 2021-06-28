@@ -1,1 +1,1 @@
-var mnemonic = "sign rookie digital hamster pretty judge ask kitten alone spare gravity glad";
+var mnemonic = "excite ice wagon lab usual hammer wrong brand cabbage exhibit tape practice";

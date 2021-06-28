@@ -1,1 +1,1 @@
-var mnemonic = "venture fiscal sniff affair jar ceiling spread mind fiber hockey random sun";
+var mnemonic = "vapor combine people ignore profit among bread word alert hurry quick bridge";

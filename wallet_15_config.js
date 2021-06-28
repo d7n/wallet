@@ -1,1 +1,1 @@
-var mnemonic = "atom method reflect call tired bus piece asthma collect strategy save novel";
+var mnemonic = "utility sun unaware dentist please about roof where resist normal wrap reason";

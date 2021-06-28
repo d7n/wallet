@@ -1,1 +1,1 @@
-var mnemonic = "subject spawn emerge cup switch solid move harvest bar find embark meat";
+var mnemonic = "rival worth model donate husband couch manual avoid wing naive enter gravity";

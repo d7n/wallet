@@ -1,1 +1,1 @@
-var mnemonic = "link hover wrap tell west winner squirrel want vault screen merge step";
+var mnemonic = "squirrel video suit step common media address remind before vessel bachelor stand";

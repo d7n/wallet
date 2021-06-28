@@ -1,1 +1,1 @@
-var mnemonic = "fish parade clap dynamic blast wagon joke cart garment match very soccer";
+var mnemonic = "tribe icon duck answer giggle soccer piano velvet suggest exact awful fit";

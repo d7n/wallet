@@ -1,1 +1,1 @@
-var mnemonic = "achieve master win name awkward twenty usual seat exile ramp tray brisk";
+var mnemonic = "culture unit task reflect amateur embrace cycle drastic ugly gauge state cruise";

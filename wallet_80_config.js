@@ -1,1 +1,1 @@
-var mnemonic = "surface double hero slam method alert turtle wish humble gallery fog doll";
+var mnemonic = "vessel nice taste excess allow bamboo shy spell coffee decorate sound slogan";

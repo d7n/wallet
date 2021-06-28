@@ -1,1 +1,1 @@
-var mnemonic = "field elevator practice robust robot key olive basic judge twenty strike ranch";
+var mnemonic = "auto arena silly already link boat grace miss annual easy evidence panther";

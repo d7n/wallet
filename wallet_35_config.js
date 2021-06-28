@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin pony cause time public choose quote affair session write middle local";
+var mnemonic = "normal you treat void sorry render voyage screen reveal involve famous hundred";

@@ -1,1 +1,1 @@
-var mnemonic = "lady sheriff onion empty ethics cart luggage typical six crouch wear lunch";
+var mnemonic = "border admit typical museum pond super nuclear tank scatter isolate guide add";

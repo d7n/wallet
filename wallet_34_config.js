@@ -1,1 +1,1 @@
-var mnemonic = "move brother opinion banana escape shiver arrow orphan squeeze rack jump north";
+var mnemonic = "vicious weapon sick design assume help penalty iron baby bread joy major";
