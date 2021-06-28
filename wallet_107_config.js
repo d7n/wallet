@@ -1,1 +1,1 @@
-var mnemonic = "trial castle inherit wine roast beyond friend what spoon enforce step sound";
+var mnemonic = "vital best good invite basic mandate usual speak copper raw review reunion";

@@ -1,1 +1,1 @@
-var mnemonic = "tip decrease current smart provide shop coral mutual baby senior caution check";
+var mnemonic = "link board client artist valve street dynamic stick salmon torch smart choice";

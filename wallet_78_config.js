@@ -1,1 +1,1 @@
-var mnemonic = "west submit bonus average prosper boost sock only wonder couple unusual damp";
+var mnemonic = "pattern harvest antique install negative wisdom venue text fog disease neither moon";

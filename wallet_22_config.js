@@ -1,1 +1,1 @@
-var mnemonic = "busy sad brush palace session guard pulse purse finish sport neutral napkin";
+var mnemonic = "sniff drama remain hand hollow young want denial universe roof path galaxy";

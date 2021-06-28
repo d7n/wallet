@@ -1,1 +1,1 @@
-var mnemonic = "crater toddler end mixture head jelly knee wave mix cluster buyer copy";
+var mnemonic = "absent globe aware beyond bus make embark future luggage sock soda biology";

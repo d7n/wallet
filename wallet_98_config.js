@@ -1,1 +1,1 @@
-var mnemonic = "lava strong always logic adapt field warfare client spike stone purity hat";
+var mnemonic = "light across mix flight mad chief define check recall boil bus execute";

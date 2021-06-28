@@ -1,1 +1,1 @@
-var mnemonic = "unfair entry hidden fruit post urge lake social rather decorate nurse just";
+var mnemonic = "ketchup phrase east wasp rigid mandate vague attend lizard enrich select advance";

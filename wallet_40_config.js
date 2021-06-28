@@ -1,1 +1,1 @@
-var mnemonic = "boost economy winter ginger jeans autumn express myth next chest undo next";
+var mnemonic = "crowd buyer harbor say lonely embark marriage seminar deal pudding april team";

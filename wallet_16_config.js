@@ -1,1 +1,1 @@
-var mnemonic = "real bulk short draft anxiety fashion actress will safe correct december figure";
+var mnemonic = "shrimp turtle endorse leopard possible clump awake melt frame flock deal survey";

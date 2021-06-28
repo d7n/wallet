@@ -1,1 +1,1 @@
-var mnemonic = "plastic treat success crush secret license share slight coffee equip march rival";
+var mnemonic = "invite shuffle version pass snow uncle obvious tissue laptop quiz mixture devote";

@@ -1,1 +1,1 @@
-var mnemonic = "grace rebel bone black soft card crisp similar ketchup mobile moment umbrella";
+var mnemonic = "art october element uphold cake common special category old silk nest height";

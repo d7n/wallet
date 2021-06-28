@@ -1,1 +1,1 @@
-var mnemonic = "attack image shadow leave salute era party alert coil hammer permit crane";
+var mnemonic = "youth ten jump neglect kingdom stone bacon father assume soon energy average";

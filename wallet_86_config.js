@@ -1,1 +1,1 @@
-var mnemonic = "zone hundred mistake lobster scrub dynamic switch ask sorry edit fetch theme";
+var mnemonic = "scout stadium away save ozone endless sister goddess stairs viable penalty pool";

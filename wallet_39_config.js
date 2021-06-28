@@ -1,1 +1,1 @@
-var mnemonic = "keep noise wear hood one destroy type slow put wisdom knife danger";
+var mnemonic = "fun country combine just satisfy rhythm embrace cup way violin regular edit";

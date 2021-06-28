@@ -1,1 +1,1 @@
-var mnemonic = "spike trust admit organ trophy exercise wild negative giant lonely camp milk";
+var mnemonic = "ranch cement simple earth forward alone possible magnet disease blind nurse addict";

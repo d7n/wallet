@@ -1,1 +1,1 @@
-var mnemonic = "decorate pulp renew clap chronic shadow prison forest depend blue ocean grit";
+var mnemonic = "time tenant slot reopen girl proof gym rapid mobile sea hundred farm";

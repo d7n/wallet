@@ -1,1 +1,1 @@
-var mnemonic = "shop elbow canyon wire spoon bench buddy escape muffin story business wife";
+var mnemonic = "false diary school family sea misery kiss faculty father confirm salad step";

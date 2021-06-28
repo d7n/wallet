@@ -1,1 +1,1 @@
-var mnemonic = "recall vintage erase oblige traffic clown window prepare letter promote trip knee";
+var mnemonic = "phrase denial grief bachelor head please oval marriage analyst vessel staff cricket";

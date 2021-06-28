@@ -1,1 +1,1 @@
-var mnemonic = "decade chuckle print employ rocket umbrella entry act ride split win tiny";
+var mnemonic = "rain blame bench sphere time cheese sentence access zero side van chase";

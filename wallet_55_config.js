@@ -1,1 +1,1 @@
-var mnemonic = "magic rotate rigid win giggle soap play interest brave horse perfect camp";
+var mnemonic = "advice artwork aim actor pyramid canyon bunker chair odor awkward train prize";

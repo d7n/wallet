@@ -1,1 +1,1 @@
-var mnemonic = "danger alpha enforce clinic strategy phone enforce bamboo stick manage box quiz";
+var mnemonic = "quiz movie grant hawk outdoor demise youth human about try river produce";

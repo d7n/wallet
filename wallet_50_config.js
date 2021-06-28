@@ -1,1 +1,1 @@
-var mnemonic = "same bean escape boss dawn laptop author start detail monkey fancy lady";
+var mnemonic = "divorce basket sell slight heart cluster bomb lawsuit panic pluck biology honey";

@@ -1,1 +1,1 @@
-var mnemonic = "camera mercy summer slab nasty dilemma sphere motion bean beach siren until";
+var mnemonic = "order moment behave seminar card bubble mimic fruit cover shiver gather wild";

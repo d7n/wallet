@@ -1,1 +1,1 @@
-var mnemonic = "sense demand enact off huge argue crumble gaze learn humble common distance";
+var mnemonic = "grab birth topple suggest scare subway rule purse auction glance clinic fashion";

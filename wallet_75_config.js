@@ -1,1 +1,1 @@
-var mnemonic = "fiber goose ahead urge permit sell flush envelope cruel bone fog alien";
+var mnemonic = "deposit forget settle now grid when hand gas flower remind make motor";

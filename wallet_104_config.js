@@ -1,1 +1,1 @@
-var mnemonic = "wool search number swift fog cloth year insane seat control merit august";
+var mnemonic = "exclude chalk liquid hip sheriff silk wink mule enable ecology help edit";

@@ -1,1 +1,1 @@
-var mnemonic = "stumble charge jump weird mutual brother goose churn exchange inject bundle crouch";
+var mnemonic = "myself hybrid genuine alpha stage muscle pyramid ride birth tissue reform sausage";

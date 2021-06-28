@@ -1,1 +1,1 @@
-var mnemonic = "ring blush dice approve silent flee repair glare tip lottery flight visual";
+var mnemonic = "borrow hollow dirt crumble canvas deputy knife arena bomb glad dinosaur upgrade";

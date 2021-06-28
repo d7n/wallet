@@ -1,1 +1,1 @@
-var mnemonic = "will deposit crumble length win artwork turn kick acid outside atom royal";
+var mnemonic = "neck fire task trigger salmon antenna have about sound fun shallow recycle";

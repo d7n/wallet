@@ -1,1 +1,1 @@
-var mnemonic = "save air weekend innocent dad cake welcome skin milk goat goddess jaguar";
+var mnemonic = "hospital dragon destroy message talent source eager large success history evidence mechanic";

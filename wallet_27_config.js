@@ -1,1 +1,1 @@
-var mnemonic = "caution light owner about labor owner snow choose give identify notable small";
+var mnemonic = "enemy blue fancy trap into avocado fall rose risk bright siren mixture";

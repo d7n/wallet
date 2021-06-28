@@ -1,1 +1,1 @@
-var mnemonic = "birth pen inhale junior alley tip empty grid black armed trouble area";
+var mnemonic = "pottery vital faint adjust range sunset permit impact hollow crawl enroll trophy";

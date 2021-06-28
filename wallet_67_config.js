@@ -1,1 +1,1 @@
-var mnemonic = "relax trade tuition review dismiss sketch hand hunt apology room cube furnace";
+var mnemonic = "shadow general mountain off gesture stool woman knee stomach mansion latin fluid";

@@ -1,1 +1,1 @@
-var mnemonic = "tortoise ranch icon cinnamon fantasy buzz drastic picture liar scrub horse wheat";
+var mnemonic = "upset balance fruit ugly net cargo inhale trust rule version quarter cabbage";

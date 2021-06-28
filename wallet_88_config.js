@@ -1,1 +1,1 @@
-var mnemonic = "happy bulb wood mask cinnamon hard giraffe metal garage apart ranch shrug";
+var mnemonic = "column pizza iron hidden pigeon state coconut barely uphold december cave rescue";

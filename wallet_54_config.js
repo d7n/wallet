@@ -1,1 +1,1 @@
-var mnemonic = "violin oxygen roof secret bomb solution stereo jazz wage monitor annual artwork";
+var mnemonic = "dune record carpet category badge spice audit near subject lemon outer unaware";

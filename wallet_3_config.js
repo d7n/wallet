@@ -1,1 +1,1 @@
-var mnemonic = "hazard pigeon sail tiger time mother man guitar crumble crunch forest shed";
+var mnemonic = "online outer frozen find arrow off vault bomb cereal alley pipe tide";

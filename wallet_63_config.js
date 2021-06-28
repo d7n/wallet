@@ -1,1 +1,1 @@
-var mnemonic = "talent father glove acquire stove noodle omit valid dice almost alter horse";
+var mnemonic = "quality credit artefact mad vehicle express federal fog child wave guard exhaust";

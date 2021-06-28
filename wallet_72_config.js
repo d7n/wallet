@@ -1,1 +1,1 @@
-var mnemonic = "corn marble enough slice shrimp ranch latin hurry predict convince vacant aspect";
+var mnemonic = "awful miracle style ring economy want knife any brown judge price violin";

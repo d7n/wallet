@@ -1,1 +1,1 @@
-var mnemonic = "mouse speed chair find enact extra license verb plug autumn will fancy";
+var mnemonic = "dice way off jungle hope regret box super glory shrimp crop grit";

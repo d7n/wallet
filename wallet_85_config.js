@@ -1,1 +1,1 @@
-var mnemonic = "purse hybrid title found problem explain shift vicious tonight equal maze bridge";
+var mnemonic = "about street can thing exotic lesson burden mercy estate unfold horn spin";

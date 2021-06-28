@@ -1,1 +1,1 @@
-var mnemonic = "wall early ripple lawn observe error witness begin market burden buddy cheap";
+var mnemonic = "shiver sample fury volcano witness move motor imitate cereal brother grocery reveal";

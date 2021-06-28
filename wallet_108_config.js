@@ -1,1 +1,1 @@
-var mnemonic = "size good inspire ramp forum large duck happy attitude fever option symbol";
+var mnemonic = "spend patrol change stadium trophy they occur wild toddler intact stone air";

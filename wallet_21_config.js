@@ -1,1 +1,1 @@
-var mnemonic = "private slot control seek region fashion gadget absent soft winter liar check";
+var mnemonic = "logic turkey strike journey type perfect mass regret convince cross cluster carbon";

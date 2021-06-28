@@ -1,1 +1,1 @@
-var mnemonic = "uniform liar confirm abandon rifle jealous oven rose lesson harsh grocery humble";
+var mnemonic = "ready tissue enforce shove rain balance cushion rely cute satoshi baby tape";

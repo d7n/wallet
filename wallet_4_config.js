@@ -1,1 +1,1 @@
-var mnemonic = "either drum enable shed lens eternal rude approve wash portion sand climb";
+var mnemonic = "toward arena proud shop essence among category second huge insane thought caution";

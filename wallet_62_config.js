@@ -1,1 +1,1 @@
-var mnemonic = "nut kangaroo joy occur music horse visit word twist ginger news asset";
+var mnemonic = "trophy clock brass nature connect square slush fetch bargain sun decline gospel";

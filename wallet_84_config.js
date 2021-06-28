@@ -1,1 +1,1 @@
-var mnemonic = "worry food sand angle moon dream noise scheme raise guitar head concert";
+var mnemonic = "leaf harvest bottom kick license tone unknown dizzy warm hollow movie away";

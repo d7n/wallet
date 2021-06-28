@@ -1,1 +1,1 @@
-var mnemonic = "search early pilot swing nothing long island unusual void fog arctic village";
+var mnemonic = "myself nest craft uniform twin mesh erode shy dash cricket title impose";

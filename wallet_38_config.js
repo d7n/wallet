@@ -1,1 +1,1 @@
-var mnemonic = "blind arrive pigeon hope saddle drip panther cluster book add exchange amount";
+var mnemonic = "slot silver area photo bounce turtle dilemma unlock grow expand public stage";

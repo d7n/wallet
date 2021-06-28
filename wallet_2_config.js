@@ -1,1 +1,1 @@
-var mnemonic = "rapid guitar combine person diamond antique employ humble enact attract lunch minor";
+var mnemonic = "oxygen ghost then crane morning secret sea author modify robust scheme come";

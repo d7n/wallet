@@ -1,1 +1,1 @@
-var mnemonic = "slide invite advance amateur world prefer goat false market surge supreme someone";
+var mnemonic = "outside cruise sword clinic insect super scale rapid object gun sister hammer";

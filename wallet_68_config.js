@@ -1,1 +1,1 @@
-var mnemonic = "wrestle pitch tumble february cricket figure ridge cradle category obscure coast secret";
+var mnemonic = "script swarm trigger gasp bulk ocean bubble misery duck garbage boring night";

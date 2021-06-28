@@ -1,1 +1,1 @@
-var mnemonic = "room birth surround scissors robust total impact tower slogan normal mutual assist";
+var mnemonic = "mutual radio leg brand useful zero erode dutch loan battle pause magic";

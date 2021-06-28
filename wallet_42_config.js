@@ -1,1 +1,1 @@
-var mnemonic = "museum law orchard affair rigid story screen sense useful thunder employ green";
+var mnemonic = "athlete pig token damp orphan enrich today potato wasp draft fitness south";

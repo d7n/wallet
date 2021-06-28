@@ -1,1 +1,1 @@
-var mnemonic = "culture turn present stereo coral saddle scrub system giggle number mask mango";
+var mnemonic = "meat fan umbrella eyebrow layer input share chair you barely away pride";

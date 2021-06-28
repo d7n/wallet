@@ -1,1 +1,1 @@
-var mnemonic = "valid loan gossip kiss sound argue armed trick surface fit draw pause";
+var mnemonic = "response silver weekend idea pilot mom erode poem profit infant fence salt";

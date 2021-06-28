@@ -1,1 +1,1 @@
-var mnemonic = "great spatial captain choose fever lake laugh toe match pave baby hill";
+var mnemonic = "eight mother enable dream wear divorce observe leopard acid oval gadget unusual";

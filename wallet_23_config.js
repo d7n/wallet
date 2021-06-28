@@ -1,1 +1,1 @@
-var mnemonic = "truly chronic timber resource mind tobacco exact lazy alpha calm thought ski";
+var mnemonic = "cup horn palace orange zero month slow bunker fan avocado acquire rude";

@@ -1,1 +1,1 @@
-var mnemonic = "truly fame dumb zero kiss pact angle type already cash yard pelican";
+var mnemonic = "media dad sand reform random stove boy sort wild school relief project";

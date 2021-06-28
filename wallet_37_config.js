@@ -1,1 +1,1 @@
-var mnemonic = "scissors over hood absorb humble unfold barrel pony security entry library famous";
+var mnemonic = "task pudding zebra zone leg dove destroy aware cook marine left maze";

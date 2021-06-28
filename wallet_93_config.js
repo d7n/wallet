@@ -1,1 +1,1 @@
-var mnemonic = "claim person antique dynamic project summer elder habit crouch fossil faculty stadium";
+var mnemonic = "crazy example pigeon miracle flush drum pink enhance often depart trial cigar";

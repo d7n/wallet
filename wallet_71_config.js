@@ -1,1 +1,1 @@
-var mnemonic = "draw drift discover knee piano pitch cliff flash people sauce gravity credit";
+var mnemonic = "timber attend submit holiday annual aisle amused winner awkward poem elegant mixture";

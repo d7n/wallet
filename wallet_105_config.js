@@ -1,1 +1,1 @@
-var mnemonic = "glory yard shy gentle space rack situate thrive churn add member ride";
+var mnemonic = "crane warm canyon fever two cancel speed same enemy cool eye floor";

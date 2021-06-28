@@ -1,1 +1,1 @@
-var mnemonic = "industry route resemble render replace alert road clown aware fox chronic poem";
+var mnemonic = "raise throw fluid garlic drive draw window fine unlock know hat coffee";

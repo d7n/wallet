@@ -1,1 +1,1 @@
-var mnemonic = "alter never awesome remain mercy spatial custom champion capable east meadow sad";
+var mnemonic = "north choose shoulder slush toy ladder worry viable century happy that bubble";

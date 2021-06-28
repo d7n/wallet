@@ -1,1 +1,1 @@
-var mnemonic = "sail spring public parent paper hidden daring relief depart prevent accuse erupt";
+var mnemonic = "health target arctic roast price suggest patrol turtle come expose husband album";

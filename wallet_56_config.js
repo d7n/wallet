@@ -1,1 +1,1 @@
-var mnemonic = "solid frequent valley cry resemble marble strategy country smooth employ bicycle cherry";
+var mnemonic = "keen syrup laugh elite special top tongue alert album omit ignore broom";

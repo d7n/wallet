@@ -1,1 +1,1 @@
-var mnemonic = "ancient couple slab salad draft banner chef reunion earn share fluid palm";
+var mnemonic = "dwarf patient relief tone thank enforce sphere junior hood energy nut distance";

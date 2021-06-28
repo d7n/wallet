@@ -1,1 +1,1 @@
-var mnemonic = "sight chair diary panda myself dream enable cousin lava curtain armor grape";
+var mnemonic = "strike detect wear clean immune amazing consider olive assume lumber long cricket";

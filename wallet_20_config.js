@@ -1,1 +1,1 @@
-var mnemonic = "clinic idle hobby pepper achieve borrow weird diet height sketch medal evidence";
+var mnemonic = "kangaroo base wife mystery kit two scare better weekend lesson cradle ribbon";

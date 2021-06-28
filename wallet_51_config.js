@@ -1,1 +1,1 @@
-var mnemonic = "march portion gesture deposit height minor salad before satoshi fatal health stomach";
+var mnemonic = "soda zebra cattle accuse exact seat text horror success danger genius honey";

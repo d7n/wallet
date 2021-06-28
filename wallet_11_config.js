@@ -1,1 +1,1 @@
-var mnemonic = "phone resist hello lesson chief rice employ floor pet club submit lazy";
+var mnemonic = "ski police cave issue only online flip outer enemy kiss diagram dream";

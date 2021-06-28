@@ -1,1 +1,1 @@
-var mnemonic = "print wage panda aisle fuel cool sorry beach piano must surround ship";
+var mnemonic = "afraid oven hobby paper fatigue stomach reveal viable walnut neither food depth";

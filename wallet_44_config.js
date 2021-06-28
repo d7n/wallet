@@ -1,1 +1,1 @@
-var mnemonic = "field job rug mystery lamp sunset same brick found soul series fog";
+var mnemonic = "rhythm pelican sing spot walnut argue bundle tragic end happy bid stock";

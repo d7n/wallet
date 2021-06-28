@@ -1,1 +1,1 @@
-var mnemonic = "spike nothing inform wave chicken leisure spot ritual trash hello live seed";
+var mnemonic = "chest grape betray game nominee volume naive supreme chuckle dad credit flee";

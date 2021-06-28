@@ -1,1 +1,1 @@
-var mnemonic = "talk rather act measure borrow appear time corn female sick keen keen";
+var mnemonic = "spy shiver kingdom total frost strong lyrics pottery picture vacant feature noodle";

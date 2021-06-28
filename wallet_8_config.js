@@ -1,1 +1,1 @@
-var mnemonic = "pretty balcony example crowd garment bid dumb marriage together wink forward have";
+var mnemonic = "scorpion also grief snow search vault outer stage pulp finish celery budget";

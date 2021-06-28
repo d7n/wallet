@@ -1,1 +1,1 @@
-var mnemonic = "arm hover normal ranch predict side song devote fringe document devote walnut";
+var mnemonic = "chunk visa dry shield fee such medal music extend measure obey uniform";

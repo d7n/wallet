@@ -1,1 +1,1 @@
-var mnemonic = "victory review legend kiwi valley urban trade across clock peace receive hair";
+var mnemonic = "icon glide cram jungle excuse shield sponsor next medal spoil guilt engage";

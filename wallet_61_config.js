@@ -1,1 +1,1 @@
-var mnemonic = "cargo airport medal pigeon document design floor domain glow weather idea save";
+var mnemonic = "nuclear client eyebrow differ coach limb detail slogan supreme pride thumb pave";

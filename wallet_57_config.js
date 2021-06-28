@@ -1,1 +1,1 @@
-var mnemonic = "maze topple fever energy praise weird cruise predict code fire panther furnace";
+var mnemonic = "summer large happy monitor nothing hungry sign swing item stone disease tattoo";

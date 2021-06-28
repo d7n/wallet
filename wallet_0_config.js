@@ -1,1 +1,1 @@
-var mnemonic = "wrestle onion board this elevator whale enroll gold nerve kidney flock salmon";
+var mnemonic = "trade author animal hint sunny magic state pass cigar chronic spatial mountain";

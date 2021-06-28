@@ -1,1 +1,1 @@
-var mnemonic = "patch worth airport february verify burst survey sweet fiscal because very negative";
+var mnemonic = "chimney accident talk coffee behind ignore lonely symptom rail wheat grab embark";

@@ -1,1 +1,1 @@
-var mnemonic = "bamboo lawsuit rate praise venue end cream peanut dirt trend split scrap";
+var mnemonic = "cereal badge because chronic typical unhappy eagle wall slow caution spare dizzy";

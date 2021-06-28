@@ -1,1 +1,1 @@
-var mnemonic = "defense imitate adult govern laugh search actor throw wrestle scatter detail term";
+var mnemonic = "scare plastic turkey panic satisfy couch solar barrel domain jump deal casino";

@@ -1,1 +1,1 @@
-var mnemonic = "eight alpha knock divorce metal age keep other cricket conduct lend modify";
+var mnemonic = "hammer call cave race abandon fetch own market cream tongue jacket ahead";
