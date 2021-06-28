@@ -1,1 +1,1 @@
-var mnemonic = "ball embrace crumble robust notice orange control embody addict spread script cake";
+var mnemonic = "document proof shadow aware meadow defense labor shed insect wire shy blur";

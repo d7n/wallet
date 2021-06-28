@@ -1,1 +1,1 @@
-var mnemonic = "net fuel picture doll knock mountain harvest alien match grid sudden behind";
+var mnemonic = "region dose combine cactus zone scout cube grunt traffic size shift struggle";

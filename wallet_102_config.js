@@ -1,1 +1,1 @@
-var mnemonic = "history chalk one awful tent strike notable luggage benefit plunge like unlock";
+var mnemonic = "what near degree upper guard zone blanket label alert drama water caution";

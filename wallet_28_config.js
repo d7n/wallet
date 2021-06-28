@@ -1,1 +1,1 @@
-var mnemonic = "vapor shy tackle hard slab crunch visit faith find orange excuse sausage";
+var mnemonic = "sweet mandate blush sense warm ready veteran keen grape update dove oval";

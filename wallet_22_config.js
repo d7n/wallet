@@ -1,1 +1,1 @@
-var mnemonic = "orphan jump exclude moon yellow goddess result olympic glare wrestle approve swamp";
+var mnemonic = "crisp toy phrase arrest hold hybrid fiction bid replace hood glow burden";

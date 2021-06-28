@@ -1,1 +1,1 @@
-var mnemonic = "lucky wine thought code minor pig exact real earth below piece tackle";
+var mnemonic = "entry faculty route usage quarter arena sample lift mutual fault light kid";

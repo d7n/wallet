@@ -1,1 +1,1 @@
-var mnemonic = "flee rose outdoor twist gather obey rent blue speak fade sense iron";
+var mnemonic = "lens claim bag benefit chair audit pave actress knife boil supply duty";

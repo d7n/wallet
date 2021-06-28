@@ -1,1 +1,1 @@
-var mnemonic = "saddle network vibrant enjoy ladder pact slow clean drop worth motion say";
+var mnemonic = "embody biology size frost shallow cancel slice nose wide runway original crumble";

@@ -1,1 +1,1 @@
-var mnemonic = "best still choice benefit bicycle idea assume jungle pluck vanish modify cruise";
+var mnemonic = "churn trouble penalty blue unique lesson pudding differ repair retire basic bone";

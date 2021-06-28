@@ -1,1 +1,1 @@
-var mnemonic = "install acoustic police method clog debate degree legend galaxy cruise grief unique";
+var mnemonic = "annual grace develop warfare empower air oak floor hint pattern twice grit";

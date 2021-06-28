@@ -1,1 +1,1 @@
-var mnemonic = "topic rough caution resist below lend defy sudden chuckle pair final dinosaur";
+var mnemonic = "organ child employ long issue depend card office table satisfy pumpkin devote";

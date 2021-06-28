@@ -1,1 +1,1 @@
-var mnemonic = "place forest female school riot spot near cabin shift heart all spoon";
+var mnemonic = "deposit lumber fire strategy rich wrestle squirrel below social garment poet extend";

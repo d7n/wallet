@@ -1,1 +1,1 @@
-var mnemonic = "soul brown virus impact alcohol rice mom minute tornado throw tissue ride";
+var mnemonic = "tent priority media mad token aerobic shoot gloom invite divide desert opera";

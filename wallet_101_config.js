@@ -1,1 +1,1 @@
-var mnemonic = "wide gap artist borrow cry venue bullet rare vehicle gesture canyon actor";
+var mnemonic = "note across solid pulse spirit blush night cruel demand card cook online";

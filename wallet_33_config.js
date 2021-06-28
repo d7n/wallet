@@ -1,1 +1,1 @@
-var mnemonic = "whip spider arrow scan parade board twist order gadget erase glance make";
+var mnemonic = "doctor dragon carry surround camp tiger artwork false tiger head manage mind";

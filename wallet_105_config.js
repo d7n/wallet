@@ -1,1 +1,1 @@
-var mnemonic = "ranch mixture dismiss lucky card brother exist believe argue window reform crime";
+var mnemonic = "arrow tribe hood leopard tackle grid enhance pluck estate amateur tilt color";

@@ -1,1 +1,1 @@
-var mnemonic = "blossom carpet receive must retire open today record ice winner spatial dentist";
+var mnemonic = "alpha health essay great foam pen tornado large eagle syrup hip enroll";

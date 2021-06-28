@@ -1,1 +1,1 @@
-var mnemonic = "oil mad wolf oven sight grocery unveil trouble drastic second shine charge";
+var mnemonic = "hockey glory canal crane shell execute pattern predict chimney space major suit";

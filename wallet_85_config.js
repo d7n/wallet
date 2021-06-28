@@ -1,1 +1,1 @@
-var mnemonic = "survey shoot install erosion leaf casual curious concert scare enroll village sister";
+var mnemonic = "label smooth skirt color away blouse guide segment proud nerve flight offer";

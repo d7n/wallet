@@ -1,1 +1,1 @@
-var mnemonic = "spin ankle sword total speed canvas demise attack happy cost year brand";
+var mnemonic = "friend pipe neither iron vault urge never screen example street joke margin";

@@ -1,1 +1,1 @@
-var mnemonic = "food image appear alcohol analyst topple away effort excite tray idle olympic";
+var mnemonic = "hurt fitness mosquito next patrol wet vault nominee limit ill creek shuffle";

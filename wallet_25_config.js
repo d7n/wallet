@@ -1,1 +1,1 @@
-var mnemonic = "cry dial primary attitude board vapor assault spider afraid hour salt sibling";
+var mnemonic = "dune letter vote rival glue shuffle fire hand drop drama rack remain";

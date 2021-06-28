@@ -1,1 +1,1 @@
-var mnemonic = "brick planet oven chef wreck bus penalty finger leaf spell actress valley";
+var mnemonic = "tackle surround lazy urban lab total popular tent original author pelican boring";

@@ -1,1 +1,1 @@
-var mnemonic = "bachelor outer repeat ski trial market loop brick report trash shed endless";
+var mnemonic = "squirrel trade grunt ripple equal duty snow section dial fatal stumble display";

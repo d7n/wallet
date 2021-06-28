@@ -1,1 +1,1 @@
-var mnemonic = "reason govern gown develop card ahead library machine about olive ten eternal";
+var mnemonic = "behind field robust volume between deal verb despair fluid uncover elbow predict";

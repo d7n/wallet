@@ -1,1 +1,1 @@
-var mnemonic = "bunker pledge because lyrics basket frame exchange camera chuckle busy analyst leisure";
+var mnemonic = "squirrel long response innocent element keen rubber receive develop canoe same frog";

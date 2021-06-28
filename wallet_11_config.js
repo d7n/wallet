@@ -1,1 +1,1 @@
-var mnemonic = "slogan canvas student estate dream people flame know problem unknown clever balcony";
+var mnemonic = "spray mirror artwork siege teach violin visit hungry diagram peanut phone bring";

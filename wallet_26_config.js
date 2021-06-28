@@ -1,1 +1,1 @@
-var mnemonic = "test romance tunnel economy defense faint brass leopard copper indicate depth orient";
+var mnemonic = "benefit purse issue tongue clip buyer unhappy thumb deny cargo birth theory";

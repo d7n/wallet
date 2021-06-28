@@ -1,1 +1,1 @@
-var mnemonic = "outside humor join six hybrid yellow scare middle ill clutch either swim";
+var mnemonic = "wrap mule citizen come act siren slush remove bulk cross rain hover";

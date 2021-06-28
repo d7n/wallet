@@ -1,1 +1,1 @@
-var mnemonic = "health deny usage foster heavy canoe dream border siege vintage spirit gravity";
+var mnemonic = "alien upset wet shaft museum teach rice sun system fitness riot leg";

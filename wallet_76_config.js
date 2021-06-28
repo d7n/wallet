@@ -1,1 +1,1 @@
-var mnemonic = "scan aim defense square love awkward oval remember spatial ginger country cradle";
+var mnemonic = "dignity payment candy bargain input present agree perfect citizen island fringe robot";

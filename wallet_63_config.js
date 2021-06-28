@@ -1,1 +1,1 @@
-var mnemonic = "alarm change sea kid sting object anchor monkey cliff dutch sad near";
+var mnemonic = "field jacket viable auction shock similar error copper this sport present like";

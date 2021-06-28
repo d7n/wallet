@@ -1,1 +1,1 @@
-var mnemonic = "luxury pulse resemble change midnight apology luggage brain waste must bottom bench";
+var mnemonic = "regret can sail negative lyrics bag hero water host lumber ring steak";

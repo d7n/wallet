@@ -1,1 +1,1 @@
-var mnemonic = "novel attend fish diet rack mercy confirm own veteran comfort celery economy";
+var mnemonic = "target clap describe weird dance involve casino double law pig girl state";

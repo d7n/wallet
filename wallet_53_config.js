@@ -1,1 +1,1 @@
-var mnemonic = "debate organ plastic again loud reopen reward smart someone nuclear action poet";
+var mnemonic = "elbow park kingdom rabbit tuition heavy settle project fault repair kangaroo daring";

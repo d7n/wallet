@@ -1,1 +1,1 @@
-var mnemonic = "afford wealth egg room mail firm inch deer leopard federal color certain";
+var mnemonic = "popular you gesture rebel dinner flock lab head unveil absorb obvious push";

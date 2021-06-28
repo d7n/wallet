@@ -1,1 +1,1 @@
-var mnemonic = "much amazing track crane toe cross bean fish shadow sea van hidden";
+var mnemonic = "alpha pond jazz acquire problem attitude glow laptop fortune prison vicious dance";

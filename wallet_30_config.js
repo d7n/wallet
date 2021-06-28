@@ -1,1 +1,1 @@
-var mnemonic = "street viable boring leg rare blanket educate disorder six afford cancel kind";
+var mnemonic = "chase three merge summer burst patch depth winter round taxi business faculty";

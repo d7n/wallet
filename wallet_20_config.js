@@ -1,1 +1,1 @@
-var mnemonic = "noble manage wave prize expand shoe fee travel ostrich liquid leisure cloud";
+var mnemonic = "despair green grunt during play market extra crash romance nasty measure job";

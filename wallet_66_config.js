@@ -1,1 +1,1 @@
-var mnemonic = "general autumn ask vague zero result hockey unveil convince vital bulb what";
+var mnemonic = "piece save multiply response leave admit exist congress lonely nature boss image";

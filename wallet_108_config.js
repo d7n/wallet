@@ -1,1 +1,1 @@
-var mnemonic = "dash canal cable furnace cross tool alley misery answer glare sibling anxiety";
+var mnemonic = "thrive drive vicious finish earn rubber eight maze snack pink combine pilot";

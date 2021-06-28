@@ -1,1 +1,1 @@
-var mnemonic = "system staff engine vanish march school tomorrow aim album vehicle clay artwork";
+var mnemonic = "local runway book divert cement reason rib stumble promote armor fuel tunnel";

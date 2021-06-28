@@ -1,1 +1,1 @@
-var mnemonic = "embark unlock harvest blind eternal display skirt stool color avoid wedding under";
+var mnemonic = "human trap act hotel shrug copy urge acoustic popular foster endless pink";

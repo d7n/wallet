@@ -1,1 +1,1 @@
-var mnemonic = "flush left mind female bomb around oak face choose explain evidence slush";
+var mnemonic = "fluid person push doctor waste resist life icon neutral merry grant uncle";

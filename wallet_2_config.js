@@ -1,1 +1,1 @@
-var mnemonic = "thought morning hint fiber angry member what host soup borrow cloth fetch";
+var mnemonic = "height response flavor better grain orbit trophy hammer then view genius name";

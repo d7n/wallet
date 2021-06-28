@@ -1,1 +1,1 @@
-var mnemonic = "mimic sadness thing color black endorse love bleak axis shaft hard doll";
+var mnemonic = "exit also thumb burger barely obvious lift blossom swift moral success thumb";

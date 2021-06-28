@@ -1,1 +1,1 @@
-var mnemonic = "suit visa when toward infant attend hood crash umbrella crunch erupt merit";
+var mnemonic = "risk boat define crush glove hamster raise mouse army behind brick pink";

@@ -1,1 +1,1 @@
-var mnemonic = "cry spot harbor marine recipe sausage science firm aerobic pilot floor health";
+var mnemonic = "steak coin tip chunk huge diet hair father clay expect invite whip";

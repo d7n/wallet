@@ -1,1 +1,1 @@
-var mnemonic = "february home example unfold weather scissors crazy great fatal hair power staff";
+var mnemonic = "gas harbor dune yard under amateur exercise moment mistake minimum twenty fiction";

@@ -1,1 +1,1 @@
-var mnemonic = "victory sport replace next satisfy step shop mobile sunset stomach nuclear make";
+var mnemonic = "cage crouch spend favorite swift body hungry occur loyal shadow stove exhaust";

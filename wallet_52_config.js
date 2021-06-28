@@ -1,1 +1,1 @@
-var mnemonic = "aim end law equal like verify assault volume stand title diet clutch";
+var mnemonic = "danger guilt primary dream energy velvet then hybrid into chief lecture home";

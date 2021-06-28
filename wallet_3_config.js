@@ -1,1 +1,1 @@
-var mnemonic = "bonus they point forget knee today era gown giant stamp bag forget";
+var mnemonic = "flag ready cup keep book rabbit exotic sister govern behave spell champion";

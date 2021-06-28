@@ -1,1 +1,1 @@
-var mnemonic = "method rack walnut antenna refuse biology image flock invest firm observe twin";
+var mnemonic = "tattoo cave affair brief crop latin tissue believe siege dragon market rural";

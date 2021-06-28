@@ -1,1 +1,1 @@
-var mnemonic = "slice cream plug spy manage enact mansion town casual timber climb bar";
+var mnemonic = "announce mean fold lunch regular moment gorilla kingdom exit chef snack climb";

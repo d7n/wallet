@@ -1,1 +1,1 @@
-var mnemonic = "card chapter tuition carry junior smooth pioneer upset core print digital clump";
+var mnemonic = "stand earn unaware open stuff cricket east because jump home help layer";

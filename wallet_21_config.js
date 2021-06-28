@@ -1,1 +1,1 @@
-var mnemonic = "knee nuclear essay current buddy across move agree limb egg lumber worry";
+var mnemonic = "dad dust broken nurse garbage rigid supply rule deliver spawn tomato ski";

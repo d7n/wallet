@@ -1,1 +1,1 @@
-var mnemonic = "misery burger aunt twice mango neck term decade poverty tunnel cloth decade";
+var mnemonic = "lounge knife skin square move brown gloom myth town sustain provide atom";

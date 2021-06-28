@@ -1,1 +1,1 @@
-var mnemonic = "valley faith ramp six hamster build minor repair two inspire source upset";
+var mnemonic = "special apart urban sample cream million earn coffee foil crack logic salad";

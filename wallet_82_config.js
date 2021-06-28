@@ -1,1 +1,1 @@
-var mnemonic = "profit submit question exclude neither repeat train abuse spend repeat leaf category";
+var mnemonic = "derive salute apart grace cupboard syrup asthma float inflict view intact slide";

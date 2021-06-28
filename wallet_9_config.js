@@ -1,1 +1,1 @@
-var mnemonic = "rude derive lyrics visual destroy bird general case image enemy student palm";
+var mnemonic = "absent shuffle since decrease life begin rice peasant ahead wet never elegant";

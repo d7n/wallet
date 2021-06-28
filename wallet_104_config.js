@@ -1,1 +1,1 @@
-var mnemonic = "object rifle canal census upon metal hurdle shuffle decade rebel mix sand";
+var mnemonic = "poet since trick grid toward barely cost canvas cheap slot trust hunt";

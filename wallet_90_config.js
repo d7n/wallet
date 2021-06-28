@@ -1,1 +1,1 @@
-var mnemonic = "vote present filter sail win kiss point smoke unaware flip grief cherry";
+var mnemonic = "idle scrap artefact popular degree zone reject jacket write bundle slogan afraid";

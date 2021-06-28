@@ -1,1 +1,1 @@
-var mnemonic = "artwork sad pride desert misery game material scorpion laugh gate dizzy good";
+var mnemonic = "this want mix mass shove alley radio arm essence kind elevator switch";

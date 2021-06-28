@@ -1,1 +1,1 @@
-var mnemonic = "hover author burger spike also install talent market more rain have misery";
+var mnemonic = "phrase flavor remember hidden tower asset current debris era gold crumble garlic";

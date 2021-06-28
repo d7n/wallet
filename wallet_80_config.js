@@ -1,1 +1,1 @@
-var mnemonic = "point nothing vapor sketch pattern check rice clog eager message repeat clap";
+var mnemonic = "off brother march envelope goat remain safe impose corn leopard burst wise";

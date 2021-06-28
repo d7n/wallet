@@ -1,1 +1,1 @@
-var mnemonic = "cancel tube fruit bottom develop federal episode success rug demise explain clean";
+var mnemonic = "despair brick bulb bulb wide middle skin autumn kid pelican nest change";

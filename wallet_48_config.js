@@ -1,1 +1,1 @@
-var mnemonic = "output hello mouse original rural disease liar chicken loyal health become angle";
+var mnemonic = "throw brick forget multiply bitter shine ice hour like mesh credit space";

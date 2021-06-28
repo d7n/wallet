@@ -1,1 +1,1 @@
-var mnemonic = "dutch fold cherry enter law just reveal skull vital chalk magnet scan";
+var mnemonic = "begin echo afford correct twice reform arrow wealth salmon turn lottery mouse";

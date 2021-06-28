@@ -1,1 +1,1 @@
-var mnemonic = "summer glance slim autumn perfect liar wrist eyebrow lonely result place tool";
+var mnemonic = "sample ready bar trim virus music spy daring rescue unable under relax";

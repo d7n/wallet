@@ -1,1 +1,1 @@
-var mnemonic = "script picnic sad rude august track stomach quote world wife vague wisdom";
+var mnemonic = "claim train cart rookie find orient clog sleep hold moral hybrid begin";

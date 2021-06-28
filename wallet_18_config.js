@@ -1,1 +1,1 @@
-var mnemonic = "scheme best naive physical drill anger sunset slush process lyrics fringe tackle";
+var mnemonic = "fruit south like public behind neither visual design excess clay blue wife";

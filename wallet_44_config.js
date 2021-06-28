@@ -1,1 +1,1 @@
-var mnemonic = "autumn sample mouse marine option flag menu mango sunny nerve bottom reform";
+var mnemonic = "round suspect have lesson rescue panda drip quote winter depart exact amused";

@@ -1,1 +1,1 @@
-var mnemonic = "wedding able smoke conduct inch alone satoshi bounce remind during love foot";
+var mnemonic = "retire side cluster use remember usual impact observe north inject drift second";

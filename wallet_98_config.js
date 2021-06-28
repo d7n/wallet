@@ -1,1 +1,1 @@
-var mnemonic = "dismiss ancient smoke photo danger market acoustic ten present blind wheel example";
+var mnemonic = "bonus diary mercy valid hub kit hawk zoo pool sister blossom very";

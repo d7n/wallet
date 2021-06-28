@@ -1,1 +1,1 @@
-var mnemonic = "gather marriage learn mouse replace duty unveil pulse rubber sail intact wheel";
+var mnemonic = "cabbage always vague fish cycle aunt pudding kick neither lake boy flower";

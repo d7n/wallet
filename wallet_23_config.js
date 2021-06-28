@@ -1,1 +1,1 @@
-var mnemonic = "rule conduct path hunt parent apology actual session upset monitor visual manage";
+var mnemonic = "betray slam gate local dream brisk bulk lucky boat topple shrug van";

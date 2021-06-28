@@ -1,1 +1,1 @@
-var mnemonic = "source shiver angry dignity country submit sunset canal frog glass siege destroy";
+var mnemonic = "typical chest indicate organ tattoo topple federal senior upgrade only cement license";

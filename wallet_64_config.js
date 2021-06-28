@@ -1,1 +1,1 @@
-var mnemonic = "aspect announce basic north broken behind leave trouble gloom vote aspect arrow";
+var mnemonic = "ticket reduce fatigue clock tenant scheme mail vacant stage interest hat album";

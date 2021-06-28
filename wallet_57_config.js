@@ -1,1 +1,1 @@
-var mnemonic = "beyond canyon enhance kind unaware pigeon only come symptom scissors basic decorate";
+var mnemonic = "diagram outdoor remember elegant solid light mesh walk virtual coast weird salmon";

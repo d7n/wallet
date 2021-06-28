@@ -1,1 +1,1 @@
-var mnemonic = "satoshi drift gap energy focus drill dash other clinic float shed bacon";
+var mnemonic = "motion riot basic crime dolphin merge accuse there remember quote own chapter";

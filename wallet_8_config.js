@@ -1,1 +1,1 @@
-var mnemonic = "echo garden under stone text sea vacant behind resemble cluster year puzzle";
+var mnemonic = "first dial honey clay program quick fan endless inner garden pear tonight";

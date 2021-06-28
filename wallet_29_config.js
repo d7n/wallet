@@ -1,1 +1,1 @@
-var mnemonic = "forum around scissors regret onion other welcome very country life brave verb";
+var mnemonic = "tone board wave you exclude glass dentist helmet seven anxiety humble spy";

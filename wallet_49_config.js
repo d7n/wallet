@@ -1,1 +1,1 @@
-var mnemonic = "siren catalog eager diet hockey miracle sure side grace fancy year simple";
+var mnemonic = "brief wild walk chicken arena cloud zebra right prefer abandon gentle inch";

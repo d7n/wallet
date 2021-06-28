@@ -1,1 +1,1 @@
-var mnemonic = "mom envelope economy wet tiny demand latin chalk vault stove slide valve";
+var mnemonic = "remember shoulder jewel satoshi approve eye wagon voyage feature photo obtain sustain";

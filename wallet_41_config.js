@@ -1,1 +1,1 @@
-var mnemonic = "strong news dentist shift enter drama banner borrow trick moment artwork first";
+var mnemonic = "attack combine design stay dentist furnace seven ship mass arena cigar maple";

@@ -1,1 +1,1 @@
-var mnemonic = "pencil infant sweet hint image grab walk arrow piece sorry sing inch";
+var mnemonic = "onion stock lift barrel soccer submit century when spatial traffic future junior";

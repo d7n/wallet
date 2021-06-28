@@ -1,1 +1,1 @@
-var mnemonic = "pair age hint accident airport nerve invite hand neutral major census able";
+var mnemonic = "tennis fat model cabin around basket drama pen supply barrel upset claw";

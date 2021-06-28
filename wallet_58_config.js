@@ -1,1 +1,1 @@
-var mnemonic = "account mass entire ten plunge cook company reveal cruel snack fantasy shop";
+var mnemonic = "trend slab car captain sponsor risk street under chase rival wagon cradle";

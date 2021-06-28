@@ -1,1 +1,1 @@
-var mnemonic = "citizen just mail food daring protect giggle pool law tuna script learn";
+var mnemonic = "industry attract affair palace wolf clinic fork carpet abandon blouse fan grief";

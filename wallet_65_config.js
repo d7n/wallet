@@ -1,1 +1,1 @@
-var mnemonic = "alert marine gaze coconut nerve female debate recall diagram thought barrel chuckle";
+var mnemonic = "that client wealth rapid second trigger earn vibrant step legend army more";

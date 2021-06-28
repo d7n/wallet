@@ -1,1 +1,1 @@
-var mnemonic = "reduce goat door reform chronic witness click fun eternal hover sure art";
+var mnemonic = "pumpkin resource north wear praise juice tail rain rose crime pottery romance";

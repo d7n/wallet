@@ -1,1 +1,1 @@
-var mnemonic = "normal banner success damage snap inhale clarify fiscal vibrant robust knee custom";
+var mnemonic = "rigid garage spawn thrive staff rare own release hedgehog dilemma scheme fatal";

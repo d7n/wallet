@@ -1,1 +1,1 @@
-var mnemonic = "nest rude fashion exercise choice loan explain text latin taste shuffle praise";
+var mnemonic = "smile settle pair dash gallery edit focus bacon easy finger room garbage";

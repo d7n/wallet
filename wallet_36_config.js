@@ -1,1 +1,1 @@
-var mnemonic = "relief cheap stable purchase exile toast power swift praise smoke borrow mask";
+var mnemonic = "deposit great feature track test oven unfair mean common welcome human castle";

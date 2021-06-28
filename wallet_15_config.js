@@ -1,1 +1,1 @@
-var mnemonic = "tent target match win pull ridge around dinner correct dismiss brush dumb";
+var mnemonic = "clutch diary era van deputy thought teach file badge settle oven review";

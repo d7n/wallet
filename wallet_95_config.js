@@ -1,1 +1,1 @@
-var mnemonic = "van shoulder health dinner correct quote alley brand core toe similar affair";
+var mnemonic = "surprise magic mutual skill peanut endless barrel garment walk anxiety impact argue";

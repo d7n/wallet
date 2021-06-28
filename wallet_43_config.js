@@ -1,1 +1,1 @@
-var mnemonic = "shove army demise giggle adjust bomb cliff effort orient hard bag sense";
+var mnemonic = "usage cinnamon scale myth vanish excite melt stand man judge social slim";
