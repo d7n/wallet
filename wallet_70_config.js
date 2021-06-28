@@ -1,1 +1,1 @@
-var mnemonic = "book erase balance wage pledge isolate argue best expand repeat lake digital";
+var mnemonic = "visa among shoot harbor wear omit scale private ill pact dinosaur fitness";

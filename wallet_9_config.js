@@ -1,1 +1,1 @@
-var mnemonic = "emerge convince crush evolve fork pony buyer hip unit arrest park defense";
+var mnemonic = "sorry journey minimum okay swarm fun quick climb cheap three hope vocal";

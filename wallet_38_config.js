@@ -1,1 +1,1 @@
-var mnemonic = "enemy biology pool forget black shallow foil hybrid bottom velvet quantum shine";
+var mnemonic = "fat service multiply risk service dress swamp labor dynamic large almost dismiss";

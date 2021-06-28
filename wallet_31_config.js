@@ -1,1 +1,1 @@
-var mnemonic = "brother tunnel clinic wise rely reward over day blind mix decide throw";
+var mnemonic = "weapon island gas matrix unable road shine accident pull hard economy clump";

@@ -1,1 +1,1 @@
-var mnemonic = "siege below aisle ranch spring buyer number ride ozone cheese reopen pledge";
+var mnemonic = "other over drill express wolf where stomach left when steel ahead undo";

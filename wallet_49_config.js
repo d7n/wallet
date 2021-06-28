@@ -1,1 +1,1 @@
-var mnemonic = "occur census tired long nurse thrive post novel horror indicate kingdom swing";
+var mnemonic = "daring pole mass summer clinic jump doctor inside finger smooth bird panda";

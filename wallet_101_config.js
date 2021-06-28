@@ -1,1 +1,1 @@
-var mnemonic = "estate rotate about once ramp safe rural step hollow surround seek eye";
+var mnemonic = "pink force regular rent mass clump fan camera agent cage rifle suit";

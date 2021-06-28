@@ -1,1 +1,1 @@
-var mnemonic = "inherit quantum weasel tooth river scout swap erosion car symptom material transfer";
+var mnemonic = "type truth mirror priority action assume pledge point they already champion life";

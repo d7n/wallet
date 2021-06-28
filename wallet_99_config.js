@@ -1,1 +1,1 @@
-var mnemonic = "spend remember kitten remember today picture valid face bronze fortune piece loop";
+var mnemonic = "omit core clump soon analyst hand inhale country oxygen truly film depend";

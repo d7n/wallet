@@ -1,1 +1,1 @@
-var mnemonic = "reunion earn entire brain oblige mimic garden birth gap economy castle citizen";
+var mnemonic = "truly maple alien all stairs enjoy title warm luxury resemble minor arm";

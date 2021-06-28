@@ -1,1 +1,1 @@
-var mnemonic = "hungry among will payment develop group sunny target infant aunt click ranch";
+var mnemonic = "twice phrase term certain miracle goose change bright name corn weekend amateur";

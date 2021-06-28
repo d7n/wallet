@@ -1,1 +1,1 @@
-var mnemonic = "zoo toddler liberty brass rug thank sad human behave ensure jump beyond";
+var mnemonic = "reunion cargo team miss parade mammal stay cage arrange cage chair cloth";

@@ -1,1 +1,1 @@
-var mnemonic = "clump salmon amateur tip recycle final favorite three chronic valve bronze bulb";
+var mnemonic = "clarify future cannon dizzy furnace avoid interest problem text agree shoot sentence";

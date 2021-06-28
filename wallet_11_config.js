@@ -1,1 +1,1 @@
-var mnemonic = "deposit hire buffalo surprise rescue embrace upon decline cushion evil head aerobic";
+var mnemonic = "thing protect snake repeat camera floor ordinary pelican afford gas sail kiss";

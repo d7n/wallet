@@ -1,1 +1,1 @@
-var mnemonic = "drip indoor salute give rotate glance beef suffer exist modify gas worth";
+var mnemonic = "include file broccoli charge draft digital labor oxygen hour barrel abandon marble";

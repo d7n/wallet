@@ -1,1 +1,1 @@
-var mnemonic = "fabric spoil nothing napkin vicious rent describe thing equal sing foam aerobic";
+var mnemonic = "metal pulse real trumpet pony ahead toward hood game wait barrel object";

@@ -1,1 +1,1 @@
-var mnemonic = "tell seminar bunker nominee maid tell remember strike quarter feed invite lesson";
+var mnemonic = "ask blast artist obtain walnut belt wire luxury hover elevator glad exile";

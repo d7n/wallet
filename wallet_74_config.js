@@ -1,1 +1,1 @@
-var mnemonic = "betray chuckle fee skate auction inmate false thumb hard discover amateur glow";
+var mnemonic = "blouse feed fish supreme illness tenant color mutual injury good wrap amateur";

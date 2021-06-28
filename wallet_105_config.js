@@ -1,1 +1,1 @@
-var mnemonic = "peanut physical scissors decrease ice sponsor vault arrow gesture sudden own leg";
+var mnemonic = "witness canyon usual camera fancy ancient soon exact dose fatal spoil split";

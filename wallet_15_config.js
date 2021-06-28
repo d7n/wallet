@@ -1,1 +1,1 @@
-var mnemonic = "review echo giggle club laptop attend apart flavor purse rotate again witness";
+var mnemonic = "crystal object cheap jaguar cup whip digital since today yard divert start";

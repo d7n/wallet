@@ -1,1 +1,1 @@
-var mnemonic = "check hazard amateur dutch mirror awake apple antenna pear coffee exotic wage";
+var mnemonic = "pupil comic harsh radar friend bring bunker swear salt jewel ripple pilot";

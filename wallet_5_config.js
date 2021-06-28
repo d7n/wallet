@@ -1,1 +1,1 @@
-var mnemonic = "oval lamp arena client concert learn blade sting hungry electric art buzz";
+var mnemonic = "wing sentence inhale mango humble child crane fortune stay stamp must glide";

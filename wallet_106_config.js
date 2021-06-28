@@ -1,1 +1,1 @@
-var mnemonic = "wear save expose oak power detail shrug adult surprise gorilla vocal please";
+var mnemonic = "shoe music wisdom gift major focus explain ladder slice grocery output wire";

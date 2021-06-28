@@ -1,1 +1,1 @@
-var mnemonic = "van notice valve diesel swarm wheel super diesel chase task they amount";
+var mnemonic = "casino quantum poet else smart slogan stomach company squirrel silly adult develop";

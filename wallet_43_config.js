@@ -1,1 +1,1 @@
-var mnemonic = "quiz urban frame meat fringe admit install primary wait awful damp trash";
+var mnemonic = "return object claim sniff wool mosquito hurdle universe climb column never universe";

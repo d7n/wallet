@@ -1,1 +1,1 @@
-var mnemonic = "poet clip logic letter vivid interest once bacon congress seed heart magnet";
+var mnemonic = "around silly essence cream plug series have link flip city galaxy focus";

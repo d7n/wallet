@@ -1,1 +1,1 @@
-var mnemonic = "artefact drop weather network attack knife help story mule behind stuff foster";
+var mnemonic = "patch ceiling exist tragic rapid treat foster erosion exhibit tiger lecture virtual";

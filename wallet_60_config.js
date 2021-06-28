@@ -1,1 +1,1 @@
-var mnemonic = "tonight sketch place neck fuel purse draft bless course lobster train ignore";
+var mnemonic = "fork broccoli finger range park news duty anxiety fruit result rug minor";

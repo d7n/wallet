@@ -1,1 +1,1 @@
-var mnemonic = "perfect measure fan envelope fit crouch delay midnight stomach devote skull city";
+var mnemonic = "picnic verb pizza dress canoe two uncle concert empty leaf youth rural";

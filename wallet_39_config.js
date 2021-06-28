@@ -1,1 +1,1 @@
-var mnemonic = "second exit resemble marine caught plunge wrist payment marine consider erase ask";
+var mnemonic = "gym pull output suit evolve trust blush into pilot keen chase polar";

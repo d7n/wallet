@@ -1,1 +1,1 @@
-var mnemonic = "menu setup tip silk shallow surface one sight hospital extend recipe donkey";
+var mnemonic = "awful member practice chronic refuse gold vital fix pluck film viable method";

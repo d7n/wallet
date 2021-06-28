@@ -1,1 +1,1 @@
-var mnemonic = "ribbon improve real mercy alcohol silly bachelor warfare raise finish share unfold";
+var mnemonic = "jelly issue risk initial above primary opinion shock cute fiscal immune pulse";

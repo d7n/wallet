@@ -1,1 +1,1 @@
-var mnemonic = "hamster burger bone afford stage eye skull onion dismiss fatigue become three";
+var mnemonic = "fortune raven spoil weather earn proof wise cabbage vehicle shuffle snake lobster";

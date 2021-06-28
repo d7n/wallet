@@ -1,1 +1,1 @@
-var mnemonic = "dune tone kidney learn kitchen eagle view item ill brother toddler forest";
+var mnemonic = "into buzz lobster chaos raw disease picture grit west obvious shed donor";

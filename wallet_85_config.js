@@ -1,1 +1,1 @@
-var mnemonic = "pottery assist evidence subject duty neither luggage carry alpha shift invite empower";
+var mnemonic = "dumb grit opinion yard warfare wealth hard shallow cake steel ticket fluid";

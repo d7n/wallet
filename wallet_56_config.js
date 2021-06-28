@@ -1,1 +1,1 @@
-var mnemonic = "into identify turn tragic clock misery lounge aspect scissors number clean tonight";
+var mnemonic = "subject legal easy fee abandon material rare custom chapter time cool pool";

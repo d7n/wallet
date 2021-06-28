@@ -1,1 +1,1 @@
-var mnemonic = "unfair mechanic matter poverty logic casino tone peace column right unique sock";
+var mnemonic = "industry fury august hurry urge upon left motion library purse scheme shed";

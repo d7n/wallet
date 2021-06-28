@@ -1,1 +1,1 @@
-var mnemonic = "rigid note laugh circle average else shadow program solar fresh enroll nut";
+var mnemonic = "link hole piano badge border alpha cupboard tooth beauty ten glide loop";

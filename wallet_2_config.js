@@ -1,1 +1,1 @@
-var mnemonic = "humble mass rifle dizzy idle idle few level second pet evidence rifle";
+var mnemonic = "ginger mad obtain citizen raw boss tell two faint describe soup cupboard";

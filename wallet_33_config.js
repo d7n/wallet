@@ -1,1 +1,1 @@
-var mnemonic = "panther mom weird anxiety poet will dizzy motor clog eagle essence attitude";
+var mnemonic = "session someone kingdom project open soft dumb current glimpse use toe core";

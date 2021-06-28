@@ -1,1 +1,1 @@
-var mnemonic = "old isolate guard olympic lawn elephant found play hire crane arrow dinner";
+var mnemonic = "bundle laundry zero front scout real flash artist garden buzz assume cherry";

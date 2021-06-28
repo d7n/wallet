@@ -1,1 +1,1 @@
-var mnemonic = "already test indicate alert vast please diesel jewel breeze pass stay purse";
+var mnemonic = "army embark marble season tide crack strike advance hover just goat bless";

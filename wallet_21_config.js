@@ -1,1 +1,1 @@
-var mnemonic = "rice level alone soul umbrella social filter since forget cotton enroll thrive";
+var mnemonic = "bean antique crew student ecology minute double weird toilet simple direct sun";

@@ -1,1 +1,1 @@
-var mnemonic = "insane say large join warrior toddler tragic inhale budget action mesh final";
+var mnemonic = "elder pyramid toss column leader start garlic medal bag clap similar purse";

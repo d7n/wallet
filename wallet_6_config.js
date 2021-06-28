@@ -1,1 +1,1 @@
-var mnemonic = "jacket great better lyrics virus talent spare organ corn young rug connect";
+var mnemonic = "tube acquire rigid palace erosion angle ball object welcome huge combine unknown";

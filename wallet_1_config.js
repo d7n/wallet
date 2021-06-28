@@ -1,1 +1,1 @@
-var mnemonic = "figure biology forest emerge opera juice elegant emotion main text token sock";
+var mnemonic = "room lyrics rebuild frozen bonus polar bachelor again name taxi person crew";

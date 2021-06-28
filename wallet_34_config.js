@@ -1,1 +1,1 @@
-var mnemonic = "napkin parade expect traffic solve bar poet flat wrestle young clerk main";
+var mnemonic = "theory lamp sibling movie ensure few burst remove sadness news canvas spread";

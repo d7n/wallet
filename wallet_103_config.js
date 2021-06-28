@@ -1,1 +1,1 @@
-var mnemonic = "flush wish industry celery federal machine timber toward artefact tail talk dream";
+var mnemonic = "jacket meat shoulder table sugar fancy float stereo damp column gather bless";

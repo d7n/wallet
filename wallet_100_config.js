@@ -1,1 +1,1 @@
-var mnemonic = "main guess dish happy extra tail result course quit galaxy razor decade";
+var mnemonic = "vital spike hotel chimney dinosaur link moment old valve someone silly cargo";

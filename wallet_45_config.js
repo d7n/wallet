@@ -1,1 +1,1 @@
-var mnemonic = "boat injury quality arctic sunny mansion stay inject empty layer toast glance";
+var mnemonic = "carry regret scale waste segment announce excite pizza plunge path echo firm";

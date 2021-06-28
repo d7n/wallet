@@ -1,1 +1,1 @@
-var mnemonic = "add arrest luxury witness park nurse jump glow athlete world sense depth";
+var mnemonic = "victory vote zebra edit lift roast burst century guitar whip cage hurdle";

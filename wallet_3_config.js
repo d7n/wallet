@@ -1,1 +1,1 @@
-var mnemonic = "boat moral essay reform network update tourist salt hamster mind equip comic";
+var mnemonic = "duck parrot lake kidney top pool silk art program around marriage dismiss";

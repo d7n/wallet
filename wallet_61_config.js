@@ -1,1 +1,1 @@
-var mnemonic = "box gospel shine brave street ozone effort tattoo occur appear violin forget";
+var mnemonic = "attract offer breeze syrup subway method correct true demise truth first grocery";

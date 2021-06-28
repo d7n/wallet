@@ -1,1 +1,1 @@
-var mnemonic = "country flip soup section frame subject hunt unlock skirt lake ahead average";
+var mnemonic = "rack tomato push share quit artwork shrug canoe scrap insect table radio";

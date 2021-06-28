@@ -1,1 +1,1 @@
-var mnemonic = "hurt bicycle debate symptom state bargain torch chest diamond hello street release";
+var mnemonic = "moment vibrant advice upgrade cube rescue because silk grass loop pistol canal";

@@ -1,1 +1,1 @@
-var mnemonic = "before large normal farm yard rough fault decide taxi culture cement eager";
+var mnemonic = "nothing nose assault prison multiply razor occur insect simple coffee holiday lab";

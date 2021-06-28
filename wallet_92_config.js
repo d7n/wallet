@@ -1,1 +1,1 @@
-var mnemonic = "weasel upper disease clay shock health raccoon jaguar noise tent roast exit";
+var mnemonic = "wage either aware grunt source canyon antique need romance inflict ramp grace";

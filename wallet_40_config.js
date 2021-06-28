@@ -1,1 +1,1 @@
-var mnemonic = "answer wood inspire fish quarter oblige approve credit pigeon roast confirm pupil";
+var mnemonic = "gospel chunk balance token robust april aerobic injury phrase copy catch element";

@@ -1,1 +1,1 @@
-var mnemonic = "level repeat cave snack enroll snap disorder repeat try solid sound same";
+var mnemonic = "always autumn deer wing pottery cement spatial lucky obtain around fresh rain";

@@ -1,1 +1,1 @@
-var mnemonic = "lesson ice rate resemble grunt certain ethics wasp lucky arch electric much";
+var mnemonic = "know ten recycle knock end task waste sibling maximum session response order";

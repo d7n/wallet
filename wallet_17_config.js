@@ -1,1 +1,1 @@
-var mnemonic = "aim hybrid ginger amateur easily song frost slam welcome meat margin remove";
+var mnemonic = "cream prosper giggle logic endorse keen hire umbrella romance response notice blouse";

@@ -1,1 +1,1 @@
-var mnemonic = "attitude urge raven trick noodle media seminar nuclear sign trip picture teach";
+var mnemonic = "short neck craft arctic happy shine donate buyer feed unlock stay person";

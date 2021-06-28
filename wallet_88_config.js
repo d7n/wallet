@@ -1,1 +1,1 @@
-var mnemonic = "crowd magic decorate gaze elevator situate throw present short panther bind feature";
+var mnemonic = "acid cancel dog crane visual relax drop lend nominee ghost hobby divorce";

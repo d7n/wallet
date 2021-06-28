@@ -1,1 +1,1 @@
-var mnemonic = "twelve win neck summer leaf before double clump anchor curtain gauge capital";
+var mnemonic = "lonely host increase universe pole east gain service spring advice bird illness";

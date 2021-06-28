@@ -1,1 +1,1 @@
-var mnemonic = "amateur use rebel radio issue struggle print awake radio boost photo angry";
+var mnemonic = "stumble bottom isolate sauce else nephew simple cage outer recall key coin";

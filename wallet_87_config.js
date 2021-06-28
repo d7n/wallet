@@ -1,1 +1,1 @@
-var mnemonic = "cause assault monkey item mom top region sustain season visual woman neutral";
+var mnemonic = "peace street spell amused agree object immense lazy happy fashion oppose liberty";

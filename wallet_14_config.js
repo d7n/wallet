@@ -1,1 +1,1 @@
-var mnemonic = "coffee source mom chapter impact stone seven piece select clump fade fatal";
+var mnemonic = "cute chimney gallery december chronic educate crawl that tiger omit veteran cinnamon";

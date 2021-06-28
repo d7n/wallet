@@ -1,1 +1,1 @@
-var mnemonic = "adjust action future fork loyal love seminar stock topic people agent vanish";
+var mnemonic = "shove dance crunch uncover crucial conduct base usual repair moment rely tape";

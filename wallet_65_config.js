@@ -1,1 +1,1 @@
-var mnemonic = "thunder dirt harvest trouble custom fiction guide recipe region make upgrade horn";
+var mnemonic = "tomato actor shuffle outside budget token ceiling inform rose spring vanish ceiling";

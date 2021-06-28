@@ -1,1 +1,1 @@
-var mnemonic = "farm now brand life level approve vanish swallow equal mother hurdle thumb";
+var mnemonic = "picnic need buyer brief rate ketchup oven include town token fantasy olive";

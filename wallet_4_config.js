@@ -1,1 +1,1 @@
-var mnemonic = "rib miss vacuum limb main intact team rigid square main just zone";
+var mnemonic = "safe child glare chalk tell yard hammer under canvas deputy evolve attitude";

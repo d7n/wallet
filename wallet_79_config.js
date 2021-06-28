@@ -1,1 +1,1 @@
-var mnemonic = "glass enable insect clinic monitor table because cruise blade mobile popular toast";
+var mnemonic = "execute olive post replace fit furnace skull era copper modify aerobic dawn";

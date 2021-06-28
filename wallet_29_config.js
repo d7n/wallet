@@ -1,1 +1,1 @@
-var mnemonic = "liberty flavor group magic cereal ten original what tape poverty suffer assume";
+var mnemonic = "soft cube metal into day jungle panther allow gentle morning crumble feel";

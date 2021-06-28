@@ -1,1 +1,1 @@
-var mnemonic = "west donkey tobacco extend bachelor hurt test model squirrel buyer wonder beauty";
+var mnemonic = "that taste hand auto tool coin elevator crouch horse gift awesome payment";

@@ -1,1 +1,1 @@
-var mnemonic = "cargo hybrid innocent safe chimney mistake broom pudding provide amused senior property";
+var mnemonic = "apple cinnamon stable crowd hold category body hazard direct width perfect wing";

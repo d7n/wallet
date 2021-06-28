@@ -1,1 +1,1 @@
-var mnemonic = "input rule space welcome pulp worth glimpse earn hospital nasty east vast";
+var mnemonic = "wing gate arctic approve reveal skull talent track obscure bench level lunar";

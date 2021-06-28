@@ -1,1 +1,1 @@
-var mnemonic = "shallow angle fiscal mechanic electric topic main room imitate army oppose salt";
+var mnemonic = "acid royal rabbit weapon frog since stay duck hair portion globe crumble";

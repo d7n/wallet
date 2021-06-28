@@ -1,1 +1,1 @@
-var mnemonic = "hen dignity tilt gauge random absurd orbit endorse blame party jelly what";
+var mnemonic = "dolphin tourist recipe faint neglect grunt humble innocent kangaroo damage prison bubble";

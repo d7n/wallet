@@ -1,1 +1,1 @@
-var mnemonic = "keen federal battle liquid nuclear cliff rescue agree error demise album barely";
+var mnemonic = "someone cream tuition city trophy vapor valid brush shine border trade solid";

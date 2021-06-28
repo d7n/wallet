@@ -1,1 +1,1 @@
-var mnemonic = "oppose enemy hobby rebel struggle buffalo chapter catch confirm present wise tilt";
+var mnemonic = "mosquito move zone kangaroo artwork cross kitchen claim cost brand alert educate";

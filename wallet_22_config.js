@@ -1,1 +1,1 @@
-var mnemonic = "zebra mercy fan crowd laptop happy civil diagram lemon oven peanut dress";
+var mnemonic = "below basket nuclear rice gym curious color sun medal render survey equip";

@@ -1,1 +1,1 @@
-var mnemonic = "deputy paddle hover learn raccoon theory lady clip enroll viable quantum genre";
+var mnemonic = "risk zoo fantasy scissors syrup success cliff vacuum illness emerge property witness";

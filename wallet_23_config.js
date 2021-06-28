@@ -1,1 +1,1 @@
-var mnemonic = "debate device afford cloth fee position genuine inflict body sample fault since";
+var mnemonic = "crowd orphan episode theory mystery connect scrap town suffer fragile obey cement";

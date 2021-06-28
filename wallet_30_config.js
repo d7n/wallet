@@ -1,1 +1,1 @@
-var mnemonic = "bike enemy fragile vast essence veteran lion bonus join simple dynamic actual";
+var mnemonic = "fatal shop pledge morning fortune hint plunge media reunion column swim scrub";
