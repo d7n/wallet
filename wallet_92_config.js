@@ -1,1 +1,1 @@
-var mnemonic = "fine turn wasp humble inform spice brave april method metal curve market";
+var mnemonic = "below mail twenty cement fold cabbage creek guide hope school badge foster";

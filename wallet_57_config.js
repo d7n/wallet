@@ -1,1 +1,1 @@
-var mnemonic = "pact maze noodle system wing next rocket frozen course fork kiss stuff";
+var mnemonic = "duty frown change funny exchange tomato disagree spy oil puppy quality month";

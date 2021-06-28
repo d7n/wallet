@@ -1,1 +1,1 @@
-var mnemonic = "notice direct brief usage flag volume copy retreat test wheat sheriff aim";
+var mnemonic = "opinion throw tattoo license ankle sport hair fossil provide excuse chunk raise";

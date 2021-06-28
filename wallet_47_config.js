@@ -1,1 +1,1 @@
-var mnemonic = "toilet parrot devote material giant typical admit select two network blue easily";
+var mnemonic = "pass remember scene wasp ramp memory vapor ripple general gold forest script";

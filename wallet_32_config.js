@@ -1,1 +1,1 @@
-var mnemonic = "cost myself humble pioneer source kitchen keep torch warrior market wild copy";
+var mnemonic = "congress fantasy system very illness opera chaos poverty wear hybrid govern dream";

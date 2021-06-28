@@ -1,1 +1,1 @@
-var mnemonic = "rally column impose venture notice release trash gun sustain aware erase chest";
+var mnemonic = "vast zebra fame pole civil cattle you alter maximum certain nice vessel";

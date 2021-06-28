@@ -1,1 +1,1 @@
-var mnemonic = "garment cash century avocado scrub mention half crush surface arrow birth goddess";
+var mnemonic = "because toe birth firm gaze love orange summer discover often team spirit";

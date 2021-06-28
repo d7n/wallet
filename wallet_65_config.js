@@ -1,1 +1,1 @@
-var mnemonic = "captain tumble slow captain bacon few neither oil edit august dignity clump";
+var mnemonic = "food off catalog ready raw cat lecture mansion solve resist protect pudding";

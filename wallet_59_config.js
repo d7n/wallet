@@ -1,1 +1,1 @@
-var mnemonic = "catalog current law early balance error voice surge range street tornado creek";
+var mnemonic = "drastic infant nuclear search scrub paper better physical leisure barely asset wash";

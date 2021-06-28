@@ -1,1 +1,1 @@
-var mnemonic = "bomb differ spend gain victory mobile adjust beauty sad summer laugh credit";
+var mnemonic = "denial soap vacuum valid matter real visa march element priority century rib";

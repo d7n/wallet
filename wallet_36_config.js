@@ -1,1 +1,1 @@
-var mnemonic = "mimic climb hurdle recall disorder arm tattoo virtual patrol public helmet scan";
+var mnemonic = "neither soft peasant moon soap december woman steak satoshi trouble length bomb";

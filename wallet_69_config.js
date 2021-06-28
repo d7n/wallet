@@ -1,1 +1,1 @@
-var mnemonic = "swap define lend used can grain identify metal build census category swim";
+var mnemonic = "woman boat render truth bone push pen borrow prefer genius odor tackle";

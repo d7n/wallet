@@ -1,1 +1,1 @@
-var mnemonic = "ribbon satisfy luggage valve isolate dragon tank evidence timber broom skill box";
+var mnemonic = "feature iron never fortune pioneer engine wall champion random forward local add";

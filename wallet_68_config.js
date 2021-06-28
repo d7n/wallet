@@ -1,1 +1,1 @@
-var mnemonic = "fit knife copy huge can sing crush grape pretty elite question boring";
+var mnemonic = "alarm tone horse wasp habit call domain inhale connect spread swallow rule";

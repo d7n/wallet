@@ -1,1 +1,1 @@
-var mnemonic = "little speak evil valid maze now board green dumb shiver author turn";
+var mnemonic = "observe pilot usual lady ramp olive capable ski skill siege nasty quote";

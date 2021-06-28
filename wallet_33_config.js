@@ -1,1 +1,1 @@
-var mnemonic = "slight physical vivid display fiction marine plate three negative attitude liar language";
+var mnemonic = "noble right velvet during always rebel awkward merge dumb bind wire tilt";

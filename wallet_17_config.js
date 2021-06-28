@@ -1,1 +1,1 @@
-var mnemonic = "crucial dad change shrug orphan phrase only own distance behind industry weasel";
+var mnemonic = "bottom awake exchange assume scare charge spice economy virus burst indicate digital";

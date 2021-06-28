@@ -1,1 +1,1 @@
-var mnemonic = "asthma debate flat water blade interest medal exercise disagree noise organ faith";
+var mnemonic = "hood umbrella scan collect student furnace predict float strong pink arrow practice";

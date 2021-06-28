@@ -1,1 +1,1 @@
-var mnemonic = "accident pass depth team table razor crisp evolve fortune unaware super tongue";
+var mnemonic = "original voyage master coin leg arrange nut notable help memory that chalk";

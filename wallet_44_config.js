@@ -1,1 +1,1 @@
-var mnemonic = "family night above half tower ginger flush index grunt clown tree cool";
+var mnemonic = "dynamic square attend abstract annual green angle peace river produce equip awake";

@@ -1,1 +1,1 @@
-var mnemonic = "cargo start moral helmet copy soup miracle legend rely sketch usage claw";
+var mnemonic = "stereo fiber ivory drill wink extend axis clown face flight illegal turtle";

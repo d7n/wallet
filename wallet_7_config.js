@@ -1,1 +1,1 @@
-var mnemonic = "siege pear wood galaxy forum wear this syrup three travel bamboo upper";
+var mnemonic = "renew rocket pretty path valley crane oval square trade entry deal wage";

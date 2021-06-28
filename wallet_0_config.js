@@ -1,1 +1,1 @@
-var mnemonic = "opera carpet farm blame bus chaos dignity cancel cotton filter direct neutral";
+var mnemonic = "inch chapter mail material portion soda century sniff trick crystal urge wide";

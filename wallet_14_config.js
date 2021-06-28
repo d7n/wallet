@@ -1,1 +1,1 @@
-var mnemonic = "angry mimic sentence sock neck ostrich admit gun hub denial dune damage";
+var mnemonic = "define elite october curtain engine turn horn layer void float around afraid";

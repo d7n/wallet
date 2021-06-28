@@ -1,1 +1,1 @@
-var mnemonic = "occur grow avoid scissors cable ship you excess awesome object romance movie";
+var mnemonic = "verb spring start ridge metal puppy attitude feed exotic surround wear garlic";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle envelope shrug cover admit else park office cotton auto mandate echo";
+var mnemonic = "victory random nuclear rug ribbon clerk shoulder swallow table pipe network color";

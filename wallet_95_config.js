@@ -1,1 +1,1 @@
-var mnemonic = "distance someone lend slide fantasy trophy wet ready figure luxury marble meat";
+var mnemonic = "observe flash tragic settle web recycle excite peanut skull weekend hip problem";

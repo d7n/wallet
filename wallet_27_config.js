@@ -1,1 +1,1 @@
-var mnemonic = "asset tissue tone series disease struggle bone alpha able demise rose when";
+var mnemonic = "toward feel wrist cruel stable matter way valid parrot celery pact lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "ritual item dolphin slow spring float genuine cluster match sun club arch";
+var mnemonic = "another circle hello link thought close earth again manage cradle film obvious";

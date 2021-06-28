@@ -1,1 +1,1 @@
-var mnemonic = "master thought slender palace mountain grocery amount science trim crush picnic job";
+var mnemonic = "bomb sudden exhaust rebuild supreme obvious reopen repair olive expire shock walk";

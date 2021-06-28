@@ -1,1 +1,1 @@
-var mnemonic = "jazz worry bronze glide accuse payment ocean canal spread inmate only dove";
+var mnemonic = "report awake ship zone doll pretty pistol pistol method mixture keen supreme";

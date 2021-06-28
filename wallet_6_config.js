@@ -1,1 +1,1 @@
-var mnemonic = "injury oblige buddy animal unique rare romance pulse cool matrix shine biology";
+var mnemonic = "pulse coach torch idea parade grape blanket pink stool drama scale bacon";

@@ -1,1 +1,1 @@
-var mnemonic = "then shell because speak couple arm vintage organ salmon panel wait army";
+var mnemonic = "just rifle smile project tenant north silk engage carpet adult arch anger";

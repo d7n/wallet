@@ -1,1 +1,1 @@
-var mnemonic = "faint spoon salute report buffalo catch reunion please hero leopard misery sorry";
+var mnemonic = "music purpose special essay pen exit sail chalk addict stumble debris tenant";

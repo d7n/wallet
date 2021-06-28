@@ -1,1 +1,1 @@
-var mnemonic = "sun buyer salute push appear access voice extend cruel leader worry crowd";
+var mnemonic = "dawn liberty capable rug dash black town spider firm cart sister virus";

@@ -1,1 +1,1 @@
-var mnemonic = "kid mesh weather defense profit draft cactus expand stool walk liberty supply";
+var mnemonic = "vapor visual beach ocean destroy spawn chef mystery tell marble way biology";

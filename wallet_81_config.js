@@ -1,1 +1,1 @@
-var mnemonic = "century field admit tide uncover subject choose possible twelve anchor require trust";
+var mnemonic = "text rocket number deny indicate say guilt display fiber prison humor dial";

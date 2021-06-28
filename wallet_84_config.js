@@ -1,1 +1,1 @@
-var mnemonic = "garbage club photo all anchor glass stomach ghost else glass river apology";
+var mnemonic = "candy bike ride fat prosper fit raise cross trial bargain repeat dad";

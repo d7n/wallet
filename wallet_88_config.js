@@ -1,1 +1,1 @@
-var mnemonic = "typical annual blossom furnace weapon practice legend orange word extend style notable";
+var mnemonic = "frost depend asset tragic scout wire promote margin donate stamp icon oak";

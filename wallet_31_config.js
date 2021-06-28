@@ -1,1 +1,1 @@
-var mnemonic = "ship leg soap gown gun link vacant buyer milk ski banana reunion";
+var mnemonic = "various wisdom choice jazz warrior october kitchen ozone equal picnic then tornado";

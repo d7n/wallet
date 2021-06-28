@@ -1,1 +1,1 @@
-var mnemonic = "section warm gospel economy execute hurry discover avoid dance bridge kangaroo wild";
+var mnemonic = "impulse net begin road speak credit foster air disorder coil canoe firm";

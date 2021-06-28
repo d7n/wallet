@@ -1,1 +1,1 @@
-var mnemonic = "raccoon flame alert puppy short unfair never only receive glue allow device";
+var mnemonic = "foil maze draft plastic popular bicycle rare long script kitten legal whisper";

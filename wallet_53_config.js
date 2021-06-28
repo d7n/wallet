@@ -1,1 +1,1 @@
-var mnemonic = "broom used poem frame leave youth brave ugly keep coin piece gravity";
+var mnemonic = "clock loyal state ghost execute pair tomorrow woman rib poverty error travel";

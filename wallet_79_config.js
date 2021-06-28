@@ -1,1 +1,1 @@
-var mnemonic = "step mobile tennis saddle solar avoid orient rough undo hole skull fringe";
+var mnemonic = "utility phone abandon roast victory invest wrong cabin spawn mercy visit long";

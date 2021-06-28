@@ -1,1 +1,1 @@
-var mnemonic = "unaware reason express flash novel profit suffer tone civil theory glory this";
+var mnemonic = "tooth comic equal lonely minor praise find patient keep lift current inject";

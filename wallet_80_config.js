@@ -1,1 +1,1 @@
-var mnemonic = "sleep advance devote produce chest latin level capital typical merry crater miss";
+var mnemonic = "salmon cricket couch judge story team torch chief bubble legal correct camp";

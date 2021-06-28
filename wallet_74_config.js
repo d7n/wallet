@@ -1,1 +1,1 @@
-var mnemonic = "reunion barrel phone social blouse all injury pupil web garbage outdoor toward";
+var mnemonic = "betray jar hunt achieve tip promote pilot pipe wisdom forget gold choice";

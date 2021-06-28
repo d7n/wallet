@@ -1,1 +1,1 @@
-var mnemonic = "invite near orchard pause gorilla element orbit loyal female inquiry remind degree";
+var mnemonic = "name post response juice south relax jungle empower settle verb drum ankle";

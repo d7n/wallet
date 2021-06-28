@@ -1,1 +1,1 @@
-var mnemonic = "input empty salon among admit rug sail chaos sample sadness order layer";
+var mnemonic = "cricket equip feel youth gallery forward good butter network will lock mail";

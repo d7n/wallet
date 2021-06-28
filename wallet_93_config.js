@@ -1,1 +1,1 @@
-var mnemonic = "fatigue picnic trumpet crush faculty swing session spare club woman post token";
+var mnemonic = "please scrub supreme assist bone magic aerobic scout dizzy buddy auto oak";

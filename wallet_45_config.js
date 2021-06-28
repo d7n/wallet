@@ -1,1 +1,1 @@
-var mnemonic = "swing extend still isolate spot sheriff offer minimum duty evil lottery alpha";
+var mnemonic = "excite immense high skill shoot moon leaf castle stage punch funny attract";

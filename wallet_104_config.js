@@ -1,1 +1,1 @@
-var mnemonic = "shop nephew mystery alarm diamond orbit private miss spin south high damp";
+var mnemonic = "trumpet slice blind wealth often chalk access life grant purity axis exhaust";

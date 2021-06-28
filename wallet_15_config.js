@@ -1,1 +1,1 @@
-var mnemonic = "hawk toast athlete nest envelope talent poem behave copper strike tower clever";
+var mnemonic = "stem web field category barely ticket term find law speak bread staff";

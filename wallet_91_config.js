@@ -1,1 +1,1 @@
-var mnemonic = "labor wave split voice resist club lunch cheap used planet burger indoor";
+var mnemonic = "display basket already inflict cancel shiver coyote push wash elephant myth furnace";

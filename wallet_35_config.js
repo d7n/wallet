@@ -1,1 +1,1 @@
-var mnemonic = "sweet slender merge logic metal squirrel jeans soul super tray filter nuclear";
+var mnemonic = "poet bridge base cabbage village before quote race possible emotion seat wine";

@@ -1,1 +1,1 @@
-var mnemonic = "school hospital year negative hotel have task entire oven misery desk subway";
+var mnemonic = "assume friend banner only essence confirm space obtain nasty machine tiny pass";

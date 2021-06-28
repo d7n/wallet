@@ -1,1 +1,1 @@
-var mnemonic = "patrol hockey welcome furnace brick social voice doctor text patient coffee brave";
+var mnemonic = "goddess limit east regret float practice toe window stable rain frost giggle";

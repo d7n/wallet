@@ -1,1 +1,1 @@
-var mnemonic = "pride target project mix wave impulse have toast slim lazy twin east";
+var mnemonic = "nephew exclude erupt flee traffic rude rotate away soon priority country twelve";

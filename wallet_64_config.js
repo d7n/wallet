@@ -1,1 +1,1 @@
-var mnemonic = "garment solid crumble bus ride write ahead fluid admit away conduct key";
+var mnemonic = "code man diamond cloud buzz include blind like link weekend multiply patient";

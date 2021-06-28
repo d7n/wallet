@@ -1,1 +1,1 @@
-var mnemonic = "luggage code spy absorb choice work hip scene sorry claw three upgrade";
+var mnemonic = "source million immense spoil divide tower spot mountain input weapon happy trial";

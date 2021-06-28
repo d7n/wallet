@@ -1,1 +1,1 @@
-var mnemonic = "engage floor echo empower judge much old message grape mushroom weapon bright";
+var mnemonic = "reform glimpse student solve envelope check cushion feed prosper vocal plastic people";

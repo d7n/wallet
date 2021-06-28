@@ -1,1 +1,1 @@
-var mnemonic = "foot pond day then space beauty net cash december fee whip donor";
+var mnemonic = "put entire casual insect garlic play remind elephant garlic grit toss guitar";

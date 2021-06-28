@@ -1,1 +1,1 @@
-var mnemonic = "stamp route noodle skin video candy monkey oval melt wisdom winter raise";
+var mnemonic = "torch unique basket drill kid document duck decorate assume cloth romance much";

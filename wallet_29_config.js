@@ -1,1 +1,1 @@
-var mnemonic = "behind add wink alien jaguar shine exercise swallow virtual social march congress";
+var mnemonic = "concert remind lend assume afford wood daughter suffer ability expand cost nose";

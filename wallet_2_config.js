@@ -1,1 +1,1 @@
-var mnemonic = "asset eager develop lamp excite foot boss cupboard sure couch castle cook";
+var mnemonic = "hello strong test rigid attend among box leader spin shoe survey amount";

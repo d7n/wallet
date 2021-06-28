@@ -1,1 +1,1 @@
-var mnemonic = "smooth someone hero immense law crop kangaroo siren arctic cash autumn fall";
+var mnemonic = "meadow moment charge aim rib sound together caution tourist depend awake canal";

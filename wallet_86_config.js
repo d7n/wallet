@@ -1,1 +1,1 @@
-var mnemonic = "mistake surprise pizza vocal dirt hello region announce melody stamp wage legend";
+var mnemonic = "little ladder silver exotic seek match one action bar check lemon prepare";

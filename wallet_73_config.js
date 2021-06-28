@@ -1,1 +1,1 @@
-var mnemonic = "hawk alarm example zoo indoor knife spike build spend table defy ugly";
+var mnemonic = "nut taste mountain small sleep please frozen mention sing stomach endorse when";

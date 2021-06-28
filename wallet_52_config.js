@@ -1,1 +1,1 @@
-var mnemonic = "egg fiction echo future border between advice hold find achieve grief better";
+var mnemonic = "kit assault flight swap when man liar bring flip nominee addict venue";

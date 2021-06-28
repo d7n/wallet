@@ -1,1 +1,1 @@
-var mnemonic = "cabbage glad quit toilet link certain royal scale base level type angle";
+var mnemonic = "crush stuff dose draft notable hurry unaware betray dentist treat goat stumble";

@@ -1,1 +1,1 @@
-var mnemonic = "angry brown spatial yellow radar minimum often border fiscal rich skull addict";
+var mnemonic = "vessel swing expand rib burst question know envelope capable curve wage together";

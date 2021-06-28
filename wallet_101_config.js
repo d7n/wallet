@@ -1,1 +1,1 @@
-var mnemonic = "evolve coral state curtain ignore medal suggest problem rocket swarm skate test";
+var mnemonic = "develop truth insane member pony neutral sense parent maple undo attitude luggage";

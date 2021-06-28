@@ -1,1 +1,1 @@
-var mnemonic = "shallow rose essence leave genre aunt april tool vicious answer soon rib";
+var mnemonic = "leader meadow drive fault unknown volcano goose giraffe wreck crime mirror witness";

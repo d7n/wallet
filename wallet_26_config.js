@@ -1,1 +1,1 @@
-var mnemonic = "desk core excuse illegal cotton fiction render parent useless magnet pyramid tide";
+var mnemonic = "connect canvas tennis basket twenty quarter stamp arctic mobile split social wide";

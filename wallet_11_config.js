@@ -1,1 +1,1 @@
-var mnemonic = "drop doctor dust trouble add tomato movie happy cry pill curtain lake";
+var mnemonic = "smooth disagree distance panda object intact auto wire wheel error cinnamon client";

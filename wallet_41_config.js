@@ -1,1 +1,1 @@
-var mnemonic = "blue tonight beauty fly transfer album afraid feel depart dentist bulk know";
+var mnemonic = "bomb reject gadget uncover angle tag letter judge sea convince start spatial";

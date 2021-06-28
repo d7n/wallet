@@ -1,1 +1,1 @@
-var mnemonic = "mercy lemon muffin frequent just venture father leg burger turn clerk flower";
+var mnemonic = "offer resemble antenna drama ranch eight office flavor sad behind cherry favorite";

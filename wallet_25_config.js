@@ -1,1 +1,1 @@
-var mnemonic = "flee between monitor protect black atom rib curve firm rule speed price";
+var mnemonic = "defy goose angle horn grit daughter critic sibling asset depend novel play";

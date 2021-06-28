@@ -1,1 +1,1 @@
-var mnemonic = "flee ribbon spend crane seek humor butter good rare notable milk picnic";
+var mnemonic = "come future core stage drift eternal surprise call host public alarm clown";

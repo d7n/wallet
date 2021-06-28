@@ -1,1 +1,1 @@
-var mnemonic = "march say idea van thrive wife toilet busy search issue sheriff stem";
+var mnemonic = "mother general lake input network armed critic present jaguar tribe decade verify";

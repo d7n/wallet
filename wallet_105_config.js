@@ -1,1 +1,1 @@
-var mnemonic = "quarter advice piano shell arrow addict visual will identify slogan loan rookie";
+var mnemonic = "trial legal useful million fossil blossom nation action special volume couple family";

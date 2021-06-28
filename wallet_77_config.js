@@ -1,1 +1,1 @@
-var mnemonic = "erode crystal urban focus walnut coral beef crazy cave nominee upset three";
+var mnemonic = "boy humor once lift race maid super expose control supply drive foil";

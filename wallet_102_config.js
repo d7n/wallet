@@ -1,1 +1,1 @@
-var mnemonic = "satoshi help basket honey alarm elite limb leopard toe vote crack shoe";
+var mnemonic = "surround visit world garlic life usual bean monster size true winner afraid";

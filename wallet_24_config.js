@@ -1,1 +1,1 @@
-var mnemonic = "caution veteran vibrant elbow just wisdom rival broccoli float decrease blind rifle";
+var mnemonic = "song region dune maple giant host siren allow glass opinion reject result";

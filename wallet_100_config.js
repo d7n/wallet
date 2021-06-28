@@ -1,1 +1,1 @@
-var mnemonic = "venue win acid join sudden busy panic reunion session grunt truly web";
+var mnemonic = "execute tumble taxi property blood pigeon success faculty success segment shallow divorce";

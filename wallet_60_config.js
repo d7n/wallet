@@ -1,1 +1,1 @@
-var mnemonic = "marine solid hip buyer inform genre digital special conduct human pyramid tomato";
+var mnemonic = "jazz disorder mushroom angle stadium tired three helmet insect history cabbage pumpkin";

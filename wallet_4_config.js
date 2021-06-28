@@ -1,1 +1,1 @@
-var mnemonic = "similar bonus oak hazard filter degree run soup material affair balcony sponsor";
+var mnemonic = "dentist magnet double pen response chair foil garden detect goddess choose inside";

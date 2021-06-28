@@ -1,1 +1,1 @@
-var mnemonic = "enough entry hello flip cotton negative elephant achieve trumpet bubble render deposit";
+var mnemonic = "diary catalog episode pigeon exotic opera idea potato little nephew man retire";

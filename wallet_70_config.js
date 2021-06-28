@@ -1,1 +1,1 @@
-var mnemonic = "birth obtain wire pause casino damp burden open circle broom surprise glance";
+var mnemonic = "illegal sea price real gallery cute try rough permit cycle have patch";
