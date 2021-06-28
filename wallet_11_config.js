@@ -1,1 +1,1 @@
-var mnemonic = "paddle notice busy phone code steak opera unfold boost debris travel oppose";
+var mnemonic = "equal upset crush during fatigue first essence flight inquiry engage coyote clump";

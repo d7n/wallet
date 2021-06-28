@@ -1,1 +1,1 @@
-var mnemonic = "arctic raven identify six connect miss skull celery able buzz strong example";
+var mnemonic = "bridge happy concert disorder depth endless pottery diary boring century distance devote";

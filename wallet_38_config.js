@@ -1,1 +1,1 @@
-var mnemonic = "yellow absorb icon smooth tongue sure raw today stand lucky awake flock";
+var mnemonic = "gospel clever sad exclude position waste pizza army fame evolve ring cash";

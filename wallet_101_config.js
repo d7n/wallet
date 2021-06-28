@@ -1,1 +1,1 @@
-var mnemonic = "basic grocery harsh lunar wire marriage street answer crisp common weird whale";
+var mnemonic = "benefit any uphold nephew owner release ridge sustain hurdle thing tag cinnamon";

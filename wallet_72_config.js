@@ -1,1 +1,1 @@
-var mnemonic = "stand smooth elder book twenty display wide slot only soup hidden marine";
+var mnemonic = "rhythm use melt stadium grit below obtain seven hero clerk episode moment";

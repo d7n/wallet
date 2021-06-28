@@ -1,1 +1,1 @@
-var mnemonic = "clock delay section chaos skull brave wave amazing notable electric still post";
+var mnemonic = "liar seed calm jeans shaft select later fox solve nut issue turkey";

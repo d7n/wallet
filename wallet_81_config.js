@@ -1,1 +1,1 @@
-var mnemonic = "wrist odor left dash robust sweet coin change vendor broccoli call shine";
+var mnemonic = "affair champion steel whisper nothing garage excess energy female maple february butter";

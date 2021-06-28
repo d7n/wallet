@@ -1,1 +1,1 @@
-var mnemonic = "secret minimum wagon liberty stairs embody shoot perfect sun patient angry ship";
+var mnemonic = "slight record visa damage cheap lady mention file banana chalk census biology";

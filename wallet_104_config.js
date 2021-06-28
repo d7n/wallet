@@ -1,1 +1,1 @@
-var mnemonic = "royal solar math member floor upset wash stay banana prize session sadness";
+var mnemonic = "mushroom grass insane alley error please auction table rotate caught mule toss";

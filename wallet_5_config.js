@@ -1,1 +1,1 @@
-var mnemonic = "armed various orbit tell roast blast fold throw major pluck popular very";
+var mnemonic = "oblige trouble crop release yard east hollow mad grant balance mixture jeans";

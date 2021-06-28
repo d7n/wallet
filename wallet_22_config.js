@@ -1,1 +1,1 @@
-var mnemonic = "stereo record trophy person witness nation tomato hidden soft shoot coral busy";
+var mnemonic = "patrol put cinnamon cross attitude gospel vivid crisp decade dumb choose extend";

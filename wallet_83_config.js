@@ -1,1 +1,1 @@
-var mnemonic = "tunnel super found title omit muscle noodle open uncover company sock zone";
+var mnemonic = "nice frog cream antenna burden endorse funny cover couch common either hunt";

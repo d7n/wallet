@@ -1,1 +1,1 @@
-var mnemonic = "taste awkward beyond surge can business proud bundle quantum van oak genuine";
+var mnemonic = "salt ship flash false carpet side enter craft weird sign piece network";

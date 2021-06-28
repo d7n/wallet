@@ -1,1 +1,1 @@
-var mnemonic = "paper obvious same payment pencil deliver myself tray guess skirt side exhibit";
+var mnemonic = "wage cargo iron siren concert three nuclear pair language farm actor myth";

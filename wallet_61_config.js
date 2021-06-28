@@ -1,1 +1,1 @@
-var mnemonic = "poet retire total nice three vacuum plate broccoli essay orphan say oblige";
+var mnemonic = "squirrel medal erode awkward harsh evolve galaxy engine ignore name tone inherit";

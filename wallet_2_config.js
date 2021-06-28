@@ -1,1 +1,1 @@
-var mnemonic = "forum satisfy document permit foot demise slam nerve favorite music adjust danger";
+var mnemonic = "pudding review blanket master devote size ill zone filter ethics actress curve";

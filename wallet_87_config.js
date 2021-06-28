@@ -1,1 +1,1 @@
-var mnemonic = "hint deny mind shiver budget spread tide icon staff tent stairs cash";
+var mnemonic = "saddle island syrup syrup arctic chase chalk math soft fork erosion ten";

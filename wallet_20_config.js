@@ -1,1 +1,1 @@
-var mnemonic = "afraid ill regret foot pipe alarm cycle flight bomb market trip twice";
+var mnemonic = "pyramid modify dress youth raven boring short relief good output panther settle";

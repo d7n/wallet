@@ -1,1 +1,1 @@
-var mnemonic = "spike effort comfort level zoo pencil gather blanket lecture science account wasp";
+var mnemonic = "rough divert cool improve fatigue awful athlete stick cinnamon cat plunge second";

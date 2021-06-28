@@ -1,1 +1,1 @@
-var mnemonic = "very someone vacant buyer session private ancient tell demise swim brief humor";
+var mnemonic = "before rocket side gospel disorder run slim aunt narrow plug stock fine";

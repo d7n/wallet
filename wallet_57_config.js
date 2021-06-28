@@ -1,1 +1,1 @@
-var mnemonic = "body disagree trust timber sauce life sing dumb boost grain fog inhale";
+var mnemonic = "strong green october short first danger wool insect punch august fiction shaft";

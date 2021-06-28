@@ -1,1 +1,1 @@
-var mnemonic = "fork meat punch will auction middle dune father skirt steak venue sword";
+var mnemonic = "tag nominee tomato actress tuna butter calm wait power sense hand thunder";

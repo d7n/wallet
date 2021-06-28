@@ -1,1 +1,1 @@
-var mnemonic = "label bind era proof august salmon border upper danger priority daughter danger";
+var mnemonic = "also buzz gym furnace faith brave gain fade cause blanket effort icon";

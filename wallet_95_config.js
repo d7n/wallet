@@ -1,1 +1,1 @@
-var mnemonic = "flavor clump twin best mixed powder analyst hedgehog alcohol olympic avocado hundred";
+var mnemonic = "certain reward burden stem grief olive sugar deposit boat double grit panic";

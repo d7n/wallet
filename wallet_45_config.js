@@ -1,1 +1,1 @@
-var mnemonic = "unfold good scatter biology fiction invite grocery jealous pyramid street cabin limb";
+var mnemonic = "chaos slight insane nose digital round stick glue kidney labor chuckle lava";

@@ -1,1 +1,1 @@
-var mnemonic = "toss van visit attitude nest minimum paper bright owner lava desk direct";
+var mnemonic = "before any select army kite voice desk sugar panda awake acoustic glory";

@@ -1,1 +1,1 @@
-var mnemonic = "distance palace advance oppose antenna crunch network sing diet napkin during primary";
+var mnemonic = "steel kid celery certain check village table major notice horror economy small";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny ensure icon juice wide walnut limit game tail grief language kit";
+var mnemonic = "owner zero text story bicycle velvet top hobby wish blast daring enemy";

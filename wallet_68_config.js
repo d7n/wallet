@@ -1,1 +1,1 @@
-var mnemonic = "taste pig riot robust example defy wet warm assault draft tray globe";
+var mnemonic = "era bunker bulk able margin delay among topple okay wise laugh enhance";

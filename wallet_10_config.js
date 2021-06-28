@@ -1,1 +1,1 @@
-var mnemonic = "hidden iron hen treat police throw taste issue reject ask they super";
+var mnemonic = "odor exile inherit energy eight trim waste great invest senior six ahead";

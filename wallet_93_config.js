@@ -1,1 +1,1 @@
-var mnemonic = "oven glance letter famous chunk bachelor health when soda regret soul rough";
+var mnemonic = "lunch travel item audit museum multiply milk winter heavy news base sheriff";

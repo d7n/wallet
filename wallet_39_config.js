@@ -1,1 +1,1 @@
-var mnemonic = "crazy fox law fantasy flash swap adapt myself yellow bag spray risk";
+var mnemonic = "wire wealth scissors lottery robot sense cannon husband only curious seat monkey";

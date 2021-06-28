@@ -1,1 +1,1 @@
-var mnemonic = "able castle huge real hospital liberty volume account ignore pigeon trim attend";
+var mnemonic = "struggle can now coral flame slim theory stumble climb speak evolve bullet";

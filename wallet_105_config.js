@@ -1,1 +1,1 @@
-var mnemonic = "praise circle apart polar pet erase trash crucial shaft connect ghost explain";
+var mnemonic = "merge speed educate hub coin absorb dumb spawn century target address smile";

@@ -1,1 +1,1 @@
-var mnemonic = "deliver still deputy accident hollow impulse smart cheap yard dynamic bring casino";
+var mnemonic = "hip feature mirror under mail age innocent drop seminar merit elegant torch";

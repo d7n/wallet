@@ -1,1 +1,1 @@
-var mnemonic = "noise nut picnic unlock palace behave shed smooth wink snap pave this";
+var mnemonic = "south unveil ordinary parrot month stomach huge chapter draw quarter mesh damage";

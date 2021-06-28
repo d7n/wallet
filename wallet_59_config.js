@@ -1,1 +1,1 @@
-var mnemonic = "cereal prevent turn lawsuit great bird radar scissors exhibit pool sphere cross";
+var mnemonic = "veteran tragic abandon moon tent that else this wreck town tiny stable";

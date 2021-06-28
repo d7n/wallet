@@ -1,1 +1,1 @@
-var mnemonic = "today fix guard cargo guard audit top piece uphold wait crumble wave";
+var mnemonic = "biology grape solve retire someone ivory hurdle nuclear sword clump never rich";

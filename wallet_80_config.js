@@ -1,1 +1,1 @@
-var mnemonic = "cost travel wolf absorb pizza stay soap before catalog orange sting wonder";
+var mnemonic = "survey second away flower jelly garden ethics ring cable diary route arrow";

@@ -1,1 +1,1 @@
-var mnemonic = "secret dance suit all nation emotion mass voyage mixture pull mammal solution";
+var mnemonic = "loan either allow hub under weird sell number decrease decorate next push";

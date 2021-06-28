@@ -1,1 +1,1 @@
-var mnemonic = "wish mushroom purse clap come element atom say picture regret fix gym";
+var mnemonic = "leader please shoot skirt kitchen pigeon powder push divert grace stick code";

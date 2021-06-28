@@ -1,1 +1,1 @@
-var mnemonic = "deer mansion talk front hat glory make fruit good kitten lounge live";
+var mnemonic = "step crouch casual destroy truck embrace shiver hockey annual rent jump saddle";

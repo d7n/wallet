@@ -1,1 +1,1 @@
-var mnemonic = "elegant risk motor simple lamp invite speak submit winner critic acid reason";
+var mnemonic = "nothing clay famous rural misery sock purse mystery arena blast fade point";

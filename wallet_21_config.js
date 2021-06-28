@@ -1,1 +1,1 @@
-var mnemonic = "blast vicious repair chat trigger noodle okay traffic husband body wire town";
+var mnemonic = "bubble divide loud silly hour boat hint deliver initial drastic fade empower";

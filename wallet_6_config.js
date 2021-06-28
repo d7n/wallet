@@ -1,1 +1,1 @@
-var mnemonic = "sweet cannon margin hill south lumber harvest rocket tuition coffee valve illness";
+var mnemonic = "wage cement gorilla source predict dwarf gift hair crime cave conduct dizzy";

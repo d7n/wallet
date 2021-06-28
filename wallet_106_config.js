@@ -1,1 +1,1 @@
-var mnemonic = "copy cotton embark beyond renew inspire idea chase ice cliff weasel olive";
+var mnemonic = "stand effort lottery scorpion scale fine anger risk sound supply vocal narrow";

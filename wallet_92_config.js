@@ -1,1 +1,1 @@
-var mnemonic = "butter injury magic sting fire relax purpose emotion robust ripple garment motion";
+var mnemonic = "inject captain milk innocent roof bless love demand science mother guess video";

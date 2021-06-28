@@ -1,1 +1,1 @@
-var mnemonic = "tonight mirror wide before assist protect pluck measure autumn flight camp cause";
+var mnemonic = "autumn staff second stay base decline category ensure select fan jazz work";

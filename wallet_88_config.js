@@ -1,1 +1,1 @@
-var mnemonic = "access copper cook proof diary whip drift penalty behave finger disorder key";
+var mnemonic = "hero drop stable sketch easily dignity pistol result ugly during crisp pool";

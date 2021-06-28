@@ -1,1 +1,1 @@
-var mnemonic = "vintage gift portion decorate volume man raven tip raven purchase notice skate";
+var mnemonic = "into refuse wasp cactus blush comic deliver cover resource ugly regret skill";

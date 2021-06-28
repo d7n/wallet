@@ -1,1 +1,1 @@
-var mnemonic = "devote film cram wisdom cook rib buffalo vibrant depend cruise consider gate";
+var mnemonic = "tortoise job bright castle over silly dose fox coach much pitch ranch";

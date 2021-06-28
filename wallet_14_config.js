@@ -1,1 +1,1 @@
-var mnemonic = "spatial enhance coconut jazz remember salmon stumble spot leg car change peace";
+var mnemonic = "tornado wrong laugh around police estate seven broccoli disorder february awful roof";

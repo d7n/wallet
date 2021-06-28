@@ -1,1 +1,1 @@
-var mnemonic = "nice noodle extend shoot knock forum domain cave list sponsor nature subway";
+var mnemonic = "robust inspire unit choose auction you welcome spy race grief dragon cart";

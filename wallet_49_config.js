@@ -1,1 +1,1 @@
-var mnemonic = "broom obtain candy design bar blossom blur unique fashion strong say shift";
+var mnemonic = "torch certain choose friend speak city you witness van vote robust phone";

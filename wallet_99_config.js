@@ -1,1 +1,1 @@
-var mnemonic = "galaxy multiply knee art infant sorry predict expect detail produce silk switch";
+var mnemonic = "effort way arctic embody point winter topic little aerobic general police gauge";

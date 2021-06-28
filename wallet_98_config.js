@@ -1,1 +1,1 @@
-var mnemonic = "wife cargo digital royal trophy join lonely antenna hidden reflect brick issue";
+var mnemonic = "crack abuse drink face test finger enemy vacuum remove pull giraffe gas";

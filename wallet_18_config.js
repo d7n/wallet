@@ -1,1 +1,1 @@
-var mnemonic = "winter blush apple news grain remember assist egg eternal eight mountain ribbon";
+var mnemonic = "better captain rose animal zoo canyon enhance menu question train street giraffe";

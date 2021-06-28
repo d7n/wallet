@@ -1,1 +1,1 @@
-var mnemonic = "agent exile flavor make blue hawk kangaroo guide derive tackle crime snack";
+var mnemonic = "museum celery clown bus blast reunion grunt paper fee biology junk delay";

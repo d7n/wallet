@@ -1,1 +1,1 @@
-var mnemonic = "ketchup recipe eye banana point razor juice mushroom risk force figure space";
+var mnemonic = "dust card blast minor happy example tobacco jump piano purse relief worth";

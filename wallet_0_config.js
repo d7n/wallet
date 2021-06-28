@@ -1,1 +1,1 @@
-var mnemonic = "nice bicycle blanket dice walk frown park lava exist dynamic supreme catalog";
+var mnemonic = "industry dizzy sunny congress step creek price chief find help sudden science";

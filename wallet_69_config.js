@@ -1,1 +1,1 @@
-var mnemonic = "tonight any cancel rural leisure stuff jealous gift abuse neutral trend illegal";
+var mnemonic = "carbon adult response trigger fitness humble claim biology funny globe will hobby";

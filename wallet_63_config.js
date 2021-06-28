@@ -1,1 +1,1 @@
-var mnemonic = "resemble april ecology brain render gate gown fringe rice junior cancel subway";
+var mnemonic = "among speak artefact erosion cement physical question super decrease predict clerk claim";

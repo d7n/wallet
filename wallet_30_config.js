@@ -1,1 +1,1 @@
-var mnemonic = "road gas bird cat mercy sibling swift veteran lamp shock mind spider";
+var mnemonic = "satisfy wedding dinner hammer child arrange beyond divorce found mixed lonely curtain";

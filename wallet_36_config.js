@@ -1,1 +1,1 @@
-var mnemonic = "identify rain digital chair autumn someone canyon stick virus plunge nasty unique";
+var mnemonic = "picture senior direct ridge observe kangaroo sun few fence toy truly arrow";

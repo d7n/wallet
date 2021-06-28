@@ -1,1 +1,1 @@
-var mnemonic = "where cheese blame fold special spy must afford apology twin build uniform";
+var mnemonic = "cube impact clock gorilla strike before balcony arena oval wool people life";

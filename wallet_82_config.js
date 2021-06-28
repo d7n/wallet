@@ -1,1 +1,1 @@
-var mnemonic = "trip slide zebra only system miss garage unique limb discover monkey exile";
+var mnemonic = "space source drive price talk scene trick dry battle arch nasty off";

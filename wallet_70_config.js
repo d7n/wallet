@@ -1,1 +1,1 @@
-var mnemonic = "amateur behave add tonight aunt long garden again luggage pledge record depth";
+var mnemonic = "just sniff month diagram goat close heavy tube sniff beef tackle oblige";

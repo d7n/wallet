@@ -1,1 +1,1 @@
-var mnemonic = "weather car balance snake panel analyst column amazing gun coconut forest horror";
+var mnemonic = "popular exile two exit business rail between okay stable team unfair agree";

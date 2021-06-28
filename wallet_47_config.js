@@ -1,1 +1,1 @@
-var mnemonic = "trick stamp torch cement patient island acquire gossip rib settle champion cigar";
+var mnemonic = "inside sight excite hole sun fade only climb boss pizza there ancient";

@@ -1,1 +1,1 @@
-var mnemonic = "never few physical capital update tragic help recycle payment plug return solution";
+var mnemonic = "bench trim affair member nerve horror announce whip car frost adjust dilemma";

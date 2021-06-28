@@ -1,1 +1,1 @@
-var mnemonic = "write machine cloud army over exchange orchard bacon like dinner cabin reopen";
+var mnemonic = "actress identify three lonely coyote model fury casino doctor hero tobacco rain";

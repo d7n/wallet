@@ -1,1 +1,1 @@
-var mnemonic = "capital curve clarify pear reflect borrow foot arena deer exit current stadium";
+var mnemonic = "bicycle flush boost donor suspect grain call kind alarm seminar crime divert";

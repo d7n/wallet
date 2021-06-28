@@ -1,1 +1,1 @@
-var mnemonic = "parrot hazard jewel junk spawn rhythm turtle fitness pluck coral couch sound";
+var mnemonic = "paper odor board rifle issue peasant oak disagree dutch item roast poem";

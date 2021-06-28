@@ -1,1 +1,1 @@
-var mnemonic = "drift aspect park bright champion two pledge spice develop frequent glide truly";
+var mnemonic = "decide random worth cream portion harsh body summer bracket region return afraid";

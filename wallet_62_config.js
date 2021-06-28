@@ -1,1 +1,1 @@
-var mnemonic = "wise skull garden mimic swarm obscure speed gospel beyond allow timber palm";
+var mnemonic = "famous drum since protect pepper neglect wave conduct juice snap slim industry";

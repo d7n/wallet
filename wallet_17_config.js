@@ -1,1 +1,1 @@
-var mnemonic = "useless silk design bulb vessel original submit midnight flat find undo mango";
+var mnemonic = "husband dolphin coach drama monkey such timber today equip noodle attract person";

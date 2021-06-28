@@ -1,1 +1,1 @@
-var mnemonic = "liquid violin emerge gas clog vacant story input inner fitness butter glove";
+var mnemonic = "gather weather symptom worry color mushroom hungry soldier old square easily early";

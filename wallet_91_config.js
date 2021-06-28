@@ -1,1 +1,1 @@
-var mnemonic = "awake very wonder awful prison book dress evidence inch faith coyote garden";
+var mnemonic = "canyon wrap vivid guard laptop chapter retire banana culture element scale loan";

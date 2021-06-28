@@ -1,1 +1,1 @@
-var mnemonic = "like lyrics exercise series demand animal moral iron arrange soon east help";
+var mnemonic = "equip shell way agree frog human visa warm update enroll lunch ill";

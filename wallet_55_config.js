@@ -1,1 +1,1 @@
-var mnemonic = "client feature nature tilt error limb daring absent situate devote shallow salon";
+var mnemonic = "helmet tenant deliver just joke dynamic artwork silent crush twenty large capital";

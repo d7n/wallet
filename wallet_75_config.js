@@ -1,1 +1,1 @@
-var mnemonic = "riot laundry punch wire crunch add inch december hub axis pipe wedding";
+var mnemonic = "paddle catalog churn endless muscle rally group behave thunder lady size silver";

@@ -1,1 +1,1 @@
-var mnemonic = "dial squirrel sword liquid bring shuffle enhance gift first girl taste pact";
+var mnemonic = "expect cliff rural lobster blossom pioneer profit dawn churn iron high agree";

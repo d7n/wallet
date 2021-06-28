@@ -1,1 +1,1 @@
-var mnemonic = "trap awful private flame frown pledge quote bird bracket review twist when";
+var mnemonic = "monitor cry below month price rookie journey hidden merit farm camp connect";

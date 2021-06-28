@@ -1,1 +1,1 @@
-var mnemonic = "obscure ostrich tomorrow license width travel grunt drum sunny february clean wheel";
+var mnemonic = "indicate skull inflict conduct tag property protect furnace matrix toe effort north";

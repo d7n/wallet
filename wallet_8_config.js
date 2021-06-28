@@ -1,1 +1,1 @@
-var mnemonic = "nature bottom mushroom forum century regret forum replace satisfy rescue jazz system";
+var mnemonic = "clever thank dutch bargain arrive luxury swim fix load exercise fortune neck";

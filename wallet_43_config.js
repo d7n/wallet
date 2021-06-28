@@ -1,1 +1,1 @@
-var mnemonic = "border display scrub basket corn veteran drop reform border wagon ivory father";
+var mnemonic = "immune mixed winter coach topic extend trust raccoon argue betray surprise diesel";

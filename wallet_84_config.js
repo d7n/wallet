@@ -1,1 +1,1 @@
-var mnemonic = "language drama radar ecology nice void venture youth wet craft peasant number";
+var mnemonic = "foam dilemma seminar exist such air shuffle life artist dolphin veteran captain";

@@ -1,1 +1,1 @@
-var mnemonic = "can lumber arena fortune vessel globe loud fortune genre web mushroom run";
+var mnemonic = "palm federal foot upgrade damage work soul lesson traffic purchase aisle worry";

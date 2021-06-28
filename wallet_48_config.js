@@ -1,1 +1,1 @@
-var mnemonic = "duck basket chaos blast science where use fiction want bomb click good";
+var mnemonic = "keep cattle lottery advance sail pond frown segment myth puzzle deposit sausage";
