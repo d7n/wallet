@@ -1,1 +1,1 @@
-var mnemonic = "biology grape solve retire someone ivory hurdle nuclear sword clump never rich";
+var mnemonic = "penalty benefit assault shift another biology oppose income wild garage erode again";

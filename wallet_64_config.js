@@ -1,1 +1,1 @@
-var mnemonic = "leader please shoot skirt kitchen pigeon powder push divert grace stick code";
+var mnemonic = "gold monkey material rack defense body sea dial express humble attack acoustic";

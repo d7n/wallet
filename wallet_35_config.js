@@ -1,1 +1,1 @@
-var mnemonic = "gather weather symptom worry color mushroom hungry soldier old square easily early";
+var mnemonic = "kick primary chaos electric lucky liar thrive engine stamp stumble comic curtain";

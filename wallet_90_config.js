@@ -1,1 +1,1 @@
-var mnemonic = "rack crystal camera neither state cinnamon shine noodle lab catch example pelican";
+var mnemonic = "leg chronic loan dash daring aim inner art gorilla eager spell meadow";

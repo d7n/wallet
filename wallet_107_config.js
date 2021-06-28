@@ -1,1 +1,1 @@
-var mnemonic = "tortoise job bright castle over silly dose fox coach much pitch ranch";
+var mnemonic = "agree very obey reveal balance clay cereal again seed cloth outside stuff";

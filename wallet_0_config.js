@@ -1,1 +1,1 @@
-var mnemonic = "industry dizzy sunny congress step creek price chief find help sudden science";
+var mnemonic = "detail hammer very vocal shaft false search fiscal tobacco dilemma blast garbage";

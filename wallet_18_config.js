@@ -1,1 +1,1 @@
-var mnemonic = "better captain rose animal zoo canyon enhance menu question train street giraffe";
+var mnemonic = "hat because buyer high usage task daring bid bar coyote west hover";

@@ -1,1 +1,1 @@
-var mnemonic = "robust inspire unit choose auction you welcome spy race grief dragon cart";
+var mnemonic = "tortoise ridge divert violin equip coconut nothing ladder this curious apple order";

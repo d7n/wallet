@@ -1,1 +1,1 @@
-var mnemonic = "just sniff month diagram goat close heavy tube sniff beef tackle oblige";
+var mnemonic = "similar wedding affair name local school else vivid audit filter smart express";

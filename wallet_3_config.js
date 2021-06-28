@@ -1,1 +1,1 @@
-var mnemonic = "autumn staff second stay base decline category ensure select fan jazz work";
+var mnemonic = "very hard real digital when hidden there hobby truly spy flip satoshi";

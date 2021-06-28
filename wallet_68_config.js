@@ -1,1 +1,1 @@
-var mnemonic = "era bunker bulk able margin delay among topple okay wise laugh enhance";
+var mnemonic = "guard wonder hello bring robot test weapon carpet inform purse attack kangaroo";

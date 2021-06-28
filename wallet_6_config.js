@@ -1,1 +1,1 @@
-var mnemonic = "wage cement gorilla source predict dwarf gift hair crime cave conduct dizzy";
+var mnemonic = "wear bag all slot interest brother cabbage paper awful solve couch plate";

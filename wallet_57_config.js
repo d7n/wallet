@@ -1,1 +1,1 @@
-var mnemonic = "strong green october short first danger wool insect punch august fiction shaft";
+var mnemonic = "ugly farm ice bullet tail fatigue wave submit siren fluid hazard tuition";

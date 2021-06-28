@@ -1,1 +1,1 @@
-var mnemonic = "indicate skull inflict conduct tag property protect furnace matrix toe effort north";
+var mnemonic = "party finish memory custom cool deposit pond dune dumb innocent village donate";

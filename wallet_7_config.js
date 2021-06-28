@@ -1,1 +1,1 @@
-var mnemonic = "decide random worth cream portion harsh body summer bracket region return afraid";
+var mnemonic = "raven sibling theme monster nation water half bulb result coral decorate almost";

@@ -1,1 +1,1 @@
-var mnemonic = "actress identify three lonely coyote model fury casino doctor hero tobacco rain";
+var mnemonic = "hybrid dry parade donor plate output diesel cream seek under cover flee";

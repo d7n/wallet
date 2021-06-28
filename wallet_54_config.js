@@ -1,1 +1,1 @@
-var mnemonic = "owner zero text story bicycle velvet top hobby wish blast daring enemy";
+var mnemonic = "above half defy heavy rifle clarify live object goddess sell soon involve";

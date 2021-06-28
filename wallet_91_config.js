@@ -1,1 +1,1 @@
-var mnemonic = "canyon wrap vivid guard laptop chapter retire banana culture element scale loan";
+var mnemonic = "youth announce fragile never always famous unfair taste gloom fever grain worth";

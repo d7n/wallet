@@ -1,1 +1,1 @@
-var mnemonic = "mushroom grass insane alley error please auction table rotate caught mule toss";
+var mnemonic = "happy oval avoid beef elevator chaos lazy answer hurt trap day cushion";

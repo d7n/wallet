@@ -1,1 +1,1 @@
-var mnemonic = "certain reward burden stem grief olive sugar deposit boat double grit panic";
+var mnemonic = "puzzle idea wall wide easily nerve fault potato attend develop sudden shed";

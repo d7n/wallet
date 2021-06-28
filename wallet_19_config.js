@@ -1,1 +1,1 @@
-var mnemonic = "before any select army kite voice desk sugar panda awake acoustic glory";
+var mnemonic = "duck sphere year tank benefit proud wisdom embrace label million fiscal kiwi";

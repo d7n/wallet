@@ -1,1 +1,1 @@
-var mnemonic = "monster pony afford cover ancient theme accuse casual cave entry fragile bar";
+var mnemonic = "length expand lady load rescue board timber boost pattern syrup reveal tongue";

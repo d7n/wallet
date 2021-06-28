@@ -1,1 +1,1 @@
-var mnemonic = "suffer history marriage swarm mandate maze honey month army bulk update consider";
+var mnemonic = "account light village trumpet sugar link poem junior seminar supply worry farm";

@@ -1,1 +1,1 @@
-var mnemonic = "also buzz gym furnace faith brave gain fade cause blanket effort icon";
+var mnemonic = "cinnamon depart depart allow february ugly execute equip card replace core lion";

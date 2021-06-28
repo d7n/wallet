@@ -1,1 +1,1 @@
-var mnemonic = "helmet tenant deliver just joke dynamic artwork silent crush twenty large capital";
+var mnemonic = "capital bulk palace salt nurse sword olympic impulse grunt mention trade list";

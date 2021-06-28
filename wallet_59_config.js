@@ -1,1 +1,1 @@
-var mnemonic = "veteran tragic abandon moon tent that else this wreck town tiny stable";
+var mnemonic = "injury lonely luggage lock wolf flower anger sight trap runway veteran wheel";

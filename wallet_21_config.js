@@ -1,1 +1,1 @@
-var mnemonic = "bubble divide loud silly hour boat hint deliver initial drastic fade empower";
+var mnemonic = "best shed life topple brain catalog pipe safe loop vault cycle boring";

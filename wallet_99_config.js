@@ -1,1 +1,1 @@
-var mnemonic = "effort way arctic embody point winter topic little aerobic general police gauge";
+var mnemonic = "manual athlete dune bracket always recipe edge minor vocal harsh junior stumble";

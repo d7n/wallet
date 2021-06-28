@@ -1,1 +1,1 @@
-var mnemonic = "cheap smile escape fatal blue one soap discover zoo solve entire awkward";
+var mnemonic = "token thunder bird split aerobic pulp top expose celery alarm city recycle";

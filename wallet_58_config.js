@@ -1,1 +1,1 @@
-var mnemonic = "dragon young climb eagle summer cry man horror burden square series father";
+var mnemonic = "toss page fossil style avocado mango rural solve scene crash glass swift";

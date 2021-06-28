@@ -1,1 +1,1 @@
-var mnemonic = "liar seed calm jeans shaft select later fox solve nut issue turkey";
+var mnemonic = "post space undo cabin rebuild rifle wrestle priority luggage friend rubber obey";

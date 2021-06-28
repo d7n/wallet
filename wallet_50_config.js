@@ -1,1 +1,1 @@
-var mnemonic = "apple walk buddy alarm pitch much asthma multiply detect slim tape must";
+var mnemonic = "effort bless inhale unable forest hedgehog alcohol hazard scatter card avoid suffer";

@@ -1,1 +1,1 @@
-var mnemonic = "chaos slight insane nose digital round stick glue kidney labor chuckle lava";
+var mnemonic = "december speak slight infant solid enhance gift solve lock depth flame favorite";

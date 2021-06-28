@@ -1,1 +1,1 @@
-var mnemonic = "oblige trouble crop release yard east hollow mad grant balance mixture jeans";
+var mnemonic = "hurry great brass peanut sword win luggage element wing cup square long";

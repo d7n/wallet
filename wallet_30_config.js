@@ -1,1 +1,1 @@
-var mnemonic = "satisfy wedding dinner hammer child arrange beyond divorce found mixed lonely curtain";
+var mnemonic = "sail melody picture group ugly curious usual athlete zoo face pretty airport";

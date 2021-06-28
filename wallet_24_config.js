@@ -1,1 +1,1 @@
-var mnemonic = "salt ship flash false carpet side enter craft weird sign piece network";
+var mnemonic = "provide device square finger senior leader milk blur ticket suspect phone follow";

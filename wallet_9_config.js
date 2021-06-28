@@ -1,1 +1,1 @@
-var mnemonic = "found real divert share mosquito cloth slide learn latin enable chuckle laundry";
+var mnemonic = "viable love puppy frame yard solid volcano diesel dog ankle melody web";

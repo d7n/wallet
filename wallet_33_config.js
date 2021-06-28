@@ -1,1 +1,1 @@
-var mnemonic = "elevator cake mobile produce they resource leisure airport caught diagram leopard smoke";
+var mnemonic = "fall work flat join sick crime excuse turtle photo during subway minor";

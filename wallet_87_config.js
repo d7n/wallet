@@ -1,1 +1,1 @@
-var mnemonic = "saddle island syrup syrup arctic chase chalk math soft fork erosion ten";
+var mnemonic = "seminar wedding popular dice success excite market trip exact ginger cat boil";

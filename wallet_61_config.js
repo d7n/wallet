@@ -1,1 +1,1 @@
-var mnemonic = "squirrel medal erode awkward harsh evolve galaxy engine ignore name tone inherit";
+var mnemonic = "churn inch column season bulb order bread fee portion intact present below";

@@ -1,1 +1,1 @@
-var mnemonic = "expect cliff rural lobster blossom pioneer profit dawn churn iron high agree";
+var mnemonic = "baby gallery fan thrive vast skate pond mixture sail recipe spice gaze";

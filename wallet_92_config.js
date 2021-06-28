@@ -1,1 +1,1 @@
-var mnemonic = "inject captain milk innocent roof bless love demand science mother guess video";
+var mnemonic = "goat total donkey give original slush check digital friend please taxi spoil";

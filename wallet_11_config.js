@@ -1,1 +1,1 @@
-var mnemonic = "equal upset crush during fatigue first essence flight inquiry engage coyote clump";
+var mnemonic = "spell almost loan balcony salmon wrestle that accuse salad tortoise furnace come";

@@ -1,1 +1,1 @@
-var mnemonic = "keep cattle lottery advance sail pond frown segment myth puzzle deposit sausage";
+var mnemonic = "spray hunt hawk purchase soccer shrug cliff enroll cook heavy ethics private";

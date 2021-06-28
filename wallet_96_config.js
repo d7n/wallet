@@ -1,1 +1,1 @@
-var mnemonic = "actual comfort jelly loop perfect gift forget chest wash learn grass exhaust";
+var mnemonic = "rare flat put swim coffee slice grain salmon blast donate capable lazy";

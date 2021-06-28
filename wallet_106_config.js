@@ -1,1 +1,1 @@
-var mnemonic = "stand effort lottery scorpion scale fine anger risk sound supply vocal narrow";
+var mnemonic = "unfair around anxiety heavy mesh segment kick dismiss trophy people library romance";

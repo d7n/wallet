@@ -1,1 +1,1 @@
-var mnemonic = "affair champion steel whisper nothing garage excess energy female maple february butter";
+var mnemonic = "sure pipe artist bullet ceiling laugh risk potato novel foot cancel answer";

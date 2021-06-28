@@ -1,1 +1,1 @@
-var mnemonic = "paper odor board rifle issue peasant oak disagree dutch item roast poem";
+var mnemonic = "wreck tool rely liar warm flock crawl theme erase chair unable diesel";

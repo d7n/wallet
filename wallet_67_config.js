@@ -1,1 +1,1 @@
-var mnemonic = "equip shell way agree frog human visa warm update enroll lunch ill";
+var mnemonic = "fine peasant noodle local tide common fancy staff flash eternal inflict strike";

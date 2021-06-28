@@ -1,1 +1,1 @@
-var mnemonic = "steel kid celery certain check village table major notice horror economy small";
+var mnemonic = "congress mean maze neutral rent congress wear monkey pitch mask betray blush";

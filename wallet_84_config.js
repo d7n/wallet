@@ -1,1 +1,1 @@
-var mnemonic = "foam dilemma seminar exist such air shuffle life artist dolphin veteran captain";
+var mnemonic = "mystery know trap dumb split tackle favorite dinosaur forward remind model surge";

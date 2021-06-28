@@ -1,1 +1,1 @@
-var mnemonic = "south unveil ordinary parrot month stomach huge chapter draw quarter mesh damage";
+var mnemonic = "kick stool talent chapter tent regret guilt monitor capable visual tube indicate";

@@ -1,1 +1,1 @@
-var mnemonic = "wire wealth scissors lottery robot sense cannon husband only curious seat monkey";
+var mnemonic = "enlist sister episode already glide head budget embark buzz orbit net fragile";

@@ -1,1 +1,1 @@
-var mnemonic = "husband dolphin coach drama monkey such timber today equip noodle attract person";
+var mnemonic = "section spot cake outdoor sell bird idea else bread endless flower clap";

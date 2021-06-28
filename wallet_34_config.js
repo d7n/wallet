@@ -1,1 +1,1 @@
-var mnemonic = "segment brand glory surge hover kiss object learn actor brother dutch soft";
+var mnemonic = "achieve ripple purchase slender stage stamp poverty rescue crush devote thank spoon";

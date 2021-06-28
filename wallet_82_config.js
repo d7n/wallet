@@ -1,1 +1,1 @@
-var mnemonic = "space source drive price talk scene trick dry battle arch nasty off";
+var mnemonic = "west sense sphere left crash despair apple now bicycle disease strike relief";

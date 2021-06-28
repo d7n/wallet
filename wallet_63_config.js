@@ -1,1 +1,1 @@
-var mnemonic = "among speak artefact erosion cement physical question super decrease predict clerk claim";
+var mnemonic = "truth excuse advice tattoo peasant rubber flash load hungry muffin control boss";

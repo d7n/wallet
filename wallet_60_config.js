@@ -1,1 +1,1 @@
-var mnemonic = "palm federal foot upgrade damage work soul lesson traffic purchase aisle worry";
+var mnemonic = "daring pyramid fancy assume catch stove item divorce maximum cause soup ramp";

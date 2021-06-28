@@ -1,1 +1,1 @@
-var mnemonic = "popular exile two exit business rail between okay stable team unfair agree";
+var mnemonic = "fix width cloud pair correct meadow expose romance left detail mimic struggle";

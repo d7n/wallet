@@ -1,1 +1,1 @@
-var mnemonic = "gospel clever sad exclude position waste pizza army fame evolve ring cash";
+var mnemonic = "student twist soccer ridge violin craft tortoise silver scrub surface biology kind";

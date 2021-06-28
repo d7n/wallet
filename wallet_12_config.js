@@ -1,1 +1,1 @@
-var mnemonic = "clog cannon cactus soul list weekend kangaroo citizen table nephew need bargain";
+var mnemonic = "swear utility ancient tenant month march onion tomato camera tongue energy hand";

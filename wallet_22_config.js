@@ -1,1 +1,1 @@
-var mnemonic = "patrol put cinnamon cross attitude gospel vivid crisp decade dumb choose extend";
+var mnemonic = "tilt piece salon cloud behave cigar glove detect range until ring rescue";

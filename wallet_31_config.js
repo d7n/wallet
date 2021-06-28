@@ -1,1 +1,1 @@
-var mnemonic = "bench trim affair member nerve horror announce whip car frost adjust dilemma";
+var mnemonic = "trap speak cute hover play subway beyond notable quote envelope steak rebel";

@@ -1,1 +1,1 @@
-var mnemonic = "nice frog cream antenna burden endorse funny cover couch common either hunt";
+var mnemonic = "yellow bracket lumber anger adjust cover noodle tree crush social cigar opera";

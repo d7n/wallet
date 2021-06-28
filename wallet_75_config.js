@@ -1,1 +1,1 @@
-var mnemonic = "paddle catalog churn endless muscle rally group behave thunder lady size silver";
+var mnemonic = "measure resemble card fashion match usual sustain ramp reason giant eye hammer";

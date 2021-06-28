@@ -1,1 +1,1 @@
-var mnemonic = "benefit any uphold nephew owner release ridge sustain hurdle thing tag cinnamon";
+var mnemonic = "ten victory scale muscle inner truth coin shove pigeon can virtual luxury";

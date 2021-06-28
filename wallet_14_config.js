@@ -1,1 +1,1 @@
-var mnemonic = "tornado wrong laugh around police estate seven broccoli disorder february awful roof";
+var mnemonic = "off female term dog canyon humor swing thing sudden cover planet best";

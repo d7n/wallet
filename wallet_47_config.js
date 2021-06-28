@@ -1,1 +1,1 @@
-var mnemonic = "inside sight excite hole sun fade only climb boss pizza there ancient";
+var mnemonic = "envelope glare output canyon turn crush venue head wait law essay autumn";

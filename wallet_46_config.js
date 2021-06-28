@@ -1,1 +1,1 @@
-var mnemonic = "hip feature mirror under mail age innocent drop seminar merit elegant torch";
+var mnemonic = "twenty captain expand gravity sample state shadow lonely cotton bracket divorce coin";

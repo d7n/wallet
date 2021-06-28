@@ -1,1 +1,1 @@
-var mnemonic = "museum celery clown bus blast reunion grunt paper fee biology junk delay";
+var mnemonic = "bronze argue moral pig dash party favorite carry item garage hammer tree";

@@ -1,1 +1,1 @@
-var mnemonic = "wage cargo iron siren concert three nuclear pair language farm actor myth";
+var mnemonic = "join force seek whip cool reduce ice island calm provide apology atom";

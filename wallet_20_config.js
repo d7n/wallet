@@ -1,1 +1,1 @@
-var mnemonic = "pyramid modify dress youth raven boring short relief good output panther settle";
+var mnemonic = "kitchen width burden above syrup draft silly brick slim agent aware salad";

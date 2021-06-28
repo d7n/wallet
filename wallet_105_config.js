@@ -1,1 +1,1 @@
-var mnemonic = "merge speed educate hub coin absorb dumb spawn century target address smile";
+var mnemonic = "woman elegant praise original author congress shrimp odor rice lady obvious benefit";

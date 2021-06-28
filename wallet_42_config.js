@@ -1,1 +1,1 @@
-var mnemonic = "nothing clay famous rural misery sock purse mystery arena blast fade point";
+var mnemonic = "ribbon secret drastic stamp clever cabin cycle senior artefact goat sample clip";

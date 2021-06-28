@@ -1,1 +1,1 @@
-var mnemonic = "before rocket side gospel disorder run slim aunt narrow plug stock fine";
+var mnemonic = "aerobic aspect print extra battle cereal crush retreat spirit cancel absurd snap";

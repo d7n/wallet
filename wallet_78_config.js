@@ -1,1 +1,1 @@
-var mnemonic = "tag nominee tomato actress tuna butter calm wait power sense hand thunder";
+var mnemonic = "hockey winter panda ask rough print violin route canvas proud rain entry";

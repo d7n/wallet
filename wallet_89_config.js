@@ -1,1 +1,1 @@
-var mnemonic = "finger steak fashion alert castle license kingdom elephant mango amateur crack husband";
+var mnemonic = "grape praise hand resemble lawn ribbon basic faculty case squirrel survey flee";

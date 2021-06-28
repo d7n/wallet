@@ -1,1 +1,1 @@
-var mnemonic = "pudding review blanket master devote size ill zone filter ethics actress curve";
+var mnemonic = "great gravity crumble surround never void almost battle person stumble adapt sentence";

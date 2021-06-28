@@ -1,1 +1,1 @@
-var mnemonic = "gun embark isolate party broken fantasy time boss stomach bundle engine roast";
+var mnemonic = "only accident day endorse aim biology carry borrow okay boss husband burden";

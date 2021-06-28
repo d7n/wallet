@@ -1,1 +1,1 @@
-var mnemonic = "struggle can now coral flame slim theory stumble climb speak evolve bullet";
+var mnemonic = "brick almost steel swallow shoe deal usual potato gold stem thing clown";

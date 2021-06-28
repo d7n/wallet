@@ -1,1 +1,1 @@
-var mnemonic = "dust card blast minor happy example tobacco jump piano purse relief worth";
+var mnemonic = "aunt social empty evolve improve stick until square zebra exile attract moment";

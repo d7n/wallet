@@ -1,1 +1,1 @@
-var mnemonic = "lunch travel item audit museum multiply milk winter heavy news base sheriff";
+var mnemonic = "man embrace mail pepper pelican thumb ripple lobster acid empower father fury";

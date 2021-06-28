@@ -1,1 +1,1 @@
-var mnemonic = "guilt trick popular token deputy ahead embark reunion layer limb century use";
+var mnemonic = "pear burden letter moment awkward mad before fuel front razor wonder habit";

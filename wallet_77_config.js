@@ -1,1 +1,1 @@
-var mnemonic = "mind puppy produce fox option maid merry young tired scissors punch hover";
+var mnemonic = "regular tornado snap because poet stumble tragic material leaf setup husband basket";

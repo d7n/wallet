@@ -1,1 +1,1 @@
-var mnemonic = "bicycle flush boost donor suspect grain call kind alarm seminar crime divert";
+var mnemonic = "until fence roast evil hawk scorpion web already feel wrong limb retire";

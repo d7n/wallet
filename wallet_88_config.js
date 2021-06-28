@@ -1,1 +1,1 @@
-var mnemonic = "hero drop stable sketch easily dignity pistol result ugly during crisp pool";
+var mnemonic = "sunset use anger wise sad plug tooth tomorrow protect exile code sign";

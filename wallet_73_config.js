@@ -1,1 +1,1 @@
-var mnemonic = "guitar laptop old blind inside remind ball member sense memory child rare";
+var mnemonic = "outer consider card hobby genuine chimney filter proud initial toward cheese verb";

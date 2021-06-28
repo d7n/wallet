@@ -1,1 +1,1 @@
-var mnemonic = "slight record visa damage cheap lady mention file banana chalk census biology";
+var mnemonic = "response tonight pipe catch repair coral swamp beach heart web march tomorrow";

@@ -1,1 +1,1 @@
-var mnemonic = "rough divert cool improve fatigue awful athlete stick cinnamon cat plunge second";
+var mnemonic = "glow slow practice found neglect seat speak settle grocery glad weird fault";

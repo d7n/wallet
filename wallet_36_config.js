@@ -1,1 +1,1 @@
-var mnemonic = "picture senior direct ridge observe kangaroo sun few fence toy truly arrow";
+var mnemonic = "poet wood hawk shine laugh thumb keen expect ethics desert dumb mail";

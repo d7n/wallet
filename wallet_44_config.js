@@ -1,1 +1,1 @@
-var mnemonic = "climb velvet mutual next prefer brave submit cook length weasel mushroom february";
+var mnemonic = "sick quote vendor spy cruise discover they hammer know mother organ type";

@@ -1,1 +1,1 @@
-var mnemonic = "survey second away flower jelly garden ethics ring cable diary route arrow";
+var mnemonic = "lunar vote air invite forest latin grid boring shaft orphan typical identify";

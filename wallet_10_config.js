@@ -1,1 +1,1 @@
-var mnemonic = "odor exile inherit energy eight trim waste great invest senior six ahead";
+var mnemonic = "make tonight spatial obvious filter say obey boost tortoise cheap ride unfold";

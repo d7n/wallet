@@ -1,1 +1,1 @@
-var mnemonic = "cube impact clock gorilla strike before balcony arena oval wool people life";
+var mnemonic = "skin hidden genuine unit virtual hero action blossom turtle catch pudding when";
