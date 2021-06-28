@@ -1,1 +1,1 @@
-var mnemonic = "source million immense spoil divide tower spot mountain input weapon happy trial";
+var mnemonic = "balance refuse switch wheel canal hover lion journey planet arctic busy curious";

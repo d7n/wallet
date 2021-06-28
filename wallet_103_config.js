@@ -1,1 +1,1 @@
-var mnemonic = "grace trick pave assault fame usual setup list blame possible ship universe";
+var mnemonic = "december special urban dolphin spoon casino camp special goat cable report agree";

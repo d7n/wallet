@@ -1,1 +1,1 @@
-var mnemonic = "meadow moment charge aim rib sound together caution tourist depend awake canal";
+var mnemonic = "lottery section color scan nasty cup decline rude punch elder derive quit";

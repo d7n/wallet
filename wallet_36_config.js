@@ -1,1 +1,1 @@
-var mnemonic = "neither soft peasant moon soap december woman steak satoshi trouble length bomb";
+var mnemonic = "enough pizza plate express peasant young broccoli habit license aunt law soap";

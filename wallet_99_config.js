@@ -1,1 +1,1 @@
-var mnemonic = "torch unique basket drill kid document duck decorate assume cloth romance much";
+var mnemonic = "honey position life fragile shiver head catalog birth voyage sun ability dial";

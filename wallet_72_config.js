@@ -1,1 +1,1 @@
-var mnemonic = "lemon side moment mirror horror pigeon pool february void donor diet subject";
+var mnemonic = "kind nice meadow maid level warm half ethics certain soda announce subway";

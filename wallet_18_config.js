@@ -1,1 +1,1 @@
-var mnemonic = "goddess limit east regret float practice toe window stable rain frost giggle";
+var mnemonic = "later layer paper coconut lift put surround envelope attitude bullet vivid tone";

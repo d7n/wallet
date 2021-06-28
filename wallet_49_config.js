@@ -1,1 +1,1 @@
-var mnemonic = "box shadow together fee tool talent mistake follow toddler goose heart fork";
+var mnemonic = "almost hockey people tennis hub second clutch arrest artist romance coconut outside";

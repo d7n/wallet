@@ -1,1 +1,1 @@
-var mnemonic = "below mail twenty cement fold cabbage creek guide hope school badge foster";
+var mnemonic = "grass team nose party giggle candy excite oppose cupboard outer water amazing";

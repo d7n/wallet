@@ -1,1 +1,1 @@
-var mnemonic = "boy humor once lift race maid super expose control supply drive foil";
+var mnemonic = "almost cloth stairs about system yellow long foam mix curve will blush";

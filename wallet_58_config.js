@@ -1,1 +1,1 @@
-var mnemonic = "stereo fiber ivory drill wink extend axis clown face flight illegal turtle";
+var mnemonic = "inch wave pledge vicious dance wrist emerge scout rely play door explain";

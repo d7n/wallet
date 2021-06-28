@@ -1,1 +1,1 @@
-var mnemonic = "original voyage master coin leg arrange nut notable help memory that chalk";
+var mnemonic = "dice pulse green build deposit garage oxygen among roast raw theme ripple";

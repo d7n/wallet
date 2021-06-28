@@ -1,1 +1,1 @@
-var mnemonic = "come future core stage drift eternal surprise call host public alarm clown";
+var mnemonic = "try chimney stick claim mirror warm motion explain host leopard return energy";

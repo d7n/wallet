@@ -1,1 +1,1 @@
-var mnemonic = "mother cattle ticket afraid east diamond jeans reject gather avoid ten tree";
+var mnemonic = "spawn auction crush load result rapid hip melody dune humble power frequent";

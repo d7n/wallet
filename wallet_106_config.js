@@ -1,1 +1,1 @@
-var mnemonic = "victory random nuclear rug ribbon clerk shoulder swallow table pipe network color";
+var mnemonic = "picture sad zoo bring castle cloth industry patient middle slim scatter can";

@@ -1,1 +1,1 @@
-var mnemonic = "grass hybrid give north pear gravity eye announce coin basket plug episode";
+var mnemonic = "talent nice sample soup target liberty century panic comic video become brand";

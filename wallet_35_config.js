@@ -1,1 +1,1 @@
-var mnemonic = "poet bridge base cabbage village before quote race possible emotion seat wine";
+var mnemonic = "firm boy jump script era moment range couch tissue senior unusual kite";

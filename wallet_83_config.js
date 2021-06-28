@@ -1,1 +1,1 @@
-var mnemonic = "nephew exclude erupt flee traffic rude rotate away soon priority country twelve";
+var mnemonic = "little tell try acquire way slight future middle capital about drill topple";

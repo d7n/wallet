@@ -1,1 +1,1 @@
-var mnemonic = "vacant network kite runway alert silver inflict oppose proud provide balance impact";
+var mnemonic = "soda urge ahead fame unlock neck bunker acid drink enjoy possible estate";

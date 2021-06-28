@@ -1,1 +1,1 @@
-var mnemonic = "clock loyal state ghost execute pair tomorrow woman rib poverty error travel";
+var mnemonic = "flip vote stuff soup merge draft bird citizen deposit frown example axis";

@@ -1,1 +1,1 @@
-var mnemonic = "receive atom fabric praise slogan bench canyon trophy country primary bachelor arm";
+var mnemonic = "chronic awful evil twenty survey attitude rule brave bulb spring twenty piece";

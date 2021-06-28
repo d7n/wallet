@@ -1,1 +1,1 @@
-var mnemonic = "vessel swing expand rib burst question know envelope capable curve wage together";
+var mnemonic = "entry trap mad country vacant decrease mixture found glide cushion stock meadow";

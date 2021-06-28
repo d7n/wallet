@@ -1,1 +1,1 @@
-var mnemonic = "unknown upon crumble deputy blood object park bomb floor scrub atom swamp";
+var mnemonic = "vanish amazing brown kiwi misery any add equip boil merge hair source";

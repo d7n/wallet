@@ -1,1 +1,1 @@
-var mnemonic = "define elite october curtain engine turn horn layer void float around afraid";
+var mnemonic = "north cross miracle rebel inquiry glass exhaust door behave impose faculty census";

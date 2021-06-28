@@ -1,1 +1,1 @@
-var mnemonic = "congress fantasy system very illness opera chaos poverty wear hybrid govern dream";
+var mnemonic = "spoil collect cluster pottery mirror liberty trade coconut post month help expand";

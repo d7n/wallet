@@ -1,1 +1,1 @@
-var mnemonic = "feature iron never fortune pioneer engine wall champion random forward local add";
+var mnemonic = "huge sign seek action swift turtle destroy tiger gospel quote body identify";

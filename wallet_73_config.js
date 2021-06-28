@@ -1,1 +1,1 @@
-var mnemonic = "nut taste mountain small sleep please frozen mention sing stomach endorse when";
+var mnemonic = "fashion special issue earth tissue kit cash filter pool elegant charge seven";

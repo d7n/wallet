@@ -1,1 +1,1 @@
-var mnemonic = "crush stuff dose draft notable hurry unaware betray dentist treat goat stumble";
+var mnemonic = "fitness cactus few north edge lottery fall paper salute push dash color";

@@ -1,1 +1,1 @@
-var mnemonic = "toward feel wrist cruel stable matter way valid parrot celery pact lesson";
+var mnemonic = "couch wedding please employ morning box member buzz picnic agent monster car";

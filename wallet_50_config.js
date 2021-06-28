@@ -1,1 +1,1 @@
-var mnemonic = "reform glimpse student solve envelope check cushion feed prosper vocal plastic people";
+var mnemonic = "put heart festival profit century voyage april upper dad winter puzzle aware";

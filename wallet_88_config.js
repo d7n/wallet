@@ -1,1 +1,1 @@
-var mnemonic = "frost depend asset tragic scout wire promote margin donate stamp icon oak";
+var mnemonic = "spell fabric drill clog trial salad wagon fog cost announce fossil interest";

@@ -1,1 +1,1 @@
-var mnemonic = "various wisdom choice jazz warrior october kitchen ozone equal picnic then tornado";
+var mnemonic = "jungle awkward obey pen cat thumb bomb hen near raccoon fiction damage";

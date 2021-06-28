@@ -1,1 +1,1 @@
-var mnemonic = "bomb sudden exhaust rebuild supreme obvious reopen repair olive expire shock walk";
+var mnemonic = "dynamic attitude visit bounce chalk update addict notable electric intact next odor";

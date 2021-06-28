@@ -1,1 +1,1 @@
-var mnemonic = "name post response juice south relax jungle empower settle verb drum ankle";
+var mnemonic = "prefer finger intact husband wink water test thunder decade wrist minor police";

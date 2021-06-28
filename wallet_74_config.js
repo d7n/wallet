@@ -1,1 +1,1 @@
-var mnemonic = "betray jar hunt achieve tip promote pilot pipe wisdom forget gold choice";
+var mnemonic = "danger genius august until nurse nerve antenna cinnamon divert trigger jar scan";

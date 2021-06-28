@@ -1,1 +1,1 @@
-var mnemonic = "put entire casual insect garlic play remind elephant garlic grit toss guitar";
+var mnemonic = "atom rural upper best real infant desk relief brisk scan nice media";

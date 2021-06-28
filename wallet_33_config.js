@@ -1,1 +1,1 @@
-var mnemonic = "noble right velvet during always rebel awkward merge dumb bind wire tilt";
+var mnemonic = "material feature capable ethics vanish poverty arrest winner escape trade resource annual";

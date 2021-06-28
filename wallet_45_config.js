@@ -1,1 +1,1 @@
-var mnemonic = "excite immense high skill shoot moon leaf castle stage punch funny attract";
+var mnemonic = "mean refuse panda galaxy key pepper truth dirt grass skin frost horror";

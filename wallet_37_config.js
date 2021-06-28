@@ -1,1 +1,1 @@
-var mnemonic = "impulse net begin road speak credit foster air disorder coil canoe firm";
+var mnemonic = "original cash grid ladder carbon game transfer elder unfold until flash marine";

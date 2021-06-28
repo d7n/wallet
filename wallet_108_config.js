@@ -1,1 +1,1 @@
-var mnemonic = "foil maze draft plastic popular bicycle rare long script kitten legal whisper";
+var mnemonic = "laugh other crisp seminar despair about interest abandon shed surge tunnel submit";

@@ -1,1 +1,1 @@
-var mnemonic = "dynamic square attend abstract annual green angle peace river produce equip awake";
+var mnemonic = "harvest fantasy album shoe decade tunnel crystal main update flavor nuclear segment";

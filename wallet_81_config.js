@@ -1,1 +1,1 @@
-var mnemonic = "text rocket number deny indicate say guilt display fiber prison humor dial";
+var mnemonic = "visit crumble puppy kitten banana current office rebel primary flip width fall";

@@ -1,1 +1,1 @@
-var mnemonic = "observe flash tragic settle web recycle excite peanut skull weekend hip problem";
+var mnemonic = "bleak discover bridge enjoy goat three orphan zone just music kiss obey";

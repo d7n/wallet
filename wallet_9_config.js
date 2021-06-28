@@ -1,1 +1,1 @@
-var mnemonic = "list village creek inside between escape cat antique host wait kind long";
+var mnemonic = "cool knife rate test collect coach save disease mosquito diesel anger produce";

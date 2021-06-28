@@ -1,1 +1,1 @@
-var mnemonic = "round boy wolf rather kangaroo ranch right palm member wasp parent jeans";
+var mnemonic = "gadget party hamster hungry egg surface diary canyon decide frog magnet welcome";

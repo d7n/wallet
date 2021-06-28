@@ -1,1 +1,1 @@
-var mnemonic = "duty frown change funny exchange tomato disagree spy oil puppy quality month";
+var mnemonic = "wreck possible mesh snack scare burst earth ivory clutch wage engine chapter";

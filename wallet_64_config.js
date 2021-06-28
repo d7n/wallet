@@ -1,1 +1,1 @@
-var mnemonic = "code man diamond cloud buzz include blind like link weekend multiply patient";
+var mnemonic = "nuclear define knock silver side blur reunion rack pen spare lobster river";

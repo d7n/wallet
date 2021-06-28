@@ -1,1 +1,1 @@
-var mnemonic = "utility phone abandon roast victory invest wrong cabin spawn mercy visit long";
+var mnemonic = "help suit hollow seven patch three onion expire real film dry deputy";

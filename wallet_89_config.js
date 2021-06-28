@@ -1,1 +1,1 @@
-var mnemonic = "denial soap vacuum valid matter real visa march element priority century rib";
+var mnemonic = "alcohol radar round salt work february calm manual path pull fee later";

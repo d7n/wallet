@@ -1,1 +1,1 @@
-var mnemonic = "kiwi vocal aspect novel wrestle flame bread guard credit jealous various target";
+var mnemonic = "oak tornado sketch plastic mammal story island phone foster rude accuse vote";

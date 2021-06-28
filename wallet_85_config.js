@@ -1,1 +1,1 @@
-var mnemonic = "music purpose special essay pen exit sail chalk addict stumble debris tenant";
+var mnemonic = "average around fantasy legal friend sight boost cup roast interest boy stem";

@@ -1,1 +1,1 @@
-var mnemonic = "mother general lake input network armed critic present jaguar tribe decade verify";
+var mnemonic = "limit citizen royal marble window skill shallow finger front vibrant gold then";

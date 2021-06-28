@@ -1,1 +1,1 @@
-var mnemonic = "illegal sea price real gallery cute try rough permit cycle have patch";
+var mnemonic = "memory approve brisk elder message plastic romance theme army stick yellow coffee";

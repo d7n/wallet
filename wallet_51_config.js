@@ -1,1 +1,1 @@
-var mnemonic = "diary catalog episode pigeon exotic opera idea potato little nephew man retire";
+var mnemonic = "fever parade frequent trash vapor nominee pill meat shell cash want silly";

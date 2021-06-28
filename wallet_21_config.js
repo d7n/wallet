@@ -1,1 +1,1 @@
-var mnemonic = "vapor visual beach ocean destroy spawn chef mystery tell marble way biology";
+var mnemonic = "certain acoustic craft adult height sad color thought draw coast ball pond";

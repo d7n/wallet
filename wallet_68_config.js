@@ -1,1 +1,1 @@
-var mnemonic = "alarm tone horse wasp habit call domain inhale connect spread swallow rule";
+var mnemonic = "shy lamp host immense excuse wrist vapor net prize measure rack work";

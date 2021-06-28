@@ -1,1 +1,1 @@
-var mnemonic = "curtain cliff relax multiply element when genre velvet venue badge exist abuse";
+var mnemonic = "season legend spirit rain fabric end amused goose poem face acquire rice";

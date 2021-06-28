@@ -1,1 +1,1 @@
-var mnemonic = "observe pilot usual lady ramp olive capable ski skill siege nasty quote";
+var mnemonic = "trophy tube horror theme antique supply trust burger book various embark thing";

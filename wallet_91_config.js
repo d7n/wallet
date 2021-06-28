@@ -1,1 +1,1 @@
-var mnemonic = "display basket already inflict cancel shiver coyote push wash elephant myth furnace";
+var mnemonic = "shiver subway force educate area scrub dumb goat myself loud cruise mouse";

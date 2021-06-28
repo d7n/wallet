@@ -1,1 +1,1 @@
-var mnemonic = "grant element siren ill wrestle sure leaf grant crazy print heavy slender";
+var mnemonic = "size lumber link kidney mouse eagle foam hungry margin heart inmate narrow";

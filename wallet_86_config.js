@@ -1,1 +1,1 @@
-var mnemonic = "little ladder silver exotic seek match one action bar check lemon prepare";
+var mnemonic = "sheriff expand ready banner correct during napkin art shock concert issue crazy";

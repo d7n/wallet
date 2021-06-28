@@ -1,1 +1,1 @@
-var mnemonic = "hood umbrella scan collect student furnace predict float strong pink arrow practice";
+var mnemonic = "settle train arrow speed belt coyote kitchen civil person prevent soda despair";

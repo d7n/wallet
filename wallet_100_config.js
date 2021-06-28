@@ -1,1 +1,1 @@
-var mnemonic = "execute tumble taxi property blood pigeon success faculty success segment shallow divorce";
+var mnemonic = "taxi crush risk tongue unhappy august sting vital stomach weird enact breeze";

@@ -1,1 +1,1 @@
-var mnemonic = "cover phrase wrist mixture amazing soon atom tree increase sphere bitter display";
+var mnemonic = "stadium spike visit depend clock limit shock what pipe treat athlete since";

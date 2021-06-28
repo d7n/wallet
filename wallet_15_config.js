@@ -1,1 +1,1 @@
-var mnemonic = "stem web field category barely ticket term find law speak bread staff";
+var mnemonic = "drama morning father object tobacco chair butter mountain evolve foot remember coconut";

@@ -1,1 +1,1 @@
-var mnemonic = "pass remember scene wasp ramp memory vapor ripple general gold forest script";
+var mnemonic = "intact clog cheap sound chair device retire equip pyramid follow dragon click";

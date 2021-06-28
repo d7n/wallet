@@ -1,1 +1,1 @@
-var mnemonic = "seek social sleep dilemma tape state sleep disagree october local cave chimney";
+var mnemonic = "tooth soldier unfair pear have general armor ramp gap truly mask play";

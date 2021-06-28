@@ -1,1 +1,1 @@
-var mnemonic = "vast zebra fame pole civil cattle you alter maximum certain nice vessel";
+var mnemonic = "rebuild bulk turkey clarify plastic peasant trick property champion proud gas jewel";

@@ -1,1 +1,1 @@
-var mnemonic = "erupt defy poverty usage quiz wife cactus measure weasel express dwarf erupt";
+var mnemonic = "inform grief opinion sail drill mixture present erosion able danger logic that";

@@ -1,1 +1,1 @@
-var mnemonic = "because toe birth firm gaze love orange summer discover often team spirit";
+var mnemonic = "owner actor stem smile sun water oxygen hour off bargain base punch";

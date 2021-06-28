@@ -1,1 +1,1 @@
-var mnemonic = "jazz disorder mushroom angle stadium tired three helmet insect history cabbage pumpkin";
+var mnemonic = "issue slogan hobby tomorrow south truly identify pledge mountain moon giggle spoon";

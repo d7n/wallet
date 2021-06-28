@@ -1,1 +1,1 @@
-var mnemonic = "connect canvas tennis basket twenty quarter stamp arctic mobile split social wide";
+var mnemonic = "parent fog sick labor galaxy scrub vague crane remove erupt tumble focus";

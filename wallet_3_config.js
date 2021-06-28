@@ -1,1 +1,1 @@
-var mnemonic = "leader meadow drive fault unknown volcano goose giraffe wreck crime mirror witness";
+var mnemonic = "ginger minimum pill tower shadow venue quality together orbit trip valley dance";

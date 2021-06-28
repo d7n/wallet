@@ -1,1 +1,1 @@
-var mnemonic = "assume friend banner only essence confirm space obtain nasty machine tiny pass";
+var mnemonic = "hope consider middle act ritual twelve ice antique puzzle faint thought thumb";

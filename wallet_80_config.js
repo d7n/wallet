@@ -1,1 +1,1 @@
-var mnemonic = "salmon cricket couch judge story team torch chief bubble legal correct camp";
+var mnemonic = "manage pumpkin blame faith cruel divide kid lion try path canyon question";

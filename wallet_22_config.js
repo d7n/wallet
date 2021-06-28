@@ -1,1 +1,1 @@
-var mnemonic = "best hospital match turkey smile pudding unfold tiger photo clown trust abuse";
+var mnemonic = "sentence immune under road rubber correct recall talk issue next broccoli frown";

@@ -1,1 +1,1 @@
-var mnemonic = "inch chapter mail material portion soda century sniff trick crystal urge wide";
+var mnemonic = "song crawl aim tackle scatter license mesh team solve there celery reveal";

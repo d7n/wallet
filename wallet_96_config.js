@@ -1,1 +1,1 @@
-var mnemonic = "cricket equip feel youth gallery forward good butter network will lock mail";
+var mnemonic = "utility range tunnel include sell advice wise derive civil barely bleak dog";

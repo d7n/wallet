@@ -1,1 +1,1 @@
-var mnemonic = "food off catalog ready raw cat lecture mansion solve resist protect pudding";
+var mnemonic = "sugar lobster dragon globe acoustic coil foster blur heavy annual marriage any";

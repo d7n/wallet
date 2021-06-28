@@ -1,1 +1,1 @@
-var mnemonic = "hello strong test rigid attend among box leader spin shoe survey amount";
+var mnemonic = "track program alcohol question notice witness tattoo gown usage produce stomach exercise";

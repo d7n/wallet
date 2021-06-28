@@ -1,1 +1,1 @@
-var mnemonic = "pulse coach torch idea parade grape blanket pink stool drama scale bacon";
+var mnemonic = "urban logic taxi ten floor caught fire feed river session grow bicycle";

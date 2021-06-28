@@ -1,1 +1,1 @@
-var mnemonic = "just rifle smile project tenant north silk engage carpet adult arch anger";
+var mnemonic = "grace lava save blur fatigue pen chair fade panda love live scorpion";

@@ -1,1 +1,1 @@
-var mnemonic = "another circle hello link thought close earth again manage cradle film obvious";
+var mnemonic = "detect nuclear swift across race skate mystery ride sauce crystal corn rigid";

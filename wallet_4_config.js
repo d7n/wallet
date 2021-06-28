@@ -1,1 +1,1 @@
-var mnemonic = "dentist magnet double pen response chair foil garden detect goddess choose inside";
+var mnemonic = "tragic spin fame cricket sniff post game chapter embrace convince crime priority";

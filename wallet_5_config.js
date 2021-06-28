@@ -1,1 +1,1 @@
-var mnemonic = "grace video gold coffee sock remember arrest project urge cross barrel tank";
+var mnemonic = "fan verify parent drink purpose town fun soon smooth aisle doctor peace";

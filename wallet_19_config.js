@@ -1,1 +1,1 @@
-var mnemonic = "dawn liberty capable rug dash black town spider firm cart sister virus";
+var mnemonic = "rare hundred barely slush tissue clever bracket wild check review oval snake";

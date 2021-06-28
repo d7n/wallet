@@ -1,1 +1,1 @@
-var mnemonic = "bomb reject gadget uncover angle tag letter judge sea convince start spatial";
+var mnemonic = "two rule child arch thing jump powder elephant orchard display cliff lens";

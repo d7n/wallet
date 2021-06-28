@@ -1,1 +1,1 @@
-var mnemonic = "smooth disagree distance panda object intact auto wire wheel error cinnamon client";
+var mnemonic = "infant assume raccoon ring coast screen top item fog struggle pioneer under";

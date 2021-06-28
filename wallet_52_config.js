@@ -1,1 +1,1 @@
-var mnemonic = "kit assault flight swap when man liar bring flip nominee addict venue";
+var mnemonic = "duck door six trial rubber cereal true cake chief planet wood jeans";

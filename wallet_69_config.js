@@ -1,1 +1,1 @@
-var mnemonic = "woman boat render truth bone push pen borrow prefer genius odor tackle";
+var mnemonic = "deal ordinary title news swim call shuffle social pink embark behave glare";

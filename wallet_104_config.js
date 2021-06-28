@@ -1,1 +1,1 @@
-var mnemonic = "trumpet slice blind wealth often chalk access life grant purity axis exhaust";
+var mnemonic = "neck sort bless total safe swing enroll stuff habit next ring depart";
